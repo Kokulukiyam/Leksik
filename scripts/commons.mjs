@@ -105,7 +105,11 @@ function candidat(page) {
 
 async function main() {
   const termes = JSON.parse(await fs.readFile(path.join(ROOT, "scripts", "termes-candidats.json"), "utf8"));
-  const choisis = filtre.length ? termes.filter((t) => filtre.includes(t.id)) : termes;
+  // Les termes les plus courants sur un chantier d'abord (priorité 1, puis 2, puis 3).
+  const choisis = (filtre.length ? termes.filter((t) => filtre.includes(t.id)) : termes)
+    .map((t, i) => ({ t, i }))
+    .sort((a, b) => (a.t.priorite ?? 0) - (b.t.priorite ?? 0) || a.i - b.i)
+    .map(({ t }) => t);
   for (const terme of choisis) {
     const dossier = path.join(SORTIE, terme.id);
     // --suite : seconde recherche avec « requetes2 », candidates ajoutées après celles déjà téléchargées.

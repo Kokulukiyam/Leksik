@@ -1,0 +1,2077 @@
+[
+ {
+  "id": "porte",
+  "terme": "la porte",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Ouvrage mobile, en bois, métal ou verre, qui ferme une baie de passage dans un mur ou une cloison.",
+  "priorite": 1,
+  "requetes": [
+   "porte intérieure bois fermée",
+   "wooden door closed",
+   "door"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "porte-d-entree",
+  "terme": "la porte d'entrée",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte principale qui donne accès depuis l'extérieur à une maison ou à un logement, souvent plus robuste et décorée.",
+  "priorite": 1,
+  "requetes": [
+   "porte d'entrée maison",
+   "house front door",
+   "front door entrance"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-isoplane",
+  "terme": "la porte isoplane",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte intérieure légère et lisse, faite de deux panneaux minces collés sur un cadre à âme alvéolaire.",
+  "priorite": 2,
+  "requetes": [
+   "flush door interior",
+   "porte isoplane",
+   "plain flush door"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-a-panneaux",
+  "terme": "la porte à panneaux",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte dont le cadre en bois assemblé encadre plusieurs panneaux en creux ou en relief.",
+  "priorite": 2,
+  "requetes": [
+   "panelled door wood",
+   "porte à panneaux bois",
+   "raised panel door"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-vitree",
+  "terme": "la porte vitrée",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte dont une grande partie du vantail est occupée par un vitrage.",
+  "priorite": 1,
+  "requetes": [
+   "glazed door",
+   "porte vitrée",
+   "glass panel door"
+  ],
+  "incompatibles": [
+   "porte",
+   "porte-fenetre"
+  ]
+ },
+ {
+  "id": "porte-fenetre",
+  "terme": "la porte-fenêtre",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fenêtre descendant jusqu'au sol qui sert aussi de porte vers un balcon, une terrasse ou un jardin.",
+  "priorite": 1,
+  "requetes": [
+   "French window balcony",
+   "porte-fenêtre",
+   "french doors garden"
+  ],
+  "incompatibles": [
+   "porte-vitree",
+   "fenetre"
+  ]
+ },
+ {
+  "id": "porte-a-deux-vantaux",
+  "terme": "la porte à deux vantaux",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte formée de deux battants qui s'ouvrent depuis le milieu de la baie.",
+  "priorite": 1,
+  "requetes": [
+   "double door wooden",
+   "porte double vantaux",
+   "double leaf door"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-coulissante",
+  "terme": "la porte coulissante",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte dont le vantail glisse latéralement sur un rail, parallèlement au mur.",
+  "priorite": 2,
+  "requetes": [
+   "sliding door interior rail",
+   "porte coulissante",
+   "sliding door"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-a-galandage",
+  "terme": "la porte à galandage",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte coulissante qui s'efface entièrement dans l'épaisseur de la cloison.",
+  "priorite": 3,
+  "requetes": [
+   "pocket door",
+   "porte à galandage",
+   "pocket sliding door"
+  ],
+  "incompatibles": [
+   "porte-coulissante"
+  ]
+ },
+ {
+  "id": "porte-accordeon",
+  "terme": "la porte accordéon",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte faite de panneaux étroits articulés qui se replient les uns sur les autres en s'ouvrant.",
+  "priorite": 3,
+  "requetes": [
+   "folding door accordion",
+   "porte accordéon",
+   "bifold door"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-va-et-vient",
+  "terme": "la porte va-et-vient",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte montée sur pivots ou charnières doubles qui s'ouvre dans les deux sens et revient seule en position fermée.",
+  "priorite": 3,
+  "requetes": [
+   "swing door double acting",
+   "porte va-et-vient",
+   "saloon doors"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-a-tambour",
+  "terme": "la porte à tambour",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte d'entrée formée de vantaux vitrés qui tournent autour d'un axe central dans un cylindre.",
+  "priorite": 3,
+  "requetes": [
+   "incategory:\"Revolving doors\"",
+   "porte à tambour",
+   "revolving door"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-automatique",
+  "terme": "la porte automatique",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte vitrée, le plus souvent coulissante, qui s'ouvre seule à l'approche d'une personne grâce à un détecteur.",
+  "priorite": 2,
+  "requetes": [
+   "automatic sliding door shop entrance",
+   "porte automatique",
+   "automatic door"
+  ],
+  "incompatibles": [
+   "porte-coulissante",
+   "porte-vitree"
+  ]
+ },
+ {
+  "id": "porte-metallique",
+  "terme": "la porte métallique",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte en tôle d'acier sur cadre en tubes ou profilés, très utilisée pour les entrées et locaux techniques.",
+  "priorite": 1,
+  "requetes": [
+   "steel door metal",
+   "porte métallique tôle",
+   "metal door"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-blindee",
+  "terme": "la porte blindée",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte d'entrée renforcée par une tôle d'acier et une serrure multipoint pour résister à l'effraction.",
+  "priorite": 2,
+  "requetes": [
+   "armored door apartment",
+   "porte blindée",
+   "security door"
+  ],
+  "incompatibles": [
+   "porte-d-entree",
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-coupe-feu",
+  "terme": "la porte coupe-feu",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte qui résiste au feu pendant une durée donnée, munie d'un ferme-porte et souvent d'une plaque signalétique.",
+  "priorite": 2,
+  "requetes": [
+   "fire door sign",
+   "porte coupe-feu",
+   "fire door"
+  ],
+  "incompatibles": [
+   "porte",
+   "porte-metallique"
+  ]
+ },
+ {
+  "id": "porte-persiennee",
+  "terme": "la porte persiennée",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte dont le vantail est garni de lames inclinées qui laissent passer l'air, courante sur les placards et locaux techniques.",
+  "priorite": 3,
+  "requetes": [
+   "louvered door",
+   "porte persiennée",
+   "louvre door"
+  ],
+  "incompatibles": [
+   "porte",
+   "persienne"
+  ]
+ },
+ {
+  "id": "porte-de-placard",
+  "terme": "la porte de placard",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte battante ou coulissante qui ferme un placard ou un dressing.",
+  "priorite": 2,
+  "requetes": [
+   "closet door sliding wardrobe",
+   "porte de placard",
+   "closet doors"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "porte-cochere",
+  "terme": "la porte cochère",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Grande porte à deux vantaux, assez haute et large pour laisser passer une voiture vers une cour.",
+  "priorite": 3,
+  "requetes": [
+   "porte cochère",
+   "carriage entrance door",
+   "carriage door courtyard"
+  ],
+  "incompatibles": [
+   "porte-a-deux-vantaux"
+  ]
+ },
+ {
+  "id": "porte-basculante",
+  "terme": "la porte basculante",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte de garage d'un seul panneau qui pivote vers le haut pour se loger sous le plafond.",
+  "priorite": 2,
+  "requetes": [
+   "up and over garage door",
+   "porte de garage basculante",
+   "garage door"
+  ],
+  "incompatibles": [
+   "porte-sectionnelle"
+  ]
+ },
+ {
+  "id": "porte-sectionnelle",
+  "terme": "la porte sectionnelle",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte de garage ou de hangar faite de panneaux horizontaux articulés qui remontent sur des rails au plafond.",
+  "priorite": 3,
+  "requetes": [
+   "sectional garage door",
+   "porte sectionnelle",
+   "industrial sectional door"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "rideau-metallique",
+  "terme": "le rideau métallique",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fermeture de devanture faite de lames d'acier qui s'enroulent dans un coffre au-dessus de l'ouverture.",
+  "priorite": 1,
+  "requetes": [
+   "roller shutter shop closed",
+   "rideau métallique magasin",
+   "shop shutter"
+  ],
+  "incompatibles": [
+   "volet-roulant"
+  ]
+ },
+ {
+  "id": "fenetre",
+  "terme": "la fenêtre",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Ouvrage vitré, fixe ou ouvrant, qui ferme une baie pour donner du jour et de l'air.",
+  "priorite": 1,
+  "requetes": [
+   "window frame glass",
+   "fenêtre",
+   "window"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "fenetre-a-la-francaise",
+  "terme": "la fenêtre à la française",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fenêtre dont les vantaux pivotent sur un côté vertical et s'ouvrent vers l'intérieur.",
+  "priorite": 2,
+  "requetes": [
+   "casement window open inward",
+   "fenêtre à la française ouverte",
+   "casement window"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "fenetre-a-soufflet",
+  "terme": "la fenêtre à soufflet",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fenêtre dont le vantail pivote autour de son côté bas et s'ouvre vers l'intérieur par le haut.",
+  "priorite": 2,
+  "requetes": [
+   "hopper window open",
+   "fenêtre à soufflet",
+   "bottom hung window open"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "fenetre-oscillo-battante",
+  "terme": "la fenêtre oscillo-battante",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fenêtre qui s'ouvre soit à la française, soit en soufflet selon la position de la poignée.",
+  "priorite": 2,
+  "requetes": [
+   "tilt and turn window",
+   "fenêtre oscillo-battante",
+   "tilt turn window open"
+  ],
+  "incompatibles": [
+   "fenetre",
+   "fenetre-a-soufflet",
+   "fenetre-a-la-francaise"
+  ]
+ },
+ {
+  "id": "fenetre-coulissante",
+  "terme": "la fenêtre coulissante",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fenêtre dont les vantaux glissent horizontalement l'un devant l'autre sur des rails, très courante en aluminium.",
+  "priorite": 1,
+  "requetes": [
+   "sliding window aluminium",
+   "fenêtre coulissante aluminium",
+   "sliding window"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "fenetre-a-guillotine",
+  "terme": "la fenêtre à guillotine",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fenêtre dont les châssis glissent verticalement l'un devant l'autre.",
+  "priorite": 3,
+  "requetes": [
+   "incategory:\"Sash windows\"",
+   "fenêtre à guillotine",
+   "sash window"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "fenetre-pivotante",
+  "terme": "la fenêtre pivotante",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fenêtre dont le vantail tourne autour d'un axe central, horizontal ou vertical.",
+  "priorite": 3,
+  "requetes": [
+   "pivot window open",
+   "fenêtre pivotante",
+   "centre pivot window"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "fenetre-a-l-italienne",
+  "terme": "la fenêtre à l'italienne",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fenêtre dont le vantail s'ouvre vers l'extérieur en basculant par le bas, articulé en partie haute.",
+  "priorite": 3,
+  "requetes": [
+   "awning window open",
+   "fenêtre à l'italienne",
+   "top hung window open outward"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "chassis-fixe",
+  "terme": "le châssis fixe",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Partie vitrée d'une menuiserie qui ne s'ouvre pas.",
+  "priorite": 2,
+  "requetes": [
+   "fixed window glazing",
+   "châssis fixe vitré",
+   "fixed pane window"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "naco",
+  "terme": "le naco",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fenêtre à lames de verre parallèles et orientables, réglées par une manivelle ou un levier, appelée naco en Afrique de l'Ouest (fenêtre à jalousies).",
+  "priorite": 1,
+  "requetes": [
+   "louvre window glass",
+   "jalousie window glass louvres",
+   "naco fenêtre"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "menuiserie-aluminium",
+  "terme": "la menuiserie aluminium",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte ou fenêtre dont le cadre et les vantaux sont faits de profilés en aluminium, souvent coulissants.",
+  "priorite": 1,
+  "requetes": [
+   "aluminium window frame",
+   "menuiserie aluminium",
+   "aluminum windows"
+  ],
+  "incompatibles": [
+   "fenetre",
+   "fenetre-coulissante"
+  ]
+ },
+ {
+  "id": "menuiserie-pvc",
+  "terme": "la menuiserie PVC",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Porte ou fenêtre dont le cadre est fait de profilés en PVC, généralement blancs.",
+  "priorite": 3,
+  "requetes": [
+   "PVC window white",
+   "fenêtre PVC",
+   "uPVC window"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "volet",
+  "terme": "le volet",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Panneau mobile placé devant une fenêtre pour la protéger, l'occulter ou la sécuriser.",
+  "priorite": 1,
+  "requetes": [
+   "window shutters",
+   "volets fenêtre",
+   "shutters"
+  ],
+  "incompatibles": [
+   "persienne"
+  ]
+ },
+ {
+  "id": "volet-battant",
+  "terme": "le volet battant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Volet à un ou deux vantaux qui pivotent sur des gonds fixés au mur ou au tableau.",
+  "priorite": 1,
+  "requetes": [
+   "hinged shutters open",
+   "volets battants",
+   "wooden shutters"
+  ],
+  "incompatibles": [
+   "volet",
+   "persienne"
+  ]
+ },
+ {
+  "id": "volet-roulant",
+  "terme": "le volet roulant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Volet fait de lames horizontales articulées qui s'enroulent dans un coffre au-dessus de la fenêtre.",
+  "priorite": 1,
+  "requetes": [
+   "roller shutter window",
+   "volet roulant",
+   "rolling shutter"
+  ],
+  "incompatibles": [
+   "volet"
+  ]
+ },
+ {
+  "id": "coffre-de-volet-roulant",
+  "terme": "le coffre de volet roulant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Caisson placé en haut de la baie, dans lequel s'enroule le tablier d'un volet roulant.",
+  "priorite": 2,
+  "requetes": [
+   "roller shutter box",
+   "coffre volet roulant",
+   "shutter box window"
+  ],
+  "incompatibles": [
+   "volet-roulant"
+  ]
+ },
+ {
+  "id": "volet-coulissant",
+  "terme": "le volet coulissant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Volet qui glisse sur un rail le long de la façade au lieu de pivoter.",
+  "priorite": 3,
+  "requetes": [
+   "sliding shutters facade",
+   "volet coulissant",
+   "sliding shutter"
+  ],
+  "incompatibles": [
+   "volet"
+  ]
+ },
+ {
+  "id": "volet-pliant",
+  "terme": "le volet pliant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Volet en plusieurs feuilles articulées qui se replient dans l'épaisseur du tableau de la baie.",
+  "priorite": 3,
+  "requetes": [
+   "folding shutters",
+   "volets pliants",
+   "bifold shutters window"
+  ],
+  "incompatibles": [
+   "volet",
+   "persienne"
+  ]
+ },
+ {
+  "id": "volet-a-barres-et-echarpe",
+  "terme": "le volet à barres et écharpe",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Volet en planches verticales tenues par deux barres horizontales et une barre oblique formant un Z.",
+  "priorite": 3,
+  "requetes": [
+   "volet bois barres écharpe",
+   "Z brace shutter",
+   "wooden shutter Z"
+  ],
+  "incompatibles": [
+   "volet-battant",
+   "volet"
+  ]
+ },
+ {
+  "id": "arret-de-volet",
+  "terme": "l'arrêt de volet",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Pièce métallique fixée au mur qui maintient un volet battant ouvert contre la façade.",
+  "priorite": 3,
+  "requetes": [
+   "shutter dog",
+   "arrêt de volet",
+   "tête de bergère volet"
+  ],
+  "incompatibles": [
+   "volet-battant"
+  ]
+ },
+ {
+  "id": "espagnolette",
+  "terme": "l'espagnolette",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Tige métallique verticale manœuvrée par une poignée, dont les crochets aux extrémités ferment une fenêtre ou des volets.",
+  "priorite": 3,
+  "requetes": [
+   "espagnolette",
+   "espagnolette bolt window",
+   "espagnolette fenêtre ancienne"
+  ],
+  "incompatibles": [
+   "cremone"
+  ]
+ },
+ {
+  "id": "cremone",
+  "terme": "la crémone",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Ferrure de fermeture de fenêtre dont la poignée fait coulisser deux tringles qui s'engagent en haut et en bas du dormant.",
+  "priorite": 2,
+  "requetes": [
+   "crémone fenêtre",
+   "cremone bolt",
+   "window cremone bolt handle"
+  ],
+  "incompatibles": [
+   "poignee-de-fenetre"
+  ]
+ },
+ {
+  "id": "portail-metallique",
+  "terme": "le portail métallique",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Grande porte extérieure en acier, pleine ou ajourée, qui ferme l'entrée d'une parcelle.",
+  "priorite": 1,
+  "requetes": [
+   "metal gate house",
+   "portail métallique",
+   "steel gate"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "portail-coulissant",
+  "terme": "le portail coulissant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Portail d'un seul vantail qui glisse latéralement le long de la clôture, sur un rail au sol.",
+  "priorite": 1,
+  "requetes": [
+   "sliding gate",
+   "portail coulissant",
+   "sliding gate rail"
+  ],
+  "incompatibles": [
+   "portail-metallique",
+   "rail-de-portail"
+  ]
+ },
+ {
+  "id": "portail-battant",
+  "terme": "le portail battant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Portail à un ou deux vantaux qui pivotent sur des gonds fixés aux piliers.",
+  "priorite": 1,
+  "requetes": [
+   "swing gate double",
+   "portail battant deux vantaux",
+   "metal swing gate"
+  ],
+  "incompatibles": [
+   "portail-metallique"
+  ]
+ },
+ {
+  "id": "portillon",
+  "terme": "le portillon",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Petite porte de clôture réservée aux piétons, souvent à côté du portail.",
+  "priorite": 2,
+  "requetes": [
+   "garden gate small",
+   "portillon",
+   "pedestrian gate"
+  ],
+  "incompatibles": [
+   "portail-metallique",
+   "portail-battant"
+  ]
+ },
+ {
+  "id": "rail-de-portail",
+  "terme": "le rail de portail",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Profilé scellé au sol sur lequel roulent les roues d'un portail coulissant.",
+  "priorite": 3,
+  "requetes": [
+   "sliding gate track ground",
+   "rail portail coulissant",
+   "gate rail wheel"
+  ],
+  "incompatibles": [
+   "portail-coulissant"
+  ]
+ },
+ {
+  "id": "grille-de-defense",
+  "terme": "la grille de défense",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Grille en barreaux ou en fer forgé fixée devant une fenêtre pour empêcher l'effraction.",
+  "priorite": 1,
+  "requetes": [
+   "window security bars",
+   "grille de défense fenêtre",
+   "window grille iron"
+  ],
+  "incompatibles": [
+   "barreaudage",
+   "fenetre"
+  ]
+ },
+ {
+  "id": "barreaudage",
+  "terme": "le barreaudage",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Ensemble de barreaux métalliques parallèles qui ferment une ouverture ou forment une grille.",
+  "priorite": 2,
+  "requetes": [
+   "iron bars window",
+   "barreaudage",
+   "metal bars"
+  ],
+  "incompatibles": [
+   "grille-de-defense"
+  ]
+ },
+ {
+  "id": "grille-extensible",
+  "terme": "la grille extensible",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Grille métallique articulée en croisillons qui se replie en accordéon sur le côté d'une porte ou d'une vitrine.",
+  "priorite": 3,
+  "requetes": [
+   "collapsible gate",
+   "grille extensible",
+   "scissor gate shop"
+  ],
+  "incompatibles": [
+   "rideau-metallique"
+  ]
+ },
+ {
+  "id": "moustiquaire",
+  "terme": "la moustiquaire",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Toile à mailles fines tendue sur un cadre devant une fenêtre ou une porte pour arrêter les moustiques.",
+  "priorite": 1,
+  "requetes": [
+   "insect screen window",
+   "moustiquaire fenêtre",
+   "window screen mesh"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "dormant",
+  "terme": "le dormant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Cadre fixe d'une porte ou d'une fenêtre, scellé ou fixé dans la maçonnerie, qui reçoit les parties ouvrantes.",
+  "priorite": 2,
+  "requetes": [
+   "window frame installation",
+   "dormant fenêtre",
+   "window frame outer"
+  ],
+  "incompatibles": [
+   "huisserie"
+  ]
+ },
+ {
+  "id": "ouvrant",
+  "terme": "l'ouvrant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Partie mobile d'une fenêtre, qui porte le vitrage et s'ouvre par rapport au dormant.",
+  "priorite": 2,
+  "requetes": [
+   "open window sash",
+   "ouvrant fenêtre",
+   "casement sash open"
+  ],
+  "incompatibles": [
+   "vantail"
+  ]
+ },
+ {
+  "id": "vantail",
+  "terme": "le vantail",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Battant d'une porte, d'une fenêtre ou d'un volet ; une porte double a deux vantaux.",
+  "priorite": 2,
+  "requetes": [
+   "door leaf open",
+   "vantail porte",
+   "door leaf"
+  ],
+  "incompatibles": [
+   "ouvrant"
+  ]
+ },
+ {
+  "id": "huisserie",
+  "terme": "l'huisserie",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Cadre en bois ou en métal qui encadre l'ouverture d'une porte et sur lequel elle est ferrée, posé avant les enduits sur chantier.",
+  "priorite": 2,
+  "requetes": [
+   "steel door frame installed wall",
+   "huisserie métallique",
+   "door frame"
+  ],
+  "incompatibles": [
+   "dormant",
+   "chambranle"
+  ]
+ },
+ {
+  "id": "seuil-de-porte",
+  "terme": "le seuil de porte",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Pièce horizontale au bas d'une porte, en pierre, bois ou métal, qui marque le passage au sol.",
+  "priorite": 2,
+  "requetes": [
+   "door threshold",
+   "seuil de porte",
+   "threshold strip"
+  ],
+  "incompatibles": [
+   "porte"
+  ]
+ },
+ {
+  "id": "piece-d-appui",
+  "terme": "la pièce d'appui",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Traverse basse du dormant d'une fenêtre, posée sur l'appui de maçonnerie.",
+  "priorite": 3,
+  "requetes": [
+   "window frame sill profile",
+   "pièce d'appui fenêtre",
+   "bottom rail window frame"
+  ],
+  "incompatibles": [
+   "appui-de-fenetre",
+   "dormant"
+  ]
+ },
+ {
+  "id": "jet-d-eau",
+  "terme": "le jet d'eau",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Profil saillant fixé au bas de l'ouvrant d'une fenêtre ou d'une porte pour rejeter l'eau de pluie vers l'extérieur.",
+  "priorite": 3,
+  "requetes": [
+   "weatherboard door bottom",
+   "jet d'eau fenêtre",
+   "door weather bar"
+  ],
+  "incompatibles": [
+   "piece-d-appui"
+  ]
+ },
+ {
+  "id": "petit-bois",
+  "terme": "le petit-bois",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Baguette de bois ou de métal qui divise le vitrage d'une fenêtre en carreaux.",
+  "priorite": 2,
+  "requetes": [
+   "window muntins",
+   "petits-bois fenêtre",
+   "glazing bars window panes"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "feuillure",
+  "terme": "la feuillure",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Entaille en angle sur le bord d'un cadre ou d'un vantail, dans laquelle vient se loger l'autre pièce ou le vitrage.",
+  "priorite": 3,
+  "requetes": [
+   "rebate door frame",
+   "feuillure",
+   "rabbet joint wood frame"
+  ],
+  "incompatibles": [
+   "dormant"
+  ]
+ },
+ {
+  "id": "hublot-de-porte",
+  "terme": "le hublot de porte",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Petite ouverture vitrée, ronde ou rectangulaire, percée dans un vantail de porte.",
+  "priorite": 3,
+  "requetes": [
+   "door vision panel round",
+   "hublot porte",
+   "porthole door window"
+  ],
+  "incompatibles": [
+   "porte-va-et-vient",
+   "porte-vitree"
+  ]
+ },
+ {
+  "id": "profile-aluminium",
+  "terme": "le profilé aluminium",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Barre d'aluminium extrudée de section creuse, utilisée pour fabriquer cadres et vantaux de menuiserie.",
+  "priorite": 1,
+  "requetes": [
+   "aluminium profiles extrusion",
+   "profilés aluminium menuiserie",
+   "aluminium extrusion profile"
+  ],
+  "incompatibles": [
+   "menuiserie-aluminium"
+  ]
+ },
+ {
+  "id": "double-vitrage",
+  "terme": "le double vitrage",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Vitrage fait de deux verres séparés par une lame d'air ou de gaz, avec un intercalaire visible sur le pourtour.",
+  "priorite": 2,
+  "requetes": [
+   "double glazing unit edge",
+   "double vitrage",
+   "insulated glass unit"
+  ],
+  "incompatibles": [
+   "fenetre"
+  ]
+ },
+ {
+  "id": "vitrage-feuillete",
+  "terme": "le vitrage feuilleté",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Verre de sécurité fait de plusieurs feuilles collées par un film plastique, qui se fissure en toile d'araignée sans tomber.",
+  "priorite": 3,
+  "requetes": [
+   "laminated glass cracked",
+   "verre feuilleté",
+   "laminated safety glass"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "verre-arme",
+  "terme": "le verre armé",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Verre dans lequel est noyé un treillis de fils métalliques visible.",
+  "priorite": 3,
+  "requetes": [
+   "wired glass",
+   "verre armé",
+   "wire mesh glass"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "verre-depoli",
+  "terme": "le verre dépoli",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Verre translucide à surface mate qui laisse passer la lumière mais empêche de voir au travers.",
+  "priorite": 2,
+  "requetes": [
+   "frosted glass window",
+   "verre dépoli",
+   "frosted glass"
+  ],
+  "incompatibles": [
+   "verre-imprime"
+  ]
+ },
+ {
+  "id": "verre-imprime",
+  "terme": "le verre imprimé",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Verre translucide portant un motif en relief, souvent posé aux fenêtres de salle de bain.",
+  "priorite": 2,
+  "requetes": [
+   "patterned glass texture",
+   "verre imprimé",
+   "textured glass window"
+  ],
+  "incompatibles": [
+   "verre-depoli"
+  ]
+ },
+ {
+  "id": "vitrage-reflechissant",
+  "terme": "le vitrage réfléchissant",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Vitrage revêtu d'une couche métallique qui renvoie la lumière comme un miroir et limite l'apport solaire.",
+  "priorite": 2,
+  "requetes": [
+   "reflective glass facade building",
+   "vitrage réfléchissant",
+   "mirror glass building"
+  ],
+  "incompatibles": [
+   "vitrage-teinte"
+  ]
+ },
+ {
+  "id": "vitrage-teinte",
+  "terme": "le vitrage teinté",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Vitrage coloré dans la masse, souvent gris, bronze ou vert, pour réduire l'éblouissement.",
+  "priorite": 3,
+  "requetes": [
+   "tinted glass window",
+   "vitrage teinté",
+   "bronze tinted glass"
+  ],
+  "incompatibles": [
+   "vitrage-reflechissant"
+  ]
+ },
+ {
+  "id": "parclose",
+  "terme": "la parclose",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Baguette fixée sur le cadre qui maintient le vitrage en place.",
+  "priorite": 2,
+  "requetes": [
+   "glazing bead window",
+   "parclose",
+   "glazing bead"
+  ],
+  "incompatibles": [
+   "feuillure"
+  ]
+ },
+ {
+  "id": "paumelle",
+  "terme": "la paumelle",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Ferrure de rotation en deux parties emboîtées sur un axe, l'une fixée au dormant et l'autre au vantail.",
+  "priorite": 1,
+  "requetes": [
+   "lift off hinge door",
+   "paumelle porte",
+   "paumelle"
+  ],
+  "incompatibles": [
+   "charniere",
+   "gond"
+  ]
+ },
+ {
+  "id": "paumelle-a-souder",
+  "terme": "la paumelle à souder",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Paumelle cylindrique en acier, sans ailes percées, soudée directement sur les portes et portails métalliques.",
+  "priorite": 3,
+  "requetes": [
+   "weld on hinge",
+   "paumelle à souder",
+   "bullet hinge weld"
+  ],
+  "incompatibles": [
+   "paumelle"
+  ]
+ },
+ {
+  "id": "charniere",
+  "terme": "la charnière",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Ferrure articulée faite de deux lames reliées par un axe, qui permet à un vantail de pivoter.",
+  "priorite": 2,
+  "requetes": [
+   "butt hinge",
+   "charnière porte",
+   "door hinge"
+  ],
+  "incompatibles": [
+   "paumelle"
+  ]
+ },
+ {
+  "id": "gond",
+  "terme": "le gond",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Pièce métallique coudée scellée dans le mur ou le pilier, sur laquelle pivote un volet ou un portail.",
+  "priorite": 2,
+  "requetes": [
+   "gate hinge pin",
+   "gond volet",
+   "pintle hinge"
+  ],
+  "incompatibles": [
+   "penture"
+  ]
+ },
+ {
+  "id": "penture",
+  "terme": "la penture",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Longue bande de fer fixée sur un volet ou une porte, dont l'œil tourne sur un gond.",
+  "priorite": 3,
+  "requetes": [
+   "strap hinge",
+   "penture volet",
+   "strap hinge door"
+  ],
+  "incompatibles": [
+   "gond"
+  ]
+ },
+ {
+  "id": "serrure",
+  "terme": "la serrure",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Mécanisme de fermeture actionné par une clé, qui bloque un vantail grâce à un pêne.",
+  "priorite": 1,
+  "requetes": [
+   "door lock",
+   "serrure porte",
+   "lock"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "serrure-en-applique",
+  "terme": "la serrure en applique",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Serrure dont le boîtier est vissé en saillie sur la face intérieure du vantail.",
+  "priorite": 2,
+  "requetes": [
+   "rim lock door",
+   "serrure en applique",
+   "rim lock"
+  ],
+  "incompatibles": [
+   "serrure"
+  ]
+ },
+ {
+  "id": "serrure-a-encastrer",
+  "terme": "la serrure à encastrer",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Serrure logée dans une mortaise taillée dans le chant du vantail, dont on ne voit que la têtière.",
+  "priorite": 2,
+  "requetes": [
+   "mortise lock",
+   "serrure à encastrer",
+   "mortice lock door edge"
+  ],
+  "incompatibles": [
+   "serrure"
+  ]
+ },
+ {
+  "id": "serrure-multipoint",
+  "terme": "la serrure multipoint",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Serrure qui verrouille la porte en plusieurs points répartis sur sa hauteur grâce à des tringles.",
+  "priorite": 3,
+  "requetes": [
+   "multipoint lock",
+   "serrure multipoints",
+   "multi-point locking door"
+  ],
+  "incompatibles": [
+   "serrure",
+   "serrure-a-encastrer"
+  ]
+ },
+ {
+  "id": "cylindre-de-serrure",
+  "terme": "le cylindre de serrure",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Pièce de la serrure dans laquelle on introduit la clé, aussi appelée barillet.",
+  "priorite": 1,
+  "requetes": [
+   "lock cylinder",
+   "cylindre serrure barillet",
+   "euro cylinder lock"
+  ],
+  "incompatibles": [
+   "serrure"
+  ]
+ },
+ {
+  "id": "gache",
+  "terme": "la gâche",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Pièce métallique fixée sur le dormant, dans laquelle s'engage le pêne de la serrure.",
+  "priorite": 2,
+  "requetes": [
+   "strike plate door",
+   "gâche serrure",
+   "door strike plate"
+  ],
+  "incompatibles": [
+   "pene"
+  ]
+ },
+ {
+  "id": "gache-electrique",
+  "terme": "la gâche électrique",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Gâche commandée à distance qui libère le pêne pour ouvrir une porte ou un portail, souvent couplée à un interphone.",
+  "priorite": 3,
+  "requetes": [
+   "electric strike",
+   "gâche électrique",
+   "electric strike lock"
+  ],
+  "incompatibles": [
+   "gache"
+  ]
+ },
+ {
+  "id": "pene",
+  "terme": "le pêne",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Pièce mobile de la serrure qui sort du vantail pour s'engager dans la gâche.",
+  "priorite": 3,
+  "requetes": [
+   "lock bolt latch",
+   "pêne serrure",
+   "latch bolt door edge"
+  ],
+  "incompatibles": [
+   "serrure-a-encastrer"
+  ]
+ },
+ {
+  "id": "poignee-de-porte",
+  "terme": "la poignée de porte",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Levier ou poignée que l'on abaisse pour ouvrir une porte, appelée aussi béquille.",
+  "priorite": 1,
+  "requetes": [
+   "door handle lever",
+   "poignée de porte",
+   "lever door handle"
+  ],
+  "incompatibles": [
+   "bouton-de-porte"
+  ]
+ },
+ {
+  "id": "bouton-de-porte",
+  "terme": "le bouton de porte",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Poignée ronde que l'on tourne ou que l'on tire pour manœuvrer une porte.",
+  "priorite": 2,
+  "requetes": [
+   "door knob",
+   "bouton de porte",
+   "doorknob"
+  ],
+  "incompatibles": [
+   "poignee-de-porte"
+  ]
+ },
+ {
+  "id": "poignee-de-tirage",
+  "terme": "la poignée de tirage",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Poignée fixe, souvent un tube vertical en inox, qui sert à tirer ou pousser une porte vitrée ou métallique.",
+  "priorite": 3,
+  "requetes": [
+   "pull handle glass door",
+   "poignée de tirage inox",
+   "door pull handle"
+  ],
+  "incompatibles": [
+   "poignee-de-porte"
+  ]
+ },
+ {
+  "id": "poignee-de-fenetre",
+  "terme": "la poignée de fenêtre",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Poignée fixée sur l'ouvrant qui commande le verrouillage d'une fenêtre.",
+  "priorite": 1,
+  "requetes": [
+   "window handle",
+   "poignée de fenêtre",
+   "window lever handle"
+  ],
+  "incompatibles": [
+   "cremone"
+  ]
+ },
+ {
+  "id": "cle",
+  "terme": "la clé",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Petite pièce métallique dont on introduit la tige crantée dans une serrure pour l'ouvrir ou la fermer.",
+  "priorite": 1,
+  "requetes": [
+   "door key",
+   "clé de porte",
+   "keys"
+  ],
+  "incompatibles": [
+   "cylindre-de-serrure"
+  ]
+ },
+ {
+  "id": "verrou",
+  "terme": "le verrou",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fermeture faite d'une pièce métallique coulissante que l'on pousse à la main dans une gâche.",
+  "priorite": 1,
+  "requetes": [
+   "door bolt",
+   "verrou porte",
+   "barrel bolt"
+  ],
+  "incompatibles": [
+   "targette"
+  ]
+ },
+ {
+  "id": "targette",
+  "terme": "la targette",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Petit verrou plat monté sur platine, manœuvré par un bouton, qui ferme une porte ou une fenêtre de l'intérieur.",
+  "priorite": 2,
+  "requetes": [
+   "tower bolt",
+   "targette",
+   "barrel bolt small door"
+  ],
+  "incompatibles": [
+   "verrou"
+  ]
+ },
+ {
+  "id": "loquet",
+  "terme": "le loquet",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Fermeture simple faite d'une barre pivotante qui retombe dans un crochet.",
+  "priorite": 3,
+  "requetes": [
+   "thumb latch door",
+   "loquet porte",
+   "gate latch"
+  ],
+  "incompatibles": [
+   "verrou"
+  ]
+ },
+ {
+  "id": "cadenas",
+  "terme": "le cadenas",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Serrure mobile munie d'un anneau en U que l'on passe dans un moraillon ou une chaîne.",
+  "priorite": 1,
+  "requetes": [
+   "padlock",
+   "cadenas",
+   "padlock gate"
+  ],
+  "incompatibles": [
+   "moraillon"
+  ]
+ },
+ {
+  "id": "moraillon",
+  "terme": "le moraillon",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Ferrure articulée à anneau qui permet de fermer une porte ou un portail avec un cadenas.",
+  "priorite": 3,
+  "requetes": [
+   "hasp and staple padlock",
+   "moraillon",
+   "hasp door"
+  ],
+  "incompatibles": [
+   "cadenas"
+  ]
+ },
+ {
+  "id": "entrebailleur",
+  "terme": "l'entrebâilleur",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Chaîne ou bras métallique qui limite l'ouverture d'une porte pour voir qui se présente.",
+  "priorite": 3,
+  "requetes": [
+   "door chain",
+   "entrebâilleur",
+   "door chain lock"
+  ],
+  "incompatibles": [
+   "porte-d-entree"
+  ]
+ },
+ {
+  "id": "judas",
+  "terme": "le judas",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Petite lentille optique traversant une porte d'entrée pour voir à l'extérieur sans ouvrir.",
+  "priorite": 2,
+  "requetes": [
+   "door peephole",
+   "judas porte",
+   "peephole"
+  ],
+  "incompatibles": [
+   "porte-d-entree"
+  ]
+ },
+ {
+  "id": "ferme-porte",
+  "terme": "le ferme-porte",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Mécanisme à bras articulé fixé en haut d'une porte, qui la referme automatiquement.",
+  "priorite": 2,
+  "requetes": [
+   "door closer",
+   "ferme-porte",
+   "overhead door closer"
+  ],
+  "incompatibles": [
+   "porte-coupe-feu"
+  ]
+ },
+ {
+  "id": "butee-de-porte",
+  "terme": "la butée de porte",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Petit arrêt fixé au sol ou au mur qui empêche la porte ou sa poignée de heurter le mur.",
+  "priorite": 2,
+  "requetes": [
+   "door stop floor",
+   "butée de porte",
+   "doorstop"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "barre-antipanique",
+  "terme": "la barre antipanique",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Barre horizontale sur toute la largeur d'une porte de sortie, qui la déverrouille par simple poussée.",
+  "priorite": 2,
+  "requetes": [
+   "panic bar door",
+   "barre antipanique",
+   "push bar emergency exit"
+  ],
+  "incompatibles": [
+   "porte-coupe-feu"
+  ]
+ },
+ {
+  "id": "heurtoir",
+  "terme": "le heurtoir",
+  "categorie": "Menuiserie et serrurerie",
+  "definition": "Anneau ou marteau métallique fixé sur une porte d'entrée, que l'on frappe pour s'annoncer.",
+  "priorite": 3,
+  "requetes": [
+   "door knocker",
+   "heurtoir porte",
+   "incategory:\"Door knockers\""
+  ],
+  "incompatibles": [
+   "porte-d-entree"
+  ]
+ },
+ {
+  "id": "escalier",
+  "terme": "l'escalier",
+  "categorie": "Escaliers et circulations",
+  "definition": "Ouvrage fait d'une suite de marches qui permet de passer d'un niveau à un autre.",
+  "priorite": 1,
+  "requetes": [
+   "staircase interior",
+   "escalier",
+   "stairs"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "escalier-droit",
+  "terme": "l'escalier droit",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier dont toutes les marches se suivent en ligne droite, sans changement de direction.",
+  "priorite": 1,
+  "requetes": [
+   "straight staircase",
+   "escalier droit",
+   "straight flight stairs"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "escalier-quart-tournant",
+  "terme": "l'escalier quart tournant",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier qui change de direction à angle droit, par un palier ou des marches tournantes.",
+  "priorite": 2,
+  "requetes": [
+   "L-shaped staircase",
+   "escalier quart tournant",
+   "quarter turn stairs"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "escalier-demi-tournant",
+  "terme": "l'escalier demi-tournant",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier dont deux volées parallèles montent en sens opposés, reliées par un palier ou des marches tournantes.",
+  "priorite": 2,
+  "requetes": [
+   "U-shaped staircase landing",
+   "escalier demi-tournant",
+   "half turn stairs"
+  ],
+  "incompatibles": [
+   "escalier",
+   "palier"
+  ]
+ },
+ {
+  "id": "escalier-en-colimacon",
+  "terme": "l'escalier en colimaçon",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier hélicoïdal dont les marches tournent autour d'un poteau central.",
+  "priorite": 2,
+  "requetes": [
+   "incategory:\"Spiral staircases\"",
+   "escalier en colimaçon",
+   "spiral staircase"
+  ],
+  "incompatibles": [
+   "escalier",
+   "noyau"
+  ]
+ },
+ {
+  "id": "escalier-a-double-revolution",
+  "terme": "l'escalier à double révolution",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier monumental dont deux volées symétriques partent d'un même palier ou y aboutissent.",
+  "priorite": 3,
+  "requetes": [
+   "double staircase imperial",
+   "escalier à double révolution",
+   "grand double staircase"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "escalier-a-cremaillere",
+  "terme": "l'escalier à crémaillère",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier dont les marches reposent sur un limon découpé en dents de scie, visible de profil.",
+  "priorite": 3,
+  "requetes": [
+   "stringer stairs cut steel",
+   "escalier à crémaillère",
+   "zigzag stringer staircase"
+  ],
+  "incompatibles": [
+   "limon",
+   "escalier"
+  ]
+ },
+ {
+  "id": "escalier-en-porte-a-faux",
+  "terme": "l'escalier en porte-à-faux",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier dont les marches sont encastrées d'un seul côté dans le mur et semblent flotter.",
+  "priorite": 3,
+  "requetes": [
+   "cantilever stairs",
+   "escalier marches en porte-à-faux",
+   "floating staircase"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "escalier-en-beton",
+  "terme": "l'escalier en béton",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier coulé en béton armé, d'une seule pièce avec ses marches et sa paillasse.",
+  "priorite": 1,
+  "requetes": [
+   "concrete staircase construction",
+   "escalier en béton armé",
+   "concrete stairs"
+  ],
+  "incompatibles": [
+   "escalier",
+   "paillasse"
+  ]
+ },
+ {
+  "id": "escalier-metallique",
+  "terme": "l'escalier métallique",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier en acier, souvent à limons en profilés et marches en tôle ou caillebotis.",
+  "priorite": 2,
+  "requetes": [
+   "steel staircase",
+   "escalier métallique",
+   "metal stairs"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "escalier-en-bois",
+  "terme": "l'escalier en bois",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier dont les marches, limons et rampe sont en bois.",
+  "priorite": 2,
+  "requetes": [
+   "wooden staircase",
+   "escalier en bois",
+   "timber stairs"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "escalier-de-secours",
+  "terme": "l'escalier de secours",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier métallique extérieur, accroché à la façade, qui sert d'issue en cas d'incendie.",
+  "priorite": 2,
+  "requetes": [
+   "fire escape stairs building",
+   "escalier de secours",
+   "incategory:\"Fire escapes\""
+  ],
+  "incompatibles": [
+   "escalier-metallique"
+  ]
+ },
+ {
+  "id": "escalier-escamotable",
+  "terme": "l'escalier escamotable",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier pliant ou télescopique qui se replie dans une trappe au plafond pour accéder aux combles.",
+  "priorite": 3,
+  "requetes": [
+   "attic ladder folding",
+   "escalier escamotable",
+   "loft ladder"
+  ],
+  "incompatibles": [
+   "echelle-de-meunier"
+  ]
+ },
+ {
+  "id": "echelle-de-meunier",
+  "terme": "l'échelle de meunier",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier très raide aux marches étroites et sans contremarches, entre l'échelle et l'escalier.",
+  "priorite": 3,
+  "requetes": [
+   "ship ladder stairs",
+   "échelle de meunier",
+   "steep stairs ladder"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "echelle-a-crinoline",
+  "terme": "l'échelle à crinoline",
+  "categorie": "Escaliers et circulations",
+  "definition": "Échelle fixe verticale entourée d'arceaux métalliques qui protègent des chutes, pour l'accès aux toitures et cuves.",
+  "priorite": 3,
+  "requetes": [
+   "caged ladder",
+   "échelle à crinoline",
+   "fixed ladder safety cage"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "escalier-mecanique",
+  "terme": "l'escalier mécanique",
+  "categorie": "Escaliers et circulations",
+  "definition": "Escalier dont les marches sont entraînées par un mécanisme et défilent en continu.",
+  "priorite": 2,
+  "requetes": [
+   "incategory:\"Escalators\"",
+   "escalator shopping mall",
+   "escalier mécanique"
+  ],
+  "incompatibles": [
+   "trottoir-roulant"
+  ]
+ },
+ {
+  "id": "trottoir-roulant",
+  "terme": "le trottoir roulant",
+  "categorie": "Escaliers et circulations",
+  "definition": "Tapis mécanique plat ou légèrement incliné qui transporte les piétons, notamment dans les aéroports.",
+  "priorite": 3,
+  "requetes": [
+   "moving walkway airport",
+   "trottoir roulant",
+   "travelator"
+  ],
+  "incompatibles": [
+   "escalier-mecanique"
+  ]
+ },
+ {
+  "id": "marche",
+  "terme": "la marche",
+  "categorie": "Escaliers et circulations",
+  "definition": "Partie horizontale de l'escalier sur laquelle on pose le pied.",
+  "priorite": 1,
+  "requetes": [
+   "stair treads",
+   "marches d'escalier",
+   "stair step"
+  ],
+  "incompatibles": [
+   "contremarche",
+   "nez-de-marche"
+  ]
+ },
+ {
+  "id": "contremarche",
+  "terme": "la contremarche",
+  "categorie": "Escaliers et circulations",
+  "definition": "Face verticale qui ferme l'espace entre deux marches successives.",
+  "priorite": 1,
+  "requetes": [
+   "stair riser",
+   "contremarche escalier",
+   "risers stairs"
+  ],
+  "incompatibles": [
+   "marche"
+  ]
+ },
+ {
+  "id": "nez-de-marche",
+  "terme": "le nez de marche",
+  "categorie": "Escaliers et circulations",
+  "definition": "Bord avant de la marche, souvent arrondi ou garni d'un profilé antidérapant.",
+  "priorite": 2,
+  "requetes": [
+   "stair nosing",
+   "nez de marche",
+   "anti slip stair nosing"
+  ],
+  "incompatibles": [
+   "marche"
+  ]
+ },
+ {
+  "id": "marche-dansante",
+  "terme": "la marche dansante",
+  "categorie": "Escaliers et circulations",
+  "definition": "Marche tournante, plus large d'un côté que de l'autre, qui fait changer l'escalier de direction.",
+  "priorite": 3,
+  "requetes": [
+   "winder stairs",
+   "marches balancées escalier",
+   "winder steps"
+  ],
+  "incompatibles": [
+   "marche",
+   "escalier-quart-tournant"
+  ]
+ },
+ {
+  "id": "volee",
+  "terme": "la volée",
+  "categorie": "Escaliers et circulations",
+  "definition": "Suite ininterrompue de marches entre deux paliers.",
+  "priorite": 1,
+  "requetes": [
+   "flight of stairs",
+   "volée d'escalier",
+   "stair flight"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "palier",
+  "terme": "le palier",
+  "categorie": "Escaliers et circulations",
+  "definition": "Plateforme horizontale placée au départ, à l'arrivée ou entre deux volées d'un escalier.",
+  "priorite": 1,
+  "requetes": [
+   "stair landing",
+   "palier escalier",
+   "staircase landing"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "limon",
+  "terme": "le limon",
+  "categorie": "Escaliers et circulations",
+  "definition": "Pièce rampante, en bois, métal ou béton, qui porte les marches sur le côté de l'escalier.",
+  "priorite": 2,
+  "requetes": [
+   "stair stringer",
+   "limon escalier",
+   "staircase stringer"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "paillasse",
+  "terme": "la paillasse",
+  "categorie": "Escaliers et circulations",
+  "definition": "Dalle inclinée en béton armé qui porte les marches d'un escalier, visible en sous-face.",
+  "priorite": 1,
+  "requetes": [
+   "concrete stair soffit",
+   "paillasse escalier béton",
+   "concrete staircase underside"
+  ],
+  "incompatibles": [
+   "escalier-en-beton"
+  ]
+ },
+ {
+  "id": "noyau",
+  "terme": "le noyau",
+  "categorie": "Escaliers et circulations",
+  "definition": "Poteau ou mur central autour duquel tournent les marches d'un escalier.",
+  "priorite": 3,
+  "requetes": [
+   "spiral staircase newel central column",
+   "noyau escalier",
+   "newel spiral stair"
+  ],
+  "incompatibles": [
+   "escalier-en-colimacon"
+  ]
+ },
+ {
+  "id": "cage-d-escalier",
+  "terme": "la cage d'escalier",
+  "categorie": "Escaliers et circulations",
+  "definition": "Volume vertical, fermé par des murs, dans lequel se développe l'escalier d'un immeuble.",
+  "priorite": 1,
+  "requetes": [
+   "stairwell apartment building",
+   "cage d'escalier",
+   "stairwell"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "tremie-d-escalier",
+  "terme": "la trémie d'escalier",
+  "categorie": "Escaliers et circulations",
+  "definition": "Ouverture laissée dans un plancher pour le passage d'un escalier.",
+  "priorite": 2,
+  "requetes": [
+   "stair opening floor slab",
+   "trémie escalier",
+   "floor opening stairs construction"
+  ],
+  "incompatibles": [
+   "cage-d-escalier"
+  ]
+ },
+ {
+  "id": "rampe-d-escalier",
+  "terme": "la rampe d'escalier",
+  "categorie": "Escaliers et circulations",
+  "definition": "Garde-corps qui suit l'inclinaison de l'escalier le long de ses volées.",
+  "priorite": 1,
+  "requetes": [
+   "stair railing",
+   "rampe d'escalier",
+   "staircase balustrade"
+  ],
+  "incompatibles": [
+   "garde-corps",
+   "main-courante",
+   "barreau-de-rampe"
+  ]
+ },
+ {
+  "id": "main-courante",
+  "terme": "la main courante",
+  "categorie": "Escaliers et circulations",
+  "definition": "Barre continue que l'on saisit pour se tenir en montant ou descendant, posée sur la rampe ou fixée au mur.",
+  "priorite": 1,
+  "requetes": [
+   "handrail stairs",
+   "main courante escalier",
+   "wall mounted handrail"
+  ],
+  "incompatibles": [
+   "rampe-d-escalier"
+  ]
+ },
+ {
+  "id": "barreau-de-rampe",
+  "terme": "le barreau de rampe",
+  "categorie": "Escaliers et circulations",
+  "definition": "Tige verticale, répétée en série, qui remplit l'espace entre la main courante et les marches.",
+  "priorite": 2,
+  "requetes": [
+   "stair balusters spindles",
+   "barreaux rampe escalier",
+   "stair spindles"
+  ],
+  "incompatibles": [
+   "rampe-d-escalier",
+   "balustre"
+  ]
+ },
+ {
+  "id": "poteau-de-depart",
+  "terme": "le poteau de départ",
+  "categorie": "Escaliers et circulations",
+  "definition": "Poteau plus massif qui marque le bas d'une rampe d'escalier et en reçoit la main courante.",
+  "priorite": 3,
+  "requetes": [
+   "newel post",
+   "poteau de départ escalier",
+   "stair newel post"
+  ],
+  "incompatibles": [
+   "rampe-d-escalier"
+  ]
+ },
+ {
+  "id": "perron",
+  "terme": "le perron",
+  "categorie": "Escaliers et circulations",
+  "definition": "Petit escalier extérieur terminé par une plateforme, devant la porte d'entrée d'un bâtiment.",
+  "priorite": 2,
+  "requetes": [
+   "front steps entrance",
+   "perron",
+   "entrance stoop steps"
+  ],
+  "incompatibles": [
+   "escalier"
+  ]
+ },
+ {
+  "id": "rampe-d-acces",
+  "terme": "la rampe d'accès",
+  "categorie": "Escaliers et circulations",
+  "definition": "Plan incliné qui permet aux fauteuils roulants et poussettes de franchir une différence de niveau.",
+  "priorite": 2,
+  "requetes": [
+   "wheelchair ramp",
+   "rampe d'accès PMR",
+   "accessibility ramp"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "bande-podotactile",
+  "terme": "la bande podotactile",
+  "categorie": "Escaliers et circulations",
+  "definition": "Bande à plots en relief posée au sol en haut des escaliers pour avertir les personnes malvoyantes.",
+  "priorite": 2,
+  "requetes": [
+   "tactile paving stairs",
+   "bande podotactile",
+   "tactile warning strip stairs"
+  ],
+  "incompatibles": [
+   "marche"
+  ]
+ },
+ {
+  "id": "ascenseur",
+  "terme": "l'ascenseur",
+  "categorie": "Escaliers et circulations",
+  "definition": "Cabine qui se déplace verticalement pour transporter des personnes d'un étage à l'autre, vue par ses portes palières.",
+  "priorite": 2,
+  "requetes": [
+   "elevator doors lobby",
+   "ascenseur",
+   "lift doors"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "coursive",
+  "terme": "la coursive",
+  "categorie": "Escaliers et circulations",
+  "definition": "Galerie extérieure ouverte, le long d'une façade, qui dessert plusieurs logements à un même étage.",
+  "priorite": 2,
+  "requetes": [
+   "access gallery apartment building",
+   "coursive immeuble",
+   "external corridor"
+  ],
+  "incompatibles": [
+   "garde-corps"
+  ]
+ }
+]

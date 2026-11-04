@@ -1,0 +1,2456 @@
+[
+ {
+  "id": "palissade-de-chantier",
+  "terme": "la palissade de chantier",
+  "categorie": "Chantier et outillage",
+  "definition": "Clôture pleine provisoire, en tôle ou en panneaux, qui entoure un chantier et le sépare de la voie publique.",
+  "priorite": 2,
+  "requetes": [
+   "construction site hoarding",
+   "palissade de chantier",
+   "construction fence corrugated sheet"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "panneau-de-chantier",
+  "terme": "le panneau de chantier",
+  "categorie": "Chantier et outillage",
+  "definition": "Grand panneau d'affichage dressé à l'entrée d'un chantier, qui présente le projet, le permis de construire et les intervenants.",
+  "priorite": 2,
+  "requetes": [
+   "construction site sign board",
+   "panneau de chantier permis de construire",
+   "construction project signboard"
+  ],
+  "incompatibles": [
+   "palissade-de-chantier"
+  ]
+ },
+ {
+  "id": "bungalow-de-chantier",
+  "terme": "le bungalow de chantier",
+  "categorie": "Chantier et outillage",
+  "definition": "Module préfabriqué de type conteneur, installé sur un chantier comme bureau, vestiaire ou réfectoire.",
+  "priorite": 3,
+  "requetes": [
+   "construction site office container",
+   "bungalow de chantier",
+   "site cabin portable office"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "benne-a-gravats",
+  "terme": "la benne à gravats",
+  "categorie": "Chantier et outillage",
+  "definition": "Grand caisson métallique ouvert, déposé par camion, dans lequel on jette les déchets et gravats du chantier.",
+  "priorite": 2,
+  "requetes": [
+   "skip container construction waste",
+   "benne à gravats",
+   "construction debris skip"
+  ],
+  "incompatibles": [
+   "camion-benne"
+  ]
+ },
+ {
+  "id": "goulotte-a-gravats",
+  "terme": "la goulotte à gravats",
+  "categorie": "Chantier et outillage",
+  "definition": "Conduit formé de tronçons emboîtés suspendus le long d'une façade, qui fait descendre les gravats des étages vers une benne.",
+  "priorite": 3,
+  "requetes": [
+   "debris chute construction",
+   "goulotte à gravats",
+   "rubbish chute scaffolding"
+  ],
+  "incompatibles": [
+   "benne-a-gravats"
+  ]
+ },
+ {
+  "id": "cone-de-signalisation",
+  "terme": "le cône de signalisation",
+  "categorie": "Chantier et outillage",
+  "definition": "Cône en plastique orange à bandes blanches réfléchissantes, posé au sol pour baliser une zone de travaux.",
+  "priorite": 2,
+  "requetes": [
+   "traffic cones road works",
+   "cône de signalisation",
+   "incategory:\"Traffic cones\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "ruban-de-signalisation",
+  "terme": "le ruban de signalisation",
+  "categorie": "Chantier et outillage",
+  "definition": "Ruban plastique à bandes rouges et blanches, tendu entre des piquets pour délimiter une zone interdite ou dangereuse.",
+  "priorite": 3,
+  "requetes": [
+   "barrier tape red white construction",
+   "rubalise chantier",
+   "warning tape cordon"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "echafaudage",
+  "terme": "l'échafaudage",
+  "categorie": "Chantier et outillage",
+  "definition": "Structure provisoire de montants, traverses et planchers dressée contre un ouvrage pour permettre de travailler en hauteur.",
+  "priorite": 1,
+  "requetes": [
+   "scaffolding building facade",
+   "échafaudage façade",
+   "incategory:\"Scaffolding\""
+  ],
+  "incompatibles": [
+   "plancher-d-echafaudage"
+  ]
+ },
+ {
+  "id": "echafaudage-tubulaire",
+  "terme": "l'échafaudage tubulaire",
+  "categorie": "Chantier et outillage",
+  "definition": "Échafaudage fait de tubes d'acier assemblés par des colliers, adaptable à toutes les formes d'ouvrage.",
+  "priorite": 2,
+  "requetes": [
+   "tube and clamp scaffolding",
+   "échafaudage tubulaire colliers",
+   "tube and coupler scaffold"
+  ],
+  "incompatibles": [
+   "echafaudage"
+  ]
+ },
+ {
+  "id": "echafaudage-en-bois",
+  "terme": "l'échafaudage en bois",
+  "categorie": "Chantier et outillage",
+  "definition": "Échafaudage fait de perches et de planches de bois liées ou clouées, encore très courant sur les chantiers ouest-africains.",
+  "priorite": 1,
+  "requetes": [
+   "wooden scaffolding Africa",
+   "timber pole scaffolding",
+   "échafaudage en bois chantier"
+  ],
+  "incompatibles": [
+   "echafaudage"
+  ]
+ },
+ {
+  "id": "echafaudage-en-bambou",
+  "terme": "l'échafaudage en bambou",
+  "categorie": "Chantier et outillage",
+  "definition": "Échafaudage fait de tiges de bambou ligaturées entre elles.",
+  "priorite": 3,
+  "requetes": [
+   "bamboo scaffolding",
+   "incategory:\"Bamboo scaffolding\"",
+   "échafaudage en bambou"
+  ],
+  "incompatibles": [
+   "echafaudage"
+  ]
+ },
+ {
+  "id": "echafaudage-roulant",
+  "terme": "l'échafaudage roulant",
+  "categorie": "Chantier et outillage",
+  "definition": "Tour d'échafaudage légère, montée sur roulettes à frein, qu'on déplace le long du travail.",
+  "priorite": 2,
+  "requetes": [
+   "mobile scaffold tower",
+   "échafaudage roulant",
+   "rolling scaffold tower wheels"
+  ],
+  "incompatibles": [
+   "echafaudage"
+  ]
+ },
+ {
+  "id": "plancher-d-echafaudage",
+  "terme": "le plancher d'échafaudage",
+  "categorie": "Chantier et outillage",
+  "definition": "Plateau métallique ou planches sur lesquels on marche et on travaille à chaque niveau d'un échafaudage.",
+  "priorite": 3,
+  "requetes": [
+   "scaffold deck boards",
+   "plancher d'échafaudage",
+   "scaffold platform planks"
+  ],
+  "incompatibles": [
+   "echafaudage"
+  ]
+ },
+ {
+  "id": "filet-de-protection",
+  "terme": "le filet de protection",
+  "categorie": "Chantier et outillage",
+  "definition": "Filet ou toile ajourée tendu sur un échafaudage ou sous un plancher pour retenir les chutes de personnes et d'objets.",
+  "priorite": 3,
+  "requetes": [
+   "scaffold safety netting facade",
+   "filet de protection échafaudage",
+   "construction debris netting"
+  ],
+  "incompatibles": [
+   "echafaudage"
+  ]
+ },
+ {
+  "id": "echelle",
+  "terme": "l'échelle",
+  "categorie": "Chantier et outillage",
+  "definition": "Appareil portatif formé de deux montants reliés par des barreaux, appuyé contre un ouvrage pour monter.",
+  "priorite": 1,
+  "requetes": [
+   "ladder construction site",
+   "échelle chantier",
+   "incategory:\"Ladders\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "nacelle-elevatrice",
+  "terme": "la nacelle élévatrice",
+  "categorie": "Chantier et outillage",
+  "definition": "Engin muni d'un panier ou d'une plateforme élevé par un bras ou des ciseaux pour travailler en hauteur.",
+  "priorite": 2,
+  "requetes": [
+   "aerial work platform",
+   "nacelle élévatrice",
+   "boom lift cherry picker"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "etai",
+  "terme": "l'étai",
+  "categorie": "Chantier et outillage",
+  "definition": "Pièce verticale provisoire, en bois ou en métal, qui soutient un coffrage, une dalle ou un ouvrage le temps qu'il tienne seul.",
+  "priorite": 1,
+  "requetes": [
+   "shoring props slab formwork",
+   "étais dalle",
+   "incategory:\"Shoring\""
+  ],
+  "incompatibles": [
+   "etai-metallique",
+   "etai-en-bois"
+  ]
+ },
+ {
+  "id": "etai-metallique",
+  "terme": "l'étai métallique",
+  "categorie": "Chantier et outillage",
+  "definition": "Étai télescopique en tube d'acier, réglable en hauteur par une broche et un écrou, avec une platine à chaque bout.",
+  "priorite": 1,
+  "requetes": [
+   "steel prop adjustable",
+   "étai métallique tirant poussant",
+   "acrow prop"
+  ],
+  "incompatibles": [
+   "etai",
+   "tour-d-etaiement"
+  ]
+ },
+ {
+  "id": "etai-en-bois",
+  "terme": "l'étai en bois",
+  "categorie": "Chantier et outillage",
+  "definition": "Perche ou bastaing de bois calé sous un coffrage pour le soutenir, très employé sur les chantiers au Sénégal.",
+  "priorite": 1,
+  "requetes": [
+   "timber shoring poles slab",
+   "wooden props formwork",
+   "étai en bois coffrage"
+  ],
+  "incompatibles": [
+   "etai"
+  ]
+ },
+ {
+  "id": "tour-d-etaiement",
+  "terme": "la tour d'étaiement",
+  "categorie": "Chantier et outillage",
+  "definition": "Tour carrée formée de cadres métalliques empilés, qui porte de fortes charges de coffrage en hauteur.",
+  "priorite": 3,
+  "requetes": [
+   "shoring tower",
+   "tour d'étaiement",
+   "falsework tower formwork"
+  ],
+  "incompatibles": [
+   "etai"
+  ]
+ },
+ {
+  "id": "coffrage",
+  "terme": "le coffrage",
+  "categorie": "Chantier et outillage",
+  "definition": "Moule provisoire, en bois ou en métal, dans lequel on coule le béton pour lui donner sa forme.",
+  "priorite": 1,
+  "requetes": [
+   "concrete formwork construction",
+   "coffrage béton",
+   "incategory:\"Formwork\""
+  ],
+  "incompatibles": [
+   "coffrage-bois",
+   "coffrage-metallique"
+  ]
+ },
+ {
+  "id": "coffrage-bois",
+  "terme": "le coffrage bois",
+  "categorie": "Chantier et outillage",
+  "definition": "Coffrage fait de planches ou de contreplaqué, cloué et renforcé de chevrons.",
+  "priorite": 1,
+  "requetes": [
+   "timber formwork",
+   "coffrage bois planches",
+   "wooden formwork concrete column"
+  ],
+  "incompatibles": [
+   "coffrage"
+  ]
+ },
+ {
+  "id": "coffrage-metallique",
+  "terme": "le coffrage métallique",
+  "categorie": "Chantier et outillage",
+  "definition": "Coffrage fait de panneaux d'acier réutilisables, assemblés par clavettes ou serrages.",
+  "priorite": 2,
+  "requetes": [
+   "steel formwork panels",
+   "coffrage métallique",
+   "metal formwork"
+  ],
+  "incompatibles": [
+   "coffrage",
+   "banche"
+  ]
+ },
+ {
+  "id": "banche",
+  "terme": "la banche",
+  "categorie": "Chantier et outillage",
+  "definition": "Grand panneau de coffrage métallique vertical, stabilisé par des béquilles, qui sert à couler les voiles de béton.",
+  "priorite": 2,
+  "requetes": [
+   "wall formwork panels crane",
+   "banche coffrage voile",
+   "large panel wall formwork"
+  ],
+  "incompatibles": [
+   "coffrage"
+  ]
+ },
+ {
+  "id": "coffrage-de-poteau",
+  "terme": "le coffrage de poteau",
+  "categorie": "Chantier et outillage",
+  "definition": "Caisson vertical, souvent carré, monté autour des armatures d'un poteau avant d'y couler le béton.",
+  "priorite": 1,
+  "requetes": [
+   "column formwork",
+   "coffrage poteau",
+   "column formwork timber"
+  ],
+  "incompatibles": [
+   "coffrage"
+  ]
+ },
+ {
+  "id": "coffrage-de-dalle",
+  "terme": "le coffrage de dalle",
+  "categorie": "Chantier et outillage",
+  "definition": "Plateau horizontal de panneaux porté par des étais, sur lequel on pose les armatures et coule une dalle.",
+  "priorite": 1,
+  "requetes": [
+   "slab formwork props",
+   "coffrage de dalle",
+   "deck formwork shoring"
+  ],
+  "incompatibles": [
+   "coffrage",
+   "etai"
+  ]
+ },
+ {
+  "id": "table-coffrante",
+  "terme": "la table coffrante",
+  "categorie": "Chantier et outillage",
+  "definition": "Grand plateau de coffrage préassemblé sur son étaiement, déplacé d'un bloc à la grue d'une travée à l'autre.",
+  "priorite": 3,
+  "requetes": [
+   "table formwork",
+   "table coffrante",
+   "flying table formwork"
+  ],
+  "incompatibles": [
+   "coffrage-de-dalle"
+  ]
+ },
+ {
+  "id": "tige-de-coffrage",
+  "terme": "la tige de coffrage",
+  "categorie": "Chantier et outillage",
+  "definition": "Tige filetée traversant un coffrage de mur, serrée par des écrous à ailettes pour tenir ses deux faces.",
+  "priorite": 3,
+  "requetes": [
+   "formwork tie rod wing nut",
+   "tige de coffrage écrou",
+   "form tie"
+  ],
+  "incompatibles": [
+   "banche"
+  ]
+ },
+ {
+  "id": "betonniere",
+  "terme": "la bétonnière",
+  "categorie": "Chantier et outillage",
+  "definition": "Machine à cuve rotative inclinable, électrique ou thermique, qui malaxe le béton ou le mortier sur le chantier.",
+  "priorite": 1,
+  "requetes": [
+   "concrete mixer drum site",
+   "bétonnière",
+   "incategory:\"Concrete mixers\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "pelle-hydraulique",
+  "terme": "la pelle hydraulique",
+  "categorie": "Chantier et outillage",
+  "definition": "Engin de terrassement sur chenilles ou pneus, à tourelle pivotante et bras articulé terminé par un godet.",
+  "priorite": 1,
+  "requetes": [
+   "hydraulic excavator",
+   "pelle hydraulique chantier",
+   "incategory:\"Excavators\""
+  ],
+  "incompatibles": [
+   "mini-pelle"
+  ]
+ },
+ {
+  "id": "mini-pelle",
+  "terme": "la mini-pelle",
+  "categorie": "Chantier et outillage",
+  "definition": "Petite pelle hydraulique sur chenilles, avec une lame à l'avant, pour les terrassements en espace réduit.",
+  "priorite": 2,
+  "requetes": [
+   "mini excavator",
+   "mini-pelle",
+   "compact excavator"
+  ],
+  "incompatibles": [
+   "pelle-hydraulique"
+  ]
+ },
+ {
+  "id": "tractopelle",
+  "terme": "la tractopelle",
+  "categorie": "Chantier et outillage",
+  "definition": "Engin sur pneus portant un godet de chargement à l'avant et un bras de pelle à l'arrière.",
+  "priorite": 1,
+  "requetes": [
+   "backhoe loader",
+   "tractopelle",
+   "incategory:\"Backhoe loaders\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "bulldozer",
+  "terme": "le bulldozer",
+  "categorie": "Chantier et outillage",
+  "definition": "Engin sur chenilles muni à l'avant d'une large lame qui pousse et étale la terre.",
+  "priorite": 2,
+  "requetes": [
+   "bulldozer",
+   "bouteur",
+   "incategory:\"Bulldozers\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "niveleuse",
+  "terme": "la niveleuse",
+  "categorie": "Chantier et outillage",
+  "definition": "Engin long à six roues, avec une lame placée sous le châssis, qui règle la surface des plateformes et des routes.",
+  "priorite": 3,
+  "requetes": [
+   "motor grader",
+   "niveleuse",
+   "road grader"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "rouleau-compresseur",
+  "terme": "le rouleau compresseur",
+  "categorie": "Chantier et outillage",
+  "definition": "Engin dont une ou plusieurs roues sont de lourds cylindres d'acier, qui compacte le sol ou l'enrobé.",
+  "priorite": 2,
+  "requetes": [
+   "road roller",
+   "rouleau compresseur",
+   "incategory:\"Road rollers\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "plaque-vibrante",
+  "terme": "la plaque vibrante",
+  "categorie": "Chantier et outillage",
+  "definition": "Machine à main posée sur une semelle d'acier vibrante, qu'on pousse pour compacter un remblai ou des pavés.",
+  "priorite": 2,
+  "requetes": [
+   "plate compactor",
+   "plaque vibrante",
+   "vibratory plate compactor"
+  ],
+  "incompatibles": [
+   "pilonneuse"
+  ]
+ },
+ {
+  "id": "pilonneuse",
+  "terme": "la pilonneuse",
+  "categorie": "Chantier et outillage",
+  "definition": "Machine à main haute et étroite qui frappe le sol par sauts répétés pour compacter le fond des tranchées.",
+  "priorite": 3,
+  "requetes": [
+   "jumping jack rammer",
+   "pilonneuse",
+   "tamping rammer"
+  ],
+  "incompatibles": [
+   "plaque-vibrante"
+  ]
+ },
+ {
+  "id": "camion-benne",
+  "terme": "le camion-benne",
+  "categorie": "Chantier et outillage",
+  "definition": "Camion dont la caisse basculante déverse sable, gravier ou déblais.",
+  "priorite": 1,
+  "requetes": [
+   "dump truck",
+   "camion-benne",
+   "tipper truck"
+  ],
+  "incompatibles": [
+   "tombereau"
+  ]
+ },
+ {
+  "id": "tombereau",
+  "terme": "le tombereau",
+  "categorie": "Chantier et outillage",
+  "definition": "Gros engin de terrassement à benne basculante, souvent articulé, qui transporte les déblais sur les grands chantiers.",
+  "priorite": 3,
+  "requetes": [
+   "articulated dump truck",
+   "tombereau articulé",
+   "articulated hauler"
+  ],
+  "incompatibles": [
+   "camion-benne"
+  ]
+ },
+ {
+  "id": "dumper",
+  "terme": "le dumper",
+  "categorie": "Chantier et outillage",
+  "definition": "Petit engin à benne basculante placée à l'avant, devant le conducteur, pour déplacer matériaux et terre sur le chantier.",
+  "priorite": 3,
+  "requetes": [
+   "site dumper",
+   "dumper chantier",
+   "front tipping dumper"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "camion-toupie",
+  "terme": "le camion-toupie",
+  "categorie": "Chantier et outillage",
+  "definition": "Camion portant une grande cuve rotative inclinée qui livre le béton prêt à l'emploi en le malaxant.",
+  "priorite": 1,
+  "requetes": [
+   "concrete mixer truck",
+   "camion toupie béton",
+   "incategory:\"Concrete mixer trucks\""
+  ],
+  "incompatibles": [
+   "pompe-a-beton"
+  ]
+ },
+ {
+  "id": "pompe-a-beton",
+  "terme": "la pompe à béton",
+  "categorie": "Chantier et outillage",
+  "definition": "Camion muni d'un long bras articulé à tuyau qui projette le béton jusqu'au point de coulage.",
+  "priorite": 2,
+  "requetes": [
+   "concrete pump truck boom",
+   "pompe à béton",
+   "concrete boom pump"
+  ],
+  "incompatibles": [
+   "camion-toupie"
+  ]
+ },
+ {
+  "id": "chariot-telescopique",
+  "terme": "le chariot télescopique",
+  "categorie": "Chantier et outillage",
+  "definition": "Engin sur pneus à bras télescopique muni de fourches, qui lève et place les charges en hauteur.",
+  "priorite": 3,
+  "requetes": [
+   "telehandler",
+   "chariot télescopique",
+   "telescopic handler"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "foreuse-de-pieux",
+  "terme": "la foreuse de pieux",
+  "categorie": "Chantier et outillage",
+  "definition": "Engin sur chenilles portant un haut mât et une tarière qui creuse le sol pour couler des pieux de fondation.",
+  "priorite": 3,
+  "requetes": [
+   "piling rig",
+   "foreuse de pieux",
+   "rotary drilling rig pile"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "grue-a-tour",
+  "terme": "la grue à tour",
+  "categorie": "Chantier et outillage",
+  "definition": "Grue fixe formée d'un haut mât en treillis et d'une flèche horizontale qui pivote au-dessus du chantier.",
+  "priorite": 2,
+  "requetes": [
+   "tower crane construction",
+   "grue à tour",
+   "incategory:\"Tower cranes\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "grue-mobile",
+  "terme": "la grue mobile",
+  "categorie": "Chantier et outillage",
+  "definition": "Grue montée sur un camion ou un porteur à pneus, à flèche télescopique, stabilisée par des béquilles.",
+  "priorite": 2,
+  "requetes": [
+   "mobile crane",
+   "grue mobile",
+   "truck mounted crane telescopic"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "monte-charge",
+  "terme": "le monte-charge",
+  "categorie": "Chantier et outillage",
+  "definition": "Plateforme ou cabine qui monte les matériaux le long d'un mât fixé à la façade.",
+  "priorite": 3,
+  "requetes": [
+   "construction hoist",
+   "monte-charge chantier",
+   "material hoist mast"
+  ],
+  "incompatibles": [
+   "echafaudage"
+  ]
+ },
+ {
+  "id": "poulie",
+  "terme": "la poulie",
+  "categorie": "Chantier et outillage",
+  "definition": "Roue à gorge suspendue en hauteur, sur laquelle passe une corde pour hisser seaux et matériaux à la main.",
+  "priorite": 2,
+  "requetes": [
+   "pulley construction bucket",
+   "poulie chantier",
+   "gin wheel"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "palan",
+  "terme": "le palan",
+  "categorie": "Chantier et outillage",
+  "definition": "Appareil de levage à chaîne, manuel ou électrique, accroché en hauteur pour soulever une charge lourde.",
+  "priorite": 3,
+  "requetes": [
+   "chain hoist",
+   "palan à chaîne",
+   "chain block"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "elingue",
+  "terme": "l'élingue",
+  "categorie": "Chantier et outillage",
+  "definition": "Sangle, câble ou chaîne terminé par des boucles ou des crochets, qui attache une charge au crochet de la grue.",
+  "priorite": 3,
+  "requetes": [
+   "lifting sling",
+   "élingue de levage",
+   "crane sling load"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "benne-a-beton",
+  "terme": "la benne à béton",
+  "categorie": "Chantier et outillage",
+  "definition": "Seau métallique conique suspendu à la grue, à trappe en bas, qui déverse le béton dans le coffrage.",
+  "priorite": 3,
+  "requetes": [
+   "concrete bucket crane",
+   "benne à béton grue",
+   "concrete skip"
+  ],
+  "incompatibles": [
+   "grue-a-tour"
+  ]
+ },
+ {
+  "id": "truelle",
+  "terme": "la truelle",
+  "categorie": "Chantier et outillage",
+  "definition": "Outil à lame d'acier plate et pointue, avec un manche coudé, pour prendre, étaler et lisser le mortier.",
+  "priorite": 1,
+  "requetes": [
+   "mason trowel",
+   "truelle",
+   "incategory:\"Trowels\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "taloche",
+  "terme": "la taloche",
+  "categorie": "Chantier et outillage",
+  "definition": "Planchette rectangulaire en bois, plastique ou mousse, munie d'une poignée, pour dresser et talocher un enduit.",
+  "priorite": 1,
+  "requetes": [
+   "plastering float",
+   "taloche",
+   "wooden hand float"
+  ],
+  "incompatibles": [
+   "platoir"
+  ]
+ },
+ {
+  "id": "platoir",
+  "terme": "le platoir",
+  "categorie": "Chantier et outillage",
+  "definition": "Lame d'acier rectangulaire et lisse, à poignée centrale, pour étaler et lisser enduit, colle ou ragréage.",
+  "priorite": 2,
+  "requetes": [
+   "plastering trowel steel",
+   "platoir",
+   "finishing trowel"
+  ],
+  "incompatibles": [
+   "taloche"
+  ]
+ },
+ {
+  "id": "seau-de-macon",
+  "terme": "le seau de maçon",
+  "categorie": "Chantier et outillage",
+  "definition": "Seau robuste en caoutchouc ou plastique noir, à anse, pour porter mortier, béton ou eau.",
+  "priorite": 1,
+  "requetes": [
+   "builder's bucket",
+   "seau de maçon",
+   "rubber bucket construction"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "brouette",
+  "terme": "la brouette",
+  "categorie": "Chantier et outillage",
+  "definition": "Caisse à une roue et deux bras qu'on pousse pour transporter matériaux et gravats.",
+  "priorite": 1,
+  "requetes": [
+   "wheelbarrow construction",
+   "brouette",
+   "incategory:\"Wheelbarrows\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "pelle",
+  "terme": "la pelle",
+  "categorie": "Chantier et outillage",
+  "definition": "Outil formé d'une plaque métallique un peu creuse au bout d'un long manche, pour remuer sable, gravier et mortier.",
+  "priorite": 1,
+  "requetes": [
+   "shovel sand",
+   "pelle chantier",
+   "incategory:\"Shovels\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "pioche",
+  "terme": "la pioche",
+  "categorie": "Chantier et outillage",
+  "definition": "Outil à fer pointu ou aplati monté perpendiculairement sur un manche, pour creuser un sol dur.",
+  "priorite": 1,
+  "requetes": [
+   "pickaxe",
+   "pioche",
+   "incategory:\"Pickaxes\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "marteau",
+  "terme": "le marteau",
+  "categorie": "Chantier et outillage",
+  "definition": "Outil formé d'une tête métallique fixée au bout d'un manche, pour frapper et enfoncer des clous.",
+  "priorite": 1,
+  "requetes": [
+   "claw hammer",
+   "marteau",
+   "incategory:\"Hammers\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "masse",
+  "terme": "la masse",
+  "categorie": "Chantier et outillage",
+  "definition": "Lourd marteau à tête d'acier rectangulaire, à manche court ou long, pour casser ou frapper fort.",
+  "priorite": 1,
+  "requetes": [
+   "sledgehammer",
+   "masse",
+   "club hammer"
+  ],
+  "incompatibles": [
+   "marteau"
+  ]
+ },
+ {
+  "id": "burin",
+  "terme": "le burin",
+  "categorie": "Chantier et outillage",
+  "definition": "Barre d'acier à bout plat et tranchant, frappée au marteau pour tailler ou démolir la maçonnerie.",
+  "priorite": 2,
+  "requetes": [
+   "cold chisel",
+   "burin",
+   "masonry chisel"
+  ],
+  "incompatibles": [
+   "masse"
+  ]
+ },
+ {
+  "id": "tamis",
+  "terme": "le tamis",
+  "categorie": "Chantier et outillage",
+  "definition": "Cadre muni d'un grillage fin, souvent dressé incliné, à travers lequel on passe le sable pour en retirer les cailloux.",
+  "priorite": 1,
+  "requetes": [
+   "sand sieve construction",
+   "tamis à sable",
+   "sand screen mesh"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "regle-de-macon",
+  "terme": "la règle de maçon",
+  "categorie": "Chantier et outillage",
+  "definition": "Longue barre droite en aluminium, qu'on tire sur une chape ou un enduit frais pour le dresser.",
+  "priorite": 2,
+  "requetes": [
+   "screed rule aluminium",
+   "règle de maçon",
+   "straightedge plastering"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "niveau-a-bulle",
+  "terme": "le niveau à bulle",
+  "categorie": "Chantier et outillage",
+  "definition": "Barre droite munie de fioles où une bulle d'air indique si une surface est horizontale ou verticale.",
+  "priorite": 1,
+  "requetes": [
+   "spirit level",
+   "niveau à bulle",
+   "incategory:\"Spirit levels\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "fil-a-plomb",
+  "terme": "le fil à plomb",
+  "categorie": "Chantier et outillage",
+  "definition": "Poids métallique suspendu au bout d'une ficelle, qui donne la verticale pour monter un mur droit.",
+  "priorite": 1,
+  "requetes": [
+   "plumb bob",
+   "fil à plomb",
+   "incategory:\"Plumb bobs\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "cordeau",
+  "terme": "le cordeau",
+  "categorie": "Chantier et outillage",
+  "definition": "Ficelle tendue entre deux points pour aligner un rang de blocs ou tracer une ligne droite.",
+  "priorite": 1,
+  "requetes": [
+   "mason line string",
+   "cordeau maçon",
+   "string line bricklaying"
+  ],
+  "incompatibles": [
+   "chaise-d-implantation"
+  ]
+ },
+ {
+  "id": "cordeau-traceur",
+  "terme": "le cordeau traceur",
+  "categorie": "Chantier et outillage",
+  "definition": "Boîtier contenant une ficelle enduite de poudre colorée, qu'on tend et fait claquer pour marquer une ligne droite.",
+  "priorite": 3,
+  "requetes": [
+   "chalk line reel",
+   "cordeau traceur",
+   "chalk line snap"
+  ],
+  "incompatibles": [
+   "cordeau"
+  ]
+ },
+ {
+  "id": "equerre-de-macon",
+  "terme": "l'équerre de maçon",
+  "categorie": "Chantier et outillage",
+  "definition": "Grande équerre métallique en forme de L ou de triangle, pour vérifier les angles droits.",
+  "priorite": 2,
+  "requetes": [
+   "builder's square",
+   "équerre de maçon",
+   "steel square"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "moule-a-parpaings",
+  "terme": "le moule à parpaings",
+  "categorie": "Chantier et outillage",
+  "definition": "Moule métallique, souvent à levier, dans lequel on serre le béton maigre pour fabriquer des blocs sur place.",
+  "priorite": 3,
+  "requetes": [
+   "concrete block mould manual",
+   "moule à parpaings",
+   "block making machine manual Africa"
+  ],
+  "incompatibles": [
+   "parpaing"
+  ]
+ },
+ {
+  "id": "talocheuse-mecanique",
+  "terme": "la talocheuse mécanique",
+  "categorie": "Chantier et outillage",
+  "definition": "Machine à pales tournantes guidée par un long manche, qui lisse la surface d'une dalle de béton frais.",
+  "priorite": 3,
+  "requetes": [
+   "power trowel",
+   "talocheuse mécanique hélicoptère",
+   "concrete power float"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "regle-vibrante",
+  "terme": "la règle vibrante",
+  "categorie": "Chantier et outillage",
+  "definition": "Longue poutre à moteur vibreur, tirée sur le béton frais d'une dalle pour l'aplanir et le serrer.",
+  "priorite": 3,
+  "requetes": [
+   "vibrating screed",
+   "règle vibrante",
+   "concrete screed vibrator"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "aiguille-vibrante",
+  "terme": "l'aiguille vibrante",
+  "categorie": "Chantier et outillage",
+  "definition": "Tige métallique vibrante au bout d'un flexible, plongée dans le béton frais pour en chasser l'air.",
+  "priorite": 2,
+  "requetes": [
+   "concrete poker vibrator",
+   "aiguille vibrante béton",
+   "internal concrete vibrator"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "cisaille-a-armatures",
+  "terme": "la cisaille à armatures",
+  "categorie": "Chantier et outillage",
+  "definition": "Grande pince à longs bras, ou machine, qui coupe les barres d'acier à béton.",
+  "priorite": 2,
+  "requetes": [
+   "rebar cutter",
+   "cisaille à armatures",
+   "bolt cutter rebar"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "cintreuse-a-armatures",
+  "terme": "la cintreuse à armatures",
+  "categorie": "Chantier et outillage",
+  "definition": "Appareil manuel ou électrique sur lequel on plie les barres d'acier pour former cadres et crochets.",
+  "priorite": 2,
+  "requetes": [
+   "rebar bender",
+   "cintreuse à armatures",
+   "rebar bending machine"
+  ],
+  "incompatibles": [
+   "griffe-a-cintrer"
+  ]
+ },
+ {
+  "id": "griffe-a-cintrer",
+  "terme": "la griffe à cintrer",
+  "categorie": "Chantier et outillage",
+  "definition": "Barre d'acier terminée par une fourche, avec laquelle le ferrailleur plie à la main les fers à béton.",
+  "priorite": 3,
+  "requetes": [
+   "rebar bending tool hand",
+   "clé à cintrer fer à béton",
+   "hickey bar rebar"
+  ],
+  "incompatibles": [
+   "cintreuse-a-armatures"
+  ]
+ },
+ {
+  "id": "tenaille",
+  "terme": "la tenaille",
+  "categorie": "Chantier et outillage",
+  "definition": "Pince à mâchoires arrondies et coupantes, qui sert au ferrailleur à serrer et couper le fil de ligature.",
+  "priorite": 2,
+  "requetes": [
+   "tower pincers",
+   "tenaille",
+   "rebar tying pliers"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "fil-a-ligaturer",
+  "terme": "le fil à ligaturer",
+  "categorie": "Chantier et outillage",
+  "definition": "Fil de fer recuit, souple, en bobine ou en tronçons, qu'on torsade pour attacher les barres d'armature entre elles.",
+  "priorite": 1,
+  "requetes": [
+   "rebar tie wire",
+   "fil à ligaturer",
+   "annealed binding wire"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "disqueuse",
+  "terme": "la disqueuse",
+  "categorie": "Chantier et outillage",
+  "definition": "Meuleuse électrique à main dont le disque rotatif coupe métal, carrelage ou maçonnerie.",
+  "priorite": 1,
+  "requetes": [
+   "angle grinder",
+   "disqueuse meuleuse",
+   "incategory:\"Angle grinders\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "poste-a-souder",
+  "terme": "le poste à souder",
+  "categorie": "Chantier et outillage",
+  "definition": "Appareil électrique relié par câbles à une pince porte-électrode, qui fond le métal pour assembler des pièces d'acier.",
+  "priorite": 2,
+  "requetes": [
+   "arc welding machine",
+   "poste à souder",
+   "welding inverter"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "chalumeau",
+  "terme": "le chalumeau",
+  "categorie": "Chantier et outillage",
+  "definition": "Outil à flamme alimenté par une bouteille de gaz, pour chauffer, braser ou souder.",
+  "priorite": 3,
+  "requetes": [
+   "blowtorch",
+   "chalumeau",
+   "gas torch"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "scie-circulaire",
+  "terme": "la scie circulaire",
+  "categorie": "Chantier et outillage",
+  "definition": "Scie électrique à lame ronde dentée, portative ou sur table, pour débiter le bois et les panneaux.",
+  "priorite": 2,
+  "requetes": [
+   "circular saw",
+   "scie circulaire",
+   "incategory:\"Circular saws\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "scie-sauteuse",
+  "terme": "la scie sauteuse",
+  "categorie": "Chantier et outillage",
+  "definition": "Scie électrique à main dont la lame étroite va et vient verticalement, pour les découpes courbes.",
+  "priorite": 3,
+  "requetes": [
+   "jigsaw power tool",
+   "scie sauteuse",
+   "incategory:\"Jigsaws (tool)\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "tronconneuse",
+  "terme": "la tronçonneuse",
+  "categorie": "Chantier et outillage",
+  "definition": "Scie à moteur dont une chaîne dentée tourne autour d'un guide, pour couper le bois.",
+  "priorite": 3,
+  "requetes": [
+   "chainsaw",
+   "tronçonneuse",
+   "incategory:\"Chainsaws\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "perceuse",
+  "terme": "la perceuse",
+  "categorie": "Chantier et outillage",
+  "definition": "Outil électrique à main qui fait tourner un foret pour percer des trous.",
+  "priorite": 1,
+  "requetes": [
+   "electric drill",
+   "perceuse",
+   "incategory:\"Electric drills\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "marteau-piqueur",
+  "terme": "le marteau-piqueur",
+  "categorie": "Chantier et outillage",
+  "definition": "Lourd outil pneumatique ou électrique qui frappe un pic sur le béton ou la chaussée pour les briser.",
+  "priorite": 2,
+  "requetes": [
+   "jackhammer",
+   "marteau-piqueur",
+   "pneumatic drill road"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "carotteuse",
+  "terme": "la carotteuse",
+  "categorie": "Chantier et outillage",
+  "definition": "Machine à couronne diamantée qui découpe un trou rond parfait dans le béton ou la maçonnerie.",
+  "priorite": 3,
+  "requetes": [
+   "core drill concrete",
+   "carotteuse béton",
+   "diamond core drilling"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "rabot",
+  "terme": "le rabot",
+  "categorie": "Chantier et outillage",
+  "definition": "Outil à lame tranchante réglable dans un fût, poussé sur le bois pour l'aplanir.",
+  "priorite": 3,
+  "requetes": [
+   "hand plane woodworking",
+   "rabot",
+   "incategory:\"Planes (tools)\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "metre-ruban",
+  "terme": "le mètre ruban",
+  "categorie": "Chantier et outillage",
+  "definition": "Ruban métallique gradué enroulé dans un boîtier, qui se déroule pour mesurer.",
+  "priorite": 1,
+  "requetes": [
+   "tape measure",
+   "mètre ruban",
+   "incategory:\"Tape measures\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "etabli",
+  "terme": "l'établi",
+  "categorie": "Chantier et outillage",
+  "definition": "Table de travail robuste, souvent munie d'un étau, sur laquelle on taille et assemble les pièces.",
+  "priorite": 3,
+  "requetes": [
+   "workbench",
+   "établi",
+   "incategory:\"Workbenches\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "tournevis",
+  "terme": "le tournevis",
+  "categorie": "Chantier et outillage",
+  "definition": "Outil à manche et tige métallique dont le bout plat ou cruciforme serre les vis.",
+  "priorite": 1,
+  "requetes": [
+   "screwdriver",
+   "tournevis",
+   "incategory:\"Screwdrivers\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "coupe-carreau",
+  "terme": "le coupe-carreau",
+  "categorie": "Chantier et outillage",
+  "definition": "Appareil à rail et molette qui raye puis casse net les carreaux en ligne droite.",
+  "priorite": 2,
+  "requetes": [
+   "manual tile cutter",
+   "coupe-carreau",
+   "tile cutter"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "spatule-crantee",
+  "terme": "la spatule crantée",
+  "categorie": "Chantier et outillage",
+  "definition": "Lame d'acier à bord denté qui étale la colle à carrelage en sillons réguliers.",
+  "priorite": 2,
+  "requetes": [
+   "notched trowel tile adhesive",
+   "spatule crantée",
+   "peigne à colle carrelage"
+  ],
+  "incompatibles": [
+   "platoir"
+  ]
+ },
+ {
+  "id": "croisillons",
+  "terme": "les croisillons",
+  "categorie": "Chantier et outillage",
+  "definition": "Petites croix en plastique placées entre les carreaux pour garder des joints de largeur égale.",
+  "priorite": 2,
+  "requetes": [
+   "tile spacers",
+   "croisillons carrelage",
+   "tile spacer crosses"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "raclette-a-joints",
+  "terme": "la raclette à joints",
+  "categorie": "Chantier et outillage",
+  "definition": "Taloche à semelle de caoutchouc qui fait pénétrer le mortier de joint entre les carreaux.",
+  "priorite": 3,
+  "requetes": [
+   "grout float",
+   "raclette à joints",
+   "rubber grout float tiles"
+  ],
+  "incompatibles": [
+   "taloche"
+  ]
+ },
+ {
+  "id": "cle-serre-tube",
+  "terme": "la clé serre-tube",
+  "categorie": "Chantier et outillage",
+  "definition": "Grosse clé à mâchoires dentées réglables, qui serre et tourne les tubes et raccords filetés.",
+  "priorite": 2,
+  "requetes": [
+   "pipe wrench",
+   "clé serre-tube",
+   "stillson wrench"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "coupe-tube",
+  "terme": "le coupe-tube",
+  "categorie": "Chantier et outillage",
+  "definition": "Outil à molette tranchante qu'on fait tourner autour d'un tube pour le couper net.",
+  "priorite": 3,
+  "requetes": [
+   "pipe cutter",
+   "coupe-tube",
+   "tube cutter copper"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "casque-de-chantier",
+  "terme": "le casque de chantier",
+  "categorie": "Chantier et outillage",
+  "definition": "Casque rigide en plastique coloré qui protège la tête des chocs et des chutes d'objets.",
+  "priorite": 1,
+  "requetes": [
+   "hard hat construction worker",
+   "casque de chantier",
+   "incategory:\"Hard hats\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "gilet-haute-visibilite",
+  "terme": "le gilet haute visibilité",
+  "categorie": "Chantier et outillage",
+  "definition": "Gilet jaune ou orange fluo à bandes réfléchissantes, qui rend le travailleur visible.",
+  "priorite": 1,
+  "requetes": [
+   "high visibility vest worker",
+   "gilet haute visibilité",
+   "hi-vis vest"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "chaussures-de-securite",
+  "terme": "les chaussures de sécurité",
+  "categorie": "Chantier et outillage",
+  "definition": "Chaussures montantes à coque de protection et semelle anti-perforation.",
+  "priorite": 1,
+  "requetes": [
+   "safety boots steel toe",
+   "chaussures de sécurité",
+   "safety footwear"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "gants-de-travail",
+  "terme": "les gants de travail",
+  "categorie": "Chantier et outillage",
+  "definition": "Gants en cuir, en tissu enduit ou en caoutchouc, qui protègent les mains des coupures, du ciment et des frottements.",
+  "priorite": 1,
+  "requetes": [
+   "work gloves",
+   "gants de travail",
+   "construction gloves"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "casque-anti-bruit",
+  "terme": "le casque anti-bruit",
+  "categorie": "Chantier et outillage",
+  "definition": "Paire de coquilles reliées par un arceau, qui couvrent les oreilles contre le bruit des machines.",
+  "priorite": 3,
+  "requetes": [
+   "ear defenders",
+   "casque anti-bruit",
+   "hearing protection earmuffs"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "harnais-de-securite",
+  "terme": "le harnais de sécurité",
+  "categorie": "Chantier et outillage",
+  "definition": "Ensemble de sangles serrées autour du corps, relié par une longe à un point d'ancrage contre les chutes.",
+  "priorite": 2,
+  "requetes": [
+   "fall arrest harness",
+   "harnais de sécurité",
+   "safety harness worker height"
+  ],
+  "incompatibles": [
+   "ligne-de-vie"
+  ]
+ },
+ {
+  "id": "ligne-de-vie",
+  "terme": "la ligne de vie",
+  "categorie": "Chantier et outillage",
+  "definition": "Câble ou rail fixé à une structure, sur lequel le travailleur accroche sa longe en se déplaçant en hauteur.",
+  "priorite": 3,
+  "requetes": [
+   "lifeline cable roof fall protection",
+   "ligne de vie",
+   "horizontal lifeline"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "chaise-d-implantation",
+  "terme": "la chaise d'implantation",
+  "categorie": "Chantier et outillage",
+  "definition": "Planche horizontale clouée sur deux piquets, hors de la fouille, où l'on fixe les cordeaux qui matérialisent les axes.",
+  "priorite": 2,
+  "requetes": [
+   "batter boards",
+   "chaise d'implantation",
+   "batter board string line foundation"
+  ],
+  "incompatibles": [
+   "cordeau",
+   "piquet"
+  ]
+ },
+ {
+  "id": "piquet",
+  "terme": "le piquet",
+  "categorie": "Chantier et outillage",
+  "definition": "Pieu de bois ou fer pointu enfoncé dans le sol pour repérer un point ou tendre un cordeau.",
+  "priorite": 1,
+  "requetes": [
+   "survey stake",
+   "piquet implantation",
+   "wooden stakes construction"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "station-totale",
+  "terme": "la station totale",
+  "categorie": "Chantier et outillage",
+  "definition": "Appareil de topographie sur trépied, à lunette pivotante et écran, qui mesure angles et distances pour implanter.",
+  "priorite": 2,
+  "requetes": [
+   "total station surveying",
+   "station totale",
+   "incategory:\"Total stations\""
+  ],
+  "incompatibles": [
+   "mire"
+  ]
+ },
+ {
+  "id": "niveau-laser",
+  "terme": "le niveau laser",
+  "categorie": "Chantier et outillage",
+  "definition": "Appareil qui projette des lignes ou un plan laser horizontal et vertical pour donner niveaux et aplombs.",
+  "priorite": 2,
+  "requetes": [
+   "line laser level",
+   "niveau laser",
+   "rotary laser level"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "niveau-a-eau",
+  "terme": "le niveau à eau",
+  "categorie": "Chantier et outillage",
+  "definition": "Long tuyau transparent rempli d'eau dont les deux bouts donnent le même niveau, pour reporter un trait d'une pièce à l'autre.",
+  "priorite": 2,
+  "requetes": [
+   "water level tube",
+   "niveau à eau tuyau",
+   "hose level"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "mire",
+  "terme": "la mire",
+  "categorie": "Chantier et outillage",
+  "definition": "Longue règle graduée tenue verticalement, sur laquelle on lit la hauteur dans la lunette d'un niveau.",
+  "priorite": 3,
+  "requetes": [
+   "levelling staff",
+   "mire de nivellement",
+   "surveying rod"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "jalon",
+  "terme": "le jalon",
+  "categorie": "Chantier et outillage",
+  "definition": "Tige à bandes rouges et blanches plantée verticalement pour signaler un point visé de loin.",
+  "priorite": 3,
+  "requetes": [
+   "ranging pole",
+   "jalon topographie",
+   "range pole red white"
+  ],
+  "incompatibles": [
+   "mire"
+  ]
+ },
+ {
+  "id": "trottoir",
+  "terme": "le trottoir",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Partie surélevée de la rue, le long de la chaussée, réservée aux piétons.",
+  "priorite": 1,
+  "requetes": [
+   "sidewalk",
+   "trottoir",
+   "incategory:\"Sidewalks\""
+  ],
+  "incompatibles": [
+   "bordure-de-trottoir"
+  ]
+ },
+ {
+  "id": "bordure-de-trottoir",
+  "terme": "la bordure de trottoir",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Bloc allongé en béton ou en pierre qui borde le trottoir et marque sa différence de hauteur avec la chaussée.",
+  "priorite": 1,
+  "requetes": [
+   "curb stone",
+   "bordure de trottoir",
+   "incategory:\"Curbs\""
+  ],
+  "incompatibles": [
+   "caniveau"
+  ]
+ },
+ {
+  "id": "caniveau",
+  "terme": "le caniveau",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Rigole en béton ou en pierre au pied de la bordure, qui conduit l'eau de pluie de la chaussée vers les avaloirs.",
+  "priorite": 1,
+  "requetes": [
+   "street gutter",
+   "caniveau chaussée",
+   "road gutter kerb"
+  ],
+  "incompatibles": [
+   "fosse",
+   "canal-d-eaux-pluviales"
+  ]
+ },
+ {
+  "id": "caniveau-a-grille",
+  "terme": "le caniveau à grille",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Canal étroit en béton ou en polymère encastré dans le sol et recouvert d'une grille, qui recueille l'eau sur sa longueur.",
+  "priorite": 2,
+  "requetes": [
+   "channel drain grate",
+   "caniveau à grille",
+   "trench drain"
+  ],
+  "incompatibles": [
+   "caniveau",
+   "grille-avaloir"
+  ]
+ },
+ {
+  "id": "chaussee",
+  "terme": "la chaussée",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Partie de la rue ou de la route où roulent les véhicules.",
+  "priorite": 1,
+  "requetes": [
+   "road carriageway",
+   "chaussée",
+   "incategory:\"Roads\""
+  ],
+  "incompatibles": [
+   "enrobe"
+  ]
+ },
+ {
+  "id": "enrobe",
+  "terme": "l'enrobé",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Revêtement noir de gravillons liés au bitume, répandu à chaud et compacté sur une chaussée ou une cour.",
+  "priorite": 1,
+  "requetes": [
+   "asphalt paving",
+   "enrobé bitumineux",
+   "asphalt surface"
+  ],
+  "incompatibles": [
+   "chaussee"
+  ]
+ },
+ {
+  "id": "piste-en-laterite",
+  "terme": "la piste en latérite",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Route non revêtue en terre latéritique rouge compactée, courante en Afrique de l'Ouest.",
+  "priorite": 2,
+  "requetes": [
+   "laterite road",
+   "piste en latérite",
+   "red dirt road Africa"
+  ],
+  "incompatibles": [
+   "chaussee"
+  ]
+ },
+ {
+  "id": "pave-autobloquant",
+  "terme": "le pavé autobloquant",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Pavé en béton à formes emboîtables, posé sur sable sans mortier, très employé pour les trottoirs et cours à Dakar.",
+  "priorite": 1,
+  "requetes": [
+   "interlocking paving",
+   "pavé autobloquant",
+   "interlocking concrete pavers"
+  ],
+  "incompatibles": [
+   "pave",
+   "trottoir"
+  ]
+ },
+ {
+  "id": "pave",
+  "terme": "le pavé",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Bloc de pierre taillée, souvent cubique, juxtaposé à d'autres pour revêtir une rue ou une place.",
+  "priorite": 2,
+  "requetes": [
+   "cobblestone street",
+   "pavé de granit",
+   "incategory:\"Cobblestones\""
+  ],
+  "incompatibles": [
+   "pave-autobloquant"
+  ]
+ },
+ {
+  "id": "dalle-engazonnee",
+  "terme": "la dalle engazonnée",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Dalle en béton ou plastique ajourée d'alvéoles où pousse le gazon, pour un parking perméable.",
+  "priorite": 3,
+  "requetes": [
+   "grass paver",
+   "dalle engazonnée",
+   "grass grid paving"
+  ],
+  "incompatibles": [
+   "pelouse"
+  ]
+ },
+ {
+  "id": "pas-japonais",
+  "terme": "les pas japonais",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Dalles espacées posées dans la pelouse ou le gravier, sur lesquelles on marche pas à pas.",
+  "priorite": 3,
+  "requetes": [
+   "stepping stones garden path",
+   "pas japonais",
+   "stepping stone path"
+  ],
+  "incompatibles": [
+   "allee",
+   "pelouse"
+  ]
+ },
+ {
+  "id": "allee",
+  "terme": "l'allée",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Chemin aménagé d'un jardin ou d'une parcelle, en gravier, dalles ou pavés.",
+  "priorite": 2,
+  "requetes": [
+   "garden path",
+   "allée de jardin",
+   "gravel garden path"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "bordurette",
+  "terme": "la bordurette",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Petite bordure en béton qui borde une allée, une pelouse ou un massif.",
+  "priorite": 3,
+  "requetes": [
+   "garden edging concrete",
+   "bordurette béton",
+   "lawn edging kerb"
+  ],
+  "incompatibles": [
+   "bordure-de-trottoir",
+   "allee"
+  ]
+ },
+ {
+  "id": "regard",
+  "terme": "le regard",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Ouvrage enterré maçonné ou préfabriqué, fermé par un couvercle, qui donne accès à une canalisation pour la visite et le curage.",
+  "priorite": 1,
+  "requetes": [
+   "manhole open inspection chamber",
+   "regard de visite",
+   "inspection chamber drain"
+  ],
+  "incompatibles": [
+   "tampon-de-regard"
+  ]
+ },
+ {
+  "id": "tampon-de-regard",
+  "terme": "le tampon de regard",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Couvercle rond ou carré, en fonte ou en béton, qui ferme un regard au niveau du sol.",
+  "priorite": 1,
+  "requetes": [
+   "manhole cover",
+   "tampon fonte",
+   "incategory:\"Manhole covers\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "avaloir",
+  "terme": "l'avaloir",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Bouche d'égout ouverte dans la bordure ou le caniveau, par laquelle l'eau de pluie descend dans le réseau.",
+  "priorite": 1,
+  "requetes": [
+   "storm drain inlet curb",
+   "avaloir",
+   "kerb inlet"
+  ],
+  "incompatibles": [
+   "grille-avaloir",
+   "caniveau"
+  ]
+ },
+ {
+  "id": "grille-avaloir",
+  "terme": "la grille avaloir",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Grille en fonte posée dans le caniveau ou la chaussée, au-dessus d'un avaloir, qui laisse passer l'eau.",
+  "priorite": 2,
+  "requetes": [
+   "storm drain grate",
+   "grille avaloir fonte",
+   "gully grate"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "canal-d-eaux-pluviales",
+  "terme": "le canal d'eaux pluviales",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Large canal à ciel ouvert en béton qui traverse un quartier pour évacuer les eaux de pluie, comme on en voit à Dakar.",
+  "priorite": 2,
+  "requetes": [
+   "open storm drain canal concrete",
+   "canal d'évacuation des eaux pluviales Dakar",
+   "open drainage channel city"
+  ],
+  "incompatibles": [
+   "fosse"
+  ]
+ },
+ {
+  "id": "fosse",
+  "terme": "le fossé",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Tranchée en terre creusée le long d'une route ou d'un terrain pour recueillir et évacuer l'eau.",
+  "priorite": 2,
+  "requetes": [
+   "roadside ditch",
+   "fossé",
+   "drainage ditch"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "dalot",
+  "terme": "le dalot",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Ouvrage rectangulaire en béton qui fait passer l'eau sous une route.",
+  "priorite": 2,
+  "requetes": [
+   "box culvert road",
+   "dalot",
+   "box culvert concrete"
+  ],
+  "incompatibles": [
+   "buse"
+  ]
+ },
+ {
+  "id": "buse",
+  "terme": "la buse",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Gros tuyau cylindrique en béton qui fait passer l'eau sous une voie ou une entrée de parcelle.",
+  "priorite": 2,
+  "requetes": [
+   "concrete pipe culvert",
+   "buse béton",
+   "pipe culvert"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "fosse-septique",
+  "terme": "la fosse septique",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Cuve enterrée en béton ou préfabriquée, fermée de dalles ou de tampons, qui recueille et prétraite les eaux usées d'une maison.",
+  "priorite": 1,
+  "requetes": [
+   "septic tank installation",
+   "fosse septique",
+   "septic tank concrete"
+  ],
+  "incompatibles": [
+   "puisard",
+   "regard"
+  ]
+ },
+ {
+  "id": "puisard",
+  "terme": "le puisard",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Puits maçonné à fond perméable, couvert d'une dalle, dans lequel les eaux s'infiltrent dans le sol.",
+  "priorite": 3,
+  "requetes": [
+   "soakaway pit",
+   "puisard",
+   "soak pit"
+  ],
+  "incompatibles": [
+   "fosse-septique"
+  ]
+ },
+ {
+  "id": "bassin-de-retention",
+  "terme": "le bassin de rétention",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Grand bassin à ciel ouvert, à berges en terre ou en béton, qui stocke les eaux de pluie avant de les rejeter.",
+  "priorite": 3,
+  "requetes": [
+   "retention pond",
+   "bassin de rétention",
+   "stormwater detention basin"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "dos-d-ane",
+  "terme": "le dos-d'âne",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Bosse aménagée en travers de la chaussée pour obliger les véhicules à ralentir.",
+  "priorite": 1,
+  "requetes": [
+   "speed bump",
+   "dos d'âne ralentisseur",
+   "incategory:\"Speed bumps\""
+  ],
+  "incompatibles": [
+   "passage-pieton"
+  ]
+ },
+ {
+  "id": "passage-pieton",
+  "terme": "le passage piéton",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Bandes blanches peintes en travers de la chaussée, où les piétons traversent.",
+  "priorite": 1,
+  "requetes": [
+   "zebra crossing",
+   "passage piéton",
+   "incategory:\"Zebra crossings\""
+  ],
+  "incompatibles": [
+   "marquage-au-sol"
+  ]
+ },
+ {
+  "id": "marquage-au-sol",
+  "terme": "le marquage au sol",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Lignes et signes peints en blanc ou en jaune sur la chaussée pour guider la circulation.",
+  "priorite": 1,
+  "requetes": [
+   "road markings",
+   "marquage au sol",
+   "road surface marking lines"
+  ],
+  "incompatibles": [
+   "chaussee"
+  ]
+ },
+ {
+  "id": "terre-plein-central",
+  "terme": "le terre-plein central",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Bande surélevée, plantée ou bétonnée, qui sépare les deux sens de circulation d'une route.",
+  "priorite": 3,
+  "requetes": [
+   "road median strip",
+   "terre-plein central",
+   "central reservation"
+  ],
+  "incompatibles": [
+   "bordure-de-trottoir"
+  ]
+ },
+ {
+  "id": "accotement",
+  "terme": "l'accotement",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Bande non roulée, en terre ou en gravier, située entre le bord de la chaussée et le fossé.",
+  "priorite": 3,
+  "requetes": [
+   "road shoulder",
+   "accotement route",
+   "gravel road shoulder"
+  ],
+  "incompatibles": [
+   "chaussee",
+   "fosse"
+  ]
+ },
+ {
+  "id": "potelet",
+  "terme": "le potelet",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Petit poteau fixé au bord du trottoir pour empêcher les voitures d'y stationner.",
+  "priorite": 2,
+  "requetes": [
+   "bollard sidewalk",
+   "potelet",
+   "incategory:\"Bollards\""
+  ],
+  "incompatibles": [
+   "trottoir"
+  ]
+ },
+ {
+  "id": "lampadaire",
+  "terme": "le lampadaire",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Haut mât portant un ou plusieurs luminaires qui éclairent la rue.",
+  "priorite": 1,
+  "requetes": [
+   "street light pole",
+   "lampadaire",
+   "incategory:\"Street lights\""
+  ],
+  "incompatibles": [
+   "lampadaire-solaire"
+  ]
+ },
+ {
+  "id": "panneau-de-signalisation",
+  "terme": "le panneau de signalisation",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Plaque métallique à symboles, fixée sur un poteau, qui donne une indication ou une obligation aux usagers de la route.",
+  "priorite": 1,
+  "requetes": [
+   "road sign",
+   "panneau de signalisation routière",
+   "traffic sign pole"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "abribus",
+  "terme": "l'abribus",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Abri couvert, souvent vitré et muni d'un banc, installé à un arrêt de bus.",
+  "priorite": 2,
+  "requetes": [
+   "bus shelter",
+   "abribus",
+   "incategory:\"Bus shelters\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "piste-cyclable",
+  "terme": "la piste cyclable",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Voie réservée aux vélos, séparée ou marquée au sol, parfois de couleur distincte.",
+  "priorite": 3,
+  "requetes": [
+   "bike lane",
+   "piste cyclable",
+   "cycle track"
+  ],
+  "incompatibles": [
+   "marquage-au-sol"
+  ]
+ },
+ {
+  "id": "bateau-de-trottoir",
+  "terme": "le bateau de trottoir",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Abaissement de la bordure et du trottoir qui permet aux véhicules ou aux fauteuils de passer de la chaussée au trottoir.",
+  "priorite": 3,
+  "requetes": [
+   "curb ramp",
+   "bateau de trottoir abaissé",
+   "dropped kerb"
+  ],
+  "incompatibles": [
+   "bordure-de-trottoir",
+   "trottoir"
+  ]
+ },
+ {
+  "id": "dalle-podotactile",
+  "terme": "la dalle podotactile",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Dalle à plots en relief, souvent de couleur contrastée, posée au bord d'un quai ou d'un passage pour alerter les malvoyants.",
+  "priorite": 3,
+  "requetes": [
+   "tactile paving",
+   "dalle podotactile",
+   "tactile warning strip"
+  ],
+  "incompatibles": [
+   "trottoir"
+  ]
+ },
+ {
+  "id": "mur-de-cloture",
+  "terme": "le mur de clôture",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Mur maçonné qui ferme une parcelle sur la rue et les voisins, typique des concessions et villas de Dakar.",
+  "priorite": 1,
+  "requetes": [
+   "boundary wall house",
+   "mur de clôture",
+   "compound wall Senegal"
+  ],
+  "incompatibles": [
+   "pilier-de-portail",
+   "chaperon"
+  ]
+ },
+ {
+  "id": "muret",
+  "terme": "le muret",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Mur bas qui délimite un jardin, une allée ou supporte une grille.",
+  "priorite": 1,
+  "requetes": [
+   "low garden wall",
+   "muret",
+   "low wall"
+  ],
+  "incompatibles": [
+   "mur-de-cloture"
+  ]
+ },
+ {
+  "id": "pilier-de-portail",
+  "terme": "le pilier de portail",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Poteau maçonné, souvent coiffé d'un chapeau, sur lequel le portail est fixé de chaque côté de l'entrée.",
+  "priorite": 1,
+  "requetes": [
+   "gate pillar",
+   "pilier de portail",
+   "brick gate pier"
+  ],
+  "incompatibles": [
+   "mur-de-cloture"
+  ]
+ },
+ {
+  "id": "chaperon",
+  "terme": "le chaperon",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Couronnement en pente d'un mur de clôture ou d'un pilier, qui rejette l'eau de pluie.",
+  "priorite": 1,
+  "requetes": [
+   "wall coping",
+   "chaperon de mur",
+   "coping stone wall"
+  ],
+  "incompatibles": [
+   "mur-de-cloture"
+  ]
+ },
+ {
+  "id": "tessons-de-verre",
+  "terme": "les tessons de verre",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Morceaux de bouteilles cassées scellés dans le mortier en crête de mur pour empêcher l'escalade.",
+  "priorite": 2,
+  "requetes": [
+   "broken glass wall top",
+   "tessons de bouteille sur mur",
+   "glass shards on wall security"
+  ],
+  "incompatibles": [
+   "mur-de-cloture"
+  ]
+ },
+ {
+  "id": "fil-barbele",
+  "terme": "le fil barbelé",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Fil de fer torsadé garni de pointes, tendu sur une clôture ou en haut d'un mur.",
+  "priorite": 1,
+  "requetes": [
+   "barbed wire fence",
+   "fil barbelé",
+   "incategory:\"Barbed wire\""
+  ],
+  "incompatibles": [
+   "cloture-grillagee"
+  ]
+ },
+ {
+  "id": "concertina",
+  "terme": "le concertina",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Rouleau de fil barbelé à lames tranchantes, déployé en spirales en haut d'un mur ou d'une clôture.",
+  "priorite": 3,
+  "requetes": [
+   "razor wire coil wall",
+   "concertina barbelé",
+   "concertina wire"
+  ],
+  "incompatibles": [
+   "fil-barbele"
+  ]
+ },
+ {
+  "id": "cloture-grillagee",
+  "terme": "la clôture grillagée",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Clôture faite d'un grillage métallique tendu entre des poteaux.",
+  "priorite": 1,
+  "requetes": [
+   "chain link fence",
+   "clôture grillagée",
+   "wire mesh fence"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "cloture-en-bois",
+  "terme": "la clôture en bois",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Clôture faite de planches, de lattes ou de piquets de bois fixés à des poteaux.",
+  "priorite": 3,
+  "requetes": [
+   "wooden fence garden",
+   "clôture en bois",
+   "picket fence"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "haie",
+  "terme": "la haie",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Rangée d'arbustes plantés serrés et taillés, qui forme une clôture végétale.",
+  "priorite": 2,
+  "requetes": [
+   "hedge garden",
+   "haie taillée",
+   "incategory:\"Hedges\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "mur-de-soutenement",
+  "terme": "le mur de soutènement",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Mur épais qui retient les terres d'un talus ou d'un terrain en pente.",
+  "priorite": 2,
+  "requetes": [
+   "retaining wall",
+   "mur de soutènement",
+   "incategory:\"Retaining walls\""
+  ],
+  "incompatibles": [
+   "barbacane"
+  ]
+ },
+ {
+  "id": "barbacane",
+  "terme": "la barbacane",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Petit trou ou tuyau traversant le bas d'un mur de soutènement, par où s'écoule l'eau des terres retenues.",
+  "priorite": 3,
+  "requetes": [
+   "weep hole retaining wall",
+   "barbacane mur de soutènement",
+   "retaining wall weep holes"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "gabion",
+  "terme": "le gabion",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Cage en grillage d'acier remplie de pierres, empilée pour former murs et soutènements.",
+  "priorite": 2,
+  "requetes": [
+   "gabion wall",
+   "gabion",
+   "incategory:\"Gabions\""
+  ],
+  "incompatibles": [
+   "mur-de-soutenement"
+  ]
+ },
+ {
+  "id": "enrochement",
+  "terme": "l'enrochement",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Amas de gros blocs de roche disposés pour protéger un talus, une berge ou un littoral.",
+  "priorite": 2,
+  "requetes": [
+   "riprap rock embankment",
+   "enrochement",
+   "rock armour shore"
+  ],
+  "incompatibles": [
+   "talus"
+  ]
+ },
+ {
+  "id": "talus",
+  "terme": "le talus",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Terrain en pente, naturel ou remblayé, qui raccorde deux niveaux de sol.",
+  "priorite": 2,
+  "requetes": [
+   "embankment slope grass",
+   "talus",
+   "road embankment slope"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "pergola",
+  "terme": "la pergola",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Structure de poteaux et de poutres ajourées qui forme un couvert léger au-dessus d'une terrasse ou d'une allée.",
+  "priorite": 2,
+  "requetes": [
+   "pergola garden",
+   "pergola",
+   "incategory:\"Pergolas\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "grille-d-arbre",
+  "terme": "la grille d'arbre",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Grille métallique posée au sol autour du pied d'un arbre planté dans un trottoir ou une place.",
+  "priorite": 3,
+  "requetes": [
+   "tree grate",
+   "grille d'arbre",
+   "tree grille pavement"
+  ],
+  "incompatibles": [
+   "trottoir"
+  ]
+ },
+ {
+  "id": "pelouse",
+  "terme": "la pelouse",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Surface plantée de gazon court et entretenu.",
+  "priorite": 2,
+  "requetes": [
+   "lawn",
+   "pelouse",
+   "incategory:\"Lawns\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "aire-de-jeux",
+  "terme": "l'aire de jeux",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Espace extérieur équipé de toboggans, balançoires et jeux pour enfants, sur un sol amortissant.",
+  "priorite": 3,
+  "requetes": [
+   "playground equipment",
+   "aire de jeux",
+   "incategory:\"Playgrounds\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "guerite",
+  "terme": "la guérite",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Petit abri maçonné ou préfabriqué placé à l'entrée d'une propriété ou d'un site, où se tient le gardien.",
+  "priorite": 3,
+  "requetes": [
+   "guard booth gate",
+   "guérite gardien",
+   "security guard house entrance"
+  ],
+  "incompatibles": [
+   "pilier-de-portail"
+  ]
+ },
+ {
+  "id": "piscine",
+  "terme": "la piscine",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Bassin artificiel étanche, revêtu de carrelage, de liner ou d'enduit, aménagé pour la baignade.",
+  "priorite": 1,
+  "requetes": [
+   "swimming pool villa",
+   "piscine",
+   "incategory:\"Swimming pools\""
+  ],
+  "incompatibles": [
+   "margelle",
+   "plage-de-piscine"
+  ]
+ },
+ {
+  "id": "piscine-a-debordement",
+  "terme": "la piscine à débordement",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Piscine dont l'eau déborde sur un ou plusieurs bords en une lame continue, donnant l'illusion qu'elle se prolonge dans le paysage.",
+  "priorite": 3,
+  "requetes": [
+   "infinity pool",
+   "piscine à débordement",
+   "infinity edge pool"
+  ],
+  "incompatibles": [
+   "piscine"
+  ]
+ },
+ {
+  "id": "margelle",
+  "terme": "la margelle",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Rebord en pierre, béton ou carrelage qui couronne le bord du bassin d'une piscine.",
+  "priorite": 2,
+  "requetes": [
+   "pool coping",
+   "margelle piscine",
+   "swimming pool coping stone"
+  ],
+  "incompatibles": [
+   "piscine"
+  ]
+ },
+ {
+  "id": "plage-de-piscine",
+  "terme": "la plage de piscine",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Surface dallée ou en bois qui entoure le bassin d'une piscine.",
+  "priorite": 3,
+  "requetes": [
+   "pool deck",
+   "plage de piscine",
+   "pool deck paving"
+  ],
+  "incompatibles": [
+   "margelle"
+  ]
+ },
+ {
+  "id": "skimmer",
+  "terme": "le skimmer",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Bouche rectangulaire placée en haut de la paroi d'une piscine, qui aspire l'eau de surface vers la filtration.",
+  "priorite": 3,
+  "requetes": [
+   "pool skimmer",
+   "skimmer piscine",
+   "swimming pool skimmer opening"
+  ],
+  "incompatibles": [
+   "piscine",
+   "margelle"
+  ]
+ },
+ {
+  "id": "echelle-de-piscine",
+  "terme": "l'échelle de piscine",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Échelle en tubes d'inox recourbés, fixée au bord du bassin, pour entrer et sortir de l'eau.",
+  "priorite": 3,
+  "requetes": [
+   "pool ladder stainless",
+   "échelle de piscine",
+   "swimming pool ladder"
+  ],
+  "incompatibles": [
+   "piscine",
+   "margelle"
+  ]
+ },
+ {
+  "id": "pediluve",
+  "terme": "le pédiluve",
+  "categorie": "Extérieurs et voirie",
+  "definition": "Petit bassin peu profond où l'on se lave les pieds avant d'accéder à une piscine.",
+  "priorite": 3,
+  "requetes": [
+   "footbath pool",
+   "pédiluve",
+   "foot bath swimming pool entrance"
+  ],
+  "incompatibles": []
+ }
+]

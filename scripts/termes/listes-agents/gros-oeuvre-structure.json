@@ -1,0 +1,2402 @@
+[
+ {
+  "id": "fondation",
+  "terme": "la fondation",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Partie enterrée d'un ouvrage, en béton ou en maçonnerie, qui reporte ses charges sur le sol, vue en cours de travaux au fond des fouilles.",
+  "priorite": 1,
+  "requetes": [
+   "building foundation construction site concrete",
+   "fondation béton chantier",
+   "foundation concrete rebar trench"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "semelle-filante",
+  "terme": "la semelle filante",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Fondation continue en béton armé, en forme de bande, coulée au fond d'une tranchée sous toute la longueur d'un mur.",
+  "priorite": 1,
+  "requetes": [
+   "strip footing concrete construction",
+   "semelle filante béton armé",
+   "strip foundation rebar trench"
+  ],
+  "incompatibles": [
+   "fondation",
+   "tranchee-de-fondation"
+  ]
+ },
+ {
+  "id": "semelle-isolee",
+  "terme": "la semelle isolée",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Fondation ponctuelle en béton armé, en forme de bloc carré ou rectangulaire, placée sous un poteau dont les armatures en sortent.",
+  "priorite": 1,
+  "requetes": [
+   "pad footing rebar column starter",
+   "semelle isolée poteau béton armé",
+   "isolated footing construction"
+  ],
+  "incompatibles": [
+   "fondation",
+   "amorce-de-poteau",
+   "fouille"
+  ]
+ },
+ {
+  "id": "radier",
+  "terme": "le radier",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Dalle épaisse en béton armé qui couvre toute l'emprise d'un bâtiment et sert de fondation générale.",
+  "priorite": 2,
+  "requetes": [
+   "raft foundation rebar construction",
+   "radier général béton armé",
+   "mat foundation concrete pour"
+  ],
+  "incompatibles": [
+   "fondation",
+   "dallage"
+  ]
+ },
+ {
+  "id": "pieu",
+  "terme": "le pieu",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Long fût de béton, d'acier ou de bois enfoncé ou coulé profondément dans le sol pour porter un ouvrage, dont on voit la tête dépasser du terrain.",
+  "priorite": 3,
+  "requetes": [
+   "concrete pile heads construction site",
+   "pieux de fondation béton",
+   "pile foundation"
+  ],
+  "incompatibles": [
+   "fondation"
+  ]
+ },
+ {
+  "id": "longrine",
+  "terme": "la longrine",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Poutre en béton armé posée au niveau des fondations, qui relie les semelles entre elles et porte les murs du rez-de-chaussée.",
+  "priorite": 2,
+  "requetes": [
+   "grade beam rebar construction",
+   "longrine béton armé fondation",
+   "ground beam formwork"
+  ],
+  "incompatibles": [
+   "fondation",
+   "semelle-isolee",
+   "chainage-horizontal"
+  ]
+ },
+ {
+  "id": "beton-de-proprete",
+  "terme": "le béton de propreté",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Mince couche de béton maigre coulée au fond des fouilles pour obtenir une surface propre et plane avant de poser les armatures.",
+  "priorite": 1,
+  "requetes": [
+   "blinding concrete foundation",
+   "béton de propreté fouille",
+   "lean concrete blinding layer"
+  ],
+  "incompatibles": [
+   "fouille",
+   "fondation"
+  ]
+ },
+ {
+  "id": "beton-cyclopeen",
+  "terme": "le béton cyclopéen",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Béton dans lequel on noie de gros blocs de pierre, utilisé pour les fondations massives et les murs de soubassement.",
+  "priorite": 3,
+  "requetes": [
+   "cyclopean concrete",
+   "béton cyclopéen",
+   "rubble concrete foundation stones"
+  ],
+  "incompatibles": [
+   "fondation"
+  ]
+ },
+ {
+  "id": "soubassement",
+  "terme": "le soubassement",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Partie basse d'un mur, entre les fondations et le niveau du plancher bas, souvent plus épaisse ou traitée différemment du reste du mur.",
+  "priorite": 2,
+  "requetes": [
+   "plinth wall building base masonry",
+   "soubassement mur maçonnerie",
+   "building plinth course"
+  ],
+  "incompatibles": [
+   "fondation"
+  ]
+ },
+ {
+  "id": "arase-etanche",
+  "terme": "l'arase étanche",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Couche de mortier hydrofuge ou bande bitumineuse posée en tête du soubassement pour couper les remontées d'humidité dans le mur.",
+  "priorite": 3,
+  "requetes": [
+   "damp proof course wall",
+   "arase étanche bande bitumineuse mur",
+   "DPC brick wall membrane"
+  ],
+  "incompatibles": [
+   "soubassement",
+   "arase"
+  ]
+ },
+ {
+  "id": "vide-sanitaire",
+  "terme": "le vide sanitaire",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Espace vide de faible hauteur ménagé entre le sol et le plancher bas d'un bâtiment, visible par ses ouvertures de ventilation ou en cours de construction.",
+  "priorite": 3,
+  "requetes": [
+   "crawl space foundation",
+   "vide sanitaire construction",
+   "crawlspace under house"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "fouille",
+  "terme": "la fouille",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Excavation creusée dans le terrain pour recevoir les fondations ou un sous-sol.",
+  "priorite": 1,
+  "requetes": [
+   "foundation excavation pit construction site",
+   "fouille fondations chantier",
+   "excavation construction"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "tranchee-de-fondation",
+  "terme": "la tranchée de fondation",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Fouille longue et étroite creusée selon le tracé des murs pour recevoir les semelles filantes.",
+  "priorite": 1,
+  "requetes": [
+   "foundation trench construction",
+   "tranchée de fondation",
+   "trench footing excavation"
+  ],
+  "incompatibles": [
+   "fouille"
+  ]
+ },
+ {
+  "id": "deblai",
+  "terme": "le déblai",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Terre extraite lors du terrassement, déposée en tas au bord des fouilles ou évacuée du chantier.",
+  "priorite": 2,
+  "requetes": [
+   "excavated soil pile construction site",
+   "déblai terrassement",
+   "spoil heap excavation"
+  ],
+  "incompatibles": [
+   "fouille",
+   "remblai"
+  ]
+ },
+ {
+  "id": "remblai",
+  "terme": "le remblai",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Terre ou matériau rapporté et compacté pour combler une fouille, rehausser un terrain ou remplir l'intérieur des fondations.",
+  "priorite": 2,
+  "requetes": [
+   "backfill soil foundation construction",
+   "remblai compacté fondation",
+   "backfilling trench"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "blindage-de-fouille",
+  "terme": "le blindage de fouille",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Ensemble de panneaux, planches ou caissons métalliques étayés qui retiennent les parois d'une tranchée profonde.",
+  "priorite": 3,
+  "requetes": [
+   "trench shoring",
+   "blindage de tranchée",
+   "trench box excavation"
+  ],
+  "incompatibles": [
+   "tranchee-de-fondation",
+   "fouille"
+  ]
+ },
+ {
+  "id": "film-polyethylene",
+  "terme": "le film polyéthylène",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Feuille de plastique, souvent appelée polyane, étalée sous un dallage ou un radier pour faire barrière à l'humidité du sol.",
+  "priorite": 2,
+  "requetes": [
+   "polyethylene vapour barrier under slab",
+   "film polyane dallage",
+   "plastic membrane concrete slab rebar"
+  ],
+  "incompatibles": [
+   "dallage",
+   "herisson"
+  ]
+ },
+ {
+  "id": "herisson",
+  "terme": "le hérisson",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Couche de cailloux ou de pierres concassées étalée et compactée sur le sol, sous un dallage, pour drainer et couper les remontées d'humidité.",
+  "priorite": 1,
+  "requetes": [
+   "hardcore layer under concrete slab",
+   "hérisson cailloux dallage",
+   "gravel sub-base slab"
+  ],
+  "incompatibles": [
+   "dallage"
+  ]
+ },
+ {
+  "id": "paroi-moulee",
+  "terme": "la paroi moulée",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Mur en béton armé coulé dans une tranchée profonde avant le terrassement, qui soutient les terres d'un sous-sol.",
+  "priorite": 3,
+  "requetes": [
+   "diaphragm wall excavation",
+   "paroi moulée",
+   "slurry wall basement construction"
+  ],
+  "incompatibles": [
+   "fouille"
+  ]
+ },
+ {
+  "id": "paroi-berlinoise",
+  "terme": "la paroi berlinoise",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Soutènement provisoire de fouille fait de profilés métalliques verticaux entre lesquels on place des planches ou du béton projeté.",
+  "priorite": 3,
+  "requetes": [
+   "soldier pile wall timber lagging",
+   "paroi berlinoise",
+   "berliner verbau"
+  ],
+  "incompatibles": [
+   "fouille",
+   "palplanche"
+  ]
+ },
+ {
+  "id": "palplanche",
+  "terme": "la palplanche",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Profilé d'acier ondulé, enfoncé verticalement et emboîté avec ses voisins pour former un rideau qui retient la terre ou l'eau.",
+  "priorite": 3,
+  "requetes": [
+   "steel sheet piling",
+   "palplanches",
+   "sheet pile wall"
+  ],
+  "incompatibles": [
+   "fouille"
+  ]
+ },
+ {
+  "id": "badigeon-bitumineux",
+  "terme": "le badigeon bitumineux",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Couche noire de bitume appliquée sur la face enterrée des fondations et des murs pour les protéger de l'humidité.",
+  "priorite": 3,
+  "requetes": [
+   "bitumen coating foundation wall",
+   "enduit bitumineux fondation",
+   "black tar waterproofing foundation"
+  ],
+  "incompatibles": [
+   "fondation",
+   "soubassement"
+  ]
+ },
+ {
+  "id": "plot-de-beton",
+  "terme": "le plot de béton",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Petit massif de béton coulé dans un trou, qui sert de fondation à un poteau léger, une clôture ou une terrasse.",
+  "priorite": 3,
+  "requetes": [
+   "concrete pier footing post",
+   "plot béton fondation",
+   "concrete footing post hole"
+  ],
+  "incompatibles": [
+   "fondation"
+  ]
+ },
+ {
+  "id": "beton-frais",
+  "terme": "le béton frais",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Béton qui vient d'être coulé, encore humide et malléable, de couleur gris foncé.",
+  "priorite": 2,
+  "requetes": [
+   "fresh concrete pouring",
+   "béton frais coulage",
+   "wet concrete slab"
+  ],
+  "incompatibles": [
+   "betonnage"
+  ]
+ },
+ {
+  "id": "betonnage",
+  "terme": "le bétonnage",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Coulage du béton dans un coffrage ou sur une dalle, à la pompe, à la goulotte ou au seau.",
+  "priorite": 1,
+  "requetes": [
+   "concrete pouring slab construction workers",
+   "coulage béton dalle",
+   "concrete pour pump"
+  ],
+  "incompatibles": [
+   "beton-frais"
+  ]
+ },
+ {
+  "id": "ferraillage",
+  "terme": "le ferraillage",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Ensemble des barres d'acier assemblées en place avant le coulage, qui formeront les armatures d'un ouvrage en béton armé.",
+  "priorite": 1,
+  "requetes": [
+   "rebar reinforcement construction",
+   "ferraillage béton armé",
+   "steel reinforcement slab"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "ferraillage-de-dalle",
+  "terme": "le ferraillage de dalle",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Nappe de barres d'acier croisées posée sur les coffrages ou les poutrelles avant le coulage d'une dalle.",
+  "priorite": 2,
+  "requetes": [
+   "slab reinforcement rebar mesh before pour",
+   "ferraillage dalle",
+   "rebar slab deck"
+  ],
+  "incompatibles": [
+   "ferraillage",
+   "treillis-soude"
+  ]
+ },
+ {
+  "id": "cage-d-armature",
+  "terme": "la cage d'armature",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Assemblage préparé de barres longitudinales tenues par des cadres, destiné à un poteau, une poutre ou un pieu.",
+  "priorite": 2,
+  "requetes": [
+   "rebar cage",
+   "cage d'armature poteau",
+   "reinforcement cage column"
+  ],
+  "incompatibles": [
+   "ferraillage",
+   "cadre-d-armature"
+  ]
+ },
+ {
+  "id": "fer-a-beton",
+  "terme": "le fer à béton",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Barre d'acier à surface crénelée, dite haute adhérence (HA), livrée en longueurs droites et façonnée sur le chantier.",
+  "priorite": 1,
+  "requetes": [
+   "rebar bundle steel bars",
+   "fer à béton barres HA",
+   "deformed reinforcing bars"
+  ],
+  "incompatibles": [
+   "ferraillage"
+  ]
+ },
+ {
+  "id": "rond-lisse",
+  "terme": "le rond lisse",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Barre d'acier ronde à surface lisse, sans crénelures, employée pour les petites armatures et les crochets.",
+  "priorite": 3,
+  "requetes": [
+   "plain round steel bar",
+   "rond lisse acier",
+   "smooth round bar steel"
+  ],
+  "incompatibles": [
+   "fer-a-beton"
+  ]
+ },
+ {
+  "id": "cadre-d-armature",
+  "terme": "le cadre d'armature",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Barre d'acier pliée en carré ou en rectangle fermé, qui entoure les barres longitudinales d'un poteau ou d'une poutre.",
+  "priorite": 1,
+  "requetes": [
+   "rebar ties column stirrups",
+   "cadres armature poteau",
+   "rebar stirrup"
+  ],
+  "incompatibles": [
+   "ferraillage",
+   "etrier"
+  ]
+ },
+ {
+  "id": "etrier",
+  "terme": "l'étrier",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Barre d'acier pliée en U qui maintient les barres d'une poutre et reprend l'effort tranchant.",
+  "priorite": 2,
+  "requetes": [
+   "U shaped stirrup beam reinforcement",
+   "étrier armature poutre",
+   "beam stirrups rebar"
+  ],
+  "incompatibles": [
+   "ferraillage",
+   "cadre-d-armature"
+  ]
+ },
+ {
+  "id": "epingle",
+  "terme": "l'épingle",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Petite barre d'acier droite à crochets aux deux bouts, qui relie deux barres opposées d'une armature.",
+  "priorite": 3,
+  "requetes": [
+   "rebar cross tie hook",
+   "épingle armature",
+   "crosstie reinforcement"
+  ],
+  "incompatibles": [
+   "ferraillage",
+   "cadre-d-armature"
+  ]
+ },
+ {
+  "id": "crochet-d-armature",
+  "terme": "le crochet d'armature",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Extrémité recourbée d'une barre d'acier qui améliore son ancrage dans le béton.",
+  "priorite": 2,
+  "requetes": [
+   "rebar hook bend",
+   "crochet armature",
+   "standard hook rebar"
+  ],
+  "incompatibles": [
+   "ferraillage"
+  ]
+ },
+ {
+  "id": "treillis-soude",
+  "terme": "le treillis soudé",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Grillage de barres d'acier soudées en mailles carrées ou rectangulaires, livré en panneaux, posé dans les dalles et les dallages.",
+  "priorite": 1,
+  "requetes": [
+   "welded wire mesh reinforcement slab",
+   "treillis soudé",
+   "welded steel mesh panels"
+  ],
+  "incompatibles": [
+   "ferraillage"
+  ]
+ },
+ {
+  "id": "armature-en-attente",
+  "terme": "l'armature en attente",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Barre d'acier laissée en saillie d'un ouvrage en béton pour être raccordée à la partie coulée plus tard ; on parle couramment des attentes, par exemple au-dessus d'une toiture-terrasse.",
+  "priorite": 1,
+  "requetes": [
+   "rebar protruding from concrete column roof",
+   "fers en attente poteau",
+   "starter bars sticking out concrete"
+  ],
+  "incompatibles": [
+   "ferraillage",
+   "amorce-de-poteau"
+  ]
+ },
+ {
+  "id": "amorce-de-poteau",
+  "terme": "l'amorce de poteau",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Départ de poteau en béton déjà coulé sur une faible hauteur, d'où sortent les armatures du poteau à venir.",
+  "priorite": 2,
+  "requetes": [
+   "column kicker starter bars",
+   "amorce de poteau",
+   "concrete column stub rebar"
+  ],
+  "incompatibles": [
+   "armature-en-attente"
+  ]
+ },
+ {
+  "id": "recouvrement-d-armatures",
+  "terme": "le recouvrement d'armatures",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Zone où deux barres d'acier se chevauchent sur une certaine longueur pour assurer la continuité de l'armature.",
+  "priorite": 2,
+  "requetes": [
+   "rebar lap splice",
+   "recouvrement armatures",
+   "lapped reinforcement bars"
+  ],
+  "incompatibles": [
+   "ferraillage",
+   "armature-en-attente"
+  ]
+ },
+ {
+  "id": "coupleur-d-armature",
+  "terme": "le coupleur d'armature",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Manchon d'acier fileté ou serti qui raccorde bout à bout deux barres d'armature.",
+  "priorite": 3,
+  "requetes": [
+   "rebar coupler",
+   "manchon coupleur armature",
+   "mechanical splice rebar"
+  ],
+  "incompatibles": [
+   "ferraillage"
+  ]
+ },
+ {
+  "id": "ligature",
+  "terme": "la ligature",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Fil de fer recuit noué à la croisée de deux barres pour les maintenir en place avant le coulage.",
+  "priorite": 2,
+  "requetes": [
+   "rebar tying wire",
+   "ligature fil recuit armature",
+   "tied rebar intersection"
+  ],
+  "incompatibles": [
+   "ferraillage"
+  ]
+ },
+ {
+  "id": "cale-d-armature",
+  "terme": "la cale d'armature",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Petite pièce en béton ou en plastique placée sous ou contre les armatures pour les tenir à distance du coffrage et garantir l'enrobage.",
+  "priorite": 2,
+  "requetes": [
+   "rebar spacer",
+   "cale béton armature",
+   "concrete spacer blocks"
+  ],
+  "incompatibles": [
+   "ferraillage",
+   "enrobage"
+  ]
+ },
+ {
+  "id": "chaise-d-armature",
+  "terme": "la chaise d'armature",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Support en acier plié ou en plastique qui tient la nappe supérieure d'armatures d'une dalle à la bonne hauteur.",
+  "priorite": 2,
+  "requetes": [
+   "rebar chair",
+   "chaise armature dalle",
+   "rebar support chair slab"
+  ],
+  "incompatibles": [
+   "ferraillage",
+   "ferraillage-de-dalle"
+  ]
+ },
+ {
+  "id": "enrobage",
+  "terme": "l'enrobage",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Épaisseur de béton qui recouvre les armatures et les protège ; on la voit à la tranche d'une pièce ou lorsqu'elle a éclaté.",
+  "priorite": 3,
+  "requetes": [
+   "concrete cover rebar",
+   "enrobage armatures béton",
+   "insufficient concrete cover exposed rebar"
+  ],
+  "incompatibles": [
+   "corrosion-des-armatures",
+   "epaufrure"
+  ]
+ },
+ {
+  "id": "reprise-de-betonnage",
+  "terme": "la reprise de bétonnage",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Ligne visible où un béton nouveau a été coulé contre un béton déjà durci.",
+  "priorite": 2,
+  "requetes": [
+   "construction joint concrete",
+   "reprise de bétonnage",
+   "cold joint concrete wall"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "nid-de-cailloux",
+  "terme": "le nid de cailloux",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Défaut de surface du béton où les graviers apparaissent sans mortier, faute de vibration ou à cause d'une fuite du coffrage.",
+  "priorite": 2,
+  "requetes": [
+   "honeycombing concrete",
+   "nid de cailloux béton",
+   "concrete honeycomb defect"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "corrosion-des-armatures",
+  "terme": "la corrosion des armatures",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Rouille des barres d'acier qui gonflent, font éclater le béton et apparaissent à nu, fréquente en bord de mer.",
+  "priorite": 2,
+  "requetes": [
+   "concrete spalling exposed rusted rebar",
+   "corrosion armatures béton éclaté",
+   "rebar corrosion"
+  ],
+  "incompatibles": [
+   "epaufrure",
+   "enrobage"
+  ]
+ },
+ {
+  "id": "epaufrure",
+  "terme": "l'épaufrure",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Éclat de béton détaché sur une arête ou une surface, laissant une cavité irrégulière.",
+  "priorite": 3,
+  "requetes": [
+   "concrete spalling edge",
+   "épaufrure béton",
+   "spalled concrete"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "beton-projete",
+  "terme": "le béton projeté",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Béton envoyé à grande vitesse par une lance sur une paroi, qui forme une surface rugueuse et bosselée.",
+  "priorite": 3,
+  "requetes": [
+   "shotcrete spraying",
+   "béton projeté",
+   "sprayed concrete wall"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "bande-d-arret-d-eau",
+  "terme": "la bande d'arrêt d'eau",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Bande de caoutchouc ou de PVC noyée à cheval sur une reprise de bétonnage pour empêcher l'eau de passer.",
+  "priorite": 3,
+  "requetes": [
+   "waterstop concrete joint",
+   "bande d'arrêt d'eau waterstop",
+   "PVC waterstop"
+  ],
+  "incompatibles": [
+   "reprise-de-betonnage"
+  ]
+ },
+ {
+  "id": "reservation",
+  "terme": "la réservation",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Ouverture ou passage laissé volontairement dans un mur ou une dalle en béton pour un futur réseau ou équipement.",
+  "priorite": 2,
+  "requetes": [
+   "concrete wall opening sleeve pipe penetration",
+   "réservation dalle béton",
+   "slab penetration sleeve"
+  ],
+  "incompatibles": [
+   "tremie"
+  ]
+ },
+ {
+  "id": "tremie",
+  "terme": "la trémie",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Grande ouverture laissée dans un plancher pour le passage d'un escalier, d'un ascenseur ou d'une gaine.",
+  "priorite": 2,
+  "requetes": [
+   "floor opening concrete slab stairwell",
+   "trémie plancher",
+   "slab opening construction"
+  ],
+  "incompatibles": [
+   "reservation"
+  ]
+ },
+ {
+  "id": "hourdis",
+  "terme": "l'hourdis",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Bloc creux en béton ou en polystyrène, aussi appelé entrevous, posé entre les poutrelles d'un plancher avant le coulage de la dalle de compression.",
+  "priorite": 1,
+  "requetes": [
+   "hollow block slab hourdis",
+   "hourdis poutrelles plancher",
+   "beam and block floor construction"
+  ],
+  "incompatibles": [
+   "poutrelle",
+   "plancher-a-corps-creux"
+  ]
+ },
+ {
+  "id": "poutrelle",
+  "terme": "la poutrelle précontrainte",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Petite poutre préfabriquée en béton, posée à intervalles réguliers d'un appui à l'autre pour porter les hourdis d'un plancher.",
+  "priorite": 1,
+  "requetes": [
+   "precast concrete joist beam and block",
+   "poutrelle précontrainte",
+   "prestressed joist floor"
+  ],
+  "incompatibles": [
+   "hourdis",
+   "plancher-a-corps-creux"
+  ]
+ },
+ {
+  "id": "table-de-compression",
+  "terme": "la table de compression",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Couche de béton armé d'un treillis, coulée sur les hourdis et les poutrelles pour solidariser le plancher.",
+  "priorite": 2,
+  "requetes": [
+   "concrete topping beam and block floor",
+   "dalle de compression hourdis",
+   "structural topping slab pour"
+  ],
+  "incompatibles": [
+   "hourdis",
+   "plancher-a-corps-creux",
+   "treillis-soude"
+  ]
+ },
+ {
+  "id": "predalle",
+  "terme": "la prédalle",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Plaque mince de béton armé préfabriquée, posée comme fond de coffrage perdu et complétée par du béton coulé sur place.",
+  "priorite": 3,
+  "requetes": [
+   "precast concrete plank slab construction",
+   "prédalle",
+   "filigree slab"
+  ],
+  "incompatibles": [
+   "dalle"
+  ]
+ },
+ {
+  "id": "chainage",
+  "terme": "le chaînage",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Élément en béton armé noyé dans la maçonnerie, horizontal ou vertical, qui ceinture et solidarise les murs.",
+  "priorite": 1,
+  "requetes": [
+   "confined masonry tie beam",
+   "chaînage béton armé maçonnerie",
+   "bond beam masonry"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "chainage-horizontal",
+  "terme": "le chaînage horizontal",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Ceinture continue en béton armé coulée sur les murs au niveau des planchers ou en tête de mur.",
+  "priorite": 1,
+  "requetes": [
+   "bond beam on block wall",
+   "chaînage horizontal",
+   "ring beam masonry wall"
+  ],
+  "incompatibles": [
+   "chainage"
+  ]
+ },
+ {
+  "id": "chainage-vertical",
+  "terme": "le chaînage vertical",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Petit poteau en béton armé coulé dans la maçonnerie aux angles et aux croisements des murs, souvent appelé raidisseur.",
+  "priorite": 1,
+  "requetes": [
+   "confined masonry tie column",
+   "chaînage vertical raidisseur",
+   "tie column block wall"
+  ],
+  "incompatibles": [
+   "chainage"
+  ]
+ },
+ {
+  "id": "linteau-coule-en-place",
+  "terme": "le linteau coulé en place",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Linteau en béton armé coffré et coulé sur le chantier au-dessus d'une baie, parfois continu avec le chaînage.",
+  "priorite": 1,
+  "requetes": [
+   "cast in place lintel formwork",
+   "linteau coulé béton armé",
+   "concrete lintel above window construction"
+  ],
+  "incompatibles": [
+   "linteau",
+   "chainage-horizontal"
+  ]
+ },
+ {
+  "id": "linteau-prefabrique",
+  "terme": "le linteau préfabriqué",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Linteau en béton armé fabriqué à l'avance, livré en longueur et posé sur les murs au-dessus d'une baie.",
+  "priorite": 3,
+  "requetes": [
+   "precast concrete lintel",
+   "linteau préfabriqué",
+   "precast lintels stacked"
+  ],
+  "incompatibles": [
+   "linteau"
+  ]
+ },
+ {
+  "id": "maconnerie",
+  "terme": "la maçonnerie",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Ouvrage fait de blocs, de briques ou de pierres assemblés, le plus souvent au mortier.",
+  "priorite": 1,
+  "requetes": [
+   "masonry wall construction",
+   "mur en maçonnerie",
+   "bricklaying wall"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "mur-de-remplissage",
+  "terme": "le mur de remplissage",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Mur en maçonnerie non porteur monté entre les poteaux et les poutres d'une ossature en béton armé.",
+  "priorite": 1,
+  "requetes": [
+   "infill masonry wall concrete frame",
+   "mur de remplissage agglos ossature béton",
+   "infill wall construction"
+  ],
+  "incompatibles": [
+   "maconnerie",
+   "ossature-en-beton-arme"
+  ]
+ },
+ {
+  "id": "bloc-plein",
+  "terme": "le bloc plein",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Bloc de béton moulé sans alvéoles, plus lourd que le parpaing creux, utilisé en soubassement ou pour les murs très chargés.",
+  "priorite": 2,
+  "requetes": [
+   "solid concrete block",
+   "bloc béton plein",
+   "solid concrete blocks stack"
+  ],
+  "incompatibles": [
+   "parpaing"
+  ]
+ },
+ {
+  "id": "bloc-a-bancher",
+  "terme": "le bloc à bancher",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Bloc de béton creux à grandes alvéoles, monté à sec puis rempli de béton armé pour former un mur porteur.",
+  "priorite": 3,
+  "requetes": [
+   "concrete block formwork insulated",
+   "bloc à bancher",
+   "hollow concrete block grouted rebar"
+  ],
+  "incompatibles": [
+   "parpaing"
+  ]
+ },
+ {
+  "id": "bloc-en-u",
+  "terme": "le bloc en U",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Bloc de béton en forme de U qui sert de coffrage perdu pour couler un linteau ou un chaînage dans le mur.",
+  "priorite": 3,
+  "requetes": [
+   "U block lintel masonry",
+   "bloc U chaînage",
+   "bond beam block"
+  ],
+  "incompatibles": [
+   "parpaing",
+   "chainage-horizontal"
+  ]
+ },
+ {
+  "id": "bloc-de-beton-cellulaire",
+  "terme": "le bloc de béton cellulaire",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Gros bloc blanc et léger, très régulier, en béton aéré, monté à joints minces.",
+  "priorite": 3,
+  "requetes": [
+   "aerated concrete block wall",
+   "béton cellulaire bloc",
+   "AAC blocks construction"
+  ],
+  "incompatibles": [
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "brique-creuse",
+  "terme": "la brique creuse",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Brique de terre cuite percée d'alvéoles parallèles, plus grande et plus légère que la brique pleine.",
+  "priorite": 2,
+  "requetes": [
+   "hollow clay brick wall",
+   "brique creuse terre cuite",
+   "hollow clay blocks"
+  ],
+  "incompatibles": [
+   "brique"
+  ]
+ },
+ {
+  "id": "planelle",
+  "terme": "la planelle",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Mince plaquette de terre cuite ou de béton posée en rive de plancher pour masquer le nez de dalle et recevoir l'enduit.",
+  "priorite": 3,
+  "requetes": [
+   "planelle",
+   "planelle rive de dalle",
+   "clay slab edge tile"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "panneresse",
+  "terme": "la panneresse",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Brique ou bloc posé dans le sens de la longueur, sa grande face visible dans le parement.",
+  "priorite": 3,
+  "requetes": [
+   "stretcher brick",
+   "panneresse brique",
+   "brick stretchers"
+  ],
+  "incompatibles": [
+   "appareil-en-panneresses"
+  ]
+ },
+ {
+  "id": "boutisse",
+  "terme": "la boutisse",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Brique ou pierre posée en travers du mur, dont on ne voit que le petit bout dans le parement.",
+  "priorite": 3,
+  "requetes": [
+   "header brick",
+   "boutisse brique",
+   "brick headers course"
+  ],
+  "incompatibles": [
+   "appareil-flamand",
+   "appareil-anglais"
+  ]
+ },
+ {
+  "id": "appareil-en-panneresses",
+  "terme": "l'appareil en panneresses",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Disposition des briques ou des blocs tous posés en longueur, chaque rang décalé d'une demi-longueur sur le précédent.",
+  "priorite": 2,
+  "requetes": [
+   "running bond brick wall",
+   "appareil en panneresses",
+   "stretcher bond brickwork"
+  ],
+  "incompatibles": [
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "appareil-flamand",
+  "terme": "l'appareil flamand",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Appareil de briques où panneresses et boutisses alternent dans chaque rang.",
+  "priorite": 3,
+  "requetes": [
+   "flemish bond brickwork",
+   "appareil flamand brique",
+   "flemish bond"
+  ],
+  "incompatibles": [
+   "appareil-anglais",
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "appareil-anglais",
+  "terme": "l'appareil anglais",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Appareil de briques où un rang de panneresses alterne avec un rang de boutisses.",
+  "priorite": 3,
+  "requetes": [
+   "english bond brickwork",
+   "appareil anglais brique",
+   "english bond"
+  ],
+  "incompatibles": [
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "appareil-en-epi",
+  "terme": "l'appareil en épi",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Appareil de briques ou de pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre en arête de poisson.",
+  "priorite": 3,
+  "requetes": [
+   "herringbone masonry opus spicatum",
+   "appareil en épi",
+   "opus spicatum wall"
+  ],
+  "incompatibles": [
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "opus-incertum",
+  "terme": "l'opus incertum",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Appareil de moellons de formes irrégulières assemblés sans rangs, avec des joints en tous sens.",
+  "priorite": 3,
+  "requetes": [
+   "opus incertum",
+   "appareil irrégulier moellons",
+   "random rubble masonry wall"
+  ],
+  "incompatibles": [
+   "mur-en-moellons",
+   "moellon"
+  ]
+ },
+ {
+  "id": "appareil-cyclopeen",
+  "terme": "l'appareil cyclopéen",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Maçonnerie de très gros blocs de pierre bruts ou à peine taillés, ajustés sans mortier.",
+  "priorite": 3,
+  "requetes": [
+   "cyclopean masonry",
+   "appareil cyclopéen",
+   "cyclopean wall stones"
+  ],
+  "incompatibles": [
+   "mur-en-pierre-seche"
+  ]
+ },
+ {
+  "id": "appareil-reticule",
+  "terme": "l'appareil réticulé",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Appareil de petites pierres carrées posées sur la pointe, qui dessinent un filet de losanges.",
+  "priorite": 3,
+  "requetes": [
+   "opus reticulatum",
+   "appareil réticulé",
+   "reticulate masonry roman"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "assise",
+  "terme": "l'assise",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Rang horizontal de briques, de blocs ou de pierres d'un mur.",
+  "priorite": 2,
+  "requetes": [
+   "masonry course row of blocks",
+   "assise maçonnerie",
+   "brick course wall"
+  ],
+  "incompatibles": [
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "arase",
+  "terme": "l'arase",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Dernier rang d'un mur, mis de niveau pour recevoir un plancher, un chaînage ou une charpente.",
+  "priorite": 2,
+  "requetes": [
+   "top of block wall level course",
+   "arase de mur",
+   "wall plate level masonry top"
+  ],
+  "incompatibles": [
+   "assise"
+  ]
+ },
+ {
+  "id": "chaine-d-angle",
+  "terme": "la chaîne d'angle",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Superposition de pierres ou de briques plus grandes, posées en alternance à l'angle d'un mur pour le renforcer.",
+  "priorite": 2,
+  "requetes": [
+   "quoins stone corner",
+   "chaîne d'angle pierre",
+   "quoin corner building"
+  ],
+  "incompatibles": [
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "joint-de-maconnerie",
+  "terme": "le joint de maçonnerie",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Couche de mortier entre deux briques, blocs ou pierres, horizontale (lit) ou verticale.",
+  "priorite": 1,
+  "requetes": [
+   "mortar joint brick wall",
+   "joint de mortier maçonnerie",
+   "mortar joints closeup"
+  ],
+  "incompatibles": [
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "joint-creux",
+  "terme": "le joint creux",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Joint de maçonnerie en retrait du parement, qui dessine une ombre entre les briques ou les pierres.",
+  "priorite": 3,
+  "requetes": [
+   "recessed mortar joint",
+   "joint creux brique",
+   "raked joint brickwork"
+  ],
+  "incompatibles": [
+   "joint-de-maconnerie"
+  ]
+ },
+ {
+  "id": "lit-de-mortier",
+  "terme": "le lit de mortier",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Couche de mortier étalée sur un rang de blocs ou de briques pour poser le rang suivant.",
+  "priorite": 2,
+  "requetes": [
+   "bed of mortar block laying",
+   "lit de mortier",
+   "mortar bed bricklaying"
+  ],
+  "incompatibles": [
+   "mortier",
+   "joint-de-maconnerie"
+  ]
+ },
+ {
+  "id": "mortier",
+  "terme": "le mortier",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Mélange de ciment ou de chaux, de sable et d'eau, préparé en pâte pour lier les blocs et faire les enduits.",
+  "priorite": 1,
+  "requetes": [
+   "mortar mixing construction",
+   "mortier ciment sable",
+   "fresh mortar pile"
+  ],
+  "incompatibles": [
+   "gachage"
+  ]
+ },
+ {
+  "id": "gachage",
+  "terme": "le gâchage",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Mélange du ciment, du sable et de l'eau, à la pelle sur le sol ou dans une bétonnière, pour obtenir mortier ou béton.",
+  "priorite": 2,
+  "requetes": [
+   "mixing concrete by hand shovel",
+   "gâchage mortier",
+   "hand mixing mortar ground"
+  ],
+  "incompatibles": [
+   "mortier"
+  ]
+ },
+ {
+  "id": "mur-en-pierre-seche",
+  "terme": "le mur en pierre sèche",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Mur fait de pierres empilées et calées entre elles, sans aucun mortier.",
+  "priorite": 2,
+  "requetes": [
+   "dry stone wall",
+   "mur en pierre sèche",
+   "drystone wall"
+  ],
+  "incompatibles": [
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "mur-en-moellons",
+  "terme": "le mur en moellons",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Mur fait de pierres brutes ou grossièrement équarries liées au mortier.",
+  "priorite": 2,
+  "requetes": [
+   "rubble stone wall",
+   "mur en moellons",
+   "stone rubble masonry"
+  ],
+  "incompatibles": [
+   "moellon",
+   "maconnerie"
+  ]
+ },
+ {
+  "id": "gobetis",
+  "terme": "le gobetis",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Première couche de mortier liquide jetée à la truelle sur un mur, qui laisse une surface rugueuse et granuleuse pour accrocher l'enduit.",
+  "priorite": 2,
+  "requetes": [
+   "scratch coat render wall",
+   "gobetis mur",
+   "spatterdash render"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "saignee",
+  "terme": "la saignée",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Rainure creusée dans un mur ou une dalle pour y encastrer une gaine ou un tuyau.",
+  "priorite": 2,
+  "requetes": [
+   "wall chasing conduit groove",
+   "saignée mur gaine",
+   "chased wall electrical"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "trou-de-boulin",
+  "terme": "le trou de boulin",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Petit trou laissé dans un mur ancien, où s'encastraient les pièces de bois de l'échafaudage.",
+  "priorite": 3,
+  "requetes": [
+   "putlog holes",
+   "trou de boulin",
+   "putlog holes medieval wall"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "dallage",
+  "terme": "le dallage",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Dalle de béton coulée directement sur le sol préparé, qui forme le plancher bas d'un rez-de-chaussée, d'un hangar ou d'une cour.",
+  "priorite": 1,
+  "requetes": [
+   "concrete slab on grade",
+   "dallage béton",
+   "ground floor slab concrete"
+  ],
+  "incompatibles": [
+   "dalle"
+  ]
+ },
+ {
+  "id": "chape",
+  "terme": "la chape",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Couche de mortier ou de béton coulée et dressée sur un plancher pour obtenir une surface plane avant le revêtement de sol.",
+  "priorite": 1,
+  "requetes": [
+   "cement screed floor",
+   "chape ciment",
+   "floor screed"
+  ],
+  "incompatibles": [
+   "dallage"
+  ]
+ },
+ {
+  "id": "chape-liquide",
+  "terme": "la chape liquide",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Chape fluide coulée à la pompe, qui se met de niveau d'elle-même et donne une surface très lisse.",
+  "priorite": 3,
+  "requetes": [
+   "self levelling screed pouring",
+   "chape liquide",
+   "anhydrite screed"
+  ],
+  "incompatibles": [
+   "chape"
+  ]
+ },
+ {
+  "id": "joint-de-fractionnement",
+  "terme": "le joint de fractionnement",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Trait scié ou rainure tracée dans un dallage ou une chape pour découper la surface en panneaux et maîtriser la fissuration.",
+  "priorite": 2,
+  "requetes": [
+   "saw cut control joint concrete slab",
+   "joint de fractionnement dallage",
+   "control joints concrete floor"
+  ],
+  "incompatibles": [
+   "dallage",
+   "chape"
+  ]
+ },
+ {
+  "id": "ciment",
+  "terme": "le ciment",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Poudre grise qui durcit avec l'eau, base du mortier et du béton, livrée en sacs sur le chantier.",
+  "priorite": 1,
+  "requetes": [
+   "cement bags construction site",
+   "sac de ciment",
+   "cement sacks"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "sable",
+  "terme": "le sable",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Granulat fin livré en tas sur le chantier, mélangé au ciment pour le mortier et le béton.",
+  "priorite": 1,
+  "requetes": [
+   "sand pile construction site",
+   "tas de sable chantier",
+   "building sand heap"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "gravier",
+  "terme": "le gravier",
+  "categorie": "Gros œuvre et maçonnerie",
+  "definition": "Granulat de petits cailloux ou de pierre concassée, comme le basalte à Dakar, livré en tas pour fabriquer le béton.",
+  "priorite": 1,
+  "requetes": [
+   "crushed stone aggregate pile",
+   "gravier concassé chantier",
+   "gravel heap construction"
+  ],
+  "incompatibles": [
+   "sable"
+  ]
+ },
+ {
+  "id": "poteau",
+  "terme": "le poteau",
+  "categorie": "Structure",
+  "definition": "Élément porteur vertical, de section carrée, rectangulaire ou ronde, qui reporte les charges des planchers vers les fondations.",
+  "priorite": 1,
+  "requetes": [
+   "reinforced concrete column building",
+   "poteau béton armé",
+   "concrete columns structure"
+  ],
+  "incompatibles": [
+   "colonne",
+   "pilier"
+  ]
+ },
+ {
+  "id": "poutre",
+  "terme": "la poutre",
+  "categorie": "Structure",
+  "definition": "Élément porteur horizontal qui franchit un espace entre deux appuis et porte un plancher ou une toiture.",
+  "priorite": 1,
+  "requetes": [
+   "concrete beam building structure",
+   "poutre béton",
+   "beam structure"
+  ],
+  "incompatibles": [
+   "retombee-de-poutre"
+  ]
+ },
+ {
+  "id": "dalle",
+  "terme": "la dalle",
+  "categorie": "Structure",
+  "definition": "Plaque horizontale de béton armé, d'épaisseur constante, qui forme un plancher ou une toiture-terrasse.",
+  "priorite": 1,
+  "requetes": [
+   "reinforced concrete slab floor",
+   "dalle béton armé",
+   "concrete floor slab structure"
+  ],
+  "incompatibles": [
+   "dalle-pleine"
+  ]
+ },
+ {
+  "id": "dalle-pleine",
+  "terme": "la dalle pleine",
+  "categorie": "Structure",
+  "definition": "Dalle de béton armé massive coulée sur coffrage, sans hourdis ni vides, dont la sous-face est lisse.",
+  "priorite": 2,
+  "requetes": [
+   "solid concrete slab soffit",
+   "dalle pleine béton armé",
+   "flat slab underside"
+  ],
+  "incompatibles": [
+   "dalle"
+  ]
+ },
+ {
+  "id": "plancher-a-corps-creux",
+  "terme": "le plancher à corps creux",
+  "categorie": "Structure",
+  "definition": "Plancher fait de poutrelles, d'hourdis et d'une dalle de compression, très répandu en Afrique de l'Ouest et en France.",
+  "priorite": 1,
+  "requetes": [
+   "beam and block floor",
+   "plancher hourdis poutrelles",
+   "hollow block slab"
+  ],
+  "incompatibles": [
+   "hourdis",
+   "poutrelle",
+   "table-de-compression",
+   "dalle"
+  ]
+ },
+ {
+  "id": "dalle-nervuree",
+  "terme": "la dalle nervurée",
+  "categorie": "Structure",
+  "definition": "Dalle de béton dont la sous-face montre des nervures parallèles régulièrement espacées.",
+  "priorite": 2,
+  "requetes": [
+   "ribbed slab concrete underside",
+   "dalle nervurée",
+   "one way joist slab"
+  ],
+  "incompatibles": [
+   "dalle",
+   "dalle-caissonnee"
+  ]
+ },
+ {
+  "id": "dalle-caissonnee",
+  "terme": "la dalle caissonnée",
+  "categorie": "Structure",
+  "definition": "Dalle de béton dont la sous-face est creusée de caissons carrés formés par des nervures croisées.",
+  "priorite": 3,
+  "requetes": [
+   "waffle slab ceiling",
+   "dalle caissonnée",
+   "coffered concrete slab"
+  ],
+  "incompatibles": [
+   "dalle"
+  ]
+ },
+ {
+  "id": "dalle-champignon",
+  "terme": "la dalle champignon",
+  "categorie": "Structure",
+  "definition": "Dalle sans poutres portée par des poteaux qui s'évasent en tête comme un champignon.",
+  "priorite": 3,
+  "requetes": [
+   "mushroom column flat slab",
+   "poteau champignon",
+   "mushroom columns concrete"
+  ],
+  "incompatibles": [
+   "poteau",
+   "dalle"
+  ]
+ },
+ {
+  "id": "dalle-alveolee",
+  "terme": "la dalle alvéolée",
+  "categorie": "Structure",
+  "definition": "Dalle préfabriquée en béton précontraint, traversée sur toute sa longueur d'alvéoles circulaires visibles à ses extrémités.",
+  "priorite": 3,
+  "requetes": [
+   "hollow core slab",
+   "dalle alvéolée",
+   "hollowcore planks"
+  ],
+  "incompatibles": [
+   "dalle"
+  ]
+ },
+ {
+  "id": "plancher-collaborant",
+  "terme": "le plancher collaborant",
+  "categorie": "Structure",
+  "definition": "Plancher fait d'une tôle d'acier nervurée servant de coffrage et sur laquelle on coule une dalle de béton.",
+  "priorite": 2,
+  "requetes": [
+   "composite steel deck floor",
+   "plancher collaborant bac acier",
+   "metal decking concrete slab"
+  ],
+  "incompatibles": [
+   "ossature-metallique"
+  ]
+ },
+ {
+  "id": "voile",
+  "terme": "le voile",
+  "categorie": "Structure",
+  "definition": "Mur porteur en béton armé, coulé entre des banches.",
+  "priorite": 1,
+  "requetes": [
+   "reinforced concrete shear wall",
+   "voile béton armé",
+   "concrete wall cast in place"
+  ],
+  "incompatibles": [
+   "mur-porteur"
+  ]
+ },
+ {
+  "id": "mur-porteur",
+  "terme": "le mur porteur",
+  "categorie": "Structure",
+  "definition": "Mur qui porte les planchers ou la toiture et transmet leurs charges aux fondations.",
+  "priorite": 1,
+  "requetes": [
+   "load bearing wall",
+   "mur porteur",
+   "bearing wall masonry"
+  ],
+  "incompatibles": [
+   "mur-de-refend"
+  ]
+ },
+ {
+  "id": "mur-de-refend",
+  "terme": "le mur de refend",
+  "categorie": "Structure",
+  "definition": "Mur porteur intérieur qui partage l'espace d'un bâtiment et relie les façades.",
+  "priorite": 2,
+  "requetes": [
+   "interior load bearing wall",
+   "mur de refend",
+   "cross wall construction"
+  ],
+  "incompatibles": [
+   "mur-porteur"
+  ]
+ },
+ {
+  "id": "pilier",
+  "terme": "le pilier",
+  "categorie": "Structure",
+  "definition": "Support vertical massif en maçonnerie ou en béton, de section carrée ou polygonale, plus trapu qu'un poteau.",
+  "priorite": 2,
+  "requetes": [
+   "masonry pier pillar",
+   "pilier maçonnerie",
+   "stone pillar"
+  ],
+  "incompatibles": [
+   "poteau",
+   "colonne"
+  ]
+ },
+ {
+  "id": "portique",
+  "terme": "le portique",
+  "categorie": "Structure",
+  "definition": "Ossature formée de deux poteaux et d'une poutre rigidement assemblés, répétée pour former la structure d'un bâtiment ou d'un hangar.",
+  "priorite": 1,
+  "requetes": [
+   "portal frame steel building",
+   "portique charpente",
+   "portal frame structure"
+  ],
+  "incompatibles": [
+   "poteau",
+   "poutre",
+   "ossature-metallique"
+  ]
+ },
+ {
+  "id": "ossature-en-beton-arme",
+  "terme": "l'ossature en béton armé",
+  "categorie": "Structure",
+  "definition": "Squelette porteur fait de poteaux, de poutres et de dalles en béton armé, bien visible sur un bâtiment en construction avant le remplissage des murs.",
+  "priorite": 1,
+  "requetes": [
+   "reinforced concrete frame building under construction",
+   "ossature béton armé",
+   "concrete skeleton structure"
+  ],
+  "incompatibles": [
+   "poteau",
+   "poutre",
+   "dalle"
+  ]
+ },
+ {
+  "id": "ossature-metallique",
+  "terme": "l'ossature métallique",
+  "categorie": "Structure",
+  "definition": "Structure porteuse faite de profilés d'acier assemblés : poteaux, poutres et contreventements.",
+  "priorite": 1,
+  "requetes": [
+   "steel frame building construction",
+   "ossature métallique",
+   "structural steel frame"
+  ],
+  "incompatibles": [
+   "poteau-metallique",
+   "profile-en-i",
+   "profile-en-h"
+  ]
+ },
+ {
+  "id": "ossature-bois",
+  "terme": "l'ossature bois",
+  "categorie": "Structure",
+  "definition": "Structure de murs faite de montants et de traverses en bois rapprochés, avant la pose des panneaux.",
+  "priorite": 3,
+  "requetes": [
+   "timber frame house construction",
+   "ossature bois",
+   "wood frame wall studs"
+  ],
+  "incompatibles": [
+   "colombage"
+  ]
+ },
+ {
+  "id": "poteau-metallique",
+  "terme": "le poteau métallique",
+  "categorie": "Structure",
+  "definition": "Poteau fait d'un profilé ou d'un tube d'acier, fixé en pied par une platine.",
+  "priorite": 1,
+  "requetes": [
+   "steel column base plate",
+   "poteau métallique",
+   "steel column building"
+  ],
+  "incompatibles": [
+   "poteau",
+   "profile-en-h",
+   "platine"
+  ]
+ },
+ {
+  "id": "profile-en-i",
+  "terme": "le profilé en I",
+  "categorie": "Structure",
+  "definition": "Barre d'acier dont la section a la forme d'un I, avec des ailes étroites, comme les IPE et les IPN, employée en poutre.",
+  "priorite": 1,
+  "requetes": [
+   "I beam steel",
+   "profilé IPE",
+   "steel I-beams"
+  ],
+  "incompatibles": [
+   "profile-en-h"
+  ]
+ },
+ {
+  "id": "profile-en-h",
+  "terme": "le profilé en H",
+  "categorie": "Structure",
+  "definition": "Barre d'acier dont la section a la forme d'un H, à ailes larges, comme les HEA et HEB, employée surtout en poteau.",
+  "priorite": 2,
+  "requetes": [
+   "H beam steel column",
+   "profilé HEA HEB",
+   "wide flange steel"
+  ],
+  "incompatibles": [
+   "profile-en-i"
+  ]
+ },
+ {
+  "id": "profile-en-u",
+  "terme": "le profilé en U",
+  "categorie": "Structure",
+  "definition": "Barre d'acier dont la section a la forme d'un U, comme les UPN.",
+  "priorite": 2,
+  "requetes": [
+   "steel channel section",
+   "profilé UPN",
+   "C channel steel"
+  ],
+  "incompatibles": [
+   "profile-en-i"
+  ]
+ },
+ {
+  "id": "corniere",
+  "terme": "la cornière",
+  "categorie": "Structure",
+  "definition": "Barre d'acier à section en L, utilisée pour les assemblages, les treillis et les petites structures.",
+  "priorite": 1,
+  "requetes": [
+   "steel angle iron",
+   "cornière acier",
+   "angle steel section"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "poutre-treillis",
+  "terme": "la poutre treillis",
+  "categorie": "Structure",
+  "definition": "Poutre faite de deux membrures reliées par des barres disposées en triangles.",
+  "priorite": 2,
+  "requetes": [
+   "steel truss girder",
+   "poutre treillis",
+   "lattice girder"
+  ],
+  "incompatibles": [
+   "ferme-metallique",
+   "ferme"
+  ]
+ },
+ {
+  "id": "poutre-vierendeel",
+  "terme": "la poutre Vierendeel",
+  "categorie": "Structure",
+  "definition": "Poutre à jour faite de membrures et de montants verticaux rigidement assemblés, sans diagonales.",
+  "priorite": 3,
+  "requetes": [
+   "vierendeel truss",
+   "poutre Vierendeel",
+   "vierendeel girder"
+  ],
+  "incompatibles": [
+   "poutre-treillis"
+  ]
+ },
+ {
+  "id": "ferme-metallique",
+  "terme": "la ferme métallique",
+  "categorie": "Structure",
+  "definition": "Ferme de toiture faite de profilés ou de tubes d'acier assemblés en triangles.",
+  "priorite": 1,
+  "requetes": [
+   "steel roof truss",
+   "ferme métallique",
+   "steel truss roof structure"
+  ],
+  "incompatibles": [
+   "ferme",
+   "poutre-treillis"
+  ]
+ },
+ {
+  "id": "structure-tridimensionnelle",
+  "terme": "la structure tridimensionnelle",
+  "categorie": "Structure",
+  "definition": "Réseau de barres et de nœuds assemblés en pyramides, qui couvre de grandes surfaces sans appuis intermédiaires.",
+  "priorite": 3,
+  "requetes": [
+   "space frame structure",
+   "structure tridimensionnelle",
+   "spaceframe roof"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "contreventement",
+  "terme": "le contreventement",
+  "categorie": "Structure",
+  "definition": "Ensemble de barres ou de murs qui empêche une structure de se déformer sous l'effet du vent ou des séismes.",
+  "priorite": 2,
+  "requetes": [
+   "steel bracing building",
+   "contreventement",
+   "cross bracing steel frame"
+  ],
+  "incompatibles": [
+   "croix-de-saint-andre"
+  ]
+ },
+ {
+  "id": "croix-de-saint-andre",
+  "terme": "la croix de Saint-André",
+  "categorie": "Structure",
+  "definition": "Paire de barres croisées en X entre deux poteaux, qui contrevente une ossature.",
+  "priorite": 2,
+  "requetes": [
+   "X bracing steel",
+   "croix de Saint-André",
+   "cross bracing X"
+  ],
+  "incompatibles": [
+   "contreventement"
+  ]
+ },
+ {
+  "id": "tirant",
+  "terme": "le tirant",
+  "categorie": "Structure",
+  "definition": "Barre ou câble tendu qui retient deux parties d'un ouvrage, par exemple entre les naissances d'un arc.",
+  "priorite": 2,
+  "requetes": [
+   "tie rod arch",
+   "tirant métallique",
+   "iron tie rod"
+  ],
+  "incompatibles": [
+   "ancre"
+  ]
+ },
+ {
+  "id": "ancre",
+  "terme": "l'ancre",
+  "categorie": "Structure",
+  "definition": "Pièce de fer en forme de S, de X ou de barre, fixée sur une façade au bout d'un tirant pour retenir le mur.",
+  "priorite": 3,
+  "requetes": [
+   "wall anchor plate",
+   "ancre de façade",
+   "wall tie plate S shaped"
+  ],
+  "incompatibles": [
+   "tirant"
+  ]
+ },
+ {
+  "id": "hauban",
+  "terme": "le hauban",
+  "categorie": "Structure",
+  "definition": "Câble d'acier tendu en oblique, qui suspend ou stabilise une toiture, un mât ou une passerelle.",
+  "priorite": 3,
+  "requetes": [
+   "cable stayed roof",
+   "hauban câble",
+   "stay cables structure"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "platine",
+  "terme": "la platine",
+  "categorie": "Structure",
+  "definition": "Plaque d'acier soudée au pied d'un poteau métallique et boulonnée sur son massif en béton.",
+  "priorite": 2,
+  "requetes": [
+   "steel column base plate anchor bolts",
+   "platine pied de poteau",
+   "base plate"
+  ],
+  "incompatibles": [
+   "tige-d-ancrage",
+   "poteau-metallique"
+  ]
+ },
+ {
+  "id": "tige-d-ancrage",
+  "terme": "la tige d'ancrage",
+  "categorie": "Structure",
+  "definition": "Tige filetée scellée dans le béton, qui dépasse pour fixer la platine d'un poteau métallique.",
+  "priorite": 2,
+  "requetes": [
+   "anchor bolts concrete",
+   "tiges d'ancrage",
+   "anchor rods foundation"
+  ],
+  "incompatibles": [
+   "platine"
+  ]
+ },
+ {
+  "id": "assemblage-boulonne",
+  "terme": "l'assemblage boulonné",
+  "categorie": "Structure",
+  "definition": "Liaison de pièces métalliques par des boulons serrés à travers des plaques ou des ailes de profilés.",
+  "priorite": 2,
+  "requetes": [
+   "bolted steel connection",
+   "assemblage boulonné",
+   "steel beam bolted joint"
+  ],
+  "incompatibles": [
+   "gousset"
+  ]
+ },
+ {
+  "id": "assemblage-soude",
+  "terme": "l'assemblage soudé",
+  "categorie": "Structure",
+  "definition": "Liaison de pièces métalliques par un cordon de soudure visible le long du contact.",
+  "priorite": 1,
+  "requetes": [
+   "welded steel connection",
+   "assemblage soudé",
+   "weld bead steel"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "gousset",
+  "terme": "le gousset",
+  "categorie": "Structure",
+  "definition": "Plaque d'acier qui réunit plusieurs barres en un même nœud d'une ferme ou d'un contreventement.",
+  "priorite": 2,
+  "requetes": [
+   "gusset plate",
+   "gousset",
+   "gusset plate truss"
+  ],
+  "incompatibles": [
+   "assemblage-boulonne"
+  ]
+ },
+ {
+  "id": "jarret",
+  "terme": "le jarret",
+  "categorie": "Structure",
+  "definition": "Renfort triangulaire à l'angle entre poteau et traverse d'un portique métallique, qui épaissit la poutre près de l'appui.",
+  "priorite": 3,
+  "requetes": [
+   "haunch portal frame",
+   "jarret portique",
+   "portal frame haunch"
+  ],
+  "incompatibles": [
+   "portique"
+  ]
+ },
+ {
+  "id": "appareil-d-appui",
+  "terme": "l'appareil d'appui",
+  "categorie": "Structure",
+  "definition": "Bloc de caoutchouc fretté ou pièce métallique placé entre une poutre et son appui pour lui permettre de bouger légèrement.",
+  "priorite": 3,
+  "requetes": [
+   "elastomeric bearing pad",
+   "appareil d'appui néoprène",
+   "bridge bearing"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "joint-de-dilatation",
+  "terme": "le joint de dilatation",
+  "categorie": "Structure",
+  "definition": "Coupure qui traverse un bâtiment de haut en bas et sépare deux blocs pour qu'ils se dilatent librement.",
+  "priorite": 1,
+  "requetes": [
+   "building expansion joint",
+   "joint de dilatation",
+   "expansion joint facade"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "porte-a-faux",
+  "terme": "le porte-à-faux",
+  "categorie": "Structure",
+  "definition": "Partie d'ouvrage qui dépasse de ses appuis et n'est soutenue que d'un côté.",
+  "priorite": 1,
+  "requetes": [
+   "cantilever building",
+   "porte-à-faux",
+   "cantilevered slab"
+  ],
+  "incompatibles": [
+   "encorbellement"
+  ]
+ },
+ {
+  "id": "encorbellement",
+  "terme": "l'encorbellement",
+  "categorie": "Structure",
+  "definition": "Construction en saillie sur le nu d'un mur, portée par des corbeaux ou des rangs de pierres débordants.",
+  "priorite": 3,
+  "requetes": [
+   "corbelled overhang",
+   "encorbellement",
+   "jettied upper floor"
+  ],
+  "incompatibles": [
+   "corbeau",
+   "porte-a-faux"
+  ]
+ },
+ {
+  "id": "retombee-de-poutre",
+  "terme": "la retombée de poutre",
+  "categorie": "Structure",
+  "definition": "Partie d'une poutre qui dépasse sous la sous-face d'une dalle.",
+  "priorite": 1,
+  "requetes": [
+   "downstand beam ceiling",
+   "retombée de poutre",
+   "dropped beam soffit"
+  ],
+  "incompatibles": [
+   "poutre"
+  ]
+ },
+ {
+  "id": "poutre-de-rive",
+  "terme": "la poutre de rive",
+  "categorie": "Structure",
+  "definition": "Poutre placée en bordure d'un plancher, le long de la façade.",
+  "priorite": 3,
+  "requetes": [
+   "edge beam concrete",
+   "poutre de rive",
+   "spandrel beam"
+  ],
+  "incompatibles": [
+   "poutre"
+  ]
+ },
+ {
+  "id": "solive",
+  "terme": "la solive",
+  "categorie": "Structure",
+  "definition": "Pièce de bois posée en série parallèle entre deux murs ou poutres pour porter un plancher.",
+  "priorite": 2,
+  "requetes": [
+   "wooden floor joists",
+   "solives plancher bois",
+   "timber joists"
+  ],
+  "incompatibles": [
+   "chevetre"
+  ]
+ },
+ {
+  "id": "chevetre",
+  "terme": "le chevêtre",
+  "categorie": "Structure",
+  "definition": "Pièce de bois ou de métal posée entre deux solives pour encadrer une trémie et reprendre les solives interrompues.",
+  "priorite": 3,
+  "requetes": [
+   "trimmer joist header",
+   "chevêtre",
+   "floor opening trimmer"
+  ],
+  "incompatibles": [
+   "solive",
+   "tremie"
+  ]
+ },
+ {
+  "id": "poutre-en-lamelle-colle",
+  "terme": "la poutre en lamellé-collé",
+  "categorie": "Structure",
+  "definition": "Poutre en bois faite de lamelles collées dont on voit les couches parallèles sur le côté.",
+  "priorite": 3,
+  "requetes": [
+   "glulam beam",
+   "poutre lamellé-collé",
+   "glued laminated timber"
+  ],
+  "incompatibles": [
+   "poutre"
+  ]
+ },
+ {
+  "id": "coque-en-beton",
+  "terme": "la coque en béton",
+  "categorie": "Structure",
+  "definition": "Voile mince de béton armé à double courbure qui couvre un espace sans appuis intermédiaires.",
+  "priorite": 3,
+  "requetes": [
+   "thin concrete shell",
+   "coque béton",
+   "concrete shell roof"
+  ],
+  "incompatibles": [
+   "voute"
+  ]
+ },
+ {
+  "id": "claveau",
+  "terme": "le claveau",
+  "categorie": "Structure",
+  "definition": "Pierre ou brique taillée en coin qui forme avec les autres la courbe d'un arc ou d'une voûte ; on dit aussi voussoir.",
+  "priorite": 2,
+  "requetes": [
+   "voussoir arch stones",
+   "claveau arc",
+   "arch voussoirs"
+  ],
+  "incompatibles": [
+   "arc",
+   "cle-de-voute"
+  ]
+ },
+ {
+  "id": "sommier",
+  "terme": "le sommier",
+  "categorie": "Structure",
+  "definition": "Première pierre d'un arc, posée sur le piédroit, d'où part la courbe.",
+  "priorite": 3,
+  "requetes": [
+   "springer arch",
+   "sommier arc",
+   "arch springer stone"
+  ],
+  "incompatibles": [
+   "arc",
+   "claveau"
+  ]
+ },
+ {
+  "id": "intrados",
+  "terme": "l'intrados",
+  "categorie": "Structure",
+  "definition": "Face intérieure, concave, d'un arc ou d'une voûte.",
+  "priorite": 3,
+  "requetes": [
+   "arch intrados",
+   "intrados arc",
+   "soffit of arch"
+  ],
+  "incompatibles": [
+   "arc",
+   "voute"
+  ]
+ },
+ {
+  "id": "extrados",
+  "terme": "l'extrados",
+  "categorie": "Structure",
+  "definition": "Face extérieure, convexe, d'un arc ou d'une voûte.",
+  "priorite": 3,
+  "requetes": [
+   "arch extrados",
+   "extrados arc",
+   "arch extrados stone"
+  ],
+  "incompatibles": [
+   "arc",
+   "voute"
+  ]
+ },
+ {
+  "id": "arc-en-plein-cintre",
+  "terme": "l'arc en plein cintre",
+  "categorie": "Structure",
+  "definition": "Arc dont la courbe forme un demi-cercle complet.",
+  "priorite": 1,
+  "requetes": [
+   "round arch",
+   "arc en plein cintre",
+   "semicircular arch"
+  ],
+  "incompatibles": [
+   "arc"
+  ]
+ },
+ {
+  "id": "arc-brise",
+  "terme": "l'arc brisé",
+  "categorie": "Structure",
+  "definition": "Arc formé de deux portions de cercle qui se rejoignent en pointe au sommet.",
+  "priorite": 2,
+  "requetes": [
+   "pointed arch gothic",
+   "arc brisé",
+   "ogival arch"
+  ],
+  "incompatibles": [
+   "arc"
+  ]
+ },
+ {
+  "id": "arc-surbaisse",
+  "terme": "l'arc surbaissé",
+  "categorie": "Structure",
+  "definition": "Arc moins haut que la moitié de sa largeur, à la courbe aplatie.",
+  "priorite": 2,
+  "requetes": [
+   "segmental arch",
+   "arc surbaissé",
+   "depressed arch"
+  ],
+  "incompatibles": [
+   "arc"
+  ]
+ },
+ {
+  "id": "arc-outrepasse",
+  "terme": "l'arc outrepassé",
+  "categorie": "Structure",
+  "definition": "Arc en fer à cheval, dont la courbe dépasse le demi-cercle et se resserre à la base.",
+  "priorite": 3,
+  "requetes": [
+   "horseshoe arch",
+   "arc outrepassé",
+   "moorish horseshoe arch"
+  ],
+  "incompatibles": [
+   "arc"
+  ]
+ },
+ {
+  "id": "arc-de-decharge",
+  "terme": "l'arc de décharge",
+  "categorie": "Structure",
+  "definition": "Arc noyé dans la maçonnerie au-dessus d'une baie ou d'un linteau pour en détourner les charges.",
+  "priorite": 3,
+  "requetes": [
+   "relieving arch",
+   "arc de décharge",
+   "relieving arch above lintel"
+  ],
+  "incompatibles": [
+   "arc",
+   "linteau"
+  ]
+ },
+ {
+  "id": "voute-en-berceau",
+  "terme": "la voûte en berceau",
+  "categorie": "Structure",
+  "definition": "Voûte de section en demi-cercle, prolongée en ligne droite comme un demi-cylindre.",
+  "priorite": 2,
+  "requetes": [
+   "barrel vault",
+   "voûte en berceau",
+   "barrel vault ceiling"
+  ],
+  "incompatibles": [
+   "voute"
+  ]
+ },
+ {
+  "id": "voute-d-aretes",
+  "terme": "la voûte d'arêtes",
+  "categorie": "Structure",
+  "definition": "Voûte formée par le croisement de deux voûtes en berceau, dont les intersections dessinent des arêtes saillantes.",
+  "priorite": 3,
+  "requetes": [
+   "groin vault",
+   "voûte d'arêtes",
+   "groin vaulted ceiling"
+  ],
+  "incompatibles": [
+   "voute"
+  ]
+ },
+ {
+  "id": "voute-sur-croisee-d-ogives",
+  "terme": "la voûte sur croisée d'ogives",
+  "categorie": "Structure",
+  "definition": "Voûte gothique portée par deux arcs diagonaux saillants qui se croisent au sommet.",
+  "priorite": 3,
+  "requetes": [
+   "rib vault gothic",
+   "croisée d'ogives",
+   "ribbed vault ceiling"
+  ],
+  "incompatibles": [
+   "voute",
+   "cle-de-voute"
+  ]
+ },
+ {
+  "id": "pendentif",
+  "terme": "le pendentif",
+  "categorie": "Structure",
+  "definition": "Triangle de maçonnerie courbe qui fait passer d'un plan carré au cercle d'une coupole.",
+  "priorite": 3,
+  "requetes": [
+   "pendentive dome",
+   "pendentif coupole",
+   "pendentives"
+  ],
+  "incompatibles": [
+   "coupole"
+  ]
+ },
+ {
+  "id": "tambour",
+  "terme": "le tambour",
+  "categorie": "Structure",
+  "definition": "Mur circulaire ou polygonal, souvent percé de fenêtres, qui surélève une coupole au-dessus de sa base.",
+  "priorite": 3,
+  "requetes": [
+   "dome drum windows",
+   "tambour coupole",
+   "drum of dome"
+  ],
+  "incompatibles": [
+   "coupole"
+  ]
+ }
+]

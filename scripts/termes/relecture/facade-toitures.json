@@ -1,0 +1,389 @@
+[
+  {
+    "id": "allege",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "appui-de-fenetre",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "linteau",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "meneau",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "piedroit",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "chambranle",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "balcon",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "garde-corps",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "oriel",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "brise-soleil",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "pignon",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "moucharabieh",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "trumeau",
+    "action": "modifier",
+    "priorite": 2,
+    "definition": "Pan de mur plein compris entre deux baies voisines d'un même niveau.",
+    "raison": "priorité manquante ; définition réduite au sens de façade (le sens « pilier de portail » brouillait la reconnaissance)"
+  },
+  {
+    "id": "tympan",
+    "action": "modifier",
+    "priorite": 3,
+    "incompatibles_ajout": [
+      "fronton"
+    ],
+    "raison": "priorité manquante ; quasi-voisin du fronton (une photo de fronton montre le tympan)"
+  },
+  {
+    "id": "oeil-de-boeuf",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "lucarne"
+    ],
+    "raison": "priorité manquante ; un œil-de-bœuf percé dans un toit est une lucarne"
+  },
+  {
+    "id": "imposte",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "chassis-fixe"
+    ],
+    "raison": "priorité manquante ; une imposte fixe est un châssis fixe"
+  },
+  {
+    "id": "claustra",
+    "action": "modifier",
+    "priorite": 1,
+    "incompatibles_ajout": [
+      "brise-soleil",
+      "moucharabieh"
+    ],
+    "raison": "priorité manquante (très courant à Dakar) ; un claustra en façade sert de brise-soleil, proche du moucharabieh"
+  },
+  {
+    "id": "persienne",
+    "action": "modifier",
+    "priorite": 1,
+    "categorie": "Menuiserie et serrurerie",
+    "raison": "priorité manquante ; c'est un type de volet, donc dans le périmètre Menuiserie et serrurerie (déjà incompatible avec volet et volet-battant)"
+  },
+  {
+    "id": "seuil",
+    "action": "supprimer",
+    "raison": "doublon de seuil-de-porte (Menuiserie et serrurerie), même objet et même définition"
+  },
+  {
+    "id": "embrasure",
+    "action": "supprimer",
+    "raison": "quasi-doublon de tableau-de-baie : différence invisible sur une photo (même surface du mur autour de la baie)"
+  },
+  {
+    "id": "feuillure",
+    "action": "supprimer",
+    "raison": "non photographiable sans ambiguïté : cachée par le dormant une fois la menuiserie posée ; les photos Commons montreraient surtout des feuillures de menuiserie bois"
+  },
+  {
+    "id": "lisse",
+    "action": "supprimer",
+    "raison": "partie d'un garde-corps toujours vue avec lui : une photo de lisse illustre aussi chaque type de garde-corps ; confusion avec main-courante"
+  },
+  {
+    "id": "garde-corps-a-lisses",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "lisse"
+    ],
+    "raison": "lisse supprimée"
+  },
+  {
+    "id": "larmier",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "la goutte d'eau sous un appui est rarement lisible sur une photo ; élément plutôt rare"
+  },
+  {
+    "id": "chaine-d-angle",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "rare à Dakar"
+  },
+  {
+    "id": "soupirail",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "rare à Dakar (peu de caves)"
+  },
+  {
+    "id": "nez-de-dalle",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bandeau"
+    ],
+    "raison": "quasi-synonyme visuel du bandeau d'étage"
+  },
+  {
+    "id": "garde-corps-a-barreaudage",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "barreaudage"
+    ],
+    "raison": "même objet vu comme barreaudage"
+  },
+  {
+    "id": "garde-corps-en-fer-forge",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "fer-forge"
+    ],
+    "raison": "matériau toujours visible"
+  },
+  {
+    "id": "resille-metallique",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "tole-perforee",
+      "metal-deploye",
+      "brise-soleil"
+    ],
+    "raison": "une résille est faite de tôle perforée ou de métal déployé et sert de brise-soleil"
+  },
+  {
+    "id": "cache-climatiseur",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "unite-exterieure"
+    ],
+    "raison": "l'unité extérieure est visible derrière"
+  },
+  {
+    "id": "store-banne",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "fréquent mais pas présent à chaque visite"
+  },
+  {
+    "id": "facade-ventilee",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "panneau-composite-aluminium"
+    ],
+    "raison": "parement souvent en panneaux composites"
+  },
+  {
+    "id": "encadrement-de-baie",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "linteau"
+    ],
+    "raison": "l'encadrement surmonte la baie à l'emplacement du linteau"
+  },
+  {
+    "id": "devanture",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "rideau-metallique"
+    ],
+    "raison": "la devanture se ferme souvent par un rideau métallique visible"
+  },
+  {
+    "id": "gouttiere",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "faitage",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "croupe",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "shed",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "fleche",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "acrotere",
+    "action": "modifier",
+    "priorite": 1,
+    "incompatibles_ajout": [
+      "garde-corps-maconne"
+    ],
+    "raison": "priorité manquante ; muret maçonné qui peut aussi servir de garde-corps maçonné"
+  },
+  {
+    "id": "lucarne",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante ; rare à Dakar"
+  },
+  {
+    "id": "souche-de-cheminee",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante ; rare à Dakar"
+  },
+  {
+    "id": "lanterneau",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "exutoire-de-desenfumage",
+      "verriere"
+    ],
+    "raison": "priorité manquante ; un lanterneau sert souvent d'exutoire de désenfumage, proche d'une petite verrière"
+  },
+  {
+    "id": "plaque-de-fibrociment",
+    "action": "supprimer",
+    "raison": "doublon de fibrociment (Matériaux et revêtements), qui définit déjà les plaques ondulées grises de couverture"
+  },
+  {
+    "id": "plaque-translucide",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "polycarbonate-alveolaire"
+    ],
+    "raison": "même objet qu'une plaque de polycarbonate posée en couverture"
+  },
+  {
+    "id": "charpente-metallique",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "ferme-metallique"
+    ],
+    "raison": "une photo de charpente métallique montre ses fermes métalliques"
+  },
+  {
+    "id": "bardeau-bitume",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bardeau"
+    ],
+    "raison": "quasi-synonyme visuel du bardeau (écailles de couverture)"
+  },
+  {
+    "id": "couvertine",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "chaperon"
+    ],
+    "raison": "rôle identique au chaperon d'un mur ; moins courante que le chaperon béton à Dakar"
+  },
+  {
+    "id": "toit-mansarde",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "rare à Dakar"
+  },
+  {
+    "id": "fermette",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "rare à Dakar"
+  },
+  {
+    "id": "ecran-sous-toiture",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "rare à Dakar"
+  },
+  {
+    "id": "chevron",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "fréquent mais les toitures dakaroises sont surtout en terrasse ou en tôle sur pannes"
+  },
+  {
+    "id": "liteau",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "fréquent mais la tuile est minoritaire à Dakar"
+  },
+  {
+    "id": "fenetre-de-toit",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "rare à Dakar"
+  },
+  {
+    "id": "edicule",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "édicule de sortie d'escalier très courant sur les toits-terrasses de Dakar"
+  },
+  {
+    "id": "_bilan",
+    "action": "bilan",
+    "raison": "Priorités attribuées aux 27 termes sans priorité des deux catégories. Supprimés : seuil (doublon de seuil-de-porte), embrasure (indiscernable de tableau-de-baie), feuillure (cachée par la menuiserie), lisse (partie toujours vue avec chaque garde-corps), plaque-de-fibrociment (doublon de fibrociment). Persienne déplacée en Menuiserie et serrurerie (type de volet). Définition de trumeau recentrée sur le sens de façade. Priorités ajustées au contexte dakarois (toiture en tuiles, cheminées, lucarnes, mansardes rares ; édicule fréquent) et incompatibles ajoutés. Douteux : la paire tableau-de-baie / piedroit / ébrasement reste délicate à distinguer sur photo (dépend du rectangle) ; facade-double-peau, facade-ventilee et panneau-d-allege peu lisibles de l'extérieur ; égout-de-toit / avant-toit / gouttière proches ; à coordonner avec l'agent Menuiserie pour ne pas supprimer aussi seuil-de-porte, et avec Matériaux pour garder fibrociment."
+  }
+]

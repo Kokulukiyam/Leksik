@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "robinet",
+    "terme": "le robinet",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil à manette ou à tête qu'on ouvre pour faire couler l'eau d'une canalisation, monté sur un lavabo, un évier ou un mur.",
+    "priorite": 1,
+    "requetes": [
+      "water tap faucet",
+      "robinet eau",
+      "tap"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "mitigeur",
+    "terme": "le mitigeur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Robinet à manette unique qui règle à la fois le débit et le mélange d'eau chaude et d'eau froide.",
+    "priorite": 1,
+    "requetes": [
+      "single lever mixer tap",
+      "mitigeur lavabo",
+      "mixer faucet"
+    ],
+    "incompatibles": [
+      "robinet"
+    ]
+  },
+  {
+    "id": "lavabo",
+    "terme": "le lavabo",
+    "categorie": "Réseaux et équipements",
+    "definition": "Cuvette fixée au mur ou posée sur un meuble, alimentée par un robinet, servant à se laver les mains et le visage.",
+    "priorite": 1,
+    "requetes": [
+      "washbasin bathroom",
+      "lavabo salle de bain",
+      "sink bathroom ceramic"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "vasque",
+    "terme": "la vasque",
+    "categorie": "Réseaux et équipements",
+    "definition": "Lavabo en forme de bol posé sur un plan ou encastré dans un meuble, sans fixation murale apparente.",
+    "priorite": 2,
+    "requetes": [
+      "vessel sink countertop",
+      "vasque à poser",
+      "countertop basin bathroom"
+    ],
+    "incompatibles": [
+      "lavabo"
+    ]
+  },
+  {
+    "id": "evier",
+    "terme": "l'évier",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bac de cuisine en inox, en céramique ou en résine, avec un ou deux bacs et souvent un égouttoir, encastré dans un plan de travail.",
+    "priorite": 1,
+    "requetes": [
+      "kitchen sink stainless steel",
+      "évier cuisine inox",
+      "kitchen sink"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "bac-a-laver",
+    "terme": "le bac à laver",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bac profond en béton, en céramique ou en résine, souvent posé dans une buanderie ou une cour, servant à laver le linge à la main.",
+    "priorite": 2,
+    "requetes": [
+      "concrete laundry sink",
+      "bac à laver",
+      "utility sink laundry tub"
+    ],
+    "incompatibles": [
+      "evier"
+    ]
+  },
+  {
+    "id": "cuvette-de-wc",
+    "terme": "la cuvette de WC",
+    "categorie": "Réseaux et équipements",
+    "definition": "Cuvette en céramique où l'on fait ses besoins, reliée à l'évacuation et rincée par une chasse d'eau ; aussi appelée WC à l'anglaise.",
+    "priorite": 1,
+    "requetes": [
+      "toilet bowl ceramic",
+      "cuvette WC",
+      "incategory:\"Flush toilets\""
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "wc-suspendu",
+    "terme": "le WC suspendu",
+    "categorie": "Réseaux et équipements",
+    "definition": "Cuvette de WC fixée au mur sans pied, le réservoir étant caché dans un bâti-support derrière la cloison.",
+    "priorite": 2,
+    "requetes": [
+      "wall hung toilet",
+      "WC suspendu",
+      "wall mounted toilet bathroom"
+    ],
+    "incompatibles": [
+      "cuvette-de-wc"
+    ]
+  },
+  {
+    "id": "bati-support",
+    "terme": "le bâti-support",
+    "categorie": "Réseaux et équipements",
+    "definition": "Châssis métallique fixé au mur ou au sol, intégrant le réservoir de chasse, sur lequel on accroche un WC suspendu avant de l'habiller d'une cloison.",
+    "priorite": 3,
+    "requetes": [
+      "concealed toilet cistern frame installation",
+      "bâti-support WC",
+      "toilet frame Geberit installation"
+    ],
+    "incompatibles": [
+      "wc-suspendu"
+    ]
+  },
+  {
+    "id": "wc-a-la-turque",
+    "terme": "le WC à la turque",
+    "categorie": "Réseaux et équipements",
+    "definition": "Cuvette posée au ras du sol, avec deux repose-pieds, sur laquelle on s'accroupit.",
+    "priorite": 1,
+    "requetes": [
+      "squat toilet",
+      "toilettes à la turque",
+      "squatting toilet ceramic"
+    ],
+    "incompatibles": [
+      "cuvette-de-wc"
+    ]
+  },
+  {
+    "id": "reservoir-de-chasse",
+    "terme": "le réservoir de chasse",
+    "categorie": "Réseaux et équipements",
+    "definition": "Réservoir d'eau en céramique ou en plastique placé derrière ou au-dessus de la cuvette, qui se vide pour la rincer.",
+    "priorite": 1,
+    "requetes": [
+      "toilet cistern",
+      "réservoir chasse d'eau",
+      "toilet tank"
+    ],
+    "incompatibles": [
+      "cuvette-de-wc"
+    ]
+  },
+  {
+    "id": "douchette-wc",
+    "terme": "la douchette WC",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petite douchette à main reliée à un flexible près de la cuvette, servant à la toilette intime, très répandue au Sénégal.",
+    "priorite": 2,
+    "requetes": [
+      "bidet shower sprayer toilet",
+      "hand held bidet sprayer",
+      "shattaf"
+    ],
+    "incompatibles": [
+      "cuvette-de-wc"
+    ]
+  },
+  {
+    "id": "bidet",
+    "terme": "le bidet",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil sanitaire bas en céramique, sur lequel on s'assoit à califourchon pour la toilette intime.",
+    "priorite": 3,
+    "requetes": [
+      "bidet bathroom",
+      "bidet céramique",
+      "incategory:\"Bidets\""
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "urinoir",
+    "terme": "l'urinoir",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil sanitaire mural en céramique ou en inox, utilisé debout par les hommes, courant dans les sanitaires publics.",
+    "priorite": 2,
+    "requetes": [
+      "urinal",
+      "urinoir",
+      "urinals public toilet"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "pomme-de-douche",
+    "terme": "la pomme de douche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce perforée par laquelle l'eau de la douche sort en jet, fixée au mur ou au bout d'un flexible.",
+    "priorite": 1,
+    "requetes": [
+      "shower head",
+      "pomme de douche",
+      "rain shower head"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "colonne-de-douche",
+    "terme": "la colonne de douche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ensemble vertical fixé au mur réunissant une grande pomme de douche en tête, une douchette et un mitigeur.",
+    "priorite": 3,
+    "requetes": [
+      "shower column",
+      "colonne de douche",
+      "shower panel system"
+    ],
+    "incompatibles": [
+      "pomme-de-douche"
+    ]
+  },
+  {
+    "id": "receveur-de-douche",
+    "terme": "le receveur de douche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bac plat en céramique, en résine ou en acrylique posé au sol de la douche, qui recueille l'eau et la dirige vers la bonde.",
+    "priorite": 2,
+    "requetes": [
+      "shower tray",
+      "receveur de douche",
+      "shower base"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "douche-a-l-italienne",
+    "terme": "la douche à l'italienne",
+    "categorie": "Réseaux et équipements",
+    "definition": "Douche de plain-pied sans receveur, dont le sol carrelé est en légère pente vers un siphon ou un caniveau.",
+    "priorite": 2,
+    "requetes": [
+      "walk-in shower tiled floor",
+      "douche à l'italienne",
+      "curbless shower"
+    ],
+    "incompatibles": [
+      "receveur-de-douche",
+      "siphon-de-sol"
+    ]
+  },
+  {
+    "id": "baignoire",
+    "terme": "la baignoire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Grande cuve sanitaire en acrylique, en fonte ou en acier dans laquelle on prend un bain.",
+    "priorite": 1,
+    "requetes": [
+      "bathtub",
+      "baignoire",
+      "bath tub bathroom"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "bonde",
+    "terme": "la bonde",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce métallique ou plastique au fond d'un lavabo, d'un évier, d'une baignoire ou d'un receveur, par laquelle l'eau s'écoule.",
+    "priorite": 2,
+    "requetes": [
+      "sink drain plug",
+      "bonde lavabo",
+      "drain strainer sink"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "trop-plein",
+    "terme": "le trop-plein",
+    "categorie": "Réseaux et équipements",
+    "definition": "Orifice percé en haut d'un lavabo ou d'une baignoire, qui évacue l'eau avant qu'elle ne déborde.",
+    "priorite": 3,
+    "requetes": [
+      "bathtub overflow",
+      "trop-plein baignoire",
+      "sink overflow hole"
+    ],
+    "incompatibles": [
+      "bonde"
+    ]
+  },
+  {
+    "id": "siphon",
+    "terme": "le siphon",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce coudée ou en forme de bouteille placée sous un appareil sanitaire, qui garde une garde d'eau pour bloquer les odeurs de l'égout.",
+    "priorite": 1,
+    "requetes": [
+      "sink trap P-trap",
+      "siphon lavabo",
+      "bottle trap under sink"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "siphon-de-sol",
+    "terme": "le siphon de sol",
+    "categorie": "Réseaux et équipements",
+    "definition": "Grille posée au sol d'une douche, d'une salle d'eau ou d'une terrasse, reliée à un siphon, qui recueille l'eau qui ruisselle.",
+    "priorite": 1,
+    "requetes": [
+      "floor drain bathroom",
+      "siphon de sol",
+      "floor drain grate"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "caniveau-de-douche",
+    "terme": "le caniveau de douche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Long caniveau étroit en inox encastré dans le sol d'une douche à l'italienne, couvert d'une grille.",
+    "priorite": 3,
+    "requetes": [
+      "linear shower drain",
+      "caniveau de douche",
+      "linear drain stainless"
+    ],
+    "incompatibles": [
+      "siphon-de-sol",
+      "douche-a-l-italienne"
+    ]
+  },
+  {
+    "id": "flexible-d-alimentation",
+    "terme": "le flexible d'alimentation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau souple gainé de tresse inox qui relie un robinet ou un réservoir de chasse au robinet d'arrêt.",
+    "priorite": 2,
+    "requetes": [
+      "braided flexible hose tap connector",
+      "flexible inox robinet",
+      "tap connector hose"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "tube-pvc",
+    "terme": "le tube PVC",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau rigide en plastique gris ou blanc utilisé pour l'évacuation des eaux usées et parfois pour l'alimentation en eau.",
+    "priorite": 1,
+    "requetes": [
+      "PVC pipe",
+      "tube PVC évacuation",
+      "PVC pipes construction"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "tube-en-cuivre",
+    "terme": "le tube en cuivre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau métallique de teinte orangée utilisé pour l'eau, le gaz ou les liaisons frigorifiques, assemblé par brasure ou raccords.",
+    "priorite": 2,
+    "requetes": [
+      "copper pipe plumbing",
+      "tube cuivre plomberie",
+      "copper pipes"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "tube-per",
+    "terme": "le tube PER",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau souple en polyéthylène réticulé, souvent rouge ou bleu, parfois passé dans une gaine, pour la distribution d'eau chaude et froide.",
+    "priorite": 2,
+    "requetes": [
+      "PEX pipe red blue",
+      "tube PER",
+      "PEX tubing plumbing"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "tube-multicouche",
+    "terme": "le tube multicouche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau blanc semi-rigide composé de plastique et d'une âme en aluminium, pour l'alimentation en eau, assemblé par raccords à sertir.",
+    "priorite": 3,
+    "requetes": [
+      "multilayer pipe PEX-AL-PEX",
+      "tube multicouche",
+      "multilayer composite pipe"
+    ],
+    "incompatibles": [
+      "tube-per"
+    ]
+  },
+  {
+    "id": "tube-ppr",
+    "terme": "le tube PPR",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau en polypropylène, souvent vert ou blanc, assemblé par soudure à chaud, très employé en Afrique de l'Ouest pour l'alimentation en eau.",
+    "priorite": 2,
+    "requetes": [
+      "PPR pipe green",
+      "tube PPR",
+      "polypropylene pipe welding"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "tube-galvanise",
+    "terme": "le tube galvanisé",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau en acier recouvert de zinc, gris mat, fileté aux extrémités, pour l'eau ou la protection incendie.",
+    "priorite": 2,
+    "requetes": [
+      "galvanized steel pipe",
+      "tube acier galvanisé",
+      "galvanized pipe plumbing"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "tuyau-en-polyethylene",
+    "terme": "le tuyau en polyéthylène",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau souple noir, parfois à bande bleue, enroulé en couronne, utilisé pour les branchements d'eau enterrés.",
+    "priorite": 2,
+    "requetes": [
+      "HDPE pipe black coil",
+      "tuyau polyéthylène",
+      "PE water pipe coil"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "coude",
+    "terme": "le coude",
+    "categorie": "Réseaux et équipements",
+    "definition": "Raccord de tuyauterie qui change la direction d'une canalisation, le plus souvent à 45 ou 90 degrés.",
+    "priorite": 2,
+    "requetes": [
+      "pipe elbow fitting",
+      "coude PVC",
+      "PVC elbow"
+    ],
+    "incompatibles": [
+      "raccord"
+    ]
+  },
+  {
+    "id": "te",
+    "terme": "le té",
+    "categorie": "Réseaux et équipements",
+    "definition": "Raccord de tuyauterie en forme de T qui crée une dérivation sur une canalisation.",
+    "priorite": 3,
+    "requetes": [
+      "tee pipe fitting",
+      "té PVC",
+      "pipe tee"
+    ],
+    "incompatibles": [
+      "raccord"
+    ]
+  },
+  {
+    "id": "raccord",
+    "terme": "le raccord",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce qui relie deux tuyaux entre eux ou un tuyau à un appareil : manchon, réduction, union…",
+    "priorite": 2,
+    "requetes": [
+      "pipe fitting",
+      "raccord plomberie",
+      "plumbing fittings"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "collier-de-fixation",
+    "terme": "le collier de fixation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bride en métal ou en plastique vissée au mur qui maintient un tuyau.",
+    "priorite": 2,
+    "requetes": [
+      "pipe clamp wall",
+      "collier de fixation tuyau",
+      "pipe clip bracket"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "vanne-d-arret",
+    "terme": "la vanne d'arrêt",
+    "categorie": "Réseaux et équipements",
+    "definition": "Robinet à manette quart de tour, souvent rouge ou jaune, monté sur une canalisation pour couper l'eau.",
+    "priorite": 1,
+    "requetes": [
+      "ball valve lever",
+      "vanne quart de tour",
+      "shut-off valve pipe"
+    ],
+    "incompatibles": [
+      "robinet"
+    ]
+  },
+  {
+    "id": "clapet-anti-retour",
+    "terme": "le clapet anti-retour",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce montée sur une canalisation qui laisse passer l'eau dans un seul sens, une flèche indiquant le sens sur le corps.",
+    "priorite": 3,
+    "requetes": [
+      "check valve brass",
+      "clapet anti-retour",
+      "non return valve"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "reducteur-de-pression",
+    "terme": "le réducteur de pression",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil en laiton monté sur l'arrivée d'eau, souvent muni d'un manomètre, qui abaisse la pression du réseau.",
+    "priorite": 3,
+    "requetes": [
+      "pressure reducing valve water",
+      "réducteur de pression eau",
+      "water pressure regulator brass"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "manometre",
+    "terme": "le manomètre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Cadran à aiguille qui indique la pression dans une canalisation, une pompe ou un réservoir.",
+    "priorite": 3,
+    "requetes": [
+      "pressure gauge water pipe",
+      "manomètre",
+      "pressure gauge"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "collecteur",
+    "terme": "le collecteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tube muni de plusieurs sorties, avec ou sans robinets, qui répartit l'eau vers chaque appareil ; aussi appelé nourrice.",
+    "priorite": 3,
+    "requetes": [
+      "plumbing manifold PEX",
+      "collecteur nourrice plomberie",
+      "water manifold"
+    ],
+    "incompatibles": [
+      "tube-per"
+    ]
+  },
+  {
+    "id": "compteur-d-eau",
+    "terme": "le compteur d'eau",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil placé sur le branchement, à cadran et chiffres, qui mesure l'eau consommée.",
+    "priorite": 1,
+    "requetes": [
+      "water meter",
+      "compteur d'eau",
+      "incategory:\"Water meters\""
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "cuve-en-polyethylene",
+    "terme": "la cuve en polyéthylène",
+    "categorie": "Réseaux et équipements",
+    "definition": "Réservoir d'eau en plastique moulé, souvent noir, bleu ou blanc, posé au sol ou sur une terrasse pour stocker l'eau.",
+    "priorite": 1,
+    "requetes": [
+      "plastic water tank rooftop",
+      "polyethylene water storage tank",
+      "citerne eau plastique"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "chateau-d-eau",
+    "terme": "le château d'eau",
+    "categorie": "Réseaux et équipements",
+    "definition": "Réservoir d'eau surélevé sur un fût ou des poteaux, qui alimente un réseau par gravité.",
+    "priorite": 1,
+    "requetes": [
+      "water tower",
+      "château d'eau",
+      "incategory:\"Water towers\""
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "surpresseur",
+    "terme": "le surpresseur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Groupe formé d'une pompe et d'un réservoir sous pression qui augmente la pression de l'eau dans le bâtiment.",
+    "priorite": 1,
+    "requetes": [
+      "booster pump pressure tank",
+      "surpresseur eau",
+      "water pressure booster pump"
+    ],
+    "incompatibles": [
+      "pompe-de-surface",
+      "reservoir-a-vessie"
+    ]
+  },
+  {
+    "id": "reservoir-a-vessie",
+    "terme": "le réservoir à vessie",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ballon métallique peint, souvent bleu, raccordé à une pompe ou un surpresseur, qui garde l'eau sous pression.",
+    "priorite": 3,
+    "requetes": [
+      "pressure tank water pump",
+      "réservoir à vessie",
+      "bladder pressure tank"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "pompe-de-surface",
+    "terme": "la pompe de surface",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pompe électrique posée au sol qui aspire l'eau d'une cuve ou d'une bâche et la refoule dans le réseau.",
+    "priorite": 2,
+    "requetes": [
+      "centrifugal water pump electric",
+      "pompe de surface",
+      "surface water pump"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "pompe-immergee",
+    "terme": "la pompe immergée",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pompe cylindrique étroite descendue dans un forage ou une cuve, qui fonctionne sous l'eau.",
+    "priorite": 2,
+    "requetes": [
+      "submersible pump borehole",
+      "pompe immergée",
+      "submersible water pump"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "pompe-de-relevage",
+    "terme": "la pompe de relevage",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pompe placée dans une petite cuve qui remonte les eaux usées d'un sous-sol jusqu'au réseau d'évacuation.",
+    "priorite": 3,
+    "requetes": [
+      "sewage lift pump",
+      "pompe de relevage",
+      "sump pump basement"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "colonne-de-chute",
+    "terme": "la colonne de chute",
+    "categorie": "Réseaux et équipements",
+    "definition": "Canalisation verticale qui descend les eaux usées et les eaux vannes des étages jusqu'au réseau en pied d'immeuble.",
+    "priorite": 2,
+    "requetes": [
+      "soil stack pipe building",
+      "colonne de chute",
+      "drain stack PVC"
+    ],
+    "incompatibles": [
+      "tube-pvc"
+    ]
+  },
+  {
+    "id": "chauffe-eau-electrique",
+    "terme": "le chauffe-eau électrique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ballon cylindrique blanc, vertical ou horizontal, qui chauffe et stocke l'eau chaude par une résistance électrique ; appelé aussi cumulus.",
+    "priorite": 1,
+    "requetes": [
+      "electric water heater",
+      "chauffe-eau électrique",
+      "hot water cylinder"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "chauffe-eau-solaire",
+    "terme": "le chauffe-eau solaire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ensemble posé en toiture formé de capteurs et d'un ballon horizontal, qui chauffe l'eau par le soleil.",
+    "priorite": 2,
+    "requetes": [
+      "solar water heater rooftop",
+      "chauffe-eau solaire",
+      "thermosiphon solar water heater"
+    ],
+    "incompatibles": [
+      "capteur-solaire-thermique"
+    ]
+  },
+  {
+    "id": "capteur-solaire-thermique",
+    "terme": "le capteur solaire thermique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Panneau vitré ou à tubes sous vide qui capte la chaleur du soleil pour chauffer de l'eau.",
+    "priorite": 2,
+    "requetes": [
+      "solar thermal collector",
+      "capteur solaire thermique",
+      "evacuated tube collector"
+    ],
+    "incompatibles": [
+      "panneau-photovoltaique"
+    ]
+  },
+  {
+    "id": "chauffe-eau-instantane",
+    "terme": "le chauffe-eau instantané",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit appareil mural, électrique ou à gaz, qui chauffe l'eau au moment où elle passe, sans réservoir.",
+    "priorite": 3,
+    "requetes": [
+      "tankless water heater",
+      "chauffe-eau instantané",
+      "instant water heater"
+    ],
+    "incompatibles": [
+      "chauffe-eau-electrique"
+    ]
+  },
+  {
+    "id": "groupe-de-securite",
+    "terme": "le groupe de sécurité",
+    "categorie": "Réseaux et équipements",
+    "definition": "Organe en laiton à soupape, monté sur l'arrivée d'eau froide d'un chauffe-eau, qui évacue la surpression.",
+    "priorite": 3,
+    "requetes": [
+      "water heater safety valve",
+      "groupe de sécurité chauffe-eau",
+      "expansion relief valve"
+    ],
+    "incompatibles": [
+      "chauffe-eau-electrique"
+    ]
+  },
+  {
+    "id": "radiateur",
+    "terme": "le radiateur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil de chauffage fixé au mur, en fonte, en acier ou en aluminium, à éléments ou à panneau.",
+    "priorite": 3,
+    "requetes": [
+      "radiator",
+      "radiateur",
+      "incategory:\"Radiators\""
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "plancher-chauffant",
+    "terme": "le plancher chauffant",
+    "categorie": "Réseaux et équipements",
+    "definition": "Réseau de tubes souples posés en serpentin sur un isolant avant le coulage de la chape.",
+    "priorite": 3,
+    "requetes": [
+      "underfloor heating pipes",
+      "plancher chauffant",
+      "radiant floor heating installation"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "vase-d-expansion",
+    "terme": "le vase d'expansion",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit réservoir métallique, souvent rouge, qui absorbe la dilatation de l'eau dans une installation de chauffage ou d'eau chaude.",
+    "priorite": 3,
+    "requetes": [
+      "expansion vessel red",
+      "vase d'expansion",
+      "expansion tank"
+    ],
+    "incompatibles": [
+      "reservoir-a-vessie"
+    ]
+  },
+  {
+    "id": "bouteille-de-gaz",
+    "terme": "la bouteille de gaz",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bouteille métallique de butane ou de propane qui alimente une cuisinière ou un réchaud.",
+    "priorite": 1,
+    "requetes": [
+      "gas cylinder butane",
+      "bouteille de gaz",
+      "LPG cylinder"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "detendeur",
+    "terme": "le détendeur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce vissée sur la bouteille de gaz qui abaisse la pression du gaz avant le tuyau de raccordement.",
+    "priorite": 3,
+    "requetes": [
+      "gas regulator cylinder",
+      "détendeur gaz",
+      "LPG regulator"
+    ],
+    "incompatibles": [
+      "bouteille-de-gaz"
+    ]
+  },
+  {
+    "id": "tableau-electrique",
+    "terme": "le tableau électrique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Coffret qui regroupe les disjoncteurs et protections d'une installation électrique sur des rails.",
+    "priorite": 1,
+    "requetes": [
+      "electrical panel breakers",
+      "tableau électrique",
+      "distribution board"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "disjoncteur",
+    "terme": "le disjoncteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil modulaire à manette, monté sur rail dans le tableau, qui coupe un circuit en cas de surcharge ou de court-circuit.",
+    "priorite": 1,
+    "requetes": [
+      "circuit breaker modular",
+      "disjoncteur",
+      "miniature circuit breaker"
+    ],
+    "incompatibles": [
+      "tableau-electrique"
+    ]
+  },
+  {
+    "id": "disjoncteur-differentiel",
+    "terme": "le disjoncteur différentiel",
+    "categorie": "Réseaux et équipements",
+    "definition": "Disjoncteur muni d'un bouton test, qui coupe le courant en cas de fuite vers la terre pour protéger les personnes.",
+    "priorite": 2,
+    "requetes": [
+      "residual current circuit breaker",
+      "disjoncteur différentiel",
+      "RCD test button"
+    ],
+    "incompatibles": [
+      "disjoncteur",
+      "tableau-electrique"
+    ]
+  },
+  {
+    "id": "parafoudre",
+    "terme": "le parafoudre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil modulaire du tableau électrique, souvent avec un voyant, qui protège l'installation des surtensions dues à la foudre.",
+    "priorite": 3,
+    "requetes": [
+      "surge protection device DIN rail",
+      "parafoudre",
+      "surge arrester modular"
+    ],
+    "incompatibles": [
+      "tableau-electrique",
+      "disjoncteur"
+    ]
+  },
+  {
+    "id": "compteur-electrique",
+    "terme": "le compteur électrique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil qui mesure l'électricité consommée, avec un afficheur, installé à l'entrée du logement.",
+    "priorite": 1,
+    "requetes": [
+      "electricity meter",
+      "compteur électrique",
+      "incategory:\"Electricity meters\""
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "compteur-a-prepaiement",
+    "terme": "le compteur à prépaiement",
+    "categorie": "Réseaux et équipements",
+    "definition": "Compteur électrique à clavier où l'on saisit le code d'une recharge achetée à l'avance ; au Sénégal, le compteur Woyofal.",
+    "priorite": 1,
+    "requetes": [
+      "prepaid electricity meter keypad",
+      "compteur prépayé",
+      "prepayment meter"
+    ],
+    "incompatibles": [
+      "compteur-electrique"
+    ]
+  },
+  {
+    "id": "prise-de-courant",
+    "terme": "la prise de courant",
+    "categorie": "Réseaux et équipements",
+    "definition": "Socle mural à deux trous, avec ou sans broche de terre, où l'on branche un appareil électrique.",
+    "priorite": 1,
+    "requetes": [
+      "electrical outlet wall socket",
+      "prise de courant",
+      "power socket"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "interrupteur",
+    "terme": "l'interrupteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil mural à bascule ou à bouton qui allume et éteint un éclairage.",
+    "priorite": 1,
+    "requetes": [
+      "light switch wall",
+      "interrupteur",
+      "wall switch"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "boite-d-encastrement",
+    "terme": "la boîte d'encastrement",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit boîtier rond en plastique scellé dans le mur, qui reçoit une prise ou un interrupteur.",
+    "priorite": 2,
+    "requetes": [
+      "electrical flush box wall",
+      "boîte d'encastrement",
+      "pattress box"
+    ],
+    "incompatibles": [
+      "gaine-icta"
+    ]
+  },
+  {
+    "id": "boite-de-derivation",
+    "terme": "la boîte de dérivation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Boîtier à couvercle où se raccordent les fils de plusieurs circuits électriques.",
+    "priorite": 2,
+    "requetes": [
+      "junction box electrical",
+      "boîte de dérivation",
+      "electrical junction box wires"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "gaine-icta",
+    "terme": "la gaine ICTA",
+    "categorie": "Réseaux et équipements",
+    "definition": "Conduit annelé souple, gris ou orange, posé dans les murs et les dalles avant coulage pour y passer les fils électriques.",
+    "priorite": 1,
+    "requetes": [
+      "corrugated electrical conduit",
+      "gaine ICTA",
+      "flexible conduit in concrete slab"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "goulotte",
+    "terme": "la goulotte",
+    "categorie": "Réseaux et équipements",
+    "definition": "Profilé en plastique à couvercle fixé en surface du mur, dans lequel passent les câbles.",
+    "priorite": 2,
+    "requetes": [
+      "cable trunking",
+      "goulotte électrique",
+      "wall cable duct"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "chemin-de-cables",
+    "terme": "le chemin de câbles",
+    "categorie": "Réseaux et équipements",
+    "definition": "Support en treillis ou en tôle perforée, suspendu ou fixé au mur, qui porte les câbles dans les locaux techniques et les faux plafonds.",
+    "priorite": 2,
+    "requetes": [
+      "cable tray",
+      "chemin de câbles",
+      "wire mesh cable tray"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "cable-electrique",
+    "terme": "le câble électrique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ensemble de fils conducteurs isolés réunis sous une gaine, posé pour distribuer l'électricité.",
+    "priorite": 1,
+    "requetes": [
+      "electrical cable",
+      "câble électrique",
+      "electric wires"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "piquet-de-terre",
+    "terme": "le piquet de terre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tige métallique enfoncée dans le sol et reliée au câble de terre de l'installation électrique.",
+    "priorite": 3,
+    "requetes": [
+      "earth rod grounding",
+      "piquet de terre",
+      "ground rod"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "paratonnerre",
+    "terme": "le paratonnerre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tige métallique dressée au sommet d'un bâtiment et reliée à la terre, qui capte la foudre.",
+    "priorite": 2,
+    "requetes": [
+      "lightning rod roof",
+      "paratonnerre",
+      "lightning conductor"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "groupe-electrogene",
+    "terme": "le groupe électrogène",
+    "categorie": "Réseaux et équipements",
+    "definition": "Machine formée d'un moteur et d'un alternateur, souvent dans un capot insonorisé, qui produit l'électricité en cas de coupure.",
+    "priorite": 1,
+    "requetes": [
+      "diesel generator",
+      "groupe électrogène",
+      "generator set"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "poste-de-transformation",
+    "terme": "le poste de transformation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Local ou cabine abritant le transformateur qui abaisse la tension du réseau pour alimenter un bâtiment ou un quartier.",
+    "priorite": 3,
+    "requetes": [
+      "electrical substation transformer building",
+      "poste de transformation",
+      "pad mounted transformer"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "ampoule",
+    "terme": "l'ampoule",
+    "categorie": "Réseaux et équipements",
+    "definition": "Lampe en verre ou en plastique qu'on visse ou enfiche dans une douille pour éclairer.",
+    "priorite": 1,
+    "requetes": [
+      "light bulb",
+      "ampoule",
+      "LED bulb"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "plafonnier",
+    "terme": "le plafonnier",
+    "categorie": "Réseaux et équipements",
+    "definition": "Luminaire fixé directement contre le plafond.",
+    "priorite": 1,
+    "requetes": [
+      "ceiling light",
+      "plafonnier",
+      "flush mount ceiling light"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "applique",
+    "terme": "l'applique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Luminaire fixé au mur.",
+    "priorite": 1,
+    "requetes": [
+      "wall light sconce",
+      "applique murale",
+      "wall lamp"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "spot-encastre",
+    "terme": "le spot encastré",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit luminaire rond logé dans le faux plafond, dont seule la collerette dépasse.",
+    "priorite": 2,
+    "requetes": [
+      "recessed downlight ceiling",
+      "spot encastré",
+      "recessed light"
+    ],
+    "incompatibles": [
+      "plafonnier"
+    ]
+  },
+  {
+    "id": "suspension",
+    "terme": "la suspension",
+    "categorie": "Réseaux et équipements",
+    "definition": "Luminaire accroché au plafond par un fil, une chaîne ou une tige.",
+    "priorite": 2,
+    "requetes": [
+      "pendant light",
+      "suspension luminaire",
+      "pendant lamp"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "reglette",
+    "terme": "la réglette",
+    "categorie": "Réseaux et équipements",
+    "definition": "Luminaire long et étroit à tube fluorescent ou LED, fixé au plafond ou au mur.",
+    "priorite": 1,
+    "requetes": [
+      "fluorescent tube light fixture",
+      "réglette LED",
+      "batten light"
+    ],
+    "incompatibles": [
+      "plafonnier"
+    ]
+  },
+  {
+    "id": "projecteur",
+    "terme": "le projecteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Luminaire puissant orientable, à LED ou à halogène, qui éclaire une façade, une cour ou un chantier.",
+    "priorite": 2,
+    "requetes": [
+      "LED floodlight",
+      "projecteur LED",
+      "floodlight wall"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "lampadaire-solaire",
+    "terme": "le lampadaire solaire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Mât d'éclairage extérieur portant un luminaire et un panneau photovoltaïque qui le rend autonome.",
+    "priorite": 3,
+    "requetes": [
+      "solar street light",
+      "lampadaire solaire",
+      "solar street lamp Africa"
+    ],
+    "incompatibles": [
+      "panneau-photovoltaique"
+    ]
+  },
+  {
+    "id": "bloc-autonome-d-eclairage-de-securite",
+    "terme": "le bloc autonome d'éclairage de sécurité",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit boîtier lumineux avec un pictogramme de sortie, qui s'allume en cas de coupure pour guider l'évacuation ; abrégé BAES.",
+    "priorite": 2,
+    "requetes": [
+      "emergency exit sign light",
+      "bloc autonome éclairage de sécurité",
+      "exit sign"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "panneau-photovoltaique",
+    "terme": "le panneau photovoltaïque",
+    "categorie": "Réseaux et équipements",
+    "definition": "Panneau plat bleu sombre ou noir, à cellules visibles, qui produit de l'électricité à partir du soleil.",
+    "priorite": 1,
+    "requetes": [
+      "solar panels rooftop",
+      "panneau photovoltaïque",
+      "photovoltaic panel"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "onduleur",
+    "terme": "l'onduleur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Boîtier électronique mural qui transforme le courant continu des panneaux solaires ou des batteries en courant alternatif.",
+    "priorite": 2,
+    "requetes": [
+      "solar inverter",
+      "onduleur solaire",
+      "inverter wall mounted"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "batterie-solaire",
+    "terme": "la batterie solaire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Batterie de stockage, souvent en rangée ou en armoire, qui garde l'électricité produite par les panneaux.",
+    "priorite": 2,
+    "requetes": [
+      "solar battery bank",
+      "batterie solaire",
+      "battery storage solar"
+    ],
+    "incompatibles": [
+      "onduleur"
+    ]
+  },
+  {
+    "id": "regulateur-de-charge",
+    "terme": "le régulateur de charge",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit boîtier électronique qui contrôle la charge des batteries par les panneaux solaires.",
+    "priorite": 3,
+    "requetes": [
+      "solar charge controller",
+      "régulateur de charge solaire",
+      "MPPT charge controller"
+    ],
+    "incompatibles": [
+      "onduleur"
+    ]
+  },
+  {
+    "id": "split",
+    "terme": "le split",
+    "categorie": "Réseaux et équipements",
+    "definition": "Climatiseur dont l'unité intérieure, un boîtier blanc allongé, est fixée en haut du mur et reliée à une unité extérieure.",
+    "priorite": 1,
+    "requetes": [
+      "split air conditioner indoor unit",
+      "climatiseur split",
+      "wall mounted air conditioner"
+    ],
+    "incompatibles": [
+      "unite-exterieure"
+    ]
+  },
+  {
+    "id": "unite-exterieure",
+    "terme": "l'unité extérieure",
+    "categorie": "Réseaux et équipements",
+    "definition": "Caisson à ventilateur du climatiseur installé dehors, sur une façade, un toit ou au sol.",
+    "priorite": 1,
+    "requetes": [
+      "air conditioner outdoor unit",
+      "unité extérieure climatisation",
+      "condenser unit wall"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "cassette-de-climatisation",
+    "terme": "la cassette de climatisation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Unité intérieure carrée encastrée dans le faux plafond, qui souffle l'air par quatre côtés.",
+    "priorite": 2,
+    "requetes": [
+      "cassette air conditioner ceiling",
+      "climatiseur cassette",
+      "ceiling cassette AC"
+    ],
+    "incompatibles": [
+      "split"
+    ]
+  },
+  {
+    "id": "climatiseur-armoire",
+    "terme": "le climatiseur armoire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Climatiseur à unité intérieure haute et verticale posée au sol, pour les grandes pièces.",
+    "priorite": 3,
+    "requetes": [
+      "floor standing air conditioner",
+      "climatiseur armoire",
+      "standing AC unit"
+    ],
+    "incompatibles": [
+      "split"
+    ]
+  },
+  {
+    "id": "climatiseur-de-fenetre",
+    "terme": "le climatiseur de fenêtre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Climatiseur monobloc encastré dans une fenêtre ou dans un trou du mur, dont l'arrière dépasse dehors.",
+    "priorite": 3,
+    "requetes": [
+      "window air conditioner",
+      "climatiseur de fenêtre",
+      "through-wall air conditioner"
+    ],
+    "incompatibles": [
+      "unite-exterieure"
+    ]
+  },
+  {
+    "id": "liaison-frigorifique",
+    "terme": "la liaison frigorifique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Paire de tubes en cuivre isolés de mousse qui relie l'unité intérieure à l'unité extérieure d'un climatiseur.",
+    "priorite": 2,
+    "requetes": [
+      "air conditioner copper line set insulation",
+      "liaison frigorifique",
+      "refrigerant pipes insulated"
+    ],
+    "incompatibles": [
+      "split",
+      "unite-exterieure",
+      "tube-en-cuivre"
+    ]
+  },
+  {
+    "id": "tuyau-de-condensats",
+    "terme": "le tuyau de condensats",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit tuyau qui évacue l'eau produite par un climatiseur, souvent visible goutte à goutte en façade.",
+    "priorite": 3,
+    "requetes": [
+      "air conditioner condensate drain pipe",
+      "évacuation condensats climatiseur",
+      "AC drain pipe"
+    ],
+    "incompatibles": [
+      "split"
+    ]
+  },
+  {
+    "id": "ventilateur-de-plafond",
+    "terme": "le ventilateur de plafond",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil à pales tournantes suspendu au plafond qui brasse l'air.",
+    "priorite": 1,
+    "requetes": [
+      "ceiling fan",
+      "ventilateur de plafond",
+      "ceiling fan room"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "extracteur-d-air",
+    "terme": "l'extracteur d'air",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ventilateur fixé dans un mur, une fenêtre ou un conduit, qui rejette l'air vicié d'une cuisine ou d'une salle d'eau.",
+    "priorite": 2,
+    "requetes": [
+      "exhaust fan wall",
+      "extracteur d'air",
+      "bathroom extractor fan"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "grille-de-ventilation",
+    "terme": "la grille de ventilation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Grille à lames ou perforée posée sur un mur ou une porte, qui laisse passer l'air.",
+    "priorite": 1,
+    "requetes": [
+      "ventilation grille wall",
+      "grille d'aération",
+      "air vent grille"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "bouche-d-extraction",
+    "terme": "la bouche d'extraction",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bouche ronde, souvent blanche, posée au plafond ou en haut du mur d'une pièce humide, par laquelle la ventilation aspire l'air.",
+    "priorite": 3,
+    "requetes": [
+      "extract air valve ceiling",
+      "bouche d'extraction VMC",
+      "ventilation extract valve"
+    ],
+    "incompatibles": [
+      "grille-de-ventilation"
+    ]
+  },
+  {
+    "id": "diffuseur-d-air",
+    "terme": "le diffuseur d'air",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bouche à ailettes, carrée ou ronde, posée dans le faux plafond, qui souffle l'air climatisé ou neuf.",
+    "priorite": 2,
+    "requetes": [
+      "ceiling air diffuser",
+      "diffuseur d'air plafond",
+      "square ceiling diffuser"
+    ],
+    "incompatibles": [
+      "grille-de-ventilation",
+      "bouche-d-extraction"
+    ]
+  },
+  {
+    "id": "gaine-de-ventilation",
+    "terme": "la gaine de ventilation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Conduit en tôle, rond ou rectangulaire, ou en aluminium souple, qui transporte l'air.",
+    "priorite": 2,
+    "requetes": [
+      "ventilation ductwork",
+      "gaine de ventilation",
+      "air duct galvanized"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "centrale-de-traitement-d-air",
+    "terme": "la centrale de traitement d'air",
+    "categorie": "Réseaux et équipements",
+    "definition": "Grand caisson métallique qui filtre, refroidit ou chauffe et souffle l'air vers les gaines d'un bâtiment.",
+    "priorite": 3,
+    "requetes": [
+      "air handling unit",
+      "centrale de traitement d'air",
+      "AHU rooftop"
+    ],
+    "incompatibles": [
+      "gaine-de-ventilation"
+    ]
+  },
+  {
+    "id": "hotte",
+    "terme": "la hotte",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil placé au-dessus de la cuisinière qui aspire les fumées et les odeurs de cuisson.",
+    "priorite": 2,
+    "requetes": [
+      "kitchen hood",
+      "hotte de cuisine",
+      "range hood"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "extincteur",
+    "terme": "l'extincteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bouteille rouge sous pression, munie d'une poignée et d'un tuyau, qui projette un produit pour éteindre un début de feu.",
+    "priorite": 1,
+    "requetes": [
+      "fire extinguisher",
+      "extincteur",
+      "incategory:\"Fire extinguishers\""
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "robinet-d-incendie-arme",
+    "terme": "le robinet d'incendie armé",
+    "categorie": "Réseaux et équipements",
+    "definition": "Dévidoir mural portant un tuyau rigide enroulé, raccordé en permanence au réseau d'eau, pour lutter contre le feu ; abrégé RIA.",
+    "priorite": 3,
+    "requetes": [
+      "fire hose reel",
+      "robinet d'incendie armé",
+      "fire hose reel cabinet"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "poteau-d-incendie",
+    "terme": "le poteau d'incendie",
+    "categorie": "Réseaux et équipements",
+    "definition": "Borne rouge en fonte posée au bord de la voie, munie de prises où les pompiers raccordent leurs tuyaux.",
+    "priorite": 2,
+    "requetes": [
+      "fire hydrant",
+      "poteau incendie",
+      "incategory:\"Fire hydrants\""
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "detecteur-de-fumee",
+    "terme": "le détecteur de fumée",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit boîtier rond fixé au plafond qui détecte la fumée et déclenche une alarme.",
+    "priorite": 2,
+    "requetes": [
+      "smoke detector ceiling",
+      "détecteur de fumée",
+      "smoke alarm"
+    ],
+    "incompatibles": [
+      "sprinkler"
+    ]
+  },
+  {
+    "id": "sprinkler",
+    "terme": "le sprinkler",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petite tête d'arrosage au plafond, à ampoule de verre colorée, qui libère l'eau automatiquement en cas de chaleur.",
+    "priorite": 2,
+    "requetes": [
+      "fire sprinkler head",
+      "sprinkler incendie",
+      "sprinkler ceiling"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "declencheur-manuel",
+    "terme": "le déclencheur manuel",
+    "categorie": "Réseaux et équipements",
+    "definition": "Boîtier rouge mural à vitre ou à membrane qu'on enfonce pour donner l'alarme incendie.",
+    "priorite": 2,
+    "requetes": [
+      "manual call point fire alarm",
+      "déclencheur manuel",
+      "fire alarm pull station"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "colonne-seche",
+    "terme": "la colonne sèche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Canalisation vide montant dans les étages, avec une prise en façade où les pompiers branchent leur tuyau, et des prises à chaque niveau.",
+    "priorite": 3,
+    "requetes": [
+      "dry riser inlet",
+      "colonne sèche",
+      "dry riser outlet"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "exutoire-de-desenfumage",
+    "terme": "l'exutoire de désenfumage",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ouvrant ou volet en haut d'une cage d'escalier ou en toiture qui s'ouvre en cas d'incendie pour évacuer la fumée.",
+    "priorite": 3,
+    "requetes": [
+      "smoke vent roof",
+      "exutoire de désenfumage",
+      "smoke ventilation hatch"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "machinerie-d-ascenseur",
+    "terme": "la machinerie d'ascenseur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Local ou ensemble formé du moteur, du treuil et des poulies qui entraînent les câbles d'un ascenseur.",
+    "priorite": 3,
+    "requetes": [
+      "elevator machine room",
+      "machinerie ascenseur",
+      "lift motor traction machine"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "bouton-d-appel",
+    "terme": "le bouton d'appel",
+    "categorie": "Réseaux et équipements",
+    "definition": "Plaque à bouton lumineux placée sur le palier pour appeler l'ascenseur.",
+    "priorite": 3,
+    "requetes": [
+      "elevator call button",
+      "bouton d'appel ascenseur",
+      "lift call button"
+    ],
+    "incompatibles": []
+  }
+]

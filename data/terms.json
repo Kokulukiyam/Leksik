@@ -33,7 +33,10 @@
     "id": "piedroit",
     "terme": "le piédroit",
     "definition": "Montant vertical de maçonnerie qui forme le côté d'une baie et porte le linteau ou l'arc.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "incompatibles": [
+      "trumeau"
+    ]
   },
   {
     "id": "tympan",
@@ -51,7 +54,11 @@
     "id": "balcon",
     "terme": "le balcon",
     "definition": "Plateforme en saillie sur une façade, accessible depuis l'intérieur et fermée par un garde-corps.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "incompatibles": [
+      "garde-corps",
+      "balustre"
+    ]
   },
   {
     "id": "garde-corps",
@@ -111,7 +118,10 @@
     "id": "acrotere",
     "terme": "l'acrotère",
     "definition": "Muret en rive d'une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l'étanchéité.",
-    "categorie": "Toitures"
+    "categorie": "Toitures",
+    "incompatibles": [
+      "garde-corps"
+    ]
   },
   {
     "id": "gouttiere",
@@ -165,7 +175,10 @@
     "id": "arc-boutant",
     "terme": "l'arc-boutant",
     "definition": "Arc extérieur qui reporte la poussée d'une voûte sur une culée éloignée du mur.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "incompatibles": [
+      "arc"
+    ]
   },
   {
     "id": "contrefort",
@@ -189,19 +202,29 @@
     "id": "cle-de-voute",
     "terme": "la clé de voûte",
     "definition": "Pierre placée au sommet d'un arc ou d'une voûte, qui bloque les autres pierres.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "incompatibles": [
+      "arc",
+      "voute"
+    ]
   },
   {
     "id": "coupole",
     "terme": "la coupole",
     "definition": "Voûte en demi-sphère ou en calotte, élevée sur un plan circulaire, carré ou polygonal ; le mot désigne surtout sa face intérieure, l'extérieur étant le dôme.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "incompatibles": [
+      "voute"
+    ]
   },
   {
     "id": "corbeau",
     "terme": "le corbeau",
     "definition": "Pierre ou pièce de bois en saillie sur un mur, qui porte une poutre, une corniche ou un encorbellement.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "incompatibles": [
+      "modillon"
+    ]
   },
   {
     "id": "ferme",
@@ -231,7 +254,10 @@
     "id": "bandeau",
     "terme": "le bandeau",
     "definition": "Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "incompatibles": [
+      "corniche"
+    ]
   },
   {
     "id": "fronton",
@@ -243,7 +269,10 @@
     "id": "chapiteau",
     "terme": "le chapiteau",
     "definition": "Partie supérieure, élargie et souvent sculptée, d'une colonne ou d'un pilastre.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "incompatibles": [
+      "pilastre"
+    ]
   },
   {
     "id": "pilastre",
@@ -273,7 +302,10 @@
     "id": "modillon",
     "terme": "le modillon",
     "definition": "Petite console répétée à intervalles réguliers sous la saillie d'une corniche.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "incompatibles": [
+      "corniche"
+    ]
   },
   {
     "id": "mascaron",
@@ -345,7 +377,10 @@
     "id": "tole-ondulee",
     "terme": "la tôle ondulée",
     "definition": "Feuille de métal à ondulations régulières, utilisée en couverture ou en bardage.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Matériaux et revêtements",
+    "incompatibles": [
+      "bardage"
+    ]
   },
   {
     "id": "carreau-de-ciment",
@@ -363,13 +398,19 @@
     "id": "pise",
     "terme": "le pisé",
     "definition": "Terre crue compactée par couches successives dans un coffrage pour former des murs massifs.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Matériaux et revêtements",
+    "incompatibles": [
+      "banco"
+    ]
   },
   {
     "id": "banco",
     "terme": "le banco",
     "definition": "Terre crue argileuse, souvent mêlée de paille, moulée en briques, modelée en murs ou appliquée en enduit dans la construction traditionnelle ouest-africaine.",
-    "categorie": "Afrique de l'Ouest"
+    "categorie": "Afrique de l'Ouest",
+    "incompatibles": [
+      "grenier-dogon"
+    ]
   },
   {
     "id": "toron",
@@ -393,6 +434,9 @@
     "id": "case-a-impluvium",
     "terme": "la case à impluvium",
     "definition": "Grande habitation diola de Casamance dont le toit en entonnoir recueille l'eau de pluie au centre.",
-    "categorie": "Afrique de l'Ouest"
+    "categorie": "Afrique de l'Ouest",
+    "incompatibles": [
+      "case"
+    ]
   }
 ]

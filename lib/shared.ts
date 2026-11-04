@@ -7,6 +7,13 @@ export const CATEGORIES = [
   "Ornement",
   "Matériaux et revêtements",
   "Afrique de l'Ouest",
+  "Gros œuvre et maçonnerie",
+  "Menuiserie et serrurerie",
+  "Second œuvre et finitions",
+  "Réseaux et équipements",
+  "Escaliers et circulations",
+  "Chantier et outillage",
+  "Extérieurs et voirie",
 ] as const;
 
 export type Categorie = (typeof CATEGORIES)[number];
@@ -16,6 +23,10 @@ export type Term = {
   terme: string;
   definition: string;
   categorie: Categorie;
+  /** 1 = vu presque à chaque chantier, 2 = fréquent, 3 = plus rare (absent pour les termes créés depuis Ajouter). */
+  priorite?: 1 | 2 | 3;
+  /** Termes jamais proposés avec celui-ci : une même photo pourrait les illustrer tous les deux. */
+  incompatibles?: string[];
 };
 
 export type Rect = { x: number; y: number; largeur: number; hauteur: number };
@@ -108,29 +119,25 @@ export function rectValide(r: unknown): r is Rect {
   );
 }
 
-/**
- * Paires de termes jamais proposées ensemble : l'un est un cas particulier de l'autre, ou l'un se voit
- * forcément sur la photo de l'autre (relevé par la relecture du contenu).
- */
-const INCOMPATIBLES: [string, string][] = [
-  ["coupole", "voute"],
-  ["arc-boutant", "arc"],
-  ["cle-de-voute", "arc"],
-  ["cle-de-voute", "voute"],
-  ["case-a-impluvium", "case"],
-  ["modillon", "corniche"],
-  ["chapiteau", "pilastre"],
-  ["balcon", "garde-corps"],
-  ["balcon", "balustre"],
-  ["piedroit", "trumeau"],
-  ["acrotere", "garde-corps"],
-  ["corbeau", "modillon"],
-  ["bandeau", "corniche"],
-  ["tole-ondulee", "bardage"],
-  ["pise", "banco"],
-  ["banco", "grenier-dogon"],
-];
+/** Deux termes peuvent-ils être proposés ensemble ? (relation déclarée dans un sens ou dans l'autre) */
+export function compatibles(a: Term, b: Term) {
+  return !a.incompatibles?.includes(b.id) && !b.incompatibles?.includes(a.id);
+}
 
-export function compatibles(a: string, b: string) {
-  return !INCOMPATIBLES.some(([x, y]) => (x === a && y === b) || (x === b && y === a));
+/** Images jouables selon les réglages : validées, terme connu, source et fréquence du terme choisies. */
+export function jouables(
+  images: Image[],
+  terms: Term[],
+  p: { sources: "toutes" | "commons" | "perso"; frequence: 1 | 2 | 3 },
+) {
+  const parId = new Map(terms.map((t) => [t.id, t]));
+  return images.filter((i) => {
+    const t = parId.get(i.termId);
+    return (
+      i.statut === "validée" &&
+      t !== undefined &&
+      (p.sources === "toutes" || i.source === p.sources) &&
+      (t.priorite === undefined || t.priorite <= p.frequence)
+    );
+  });
 }

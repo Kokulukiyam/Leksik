@@ -1,0 +1,1965 @@
+[
+  {
+    "id": "facade",
+    "terme": "la façade",
+    "categorie": "Façade et ouvertures",
+    "definition": "Face extérieure verticale d'un bâtiment, avec ses murs et ses ouvertures, vue dans son ensemble.",
+    "priorite": 1,
+    "requetes": [
+      "building facade elevation photo",
+      "façade immeuble",
+      "building front facade"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "mur-rideau",
+    "terme": "le mur-rideau",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade légère entièrement vitrée, faite d'une ossature de montants et traverses accrochée devant la structure du bâtiment.",
+    "priorite": 1,
+    "requetes": [
+      "glass curtain wall office building",
+      "façade mur-rideau vitrée",
+      "incategory:\"Curtain walls\""
+    ],
+    "incompatibles": [
+      "facade",
+      "meneau"
+    ]
+  },
+  {
+    "id": "facade-double-peau",
+    "terme": "la façade double peau",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade composée de deux parois vitrées séparées par un vide d'air ventilé, souvent accessible pour l'entretien.",
+    "priorite": 3,
+    "requetes": [
+      "double skin facade cavity",
+      "façade double peau",
+      "double-skin glass facade"
+    ],
+    "incompatibles": [
+      "facade",
+      "mur-rideau"
+    ]
+  },
+  {
+    "id": "facade-ventilee",
+    "terme": "la façade ventilée",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade dont le parement extérieur (panneaux, plaques, lames) est fixé sur une ossature à distance du mur, avec une lame d'air derrière.",
+    "priorite": 3,
+    "requetes": [
+      "ventilated facade installation subframe",
+      "façade ventilée pose ossature",
+      "rainscreen cladding installation"
+    ],
+    "incompatibles": [
+      "facade",
+      "bardage"
+    ]
+  },
+  {
+    "id": "baie",
+    "terme": "la baie",
+    "categorie": "Façade et ouvertures",
+    "definition": "Ouverture ménagée dans un mur pour une porte ou une fenêtre, considérée avec son encadrement maçonné.",
+    "priorite": 1,
+    "requetes": [
+      "window opening in masonry wall",
+      "baie ouverture mur façade",
+      "wall opening without window frame"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "embrasure",
+    "terme": "l'embrasure",
+    "categorie": "Façade et ouvertures",
+    "definition": "Espace ménagé dans l'épaisseur du mur autour d'une baie, entre la menuiserie et le nu du mur.",
+    "priorite": 1,
+    "requetes": [
+      "window embrasure thick wall",
+      "embrasure fenêtre",
+      "deep window reveal"
+    ],
+    "incompatibles": [
+      "baie",
+      "piedroit"
+    ]
+  },
+  {
+    "id": "ebrasement",
+    "terme": "l'ébrasement",
+    "categorie": "Façade et ouvertures",
+    "definition": "Côtés d'une baie taillés en biais pour que l'ouverture s'évase vers l'intérieur ou l'extérieur du mur.",
+    "priorite": 3,
+    "requetes": [
+      "splayed window reveal",
+      "ébrasement fenêtre",
+      "splayed jamb window"
+    ],
+    "incompatibles": [
+      "embrasure",
+      "baie",
+      "piedroit"
+    ]
+  },
+  {
+    "id": "tableau-de-baie",
+    "terme": "le tableau de baie",
+    "categorie": "Façade et ouvertures",
+    "definition": "Face verticale du mur visible de chaque côté d'une baie, entre la menuiserie et le parement extérieur.",
+    "priorite": 1,
+    "requetes": [
+      "window reveal exterior",
+      "tableau de fenêtre",
+      "tableau de baie"
+    ],
+    "incompatibles": [
+      "embrasure",
+      "piedroit",
+      "baie"
+    ]
+  },
+  {
+    "id": "feuillure",
+    "terme": "la feuillure",
+    "categorie": "Façade et ouvertures",
+    "definition": "Entaille en angle droit ménagée dans le tableau d'une baie pour recevoir le dormant de la menuiserie.",
+    "priorite": 3,
+    "requetes": [
+      "rebate masonry window opening",
+      "feuillure baie maçonnerie",
+      "window rebate stone"
+    ],
+    "incompatibles": [
+      "tableau-de-baie"
+    ]
+  },
+  {
+    "id": "seuil",
+    "terme": "le seuil",
+    "categorie": "Façade et ouvertures",
+    "definition": "Pièce horizontale (pierre, béton, métal) au bas d'une porte, qui marque le passage et arrête l'eau.",
+    "priorite": 1,
+    "requetes": [
+      "stone door threshold",
+      "seuil de porte",
+      "door sill exterior"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "bavette",
+    "terme": "la bavette",
+    "categorie": "Façade et ouvertures",
+    "definition": "Tôle pliée posée sur l'appui d'une fenêtre, débordant du mur pour rejeter l'eau de pluie.",
+    "priorite": 2,
+    "requetes": [
+      "aluminium window sill flashing",
+      "bavette appui de fenêtre",
+      "metal window sill cover"
+    ],
+    "incompatibles": [
+      "appui-de-fenetre",
+      "allege"
+    ]
+  },
+  {
+    "id": "larmier",
+    "terme": "le larmier",
+    "categorie": "Façade et ouvertures",
+    "definition": "Saillie ou rainure sous un appui, une corniche ou une dalle, qui fait goutter l'eau de pluie loin du mur.",
+    "priorite": 2,
+    "requetes": [
+      "drip groove underside sill",
+      "larmier façade",
+      "drip edge concrete"
+    ],
+    "incompatibles": [
+      "appui-de-fenetre",
+      "corniche"
+    ]
+  },
+  {
+    "id": "casquette",
+    "terme": "la casquette",
+    "categorie": "Façade et ouvertures",
+    "definition": "Dalle de béton en saillie au-dessus d'une baie ou d'une façade, qui l'abrite du soleil et de la pluie.",
+    "priorite": 1,
+    "requetes": [
+      "concrete canopy over window",
+      "casquette béton fenêtre",
+      "concrete window hood Dakar"
+    ],
+    "incompatibles": [
+      "auvent",
+      "brise-soleil-horizontal"
+    ]
+  },
+  {
+    "id": "marquise",
+    "terme": "la marquise",
+    "categorie": "Façade et ouvertures",
+    "definition": "Petit auvent vitré à structure métallique au-dessus d'une porte d'entrée.",
+    "priorite": 2,
+    "requetes": [
+      "glass marquise over entrance door",
+      "marquise verre entrée",
+      "wrought iron glass canopy door"
+    ],
+    "incompatibles": [
+      "auvent"
+    ]
+  },
+  {
+    "id": "auvent",
+    "terme": "l'auvent",
+    "categorie": "Façade et ouvertures",
+    "definition": "Petit toit en saillie fixé à la façade, au-dessus d'une porte ou d'une fenêtre, pour l'abriter.",
+    "priorite": 1,
+    "requetes": [
+      "door canopy porch roof",
+      "auvent porte d'entrée",
+      "awning roof over door"
+    ],
+    "incompatibles": [
+      "porche"
+    ]
+  },
+  {
+    "id": "loggia",
+    "terme": "la loggia",
+    "categorie": "Façade et ouvertures",
+    "definition": "Balcon couvert et en retrait dans l'épaisseur de la façade, fermé sur les côtés.",
+    "priorite": 1,
+    "requetes": [
+      "loggia apartment building facade",
+      "loggia façade immeuble",
+      "incategory:\"Loggias\""
+    ],
+    "incompatibles": [
+      "balcon"
+    ]
+  },
+  {
+    "id": "veranda",
+    "terme": "la véranda",
+    "categorie": "Façade et ouvertures",
+    "definition": "Galerie couverte, ouverte ou vitrée, adossée à une façade et portée par des poteaux.",
+    "priorite": 2,
+    "requetes": [
+      "veranda house columns",
+      "véranda maison",
+      "colonial house veranda Africa"
+    ],
+    "incompatibles": [
+      "porche"
+    ]
+  },
+  {
+    "id": "porche",
+    "terme": "le porche",
+    "categorie": "Façade et ouvertures",
+    "definition": "Espace couvert devant l'entrée d'un bâtiment, formant abri avant la porte.",
+    "priorite": 2,
+    "requetes": [
+      "entrance porch building",
+      "porche d'entrée",
+      "church porch entrance"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "balconnet",
+    "terme": "le balconnet",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps placé devant une porte-fenêtre, sans plateforme ou avec une très faible avancée.",
+    "priorite": 3,
+    "requetes": [
+      "french balcony railing",
+      "balconnet fer forgé",
+      "juliet balcony"
+    ],
+    "incompatibles": [
+      "balcon",
+      "garde-corps"
+    ]
+  },
+  {
+    "id": "balcon-filant",
+    "terme": "le balcon filant",
+    "categorie": "Façade et ouvertures",
+    "definition": "Balcon continu qui court sur toute la longueur d'une façade, devant plusieurs baies.",
+    "priorite": 2,
+    "requetes": [
+      "continuous balcony Haussmann building",
+      "balcon filant",
+      "long continuous balcony facade"
+    ],
+    "incompatibles": [
+      "balcon",
+      "garde-corps"
+    ]
+  },
+  {
+    "id": "nez-de-dalle",
+    "terme": "le nez de dalle",
+    "categorie": "Façade et ouvertures",
+    "definition": "Tranche d'un plancher en béton visible en façade, formant une bande horizontale à chaque niveau.",
+    "priorite": 3,
+    "requetes": [
+      "exposed slab edge facade",
+      "nez de dalle façade",
+      "concrete floor slab edge building"
+    ],
+    "incompatibles": [
+      "facade"
+    ]
+  },
+  {
+    "id": "encorbellement",
+    "terme": "l'encorbellement",
+    "categorie": "Façade et ouvertures",
+    "definition": "Partie de construction en saillie sur le nu d'un mur, portée en porte-à-faux par des consoles ou des corbeaux.",
+    "priorite": 2,
+    "requetes": [
+      "corbelled upper floor overhang",
+      "encorbellement façade",
+      "jettied building"
+    ],
+    "incompatibles": [
+      "oriel",
+      "corbeau"
+    ]
+  },
+  {
+    "id": "soubassement",
+    "terme": "le soubassement",
+    "categorie": "Façade et ouvertures",
+    "definition": "Partie basse d'une façade, au-dessus du sol, souvent traitée dans un matériau ou une teinte différente.",
+    "priorite": 1,
+    "requetes": [
+      "building plinth base wall stone",
+      "soubassement façade",
+      "facade base course"
+    ],
+    "incompatibles": [
+      "facade"
+    ]
+  },
+  {
+    "id": "chaine-d-angle",
+    "terme": "la chaîne d'angle",
+    "categorie": "Façade et ouvertures",
+    "definition": "Assemblage vertical de pierres ou de briques alternées qui renforce et marque l'angle d'un mur.",
+    "priorite": 2,
+    "requetes": [
+      "quoins building corner",
+      "chaîne d'angle pierre",
+      "stone quoin corner"
+    ],
+    "incompatibles": [
+      "pierre-de-taille"
+    ]
+  },
+  {
+    "id": "encadrement-de-baie",
+    "terme": "l'encadrement de baie",
+    "categorie": "Façade et ouvertures",
+    "definition": "Bordure qui entoure une baie en façade, en saillie ou de teinte différente, sur les côtés et au-dessus.",
+    "priorite": 1,
+    "requetes": [
+      "window surround facade",
+      "encadrement de fenêtre façade",
+      "stone window surround"
+    ],
+    "incompatibles": [
+      "chambranle",
+      "baie"
+    ]
+  },
+  {
+    "id": "plate-bande",
+    "terme": "la plate-bande",
+    "categorie": "Façade et ouvertures",
+    "definition": "Linteau droit composé de claveaux (pierres ou briques) appareillés au-dessus d'une baie.",
+    "priorite": 3,
+    "requetes": [
+      "flat arch over window brick",
+      "plate-bande claveaux",
+      "jack arch window"
+    ],
+    "incompatibles": [
+      "linteau",
+      "arc"
+    ]
+  },
+  {
+    "id": "baie-cintree",
+    "terme": "la baie cintrée",
+    "categorie": "Façade et ouvertures",
+    "definition": "Baie dont la partie haute est en forme d'arc plutôt que droite.",
+    "priorite": 2,
+    "requetes": [
+      "arched window opening facade",
+      "baie cintrée",
+      "round arched window"
+    ],
+    "incompatibles": [
+      "arc",
+      "baie"
+    ]
+  },
+  {
+    "id": "baie-geminee",
+    "terme": "la baie géminée",
+    "categorie": "Façade et ouvertures",
+    "definition": "Paire de baies accolées, séparées par une colonnette ou un pilier mince.",
+    "priorite": 3,
+    "requetes": [
+      "mullioned twin window",
+      "baie géminée",
+      "bifora window"
+    ],
+    "incompatibles": [
+      "meneau",
+      "baie"
+    ]
+  },
+  {
+    "id": "baie-d-angle",
+    "terme": "la baie d'angle",
+    "categorie": "Façade et ouvertures",
+    "definition": "Fenêtre qui se retourne sur l'angle du bâtiment, sans poteau ni mur à l'angle.",
+    "priorite": 3,
+    "requetes": [
+      "corner window modernist",
+      "fenêtre d'angle",
+      "wraparound corner window"
+    ],
+    "incompatibles": [
+      "fenetre-en-bandeau",
+      "baie"
+    ]
+  },
+  {
+    "id": "fenetre-en-bandeau",
+    "terme": "la fenêtre en bandeau",
+    "categorie": "Façade et ouvertures",
+    "definition": "Fenêtre horizontale très allongée qui court sur une grande partie de la façade.",
+    "priorite": 2,
+    "requetes": [
+      "ribbon window modernist facade",
+      "fenêtre en bandeau",
+      "strip windows building"
+    ],
+    "incompatibles": [
+      "baie"
+    ]
+  },
+  {
+    "id": "meurtriere",
+    "terme": "la meurtrière",
+    "categorie": "Façade et ouvertures",
+    "definition": "Ouverture verticale très étroite dans un mur épais, à l'origine pour tirer à l'abri.",
+    "priorite": 3,
+    "requetes": [
+      "arrow slit castle wall",
+      "meurtrière château",
+      "loophole castle"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "soupirail",
+    "terme": "le soupirail",
+    "categorie": "Façade et ouvertures",
+    "definition": "Petite ouverture au ras du sol, souvent grillagée, qui éclaire et aère une cave.",
+    "priorite": 2,
+    "requetes": [
+      "basement window grille street level",
+      "soupirail cave",
+      "cellar window grate"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "cour-anglaise",
+    "terme": "la cour anglaise",
+    "categorie": "Façade et ouvertures",
+    "definition": "Fossé ouvert le long d'une façade, sous le niveau du sol, qui éclaire et aère un sous-sol.",
+    "priorite": 3,
+    "requetes": [
+      "areaway basement railing",
+      "cour anglaise sous-sol",
+      "basement light well area"
+    ],
+    "incompatibles": [
+      "soupirail"
+    ]
+  },
+  {
+    "id": "garde-corps-vitre",
+    "terme": "le garde-corps vitré",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps dont le remplissage est un panneau de verre feuilleté, tenu par des pinces, un profilé ou des montants.",
+    "priorite": 1,
+    "requetes": [
+      "glass balustrade balcony",
+      "garde-corps verre",
+      "frameless glass railing"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "balcon"
+    ]
+  },
+  {
+    "id": "garde-corps-a-barreaudage",
+    "terme": "le garde-corps à barreaudage",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps métallique à barreaux verticaux rapprochés fixés entre une lisse haute et une lisse basse.",
+    "priorite": 1,
+    "requetes": [
+      "vertical bar railing balcony",
+      "garde-corps barreaudage",
+      "metal balcony railing vertical bars"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "balcon"
+    ]
+  },
+  {
+    "id": "garde-corps-a-lisses",
+    "terme": "le garde-corps à lisses",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps métallique dont le remplissage est fait de barres horizontales parallèles.",
+    "priorite": 2,
+    "requetes": [
+      "horizontal bar railing terrace",
+      "garde-corps lisses horizontales",
+      "horizontal rail balustrade"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "lisse"
+    ]
+  },
+  {
+    "id": "garde-corps-a-cables",
+    "terme": "le garde-corps à câbles",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps dont le remplissage est fait de câbles en acier inoxydable tendus entre des poteaux.",
+    "priorite": 3,
+    "requetes": [
+      "cable railing deck",
+      "garde-corps câbles inox",
+      "stainless steel cable balustrade"
+    ],
+    "incompatibles": [
+      "garde-corps"
+    ]
+  },
+  {
+    "id": "garde-corps-en-fer-forge",
+    "terme": "le garde-corps en fer forgé",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps en fers forgés et assemblés en volutes ou motifs décoratifs.",
+    "priorite": 2,
+    "requetes": [
+      "wrought iron balcony railing",
+      "garde-corps fer forgé",
+      "ornamental iron balcony"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "garde-corps-a-barreaudage",
+      "balcon"
+    ]
+  },
+  {
+    "id": "garde-corps-maconne",
+    "terme": "le garde-corps maçonné",
+    "categorie": "Façade et ouvertures",
+    "definition": "Muret plein en maçonnerie ou en béton qui fait office de garde-corps sur un balcon ou une terrasse.",
+    "priorite": 1,
+    "requetes": [
+      "solid concrete balcony parapet",
+      "garde-corps maçonné balcon",
+      "masonry balcony wall"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "balcon",
+      "acrotere"
+    ]
+  },
+  {
+    "id": "balustrade",
+    "terme": "la balustrade",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps formé d'une rangée de balustres surmontée d'une tablette.",
+    "priorite": 2,
+    "requetes": [
+      "stone balustrade terrace",
+      "balustrade balcon",
+      "concrete balustrade"
+    ],
+    "incompatibles": [
+      "balustre",
+      "garde-corps"
+    ]
+  },
+  {
+    "id": "lisse",
+    "terme": "la lisse",
+    "categorie": "Façade et ouvertures",
+    "definition": "Barre horizontale d'un garde-corps, en partie haute ou basse, sur laquelle sont fixés les barreaux.",
+    "priorite": 3,
+    "requetes": [
+      "railing top rail detail",
+      "lisse garde-corps",
+      "handrail balcony rail detail"
+    ],
+    "incompatibles": [
+      "garde-corps"
+    ]
+  },
+  {
+    "id": "barre-d-appui",
+    "terme": "la barre d'appui",
+    "categorie": "Façade et ouvertures",
+    "definition": "Barre métallique fixée en travers d'une fenêtre basse pour éviter les chutes.",
+    "priorite": 3,
+    "requetes": [
+      "window guard rail bar",
+      "barre d'appui fenêtre",
+      "window safety bar"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "balconnet"
+    ]
+  },
+  {
+    "id": "pare-vue",
+    "terme": "le pare-vue",
+    "categorie": "Façade et ouvertures",
+    "definition": "Panneau opaque ou translucide séparant deux balcons ou terrasses voisins pour masquer la vue.",
+    "priorite": 3,
+    "requetes": [
+      "balcony privacy screen divider",
+      "pare-vue balcon",
+      "brise-vue séparatif balcon"
+    ],
+    "incompatibles": [
+      "balcon"
+    ]
+  },
+  {
+    "id": "brise-soleil-orientable",
+    "terme": "le brise-soleil orientable",
+    "categorie": "Façade et ouvertures",
+    "definition": "Store extérieur à lames métalliques orientables qui se relèvent et se baissent devant une baie.",
+    "priorite": 2,
+    "requetes": [
+      "external venetian blinds facade",
+      "brise-soleil orientable BSO",
+      "exterior aluminium louvre blinds"
+    ],
+    "incompatibles": [
+      "brise-soleil",
+      "persienne"
+    ]
+  },
+  {
+    "id": "brise-soleil-vertical",
+    "terme": "le brise-soleil vertical",
+    "categorie": "Façade et ouvertures",
+    "definition": "Brise-soleil fait de lames ou ailettes verticales fixes, placées devant la façade pour couper le soleil rasant.",
+    "priorite": 2,
+    "requetes": [
+      "vertical fins sun shading facade",
+      "brise-soleil vertical lames",
+      "vertical louvres building"
+    ],
+    "incompatibles": [
+      "brise-soleil"
+    ]
+  },
+  {
+    "id": "brise-soleil-horizontal",
+    "terme": "le brise-soleil horizontal",
+    "categorie": "Façade et ouvertures",
+    "definition": "Brise-soleil fait de lames ou dalles horizontales fixes en saillie au-dessus ou devant les baies.",
+    "priorite": 2,
+    "requetes": [
+      "horizontal sunshade louvres facade",
+      "brise-soleil horizontal",
+      "horizontal sun breaker concrete"
+    ],
+    "incompatibles": [
+      "brise-soleil"
+    ]
+  },
+  {
+    "id": "store-banne",
+    "terme": "le store banne",
+    "categorie": "Façade et ouvertures",
+    "definition": "Store en toile qui se déroule en avant d'une façade, porté par des bras articulés.",
+    "priorite": 1,
+    "requetes": [
+      "retractable awning terrace",
+      "store banne",
+      "incategory:\"Awnings\""
+    ],
+    "incompatibles": [
+      "auvent"
+    ]
+  },
+  {
+    "id": "store-a-l-italienne",
+    "terme": "le store à l'italienne",
+    "categorie": "Façade et ouvertures",
+    "definition": "Store en toile dont la partie basse est projetée vers l'extérieur par deux bras, devant une fenêtre.",
+    "priorite": 3,
+    "requetes": [
+      "drop arm awning window",
+      "store à l'italienne",
+      "window awning arms"
+    ],
+    "incompatibles": [
+      "store-banne"
+    ]
+  },
+  {
+    "id": "voile-d-ombrage",
+    "terme": "la voile d'ombrage",
+    "categorie": "Façade et ouvertures",
+    "definition": "Toile tendue entre des mâts ou des points d'ancrage pour ombrager une terrasse ou une cour.",
+    "priorite": 2,
+    "requetes": [
+      "shade sail courtyard",
+      "voile d'ombrage",
+      "tensile shade sail"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "resille-metallique",
+    "terme": "la résille métallique",
+    "categorie": "Façade et ouvertures",
+    "definition": "Enveloppe en métal ajouré (tôle perforée, maille, lames) posée devant une façade comme filtre visuel et solaire.",
+    "priorite": 3,
+    "requetes": [
+      "perforated metal facade screen",
+      "résille métallique façade",
+      "metal mesh facade"
+    ],
+    "incompatibles": [
+      "facade-double-peau",
+      "claustra",
+      "moucharabieh"
+    ]
+  },
+  {
+    "id": "vitrage-agrafe",
+    "terme": "le vitrage agrafé",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade vitrée dont les vitres sont tenues par des fixations ponctuelles en acier (rotules, araignées) et non par des cadres.",
+    "priorite": 3,
+    "requetes": [
+      "spider glazing fittings facade",
+      "vitrage agrafé VEA",
+      "point fixed glass facade"
+    ],
+    "incompatibles": [
+      "mur-rideau"
+    ]
+  },
+  {
+    "id": "panneau-d-allege",
+    "terme": "le panneau d'allège",
+    "categorie": "Façade et ouvertures",
+    "definition": "Panneau opaque d'un mur-rideau, devant le nez de plancher, entre deux bandes de vitrage.",
+    "priorite": 3,
+    "requetes": [
+      "spandrel panel curtain wall",
+      "panneau d'allège mur-rideau",
+      "opaque spandrel glass"
+    ],
+    "incompatibles": [
+      "mur-rideau",
+      "allege"
+    ]
+  },
+  {
+    "id": "mur-vegetal",
+    "terme": "le mur végétal",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade ou mur couvert de plantes cultivées sur un support vertical, avec arrosage intégré.",
+    "priorite": 2,
+    "requetes": [
+      "green wall facade",
+      "mur végétal",
+      "incategory:\"Green walls\""
+    ],
+    "incompatibles": [
+      "facade"
+    ]
+  },
+  {
+    "id": "treillage",
+    "terme": "le treillage",
+    "categorie": "Façade et ouvertures",
+    "definition": "Grille de lattes ou de câbles fixée contre un mur pour y faire grimper des plantes.",
+    "priorite": 3,
+    "requetes": [
+      "trellis on house wall climbing plants",
+      "treillage mur",
+      "wall trellis"
+    ],
+    "incompatibles": [
+      "mur-vegetal"
+    ]
+  },
+  {
+    "id": "mur-aveugle",
+    "terme": "le mur aveugle",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade ou pan de mur entièrement dépourvu d'ouverture.",
+    "priorite": 2,
+    "requetes": [
+      "blank wall building windowless",
+      "mur aveugle",
+      "windowless facade"
+    ],
+    "incompatibles": [
+      "facade",
+      "pignon"
+    ]
+  },
+  {
+    "id": "pan-coupe",
+    "terme": "le pan coupé",
+    "categorie": "Façade et ouvertures",
+    "definition": "Angle d'un bâtiment remplacé par une façade oblique, typiquement à un carrefour.",
+    "priorite": 2,
+    "requetes": [
+      "chamfered building corner street",
+      "immeuble pan coupé",
+      "cut corner building intersection"
+    ],
+    "incompatibles": [
+      "facade"
+    ]
+  },
+  {
+    "id": "avant-corps",
+    "terme": "l'avant-corps",
+    "categorie": "Façade et ouvertures",
+    "definition": "Partie d'une façade en saillie sur le reste, sur toute la hauteur du bâtiment.",
+    "priorite": 3,
+    "requetes": [
+      "projecting central bay facade",
+      "avant-corps façade",
+      "avant-corps château"
+    ],
+    "incompatibles": [
+      "facade"
+    ]
+  },
+  {
+    "id": "attique",
+    "terme": "l'attique",
+    "categorie": "Façade et ouvertures",
+    "definition": "Dernier étage d'un immeuble, plus bas ou en retrait par rapport à la façade principale.",
+    "priorite": 3,
+    "requetes": [
+      "setback top floor penthouse facade",
+      "étage attique",
+      "attic storey classical building"
+    ],
+    "incompatibles": [
+      "facade"
+    ]
+  },
+  {
+    "id": "arcade",
+    "terme": "l'arcade",
+    "categorie": "Façade et ouvertures",
+    "definition": "Suite d'arcs portés par des piliers ou des colonnes qui bordent une façade et forment un passage couvert.",
+    "priorite": 2,
+    "requetes": [
+      "arcade street building",
+      "arcades rue",
+      "covered arcade colonnade shops"
+    ],
+    "incompatibles": [
+      "arc",
+      "colonne"
+    ]
+  },
+  {
+    "id": "coursive",
+    "terme": "la coursive",
+    "categorie": "Façade et ouvertures",
+    "definition": "Galerie extérieure ouverte, le long d'une façade, qui dessert les logements d'un même étage.",
+    "priorite": 2,
+    "requetes": [
+      "external access gallery apartment block",
+      "coursive immeuble",
+      "deck access housing walkway"
+    ],
+    "incompatibles": [
+      "garde-corps"
+    ]
+  },
+  {
+    "id": "devanture",
+    "terme": "la devanture",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade d'une boutique au rez-de-chaussée, avec sa vitrine, son entrée et son bandeau d'enseigne.",
+    "priorite": 2,
+    "requetes": [
+      "shopfront facade",
+      "devanture boutique",
+      "traditional shop front"
+    ],
+    "incompatibles": [
+      "vitrine"
+    ]
+  },
+  {
+    "id": "vitrine",
+    "terme": "la vitrine",
+    "categorie": "Façade et ouvertures",
+    "definition": "Grande baie vitrée d'un commerce au rez-de-chaussée, derrière laquelle sont exposées les marchandises.",
+    "priorite": 1,
+    "requetes": [
+      "shop window display",
+      "vitrine magasin",
+      "store window street"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "cache-climatiseur",
+    "terme": "le cache-climatiseur",
+    "categorie": "Façade et ouvertures",
+    "definition": "Grille ou caisson ajouré qui masque l'unité extérieure d'un climatiseur fixée en façade.",
+    "priorite": 2,
+    "requetes": [
+      "air conditioner cover grille facade",
+      "cache climatiseur façade",
+      "AC unit screen building"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "jardiniere",
+    "terme": "la jardinière",
+    "categorie": "Façade et ouvertures",
+    "definition": "Bac en saillie intégré à la façade, au balcon ou à l'appui, destiné à recevoir des plantes.",
+    "priorite": 3,
+    "requetes": [
+      "concrete planter balcony facade",
+      "jardinière façade béton",
+      "built-in planter building facade"
+    ],
+    "incompatibles": [
+      "balcon"
+    ]
+  },
+  {
+    "id": "pignon-a-redents",
+    "terme": "le pignon à redents",
+    "categorie": "Façade et ouvertures",
+    "definition": "Pignon dont les rampants sont découpés en gradins successifs.",
+    "priorite": 3,
+    "requetes": [
+      "stepped gable",
+      "pignon à redents",
+      "crow-stepped gable"
+    ],
+    "incompatibles": [
+      "pignon"
+    ]
+  },
+  {
+    "id": "abat-son",
+    "terme": "l'abat-son",
+    "categorie": "Façade et ouvertures",
+    "definition": "Ensemble de lames inclinées fermant les baies d'un clocher, qui rabattent le son vers le sol.",
+    "priorite": 3,
+    "requetes": [
+      "louvred belfry opening",
+      "abat-son clocher",
+      "bell tower louvers"
+    ],
+    "incompatibles": [
+      "persienne"
+    ]
+  },
+  {
+    "id": "toiture",
+    "terme": "la toiture",
+    "categorie": "Toitures",
+    "definition": "Ensemble des ouvrages qui couvrent et ferment le haut d'un bâtiment, vus de l'extérieur.",
+    "priorite": 1,
+    "requetes": [
+      "house roof",
+      "toiture maison",
+      "roofs aerial view"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "toiture-terrasse",
+    "terme": "la toiture-terrasse",
+    "categorie": "Toitures",
+    "definition": "Toiture plate ou à très faible pente, en général une dalle étanchée bordée d'acrotères.",
+    "priorite": 1,
+    "requetes": [
+      "flat roof building",
+      "toiture-terrasse",
+      "flat concrete roof Dakar"
+    ],
+    "incompatibles": [
+      "toiture",
+      "acrotere"
+    ]
+  },
+  {
+    "id": "terrasse-accessible",
+    "terme": "la terrasse accessible",
+    "categorie": "Toitures",
+    "definition": "Toiture-terrasse aménagée pour circuler et séjourner, avec revêtement de sol et garde-corps.",
+    "priorite": 2,
+    "requetes": [
+      "rooftop terrace",
+      "terrasse accessible toit",
+      "roof terrace paving railing"
+    ],
+    "incompatibles": [
+      "toiture-terrasse"
+    ]
+  },
+  {
+    "id": "toiture-terrasse-gravillonnee",
+    "terme": "la toiture-terrasse gravillonnée",
+    "categorie": "Toitures",
+    "definition": "Toiture-terrasse dont l'étanchéité est protégée par une couche de gravillons.",
+    "priorite": 2,
+    "requetes": [
+      "gravel ballast flat roof",
+      "toiture terrasse gravillons",
+      "gravel flat roof"
+    ],
+    "incompatibles": [
+      "toiture-terrasse"
+    ]
+  },
+  {
+    "id": "toiture-vegetalisee",
+    "terme": "la toiture végétalisée",
+    "categorie": "Toitures",
+    "definition": "Toiture recouverte d'un substrat planté (sédums, herbes, arbustes) au-dessus de l'étanchéité.",
+    "priorite": 2,
+    "requetes": [
+      "green roof sedum",
+      "toiture végétalisée",
+      "incategory:\"Green roofs\""
+    ],
+    "incompatibles": [
+      "toiture-terrasse",
+      "toiture"
+    ]
+  },
+  {
+    "id": "toit-a-deux-pans",
+    "terme": "le toit à deux pans",
+    "categorie": "Toitures",
+    "definition": "Toit formé de deux versants inclinés qui se rejoignent au faîtage, avec un pignon à chaque bout.",
+    "priorite": 1,
+    "requetes": [
+      "gable roof house",
+      "toit à deux pans",
+      "pitched gable roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "pignon",
+      "faitage",
+      "versant"
+    ]
+  },
+  {
+    "id": "toit-a-quatre-pans",
+    "terme": "le toit à quatre pans",
+    "categorie": "Toitures",
+    "definition": "Toit formé de quatre versants inclinés, deux longs pans et deux croupes, sans pignon.",
+    "priorite": 1,
+    "requetes": [
+      "hip roof house",
+      "toit à quatre pans",
+      "hipped roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "croupe",
+      "aretier",
+      "versant"
+    ]
+  },
+  {
+    "id": "toit-monopente",
+    "terme": "le toit monopente",
+    "categorie": "Toitures",
+    "definition": "Toit formé d'un seul versant incliné.",
+    "priorite": 1,
+    "requetes": [
+      "single pitch roof house",
+      "toit monopente",
+      "mono-pitch roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "versant"
+    ]
+  },
+  {
+    "id": "appentis",
+    "terme": "l'appentis",
+    "categorie": "Toitures",
+    "definition": "Petit bâtiment ou auvent à un seul versant, adossé à un mur plus haut.",
+    "priorite": 2,
+    "requetes": [
+      "lean-to shed against wall",
+      "appentis",
+      "lean-to roof"
+    ],
+    "incompatibles": [
+      "toit-monopente",
+      "auvent"
+    ]
+  },
+  {
+    "id": "toit-en-pavillon",
+    "terme": "le toit en pavillon",
+    "categorie": "Toitures",
+    "definition": "Toit dont les quatre versants triangulaires se rejoignent en un seul point au sommet.",
+    "priorite": 3,
+    "requetes": [
+      "pyramid roof house",
+      "toit en pavillon",
+      "pyramidal hip roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "toit-a-quatre-pans",
+      "croupe"
+    ]
+  },
+  {
+    "id": "toit-mansarde",
+    "terme": "le toit mansardé",
+    "categorie": "Toitures",
+    "definition": "Toit à la Mansart, dont chaque versant est brisé en un brisis très raide en bas et un terrasson peu incliné en haut.",
+    "priorite": 2,
+    "requetes": [
+      "mansard roof Paris",
+      "toit mansardé",
+      "incategory:\"Mansard roofs\""
+    ],
+    "incompatibles": [
+      "toiture",
+      "lucarne"
+    ]
+  },
+  {
+    "id": "demi-croupe",
+    "terme": "la demi-croupe",
+    "categorie": "Toitures",
+    "definition": "Petit versant incliné qui coupe seulement le haut d'un pignon.",
+    "priorite": 3,
+    "requetes": [
+      "half hipped roof",
+      "demi-croupe toit",
+      "jerkinhead roof"
+    ],
+    "incompatibles": [
+      "croupe",
+      "pignon"
+    ]
+  },
+  {
+    "id": "toit-conique",
+    "terme": "le toit conique",
+    "categorie": "Toitures",
+    "definition": "Toit en forme de cône qui couvre un bâtiment ou une tour de plan circulaire.",
+    "priorite": 2,
+    "requetes": [
+      "conical roof round hut",
+      "toit conique",
+      "conical tower roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "case",
+      "chaume"
+    ]
+  },
+  {
+    "id": "toiture-cintree",
+    "terme": "la toiture cintrée",
+    "categorie": "Toitures",
+    "definition": "Toiture en forme d'arc, souvent en tôle cintrée sur une charpente métallique courbe.",
+    "priorite": 3,
+    "requetes": [
+      "curved metal roof warehouse",
+      "toiture cintrée bac acier",
+      "barrel roof metal"
+    ],
+    "incompatibles": [
+      "toiture",
+      "bac-acier"
+    ]
+  },
+  {
+    "id": "toit-papillon",
+    "terme": "le toit papillon",
+    "categorie": "Toitures",
+    "definition": "Toit formé de deux versants inclinés vers le centre, en forme de V.",
+    "priorite": 3,
+    "requetes": [
+      "butterfly roof house",
+      "toit papillon",
+      "inverted gable roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "noue"
+    ]
+  },
+  {
+    "id": "versant",
+    "terme": "le versant",
+    "categorie": "Toitures",
+    "definition": "Chacune des surfaces planes inclinées qui forment un toit, aussi appelée pan.",
+    "priorite": 2,
+    "requetes": [
+      "roof slope pitched roof tiles",
+      "versant de toit",
+      "pan de toiture"
+    ],
+    "incompatibles": [
+      "toiture"
+    ]
+  },
+  {
+    "id": "egout-de-toit",
+    "terme": "l'égout de toit",
+    "categorie": "Toitures",
+    "definition": "Bord inférieur d'un versant, d'où l'eau de pluie s'écoule vers la gouttière.",
+    "priorite": 2,
+    "requetes": [
+      "roof eaves edge tiles gutter",
+      "égout de toiture",
+      "eaves of roof"
+    ],
+    "incompatibles": [
+      "gouttiere",
+      "avant-toit"
+    ]
+  },
+  {
+    "id": "rive",
+    "terme": "la rive",
+    "categorie": "Toitures",
+    "definition": "Bord latéral incliné d'un versant, à la jonction avec le pignon.",
+    "priorite": 2,
+    "requetes": [
+      "roof verge gable edge",
+      "rive de toiture",
+      "verge tiles gable"
+    ],
+    "incompatibles": [
+      "pignon"
+    ]
+  },
+  {
+    "id": "aretier",
+    "terme": "l'arêtier",
+    "categorie": "Toitures",
+    "definition": "Arête saillante inclinée formée par la rencontre de deux versants, sur un toit à croupes.",
+    "priorite": 2,
+    "requetes": [
+      "hip ridge roof tiles",
+      "arêtier toiture",
+      "roof hip line"
+    ],
+    "incompatibles": [
+      "croupe"
+    ]
+  },
+  {
+    "id": "noue",
+    "terme": "la noue",
+    "categorie": "Toitures",
+    "definition": "Angle rentrant formé par la rencontre de deux versants, où l'eau de pluie converge.",
+    "priorite": 2,
+    "requetes": [
+      "roof valley",
+      "noue toiture",
+      "valley flashing roof"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "avant-toit",
+    "terme": "l'avant-toit",
+    "categorie": "Toitures",
+    "definition": "Partie du toit qui déborde en avant de la façade pour protéger le mur de la pluie et du soleil.",
+    "priorite": 1,
+    "requetes": [
+      "roof overhang eaves",
+      "avant-toit débord de toit",
+      "deep eaves house"
+    ],
+    "incompatibles": [
+      "toiture"
+    ]
+  },
+  {
+    "id": "charpente",
+    "terme": "la charpente",
+    "categorie": "Toitures",
+    "definition": "Ossature en bois ou en métal qui porte la couverture d'un toit.",
+    "priorite": 1,
+    "requetes": [
+      "roof timber framing construction",
+      "charpente toit",
+      "roof structure trusses"
+    ],
+    "incompatibles": [
+      "ferme"
+    ]
+  },
+  {
+    "id": "charpente-metallique",
+    "terme": "la charpente métallique",
+    "categorie": "Toitures",
+    "definition": "Charpente de toit faite de profilés en acier (fermes, pannes) assemblés par boulons ou soudure.",
+    "priorite": 1,
+    "requetes": [
+      "steel roof structure warehouse",
+      "charpente métallique toiture",
+      "steel roof trusses purlins"
+    ],
+    "incompatibles": [
+      "charpente",
+      "ferme"
+    ]
+  },
+  {
+    "id": "fermette",
+    "terme": "la fermette",
+    "categorie": "Toitures",
+    "definition": "Ferme légère industrialisée en bois assemblé par connecteurs métalliques, posée à faible entraxe.",
+    "priorite": 2,
+    "requetes": [
+      "timber trusses gang nail plates",
+      "fermettes industrielles",
+      "prefabricated roof trusses"
+    ],
+    "incompatibles": [
+      "charpente",
+      "ferme"
+    ]
+  },
+  {
+    "id": "panne",
+    "terme": "la panne",
+    "categorie": "Toitures",
+    "definition": "Pièce horizontale de charpente, parallèle au faîtage, posée sur les fermes et qui porte les chevrons ou la couverture.",
+    "priorite": 1,
+    "requetes": [
+      "roof purlins",
+      "pannes charpente",
+      "steel purlins roof"
+    ],
+    "incompatibles": [
+      "charpente"
+    ]
+  },
+  {
+    "id": "panne-faitiere",
+    "terme": "la panne faîtière",
+    "categorie": "Toitures",
+    "definition": "Panne placée au sommet de la charpente, le long du faîtage.",
+    "priorite": 3,
+    "requetes": [
+      "ridge beam roof timber",
+      "panne faîtière",
+      "ridge board roof framing"
+    ],
+    "incompatibles": [
+      "panne",
+      "faitage",
+      "charpente"
+    ]
+  },
+  {
+    "id": "sabliere",
+    "terme": "la sablière",
+    "categorie": "Toitures",
+    "definition": "Pièce de bois horizontale posée au sommet du mur, sur laquelle reposent le bas des chevrons.",
+    "priorite": 2,
+    "requetes": [
+      "wall plate rafters",
+      "sablière charpente",
+      "timber wall plate roof"
+    ],
+    "incompatibles": [
+      "chevron",
+      "charpente"
+    ]
+  },
+  {
+    "id": "chevron",
+    "terme": "le chevron",
+    "categorie": "Toitures",
+    "definition": "Pièce de bois inclinée suivant la pente du toit, posée sur les pannes, qui reçoit les liteaux ou voliges.",
+    "priorite": 1,
+    "requetes": [
+      "roof rafters",
+      "chevrons toiture",
+      "exposed rafters"
+    ],
+    "incompatibles": [
+      "charpente"
+    ]
+  },
+  {
+    "id": "volige",
+    "terme": "la volige",
+    "categorie": "Toitures",
+    "definition": "Planche mince clouée jointive sur les chevrons pour porter une couverture en ardoise ou en zinc.",
+    "priorite": 3,
+    "requetes": [
+      "roof boarding sarking boards",
+      "voligeage toiture",
+      "volige"
+    ],
+    "incompatibles": [
+      "chevron"
+    ]
+  },
+  {
+    "id": "liteau",
+    "terme": "le liteau",
+    "categorie": "Toitures",
+    "definition": "Tasseau de bois cloué horizontalement sur les chevrons, sur lequel s'accrochent les tuiles.",
+    "priorite": 1,
+    "requetes": [
+      "roof battens",
+      "liteaux toiture",
+      "battens tiles roof"
+    ],
+    "incompatibles": [
+      "chevron",
+      "ecran-sous-toiture"
+    ]
+  },
+  {
+    "id": "entrait",
+    "terme": "l'entrait",
+    "categorie": "Toitures",
+    "definition": "Poutre horizontale à la base d'une ferme, qui relie les pieds des arbalétriers.",
+    "priorite": 2,
+    "requetes": [
+      "tie beam roof truss",
+      "entrait ferme",
+      "king post truss tie beam"
+    ],
+    "incompatibles": [
+      "ferme",
+      "arbaletrier"
+    ]
+  },
+  {
+    "id": "arbaletrier",
+    "terme": "l'arbalétrier",
+    "categorie": "Toitures",
+    "definition": "Pièce inclinée d'une ferme, qui monte de l'entrait jusqu'au faîtage et porte les pannes.",
+    "priorite": 2,
+    "requetes": [
+      "principal rafter truss",
+      "arbalétrier ferme",
+      "truss rafter timber"
+    ],
+    "incompatibles": [
+      "ferme"
+    ]
+  },
+  {
+    "id": "poincon",
+    "terme": "le poinçon",
+    "categorie": "Toitures",
+    "definition": "Pièce verticale au centre d'une ferme, entre l'entrait et le faîtage.",
+    "priorite": 3,
+    "requetes": [
+      "king post roof truss",
+      "poinçon charpente",
+      "king post"
+    ],
+    "incompatibles": [
+      "ferme",
+      "entrait"
+    ]
+  },
+  {
+    "id": "ecran-sous-toiture",
+    "terme": "l'écran sous-toiture",
+    "categorie": "Toitures",
+    "definition": "Membrane souple tendue sous la couverture, sur les chevrons, qui arrête l'eau infiltrée et la poussière.",
+    "priorite": 2,
+    "requetes": [
+      "roofing underlayment membrane rafters",
+      "écran sous-toiture",
+      "breathable roof membrane battens"
+    ],
+    "incompatibles": [
+      "liteau"
+    ]
+  },
+  {
+    "id": "bac-acier",
+    "terme": "le bac acier",
+    "categorie": "Toitures",
+    "definition": "Tôle d'acier nervurée à grandes ondes trapézoïdales, posée sur pannes en couverture de toiture.",
+    "priorite": 1,
+    "requetes": [
+      "trapezoidal steel roof sheet",
+      "toiture bac acier",
+      "corrugated trapezoidal metal roofing"
+    ],
+    "incompatibles": [
+      "tole-ondulee"
+    ]
+  },
+  {
+    "id": "panneau-sandwich",
+    "terme": "le panneau sandwich",
+    "categorie": "Toitures",
+    "definition": "Panneau de couverture fait de deux tôles nervurées enfermant une âme isolante en mousse ou en laine minérale.",
+    "priorite": 1,
+    "requetes": [
+      "sandwich panel roof insulation",
+      "panneau sandwich toiture",
+      "insulated roof panel"
+    ],
+    "incompatibles": [
+      "bac-acier"
+    ]
+  },
+  {
+    "id": "plaque-de-fibrociment",
+    "terme": "la plaque de fibrociment",
+    "categorie": "Toitures",
+    "definition": "Plaque ondulée grise en ciment armé de fibres, posée en couverture sur des pannes.",
+    "priorite": 2,
+    "requetes": [
+      "corrugated fibre cement roof sheets",
+      "plaque fibrociment toiture",
+      "asbestos cement corrugated roof"
+    ],
+    "incompatibles": [
+      "tole-ondulee"
+    ]
+  },
+  {
+    "id": "plaque-translucide",
+    "terme": "la plaque translucide",
+    "categorie": "Toitures",
+    "definition": "Plaque de couverture en polycarbonate ou polyester qui laisse passer la lumière, posée parmi les tôles.",
+    "priorite": 1,
+    "requetes": [
+      "translucent roof sheet polycarbonate",
+      "plaque translucide toiture",
+      "clear corrugated roofing"
+    ],
+    "incompatibles": [
+      "bac-acier",
+      "tole-ondulee"
+    ]
+  },
+  {
+    "id": "tuile-canal",
+    "terme": "la tuile canal",
+    "categorie": "Toitures",
+    "definition": "Tuile en terre cuite en forme de demi-cylindre, posée en rangs alternés vers le haut et vers le bas.",
+    "priorite": 2,
+    "requetes": [
+      "mission roof tiles",
+      "toiture tuile canal",
+      "Spanish barrel roof tiles"
+    ],
+    "incompatibles": [
+      "tuile"
+    ]
+  },
+  {
+    "id": "tuile-mecanique",
+    "terme": "la tuile mécanique",
+    "categorie": "Toitures",
+    "definition": "Tuile moulée à emboîtement, munie de nervures et de tenons qui s'accrochent aux liteaux.",
+    "priorite": 2,
+    "requetes": [
+      "interlocking clay roof tiles",
+      "tuile mécanique",
+      "Marseille roof tiles"
+    ],
+    "incompatibles": [
+      "tuile"
+    ]
+  },
+  {
+    "id": "tuile-plate",
+    "terme": "la tuile plate",
+    "categorie": "Toitures",
+    "definition": "Petite tuile plane rectangulaire posée à recouvrement, comme une écaille.",
+    "priorite": 3,
+    "requetes": [
+      "plain clay roof tiles",
+      "tuile plate toiture",
+      "flat clay tiles roof"
+    ],
+    "incompatibles": [
+      "tuile",
+      "ardoise"
+    ]
+  },
+  {
+    "id": "tuile-faitiere",
+    "terme": "la tuile faîtière",
+    "categorie": "Toitures",
+    "definition": "Tuile arrondie ou en angle qui recouvre la ligne de faîtage.",
+    "priorite": 2,
+    "requetes": [
+      "ridge tiles roof",
+      "tuile faîtière",
+      "ridge cap tiles"
+    ],
+    "incompatibles": [
+      "faitage",
+      "tuile"
+    ]
+  },
+  {
+    "id": "bardeau-bitume",
+    "terme": "le bardeau bitumé",
+    "categorie": "Toitures",
+    "definition": "Petite plaque souple de bitume armé recouverte de granulés minéraux, posée en écailles sur un voligeage.",
+    "priorite": 3,
+    "requetes": [
+      "asphalt shingles roof",
+      "bardeau bitumé",
+      "bitumen shingles"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "couverture-en-zinc",
+    "terme": "la couverture en zinc",
+    "categorie": "Toitures",
+    "definition": "Couverture en feuilles de zinc assemblées par des joints relevés parallèles à la pente.",
+    "priorite": 3,
+    "requetes": [
+      "zinc roof standing seam",
+      "couverture zinc",
+      "zinc roofs Paris"
+    ],
+    "incompatibles": [
+      "toit-mansarde"
+    ]
+  },
+  {
+    "id": "verriere",
+    "terme": "la verrière",
+    "categorie": "Toitures",
+    "definition": "Toiture vitrée sur ossature métallique qui couvre une cour, un hall ou un passage.",
+    "priorite": 2,
+    "requetes": [
+      "glass roof atrium",
+      "verrière toiture",
+      "iron glass roof"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "fenetre-de-toit",
+    "terme": "la fenêtre de toit",
+    "categorie": "Toitures",
+    "definition": "Fenêtre posée dans le plan d'un versant de toit, à la même pente que la couverture.",
+    "priorite": 2,
+    "requetes": [
+      "roof window pitched roof",
+      "fenêtre de toit",
+      "skylight window tiled roof"
+    ],
+    "incompatibles": [
+      "lucarne",
+      "lanterneau"
+    ]
+  },
+  {
+    "id": "chien-assis",
+    "terme": "le chien-assis",
+    "categorie": "Toitures",
+    "definition": "Lucarne dont le toit est incliné en sens inverse de la pente du versant.",
+    "priorite": 3,
+    "requetes": [
+      "shed dormer",
+      "chien-assis lucarne",
+      "shed dormer roof"
+    ],
+    "incompatibles": [
+      "lucarne"
+    ]
+  },
+  {
+    "id": "solin",
+    "terme": "le solin",
+    "categorie": "Toitures",
+    "definition": "Bande de mortier ou de métal qui assure l'étanchéité à la jonction d'une couverture et d'un mur ou d'une souche.",
+    "priorite": 2,
+    "requetes": [
+      "roof flashing chimney wall",
+      "solin toiture",
+      "lead flashing wall roof"
+    ],
+    "incompatibles": [
+      "souche-de-cheminee"
+    ]
+  },
+  {
+    "id": "descente-d-eaux-pluviales",
+    "terme": "la descente d'eaux pluviales",
+    "categorie": "Toitures",
+    "definition": "Tuyau vertical fixé sur la façade qui conduit l'eau du toit jusqu'au sol ou au réseau.",
+    "priorite": 1,
+    "requetes": [
+      "downspout building",
+      "descente eaux pluviales",
+      "incategory:\"Downspouts\""
+    ],
+    "incompatibles": [
+      "gouttiere"
+    ]
+  },
+  {
+    "id": "cheneau",
+    "terme": "le chéneau",
+    "categorie": "Toitures",
+    "definition": "Canal encaissé en pied de versant ou entre deux toits, qui recueille l'eau de pluie, intégré à la construction.",
+    "priorite": 2,
+    "requetes": [
+      "box gutter roof",
+      "chéneau toiture",
+      "valley gutter between roofs"
+    ],
+    "incompatibles": [
+      "gouttiere"
+    ]
+  },
+  {
+    "id": "boite-a-eau",
+    "terme": "la boîte à eau",
+    "categorie": "Toitures",
+    "definition": "Réceptacle en forme d'entonnoir qui recueille l'eau d'une gouttière ou d'une gargouille en tête de descente.",
+    "priorite": 3,
+    "requetes": [
+      "rainwater hopper head",
+      "boîte à eau descente",
+      "downpipe hopper"
+    ],
+    "incompatibles": [
+      "descente-d-eaux-pluviales"
+    ]
+  },
+  {
+    "id": "dauphin",
+    "terme": "le dauphin",
+    "categorie": "Toitures",
+    "definition": "Partie basse d'une descente d'eaux pluviales, en fonte, coudée vers le sol ou le caniveau.",
+    "priorite": 3,
+    "requetes": [
+      "cast iron downpipe shoe",
+      "dauphin fonte descente",
+      "downspout cast iron base"
+    ],
+    "incompatibles": [
+      "descente-d-eaux-pluviales"
+    ]
+  },
+  {
+    "id": "crapaudine",
+    "terme": "la crapaudine",
+    "categorie": "Toitures",
+    "definition": "Grille bombée posée sur l'orifice d'évacuation d'une terrasse ou d'une gouttière pour arrêter les feuilles.",
+    "priorite": 2,
+    "requetes": [
+      "roof drain dome strainer",
+      "crapaudine terrasse",
+      "flat roof outlet grate"
+    ],
+    "incompatibles": [
+      "toiture-terrasse"
+    ]
+  },
+  {
+    "id": "gargouille-de-terrasse",
+    "terme": "la gargouille de terrasse",
+    "categorie": "Toitures",
+    "definition": "Tube court qui traverse l'acrotère et rejette l'eau d'une toiture-terrasse loin de la façade.",
+    "priorite": 1,
+    "requetes": [
+      "scupper drain parapet pipe",
+      "gargouille terrasse PVC",
+      "rainwater spout through parapet"
+    ],
+    "incompatibles": [
+      "gargouille",
+      "acrotere"
+    ]
+  },
+  {
+    "id": "trop-plein",
+    "terme": "le trop-plein",
+    "categorie": "Toitures",
+    "definition": "Orifice de secours placé dans l'acrotère, plus haut que l'évacuation normale, qui évacue l'eau si elle est bouchée.",
+    "priorite": 2,
+    "requetes": [
+      "overflow scupper parapet",
+      "trop-plein toiture terrasse",
+      "emergency overflow flat roof"
+    ],
+    "incompatibles": [
+      "gargouille-de-terrasse",
+      "acrotere"
+    ]
+  },
+  {
+    "id": "membrane-bitumineuse",
+    "terme": "la membrane bitumineuse",
+    "categorie": "Toitures",
+    "definition": "Feuille d'étanchéité en bitume armé, posée en lés soudés au chalumeau sur une toiture-terrasse.",
+    "priorite": 1,
+    "requetes": [
+      "torch on bitumen membrane roof",
+      "étanchéité bitumineuse terrasse",
+      "bitumen roofing membrane"
+    ],
+    "incompatibles": [
+      "toiture-terrasse",
+      "releve-d-etancheite"
+    ]
+  },
+  {
+    "id": "releve-d-etancheite",
+    "terme": "le relevé d'étanchéité",
+    "categorie": "Toitures",
+    "definition": "Remontée de la membrane d'étanchéité le long de l'acrotère ou d'un mur en bordure de terrasse.",
+    "priorite": 1,
+    "requetes": [
+      "roof membrane upstand parapet",
+      "relevé d'étanchéité acrotère",
+      "waterproofing upturn parapet"
+    ],
+    "incompatibles": [
+      "acrotere",
+      "toiture-terrasse"
+    ]
+  },
+  {
+    "id": "dalle-sur-plots",
+    "terme": "la dalle sur plots",
+    "categorie": "Toitures",
+    "definition": "Dalles de revêtement posées sur des plots réglables au-dessus de l'étanchéité d'une terrasse.",
+    "priorite": 3,
+    "requetes": [
+      "pedestal pavers roof terrace",
+      "dalles sur plots",
+      "raised paving pedestals"
+    ],
+    "incompatibles": [
+      "terrasse-accessible"
+    ]
+  },
+  {
+    "id": "couvertine",
+    "terme": "la couvertine",
+    "categorie": "Toitures",
+    "definition": "Profilé métallique qui coiffe le dessus d'un acrotère ou d'un muret pour le protéger de la pluie.",
+    "priorite": 1,
+    "requetes": [
+      "parapet coping metal",
+      "couvertine acrotère",
+      "aluminium coping"
+    ],
+    "incompatibles": [
+      "acrotere"
+    ]
+  },
+  {
+    "id": "chatiere",
+    "terme": "la chatière",
+    "categorie": "Toitures",
+    "definition": "Tuile ou pièce munie d'une ouverture grillagée qui ventile le dessous de la couverture.",
+    "priorite": 3,
+    "requetes": [
+      "roof vent tile",
+      "tuile chatière",
+      "ventilation tile roof"
+    ],
+    "incompatibles": [
+      "tuile"
+    ]
+  },
+  {
+    "id": "mitre",
+    "terme": "la mitre",
+    "categorie": "Toitures",
+    "definition": "Couronnement placé au sommet d'un conduit de cheminée pour l'abriter de la pluie et du vent.",
+    "priorite": 3,
+    "requetes": [
+      "chimney cowl",
+      "mitre cheminée",
+      "chimney pot cap"
+    ],
+    "incompatibles": [
+      "souche-de-cheminee"
+    ]
+  },
+  {
+    "id": "edicule",
+    "terme": "l'édicule",
+    "categorie": "Toitures",
+    "definition": "Petite construction qui émerge d'une toiture-terrasse, abritant la sortie d'escalier ou des équipements.",
+    "priorite": 3,
+    "requetes": [
+      "rooftop stair enclosure",
+      "édicule toiture terrasse",
+      "rooftop structure flat roof"
+    ],
+    "incompatibles": [
+      "toiture-terrasse"
+    ]
+  }
+]

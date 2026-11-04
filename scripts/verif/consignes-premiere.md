@@ -8,8 +8,10 @@ Pour chaque terme qui t'est confié, les candidates sont dans `tmp/commons/<term
 `NN.jpg` (photos téléchargées depuis Wikimedia Commons) et `meta.json` (le terme avec sa définition, et pour
 chaque candidate : titre, description, catégories Commons, auteur, licence, lien).
 
-## Outils (depuis /home/user/repo)
+## Outils (depuis la racine du projet)
 
+- `python3 scripts/verif/outils.py voisins <termId>` : le terme, sa définition et les autres termes de sa catégorie
+  (les mauvaises réponses possibles : l'image ne doit pouvoir illustrer aucun d'eux).
 - `python3 scripts/verif/outils.py planche <termId>` → `tmp/verif/<termId>-planche.jpg` : vue d'ensemble numérotée.
 - `python3 scripts/verif/outils.py grille <termId> <NN>` → `tmp/verif/<termId>-<NN>-grille.jpg` : l'image seule,
   avec une grille cyan tous les 10 % pour repérer les coordonnées.

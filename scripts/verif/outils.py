@@ -103,9 +103,21 @@ def cadre(term_id, nn, x, y, w, h):
     print(out)
 
 
+def voisins(term_id):
+    termes = json.loads((RACINE / "scripts" / "termes-candidats.json").read_text())
+    t = next(x for x in termes if x["id"] == term_id)
+    print(f"{t['terme']} ({t['categorie']}) : {t['definition']}")
+    print("Autres termes de la catégorie (mauvaises réponses possibles) :")
+    for x in termes:
+        if x["categorie"] == t["categorie"] and x["id"] != term_id:
+            print(f"- {x['terme']} : {x['definition']}")
+
+
 if __name__ == "__main__":
-    cmd, *a = sys.argv[1:]
-    if cmd == "planche":
+    cmd, *a = sys.argv[1:] or ["aide"]
+    if cmd == "voisins":
+        voisins(a[0])
+    elif cmd == "planche":
         planche(a[0])
     elif cmd == "grille":
         grille(a[0], a[1])

@@ -4,7 +4,9 @@ import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import Figure from "./Figure";
 import DessinRect from "./DessinRect";
-import { CATEGORIES, imageSrc, type Image, type Rect, type Term } from "@/lib/shared";
+import { CATEGORIES, imageSrc, normaliser, type Image, type Rect, type Term } from "@/lib/shared";
+
+const PAQUET = 60; // cartes affichées à la fois (le contenu compte plus de 1000 images)
 
 const select = "rounded-lg border border-neutral-700 bg-neutral-900 px-3 py-2 text-sm";
 
@@ -12,44 +14,67 @@ export default function Gerer({ terms, images }: { terms: Term[]; images: Image[
   const [source, setSource] = useState("");
   const [categorie, setCategorie] = useState("");
   const [statut, setStatut] = useState("");
+  const [recherche, setRecherche] = useState("");
+  const [limite, setLimite] = useState(PAQUET);
   const termsParId = useMemo(() => new Map(terms.map((t) => [t.id, t])), [terms]);
 
   const visibles = images.filter(
     (i) =>
       (!source || i.source === source) &&
       (!categorie || termsParId.get(i.termId)?.categorie === categorie) &&
-      (!statut || i.statut === statut),
+      (!statut || i.statut === statut) &&
+      (!recherche || normaliser(termsParId.get(i.termId)?.terme ?? i.termId).includes(normaliser(recherche))),
   );
+  // Tout changement de filtre repart du premier paquet.
+  const filtre = <T,>(set: (v: T) => void) => (v: T) => {
+    set(v);
+    setLimite(PAQUET);
+  };
 
   return (
     <div className="py-2">
       <h1 className="mb-4 text-2xl font-semibold">Gérer les images</h1>
       <div className="mb-5 flex flex-wrap items-center gap-2">
-        <select aria-label="Source" className={select} value={source} onChange={(e) => setSource(e.target.value)}>
+        <select aria-label="Source" className={select} value={source} onChange={(e) => filtre(setSource)(e.target.value)}>
           <option value="">Toutes les sources</option>
           <option value="commons">Commons</option>
           <option value="perso">Mes photos</option>
         </select>
-        <select aria-label="Catégorie" className={select} value={categorie} onChange={(e) => setCategorie(e.target.value)}>
+        <select aria-label="Catégorie" className={select} value={categorie} onChange={(e) => filtre(setCategorie)(e.target.value)}>
           <option value="">Toutes les catégories</option>
           {CATEGORIES.map((c) => (
             <option key={c}>{c}</option>
           ))}
         </select>
-        <select aria-label="Statut" className={select} value={statut} onChange={(e) => setStatut(e.target.value)}>
+        <select aria-label="Statut" className={select} value={statut} onChange={(e) => filtre(setStatut)(e.target.value)}>
           <option value="">Tous les statuts</option>
           <option value="validée">Validée</option>
           <option value="refusée">Refusée</option>
         </select>
+        <input
+          type="search"
+          aria-label="Rechercher un terme"
+          placeholder="Rechercher un terme"
+          className={`${select} w-48`}
+          value={recherche}
+          onChange={(e) => filtre(setRecherche)(e.target.value)}
+        />
         <span className="text-sm text-neutral-400" data-testid="compte">
           {visibles.length} image{visibles.length > 1 ? "s" : ""}
         </span>
       </div>
       <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {visibles.map((img) => (
+        {visibles.slice(0, limite).map((img) => (
           <Carte key={img.id} img={img} terms={terms} term={termsParId.get(img.termId)} />
         ))}
       </ul>
+      {visibles.length > limite && (
+        <div className="mt-6 text-center">
+          <button onClick={() => setLimite(limite + PAQUET)} className="rounded-lg border border-neutral-600 px-5 py-3 hover:border-neutral-300">
+            Afficher {Math.min(PAQUET, visibles.length - limite)} image{visibles.length - limite > 1 ? "s" : ""} de plus
+          </button>
+        </div>
+      )}
     </div>
   );
 }

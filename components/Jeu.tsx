@@ -2,9 +2,9 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Figure from "./Figure";
-import { CATEGORIES, compatibles, imageSrc, type Image, type Term } from "@/lib/shared";
+import { CATEGORIES, compatibles, imageSrc, jouables as filtrer, type Image, type Term } from "@/lib/shared";
+import { PAR_DEFAUT, lireParametres, type Parametres } from "@/lib/parametres";
 
-const TAILLE_PARTIE = 10;
 const CLE = "leksik:partie";
 
 type Manche = { imageId: string; termId: string; choix: string[] };
@@ -37,17 +37,26 @@ function sauver(p: Partie | null) {
   }
 }
 
-/** 3 mauvaises réponses de la même catégorie (complétées ailleurs si la catégorie est trop petite). */
-function choixPour(term: Term, terms: Term[]): string[] {
-  const autres = terms.filter((t) => t.id !== term.id && t.terme !== term.terme && compatibles(t.id, term.id));
-  const memeCat = melanger(autres.filter((t) => t.categorie === term.categorie));
-  const ailleurs = melanger(autres.filter((t) => t.categorie !== term.categorie));
-  const faux = [...memeCat, ...ailleurs].slice(0, 3).map((t) => t.id);
-  return melanger([term.id, ...faux]);
+/**
+ * Mauvaises réponses : de la même catégorie si demandé (complétées ailleurs si elle est trop petite),
+ * en préférant les termes de la fréquence choisie.
+ */
+function choixPour(term: Term, terms: Term[], p: Parametres): string[] {
+  const autres = terms.filter((t) => t.id !== term.id && t.terme !== term.terme && compatibles(t, term));
+  const rang = (t: Term) =>
+    (p.mauvaisesReponses === "categorie" && t.categorie !== term.categorie ? 2 : 0) +
+    ((t.priorite ?? 1) > p.frequence ? 1 : 0);
+  // Aucune paire incompatible dans la manche, y compris entre deux mauvaises réponses.
+  const retenus: Term[] = [term];
+  for (const t of melanger(autres).sort((a, b) => rang(a) - rang(b))) {
+    if (retenus.length >= p.propositions) break;
+    if (retenus.every((r) => compatibles(r, t))) retenus.push(t);
+  }
+  return melanger(retenus.map((t) => t.id));
 }
 
 /** Tire les manches en variant le plus possible les termes. */
-function creerManches(images: Image[], terms: Term[], nombre: number): Manche[] {
+function creerManches(images: Image[], terms: Term[], nombre: number, p: Parametres): Manche[] {
   const parTerme = new Map<string, Image[]>();
   for (const img of images) parTerme.set(img.termId, [...(parTerme.get(img.termId) ?? []), img]);
   const ids = melanger([...parTerme.keys()]);
@@ -61,7 +70,7 @@ function creerManches(images: Image[], terms: Term[], nombre: number): Manche[] 
     const img = pile.pop()!;
     restantes.set(termId, pile);
     const term = terms.find((t) => t.id === termId)!;
-    manches.push({ imageId: img.id, termId, choix: choixPour(term, terms) });
+    manches.push({ imageId: img.id, termId, choix: choixPour(term, terms, p) });
   }
   return manches;
 }
@@ -69,13 +78,14 @@ function creerManches(images: Image[], terms: Term[], nombre: number): Manche[] 
 export default function Jeu({ terms, images }: { terms: Term[]; images: Image[] }) {
   const termsParId = useMemo(() => new Map(terms.map((t) => [t.id, t])), [terms]);
   const imagesParId = useMemo(() => new Map(images.map((i) => [i.id, i])), [images]);
-  // Seules les images validées dont le terme existe sont jouables.
-  const jouables = useMemo(() => images.filter((i) => i.statut === "validée" && termsParId.has(i.termId)), [images, termsParId]);
-
   const [partie, setPartie] = useState<Partie | null>(null);
   const [pret, setPret] = useState(false);
+  const [params, setParams] = useState<Parametres>(PAR_DEFAUT);
+  // Images validées dont le terme existe, filtrées selon les réglages (source, fréquence).
+  const jouables = useMemo(() => filtrer(images, terms, params), [images, terms, params]);
 
   useEffect(() => {
+    setParams(lireParametres());
     const p = charger();
     const valide =
       p &&
@@ -97,14 +107,15 @@ export default function Jeu({ terms, images }: { terms: Term[]; images: Image[] 
 
   function demarrer(categorie: string) {
     const pool = categorie === "Toutes" ? jouables : jouables.filter((i) => termsParId.get(i.termId)?.categorie === categorie);
-    const manches = creerManches(pool, terms, TAILLE_PARTIE);
+    const manches = creerManches(pool, terms, params.imagesParPartie, params);
     if (manches.length) maj({ categorie, manches, reponses: manches.map(() => null) });
   }
 
   function revoir(p: Partie) {
     const rates = [...new Set(p.manches.filter((m, i) => p.reponses[i] !== m.termId).map((m) => m.termId))];
-    const pool = jouables.filter((i) => rates.includes(i.termId));
-    const manches = creerManches(pool, terms, rates.length);
+    // Toutes les images validées de ces termes, même si les réglages ont changé depuis.
+    const pool = filtrer(images, terms, { sources: "toutes", frequence: 3 }).filter((i) => rates.includes(i.termId));
+    const manches = creerManches(pool, terms, rates.length, params);
     if (manches.length) maj({ categorie: "Revoir mes erreurs", manches, reponses: manches.map(() => null) });
   }
 
@@ -116,7 +127,7 @@ export default function Jeu({ terms, images }: { terms: Term[]; images: Image[] 
     return (
       <div className="mx-auto max-w-xl py-4">
         <h1 className="mb-1 text-2xl font-semibold">Jouer</h1>
-        <p className="mb-6 text-neutral-400">Une image, quatre mots : trouvez le bon. Parties de {TAILLE_PARTIE} images.</p>
+        <p className="mb-6 text-neutral-400">Une image, {params.propositions} mots : trouvez le bon. Parties de {params.imagesParPartie} images.</p>
         <div className="grid gap-3">
           {["Toutes", ...CATEGORIES].map((cat) => {
             const n = compte(cat);
@@ -192,6 +203,7 @@ export default function Jeu({ terms, images }: { terms: Term[]; images: Image[] 
       index={index}
       termsParId={termsParId}
       imagesParId={imagesParId}
+      suivantAuto={params.suivantAuto}
       onRepondre={(rep) => {
         const reponses = [...partie.reponses];
         reponses[index] = rep;
@@ -207,6 +219,7 @@ function Manche({
   index,
   termsParId,
   imagesParId,
+  suivantAuto,
   onRepondre,
   onQuitter,
 }: {
@@ -214,6 +227,7 @@ function Manche({
   index: number;
   termsParId: Map<string, Term>;
   imagesParId: Map<string, Image>;
+  suivantAuto: boolean;
   onRepondre: (termId: string) => void;
   onQuitter: () => void;
 }) {
@@ -222,6 +236,13 @@ function Manche({
   const img = imagesParId.get(manche.imageId)!;
   const bon = termsParId.get(manche.termId)!;
   const credit = [img.auteur, img.licence].filter(Boolean).join(" · ");
+
+  // Réglage « image suivante automatique » : seulement après une bonne réponse.
+  useEffect(() => {
+    if (!suivantAuto || choisi !== bon.id) return;
+    const t = setTimeout(() => onRepondre(choisi), 1500);
+    return () => clearTimeout(t);
+  }, [suivantAuto, choisi, bon.id, onRepondre]);
 
   return (
     <div className="mx-auto flex max-w-3xl flex-col items-center">
@@ -245,7 +266,8 @@ function Manche({
           </>
         )}
       </p>
-      <div className="mt-3 grid w-full grid-cols-2 gap-2 sm:gap-3" data-testid="choix">
+      <div className={`mt-3 grid w-full gap-2 sm:gap-3 ${manche.choix.length === 3 ? "grid-cols-1 sm:grid-cols-3" : "grid-cols-2"}`}
+        data-testid="choix">
         {manche.choix.map((id) => {
           const t = termsParId.get(id)!;
           let style = "border-neutral-700 bg-neutral-900 hover:border-neutral-400";

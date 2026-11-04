@@ -1,27 +1,47 @@
 # État d'avancement de Leksik — À LIRE POUR REPRENDRE
 
-Dernière mise à jour : 4 novembre 2026, ~21 h 30 UTC. Branche `claude/leksik`, poussée sur GitHub.
+Dernière mise à jour : 4 novembre 2026. Branche `claude/leksik`.
 
-## Où on en est — TERMINÉ (4 nov. 2026)
+## Version 1 : terminée
 
-- **App** : `npm install && npm run dev`, puis http://localhost:3000. Pages Jouer, Ajouter, Gérer faites.
-- **Contenu** : 66 termes, 110 images Commons validées par les deux vérifications.
-  Façade 17/32 · Toitures 8/14 · Matériaux 12/19 · Structure 11/17 · Ornement 13/20 · Afrique de l'Ouest 5/8 (termes/images).
-- **Seconde recherche** faite pour les termes abandonnés : 10 termes récupérés (piédroit, balcon, acrotère, souche de cheminée,
-  corbeau, bandeau, tôle ondulée, bardage, pisé, banco). Contre-vérification : `tmp/verif/contre/suite-1.json` (14/16 confirmées).
-- **Relecture** : complète, plus les 10 nouveaux termes (définition du banco corrigée, 9 paires `INCOMPATIBLES` ajoutées).
-- **Termes abandonnés** : le chambranle, la croupe, la console, la case ronde.
-- **Test de bout en bout** (`npm run e2e`, voir README) : 3987 vérifications réussies, 0 échouée, sur le contenu final.
+66 termes, 110 images doublement vérifiées, test de bout en bout OK, lancement par double-clic (`Lancer Leksik.command`).
 
-## Pistes facultatives
+## Version 2 (en cours) : environ 1000 termes, objectif au moins 1000 images
 
-- Les 4 termes abandonnés : nouvelles requêtes dans `requetes2` puis `--refaire`/`--suite` (attention à la numérotation),
-  ou mes propres photos via Ajouter.
-- La paire `["case-a-impluvium", "case"]` de `INCOMPATIBLES` vise un terme absent : sans effet, gardée au cas où la case ronde revienne.
+Demande : « on vise les 1000 » images, en choisissant les ~1000 éléments qu'un architecte à Dakar a le plus de
+chances de croiser sur un chantier (génériques et précis) ; parties toujours de 10 par défaut ; page Paramètres.
+
+### Fait
+
+- **Code** : 13 catégories (`CATEGORIES`, `lib/shared.ts`), champs `priorite` (1–3) et `incompatibles` sur les termes
+  (la liste `INCOMPATIBLES` du code a été migrée dans les données), page `/parametres` (`components/Parametres.tsx`,
+  `lib/parametres.ts`), Gérer avec recherche et affichage par paquets de 60, `integrer.mjs` qui distingue
+  « pas encore traité » d'« abandonné ».
+- **Termes** : 937 nouveaux termes rédigés par 7 agents (`scripts/verif/consignes-termes.md`, listes brutes dans
+  `scripts/termes/listes-agents/`), contrôlés et fusionnés par `scripts/fusionner_termes.py` → 1007 termes dans
+  `scripts/termes-candidats.json`.
+
+### En cours / à faire, dans l'ordre
+
+1. **Relecture des 1007 termes** (5 agents, `scripts/verif/consignes-relecture.md`) → propositions dans
+   `scripts/termes/relecture/*.json`, puis `python3 scripts/appliquer_relecture.py --ecrire`.
+2. **Test de bout en bout** mis à jour pour les paramètres et Gérer paginé (agent de test) ; relancer `npm run e2e`.
+3. **Recherche Commons** : `node scripts/commons.mjs > tmp/commons-1000.log 2>&1` (par priorité ; reprend où il
+   s'est arrêté : les termes qui ont un `meta.json` sont sautés). ~30 s à 1 min par terme.
+4. **Vérifications, par lots**, au fur et à mesure des téléchargements (`python3 scripts/avancement.py` donne l'état) :
+   - première vérification : `python3 scripts/avancement.py --premiere=8` donne les 8 prochains termes prêts ;
+     un agent par lot, consignes `scripts/verif/consignes-premiere.md` ;
+   - contre-vérification (agent DIFFÉRENT) : `python3 scripts/verif/preparer_contre.py --lot=v2-NNN <ids>`
+     (seulement les images pas encore jugées), consignes `scripts/verif/consignes-contre.md`,
+     sortie `tmp/verif/contre/v2-NNN.json` ;
+   - `node scripts/integrer.mjs` (jamais pendant `npm run e2e`).
+5. Test de bout en bout final, README, DECISIONS, rapport, commit et push.
 
 ## Rappels
 
-- `scripts/termes-candidats.json` fait foi pour les termes ; `node scripts/integrer.mjs` régénère `data/`, `public/images/commons/` et `VERIFICATION.md`.
+- `scripts/termes-candidats.json` fait foi pour les termes ; `node scripts/integrer.mjs` régénère `data/`,
+  `public/images/commons/` et `VERIFICATION.md`.
 - Ne pas lancer `integrer.mjs` pendant le test de bout en bout : les deux écrivent dans `data/`.
 - Les photos candidates `tmp/commons/*/NN.jpg` ne sont pas versionnées, seuls les `meta.json` le sont.
   Pour revérifier un terme, retélécharger chaque `url` de son `meta.json` vers son `fichier`.
+- L'API Commons bloque après une dizaine de requêtes rapprochées (429) : ne jamais l'interroger en parallèle du script.

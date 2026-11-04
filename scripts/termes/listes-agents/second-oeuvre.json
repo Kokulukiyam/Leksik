@@ -1,0 +1,1479 @@
+[
+ {
+  "id": "cloison",
+  "terme": "la cloison",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Mur intérieur mince et non porteur qui sépare deux pièces.",
+  "priorite": 1,
+  "requetes": [
+   "interior partition wall construction",
+   "cloison intérieure",
+   "incategory:\"Partition walls\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "cloison-en-plaques-de-platre",
+  "terme": "la cloison en plaques de plâtre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Cloison sèche faite de plaques de plâtre vissées de part et d'autre d'une ossature métallique.",
+  "priorite": 1,
+  "requetes": [
+   "drywall partition metal studs",
+   "cloison placo",
+   "drywall partition"
+  ],
+  "incompatibles": [
+   "cloison",
+   "plaque-de-platre"
+  ]
+ },
+ {
+  "id": "plaque-de-platre",
+  "terme": "la plaque de plâtre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Panneau plat de plâtre pris entre deux feuilles de carton, appelé couramment placo ou BA13, vissé sur ossature pour cloisons, doublages et plafonds.",
+  "priorite": 1,
+  "requetes": [
+   "drywall sheets stacked",
+   "plaque de plâtre BA13",
+   "incategory:\"Drywall\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "plaque-de-platre-hydrofuge",
+  "terme": "la plaque de plâtre hydrofuge",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Plaque de plâtre à carton vert, traitée contre l'humidité, posée dans les salles d'eau.",
+  "priorite": 2,
+  "requetes": [
+   "green moisture resistant drywall",
+   "plaque hydrofuge verte",
+   "green board drywall bathroom"
+  ],
+  "incompatibles": [
+   "plaque-de-platre"
+  ]
+ },
+ {
+  "id": "plaque-de-platre-coupe-feu",
+  "terme": "la plaque de plâtre coupe-feu",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Plaque de plâtre renforcée de fibres, à carton souvent rose ou rouge, qui retarde la propagation du feu.",
+  "priorite": 3,
+  "requetes": [
+   "fire rated drywall pink",
+   "plaque de plâtre coupe-feu",
+   "type X drywall"
+  ],
+  "incompatibles": [
+   "plaque-de-platre"
+  ]
+ },
+ {
+  "id": "plaque-de-platre-perforee",
+  "terme": "la plaque de plâtre perforée",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Plaque de plâtre percée d'un réseau régulier de petits trous, utilisée en plafond pour absorber le bruit.",
+  "priorite": 3,
+  "requetes": [
+   "perforated gypsum acoustic ceiling",
+   "plafond plâtre perforé",
+   "perforated plasterboard ceiling"
+  ],
+  "incompatibles": [
+   "plaque-de-platre",
+   "faux-plafond-en-plaques-de-platre"
+  ]
+ },
+ {
+  "id": "montant-metallique",
+  "terme": "le montant métallique",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Profilé vertical en tôle d'acier galvanisé, en forme de C, qui forme l'ossature d'une cloison sèche.",
+  "priorite": 1,
+  "requetes": [
+   "metal stud framing drywall",
+   "montants métalliques cloison",
+   "steel stud wall framing"
+  ],
+  "incompatibles": [
+   "rail-metallique",
+   "cloison-en-plaques-de-platre"
+  ]
+ },
+ {
+  "id": "rail-metallique",
+  "terme": "le rail métallique",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Profilé en U en acier galvanisé fixé au sol et au plafond, dans lequel s'emboîtent les montants d'une cloison sèche.",
+  "priorite": 2,
+  "requetes": [
+   "metal track drywall floor",
+   "rail placo sol",
+   "steel stud track"
+  ],
+  "incompatibles": [
+   "cloison-en-plaques-de-platre"
+  ]
+ },
+ {
+  "id": "bande-a-joint",
+  "terme": "la bande à joint",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Bande de papier ou de fibre noyée dans l'enduit pour masquer et renforcer la jonction entre deux plaques de plâtre.",
+  "priorite": 1,
+  "requetes": [
+   "drywall joint tape mud",
+   "bande à joint placo",
+   "drywall taping"
+  ],
+  "incompatibles": [
+   "plaque-de-platre"
+  ]
+ },
+ {
+  "id": "corniere-d-angle",
+  "terme": "la cornière d'angle",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Profilé métallique ou plastique en L qui protège et dresse les angles saillants des cloisons et enduits.",
+  "priorite": 2,
+  "requetes": [
+   "drywall corner bead",
+   "cornière d'angle plâtre",
+   "metal corner bead plaster"
+  ],
+  "incompatibles": [
+   "baguette-d-angle"
+  ]
+ },
+ {
+  "id": "doublage",
+  "terme": "le doublage",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Paroi mince, souvent en plaques de plâtre avec isolant, posée contre la face intérieure d'un mur.",
+  "priorite": 2,
+  "requetes": [
+   "insulated plasterboard wall lining",
+   "doublage isolant mur",
+   "drywall furring wall insulation"
+  ],
+  "incompatibles": [
+   "plaque-de-platre"
+  ]
+ },
+ {
+  "id": "carreau-de-platre",
+  "terme": "le carreau de plâtre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Bloc plein de plâtre à emboîtement, monté à la colle pour faire des cloisons intérieures lisses.",
+  "priorite": 3,
+  "requetes": [
+   "gypsum block partition",
+   "carreau de plâtre cloison",
+   "gypsum blocks wall"
+  ],
+  "incompatibles": [
+   "cloison"
+  ]
+ },
+ {
+  "id": "cloison-vitree",
+  "terme": "la cloison vitrée",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Cloison intérieure en grands panneaux de verre, fréquente dans les bureaux.",
+  "priorite": 2,
+  "requetes": [
+   "glass partition office",
+   "cloison vitrée bureau",
+   "glazed office partition"
+  ],
+  "incompatibles": [
+   "cloison"
+  ]
+ },
+ {
+  "id": "verriere-interieure",
+  "terme": "la verrière intérieure",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Cloison vitrée à fins profilés d'acier noirs formant des carreaux, de style atelier.",
+  "priorite": 2,
+  "requetes": [
+   "interior steel glass partition atelier",
+   "verrière d'atelier intérieure",
+   "black steel frame glass wall interior"
+  ],
+  "incompatibles": [
+   "cloison-vitree"
+  ]
+ },
+ {
+  "id": "cloison-mobile",
+  "terme": "la cloison mobile",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Cloison faite de panneaux suspendus à un rail qui coulissent ou se replient pour diviser ou ouvrir une salle.",
+  "priorite": 3,
+  "requetes": [
+   "operable wall partition",
+   "cloison mobile salle",
+   "folding partition wall"
+  ],
+  "incompatibles": [
+   "cloison"
+  ]
+ },
+ {
+  "id": "cloison-alveolaire",
+  "terme": "la cloison alvéolaire",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Cloison préfabriquée faite de deux parements en carton plâtre reliés par une âme en nid d'abeilles de carton.",
+  "priorite": 3,
+  "requetes": [
+   "honeycomb core partition panel",
+   "cloison alvéolaire",
+   "paper honeycomb panel"
+  ],
+  "incompatibles": [
+   "cloison"
+  ]
+ },
+ {
+  "id": "cloison-sanitaire",
+  "terme": "la cloison sanitaire",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Panneaux rigides surélevés du sol qui séparent les cabines de WC dans les toilettes collectives.",
+  "priorite": 3,
+  "requetes": [
+   "toilet partitions public restroom",
+   "cabine sanitaire cloison",
+   "toilet cubicles"
+  ],
+  "incompatibles": [
+   "cloison"
+  ]
+ },
+ {
+  "id": "brique-de-verre",
+  "terme": "la brique de verre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Bloc creux en verre moulé, translucide, maçonné pour former une paroi qui laisse passer la lumière.",
+  "priorite": 2,
+  "requetes": [
+   "glass block wall",
+   "brique de verre",
+   "incategory:\"Glass blocks\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "laine-de-verre",
+  "terme": "la laine de verre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Isolant en fibres de verre, en rouleaux ou panneaux jaunes, posé dans les doublages, cloisons et combles.",
+  "priorite": 2,
+  "requetes": [
+   "glass wool insulation roll",
+   "laine de verre isolation",
+   "fiberglass insulation"
+  ],
+  "incompatibles": [
+   "laine-de-roche"
+  ]
+ },
+ {
+  "id": "laine-de-roche",
+  "terme": "la laine de roche",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Isolant en fibres de roche volcanique, en panneaux denses de couleur verte ou brune.",
+  "priorite": 3,
+  "requetes": [
+   "rock wool insulation slabs",
+   "laine de roche",
+   "mineral wool insulation"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "polystyrene-expanse",
+  "terme": "le polystyrène expansé",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Isolant léger et blanc fait de billes de plastique soudées, en plaques rigides.",
+  "priorite": 2,
+  "requetes": [
+   "expanded polystyrene insulation boards",
+   "polystyrène expansé plaques",
+   "EPS insulation"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "pare-vapeur",
+  "terme": "le pare-vapeur",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Film plastique tendu côté intérieur d'un isolant pour empêcher la vapeur d'eau d'y pénétrer.",
+  "priorite": 3,
+  "requetes": [
+   "vapor barrier plastic insulation wall",
+   "pare-vapeur film",
+   "vapour barrier membrane"
+  ],
+  "incompatibles": [
+   "laine-de-verre"
+  ]
+ },
+ {
+  "id": "isolant-mince-reflechissant",
+  "terme": "l'isolant mince réfléchissant",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Isolant en rouleau, peu épais, fait de feuilles d'aluminium brillantes et de couches de mousse ou de ouate.",
+  "priorite": 3,
+  "requetes": [
+   "reflective foil insulation",
+   "isolant mince multicouche",
+   "radiant barrier foil"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "mousse-polyurethane-projetee",
+  "terme": "la mousse polyuréthane projetée",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Isolant pulvérisé qui gonfle en une mousse jaunâtre irrégulière collée au support.",
+  "priorite": 3,
+  "requetes": [
+   "spray foam insulation",
+   "mousse polyuréthane projetée",
+   "sprayed polyurethane foam wall"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "platre",
+  "terme": "le plâtre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Poudre blanche de gypse cuit qui, gâchée avec de l'eau, durcit rapidement ; sert aux enduits, aux carreaux et au staff.",
+  "priorite": 2,
+  "requetes": [
+   "gypsum plaster wall",
+   "plâtre gâché",
+   "incategory:\"Plaster\""
+  ],
+  "incompatibles": [
+   "enduit-de-platre"
+  ]
+ },
+ {
+  "id": "enduit-de-platre",
+  "terme": "l'enduit de plâtre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Couche de plâtre étalée et lissée sur un mur ou un plafond intérieur pour obtenir une surface plane prête à peindre.",
+  "priorite": 2,
+  "requetes": [
+   "plastering interior wall gypsum",
+   "enduit plâtre mur",
+   "fresh plaster wall interior"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "faux-plafond",
+  "terme": "le faux plafond",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Plafond suspendu sous la dalle ou la charpente, qui masque gaines et réseaux.",
+  "priorite": 1,
+  "requetes": [
+   "suspended ceiling",
+   "faux plafond",
+   "incategory:\"Dropped ceilings\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "faux-plafond-en-dalles",
+  "terme": "le faux plafond en dalles",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Faux plafond fait de dalles amovibles, souvent de 60 × 60 cm, posées dans une ossature apparente.",
+  "priorite": 1,
+  "requetes": [
+   "drop ceiling tiles grid",
+   "faux plafond dalles 60x60",
+   "acoustic ceiling tiles office"
+  ],
+  "incompatibles": [
+   "faux-plafond",
+   "ossature-de-faux-plafond"
+  ]
+ },
+ {
+  "id": "faux-plafond-en-plaques-de-platre",
+  "terme": "le faux plafond en plaques de plâtre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Faux plafond continu et lisse fait de plaques de plâtre vissées sur une ossature cachée.",
+  "priorite": 1,
+  "requetes": [
+   "plasterboard ceiling installation",
+   "faux plafond placo",
+   "drywall ceiling"
+  ],
+  "incompatibles": [
+   "faux-plafond",
+   "plaque-de-platre"
+  ]
+ },
+ {
+  "id": "ossature-de-faux-plafond",
+  "terme": "l'ossature de faux plafond",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Réseau de profilés métalliques suspendus qui porte les dalles ou les plaques d'un faux plafond.",
+  "priorite": 1,
+  "requetes": [
+   "suspended ceiling grid",
+   "ossature faux plafond",
+   "ceiling T-bar grid installation"
+  ],
+  "incompatibles": [
+   "faux-plafond"
+  ]
+ },
+ {
+  "id": "corniere-de-rive",
+  "terme": "la cornière de rive",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Profilé en L fixé au mur sur lequel reposent les bords d'un faux plafond.",
+  "priorite": 2,
+  "requetes": [
+   "ceiling wall angle trim suspended",
+   "cornière de rive faux plafond",
+   "wall angle ceiling grid"
+  ],
+  "incompatibles": [
+   "ossature-de-faux-plafond"
+  ]
+ },
+ {
+  "id": "suspente",
+  "terme": "la suspente",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Tige ou fil métallique accroché à la dalle qui porte l'ossature d'un faux plafond.",
+  "priorite": 2,
+  "requetes": [
+   "suspended ceiling hanger wire",
+   "suspente faux plafond",
+   "ceiling hangers rods"
+  ],
+  "incompatibles": [
+   "ossature-de-faux-plafond"
+  ]
+ },
+ {
+  "id": "staff",
+  "terme": "le staff",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Plâtre armé de fibres, coulé en plaques ou en moulures, très employé au Sénégal pour les faux plafonds et corniches décoratives.",
+  "priorite": 1,
+  "requetes": [
+   "staff plaster ceiling decorative",
+   "plafond en staff",
+   "fibrous plaster ceiling"
+  ],
+  "incompatibles": [
+   "corniche",
+   "faux-plafond",
+   "platre"
+  ]
+ },
+ {
+  "id": "gorge-lumineuse",
+  "terme": "la gorge lumineuse",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Rebord ou décaissé du faux plafond qui cache une source lumineuse éclairant le plafond de façon indirecte.",
+  "priorite": 1,
+  "requetes": [
+   "cove lighting ceiling",
+   "gorge lumineuse plafond",
+   "indirect light cove ceiling"
+  ],
+  "incompatibles": [
+   "faux-plafond",
+   "staff"
+  ]
+ },
+ {
+  "id": "trappe-de-visite",
+  "terme": "la trappe de visite",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Petit panneau ouvrant dans un faux plafond ou une cloison, qui donne accès aux réseaux cachés.",
+  "priorite": 2,
+  "requetes": [
+   "ceiling access panel",
+   "trappe de visite plafond",
+   "drywall access hatch"
+  ],
+  "incompatibles": [
+   "faux-plafond"
+  ]
+ },
+ {
+  "id": "lambris-pvc",
+  "terme": "le lambris PVC",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Lames de plastique emboîtées, souvent blanches, fixées en plafond ou en mur ; courant au Sénégal sous les toitures.",
+  "priorite": 1,
+  "requetes": [
+   "PVC ceiling panels",
+   "lambris PVC plafond",
+   "plastic ceiling planks"
+  ],
+  "incompatibles": [
+   "lambris",
+   "faux-plafond"
+  ]
+ },
+ {
+  "id": "faux-plafond-a-lames-metalliques",
+  "terme": "le faux plafond à lames métalliques",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Faux plafond fait de lames d'aluminium étroites et parallèles clipsées sur des porteurs.",
+  "priorite": 3,
+  "requetes": [
+   "metal linear strip ceiling",
+   "faux plafond lames aluminium",
+   "aluminium baffle linear ceiling"
+  ],
+  "incompatibles": [
+   "faux-plafond"
+  ]
+ },
+ {
+  "id": "plafond-tendu",
+  "terme": "le plafond tendu",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Toile de PVC ou de textile tendue sur un cadre fixé en périphérie, formant un plafond parfaitement lisse.",
+  "priorite": 3,
+  "requetes": [
+   "stretch ceiling",
+   "plafond tendu",
+   "stretch ceiling glossy"
+  ],
+  "incompatibles": [
+   "faux-plafond"
+  ]
+ },
+ {
+  "id": "baffle-acoustique",
+  "terme": "le baffle acoustique",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Panneau absorbant suspendu verticalement sous un plafond pour réduire la réverbération.",
+  "priorite": 3,
+  "requetes": [
+   "acoustic baffles ceiling",
+   "baffles acoustiques suspendus",
+   "hanging acoustic baffles"
+  ],
+  "incompatibles": [
+   "panneau-acoustique"
+  ]
+ },
+ {
+  "id": "panneau-acoustique",
+  "terme": "le panneau acoustique",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Panneau absorbant en mousse, fibres ou bois rainuré, fixé au mur ou au plafond pour corriger l'acoustique.",
+  "priorite": 3,
+  "requetes": [
+   "acoustic wall panels",
+   "panneau acoustique mural",
+   "acoustic panels room"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "revetement-de-sol",
+  "terme": "le revêtement de sol",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Couche de finition posée sur la dalle ou la chape : carrelage, parquet, résine, sol souple, etc.",
+  "priorite": 1,
+  "requetes": [
+   "floor covering",
+   "revêtement de sol",
+   "incategory:\"Floors\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "carrelage",
+  "terme": "le carrelage",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement de sol ou de mur fait de carreaux de céramique ou de pierre collés et séparés par des joints.",
+  "priorite": 1,
+  "requetes": [
+   "tiled floor",
+   "carrelage sol",
+   "incategory:\"Tiled floors\""
+  ],
+  "incompatibles": [
+   "revetement-de-sol"
+  ]
+ },
+ {
+  "id": "carreau-de-gres-cerame",
+  "terme": "le carreau de grès cérame",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Carreau très dur et peu poreux en argile cuite à haute température, le plus posé aujourd'hui au sol.",
+  "priorite": 1,
+  "requetes": [
+   "porcelain tile floor",
+   "carreau grès cérame",
+   "porcelain stoneware tiles"
+  ],
+  "incompatibles": [
+   "carrelage"
+  ]
+ },
+ {
+  "id": "gres-cerame-poli",
+  "terme": "le grès cérame poli",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Carreau de grès cérame à surface polie et brillante qui reflète la lumière, souvent appelé carreau poli à Dakar.",
+  "priorite": 1,
+  "requetes": [
+   "polished porcelain tile floor glossy",
+   "carrelage poli brillant",
+   "polished porcelain floor tiles"
+  ],
+  "incompatibles": [
+   "carreau-de-gres-cerame",
+   "carrelage"
+  ]
+ },
+ {
+  "id": "carreau-grand-format",
+  "terme": "le carreau grand format",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Carreau de grande dimension, à partir de 60 × 120 cm, posé avec très peu de joints visibles.",
+  "priorite": 2,
+  "requetes": [
+   "large format tiles floor",
+   "carrelage grand format",
+   "large porcelain slabs floor"
+  ],
+  "incompatibles": [
+   "carreau-de-gres-cerame",
+   "carrelage"
+  ]
+ },
+ {
+  "id": "carreau-imitation-bois",
+  "terme": "le carreau imitation bois",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Carreau de grès cérame en forme de lame qui reproduit le veinage du bois.",
+  "priorite": 2,
+  "requetes": [
+   "wood look porcelain tile",
+   "carrelage imitation parquet",
+   "wood effect tiles floor"
+  ],
+  "incompatibles": [
+   "carreau-de-gres-cerame",
+   "parquet"
+  ]
+ },
+ {
+  "id": "carreau-hexagonal",
+  "terme": "le carreau hexagonal",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Carreau de sol ou de mur à six côtés, posé en nid d'abeilles.",
+  "priorite": 3,
+  "requetes": [
+   "hexagonal floor tiles",
+   "carreau hexagonal",
+   "hexagon tile floor"
+  ],
+  "incompatibles": [
+   "carrelage",
+   "tomette"
+  ]
+ },
+ {
+  "id": "tomette",
+  "terme": "la tomette",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Petit carreau de terre cuite rouge, souvent hexagonal, des sols anciens.",
+  "priorite": 3,
+  "requetes": [
+   "terracotta hexagonal floor tiles tomette",
+   "tomettes",
+   "terracotta tile floor old"
+  ],
+  "incompatibles": [
+   "carrelage"
+  ]
+ },
+ {
+  "id": "joint-de-carrelage",
+  "terme": "le joint de carrelage",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Mince bande de mortier coloré qui remplit l'espace entre deux carreaux.",
+  "priorite": 1,
+  "requetes": [
+   "tile grout lines",
+   "joint de carrelage",
+   "grouting tiles"
+  ],
+  "incompatibles": [
+   "carrelage"
+  ]
+ },
+ {
+  "id": "croisillon",
+  "terme": "le croisillon",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Petite croix en plastique placée entre les carreaux pendant la pose pour garder des joints réguliers.",
+  "priorite": 1,
+  "requetes": [
+   "tile spacers crosses",
+   "croisillons carrelage",
+   "tile spacers"
+  ],
+  "incompatibles": [
+   "carrelage"
+  ]
+ },
+ {
+  "id": "cale-autonivelante",
+  "terme": "la cale autonivelante",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Système de languettes et de coins en plastique qui maintient les carreaux voisins au même niveau pendant la prise.",
+  "priorite": 2,
+  "requetes": [
+   "tile leveling system clips wedges",
+   "cales autonivelantes carrelage",
+   "tile levelling clips"
+  ],
+  "incompatibles": [
+   "croisillon",
+   "carrelage"
+  ]
+ },
+ {
+  "id": "colle-a-carrelage",
+  "terme": "la colle à carrelage",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Mortier-colle en poudre, vendu en sacs, étalé au peigne cranté pour coller les carreaux.",
+  "priorite": 1,
+  "requetes": [
+   "tile adhesive notched trowel",
+   "mortier colle carrelage",
+   "thinset mortar tiles"
+  ],
+  "incompatibles": [
+   "carrelage"
+  ]
+ },
+ {
+  "id": "plinthe",
+  "terme": "la plinthe",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Bande de carrelage, de bois ou de PVC posée au bas d'un mur, contre le sol, pour le protéger.",
+  "priorite": 1,
+  "requetes": [
+   "baseboard skirting",
+   "plinthe carrelage",
+   "incategory:\"Baseboards\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "barre-de-seuil",
+  "terme": "la barre de seuil",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Profilé ou pierre posé au sol sous une porte, à la jonction de deux revêtements différents.",
+  "priorite": 1,
+  "requetes": [
+   "door threshold strip floor transition",
+   "barre de seuil",
+   "marble threshold door"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "baguette-d-angle",
+  "terme": "la baguette d'angle",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Profilé métallique ou PVC posé sur les angles et les bords du carrelage pour les protéger et les finir.",
+  "priorite": 2,
+  "requetes": [
+   "tile edge trim",
+   "profilé d'angle carrelage",
+   "tile corner trim metal"
+  ],
+  "incompatibles": [
+   "carrelage",
+   "faience"
+  ]
+ },
+ {
+  "id": "joint-de-fractionnement",
+  "terme": "le joint de fractionnement",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Joint souple qui découpe une grande surface carrelée ou une chape en panneaux pour absorber les mouvements.",
+  "priorite": 3,
+  "requetes": [
+   "tile movement joint floor",
+   "joint de fractionnement carrelage",
+   "expansion joint tiled floor"
+  ],
+  "incompatibles": [
+   "carrelage",
+   "joint-de-carrelage"
+  ]
+ },
+ {
+  "id": "granito",
+  "terme": "le granito",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Sol coulé ou en carreaux fait d'éclats de marbre noyés dans un ciment puis poncé, appelé aussi terrazzo ; fréquent dans les anciens immeubles de Dakar.",
+  "priorite": 2,
+  "requetes": [
+   "terrazzo floor",
+   "sol granito",
+   "incategory:\"Terrazzo\""
+  ],
+  "incompatibles": [
+   "sol-en-marbre"
+  ]
+ },
+ {
+  "id": "sol-en-marbre",
+  "terme": "le sol en marbre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Sol fait de dalles de marbre polies aux veines visibles.",
+  "priorite": 2,
+  "requetes": [
+   "marble floor",
+   "sol en marbre",
+   "polished marble floor interior"
+  ],
+  "incompatibles": [
+   "carrelage",
+   "gres-cerame-poli"
+  ]
+ },
+ {
+  "id": "beton-cire",
+  "terme": "le béton ciré",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Enduit décoratif à base de ciment appliqué en couche mince sur sol ou mur, lissé et protégé, à aspect nuancé et continu.",
+  "priorite": 2,
+  "requetes": [
+   "polished concrete microcement floor",
+   "béton ciré sol",
+   "microcement bathroom"
+  ],
+  "incompatibles": [
+   "beton-poli"
+  ]
+ },
+ {
+  "id": "beton-poli",
+  "terme": "le béton poli",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Dalle de béton poncée jusqu'à devenir lisse et brillante, laissée comme sol fini.",
+  "priorite": 3,
+  "requetes": [
+   "polished concrete floor",
+   "béton poli sol",
+   "ground polished concrete floor"
+  ],
+  "incompatibles": [
+   "beton-brut"
+  ]
+ },
+ {
+  "id": "sol-en-resine",
+  "terme": "le sol en résine",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement de sol coulé, lisse et sans joint, en résine époxy ou polyuréthane, souvent dans les ateliers et parkings.",
+  "priorite": 2,
+  "requetes": [
+   "epoxy floor coating",
+   "sol résine époxy",
+   "epoxy resin floor"
+  ],
+  "incompatibles": [
+   "revetement-de-sol"
+  ]
+ },
+ {
+  "id": "ragreage",
+  "terme": "le ragréage",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Mortier fluide autolissant coulé en couche mince pour rendre une dalle parfaitement plane avant pose du revêtement.",
+  "priorite": 2,
+  "requetes": [
+   "self leveling compound floor",
+   "ragréage sol",
+   "self-levelling screed pouring"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "parquet",
+  "terme": "le parquet",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement de sol en lames de bois assemblées.",
+  "priorite": 2,
+  "requetes": [
+   "wooden parquet floor",
+   "parquet bois",
+   "incategory:\"Parquet\""
+  ],
+  "incompatibles": [
+   "revetement-de-sol"
+  ]
+ },
+ {
+  "id": "parquet-a-batons-rompus",
+  "terme": "le parquet à bâtons rompus",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Parquet dont les lames rectangulaires se rencontrent à angle droit en zigzag.",
+  "priorite": 3,
+  "requetes": [
+   "herringbone parquet",
+   "parquet bâtons rompus",
+   "herringbone wood floor"
+  ],
+  "incompatibles": [
+   "parquet",
+   "parquet-point-de-hongrie"
+  ]
+ },
+ {
+  "id": "parquet-point-de-hongrie",
+  "terme": "le parquet en point de Hongrie",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Parquet dont les lames, coupées en biais, forment des chevrons alignés en pointe.",
+  "priorite": 3,
+  "requetes": [
+   "chevron parquet",
+   "parquet point de Hongrie",
+   "chevron wood floor"
+  ],
+  "incompatibles": [
+   "parquet"
+  ]
+ },
+ {
+  "id": "sol-stratifie",
+  "terme": "le sol stratifié",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Lames clipsables en panneau de fibres revêtu d'un décor imprimé, souvent imitation bois, posées flottantes.",
+  "priorite": 2,
+  "requetes": [
+   "laminate flooring",
+   "parquet stratifié",
+   "laminate floor installation"
+  ],
+  "incompatibles": [
+   "parquet"
+  ]
+ },
+ {
+  "id": "sous-couche-acoustique",
+  "terme": "la sous-couche acoustique",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Feuille de mousse ou de liège déroulée sous un parquet flottant ou un stratifié.",
+  "priorite": 3,
+  "requetes": [
+   "laminate underlayment foam",
+   "sous-couche parquet",
+   "flooring underlay"
+  ],
+  "incompatibles": [
+   "sol-stratifie"
+  ]
+ },
+ {
+  "id": "sol-pvc",
+  "terme": "le sol PVC",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement de sol souple en plastique, en rouleaux, dalles ou lames, appelé aussi sol vinyle.",
+  "priorite": 2,
+  "requetes": [
+   "vinyl flooring",
+   "sol PVC",
+   "vinyl floor roll"
+  ],
+  "incompatibles": [
+   "linoleum",
+   "revetement-de-sol"
+  ]
+ },
+ {
+  "id": "linoleum",
+  "terme": "le linoléum",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement de sol souple en rouleau fait d'huile de lin, de résine et de liège sur toile de jute.",
+  "priorite": 3,
+  "requetes": [
+   "linoleum floor",
+   "linoléum sol",
+   "incategory:\"Linoleum\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "moquette",
+  "terme": "la moquette",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement de sol textile fixé d'un mur à l'autre.",
+  "priorite": 2,
+  "requetes": [
+   "wall to wall carpet",
+   "moquette",
+   "carpeted office floor"
+  ],
+  "incompatibles": [
+   "revetement-de-sol"
+  ]
+ },
+ {
+  "id": "dalle-de-moquette",
+  "terme": "la dalle de moquette",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Carré de moquette, souvent de 50 × 50 cm, posé à joints serrés dans les bureaux.",
+  "priorite": 3,
+  "requetes": [
+   "carpet tiles office",
+   "dalles de moquette",
+   "modular carpet tiles"
+  ],
+  "incompatibles": [
+   "moquette"
+  ]
+ },
+ {
+  "id": "sol-en-caoutchouc",
+  "terme": "le sol en caoutchouc",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement souple et épais en caoutchouc, souvent à pastilles en relief, posé dans les lieux à fort passage ou les salles de sport.",
+  "priorite": 3,
+  "requetes": [
+   "rubber flooring studded",
+   "sol caoutchouc",
+   "rubber floor tiles gym"
+  ],
+  "incompatibles": [
+   "sol-pvc"
+  ]
+ },
+ {
+  "id": "liege",
+  "terme": "le liège",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement de sol ou de mur en plaques d'écorce de chêne-liège agglomérée, brunes et granuleuses.",
+  "priorite": 3,
+  "requetes": [
+   "cork flooring",
+   "revêtement liège",
+   "cork wall tiles"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "plancher-technique",
+  "terme": "le plancher technique",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Plancher fait de dalles amovibles posées sur des vérins, qui laisse passer les câbles dessous ; courant dans les salles informatiques.",
+  "priorite": 3,
+  "requetes": [
+   "raised access floor",
+   "plancher technique",
+   "raised floor data center"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "tapis-de-proprete",
+  "terme": "le tapis de propreté",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Tapis grattant encastré au sol à l'entrée d'un bâtiment pour retenir poussière et sable.",
+  "priorite": 3,
+  "requetes": [
+   "recessed entrance mat",
+   "tapis de propreté encastré",
+   "entrance matting building"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "revetement-mural",
+  "terme": "le revêtement mural",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Couche de finition appliquée sur un mur intérieur : peinture, faïence, papier peint, lambris, etc.",
+  "priorite": 1,
+  "requetes": [
+   "interior wall covering",
+   "revêtement mural",
+   "wall finish interior"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "faience",
+  "terme": "la faïence",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Carreaux de céramique émaillée collés sur les murs de cuisines et salles de bains.",
+  "priorite": 1,
+  "requetes": [
+   "bathroom wall tiles",
+   "faïence salle de bain",
+   "ceramic wall tiles"
+  ],
+  "incompatibles": [
+   "carrelage",
+   "revetement-mural"
+  ]
+ },
+ {
+  "id": "listel",
+  "terme": "le listel",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Étroite bande décorative de carreaux insérée dans une faïence murale.",
+  "priorite": 2,
+  "requetes": [
+   "tile border strip bathroom",
+   "listel faïence",
+   "decorative tile border"
+  ],
+  "incompatibles": [
+   "faience",
+   "frise"
+  ]
+ },
+ {
+  "id": "credence",
+  "terme": "la crédence",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement mural protecteur posé au-dessus du plan de travail d'une cuisine.",
+  "priorite": 2,
+  "requetes": [
+   "kitchen backsplash",
+   "crédence cuisine",
+   "kitchen tile backsplash"
+  ],
+  "incompatibles": [
+   "faience",
+   "plan-de-travail"
+  ]
+ },
+ {
+  "id": "carreau-metro",
+  "terme": "le carreau métro",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Faïence rectangulaire blanche biseautée, posée à joints décalés, inspirée du métro parisien.",
+  "priorite": 3,
+  "requetes": [
+   "subway tiles white bevelled",
+   "carrelage métro",
+   "subway tile wall"
+  ],
+  "incompatibles": [
+   "faience"
+  ]
+ },
+ {
+  "id": "zellige",
+  "terme": "le zellige",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Petits carreaux de terre cuite émaillée marocains, brillants et irréguliers, posés en mur ou en mosaïque.",
+  "priorite": 3,
+  "requetes": [
+   "zellige tiles",
+   "zellige marocain",
+   "incategory:\"Zellige\""
+  ],
+  "incompatibles": [
+   "faience"
+  ]
+ },
+ {
+  "id": "mosaique-de-pate-de-verre",
+  "terme": "la mosaïque de pâte de verre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Petits carreaux de verre coloré collés sur trame, posés dans les douches et les piscines.",
+  "priorite": 2,
+  "requetes": [
+   "glass mosaic tiles",
+   "mosaïque pâte de verre",
+   "glass mosaic bathroom"
+  ],
+  "incompatibles": [
+   "faience"
+  ]
+ },
+ {
+  "id": "etancheite-liquide",
+  "terme": "l'étanchéité liquide",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Résine appliquée au rouleau sur les sols et murs de douche avant carrelage, formant une couche continue souvent grise ou bleue.",
+  "priorite": 2,
+  "requetes": [
+   "liquid waterproofing membrane shower",
+   "étanchéité sous carrelage",
+   "shower waterproofing membrane"
+  ],
+  "incompatibles": [
+   "natte-d-etancheite"
+  ]
+ },
+ {
+  "id": "natte-d-etancheite",
+  "terme": "la natte d'étanchéité",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Membrane souple en plastique, souvent orange, collée sous le carrelage des pièces humides.",
+  "priorite": 3,
+  "requetes": [
+   "waterproofing membrane under tile orange",
+   "natte d'étanchéité",
+   "uncoupling membrane tile"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "joint-silicone",
+  "terme": "le joint silicone",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Cordon de mastic souple et étanche posé autour des sanitaires, des plans de travail et dans les angles.",
+  "priorite": 1,
+  "requetes": [
+   "silicone sealant bathtub",
+   "joint silicone",
+   "caulking bathroom silicone"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "fond-de-joint",
+  "terme": "le fond de joint",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Cordon de mousse enfoncé dans un joint large avant le mastic pour en régler la profondeur.",
+  "priorite": 3,
+  "requetes": [
+   "backer rod joint",
+   "fond de joint mousse",
+   "backer rod sealant"
+  ],
+  "incompatibles": [
+   "joint-silicone"
+  ]
+ },
+ {
+  "id": "couvre-joint",
+  "terme": "le couvre-joint",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Profilé métallique ou plastique qui recouvre un joint entre deux revêtements ou deux parties d'ouvrage.",
+  "priorite": 3,
+  "requetes": [
+   "expansion joint cover profile floor",
+   "couvre-joint",
+   "floor expansion joint cover"
+  ],
+  "incompatibles": [
+   "joint-de-fractionnement"
+  ]
+ },
+ {
+  "id": "peinture",
+  "terme": "la peinture",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Couche colorée appliquée au rouleau ou au pinceau sur un mur ou un plafond.",
+  "priorite": 1,
+  "requetes": [
+   "painting interior wall roller",
+   "peinture mur intérieur",
+   "incategory:\"Painted walls\""
+  ],
+  "incompatibles": [
+   "revetement-mural"
+  ]
+ },
+ {
+  "id": "papier-peint",
+  "terme": "le papier peint",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement mural en rouleaux de papier ou de vinyle imprimé, collé au mur.",
+  "priorite": 2,
+  "requetes": [
+   "wallpaper wall",
+   "papier peint",
+   "incategory:\"Wallpapers\""
+  ],
+  "incompatibles": [
+   "revetement-mural"
+  ]
+ },
+ {
+  "id": "toile-de-verre",
+  "terme": "la toile de verre",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement mural en tissu de fibres de verre à relief léger, collé puis peint.",
+  "priorite": 3,
+  "requetes": [
+   "fiberglass wallcovering",
+   "toile de verre",
+   "glass fibre wall covering"
+  ],
+  "incompatibles": [
+   "papier-peint",
+   "peinture"
+  ]
+ },
+ {
+  "id": "tadelakt",
+  "terme": "le tadelakt",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Enduit marocain à la chaux, lissé et poli au galet, étanche et brillant, posé en salles d'eau.",
+  "priorite": 3,
+  "requetes": [
+   "tadelakt",
+   "tadelakt salle de bain",
+   "tadelakt plaster"
+  ],
+  "incompatibles": [
+   "beton-cire",
+   "stuc-venitien"
+  ]
+ },
+ {
+  "id": "stuc-venitien",
+  "terme": "le stuc vénitien",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Enduit décoratif à la chaux et poudre de marbre, lissé en couches fines, à reflet marbré et brillant.",
+  "priorite": 3,
+  "requetes": [
+   "venetian plaster wall",
+   "stuc vénitien",
+   "polished venetian plaster"
+  ],
+  "incompatibles": [
+   "beton-cire"
+  ]
+ },
+ {
+  "id": "lambris",
+  "terme": "le lambris",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Revêtement de mur ou de plafond fait de lames de bois emboîtées.",
+  "priorite": 2,
+  "requetes": [
+   "wood paneling wall",
+   "lambris bois",
+   "tongue and groove wood ceiling"
+  ],
+  "incompatibles": [
+   "boiserie"
+  ]
+ },
+ {
+  "id": "boiserie",
+  "terme": "la boiserie",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Habillage mural en panneaux de bois moulurés, typique des intérieurs anciens.",
+  "priorite": 3,
+  "requetes": [
+   "wood panelled room",
+   "boiseries",
+   "incategory:\"Boiseries\""
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "cimaise",
+  "terme": "la cimaise",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Moulure horizontale fixée à mi-hauteur d'un mur, qui protège la paroi ou sert à accrocher des tableaux.",
+  "priorite": 3,
+  "requetes": [
+   "chair rail molding wall",
+   "cimaise murale",
+   "picture rail molding"
+  ],
+  "incompatibles": [
+   "boiserie"
+  ]
+ },
+ {
+  "id": "placard",
+  "terme": "le placard",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Rangement intégré dans l'épaisseur d'un mur ou entre deux cloisons, fermé par des portes.",
+  "priorite": 2,
+  "requetes": [
+   "built-in closet",
+   "placard intégré",
+   "built-in wardrobe sliding doors"
+  ],
+  "incompatibles": [
+   "dressing"
+  ]
+ },
+ {
+  "id": "dressing",
+  "terme": "le dressing",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Pièce ou grand placard aménagé de penderies, étagères et tiroirs pour ranger les vêtements.",
+  "priorite": 3,
+  "requetes": [
+   "walk-in closet",
+   "dressing aménagé",
+   "walk in wardrobe"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "plan-de-travail",
+  "terme": "le plan de travail",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Tablette horizontale de cuisine en granit, bois, stratifié ou carrelage, posée sur les meubles bas.",
+  "priorite": 1,
+  "requetes": [
+   "kitchen countertop granite",
+   "plan de travail cuisine",
+   "kitchen worktop"
+  ],
+  "incompatibles": []
+ },
+ {
+  "id": "mousse-expansive",
+  "terme": "la mousse expansive",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Mousse polyuréthane jaune projetée à la bombe, qui gonfle pour combler les vides autour des menuiseries et des traversées de gaines.",
+  "priorite": 2,
+  "requetes": [
+   "expanding foam window frame gap",
+   "mousse expansive",
+   "spray foam sealant window"
+  ],
+  "incompatibles": [
+   "mousse-polyurethane-projetee"
+  ]
+ },
+ {
+  "id": "enduit-de-lissage",
+  "terme": "l'enduit de lissage",
+  "categorie": "Second œuvre et finitions",
+  "definition": "Enduit fin, blanc, étalé au couteau en couches minces sur un mur ou des plaques de plâtre pour obtenir une surface lisse avant peinture.",
+  "priorite": 2,
+  "requetes": [
+   "skim coat wall drywall",
+   "enduit de lissage mur",
+   "skim coating plaster wall"
+  ],
+  "incompatibles": [
+   "enduit-de-platre",
+   "bande-a-joint"
+  ]
+ }
+]

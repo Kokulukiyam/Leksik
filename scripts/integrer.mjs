@@ -57,10 +57,16 @@ function entree(terme, nn, fichier, c, v1, v2) {
 const imagesCommons = [];
 const rapport = [];
 const abandonnes = [];
+const enAttente = [];
 const sansContre = [];
 
 for (const terme of candidats) {
-  const meta = await lireJson(path.join(TMP, "commons", terme.id, "meta.json"), { candidats: [] });
+  const meta = await lireJson(path.join(TMP, "commons", terme.id, "meta.json"), null);
+  // Pas encore cherché sur Commons : ni intégré ni abandonné.
+  if (!meta) {
+    enAttente.push(terme);
+    continue;
+  }
   const premiere = await lireJson(path.join(TMP, "verif", "premiere", `${terme.id}.json`), { candidats: [] });
   const verdicts = new Map(premiere.candidats.map((c) => [c.fichier, c]));
   const lignes = [];
@@ -92,8 +98,11 @@ for (const terme of candidats) {
     await sharp(source).rotate().resize({ width: 1600, withoutEnlargement: true }).webp({ quality: 82 }).toFile(cible);
     imagesCommons.push(entree(terme, nn, fichier, c, v1, v2));
   }
-  if (!retenues) abandonnes.push(terme);
-  rapport.push({ terme, lignes, retenues });
+  // Vérifications pas terminées pour ce terme : il n'est pas encore abandonné.
+  const enCours = lignes.some(({ v1, v2 }) => !v1 || (v1.verdict === "validée" && !v2));
+  if (enCours) enAttente.push(terme);
+  else if (!retenues) abandonnes.push(terme);
+  rapport.push({ terme, lignes, retenues, enCours });
 }
 
 if (sansContre.length) {
@@ -106,7 +115,9 @@ const idsUtiles = new Set([...imagesCommons.map((i) => i.termId), ...perso.map((
 const terms = [];
 for (const t of candidats) {
   // scripts/termes-candidats.json fait foi pour les termes de départ (corrections de relecture comprises).
-  if (idsUtiles.has(t.id)) terms.push({ id: t.id, terme: t.terme, definition: t.definition, categorie: t.categorie });
+  if (!idsUtiles.has(t.id)) continue;
+  const inc = (t.incompatibles ?? []).filter((id) => candidats.some((x) => x.id === id));
+  terms.push({ id: t.id, terme: t.terme, definition: t.definition, categorie: t.categorie, ...(t.priorite ? { priorite: t.priorite } : {}), ...(inc.length ? { incompatibles: inc } : {}) });
 }
 for (const t of termsActuels) if (idsUtiles.has(t.id) && !terms.some((x) => x.id === t.id)) terms.push(t);
 
@@ -130,19 +141,20 @@ const md = [
   "",
   "Une image n'est retenue que si les deux vérifications la valident.",
   "",
-  `Résultat : ${terms.filter((t) => imagesCommons.some((i) => i.termId === t.id)).length} termes illustrés, ${imagesCommons.length} images retenues, ${abandonnes.length} termes abandonnés faute d'image fiable.`,
+  `Résultat : ${terms.filter((t) => imagesCommons.some((i) => i.termId === t.id)).length} termes illustrés, ${imagesCommons.length} images retenues, ${abandonnes.length} termes abandonnés faute d'image fiable${enAttente.length ? `, ${enAttente.length} termes pas encore traités` : ""}.`,
   "",
 ];
 if (abandonnes.length) {
   md.push("## Termes abandonnés", "", ...abandonnes.map((t) => `- ${t.terme} (${t.categorie})`), "");
 }
 let categorie = "";
-for (const { terme, lignes, retenues } of [...rapport].sort((a, b) => a.terme.categorie.localeCompare(b.terme.categorie, "fr"))) {
+for (const { terme, lignes, retenues, enCours } of [...rapport].sort((a, b) => a.terme.categorie.localeCompare(b.terme.categorie, "fr"))) {
   if (terme.categorie !== categorie) {
     categorie = terme.categorie;
     md.push(`## ${categorie}`, "");
   }
-  md.push(`### ${terme.terme} — ${retenues ? `${retenues} image${retenues > 1 ? "s" : ""} retenue${retenues > 1 ? "s" : ""}` : "abandonné"}`, "");
+  const etat = retenues ? `${retenues} image${retenues > 1 ? "s" : ""} retenue${retenues > 1 ? "s" : ""}` : "abandonné";
+  md.push(`### ${terme.terme} — ${etat}${enCours ? " (vérification en cours)" : ""}`, "");
   md.push(`*${terme.definition}*`, "");
   if (!lignes.length) md.push("Aucune image candidate trouvée sur Commons.", "");
   for (const { nn, c, v1, v2, ok } of lignes) {
@@ -168,3 +180,4 @@ for (const t of terms) {
 }
 console.table(parCat);
 console.log(`Abandonnés : ${abandonnes.map((t) => t.terme).join(", ") || "aucun"}`);
+console.log(`Total : ${terms.length} termes, ${imagesCommons.length + perso.length} images ; pas encore traités : ${enAttente.length}`);

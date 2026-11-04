@@ -1,0 +1,2251 @@
+[
+  {
+    "id": "granite",
+    "terme": "le granite",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Roche magmatique dure et grenue, mouchetée de grains clairs et sombres, employée en dalles, bordures ou parements.",
+    "priorite": 2,
+    "requetes": [
+      "granite cladding facade",
+      "granite polished slab",
+      "granit"
+    ],
+    "incompatibles": [
+      "pierre-de-taille"
+    ]
+  },
+  {
+    "id": "marbre",
+    "terme": "le marbre",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre calcaire cristalline, souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.",
+    "priorite": 1,
+    "requetes": [
+      "white marble veined slab",
+      "marble cladding wall",
+      "marbre veiné"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "calcaire",
+    "terme": "le calcaire",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre sédimentaire tendre à mi-dure, généralement blanche à beige, très employée en pierre de taille et en moellons.",
+    "priorite": 2,
+    "requetes": [
+      "limestone wall building",
+      "limestone blocks",
+      "mur en calcaire"
+    ],
+    "incompatibles": [
+      "pierre-de-taille",
+      "moellon",
+      "tuffeau",
+      "travertin"
+    ]
+  },
+  {
+    "id": "gres",
+    "terme": "le grès",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre sédimentaire formée de grains de sable cimentés, souvent ocre, rose ou rouge, au toucher rugueux.",
+    "priorite": 3,
+    "requetes": [
+      "red sandstone wall",
+      "sandstone building facade",
+      "mur en grès"
+    ],
+    "incompatibles": [
+      "pierre-de-taille",
+      "moellon"
+    ]
+  },
+  {
+    "id": "travertin",
+    "terme": "le travertin",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Calcaire beige criblé de petites cavités allongées, employé en dallage et en revêtement de façade.",
+    "priorite": 3,
+    "requetes": [
+      "travertine cladding",
+      "travertine stone texture",
+      "travertin dallage"
+    ],
+    "incompatibles": [
+      "marbre"
+    ]
+  },
+  {
+    "id": "basalte",
+    "terme": "le basalte",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Roche volcanique très sombre, gris foncé à noire, dure et à grain fin, employée en moellons et en pavés.",
+    "priorite": 2,
+    "requetes": [
+      "basalt stone wall",
+      "basalt masonry",
+      "mur en basalte"
+    ],
+    "incompatibles": [
+      "moellon"
+    ]
+  },
+  {
+    "id": "meuliere",
+    "terme": "la meulière",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre siliceuse brune et caverneuse, très employée en moellons apparents dans les pavillons d'Île-de-France.",
+    "priorite": 3,
+    "requetes": [
+      "meulière maison",
+      "millstone grit house Paris suburb",
+      "pavillon en meulière"
+    ],
+    "incompatibles": [
+      "moellon"
+    ]
+  },
+  {
+    "id": "tuffeau",
+    "terme": "le tuffeau",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Calcaire tendre très blanc du Val de Loire, taillé en blocs pour les façades et les châteaux.",
+    "priorite": 3,
+    "requetes": [
+      "tuffeau façade",
+      "tuffeau stone Loire",
+      "tufa limestone Loire chateau wall"
+    ],
+    "incompatibles": [
+      "pierre-de-taille",
+      "calcaire"
+    ]
+  },
+  {
+    "id": "silex",
+    "terme": "le silex",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre très dure noire ou grise à cassure luisante, posée en rognons ou taillée dans les murs.",
+    "priorite": 3,
+    "requetes": [
+      "flint wall",
+      "knapped flint wall",
+      "mur en silex"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "galet",
+    "terme": "le galet",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre arrondie et lisse polie par l'eau, employée en mur, en sol ou en décoration.",
+    "priorite": 3,
+    "requetes": [
+      "pebble wall",
+      "river stone wall",
+      "mur en galets"
+    ],
+    "incompatibles": [
+      "moellon"
+    ]
+  },
+  {
+    "id": "sable",
+    "terme": "le sable",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Granulat très fin, issu de roches désagrégées, utilisé pour les mortiers et les bétons, souvent livré en tas sur chantier.",
+    "priorite": 1,
+    "requetes": [
+      "sand pile construction site",
+      "building sand heap",
+      "tas de sable chantier"
+    ],
+    "incompatibles": [
+      "gravier"
+    ]
+  },
+  {
+    "id": "gravier",
+    "terme": "le gravier",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Granulat de petites pierres concassées ou roulées, utilisé dans les bétons ou en couche de surface.",
+    "priorite": 1,
+    "requetes": [
+      "gravel pile construction",
+      "crushed stone aggregate heap",
+      "tas de gravier"
+    ],
+    "incompatibles": [
+      "sable",
+      "galet"
+    ]
+  },
+  {
+    "id": "ciment",
+    "terme": "le ciment",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Poudre grise qui durcit au contact de l'eau, liant des mortiers et des bétons, livrée en sacs.",
+    "priorite": 1,
+    "requetes": [
+      "cement bags",
+      "sac de ciment",
+      "portland cement bags stack"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "chaux",
+    "terme": "la chaux",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Liant blanc obtenu par cuisson du calcaire, employé dans les mortiers, les enduits et les badigeons.",
+    "priorite": 2,
+    "requetes": [
+      "lime powder bag building",
+      "chaux sac",
+      "slaked lime putty"
+    ],
+    "incompatibles": [
+      "enduit-a-la-chaux"
+    ]
+  },
+  {
+    "id": "platre",
+    "terme": "le plâtre",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Poudre blanche de gypse qui, gâchée à l'eau, forme une pâte durcissant vite, utilisée en enduits et moulages.",
+    "priorite": 2,
+    "requetes": [
+      "plaster of paris powder",
+      "plâtre gâché",
+      "gypsum plaster bag"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "beton",
+    "terme": "le béton",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau fait de ciment, de sable, de gravier et d'eau qui durcit en une masse de pierre artificielle grise.",
+    "priorite": 1,
+    "requetes": [
+      "concrete wall",
+      "concrete surface texture",
+      "béton"
+    ],
+    "incompatibles": [
+      "beton-brut"
+    ]
+  },
+  {
+    "id": "mortier",
+    "terme": "le mortier",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Mélange de liant, de sable et d'eau qui sert à hourder les blocs et à faire les enduits.",
+    "priorite": 1,
+    "requetes": [
+      "mortar mixing",
+      "fresh mortar trowel",
+      "mortier maçonnerie"
+    ],
+    "incompatibles": [
+      "ciment",
+      "sable"
+    ]
+  },
+  {
+    "id": "beton-desactive",
+    "terme": "le béton désactivé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Béton dont on a éliminé la laitance en surface pour faire apparaître les graviers.",
+    "priorite": 2,
+    "requetes": [
+      "exposed aggregate concrete",
+      "béton désactivé",
+      "washed concrete surface"
+    ],
+    "incompatibles": [
+      "beton"
+    ]
+  },
+  {
+    "id": "beton-boucharde",
+    "terme": "le béton bouchardé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Béton dont la surface a été piquetée à la boucharde, ce qui lui donne un aspect granuleux et mat.",
+    "priorite": 3,
+    "requetes": [
+      "bush hammered concrete",
+      "béton bouchardé",
+      "bush-hammered concrete wall"
+    ],
+    "incompatibles": [
+      "beton",
+      "beton-brut"
+    ]
+  },
+  {
+    "id": "beton-matrice",
+    "terme": "le béton matricé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Béton apparent dont la surface porte un relief décoratif obtenu par une matrice placée dans le coffrage.",
+    "priorite": 3,
+    "requetes": [
+      "form liner concrete",
+      "béton matricé",
+      "textured concrete relief wall"
+    ],
+    "incompatibles": [
+      "beton",
+      "beton-brut"
+    ]
+  },
+  {
+    "id": "beton-imprime",
+    "terme": "le béton imprimé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Dalle de béton coloré dont la surface est estampée pour imiter des pavés, des dalles ou du bois.",
+    "priorite": 3,
+    "requetes": [
+      "stamped concrete",
+      "béton imprimé",
+      "stamped concrete patio"
+    ],
+    "incompatibles": [
+      "beton"
+    ]
+  },
+  {
+    "id": "beton-cellulaire",
+    "terme": "le béton cellulaire",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Béton léger, blanc et très poreux, vendu en gros blocs réguliers faciles à scier.",
+    "priorite": 2,
+    "requetes": [
+      "aerated concrete blocks",
+      "autoclaved aerated concrete wall",
+      "béton cellulaire"
+    ],
+    "incompatibles": [
+      "parpaing"
+    ]
+  },
+  {
+    "id": "beton-prefabrique",
+    "terme": "le béton préfabriqué",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Éléments de béton coulés en usine (panneaux, poutres, escaliers) puis posés sur le chantier.",
+    "priorite": 2,
+    "requetes": [
+      "precast concrete panels",
+      "precast concrete element crane",
+      "béton préfabriqué"
+    ],
+    "incompatibles": [
+      "beton"
+    ]
+  },
+  {
+    "id": "brique-creuse",
+    "terme": "la brique creuse",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Brique de terre cuite percée de nombreux alvéoles parallèles, posée en murs à enduire.",
+    "priorite": 1,
+    "requetes": [
+      "hollow clay brick",
+      "brique creuse",
+      "hollow terracotta block wall"
+    ],
+    "incompatibles": [
+      "brique"
+    ]
+  },
+  {
+    "id": "brique-pleine",
+    "terme": "la brique pleine",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Brique de terre cuite massive, sans alvéoles, souvent laissée apparente.",
+    "priorite": 2,
+    "requetes": [
+      "solid clay brick",
+      "brique pleine",
+      "solid brick stack"
+    ],
+    "incompatibles": [
+      "brique"
+    ]
+  },
+  {
+    "id": "brique-de-terre-comprimee",
+    "terme": "la brique de terre comprimée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bloc de terre crue légèrement stabilisée, compacté à la presse, aux arêtes nettes ; on dit couramment BTC.",
+    "priorite": 2,
+    "requetes": [
+      "compressed earth block",
+      "brique de terre comprimée",
+      "compressed earth blocks wall Africa"
+    ],
+    "incompatibles": [
+      "brique",
+      "banco"
+    ]
+  },
+  {
+    "id": "brique-vernissee",
+    "terme": "la brique vernissée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Brique de terre cuite revêtue d'un émail brillant et coloré.",
+    "priorite": 3,
+    "requetes": [
+      "glazed brick facade",
+      "brique vernissée",
+      "glazed bricks wall"
+    ],
+    "incompatibles": [
+      "brique"
+    ]
+  },
+  {
+    "id": "brique-de-verre",
+    "terme": "la brique de verre",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bloc creux de verre moulé, translucide, maçonné pour former une paroi qui laisse passer la lumière.",
+    "priorite": 2,
+    "requetes": [
+      "glass block wall",
+      "brique de verre",
+      "glass bricks"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "plaquette-de-parement",
+    "terme": "la plaquette de parement",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Mince plaquette de terre cuite ou de pierre collée sur un mur pour imiter une maçonnerie apparente.",
+    "priorite": 2,
+    "requetes": [
+      "brick slips wall",
+      "plaquette de parement",
+      "brick veneer tiles"
+    ],
+    "incompatibles": [
+      "brique",
+      "parement-en-pierre"
+    ]
+  },
+  {
+    "id": "parement-en-pierre",
+    "terme": "le parement en pierre",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Revêtement de façade en plaques ou moellons de pierre collés ou agrafés devant un mur porteur.",
+    "priorite": 2,
+    "requetes": [
+      "stone veneer facade",
+      "parement pierre façade",
+      "stone cladding wall"
+    ],
+    "incompatibles": [
+      "moellon",
+      "pierre-de-taille",
+      "pierre-reconstituee"
+    ]
+  },
+  {
+    "id": "pierre-reconstituee",
+    "terme": "la pierre reconstituée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau moulé à base de ciment et de granulats de pierre, qui imite la pierre naturelle.",
+    "priorite": 3,
+    "requetes": [
+      "cast stone",
+      "pierre reconstituée",
+      "cast stone facade elements"
+    ],
+    "incompatibles": [
+      "pierre-de-taille",
+      "parement-en-pierre"
+    ]
+  },
+  {
+    "id": "pierre-bouchardee",
+    "terme": "la pierre bouchardée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre dont la face a été piquetée à la boucharde, ce qui lui donne une surface finement grêlée.",
+    "priorite": 3,
+    "requetes": [
+      "bush hammered granite",
+      "pierre bouchardée",
+      "bush hammered stone surface"
+    ],
+    "incompatibles": [
+      "pierre-de-taille",
+      "granite"
+    ]
+  },
+  {
+    "id": "bois",
+    "terme": "le bois",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau issu du tronc des arbres, débité en pièces ou en planches, utilisé en structure, menuiserie et revêtement.",
+    "priorite": 1,
+    "requetes": [
+      "timber planks stack",
+      "sawn lumber",
+      "bois de construction"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "contreplaque",
+    "terme": "le contreplaqué",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Panneau formé de fines feuilles de bois collées à fil croisé, dont la tranche montre les couches.",
+    "priorite": 1,
+    "requetes": [
+      "plywood sheets",
+      "plywood edge layers",
+      "contreplaqué"
+    ],
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "panneau-osb",
+    "terme": "le panneau OSB",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Panneau de grandes lamelles de bois orientées et collées, reconnaissable à son aspect de copeaux.",
+    "priorite": 2,
+    "requetes": [
+      "OSB board",
+      "oriented strand board texture",
+      "panneau OSB"
+    ],
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "lamelle-colle",
+    "terme": "le lamellé-collé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bois formé de lamelles collées entre elles, en poutres de grande portée dont la tranche montre les strates.",
+    "priorite": 2,
+    "requetes": [
+      "glued laminated timber beams",
+      "glulam structure",
+      "lamellé-collé"
+    ],
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "bambou",
+    "terme": "le bambou",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Grande tige creuse et nouée d'une graminée, employée en structure légère, en échafaudage ou en revêtement.",
+    "priorite": 2,
+    "requetes": [
+      "bamboo construction",
+      "bamboo building structure",
+      "construction en bambou"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "madrier",
+    "terme": "le madrier",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pièce de bois de sciage épaisse et large, utilisée en charpente, en coffrage ou en platelage.",
+    "priorite": 2,
+    "requetes": [
+      "timber baulk",
+      "madrier bois",
+      "thick wooden planks stack"
+    ],
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "rondin",
+    "terme": "le rondin",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Tronc d'arbre écorcé, laissé rond, utilisé empilé en murs ou en poteaux.",
+    "priorite": 3,
+    "requetes": [
+      "log cabin wall",
+      "log construction",
+      "maison en rondins"
+    ],
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "bardeau",
+    "terme": "le bardeau",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Petite planchette de bois fendu posée en recouvrement sur un toit ou une façade, comme des écailles.",
+    "priorite": 3,
+    "requetes": [
+      "wooden shingles",
+      "wood shingle roof",
+      "bardeaux de bois"
+    ],
+    "incompatibles": [
+      "bardage",
+      "tuile"
+    ]
+  },
+  {
+    "id": "bardage-a-clin",
+    "terme": "le bardage à clin",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bardage de planches horizontales posées en recouvrement, chacune chevauchant celle du dessous.",
+    "priorite": 3,
+    "requetes": [
+      "clapboard siding",
+      "bardage à clin",
+      "lap siding house"
+    ],
+    "incompatibles": [
+      "bardage"
+    ]
+  },
+  {
+    "id": "bardage-metallique",
+    "terme": "le bardage métallique",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Revêtement de façade en tôles ou cassettes métalliques nervurées, typique des bâtiments industriels.",
+    "priorite": 2,
+    "requetes": [
+      "metal cladding facade",
+      "bardage métallique",
+      "steel cladding industrial building"
+    ],
+    "incompatibles": [
+      "bardage",
+      "tole-ondulee",
+      "panneau-sandwich"
+    ]
+  },
+  {
+    "id": "bois-brule",
+    "terme": "le bois brûlé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bois de bardage dont la surface est carbonisée, noire et craquelée, pour la protéger.",
+    "priorite": 3,
+    "requetes": [
+      "shou sugi ban",
+      "charred wood cladding",
+      "yakisugi facade"
+    ],
+    "incompatibles": [
+      "bardage",
+      "bois"
+    ]
+  },
+  {
+    "id": "bois-composite",
+    "terme": "le bois composite",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau de fibres de bois et de plastique, moulé en lames rainurées pour terrasses et bardages.",
+    "priorite": 3,
+    "requetes": [
+      "composite decking",
+      "wood plastic composite boards",
+      "lames composite terrasse"
+    ],
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "acier",
+    "terme": "l'acier",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Alliage de fer et de carbone, utilisé en profilés, en tôles et en armatures.",
+    "priorite": 1,
+    "requetes": [
+      "steel beams stack",
+      "steel profiles",
+      "structural steel sections"
+    ],
+    "incompatibles": [
+      "acier-galvanise",
+      "inox",
+      "acier-corten"
+    ]
+  },
+  {
+    "id": "acier-corten",
+    "terme": "l'acier Corten",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Acier qui se couvre d'une rouille brun orangé stable et protectrice, laissé apparent en façade.",
+    "priorite": 2,
+    "requetes": [
+      "corten steel facade",
+      "weathering steel cladding",
+      "acier corten"
+    ],
+    "incompatibles": [
+      "acier"
+    ]
+  },
+  {
+    "id": "acier-galvanise",
+    "terme": "l'acier galvanisé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Acier recouvert de zinc, d'aspect gris argenté mat, souvent pailleté, qui le protège de la rouille.",
+    "priorite": 2,
+    "requetes": [
+      "galvanized steel",
+      "hot dip galvanized steel surface",
+      "acier galvanisé"
+    ],
+    "incompatibles": [
+      "acier"
+    ]
+  },
+  {
+    "id": "inox",
+    "terme": "l'inox",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Acier inoxydable, brillant ou brossé, qui ne rouille pas, employé en garde-corps, habillages et équipements.",
+    "priorite": 2,
+    "requetes": [
+      "stainless steel railing",
+      "brushed stainless steel",
+      "inox"
+    ],
+    "incompatibles": [
+      "acier",
+      "aluminium"
+    ]
+  },
+  {
+    "id": "aluminium",
+    "terme": "l'aluminium",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Métal léger gris clair, employé en profilés de menuiserie, en tôles et en panneaux de façade.",
+    "priorite": 1,
+    "requetes": [
+      "aluminium profiles",
+      "aluminum extrusion profiles",
+      "profilés aluminium"
+    ],
+    "incompatibles": [
+      "inox"
+    ]
+  },
+  {
+    "id": "cuivre",
+    "terme": "le cuivre",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Métal rougeâtre qui se patine en brun puis en vert-de-gris, employé en couverture et en habillage.",
+    "priorite": 3,
+    "requetes": [
+      "copper roof patina",
+      "copper cladding facade",
+      "toiture en cuivre"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "laiton",
+    "terme": "le laiton",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Alliage jaune doré de cuivre et de zinc, employé en quincaillerie, en profils et en décor.",
+    "priorite": 3,
+    "requetes": [
+      "brass door handle",
+      "brass hardware",
+      "laiton"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "fonte",
+    "terme": "la fonte",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Alliage de fer coulé en moule, lourd et cassant, employé en colonnes, grilles, regards et éléments décoratifs.",
+    "priorite": 3,
+    "requetes": [
+      "cast iron columns",
+      "cast iron architecture",
+      "fonte colonne"
+    ],
+    "incompatibles": [
+      "fer-forge"
+    ]
+  },
+  {
+    "id": "fer-forge",
+    "terme": "le fer forgé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Fer travaillé à chaud au marteau en barres tordues, volutes et pointes, pour grilles, balcons et rampes.",
+    "priorite": 1,
+    "requetes": [
+      "wrought iron railing",
+      "wrought iron gate",
+      "fer forgé"
+    ],
+    "incompatibles": [
+      "fonte",
+      "garde-corps"
+    ]
+  },
+  {
+    "id": "tole-perforee",
+    "terme": "la tôle perforée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Tôle percée de trous réguliers, employée en habillage, en garde-corps ou en brise-vue.",
+    "priorite": 2,
+    "requetes": [
+      "perforated metal facade",
+      "perforated metal sheet",
+      "tôle perforée"
+    ],
+    "incompatibles": [
+      "metal-deploye"
+    ]
+  },
+  {
+    "id": "metal-deploye",
+    "terme": "le métal déployé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Tôle incisée puis étirée qui forme un réseau de mailles en losange.",
+    "priorite": 3,
+    "requetes": [
+      "expanded metal mesh",
+      "expanded metal facade",
+      "métal déployé"
+    ],
+    "incompatibles": [
+      "tole-perforee"
+    ]
+  },
+  {
+    "id": "tole-larmee",
+    "terme": "la tôle larmée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Tôle d'acier antidérapante dont la surface porte de petits reliefs en forme de larmes.",
+    "priorite": 3,
+    "requetes": [
+      "checker plate steel",
+      "diamond plate steel floor",
+      "tôle larmée"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "panneau-sandwich",
+    "terme": "le panneau sandwich",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Panneau formé de deux tôles nervurées enserrant un isolant, posé en toiture ou en bardage.",
+    "priorite": 2,
+    "requetes": [
+      "sandwich panel",
+      "insulated sandwich panel cut",
+      "panneau sandwich"
+    ],
+    "incompatibles": [
+      "bardage-metallique",
+      "tole-ondulee",
+      "polystyrene-expanse"
+    ]
+  },
+  {
+    "id": "panneau-composite-aluminium",
+    "terme": "le panneau composite aluminium",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Panneau plan et lisse de deux feuilles d'aluminium laquées collées sur une âme, posé en cassettes sur les façades.",
+    "priorite": 2,
+    "requetes": [
+      "aluminium composite panel facade",
+      "ACM cladding building",
+      "panneau composite aluminium façade"
+    ],
+    "incompatibles": [
+      "bardage",
+      "aluminium"
+    ]
+  },
+  {
+    "id": "verre-arme",
+    "terme": "le verre armé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Verre dans lequel est noyé un treillis de fils métalliques visible.",
+    "priorite": 3,
+    "requetes": [
+      "wired glass",
+      "wire mesh glass",
+      "verre armé"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "verre-depoli",
+    "terme": "le verre dépoli",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Verre rendu translucide par une surface mate qui laisse passer la lumière mais pas la vue.",
+    "priorite": 2,
+    "requetes": [
+      "frosted glass window",
+      "verre dépoli",
+      "frosted glass door"
+    ],
+    "incompatibles": [
+      "verre-imprime"
+    ]
+  },
+  {
+    "id": "verre-imprime",
+    "terme": "le verre imprimé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Verre translucide dont une face porte un motif en relief.",
+    "priorite": 3,
+    "requetes": [
+      "patterned glass",
+      "textured glass window",
+      "verre imprimé"
+    ],
+    "incompatibles": [
+      "verre-depoli"
+    ]
+  },
+  {
+    "id": "verre-reflechissant",
+    "terme": "le verre réfléchissant",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Vitrage à couche métallique qui renvoie l'image comme un miroir, vu sur les façades de bureaux.",
+    "priorite": 2,
+    "requetes": [
+      "reflective glass facade",
+      "mirror glass building",
+      "verre réfléchissant façade"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "polycarbonate-alveolaire",
+    "terme": "le polycarbonate alvéolaire",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Plaque de plastique translucide à parois creuses parallèles, employée en couverture légère ou en façade.",
+    "priorite": 2,
+    "requetes": [
+      "polycarbonate roofing sheets",
+      "multiwall polycarbonate",
+      "polycarbonate alvéolaire"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "enduit",
+    "terme": "l'enduit",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Couche de mortier appliquée sur un mur pour le protéger et l'aplanir.",
+    "priorite": 1,
+    "requetes": [
+      "rendered wall",
+      "plastered wall exterior",
+      "enduit façade"
+    ],
+    "incompatibles": [
+      "beton"
+    ]
+  },
+  {
+    "id": "enduit-tyrolien",
+    "terme": "l'enduit tyrolien",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Enduit projeté à la machine qui laisse une surface rugueuse de petites aspérités, très répandu sur les façades.",
+    "priorite": 1,
+    "requetes": [
+      "tyrolean render",
+      "tyrolienne façade",
+      "roughcast render wall texture"
+    ],
+    "incompatibles": [
+      "enduit"
+    ]
+  },
+  {
+    "id": "enduit-gratte",
+    "terme": "l'enduit gratté",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Enduit dont la surface, grattée avant durcissement, présente un grain fin et régulier.",
+    "priorite": 2,
+    "requetes": [
+      "scraped render",
+      "enduit gratté",
+      "scraped finish render facade"
+    ],
+    "incompatibles": [
+      "enduit"
+    ]
+  },
+  {
+    "id": "enduit-taloche",
+    "terme": "l'enduit taloché",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Enduit lissé à la taloche, plan, au grain fin avec de légères traces circulaires.",
+    "priorite": 2,
+    "requetes": [
+      "floated render",
+      "enduit taloché",
+      "smooth render wall"
+    ],
+    "incompatibles": [
+      "enduit"
+    ]
+  },
+  {
+    "id": "enduit-a-la-chaux",
+    "terme": "l'enduit à la chaux",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Enduit souple et respirant à base de chaux, aux teintes douces et à la surface légèrement irrégulière.",
+    "priorite": 3,
+    "requetes": [
+      "lime render wall",
+      "enduit à la chaux",
+      "lime plaster facade"
+    ],
+    "incompatibles": [
+      "enduit",
+      "chaux"
+    ]
+  },
+  {
+    "id": "mosaique",
+    "terme": "la mosaïque",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Revêtement fait de petits fragments de pierre, de céramique ou de verre assemblés.",
+    "priorite": 2,
+    "requetes": [
+      "mosaic wall",
+      "mosaic floor",
+      "mosaïque"
+    ],
+    "incompatibles": [
+      "pate-de-verre"
+    ]
+  },
+  {
+    "id": "pate-de-verre",
+    "terme": "la pâte de verre",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Petits carreaux de verre coloré collés sur trame, en revêtement de piscines, de salles d'eau ou de façades.",
+    "priorite": 3,
+    "requetes": [
+      "glass mosaic tiles",
+      "pâte de verre",
+      "glass mosaic pool"
+    ],
+    "incompatibles": [
+      "mosaique"
+    ]
+  },
+  {
+    "id": "zellige",
+    "terme": "le zellige",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Petit carreau de terre cuite émaillée, taillé à la main, assemblé en motifs géométriques.",
+    "priorite": 3,
+    "requetes": [
+      "zellige",
+      "zellij tiles",
+      "zellige mosaic wall"
+    ],
+    "incompatibles": [
+      "mosaique"
+    ]
+  },
+  {
+    "id": "fibrociment",
+    "terme": "le fibrociment",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau de ciment et de fibres, gris clair, moulé en plaques ondulées ou planes.",
+    "priorite": 2,
+    "requetes": [
+      "fibre cement corrugated sheet",
+      "asbestos cement roof",
+      "fibrociment toiture"
+    ],
+    "incompatibles": [
+      "tole-ondulee"
+    ]
+  },
+  {
+    "id": "torchis",
+    "terme": "le torchis",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Mélange de terre et de paille appliqué sur un clayonnage de bois pour remplir les murs.",
+    "priorite": 3,
+    "requetes": [
+      "wattle and daub",
+      "torchis",
+      "wattle and daub wall"
+    ],
+    "incompatibles": [
+      "colombage"
+    ]
+  },
+  {
+    "id": "bauge",
+    "terme": "la bauge",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Terre crue mêlée de paille, empilée en couches épaisses et retaillée pour former des murs massifs.",
+    "priorite": 3,
+    "requetes": [
+      "cob wall",
+      "cob house",
+      "maison en bauge"
+    ],
+    "incompatibles": [
+      "pise",
+      "banco"
+    ]
+  },
+  {
+    "id": "botte-de-paille",
+    "terme": "la botte de paille",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Botte de paille compactée empilée comme un bloc pour monter des murs isolants.",
+    "priorite": 3,
+    "requetes": [
+      "straw bale construction",
+      "straw bale wall",
+      "construction en bottes de paille"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "polystyrene-expanse",
+    "terme": "le polystyrène expansé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Isolant blanc et léger fait de billes collées, vendu en plaques.",
+    "priorite": 2,
+    "requetes": [
+      "expanded polystyrene insulation boards",
+      "EPS insulation",
+      "polystyrène expansé"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "laine-de-verre",
+    "terme": "la laine de verre",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Isolant fibreux, souple, souvent jaune, vendu en rouleaux ou en panneaux.",
+    "priorite": 2,
+    "requetes": [
+      "glass wool insulation",
+      "fiberglass insulation roll",
+      "laine de verre"
+    ],
+    "incompatibles": [
+      "laine-de-roche"
+    ]
+  },
+  {
+    "id": "laine-de-roche",
+    "terme": "la laine de roche",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Isolant fibreux plus dense que la laine de verre, souvent vert-gris ou brun, vendu en panneaux.",
+    "priorite": 3,
+    "requetes": [
+      "rock wool insulation",
+      "mineral wool boards",
+      "laine de roche"
+    ],
+    "incompatibles": [
+      "laine-de-verre"
+    ]
+  },
+  {
+    "id": "efflorescence",
+    "terme": "l'efflorescence",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Dépôt blanchâtre de sels qui apparaît à la surface d'une maçonnerie ou d'un béton humide.",
+    "priorite": 3,
+    "requetes": [
+      "efflorescence brick wall",
+      "efflorescence concrete",
+      "salpêtre mur"
+    ],
+    "incompatibles": [
+      "brique"
+    ]
+  },
+  {
+    "id": "nid-de-cailloux",
+    "terme": "le nid de cailloux",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Défaut du béton apparent : zone où les graviers sont à nu, faute de laitance.",
+    "priorite": 3,
+    "requetes": [
+      "honeycombing concrete",
+      "concrete honeycomb defect",
+      "nid de cailloux béton"
+    ],
+    "incompatibles": [
+      "beton",
+      "beton-brut"
+    ]
+  },
+  {
+    "id": "moulure",
+    "terme": "la moulure",
+    "categorie": "Ornement",
+    "definition": "Ornement en relief, de profil constant, qui court le long d'un mur, d'un plafond ou d'un encadrement.",
+    "priorite": 1,
+    "requetes": [
+      "moulding plaster ceiling",
+      "architectural molding",
+      "moulure"
+    ],
+    "incompatibles": [
+      "corniche",
+      "bandeau"
+    ]
+  },
+  {
+    "id": "architrave",
+    "terme": "l'architrave",
+    "categorie": "Ornement",
+    "definition": "Partie inférieure de l'entablement, posée directement sur les chapiteaux des colonnes.",
+    "priorite": 2,
+    "requetes": [
+      "architrave classical temple",
+      "architrave columns",
+      "architrave entablement"
+    ],
+    "incompatibles": [
+      "entablement",
+      "frise",
+      "chapiteau"
+    ]
+  },
+  {
+    "id": "entablement",
+    "terme": "l'entablement",
+    "categorie": "Ornement",
+    "definition": "Couronnement horizontal porté par les colonnes, formé de l'architrave, de la frise et de la corniche.",
+    "priorite": 2,
+    "requetes": [
+      "entablature temple",
+      "classical entablature",
+      "entablement"
+    ],
+    "incompatibles": [
+      "architrave",
+      "frise",
+      "corniche",
+      "triglyphe",
+      "metope"
+    ]
+  },
+  {
+    "id": "triglyphe",
+    "terme": "le triglyphe",
+    "categorie": "Ornement",
+    "definition": "Panneau rectangulaire gravé de rainures verticales, qui alterne avec les métopes dans la frise dorique.",
+    "priorite": 3,
+    "requetes": [
+      "triglyphs metopes",
+      "doric frieze triglyph",
+      "triglyphe"
+    ],
+    "incompatibles": [
+      "metope",
+      "frise",
+      "entablement"
+    ]
+  },
+  {
+    "id": "metope",
+    "terme": "la métope",
+    "categorie": "Ornement",
+    "definition": "Panneau carré, lisse ou sculpté, placé entre deux triglyphes dans la frise dorique.",
+    "priorite": 3,
+    "requetes": [
+      "metope sculpted",
+      "Parthenon metope",
+      "métope"
+    ],
+    "incompatibles": [
+      "triglyphe",
+      "frise"
+    ]
+  },
+  {
+    "id": "volute",
+    "terme": "la volute",
+    "categorie": "Ornement",
+    "definition": "Ornement enroulé en spirale, typique du chapiteau ionique et des consoles.",
+    "priorite": 1,
+    "requetes": [
+      "ionic volute",
+      "volute scroll ornament",
+      "volute"
+    ],
+    "incompatibles": [
+      "chapiteau-ionique",
+      "console",
+      "chapiteau"
+    ]
+  },
+  {
+    "id": "feuille-d-acanthe",
+    "terme": "la feuille d'acanthe",
+    "categorie": "Ornement",
+    "definition": "Motif sculpté de larges feuilles découpées et recourbées, qui garnit notamment le chapiteau corinthien.",
+    "priorite": 2,
+    "requetes": [
+      "acanthus leaves carving",
+      "acanthus ornament",
+      "feuille d'acanthe"
+    ],
+    "incompatibles": [
+      "chapiteau-corinthien",
+      "chapiteau",
+      "rinceau"
+    ]
+  },
+  {
+    "id": "denticule",
+    "terme": "le denticule",
+    "categorie": "Ornement",
+    "definition": "Petit bloc rectangulaire répété en rang serré sous une corniche, comme une rangée de dents.",
+    "priorite": 2,
+    "requetes": [
+      "dentils cornice",
+      "dentil molding",
+      "denticules corniche"
+    ],
+    "incompatibles": [
+      "corniche",
+      "modillon"
+    ]
+  },
+  {
+    "id": "ove",
+    "terme": "l'ove",
+    "categorie": "Ornement",
+    "definition": "Ornement en forme d'œuf, répété en rang et alterné avec des dards sur une moulure.",
+    "priorite": 3,
+    "requetes": [
+      "egg and dart",
+      "egg and dart molding",
+      "oves et dards"
+    ],
+    "incompatibles": [
+      "moulure"
+    ]
+  },
+  {
+    "id": "rinceau",
+    "terme": "le rinceau",
+    "categorie": "Ornement",
+    "definition": "Ornement de tiges végétales ondulantes qui s'enroulent en volutes garnies de feuilles.",
+    "priorite": 3,
+    "requetes": [
+      "rinceau ornament",
+      "scrolling vine relief",
+      "rinceaux sculptés"
+    ],
+    "incompatibles": [
+      "feuille-d-acanthe",
+      "frise"
+    ]
+  },
+  {
+    "id": "feston",
+    "terme": "le feston",
+    "categorie": "Ornement",
+    "definition": "Guirlande sculptée de feuilles, de fleurs ou de fruits, suspendue en arc entre deux points.",
+    "priorite": 3,
+    "requetes": [
+      "festoon garland relief",
+      "swag ornament facade",
+      "feston sculpté"
+    ],
+    "incompatibles": [
+      "frise"
+    ]
+  },
+  {
+    "id": "palmette",
+    "terme": "la palmette",
+    "categorie": "Ornement",
+    "definition": "Motif stylisé en éventail de feuilles de palmier, répété dans les frises et les acrotères.",
+    "priorite": 3,
+    "requetes": [
+      "palmette ornament",
+      "anthemion palmette",
+      "palmette"
+    ],
+    "incompatibles": [
+      "frise"
+    ]
+  },
+  {
+    "id": "grecque",
+    "terme": "la grecque",
+    "categorie": "Ornement",
+    "definition": "Frise de lignes brisées à angles droits, formant un méandre continu.",
+    "priorite": 2,
+    "requetes": [
+      "greek key meander",
+      "greek fret pattern",
+      "frise grecque"
+    ],
+    "incompatibles": [
+      "frise"
+    ]
+  },
+  {
+    "id": "cartouche",
+    "terme": "le cartouche",
+    "categorie": "Ornement",
+    "definition": "Encadrement sculpté, souvent à bords enroulés, qui entoure une inscription, un blason ou une date sur une façade.",
+    "priorite": 2,
+    "requetes": [
+      "cartouche facade",
+      "baroque cartouche",
+      "cartouche sculpté"
+    ],
+    "incompatibles": [
+      "medaillon"
+    ]
+  },
+  {
+    "id": "medaillon",
+    "terme": "le médaillon",
+    "categorie": "Ornement",
+    "definition": "Ornement rond ou ovale, encadré, qui porte un portrait ou un motif sculpté.",
+    "priorite": 2,
+    "requetes": [
+      "medallion facade relief",
+      "portrait medallion building",
+      "médaillon façade"
+    ],
+    "incompatibles": [
+      "cartouche"
+    ]
+  },
+  {
+    "id": "atlante",
+    "terme": "l'atlante",
+    "categorie": "Ornement",
+    "definition": "Statue d'homme qui porte un entablement ou un balcon à la place d'une colonne.",
+    "priorite": 3,
+    "requetes": [
+      "atlas telamon",
+      "atlantes balcony",
+      "atlantes façade"
+    ],
+    "incompatibles": [
+      "cariatide"
+    ]
+  },
+  {
+    "id": "bossage",
+    "terme": "le bossage",
+    "categorie": "Ornement",
+    "definition": "Saillie volontaire de la face des pierres d'un mur, séparées par des joints creux, pour en accuser le relief.",
+    "priorite": 1,
+    "requetes": [
+      "rustication stone",
+      "rusticated masonry",
+      "bossage façade"
+    ],
+    "incompatibles": [
+      "refend",
+      "pierre-de-taille"
+    ]
+  },
+  {
+    "id": "refend",
+    "terme": "le refend",
+    "categorie": "Ornement",
+    "definition": "Rainure horizontale creusée dans un enduit ou une pierre pour imiter les joints d'un appareil.",
+    "priorite": 3,
+    "requetes": [
+      "refend façade",
+      "rusticated render grooves",
+      "channelled rustication"
+    ],
+    "incompatibles": [
+      "bossage"
+    ]
+  },
+  {
+    "id": "balustrade",
+    "terme": "la balustrade",
+    "categorie": "Ornement",
+    "definition": "Rangée de balustres reliés par une tablette, formant un garde-corps ou un couronnement.",
+    "priorite": 1,
+    "requetes": [
+      "balustrade",
+      "incategory:\"Balustrades\"",
+      "stone balustrade"
+    ],
+    "incompatibles": [
+      "balustre",
+      "garde-corps"
+    ]
+  },
+  {
+    "id": "niche",
+    "terme": "la niche",
+    "categorie": "Ornement",
+    "definition": "Renfoncement ménagé dans l'épaisseur d'un mur, souvent cintré, destiné à recevoir une statue ou un vase.",
+    "priorite": 1,
+    "requetes": [
+      "niche statue facade",
+      "wall niche architecture",
+      "niche"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "bas-relief",
+    "terme": "le bas-relief",
+    "categorie": "Ornement",
+    "definition": "Sculpture qui se détache peu du fond auquel elle reste attachée.",
+    "priorite": 1,
+    "requetes": [
+      "bas-relief facade",
+      "low relief sculpture wall",
+      "bas-relief"
+    ],
+    "incompatibles": [
+      "haut-relief",
+      "frise"
+    ]
+  },
+  {
+    "id": "haut-relief",
+    "terme": "le haut-relief",
+    "categorie": "Ornement",
+    "definition": "Sculpture qui se détache fortement du fond, les figures étant presque en ronde-bosse.",
+    "priorite": 2,
+    "requetes": [
+      "high relief sculpture",
+      "high relief facade",
+      "haut-relief"
+    ],
+    "incompatibles": [
+      "bas-relief",
+      "frise"
+    ]
+  },
+  {
+    "id": "pot-a-feu",
+    "terme": "le pot à feu",
+    "categorie": "Ornement",
+    "definition": "Vase décoratif sculpté d'où sortent des flammes stylisées, posé en couronnement d'une façade ou d'un pilier.",
+    "priorite": 3,
+    "requetes": [
+      "pot à feu",
+      "flaming urn finial",
+      "urne flamme balustrade"
+    ],
+    "incompatibles": [
+      "balustrade"
+    ]
+  },
+  {
+    "id": "epi-de-faitage",
+    "terme": "l'épi de faîtage",
+    "categorie": "Ornement",
+    "definition": "Ornement de terre cuite, de zinc ou de plomb qui se dresse à l'extrémité ou au sommet d'un faîtage.",
+    "priorite": 2,
+    "requetes": [
+      "roof finial",
+      "épi de faîtage",
+      "finial roof ridge"
+    ],
+    "incompatibles": [
+      "faitage"
+    ]
+  },
+  {
+    "id": "fleuron",
+    "terme": "le fleuron",
+    "categorie": "Ornement",
+    "definition": "Ornement en forme de fleur stylisée, souvent placé au sommet d'un pinacle ou d'un gâble gothique.",
+    "priorite": 3,
+    "requetes": [
+      "finial gothic",
+      "fleuron gothique",
+      "gothic finial"
+    ],
+    "incompatibles": [
+      "pinacle",
+      "gable",
+      "crochet"
+    ]
+  },
+  {
+    "id": "crochet",
+    "terme": "le crochet",
+    "categorie": "Ornement",
+    "definition": "Petit ornement gothique en forme de feuille recourbée, répété le long des arêtes des pinacles et des gâbles.",
+    "priorite": 3,
+    "requetes": [
+      "crockets gothic",
+      "gothic crocket",
+      "crochets gothiques"
+    ],
+    "incompatibles": [
+      "pinacle",
+      "gable",
+      "fleuron"
+    ]
+  },
+  {
+    "id": "remplage",
+    "terme": "le remplage",
+    "categorie": "Ornement",
+    "definition": "Réseau de pierre découpée qui divise une baie gothique en compartiments garnis de vitraux.",
+    "priorite": 3,
+    "requetes": [
+      "gothic tracery",
+      "tracery window",
+      "remplage gothique"
+    ],
+    "incompatibles": [
+      "rosace",
+      "vitrail",
+      "meneau"
+    ]
+  },
+  {
+    "id": "gable",
+    "terme": "le gâble",
+    "categorie": "Ornement",
+    "definition": "Couronnement triangulaire et aigu, ajouré, qui surmonte un portail ou une baie gothique.",
+    "priorite": 3,
+    "requetes": [
+      "gable gothic portal",
+      "gothic gablet",
+      "gâble portail cathédrale"
+    ],
+    "incompatibles": [
+      "pinacle",
+      "fronton",
+      "crochet",
+      "fleuron"
+    ]
+  },
+  {
+    "id": "cannelure",
+    "terme": "la cannelure",
+    "categorie": "Ornement",
+    "definition": "Rainure verticale creusée en série sur le fût d'une colonne ou d'un pilastre.",
+    "priorite": 1,
+    "requetes": [
+      "fluted column",
+      "column fluting",
+      "cannelures colonne"
+    ],
+    "incompatibles": [
+      "colonne",
+      "pilastre"
+    ]
+  },
+  {
+    "id": "chapiteau-corinthien",
+    "terme": "le chapiteau corinthien",
+    "categorie": "Ornement",
+    "definition": "Chapiteau en forme de corbeille garnie de rangs de feuilles d'acanthe et de petites volutes aux angles.",
+    "priorite": 2,
+    "requetes": [
+      "incategory:\"Corinthian capitals\"",
+      "corinthian capital",
+      "chapiteau corinthien"
+    ],
+    "incompatibles": [
+      "chapiteau",
+      "feuille-d-acanthe"
+    ]
+  },
+  {
+    "id": "chapiteau-ionique",
+    "terme": "le chapiteau ionique",
+    "categorie": "Ornement",
+    "definition": "Chapiteau orné de deux grandes volutes enroulées de part et d'autre.",
+    "priorite": 2,
+    "requetes": [
+      "incategory:\"Ionic capitals\"",
+      "ionic capital",
+      "chapiteau ionique"
+    ],
+    "incompatibles": [
+      "chapiteau",
+      "volute"
+    ]
+  },
+  {
+    "id": "chapiteau-dorique",
+    "terme": "le chapiteau dorique",
+    "categorie": "Ornement",
+    "definition": "Chapiteau simple formé d'un coussinet arrondi surmonté d'une tablette carrée.",
+    "priorite": 2,
+    "requetes": [
+      "incategory:\"Doric capitals\"",
+      "doric capital",
+      "chapiteau dorique"
+    ],
+    "incompatibles": [
+      "chapiteau"
+    ]
+  },
+  {
+    "id": "vitrail",
+    "terme": "le vitrail",
+    "categorie": "Ornement",
+    "definition": "Composition de verres colorés assemblés par des plombs, qui garnit une baie.",
+    "priorite": 1,
+    "requetes": [
+      "incategory:\"Stained glass windows\"",
+      "stained glass window",
+      "vitrail église"
+    ],
+    "incompatibles": [
+      "rosace",
+      "remplage"
+    ]
+  },
+  {
+    "id": "fresque",
+    "terme": "la fresque",
+    "categorie": "Ornement",
+    "definition": "Grande peinture murale exécutée sur un enduit, en intérieur ou sur une façade.",
+    "priorite": 1,
+    "requetes": [
+      "mural painting wall",
+      "fresque murale",
+      "street mural Dakar"
+    ],
+    "incompatibles": [
+      "trompe-l-oeil"
+    ]
+  },
+  {
+    "id": "trompe-l-oeil",
+    "terme": "le trompe-l'œil",
+    "categorie": "Ornement",
+    "definition": "Peinture murale qui imite un décor en relief, des fenêtres ou une perspective pour tromper la vue.",
+    "priorite": 2,
+    "requetes": [
+      "trompe l'oeil facade",
+      "trompe-l'œil façade peinte",
+      "painted facade illusion"
+    ],
+    "incompatibles": [
+      "fresque"
+    ]
+  },
+  {
+    "id": "sgraffite",
+    "terme": "le sgraffite",
+    "categorie": "Ornement",
+    "definition": "Décor obtenu en grattant une couche d'enduit pour faire apparaître une couche de couleur différente dessous.",
+    "priorite": 3,
+    "requetes": [
+      "sgraffito facade",
+      "sgraffito wall decoration",
+      "sgraffite"
+    ],
+    "incompatibles": [
+      "fresque"
+    ]
+  },
+  {
+    "id": "lambrequin",
+    "terme": "le lambrequin",
+    "categorie": "Ornement",
+    "definition": "Bande de bois ou de métal découpée qui borde le bas d'une avancée de toit ou d'un auvent.",
+    "priorite": 3,
+    "requetes": [
+      "lambrequin bois",
+      "gingerbread trim eaves",
+      "decorative bargeboard fretwork"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "arabesque",
+    "terme": "l'arabesque",
+    "categorie": "Ornement",
+    "definition": "Ornement fait d'entrelacs de lignes courbes et de motifs végétaux stylisés.",
+    "priorite": 3,
+    "requetes": [
+      "arabesque ornament",
+      "islamic arabesque carving",
+      "arabesque"
+    ],
+    "incompatibles": [
+      "rinceau",
+      "zellige"
+    ]
+  },
+  {
+    "id": "colonne-torse",
+    "terme": "la colonne torse",
+    "categorie": "Ornement",
+    "definition": "Colonne dont le fût est tordu en spirale, comme une vis.",
+    "priorite": 3,
+    "requetes": [
+      "solomonic column",
+      "twisted column",
+      "colonne torse"
+    ],
+    "incompatibles": [
+      "colonne"
+    ]
+  },
+  {
+    "id": "cul-de-lampe",
+    "terme": "le cul-de-lampe",
+    "categorie": "Ornement",
+    "definition": "Console sculptée en forme de pyramide renversée qui reçoit la retombée d'une nervure ou porte une statue.",
+    "priorite": 3,
+    "requetes": [
+      "cul-de-lampe",
+      "corbel gothic sculpted",
+      "culot sculpté"
+    ],
+    "incompatibles": [
+      "console",
+      "corbeau"
+    ]
+  },
+  {
+    "id": "fronton-brise",
+    "terme": "le fronton brisé",
+    "categorie": "Ornement",
+    "definition": "Fronton dont les rampants sont interrompus au sommet, laissant un vide central souvent occupé par un ornement.",
+    "priorite": 3,
+    "requetes": [
+      "broken pediment",
+      "fronton brisé",
+      "broken pediment door"
+    ],
+    "incompatibles": [
+      "fronton"
+    ]
+  },
+  {
+    "id": "rosace-de-plafond",
+    "terme": "la rosace de plafond",
+    "categorie": "Ornement",
+    "definition": "Ornement circulaire en plâtre moulé au centre d'un plafond, souvent autour du point d'accrochage du lustre.",
+    "priorite": 2,
+    "requetes": [
+      "ceiling rose plaster",
+      "ceiling medallion",
+      "rosace de plafond"
+    ],
+    "incompatibles": [
+      "moulure"
+    ]
+  },
+  {
+    "id": "mosquee-soudano-sahelienne",
+    "terme": "la mosquée soudano-sahélienne",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Mosquée en banco aux murs épais rythmés de contreforts et de pinacles, hérissée de torons.",
+    "priorite": 2,
+    "requetes": [
+      "Great Mosque of Djenné",
+      "sudano-sahelian mosque",
+      "mosquée en banco Mali"
+    ],
+    "incompatibles": [
+      "toron",
+      "banco"
+    ]
+  },
+  {
+    "id": "voute-nubienne",
+    "terme": "la voûte nubienne",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Voûte en briques de terre crue montée sans coffrage, par rangs inclinés, utilisée dans le Sahel pour couvrir des maisons.",
+    "priorite": 2,
+    "requetes": [
+      "nubian vault Burkina Faso",
+      "voûte nubienne",
+      "nubian vault construction"
+    ],
+    "incompatibles": [
+      "voute",
+      "banco"
+    ]
+  },
+  {
+    "id": "laterite",
+    "terme": "la latérite",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Terre ou roche rouge riche en fer, très répandue en Afrique de l'Ouest, utilisée en remblai, en piste ou en moellons.",
+    "priorite": 1,
+    "requetes": [
+      "laterite soil red",
+      "laterite Senegal",
+      "latérite"
+    ],
+    "incompatibles": [
+      "piste-lateritique",
+      "pierre-de-laterite"
+    ]
+  },
+  {
+    "id": "piste-lateritique",
+    "terme": "la piste latéritique",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Route en terre rouge compactée, typique des campagnes d'Afrique de l'Ouest.",
+    "priorite": 1,
+    "requetes": [
+      "laterite road Africa",
+      "red dirt road Senegal",
+      "piste en latérite"
+    ],
+    "incompatibles": [
+      "laterite"
+    ]
+  },
+  {
+    "id": "pierre-de-laterite",
+    "terme": "la pierre de latérite",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Bloc de latérite taillé, rougeâtre et alvéolé, maçonné en murs apparents.",
+    "priorite": 3,
+    "requetes": [
+      "laterite blocks wall",
+      "laterite stone building",
+      "mur en latérite"
+    ],
+    "incompatibles": [
+      "laterite",
+      "moellon"
+    ]
+  },
+  {
+    "id": "crinting",
+    "terme": "le crinting",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Panneau de tiges ou de lattes tressées (bambou, rônier, mil), utilisé au Sénégal en palissade ou en paroi de case ; on dit aussi seko au Mali.",
+    "priorite": 1,
+    "requetes": [
+      "crinting Sénégal",
+      "woven fence Senegal",
+      "palissade crinting"
+    ],
+    "incompatibles": [
+      "paillote"
+    ]
+  },
+  {
+    "id": "paillote",
+    "terme": "la paillote",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Abri léger à toit de paille ou de palmes sur poteaux de bois, courant sur les plages et dans les cours.",
+    "priorite": 1,
+    "requetes": [
+      "paillote plage Sénégal",
+      "thatched beach hut Africa",
+      "straw shelter beach"
+    ],
+    "incompatibles": [
+      "chaume",
+      "case"
+    ]
+  },
+  {
+    "id": "grenier-a-mil",
+    "terme": "le grenier à mil",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Petite construction surélevée en terre ou en paille tressée, coiffée d'un toit conique, où l'on stocke le mil.",
+    "priorite": 2,
+    "requetes": [
+      "granary Senegal village",
+      "grenier à mil",
+      "millet granary Africa"
+    ],
+    "incompatibles": [
+      "grenier-dogon",
+      "grenier-sur-pilotis",
+      "case"
+    ]
+  },
+  {
+    "id": "grenier-sur-pilotis",
+    "terme": "le grenier sur pilotis",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Grenier à mil en paille dressé sur pilotis au-dessus de l'eau, comme ceux de Fadiouth en pays sérère.",
+    "priorite": 3,
+    "requetes": [
+      "Fadiouth granaries",
+      "greniers sur pilotis Fadiouth",
+      "Joal-Fadiouth granaries stilts"
+    ],
+    "incompatibles": [
+      "grenier-a-mil",
+      "pilotis"
+    ]
+  },
+  {
+    "id": "ronier",
+    "terme": "le rônier",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Palmier dont le stipe, très résistant aux termites, est débité en lattes et en poutres pour la charpente.",
+    "priorite": 2,
+    "requetes": [
+      "borassus palm",
+      "rônier Sénégal",
+      "Borassus aethiopum"
+    ],
+    "incompatibles": [
+      "toron"
+    ]
+  },
+  {
+    "id": "typha",
+    "terme": "le typha",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Roseau des marais du fleuve Sénégal, transformé en panneaux isolants ou en bottes pour la construction.",
+    "priorite": 3,
+    "requetes": [
+      "typha building material Senegal",
+      "panneaux typha",
+      "typha australis"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "tata-somba",
+    "terme": "la tata somba",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Maison-forteresse en terre à étage du nord du Bénin et du Togo, flanquée de tourelles coiffées de paille.",
+    "priorite": 2,
+    "requetes": [
+      "tata somba",
+      "Koutammakou",
+      "takienta house"
+    ],
+    "incompatibles": [
+      "case",
+      "banco"
+    ]
+  },
+  {
+    "id": "case-kassena",
+    "terme": "la case kassena",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Case en terre du pays kassena (Burkina Faso) aux murs couverts de motifs géométriques peints en noir, blanc et rouge.",
+    "priorite": 3,
+    "requetes": [
+      "Tiébélé",
+      "kassena painted house",
+      "Tiebele painted houses"
+    ],
+    "incompatibles": [
+      "banco"
+    ]
+  },
+  {
+    "id": "soukala",
+    "terme": "la soukala",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Concession fortifiée en terre du Burkina Faso, faite de bâtiments accolés à toits-terrasses autour d'une cour.",
+    "priorite": 3,
+    "requetes": [
+      "soukala",
+      "Bobo-Dioulasso traditional compound",
+      "soukala Burkina Faso"
+    ],
+    "incompatibles": [
+      "banco",
+      "concession"
+    ]
+  },
+  {
+    "id": "ginna",
+    "terme": "la ginna",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Grande maison du patriarche d'un lignage dogon, dont la façade de terre est percée de rangées de petites niches.",
+    "priorite": 3,
+    "requetes": [
+      "ginna Dogon",
+      "Dogon ginna house facade",
+      "ginna maison dogon"
+    ],
+    "incompatibles": [
+      "grenier-dogon",
+      "banco"
+    ]
+  },
+  {
+    "id": "porte-dogon",
+    "terme": "la porte dogon",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Petite porte de bois sculptée de figures en relief qui ferme un grenier ou une maison en pays dogon.",
+    "priorite": 3,
+    "requetes": [
+      "Dogon door carved",
+      "porte dogon sculptée",
+      "Dogon granary door"
+    ],
+    "incompatibles": [
+      "grenier-dogon"
+    ]
+  },
+  {
+    "id": "case-a-etage",
+    "terme": "la case à étage",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Grande habitation diola en banco à deux niveaux, aux murs épais et au toit de chaume, typique de Mlomp en Casamance.",
+    "priorite": 3,
+    "requetes": [
+      "case à étage Mlomp",
+      "Mlomp Casamance",
+      "two-storey mud house Casamance"
+    ],
+    "incompatibles": [
+      "case-a-impluvium",
+      "banco"
+    ]
+  },
+  {
+    "id": "facade-toucouleur",
+    "terme": "la façade toucouleur",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Façade de maison en banco de Djenné marquée par un portail central en saillie, flanqué de pilastres et couronné de pinacles.",
+    "priorite": 3,
+    "requetes": [
+      "Djenné house facade",
+      "Djenné architecture house",
+      "maison Djenné façade"
+    ],
+    "incompatibles": [
+      "banco",
+      "toron"
+    ]
+  },
+  {
+    "id": "concession",
+    "terme": "la concession",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Ensemble de cases ou de bâtiments d'une même famille, groupés autour d'une cour et clos par un mur ou une palissade.",
+    "priorite": 2,
+    "requetes": [
+      "family compound Senegal village",
+      "concession village Sénégal",
+      "African compound aerial view"
+    ],
+    "incompatibles": [
+      "case",
+      "crinting"
+    ]
+  },
+  {
+    "id": "bas-relief-d-abomey",
+    "terme": "le bas-relief d'Abomey",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Bas-relief polychrome modelé dans les murs en terre des palais royaux d'Abomey, au Bénin.",
+    "priorite": 3,
+    "requetes": [
+      "Abomey bas-relief",
+      "bas-reliefs palais Abomey",
+      "Royal Palaces of Abomey relief"
+    ],
+    "incompatibles": [
+      "bas-relief"
+    ]
+  },
+  {
+    "id": "maison-de-signare",
+    "terme": "la maison de signare",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Maison coloniale de Gorée ou de Saint-Louis à étage sur rez-de-chaussée, avec escalier extérieur, galerie et toit de tuiles.",
+    "priorite": 3,
+    "requetes": [
+      "maison de signare",
+      "Gorée colonial house",
+      "Saint-Louis Senegal colonial house"
+    ],
+    "incompatibles": [
+      "maison-coloniale"
+    ]
+  },
+  {
+    "id": "maison-coloniale",
+    "terme": "la maison coloniale",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Maison enduite de couleurs vives, à balcon ou galerie de bois ou de fer et à persiennes, typique de Saint-Louis et de Gorée.",
+    "priorite": 2,
+    "requetes": [
+      "Saint-Louis Senegal colonial architecture",
+      "Gorée island houses",
+      "maison coloniale Saint-Louis"
+    ],
+    "incompatibles": [
+      "maison-de-signare",
+      "balcon",
+      "persienne"
+    ]
+  },
+  {
+    "id": "tessons-de-bouteille",
+    "terme": "les tessons de bouteille",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Éclats de verre scellés dans le mortier au sommet d'un mur de clôture pour empêcher l'escalade.",
+    "priorite": 2,
+    "requetes": [
+      "broken glass on wall top",
+      "wall topped with broken glass",
+      "tessons de bouteille mur"
+    ],
+    "incompatibles": []
+  },
+  {
+    "id": "minaret",
+    "terme": "le minaret",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Tour élancée d'une mosquée, d'où est lancé l'appel à la prière.",
+    "priorite": 1,
+    "requetes": [
+      "incategory:\"Minarets\"",
+      "mosque minaret Dakar",
+      "minaret Senegal"
+    ],
+    "incompatibles": [
+      "mosquee-soudano-sahelienne"
+    ]
+  },
+  {
+    "id": "crepissage",
+    "terme": "le crépissage",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Réfection collective, à la main, de l'enduit de banco d'une mosquée soudano-sahélienne, comme la fête annuelle de Djenné.",
+    "priorite": 3,
+    "requetes": [
+      "crépissage Djenné",
+      "Djenne mosque replastering",
+      "Great Mosque of Djenné plastering festival"
+    ],
+    "incompatibles": [
+      "mosquee-soudano-sahelienne",
+      "banco",
+      "toron"
+    ]
+  }
+]

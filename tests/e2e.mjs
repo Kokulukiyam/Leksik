@@ -1,6 +1,7 @@
 // Test de bout en bout de Leksik (Playwright, bibliothèque seule).
 // Prérequis : serveur lancé (`npm run dev > tmp/e2e-server.log 2>&1`) sur http://localhost:3000.
 // Usage : npm run e2e   (variables facultatives : BASE_URL, SERVER_LOG)
+// Si un serveur `next dev` tourne déjà (lancé ailleurs), SERVER_LOG=.next/dev/logs/next-development.log.
 // Les données (data/*.json, public/images/perso/) sont sauvegardées au début et remises en état à la fin.
 import { chromium } from "playwright";
 import sharp from "sharp";
@@ -13,14 +14,15 @@ const LOG = process.env.SERVER_LOG ?? path.join(ROOT, "tmp", "e2e-server.log");
 const DATA = ["terms.json", "images.json"].map((f) => path.join(ROOT, "data", f));
 const PERSO = path.join(ROOT, "public", "images", "perso");
 const TMP = path.join(ROOT, "tmp", "e2e");
+// Catégories lues dans lib/shared.ts (source de vérité de l'app).
 const CATEGORIES = [
-  "Façade et ouvertures",
-  "Toitures",
-  "Structure",
-  "Ornement",
-  "Matériaux et revêtements",
-  "Afrique de l'Ouest",
-];
+  ...(await fs.readFile(path.join(ROOT, "lib", "shared.ts"), "utf8"))
+    .match(/CATEGORIES = \[([\s\S]*?)\] as const/)[1]
+    .matchAll(/"([^"]+)"/g),
+].map((m) => m[1]);
+const PAQUET = 60; // cartes affichées à la fois dans Gérer
+const DEFAUTS = { imagesParPartie: 10, propositions: 4, frequence: 3, sources: "toutes", mauvaisesReponses: "categorie", suivantAuto: false };
+const CLE_PARAMS = "leksik:parametres";
 const NOUVEAU_TERME = "le gousset de test e2e";
 const IMAGE_REFUSEE = "toguna-03";
 
@@ -48,12 +50,20 @@ const donnees = async () => {
 };
 const listePerso = async () => (existsSync(PERSO) ? (await fs.readdir(PERSO)).sort() : null);
 
-// Paires incompatibles (lib/shared.ts), pour vérifier les mauvaises réponses.
-async function incompatibles() {
-  const src = await fs.readFile(path.join(ROOT, "lib", "shared.ts"), "utf8");
-  const bloc = src.match(/INCOMPATIBLES[^=]*=\s*\[([\s\S]*?)\];/)?.[1] ?? "";
-  return [...bloc.matchAll(/\["([^"]+)",\s*"([^"]+)"\]/g)].map((m) => [m[1], m[2]]);
-}
+// Paires incompatibles (champ `incompatibles` des termes, dans un sens ou dans l'autre).
+const incompatibles = (a, b) => !!(a.incompatibles?.includes(b.id) || b.incompatibles?.includes(a.id));
+
+// Copie de normaliser() (lib/shared.ts) : minuscules, sans accents, sans article.
+const normaliser = (s) =>
+  s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae").replace(/’/g, "'")
+    .trim().replace(/^(l['’]\s*|le\s+|la\s+|les\s+|un\s+|une\s+|des\s+)/, "").replace(/[-\s]+/g, " ").trim();
+
+// Images jouables selon les réglages (validée, terme connu, source, fréquence).
+const jouablesSelon = (ctx, p = DEFAUTS) =>
+  ctx.images.filter((i) => {
+    const t = ctx.termsParId.get(i.termId);
+    return i.statut === "validée" && t && (p.sources === "toutes" || i.source === p.sources) && (t.priorite === undefined || t.priorite <= p.frequence);
+  });
 
 // ---------- Navigateur ----------
 const erreursNavigateur = [];
@@ -97,6 +107,9 @@ async function pasDeDefilementHorizontal(page, ou) {
   check(`pas de défilement horizontal (${ou})`, !ko);
 }
 
+const boutonCategorie = (page, cat) =>
+  page.locator("main").getByRole("button", { name: new RegExp(`^${cat.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\s*\\d+ image`) });
+
 async function accueil(page) {
   await page.goto(BASE + "/");
   await page.evaluate(() => localStorage.clear());
@@ -105,7 +118,8 @@ async function accueil(page) {
 }
 
 // Joue une partie déjà démarrée. `faux(i)` dit s'il faut répondre faux à la manche i.
-async function jouerPartie(page, ctx, { faux, attendu, refusee, termesPermis, relancer }) {
+// `p` : réglages en vigueur (nombre de mots, mauvaises réponses, fréquence, source, suivant automatique).
+async function jouerPartie(page, ctx, { faux, attendu, refusee, termesPermis, relancer, p = DEFAUTS, stats }) {
   const prog = page.getByTestId("progression");
   await prog.waitFor();
   const total = Number((await prog.textContent()).match(/\/\s*(\d+)/)[1]);
@@ -127,6 +141,11 @@ async function jouerPartie(page, ctx, { faux, attendu, refusee, termesPermis, re
     check(`image non cassée (${fichier})`, await imageChargee(img));
     check(`image validée (${image.id})`, image.statut === "validée" && image.id !== refusee);
     if (termesPermis) check(`terme à revoir (${image.termId})`, termesPermis.has(image.termId));
+    else {
+      check(`source ${p.sources} (${image.id})`, p.sources === "toutes" || image.source === p.sources, image.source);
+      const pr = ctx.termsParId.get(image.termId)?.priorite;
+      check(`fréquence ≤ ${p.frequence} (${image.termId})`, pr === undefined || pr <= p.frequence, String(pr));
+    }
     const term = ctx.termsParId.get(image.termId);
     // Rectangle
     const cadres = await page.locator("main [data-testid=cadre]").count();
@@ -134,21 +153,38 @@ async function jouerPartie(page, ctx, { faux, attendu, refusee, termesPermis, re
     // Crédit
     const credit = (await page.getByTestId("credit").textContent()) ?? "";
     check(`crédit auteur et licence (${image.id})`, credit.includes(image.auteur) && credit.includes(image.licence), credit);
-    // Les 4 mots
+    // Les mots proposés
     const boutons = page.getByTestId("choix").locator("button");
     const n = await boutons.count();
     const ids = await boutons.evaluateAll((bs) => bs.map((b) => b.dataset.term));
     const textes = (await boutons.allTextContents()).map((t) => t.trim());
-    check(`4 mots (${image.id})`, n === 4, String(n));
+    const candidats = ctx.terms.filter((t) => t.id !== term.id && t.terme !== term.terme && !incompatibles(t, term));
+    const mots = Math.min(p.propositions, candidats.length + 1); // (les incompatibilités ne réduisent pas ce nombre ici : 60+ termes)
+    check(`${mots} mots (${image.id})`, n === mots, String(n));
     check(`mots distincts (${image.id})`, new Set(ids).size === n && new Set(textes).size === n, textes.join(" | "));
     check(`bonne réponse présente (${image.id})`, ids.includes(term.id) && textes.includes(term.terme), textes.join(" | "));
     check(`mots = termes existants`, ids.every((id, k) => ctx.termsParId.get(id)?.terme === textes[k]));
-    const autresMemeCat = ctx.terms.filter(
-      (t) => t.id !== term.id && t.categorie === term.categorie && !ctx.incompat.some(([a, b]) => (a === t.id && b === term.id) || (b === t.id && a === term.id)),
-    ).length;
-    const memeCat = ids.filter((id) => id !== term.id && ctx.termsParId.get(id)?.categorie === term.categorie).length;
-    check(`mauvaises réponses de la même catégorie (${image.id})`, memeCat === Math.min(3, autresMemeCat), `${memeCat}/${Math.min(3, autresMemeCat)}`);
-    check(`pas de paire incompatible (${image.id})`, !ids.some((id) => ctx.incompat.some(([a, b]) => (a === id && b === term.id) || (b === id && a === term.id))));
+    const termes = ids.map((id) => ctx.termsParId.get(id)).filter(Boolean);
+    const paires = termes.flatMap((x, k) => termes.slice(k + 1).filter((y) => incompatibles(x, y)).map((y) => `${x.id}/${y.id}`));
+    check(`aucune paire incompatible dans la manche (${image.id})`, paires.length === 0, paires.join(", "));
+    // Mauvaises réponses : même catégorie d'abord (si demandé), puis termes de la fréquence choisie.
+    const faussesIds = ids.filter((id) => id !== term.id);
+    const autresMemeCat = candidats.filter((t) => t.categorie === term.categorie).length;
+    const memeCat = faussesIds.filter((id) => ctx.termsParId.get(id)?.categorie === term.categorie).length;
+    // Candidat écarté alors qu'il était compatible avec tous les mots proposés.
+    const ecartables = candidats.filter((t) => !ids.includes(t.id) && termes.every((x) => !incompatibles(x, t)));
+    if (p.mauvaisesReponses === "categorie")
+      check(`mauvaises réponses de la même catégorie (${image.id})`,
+        memeCat === Math.min(mots - 1, autresMemeCat) || (memeCat < mots - 1 && !ecartables.some((t) => t.categorie === term.categorie)),
+        `${memeCat}/${Math.min(mots - 1, autresMemeCat)}`);
+    const rang = (t) => (p.mauvaisesReponses === "categorie" && t.categorie !== term.categorie ? 2 : 0) + ((t.priorite ?? 1) > p.frequence ? 1 : 0);
+    const pire = Math.max(-1, ...faussesIds.map((id) => rang(ctx.termsParId.get(id))));
+    const meilleurRestant = Math.min(9, ...ecartables.map(rang));
+    check(`mauvaises réponses les plus pertinentes (${image.id})`, pire <= meilleurRestant, `${pire} > ${meilleurRestant}`);
+    if (stats) {
+      stats.fausses += faussesIds.length;
+      stats.autreCat += faussesIds.length - memeCat;
+    }
     // Réponse
     const repondreFaux = faux(i);
     const choix = repondreFaux ? ids.find((id) => id !== term.id) : term.id;
@@ -166,8 +202,24 @@ async function jouerPartie(page, ctx, { faux, attendu, refusee, termesPermis, re
     const texteRetour = (await retour.textContent()) ?? "";
     check(`verdict ${repondreFaux ? "Faux" : "Juste"}`, texteRetour.includes(repondreFaux ? "Faux." : "Juste."));
     check(`définition affichée`, texteRetour.includes(term.definition) && texteRetour.includes(term.terme));
-    check(`boutons désactivés après réponse`, (await page.locator("[data-testid=choix] button:disabled").count()) === 4);
-    await page.getByRole("button", { name: "Suivant" }).click();
+    check(`boutons désactivés après réponse`, (await page.locator("[data-testid=choix] button:disabled").count()) === n);
+    const suivante = async () =>
+      page.waitForFunction(
+        (k) => !document.querySelector("[data-testid=progression]")?.textContent?.startsWith(`${k} /`),
+        i + 1,
+        { timeout: 6000 },
+      ).then(() => true, () => false);
+    if (p.suivantAuto && !repondreFaux) {
+      // Image suivante automatique, sans appuyer sur « Suivant ».
+      check(`suivant automatique après une bonne réponse (manche ${i + 1})`, await suivante());
+    } else {
+      if (p.suivantAuto) {
+        await page.waitForTimeout(2500);
+        check(`pas de suivant automatique après une mauvaise réponse (manche ${i + 1})`,
+          ((await prog.textContent()) ?? "").startsWith(`${i + 1} /`) && (await retour.isVisible()));
+      }
+      await page.getByRole("button", { name: "Suivant" }).click();
+    }
   }
   // Écran de fin
   const score = page.getByTestId("score");
@@ -195,12 +247,21 @@ async function testerJeu(page, ctx, nom) {
   console.log(`- ${section}`);
   await accueil(page);
   await pasDeDefilementHorizontal(page, "accueil");
-  const jouables = ctx.images.filter((i) => i.statut === "validée" && ctx.termsParId.has(i.termId));
+  const jouables = jouablesSelon(ctx);
+  const texte = (await page.locator("main").textContent()) ?? "";
+  check(`accueil : 4 mots, parties de 10 images`, texte.includes("Une image, 4 mots") && texte.includes("Parties de 10 images"), texte.slice(0, 120));
+  check(`${CATEGORIES.length + 1} boutons de catégorie`, (await page.locator("main button").count()) === CATEGORIES.length + 1);
   for (const cat of ["Toutes", ...CATEGORIES]) {
     const attendu = cat === "Toutes" ? jouables.length : jouables.filter((i) => ctx.termsParId.get(i.termId).categorie === cat).length;
-    const bouton = page.getByRole("button", { name: new RegExp(`^${cat.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`) });
+    const bouton = boutonCategorie(page, cat);
     const libelle = (await bouton.textContent()) ?? "";
-    check(`compte « ${cat} » = ${attendu}`, libelle.includes(`${attendu} image`), libelle);
+    check(`compte « ${cat} » = ${attendu}`, libelle.includes(`${attendu} image${attendu > 1 ? "s" : ""}`), libelle);
+    if (attendu === 0) {
+      // Catégorie encore sans image : bouton désactivé.
+      check(`« ${cat} » désactivé (0 image)`, await bouton.isDisabled());
+      continue;
+    }
+    check(`« ${cat} » actif`, await bouton.isEnabled());
     await bouton.click();
     check(`catégorie affichée (${cat})`, ((await page.getByTestId("progression").textContent()) ?? "").includes(cat));
     if (cat === "Toutes") await pasDeDefilementHorizontal(page, "manche");
@@ -356,6 +417,181 @@ async function testerAjouter(page, nom, photos, mobile) {
   return ajoutees.filter(Boolean);
 }
 
+// ---------- Paramètres ----------
+const LIBELLES = {
+  frequence: { 1: "Les plus courants", 2: "Courants et fréquents", 3: "Tous" },
+  sources: { toutes: "Toutes", commons: "Commons", perso: "Mes photos" },
+  mauvaisesReponses: { categorie: "Même catégorie", toutes: "Toutes catégories" },
+  suivantAuto: { false: "J'appuie sur « Suivant »", true: "Image suivante automatique" },
+};
+const GROUPES = { imagesParPartie: "images", propositions: "propositions", frequence: "frequence", sources: "sources", mauvaisesReponses: "mauvaises", suivantAuto: "suivant" };
+const libelle = (cle, v) => LIBELLES[cle]?.[String(v)] ?? String(v);
+
+async function regler(page, modif) {
+  for (const [cle, v] of Object.entries(modif)) {
+    const b = page.getByTestId(`param-${GROUPES[cle]}`).getByRole("button", { name: libelle(cle, v), exact: true });
+    await b.click();
+    check(`réglage ${cle} = ${v} sélectionné`, (await b.getAttribute("aria-pressed")) === "true");
+  }
+}
+
+// Vérifie que la page affiche exactement les réglages `p` (un seul bouton pressé par groupe) et le compte d'images.
+async function verifierAffiches(page, ctx, p, ou) {
+  for (const [cle, groupe] of Object.entries(GROUPES)) {
+    const presses = await page.getByTestId(`param-${groupe}`).locator('button[aria-pressed="true"]').allTextContents();
+    check(`${ou} : ${cle} = ${p[cle]}`, presses.length === 1 && presses[0].trim() === libelle(cle, p[cle]), presses.join(" | "));
+  }
+  const n = jouablesSelon(ctx, p).length;
+  const txt = ((await page.getByTestId("param-compte").textContent()) ?? "").replace(/\s+/g, " ");
+  check(`${ou} : ${n} images jouables`, txt.includes(`${n} image${n > 1 ? "s" : ""} jouable`), txt);
+}
+
+const lireStockage = (page) => page.evaluate((k) => { try { return JSON.parse(localStorage.getItem(k)); } catch { return "illisible"; } }, CLE_PARAMS);
+
+async function ouvrirParametres(page) {
+  await page.goto(BASE + "/parametres");
+  await page.getByTestId("param-compte").waitFor();
+}
+
+// Lance une partie dans `cat` avec les réglages `p` et la joue entièrement.
+async function partieAvec(page, ctx, p, { cat = "Toutes", faux = (i) => i % 2 === 1, stats } = {}) {
+  await page.goto(BASE + "/");
+  await boutonCategorie(page, "Toutes").waitFor();
+  const texte = (await page.locator("main").textContent()) ?? "";
+  check(`accueil : ${p.propositions} mots, parties de ${p.imagesParPartie}`, texte.includes(`Une image, ${p.propositions} mots`) && texte.includes(`Parties de ${p.imagesParPartie} images`), texte.slice(0, 100));
+  const pool = jouablesSelon(ctx, p);
+  for (const c of ["Toutes", ...CATEGORIES]) {
+    const n = c === "Toutes" ? pool.length : pool.filter((i) => ctx.termsParId.get(i.termId).categorie === c).length;
+    const b = boutonCategorie(page, c);
+    const lib = (await b.textContent()) ?? "";
+    if (!lib.includes(`${n} image${n > 1 ? "s" : ""}`) || (await b.isDisabled()) !== (n === 0)) check(`compte « ${c} » = ${n} (${p.sources}, fréquence ${p.frequence})`, false, lib);
+  }
+  await boutonCategorie(page, cat).click();
+  if (p.propositions === 6) await pasDeDefilementHorizontal(page, "manche à 6 mots");
+  const r = await jouerPartie(page, ctx, { faux, attendu: p.imagesParPartie, refusee: IMAGE_REFUSEE, p, stats });
+  await page.getByRole("button", { name: "Nouvelle partie" }).click();
+  await boutonCategorie(page, "Toutes").waitFor();
+  return r;
+}
+
+async function testerParametres(page, nom) {
+  section = `${nom} · paramètres`;
+  console.log(`- ${section}`);
+  let ctx = await donnees();
+  await accueil(page); // localStorage vidé
+  await page.getByRole("link", { name: "Paramètres" }).click();
+  await page.getByTestId("param-compte").waitFor();
+  check(`lien « Paramètres » de l'en-tête`, new URL(page.url()).pathname === "/parametres", page.url());
+  await pasDeDefilementHorizontal(page, "paramètres");
+  await verifierAffiches(page, ctx, DEFAUTS, "défauts");
+
+  // 5 images, 6 mots.
+  let p = { ...DEFAUTS, imagesParPartie: 5, propositions: 6 };
+  await regler(page, { imagesParPartie: 5, propositions: 6 });
+  check(`réglages enregistrés dans localStorage`, JSON.stringify(await lireStockage(page)) === JSON.stringify(p), JSON.stringify(await lireStockage(page)));
+  await page.reload();
+  await page.getByTestId("param-compte").waitFor();
+  await verifierAffiches(page, ctx, p, "après rechargement");
+  await partieAvec(page, ctx, p);
+
+  // 2 mots, mauvaises réponses de toutes catégories.
+  await ouvrirParametres(page);
+  p = { ...p, propositions: 2, mauvaisesReponses: "toutes", imagesParPartie: 10 };
+  await regler(page, { propositions: 2, mauvaisesReponses: "toutes", imagesParPartie: 10 });
+  const stats = { fausses: 0, autreCat: 0 };
+  await partieAvec(page, ctx, p, { stats });
+  check(`« Toutes catégories » : mauvaises réponses hors catégorie`, stats.autreCat > 0, `${stats.autreCat}/${stats.fausses}`);
+
+  // 3 mots, même catégorie, dans une catégorie.
+  await ouvrirParametres(page);
+  p = { ...p, propositions: 3, mauvaisesReponses: "categorie", imagesParPartie: 5 };
+  await regler(page, { propositions: 3, mauvaisesReponses: "categorie", imagesParPartie: 5 });
+  await partieAvec(page, ctx, p, { cat: "Ornement" });
+
+  // Sources : Mes photos, puis Commons.
+  await ouvrirParametres(page);
+  p = { ...p, propositions: 4, sources: "perso" };
+  await regler(page, { propositions: 4, sources: "perso" });
+  await verifierAffiches(page, ctx, p, "Mes photos");
+  check(`des photos perso à jouer`, jouablesSelon(ctx, p).length > 0);
+  await partieAvec(page, ctx, p);
+  await ouvrirParametres(page);
+  p = { ...p, sources: "commons" };
+  await regler(page, { sources: "commons" });
+  await verifierAffiches(page, ctx, p, "Commons");
+  await partieAvec(page, ctx, p);
+
+  // Fréquence : priorités posées temporairement sur les termes (1, 2, 3 en alternance).
+  const sauvegarde = await fs.readFile(DATA[0]);
+  try {
+    const terms = JSON.parse(sauvegarde.toString("utf8"));
+    const avecImages = [...new Set(ctx.images.filter((i) => i.source === "commons").map((i) => i.termId))].sort();
+    for (const t of terms) {
+      const k = avecImages.indexOf(t.id);
+      if (k >= 0) t.priorite = (k % 3) + 1;
+    }
+    await fs.writeFile(DATA[0], JSON.stringify(terms, null, 2) + "\n");
+    ctx = await donnees();
+    await ouvrirParametres(page);
+    p = { ...p, sources: "toutes" };
+    await regler(page, { sources: "toutes" });
+    await verifierAffiches(page, ctx, p, "fréquence Tous");
+    for (const f of [1, 2]) {
+      p = { ...p, frequence: f };
+      await regler(page, { frequence: f });
+      await verifierAffiches(page, ctx, p, `fréquence ${f}`);
+      check(`fréquence ${f} : moins d'images que Tous`, jouablesSelon(ctx, p).length < jouablesSelon(ctx, { ...p, frequence: 3 }).length);
+    }
+    p = { ...p, frequence: 1 };
+    await regler(page, { frequence: 1 });
+    await partieAvec(page, ctx, p);
+    p = { ...p, frequence: 2, mauvaisesReponses: "toutes" };
+    await ouvrirParametres(page);
+    await regler(page, { frequence: 2, mauvaisesReponses: "toutes" });
+    await partieAvec(page, ctx, p);
+  } finally {
+    await fs.writeFile(DATA[0], sauvegarde);
+    ctx = await donnees();
+  }
+
+  // Image suivante automatique : après une bonne réponse seulement.
+  await ouvrirParametres(page);
+  p = { ...p, frequence: 3, mauvaisesReponses: "categorie", suivantAuto: true };
+  await regler(page, { frequence: 3, mauvaisesReponses: "categorie", suivantAuto: true });
+  await partieAvec(page, ctx, p, { faux: (i) => i === 1 || i === 4 });
+
+  // Réglages par défaut.
+  await ouvrirParametres(page);
+  await page.getByRole("button", { name: "Réglages par défaut" }).click();
+  await verifierAffiches(page, ctx, DEFAUTS, "Réglages par défaut");
+  check(`défauts enregistrés`, JSON.stringify(await lireStockage(page)) === JSON.stringify(DEFAUTS), JSON.stringify(await lireStockage(page)));
+  await page.reload();
+  await page.getByTestId("param-compte").waitFor();
+  await verifierAffiches(page, ctx, DEFAUTS, "défauts après rechargement");
+
+  // Valeurs corrompues : réglages par défaut, sans erreur.
+  for (const [quoi, brut, attendu] of [
+    ["JSON illisible", "{pas du json", DEFAUTS],
+    ["null", "null", DEFAUTS],
+    ["nombre", "42", DEFAUTS],
+    ["valeurs invalides", JSON.stringify({ imagesParPartie: 7, propositions: "6", frequence: 0, sources: "x", mauvaisesReponses: 1, suivantAuto: "oui" }), DEFAUTS],
+    ["valeur partielle", JSON.stringify({ imagesParPartie: 5 }), { ...DEFAUTS, imagesParPartie: 5 }],
+  ]) {
+    await page.evaluate(([k, v]) => localStorage.setItem(k, v), [CLE_PARAMS, brut]);
+    await ouvrirParametres(page);
+    await verifierAffiches(page, ctx, attendu, `stockage ${quoi}`);
+    await page.goto(BASE + "/");
+    await boutonCategorie(page, "Toutes").click();
+    const prog = page.getByTestId("progression");
+    await prog.waitFor();
+    check(`stockage ${quoi} : partie de ${attendu.imagesParPartie}`, ((await prog.textContent()) ?? "").includes(`/ ${attendu.imagesParPartie}`), await prog.textContent());
+    check(`stockage ${quoi} : 4 mots`, (await page.getByTestId("choix").locator("button").count()) === 4);
+    await page.getByRole("button", { name: "Quitter" }).click();
+    await boutonCategorie(page, "Toutes").waitFor();
+  }
+  await page.evaluate(() => localStorage.clear());
+}
+
 // ---------- Gérer ----------
 async function compte(page) {
   return Number(((await page.getByTestId("compte").textContent()) ?? "").match(/\d+/)[0]);
@@ -370,8 +606,27 @@ async function testerGerer(page, nom, ajoutees) {
   await pasDeDefilementHorizontal(page, "gérer");
   check(`toutes les images listées`, (await compte(page)) === d.images.length, `${await compte(page)} / ${d.images.length}`);
 
-  // Toutes les cartes : image, terme, note, rectangle.
+  // Pagination : 60 cartes, puis « Afficher N images de plus ».
   const cartes = page.getByTestId("carte");
+  const plus = page.getByRole("button", { name: /^Afficher \d+ images? de plus$/ });
+  const toutAfficher = async () => {
+    for (let k = 0; k < 100 && (await plus.count()); k++) {
+      const avant = await cartes.count();
+      await plus.click();
+      await page.waitForFunction((n) => document.querySelectorAll("[data-testid=carte]").length > n, avant, { timeout: 10000 }).catch(() => {});
+    }
+  };
+  check(`premier paquet de ${Math.min(PAQUET, d.images.length)} cartes`, (await cartes.count()) === Math.min(PAQUET, d.images.length), String(await cartes.count()));
+  if (d.images.length > PAQUET) {
+    const libelle = `Afficher ${Math.min(PAQUET, d.images.length - PAQUET)} image${Math.min(PAQUET, d.images.length - PAQUET) > 1 ? "s" : ""} de plus`;
+    check(`bouton « ${libelle} »`, ((await plus.textContent()) ?? "").trim() === libelle, await plus.textContent());
+    await plus.click();
+    check(`second paquet`, (await cartes.count()) === Math.min(2 * PAQUET, d.images.length), String(await cartes.count()));
+  } else check(`pas de bouton « Afficher plus »`, (await plus.count()) === 0);
+  await toutAfficher();
+  check(`toutes les cartes affichées après « Afficher plus »`, (await cartes.count()) === d.images.length && (await plus.count()) === 0, String(await cartes.count()));
+
+  // Toutes les cartes : image, terme, note, rectangle.
   const n = await cartes.count();
   let cassees = [];
   let incoherentes = [];
@@ -382,38 +637,74 @@ async function testerGerer(page, nom, ajoutees) {
     if (!(await imageChargee(c.locator("img").first()))) cassees.push(id);
     const terme = (await c.getByTestId("terme").textContent()) ?? "";
     const cadre = await c.getByTestId("cadre").count();
-    const note = img.note ? ((await c.getByTestId("note").textContent()) ?? "") : "";
+    const note = img?.note ? ((await c.getByTestId("note").textContent()) ?? "") : "";
     if (!img || terme !== d.termsParId.get(img.termId)?.terme || cadre !== (img.rectangle ? 1 : 0) || note !== img.note) incoherentes.push(id);
   }
   check(`aucune image cassée dans Gérer (${n})`, cassees.length === 0, cassees.join(", "));
   check(`terme, note et rectangle de chaque carte`, incoherentes.length === 0, incoherentes.join(", "));
 
-  // Filtres
+  // Filtres et recherche : compte et premier paquet, puis tout afficher et comparer les ids.
   const filtre = async (label, valeur) => {
     await page.getByLabel(label, { exact: true }).selectOption(valeur);
   };
+  const rechercher = async (texte) => {
+    await page.getByLabel("Rechercher un terme", { exact: true }).fill(texte);
+  };
   const ids = async () => cartes.evaluateAll((cs) => cs.map((c) => c.dataset.id).sort());
-  const attendus = (f) => d.images.filter(f).map((i) => i.id).sort();
+  const verifier = async (nomFiltre, f) => {
+    const attendus = d.images.filter(f).map((i) => i.id).sort();
+    const nb = await compte(page);
+    const affichees = await cartes.count();
+    check(`${nomFiltre} : compte ${attendus.length}`, nb === attendus.length, String(nb));
+    check(`${nomFiltre} : ${Math.min(PAQUET, attendus.length)} cartes d'abord`, affichees === Math.min(PAQUET, attendus.length), String(affichees));
+    await toutAfficher();
+    check(`${nomFiltre} : images affichées`, JSON.stringify(await ids()) === JSON.stringify(attendus));
+    return attendus;
+  };
+  const cat = (i) => d.termsParId.get(i.termId)?.categorie;
+  const terme = (i) => normaliser(d.termsParId.get(i.termId)?.terme ?? i.termId);
   await filtre("Source", "perso");
-  check(`filtre Mes photos`, JSON.stringify(await ids()) === JSON.stringify(attendus((i) => i.source === "perso")));
+  await verifier(`filtre Mes photos`, (i) => i.source === "perso");
   await filtre("Source", "commons");
-  check(`filtre Commons`, JSON.stringify(await ids()) === JSON.stringify(attendus((i) => i.source === "commons")));
+  await verifier(`filtre Commons`, (i) => i.source === "commons");
   await filtre("Source", "");
-  for (const cat of CATEGORIES) {
-    await filtre("Catégorie", cat);
-    check(`filtre catégorie ${cat}`, JSON.stringify(await ids()) === JSON.stringify(attendus((i) => d.termsParId.get(i.termId)?.categorie === cat)));
+  check(`changer de filtre repart du premier paquet`, (await cartes.count()) === Math.min(PAQUET, d.images.length), String(await cartes.count()));
+  for (const c of CATEGORIES) {
+    await filtre("Catégorie", c);
+    await verifier(`filtre catégorie ${c}`, (i) => cat(i) === c);
   }
+  await filtre("Catégorie", "");
   await filtre("Statut", "refusée");
-  check(`filtre refusée`, JSON.stringify(await ids()) === JSON.stringify(attendus((i) => i.statut === "refusée")));
-  check(`image refusée de test listée`, (await ids()).includes(IMAGE_REFUSEE));
+  check(`image refusée de test listée`, (await verifier(`filtre refusée`, (i) => i.statut === "refusée")).includes(IMAGE_REFUSEE));
   await filtre("Catégorie", "Afrique de l'Ouest");
-  check(`filtres combinés`, JSON.stringify(await ids()) === JSON.stringify(attendus((i) => i.statut === "refusée" && d.termsParId.get(i.termId)?.categorie === "Afrique de l'Ouest")));
+  await verifier(`filtres combinés`, (i) => i.statut === "refusée" && cat(i) === "Afrique de l'Ouest");
   await filtre("Statut", "validée");
-  check(`filtre validée`, JSON.stringify(await ids()) === JSON.stringify(attendus((i) => i.statut === "validée" && d.termsParId.get(i.termId)?.categorie === "Afrique de l'Ouest")));
+  await verifier(`filtre validée`, (i) => i.statut === "validée" && cat(i) === "Afrique de l'Ouest");
   await filtre("Catégorie", "");
   await filtre("Statut", "");
-  await filtre("Source", "perso");
 
+  // Recherche d'un terme : sans accents, sans article, majuscules indifférentes.
+  for (const [saisie, cle] of [
+    ["allege", "allege"],
+    ["L'ALLÈGE", "allege"],
+    ["linteau", "linteau"],
+    ["le linteau", "linteau"],
+    ["fenetre", "fenetre"],
+    ["voute", "voute"],
+  ]) {
+    await rechercher(saisie);
+    const r = await verifier(`recherche « ${saisie} »`, (i) => terme(i).includes(cle));
+    check(`recherche « ${saisie} » non vide`, r.length > 0);
+  }
+  await rechercher("arc");
+  await filtre("Catégorie", "Structure");
+  await verifier(`recherche « arc » + catégorie Structure`, (i) => terme(i).includes("arc") && cat(i) === "Structure");
+  await filtre("Catégorie", "");
+  await rechercher("zzzz introuvable");
+  check(`recherche sans résultat : 0 image`, (await compte(page)) === 0 && (await cartes.count()) === 0);
+  await rechercher("");
+  check(`recherche effacée : toutes les images`, (await compte(page)) === d.images.length);
+  await filtre("Source", "perso");
   const [a, b] = ajoutees;
   const carte = (id) => page.locator(`[data-testid=carte][data-id="${id}"]`);
 
@@ -513,7 +804,6 @@ async function main() {
     });
     section = "préparation";
     check(`API : passage en refusée`, rep.status === 200, String(rep.status));
-    const incompat = await incompatibles();
 
     browser = await chromium.launch();
     for (const [nom, options] of [
@@ -524,9 +814,10 @@ async function main() {
       contexte.setDefaultTimeout(15000);
       const page = await contexte.newPage();
       surveiller(page, nom);
-      const ctx = { ...(await donnees()), incompat }; // relu : le passage précédent a pu créer des termes
+      const ctx = await donnees(); // relu : le passage précédent a pu créer des termes
       await testerJeu(page, ctx, nom);
       const ajoutees = await testerAjouter(page, nom, photos, nom.startsWith("390"));
+      await testerParametres(page, nom);
       if (ajoutees.length === 2) await testerGerer(page, nom, ajoutees);
       else check(`deux images ajoutées pour tester Gérer`, false);
       await contexte.close();

@@ -1,0 +1,1007 @@
+banco | le banco | Afrique de l'Ouest | P? | Terre crue argileuse, souvent mêlée de paille, moulée en briques, modelée en murs ou appliquée en enduit dans la construction traditionnelle ouest-africaine.
+bas-relief-d-abomey | le bas-relief d'Abomey | Afrique de l'Ouest | P3 | Bas-relief polychrome modelé dans les murs en terre des palais royaux d'Abomey, au Bénin.
+case | la case ronde | Afrique de l'Ouest | P? | Habitation traditionnelle de plan circulaire, aux murs en terre et au toit conique de paille.
+case-a-etage | la case à étage | Afrique de l'Ouest | P3 | Grande habitation diola en banco à deux niveaux, aux murs épais et au toit de chaume, typique de Mlomp en Casamance.
+case-a-impluvium | la case à impluvium | Afrique de l'Ouest | P? | Grande habitation diola de Casamance dont le toit en entonnoir recueille l'eau de pluie au centre.
+case-kassena | la case kassena | Afrique de l'Ouest | P3 | Case en terre du pays kassena (Burkina Faso) aux murs couverts de motifs géométriques peints en noir, blanc et rouge.
+concession | la concession | Afrique de l'Ouest | P2 | Ensemble de cases ou de bâtiments d'une même famille, groupés autour d'une cour et clos par un mur ou une palissade.
+crepissage | le crépissage | Afrique de l'Ouest | P3 | Réfection collective, à la main, de l'enduit de banco d'une mosquée soudano-sahélienne, comme la fête annuelle de Djenné.
+crinting | le crinting | Afrique de l'Ouest | P1 | Panneau de tiges ou de lattes tressées (bambou, rônier, mil), utilisé au Sénégal en palissade ou en paroi de case ; on dit aussi seko au Mali.
+facade-toucouleur | la façade toucouleur | Afrique de l'Ouest | P3 | Façade de maison en banco de Djenné marquée par un portail central en saillie, flanqué de pilastres et couronné de pinacles.
+ginna | la ginna | Afrique de l'Ouest | P3 | Grande maison du patriarche d'un lignage dogon, dont la façade de terre est percée de rangées de petites niches.
+grenier-a-mil | le grenier à mil | Afrique de l'Ouest | P2 | Petite construction surélevée en terre ou en paille tressée, coiffée d'un toit conique, où l'on stocke le mil.
+grenier-dogon | le grenier dogon | Afrique de l'Ouest | P? | Petit bâtiment en banco, coiffé d'un toit conique de paille, qui sert à stocker le mil.
+grenier-sur-pilotis | le grenier sur pilotis | Afrique de l'Ouest | P3 | Grenier à mil en paille dressé sur pilotis au-dessus de l'eau, comme ceux de Fadiouth en pays sérère.
+laterite | la latérite | Afrique de l'Ouest | P1 | Terre ou roche rouge riche en fer, très répandue en Afrique de l'Ouest, utilisée en remblai, en piste ou en moellons.
+maison-coloniale | la maison coloniale | Afrique de l'Ouest | P2 | Maison enduite de couleurs vives, à balcon ou galerie de bois ou de fer et à persiennes, typique de Saint-Louis et de Gorée.
+maison-de-signare | la maison de signare | Afrique de l'Ouest | P3 | Maison coloniale de Gorée ou de Saint-Louis à étage sur rez-de-chaussée, avec escalier extérieur, galerie et toit de tuiles.
+minaret | le minaret | Afrique de l'Ouest | P1 | Tour élancée d'une mosquée, d'où est lancé l'appel à la prière.
+mosquee-soudano-sahelienne | la mosquée soudano-sahélienne | Afrique de l'Ouest | P2 | Mosquée en banco aux murs épais rythmés de contreforts et de pinacles, hérissée de torons.
+paillote | la paillote | Afrique de l'Ouest | P1 | Abri léger à toit de paille ou de palmes sur poteaux de bois, courant sur les plages et dans les cours.
+pierre-de-laterite | la pierre de latérite | Afrique de l'Ouest | P3 | Bloc de latérite taillé, rougeâtre et alvéolé, maçonné en murs apparents.
+piste-lateritique | la piste latéritique | Afrique de l'Ouest | P1 | Route en terre rouge compactée, typique des campagnes d'Afrique de l'Ouest.
+porte-dogon | la porte dogon | Afrique de l'Ouest | P3 | Petite porte de bois sculptée de figures en relief qui ferme un grenier ou une maison en pays dogon.
+ronier | le rônier | Afrique de l'Ouest | P2 | Palmier dont le stipe, très résistant aux termites, est débité en lattes et en poutres pour la charpente.
+soukala | la soukala | Afrique de l'Ouest | P3 | Concession fortifiée en terre du Burkina Faso, faite de bâtiments accolés à toits-terrasses autour d'une cour.
+tata-somba | la tata somba | Afrique de l'Ouest | P2 | Maison-forteresse en terre à étage du nord du Bénin et du Togo, flanquée de tourelles coiffées de paille.
+tessons-de-bouteille | les tessons de bouteille | Afrique de l'Ouest | P2 | Éclats de verre scellés dans le mortier au sommet d'un mur de clôture pour empêcher l'escalade.
+toguna | le toguna | Afrique de l'Ouest | P? | Abri de palabres du pays dogon, au toit très épais de tiges de mil posé sur des piliers bas.
+toron | le toron | Afrique de l'Ouest | P? | Pièce de bois de rônier fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage.
+typha | le typha | Afrique de l'Ouest | P3 | Roseau des marais du fleuve Sénégal, transformé en panneaux isolants ou en bottes pour la construction.
+voute-nubienne | la voûte nubienne | Afrique de l'Ouest | P2 | Voûte en briques de terre crue montée sans coffrage, par rangs inclinés, utilisée dans le Sahel pour couvrir des maisons.
+aiguille-vibrante | l'aiguille vibrante | Chantier et outillage | P2 | Tige métallique vibrante au bout d'un flexible, plongée dans le béton frais pour en chasser l'air.
+banche | la banche | Chantier et outillage | P2 | Grand panneau de coffrage métallique vertical, stabilisé par des béquilles, qui sert à couler les voiles de béton.
+benne-a-beton | la benne à béton | Chantier et outillage | P3 | Seau métallique conique suspendu à la grue, à trappe en bas, qui déverse le béton dans le coffrage.
+benne-a-gravats | la benne à gravats | Chantier et outillage | P2 | Grand caisson métallique ouvert, déposé par camion, dans lequel on jette les déchets et gravats du chantier.
+betonniere | la bétonnière | Chantier et outillage | P1 | Machine à cuve rotative inclinable, électrique ou thermique, qui malaxe le béton ou le mortier sur le chantier.
+brouette | la brouette | Chantier et outillage | P1 | Caisse à une roue et deux bras qu'on pousse pour transporter matériaux et gravats.
+bulldozer | le bulldozer | Chantier et outillage | P2 | Engin sur chenilles muni à l'avant d'une large lame qui pousse et étale la terre.
+bungalow-de-chantier | le bungalow de chantier | Chantier et outillage | P3 | Module préfabriqué de type conteneur, installé sur un chantier comme bureau, vestiaire ou réfectoire.
+burin | le burin | Chantier et outillage | P2 | Barre d'acier à bout plat et tranchant, frappée au marteau pour tailler ou démolir la maçonnerie.
+camion-benne | le camion-benne | Chantier et outillage | P1 | Camion dont la caisse basculante déverse sable, gravier ou déblais.
+camion-toupie | le camion-toupie | Chantier et outillage | P1 | Camion portant une grande cuve rotative inclinée qui livre le béton prêt à l'emploi en le malaxant.
+carotteuse | la carotteuse | Chantier et outillage | P3 | Machine à couronne diamantée qui découpe un trou rond parfait dans le béton ou la maçonnerie.
+casque-anti-bruit | le casque anti-bruit | Chantier et outillage | P3 | Paire de coquilles reliées par un arceau, qui couvrent les oreilles contre le bruit des machines.
+casque-de-chantier | le casque de chantier | Chantier et outillage | P1 | Casque rigide en plastique coloré qui protège la tête des chocs et des chutes d'objets.
+chaise-d-implantation | la chaise d'implantation | Chantier et outillage | P2 | Planche horizontale clouée sur deux piquets, hors de la fouille, où l'on fixe les cordeaux qui matérialisent les axes.
+chalumeau | le chalumeau | Chantier et outillage | P3 | Outil à flamme alimenté par une bouteille de gaz, pour chauffer, braser ou souder.
+chariot-telescopique | le chariot télescopique | Chantier et outillage | P3 | Engin sur pneus à bras télescopique muni de fourches, qui lève et place les charges en hauteur.
+chaussures-de-securite | les chaussures de sécurité | Chantier et outillage | P1 | Chaussures montantes à coque de protection et semelle anti-perforation.
+cintreuse-a-armatures | la cintreuse à armatures | Chantier et outillage | P2 | Appareil manuel ou électrique sur lequel on plie les barres d'acier pour former cadres et crochets.
+cisaille-a-armatures | la cisaille à armatures | Chantier et outillage | P2 | Grande pince à longs bras, ou machine, qui coupe les barres d'acier à béton.
+cle-serre-tube | la clé serre-tube | Chantier et outillage | P2 | Grosse clé à mâchoires dentées réglables, qui serre et tourne les tubes et raccords filetés.
+coffrage | le coffrage | Chantier et outillage | P1 | Moule provisoire, en bois ou en métal, dans lequel on coule le béton pour lui donner sa forme.
+coffrage-bois | le coffrage bois | Chantier et outillage | P1 | Coffrage fait de planches ou de contreplaqué, cloué et renforcé de chevrons.
+coffrage-de-dalle | le coffrage de dalle | Chantier et outillage | P1 | Plateau horizontal de panneaux porté par des étais, sur lequel on pose les armatures et coule une dalle.
+coffrage-de-poteau | le coffrage de poteau | Chantier et outillage | P1 | Caisson vertical, souvent carré, monté autour des armatures d'un poteau avant d'y couler le béton.
+coffrage-metallique | le coffrage métallique | Chantier et outillage | P2 | Coffrage fait de panneaux d'acier réutilisables, assemblés par clavettes ou serrages.
+cone-de-signalisation | le cône de signalisation | Chantier et outillage | P2 | Cône en plastique orange à bandes blanches réfléchissantes, posé au sol pour baliser une zone de travaux.
+cordeau | le cordeau | Chantier et outillage | P1 | Ficelle tendue entre deux points pour aligner un rang de blocs ou tracer une ligne droite.
+cordeau-traceur | le cordeau traceur | Chantier et outillage | P3 | Boîtier contenant une ficelle enduite de poudre colorée, qu'on tend et fait claquer pour marquer une ligne droite.
+coupe-carreau | le coupe-carreau | Chantier et outillage | P2 | Appareil à rail et molette qui raye puis casse net les carreaux en ligne droite.
+coupe-tube | le coupe-tube | Chantier et outillage | P3 | Outil à molette tranchante qu'on fait tourner autour d'un tube pour le couper net.
+croisillons | les croisillons | Chantier et outillage | P2 | Petites croix en plastique placées entre les carreaux pour garder des joints de largeur égale.
+disqueuse | la disqueuse | Chantier et outillage | P1 | Meuleuse électrique à main dont le disque rotatif coupe métal, carrelage ou maçonnerie.
+dumper | le dumper | Chantier et outillage | P3 | Petit engin à benne basculante placée à l'avant, devant le conducteur, pour déplacer matériaux et terre sur le chantier.
+echafaudage | l'échafaudage | Chantier et outillage | P1 | Structure provisoire de montants, traverses et planchers dressée contre un ouvrage pour permettre de travailler en hauteur.
+echafaudage-en-bambou | l'échafaudage en bambou | Chantier et outillage | P3 | Échafaudage fait de tiges de bambou ligaturées entre elles.
+echafaudage-en-bois | l'échafaudage en bois | Chantier et outillage | P1 | Échafaudage fait de perches et de planches de bois liées ou clouées, encore très courant sur les chantiers ouest-africains.
+echafaudage-roulant | l'échafaudage roulant | Chantier et outillage | P2 | Tour d'échafaudage légère, montée sur roulettes à frein, qu'on déplace le long du travail.
+echafaudage-tubulaire | l'échafaudage tubulaire | Chantier et outillage | P2 | Échafaudage fait de tubes d'acier assemblés par des colliers, adaptable à toutes les formes d'ouvrage.
+echelle | l'échelle | Chantier et outillage | P1 | Appareil portatif formé de deux montants reliés par des barreaux, appuyé contre un ouvrage pour monter.
+elingue | l'élingue | Chantier et outillage | P3 | Sangle, câble ou chaîne terminé par des boucles ou des crochets, qui attache une charge au crochet de la grue.
+equerre-de-macon | l'équerre de maçon | Chantier et outillage | P2 | Grande équerre métallique en forme de L ou de triangle, pour vérifier les angles droits.
+etabli | l'établi | Chantier et outillage | P3 | Table de travail robuste, souvent munie d'un étau, sur laquelle on taille et assemble les pièces.
+etai | l'étai | Chantier et outillage | P1 | Pièce verticale provisoire, en bois ou en métal, qui soutient un coffrage, une dalle ou un ouvrage le temps qu'il tienne seul.
+etai-en-bois | l'étai en bois | Chantier et outillage | P1 | Perche ou bastaing de bois calé sous un coffrage pour le soutenir, très employé sur les chantiers au Sénégal.
+etai-metallique | l'étai métallique | Chantier et outillage | P1 | Étai télescopique en tube d'acier, réglable en hauteur par une broche et un écrou, avec une platine à chaque bout.
+fil-a-ligaturer | le fil à ligaturer | Chantier et outillage | P1 | Fil de fer recuit, souple, en bobine ou en tronçons, qu'on torsade pour attacher les barres d'armature entre elles.
+fil-a-plomb | le fil à plomb | Chantier et outillage | P1 | Poids métallique suspendu au bout d'une ficelle, qui donne la verticale pour monter un mur droit.
+filet-de-protection | le filet de protection | Chantier et outillage | P3 | Filet ou toile ajourée tendu sur un échafaudage ou sous un plancher pour retenir les chutes de personnes et d'objets.
+foreuse-de-pieux | la foreuse de pieux | Chantier et outillage | P3 | Engin sur chenilles portant un haut mât et une tarière qui creuse le sol pour couler des pieux de fondation.
+gants-de-travail | les gants de travail | Chantier et outillage | P1 | Gants en cuir, en tissu enduit ou en caoutchouc, qui protègent les mains des coupures, du ciment et des frottements.
+gilet-haute-visibilite | le gilet haute visibilité | Chantier et outillage | P1 | Gilet jaune ou orange fluo à bandes réfléchissantes, qui rend le travailleur visible.
+goulotte-a-gravats | la goulotte à gravats | Chantier et outillage | P3 | Conduit formé de tronçons emboîtés suspendus le long d'une façade, qui fait descendre les gravats des étages vers une benne.
+griffe-a-cintrer | la griffe à cintrer | Chantier et outillage | P3 | Barre d'acier terminée par une fourche, avec laquelle le ferrailleur plie à la main les fers à béton.
+grue-a-tour | la grue à tour | Chantier et outillage | P2 | Grue fixe formée d'un haut mât en treillis et d'une flèche horizontale qui pivote au-dessus du chantier.
+grue-mobile | la grue mobile | Chantier et outillage | P2 | Grue montée sur un camion ou un porteur à pneus, à flèche télescopique, stabilisée par des béquilles.
+harnais-de-securite | le harnais de sécurité | Chantier et outillage | P2 | Ensemble de sangles serrées autour du corps, relié par une longe à un point d'ancrage contre les chutes.
+jalon | le jalon | Chantier et outillage | P3 | Tige à bandes rouges et blanches plantée verticalement pour signaler un point visé de loin.
+ligne-de-vie | la ligne de vie | Chantier et outillage | P3 | Câble ou rail fixé à une structure, sur lequel le travailleur accroche sa longe en se déplaçant en hauteur.
+marteau | le marteau | Chantier et outillage | P1 | Outil formé d'une tête métallique fixée au bout d'un manche, pour frapper et enfoncer des clous.
+marteau-piqueur | le marteau-piqueur | Chantier et outillage | P2 | Lourd outil pneumatique ou électrique qui frappe un pic sur le béton ou la chaussée pour les briser.
+masse | la masse | Chantier et outillage | P1 | Lourd marteau à tête d'acier rectangulaire, à manche court ou long, pour casser ou frapper fort.
+metre-ruban | le mètre ruban | Chantier et outillage | P1 | Ruban métallique gradué enroulé dans un boîtier, qui se déroule pour mesurer.
+mini-pelle | la mini-pelle | Chantier et outillage | P2 | Petite pelle hydraulique sur chenilles, avec une lame à l'avant, pour les terrassements en espace réduit.
+mire | la mire | Chantier et outillage | P3 | Longue règle graduée tenue verticalement, sur laquelle on lit la hauteur dans la lunette d'un niveau.
+monte-charge | le monte-charge | Chantier et outillage | P3 | Plateforme ou cabine qui monte les matériaux le long d'un mât fixé à la façade.
+moule-a-parpaings | le moule à parpaings | Chantier et outillage | P3 | Moule métallique, souvent à levier, dans lequel on serre le béton maigre pour fabriquer des blocs sur place.
+nacelle-elevatrice | la nacelle élévatrice | Chantier et outillage | P2 | Engin muni d'un panier ou d'une plateforme élevé par un bras ou des ciseaux pour travailler en hauteur.
+niveau-a-bulle | le niveau à bulle | Chantier et outillage | P1 | Barre droite munie de fioles où une bulle d'air indique si une surface est horizontale ou verticale.
+niveau-a-eau | le niveau à eau | Chantier et outillage | P2 | Long tuyau transparent rempli d'eau dont les deux bouts donnent le même niveau, pour reporter un trait d'une pièce à l'autre.
+niveau-laser | le niveau laser | Chantier et outillage | P2 | Appareil qui projette des lignes ou un plan laser horizontal et vertical pour donner niveaux et aplombs.
+niveleuse | la niveleuse | Chantier et outillage | P3 | Engin long à six roues, avec une lame placée sous le châssis, qui règle la surface des plateformes et des routes.
+palan | le palan | Chantier et outillage | P3 | Appareil de levage à chaîne, manuel ou électrique, accroché en hauteur pour soulever une charge lourde.
+palissade-de-chantier | la palissade de chantier | Chantier et outillage | P2 | Clôture pleine provisoire, en tôle ou en panneaux, qui entoure un chantier et le sépare de la voie publique.
+panneau-de-chantier | le panneau de chantier | Chantier et outillage | P2 | Grand panneau d'affichage dressé à l'entrée d'un chantier, qui présente le projet, le permis de construire et les intervenants.
+pelle | la pelle | Chantier et outillage | P1 | Outil formé d'une plaque métallique un peu creuse au bout d'un long manche, pour remuer sable, gravier et mortier.
+pelle-hydraulique | la pelle hydraulique | Chantier et outillage | P1 | Engin de terrassement sur chenilles ou pneus, à tourelle pivotante et bras articulé terminé par un godet.
+perceuse | la perceuse | Chantier et outillage | P1 | Outil électrique à main qui fait tourner un foret pour percer des trous.
+pilonneuse | la pilonneuse | Chantier et outillage | P3 | Machine à main haute et étroite qui frappe le sol par sauts répétés pour compacter le fond des tranchées.
+pioche | la pioche | Chantier et outillage | P1 | Outil à fer pointu ou aplati monté perpendiculairement sur un manche, pour creuser un sol dur.
+piquet | le piquet | Chantier et outillage | P1 | Pieu de bois ou fer pointu enfoncé dans le sol pour repérer un point ou tendre un cordeau.
+plancher-d-echafaudage | le plancher d'échafaudage | Chantier et outillage | P3 | Plateau métallique ou planches sur lesquels on marche et on travaille à chaque niveau d'un échafaudage.
+plaque-vibrante | la plaque vibrante | Chantier et outillage | P2 | Machine à main posée sur une semelle d'acier vibrante, qu'on pousse pour compacter un remblai ou des pavés.
+platoir | le platoir | Chantier et outillage | P2 | Lame d'acier rectangulaire et lisse, à poignée centrale, pour étaler et lisser enduit, colle ou ragréage.
+pompe-a-beton | la pompe à béton | Chantier et outillage | P2 | Camion muni d'un long bras articulé à tuyau qui projette le béton jusqu'au point de coulage.
+poste-a-souder | le poste à souder | Chantier et outillage | P2 | Appareil électrique relié par câbles à une pince porte-électrode, qui fond le métal pour assembler des pièces d'acier.
+poulie | la poulie | Chantier et outillage | P2 | Roue à gorge suspendue en hauteur, sur laquelle passe une corde pour hisser seaux et matériaux à la main.
+rabot | le rabot | Chantier et outillage | P3 | Outil à lame tranchante réglable dans un fût, poussé sur le bois pour l'aplanir.
+raclette-a-joints | la raclette à joints | Chantier et outillage | P3 | Taloche à semelle de caoutchouc qui fait pénétrer le mortier de joint entre les carreaux.
+regle-de-macon | la règle de maçon | Chantier et outillage | P2 | Longue barre droite en aluminium, qu'on tire sur une chape ou un enduit frais pour le dresser.
+regle-vibrante | la règle vibrante | Chantier et outillage | P3 | Longue poutre à moteur vibreur, tirée sur le béton frais d'une dalle pour l'aplanir et le serrer.
+rouleau-compresseur | le rouleau compresseur | Chantier et outillage | P2 | Engin dont une ou plusieurs roues sont de lourds cylindres d'acier, qui compacte le sol ou l'enrobé.
+ruban-de-signalisation | le ruban de signalisation | Chantier et outillage | P3 | Ruban plastique à bandes rouges et blanches, tendu entre des piquets pour délimiter une zone interdite ou dangereuse.
+scie-circulaire | la scie circulaire | Chantier et outillage | P2 | Scie électrique à lame ronde dentée, portative ou sur table, pour débiter le bois et les panneaux.
+scie-sauteuse | la scie sauteuse | Chantier et outillage | P3 | Scie électrique à main dont la lame étroite va et vient verticalement, pour les découpes courbes.
+seau-de-macon | le seau de maçon | Chantier et outillage | P1 | Seau robuste en caoutchouc ou plastique noir, à anse, pour porter mortier, béton ou eau.
+spatule-crantee | la spatule crantée | Chantier et outillage | P2 | Lame d'acier à bord denté qui étale la colle à carrelage en sillons réguliers.
+station-totale | la station totale | Chantier et outillage | P2 | Appareil de topographie sur trépied, à lunette pivotante et écran, qui mesure angles et distances pour implanter.
+table-coffrante | la table coffrante | Chantier et outillage | P3 | Grand plateau de coffrage préassemblé sur son étaiement, déplacé d'un bloc à la grue d'une travée à l'autre.
+taloche | la taloche | Chantier et outillage | P1 | Planchette rectangulaire en bois, plastique ou mousse, munie d'une poignée, pour dresser et talocher un enduit.
+talocheuse-mecanique | la talocheuse mécanique | Chantier et outillage | P3 | Machine à pales tournantes guidée par un long manche, qui lisse la surface d'une dalle de béton frais.
+tamis | le tamis | Chantier et outillage | P1 | Cadre muni d'un grillage fin, souvent dressé incliné, à travers lequel on passe le sable pour en retirer les cailloux.
+tenaille | la tenaille | Chantier et outillage | P2 | Pince à mâchoires arrondies et coupantes, qui sert au ferrailleur à serrer et couper le fil de ligature.
+tige-de-coffrage | la tige de coffrage | Chantier et outillage | P3 | Tige filetée traversant un coffrage de mur, serrée par des écrous à ailettes pour tenir ses deux faces.
+tombereau | le tombereau | Chantier et outillage | P3 | Gros engin de terrassement à benne basculante, souvent articulé, qui transporte les déblais sur les grands chantiers.
+tour-d-etaiement | la tour d'étaiement | Chantier et outillage | P3 | Tour carrée formée de cadres métalliques empilés, qui porte de fortes charges de coffrage en hauteur.
+tournevis | le tournevis | Chantier et outillage | P1 | Outil à manche et tige métallique dont le bout plat ou cruciforme serre les vis.
+tractopelle | la tractopelle | Chantier et outillage | P1 | Engin sur pneus portant un godet de chargement à l'avant et un bras de pelle à l'arrière.
+tronconneuse | la tronçonneuse | Chantier et outillage | P3 | Scie à moteur dont une chaîne dentée tourne autour d'un guide, pour couper le bois.
+truelle | la truelle | Chantier et outillage | P1 | Outil à lame d'acier plate et pointue, avec un manche coudé, pour prendre, étaler et lisser le mortier.
+ascenseur | l'ascenseur | Escaliers et circulations | P2 | Cabine qui se déplace verticalement pour transporter des personnes d'un étage à l'autre, vue par ses portes palières.
+bande-podotactile | la bande podotactile | Escaliers et circulations | P2 | Bande à plots en relief posée au sol en haut des escaliers pour avertir les personnes malvoyantes.
+barreau-de-rampe | le barreau de rampe | Escaliers et circulations | P2 | Tige verticale, répétée en série, qui remplit l'espace entre la main courante et les marches.
+cage-d-escalier | la cage d'escalier | Escaliers et circulations | P1 | Volume vertical, fermé par des murs, dans lequel se développe l'escalier d'un immeuble.
+contremarche | la contremarche | Escaliers et circulations | P1 | Face verticale qui ferme l'espace entre deux marches successives.
+echelle-a-crinoline | l'échelle à crinoline | Escaliers et circulations | P3 | Échelle fixe verticale entourée d'arceaux métalliques qui protègent des chutes, pour l'accès aux toitures et cuves.
+echelle-de-meunier | l'échelle de meunier | Escaliers et circulations | P3 | Escalier très raide aux marches étroites et sans contremarches, entre l'échelle et l'escalier.
+escalier | l'escalier | Escaliers et circulations | P1 | Ouvrage fait d'une suite de marches qui permet de passer d'un niveau à un autre.
+escalier-a-cremaillere | l'escalier à crémaillère | Escaliers et circulations | P3 | Escalier dont les marches reposent sur un limon découpé en dents de scie, visible de profil.
+escalier-a-double-revolution | l'escalier à double révolution | Escaliers et circulations | P3 | Escalier monumental dont deux volées symétriques partent d'un même palier ou y aboutissent.
+escalier-de-secours | l'escalier de secours | Escaliers et circulations | P2 | Escalier métallique extérieur, accroché à la façade, qui sert d'issue en cas d'incendie.
+escalier-demi-tournant | l'escalier demi-tournant | Escaliers et circulations | P2 | Escalier dont deux volées parallèles montent en sens opposés, reliées par un palier ou des marches tournantes.
+escalier-droit | l'escalier droit | Escaliers et circulations | P1 | Escalier dont toutes les marches se suivent en ligne droite, sans changement de direction.
+escalier-en-beton | l'escalier en béton | Escaliers et circulations | P1 | Escalier coulé en béton armé, d'une seule pièce avec ses marches et sa paillasse.
+escalier-en-bois | l'escalier en bois | Escaliers et circulations | P2 | Escalier dont les marches, limons et rampe sont en bois.
+escalier-en-colimacon | l'escalier en colimaçon | Escaliers et circulations | P2 | Escalier hélicoïdal dont les marches tournent autour d'un poteau central.
+escalier-en-porte-a-faux | l'escalier en porte-à-faux | Escaliers et circulations | P3 | Escalier dont les marches sont encastrées d'un seul côté dans le mur et semblent flotter.
+escalier-escamotable | l'escalier escamotable | Escaliers et circulations | P3 | Escalier pliant ou télescopique qui se replie dans une trappe au plafond pour accéder aux combles.
+escalier-mecanique | l'escalier mécanique | Escaliers et circulations | P2 | Escalier dont les marches sont entraînées par un mécanisme et défilent en continu.
+escalier-metallique | l'escalier métallique | Escaliers et circulations | P2 | Escalier en acier, souvent à limons en profilés et marches en tôle ou caillebotis.
+escalier-quart-tournant | l'escalier quart tournant | Escaliers et circulations | P2 | Escalier qui change de direction à angle droit, par un palier ou des marches tournantes.
+limon | le limon | Escaliers et circulations | P2 | Pièce rampante, en bois, métal ou béton, qui porte les marches sur le côté de l'escalier.
+main-courante | la main courante | Escaliers et circulations | P1 | Barre continue que l'on saisit pour se tenir en montant ou descendant, posée sur la rampe ou fixée au mur.
+marche | la marche | Escaliers et circulations | P1 | Partie horizontale de l'escalier sur laquelle on pose le pied.
+marche-dansante | la marche dansante | Escaliers et circulations | P3 | Marche tournante, plus large d'un côté que de l'autre, qui fait changer l'escalier de direction.
+nez-de-marche | le nez de marche | Escaliers et circulations | P2 | Bord avant de la marche, souvent arrondi ou garni d'un profilé antidérapant.
+noyau | le noyau | Escaliers et circulations | P3 | Poteau ou mur central autour duquel tournent les marches d'un escalier.
+paillasse | la paillasse | Escaliers et circulations | P1 | Dalle inclinée en béton armé qui porte les marches d'un escalier, visible en sous-face.
+palier | le palier | Escaliers et circulations | P1 | Plateforme horizontale placée au départ, à l'arrivée ou entre deux volées d'un escalier.
+perron | le perron | Escaliers et circulations | P2 | Petit escalier extérieur terminé par une plateforme, devant la porte d'entrée d'un bâtiment.
+poteau-de-depart | le poteau de départ | Escaliers et circulations | P3 | Poteau plus massif qui marque le bas d'une rampe d'escalier et en reçoit la main courante.
+rampe-d-acces | la rampe d'accès | Escaliers et circulations | P2 | Plan incliné qui permet aux fauteuils roulants et poussettes de franchir une différence de niveau.
+rampe-d-escalier | la rampe d'escalier | Escaliers et circulations | P1 | Garde-corps qui suit l'inclinaison de l'escalier le long de ses volées.
+tremie-d-escalier | la trémie d'escalier | Escaliers et circulations | P2 | Ouverture laissée dans un plancher pour le passage d'un escalier.
+trottoir-roulant | le trottoir roulant | Escaliers et circulations | P3 | Tapis mécanique plat ou légèrement incliné qui transporte les piétons, notamment dans les aéroports.
+volee | la volée | Escaliers et circulations | P1 | Suite ininterrompue de marches entre deux paliers.
+abribus | l'abribus | Extérieurs et voirie | P2 | Abri couvert, souvent vitré et muni d'un banc, installé à un arrêt de bus.
+accotement | l'accotement | Extérieurs et voirie | P3 | Bande non roulée, en terre ou en gravier, située entre le bord de la chaussée et le fossé.
+aire-de-jeux | l'aire de jeux | Extérieurs et voirie | P3 | Espace extérieur équipé de toboggans, balançoires et jeux pour enfants, sur un sol amortissant.
+allee | l'allée | Extérieurs et voirie | P2 | Chemin aménagé d'un jardin ou d'une parcelle, en gravier, dalles ou pavés.
+avaloir | l'avaloir | Extérieurs et voirie | P1 | Bouche d'égout ouverte dans la bordure ou le caniveau, par laquelle l'eau de pluie descend dans le réseau.
+barbacane | la barbacane | Extérieurs et voirie | P3 | Petit trou ou tuyau traversant le bas d'un mur de soutènement, par où s'écoule l'eau des terres retenues.
+bassin-de-retention | le bassin de rétention | Extérieurs et voirie | P3 | Grand bassin à ciel ouvert, à berges en terre ou en béton, qui stocke les eaux de pluie avant de les rejeter.
+bateau-de-trottoir | le bateau de trottoir | Extérieurs et voirie | P3 | Abaissement de la bordure et du trottoir qui permet aux véhicules ou aux fauteuils de passer de la chaussée au trottoir.
+bordure-de-trottoir | la bordure de trottoir | Extérieurs et voirie | P1 | Bloc allongé en béton ou en pierre qui borde le trottoir et marque sa différence de hauteur avec la chaussée.
+bordurette | la bordurette | Extérieurs et voirie | P3 | Petite bordure en béton qui borde une allée, une pelouse ou un massif.
+buse | la buse | Extérieurs et voirie | P2 | Gros tuyau cylindrique en béton qui fait passer l'eau sous une voie ou une entrée de parcelle.
+canal-d-eaux-pluviales | le canal d'eaux pluviales | Extérieurs et voirie | P2 | Large canal à ciel ouvert en béton qui traverse un quartier pour évacuer les eaux de pluie, comme on en voit à Dakar.
+caniveau | le caniveau | Extérieurs et voirie | P1 | Rigole en béton ou en pierre au pied de la bordure, qui conduit l'eau de pluie de la chaussée vers les avaloirs.
+caniveau-a-grille | le caniveau à grille | Extérieurs et voirie | P2 | Canal étroit en béton ou en polymère encastré dans le sol et recouvert d'une grille, qui recueille l'eau sur sa longueur.
+chaperon | le chaperon | Extérieurs et voirie | P1 | Couronnement en pente d'un mur de clôture ou d'un pilier, qui rejette l'eau de pluie.
+chaussee | la chaussée | Extérieurs et voirie | P1 | Partie de la rue ou de la route où roulent les véhicules.
+cloture-en-bois | la clôture en bois | Extérieurs et voirie | P3 | Clôture faite de planches, de lattes ou de piquets de bois fixés à des poteaux.
+cloture-grillagee | la clôture grillagée | Extérieurs et voirie | P1 | Clôture faite d'un grillage métallique tendu entre des poteaux.
+concertina | le concertina | Extérieurs et voirie | P3 | Rouleau de fil barbelé à lames tranchantes, déployé en spirales en haut d'un mur ou d'une clôture.
+dalle-engazonnee | la dalle engazonnée | Extérieurs et voirie | P3 | Dalle en béton ou plastique ajourée d'alvéoles où pousse le gazon, pour un parking perméable.
+dalle-podotactile | la dalle podotactile | Extérieurs et voirie | P3 | Dalle à plots en relief, souvent de couleur contrastée, posée au bord d'un quai ou d'un passage pour alerter les malvoyants.
+dalot | le dalot | Extérieurs et voirie | P2 | Ouvrage rectangulaire en béton qui fait passer l'eau sous une route.
+dos-d-ane | le dos-d'âne | Extérieurs et voirie | P1 | Bosse aménagée en travers de la chaussée pour obliger les véhicules à ralentir.
+echelle-de-piscine | l'échelle de piscine | Extérieurs et voirie | P3 | Échelle en tubes d'inox recourbés, fixée au bord du bassin, pour entrer et sortir de l'eau.
+enrobe | l'enrobé | Extérieurs et voirie | P1 | Revêtement noir de gravillons liés au bitume, répandu à chaud et compacté sur une chaussée ou une cour.
+enrochement | l'enrochement | Extérieurs et voirie | P2 | Amas de gros blocs de roche disposés pour protéger un talus, une berge ou un littoral.
+fil-barbele | le fil barbelé | Extérieurs et voirie | P1 | Fil de fer torsadé garni de pointes, tendu sur une clôture ou en haut d'un mur.
+fosse | le fossé | Extérieurs et voirie | P2 | Tranchée en terre creusée le long d'une route ou d'un terrain pour recueillir et évacuer l'eau.
+fosse-septique | la fosse septique | Extérieurs et voirie | P1 | Cuve enterrée en béton ou préfabriquée, fermée de dalles ou de tampons, qui recueille et prétraite les eaux usées d'une maison.
+gabion | le gabion | Extérieurs et voirie | P2 | Cage en grillage d'acier remplie de pierres, empilée pour former murs et soutènements.
+grille-avaloir | la grille avaloir | Extérieurs et voirie | P2 | Grille en fonte posée dans le caniveau ou la chaussée, au-dessus d'un avaloir, qui laisse passer l'eau.
+grille-d-arbre | la grille d'arbre | Extérieurs et voirie | P3 | Grille métallique posée au sol autour du pied d'un arbre planté dans un trottoir ou une place.
+guerite | la guérite | Extérieurs et voirie | P3 | Petit abri maçonné ou préfabriqué placé à l'entrée d'une propriété ou d'un site, où se tient le gardien.
+haie | la haie | Extérieurs et voirie | P2 | Rangée d'arbustes plantés serrés et taillés, qui forme une clôture végétale.
+lampadaire | le lampadaire | Extérieurs et voirie | P1 | Haut mât portant un ou plusieurs luminaires qui éclairent la rue.
+margelle | la margelle | Extérieurs et voirie | P2 | Rebord en pierre, béton ou carrelage qui couronne le bord du bassin d'une piscine.
+marquage-au-sol | le marquage au sol | Extérieurs et voirie | P1 | Lignes et signes peints en blanc ou en jaune sur la chaussée pour guider la circulation.
+mur-de-cloture | le mur de clôture | Extérieurs et voirie | P1 | Mur maçonné qui ferme une parcelle sur la rue et les voisins, typique des concessions et villas de Dakar.
+mur-de-soutenement | le mur de soutènement | Extérieurs et voirie | P2 | Mur épais qui retient les terres d'un talus ou d'un terrain en pente.
+muret | le muret | Extérieurs et voirie | P1 | Mur bas qui délimite un jardin, une allée ou supporte une grille.
+panneau-de-signalisation | le panneau de signalisation | Extérieurs et voirie | P1 | Plaque métallique à symboles, fixée sur un poteau, qui donne une indication ou une obligation aux usagers de la route.
+pas-japonais | les pas japonais | Extérieurs et voirie | P3 | Dalles espacées posées dans la pelouse ou le gravier, sur lesquelles on marche pas à pas.
+passage-pieton | le passage piéton | Extérieurs et voirie | P1 | Bandes blanches peintes en travers de la chaussée, où les piétons traversent.
+pave | le pavé | Extérieurs et voirie | P2 | Bloc de pierre taillée, souvent cubique, juxtaposé à d'autres pour revêtir une rue ou une place.
+pave-autobloquant | le pavé autobloquant | Extérieurs et voirie | P1 | Pavé en béton à formes emboîtables, posé sur sable sans mortier, très employé pour les trottoirs et cours à Dakar.
+pediluve | le pédiluve | Extérieurs et voirie | P3 | Petit bassin peu profond où l'on se lave les pieds avant d'accéder à une piscine.
+pelouse | la pelouse | Extérieurs et voirie | P2 | Surface plantée de gazon court et entretenu.
+pergola | la pergola | Extérieurs et voirie | P2 | Structure de poteaux et de poutres ajourées qui forme un couvert léger au-dessus d'une terrasse ou d'une allée.
+pilier-de-portail | le pilier de portail | Extérieurs et voirie | P1 | Poteau maçonné, souvent coiffé d'un chapeau, sur lequel le portail est fixé de chaque côté de l'entrée.
+piscine | la piscine | Extérieurs et voirie | P1 | Bassin artificiel étanche, revêtu de carrelage, de liner ou d'enduit, aménagé pour la baignade.
+piscine-a-debordement | la piscine à débordement | Extérieurs et voirie | P3 | Piscine dont l'eau déborde sur un ou plusieurs bords en une lame continue, donnant l'illusion qu'elle se prolonge dans le paysage.
+piste-cyclable | la piste cyclable | Extérieurs et voirie | P3 | Voie réservée aux vélos, séparée ou marquée au sol, parfois de couleur distincte.
+piste-en-laterite | la piste en latérite | Extérieurs et voirie | P2 | Route non revêtue en terre latéritique rouge compactée, courante en Afrique de l'Ouest.
+plage-de-piscine | la plage de piscine | Extérieurs et voirie | P3 | Surface dallée ou en bois qui entoure le bassin d'une piscine.
+potelet | le potelet | Extérieurs et voirie | P2 | Petit poteau fixé au bord du trottoir pour empêcher les voitures d'y stationner.
+puisard | le puisard | Extérieurs et voirie | P3 | Puits maçonné à fond perméable, couvert d'une dalle, dans lequel les eaux s'infiltrent dans le sol.
+regard | le regard | Extérieurs et voirie | P1 | Ouvrage enterré maçonné ou préfabriqué, fermé par un couvercle, qui donne accès à une canalisation pour la visite et le curage.
+skimmer | le skimmer | Extérieurs et voirie | P3 | Bouche rectangulaire placée en haut de la paroi d'une piscine, qui aspire l'eau de surface vers la filtration.
+talus | le talus | Extérieurs et voirie | P2 | Terrain en pente, naturel ou remblayé, qui raccorde deux niveaux de sol.
+tampon-de-regard | le tampon de regard | Extérieurs et voirie | P1 | Couvercle rond ou carré, en fonte ou en béton, qui ferme un regard au niveau du sol.
+terre-plein-central | le terre-plein central | Extérieurs et voirie | P3 | Bande surélevée, plantée ou bétonnée, qui sépare les deux sens de circulation d'une route.
+tessons-de-verre | les tessons de verre | Extérieurs et voirie | P2 | Morceaux de bouteilles cassées scellés dans le mortier en crête de mur pour empêcher l'escalade.
+trottoir | le trottoir | Extérieurs et voirie | P1 | Partie surélevée de la rue, le long de la chaussée, réservée aux piétons.
+abat-son | l'abat-son | Façade et ouvertures | P3 | Ensemble de lames inclinées fermant les baies d'un clocher, qui rabattent le son vers le sol.
+allege | l'allège | Façade et ouvertures | P? | Partie de mur située sous une fenêtre, entre le plancher et l'appui de la baie.
+appui-de-fenetre | l'appui de fenêtre | Façade et ouvertures | P? | Tablette horizontale qui termine le bas d'une baie au-dessus de l'allège, souvent saillante et inclinée pour rejeter l'eau de pluie.
+arcade | l'arcade | Façade et ouvertures | P2 | Suite d'arcs portés par des piliers ou des colonnes qui bordent une façade et forment un passage couvert.
+attique | l'attique | Façade et ouvertures | P3 | Dernier étage d'un immeuble, plus bas ou en retrait par rapport à la façade principale.
+auvent | l'auvent | Façade et ouvertures | P1 | Petit toit en saillie fixé à la façade, au-dessus d'une porte ou d'une fenêtre, pour l'abriter.
+avant-corps | l'avant-corps | Façade et ouvertures | P3 | Partie d'une façade en saillie sur le reste, sur toute la hauteur du bâtiment.
+baie | la baie | Façade et ouvertures | P1 | Ouverture ménagée dans un mur pour une porte ou une fenêtre, considérée avec son encadrement maçonné.
+baie-cintree | la baie cintrée | Façade et ouvertures | P2 | Baie dont la partie haute est en forme d'arc plutôt que droite.
+baie-d-angle | la baie d'angle | Façade et ouvertures | P3 | Fenêtre qui se retourne sur l'angle du bâtiment, sans poteau ni mur à l'angle.
+baie-geminee | la baie géminée | Façade et ouvertures | P3 | Paire de baies accolées, séparées par une colonnette ou un pilier mince.
+balcon | le balcon | Façade et ouvertures | P? | Plateforme en saillie sur une façade, accessible depuis l'intérieur et fermée par un garde-corps.
+balcon-filant | le balcon filant | Façade et ouvertures | P2 | Balcon continu qui court sur toute la longueur d'une façade, devant plusieurs baies.
+balconnet | le balconnet | Façade et ouvertures | P3 | Garde-corps placé devant une porte-fenêtre, sans plateforme ou avec une très faible avancée.
+balustrade | la balustrade | Façade et ouvertures | P2 | Garde-corps formé d'une rangée de balustres surmontée d'une tablette.
+barre-d-appui | la barre d'appui | Façade et ouvertures | P3 | Barre métallique fixée en travers d'une fenêtre basse pour éviter les chutes.
+bavette | la bavette | Façade et ouvertures | P2 | Tôle pliée posée sur l'appui d'une fenêtre, débordant du mur pour rejeter l'eau de pluie.
+brise-soleil | le brise-soleil | Façade et ouvertures | P? | Ensemble de lames ou de panneaux fixés devant une façade pour la protéger du rayonnement solaire.
+brise-soleil-horizontal | le brise-soleil horizontal | Façade et ouvertures | P2 | Brise-soleil fait de lames ou dalles horizontales fixes en saillie au-dessus ou devant les baies.
+brise-soleil-orientable | le brise-soleil orientable | Façade et ouvertures | P2 | Store extérieur à lames métalliques orientables qui se relèvent et se baissent devant une baie.
+brise-soleil-vertical | le brise-soleil vertical | Façade et ouvertures | P2 | Brise-soleil fait de lames ou ailettes verticales fixes, placées devant la façade pour couper le soleil rasant.
+cache-climatiseur | le cache-climatiseur | Façade et ouvertures | P2 | Grille ou caisson ajouré qui masque l'unité extérieure d'un climatiseur fixée en façade.
+casquette | la casquette | Façade et ouvertures | P1 | Dalle de béton en saillie au-dessus d'une baie ou d'une façade, qui l'abrite du soleil et de la pluie.
+chaine-d-angle | la chaîne d'angle | Façade et ouvertures | P2 | Assemblage vertical de pierres ou de briques alternées qui renforce et marque l'angle d'un mur.
+chambranle | le chambranle | Façade et ouvertures | P? | Encadrement en saillie, mouluré ou non, qui borde une porte, une fenêtre ou une cheminée.
+claustra | le claustra | Façade et ouvertures | P? | Paroi ajourée faite d'éléments assemblés en béton, terre cuite ou bois, qui laisse passer l'air et la lumière.
+cour-anglaise | la cour anglaise | Façade et ouvertures | P3 | Fossé ouvert le long d'une façade, sous le niveau du sol, qui éclaire et aère un sous-sol.
+coursive | la coursive | Façade et ouvertures | P2 | Galerie extérieure ouverte, le long d'une façade, qui dessert les logements d'un même étage.
+devanture | la devanture | Façade et ouvertures | P2 | Façade d'une boutique au rez-de-chaussée, avec sa vitrine, son entrée et son bandeau d'enseigne.
+ebrasement | l'ébrasement | Façade et ouvertures | P3 | Côtés d'une baie taillés en biais pour que l'ouverture s'évase vers l'intérieur ou l'extérieur du mur.
+embrasure | l'embrasure | Façade et ouvertures | P1 | Espace ménagé dans l'épaisseur du mur autour d'une baie, entre la menuiserie et le nu du mur.
+encadrement-de-baie | l'encadrement de baie | Façade et ouvertures | P1 | Bordure qui entoure une baie en façade, en saillie ou de teinte différente, sur les côtés et au-dessus.
+encorbellement | l'encorbellement | Façade et ouvertures | P2 | Partie de construction en saillie sur le nu d'un mur, portée en porte-à-faux par des consoles ou des corbeaux.
+facade | la façade | Façade et ouvertures | P1 | Face extérieure verticale d'un bâtiment, avec ses murs et ses ouvertures, vue dans son ensemble.
+facade-double-peau | la façade double peau | Façade et ouvertures | P3 | Façade composée de deux parois vitrées séparées par un vide d'air ventilé, souvent accessible pour l'entretien.
+facade-ventilee | la façade ventilée | Façade et ouvertures | P3 | Façade dont le parement extérieur (panneaux, plaques, lames) est fixé sur une ossature à distance du mur, avec une lame d'air derrière.
+fenetre-en-bandeau | la fenêtre en bandeau | Façade et ouvertures | P2 | Fenêtre horizontale très allongée qui court sur une grande partie de la façade.
+feuillure | la feuillure | Façade et ouvertures | P3 | Entaille en angle droit ménagée dans le tableau d'une baie pour recevoir le dormant de la menuiserie.
+garde-corps | le garde-corps | Façade et ouvertures | P? | Barrière à hauteur d'appui qui protège des chutes au bord d'un vide, comme un balcon, un escalier ou une terrasse.
+garde-corps-a-barreaudage | le garde-corps à barreaudage | Façade et ouvertures | P1 | Garde-corps métallique à barreaux verticaux rapprochés fixés entre une lisse haute et une lisse basse.
+garde-corps-a-cables | le garde-corps à câbles | Façade et ouvertures | P3 | Garde-corps dont le remplissage est fait de câbles en acier inoxydable tendus entre des poteaux.
+garde-corps-a-lisses | le garde-corps à lisses | Façade et ouvertures | P2 | Garde-corps métallique dont le remplissage est fait de barres horizontales parallèles.
+garde-corps-en-fer-forge | le garde-corps en fer forgé | Façade et ouvertures | P2 | Garde-corps en fers forgés et assemblés en volutes ou motifs décoratifs.
+garde-corps-maconne | le garde-corps maçonné | Façade et ouvertures | P1 | Muret plein en maçonnerie ou en béton qui fait office de garde-corps sur un balcon ou une terrasse.
+garde-corps-vitre | le garde-corps vitré | Façade et ouvertures | P1 | Garde-corps dont le remplissage est un panneau de verre feuilleté, tenu par des pinces, un profilé ou des montants.
+imposte | l'imposte | Façade et ouvertures | P? | Partie haute, fixe ou ouvrante et souvent vitrée, d'une porte ou d'une fenêtre, séparée du reste par une traverse.
+jardiniere | la jardinière | Façade et ouvertures | P3 | Bac en saillie intégré à la façade, au balcon ou à l'appui, destiné à recevoir des plantes.
+larmier | le larmier | Façade et ouvertures | P2 | Saillie ou rainure sous un appui, une corniche ou une dalle, qui fait goutter l'eau de pluie loin du mur.
+linteau | le linteau | Façade et ouvertures | P? | Élément horizontal en pierre, bois ou béton qui ferme le haut d'une baie et porte la maçonnerie située au-dessus.
+lisse | la lisse | Façade et ouvertures | P3 | Barre horizontale d'un garde-corps, en partie haute ou basse, sur laquelle sont fixés les barreaux.
+loggia | la loggia | Façade et ouvertures | P1 | Balcon couvert et en retrait dans l'épaisseur de la façade, fermé sur les côtés.
+marquise | la marquise | Façade et ouvertures | P2 | Petit auvent vitré à structure métallique au-dessus d'une porte d'entrée.
+meneau | le meneau | Façade et ouvertures | P? | Montant vertical fixe, en pierre ou en bois, qui divise une même fenêtre en plusieurs parties.
+meurtriere | la meurtrière | Façade et ouvertures | P3 | Ouverture verticale très étroite dans un mur épais, à l'origine pour tirer à l'abri.
+moucharabieh | le moucharabieh | Façade et ouvertures | P? | Treillis de bois tourné, souvent en saillie devant une fenêtre, qui permet de voir sans être vu, typique de l'architecture arabe.
+mur-aveugle | le mur aveugle | Façade et ouvertures | P2 | Façade ou pan de mur entièrement dépourvu d'ouverture.
+mur-rideau | le mur-rideau | Façade et ouvertures | P1 | Façade légère entièrement vitrée, faite d'une ossature de montants et traverses accrochée devant la structure du bâtiment.
+mur-vegetal | le mur végétal | Façade et ouvertures | P2 | Façade ou mur couvert de plantes cultivées sur un support vertical, avec arrosage intégré.
+nez-de-dalle | le nez de dalle | Façade et ouvertures | P3 | Tranche d'un plancher en béton visible en façade, formant une bande horizontale à chaque niveau.
+oeil-de-boeuf | l'œil-de-bœuf | Façade et ouvertures | P? | Petite fenêtre ronde ou ovale percée dans un mur ou un toit.
+oriel | l'oriel | Façade et ouvertures | P? | Avant-corps vitré en encorbellement sur une façade, sur un ou plusieurs étages.
+pan-coupe | le pan coupé | Façade et ouvertures | P2 | Angle d'un bâtiment remplacé par une façade oblique, typiquement à un carrefour.
+panneau-d-allege | le panneau d'allège | Façade et ouvertures | P3 | Panneau opaque d'un mur-rideau, devant le nez de plancher, entre deux bandes de vitrage.
+pare-vue | le pare-vue | Façade et ouvertures | P3 | Panneau opaque ou translucide séparant deux balcons ou terrasses voisins pour masquer la vue.
+persienne | la persienne | Façade et ouvertures | P? | Volet extérieur à lames inclinées qui laisse passer l'air tout en arrêtant le soleil.
+piedroit | le piédroit | Façade et ouvertures | P? | Montant vertical de maçonnerie qui forme le côté d'une baie et porte le linteau ou l'arc.
+pignon | le pignon | Façade et ouvertures | P? | Partie supérieure, triangulaire, d'un mur qui porte les deux versants d'un toit.
+pignon-a-redents | le pignon à redents | Façade et ouvertures | P3 | Pignon dont les rampants sont découpés en gradins successifs.
+plate-bande | la plate-bande | Façade et ouvertures | P3 | Linteau droit composé de claveaux (pierres ou briques) appareillés au-dessus d'une baie.
+porche | le porche | Façade et ouvertures | P2 | Espace couvert devant l'entrée d'un bâtiment, formant abri avant la porte.
+resille-metallique | la résille métallique | Façade et ouvertures | P3 | Enveloppe en métal ajouré (tôle perforée, maille, lames) posée devant une façade comme filtre visuel et solaire.
+seuil | le seuil | Façade et ouvertures | P1 | Pièce horizontale (pierre, béton, métal) au bas d'une porte, qui marque le passage et arrête l'eau.
+soubassement | le soubassement | Façade et ouvertures | P1 | Partie basse d'une façade, au-dessus du sol, souvent traitée dans un matériau ou une teinte différente.
+soupirail | le soupirail | Façade et ouvertures | P2 | Petite ouverture au ras du sol, souvent grillagée, qui éclaire et aère une cave.
+store-a-l-italienne | le store à l'italienne | Façade et ouvertures | P3 | Store en toile dont la partie basse est projetée vers l'extérieur par deux bras, devant une fenêtre.
+store-banne | le store banne | Façade et ouvertures | P1 | Store en toile qui se déroule en avant d'une façade, porté par des bras articulés.
+tableau-de-baie | le tableau de baie | Façade et ouvertures | P1 | Face verticale du mur visible de chaque côté d'une baie, entre la menuiserie et le parement extérieur.
+treillage | le treillage | Façade et ouvertures | P3 | Grille de lattes ou de câbles fixée contre un mur pour y faire grimper des plantes.
+trumeau | le trumeau | Façade et ouvertures | P? | Pan de mur compris entre deux baies voisines ; dans un portail, pilier central qui en divise l'ouverture.
+tympan | le tympan | Façade et ouvertures | P? | Surface, souvent sculptée, enclose entre le linteau et l'arc d'un portail, ou entre les corniches d'un fronton.
+veranda | la véranda | Façade et ouvertures | P2 | Galerie couverte, ouverte ou vitrée, adossée à une façade et portée par des poteaux.
+vitrage-agrafe | le vitrage agrafé | Façade et ouvertures | P3 | Façade vitrée dont les vitres sont tenues par des fixations ponctuelles en acier (rotules, araignées) et non par des cadres.
+vitrine | la vitrine | Façade et ouvertures | P1 | Grande baie vitrée d'un commerce au rez-de-chaussée, derrière laquelle sont exposées les marchandises.
+voile-d-ombrage | la voile d'ombrage | Façade et ouvertures | P2 | Toile tendue entre des mâts ou des points d'ancrage pour ombrager une terrasse ou une cour.
+amorce-de-poteau | l'amorce de poteau | Gros œuvre et maçonnerie | P2 | Départ de poteau en béton déjà coulé sur une faible hauteur, d'où sortent les armatures du poteau à venir.
+appareil-anglais | l'appareil anglais | Gros œuvre et maçonnerie | P3 | Appareil de briques où un rang de panneresses alterne avec un rang de boutisses.
+appareil-cyclopeen | l'appareil cyclopéen | Gros œuvre et maçonnerie | P3 | Maçonnerie de très gros blocs de pierre bruts ou à peine taillés, ajustés sans mortier.
+appareil-en-epi | l'appareil en épi | Gros œuvre et maçonnerie | P3 | Appareil de briques ou de pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre en arête de poisson.
+appareil-en-panneresses | l'appareil en panneresses | Gros œuvre et maçonnerie | P2 | Disposition des briques ou des blocs tous posés en longueur, chaque rang décalé d'une demi-longueur sur le précédent.
+appareil-flamand | l'appareil flamand | Gros œuvre et maçonnerie | P3 | Appareil de briques où panneresses et boutisses alternent dans chaque rang.
+appareil-reticule | l'appareil réticulé | Gros œuvre et maçonnerie | P3 | Appareil de petites pierres carrées posées sur la pointe, qui dessinent un filet de losanges.
+arase | l'arase | Gros œuvre et maçonnerie | P2 | Dernier rang d'un mur, mis de niveau pour recevoir un plancher, un chaînage ou une charpente.
+arase-etanche | l'arase étanche | Gros œuvre et maçonnerie | P3 | Couche de mortier hydrofuge ou bande bitumineuse posée en tête du soubassement pour couper les remontées d'humidité dans le mur.
+armature-en-attente | l'armature en attente | Gros œuvre et maçonnerie | P1 | Barre d'acier laissée en saillie d'un ouvrage en béton pour être raccordée à la partie coulée plus tard ; on parle couramment des attentes, par exemple au-dessus d'une toiture-terrasse.
+assise | l'assise | Gros œuvre et maçonnerie | P2 | Rang horizontal de briques, de blocs ou de pierres d'un mur.
+badigeon-bitumineux | le badigeon bitumineux | Gros œuvre et maçonnerie | P3 | Couche noire de bitume appliquée sur la face enterrée des fondations et des murs pour les protéger de l'humidité.
+bande-d-arret-d-eau | la bande d'arrêt d'eau | Gros œuvre et maçonnerie | P3 | Bande de caoutchouc ou de PVC noyée à cheval sur une reprise de bétonnage pour empêcher l'eau de passer.
+beton-cyclopeen | le béton cyclopéen | Gros œuvre et maçonnerie | P3 | Béton dans lequel on noie de gros blocs de pierre, utilisé pour les fondations massives et les murs de soubassement.
+beton-de-proprete | le béton de propreté | Gros œuvre et maçonnerie | P1 | Mince couche de béton maigre coulée au fond des fouilles pour obtenir une surface propre et plane avant de poser les armatures.
+beton-frais | le béton frais | Gros œuvre et maçonnerie | P2 | Béton qui vient d'être coulé, encore humide et malléable, de couleur gris foncé.
+beton-projete | le béton projeté | Gros œuvre et maçonnerie | P3 | Béton envoyé à grande vitesse par une lance sur une paroi, qui forme une surface rugueuse et bosselée.
+betonnage | le bétonnage | Gros œuvre et maçonnerie | P1 | Coulage du béton dans un coffrage ou sur une dalle, à la pompe, à la goulotte ou au seau.
+blindage-de-fouille | le blindage de fouille | Gros œuvre et maçonnerie | P3 | Ensemble de panneaux, planches ou caissons métalliques étayés qui retiennent les parois d'une tranchée profonde.
+bloc-a-bancher | le bloc à bancher | Gros œuvre et maçonnerie | P3 | Bloc de béton creux à grandes alvéoles, monté à sec puis rempli de béton armé pour former un mur porteur.
+bloc-de-beton-cellulaire | le bloc de béton cellulaire | Gros œuvre et maçonnerie | P3 | Gros bloc blanc et léger, très régulier, en béton aéré, monté à joints minces.
+bloc-en-u | le bloc en U | Gros œuvre et maçonnerie | P3 | Bloc de béton en forme de U qui sert de coffrage perdu pour couler un linteau ou un chaînage dans le mur.
+bloc-plein | le bloc plein | Gros œuvre et maçonnerie | P2 | Bloc de béton moulé sans alvéoles, plus lourd que le parpaing creux, utilisé en soubassement ou pour les murs très chargés.
+boutisse | la boutisse | Gros œuvre et maçonnerie | P3 | Brique ou pierre posée en travers du mur, dont on ne voit que le petit bout dans le parement.
+brique-creuse | la brique creuse | Gros œuvre et maçonnerie | P2 | Brique de terre cuite percée d'alvéoles parallèles, plus grande et plus légère que la brique pleine.
+cadre-d-armature | le cadre d'armature | Gros œuvre et maçonnerie | P1 | Barre d'acier pliée en carré ou en rectangle fermé, qui entoure les barres longitudinales d'un poteau ou d'une poutre.
+cage-d-armature | la cage d'armature | Gros œuvre et maçonnerie | P2 | Assemblage préparé de barres longitudinales tenues par des cadres, destiné à un poteau, une poutre ou un pieu.
+cale-d-armature | la cale d'armature | Gros œuvre et maçonnerie | P2 | Petite pièce en béton ou en plastique placée sous ou contre les armatures pour les tenir à distance du coffrage et garantir l'enrobage.
+chainage | le chaînage | Gros œuvre et maçonnerie | P1 | Élément en béton armé noyé dans la maçonnerie, horizontal ou vertical, qui ceinture et solidarise les murs.
+chainage-horizontal | le chaînage horizontal | Gros œuvre et maçonnerie | P1 | Ceinture continue en béton armé coulée sur les murs au niveau des planchers ou en tête de mur.
+chainage-vertical | le chaînage vertical | Gros œuvre et maçonnerie | P1 | Petit poteau en béton armé coulé dans la maçonnerie aux angles et aux croisements des murs, souvent appelé raidisseur.
+chaise-d-armature | la chaise d'armature | Gros œuvre et maçonnerie | P2 | Support en acier plié ou en plastique qui tient la nappe supérieure d'armatures d'une dalle à la bonne hauteur.
+chape | la chape | Gros œuvre et maçonnerie | P1 | Couche de mortier ou de béton coulée et dressée sur un plancher pour obtenir une surface plane avant le revêtement de sol.
+chape-liquide | la chape liquide | Gros œuvre et maçonnerie | P3 | Chape fluide coulée à la pompe, qui se met de niveau d'elle-même et donne une surface très lisse.
+ciment | le ciment | Gros œuvre et maçonnerie | P1 | Poudre grise qui durcit avec l'eau, base du mortier et du béton, livrée en sacs sur le chantier.
+corrosion-des-armatures | la corrosion des armatures | Gros œuvre et maçonnerie | P2 | Rouille des barres d'acier qui gonflent, font éclater le béton et apparaissent à nu, fréquente en bord de mer.
+coupleur-d-armature | le coupleur d'armature | Gros œuvre et maçonnerie | P3 | Manchon d'acier fileté ou serti qui raccorde bout à bout deux barres d'armature.
+crochet-d-armature | le crochet d'armature | Gros œuvre et maçonnerie | P2 | Extrémité recourbée d'une barre d'acier qui améliore son ancrage dans le béton.
+dallage | le dallage | Gros œuvre et maçonnerie | P1 | Dalle de béton coulée directement sur le sol préparé, qui forme le plancher bas d'un rez-de-chaussée, d'un hangar ou d'une cour.
+deblai | le déblai | Gros œuvre et maçonnerie | P2 | Terre extraite lors du terrassement, déposée en tas au bord des fouilles ou évacuée du chantier.
+enrobage | l'enrobage | Gros œuvre et maçonnerie | P3 | Épaisseur de béton qui recouvre les armatures et les protège ; on la voit à la tranche d'une pièce ou lorsqu'elle a éclaté.
+epaufrure | l'épaufrure | Gros œuvre et maçonnerie | P3 | Éclat de béton détaché sur une arête ou une surface, laissant une cavité irrégulière.
+epingle | l'épingle | Gros œuvre et maçonnerie | P3 | Petite barre d'acier droite à crochets aux deux bouts, qui relie deux barres opposées d'une armature.
+etrier | l'étrier | Gros œuvre et maçonnerie | P2 | Barre d'acier pliée en U qui maintient les barres d'une poutre et reprend l'effort tranchant.
+fer-a-beton | le fer à béton | Gros œuvre et maçonnerie | P1 | Barre d'acier à surface crénelée, dite haute adhérence (HA), livrée en longueurs droites et façonnée sur le chantier.
+ferraillage | le ferraillage | Gros œuvre et maçonnerie | P1 | Ensemble des barres d'acier assemblées en place avant le coulage, qui formeront les armatures d'un ouvrage en béton armé.
+ferraillage-de-dalle | le ferraillage de dalle | Gros œuvre et maçonnerie | P2 | Nappe de barres d'acier croisées posée sur les coffrages ou les poutrelles avant le coulage d'une dalle.
+film-polyethylene | le film polyéthylène | Gros œuvre et maçonnerie | P2 | Feuille de plastique, souvent appelée polyane, étalée sous un dallage ou un radier pour faire barrière à l'humidité du sol.
+fondation | la fondation | Gros œuvre et maçonnerie | P1 | Partie enterrée d'un ouvrage, en béton ou en maçonnerie, qui reporte ses charges sur le sol, vue en cours de travaux au fond des fouilles.
+fouille | la fouille | Gros œuvre et maçonnerie | P1 | Excavation creusée dans le terrain pour recevoir les fondations ou un sous-sol.
+gachage | le gâchage | Gros œuvre et maçonnerie | P2 | Mélange du ciment, du sable et de l'eau, à la pelle sur le sol ou dans une bétonnière, pour obtenir mortier ou béton.
+gobetis | le gobetis | Gros œuvre et maçonnerie | P2 | Première couche de mortier liquide jetée à la truelle sur un mur, qui laisse une surface rugueuse et granuleuse pour accrocher l'enduit.
+gravier | le gravier | Gros œuvre et maçonnerie | P1 | Granulat de petits cailloux ou de pierre concassée, comme le basalte à Dakar, livré en tas pour fabriquer le béton.
+herisson | le hérisson | Gros œuvre et maçonnerie | P1 | Couche de cailloux ou de pierres concassées étalée et compactée sur le sol, sous un dallage, pour drainer et couper les remontées d'humidité.
+hourdis | l'hourdis | Gros œuvre et maçonnerie | P1 | Bloc creux en béton ou en polystyrène, aussi appelé entrevous, posé entre les poutrelles d'un plancher avant le coulage de la dalle de compression.
+joint-creux | le joint creux | Gros œuvre et maçonnerie | P3 | Joint de maçonnerie en retrait du parement, qui dessine une ombre entre les briques ou les pierres.
+joint-de-fractionnement | le joint de fractionnement | Gros œuvre et maçonnerie | P2 | Trait scié ou rainure tracée dans un dallage ou une chape pour découper la surface en panneaux et maîtriser la fissuration.
+joint-de-maconnerie | le joint de maçonnerie | Gros œuvre et maçonnerie | P1 | Couche de mortier entre deux briques, blocs ou pierres, horizontale (lit) ou verticale.
+ligature | la ligature | Gros œuvre et maçonnerie | P2 | Fil de fer recuit noué à la croisée de deux barres pour les maintenir en place avant le coulage.
+linteau-coule-en-place | le linteau coulé en place | Gros œuvre et maçonnerie | P1 | Linteau en béton armé coffré et coulé sur le chantier au-dessus d'une baie, parfois continu avec le chaînage.
+linteau-prefabrique | le linteau préfabriqué | Gros œuvre et maçonnerie | P3 | Linteau en béton armé fabriqué à l'avance, livré en longueur et posé sur les murs au-dessus d'une baie.
+lit-de-mortier | le lit de mortier | Gros œuvre et maçonnerie | P2 | Couche de mortier étalée sur un rang de blocs ou de briques pour poser le rang suivant.
+longrine | la longrine | Gros œuvre et maçonnerie | P2 | Poutre en béton armé posée au niveau des fondations, qui relie les semelles entre elles et porte les murs du rez-de-chaussée.
+maconnerie | la maçonnerie | Gros œuvre et maçonnerie | P1 | Ouvrage fait de blocs, de briques ou de pierres assemblés, le plus souvent au mortier.
+mortier | le mortier | Gros œuvre et maçonnerie | P1 | Mélange de ciment ou de chaux, de sable et d'eau, préparé en pâte pour lier les blocs et faire les enduits.
+mur-de-remplissage | le mur de remplissage | Gros œuvre et maçonnerie | P1 | Mur en maçonnerie non porteur monté entre les poteaux et les poutres d'une ossature en béton armé.
+mur-en-moellons | le mur en moellons | Gros œuvre et maçonnerie | P2 | Mur fait de pierres brutes ou grossièrement équarries liées au mortier.
+mur-en-pierre-seche | le mur en pierre sèche | Gros œuvre et maçonnerie | P2 | Mur fait de pierres empilées et calées entre elles, sans aucun mortier.
+nid-de-cailloux | le nid de cailloux | Gros œuvre et maçonnerie | P2 | Défaut de surface du béton où les graviers apparaissent sans mortier, faute de vibration ou à cause d'une fuite du coffrage.
+opus-incertum | l'opus incertum | Gros œuvre et maçonnerie | P3 | Appareil de moellons de formes irrégulières assemblés sans rangs, avec des joints en tous sens.
+palplanche | la palplanche | Gros œuvre et maçonnerie | P3 | Profilé d'acier ondulé, enfoncé verticalement et emboîté avec ses voisins pour former un rideau qui retient la terre ou l'eau.
+panneresse | la panneresse | Gros œuvre et maçonnerie | P3 | Brique ou bloc posé dans le sens de la longueur, sa grande face visible dans le parement.
+paroi-berlinoise | la paroi berlinoise | Gros œuvre et maçonnerie | P3 | Soutènement provisoire de fouille fait de profilés métalliques verticaux entre lesquels on place des planches ou du béton projeté.
+paroi-moulee | la paroi moulée | Gros œuvre et maçonnerie | P3 | Mur en béton armé coulé dans une tranchée profonde avant le terrassement, qui soutient les terres d'un sous-sol.
+pieu | le pieu | Gros œuvre et maçonnerie | P3 | Long fût de béton, d'acier ou de bois enfoncé ou coulé profondément dans le sol pour porter un ouvrage, dont on voit la tête dépasser du terrain.
+planelle | la planelle | Gros œuvre et maçonnerie | P3 | Mince plaquette de terre cuite ou de béton posée en rive de plancher pour masquer le nez de dalle et recevoir l'enduit.
+plot-de-beton | le plot de béton | Gros œuvre et maçonnerie | P3 | Petit massif de béton coulé dans un trou, qui sert de fondation à un poteau léger, une clôture ou une terrasse.
+poutrelle | la poutrelle précontrainte | Gros œuvre et maçonnerie | P1 | Petite poutre préfabriquée en béton, posée à intervalles réguliers d'un appui à l'autre pour porter les hourdis d'un plancher.
+predalle | la prédalle | Gros œuvre et maçonnerie | P3 | Plaque mince de béton armé préfabriquée, posée comme fond de coffrage perdu et complétée par du béton coulé sur place.
+radier | le radier | Gros œuvre et maçonnerie | P2 | Dalle épaisse en béton armé qui couvre toute l'emprise d'un bâtiment et sert de fondation générale.
+recouvrement-d-armatures | le recouvrement d'armatures | Gros œuvre et maçonnerie | P2 | Zone où deux barres d'acier se chevauchent sur une certaine longueur pour assurer la continuité de l'armature.
+remblai | le remblai | Gros œuvre et maçonnerie | P2 | Terre ou matériau rapporté et compacté pour combler une fouille, rehausser un terrain ou remplir l'intérieur des fondations.
+reprise-de-betonnage | la reprise de bétonnage | Gros œuvre et maçonnerie | P2 | Ligne visible où un béton nouveau a été coulé contre un béton déjà durci.
+reservation | la réservation | Gros œuvre et maçonnerie | P2 | Ouverture ou passage laissé volontairement dans un mur ou une dalle en béton pour un futur réseau ou équipement.
+rond-lisse | le rond lisse | Gros œuvre et maçonnerie | P3 | Barre d'acier ronde à surface lisse, sans crénelures, employée pour les petites armatures et les crochets.
+sable | le sable | Gros œuvre et maçonnerie | P1 | Granulat fin livré en tas sur le chantier, mélangé au ciment pour le mortier et le béton.
+saignee | la saignée | Gros œuvre et maçonnerie | P2 | Rainure creusée dans un mur ou une dalle pour y encastrer une gaine ou un tuyau.
+semelle-filante | la semelle filante | Gros œuvre et maçonnerie | P1 | Fondation continue en béton armé, en forme de bande, coulée au fond d'une tranchée sous toute la longueur d'un mur.
+semelle-isolee | la semelle isolée | Gros œuvre et maçonnerie | P1 | Fondation ponctuelle en béton armé, en forme de bloc carré ou rectangulaire, placée sous un poteau dont les armatures en sortent.
+table-de-compression | la table de compression | Gros œuvre et maçonnerie | P2 | Couche de béton armé d'un treillis, coulée sur les hourdis et les poutrelles pour solidariser le plancher.
+tranchee-de-fondation | la tranchée de fondation | Gros œuvre et maçonnerie | P1 | Fouille longue et étroite creusée selon le tracé des murs pour recevoir les semelles filantes.
+treillis-soude | le treillis soudé | Gros œuvre et maçonnerie | P1 | Grillage de barres d'acier soudées en mailles carrées ou rectangulaires, livré en panneaux, posé dans les dalles et les dallages.
+tremie | la trémie | Gros œuvre et maçonnerie | P2 | Grande ouverture laissée dans un plancher pour le passage d'un escalier, d'un ascenseur ou d'une gaine.
+trou-de-boulin | le trou de boulin | Gros œuvre et maçonnerie | P3 | Petit trou laissé dans un mur ancien, où s'encastraient les pièces de bois de l'échafaudage.
+vide-sanitaire | le vide sanitaire | Gros œuvre et maçonnerie | P3 | Espace vide de faible hauteur ménagé entre le sol et le plancher bas d'un bâtiment, visible par ses ouvertures de ventilation ou en cours de construction.
+acier | l'acier | Matériaux et revêtements | P1 | Alliage de fer et de carbone, utilisé en profilés, en tôles et en armatures.
+acier-corten | l'acier Corten | Matériaux et revêtements | P2 | Acier qui se couvre d'une rouille brun orangé stable et protectrice, laissé apparent en façade.
+acier-galvanise | l'acier galvanisé | Matériaux et revêtements | P2 | Acier recouvert de zinc, d'aspect gris argenté mat, souvent pailleté, qui le protège de la rouille.
+aluminium | l'aluminium | Matériaux et revêtements | P1 | Métal léger gris clair, employé en profilés de menuiserie, en tôles et en panneaux de façade.
+ardoise | l'ardoise | Matériaux et revêtements | P? | Roche schisteuse fendue en plaques minces, utilisée pour couvrir les toits ou les murs.
+bambou | le bambou | Matériaux et revêtements | P2 | Grande tige creuse et nouée d'une graminée, employée en structure légère, en échafaudage ou en revêtement.
+bardage | le bardage | Matériaux et revêtements | P? | Revêtement extérieur de façade fait de lames ou de panneaux fixés sur une ossature.
+bardage-a-clin | le bardage à clin | Matériaux et revêtements | P3 | Bardage de planches horizontales posées en recouvrement, chacune chevauchant celle du dessous.
+bardage-metallique | le bardage métallique | Matériaux et revêtements | P2 | Revêtement de façade en tôles ou cassettes métalliques nervurées, typique des bâtiments industriels.
+bardeau | le bardeau | Matériaux et revêtements | P3 | Petite planchette de bois fendu posée en recouvrement sur un toit ou une façade, comme des écailles.
+basalte | le basalte | Matériaux et revêtements | P2 | Roche volcanique très sombre, gris foncé à noire, dure et à grain fin, employée en moellons et en pavés.
+bauge | la bauge | Matériaux et revêtements | P3 | Terre crue mêlée de paille, empilée en couches épaisses et retaillée pour former des murs massifs.
+beton | le béton | Matériaux et revêtements | P1 | Matériau fait de ciment, de sable, de gravier et d'eau qui durcit en une masse de pierre artificielle grise.
+beton-boucharde | le béton bouchardé | Matériaux et revêtements | P3 | Béton dont la surface a été piquetée à la boucharde, ce qui lui donne un aspect granuleux et mat.
+beton-brut | le béton brut | Matériaux et revêtements | P? | Béton laissé apparent tel qu'il sort du coffrage, dont il garde l'empreinte.
+beton-cellulaire | le béton cellulaire | Matériaux et revêtements | P2 | Béton léger, blanc et très poreux, vendu en gros blocs réguliers faciles à scier.
+beton-desactive | le béton désactivé | Matériaux et revêtements | P2 | Béton dont on a éliminé la laitance en surface pour faire apparaître les graviers.
+beton-imprime | le béton imprimé | Matériaux et revêtements | P3 | Dalle de béton coloré dont la surface est estampée pour imiter des pavés, des dalles ou du bois.
+beton-matrice | le béton matricé | Matériaux et revêtements | P3 | Béton apparent dont la surface porte un relief décoratif obtenu par une matrice placée dans le coffrage.
+beton-prefabrique | le béton préfabriqué | Matériaux et revêtements | P2 | Éléments de béton coulés en usine (panneaux, poutres, escaliers) puis posés sur le chantier.
+bois | le bois | Matériaux et revêtements | P1 | Matériau issu du tronc des arbres, débité en pièces ou en planches, utilisé en structure, menuiserie et revêtement.
+bois-brule | le bois brûlé | Matériaux et revêtements | P3 | Bois de bardage dont la surface est carbonisée, noire et craquelée, pour la protéger.
+bois-composite | le bois composite | Matériaux et revêtements | P3 | Matériau de fibres de bois et de plastique, moulé en lames rainurées pour terrasses et bardages.
+botte-de-paille | la botte de paille | Matériaux et revêtements | P3 | Botte de paille compactée empilée comme un bloc pour monter des murs isolants.
+brique | la brique | Matériaux et revêtements | P? | Bloc d'argile moulé puis cuit, utilisé en maçonnerie.
+brique-de-terre-comprimee | la brique de terre comprimée | Matériaux et revêtements | P2 | Bloc de terre crue légèrement stabilisée, compacté à la presse, aux arêtes nettes ; on dit couramment BTC.
+brique-de-verre | la brique de verre | Matériaux et revêtements | P2 | Bloc creux de verre moulé, translucide, maçonné pour former une paroi qui laisse passer la lumière.
+brique-pleine | la brique pleine | Matériaux et revêtements | P2 | Brique de terre cuite massive, sans alvéoles, souvent laissée apparente.
+brique-vernissee | la brique vernissée | Matériaux et revêtements | P3 | Brique de terre cuite revêtue d'un émail brillant et coloré.
+calcaire | le calcaire | Matériaux et revêtements | P2 | Pierre sédimentaire tendre à mi-dure, généralement blanche à beige, très employée en pierre de taille et en moellons.
+carreau-de-ciment | le carreau de ciment | Matériaux et revêtements | P? | Carreau décoratif fait de ciment coloré pressé et séché, sans cuisson.
+chaume | le chaume | Matériaux et revêtements | P? | Couverture de toit faite de paille, de roseaux ou d'herbes séchées.
+chaux | la chaux | Matériaux et revêtements | P2 | Liant blanc obtenu par cuisson du calcaire, employé dans les mortiers, les enduits et les badigeons.
+contreplaque | le contreplaqué | Matériaux et revêtements | P1 | Panneau formé de fines feuilles de bois collées à fil croisé, dont la tranche montre les couches.
+cuivre | le cuivre | Matériaux et revêtements | P3 | Métal rougeâtre qui se patine en brun puis en vert-de-gris, employé en couverture et en habillage.
+efflorescence | l'efflorescence | Matériaux et revêtements | P3 | Dépôt blanchâtre de sels qui apparaît à la surface d'une maçonnerie ou d'un béton humide.
+enduit | l'enduit | Matériaux et revêtements | P1 | Couche de mortier appliquée sur un mur pour le protéger et l'aplanir.
+enduit-a-la-chaux | l'enduit à la chaux | Matériaux et revêtements | P3 | Enduit souple et respirant à base de chaux, aux teintes douces et à la surface légèrement irrégulière.
+enduit-gratte | l'enduit gratté | Matériaux et revêtements | P2 | Enduit dont la surface, grattée avant durcissement, présente un grain fin et régulier.
+enduit-taloche | l'enduit taloché | Matériaux et revêtements | P2 | Enduit lissé à la taloche, plan, au grain fin avec de légères traces circulaires.
+enduit-tyrolien | l'enduit tyrolien | Matériaux et revêtements | P1 | Enduit projeté à la machine qui laisse une surface rugueuse de petites aspérités, très répandu sur les façades.
+fer-forge | le fer forgé | Matériaux et revêtements | P1 | Fer travaillé à chaud au marteau en barres tordues, volutes et pointes, pour grilles, balcons et rampes.
+fibrociment | le fibrociment | Matériaux et revêtements | P2 | Matériau de ciment et de fibres, gris clair, moulé en plaques ondulées ou planes.
+fonte | la fonte | Matériaux et revêtements | P3 | Alliage de fer coulé en moule, lourd et cassant, employé en colonnes, grilles, regards et éléments décoratifs.
+galet | le galet | Matériaux et revêtements | P3 | Pierre arrondie et lisse polie par l'eau, employée en mur, en sol ou en décoration.
+granite | le granite | Matériaux et revêtements | P2 | Roche magmatique dure et grenue, mouchetée de grains clairs et sombres, employée en dalles, bordures ou parements.
+gres | le grès | Matériaux et revêtements | P3 | Pierre sédimentaire formée de grains de sable cimentés, souvent ocre, rose ou rouge, au toucher rugueux.
+inox | l'inox | Matériaux et revêtements | P2 | Acier inoxydable, brillant ou brossé, qui ne rouille pas, employé en garde-corps, habillages et équipements.
+laine-de-roche | la laine de roche | Matériaux et revêtements | P3 | Isolant fibreux plus dense que la laine de verre, souvent vert-gris ou brun, vendu en panneaux.
+laine-de-verre | la laine de verre | Matériaux et revêtements | P2 | Isolant fibreux, souple, souvent jaune, vendu en rouleaux ou en panneaux.
+laiton | le laiton | Matériaux et revêtements | P3 | Alliage jaune doré de cuivre et de zinc, employé en quincaillerie, en profils et en décor.
+lamelle-colle | le lamellé-collé | Matériaux et revêtements | P2 | Bois formé de lamelles collées entre elles, en poutres de grande portée dont la tranche montre les strates.
+madrier | le madrier | Matériaux et revêtements | P2 | Pièce de bois de sciage épaisse et large, utilisée en charpente, en coffrage ou en platelage.
+marbre | le marbre | Matériaux et revêtements | P1 | Pierre calcaire cristalline, souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.
+metal-deploye | le métal déployé | Matériaux et revêtements | P3 | Tôle incisée puis étirée qui forme un réseau de mailles en losange.
+meuliere | la meulière | Matériaux et revêtements | P3 | Pierre siliceuse brune et caverneuse, très employée en moellons apparents dans les pavillons d'Île-de-France.
+moellon | le moellon | Matériaux et revêtements | P? | Pierre brute ou grossièrement équarrie, de petite taille, employée en maçonnerie.
+mosaique | la mosaïque | Matériaux et revêtements | P2 | Revêtement fait de petits fragments de pierre, de céramique ou de verre assemblés.
+panneau-composite-aluminium | le panneau composite aluminium | Matériaux et revêtements | P2 | Panneau plan et lisse de deux feuilles d'aluminium laquées collées sur une âme, posé en cassettes sur les façades.
+panneau-osb | le panneau OSB | Matériaux et revêtements | P2 | Panneau de grandes lamelles de bois orientées et collées, reconnaissable à son aspect de copeaux.
+parement-en-pierre | le parement en pierre | Matériaux et revêtements | P2 | Revêtement de façade en plaques ou moellons de pierre collés ou agrafés devant un mur porteur.
+parpaing | le parpaing | Matériaux et revêtements | P? | Bloc de béton moulé, souvent creux, utilisé pour monter des murs.
+pate-de-verre | la pâte de verre | Matériaux et revêtements | P3 | Petits carreaux de verre coloré collés sur trame, en revêtement de piscines, de salles d'eau ou de façades.
+pierre-bouchardee | la pierre bouchardée | Matériaux et revêtements | P3 | Pierre dont la face a été piquetée à la boucharde, ce qui lui donne une surface finement grêlée.
+pierre-de-taille | la pierre de taille | Matériaux et revêtements | P? | Pierre taillée en blocs aux faces dressées, posés en assises régulières.
+pierre-reconstituee | la pierre reconstituée | Matériaux et revêtements | P3 | Matériau moulé à base de ciment et de granulats de pierre, qui imite la pierre naturelle.
+pise | le pisé | Matériaux et revêtements | P? | Terre crue compactée par couches successives dans un coffrage pour former des murs massifs.
+plaquette-de-parement | la plaquette de parement | Matériaux et revêtements | P2 | Mince plaquette de terre cuite ou de pierre collée sur un mur pour imiter une maçonnerie apparente.
+platre | le plâtre | Matériaux et revêtements | P2 | Poudre blanche de gypse qui, gâchée à l'eau, forme une pâte durcissant vite, utilisée en enduits et moulages.
+polycarbonate-alveolaire | le polycarbonate alvéolaire | Matériaux et revêtements | P2 | Plaque de plastique translucide à parois creuses parallèles, employée en couverture légère ou en façade.
+polystyrene-expanse | le polystyrène expansé | Matériaux et revêtements | P2 | Isolant blanc et léger fait de billes collées, vendu en plaques.
+rondin | le rondin | Matériaux et revêtements | P3 | Tronc d'arbre écorcé, laissé rond, utilisé empilé en murs ou en poteaux.
+silex | le silex | Matériaux et revêtements | P3 | Pierre très dure noire ou grise à cassure luisante, posée en rognons ou taillée dans les murs.
+tole-larmee | la tôle larmée | Matériaux et revêtements | P3 | Tôle d'acier antidérapante dont la surface porte de petits reliefs en forme de larmes.
+tole-ondulee | la tôle ondulée | Matériaux et revêtements | P? | Feuille de métal à ondulations régulières, utilisée en couverture ou en bardage.
+tole-perforee | la tôle perforée | Matériaux et revêtements | P2 | Tôle percée de trous réguliers, employée en habillage, en garde-corps ou en brise-vue.
+torchis | le torchis | Matériaux et revêtements | P3 | Mélange de terre et de paille appliqué sur un clayonnage de bois pour remplir les murs.
+travertin | le travertin | Matériaux et revêtements | P3 | Calcaire beige criblé de petites cavités allongées, employé en dallage et en revêtement de façade.
+tuffeau | le tuffeau | Matériaux et revêtements | P3 | Calcaire tendre très blanc du Val de Loire, taillé en blocs pour les façades et les châteaux.
+tuile | la tuile | Matériaux et revêtements | P? | Élément de couverture en terre cuite ou en béton, posé en recouvrement sur un toit.
+verre-arme | le verre armé | Matériaux et revêtements | P3 | Verre dans lequel est noyé un treillis de fils métalliques visible.
+verre-depoli | le verre dépoli | Matériaux et revêtements | P2 | Verre rendu translucide par une surface mate qui laisse passer la lumière mais pas la vue.
+verre-imprime | le verre imprimé | Matériaux et revêtements | P3 | Verre translucide dont une face porte un motif en relief.
+verre-reflechissant | le verre réfléchissant | Matériaux et revêtements | P2 | Vitrage à couche métallique qui renvoie l'image comme un miroir, vu sur les façades de bureaux.
+zellige | le zellige | Matériaux et revêtements | P3 | Petit carreau de terre cuite émaillée, taillé à la main, assemblé en motifs géométriques.
+arret-de-volet | l'arrêt de volet | Menuiserie et serrurerie | P3 | Pièce métallique fixée au mur qui maintient un volet battant ouvert contre la façade.
+barre-antipanique | la barre antipanique | Menuiserie et serrurerie | P2 | Barre horizontale sur toute la largeur d'une porte de sortie, qui la déverrouille par simple poussée.
+barreaudage | le barreaudage | Menuiserie et serrurerie | P2 | Ensemble de barreaux métalliques parallèles qui ferment une ouverture ou forment une grille.
+bouton-de-porte | le bouton de porte | Menuiserie et serrurerie | P2 | Poignée ronde que l'on tourne ou que l'on tire pour manœuvrer une porte.
+butee-de-porte | la butée de porte | Menuiserie et serrurerie | P2 | Petit arrêt fixé au sol ou au mur qui empêche la porte ou sa poignée de heurter le mur.
+cadenas | le cadenas | Menuiserie et serrurerie | P1 | Serrure mobile munie d'un anneau en U que l'on passe dans un moraillon ou une chaîne.
+charniere | la charnière | Menuiserie et serrurerie | P2 | Ferrure articulée faite de deux lames reliées par un axe, qui permet à un vantail de pivoter.
+chassis-fixe | le châssis fixe | Menuiserie et serrurerie | P2 | Partie vitrée d'une menuiserie qui ne s'ouvre pas.
+cle | la clé | Menuiserie et serrurerie | P1 | Petite pièce métallique dont on introduit la tige crantée dans une serrure pour l'ouvrir ou la fermer.
+coffre-de-volet-roulant | le coffre de volet roulant | Menuiserie et serrurerie | P2 | Caisson placé en haut de la baie, dans lequel s'enroule le tablier d'un volet roulant.
+cremone | la crémone | Menuiserie et serrurerie | P2 | Ferrure de fermeture de fenêtre dont la poignée fait coulisser deux tringles qui s'engagent en haut et en bas du dormant.
+cylindre-de-serrure | le cylindre de serrure | Menuiserie et serrurerie | P1 | Pièce de la serrure dans laquelle on introduit la clé, aussi appelée barillet.
+dormant | le dormant | Menuiserie et serrurerie | P2 | Cadre fixe d'une porte ou d'une fenêtre, scellé ou fixé dans la maçonnerie, qui reçoit les parties ouvrantes.
+double-vitrage | le double vitrage | Menuiserie et serrurerie | P2 | Vitrage fait de deux verres séparés par une lame d'air ou de gaz, avec un intercalaire visible sur le pourtour.
+entrebailleur | l'entrebâilleur | Menuiserie et serrurerie | P3 | Chaîne ou bras métallique qui limite l'ouverture d'une porte pour voir qui se présente.
+espagnolette | l'espagnolette | Menuiserie et serrurerie | P3 | Tige métallique verticale manœuvrée par une poignée, dont les crochets aux extrémités ferment une fenêtre ou des volets.
+fenetre | la fenêtre | Menuiserie et serrurerie | P1 | Ouvrage vitré, fixe ou ouvrant, qui ferme une baie pour donner du jour et de l'air.
+fenetre-a-guillotine | la fenêtre à guillotine | Menuiserie et serrurerie | P3 | Fenêtre dont les châssis glissent verticalement l'un devant l'autre.
+fenetre-a-l-italienne | la fenêtre à l'italienne | Menuiserie et serrurerie | P3 | Fenêtre dont le vantail s'ouvre vers l'extérieur en basculant par le bas, articulé en partie haute.
+fenetre-a-la-francaise | la fenêtre à la française | Menuiserie et serrurerie | P2 | Fenêtre dont les vantaux pivotent sur un côté vertical et s'ouvrent vers l'intérieur.
+fenetre-a-soufflet | la fenêtre à soufflet | Menuiserie et serrurerie | P2 | Fenêtre dont le vantail pivote autour de son côté bas et s'ouvre vers l'intérieur par le haut.
+fenetre-coulissante | la fenêtre coulissante | Menuiserie et serrurerie | P1 | Fenêtre dont les vantaux glissent horizontalement l'un devant l'autre sur des rails, très courante en aluminium.
+fenetre-oscillo-battante | la fenêtre oscillo-battante | Menuiserie et serrurerie | P2 | Fenêtre qui s'ouvre soit à la française, soit en soufflet selon la position de la poignée.
+fenetre-pivotante | la fenêtre pivotante | Menuiserie et serrurerie | P3 | Fenêtre dont le vantail tourne autour d'un axe central, horizontal ou vertical.
+ferme-porte | le ferme-porte | Menuiserie et serrurerie | P2 | Mécanisme à bras articulé fixé en haut d'une porte, qui la referme automatiquement.
+gache | la gâche | Menuiserie et serrurerie | P2 | Pièce métallique fixée sur le dormant, dans laquelle s'engage le pêne de la serrure.
+gache-electrique | la gâche électrique | Menuiserie et serrurerie | P3 | Gâche commandée à distance qui libère le pêne pour ouvrir une porte ou un portail, souvent couplée à un interphone.
+gond | le gond | Menuiserie et serrurerie | P2 | Pièce métallique coudée scellée dans le mur ou le pilier, sur laquelle pivote un volet ou un portail.
+grille-de-defense | la grille de défense | Menuiserie et serrurerie | P1 | Grille en barreaux ou en fer forgé fixée devant une fenêtre pour empêcher l'effraction.
+grille-extensible | la grille extensible | Menuiserie et serrurerie | P3 | Grille métallique articulée en croisillons qui se replie en accordéon sur le côté d'une porte ou d'une vitrine.
+heurtoir | le heurtoir | Menuiserie et serrurerie | P3 | Anneau ou marteau métallique fixé sur une porte d'entrée, que l'on frappe pour s'annoncer.
+hublot-de-porte | le hublot de porte | Menuiserie et serrurerie | P3 | Petite ouverture vitrée, ronde ou rectangulaire, percée dans un vantail de porte.
+huisserie | l'huisserie | Menuiserie et serrurerie | P2 | Cadre en bois ou en métal qui encadre l'ouverture d'une porte et sur lequel elle est ferrée, posé avant les enduits sur chantier.
+jet-d-eau | le jet d'eau | Menuiserie et serrurerie | P3 | Profil saillant fixé au bas de l'ouvrant d'une fenêtre ou d'une porte pour rejeter l'eau de pluie vers l'extérieur.
+judas | le judas | Menuiserie et serrurerie | P2 | Petite lentille optique traversant une porte d'entrée pour voir à l'extérieur sans ouvrir.
+loquet | le loquet | Menuiserie et serrurerie | P3 | Fermeture simple faite d'une barre pivotante qui retombe dans un crochet.
+menuiserie-aluminium | la menuiserie aluminium | Menuiserie et serrurerie | P1 | Porte ou fenêtre dont le cadre et les vantaux sont faits de profilés en aluminium, souvent coulissants.
+menuiserie-pvc | la menuiserie PVC | Menuiserie et serrurerie | P3 | Porte ou fenêtre dont le cadre est fait de profilés en PVC, généralement blancs.
+moraillon | le moraillon | Menuiserie et serrurerie | P3 | Ferrure articulée à anneau qui permet de fermer une porte ou un portail avec un cadenas.
+moustiquaire | la moustiquaire | Menuiserie et serrurerie | P1 | Toile à mailles fines tendue sur un cadre devant une fenêtre ou une porte pour arrêter les moustiques.
+naco | le naco | Menuiserie et serrurerie | P1 | Fenêtre à lames de verre parallèles et orientables, réglées par une manivelle ou un levier, appelée naco en Afrique de l'Ouest (fenêtre à jalousies).
+ouvrant | l'ouvrant | Menuiserie et serrurerie | P2 | Partie mobile d'une fenêtre, qui porte le vitrage et s'ouvre par rapport au dormant.
+parclose | la parclose | Menuiserie et serrurerie | P2 | Baguette fixée sur le cadre qui maintient le vitrage en place.
+paumelle | la paumelle | Menuiserie et serrurerie | P1 | Ferrure de rotation en deux parties emboîtées sur un axe, l'une fixée au dormant et l'autre au vantail.
+paumelle-a-souder | la paumelle à souder | Menuiserie et serrurerie | P3 | Paumelle cylindrique en acier, sans ailes percées, soudée directement sur les portes et portails métalliques.
+pene | le pêne | Menuiserie et serrurerie | P3 | Pièce mobile de la serrure qui sort du vantail pour s'engager dans la gâche.
+penture | la penture | Menuiserie et serrurerie | P3 | Longue bande de fer fixée sur un volet ou une porte, dont l'œil tourne sur un gond.
+petit-bois | le petit-bois | Menuiserie et serrurerie | P2 | Baguette de bois ou de métal qui divise le vitrage d'une fenêtre en carreaux.
+piece-d-appui | la pièce d'appui | Menuiserie et serrurerie | P3 | Traverse basse du dormant d'une fenêtre, posée sur l'appui de maçonnerie.
+poignee-de-fenetre | la poignée de fenêtre | Menuiserie et serrurerie | P1 | Poignée fixée sur l'ouvrant qui commande le verrouillage d'une fenêtre.
+poignee-de-porte | la poignée de porte | Menuiserie et serrurerie | P1 | Levier ou poignée que l'on abaisse pour ouvrir une porte, appelée aussi béquille.
+poignee-de-tirage | la poignée de tirage | Menuiserie et serrurerie | P3 | Poignée fixe, souvent un tube vertical en inox, qui sert à tirer ou pousser une porte vitrée ou métallique.
+portail-battant | le portail battant | Menuiserie et serrurerie | P1 | Portail à un ou deux vantaux qui pivotent sur des gonds fixés aux piliers.
+portail-coulissant | le portail coulissant | Menuiserie et serrurerie | P1 | Portail d'un seul vantail qui glisse latéralement le long de la clôture, sur un rail au sol.
+portail-metallique | le portail métallique | Menuiserie et serrurerie | P1 | Grande porte extérieure en acier, pleine ou ajourée, qui ferme l'entrée d'une parcelle.
+porte | la porte | Menuiserie et serrurerie | P1 | Ouvrage mobile, en bois, métal ou verre, qui ferme une baie de passage dans un mur ou une cloison.
+porte-a-deux-vantaux | la porte à deux vantaux | Menuiserie et serrurerie | P1 | Porte formée de deux battants qui s'ouvrent depuis le milieu de la baie.
+porte-a-galandage | la porte à galandage | Menuiserie et serrurerie | P3 | Porte coulissante qui s'efface entièrement dans l'épaisseur de la cloison.
+porte-a-panneaux | la porte à panneaux | Menuiserie et serrurerie | P2 | Porte dont le cadre en bois assemblé encadre plusieurs panneaux en creux ou en relief.
+porte-a-tambour | la porte à tambour | Menuiserie et serrurerie | P3 | Porte d'entrée formée de vantaux vitrés qui tournent autour d'un axe central dans un cylindre.
+porte-accordeon | la porte accordéon | Menuiserie et serrurerie | P3 | Porte faite de panneaux étroits articulés qui se replient les uns sur les autres en s'ouvrant.
+porte-automatique | la porte automatique | Menuiserie et serrurerie | P2 | Porte vitrée, le plus souvent coulissante, qui s'ouvre seule à l'approche d'une personne grâce à un détecteur.
+porte-basculante | la porte basculante | Menuiserie et serrurerie | P2 | Porte de garage d'un seul panneau qui pivote vers le haut pour se loger sous le plafond.
+porte-blindee | la porte blindée | Menuiserie et serrurerie | P2 | Porte d'entrée renforcée par une tôle d'acier et une serrure multipoint pour résister à l'effraction.
+porte-cochere | la porte cochère | Menuiserie et serrurerie | P3 | Grande porte à deux vantaux, assez haute et large pour laisser passer une voiture vers une cour.
+porte-coulissante | la porte coulissante | Menuiserie et serrurerie | P2 | Porte dont le vantail glisse latéralement sur un rail, parallèlement au mur.
+porte-coupe-feu | la porte coupe-feu | Menuiserie et serrurerie | P2 | Porte qui résiste au feu pendant une durée donnée, munie d'un ferme-porte et souvent d'une plaque signalétique.
+porte-d-entree | la porte d'entrée | Menuiserie et serrurerie | P1 | Porte principale qui donne accès depuis l'extérieur à une maison ou à un logement, souvent plus robuste et décorée.
+porte-de-placard | la porte de placard | Menuiserie et serrurerie | P2 | Porte battante ou coulissante qui ferme un placard ou un dressing.
+porte-fenetre | la porte-fenêtre | Menuiserie et serrurerie | P1 | Fenêtre descendant jusqu'au sol qui sert aussi de porte vers un balcon, une terrasse ou un jardin.
+porte-isoplane | la porte isoplane | Menuiserie et serrurerie | P2 | Porte intérieure légère et lisse, faite de deux panneaux minces collés sur un cadre à âme alvéolaire.
+porte-metallique | la porte métallique | Menuiserie et serrurerie | P1 | Porte en tôle d'acier sur cadre en tubes ou profilés, très utilisée pour les entrées et locaux techniques.
+porte-persiennee | la porte persiennée | Menuiserie et serrurerie | P3 | Porte dont le vantail est garni de lames inclinées qui laissent passer l'air, courante sur les placards et locaux techniques.
+porte-sectionnelle | la porte sectionnelle | Menuiserie et serrurerie | P3 | Porte de garage ou de hangar faite de panneaux horizontaux articulés qui remontent sur des rails au plafond.
+porte-va-et-vient | la porte va-et-vient | Menuiserie et serrurerie | P3 | Porte montée sur pivots ou charnières doubles qui s'ouvre dans les deux sens et revient seule en position fermée.
+porte-vitree | la porte vitrée | Menuiserie et serrurerie | P1 | Porte dont une grande partie du vantail est occupée par un vitrage.
+portillon | le portillon | Menuiserie et serrurerie | P2 | Petite porte de clôture réservée aux piétons, souvent à côté du portail.
+profile-aluminium | le profilé aluminium | Menuiserie et serrurerie | P1 | Barre d'aluminium extrudée de section creuse, utilisée pour fabriquer cadres et vantaux de menuiserie.
+rail-de-portail | le rail de portail | Menuiserie et serrurerie | P3 | Profilé scellé au sol sur lequel roulent les roues d'un portail coulissant.
+rideau-metallique | le rideau métallique | Menuiserie et serrurerie | P1 | Fermeture de devanture faite de lames d'acier qui s'enroulent dans un coffre au-dessus de l'ouverture.
+serrure | la serrure | Menuiserie et serrurerie | P1 | Mécanisme de fermeture actionné par une clé, qui bloque un vantail grâce à un pêne.
+serrure-a-encastrer | la serrure à encastrer | Menuiserie et serrurerie | P2 | Serrure logée dans une mortaise taillée dans le chant du vantail, dont on ne voit que la têtière.
+serrure-en-applique | la serrure en applique | Menuiserie et serrurerie | P2 | Serrure dont le boîtier est vissé en saillie sur la face intérieure du vantail.
+serrure-multipoint | la serrure multipoint | Menuiserie et serrurerie | P3 | Serrure qui verrouille la porte en plusieurs points répartis sur sa hauteur grâce à des tringles.
+seuil-de-porte | le seuil de porte | Menuiserie et serrurerie | P2 | Pièce horizontale au bas d'une porte, en pierre, bois ou métal, qui marque le passage au sol.
+targette | la targette | Menuiserie et serrurerie | P2 | Petit verrou plat monté sur platine, manœuvré par un bouton, qui ferme une porte ou une fenêtre de l'intérieur.
+vantail | le vantail | Menuiserie et serrurerie | P2 | Battant d'une porte, d'une fenêtre ou d'un volet ; une porte double a deux vantaux.
+verrou | le verrou | Menuiserie et serrurerie | P1 | Fermeture faite d'une pièce métallique coulissante que l'on pousse à la main dans une gâche.
+vitrage-feuillete | le vitrage feuilleté | Menuiserie et serrurerie | P3 | Verre de sécurité fait de plusieurs feuilles collées par un film plastique, qui se fissure en toile d'araignée sans tomber.
+vitrage-reflechissant | le vitrage réfléchissant | Menuiserie et serrurerie | P2 | Vitrage revêtu d'une couche métallique qui renvoie la lumière comme un miroir et limite l'apport solaire.
+vitrage-teinte | le vitrage teinté | Menuiserie et serrurerie | P3 | Vitrage coloré dans la masse, souvent gris, bronze ou vert, pour réduire l'éblouissement.
+volet | le volet | Menuiserie et serrurerie | P1 | Panneau mobile placé devant une fenêtre pour la protéger, l'occulter ou la sécuriser.
+volet-a-barres-et-echarpe | le volet à barres et écharpe | Menuiserie et serrurerie | P3 | Volet en planches verticales tenues par deux barres horizontales et une barre oblique formant un Z.
+volet-battant | le volet battant | Menuiserie et serrurerie | P1 | Volet à un ou deux vantaux qui pivotent sur des gonds fixés au mur ou au tableau.
+volet-coulissant | le volet coulissant | Menuiserie et serrurerie | P3 | Volet qui glisse sur un rail le long de la façade au lieu de pivoter.
+volet-pliant | le volet pliant | Menuiserie et serrurerie | P3 | Volet en plusieurs feuilles articulées qui se replient dans l'épaisseur du tableau de la baie.
+volet-roulant | le volet roulant | Menuiserie et serrurerie | P1 | Volet fait de lames horizontales articulées qui s'enroulent dans un coffre au-dessus de la fenêtre.
+arabesque | l'arabesque | Ornement | P3 | Ornement fait d'entrelacs de lignes courbes et de motifs végétaux stylisés.
+architrave | l'architrave | Ornement | P2 | Partie inférieure de l'entablement, posée directement sur les chapiteaux des colonnes.
+atlante | l'atlante | Ornement | P3 | Statue d'homme qui porte un entablement ou un balcon à la place d'une colonne.
+balustre | le balustre | Ornement | P? | Petite colonne renflée qui, répétée en série, forme une balustrade.
+bandeau | le bandeau | Ornement | P? | Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.
+bas-relief | le bas-relief | Ornement | P1 | Sculpture qui se détache peu du fond auquel elle reste attachée.
+bossage | le bossage | Ornement | P1 | Saillie volontaire de la face des pierres d'un mur, séparées par des joints creux, pour en accuser le relief.
+cannelure | la cannelure | Ornement | P1 | Rainure verticale creusée en série sur le fût d'une colonne ou d'un pilastre.
+cariatide | la cariatide | Ornement | P? | Statue de femme qui sert de support à la place d'une colonne ou d'un pilastre.
+cartouche | le cartouche | Ornement | P2 | Encadrement sculpté, souvent à bords enroulés, qui entoure une inscription, un blason ou une date sur une façade.
+chapiteau | le chapiteau | Ornement | P? | Partie supérieure, élargie et souvent sculptée, d'une colonne ou d'un pilastre.
+chapiteau-corinthien | le chapiteau corinthien | Ornement | P2 | Chapiteau en forme de corbeille garnie de rangs de feuilles d'acanthe et de petites volutes aux angles.
+chapiteau-dorique | le chapiteau dorique | Ornement | P2 | Chapiteau simple formé d'un coussinet arrondi surmonté d'une tablette carrée.
+chapiteau-ionique | le chapiteau ionique | Ornement | P2 | Chapiteau orné de deux grandes volutes enroulées de part et d'autre.
+colonne-torse | la colonne torse | Ornement | P3 | Colonne dont le fût est tordu en spirale, comme une vis.
+console | la console | Ornement | P? | Support en saillie, souvent galbé en forme de S ou de volute, qui porte un balcon, une corniche ou un élément décoratif.
+corniche | la corniche | Ornement | P? | Couronnement en saillie, généralement mouluré, qui termine le haut d'un mur ou d'une façade.
+crochet | le crochet | Ornement | P3 | Petit ornement gothique en forme de feuille recourbée, répété le long des arêtes des pinacles et des gâbles.
+cul-de-lampe | le cul-de-lampe | Ornement | P3 | Console sculptée en forme de pyramide renversée qui reçoit la retombée d'une nervure ou porte une statue.
+denticule | le denticule | Ornement | P2 | Petit bloc rectangulaire répété en rang serré sous une corniche, comme une rangée de dents.
+entablement | l'entablement | Ornement | P2 | Couronnement horizontal porté par les colonnes, formé de l'architrave, de la frise et de la corniche.
+epi-de-faitage | l'épi de faîtage | Ornement | P2 | Ornement de terre cuite, de zinc ou de plomb qui se dresse à l'extrémité ou au sommet d'un faîtage.
+feston | le feston | Ornement | P3 | Guirlande sculptée de feuilles, de fleurs ou de fruits, suspendue en arc entre deux points.
+feuille-d-acanthe | la feuille d'acanthe | Ornement | P2 | Motif sculpté de larges feuilles découpées et recourbées, qui garnit notamment le chapiteau corinthien.
+fleuron | le fleuron | Ornement | P3 | Ornement en forme de fleur stylisée, souvent placé au sommet d'un pinacle ou d'un gâble gothique.
+fresque | la fresque | Ornement | P1 | Grande peinture murale exécutée sur un enduit, en intérieur ou sur une façade.
+frise | la frise | Ornement | P? | Bande horizontale ornée de motifs répétés ou de figures, sculptée ou peinte, qui court le long d'un mur ou entre l'architrave et la corniche d'un entablement.
+fronton | le fronton | Ornement | P? | Couronnement triangulaire ou cintré, bordé de corniches, qui surmonte une façade, une porte ou une fenêtre.
+fronton-brise | le fronton brisé | Ornement | P3 | Fronton dont les rampants sont interrompus au sommet, laissant un vide central souvent occupé par un ornement.
+gable | le gâble | Ornement | P3 | Couronnement triangulaire et aigu, ajouré, qui surmonte un portail ou une baie gothique.
+gargouille | la gargouille | Ornement | P? | Déversoir en saillie, souvent sculpté, qui rejette loin du mur l'eau de pluie du toit.
+grecque | la grecque | Ornement | P2 | Frise de lignes brisées à angles droits, formant un méandre continu.
+haut-relief | le haut-relief | Ornement | P2 | Sculpture qui se détache fortement du fond, les figures étant presque en ronde-bosse.
+lambrequin | le lambrequin | Ornement | P3 | Bande de bois ou de métal découpée qui borde le bas d'une avancée de toit ou d'un auvent.
+mascaron | le mascaron | Ornement | P? | Masque sculpté, figure humaine ou fantastique, qui orne une clé d'arc, une console ou une fontaine.
+medaillon | le médaillon | Ornement | P2 | Ornement rond ou ovale, encadré, qui porte un portrait ou un motif sculpté.
+metope | la métope | Ornement | P3 | Panneau carré, lisse ou sculpté, placé entre deux triglyphes dans la frise dorique.
+modillon | le modillon | Ornement | P? | Petite console répétée à intervalles réguliers sous la saillie d'une corniche.
+moulure | la moulure | Ornement | P1 | Ornement en relief, de profil constant, qui court le long d'un mur, d'un plafond ou d'un encadrement.
+niche | la niche | Ornement | P1 | Renfoncement ménagé dans l'épaisseur d'un mur, souvent cintré, destiné à recevoir une statue ou un vase.
+ove | l'ove | Ornement | P3 | Ornement en forme d'œuf, répété en rang et alterné avec des dards sur une moulure.
+palmette | la palmette | Ornement | P3 | Motif stylisé en éventail de feuilles de palmier, répété dans les frises et les acrotères.
+pilastre | le pilastre | Ornement | P? | Pilier plat engagé dans un mur, dont il ne dépasse que légèrement, souvent avec base et chapiteau.
+pinacle | le pinacle | Ornement | P? | Petit couronnement élancé, pyramidal ou conique, qui surmonte un contrefort ou un angle, surtout dans l'architecture gothique.
+pot-a-feu | le pot à feu | Ornement | P3 | Vase décoratif sculpté d'où sortent des flammes stylisées, posé en couronnement d'une façade ou d'un pilier.
+refend | le refend | Ornement | P3 | Rainure horizontale creusée dans un enduit ou une pierre pour imiter les joints d'un appareil.
+remplage | le remplage | Ornement | P3 | Réseau de pierre découpée qui divise une baie gothique en compartiments garnis de vitraux.
+rinceau | le rinceau | Ornement | P3 | Ornement de tiges végétales ondulantes qui s'enroulent en volutes garnies de feuilles.
+rosace | la rosace | Ornement | P? | Grande baie circulaire à remplage, garnie de vitraux, typique des églises gothiques.
+rosace-de-plafond | la rosace de plafond | Ornement | P2 | Ornement circulaire en plâtre moulé au centre d'un plafond, souvent autour du point d'accrochage du lustre.
+sgraffite | le sgraffite | Ornement | P3 | Décor obtenu en grattant une couche d'enduit pour faire apparaître une couche de couleur différente dessous.
+triglyphe | le triglyphe | Ornement | P3 | Panneau rectangulaire gravé de rainures verticales, qui alterne avec les métopes dans la frise dorique.
+trompe-l-oeil | le trompe-l'œil | Ornement | P2 | Peinture murale qui imite un décor en relief, des fenêtres ou une perspective pour tromper la vue.
+vitrail | le vitrail | Ornement | P1 | Composition de verres colorés assemblés par des plombs, qui garnit une baie.
+volute | la volute | Ornement | P1 | Ornement enroulé en spirale, typique du chapiteau ionique et des consoles.
+ampoule | l'ampoule | Réseaux et équipements | P1 | Lampe en verre ou en plastique qu'on visse ou enfiche dans une douille pour éclairer.
+applique | l'applique | Réseaux et équipements | P1 | Luminaire fixé au mur.
+bac-a-laver | le bac à laver | Réseaux et équipements | P2 | Bac profond en béton, en céramique ou en résine, souvent posé dans une buanderie ou une cour, servant à laver le linge à la main.
+baignoire | la baignoire | Réseaux et équipements | P1 | Grande cuve sanitaire en acrylique, en fonte ou en acier dans laquelle on prend un bain.
+bati-support | le bâti-support | Réseaux et équipements | P3 | Châssis métallique fixé au mur ou au sol, intégrant le réservoir de chasse, sur lequel on accroche un WC suspendu avant de l'habiller d'une cloison.
+batterie-solaire | la batterie solaire | Réseaux et équipements | P2 | Batterie de stockage, souvent en rangée ou en armoire, qui garde l'électricité produite par les panneaux.
+bidet | le bidet | Réseaux et équipements | P3 | Appareil sanitaire bas en céramique, sur lequel on s'assoit à califourchon pour la toilette intime.
+bloc-autonome-d-eclairage-de-securite | le bloc autonome d'éclairage de sécurité | Réseaux et équipements | P2 | Petit boîtier lumineux avec un pictogramme de sortie, qui s'allume en cas de coupure pour guider l'évacuation ; abrégé BAES.
+boite-d-encastrement | la boîte d'encastrement | Réseaux et équipements | P2 | Petit boîtier rond en plastique scellé dans le mur, qui reçoit une prise ou un interrupteur.
+boite-de-derivation | la boîte de dérivation | Réseaux et équipements | P2 | Boîtier à couvercle où se raccordent les fils de plusieurs circuits électriques.
+bonde | la bonde | Réseaux et équipements | P2 | Pièce métallique ou plastique au fond d'un lavabo, d'un évier, d'une baignoire ou d'un receveur, par laquelle l'eau s'écoule.
+bouche-d-extraction | la bouche d'extraction | Réseaux et équipements | P3 | Bouche ronde, souvent blanche, posée au plafond ou en haut du mur d'une pièce humide, par laquelle la ventilation aspire l'air.
+bouteille-de-gaz | la bouteille de gaz | Réseaux et équipements | P1 | Bouteille métallique de butane ou de propane qui alimente une cuisinière ou un réchaud.
+bouton-d-appel | le bouton d'appel | Réseaux et équipements | P3 | Plaque à bouton lumineux placée sur le palier pour appeler l'ascenseur.
+cable-electrique | le câble électrique | Réseaux et équipements | P1 | Ensemble de fils conducteurs isolés réunis sous une gaine, posé pour distribuer l'électricité.
+caniveau-de-douche | le caniveau de douche | Réseaux et équipements | P3 | Long caniveau étroit en inox encastré dans le sol d'une douche à l'italienne, couvert d'une grille.
+capteur-solaire-thermique | le capteur solaire thermique | Réseaux et équipements | P2 | Panneau vitré ou à tubes sous vide qui capte la chaleur du soleil pour chauffer de l'eau.
+cassette-de-climatisation | la cassette de climatisation | Réseaux et équipements | P2 | Unité intérieure carrée encastrée dans le faux plafond, qui souffle l'air par quatre côtés.
+centrale-de-traitement-d-air | la centrale de traitement d'air | Réseaux et équipements | P3 | Grand caisson métallique qui filtre, refroidit ou chauffe et souffle l'air vers les gaines d'un bâtiment.
+chateau-d-eau | le château d'eau | Réseaux et équipements | P1 | Réservoir d'eau surélevé sur un fût ou des poteaux, qui alimente un réseau par gravité.
+chauffe-eau-electrique | le chauffe-eau électrique | Réseaux et équipements | P1 | Ballon cylindrique blanc, vertical ou horizontal, qui chauffe et stocke l'eau chaude par une résistance électrique ; appelé aussi cumulus.
+chauffe-eau-instantane | le chauffe-eau instantané | Réseaux et équipements | P3 | Petit appareil mural, électrique ou à gaz, qui chauffe l'eau au moment où elle passe, sans réservoir.
+chauffe-eau-solaire | le chauffe-eau solaire | Réseaux et équipements | P2 | Ensemble posé en toiture formé de capteurs et d'un ballon horizontal, qui chauffe l'eau par le soleil.
+chemin-de-cables | le chemin de câbles | Réseaux et équipements | P2 | Support en treillis ou en tôle perforée, suspendu ou fixé au mur, qui porte les câbles dans les locaux techniques et les faux plafonds.
+clapet-anti-retour | le clapet anti-retour | Réseaux et équipements | P3 | Pièce montée sur une canalisation qui laisse passer l'eau dans un seul sens, une flèche indiquant le sens sur le corps.
+climatiseur-armoire | le climatiseur armoire | Réseaux et équipements | P3 | Climatiseur à unité intérieure haute et verticale posée au sol, pour les grandes pièces.
+climatiseur-de-fenetre | le climatiseur de fenêtre | Réseaux et équipements | P3 | Climatiseur monobloc encastré dans une fenêtre ou dans un trou du mur, dont l'arrière dépasse dehors.
+collecteur | le collecteur | Réseaux et équipements | P3 | Tube muni de plusieurs sorties, avec ou sans robinets, qui répartit l'eau vers chaque appareil ; aussi appelé nourrice.
+collier-de-fixation | le collier de fixation | Réseaux et équipements | P2 | Bride en métal ou en plastique vissée au mur qui maintient un tuyau.
+colonne-de-chute | la colonne de chute | Réseaux et équipements | P2 | Canalisation verticale qui descend les eaux usées et les eaux vannes des étages jusqu'au réseau en pied d'immeuble.
+colonne-de-douche | la colonne de douche | Réseaux et équipements | P3 | Ensemble vertical fixé au mur réunissant une grande pomme de douche en tête, une douchette et un mitigeur.
+colonne-seche | la colonne sèche | Réseaux et équipements | P3 | Canalisation vide montant dans les étages, avec une prise en façade où les pompiers branchent leur tuyau, et des prises à chaque niveau.
+compteur-a-prepaiement | le compteur à prépaiement | Réseaux et équipements | P1 | Compteur électrique à clavier où l'on saisit le code d'une recharge achetée à l'avance ; au Sénégal, le compteur Woyofal.
+compteur-d-eau | le compteur d'eau | Réseaux et équipements | P1 | Appareil placé sur le branchement, à cadran et chiffres, qui mesure l'eau consommée.
+compteur-electrique | le compteur électrique | Réseaux et équipements | P1 | Appareil qui mesure l'électricité consommée, avec un afficheur, installé à l'entrée du logement.
+coude | le coude | Réseaux et équipements | P2 | Raccord de tuyauterie qui change la direction d'une canalisation, le plus souvent à 45 ou 90 degrés.
+cuve-en-polyethylene | la cuve en polyéthylène | Réseaux et équipements | P1 | Réservoir d'eau en plastique moulé, souvent noir, bleu ou blanc, posé au sol ou sur une terrasse pour stocker l'eau.
+cuvette-de-wc | la cuvette de WC | Réseaux et équipements | P1 | Cuvette en céramique où l'on fait ses besoins, reliée à l'évacuation et rincée par une chasse d'eau ; aussi appelée WC à l'anglaise.
+declencheur-manuel | le déclencheur manuel | Réseaux et équipements | P2 | Boîtier rouge mural à vitre ou à membrane qu'on enfonce pour donner l'alarme incendie.
+detecteur-de-fumee | le détecteur de fumée | Réseaux et équipements | P2 | Petit boîtier rond fixé au plafond qui détecte la fumée et déclenche une alarme.
+detendeur | le détendeur | Réseaux et équipements | P3 | Pièce vissée sur la bouteille de gaz qui abaisse la pression du gaz avant le tuyau de raccordement.
+diffuseur-d-air | le diffuseur d'air | Réseaux et équipements | P2 | Bouche à ailettes, carrée ou ronde, posée dans le faux plafond, qui souffle l'air climatisé ou neuf.
+disjoncteur | le disjoncteur | Réseaux et équipements | P1 | Appareil modulaire à manette, monté sur rail dans le tableau, qui coupe un circuit en cas de surcharge ou de court-circuit.
+disjoncteur-differentiel | le disjoncteur différentiel | Réseaux et équipements | P2 | Disjoncteur muni d'un bouton test, qui coupe le courant en cas de fuite vers la terre pour protéger les personnes.
+douche-a-l-italienne | la douche à l'italienne | Réseaux et équipements | P2 | Douche de plain-pied sans receveur, dont le sol carrelé est en légère pente vers un siphon ou un caniveau.
+douchette-wc | la douchette WC | Réseaux et équipements | P2 | Petite douchette à main reliée à un flexible près de la cuvette, servant à la toilette intime, très répandue au Sénégal.
+evier | l'évier | Réseaux et équipements | P1 | Bac de cuisine en inox, en céramique ou en résine, avec un ou deux bacs et souvent un égouttoir, encastré dans un plan de travail.
+extincteur | l'extincteur | Réseaux et équipements | P1 | Bouteille rouge sous pression, munie d'une poignée et d'un tuyau, qui projette un produit pour éteindre un début de feu.
+extracteur-d-air | l'extracteur d'air | Réseaux et équipements | P2 | Ventilateur fixé dans un mur, une fenêtre ou un conduit, qui rejette l'air vicié d'une cuisine ou d'une salle d'eau.
+exutoire-de-desenfumage | l'exutoire de désenfumage | Réseaux et équipements | P3 | Ouvrant ou volet en haut d'une cage d'escalier ou en toiture qui s'ouvre en cas d'incendie pour évacuer la fumée.
+flexible-d-alimentation | le flexible d'alimentation | Réseaux et équipements | P2 | Tuyau souple gainé de tresse inox qui relie un robinet ou un réservoir de chasse au robinet d'arrêt.
+gaine-de-ventilation | la gaine de ventilation | Réseaux et équipements | P2 | Conduit en tôle, rond ou rectangulaire, ou en aluminium souple, qui transporte l'air.
+gaine-icta | la gaine ICTA | Réseaux et équipements | P1 | Conduit annelé souple, gris ou orange, posé dans les murs et les dalles avant coulage pour y passer les fils électriques.
+goulotte | la goulotte | Réseaux et équipements | P2 | Profilé en plastique à couvercle fixé en surface du mur, dans lequel passent les câbles.
+grille-de-ventilation | la grille de ventilation | Réseaux et équipements | P1 | Grille à lames ou perforée posée sur un mur ou une porte, qui laisse passer l'air.
+groupe-de-securite | le groupe de sécurité | Réseaux et équipements | P3 | Organe en laiton à soupape, monté sur l'arrivée d'eau froide d'un chauffe-eau, qui évacue la surpression.
+groupe-electrogene | le groupe électrogène | Réseaux et équipements | P1 | Machine formée d'un moteur et d'un alternateur, souvent dans un capot insonorisé, qui produit l'électricité en cas de coupure.
+hotte | la hotte | Réseaux et équipements | P2 | Appareil placé au-dessus de la cuisinière qui aspire les fumées et les odeurs de cuisson.
+interrupteur | l'interrupteur | Réseaux et équipements | P1 | Appareil mural à bascule ou à bouton qui allume et éteint un éclairage.
+lampadaire-solaire | le lampadaire solaire | Réseaux et équipements | P3 | Mât d'éclairage extérieur portant un luminaire et un panneau photovoltaïque qui le rend autonome.
+lavabo | le lavabo | Réseaux et équipements | P1 | Cuvette fixée au mur ou posée sur un meuble, alimentée par un robinet, servant à se laver les mains et le visage.
+liaison-frigorifique | la liaison frigorifique | Réseaux et équipements | P2 | Paire de tubes en cuivre isolés de mousse qui relie l'unité intérieure à l'unité extérieure d'un climatiseur.
+machinerie-d-ascenseur | la machinerie d'ascenseur | Réseaux et équipements | P3 | Local ou ensemble formé du moteur, du treuil et des poulies qui entraînent les câbles d'un ascenseur.
+manometre | le manomètre | Réseaux et équipements | P3 | Cadran à aiguille qui indique la pression dans une canalisation, une pompe ou un réservoir.
+mitigeur | le mitigeur | Réseaux et équipements | P1 | Robinet à manette unique qui règle à la fois le débit et le mélange d'eau chaude et d'eau froide.
+onduleur | l'onduleur | Réseaux et équipements | P2 | Boîtier électronique mural qui transforme le courant continu des panneaux solaires ou des batteries en courant alternatif.
+panneau-photovoltaique | le panneau photovoltaïque | Réseaux et équipements | P1 | Panneau plat bleu sombre ou noir, à cellules visibles, qui produit de l'électricité à partir du soleil.
+parafoudre | le parafoudre | Réseaux et équipements | P3 | Appareil modulaire du tableau électrique, souvent avec un voyant, qui protège l'installation des surtensions dues à la foudre.
+paratonnerre | le paratonnerre | Réseaux et équipements | P2 | Tige métallique dressée au sommet d'un bâtiment et reliée à la terre, qui capte la foudre.
+piquet-de-terre | le piquet de terre | Réseaux et équipements | P3 | Tige métallique enfoncée dans le sol et reliée au câble de terre de l'installation électrique.
+plafonnier | le plafonnier | Réseaux et équipements | P1 | Luminaire fixé directement contre le plafond.
+plancher-chauffant | le plancher chauffant | Réseaux et équipements | P3 | Réseau de tubes souples posés en serpentin sur un isolant avant le coulage de la chape.
+pomme-de-douche | la pomme de douche | Réseaux et équipements | P1 | Pièce perforée par laquelle l'eau de la douche sort en jet, fixée au mur ou au bout d'un flexible.
+pompe-de-relevage | la pompe de relevage | Réseaux et équipements | P3 | Pompe placée dans une petite cuve qui remonte les eaux usées d'un sous-sol jusqu'au réseau d'évacuation.
+pompe-de-surface | la pompe de surface | Réseaux et équipements | P2 | Pompe électrique posée au sol qui aspire l'eau d'une cuve ou d'une bâche et la refoule dans le réseau.
+pompe-immergee | la pompe immergée | Réseaux et équipements | P2 | Pompe cylindrique étroite descendue dans un forage ou une cuve, qui fonctionne sous l'eau.
+poste-de-transformation | le poste de transformation | Réseaux et équipements | P3 | Local ou cabine abritant le transformateur qui abaisse la tension du réseau pour alimenter un bâtiment ou un quartier.
+poteau-d-incendie | le poteau d'incendie | Réseaux et équipements | P2 | Borne rouge en fonte posée au bord de la voie, munie de prises où les pompiers raccordent leurs tuyaux.
+prise-de-courant | la prise de courant | Réseaux et équipements | P1 | Socle mural à deux trous, avec ou sans broche de terre, où l'on branche un appareil électrique.
+projecteur | le projecteur | Réseaux et équipements | P2 | Luminaire puissant orientable, à LED ou à halogène, qui éclaire une façade, une cour ou un chantier.
+raccord | le raccord | Réseaux et équipements | P2 | Pièce qui relie deux tuyaux entre eux ou un tuyau à un appareil : manchon, réduction, union…
+radiateur | le radiateur | Réseaux et équipements | P3 | Appareil de chauffage fixé au mur, en fonte, en acier ou en aluminium, à éléments ou à panneau.
+receveur-de-douche | le receveur de douche | Réseaux et équipements | P2 | Bac plat en céramique, en résine ou en acrylique posé au sol de la douche, qui recueille l'eau et la dirige vers la bonde.
+reducteur-de-pression | le réducteur de pression | Réseaux et équipements | P3 | Appareil en laiton monté sur l'arrivée d'eau, souvent muni d'un manomètre, qui abaisse la pression du réseau.
+reglette | la réglette | Réseaux et équipements | P1 | Luminaire long et étroit à tube fluorescent ou LED, fixé au plafond ou au mur.
+regulateur-de-charge | le régulateur de charge | Réseaux et équipements | P3 | Petit boîtier électronique qui contrôle la charge des batteries par les panneaux solaires.
+reservoir-a-vessie | le réservoir à vessie | Réseaux et équipements | P3 | Ballon métallique peint, souvent bleu, raccordé à une pompe ou un surpresseur, qui garde l'eau sous pression.
+reservoir-de-chasse | le réservoir de chasse | Réseaux et équipements | P1 | Réservoir d'eau en céramique ou en plastique placé derrière ou au-dessus de la cuvette, qui se vide pour la rincer.
+robinet | le robinet | Réseaux et équipements | P1 | Appareil à manette ou à tête qu'on ouvre pour faire couler l'eau d'une canalisation, monté sur un lavabo, un évier ou un mur.
+robinet-d-incendie-arme | le robinet d'incendie armé | Réseaux et équipements | P3 | Dévidoir mural portant un tuyau rigide enroulé, raccordé en permanence au réseau d'eau, pour lutter contre le feu ; abrégé RIA.
+siphon | le siphon | Réseaux et équipements | P1 | Pièce coudée ou en forme de bouteille placée sous un appareil sanitaire, qui garde une garde d'eau pour bloquer les odeurs de l'égout.
+siphon-de-sol | le siphon de sol | Réseaux et équipements | P1 | Grille posée au sol d'une douche, d'une salle d'eau ou d'une terrasse, reliée à un siphon, qui recueille l'eau qui ruisselle.
+split | le split | Réseaux et équipements | P1 | Climatiseur dont l'unité intérieure, un boîtier blanc allongé, est fixée en haut du mur et reliée à une unité extérieure.
+spot-encastre | le spot encastré | Réseaux et équipements | P2 | Petit luminaire rond logé dans le faux plafond, dont seule la collerette dépasse.
+sprinkler | le sprinkler | Réseaux et équipements | P2 | Petite tête d'arrosage au plafond, à ampoule de verre colorée, qui libère l'eau automatiquement en cas de chaleur.
+surpresseur | le surpresseur | Réseaux et équipements | P1 | Groupe formé d'une pompe et d'un réservoir sous pression qui augmente la pression de l'eau dans le bâtiment.
+suspension | la suspension | Réseaux et équipements | P2 | Luminaire accroché au plafond par un fil, une chaîne ou une tige.
+tableau-electrique | le tableau électrique | Réseaux et équipements | P1 | Coffret qui regroupe les disjoncteurs et protections d'une installation électrique sur des rails.
+te | le té | Réseaux et équipements | P3 | Raccord de tuyauterie en forme de T qui crée une dérivation sur une canalisation.
+tube-en-cuivre | le tube en cuivre | Réseaux et équipements | P2 | Tuyau métallique de teinte orangée utilisé pour l'eau, le gaz ou les liaisons frigorifiques, assemblé par brasure ou raccords.
+tube-galvanise | le tube galvanisé | Réseaux et équipements | P2 | Tuyau en acier recouvert de zinc, gris mat, fileté aux extrémités, pour l'eau ou la protection incendie.
+tube-multicouche | le tube multicouche | Réseaux et équipements | P3 | Tuyau blanc semi-rigide composé de plastique et d'une âme en aluminium, pour l'alimentation en eau, assemblé par raccords à sertir.
+tube-per | le tube PER | Réseaux et équipements | P2 | Tuyau souple en polyéthylène réticulé, souvent rouge ou bleu, parfois passé dans une gaine, pour la distribution d'eau chaude et froide.
+tube-ppr | le tube PPR | Réseaux et équipements | P2 | Tuyau en polypropylène, souvent vert ou blanc, assemblé par soudure à chaud, très employé en Afrique de l'Ouest pour l'alimentation en eau.
+tube-pvc | le tube PVC | Réseaux et équipements | P1 | Tuyau rigide en plastique gris ou blanc utilisé pour l'évacuation des eaux usées et parfois pour l'alimentation en eau.
+tuyau-de-condensats | le tuyau de condensats | Réseaux et équipements | P3 | Petit tuyau qui évacue l'eau produite par un climatiseur, souvent visible goutte à goutte en façade.
+tuyau-en-polyethylene | le tuyau en polyéthylène | Réseaux et équipements | P2 | Tuyau souple noir, parfois à bande bleue, enroulé en couronne, utilisé pour les branchements d'eau enterrés.
+unite-exterieure | l'unité extérieure | Réseaux et équipements | P1 | Caisson à ventilateur du climatiseur installé dehors, sur une façade, un toit ou au sol.
+urinoir | l'urinoir | Réseaux et équipements | P2 | Appareil sanitaire mural en céramique ou en inox, utilisé debout par les hommes, courant dans les sanitaires publics.
+vanne-d-arret | la vanne d'arrêt | Réseaux et équipements | P1 | Robinet à manette quart de tour, souvent rouge ou jaune, monté sur une canalisation pour couper l'eau.
+vase-d-expansion | le vase d'expansion | Réseaux et équipements | P3 | Petit réservoir métallique, souvent rouge, qui absorbe la dilatation de l'eau dans une installation de chauffage ou d'eau chaude.
+vasque | la vasque | Réseaux et équipements | P2 | Lavabo en forme de bol posé sur un plan ou encastré dans un meuble, sans fixation murale apparente.
+ventilateur-de-plafond | le ventilateur de plafond | Réseaux et équipements | P1 | Appareil à pales tournantes suspendu au plafond qui brasse l'air.
+wc-a-la-turque | le WC à la turque | Réseaux et équipements | P1 | Cuvette posée au ras du sol, avec deux repose-pieds, sur laquelle on s'accroupit.
+wc-suspendu | le WC suspendu | Réseaux et équipements | P2 | Cuvette de WC fixée au mur sans pied, le réservoir étant caché dans un bâti-support derrière la cloison.
+baffle-acoustique | le baffle acoustique | Second œuvre et finitions | P3 | Panneau absorbant suspendu verticalement sous un plafond pour réduire la réverbération.
+baguette-d-angle | la baguette d'angle | Second œuvre et finitions | P2 | Profilé métallique ou PVC posé sur les angles et les bords du carrelage pour les protéger et les finir.
+bande-a-joint | la bande à joint | Second œuvre et finitions | P1 | Bande de papier ou de fibre noyée dans l'enduit pour masquer et renforcer la jonction entre deux plaques de plâtre.
+barre-de-seuil | la barre de seuil | Second œuvre et finitions | P1 | Profilé ou pierre posé au sol sous une porte, à la jonction de deux revêtements différents.
+beton-cire | le béton ciré | Second œuvre et finitions | P2 | Enduit décoratif à base de ciment appliqué en couche mince sur sol ou mur, lissé et protégé, à aspect nuancé et continu.
+beton-poli | le béton poli | Second œuvre et finitions | P3 | Dalle de béton poncée jusqu'à devenir lisse et brillante, laissée comme sol fini.
+boiserie | la boiserie | Second œuvre et finitions | P3 | Habillage mural en panneaux de bois moulurés, typique des intérieurs anciens.
+cale-autonivelante | la cale autonivelante | Second œuvre et finitions | P2 | Système de languettes et de coins en plastique qui maintient les carreaux voisins au même niveau pendant la prise.
+carreau-de-gres-cerame | le carreau de grès cérame | Second œuvre et finitions | P1 | Carreau très dur et peu poreux en argile cuite à haute température, le plus posé aujourd'hui au sol.
+carreau-de-platre | le carreau de plâtre | Second œuvre et finitions | P3 | Bloc plein de plâtre à emboîtement, monté à la colle pour faire des cloisons intérieures lisses.
+carreau-grand-format | le carreau grand format | Second œuvre et finitions | P2 | Carreau de grande dimension, à partir de 60 × 120 cm, posé avec très peu de joints visibles.
+carreau-hexagonal | le carreau hexagonal | Second œuvre et finitions | P3 | Carreau de sol ou de mur à six côtés, posé en nid d'abeilles.
+carreau-imitation-bois | le carreau imitation bois | Second œuvre et finitions | P2 | Carreau de grès cérame en forme de lame qui reproduit le veinage du bois.
+carreau-metro | le carreau métro | Second œuvre et finitions | P3 | Faïence rectangulaire blanche biseautée, posée à joints décalés, inspirée du métro parisien.
+carrelage | le carrelage | Second œuvre et finitions | P1 | Revêtement de sol ou de mur fait de carreaux de céramique ou de pierre collés et séparés par des joints.
+cimaise | la cimaise | Second œuvre et finitions | P3 | Moulure horizontale fixée à mi-hauteur d'un mur, qui protège la paroi ou sert à accrocher des tableaux.
+cloison | la cloison | Second œuvre et finitions | P1 | Mur intérieur mince et non porteur qui sépare deux pièces.
+cloison-alveolaire | la cloison alvéolaire | Second œuvre et finitions | P3 | Cloison préfabriquée faite de deux parements en carton plâtre reliés par une âme en nid d'abeilles de carton.
+cloison-en-plaques-de-platre | la cloison en plaques de plâtre | Second œuvre et finitions | P1 | Cloison sèche faite de plaques de plâtre vissées de part et d'autre d'une ossature métallique.
+cloison-mobile | la cloison mobile | Second œuvre et finitions | P3 | Cloison faite de panneaux suspendus à un rail qui coulissent ou se replient pour diviser ou ouvrir une salle.
+cloison-sanitaire | la cloison sanitaire | Second œuvre et finitions | P3 | Panneaux rigides surélevés du sol qui séparent les cabines de WC dans les toilettes collectives.
+cloison-vitree | la cloison vitrée | Second œuvre et finitions | P2 | Cloison intérieure en grands panneaux de verre, fréquente dans les bureaux.
+colle-a-carrelage | la colle à carrelage | Second œuvre et finitions | P1 | Mortier-colle en poudre, vendu en sacs, étalé au peigne cranté pour coller les carreaux.
+corniere-d-angle | la cornière d'angle | Second œuvre et finitions | P2 | Profilé métallique ou plastique en L qui protège et dresse les angles saillants des cloisons et enduits.
+corniere-de-rive | la cornière de rive | Second œuvre et finitions | P2 | Profilé en L fixé au mur sur lequel reposent les bords d'un faux plafond.
+couvre-joint | le couvre-joint | Second œuvre et finitions | P3 | Profilé métallique ou plastique qui recouvre un joint entre deux revêtements ou deux parties d'ouvrage.
+credence | la crédence | Second œuvre et finitions | P2 | Revêtement mural protecteur posé au-dessus du plan de travail d'une cuisine.
+croisillon | le croisillon | Second œuvre et finitions | P1 | Petite croix en plastique placée entre les carreaux pendant la pose pour garder des joints réguliers.
+dalle-de-moquette | la dalle de moquette | Second œuvre et finitions | P3 | Carré de moquette, souvent de 50 × 50 cm, posé à joints serrés dans les bureaux.
+doublage | le doublage | Second œuvre et finitions | P2 | Paroi mince, souvent en plaques de plâtre avec isolant, posée contre la face intérieure d'un mur.
+dressing | le dressing | Second œuvre et finitions | P3 | Pièce ou grand placard aménagé de penderies, étagères et tiroirs pour ranger les vêtements.
+enduit-de-lissage | l'enduit de lissage | Second œuvre et finitions | P2 | Enduit fin, blanc, étalé au couteau en couches minces sur un mur ou des plaques de plâtre pour obtenir une surface lisse avant peinture.
+enduit-de-platre | l'enduit de plâtre | Second œuvre et finitions | P2 | Couche de plâtre étalée et lissée sur un mur ou un plafond intérieur pour obtenir une surface plane prête à peindre.
+etancheite-liquide | l'étanchéité liquide | Second œuvre et finitions | P2 | Résine appliquée au rouleau sur les sols et murs de douche avant carrelage, formant une couche continue souvent grise ou bleue.
+faience | la faïence | Second œuvre et finitions | P1 | Carreaux de céramique émaillée collés sur les murs de cuisines et salles de bains.
+faux-plafond | le faux plafond | Second œuvre et finitions | P1 | Plafond suspendu sous la dalle ou la charpente, qui masque gaines et réseaux.
+faux-plafond-a-lames-metalliques | le faux plafond à lames métalliques | Second œuvre et finitions | P3 | Faux plafond fait de lames d'aluminium étroites et parallèles clipsées sur des porteurs.
+faux-plafond-en-dalles | le faux plafond en dalles | Second œuvre et finitions | P1 | Faux plafond fait de dalles amovibles, souvent de 60 × 60 cm, posées dans une ossature apparente.
+faux-plafond-en-plaques-de-platre | le faux plafond en plaques de plâtre | Second œuvre et finitions | P1 | Faux plafond continu et lisse fait de plaques de plâtre vissées sur une ossature cachée.
+fond-de-joint | le fond de joint | Second œuvre et finitions | P3 | Cordon de mousse enfoncé dans un joint large avant le mastic pour en régler la profondeur.
+gorge-lumineuse | la gorge lumineuse | Second œuvre et finitions | P1 | Rebord ou décaissé du faux plafond qui cache une source lumineuse éclairant le plafond de façon indirecte.
+granito | le granito | Second œuvre et finitions | P2 | Sol coulé ou en carreaux fait d'éclats de marbre noyés dans un ciment puis poncé, appelé aussi terrazzo ; fréquent dans les anciens immeubles de Dakar.
+gres-cerame-poli | le grès cérame poli | Second œuvre et finitions | P1 | Carreau de grès cérame à surface polie et brillante qui reflète la lumière, souvent appelé carreau poli à Dakar.
+isolant-mince-reflechissant | l'isolant mince réfléchissant | Second œuvre et finitions | P3 | Isolant en rouleau, peu épais, fait de feuilles d'aluminium brillantes et de couches de mousse ou de ouate.
+joint-de-carrelage | le joint de carrelage | Second œuvre et finitions | P1 | Mince bande de mortier coloré qui remplit l'espace entre deux carreaux.
+joint-silicone | le joint silicone | Second œuvre et finitions | P1 | Cordon de mastic souple et étanche posé autour des sanitaires, des plans de travail et dans les angles.
+lambris | le lambris | Second œuvre et finitions | P2 | Revêtement de mur ou de plafond fait de lames de bois emboîtées.
+lambris-pvc | le lambris PVC | Second œuvre et finitions | P1 | Lames de plastique emboîtées, souvent blanches, fixées en plafond ou en mur ; courant au Sénégal sous les toitures.
+liege | le liège | Second œuvre et finitions | P3 | Revêtement de sol ou de mur en plaques d'écorce de chêne-liège agglomérée, brunes et granuleuses.
+linoleum | le linoléum | Second œuvre et finitions | P3 | Revêtement de sol souple en rouleau fait d'huile de lin, de résine et de liège sur toile de jute.
+listel | le listel | Second œuvre et finitions | P2 | Étroite bande décorative de carreaux insérée dans une faïence murale.
+montant-metallique | le montant métallique | Second œuvre et finitions | P1 | Profilé vertical en tôle d'acier galvanisé, en forme de C, qui forme l'ossature d'une cloison sèche.
+moquette | la moquette | Second œuvre et finitions | P2 | Revêtement de sol textile fixé d'un mur à l'autre.
+mosaique-de-pate-de-verre | la mosaïque de pâte de verre | Second œuvre et finitions | P2 | Petits carreaux de verre coloré collés sur trame, posés dans les douches et les piscines.
+mousse-expansive | la mousse expansive | Second œuvre et finitions | P2 | Mousse polyuréthane jaune projetée à la bombe, qui gonfle pour combler les vides autour des menuiseries et des traversées de gaines.
+mousse-polyurethane-projetee | la mousse polyuréthane projetée | Second œuvre et finitions | P3 | Isolant pulvérisé qui gonfle en une mousse jaunâtre irrégulière collée au support.
+natte-d-etancheite | la natte d'étanchéité | Second œuvre et finitions | P3 | Membrane souple en plastique, souvent orange, collée sous le carrelage des pièces humides.
+ossature-de-faux-plafond | l'ossature de faux plafond | Second œuvre et finitions | P1 | Réseau de profilés métalliques suspendus qui porte les dalles ou les plaques d'un faux plafond.
+panneau-acoustique | le panneau acoustique | Second œuvre et finitions | P3 | Panneau absorbant en mousse, fibres ou bois rainuré, fixé au mur ou au plafond pour corriger l'acoustique.
+papier-peint | le papier peint | Second œuvre et finitions | P2 | Revêtement mural en rouleaux de papier ou de vinyle imprimé, collé au mur.
+pare-vapeur | le pare-vapeur | Second œuvre et finitions | P3 | Film plastique tendu côté intérieur d'un isolant pour empêcher la vapeur d'eau d'y pénétrer.
+parquet | le parquet | Second œuvre et finitions | P2 | Revêtement de sol en lames de bois assemblées.
+parquet-a-batons-rompus | le parquet à bâtons rompus | Second œuvre et finitions | P3 | Parquet dont les lames rectangulaires se rencontrent à angle droit en zigzag.
+parquet-point-de-hongrie | le parquet en point de Hongrie | Second œuvre et finitions | P3 | Parquet dont les lames, coupées en biais, forment des chevrons alignés en pointe.
+peinture | la peinture | Second œuvre et finitions | P1 | Couche colorée appliquée au rouleau ou au pinceau sur un mur ou un plafond.
+placard | le placard | Second œuvre et finitions | P2 | Rangement intégré dans l'épaisseur d'un mur ou entre deux cloisons, fermé par des portes.
+plafond-tendu | le plafond tendu | Second œuvre et finitions | P3 | Toile de PVC ou de textile tendue sur un cadre fixé en périphérie, formant un plafond parfaitement lisse.
+plan-de-travail | le plan de travail | Second œuvre et finitions | P1 | Tablette horizontale de cuisine en granit, bois, stratifié ou carrelage, posée sur les meubles bas.
+plancher-technique | le plancher technique | Second œuvre et finitions | P3 | Plancher fait de dalles amovibles posées sur des vérins, qui laisse passer les câbles dessous ; courant dans les salles informatiques.
+plaque-de-platre | la plaque de plâtre | Second œuvre et finitions | P1 | Panneau plat de plâtre pris entre deux feuilles de carton, appelé couramment placo ou BA13, vissé sur ossature pour cloisons, doublages et plafonds.
+plaque-de-platre-coupe-feu | la plaque de plâtre coupe-feu | Second œuvre et finitions | P3 | Plaque de plâtre renforcée de fibres, à carton souvent rose ou rouge, qui retarde la propagation du feu.
+plaque-de-platre-hydrofuge | la plaque de plâtre hydrofuge | Second œuvre et finitions | P2 | Plaque de plâtre à carton vert, traitée contre l'humidité, posée dans les salles d'eau.
+plaque-de-platre-perforee | la plaque de plâtre perforée | Second œuvre et finitions | P3 | Plaque de plâtre percée d'un réseau régulier de petits trous, utilisée en plafond pour absorber le bruit.
+plinthe | la plinthe | Second œuvre et finitions | P1 | Bande de carrelage, de bois ou de PVC posée au bas d'un mur, contre le sol, pour le protéger.
+ragreage | le ragréage | Second œuvre et finitions | P2 | Mortier fluide autolissant coulé en couche mince pour rendre une dalle parfaitement plane avant pose du revêtement.
+rail-metallique | le rail métallique | Second œuvre et finitions | P2 | Profilé en U en acier galvanisé fixé au sol et au plafond, dans lequel s'emboîtent les montants d'une cloison sèche.
+revetement-de-sol | le revêtement de sol | Second œuvre et finitions | P1 | Couche de finition posée sur la dalle ou la chape : carrelage, parquet, résine, sol souple, etc.
+revetement-mural | le revêtement mural | Second œuvre et finitions | P1 | Couche de finition appliquée sur un mur intérieur : peinture, faïence, papier peint, lambris, etc.
+sol-en-caoutchouc | le sol en caoutchouc | Second œuvre et finitions | P3 | Revêtement souple et épais en caoutchouc, souvent à pastilles en relief, posé dans les lieux à fort passage ou les salles de sport.
+sol-en-marbre | le sol en marbre | Second œuvre et finitions | P2 | Sol fait de dalles de marbre polies aux veines visibles.
+sol-en-resine | le sol en résine | Second œuvre et finitions | P2 | Revêtement de sol coulé, lisse et sans joint, en résine époxy ou polyuréthane, souvent dans les ateliers et parkings.
+sol-pvc | le sol PVC | Second œuvre et finitions | P2 | Revêtement de sol souple en plastique, en rouleaux, dalles ou lames, appelé aussi sol vinyle.
+sol-stratifie | le sol stratifié | Second œuvre et finitions | P2 | Lames clipsables en panneau de fibres revêtu d'un décor imprimé, souvent imitation bois, posées flottantes.
+sous-couche-acoustique | la sous-couche acoustique | Second œuvre et finitions | P3 | Feuille de mousse ou de liège déroulée sous un parquet flottant ou un stratifié.
+staff | le staff | Second œuvre et finitions | P1 | Plâtre armé de fibres, coulé en plaques ou en moulures, très employé au Sénégal pour les faux plafonds et corniches décoratives.
+stuc-venitien | le stuc vénitien | Second œuvre et finitions | P3 | Enduit décoratif à la chaux et poudre de marbre, lissé en couches fines, à reflet marbré et brillant.
+suspente | la suspente | Second œuvre et finitions | P2 | Tige ou fil métallique accroché à la dalle qui porte l'ossature d'un faux plafond.
+tadelakt | le tadelakt | Second œuvre et finitions | P3 | Enduit marocain à la chaux, lissé et poli au galet, étanche et brillant, posé en salles d'eau.
+tapis-de-proprete | le tapis de propreté | Second œuvre et finitions | P3 | Tapis grattant encastré au sol à l'entrée d'un bâtiment pour retenir poussière et sable.
+toile-de-verre | la toile de verre | Second œuvre et finitions | P3 | Revêtement mural en tissu de fibres de verre à relief léger, collé puis peint.
+tomette | la tomette | Second œuvre et finitions | P3 | Petit carreau de terre cuite rouge, souvent hexagonal, des sols anciens.
+trappe-de-visite | la trappe de visite | Second œuvre et finitions | P2 | Petit panneau ouvrant dans un faux plafond ou une cloison, qui donne accès aux réseaux cachés.
+verriere-interieure | la verrière intérieure | Second œuvre et finitions | P2 | Cloison vitrée à fins profilés d'acier noirs formant des carreaux, de style atelier.
+ancre | l'ancre | Structure | P3 | Pièce de fer en forme de S, de X ou de barre, fixée sur une façade au bout d'un tirant pour retenir le mur.
+appareil-d-appui | l'appareil d'appui | Structure | P3 | Bloc de caoutchouc fretté ou pièce métallique placé entre une poutre et son appui pour lui permettre de bouger légèrement.
+arc | l'arc | Structure | P? | Élément courbe qui franchit une ouverture en reportant les charges sur ses appuis.
+arc-boutant | l'arc-boutant | Structure | P? | Arc extérieur qui reporte la poussée d'une voûte sur une culée éloignée du mur.
+arc-brise | l'arc brisé | Structure | P2 | Arc formé de deux portions de cercle qui se rejoignent en pointe au sommet.
+arc-de-decharge | l'arc de décharge | Structure | P3 | Arc noyé dans la maçonnerie au-dessus d'une baie ou d'un linteau pour en détourner les charges.
+arc-en-plein-cintre | l'arc en plein cintre | Structure | P1 | Arc dont la courbe forme un demi-cercle complet.
+arc-outrepasse | l'arc outrepassé | Structure | P3 | Arc en fer à cheval, dont la courbe dépasse le demi-cercle et se resserre à la base.
+arc-surbaisse | l'arc surbaissé | Structure | P2 | Arc moins haut que la moitié de sa largeur, à la courbe aplatie.
+assemblage-boulonne | l'assemblage boulonné | Structure | P2 | Liaison de pièces métalliques par des boulons serrés à travers des plaques ou des ailes de profilés.
+assemblage-soude | l'assemblage soudé | Structure | P1 | Liaison de pièces métalliques par un cordon de soudure visible le long du contact.
+chevetre | le chevêtre | Structure | P3 | Pièce de bois ou de métal posée entre deux solives pour encadrer une trémie et reprendre les solives interrompues.
+claveau | le claveau | Structure | P2 | Pierre ou brique taillée en coin qui forme avec les autres la courbe d'un arc ou d'une voûte ; on dit aussi voussoir.
+cle-de-voute | la clé de voûte | Structure | P? | Pierre placée au sommet d'un arc ou d'une voûte, qui bloque les autres pierres.
+colombage | le colombage | Structure | P? | Ossature de mur en pièces de bois apparentes dont les vides sont remplis de maçonnerie ou de torchis.
+colonne | la colonne | Structure | P? | Support vertical isolé, de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.
+contrefort | le contrefort | Structure | P? | Massif de maçonnerie en saillie, appliqué contre un mur pour le renforcer et résister aux poussées.
+contreventement | le contreventement | Structure | P2 | Ensemble de barres ou de murs qui empêche une structure de se déformer sous l'effet du vent ou des séismes.
+coque-en-beton | la coque en béton | Structure | P3 | Voile mince de béton armé à double courbure qui couvre un espace sans appuis intermédiaires.
+corbeau | le corbeau | Structure | P? | Pierre ou pièce de bois en saillie sur un mur, qui porte une poutre, une corniche ou un encorbellement.
+corniere | la cornière | Structure | P1 | Barre d'acier à section en L, utilisée pour les assemblages, les treillis et les petites structures.
+coupole | la coupole | Structure | P? | Voûte en demi-sphère ou en calotte, élevée sur un plan circulaire, carré ou polygonal ; le mot désigne surtout sa face intérieure, l'extérieur étant le dôme.
+croix-de-saint-andre | la croix de Saint-André | Structure | P2 | Paire de barres croisées en X entre deux poteaux, qui contrevente une ossature.
+dalle | la dalle | Structure | P1 | Plaque horizontale de béton armé, d'épaisseur constante, qui forme un plancher ou une toiture-terrasse.
+dalle-alveolee | la dalle alvéolée | Structure | P3 | Dalle préfabriquée en béton précontraint, traversée sur toute sa longueur d'alvéoles circulaires visibles à ses extrémités.
+dalle-caissonnee | la dalle caissonnée | Structure | P3 | Dalle de béton dont la sous-face est creusée de caissons carrés formés par des nervures croisées.
+dalle-champignon | la dalle champignon | Structure | P3 | Dalle sans poutres portée par des poteaux qui s'évasent en tête comme un champignon.
+dalle-nervuree | la dalle nervurée | Structure | P2 | Dalle de béton dont la sous-face montre des nervures parallèles régulièrement espacées.
+dalle-pleine | la dalle pleine | Structure | P2 | Dalle de béton armé massive coulée sur coffrage, sans hourdis ni vides, dont la sous-face est lisse.
+extrados | l'extrados | Structure | P3 | Face extérieure, convexe, d'un arc ou d'une voûte.
+ferme | la ferme | Structure | P? | Assemblage triangulé de pièces de bois ou de métal qui porte la couverture d'un toit.
+ferme-metallique | la ferme métallique | Structure | P1 | Ferme de toiture faite de profilés ou de tubes d'acier assemblés en triangles.
+gousset | le gousset | Structure | P2 | Plaque d'acier qui réunit plusieurs barres en un même nœud d'une ferme ou d'un contreventement.
+hauban | le hauban | Structure | P3 | Câble d'acier tendu en oblique, qui suspend ou stabilise une toiture, un mât ou une passerelle.
+intrados | l'intrados | Structure | P3 | Face intérieure, concave, d'un arc ou d'une voûte.
+jarret | le jarret | Structure | P3 | Renfort triangulaire à l'angle entre poteau et traverse d'un portique métallique, qui épaissit la poutre près de l'appui.
+joint-de-dilatation | le joint de dilatation | Structure | P1 | Coupure qui traverse un bâtiment de haut en bas et sépare deux blocs pour qu'ils se dilatent librement.
+mur-de-refend | le mur de refend | Structure | P2 | Mur porteur intérieur qui partage l'espace d'un bâtiment et relie les façades.
+mur-porteur | le mur porteur | Structure | P1 | Mur qui porte les planchers ou la toiture et transmet leurs charges aux fondations.
+ossature-bois | l'ossature bois | Structure | P3 | Structure de murs faite de montants et de traverses en bois rapprochés, avant la pose des panneaux.
+ossature-en-beton-arme | l'ossature en béton armé | Structure | P1 | Squelette porteur fait de poteaux, de poutres et de dalles en béton armé, bien visible sur un bâtiment en construction avant le remplissage des murs.
+ossature-metallique | l'ossature métallique | Structure | P1 | Structure porteuse faite de profilés d'acier assemblés : poteaux, poutres et contreventements.
+pendentif | le pendentif | Structure | P3 | Triangle de maçonnerie courbe qui fait passer d'un plan carré au cercle d'une coupole.
+pilier | le pilier | Structure | P2 | Support vertical massif en maçonnerie ou en béton, de section carrée ou polygonale, plus trapu qu'un poteau.
+pilotis | le pilotis | Structure | P? | Ensemble de pieux ou de poteaux qui portent une construction au-dessus du sol ou de l'eau, en laissant libre le niveau inférieur.
+plancher-a-corps-creux | le plancher à corps creux | Structure | P1 | Plancher fait de poutrelles, d'hourdis et d'une dalle de compression, très répandu en Afrique de l'Ouest et en France.
+plancher-collaborant | le plancher collaborant | Structure | P2 | Plancher fait d'une tôle d'acier nervurée servant de coffrage et sur laquelle on coule une dalle de béton.
+platine | la platine | Structure | P2 | Plaque d'acier soudée au pied d'un poteau métallique et boulonnée sur son massif en béton.
+porte-a-faux | le porte-à-faux | Structure | P1 | Partie d'ouvrage qui dépasse de ses appuis et n'est soutenue que d'un côté.
+portique | le portique | Structure | P1 | Ossature formée de deux poteaux et d'une poutre rigidement assemblés, répétée pour former la structure d'un bâtiment ou d'un hangar.
+poteau | le poteau | Structure | P1 | Élément porteur vertical, de section carrée, rectangulaire ou ronde, qui reporte les charges des planchers vers les fondations.
+poteau-metallique | le poteau métallique | Structure | P1 | Poteau fait d'un profilé ou d'un tube d'acier, fixé en pied par une platine.
+poutre | la poutre | Structure | P1 | Élément porteur horizontal qui franchit un espace entre deux appuis et porte un plancher ou une toiture.
+poutre-de-rive | la poutre de rive | Structure | P3 | Poutre placée en bordure d'un plancher, le long de la façade.
+poutre-en-lamelle-colle | la poutre en lamellé-collé | Structure | P3 | Poutre en bois faite de lamelles collées dont on voit les couches parallèles sur le côté.
+poutre-treillis | la poutre treillis | Structure | P2 | Poutre faite de deux membrures reliées par des barres disposées en triangles.
+poutre-vierendeel | la poutre Vierendeel | Structure | P3 | Poutre à jour faite de membrures et de montants verticaux rigidement assemblés, sans diagonales.
+profile-en-h | le profilé en H | Structure | P2 | Barre d'acier dont la section a la forme d'un H, à ailes larges, comme les HEA et HEB, employée surtout en poteau.
+profile-en-i | le profilé en I | Structure | P1 | Barre d'acier dont la section a la forme d'un I, avec des ailes étroites, comme les IPE et les IPN, employée en poutre.
+profile-en-u | le profilé en U | Structure | P2 | Barre d'acier dont la section a la forme d'un U, comme les UPN.
+retombee-de-poutre | la retombée de poutre | Structure | P1 | Partie d'une poutre qui dépasse sous la sous-face d'une dalle.
+solive | la solive | Structure | P2 | Pièce de bois posée en série parallèle entre deux murs ou poutres pour porter un plancher.
+sommier | le sommier | Structure | P3 | Première pierre d'un arc, posée sur le piédroit, d'où part la courbe.
+structure-tridimensionnelle | la structure tridimensionnelle | Structure | P3 | Réseau de barres et de nœuds assemblés en pyramides, qui couvre de grandes surfaces sans appuis intermédiaires.
+tambour | le tambour | Structure | P3 | Mur circulaire ou polygonal, souvent percé de fenêtres, qui surélève une coupole au-dessus de sa base.
+tige-d-ancrage | la tige d'ancrage | Structure | P2 | Tige filetée scellée dans le béton, qui dépasse pour fixer la platine d'un poteau métallique.
+tirant | le tirant | Structure | P2 | Barre ou câble tendu qui retient deux parties d'un ouvrage, par exemple entre les naissances d'un arc.
+voile | le voile | Structure | P1 | Mur porteur en béton armé, coulé entre des banches.
+voute | la voûte | Structure | P? | Ouvrage de maçonnerie cintré qui couvre un espace, comme un arc prolongé dans la profondeur.
+voute-d-aretes | la voûte d'arêtes | Structure | P3 | Voûte formée par le croisement de deux voûtes en berceau, dont les intersections dessinent des arêtes saillantes.
+voute-en-berceau | la voûte en berceau | Structure | P2 | Voûte de section en demi-cercle, prolongée en ligne droite comme un demi-cylindre.
+voute-sur-croisee-d-ogives | la voûte sur croisée d'ogives | Structure | P3 | Voûte gothique portée par deux arcs diagonaux saillants qui se croisent au sommet.
+acrotere | l'acrotère | Toitures | P? | Muret en rive d'une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l'étanchéité.
+appentis | l'appentis | Toitures | P2 | Petit bâtiment ou auvent à un seul versant, adossé à un mur plus haut.
+arbaletrier | l'arbalétrier | Toitures | P2 | Pièce inclinée d'une ferme, qui monte de l'entrait jusqu'au faîtage et porte les pannes.
+aretier | l'arêtier | Toitures | P2 | Arête saillante inclinée formée par la rencontre de deux versants, sur un toit à croupes.
+avant-toit | l'avant-toit | Toitures | P1 | Partie du toit qui déborde en avant de la façade pour protéger le mur de la pluie et du soleil.
+bac-acier | le bac acier | Toitures | P1 | Tôle d'acier nervurée à grandes ondes trapézoïdales, posée sur pannes en couverture de toiture.
+bardeau-bitume | le bardeau bitumé | Toitures | P3 | Petite plaque souple de bitume armé recouverte de granulés minéraux, posée en écailles sur un voligeage.
+boite-a-eau | la boîte à eau | Toitures | P3 | Réceptacle en forme d'entonnoir qui recueille l'eau d'une gouttière ou d'une gargouille en tête de descente.
+charpente | la charpente | Toitures | P1 | Ossature en bois ou en métal qui porte la couverture d'un toit.
+charpente-metallique | la charpente métallique | Toitures | P1 | Charpente de toit faite de profilés en acier (fermes, pannes) assemblés par boulons ou soudure.
+chatiere | la chatière | Toitures | P3 | Tuile ou pièce munie d'une ouverture grillagée qui ventile le dessous de la couverture.
+cheneau | le chéneau | Toitures | P2 | Canal encaissé en pied de versant ou entre deux toits, qui recueille l'eau de pluie, intégré à la construction.
+chevron | le chevron | Toitures | P1 | Pièce de bois inclinée suivant la pente du toit, posée sur les pannes, qui reçoit les liteaux ou voliges.
+chien-assis | le chien-assis | Toitures | P3 | Lucarne dont le toit est incliné en sens inverse de la pente du versant.
+couvertine | la couvertine | Toitures | P1 | Profilé métallique qui coiffe le dessus d'un acrotère ou d'un muret pour le protéger de la pluie.
+couverture-en-zinc | la couverture en zinc | Toitures | P3 | Couverture en feuilles de zinc assemblées par des joints relevés parallèles à la pente.
+crapaudine | la crapaudine | Toitures | P2 | Grille bombée posée sur l'orifice d'évacuation d'une terrasse ou d'une gouttière pour arrêter les feuilles.
+croupe | la croupe | Toitures | P? | Versant de toit triangulaire qui ferme l'extrémité d'un toit à la place d'un pignon.
+dalle-sur-plots | la dalle sur plots | Toitures | P3 | Dalles de revêtement posées sur des plots réglables au-dessus de l'étanchéité d'une terrasse.
+dauphin | le dauphin | Toitures | P3 | Partie basse d'une descente d'eaux pluviales, en fonte, coudée vers le sol ou le caniveau.
+demi-croupe | la demi-croupe | Toitures | P3 | Petit versant incliné qui coupe seulement le haut d'un pignon.
+descente-d-eaux-pluviales | la descente d'eaux pluviales | Toitures | P1 | Tuyau vertical fixé sur la façade qui conduit l'eau du toit jusqu'au sol ou au réseau.
+ecran-sous-toiture | l'écran sous-toiture | Toitures | P2 | Membrane souple tendue sous la couverture, sur les chevrons, qui arrête l'eau infiltrée et la poussière.
+edicule | l'édicule | Toitures | P3 | Petite construction qui émerge d'une toiture-terrasse, abritant la sortie d'escalier ou des équipements.
+egout-de-toit | l'égout de toit | Toitures | P2 | Bord inférieur d'un versant, d'où l'eau de pluie s'écoule vers la gouttière.
+entrait | l'entrait | Toitures | P2 | Poutre horizontale à la base d'une ferme, qui relie les pieds des arbalétriers.
+faitage | le faîtage | Toitures | P? | Ligne de rencontre supérieure des deux versants d'un toit, et l'ouvrage qui la couvre.
+fenetre-de-toit | la fenêtre de toit | Toitures | P2 | Fenêtre posée dans le plan d'un versant de toit, à la même pente que la couverture.
+fermette | la fermette | Toitures | P2 | Ferme légère industrialisée en bois assemblé par connecteurs métalliques, posée à faible entraxe.
+fleche | la flèche | Toitures | P? | Couronnement très élancé, pyramidal ou conique, qui surmonte un clocher ou une tour.
+gargouille-de-terrasse | la gargouille de terrasse | Toitures | P1 | Tube court qui traverse l'acrotère et rejette l'eau d'une toiture-terrasse loin de la façade.
+gouttiere | la gouttière | Toitures | P? | Canal fixé au bas d'un toit qui recueille les eaux de pluie.
+lanterneau | le lanterneau | Toitures | P? | Élément vitré posé en saillie sur un toit pour éclairer et parfois aérer l'espace situé dessous.
+liteau | le liteau | Toitures | P1 | Tasseau de bois cloué horizontalement sur les chevrons, sur lequel s'accrochent les tuiles.
+lucarne | la lucarne | Toitures | P? | Ouvrage en saillie sur un toit, muni d'une fenêtre verticale, qui éclaire le comble.
+membrane-bitumineuse | la membrane bitumineuse | Toitures | P1 | Feuille d'étanchéité en bitume armé, posée en lés soudés au chalumeau sur une toiture-terrasse.
+mitre | la mitre | Toitures | P3 | Couronnement placé au sommet d'un conduit de cheminée pour l'abriter de la pluie et du vent.
+noue | la noue | Toitures | P2 | Angle rentrant formé par la rencontre de deux versants, où l'eau de pluie converge.
+panne | la panne | Toitures | P1 | Pièce horizontale de charpente, parallèle au faîtage, posée sur les fermes et qui porte les chevrons ou la couverture.
+panne-faitiere | la panne faîtière | Toitures | P3 | Panne placée au sommet de la charpente, le long du faîtage.
+panneau-sandwich | le panneau sandwich | Toitures | P1 | Panneau de couverture fait de deux tôles nervurées enfermant une âme isolante en mousse ou en laine minérale.
+plaque-de-fibrociment | la plaque de fibrociment | Toitures | P2 | Plaque ondulée grise en ciment armé de fibres, posée en couverture sur des pannes.
+plaque-translucide | la plaque translucide | Toitures | P1 | Plaque de couverture en polycarbonate ou polyester qui laisse passer la lumière, posée parmi les tôles.
+poincon | le poinçon | Toitures | P3 | Pièce verticale au centre d'une ferme, entre l'entrait et le faîtage.
+releve-d-etancheite | le relevé d'étanchéité | Toitures | P1 | Remontée de la membrane d'étanchéité le long de l'acrotère ou d'un mur en bordure de terrasse.
+rive | la rive | Toitures | P2 | Bord latéral incliné d'un versant, à la jonction avec le pignon.
+sabliere | la sablière | Toitures | P2 | Pièce de bois horizontale posée au sommet du mur, sur laquelle reposent le bas des chevrons.
+shed | le shed | Toitures | P? | Toiture en dents de scie dont un versant de chaque dent est vitré pour éclairer l'intérieur, typique des bâtiments industriels.
+solin | le solin | Toitures | P2 | Bande de mortier ou de métal qui assure l'étanchéité à la jonction d'une couverture et d'un mur ou d'une souche.
+souche-de-cheminee | la souche de cheminée | Toitures | P? | Partie d'un conduit de cheminée qui dépasse au-dessus du toit.
+terrasse-accessible | la terrasse accessible | Toitures | P2 | Toiture-terrasse aménagée pour circuler et séjourner, avec revêtement de sol et garde-corps.
+toit-a-deux-pans | le toit à deux pans | Toitures | P1 | Toit formé de deux versants inclinés qui se rejoignent au faîtage, avec un pignon à chaque bout.
+toit-a-quatre-pans | le toit à quatre pans | Toitures | P1 | Toit formé de quatre versants inclinés, deux longs pans et deux croupes, sans pignon.
+toit-conique | le toit conique | Toitures | P2 | Toit en forme de cône qui couvre un bâtiment ou une tour de plan circulaire.
+toit-en-pavillon | le toit en pavillon | Toitures | P3 | Toit dont les quatre versants triangulaires se rejoignent en un seul point au sommet.
+toit-mansarde | le toit mansardé | Toitures | P2 | Toit à la Mansart, dont chaque versant est brisé en un brisis très raide en bas et un terrasson peu incliné en haut.
+toit-monopente | le toit monopente | Toitures | P1 | Toit formé d'un seul versant incliné.
+toit-papillon | le toit papillon | Toitures | P3 | Toit formé de deux versants inclinés vers le centre, en forme de V.
+toiture | la toiture | Toitures | P1 | Ensemble des ouvrages qui couvrent et ferment le haut d'un bâtiment, vus de l'extérieur.
+toiture-cintree | la toiture cintrée | Toitures | P3 | Toiture en forme d'arc, souvent en tôle cintrée sur une charpente métallique courbe.
+toiture-terrasse | la toiture-terrasse | Toitures | P1 | Toiture plate ou à très faible pente, en général une dalle étanchée bordée d'acrotères.
+toiture-terrasse-gravillonnee | la toiture-terrasse gravillonnée | Toitures | P2 | Toiture-terrasse dont l'étanchéité est protégée par une couche de gravillons.
+toiture-vegetalisee | la toiture végétalisée | Toitures | P2 | Toiture recouverte d'un substrat planté (sédums, herbes, arbustes) au-dessus de l'étanchéité.
+trop-plein | le trop-plein | Toitures | P2 | Orifice de secours placé dans l'acrotère, plus haut que l'évacuation normale, qui évacue l'eau si elle est bouchée.
+tuile-canal | la tuile canal | Toitures | P2 | Tuile en terre cuite en forme de demi-cylindre, posée en rangs alternés vers le haut et vers le bas.
+tuile-faitiere | la tuile faîtière | Toitures | P2 | Tuile arrondie ou en angle qui recouvre la ligne de faîtage.
+tuile-mecanique | la tuile mécanique | Toitures | P2 | Tuile moulée à emboîtement, munie de nervures et de tenons qui s'accrochent aux liteaux.
+tuile-plate | la tuile plate | Toitures | P3 | Petite tuile plane rectangulaire posée à recouvrement, comme une écaille.
+verriere | la verrière | Toitures | P2 | Toiture vitrée sur ossature métallique qui couvre une cour, un hall ou un passage.
+versant | le versant | Toitures | P2 | Chacune des surfaces planes inclinées qui forment un toit, aussi appelée pan.
+volige | la volige | Toitures | P3 | Planche mince clouée jointive sur les chevrons pour porter une couverture en ardoise ou en zinc.

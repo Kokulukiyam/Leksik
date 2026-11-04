@@ -28,3 +28,8 @@
 - Seconde recherche Commons (`--suite`, champ `requetes2`) faite seulement pour les termes abandonnés après la première ; six candidates de plus par terme, mêmes deux vérifications. La contre-vérification ne reçoit que les images pas encore jugées (lot `suite-1`).
 - Next : `turbopack.root` fixé au dossier du projet, pour qu'un `package-lock.json` d'un dossier parent ne soit pas pris pour la racine.
 - Lancement par double-clic : `Lancer Leksik.command` (macOS) lance `npm run dev` (installe d'abord si besoin), attend que le serveur réponde puis ouvre le navigateur ; si Leksik tourne déjà, il ouvre seulement le navigateur.
+- Version 2 : environ 1000 termes classés par priorité (1 = vu presque à chaque chantier à Dakar, 3 = rare), traités dans cet ordre ; 7 nouvelles catégories orientées chantier (gros œuvre, menuiserie, second œuvre, réseaux, escaliers, chantier, extérieurs) en plus des 6 premières.
+- Termes rédigés par des agents (`scripts/verif/consignes-termes.md`), relus par d'autres agents (`scripts/verif/consignes-relecture.md`) qui proposent leurs corrections dans un fichier ; `scripts/appliquer_relecture.py` les applique (pour éviter que plusieurs agents écrivent le même fichier).
+- Paires incompatibles déplacées du code vers les données (`incompatibles` sur chaque terme) ; aucune paire incompatible n'apparaît dans une même manche, mauvaises réponses comprises.
+- Page Paramètres (quatrième page, demandée après la spécification) : réglages gardés dans localStorage ; par défaut, parties de 10 images et 4 mots comme avant.
+- Gérer : recherche par terme et affichage par paquets de 60 cartes, pour rester fluide avec plus de 1000 images.

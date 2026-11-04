@@ -5,6 +5,9 @@ le terme et sa définition (sans la note de la première vérification).
   python3 scripts/verif/preparer_contre.py [termId ...]
       -> tmp/verif/contre-images/<termId>-<NN>.jpg
       -> tmp/verif/contre-lots/<categorie>.json
+  python3 scripts/verif/preparer_contre.py --lot=<nom> [termId ...]
+      -> un seul lot tmp/verif/contre-lots/<nom>.json, sans les images déjà contre-vérifiées
+         (résultat attendu dans tmp/verif/contre/<nom>.json)
 """
 import json
 import re
@@ -26,7 +29,15 @@ def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
 
 
-def main(filtre):
+def deja_jugees():
+    cles = set()
+    for f in (RACINE / "tmp" / "verif" / "contre").glob("*.json"):
+        cles |= {r["cle"] for r in json.loads(f.read_text())}
+    return cles
+
+
+def main(filtre, lot=None):
+    jugees = deja_jugees() if lot else set()
     IMG.mkdir(parents=True, exist_ok=True)
     LOTS.mkdir(parents=True, exist_ok=True)
     lots = {}
@@ -40,6 +51,8 @@ def main(filtre):
             if c["verdict"] != "validée":
                 continue
             nn = c["fichier"][:-4]
+            if f"{t['id']}/{nn}" in jugees:
+                continue
             img = reduire(ouvrir(t["id"], nn), 1280)
             r = c.get("rectangle")
             if r:
@@ -57,6 +70,12 @@ def main(filtre):
                     "autres_termes_de_la_categorie": voisins,
                 }
             )
+    if lot:
+        items = [x for cat in lots.values() for x in cat]
+        out = LOTS / f"{lot}.json"
+        out.write_text(json.dumps(items, ensure_ascii=False, indent=2))
+        print(out, len(items))
+        return
     for cat, items in lots.items():
         out = LOTS / f"{slug(cat)}.json"
         out.write_text(json.dumps(items, ensure_ascii=False, indent=2))
@@ -64,4 +83,5 @@ def main(filtre):
 
 
 if __name__ == "__main__":
-    main(set(sys.argv[1:]))
+    lot = next((a[6:] for a in sys.argv[1:] if a.startswith("--lot=")), None)
+    main({a for a in sys.argv[1:] if not a.startswith("--")}, lot)
