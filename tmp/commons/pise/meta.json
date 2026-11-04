@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "pise",
+    "terme": "le pisé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Mur en terre crue compactée par couches successives dans un coffrage.",
+    "requetes": [
+      "incategory:\"Rammed earth\"",
+      "pisé mur",
+      "rammed earth wall"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Libya 4432 Ghadames Luca Galuzzi 2007.jpg",
+      "description": "La vieille ville de Ghadamès, dans le désert libyen , est construite pour lutter contre les violentes variations du climat saharien. Les maisons sont construites en pisé, chaux, et troncs de palmiers, et sont reliées par des passages couverts pour se protéger de la chaleur de l'été.",
+      "categories": [
+        "Taken with Canon EOS 400D",
+        "Rammed earth",
+        "Ghadames",
+        "Men of Libya",
+        "Self-published work",
+        "Featured pictures of Libya",
+        "Architectural elements in Libya",
+        "Featured pictures on Wikipedia, Persian",
+        "Men facing right and looking right",
+        "White interiors of buildings",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures on Wikipedia, Arabic"
+      ],
+      "auteur": "Luca Galuzzi ( Lucag )",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg/1280px-Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1333
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Adobe wall, Umaria district, MP, India.jpg",
+      "description": "Mur en pisé, district d'Umaria, Madhya Pradesh, Inde.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-R1",
+        "Rammed earth",
+        "License migration redundant",
+        "Umaria district",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Photographs and images by Yann Forget",
+        "Adobe in India"
+      ],
+      "auteur": "Yann ( talk )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adobe_wall,_Umaria_district,_MP,_India.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Adobe_wall%2C_Umaria_district%2C_MP%2C_India.jpg/1280px-Adobe_wall%2C_Umaria_district%2C_MP%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2428,
+      "hauteur": 3770
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Adobe wall, Umaria district, Madhya Pradesh, India.jpg",
+      "description": "Mur en pisé, village Gond, district d'Umaria, Madhya Pradesh, Inde.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-R1",
+        "Rammed earth",
+        "License migration redundant",
+        "Umaria district",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Photographs and images by Yann Forget",
+        "Adobe in India"
+      ],
+      "auteur": "Yann ( talk )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adobe_wall,_Umaria_district,_Madhya_Pradesh,_India.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Adobe_wall%2C_Umaria_district%2C_Madhya_Pradesh%2C_India.jpg/1280px-Adobe_wall%2C_Umaria_district%2C_Madhya_Pradesh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Pisé Chassignieu abc1.jpg",
+      "description": "Maison en pisé à Chassignieu, Isère, AuRA, France.",
+      "categories": [
+        "Rammed earth",
+        "Mud buildings in Rhône-Alpes",
+        "Self-published work",
+        "Images from Été des Régions 2016",
+        "Uploaded via Campaign:Été des régions 2016",
+        "Mud buildings in France",
+        "Buildings in Chassignieu"
+      ],
+      "auteur": "Patafisik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pis%C3%A9_Chassignieu_abc1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pis%C3%A9_Chassignieu_abc1.jpg/1280px-Pis%C3%A9_Chassignieu_abc1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Wall Finish.jpg",
+      "description": "Rammed Earth wall surface straight after removal formwork",
+      "categories": [
+        "Walls in India",
+        "Rammed earth",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Rammed earth buildings in India",
+        "Culture of Dindigul district"
+      ],
+      "auteur": "Nomidtr",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wall_Finish.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Wall_Finish.jpg/1280px-Wall_Finish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Castillo de Xivert Muro de Alafia.JPG",
+      "description": "Castillo de Xivert. A la izquierda aparece en muro de Levante, junto a él el muro de Alafía que cierra por el sudeste la muralla del albacar. Se aprecian en este tramo de muralla al menos tres momentos constructivos diferentes. En la zona inferior se encuentra el basamento de mampostería con mortero, de escasa altura y sobre geológico que no se aprecia en la imagen. La zona media de la muralla está realizada mediante mampuestos encajonados. La zona superior está realizada con tapial calicostrado y presenta decoración simulando sillería. Aparece en el muro una inscripción en árabe realizada en ",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Rammed earth",
+        "Castell de Xivert",
+        "Self-published work"
+      ],
+      "auteur": "Falconaumanni",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castillo_de_Xivert_Muro_de_Alafia.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Castillo_de_Xivert_Muro_de_Alafia.JPG/1280px-Castillo_de_Xivert_Muro_de_Alafia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    }
+  ]
+}
