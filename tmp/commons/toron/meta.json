@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "toron",
+    "terme": "le toron",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Pièce de bois fichée dans les murs des mosquées soudano-sahéliennes, servant d'appui lors du recrépissage.",
+    "requetes": [
+      "Great Mosque of Djenné",
+      "toron mosque Mali",
+      "Djinguereber mosque"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:MaliDjennéMosquée.JPG",
+      "description": "La Grande mosquée de Djenné — à Djenné au Mali .",
+      "categories": [
+        "Great Mosque of Djenné",
+        "Self-published work",
+        "Sufism in Mali",
+        "Files with coordinates missing SDC location of creation",
+        "Pages with local camera coordinates and mismatching SDC coordinates"
+      ],
+      "auteur": "BluesyPete",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MaliDjenn%C3%A9Mosqu%C3%A9e.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/MaliDjenn%C3%A9Mosqu%C3%A9e.JPG/1280px-MaliDjenn%C3%A9Mosqu%C3%A9e.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4521,
+      "hauteur": 2094
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Great Mosque of Djenné 1.jpg",
+      "description": "w:Great Mosque of Djenné",
+      "categories": [
+        "GFDL",
+        "Great Mosque of Djenné",
+        "License migration completed",
+        "Photographs taken on 2003-09-11",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Andy Gilham",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Djenn%C3%A9_1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Great_Mosque_of_Djenn%C3%A9_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Djenne great mud mosque.jpg",
+      "description": "Djenné (Mali). La Grande Mosquée, construite en pisé.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D70s",
+        "FAL",
+        "Great Mosque of Djenné",
+        "License migration redundant",
+        "Self-published work",
+        "Rammed earth buildings",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ruud Zwart",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Djenne_great_mud_mosque.jpg/1280px-Djenne_great_mud_mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1362
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Djenné Moschee(Dach)1990.jpg",
+      "description": "On the roof of the Great Mosque of Djenné",
+      "categories": [
+        "Great Mosque of Djenné",
+        "Self-published work",
+        "Mud buildings in Mali",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Albert Backer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_Moschee(Dach)1990.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Djenn%C3%A9_Moschee%28Dach%291990.jpg/1280px-Djenn%C3%A9_Moschee%28Dach%291990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 2131
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:The Great Clay Mosque in Djenne, Mali.jpg",
+      "description": "The Great Clay Mosque in Djenne, Mali",
+      "categories": [
+        "Great Mosque of Djenné",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Markets in Djenné",
+        "Czech Wiki Photo 2022:Vyřazené fotografie",
+        "Uploaded via Campaign:wmcz-cwp2022",
+        "Foreground figures"
+      ],
+      "auteur": "Dr. Ondřej Havelka (cestovatel)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Great_Clay_Mosque_in_Djenne,_Mali.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/The_Great_Clay_Mosque_in_Djenne%2C_Mali.jpg/1280px-The_Great_Clay_Mosque_in_Djenne%2C_Mali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2106
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:The Great Mosque of Djenné in Mali is the largest mud brick building in the world. (32931594225).jpg",
+      "description": "This building, completed in 1907, is the third construction of the Great Mosque of Djenné. The first version is said to go back to the 13th century. The facade of the Great Mosque needs repairing every year. Mud bricks seem not to be the most long-lasting building material. The whole city of Djenné is built of mud bricks, as you can see in the foreground.",
+      "categories": [
+        "Great Mosque of Djenné",
+        "Sufism in Mali",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Ralf Steinberger Flickr stream"
+      ],
+      "auteur": "Ralf Steinberger from Northern Italy and Berlin",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Great_Mosque_of_Djenn%C3%A9_in_Mali_is_the_largest_mud_brick_building_in_the_world._(32931594225).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Great_Mosque_of_Djenn%C3%A9_in_Mali_is_the_largest_mud_brick_building_in_the_world._%2832931594225%29.jpg/1280px-The_Great_Mosque_of_Djenn%C3%A9_in_Mali_is_the_largest_mud_brick_building_in_the_world._%2832931594225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    }
+  ]
+}
