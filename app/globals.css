@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background: #0b0b0c;
+  color: #ececec;
+}
+
+/* Rectangle de mise en évidence : jaune vif entouré de noir, lisible sur photo claire comme sombre. */
+.cadre {
+  position: absolute;
+  pointer-events: none;
+  border: 3px solid #ffd60a;
+  border-radius: 2px;
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.85), inset 0 0 0 2px rgba(0, 0, 0, 0.85);
+}
