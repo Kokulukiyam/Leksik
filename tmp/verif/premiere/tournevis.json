@@ -1,0 +1,53 @@
+{
+  "termId": "tournevis",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Perceuse-visseuse sans fil Mac Allister avec embout.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil électroportatif (visseuse), pas un tournevis à manche."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Même perceuse-visseuse sans fil Mac Allister.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Visseuse électrique, pas un tournevis."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mini tournevis électrique Xiaomi avec coffret d'embouts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tournevis électrique de précision avec jeu d'embouts, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Verre de cocktail avec paille sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Coffret orange avec tournevis à cliquet, embouts et douilles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Jeu d'embouts/douilles ; l'image pourrait illustrer coffret ou clé à cliquet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tournevis à manche rose et tige métallique posé sur un tapis, vu en entier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tournevis classique à manche, entièrement visible. Pointe petite et photo modeste mais sans doute possible."
+    }
+  ]
+}

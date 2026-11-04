@@ -1,0 +1,53 @@
+{
+  "termId": "betonniere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une centrale à béton en chantier de tunnel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, légende visible, aucune bétonnière identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Camion toupie Mercedes blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-toupie, terme voisin : pas une bétonnière de chantier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Barrage ancien teinté sépia.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Camion toupie rouge à Kaohsiung.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-toupie, terme voisin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Centrale à béton vue de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Installation industrielle, pas une bétonnière."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Camion malaxeur sur chantier avec benne à béton et pelle à l'arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-toupie encombré d'engins voisins, ambiguïté."
+    }
+  ]
+}

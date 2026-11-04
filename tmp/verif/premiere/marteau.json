@@ -1,0 +1,53 @@
+{
+  "termId": "marteau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Marteau de charpentier à panne fendue, manche tubulaire noir, posé sur une dalle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Correct mais moins net que les meilleures ; image étroite."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Marteau à panne fendue, manche métal et gaine grise, sur fond clair.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marteau à tête métallique sur manche, net et isolé."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Homme arrachant un clou d'une palette avec un marteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marteau petit, mains et palette dominent."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Marteau à panne fendue à manche orange sur fond blanc (détouré).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image détourée type catalogue, retouchée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Marteau à panne fendue, manche noir et acier, posé sur une surface blanche.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil net et dominant, aucune confusion avec la masse (petite tête, panne fendue)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Marteau Stanley à manche graphite posé sur du béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marque et texte très visibles ; doublon des autres."
+    }
+  ]
+}

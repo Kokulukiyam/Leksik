@@ -1,0 +1,58 @@
+{
+  "termId": "coffrage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Voûte de station de métro en béton avec coffrage et armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage métallique/de voûte : confusion possible avec coffrage métallique et armatures ; trop complexe."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Longue paroi de coffrage métallique rouge et caisson noir sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Afrique",
+      "note": "Banche/coffrage métallique, ambigu et petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Coffrage en planches autour d'une marche en béton devant une porte.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.34,
+        "largeur": 0.72,
+        "hauteur": 0.28
+      },
+      "lieu": "Munich, Allemagne",
+      "note": "Moule de béton clair et lisible ; coffrage bois incompatible donc acceptable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coffrages métalliques bleus mobiles sur étaiement dans une tranchée de métro.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Coffrage métallique/tour d'étaiement : ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Intérieur de tunnel avec coffrage mobile bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Coffrage métallique mobile, trop complexe."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Coffrage métallique cintré de voûte posé dans une tranchée de métro, ouvrier au fond.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Moule de voûte béton clair ; coffrage métallique incompatible donc acceptable."
+    }
+  ]
+}

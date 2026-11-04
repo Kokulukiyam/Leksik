@@ -1,0 +1,53 @@
+{
+  "termId": "truelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Daguerréotype d'un homme dans un écrin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portrait ancien, truelle à peine visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tintype d'un maçon tenant une truelle et un marteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image ancienne, objet trop petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Couvercle d'un écrin de daguerréotype.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Couvercle d'un écrin de daguerréotype.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Verso d'un tintype étiqueté Stone Mason.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport, texte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Truelle de maçon triangulaire à manche en bois sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lame d'acier triangulaire, objet entier et net ; fond détouré mais photo réelle."
+    }
+  ]
+}

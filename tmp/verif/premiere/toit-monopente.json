@@ -1,0 +1,53 @@
+{
+  "termId": "toit-monopente",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maison en brique avec pignon aigu et haute lucarne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de toit monopente."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maison basse à toit en tôle à quatre versants et véranda.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit à croupes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maison de brique à toit à versants, vue de côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Versant ambigu, hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison blanche en bois avec appentis sur la galerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petit appentis, pas un toit monopente."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison blanche avec galerie à auvent, partiellement cachée par des arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison en brique jaune à toit en pavillon complexe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit à plusieurs versants."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "etai-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bâtiment en brique de gare avec échelles obliques derrière une clôture, passante au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Armadale, Australie",
+      "note": "Étais Acrow non identifiables (petits, confondus avec des échelles)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux hommes dans un studio de radio.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Graphique technique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche de photographies de rames de métro.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Homme manipulant un disque vinyle en studio.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Page de journal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

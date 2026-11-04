@@ -1,0 +1,53 @@
+{
+  "termId": "etai",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Manuscrit (lettre).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Colonnes antiques à Pompéi maintenues par des tubes d'acier inclinés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pompéi, Italie",
+      "note": "Étaiement oblique de colonnes ancien site : ambigu avec étai métallique et échafaudage, pas une pièce verticale."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Manuscrit (lettre).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bâtiment en construction avec perches de bois inclinées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pune, Inde",
+      "note": "Éléments petits et peu lisibles, ambigu avec étai en bois."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Manuscrit (lettre).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Barrière en béton et tiges métalliques posées au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Caroline du Nord, États-Unis",
+      "note": "Pas un étai."
+    }
+  ]
+}

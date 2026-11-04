@@ -1,0 +1,58 @@
+{
+  "termId": "coffrage-de-dalle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne noir et blanc d'une maison forestière en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Julien-de-Maurienne, France",
+      "note": "Ancienne, élément illisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dalle funéraire en ardoise gravée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Angers, France",
+      "note": "Hors sujet (dalle funéraire)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Dalle funéraire en ardoise gravée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Angers, France",
+      "note": "Hors sujet (dalle funéraire)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grues posant de grands panneaux de coffrage de dalle sur étais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Genève, Suisse",
+      "note": "Table coffrante (voisin) : ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panneau de coffrage de dalle en contreplaqué posé sur ses étais par des ouvriers avec un chariot Doka.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.12,
+        "largeur": 0.47,
+        "hauteur": 0.4
+      },
+      "lieu": "Genève, Suisse",
+      "note": "Plateau horizontal porté par des étais, net ; table coffrante et étais incompatibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vaste chantier de fouille avec coffrages et étais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Genève, Suisse",
+      "note": "Trop large et confus."
+    }
+  ]
+}

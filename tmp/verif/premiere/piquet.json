@@ -1,0 +1,53 @@
+{
+  "termId": "piquet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bulldozer travaillant sur une plage lors d'un rechargement de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun piquet visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bulldozer travaillant sur une plage lors d'un rechargement de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun piquet visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bulldozer travaillant sur une plage lors d'un rechargement de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun piquet visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bulldozer travaillant sur une plage lors d'un rechargement de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun piquet visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bulldozer travaillant sur une plage lors d'un rechargement de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun piquet visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bulldozer travaillant sur une plage lors d'un rechargement de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun piquet visible."
+    }
+  ]
+}

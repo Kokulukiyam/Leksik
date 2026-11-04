@@ -1,0 +1,58 @@
+{
+  "termId": "pelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pelle à lame métallique et manche en bois posée sur un tas de sable.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.52,
+        "largeur": 0.72,
+        "hauteur": 0.3
+      },
+      "lieu": "",
+      "note": "Pelle manuelle de maçon dans le sable, nette malgré fond flou."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chimpanzé dans un arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pelle de cérémonie exposée en vitrine avec manche en bois et panneau explicatif.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau lisible dans l'image, vitrine, pelle de cérémonie."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Jouet de plage rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Jouet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ancien outil en bois dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, panneaux."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Objet fixé à un arbre dans la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

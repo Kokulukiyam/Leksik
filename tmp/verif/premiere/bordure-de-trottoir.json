@@ -1,0 +1,58 @@
+{
+  "termId": "bordure-de-trottoir",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan en diagonale d'une bordure en béton entre un pavage rouge et le caniveau jonché de feuilles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bordure en béton dominante et nette ; chaussée au pied."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bordure en granit abaissée en bateau pour fauteuil roulant, avec une grille d'avaloir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évoque le bateau de trottoir et l'avaloir."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bordure abaissée d'un passage pour fauteuil roulant, trottoir dallé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.49,
+        "largeur": 1.0,
+        "hauteur": 0.19
+      },
+      "lieu": "",
+      "note": "Bordure en granit au bord du trottoir, encadrée ; le bateau de trottoir et le trottoir sont incompatibles, donc acceptable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Paillis au premier plan, route au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bordure à peine visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chaise en bois posée sur un trottoir de béton bordé de chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La chaise détourne l'attention."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bord de massif fleuri couvert de mousse sur un pavage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt bordurette de massif."
+    }
+  ]
+}

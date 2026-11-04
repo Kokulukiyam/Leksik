@@ -1,0 +1,53 @@
+{
+  "termId": "toiture",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Barque posée sur une terrasse blanche à Santorin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit plat, sujet = barque."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maquette en bronze d'une maison sur un socle, 'Slate Roof House'.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maquette, texte visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Coques en céramique de l'Opéra de Sydney vues d'en dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Forme de coque ; terme non univoque."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur de la verrière de la Palm House à Kew.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Verrière, pas une toiture typique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison en brique et colombage sous un toit de chaume, vu de côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit en partie hors cadre, illustre plutôt le chaume."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vue aérienne du toit-terrasse d'une tour avec équipements et échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image confuse, équipements techniques dominants."
+    }
+  ]
+}

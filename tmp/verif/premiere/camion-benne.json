@@ -1,0 +1,53 @@
+{
+  "termId": "camion-benne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Camion Mercedes Arocs orange à quatre essieux, caisse basculante relevée.",
+      "verdict": "validée",
+      "rectangle": "",
+      "lieu": "",
+      "note": "Camion routier à benne basculante, bien lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Énorme tombereau de mine Logan Lake à très gros pneus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tombereau, terme voisin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Énorme tombereau de mine avec voiture à côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tombereau, terme voisin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tombereau rigide jaune de chantier minier lors d'un salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tombereau, terme voisin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux bennes en convoi sur route de campagne, petites.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit, convoi de remorques."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tombereau jaune Lovol lors d'un salon.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion rigide à benne basculante, de face, net ; le tombereau est incompatible avec le terme, donc acceptable."
+    }
+  ]
+}

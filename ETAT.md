@@ -40,8 +40,10 @@ chances de croiser sur un chantier (génériques et précis) ; parties toujours 
 
 ## Journal des lots
 
-Première vérification (agents Sonnet, 10 termes par lot) : p-001 à p-004 lancés (40 termes de priorité 1, chantier).
-Contre-vérification (modèle principal) : lots `v2-NNN`, aucun encore.
+Première vérification (agents Sonnet, 10 termes par lot) : p-001 à p-008 faits, p-009 à p-012 lancés.
+Contre-vérification (modèle principal) : v2-001 fait (27/29), v2-002 lancé (48 images).
+Pour savoir quoi faire : `python3 scripts/avancement.py` ; un terme « à vérifier (1re) » qui n'est dans aucun lot
+lancé est à reprendre (un agent interrompu laisse un JSON incomplet : il est compté « à vérifier »).
 Termes sans aucune candidate Commons (à retenter avec d'autres requêtes à la fin) : voir `python3 scripts/avancement.py`.
 
 ## Rappels

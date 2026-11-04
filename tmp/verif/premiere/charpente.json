@@ -1,0 +1,53 @@
+{
+  "termId": "charpente",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros bois entrecroisés dans un comble, avec échelle et tube bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enchevêtrement peu lisible, charpente pas évidente."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Charpente en bois d'une grange vue de l'intérieur : entrait, poinçon, chevrons et lattis sous la couverture.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Warwickshire, Royaume-Uni",
+      "note": "Ossature de toit en bois lisible et dominante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Villas sur pilotis aux Maldives sous toits de chaume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Extérieur, charpente non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche gravée de fermes de charpente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Forêt de bambous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chaumière dans les dunes au Danemark.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaume, charpente non visible."
+    }
+  ]
+}

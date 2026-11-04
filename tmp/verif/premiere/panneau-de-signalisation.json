@@ -1,0 +1,53 @@
+{
+  "termId": "panneau-de-signalisation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panneau rond d'interdiction fixé sur un portail blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fixé sur un portail, pas sur un poteau de voirie."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau rond rouge d'interdiction de tourner à gauche, au bout d'un poteau, fond de feuillage.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Kota Kinabalu, Malaisie",
+      "note": "Panneau à symbole, net et dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Panneau jaune en losange (passage à niveau) sur poteau, au bord d'une route.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Petagas, Sabah, Malaisie",
+      "note": "Plaque à symbole sur poteau, typique et net."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rue commerçante de nuit avec enseignes néon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enseignes commerciales, pas des panneaux de signalisation."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grand panneau vert de direction avec numéros de routes et mots NORTH/SOUTH.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau de direction à texte, plutôt panneau directionnel ; texte visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneau orange en losange (chaussée glissante) sur poteau au bord d'une route de montagne.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Lewis Pass, Nouvelle-Zélande",
+      "note": "Plaque à symbole sur poteau, claire."
+    }
+  ]
+}

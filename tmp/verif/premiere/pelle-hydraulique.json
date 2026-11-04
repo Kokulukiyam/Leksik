@@ -1,0 +1,53 @@
+{
+  "termId": "pelle-hydraulique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pelle hydraulique CAT 330 sur chenilles, godet dans un tas de terre, ciel bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pelle sur chenilles à bras articulé, dominante et nette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mini-pelle CAT avec lame à l'avant dans une rue en travaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mini-pelle, terme voisin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pelle sur chenilles Doosan orange de taille moyenne sur herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gabarit midi proche de la mini-pelle, moins sûr."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pelle JCB sur chenilles creusant un terrain, logo Soconur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Correcte mais cabine partiellement cachée et nom d'entreprise ; moins bonne que 01 et 05."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pelle hydraulique New Holland jaune sur chenilles, bras et godet bien visibles, au bord de l'eau.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grande pelle sur chenilles, vue de profil claire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Foreuse sur chenilles avec mât, pelle orange à l'arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Foreuse, pas une pelle."
+    }
+  ]
+}

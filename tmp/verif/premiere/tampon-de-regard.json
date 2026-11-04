@@ -1,0 +1,53 @@
+{
+  "termId": "tampon-de-regard",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tampon rond en fonte ajouré, croix centrale et inscription cyrillique « Drainage ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible donnant la réponse, tampon de drainage ajouré (proche d'une grille)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tampon rond en fonte à quadrillage, serti dans un pavage de petits pavés, Berlin.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Berlin, Allemagne",
+      "note": "Tampon de regard net, plein cadre, cerclé d'un pavage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tampon rond en fonte à cadre, rempli de béton, entouré d'herbe et de gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Correct mais moins net que d'autres (cadre rempli de béton)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tampon rond en fonte rouillée à motifs d'octogones, posé dans un pavage autobloquant.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Mauthausen, Autriche",
+      "note": "Tampon rond clair, dominant, sans élément concurrent."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tampon rond en fonte avec armoiries et le mot VIBORG.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, tampon décoratif."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tampon carré en béton ou fonte gris avec mégots autour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moins typique, texte « IBB », sale."
+    }
+  ]
+}

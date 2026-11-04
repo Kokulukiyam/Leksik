@@ -1,0 +1,53 @@
+{
+  "termId": "auvent",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade d'église ou de maison sans auvent net.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'auvent clairement visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade d'église ou de maison sans auvent net.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'auvent clairement visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment thaï avec escalier et avancée de toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Avancée de toit ambiguë (porche), doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade d'église ou de maison sans auvent net.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'auvent clairement visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade d'église ou de maison sans auvent net.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'auvent clairement visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade d'église ou de maison sans auvent net.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'auvent clairement visible."
+    }
+  ]
+}

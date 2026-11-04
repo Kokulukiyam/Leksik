@@ -577,5 +577,157 @@
     "incompatibles": [
       "case"
     ]
+  },
+  {
+    "id": "pelle-hydraulique",
+    "terme": "la pelle hydraulique",
+    "definition": "Engin de terrassement sur chenilles ou pneus, à tourelle pivotante et bras articulé terminé par un godet.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1,
+    "incompatibles": [
+      "mini-pelle"
+    ]
+  },
+  {
+    "id": "tractopelle",
+    "terme": "la tractopelle",
+    "definition": "Engin sur pneus portant un godet de chargement à l'avant et un bras de pelle à l'arrière.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "camion-benne",
+    "terme": "le camion-benne",
+    "definition": "Camion dont la caisse basculante déverse sable, gravier ou déblais.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1,
+    "incompatibles": [
+      "tombereau"
+    ]
+  },
+  {
+    "id": "camion-toupie",
+    "terme": "le camion-toupie",
+    "definition": "Camion portant une grande cuve rotative inclinée qui livre le béton prêt à l'emploi en le malaxant.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1,
+    "incompatibles": [
+      "pompe-a-beton"
+    ]
+  },
+  {
+    "id": "truelle",
+    "terme": "la truelle",
+    "definition": "Outil à lame d'acier plate, triangulaire ou arrondie, et à manche coudé, pour prendre, étaler et lisser le mortier.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "brouette",
+    "terme": "la brouette",
+    "definition": "Caisse à une roue et deux bras qu'on pousse pour transporter matériaux et gravats.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "pelle",
+    "terme": "la pelle",
+    "definition": "Outil formé d'une plaque métallique un peu creuse au bout d'un long manche, pour remuer sable, gravier et mortier.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "pioche",
+    "terme": "la pioche",
+    "definition": "Outil à fer pointu ou aplati monté perpendiculairement sur un manche, pour creuser un sol dur.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "marteau",
+    "terme": "le marteau",
+    "definition": "Outil formé d'une tête métallique fixée au bout d'un manche, pour frapper et enfoncer des clous.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "niveau-a-bulle",
+    "terme": "le niveau à bulle",
+    "definition": "Barre droite munie de fioles où une bulle d'air indique si une surface est horizontale ou verticale.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "fil-a-plomb",
+    "terme": "le fil à plomb",
+    "definition": "Poids métallique suspendu au bout d'une ficelle, qui donne la verticale pour monter un mur droit.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "fil-a-ligaturer",
+    "terme": "le fil à ligaturer",
+    "definition": "Fil de fer recuit, souple, en bobine ou en tronçons, qu'on torsade pour attacher les barres d'armature entre elles.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "disqueuse",
+    "terme": "la disqueuse",
+    "definition": "Meuleuse électrique à main dont le disque rotatif coupe métal, carrelage ou maçonnerie.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "perceuse",
+    "terme": "la perceuse",
+    "definition": "Outil électrique à main qui fait tourner un foret pour percer des trous.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "metre-ruban",
+    "terme": "le mètre ruban",
+    "definition": "Ruban métallique gradué enroulé dans un boîtier, qui se déroule pour mesurer.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "tournevis",
+    "terme": "le tournevis",
+    "definition": "Outil à manche et tige métallique dont le bout plat ou cruciforme serre les vis.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "gilet-haute-visibilite",
+    "terme": "le gilet haute visibilité",
+    "definition": "Gilet jaune ou orange fluo à bandes réfléchissantes, qui rend le travailleur visible.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "chaussures-de-securite",
+    "terme": "les chaussures de sécurité",
+    "definition": "Chaussures montantes à coque de protection et semelle anti-perforation.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "gants-de-travail",
+    "terme": "les gants de travail",
+    "definition": "Gants en cuir, en tissu enduit ou en caoutchouc, qui protègent les mains des coupures, du ciment et des frottements.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
+    "id": "bordure-de-trottoir",
+    "terme": "la bordure de trottoir",
+    "definition": "Bloc allongé en béton ou en pierre qui borde le trottoir et marque sa différence de hauteur avec la chaussée.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "caniveau"
+    ]
   }
 ]

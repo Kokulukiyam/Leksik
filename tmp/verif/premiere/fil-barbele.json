@@ -1,0 +1,53 @@
+{
+  "termId": "fil-barbele",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Criquet pris sur un fil barbelé rouillé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Insecte dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fil barbelé givré avec un nœud à pointes, soleil flou derrière.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Dülmen, Allemagne",
+      "note": "Fil à pointes net malgré le givre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fil barbelé givré à contre-jour, pointes noyées dans les cristaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pointes peu lisibles, givre dominant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan d'un fil barbelé couvert de givre, torsade et deux pointes visibles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Dülmen, Allemagne",
+      "note": "Torsade et pointes bien visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poteau en bois et clôture givrée dans la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fil à peine visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Piquets en bois tordus et fils tendus dans un pré brumeux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fils trop fins pour distinguer des pointes."
+    }
+  ]
+}

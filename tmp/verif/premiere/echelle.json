@@ -1,0 +1,58 @@
+{
+  "termId": "echelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalier de rue à Hong Kong avec passants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Escalier, pas une échelle."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier de rue à Hong Kong.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Escalier, pas une échelle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chantier de passe à poissons au bord d'une rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Worcester, Royaume-Uni",
+      "note": "Échelle minuscule, lecture impossible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Terrain de chantier au bord d'une rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Worcester, Royaume-Uni",
+      "note": "Aucune échelle visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Intérieur de chantier avec échelle orange au premier plan devant des cadres d'échafaudage bleus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échelle partielle, mêlée à l'échafaudage voisin ; trop ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Échelle double orange dressée au centre d'une pièce, entre des cadres d'échafaudage bleus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.22,
+        "largeur": 0.17,
+        "hauteur": 0.56
+      },
+      "lieu": "",
+      "note": "Échelle claire, rectangle nécessaire à cause des cadres d'échafaudage autour ; échelle double plutôt qu'appuyée, mais lisible."
+    }
+  ]
+}

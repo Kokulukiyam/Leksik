@@ -1,0 +1,53 @@
+{
+  "termId": "facade",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade sombre à panneaux avec petites fenêtres reflétant des couleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail partiel, façade pas lisible dans son ensemble."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Devanture de banque Art nouveau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Devanture de rez-de-chaussée, texte visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bandes horizontales blanches arrondies d'un immeuble de bureaux, cadrage serré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail dominé par les nez de dalle."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade de grand immeuble d'habitation à bandes et fenêtres répétées, plein cadre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "São Paulo, Brésil",
+      "note": "Façade vue dans son ensemble, lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bandes blanches arrondies avec escalier extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de nez de dalle."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble en brique à angle, grande façade avec fenêtres, arbre et lampadaire devant.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Toulouse, France",
+      "note": "Façade d'ensemble claire malgré l'arbre."
+    }
+  ]
+}

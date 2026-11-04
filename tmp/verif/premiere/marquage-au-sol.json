@@ -1,0 +1,53 @@
+{
+  "termId": "marquage-au-sol",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Route déserte avec ligne centrale jaune et deux écussons « Route 66 » peints en blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Amboy, Californie, États-Unis",
+      "note": "Marquage au sol clair (ligne axiale, rive et signes peints), plein cadre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rue de Vichy avec marquage effacé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marquage effacé, peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Immeuble de bureaux moderne au crépuscule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Voie verte avec pictogrammes peints « 20 », « Partageons l'espace ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, piste cyclable proche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvriers appliquant de nouveaux marquages sur un carrefour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier chargée, marquage petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rue de Vichy avec Zone 30, pictogramme vélo, chevrons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Piste cyclable dominante, scène chargée."
+    }
+  ]
+}

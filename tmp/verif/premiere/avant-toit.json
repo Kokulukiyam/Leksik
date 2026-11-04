@@ -1,0 +1,53 @@
+{
+  "termId": "avant-toit",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façades à pignons à gradins de Münster, de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Avant-toits non visibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pignon d'un sanctuaire japonais rouge à toit débordant, sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, confusion avec pignon et rives."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Boutique d'angle avec petit toit en appentis au-dessus de la devanture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre un appentis plutôt qu'un avant-toit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison à colombage de Cochem avec pignon couvert d'ardoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Avant-toit non dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Auberge Black Horse Inn à toit débordant au-dessus de l'entrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enseigne dominante, avant-toit peu net."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cabane en rondins à toit de gazon dont le toit déborde.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit végétalisé, confusion possible."
+    }
+  ]
+}

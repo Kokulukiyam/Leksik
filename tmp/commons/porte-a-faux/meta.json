@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "porte-a-faux",
+    "terme": "le porte-à-faux",
+    "categorie": "Structure",
+    "definition": "Partie d'ouvrage qui dépasse de ses appuis et n'est soutenue que d'un côté.",
+    "priorite": 1,
+    "requetes": [
+      "cantilever building",
+      "porte-à-faux",
+      "cantilevered slab"
+    ],
+    "incompatibles": [
+      "encorbellement"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Kreta (GR), Chania, Tsouderon, Gebäude -- 2023 -- 8535.jpg",
+      "description": "Building in Tsouderon Street, Chania , Crete , Greece",
+      "categories": [
+        "Photographs by Dietmar Rabich/Quality images of Greece",
+        "Three-point perspective",
+        "Buildings in Chania",
+        "ISO speed rating 100",
+        "Photographs with aspect ratio of 5:4",
+        "Cantilever plates",
+        "Self-published work",
+        "Exposure time 1/30 sec",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Photographs by Dietmar Rabich/Greece",
+        "Information field template with formatting",
+        "Photographs by Dietmar Rabich/Quality images of buildings",
+        "Corbels in Greece",
+        "Greece photographs taken on 2023-09-05",
+        "Objects with inscriptions in Modern Greek (1453-) needing translation",
+        "Lens focal length 38 mm",
+        "Buildings in Greece photographed in 2023",
+        "Images by XRay (flat list)",
+        "Uploaded with LrMediaWiki",
+        "F-number f/11",
+        "Photographs by Dietmar Rabich/Medium exposure",
+        "2023 in Chania",
+        "Photographs by Dietmar Rabich/Architectural photography",
+        "Photographs by Dietmar Rabich/Year/2023",
+        "Perspective views of buildings",
+        "Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kreta_(GR),_Chania,_Tsouderon,_Geb%C3%A4ude_--_2023_--_8535.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kreta_%28GR%29%2C_Chania%2C_Tsouderon%2C_Geb%C3%A4ude_--_2023_--_8535.jpg/1280px-Kreta_%28GR%29%2C_Chania%2C_Tsouderon%2C_Geb%C3%A4ude_--_2023_--_8535.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5600,
+      "hauteur": 4480
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Building cantilever New York.JPG",
+      "description": "A building is cantilevered over two other buildings in en:New York City 's en:Upper East Side .",
+      "categories": [
+        "Taken with Nikon D5100",
+        "Upper East Side",
+        "2nd Avenue (Manhattan)",
+        "Buildings in Manhattan, New York City",
+        "Taken with AF-S DX Nikkor 18-55mm f/3.5-5.6G VR",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Glass buildings in New York City",
+        "Buildings with cantilever elements"
+      ],
+      "auteur": "B137",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_cantilever_New_York.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Building_cantilever_New_York.JPG/1280px-Building_cantilever_New_York.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 4928
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cantilever of gallery space.jpg",
+      "description": "Shows the structural column holding up the gallery space inside the building.",
+      "categories": [
+        "Cantilever building elements",
+        "Self-published work"
+      ],
+      "auteur": "SoccerArchitecture",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cantilever_of_gallery_space.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cantilever_of_gallery_space.jpg/1280px-Cantilever_of_gallery_space.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6936,
+      "hauteur": 9248
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2560x1920 Building in Parque do Ibirapuera.jpg",
+      "description": "building in the Parque do Ibirapuera in Sao Paulo, Brazil",
+      "categories": [
+        "Taken with BenQ C530",
+        "Auditório Ibirapuera",
+        "Cantilever building elements",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "everythere",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:2560x1920_Building_in_Parque_do_Ibirapuera.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/2560x1920_Building_in_Parque_do_Ibirapuera.jpg/1280px-2560x1920_Building_in_Parque_do_Ibirapuera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Empire Outlets SI td (2022-06-19) 020.jpg",
+      "description": "Looking from street level (Level 3) at the front of the Empire Outlets shopping mall, at Richmond Terrace and Wall Street in St. George, Staten Island. The mall is part of the attempted redevelopment and rezoning of St. George into a Long Island City-eque downtown area, along with the New York Wheel and Lighhouse Point projects, all of which have gone... not as intended . Note the upper floor of this building cantilevers over the sidewalk.",
+      "categories": [
+        "Taken with Sony DSC-RX100 III",
+        "Empire Outlets",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "2022 Staten Island photographs by Tdorante10",
+        "2022 in St. George, Staten Island",
+        "June 2022 in Staten Island, New York City",
+        "Buildings with cantilever elements",
+        "Photographs by Tdorante10 taken on 2022-06-19",
+        "Shopping malls in the United States photographed in 2022"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Empire_Outlets_SI_td_(2022-06-19)_020.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Empire_Outlets_SI_td_%282022-06-19%29_020.jpg/1280px-Empire_Outlets_SI_td_%282022-06-19%29_020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cantilever sign B&B Bij de Friesche Poort in Bourtange.jpg",
+      "description": "Cantilever sign B&B Bij de Friesche Poort in Bourtange, Province Groningen, The Netherlands.",
+      "categories": [
+        "Self-published work",
+        "Cantilever signs in the Netherlands",
+        "Netherlands photographs taken on 2023-05-26",
+        "2023 in Bourtange",
+        "Buildings in Bourtange"
+      ],
+      "auteur": "JoachimKohler-HB",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cantilever_sign_B%26B_Bij_de_Friesche_Poort_in_Bourtange.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cantilever_sign_B%26B_Bij_de_Friesche_Poort_in_Bourtange.jpg/1280px-Cantilever_sign_B%26B_Bij_de_Friesche_Poort_in_Bourtange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4500,
+      "hauteur": 3375
+    }
+  ]
+}

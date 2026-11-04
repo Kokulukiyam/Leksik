@@ -1,0 +1,53 @@
+{
+  "termId": "enrobe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mémorial de Tchang Kaï-chek à Taipei.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan sur une couche de gravillons noirs enrobés de bitume, en bordure d'un sol clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aspect de gravier noir meuble ; pourrait passer pour du gravier, pas assez lisible comme enrobé fini."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Finisseur Tarmac sur un chantier, sol gris avec lignes blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine dominante, revêtement peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Seau fumant de bitume chaud sur une dalle claire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre du bitume, pas un enrobé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue aérienne du Globen à Stockholm.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Seau de bitume chaud sur un chariot, sur une chaussée en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre du bitume, pas un enrobé."
+    }
+  ]
+}

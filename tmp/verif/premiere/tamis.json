@@ -1,0 +1,53 @@
+{
+  "termId": "tamis",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Surface verte unie, probablement une couverture de livre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun tamis."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Barque de pêche sur l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Disque de grillage fin circulaire, filtre vu de dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Filtre, pas un tamis de chantier."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plan d'élévation imprimé d'une machine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Feuille de papier presque vide avec annotations.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur un filtre à grille fine dans une monture noire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Filtre optique, pas un tamis."
+    }
+  ]
+}

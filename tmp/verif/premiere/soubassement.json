@@ -1,0 +1,53 @@
+{
+  "termId": "soubassement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Monument ou statue sur socle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Socle de monument, pas soubassement de façade."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Monument ou statue sur socle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Socle de monument, pas soubassement de façade."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Monument ou statue sur socle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Socle de monument, pas soubassement de façade."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Monument ou statue sur socle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Socle de monument, pas soubassement de façade."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Monument ou statue sur socle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Socle de monument, pas soubassement de façade."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Monument ou statue sur socle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Socle de monument, pas soubassement de façade."
+    }
+  ]
+}

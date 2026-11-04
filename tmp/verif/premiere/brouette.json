@@ -1,0 +1,53 @@
+{
+  "termId": "brouette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Brouette de chantier bleue à bac chargé de terre et roue pneumatique, vue de trois quarts.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brouette classique complète, claire et dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chariot à armature métallique à deux roues dans une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une brouette."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne de maçons au travail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, brouette à peine visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Brouette bleue vue de l'arrière, retournée contre une clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue déroutante, brouette peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Intérieur d'un grand bâtiment industriel en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvrier poussant un chariot à deux roues rouge dans une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charrette à deux roues, pas une brouette."
+    }
+  ]
+}

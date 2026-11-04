@@ -11,7 +11,10 @@ chaque candidate : titre, description, catégories Commons, auteur, licence, lie
 ## Outils (depuis la racine du projet)
 
 - `python3 scripts/verif/outils.py voisins <termId>` : le terme, sa définition et les autres termes de sa catégorie
-  (les mauvaises réponses possibles : l'image ne doit pouvoir illustrer aucun d'eux).
+  (les mauvaises réponses possibles : l'image ne doit pouvoir illustrer aucun d'eux). Les termes « incompatibles »
+  ne sont jamais proposés avec le terme : une photo d'échafaudage tubulaire est donc valable pour « l'échafaudage »
+  même si « l'échafaudage en bois » existe, s'ils sont incompatibles. Un terme générique se valide avec une photo
+  typique et claire de l'objet.
 - `python3 scripts/verif/outils.py planche <termId>` → `tmp/verif/<termId>-planche.jpg` : vue d'ensemble numérotée.
 - `python3 scripts/verif/outils.py grille <termId> <NN>` → `tmp/verif/<termId>-<NN>-grille.jpg` : l'image seule,
   avec une grille cyan tous les 10 % pour repérer les coordonnées.

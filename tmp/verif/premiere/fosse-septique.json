@@ -1,0 +1,53 @@
+{
+  "termId": "fosse-septique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chantier de tranchée dans la terre rouge avec des cuves cylindriques noires et un regard en cours de pose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier confus, cuve non identifiable comme fosse septique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Schéma en coupe d'une fosse septique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Schéma, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne en noir et blanc de travaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo d'archive peu lisible, rien d'identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux couvercles verts de cuve et un coude PVC dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seuls des couvercles : confusion avec regard ou tampon."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux couvercles en béton circulaires à chaînette sur une pelouse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seuls des couvercles : confusion avec regard ou tampon."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Trois couvercles verts ronds sur une pelouse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seuls des couvercles : confusion avec regard ou tampon."
+    }
+  ]
+}

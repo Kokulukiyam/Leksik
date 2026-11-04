@@ -1,0 +1,53 @@
+{
+  "termId": "fil-a-ligaturer",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cinq bobines de fil de fer recuit rouillé posées à côté d'un mètre pliant.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Description Commons : fil de ligature d'armatures ; fil bien visible, mètre sans gêne."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Page de manuscrit avec échantillons de tissus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux militaires casqués ligaturant une cage d'armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fil quasi invisible, personnes dominantes."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Stèle romaine inscrite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Main qui torsade un fil de ligature autour de barres d'armature avec un outil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fil minuscule, outil à main et visage dominent ; pourrait évoquer tenaille ou armature."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Inscription romaine sur pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

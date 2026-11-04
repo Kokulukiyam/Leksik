@@ -1,0 +1,58 @@
+{
+  "termId": "encadrement-de-baie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dessin de façade au crayon avec échelle de couleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre en bois avec simple bordure sur façade délabrée, graffiti.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Graffiti lisible, bordure discrète."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Contre-plongée sur une baie très ornée de la Casa Comalat.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop chargé, ambigu (oriel, console)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Baie cintrée en gros plan avec bordure de pierre moulée (Casa Comalat).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage serré, la baie est tronquée ; 06 est meilleure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Détail de colonnettes et ébrasement de la Casa Comalat.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail trop rapproché."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Baies de la Casa Comalat entourées d'une grande bordure moulée en pierre granuleuse.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.0,
+        "largeur": 0.8,
+        "hauteur": 0.99
+      },
+      "lieu": "Barcelone, Espagne",
+      "note": "Bordure en saillie, de teinte différente, qui entoure la baie ; rectangle sur l'ensemble."
+    }
+  ]
+}

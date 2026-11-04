@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "joint-de-dilatation",
+    "terme": "le joint de dilatation",
+    "categorie": "Structure",
+    "definition": "Coupure qui traverse un bâtiment de haut en bas et sépare deux blocs pour qu'ils se dilatent librement.",
+    "priorite": 1,
+    "requetes": [
+      "building expansion joint",
+      "joint de dilatation",
+      "expansion joint facade"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Solaria Stage Bldg and Nishitetsu Fukuoka Sta Bldg the expansion joint at the connection between them 20241003.jpg",
+      "description": "Solaria Stage Building and Nishitetsu Fukuoka Station Building, the expansion joint at the connection between them (Address: 11-2 and 11-3, Tenjin 2-chōme, Chūō-ku, Fukuoka City 8100001, Japan)",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "October 2024 in Fukuoka",
+        "Nishitetsu Fukuoka Station Building",
+        "Solaria Stage Building",
+        "Building expansion joints"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solaria_Stage_Bldg_and_Nishitetsu_Fukuoka_Sta_Bldg_the_expansion_joint_at_the_connection_between_them_20241003.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Solaria_Stage_Bldg_and_Nishitetsu_Fukuoka_Sta_Bldg_the_expansion_joint_at_the_connection_between_them_20241003.jpg/1280px-Solaria_Stage_Bldg_and_Nishitetsu_Fukuoka_Sta_Bldg_the_expansion_joint_at_the_connection_between_them_20241003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3904,
+      "hauteur": 2928
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Expansion joint, Hayle.jpg",
+      "description": "Railway track expansion joint in continuous welded rail within Hayle railway station, near to the start of the Hayle viaduct, on the track to Penzance (to left of photo).",
+      "categories": [
+        "Taken with Canon PowerShot A710 IS",
+        "Cornish Main Line",
+        "Hayle railway station",
+        "Expansion joints (rail track)",
+        "Concrete sleepers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Rwendland",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Expansion_joint,_Hayle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Expansion_joint%2C_Hayle.jpg/1280px-Expansion_joint%2C_Hayle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Whittier Bridge- Expansion joint ready to be set in place (21010169043).jpg",
+      "description": "An expansion joint rests on the Pier 2 road deck, ready to be set in place. Expansion joints allow a bridge or roadway to safely absorb contraction and expansion due to temperature changes, vibration from traffic and ground movement due to earthquakes or settlement.",
+      "categories": [
+        "Expansion joints",
+        "John Greenleaf Whittier Bridge",
+        "PD-MAGov",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from the MassDOT flickr stream needing curation"
+      ],
+      "auteur": "MassDOT",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Whittier_Bridge-_Expansion_joint_ready_to_be_set_in_place_(21010169043).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Whittier_Bridge-_Expansion_joint_ready_to_be_set_in_place_%2821010169043%29.jpg/1280px-Whittier_Bridge-_Expansion_joint_ready_to_be_set_in_place_%2821010169043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1306,
+      "hauteur": 980
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Joints de dilatation.jpg",
+      "description": "Détail des joints de dilatation sur trottoir et sur chaussée",
+      "categories": [
+        "Pont de la porte de France (Grenoble)",
+        "Bridge expansion joints"
+      ],
+      "auteur": "Conseil général de l'Isère",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Joints_de_dilatation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Joints_de_dilatation.jpg/1280px-Joints_de_dilatation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1706
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:EXPANSION JOINTS IN THE HPF HIGH PRESSURE FACILITY - NARA - 17424789.jpg",
+      "description": "Scope and content: The original finding aid described this as: Capture Date: 5/17/1978 Photographer: HANK SEIDEL Keywords: Larsen Scan Location Building No: 63",
+      "categories": [
+        "PD NASA",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Expansion joints",
+        "Artworks without Wikidata item",
+        "Template Unknown (author)",
+        "US National Archives series: Photographs Relating to Agency Activities, Facilities and Personnel",
+        "US National Archives location: other"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EXPANSION_JOINTS_IN_THE_HPF_HIGH_PRESSURE_FACILITY_-_NARA_-_17424789.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/EXPANSION_JOINTS_IN_THE_HPF_HIGH_PRESSURE_FACILITY_-_NARA_-_17424789.jpg/1280px-EXPANSION_JOINTS_IN_THE_HPF_HIGH_PRESSURE_FACILITY_-_NARA_-_17424789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6183,
+      "hauteur": 4823
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:EXPANSION JOINTS IN THE HPF HIGH PRESSURE FACILITY - NARA - 17424787.jpg",
+      "description": "Scope and content: The original finding aid described this as: Capture Date: 5/17/1978 Photographer: HANK SEIDEL Keywords: Larsen Scan Location Building No: 63",
+      "categories": [
+        "PD NASA",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "Template Unknown (author)",
+        "Pipe expansion joints",
+        "US National Archives series: Photographs Relating to Agency Activities, Facilities and Personnel",
+        "US National Archives location: other"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EXPANSION_JOINTS_IN_THE_HPF_HIGH_PRESSURE_FACILITY_-_NARA_-_17424787.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/EXPANSION_JOINTS_IN_THE_HPF_HIGH_PRESSURE_FACILITY_-_NARA_-_17424787.jpg/1280px-EXPANSION_JOINTS_IN_THE_HPF_HIGH_PRESSURE_FACILITY_-_NARA_-_17424787.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6183,
+      "hauteur": 4823
+    }
+  ]
+}

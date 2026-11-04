@@ -1,0 +1,58 @@
+{
+  "termId": "loggia",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade avec loggia à arcades sur colonnes et balustrade, en retrait, lierre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.2,
+        "largeur": 0.74,
+        "hauteur": 0.4
+      },
+      "lieu": "Budapest, Hongrie",
+      "note": "Balcon couvert en retrait, fermé sur les côtés ; typique ; rectangle sur la loggia."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Colonne de marbre et balustres d'une loggia, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail : pourrait illustrer colonne ou balustrade."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rue d'immeubles à Kiel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Loggia non identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rue d'immeubles à Kiel, balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Loggia non identifiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Immeuble d'angle et carrefour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Loggias minuscules."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade en brique couverte de vigne avec petites fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Loggia non identifiable."
+    }
+  ]
+}

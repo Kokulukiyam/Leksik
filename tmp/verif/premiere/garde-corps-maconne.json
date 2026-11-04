@@ -1,0 +1,53 @@
+{
+  "termId": "garde-corps-maconne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Les trois bâtiments du front de mer de Liverpool.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun garde-corps maçonné visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre en bois délabrée sur un mur enduit avec églantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun garde-corps maçonné visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiments de Liverpool avec dôme et tours d'horloge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun garde-corps maçonné visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lanterne murale ancienne sur un mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun garde-corps maçonné visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Dômes et tours de Liverpool sous un ciel gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun garde-corps maçonné visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plage de sable et vagues avec phare au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun garde-corps maçonné visible."
+    }
+  ]
+}

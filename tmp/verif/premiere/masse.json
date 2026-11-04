@@ -1,0 +1,53 @@
+{
+  "termId": "masse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Homme assis dans le métro tenant une masse entre les jambes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil petit, hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rayon de magasin avec manches et têtes de marteaux suspendus, étiquettes de prix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mélange d'outils, prix visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Masse à manche long appuyée contre un mur en bois, chapeau de paille accroché au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tête mal lisible et sombre, chapeau distrayant ; doute sur le type d'outil."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Militaires devant une porte, l'un tenant une masse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène militaire, outil minuscule."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvrier casqué frappant un mur avec une masse, tête hors champ.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tête de la masse quasi invisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux hommes sur des gravats de démolition avec des outils.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil non identifiable."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "termId": "passage-pieton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Accident de voiture sur un carrefour à zébras.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Accident dominant, passage vu en vue plongeante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Carrefour avec marquages pâles et plots, rue de Saint-Hélier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Passage effacé et peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Piétons traversant sur des bandes blanches, avec bande podotactile jaune.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.64,
+        "largeur": 0.8,
+        "hauteur": 0.34
+      },
+      "lieu": "Bandung, Indonésie",
+      "note": "Passage piéton clair en usage ; rectangle sur le zébra."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Carrefour avec zébra au premier plan, rue commerçante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Passage petit, scène large, moins net que les autres."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Zébra en travers d'une rue devant le Dolman Theatre, balise à globe jaune.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.61,
+        "largeur": 0.6,
+        "hauteur": 0.12
+      },
+      "lieu": "Newport, Pays de Galles",
+      "note": "Passage piéton net ; rectangle sur les bandes (texte DOLMAN hors cadre)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Zébra au premier plan, bâtiments et balise à globe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Passage coupé par le cadre, scène chargée."
+    }
+  ]
+}

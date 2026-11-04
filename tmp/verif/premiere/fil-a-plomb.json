@@ -1,0 +1,53 @@
+{
+  "termId": "fil-a-plomb",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fil à plomb en laiton hexagonal à pointe, ficelle tendue vers le haut, posé sur une table.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plomb et ficelle nets, sans ambiguïté."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plomb conique gris suspendu à sa ficelle devant un mur de briques.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Usage maçon évident, élément dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux plombs de maçon en pierre ou métal avec cordes, posés sur marbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets multiples posés, ficelle enroulée ; moins clair."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plomb pointu et cube avec cordelette posés sur marbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même motif, objets posés et multiples."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Collection de nombreux plombs en laiton suspendus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Foule d'objets, pas un fil à plomb isolé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grand plomb conique noir suspendu dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Correct mais fond de vitrine chargé ; non retenu."
+    }
+  ]
+}

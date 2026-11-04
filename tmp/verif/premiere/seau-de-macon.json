@@ -1,0 +1,53 @@
+{
+  "termId": "seau-de-macon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Voiture hot rod exposée dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chargeuse versant du sable dans une trémie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand seau cylindrique de béton hissé par une corde, homme au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seau peu typique et scène encombrée : doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chariot élévateur portant des planches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Homme remuant du mortier dans deux seaux bleus, parpaing à côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seaux partiellement cachés, scène confuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Soldat pelletant du gravier près d'une bétonnière, seau blanc au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seau accessoire et petit."
+    }
+  ]
+}

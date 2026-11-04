@@ -1,0 +1,53 @@
+{
+  "termId": "muret",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Murs de pierre de jardin, remise et portail en bois, vus de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hauteur peu claire, murs trop éloignés pour dire muret."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pré avec quelques pierres alignées au sol et arbres jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un muret, alignement de pierres au sol."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur enduit contemporain avec panneau en acier découpé et plantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur décoratif, pas un muret bas."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de pierre sèche d'environ un mètre avec petite niche, devant une pelouse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hauteur ambiguë, pourrait être un mur de clôture ; mieux vaut rejeter."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade vitrée en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tour de verre en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

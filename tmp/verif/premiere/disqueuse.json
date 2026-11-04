@@ -1,0 +1,58 @@
+{
+  "termId": "disqueuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier en atelier meulant une pièce d'acier avec une disqueuse, gerbe d'étincelles.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.32,
+        "y": 0.46,
+        "largeur": 0.31,
+        "hauteur": 0.14
+      },
+      "lieu": "",
+      "note": "Disqueuse et disque bien visibles ; le rectangle isole l'outil."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvrier penché coupant le béton à la disqueuse, poussière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil petit et en partie caché."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Artiste sur scène tenant une meuleuse qui fait des étincelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de spectacle, hors contexte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier coupant une dalle à la disqueuse près d'un mur de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil petit, partiellement masqué par la poussière et le corps."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvrier au loin coupant le béton à la disqueuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvrier au loin coupant le béton à la disqueuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil trop petit."
+    }
+  ]
+}

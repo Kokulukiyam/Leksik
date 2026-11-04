@@ -1,0 +1,53 @@
+{
+  "termId": "gants-de-travail",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Paire de gants bleus matelassés pour la cryogénie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gants de laboratoire, pas des gants de chantier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvrier meulant à l'atelier, gants à peine visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gants trop petits."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gants de snowboard noirs avec protège-poignet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gants de sport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Assortiment de gants en caoutchouc et latex de couleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gants ménagers/chimie, plusieurs paires, ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gants en cuir sales dans un atelier encombré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gants noyés dans le désordre, peu lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Paire de gants en cuir blanc et tissu orange à poignets tricotés rouges, posés sur un fond uni.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gants de protection manuelle nets et dominants (modèle forestier mais gants de travail en cuir)."
+    }
+  ]
+}

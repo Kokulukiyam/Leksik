@@ -1,0 +1,53 @@
+{
+  "termId": "echafaudage-en-bois",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Perches (bambou) étayant un coffrage de dalle sur un bâtiment en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Awka, Nigeria",
+      "note": "Ce sont des étais/étaiement de coffrage, pas un échafaudage de travail."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo ancienne d'un chantier avec montants de bois lointains.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Newcastle",
+      "note": "Élément trop petit, photo ancienne peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne de l'Opéra Garnier enveloppé d'un écran de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Ancienne photo, échafaudage caché sous un écran, peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gravure de bord de rivière avec pirogues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne de l'Opéra Garnier sous écran de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Ancienne photo, échafaudage caché, peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne d'un chantier de pierre avec ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Échafaudage en bois non identifiable."
+    }
+  ]
+}

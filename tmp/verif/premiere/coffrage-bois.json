@@ -1,0 +1,53 @@
+{
+  "termId": "coffrage-bois",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sous-face d'un coffrage de dalle : solives, poutrelles et étais métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage de dalle sur étais métalliques : ambigu avec coffrage de dalle, étai métallique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Faisceau de planches hissé par grue, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sydney",
+      "note": "Planches en transport, pas un coffrage monté."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne d'un barrage avec légende.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Weston, États-Unis",
+      "note": "Ancienne, légende visible, élément peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cour d'un atelier de menuiserie avec tas de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Qom, Iran",
+      "note": "Pas un coffrage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Atelier de menuiserie avec planches et chaises.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Qom, Iran",
+      "note": "Pas un coffrage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Atelier de menuiserie avec planches et meubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Qom, Iran",
+      "note": "Pas un coffrage."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "termId": "echafaudage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade en brique d'un bâtiment, échafaudage masqué par une bâche imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shortstown, Royaume-Uni",
+      "note": "Échafaudage non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Échafaudage tubulaire bâché dressé sur la façade centrale d'une cathédrale.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.26,
+        "largeur": 0.18,
+        "hauteur": 0.44
+      },
+      "lieu": "Wells, Royaume-Uni",
+      "note": "Échafaudage net et dominant ; le tubulaire est un terme incompatible, donc acceptable ; rectangle car la cathédrale domine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vaste échafaudage tubulaire couvrant le flanc d'une cathédrale.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.36,
+        "largeur": 0.78,
+        "hauteur": 0.52
+      },
+      "lieu": "York, Royaume-Uni",
+      "note": "Échafaudage typique, clair ; tubulaire incompatible donc acceptable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade d'immeuble couverte d'échafaudage en bambou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Bambou : illustre l'échafaudage en bambou, voisin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade d'immeuble couverte d'échafaudage en bambou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Bambou : illustre l'échafaudage en bambou, voisin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvriers et échafaudage en bambou devant une façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Bambou : illustre l'échafaudage en bambou, voisin."
+    }
+  ]
+}

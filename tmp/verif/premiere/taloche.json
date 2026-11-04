@@ -1,0 +1,53 @@
+{
+  "termId": "taloche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Groupe de six hommes avec un chien en peluche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure d'en-tête de journal Canada Lumberman.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photographie héliographique ancienne de Niépce.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Foie gras tranché dans un plat.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Foie gras tranché dans un plat.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gravure coloriée de personnages en costume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, sans rapport."
+    }
+  ]
+}

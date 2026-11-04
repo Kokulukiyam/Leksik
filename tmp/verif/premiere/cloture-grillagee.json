@@ -1,0 +1,53 @@
+{
+  "termId": "cloture-grillagee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grillage affaissé avec poteaux dans un sous-bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clôture abîmée, confuse avec la végétation."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Terrain vague vu à travers les mailles d'un grillage, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grillage flou au premier plan, scène dominante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grillage sombre de nuit avec poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan de mailles de grillage sur ciel crépusculaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maille seule, sans poteaux, clôture peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grillage vert tendu sur poteau et fil de tension, avec un journal accroché.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Sarrebruck, Allemagne",
+      "note": "Grillage, poteau et fil tendeur nets ; le journal est secondaire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grillage flou de nuit avec lumières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou et sombre."
+    }
+  ]
+}

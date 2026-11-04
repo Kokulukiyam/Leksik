@@ -1,0 +1,29 @@
+{
+  "termId": "garde-corps-a-barreaudage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade d'immeuble de Sosnowiec avec petits balcons à balustres et terrasse de restaurant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps minuscules, en pierre à balustres ; terme non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grand hôtel en brique rouge vu en contre-plongée avec garde-corps de balcons très petits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps trop petits et ornementés (fer forgé)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade d'hôtel particulier en brique jaune avec un petit balcon à garde-corps en fonte noire au premier étage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps trop petit, de type fonte ornementée ; confusion avec fer forgé."
+    }
+  ]
+}

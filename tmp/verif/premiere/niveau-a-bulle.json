@@ -1,0 +1,58 @@
+{
+  "termId": "niveau-a-bulle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Niveau à bulle en plastique transparent posé sur le sabot d'un appareil photo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petite nivelle d'appareil photo, pas un niveau de chantier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Quatre niveaux à bulle jaunes de longueurs différentes avec graduations.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres droites à fioles, très nettes ; seul outil visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cube transparent contenant trois fioles à bulle vertes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nivelle d'appareil photo en gros plan, pas un niveau à bulle."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Règle de niveau en aluminium sur la neige, image très allongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petite et fine, peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux niveaux torpilles jaunes plaqués sur un tube rouillé, avec un récepteur laser orange en bas.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.14,
+        "y": 0.04,
+        "largeur": 0.24,
+        "hauteur": 0.64
+      },
+      "lieu": "",
+      "note": "Le rectangle isole un niveau torpille ; le récepteur laser est exclu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bulle de savon irisée devant un feuillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Jeu de mots, hors sujet."
+    }
+  ]
+}

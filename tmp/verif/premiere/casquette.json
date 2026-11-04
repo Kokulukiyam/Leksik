@@ -1,0 +1,53 @@
+{
+  "termId": "casquette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dais gothique en bois sculpté, vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas une casquette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Baie d'une cathédrale avec vitraux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas une casquette."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment commercial à deux niveaux, palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas une casquette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cage de verre pyramidale derrière une clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas une casquette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Sculpture en bronze sur mur de grès.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas une casquette."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hall de station de métro avec verrière circulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas une casquette."
+    }
+  ]
+}

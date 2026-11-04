@@ -1,0 +1,18 @@
+{
+  "terme": {
+    "id": "retombee-de-poutre",
+    "terme": "la retombée de poutre",
+    "categorie": "Structure",
+    "definition": "Partie d'une poutre qui dépasse sous la sous-face d'une dalle.",
+    "priorite": 1,
+    "requetes": [
+      "downstand beam ceiling",
+      "retombée de poutre",
+      "dropped beam soffit"
+    ],
+    "incompatibles": [
+      "poutre"
+    ]
+  },
+  "candidats": []
+}

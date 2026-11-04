@@ -1,0 +1,53 @@
+{
+  "termId": "regard",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petit édicule maçonné dans un jardin, avec arbres et poubelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bâtiment peu lisible comme regard."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dalle de pierre percée posée sur une ouverture grillagée dans un mur de moellons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage ambigu (puits, soupirail), non identifiable comme regard."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Caisson en pierre ornée de losanges, coiffé d'une grosse dalle, dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour un puits ou un couvercle ; pas assez univoque."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur voûté d'un regard d'aqueduc éclairé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue intérieure peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Même caisson en pierre à dalle posée, autre angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même ambiguïté (puits, tampon)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Intérieur d'un conduit de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Conduit, ne montre pas un regard."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "termId": "mur-rideau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade vitrée du Hallidie Building vue de face, entre deux immeubles, avec véhicules devant.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.23,
+        "y": 0.31,
+        "largeur": 0.5,
+        "hauteur": 0.32
+      },
+      "lieu": "Hallidie Building, San Francisco",
+      "note": "Mur-rideau historique, trame de montants et traverses devant la structure ; rectangle sur la partie vitrée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade de nuit éclairée en violet et blanc, panneaux répétitifs, logo visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éclairage artificiel, logo visible, gros plan ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Hallidie Building de face, grande trame vitrée bleue entre bandeaux décoratifs dorés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.19,
+        "largeur": 0.79,
+        "hauteur": 0.4
+      },
+      "lieu": "Hallidie Building, San Francisco",
+      "note": "Exemple typique et net de mur-rideau ; rectangle sur la trame vitrée centrale."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Hallidie Building en vue oblique, vitrage dominé par la perspective.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue oblique moins lisible que 01 et 03."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade du même immeuble sous échafaudage et bâche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage masque l'élément."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hallidie Building en contre-plongée oblique, reflets importants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reflets et perspective, moins lisible."
+    }
+  ]
+}

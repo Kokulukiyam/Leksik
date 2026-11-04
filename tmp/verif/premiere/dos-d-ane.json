@@ -1,0 +1,58 @@
+{
+  "termId": "dos-d-ane",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rue résidentielle avec panneau de dos-d'âne au loin et bosse peu visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bosse trop petite, panneau dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau de ralentisseur détourné avec un visage dessiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau dessiné, pas la bosse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan de marquages en chevrons blancs sur le revêtement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marquage seul, la bosse n'est pas lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Panneau « speed humps 20 mph ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau avec texte, pas la bosse."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ralentisseur en caoutchouc noir à pavés blancs posé en travers d'une rue, voitures garées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.36,
+        "largeur": 0.95,
+        "hauteur": 0.4
+      },
+      "lieu": "Sans lieu précis",
+      "note": "Ralentisseur transversal net, rectangle sur la bosse pour la distinguer des voitures et piétons."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plateau pavé surélevé avec triangles blancs dans une rue arborée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plateau ralentisseur plutôt que dos-d'âne ; peu net."
+    }
+  ]
+}

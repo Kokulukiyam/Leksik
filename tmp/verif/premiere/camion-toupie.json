@@ -1,0 +1,53 @@
+{
+  "termId": "camion-toupie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Camion toupie rouge à tambour, rue de Kaohsiung.",
+      "verdict": "validée",
+      "rectangle": "",
+      "lieu": "Kaohsiung, Taïwan",
+      "note": "Cuve rotative inclinée sur camion, nette ; texte en caractères chinois sans indice."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Camion toupie vert ancien déchargeant, ouvrier à côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Valable mais sombre et plus encombré que 01 et 03."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Camion toupie Mercedes Axor blanc à cuve rotative, inscription BLG-BETON.",
+      "verdict": "validée",
+      "rectangle": "",
+      "lieu": "Allemagne",
+      "note": "Camion à cuve rotative évident ; le mot BETON ne donne pas le terme exact."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue aérienne d'un chantier avec pompe à béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit, pompe."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Machine de mélange sur plateau de camion japonais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ce n'est pas un camion-toupie."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ancienne photo noir et blanc d'un engin de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, non pertinente."
+    }
+  ]
+}

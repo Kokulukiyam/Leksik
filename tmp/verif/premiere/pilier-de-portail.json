@@ -1,0 +1,58 @@
+{
+  "termId": "pilier-de-portail",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plaque commémorative en granit sur piquet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte, pas de pilier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Boîte aux lettres cylindrique rouge sur trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un pilier de portail."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Arche d'accueil bleue portée par deux piles de pierre au bord d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arche monumentale, pas un portail."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pilier maçonné blanc à chapiteau mouluré et boule, fixé à un mur de brique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.25,
+        "y": 0.11,
+        "largeur": 0.4,
+        "hauteur": 0.78
+      },
+      "lieu": "Royaume-Uni (Canons)",
+      "note": "Pilier de portail maçonné coiffé d'un chapeau ; portail non visible mais forme et contexte typiques."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Montant doré d'une grille monumentale du château, vu de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montant métallique de grille, pas maçonné."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Boîte aux lettres victorienne rouge sur trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un pilier de portail."
+    }
+  ]
+}

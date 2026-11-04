@@ -1,0 +1,63 @@
+{
+  "termId": "coffrage-de-poteau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dalle de chantier africain avec poteaux en béton et ouvriers, armatures en attente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cameroun",
+      "note": "Poteaux déjà coulés, coffrage non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sous-face d'un coffrage de dalle sur étais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage de dalle, pas de poteau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvriers autour d'un poteau ferraillé ; panneau de coffrage appuyé contre un poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Coffrage pas encore monté, panneau secondaire : ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux poteaux enveloppés de coffrage métallique à parement bois, étayés par des contrefiches obliques.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.47,
+        "y": 0.15,
+        "largeur": 0.22,
+        "hauteur": 0.74
+      },
+      "lieu": "États-Unis",
+      "note": "Caisson vertical autour d'un poteau, clair ; photo sombre mais lisible ; rectangle sur le coffrage central."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Caisson vertical de coffrage métallique rouge monté sur un poteau de pont, armatures en attente au sommet.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.42,
+        "largeur": 0.25,
+        "hauteur": 0.46
+      },
+      "lieu": "San Francisco, États-Unis",
+      "note": "Coffrage de poteau net et dominant ; rectangle utile car d'autres poteaux apparaissent."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grands panneaux de coffrage inclinés sur un pont à arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Whittier, États-Unis",
+      "note": "Panneaux de pile de pont inclinés, forme non lisible ; ambigu avec banche."
+    }
+  ]
+}

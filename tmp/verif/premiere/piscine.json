@@ -1,0 +1,53 @@
+{
+  "termId": "piscine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bassin bleu entouré de margelles claires devant une villa.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Cancún, Mexique",
+      "note": "Piscine claire et dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bassin vide en herbe devant des bâtiments en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de l'eau, site archéologique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Piscine turquoise avec échelle et plage dallée dans un jardin, vue en plongée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Vietnam",
+      "note": "Piscine nettement lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bassin avec passerelle en bois devant un hôtel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Passerelle dominante, bassin à peine lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Femme en bikini devant une piscine à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne au premier plan."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Femmes sur des transats près d'une piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes au premier plan, piscine absente."
+    }
+  ]
+}

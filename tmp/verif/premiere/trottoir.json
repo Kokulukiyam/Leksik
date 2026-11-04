@@ -1,0 +1,53 @@
+{
+  "termId": "trottoir",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rue pavée étroite entre bâtiments avec un lampadaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun trottoir identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Goéland marchant sur un sol gris devant un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Oiseau, trottoir peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Route 66 avec marquages, sans trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaussée seule."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Château de Münster au fond d'une allée pavée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de trottoir clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Entrée vitrée d'un immeuble avec potelets rouges sur pavés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Potelets et pavés dominent, trottoir non défini."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Église byzantine de Kyoustendil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

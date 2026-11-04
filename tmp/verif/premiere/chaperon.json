@@ -1,0 +1,63 @@
+{
+  "termId": "chaperon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chaperon bombé couvert de mousse sur un mur de brique, avec une grille au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.2,
+        "largeur": 1.0,
+        "hauteur": 0.5
+      },
+      "lieu": "Haringey, Londres",
+      "note": "Couronnement du mur nettement visible, encadré."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessin de décor de théâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chaperon en pierre moussu sur un mur de brique, grillage au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.19,
+        "largeur": 1.0,
+        "hauteur": 0.37
+      },
+      "lieu": "Haringey, Londres",
+      "note": "Dalle de couronnement en pente nette, encadrée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maquette de décor de théâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maquette de décor de théâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de jardin en parement de pierre jaune dans un jardin, vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couronnement trop petit pour être lisible."
+    }
+  ]
+}

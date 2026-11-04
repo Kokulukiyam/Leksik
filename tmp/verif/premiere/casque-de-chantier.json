@@ -1,0 +1,58 @@
+{
+  "termId": "casque-de-chantier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Soudeur au casque vert sur une charpente métallique, très petit dans le cadre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casque trop petit, harnais et charpente dominent."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Même soudeur sur la charpente, casque vert petit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casque trop petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même soudeur penché sur la charpente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casque peu lisible, tête penchée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux ouvriers sur une terrasse, l'un avec un casque jaune, vus de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casque trop petit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvrière au casque jaune rigide et lunettes devant une scie à onglets dans un chantier intérieur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.54,
+        "y": 0.15,
+        "largeur": 0.2,
+        "hauteur": 0.15
+      },
+      "lieu": "",
+      "note": "Casque jaune net et bien éclairé ; rectangle sur le casque pour écarter lunettes de protection et scie."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Scène sombre de chantier avec table pliante, un casque jaune posé et un ouvrier au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image sombre, casque petit, scène composée."
+    }
+  ]
+}

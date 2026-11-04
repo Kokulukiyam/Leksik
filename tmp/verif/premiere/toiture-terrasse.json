@@ -1,0 +1,53 @@
+{
+  "termId": "toiture-terrasse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plaque d'étanchéité EPDM sur un toit en fibrociment ondulé, vue de dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petit plat sur toit incliné, ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Terrasse dallée en bord de fleuve devant une façade vitrée, des personnes accoudées au parapet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Se lit comme esplanade, la toiture n'est pas évidente."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue aérienne d'un hôtel au toit en pente avec une piscine sur le toit-terrasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit en pente dominant, terrasse minuscule."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Terrasse dallée avec garde-corps métallique le long d'un fleuve et façade vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Se lit comme esplanade, toiture non évidente."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Terrasse dallée devant une façade vitrée, personnes assises, fleuve au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Se lit comme esplanade, toiture non évidente."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Terrasse couverte en béton avec poteau et garde-corps, montagne au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terrasse couverte ou balcon, pas une toiture-terrasse."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "tractopelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tractopelle jaune sur pneus, godet de chargement à l'avant et bras de pelle à l'arrière, chantier urbain.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Configuration chargeuse avant plus pelle arrière nette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tractopelle Terex devant un bâtiment, godet avant et bras arrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Valable mais environnement chargé ; moins bonne que 01 et 03."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tractopelle Case de profil dans une sablière, godet avant et bras arrière relevé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue de profil dominante, aucun doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tractopelle chargeant des palmiers dans un camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène, camion benne et palmiers parasites."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux tractopelles et camion avec troncs de palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène confuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tractopelle chargeant des palmiers dans un camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène confuse."
+    }
+  ]
+}

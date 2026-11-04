@@ -1,0 +1,58 @@
+{
+  "termId": "avaloir",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bordure de trottoir à San Diego avec une ouverture dans la bordure et un petit tampon rond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouverture minuscule et peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Siphon de sol carré à côté d'une cuvette de WC.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Siphon intérieur, pas un avaloir de voirie."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grille métallique rectangulaire dans le caniveau au pied d'une bordure en arc, avec l'ouverture sous la bordure.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.27,
+        "largeur": 0.6,
+        "hauteur": 0.55
+      },
+      "lieu": "San Diego, États-Unis",
+      "note": "Avaloir de voirie pour eaux pluviales ; rectangle sur la grille pour exclure le tampon rond du fond."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Siphon de sol à grille ronde relevée, rempli d'eau noire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Siphon de sol intérieur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche d'échantillons de crépis, gravure ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panorama de forêt depuis un belvédère.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport (le Mont des Avaloirs)."
+    }
+  ]
+}

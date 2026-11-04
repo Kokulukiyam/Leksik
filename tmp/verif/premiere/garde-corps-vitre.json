@@ -1,0 +1,58 @@
+{
+  "termId": "garde-corps-vitre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Garde-corps en panneaux de verre à main courante de pierre, chat posé dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.54,
+        "largeur": 0.64,
+        "hauteur": 0.44
+      },
+      "lieu": "",
+      "note": "Remplissage en verre feuilleté à profilé ; le chat est secondaire, rectangle sur le verre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Même scène recadrée, chat en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chat dominant, verre à peine visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment de bureaux avec coursives et garde-corps métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps non vitré, peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grille de porte ouvragée avec balustrade en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de garde-corps vitré."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Balustrade en bois d'une église, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balustre bois, ancien noir et blanc."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble avec ascenseur extérieur vitré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de garde-corps vitré lisible."
+    }
+  ]
+}

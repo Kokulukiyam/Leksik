@@ -1,0 +1,53 @@
+{
+  "termId": "caniveau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Caniveau de rue pavée en eau, au pied d'un mur où débouche une descente d'eau.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rigole maçonnée d'évacuation de l'eau de pluie, bien visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Caniveau profond sous un bateau de trottoir au Costa Rica.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage ambigu (fossé, avaloir), cadrage confus."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Large fossé maçonné encombré de déchets en Afrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt canal d'eaux pluviales."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rue sous un viaduc au crépuscule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Caniveau à peine visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chemin pavé médiéval avec rigole centrale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Caniveau central peu lisible, ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneau stop tombé sur un trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

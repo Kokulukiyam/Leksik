@@ -1,0 +1,53 @@
+{
+  "termId": "seuil",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne noir et blanc de ruines avec personnages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruines, aucun seuil identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte en bois cintrée dans un mur de briques, pied de porte avec briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seuil petit et peu net, porte cintrée dominante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petite maison en pierre avec porte ouverte et banc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seuil trop petit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte blanche d'un bâtiment en pierre avec fronton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seuil non visible, décor dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte en bois étroite avec marches, niche à statue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marches et porte, seuil ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte étroite en pierre rouge (Lalibela), marche et dalle basse, parapluie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle basse et marche ambiguës, rideau dans l'ouverture ; doute."
+    }
+  ]
+}

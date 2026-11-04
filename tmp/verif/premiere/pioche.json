@@ -1,0 +1,53 @@
+{
+  "termId": "pioche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Caricature politique en couleurs (Oncle Sam avec une pioche sur une carte).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pioche à deux pointes, tête en acier et manche clair, posée sur un sol de terre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil net, dominant, sans ambiguïté."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pioche rouillée à lame courbe posée dans l'herbe avec des gants de travail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil en partie hors cadre, gants au premier plan, lame pouvant évoquer une houe."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Sculpture monumentale bleue en forme de pioche au bord d'une rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture, pas un outil de chantier."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fer de pioche ancien noirci dans une vitrine, étiquette « Kilof ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de musée sans manche, texte visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sculpture de pioche géante bleue vue de loin dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture, pas un outil réel."
+    }
+  ]
+}

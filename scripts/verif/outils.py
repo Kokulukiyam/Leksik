@@ -106,10 +106,18 @@ def cadre(term_id, nn, x, y, w, h):
 def voisins(term_id):
     termes = json.loads((RACINE / "scripts" / "termes-candidats.json").read_text())
     t = next(x for x in termes if x["id"] == term_id)
+    inc = set(t.get("incompatibles", [])) | {x["id"] for x in termes if term_id in x.get("incompatibles", [])}
     print(f"{t['terme']} ({t['categorie']}) : {t['definition']}")
-    print("Autres termes de la catégorie (mauvaises réponses possibles) :")
+    print()
+    print("Termes INCOMPATIBLES : jamais proposés avec celui-ci. Une image qui pourrait aussi les illustrer")
+    print("(ex. le générique d'un terme précis) reste ACCEPTABLE pour ce terme :")
     for x in termes:
-        if x["categorie"] == t["categorie"] and x["id"] != term_id:
+        if x["id"] in inc:
+            print(f"- {x['terme']} : {x['definition']}")
+    print()
+    print("Mauvaises réponses possibles (autres termes de la catégorie) : l'image ne doit pouvoir illustrer AUCUN d'eux :")
+    for x in termes:
+        if x["categorie"] == t["categorie"] and x["id"] != term_id and x["id"] not in inc:
             print(f"- {x['terme']} : {x['definition']}")
 
 

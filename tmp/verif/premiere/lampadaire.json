@@ -1,0 +1,53 @@
+{
+  "termId": "lampadaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Lampadaire ancien en fonte à deux lanternes sur un îlot pavé, ciel dégagé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Royaume-Uni",
+      "note": "Mât haut à luminaires, typique et dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tête de luminaire de rue sur crosse courbe, vue de près contre le ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seule la lanterne est visible, pas le mât : trop partiel."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Candélabre vert à quatre globes blancs sur socle, ciel bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Disneyland Paris, France",
+      "note": "Haut mât à plusieurs luminaires, très lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Haut d'un lampadaire ornemental en fer forgé à deux globes, en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail décoratif, mât non visible, posé sur un pilier."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Route sous la pluie avec arbres et un lampadaire minuscule au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lampadaire trop petit et peu visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Poteau électrique avec transformateur et un luminaire de rue en bas à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poteau de réseau dominant, luminaire secondaire."
+    }
+  ]
+}

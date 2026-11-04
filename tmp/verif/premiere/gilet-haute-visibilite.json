@@ -1,0 +1,53 @@
+{
+  "termId": "gilet-haute-visibilite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gilet jaune fluo à deux bandes réfléchissantes, à plat sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gilet seul, net, caractéristique (jaune fluo, bandes)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvrier de voirie au Japon portant casque, gants et gilet jaune, avec un balai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gilet petit, casque et gants pourraient être la réponse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Réacteur d'avion avec un agent en gilet à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gilet minuscule, sujet principal autre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Foule de cyclistes en gilets jaunes, fillette de dos en gilet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de foule, pas un vêtement de chantier clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Masse critique à vélo, cyclistes en gilets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Foule lointaine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chasuble blanche de manifestation sur une chaise, inscription visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un gilet haute visibilité jaune/orange ; texte visible."
+    }
+  ]
+}

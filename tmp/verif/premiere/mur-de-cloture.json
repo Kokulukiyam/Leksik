@@ -1,0 +1,63 @@
+{
+  "termId": "mur-de-cloture",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Long mur de pierre le long d'une route, masqué en partie par un arbre, vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur peu lisible et éloigné."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Long mur de moellons à chaperon le long d'une rue.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.35,
+        "largeur": 0.9,
+        "hauteur": 0.47
+      },
+      "lieu": "Royaume-Uni",
+      "note": "Mur de clôture clair, encadré."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de brique de clôture le long d'une rue, terminé à droite par un pilier de portail.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.57,
+        "largeur": 0.86,
+        "hauteur": 0.34
+      },
+      "lieu": "Carshalton, Londres",
+      "note": "Mur de clôture lisible ; pilier et portail exclus du cadre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de brique bas avec deux piliers, portail en fer forgé et haie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pilier et portail dominent, mur court."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Boîte aux lettres rouge encastrée dans un mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le sujet est la boîte aux lettres."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur un mur de brique avec un blason et une lanterne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de mur, pas de clôture."
+    }
+  ]
+}

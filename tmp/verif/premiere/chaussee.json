@@ -1,0 +1,53 @@
+{
+  "termId": "chaussee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Route asphaltée à deux voies en Islande, marquage latéral blanc, bas-côté en terre, montagne au fond.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Route 35, Islande",
+      "note": "Chaussée typique, claire et dominante, sans trottoir ni autre élément concurrent."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Piste en terre rouge vue d'un tableau de bord, panneau jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Piste de terre, pas une chaussée revêtue ; image de dashcam."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Route à deux voies avec trottoir, bordure, terre-plein et voitures au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop d'éléments voisins (trottoir, bordure, terre-plein) ; chaussée lointaine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Voie rapide à chaussées séparées, vue depuis un pont, avec glissières et terre-plein central.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terre-plein central et glissières bien visibles : confusion possible avec un terme voisin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panorama d'une route à voies multiples descendant vers une ville, voitures, arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaussée petite et noyée dans le paysage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Même type de vue lointaine d'une route en descente vers une ville néo-zélandaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaussée petite, panneau et paysage dominants."
+    }
+  ]
+}

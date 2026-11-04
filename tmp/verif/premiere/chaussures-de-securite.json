@@ -1,0 +1,53 @@
+{
+  "termId": "chaussures-de-securite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Paire de chaussures montantes noires, l'une montrant sa semelle crantée, embout renforcé visible, lacets à œillets.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaussure de sécurité montante à embout, nette sur fond clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chaussure de travail DeWalt crottée tenue à la main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coque de protection non visible, photo peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chaussure Keen basse tenue à la main devant un banc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaussure basse, protection non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Jambes en jean et bottines noires à talon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bottines de ville, pas des chaussures de sécurité."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chaussure montante marron Caterpillar posée sur un coussin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ressemble à une chaussure de randonnée ; coque non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chaussure coupée en morceaux avec coque métallique posée à côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image désordonnée, chaussure dépecée."
+    }
+  ]
+}

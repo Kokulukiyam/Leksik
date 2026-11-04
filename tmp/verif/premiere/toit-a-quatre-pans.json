@@ -1,0 +1,63 @@
+{
+  "termId": "toit-a-quatre-pans",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petite maison rouge américaine à toit brisé de bardeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit à la Mansart à pignons, pas quatre pans."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande maison jaune à toit de chaume derrière un passage piéton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaume, toit complexe et masqué."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maisons en brique à toits à croupes dans une rue, la maison de gauche au premier plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.31,
+        "largeur": 0.48,
+        "hauteur": 0.2
+      },
+      "lieu": "Royaume-Uni",
+      "note": "Toit à croupes aux deux bouts, sans pignon ; rectangle sur le toit de la maison de gauche."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo en noir et blanc de la charpente d'un toit à croupe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente intérieure, pas le toit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Toits de tuiles d'une maison à colombage et cheminée en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit complexe à multiples versants."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison de pierre sur une île, avec un toit de bois à quatre versants et deux croupes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.35,
+        "y": 0.35,
+        "largeur": 0.58,
+        "hauteur": 0.12
+      },
+      "lieu": "Île Bolchoï Zaïatski, Russie",
+      "note": "Toit à quatre pans très lisible, sans pignon ; rectangle sur la toiture."
+    }
+  ]
+}

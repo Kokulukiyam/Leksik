@@ -1,0 +1,53 @@
+{
+  "termId": "perceuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier actionnant un vilebrequin manuel sur une poutre (affiche ancienne).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil manuel, image ancienne retouchée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Foreuse hydraulique sur chenilles dans une carrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin de forage, pas une perceuse à main."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Foreuse sur chenilles en carrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin de forage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Perceuse-visseuse sans fil Makita 18 V, vue de profil sur fond uni.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil net, dominant, mandrin et poignée visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Perceuse électrique ouverte montrant son moteur interne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carter ouvert, pas lisible comme outil d'usage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan de forets à béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Forets, pas une perceuse."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "vitrine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pelotes de laine multicolores vues de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de vitrine visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une devanture de magasin de mode avec deux vitrines et mannequins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image sombre, peu lisible sur téléphone ; montre plutôt la devanture."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vitrine d'une boutique caritative à cadre rouge avec mannequins, affiches et prix lisibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Textes et panneaux envahissants ; cadrage serré, vitrine peu claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lapin décoratif en mousse derrière une vitre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet exposé seul, vitrine non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Devanture de librairie ancienne à Marbourg avec deux grandes baies vitrées de part et d'autre de la porte, livres exposés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.36,
+        "largeur": 0.3,
+        "hauteur": 0.42
+      },
+      "lieu": "Marbourg, Allemagne",
+      "note": "Grande baie vitrée de commerce avec marchandises exposées ; rectangle sur la vitrine gauche pour distinguer de la devanture (incompatible)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vitrine de boutique de robes de bal dans un centre commercial, robes sur mannequins derrière une grande vitre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrine typique, claire, marchandises exposées derrière une grande baie vitrée."
+    }
+  ]
+}

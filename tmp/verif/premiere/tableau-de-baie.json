@@ -1,0 +1,53 @@
+{
+  "termId": "tableau-de-baie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de chapelle jaune avec fenêtres gothiques à ébrasement et soubassement gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tableau non clairement visible ; pourrait être chambranle ou soubassement."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cathédrale de Chester vue d'ensemble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble, élément invisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fenêtre à fronton sur façade en planches, photo noir et blanc ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chambranle/fronton dominant, noir et blanc."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plaque d'inscription au-dessus d'une arcade, murs blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas de tableau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Colonnade et bâtiment du Queen's House à Greenwich.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun tableau lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Colonnade et bâtiment du Queen's House à Greenwich.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun tableau lisible."
+    }
+  ]
+}

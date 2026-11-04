@@ -1,0 +1,53 @@
+{
+  "termId": "metre-ruban",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Boîtier bleu et orange d'un mètre ruban 3 m (B&Q) de face, lame jaune sortant à droite.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mètre ruban à boîtier bien reconnaissable, plein cadre ; l'inscription ne donne pas le nom du terme."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruban de couturier bleu enroulé, graduations en cm.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mètre de couturier souple en tissu, pas un ruban métallique en boîtier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mètre de couturier vert enroulé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruban souple de couture, pas l'outil de chantier."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mètre ruban à boîtier vert fluo avec clip, lame jaune graduée déroulée, fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Exemple typique, net et sans ambiguïté."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ancien ruban à manivelle dans un boîtier circulaire en cuir rouge (Lufkin).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Modèle ancien à bobine, moins reconnaissable que le mètre ruban à boîtier."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mètre de couturier multicolore enroulé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruban de couture souple, pas un mètre ruban de chantier."
+    }
+  ]
+}
