@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "grenier-dogon",
+    "terme": "le grenier dogon",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Petit bâtiment en banco, coiffé d'un toit conique de paille, qui sert à stocker le mil.",
+    "requetes": [
+      "Dogon granary",
+      "grenier dogon",
+      "Dogon granaries"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dogon granary by David Sessoms.jpg",
+      "description": "female granary",
+      "categories": [
+        "Flickr images uploaded by Flickr upload bot",
+        "Dogon granaries"
+      ],
+      "auteur": "David Sessoms",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dogon_granary_by_David_Sessoms.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Dogon_granary_by_David_Sessoms.jpg/1280px-Dogon_granary_by_David_Sessoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dogon Granary, Djiguibombo (6462722).jpg",
+      "description": "i can tell it's a granary because the roof is thatched and pointy. oh, and that's mousa on the right",
+      "categories": [
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Flickr images missing SDC creator",
+        "Photographs by upyernoz",
+        "Dogon granaries",
+        "Djiguibombo"
+      ],
+      "auteur": "upyernoz from Haverford, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dogon_Granary,_Djiguibombo_(6462722).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Dogon_Granary%2C_Djiguibombo_%286462722%29.jpg/1280px-Dogon_Granary%2C_Djiguibombo_%286462722%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2828,
+      "hauteur": 1827
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Granary shutter, Mali, Dogon people, early 20th century, wood, metal - De Young Museum - DSC01103.JPG",
+      "description": "Exhibit in the De Young Museum, San Francisco, California, USA. This artwork is in the public domain because the artist died more than 70 years ago. Photography was permitted in the museum without restriction.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Wood carving of Mali",
+        "Files uploaded by Daderot",
+        "Dogon sculpture",
+        "Dogon granaries",
+        "African art in the De Young Museum"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granary_shutter,_Mali,_Dogon_people,_early_20th_century,_wood,_metal_-_De_Young_Museum_-_DSC01103.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Granary_shutter%2C_Mali%2C_Dogon_people%2C_early_20th_century%2C_wood%2C_metal_-_De_Young_Museum_-_DSC01103.JPG/1280px-Granary_shutter%2C_Mali%2C_Dogon_people%2C_early_20th_century%2C_wood%2C_metal_-_De_Young_Museum_-_DSC01103.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4801,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:ASC Leiden - W.E.A. van Beek Collection - Dogon architecture 05 - A female granary, Yugo 1981.jpg",
+      "description": "Un grenier femelle, Yugo 1981",
+      "categories": [
+        "GFDL",
+        "Images from the African Studies Centre (Leiden)",
+        "1981 in Mali",
+        "Uploaded with pattypan",
+        "License migration redundant",
+        "Self-published work",
+        "Items with VRTS permission confirmed",
+        "Dogon (W.E.A. van Beek Collection)",
+        "20th-century photographs of Mali",
+        "Dogon granaries",
+        "Images donated by W.E.A. van Beek"
+      ],
+      "auteur": "Wouter van Beek",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_architecture_05_-_A_female_granary,_Yugo_1981.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_architecture_05_-_A_female_granary%2C_Yugo_1981.jpg/1280px-ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_architecture_05_-_A_female_granary%2C_Yugo_1981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2136,
+      "hauteur": 3248
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:ASC Leiden - W.E.A. van Beek Collection - Dogon daily life 03 - Jauire takes the millet from the granary for the daily meal. In principle, only men can get millet from the granary, Tireli, Mali 1980.jpg",
+      "description": "Jauire prend le millet du grenier pour le repas quotidien. En principe, seuls les hommes peuvent obtenir du mil du grenier, Tireli, Mali 1980",
+      "categories": [
+        "GFDL",
+        "Images from the African Studies Centre (Leiden)",
+        "1980 in Mali",
+        "Uploaded with pattypan",
+        "License migration redundant",
+        "Tireli",
+        "Self-published work",
+        "Items with VRTS permission confirmed",
+        "Dogon (W.E.A. van Beek Collection)",
+        "20th-century photographs of Mali",
+        "Dogon granaries",
+        "Dogon men",
+        "Images donated by W.E.A. van Beek"
+      ],
+      "auteur": "Wouter van Beek",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_daily_life_03_-_Jauire_takes_the_millet_from_the_granary_for_the_daily_meal._In_principle,_only_men_can_get_millet_from_the_granary,_Tireli,_Mali_1980.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_daily_life_03_-_Jauire_takes_the_millet_from_the_granary_for_the_daily_meal._In_principle%2C_only_men_can_get_millet_from_the_granary%2C_Tireli%2C_Mali_1980.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2152,
+      "hauteur": 3272
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Barn decoration, Dogon people 01.jpg",
+      "description": "Barn decoration, Dogon people",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Serbian museums taken with Canon PowerShot SX60 HS",
+        "Collections of the Museum of African Art (Belgrade)",
+        "Dogon granaries",
+        "Edit-a-thon Africa, Belgrade",
+        "Dogon collection in the Museum of African art in Belgrade"
+      ],
+      "auteur": "Mickey Mystique",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barn_decoration,_Dogon_people_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Barn_decoration%2C_Dogon_people_01.jpg/1280px-Barn_decoration%2C_Dogon_people_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1553,
+      "hauteur": 3009
+    }
+  ]
+}
