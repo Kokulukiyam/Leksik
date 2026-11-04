@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Cracovie, Pologne",
       "note": "Bandeaux peu marqués, ornements de fenêtres dominants ; élément ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble moderniste d'angle enduit, avec bow-windows et balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Łódź, Pologne",
+      "note": "Pas de bandeau identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Immeuble d'angle jaune à toit mansardé, bande blanche portant des enseignes au-dessus du rez-de-chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Varsovie, Pologne",
+      "note": "Bande d'enseigne avec texte ; corniche et bandeaux peu distincts."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade en brique avec porte double, fenêtre à appui et soubassement en granit, sous la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Québec, Canada",
+      "note": "Pas de bandeau : seulement un soubassement et un appui."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue aérienne d'une rangée d'immeubles de rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Éléments bien trop petits."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade Renaissance à attique crénelé, encadrements sculptés et rez-de-chaussée à bossages, séparés par des bandes horizontales.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.05,
+        "y": 0.735,
+        "largeur": 0.825,
+        "hauteur": 0.022
+      },
+      "lieu": "Lublin, Pologne",
+      "note": "Le rectangle cible la bande lisse peu saillante au-dessus des bossages, qui marque le niveau : bandeau type ; la bande moulurée plus haut (corniche intermédiaire) est exclue."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Maison gothique en brique à pignon à redans, avec cordons moulurés horizontaux entre les niveaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kołobrzeg, Pologne",
+      "note": "Cordons fortement moulurés et en saillie (confusion corniche/cordon) ; panneau explicatif visible."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Conduit métallique sous l'avant-toit, ne dépasse pas au-dessus d'un toit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Souche de cheminée en brique avec deux mitrons en terre cuite, émergeant d'un toit en tuiles avec solin en plomb.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Mundesley, Norfolk, Angleterre",
+      "note": "Souche dominante et parfaitement lisible au-dessus de la couverture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bas d'une souche en brique coupée en haut, avec un large solin en plomb sur des tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Trimingham, Norfolk, Angleterre",
+      "note": "Souche tronquée ; le sujet est le solin."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Haute souche double en brique à couronnement mouluré sur un toit de chaume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Northrepps, Norfolk, Angleterre",
+      "note": "Bonne image mais moins nette que les trois retenues (maximum 3)."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Souche de cheminée en brique à corniche de couronnement portant huit mitrons, sur un toit en tuiles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Sheringham, Norfolk, Angleterre",
+      "note": "Souche dominante et lisible, émergence du toit claire."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Souche en brique avec trois mitrons, sortant d'un toit de chaume avec solin en plomb.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Mundesley, Norfolk, Angleterre",
+      "note": "Souche dominante, lecture immédiate."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Souche massive en brique à niches, émergeant d'un toit de chaume, câbles en travers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Northrepps, Norfolk, Angleterre",
+      "note": "Bonne mais câbles en travers ; trois meilleures déjà retenues."
     }
   ]
 }

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Ballylarkin, Irlande",
       "note": "Corbeau, pas une console à volute (confusion console / corbeau)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade baroque en grès à mascarons et balcon en fer forgé ; le balcon et ses supports sont coupés en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Strasbourg, France",
+      "note": "Consoles hors cadre ou à peine visibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade georgienne à fronton, balustrades et fenêtres à frontons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Crich, Derbyshire, Angleterre",
+      "note": "Pas de console lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Portail cintré surmonté d'un balcon fleuri porté par trois fines consoles en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Strasbourg, France",
+      "note": "Consoles métalliques grêles, peu lisibles sur téléphone ; panneau d'hôtel visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façades d'anciens bâtiments en pierre avec inscription « Burnley Corporation Tramways ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Crich, Derbyshire, Angleterre",
+      "note": "Consoles minuscules ; texte visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Palais en pierre dont le balcon supérieur à garde-corps en fonte repose sur une série de consoles sculptées en volute.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.705,
+        "y": 0.11,
+        "largeur": 0.13,
+        "hauteur": 0.1
+      },
+      "lieu": "Kotor, Monténégro",
+      "note": "Consoles galbées en volute portant un balcon : définition exacte ; rectangle sur une console bien éclairée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Lanterne murale sur potence métallique fixée à une platine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Monmouth, Pays de Galles",
+      "note": "Support d'éclairage, pas une console architecturale."
     }
   ]
 }

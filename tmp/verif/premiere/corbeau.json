@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Kokand, Ouzbékistan",
       "note": "Ce sont des consoles décoratives (volutes, cannelures), pas des corbeaux."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur en pierre sèche avec une pierre sculptée d'un visage, vue de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Inisheer, Irlande",
+      "note": "Vu de face, la saillie et la fonction porteuse ne se lisent pas ; ressemble à un simple masque."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Relief sculpté de six apôtres sous arcatures, posé sur deux blocs de granit en saillie sur le mur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.155,
+        "y": 0.81,
+        "largeur": 0.17,
+        "hauteur": 0.165
+      },
+      "lieu": "Château de Lebenberg, Tyrol du Sud, Italie",
+      "note": "Bloc de pierre simple en saillie portant la tablette : corbeau typique (non galbé, donc pas une console) ; rectangle sur le bloc de gauche."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Château néogothique avec tours crénelées et porche, visiteurs au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eastnor Castle, Herefordshire, Angleterre",
+      "note": "Corbeaux de mâchicoulis minuscules ; confusion avec mâchicoulis/créneaux."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cour du château vue à travers un cèdre, tour crénelée au centre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eastnor Castle, Herefordshire, Angleterre",
+      "note": "Aucun corbeau lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Murs du château en contre-plongée, ciel dominant, façade sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eastnor Castle, Herefordshire, Angleterre",
+      "note": "Aucun corbeau lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cour gravillonnée avec à gauche une façade du château portant une rangée de petits corbeaux sous un parapet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eastnor Castle, Herefordshire, Angleterre",
+      "note": "Corbeaux petits, à contre-jour et dans l'ombre."
     }
   ]
 }
