@@ -1,0 +1,53 @@
+{
+  "termId": "brique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de briques sombres et très encrassées autour d'un oculus à claustra en ciment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Huế, Viêt Nam",
+      "note": "Briques noircies et salies, l'élément central est la fenêtre ronde enduite ; moins caractéristique que 03 et 04."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bâtiment bas en briques rouges avec fenêtres grillagées, panneau, cour pavée et toit en ardoises à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rendsburg, Allemagne",
+      "note": "Vue d'ensemble d'un bâtiment, matériau peu lisible en détail sur téléphone ; toiture en ardoise visible (confusion possible)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan d'un appareil de briques rouges en saillie alternée, joints de mortier bien visibles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Nessebar, Bulgarie",
+      "note": "Briques cuites nettes et dominantes, texture et appareillage sans ambiguïté."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade de grange en briques jaunes et rouges appareillées, avec arcs en briques et portes rouges.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Dudzele (Bruges), Belgique",
+      "note": "Mur de briques occupant toute l'image, appareillage net ; les portes en bois ne correspondent à aucun matériau de la liste."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Relief sculpté d'armoiries en pierre sur un mur de briques partiellement enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Szekszárd, Hongrie",
+      "note": "Le relief sculpté domine ; brique secondaire et partiellement enduite."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur mixte en galets ronds noyés dans le mortier avec motifs de briques rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil mixte galets/briques : les galets dominent, ambigu (moellon possible)."
+    }
+  ]
+}

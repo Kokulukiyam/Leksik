@@ -2,5 +2,13 @@ node_modules/
 .next/
 next-env.d.ts
 *.tsbuildinfo
-tmp/
+# Dossier de travail : seuls les résultats de vérification et les métadonnées Commons sont versionnés
+tmp/*
+!tmp/verif/
+tmp/verif/*
+!tmp/verif/premiere/
+!tmp/verif/contre/
+!tmp/commons/
+tmp/commons/*/*
+!tmp/commons/*/meta.json
 __pycache__/

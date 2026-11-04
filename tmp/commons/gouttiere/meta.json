@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "gouttiere",
+    "terme": "la gouttière",
+    "categorie": "Toitures",
+    "definition": "Canal fixé au bas d'un toit qui recueille les eaux de pluie.",
+    "requetes": [
+      "incategory:\"Rain gutters\"",
+      "gouttière toit"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bukchon Hanok Village 09.jpg",
+      "description": "Gargouille dans le quartier hanok de Bukchon, Séoul",
+      "categories": [
+        "CC-Zero",
+        "Rain gutters",
+        "Bukchon Hanok Village",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Gargoyles in South Korea"
+      ],
+      "auteur": "Bgag",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Bukchon_Hanok_Village_09.jpg/1280px-Bukchon_Hanok_Village_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3924,
+      "hauteur": 2616
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fisherman house in Laos.jpg",
+      "description": "Maison en bois sur pilotis avec murs en bambou, 4 filets de pêche suspendus et un système de récupération d'eau de pluie à Don Det, Laos",
+      "categories": [
+        "Water in Laos",
+        "Ecodesign",
+        "Rain gutters",
+        "Fishing nets",
+        "Fishing in Laos",
+        "Don Det",
+        "Self-published work",
+        "Water pots",
+        "Wooden houses in Laos",
+        "Stilt houses in Laos",
+        "Bambooworks of Laos",
+        "August 2017 Laos photographs",
+        "Files with coordinates missing SDC location of creation",
+        "Laos photographs taken on 2017-08-21",
+        "Photographs by Basile Morin",
+        "Water barrels",
+        "Bamboo buildings"
+      ],
+      "auteur": "Basile Morin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fisherman_house_in_Laos.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Fisherman_house_in_Laos.jpg/1280px-Fisherman_house_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6586,
+      "hauteur": 4391
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Abschnitt GSK Hof 20200704 DSC2619.jpg",
+      "description": "Ein Abschnitt der Grundschule Krötenbruck in Hof, hier in der Mitte ist die Regenrinne.",
+      "categories": [
+        "Taken with Sony ILCE-7",
+        "Rain gutters",
+        "Self-published work",
+        "Hof (Saale) photographs taken on 2020-07-04",
+        "Files with coordinates missing SDC location of creation (50° N, 11° E)",
+        "Photographs of Hof (Saale) by PantheraLeo1359531",
+        "Grundschule Krötenbruck in 2020",
+        "Photographs created by PantheraLeo1359531 on 2020-07-04"
+      ],
+      "auteur": "PantheraLeo1359531",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abschnitt_GSK_Hof_20200704_DSC2619.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Abschnitt_GSK_Hof_20200704_DSC2619.jpg/1280px-Abschnitt_GSK_Hof_20200704_DSC2619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:11-11-24-basel-by-ralfr-176.jpg",
+      "description": "Basel",
+      "categories": [
+        "Taken with Nikon D300s",
+        "GFDL-1.2",
+        "FAL",
+        "Rain gutters",
+        "Sculptures in Basel",
+        "Supported by Wikimedia Österreich",
+        "Sculptures of fish in Switzerland",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ralf Roletschek ( talk )",
+      "licence": "FAL",
+      "lien": "https://commons.wikimedia.org/wiki/File:11-11-24-basel-by-ralfr-176.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/11-11-24-basel-by-ralfr-176.jpg/1280px-11-11-24-basel-by-ralfr-176.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Descente d'eaux gargouille.jpg",
+      "description": "Détail d'une descente d'eau, gouttière, avec une gargouille. Paris.",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "CC-Zero",
+        "Drain pipes",
+        "Rain gutters",
+        "Hôtel Gaillard",
+        "Self-published work",
+        "Gargoyles in Paris",
+        "France photographs taken on 2012-05-17",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Descente_d%27eaux_gargouille.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Descente_d%27eaux_gargouille.jpg/1280px-Descente_d%27eaux_gargouille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2008,
+      "hauteur": 3152
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Vogelnest Aradul Nou station.jpg",
+      "description": "Een vogelnest boven een goot",
+      "categories": [
+        "Rain gutters",
+        "Bird nests",
+        "Self-published work",
+        "Passeridae in Romania",
+        "Passer domesticus nests",
+        "Arad Aradul Nou railway station"
+      ],
+      "auteur": "Smiley.toerist",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vogelnest_Aradul_Nou_station.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vogelnest_Aradul_Nou_station.jpg/1280px-Vogelnest_Aradul_Nou_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

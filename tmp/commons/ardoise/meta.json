@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "ardoise",
+    "terme": "l'ardoise",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
+    "requetes": [
+      "incategory:\"Slate roofs\"",
+      "slate roof"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Црква „Св. Петка“ - Маловиште.jpg",
+      "description": "St. Petka Church in the village of Malovište, Bitola Municipality, North Macedonia.",
+      "categories": [
+        "Clouds and blue sky in North Macedonia",
+        "Slate roofs",
+        "St. Petka Church (Malovište)",
+        "Self-published work",
+        "Featured pictures of churches in North Macedonia",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures by Kiril Simeonovski",
+        "Taken with Canon EOS 250D",
+        "North Macedonia photographs taken on 2025-06-21",
+        "Wikiexpedition to Caparsko Pole and Dragor Valley",
+        "Featured pictures from Macedonian Wikiexpeditions"
+      ],
+      "auteur": "Kiril Simeonovski",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%E2%80%9E%D0%A1%D0%B2._%D0%9F%D0%B5%D1%82%D0%BA%D0%B0%E2%80%9C_-_%D0%9C%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D1%88%D1%82%D0%B5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%E2%80%9E%D0%A1%D0%B2._%D0%9F%D0%B5%D1%82%D0%BA%D0%B0%E2%80%9C_-_%D0%9C%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D1%88%D1%82%D0%B5.jpg/1280px-%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%E2%80%9E%D0%A1%D0%B2._%D0%9F%D0%B5%D1%82%D0%BA%D0%B0%E2%80%9C_-_%D0%9C%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D1%88%D1%82%D0%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Turretted house at 4714 Mussetter Rd., Ijamsville, MD.jpg",
+      "description": "House displaying Ijamsville slate roofing on turret, across railroad tracks from old Ijams Mill site. Located at 4714 Mussetter Rd., Ijamsville, MD. Built around 1870. Listed in Maryland Historical Trust Inventory F-5-12.",
+      "categories": [
+        "Taken with Olympus Tough TG-860",
+        "Slate roofs",
+        "Houses in Frederick County, Maryland",
+        "Self-published work",
+        "1870s houses in Maryland",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "M. Bernier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Turretted_house_at_4714_Mussetter_Rd.,_Ijamsville,_MD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Turretted_house_at_4714_Mussetter_Rd.%2C_Ijamsville%2C_MD.jpg/1280px-Turretted_house_at_4714_Mussetter_Rd.%2C_Ijamsville%2C_MD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cavigliano 080215.jpg",
+      "description": "House in Cavigliano.",
+      "categories": [
+        "Cavigliano",
+        "Slate roofs",
+        "Self-published work",
+        "Telephone poles in Switzerland",
+        "Arecaceae in the canton of Ticino"
+      ],
+      "auteur": "NAC",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cavigliano_080215.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cavigliano_080215.jpg/1280px-Cavigliano_080215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1365,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Toitardoise.jpg",
+      "description": "toit ardoise",
+      "categories": [
+        "GFDL",
+        "Slate roofs",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Kou07kou",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Toitardoise.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Toitardoise.jpg/1280px-Toitardoise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2084,
+      "hauteur": 1456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cappella Comoi 160212 1.JPG",
+      "description": "Cross over the slate roof of a chapel at Comoi, Tegna. In the background the Lugano Prealps.",
+      "categories": [
+        "Tegna",
+        "Slate roofs",
+        "Self-published work",
+        "Metallic crosses in Switzerland",
+        "Christian crosses in Switzerland",
+        "Switzerland photographs taken on 2012-02-16",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "NAC",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cappella_Comoi_160212_1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Cappella_Comoi_160212_1.JPG/1280px-Cappella_Comoi_160212_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Epl312 7241665.jpg",
+      "description": "Chapel in Tegna.",
+      "categories": [
+        "Chapels in Switzerland",
+        "Taken with Olympus E-PL3",
+        "Madonna and Child",
+        "Tegna",
+        "Slate roofs",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "tomasz przechlewski from Sopot, Poland",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Epl312_7241665.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Epl312_7241665.jpg/1280px-Epl312_7241665.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

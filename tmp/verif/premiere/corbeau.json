@@ -1,0 +1,53 @@
+{
+  "termId": "corbeau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Corbeau sculpté d'un buste humain et d'acanthes, objet de musée posé contre un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Metropolitan Museum of Art, New York",
+      "note": "Pièce de musée isolée, ne porte rien : lue comme une sculpture et non comme un corbeau en place."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Même corbeau sculpté photographié en studio sur fond sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Metropolitan Museum of Art, New York",
+      "note": "Objet de musée hors contexte, fonction de support invisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ruines du cloître de Kells Priory : murs de pierre et pelouse, corbeaux minuscules au haut du mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kells Priory, Irlande",
+      "note": "Corbeaux trop petits et peu lisibles, surtout sur téléphone."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rue de Carthagène avec balcons courbes portés par des supports blancs à profil chantourné et balcons de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Carthagène, Colombie",
+      "note": "Supports à profil en volute : ce sont plutôt des consoles (confusion console/corbeau)."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fragment de pierre érodé à décor d'aigle exposé en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Musée archéologique de Strasbourg, France",
+      "note": "Fragment illisible hors contexte, décrit comme modillon."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Encadrement de fenêtre dont la corniche est portée par deux supports blancs cannelés à volutes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kokand, Ouzbékistan",
+      "note": "Ce sont des consoles décoratives (volutes, cannelures), pas des corbeaux."
+    }
+  ]
+}

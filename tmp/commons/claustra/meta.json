@@ -1,0 +1,165 @@
+{
+  "terme": {
+    "id": "claustra",
+    "terme": "le claustra",
+    "categorie": "Façade et ouvertures",
+    "definition": "Paroi ajourée faite d'éléments assemblés en béton, terre cuite ou bois, qui laisse passer l'air et la lumière.",
+    "requetes": [
+      "incategory:\"Breeze blocks\"",
+      "claustra",
+      "cobogó"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Stone lattice, Windsor, Ontario, 2026-05-09 02.jpg",
+      "description": "Breeze blocks forming a stone lattice on the outer wall of the William Anderson Hydro Substation, Windsor, Ontario, Canada, 2026-05-09",
+      "categories": [
+        "Breeze blocks",
+        "Self-published work",
+        "Featured pictures on Commons by Chris Woodrich",
+        "FoP-Canada",
+        "Files with Assessments template missing SDC Commons quality assessment",
+        "Black and white photographs of Canada in the 2020s",
+        "Featured pictures of texture photography",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Canon EOS R6 Mark II",
+        "Latticework in Canada",
+        "Sculptures in Windsor, Ontario",
+        "Photographs of sculptures by Chris Woodrich",
+        "Canada photographs taken on 2026-05-09",
+        "May 2026 in Windsor, Ontario",
+        "William Anderson Hydro Substation"
+      ],
+      "auteur": "Chris Woodrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stone_lattice,_Windsor,_Ontario,_2026-05-09_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Stone_lattice%2C_Windsor%2C_Ontario%2C_2026-05-09_02.jpg/1280px-Stone_lattice%2C_Windsor%2C_Ontario%2C_2026-05-09_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4344,
+      "hauteur": 3245
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Breeze-block facade of a high-rise building in Porlamar, Margarita Island, Venezuela.jpg",
+      "description": "Bâtiment à Isla Margarita",
+      "categories": [
+        "Taken with Nikon D300",
+        "CC-Zero",
+        "Porlamar",
+        "Breeze blocks",
+        "Self-published work",
+        "Wikiviajes por Venezuela 2014",
+        "Files with coordinates missing SDC location of creation",
+        "Venezuela photographs taken on 2014-05-12",
+        "Files by Wilfredor",
+        "Images of Venezuela by User:Wilfredor",
+        "Photographs of Isla Margarita by Wilfredor",
+        "Buildings in Margarita Island",
+        "Buildings in Porlamar",
+        "Images from Wikiviajes por Venezuela 2014"
+      ],
+      "auteur": "Wilfredor",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Breeze-block_facade_of_a_high-rise_building_in_Porlamar,_Margarita_Island,_Venezuela.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Breeze-block_facade_of_a_high-rise_building_in_Porlamar%2C_Margarita_Island%2C_Venezuela.jpg/1280px-Breeze-block_facade_of_a_high-rise_building_in_Porlamar%2C_Margarita_Island%2C_Venezuela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3295,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Stahl House Breeze Blocks.jpg",
+      "description": "Midcentury modern breeze blocks at the Stahl House",
+      "categories": [
+        "Images from Wiki Loves Monuments 2019",
+        "Breeze blocks",
+        "Images from Wiki Loves Monuments 2019 in California",
+        "Self-published work",
+        "National Register of Historic Places with known IDs",
+        "Uploaded via Campaign:wlm-us",
+        "United States photographs taken on 2019-03-23",
+        "Images from Wiki Loves Monuments 2019 in the United States",
+        "Wiki Loves Monuments 2019 in the United States unreviewed",
+        "Stahl House"
+      ],
+      "auteur": "Codera23",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stahl_House_Breeze_Blocks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Stahl_House_Breeze_Blocks.jpg/1280px-Stahl_House_Breeze_Blocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Stone lattice, Windsor, Ontario, 2026-05-09 01.jpg",
+      "description": "Stone lattice, Windsor, Ontario, 2026-05-09",
+      "categories": [
+        "Breeze blocks",
+        "Self-published work",
+        "FoP-Canada",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Canon EOS R6 Mark II",
+        "Latticework in Canada",
+        "Sculptures in Windsor, Ontario",
+        "Photographs of sculptures by Chris Woodrich",
+        "Canada photographs taken on 2026-05-09",
+        "May 2026 in Windsor, Ontario",
+        "William Anderson Hydro Substation"
+      ],
+      "auteur": "Chris Woodrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stone_lattice,_Windsor,_Ontario,_2026-05-09_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Stone_lattice%2C_Windsor%2C_Ontario%2C_2026-05-09_01.jpg/1280px-Stone_lattice%2C_Windsor%2C_Ontario%2C_2026-05-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5241,
+      "hauteur": 3494
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Pierced glazed Chinese tile, pre-1927, ceramic, Honolulu Museum of Art.jpg",
+      "description": "Pierced glazed Chinese tile, pre-1927, ceramic, Honolulu Museum of Art",
+      "categories": [
+        "Tiles in China",
+        "CC-Zero",
+        "Breeze blocks",
+        "Self-published work",
+        "Chinese ceramics in the Honolulu Museum of Art",
+        "Architectural elements in the Honolulu Museum of Art",
+        "Green tiles"
+      ],
+      "auteur": "Hiart",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pierced_glazed_Chinese_tile,_pre-1927,_ceramic,_Honolulu_Museum_of_Art.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Pierced_glazed_Chinese_tile%2C_pre-1927%2C_ceramic%2C_Honolulu_Museum_of_Art.jpg/1280px-Pierced_glazed_Chinese_tile%2C_pre-1927%2C_ceramic%2C_Honolulu_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1655,
+      "hauteur": 1630
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blue corner house with Virgen del Valle mural in Los Gómez, Margarita Island, Venezuela.jpg",
+      "description": "Maison à Margarita Island",
+      "categories": [
+        "Taken with Nikon D300",
+        "CC-Zero",
+        "Corner buildings",
+        "Breeze blocks",
+        "Self-published work",
+        "Blue facades",
+        "Colonial architecture in Isla Margarita",
+        "Wikiviajes por Venezuela 2014",
+        "Files with coordinates missing SDC location of creation",
+        "Our Lady of the Valley",
+        "Files by Wilfredor",
+        "Images of Venezuela by User:Wilfredor",
+        "Photographs of Isla Margarita by Wilfredor",
+        "Old Houses of Margarita Island by Wilfredor",
+        "Images from Wikiviajes por Venezuela 2014"
+      ],
+      "auteur": "Wilfredor",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_corner_house_with_Virgen_del_Valle_mural_in_Los_G%C3%B3mez,_Margarita_Island,_Venezuela.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Blue_corner_house_with_Virgen_del_Valle_mural_in_Los_G%C3%B3mez%2C_Margarita_Island%2C_Venezuela.jpg/1280px-Blue_corner_house_with_Virgen_del_Valle_mural_in_Los_G%C3%B3mez%2C_Margarita_Island%2C_Venezuela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3786,
+      "hauteur": 2515
+    }
+  ]
+}

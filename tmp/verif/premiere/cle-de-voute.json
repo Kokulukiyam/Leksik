@@ -1,0 +1,53 @@
+{
+  "termId": "cle-de-voute",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade de brique avec un cartouche à inscription grecque, un médaillon sculpté et, au sommet d'un arc de brique, une petite pierre ornée d'une croix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Copenhague, Danemark",
+      "note": "La pierre au sommet de l'arc est petite et peu lisible ; l'inscription et le médaillon dominent l'image."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau d'information d'église (texte en espagnol et basque) avec photos de clés en bois polychrome.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Domaikia, Espagne",
+      "note": "Panneau explicatif et non photo d'un élément en place ; le texte donne la réponse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Encadrement de porte victorien blanc : arc plein cintre sur colonnettes, dont la pierre sommitale est sculptée d'une tête barbue.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.41, "y": 0.34, "largeur": 0.18, "hauteur": 0.20 },
+      "lieu": "Leytonstone, Londres, Royaume-Uni",
+      "note": "Clé d'arc sculptée bien visible au sommet de l'arc ; rectangle pour écarter arc et chapiteaux. Photo de nuit mais lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Page de publicité imprimée de 1918 en forme de clé de voûte (The New York Globe).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Document imprimé, pas une photo d'architecture ; texte « Keystone »."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte cintrée à grille en fer forgé, Buenos Aires, avec au sommet de l'arc une clé saillante en forme de console sculptée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buenos Aires, Argentine",
+      "note": "Clé très saillante en forme de console, risque de confusion console/corbeau ; deux meilleures candidates retenues."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte en bois cintrée dans une façade à refends, l'arc de granit appareillé étant fermé par une clé trapézoïdale surmontée d'une corbeille sculptée.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.43, "y": 0.19, "largeur": 0.14, "hauteur": 0.09 },
+      "lieu": "Stockholm, Suède",
+      "note": "Clé nettement lisible entre les claveaux de l'arc ; rectangle pour la distinguer de l'arc et du décor sculpté au-dessus."
+    }
+  ]
+}

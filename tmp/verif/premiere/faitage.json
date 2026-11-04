@@ -1,0 +1,11 @@
+{
+  "termId": "faitage",
+  "candidats": [
+    {"fichier": "01.jpg", "vu": "Extrémité sculptée en tête de cheval d'une poutre faîtière (okhloupen) d'une maison en bois russe.", "verdict": "rejetée", "rectangle": null, "lieu": "Iavzora, oblast d'Arkhangelsk, Russie", "note": "Montre l'ornement d'about plutôt que la ligne de faîtage ; confusion possible avec un épi de faîtage."},
+    {"fichier": "02.jpg", "vu": "Toit métallique vu d'en haut avec sa ligne de faîte, une tourelle ronde à toit conique et un bâtiment en pierre.", "verdict": "rejetée", "rectangle": null, "lieu": "Québec, Canada", "note": "La tourelle domine ; la ligne de faîte pourrait aussi être prise pour un arêtier."},
+    {"fichier": "03.jpg", "vu": "Maison cévenole en pierre avec toit de lauzes, vu de côté ; ligne de faîtage en lauzes en haut du versant.", "verdict": "validée", "rectangle": {"x": 0.16, "y": 0.395, "largeur": 0.62, "hauteur": 0.065}, "lieu": "Sainte-Croix-Vallée-Française, France", "note": "Ligne de faîtage nette ; rectangle indispensable pour écarter gouttière et versant."},
+    {"fichier": "04.jpg", "vu": "Gros plan d'une rangée de tuiles faîtières canal posées sur closoir souple, au sommet d'un toit de tuiles.", "verdict": "validée", "rectangle": null, "lieu": "", "note": "Faîtage en tuiles canal occupant l'image ; définition Commons explicite (faîtage ventilé)."},
+    {"fichier": "05.jpg", "vu": "Croisée de planches sculptées en têtes de dragon au pignon d'un toit de chaume viking reconstitué.", "verdict": "rejetée", "rectangle": null, "lieu": "Trelleborg (Slagelse), Danemark", "note": "Montre une croix de pignon décorative, pas le faîtage ; chaume visible."},
+    {"fichier": "06.jpg", "vu": "Toit de tuiles canal vu d'en haut, ligne de tuiles de recouvrement au centre entre deux versants.", "verdict": "rejetée", "rectangle": null, "lieu": "Dubrovnik, Croatie", "note": "Impossible de trancher entre faîtage et arêtier (le bas forme un angle d'égout) ; doute."}
+  ]
+}

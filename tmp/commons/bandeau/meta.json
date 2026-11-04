@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "bandeau",
+    "terme": "le bandeau",
+    "categorie": "Ornement",
+    "definition": "Bande horizontale peu saillante, lisse ou moulurée, qui marque les niveaux d'une façade.",
+    "requetes": [
+      "deepcat:\"String courses\"",
+      "string course facade"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tenement house, 50 Grodzka street, Kraków, Poland.jpg",
+      "description": "Tenement house, 50 Grodzka Street, Kraków, Poland",
+      "categories": [
+        "50 Grodzka Street in Kraków",
+        "Self-published work",
+        "Cultural heritage monuments in Poland with known IDs",
+        "Uploaded via Campaign:wlm-pl",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Poland missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025",
+        "User:Igor123121",
+        "Images from Wiki Loves Monuments 2025 in an unknown country"
+      ],
+      "auteur": "Igor123121",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tenement_house,_50_Grodzka_street,_Krak%C3%B3w,_Poland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tenement_house%2C_50_Grodzka_street%2C_Krak%C3%B3w%2C_Poland.jpg/1280px-Tenement_house%2C_50_Grodzka_street%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3992,
+      "hauteur": 5232
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Tenement house, 10 Bracka street, Kraków, Poland.jpg",
+      "description": "Tenement house, 10 Bracka street, Kraków, Poland",
+      "categories": [
+        "10 Bracka Street in Kraków",
+        "Self-published work",
+        "Cultural heritage monuments in Poland with known IDs",
+        "Uploaded via Campaign:wlm-pl",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Poland missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in Poland",
+        "User:Igor123121"
+      ],
+      "auteur": "Igor123121",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tenement_house,_10_Bracka_street,_Krak%C3%B3w,_Poland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Tenement_house%2C_10_Bracka_street%2C_Krak%C3%B3w%2C_Poland.jpg/1280px-Tenement_house%2C_10_Bracka_street%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3365,
+      "hauteur": 5148
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Tenement house, 1900, 7 Kalwaryjska street, Kraków, Poland.jpg",
+      "description": "Tenement house, 1900, 7 Kalwaryjska street, Kraków, Poland",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "7 Kalwaryjska Street in Kraków",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cultural heritage monuments in Poland missing SDC location of creation",
+        "Cultural heritage monuments in Poland missing SDC depicts",
+        "Cultural heritage monuments in Poland with old known IDs",
+        "User:Igor123121"
+      ],
+      "auteur": "Igor123121",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tenement_house,_1900,_7_Kalwaryjska_street,_Krak%C3%B3w,_Poland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Tenement_house%2C_1900%2C_7_Kalwaryjska_street%2C_Krak%C3%B3w%2C_Poland.jpg/1280px-Tenement_house%2C_1900%2C_7_Kalwaryjska_street%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4440,
+      "hauteur": 3197
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tenement house, 1930, 6 Juliusza Słowackiego avenue, Kraków, Poland.jpg",
+      "description": "Tenement house, 1930, 6 Juliusza Słowackiego avenue, Kraków, Poland",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cultural heritage monuments in Poland missing SDC location of creation",
+        "Cultural heritage monuments in Poland missing SDC depicts",
+        "Cultural heritage monuments in Poland with old known IDs",
+        "User:Igor123121",
+        "6 Juliusza Słowackiego Avenue in Kraków"
+      ],
+      "auteur": "Igor123121",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tenement_house,_1930,_6_Juliusza_S%C5%82owackiego_avenue,_Krak%C3%B3w,_Poland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tenement_house%2C_1930%2C_6_Juliusza_S%C5%82owackiego_avenue%2C_Krak%C3%B3w%2C_Poland.jpg/1280px-Tenement_house%2C_1930%2C_6_Juliusza_S%C5%82owackiego_avenue%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3301,
+      "hauteur": 4895
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Tenement house, 50 Grodzka street, Kraków, Poland (1).jpg",
+      "description": "Tenement house, 50 Grodzka Street, Kraków, Poland",
+      "categories": [
+        "50 Grodzka Street in Kraków",
+        "Self-published work",
+        "Cultural heritage monuments in Poland with known IDs",
+        "Uploaded via Campaign:wlm-pl",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Poland missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025",
+        "Windows in Kraków",
+        "User:Igor123121",
+        "Images from Wiki Loves Monuments 2025 in an unknown country"
+      ],
+      "auteur": "Igor123121",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tenement_house,_50_Grodzka_street,_Krak%C3%B3w,_Poland_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Tenement_house%2C_50_Grodzka_street%2C_Krak%C3%B3w%2C_Poland_%281%29.jpg/1280px-Tenement_house%2C_50_Grodzka_street%2C_Krak%C3%B3w%2C_Poland_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Tenement house, 1884 design. Karol Żychoń, 5 Karmelicka Street, Kraków. Poland.jpg",
+      "description": "Kraków, Karmelicka 5",
+      "categories": [
+        "5 Karmelicka Street in Kraków",
+        "Self-published work",
+        "Cultural heritage monuments in Poland with known IDs",
+        "Uploaded via Campaign:wlm-pl",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Poland missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025",
+        "User:Igor123121",
+        "Images from Wiki Loves Monuments 2025 in an unknown country"
+      ],
+      "auteur": "Igor123121",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tenement_house,_1884_design._Karol_%C5%BBycho%C5%84,_5_Karmelicka_Street,_Krak%C3%B3w._Poland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Tenement_house%2C_1884_design._Karol_%C5%BBycho%C5%84%2C_5_Karmelicka_Street%2C_Krak%C3%B3w._Poland.jpg/1280px-Tenement_house%2C_1884_design._Karol_%C5%BBycho%C5%84%2C_5_Karmelicka_Street%2C_Krak%C3%B3w._Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    }
+  ]
+}

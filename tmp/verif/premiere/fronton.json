@@ -1,0 +1,63 @@
+{
+  "termId": "fronton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fronton cintré brisé à volutes et cartouche portant le numéro 13 au-dessus d'une baie à trois fenêtres.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.08,
+        "largeur": 0.78,
+        "hauteur": 0.34
+      },
+      "lieu": "Stockholm, Suède",
+      "note": "Fronton cintré brisé typique, clairement en couronnement de la baie ; rectangle pour exclure consoles et entablement."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancienne gare avec locomotive à vapeur, bâtiment à arcades surmonté d'un pignon triangulaire avec panneau « PUEBLA ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Puebla, Mexique",
+      "note": "Fronton petit et lointain, confondable avec un pignon ; panneau de texte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand buffet en bois de 1600 avec petits frontons triangulaires et pilastres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nuremberg, Allemagne",
+      "note": "Meuble, pas architecture ; frontons minuscules."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fronton triangulaire d'église avec œil de la Providence rayonnant dans le tympan, statue au sommet, échafaudage en bambou.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.42,
+        "largeur": 1.0,
+        "hauteur": 0.46
+      },
+      "lieu": "Talisay, Cebu, Philippines",
+      "note": "Fronton triangulaire classique dominant ; rectangle couvrant tout le triangle (corniches rampantes comprises) pour ne pas désigner seulement le tympan."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche imprimée d'un projet de bas-relief pour fronton, avec légendes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Varsovie, Pologne",
+      "note": "Gravure/reproduction imprimée, pas une photo ; texte visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Encadrement de porte en pierre avec linteau à inscription latine datée 1788, surmonté d'un petit fronton triangulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rykynčice, Slovaquie",
+      "note": "Inscription et linteau dominants, fronton aplati et coupé en haut."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "lanterneau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue intérieure vers le haut d'une coupole octogonale vitrée de marché couvert avec lustres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Vue intérieure d'une verrière/coupole : ne montre pas un élément en saillie sur un toit."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toiture vitrée pyramidale sur toit-terrasse, surmontée d'un petit lanterneau vitré à quatre pans.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lanterneau vitré en saillie sur le toit, clair et dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue intérieure vers le haut d'une structure vitrée à montants blancs contre une façade de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue intérieure ressemblant à une véranda ; saillie sur un toit non lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Église en pierre avec tour, dont le toit de nef porte une petite pyramide vitrée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.46,
+        "y": 0.43,
+        "largeur": 0.09,
+        "hauteur": 0.15
+      },
+      "lieu": "Skellingthorpe, Angleterre",
+      "note": "Petite pyramide vitrée en saillie sur le toit ; cadre indispensable (tour, lucarnes possibles), élément assez petit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Capitole de l'Indiana de nuit, avec dôme et façade éclairée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Indianapolis, États-Unis",
+      "note": "Lanterneaux non visibles ; le dôme domine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Capitole de l'Indiana de nuit vu d'un parking.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Indianapolis, États-Unis",
+      "note": "Aucun lanterneau discernable."
+    }
+  ]
+}

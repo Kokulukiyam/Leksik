@@ -1,0 +1,116 @@
+{
+  "terme": {
+    "id": "tuile",
+    "terme": "la tuile",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Élément de couverture en terre cuite ou en béton, posé en recouvrement sur un toit.",
+    "requetes": [
+      "incategory:\"Roof tiles\"",
+      "clay roof tiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Grythengen møne tette regn takpanner takstein 01.jpg",
+      "description": "Tetting for inntrengning av regn under takstein på møne på våningshus.",
+      "categories": [
+        "Roof tiles",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grythengen_m%C3%B8ne_tette_regn_takpanner_takstein_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Grythengen_m%C3%B8ne_tette_regn_takpanner_takstein_01.jpg/1280px-Grythengen_m%C3%B8ne_tette_regn_takpanner_takstein_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Tiles (251207197).jpeg",
+      "description": "500px provided description: Tiles [#roof ,#dof ,#roofing ,#tiles ,#ceramic]",
+      "categories": [
+        "Roof tiles",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Kevin Doncaster",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tiles_(251207197).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Tiles_%28251207197%29.jpeg/1280px-Tiles_%28251207197%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1366
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pile of red clay roof tiles from Basque Whalers.JPG",
+      "description": "Pile of red clay roof tiles from Basque Whalers",
+      "categories": [
+        "Taken with Canon EOS 350D",
+        "Whaling in Canada",
+        "Roof tiles",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2013",
+        "Heritage properties in Canada with known IDs",
+        "Images from Wiki Loves Monuments 2013 in Canada",
+        "Uploaded via Campaign:wlm-ca",
+        "Canada photographs taken on 2009-08-04",
+        "Red Bay National Historic Site",
+        "August 2009 in Newfoundland and Labrador",
+        "Basque whaling"
+      ],
+      "auteur": "Acunsolo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pile_of_red_clay_roof_tiles_from_Basque_Whalers.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Pile_of_red_clay_roof_tiles_from_Basque_Whalers.JPG/1280px-Pile_of_red_clay_roof_tiles_from_Basque_Whalers.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:16-04-24 taktegl PermaLiv.jpg",
+      "description": "Roof tiles of Toten, Norway.",
+      "categories": [
+        "Roof tiles",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:16-04-24_taktegl_PermaLiv.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/16-04-24_taktegl_PermaLiv.jpg/1280px-16-04-24_taktegl_PermaLiv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Types of roof tiles 05.jpg",
+      "description": "Types of roof tiles",
+      "categories": [
+        "Roof tiles",
+        "Self-published work",
+        "Images uploaded by Ssemmanda will",
+        "Images from Luganda Wikipedia mentorship program 2025"
+      ],
+      "auteur": "Ssemmanda will",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Types_of_roof_tiles_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Types_of_roof_tiles_05.jpg/1280px-Types_of_roof_tiles_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8256,
+      "hauteur": 3753
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dachpfannenprofil anbringen.jpeg",
+      "description": "Dachpfannenprofil Nordblech Klassik auf Nebengebäude decken",
+      "categories": [
+        "Roof tiles",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "HNB Nordbleche GmbH",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannenprofil_anbringen.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Dachpfannenprofil_anbringen.jpeg/1280px-Dachpfannenprofil_anbringen.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    }
+  ]
+}

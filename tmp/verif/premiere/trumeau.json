@@ -1,0 +1,63 @@
+{
+  "termId": "trumeau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Portail gothique double éclairé de nuit, deux vantaux séparés par un pilier central orné d'une statue.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.466,
+        "y": 0.36,
+        "largeur": 0.072,
+        "hauteur": 0.42
+      },
+      "lieu": "Münster, Allemagne",
+      "note": "Pilier central divisant le portail, frontal et net ; rectangle pour l'isoler des piédroits."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Portail gothique de Thann, deux portes rouges séparées par un pilier central portant une Vierge.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.45,
+        "y": 0.555,
+        "largeur": 0.12,
+        "hauteur": 0.405
+      },
+      "lieu": "Thann, France",
+      "note": "Trumeau évident entre les deux portes ; rectangle sur le pilier central."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan d'une statue du Christ adossée à un pilier devant des portes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bourges, France",
+      "note": "Cadrage sur la statue : se lit comme une statue-colonne, le rôle de trumeau n'est pas visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan de la Vierge à l'Enfant sous un dais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Statue seule, la division du portail n'est pas visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tympan à remplage rayonnant sous une voussure, haut du portail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tarragone, Espagne",
+      "note": "Le trumeau n'est quasiment pas visible ; le tympan domine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade occidentale d'église avec grande verrière et portail double en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Münster, Allemagne",
+      "note": "Trumeau trop petit dans l'image ; doublon de 01."
+    }
+  ]
+}

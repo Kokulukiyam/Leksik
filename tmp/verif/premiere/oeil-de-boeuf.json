@@ -1,0 +1,58 @@
+{
+  "termId": "oeil-de-boeuf",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouverture circulaire moulurée au centre d'une façade du Louvre, encadrée de deux figures allégoriques en bas-relief.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Oeil-de-boeuf rond, central et dominant ; aucun autre élément ne peut être la réponse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grand hall blanc à nervures de la gare Oculus du World Trade Center avec la foule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Ce n'est pas un oeil-de-boeuf (homonymie « oculus » : bâtiment de Calatrava)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Lucarne cintrée à décor Art nouveau percée d'une fenêtre ronde, devant un toit d'ardoises et une grille faîtière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.39,
+        "y": 0.56,
+        "largeur": 0.25,
+        "hauteur": 0.33
+      },
+      "lieu": "Katowice, Pologne",
+      "note": "Petite fenêtre ronde dans un toit ; rectangle indispensable pour la distinguer de la lucarne qui la porte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coquillage (patelle Cymbula oculus) photographié sous plusieurs angles sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet : coquillage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Image au microscope électronique colorisée d'une diatomée circulaire verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet : diatomée au microscope."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vue en contre-plongée de la verrière zénithale linéaire de l'Oculus, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Verrière linéaire, pas une fenêtre ronde ; hors sujet."
+    }
+  ]
+}

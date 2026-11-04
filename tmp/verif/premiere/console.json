@@ -1,0 +1,53 @@
+{
+  "termId": "console",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur en ruine envahi par la végétation, avec une pierre en saillie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Churchclara, Irlande",
+      "note": "Corbeau (et non console) peu lisible, végétation dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessin au crayon d'un support sculpté avec mire de couleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Romainmôtier, Suisse",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Support sculpté d'une tête barbue sous une retombée, à l'intérieur d'une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Idmiston, Royaume-Uni",
+      "note": "Corbeau / cul-de-lampe figuré, pas une console galbée en S ou à volute (confusion console / corbeau)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Console de jeu Xbox One avec manette et Kinect sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Console de jeu vidéo, hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Haut de mur en ruine avec un corbeau de pierre sculpté d'écailles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ballylarkin, Irlande",
+      "note": "Corbeau en pierre simple, pas une console à volute (confusion console / corbeau)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Haut de mur en ruine avec un corbeau de pierre profilé sous une dalle saillante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ballylarkin, Irlande",
+      "note": "Corbeau, pas une console à volute (confusion console / corbeau)."
+    }
+  ]
+}

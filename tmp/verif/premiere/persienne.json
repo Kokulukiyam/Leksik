@@ -1,0 +1,58 @@
+{
+  "termId": "persienne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre aux deux volets blancs à lames inclinées ouverts, avec géraniums rouges sur l'appui.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Poreč, Croatie",
+      "note": "Persiennes à lames (avec tige de réglage) dominantes de part et d'autre de la baie ; aucun doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur de pierre du palais de Dioclétien avec deux fenêtres fermées par des volets blancs à lames et une colonne engagée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.13,
+        "y": 0.19,
+        "largeur": 0.24,
+        "hauteur": 0.2
+      },
+      "lieu": "Split, Croatie",
+      "note": "Persiennes fermées bien lisibles ; rectangle pour écarter la colonne engagée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fronton triangulaire orné d'une horloge et de rinceaux, avec en dessous trois petites fenêtres à persiennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kačina, République tchèque",
+      "note": "Le fronton et l'horloge dominent ; persiennes trop petites."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade jaune à fenêtres à persiennes brunes, balcon en fer forgé et grande enseigne « Sport Life ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bitola, Macédoine du Nord",
+      "note": "Texte publicitaire visible, persiennes petites, balcon concurrent."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur enduit gris avec une fenêtre aux volets verts à lames ouverts et des pots de fleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zadar, Croatie",
+      "note": "Persiennes correctes mais petites ; le rectangle engloberait la baie entière (confusion avec la fenêtre) ; 01 et 02 sont meilleures."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade jaune d'immeuble ancien avec plusieurs fenêtres à persiennes, balcon en fer forgé, climatiseurs et devanture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bitola, Macédoine du Nord",
+      "note": "Image chargée : balcon, porte cintrée, imposte concurrents ; persiennes petites."
+    }
+  ]
+}

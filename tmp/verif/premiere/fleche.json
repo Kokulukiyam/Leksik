@@ -1,0 +1,63 @@
+{
+  "termId": "fleche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Silhouette d'une aiguille moderne très fine dressée sur un bâtiment, sur ciel orangé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contre-jour total : peut se lire comme une antenne ou un mât, aucun clocher ou tour identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Aiguille métallique autoportante posée au sol devant un bâtiment universitaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kalamazoo, États-Unis",
+      "note": "Sculpture au sol, ne couronne ni clocher ni tour."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Planche de dessins d'hôtels de ville et beffrois gothiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gravure du port de Hambourg avec voiliers et clocher à flèche au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hambourg, Allemagne",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade de briques flanquée de deux tours d'angle couronnées de flèches coniques métalliques élancées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.03,
+        "largeur": 0.12,
+        "hauteur": 0.34
+      },
+      "lieu": "Samarcande, Ouzbékistan",
+      "note": "Flèche conique élancée sur tour bien visible ; cadre sur la flèche de gauche, dégagée des arbres."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pavillon de bois d'une mosquée surmonté d'une haute flèche pyramidale en bois avec épi de faîtage.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.03,
+        "largeur": 0.31,
+        "hauteur": 0.44
+      },
+      "lieu": "Srinagar, Inde",
+      "note": "Couronnement pyramidal élancé sur une tour ; cadre sur la flèche pour écarter les toitures inférieures."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "termId": "garde-corps",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Garde-corps métallique jaune au bord d'un quai, devant le chenal d'un petit port avec bateaux et maisons à toits rouges.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.5,
+        "largeur": 0.62,
+        "hauteur": 0.4
+      },
+      "lieu": "Frombork, Pologne",
+      "note": "Barrière à barreaudage protégeant clairement le bord d'un vide (quai / eau) ; rectangle pour l'isoler du paysage portuaire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chaise longue sur le pont d'un ferry, derrière la lisse et les filières blanches du bateau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bastingage de navire, pas un garde-corps de bâtiment ; la chaise longue domine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chemin goudronné entre des prés, bordé de deux barrières tubulaires galvanisées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Richtenberg, Allemagne",
+      "note": "Barrières de bord de chemin sans vide apparent : ce sont plutôt des lisses de sécurité, terme hésitant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chemin de ronde de remparts avec merlons à queue d'aronde à gauche et garde-corps métallique noir côté vide à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Piran, Slovénie",
+      "note": "Le parapet crénelé maçonné est aussi un ouvrage de protection : confusion parapet / garde-corps, le garde-corps métallique est secondaire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Garde-corps en fer forgé à décor d'alambic au bord d'un palier, avec la cage d'escalier en arrière-plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.36,
+        "largeur": 0.76,
+        "hauteur": 0.6
+      },
+      "lieu": "Gdańsk, Pologne",
+      "note": "Garde-corps net et dominant au bord de la trémie d'escalier ; rectangle pour exclure la rampe de l'escalier du fond."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vue plongeante dans une cage d'escalier de magasin avec garde-corps en verre et inox sur plusieurs niveaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanovre, Allemagne",
+      "note": "Image confuse et chargée (escaliers, rayons, plafonds) ; garde-corps peu lisible sur téléphone."
+    }
+  ]
+}

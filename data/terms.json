@@ -1,0 +1,266 @@
+[
+  {
+    "id": "allege",
+    "terme": "l'allège",
+    "definition": "Partie de mur située sous une fenêtre, entre le plancher et l'appui de la baie.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "appui-de-fenetre",
+    "terme": "l'appui de fenêtre",
+    "definition": "Partie horizontale qui forme le bas d'une fenêtre, souvent en saillie pour rejeter l'eau de pluie.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "linteau",
+    "terme": "le linteau",
+    "definition": "Élément horizontal en pierre, bois ou béton qui ferme le haut d'une baie et porte la maçonnerie située au-dessus.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "meneau",
+    "terme": "le meneau",
+    "definition": "Montant vertical fixe, en pierre ou en bois, qui divise une fenêtre en plusieurs parties.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "trumeau",
+    "terme": "le trumeau",
+    "definition": "Pan de mur compris entre deux baies voisines ; dans un portail, pilier central qui en divise l'ouverture.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "tympan",
+    "terme": "le tympan",
+    "definition": "Surface, souvent sculptée, comprise entre le linteau et l'arc qui surmontent une porte.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "oeil-de-boeuf",
+    "terme": "l'œil-de-bœuf",
+    "definition": "Petite fenêtre ronde ou ovale percée dans un mur ou un toit.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "garde-corps",
+    "terme": "le garde-corps",
+    "definition": "Barrière à hauteur d'appui qui protège des chutes au bord d'un vide, comme un balcon, un escalier ou une terrasse.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "persienne",
+    "terme": "la persienne",
+    "definition": "Volet extérieur à lames inclinées qui laisse passer l'air tout en arrêtant le soleil.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "oriel",
+    "terme": "l'oriel",
+    "definition": "Avant-corps vitré en encorbellement sur une façade, sur un ou plusieurs étages.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "imposte",
+    "terme": "l'imposte",
+    "definition": "Partie vitrée, fixe ou ouvrante, située au-dessus d'une porte ou d'une fenêtre.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "brise-soleil",
+    "terme": "le brise-soleil",
+    "definition": "Ensemble de lames ou de panneaux fixés devant une façade pour la protéger du rayonnement solaire.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "claustra",
+    "terme": "le claustra",
+    "definition": "Paroi ajourée faite d'éléments assemblés en béton, terre cuite ou bois, qui laisse passer l'air et la lumière.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "pignon",
+    "terme": "le pignon",
+    "definition": "Partie supérieure, triangulaire, d'un mur qui porte les deux versants d'un toit.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "moucharabieh",
+    "terme": "le moucharabieh",
+    "definition": "Grillage de bois tourné à motifs, placé devant une fenêtre, qui permet de voir sans être vu.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "lucarne",
+    "terme": "la lucarne",
+    "definition": "Ouvrage en saillie sur un toit, muni d'une fenêtre verticale, qui éclaire le comble.",
+    "categorie": "Toitures"
+  },
+  {
+    "id": "gouttiere",
+    "terme": "la gouttière",
+    "definition": "Canal fixé au bas d'un toit qui recueille les eaux de pluie.",
+    "categorie": "Toitures"
+  },
+  {
+    "id": "faitage",
+    "terme": "le faîtage",
+    "definition": "Ligne de rencontre supérieure des deux versants d'un toit, et l'ouvrage qui la couvre.",
+    "categorie": "Toitures"
+  },
+  {
+    "id": "chaume",
+    "terme": "le chaume",
+    "definition": "Couverture de toit faite de paille, de roseaux ou d'herbes séchées.",
+    "categorie": "Toitures"
+  },
+  {
+    "id": "shed",
+    "terme": "le shed",
+    "definition": "Toiture en dents de scie dont un versant de chaque dent est vitré pour éclairer l'intérieur, typique des bâtiments industriels.",
+    "categorie": "Toitures"
+  },
+  {
+    "id": "fleche",
+    "terme": "la flèche",
+    "definition": "Couronnement très élancé, pyramidal ou conique, qui surmonte un clocher ou une tour.",
+    "categorie": "Toitures"
+  },
+  {
+    "id": "lanterneau",
+    "terme": "le lanterneau",
+    "definition": "Élément vitré posé en saillie sur un toit pour éclairer et parfois aérer l'espace situé dessous.",
+    "categorie": "Toitures"
+  },
+  {
+    "id": "colonne",
+    "terme": "la colonne",
+    "definition": "Support vertical de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "arc-boutant",
+    "terme": "l'arc-boutant",
+    "definition": "Arc extérieur qui reporte la poussée d'une voûte sur une culée éloignée du mur.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "contrefort",
+    "terme": "le contrefort",
+    "definition": "Massif de maçonnerie en saillie, appliqué contre un mur pour le renforcer et résister aux poussées.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "arc",
+    "terme": "l'arc",
+    "definition": "Élément courbe qui franchit une ouverture en reportant les charges sur ses appuis.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "voute",
+    "terme": "la voûte",
+    "definition": "Ouvrage de maçonnerie courbe qui couvre un espace, comme un plafond en forme d'arc.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "cle-de-voute",
+    "terme": "la clé de voûte",
+    "definition": "Pierre placée au sommet d'un arc ou d'une voûte, qui bloque les autres pierres.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "coupole",
+    "terme": "la coupole",
+    "definition": "Voûte hémisphérique ou ovoïde couvrant un espace, vue de l'intérieur.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "ferme",
+    "terme": "la ferme",
+    "definition": "Assemblage triangulé de pièces de bois ou de métal qui porte la couverture d'un toit.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "colombage",
+    "terme": "le colombage",
+    "definition": "Ossature de mur en pièces de bois apparentes dont les vides sont remplis de maçonnerie ou de torchis.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "pilotis",
+    "terme": "le pilotis",
+    "definition": "Ensemble de poteaux qui portent un bâtiment au-dessus du sol en laissant le rez-de-chaussée libre.",
+    "categorie": "Structure"
+  },
+  {
+    "id": "corniche",
+    "terme": "la corniche",
+    "definition": "Couronnement en saillie, généralement mouluré, qui termine le haut d'un mur ou d'une façade.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "fronton",
+    "terme": "le fronton",
+    "definition": "Couronnement triangulaire ou cintré qui surmonte une façade, une porte ou une fenêtre.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "chapiteau",
+    "terme": "le chapiteau",
+    "definition": "Partie supérieure, élargie et souvent sculptée, d'une colonne ou d'un pilastre.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "pilastre",
+    "terme": "le pilastre",
+    "definition": "Pilier plat engagé dans un mur, dont il ne dépasse que légèrement, souvent avec base et chapiteau.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "gargouille",
+    "terme": "la gargouille",
+    "definition": "Déversoir en saillie, souvent sculpté, qui rejette loin du mur l'eau de pluie du toit.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "balustre",
+    "terme": "le balustre",
+    "definition": "Petite colonne renflée qui, répétée en série, forme une balustrade.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "rosace",
+    "terme": "la rosace",
+    "definition": "Grande baie circulaire à remplage, garnie de vitraux, typique des églises gothiques.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "modillon",
+    "terme": "le modillon",
+    "definition": "Petite console répétée à intervalles réguliers sous la saillie d'une corniche.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "mascaron",
+    "terme": "le mascaron",
+    "definition": "Masque sculpté, figure humaine ou fantastique, qui orne une clé d'arc, une console ou une fontaine.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "frise",
+    "terme": "la frise",
+    "definition": "Bande décorative horizontale, sculptée ou peinte, qui court le long d'un mur.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "pinacle",
+    "terme": "le pinacle",
+    "definition": "Petit couronnement élancé, pyramidal ou conique, qui surmonte un contrefort ou un angle, surtout dans l'architecture gothique.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "cariatide",
+    "terme": "la cariatide",
+    "definition": "Statue de femme qui sert de support à la place d'une colonne ou d'un pilastre.",
+    "categorie": "Ornement"
+  }
+]

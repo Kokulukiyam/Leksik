@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "voute",
+    "terme": "la voûte",
+    "categorie": "Structure",
+    "definition": "Ouvrage de maçonnerie courbe qui couvre un espace, comme un plafond en forme d'arc.",
+    "requetes": [
+      "incategory:\"Barrel vaults\"",
+      "barrel vault interior",
+      "incategory:\"Rib vaults\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fort de la Chartreuse (DSCF3625-hdr).jpg",
+      "description": "Ceci est une photo d'un monument de Wallonie, numéro :",
+      "categories": [
+        "Taken with Fujifilm X-T1 and XF18-55mmF2.8-4 R LM OIS",
+        "Fort de la Chartreuse",
+        "Barrel vaults",
+        "ISO speed rating 200",
+        "Self-published work",
+        "Featured pictures of fortresses",
+        "Featured pictures on Wikipedia, Persian",
+        "2019 in Liège",
+        "Cultural heritage monuments in Wallonia with known IDs",
+        "Featured pictures of building interiors",
+        "2 windows",
+        "F-number f/11",
+        "Belgium photographs taken on 2019-08-15",
+        "Featured pictures by Trougnouf",
+        "Uploaded with dtMediaWiki",
+        "Photographs by Trougnouf in 2019",
+        "Featured pictures of architecture in Belgium",
+        "Files with coordinates missing SDC location of creation (50° N, 5° E)",
+        "Brick vaults",
+        "Lens focal length 20.5 mm"
+      ],
+      "auteur": "Trougnouf (Benoit Brummer)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fort_de_la_Chartreuse_(DSCF3625-hdr).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Fort_de_la_Chartreuse_%28DSCF3625-hdr%29.jpg/1280px-Fort_de_la_Chartreuse_%28DSCF3625-hdr%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4891,
+      "hauteur": 3295
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Poertschach Pfarrkirche hl Johannes Tonnengewoelbe und Orgel 20082015 6826.jpg",
+      "description": "Barrel vault in the Roman Catholic parish church Saint John the Baptist, municipality Pörtschach am Wörther See , district Klagenfurt Land, Carinthia , Austria , EU",
+      "categories": [
+        "Barrel vaults",
+        "Pipe organs in Carinthia",
+        "Pfarrkirche Pörtschach am Wörther See",
+        "Self-published work",
+        "Images by Johann Jaritz",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Paintings of saints in Carinthia"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Poertschach_Pfarrkirche_hl_Johannes_Tonnengewoelbe_und_Orgel_20082015_6826.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Poertschach_Pfarrkirche_hl_Johannes_Tonnengewoelbe_und_Orgel_20082015_6826.jpg/1280px-Poertschach_Pfarrkirche_hl_Johannes_Tonnengewoelbe_und_Orgel_20082015_6826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7177,
+      "hauteur": 4729
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pörtschach Pfarrkirche hl. Johannes d. T. Tonnengewölbe Ost-Wand 05062016 2446.jpg",
+      "description": "Eastern wall of the barrel vault in the Roman Catholic parish church Saint John the Baptist, municipality Pörtschach am Wörther See , district Klagenfurt Land, Carinthia , Austria , EU",
+      "categories": [
+        "Barrel vaults",
+        "Pfarrkirche Pörtschach am Wörther See",
+        "Self-published work",
+        "Images by Johann Jaritz",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Paintings of the baptism of Jesus Christ in Carinthia",
+        "Spring 2016 in Pörtschach am Wörther See",
+        "Austria photographs taken on 2016-06-05"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:P%C3%B6rtschach_Pfarrkirche_hl._Johannes_d._T._Tonnengew%C3%B6lbe_Ost-Wand_05062016_2446.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/P%C3%B6rtschach_Pfarrkirche_hl._Johannes_d._T._Tonnengew%C3%B6lbe_Ost-Wand_05062016_2446.jpg/1280px-P%C3%B6rtschach_Pfarrkirche_hl._Johannes_d._T._Tonnengew%C3%B6lbe_Ost-Wand_05062016_2446.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5113,
+      "hauteur": 4163
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Poutre métallique jonction portee pont metro aérien.jpg",
+      "description": "La jonction entre deux portées d'un pont à poutres métallique, métro aérien, Paris.",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "CC-Zero",
+        "Girder bridges in France",
+        "Truss bridges in France",
+        "Barrel vaults",
+        "Self-published work",
+        "Capitals (architecture) in Paris",
+        "Unidentified locations in the Paris Metro",
+        "Poles (objects) in France",
+        "Brick walls in Flemish bond in France",
+        "Metal columns",
+        "Metro viaducts in Paris",
+        "Brick vaults",
+        "Viaduct of the Paris Métro Line 6"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Poutre_m%C3%A9tallique_jonction_portee_pont_metro_a%C3%A9rien.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Poutre_m%C3%A9tallique_jonction_portee_pont_metro_a%C3%A9rien.jpg/1280px-Poutre_m%C3%A9tallique_jonction_portee_pont_metro_a%C3%A9rien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2912,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Verolanuova, chiesa di Santa Croce - Struttura della voltatura a botte 01.jpg",
+      "description": "Verolanuova (Lombardy, Italy), Holy Cross church - Structure of the barrel vault visibile in the crawl space",
+      "categories": [
+        "Barrel vaults",
+        "Self-published work",
+        "Photos of church interiors by User:Syrio",
+        "Santa Croce (Verolanuova) - Interior"
+      ],
+      "auteur": "Syrio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Verolanuova,_chiesa_di_Santa_Croce_-_Struttura_della_voltatura_a_botte_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Verolanuova%2C_chiesa_di_Santa_Croce_-_Struttura_della_voltatura_a_botte_01.jpg/1280px-Verolanuova%2C_chiesa_di_Santa_Croce_-_Struttura_della_voltatura_a_botte_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3672,
+      "hauteur": 4896
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20090818250DR Pomßen (Parthenstein) Dorfkirche Seitenschiff.jpg",
+      "description": "18.08.2009 04668 Pomßen (Parthenstein): Dorfkirche (GMP: 51.239047,12.613028). Die romanische Wehrkirche gilt als eine der wertvollsten sächsischen Dorfkirchen im Leipziger Land. Die ältesten Teile der Kirche, romanische Kapitelle, Apsis und romanische Fenster, stammen aus dem 13. Jahrhundert. Auf das 15. Jahrhundert gehen Mauerdurchbruch vom Kirchenschiff zum Turm, der Türbogen aus Rochlitzer Porphyr und der Taufstein zurück. Von 1536 bis 1782 waren die Herren von Ponickau Besitzer von Gut und Schloß Pomßen. Damit waren sie auch Patronatsherren der Kirche. In ihrer Zeit entstand im Wesentlich",
+      "categories": [
+        "Interior of Kirche Pomßen",
+        "Barrel vaults",
+        "2009 in Landkreis Leipzig",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Wooden vaults"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20090818250DR_Pom%C3%9Fen_(Parthenstein)_Dorfkirche_Seitenschiff.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/20090818250DR_Pom%C3%9Fen_%28Parthenstein%29_Dorfkirche_Seitenschiff.jpg/1280px-20090818250DR_Pom%C3%9Fen_%28Parthenstein%29_Dorfkirche_Seitenschiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2430,
+      "hauteur": 1854
+    }
+  ]
+}

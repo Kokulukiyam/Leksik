@@ -1,0 +1,53 @@
+{
+  "termId": "brise-soleil",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pavillon Quadracci du Milwaukee Art Museum : grandes ailes mobiles à lames blanches au-dessus d'un bâtiment, passerelle à haubans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Milwaukee, États-Unis",
+      "note": "Brise-soleil sculptural en toiture, pas devant une façade ; se lit comme une sculpture ou des ailes, peu conforme à la définition."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Le même pavillon de Milwaukee vu de loin derrière un jet d'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Milwaukee, États-Unis",
+      "note": "Élément lointain, atypique et peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade avec panneaux de béton arrondis verticaux devant les fenêtres, entre des allèges perforées de petits trous carrés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maputo, Mozambique",
+      "note": "Les allèges ajourées évoquent un claustra et ne peuvent être exclues du cadre ; doute sur la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bâtiment en chantier avec poteaux portant une casquette de lames au-dessus de la façade, gravats et barrières au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lames petites, à contre-jour, image dominée par le chantier."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade d'immeuble entièrement couverte de lames verticales en béton saillantes devant des rangées de fenêtres.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Zagreb, Croatie",
+      "note": "Lames verticales fixées devant la façade, lecture immédiate du brise-soleil sur toute l'image."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Passerelle menant au pavillon de Milwaukee dont les ailes à lames sont ouvertes au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Milwaukee, États-Unis",
+      "note": "Élément lointain et atypique ; même réserve que 01."
+    }
+  ]
+}

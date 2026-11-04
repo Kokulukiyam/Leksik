@@ -1,0 +1,53 @@
+{
+  "termId": "pinacle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panorama de badlands ocre aux reliefs d'érosion en aiguilles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valpalmas, Saragosse, Espagne",
+      "note": "Formation géologique, aucun élément d'architecture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'une multitude d'aiguilles d'érosion dans une argile jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valpalmas, Saragosse, Espagne",
+      "note": "Paysage naturel, hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Silhouette d'une femme sous la Voie lactée dans un désert au crépuscule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Trona Pinnacles, Californie, États-Unis",
+      "note": "Photo de ciel nocturne, aucun pinacle architectural."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cheminée de fée isolée (butte d'érosion) sous un ciel de cirrus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bardenas Reales, Navarre, Espagne",
+      "note": "Formation naturelle, hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Trois pinacles gothiques de marbre blanc hérissés de crochets, chacun couronné d'une statue, sur ciel bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Cathédrale de Milan, Italie",
+      "note": "Pinacles gothiques à crochets de la cathédrale de Milan (catégorie Commons « Pinnacles »), seuls éléments de l'image ; la statue sommitale est une particularité milanaise, mais la forme élancée à crochets est sans ambiguïté parmi les termes d'ornement."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Colonnes d'érosion (cheminées de fée) avec arbres au sommet sous un ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ille-sur-Têt, Pyrénées-Orientales, France",
+      "note": "Formation géologique, hors sujet."
+    }
+  ]
+}

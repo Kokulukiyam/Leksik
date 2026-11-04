@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "faitage",
+    "terme": "le faîtage",
+    "categorie": "Toitures",
+    "definition": "Ligne de rencontre supérieure des deux versants d'un toit, et l'ouvrage qui la couvre.",
+    "requetes": [
+      "incategory:\"Roof ridges\"",
+      "faîtage tuiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Охлупень.jpg",
+      "description": "Дом А.М.Поршневой (фрагмент - охлупень): Явзора (Лавельская с/а), Пинежский район, Архангельская область",
+      "categories": [
+        "Images from Wiki Loves Monuments 2018",
+        "Roof ridges",
+        "Cultural heritage monuments in Pinezhsky District",
+        "Self-published work",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Wooden roofs in Russia",
+        "Uploaded via Campaign:wlm-ru",
+        "Wooden buildings in Arkhangelsk Oblast",
+        "Russia photographs taken on 2018-01-26",
+        "Images from Wiki Loves Monuments 2018 in Russia",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC depicts",
+        "Russian heritage ID 2900000554"
+      ],
+      "auteur": "Фото Алексей Романов",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9E%D1%85%D0%BB%D1%83%D0%BF%D0%B5%D0%BD%D1%8C.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%D0%9E%D1%85%D0%BB%D1%83%D0%BF%D0%B5%D0%BD%D1%8C.jpg/1280px-%D0%9E%D1%85%D0%BB%D1%83%D0%BF%D0%B5%D0%BD%D1%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3543,
+      "hauteur": 3505
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Citadelle de Quebec 402.JPG",
+      "description": "L'ancienne caponière, autrement appelé bâtiment 46, Citadelle de Québec",
+      "categories": [
+        "Taken with Nikon Coolpix S3500",
+        "Roof ridges",
+        "Building 46 (Citadelle of Quebec)",
+        "Self-published work",
+        "July 2014 in Quebec City",
+        "Roofs in Quebec City"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_402.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Citadelle_de_Quebec_402.JPG/1280px-Citadelle_de_Quebec_402.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Toet schayes.JPG",
+      "description": "toet di schayes",
+      "categories": [
+        "Cévennes",
+        "Taken with Nikon D40",
+        "Sainte-Croix-Vallée-Française",
+        "Roof ridges",
+        "Self-published work",
+        "Roofs in France",
+        "Rain gutters in France",
+        "Roof pitches"
+      ],
+      "auteur": "Lucyin",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Toet_schayes.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Toet_schayes.JPG/1280px-Toet_schayes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 1496
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tiles91.JPG",
+      "description": "Faîtage ventilé en tuiles canal sur closoir souple.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A75",
+        "Tiled roofs",
+        "License migration redundant",
+        "Roof ridges",
+        "Ridge tiles",
+        "Self-published work"
+      ],
+      "auteur": "Patrick.charpiat",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tiles91.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Tiles91.JPG/1280px-Tiles91.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gable cross Trelleborg.JPG",
+      "description": "Gable cross in the open-air museum of Trelleborg (Slagelse).",
+      "categories": [
+        "Trelleborg (Slagelse)",
+        "Roof ridges",
+        "Germanic animal style",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Gable crosses in Denmark",
+        "Viking art imitations",
+        "Photo challenge/2016 - January - Diagonals",
+        "Reconstruction of Viking buildings"
+      ],
+      "auteur": "Schorle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gable_cross_Trelleborg.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gable_cross_Trelleborg.JPG/1280px-Gable_cross_Trelleborg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4317,
+      "hauteur": 3238
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dubrovnik, tejado.jpg",
+      "description": "A tiled garret roof. Dubrovnik, Dalmatia, Croatia",
+      "categories": [
+        "Roof ridges",
+        "Gable dormers",
+        "Self-published work",
+        "Tiled roofs in Croatia",
+        "Photographs by LBM1948",
+        "Windows in Dubrovnik"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dubrovnik,_tejado.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dubrovnik%2C_tejado.jpg/1280px-Dubrovnik%2C_tejado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1360,
+      "hauteur": 1916
+    }
+  ]
+}

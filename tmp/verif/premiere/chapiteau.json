@@ -1,0 +1,63 @@
+{
+  "termId": "chapiteau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bloc de calcaire très érodé posé dans l'herbe, vaguement feuillagé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alba Fucens, Italie",
+      "note": "Trop érodé pour être reconnu sans le titre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'un chapiteau corinthisant de pilastre à volutes et feuilles d'acanthe, avec abaque et astragale.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Pompéi, Italie",
+      "note": "Chapiteau occupant toute l'image, très lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fragment de chapiteau sculpté d'un buste féminin parmi les feuilles, détouré sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Image détourée (fond retouché), fragment de lecture difficile."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Même fragment de chapiteau, détouré sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Image détourée (fond retouché), doublon de 03."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Colonnes corinthiennes antiques portant des architraves, vues en contre-plongée sur ciel bleu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.365,
+        "y": 0.25,
+        "largeur": 0.31,
+        "hauteur": 0.3
+      },
+      "lieu": "Jerash, Jordanie",
+      "note": "Chapiteau corinthien sur sa colonne, très net ; rectangle pour exclure fût et architrave."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chapiteau corinthien posé sur une base moulurée au sommet d'un massif de maçonnerie ruiné.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.095,
+        "largeur": 0.33,
+        "hauteur": 0.195
+      },
+      "lieu": "Pompéi, Italie",
+      "note": "Chapiteau bien détaché sur le ciel ; rectangle pour ne pas désigner la base située dessous."
+    }
+  ]
+}

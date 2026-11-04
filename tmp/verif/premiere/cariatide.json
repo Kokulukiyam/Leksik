@@ -1,0 +1,53 @@
+{
+  "termId": "cariatide",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade de brique et pierre à colonnes ; de part et d'autre de l'arc d'entrée, deux petites figures sculptées dans l'ombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "West Ham Technical Institute, Londres, Royaume-Uni",
+      "note": "Figures minuscules, à contre-jour et peu identifiables (allure masculine accroupie) ; colonnes dominantes dans l'image."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux cariatides de l'Érechthéion en marbre, femmes drapées portant un chapiteau sur la tête, exposées au musée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Musée de l'Acropole, Athènes, Grèce",
+      "note": "Cariatides canoniques, figures féminines dominantes avec leur chapiteau visible qui montre leur rôle de support."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même façade que 01 en plan plus large ; figures sculptées encadrant l'arc d'entrée, petites et dans l'ombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "West Ham Technical Institute, Londres, Royaume-Uni",
+      "note": "Élément trop petit et sombre, sexe des figures incertain ; les colonnes de l'étage sont plus visibles que les cariatides."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Une cariatide de l'Érechthéion, femme drapée en pied portant un chapiteau sur la tête, devant un mur gris de musée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Musée de l'Acropole, Athènes, Grèce",
+      "note": "Cariatide nette et dominante, chapiteau sur la tête bien visible ; les visiteurs n'introduisent aucune ambiguïté."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cabinet baroque en ébène et marqueterie reposant sur des figures sculptées dorées, majoritairement masculines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tesoro dei Granduchi, Florence, Italie",
+      "note": "Meuble et non architecture ; figures de support petites et plutôt des atlantes."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plusieurs cariatides de l'Érechthéion au musée, celle du premier plan coupée en haut, d'autres partielles aux bords.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Musée de l'Acropole, Athènes, Grèce",
+      "note": "Correcte mais redondante avec 02 et 04, moins bien cadrée (chapiteau coupé, figures tronquées aux bords)."
+    }
+  ]
+}

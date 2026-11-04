@@ -1,0 +1,19 @@
+[
+  { "cle": "colonne/05", "accord": true, "raison": "Photo réelle d'une colonne antique isolée (base moulurée et fût cylindrique, chapiteau manquant), bien cadrée par le rectangle ; l'arc en arrière-plan reste hors du cadre." },
+  { "cle": "arc-boutant/04", "accord": true, "raison": "Le rectangle cadre les deux volées d'arcs-boutants ajourés du flanc gauche de l'église gothique, nettement lancés dans le vide vers le mur ; pas de confusion possible avec le contrefort." },
+  { "cle": "contrefort/02", "accord": true, "raison": "Massif de maçonnerie en saillie, plein et taluté, plaqué contre le mur de l'église (Paoay) ; le rectangle cadre un contrefort entier, sans arc lancé qui évoquerait un arc-boutant." },
+  { "cle": "arc/02", "accord": true, "raison": "Pont en pierre : le rectangle cadre une arche en plein cintre franchissant l'espace entre deux piles ; l'arc est lisible de face, sans ambiguïté avec la voûte." },
+  { "cle": "arc/05", "accord": true, "raison": "Pont en pierre : le rectangle cadre de près la grande arche centrale, courbe clairement lisible reportant les charges sur ses piles." },
+  { "cle": "voute/01", "accord": true, "raison": "Salle couverte d'une voûte en berceau en briques ; le rectangle désigne la surface courbe du plafond, qui domine nettement et se lit comme une voûte et non comme un simple arc." },
+  { "cle": "cle-de-voute/03", "accord": true, "raison": "Le rectangle cadre précisément la pierre sculptée d'un mascaron au sommet de l'arc de la porte : clé de voûte typique, lisible malgré la photo de nuit." },
+  { "cle": "cle-de-voute/06", "accord": true, "raison": "Le rectangle cadre exactement la pierre trapézoïdale en saillie au sommet de l'arc en plein cintre de la porte, sous le relief sculpté : clé de voûte sans ambiguïté." },
+  { "cle": "coupole/01", "accord": true, "raison": "Vue de dessous d'une coupole à caissons et cannelures, cadrée par le rectangle au centre des berceaux ; forme hémisphérique bien lisible." },
+  { "cle": "coupole/02", "accord": true, "raison": "Photo intérieure, vue zénithale d'une coupole peinte de fresques avec lanterne centrale, qui occupe toute l'image : terme évident." },
+  { "cle": "coupole/03", "accord": true, "raison": "Le rectangle cadre la coupole sur tambour (Sant'Agnese in Agone) vue de l'intérieur, avec lanterne et fenêtres, nettement distincte des berceaux voisins." },
+  { "cle": "ferme/01", "accord": true, "raison": "Halle industrielle : le rectangle désigne la charpente de toit faite de fermes métalliques triangulées qui portent la couverture, clairement visibles." },
+  { "cle": "ferme/05", "accord": true, "raison": "Hangar dont le rectangle cadre la charpente : succession de fermes métalliques en treillis triangulé portant le toit, lisibles et dominantes." },
+  { "cle": "colombage/02", "accord": true, "raison": "Villa dont les façades montrent une ossature de bois sombre apparente remplie d'enduit clair : colombage évident et lisible." },
+  { "cle": "colombage/06", "accord": true, "raison": "Maison dont l'étage et le pignon présentent un pan de bois apparent à remplissage blanc ; colombage clairement identifiable." },
+  { "cle": "pilotis/04", "accord": false, "raison": "Bâtiment surélevé sur poteaux, mais ces poteaux sont des fûts cylindriques et un seul domine au premier plan : le joueur peut raisonnablement répondre « la colonne » ; ambiguïté colonne/pilotis." },
+  { "cle": "pilotis/06", "accord": true, "raison": "Le rectangle cadre les supports massifs en béton qui portent le bâtiment au-dessus d'un rez-de-chaussée laissé libre : pilotis net, sans confusion possible avec une colonne." }
+]

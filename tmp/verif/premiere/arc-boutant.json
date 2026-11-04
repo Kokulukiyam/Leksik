@@ -1,0 +1,58 @@
+{
+  "termId": "arc-boutant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ruines d'une église gothique sans toiture dont subsistent les grands arcs diaphragmes transversaux au-dessus de la nef.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cambados, Espagne",
+      "note": "Ce sont des arcs diaphragmes intérieurs, pas des arcs-boutants : confusion arc / arc-boutant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bibliothèque du Parlement d'Ottawa, rotonde néogothique entourée de contreforts à pinacles et de petits arcs-boutants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ottawa, Canada",
+      "note": "Arcs-boutants présents mais petits, en partie dans l'ombre et mêlés aux contreforts et pinacles : peu lisible sur téléphone."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Flanc de la cathédrale de Nantes : piles à pinacles très ouvragés, arcs-boutants peu visibles entre elles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nantes, France",
+      "note": "Les pinacles et les culées dominent ; les arcs-boutants sont cachés et difficilement lisibles (confusion pinacle / contrefort)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade flamboyante de l'abbatiale de la Trinité de Vendôme ; de chaque côté, deux arcs-boutants superposés se découpent sur le ciel entre la culée à pinacles et le mur de la nef.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.27,
+        "largeur": 0.13,
+        "hauteur": 0.3
+      },
+      "lieu": "Vendôme, France",
+      "note": "Arcs-boutants nettement profilés sur le ciel, de la culée au mur haut ; rectangle sur la paire de gauche pour écarter pinacles et gâble."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Longue file de massifs contreforts maçonnés épaulant le mur latéral de la collégiale de Sar.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Jacques-de-Compostelle, Espagne",
+      "note": "Ce sont des contreforts (et non des arcs-boutants) reliés par des arcs : confusion contrefort / arc-boutant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Partie basse d'un arc-boutant de la cathédrale de Tours franchissant une rue, vu de face entre sa culée et le mur, extrados rampant garni de crochets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tours, France",
+      "note": "Vue rapprochée où l'ouvrage se lit d'abord comme un grand arc entre deux masses : doute arc / arc-boutant."
+    }
+  ]
+}

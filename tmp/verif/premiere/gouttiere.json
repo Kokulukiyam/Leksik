@@ -1,0 +1,11 @@
+{
+  "termId": "gouttiere",
+  "candidats": [
+    {"fichier": "01.jpg", "vu": "Gouttière métallique horizontale fixée sous un bord de toit en tuiles, avec un déversoir en forme de poisson.", "verdict": "validée", "rectangle": {"x": 0.0, "y": 0.11, "largeur": 1.0, "hauteur": 0.33}, "lieu": "Séoul, Corée du Sud", "note": "Canal de bas de toit bien visible en gros plan ; rectangle sur la gouttière pour écarter le déversoir décoratif (gargouille)."},
+    {"fichier": "02.jpg", "vu": "Maison laotienne en bambou sur pilotis avec filets de pêche suspendus et jarre d'eau.", "verdict": "rejetée", "rectangle": null, "lieu": "Don Det, Laos", "note": "Gouttière invisible ou minuscule ; la maison domine."},
+    {"fichier": "03.jpg", "vu": "Façade d'école avec une grande chute d'eau métallique verticale descendant du toit vers un bassin.", "verdict": "rejetée", "rectangle": null, "lieu": "Hof, Allemagne", "note": "Élément vertical de type descente/chute, pas une gouttière en bas de toit."},
+    {"fichier": "04.jpg", "vu": "Descente d'eau pluviale en cuivre ornée d'un dauphin, contre un toit de tuiles plates.", "verdict": "rejetée", "rectangle": null, "lieu": "Bâle, Suisse", "note": "La descente d'eau sculptée domine ; la gouttière n'est qu'en arrière-plan (confusion gouttière / descente)."},
+    {"fichier": "05.jpg", "vu": "Descente d'eau gothique dorée terminée par une tête de chimère en pierre.", "verdict": "rejetée", "rectangle": null, "lieu": "Paris, France", "note": "Descente et gargouille, pas une gouttière."},
+    {"fichier": "06.jpg", "vu": "Descente d'eau rouge contre un mur blanc, avec un nid et un moineau.", "verdict": "rejetée", "rectangle": null, "lieu": "Arad, Roumanie", "note": "Tuyau de descente, pas de gouttière visible ; le nid attire l'attention."}
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "balcon",
+    "terme": "le balcon",
+    "categorie": "Façade et ouvertures",
+    "definition": "Plateforme en saillie sur une façade, accessible depuis l'intérieur et fermée par un garde-corps.",
+    "requetes": [
+      "incategory:\"Balconies\"",
+      "balcony facade"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Royal Senchi, Atimpoku (P1100031).jpg",
+      "description": "Private terrace of a River Room at the Royal Senchi Hotel, Atimpoku, Ghana",
+      "categories": [
+        "GFDL",
+        "Balconies",
+        "License migration redundant",
+        "Atimpoku",
+        "Terraces (architecture)",
+        "Self-published work",
+        "Outdoor furniture",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Ghana photographs taken on 2023-02-05",
+        "Resorts in Ghana",
+        "Taken with Panasonic Lumix DMC-G5 and Panasonic Lumix G Vario HD 14-140mm F4.0-5.8 Asph Mega OIS",
+        "2023 photographs of Eastern Region (Ghana)"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Royal_Senchi,_Atimpoku_(P1100031).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Royal_Senchi%2C_Atimpoku_%28P1100031%29.jpg/1280px-Royal_Senchi%2C_Atimpoku_%28P1100031%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Balconies on Norzin Lam, Thimphu.jpg",
+      "description": "Balcons sur la rue Norzin Lam, Thimphu, Bhoutan",
+      "categories": [
+        "GFDL",
+        "Balconies",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Architectural elements in Bhutan",
+        "Norzin Lam (Thimphu city)",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Bernard Gagnon",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balconies_on_Norzin_Lam,_Thimphu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Balconies_on_Norzin_Lam%2C_Thimphu.jpg/1280px-Balconies_on_Norzin_Lam%2C_Thimphu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4300,
+      "hauteur": 2867
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Balcony (2).jpg",
+      "description": "Balcony",
+      "categories": [
+        "Balconies",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Images from Wiki Loves Africa 2022 in Egypt"
+      ],
+      "auteur": "Myousry6666",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Balcony_%282%29.jpg/1280px-Balcony_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5315,
+      "hauteur": 3543
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Outside The Shelf.JPG",
+      "description": "To be outside the shelf is to be an innovator. A writer who is considered outside the shelf goes beyond the bounds of a collection of books on a shelf. This type of writer commits to informing truths as a relative form of conciousness. A writer who is outside the shelf contributes with a neocosmic delivery, with a cognizant style, and a universal tone.",
+      "categories": [
+        "Taken with Nikon Coolpix L4",
+        "Balconies",
+        "Self-published work"
+      ],
+      "auteur": "Sergnas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Outside_The_Shelf.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Outside_The_Shelf.JPG/1280px-Outside_The_Shelf.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Siuna Street.jpg",
+      "description": "Street scene in Siuna, Nicaragua",
+      "categories": [
+        "Wooden houses",
+        "Balconies",
+        "Streets in Nicaragua",
+        "Gravel roads",
+        "Nicaragua in the 1950s",
+        "Siuna",
+        "Self-published work",
+        "PD-self",
+        "Houses in Nicaragua",
+        "Balconies in Nicaragua",
+        "Corrugated iron roofs"
+      ],
+      "auteur": "Allen Drebert",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Siuna_Street.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Siuna_Street.jpg/1280px-Siuna_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:BalcónCeramica.jpg",
+      "description": "Balcón de Cerámica",
+      "categories": [
+        "Taken with Olympus SZ-14",
+        "Balconies",
+        "Self-published work",
+        "Ceramic reliefs"
+      ],
+      "auteur": "Victor Muñoz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balc%C3%B3nCeramica.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Balc%C3%B3nCeramica.jpg/1280px-Balc%C3%B3nCeramica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    }
+  ]
+}

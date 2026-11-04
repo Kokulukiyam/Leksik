@@ -1,0 +1,58 @@
+{
+  "termId": "pilastre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Secrétaire en acajou à fronton brisé exposé dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dallas, Texas, États-Unis",
+      "note": "Meuble, pas architecture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pilier massif en pierre d'un portique, éclaté sur les arêtes, avec plaque commémorative.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Senigallia, Italie",
+      "note": "Pilier isolé, pas un pilastre engagé ; plaque de texte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand buffet en bois de 1600 avec pilastres et petits frontons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nuremberg, Allemagne",
+      "note": "Meuble, pas architecture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade enduite grise avec une fenêtre à consoles et deux pilastres cannelés avec base et chapiteau.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.65,
+        "y": 0.18,
+        "largeur": 0.14,
+        "hauteur": 0.765
+      },
+      "lieu": "Serbie",
+      "note": "Pilastre cannelé engagé dans le mur, base et chapiteau visibles ; rectangle pour exclure fenêtre et consoles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Décor intérieur polychrome : bande verticale ornée d'un médaillon et d'un mascaron barbu sous un entablement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ornementation dominante (mascaron, cartouche) ; le pilastre n'est pas évident."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Commode haute Chippendale en acajou à fronton brisé exposée dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gloucester, Massachusetts, États-Unis",
+      "note": "Meuble, pas architecture."
+    }
+  ]
+}

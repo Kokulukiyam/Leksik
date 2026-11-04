@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "corniche",
+    "terme": "la corniche",
+    "categorie": "Ornement",
+    "definition": "Couronnement en saillie, généralement mouluré, qui termine le haut d'un mur ou d'une façade.",
+    "requetes": [
+      "incategory:\"Cornices\"",
+      "cornice building"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Upton Hall.jpg",
+      "description": "Grade II listed house c. 1840, now part of Upton Hall school.",
+      "categories": [
+        "Rodhullandemu images",
+        "Taken with Canon EOS 1300D",
+        "Cornices",
+        "Manors in England",
+        "Upton Hall School",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Porticos in England",
+        "Grade II listed buildings in Upton, Merseyside"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Upton_Hall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Upton_Hall.jpg/1280px-Upton_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4701,
+      "hauteur": 3196
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Prédio do Baleizão, Luanda - 2019-06-28.jpg",
+      "description": "Classified, historical building \"Prédio do Baleizão\", in Luanda, built in the 17th-century and one of the oldest of the city, 5 months after being evacuated and locked down by authorities, due to imminent ruin, in january 2019. Front view (facade), from Largo da Amizade Angola-Cuba. (original title: Something old with something new, original description: a old building in Luanda with cars parked in front in Angola)",
+      "categories": [
+        "Balconets",
+        "Tiled roofs",
+        "Transom windows",
+        "Derelict buildings",
+        "Prédio do Baleizão",
+        "Cornices",
+        "Buildings in Luanda",
+        "Concrete hollow blocks",
+        "Images from Wiki Loves Africa 2020",
+        "Self-published work",
+        "Lights (window)",
+        "Blind doors",
+        "Automobiles in Angola",
+        "Balconies in Angola",
+        "Images from Wiki Loves Africa 2020 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Files with coordinates missing SDC location of creation",
+        "Bricked-up doors",
+        "2019 in Luanda",
+        "Bricked-up shop windows",
+        "Maintenance for Wiki Loves Africa 2020",
+        "Largo da Amizade Angola-Cuba",
+        "Images from Wiki Loves Africa 2020 in Angola",
+        "Tagging in Angola",
+        "Images from Wiki Loves Africa 2020 nominated as Valued Images"
+      ],
+      "auteur": "Edward Middleton",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9dio_do_Baleiz%C3%A3o,_Luanda_-_2019-06-28.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Pr%C3%A9dio_do_Baleiz%C3%A3o%2C_Luanda_-_2019-06-28.jpg/1280px-Pr%C3%A9dio_do_Baleiz%C3%A3o%2C_Luanda_-_2019-06-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Жаркент, дунганская мечеть, карниз.jpg",
+      "description": "Dungan mosque cornice. Zharkent, Jetisu Region, Kazakhstan.",
+      "categories": [
+        "Cornices",
+        "Zharkent Mosque",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Architectural elements in Jetisu Region"
+      ],
+      "auteur": "Nikolaï Boulykine",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%96%D0%B0%D1%80%D0%BA%D0%B5%D0%BD%D1%82,_%D0%B4%D1%83%D0%BD%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C,_%D0%BA%D0%B0%D1%80%D0%BD%D0%B8%D0%B7.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%D0%96%D0%B0%D1%80%D0%BA%D0%B5%D0%BD%D1%82%2C_%D0%B4%D1%83%D0%BD%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%2C_%D0%BA%D0%B0%D1%80%D0%BD%D0%B8%D0%B7.jpg/1280px-%D0%96%D0%B0%D1%80%D0%BA%D0%B5%D0%BD%D1%82%2C_%D0%B4%D1%83%D0%BD%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%2C_%D0%BA%D0%B0%D1%80%D0%BD%D0%B8%D0%B7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5328,
+      "hauteur": 3330
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Laurel wreath cornice Forum Romanum Rome Italy.jpg",
+      "description": "Décoration de sous-face d'un élément de corniche en marbre, couronne de feuilles de laurier. Forum Romanum, Rome, Italie",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "Forum Romanum",
+        "Cornices",
+        "Self-published work",
+        "Reliefs in Rome",
+        "August 2013 in Rome",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2013-08-22",
+        "Laurel wreaths in art"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laurel_wreath_cornice_Forum_Romanum_Rome_Italy.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Laurel_wreath_cornice_Forum_Romanum_Rome_Italy.jpg/1280px-Laurel_wreath_cornice_Forum_Romanum_Rome_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4172,
+      "hauteur": 3240
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:YarkonCornice.jpg",
+      "description": "כרכוב בגן הגזום בפארק הירקון שבתל אביב, ישראל",
+      "categories": [
+        "Cornices",
+        "Pruned Garden",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "כובש המלפפונים",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:YarkonCornice.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/YarkonCornice.jpg/1280px-YarkonCornice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Жаркент, дунганская мечеть, угол карниза.jpg",
+      "description": "Dungan mosque cornice corner. Zharkent, Jetisu Region, Kazakhstan.",
+      "categories": [
+        "Dougong",
+        "Cornices",
+        "Zharkent Mosque",
+        "Crescent shapes in architecture",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Nikolay Bulykin",
+        "Architectural elements in Jetisu Region"
+      ],
+      "auteur": "Nikolaï Boulykine",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%96%D0%B0%D1%80%D0%BA%D0%B5%D0%BD%D1%82,_%D0%B4%D1%83%D0%BD%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C,_%D1%83%D0%B3%D0%BE%D0%BB_%D0%BA%D0%B0%D1%80%D0%BD%D0%B8%D0%B7%D0%B0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%D0%96%D0%B0%D1%80%D0%BA%D0%B5%D0%BD%D1%82%2C_%D0%B4%D1%83%D0%BD%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%2C_%D1%83%D0%B3%D0%BE%D0%BB_%D0%BA%D0%B0%D1%80%D0%BD%D0%B8%D0%B7%D0%B0.jpg/1280px-%D0%96%D0%B0%D1%80%D0%BA%D0%B5%D0%BD%D1%82%2C_%D0%B4%D1%83%D0%BD%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%2C_%D1%83%D0%B3%D0%BE%D0%BB_%D0%BA%D0%B0%D1%80%D0%BD%D0%B8%D0%B7%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2972,
+      "hauteur": 4458
+    }
+  ]
+}

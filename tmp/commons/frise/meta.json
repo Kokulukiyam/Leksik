@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "frise",
+    "terme": "la frise",
+    "categorie": "Ornement",
+    "definition": "Bande décorative horizontale, sculptée ou peinte, qui court le long d'un mur.",
+    "requetes": [
+      "incategory:\"Friezes\"",
+      "frieze sculpted"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Lady Lever Gallery (30596307434).jpg",
+      "description": "Lady Lever Gallery",
+      "categories": [
+        "CC-Zero",
+        "Friezes",
+        "Interior of the Lady Lever Art Gallery",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Alex Liivet",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Alex Liivet from Chester, United Kingdom",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lady_Lever_Gallery_(30596307434).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Lady_Lever_Gallery_%2830596307434%29.jpg/1280px-Lady_Lever_Gallery_%2830596307434%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Blok fryzu z absydy I Katedry, warsztat nubijski, Faras.jpg",
+      "description": "",
+      "categories": [
+        "Crosses",
+        "Friezes",
+        "Artworks without Wikidata item",
+        "PD Old",
+        "Unsupported object",
+        "PD Old auto: no death date",
+        "Artworks with known accession number",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "Coptic sculptures in the National Museum in Warsaw",
+        "Paleochristian sculptures in the National Museum in Warsaw",
+        "Reliefs in the National Museum in Warsaw",
+        "Media contributed by the National Museum in Warsaw",
+        "Reliefs of birds",
+        "Altars in art",
+        "Images from National Museum in Warsaw – needing category checks",
+        "Polish excavations at Faras"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blok_fryzu_z_absydy_I_Katedry,_warsztat_nubijski,_Faras.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Blok_fryzu_z_absydy_I_Katedry%2C_warsztat_nubijski%2C_Faras.jpg/1280px-Blok_fryzu_z_absydy_I_Katedry%2C_warsztat_nubijski%2C_Faras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1970
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Kennington Frieze.jpg",
+      "description": "The Kennington Frieze in its original state, which is situated above the Library entrance of the London School of Hygiene & Tropical Medicine. Copyright of London School of Hygiene & Tropical Medicine",
+      "categories": [
+        "Libraries in the London Borough of Camden",
+        "Eric Kennington",
+        "Friezes",
+        "Sculptures in the London Borough of Camden",
+        "Self-published work",
+        "FoP-United Kingdom",
+        "Reliefs in London",
+        "London School of Hygiene and Tropical Medicine (building)"
+      ],
+      "auteur": "LSHTMarchives",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kennington_Frieze.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Kennington_Frieze.jpg/1280px-Kennington_Frieze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3088,
+      "hauteur": 1304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Frises, DDER615.jpg",
+      "description": "Auteur(s): Deraisme, Pierre-Georges (en 1859 - en 1932), dessinateur Date de production: Vers 1890 Datation en siècle: 4e quart du 19e siècle Type(s) d'objet(s): Dessin, Arts graphiques Dénomination(s): Dessin Matériaux et techniques: Crayon graphite, Papier Dimensions - Oeuvre: Hauteur : 4.8 cm Largeur : 17 cm Mode d'acquisition: Donation (acte notarié) Nom du donateur, testateur, vendeur: L'Ebraly, Martin (Monsieur et Madame) Date d’acquisition: 2002 Institution: Petit Palais, musée des Beaux-arts de la Ville de Paris Numéro d’inventaire: DDER615 IIIF Manifest: https://apicollections.parismu",
+      "categories": [
+        "CC-Zero",
+        "Friezes",
+        "1890 drawings from France",
+        "Images from Paris Musées",
+        "Works by Pierre-Georges Deraisme in the Musée des beaux-arts de la ville de Paris"
+      ],
+      "auteur": "Deraisme, Pierre-Georges (en 1859 - en 1932), dessinateur",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Frises,_DDER615.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Frises%2C_DDER615.jpg/1280px-Frises%2C_DDER615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8225,
+      "hauteur": 2550
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Frieze1 - Minden.jpg",
+      "description": "House in Minden",
+      "categories": [
+        "Friezes",
+        "Self-published work"
+      ],
+      "auteur": "Υπάρχω",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Frieze1_-_Minden.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Frieze1_-_Minden.jpg/1280px-Frieze1_-_Minden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Sgh frieze.jpg",
+      "description": "Frieze above an SGH doorway.",
+      "categories": [
+        "South Gate, California",
+        "Friezes",
+        "Self-published work"
+      ],
+      "auteur": "Caterpillar84",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sgh_frieze.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sgh_frieze.jpg/1280px-Sgh_frieze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

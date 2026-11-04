@@ -1,0 +1,58 @@
+{
+  "termId": "contrefort",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade en brique d'un lycée avec de hautes lames en béton gris plaquées contre le mur, galerie d'arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tainan, Taïwan",
+      "note": "Lames de renfort atypiques (ajout récent), lecture incertaine (pilier, pilastre) ; arcades concurrentes."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur latéral de l'église de Paoay épaulé par une file de contreforts massifs en maçonnerie, à profil incliné et volutes, coiffés de pinacles.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.53,
+        "y": 0.01,
+        "largeur": 0.45,
+        "hauteur": 0.89
+      },
+      "lieu": "Paoay, Philippines",
+      "note": "Contreforts massifs en saillie contre le mur, exemplaires ; rectangle sur le premier plan pour écarter pinacles et lampadaires."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gravure ancienne du flanc de la cathédrale de Strasbourg avec culées et arcs-boutants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Strasbourg, France",
+      "note": "Gravure, pas une photo ; montre surtout des arcs-boutants."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Église en bois à clins blancs dont le mur latéral est étayé par des jambes de force obliques en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belle Plaine, Minnesota, États-Unis",
+      "note": "Étais obliques en bois et non massifs de maçonnerie : un architecte y verrait un étaiement ou des jambes de force."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pignon d'un immeuble démoli maintenu par un étaiement en charpente et un mur de soutènement, entre des tours.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong, Chine",
+      "note": "Étaiement provisoire / mur de soutènement, pas un contrefort ; image confuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bâtiment en brique avec galerie d'arcades blanches et un gros pilier d'angle en brique au premier plan droit, derrière des arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tainan, Taïwan",
+      "note": "Pilier d'angle ambigu (pilier, contrefort ?) et arcades dominantes : élément non identifiable sans doute."
+    }
+  ]
+}

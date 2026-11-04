@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "oeil-de-boeuf",
+    "terme": "l'œil-de-bœuf",
+    "categorie": "Façade et ouvertures",
+    "definition": "Petite fenêtre ronde ou ovale percée dans un mur ou un toit.",
+    "requetes": [
+      "oeil-de-boeuf window",
+      "œil-de-bœuf fenêtre",
+      "deepcat:\"Oculi\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Oeil de boeuf Louvre.jpg",
+      "description": "Ouverture en oeil-de-boeuf, détail façade palais du Louvre, Paris. Allégories du Commerce et de la Paix.",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "CC-Zero",
+        "Outdoor sculptures in France",
+        "Allegories of commerce",
+        "Self-published work",
+        "Reliefs in Paris",
+        "South facade of the Pavillon Turgot (Louvre)",
+        "France photographs taken on 2012-04-01",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Sculptures of peace",
+        "Oculi in the Louvre",
+        "Le Commerce et la Paix (Georges Diebolt)"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oeil_de_boeuf_Louvre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Oeil_de_boeuf_Louvre.jpg/1280px-Oeil_de_boeuf_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2150,
+      "hauteur": 2031
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Oculus (41323p).jpg",
+      "description": "Inside the Oculus in Manhattan (World Trade Center station). According to The New York Times: \"The main axis of the 360-foot-long concourse would be aligned with the angle of the sun at 10:28 that morning [of September 11, 2001], when the second tower collapsed.\"",
+      "categories": [
+        "Featured pictures of New York City",
+        "New York City photographs taken on 2018-04-14",
+        "Self-published work",
+        "Files uploaded by Rhododendrites (all)",
+        "Featured pictures of railway stations",
+        "Featured pictures of building interiors",
+        "Featured pictures by Rhododendrites",
+        "Files with coordinates missing SDC location of creation",
+        "Interior of the WTC Transportation Hub",
+        "Photographs taken by Rhododendrites - Oculus",
+        "Featured pictures of buildings in the United States"
+      ],
+      "auteur": "Rhododendrites",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oculus_(41323p).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Oculus_%2841323p%29.jpg/1280px-Oculus_%2841323p%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 10445,
+      "hauteur": 3221
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Katowice Warszawska 25 oculus 2026.jpg",
+      "description": "Katowice, 15 Warszawska St., oculus",
+      "categories": [
+        "Self-published work",
+        "Oculi in Poland",
+        "Files with coordinates missing SDC location of creation",
+        "July 2026 in Katowice",
+        "25-27 Warszawska Street in Katowice",
+        "Poland photographs taken on 2026-07-21",
+        "Dormer windows in Katowice"
+      ],
+      "auteur": "Adrian Tync",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Katowice_Warszawska_25_oculus_2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Katowice_Warszawska_25_oculus_2026.jpg/1280px-Katowice_Warszawska_25_oculus_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3918,
+      "hauteur": 2938
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cymbula oculus 01.JPG",
+      "description": "South African Eye; Length 6.9 cm; Originating from Mossel Bay, South Africa; Shell of own collection, therefore not geocoded. Dorsal, lateral (left side), ventral, back, and front view.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 500D",
+        "License migration redundant",
+        "Self-published work",
+        "Cymbula oculus",
+        "Gastropoda with black background",
+        "Focus stacking images of Mollusca"
+      ],
+      "auteur": "H. Zell",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cymbula_oculus_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Cymbula_oculus_01.JPG/1280px-Cymbula_oculus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3558
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Coscinodiscus oculus-iridis (Ehrenberg) Ehrenberg 1840 diatom shell. Colored SEM image.jpg",
+      "description": "Highly porous hierarchical structure of a Coscinodiscus oculus-iridis (Ehrenberg) Ehrenberg 1840 diatom shell. Colored SEM image acquired with TESCAN CLARA SEM. Sample without any conductive layer, 1keV electron landing energy, field of view 40 μm, E-T detector.",
+      "categories": [
+        "Square photographs",
+        "Scanning electron microscopic images",
+        "Featured pictures on Wikipedia, Vietnamese",
+        "Featured pictures taken through a microscope",
+        "Organisms on black background",
+        "Pictures of the Year/2022 (finalist)",
+        "Taken with Tescan Clara",
+        "Coscinodiscus oculus-iridis",
+        "Featured pictures of Coscinodiscales"
+      ],
+      "auteur": "Pavel.Somov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coscinodiscus_oculus-iridis_(Ehrenberg)_Ehrenberg_1840_diatom_shell._Colored_SEM_image.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Coscinodiscus_oculus-iridis_%28Ehrenberg%29_Ehrenberg_1840_diatom_shell._Colored_SEM_image.jpg/1280px-Coscinodiscus_oculus-iridis_%28Ehrenberg%29_Ehrenberg_1840_diatom_shell._Colored_SEM_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4500,
+      "hauteur": 4500
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:One World Trade Center through the Oculus (91538).jpg",
+      "description": "One World Trade Center viewed through the ceiling window of the Oculus (World Trade Center station). According to The New York Times : \"The main axis of the 360-foot-long concourse would be aligned with the angle of the sun at 10:28 that morning [of September 11, 2001], when the second tower collapsed.\"",
+      "categories": [
+        "Featured pictures of New York City",
+        "New York City photographs taken on 2017-11-19",
+        "Self-published work",
+        "Files uploaded by Rhododendrites (all)",
+        "Featured pictures by Rhododendrites",
+        "Views of Manhattan, New York City from below",
+        "Files with coordinates missing SDC location of creation",
+        "November 2017 in rail transport in the United States",
+        "Featured pictures of ceilings",
+        "November 2017 in Manhattan, New York City",
+        "Interior of the WTC Transportation Hub",
+        "One World Trade Center from immediately beside it",
+        "Cinematic style photography",
+        "Photographs taken by Rhododendrites - Oculus",
+        "Featured pictures of buildings in the United States"
+      ],
+      "auteur": "Rhododendrites",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:One_World_Trade_Center_through_the_Oculus_(91538).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/One_World_Trade_Center_through_the_Oculus_%2891538%29.jpg/1280px-One_World_Trade_Center_through_the_Oculus_%2891538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3377,
+      "hauteur": 2716
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "termId": "linteau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bloc de marbre sculpté (chrisme porté par deux anges) exposé seul sur fond neutre de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toulouse, France",
+      "note": "Pièce hors contexte, sans baie : se lit comme un bas-relief, pas comme un linteau."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bloc horizontal inscrit posé sur deux colonnes ioniques, ruines antiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pergé, Turquie",
+      "note": "Sur colonnes, c'est une architrave d'entablement plutôt qu'un linteau de baie ; confusion possible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de château en ruine avec une porte étroite surmontée d'une dalle horizontale.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.455,
+        "y": 0.34,
+        "largeur": 0.15,
+        "hauteur": 0.065
+      },
+      "lieu": "Kassiopi, Corfou, Grèce",
+      "note": "Dalle simple portant la maçonnerie au-dessus de la porte ; image un peu sombre, rectangle indispensable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Portail de pierre intérieur : bloc horizontal mouluré portant une inscription latine au-dessus de la porte, arc de décharge en briques au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.43,
+        "largeur": 0.62,
+        "hauteur": 0.27
+      },
+      "lieu": "Château de Czorsztyn, Pologne",
+      "note": "Linteau de pierre clairement au-dessus de la baie ; l'arc de décharge confirme sa fonction. Inscription sans rapport avec la réponse."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cour pavée devant des portes vitrées en bois, poutres préfabriquées posées au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Úštěk, Tchéquie",
+      "note": "Linteaux en attente au sol, non en place ; illisible comme linteau."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Encadrement de fenêtre classique : entablement mouluré et corniche sur consoles, pics anti-pigeons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Deniliquin, Australie",
+      "note": "Couronnement mouluré : confusion avec corniche/entablement."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "fleche",
+    "terme": "la flèche",
+    "categorie": "Toitures",
+    "definition": "Couronnement très élancé, pyramidal ou conique, qui surmonte un clocher ou une tour.",
+    "requetes": [
+      "incategory:\"Spires\"",
+      "church spire"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tower Spire Feb 2023.jpg",
+      "description": "An newer version of the same view after spire completion - 10 Feb 2023",
+      "categories": [
+        "Spires",
+        "Self-published work"
+      ],
+      "auteur": "B timmins",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tower_Spire_Feb_2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Tower_Spire_Feb_2023.jpg/1280px-Tower_Spire_Feb_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2520,
+      "hauteur": 3791
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Floyd Hall.jpg",
+      "description": "Elson S. Floyd Hall and spire, building that houses Western Michigan University's College of Engineering and Applied Sciences.",
+      "categories": [
+        "CC-Zero",
+        "Spires",
+        "Self-published work",
+        "Western Michigan University buildings"
+      ],
+      "auteur": "MSwierenga",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Floyd_Hall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Floyd_Hall.jpg/1280px-Floyd_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Spires Belgian and Dutch Gothic 579.jpg",
+      "description": "Antwerp Cathedral, Belgium & Dutch Architecture, History of Architecture, pg 579",
+      "categories": [
+        "Brussels town hall",
+        "Spires",
+        "Town hall of Leuven",
+        "Lakenhalle (Brugge)",
+        "PD-old-70-expired",
+        "City Hall of Brugge",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "Bel&Dutch ArchPosted by Chris Light",
+        "Belgium & Dutch Architecture (Fletcher)"
+      ],
+      "auteur": "Sir Banister Fletcher (1866-1953)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spires_Belgian_and_Dutch_Gothic_579.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Spires_Belgian_and_Dutch_Gothic_579.jpg/1280px-Spires_Belgian_and_Dutch_Gothic_579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2467,
+      "hauteur": 3583
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Image taken from page 383 of '(The Two Hemispheres- a popular account of the countries and peoples of the world ... Illustrated, etc.)' (11307113935).jpg",
+      "description": "Image taken from: Title : \"[The Two Hemispheres: a popular account of the countries and peoples of the world ... Illustrated, etc.]\" Author : CHISHOLM, George Goudie. Shelfmark : \"British Library HMNTS 10006.pp.1.\" Volume : 01 Page : 383 Place of Publishing : London Date of Publishing : 1885 Publisher : Blackie & Son Edition : [Another edition.] Issuance : monographic Identifier : 000688783 Explore: Find this item in the British Library catalogue, 'Explore'. Open the page in the British Library's itemViewer (page image 383) Download the PDF for this book Image found on book scan 383 (NB not a ",
+      "categories": [
+        "Images from the British Library",
+        "George Goudie Chisholm",
+        "Spires",
+        "Flickr images reviewed by FlickreviewR",
+        "Media needing category review as of 22 September 2019",
+        "Images from the British Library Mechanical Curator collection",
+        "Files from Flickr's 'The Commons'",
+        "Flickr images missing SDC inception",
+        "Flickr images missing SDC source of file",
+        "Marine prints",
+        "Books from the British Library",
+        "Files with coordinates missing SDC location of creation (53° N, 9° E)",
+        "Uploaded by the British Library",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "The British Library",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Image_taken_from_page_383_of_%27(The_Two_Hemispheres-_a_popular_account_of_the_countries_and_peoples_of_the_world_..._Illustrated,_etc.)%27_(11307113935).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Image_taken_from_page_383_of_%27%28The_Two_Hemispheres-_a_popular_account_of_the_countries_and_peoples_of_the_world_..._Illustrated%2C_etc.%29%27_%2811307113935%29.jpg/1280px-Image_taken_from_page_383_of_%27%28The_Two_Hemispheres-_a_popular_account_of_the_countries_and_peoples_of_the_world_..._Illustrated%2C_etc.%29%27_%2811307113935%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1456,
+      "hauteur": 980
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Samarqand city library.jpg",
+      "description": "Samarqand city library named after Al-Biruni",
+      "categories": [
+        "Trees in Uzbekistan",
+        "Urban trees",
+        "Taken with Huawei Honor 2",
+        "Spires",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Children's Library (Mahmud Qoshgʻari, 60)"
+      ],
+      "auteur": "GMM",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Samarqand_city_library.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Samarqand_city_library.jpg/1280px-Samarqand_city_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2859,
+      "hauteur": 2401
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Jami Masjid spire over mihrab hall (6133559943).jpg",
+      "description": "Jami Masjid spire over mihrab hall Jamia Masjid, Srinagar, Jammu and Kashmir, India",
+      "categories": [
+        "Jamia Masjid, Srinagar",
+        "Spires",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs of India by Varun Shiv Kapur",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Varun Shiv Kapur from New Delhi, India",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jami_Masjid_spire_over_mihrab_hall_(6133559943).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Jami_Masjid_spire_over_mihrab_hall_%286133559943%29.jpg/1280px-Jami_Masjid_spire_over_mihrab_hall_%286133559943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    }
+  ]
+}

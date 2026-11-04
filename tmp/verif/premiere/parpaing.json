@@ -1,0 +1,63 @@
+{
+  "termId": "parpaing",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de blocs de béton endommagé, vu en grand angle déformé, avec un champ en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Muan, Corée du Sud",
+      "note": "Forte déformation grand angle et mur ruiné ; 02 et surtout 06 plus lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grand mur de blocs gris en assises régulières, blocs cassés à gauche laissant voir des alvéoles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Muan, Corée du Sud",
+      "note": "Gros blocs pleins d'aspect pierreux, confusion possible avec la pierre de taille ; alvéoles visibles seulement dans la partie ruinée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de clôture enduit et peint en orange, joints de blocs à peine visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Arlington, Massachusetts, États-Unis",
+      "note": "Peint et enduit : les parpaings ne sont pas lisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Angle de maison en blocs de béton gravillonnés avec fenêtres blanches et bardage sombre en partie haute.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Arlington, Massachusetts, États-Unis",
+      "note": "Blocs à parement texturé ressemblant à de la pierre, et bardage visible : risque de confusion."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Muret en parpaings gris autour d'une maison basse à toit de tuiles, avec poteau électrique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.62,
+        "y": 0.53,
+        "largeur": 0.38,
+        "hauteur": 0.33
+      },
+      "lieu": "Île de Noho, Okinawa, Japon",
+      "note": "Parpaings creux typiques en assises ; rectangle sur le mur de droite pour exclure la toiture en tuiles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Muret en parpaings de béton gris aux joints réguliers, avec blocs claustra en haut et une affiche à droite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.24,
+        "largeur": 0.76,
+        "hauteur": 0.47
+      },
+      "lieu": "Kamakura, Japon",
+      "note": "Parpaings de béton nets et caractéristiques ; rectangle sur le mur pour écarter l'affiche et les pierres du soubassement."
+    }
+  ]
+}

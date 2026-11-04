@@ -1,0 +1,11 @@
+{
+  "termId": "chaume",
+  "candidats": [
+    {"fichier": "01.jpg", "vu": "Gros plan des abouts de roseaux serrés d'une couverture en chaume.", "verdict": "validée", "rectangle": null, "lieu": "Ostercappeln, Allemagne", "note": "Matériau de couverture en roseau montré plein cadre, sans ambiguïté avec un autre terme de toiture."},
+    {"fichier": "02.jpg", "vu": "Carte postale ancienne en noir et blanc d'une case au toit de chaume aux Fidji, avec légende imprimée.", "verdict": "rejetée", "rectangle": null, "lieu": "Fidji", "note": "Carte postale ancienne avec texte imprimé ; qualité faible."},
+    {"fichier": "03.jpg", "vu": "Village laotien de maisons en bambou couvertes de chaume d'herbes, sous un ciel blanc.", "verdict": "rejetée", "rectangle": null, "lieu": "Province de Luang Prabang, Laos", "note": "Lumière terne et scène d'ensemble ; d'autres candidates montrent mieux le chaume."},
+    {"fichier": "04.jpg", "vu": "Village tribal indien de huttes en terre couvertes de palmes séchées, homme accroupi au premier plan.", "verdict": "rejetée", "rectangle": null, "lieu": "Ghâts orientaux, Inde", "note": "Couverture en palmes plutôt qu'en paille ou roseau ; sens technique discutable."},
+    {"fichier": "05.jpg", "vu": "Maisonnette blanche au toit de chaume en croupe dans un jardin boisé, derrière une clôture en bois.", "verdict": "rejetée", "rectangle": null, "lieu": "", "note": "Toit assez petit et en forme de croupe : le cadre sur la toiture laisserait hésiter entre chaume et croupe."},
+    {"fichier": "06.jpg", "vu": "Surface d'un versant en chaume de paille avec rangs de ligatures et touffes de mousse.", "verdict": "validée", "rectangle": null, "lieu": "", "note": "Texture de couverture en chaume plein cadre, rangs et liens visibles ; photographie réelle."}
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "pierre-de-taille",
+    "terme": "la pierre de taille",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre taillée en blocs aux faces dressées, posés en assises régulières.",
+    "requetes": [
+      "ashlar masonry wall",
+      "deepcat:\"Ashlar\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Auchinleck Castle, ashlar wall.jpg",
+      "description": "Auchinleck Castle, ashlar masonry at the summit. East Ayrshire, Scotland.",
+      "categories": [
+        "Auchinleck Castle",
+        "Ruins in East Ayrshire",
+        "Self-published work",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Auchinleck_Castle,_ashlar_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Auchinleck_Castle%2C_ashlar_wall.jpg/1280px-Auchinleck_Castle%2C_ashlar_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Hasmonean Masonry from a Tower (3622470040).jpg",
+      "description": "Pre-Herodian (Hasmonean) ashlar masonry on the lower courses of a tower, now part of the so-called \"citadel of David\" or \"citadel of Jerusalem.\" The smaller stone construction of the rampart along the bottom dates to the later Ottoman period. Note how the Hasmonean stones are large and have a recessed frame around the edges of each visible face of the stone. These are also characteristics of Herodian construction, but Herod's masons usually produced a subtler and more even \"boss\" on the stone face (the central raised portion within the frame). The small rectangular indentations on the face of ",
+      "categories": [
+        "Hasmonean dynasty",
+        "Flickr images reviewed by FlickreviewR",
+        "2011 in Old City (Jerusalem)",
+        "Jerusalem stone walls",
+        "Tower of David walls"
+      ],
+      "auteur": "Ian Scott",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hasmonean_Masonry_from_a_Tower_(3622470040).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hasmonean_Masonry_from_a_Tower_%283622470040%29.jpg/1280px-Hasmonean_Masonry_from_a_Tower_%283622470040%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Antelope Creek Masonry Arch Bridge Mitchell Co KS wing wall.jpg",
+      "description": "The stones feature two different finishes, rusticated and smooth. They are laid in an ashlar pattern. There is a course of smooth stones that corresponds to the level of the driving surface and spans the length of the bridge.",
+      "categories": [
+        "Bridges in the United States photographed in 2023",
+        "Self-published work",
+        "September 2023 in Kansas",
+        "National Register of Historic Places with known IDs",
+        "Images from Wiki Loves Monuments 2023 in Kansas",
+        "Images from Wiki Loves Monuments 2023",
+        "Uploaded via Campaign:wlm-us",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2023-09-23",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "National Register of Historic Places missing SDC location of creation",
+        "National Register of Historic Places missing SDC depicts",
+        "Images from Wiki Loves Monuments 2023 in the United States",
+        "Wiki Loves Monuments 2023 in the United States unreviewed",
+        "Antelope Creek Masonry Arch Bridge"
+      ],
+      "auteur": "SharonPapierdreams",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antelope_Creek_Masonry_Arch_Bridge_Mitchell_Co_KS_wing_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Antelope_Creek_Masonry_Arch_Bridge_Mitchell_Co_KS_wing_wall.jpg/1280px-Antelope_Creek_Masonry_Arch_Bridge_Mitchell_Co_KS_wing_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4005,
+      "hauteur": 2670
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Mur Inca Décembre 2007.jpg",
+      "description": "Mur Inca à Cuzco, Pérou",
+      "categories": [
+        "Taken with Sony DSC-V1",
+        "Self-published work",
+        "Inca walls",
+        "Files with coordinates missing SDC location of creation",
+        "Stone walls in Cusco (Polygonal)"
+      ],
+      "auteur": "Martin St-Amant ( S23678 )",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mur_Inca_D%C3%A9cembre_2007.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mur_Inca_D%C3%A9cembre_2007.jpg/1280px-Mur_Inca_D%C3%A9cembre_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2969,
+      "hauteur": 1259
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Tunnel unter dem Damm der Nationalbahn bei der Station Mellingen 03.jpg",
+      "description": "Ashlar masonry of the road tunnel under the Nationalbahn railway line in Mellingen, canton of Aargau, Switzerland",
+      "categories": [
+        "Mellingen, Switzerland",
+        "Schweizerische Nationalbahn",
+        "Tunnels in the canton of Aargau",
+        "Self-published work",
+        "Pedestrian tunnels in Switzerland",
+        "Stone walls in the canton of Aargau",
+        "Disused rail tunnels in Switzerland"
+      ],
+      "auteur": "Arkelin",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tunnel_unter_dem_Damm_der_Nationalbahn_bei_der_Station_Mellingen_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Tunnel_unter_dem_Damm_der_Nationalbahn_bei_der_Station_Mellingen_03.jpg/1280px-Tunnel_unter_dem_Damm_der_Nationalbahn_bei_der_Station_Mellingen_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3286,
+      "hauteur": 2472
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Delfos, ruinas 18.jpg",
+      "description": "Plants growing in the joint of a ashlar wall. Delphi, Phocis, Greece.",
+      "categories": [
+        "Wall vegetation",
+        "Asplenietea",
+        "Self-published work",
+        "Flora of Greece in April",
+        "Greece photographs taken on 2013-04-12",
+        "Photographs by LBM1948",
+        "Plants growing in masonry joints",
+        "Unidentified Asterales in Greece",
+        "Votive offering of Krateros (Delphi)"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Delfos,_ruinas_18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Delfos%2C_ruinas_18.jpg/1280px-Delfos%2C_ruinas_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4256,
+      "hauteur": 2524
+    }
+  ]
+}

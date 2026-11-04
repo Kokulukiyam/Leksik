@@ -1,0 +1,61 @@
+{
+  "termId": "allege",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue lointaine d'une école en brique de trois niveaux, en partie masquée par un arbre, avec des rangées de fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Clyde, Kansas, États-Unis",
+      "note": "Allèges minuscules à l'échelle de la façade, illisibles sur téléphone."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade étroite en pierre et brique à Tournai : trois fenêtres à l'étage au-dessus d'un panneau de brique, puis une vitrine de restaurant au rez-de-chaussée.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.455, "y": 0.53, "largeur": 0.13, "hauteur": 0.075 },
+      "lieu": "Tournai, Belgique",
+      "note": "Panneau de brique sous la fenêtre centrale, entre l'appui et le bandeau du plancher : allège nette ; le rectangle exclut l'appui et le bandeau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Intérieur d'une chambre : fenêtre à deux vantaux avec tablette, et sous elle un pan de mur nu où se trouve un radiateur.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.395, "y": 0.755, "largeur": 0.485, "hauteur": 0.245 },
+      "lieu": "Liverpool, Royaume-Uni",
+      "note": "Allège vue de l'intérieur, entre la tablette et le sol, avec le radiateur typique ; le rectangle exclut la tablette (appui). Image un peu sombre mais lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre cintrée grillagée d'une banque Beaux-Arts, masquée par une grande enseigne commerciale, au-dessus de jardinières et d'une rambarde.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cleveland, Ohio, États-Unis",
+      "note": "Allège en grande partie cachée par les jardinières et la rambarde ; enseigne dominante ; confusion possible avec le soubassement."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue de Tournai en contre-jour : hôtel de maître avec portail en arc, et à droite un bâtiment en pierre dont les fenêtres hautes sont aveugles, avec panneaux à balustres en dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tournai, Belgique",
+      "note": "Fenêtres aveugles et allèges à balustres confondables avec un garde-corps ou une balustrade ; partie gauche dans l'ombre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre à petits bois vue de l'intérieur, neige dehors, une plante posée sur la tablette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre la fenêtre et sa tablette (appui), l'allège sous la fenêtre n'est pas visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison en brique à deux étages de fenêtres à guillotine au-dessus d'une devanture de musée, avec enseigne « Strangers' Hall ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Norwich, Royaume-Uni",
+      "note": "Allèges peu lisibles (bande de brique très mince sous les fenêtres du premier étage, confondue avec le mur courant) ; rien de dominant."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "cariatide",
+    "terme": "la cariatide",
+    "categorie": "Ornement",
+    "definition": "Statue de femme qui sert de support à la place d'une colonne ou d'un pilastre.",
+    "requetes": [
+      "incategory:\"Caryatids\"",
+      "caryatids"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:West Ham Technical Institute 1900.jpg",
+      "description": "Caryatids by William Birnie Rhind at West Ham Technical Institute",
+      "categories": [
+        "Caryatids",
+        "Self-published work",
+        "Victorian architecture in London",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)"
+      ],
+      "auteur": "Diomedes1962",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:West_Ham_Technical_Institute_1900.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/West_Ham_Technical_Institute_1900.jpg/1280px-West_Ham_Technical_Institute_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Two caryatids acma athens greece.jpg",
+      "description": "Caryatid ACMA",
+      "categories": [
+        "Self-published work",
+        "Files by Deiadameian",
+        "Caryatid A (Erechtheum)",
+        "Caryatid B (Erechtheum)"
+      ],
+      "auteur": "Deiadameian",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Two_caryatids_acma_athens_greece.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Two_caryatids_acma_athens_greece.jpg/1280px-Two_caryatids_acma_athens_greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Caryatids by William Birnie Rhind at West Ham Technical Institute.jpg",
+      "description": "Caryatids by William Birnie Rhind at West Ham Technical Institute",
+      "categories": [
+        "Caryatids",
+        "Self-published work",
+        "Victorian architecture in London",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)"
+      ],
+      "auteur": "Diomedes1962",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caryatids_by_William_Birnie_Rhind_at_West_Ham_Technical_Institute.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Caryatids_by_William_Birnie_Rhind_at_West_Ham_Technical_Institute.jpg/1280px-Caryatids_by_William_Birnie_Rhind_at_West_Ham_Technical_Institute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Porch of the Maidens (Caryatids) 4.jpg",
+      "description": "Porch of the Maidens (Caryatids), Acropolis New Museum.",
+      "categories": [
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Flickr images uploaded by Flickr upload bot",
+        "Files with coordinates missing SDC location of creation",
+        "Caryatid A (Erechtheum)",
+        "Files from Tilemahos Efthimiadis Flickr stream"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Porch_of_the_Maidens_(Caryatids)_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Porch_of_the_Maidens_%28Caryatids%29_4.jpg/1280px-Porch_of_the_Maidens_%28Caryatids%29_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Stipo di leonard van der vinne, 1664.jpg",
+      "description": "Tesoro dei Granduchi",
+      "categories": [
+        "Caryatids",
+        "Corinthian columns",
+        "Self-published work",
+        "Photographs by User:Sailko",
+        "Italian MiBAC disclaimer warning",
+        "All media supported by Wikimedia CH",
+        "Images by Sailko - Supported by Wikimedia CH",
+        "1660s furniture",
+        "17th-century marquetry",
+        "Gilded furniture",
+        "Stretchers (furniture components)",
+        "Photographs of decorative arts by User:Sailko - Furniture - Storage",
+        "Ivory inlays",
+        "Furniture in the Tesoro dei Granduchi",
+        "Carved wooden storage furniture",
+        "Leonard van der Vinne",
+        "Broken pediments on furniture",
+        "Bun feet (furniture components)"
+      ],
+      "auteur": "Sailko",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stipo_di_leonard_van_der_vinne,_1664.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Stipo_di_leonard_van_der_vinne%2C_1664.jpg/1280px-Stipo_di_leonard_van_der_vinne%2C_1664.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Two caryatids acma greece.jpg",
+      "description": "Caryatids in center from Erechtheum Acropolis Museum Athens Greece",
+      "categories": [
+        "Self-published work",
+        "Caryatids of Erechtheum in the Acropolis Museum (Athens)",
+        "Files by Deiadameian"
+      ],
+      "auteur": "Deiadameian",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Two_caryatids_acma_greece.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Two_caryatids_acma_greece.jpg/1280px-Two_caryatids_acma_greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 4080
+    }
+  ]
+}

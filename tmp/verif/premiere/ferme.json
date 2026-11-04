@@ -1,0 +1,53 @@
+{
+  "termId": "ferme",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grande halle avec charpente métallique : fermes triangulées en treillis successives sous un lanterneau vitré, arc en fond de halle.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.0, "y": 0.0, "largeur": 1.0, "hauteur": 0.62 },
+      "lieu": "Abattoirs (Slakthusområdet), Stockholm, Suède",
+      "note": "Fermes métalliques répétées bien visibles ; rectangle sur la charpente pour écarter l'arc du fond."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Même halle, cadrage bas avec une caravane chromée au premier plan ; la charpente n'occupe que le haut de l'image.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Charpente trop petite et lointaine, la caravane domine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même halle que la 01, cadrage presque identique, arc au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Doublon de la 01."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tirage ancien numérisé avec mire de couleurs : toit d'une maison en cours de démolition, chevrons à nu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zurich, Suisse",
+      "note": "Document d'archive avec mire ; on voit surtout des chevrons, pas des fermes."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Halle aux fermes métalliques triangulées avec lanterneau, utilitaires garés au sol.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.0, "y": 0.0, "largeur": 1.0, "hauteur": 0.62 },
+      "lieu": "Stockholm, Suède",
+      "note": "Fermes nettes en partie haute, sans arc parasite ; rectangle pour écarter les véhicules."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Intérieur d'église en noir et blanc (couleurs partielles) : charpente de bois à aisseliers courbes, grand arc de pierre au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "St Stephen, West Bowling, Bradford, Royaume-Uni",
+      "note": "Image retouchée (désaturation partielle) et arc de pierre dominant, risque de confusion avec arc."
+    }
+  ]
+}

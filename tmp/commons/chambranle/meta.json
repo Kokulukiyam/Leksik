@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "chambranle",
+    "terme": "le chambranle",
+    "categorie": "Façade et ouvertures",
+    "definition": "Encadrement en saillie, mouluré ou non, qui borde une porte, une fenêtre ou une cheminée.",
+    "requetes": [
+      "chambranle porte",
+      "incategory:\"Door frames\"",
+      "door surround molding"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Foug chambranle de porte sculpté.jpg",
+      "description": "Foug chambranle (ou fronton) de porte sculpté - Maison Kayser classée aux Monuments Historiques le 11 février 1927, située à l'angle de la Grande-Rue et de la rue de l'église, rebaptisée aujourd'hui rue François Mitterrand ( Meurthe-et-Moselle ).",
+      "categories": [
+        "Base Mérimée",
+        "GFDL",
+        "Monuments historiques classés",
+        "License migration redundant",
+        "Foug",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Chambranles in France",
+        "Tympanums in Meurthe-et-Moselle",
+        "Cultural heritage monuments in France with known IDs",
+        "France photographs taken on 2010-10-31",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Files with coordinates missing SDC location of creation (48° N, 5° E)",
+        "Photographs by Djampa in Meurthe-et-Moselle"
+      ],
+      "auteur": "Utilisateur:Djampa - User:Djampa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Foug_chambranle_de_porte_sculpt%C3%A9.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Foug_chambranle_de_porte_sculpt%C3%A9.jpg/1280px-Foug_chambranle_de_porte_sculpt%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Commercy chambranle de porte sculpté P1060964.JPG",
+      "description": "Commercy ( Meuse ), 15 rue des juifs, chambranle de porte sculpté P1060964",
+      "categories": [
+        "Streets in Meuse",
+        "Tympanums in Meuse",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ8",
+        "Commercy",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Chambranles in France",
+        "Files with coordinates missing SDC location of creation (48° N, 5° E)",
+        "Rue des Juifs",
+        "Photographs by Djampa in Meuse"
+      ],
+      "auteur": "Utilisateur:Djampa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Commercy_chambranle_de_porte_sculpt%C3%A9_P1060964.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Commercy_chambranle_de_porte_sculpt%C3%A9_P1060964.JPG/1280px-Commercy_chambranle_de_porte_sculpt%C3%A9_P1060964.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chambranle porte salle des fetes elysee.JPG",
+      "description": "chambranle Salle des fêtes - Palais de l'Élysée",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix P80",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Images from the European Heritage Days 2010",
+        "Salle des fêtes - Palais de l'Élysée"
+      ],
+      "auteur": "Chatsam",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chambranle_porte_salle_des_fetes_elysee.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Chambranle_porte_salle_des_fetes_elysee.JPG/1280px-Chambranle_porte_salle_des_fetes_elysee.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chambranle de porte, AO 4829 (531).jpg",
+      "description": "Louvre 2022",
+      "categories": [
+        "Near Eastern Antiquities in the Louvre - Room 311",
+        "Self-published work",
+        "Archaeological finds from Umm al-Amad"
+      ],
+      "auteur": "Onceinawhile",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chambranle_de_porte,_AO_4829_(531).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Chambranle_de_porte%2C_AO_4829_%28531%29.jpg/1280px-Chambranle_de_porte%2C_AO_4829_%28531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mba metz chambranle de porte.jpg",
+      "description": "Collections of Musées de la Cour d'Or of Metz",
+      "categories": [
+        "Self-published work",
+        "Collections of Musées de la Cour d'Or of Metz"
+      ],
+      "auteur": "Chatsam",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mba_metz_chambranle_de_porte.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Mba_metz_chambranle_de_porte.jpg/1280px-Mba_metz_chambranle_de_porte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Manoir de Livet. Partie du chambranle de la porte ouest.jpg",
+      "description": "Manoir de Livet. Partie du chambranle de la porte ouest posé sur le soubassement",
+      "categories": [
+        "Manoir de Saint-Gilles de Livet (Rumesnil)",
+        "Self-published work"
+      ],
+      "auteur": "Pimprenel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Manoir_de_Livet._Partie_du_chambranle_de_la_porte_ouest.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Manoir_de_Livet._Partie_du_chambranle_de_la_porte_ouest.jpg/1280px-Manoir_de_Livet._Partie_du_chambranle_de_la_porte_ouest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    }
+  ]
+}

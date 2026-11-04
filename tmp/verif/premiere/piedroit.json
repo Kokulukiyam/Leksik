@@ -1,0 +1,53 @@
+{
+  "termId": "piedroit",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Crapaudine de pierre sculptée au sol, ruines de Persépolis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Persépolis, Iran",
+      "note": "Montre une crapaudine, pas un piédroit."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte intérieure en bois dans un encadrement de pierre ancien avec gonds.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ostrava, Tchéquie",
+      "note": "Encadrement mouluré : confusion piédroit/chambranle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan d'un montant de pierre orné de rinceaux et d'une torsade, porte sombre à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Périgueux, France",
+      "note": "Cadrage trop serré, se lit comme un pilastre décoré ; la baie n'est pas lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fragment de montant de porte de temple sculpté exposé dans un musée, avec cartel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jaipur, Inde",
+      "note": "Pièce de musée hors contexte, cartel visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Culot sculpté d'une figure féminine aux longs cheveux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Albi, France",
+      "note": "Montre un culot, pas le piédroit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'une dalle de pierre avec trou de gond, main visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kilmaurs, Écosse",
+      "note": "Dalle réemployée en gros plan, illisible comme piédroit."
+    }
+  ]
+}

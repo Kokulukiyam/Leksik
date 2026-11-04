@@ -1,0 +1,173 @@
+{
+  "terme": {
+    "id": "coupole",
+    "terme": "la coupole",
+    "categorie": "Structure",
+    "definition": "Voûte hémisphérique ou ovoïde couvrant un espace, vue de l'intérieur.",
+    "requetes": [
+      "deepcat:\"Interiors of domes\"",
+      "dome interior view"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Christian IXs Chapel Dome Interior 2015-03-31-4812.jpg",
+      "description": "Neo-byzantine dome in Christian IX's Chapel in Roskilde Cathedral, Roskilde, Denmark. Built by architect Andreas Clemmensen 1917-1924.",
+      "categories": [
+        "Taken with Canon EOS 600D",
+        "ISO speed rating 100",
+        "Taken with Canon EF-S 18-55mm F3.5-5.6 IS II",
+        "Self-published work",
+        "Photographs by User:Slaunger",
+        "Featured pictures by User:Slaunger",
+        "Neo-Byzantine domes",
+        "Exposure time 1/2 sec",
+        "Built in Denmark in 1924",
+        "Churches in Denmark photographed in 2015",
+        "Lens focal length 18 mm",
+        "F-number f/10",
+        "Church dome interiors in Denmark",
+        "2015 in Roskilde",
+        "Featured pictures of Region Sjælland",
+        "Featured pictures of churches in Denmark",
+        "March 2015 Denmark photographs",
+        "Denmark photographs taken on 2015-03-31",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of ceilings",
+        "Christian IX Kapel - interiors"
+      ],
+      "auteur": "Slaunger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Christian_IXs_Chapel_Dome_Interior_2015-03-31-4812.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Christian_IXs_Chapel_Dome_Interior_2015-03-31-4812.jpg/1280px-Christian_IXs_Chapel_Dome_Interior_2015-03-31-4812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4927,
+      "hauteur": 3091
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Pažaislis Monastery interior dome, Kaunas, Lithuania - Diliff.jpg",
+      "description": "The interior of the church at Pažaislis Monastery, Kaunas, Lithuania.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Pažaislis church",
+        "Self-published work",
+        "Church ceilings in Lithuania",
+        "Church dome interiors in Lithuania",
+        "Featured pictures by User:Diliff",
+        "Featured pictures of churches in Lithuania",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of ceilings",
+        "Featured pictures of Kaunas"
+      ],
+      "auteur": "Diliff",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pa%C5%BEaislis_Monastery_interior_dome,_Kaunas,_Lithuania_-_Diliff.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pa%C5%BEaislis_Monastery_interior_dome%2C_Kaunas%2C_Lithuania_-_Diliff.jpg/1280px-Pa%C5%BEaislis_Monastery_interior_dome%2C_Kaunas%2C_Lithuania_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3989,
+      "hauteur": 3862
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Sant'Agnese in Agone (Rome) - Dome interior (Wide view).jpg",
+      "description": "",
+      "categories": [
+        "Artworks without Wikidata item",
+        "Self-published work",
+        "Featured pictures by Livioandronico2013",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of ceilings",
+        "Featured pictures of churches in Rome",
+        "Sant'Agnese in Agone (Rome) - Dome interior"
+      ],
+      "auteur": "Francesco Borromini / Ciro Ferri / Baciccio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sant%27Agnese_in_Agone_(Rome)_-_Dome_interior_(Wide_view).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Sant%27Agnese_in_Agone_%28Rome%29_-_Dome_interior_%28Wide_view%29.jpg/1280px-Sant%27Agnese_in_Agone_%28Rome%29_-_Dome_interior_%28Wide_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5535,
+      "hauteur": 3470
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Jerusalem-2013(2)-Temple Mount-Dome of the Chain (dome interior).jpg",
+      "description": "The ceramic tile detail of the interior dome of the Dome of the Chain (Arabic: قبة السلسلة, Qubbat al-Silsila), on the Temple Mount in the Old City of Jerusalem .",
+      "categories": [
+        "Dome of the Chain",
+        "Attribution only license",
+        "Self-published work",
+        "Dome interiors",
+        "Information field template with formatting",
+        "Israel by User:Godot13",
+        "All Images by User:Godot13",
+        "November 2013 in Jerusalem",
+        "Photographs taken on 2013-11-14",
+        "Files with coordinates missing SDC location of creation",
+        "2013 User:Godot13",
+        "All photographs by User:Godot13",
+        "Temple Mount by User:Godot13"
+      ],
+      "auteur": "Godot13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jerusalem-2013(2)-Temple_Mount-Dome_of_the_Chain_(dome_interior).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Chain_%28dome_interior%29.jpg/1280px-Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Chain_%28dome_interior%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6500,
+      "hauteur": 4546
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Duomo (Montefiascone) - Dome Interior.jpg",
+      "description": "",
+      "categories": [
+        "Artworks without Wikidata item",
+        "Self-published work",
+        "Featured pictures of Lazio",
+        "Church dome interiors in Lazio",
+        "Featured pictures by Livioandronico2013",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of ceilings",
+        "Duomo (Montefiascone) - Dome"
+      ],
+      "auteur": "Carlo Fontana",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duomo_(Montefiascone)_-_Dome_Interior.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Duomo_%28Montefiascone%29_-_Dome_Interior.jpg/1280px-Duomo_%28Montefiascone%29_-_Dome_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5405,
+      "hauteur": 3736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Galerie Lafayette Haussmann Dome.jpg",
+      "description": "Balcons et coupole des magasins Galeries Lafayette du boulevard Haussmann, à Paris. Cette image a un champ de vision d'environ 170° (sur les deux axes) et a été réalisée à partir de 51 images (trois panoramas de 17 images à 3 expositions différentes). Le magasin est ici paré de ses habituelles décorations de Noël et notamment du célèbre sapin suspendu.",
+      "categories": [
+        "2 December",
+        "Featured pictures of Paris",
+        "Self-published work",
+        "Featured pictures on Wikipedia, English",
+        "Featured pictures on Wikipedia, German",
+        "Featured pictures on Wikipedia, Japanese",
+        "Featured pictures on Wikipedia, Persian",
+        "Featured pictures on Wikipedia, Turkish",
+        "Featured pictures on Wikipedia, Vietnamese",
+        "Christmas 2009 in shopping malls",
+        "Christmas trees in 2009",
+        "Interiors of shops in Paris",
+        "Christmas 2009 in Paris",
+        "Featured pictures by Benh",
+        "Christmas trees in Paris",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Featured pictures of Christmas",
+        "Pictures of the Year/2010 (finalist)",
+        "Featured pictures from Flickr",
+        "Christmas decorations at the Galeries Lafayette Haussmann",
+        "Interior of the Lafayette Coupole"
+      ],
+      "auteur": "Benh LIEU SONG ( Flickr )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Galerie_Lafayette_Haussmann_Dome.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Galerie_Lafayette_Haussmann_Dome.jpg/1280px-Galerie_Lafayette_Haussmann_Dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5678,
+      "hauteur": 7044
+    }
+  ]
+}

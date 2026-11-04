@@ -1,0 +1,58 @@
+{
+  "termId": "voute",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Casemate d'un fort, voûte en berceau en brique couvrant toute la salle, avec deux fenêtres au fond.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 1.0,
+        "hauteur": 0.29
+      },
+      "lieu": "Liège, Belgique",
+      "note": "Voûte en berceau en brique, couvrante et dominante ; rectangle sur la partie haute pour écarter les arcs des fenêtres."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plafond d'église vu à la verticale, voûte en berceau peinte de tableaux encadrés de stucs, avec l'orgue sur le côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pörtschach am Wörther See, Autriche",
+      "note": "Vue zénithale qui aplatit la courbure : se lit comme un plafond à caissons peints."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Lunette semi-circulaire peinte (baptême du Christ) au mur d'extrémité d'une voûte en berceau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pörtschach am Wörther See, Autriche",
+      "note": "Montre surtout la lunette (tympan) et des peintures, la voûte n'est pas lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Colonne métallique à chapiteau sous la jonction de deux poutres d'un métro aérien, voûtains de brique au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Le sujet est la colonne et les poutres ; les voûtains en brique sont accessoires."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Extrados d'une voûte vu dans les combles, planches et maçonnerie en lumière faible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Verolanuova, Italie",
+      "note": "Image illisible : on ne reconnaît pas une voûte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Nef d'église de village vue à travers un grand arc triomphal, couverte d'une voûte en bois lambrissée à pénétrations avec tribune peinte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pomßen, Allemagne",
+      "note": "Le grand arc maçonné au premier plan domine et déborde dans tout cadrage de la voûte : doute arc / voûte ; voûte en bois."
+    }
+  ]
+}

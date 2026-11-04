@@ -1,7 +1,7 @@
 // Cherche des images candidates sur Wikimedia Commons pour chaque terme et les télécharge
 // dans tmp/commons/<termId>/ avec leurs métadonnées (meta.json).
 //
-// Usage : NODE_USE_ENV_PROXY=1 node scripts/commons.mjs [termId ...] [--max=6] [--refaire]
+// Usage : NODE_USE_ENV_PROXY=1 node scripts/commons.mjs [termId ...] [--max=6] [--refaire] [--suite]
 // (NODE_USE_ENV_PROXY n'est utile que derrière un proxy HTTP.)
 import { promises as fs } from "node:fs";
 import path from "node:path";
@@ -108,17 +108,21 @@ async function main() {
   const choisis = filtre.length ? termes.filter((t) => filtre.includes(t.id)) : termes;
   for (const terme of choisis) {
     const dossier = path.join(SORTIE, terme.id);
-    if (!args.includes("--refaire") && (await fs.stat(path.join(dossier, "meta.json")).catch(() => null))) continue;
+    // --suite : seconde recherche avec « requetes2 », candidates ajoutées après celles déjà téléchargées.
+    const suite = args.includes("--suite");
+    const existant = await fs.readFile(path.join(dossier, "meta.json"), "utf8").then(JSON.parse, () => null);
+    if (suite ? !terme.requetes2 : existant && !args.includes("--refaire")) continue;
+    const deja = suite ? (existant?.candidats ?? []) : [];
     await fs.mkdir(dossier, { recursive: true });
     // Requêtes dans l'ordre, jusqu'à avoir assez de candidates (pour économiser les appels à l'API),
     // puis sélection alternée entre les requêtes pour varier les sources.
     const listes = [];
-    for (const q of terme.requetes) {
+    for (const q of suite ? terme.requetes2 : terme.requetes) {
       const pages = await rechercher(q);
-      listes.push(pages.map(candidat).filter(Boolean));
+      listes.push(pages.map(candidat).filter((c) => c && !deja.some((d) => d.titre === c.titre)));
       if (new Set(listes.flat().map((c) => c.titre)).size >= MAX * 2) break;
     }
-    const vus = new Set();
+    const vus = new Set(deja.map((d) => d.titre));
     const retenus = [];
     for (let i = 0; retenus.length < MAX && listes.some((l) => l.length > i); i++) {
       for (const l of listes) {
@@ -129,11 +133,11 @@ async function main() {
         }
       }
     }
-    const meta = [];
+    const meta = [...deja];
     // Candidates de réserve si certains téléchargements échouent.
     const reserve = [...new Map(listes.flat().filter((c) => !vus.has(c.titre)).map((c) => [c.titre, c])).values()];
     for (const c of [...retenus, ...reserve]) {
-      if (meta.length >= MAX) break;
+      if (meta.length - deja.length >= MAX) break;
       const fichier = `${String(meta.length + 1).padStart(2, "0")}.jpg`;
       try {
         await fs.writeFile(path.join(dossier, fichier), await requete(c.url, "binaire"));
@@ -143,7 +147,7 @@ async function main() {
       }
     }
     await fs.writeFile(path.join(dossier, "meta.json"), JSON.stringify({ terme, candidats: meta }, null, 2));
-    console.log(`${terme.id}: ${meta.length} candidates`);
+    console.log(`${terme.id}: ${meta.length - deja.length} candidates${suite ? " (seconde recherche)" : ""}`);
   }
 }
 

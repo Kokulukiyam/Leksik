@@ -1,0 +1,58 @@
+{
+  "termId": "moucharabieh",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade de maison du Caire avec plusieurs moucharabiehs en bois en saillie aux étages et des fenêtres grillagées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.585,
+        "y": 0.21,
+        "largeur": 0.2,
+        "hauteur": 0.24
+      },
+      "lieu": "Le Caire, Égypte",
+      "note": "Moucharabieh en place devant une fenêtre, bien identifiable ; le cadre désigne le principal."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maisons de Tbilissi avec balcons en bois ajouré découpé et, à droite, un panneau blanc ajouré devant une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tbilissi, Géorgie",
+      "note": "Bois découpé et non tourné ; les balcons dominent ; doute sur le terme."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Panneau de moucharabieh en bois tourné sombre, à motifs de fuseaux et cadres, exposé sur un mur rouge.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Paris, musée du Louvre, France",
+      "note": "Grillage de bois tourné à motifs caractéristique, net et dominant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grande paroi de moucharabieh en bois tourné à arcades, avec soubassement en panneaux pleins, exposée au musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, musée du Louvre, France",
+      "note": "Pièce de musée vue comme une cloison complète ; se lit comme un meuble ou un claustra plus qu'un grillage de fenêtre ; 03 est préférable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue plongeante sur une façade en brique de Tbilissi avec un oriel blanc à panneaux de bois découpé et un balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tbilissi, Géorgie",
+      "note": "Bois découpé, forme d'oriel ; confusion probable avec oriel."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mosquée avec minaret et immeuble en arrière-plan ; petits moucharabiehs à peine visibles sur les fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément minuscule, image dominée par la mosquée."
+    }
+  ]
+}

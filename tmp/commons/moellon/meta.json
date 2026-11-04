@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "moellon",
+    "terme": "le moellon",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre brute ou grossièrement équarrie, de petite taille, employée en maçonnerie.",
+    "requetes": [
+      "rubble masonry wall",
+      "mur en moellons"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Limestone rubble wall with brick quoins.jpg",
+      "description": "Wall at the end of a farm outbuilding. Preserved in Para Vista, Adelaide, South Australia. Wall is built with limestone rubble mostly, ploughed up from the fields surrounding, with red-brick quoins.",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix S5700",
+        "Masonry",
+        "Buildings in Adelaide",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Ruins in Adelaide"
+      ],
+      "auteur": "Peripitus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Limestone_rubble_wall_with_brick_quoins.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Limestone_rubble_wall_with_brick_quoins.jpg/1280px-Limestone_rubble_wall_with_brick_quoins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Rubble-fill-wall.jpg",
+      "description": "Cross section of rubble-fill wall",
+      "categories": [
+        "PD-user",
+        "Construction drawings",
+        "Drawings of masonry"
+      ],
+      "auteur": "Newell Post sur Wikipédia anglais",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rubble-fill-wall.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Rubble-fill-wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1063,
+      "hauteur": 1375
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:CCC Camps BR-88, 89 and 90, Deschutes Project, Oregon, CCC enrollees placing rubble masonry abutments for farm flume... - NARA - 293606.jpg",
+      "description": "",
+      "categories": [
+        "1941 in Oregon",
+        "PD US Government",
+        "Images from the National Archives and Records Administration",
+        "Agriculture in Oregon",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "Black and white photographs of Oregon",
+        "NARA images of Oregon",
+        "US National Archives series: Civilian Conservation Corps Photographs and Related Correspondence, compiled 1939 - 1941",
+        "Deschutes Project (Civilian Conservation Corps)",
+        "March 1941 in the United States",
+        "Photographs taken on 1941-03-06",
+        "Dry stone walls in the United States",
+        "US National Archives location: other",
+        "CCC Camp BR-88, 89 and 90"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CCC_Camps_BR-88,_89_and_90,_Deschutes_Project,_Oregon,_CCC_enrollees_placing_rubble_masonry_abutments_for_farm_flume..._-_NARA_-_293606.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/CCC_Camps_BR-88%2C_89_and_90%2C_Deschutes_Project%2C_Oregon%2C_CCC_enrollees_placing_rubble_masonry_abutments_for_farm_flume..._-_NARA_-_293606.jpg/1280px-CCC_Camps_BR-88%2C_89_and_90%2C_Deschutes_Project%2C_Oregon%2C_CCC_enrollees_placing_rubble_masonry_abutments_for_farm_flume..._-_NARA_-_293606.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2063
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cylindrical masonry watchtower along western wall, Ribat Tit - El Jadida, Morocco - Oct 2026.jpg",
+      "description": "A detailed close-up view of a semi-circular, crenellated coastal watchtower along the western seaward ramparts of Ribat Tit (Moulay Abdellah Amghar) near El Jadida, Morocco. Constructed using traditional rubble masonry and mortar, this tower features crenellations and narrow observation slits designed to monitor maritime activity along the Atlantic coast. Built in the 12th century under the Amghar dynasty, such towers formed an essential part of the ribat's defensive perimeter.",
+      "categories": [
+        "Towers in Morocco",
+        "Cultural heritage monuments in Morocco",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-ma",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2026",
+        "Moulay Abdellah commune",
+        "Images from Wiki Loves Monuments 2026 in Morocco"
+      ],
+      "auteur": "Xpelli",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cylindrical_masonry_watchtower_along_western_wall,_Ribat_Tit_-_El_Jadida,_Morocco_-_Oct_2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Cylindrical_masonry_watchtower_along_western_wall%2C_Ribat_Tit_-_El_Jadida%2C_Morocco_-_Oct_2026.jpg/1280px-Cylindrical_masonry_watchtower_along_western_wall%2C_Ribat_Tit_-_El_Jadida%2C_Morocco_-_Oct_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2017-08-01 Random rubble masonary, Albufeira.JPG",
+      "description": "An example of the construction of a random rubble masonry wall in the city of Albufeira , Algarve, Portugal.",
+      "categories": [
+        "Attribution only license",
+        "Stone walls in Portugal",
+        "Dry stone in Portugal",
+        "Images by Kolforn",
+        "Files with coordinates missing SDC location of creation",
+        "August 2017 in Algarve",
+        "Portugal photographs taken on 2017-08-01",
+        "Stonemasonry in Faro (district)"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017-08-01_Random_rubble_masonary,_Albufeira.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2017-08-01_Random_rubble_masonary%2C_Albufeira.JPG/1280px-2017-08-01_Random_rubble_masonary%2C_Albufeira.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Masonry revetments along the foot of the cliff face, Citadel, Victoria Gozo 03.jpg",
+      "description": "Cette image concerne un bien culturel maltais de numéro d'inventaire 01473 .",
+      "categories": [
+        "Cultural heritage monuments in Malta with known IDs",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2016",
+        "Images from Wiki Loves Monuments 2016 in Malta",
+        "Uploaded via Campaign:wlm-mt",
+        "Malta photographs taken on 2016-09-20",
+        "Northern enceinte (Cittadella)"
+      ],
+      "auteur": "BrandyMay",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Masonry_revetments_along_the_foot_of_the_cliff_face,_Citadel,_Victoria_Gozo_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Masonry_revetments_along_the_foot_of_the_cliff_face%2C_Citadel%2C_Victoria_Gozo_03.jpg/1280px-Masonry_revetments_along_the_foot_of_the_cliff_face%2C_Citadel%2C_Victoria_Gozo_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6666,
+      "hauteur": 4545
+    }
+  ]
+}

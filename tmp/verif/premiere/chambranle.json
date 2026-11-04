@@ -1,0 +1,53 @@
+{
+  "termId": "chambranle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Portail de maison avec pilastres cannelés, entablement, fronton brisé à volutes, niche avec statue et angelots au-dessus d'une porte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Foug, France",
+      "note": "Composition de portail chargée (pilastres, fronton, niche, cartouche) : le chambranle n'est pas isolable sans ambiguïté (pilastre, fronton, piédroit possibles)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Partie haute d'un encadrement de porte en pierre mouluré à crossettes, avec coquille sculptée sur le linteau et plaque « 15 », porte turquoise en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Commercy, France",
+      "note": "Seule la partie haute de l'encadrement est visible (piédroit gauche caché par le lierre) ; la coquille attire l'œil sur le linteau : confusion chambranle / linteau trop forte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Intérieur doré du palais de l'Élysée : médaillon sculpté d'une figure allégorique dans un panneau de boiserie, angle d'un encadrement à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Montre surtout un dessus-de-porte / médaillon décoratif ; le chambranle n'est ni dominant ni identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bloc de pierre sculpté érodé exposé dans une vitrine de musée, avec cartel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Musée du Louvre, Paris, France",
+      "note": "Fragment archéologique hors contexte, illisible comme chambranle."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bloc de linteau en arc avec masque feuillu sculpté, encastré au-dessus d'un passage dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Metz, France",
+      "note": "Fragment muséal évoquant plutôt un linteau ou un tympan ; pas de chambranle lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bas d'une porte en bois cloutée ouverte sur un pré, avec le pied d'un montant de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rumesnil, France",
+      "note": "Élément à peine visible et sans moulure identifiable ; le terme n'est qu'une hypothèse."
+    }
+  ]
+}

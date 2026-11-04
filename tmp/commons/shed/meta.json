@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "shed",
+    "terme": "le shed",
+    "categorie": "Toitures",
+    "definition": "Toiture en dents de scie dont un versant de chaque dent est vitré pour éclairer l'intérieur, typique des bâtiments industriels.",
+    "requetes": [
+      "incategory:\"Sawtooth roofs\"",
+      "sawtooth roof factory"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hobart north view Cutler 2008.jpg",
+      "description": "View over the Engineers Building and Tasman Bridge from the Grand Chancellor, nipaluna / Hobart",
+      "categories": [
+        "Tasman Highway",
+        "Sawtooth roofs",
+        "Roundabouts",
+        "Tasman Bridge",
+        "Queens Domain, Hobart",
+        "Hotel Grand Chancellor, Hobart",
+        "Hobart Cenotaph",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Wendy Cutler",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hobart_north_view_Cutler_2008.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Hobart_north_view_Cutler_2008.jpg/1280px-Hobart_north_view_Cutler_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Zoltek factory building, sawtooth roof, 2020 Nyergesújfalu.jpg",
+      "description": ": Zoltek sawtooth roof factory building and factory chimney close to (from) Munkás Street, Nyergesújfalu , Komárom-Esztergom County , Hungary",
+      "categories": [
+        "Sawtooth roofs",
+        "Self-published work",
+        "July 2020 Hungary photographs",
+        "Factory chimneys in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "Buildings in Nyergesújfalu",
+        "Zoltek Zrt."
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zoltek_factory_building,_sawtooth_roof,_2020_Nyerges%C3%BAjfalu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Zoltek_factory_building%2C_sawtooth_roof%2C_2020_Nyerges%C3%BAjfalu.jpg/1280px-Zoltek_factory_building%2C_sawtooth_roof%2C_2020_Nyerges%C3%BAjfalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Manteigas Burel Factory (2).jpg",
+      "description": "Burel Factory em Manteigas",
+      "categories": [
+        "Sawtooth roofs",
+        "Self-published work",
+        "Burel Factory"
+      ],
+      "auteur": "Hipersyl",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Manteigas_Burel_Factory_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Manteigas_Burel_Factory_%282%29.jpg/1280px-Manteigas_Burel_Factory_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dornbirn-Montfortstraße-Sawtooth roof-01ASD.jpg",
+      "description": "Toiture à redans partiels (Shed) sur un ancien bâtiment d'usine sur Montfortstrasse à Dornbirn, Vorarlberg, Autriche. Aujourd'hui un complexe résidentiel.",
+      "categories": [
+        "Sawtooth roofs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Asurnipal-Dornbirn"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-Montfortstra%C3%9Fe-Sawtooth_roof-01ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Dornbirn-Montfortstra%C3%9Fe-Sawtooth_roof-01ASD.jpg/1280px-Dornbirn-Montfortstra%C3%9Fe-Sawtooth_roof-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Sheddach Bahnhof Belfast.jpg",
+      "description": "Sawtooth roof on a building of the Belfast Grand Central railway station",
+      "categories": [
+        "CC-Zero",
+        "Sawtooth roofs",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Belfast Grand Central station",
+        "Self-published work",
+        "Self-published work missing SDC copyright license"
+      ],
+      "auteur": "Andreas Wolf 01",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sheddach_Bahnhof_Belfast.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sheddach_Bahnhof_Belfast.jpg/1280px-Sheddach_Bahnhof_Belfast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Factory at Wainstalls - geograph.org.uk - 3487361.jpg",
+      "description": "Factory at Wainstalls",
+      "categories": [
+        "Wainstalls",
+        "Images from Geograph Britain and Ireland",
+        "Sawtooth roofs in England",
+        "Factories in the Metropolitan Borough of Calderdale",
+        "Trucks in West Yorkshire"
+      ],
+      "auteur": "Humphrey Bolton",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Factory_at_Wainstalls_-_geograph.org.uk_-_3487361.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Factory_at_Wainstalls_-_geograph.org.uk_-_3487361.jpg/1280px-Factory_at_Wainstalls_-_geograph.org.uk_-_3487361.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1531
+    }
+  ]
+}

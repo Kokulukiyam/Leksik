@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "imposte",
+    "terme": "l'imposte",
+    "categorie": "Façade et ouvertures",
+    "definition": "Partie vitrée, fixe ou ouvrante, située au-dessus d'une porte ou d'une fenêtre.",
+    "requetes": [
+      "incategory:\"Fanlights\"",
+      "incategory:\"Transom windows\"",
+      "imposte porte"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:128-126 Queen.JPG",
+      "description": "128-126 Queen Street, Charleston, South Carolina",
+      "categories": [
+        "Taken with Nikon Coolpix S3300",
+        "Fanlights",
+        "Self-published work",
+        "Queen Street, Charleston, South Carolina",
+        "Gable roofs in Charleston, South Carolina",
+        "Brick houses in Charleston, South Carolina",
+        "2.5-story buildings"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:128-126_Queen.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/128-126_Queen.JPG/1280px-128-126_Queen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2940,
+      "hauteur": 2080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:120922 Kawanishi Municipal Museum Hyogo pref Japan13s5.jpg",
+      "description": "Kyodokan Museum (Folk Museum of Kawanishi) in Kawanishi , Hyogo prefecture , Japan .",
+      "categories": [
+        "GFDL",
+        "Taken with Sony SLT-A55V",
+        "Kyodokan Museum (Folk Museum of Kawanishi)",
+        "License migration redundant",
+        "Fanlights",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "663highland",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:120922_Kawanishi_Municipal_Museum_Hyogo_pref_Japan13s5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/120922_Kawanishi_Municipal_Museum_Hyogo_pref_Japan13s5.jpg/1280px-120922_Kawanishi_Municipal_Museum_Hyogo_pref_Japan13s5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4912,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Teatro Nacional - Flickr - f msantos...lo que siento por ti!.jpg",
+      "description": "This is a picture of the panamanian cultural heritage monument with the ID",
+      "categories": [
+        "Wooden doors",
+        "National Theatre of Panama",
+        "Fanlights",
+        "Flickr images reviewed by FlickreviewR",
+        "Doors in Panama",
+        "Images from Wiki Loves Monuments 2012",
+        "Images from Wiki Loves Monuments 2012 in Panama",
+        "Cultural heritage monuments in Panama with known IDs",
+        "Arch doors",
+        "Panama photographs taken on 2007-01-21",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Panama missing SDC location of creation"
+      ],
+      "auteur": "f_msantos...lo que siento por ti! from Panama City, Panama",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Teatro_Nacional_-_Flickr_-_f_msantos...lo_que_siento_por_ti!.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Teatro_Nacional_-_Flickr_-_f_msantos...lo_que_siento_por_ti%21.jpg/1280px-Teatro_Nacional_-_Flickr_-_f_msantos...lo_que_siento_por_ti%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1544,
+      "hauteur": 2080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Palata Anker 0014.JPG",
+      "description": "Palata Anker u Beogradu.",
+      "categories": [
+        "Taken with Nikon Coolpix P300",
+        "Palata Anker",
+        "Fanlights",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2013",
+        "Cultural heritage monuments in Serbia with known IDs",
+        "Images from Wiki Loves Monuments 2013 in Serbia",
+        "Uploaded via Campaign:wlm-rs",
+        "Files with coordinates missing SDC location of creation",
+        "Serbia photographs taken on 2013-09-15",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Serbia missing SDC location of creation",
+        "Cultural heritage monuments in Serbia missing SDC depicts",
+        "Photos by Mickey Mystique"
+      ],
+      "auteur": "Mickey Mystique",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Palata_Anker_0014.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Palata_Anker_0014.JPG/1280px-Palata_Anker_0014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3800,
+      "hauteur": 2616
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:10 Judith door (2023).jpg",
+      "description": "10 Judith Street, Charleston, South Carolina - front door",
+      "categories": [
+        "CC-Zero",
+        "Houses in Charleston, South Carolina",
+        "Fanlights",
+        "Self-published work",
+        "November 2023 in South Carolina",
+        "Files with coordinates missing SDC location of creation",
+        "Judith Street, Charleston, South Carolina",
+        "Mazyck-Wraggborough",
+        "Doors in Charleston, South Carolina",
+        "Front doors in the United States"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_Judith_door_(2023).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/10_Judith_door_%282023%29.jpg/1280px-10_Judith_door_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1771,
+      "hauteur": 1472
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:4 Race.JPG",
+      "description": "4 Race Street, Charleston, South Carolina",
+      "categories": [
+        "Fanlights",
+        "Self-published work",
+        "North Central",
+        "Wooden houses in Charleston, South Carolina",
+        "Gable roofs in Charleston, South Carolina",
+        "2-story porches",
+        "Two-story houses in the United States",
+        "Race Street, Charleston, South Carolina"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4_Race.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/4_Race.JPG/1280px-4_Race.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    }
+  ]
+}

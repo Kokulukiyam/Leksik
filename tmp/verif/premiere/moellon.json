@@ -1,0 +1,58 @@
+{
+  "termId": "moellon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pignon de bâtiment en moellons calcaires irréguliers hourdés au mortier, avec chaînes d'angle en briques rouges.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.29,
+        "largeur": 0.8,
+        "hauteur": 0.6
+      },
+      "lieu": "Para Vista, Adélaïde, Australie",
+      "note": "Moellons nets et typiques ; rectangle sur la maçonnerie de moellons pour exclure les chaînes d'angle en brique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessin en coupe d'un mur avec remplissage de moellons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo ; texte donnant la réponse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo noir et blanc d'ouvriers au milieu de tas de pierres dans un champ.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oregon, États-Unis",
+      "note": "Tas de pierres, pas de maçonnerie lisible ; photo ancienne peu nette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tour circulaire crénelée bâtie en moellons irréguliers liés au mortier, une autre tour en arrière-plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Ribat Tit, El Jadida, Maroc",
+      "note": "Maçonnerie de moellons grossiers dominante et bien visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan de pierres plates irrégulières grossièrement ajustées avec un lézard décoratif en céramique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Albufeira, Portugal",
+      "note": "Cadrage très serré sur de grandes pierres, joints en partie secs (pierre sèche possible), objet décoratif distrayant ; moins sûr que 01 et 04."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Falaise rocheuse surmontée d'un rempart en pierre taillée, petit muret en pierres sèches au pied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Victoria, Gozo, Malte",
+      "note": "Rempart en pierre de taille dominant, moellons trop petits et secondaires."
+    }
+  ]
+}

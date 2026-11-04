@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "linteau",
+    "terme": "le linteau",
+    "categorie": "Façade et ouvertures",
+    "definition": "Élément horizontal en pierre, bois ou béton qui ferme le haut d'une baie et porte la maçonnerie située au-dessus.",
+    "requetes": [
+      "incategory:\"Lintels\"",
+      "deepcat:\"Lintels\"",
+      "stone lintel door"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Augustins - Chrisme porté par deux anges - Linteau en marbre Paléochrétien - Mancioux ME 253.jpg",
+      "description": "",
+      "categories": [
+        "Église de Mancioux",
+        "Lintels",
+        "Author died more than 100 years ago public domain images",
+        "Salle romane du musée des Augustins de Toulouse",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Architectural elements in Haute-Garonne",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "December 2017 in Toulouse",
+        "12th-century architecture in Haute-Garonne",
+        "Chi Rho in France",
+        "Files with coordinates missing SDC location of creation",
+        "Museums in France photographed in 2017",
+        "2017 photographs of Toulouse",
+        "Occitanie photographs taken on 2017-12-27",
+        "Reliefs of angels",
+        "Reliefs in the Musée des Augustins de Toulouse",
+        "Images by Archaeodontosaurus Toulouse Augustins - Sculptures"
+      ],
+      "auteur": "Didier Descouens",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Augustins_-_Chrisme_port%C3%A9_par_deux_anges_-_Linteau_en_marbre_Pal%C3%A9ochr%C3%A9tien_-_Mancioux_ME_253.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Augustins_-_Chrisme_port%C3%A9_par_deux_anges_-_Linteau_en_marbre_Pal%C3%A9ochr%C3%A9tien_-_Mancioux_ME_253.jpg/1280px-Augustins_-_Chrisme_port%C3%A9_par_deux_anges_-_Linteau_en_marbre_Pal%C3%A9ochr%C3%A9tien_-_Mancioux_ME_253.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7320,
+      "hauteur": 3500
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Lintel in Perge.jpg",
+      "description": "Un linteau dans le cardo de Pergé, Turquie",
+      "categories": [
+        "GFDL",
+        "Lintels",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Perge - Main street",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Bernard Gagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lintel_in_Perge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Lintel_in_Perge.jpg/1280px-Lintel_in_Perge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3312,
+      "hauteur": 1962
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gate at the walls of Kassiopi Castle.JPG",
+      "description": "Please see filename",
+      "categories": [
+        "Taken with Nikon Coolpix L27",
+        "Lintels",
+        "Kastro Kassiopis",
+        "Self-published work",
+        "Greece photographs taken on 2016-06-03",
+        "Images uploaded by Hiàn",
+        "Files uploaded with For the Common Good"
+      ],
+      "auteur": "Dr. K.",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gate_at_the_walls_of_Kassiopi_Castle.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Gate_at_the_walls_of_Kassiopi_Castle.JPG/1280px-Gate_at_the_walls_of_Kassiopi_Castle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Czorsztyn zamek 02.jpg",
+      "description": "Czorsztyn - stone portal inside the castle ruins",
+      "categories": [
+        "Czorsztyn Castle",
+        "Lintels",
+        "Self-published work",
+        "Files allowed to be overwritten by everyone",
+        "Latin inscriptions in Poland",
+        "Portals in Poland",
+        "Images from Wiki Loves Monuments 2012",
+        "Images from Wiki Loves Monuments 2012 in Poland",
+        "Photos by User:Andrzej O",
+        "Poland photographs taken on 2012-08-23",
+        "Images from Wiki Loves Monuments missing SDC location of creation"
+      ],
+      "auteur": "Andrzej Otrębski",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Czorsztyn_zamek_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Czorsztyn_zamek_02.jpg/1280px-Czorsztyn_zamek_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2691,
+      "hauteur": 1846
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Úštěk, 2021 (20).jpg",
+      "description": "Úštěk",
+      "categories": [
+        "Cobblestones in the Czech Republic",
+        "Files by Draceane – Czechia",
+        "Beams",
+        "Mírové náměstí (Úštěk)",
+        "Lintels",
+        "Uploaded with pattypan",
+        "Prefabrication",
+        "Concrete ceilings",
+        "Panský dvůr (Úštěk)",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C",
+        "Buildings in Úštěk",
+        "Doors in Litoměřice District"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%9A%C5%A1t%C4%9Bk,_2021_(20).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%C3%9A%C5%A1t%C4%9Bk%2C_2021_%2820%29.jpg/1280px-%C3%9A%C5%A1t%C4%9Bk%2C_2021_%2820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Deniliquin Court House 009.JPG",
+      "description": "Court house at en:Deniliquin , New South Wales. Note the anti-bird spikes on the lintel and window ledges",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D60",
+        "Lintels",
+        "License migration redundant",
+        "Self-published work",
+        "Deniliquin Court House",
+        "Photographs by Mattinbgn taken in 2011",
+        "August 2011 in Deniliquin"
+      ],
+      "auteur": "Mattinbgn",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deniliquin_Court_House_009.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Deniliquin_Court_House_009.JPG/1280px-Deniliquin_Court_House_009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    }
+  ]
+}

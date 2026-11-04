@@ -1,0 +1,11 @@
+{
+  "termId": "croupe",
+  "candidats": [
+    {"fichier": "01.jpg", "vu": "Maison bourgeoise à volets verts, toit à la Mansart en croupe couvert de neige et garni de nombreuses lucarnes.", "verdict": "rejetée", "rectangle": null, "lieu": "Herisau, Suisse", "note": "Croupe brisée surchargée de lucarnes et de neige ; confusion lucarne / brisis."},
+    {"fichier": "02.jpg", "vu": "Porte d'entrée en bois sculpté avec perron et volets verts.", "verdict": "rejetée", "rectangle": null, "lieu": "Herisau, Suisse", "note": "Aucun toit visible."},
+    {"fichier": "03.jpg", "vu": "Rue enneigée bordée de maisons appenzelloises à pignons sur rue.", "verdict": "rejetée", "rectangle": null, "lieu": "Herisau, Suisse", "note": "Pignons, pas de croupe lisible."},
+    {"fichier": "04.jpg", "vu": "Longue maison jaune à toit de chaume en croupe, avec feux de circulation et voiture au premier plan.", "verdict": "rejetée", "rectangle": null, "lieu": "Adare, Irlande", "note": "Le chaume domine (terme voisin de la même catégorie) ; croupes partiellement cachées."},
+    {"fichier": "05.jpg", "vu": "Maison à colombages et brique, toits de tuiles à plusieurs pans, grande cheminée torsadée, en partie masquée par les arbres.", "verdict": "rejetée", "rectangle": null, "lieu": "Theydon Mount, Essex, Royaume-Uni", "note": "Toiture complexe à pans multiples, croupe peu lisible et masquée par le feuillage."},
+    {"fichier": "06.jpg", "vu": "Petite maison en pierre isolée sur une île, toit en bois à quatre pans dont une croupe triangulaire avec une petite lucarne et une échelle.", "verdict": "rejetée", "rectangle": null, "lieu": "Île Bolchoï Zaïatski, Solovki, Russie", "note": "La croupe existe mais occupe une petite part de l'image ; toit proche du pavillon et lucarne dans le pan : doute, rejet par prudence."}
+  ]
+}

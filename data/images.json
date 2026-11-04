@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "allege-02",
+    "termId": "allege",
+    "fichier": "commons/allege-02.webp",
+    "rectangle": {
+      "x": 0.455,
+      "y": 0.53,
+      "largeur": 0.13,
+      "hauteur": 0.075
+    },
+    "lieu": "Tournai, Belgique",
+    "source": "commons",
+    "auteur": "Jpcuvelier",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:TOURNAI_(Doornik)_%E2%80%94Fa%C3%A7ade,_et_toiture_de_l%27immeuble_situ%C3%A9_au_33_quai_Notre-Dame.jpg",
+    "statut": "validée",
+    "note": "Vérification : Panneau de brique sous la fenêtre centrale, entre l'appui et le bandeau du plancher : allège nette ; le rectangle exclut l'appui et le bandeau. Contre-vérification : Façade en brique et pierre : le rectangle cadre le panneau de brique sous la fenêtre centrale, entre l'appui et la devanture ; c'est bien l'allège, sans englober l'appui."
+  },
+  {
+    "id": "allege-03",
+    "termId": "allege",
+    "fichier": "commons/allege-03.webp",
+    "rectangle": {
+      "x": 0.395,
+      "y": 0.755,
+      "largeur": 0.485,
+      "hauteur": 0.245
+    },
+    "lieu": "Liverpool, Royaume-Uni",
+    "source": "commons",
+    "auteur": "TudorTulok",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Liverpool_Princes_Gardens.jpg",
+    "statut": "validée",
+    "note": "Vérification : Allège vue de l'intérieur, entre la tablette et le sol, avec le radiateur typique ; le rectangle exclut la tablette (appui). Image un peu sombre mais lisible. Contre-vérification : Vue intérieure : le rectangle désigne le pan de mur sous l'appui de la fenêtre, au-dessus du radiateur ; c'est l'allège, et l'appui n'est pas dans le cadre."
+  },
+  {
+    "id": "appui-de-fenetre-02",
+    "termId": "appui-de-fenetre",
+    "fichier": "commons/appui-de-fenetre-02.webp",
+    "rectangle": {
+      "x": 0.34,
+      "y": 0.73,
+      "largeur": 0.55,
+      "hauteur": 0.06
+    },
+    "lieu": "Liverpool, Royaume-Uni",
+    "source": "commons",
+    "auteur": "TudorTulok",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Liverpool_Princes_Gardens.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tablette d'appui nette sous la fenêtre ; rectangle nécessaire pour la distinguer de l'allège et du dormant. Contre-vérification : Le rectangle cadre de près la tablette horizontale au bas de la fenêtre (vue intérieure), sans l'allège ni la menuiserie ; l'appui est bien désigné."
+  },
+  {
+    "id": "appui-de-fenetre-05",
+    "termId": "appui-de-fenetre",
+    "fichier": "commons/appui-de-fenetre-05.webp",
+    "rectangle": {
+      "x": 0.03,
+      "y": 0.22,
+      "largeur": 0.93,
+      "hauteur": 0.44
+    },
+    "lieu": "Czernica, Pologne",
+    "source": "commons",
+    "auteur": "Przykuta",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Czernica_pa%C5%82acyk_parapet_10.09.2011_p.jpg",
+    "statut": "validée",
+    "note": "Vérification : Appui saillant à rejet d'eau, élément dominant ; illustre parfaitement la définition. Contre-vérification : Gros plan d'un appui extérieur saillant en carreaux vernissés sur briques, sous une fenêtre ; il domine l'image et le rectangle le cadre bien."
+  },
+  {
+    "id": "linteau-03",
+    "termId": "linteau",
+    "fichier": "commons/linteau-03.webp",
+    "rectangle": {
+      "x": 0.455,
+      "y": 0.34,
+      "largeur": 0.15,
+      "hauteur": 0.065
+    },
+    "lieu": "Kassiopi, Corfou, Grèce",
+    "source": "commons",
+    "auteur": "Dr. K.",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gate_at_the_walls_of_Kassiopi_Castle.JPG",
+    "statut": "validée",
+    "note": "Vérification : Dalle simple portant la maçonnerie au-dessus de la porte ; image un peu sombre, rectangle indispensable. Contre-vérification : Mur de ruine en pierre : le rectangle cadre de près la dalle horizontale qui couvre une porte étroite ; c'est un linteau monolithe, lisible."
+  },
+  {
+    "id": "linteau-04",
+    "termId": "linteau",
+    "fichier": "commons/linteau-04.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.43,
+      "largeur": 0.62,
+      "hauteur": 0.27
+    },
+    "lieu": "Château de Czorsztyn, Pologne",
+    "source": "commons",
+    "auteur": "Andrzej Otrębski",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Czorsztyn_zamek_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Linteau de pierre clairement au-dessus de la baie ; l'arc de décharge confirme sa fonction. Inscription sans rapport avec la réponse. Contre-vérification : Linteau de pierre gravé d'une inscription au-dessus d'une porte, surmonté d'un arc de décharge ; le rectangle cadre le linteau sans la corniche ni l'arc."
+  },
+  {
+    "id": "meneau-01",
+    "termId": "meneau",
+    "fichier": "commons/meneau-01.webp",
+    "rectangle": {
+      "x": 0.48,
+      "y": 0.16,
+      "largeur": 0.08,
+      "hauteur": 0.62
+    },
+    "lieu": "Nîmes, France",
+    "source": "commons",
+    "auteur": "Krzysztof Golik",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2_rue_des_Marchands_in_Nimes_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Croisée frontale très lisible ; le rectangle vertical isole le meneau de la traverse. Contre-vérification : Croisée en pierre : le rectangle cadre précisément le montant vertical central qui divise la fenêtre ; c'est bien le meneau."
+  },
+  {
+    "id": "meneau-05",
+    "termId": "meneau",
+    "fichier": "commons/meneau-05.webp",
+    "rectangle": {
+      "x": 0.688,
+      "y": 0.555,
+      "largeur": 0.037,
+      "hauteur": 0.315
+    },
+    "lieu": "Nîmes, France",
+    "source": "commons",
+    "auteur": "Finoskov",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Immeuble_17_rue_des_Marchands01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Croisée frontale, meneau de pierre bien visible ; rectangle nécessaire pour l'isoler des pilastres. Contre-vérification : Façade Renaissance : le rectangle désigne le montant vertical de pierre d'une croisée, sans englober les pilastres voisins ; meneau correct et lisible."
+  },
+  {
+    "id": "trumeau-01",
+    "termId": "trumeau",
+    "fichier": "commons/trumeau-01.webp",
+    "rectangle": {
+      "x": 0.466,
+      "y": 0.36,
+      "largeur": 0.072,
+      "hauteur": 0.42
+    },
+    "lieu": "Münster, Allemagne",
+    "source": "commons",
+    "auteur": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Lamberti-Kirche,_Westportal_--_2021_--_9082.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pilier central divisant le portail, frontal et net ; rectangle pour l'isoler des piédroits. Contre-vérification : Portail gothique à deux vantaux : le rectangle cadre le pilier central orné d'une statue qui divise l'ouverture ; c'est le trumeau."
+  },
+  {
+    "id": "trumeau-02",
+    "termId": "trumeau",
+    "fichier": "commons/trumeau-02.webp",
+    "rectangle": {
+      "x": 0.45,
+      "y": 0.555,
+      "largeur": 0.12,
+      "hauteur": 0.405
+    },
+    "lieu": "Thann, France",
+    "source": "commons",
+    "auteur": "Thomas Bresson",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2013-09-14_11-40-10-Collegiale_Saint-Thiebaut_de_Thann-PA00085696.jpg",
+    "statut": "validée",
+    "note": "Vérification : Trumeau évident entre les deux portes ; rectangle sur le pilier central. Contre-vérification : Portail gothique : le rectangle cadre le pilier central avec sa statue entre les deux portes rouges ; trumeau sans ambiguïté."
+  },
+  {
+    "id": "tympan-02",
+    "termId": "tympan",
+    "fichier": "commons/tympan-02.webp",
+    "rectangle": {
+      "x": 0.29,
+      "y": 0.15,
+      "largeur": 0.45,
+      "hauteur": 0.48
+    },
+    "lieu": "Cologne, Allemagne",
+    "source": "commons",
+    "auteur": "Yair-haklai",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Central_bay_of_Cologne_west_portal-Architectural_sculpture-Tympanum.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tympan clairement situé entre linteau et arc ; rectangle nécessaire pour l'isoler des voussures, du trumeau et des statues. Contre-vérification : Portail de cathédrale : le rectangle cadre la surface sculptée en registres entre le linteau et l'arc brisé ; tympan évident, les voussures n'apparaissent qu'aux coins."
+  },
+  {
+    "id": "tympan-03",
+    "termId": "tympan",
+    "fichier": "commons/tympan-03.webp",
+    "rectangle": {
+      "x": 0.21,
+      "y": 0.21,
+      "largeur": 0.59,
+      "hauteur": 0.61
+    },
+    "lieu": "Middletown (Ohio), États-Unis",
+    "source": "commons",
+    "auteur": "Nheyob",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Church_(Middletown,_Ohio)_-_portal_tympanum,_Arma_Christi.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tympan lisible et sobre sous l'arc, au-dessus du linteau ; rectangle pour éviter la confusion avec l'arc / l'archivolte. Contre-vérification : Surface sculptée (outils de maçon) dans un arc brisé au-dessus d'un linteau ; le rectangle la cadre, avec un peu de claveaux aux coins, et le terme tympan est juste."
+  },
+  {
+    "id": "oeil-de-boeuf-01",
+    "termId": "oeil-de-boeuf",
+    "fichier": "commons/oeil-de-boeuf-01.webp",
+    "rectangle": null,
+    "lieu": "Paris, France",
+    "source": "commons",
+    "auteur": "Jebulon",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Oeil_de_boeuf_Louvre.jpg",
+    "statut": "validée",
+    "note": "Vérification : Oeil-de-boeuf rond, central et dominant ; aucun autre élément ne peut être la réponse. Contre-vérification : Ouverture ronde encadrée de reliefs sur une façade classique, au centre de l'image ; c'est un œil-de-bœuf, sans terme voisin plausible."
+  },
+  {
+    "id": "oeil-de-boeuf-03",
+    "termId": "oeil-de-boeuf",
+    "fichier": "commons/oeil-de-boeuf-03.webp",
+    "rectangle": {
+      "x": 0.39,
+      "y": 0.56,
+      "largeur": 0.25,
+      "hauteur": 0.33
+    },
+    "lieu": "Katowice, Pologne",
+    "source": "commons",
+    "auteur": "Adrian Tync",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Katowice_Warszawska_25_oculus_2026.jpg",
+    "statut": "validée",
+    "note": "Vérification : Petite fenêtre ronde dans un toit ; rectangle indispensable pour la distinguer de la lucarne qui la porte. Contre-vérification : Fenêtre ronde vitrée dans un fronton Art nouveau ; le rectangle la cadre de près, sans englober le pignon : œil-de-bœuf clair."
+  },
+  {
+    "id": "garde-corps-01",
+    "termId": "garde-corps",
+    "fichier": "commons/garde-corps-01.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.5,
+      "largeur": 0.62,
+      "hauteur": 0.4
+    },
+    "lieu": "Frombork, Pologne",
+    "source": "commons",
+    "auteur": "Scotch Mist",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Frombork_2023_50_Port.jpg",
+    "statut": "validée",
+    "note": "Vérification : Barrière à barreaudage protégeant clairement le bord d'un vide (quai / eau) ; rectangle pour l'isoler du paysage portuaire. Contre-vérification : Barrière métallique jaune au bord d'un quai, au-dessus de l'eau, que le rectangle cadre ; c'est un garde-corps qui protège d'une chute, sans confusion possible avec un balcon."
+  },
+  {
+    "id": "garde-corps-05",
+    "termId": "garde-corps",
+    "fichier": "commons/garde-corps-05.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.36,
+      "largeur": 0.76,
+      "hauteur": 0.6
+    },
+    "lieu": "Gdańsk, Pologne",
+    "source": "commons",
+    "auteur": "LukaszKatlewa",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Vintage_staircase,_Chemical_Faculty_(1904),_Gdansk_University_of_Technology,_Poland.jpg",
+    "statut": "validée",
+    "note": "Vérification : Garde-corps net et dominant au bord de la trémie d'escalier ; rectangle pour exclure la rampe de l'escalier du fond. Contre-vérification : Garde-corps en fer forgé à hauteur d'appui dans une baie qui donne sur une cage d'escalier ; le rectangle le cadre et il domine l'image."
+  },
+  {
+    "id": "persienne-01",
+    "termId": "persienne",
+    "fichier": "commons/persienne-01.webp",
+    "rectangle": null,
+    "lieu": "Poreč, Croatie",
+    "source": "commons",
+    "auteur": "Tanya Dedyukhina",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Porec_-_panoramio_(10).jpg",
+    "statut": "validée",
+    "note": "Vérification : Persiennes à lames (avec tige de réglage) dominantes de part et d'autre de la baie ; aucun doute. Contre-vérification : Volets extérieurs ouverts à lames inclinées de part et d'autre d'une fenêtre fleurie ; ce sont bien des persiennes, qui dominent l'image."
+  },
+  {
+    "id": "persienne-02",
+    "termId": "persienne",
+    "fichier": "commons/persienne-02.webp",
+    "rectangle": {
+      "x": 0.13,
+      "y": 0.19,
+      "largeur": 0.24,
+      "hauteur": 0.2
+    },
+    "lieu": "Split, Croatie",
+    "source": "commons",
+    "auteur": "LBM1948",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Split_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Persiennes fermées bien lisibles ; rectangle pour écarter la colonne engagée. Contre-vérification : Le rectangle cadre de près des volets fermés à lames inclinées sur une façade en pierre ; persienne claire, et la colonne voisine reste hors du cadre."
+  },
+  {
+    "id": "oriel-01",
+    "termId": "oriel",
+    "fichier": "commons/oriel-01.webp",
+    "rectangle": null,
+    "lieu": "Kłodzko, Pologne",
+    "source": "commons",
+    "auteur": "Jacek Halicki",
+    "licence": "CC BY-SA 3.0 pl",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2014_K%C5%82odzko,_pl._Chrobrego_13_03.JPG",
+    "statut": "validée",
+    "note": "Vérification : Oriels parfaitement lisibles qui occupent toute l'image ; aucun autre élément concurrent. Contre-vérification : Deux avant-corps vitrés courbes en encorbellement, portés par des culs-de-lampe sculptés ; ce sont des oriels typiques."
+  },
+  {
+    "id": "oriel-03",
+    "termId": "oriel",
+    "fichier": "commons/oriel-03.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.12,
+      "largeur": 0.79,
+      "hauteur": 0.8
+    },
+    "lieu": "Bystrzyca Kłodzka, Pologne",
+    "source": "commons",
+    "auteur": "Halicki",
+    "licence": "CC BY-SA 3.0 pl",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bystrzyca_K%C5%82odzka,_Rynek_11,_02.JPG",
+    "statut": "validée",
+    "note": "Vérification : Oriel net et dominant ; le cadre l'isole des fenêtres voisines et de l'enseigne. Contre-vérification : Avant-corps vitré en bois, porté par des consoles en encorbellement sur la façade ; le rectangle le cadre : oriel sans ambiguïté."
+  },
+  {
+    "id": "oriel-04",
+    "termId": "oriel",
+    "fichier": "commons/oriel-04.webp",
+    "rectangle": {
+      "x": 0.26,
+      "y": 0.14,
+      "largeur": 0.53,
+      "hauteur": 0.73
+    },
+    "lieu": "Kłodzko, Pologne",
+    "source": "commons",
+    "auteur": "Jacek Halicki",
+    "licence": "CC BY-SA 3.0 pl",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2015_K%C5%82odzko,_ul._Armii_Krajowej_6_02.JPG",
+    "statut": "validée",
+    "note": "Vérification : Avant-corps vitré en encorbellement bien visible ; cadre pour le distinguer des fenêtres ordinaires. Contre-vérification : Avant-corps vitré sur deux étages, en saillie et en encorbellement sur une façade rose ; le rectangle le cadre de près : oriel juste."
+  },
+  {
+    "id": "imposte-02",
+    "termId": "imposte",
+    "fichier": "commons/imposte-02.webp",
+    "rectangle": {
+      "x": 0.35,
+      "y": 0.02,
+      "largeur": 0.255,
+      "hauteur": 0.14
+    },
+    "lieu": "Kawanishi, Hyōgo, Japon",
+    "source": "commons",
+    "auteur": "663highland",
+    "licence": "CC BY 2.5",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:120922_Kawanishi_Municipal_Museum_Hyogo_pref_Japan13s5.jpg",
+    "statut": "validée",
+    "note": "Vérification : Imposte vitrée au-dessus de la porte bien lisible ; le cadre désigne celle de la porte centrale. Contre-vérification : Bandeau de vitraux à tulipes au-dessus d'une porte intérieure, que le rectangle désigne ; c'est l'imposte vitrée."
+  },
+  {
+    "id": "imposte-03",
+    "termId": "imposte",
+    "fichier": "commons/imposte-03.webp",
+    "rectangle": {
+      "x": 0.27,
+      "y": 0.03,
+      "largeur": 0.4,
+      "hauteur": 0.27
+    },
+    "lieu": "Panama, Panama",
+    "source": "commons",
+    "auteur": "f_msantos...lo que siento por ti! from Panama City, Panama",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Teatro_Nacional_-_Flickr_-_f_msantos...lo_que_siento_por_ti!.jpg",
+    "statut": "validée",
+    "note": "Vérification : Imposte en éventail vitrée nettement au-dessus de la porte ; les plaques ne donnent pas la réponse. Contre-vérification : Imposte cintrée vitrée, avec une grille en éventail au-dessus d'une porte en bois ; elle est ajourée et vitrée, donc pas un tympan plein, et le rectangle la cadre bien."
+  },
+  {
+    "id": "brise-soleil-05",
+    "termId": "brise-soleil",
+    "fichier": "commons/brise-soleil-05.webp",
+    "rectangle": null,
+    "lieu": "Zagreb, Croatie",
+    "source": "commons",
+    "auteur": "Hijerovit",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Brise_soleil_on_the_Zagreb_Town_Hall,_2025.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lames verticales fixées devant la façade, lecture immédiate du brise-soleil sur toute l'image. Contre-vérification : Façade moderne entièrement couverte d'une grille de lames verticales et de tablettes devant les fenêtres ; brise-soleil dominant, photo réelle."
+  },
+  {
+    "id": "claustra-03",
+    "termId": "claustra",
+    "fichier": "commons/claustra-03.webp",
+    "rectangle": null,
+    "lieu": "Los Angeles, Californie, États-Unis",
+    "source": "commons",
+    "auteur": "Codera23",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Stahl_House_Breeze_Blocks.jpg",
+    "statut": "validée",
+    "note": "Vérification : Claustra typique en blocs de béton, occupe toute l'image. Contre-vérification : Paroi en blocs de béton ajourés à motif d'étoile, qui laissent voir à travers ; claustra typique qui remplit l'image."
+  },
+  {
+    "id": "claustra-04",
+    "termId": "claustra",
+    "fichier": "commons/claustra-04.webp",
+    "rectangle": null,
+    "lieu": "Windsor, Ontario, Canada",
+    "source": "commons",
+    "auteur": "Chris Woodrich",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Stone_lattice,_Windsor,_Ontario,_2026-05-09_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Paroi ajourée en éléments de béton assemblés, nette et dominante. Contre-vérification : Gros plan d'une paroi ajourée en éléments de béton préfabriqués à motif géométrique ; claustra clair."
+  },
+  {
+    "id": "pignon-02",
+    "termId": "pignon",
+    "fichier": "commons/pignon-02.webp",
+    "rectangle": {
+      "x": 0.06,
+      "y": 0.15,
+      "largeur": 0.84,
+      "hauteur": 0.36
+    },
+    "lieu": "Trèves, Allemagne",
+    "source": "commons",
+    "auteur": "Palauenc05",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Trier_Echternacher_Hof_1639.jpg",
+    "statut": "validée",
+    "note": "Vérification : Partie triangulaire portant les deux versants très nette ; le cadre isole le triangle. Contre-vérification : Le rectangle cadre la partie haute, triangulaire et galbée, du mur qui porte les deux versants du toit ; pignon lisible."
+  },
+  {
+    "id": "pignon-04",
+    "termId": "pignon",
+    "fichier": "commons/pignon-04.webp",
+    "rectangle": {
+      "x": 0.03,
+      "y": 0.05,
+      "largeur": 0.63,
+      "hauteur": 0.28
+    },
+    "lieu": "Trèves, Allemagne",
+    "source": "commons",
+    "auteur": "Berthold Werner",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Trier_Dom%C3%A4nenstra%C3%9Fe_63_BW_2019-03-23_12-19-44.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pignon triangulaire simple et clair ; le cadre écarte la façade latérale. Contre-vérification : Le rectangle cadre la pointe triangulaire du mur sous les deux versants du toit, jusqu'au niveau de l'égout ; pignon net."
+  },
+  {
+    "id": "moucharabieh-01",
+    "termId": "moucharabieh",
+    "fichier": "commons/moucharabieh-01.webp",
+    "rectangle": {
+      "x": 0.585,
+      "y": 0.21,
+      "largeur": 0.2,
+      "hauteur": 0.24
+    },
+    "lieu": "Le Caire, Égypte",
+    "source": "commons",
+    "auteur": "Peter Astbury",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cairo_Residence.jpg",
+    "statut": "validée",
+    "note": "Vérification : Moucharabieh en place devant une fenêtre, bien identifiable ; le cadre désigne le principal. Contre-vérification : Bow-window en treillis de bois ajouré sur une façade du Caire, cadré de près par le rectangle ; c'est un moucharabieh et non un oriel, car il n'est pas vitré."
+  },
+  {
+    "id": "lucarne-03",
+    "termId": "lucarne",
+    "fichier": "commons/lucarne-03.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.07,
+      "largeur": 0.43,
+      "hauteur": 0.74
+    },
+    "lieu": "Rodez, France",
+    "source": "commons",
+    "auteur": "Krzysztof Golik",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Maison_d%27Armagnac_in_Rodez_06.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lucarnes monumentales très nettes ; rectangle sur celle de gauche pour exclure la gouttière et la cheminée. Contre-vérification : Lucarne Renaissance en pierre à fronton et fenêtre à meneau, saillante sur le toit d'ardoise ; le rectangle cadre exactement la lucarne de gauche."
+  },
+  {
+    "id": "lucarne-06",
+    "termId": "lucarne",
+    "fichier": "commons/lucarne-06.webp",
+    "rectangle": {
+      "x": 0.11,
+      "y": 0.08,
+      "largeur": 0.78,
+      "hauteur": 0.63
+    },
+    "lieu": "Lewin Kłodzki, Pologne",
+    "source": "commons",
+    "auteur": "Halicki",
+    "licence": "CC BY-SA 3.0 pl",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lewin,_Chopina_4,_06.JPG",
+    "statut": "validée",
+    "note": "Vérification : Lucarne dominante et typique ; rectangle pour exclure la gouttière et la corniche en dessous. Contre-vérification : Lucarne à fronton et ailerons à volutes émergeant du toit de tuiles, fenêtre verticale bien visible ; le rectangle l'encadre de près."
+  },
+  {
+    "id": "gouttiere-01",
+    "termId": "gouttiere",
+    "fichier": "commons/gouttiere-01.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.11,
+      "largeur": 1,
+      "hauteur": 0.33
+    },
+    "lieu": "Séoul, Corée du Sud",
+    "source": "commons",
+    "auteur": "Bgag",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_09.jpg",
+    "statut": "validée",
+    "note": "Vérification : Canal de bas de toit bien visible en gros plan ; rectangle sur la gouttière pour écarter le déversoir décoratif (gargouille). Contre-vérification : Gouttière métallique pendante au bas d'un toit de tuiles canal, nettement désignée par le rectangle ; le déversoir en forme de dragon reste hors cadre principal."
+  },
+  {
+    "id": "faitage-03",
+    "termId": "faitage",
+    "fichier": "commons/faitage-03.webp",
+    "rectangle": {
+      "x": 0.16,
+      "y": 0.395,
+      "largeur": 0.62,
+      "hauteur": 0.065
+    },
+    "lieu": "Sainte-Croix-Vallée-Française, France",
+    "source": "commons",
+    "auteur": "Lucyin",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Toet_schayes.JPG",
+    "statut": "validée",
+    "note": "Vérification : Ligne de faîtage nette ; rectangle indispensable pour écarter gouttière et versant. Contre-vérification : Toit de lauzes vu de côté, le rectangle souligne précisément la ligne de faîte couverte de lauzes ; pas de confusion possible."
+  },
+  {
+    "id": "faitage-04",
+    "termId": "faitage",
+    "fichier": "commons/faitage-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Patrick.charpiat",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tiles91.JPG",
+    "statut": "validée",
+    "note": "Vérification : Faîtage en tuiles canal occupant l'image ; définition Commons explicite (faîtage ventilé). Contre-vérification : Vue rasante le long d'un faîtage couvert de tuiles faîtières demi-rondes, entre les deux versants ; l'élément est dominant et sans ambiguïté."
+  },
+  {
+    "id": "chaume-06",
+    "termId": "chaume",
+    "fichier": "commons/chaume-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Roman Dilo (Saroman)",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Thatched_roof_OGA_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Texture de couverture en chaume plein cadre, rangs et liens visibles ; photographie réelle. Contre-vérification : Pan de toiture en paille fixé par des fils, avec mousse, occupant toute l'image : couverture en chaume clairement lisible."
+  },
+  {
+    "id": "shed-03",
+    "termId": "shed",
+    "fichier": "commons/shed-03.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.28,
+      "largeur": 0.98,
+      "hauteur": 0.28
+    },
+    "lieu": "Manteigas, Portugal",
+    "source": "commons",
+    "auteur": "Hipersyl",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Manteigas_Burel_Factory_(2).jpg",
+    "statut": "validée",
+    "note": "Vérification : Sheds très lisibles, versants vitrés bien visibles ; cadre sur la toiture pour écarter le pignon. Contre-vérification : Bâtiment industriel en pierre à toiture en dents de scie, versants raides en panneaux translucides ; le rectangle cadre bien le profil en shed."
+  },
+  {
+    "id": "shed-06",
+    "termId": "shed",
+    "fichier": "commons/shed-06.webp",
+    "rectangle": {
+      "x": 0.26,
+      "y": 0.22,
+      "largeur": 0.71,
+      "hauteur": 0.21
+    },
+    "lieu": "Wainstalls, Angleterre",
+    "source": "commons",
+    "auteur": "Humphrey Bolton",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Factory_at_Wainstalls_-_geograph.org.uk_-_3487361.jpg",
+    "statut": "validée",
+    "note": "Vérification : Succession de sheds caractéristique ; cadre sur la toiture. Contre-vérification : Rangée d'usines en brique à toiture en dents de scie, un versant vitré par dent ; le rectangle désigne bien la succession de sheds."
+  },
+  {
+    "id": "fleche-05",
+    "termId": "fleche",
+    "fichier": "commons/fleche-05.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.03,
+      "largeur": 0.12,
+      "hauteur": 0.34
+    },
+    "lieu": "Samarcande, Ouzbékistan",
+    "source": "commons",
+    "auteur": "GMM",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Samarqand_city_library.jpg",
+    "statut": "validée",
+    "note": "Vérification : Flèche conique élancée sur tour bien visible ; cadre sur la flèche de gauche, dégagée des arbres. Contre-vérification : Flèche élancée en métal couronnant une tourelle d'angle, nettement cadrée par le rectangle ; forme pyramidale aiguë sans ambiguïté."
+  },
+  {
+    "id": "fleche-06",
+    "termId": "fleche",
+    "fichier": "commons/fleche-06.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.03,
+      "largeur": 0.31,
+      "hauteur": 0.44
+    },
+    "lieu": "Srinagar, Inde",
+    "source": "commons",
+    "auteur": "Varun Shiv Kapur from New Delhi, India",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Jami_Masjid_spire_over_mihrab_hall_(6133559943).jpg",
+    "statut": "validée",
+    "note": "Vérification : Couronnement pyramidal élancé sur une tour ; cadre sur la flèche pour écarter les toitures inférieures. Contre-vérification : Flèche pyramidale en bois très élancée surmontant la tour-lanterne d'une mosquée, cadrée de près par le rectangle."
+  },
+  {
+    "id": "lanterneau-02",
+    "termId": "lanterneau",
+    "fichier": "commons/lanterneau-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "EnglishGlassman",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Smith-richmond001.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lanterneau vitré en saillie sur le toit, clair et dominant. Contre-vérification : Grand lanterneau vitré pyramidal surmonté d'un petit lanternon, posé en saillie sur un toit-terrasse : élément dominant et conforme à la définition."
+  },
+  {
+    "id": "colonne-05",
+    "termId": "colonne",
+    "fichier": "commons/colonne-05.webp",
+    "rectangle": {
+      "x": 0.18,
+      "y": 0.27,
+      "largeur": 0.29,
+      "hauteur": 0.51
+    },
+    "lieu": "Djémila, Algérie",
+    "source": "commons",
+    "auteur": "Fayeqalnatour",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:The_Historical_Bath_Area.jpg",
+    "statut": "validée",
+    "note": "Vérification : Colonne isolée nettement lisible (base et fût, chapiteau disparu) ; rectangle nécessaire pour écarter l'arc et la seconde colonne du fond. Contre-vérification : Photo réelle d'une colonne antique isolée (base moulurée et fût cylindrique, chapiteau manquant), bien cadrée par le rectangle ; l'arc en arrière-plan reste hors du cadre."
+  },
+  {
+    "id": "arc-boutant-04",
+    "termId": "arc-boutant",
+    "fichier": "commons/arc-boutant-04.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.27,
+      "largeur": 0.13,
+      "hauteur": 0.3
+    },
+    "lieu": "Vendôme, France",
+    "source": "commons",
+    "auteur": "Manfred Heyde",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Vendome03.jpg",
+    "statut": "validée",
+    "note": "Vérification : Arcs-boutants nettement profilés sur le ciel, de la culée au mur haut ; rectangle sur la paire de gauche pour écarter pinacles et gâble. Contre-vérification : Le rectangle cadre les deux volées d'arcs-boutants ajourés du flanc gauche de l'église gothique, nettement lancés dans le vide vers le mur ; pas de confusion possible avec le contrefort."
+  },
+  {
+    "id": "contrefort-02",
+    "termId": "contrefort",
+    "fichier": "commons/contrefort-02.webp",
+    "rectangle": {
+      "x": 0.53,
+      "y": 0.01,
+      "largeur": 0.45,
+      "hauteur": 0.89
+    },
+    "lieu": "Paoay, Philippines",
+    "source": "commons",
+    "auteur": "lumoplank",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Paoay_Church_-_Ilocos2180.jpg",
+    "statut": "validée",
+    "note": "Vérification : Contreforts massifs en saillie contre le mur, exemplaires ; rectangle sur le premier plan pour écarter pinacles et lampadaires. Contre-vérification : Massif de maçonnerie en saillie, plein et taluté, plaqué contre le mur de l'église (Paoay) ; le rectangle cadre un contrefort entier, sans arc lancé qui évoquerait un arc-boutant."
+  },
+  {
+    "id": "arc-02",
+    "termId": "arc",
+    "fichier": "commons/arc-02.webp",
+    "rectangle": {
+      "x": 0.245,
+      "y": 0.2,
+      "largeur": 0.27,
+      "hauteur": 0.25
+    },
+    "lieu": "Roquebrun, France",
+    "source": "commons",
+    "auteur": "Christian Ferrer",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Pont_de_Ceps_03.jpg",
+    "statut": "validée",
+    "note": "Vérification : Arc en plein cintre en élévation, claveaux bien lisibles ; rectangle sur l'arche centrale. Contre-vérification : Pont en pierre : le rectangle cadre une arche en plein cintre franchissant l'espace entre deux piles ; l'arc est lisible de face, sans ambiguïté avec la voûte."
+  },
+  {
+    "id": "arc-05",
+    "termId": "arc",
+    "fichier": "commons/arc-05.webp",
+    "rectangle": {
+      "x": 0.51,
+      "y": 0.29,
+      "largeur": 0.19,
+      "hauteur": 0.27
+    },
+    "lieu": "Trebinje, Bosnie-Herzégovine",
+    "source": "commons",
+    "auteur": "Diego Delso",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Puente_Arslanagi%C4%87,_Trebinje,_Bosnia_y_Herzegovina,_2014-04-14,_DD_28.jpg",
+    "statut": "validée",
+    "note": "Vérification : Arc en plein cintre en élévation, rouleau de claveaux net ; rectangle sur la grande arche centrale. Contre-vérification : Pont en pierre : le rectangle cadre de près la grande arche centrale, courbe clairement lisible reportant les charges sur ses piles."
+  },
+  {
+    "id": "voute-01",
+    "termId": "voute",
+    "fichier": "commons/voute-01.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0,
+      "largeur": 1,
+      "hauteur": 0.29
+    },
+    "lieu": "Liège, Belgique",
+    "source": "commons",
+    "auteur": "Trougnouf (Benoit Brummer)",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fort_de_la_Chartreuse_(DSCF3625-hdr).jpg",
+    "statut": "validée",
+    "note": "Vérification : Voûte en berceau en brique, couvrante et dominante ; rectangle sur la partie haute pour écarter les arcs des fenêtres. Contre-vérification : Salle couverte d'une voûte en berceau en briques ; le rectangle désigne la surface courbe du plafond, qui domine nettement et se lit comme une voûte et non comme un simple arc."
+  },
+  {
+    "id": "cle-de-voute-03",
+    "termId": "cle-de-voute",
+    "fichier": "commons/cle-de-voute-03.webp",
+    "rectangle": {
+      "x": 0.41,
+      "y": 0.34,
+      "largeur": 0.18,
+      "hauteur": 0.2
+    },
+    "lieu": "Leytonstone, Londres, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Jonnyspeed20",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Victorian_Keystone.jpg",
+    "statut": "validée",
+    "note": "Vérification : Clé d'arc sculptée bien visible au sommet de l'arc ; rectangle pour écarter arc et chapiteaux. Photo de nuit mais lisible. Contre-vérification : Le rectangle cadre précisément la pierre sculptée d'un mascaron au sommet de l'arc de la porte : clé de voûte typique, lisible malgré la photo de nuit."
+  },
+  {
+    "id": "cle-de-voute-06",
+    "termId": "cle-de-voute",
+    "fichier": "commons/cle-de-voute-06.webp",
+    "rectangle": {
+      "x": 0.43,
+      "y": 0.19,
+      "largeur": 0.14,
+      "hauteur": 0.09
+    },
+    "lieu": "Stockholm, Suède",
+    "source": "commons",
+    "auteur": "Holger.Ellgaard",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Musket%C3%B6ren_10,_port,_jan_2021.jpg",
+    "statut": "validée",
+    "note": "Vérification : Clé nettement lisible entre les claveaux de l'arc ; rectangle pour la distinguer de l'arc et du décor sculpté au-dessus. Contre-vérification : Le rectangle cadre exactement la pierre trapézoïdale en saillie au sommet de l'arc en plein cintre de la porte, sous le relief sculpté : clé de voûte sans ambiguïté."
+  },
+  {
+    "id": "coupole-01",
+    "termId": "coupole",
+    "fichier": "commons/coupole-01.webp",
+    "rectangle": {
+      "x": 0.27,
+      "y": 0.1,
+      "largeur": 0.46,
+      "hauteur": 0.73
+    },
+    "lieu": "Chapelle de Christian IX, cathédrale de Roskilde, Danemark",
+    "source": "commons",
+    "auteur": "Slaunger",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Christian_IXs_Chapel_Dome_Interior_2015-03-31-4812.jpg",
+    "statut": "validée",
+    "note": "Vérification : Coupole hémisphérique très nette ; rectangle pour écarter les berceaux voisins (confusion voûte). Contre-vérification : Vue de dessous d'une coupole à caissons et cannelures, cadrée par le rectangle au centre des berceaux ; forme hémisphérique bien lisible."
+  },
+  {
+    "id": "coupole-02",
+    "termId": "coupole",
+    "fichier": "commons/coupole-02.webp",
+    "rectangle": null,
+    "lieu": "Monastère de Pažaislis, Kaunas, Lituanie",
+    "source": "commons",
+    "auteur": "Diliff",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Pa%C5%BEaislis_Monastery_interior_dome,_Kaunas,_Lithuania_-_Diliff.jpg",
+    "statut": "validée",
+    "note": "Vérification : La coupole occupe toute l'image, sans ambiguïté. Contre-vérification : Photo intérieure, vue zénithale d'une coupole peinte de fresques avec lanterne centrale, qui occupe toute l'image : terme évident."
+  },
+  {
+    "id": "coupole-03",
+    "termId": "coupole",
+    "fichier": "commons/coupole-03.webp",
+    "rectangle": {
+      "x": 0.3,
+      "y": 0.19,
+      "largeur": 0.4,
+      "hauteur": 0.62
+    },
+    "lieu": "Rome, Italie",
+    "source": "commons",
+    "auteur": "Francesco Borromini / Ciro Ferri / Baciccio",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Sant%27Agnese_in_Agone_(Rome)_-_Dome_interior_(Wide_view).jpg",
+    "statut": "validée",
+    "note": "Vérification : Coupole centrale claire ; rectangle pour écarter les arcs et voûtes environnants. Contre-vérification : Le rectangle cadre la coupole sur tambour (Sant'Agnese in Agone) vue de l'intérieur, avec lanterne et fenêtres, nettement distincte des berceaux voisins."
+  },
+  {
+    "id": "ferme-01",
+    "termId": "ferme",
+    "fichier": "commons/ferme-01.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0,
+      "largeur": 1,
+      "hauteur": 0.62
+    },
+    "lieu": "Abattoirs (Slakthusområdet), Stockholm, Suède",
+    "source": "commons",
+    "auteur": "ArildV",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelselg%C3%A5ngen_June_2025_03.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fermes métalliques répétées bien visibles ; rectangle sur la charpente pour écarter l'arc du fond. Contre-vérification : Halle industrielle : le rectangle désigne la charpente de toit faite de fermes métalliques triangulées qui portent la couverture, clairement visibles."
+  },
+  {
+    "id": "ferme-05",
+    "termId": "ferme",
+    "fichier": "commons/ferme-05.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0,
+      "largeur": 1,
+      "hauteur": 0.62
+    },
+    "lieu": "Stockholm, Suède",
+    "source": "commons",
+    "auteur": "Arild Vågen",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelseg%C3%A5ngen_August_2012_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fermes nettes en partie haute, sans arc parasite ; rectangle pour écarter les véhicules. Contre-vérification : Hangar dont le rectangle cadre la charpente : succession de fermes métalliques en treillis triangulé portant le toit, lisibles et dominantes."
+  },
+  {
+    "id": "colombage-02",
+    "termId": "colombage",
+    "fichier": "commons/colombage-02.webp",
+    "rectangle": null,
+    "lieu": "Zirkel, Mellenbach-Glasbach, Thuringe, Allemagne",
+    "source": "commons",
+    "auteur": "Radomianin",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Half-timbered_mansion,_Zirkel,_East_view.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pans de bois apparents très nets sur toute la façade. Contre-vérification : Villa dont les façades montrent une ossature de bois sombre apparente remplie d'enduit clair : colombage évident et lisible."
+  },
+  {
+    "id": "colombage-06",
+    "termId": "colombage",
+    "fichier": "commons/colombage-06.webp",
+    "rectangle": null,
+    "lieu": "Königswinter, Allemagne",
+    "source": "commons",
+    "auteur": "Reda Kerbouche",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Half-Timbered_House_on_Heisterbacher_Stra%C3%9Fe.jpg",
+    "statut": "validée",
+    "note": "Vérification : Colombage net, frontal, très lisible sur téléphone. Contre-vérification : Maison dont l'étage et le pignon présentent un pan de bois apparent à remplissage blanc ; colombage clairement identifiable."
+  },
+  {
+    "id": "pilotis-06",
+    "termId": "pilotis",
+    "fichier": "commons/pilotis-06.webp",
+    "rectangle": {
+      "x": 0.39,
+      "y": 0.31,
+      "largeur": 0.53,
+      "hauteur": 0.59
+    },
+    "lieu": "Superjednostka, Katowice, Pologne",
+    "source": "commons",
+    "auteur": "Pko",
+    "licence": "CC BY-SA 2.5",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Katowice_Superjednostka_i_spodek.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pilotis massifs sous le bâtiment ; rectangle pour écarter le dôme du Spodek à l'arrière-plan. Contre-vérification : Le rectangle cadre les supports massifs en béton qui portent le bâtiment au-dessus d'un rez-de-chaussée laissé libre : pilotis net, sans confusion possible avec une colonne."
+  },
+  {
+    "id": "corniche-01",
+    "termId": "corniche",
+    "fichier": "commons/corniche-01.webp",
+    "rectangle": {
+      "x": 0.09,
+      "y": 0.178,
+      "largeur": 0.8,
+      "hauteur": 0.035
+    },
+    "lieu": "Upton, Merseyside, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Rodhullandemu",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Upton_Hall.jpg",
+    "statut": "validée",
+    "note": "Vérification : Corniche de couronnement continue en haut de façade ; rectangle nécessaire pour la distinguer du bandeau d'étage visible à mi-hauteur. Contre-vérification : Façade blanche ; le rectangle cadre de près le couronnement mouluré en saillie au sommet du mur, sans englober le bandeau d'étage situé plus bas : c'est bien la corniche."
+  },
+  {
+    "id": "fronton-01",
+    "termId": "fronton",
+    "fichier": "commons/fronton-01.webp",
+    "rectangle": {
+      "x": 0.11,
+      "y": 0.08,
+      "largeur": 0.78,
+      "hauteur": 0.34
+    },
+    "lieu": "Stockholm, Suède",
+    "source": "commons",
+    "auteur": "Holger.Ellgaard",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Birger_Jarlsgatan,_Pumpstocken_10,_febr_2021c.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fronton cintré brisé typique, clairement en couronnement de la baie ; rectangle pour exclure consoles et entablement. Contre-vérification : Fronton cintré brisé avec cartouche sculpté au-dessus d'une baie d'entrée ; le rectangle le cadre exactement et la forme est nettement lisible."
+  },
+  {
+    "id": "fronton-04",
+    "termId": "fronton",
+    "fichier": "commons/fronton-04.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.42,
+      "largeur": 1,
+      "hauteur": 0.46
+    },
+    "lieu": "Talisay, Cebu, Philippines",
+    "source": "commons",
+    "auteur": "Øyvind Holmstad",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Saint_Teresa_of_%C3%81vila_Church_in_Talisay,_Cebu_2017_a4.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fronton triangulaire classique dominant ; rectangle couvrant tout le triangle (corniches rampantes comprises) pour ne pas désigner seulement le tympan. Contre-vérification : Fronton triangulaire d'église avec triangle rayonnant dans le tympan ; il est dominant et bien cadré, et l'échafaudage comme la statue sommitale ne prêtent pas à confusion."
+  },
+  {
+    "id": "chapiteau-02",
+    "termId": "chapiteau",
+    "fichier": "commons/chapiteau-02.webp",
+    "rectangle": null,
+    "lieu": "Pompéi, Italie",
+    "source": "commons",
+    "auteur": "Commonists",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Corinthian_capital_in_Pompeii.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chapiteau occupant toute l'image, très lisible. Contre-vérification : Gros plan net sur un chapiteau composite de pilastre (volutes, feuillages, abaque) ; l'élément est dominant et sans ambiguïté."
+  },
+  {
+    "id": "chapiteau-05",
+    "termId": "chapiteau",
+    "fichier": "commons/chapiteau-05.webp",
+    "rectangle": {
+      "x": 0.365,
+      "y": 0.25,
+      "largeur": 0.31,
+      "hauteur": 0.3
+    },
+    "lieu": "Jerash, Jordanie",
+    "source": "commons",
+    "auteur": "John LaRoe",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Roman_Corinthian_Order_Capital_at_Jerash,_Jordan.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chapiteau corinthien sur sa colonne, très net ; rectangle pour exclure fût et architrave. Contre-vérification : Colonnade antique ; le rectangle cadre précisément le chapiteau corinthien sous l'architrave, et le fût reste en dehors du cadre."
+  },
+  {
+    "id": "chapiteau-06",
+    "termId": "chapiteau",
+    "fichier": "commons/chapiteau-06.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.095,
+      "largeur": 0.33,
+      "hauteur": 0.195
+    },
+    "lieu": "Pompéi, Italie",
+    "source": "commons",
+    "auteur": "Jebulon",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Corinthian_capital_over_concretions_Pompeii.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chapiteau bien détaché sur le ciel ; rectangle pour ne pas désigner la base située dessous. Contre-vérification : Chapiteau corinthien isolé sur une base au sommet d'une ruine ; le rectangle le cadre de près et le terme ne fait pas de doute."
+  },
+  {
+    "id": "pilastre-04",
+    "termId": "pilastre",
+    "fichier": "commons/pilastre-04.webp",
+    "rectangle": {
+      "x": 0.65,
+      "y": 0.18,
+      "largeur": 0.14,
+      "hauteur": 0.765
+    },
+    "lieu": "Serbie",
+    "source": "commons",
+    "auteur": "Cuttingedgephotos",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:%D0%93%D1%80%D0%B0%D1%92%D0%B0%D0%BD%D1%81%D0%BA%D0%B0_%D0%BA%D1%83%D1%9B%D0%B0_%D1%83_%D0%A3%D0%BB._%D0%89%D1%83%D0%B1%D0%B5_%D0%9D%D0%B5%D1%88%D0%B8%D1%9B%D0%B0_50_(4).jpg",
+    "statut": "validée",
+    "note": "Vérification : Pilastre cannelé engagé dans le mur, base et chapiteau visibles ; rectangle pour exclure fenêtre et consoles. Contre-vérification : Pilastre cannelé engagé dans la façade, avec base et chapiteau ; le rectangle l'encadre exactement, et son voisin identique ne change pas la réponse."
+  },
+  {
+    "id": "gargouille-05",
+    "termId": "gargouille",
+    "fichier": "commons/gargouille-05.webp",
+    "rectangle": null,
+    "lieu": "Rosslyn Chapel, Écosse, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Mike McBey",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gargoyle_(50366866391).jpg",
+    "statut": "validée",
+    "note": "Vérification : Déversoir sculpté clair et dominant, gueule percée et canal visibles ; aucun autre élément concurrent. Contre-vérification : Gargouille gothique sculptée en animal, gueule ouverte servant de déversoir, en forte saillie sur le mur ; dominante et claire."
+  },
+  {
+    "id": "balustre-04",
+    "termId": "balustre",
+    "fichier": "commons/balustre-04.webp",
+    "rectangle": {
+      "x": 0.7,
+      "y": 0.76,
+      "largeur": 0.3,
+      "hauteur": 0.13
+    },
+    "lieu": "Pont Alexandre III, Paris, France",
+    "source": "commons",
+    "auteur": "Jebulon",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lampe_Pont_Alexandre_III_Paris.jpg",
+    "statut": "validée",
+    "note": "Vérification : Balustres renflés bien nets ; le rectangle isole la série de droite pour écarter le lampadaire et le socle. Contre-vérification : Le rectangle désigne une série de balustres renflés à ornements dorés du parapet. Le candélabre domine l'image, mais la désignation est précise et aucun autre terme ne convient."
+  },
+  {
+    "id": "balustre-05",
+    "termId": "balustre",
+    "fichier": "commons/balustre-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Lysippos",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Sandstone_restoration3.jpg",
+    "statut": "validée",
+    "note": "Vérification : Balustre unique, net et dominant ; forme renflée parfaitement lisible, aucun élément concurrent. Contre-vérification : Gros plan sur un balustre de pierre en forme de vase, dans une balustrade circulaire ; il est dominant et ne laisse aucun doute."
+  },
+  {
+    "id": "rosace-01",
+    "termId": "rosace",
+    "fichier": "commons/rosace-01.webp",
+    "rectangle": null,
+    "lieu": "Cathédrale du Sacré-Cœur, Tachkent, Ouzbékistan",
+    "source": "commons",
+    "auteur": "Mrshaxas",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Round_stained-glass_rose_window_in_Sacred_Heart_Cathedral_(1).jpg",
+    "statut": "validée",
+    "note": "Vérification : Rosace à remplage et vitraux, occupant toute l'image ; aucun doute possible. Contre-vérification : Grande baie circulaire à remplage polylobé garnie de vitraux colorés, vue de l'intérieur ; rosace typique, plein cadre."
+  },
+  {
+    "id": "rosace-05",
+    "termId": "rosace",
+    "fichier": "commons/rosace-05.webp",
+    "rectangle": {
+      "x": 0.345,
+      "y": 0.255,
+      "largeur": 0.41,
+      "hauteur": 0.445
+    },
+    "lieu": "Chapelle San José, Quito, Équateur",
+    "source": "commons",
+    "auteur": "Ranoutofusername",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Roset%C3%B3n_de_la_Capilla_de_San_Jos%C3%A9_del_Colegio_Santa_Marianita_de_Jes%C3%BAs,_Quito.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rosace nette ; rectangle nécessaire pour écarter la corniche à modillons visible en dessous. Contre-vérification : Baie circulaire à remplage en étoile, moulurée de briques, sur une façade d'église ; elle est bien cadrée. Plus modeste qu'une rosace gothique, c'est pourtant le seul terme pertinent de la catégorie."
+  },
+  {
+    "id": "modillon-06",
+    "termId": "modillon",
+    "fichier": "commons/modillon-06.webp",
+    "rectangle": {
+      "x": 0.7,
+      "y": 0,
+      "largeur": 0.215,
+      "hauteur": 0.76
+    },
+    "lieu": "Cathédrale de l'Intercession, Izmaïl, Ukraine",
+    "source": "commons",
+    "auteur": "VileGecko",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Intercession_Cathedral,_apse_medallion,_2020-04-13.jpg",
+    "statut": "validée",
+    "note": "Vérification : Série régulière de modillons à volutes sous la saillie de la corniche ; rectangle indispensable pour écarter le médaillon central. Contre-vérification : Corniche courbe d'une abside ; le rectangle cadre la série régulière de petites consoles à volutes sous la saillie de la corniche, alternant avec des rosettes. Ce sont bien des modillons."
+  },
+  {
+    "id": "mascaron-04",
+    "termId": "mascaron",
+    "fichier": "commons/mascaron-04.webp",
+    "rectangle": {
+      "x": 0.4,
+      "y": 0.15,
+      "largeur": 0.185,
+      "hauteur": 0.37
+    },
+    "lieu": "16 place Vendôme, Paris, France",
+    "source": "commons",
+    "auteur": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Mascaron_16_Place_Vend%C3%B4me_Paris.jpg",
+    "statut": "validée",
+    "note": "Vérification : Mascaron de clé d'arc typique, net ; rectangle pour écarter bandeau et corniche. Catégorie Commons « Retouched pictures » (retouche photographique légère), photo réelle. Contre-vérification : Tête barbue sculptée sur la clé d'un arc, cadrée de près ; c'est l'exemple type du mascaron."
+  },
+  {
+    "id": "mascaron-05",
+    "termId": "mascaron",
+    "fichier": "commons/mascaron-05.webp",
+    "rectangle": null,
+    "lieu": "Teatro La Fenice, Venise, Italie",
+    "source": "commons",
+    "auteur": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:(Venice)_Left_Mascaron_of_the_facade_of_the_Fenice.jpg",
+    "statut": "validée",
+    "note": "Vérification : Mascaron de clé d'arc dominant, parfaitement lisible ; aucun élément concurrent. Contre-vérification : Masque de théâtre sculpté sur la clé d'un arc, en plein cadre ; c'est un mascaron sans ambiguïté."
+  },
+  {
+    "id": "frise-01",
+    "termId": "frise",
+    "fichier": "commons/frise-01.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.385,
+      "largeur": 0.805,
+      "hauteur": 0.25
+    },
+    "lieu": "Lady Lever Art Gallery, Port Sunlight, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Alex Liivet from Chester, United Kingdom",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lady_Lever_Gallery_(30596307434).jpg",
+    "statut": "validée",
+    "note": "Vérification : Frise sculptée exemplaire, bande horizontale continue ; rectangle nécessaire pour l'isoler de la corniche et des consoles voisines. Contre-vérification : Bande horizontale sculptée de danseuses sur fond bleu, entre deux consoles d'un manteau de cheminée ; le rectangle la cadre exactement."
+  },
+  {
+    "id": "pinacle-05",
+    "termId": "pinacle",
+    "fichier": "commons/pinacle-05.webp",
+    "rectangle": null,
+    "lieu": "Cathédrale de Milan, Italie",
+    "source": "commons",
+    "auteur": "Terragio67",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Milano_-_Duomo_di_Milano_-_Guglie,_composizione_-_2026-09-08_20-59-21_001.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pinacles gothiques à crochets de la cathédrale de Milan (catégorie Commons « Pinnacles »), seuls éléments de l'image ; la statue sommitale est une particularité milanaise, mais la forme élancée à crochets est sans ambiguïté parmi les termes d'ornement. Contre-vérification : Pinacles gothiques effilés et fleuronnés du Dôme de Milan, surmontés de statues ; ils sont dominants, et aucun autre terme de la catégorie ne convient."
+  },
+  {
+    "id": "cariatide-02",
+    "termId": "cariatide",
+    "fichier": "commons/cariatide-02.webp",
+    "rectangle": null,
+    "lieu": "Musée de l'Acropole, Athènes, Grèce",
+    "source": "commons",
+    "auteur": "Deiadameian",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Two_caryatids_acma_athens_greece.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cariatides canoniques, figures féminines dominantes avec leur chapiteau visible qui montre leur rôle de support. Contre-vérification : Cariatides de l'Érechthéion au musée : statues féminines portant un chapiteau sur la tête, bien visibles malgré les visiteurs."
+  },
+  {
+    "id": "cariatide-04",
+    "termId": "cariatide",
+    "fichier": "commons/cariatide-04.webp",
+    "rectangle": null,
+    "lieu": "Musée de l'Acropole, Athènes, Grèce",
+    "source": "commons",
+    "auteur": "Inconnu",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Porch_of_the_Maidens_(Caryatids)_4.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cariatide nette et dominante, chapiteau sur la tête bien visible ; les visiteurs n'introduisent aucune ambiguïté. Contre-vérification : Cariatide de l'Érechthéion, figure féminine drapée coiffée d'un chapiteau et d'un abaque ; elle est dominante et sans ambiguïté."
+  }
+]

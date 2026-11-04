@@ -1,0 +1,58 @@
+{
+  "termId": "colonne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Stèle (pilier carré) gravée d'une inscription, enfouie dans la végétation d'un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Schlemmin, Allemagne",
+      "note": "Support de section carrée portant une inscription : stèle ou pilier, pas une colonne ; texte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Colonnette d'angle engagée, sculptée en forme de balustre à bulbes, sur la porte d'une mosquée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zharkent, Kazakhstan",
+      "note": "Élément engagé au profil de balustre, sans fût ni chapiteau lisibles : trop ambigu (colonnette, balustre, pilastre)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Poteau cylindrique revêtu de mosaïque de miroirs sur un quai de gare souterraine, avec panneau « 104 ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Francfort-sur-le-Main, Allemagne",
+      "note": "Ni base ni chapiteau : un architecte y verrait un poteau ou un pilier ; panneaux de signalétique visibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Murs d'un palais en terre blanchie surmontés de pinacles coniques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wa, Ghana",
+      "note": "Aucune colonne visible : pinacles et contreforts coniques en terre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fût de colonne antique isolé sur sa base moulurée et son piédestal, devant des ruines romaines avec un arc à l'arrière-plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.27,
+        "largeur": 0.29,
+        "hauteur": 0.51
+      },
+      "lieu": "Djémila, Algérie",
+      "note": "Colonne isolée nettement lisible (base et fût, chapiteau disparu) ; rectangle nécessaire pour écarter l'arc et la seconde colonne du fond."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Salle de bibliothèque romaine reconstituée en musée, entourée de colonnes corinthiennes en faux marbre autour d'une statue de Minerve.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Reconstitution muséale (catégorie « Models of Biblioteca Ulpia ») en faux marbre, assimilable à une maquette ; dominante colorée verdâtre."
+    }
+  ]
+}

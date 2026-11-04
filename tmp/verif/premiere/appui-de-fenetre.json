@@ -1,0 +1,63 @@
+{
+  "termId": "appui-de-fenetre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre à croisillons vue de l'intérieur, paysage enneigé ; la tablette intérieure n'apparaît qu'en bas, sombre et coupée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La fenêtre et ses petits-bois dominent ; tablette intérieure sombre, partiellement visible, peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre de chambre vue de l'intérieur, rideaux, tablette d'appui blanche portant quelques bibelots.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.34,
+        "y": 0.73,
+        "largeur": 0.55,
+        "hauteur": 0.06
+      },
+      "lieu": "Liverpool, Royaume-Uni",
+      "note": "Tablette d'appui nette sous la fenêtre ; rectangle nécessaire pour la distinguer de l'allège et du dormant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Couloir d'hôtel courbe avec grande baie vitrée et fresque murale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Aucun appui de fenêtre lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur en travaux : lambris peint sous une fenêtre, outils au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre surtout le lambris d'allège ; confusion allège/appui."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Appui extérieur en saillie, recouvert de carreaux vernissés bruns sur un rang de briques, sous une fenêtre à façade crépie.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.22,
+        "largeur": 0.93,
+        "hauteur": 0.44
+      },
+      "lieu": "Czernica, Pologne",
+      "note": "Appui saillant à rejet d'eau, élément dominant ; illustre parfaitement la définition."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre profonde d'une maison en mottes de gazon, large banquette d'embrasure blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Comstock, Nebraska, États-Unis",
+      "note": "Embrasure très profonde formant banquette ; plaques et objets distrayants, l'appui proprement dit est ambigu."
+    }
+  ]
+}

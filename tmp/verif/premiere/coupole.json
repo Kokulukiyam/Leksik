@@ -1,0 +1,53 @@
+{
+  "termId": "coupole",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue zénithale d'une coupole blanche à caissons et cannelures sur pendentifs, entourée de voûtes en berceau à caissons.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.27, "y": 0.10, "largeur": 0.46, "hauteur": 0.73 },
+      "lieu": "Chapelle de Christian IX, cathédrale de Roskilde, Danemark",
+      "note": "Coupole hémisphérique très nette ; rectangle pour écarter les berceaux voisins (confusion voûte)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Intérieur de coupole baroque peinte de fresques, vue d'en dessous, avec lanterne hexagonale au centre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Monastère de Pažaislis, Kaunas, Lituanie",
+      "note": "La coupole occupe toute l'image, sans ambiguïté."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue zénithale de la coupole sur tambour de Sant'Agnese in Agone, dorée et peinte, encadrée par quatre arcs et des berceaux.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.30, "y": 0.19, "largeur": 0.40, "hauteur": 0.62 },
+      "lieu": "Rome, Italie",
+      "note": "Coupole centrale claire ; rectangle pour écarter les arcs et voûtes environnants."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Revêtement de céramique à motifs concentriques vu de dessous (intérieur du Dôme de la Chaîne).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jérusalem",
+      "note": "La courbure n'est pas perceptible : on voit un motif de carreaux, pas une coupole."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Coupole octogonale à côtes peintes avec oculus central, sur tambour percé de fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montefiascone, Italie",
+      "note": "Coupole à pans (voûte en arc de cloître octogonale), moins exemplaire que les trois retenues."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panorama très déformé de la coupole vitrée des Galeries Lafayette avec sapin de Noël géant et décorations.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Image composite fortement déformée et encombrée ; coupole vitrée peu représentative."
+    }
+  ]
+}

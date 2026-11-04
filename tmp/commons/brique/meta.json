@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "brique",
+    "terme": "la brique",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bloc d'argile moulé puis cuit, utilisé en maçonnerie.",
+    "requetes": [
+      "incategory:\"Brick walls\"",
+      "brick wall texture"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hue Vietnam Citadel-of-Huế-11.jpg",
+      "description": "Hue, Vietnam: Brick wall with round, decorated window in the Imperial palace in Hue",
+      "categories": [
+        "Taken with Sony DSLR-A700",
+        "Brick walls",
+        "Imperial City, Huế",
+        "Self-published work",
+        "Round windows in Vietnam",
+        "Information field template with formatting",
+        "Images by Cccefalon",
+        "Files with coordinates missing SDC location of creation",
+        "Vietnam photographs taken on 2010-11-21",
+        "Images of Vietnam by User:Cccefalon"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-11.jpg/1280px-Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4241,
+      "hauteur": 2827
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Schmid-Kaserne, Rendsburg (P1100605).jpg",
+      "description": "Feldwebel-Schmid-Kaserne, Rendsburg",
+      "categories": [
+        "Images from Wiki Loves Monuments 2022 in Germany",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-GH1",
+        "Feldwebel-Schmid-Kaserne",
+        "Brick walls",
+        "License migration redundant",
+        "Ausbildungszentrum Heeresflugabwehrtruppe",
+        "Self-published work",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Schleswig-Holstein photographs taken on 2020-04-09",
+        "Images from Wiki Loves Monuments 2022",
+        "Images from Wiki Loves Monuments 2022, DE-SH"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schmid-Kaserne,_Rendsburg_(P1100605).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Schmid-Kaserne%2C_Rendsburg_%28P1100605%29.jpg/1280px-Schmid-Kaserne%2C_Rendsburg_%28P1100605%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Church of St Paraskevi, details of the outer walls 02.jpg",
+      "description": "Church of St Paraskevi in Nesebar, details of the outer walls",
+      "categories": [
+        "Brick walls",
+        "Church of Paraskevi in Nesebar",
+        "Self-published work",
+        "Bricks in Bulgaria",
+        "Walls in Nesebar",
+        "Kritzolina"
+      ],
+      "auteur": "Kritzolina",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_St_Paraskevi,_details_of_the_outer_walls_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Church_of_St_Paraskevi%2C_details_of_the_outer_walls_02.jpg/1280px-Church_of_St_Paraskevi%2C_details_of_the_outer_walls_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dudzele Lentestraat 1 R08.jpg",
+      "description": "Dudzele (ville de Bruges, Belgique) : détail de la grange de la ferme Lentestraat 1 (démolie en juin 2014)",
+      "categories": [
+        "Taken with Nikon D90",
+        "Brick walls",
+        "Onroerend erfgoed in Dudzele",
+        "Self-published work",
+        "Images by MJJR",
+        "Red doors",
+        "Onroerend erfgoed with known IDs",
+        "Lentestraat (Bruges)"
+      ],
+      "auteur": "Marc Ryckaert",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dudzele_Lentestraat_1_R08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Dudzele_Lentestraat_1_R08.jpg/1280px-Dudzele_Lentestraat_1_R08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4104,
+      "hauteur": 2792
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Tolna County CoA relief, Varkoz, 2016 Szekszard.jpg",
+      "description": ": Relief of the Coat of arms of Tolna County,-shows Saint Emeric of Hungary and Stephen I of Hungary,-on the wall of the former Castle of Szekszard at Varkoz and Garay Square corner, Szekszárd , Tolna County , Hungary .",
+      "categories": [
+        "Images with annotations",
+        "Brick walls",
+        "Self-published work",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Cartouches in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "Castle walls in Hungary",
+        "Relief of the Coat of arms of Tolna County (Várköz, Szekszárd)",
+        "2016 in Szekszárd"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tolna_County_CoA_relief,_Varkoz,_2016_Szekszard.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Tolna_County_CoA_relief%2C_Varkoz%2C_2016_Szekszard.jpg/1280px-Tolna_County_CoA_relief%2C_Varkoz%2C_2016_Szekszard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2019-07-08 - Appareillage de briques et de galets.jpg",
+      "description": "Appareillage de briques et de galets",
+      "categories": [
+        "Stone walls",
+        "Brick walls",
+        "Self-published work",
+        "Images by Paul.schrepfer"
+      ],
+      "auteur": "Paul.schrepfer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2019-07-08_-_Appareillage_de_briques_et_de_galets.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/2019-07-08_-_Appareillage_de_briques_et_de_galets.jpg/1280px-2019-07-08_-_Appareillage_de_briques_et_de_galets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    }
+  ]
+}

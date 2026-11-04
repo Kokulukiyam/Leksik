@@ -1,0 +1,169 @@
+{
+  "terme": {
+    "id": "fronton",
+    "terme": "le fronton",
+    "categorie": "Ornement",
+    "definition": "Couronnement triangulaire ou cintré qui surmonte une façade, une porte ou une fenêtre.",
+    "requetes": [
+      "incategory:\"Pediments\"",
+      "pediment temple facade"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Birger Jarlsgatan, Pumpstocken 10, febr 2021c.jpg",
+      "description": "Pumpstocken 10, Birger Jarlsgatan 13, Byggnadsår 1896-98, arkitekter Ulrich & Hallquisth, byggherre A O Jönsson, byggmästare L P Törnvall",
+      "categories": [
+        "Pumpstocken 10",
+        "Pediments",
+        "Self-published work",
+        "Door pediments",
+        "Artistic house numbers in Sweden",
+        "13 (house number) in Sweden",
+        "Photographs by Holger Ellgaard",
+        "House numbers in Stockholm"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Birger_Jarlsgatan,_Pumpstocken_10,_febr_2021c.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Birger_Jarlsgatan%2C_Pumpstocken_10%2C_febr_2021c.jpg/1280px-Birger_Jarlsgatan%2C_Pumpstocken_10%2C_febr_2021c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4505,
+      "hauteur": 3385
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Museo Ferrocarril Puebla.jpg",
+      "description": "Museo Nacional de los Ferrocarriles Mexicanos, Ciudad de Puebla, México",
+      "categories": [
+        "Pediments",
+        "Museo Nacional de los Ferrocarriles Mexicanos, Puebla",
+        "Self-published work",
+        "Steam locomotives of Mexico",
+        "2005 in rail transport in Mexico",
+        "Preserved steam locomotives of Mexico",
+        "October 2005 in rail transport",
+        "2005 in Puebla",
+        "Mexico photographs taken on 2005-10-30",
+        "Railway photographs taken on 2005-10-30",
+        "Museums in Mexico photographed in 2005",
+        "Three arches (aside) in Mexico",
+        "Train stations in Puebla"
+      ],
+      "auteur": "Ramon Leon Rosas",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Museo_Ferrocarril_Puebla.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Museo_Ferrocarril_Puebla.jpg/1280px-Museo_Ferrocarril_Puebla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2574,
+      "hauteur": 1096
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cabinet, c. 1600, ash and oak - Stadtmuseum Fembohaus - Nuremberg, Germany -DSC02157.jpg",
+      "description": "Exhibit in the Stadtmuseum Fembohaus - Nuremberg, Germany.",
+      "categories": [
+        "CC-Zero",
+        "Pediments",
+        "Pilasters",
+        "Author died more than 100 years ago public domain images",
+        "Self-published work",
+        "CC-PD-Mark",
+        "1600s furniture",
+        "Fassadenschrank",
+        "Files uploaded by Daderot",
+        "17th-century cabinets",
+        "Oak furniture",
+        "Furniture in the Stadtmuseum Fembohaus",
+        "Carved wooden storage furniture",
+        "Ash furniture"
+      ],
+      "auteur": "Daderot",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cabinet,_c._1600,_ash_and_oak_-_Stadtmuseum_Fembohaus_-_Nuremberg,_Germany_-DSC02157.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Cabinet%2C_c._1600%2C_ash_and_oak_-_Stadtmuseum_Fembohaus_-_Nuremberg%2C_Germany_-DSC02157.jpg/1280px-Cabinet%2C_c._1600%2C_ash_and_oak_-_Stadtmuseum_Fembohaus_-_Nuremberg%2C_Germany_-DSC02157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5292,
+      "hauteur": 3607
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Saint Teresa of Ávila Church in Talisay, Cebu 2017 a4.jpg",
+      "description": "Saint Teresa of Ávila Church in Talisay, Cebu",
+      "categories": [
+        "Pediments",
+        "Self-published work",
+        "Philippines photographs taken on 2017-08-03",
+        "Statues of Saint Teresa of Ávila in the Philippines",
+        "Details of the facade of the Archdiocesan Shrine of Santa Teresa de Avila (Talisay, Cebu)"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saint_Teresa_of_%C3%81vila_Church_in_Talisay,_Cebu_2017_a4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Saint_Teresa_of_%C3%81vila_Church_in_Talisay%2C_Cebu_2017_a4.jpg/1280px-Saint_Teresa_of_%C3%81vila_Church_in_Talisay%2C_Cebu_2017_a4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Projekt konkursowy p. Wachulskiego na fronton kościoła Wszystkich Świętych - Ośm bogosławieństw ... (59045).jpg",
+      "description": "Projekt konkursowy p. Wachulskiego na fronton kościoła Wszystkich Świętych : Ośm bogosławieństw ...",
+      "categories": [
+        "Pediments",
+        "Files with no machine-readable author",
+        "All Saints Church, Warsaw",
+        "Uploaded with pattypan",
+        "Artworks without Wikidata item",
+        "PD Old",
+        "PD Old auto: no death date",
+        "Artworks with known accession number",
+        "CC-PD-Mark",
+        "Media contributed by the Mazovian Digital Library (budownictwo sakralne)",
+        "Wawrzyniec Wachulski",
+        "Media contributed by the Mazowiecka Biblioteka Cyfrowa"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Projekt_konkursowy_p._Wachulskiego_na_fronton_ko%C5%9Bcio%C5%82a_Wszystkich_%C5%9Awi%C4%99tych_-_O%C5%9Bm_bogos%C5%82awie%C5%84stw_..._(59045).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Projekt_konkursowy_p._Wachulskiego_na_fronton_ko%C5%9Bcio%C5%82a_Wszystkich_%C5%9Awi%C4%99tych_-_O%C5%9Bm_bogos%C5%82awie%C5%84stw_..._%2859045%29.jpg/1280px-Projekt_konkursowy_p._Wachulskiego_na_fronton_ko%C5%9Bcio%C5%82a_Wszystkich_%C5%9Awi%C4%99tych_-_O%C5%9Bm_bogos%C5%82awie%C5%84stw_..._%2859045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2725,
+      "hauteur": 959
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Rykynčice-church-portal-1788.jpg",
+      "description": "Church in Dolné Rykynčice, (part of Rykynčice) Slovakia",
+      "categories": [
+        "GFDL",
+        "Taken with HP PhotoSmart M417",
+        "Æ",
+        "Pediments",
+        "Lintels",
+        "License migration redundant",
+        "Self-published work",
+        "Latin inscriptions in Slovakia",
+        "Door pediments",
+        "Church chandeliers in Slovakia",
+        "Chronograms in writing in Slovakia",
+        "Churches in Slovakia photographed in 2010",
+        "1788 architectural dates",
+        "U as V",
+        "1 as J",
+        "Small caps mixed case in Roman numeral chronograms",
+        "Plaques referencing 1788 in Slovakia",
+        "Plaques referencing 1821 in Slovakia",
+        "Black, orange, red, white",
+        "Black and red letter signs",
+        "Two-color text in Roman numeral chronograms",
+        "Photographs of objects with the letter \"Ñ\"",
+        "Photos by User:Pe-Jo",
+        "Church of the Immaculate Conception, Rykynčice",
+        "MDCCCVVVIIIIII (numeral)"
+      ],
+      "auteur": "Pe-Jo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rykyn%C4%8Dice-church-portal-1788.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rykyn%C4%8Dice-church-portal-1788.jpg/1280px-Rykyn%C4%8Dice-church-portal-1788.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1952
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "garde-corps",
+    "terme": "le garde-corps",
+    "categorie": "Façade et ouvertures",
+    "definition": "Barrière à hauteur d'appui qui protège des chutes au bord d'un vide, comme un balcon, un escalier ou une terrasse.",
+    "requetes": [
+      "incategory:\"Railings\"",
+      "garde-corps",
+      "metal railing terrace"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Frombork 2023 50 Port.jpg",
+      "description": "Frombork is a town in northern Poland, situated on the Vistula Lagoon in Braniewo County , within Warmian-Masurian Voivodeship . The town was first mentioned in a 13th-century document. In the early 16th century it was the residence of the astronomer Nicolaus Copernicus , who used it as a site for several of his observations. Frombork is known as “The Jewel of Warmia ” because of its many historical sites. The Scotch Mist Gallery contains many photographs of historic buildings, monuments and memorials of Poland.",
+      "categories": [
+        "Taken with Nikon D3200",
+        "Railings",
+        "Self-published work",
+        "Boats in Poland",
+        "Poland photographs taken on 2023-09-14",
+        "September 2023 in Warmian-Masurian Voivodeship",
+        "Files with coordinates missing SDC location of creation",
+        "Port of Frombork"
+      ],
+      "auteur": "Scotch Mist",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Frombork_2023_50_Port.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Frombork_2023_50_Port.jpg/1280px-Frombork_2023_50_Port.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4512,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Deckchair on ferry.jpg",
+      "description": "Deckchair on ferry",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D5000",
+        "Railings",
+        "License migration redundant",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Ship deckchairs",
+        "Images by Amada44"
+      ],
+      "auteur": "User:Amada44",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deckchair_on_ferry.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Deckchair_on_ferry.jpg/1280px-Deckchair_on_ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Nature reserve Richtenberger See, Richtenberg (P1090440).jpg",
+      "description": "Nature reserve Richtenberger See",
+      "categories": [
+        "Images from Wiki Loves Earth 2022 in Germany",
+        "GFDL",
+        "Roads in Mecklenburg-Vorpommern",
+        "Railings",
+        "Paths",
+        "License migration redundant",
+        "Naturschutzgebiet Richtenberger See",
+        "Self-published work",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Images from Wiki Loves Earth 2022",
+        "Images from Wiki Loves Earth 2022, DE landscape",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Taken with Panasonic Lumix DMC-G5 and Panasonic Lumix G Vario HD 14-140mm F4.0-5.8 Asph Mega OIS"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nature_reserve_Richtenberger_See,_Richtenberg_(P1090440).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Nature_reserve_Richtenberger_See%2C_Richtenberg_%28P1090440%29.jpg/1280px-Nature_reserve_Richtenberger_See%2C_Richtenberg_%28P1090440%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Piran city walls battlement parapet-1805.jpg",
+      "description": "The city wall in the southeast of Piran runs from the steep cliffs in the northeast across the hill Mogoron almost to the port. The fortifications were built to ward off Turkish attacks in the 15th and 16th centuries.",
+      "categories": [
+        "Walls of Piran",
+        "Railings",
+        "Swallowtail merlons",
+        "Self-published work",
+        "Metal railings in Slovenia",
+        "Cultural monuments of Slovenia with known IDs",
+        "Uploaded via Campaign:wlm-si",
+        "Images from Wiki Loves Monuments 2020",
+        "Images from Wiki Loves Monuments 2020 in Slovenia",
+        "Crenellation"
+      ],
+      "auteur": "Isiwal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Piran_city_walls_battlement_parapet-1805.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Piran_city_walls_battlement_parapet-1805.jpg/1280px-Piran_city_walls_battlement_parapet-1805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3583,
+      "hauteur": 5374
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Vintage staircase, Chemical Faculty (1904), Gdansk University of Technology, Poland.jpg",
+      "description": "Historical staircase from 1904 with a balustrade decorated with an alembic motif forged in steel, Faculty of Chemistry, Gdańsk University of Technology",
+      "categories": [
+        "Staircases",
+        "Balustrades",
+        "Gdańsk University of Technology",
+        "Railings",
+        "Alambics",
+        "Self-published work",
+        "Cultural heritage monuments in Poland with known IDs",
+        "Uploaded via Campaign:wlm-pl",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2020",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2020 in Poland",
+        "Cultural heritage monuments in Poland missing SDC location of creation",
+        "Images from Wiki Loves Monuments in Poland – Pomeranian Voivodeship"
+      ],
+      "auteur": "LukaszKatlewa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vintage_staircase,_Chemical_Faculty_(1904),_Gdansk_University_of_Technology,_Poland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Vintage_staircase%2C_Chemical_Faculty_%281904%29%2C_Gdansk_University_of_Technology%2C_Poland.jpg/1280px-Vintage_staircase%2C_Chemical_Faculty_%281904%29%2C_Gdansk_University_of_Technology%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Schillerstraße 32 in Hannover, Treppen bei Reno Schuhe.jpg",
+      "description": "Schillerstraße 32 in Hannover, Treppen bei Reno Schuhe ...",
+      "categories": [
+        "Stairs",
+        "Evening",
+        "Schillerstraße (Hannover)",
+        "Reno Fashion & Shoes GmbH",
+        "Railings",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2022-10-25",
+        "Files with coordinates missing SDC location of creation (52° N, 9° E)"
+      ],
+      "auteur": "Bernd Schwabe in Hannover",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schillerstra%C3%9Fe_32_in_Hannover,_Treppen_bei_Reno_Schuhe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Schillerstra%C3%9Fe_32_in_Hannover%2C_Treppen_bei_Reno_Schuhe.jpg/1280px-Schillerstra%C3%9Fe_32_in_Hannover%2C_Treppen_bei_Reno_Schuhe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2252,
+      "hauteur": 4000
+    }
+  ]
+}

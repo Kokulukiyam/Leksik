@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "appui-de-fenetre",
+    "terme": "l'appui de fenêtre",
+    "categorie": "Façade et ouvertures",
+    "definition": "Partie horizontale qui forme le bas d'une fenêtre, souvent en saillie pour rejeter l'eau de pluie.",
+    "requetes": [
+      "incategory:\"Window sills\"",
+      "stone window sill"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Sprossenfenster 01.jpg",
+      "description": "Fenêtre à croisillons",
+      "categories": [
+        "Ornamental plants",
+        "GFDL",
+        "Taken with Nikon D40",
+        "Muntin windows",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Thermal bridges",
+        "Window sills",
+        "Self-published work"
+      ],
+      "auteur": "TomAlt",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sprossenfenster_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sprossenfenster_01.jpg/1280px-Sprossenfenster_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1762,
+      "hauteur": 2234
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Liverpool Princes Gardens.jpg",
+      "description": "A Princess Gardens bedroom in Liverpool",
+      "categories": [
+        "Rooms",
+        "Window sills",
+        "Self-published work",
+        "Windows (interior views)",
+        "Files with coordinates missing SDC location of creation (53° N, 3° W)"
+      ],
+      "auteur": "TudorTulok",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Liverpool_Princes_Gardens.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Liverpool_Princes_Gardens.jpg/1280px-Liverpool_Princes_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:HK Admiralty Hotel corridor view Aug-2012.JPG",
+      "description": "香港港麗酒店 , Conrad Hotels, Admiralty, Hong Kong",
+      "categories": [
+        "Taken with Ricoh R10",
+        "Window sills",
+        "Interior of Conrad Hong Kong",
+        "Self-published work",
+        "Corridors in Hong Kong",
+        "Wall mounted pictures",
+        "Curved structures",
+        "Windows (interior views)",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Hong Kong photographs taken on 2012-08-30",
+        "Media needing category review as of 30 January 2024",
+        "August 2012 in Conrad Hong Kong"
+      ],
+      "auteur": "Chansmingkwong",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_Admiralty_Hotel_corridor_view_Aug-2012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/HK_Admiralty_Hotel_corridor_view_Aug-2012.JPG/1280px-HK_Admiralty_Hotel_corridor_view_Aug-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Výměna okna, obložení pod oknem.JPG",
+      "description": "Wall paneling under the casement window in ivory color - dismantling.",
+      "categories": [
+        "Taken with Canon PowerShot G10",
+        "Panellings",
+        "Window sills",
+        "Files by Juandev",
+        "Files by Juandev lacking geographic coordinates",
+        "Windows (interior views)"
+      ],
+      "auteur": "Juan de Vojníkov",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:V%C3%BDm%C4%9Bna_okna,_oblo%C5%BEen%C3%AD_pod_oknem.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/V%C3%BDm%C4%9Bna_okna%2C_oblo%C5%BEen%C3%AD_pod_oknem.JPG/1280px-V%C3%BDm%C4%9Bna_okna%2C_oblo%C5%BEen%C3%AD_pod_oknem.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4416,
+      "hauteur": 3312
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Czernica pałacyk parapet 10.09.2011 p.jpg",
+      "description": "Pałacyk w Czernicy - parapet",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 350D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Window sills",
+        "Palace in Czernica",
+        "Self-published work",
+        "September 2011 in Silesian Voivodeship"
+      ],
+      "auteur": "Przykuta",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Czernica_pa%C5%82acyk_parapet_10.09.2011_p.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Czernica_pa%C5%82acyk_parapet_10.09.2011_p.jpg/1280px-Czernica_pa%C5%82acyk_parapet_10.09.2011_p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3124,
+      "hauteur": 1424
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dowse sod house interior kitchen S window.JPG",
+      "description": "Interior of William R. Dowse House , located southwest of Comstock in Custer County, Nebraska . The sod house was built in 1900, and is listed in the National Register of Historic Places . It is now open as a museum. The window in the photo is in the south wall of the kitchen; it leads to a more recent enclosed porch. Note the thickness of the wall; for scale, a United States five-dollar bill was placed on the right side of the window seat.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ20",
+        "Dowse sod house",
+        "Window sills",
+        "Self-published work",
+        "PD-self",
+        "Window recesses",
+        "Windows in Nebraska",
+        "Pictures by Ammodramus"
+      ],
+      "auteur": "Ammodramus",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dowse_sod_house_interior_kitchen_S_window.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Dowse_sod_house_interior_kitchen_S_window.JPG/1280px-Dowse_sod_house_interior_kitchen_S_window.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    }
+  ]
+}

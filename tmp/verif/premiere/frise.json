@@ -1,0 +1,53 @@
+{
+  "termId": "frise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entablement de marbre blanc au-dessus d'une porte, dont la bande médiane montre une ronde de jeunes femmes en relief sur fond bleu, entre corniche et architrave, flanquée de deux consoles à volutes.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.08, "y": 0.385, "largeur": 0.805, "hauteur": 0.25 },
+      "lieu": "Lady Lever Art Gallery, Port Sunlight, Royaume-Uni",
+      "note": "Frise sculptée exemplaire, bande horizontale continue ; rectangle nécessaire pour l'isoler de la corniche et des consoles voisines."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bloc de grès isolé sur fond noir, sculpté d'un aigle à croix entre deux colonnettes, pièce de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Musée national de Varsovie (provenant de Faras, Soudan)",
+      "note": "Fragment isolé hors contexte : on voit un relief, pas une bande courant le long d'un mur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo d'archive noir et blanc d'un long relief horizontal Art déco (mère et enfant, figure féminine, motifs végétaux) vu de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Relief cadré seul, sans le mur ni l'entablement : se lit comme un bas-relief ou un panneau sculpté plutôt que comme une bande courant le long d'une façade ; doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Dessin au crayon sur papier de motifs de frises ornementales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo réelle."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façades de maisons enduites ; sous la corniche à denticules d'une maison, une bande peinte avec petits médaillons et panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minden, Allemagne",
+      "note": "Frise trop petite et peu lisible sur téléphone, confondue avec la corniche et les modillons juste au-dessus."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneau en faible relief peint en blanc (livre ouvert, rouleaux, palmettes) au-dessus d'une porte verte, éclairage terne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "South Gate, Californie, États-Unis",
+      "note": "Relief à faible contraste et panneau encadré de dessus-de-porte plutôt que bande continue le long du mur ; peu lisible."
+    }
+  ]
+}

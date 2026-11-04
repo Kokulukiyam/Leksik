@@ -1,0 +1,53 @@
+{
+  "termId": "claustra",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan noir et blanc d'une paroi de blocs de béton ajourés à motifs étoilés sur fond entièrement noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Windsor, Ontario, Canada",
+      "note": "Doublon de 04 en noir et blanc avec fond noir uniforme (aspect retouché) ; 04 est préférable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade d'immeuble avec bandes de grilles ajourées en béton alternant avec des fenêtres à jalousies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Porlamar, île de Margarita, Venezuela",
+      "note": "Les grilles horizontales peuvent se lire comme brise-soleil ou jalousies ; ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Paroi de blocs de béton ajourés carrés à motif de fleur, laissant voir le jardin à travers.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Los Angeles, Californie, États-Unis",
+      "note": "Claustra typique en blocs de béton, occupe toute l'image."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan d'une paroi de blocs de béton ajourés à motifs triangulaires et étoilés, avec un mur visible derrière.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Windsor, Ontario, Canada",
+      "note": "Paroi ajourée en éléments de béton assemblés, nette et dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Carreau chinois en céramique vernissée verte ajourée, isolé dans un cadre de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Honolulu, États-Unis",
+      "note": "Objet isolé de musée, pas une paroi ; ne montre pas un claustra en œuvre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison d'angle bleue et blanche avec une fresque de la Vierge et deux petites grilles de blocs ajourés en guise de fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Los Gómez, île de Margarita, Venezuela",
+      "note": "Claustras trop petits ; texte peint et fresque distraient."
+    }
+  ]
+}

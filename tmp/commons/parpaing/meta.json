@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "parpaing",
+    "terme": "le parpaing",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bloc de béton moulé, souvent creux, utilisé pour monter des murs.",
+    "requetes": [
+      "concrete block wall",
+      "cinder block wall",
+      "parpaing mur"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Concrete block wall in Muan in 2026 (1).jpg",
+      "description": "Concrete block wall in Muan in 2026 (1)",
+      "categories": [
+        "Muan",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Concrete block walls in South Korea"
+      ],
+      "auteur": "Sadopaul",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_block_wall_in_Muan_in_2026_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Concrete_block_wall_in_Muan_in_2026_%281%29.jpg/1280px-Concrete_block_wall_in_Muan_in_2026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Concrete block wall in Muan in 2026 (2).jpg",
+      "description": "Concrete block wall in Muan in 2026 (2)",
+      "categories": [
+        "Muan",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Concrete block walls in South Korea"
+      ],
+      "auteur": "Sadopaul",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_block_wall_in_Muan_in_2026_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Concrete_block_wall_in_Muan_in_2026_%282%29.jpg/1280px-Concrete_block_wall_in_Muan_in_2026_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Concrete block wall - Arlington, MA - 01.jpg",
+      "description": "Concrete block wall - Arlington, Massachusetts, USA.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2024-06-30",
+        "Concrete walls in Arlington, Massachusetts"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_block_wall_-_Arlington,_MA_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Concrete_block_wall_-_Arlington%2C_MA_-_01.jpg/1280px-Concrete_block_wall_-_Arlington%2C_MA_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3937,
+      "hauteur": 2214
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Concrete block house wall - Arlington, MA - 01.jpg",
+      "description": "Concrete block house wall - Arlington, Massachusetts, USA.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2023-12-10",
+        "Concrete walls in Arlington, Massachusetts",
+        "Concrete houses in Arlington, Massachusetts"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_block_house_wall_-_Arlington,_MA_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Concrete_block_house_wall_-_Arlington%2C_MA_-_01.jpg/1280px-Concrete_block_house_wall_-_Arlington%2C_MA_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2268
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:House and concrete block wall in Noho Island 202603.jpg",
+      "description": "A house and a concrete block wall in Noho Island, Iheya Village, Okinawa Prefecture, Japan",
+      "categories": [
+        "Noho Island",
+        "Self-published work",
+        "Houses in Okinawa prefecture",
+        "Taken on missing SDC inception",
+        "March 2026 in Okinawa prefecture",
+        "Concrete block walls in Japan",
+        "Okinawa prefecture photographs taken on 2026-03-14",
+        "Buildings in Iheya, Okinawa"
+      ],
+      "auteur": "Kugel~commonswiki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:House_and_concrete_block_wall_in_Noho_Island_202603.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/House_and_concrete_block_wall_in_Noho_Island_202603.jpg/1280px-House_and_concrete_block_wall_in_Noho_Island_202603.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7008,
+      "hauteur": 4672
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Concrete block wall 02.jpg",
+      "description": "A concrete block wall in Kamakura, Kanagawa , Japan.",
+      "categories": [
+        "Taken with Ricoh R8",
+        "Road safety signs in Japan",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from chidorian Flickr stream",
+        "Concrete block walls in Japan",
+        "Boy baseball in art"
+      ],
+      "auteur": "Ishikawa Ken from Kamakura, Japan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_block_wall_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Concrete_block_wall_02.jpg/1280px-Concrete_block_wall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3273,
+      "hauteur": 2453
+    }
+  ]
+}

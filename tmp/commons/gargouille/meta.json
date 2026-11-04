@@ -1,0 +1,122 @@
+{
+  "terme": {
+    "id": "gargouille",
+    "terme": "la gargouille",
+    "categorie": "Ornement",
+    "definition": "Déversoir en saillie, souvent sculpté, qui rejette loin du mur l'eau de pluie du toit.",
+    "requetes": [
+      "incategory:\"Gargoyles\"",
+      "gargoyle cathedral"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Zadar 2011 25.jpg",
+      "description": "Decoration on the Cathedral of St. Anastasia, Zadar, Croatia.",
+      "categories": [
+        "Gargoyles",
+        "Cathedral of St. Anastasia in Zadar",
+        "Self-published work",
+        "Photos by Mike Peel using a Canon EOS 400D"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zadar_2011_25.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Zadar_2011_25.jpg/1280px-Zadar_2011_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3589,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Terra Santa Our Lady of Grace Catholic Church, Larnaca, Cyprus 02.jpg",
+      "description": "Terra Santa Our Lady of Grace Catholic Church, Larnaca, Cyprus",
+      "categories": [
+        "Gargoyles",
+        "Terra Santa Our Lady of Grace Catholic Church",
+        "Self-published work",
+        "Supported by Wikimedia Deutschland",
+        "Images by User:Podzemnik",
+        "Blue sky in Cyprus",
+        "Files with coordinates missing SDC location of creation",
+        "Images of Cyprus by User:Podzemnik",
+        "Images by User:Podzemnik (supported by Wikimedia Germany)"
+      ],
+      "auteur": "Michal Klajban",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Terra_Santa_Our_Lady_of_Grace_Catholic_Church,_Larnaca,_Cyprus_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Terra_Santa_Our_Lady_of_Grace_Catholic_Church%2C_Larnaca%2C_Cyprus_02.jpg/1280px-Terra_Santa_Our_Lady_of_Grace_Catholic_Church%2C_Larnaca%2C_Cyprus_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4518,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ai-Khanoum gargoyles, National Museum of Afghanistan.jpg",
+      "description": "Ai-Khanoum gargoyles, National Museum of Afghanistan",
+      "categories": [
+        "Gargoyles",
+        "National Museum of Afghanistan",
+        "Ai Khanoum",
+        "Images by Ninara",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Ninara",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ai-Khanoum_gargoyles,_National_Museum_of_Afghanistan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ai-Khanoum_gargoyles%2C_National_Museum_of_Afghanistan.jpg/1280px-Ai-Khanoum_gargoyles%2C_National_Museum_of_Afghanistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3620,
+      "hauteur": 1635
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Valentine Mansion 2-16-14k (12592750935).jpg",
+      "description": "(1 in a multiple picture set) A gargoyle guards each side of the front steps. Note the old shoe scraper in the right corner of the picture.",
+      "categories": [
+        "Gargoyles",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Don Graham",
+        "Valentine Mansion"
+      ],
+      "auteur": "inkknife_2000 (7.5 million views +)",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Valentine_Mansion_2-16-14k_(12592750935).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Valentine_Mansion_2-16-14k_%2812592750935%29.jpg/1280px-Valentine_Mansion_2-16-14k_%2812592750935%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2070,
+      "hauteur": 1814
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gargoyle (50366866391).jpg",
+      "description": "\"A carved or formed grotesque with a spout designed to convey water from a roof and away from the side of a building\" This one was seen on the world-famous Roslin Chapel near Edinburgh, Scotland - always interesting but made famous by the book and film \"The Da Vinci Code\"",
+      "categories": [
+        "Gargoyles",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Mike McBey"
+      ],
+      "auteur": "Mike McBey",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gargoyle_(50366866391).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Gargoyle_%2850366866391%29.jpg/1280px-Gargoyle_%2850366866391%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4720,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:KırklareliMuseum (26).JPG",
+      "description": "A marble gargoyle in the Archaeology section of Kırklareli Museum",
+      "categories": [
+        "Gargoyles",
+        "Self-published work",
+        "Collections of the Kırklareli Museum"
+      ],
+      "auteur": "CeeGee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:K%C4%B1rklareliMuseum_(26).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/K%C4%B1rklareliMuseum_%2826%29.JPG/1280px-K%C4%B1rklareliMuseum_%2826%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1505,
+      "hauteur": 2388
+    }
+  ]
+}

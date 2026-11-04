@@ -1,0 +1,63 @@
+{
+  "termId": "imposte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rangée de maisons en brique avec voitures garées ; porte d'entrée lointaine surmontée d'une petite imposte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Charleston, Caroline du Sud, États-Unis",
+      "note": "Imposte minuscule et noyée dans la scène."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Intérieur : porte à double battant ouverte, surmontée d'une imposte à vitraux à motifs de tulipes ; autres impostes vitrées à gauche et à droite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.35,
+        "y": 0.02,
+        "largeur": 0.255,
+        "hauteur": 0.14
+      },
+      "lieu": "Kawanishi, Hyōgo, Japon",
+      "note": "Imposte vitrée au-dessus de la porte bien lisible ; le cadre désigne celle de la porte centrale."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grande porte en bois à deux vantaux sous un arc, surmontée d'une imposte en demi-lune vitrée à grille rayonnante ; plaques et chien endormi.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.27,
+        "y": 0.03,
+        "largeur": 0.4,
+        "hauteur": 0.27
+      },
+      "lieu": "Panama, Panama",
+      "note": "Imposte en éventail vitrée nettement au-dessus de la porte ; les plaques ne donnent pas la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Demi-lune ajourée de ferronnerie en contre-jour, vue de l'intérieur, sans la porte visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belgrade, Serbie",
+      "note": "Sans porte ni fenêtre en dessous, le terme n'est qu'une hypothèse (lunette, oculus, grille)."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte d'entrée noire encadrée de pilastres et de fenêtres latérales, surmontée d'une imposte en éventail partiellement masquée par une lanterne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Charleston, Caroline du Sud, États-Unis",
+      "note": "Imposte en partie cachée par la lanterne ; les fenêtres latérales brouillent la lecture."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison à deux étages de galeries, vue de loin derrière une clôture ; petite imposte peu visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Charleston, Caroline du Sud, États-Unis",
+      "note": "Imposte trop petite, image dominée par les galeries."
+    }
+  ]
+}

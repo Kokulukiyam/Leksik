@@ -1,0 +1,53 @@
+{
+  "termId": "pilotis",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maison de plain-pied surélevée sur de fins poteaux, en bord de route, avec escalier extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Parempuyre, France",
+      "note": "Poteaux minces, petits et en partie cachés par la végétation et une voiture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessous d'un immeuble porté par des poteaux ronds cannelés, jardin méditerranéen.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Calvià, Majorque, Espagne",
+      "note": "Les poteaux cannelés se lisent comme des colonnes (confusion colonne/pilotis)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Galerie couverte bordée de piliers trapézoïdaux revêtus de marbre sous un auvent, façade vitrée en retrait.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Campinas, Brésil",
+      "note": "Lu comme une galerie/portique ; on ne voit pas un bâtiment soulevé laissant le sol libre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rez-de-chaussée libre sous une barre de logements : rangées de poteaux de béton brut portant la dalle (noir et blanc).",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Alton Estate, Roehampton, Londres, Royaume-Uni",
+      "note": "Pilotis corbuséens typiques, sol libre sous la dalle bien visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pieu de bois préhistorique exposé dans un musée devant un décor de palafittes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tolochenaz, Suisse",
+      "note": "Pieu isolé de palafitte, autre sens du mot ; ne montre pas un bâtiment sur pilotis."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Angle d'un grand immeuble en béton brut posé sur de massifs pilotis en V, passage libre dessous, arène Spodek au fond.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.39, "y": 0.31, "largeur": 0.53, "hauteur": 0.59 },
+      "lieu": "Superjednostka, Katowice, Pologne",
+      "note": "Pilotis massifs sous le bâtiment ; rectangle pour écarter le dôme du Spodek à l'arrière-plan."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "croupe",
+    "terme": "la croupe",
+    "categorie": "Toitures",
+    "definition": "Versant de toit triangulaire qui ferme l'extrémité d'un toit à la place d'un pignon.",
+    "requetes": [
+      "hipped roof house",
+      "deepcat:\"Hipped roofs\"",
+      "toit en croupe"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Schmiedgasse 48 in Herisau.jpg",
+      "description": "Schmiedgasse 48 in Herisau",
+      "categories": [
+        "Self-published work",
+        "Switzerland photographs taken on 2019-01-19",
+        "Uploaded via Campaign:wlm-ch",
+        "Files with coordinates missing SDC location of creation",
+        "January 2019 in the canton of Appenzell Ausserrhoden",
+        "Mansardwalmdachhaus (Schmiedgasse 48, Herisau)"
+      ],
+      "auteur": "JoachimKohler-HB",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schmiedgasse_48_in_Herisau.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Schmiedgasse_48_in_Herisau.jpg/1280px-Schmiedgasse_48_in_Herisau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3598,
+      "hauteur": 3606
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Schmiedgasse 48 in Herisau AR (2019).jpg",
+      "description": "Schmiedgasse 48 in Herisau AR",
+      "categories": [
+        "Self-published work",
+        "Portals in Switzerland",
+        "Doors in the canton of Appenzell Ausserrhoden",
+        "Files with coordinates missing SDC location of creation",
+        "Mansardwalmdachhaus (Schmiedgasse 48, Herisau)"
+      ],
+      "auteur": "JoachimKohler-HB",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schmiedgasse_48_in_Herisau_AR_(2019).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Schmiedgasse_48_in_Herisau_AR_%282019%29.jpg/1280px-Schmiedgasse_48_in_Herisau_AR_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4500
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Schmiedgasse (48 ff.) in Herisau AR (2019).jpg",
+      "description": "Schmiedgasse (48 ff.) in Herisau, Kanton Appenzell Ausserrhoden",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Mansardwalmdachhaus (Schmiedgasse 48, Herisau)"
+      ],
+      "auteur": "JoachimKohler-HB",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schmiedgasse_(48_ff.)_in_Herisau_AR_(2019).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Schmiedgasse_%2848_ff.%29_in_Herisau_AR_%282019%29.jpg/1280px-Schmiedgasse_%2848_ff.%29_in_Herisau_AR_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 4500
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Adare - Main Street (N21) - Large Yellow Thatched-Roof House - geograph.org.uk - 3125741.jpg",
+      "description": "Adare - Main Street (N21) - Large Yellow Thatched-Roof House",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Hipped-Roof Thatched Cottage, Adare"
+      ],
+      "auteur": "Suzanne Mischyshyn",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adare_-_Main_Street_(N21)_-_Large_Yellow_Thatched-Roof_House_-_geograph.org.uk_-_3125741.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Adare_-_Main_Street_%28N21%29_-_Large_Yellow_Thatched-Roof_House_-_geograph.org.uk_-_3125741.jpg/1280px-Adare_-_Main_Street_%28N21%29_-_Large_Yellow_Thatched-Roof_House_-_geograph.org.uk_-_3125741.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2799,
+      "hauteur": 1516
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A house roof at Theydon Mount Essex England.JPG",
+      "description": "Tiled roof and chimney of a brick and timber framed house at Mount End in the civil parish of Theydon Mount , Essex , England",
+      "categories": [
+        "Images with annotations",
+        "Houses in Essex",
+        "Mount End",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Chimneys in Essex",
+        "Timber framing in Essex",
+        "Tiled roofs in Essex",
+        "Hipped dormers in the United Kingdom",
+        "Acabashi photos: buildings in Essex",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Hipped roofs in England",
+        "Roof tiles in England",
+        "Theydon Mount in June 2015 in Essex",
+        "Theydon Mount photographs taken on 2015-06-26"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_house_roof_at_Theydon_Mount_Essex_England.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/A_house_roof_at_Theydon_Mount_Essex_England.JPG/1280px-A_house_roof_at_Theydon_Mount_Essex_England.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5247,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:RUS-2016-Bolshoi Zayatsky Island-Stone House.jpg",
+      "description": "Maison en pierre sur l’île Bolchoï Zaïatsky, îles Solovki , mer Blanche , Russie .",
+      "categories": [
+        "Stone houses",
+        "Hipped roofs",
+        "Saint Andrew Skete (Solovki)",
+        "Attribution only license",
+        "Self-published work",
+        "Featured Pictures (Commons) by User:Godot13",
+        "Information field template with formatting",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Images from Wiki Loves Monuments 2016",
+        "Featured pictures of Arkhangelsk Oblast",
+        "All Images by User:Godot13",
+        "Uploaded via Campaign:wlm-ru",
+        "Images from Wiki Loves Monuments 2016 in Russia",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "All photographs by User:Godot13",
+        "Russia by User:Godot13",
+        "2016 User:Godot13",
+        "Featured pictures from Wiki Loves Monuments Russia 2016",
+        "Shortlisted images of Wiki Loves Monuments 2016 in Russia",
+        "Russian heritage ID 2910149004"
+      ],
+      "auteur": "Godot13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg/1280px-RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3062,
+      "hauteur": 4592
+    }
+  ]
+}

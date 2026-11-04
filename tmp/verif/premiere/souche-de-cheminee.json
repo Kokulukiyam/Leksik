@@ -1,0 +1,53 @@
+{
+  "termId": "souche-de-cheminee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Avenue urbaine bordée d'immeubles avec une lointaine cheminée d'usine au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bakou, Azerbaïdjan",
+      "note": "Pas de souche sur un toit ; cheminée minuscule et industrielle."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo noir et blanc d'une terrasse d'observation en béton devant la haute cheminée d'une centrale électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New Plymouth, Nouvelle-Zélande",
+      "note": "Cheminée d'usine autoportante, pas une souche dépassant d'un toit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne d'un site industriel avec voies ferrées et une cheminée de briques isolée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Transylvanie ou Hongrie",
+      "note": "Cheminée industrielle, pas une souche de toiture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gravure technique montrant des coupes et plans de foyers et conduits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Silhouette d'une centrale avec quatre hautes cheminées sur ciel gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cheminées industrielles en contre-jour, pas des souches sur un toit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tuyau de poêle métallique sortant d'un mur en torchis sous un avant-toit en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Conduit métallique sous l'avant-toit, ne dépasse pas au-dessus d'un toit."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "modillon",
+    "terme": "le modillon",
+    "categorie": "Ornement",
+    "definition": "Petite console répétée à intervalles réguliers sous la saillie d'une corniche.",
+    "requetes": [
+      "deepcat:\"Modillions\"",
+      "modillions cornice"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:L’Église Saint-Étienne d'Ars-en-Ré (38).JPG",
+      "description": "Les modillons sculptés qui soutiennent la corniche. Trois sculptures représentent des têtes humaines et une un oiseau. Les autres sculptures sont très endommagées. Ars-en-Ré, Île de Ré, Charente-Maritime, France.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Romanesque cornices",
+        "Cornices in Ars-en-Ré",
+        "Modillions above the portal of Saint-Étienne d'Ars-en-Ré Church"
+      ],
+      "auteur": "Jean-Pierre Bazard Jpbazard",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%E2%80%99%C3%89glise_Saint-%C3%89tienne_d%27Ars-en-R%C3%A9_(38).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/L%E2%80%99%C3%89glise_Saint-%C3%89tienne_d%27Ars-en-R%C3%A9_%2838%29.JPG/1280px-L%E2%80%99%C3%89glise_Saint-%C3%89tienne_d%27Ars-en-R%C3%A9_%2838%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Madison Co CH KY detail modillions.JPG",
+      "description": "Detail of the modillions and cornice of the Madison County Courthouse, Richmond, Kentucky (USA).",
+      "categories": [
+        "Madison County Courthouse (Kentucky)",
+        "Self-published work"
+      ],
+      "auteur": "Absecon 49",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Madison_Co_CH_KY_detail_modillions.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Madison_Co_CH_KY_detail_modillions.JPG/1280px-Madison_Co_CH_KY_detail_modillions.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:(Toulouse) 21 Grande-rue Nazareth.jpg",
+      "description": "L'immeuble est représentatif du style néo-classique toulousain en vogue dans la 1ere moitié du XIXe siècle. Le rez-de-chaussée est traité en bossage. Les ouvertures sont segmentaires et la porte latérale est surmontée d'une imposte en fer forgé. Au 1er étage, les fenêtres sont encadrées de pilastres à chapiteaux corinthiens qui soutiennent des frises en terre cuite, sculptées d'ornements végétaux, et de larges corniches à modillons. Elles sont également dotées de garde-corps en fer forgé. Au 2e étage, à la séparation avec le 3e étage, une frise en terre cuite sculptée court le long de la façad",
+      "categories": [
+        "Self-published work",
+        "Images by Archaeodontosaurus Toulouse",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2021-07-22",
+        "July 2021 in Toulouse",
+        "2021 photographs of Toulouse",
+        "Immeuble, 21 grande-rue Nazareth (Toulouse)"
+      ],
+      "auteur": "Didier Descouens",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(Toulouse)_21_Grande-rue_Nazareth.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%28Toulouse%29_21_Grande-rue_Nazareth.jpg/1280px-%28Toulouse%29_21_Grande-rue_Nazareth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 6630
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:(Toulouse) 9 Grande-rue Nazareth - Immeuble Labit.jpg",
+      "description": "Immeuble Labit. L'immeuble est construit en 1908 par l'architecte Étienne Gogé pour Antoine Labit, riche entrepreneur et négociant toulousain, à l'angle de la rue du Languedoc (actuel n°",
+      "categories": [
+        "Grande-rue Nazareth (Toulouse)",
+        "Self-published work",
+        "Images by Archaeodontosaurus Toulouse",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2021-07-29",
+        "July 2021 in Toulouse",
+        "2021 photographs of Toulouse",
+        "Eclectic architecture in Toulouse"
+      ],
+      "auteur": "Didier Descouens",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(Toulouse)_9_Grande-rue_Nazareth_-_Immeuble_Labit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%28Toulouse%29_9_Grande-rue_Nazareth_-_Immeuble_Labit.jpg/1280px-%28Toulouse%29_9_Grande-rue_Nazareth_-_Immeuble_Labit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2355,
+      "hauteur": 3402
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:1 Buckingham Place, Westminster, 2015-03-30.jpg",
+      "description": "A view of a large five-bay house at 1 Buckingham Place, Westminster, with projecting modillion cornice and tall chimneys. Built by Stanley Crosbie in 1915, it has an elaborate doorcase of Queen Anne style. A post box is visible on the junction with Palace Street.",
+      "categories": [
+        "London photographs taken on 2015-03-30",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in",
+        "1 Buckingham Place"
+      ],
+      "auteur": "John K Thorne",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1_Buckingham_Place,_Westminster,_2015-03-30.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/1_Buckingham_Place%2C_Westminster%2C_2015-03-30.jpg/1280px-1_Buckingham_Place%2C_Westminster%2C_2015-03-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Intercession Cathedral, apse medallion, 2020-04-13.jpg",
+      "description": "Кафедральний собор Покрова Пресвятої Богородиці і придільна церква святого Миколая , Ізмаїл , просп. Незалежності (Суворова) , 31",
+      "categories": [
+        "Intercession Cathedral, Izmail",
+        "Self-published work",
+        "April 2020 in Izmail",
+        "Rosettes in Ukraine",
+        "Cornices in Ukraine",
+        "Cultural heritage monuments in Ukraine with known IDs",
+        "Reliefs of crosses in Ukraine",
+        "Modillions in Ukraine",
+        "Uploaded via Campaign:wlm-ua",
+        "Reliefs in Izmail",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Ukraine photographs taken on 2020-04-13",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Medallions in Ukraine",
+        "Cultural heritage monuments in Ukraine missing SDC location of creation",
+        "Cultural heritage monuments in Ukraine missing SDC depicts",
+        "Images from Wiki Loves Monuments 2026",
+        "Photographs of architecture by VileGecko",
+        "Images from Wiki Loves Monuments 2026 in Ukraine",
+        "Wiki Loves Monuments in Ukraine 2026 - Exterior",
+        "Wiki Loves Monuments in Ukraine 2026 - Quantity"
+      ],
+      "auteur": "VileGecko",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Intercession_Cathedral,_apse_medallion,_2020-04-13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Intercession_Cathedral%2C_apse_medallion%2C_2020-04-13.jpg/1280px-Intercession_Cathedral%2C_apse_medallion%2C_2020-04-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5024,
+      "hauteur": 3349
+    }
+  ]
+}

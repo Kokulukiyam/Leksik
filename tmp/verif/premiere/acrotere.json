@@ -1,0 +1,11 @@
+{
+  "termId": "acrotere",
+  "candidats": [
+    {"fichier": "01.jpg", "vu": "Immeuble commercial de deux étages à toit plat, vu de loin depuis un carrefour, couronné d'une corniche et d'un court parapet à redans.", "verdict": "rejetée", "rectangle": null, "lieu": "Buffalo, New York, États-Unis", "note": "Parapet minuscule et indissociable de la corniche (confusion corniche / bandeau / acrotère) ; toiture-terrasse invisible."},
+    {"fichier": "02.jpg", "vu": "Devanture d'un magasin d'instruments « A440 » avec une haute façade-écran au-dessus de la vitrine.", "verdict": "rejetée", "rectangle": null, "lieu": "Great Bend, Kansas, États-Unis", "note": "Façade frontale où l'on ne distingue pas le muret au-dessus du toit ; enseigne dominante."},
+    {"fichier": "03.jpg", "vu": "Immeuble édouardien en brique et terre cuite à pignons et tourelle, avec panneaux « FOR SALE ».", "verdict": "rejetée", "rectangle": null, "lieu": "Birmingham, Royaume-Uni", "note": "Toit en pente à pignons, pas de toiture-terrasse ni d'acrotère."},
+    {"fichier": "04.jpg", "vu": "Ancien garage moderniste blanc au bord d'une rivière, couleurs très saturées.", "verdict": "rejetée", "rectangle": null, "lieu": "Maidstone, Royaume-Uni", "note": "Image fortement retouchée (HDR) et acrotère non identifiable."},
+    {"fichier": "05.jpg", "vu": "Immeuble de bureaux en verre à gradins à un carrefour.", "verdict": "rejetée", "rectangle": null, "lieu": "Madison, Wisconsin, États-Unis", "note": "Rives de toiture vitrées, aucun muret d'acrotère lisible."},
+    {"fichier": "06.jpg", "vu": "Rue en pente menant à un immeuble de bureaux vitré au loin.", "verdict": "rejetée", "rectangle": null, "lieu": "Madison, Wisconsin, États-Unis", "note": "Bâtiment lointain, aucun acrotère visible."}
+  ]
+}

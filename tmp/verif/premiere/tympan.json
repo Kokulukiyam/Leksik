@@ -1,0 +1,63 @@
+{
+  "termId": "tympan",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tympan gothique doré à registres de scènes sculptées du portail central de la cathédrale de Cologne, entouré de voussures à statues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cologne, Allemagne",
+      "note": "Bonne image mais quasi-doublon de 02, qui montre en plus le linteau et les portes et rend la position du tympan plus évidente."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Portail central de la cathédrale de Cologne : tympan sculpté à registres au-dessus du linteau, trumeau à la Vierge, vantaux de bronze et ébrasements à statues.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.29,
+        "y": 0.15,
+        "largeur": 0.45,
+        "hauteur": 0.48
+      },
+      "lieu": "Cologne, Allemagne",
+      "note": "Tympan clairement situé entre linteau et arc ; rectangle nécessaire pour l'isoler des voussures, du trumeau et des statues."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Arc brisé en pierre dont le tympan porte un relief d'instruments de la Passion (Arma Christi), lanterne suspendue devant, linteau plat en dessous.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.21,
+        "y": 0.21,
+        "largeur": 0.59,
+        "hauteur": 0.61
+      },
+      "lieu": "Middletown (Ohio), États-Unis",
+      "note": "Tympan lisible et sobre sous l'arc, au-dessus du linteau ; rectangle pour éviter la confusion avec l'arc / l'archivolte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Même type d'arc brisé avec tympan sculpté de l'Œil de la Providence et du monogramme Alpha-Oméga, lanterne devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Middletown (Ohio), États-Unis",
+      "note": "Valable mais quasi-doublon de 03 (même église, même cadrage) ; 03 retenue."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photographie ancienne d'un relief en forme de tympan isolé sur fond clair, avec légende manuscrite « Relief für das Haupt-Portal am Dom in Cöln ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cologne, Allemagne",
+      "note": "Relief photographié hors de son portail (modèle ou épreuve d'atelier), avec texte visible ; pas d'arc ni de linteau."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photographie ancienne sépia du tympan du Jugement dernier d'Amiens, très dense, cadrée serrée sur les registres sculptés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amiens, France",
+      "note": "Cadrage trop serré (ni linteau ni porte), image sombre et très chargée, peu lisible sur téléphone."
+    }
+  ]
+}

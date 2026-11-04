@@ -1,0 +1,63 @@
+{
+  "termId": "shed",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue plongeante sur Hobart avec, au premier plan, un bâtiment de briques à toiture en dents de scie partiellement visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hobart, Australie",
+      "note": "Sheds petits, en bord d'image et peu lisibles sur téléphone."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Usine Zoltek à toiture en sheds courbes bleus, vue de loin derrière une pelouse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nyergesújfalu, Hongrie",
+      "note": "Sheds courbes lointains, vitrages à peine visibles ; nom de marque bien lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment d'usine en granit dont la toiture en dents de scie montre nettement les versants vitrés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.28,
+        "largeur": 0.98,
+        "hauteur": 0.28
+      },
+      "lieu": "Manteigas, Portugal",
+      "note": "Sheds très lisibles, versants vitrés bien visibles ; cadre sur la toiture pour écarter le pignon."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Long bâtiment blanc reconverti en logements, à toiture en dents de scie vue en raccourci.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dornbirn, Autriche",
+      "note": "Profil en dents de scie visible mais versants vitrés non lisibles ; bâtiment reconverti."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Train à quai devant un bâtiment de gare dont seule une partie de toiture en redans est visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belfast, Royaume-Uni",
+      "note": "Toiture coupée, le train domine ; sheds peu lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Longue usine en briques avec une file de sheds, versants vitrés visibles sur la grande dent de gauche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.26,
+        "y": 0.22,
+        "largeur": 0.71,
+        "hauteur": 0.21
+      },
+      "lieu": "Wainstalls, Angleterre",
+      "note": "Succession de sheds caractéristique ; cadre sur la toiture."
+    }
+  ]
+}

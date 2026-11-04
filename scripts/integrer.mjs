@@ -35,6 +35,25 @@ for (const f of await fs.readdir(path.join(TMP, "verif", "contre")).catch(() => 
   for (const r of await lireJson(path.join(TMP, "verif", "contre", f))) contre.set(r.cle, r);
 }
 
+// Entrée d'images.json ; si l'image existe déjà (modifiée depuis /gerer), ses réglages sont conservés.
+function entree(terme, nn, fichier, c, v1, v2) {
+  const id = `${terme.id}-${nn}`;
+  const actuelle = imagesActuelles.find((i) => i.id === id);
+  return {
+    id,
+    termId: actuelle?.termId ?? terme.id,
+    fichier,
+    rectangle: actuelle ? actuelle.rectangle : (v1.rectangle ?? null),
+    lieu: actuelle?.lieu ?? v1.lieu ?? "",
+    source: "commons",
+    auteur: c.auteur,
+    licence: c.licence,
+    lienSource: c.lien,
+    statut: actuelle?.statut ?? "validée",
+    note: actuelle?.note ?? `Vérification : ${v1.note} Contre-vérification : ${v2.raison}`,
+  };
+}
+
 const imagesCommons = [];
 const rapport = [];
 const abandonnes = [];
@@ -56,32 +75,29 @@ for (const terme of candidats) {
     if (!ok) continue;
     retenues++;
     const fichier = `commons/${terme.id}-${nn}.webp`;
-    await sharp(path.join(TMP, "commons", terme.id, c.fichier))
-      .rotate()
-      .resize({ width: 1600, withoutEnlargement: true })
-      .webp({ quality: 82 })
-      .toFile(path.join(ROOT, "public", "images", fichier));
-    imagesCommons.push({
-      id: `${terme.id}-${nn}`,
-      termId: terme.id,
-      fichier,
-      rectangle: v1.rectangle ?? null,
-      lieu: v1.lieu ?? "",
-      source: "commons",
-      auteur: c.auteur,
-      licence: c.licence,
-      lienSource: c.lien,
-      statut: "validée",
-      note: `Vérification : ${v1.note} Contre-vérification : ${v2.raison}`,
-    });
+    // Déjà converti (ex. reprise sur une autre machine) : rien à faire. Sinon, depuis la candidate
+    // téléchargée, ou en la retéléchargeant depuis Commons si elle n'est plus là.
+    const cible = path.join(ROOT, "public", "images", fichier);
+    const exists = (f) => fs.stat(f).then(() => true, () => false);
+    if (await exists(cible)) {
+      imagesCommons.push(entree(terme, nn, fichier, c, v1, v2));
+      continue;
+    }
+    let source = path.join(TMP, "commons", terme.id, c.fichier);
+    if (!(await exists(source))) {
+      const rep = await fetch(c.url, { headers: { "User-Agent": "LeksikBot/0.1 (outil local de vocabulaire architectural; usage personnel)" } });
+      if (!rep.ok) throw new Error(`Téléchargement impossible (${rep.status}) : ${c.url}`);
+      source = Buffer.from(await rep.arrayBuffer());
+    }
+    await sharp(source).rotate().resize({ width: 1600, withoutEnlargement: true }).webp({ quality: 82 }).toFile(cible);
+    imagesCommons.push(entree(terme, nn, fichier, c, v1, v2));
   }
   if (!retenues) abandonnes.push(terme);
   rapport.push({ terme, lignes, retenues });
 }
 
 if (sansContre.length) {
-  console.error(`Images validées sans contre-vérification : ${sansContre.join(", ")}`);
-  process.exit(1);
+  console.warn(`En attente de contre-vérification (non intégrées pour l'instant) : ${sansContre.join(", ")}`);
 }
 
 // Termes : ceux qui ont au moins une image Commons retenue, plus ceux utilisés par mes photos.

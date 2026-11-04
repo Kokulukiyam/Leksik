@@ -1,0 +1,63 @@
+{
+  "termId": "oriel",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux oriels arrondis en encorbellement, vitrés, à culots sculptés de putti et coiffés de petits dômes, sur une façade en pierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Kłodzko, Pologne",
+      "note": "Oriels parfaitement lisibles qui occupent toute l'image ; aucun autre élément concurrent."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maison Renaissance rose à pignons à volutes, avec un oriel d'angle sur trois niveaux et des volets rayés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Bergzabern, Allemagne",
+      "note": "L'oriel est secondaire face aux pignons et à la façade entière ; risque de confusion avec pignon."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Oriel en bois sombre à colonnettes tournées, vitré, porté par des consoles en volutes, sous un toit en cuivre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.12,
+        "largeur": 0.79,
+        "hauteur": 0.8
+      },
+      "lieu": "Bystrzyca Kłodzka, Pologne",
+      "note": "Oriel net et dominant ; le cadre l'isole des fenêtres voisines et de l'enseigne."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Oriel en pierre sur deux étages, à pilastres et médaillons, en saillie sur une façade rose percée de fenêtres simples.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.26,
+        "y": 0.14,
+        "largeur": 0.53,
+        "hauteur": 0.73
+      },
+      "lieu": "Kłodzko, Pologne",
+      "note": "Avant-corps vitré en encorbellement bien visible ; cadre pour le distinguer des fenêtres ordinaires."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade Art déco d'une ancienne poissonnerie avec grande baie vitrée en saillie et enseigne « A l'Huîtrière » et « Louis Vuitton ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lille, France",
+      "note": "Textes et enseignes visibles, saillie peu lisible ; l'élément ressemble plutôt à une vitrine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade avec plusieurs oriels en bois vitrés superposés, en partie dans l'ombre des arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Duszniki-Zdrój, Pologne",
+      "note": "Bonne candidate mais moins lisible (ombre, végétation) ; les trois autres sont meilleures."
+    }
+  ]
+}

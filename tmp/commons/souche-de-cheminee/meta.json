@@ -1,0 +1,117 @@
+{
+  "terme": {
+    "id": "souche-de-cheminee",
+    "terme": "la souche de cheminée",
+    "categorie": "Toitures",
+    "definition": "Partie d'un conduit de cheminée qui dépasse au-dessus du toit.",
+    "requetes": [
+      "incategory:\"Chimneys\"",
+      "chimney stack roof"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Narimanov, Baku (P1090201).jpg",
+      "description": "Nərimanov raion, Baku in 2019",
+      "categories": [
+        "Chimneys",
+        "Nərimanov Rayon",
+        "Streets in Baku",
+        "2019 in Baku",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Taken with Panasonic Lumix DMC-GH1 and Panasonic Lumix G Vario HD 14-140mm F4.0-5.8 Asph Mega OIS"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Narimanov,_Baku_(P1090201).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Narimanov%2C_Baku_%28P1090201%29.jpg/1280px-Narimanov%2C_Baku_%28P1090201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2772,
+      "hauteur": 3960
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:New Plymouth Power Station Information Centre and observation deck backed by the power station chimney (40594709355).jpg",
+      "description": "Title: Gas Publicity Caption: New Plymouth Power Station Information Centre and observation deck backed by the power station chimney. Taranaki Province. Photographer: R. Coad September 1973, New Plymouth Archives New Zealand Reference: AAQT 6539 W3537 136 / B3508 &lt;a href=\" https://www.archway.archives.govt.nz/ViewFullItem.do?code=24808394 \" rel=\"nofollow\"&gt;www.archway.archives.govt.nz/ViewFullItem.do?code=24808394&lt;/a&gt; For further enquiries email research.archives@dia.govt.nz Material from Archives New Zealand Te Rua Mahara o te Kāwanatanga",
+      "categories": [
+        "Chimneys",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Archives New Zealand from New Zealand",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:New_Plymouth_Power_Station_Information_Centre_and_observation_deck_backed_by_the_power_station_chimney_(40594709355).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/New_Plymouth_Power_Station_Information_Centre_and_observation_deck_backed_by_the_power_station_chimney_%2840594709355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 900,
+      "hauteur": 1170
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chimney, rails, ladder Fortepan 5107.jpg",
+      "description": "Transylvania or Hungary Tags: chimney, rails, ladder",
+      "categories": [
+        "Images from Fortepan",
+        "Chimneys",
+        "Images uploaded by Fæ",
+        "Photographs by Kurutz Márton",
+        "1943 black and white photographs"
+      ],
+      "auteur": "FOTO:Fortepan — ID 5107 : Adományozó/Donor: Kurutz Márton.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chimney,_rails,_ladder_Fortepan_5107.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Chimney%2C_rails%2C_ladder_Fortepan_5107.jpg/1280px-Chimney%2C_rails%2C_ladder_Fortepan_5107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2876,
+      "hauteur": 3010
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Depictions of chimneys showing the fireplace aperture, fire Wellcome V0039425.jpg",
+      "description": "Depictions of chimneys showing the fireplace aperture, fire bricks and a crane. Engraving by D. Lizars. Iconographic Collections",
+      "categories": [
+        "Chimneys",
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Technical diagrams",
+        "Files from Wellcome Images"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Depictions_of_chimneys_showing_the_fireplace_aperture,_fire_Wellcome_V0039425.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Depictions_of_chimneys_showing_the_fireplace_aperture%2C_fire_Wellcome_V0039425.jpg/1280px-Depictions_of_chimneys_showing_the_fireplace_aperture%2C_fire_Wellcome_V0039425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 3200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Smoke Stacks (4077383536).jpg",
+      "description": "Smoke Stacks",
+      "categories": [
+        "Chimneys",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "Andrew Smith from Seattle, WA, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Smoke_Stacks_(4077383536).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Smoke_Stacks_%284077383536%29.jpg/1280px-Smoke_Stacks_%284077383536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4555,
+      "hauteur": 2989
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:House chimney pipe 001.jpg",
+      "description": "No comment, CC0 Public Domain",
+      "categories": [
+        "CC-Zero",
+        "Chimneys",
+        "Self-published work"
+      ],
+      "auteur": "MNK00000001",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:House_chimney_pipe_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/House_chimney_pipe_001.jpg/1280px-House_chimney_pipe_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    }
+  ]
+}

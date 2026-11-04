@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "colombage",
+    "terme": "le colombage",
+    "categorie": "Structure",
+    "definition": "Ossature de mur en pièces de bois apparentes dont les vides sont remplis de maçonnerie ou de torchis.",
+    "requetes": [
+      "incategory:\"Half-timbered buildings\"",
+      "half-timbered house",
+      "colombage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Gasthaus zur Krone, Panorama Rückansicht.jpg",
+      "description": "Gasthaus zur Krone",
+      "categories": [
+        "CC-Zero",
+        "Korbach",
+        "Self-published work",
+        "Heritage buildings",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (51° N, 8° E)",
+        "Half-timbered buildings"
+      ],
+      "auteur": "Silversurfer83",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gasthaus_zur_Krone,_Panorama_R%C3%BCckansicht.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gasthaus_zur_Krone%2C_Panorama_R%C3%BCckansicht.jpg/1280px-Gasthaus_zur_Krone%2C_Panorama_R%C3%BCckansicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2280,
+      "hauteur": 1216
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Half-timbered mansion, Zirkel, East view.jpg",
+      "description": "Une maison à colombages située dans la municipalité de Mellenbach-Glasbach en Thuringe (Allemagne)",
+      "categories": [
+        "Images from Wiki Loves Monuments 2022 in Germany",
+        "Taken with Nikon D3300",
+        "Zirkel (Mellenbach-Glasbach)",
+        "Winners of Wiki Loves Monuments 2022 in Germany",
+        "Featured pictures of buildings in Germany",
+        "Self-published work",
+        "Information field template with formatting",
+        "Featured pictures of Thuringia",
+        "Thuringia photographs taken on 2022-05-28",
+        "Uploaded via Campaign:wlm-de-th",
+        "Featured pictures by Radomianin",
+        "Photographs by Radomianin",
+        "Clouds and blue sky in Thuringia",
+        "Images from Wiki Loves Monuments 2022",
+        "Featured pictures from Wiki Loves Monuments Germany 2022",
+        "Cultural heritage monuments in Mellenbach-Glasbach",
+        "Timber framing in Mellenbach-Glasbach",
+        "Watermills on the Schwarza (Saale)",
+        "Images from Wiki Loves Monuments 2022, DE-TH",
+        "Three-quarter views of buildings in Germany"
+      ],
+      "auteur": "Radomianin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Half-timbered_mansion,_Zirkel,_East_view.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Half-timbered_mansion%2C_Zirkel%2C_East_view.jpg/1280px-Half-timbered_mansion%2C_Zirkel%2C_East_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5566,
+      "hauteur": 3664
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Wohnhaus, Lengefelder Straße 11, Rückansicht.jpg",
+      "description": "Wohnhaus, Lengefelder Straße 11",
+      "categories": [
+        "CC-Zero",
+        "Timber framing",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (51° N, 8° E)",
+        "Half-timbered buildings",
+        "Lengefelder Straße (Korbach)",
+        "Photographs taken on 2026-02-10"
+      ],
+      "auteur": "Silversurfer83",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wohnhaus,_Lengefelder_Stra%C3%9Fe_11,_R%C3%BCckansicht.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Wohnhaus%2C_Lengefelder_Stra%C3%9Fe_11%2C_R%C3%BCckansicht.jpg/1280px-Wohnhaus%2C_Lengefelder_Stra%C3%9Fe_11%2C_R%C3%BCckansicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Little Venice in Colmar 01.jpg",
+      "description": "Un canal de la petite Venise de Colmar .",
+      "categories": [
+        "Grand Est photographs taken on 2018-10-08",
+        "Taken with Nikon D3300",
+        "Quai de la Poissonnerie (Colmar)",
+        "Overcast in France",
+        "Self-published work",
+        "Tournasol7's featured pictures",
+        "Tournasol7's quality images",
+        "Timber framing in Colmar",
+        "Featured pictures on Wikipedia, Persian",
+        "Featured pictures of cityscapes",
+        "Water reflections of buildings in France",
+        "Featured pictures of Colmar",
+        "October 2018 Alsace photographs",
+        "Buildings in quai de la Poissonnerie (Colmar)",
+        "Files with coordinates missing SDC location of creation (48° N, 7° E)",
+        "Pictures of the Year/2019 (finalist)",
+        "Petite Venise from bridge of rue des Écoles to the west (Colmar)",
+        "October 2018 in Colmar"
+      ],
+      "auteur": "Krzysztof Golik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Little_Venice_in_Colmar_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Little_Venice_in_Colmar_01.jpg/1280px-Little_Venice_in_Colmar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5281,
+      "hauteur": 3385
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Limburg Hdr (117697119).jpeg",
+      "description": "500px provided description: Limburg Hdr []",
+      "categories": [
+        "Hair dressing shops",
+        "Photos imported with import-500px",
+        "Half-timbered buildings",
+        "Galerie am Fischmarkt"
+      ],
+      "auteur": "La Taupe",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Limburg_Hdr_(117697119).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Limburg_Hdr_%28117697119%29.jpeg/1280px-Limburg_Hdr_%28117697119%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2008,
+      "hauteur": 1338
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Half-Timbered House on Heisterbacher Straße.jpg",
+      "description": "A charming half-timbered house at Heisterbacher Straße 109, Königswinter, Germany, nestled between brick buildings under a bright spring sky.",
+      "categories": [
+        "Self-published work",
+        "2025 in Königswinter",
+        "Files with coordinates missing SDC location of creation (50° N, 7° E)",
+        "Heisterbacher Straße 109 (Königswinter)"
+      ],
+      "auteur": "Reda Kerbouche",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Half-Timbered_House_on_Heisterbacher_Stra%C3%9Fe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Half-Timbered_House_on_Heisterbacher_Stra%C3%9Fe.jpg/1280px-Half-Timbered_House_on_Heisterbacher_Stra%C3%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6171,
+      "hauteur": 5786
+    }
+  ]
+}

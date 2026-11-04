@@ -1,0 +1,53 @@
+{
+  "termId": "balcon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade d'hôtel avec à l'étage une galerie à garde-corps en bois entre des piliers en pierre, terrasse au rez-de-chaussée et jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Atimpoku, Ghana",
+      "note": "Plateforme logée entre les piliers, sans saillie nette sur la façade : ressemble plutôt à une loggia / coursive."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade d'immeuble bhoutanais avec de grands oriels en bois peint vitrés, en encorbellement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Thimphu, Bhoutan",
+      "note": "Ce sont des baies fermées en encorbellement (type oriel / rab-sel), pas des plateformes ouvertes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue frontale d'un balcon dont on voit surtout le garde-corps en bois blanc et noir, des pinces à linge et une porte-fenêtre à persiennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage frontal : le garde-corps et les persiennes dominent, la saillie de la plateforme n'est pas visible (confusion balcon / garde-corps / persienne)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur sombre : fenêtre éclairée devant laquelle se trouve une petite grille en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue intérieure d'un balconnet / garde-corps de fenêtre ; la plateforme extérieure n'est pas visible, sombre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue en terre bordée de maisons en bois à galeries d'étage sur poteaux, photo ancienne colorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Siuna, Nicaragua",
+      "note": "Galeries portées par des poteaux (vérandas), pas des balcons en saillie ; éléments petits."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade vitrée bleue avec un grand panneau de céramique ornée autour d'une fenêtre cintrée, arbre au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun balcon visible clairement ; panneau de céramique et arbre dominent."
+    }
+  ]
+}

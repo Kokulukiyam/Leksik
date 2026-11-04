@@ -1,0 +1,53 @@
+{
+  "termId": "colombage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panorama d'une place avec plusieurs maisons à pans de bois rouges et vertes, neige au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Korbach, Allemagne",
+      "note": "Colombage correct mais petit dans un panorama large ; moins lisible que les retenues."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Villa à colombages bruns sur enduit blanc avec tourelle, devant une forêt de sapins.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Zirkel, Mellenbach-Glasbach, Thuringe, Allemagne",
+      "note": "Pans de bois apparents très nets sur toute la façade."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Longue maison à pans de bois sur soubassement de grès, arbre nu devant la façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Korbach, Allemagne",
+      "note": "Bon sujet mais l'arbre masque une partie du colombage ; deux meilleures retenues."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maisons à colombages colorées le long d'un canal de la Petite Venise, terrasse en bois sur poteaux au-dessus de l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Colmar, France",
+      "note": "Belle image mais la terrasse sur poteaux pourrait évoquer pilotis ; deux candidates plus nettes retenues."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ruelle nocturne traitée en HDR très appuyé, façade à pans de bois et vitrine de coiffeur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Limburg, Allemagne",
+      "note": "Image fortement retouchée (HDR) et peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison dont l'étage et les pignons sont en pans de bois sombres remplis d'enduit blanc, rez-de-chaussée enduit.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Königswinter, Allemagne",
+      "note": "Colombage net, frontal, très lisible sur téléphone."
+    }
+  ]
+}

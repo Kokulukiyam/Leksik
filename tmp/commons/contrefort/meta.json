@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "contrefort",
+    "terme": "le contrefort",
+    "categorie": "Structure",
+    "definition": "Massif de maçonnerie en saillie, appliqué contre un mur pour le renforcer et résister aux poussées.",
+    "requetes": [
+      "incategory:\"Buttresses\"",
+      "buttress church wall"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:臺南女中建築欣賞 - panoramio (2).jpg",
+      "description": "臺南女中建築欣賞",
+      "categories": [
+        "Buttresses",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Taiwan photographs taken on 2012-06-09",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "2012 photographs of Tainan",
+        "Former Tainan Prefectural Tainan First Girls' High School Main Building"
+      ],
+      "auteur": "338km",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%282%29.jpg/1280px-%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Paoay Church - Ilocos2180.jpg",
+      "description": "The buttressed lateral wall of Paoay Church, a UNESCO World Heritage Site known for its distinctive Baroque architecture.",
+      "categories": [
+        "Paoay Church",
+        "CC-Zero",
+        "Buttresses",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Baroque Churches of the Philippines World Heritage Site",
+        "Flickr images missing SDC copyright status",
+        "Flickr images missing SDC inception",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "lumoplank",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paoay_Church_-_Ilocos2180.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Paoay_Church_-_Ilocos2180.jpg/1280px-Paoay_Church_-_Ilocos2180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5177,
+      "hauteur": 3451
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Strebewerk-1.jpg",
+      "description": "Flying buttresses of Strasbourg Cathedral.",
+      "categories": [
+        "Cathédrale Notre-Dame de Strasbourg",
+        "Buttresses",
+        "Artworks without Wikidata item",
+        "PD-Art (PD-old-auto-expired)",
+        "CC-PD-Mark",
+        "PD-old-95-expired",
+        "PD-Art missing SDC copyright status",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Max Semrau / Wilhelm Lübke",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Strebewerk-1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Strebewerk-1.jpg/1280px-Strebewerk-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2275,
+      "hauteur": 3463
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Wooden buttresses-Episcopal Church of the Transfiguration, Belle Plaine, MN - 53577976708.jpg",
+      "description": "Wooden buttress Episcopal Church of the Transfiguration 201 N Walnut Street Belle Plaine, Minnesota, USA Ceci est une photographie d’un monument référencé dans le National Register of Historic Places des États-Unis sous le numéro 80002159 ( Wikidata ).",
+      "categories": [
+        "Buttresses",
+        "National Register of Historic Places with known IDs",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Episcopal Church of the Transfiguration (Belle Plaine, Minnesota)"
+      ],
+      "auteur": "Heritage Preservation Department - MNHS",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wooden_buttresses-Episcopal_Church_of_the_Transfiguration,_Belle_Plaine,_MN_-_53577976708.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Wooden_buttresses-Episcopal_Church_of_the_Transfiguration%2C_Belle_Plaine%2C_MN_-_53577976708.jpg/1280px-Wooden_buttresses-Episcopal_Church_of_the_Transfiguration%2C_Belle_Plaine%2C_MN_-_53577976708.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:HK SYP 西環 Sai Ying Pun 第二街 Second Street January 2021 SS2 21.jpg",
+      "description": "HK SYP 西環 Sai Ying Pun 第二街 Second Street in January 2021",
+      "categories": [
+        "Buttresses",
+        "Wire net fences in China",
+        "Self-published work",
+        "Hong Kong photographs taken on 2021-01-21",
+        "Retaining walls in China",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "January 2021 in Sai Ying Pun",
+        "Abutments in China",
+        "Buildings in Second Street, Hong Kong",
+        "2021 in Second Street, Hong Kong"
+      ],
+      "auteur": "Feeuwai Nalmchonri Lami",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_SYP_%E8%A5%BF%E7%92%B0_Sai_Ying_Pun_%E7%AC%AC%E4%BA%8C%E8%A1%97_Second_Street_January_2021_SS2_21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/HK_SYP_%E8%A5%BF%E7%92%B0_Sai_Ying_Pun_%E7%AC%AC%E4%BA%8C%E8%A1%97_Second_Street_January_2021_SS2_21.jpg/1280px-HK_SYP_%E8%A5%BF%E7%92%B0_Sai_Ying_Pun_%E7%AC%AC%E4%BA%8C%E8%A1%97_Second_Street_January_2021_SS2_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3096,
+      "hauteur": 4128
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:臺南女中建築欣賞 - panoramio (3).jpg",
+      "description": "臺南女中建築欣賞",
+      "categories": [
+        "Buttresses",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Taiwan photographs taken on 2012-06-16",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "2012 photographs of Tainan",
+        "Former Tainan Prefectural Tainan First Girls' High School Main Building",
+        "Campus trees in Tainan"
+      ],
+      "auteur": "338km",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%283%29.jpg/1280px-%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    }
+  ]
+}

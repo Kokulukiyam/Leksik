@@ -1,0 +1,53 @@
+{
+  "termId": "pierre-de-taille",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ruine couverte de végétation dans un sous-bois, maçonnerie à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Auchinleck, Écosse",
+      "note": "Maçonnerie cachée par la végétation, illisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tour en gros blocs de pierre calcaire à bossage, en assises régulières, au-dessus d'un rempart crénelé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Jérusalem",
+      "note": "Blocs taillés aux faces dressées en assises régulières, dominants ; tout l'appareil visible est de la pierre de taille."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pont en arc en blocs de grès taillés posés en assises régulières, dans un lit de rivière asséché.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Comté de Mitchell, Kansas, États-Unis",
+      "note": "Pierre de taille clairement lisible (assises régulières, blocs dressés, pile massive) ; aucun autre matériau de la liste."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur inca en blocs polygonaux ajustés, joints irréguliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cuzco, Pérou",
+      "note": "Appareil polygonal sans assises régulières : ne correspond pas à la définition."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan de blocs de pierre rectangulaires à parement rustiqué et ciselures périphériques, en assises régulières.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Mellingen, Suisse",
+      "note": "Blocs taillés à arêtes dressées et ciselure, assises régulières ; caractéristique de la pierre de taille."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur en blocs de pierre avec des touffes de fleurs violettes poussant dans les joints.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Delphes, Grèce",
+      "note": "Les fleurs dominent et masquent l'appareil."
+    }
+  ]
+}

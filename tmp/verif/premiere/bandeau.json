@@ -1,0 +1,63 @@
+{
+  "termId": "bandeau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade d'immeuble à quatre niveaux avec commerces au rez-de-chaussée, un bandeau mouluré sépare le dernier étage.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.205,
+        "y": 0.263,
+        "largeur": 0.765,
+        "hauteur": 0.05
+      },
+      "lieu": "Cracovie, Pologne",
+      "note": "Bandeau horizontal continu marquant le niveau du dernier étage ; même immeuble que 05 mais vue d'ensemble qui montre bien sa position entre deux niveaux. Rectangle pour exclure la corniche du haut."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Portail Renaissance en pierre à arc plein cintre, pilastres et fronton, porte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Aucun bandeau lisible ; le portail domine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Immeuble d'angle délabré à quatre étages avec bow-window, fils de tram devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Pas de bandeau net, façade chargée, fils de tram gênants."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Immeuble moderne ocre de six niveaux avec fins bandeaux au niveau des appuis, arbre devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Bandeaux très fins confondus avec les appuis de fenêtre, partiellement masqués par l'arbre et le lampadaire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan de deux étages d'une façade enduite claire séparés par un large bandeau mouluré continu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.435,
+        "largeur": 0.995,
+        "hauteur": 0.115
+      },
+      "lieu": "Cracovie, Pologne",
+      "note": "Bandeau mouluré horizontal marquant le niveau entre deux étages, très lisible ; rectangle pour exclure la corniche du haut et les appuis."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade d'immeuble XIXe avec frontons de fenêtres, refends et commerce au rez-de-chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Bandeaux peu marqués, ornements de fenêtres dominants ; élément ambigu."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "pilotis",
+    "terme": "le pilotis",
+    "categorie": "Structure",
+    "definition": "Ensemble de poteaux qui portent un bâtiment au-dessus du sol en laissant le rez-de-chaussée libre.",
+    "requetes": [
+      "incategory:\"Pilotis\"",
+      "pilotis Le Corbusier"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Parempuyre - Pilotis.jpg",
+      "description": "Maison récente sur pilotis à Parempuyre",
+      "categories": [
+        "Pilotis",
+        "Parempuyre",
+        "Self-published work"
+      ],
+      "auteur": "PA",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Parempuyre_-_Pilotis.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Parempuyre_-_Pilotis.jpg/1280px-Parempuyre_-_Pilotis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Roca Marina3.jpg",
+      "description": "Apartaments Roca Marina, situats a la localitat de Cal Català (Calvià), obra de l'arquitecte Antonio Lamela. Foto presa de les escales que davallen al Caló de les Gerres.",
+      "categories": [
+        "Pilotis",
+        "Apartamentos Roca Marina (Calvià)",
+        "Self-published work",
+        "Columns in the Balearic Islands",
+        "2020 in Mallorca",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Joan Gené",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roca_Marina3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Roca_Marina3.jpg/1280px-Roca_Marina3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4640,
+      "hauteur": 2608
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Palácio dos Jequitibás - Pilotis.JPG",
+      "description": "Pilotis do Palácio dos Jequitibás, em Campinas.",
+      "categories": [
+        "GFDL",
+        "Taken with Kodak EasyShare C743",
+        "Pilotis",
+        "License migration redundant",
+        "Palácio dos Jequitibás",
+        "Self-published work"
+      ],
+      "auteur": "Fasouzafreitas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_dos_Jequitib%C3%A1s_-_Pilotis.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Pal%C3%A1cio_dos_Jequitib%C3%A1s_-_Pilotis.JPG/1280px-Pal%C3%A1cio_dos_Jequitib%C3%A1s_-_Pilotis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Charcot House - Pilotis 2025-01-02.jpg",
+      "description": "Architects: C.A.Lucas, W.G.Howell et al of the LCC, 1958, showing undercroft of Charcot House. Grade II* listed and part of the Alton Conservation Area. Highcliffe Neighbourhood, Alton West, London Borough of Wandsworth. (CC BY-SA - credit: Images George Rex)",
+      "categories": [
+        "Pilotis",
+        "Alton Estate, Roehampton",
+        "Flickr images reviewed by FlickreviewR 2",
+        "London photographs taken on 2025-01-02",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Buildings in the London Borough of Wandsworth photographed in 2025"
+      ],
+      "auteur": "Images George Rex",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Charcot_House_-_Pilotis_2025-01-02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Charcot_House_-_Pilotis_2025-01-02.jpg/1280px-Charcot_House_-_Pilotis_2025-01-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2731,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Pilotis de palaffite - Maison de la Rivière.jpg",
+      "description": "Pilotis de palaffite préhistorique, découvert dans le lac Léman, dans les environs de Morges. Il est exposé à la Maison de la Rivière, à Tolochenaz (Suisse).",
+      "categories": [
+        "Maison de la Rivière",
+        "Pilotis",
+        "Self-published work",
+        "Switzerland photographs taken on 2015-05-25",
+        "Files with coordinates missing SDC location of creation",
+        "Stations de Morges (CH-VD-12), site du patrimoine mondial de l’UNESCO Sites palafittiques préhistoriques autour des Alpes"
+      ],
+      "auteur": "Gzzz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pilotis_de_palaffite_-_Maison_de_la_Rivi%C3%A8re.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Pilotis_de_palaffite_-_Maison_de_la_Rivi%C3%A8re.jpg/1280px-Pilotis_de_palaffite_-_Maison_de_la_Rivi%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2557,
+      "hauteur": 4042
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Katowice Superjednostka i spodek.jpg",
+      "description": "Katowice, Poland, ground floor of \"Superjednostka\" (one of the largest blocks of flats in Poland), in the background \"Spodek\" arena",
+      "categories": [
+        "Taken with Canon PowerShot A530",
+        "Superjednostka",
+        "Pilotis",
+        "Self-published work",
+        "2006 in Katowice",
+        "Files by User:Pko from pl.wikipedia"
+      ],
+      "auteur": "Pko",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Katowice_Superjednostka_i_spodek.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Katowice_Superjednostka_i_spodek.jpg/1280px-Katowice_Superjednostka_i_spodek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    }
+  ]
+}

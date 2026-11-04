@@ -1,0 +1,58 @@
+{
+  "termId": "beton-brut",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Abri d'escalier vitré sur un quai de gare, avec garde-corps et murets en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig, Allemagne",
+      "note": "Béton secondaire et petit, la scène montre surtout l'abri vitré et le quai."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vue frontale de l'abri vitré d'un escalier de gare, murets en béton à la base.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig, Allemagne",
+      "note": "Béton peu dominant, texture de coffrage peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Entrée de passage souterrain en béton couverte de graffitis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig, Allemagne",
+      "note": "Graffitis dominants, matériau peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur de passage souterrain en béton avec graffiti, panneau numéro 2 et vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig, Allemagne",
+      "note": "Traces de planches visibles à gauche mais graffiti et éléments parasites ; moins net que 05 et 06."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de béton brut de décoffrage avec empreintes verticales de planches bien marquées, arbres derrière.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Louvain-la-Neuve, Belgique",
+      "note": "Exemple type de béton brut avec la trace des planches de coffrage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de béton brut lisse en vue rasante, avec trous de tiges de coffrage et joint de banche, escalier à gauche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.23,
+        "y": 0.02,
+        "largeur": 0.71,
+        "hauteur": 0.96
+      },
+      "lieu": "Fukuoka, Japon",
+      "note": "Béton de décoffrage apparent avec trous de banchage caractéristiques ; rectangle pour exclure la partie gauche (lattes de bois)."
+    }
+  ]
+}

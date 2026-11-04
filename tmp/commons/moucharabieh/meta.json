@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "moucharabieh",
+    "terme": "le moucharabieh",
+    "categorie": "Façade et ouvertures",
+    "definition": "Grillage de bois tourné à motifs, placé devant une fenêtre, qui permet de voir sans être vu.",
+    "requetes": [
+      "incategory:\"Mashrabiya\"",
+      "mashrabiya"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cairo Residence.jpg",
+      "description": "A residence situated by Khan El Khalili in Cairo.",
+      "categories": [
+        "Taken with HTC Wildfire",
+        "Mashrabiya",
+        "Self-published work",
+        "Houses in Cairo",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Peter Astbury",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cairo_Residence.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Cairo_Residence.jpg/1280px-Cairo_Residence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1952
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Architectural Detail - Old Town - Tbilisi - Georgia - 01 (18653980186) (2).jpg",
+      "description": "Architectural Detail - Old Town - Tbilisi - Georgia - 01",
+      "categories": [
+        "Mashrabiya",
+        "Botanikuri street",
+        "2015 in Tbilisi",
+        "Buildings in Georgia (country) photographed in 2015",
+        "Georgia (country) photographs taken on 2015-06-10",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Wood carving in Georgia (country)",
+        "Wooden balconies in Georgia (country)",
+        "Minarets of Juma Mosque, Tbilisi",
+        "Balconies in Tbilisi",
+        "Photographs of Georgia (country) by Adam Jones"
+      ],
+      "auteur": "Adam Jones from Kelowna, BC, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Architectural_Detail_-_Old_Town_-_Tbilisi_-_Georgia_-_01_(18653980186)_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Architectural_Detail_-_Old_Town_-_Tbilisi_-_Georgia_-_01_%2818653980186%29_%282%29.jpg/1280px-Architectural_Detail_-_Old_Town_-_Tbilisi_-_Georgia_-_01_%2818653980186%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Moucharabiehs 2.jpg",
+      "description": "Paris, musée du Louvre, département des Arts de l'Islam, legs de la baronne Marie Delort de Gléon, 1912, et Paris, musée du Louvre, département des Arts de l'Islam, dépôt du musée des Arts décoratifs, Paris, don baron Edmond James de Rothschild, 1920",
+      "categories": [
+        "Louvre Museum - Room 185",
+        "Decorative arts",
+        "Mashrabiya"
+      ],
+      "auteur": "Delphine Montagne",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moucharabiehs_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Moucharabiehs_2.jpg/1280px-Moucharabiehs_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Moucharabieh - Egypte - 18e - 19 e siècle - Louvre - Inventory number AD 22060 a.JPG",
+      "description": "Moucharabieh - Egypte - 18e - 19 e siècle - Louvre - Inventory number AD 22060 a - Salle B - Espace 99 ( Égypte ottomane, 1516-1882 : Les provinces ottomanes orientales ) - Bois tourné - Les moucharabiehs sont une caractéristique de l’architecture égyptienne. Ces claires-voies de bois tourné permettent à la fois d’aérer les intérieurs tout en filtrant la lumière et donc la chaleur, et aussi de voir sans être vu. (Ces 2 phrases sont extraites du texte du cartel de l'objet).",
+      "categories": [
+        "Mashrabiya",
+        "Self-published work",
+        "Islamic art in the Louvre - Showcase 99",
+        "Islamic wood carving in the Louvre",
+        "Ottoman applied arts in the Louvre"
+      ],
+      "auteur": "Faqscl",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moucharabieh_-_Egypte_-_18e_-_19_e_si%C3%A8cle_-_Louvre_-_Inventory_number_AD_22060_a.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Moucharabieh_-_Egypte_-_18e_-_19_e_si%C3%A8cle_-_Louvre_-_Inventory_number_AD_22060_a.JPG/1280px-Moucharabieh_-_Egypte_-_18e_-_19_e_si%C3%A8cle_-_Louvre_-_Inventory_number_AD_22060_a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Georgia (30222645110).jpg",
+      "description": "gruz00041",
+      "categories": [
+        "Mashrabiya",
+        "Botanikuri street",
+        "Flickr images reviewed by FlickreviewR",
+        "2016 in Tbilisi",
+        "Buildings in Georgia (country) photographed in 2016",
+        "Georgia (country) photographs taken on 2016-10-17",
+        "Wood carving in Georgia (country)",
+        "Wooden balconies in Georgia (country)",
+        "Balconies in Tbilisi"
+      ],
+      "auteur": "János Csordás",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Georgia_(30222645110).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Georgia_%2830222645110%29.jpg/1280px-Georgia_%2830222645110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Masjid Imam Bukhari.JPG",
+      "description": "Masjid Imam Bukhari",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Mashrabiya",
+        "Self-published work",
+        "Imam Bukhari Mosque"
+      ],
+      "auteur": "Imam Khairul Annas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Masjid_Imam_Bukhari.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Masjid_Imam_Bukhari.JPG/1280px-Masjid_Imam_Bukhari.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3456
+    }
+  ]
+}

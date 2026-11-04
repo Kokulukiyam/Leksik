@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "console",
+    "terme": "la console",
+    "categorie": "Ornement",
+    "definition": "Support en saillie, souvent galbé en forme de S ou de volute, qui porte un balcon, une corniche ou un élément décoratif.",
+    "requetes": [
+      "console balcon",
+      "balcony console volute",
+      "deepcat:\"Consoles (architecture)\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Corbel at Churchclara Church.jpg",
+      "description": "A corbel stone which formerly held the gallery at Churchclara Church. The wall has broken away a long time ago and has left a view of the cross section of the corbel.",
+      "categories": [
+        "Corbels in Ireland",
+        "Churchclara Church",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Ireland photographs taken on 2025-03-26"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corbel_at_Churchclara_Church.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Corbel_at_Churchclara_Church.jpg/1280px-Corbel_at_Churchclara_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 2296
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Zentralbibliothek Zürich - Romainmotier. Console am Kreuzgg. (vgl. unten) - 991023620229705501.jpg",
+      "description": "Romainmotier. Console am Kreuzgg. (vgl. unten)",
+      "categories": [
+        "Corbels",
+        "Uploaded with OpenRefine",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "CC-PD-Mark",
+        "Rahn Collection",
+        "Architectural drawings of Abbatiale de Romainmôtier"
+      ],
+      "auteur": "Johann Rudolf Rahn",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zentralbibliothek_Z%C3%BCrich_-_Romainmotier._Console_am_Kreuzgg._(vgl._unten)_-_991023620229705501.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Zentralbibliothek_Z%C3%BCrich_-_Romainmotier._Console_am_Kreuzgg._%28vgl._unten%29_-_991023620229705501.jpg/1280px-Zentralbibliothek_Z%C3%BCrich_-_Romainmotier._Console_am_Kreuzgg._%28vgl._unten%29_-_991023620229705501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2608,
+      "hauteur": 4002
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Carved corbel in Idmiston Church.jpg",
+      "description": "Another corbel with a fearsome expression.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (51° N, 2° W)",
+        "Corbels in England",
+        "All Saints Church, Idmiston (interior)"
+      ],
+      "auteur": "Richard Avery",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carved_corbel_in_Idmiston_Church.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Carved_corbel_in_Idmiston_Church.jpg/1280px-Carved_corbel_in_Idmiston_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2988,
+      "hauteur": 5312
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Microsoft-Xbox-One-Console-Set-wKinect.jpg",
+      "description": "The Xbox One console, shown with the controller and the Kinect. Released in 2013 in North America and select markets, it is the third video game console made by Microsoft and succeeds the Xbox 360.",
+      "categories": [
+        "Taken with Nikon D7100",
+        "Superseded",
+        "Xbox One (original)",
+        "Self-published work",
+        "Featured pictures on Wikipedia, English",
+        "PD-self",
+        "Images with extracted images",
+        "Featured pictures on Wikipedia, Persian",
+        "Featured pictures on Wikipedia, Turkish",
+        "Evan Amos",
+        "Xbox One Kinect",
+        "Home game consoles on white background"
+      ],
+      "auteur": "Evan-Amos",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-Console-Set-wKinect.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Microsoft-Xbox-One-Console-Set-wKinect.jpg/1280px-Microsoft-Xbox-One-Console-Set-wKinect.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7680,
+      "hauteur": 5040
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ballylarkin Church internal South wall corbel 7.jpg",
+      "description": "Ballylarkin Church internal South wall corbel 7",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Interior corbels at Ballylarkin Church"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ballylarkin_Church_internal_South_wall_corbel_7.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ballylarkin_Church_internal_South_wall_corbel_7.jpg/1280px-Ballylarkin_Church_internal_South_wall_corbel_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ballylarkin Church internal North wall corbel 7.jpg",
+      "description": "This is the only corbel different in style to the other internal ones, but similar to the external ones, so it might have come from the Southwest or Northwest corner of the building, when the extension to the West was built and it was in the way.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Interior corbels at Ballylarkin Church"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ballylarkin_Church_internal_North_wall_corbel_7.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ballylarkin_Church_internal_North_wall_corbel_7.jpg/1280px-Ballylarkin_Church_internal_North_wall_corbel_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    }
+  ]
+}

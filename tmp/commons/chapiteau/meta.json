@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "chapiteau",
+    "terme": "le chapiteau",
+    "categorie": "Ornement",
+    "definition": "Partie supérieure, élargie et souvent sculptée, d'une colonne ou d'un pilastre.",
+    "requetes": [
+      "corinthian capital",
+      "ionic capital",
+      "deepcat:\"Capitals\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Corinthian capital at Alba Fucens.jpg",
+      "description": "Corinthian capital at Alba Fucens",
+      "categories": [
+        "Alba Fucens",
+        "Self-published work",
+        "Corinthian capitals in Italy",
+        "Ancient Roman Corinthian capitals in Italy",
+        "Italy photographs taken on 2024-03-03",
+        "March 2024 in Abruzzo"
+      ],
+      "auteur": "PaestumPaestum",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corinthian_capital_at_Alba_Fucens.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Corinthian_capital_at_Alba_Fucens.jpg/1280px-Corinthian_capital_at_Alba_Fucens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6552,
+      "hauteur": 6024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Corinthian capital in Pompeii.jpg",
+      "description": "Corinthian capital in Pompeii",
+      "categories": [
+        "Casa dei Sittii Pompeiani (IX.7.3)",
+        "Self-published work",
+        "Corinthian capitals in Italy",
+        "Capitals in Pompeii"
+      ],
+      "auteur": "Commonists",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corinthian_capital_in_Pompeii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Corinthian_capital_in_Pompeii.jpg/1280px-Corinthian_capital_in_Pompeii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5312,
+      "hauteur": 5168
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Corithian capital fragment-KLg 17-IMG 0732-black.jpg",
+      "description": "",
+      "categories": [
+        "CeCILL",
+        "Corinthian capital fragment-KLg 17",
+        "Self-published work",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Taken on missing SDC inception",
+        "Template Unknown (author)",
+        "Artworks with accession number from Wikidata",
+        "Paris photographs taken on 2016-05-25"
+      ],
+      "auteur": "Rama",
+      "licence": "CC BY-SA 3.0 fr",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corithian_capital_fragment-KLg_17-IMG_0732-black.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Corithian_capital_fragment-KLg_17-IMG_0732-black.jpg/1280px-Corithian_capital_fragment-KLg_17-IMG_0732-black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7000,
+      "hauteur": 7000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Corithian capital fragment-KLg 17-IMG 0732-white.jpg",
+      "description": "",
+      "categories": [
+        "CeCILL",
+        "Corinthian capital fragment-KLg 17",
+        "Self-published work",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Taken on missing SDC inception",
+        "Template Unknown (author)",
+        "Artworks with accession number from Wikidata",
+        "Paris photographs taken on 2016-05-25"
+      ],
+      "auteur": "Rama",
+      "licence": "CC BY-SA 3.0 fr",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corithian_capital_fragment-KLg_17-IMG_0732-white.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Corithian_capital_fragment-KLg_17-IMG_0732-white.jpg/1280px-Corithian_capital_fragment-KLg_17-IMG_0732-white.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7000,
+      "hauteur": 7000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Roman Corinthian Order Capital at Jerash, Jordan.jpg",
+      "description": "A column of the Roman Corinthian Order in Jerash, Jordan.",
+      "categories": [
+        "Self-published work",
+        "Corinthian capitals",
+        "Architectural elements in Jerash"
+      ],
+      "auteur": "John LaRoe",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roman_Corinthian_Order_Capital_at_Jerash,_Jordan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Roman_Corinthian_Order_Capital_at_Jerash%2C_Jordan.jpg/1280px-Roman_Corinthian_Order_Capital_at_Jerash%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1570,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Corinthian capital over concretions Pompeii.jpg",
+      "description": "Un chapiteau de colonnes corinthien sur des concrétions à Pompéi, Italie.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Corinthian capitals in Italy",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2015-07-21",
+        "Columns in Pompeii"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corinthian_capital_over_concretions_Pompeii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Corinthian_capital_over_concretions_Pompeii.jpg/1280px-Corinthian_capital_over_concretions_Pompeii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3056,
+      "hauteur": 3673
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "corbeau",
+    "terme": "le corbeau",
+    "categorie": "Structure",
+    "definition": "Pierre ou pièce de bois en saillie sur un mur, qui porte une poutre, une corniche ou un encorbellement.",
+    "requetes": [
+      "incategory:\"Corbels\"",
+      "stone corbels"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Corbel with Human Bust and Acanthus Leaves MET sf10-176-41s1.jpg",
+      "description": "Corbel; Sculpture",
+      "categories": [
+        "CC-Zero",
+        "Corbels",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Department of Islamic Art, Metropolitan Museum of Art",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Acanthus leaves in art",
+        "Rogers Fund - Sculptures",
+        "Architectural sculptures in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_sf10-176-41s1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_sf10-176-41s1.jpg/1280px-Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_sf10-176-41s1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1948,
+      "hauteur": 2300
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Corbel with Human Bust and Acanthus Leaves MET DP369469.jpg",
+      "description": "Corbel; Sculpture",
+      "categories": [
+        "CC-Zero",
+        "Corbels",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Department of Islamic Art, Metropolitan Museum of Art",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Acanthus leaves in art",
+        "Rogers Fund - Sculptures",
+        "Architectural sculptures in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_DP369469.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_DP369469.jpg/1280px-Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_DP369469.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3421,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Northern range of the cloister at Kells Priory.jpg",
+      "description": "Northern range of the cloister at Kells Priory with the corbels which once carried the roof of the cloister",
+      "categories": [
+        "Corbels",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2025-04-30",
+        "Kells Priory cloister"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Northern_range_of_the_cloister_at_Kells_Priory.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Northern_range_of_the_cloister_at_Kells_Priory.jpg/1280px-Northern_range_of_the_cloister_at_Kells_Priory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2296,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:El Centro, Cartagena, Bolivar, Colombia - panoramio (2).jpg",
+      "description": "El Centro, Cartagena, Bolivar, Colombia",
+      "categories": [
+        "Corbels",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Colombia photographs taken on 2014-03-04",
+        "Green balconies",
+        "Wooden balconies in Colombia",
+        "Balconies in Cartagena (Colombia)",
+        "Plaza de los Coches",
+        "Photos from Panoramio ID 156183"
+      ],
+      "auteur": "diego_cue",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:El_Centro,_Cartagena,_Bolivar,_Colombia_-_panoramio_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/El_Centro%2C_Cartagena%2C_Bolivar%2C_Colombia_-_panoramio_%282%29.jpg/1280px-El_Centro%2C_Cartagena%2C_Bolivar%2C_Colombia_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Modillon à décor d'aigle-Rue des Frères-Musée archéologique de Strasbourg.jpg",
+      "description": "Modillon à décor d'aigle Strasbourg, rue des Frères, IIIe s. après JC Musée archéologique de Strasbourg",
+      "categories": [
+        "Corbels",
+        "Self-published work",
+        "Archaeological finds from Grande Île, Strasbourg",
+        "Argentoratum in Musée archéologique de Strasbourg",
+        "Ancient Roman antiquities collections of Musée archéologique de Strasbourg",
+        "Rue des Frères (Strasbourg)"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Modillon_%C3%A0_d%C3%A9cor_d%27aigle-Rue_des_Fr%C3%A8res-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Modillon_%C3%A0_d%C3%A9cor_d%27aigle-Rue_des_Fr%C3%A8res-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg/1280px-Modillon_%C3%A0_d%C3%A9cor_d%27aigle-Rue_des_Fr%C3%A8res-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Коканд, здание Русско-Азиатского банка, консоль.jpg",
+      "description": "Russo-Asian bank building, Kokand, Fergana Region, Uzbekistan.",
+      "categories": [
+        "Corbels",
+        "Russo-Asian bank building",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2023",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2023 in Uzbekistan",
+        "Uploaded via Campaign:wlm-uz",
+        "Photographs by Nikolay Bulykin",
+        "Architectural elements in Kokand"
+      ],
+      "auteur": "Nikolaï Boulykine",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BA%D0%B0%D0%BD%D0%B4,_%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D0%90%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0,_%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/%D0%9A%D0%BE%D0%BA%D0%B0%D0%BD%D0%B4%2C_%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D0%90%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0%2C_%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C.jpg/1280px-%D0%9A%D0%BE%D0%BA%D0%B0%D0%BD%D0%B4%2C_%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D0%90%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0%2C_%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3726,
+      "hauteur": 2795
+    }
+  ]
+}

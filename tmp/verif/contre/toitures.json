@@ -1,0 +1,15 @@
+[
+  { "cle": "lucarne/03", "accord": true, "raison": "Lucarne Renaissance en pierre à fronton et fenêtre à meneau, saillante sur le toit d'ardoise ; le rectangle cadre exactement la lucarne de gauche." },
+  { "cle": "lucarne/06", "accord": true, "raison": "Lucarne à fronton et ailerons à volutes émergeant du toit de tuiles, fenêtre verticale bien visible ; le rectangle l'encadre de près." },
+  { "cle": "gouttiere/01", "accord": true, "raison": "Gouttière métallique pendante au bas d'un toit de tuiles canal, nettement désignée par le rectangle ; le déversoir en forme de dragon reste hors cadre principal." },
+  { "cle": "faitage/03", "accord": true, "raison": "Toit de lauzes vu de côté, le rectangle souligne précisément la ligne de faîte couverte de lauzes ; pas de confusion possible." },
+  { "cle": "faitage/04", "accord": true, "raison": "Vue rasante le long d'un faîtage couvert de tuiles faîtières demi-rondes, entre les deux versants ; l'élément est dominant et sans ambiguïté." },
+  { "cle": "chaume/01", "accord": false, "raison": "Gros plan macro de bouts de roseaux, texture abstraite sans aucun contexte de toit : on ne voit pas qu'il s'agit d'une couverture, l'image ne montre pas clairement le chaume comme couverture de toit." },
+  { "cle": "chaume/06", "accord": true, "raison": "Pan de toiture en paille fixé par des fils, avec mousse, occupant toute l'image : couverture en chaume clairement lisible." },
+  { "cle": "shed/03", "accord": true, "raison": "Bâtiment industriel en pierre à toiture en dents de scie, versants raides en panneaux translucides ; le rectangle cadre bien le profil en shed." },
+  { "cle": "shed/06", "accord": true, "raison": "Rangée d'usines en brique à toiture en dents de scie, un versant vitré par dent ; le rectangle désigne bien la succession de sheds." },
+  { "cle": "fleche/05", "accord": true, "raison": "Flèche élancée en métal couronnant une tourelle d'angle, nettement cadrée par le rectangle ; forme pyramidale aiguë sans ambiguïté." },
+  { "cle": "fleche/06", "accord": true, "raison": "Flèche pyramidale en bois très élancée surmontant la tour-lanterne d'une mosquée, cadrée de près par le rectangle." },
+  { "cle": "lanterneau/02", "accord": true, "raison": "Grand lanterneau vitré pyramidal surmonté d'un petit lanternon, posé en saillie sur un toit-terrasse : élément dominant et conforme à la définition." },
+  { "cle": "lanterneau/04", "accord": false, "raison": "Petit lanterneau vitré pyramidal sur le faîtage d'une église, mais minuscule dans l'image : sur téléphone le vitrage est illisible et la petite pyramide pointue peut être prise pour une flèche." }
+]

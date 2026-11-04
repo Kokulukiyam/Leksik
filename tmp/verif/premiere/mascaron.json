@@ -1,0 +1,11 @@
+{
+  "termId": "mascaron",
+  "candidats": [
+    {"fichier": "01.jpg", "vu": "Tête grimaçante entourée de rinceaux dorés au-dessus d'un cartouche d'inscription « Im 60. Regierungsjahr Franz Josef I errichtet ».", "verdict": "rejetée", "rectangle": null, "lieu": "Stadttheater, Klagenfurt, Autriche", "note": "Le cartouche et son inscription dominent l'image, le mascaron n'est qu'en couronnement ; candidates 04 et 05 plus nettes."},
+    {"fichier": "02.jpg", "vu": "Visages monumentaux sculptés dans les blocs de grès des tours du Bayon.", "verdict": "rejetée", "rectangle": null, "lieu": "Bayon, Angkor, Cambodge", "note": "Tours à visages khmères, pas des masques ornant une clé, une console ou une fontaine."},
+    {"fichier": "03.jpg", "vu": "Masque de pierre stylisé à bouche béante creuse, scellé dans un mur enduit.", "verdict": "rejetée", "rectangle": null, "lieu": "Brückenstraße 9, Trèves, Allemagne", "note": "« Schrotmaul » : bouche creuse fonctionnelle qui peut évoquer un déversoir (confusion avec la gargouille)."},
+    {"fichier": "04.jpg", "vu": "Tête barbue couronnée de feuillage sculptée sur la clé d'un arc de baie, sous un bandeau mouluré, au-dessus d'un store.", "verdict": "validée", "rectangle": {"x": 0.40, "y": 0.15, "largeur": 0.185, "hauteur": 0.37}, "lieu": "16 place Vendôme, Paris, France", "note": "Mascaron de clé d'arc typique, net ; rectangle pour écarter bandeau et corniche. Catégorie Commons « Retouched pictures » (retouche photographique légère), photo réelle."},
+    {"fichier": "05.jpg", "vu": "Gros plan d'un masque de théâtre sculpté à cheveux bouclés et drapé, sur la clé d'un arc en pierre blanche.", "verdict": "validée", "rectangle": null, "lieu": "Teatro La Fenice, Venise, Italie", "note": "Mascaron de clé d'arc dominant, parfaitement lisible ; aucun élément concurrent."},
+    {"fichier": "06.jpg", "vu": "Fontaine adossée avec fronton, bas-relief de Léda au cygne, jet d'eau et trois petits mascarons de bronze en partie basse.", "verdict": "rejetée", "rectangle": null, "lieu": "Fontaine de Léda, Jardin du Luxembourg, Paris, France", "note": "Mascarons trop petits ; fronton et bas-relief dominent l'image."}
+  ]
+}

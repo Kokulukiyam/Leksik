@@ -1,0 +1,63 @@
+{
+  "termId": "meneau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre à croisée de pierre, quatre jours séparés par un meneau et une traverse.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.48,
+        "y": 0.16,
+        "largeur": 0.08,
+        "hauteur": 0.62
+      },
+      "lieu": "Nîmes, France",
+      "note": "Croisée frontale très lisible ; le rectangle vertical isole le meneau de la traverse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vue de rue avec angle d'immeuble ; une petite croisée en hauteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nîmes, France",
+      "note": "Fenêtre minuscule dans l'image ; élément trop petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade Renaissance vue en contre-plongée, fenêtres à croisée encadrées de colonnes cannelées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nîmes, France",
+      "note": "Vue oblique, colonnes et pilastres pouvant prêter à confusion ; moins clair que 01 et 05."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade étroite vue en forte oblique avec plusieurs croisées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nîmes, France",
+      "note": "Fenêtres petites et déformées par la perspective."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade Renaissance frontale avec deux étages de croisées entre pilastres cannelés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.688,
+        "y": 0.555,
+        "largeur": 0.037,
+        "hauteur": 0.315
+      },
+      "lieu": "Nîmes, France",
+      "note": "Croisée frontale, meneau de pierre bien visible ; rectangle nécessaire pour l'isoler des pilastres."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Baie géminée en plein cintre divisée par une colonnette à chapiteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Crespiano, Italie",
+      "note": "Division par une colonnette : confusion colonnette/meneau."
+    }
+  ]
+}

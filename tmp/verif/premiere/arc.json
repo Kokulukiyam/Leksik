@@ -1,0 +1,63 @@
+{
+  "termId": "arc",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pont en pierre à arches sur l'Orb vu en contre-plongée, une grande arche au premier plan dont on voit surtout l'intrados.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Roquebrun, France",
+      "note": "L'arche est vue par-dessous : on lit surtout la douelle, donc une voûte en berceau (confusion arc / voûte)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pont de Ceps en noir et blanc, vu de face : grandes arches en plein cintre à claveaux appareillés sur des piles rondes, au-dessus de la rivière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.245,
+        "y": 0.2,
+        "largeur": 0.27,
+        "hauteur": 0.25
+      },
+      "lieu": "Roquebrun, France",
+      "note": "Arc en plein cintre en élévation, claveaux bien lisibles ; rectangle sur l'arche centrale."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit pont de pierre moussu au-dessus d'un ruisseau en forêt, arche à l'arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rosis, France",
+      "note": "Arche petite et lointaine, le ruisseau et les rochers dominent."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pont à sept arches sur l'Orb vu de loin, avec le village et un arbre au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Roquebrun, France",
+      "note": "Arches trop petites dans l'image, paysage dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pont ottoman d'Arslanagić en pierre, à grandes arches en plein cintre et petites arches de décharge, reflété dans la rivière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.51,
+        "y": 0.29,
+        "largeur": 0.19,
+        "hauteur": 0.27
+      },
+      "lieu": "Trebinje, Bosnie-Herzégovine",
+      "note": "Arc en plein cintre en élévation, rouleau de claveaux net ; rectangle sur la grande arche centrale."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pont de pierre à arches segmentaires sur des piles, avec promeneurs et fleurs sur le tablier, dans un temple coréen.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Temple Tongdosa, Corée du Sud",
+      "note": "Arches surbaissées vues de biais, intrados visible (voûte) ; moins nette que 02 et 05."
+    }
+  ]
+}

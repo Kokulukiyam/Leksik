@@ -1,0 +1,116 @@
+{
+  "terme": {
+    "id": "lanterneau",
+    "terme": "le lanterneau",
+    "categorie": "Toitures",
+    "definition": "Élément vitré posé en saillie sur un toit pour éclairer et parfois aérer l'espace situé dessous.",
+    "requetes": [
+      "deepcat:\"Roof lanterns\"",
+      "roof lantern skylight"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Leadenhall Market ceiling octagonal skylight London dllu.jpg",
+      "description": "Upward view of the central octagonal skylight and hanging lanterns in the ceiling of Leadenhall Market, City of London, England, 2025.",
+      "categories": [
+        "Leadenhall Market",
+        "Taken with Fujifilm GFX100S",
+        "Self-published work",
+        "F-number f/5.6",
+        "Exposure time 1/30 sec",
+        "Lens focal length 20 mm",
+        "Symmetry impressions of building interiors",
+        "Buildings in the City of London photographed in 2025",
+        "Transparent roofs in London",
+        "Skylights in London"
+      ],
+      "auteur": "Daniel Lu ( User:dllu )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Leadenhall_Market_ceiling_octagonal_skylight_London_dllu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Leadenhall_Market_ceiling_octagonal_skylight_London_dllu.jpg/1280px-Leadenhall_Market_ceiling_octagonal_skylight_London_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 11439,
+      "hauteur": 8421
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Smith-richmond001.jpg",
+      "description": "Roof Lantern",
+      "categories": [
+        "Self-published work",
+        "Skylights from outside"
+      ],
+      "auteur": "EnglishGlassman",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Smith-richmond001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Smith-richmond001.jpg/1280px-Smith-richmond001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5446,
+      "hauteur": 3531
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:OriglioUpView.jpg",
+      "description": "Internal View of Roof Lantern",
+      "categories": [
+        "Taken with Ricoh RDC-5300",
+        "Self-published work",
+        "Skylights from inside"
+      ],
+      "auteur": "EnglishGlassman",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:OriglioUpView.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/OriglioUpView.jpg/1280px-OriglioUpView.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1792,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:St Lawrence's church, Skellingthorpe, Lincs. (23065286146).jpg",
+      "description": "There has been a church on the site since the 13th century. By 1854 the church was in a dilapidated condition and was rebuilt in 1855 by Hussey, using much of the old materials. There was a nave with clerestory, north and south aisles, and also a spire on the tower roof. The lower stages of the tower still contain some mediaeval masonry. In 1916 there was a severe fire which left only the walls standing. Due to limited funds, only the chancel was given a permanent roof, the nave had a temporary roof which lasted nearly 80 years! The spire was never rebuilt, and the aisle arcades replaced with ",
+      "categories": [
+        "St Lawrence's Church, Skellingthorpe",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (53° N, 1° W)"
+      ],
+      "auteur": "Jules & Jenny from Lincoln, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St_Lawrence%27s_church,_Skellingthorpe,_Lincs._(23065286146).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/St_Lawrence%27s_church%2C_Skellingthorpe%2C_Lincs._%2823065286146%29.jpg/1280px-St_Lawrence%27s_church%2C_Skellingthorpe%2C_Lincs._%2823065286146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4548,
+      "hauteur": 3166
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Indiana Statehouse, Capitol Avenue, Indianapolis, IN - 53384977255.jpg",
+      "description": "Built in 1880-1888, this Renaissance Revival-style building was designed by Edwin May and Adolf Scherer to serve as the State Capitol Building, or Statehouse, of Indiana. The building replaced an earlier and much smaller structure on the same site, which stood from 1835 until 1877, when it was condemned due to structural problems. The current building is clad in Indiana Limestone, and features a rather slender drum and dome that stands 256 feet (78 meters) tall, with a wide central wing flanked by mall end wings with mansard and gabled roofs, and skylights on the roof of the central wing, flan",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2023 in Indianapolis"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Indiana_Statehouse,_Capitol_Avenue,_Indianapolis,_IN_-_53384977255.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384977255.jpg/1280px-Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384977255.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5292,
+      "hauteur": 3969
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Indiana Statehouse, Capitol Avenue, Indianapolis, IN - 53384541741.jpg",
+      "description": "Built in 1880-1888, this Renaissance Revival-style building was designed by Edwin May and Adolf Scherer to serve as the State Capitol Building, or Statehouse, of Indiana. The building replaced an earlier and much smaller structure on the same site, which stood from 1835 until 1877, when it was condemned due to structural problems. The current building is clad in Indiana Limestone, and features a rather slender drum and dome that stands 256 feet (78 meters) tall, with a wide central wing flanked by mall end wings with mansard and gabled roofs, and skylights on the roof of the central wing, flan",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2023 in Indianapolis"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Indiana_Statehouse,_Capitol_Avenue,_Indianapolis,_IN_-_53384541741.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384541741.jpg/1280px-Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384541741.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4187,
+      "hauteur": 5583
+    }
+  ]
+}

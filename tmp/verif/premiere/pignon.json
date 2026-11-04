@@ -1,0 +1,63 @@
+{
+  "termId": "pignon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panorama très allongé d'une place enneigée bordée de maisons à pignons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gais, Appenzell Rhodes-Extérieures, Suisse",
+      "note": "Panorama illisible sur téléphone ; pignons minuscules."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur pignon enduit d'une maison de 1639 à rives cintrées, fenêtres à encadrements rouges et ancres en fer formant la date.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.06,
+        "y": 0.15,
+        "largeur": 0.84,
+        "hauteur": 0.36
+      },
+      "lieu": "Trèves, Allemagne",
+      "note": "Partie triangulaire portant les deux versants très nette ; le cadre isole le triangle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade étroite rose couronnée d'un pignon à volutes, avec guirlande de fanions et vitrines de boutique couvertes d'affiches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dzierżoniów, Pologne",
+      "note": "Pignon chantourné qui peut évoquer un fronton ; rez-de-chaussée encombré d'affiches."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison étroite vue d'angle : mur pignon enduit avec triangle sommital sous les deux rives du toit, façade latérale en fuite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.05,
+        "largeur": 0.63,
+        "hauteur": 0.28
+      },
+      "lieu": "Trèves, Allemagne",
+      "note": "Pignon triangulaire simple et clair ; le cadre écarte la façade latérale."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur pignon jaune d'une maison derrière un jardin, sommet en partie masqué par des branches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oberursel, Allemagne",
+      "note": "Triangle partiellement caché par le feuillage et le premier plan végétal."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pignon en bois décoré d'une villa avec balcon à arcades et balustres, rives ouvragées et poinçon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Seis am Schlern, Tyrol du Sud, Italie",
+      "note": "Le triangle est surtout occupé par le balcon et les décors bois ; lecture ambiguë (balcon, rive, ferme débordante)."
+    }
+  ]
+}

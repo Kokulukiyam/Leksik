@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "beton-brut",
+    "terme": "le béton brut",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Béton laissé apparent tel qu'il sort du coffrage, avec la trace des planches.",
+    "requetes": [
+      "béton brut",
+      "board-formed concrete wall",
+      "exposed concrete brutalist"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:FOT9514 Haltepunkt Leipzig Anger-Crottendorf 2024 – Treppenaufgang Süd.jpg",
+      "description": "Quai central avec accès par escalier sud de la halte S-Bahn Leipzig Anger-Crottendorf (vue en direction de Stötteritz). L’installation n’avait été ouverte au public que la veille. Malgré le court laps de temps depuis la mise en service, les premiers actes de vandalisme sous forme de graffitis sont déjà apparus ou se sont produits quelques heures après la prise de vue. Grâce à cet ouvrage, la halte est de nouveau directement reliée au corridor ferroviaire de Crottendorf, prolongement du parc Lene-Voigt. Avec l’ouverture, la voie en direction de la sortie de la ville a également été mise en serv",
+      "categories": [
+        "Taken with Nikon D750",
+        "Haltepunkt Leipzig Anger-Crottendorf (2013)",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Augustgeyler",
+        "Haltepunkt Leipzig Anger-Crottendorf (Personentunnel Süd)"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FOT9514_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Treppenaufgang_S%C3%BCd.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/FOT9514_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Treppenaufgang_S%C3%BCd.jpg/1280px-FOT9514_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Treppenaufgang_S%C3%BCd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5835,
+      "hauteur": 3890
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:FOT9519 Haltepunkt Leipzig Anger-Crottendorf 2024 – Treppenaufgang Süd.jpg",
+      "description": "Quai central avec accès par escalier sud de la halte S-Bahn Leipzig Anger-Crottendorf (vue en direction de Stötteritz). L’installation n’avait été ouverte au public que la veille. Malgré le court laps de temps depuis la mise en service, les premiers actes de vandalisme sous forme de graffitis sont déjà apparus ou se sont produits quelques heures après la prise de vue. Grâce à cet ouvrage, la halte est de nouveau directement reliée au corridor ferroviaire de Crottendorf, prolongement du parc Lene-Voigt. Avec l’ouverture, la voie en direction de la sortie de la ville a également été mise en serv",
+      "categories": [
+        "Taken with Nikon D750",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Train station indoor stairs in Germany",
+        "Photographs by Augustgeyler",
+        "Haltepunkt Leipzig Anger-Crottendorf (Personentunnel Süd)"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FOT9519_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Treppenaufgang_S%C3%BCd.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/FOT9519_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Treppenaufgang_S%C3%BCd.jpg/1280px-FOT9519_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Treppenaufgang_S%C3%BCd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3928,
+      "hauteur": 3928
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:FOT9562 Haltepunkt Leipzig Anger-Crottendorf 2024 – Personentunnel zum Treppenaufgang Süd.jpg",
+      "description": "Passage souterrain piéton menant à l’accès par escalier sud de la halte S-Bahn Leipzig Anger-Crottendorf. L’installation n’avait été ouverte au public que la veille. Malgré le court laps de temps depuis la mise en service, les premiers actes de vandalisme sous forme de graffitis sont déjà apparus ou se sont produits quelques heures après la prise de vue. L’ouvrage permet l’accès au quai central également nouvellement construit. Ainsi, la halte est de nouveau directement reliée au corridor ferroviaire de Crottendorf, prolongement du parc Lene-Voigt.",
+      "categories": [
+        "Taken with Nikon D750",
+        "Self-published work",
+        "Information field template with formatting",
+        "Concrete buildings in Saxony",
+        "Train station entrances in Saxony",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Augustgeyler",
+        "Haltepunkt Leipzig Anger-Crottendorf (Personentunnel Süd)"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FOT9562_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Personentunnel_zum_Treppenaufgang_S%C3%BCd.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/FOT9562_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Personentunnel_zum_Treppenaufgang_S%C3%BCd.jpg/1280px-FOT9562_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Personentunnel_zum_Treppenaufgang_S%C3%BCd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5939,
+      "hauteur": 3670
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:FOT9561 Haltepunkt Leipzig Anger-Crottendorf 2024 – Personentunnel zum Treppenaufgang Süd.jpg",
+      "description": "Passage souterrain piéton menant à l’accès par escalier sud de la halte S-Bahn Leipzig Anger-Crottendorf. L’installation n’avait été ouverte au public que la veille. Malgré le court laps de temps depuis la mise en service, les premiers actes de vandalisme sous forme de graffitis sont déjà apparus ou se sont produits quelques heures après la prise de vue. L’ouvrage permet l’accès au quai central également nouvellement construit. Ainsi, la halte est de nouveau directement reliée au corridor ferroviaire de Crottendorf, prolongement du parc Lene-Voigt.",
+      "categories": [
+        "Taken with Nikon D750",
+        "Self-published work",
+        "Information field template with formatting",
+        "Concrete buildings in Saxony",
+        "Train station entrances in Saxony",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Augustgeyler",
+        "Haltepunkt Leipzig Anger-Crottendorf (Personentunnel Süd)"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FOT9561_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Personentunnel_zum_Treppenaufgang_S%C3%BCd.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/FOT9561_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Personentunnel_zum_Treppenaufgang_S%C3%BCd.jpg/1280px-FOT9561_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Personentunnel_zum_Treppenaufgang_S%C3%BCd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5614,
+      "hauteur": 4010
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Belgique - Louvain-la-Neuve - Place des Sciences - 29.jpg",
+      "description": "Cette photo de patrimoine immobilier a été prise en région wallonne",
+      "categories": [
+        "Images from Wiki Loves Heritage Belgium in 2018",
+        "Self-published work",
+        "Images from Wiki Loves Heritage Belgium in 2018 - Wallonia",
+        "Images from Wiki Loves Heritage Belgium in 2018 - immovable heritage",
+        "Images from Wiki Loves Heritage Belgium in 2018 needing check",
+        "Uploaded via Campaign:wlh-be",
+        "Bibliothèque et place des Sciences"
+      ],
+      "auteur": "EmDee",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Belgique_-_Louvain-la-Neuve_-_Place_des_Sciences_-_29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Belgique_-_Louvain-la-Neuve_-_Place_des_Sciences_-_29.jpg/1280px-Belgique_-_Louvain-la-Neuve_-_Place_des_Sciences_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2449,
+      "hauteur": 2837
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:MGH Kon-ya-machi Daimyō Bldg the béton brut Daimyō 1-chōme Chūō-ku Fukuoka 20250619.jpg",
+      "description": "MGH Kon-ya-machi Daimyō Building: the béton brut (Address: 3-54, Daimyō 1-chōme, Chūō-ku, Fukuoka-shi 8100041, Japan)",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "MGH Kon-ya-machi Daimyō Building"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MGH_Kon-ya-machi_Daimy%C5%8D_Bldg_the_b%C3%A9ton_brut_Daimy%C5%8D_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/MGH_Kon-ya-machi_Daimy%C5%8D_Bldg_the_b%C3%A9ton_brut_Daimy%C5%8D_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg/1280px-MGH_Kon-ya-machi_Daimy%C5%8D_Bldg_the_b%C3%A9ton_brut_Daimy%C5%8D_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

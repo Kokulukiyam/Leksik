@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "meneau",
+    "terme": "le meneau",
+    "categorie": "Façade et ouvertures",
+    "definition": "Montant vertical fixe, en pierre ou en bois, qui divise une fenêtre en plusieurs parties.",
+    "requetes": [
+      "deepcat:\"Mullioned windows\"",
+      "incategory:\"Mullions\"",
+      "mullioned window stone"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2 rue des Marchands in Nimes 02.jpg",
+      "description": "Window of the building at 2 rue des Marchands in Nîmes, Gard, France Cet édifice est inscrit au titre des monuments historiques de la France . Il est répertorié dans la base Mérimée , base de données sur le patrimoine architectural français du ministère de la Culture , sous la référence PA00103116 . brezhoneg ∙ català ∙ Deutsch ∙ English ∙ español ∙ Esperanto ∙ euskara ∙ français ∙ italiano ∙ magyar ∙ Nederlands ∙ português do Brasil ∙ português ∙ română ∙ sicilianu ∙ slovenščina ∙ suomi ∙ svenska ∙ Ελληνικά ∙ беларуская (тарашкевіца) ∙ кыргызча ∙ македонски ∙ русский ∙ українська ∙ ไทย ∙ বাংল",
+      "categories": [
+        "Base Mérimée",
+        "Monuments historiques inscrits",
+        "Merchants' street N°02 (Nîmes)",
+        "Occitanie photographs taken on 2019-02-18",
+        "Self-published work",
+        "Tournasol7's quality images",
+        "Windows in Gard",
+        "Mérimée with PA parameter",
+        "2019 in Nîmes",
+        "Cultural heritage monuments in France with known IDs",
+        "Tournasol7/Nîmes & Uzès"
+      ],
+      "auteur": "Krzysztof Golik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2_rue_des_Marchands_in_Nimes_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2_rue_des_Marchands_in_Nimes_02.jpg/1280px-2_rue_des_Marchands_in_Nimes_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2909,
+      "hauteur": 3960
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2 rue des Marchands in Nimes 01.jpg",
+      "description": "Building at 2 rue des Marchands in Nîmes, Gard, France Cet édifice est inscrit au titre des monuments historiques de la France . Il est répertorié dans la base Mérimée , base de données sur le patrimoine architectural français du ministère de la Culture , sous la référence PA00103116 . brezhoneg ∙ català ∙ Deutsch ∙ English ∙ español ∙ Esperanto ∙ euskara ∙ français ∙ italiano ∙ magyar ∙ Nederlands ∙ português do Brasil ∙ português ∙ română ∙ sicilianu ∙ slovenščina ∙ suomi ∙ svenska ∙ Ελληνικά ∙ беларуская (тарашкевіца) ∙ кыргызча ∙ македонски ∙ русский ∙ українська ∙ ไทย ∙ বাংলা ∙ 中文 ∙ +/−",
+      "categories": [
+        "Base Mérimée",
+        "Monuments historiques inscrits",
+        "Merchants' street N°02 (Nîmes)",
+        "Occitanie photographs taken on 2019-02-18",
+        "Self-published work",
+        "Tournasol7's quality images",
+        "Mérimée with PA parameter",
+        "2019 in Nîmes",
+        "Cultural heritage monuments in France with known IDs",
+        "Tournasol7/Nîmes & Uzès"
+      ],
+      "auteur": "Krzysztof Golik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2_rue_des_Marchands_in_Nimes_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2_rue_des_Marchands_in_Nimes_01.jpg/1280px-2_rue_des_Marchands_in_Nimes_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2278,
+      "hauteur": 5060
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Nîmes,Ecusson,rue de la Trésorerie N°13-11.jpg",
+      "description": "Nîmes (Gard, France), 13 rue de la Trésorerie, ancienne trésorerie ayant appartenu au roi de France, rachetée par les autorités municipales pour y transférer l'hôtel de Ville qui se trouvait place de l'Horloge; façade médiévale remaniée dans le style Renaissance comme en témoigne encore la présence de deux belles fenêtres en croisée à meneau très ouvragées.",
+      "categories": [
+        "Self-published work",
+        "Former treasury building (Nîmes)",
+        "Mullioned windows in Gard",
+        "Nîmes by Finoskov"
+      ],
+      "auteur": "Finoskov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:N%C3%AEmes,Ecusson,rue_de_la_Tr%C3%A9sorerie_N%C2%B013-11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/N%C3%AEmes%2CEcusson%2Crue_de_la_Tr%C3%A9sorerie_N%C2%B013-11.jpg/1280px-N%C3%AEmes%2CEcusson%2Crue_de_la_Tr%C3%A9sorerie_N%C2%B013-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 2074
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Nîmes,Ecusson,rue des Marchands N°11,maison Gothique02.jpg",
+      "description": "Nîmes (Gard, France), au numéro 11 de la rue des Marchands, bâtiment du début du XVIe siècle, dit \"Maison Gothique\".",
+      "categories": [
+        "Maison gothique, Nîmes",
+        "Self-published work",
+        "Mullioned windows in Gard",
+        "Nîmes by Finoskov"
+      ],
+      "auteur": "Finoskov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:N%C3%AEmes,Ecusson,rue_des_Marchands_N%C2%B011,maison_Gothique02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/N%C3%AEmes%2CEcusson%2Crue_des_Marchands_N%C2%B011%2Cmaison_Gothique02.jpg/1280px-N%C3%AEmes%2CEcusson%2Crue_des_Marchands_N%C2%B011%2Cmaison_Gothique02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Immeuble 17 rue des Marchands01.jpg",
+      "description": "Nîmes (Gard, France), dans le quartier historique de l’Écusson, au 17 rue des Marchands, belle façade de style Renaissance réalisée entre 1640 & 1660, tout récemment restaurée.",
+      "categories": [
+        "Base Mérimée",
+        "Monuments historiques inscrits",
+        "Merchants' street N°17 (Nîmes)",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mullioned windows in Gard"
+      ],
+      "auteur": "Finoskov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Immeuble_17_rue_des_Marchands01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Immeuble_17_rue_des_Marchands01.jpg/1280px-Immeuble_17_rue_des_Marchands01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1988,
+      "hauteur": 1585
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Crespiano - Canonica - Bifora.jpg",
+      "description": "Crespiano (Comano, Tuscany, Italy) - Rectory - Bifora",
+      "categories": [
+        "Self-published work",
+        "Biforas in Tuscany",
+        "Mullioned windows",
+        "Photos of windows by User:Syrio",
+        "Canonica (Crespiano, Comano)"
+      ],
+      "auteur": "Syrio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crespiano_-_Canonica_-_Bifora.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Crespiano_-_Canonica_-_Bifora.jpg/1280px-Crespiano_-_Canonica_-_Bifora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 5184
+    }
+  ]
+}

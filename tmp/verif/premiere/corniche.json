@@ -1,0 +1,58 @@
+{
+  "termId": "corniche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Villa néoclassique blanche à deux niveaux avec portique d'entrée, couronnée d'une corniche moulurée sous un parapet.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.09,
+        "y": 0.178,
+        "largeur": 0.8,
+        "hauteur": 0.035
+      },
+      "lieu": "Upton, Merseyside, Royaume-Uni",
+      "note": "Corniche de couronnement continue en haut de façade ; rectangle nécessaire pour la distinguer du bandeau d'étage visible à mi-hauteur."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade délabrée d'un immeuble ancien à toitures en tuiles, voitures garées devant, photo très traitée (HDR).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Luanda, Angola",
+      "note": "Corniche dégradée et peu lisible, image fortement retouchée, graffitis et voitures dominants."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sous-face d'avant-toit polychrome de mosquée de style chinois : chevrons, poutres peintes, colonnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zharkent, Kazakhstan",
+      "note": "Avant-toit en charpente (type dougong), pas une corniche moulurée au sens français."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan d'un caisson de marbre orné d'une couronne de laurier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Forum romain, Rome, Italie",
+      "note": "Détail de sous-face (soffite) isolé, rien ne permet de reconnaître une corniche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fragment antique de corniche à oves et denticules posé sur un support métallique dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Parc Yarkon, Tel Aviv, Israël",
+      "note": "Fragment déposé hors de tout mur : ne montre pas un couronnement de façade, pourrait passer pour une frise."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pointe de toit pagode d'une mosquée surmontée d'un croissant, avant-toit en bois peint.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zharkent, Kazakhstan",
+      "note": "Angle d'avant-toit en charpente, pas une corniche."
+    }
+  ]
+}
