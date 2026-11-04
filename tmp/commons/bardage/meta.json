@@ -1,0 +1,108 @@
+{
+  "terme": {
+    "id": "bardage",
+    "terme": "le bardage",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Revêtement extérieur de façade fait de lames ou de panneaux fixés sur une ossature.",
+    "requetes": [
+      "wooden cladding facade",
+      "bardage bois",
+      "timber siding house"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bike and cladding Træ Sydhavnen Træ office block Southern Harbour Aarhus Denmark.jpg",
+      "description": "Focus on a bike parked, free-standing, on path in front of a section of facade. The facade is wooden casing and picturesquely worn metal cladding. Low greenery in a flower bed borders where the foundation meets the path. This is Træ building at Jægergårdsgade and Kalkværksvej at Sydhavnen - the Southern Harbour quarter, Aarhus, Denmark. It is 20 storeys and 78 metres high. At the time of construction: Denmark's tallest wooden building. Concrete and glass are also used and lots of the material is reused or recycled. It is in three sections. The cladding is very striking, sort of tiled or patchw",
+      "categories": [
+        "Self-published work",
+        "Parked bicycles in Denmark",
+        "Files with coordinates missing SDC location of creation",
+        "Træ (Aarhus)",
+        "Architectural elements in Aarhus"
+      ],
+      "auteur": "Ciara Ní Riain",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bike_and_cladding_Tr%C3%A6_Sydhavnen_Tr%C3%A6_office_block_Southern_Harbour_Aarhus_Denmark.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Bike_and_cladding_Tr%C3%A6_Sydhavnen_Tr%C3%A6_office_block_Southern_Harbour_Aarhus_Denmark.jpg/1280px-Bike_and_cladding_Tr%C3%A6_Sydhavnen_Tr%C3%A6_office_block_Southern_Harbour_Aarhus_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 2296
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Casa Comalat front facade 12.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Casa Comalat (Avinguda Diagonal facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_12.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Casa_Comalat_front_facade_12.JPG/1280px-Casa_Comalat_front_facade_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Casa Comalat front facade 07.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Casa Comalat (Avinguda Diagonal facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_07.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Casa_Comalat_front_facade_07.JPG/1280px-Casa_Comalat_front_facade_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Casa Comalat front facade 06.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Casa Comalat (Avinguda Diagonal facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_06.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Casa_Comalat_front_facade_06.JPG/1280px-Casa_Comalat_front_facade_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Casa Comalat back facade 07.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Casa Comalat (Carrer de Còrsega facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_07.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Casa_Comalat_back_facade_07.JPG/1280px-Casa_Comalat_back_facade_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2553,
+      "hauteur": 1915
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Casa Comalat front facade 13.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Casa Comalat (Avinguda Diagonal facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_13.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Casa_Comalat_front_facade_13.JPG/1280px-Casa_Comalat_front_facade_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    }
+  ]
+}
