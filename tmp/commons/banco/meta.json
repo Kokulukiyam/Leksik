@@ -1,0 +1,122 @@
+{
+  "terme": {
+    "id": "banco",
+    "terme": "le banco",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Terre argileuse mêlée de paille, moulée en briques ou appliquée en enduit dans la construction traditionnelle.",
+    "requetes": [
+      "banco Mali",
+      "mud brick Mali building",
+      "adobe Burkina Faso house"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Banko kanalas 4.jpg",
+      "description": "Banko kanalas",
+      "categories": [
+        "GFDL",
+        "Taken with Pentax K20D",
+        "License migration not eligible",
+        "Banko kanalas",
+        "Self-published work"
+      ],
+      "auteur": "Original uploader was ZwieRys at lt.wikipedia",
+      "licence": "GFDL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banko_kanalas_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Banko_kanalas_4.jpg/1280px-Banko_kanalas_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4672,
+      "hauteur": 3104
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Banko kanalas 3.jpg",
+      "description": "Banko kanalas",
+      "categories": [
+        "GFDL",
+        "Taken with Pentax K20D",
+        "License migration not eligible",
+        "Banko kanalas",
+        "Self-published work"
+      ],
+      "auteur": "ZwieRys sur Wikipédia lituanien",
+      "licence": "GFDL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banko_kanalas_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Banko_kanalas_3.jpg/1280px-Banko_kanalas_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 4672
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Banko kanalas 2.jpg",
+      "description": "Banko kanalas",
+      "categories": [
+        "GFDL",
+        "Taken with Pentax K20D",
+        "License migration not eligible",
+        "Banko kanalas",
+        "Self-published work"
+      ],
+      "auteur": "ZwieRys sur Wikipédia lituanien",
+      "licence": "GFDL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banko_kanalas_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Banko_kanalas_2.jpg/1280px-Banko_kanalas_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 4672
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Banko kanalas 5.jpg",
+      "description": "Banko kanalas",
+      "categories": [
+        "GFDL",
+        "Taken with Pentax K20D",
+        "License migration not eligible",
+        "Banko kanalas",
+        "Self-published work"
+      ],
+      "auteur": "ZwieRys sur Wikipédia lituanien",
+      "licence": "GFDL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banko_kanalas_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Banko_kanalas_5.jpg/1280px-Banko_kanalas_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4672,
+      "hauteur": 3104
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Banko kanalas 2024.jpg",
+      "description": "Banko kanalas",
+      "categories": [
+        "Banko kanalas",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "user:CD",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banko_kanalas_2024.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Banko_kanalas_2024.jpg/1280px-Banko_kanalas_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Banko kanalas 1.jpg",
+      "description": "Banko kanalas",
+      "categories": [
+        "GFDL",
+        "Taken with Pentax K20D",
+        "Rivers of Lithuania",
+        "License migration not eligible",
+        "Banko kanalas",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "ZwieRys sur Wikipédia lituanien",
+      "licence": "GFDL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banko_kanalas_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Banko_kanalas_1.jpg/1280px-Banko_kanalas_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 4672
+    }
+  ]
+}
