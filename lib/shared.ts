@@ -104,6 +104,6 @@ export function rectValide(r: unknown): r is Rect {
   return (
     ok(x) && ok(y) && ok(largeur) && ok(hauteur) &&
     (largeur as number) > 0.01 && (hauteur as number) > 0.01 &&
-    (x as number) + (largeur as number) <= 1.0001 && (y as number) + (hauteur as number) <= 1.0001
+    (x as number) + (largeur as number) <= 1.002 && (y as number) + (hauteur as number) <= 1.002
   );
 }

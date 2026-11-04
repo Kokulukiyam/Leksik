@@ -18,28 +18,36 @@ const filtre = args.filter((a) => !a.startsWith("--"));
 
 const pause = (ms) => new Promise((r) => setTimeout(r, ms));
 
-// Wikimedia limite les clients sans compte à ~10 requêtes/min (API et téléchargements) :
-// toutes les requêtes passent par cet espacement minimal.
-let dernierAppel = 0;
-const INTERVALLE = Number(process.env.INTERVALLE ?? 6500);
+// L'API Commons limite fortement les clients sans compte (environ 10 requêtes/min, davantage de
+// restrictions sur une adresse IP partagée) : les appels à l'API sont espacés et le script attend
+// patiemment le délai « Retry-After » indiqué. Les vignettes (upload.wikimedia.org) sont moins limitées.
+const INTERVALLES = { "commons.wikimedia.org": Number(process.env.INTERVALLE ?? 10000), autre: 1500 };
+const derniers = {};
 
 async function requete(url, type = "json") {
-  for (let essai = 0; essai < 6; essai++) {
-    const attente = dernierAppel + INTERVALLE - Date.now();
+  const hote = new URL(url).hostname in INTERVALLES ? new URL(url).hostname : "autre";
+  let erreurs = 0;
+  // Une vignette refusée plusieurs fois est souvent un original trop lourd à réduire : on passe à la suivante.
+  const essais = type === "json" ? 40 : 3;
+  for (let essai = 0; essai < essais; essai++) {
+    const attente = (derniers[hote] ?? 0) + INTERVALLES[hote] - Date.now();
     if (attente > 0) await pause(attente);
-    dernierAppel = Date.now();
+    derniers[hote] = Date.now();
     try {
-      const rep = await fetch(url, { headers: { "User-Agent": UA } });
+      const rep = await fetch(url, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(30000) });
       const texte = type === "json" ? await rep.text() : null;
       if (rep.status === 429 || (texte && texte.startsWith("You are making too many"))) {
-        await pause(1000 * (Number(rep.headers.get("retry-after")) || 30) + 1000);
+        const delai = Math.min(Number(rep.headers.get("retry-after")) || 30, type === "json" ? 90 : 15);
+        console.error(`  limite de débit (${hote}), nouvel essai dans ${delai} s`);
+        await pause(1000 * delai + 1000);
         continue;
       }
       if (!rep.ok) throw new Error(`HTTP ${rep.status} ${url}`);
       return type === "json" ? JSON.parse(texte) : Buffer.from(await rep.arrayBuffer());
     } catch (e) {
-      if (essai === 5) throw e;
-      await pause(2000 * (essai + 1));
+      console.error(`  erreur réseau (${e.message})`);
+      if (++erreurs >= 5) throw e;
+      await pause(3000 * erreurs);
     }
   }
   throw new Error(`Échec : ${url}`);
@@ -63,7 +71,7 @@ async function rechercher(q) {
     generator: "search",
     gsrsearch: `${q} filetype:bitmap`,
     gsrnamespace: "6",
-    gsrlimit: "25",
+    gsrlimit: "30",
     prop: "imageinfo",
     iiprop: "url|size|mime|extmetadata",
     iiurlwidth: String(LARGEUR),
@@ -102,11 +110,13 @@ async function main() {
     const dossier = path.join(SORTIE, terme.id);
     if (!args.includes("--refaire") && (await fs.stat(path.join(dossier, "meta.json")).catch(() => null))) continue;
     await fs.mkdir(dossier, { recursive: true });
-    // Résultats de chaque requête, puis sélection alternée pour varier les sources.
+    // Requêtes dans l'ordre, jusqu'à avoir assez de candidates (pour économiser les appels à l'API),
+    // puis sélection alternée entre les requêtes pour varier les sources.
     const listes = [];
     for (const q of terme.requetes) {
       const pages = await rechercher(q);
       listes.push(pages.map(candidat).filter(Boolean));
+      if (new Set(listes.flat().map((c) => c.titre)).size >= MAX * 2) break;
     }
     const vus = new Set();
     const retenus = [];
@@ -120,8 +130,11 @@ async function main() {
       }
     }
     const meta = [];
-    for (const [n, c] of retenus.entries()) {
-      const fichier = `${String(n + 1).padStart(2, "0")}.jpg`;
+    // Candidates de réserve si certains téléchargements échouent.
+    const reserve = [...new Map(listes.flat().filter((c) => !vus.has(c.titre)).map((c) => [c.titre, c])).values()];
+    for (const c of [...retenus, ...reserve]) {
+      if (meta.length >= MAX) break;
+      const fichier = `${String(meta.length + 1).padStart(2, "0")}.jpg`;
       try {
         await fs.writeFile(path.join(dossier, fichier), await requete(c.url, "binaire"));
         meta.push({ fichier, ...c });
