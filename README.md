@@ -60,10 +60,22 @@ Pour rechercher de nouvelles candidates (les fichiers vont dans `tmp/commons/`, 
 ```bash
 node scripts/commons.mjs              # tous les termes de scripts/termes-candidats.json
 node scripts/commons.mjs linteau      # un seul terme
+node scripts/commons.mjs --suite banco  # seconde recherche (champ requetes2), ajoute 07.jpg, 08.jpg…
 ```
 
 Derrière un proxy HTTP, préfixer la commande par `NODE_USE_ENV_PROXY=1`. Après vérification,
 `node scripts/integrer.mjs` copie les images retenues et régénère les fichiers JSON et `VERIFICATION.md`.
+
+## Test de bout en bout
+
+`tests/e2e.mjs` joue des parties complètes, ajoute et gère des images avec Playwright, en largeur
+téléphone (390 px) et ordinateur (1280 px). Il remet les données en état à la fin.
+
+```bash
+npx playwright install chromium          # la première fois seulement
+npm run dev > tmp/e2e-server.log 2>&1    # dans un premier terminal
+npm run e2e                              # dans un second terminal
+```
 
 ## Organisation du code
 

@@ -40,3 +40,50 @@ Articles, genres et orthographe vérifiés, rien à corriger :
 4. **Confusions visuelles possibles en Façade** : claustra, brise-soleil, moucharabieh et persienne sont tous des dispositifs ajourés. Les définitions les distinguent, mais à Dakar beaucoup de claustras font office de brise-soleil. Il faut des photos sans ambiguïté.
 5. **Termes de catégories voisines, sans conflit dans le jeu** (les distracteurs viennent de la même catégorie) : corbeau (Structure) / console et modillon (Ornement) ; flèche (Toitures) / pinacle (Ornement) ; œil-de-bœuf (Façade) / rosace (Ornement) ; fronton (Ornement) / tympan (Façade) ; banco (Afrique) / pisé (Matériaux). Les classements sont défendables, je n'ai rien changé.
 6. **Aucun terme à retirer.**
+
+## Relecture des 10 termes de la seconde recherche (4 nov. 2026)
+
+Termes relus : piedroit, balcon, acrotere, souche-de-cheminee, corbeau, bandeau, tole-ondulee, bardage, pise, banco.
+Fichiers modifiés : `scripts/termes-candidats.json` et `data/terms.json` (même texte, définition du banco seulement) ; `lib/shared.ts` (liste `INCOMPATIBLES`).
+
+### Correction de définition (1)
+
+| id | avant | après | raison |
+|---|---|---|---|
+| banco | Terre argileuse mêlée de paille, moulée en briques ou appliquée en enduit dans la construction traditionnelle. | Terre crue argileuse, souvent mêlée de paille, moulée en briques, modelée en murs ou appliquée en enduit dans la construction traditionnelle ouest-africaine. | La paille n'est pas systématique (balle de riz, fibres, ou rien). Le banco est aussi modelé en murs massifs, pas seulement moulé ou enduit. « Crue » le distingue de la brique cuite. |
+
+Les 9 autres définitions sont exactes et claires. Articles et genres vérifiés : le piédroit (« pied-droit » admis), le balcon, l'acrotère (masc.), la souche de cheminée, le corbeau, le bandeau, la tôle ondulée, le bardage, le pisé, le banco. Les catégories sont cohérentes. L'acrotère et la souche sont classés en Toitures, la tôle ondulée en Matériaux avec tuile et ardoise, le corbeau en Structure (il porte une charge), le banco en Afrique de l'Ouest. Aucun doublon d'id ni de terme. Les quasi-doublons sont traités par les paires ci-dessous.
+
+### Paires ajoutées à `INCOMPATIBLES` (9)
+
+| paire | raison |
+|---|---|
+| balcon / garde-corps | Le garde-corps fait partie du balcon (c'est dans la définition). Toute photo de balcon le montre. |
+| balcon / balustre | Beaucoup de balcons sont fermés par une balustrade (c'est le cas de balcon-11). Paire entre deux catégories, elle ne joue qu'en complément. |
+| piedroit / trumeau | Le pan de mur entre deux baies est aussi le piédroit de chacune, et le pilier central d'un portail en est le piédroit commun. |
+| acrotere / garde-corps | Un acrotère maçonné en rive de terrasse a l'aspect d'un garde-corps plein, et sert souvent de garde-corps. |
+| corbeau / modillon | Le modillon est une petite console sous corniche, le corbeau une console porteuse. Sur une photo, la différence tient à l'échelle et à l'usage, ce qui ne se voit pas forcément. |
+| bandeau / corniche | Une corniche peu saillante et peu moulurée se confond avec un bandeau, et les deux apparaissent souvent sur la même façade. |
+| tole-ondulee / bardage | La tôle ondulée sert couramment de bardage (c'est dans sa définition). |
+| pise / banco | Les deux sont des murs en terre crue. Une photo ne permet pas de les départager de façon fiable. |
+| banco / grenier-dogon | Le grenier dogon est un bâtiment en banco (c'est dans sa définition), et banco-12 montre des greniers à l'arrière-plan. |
+
+### Paires envisagées, non retenues
+
+- **pisé / béton brut** : les deux portent la trace du coffrage, mais la couleur et la texture (terre litée contre ciment gris) les distinguent nettement.
+- **piédroit / jambage** : « jambage » n'est pas un terme du jeu.
+- **piédroit / linteau** : l'un est vertical, l'autre horizontal. Le rectangle les sépare.
+- **acrotère / corniche** : ils sont souvent voisins, mais le rectangle les sépare.
+- **bandeau / frise** : les définitions les opposent (lisse contre ornée), et les images retenues sont sans ambiguïté.
+- **banco / toron** : les torons sont fichés dans du banco, mais les rectangles des images de toron cadrent les pièces de bois. Ajouter cette paire ne laisserait au banco que 2 mauvaises réponses dans sa catégorie.
+- **corbeau / toron** : le toron est en saillie, mais il ne porte rien, et son contexte (mosquée en banco) est très reconnaissable.
+
+### Nombre de mauvaises réponses possibles par catégorie
+
+Calculé après application de toutes les paires, avec les mauvaises réponses prises dans la même catégorie. Tous les termes ont une image validée.
+- Façade 17, Ornement 13, Matériaux 12, Structure 11, Toitures 8 : chaque terme garde au moins 10 mauvaises réponses possibles en Façade, Ornement et Matériaux, et au moins 7 en Toitures.
+- Afrique de l'Ouest (5 termes) : banco et grenier dogon en gardent 3 chacun (toron, toguna, case à impluvium et leur autre terme), les trois autres termes 4. C'est juste suffisant : un nouvel incompatible dans cette catégorie forcerait à prendre une mauvaise réponse dans une autre catégorie (`Jeu.tsx` le fait déjà).
+
+### Signalé, non corrigé
+
+- La paire `["case-a-impluvium", "case"]` vise un id `case` qui n'existe plus dans `data/terms.json`. Elle est sans effet, je l'ai laissée telle quelle.

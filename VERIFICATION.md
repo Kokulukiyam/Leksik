@@ -20,7 +20,7 @@ Résultat : 66 termes illustrés, 110 images retenues, 4 termes abandonnés faut
 
 ### le banco — 2 images retenues
 
-*Terre argileuse mêlée de paille, moulée en briques ou appliquée en enduit dans la construction traditionnelle.*
+*Terre crue argileuse, souvent mêlée de paille, moulée en briques, modelée en murs ou appliquée en enduit dans la construction traditionnelle ouest-africaine.*
 
 - **Rejetée** — [Banko kanalas 4.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_4.jpg)
   - Vu : Talus herbeux au bord d'un fossé, en lisière de forêt de bouleaux et d'épicéas.

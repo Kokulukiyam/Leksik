@@ -120,6 +120,15 @@ const INCOMPATIBLES: [string, string][] = [
   ["case-a-impluvium", "case"],
   ["modillon", "corniche"],
   ["chapiteau", "pilastre"],
+  ["balcon", "garde-corps"],
+  ["balcon", "balustre"],
+  ["piedroit", "trumeau"],
+  ["acrotere", "garde-corps"],
+  ["corbeau", "modillon"],
+  ["bandeau", "corniche"],
+  ["tole-ondulee", "bardage"],
+  ["pise", "banco"],
+  ["banco", "grenier-dogon"],
 ];
 
 export function compatibles(a: string, b: string) {

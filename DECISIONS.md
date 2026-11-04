@@ -23,3 +23,7 @@
 - `terms.json` ne contient que les termes illustrés par au moins une image retenue (plus ceux créés depuis Ajouter).
 - Les outils de vérification visuelle (`scripts/verif/outils.py`, planches et rectangles dessinés) utilisent Python/Pillow ; ils ne servent qu'à la préparation du contenu, pas à l'app.
 - Test de bout en bout : `npm run e2e` (`tests/e2e.mjs`) suppose le serveur déjà lancé avec son log dans `tmp/e2e-server.log` ; il passe temporairement `toguna-03` en `refusée`, crée ses photos de test avec sharp et remet `data/` et `public/images/perso/` en état à la fin.
+- Relecture du contenu : ses corrections sont appliquées dans `scripts/termes-candidats.json` (qui fait foi) ; compte rendu dans `scripts/verif/relecture-compte-rendu.md`.
+- Paires incompatibles (`INCOMPATIBLES` dans `lib/shared.ts`) : deux termes qu'une même photo pourrait illustrer (ex. pisé / banco, bandeau / corniche) ne sont jamais proposés ensemble ; si la catégorie n'a plus assez de mauvaises réponses, le jeu complète avec d'autres catégories.
+- Seconde recherche Commons (`--suite`, champ `requetes2`) faite seulement pour les termes abandonnés après la première ; six candidates de plus par terme, mêmes deux vérifications. La contre-vérification ne reçoit que les images pas encore jugées (lot `suite-1`).
+- Next : `turbopack.root` fixé au dossier du projet, pour qu'un `package-lock.json` d'un dossier parent ne soit pas pris pour la racine.
