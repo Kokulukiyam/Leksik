@@ -1,66 +1,63 @@
-# État d'avancement de Leksik
+# État d'avancement de Leksik — À LIRE POUR REPRENDRE
 
-Dernière mise à jour : 4 novembre 2026, 21 h (UTC). Branche : `claude/leksik`.
+Dernière mise à jour : 4 novembre 2026, ~21 h 30 UTC. Branche `claude/leksik`, poussée sur GitHub.
 
-Ordre de travail de `SPEC.md` :
+## Où on en est
 
-| Étape | État |
-|---|---|
-| 1. Structure, données de test, page `/` | ✅ fait |
-| 2. Pages `/ajouter` et `/gerer` | ✅ fait (testé à la main par captures, pas encore par l'agent de test) |
-| 3. Termes, script Commons, première vérification, intégration | 🟡 en cours (voir ci-dessous) |
-| 4. Contre-vérification des images + relecture du contenu | 🟡 contre-vérif faite pour 4 catégories sur 6 ; relecture du contenu à faire |
-| 5. Agent de test de bout en bout + corrections | ⬜ à faire |
-| 6. README et rapport final | 🟡 README écrit (à relire à la fin), rapport final à faire |
+- **App fonctionnelle** : `npm install && npm run dev`, puis http://localhost:3000. Les pages Jouer, Ajouter et Gérer sont faites.
+- **Contenu du jeu** : 56 termes et 96 images Commons, chacune validée par les deux vérifications.
+  Façade 15/29 · Toitures 6/10 · Matériaux 9/16 · Structure 10/16 · Ornement 12/19 · Afrique de l'Ouest 4/6 (termes/images).
+- **Relecture du contenu** : faite et appliquée (compte rendu : `scripts/verif/relecture-compte-rendu.md`).
+  - « la case » est renommée « la case ronde ».
+  - Des paires de termes ne sont jamais proposées ensemble : liste `INCOMPATIBLES` dans `lib/shared.ts`.
+- **Termes abandonnés pour l'instant** : piédroit, chambranle, balcon, acrotère, croupe, souche de cheminée, corbeau,
+  bandeau, console, tôle ondulée, bardage, pisé, banco, case ronde.
 
-## Étape 3–4 en détail
+## À faire, dans l'ordre
 
-69 termes proposés dans `scripts/termes-candidats.json` (source de vérité des termes : `integrer.mjs` en reprend
-terme, définition et catégorie).
+### 1. Test de bout en bout (obligatoire, SPEC.md)
 
-- **Téléchargement principal** : ✅ terminé pour les 69 termes.
-- **Première vérification** (`tmp/verif/premiere/`) : ✅ faite pour les 63 termes hors Afrique de l'Ouest ;
-  Afrique de l'Ouest en cours (si `tmp/verif/premiere/banco.json` etc. manquent, la refaire).
-- **Contre-vérification** (`tmp/verif/contre/`) : ✅ Façade, Toitures, Structure, Ornement, Matériaux.
-  Reste : Afrique de l'Ouest.
-- **Intégration** : 52 termes, 90 images dans le jeu (avant Afrique de l'Ouest et seconde recherche).
-- **Seconde recherche** (`node scripts/commons.mjs --suite`, log `tmp/commons-suite.log`) : en cours pour les
-  termes qui ont un champ `requetes2` (sans image ou avec une seule). Si elle a été interrompue, la relancer telle
-  quelle : les termes déjà traités (`"suite": true` dans leur `meta.json`) sont sautés.
-  Ensuite : première vérification des candidates 07+ (en AJOUTANT les entrées au JSON du terme), puis
-  contre-vérification des nouvelles validées (lot séparé, ex. `tmp/verif/contre/suite-*.json`), puis `integrer.mjs`.
-- **Relecture du contenu** : agent lancé sur `scripts/termes-candidats.json` (compte rendu prévu dans
-  `tmp/verif/relecture.md`). À refaire passer après corrections, puis relancer `integrer.mjs`.
+Pas encore fait : il a été arrêté avant d'avoir produit quoi que ce soit. Prompt d'agent à utiliser :
 
-## Comment lancer les agents (prompts utilisés)
+> Agent de test de bout en bout de Leksik. Lis SPEC.md (sections « Pages » et « Agent de test de bout en bout ») et CLAUDE.md.
+> Écris `tests/e2e.mjs`, un script Playwright pour 390×844 et 1280×860, avec le serveur sur http://localhost:3000. Il couvre :
+> - une partie complète dans « Toutes » et dans chaque catégorie, avec des réponses justes et fausses, l'écran de fin et « Revoir mes erreurs » ;
+> - aucune image cassée ni `refusée` en partie (en créer une `refusée` pour le test) ;
+> - 4 mots distincts, la bonne réponse toujours présente, le vert et le rouge, la définition, le crédit ;
+> - `/ajouter` avec un terme existant puis un nouveau terme, avec et sans rectangle, et la suggestion « menau » → « le meneau » ;
+>   vérifier data/*.json et public/images/perso/ (WebP de 1600 px de large au maximum) ;
+> - `/gerer` : filtres, modification du terme et du rectangle, refus, suppression ;
+> - aucune erreur dans la console ni dans le log du serveur.
+>
+> Le script sauvegarde data/*.json au début et remet tout en état à la fin. Corrige les bugs et relance jusqu'à zéro erreur.
 
-Première vérification (un agent par lot de 5–6 termes) :
-> Tu fais la première vérification d'images candidates pour l'app Leksik (repo <chemin>). Lis d'abord les consignes
-> complètes dans scripts/verif/consignes-premiere.md et suis-les à la lettre. Termes qui te sont confiés : <ids>.
-> Regarde réellement chaque image (outil Read sur les fichiers produits par scripts/verif/outils.py). Écris un fichier
-> tmp/verif/premiere/<termId>.json par terme. Ne modifie aucun autre fichier.
+Si Playwright manque : `npm i -D playwright && npx playwright install chromium`, et noter ce choix dans DECISIONS.md.
 
-Contre-vérification (un agent neuf par catégorie, après `python3 scripts/verif/preparer_contre.py <ids>`) :
-> Tu es l'agent de contre-vérification indépendante des images de l'app Leksik. Lis les consignes dans
-> scripts/verif/consignes-contre.md. Lot : tmp/verif/contre-lots/<cat>.json. Sortie : tmp/verif/contre/<cat>.json.
-> Ne consulte que le lot et les images qu'il désigne (pas tmp/verif/premiere/ ni les meta.json). Ne modifie aucun autre fichier.
+### 2. Seconde recherche d'images (facultative)
 
-Attention : `preparer_contre.py` refait le lot de TOUTES les images validées des termes donnés. Pour un lot
-complémentaire (seconde recherche), lui passer uniquement les termes concernés puis renommer le lot et la sortie
-(ex. `facade-2.json`) pour ne pas écraser les résultats existants ; les clés déjà contrôlées peuvent être retirées du lot.
+Elle vise les termes qui ont un champ `requetes2` dans `scripts/termes-candidats.json`.
 
-## Reste à faire ensuite
+- **Termes déjà téléchargés** (candidates 07+, `"suite": true` dans le `meta.json`) : piedroit, chambranle, balcon.
+  Leur première vérification a été **interrompue** : compléter les entrées 07+ manquantes dans `tmp/verif/premiere/<id>.json`,
+  sans toucher aux entrées 01–06.
+- **Termes restants** : `node scripts/commons.mjs --suite`. Les termes déjà faits sont sautés. Derrière un proxy, ajouter `NODE_USE_ENV_PROXY=1`.
+  L'API Commons est lente (2 à 5 min par terme).
+- **Ensuite, pour chaque lot :**
+  1. Première vérification par un agent, avec les consignes de `scripts/verif/consignes-premiere.md`. Préciser dans le prompt :
+     seules les candidates 07+ sont nouvelles, il faut les ajouter au JSON, avec au plus 3 validées par terme.
+  2. Contre-vérification par un agent DIFFÉRENT. Lancer `python3 scripts/verif/preparer_contre.py <ids>`, puis suivre `scripts/verif/consignes-contre.md`.
+     Le lot reprend aussi les anciennes validées : renommer la sortie (ex. `tmp/verif/contre/suite-1.json`) pour ne rien écraser.
+  3. Lancer `node scripts/integrer.mjs`.
 
-1. Agent de relecture du contenu (`data/terms.json`) : exactitude des définitions, article et genre, catégorie,
-   doublons, au moins 4 termes par catégorie (3 mauvaises réponses plausibles). Corriger, puis le refaire passer.
-   Les corrections de définitions doivent aussi être reportées dans `scripts/termes-candidats.json`.
-2. Agent de test de bout en bout (Playwright, 390 px et ordinateur) selon la section « Contrôle par agents » de
-   `SPEC.md` ; corriger chaque bug et relancer jusqu'à zéro erreur ; supprimer les données de test.
-3. Mettre à jour `README.md`, `DECISIONS.md`, vérifier `VERIFICATION.md`, rapport final.
+### 3. Finitions
 
-## Notes
+- Relire README.md et VERIFICATION.md.
+- Compléter DECISIONS.md : relecture, `INCOMPATIBLES`, seconde recherche.
+- Écrire le rapport final (SPEC.md « Livraison »), puis committer et pousser.
 
-- Les images candidates (`tmp/commons/*/NN.jpg`) ne sont pas versionnées ; `scripts/integrer.mjs` les retélécharge
-  depuis Commons au besoin. Les images retenues sont, elles, dans `public/images/commons/`.
-- `data/` est régénéré par `scripts/integrer.mjs` ; les modifications faites depuis `/gerer` sur des images
-  existantes sont conservées, et les photos perso aussi.
+## Rappels
+
+- `scripts/termes-candidats.json` fait foi pour les termes ; `node scripts/integrer.mjs` régénère `data/`, `public/images/commons/` et `VERIFICATION.md`.
+- Ne pas lancer `integrer.mjs` pendant le test de bout en bout : les deux écrivent dans `data/`.
+- Les photos candidates `tmp/commons/*/NN.jpg` ne sont pas versionnées, seuls les `meta.json` le sont.
+  Pour revérifier un terme, retélécharger chaque `url` de son `meta.json` vers son `fichier`.
