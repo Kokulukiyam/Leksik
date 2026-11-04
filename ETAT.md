@@ -1,6 +1,6 @@
 # État d'avancement de Leksik
 
-Dernière mise à jour : 4 novembre 2026, 20 h (UTC). Branche : `claude/leksik`.
+Dernière mise à jour : 4 novembre 2026, 21 h (UTC). Branche : `claude/leksik`.
 
 Ordre de travail de `SPEC.md` :
 
@@ -15,24 +15,23 @@ Ordre de travail de `SPEC.md` :
 
 ## Étape 3–4 en détail
 
-69 termes proposés dans `scripts/termes-candidats.json`.
+69 termes proposés dans `scripts/termes-candidats.json` (source de vérité des termes : `integrer.mjs` en reprend
+terme, définition et catégorie).
 
-- **Téléchargement des candidates** (`scripts/commons.mjs`) : fait pour les catégories Façade, Toitures, Structure,
-  Ornement et une partie de Matériaux. Restent : tuile → pisé (Matériaux) et toute la catégorie Afrique de l'Ouest.
-  Relancer simplement `node scripts/commons.mjs` : il saute les termes qui ont déjà un `meta.json`.
-- **Première vérification** (`tmp/verif/premiere/`) : faite pour Façade, Toitures, Structure, Ornement, et pour
-  brique, parpaing, pierre-de-taille, moellon, beton-brut. Restent : tuile, ardoise, tole-ondulee, carreau-de-ciment,
-  bardage, pise, et les 6 termes d'Afrique de l'Ouest.
-- **Contre-vérification** (`tmp/verif/contre/`) : faite pour Façade (29/30 accords), Toitures (11/13), Structure (16/17),
-  Ornement (19/22). Restent : Matériaux et Afrique de l'Ouest.
-- **Seconde recherche** (`node scripts/commons.mjs --suite`, requêtes `requetes2` déjà écrites) pour les termes sans
-  image ou avec une seule : piedroit, chambranle, balcon, acrotere, croupe, souche-de-cheminee, corbeau, console,
-  bandeau, modillon, gouttiere, brise-soleil, colonne, arc-boutant, contrefort, voute, corniche, pilastre,
-  lanterneau, chaume, gargouille, frise, pinacle. À lancer quand le téléchargement principal est fini, puis
-  première vérification des nouvelles candidates (07.jpg et suivantes, en AJOUTANT des entrées au JSON existant
-  du terme), puis contre-vérification de celles validées (lot séparé, nouveau fichier dans `tmp/verif/contre/`).
-- **Intégration** : `node scripts/integrer.mjs` a déjà été lancé. 44 termes et 75 images sont dans le jeu
-  (`data/`, `public/images/commons/`). À relancer après chaque nouvelle contre-vérification.
+- **Téléchargement principal** : ✅ terminé pour les 69 termes.
+- **Première vérification** (`tmp/verif/premiere/`) : ✅ faite pour les 63 termes hors Afrique de l'Ouest ;
+  Afrique de l'Ouest en cours (si `tmp/verif/premiere/banco.json` etc. manquent, la refaire).
+- **Contre-vérification** (`tmp/verif/contre/`) : ✅ Façade, Toitures, Structure, Ornement, Matériaux.
+  Reste : Afrique de l'Ouest.
+- **Intégration** : 52 termes, 90 images dans le jeu (avant Afrique de l'Ouest et seconde recherche).
+- **Seconde recherche** (`node scripts/commons.mjs --suite`, log `tmp/commons-suite.log`) : en cours pour les
+  termes qui ont un champ `requetes2` (sans image ou avec une seule). Si elle a été interrompue, la relancer :
+  elle saute… NON, elle ne saute pas les termes déjà complétés — vérifier dans chaque `meta.json` s'il y a déjà
+  des candidates 07+ et ne la relancer que pour les termes qui n'en ont pas (`node scripts/commons.mjs --suite <ids>`).
+  Ensuite : première vérification des candidates 07+ (en AJOUTANT les entrées au JSON du terme), puis
+  contre-vérification des nouvelles validées (lot séparé, ex. `tmp/verif/contre/suite-*.json`), puis `integrer.mjs`.
+- **Relecture du contenu** : agent lancé sur `scripts/termes-candidats.json` (compte rendu prévu dans
+  `tmp/verif/relecture.md`). À refaire passer après corrections, puis relancer `integrer.mjs`.
 
 ## Comment lancer les agents (prompts utilisés)
 

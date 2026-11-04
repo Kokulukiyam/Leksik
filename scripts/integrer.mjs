@@ -105,8 +105,8 @@ const perso = imagesActuelles.filter((i) => i.source === "perso");
 const idsUtiles = new Set([...imagesCommons.map((i) => i.termId), ...perso.map((i) => i.termId)]);
 const terms = [];
 for (const t of candidats) {
-  const actuel = termsActuels.find((x) => x.id === t.id);
-  if (idsUtiles.has(t.id)) terms.push(actuel ?? { id: t.id, terme: t.terme, definition: t.definition, categorie: t.categorie });
+  // scripts/termes-candidats.json fait foi pour les termes de départ (corrections de relecture comprises).
+  if (idsUtiles.has(t.id)) terms.push({ id: t.id, terme: t.terme, definition: t.definition, categorie: t.categorie });
 }
 for (const t of termsActuels) if (idsUtiles.has(t.id) && !terms.some((x) => x.id === t.id)) terms.push(t);
 
