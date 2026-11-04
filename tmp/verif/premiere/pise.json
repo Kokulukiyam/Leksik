@@ -1,0 +1,53 @@
+{
+  "termId": "pise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Passage couvert blanchi à la chaux dans la vieille ville, homme en tenue blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ghadamès, Libye",
+      "note": "Murs enduits et blanchis : matériau invisible, pisé seulement affirmé par la légende."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur enduit de terre clair avec poutres saillantes, botte de paille et cordes suspendues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "District d'Umaria, Madhya Pradesh, Inde",
+      "note": "Mur enduit, aucune trace de banchées ; catégorie « Adobe » : pisé non vérifiable, confusion avec terre crue."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même type de mur enduit de terre clair, étagère en bois, bottes de paille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "District d'Umaria, Madhya Pradesh, Inde",
+      "note": "Mur enduit sans couches de compactage visibles ; pisé non démontré."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de maison enduit en partie haute, avec en bas une bande de terre à cailloux décroûtée au-dessus d'un soubassement de galets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chassignieu, Isère, France",
+      "note": "Pisé seulement visible sur une bande dégradée, sans lits de banchée lisibles ; ambigu avec terre crue et galets/moellons."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Surface plane de terre rougeâtre compactée juste après décoffrage, avec de légères strates horizontales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dindigul, Inde",
+      "note": "Bien du pisé, mais strates à peine perceptibles : sur téléphone, surface brune uniforme, confusion possible avec terre crue ou béton."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Muraille de château avec maçonnerie de moellons en premier plan et grand mur à décor de faux appareil au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Castell de Xivert, Espagne",
+      "note": "Tapial à chaux décoré en imitation de pierre de taille, moellons dominants : confusion forte."
+    }
+  ]
+}

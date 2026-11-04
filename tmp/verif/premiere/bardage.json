@@ -1,0 +1,53 @@
+{
+  "termId": "bardage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade faite de tôles ondulées métalliques usées entre des panneaux de bois, vélo garé devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aarhus, Danemark",
+      "note": "Le revêtement visible est de la tôle ondulée : confusion directe avec le terme « tôle ondulée »."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade moderniste ornée en pierre de la Casa Comalat, fenêtres ondulées et balcons en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Façade en pierre sculptée, aucun bardage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte d'entrée en bois sculpté dans un encadrement de pierre moderniste.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Pierre de taille et menuiserie, aucun bardage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Balcon-tribune en pierre sculptée aux formes organiques avec vitraux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Pierre sculptée, aucun bardage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan d'un revêtement en trencadís (mosaïque de céramique brisée) sur une surface ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Mosaïque de céramique, pas un bardage de lames ou panneaux."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vue d'ensemble de la façade moderniste en pierre de la Casa Comalat avec balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Façade en pierre, aucun bardage."
+    }
+  ]
+}

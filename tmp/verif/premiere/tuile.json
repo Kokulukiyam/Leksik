@@ -1,0 +1,63 @@
+{
+  "termId": "tuile",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Main décollant une bande d'étanchéité de faîtage sous une tuile faîtière, gros plan sur un joint.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Grythengen, Norvège",
+      "note": "Sujet = la bande d'étanchéité et la main, pas la tuile ; lecture confuse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan de tuiles mécaniques en terre cuite vieillies, à emboîtement, posées en recouvrement.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuiles nettes et dominantes, relief et recouvrement bien lisibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tas de débris de tuiles rouges dans l'herbe au bord d'une baie, village au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Canada",
+      "note": "Fragments petits et en tas, pas de toiture : l'élément n'est pas identifiable sur téléphone."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Versant de toit couvert de vieilles tuiles creuses en terre cuite sous un grand ciel bleu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0,
+        "y": 0.62,
+        "largeur": 1,
+        "hauteur": 0.38
+      },
+      "lieu": "Toten, Norvège",
+      "note": "Tuiles canal bien caractérisées ; rectangle sur la couverture car le ciel occupe 60 % de l'image."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Petit pavillon couvert de tuiles mécaniques orange neuves, mur de briques en dessous et enseigne « MERSEILLE ».",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0,
+        "y": 0.08,
+        "largeur": 1,
+        "hauteur": 0.48
+      },
+      "lieu": "",
+      "note": "Tuiles mécaniques (type Marseille) très nettes ; rectangle nécessaire pour exclure les briques du mur ; l'enseigne ne donne pas le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Couvreurs posant des plaques métalliques imitant la tuile sur un toit bâché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "« Dachpfannenprofil Nordblech » : tôle profilée façon tuile, pas de la tuile ; confusion avec la tôle."
+    }
+  ]
+}

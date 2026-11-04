@@ -1,0 +1,63 @@
+{
+  "termId": "tole-ondulee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petite échoppe sur pilotis de bois couverte d'un toit en tôle ondulée rouillée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.05,
+        "y": 0.05,
+        "largeur": 0.89,
+        "hauteur": 0.29
+      },
+      "lieu": "Don Khon, Laos",
+      "note": "Ondulations bien lisibles sur toute la couverture ; rectangle pour isoler la toiture du reste de la scène."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'un égout de toit en tôle ondulée rouillée au-dessus d'un mur en planches.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "largeur": 1,
+        "hauteur": 0.86
+      },
+      "lieu": "Loddebo, Lysekil, Suède",
+      "note": "Ondulations régulières très nettes ; rectangle pour écarter le bardage bois en dessous."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même cabane : angle de toit en tôle ondulée rouillée, grand mur de planches verticales en dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Loddebo, Lysekil, Suède",
+      "note": "Quasi doublon de 02, et le bardage bois domine la moitié basse de l'image."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Débord de toit en bac acier trapézoïdal gris au-dessus d'un mur en planches jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tuntorp, Brastad, Suède",
+      "note": "Profil nervuré trapézoïdal (bac acier), pas une ondulation sinusoïdale ; bardage bois dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grange en briques en ruine avec un appentis couvert de tôle verte, chemin et promeneurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gunthorpe, Nottinghamshire, Royaume-Uni",
+      "note": "Tôle petite et lointaine, briques au premier plan : élément trop peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sous-face d'un abri de bus la nuit, tube fluorescent et panneaux de plafond colorés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Huwei, Taïwan",
+      "note": "Vue de dessous sombre, ondulations non lisibles."
+    }
+  ]
+}

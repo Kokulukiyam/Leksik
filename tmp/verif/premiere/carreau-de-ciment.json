@@ -1,0 +1,58 @@
+{
+  "termId": "carreau-de-ciment",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sol de carreaux de ciment à motifs bordeaux et blancs avec frise, pieds du photographe et porte au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tunis, Tunisie",
+      "note": "Carreaux corrects mais pieds et porte parasitent la photo ; 02 et 03 sont meilleures."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol de carreaux de ciment à croix vertes et rouges avec frises, base d'un escalier en marbre à gauche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.18,
+        "largeur": 0.6,
+        "hauteur": 0.72
+      },
+      "lieu": "Tunis, Tunisie",
+      "note": "Motifs et joints des carreaux bien lisibles ; rectangle pour exclure le marbre de l'escalier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan de carreaux de ciment gris et noirs à rosaces étoilées et bordure en grecque.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Tunis, Tunisie",
+      "note": "Carreaux de ciment typiques, nets et dominants, joints visibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Sol de carreaux de ciment à fleurs avec frise, tapis et pieds en chaussettes en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tunis, Tunisie",
+      "note": "Tapis et pieds au premier plan ; redondant avec 02."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Seuil de porte tagué avec une contremarche usée garnie de carreaux à motifs, trottoir en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Perpignan, France",
+      "note": "Carreaux petits et usés, graffitis dominants : élément peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Montage de quatre photos de carreaux de ciment différents, avec bordures blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montauban, France",
+      "note": "Collage de plusieurs photos (image retouchée), pas une photo unique."
+    }
+  ]
+}

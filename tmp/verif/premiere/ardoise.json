@@ -1,0 +1,58 @@
+{
+  "termId": "ardoise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Église et monastère en pierre couverts de grandes dalles de pierre grise, maisons à toits de tuiles autour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Malovište, Macédoine du Nord",
+      "note": "Dalles de pierre épaisses (lauzes) plutôt qu'ardoise fine, vue lointaine, tuiles présentes : ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maison victorienne à clins blancs avec tourelle conique couverte d'ardoises en écailles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ijamsville, Maryland, États-Unis",
+      "note": "Ardoise de la tourelle trop petite et claire, peu lisible ; façade en bardage à clins (confusion)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ruelle de village tessinois, maison au toit de dalles de pierre peu visible, palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cavigliano, Suisse",
+      "note": "Toiture minuscule et à contre-jour ; dalles de gneiss (piode) plutôt qu'ardoise."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan en contre-plongée d'un pan de toit couvert d'ardoises rectangulaires fixées au crochet, ciel bleu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0,
+        "y": 0.3,
+        "largeur": 0.78,
+        "hauteur": 0.7
+      },
+      "lieu": "",
+      "note": "Ardoises fines au crochet, très caractéristiques ; rectangle pour exclure le ciel et le bout de brique à droite."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Croix métallique en contre-jour sur un faîtage de dalles de pierre, montagnes enneigées au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tegna, Suisse",
+      "note": "Sujet = la croix ; dalles épaisses de gneiss (lauzes), pas de l'ardoise fine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petite chapelle votive avec fresque, toit de grosses dalles de pierre, vélo devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tegna, Suisse",
+      "note": "Toiture en dalles de gneiss épaisses (lauze), petite dans l'image ; pas une ardoise caractéristique."
+    }
+  ]
+}
