@@ -1,0 +1,53 @@
+{
+  "termId": "ciment",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Soldats portant un sac de ciment sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Honduras",
+      "note": "Sac en papier peu lisible, scène avec personnes ; ciment pas visible comme matière."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Liasse de billets confédérés nouée d'un ruban rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet (red tape)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Soldats se passant des sacs sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ciment non identifiable clairement."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bouquet d'oignons nouveaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Soldats et sacs sur un tas de poudre grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène confuse, ciment pas clair."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Billet confédéré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

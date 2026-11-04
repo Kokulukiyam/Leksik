@@ -7,7 +7,7 @@ Chaque image candidate venue de Wikimedia Commons a été examinée deux fois :
 
 Une image n'est retenue que si les deux vérifications la valident.
 
-Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés faute d'image fiable, 872 termes pas encore traités.
+Résultat : 110 termes illustrés, 175 images retenues, 75 termes abandonnés faute d'image fiable, 797 termes pas encore traités.
 
 ## Termes abandonnés
 
@@ -16,10 +16,12 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
 - la console (Ornement)
 - la case ronde (Afrique de l'Ouest)
 - l'échafaudage en bois (Chantier et outillage)
+- l'échelle (Chantier et outillage)
 - l'étai (Chantier et outillage)
 - l'étai métallique (Chantier et outillage)
 - l'étai en bois (Chantier et outillage)
 - le coffrage bois (Chantier et outillage)
+- le coffrage de dalle (Chantier et outillage)
 - la bétonnière (Chantier et outillage)
 - la taloche (Chantier et outillage)
 - le seau de maçon (Chantier et outillage)
@@ -30,13 +32,60 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
 - le piquet (Chantier et outillage)
 - le trottoir (Extérieurs et voirie)
 - le caniveau (Extérieurs et voirie)
+- l'enrobé (Extérieurs et voirie)
+- le regard (Extérieurs et voirie)
+- l'avaloir (Extérieurs et voirie)
+- la fosse septique (Extérieurs et voirie)
+- le muret (Extérieurs et voirie)
+- la baie (Façade et ouvertures)
+- le tableau de baie (Façade et ouvertures)
+- le seuil (Façade et ouvertures)
+- la casquette (Façade et ouvertures)
+- l'auvent (Façade et ouvertures)
+- la loggia (Façade et ouvertures)
+- le soubassement (Façade et ouvertures)
+- l'encadrement de baie (Façade et ouvertures)
+- le garde-corps à barreaudage (Façade et ouvertures)
+- le garde-corps maçonné (Façade et ouvertures)
+- la toiture (Toitures)
+- la toiture-terrasse (Toitures)
+- le toit monopente (Toitures)
+- l'avant-toit (Toitures)
+- la panne (Toitures)
 - le bac acier (Toitures)
+- la plaque translucide (Toitures)
 - la gargouille de terrasse (Toitures)
 - le relevé d'étanchéité (Toitures)
+- la fondation (Gros œuvre et maçonnerie)
+- la semelle filante (Gros œuvre et maçonnerie)
+- la semelle isolée (Gros œuvre et maçonnerie)
+- le béton de propreté (Gros œuvre et maçonnerie)
 - le hérisson (Gros œuvre et maçonnerie)
+- le fer à béton (Gros œuvre et maçonnerie)
+- le cadre d'armature (Gros œuvre et maçonnerie)
 - l'armature en attente (Gros œuvre et maçonnerie)
+- le hourdis (Gros œuvre et maçonnerie)
 - la poutrelle (Gros œuvre et maçonnerie)
 - le chaînage (Gros œuvre et maçonnerie)
+- le chaînage horizontal (Gros œuvre et maçonnerie)
+- le chaînage vertical (Gros œuvre et maçonnerie)
+- le linteau coulé en place (Gros œuvre et maçonnerie)
+- la maçonnerie (Gros œuvre et maçonnerie)
+- le mur de remplissage (Gros œuvre et maçonnerie)
+- le mortier (Gros œuvre et maçonnerie)
+- le dallage (Gros œuvre et maçonnerie)
+- la chape (Gros œuvre et maçonnerie)
+- le ciment (Gros œuvre et maçonnerie)
+- le gravier (Gros œuvre et maçonnerie)
+- le poteau (Structure)
+- la dalle (Structure)
+- le plancher à corps creux (Structure)
+- le portique (Structure)
+- l'ossature en béton armé (Structure)
+- le poteau métallique (Structure)
+- le profilé en I (Structure)
+- la cornière (Structure)
+- la retombée de poutre (Structure)
 
 ## Afrique de l'Ouest
 
@@ -264,7 +313,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
 
 ## Chantier et outillage
 
-### l'échafaudage — abandonné (vérification en cours)
+### l'échafaudage — 2 images retenues
 
 *Structure provisoire de montants, traverses et planchers dressée contre un ouvrage pour permettre de travailler en hauteur.*
 
@@ -272,14 +321,14 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vu : Façade en brique d'un bâtiment, échafaudage masqué par une bâche imprimée.
   - Vérification : rejetée — Échafaudage non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [St Andrew's Cathedral, Wells, with scaffolding - geograph.org.uk - 7053762.jpg](https://commons.wikimedia.org/wiki/File:St_Andrew%27s_Cathedral,_Wells,_with_scaffolding_-_geograph.org.uk_-_7053762.jpg)
+- **Retenue** — [St Andrew's Cathedral, Wells, with scaffolding - geograph.org.uk - 7053762.jpg](https://commons.wikimedia.org/wiki/File:St_Andrew%27s_Cathedral,_Wells,_with_scaffolding_-_geograph.org.uk_-_7053762.jpg)
   - Vu : Échafaudage tubulaire bâché dressé sur la façade centrale d'une cathédrale.
   - Vérification : validée (avec rectangle) — Échafaudage net et dominant ; le tubulaire est un terme incompatible, donc acceptable ; rectangle car la cathédrale domine.
-  - Contre-vérification : —
-- **Rejetée** — [Scaffolding on the Minster, Minster Yard, York - geograph.org.uk - 8293971.jpg](https://commons.wikimedia.org/wiki/File:Scaffolding_on_the_Minster,_Minster_Yard,_York_-_geograph.org.uk_-_8293971.jpg)
+  - Contre-vérification : d'accord — Échafaudage tubulaire bâché dressé contre la tour centrale d'une cathédrale, bien cadré par le rectangle ; terme générique juste.
+- **Retenue** — [Scaffolding on the Minster, Minster Yard, York - geograph.org.uk - 8293971.jpg](https://commons.wikimedia.org/wiki/File:Scaffolding_on_the_Minster,_Minster_Yard,_York_-_geograph.org.uk_-_8293971.jpg)
   - Vu : Vaste échafaudage tubulaire couvrant le flanc d'une cathédrale.
   - Vérification : validée (avec rectangle) — Échafaudage typique, clair ; tubulaire incompatible donc acceptable.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Vaste échafaudage de tubes et planchers contre le flanc d'une cathédrale, dominant dans le rectangle.
 - **Rejetée** — [HK 上環 Sheung Wan 差館上街 Upper Station Street 荷李活大樓 Hollywood Building facade 竹棚架 鷹架 bamboo scaffolding decoration August 2017 IX1 01.jpg](https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E5%B7%AE%E9%A4%A8%E4%B8%8A%E8%A1%97_Upper_Station_Street_%E8%8D%B7%E6%9D%8E%E6%B4%BB%E5%A4%A7%E6%A8%93_Hollywood_Building_facade_%E7%AB%B9%E6%A3%9A%E6%9E%B6_%E9%B7%B9%E6%9E%B6_bamboo_scaffolding_decoration_August_2017_IX1_01.jpg)
   - Vu : Façade d'immeuble couverte d'échafaudage en bambou.
   - Vérification : rejetée — Bambou : illustre l'échafaudage en bambou, voisin.
@@ -322,7 +371,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vérification : rejetée — Échafaudage en bois non identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### l'échelle — abandonné (vérification en cours)
+### l'échelle — abandonné
 
 *Appareil portatif formé de deux montants reliés par des barreaux, appuyé contre un ouvrage pour monter.*
 
@@ -349,7 +398,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
 - **Rejetée** — [EFTA00000635 - Construction site with blue scaffolding an orange ladder and plastic sheeting covering the walls.jpg](https://commons.wikimedia.org/wiki/File:EFTA00000635_-_Construction_site_with_blue_scaffolding_an_orange_ladder_and_plastic_sheeting_covering_the_walls.jpg)
   - Vu : Échelle double orange dressée au centre d'une pièce, entre des cadres d'échafaudage bleus.
   - Vérification : validée (avec rectangle) — Échelle claire, rectangle nécessaire à cause des cadres d'échafaudage autour ; échelle double plutôt qu'appuyée, mais lisible.
-  - Contre-vérification : —
+  - Contre-vérification : pas d'accord — L'objet désigné est un escabeau autoportant, pas une échelle appuyée contre un ouvrage ; entouré d'échafaudages à cadres qui brouillent la lecture.
 
 ### l'étai — abandonné
 
@@ -418,7 +467,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vérification : rejetée — Gravure, hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le coffrage — abandonné (vérification en cours)
+### le coffrage — 2 images retenues
 
 *Moule provisoire, en bois ou en métal, dans lequel on coule le béton pour lui donner sa forme.*
 
@@ -430,10 +479,10 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vu : Longue paroi de coffrage métallique rouge et caisson noir sur un chantier.
   - Vérification : rejetée — Banche/coffrage métallique, ambigu et petit.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Formwork for concrete stair.JPG](https://commons.wikimedia.org/wiki/File:Formwork_for_concrete_stair.JPG)
+- **Retenue** — [Formwork for concrete stair.JPG](https://commons.wikimedia.org/wiki/File:Formwork_for_concrete_stair.JPG)
   - Vu : Coffrage en planches autour d'une marche en béton devant une porte.
   - Vérification : validée (avec rectangle) — Moule de béton clair et lisible ; coffrage bois incompatible donc acceptable.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Planches de coffrage bois autour d'une marche en béton fraîchement coulée devant une boutique ; moule provisoire lisible.
 - **Rejetée** — [Installation Russian Mobil Formwork System Stalform for underground construction 01.jpg](https://commons.wikimedia.org/wiki/File:Installation_Russian_Mobil_Formwork_System_Stalform_for_underground_construction_01.jpg)
   - Vu : Coffrages métalliques bleus mobiles sur étaiement dans une tranchée de métro.
   - Vérification : rejetée — Coffrage métallique/tour d'étaiement : ambigu.
@@ -442,10 +491,10 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vu : Intérieur de tunnel avec coffrage mobile bleu.
   - Vérification : rejetée — Coffrage métallique mobile, trop complexe.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Engineered Formwork System for cut and cover construction method. Механизированная опалубка свода.jpg](https://commons.wikimedia.org/wiki/File:Engineered_Formwork_System_for_cut_and_cover_construction_method._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D1%81%D0%B2%D0%BE%D0%B4%D0%B0.jpg)
+- **Retenue** — [Engineered Formwork System for cut and cover construction method. Механизированная опалубка свода.jpg](https://commons.wikimedia.org/wiki/File:Engineered_Formwork_System_for_cut_and_cover_construction_method._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D1%81%D0%B2%D0%BE%D0%B4%D0%B0.jpg)
   - Vu : Coffrage métallique cintré de voûte posé dans une tranchée de métro, ouvrier au fond.
   - Vérification : validée — Moule de voûte béton clair ; coffrage métallique incompatible donc acceptable.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Grand coffrage métallique cintré d'un ouvrage enterré, armatures à côté ; c'est bien un moule provisoire pour béton.
 
 ### le coffrage bois — abandonné
 
@@ -476,7 +525,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vérification : rejetée — Pas un coffrage.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le coffrage de poteau — abandonné (vérification en cours)
+### le coffrage de poteau — 1 image retenue
 
 *Caisson vertical, souvent carré, monté autour des armatures d'un poteau avant d'y couler le béton.*
 
@@ -492,20 +541,20 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vu : Ouvriers autour d'un poteau ferraillé ; panneau de coffrage appuyé contre un poteau.
   - Vérification : rejetée — Coffrage pas encore monté, panneau secondaire : ambigu.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Carpenters continue to install formwork around existing columns in the concourse. (CM014B, 1-03-2018) (25706275198).jpg](https://commons.wikimedia.org/wiki/File:Carpenters_continue_to_install_formwork_around_existing_columns_in_the_concourse._(CM014B,_1-03-2018)_(25706275198).jpg)
+- **Retenue** — [Carpenters continue to install formwork around existing columns in the concourse. (CM014B, 1-03-2018) (25706275198).jpg](https://commons.wikimedia.org/wiki/File:Carpenters_continue_to_install_formwork_around_existing_columns_in_the_concourse._(CM014B,_1-03-2018)_(25706275198).jpg)
   - Vu : Deux poteaux enveloppés de coffrage métallique à parement bois, étayés par des contrefiches obliques.
   - Vérification : validée (avec rectangle) — Caisson vertical autour d'un poteau, clair ; photo sombre mais lisible ; rectangle sur le coffrage central.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Caisson vertical carré de coffrage de poteau, maintenu par des étais tirants, bien désigné par le rectangle.
 - **Rejetée** — [SFOBBESR ColumnFormworkAdj7June2011.jpg](https://commons.wikimedia.org/wiki/File:SFOBBESR_ColumnFormworkAdj7June2011.jpg)
   - Vu : Caisson vertical de coffrage métallique rouge monté sur un poteau de pont, armatures en attente au sommet.
   - Vérification : validée (avec rectangle) — Coffrage de poteau net et dominant ; rectangle utile car d'autres poteaux apparaissent.
-  - Contre-vérification : —
+  - Contre-vérification : pas d'accord — Coffrage rouge entièrement en acier sur une pile d'ouvrage : « le coffrage métallique » serait une réponse aussi juste.
 - **Rejetée** — [Whittier Bridge- Pier 3 Column Form work (June 2016) (27414345980).jpg](https://commons.wikimedia.org/wiki/File:Whittier_Bridge-_Pier_3_Column_Form_work_(June_2016)_(27414345980).jpg)
   - Vu : Grands panneaux de coffrage inclinés sur un pont à arc.
   - Vérification : rejetée — Panneaux de pile de pont inclinés, forme non lisible ; ambigu avec banche.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le coffrage de dalle — abandonné (vérification en cours)
+### le coffrage de dalle — abandonné
 
 *Plateau horizontal de panneaux porté par des étais, sur lequel on pose les armatures et coule une dalle.*
 
@@ -528,7 +577,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
 - **Rejetée** — [Small City, travaux 1-68-2.jpg](https://commons.wikimedia.org/wiki/File:Small_City,_travaux_1-68-2.jpg)
   - Vu : Panneau de coffrage de dalle en contreplaqué posé sur ses étais par des ouvriers avec un chariot Doka.
   - Vérification : validée (avec rectangle) — Plateau horizontal porté par des étais, net ; table coffrante et étais incompatibles.
-  - Contre-vérification : —
+  - Contre-vérification : pas d'accord — Table Doka manutentionnée par un chariot DoKart : c'est une table coffrante, terme concurrent de la catégorie.
 - **Rejetée** — [Small City, travaux 1-68-1.jpg](https://commons.wikimedia.org/wiki/File:Small_City,_travaux_1-68-1.jpg)
   - Vu : Vaste chantier de fouille avec coffrages et étais.
   - Vérification : rejetée — Trop large et confus.
@@ -621,7 +670,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vérification : rejetée — Scène confuse.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le camion-benne — 1 image retenue (vérification en cours)
+### le camion-benne — 1 image retenue
 
 *Camion dont la caisse basculante déverse sable, gravier ou déblais.*
 
@@ -648,7 +697,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
 - **Rejetée** — [Lovol LT90 Rigid Dump Truck (Mining Indonesia 2026).jpg](https://commons.wikimedia.org/wiki/File:Lovol_LT90_Rigid_Dump_Truck_(Mining_Indonesia_2026).jpg)
   - Vu : Tombereau jaune Lovol lors d'un salon.
   - Vérification : validée — Camion rigide à benne basculante, de face, net ; le tombereau est incompatible avec le terme, donc acceptable.
-  - Contre-vérification : —
+  - Contre-vérification : pas d'accord — Engin de carrière à benne à casquette sur la cabine (Lovol LT90) : c'est un tombereau plutôt qu'un camion-benne.
 
 ### le camion-toupie — 2 images retenues
 
@@ -1348,7 +1397,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la bordure de trottoir — 1 image retenue (vérification en cours)
+### la bordure de trottoir — 1 image retenue
 
 *Bloc allongé en béton ou en pierre qui borde le trottoir et marque sa différence de hauteur avec la chaussée.*
 
@@ -1363,7 +1412,7 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
 - **Rejetée** — [Curb cut for wheelchair ramp (DSC 3616).jpg](https://commons.wikimedia.org/wiki/File:Curb_cut_for_wheelchair_ramp_(DSC_3616).jpg)
   - Vu : Bordure abaissée d'un passage pour fauteuil roulant, trottoir dallé.
   - Vérification : validée (avec rectangle) — Bordure en granit au bord du trottoir, encadrée ; le bateau de trottoir et le trottoir sont incompatibles, donc acceptable.
-  - Contre-vérification : —
+  - Contre-vérification : pas d'accord — La bordure désignée s'abaisse au centre : c'est précisément un bateau de trottoir, autre terme de la catégorie.
 - **Rejetée** — [Curb Mulch.jpg](https://commons.wikimedia.org/wiki/File:Curb_Mulch.jpg)
   - Vu : Paillis au premier plan, route au fond.
   - Vérification : rejetée — Bordure à peine visible.
@@ -1406,441 +1455,555 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la chaussée — abandonné (vérification en cours)
+### la chaussée — 1 image retenue
 
 *Partie de la rue ou de la route où roulent les véhicules.*
 
-- **Rejetée** — [Road 35, Iceland, 20230501 0928 3772.jpg](https://commons.wikimedia.org/wiki/File:Road_35,_Iceland,_20230501_0928_3772.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Road 35, Iceland, 20230501 0928 3772.jpg](https://commons.wikimedia.org/wiki/File:Road_35,_Iceland,_20230501_0928_3772.jpg)
+  - Vu : Route asphaltée à deux voies en Islande, marquage latéral blanc, bas-côté en terre, montagne au fond.
+  - Vérification : validée — Chaussée typique, claire et dominante, sans trottoir ni autre élément concurrent.
+  - Contre-vérification : d'accord — Route rurale en enrobé filant vers l'horizon, la chaussée occupe toute l'image ; aucune autre réponse ne domine.
 - **Rejetée** — [Single-lane carriageway with road train route.jpg](https://commons.wikimedia.org/wiki/File:Single-lane_carriageway_with_road_train_route.jpg)
-  - Vérification : non examinée
+  - Vu : Piste en terre rouge vue d'un tableau de bord, panneau jaune.
+  - Vérification : rejetée — Piste de terre, pas une chaussée revêtue ; image de dashcam.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Start of dual-carriageway section of Aberford Road - geograph.org.uk - 8299738.jpg](https://commons.wikimedia.org/wiki/File:Start_of_dual-carriageway_section_of_Aberford_Road_-_geograph.org.uk_-_8299738.jpg)
-  - Vérification : non examinée
+  - Vu : Route à deux voies avec trottoir, bordure, terre-plein et voitures au loin.
+  - Vérification : rejetée — Trop d'éléments voisins (trottoir, bordure, terre-plein) ; chaussée lointaine.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A299 Dual Carriageway - geograph.org.uk - 1827592.jpg](https://commons.wikimedia.org/wiki/File:A299_Dual_Carriageway_-_geograph.org.uk_-_1827592.jpg)
-  - Vérification : non examinée
+  - Vu : Voie rapide à chaussées séparées, vue depuis un pont, avec glissières et terre-plein central.
+  - Vérification : rejetée — Terre-plein central et glissières bien visibles : confusion possible avec un terme voisin.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dual Carriageway-1320372, Wainuiomata, Wellington, New Zealand.jpg](https://commons.wikimedia.org/wiki/File:Dual_Carriageway-1320372,_Wainuiomata,_Wellington,_New_Zealand.jpg)
-  - Vérification : non examinée
+  - Vu : Panorama d'une route à voies multiples descendant vers une ville, voitures, arbres.
+  - Vérification : rejetée — Chaussée petite et noyée dans le paysage.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dual Carriageway-1320402, Wainuiomata, Wellington, New Zealand.jpg](https://commons.wikimedia.org/wiki/File:Dual_Carriageway-1320402,_Wainuiomata,_Wellington,_New_Zealand.jpg)
-  - Vérification : non examinée
+  - Vu : Même type de vue lointaine d'une route en descente vers une ville néo-zélandaise.
+  - Vérification : rejetée — Chaussée petite, panneau et paysage dominants.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### l'enrobé — abandonné (vérification en cours)
+### l'enrobé — abandonné
 
 *Revêtement noir de gravillons liés au bitume, répandu à chaud et compacté sur une chaussée ou une cour.*
 
 - **Rejetée** — [Chiang Kai-shek memorial amk.jpg](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_memorial_amk.jpg)
-  - Vérification : non examinée
+  - Vu : Mémorial de Tchang Kaï-chek à Taipei.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Asphalt base.jpg](https://commons.wikimedia.org/wiki/File:Asphalt_base.jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan sur une couche de gravillons noirs enrobés de bitume, en bordure d'un sol clair.
+  - Vérification : rejetée — Aspect de gravier noir meuble ; pourrait passer pour du gravier, pas assez lisible comme enrobé fini.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Asphalt paving machine - geograph.org.uk - 7349239.jpg](https://commons.wikimedia.org/wiki/File:Asphalt_paving_machine_-_geograph.org.uk_-_7349239.jpg)
-  - Vérification : non examinée
+  - Vu : Finisseur Tarmac sur un chantier, sol gris avec lignes blanches.
+  - Vérification : rejetée — Machine dominante, revêtement peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [0118Hot-mix asphalt concrete manual pouring-paving in the repair and maintenance 20.jpg](https://commons.wikimedia.org/wiki/File:0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_20.jpg)
-  - Vérification : non examinée
+  - Vu : Seau fumant de bitume chaud sur une dalle claire.
+  - Vérification : rejetée — Montre du bitume, pas un enrobé.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Globen September 2014 01.jpg](https://commons.wikimedia.org/wiki/File:Globen_September_2014_01.jpg)
-  - Vérification : non examinée
+  - Vu : Vue aérienne du Globen à Stockholm.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [0118Hot-mix asphalt concrete manual pouring-paving in the repair and maintenance 19.jpg](https://commons.wikimedia.org/wiki/File:0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_19.jpg)
-  - Vérification : non examinée
+  - Vu : Seau de bitume chaud sur un chariot, sur une chaussée en béton.
+  - Vérification : rejetée — Montre du bitume, pas un enrobé.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le pavé autobloquant — abandonné (vérification en cours)
+### le pavé autobloquant — 2 images retenues
 
 *Pavé en béton à formes emboîtables, posé sur sable sans mortier, très employé pour les trottoirs et cours à Dakar.*
 
 - **Rejetée** — [Paver Blocks Exterior Circular 3008px.jpg](https://commons.wikimedia.org/wiki/File:Paver_Blocks_Exterior_Circular_3008px.jpg)
-  - Vérification : non examinée
+  - Vu : Sol en petits pavés bétons dans un motif en éventail devant un musée.
+  - Vérification : rejetée — Pavés à bords arrondis type pavé ordinaire : confusion avec « le pavé ».
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Interlocking concrete pavers ao 16k (Amal Kumar via Poly Haven) JPG.jpg](https://commons.wikimedia.org/wiki/File:Interlocking_concrete_pavers_ao_16k_(Amal_Kumar_via_Poly_Haven)_JPG.jpg)
-  - Vérification : non examinée
+  - Vu : Dalles ajourées à losanges en texture claire, très retouchée.
+  - Vérification : rejetée — Dalle alvéolée type engazonnée, image retravaillée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Paving stones concrete s-shape 2025-03-11.jpg](https://commons.wikimedia.org/wiki/File:Paving_stones_concrete_s-shape_2025-03-11.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Paving stones concrete s-shape 2025-03-11.jpg](https://commons.wikimedia.org/wiki/File:Paving_stones_concrete_s-shape_2025-03-11.jpg)
+  - Vu : Gros plan de pavés béton gris à formes en S emboîtables, à joints fins, un peu de mousse.
+  - Vérification : validée — Pavés autobloquants en appareil caractéristique ; image plein cadre.
+  - Contre-vérification : d'accord — Gros plan de pavés béton à profil ondulé emboîtés, typiques de l'autobloquant.
 - **Rejetée** — [Interlocking concrete pavers arm 16k (Amal Kumar via Poly Haven) JPG.jpg](https://commons.wikimedia.org/wiki/File:Interlocking_concrete_pavers_arm_16k_(Amal_Kumar_via_Poly_Haven)_JPG.jpg)
-  - Vérification : non examinée
+  - Vu : Texture de dalles alvéolées en fausses couleurs jaune-vert.
+  - Vérification : rejetée — Image retouchée, dalles alvéolées.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Grey herringbone wavy interlocking seamless block floor paving texture.jpg](https://commons.wikimedia.org/wiki/File:Grey_herringbone_wavy_interlocking_seamless_block_floor_paving_texture.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Grey herringbone wavy interlocking seamless block floor paving texture.jpg](https://commons.wikimedia.org/wiki/File:Grey_herringbone_wavy_interlocking_seamless_block_floor_paving_texture.jpg)
+  - Vu : Gros plan de pavés béton gris emboîtables à formes en double T.
+  - Vérification : validée — Pavés autobloquants typiques, plein cadre, nets (texture sans raccord mais photo réelle).
+  - Contre-vérification : d'accord — Pavés béton en os emboîtés, forme autobloquante caractéristique, cadrage plein.
 - **Rejetée** — [Interlocking concrete pavers diff 16k (Amal Kumar via Poly Haven) JPG.jpg](https://commons.wikimedia.org/wiki/File:Interlocking_concrete_pavers_diff_16k_(Amal_Kumar_via_Poly_Haven)_JPG.jpg)
-  - Vérification : non examinée
+  - Vu : Texture brune de dalles alvéolées.
+  - Vérification : rejetée — Dalles ajourées, image retravaillée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le regard — abandonné (vérification en cours)
+### le regard — abandonné
 
 *Ouvrage enterré maçonné ou préfabriqué, fermé par un couvercle, qui donne accès à une canalisation pour la visite et le curage.*
 
 - **Rejetée** — [Aqueduc Medicis regard 13 Arcueil.jpg](https://commons.wikimedia.org/wiki/File:Aqueduc_Medicis_regard_13_Arcueil.jpg)
-  - Vérification : non examinée
+  - Vu : Petit édicule maçonné dans un jardin, avec arbres et poubelles.
+  - Vérification : rejetée — Bâtiment peu lisible comme regard.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [05. Regard de Visite - Aqueduc du Gier - Mornant, Parking des Bruyères.JPG](https://commons.wikimedia.org/wiki/File:05._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant,_Parking_des_Bruy%C3%A8res.JPG)
-  - Vérification : non examinée
+  - Vu : Dalle de pierre percée posée sur une ouverture grillagée dans un mur de moellons.
+  - Vérification : rejetée — Ouvrage ambigu (puits, soupirail), non identifiable comme regard.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [02. Regard de Visite - Aqueduc du Gier - Mornant, Parking des Bruyères.JPG](https://commons.wikimedia.org/wiki/File:02._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant,_Parking_des_Bruy%C3%A8res.JPG)
-  - Vérification : non examinée
+  - Vu : Caisson en pierre ornée de losanges, coiffé d'une grosse dalle, dans un jardin.
+  - Vérification : rejetée — Peut passer pour un puits ou un couvercle ; pas assez univoque.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Aqueduc Medicis regard 13 interieur Arcueil.jpg](https://commons.wikimedia.org/wiki/File:Aqueduc_Medicis_regard_13_interieur_Arcueil.jpg)
-  - Vérification : non examinée
+  - Vu : Intérieur voûté d'un regard d'aqueduc éclairé.
+  - Vérification : rejetée — Vue intérieure peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [01. Regard de Visite - Aqueduc du Gier - Mornant, Parking des Bruyères.JPG](https://commons.wikimedia.org/wiki/File:01._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant,_Parking_des_Bruy%C3%A8res.JPG)
-  - Vérification : non examinée
+  - Vu : Même caisson en pierre à dalle posée, autre angle.
+  - Vérification : rejetée — Même ambiguïté (puits, tampon).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [03. Regard de Visite - Aqueduc du Gier - Mornant, Parking des Bruyères.JPG](https://commons.wikimedia.org/wiki/File:03._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant,_Parking_des_Bruy%C3%A8res.JPG)
-  - Vérification : non examinée
+  - Vu : Intérieur d'un conduit de pierre.
+  - Vérification : rejetée — Conduit, ne montre pas un regard.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le tampon de regard — abandonné (vérification en cours)
+### le tampon de regard — 2 images retenues
 
 *Couvercle rond ou carré, en fonte ou en béton, qui ferme un regard au niveau du sol.*
 
 - **Rejetée** — [Люк-менажница на территории Мечниковской больницы 12.jpg](https://commons.wikimedia.org/wiki/File:%D0%9B%D1%8E%D0%BA-%D0%BC%D0%B5%D0%BD%D0%B0%D0%B6%D0%BD%D0%B8%D1%86%D0%B0_%D0%BD%D0%B0_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%9C%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8B_12.jpg)
-  - Vérification : non examinée
+  - Vu : Tampon rond en fonte ajouré, croix centrale et inscription cyrillique « Drainage ».
+  - Vérification : rejetée — Texte visible donnant la réponse, tampon de drainage ajouré (proche d'une grille).
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Manhole cover, Berlin (IMG 20190806 094407).jpg](https://commons.wikimedia.org/wiki/File:Manhole_cover,_Berlin_(IMG_20190806_094407).jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Manhole cover, Berlin (IMG 20190806 094407).jpg](https://commons.wikimedia.org/wiki/File:Manhole_cover,_Berlin_(IMG_20190806_094407).jpg)
+  - Vu : Tampon rond en fonte à quadrillage, serti dans un pavage de petits pavés, Berlin.
+  - Vérification : validée — Tampon de regard net, plein cadre, cerclé d'un pavage.
+  - Contre-vérification : d'accord — Couvercle rond en fonte serti dans les pavés, sujet unique et net.
 - **Rejetée** — [2017-09-14 (107) Manhole cover by Wallner & Neubert at Bahnhof Rekawinkel.jpg](https://commons.wikimedia.org/wiki/File:2017-09-14_(107)_Manhole_cover_by_Wallner_%26_Neubert_at_Bahnhof_Rekawinkel.jpg)
-  - Vérification : non examinée
+  - Vu : Tampon rond en fonte à cadre, rempli de béton, entouré d'herbe et de gravier.
+  - Vérification : rejetée — Correct mais moins net que d'autres (cadre rempli de béton).
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [2018-02-13 (605) Manhole cover by Meier Guss at Bahnhof Mauthausen.jpg](https://commons.wikimedia.org/wiki/File:2018-02-13_(605)_Manhole_cover_by_Meier_Guss_at_Bahnhof_Mauthausen.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [2018-02-13 (605) Manhole cover by Meier Guss at Bahnhof Mauthausen.jpg](https://commons.wikimedia.org/wiki/File:2018-02-13_(605)_Manhole_cover_by_Meier_Guss_at_Bahnhof_Mauthausen.jpg)
+  - Vu : Tampon rond en fonte rouillée à motifs d'octogones, posé dans un pavage autobloquant.
+  - Vérification : validée — Tampon rond clair, dominant, sans élément concurrent.
+  - Contre-vérification : d'accord — Tampon rond en fonte en gros plan, sujet dominant sans ambiguïté.
 - **Rejetée** — [Manhole cover in Viborg Danemark.jpg](https://commons.wikimedia.org/wiki/File:Manhole_cover_in_Viborg_Danemark.jpg)
-  - Vérification : non examinée
+  - Vu : Tampon rond en fonte avec armoiries et le mot VIBORG.
+  - Vérification : rejetée — Texte visible, tampon décoratif.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A manhole cover 19.09.24 in Istanbul 10.jpg](https://commons.wikimedia.org/wiki/File:A_manhole_cover_19.09.24_in_Istanbul_10.jpg)
-  - Vérification : non examinée
+  - Vu : Tampon carré en béton ou fonte gris avec mégots autour.
+  - Vérification : rejetée — Moins typique, texte « IBB », sale.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### l'avaloir — abandonné (vérification en cours)
+### l'avaloir — abandonné
 
 *Bouche d'égout ouverte dans la bordure ou le caniveau, par laquelle l'eau de pluie descend dans le réseau.*
 
 - **Rejetée** — [Curb inlet and catch basin.jpg](https://commons.wikimedia.org/wiki/File:Curb_inlet_and_catch_basin.jpg)
-  - Vérification : non examinée
+  - Vu : Bordure de trottoir à San Diego avec une ouverture dans la bordure et un petit tampon rond.
+  - Vérification : rejetée — Ouverture minuscule et peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [-42 drain.jpg](https://commons.wikimedia.org/wiki/File:-42_drain.jpg)
-  - Vérification : non examinée
+  - Vu : Siphon de sol carré à côté d'une cuvette de WC.
+  - Vérification : rejetée — Siphon intérieur, pas un avaloir de voirie.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Storm drain curb inlet San Diego.jpg](https://commons.wikimedia.org/wiki/File:Storm_drain_curb_inlet_San_Diego.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Grille métallique rectangulaire dans le caniveau au pied d'une bordure en arc, avec l'ouverture sous la bordure.
+  - Vérification : validée (avec rectangle) — Avaloir de voirie pour eaux pluviales ; rectangle sur la grille pour exclure le tampon rond du fond.
+  - Contre-vérification : pas d'accord — Le rectangle cadre surtout une grille posée dans le caniveau : « la grille avaloir » serait aussi juste.
 - **Rejetée** — [Blocked floor drain.jpg](https://commons.wikimedia.org/wiki/File:Blocked_floor_drain.jpg)
-  - Vérification : non examinée
+  - Vu : Siphon de sol à grille ronde relevée, rempli d'eau noire.
+  - Vérification : rejetée — Siphon de sol intérieur.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Building and engineering news (1925) (14784819643).jpg](https://commons.wikimedia.org/wiki/File:Building_and_engineering_news_(1925)_(14784819643).jpg)
-  - Vérification : non examinée
+  - Vu : Planche d'échantillons de crépis, gravure ancienne.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Panorama depuis le belvédère du Mont des Avaloirs.jpg](https://commons.wikimedia.org/wiki/File:Panorama_depuis_le_belv%C3%A9d%C3%A8re_du_Mont_des_Avaloirs.jpg)
-  - Vérification : non examinée
+  - Vu : Panorama de forêt depuis un belvédère.
+  - Vérification : rejetée — Sans rapport (le Mont des Avaloirs).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la fosse septique — abandonné (vérification en cours)
+### la fosse septique — abandonné
 
 *Cuve enterrée en béton ou préfabriquée, fermée de dalles ou de tampons, qui recueille et prétraite les eaux usées d'une maison.*
 
 - **Rejetée** — [Septic tank installation - geograph.org.uk - 7914060.jpg](https://commons.wikimedia.org/wiki/File:Septic_tank_installation_-_geograph.org.uk_-_7914060.jpg)
-  - Vérification : non examinée
+  - Vu : Chantier de tranchée dans la terre rouge avec des cuves cylindriques noires et un regard en cours de pose.
+  - Vérification : rejetée — Chantier confus, cuve non identifiable comme fosse septique.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Typical Septic tank layout.jpg](https://commons.wikimedia.org/wiki/File:Typical_Septic_tank_layout.jpg)
-  - Vérification : non examinée
+  - Vu : Schéma en coupe d'une fosse septique.
+  - Vérification : rejetée — Schéma, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Photograph of Septic Tank Installation for Barona Houses - DPLA - f772e8b60abc319d50034128b20b4846.jpg](https://commons.wikimedia.org/wiki/File:Photograph_of_Septic_Tank_Installation_for_Barona_Houses_-_DPLA_-_f772e8b60abc319d50034128b20b4846.jpg)
-  - Vérification : non examinée
+  - Vu : Photo ancienne en noir et blanc de travaux.
+  - Vérification : rejetée — Photo d'archive peu lisible, rien d'identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Septic tank image 01.jpg](https://commons.wikimedia.org/wiki/File:Septic_tank_image_01.jpg)
-  - Vérification : non examinée
+  - Vu : Deux couvercles verts de cuve et un coude PVC dans l'herbe.
+  - Vérification : rejetée — Seuls des couvercles : confusion avec regard ou tampon.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Septic tank image 03.jpg](https://commons.wikimedia.org/wiki/File:Septic_tank_image_03.jpg)
-  - Vérification : non examinée
+  - Vu : Deux couvercles en béton circulaires à chaînette sur une pelouse.
+  - Vérification : rejetée — Seuls des couvercles : confusion avec regard ou tampon.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Septic tank image 02.jpg](https://commons.wikimedia.org/wiki/File:Septic_tank_image_02.jpg)
-  - Vérification : non examinée
+  - Vu : Trois couvercles verts ronds sur une pelouse.
+  - Vérification : rejetée — Seuls des couvercles : confusion avec regard ou tampon.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le dos-d'âne — abandonné (vérification en cours)
+### le dos-d'âne — 1 image retenue
 
 *Bosse aménagée en travers de la chaussée pour obliger les véhicules à ralentir.*
 
 - **Rejetée** — [Speed bump and sign, Swansea Toronto 2026.jpg](https://commons.wikimedia.org/wiki/File:Speed_bump_and_sign,_Swansea_Toronto_2026.jpg)
-  - Vérification : non examinée
+  - Vu : Rue résidentielle avec panneau de dos-d'âne au loin et bosse peu visible.
+  - Vérification : rejetée — Bosse trop petite, panneau dominant.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A vandalized speed bump sign in Guelph, Ontario.jpg](https://commons.wikimedia.org/wiki/File:A_vandalized_speed_bump_sign_in_Guelph,_Ontario.jpg)
-  - Vérification : non examinée
+  - Vu : Panneau de ralentisseur détourné avec un visage dessiné.
+  - Vérification : rejetée — Panneau dessiné, pas la bosse.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Speed-bump street marking-LosAngeles.jpg](https://commons.wikimedia.org/wiki/File:Speed-bump_street_marking-LosAngeles.jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan de marquages en chevrons blancs sur le revêtement.
+  - Vérification : rejetée — Marquage seul, la bosse n'est pas lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Speed-bump caution sign, Los Angeles.jpg](https://commons.wikimedia.org/wiki/File:Speed-bump_caution_sign,_Los_Angeles.jpg)
-  - Vérification : non examinée
+  - Vu : Panneau « speed humps 20 mph ».
+  - Vérification : rejetée — Panneau avec texte, pas la bosse.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Ležeći policajac 016.jpg](https://commons.wikimedia.org/wiki/File:Le%C5%BEe%C4%87i_policajac_016.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Ležeći policajac 016.jpg](https://commons.wikimedia.org/wiki/File:Le%C5%BEe%C4%87i_policajac_016.jpg)
+  - Vu : Ralentisseur en caoutchouc noir à pavés blancs posé en travers d'une rue, voitures garées.
+  - Vérification : validée (avec rectangle) — Ralentisseur transversal net, rectangle sur la bosse pour la distinguer des voitures et piétons.
+  - Contre-vérification : d'accord — Ralentisseur en caoutchouc posé en travers de la rue, bien désigné par le rectangle.
 - **Rejetée** — [Speed bump on Württembergische Straße.jpg](https://commons.wikimedia.org/wiki/File:Speed_bump_on_W%C3%BCrttembergische_Stra%C3%9Fe.jpg)
-  - Vérification : non examinée
+  - Vu : Plateau pavé surélevé avec triangles blancs dans une rue arborée.
+  - Vérification : rejetée — Plateau ralentisseur plutôt que dos-d'âne ; peu net.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le passage piéton — abandonné (vérification en cours)
+### le passage piéton — 2 images retenues
 
 *Bandes blanches peintes en travers de la chaussée, où les piétons traversent.*
 
 - **Rejetée** — [Japanese car accident.jpg](https://commons.wikimedia.org/wiki/File:Japanese_car_accident.jpg)
-  - Vérification : non examinée
+  - Vu : Accident de voiture sur un carrefour à zébras.
+  - Vérification : rejetée — Accident dominant, passage vu en vue plongeante.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Zebra crossing St Helier.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing_St_Helier.jpg)
-  - Vérification : non examinée
+  - Vu : Carrefour avec marquages pâles et plots, rue de Saint-Hélier.
+  - Vérification : rejetée — Passage effacé et peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Zebra Cross di Jalan Asia Afrika.jpg](https://commons.wikimedia.org/wiki/File:Zebra_Cross_di_Jalan_Asia_Afrika.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Zebra Cross di Jalan Asia Afrika.jpg](https://commons.wikimedia.org/wiki/File:Zebra_Cross_di_Jalan_Asia_Afrika.jpg)
+  - Vu : Piétons traversant sur des bandes blanches, avec bande podotactile jaune.
+  - Vérification : validée (avec rectangle) — Passage piéton clair en usage ; rectangle sur le zébra.
+  - Contre-vérification : d'accord — Bandes blanches en travers de la chaussée avec piétons qui traversent, rectangle bien placé.
 - **Rejetée** — [Zebra crossing on Freeman Street - geograph.org.uk - 8147284.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147284.jpg)
-  - Vérification : non examinée
+  - Vu : Carrefour avec zébra au premier plan, rue commerçante.
+  - Vérification : rejetée — Passage petit, scène large, moins net que les autres.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Zebra crossing, Kingsway, Newport - geograph.org.uk - 6466465.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing,_Kingsway,_Newport_-_geograph.org.uk_-_6466465.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Zebra crossing, Kingsway, Newport - geograph.org.uk - 6466465.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing,_Kingsway,_Newport_-_geograph.org.uk_-_6466465.jpg)
+  - Vu : Zébra en travers d'une rue devant le Dolman Theatre, balise à globe jaune.
+  - Vérification : validée (avec rectangle) — Passage piéton net ; rectangle sur les bandes (texte DOLMAN hors cadre).
+  - Contre-vérification : d'accord — Zébras blancs en travers de la chaussée, rectangle serré sur le passage.
 - **Rejetée** — [Zebra crossing on Freeman Street - geograph.org.uk - 8147294.jpg](https://commons.wikimedia.org/wiki/File:Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147294.jpg)
-  - Vérification : non examinée
+  - Vu : Zébra au premier plan, bâtiments et balise à globe.
+  - Vérification : rejetée — Passage coupé par le cadre, scène chargée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le marquage au sol — abandonné (vérification en cours)
+### le marquage au sol — 1 image retenue
 
 *Lignes et signes peints en blanc ou en jaune sur la chaussée pour guider la circulation.*
 
-- **Rejetée** — [Amboy (California, USA), Hist. Route 66 -- 2012 -- 1.jpg](https://commons.wikimedia.org/wiki/File:Amboy_(California,_USA),_Hist._Route_66_--_2012_--_1.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Amboy (California, USA), Hist. Route 66 -- 2012 -- 1.jpg](https://commons.wikimedia.org/wiki/File:Amboy_(California,_USA),_Hist._Route_66_--_2012_--_1.jpg)
+  - Vu : Route déserte avec ligne centrale jaune et deux écussons « Route 66 » peints en blanc.
+  - Vérification : validée — Marquage au sol clair (ligne axiale, rive et signes peints), plein cadre.
+  - Contre-vérification : d'accord — Lignes jaunes et blanches et logos Route 66 peints sur la chaussée, le marquage est le sujet évident.
 - **Rejetée** — [Rue Maréchal-Lyautey, marquage au sol effacé.jpg](https://commons.wikimedia.org/wiki/File:Rue_Mar%C3%A9chal-Lyautey,_marquage_au_sol_effac%C3%A9.jpg)
-  - Vérification : non examinée
+  - Vu : Rue de Vichy avec marquage effacé.
+  - Vérification : rejetée — Marquage effacé, peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Münster, LVM, Bürogebäude -- 2013 -- 5149-51.jpg](https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_LVM,_B%C3%BCrogeb%C3%A4ude_--_2013_--_5149-51.jpg)
-  - Vérification : non examinée
+  - Vu : Immeuble de bureaux moderne au crépuscule.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Marquage au sol, voie verte du canal du Rhône au Rhin, Allenjoie.jpg](https://commons.wikimedia.org/wiki/File:Marquage_au_sol,_voie_verte_du_canal_du_Rh%C3%B4ne_au_Rhin,_Allenjoie.jpg)
-  - Vérification : non examinée
+  - Vu : Voie verte avec pictogrammes peints « 20 », « Partageons l'espace ».
+  - Vérification : rejetée — Texte visible, piste cyclable proche.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Road marking (LRM 20231117 122637).jpg](https://commons.wikimedia.org/wiki/File:Road_marking_(LRM_20231117_122637).jpg)
-  - Vérification : non examinée
+  - Vu : Ouvriers appliquant de nouveaux marquages sur un carrefour.
+  - Vérification : rejetée — Scène de chantier chargée, marquage petit.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Av Doumer, Vichy - marquage au sol Zone 30 et axe cyclable.jpg](https://commons.wikimedia.org/wiki/File:Av_Doumer,_Vichy_-_marquage_au_sol_Zone_30_et_axe_cyclable.jpg)
-  - Vérification : non examinée
+  - Vu : Rue de Vichy avec Zone 30, pictogramme vélo, chevrons.
+  - Vérification : rejetée — Piste cyclable dominante, scène chargée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le lampadaire — abandonné (vérification en cours)
+### le lampadaire — 2 images retenues
 
 *Haut mât portant un ou plusieurs luminaires qui éclairent la rue.*
 
-- **Rejetée** — [Mere Lane lamp standard 1.jpg](https://commons.wikimedia.org/wiki/File:Mere_Lane_lamp_standard_1.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Mere Lane lamp standard 1.jpg](https://commons.wikimedia.org/wiki/File:Mere_Lane_lamp_standard_1.jpg)
+  - Vu : Lampadaire ancien en fonte à deux lanternes sur un îlot pavé, ciel dégagé.
+  - Vérification : validée — Mât haut à luminaires, typique et dominant.
+  - Contre-vérification : d'accord — Mât en fonte ouvragé à deux luminaires, sujet unique et net.
 - **Rejetée** — [Street light 07092012..jpg](https://commons.wikimedia.org/wiki/File:Street_light_07092012..jpg)
-  - Vérification : non examinée
+  - Vu : Tête de luminaire de rue sur crosse courbe, vue de près contre le ciel.
+  - Vérification : rejetée — Seule la lanterne est visible, pas le mât : trop partiel.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Réverbère - 20150802 17h53 (10751).jpg](https://commons.wikimedia.org/wiki/File:R%C3%A9verb%C3%A8re_-_20150802_17h53_(10751).jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Réverbère - 20150802 17h53 (10751).jpg](https://commons.wikimedia.org/wiki/File:R%C3%A9verb%C3%A8re_-_20150802_17h53_(10751).jpg)
+  - Vu : Candélabre vert à quatre globes blancs sur socle, ciel bleu.
+  - Vérification : validée — Haut mât à plusieurs luminaires, très lisible.
+  - Contre-vérification : d'accord — Haut mât vert à quatre globes, vu en contre-plongée, sans ambiguïté.
 - **Rejetée** — [Barcelona - Farola Avenida Gaudi.jpg](https://commons.wikimedia.org/wiki/File:Barcelona_-_Farola_Avenida_Gaudi.jpg)
-  - Vérification : non examinée
+  - Vu : Haut d'un lampadaire ornemental en fer forgé à deux globes, en contre-plongée.
+  - Vérification : rejetée — Détail décoratif, mât non visible, posé sur un pilier.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Branch hanging on light pole, Annandale Drive Townsville.jpg](https://commons.wikimedia.org/wiki/File:Branch_hanging_on_light_pole,_Annandale_Drive_Townsville.jpg)
-  - Vérification : non examinée
+  - Vu : Route sous la pluie avec arbres et un lampadaire minuscule au fond.
+  - Vérification : rejetée — Lampadaire trop petit et peu visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A utility pole in a street in Klaten.jpg](https://commons.wikimedia.org/wiki/File:A_utility_pole_in_a_street_in_Klaten.jpg)
-  - Vérification : non examinée
+  - Vu : Poteau électrique avec transformateur et un luminaire de rue en bas à gauche.
+  - Vérification : rejetée — Poteau de réseau dominant, luminaire secondaire.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le panneau de signalisation — abandonné (vérification en cours)
+### le panneau de signalisation — 3 images retenues
 
 *Plaque métallique à symboles, fixée sur un poteau, qui donne une indication ou une obligation aux usagers de la route.*
 
 - **Rejetée** — [Malaysia Traffic-signs Regulatory-sign-12.jpg](https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-12.jpg)
-  - Vérification : non examinée
+  - Vu : Panneau rond d'interdiction fixé sur un portail blanc.
+  - Vérification : rejetée — Fixé sur un portail, pas sur un poteau de voirie.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Malaysia Traffic-signs Regulatory-sign-05.jpg](https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-05.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Malaysia Traffic-signs Warning-sign-31.jpg](https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Warning-sign-31.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Malaysia Traffic-signs Regulatory-sign-05.jpg](https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-05.jpg)
+  - Vu : Panneau rond rouge d'interdiction de tourner à gauche, au bout d'un poteau, fond de feuillage.
+  - Vérification : validée — Panneau à symbole, net et dominant.
+  - Contre-vérification : d'accord — Panneau rond d'interdiction de tourner sur son poteau, sujet dominant.
+- **Retenue** — [Malaysia Traffic-signs Warning-sign-31.jpg](https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Warning-sign-31.jpg)
+  - Vu : Panneau jaune en losange (passage à niveau) sur poteau, au bord d'une route.
+  - Vérification : validée — Plaque à symbole sur poteau, typique et net.
+  - Contre-vérification : d'accord — Panneau losange de danger passage de train sur poteau, net et dominant.
 - **Rejetée** — [Kabukicho red gate and colorful neon street signs at night, Shinjuku, Tokyo, Japan.jpg](https://commons.wikimedia.org/wiki/File:Kabukicho_red_gate_and_colorful_neon_street_signs_at_night,_Shinjuku,_Tokyo,_Japan.jpg)
-  - Vérification : non examinée
+  - Vu : Rue commerçante de nuit avec enseignes néon.
+  - Vérification : rejetée — Enseignes commerciales, pas des panneaux de signalisation.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Los Angeles (California, USA), Sign -- 2012 -- 4937.jpg](https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Sign_--_2012_--_4937.jpg)
-  - Vérification : non examinée
+  - Vu : Grand panneau vert de direction avec numéros de routes et mots NORTH/SOUTH.
+  - Vérification : rejetée — Panneau de direction à texte, plutôt panneau directionnel ; texte visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Road sign at Lewis Pass NZ.jpg](https://commons.wikimedia.org/wiki/File:Road_sign_at_Lewis_Pass_NZ.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Road sign at Lewis Pass NZ.jpg](https://commons.wikimedia.org/wiki/File:Road_sign_at_Lewis_Pass_NZ.jpg)
+  - Vu : Panneau orange en losange (chaussée glissante) sur poteau au bord d'une route de montagne.
+  - Vérification : validée — Plaque à symbole sur poteau, claire.
+  - Contre-vérification : d'accord — Panneau de danger chaussée glissante avec panonceau sur poteau en bord de route.
 
-### le mur de clôture — abandonné (vérification en cours)
+### le mur de clôture — 1 image retenue
 
 *Mur maçonné qui ferme une parcelle sur la rue et les voisins, typique des concessions et villas de Dakar.*
 
 - **Rejetée** — [Boundary Wall Of Manor House 02.jpg](https://commons.wikimedia.org/wiki/File:Boundary_Wall_Of_Manor_House_02.jpg)
-  - Vérification : non examinée
+  - Vu : Long mur de pierre le long d'une route, masqué en partie par un arbre, vu de loin.
+  - Vérification : rejetée — Mur peu lisible et éloigné.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Boundary Wall Of Manor House 01.jpg](https://commons.wikimedia.org/wiki/File:Boundary_Wall_Of_Manor_House_01.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Boundary wall to Carshalton House along Pound Street.jpg](https://commons.wikimedia.org/wiki/File:Boundary_wall_to_Carshalton_House_along_Pound_Street.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Long mur de moellons à chaperon le long d'une rue.
+  - Vérification : validée (avec rectangle) — Mur de clôture clair, encadré.
+  - Contre-vérification : pas d'accord — Le rectangle englobe aussi largement le trottoir, la bordure et la chaussée, qui pourraient être pris pour la réponse.
+- **Retenue** — [Boundary wall to Carshalton House along Pound Street.jpg](https://commons.wikimedia.org/wiki/File:Boundary_wall_to_Carshalton_House_along_Pound_Street.jpg)
+  - Vu : Mur de brique de clôture le long d'une rue, terminé à droite par un pilier de portail.
+  - Vérification : validée (avec rectangle) — Mur de clôture lisible ; pilier et portail exclus du cadre.
+  - Contre-vérification : d'accord — Long mur de brique fermant une propriété sur la rue, bien cadré, pilier exclu du rectangle.
 - **Rejetée** — [Spelthorne - Boundary Wall Of Duncroft House - 20230903154600.jpg](https://commons.wikimedia.org/wiki/File:Spelthorne_-_Boundary_Wall_Of_Duncroft_House_-_20230903154600.jpg)
-  - Vérification : non examinée
+  - Vu : Mur de brique bas avec deux piliers, portail en fer forgé et haie.
+  - Vérification : rejetée — Pilier et portail dominent, mur court.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [1369474 II BOUNDARY WALL OF RHODES HOUSE FRONTING SOUTH PARKS ROAD AND PARKS ROAD Oxford 20250617 0001.jpg](https://commons.wikimedia.org/wiki/File:1369474_II_BOUNDARY_WALL_OF_RHODES_HOUSE_FRONTING_SOUTH_PARKS_ROAD_AND_PARKS_ROAD_Oxford_20250617_0001.jpg)
-  - Vérification : non examinée
+  - Vu : Boîte aux lettres rouge encastrée dans un mur de pierre.
+  - Vérification : rejetée — Le sujet est la boîte aux lettres.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Lodge, Gates And Boundary Wall Of Bay House School.jpg](https://commons.wikimedia.org/wiki/File:Lodge,_Gates_And_Boundary_Wall_Of_Bay_House_School.jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan sur un mur de brique avec un blason et une lanterne.
+  - Vérification : rejetée — Détail de mur, pas de clôture.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le muret — abandonné (vérification en cours)
+### le muret — abandonné
 
 *Mur bas qui délimite un jardin, une allée ou supporte une grille.*
 
 - **Rejetée** — [Outhouse And Garden Wall, School, Low Causeway, Culross.jpg](https://commons.wikimedia.org/wiki/File:Outhouse_And_Garden_Wall,_School,_Low_Causeway,_Culross.jpg)
-  - Vérification : non examinée
+  - Vu : Murs de pierre de jardin, remise et portail en bois, vus de loin.
+  - Vérification : rejetée — Hauteur peu claire, murs trop éloignés pour dire muret.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Low sandstone wall at Abbots Wood Garden - geograph.org.uk - 3219246.jpg](https://commons.wikimedia.org/wiki/File:Low_sandstone_wall_at_Abbots_Wood_Garden_-_geograph.org.uk_-_3219246.jpg)
-  - Vérification : non examinée
+  - Vu : Pré avec quelques pierres alignées au sol et arbres jaunes.
+  - Vérification : rejetée — Pas un muret, alignement de pierres au sol.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Feature Wall in Low Water Garden (4465828545).jpg](https://commons.wikimedia.org/wiki/File:Feature_Wall_in_Low_Water_Garden_(4465828545).jpg)
-  - Vérification : non examinée
+  - Vu : Mur enduit contemporain avec panneau en acier découpé et plantes.
+  - Vérification : rejetée — Mur décoratif, pas un muret bas.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Trough in garden wall - geograph.org.uk - 5253959.jpg](https://commons.wikimedia.org/wiki/File:Trough_in_garden_wall_-_geograph.org.uk_-_5253959.jpg)
-  - Vérification : non examinée
+  - Vu : Mur de pierre sèche d'environ un mètre avec petite niche, devant une pelouse.
+  - Vérification : rejetée — Hauteur ambiguë, pourrait être un mur de clôture ; mieux vaut rejeter.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Fukuoka Daimyō Garden City Tower the detail of the NNW curtain wall Daimyō 2-chōme Chūō-ku Fukuoka 20250619.jpg](https://commons.wikimedia.org/wiki/File:Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_detail_of_the_NNW_curtain_wall_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg)
-  - Vérification : non examinée
+  - Vu : Façade vitrée en contre-plongée.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Fukuoka Daimyō Garden City Tower the low-angle shot of the NE side Daimyō 2-chōme Chūō-ku Fukuoka 20240812.jpg](https://commons.wikimedia.org/wiki/File:Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_low-angle_shot_of_the_NE_side_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20240812.jpg)
-  - Vérification : non examinée
+  - Vu : Tour de verre en contre-plongée.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le pilier de portail — abandonné (vérification en cours)
+### le pilier de portail — 1 image retenue
 
 *Poteau maçonné, souvent coiffé d'un chapeau, sur lequel le portail est fixé de chaque côté de l'entrée.*
 
 - **Rejetée** — [Rotary Welcome Arch 12.JPG](https://commons.wikimedia.org/wiki/File:Rotary_Welcome_Arch_12.JPG)
-  - Vérification : non examinée
+  - Vu : Plaque commémorative en granit sur piquet.
+  - Vérification : rejetée — Texte, pas de pilier.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Postbox-West-Gate-Warwick-September-2024.jpg](https://commons.wikimedia.org/wiki/File:Postbox-West-Gate-Warwick-September-2024.jpg)
-  - Vérification : non examinée
+  - Vu : Boîte aux lettres cylindrique rouge sur trottoir.
+  - Vérification : rejetée — Pas un pilier de portail.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Rotary Welcome Arch 5.JPG](https://commons.wikimedia.org/wiki/File:Rotary_Welcome_Arch_5.JPG)
-  - Vérification : non examinée
+  - Vu : Arche d'accueil bleue portée par deux piles de pierre au bord d'une route.
+  - Vérification : rejetée — Arche monumentale, pas un portail.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Canons gate pillar - 2026-05-20.jpg](https://commons.wikimedia.org/wiki/File:Canons_gate_pillar_-_2026-05-20.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Canons gate pillar - 2026-05-20.jpg](https://commons.wikimedia.org/wiki/File:Canons_gate_pillar_-_2026-05-20.jpg)
+  - Vu : Pilier maçonné blanc à chapiteau mouluré et boule, fixé à un mur de brique.
+  - Vérification : validée (avec rectangle) — Pilier de portail maçonné coiffé d'un chapeau ; portail non visible mais forme et contexte typiques.
+  - Contre-vérification : d'accord — Pilier maçonné blanc coiffé d'un chapeau mouluré et d'une boule, à l'entrée entre deux clôtures ; bien désigné.
 - **Rejetée** — [Château de Fontainebleau-Pilier du Portail-20170625.jpg](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Fontainebleau-Pilier_du_Portail-20170625.jpg)
-  - Vérification : non examinée
+  - Vu : Montant doré d'une grille monumentale du château, vu de près.
+  - Vérification : rejetée — Montant métallique de grille, pas maçonné.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Warwick Eastgate CV34.jpg](https://commons.wikimedia.org/wiki/File:Warwick_Eastgate_CV34.jpg)
-  - Vérification : non examinée
+  - Vu : Boîte aux lettres victorienne rouge sur trottoir.
+  - Vérification : rejetée — Pas un pilier de portail.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le chaperon — abandonné (vérification en cours)
+### le chaperon — 2 images retenues
 
 *Couronnement en pente d'un mur de clôture ou d'un pilier, qui rejette l'eau de pluie.*
 
-- **Rejetée** — [Downhills Park Road mossy wall, Haringey London 1.jpg](https://commons.wikimedia.org/wiki/File:Downhills_Park_Road_mossy_wall,_Haringey_London_1.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Downhills Park Road mossy wall, Haringey London 1.jpg](https://commons.wikimedia.org/wiki/File:Downhills_Park_Road_mossy_wall,_Haringey_London_1.jpg)
+  - Vu : Chaperon bombé couvert de mousse sur un mur de brique, avec une grille au-dessus.
+  - Vérification : validée (avec rectangle) — Couronnement du mur nettement visible, encadré.
+  - Contre-vérification : d'accord — Couronnement bombé et moussu au sommet d'un muret de brique, rectangle bien placé sur le chaperon.
 - **Rejetée** — [Projet de décor pour l'Opéra Comique La Princesse Jaune de Gallet et Saint-Saens, 2ème arrondissement, en 1873, D.3856.jpg](https://commons.wikimedia.org/wiki/File:Projet_de_d%C3%A9cor_pour_l%27Op%C3%A9ra_Comique_La_Princesse_Jaune_de_Gallet_et_Saint-Saens,_2%C3%A8me_arrondissement,_en_1873,_D.3856.jpg)
-  - Vérification : non examinée
+  - Vu : Dessin de décor de théâtre.
+  - Vérification : rejetée — Dessin, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Downhills Park Road mossy wall, Haringey London 2.jpg](https://commons.wikimedia.org/wiki/File:Downhills_Park_Road_mossy_wall,_Haringey_London_2.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Downhills Park Road mossy wall, Haringey London 2.jpg](https://commons.wikimedia.org/wiki/File:Downhills_Park_Road_mossy_wall,_Haringey_London_2.jpg)
+  - Vu : Chaperon en pierre moussu sur un mur de brique, grillage au-dessus.
+  - Vérification : validée (avec rectangle) — Dalle de couronnement en pente nette, encadrée.
+  - Contre-vérification : d'accord — Chaperon en pierre en pente couronnant un mur de brique, nettement désigné.
 - **Rejetée** — [Maquette de décor de théâtre, pour l'opéra les Huguenots (acte I) de Meyerbeer, joué en 1874, D.6741.jpg](https://commons.wikimedia.org/wiki/File:Maquette_de_d%C3%A9cor_de_th%C3%A9%C3%A2tre,_pour_l%27op%C3%A9ra_les_Huguenots_(acte_I)_de_Meyerbeer,_jou%C3%A9_en_1874,_D.6741.jpg)
-  - Vérification : non examinée
+  - Vu : Maquette de décor de théâtre.
+  - Vérification : rejetée — Dessin, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Maquette de décor pour l'opéra les Huguenots (acte I) de Meyerbeer, joué en 1874. D.6740.jpg](https://commons.wikimedia.org/wiki/File:Maquette_de_d%C3%A9cor_pour_l%27op%C3%A9ra_les_Huguenots_(acte_I)_de_Meyerbeer,_jou%C3%A9_en_1874._D.6740.jpg)
-  - Vérification : non examinée
+  - Vu : Maquette de décor de théâtre.
+  - Vérification : rejetée — Dessin, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Garden wall with travertine yellow rockface cladding and coping.jpg](https://commons.wikimedia.org/wiki/File:Garden_wall_with_travertine_yellow_rockface_cladding_and_coping.jpg)
-  - Vérification : non examinée
+  - Vu : Mur de jardin en parement de pierre jaune dans un jardin, vu de loin.
+  - Vérification : rejetée — Couronnement trop petit pour être lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le fil barbelé — abandonné (vérification en cours)
+### le fil barbelé — 2 images retenues
 
 *Fil de fer torsadé garni de pointes, tendu sur une clôture ou en haut d'un mur.*
 
 - **Rejetée** — [Gastrimargus Musicus Barbed Wire.jpg](https://commons.wikimedia.org/wiki/File:Gastrimargus_Musicus_Barbed_Wire.jpg)
-  - Vérification : non examinée
+  - Vu : Criquet pris sur un fil barbelé rouillé.
+  - Vérification : rejetée — Insecte dominant.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Dülmen, Wiese am Strandbadweg -- 2016 -- 5670-6.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wiese_am_Strandbadweg_--_2016_--_5670-6.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Dülmen, Wiese am Strandbadweg -- 2016 -- 5670-6.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wiese_am_Strandbadweg_--_2016_--_5670-6.jpg)
+  - Vu : Fil barbelé givré avec un nœud à pointes, soleil flou derrière.
+  - Vérification : validée — Fil à pointes net malgré le givre.
+  - Contre-vérification : d'accord — Fil torsadé avec une pointe givrée en gros plan ; le barbelé reste reconnaissable.
 - **Rejetée** — [Dülmen, Hausdülmen, Zaun einer Wiese -- 2021 -- 5100-4.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Zaun_einer_Wiese_--_2021_--_5100-4.jpg)
-  - Vérification : non examinée
+  - Vu : Fil barbelé givré à contre-jour, pointes noyées dans les cristaux.
+  - Vérification : rejetée — Pointes peu lisibles, givre dominant.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Dülmen, Hausdülmen, Zaun einer Wiese -- 2021 -- 5083.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Zaun_einer_Wiese_--_2021_--_5083.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Dülmen, Hausdülmen, Zaun einer Wiese -- 2021 -- 5083.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Zaun_einer_Wiese_--_2021_--_5083.jpg)
+  - Vu : Gros plan d'un fil barbelé couvert de givre, torsade et deux pointes visibles.
+  - Vérification : validée — Torsade et pointes bien visibles.
+  - Contre-vérification : d'accord — Gros plan d'un nœud de barbelé torsadé avec ses pointes, givré, très lisible.
 - **Rejetée** — [Dülmen, Hausdülmen, Zaun einer Wiese -- 2021 -- 5073-7.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Zaun_einer_Wiese_--_2021_--_5073-7.jpg)
-  - Vérification : non examinée
+  - Vu : Poteau en bois et clôture givrée dans la neige.
+  - Vérification : rejetée — Fil à peine visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dülmen, Kirchspiel, Wiese in der Bauerschaft Börnste -- 2016 -- 1523-9.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Wiese_in_der_Bauerschaft_B%C3%B6rnste_--_2016_--_1523-9.jpg)
-  - Vérification : non examinée
+  - Vu : Piquets en bois tordus et fils tendus dans un pré brumeux.
+  - Vérification : rejetée — Fils trop fins pour distinguer des pointes.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la clôture grillagée — abandonné (vérification en cours)
+### la clôture grillagée — 1 image retenue
 
 *Clôture faite d'un grillage métallique tendu entre des poteaux.*
 
 - **Rejetée** — [Broken chain-link fence around a wetland in North Lynnwood.jpg](https://commons.wikimedia.org/wiki/File:Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg)
-  - Vérification : non examinée
+  - Vu : Grillage affaissé avec poteaux dans un sous-bois.
+  - Vérification : rejetée — Clôture abîmée, confuse avec la végétation.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Empty lot with chain link fence.jpg](https://commons.wikimedia.org/wiki/File:Empty_lot_with_chain_link_fence.jpg)
-  - Vérification : non examinée
+  - Vu : Terrain vague vu à travers les mailles d'un grillage, flou.
+  - Vérification : rejetée — Grillage flou au premier plan, scène dominante.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Chain Link Fence.jpg](https://commons.wikimedia.org/wiki/File:Chain_Link_Fence.jpg)
-  - Vérification : non examinée
+  - Vu : Grillage sombre de nuit avec poteau.
+  - Vérification : rejetée — Trop sombre.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Chainlink fence Fence Barrier.jpg](https://commons.wikimedia.org/wiki/File:Chainlink_fence_Fence_Barrier.jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan de mailles de grillage sur ciel crépusculaire.
+  - Vérification : rejetée — Maille seule, sans poteaux, clôture peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [20200408 newspaper chain-link fence.jpg](https://commons.wikimedia.org/wiki/File:20200408_newspaper_chain-link_fence.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [20200408 newspaper chain-link fence.jpg](https://commons.wikimedia.org/wiki/File:20200408_newspaper_chain-link_fence.jpg)
+  - Vu : Grillage vert tendu sur poteau et fil de tension, avec un journal accroché.
+  - Vérification : validée — Grillage, poteau et fil tendeur nets ; le journal est secondaire.
+  - Contre-vérification : d'accord — Grillage simple torsion tendu entre poteaux, sujet dominant malgré un journal accroché.
 - **Rejetée** — [Chain link fence (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Chain_link_fence_(Unsplash).jpg)
-  - Vérification : non examinée
+  - Vu : Grillage flou de nuit avec lumières.
+  - Vérification : rejetée — Flou et sombre.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la piscine — abandonné (vérification en cours)
+### la piscine — 2 images retenues
 
 *Bassin artificiel étanche, revêtu de carrelage, de liner ou d'enduit, aménagé pour la baignade.*
 
-- **Rejetée** — [Villa Airport Prestige Swimming Pool - Cancun QR Jan 2020.jpg](https://commons.wikimedia.org/wiki/File:Villa_Airport_Prestige_Swimming_Pool_-_Cancun_QR_Jan_2020.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Villa Airport Prestige Swimming Pool - Cancun QR Jan 2020.jpg](https://commons.wikimedia.org/wiki/File:Villa_Airport_Prestige_Swimming_Pool_-_Cancun_QR_Jan_2020.jpg)
+  - Vu : Bassin bleu entouré de margelles claires devant une villa.
+  - Vérification : validée — Piscine claire et dominante.
+  - Contre-vérification : d'accord — Bassin carrelé bleu bordé de margelles dans une villa, sujet évident.
 - **Rejetée** — [Swimming pool villa Poppaea.jpg](https://commons.wikimedia.org/wiki/File:Swimming_pool_villa_Poppaea.jpg)
-  - Vérification : non examinée
+  - Vu : Bassin vide en herbe devant des bâtiments en ruine.
+  - Vérification : rejetée — Pas de l'eau, site archéologique.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Swimming pool, Tran Le Xuan Villa 01.jpg](https://commons.wikimedia.org/wiki/File:Swimming_pool,_Tran_Le_Xuan_Villa_01.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Swimming pool, Tran Le Xuan Villa 01.jpg](https://commons.wikimedia.org/wiki/File:Swimming_pool,_Tran_Le_Xuan_Villa_01.jpg)
+  - Vu : Piscine turquoise avec échelle et plage dallée dans un jardin, vue en plongée.
+  - Vérification : validée — Piscine nettement lisible.
+  - Contre-vérification : d'accord — Bassin rectangulaire carrelé avec échelles et plage, vue d'ensemble claire.
 - **Rejetée** — [Swimming pool and Makuti-thatched villa in Malindi.jpg](https://commons.wikimedia.org/wiki/File:Swimming_pool_and_Makuti-thatched_villa_in_Malindi.jpg)
-  - Vérification : non examinée
+  - Vu : Bassin avec passerelle en bois devant un hôtel.
+  - Vérification : rejetée — Passerelle dominante, bassin à peine lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A woman in bikini near a swimming pool in Villa del Palmar, Mexico.jpg](https://commons.wikimedia.org/wiki/File:A_woman_in_bikini_near_a_swimming_pool_in_Villa_del_Palmar,_Mexico.jpg)
-  - Vérification : non examinée
+  - Vu : Femme en bikini devant une piscine à peine visible.
+  - Vérification : rejetée — Personne au premier plan.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Two women in bikinis at loungers near a swimming pool in Villa del Palmar, Mexico.jpg](https://commons.wikimedia.org/wiki/File:Two_women_in_bikinis_at_loungers_near_a_swimming_pool_in_Villa_del_Palmar,_Mexico.jpg)
-  - Vérification : non examinée
+  - Vu : Femmes sur des transats près d'une piscine.
+  - Vérification : rejetée — Personnes au premier plan, piscine absente.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ## Façade et ouvertures
@@ -2414,294 +2577,369 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vérification : rejetée — Élément minuscule, image dominée par la mosquée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la façade — abandonné (vérification en cours)
+### la façade — 1 image retenue
 
 *Face extérieure verticale d'un bâtiment, avec ses murs et ses ouvertures, vue dans son ensemble.*
 
 - **Rejetée** — [Münster, Westdeutsche Lotterie -- 2018 -- 0417.jpg](https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Westdeutsche_Lotterie_--_2018_--_0417.jpg)
-  - Vérification : non examinée
+  - Vu : Façade sombre à panneaux avec petites fenêtres reflétant des couleurs.
+  - Vérification : rejetée — Détail partiel, façade pas lisible dans son ensemble.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Nancy - 4 rue des Dominicains 20131007.JPG](https://commons.wikimedia.org/wiki/File:Nancy_-_4_rue_des_Dominicains_20131007.JPG)
-  - Vérification : non examinée
+  - Vu : Devanture de banque Art nouveau.
+  - Vérification : rejetée — Devanture de rez-de-chaussée, texte visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Münster, LBS -- 2021 -- 9804.jpg](https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_LBS_--_2021_--_9804.jpg)
-  - Vérification : non examinée
+  - Vu : Bandes horizontales blanches arrondies d'un immeuble de bureaux, cadrage serré.
+  - Vérification : rejetée — Détail dominé par les nez de dalle.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Facade of the Conjunto Nacional cropped version.jpg](https://commons.wikimedia.org/wiki/File:Facade_of_the_Conjunto_Nacional_cropped_version.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Façade de grand immeuble d'habitation à bandes et fenêtres répétées, plein cadre.
+  - Vérification : validée — Façade vue dans son ensemble, lisible.
+  - Contre-vérification : pas d'accord — Cadrage serré sur des rangées de fenêtres et nez de dalle sans les limites du bâtiment : « fenêtre en bandeau » ou « balcon filant » plausibles.
 - **Rejetée** — [Münster, LBS -- 2021 -- 9803.jpg](https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_LBS_--_2021_--_9803.jpg)
-  - Vérification : non examinée
+  - Vu : Bandes blanches arrondies avec escalier extérieur.
+  - Vérification : rejetée — Détail de nez de dalle.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Immeuble dit de Seube Toulouse.jpg](https://commons.wikimedia.org/wiki/File:Immeuble_dit_de_Seube_Toulouse.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Immeuble dit de Seube Toulouse.jpg](https://commons.wikimedia.org/wiki/File:Immeuble_dit_de_Seube_Toulouse.jpg)
+  - Vu : Immeuble en brique à angle, grande façade avec fenêtres, arbre et lampadaire devant.
+  - Vérification : validée — Façade d'ensemble claire malgré l'arbre.
+  - Contre-vérification : d'accord — Bâtiment de brique vu en entier avec murs et ouvertures, la façade d'ensemble est le sujet.
 
-### le mur-rideau — abandonné (vérification en cours)
+### le mur-rideau — 2 images retenues
 
 *Façade légère entièrement vitrée, faite d'une ossature de montants et traverses accrochée devant la structure du bâtiment.*
 
-- **Rejetée** — [Hallidie Building in San Francisco dllu.jpg](https://commons.wikimedia.org/wiki/File:Hallidie_Building_in_San_Francisco_dllu.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Hallidie Building in San Francisco dllu.jpg](https://commons.wikimedia.org/wiki/File:Hallidie_Building_in_San_Francisco_dllu.jpg)
+  - Vu : Façade vitrée du Hallidie Building vue de face, entre deux immeubles, avec véhicules devant.
+  - Vérification : validée (avec rectangle) — Mur-rideau historique, trame de montants et traverses devant la structure ; rectangle sur la partie vitrée.
+  - Contre-vérification : d'accord — Hallidie Building : façade vitrée continue à ossature fine accrochée devant la structure, bien désignée.
 - **Rejetée** — [Illuminated white and purple facade of the office building Rohm Semiconductor in Kyoto, Japan.jpg](https://commons.wikimedia.org/wiki/File:Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto,_Japan.jpg)
-  - Vérification : non examinée
+  - Vu : Façade de nuit éclairée en violet et blanc, panneaux répétitifs, logo visible.
+  - Vérification : rejetée — Éclairage artificiel, logo visible, gros plan ambigu.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Hallidie Building, San Francisco (1) 2023-07-18.jpg](https://commons.wikimedia.org/wiki/File:Hallidie_Building,_San_Francisco_(1)_2023-07-18.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Hallidie Building, San Francisco (1) 2023-07-18.jpg](https://commons.wikimedia.org/wiki/File:Hallidie_Building,_San_Francisco_(1)_2023-07-18.jpg)
+  - Vu : Hallidie Building de face, grande trame vitrée bleue entre bandeaux décoratifs dorés.
+  - Vérification : validée (avec rectangle) — Exemple typique et net de mur-rideau ; rectangle sur la trame vitrée centrale.
+  - Contre-vérification : d'accord — Même mur-rideau du Hallidie Building en vue frontale, la grille vitrée occupe le rectangle.
 - **Rejetée** — [Hallidie Building, San Francisco (2) 2023-07-18.jpg](https://commons.wikimedia.org/wiki/File:Hallidie_Building,_San_Francisco_(2)_2023-07-18.jpg)
-  - Vérification : non examinée
+  - Vu : Hallidie Building en vue oblique, vitrage dominé par la perspective.
+  - Vérification : rejetée — Vue oblique moins lisible que 01 et 03.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Hallidie Building 2012-09-06 19-20-53.jpg](https://commons.wikimedia.org/wiki/File:Hallidie_Building_2012-09-06_19-20-53.jpg)
-  - Vérification : non examinée
+  - Vu : Façade du même immeuble sous échafaudage et bâche.
+  - Vérification : rejetée — Échafaudage masque l'élément.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Hallidie Building 04.jpg](https://commons.wikimedia.org/wiki/File:Hallidie_Building_04.jpg)
-  - Vérification : non examinée
+  - Vu : Hallidie Building en contre-plongée oblique, reflets importants.
+  - Vérification : rejetée — Reflets et perspective, moins lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la baie — abandonné (vérification en cours)
+### la baie — abandonné
 
 *Ouverture ménagée dans un mur pour une porte ou une fenêtre, considérée avec son encadrement maçonné.*
 
 - **Rejetée** — [15. Window Frame and Masonry Reconstruction. (23928803-983f-4ef4-9792-ac9f5e393134).jpg](https://commons.wikimedia.org/wiki/File:15._Window_Frame_and_Masonry_Reconstruction._(23928803-983f-4ef4-9792-ac9f5e393134).jpg)
-  - Vérification : non examinée
+  - Vu : Photo de chantier de restauration d'un mur en pierre avec panneau d'inventaire.
+  - Vérification : rejetée — Chantier, panneau texte visible, baie non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [2. North wall, first floor, infill non historic window. (bdd1af23-8c87-4672-8c8e-af51335bf7f4).jpg](https://commons.wikimedia.org/wiki/File:2._North_wall,_first_floor,_infill_non_historic_window._(bdd1af23-8c87-4672-8c8e-af51335bf7f4).jpg)
-  - Vérification : non examinée
+  - Vu : Photo de chantier de restauration d'un mur en pierre avec panneau d'inventaire.
+  - Vérification : rejetée — Chantier, panneau texte visible, baie non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [9. First floor, west wall, turn an existing doorway into a window. (892c478b-90c6-4886-87fb-ba5a1b0e70f5).jpg](https://commons.wikimedia.org/wiki/File:9._First_floor,_west_wall,_turn_an_existing_doorway_into_a_window._(892c478b-90c6-4886-87fb-ba5a1b0e70f5).jpg)
-  - Vérification : non examinée
+  - Vu : Photo de chantier de restauration d'un mur en pierre avec panneau d'inventaire.
+  - Vérification : rejetée — Chantier, panneau texte visible, baie non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [8. First floor, west wall, turn an existing doorway into a window. (2f51951d-eaa1-43d0-ad8a-44451f6c57e2).jpg](https://commons.wikimedia.org/wiki/File:8._First_floor,_west_wall,_turn_an_existing_doorway_into_a_window._(2f51951d-eaa1-43d0-ad8a-44451f6c57e2).jpg)
-  - Vérification : non examinée
+  - Vu : Photo de chantier de restauration d'un mur en pierre avec panneau d'inventaire.
+  - Vérification : rejetée — Chantier, panneau texte visible, baie non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [1. First floor, west wall, turn an existing doorway into a window. (4b7b1dc2-7082-4303-84c7-2ffdc89a8af7).jpg](https://commons.wikimedia.org/wiki/File:1._First_floor,_west_wall,_turn_an_existing_doorway_into_a_window._(4b7b1dc2-7082-4303-84c7-2ffdc89a8af7).jpg)
-  - Vérification : non examinée
+  - Vu : Photo de chantier de restauration d'un mur en pierre avec panneau d'inventaire.
+  - Vérification : rejetée — Chantier, panneau texte visible, baie non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [6. First floor, west wall, turn an existing doorway into a window. (cf5ca454-a2f6-4cc2-b8cc-4536171175ad).jpg](https://commons.wikimedia.org/wiki/File:6._First_floor,_west_wall,_turn_an_existing_doorway_into_a_window._(cf5ca454-a2f6-4cc2-b8cc-4536171175ad).jpg)
-  - Vérification : non examinée
+  - Vu : Photo de chantier de restauration d'un mur en pierre avec panneau d'inventaire.
+  - Vérification : rejetée — Chantier, panneau texte visible, baie non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le tableau de baie — abandonné (vérification en cours)
+### le tableau de baie — abandonné
 
 *Face verticale du mur visible de chaque côté d'une baie, entre la menuiserie et le parement extérieur.*
 
 - **Rejetée** — [Százd-Sazdice, cat church- (3).jpg](https://commons.wikimedia.org/wiki/File:Sz%C3%A1zd-Sazdice,_cat_church-_(3).jpg)
-  - Vérification : non examinée
+  - Vu : Mur de chapelle jaune avec fenêtres gothiques à ébrasement et soubassement gris.
+  - Vérification : rejetée — Tableau non clairement visible ; pourrait être chambranle ou soubassement.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Chester Cathedral ext Hamilton 005.JPG](https://commons.wikimedia.org/wiki/File:Chester_Cathedral_ext_Hamilton_005.JPG)
-  - Vérification : non examinée
+  - Vu : Cathédrale de Chester vue d'ensemble.
+  - Vérification : rejetée — Ensemble, élément invisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Södertälje eller Trosa, Södermanland. ArkDes ARKM.1976-113-3671.jpg](https://commons.wikimedia.org/wiki/File:S%C3%B6dert%C3%A4lje_eller_Trosa,_S%C3%B6dermanland._ArkDes_ARKM.1976-113-3671.jpg)
-  - Vérification : non examinée
+  - Vu : Fenêtre à fronton sur façade en planches, photo noir et blanc ancienne.
+  - Vérification : rejetée — Chambranle/fronton dominant, noir et blanc.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The Queen's House - Greenwich - Henrietta Maria - 1633 (8148745020).jpg](https://commons.wikimedia.org/wiki/File:The_Queen%27s_House_-_Greenwich_-_Henrietta_Maria_-_1633_(8148745020).jpg)
-  - Vérification : non examinée
+  - Vu : Plaque d'inscription au-dessus d'une arcade, murs blancs.
+  - Vérification : rejetée — Ne montre pas de tableau.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The Queen's House - Greenwich - colonnade from National Maritime Museum (8148738338).jpg](https://commons.wikimedia.org/wiki/File:The_Queen%27s_House_-_Greenwich_-_colonnade_from_National_Maritime_Museum_(8148738338).jpg)
-  - Vérification : non examinée
+  - Vu : Colonnade et bâtiment du Queen's House à Greenwich.
+  - Vérification : rejetée — Aucun tableau lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The Queen's House - Greenwich - East Wing - colonnade (8148734846).jpg](https://commons.wikimedia.org/wiki/File:The_Queen%27s_House_-_Greenwich_-_East_Wing_-_colonnade_(8148734846).jpg)
-  - Vérification : non examinée
+  - Vu : Colonnade et bâtiment du Queen's House à Greenwich.
+  - Vérification : rejetée — Aucun tableau lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le seuil — abandonné (vérification en cours)
+### le seuil — abandonné
 
 *Pièce horizontale (pierre, béton, métal) au bas d'une porte, qui marque le passage et arrête l'eau.*
 
 - **Rejetée** — [Tel Deweir (Lachish). Jewish palace-fort on crest. Column base and stone door thresholds of later Persian building visible right and center of pic(ture) LOC matpc.16640.jpg](https://commons.wikimedia.org/wiki/File:Tel_Deweir_(Lachish)._Jewish_palace-fort_on_crest._Column_base_and_stone_door_thresholds_of_later_Persian_building_visible_right_and_center_of_pic(ture)_LOC_matpc.16640.jpg)
-  - Vérification : non examinée
+  - Vu : Photo ancienne noir et blanc de ruines avec personnages.
+  - Vérification : rejetée — Ruines, aucun seuil identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Veere (NL), Kapellestraat -- 2022 -- 5055.jpg](https://commons.wikimedia.org/wiki/File:Veere_(NL),_Kapellestraat_--_2022_--_5055.jpg)
-  - Vérification : non examinée
+  - Vu : Porte en bois cintrée dans un mur de briques, pied de porte avec briques.
+  - Vérification : rejetée — Seuil petit et peu net, porte cintrée dominante.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Island Field Ranch House Marion Co Kansas - stone house southern facade.jpg](https://commons.wikimedia.org/wiki/File:Island_Field_Ranch_House_Marion_Co_Kansas_-_stone_house_southern_facade.jpg)
-  - Vérification : non examinée
+  - Vu : Petite maison en pierre avec porte ouverte et banc.
+  - Vérification : rejetée — Seuil trop petit.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Charleville-Mézières -- 2017 -- 4806.jpg](https://commons.wikimedia.org/wiki/File:Charleville-M%C3%A9zi%C3%A8res_--_2017_--_4806.jpg)
-  - Vérification : non examinée
+  - Vu : Porte blanche d'un bâtiment en pierre avec fronton.
+  - Vérification : rejetée — Seuil non visible, décor dominant.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Recklinghausen, Gastkirche -- 2015 -- 7355.jpg](https://commons.wikimedia.org/wiki/File:Recklinghausen,_Gastkirche_--_2015_--_7355.jpg)
-  - Vérification : non examinée
+  - Vu : Porte en bois étroite avec marches, niche à statue.
+  - Vérification : rejetée — Marches et porte, seuil ambigu.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The Entrance to Bet Emmanuel, Lalibela, Ethiopia (3325996687).jpg](https://commons.wikimedia.org/wiki/File:The_Entrance_to_Bet_Emmanuel,_Lalibela,_Ethiopia_(3325996687).jpg)
-  - Vérification : non examinée
+  - Vu : Porte étroite en pierre rouge (Lalibela), marche et dalle basse, parapluie.
+  - Vérification : rejetée — Dalle basse et marche ambiguës, rideau dans l'ouverture ; doute.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la casquette — abandonné (vérification en cours)
+### la casquette — abandonné
 
 *Dalle de béton en saillie au-dessus d'une baie ou d'une façade, qui l'abrite du soleil et de la pluie.*
 
 - **Rejetée** — [Canopy 03 - Books of Remembrance - North Nave Bay L - National Cathedral - DC.JPG](https://commons.wikimedia.org/wiki/File:Canopy_03_-_Books_of_Remembrance_-_North_Nave_Bay_L_-_National_Cathedral_-_DC.JPG)
-  - Vérification : non examinée
+  - Vu : Dais gothique en bois sculpté, vue de dessous.
+  - Vérification : rejetée — Ne montre pas une casquette.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Wilson Bay and window 03 - South Nave Bay F - National Cathedral - DC.JPG](https://commons.wikimedia.org/wiki/File:Wilson_Bay_and_window_03_-_South_Nave_Bay_F_-_National_Cathedral_-_DC.JPG)
-  - Vérification : non examinée
+  - Vu : Baie d'une cathédrale avec vitraux.
+  - Vérification : rejetée — Ne montre pas une casquette.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Model Laundry, Galveston.jpg](https://commons.wikimedia.org/wiki/File:Model_Laundry,_Galveston.jpg)
-  - Vérification : non examinée
+  - Vu : Bâtiment commercial à deux niveaux, palmiers.
+  - Vérification : rejetée — Ne montre pas une casquette.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dülmen, Bült, Pins-Keller -- 2023 -- 6208.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_B%C3%BClt,_Pins-Keller_--_2023_--_6208.jpg)
-  - Vérification : non examinée
+  - Vu : Cage de verre pyramidale derrière une clôture.
+  - Vérification : rejetée — Ne montre pas une casquette.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Coventry Cathedral - Epstein's sculpture of St.Michael and Lucifer.jpg](https://commons.wikimedia.org/wiki/File:Coventry_Cathedral_-_Epstein%27s_sculpture_of_St.Michael_and_Lucifer.jpg)
-  - Vérification : non examinée
+  - Vu : Sculpture en bronze sur mur de grès.
+  - Vérification : rejetée — Ne montre pas une casquette.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [South Ruislip Underground Station (Central Line and Chiltern Railways).jpg](https://commons.wikimedia.org/wiki/File:South_Ruislip_Underground_Station_(Central_Line_and_Chiltern_Railways).jpg)
-  - Vérification : non examinée
+  - Vu : Hall de station de métro avec verrière circulaire.
+  - Vérification : rejetée — Ne montre pas une casquette.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### l'auvent — abandonné (vérification en cours)
+### l'auvent — abandonné
 
 *Petit toit en saillie fixé à la façade, au-dessus d'une porte ou d'une fenêtre, pour l'abriter.*
 
 - **Rejetée** — [Salle, Ss Peter & Paul church, north porch (28302351175).jpg](https://commons.wikimedia.org/wiki/File:Salle,_Ss_Peter_%26_Paul_church,_north_porch_(28302351175).jpg)
-  - Vérification : non examinée
+  - Vu : Façade d'église ou de maison sans auvent net.
+  - Vérification : rejetée — Pas d'auvent clairement visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The Collegiate Church of Saint Mary - Stafford - church window and door (32449350984).jpg](https://commons.wikimedia.org/wiki/File:The_Collegiate_Church_of_Saint_Mary_-_Stafford_-_church_window_and_door_(32449350984).jpg)
-  - Vérification : non examinée
+  - Vu : Façade d'église ou de maison sans auvent net.
+  - Vérification : rejetée — Pas d'auvent clairement visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [DSC 6661 A tranquil courtyard in front of a traditional Thai-style building with a red gabled roof ornate gold accents and a wide staircase leading up to the entrance under a partly cloudy sky.jpg](https://commons.wikimedia.org/wiki/File:DSC_6661_A_tranquil_courtyard_in_front_of_a_traditional_Thai-style_building_with_a_red_gabled_roof_ornate_gold_accents_and_a_wide_staircase_leading_up_to_the_entrance_under_a_partly_cloudy_sky.jpg)
-  - Vérification : non examinée
+  - Vu : Bâtiment thaï avec escalier et avancée de toit.
+  - Vérification : rejetée — Avancée de toit ambiguë (porche), doute.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Burnham Thorpe - "Nelson's Church" - All Saints Church.jpg](https://commons.wikimedia.org/wiki/File:Burnham_Thorpe_-_%22Nelson%27s_Church%22_-_All_Saints_Church.jpg)
-  - Vérification : non examinée
+  - Vu : Façade d'église ou de maison sans auvent net.
+  - Vérification : rejetée — Pas d'auvent clairement visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dr. George Keenan House, Gilman Street and Pinckney Street, Mansion Hill, Madison, WI - 52762369522.jpg](https://commons.wikimedia.org/wiki/File:Dr._George_Keenan_House,_Gilman_Street_and_Pinckney_Street,_Mansion_Hill,_Madison,_WI_-_52762369522.jpg)
-  - Vérification : non examinée
+  - Vu : Façade d'église ou de maison sans auvent net.
+  - Vérification : rejetée — Pas d'auvent clairement visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dr. George Keenan House, Gilman Street and Pinckney Street, Mansion Hill, Madison, WI - 52762370277.jpg](https://commons.wikimedia.org/wiki/File:Dr._George_Keenan_House,_Gilman_Street_and_Pinckney_Street,_Mansion_Hill,_Madison,_WI_-_52762370277.jpg)
-  - Vérification : non examinée
+  - Vu : Façade d'église ou de maison sans auvent net.
+  - Vérification : rejetée — Pas d'auvent clairement visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la loggia — abandonné (vérification en cours)
+### la loggia — abandonné
 
 *Balcon couvert et en retrait dans l'épaisseur de la façade, fermé sur les côtés.*
 
 - **Rejetée** — [Loggia, Érmellékistrasse 8, 2026 Törökvész.jpg](https://commons.wikimedia.org/wiki/File:Loggia,_%C3%89rmell%C3%A9kistrasse_8,_2026_T%C3%B6r%C3%B6kv%C3%A9sz.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Façade avec loggia à arcades sur colonnes et balustrade, en retrait, lierre.
+  - Vérification : validée (avec rectangle) — Balcon couvert en retrait, fermé sur les côtés ; typique ; rectangle sur la loggia.
+  - Contre-vérification : pas d'accord — Le rectangle montre surtout une arcade sur colonnes et une balustrade : « l'arcade » ou « la balustrade » seraient aussi justes.
 - **Rejetée** — [Loggia, Säule, Érmellékistrasse 8, 2026 Törökvész.jpg](https://commons.wikimedia.org/wiki/File:Loggia,_S%C3%A4ule,_%C3%89rmell%C3%A9kistrasse_8,_2026_T%C3%B6r%C3%B6kv%C3%A9sz.jpg)
-  - Vérification : non examinée
+  - Vu : Colonne de marbre et balustres d'une loggia, gros plan.
+  - Vérification : rejetée — Détail : pourrait illustrer colonne ou balustrade.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Gemischte Fassaden Esmarchstraße Kiel-Blücherplatz (2).jpg](https://commons.wikimedia.org/wiki/File:Gemischte_Fassaden_Esmarchstra%C3%9Fe_Kiel-Bl%C3%BCcherplatz_(2).jpg)
-  - Vérification : non examinée
+  - Vu : Rue d'immeubles à Kiel.
+  - Vérification : rejetée — Loggia non identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Esmarchstraße (09) (32692174163).jpg](https://commons.wikimedia.org/wiki/File:Esmarchstra%C3%9Fe_(09)_(32692174163).jpg)
-  - Vérification : non examinée
+  - Vu : Rue d'immeubles à Kiel, balcons.
+  - Vérification : rejetée — Loggia non identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [20100716 liege20.JPG](https://commons.wikimedia.org/wiki/File:20100716_liege20.JPG)
-  - Vérification : non examinée
+  - Vu : Immeuble d'angle et carrefour.
+  - Vérification : rejetée — Loggias minuscules.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Esmarchstraße, Kiel (21922832210).jpg](https://commons.wikimedia.org/wiki/File:Esmarchstra%C3%9Fe,_Kiel_(21922832210).jpg)
-  - Vérification : non examinée
+  - Vu : Façade en brique couverte de vigne avec petites fenêtres.
+  - Vérification : rejetée — Loggia non identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le soubassement — abandonné (vérification en cours)
+### le soubassement — abandonné
 
 *Partie basse d'une façade, au-dessus du sol, souvent traitée dans un matériau ou une teinte différente.*
 
 - **Rejetée** — [Arkesden Church of St Mary - Skull plinth John Withers monument, Essex, England.jpg](https://commons.wikimedia.org/wiki/File:Arkesden_Church_of_St_Mary_-_Skull_plinth_John_Withers_monument,_Essex,_England.jpg)
-  - Vérification : non examinée
+  - Vu : Monument ou statue sur socle.
+  - Vérification : rejetée — Socle de monument, pas soubassement de façade.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Church of St Mary Magdalen Laver Essex England - William Cole High Sheriff of Essex tomb plinth.jpg](https://commons.wikimedia.org/wiki/File:Church_of_St_Mary_Magdalen_Laver_Essex_England_-_William_Cole_High_Sheriff_of_Essex_tomb_plinth.jpg)
-  - Vérification : non examinée
+  - Vu : Monument ou statue sur socle.
+  - Vérification : rejetée — Socle de monument, pas soubassement de façade.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Elevated sculpture at Parham House, West Sussex, England.jpg](https://commons.wikimedia.org/wiki/File:Elevated_sculpture_at_Parham_House,_West_Sussex,_England.jpg)
-  - Vérification : non examinée
+  - Vu : Monument ou statue sur socle.
+  - Vérification : rejetée — Socle de monument, pas soubassement de façade.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Elevated sculptures at Parham House, West Sussex, England.jpg](https://commons.wikimedia.org/wiki/File:Elevated_sculptures_at_Parham_House,_West_Sussex,_England.jpg)
-  - Vérification : non examinée
+  - Vu : Monument ou statue sur socle.
+  - Vérification : rejetée — Socle de monument, pas soubassement de façade.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Female nude sculpture by Ivan Meštrović, Pleasure Grounds summer house, Parham House, West Sussex, England.jpg](https://commons.wikimedia.org/wiki/File:Female_nude_sculpture_by_Ivan_Me%C5%A1trovi%C4%87,_Pleasure_Grounds_summer_house,_Parham_House,_West_Sussex,_England.jpg)
-  - Vérification : non examinée
+  - Vu : Monument ou statue sur socle.
+  - Vérification : rejetée — Socle de monument, pas soubassement de façade.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Sir Thomas Hardy monument, Royal Naval College Chapel, Greenwich Hospital.jpg](https://commons.wikimedia.org/wiki/File:Sir_Thomas_Hardy_monument,_Royal_Naval_College_Chapel,_Greenwich_Hospital.jpg)
-  - Vérification : non examinée
+  - Vu : Monument ou statue sur socle.
+  - Vérification : rejetée — Socle de monument, pas soubassement de façade.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### l'encadrement de baie — abandonné (vérification en cours)
+### l'encadrement de baie — abandonné
 
 *Bordure qui entoure une baie en façade, en saillie ou de teinte différente, sur les côtés et au-dessus.*
 
 - **Rejetée** — [Carl Hårleman - Partial Elevation of Facade with a Cornice, Two Studies for Lanterns, Two Window Surrounds - NMH CC 3277 verso - Nationalmuseum.jpg](https://commons.wikimedia.org/wiki/File:Carl_H%C3%A5rleman_-_Partial_Elevation_of_Facade_with_a_Cornice,_Two_Studies_for_Lanterns,_Two_Window_Surrounds_-_NMH_CC_3277_verso_-_Nationalmuseum.jpg)
-  - Vérification : non examinée
+  - Vu : Dessin de façade au crayon avec échelle de couleurs.
+  - Vérification : rejetée — Dessin, pas photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [2026-09-17 Window and facade details at 11 Gizo Nishnianidze Street, Tbilisi.jpg](https://commons.wikimedia.org/wiki/File:2026-09-17_Window_and_facade_details_at_11_Gizo_Nishnianidze_Street,_Tbilisi.jpg)
-  - Vérification : non examinée
+  - Vu : Fenêtre en bois avec simple bordure sur façade délabrée, graffiti.
+  - Vérification : rejetée — Graffiti lisible, bordure discrète.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Casa Comalat front facade 05.JPG](https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_05.JPG)
-  - Vérification : non examinée
+  - Vu : Contre-plongée sur une baie très ornée de la Casa Comalat.
+  - Vérification : rejetée — Trop chargé, ambigu (oriel, console).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Casa Comalat back facade 18.JPG](https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_18.JPG)
-  - Vérification : non examinée
+  - Vu : Baie cintrée en gros plan avec bordure de pierre moulée (Casa Comalat).
+  - Vérification : rejetée — Cadrage serré, la baie est tronquée ; 06 est meilleure.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Casa Comalat back facade 17.JPG](https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_17.JPG)
-  - Vérification : non examinée
+  - Vu : Détail de colonnettes et ébrasement de la Casa Comalat.
+  - Vérification : rejetée — Détail trop rapproché.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Casa Comalat back facade 16.JPG](https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_16.JPG)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Baies de la Casa Comalat entourées d'une grande bordure moulée en pierre granuleuse.
+  - Vérification : validée (avec rectangle) — Bordure en saillie, de teinte différente, qui entoure la baie ; rectangle sur l'ensemble.
+  - Contre-vérification : pas d'accord — Le rectangle englobe toute la baie cintrée Art nouveau avec ses vitrages : « la baie cintrée » est une réponse concurrente.
 
-### le garde-corps vitré — abandonné (vérification en cours)
+### le garde-corps vitré — 1 image retenue
 
 *Garde-corps dont le remplissage est un panneau de verre feuilleté, tenu par des pinces, un profilé ou des montants.*
 
-- **Rejetée** — [Calico cat in top of a glass balustrade.jpg](https://commons.wikimedia.org/wiki/File:Calico_cat_in_top_of_a_glass_balustrade.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Calico cat in top of a glass balustrade.jpg](https://commons.wikimedia.org/wiki/File:Calico_cat_in_top_of_a_glass_balustrade.jpg)
+  - Vu : Garde-corps en panneaux de verre à main courante de pierre, chat posé dessus.
+  - Vérification : validée (avec rectangle) — Remplissage en verre feuilleté à profilé ; le chat est secondaire, rectangle sur le verre.
+  - Contre-vérification : d'accord — Garde-corps à panneaux de verre dans un cadre, bien cadré par le rectangle ; le chat ne prête pas à confusion de terme.
 - **Rejetée** — [Calico cat in top of a glass balustrade (2025; cropped 2026).jpg](https://commons.wikimedia.org/wiki/File:Calico_cat_in_top_of_a_glass_balustrade_(2025;_cropped_2026).jpg)
-  - Vérification : non examinée
+  - Vu : Même scène recadrée, chat en gros plan.
+  - Vérification : rejetée — Chat dominant, verre à peine visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [EVA- Lanxmeer OfficeBuilding4 2009.jpg](https://commons.wikimedia.org/wiki/File:EVA-_Lanxmeer_OfficeBuilding4_2009.jpg)
-  - Vérification : non examinée
+  - Vu : Bâtiment de bureaux avec coursives et garde-corps métalliques.
+  - Vérification : rejetée — Garde-corps non vitré, peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Porte de la Bourse de commerce de Paris.jpg](https://commons.wikimedia.org/wiki/File:Porte_de_la_Bourse_de_commerce_de_Paris.jpg)
-  - Vérification : non examinée
+  - Vu : Grille de porte ouvragée avec balustrade en haut.
+  - Vérification : rejetée — Pas de garde-corps vitré.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Balcony in the church of Mission San Miguel Arcangel, near Templeton, California, ca.1905 (CHS-4010).jpg](https://commons.wikimedia.org/wiki/File:Balcony_in_the_church_of_Mission_San_Miguel_Arcangel,_near_Templeton,_California,_ca.1905_(CHS-4010).jpg)
-  - Vérification : non examinée
+  - Vu : Balustrade en bois d'une église, noir et blanc.
+  - Vérification : rejetée — Balustre bois, ancien noir et blanc.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [2025-12-23 External elevator at 7 Bazaleti Street.jpg](https://commons.wikimedia.org/wiki/File:2025-12-23_External_elevator_at_7_Bazaleti_Street.jpg)
-  - Vérification : non examinée
+  - Vu : Immeuble avec ascenseur extérieur vitré.
+  - Vérification : rejetée — Pas de garde-corps vitré lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le garde-corps à barreaudage — abandonné (vérification en cours)
+### le garde-corps à barreaudage — abandonné
 
 *Garde-corps métallique à barreaux verticaux rapprochés fixés entre une lisse haute et une lisse basse.*
 
 - **Rejetée** — [Sosnowiec, Małachowskieog 9 - hostel, Kamienica pub, Maya Tapas Bar, Dzień i Noc, Sierpień 2024 KsP 096.jpg](https://commons.wikimedia.org/wiki/File:Sosnowiec,_Ma%C5%82achowskieog_9_-_hostel,_Kamienica_pub,_Maya_Tapas_Bar,_Dzie%C5%84_i_Noc,_Sierpie%C5%84_2024_KsP_096.jpg)
-  - Vérification : non examinée
+  - Vu : Façade d'immeuble de Sosnowiec avec petits balcons à balustres et terrasse de restaurant.
+  - Vérification : rejetée — Garde-corps minuscules, en pierre à balustres ; terme non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Hotel Russell - 2015-08-23.jpg](https://commons.wikimedia.org/wiki/File:Hotel_Russell_-_2015-08-23.jpg)
-  - Vérification : non examinée
+  - Vu : Grand hôtel en brique rouge vu en contre-plongée avec garde-corps de balcons très petits.
+  - Vérification : rejetée — Garde-corps trop petits et ornementés (fer forgé).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [6 Grand Avenue Hove 09-2026.jpg](https://commons.wikimedia.org/wiki/File:6_Grand_Avenue_Hove_09-2026.jpg)
-  - Vérification : non examinée
+  - Vu : Façade d'hôtel particulier en brique jaune avec un petit balcon à garde-corps en fonte noire au premier étage.
+  - Vérification : rejetée — Garde-corps trop petit, de type fonte ornementée ; confusion avec fer forgé.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le garde-corps maçonné — abandonné (vérification en cours)
+### le garde-corps maçonné — abandonné
 
 *Muret plein en maçonnerie ou en béton qui fait office de garde-corps sur un balcon ou une terrasse.*
 
 - **Rejetée** — [The Three Graces - Liverpool Waterfront - Royal Liver, Cunard and Port of Liverpool Buildings - panoramic (10730608696).jpg](https://commons.wikimedia.org/wiki/File:The_Three_Graces_-_Liverpool_Waterfront_-_Royal_Liver,_Cunard_and_Port_of_Liverpool_Buildings_-_panoramic_(10730608696).jpg)
-  - Vérification : non examinée
+  - Vu : Les trois bâtiments du front de mer de Liverpool.
+  - Vérification : rejetée — Aucun garde-corps maçonné visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Weathered window and rose hip bush, Rerik-West, 2026-09-07.jpg](https://commons.wikimedia.org/wiki/File:Weathered_window_and_rose_hip_bush,_Rerik-West,_2026-09-07.jpg)
-  - Vérification : non examinée
+  - Vu : Fenêtre en bois délabrée sur un mur enduit avec églantier.
+  - Vérification : rejetée — Aucun garde-corps maçonné visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The Three Graces - Liverpool Waterfront - Royal Liver, Cunard and Port of Liverpool Buildings (10716024675).jpg](https://commons.wikimedia.org/wiki/File:The_Three_Graces_-_Liverpool_Waterfront_-_Royal_Liver,_Cunard_and_Port_of_Liverpool_Buildings_(10716024675).jpg)
-  - Vérification : non examinée
+  - Vu : Bâtiments de Liverpool avec dôme et tours d'horloge.
+  - Vérification : rejetée — Aucun garde-corps maçonné visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Savoy Theatre - Church Street, Monmouth - lantern (18535373294).jpg](https://commons.wikimedia.org/wiki/File:Savoy_Theatre_-_Church_Street,_Monmouth_-_lantern_(18535373294).jpg)
-  - Vérification : non examinée
+  - Vu : Lanterne murale ancienne sur un mur blanc.
+  - Vérification : rejetée — Aucun garde-corps maçonné visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Liverpool window view - Royal Liver Building & Port of Liverpool Building (10628920405).jpg](https://commons.wikimedia.org/wiki/File:Liverpool_window_view_-_Royal_Liver_Building_%26_Port_of_Liverpool_Building_(10628920405).jpg)
-  - Vérification : non examinée
+  - Vu : Dômes et tours de Liverpool sous un ciel gris.
+  - Vérification : rejetée — Aucun garde-corps maçonné visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Lands End (50824080257).jpg](https://commons.wikimedia.org/wiki/File:Lands_End_(50824080257).jpg)
-  - Vérification : non examinée
+  - Vu : Plage de sable et vagues avec phare au loin.
+  - Vérification : rejetée — Aucun garde-corps maçonné visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le store banne — abandonné (vérification en cours)
@@ -2727,28 +2965,34 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vérification : non examinée
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la vitrine — abandonné (vérification en cours)
+### la vitrine — 2 images retenues
 
 *Grande baie vitrée d'un commerce au rez-de-chaussée, derrière laquelle sont exposées les marchandises.*
 
 - **Rejetée** — [Rainbow yarn for knitting, display in front of a needlework shop in Graz, Austria, GW23-100.jpg](https://commons.wikimedia.org/wiki/File:Rainbow_yarn_for_knitting,_display_in_front_of_a_needlework_shop_in_Graz,_Austria,_GW23-100.jpg)
-  - Vérification : non examinée
+  - Vu : Pelotes de laine multicolores vues de près.
+  - Vérification : rejetée — Pas de vitrine visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dress shop window display.jpg](https://commons.wikimedia.org/wiki/File:Dress_shop_window_display.jpg)
-  - Vérification : non examinée
+  - Vu : Photo ancienne en noir et blanc d'une devanture de magasin de mode avec deux vitrines et mannequins.
+  - Vérification : rejetée — Image sombre, peu lisible sur téléphone ; montre plutôt la devanture.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Charity shop window display - geograph.org.uk - 5858029.jpg](https://commons.wikimedia.org/wiki/File:Charity_shop_window_display_-_geograph.org.uk_-_5858029.jpg)
-  - Vérification : non examinée
+  - Vu : Vitrine d'une boutique caritative à cadre rouge avec mannequins, affiches et prix lisibles.
+  - Vérification : rejetée — Textes et panneaux envahissants ; cadrage serré, vitrine peu claire.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Green Flocked Bunny Figurine in a Warsaw Shop Window January 2025.jpg](https://commons.wikimedia.org/wiki/File:Green_Flocked_Bunny_Figurine_in_a_Warsaw_Shop_Window_January_2025.jpg)
-  - Vérification : non examinée
+  - Vu : Lapin décoratif en mousse derrière une vitre.
+  - Vérification : rejetée — Objet exposé seul, vitrine non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Marburg asv2022-02 img06 Reitgasse.jpg](https://commons.wikimedia.org/wiki/File:Marburg_asv2022-02_img06_Reitgasse.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Window display of prom dress shop.jpg](https://commons.wikimedia.org/wiki/File:Window_display_of_prom_dress_shop.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Marburg asv2022-02 img06 Reitgasse.jpg](https://commons.wikimedia.org/wiki/File:Marburg_asv2022-02_img06_Reitgasse.jpg)
+  - Vu : Devanture de librairie ancienne à Marbourg avec deux grandes baies vitrées de part et d'autre de la porte, livres exposés.
+  - Vérification : validée (avec rectangle) — Grande baie vitrée de commerce avec marchandises exposées ; rectangle sur la vitrine gauche pour distinguer de la devanture (incompatible).
+  - Contre-vérification : d'accord — Grande baie vitrée d'une librairie au rez-de-chaussée avec livres exposés, rectangle serré sur la vitrine.
+- **Retenue** — [Window display of prom dress shop.jpg](https://commons.wikimedia.org/wiki/File:Window_display_of_prom_dress_shop.jpg)
+  - Vu : Vitrine de boutique de robes de bal dans un centre commercial, robes sur mannequins derrière une grande vitre.
+  - Vérification : validée — Vitrine typique, claire, marchandises exposées derrière une grande baie vitrée.
+  - Contre-vérification : d'accord — Vitrine de magasin de robes avec mannequins exposés derrière le verre, sujet évident.
 
 ## Gros œuvre et maçonnerie
 
@@ -2781,66 +3025,80 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
   - Vérification : validée (avec rectangle) — Parpaings de béton nets et caractéristiques ; rectangle sur le mur pour écarter l'affiche et les pierres du soubassement.
   - Contre-vérification : d'accord — Mur de blocs de béton gris vus de face, bien cadré par le rectangle qui exclut les pierres à droite et les claustras en haut.
 
-### la fondation — abandonné (vérification en cours)
+### la fondation — abandonné
 
 *Partie enterrée d'un ouvrage, en béton ou en maçonnerie, qui reporte ses charges sur le sol, vue en cours de travaux au fond des fouilles.*
 
 - **Rejetée** — [2012.08 - 'Concrete & old brick foundation under Central Station Amsterdam', urban photo of construction activities, Fons Heijnsbroek (12101703396).jpg](https://commons.wikimedia.org/wiki/File:2012.08_-_%27Concrete_%26_old_brick_foundation_under_Central_Station_Amsterdam%27,_urban_photo_of_construction_activities,_Fons_Heijnsbroek_(12101703396).jpg)
-  - Vérification : non examinée
+  - Vu : Fondations anciennes en brique et pieux bois sous la gare, avec un ouvrier à genoux sur un sol de béton.
+  - Vérification : rejetée — Vestiges mêlés d'étaiements et de dalle ; ambigu avec pieu, radier, semelle.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Construction foundation.jpg](https://commons.wikimedia.org/wiki/File:Construction_foundation.jpg)
-  - Vérification : non examinée
+  - Vu : Fouille profonde avec poteaux et armatures en attente.
+  - Vérification : rejetée — Scène confuse, pourrait illustrer fouille, pieu, semelle ; pas claire.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [2012.08 - 'Old & new foundation constructions under Central Station Amsterdam', urban photo of construction activities, Fons Heijnsbroek (12101321055).jpg](https://commons.wikimedia.org/wiki/File:2012.08_-_%27Old_%26_new_foundation_constructions_under_Central_Station_Amsterdam%27,_urban_photo_of_construction_activities,_Fons_Heijnsbroek_(12101321055).jpg)
-  - Vérification : non examinée
+  - Vu : Massifs de maçonnerie en brique sous la gare, ouvrier au pied.
+  - Vérification : rejetée — Ambigu et complexe (étaiements).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Goldsun Development Cement Mixer Truck Parked beside Building Construction Site in Lane 180, Jiankang Road 20150401.jpg](https://commons.wikimedia.org/wiki/File:Goldsun_Development_Cement_Mixer_Truck_Parked_beside_Building_Construction_Site_in_Lane_180,_Jiankang_Road_20150401.jpg)
-  - Vérification : non examinée
+  - Vu : Camion malaxeur de béton dans la rue.
+  - Vérification : rejetée — Pas de fondation visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Pump truck concrete pour Enfield NS.jpg](https://commons.wikimedia.org/wiki/File:Pump_truck_concrete_pour_Enfield_NS.jpg)
-  - Vérification : non examinée
+  - Vu : Camion pompe à béton sur un chantier, au loin.
+  - Vérification : rejetée — Fondation trop petite, camion dominant.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Pump truck concrete pour Enfield NS 2.jpg](https://commons.wikimedia.org/wiki/File:Pump_truck_concrete_pour_Enfield_NS_2.jpg)
-  - Vérification : non examinée
+  - Vu : Camion pompe et malaxeur au loin sur un chantier.
+  - Vérification : rejetée — Fondation trop petite.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la semelle filante — abandonné (vérification en cours)
+### la semelle filante — abandonné
 
 *Fondation continue en béton armé, en forme de bande, coulée au fond d'une tranchée sous toute la longueur d'un mur.*
 
 - **Rejetée** — [Building and engineering news (1916) (14778463941).jpg](https://commons.wikimedia.org/wiki/File:Building_and_engineering_news_(1916)_(14778463941).jpg)
-  - Vérification : non examinée
+  - Vu : Page d'ancien magazine en noir et blanc avec trois photos de chantier de métro.
+  - Vérification : rejetée — Document ancien, texte, rien d'identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la semelle isolée — abandonné (vérification en cours)
+### la semelle isolée — abandonné
 
 *Fondation ponctuelle en béton armé, en forme de bloc carré ou rectangulaire, placée sous un poteau dont les armatures en sortent.*
 
 - **Rejetée** — [Linda Vista reinforced concrete bridge, Pasadena, California (Architect and engineer, 1909.jpg](https://commons.wikimedia.org/wiki/File:Linda_Vista_reinforced_concrete_bridge,_Pasadena,_California_(Architect_and_engineer,_1909.jpg)
-  - Vérification : non examinée
+  - Vu : Photo ancienne d'un pont en béton armé sur chevalets.
+  - Vérification : rejetée — Aucune semelle visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The top of Lisbon Santa Justa Lift (26463851550).jpg](https://commons.wikimedia.org/wiki/File:The_top_of_Lisbon_Santa_Justa_Lift_(26463851550).jpg)
-  - Vérification : non examinée
+  - Vu : Sommet de l'ascenseur de Santa Justa.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Santa Justa Lift - Iron details (26249724533).jpg](https://commons.wikimedia.org/wiki/File:Santa_Justa_Lift_-_Iron_details_(26249724533).jpg)
-  - Vérification : non examinée
+  - Vu : Détail en fer ajouré néo-gothique de l'ascenseur.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le béton de propreté — abandonné (vérification en cours)
+### le béton de propreté — abandonné
 
 *Mince couche de béton maigre coulée au fond des fouilles pour obtenir une surface propre et plane avant de poser les armatures.*
 
 - **Rejetée** — [Pipeline device.jpg](https://commons.wikimedia.org/wiki/File:Pipeline_device.jpg)
-  - Vérification : non examinée
+  - Vu : Poste de tuyauterie de gazoduc enneigé sur plots.
+  - Vérification : rejetée — Sans rapport avec le béton de propreté.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [St. Francis of Assisi RC Church, Tonawanda, New York - 20230225.jpg](https://commons.wikimedia.org/wiki/File:St._Francis_of_Assisi_RC_Church,_Tonawanda,_New_York_-_20230225.jpg)
-  - Vérification : non examinée
+  - Vu : Façade d'une église en briques.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The street railway review (1891) (14758017321).jpg](https://commons.wikimedia.org/wiki/File:The_street_railway_review_(1891)_(14758017321).jpg)
-  - Vérification : non examinée
+  - Vu : Plan technique ancien.
+  - Vérification : rejetée — Dessin, rejeté.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Labyrinth of the mind.JPG](https://commons.wikimedia.org/wiki/File:Labyrinth_of_the_mind.JPG)
-  - Vérification : non examinée
+  - Vu : Peinture abstraite colorée.
+  - Vérification : rejetée — Peinture, sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la fouille — abandonné (vérification en cours)
@@ -2848,22 +3106,28 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
 *Excavation creusée dans le terrain pour recevoir les fondations ou un sous-sol.*
 
 - **Rejetée** — [2005.04 - 'Rusty sheet pilings and foundation constructions' - Amsterdam photos & pictures, of the excavation-site at the Oosterdok, Amsterdam; Dutch city photo geotag, Fons Heijnsbroek, The Netherlands (27490379361).jpg](https://commons.wikimedia.org/wiki/File:2005.04_-_%27Rusty_sheet_pilings_and_foundation_constructions%27_-_Amsterdam_photos_%26_pictures,_of_the_excavation-site_at_the_Oosterdok,_Amsterdam;_Dutch_city_photo_geotag,_Fons_Heijnsbroek,_The_Netherlands_(27490379361).jpg)
-  - Vérification : non examinée
+  - Vu : Excavation bordée de palplanches rouillées, traversée de gros tubes d'étaiement, fond de fouille peu visible.
+  - Vérification : rejetée — Les étais et le blindage dominent ; le fond de fouille est à peine visible, lecture ambiguë.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [CPCU vue de la fouille depuis la centrale béton.jpg](https://commons.wikimedia.org/wiki/File:CPCU_vue_de_la_fouille_depuis_la_centrale_b%C3%A9ton.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Photographie noir et blanc d'une vaste fouille en travaux, parois de terre et de maçonnerie, rideau de palplanches, pelle mécanique et ouvriers au fond.
+  - Vérification : validée — Grande excavation clairement lisible, creusée pour des fondations ou un sous-sol ; ancienne mais réelle et nette.
+  - Contre-vérification : —
 - **Rejetée** — [2007.06 - 'A close-up view in the excavation' - Amsterdam photos and pictures, Oosterdok Docklands with pile plants - on the background the Municipal Library, O.B.A.; Dutch city + geotag, Fons Heijnsbroek, The Netherlands (11292147744).jpg](https://commons.wikimedia.org/wiki/File:2007.06_-_%27A_close-up_view_in_the_excavation%27_-_Amsterdam_photos_and_pictures,_Oosterdok_Docklands_with_pile_plants_-_on_the_background_the_Municipal_Library,_O.B.A.;_Dutch_city_%2B_geotag,_Fons_Heijnsbroek,_The_Netherlands_(11292147744).jpg)
-  - Vérification : non examinée
+  - Vu : Vaste chantier avec rideau de palplanches, machines de forage et pieux, immeubles au fond.
+  - Vérification : rejetée — Chantier général ; pas de fouille nettement identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Médamoud - chantier archéologique, fouilles de la plateforme de fondation du Nouvel Empire à l'est du sanctuaire de barque - btv1b10101565w.jpg](https://commons.wikimedia.org/wiki/File:M%C3%A9damoud_-_chantier_arch%C3%A9ologique,_fouilles_de_la_plateforme_de_fondation_du_Nouvel_Empire_%C3%A0_l%27est_du_sanctuaire_de_barque_-_btv1b10101565w.jpg)
-  - Vérification : non examinée
+  - Vu : Chantier archéologique égyptien en noir et blanc, blocs de pierre et ouvriers.
+  - Vérification : rejetée — Fouille archéologique, pas une fouille de construction.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Pacific service magazine (1924) (14595383247).jpg](https://commons.wikimedia.org/wiki/File:Pacific_service_magazine_(1924)_(14595383247).jpg)
-  - Vérification : non examinée
+  - Vu : Reproduction ancienne d'un barrage ou d'une écluse en chantier au bord d'une rivière.
+  - Vérification : rejetée — Reproduction imprimée, fouille non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [(Photographie de fouilles) - Fonds Berthelé - 49Fi1541.jpg](https://commons.wikimedia.org/wiki/File:(Photographie_de_fouilles)_-_Fonds_Berthel%C3%A9_-_49Fi1541.jpg)
-  - Vérification : non examinée
+  - Vu : Plaque de verre d'une photo de fouilles archéologiques vue de loin.
+  - Vérification : rejetée — Fouille archéologique, image de reproduction peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la tranchée de fondation — abandonné (vérification en cours)
@@ -2871,22 +3135,28 @@ Résultat : 86 termes illustrés, 137 images retenues, 26 termes abandonnés fau
 *Fouille longue et étroite creusée selon le tracé des murs pour recevoir les semelles filantes.*
 
 - **Rejetée** — [Foundation trench - geograph.org.uk - 4381504.jpg](https://commons.wikimedia.org/wiki/File:Foundation_trench_-_geograph.org.uk_-_4381504.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Longue tranchée étroite creusée dans la terre sur un lotissement, avec béton au fond et treillis visible, maisons en arrière-plan.
+  - Vérification : validée — Tranchée longue et étroite en plein sol, typique d'une tranchée de fondation ; dominante dans l'image.
+  - Contre-vérification : —
 - **Rejetée** — [Flood wall D foundation trench on the south side of the Shimna River - geograph.org.uk - 7076394.jpg](https://commons.wikimedia.org/wiki/File:Flood_wall_D_foundation_trench_on_the_south_side_of_the_Shimna_River_-_geograph.org.uk_-_7076394.jpg)
-  - Vérification : non examinée
+  - Vu : Tranchée au bord d'un chemin de chantier, fond en béton clair, ruban vert et cône.
+  - Vérification : rejetée — Tranchée de mur anti-crue en bord de route, sa fonction de fondation n'est pas évidente.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — ["Trench at upstream toe of Boulder Dam foundation, looking toward Nevada side from top of Arizona bench nearly on... - NARA - 293905.jpg](https://commons.wikimedia.org/wiki/File:%22Trench_at_upstream_toe_of_Boulder_Dam_foundation,_looking_toward_Nevada_side_from_top_of_Arizona_bench_nearly_on..._-_NARA_-_293905.jpg)
-  - Vérification : non examinée
+  - Vu : Photographie ancienne noir et blanc d'une profonde excavation rocheuse de barrage avec ouvriers.
+  - Vérification : rejetée — Grande fouille de barrage, pas une tranchée de fondation de bâtiment.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [2008-08-28 Wacker RT trench roller.jpg](https://commons.wikimedia.org/wiki/File:2008-08-28_Wacker_RT_trench_roller.jpg)
-  - Vérification : non examinée
+  - Vu : Compacteur à rouleaux jaune sur un terrain de chantier.
+  - Vérification : rejetée — Engin, pas une tranchée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [2008-08-28 Wacker RT trench roller wheels.jpg](https://commons.wikimedia.org/wiki/File:2008-08-28_Wacker_RT_trench_roller_wheels.jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan sur les rouleaux boueux d'un compacteur.
+  - Vérification : rejetée — Engin, pas une tranchée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Kensico reservoir. General view of excavation and foundation for Kensico dam. Cut-off trench being excavated at right. Contract 9. December 31, 1912 (NYPL b13814376-435379).jpg](https://commons.wikimedia.org/wiki/File:Kensico_reservoir._General_view_of_excavation_and_foundation_for_Kensico_dam._Cut-off_trench_being_excavated_at_right._Contract_9._December_31,_1912_(NYPL_b13814376-435379).jpg)
-  - Vérification : non examinée
+  - Vu : Reproduction d'un album ancien montrant la vue générale d'un grand chantier de barrage.
+  - Vérification : rejetée — Vue éloignée, illisible, reproduction.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le hérisson — abandonné
@@ -2901,22 +3171,28 @@ Aucune image candidate trouvée sur Commons.
 *Coulage du béton dans un coffrage ou sur une dalle, à la pompe, à la goulotte ou au seau.*
 
 - **Rejetée** — [US Navy 030429-N-2517J-003 Seabees from Naval Mobile Construction Battalion One Thirty Three (NMCB-133) smooth the surface of newly poured concrete slab, using a screed board and rakes, during repair and improvements for the ru.jpg](https://commons.wikimedia.org/wiki/File:US_Navy_030429-N-2517J-003_Seabees_from_Naval_Mobile_Construction_Battalion_One_Thirty_Three_(NMCB-133)_smooth_the_surface_of_newly_poured_concrete_slab,_using_a_screed_board_and_rakes,_during_repair_and_improvements_for_the_ru.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Trois militaires étalent et talochent du béton frais sur une grande dalle au sol avec râteaux et règle.
+  - Vérification : validée — Coulage et mise en oeuvre du béton sur une dalle, action clairement visible.
+  - Contre-vérification : —
 - **Rejetée** — [Coulage de béton pour dalle, Tunisie.jpg](https://commons.wikimedia.org/wiki/File:Coulage_de_b%C3%A9ton_pour_dalle,_Tunisie.jpg)
-  - Vérification : non examinée
+  - Vu : Immeuble en construction en briques creuses, camion pompe à bras déployé et pompe à béton au premier plan.
+  - Vérification : rejetée — On voit la pompe, pas le béton coulé ; la pompe à béton serait la réponse la plus évidente.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Engineers at the Construction Site 11.jpg](https://commons.wikimedia.org/wiki/File:Engineers_at_the_Construction_Site_11.jpg)
-  - Vérification : non examinée
+  - Vu : Tranchée de fondation en terre rouge avec armatures dressées et béton au fond.
+  - Vérification : rejetée — Évoque semelle filante ou fondation plutôt que le bétonnage.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Engineers at the Construction Site 12.jpg](https://commons.wikimedia.org/wiki/File:Engineers_at_the_Construction_Site_12.jpg)
-  - Vérification : non examinée
+  - Vu : Même tranchée avec armatures et rangée de briques.
+  - Vérification : rejetée — Évoque semelle filante ou fondation.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Coulage de la dalle béton d'une maison individuelle (MAISON CMI).jpg](https://commons.wikimedia.org/wiki/File:Coulage_de_la_dalle_b%C3%A9ton_d%27une_maison_individuelle_(MAISON_CMI).jpg)
-  - Vérification : non examinée
+  - Vu : Camion toupie et bras de pompe de l'autre côté d'une pelouse, dalle de maison au fond.
+  - Vérification : rejetée — Coulage trop lointain et masqué par la végétation ; panneau de chantier visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Engineers at the Construction Site 17.jpg](https://commons.wikimedia.org/wiki/File:Engineers_at_the_Construction_Site_17.jpg)
-  - Vérification : non examinée
+  - Vu : Ouvrier versant du béton dans une tranchée avec armatures, à la pelle.
+  - Vérification : rejetée — Plutôt semelle filante ou fondation ; ambigu pour le bétonnage.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le ferraillage — abandonné (vérification en cours)
@@ -2924,47 +3200,58 @@ Aucune image candidate trouvée sur Commons.
 *Ensemble des barres d'acier assemblées en place avant le coulage, qui formeront les armatures d'un ouvrage en béton armé.*
 
 - **Rejetée** — [Baustelle-Hölzla-Rebar-6228085.jpg](https://commons.wikimedia.org/wiki/File:Baustelle-H%C3%B6lzla-Rebar-6228085.jpg)
-  - Vérification : non examinée
+  - Vu : Vue de l'intérieur d'une grande cage cylindrique d'armatures pour pieu foré, ciel bleu au fond.
+  - Vérification : rejetée — Image spectaculaire mais montre une cage d'armature de pieu : trop proche d'un terme voisin.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Installation of rebar reinforcement at 335 Madison parking level. (CM014B, 4-24-2018) (42149187742).jpg](https://commons.wikimedia.org/wiki/File:Installation_of_rebar_reinforcement_at_335_Madison_parking_level._(CM014B,_4-24-2018)_(42149187742).jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Quadrillage de barres d'acier à haute adhérence peintes en vert, liées entre elles devant un coffrage en contreplaqué.
+  - Vérification : validée — Armatures en place avant coulage, barres HA ligaturées, très lisible.
+  - Contre-vérification : —
 - **Rejetée** — [Steel reinforcement rods.jpg](https://commons.wikimedia.org/wiki/File:Steel_reinforcement_rods.jpg)
-  - Vérification : non examinée
+  - Vu : Faisceau de barres d'acier rouillées couchées.
+  - Vérification : rejetée — Barres en stock : évoque le fer à béton, pas le ferraillage en place.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Installing rebar reinforcement for the 47th Street entrance to the future LIRR Concourse. 05-29-2019 (47974619121).jpg](https://commons.wikimedia.org/wiki/File:Installing_rebar_reinforcement_for_the_47th_Street_entrance_to_the_future_LIRR_Concourse._05-29-2019_(47974619121).jpg)
-  - Vérification : non examinée
+  - Vu : Ouvrier dans un escalier de coffrage en bois avec armatures sorties.
+  - Vérification : rejetée — Scène confuse, armatures peu lisibles.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Baustelle-Hölzla-Rebar-4141399.jpg](https://commons.wikimedia.org/wiki/File:Baustelle-H%C3%B6lzla-Rebar-4141399.jpg)
-  - Vérification : non examinée
+  - Vu : Cage cylindrique d'armature posée au sol, vue de face.
+  - Vérification : rejetée — Cage d'armature de pieu, terme voisin.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Bridge reinforcement weidatal.jpg](https://commons.wikimedia.org/wiki/File:Bridge_reinforcement_weidatal.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Grand ouvrage en tranchée avec murs et radier entièrement ferraillés, grues au fond.
+  - Vérification : validée — Nappes d'armatures de murs et de dalle en place avant coulage, clair et dominant.
+  - Contre-vérification : —
 
-### le fer à béton — abandonné (vérification en cours)
+### le fer à béton — abandonné
 
 *Barre d'acier à surface crénelée, dite haute adhérence (HA), livrée en longueurs droites et façonnée sur le chantier.*
 
 - **Rejetée** — [Handbook for architects and builders (1898) (14776305971).jpg](https://commons.wikimedia.org/wiki/File:Handbook_for_architects_and_builders_(1898)_(14776305971).jpg)
-  - Vérification : non examinée
+  - Vu : Photographie ancienne d'un atelier d'usine avec poteaux, courroies et moteurs.
+  - Vérification : rejetée — Rien à voir avec le fer à béton.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The Architect and engineer of California and the Pacific Coast (1917) (14781789392).jpg](https://commons.wikimedia.org/wiki/File:The_Architect_and_engineer_of_California_and_the_Pacific_Coast_(1917)_(14781789392).jpg)
-  - Vérification : non examinée
+  - Vu : Page imprimée de publicité ancienne avec texte et un hôtel.
+  - Vérification : rejetée — Document imprimé, pas une photo de l'élément.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le cadre d'armature — abandonné (vérification en cours)
+### le cadre d'armature — abandonné
 
 *Barre d'acier pliée en carré ou en rectangle fermé, qui entoure les barres longitudinales d'un poteau ou d'une poutre.*
 
 - **Rejetée** — [US Navy 100204-N-9584H-021 Utilitiesman Constructionman Apprentice Alex Strickland creates a rebar stirrup for the concrete pad of a new command and control facility at Kandahar Airfield, Afghanistan.jpg](https://commons.wikimedia.org/wiki/File:US_Navy_100204-N-9584H-021_Utilitiesman_Constructionman_Apprentice_Alex_Strickland_creates_a_rebar_stirrup_for_the_concrete_pad_of_a_new_command_and_control_facility_at_Kandahar_Airfield,_Afghanistan.jpg)
-  - Vérification : non examinée
+  - Vu : Militaire plie une barre d'acier sur un établi, tas de cadres rectangulaires et d'étriers au sol sur du gravier.
+  - Vérification : rejetée — Homme dominant ; cadres en vrac difficiles à distinguer des étriers.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [U S Navy Seabees build 2-room schoolhouse in Nabua Village, Fiji as part of Pacific Partnership 2026 (9807090).jpg](https://commons.wikimedia.org/wiki/File:U_S_Navy_Seabees_build_2-room_schoolhouse_in_Nabua_Village,_Fiji_as_part_of_Pacific_Partnership_2026_(9807090).jpg)
-  - Vérification : non examinée
+  - Vu : Militaire assemble une armature de poutre sur un établi, barres longitudinales et cadres peu visibles.
+  - Vérification : rejetée — Armature trop petite et peu lisible, personne au premier plan.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Seabees deployed with Naval Mobile Construction Battalion 5's Detail Marshall Islands continue work on the Ennibur Evacuation Center project (5952847).jpg](https://commons.wikimedia.org/wiki/File:Seabees_deployed_with_Naval_Mobile_Construction_Battalion_5%27s_Detail_Marshall_Islands_continue_work_on_the_Ennibur_Evacuation_Center_project_(5952847).jpg)
-  - Vérification : non examinée
+  - Vu : Militaire plie une barre HA verte sur une machine à cintrer.
+  - Vérification : rejetée — Montre le cintrage, pas un cadre fini.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le treillis soudé — abandonné (vérification en cours)
@@ -2972,23 +3259,29 @@ Aucune image candidate trouvée sur Commons.
 *Grillage de barres d'acier soudées en mailles carrées ou rectangulaires, livré en panneaux, posé dans les dalles et les dallages.*
 
 - **Rejetée** — [Rusty rebar nets.jpg](https://commons.wikimedia.org/wiki/File:Rusty_rebar_nets.jpg)
-  - Vérification : non examinée
+  - Vu : Panneaux de treillis soudé en barres HA rouillées empilés, vue rapprochée.
+  - Vérification : rejetée — Empilement dense, maille peu lisible ; on préfère la candidate 06.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [GI welded Fence 100mm 6mm (2).jpg](https://commons.wikimedia.org/wiki/File:GI_welded_Fence_100mm_6mm_(2).jpg)
-  - Vérification : non examinée
+  - Vu : Grillage galvanisé en fil fin avec mètre ruban.
+  - Vérification : rejetée — Grillage de clôture et mètre ruban, pas un treillis pour béton armé.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [GI welded mesh 100mm 6mm (4).jpg](https://commons.wikimedia.org/wiki/File:GI_welded_mesh_100mm_6mm_(4).jpg)
-  - Vérification : non examinée
+  - Vu : Maille galvanisée avec mètre ruban sur fond clair.
+  - Vérification : rejetée — Grillage de clôture et mètre ruban.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [GI welded mesh 100mm 6mm (5).jpg](https://commons.wikimedia.org/wiki/File:GI_welded_mesh_100mm_6mm_(5).jpg)
-  - Vérification : non examinée
+  - Vu : Pile de panneaux de grillage galvanisé, logo en incrustation.
+  - Vérification : rejetée — Grillage galvanisé et logo ; pas le treillis soudé du béton armé.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Construction workers in Mexico.jpg](https://commons.wikimedia.org/wiki/File:Construction_workers_in_Mexico.jpg)
-  - Vérification : non examinée
+  - Vu : Silhouettes d'ouvriers devant une armature, image détourée en noir et blanc.
+  - Vérification : rejetée — Image retouchée en silhouette.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Five rebar nets closeup.jpg](https://commons.wikimedia.org/wiki/File:Five_rebar_nets_closeup.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Panneaux de treillis soudé en barres HA rouillées, mailles carrées bien visibles, vus en plongée.
+  - Vérification : validée — Panneaux soudés à mailles régulières, typiques du treillis soudé pour dalles.
+  - Contre-vérification : —
 
 ### l'armature en attente — abandonné
 
@@ -2997,27 +3290,33 @@ Aucune image candidate trouvée sur Commons.
 Aucune image candidate trouvée sur Commons.
 
 
-### le hourdis — abandonné (vérification en cours)
+### le hourdis — abandonné
 
 *Bloc creux en béton ou en polystyrène, aussi appelé entrevous, posé entre les poutrelles d'un plancher avant le coulage de la dalle de compression.*
 
 - **Rejetée** — [Coulage plancher.JPG](https://commons.wikimedia.org/wiki/File:Coulage_plancher.JPG)
-  - Vérification : non examinée
+  - Vu : Deux ouvriers talochent le béton sur un plancher, treillis visible au bord.
+  - Vérification : rejetée — Les hourdis ne sont pas visibles sous le béton.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Beam ^ block floor, Meadows View development - geograph.org.uk - 4523943.jpg](https://commons.wikimedia.org/wiki/File:Beam_%5E_block_floor,_Meadows_View_development_-_geograph.org.uk_-_4523943.jpg)
-  - Vérification : non examinée
+  - Vu : Poutrelles préfabriquées posées sur des murets de brique, sans entrevous.
+  - Vérification : rejetée — Montre les poutrelles seules, pas les hourdis.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [-2019-11-29 Block & Beam floor beams, Trimingham.JPG](https://commons.wikimedia.org/wiki/File:-2019-11-29_Block_%26_Beam_floor_beams,_Trimingham.JPG)
-  - Vérification : non examinée
+  - Vu : Poutrelles en T empilées devant un tas d'éléments emballés.
+  - Vérification : rejetée — Poutrelles, pas des hourdis.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [-2019-11-29 Block & Beam floor blocks, Trimingham.JPG](https://commons.wikimedia.org/wiki/File:-2019-11-29_Block_%26_Beam_floor_blocks,_Trimingham.JPG)
-  - Vérification : non examinée
+  - Vu : Palettes de blocs de béton gris empilées devant une maison.
+  - Vérification : rejetée — Blocs pleins ressemblant à des parpaings, rien ne les identifie comme hourdis.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Construction at A. Reyrolle and Co. Ltd. (21438187330).jpg](https://commons.wikimedia.org/wiki/File:Construction_at_A._Reyrolle_and_Co._Ltd._(21438187330).jpg)
-  - Vérification : non examinée
+  - Vu : Plaque de verre ancienne d'un grand bloc de pierre dans un atelier.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Architect and engineer (1947) (14578727048).jpg](https://commons.wikimedia.org/wiki/File:Architect_and_engineer_(1947)_(14578727048).jpg)
-  - Vérification : non examinée
+  - Vu : Photographie ancienne d'une salle de pianos avec colonnes.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la poutrelle — abandonné
@@ -3034,119 +3333,149 @@ Aucune image candidate trouvée sur Commons.
 Aucune image candidate trouvée sur Commons.
 
 
-### le chaînage horizontal — abandonné (vérification en cours)
+### le chaînage horizontal — abandonné
 
 *Ceinture continue en béton armé coulée sur les murs au niveau des planchers ou en tête de mur.*
 
 - **Rejetée** — [HMS Victory - Portsmouth Historic Dockyard - Quarter Deck - South Office Block - Storehouses 10 & 11 (9351531683).jpg](https://commons.wikimedia.org/wiki/File:HMS_Victory_-_Portsmouth_Historic_Dockyard_-_Quarter_Deck_-_South_Office_Block_-_Storehouses_10_%26_11_(9351531683).jpg)
-  - Vérification : non examinée
+  - Vu : Mât du HMS Victory devant des bâtiments de brique.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Worcester Shrub Hill Station - footbridge - London Midland Class 172 on platform 2 (6365918749).jpg](https://commons.wikimedia.org/wiki/File:Worcester_Shrub_Hill_Station_-_footbridge_-_London_Midland_Class_172_on_platform_2_(6365918749).jpg)
-  - Vérification : non examinée
+  - Vu : Quai de gare avec train et voies.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Worcester Shrub Hill Station - footbridge - London Midland Class 172 on platform 2 (6365921217).jpg](https://commons.wikimedia.org/wiki/File:Worcester_Shrub_Hill_Station_-_footbridge_-_London_Midland_Class_172_on_platform_2_(6365921217).jpg)
-  - Vérification : non examinée
+  - Vu : Gare avec passerelle et train.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [C.M.U. Structure.jpg](https://commons.wikimedia.org/wiki/File:C.M.U._Structure.jpg)
-  - Vérification : non examinée
+  - Vu : Mur en blocs de béton dans un atelier, sans chaînage visible.
+  - Vérification : rejetée — Le chaînage n'est pas visible ; simple mur de blocs.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [OH 13 043 (26880986662).jpg](https://commons.wikimedia.org/wiki/File:OH_13_043_(26880986662).jpg)
-  - Vérification : non examinée
+  - Vu : Mur de blocs de béton sous une charpente métallique avec inscriptions.
+  - Vérification : rejetée — Chaînage non identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [BOXLEY ABBEY HOUSE. (Not open to the public) S.P.A.B open day. (52206852206).jpg](https://commons.wikimedia.org/wiki/File:BOXLEY_ABBEY_HOUSE._(Not_open_to_the_public)_S.P.A.B_open_day._(52206852206).jpg)
-  - Vérification : non examinée
+  - Vu : Maison ancienne en brique.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le chaînage vertical — abandonné (vérification en cours)
+### le chaînage vertical — abandonné
 
 *Petit poteau en béton armé coulé dans la maçonnerie aux angles et aux croisements des murs, souvent appelé raidisseur.*
 
 - **Rejetée** — [Savoy Theatre - Church Street, Monmouth - lantern (18535373294).jpg](https://commons.wikimedia.org/wiki/File:Savoy_Theatre_-_Church_Street,_Monmouth_-_lantern_(18535373294).jpg)
-  - Vérification : non examinée
+  - Vu : Lanterne métallique fixée à un mur.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The sanctuary of Zeus Hypsistos, Ancient Dion (6933607844).jpg](https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion_(6933607844).jpg)
-  - Vérification : non examinée
+  - Vu : Ruines d'un sanctuaire antique dans l'herbe.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The sanctuary of Zeus Hypsistos, Ancient Dion (6933632176).jpg](https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion_(6933632176).jpg)
-  - Vérification : non examinée
+  - Vu : Ruines d'un sanctuaire antique dans l'herbe.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The sanctuary of Zeus Hypsistos, Ancient Dion.jpg](https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion.jpg)
-  - Vérification : non examinée
+  - Vu : Mur en ruine antique avec statue de Zeus dans une niche.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The sanctuary of Zeus Hypsistos, Ancient Dion (7079681743).jpg](https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion_(7079681743).jpg)
-  - Vérification : non examinée
+  - Vu : Statue de Zeus dans une niche d'un mur en ruine.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The sanctuary of Zeus Hypsistos, Ancient Dion (6933623052).jpg](https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion_(6933623052).jpg)
-  - Vérification : non examinée
+  - Vu : Ruines d'un sanctuaire antique dans l'herbe.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le linteau coulé en place — abandonné (vérification en cours)
+### le linteau coulé en place — abandonné
 
 *Linteau en béton armé coffré et coulé sur le chantier au-dessus d'une baie, parfois continu avec le chaînage.*
 
 - **Rejetée** — [Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52361036145.jpg](https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52361036145.jpg)
-  - Vérification : non examinée
+  - Vu : Façade de brique d'une école avec cour goudronnée, à Covington (Kentucky).
+  - Vérification : rejetée — Aucun linteau coulé en place identifiable ; photo hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52359667132.jpg](https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52359667132.jpg)
-  - Vérification : non examinée
+  - Vu : Façade de brique d'une école avec cour goudronnée, à Covington (Kentucky).
+  - Vérification : rejetée — Aucun linteau coulé en place identifiable ; photo hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52360850338.jpg](https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52360850338.jpg)
-  - Vérification : non examinée
+  - Vu : Façade de brique d'une école avec cour goudronnée, à Covington (Kentucky).
+  - Vérification : rejetée — Aucun linteau coulé en place identifiable ; photo hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52360851008.jpg](https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52360851008.jpg)
-  - Vérification : non examinée
+  - Vu : Façade de brique d'une école avec cour goudronnée, à Covington (Kentucky).
+  - Vérification : rejetée — Aucun linteau coulé en place identifiable ; photo hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52361034685.jpg](https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52361034685.jpg)
-  - Vérification : non examinée
+  - Vu : Façade de brique d'une école avec cour goudronnée, à Covington (Kentucky).
+  - Vérification : rejetée — Aucun linteau coulé en place identifiable ; photo hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52361036045.jpg](https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52361036045.jpg)
-  - Vérification : non examinée
+  - Vu : Façade de brique d'une école avec cour goudronnée, à Covington (Kentucky).
+  - Vérification : rejetée — Aucun linteau coulé en place identifiable ; photo hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la maçonnerie — abandonné (vérification en cours)
+### la maçonnerie — abandonné
 
 *Ouvrage fait de blocs, de briques ou de pierres assemblés, le plus souvent au mortier.*
 
 - **Rejetée** — [Cordwood masonry wall.jpg](https://commons.wikimedia.org/wiki/File:Cordwood_masonry_wall.jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan d'un mur en bois cordé (rondins) dans un mortier clair.
+  - Vérification : rejetée — Mur en bois cordé, ne représente pas la maçonnerie en général.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Braced masonry wall - geograph.org.uk - 6574225.jpg](https://commons.wikimedia.org/wiki/File:Braced_masonry_wall_-_geograph.org.uk_-_6574225.jpg)
-  - Vérification : non examinée
+  - Vu : Long mur de pierre contrebuté par des massifs de béton, devant un parking gravillonné.
+  - Vérification : rejetée — Mur en moellons avec contreforts : ambigu avec des termes voisins.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Åvinge gård 2014b.jpg](https://commons.wikimedia.org/wiki/File:%C3%85vinge_g%C3%A5rd_2014b.jpg)
-  - Vérification : non examinée
+  - Vu : Cabane en bois cordé avec remplissage de pierres sombres.
+  - Vérification : rejetée — Construction vernaculaire atypique.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Wall decoration and insulation with Masonry Veneer.jpg](https://commons.wikimedia.org/wiki/File:Wall_decoration_and_insulation_with_Masonry_Veneer.jpg)
-  - Vérification : non examinée
+  - Vu : Mur de briques rouges en gros plan, appareil irrégulier.
+  - Vérification : rejetée — Pourrait illustrer assise, panneresse, joint ou appareil : trop de confusions voisines.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Cordwood wall with bottles J3.JPG](https://commons.wikimedia.org/wiki/File:Cordwood_wall_with_bottles_J3.JPG)
-  - Vérification : non examinée
+  - Vu : Mur en bois cordé avec bouteilles de verre dans un enduit.
+  - Vérification : rejetée — Hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Cordwood wall with bottles J2.JPG](https://commons.wikimedia.org/wiki/File:Cordwood_wall_with_bottles_J2.JPG)
-  - Vérification : non examinée
+  - Vu : Mur en bois cordé avec bouteilles de verre dans un enduit.
+  - Vérification : rejetée — Hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le mur de remplissage — abandonné (vérification en cours)
+### le mur de remplissage — abandonné
 
 *Mur en maçonnerie non porteur monté entre les poteaux et les poutres d'une ossature en béton armé.*
 
 - **Rejetée** — [Concrete Brick House Construction Sasatgre Oct24 A7CR 03727.jpg](https://commons.wikimedia.org/wiki/File:Concrete_Brick_House_Construction_Sasatgre_Oct24_A7CR_03727.jpg)
-  - Vérification : non examinée
+  - Vu : Petite construction à ossature béton avec remplissage de briques apparentes, tôles en toiture et en fermeture de baie.
+  - Vérification : rejetée — Remplissage visible mais petit, inachevé et mêlé de tôles et planches ; pourrait être lu comme maçonnerie de briques : doute.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [5. Footer Stabilization, Water Infiltration, North Wall. (b011a751-246d-4a9e-a20c-eac68f46df99).JPG](https://commons.wikimedia.org/wiki/File:5._Footer_Stabilization,_Water_Infiltration,_North_Wall._(b011a751-246d-4a9e-a20c-eac68f46df99).JPG)
-  - Vérification : non examinée
+  - Vu : Semelle de fondation bétonnée contre un mur de pierre.
+  - Vérification : rejetée — Hors sujet : fondation.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Coal drop yard York Central Jun25.jpg](https://commons.wikimedia.org/wiki/File:Coal_drop_yard_York_Central_Jun25.jpg)
-  - Vérification : non examinée
+  - Vu : Chantier de terrassement avec tas de gravats.
+  - Vérification : rejetée — Hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Coal drop yard York Central Jun25 01.jpg](https://commons.wikimedia.org/wiki/File:Coal_drop_yard_York_Central_Jun25_01.jpg)
-  - Vérification : non examinée
+  - Vu : Chantier de terrassement avec murs bas de briques rouges.
+  - Vérification : rejetée — Hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Duzce 1999 earthquake damage Bilham 895.jpg](https://commons.wikimedia.org/wiki/File:Duzce_1999_earthquake_damage_Bilham_895.jpg)
-  - Vérification : non examinée
+  - Vu : Immeuble endommagé par un séisme, remplissage de briques tombé entre les poteaux.
+  - Vérification : rejetée — Remplissage visible mais endommagé, peu lisible ; trop de confusions.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Leybourne Castle Kent.jpg](https://commons.wikimedia.org/wiki/File:Leybourne_Castle_Kent.jpg)
-  - Vérification : non examinée
+  - Vu : Château de pierre avec ruines et pelouse, couleurs fortement retouchées.
+  - Vérification : rejetée — Hors sujet, image retouchée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le joint de maçonnerie — abandonné (vérification en cours)
@@ -3154,114 +3483,144 @@ Aucune image candidate trouvée sur Commons.
 *Couche de mortier entre deux briques, blocs ou pierres, horizontale (lit) ou verticale.*
 
 - **Rejetée** — [Red brick wall with rude cement (Moscow).JPG](https://commons.wikimedia.org/wiki/File:Red_brick_wall_with_rude_cement_(Moscow).JPG)
-  - Vérification : non examinée
+  - Vu : Mur de briques aux joints de mortier débordants et irréguliers.
+  - Vérification : rejetée — Joints mal finis, bavures : lecture moins claire.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [One brick among 6 other bricks, held together with mortar.JPG](https://commons.wikimedia.org/wiki/File:One_brick_among_6_other_bricks,_held_together_with_mortar.JPG)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Gros plan de briques rouges avec joints de mortier clair, horizontal et vertical.
+  - Vérification : validée (avec rectangle) — Joint horizontal net et dominant, rectangle posé dessus ; image sans texte.
+  - Contre-vérification : —
 - **Rejetée** — [Grinding out mortar joints on comman brick wall. Right side of picture shows tuckpointing completed wall. Wall was washed after completion. Left side of picture is ibeing ground out befoe tuckpointing.jpg](https://commons.wikimedia.org/wiki/File:Grinding_out_mortar_joints_on_comman_brick_wall._Right_side_of_picture_shows_tuckpointing_completed_wall._Wall_was_washed_after_completion._Left_side_of_picture_is_ibeing_ground_out_befoe_tuckpointing.jpg)
-  - Vérification : non examinée
+  - Vu : Angle d'un bâtiment en brique, joints fins et petits, travaux de rejointoiement.
+  - Vérification : rejetée — Joints trop petits et texte de légende trompeur.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Hamborgfuge.jpg](https://commons.wikimedia.org/wiki/File:Hamborgfuge.jpg)
-  - Vérification : non examinée
+  - Vu : Mur de briques avec joints à deux traitements (pibestilk / Hamborg) en saillie.
+  - Vérification : rejetée — Joint décoratif atypique, confusion avec joint saillant ou creux.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Muro de ladrillo.jpg](https://commons.wikimedia.org/wiki/File:Muro_de_ladrillo.jpg)
-  - Vérification : non examinée
+  - Vu : Mur de briques, joints recouverts d'un voile de mortier.
+  - Vérification : rejetée — Joints peu lisibles.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Voegwerk geknipt 1010129.jpg](https://commons.wikimedia.org/wiki/File:Voegwerk_geknipt_1010129.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Mur de briques rouges, joints gris nets, horizontaux et verticaux, bien éclairés.
+  - Vérification : validée (avec rectangle) — Joint horizontal clair encadré de près.
+  - Contre-vérification : —
 
-### le mortier — abandonné (vérification en cours)
+### le mortier — abandonné
 
 *Mélange de ciment ou de chaux, de sable et d'eau, préparé en pâte pour lier les blocs et faire les enduits.*
 
 - **Rejetée** — [EuroMix mortar silo - 31 July 2026.jpg](https://commons.wikimedia.org/wiki/File:EuroMix_mortar_silo_-_31_July_2026.jpg)
-  - Vérification : non examinée
+  - Vu : Silo de mortier prêt à l'emploi devant des immeubles, marque visible.
+  - Vérification : rejetée — Silo avec texte de marque ; mortier non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Sand and Cement Mixing for Construction.jpg](https://commons.wikimedia.org/wiki/File:Sand_and_Cement_Mixing_for_Construction.jpg)
-  - Vérification : non examinée
+  - Vu : Tas de sable et ciment mélangé au sol, pelle plantée.
+  - Vérification : rejetée — Peut aussi illustrer sable ou ciment ; mortier non identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A construction worker mixes mortar for the renovation of the Hamdan Police Station in Basrah. The U.S. Army Corps of Engineers Gulf Region South provides quality assurance for the p - DPLA - 357a86d8d25d320378a9f7e5127e5539.jpeg](https://commons.wikimedia.org/wiki/File:A_construction_worker_mixes_mortar_for_the_renovation_of_the_Hamdan_Police_Station_in_Basrah._The_U.S._Army_Corps_of_Engineers_Gulf_Region_South_provides_quality_assurance_for_the_p_-_DPLA_-_357a86d8d25d320378a9f7e5127e5539.jpeg)
-  - Vérification : non examinée
+  - Vu : Ouvrier malaxant à la pelle un mélange sur le sol d'un couloir de chantier.
+  - Vérification : rejetée — Matériau boueux, ambigu avec béton ou ciment.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The farmer his own builder - a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities, describing reliable methods, offering (14596972797).jpg](https://commons.wikimedia.org/wiki/File:The_farmer_his_own_builder_-_a_guide_and_reference_book_for_the_construction_of_dwellings,_barns_and_other_farm_buildings,_together_with_their_utilities,_describing_reliable_methods,_offering_(14596972797).jpg)
-  - Vérification : non examinée
+  - Vu : Gravure ancienne d'une ferme.
+  - Vérification : rejetée — Dessin / imprimé ancien.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Handbook of construction plant, its cost and efficiency (1914) (14784231335).jpg](https://commons.wikimedia.org/wiki/File:Handbook_of_construction_plant,_its_cost_and_efficiency_(1914)_(14784231335).jpg)
-  - Vérification : non examinée
+  - Vu : Gravure ancienne d'une installation de chantier.
+  - Vérification : rejetée — Dessin / imprimé ancien.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Construction continues at Gabriela Mistral Primary School site 150603-F-LP903-566.jpg](https://commons.wikimedia.org/wiki/File:Construction_continues_at_Gabriela_Mistral_Primary_School_site_150603-F-LP903-566.jpg)
-  - Vérification : non examinée
+  - Vu : Soldat nettoyant une bétonnière orange.
+  - Vérification : rejetée — Mortier non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le dallage — abandonné (vérification en cours)
+### le dallage — abandonné
 
 *Dalle de béton coulée directement sur le sol préparé, qui forme le plancher bas d'un rez-de-chaussée, d'un hangar ou d'une cour.*
 
 - **Rejetée** — [Grading the subbase of the Tunnel A approach structure in advance of the installation of a concrete working slab that will create the base for this tunnel . (CH061A, 9-20-2017) (37230384521).jpg](https://commons.wikimedia.org/wiki/File:Grading_the_subbase_of_the_Tunnel_A_approach_structure_in_advance_of_the_installation_of_a_concrete_working_slab_that_will_create_the_base_for_this_tunnel_._(CH061A,_9-20-2017)_(37230384521).jpg)
-  - Vérification : non examinée
+  - Vu : Fouille étayée de bois avec sol terreux.
+  - Vérification : rejetée — Pas de dallage.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Grading the subbase of the Tunnel A approach structure in advance of the installation of a concrete mud slab that the will create the sub-base for this tunnel. (CH061A, 9-25-2017) (37420423582).jpg](https://commons.wikimedia.org/wiki/File:Grading_the_subbase_of_the_Tunnel_A_approach_structure_in_advance_of_the_installation_of_a_concrete_mud_slab_that_the_will_create_the_sub-base_for_this_tunnel._(CH061A,_9-25-2017)_(37420423582).jpg)
-  - Vérification : non examinée
+  - Vu : Ouvriers dans une fouille étayée.
+  - Vérification : rejetée — Pas de dallage.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Gjutning av grund.jpg](https://commons.wikimedia.org/wiki/File:Gjutning_av_grund.jpg)
-  - Vérification : non examinée
+  - Vu : Coulage du béton sur un treillis d'armature posé sur isolant, coffrage de bois.
+  - Vérification : rejetée — Dalle sur terre-plein en cours de coulage : ambigu avec bétonnage, ferraillage de dalle, radier.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Hand-Operated Grader-1 VA (8448146572).jpg](https://commons.wikimedia.org/wiki/File:Hand-Operated_Grader-1_VA_(8448146572).jpg)
-  - Vérification : non examinée
+  - Vu : Ouvriers réglant une dalle béton avec une règle vibrante.
+  - Vérification : rejetée — Ambigu, pas un dallage fini clair.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Former Tilling-Stevens Factory A Grade II Listed Building in Maidstone, Kent. Framed Photograph - 54411514778.jpg](https://commons.wikimedia.org/wiki/File:Former_Tilling-Stevens_Factory_A_Grade_II_Listed_Building_in_Maidstone,_Kent._Framed_Photograph_-_54411514778.jpg)
-  - Vérification : non examinée
+  - Vu : Voies ferrées et quai.
+  - Vérification : rejetée — Hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Copped Hall kitchen walled garden, compost bin, Essex, England 1.jpg](https://commons.wikimedia.org/wiki/File:Copped_Hall_kitchen_walled_garden,_compost_bin,_Essex,_England_1.jpg)
-  - Vérification : non examinée
+  - Vu : Bac à compost entre plaques de béton.
+  - Vérification : rejetée — Hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la chape — abandonné (vérification en cours)
+### la chape — abandonné
 
 *Couche de mortier ou de béton coulée et dressée sur un plancher pour obtenir une surface plane avant le revêtement de sol.*
 
 - **Rejetée** — [Betonggulv med røropplegg.JPG](https://commons.wikimedia.org/wiki/File:Betonggulv_med_r%C3%B8ropplegg.JPG)
-  - Vérification : non examinée
+  - Vu : Sol béton brut avec gaines rouges dans une ossature bois.
+  - Vérification : rejetée — Pas de chape coulée reconnaissable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dornbirn-Ebnit-underfloor heating-system-08ASD.jpg](https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-08ASD.jpg)
-  - Vérification : non examinée
+  - Vu : Pose d'un plancher chauffant à plots, tuyaux blancs.
+  - Vérification : rejetée — Étape avant la chape : la chape n'est pas visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dornbirn-Ebnit-underfloor heating-system-01ASD.jpg](https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-01ASD.jpg)
-  - Vérification : non examinée
+  - Vu : Pose d'un plancher chauffant, ouvriers dans une pièce.
+  - Vérification : rejetée — Chape non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dornbirn-Ebnit-underfloor heating-system-06ASD.jpg](https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-06ASD.jpg)
-  - Vérification : non examinée
+  - Vu : Pose d'un plancher chauffant, rouleau de tuyau.
+  - Vérification : rejetée — Chape non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dornbirn-Ebnit-underfloor heating-system-04ASD.jpg](https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-04ASD.jpg)
-  - Vérification : non examinée
+  - Vu : Plancher chauffant posé sur panneaux à plots.
+  - Vérification : rejetée — Chape non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dornbirn-Ebnit-underfloor heating-system-02ASD.jpg](https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-02ASD.jpg)
-  - Vérification : non examinée
+  - Vu : Pose d'un plancher chauffant, ouvrier à genoux.
+  - Vérification : rejetée — Chape non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le ciment — abandonné (vérification en cours)
+### le ciment — abandonné
 
 *Poudre grise qui durcit avec l'eau, base du mortier et du béton, livrée en sacs sur le chantier.*
 
 - **Rejetée** — [Construction update 150611-F-LP903-310.jpg](https://commons.wikimedia.org/wiki/File:Construction_update_150611-F-LP903-310.jpg)
-  - Vérification : non examinée
+  - Vu : Soldats portant un sac de ciment sur un chantier.
+  - Vérification : rejetée — Sac en papier peu lisible, scène avec personnes ; ciment pas visible comme matière.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Civil War Red Tape 01 (redeemed CSA bond coupons).jpg](https://commons.wikimedia.org/wiki/File:Civil_War_Red_Tape_01_(redeemed_CSA_bond_coupons).jpg)
-  - Vérification : non examinée
+  - Vu : Liasse de billets confédérés nouée d'un ruban rouge.
+  - Vérification : rejetée — Hors sujet (red tape).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Construction update 150611-F-LP903-326.jpg](https://commons.wikimedia.org/wiki/File:Construction_update_150611-F-LP903-326.jpg)
-  - Vérification : non examinée
+  - Vu : Soldats se passant des sacs sur un chantier.
+  - Vérification : rejetée — Ciment non identifiable clairement.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [CSA-Red-Spring-Onions.jpg](https://commons.wikimedia.org/wiki/File:CSA-Red-Spring-Onions.jpg)
-  - Vérification : non examinée
+  - Vu : Bouquet d'oignons nouveaux.
+  - Vérification : rejetée — Hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Construction update 150611-F-LP903-276.jpg](https://commons.wikimedia.org/wiki/File:Construction_update_150611-F-LP903-276.jpg)
-  - Vérification : non examinée
+  - Vu : Soldats et sacs sur un tas de poudre grise.
+  - Vérification : rejetée — Scène confuse, ciment pas clair.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [CSA-T37-$5-1862.jpg](https://commons.wikimedia.org/wiki/File:CSA-T37-$5-1862.jpg)
-  - Vérification : non examinée
+  - Vu : Billet confédéré.
+  - Vérification : rejetée — Hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le sable — abandonné (vérification en cours)
@@ -3269,45 +3628,57 @@ Aucune image candidate trouvée sur Commons.
 *Granulat fin livré en tas sur le chantier, mélangé au ciment pour le mortier et le béton.*
 
 - **Rejetée** — [Another pile of Sand - geograph.org.uk - 4934385.jpg](https://commons.wikimedia.org/wiki/File:Another_pile_of_Sand_-_geograph.org.uk_-_4934385.jpg)
-  - Vérification : non examinée
+  - Vu : Deux tas, l'un de sable, l'autre de terre, sur un chantier routier.
+  - Vérification : rejetée — Tas de natures différentes, peu net.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Chantier sur la berge du quai de la Tournelle, 5ème arrondissement, Paris, PH81065.jpg](https://commons.wikimedia.org/wiki/File:Chantier_sur_la_berge_du_quai_de_la_Tournelle,_5%C3%A8me_arrondissement,_Paris,_PH81065.jpg)
-  - Vérification : non examinée
+  - Vu : Photographie ancienne de 1903 de déchargement de sable au bord de la Seine.
+  - Vérification : rejetée — Photo ancienne annotée, pas lisible sur téléphone.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A heap of sharp sand.jpg](https://commons.wikimedia.org/wiki/File:A_heap_of_sharp_sand.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Gros tas de sable jaune de construction, grain fin et pelleté, mur de parpaings en arrière-plan.
+  - Vérification : validée — Matière granulaire fine remplissant l'image ; ne peut être pris pour gravier ou ciment.
+  - Contre-vérification : —
 - **Rejetée** — [Bournemouth, sand pile at Boscombe - geograph.org.uk - 4330387.jpg](https://commons.wikimedia.org/wiki/File:Bournemouth,_sand_pile_at_Boscombe_-_geograph.org.uk_-_4330387.jpg)
-  - Vérification : non examinée
+  - Vu : Grand tas de sable devant une clôture, en bord de mer.
+  - Vérification : rejetée — Tas lointain, moins lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Catalogue de tableaux modernes aquarelles, pastels (1901) (14784515845).jpg](https://commons.wikimedia.org/wiki/File:Catalogue_de_tableaux_modernes_aquarelles,_pastels_(1901)_(14784515845).jpg)
-  - Vérification : non examinée
+  - Vu : Estampe ancienne d'un port avec voiliers.
+  - Vérification : rejetée — Gravure, hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Pile of Sand for Building in Anambra State.jpg](https://commons.wikimedia.org/wiki/File:Pile_of_Sand_for_Building_in_Anambra_State.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Tas de sable de construction à grain fin, surface striée, sol ocre en bas.
+  - Vérification : validée — Tas de sable net et dominant, matière reconnaissable.
+  - Contre-vérification : —
 
-### le gravier — abandonné (vérification en cours)
+### le gravier — abandonné
 
 *Granulat de petits cailloux ou de pierre concassée, comme le basalte à Dakar, livré en tas pour fabriquer le béton.*
 
 - **Rejetée** — [Engineer Corps, Road Building (1918-1919) - DPLA - f672a471641c8fc85119d020ec524d82 (page 6).jpg](https://commons.wikimedia.org/wiki/File:Engineer_Corps,_Road_Building_(1918-1919)_-_DPLA_-_f672a471641c8fc85119d020ec524d82_(page_6).jpg)
-  - Vérification : non examinée
+  - Vu : Page dactylographiée d'un catalogue de film.
+  - Vérification : rejetée — Document texte, hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Engineer Corps, Road Building (1918-1919) - DPLA - f672a471641c8fc85119d020ec524d82 (page 7).jpg](https://commons.wikimedia.org/wiki/File:Engineer_Corps,_Road_Building_(1918-1919)_-_DPLA_-_f672a471641c8fc85119d020ec524d82_(page_7).jpg)
-  - Vérification : non examinée
+  - Vu : Page dactylographiée d'un catalogue de film.
+  - Vérification : rejetée — Document texte, hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Engineer Corps, Road Building (1918-1919) - DPLA - f672a471641c8fc85119d020ec524d82 (page 12).jpg](https://commons.wikimedia.org/wiki/File:Engineer_Corps,_Road_Building_(1918-1919)_-_DPLA_-_f672a471641c8fc85119d020ec524d82_(page_12).jpg)
-  - Vérification : non examinée
+  - Vu : Page dactylographiée d'un catalogue de film.
+  - Vérification : rejetée — Document texte, hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Engineer Corps, Road Building (1918-1919) - DPLA - f672a471641c8fc85119d020ec524d82 (page 3).jpg](https://commons.wikimedia.org/wiki/File:Engineer_Corps,_Road_Building_(1918-1919)_-_DPLA_-_f672a471641c8fc85119d020ec524d82_(page_3).jpg)
-  - Vérification : non examinée
+  - Vu : Page dactylographiée d'un catalogue de film.
+  - Vérification : rejetée — Document texte, hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Engineer Corps, Road Building (1918-1919) - DPLA - f672a471641c8fc85119d020ec524d82 (page 11).jpg](https://commons.wikimedia.org/wiki/File:Engineer_Corps,_Road_Building_(1918-1919)_-_DPLA_-_f672a471641c8fc85119d020ec524d82_(page_11).jpg)
-  - Vérification : non examinée
+  - Vu : Page dactylographiée d'un catalogue de film.
+  - Vérification : rejetée — Document texte, hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Engineer Corps, Road Building (1918-1919) - DPLA - f672a471641c8fc85119d020ec524d82 (page 1).jpg](https://commons.wikimedia.org/wiki/File:Engineer_Corps,_Road_Building_(1918-1919)_-_DPLA_-_f672a471641c8fc85119d020ec524d82_(page_1).jpg)
-  - Vérification : non examinée
+  - Vu : Page dactylographiée d'un catalogue de film.
+  - Vérification : rejetée — Document texte, hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ## Matériaux et revêtements
@@ -3643,6 +4014,75 @@ Aucune image candidate trouvée sur Commons.
 - **Rejetée** — [Factory and industrial management (1891) (14784105613).jpg](https://commons.wikimedia.org/wiki/File:Factory_and_industrial_management_(1891)_(14784105613).jpg)
   - Vu : Planche de livre ancien en noir et blanc : excavation d'un canal avec ouvriers, légende imprimée.
   - Vérification : rejetée — Reproduction imprimée avec texte, sans rapport avec le pisé.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+
+### le marbre — abandonné (vérification en cours)
+
+*Roche métamorphique issue du calcaire, cristalline et souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.*
+
+- **Rejetée** — [Catalogue of the renowned collection of objects of art and decoration of Mr. E. Joseph; first portion (1890) (14577834789).jpg](https://commons.wikimedia.org/wiki/File:Catalogue_of_the_renowned_collection_of_objects_of_art_and_decoration_of_Mr._E._Joseph;_first_portion_(1890)_(14577834789).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Marble wall facade @ Firenze.jpg](https://commons.wikimedia.org/wiki/File:Marble_wall_facade_@_Firenze.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Book of the Royal blue (1897) (14574460448).jpg](https://commons.wikimedia.org/wiki/File:Book_of_the_Royal_blue_(1897)_(14574460448).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Vihorlat Museum in Humenné - History and art history permanent exhibition - Golden salon (ladies' room) - Wall clock above marble-clad fireplace from the latter half of the 19th century (September 2026).jpg](https://commons.wikimedia.org/wiki/File:Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Golden_salon_(ladies%27_room)_-_Wall_clock_above_marble-clad_fireplace_from_the_latter_half_of_the_19th_century_(September_2026).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Byzantine and Romanesque architecture (1913) (14589723108).jpg](https://commons.wikimedia.org/wiki/File:Byzantine_and_Romanesque_architecture_(1913)_(14589723108).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Vihorlat Museum in Humenné - History and art history permanent exhibition - Golden salon (ladies' room) - Marble-clad fireplace, latter half of the 19th century, wall clock above fireplace (September 2026) 02.jpg](https://commons.wikimedia.org/wiki/File:Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Golden_salon_(ladies%27_room)_-_Marble-clad_fireplace,_latter_half_of_the_19th_century,_wall_clock_above_fireplace_(September_2026)_02.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+
+### le béton — abandonné (vérification en cours)
+
+*Matériau fait de ciment, de sable, de gravier et d'eau qui durcit en une masse de pierre artificielle grise.*
+
+- **Rejetée** — [Old concrete wall.jpg](https://commons.wikimedia.org/wiki/File:Old_concrete_wall.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Concrete wall - Arlington, MA - 01.jpg](https://commons.wikimedia.org/wiki/File:Concrete_wall_-_Arlington,_MA_-_01.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Ambigram bastard, red text graffiti on concrete wall.jpg](https://commons.wikimedia.org/wiki/File:Ambigram_bastard,_red_text_graffiti_on_concrete_wall.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Concrete block house wall - Arlington, MA - 01.jpg](https://commons.wikimedia.org/wiki/File:Concrete_block_house_wall_-_Arlington,_MA_-_01.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Concrete block wall - Arlington, MA - 01.jpg](https://commons.wikimedia.org/wiki/File:Concrete_block_wall_-_Arlington,_MA_-_01.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Concrete block wall in Muan in 2026 (1).jpg](https://commons.wikimedia.org/wiki/File:Concrete_block_wall_in_Muan_in_2026_(1).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+
+### le bois — abandonné (vérification en cours)
+
+*Matériau issu du tronc des arbres, débité en pièces ou en planches, utilisé en structure, menuiserie et revêtement.*
+
+- **Rejetée** — [Stack of wooden planks - close-up 02.jpg](https://commons.wikimedia.org/wiki/File:Stack_of_wooden_planks_-_close-up_02.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Woodworking hand tools on timber planks 01.jpg](https://commons.wikimedia.org/wiki/File:Woodworking_hand_tools_on_timber_planks_01.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Woodworking hand tools on timber planks 02.jpg](https://commons.wikimedia.org/wiki/File:Woodworking_hand_tools_on_timber_planks_02.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Stacked wood planks (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Stacked_wood_planks_(Unsplash).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Timber Market Scene.jpg](https://commons.wikimedia.org/wiki/File:Timber_Market_Scene.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Timber stacked in sawmill yard (21313837969).jpg](https://commons.wikimedia.org/wiki/File:Timber_stacked_in_sawmill_yard_(21313837969).jpg)
+  - Vérification : non examinée
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ## Menuiserie et serrurerie
@@ -4508,27 +4948,33 @@ Aucune image candidate trouvée sur Commons.
   - Vérification : validée (avec rectangle) — Pilotis massifs sous le bâtiment ; rectangle pour écarter le dôme du Spodek à l'arrière-plan.
   - Contre-vérification : d'accord — Le rectangle cadre les supports massifs en béton qui portent le bâtiment au-dessus d'un rez-de-chaussée laissé libre : pilotis net, sans confusion possible avec une colonne.
 
-### le poteau — abandonné (vérification en cours)
+### le poteau — abandonné
 
 *Élément porteur vertical, de section carrée, rectangulaire ou ronde, qui reporte les charges des planchers vers les fondations.*
 
 - **Rejetée** — [Reinforced Column Base for Fence Foundation.jpg](https://commons.wikimedia.org/wiki/File:Reinforced_Column_Base_for_Fence_Foundation.jpg)
-  - Vérification : non examinée
+  - Vu : Armature de béton armé (cage d'acier) dressée dans une tranchée contre un mur en parpaings.
+  - Vérification : rejetée — Armature seule, sans béton : ni poteau fini ni chaînage distinguables.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Support de ligne HTA Garczynski Traploir..jpg](https://commons.wikimedia.org/wiki/File:Support_de_ligne_HTA_Garczynski_Traploir..jpg)
-  - Vérification : non examinée
+  - Vu : Poteau électrique en béton armé dans un champ, avec ses lignes.
+  - Vérification : rejetée — Poteau de ligne électrique, pas un poteau de structure de bâtiment.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Multi-Tiered Concrete Block Structure in Progress.jpg](https://commons.wikimedia.org/wiki/File:Multi-Tiered_Concrete_Block_Structure_in_Progress.jpg)
-  - Vérification : non examinée
+  - Vu : Bâtiment en parpaings en construction, avec un petit auvent sur poteaux peints en vert.
+  - Vérification : rejetée — Poteaux petits, peints, et mat électrique au premier plan : ambigu.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Linda Vista reinforced concrete bridge, Pasadena, California (Architect and engineer, 1909.jpg](https://commons.wikimedia.org/wiki/File:Linda_Vista_reinforced_concrete_bridge,_Pasadena,_California_(Architect_and_engineer,_1909.jpg)
-  - Vérification : non examinée
+  - Vu : Ancienne gravure/photo d'un pont en béton armé sur chevalets.
+  - Vérification : rejetée — Document ancien, poteau non identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [WW2 Nazi Germany occupation of France 1940-45 L'Occupation allemande de la France Photos Normandie Flickr Wehrmacht soldiers etc 123.jpg](https://commons.wikimedia.org/wiki/File:WW2_Nazi_Germany_occupation_of_France_1940-45_L%27Occupation_allemande_de_la_France_Photos_Normandie_Flickr_Wehrmacht_soldiers_etc_123.jpg)
-  - Vérification : non examinée
+  - Vu : Photo de guerre en noir et blanc : blindé et soldats près d'un poteau.
+  - Vérification : rejetée — Poteau en arrière-plan, sujet autre.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Fractured reinforced concrete column.JPG](https://commons.wikimedia.org/wiki/File:Fractured_reinforced_concrete_column.JPG)
-  - Vérification : non examinée
+  - Vu : Gros plan sur un fût de béton circulaire fissuré, armatures apparentes.
+  - Vérification : rejetée — Pathologie ; pourrait être pris pour une colonne.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la poutre — abandonné (vérification en cours)
@@ -4536,68 +4982,86 @@ Aucune image candidate trouvée sur Commons.
 *Élément porteur horizontal qui franchit un espace entre deux appuis et porte un plancher ou une toiture.*
 
 - **Rejetée** — [Post tensioned concrete beam for long span structure.jpg](https://commons.wikimedia.org/wiki/File:Post_tensioned_concrete_beam_for_long_span_structure.jpg)
-  - Vérification : non examinée
+  - Vu : Cage d'armatures d'une longue poutre précontrainte avec gaines de câbles, sur échafaudage.
+  - Vérification : rejetée — Armatures avant bétonnage, lecture peu claire.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Fissures sur poutre en béton armé (2).jpg](https://commons.wikimedia.org/wiki/File:Fissures_sur_poutre_en_b%C3%A9ton_arm%C3%A9_(2).jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan sur une poutre de béton d'essai posée sur un banc de flexion.
+  - Vérification : rejetée — Éprouvette de laboratoire, cadrage trop serré.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [16000 PSI Concrete Beam Post-Tensioned.jpg](https://commons.wikimedia.org/wiki/File:16000_PSI_Concrete_Beam_Post-Tensioned.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Longue poutre de béton précontrainte décoffrée, câbles sortant à l'extrémité, sur chantier.
+  - Vérification : validée — Poutre béton horizontale clairement dominante.
+  - Contre-vérification : —
 - **Rejetée** — [Fissures sur poutre en béton armé (1).jpg](https://commons.wikimedia.org/wiki/File:Fissures_sur_poutre_en_b%C3%A9ton_arm%C3%A9_(1).jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan sur une poutre de béton d'essai en banc de flexion.
+  - Vérification : rejetée — Éprouvette de laboratoire.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Keroman III - poutre en béton de toiture.JPG](https://commons.wikimedia.org/wiki/File:Keroman_III_-_poutre_en_b%C3%A9ton_de_toiture.JPG)
-  - Vérification : non examinée
+  - Vu : Sous-face de poutres de béton en console de toiture, couvertes de lichen (Keroman, Lorient).
+  - Vérification : rejetée — Éléments ambigus (nervures, bunker), peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Prestressed concrete slab.jpg](https://commons.wikimedia.org/wiki/File:Prestressed_concrete_slab.jpg)
-  - Vérification : non examinée
+  - Vu : Sous-face de dalle précontrainte avec tuyaux rouges et poteaux blancs.
+  - Vérification : rejetée — Sujet principal est la dalle, pas une poutre.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la dalle — abandonné (vérification en cours)
+### la dalle — abandonné
 
 *Plaque horizontale de béton armé, d'épaisseur constante, qui forme un plancher ou une toiture-terrasse.*
 
 - **Rejetée** — [Steel highway bridges with reinforced concrete floors (1910) (14577406739).jpg](https://commons.wikimedia.org/wiki/File:Steel_highway_bridges_with_reinforced_concrete_floors_(1910)_(14577406739).jpg)
-  - Vérification : non examinée
+  - Vu : Dessin d'un pont à arc segmentaire.
+  - Vérification : rejetée — Dessin.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The theory of the flexure and strength of rectangular flat plates applied to reinforced concrete floor slabs (1913) (14576707688).jpg](https://commons.wikimedia.org/wiki/File:The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_(1913)_(14576707688).jpg)
-  - Vérification : non examinée
+  - Vu : Vieille photo d'un pont sur une gorge.
+  - Vérification : rejetée — Pont ancien, dalle non montrée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The theory of the flexure and strength of rectangular flat plates applied to reinforced concrete floor slabs (1913) (14576712938).jpg](https://commons.wikimedia.org/wiki/File:The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_(1913)_(14576712938).jpg)
-  - Vérification : non examinée
+  - Vu : Vieille photo d'une dalle expérimentale chargée de pierres.
+  - Vérification : rejetée — Essai de charge ancien, peu clair.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The theory of the flexure and strength of rectangular flat plates applied to reinforced concrete floor slabs (1913) (14760166711).jpg](https://commons.wikimedia.org/wiki/File:The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_(1913)_(14760166711).jpg)
-  - Vérification : non examinée
+  - Vu : Vieille photo d'un chantier de dalle avec armatures et coffrage en ville.
+  - Vérification : rejetée — Document ancien, peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A treatise on concrete, plain and reinforced - materials, construction, and design of concrete and reinforced concrete; 2nd ed. (1912) (14596999080).jpg](https://commons.wikimedia.org/wiki/File:A_treatise_on_concrete,_plain_and_reinforced_-_materials,_construction,_and_design_of_concrete_and_reinforced_concrete;_2nd_ed._(1912)_(14596999080).jpg)
-  - Vérification : non examinée
+  - Vu : Planche de plans techniques.
+  - Vérification : rejetée — Plan.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Steel Fabrication Shop Structural Steel Erection, Reinforcing Bar In Place Prior To Pouring Concrete Floor Slab In Foreground, 9-5-68 (16843022202).jpg](https://commons.wikimedia.org/wiki/File:Steel_Fabrication_Shop_Structural_Steel_Erection,_Reinforcing_Bar_In_Place_Prior_To_Pouring_Concrete_Floor_Slab_In_Foreground,_9-5-68_(16843022202).jpg)
-  - Vérification : non examinée
+  - Vu : Treillis d'armatures d'une dalle avant bétonnage, avec un opérateur et une légende.
+  - Vérification : rejetée — Armatures seules, légende de texte donnant la réponse.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le plancher à corps creux — abandonné (vérification en cours)
+### le plancher à corps creux — abandonné
 
 *Plancher fait de poutrelles, d'hourdis et d'une dalle de compression, très répandu en Afrique de l'Ouest et en France.*
 
 - **Rejetée** — [Beam ^ block floor, Meadows View development - geograph.org.uk - 4523943.jpg](https://commons.wikimedia.org/wiki/File:Beam_%5E_block_floor,_Meadows_View_development_-_geograph.org.uk_-_4523943.jpg)
-  - Vérification : non examinée
+  - Vu : Poutrelles préfabriquées posées sur des murs de fondation en briques, sans hourdis.
+  - Vérification : rejetée — Poutrelles seules, hourdis et dalle de compression absents.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [-2019-11-29 Block & Beam floor beams, Trimingham.JPG](https://commons.wikimedia.org/wiki/File:-2019-11-29_Block_%26_Beam_floor_beams,_Trimingham.JPG)
-  - Vérification : non examinée
+  - Vu : Pile de poutrelles en T en béton livrées sur un chantier.
+  - Vérification : rejetée — Éléments stockés, pas un plancher.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [-2019-11-29 Block & Beam floor blocks, Trimingham.JPG](https://commons.wikimedia.org/wiki/File:-2019-11-29_Block_%26_Beam_floor_blocks,_Trimingham.JPG)
-  - Vérification : non examinée
+  - Vu : Paquets de blocs de béton empilés.
+  - Vérification : rejetée — Blocs seuls, plancher non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Metal sign of Block 39 Forfar House.jpg](https://commons.wikimedia.org/wiki/File:Metal_sign_of_Block_39_Forfar_House.jpg)
-  - Vérification : non examinée
+  - Vu : Panneau métallique « Block 39 Forfar House ».
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Sanctuary Floor, Fourth Presbyterian Church, Michigan Avenue, Streeterville, Chicago, IL.jpg](https://commons.wikimedia.org/wiki/File:Sanctuary_Floor,_Fourth_Presbyterian_Church,_Michigan_Avenue,_Streeterville,_Chicago,_IL.jpg)
-  - Vérification : non examinée
+  - Vu : Sol carrelé d'église.
+  - Vérification : rejetée — Revêtement de sol, sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Timahoe Castle blocked up chancel arch.jpg](https://commons.wikimedia.org/wiki/File:Timahoe_Castle_blocked_up_chancel_arch.jpg)
-  - Vérification : non examinée
+  - Vu : Arc de chœur gothique muré.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le voile — abandonné (vérification en cours)
@@ -4646,50 +5110,62 @@ Aucune image candidate trouvée sur Commons.
   - Vérification : non examinée
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le portique — abandonné (vérification en cours)
+### le portique — abandonné
 
 *Ossature formée de deux poteaux et d'une poutre rigidement assemblés, répétée pour former la structure d'un bâtiment ou d'un hangar.*
 
 - **Rejetée** — [Münster, LVM -- 2016 -- 2336.jpg](https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_LVM_--_2016_--_2336.jpg)
-  - Vérification : non examinée
+  - Vu : Entrée vitrée d'un immeuble de bureaux avec auvent sur poteaux.
+  - Vérification : rejetée — Pas un portique structurel lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Eingang-Kohlenwäsche-Detailaufnahme-Ruhrmuseum-2026.jpg](https://commons.wikimedia.org/wiki/File:Eingang-Kohlenw%C3%A4sche-Detailaufnahme-Ruhrmuseum-2026.jpg)
-  - Vérification : non examinée
+  - Vu : Entrée de la Kohlenwäsche de Zollverein sous une galerie sur poteaux d'acier rouges, avec jarrets.
+  - Vérification : rejetée — Ossatures multiples et imbriquées : ambigu avec poteau, poutre, jarret.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The World's Columbian exposition, Chicago, 1893 (1893) (14593641658).jpg](https://commons.wikimedia.org/wiki/File:The_World%27s_Columbian_exposition,_Chicago,_1893_(1893)_(14593641658).jpg)
-  - Vérification : non examinée
+  - Vu : Gravure ancienne d'un pavillon d'exposition.
+  - Vérification : rejetée — Document ancien.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Walton Christian Church, Main Street, Walton, KY - 52719663808.jpg](https://commons.wikimedia.org/wiki/File:Walton_Christian_Church,_Main_Street,_Walton,_KY_-_52719663808.jpg)
-  - Vérification : non examinée
+  - Vu : Église romane de brique et pierre avec grand porche en arc.
+  - Vérification : rejetée — Portail en arc, non un portique de structure.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Walton Christian Church, Main Street, Walton, KY - 52719441004.jpg](https://commons.wikimedia.org/wiki/File:Walton_Christian_Church,_Main_Street,_Walton,_KY_-_52719441004.jpg)
-  - Vérification : non examinée
+  - Vu : Même église, vue du portail en arc.
+  - Vérification : rejetée — Idem.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Walton Christian Church, Main Street, Walton, KY - 52719597280.jpg](https://commons.wikimedia.org/wiki/File:Walton_Christian_Church,_Main_Street,_Walton,_KY_-_52719597280.jpg)
-  - Vérification : non examinée
+  - Vu : Même église, vue d'ensemble.
+  - Vérification : rejetée — Idem.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### l'ossature en béton armé — abandonné (vérification en cours)
+### l'ossature en béton armé — abandonné
 
 *Squelette porteur fait de poteaux, de poutres et de dalles en béton armé, bien visible sur un bâtiment en construction avant le remplissage des murs.*
 
 - **Rejetée** — [Handbook and catalogue of concrete reinforcement (1908) (14802056913).jpg](https://commons.wikimedia.org/wiki/File:Handbook_and_catalogue_of_concrete_reinforcement_(1908)_(14802056913).jpg)
-  - Vérification : non examinée
+  - Vu : Page de catalogue ancien sur le béton armé.
+  - Vérification : rejetée — Document ancien.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Clock Tower under construction, Hibiya Kokaido Public Hall, Chiyoda Tokyo, Japan (44517246044).jpg](https://commons.wikimedia.org/wiki/File:Clock_Tower_under_construction,_Hibiya_Kokaido_Public_Hall,_Chiyoda_Tokyo,_Japan_(44517246044).jpg)
-  - Vérification : non examinée
+  - Vu : Tour d'horloge sous bâche bleue entre des tours.
+  - Vérification : rejetée — Aucune ossature béton visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Imperial County Services building damage 1979.jpg](https://commons.wikimedia.org/wiki/File:Imperial_County_Services_building_damage_1979.jpg)
-  - Vérification : non examinée
+  - Vu : Immeuble de bureaux en noir et blanc, endommagé par un séisme.
+  - Vérification : rejetée — Façade, ossature non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Building and engineering news (1930) (14781868195).jpg](https://commons.wikimedia.org/wiki/File:Building_and_engineering_news_(1930)_(14781868195).jpg)
-  - Vérification : non examinée
+  - Vu : Dessin de journal d'un hôpital.
+  - Vérification : rejetée — Dessin.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Centre Point - New Oxford Street, Holborn.jpg](https://commons.wikimedia.org/wiki/File:Centre_Point_-_New_Oxford_Street,_Holborn.jpg)
-  - Vérification : non examinée
+  - Vu : Tour Centre Point en rénovation, bâchée.
+  - Vérification : rejetée — Ossature cachée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Building and engineering news (1916) (14594795397).jpg](https://commons.wikimedia.org/wiki/File:Building_and_engineering_news_(1916)_(14594795397).jpg)
-  - Vérification : non examinée
+  - Vu : Locomotive électrique ancienne.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### l'ossature métallique — abandonné (vérification en cours)
@@ -4697,91 +5173,115 @@ Aucune image candidate trouvée sur Commons.
 *Structure porteuse faite de profilés d'acier assemblés : poteaux, poutres et contreventements.*
 
 - **Rejetée** — [Steel frame building under construction in Taiwan.jpg](https://commons.wikimedia.org/wiki/File:Steel_frame_building_under_construction_in_Taiwan.jpg)
-  - Vérification : non examinée
+  - Vu : Sommet d'un gratte-ciel en construction avec ossature acier rouge-brun et grue verte, vu en contre-plongée.
+  - Vérification : rejetée — Ossature réelle mais cadrage penché, éclairage sombre ; moins clair que les autres.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Construction worker on steel framing of hollywoodHUB at Hollywood Transit Center, Portland, Oregon (January 2026).jpg](https://commons.wikimedia.org/wiki/File:Construction_worker_on_steel_framing_of_hollywoodHUB_at_Hollywood_Transit_Center,_Portland,_Oregon_(January_2026).jpg)
-  - Vérification : non examinée
+  - Vu : Ouvrier sur ossature en profilés légers (montants galvanisés) devant façade béton.
+  - Vérification : rejetée — Ossature légère de cloison, pas la structure porteuse.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Steel frame structure.jpg](https://commons.wikimedia.org/wiki/File:Steel_frame_structure.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Vue aérienne d'une ossature de bâtiment en acier galvanisé sur chantier.
+  - Vérification : validée — Ossature d'acier complète, claire et dominante.
+  - Contre-vérification : —
 - **Rejetée** — [Construction worker measuring framing at hollywoodHUB, Portland, Oregon.jpg](https://commons.wikimedia.org/wiki/File:Construction_worker_measuring_framing_at_hollywoodHUB,_Portland,_Oregon.jpg)
-  - Vérification : non examinée
+  - Vu : Ouvrier mesurant un cadre de montants métalliques avec plaques GlasRoc.
+  - Vérification : rejetée — Ossature légère de façade, pas porteuse.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Steel Frame Commercial Building Under Construction, Ann Arbor Township, Michigan.JPG](https://commons.wikimedia.org/wiki/File:Steel_Frame_Commercial_Building_Under_Construction,_Ann_Arbor_Township,_Michigan.JPG)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Ossature d'acier de trois niveaux (poteaux, poutres, contreventements) sur chantier, Ann Arbor.
+  - Vérification : validée (avec rectangle) — Poteaux, poutres et diagonales apparents, bien lisible.
+  - Contre-vérification : —
 - **Rejetée** — [LC Smith Building construction showing structural steel skeleton, ca 1913 (SEATTLE 3151).jpg](https://commons.wikimedia.org/wiki/File:LC_Smith_Building_construction_showing_structural_steel_skeleton,_ca_1913_(SEATTLE_3151).jpg)
-  - Vérification : non examinée
+  - Vu : Photo ancienne en noir et blanc du squelette d'acier du LC Smith Building.
+  - Vérification : rejetée — Trop petit et ancien ; moins lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le poteau métallique — abandonné (vérification en cours)
+### le poteau métallique — abandonné
 
 *Poteau fait d'un profilé ou d'un tube d'acier, fixé en pied par une platine.*
 
 - **Rejetée** — [Plain base plates for columns (1907) (14755304656).jpg](https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14755304656).jpg)
-  - Vérification : non examinée
+  - Vu : Dessin technique de plaque de base de colonne (planche ancienne).
+  - Vérification : rejetée — Dessin, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Plain base plates for columns (1907) (14591664418).jpg](https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14591664418).jpg)
-  - Vérification : non examinée
+  - Vu : Dessin technique de plaque de base de colonne (planche ancienne).
+  - Vérification : rejetée — Dessin, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Plain base plates for columns (1907) (14591592220).jpg](https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14591592220).jpg)
-  - Vérification : non examinée
+  - Vu : Dessin technique de plaque de base de colonne (planche ancienne).
+  - Vérification : rejetée — Dessin, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Plain base plates for columns (1907) (14778305555).jpg](https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14778305555).jpg)
-  - Vérification : non examinée
+  - Vu : Dessin technique de plaque de base de colonne (planche ancienne).
+  - Vérification : rejetée — Dessin, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Plain base plates for columns (1907) (14755302186).jpg](https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14755302186).jpg)
-  - Vérification : non examinée
+  - Vu : Dessin technique de plaque de base de colonne (planche ancienne).
+  - Vérification : rejetée — Dessin, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Plain base plates for columns (1907) (14591582860).jpg](https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14591582860).jpg)
-  - Vérification : non examinée
+  - Vu : Dessin technique de plaque de base de colonne (planche ancienne).
+  - Vérification : rejetée — Dessin, pas une photo.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le profilé en I — abandonné (vérification en cours)
+### le profilé en I — abandonné
 
 *Barre d'acier dont la section a la forme d'un I, avec des ailes étroites, comme les IPE et les IPN, employée en poutre.*
 
 - **Rejetée** — [I-beam raw material at WP Welding 5.jpg](https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_5.jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan de profilés posés à plat, rouillés.
+  - Vérification : rejetée — Détail illisible, section non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [I-beam raw material at WP Welding 3.jpg](https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_3.jpg)
-  - Vérification : non examinée
+  - Vu : Deux profilés à ailes parallèles rouillés posés au sol, étiquetés.
+  - Vérification : rejetée — Section vue mais ambiguë entre I et H, étiquettes illisibles.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [I-beam raw material at WP Welding 4.jpg](https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_4.jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan de profilés rouillés posés.
+  - Vérification : rejetée — Section non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Wongamat Tower Construction Start.jpg](https://commons.wikimedia.org/wiki/File:Wongamat_Tower_Construction_Start.jpg)
-  - Vérification : non examinée
+  - Vu : Ouvriers assis sur une poutre en acier sur un chantier.
+  - Vérification : rejetée — Personnes, section non lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [I-beam raw material at WP Welding 1.jpg](https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_1.jpg)
-  - Vérification : non examinée
+  - Vu : Profilés vus de côté, bandes rouillées.
+  - Vérification : rejetée — Section non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [I-beam raw material at WP Welding 2.jpg](https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_2.jpg)
-  - Vérification : non examinée
+  - Vu : Profilés vus de côté, bandes rouillées.
+  - Vérification : rejetée — Section non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la cornière — abandonné (vérification en cours)
+### la cornière — abandonné
 
 *Barre d'acier à section en L, utilisée pour les assemblages, les treillis et les petites structures.*
 
 - **Rejetée** — [The Iron and steel magazine (1898) (14767444865).jpg](https://commons.wikimedia.org/wiki/File:The_Iron_and_steel_magazine_(1898)_(14767444865).jpg)
-  - Vérification : non examinée
+  - Vu : Planche gravée d'un four à acier.
+  - Vérification : rejetée — Dessin.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Durasteel pressurisation duct angle iron skeleton2.jpg](https://commons.wikimedia.org/wiki/File:Durasteel_pressurisation_duct_angle_iron_skeleton2.jpg)
-  - Vérification : non examinée
+  - Vu : Cadres blancs en profilés dans un atelier (gaines coupe-feu).
+  - Vérification : rejetée — Section en L peu lisible, éléments peu identifiables.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Shipbuilding in iron and steel - a practical treatise . . . (1869) (14595080739).jpg](https://commons.wikimedia.org/wiki/File:Shipbuilding_in_iron_and_steel_-_a_practical_treatise_._._._(1869)_(14595080739).jpg)
-  - Vérification : non examinée
+  - Vu : Gravure de coupe de navire.
+  - Vérification : rejetée — Gravure.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Shipbuilding in iron and steel - a practical treatise . . . (1869) (14595043590).jpg](https://commons.wikimedia.org/wiki/File:Shipbuilding_in_iron_and_steel_-_a_practical_treatise_._._._(1869)_(14595043590).jpg)
-  - Vérification : non examinée
+  - Vu : Gravure de coupe de navire.
+  - Vérification : rejetée — Gravure.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Shipbuilding in iron and steel - a practical treatise . . . (1869) (14595121548).jpg](https://commons.wikimedia.org/wiki/File:Shipbuilding_in_iron_and_steel_-_a_practical_treatise_._._._(1869)_(14595121548).jpg)
-  - Vérification : non examinée
+  - Vu : Gravure de coupe de navire.
+  - Vérification : rejetée — Gravure.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Shipbuilding in iron and steel - a practical treatise . . . (1869) (14595036330).jpg](https://commons.wikimedia.org/wiki/File:Shipbuilding_in_iron_and_steel_-_a_practical_treatise_._._._(1869)_(14595036330).jpg)
-  - Vérification : non examinée
+  - Vu : Dessin technique d'assemblage.
+  - Vérification : rejetée — Dessin.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la ferme métallique — abandonné (vérification en cours)
@@ -4873,6 +5373,36 @@ Aucune image candidate trouvée sur Commons.
   - Vérification : non examinée
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Cantilever sign B&B Bij de Friesche Poort in Bourtange.jpg](https://commons.wikimedia.org/wiki/File:Cantilever_sign_B%26B_Bij_de_Friesche_Poort_in_Bourtange.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+
+### la retombée de poutre — abandonné
+
+*Partie d'une poutre qui dépasse sous la sous-face d'une dalle.*
+
+Aucune image candidate trouvée sur Commons.
+
+
+### l'arc en plein cintre — abandonné (vérification en cours)
+
+*Arc dont la courbe forme un demi-cercle complet.*
+
+- **Rejetée** — [Ruppertsberg Obergasse 02 (zu) 055 2021 04 20.jpg](https://commons.wikimedia.org/wiki/File:Ruppertsberg_Obergasse_02_(zu)_055_2021_04_20.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Dodona Theatre 4.jpg](https://commons.wikimedia.org/wiki/File:Dodona_Theatre_4.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Detail Constantine's Arch Round relief Rome 1.jpg](https://commons.wikimedia.org/wiki/File:Detail_Constantine%27s_Arch_Round_relief_Rome_1.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Ruppertsberg Obergasse 02 (zu) 044 2021 04 22.jpg](https://commons.wikimedia.org/wiki/File:Ruppertsberg_Obergasse_02_(zu)_044_2021_04_22.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Ruppertsberg Obergasse 02 (zu) 060 2021 04 20.jpg](https://commons.wikimedia.org/wiki/File:Ruppertsberg_Obergasse_02_(zu)_060_2021_04_20.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Ruppertsberg Obergasse 02 (zu) 057 2021 04 20.jpg](https://commons.wikimedia.org/wiki/File:Ruppertsberg_Obergasse_02_(zu)_057_2021_04_20.jpg)
   - Vérification : non examinée
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
@@ -5240,165 +5770,207 @@ Aucune image candidate trouvée sur Commons.
   - Vérification : rejetée — « Dachpfannenprofil Nordblech » : tôle profilée façon tuile, pas de la tuile ; confusion avec la tôle.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la toiture — abandonné (vérification en cours)
+### la toiture — abandonné
 
 *Ensemble des ouvrages qui couvrent et ferment le haut d'un bâtiment, vus de l'extérieur.*
 
 - **Rejetée** — [Rowing boat on a house roof - Fira - Santorini - Greece - 02.jpg](https://commons.wikimedia.org/wiki/File:Rowing_boat_on_a_house_roof_-_Fira_-_Santorini_-_Greece_-_02.jpg)
-  - Vérification : non examinée
+  - Vu : Barque posée sur une terrasse blanche à Santorin.
+  - Vérification : rejetée — Toit plat, sujet = barque.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Slate Roof House monument in Welcome Park.jpg](https://commons.wikimedia.org/wiki/File:Slate_Roof_House_monument_in_Welcome_Park.jpg)
-  - Vérification : non examinée
+  - Vu : Maquette en bronze d'une maison sur un socle, 'Slate Roof House'.
+  - Vérification : rejetée — Maquette, texte visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Sydney (AU), Opera House -- 2019 -- 3054.jpg](https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Opera_House_--_2019_--_3054.jpg)
-  - Vérification : non examinée
+  - Vu : Coques en céramique de l'Opéra de Sydney vues d'en dessous.
+  - Vérification : rejetée — Forme de coque ; terme non univoque.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [View to roof in center of Palm House, Kew Gardens.jpg](https://commons.wikimedia.org/wiki/File:View_to_roof_in_center_of_Palm_House,_Kew_Gardens.jpg)
-  - Vérification : non examinée
+  - Vu : Intérieur de la verrière de la Palm House à Kew.
+  - Vérification : rejetée — Verrière, pas une toiture typique.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Traditional brick house with thatched roof, Harburg.jpg](https://commons.wikimedia.org/wiki/File:Traditional_brick_house_with_thatched_roof,_Harburg.jpg)
-  - Vérification : non examinée
+  - Vu : Maison en brique et colombage sous un toit de chaume, vu de côté.
+  - Vérification : rejetée — Toit en partie hors cadre, illustre plutôt le chaume.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Roof of Ladywood House, Porstmouth.jpg](https://commons.wikimedia.org/wiki/File:Roof_of_Ladywood_House,_Porstmouth.jpg)
-  - Vérification : non examinée
+  - Vu : Vue aérienne du toit-terrasse d'une tour avec équipements et échafaudage.
+  - Vérification : rejetée — Image confuse, équipements techniques dominants.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la toiture-terrasse — abandonné (vérification en cours)
+### la toiture-terrasse — abandonné
 
 *Toiture plate ou à très faible pente, en général une dalle étanchée bordée d'acrotères.*
 
 - **Rejetée** — [EPDM Rubber flat roof Halifax.jpg](https://commons.wikimedia.org/wiki/File:EPDM_Rubber_flat_roof_Halifax.jpg)
-  - Vérification : non examinée
+  - Vu : Plaque d'étanchéité EPDM sur un toit en fibrociment ondulé, vue de dessus.
+  - Vérification : rejetée — Petit plat sur toit incliné, ambigu.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Krasnoyarsk embankment, Roof terrace, Russia.jpg](https://commons.wikimedia.org/wiki/File:Krasnoyarsk_embankment,_Roof_terrace,_Russia.jpg)
-  - Vérification : non examinée
+  - Vu : Terrasse dallée en bord de fleuve devant une façade vitrée, des personnes accoudées au parapet.
+  - Vérification : rejetée — Se lit comme esplanade, la toiture n'est pas évidente.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Rooftop pool, Nairobi (20250808-P1048999).jpg](https://commons.wikimedia.org/wiki/File:Rooftop_pool,_Nairobi_(20250808-P1048999).jpg)
-  - Vérification : non examinée
+  - Vu : Vue aérienne d'un hôtel au toit en pente avec une piscine sur le toit-terrasse.
+  - Vérification : rejetée — Toit en pente dominant, terrasse minuscule.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Krasnoyarsk embankment, Roof terrace, Clouds, Russia.jpg](https://commons.wikimedia.org/wiki/File:Krasnoyarsk_embankment,_Roof_terrace,_Clouds,_Russia.jpg)
-  - Vérification : non examinée
+  - Vu : Terrasse dallée avec garde-corps métallique le long d'un fleuve et façade vitrée.
+  - Vérification : rejetée — Se lit comme esplanade, toiture non évidente.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Krasnoyarsk embankment, Roof terrace 2, Russia.jpg](https://commons.wikimedia.org/wiki/File:Krasnoyarsk_embankment,_Roof_terrace_2,_Russia.jpg)
-  - Vérification : non examinée
+  - Vu : Terrasse dallée devant une façade vitrée, personnes assises, fleuve au loin.
+  - Vérification : rejetée — Se lit comme esplanade, toiture non évidente.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Dombay, Roof terrace, Soviet modernism, Karachay-Cherkessia.jpg](https://commons.wikimedia.org/wiki/File:Dombay,_Roof_terrace,_Soviet_modernism,_Karachay-Cherkessia.jpg)
-  - Vérification : non examinée
+  - Vu : Terrasse couverte en béton avec poteau et garde-corps, montagne au fond.
+  - Vérification : rejetée — Terrasse couverte ou balcon, pas une toiture-terrasse.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le toit à deux pans — abandonné (vérification en cours)
+### le toit à deux pans — 1 image retenue
 
 *Toit formé de deux versants inclinés qui se rejoignent au faîtage, avec un pignon à chaque bout.*
 
 - **Rejetée** — [Khmer gable roof.jpg](https://commons.wikimedia.org/wiki/File:Khmer_gable_roof.jpg)
-  - Vérification : non examinée
+  - Vu : Bas-relief khmer en pierre représentant un fronton triangulaire.
+  - Vérification : rejetée — Sculpture, pas un toit.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Top of gable of cultural monument village house with thatched roof in Stropešín, Třebíč District.jpg](https://commons.wikimedia.org/wiki/File:Top_of_gable_of_cultural_monument_village_house_with_thatched_roof_in_Strope%C5%A1%C3%ADn,_T%C5%99eb%C3%AD%C4%8D_District.jpg)
-  - Vérification : non examinée
+  - Vu : Haut d'un pignon en bois sous un toit de chaume, vu en contre-plongée.
+  - Vérification : rejetée — Pignon seul, chaume ; confusion avec pignon.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Double Gable roof - geograph.org.uk - 6660534.jpg](https://commons.wikimedia.org/wiki/File:Double_Gable_roof_-_geograph.org.uk_-_6660534.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Double Gable roof - geograph.org.uk - 6660534.jpg](https://commons.wikimedia.org/wiki/File:Double_Gable_roof_-_geograph.org.uk_-_6660534.jpg)
+  - Vu : Rangée de maisons en pierre à Weston avec toit de tuiles rouges à deux versants et pignon visible au premier plan.
+  - Vérification : validée (avec rectangle) — Toit à deux versants avec pignon à chaque bout, encadré sur la première maison.
+  - Contre-vérification : d'accord — Toit de tuiles à deux versants avec pignon bien visible, rectangle bien placé.
 - **Rejetée** — [Santorin (GR), Ia, Vier Glocken -- 2017 -- 2720-6-2.jpg](https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Ia,_Vier_Glocken_--_2017_--_2720-6-2.jpg)
-  - Vérification : non examinée
+  - Vu : Clocher à quatre cloches de Santorin en contre-jour.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Gable and windows of cultural monument village house with thatched roof in Stropešín, Třebíč District.jpg](https://commons.wikimedia.org/wiki/File:Gable_and_windows_of_cultural_monument_village_house_with_thatched_roof_in_Strope%C5%A1%C3%ADn,_T%C5%99eb%C3%AD%C4%8D_District.jpg)
-  - Vérification : non examinée
+  - Vu : Mur pignon blanc avec deux petites fenêtres sous un toit de chaume.
+  - Vérification : rejetée — Illustre le pignon.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Bodmin - No.90 Fore Street with hipped gable roof - geograph.org.uk - 8026419.jpg](https://commons.wikimedia.org/wiki/File:Bodmin_-_No.90_Fore_Street_with_hipped_gable_roof_-_geograph.org.uk_-_8026419.jpg)
-  - Vérification : non examinée
+  - Vu : Maison de pierre de Bodmin au toit à croupe visible de loin.
+  - Vérification : rejetée — Toit à croupe, trop petit.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le toit à quatre pans — abandonné (vérification en cours)
+### le toit à quatre pans — 2 images retenues
 
 *Toit formé de quatre versants inclinés, deux longs pans et deux croupes, sans pignon.*
 
 - **Rejetée** — [MICKLE HOUSE.jpg](https://commons.wikimedia.org/wiki/File:MICKLE_HOUSE.jpg)
-  - Vérification : non examinée
+  - Vu : Petite maison rouge américaine à toit brisé de bardeaux.
+  - Vérification : rejetée — Toit à la Mansart à pignons, pas quatre pans.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Adare - Main Street (N21) - Large Yellow Thatched-Roof House - geograph.org.uk - 3125741.jpg](https://commons.wikimedia.org/wiki/File:Adare_-_Main_Street_(N21)_-_Large_Yellow_Thatched-Roof_House_-_geograph.org.uk_-_3125741.jpg)
-  - Vérification : non examinée
+  - Vu : Grande maison jaune à toit de chaume derrière un passage piéton.
+  - Vérification : rejetée — Chaume, toit complexe et masqué.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Hipped-roof houses on Broadlea Street - geograph.org.uk - 6499064.jpg](https://commons.wikimedia.org/wiki/File:Hipped-roof_houses_on_Broadlea_Street_-_geograph.org.uk_-_6499064.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Hipped-roof houses on Broadlea Street - geograph.org.uk - 6499064.jpg](https://commons.wikimedia.org/wiki/File:Hipped-roof_houses_on_Broadlea_Street_-_geograph.org.uk_-_6499064.jpg)
+  - Vu : Maisons en brique à toits à croupes dans une rue, la maison de gauche au premier plan.
+  - Vérification : validée (avec rectangle) — Toit à croupes aux deux bouts, sans pignon ; rectangle sur le toit de la maison de gauche.
+  - Contre-vérification : d'accord — Toit à croupes aux deux extrémités sur un immeuble de brique, sans pignon, bien désigné.
 - **Rejetée** — [Photograph of the Hip Roof Frame of the Amoureaux House in Ste Genevieve MO.jpg](https://commons.wikimedia.org/wiki/File:Photograph_of_the_Hip_Roof_Frame_of_the_Amoureaux_House_in_Ste_Genevieve_MO.jpg)
-  - Vérification : non examinée
+  - Vu : Photo en noir et blanc de la charpente d'un toit à croupe.
+  - Vérification : rejetée — Charpente intérieure, pas le toit.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A house roof at Theydon Mount Essex England.JPG](https://commons.wikimedia.org/wiki/File:A_house_roof_at_Theydon_Mount_Essex_England.JPG)
-  - Vérification : non examinée
+  - Vu : Toits de tuiles d'une maison à colombage et cheminée en brique.
+  - Vérification : rejetée — Toit complexe à multiples versants.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [RUS-2016-Bolshoi Zayatsky Island-Stone House.jpg](https://commons.wikimedia.org/wiki/File:RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [RUS-2016-Bolshoi Zayatsky Island-Stone House.jpg](https://commons.wikimedia.org/wiki/File:RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg)
+  - Vu : Maison de pierre sur une île, avec un toit de bois à quatre versants et deux croupes.
+  - Vérification : validée (avec rectangle) — Toit à quatre pans très lisible, sans pignon ; rectangle sur la toiture.
+  - Contre-vérification : d'accord — Toit à quatre versants avec faîtage court et croupes, sans pignon, rectangle juste.
 
-### le toit monopente — abandonné (vérification en cours)
+### le toit monopente — abandonné
 
 *Toit formé d'un seul versant incliné.*
 
 - **Rejetée** — [William H. Johnson House, Buffalo, New York - 20200808.jpg](https://commons.wikimedia.org/wiki/File:William_H._Johnson_House,_Buffalo,_New_York_-_20200808.jpg)
-  - Vérification : non examinée
+  - Vu : Maison en brique avec pignon aigu et haute lucarne.
+  - Vérification : rejetée — Pas de toit monopente.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Daws-Keys House.jpg](https://commons.wikimedia.org/wiki/File:Daws-Keys_House.jpg)
-  - Vérification : non examinée
+  - Vu : Maison basse à toit en tôle à quatre versants et véranda.
+  - Vérification : rejetée — Toit à croupes.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Gas Street - 42 Gas Street - Canal House (5232827572).jpg](https://commons.wikimedia.org/wiki/File:Gas_Street_-_42_Gas_Street_-_Canal_House_(5232827572).jpg)
-  - Vérification : non examinée
+  - Vu : Maison de brique à toit à versants, vue de côté.
+  - Vérification : rejetée — Versant ambigu, hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [John Lane House-111 John- Markham-Ontario-HPC15248-20201017 (2).jpg](https://commons.wikimedia.org/wiki/File:John_Lane_House-111_John-_Markham-Ontario-HPC15248-20201017_(2).jpg)
-  - Vérification : non examinée
+  - Vu : Maison blanche en bois avec appentis sur la galerie.
+  - Vérification : rejetée — Petit appentis, pas un toit monopente.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [John Lane House-111 John- Markham-Ontario-HPC15248-20201017 (3).jpg](https://commons.wikimedia.org/wiki/File:John_Lane_House-111_John-_Markham-Ontario-HPC15248-20201017_(3).jpg)
-  - Vérification : non examinée
+  - Vu : Maison blanche avec galerie à auvent, partiellement cachée par des arbres.
+  - Vérification : rejetée — Pas lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Schmitt-McGowan House, Buffalo, New York - 20220321.jpg](https://commons.wikimedia.org/wiki/File:Schmitt-McGowan_House,_Buffalo,_New_York_-_20220321.jpg)
-  - Vérification : non examinée
+  - Vu : Maison en brique jaune à toit en pavillon complexe.
+  - Vérification : rejetée — Toit à plusieurs versants.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### l'avant-toit — abandonné (vérification en cours)
+### l'avant-toit — abandonné
 
 *Partie du toit qui déborde en avant de la façade pour protéger le mur de la pluie et du soleil.*
 
 - **Rejetée** — [Münster, Prinzipalmarkt -- 2014 -- 4516-20-2.jpg](https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Prinzipalmarkt_--_2014_--_4516-20-2.jpg)
-  - Vérification : non examinée
+  - Vu : Façades à pignons à gradins de Münster, de nuit.
+  - Vérification : rejetée — Avant-toits non visibles.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Closeup of the eaves of a building of Shiogama-jinja 01.jpg](https://commons.wikimedia.org/wiki/File:Closeup_of_the_eaves_of_a_building_of_Shiogama-jinja_01.jpg)
-  - Vérification : non examinée
+  - Vu : Pignon d'un sanctuaire japonais rouge à toit débordant, sombre.
+  - Vérification : rejetée — Trop sombre, confusion avec pignon et rives.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Braunton (Devon, UK), Old Railway Station, Station House -- 2013 -- 00190.jpg](https://commons.wikimedia.org/wiki/File:Braunton_(Devon,_UK),_Old_Railway_Station,_Station_House_--_2013_--_00190.jpg)
-  - Vérification : non examinée
+  - Vu : Boutique d'angle avec petit toit en appentis au-dessus de la devanture.
+  - Vérification : rejetée — Montre un appentis plutôt qu'un avant-toit.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Cochem, Liniusstraße, Giebel -- 2018 -- 0001.jpg](https://commons.wikimedia.org/wiki/File:Cochem,_Liniusstra%C3%9Fe,_Giebel_--_2018_--_0001.jpg)
-  - Vérification : non examinée
+  - Vu : Maison à colombage de Cochem avec pignon couvert d'ardoise.
+  - Vérification : rejetée — Avant-toit non dominant.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Braunton (Devon, UK), Black Horse Inn -- 2013 -- 00169.jpg](https://commons.wikimedia.org/wiki/File:Braunton_(Devon,_UK),_Black_Horse_Inn_--_2013_--_00169.jpg)
-  - Vérification : non examinée
+  - Vu : Auberge Black Horse Inn à toit débordant au-dessus de l'entrée.
+  - Vérification : rejetée — Enseigne dominante, avant-toit peu net.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Ljungris July 2013.jpg](https://commons.wikimedia.org/wiki/File:Ljungris_July_2013.jpg)
-  - Vérification : non examinée
+  - Vu : Cabane en rondins à toit de gazon dont le toit déborde.
+  - Vérification : rejetée — Toit végétalisé, confusion possible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la charpente — abandonné (vérification en cours)
+### la charpente — 1 image retenue
 
 *Ossature en bois ou en métal qui porte la couverture d'un toit.*
 
 - **Rejetée** — [Timber roof truss, roof construction, town hall Duderstadt 02.jpg](https://commons.wikimedia.org/wiki/File:Timber_roof_truss,_roof_construction,_town_hall_Duderstadt_02.jpg)
-  - Vérification : non examinée
+  - Vu : Gros bois entrecroisés dans un comble, avec échelle et tube bleu.
+  - Vérification : rejetée — Enchevêtrement peu lisible, charpente pas évidente.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Roof Timbers - geograph.org.uk - 1740919.jpg](https://commons.wikimedia.org/wiki/File:Roof_Timbers_-_geograph.org.uk_-_1740919.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Roof Timbers - geograph.org.uk - 1740919.jpg](https://commons.wikimedia.org/wiki/File:Roof_Timbers_-_geograph.org.uk_-_1740919.jpg)
+  - Vu : Charpente en bois d'une grange vue de l'intérieur : entrait, poinçon, chevrons et lattis sous la couverture.
+  - Vérification : validée — Ossature de toit en bois lisible et dominante.
+  - Contre-vérification : d'accord — Ossature de bois apparente vue de dessous (entraits, arbalétriers, chevrons), la charpente dans son ensemble.
 - **Rejetée** — [Thatched-roof villa in the Maldive Islands.jpg](https://commons.wikimedia.org/wiki/File:Thatched-roof_villa_in_the_Maldive_Islands.jpg)
-  - Vérification : non examinée
+  - Vu : Villas sur pilotis aux Maldives sous toits de chaume.
+  - Vérification : rejetée — Extérieur, charpente non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Image of roof trusses from The Circle of Mechanical Arts digitized by Google.jpg](https://commons.wikimedia.org/wiki/File:Image_of_roof_trusses_from_The_Circle_of_Mechanical_Arts_digitized_by_Google.jpg)
-  - Vérification : non examinée
+  - Vu : Planche gravée de fermes de charpente.
+  - Vérification : rejetée — Gravure.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Bamboo Forest, Arashiyama, Kyoto, Japan.jpg](https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg)
-  - Vérification : non examinée
+  - Vu : Forêt de bambous.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Thatched cottage in the sand dunes by Denmark.jpg](https://commons.wikimedia.org/wiki/File:Thatched_cottage_in_the_sand_dunes_by_Denmark.jpg)
-  - Vérification : non examinée
+  - Vu : Chaumière dans les dunes au Danemark.
+  - Vérification : rejetée — Chaume, charpente non visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la charpente métallique — abandonné (vérification en cours)
@@ -5406,45 +5978,75 @@ Aucune image candidate trouvée sur Commons.
 *Charpente de toit faite de profilés en acier (fermes, pannes) assemblés par boulons ou soudure.*
 
 - **Rejetée** — [A BGM-109 Tomahawk cruise missile, armed with a live 1,000 -pound Bullpup conventional warhead, makes an approach on its target, a warehouse-size concrete and steel structure with 7 - DPLA - 62dfc7197bcbfc43b1a7f429293cbd9b.jpeg](https://commons.wikimedia.org/wiki/File:A_BGM-109_Tomahawk_cruise_missile,_armed_with_a_live_1,000_-pound_Bullpup_conventional_warhead,_makes_an_approach_on_its_target,_a_warehouse-size_concrete_and_steel_structure_with_7_-_DPLA_-_62dfc7197bcbfc43b1a7f429293cbd9b.jpeg)
-  - Vérification : non examinée
+  - Vu : Missile en vol au-dessus d'un entrepôt lointain.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781057363.jpg](https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781057363.jpg)
-  - Vérification : non examinée
+  - Vu : Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.
+  - Vérification : rejetée — Silo béton ; aucune charpente métallique visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781065743.jpg](https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781065743.jpg)
-  - Vérification : non examinée
+  - Vu : Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.
+  - Vérification : rejetée — Silo béton ; aucune charpente métallique visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51779983072.jpg](https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51779983072.jpg)
-  - Vérification : non examinée
+  - Vu : Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.
+  - Vérification : rejetée — Silo béton ; aucune charpente métallique visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781458339.jpg](https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781458339.jpg)
-  - Vérification : non examinée
+  - Vu : Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.
+  - Vérification : rejetée — Silo béton ; aucune charpente métallique visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781448349.jpg](https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781448349.jpg)
+  - Vu : Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.
+  - Vérification : rejetée — Silo béton ; aucune charpente métallique visible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [0012Effects (floods) of Typhoon Vamco Calumpit, Bulacan 02.jpg](https://commons.wikimedia.org/wiki/File:0012Effects_(floods)_of_Typhoon_Vamco_Calumpit,_Bulacan_02.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Apples and other stuff.jpg](https://commons.wikimedia.org/wiki/File:Apples_and_other_stuff.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781460014.jpg](https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781460014.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Intérieur de la Basilique Notre-Dame de Fourvière, charpente métallique sous la toiture en ardoise.jpg](https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re,_charpente_m%C3%A9tallique_sous_la_toiture_en_ardoise.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [0012Effects (floods) of Typhoon Vamco Calumpit, Bulacan 07.jpg](https://commons.wikimedia.org/wiki/File:0012Effects_(floods)_of_Typhoon_Vamco_Calumpit,_Bulacan_07.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781686085.jpg](https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781686085.jpg)
   - Vérification : non examinée
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la panne — abandonné (vérification en cours)
+### la panne — abandonné
 
 *Pièce horizontale de charpente, parallèle au faîtage, posée sur les fermes et qui porte les chevrons ou la couverture.*
 
 - **Rejetée** — [Purlins.JPG](https://commons.wikimedia.org/wiki/File:Purlins.JPG)
-  - Vérification : non examinée
+  - Vu : Sous-face d'une toiture de hall avec une grosse poutre métallique blanche diagonale et des pannes fines en acier.
+  - Vérification : rejetée — Pannes trop fines et confondues avec la poutre/fermes ; ambigu.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Pfettendach, Marktplatz von London-Bermondsey (2024).jpg](https://commons.wikimedia.org/wiki/File:Pfettendach,_Marktplatz_von_London-Bermondsey_(2024).jpg)
-  - Vérification : non examinée
+  - Vu : Halle de marché en charpente bois vue de face, avec nombreux éléments.
+  - Vérification : rejetée — Trop d'éléments (poteaux, jambes de force, chevrons) ; la panne n'est pas isolable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Seabees measure purlins on the roof of Tinian Elementary School. (30969747657).jpg](https://commons.wikimedia.org/wiki/File:Seabees_measure_purlins_on_the_roof_of_Tinian_Elementary_School._(30969747657).jpg)
-  - Vérification : non examinée
+  - Vu : Ouvriers militaires posant des fermes et pièces de bois sur un toit en construction.
+  - Vérification : rejetée — Personnes au premier plan, pannes non identifiables clairement.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Interieur speelhuis, zolder, detail nokgording - Lisse - 20340656 - RCE.jpg](https://commons.wikimedia.org/wiki/File:Interieur_speelhuis,_zolder,_detail_nokgording_-_Lisse_-_20340656_-_RCE.jpg)
-  - Vérification : non examinée
+  - Vu : Noir et blanc : assemblage de bois dans un comble sous chaume, détail de faîtière.
+  - Vérification : rejetée — Noir et blanc, détail de panne faîtière (terme incompatible mais lecture confuse), peu lisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Bogen-Bachstraße-19.jpg](https://commons.wikimedia.org/wiki/File:Bogen-Bachstra%C3%9Fe-19.jpg)
-  - Vérification : non examinée
+  - Vu : Façade de maison à pignon en bois, avec avancées de pannes sous le débord.
+  - Vérification : rejetée — Pannes à peine visibles, sujet est la façade.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Common purlin framing.JPG](https://commons.wikimedia.org/wiki/File:Common_purlin_framing.JPG)
-  - Vérification : non examinée
+  - Vu : Charpente de grange en bois vue d'en dessous : arbalétriers, entraits et pièces transversales.
+  - Vérification : rejetée — Pannes et chevrons difficiles à distinguer sans doute ; risque de confusion avec arbalétrier/entrait.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le chevron — abandonné (vérification en cours)
@@ -5505,36 +6107,45 @@ Aucune image candidate trouvée sur Commons.
 *Panneau de couverture fait de deux tôles nervurées enfermant une âme isolante en mousse ou en laine minérale.*
 
 - **Rejetée** — [Panneau sandwich.jpg](https://commons.wikimedia.org/wiki/File:Panneau_sandwich.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Panneau sandwich de couverture vert nervuré, tranche montrant l'âme isolante en mousse claire, posé contre un mur.
+  - Vérification : validée (avec rectangle) — Objet clair et dominant, âme isolante bien visible ; étiquette de marque sans donner la réponse.
+  - Contre-vérification : —
 - **Rejetée** — [Lincoln National Forest headquarters building.jpg](https://commons.wikimedia.org/wiki/File:Lincoln_National_Forest_headquarters_building.jpg)
-  - Vérification : non examinée
+  - Vu : Bâtiment administratif en pierre avec toit en tôle verte.
+  - Vérification : rejetée — Panneau sandwich non identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [BedZED roofs 2007.jpg](https://commons.wikimedia.org/wiki/File:BedZED_roofs_2007.jpg)
-  - Vérification : non examinée
+  - Vu : Toiture avec cheminées de ventilation colorées et panneaux solaires.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [20110504-RD-LSC-0606 - Flickr - USDAgov.jpg](https://commons.wikimedia.org/wiki/File:20110504-RD-LSC-0606_-_Flickr_-_USDAgov.jpg)
-  - Vérification : non examinée
+  - Vu : Panneaux solaires au sol près d'un petit bâtiment.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Blue Grass Chemical Agent-Destruction Pilot Plant Control and Support Building (5201717631).jpg](https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_(5201717631).jpg)
-  - Vérification : non examinée
+  - Vu : Bâtiment industriel en bardage métallique, avec piles de panneaux isolés en premier plan en chantier.
+  - Vérification : rejetée — Panneaux en piles encombrés et peu lisibles ; l'ensemble évoque le bardage.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [20110504-RD-LSC-0621 - Flickr - USDAgov.jpg](https://commons.wikimedia.org/wiki/File:20110504-RD-LSC-0621_-_Flickr_-_USDAgov.jpg)
-  - Vérification : non examinée
+  - Vu : Panneau photovoltaïque devant un bâtiment cuivré.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la plaque translucide — abandonné (vérification en cours)
+### la plaque translucide — abandonné
 
 *Plaque de couverture en polycarbonate ou polyester qui laisse passer la lumière, posée parmi les tôles.*
 
 - **Rejetée** — [Sheet metals and sheet metal products - no. 292 (1911) (14781119804).jpg](https://commons.wikimedia.org/wiki/File:Sheet_metals_and_sheet_metal_products_-_no._292_(1911)_(14781119804).jpg)
-  - Vérification : non examinée
+  - Vu : Gravure/photo de catalogue ancien d'une plaque de tôle estampée.
+  - Vérification : rejetée — Document ancien, pas une plaque translucide.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Collapsed section of fence - Rycroft Way N17, former Green.jpg](https://commons.wikimedia.org/wiki/File:Collapsed_section_of_fence_-_Rycroft_Way_N17,_former_Green.jpg)
-  - Vérification : non examinée
+  - Vu : Panneau gris posé au sol sur un terrain vague.
+  - Vérification : rejetée — Matériau opaque, non translucide.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Jigsaw - Coming Soon, Coming Soon.jpg](https://commons.wikimedia.org/wiki/File:Jigsaw_-_Coming_Soon,_Coming_Soon.jpg)
-  - Vérification : non examinée
+  - Vu : Rue avec panneau de chantier devant un mur de brique.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la descente d'eaux pluviales — abandonné (vérification en cours)
@@ -5542,22 +6153,28 @@ Aucune image candidate trouvée sur Commons.
 *Tuyau vertical fixé sur la façade qui conduit l'eau du toit jusqu'au sol ou au réseau.*
 
 - **Rejetée** — [Oxidated rain pipe, Delft (2020) 01.jpg](https://commons.wikimedia.org/wiki/File:Oxidated_rain_pipe,_Delft_(2020)_01.jpg)
-  - Vérification : non examinée
+  - Vu : Tuyau de descente rouillé, percé, contre un mur de briques blanchies.
+  - Vérification : rejetée — Tuyau en mauvais état, coupé en haut, peu clair.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [-2023-01-29 Rainwater downpipe, Trimingham, Norfolk.JPG](https://commons.wikimedia.org/wiki/File:-2023-01-29_Rainwater_downpipe,_Trimingham,_Norfolk.JPG)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Descente d'eaux pluviales noire fixée sur la façade d'un abri en bois, avec coude en haut et dauphin en pied.
+  - Vérification : validée (avec rectangle) — Descente verticale claire et dominante, cadrée de près.
+  - Contre-vérification : —
 - **Rejetée** — [Oxidated rain pipe, Delft (2020) 02.jpg](https://commons.wikimedia.org/wiki/File:Oxidated_rain_pipe,_Delft_(2020)_02.jpg)
-  - Vérification : non examinée
+  - Vu : Même descente rouillée vue de plus près, avec plaques jaunes.
+  - Vérification : rejetée — Panneaux de signalisation visibles, tuyau abîmé.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [-2022-06-24 Butress and downpipe, Parish church of All Saints, Edingthorpe, Norfolk.JPG](https://commons.wikimedia.org/wiki/File:-2022-06-24_Butress_and_downpipe,_Parish_church_of_All_Saints,_Edingthorpe,_Norfolk.JPG)
-  - Vérification : non examinée
+  - Vu : Descente fine et noire le long d'un mur d'église en silex.
+  - Vérification : rejetée — Tuyau fin, peu contrasté dans un mur sombre, trop discret sur téléphone.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [-2022-04-24 Gutter downpipe, Saint Mary's, Northrepps.JPG](https://commons.wikimedia.org/wiki/File:-2022-04-24_Gutter_downpipe,_Saint_Mary%27s,_Northrepps.JPG)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Descente carrée métallique avec boîte à eau en tête, le long d'un mur d'église en silex.
+  - Vérification : validée (avec rectangle) — Descente verticale nette en tête de boîte à eau (terme incompatible), bien lisible une fois encadrée.
+  - Contre-vérification : —
 - **Rejetée** — [Shōfuku-ji rain gutter rain leader ama-ochi of the butsuden 6-1 Gokushomachi Hakata-ku Fukuoka 20240206.jpg](https://commons.wikimedia.org/wiki/File:Sh%C5%8Dfuku-ji_rain_gutter_rain_leader_ama-ochi_of_the_butsuden_6-1_Gokushomachi_Hakata-ku_Fukuoka_20240206.jpg)
-  - Vérification : non examinée
+  - Vu : Chaîne de pluie japonaise (ama-ochi) en forme de spirale, devant un temple.
+  - Vérification : rejetée — Chaîne de pluie, pas un tuyau ; confusion possible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la gargouille de terrasse — abandonné
@@ -5572,22 +6189,28 @@ Aucune image candidate trouvée sur Commons.
 *Feuille d'étanchéité en bitume armé, posée en lés soudés au chalumeau sur une toiture-terrasse.*
 
 - **Rejetée** — [4X-ECB Micha.jpg](https://commons.wikimedia.org/wiki/File:4X-ECB_Micha.jpg)
-  - Vérification : non examinée
+  - Vu : Avion El Al en vol.
+  - Vérification : rejetée — Sans rapport (ECB).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Roof waterproofing system application by Monotica Athens.jpg](https://commons.wikimedia.org/wiki/File:Roof_waterproofing_system_application_by_Monotica_Athens.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Toiture-terrasse couverte de lés de membrane bitumineuse grise à paillettes minérales, joints soudés noirs, bouteille de gaz de chalumeau, relevés noirs sur les bords.
+  - Vérification : validée (avec rectangle) — Lés et joints soudés clairement visibles, typique ; rectangle sur la surface de membrane pour éviter la confusion avec relevés/acrotères.
+  - Contre-vérification : —
 - **Rejetée** — [ECB at sunrise, Frankfurt am Main (IMG 20220427 071600-RR).jpg](https://commons.wikimedia.org/wiki/File:ECB_at_sunrise,_Frankfurt_am_Main_(IMG_20220427_071600-RR).jpg)
-  - Vérification : non examinée
+  - Vu : Tour de la BCE au lever du soleil.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Seat of the ECB, Southwest view 20220213 1.jpg](https://commons.wikimedia.org/wiki/File:Seat_of_the_ECB,_Southwest_view_20220213_1.jpg)
-  - Vérification : non examinée
+  - Vu : Tour de la BCE.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [View of Riverside and Seat of the ECB, Frankfurt-Ostend 20190330 1.jpg](https://commons.wikimedia.org/wiki/File:View_of_Riverside_and_Seat_of_the_ECB,_Frankfurt-Ostend_20190330_1.jpg)
-  - Vérification : non examinée
+  - Vu : Tour de la BCE depuis le Main.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [A6-ECB Boeing 777 Emirates (7608143792).jpg](https://commons.wikimedia.org/wiki/File:A6-ECB_Boeing_777_Emirates_(7608143792).jpg)
-  - Vérification : non examinée
+  - Vu : Boeing 777 Emirates en vol.
+  - Vérification : rejetée — Sans rapport.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le relevé d'étanchéité — abandonné

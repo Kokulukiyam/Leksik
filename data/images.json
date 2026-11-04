@@ -1810,6 +1810,91 @@
     "note": "Vérification : Montre l'élément définissant : l'ouverture centrale du toit en entonnoir et le bassin de l'impluvium ; occupe toute l'image. Contre-vérification : Photo réelle de l'intérieur d'une case à impluvium diola : cour centrale circulaire avec bassin de recueil, couverture de chaume qui s'incline vers l'ouverture centrale et portes des chambres autour ; caractéristique et sans confusion possible avec la case ronde."
   },
   {
+    "id": "echafaudage-02",
+    "termId": "echafaudage",
+    "fichier": "commons/echafaudage-02.webp",
+    "rectangle": {
+      "x": 0.37,
+      "y": 0.26,
+      "largeur": 0.18,
+      "hauteur": 0.44
+    },
+    "lieu": "Wells, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Stephen Craven",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_Cathedral,_Wells,_with_scaffolding_-_geograph.org.uk_-_7053762.jpg",
+    "statut": "validée",
+    "note": "Vérification : Échafaudage net et dominant ; le tubulaire est un terme incompatible, donc acceptable ; rectangle car la cathédrale domine. Contre-vérification : Échafaudage tubulaire bâché dressé contre la tour centrale d'une cathédrale, bien cadré par le rectangle ; terme générique juste."
+  },
+  {
+    "id": "echafaudage-03",
+    "termId": "echafaudage",
+    "fichier": "commons/echafaudage-03.webp",
+    "rectangle": {
+      "x": 0.02,
+      "y": 0.36,
+      "largeur": 0.78,
+      "hauteur": 0.52
+    },
+    "lieu": "York, Royaume-Uni",
+    "source": "commons",
+    "auteur": "habiloid",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Scaffolding_on_the_Minster,_Minster_Yard,_York_-_geograph.org.uk_-_8293971.jpg",
+    "statut": "validée",
+    "note": "Vérification : Échafaudage typique, clair ; tubulaire incompatible donc acceptable. Contre-vérification : Vaste échafaudage de tubes et planchers contre le flanc d'une cathédrale, dominant dans le rectangle."
+  },
+  {
+    "id": "coffrage-03",
+    "termId": "coffrage",
+    "fichier": "commons/coffrage-03.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.34,
+      "largeur": 0.72,
+      "hauteur": 0.28
+    },
+    "lieu": "Munich, Allemagne",
+    "source": "commons",
+    "auteur": "User:Mattes",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Formwork_for_concrete_stair.JPG",
+    "statut": "validée",
+    "note": "Vérification : Moule de béton clair et lisible ; coffrage bois incompatible donc acceptable. Contre-vérification : Planches de coffrage bois autour d'une marche en béton fraîchement coulée devant une boutique ; moule provisoire lisible."
+  },
+  {
+    "id": "coffrage-06",
+    "termId": "coffrage",
+    "fichier": "commons/coffrage-06.webp",
+    "rectangle": null,
+    "lieu": "Moscou, Russie",
+    "source": "commons",
+    "auteur": "STALFORM Engineering",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Engineered_Formwork_System_for_cut_and_cover_construction_method._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D1%81%D0%B2%D0%BE%D0%B4%D0%B0.jpg",
+    "statut": "validée",
+    "note": "Vérification : Moule de voûte béton clair ; coffrage métallique incompatible donc acceptable. Contre-vérification : Grand coffrage métallique cintré d'un ouvrage enterré, armatures à côté ; c'est bien un moule provisoire pour béton."
+  },
+  {
+    "id": "coffrage-de-poteau-04",
+    "termId": "coffrage-de-poteau",
+    "fichier": "commons/coffrage-de-poteau-04.webp",
+    "rectangle": {
+      "x": 0.47,
+      "y": 0.15,
+      "largeur": 0.22,
+      "hauteur": 0.74
+    },
+    "lieu": "États-Unis",
+    "source": "commons",
+    "auteur": "MTA Capital Construction Mega Projects",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Carpenters_continue_to_install_formwork_around_existing_columns_in_the_concourse._(CM014B,_1-03-2018)_(25706275198).jpg",
+    "statut": "validée",
+    "note": "Vérification : Caisson vertical autour d'un poteau, clair ; photo sombre mais lisible ; rectangle sur le coffrage central. Contre-vérification : Caisson vertical carré de coffrage de poteau, maintenu par des étais tirants, bien désigné par le rectangle."
+  },
+  {
     "id": "pelle-hydraulique-01",
     "termId": "pelle-hydraulique",
     "fichier": "commons/pelle-hydraulique-01.webp",
@@ -2174,5 +2259,504 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Road_Curb.JPG",
     "statut": "validée",
     "note": "Vérification : Bordure en béton dominante et nette ; chaussée au pied. Contre-vérification : Bordure en béton entre trottoir pavé et chaussée, différence de hauteur bien visible ; ce n'est pas une bordurette."
+  },
+  {
+    "id": "chaussee-01",
+    "termId": "chaussee",
+    "fichier": "commons/chaussee-01.webp",
+    "rectangle": null,
+    "lieu": "Route 35, Islande",
+    "source": "commons",
+    "auteur": "Jakub Hałun",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Road_35,_Iceland,_20230501_0928_3772.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chaussée typique, claire et dominante, sans trottoir ni autre élément concurrent. Contre-vérification : Route rurale en enrobé filant vers l'horizon, la chaussée occupe toute l'image ; aucune autre réponse ne domine."
+  },
+  {
+    "id": "pave-autobloquant-03",
+    "termId": "pave-autobloquant",
+    "fichier": "commons/pave-autobloquant-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Goodidea",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Paving_stones_concrete_s-shape_2025-03-11.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pavés autobloquants en appareil caractéristique ; image plein cadre. Contre-vérification : Gros plan de pavés béton à profil ondulé emboîtés, typiques de l'autobloquant."
+  },
+  {
+    "id": "pave-autobloquant-05",
+    "termId": "pave-autobloquant",
+    "fichier": "commons/pave-autobloquant-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Sisters.seamless",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Grey_herringbone_wavy_interlocking_seamless_block_floor_paving_texture.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pavés autobloquants typiques, plein cadre, nets (texture sans raccord mais photo réelle). Contre-vérification : Pavés béton en os emboîtés, forme autobloquante caractéristique, cadrage plein."
+  },
+  {
+    "id": "tampon-de-regard-02",
+    "termId": "tampon-de-regard",
+    "fichier": "commons/tampon-de-regard-02.webp",
+    "rectangle": null,
+    "lieu": "Berlin, Allemagne",
+    "source": "commons",
+    "auteur": "Matti Blume",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Manhole_cover,_Berlin_(IMG_20190806_094407).jpg",
+    "statut": "validée",
+    "note": "Vérification : Tampon de regard net, plein cadre, cerclé d'un pavage. Contre-vérification : Couvercle rond en fonte serti dans les pavés, sujet unique et net."
+  },
+  {
+    "id": "tampon-de-regard-04",
+    "termId": "tampon-de-regard",
+    "fichier": "commons/tampon-de-regard-04.webp",
+    "rectangle": null,
+    "lieu": "Mauthausen, Autriche",
+    "source": "commons",
+    "auteur": "GT1976",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2018-02-13_(605)_Manhole_cover_by_Meier_Guss_at_Bahnhof_Mauthausen.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tampon rond clair, dominant, sans élément concurrent. Contre-vérification : Tampon rond en fonte en gros plan, sujet dominant sans ambiguïté."
+  },
+  {
+    "id": "dos-d-ane-05",
+    "termId": "dos-d-ane",
+    "fichier": "commons/dos-d-ane-05.webp",
+    "rectangle": {
+      "x": 0.02,
+      "y": 0.36,
+      "largeur": 0.95,
+      "hauteur": 0.4
+    },
+    "lieu": "Sans lieu précis",
+    "source": "commons",
+    "auteur": "Inconnu",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Le%C5%BEe%C4%87i_policajac_016.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ralentisseur transversal net, rectangle sur la bosse pour la distinguer des voitures et piétons. Contre-vérification : Ralentisseur en caoutchouc posé en travers de la rue, bien désigné par le rectangle."
+  },
+  {
+    "id": "passage-pieton-03",
+    "termId": "passage-pieton",
+    "fichier": "commons/passage-pieton-03.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.64,
+      "largeur": 0.8,
+      "hauteur": 0.34
+    },
+    "lieu": "Bandung, Indonésie",
+    "source": "commons",
+    "auteur": "Astari28",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Zebra_Cross_di_Jalan_Asia_Afrika.jpg",
+    "statut": "validée",
+    "note": "Vérification : Passage piéton clair en usage ; rectangle sur le zébra. Contre-vérification : Bandes blanches en travers de la chaussée avec piétons qui traversent, rectangle bien placé."
+  },
+  {
+    "id": "passage-pieton-05",
+    "termId": "passage-pieton",
+    "fichier": "commons/passage-pieton-05.webp",
+    "rectangle": {
+      "x": 0.15,
+      "y": 0.61,
+      "largeur": 0.6,
+      "hauteur": 0.12
+    },
+    "lieu": "Newport, Pays de Galles",
+    "source": "commons",
+    "auteur": "Jaggery",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Zebra_crossing,_Kingsway,_Newport_-_geograph.org.uk_-_6466465.jpg",
+    "statut": "validée",
+    "note": "Vérification : Passage piéton net ; rectangle sur les bandes (texte DOLMAN hors cadre). Contre-vérification : Zébras blancs en travers de la chaussée, rectangle serré sur le passage."
+  },
+  {
+    "id": "marquage-au-sol-01",
+    "termId": "marquage-au-sol",
+    "fichier": "commons/marquage-au-sol-01.webp",
+    "rectangle": null,
+    "lieu": "Amboy, Californie, États-Unis",
+    "source": "commons",
+    "auteur": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Amboy_(California,_USA),_Hist._Route_66_--_2012_--_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Marquage au sol clair (ligne axiale, rive et signes peints), plein cadre. Contre-vérification : Lignes jaunes et blanches et logos Route 66 peints sur la chaussée, le marquage est le sujet évident."
+  },
+  {
+    "id": "lampadaire-01",
+    "termId": "lampadaire",
+    "fichier": "commons/lampadaire-01.webp",
+    "rectangle": null,
+    "lieu": "Royaume-Uni",
+    "source": "commons",
+    "auteur": "Rodhullandemu",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Mere_Lane_lamp_standard_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Mât haut à luminaires, typique et dominant. Contre-vérification : Mât en fonte ouvragé à deux luminaires, sujet unique et net."
+  },
+  {
+    "id": "lampadaire-03",
+    "termId": "lampadaire",
+    "fichier": "commons/lampadaire-03.webp",
+    "rectangle": null,
+    "lieu": "Disneyland Paris, France",
+    "source": "commons",
+    "auteur": "Une autre de mes images: Cette photographie a été prise par Medium69 (William Crochot) et publié sous la licence ci-dessous. Vous êtes libre de l'utiliser aussi longtemps que vous citez l'auteur (Will",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:R%C3%A9verb%C3%A8re_-_20150802_17h53_(10751).jpg",
+    "statut": "validée",
+    "note": "Vérification : Haut mât à plusieurs luminaires, très lisible. Contre-vérification : Haut mât vert à quatre globes, vu en contre-plongée, sans ambiguïté."
+  },
+  {
+    "id": "panneau-de-signalisation-02",
+    "termId": "panneau-de-signalisation",
+    "fichier": "commons/panneau-de-signalisation-02.webp",
+    "rectangle": null,
+    "lieu": "Kota Kinabalu, Malaisie",
+    "source": "commons",
+    "auteur": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-05.jpg",
+    "statut": "validée",
+    "note": "Vérification : Panneau à symbole, net et dominant. Contre-vérification : Panneau rond d'interdiction de tourner sur son poteau, sujet dominant."
+  },
+  {
+    "id": "panneau-de-signalisation-03",
+    "termId": "panneau-de-signalisation",
+    "fichier": "commons/panneau-de-signalisation-03.webp",
+    "rectangle": null,
+    "lieu": "Petagas, Sabah, Malaisie",
+    "source": "commons",
+    "auteur": "Cccefalon",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Warning-sign-31.jpg",
+    "statut": "validée",
+    "note": "Vérification : Plaque à symbole sur poteau, typique et net. Contre-vérification : Panneau losange de danger passage de train sur poteau, net et dominant."
+  },
+  {
+    "id": "panneau-de-signalisation-06",
+    "termId": "panneau-de-signalisation",
+    "fichier": "commons/panneau-de-signalisation-06.webp",
+    "rectangle": null,
+    "lieu": "Lewis Pass, Nouvelle-Zélande",
+    "source": "commons",
+    "auteur": "Krzysztof Golik",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Road_sign_at_Lewis_Pass_NZ.jpg",
+    "statut": "validée",
+    "note": "Vérification : Plaque à symbole sur poteau, claire. Contre-vérification : Panneau de danger chaussée glissante avec panonceau sur poteau en bord de route."
+  },
+  {
+    "id": "mur-de-cloture-03",
+    "termId": "mur-de-cloture",
+    "fichier": "commons/mur-de-cloture-03.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.57,
+      "largeur": 0.86,
+      "hauteur": 0.34
+    },
+    "lieu": "Carshalton, Londres",
+    "source": "commons",
+    "auteur": "Jhsteel",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Boundary_wall_to_Carshalton_House_along_Pound_Street.jpg",
+    "statut": "validée",
+    "note": "Vérification : Mur de clôture lisible ; pilier et portail exclus du cadre. Contre-vérification : Long mur de brique fermant une propriété sur la rue, bien cadré, pilier exclu du rectangle."
+  },
+  {
+    "id": "pilier-de-portail-04",
+    "termId": "pilier-de-portail",
+    "fichier": "commons/pilier-de-portail-04.webp",
+    "rectangle": {
+      "x": 0.25,
+      "y": 0.11,
+      "largeur": 0.4,
+      "hauteur": 0.78
+    },
+    "lieu": "Royaume-Uni (Canons)",
+    "source": "commons",
+    "auteur": "Matt Brown",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Canons_gate_pillar_-_2026-05-20.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pilier de portail maçonné coiffé d'un chapeau ; portail non visible mais forme et contexte typiques. Contre-vérification : Pilier maçonné blanc coiffé d'un chapeau mouluré et d'une boule, à l'entrée entre deux clôtures ; bien désigné."
+  },
+  {
+    "id": "chaperon-01",
+    "termId": "chaperon",
+    "fichier": "commons/chaperon-01.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.2,
+      "largeur": 1,
+      "hauteur": 0.5
+    },
+    "lieu": "Haringey, Londres",
+    "source": "commons",
+    "auteur": "Acabashi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Downhills_Park_Road_mossy_wall,_Haringey_London_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Couronnement du mur nettement visible, encadré. Contre-vérification : Couronnement bombé et moussu au sommet d'un muret de brique, rectangle bien placé sur le chaperon."
+  },
+  {
+    "id": "chaperon-03",
+    "termId": "chaperon",
+    "fichier": "commons/chaperon-03.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.19,
+      "largeur": 1,
+      "hauteur": 0.37
+    },
+    "lieu": "Haringey, Londres",
+    "source": "commons",
+    "auteur": "Acabashi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Downhills_Park_Road_mossy_wall,_Haringey_London_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Dalle de couronnement en pente nette, encadrée. Contre-vérification : Chaperon en pierre en pente couronnant un mur de brique, nettement désigné."
+  },
+  {
+    "id": "fil-barbele-02",
+    "termId": "fil-barbele",
+    "fichier": "commons/fil-barbele-02.webp",
+    "rectangle": null,
+    "lieu": "Dülmen, Allemagne",
+    "source": "commons",
+    "auteur": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wiese_am_Strandbadweg_--_2016_--_5670-6.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fil à pointes net malgré le givre. Contre-vérification : Fil torsadé avec une pointe givrée en gros plan ; le barbelé reste reconnaissable."
+  },
+  {
+    "id": "fil-barbele-04",
+    "termId": "fil-barbele",
+    "fichier": "commons/fil-barbele-04.webp",
+    "rectangle": null,
+    "lieu": "Dülmen, Allemagne",
+    "source": "commons",
+    "auteur": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Zaun_einer_Wiese_--_2021_--_5083.jpg",
+    "statut": "validée",
+    "note": "Vérification : Torsade et pointes bien visibles. Contre-vérification : Gros plan d'un nœud de barbelé torsadé avec ses pointes, givré, très lisible."
+  },
+  {
+    "id": "cloture-grillagee-05",
+    "termId": "cloture-grillagee",
+    "fichier": "commons/cloture-grillagee-05.webp",
+    "rectangle": null,
+    "lieu": "Sarrebruck, Allemagne",
+    "source": "commons",
+    "auteur": "Flocci Nivis",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:20200408_newspaper_chain-link_fence.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grillage, poteau et fil tendeur nets ; le journal est secondaire. Contre-vérification : Grillage simple torsion tendu entre poteaux, sujet dominant malgré un journal accroché."
+  },
+  {
+    "id": "piscine-01",
+    "termId": "piscine",
+    "fichier": "commons/piscine-01.webp",
+    "rectangle": null,
+    "lieu": "Cancún, Mexique",
+    "source": "commons",
+    "auteur": "Bernard DUPONT",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Villa_Airport_Prestige_Swimming_Pool_-_Cancun_QR_Jan_2020.jpg",
+    "statut": "validée",
+    "note": "Vérification : Piscine claire et dominante. Contre-vérification : Bassin carrelé bleu bordé de margelles dans une villa, sujet évident."
+  },
+  {
+    "id": "piscine-03",
+    "termId": "piscine",
+    "fichier": "commons/piscine-03.webp",
+    "rectangle": null,
+    "lieu": "Vietnam",
+    "source": "commons",
+    "auteur": "Diane Selwyn",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Swimming_pool,_Tran_Le_Xuan_Villa_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Piscine nettement lisible. Contre-vérification : Bassin rectangulaire carrelé avec échelles et plage, vue d'ensemble claire."
+  },
+  {
+    "id": "facade-06",
+    "termId": "facade",
+    "fichier": "commons/facade-06.webp",
+    "rectangle": null,
+    "lieu": "Toulouse, France",
+    "source": "commons",
+    "auteur": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Immeuble_dit_de_Seube_Toulouse.jpg",
+    "statut": "validée",
+    "note": "Vérification : Façade d'ensemble claire malgré l'arbre. Contre-vérification : Bâtiment de brique vu en entier avec murs et ouvertures, la façade d'ensemble est le sujet."
+  },
+  {
+    "id": "mur-rideau-01",
+    "termId": "mur-rideau",
+    "fichier": "commons/mur-rideau-01.webp",
+    "rectangle": {
+      "x": 0.23,
+      "y": 0.31,
+      "largeur": 0.5,
+      "hauteur": 0.32
+    },
+    "lieu": "Hallidie Building, San Francisco",
+    "source": "commons",
+    "auteur": "Dllu",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Hallidie_Building_in_San_Francisco_dllu.jpg",
+    "statut": "validée",
+    "note": "Vérification : Mur-rideau historique, trame de montants et traverses devant la structure ; rectangle sur la partie vitrée. Contre-vérification : Hallidie Building : façade vitrée continue à ossature fine accrochée devant la structure, bien désignée."
+  },
+  {
+    "id": "mur-rideau-03",
+    "termId": "mur-rideau",
+    "fichier": "commons/mur-rideau-03.webp",
+    "rectangle": {
+      "x": 0.11,
+      "y": 0.19,
+      "largeur": 0.79,
+      "hauteur": 0.4
+    },
+    "lieu": "Hallidie Building, San Francisco",
+    "source": "commons",
+    "auteur": "The wub",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Hallidie_Building,_San_Francisco_(1)_2023-07-18.jpg",
+    "statut": "validée",
+    "note": "Vérification : Exemple typique et net de mur-rideau ; rectangle sur la trame vitrée centrale. Contre-vérification : Même mur-rideau du Hallidie Building en vue frontale, la grille vitrée occupe le rectangle."
+  },
+  {
+    "id": "garde-corps-vitre-01",
+    "termId": "garde-corps-vitre",
+    "fichier": "commons/garde-corps-vitre-01.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.54,
+      "largeur": 0.64,
+      "hauteur": 0.44
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "My brother",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Calico_cat_in_top_of_a_glass_balustrade.jpg",
+    "statut": "validée",
+    "note": "Vérification : Remplissage en verre feuilleté à profilé ; le chat est secondaire, rectangle sur le verre. Contre-vérification : Garde-corps à panneaux de verre dans un cadre, bien cadré par le rectangle ; le chat ne prête pas à confusion de terme."
+  },
+  {
+    "id": "vitrine-05",
+    "termId": "vitrine",
+    "fichier": "commons/vitrine-05.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.36,
+      "largeur": 0.3,
+      "hauteur": 0.42
+    },
+    "lieu": "Marbourg, Allemagne",
+    "source": "commons",
+    "auteur": "A.Savin",
+    "licence": "FAL",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Marburg_asv2022-02_img06_Reitgasse.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grande baie vitrée de commerce avec marchandises exposées ; rectangle sur la vitrine gauche pour distinguer de la devanture (incompatible). Contre-vérification : Grande baie vitrée d'une librairie au rez-de-chaussée avec livres exposés, rectangle serré sur la vitrine."
+  },
+  {
+    "id": "vitrine-06",
+    "termId": "vitrine",
+    "fichier": "commons/vitrine-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "FuriousYogi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Window_display_of_prom_dress_shop.jpg",
+    "statut": "validée",
+    "note": "Vérification : Vitrine typique, claire, marchandises exposées derrière une grande baie vitrée. Contre-vérification : Vitrine de magasin de robes avec mannequins exposés derrière le verre, sujet évident."
+  },
+  {
+    "id": "toit-a-deux-pans-03",
+    "termId": "toit-a-deux-pans",
+    "fichier": "commons/toit-a-deux-pans-03.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.2,
+      "largeur": 0.5,
+      "hauteur": 0.28
+    },
+    "lieu": "Royaume-Uni",
+    "source": "commons",
+    "auteur": "Bob Harvey",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Double_Gable_roof_-_geograph.org.uk_-_6660534.jpg",
+    "statut": "validée",
+    "note": "Vérification : Toit à deux versants avec pignon à chaque bout, encadré sur la première maison. Contre-vérification : Toit de tuiles à deux versants avec pignon bien visible, rectangle bien placé."
+  },
+  {
+    "id": "toit-a-quatre-pans-03",
+    "termId": "toit-a-quatre-pans",
+    "fichier": "commons/toit-a-quatre-pans-03.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.31,
+      "largeur": 0.48,
+      "hauteur": 0.2
+    },
+    "lieu": "Royaume-Uni",
+    "source": "commons",
+    "auteur": "Stephen Craven",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Hipped-roof_houses_on_Broadlea_Street_-_geograph.org.uk_-_6499064.jpg",
+    "statut": "validée",
+    "note": "Vérification : Toit à croupes aux deux bouts, sans pignon ; rectangle sur le toit de la maison de gauche. Contre-vérification : Toit à croupes aux deux extrémités sur un immeuble de brique, sans pignon, bien désigné."
+  },
+  {
+    "id": "toit-a-quatre-pans-06",
+    "termId": "toit-a-quatre-pans",
+    "fichier": "commons/toit-a-quatre-pans-06.webp",
+    "rectangle": {
+      "x": 0.35,
+      "y": 0.35,
+      "largeur": 0.58,
+      "hauteur": 0.12
+    },
+    "lieu": "Île Bolchoï Zaïatski, Russie",
+    "source": "commons",
+    "auteur": "Godot13",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg",
+    "statut": "validée",
+    "note": "Vérification : Toit à quatre pans très lisible, sans pignon ; rectangle sur la toiture. Contre-vérification : Toit à quatre versants avec faîtage court et croupes, sans pignon, rectangle juste."
+  },
+  {
+    "id": "charpente-02",
+    "termId": "charpente",
+    "fichier": "commons/charpente-02.webp",
+    "rectangle": null,
+    "lieu": "Warwickshire, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Dominic Cropper",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Roof_Timbers_-_geograph.org.uk_-_1740919.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ossature de toit en bois lisible et dominante. Contre-vérification : Ossature de bois apparente vue de dessous (entraits, arbalétriers, chevrons), la charpente dans son ensemble."
   }
 ]

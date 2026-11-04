@@ -1,0 +1,58 @@
+{
+  "termId": "panneau-sandwich",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panneau sandwich de couverture vert nervuré, tranche montrant l'âme isolante en mousse claire, posé contre un mur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.31,
+        "y": 0.15,
+        "largeur": 0.5,
+        "hauteur": 0.82
+      },
+      "lieu": "",
+      "note": "Objet clair et dominant, âme isolante bien visible ; étiquette de marque sans donner la réponse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bâtiment administratif en pierre avec toit en tôle verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alamogordo, États-Unis",
+      "note": "Panneau sandwich non identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Toiture avec cheminées de ventilation colorées et panneaux solaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "BedZED, Royaume-Uni",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Panneaux solaires au sol près d'un petit bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Louisa, Virginie, États-Unis",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bâtiment industriel en bardage métallique, avec piles de panneaux isolés en premier plan en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, États-Unis",
+      "note": "Panneaux en piles encombrés et peu lisibles ; l'ensemble évoque le bardage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneau photovoltaïque devant un bâtiment cuivré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Louisa, Virginie, États-Unis",
+      "note": "Sans rapport."
+    }
+  ]
+}

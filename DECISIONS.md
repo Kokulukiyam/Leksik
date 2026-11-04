@@ -34,3 +34,4 @@
 - Page Paramètres (quatrième page, demandée après la spécification) : réglages gardés dans localStorage ; par défaut, parties de 10 images et 4 mots comme avant.
 - Gérer : recherche par terme et affichage par paquets de 60 cartes, pour rester fluide avec plus de 1000 images.
 - Première vérification de la version 2 confiée à des agents Sonnet (lots de 10 termes), pour ménager le budget ; la contre-vérification, garde-fou indépendant, reste sur le modèle principal.
+- Recherche Commons de la version 2 : d'abord dans des catégories Commons proposées par des agents puis vérifiées automatiquement (`scripts/verifier_categories.mjs`, champ `categoriesCommons`), ensuite Wikidata (libellé français exact, P373), puis la recherche plein texte ; scans de livres exclus, au plus 2 fichiers d'une même série.

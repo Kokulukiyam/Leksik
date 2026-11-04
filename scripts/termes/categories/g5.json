@@ -1,0 +1,852 @@
+{
+ "banco": [
+  "Category:Mud brick architecture in Mali",
+  "Category:Adobe buildings in Mali",
+  "Category:Mudbrick",
+  "Category:Adobe"
+ ],
+ "toron": [
+  "Category:Great Mosque of Djenné",
+  "Category:Mud brick architecture in Mali",
+  "Category:Mosques in Mali"
+ ],
+ "toguna": [
+  "Category:Toguna",
+  "Category:Dogon architecture",
+  "Category:Dogon Country"
+ ],
+ "grenier-dogon": [
+  "Category:Dogon granaries",
+  "Category:Granaries in Mali",
+  "Category:Granaries"
+ ],
+ "case-a-impluvium": [
+  "Category:Impluvium houses in Casamance",
+  "Category:Diola architecture",
+  "Category:Traditional architecture in Senegal"
+ ],
+ "case": [
+  "Category:Round houses in Senegal",
+  "Category:Huts in Senegal",
+  "Category:Huts"
+ ],
+ "palissade-de-chantier": [
+  "Category:Construction site hoardings",
+  "Category:Hoardings",
+  "Category:Construction sites"
+ ],
+ "panneau-de-chantier": [
+  "Category:Construction site signs",
+  "Category:Signs at construction sites"
+ ],
+ "bungalow-de-chantier": [
+  "Category:Site offices",
+  "Category:Portable buildings",
+  "Category:Construction sites"
+ ],
+ "benne-a-gravats": [
+  "Category:Skips (containers)",
+  "Category:Waste containers",
+  "Category:Construction waste"
+ ],
+ "goulotte-a-gravats": [
+  "Category:Rubble chutes",
+  "Category:Construction waste"
+ ],
+ "cone-de-signalisation": [
+  "Category:Traffic cones",
+  "Category:Road works"
+ ],
+ "ruban-de-signalisation": [
+  "Category:Barrier tape",
+  "Category:Warning tape"
+ ],
+ "echafaudage": [
+  "Category:Scaffolding",
+  "Category:Scaffolding on buildings"
+ ],
+ "echafaudage-tubulaire": [
+  "Category:Tube and coupler scaffolding",
+  "Category:Scaffolding"
+ ],
+ "echafaudage-en-bois": [
+  "Category:Wooden scaffolding",
+  "Category:Scaffolding in Africa",
+  "Category:Scaffolding"
+ ],
+ "echafaudage-en-bambou": [
+  "Category:Bamboo scaffolding",
+  "Category:Scaffolding"
+ ],
+ "echafaudage-roulant": [
+  "Category:Mobile scaffold towers",
+  "Category:Scaffolding"
+ ],
+ "plancher-d-echafaudage": [
+  "Category:Scaffold boards",
+  "Category:Scaffolding"
+ ],
+ "filet-de-protection": [
+  "Category:Scaffolding nets",
+  "Category:Safety nets"
+ ],
+ "echelle": [
+  "Category:Ladders",
+  "Category:Ladders in use"
+ ],
+ "nacelle-elevatrice": [
+  "Category:Aerial work platforms",
+  "Category:Cherry pickers"
+ ],
+ "etai": [
+  "Category:Shoring",
+  "Category:Construction props",
+  "Category:Formwork"
+ ],
+ "etai-metallique": [
+  "Category:Acrow props",
+  "Category:Shoring",
+  "Category:Construction props"
+ ],
+ "etai-en-bois": [
+  "Category:Shoring",
+  "Category:Timber shoring",
+  "Category:Construction props"
+ ],
+ "tour-d-etaiement": [
+  "Category:Shoring towers",
+  "Category:Shoring",
+  "Category:Falsework"
+ ],
+ "coffrage": [
+  "Category:Concrete formwork",
+  "Category:Formwork"
+ ],
+ "coffrage-bois": [
+  "Category:Timber formwork",
+  "Category:Concrete formwork"
+ ],
+ "coffrage-metallique": [
+  "Category:Steel formwork",
+  "Category:Concrete formwork"
+ ],
+ "banche": [
+  "Category:Wall formwork",
+  "Category:Concrete formwork"
+ ],
+ "coffrage-de-poteau": [
+  "Category:Column formwork",
+  "Category:Concrete formwork"
+ ],
+ "coffrage-de-dalle": [
+  "Category:Slab formwork",
+  "Category:Concrete formwork"
+ ],
+ "table-coffrante": [
+  "Category:Table formwork",
+  "Category:Concrete formwork"
+ ],
+ "tige-de-coffrage": [
+  "Category:Formwork ties",
+  "Category:Concrete formwork"
+ ],
+ "betonniere": [
+  "Category:Concrete mixers",
+  "Category:Cement mixers"
+ ],
+ "pelle-hydraulique": [
+  "Category:Excavators",
+  "Category:Hydraulic excavators"
+ ],
+ "mini-pelle": [
+  "Category:Mini excavators",
+  "Category:Excavators"
+ ],
+ "tractopelle": [
+  "Category:Backhoe loaders",
+  "Category:Backhoes"
+ ],
+ "bulldozer": [
+  "Category:Bulldozers",
+  "Category:Caterpillar bulldozers"
+ ],
+ "niveleuse": [
+  "Category:Motor graders",
+  "Category:Graders"
+ ],
+ "rouleau-compresseur": [
+  "Category:Road rollers",
+  "Category:Compactors"
+ ],
+ "plaque-vibrante": [
+  "Category:Plate compactors",
+  "Category:Compactors"
+ ],
+ "pilonneuse": [
+  "Category:Rammers",
+  "Category:Plate compactors"
+ ],
+ "camion-benne": [
+  "Category:Dump trucks",
+  "Category:Tipper trucks"
+ ],
+ "tombereau": [
+  "Category:Articulated dump trucks",
+  "Category:Dump trucks"
+ ],
+ "dumper": [
+  "Category:Site dumpers",
+  "Category:Dump trucks"
+ ],
+ "camion-toupie": [
+  "Category:Concrete mixer trucks",
+  "Category:Cement mixer trucks"
+ ],
+ "pompe-a-beton": [
+  "Category:Concrete pump trucks",
+  "Category:Concrete pumps"
+ ],
+ "chariot-telescopique": [
+  "Category:Telehandlers",
+  "Category:Telescopic handlers"
+ ],
+ "foreuse-de-pieux": [
+  "Category:Piling rigs",
+  "Category:Pile drivers"
+ ],
+ "grue-a-tour": [
+  "Category:Tower cranes",
+  "Category:Cranes in construction"
+ ],
+ "grue-mobile": [
+  "Category:Mobile cranes",
+  "Category:Cranes"
+ ],
+ "monte-charge": [
+  "Category:Construction hoists",
+  "Category:Hoists"
+ ],
+ "poulie": [
+  "Category:Pulleys",
+  "Category:Block and tackle"
+ ],
+ "palan": [
+  "Category:Chain hoists",
+  "Category:Hoists"
+ ],
+ "elingue": [
+  "Category:Slings (lifting)",
+  "Category:Lifting equipment"
+ ],
+ "benne-a-beton": [
+  "Category:Concrete buckets",
+  "Category:Concrete placing"
+ ],
+ "truelle": [
+  "Category:Trowels",
+  "Category:Masons' trowels"
+ ],
+ "taloche": [
+  "Category:Floats (plastering)",
+  "Category:Plastering tools"
+ ],
+ "platoir": [
+  "Category:Plastering trowels",
+  "Category:Trowels"
+ ],
+ "seau-de-macon": [
+  "Category:Buckets",
+  "Category:Builders' buckets"
+ ],
+ "brouette": [
+  "Category:Wheelbarrows",
+  "Category:Wheelbarrows in Africa"
+ ],
+ "pelle": [
+  "Category:Shovels",
+  "Category:Spades"
+ ],
+ "pioche": [
+  "Category:Pickaxes",
+  "Category:Mattocks"
+ ],
+ "marteau": [
+  "Category:Claw hammers",
+  "Category:Hammers"
+ ],
+ "masse": [
+  "Category:Sledgehammers",
+  "Category:Hammers"
+ ],
+ "burin": [
+  "Category:Cold chisels",
+  "Category:Chisels"
+ ],
+ "tamis": [
+  "Category:Sieves",
+  "Category:Sand sieves"
+ ],
+ "regle-de-macon": [
+  "Category:Screeds",
+  "Category:Straightedges"
+ ],
+ "niveau-a-bulle": [
+  "Category:Spirit levels",
+  "Category:Levels (tools)"
+ ],
+ "fil-a-plomb": [
+  "Category:Plumb bobs",
+  "Category:Plumb lines"
+ ],
+ "cordeau": [
+  "Category:Mason's lines",
+  "Category:String lines"
+ ],
+ "cordeau-traceur": [
+  "Category:Chalk lines",
+  "Category:Chalk line reels"
+ ],
+ "equerre-de-macon": [
+  "Category:Try squares",
+  "Category:Squares (tools)"
+ ],
+ "moule-a-parpaings": [
+  "Category:Concrete block molds",
+  "Category:Concrete blocks in Africa",
+  "Category:Concrete blocks"
+ ],
+ "talocheuse-mecanique": [
+  "Category:Power trowels",
+  "Category:Concrete finishing"
+ ],
+ "regle-vibrante": [
+  "Category:Vibrating screeds",
+  "Category:Concrete finishing"
+ ],
+ "aiguille-vibrante": [
+  "Category:Concrete vibrators",
+  "Category:Concrete finishing"
+ ],
+ "cisaille-a-armatures": [
+  "Category:Rebar cutters",
+  "Category:Rebar"
+ ],
+ "cintreuse-a-armatures": [
+  "Category:Rebar benders",
+  "Category:Rebar"
+ ],
+ "griffe-a-cintrer": [
+  "Category:Rebar benders",
+  "Category:Rebar"
+ ],
+ "tenaille": [
+  "Category:Pincers",
+  "Category:Pliers"
+ ],
+ "fil-a-ligaturer": [
+  "Category:Rebar tying",
+  "Category:Rebar",
+  "Category:Wire"
+ ],
+ "disqueuse": [
+  "Category:Angle grinders",
+  "Category:Grinders"
+ ],
+ "poste-a-souder": [
+  "Category:Welding machines",
+  "Category:Arc welding"
+ ],
+ "chalumeau": [
+  "Category:Blowtorches",
+  "Category:Welding torches"
+ ],
+ "scie-circulaire": [
+  "Category:Circular saws",
+  "Category:Power saws"
+ ],
+ "scie-sauteuse": [
+  "Category:Jigsaws",
+  "Category:Power saws"
+ ],
+ "tronconneuse": [
+  "Category:Chainsaws",
+  "Category:Saws"
+ ],
+ "perceuse": [
+  "Category:Electric drills",
+  "Category:Drills"
+ ],
+ "marteau-piqueur": [
+  "Category:Jackhammers",
+  "Category:Pneumatic hammers"
+ ],
+ "carotteuse": [
+  "Category:Core drills",
+  "Category:Drilling rigs"
+ ],
+ "rabot": [
+  "Category:Hand planes",
+  "Category:Planes (tools)"
+ ],
+ "metre-ruban": [
+  "Category:Tape measures",
+  "Category:Measuring tapes"
+ ],
+ "etabli": [
+  "Category:Workbenches",
+  "Category:Carpentry workshops"
+ ],
+ "tournevis": [
+  "Category:Screwdrivers",
+  "Category:Screwdrivers by type"
+ ],
+ "coupe-carreau": [
+  "Category:Tile cutters",
+  "Category:Tile tools"
+ ],
+ "spatule-crantee": [
+  "Category:Notched trowels",
+  "Category:Trowels"
+ ],
+ "raclette-a-joints": [
+  "Category:Grout floats",
+  "Category:Tile tools"
+ ],
+ "cle-serre-tube": [
+  "Category:Pipe wrenches",
+  "Category:Wrenches"
+ ],
+ "coupe-tube": [
+  "Category:Pipe cutters",
+  "Category:Plumbing tools"
+ ],
+ "casque-de-chantier": [
+  "Category:Hard hats",
+  "Category:Construction workers"
+ ],
+ "gilet-haute-visibilite": [
+  "Category:High-visibility clothing",
+  "Category:Safety vests"
+ ],
+ "chaussures-de-securite": [
+  "Category:Safety footwear",
+  "Category:Work boots"
+ ],
+ "gants-de-travail": [
+  "Category:Work gloves",
+  "Category:Gloves"
+ ],
+ "casque-anti-bruit": [
+  "Category:Ear defenders",
+  "Category:Hearing protection"
+ ],
+ "harnais-de-securite": [
+  "Category:Safety harnesses",
+  "Category:Fall protection"
+ ],
+ "ligne-de-vie": [
+  "Category:Fall protection",
+  "Category:Lifelines"
+ ],
+ "chaise-d-implantation": [
+  "Category:Batter boards",
+  "Category:Surveying"
+ ],
+ "piquet": [
+  "Category:Stakes",
+  "Category:Survey stakes",
+  "Category:Wooden stakes"
+ ],
+ "station-totale": [
+  "Category:Total stations",
+  "Category:Surveying instruments"
+ ],
+ "niveau-laser": [
+  "Category:Laser levels",
+  "Category:Levels (tools)"
+ ],
+ "niveau-a-eau": [
+  "Category:Water levels",
+  "Category:Levels (tools)"
+ ],
+ "mire": [
+  "Category:Leveling staffs",
+  "Category:Surveying instruments"
+ ],
+ "jalon": [
+  "Category:Ranging poles",
+  "Category:Surveying instruments"
+ ],
+ "trottoir": [
+  "Category:Sidewalks",
+  "Category:Pavements",
+  "Category:Sidewalks in Senegal"
+ ],
+ "bordure-de-trottoir": [
+  "Category:Curbs",
+  "Category:Kerbs"
+ ],
+ "caniveau": [
+  "Category:Gutters (roads)",
+  "Category:Drains",
+  "Category:Storm drains"
+ ],
+ "caniveau-a-grille": [
+  "Category:Trench drains",
+  "Category:Drain gratings",
+  "Category:Drains"
+ ],
+ "chaussee": [
+  "Category:Roadways",
+  "Category:Roads"
+ ],
+ "enrobe": [
+  "Category:Asphalt paving",
+  "Category:Asphalt",
+  "Category:Road surfaces"
+ ],
+ "pave-autobloquant": [
+  "Category:Interlocking pavers",
+  "Category:Paving stones",
+  "Category:Block paving"
+ ],
+ "pave": [
+  "Category:Cobblestones",
+  "Category:Setts",
+  "Category:Cobblestone streets"
+ ],
+ "dalle-engazonnee": [
+  "Category:Grass pavers",
+  "Category:Permeable paving"
+ ],
+ "pas-japonais": [
+  "Category:Stepping stones",
+  "Category:Garden paths"
+ ],
+ "allee": [
+  "Category:Garden paths",
+  "Category:Footpaths",
+  "Category:Alleys"
+ ],
+ "bordurette": [
+  "Category:Garden edging",
+  "Category:Curbs"
+ ],
+ "regard": [
+  "Category:Manholes",
+  "Category:Inspection chambers"
+ ],
+ "tampon-de-regard": [
+  "Category:Manhole covers",
+  "Category:Manholes"
+ ],
+ "avaloir": [
+  "Category:Storm drains",
+  "Category:Street inlets",
+  "Category:Drains"
+ ],
+ "grille-avaloir": [
+  "Category:Storm drain grates",
+  "Category:Storm drains",
+  "Category:Drain gratings"
+ ],
+ "canal-d-eaux-pluviales": [
+  "Category:Storm drains",
+  "Category:Drainage canals",
+  "Category:Canals in Senegal"
+ ],
+ "fosse": [
+  "Category:Roadside ditches",
+  "Category:Ditches"
+ ],
+ "dalot": [
+  "Category:Box culverts",
+  "Category:Culverts"
+ ],
+ "buse": [
+  "Category:Concrete pipes",
+  "Category:Culverts"
+ ],
+ "fosse-septique": [
+  "Category:Septic tanks",
+  "Category:Septic systems"
+ ],
+ "puisard": [
+  "Category:Soakaways",
+  "Category:Cesspools"
+ ],
+ "bassin-de-retention": [
+  "Category:Retention basins",
+  "Category:Detention basins"
+ ],
+ "dos-d-ane": [
+  "Category:Speed bumps",
+  "Category:Traffic calming"
+ ],
+ "passage-pieton": [
+  "Category:Pedestrian crossings",
+  "Category:Zebra crossings"
+ ],
+ "marquage-au-sol": [
+  "Category:Road markings",
+  "Category:Road surface markings"
+ ],
+ "terre-plein-central": [
+  "Category:Median strips",
+  "Category:Road medians"
+ ],
+ "accotement": [
+  "Category:Road shoulders",
+  "Category:Roadsides"
+ ],
+ "potelet": [
+  "Category:Bollards",
+  "Category:Street bollards"
+ ],
+ "lampadaire": [
+  "Category:Street lights",
+  "Category:Street lamps in Africa"
+ ],
+ "panneau-de-signalisation": [
+  "Category:Road signs",
+  "Category:Traffic signs"
+ ],
+ "abribus": [
+  "Category:Bus shelters",
+  "Category:Bus stops"
+ ],
+ "piste-cyclable": [
+  "Category:Cycle lanes",
+  "Category:Bicycle lanes"
+ ],
+ "bateau-de-trottoir": [
+  "Category:Curb cuts",
+  "Category:Dropped kerbs",
+  "Category:Wheelchair ramps"
+ ],
+ "mur-de-cloture": [
+  "Category:Walls",
+  "Category:Garden walls",
+  "Category:Fences"
+ ],
+ "muret": [
+  "Category:Low walls",
+  "Category:Garden walls"
+ ],
+ "pilier-de-portail": [
+  "Category:Gate piers",
+  "Category:Gates"
+ ],
+ "chaperon": [
+  "Category:Coping",
+  "Category:Wall coping"
+ ],
+ "tessons-de-verre": [
+  "Category:Broken glass on walls",
+  "Category:Walls with broken glass"
+ ],
+ "fil-barbele": [
+  "Category:Barbed wire",
+  "Category:Barbed wire fences"
+ ],
+ "concertina": [
+  "Category:Razor wire",
+  "Category:Concertina wire"
+ ],
+ "cloture-grillagee": [
+  "Category:Chain-link fences",
+  "Category:Wire fences"
+ ],
+ "cloture-en-bois": [
+  "Category:Wooden fences",
+  "Category:Fences"
+ ],
+ "haie": [
+  "Category:Hedges",
+  "Category:Garden hedges"
+ ],
+ "mur-de-soutenement": [
+  "Category:Retaining walls",
+  "Category:Walls"
+ ],
+ "barbacane": [
+  "Category:Weep holes",
+  "Category:Retaining walls"
+ ],
+ "gabion": [
+  "Category:Gabions",
+  "Category:Gabion walls"
+ ],
+ "enrochement": [
+  "Category:Riprap",
+  "Category:Rock armour",
+  "Category:Embankments"
+ ],
+ "talus": [
+  "Category:Embankments",
+  "Category:Slopes"
+ ],
+ "pergola": [
+  "Category:Pergolas",
+  "Category:Garden structures"
+ ],
+ "grille-d-arbre": [
+  "Category:Tree grates",
+  "Category:Tree guards"
+ ],
+ "pelouse": [
+  "Category:Lawns",
+  "Category:Grass"
+ ],
+ "aire-de-jeux": [
+  "Category:Playgrounds",
+  "Category:Playground equipment"
+ ],
+ "guerite": [
+  "Category:Guardhouses",
+  "Category:Sentry boxes"
+ ],
+ "piscine": [
+  "Category:Swimming pools",
+  "Category:Private swimming pools"
+ ],
+ "piscine-a-debordement": [
+  "Category:Infinity pools",
+  "Category:Swimming pools"
+ ],
+ "margelle": [
+  "Category:Pool coping",
+  "Category:Swimming pools"
+ ],
+ "plage-de-piscine": [
+  "Category:Pool decks",
+  "Category:Swimming pools"
+ ],
+ "skimmer": [
+  "Category:Pool skimmers",
+  "Category:Swimming pools"
+ ],
+ "echelle-de-piscine": [
+  "Category:Pool ladders",
+  "Category:Swimming pools"
+ ],
+ "pediluve": [
+  "Category:Footbaths",
+  "Category:Swimming pools"
+ ],
+ "mosquee-soudano-sahelienne": [
+  "Category:Sudano-Sahelian architecture",
+  "Category:Mosques in Mali",
+  "Category:Great Mosque of Djenné"
+ ],
+ "voute-nubienne": [
+  "Category:Nubian vaults",
+  "Category:Nubian vault",
+  "Category:Vaults in Burkina Faso"
+ ],
+ "laterite": [
+  "Category:Laterite",
+  "Category:Laterite soils",
+  "Category:Laterite in Africa"
+ ],
+ "piste-lateritique": [
+  "Category:Laterite roads",
+  "Category:Dirt roads in Africa",
+  "Category:Dirt roads"
+ ],
+ "pierre-de-laterite": [
+  "Category:Laterite blocks",
+  "Category:Laterite buildings",
+  "Category:Laterite"
+ ],
+ "crinting": [
+  "Category:Crinting",
+  "Category:Fences in Senegal",
+  "Category:Traditional architecture in Senegal"
+ ],
+ "paillote": [
+  "Category:Thatched huts in Senegal",
+  "Category:Thatched roofs",
+  "Category:Straw huts"
+ ],
+ "grenier-a-mil": [
+  "Category:Granaries in Senegal",
+  "Category:Granaries in Africa",
+  "Category:Granaries"
+ ],
+ "grenier-sur-pilotis": [
+  "Category:Granaries in Fadiouth",
+  "Category:Granaries on stilts",
+  "Category:Granaries"
+ ],
+ "ronier": [
+  "Category:Borassus aethiopum",
+  "Category:Borassus",
+  "Category:Palm trees in Senegal"
+ ],
+ "typha": [
+  "Category:Typha",
+  "Category:Typha domingensis",
+  "Category:Typha in Africa"
+ ],
+ "tata-somba": [
+  "Category:Tata Somba",
+  "Category:Somba architecture",
+  "Category:Traditional architecture in Benin"
+ ],
+ "case-kassena": [
+  "Category:Tiébélé",
+  "Category:Kassena architecture",
+  "Category:Traditional architecture in Burkina Faso"
+ ],
+ "ginna": [
+  "Category:Ginna",
+  "Category:Dogon architecture",
+  "Category:Dogon Country"
+ ],
+ "porte-dogon": [
+  "Category:Dogon doors",
+  "Category:Dogon art",
+  "Category:Doors in Mali"
+ ],
+ "case-a-etage": [
+  "Category:Case à étages of Mlomp",
+  "Category:Diola architecture",
+  "Category:Traditional architecture in Senegal"
+ ],
+ "facade-toucouleur": [
+  "Category:Djenné",
+  "Category:Houses in Djenné",
+  "Category:Mud brick architecture in Mali"
+ ],
+ "concession": [
+  "Category:Compounds in Senegal",
+  "Category:Compounds in Africa",
+  "Category:Villages in Senegal"
+ ],
+ "bas-relief-d-abomey": [
+  "Category:Royal Palaces of Abomey",
+  "Category:Bas-reliefs in Benin",
+  "Category:Bas-reliefs"
+ ],
+ "maison-de-signare": [
+  "Category:Signare houses",
+  "Category:Colonial architecture in Senegal",
+  "Category:Gorée"
+ ],
+ "maison-coloniale": [
+  "Category:Colonial architecture in Senegal",
+  "Category:Saint-Louis, Senegal",
+  "Category:Colonial architecture in Africa"
+ ],
+ "minaret": [
+  "Category:Minarets",
+  "Category:Minarets in Africa",
+  "Category:Minarets in Mali"
+ ],
+ "crepissage": [
+  "Category:Plastering",
+  "Category:Crépissage of the Great Mosque of Djenné",
+  "Category:Mud brick architecture in Mali"
+ ]
+}

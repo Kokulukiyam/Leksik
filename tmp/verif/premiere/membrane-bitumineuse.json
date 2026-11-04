@@ -1,0 +1,58 @@
+{
+  "termId": "membrane-bitumineuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Avion El Al en vol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport (ECB)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toiture-terrasse couverte de lés de membrane bitumineuse grise à paillettes minérales, joints soudés noirs, bouteille de gaz de chalumeau, relevés noirs sur les bords.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.36,
+        "largeur": 1.0,
+        "hauteur": 0.64
+      },
+      "lieu": "Égaléo, Grèce",
+      "note": "Lés et joints soudés clairement visibles, typique ; rectangle sur la surface de membrane pour éviter la confusion avec relevés/acrotères."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tour de la BCE au lever du soleil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Francfort",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tour de la BCE.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Francfort",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tour de la BCE depuis le Main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Francfort",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Boeing 777 Emirates en vol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dubaï",
+      "note": "Sans rapport."
+    }
+  ]
+}

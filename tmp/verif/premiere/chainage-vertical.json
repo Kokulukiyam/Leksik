@@ -1,0 +1,53 @@
+{
+  "termId": "chainage-vertical",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Lanterne métallique fixée à un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruines d'un sanctuaire antique dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ruines d'un sanctuaire antique dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur en ruine antique avec statue de Zeus dans une niche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Statue de Zeus dans une niche d'un mur en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ruines d'un sanctuaire antique dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

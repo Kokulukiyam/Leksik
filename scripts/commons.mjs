@@ -1,7 +1,9 @@
 // Cherche des images candidates sur Wikimedia Commons pour chaque terme et les télécharge
 // dans tmp/commons/<termId>/ avec leurs métadonnées (meta.json).
 //
-// Usage : NODE_USE_ENV_PROXY=1 node scripts/commons.mjs [termId ...] [--max=6] [--refaire] [--suite]
+// Usage : NODE_USE_ENV_PROXY=1 node scripts/commons.mjs [termId ...] [--max=6] [--refaire] [--suite [--categories]]
+//   --suite               seconde recherche avec « requetes2 »
+//   --suite --categories  seconde recherche par catégories Commons pour des termes déjà téléchargés
 // (NODE_USE_ENV_PROXY n'est utile que derrière un proxy HTTP.)
 import { promises as fs } from "node:fs";
 import path from "node:path";
@@ -21,7 +23,11 @@ const pause = (ms) => new Promise((r) => setTimeout(r, ms));
 // L'API Commons limite fortement les clients sans compte (environ 10 requêtes/min, davantage de
 // restrictions sur une adresse IP partagée) : les appels à l'API sont espacés et le script attend
 // patiemment le délai « Retry-After » indiqué. Les vignettes (upload.wikimedia.org) sont moins limitées.
-const INTERVALLES = { "commons.wikimedia.org": Number(process.env.INTERVALLE ?? 10000), autre: 1500 };
+const INTERVALLES = {
+  "commons.wikimedia.org": Number(process.env.INTERVALLE ?? 7000),
+  "www.wikidata.org": 1500,
+  autre: 1500,
+};
 const derniers = {};
 
 async function requete(url, type = "json") {
@@ -62,6 +68,8 @@ async function api(params) {
 const sansHtml = (s = "") =>
   s.replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#039;/g, "'").replace(/\s+/g, " ").trim();
 
+// Scans de livres de l'Internet Archive (« Titre (1911) (14781119804).jpg ») : jamais des photos utilisables.
+const SCAN_DE_LIVRE = /\(\d{4}\) \(\d{10,}\)/;
 const EXCLUS = /\b(ai[- ]generated|drawing|diagram|plan|engraving|illustration|lithograph|painting|map|scheme|sketch|render(ing)?|3d model|clipart)\b/i;
 
 // Une seule requête par recherche (generator=search) pour rester sous les limites de débit de l'API.
@@ -72,12 +80,53 @@ async function rechercher(q) {
     gsrsearch: `${q} filetype:bitmap`,
     gsrnamespace: "6",
     gsrlimit: "30",
-    prop: "imageinfo",
-    iiprop: "url|size|mime|extmetadata",
-    iiurlwidth: String(LARGEUR),
-    iiextmetadatalanguage: "fr",
+    ...IIPROPS,
   });
   return (r.query?.pages ?? []).sort((a, b) => a.index - b.index);
+}
+
+const IIPROPS = { prop: "imageinfo", iiprop: "url|size|mime|extmetadata", iiurlwidth: String(LARGEUR), iiextmetadatalanguage: "fr" };
+
+// Fichiers d'une catégorie Commons (bien plus précis que la recherche plein texte).
+async function fichiersDeCategorie(cat) {
+  const r = await api({ action: "query", generator: "categorymembers", gcmtitle: cat, gcmtype: "file", gcmlimit: "40", ...IIPROPS });
+  return r.query?.pages ?? [];
+}
+
+// Catégories Commons pour un terme : celles proposées et vérifiées (champ categoriesCommons, voir
+// scripts/verifier_categories.mjs), sinon celle de l'élément Wikidata dont le libellé français est exactement
+// le terme (propriété P373), sinon les catégories trouvées par la recherche (hors catégories de photographes).
+const CAT_PARASITE = /photograph|taken by|uploaded by|images by|files by|created by|media by|quality images|featured|\d{4}/i;
+async function categoriesPour(terme) {
+  if (terme.categoriesCommons?.length) return terme.categoriesCommons.slice(0, 3);
+  const cats = [];
+  try {
+    const libelle = terme.terme.replace(/^(l['’]\s*|le |la |les )/i, "").toLowerCase();
+    const u = new URL("https://www.wikidata.org/w/api.php");
+    for (const [k, v] of Object.entries({ action: "wbsearchentities", search: libelle, language: "fr", uselang: "fr", type: "item", limit: "5", format: "json" }))
+      u.searchParams.set(k, v);
+    const ids = ((await requete(u)).search ?? []).filter((e) => (e.label ?? "").toLowerCase() === libelle).map((e) => e.id);
+    if (ids.length) {
+      const g = new URL("https://www.wikidata.org/w/api.php");
+      for (const [k, v] of Object.entries({ action: "wbgetentities", ids: ids.join("|"), props: "claims", format: "json" })) g.searchParams.set(k, v);
+      const ent = (await requete(g)).entities ?? {};
+      for (const id of ids) {
+        const c = ent[id]?.claims?.P373?.[0]?.mainsnak?.datavalue?.value;
+        if (c) {
+          cats.push(`Category:${c}`);
+          break;
+        }
+      }
+    }
+  } catch (e) {
+    console.error(`  wikidata indisponible (${e.message})`);
+  }
+  if (!cats.length) {
+    const q = terme.requetes.find((x) => !x.startsWith("incategory:")) ?? terme.requetes[0];
+    const r = await api({ action: "query", list: "search", srsearch: q, srnamespace: "14", srlimit: "5" });
+    for (const p of r.query?.search ?? []) if (!CAT_PARASITE.test(p.title) && !cats.includes(p.title)) cats.push(p.title);
+  }
+  return cats.slice(0, 2);
 }
 
 function candidat(page) {
@@ -88,7 +137,7 @@ function candidat(page) {
   const description = sansHtml(m.ImageDescription?.value);
   const licence = sansHtml(m.LicenseShortName?.value);
   const texte = `${page.title} ${categories.join(" ")}`;
-  if (EXCLUS.test(texte) || /ai-generated|generated by ai/i.test(`${texte} ${description}`)) return null;
+  if (EXCLUS.test(texte) || SCAN_DE_LIVRE.test(page.title) || /ai-generated|generated by ai/i.test(`${texte} ${description}`)) return null;
   if (!licence) return null;
   return {
     titre: page.title,
@@ -103,6 +152,25 @@ function candidat(page) {
   };
 }
 
+function melanger(t) {
+  const a = [...t];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// Au plus 2 fichiers d'une même série (titres qui commencent pareil), pour varier les candidates.
+function limiterSeries(liste) {
+  const vus = new Map();
+  return liste.filter((c) => {
+    const cle = c.titre.replace(/^File:/, "").slice(0, 24).toLowerCase();
+    vus.set(cle, (vus.get(cle) ?? 0) + 1);
+    return vus.get(cle) <= 2;
+  });
+}
+
 async function main() {
   const termes = JSON.parse(await fs.readFile(path.join(ROOT, "scripts", "termes-candidats.json"), "utf8"));
   // Les termes les plus courants sur un chantier d'abord (priorité 1, puis 2, puis 3).
@@ -115,16 +183,24 @@ async function main() {
     // --suite : seconde recherche avec « requetes2 », candidates ajoutées après celles déjà téléchargées.
     const suite = args.includes("--suite");
     const existant = await fs.readFile(path.join(dossier, "meta.json"), "utf8").then(JSON.parse, () => null);
-    if (suite ? !terme.requetes2 || existant?.suite : existant && !args.includes("--refaire")) continue;
+    const suiteCat = suite && args.includes("--categories");
+    if (suiteCat ? !existant || existant.suiteCategories : suite ? !terme.requetes2 || existant?.suite : existant && !args.includes("--refaire")) continue;
     const deja = suite ? (existant?.candidats ?? []) : [];
     await fs.mkdir(dossier, { recursive: true });
     // Requêtes dans l'ordre, jusqu'à avoir assez de candidates (pour économiser les appels à l'API),
     // puis sélection alternée entre les requêtes pour varier les sources.
     const listes = [];
-    for (const q of suite ? terme.requetes2 : terme.requetes) {
-      const pages = await rechercher(q);
-      listes.push(pages.map(candidat).filter((c) => c && !deja.some((d) => d.titre === c.titre)));
+    const nouveau = (c) => c && !deja.some((d) => d.titre === c.titre);
+    // Catégories Commons d'abord (sauf seconde recherche par requetes2), puis recherche plein texte si besoin.
+    if (!suite || args.includes("--categories")) {
+      for (const cat of await categoriesPour(terme)) {
+        listes.push(limiterSeries(melanger((await fichiersDeCategorie(cat)).map(candidat).filter(nouveau))));
+      }
+    }
+    for (const q of suite && !args.includes("--categories") ? terme.requetes2 : terme.requetes) {
       if (new Set(listes.flat().map((c) => c.titre)).size >= MAX * 2) break;
+      const pages = await rechercher(q);
+      listes.push(limiterSeries(pages.map(candidat).filter(nouveau)));
     }
     const vus = new Set(deja.map((d) => d.titre));
     const retenus = [];
@@ -150,7 +226,7 @@ async function main() {
         console.warn(`  ${terme.id}: téléchargement impossible (${c.titre}) : ${e.message}`);
       }
     }
-    await fs.writeFile(path.join(dossier, "meta.json"), JSON.stringify({ terme, candidats: meta, ...(suite || existant?.suite ? { suite: true } : {}) }, null, 2));
+    await fs.writeFile(path.join(dossier, "meta.json"), JSON.stringify({ terme, candidats: meta, ...(suite || existant?.suite ? { suite: true } : {}), ...(suiteCat || existant?.suiteCategories ? { suiteCategories: true } : {}) }, null, 2));
     console.log(`${terme.id}: ${meta.length - deja.length} candidates${suite ? " (seconde recherche)" : ""}`);
   }
 }

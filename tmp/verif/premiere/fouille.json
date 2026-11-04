@@ -1,0 +1,53 @@
+{
+  "termId": "fouille",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Excavation bordée de palplanches rouillées, traversée de gros tubes d'étaiement, fond de fouille peu visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Les étais et le blindage dominent ; le fond de fouille est à peine visible, lecture ambiguë."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photographie noir et blanc d'une vaste fouille en travaux, parois de terre et de maçonnerie, rideau de palplanches, pelle mécanique et ouvriers au fond.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Grande excavation clairement lisible, creusée pour des fondations ou un sous-sol ; ancienne mais réelle et nette."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vaste chantier avec rideau de palplanches, machines de forage et pieux, immeubles au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Chantier général ; pas de fouille nettement identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chantier archéologique égyptien en noir et blanc, blocs de pierre et ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fouille archéologique, pas une fouille de construction."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Reproduction ancienne d'un barrage ou d'une écluse en chantier au bord d'une rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reproduction imprimée, fouille non lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plaque de verre d'une photo de fouilles archéologiques vue de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fouille archéologique, image de reproduction peu lisible."
+    }
+  ]
+}

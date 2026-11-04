@@ -1,0 +1,53 @@
+{
+  "termId": "dalle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dessin d'un pont à arc segmentaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vieille photo d'un pont sur une gorge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pont ancien, dalle non montrée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vieille photo d'une dalle expérimentale chargée de pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Essai de charge ancien, peu clair."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vieille photo d'un chantier de dalle avec armatures et coffrage en ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien, peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche de plans techniques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plan."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Treillis d'armatures d'une dalle avant bétonnage, avec un opérateur et une légende.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures seules, légende de texte donnant la réponse."
+    }
+  ]
+}

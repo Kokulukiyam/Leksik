@@ -1,0 +1,53 @@
+{
+  "termId": "poutre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cage d'armatures d'une longue poutre précontrainte avec gaines de câbles, sur échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures avant bétonnage, lecture peu claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan sur une poutre de béton d'essai posée sur un banc de flexion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éprouvette de laboratoire, cadrage trop serré."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Longue poutre de béton précontrainte décoffrée, câbles sortant à l'extrémité, sur chantier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poutre béton horizontale clairement dominante."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan sur une poutre de béton d'essai en banc de flexion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éprouvette de laboratoire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Sous-face de poutres de béton en console de toiture, couvertes de lichen (Keroman, Lorient).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments ambigus (nervures, bunker), peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sous-face de dalle précontrainte avec tuyaux rouges et poteaux blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet principal est la dalle, pas une poutre."
+    }
+  ]
+}

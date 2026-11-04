@@ -1,0 +1,53 @@
+{
+  "termId": "profile-en-i",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan de profilés posés à plat, rouillés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail illisible, section non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux profilés à ailes parallèles rouillés posés au sol, étiquetés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Section vue mais ambiguë entre I et H, étiquettes illisibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan de profilés rouillés posés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Section non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvriers assis sur une poutre en acier sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes, section non lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Profilés vus de côté, bandes rouillées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Section non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Profilés vus de côté, bandes rouillées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Section non visible."
+    }
+  ]
+}

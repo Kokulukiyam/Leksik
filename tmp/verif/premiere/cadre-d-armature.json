@@ -1,0 +1,29 @@
+{
+  "termId": "cadre-d-armature",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Militaire plie une barre d'acier sur un établi, tas de cadres rectangulaires et d'étriers au sol sur du gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kandahar, Afghanistan",
+      "note": "Homme dominant ; cadres en vrac difficiles à distinguer des étriers."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Militaire assemble une armature de poutre sur un établi, barres longitudinales et cadres peu visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fidji",
+      "note": "Armature trop petite et peu lisible, personne au premier plan."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Militaire plie une barre HA verte sur une machine à cintrer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Îles Marshall",
+      "note": "Montre le cintrage, pas un cadre fini."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "betonnage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Trois militaires étalent et talochent du béton frais sur une grande dalle au sol avec râteaux et règle.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Al Kut, Irak",
+      "note": "Coulage et mise en oeuvre du béton sur une dalle, action clairement visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Immeuble en construction en briques creuses, camion pompe à bras déployé et pompe à béton au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "On voit la pompe, pas le béton coulé ; la pompe à béton serait la réponse la plus évidente."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tranchée de fondation en terre rouge avec armatures dressées et béton au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évoque semelle filante ou fondation plutôt que le bétonnage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Même tranchée avec armatures et rangée de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évoque semelle filante ou fondation."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Camion toupie et bras de pompe de l'autre côté d'une pelouse, dalle de maison au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coulage trop lointain et masqué par la végétation ; panneau de chantier visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvrier versant du béton dans une tranchée avec armatures, à la pelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt semelle filante ou fondation ; ambigu pour le bétonnage."
+    }
+  ]
+}

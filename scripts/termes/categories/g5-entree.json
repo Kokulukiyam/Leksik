@@ -1,0 +1,1991 @@
+[
+ {
+  "id": "banco",
+  "terme": "le banco",
+  "definition": "Terre crue argileuse, souvent mêlée de paille, moulée en briques, modelée en murs ou appliquée en enduit dans la construction traditionnelle ouest-africaine.",
+  "requetes": [
+   "banco Mali",
+   "mud brick Mali building",
+   "adobe Burkina Faso house"
+  ]
+ },
+ {
+  "id": "toron",
+  "terme": "le toron",
+  "definition": "Pièce de bois, souvent de rônier, fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage annuel.",
+  "requetes": [
+   "Great Mosque of Djenné",
+   "toron mosque Mali",
+   "Djinguereber mosque"
+  ]
+ },
+ {
+  "id": "toguna",
+  "terme": "le toguna",
+  "definition": "Abri de palabres du pays dogon, au toit très épais de couches de tiges de mil posé sur des piliers bas, souvent sculptés, qui empêchent de se tenir debout.",
+  "requetes": [
+   "toguna",
+   "togu na Dogon"
+  ]
+ },
+ {
+  "id": "grenier-dogon",
+  "terme": "le grenier dogon",
+  "definition": "Petit bâtiment en banco de plan carré ou rond, coiffé d'un chapeau conique de paille, qui sert à stocker le mil dans les villages des falaises de Bandiagara.",
+  "requetes": [
+   "Dogon granary",
+   "grenier dogon",
+   "Dogon granaries"
+  ]
+ },
+ {
+  "id": "case-a-impluvium",
+  "terme": "la case à impluvium",
+  "definition": "Grande habitation diola circulaire de Casamance, en banco, dont le toit en entonnoir recueille l'eau de pluie dans un bassin au centre de la cour intérieure.",
+  "requetes": [
+   "case à impluvium",
+   "impluvium Casamance",
+   "Enampore"
+  ]
+ },
+ {
+  "id": "case",
+  "terme": "la case ronde",
+  "definition": "Habitation traditionnelle de plan circulaire, aux murs en terre et au toit conique de paille.",
+  "requetes": [
+   "case Sénégal village",
+   "hut Senegal village thatched",
+   "round hut thatched roof Africa"
+  ]
+ },
+ {
+  "id": "palissade-de-chantier",
+  "terme": "la palissade de chantier",
+  "definition": "Clôture pleine provisoire, en tôle ou en panneaux, qui entoure un chantier et le sépare de la voie publique.",
+  "requetes": [
+   "construction site hoarding",
+   "palissade de chantier",
+   "construction fence corrugated sheet"
+  ]
+ },
+ {
+  "id": "panneau-de-chantier",
+  "terme": "le panneau de chantier",
+  "definition": "Grand panneau d'affichage dressé à l'entrée d'un chantier, qui présente le projet, le permis de construire et les intervenants.",
+  "requetes": [
+   "construction site sign board",
+   "panneau de chantier permis de construire",
+   "construction project signboard"
+  ]
+ },
+ {
+  "id": "bungalow-de-chantier",
+  "terme": "le bungalow de chantier",
+  "definition": "Module préfabriqué de type conteneur, installé sur un chantier comme bureau, vestiaire ou réfectoire.",
+  "requetes": [
+   "construction site office container",
+   "bungalow de chantier",
+   "site cabin portable office"
+  ]
+ },
+ {
+  "id": "benne-a-gravats",
+  "terme": "la benne à gravats",
+  "definition": "Grand caisson métallique ouvert, déposé par camion, dans lequel on jette les déchets et gravats du chantier.",
+  "requetes": [
+   "skip container construction waste",
+   "benne à gravats",
+   "construction debris skip"
+  ]
+ },
+ {
+  "id": "goulotte-a-gravats",
+  "terme": "la goulotte à gravats",
+  "definition": "Conduit formé de tronçons emboîtés suspendus le long d'une façade, qui fait descendre les gravats des étages vers une benne.",
+  "requetes": [
+   "debris chute construction",
+   "goulotte à gravats",
+   "rubbish chute scaffolding"
+  ]
+ },
+ {
+  "id": "cone-de-signalisation",
+  "terme": "le cône de signalisation",
+  "definition": "Cône en plastique orange à bandes blanches réfléchissantes, posé au sol pour baliser une zone de travaux.",
+  "requetes": [
+   "traffic cones road works",
+   "cône de signalisation",
+   "incategory:\"Traffic cones\""
+  ]
+ },
+ {
+  "id": "ruban-de-signalisation",
+  "terme": "le ruban de signalisation",
+  "definition": "Ruban plastique à bandes rouges et blanches, tendu entre des piquets pour délimiter une zone interdite ou dangereuse.",
+  "requetes": [
+   "barrier tape red white construction",
+   "rubalise chantier",
+   "warning tape cordon"
+  ]
+ },
+ {
+  "id": "echafaudage",
+  "terme": "l'échafaudage",
+  "definition": "Structure provisoire de montants, traverses et planchers dressée contre un ouvrage pour permettre de travailler en hauteur.",
+  "requetes": [
+   "scaffolding building facade",
+   "échafaudage façade",
+   "incategory:\"Scaffolding\""
+  ]
+ },
+ {
+  "id": "echafaudage-tubulaire",
+  "terme": "l'échafaudage tubulaire",
+  "definition": "Échafaudage fait de tubes d'acier assemblés par des colliers, adaptable à toutes les formes d'ouvrage.",
+  "requetes": [
+   "tube and clamp scaffolding",
+   "échafaudage tubulaire colliers",
+   "tube and coupler scaffold"
+  ]
+ },
+ {
+  "id": "echafaudage-en-bois",
+  "terme": "l'échafaudage en bois",
+  "definition": "Échafaudage fait de perches et de planches de bois liées ou clouées, encore très courant sur les chantiers ouest-africains.",
+  "requetes": [
+   "wooden scaffolding Africa",
+   "timber pole scaffolding",
+   "échafaudage en bois chantier"
+  ]
+ },
+ {
+  "id": "echafaudage-en-bambou",
+  "terme": "l'échafaudage en bambou",
+  "definition": "Échafaudage fait de tiges de bambou ligaturées entre elles.",
+  "requetes": [
+   "bamboo scaffolding",
+   "incategory:\"Bamboo scaffolding\"",
+   "échafaudage en bambou"
+  ]
+ },
+ {
+  "id": "echafaudage-roulant",
+  "terme": "l'échafaudage roulant",
+  "definition": "Tour d'échafaudage légère, montée sur roulettes à frein, qu'on déplace le long du travail.",
+  "requetes": [
+   "mobile scaffold tower",
+   "échafaudage roulant",
+   "rolling scaffold tower wheels"
+  ]
+ },
+ {
+  "id": "plancher-d-echafaudage",
+  "terme": "le plancher d'échafaudage",
+  "definition": "Plateau métallique ou planches sur lesquels on marche et on travaille à chaque niveau d'un échafaudage.",
+  "requetes": [
+   "scaffold deck boards",
+   "plancher d'échafaudage",
+   "scaffold platform planks"
+  ]
+ },
+ {
+  "id": "filet-de-protection",
+  "terme": "le filet de protection",
+  "definition": "Filet ou toile ajourée tendu sur un échafaudage ou sous un plancher pour retenir les chutes de personnes et d'objets.",
+  "requetes": [
+   "scaffold safety netting facade",
+   "filet de protection échafaudage",
+   "construction debris netting"
+  ]
+ },
+ {
+  "id": "echelle",
+  "terme": "l'échelle",
+  "definition": "Appareil portatif formé de deux montants reliés par des barreaux, appuyé contre un ouvrage pour monter.",
+  "requetes": [
+   "ladder construction site",
+   "échelle chantier",
+   "incategory:\"Ladders\""
+  ]
+ },
+ {
+  "id": "nacelle-elevatrice",
+  "terme": "la nacelle élévatrice",
+  "definition": "Engin muni d'un panier ou d'une plateforme élevé par un bras ou des ciseaux pour travailler en hauteur.",
+  "requetes": [
+   "aerial work platform",
+   "nacelle élévatrice",
+   "boom lift cherry picker"
+  ]
+ },
+ {
+  "id": "etai",
+  "terme": "l'étai",
+  "definition": "Pièce verticale provisoire, en bois ou en métal, qui soutient un coffrage, une dalle ou un ouvrage le temps qu'il tienne seul.",
+  "requetes": [
+   "shoring props slab formwork",
+   "étais dalle",
+   "incategory:\"Shoring\""
+  ]
+ },
+ {
+  "id": "etai-metallique",
+  "terme": "l'étai métallique",
+  "definition": "Étai télescopique en tube d'acier, réglable en hauteur par une broche et un écrou, avec une platine à chaque bout.",
+  "requetes": [
+   "steel prop adjustable",
+   "étai métallique tirant poussant",
+   "acrow prop"
+  ]
+ },
+ {
+  "id": "etai-en-bois",
+  "terme": "l'étai en bois",
+  "definition": "Perche ou bastaing de bois calé sous un coffrage pour le soutenir, très employé sur les chantiers au Sénégal.",
+  "requetes": [
+   "timber shoring poles slab",
+   "wooden props formwork",
+   "étai en bois coffrage"
+  ]
+ },
+ {
+  "id": "tour-d-etaiement",
+  "terme": "la tour d'étaiement",
+  "definition": "Tour carrée formée de cadres métalliques empilés, qui porte de fortes charges de coffrage en hauteur.",
+  "requetes": [
+   "shoring tower",
+   "tour d'étaiement",
+   "falsework tower formwork"
+  ]
+ },
+ {
+  "id": "coffrage",
+  "terme": "le coffrage",
+  "definition": "Moule provisoire, en bois ou en métal, dans lequel on coule le béton pour lui donner sa forme.",
+  "requetes": [
+   "concrete formwork construction",
+   "coffrage béton",
+   "incategory:\"Formwork\""
+  ]
+ },
+ {
+  "id": "coffrage-bois",
+  "terme": "le coffrage bois",
+  "definition": "Coffrage fait de planches ou de contreplaqué, cloué et renforcé de chevrons.",
+  "requetes": [
+   "timber formwork",
+   "coffrage bois planches",
+   "wooden formwork concrete column"
+  ]
+ },
+ {
+  "id": "coffrage-metallique",
+  "terme": "le coffrage métallique",
+  "definition": "Coffrage fait de panneaux d'acier réutilisables, assemblés par clavettes ou serrages.",
+  "requetes": [
+   "steel formwork panels",
+   "coffrage métallique",
+   "metal formwork"
+  ]
+ },
+ {
+  "id": "banche",
+  "terme": "la banche",
+  "definition": "Grand panneau de coffrage métallique vertical, stabilisé par des béquilles, qui sert à couler les voiles de béton.",
+  "requetes": [
+   "wall formwork panels crane",
+   "banche coffrage voile",
+   "large panel wall formwork"
+  ]
+ },
+ {
+  "id": "coffrage-de-poteau",
+  "terme": "le coffrage de poteau",
+  "definition": "Caisson vertical, souvent carré, monté autour des armatures d'un poteau avant d'y couler le béton.",
+  "requetes": [
+   "column formwork",
+   "coffrage poteau",
+   "column formwork timber"
+  ]
+ },
+ {
+  "id": "coffrage-de-dalle",
+  "terme": "le coffrage de dalle",
+  "definition": "Plateau horizontal de panneaux porté par des étais, sur lequel on pose les armatures et coule une dalle.",
+  "requetes": [
+   "slab formwork props",
+   "coffrage de dalle",
+   "deck formwork shoring"
+  ]
+ },
+ {
+  "id": "table-coffrante",
+  "terme": "la table coffrante",
+  "definition": "Grand plateau de coffrage préassemblé sur son étaiement, déplacé d'un bloc à la grue d'une travée à l'autre.",
+  "requetes": [
+   "table formwork",
+   "table coffrante",
+   "flying table formwork"
+  ]
+ },
+ {
+  "id": "tige-de-coffrage",
+  "terme": "la tige de coffrage",
+  "definition": "Tige filetée traversant un coffrage de mur, serrée par des écrous à ailettes pour tenir ses deux faces.",
+  "requetes": [
+   "formwork tie rod wing nut",
+   "tige de coffrage écrou",
+   "form tie"
+  ]
+ },
+ {
+  "id": "betonniere",
+  "terme": "la bétonnière",
+  "definition": "Machine à cuve rotative inclinable, électrique ou thermique, qui malaxe le béton ou le mortier sur le chantier.",
+  "requetes": [
+   "concrete mixer drum site",
+   "bétonnière",
+   "incategory:\"Concrete mixers\""
+  ]
+ },
+ {
+  "id": "pelle-hydraulique",
+  "terme": "la pelle hydraulique",
+  "definition": "Engin de terrassement sur chenilles ou pneus, à tourelle pivotante et bras articulé terminé par un godet.",
+  "requetes": [
+   "hydraulic excavator",
+   "pelle hydraulique chantier",
+   "incategory:\"Excavators\""
+  ]
+ },
+ {
+  "id": "mini-pelle",
+  "terme": "la mini-pelle",
+  "definition": "Petite pelle hydraulique sur chenilles, avec une lame à l'avant, pour les terrassements en espace réduit.",
+  "requetes": [
+   "mini excavator",
+   "mini-pelle",
+   "compact excavator"
+  ]
+ },
+ {
+  "id": "tractopelle",
+  "terme": "la tractopelle",
+  "definition": "Engin sur pneus portant un godet de chargement à l'avant et un bras de pelle à l'arrière.",
+  "requetes": [
+   "backhoe loader",
+   "tractopelle",
+   "incategory:\"Backhoe loaders\""
+  ]
+ },
+ {
+  "id": "bulldozer",
+  "terme": "le bulldozer",
+  "definition": "Engin sur chenilles muni à l'avant d'une large lame qui pousse et étale la terre.",
+  "requetes": [
+   "bulldozer",
+   "bouteur",
+   "incategory:\"Bulldozers\""
+  ]
+ },
+ {
+  "id": "niveleuse",
+  "terme": "la niveleuse",
+  "definition": "Engin long à six roues, avec une lame placée sous le châssis, qui règle la surface des plateformes et des routes.",
+  "requetes": [
+   "motor grader",
+   "niveleuse",
+   "road grader"
+  ]
+ },
+ {
+  "id": "rouleau-compresseur",
+  "terme": "le rouleau compresseur",
+  "definition": "Engin dont une ou plusieurs roues sont de lourds cylindres d'acier, qui compacte le sol ou l'enrobé.",
+  "requetes": [
+   "road roller",
+   "rouleau compresseur",
+   "incategory:\"Road rollers\""
+  ]
+ },
+ {
+  "id": "plaque-vibrante",
+  "terme": "la plaque vibrante",
+  "definition": "Machine à main posée sur une semelle d'acier vibrante, qu'on pousse pour compacter un remblai ou des pavés.",
+  "requetes": [
+   "plate compactor",
+   "plaque vibrante",
+   "vibratory plate compactor"
+  ]
+ },
+ {
+  "id": "pilonneuse",
+  "terme": "la pilonneuse",
+  "definition": "Machine à main haute et étroite qui frappe le sol par sauts répétés pour compacter le fond des tranchées.",
+  "requetes": [
+   "jumping jack rammer",
+   "pilonneuse",
+   "tamping rammer"
+  ]
+ },
+ {
+  "id": "camion-benne",
+  "terme": "le camion-benne",
+  "definition": "Camion dont la caisse basculante déverse sable, gravier ou déblais.",
+  "requetes": [
+   "dump truck",
+   "camion-benne",
+   "tipper truck"
+  ]
+ },
+ {
+  "id": "tombereau",
+  "terme": "le tombereau",
+  "definition": "Gros engin de terrassement à benne basculante, souvent articulé, qui transporte les déblais sur les grands chantiers.",
+  "requetes": [
+   "articulated dump truck",
+   "tombereau articulé",
+   "articulated hauler"
+  ]
+ },
+ {
+  "id": "dumper",
+  "terme": "le dumper",
+  "definition": "Petit engin à benne basculante placée à l'avant, devant le conducteur, pour déplacer matériaux et terre sur le chantier.",
+  "requetes": [
+   "site dumper",
+   "dumper chantier",
+   "front tipping dumper"
+  ]
+ },
+ {
+  "id": "camion-toupie",
+  "terme": "le camion-toupie",
+  "definition": "Camion portant une grande cuve rotative inclinée qui livre le béton prêt à l'emploi en le malaxant.",
+  "requetes": [
+   "concrete mixer truck",
+   "camion toupie béton",
+   "incategory:\"Concrete mixer trucks\""
+  ]
+ },
+ {
+  "id": "pompe-a-beton",
+  "terme": "la pompe à béton",
+  "definition": "Engin, le plus souvent un camion à long bras articulé déplié au-dessus du chantier, qui refoule le béton dans un tuyau jusqu'au point de coulage.",
+  "requetes": [
+   "concrete pump truck boom",
+   "pompe à béton",
+   "concrete boom pump"
+  ]
+ },
+ {
+  "id": "chariot-telescopique",
+  "terme": "le chariot télescopique",
+  "definition": "Engin sur pneus à bras télescopique muni de fourches, qui lève et place les charges en hauteur.",
+  "requetes": [
+   "telehandler",
+   "chariot télescopique",
+   "telescopic handler"
+  ]
+ },
+ {
+  "id": "foreuse-de-pieux",
+  "terme": "la foreuse de pieux",
+  "definition": "Engin sur chenilles portant un haut mât et une tarière qui creuse le sol pour couler des pieux de fondation.",
+  "requetes": [
+   "piling rig",
+   "foreuse de pieux",
+   "rotary drilling rig pile"
+  ]
+ },
+ {
+  "id": "grue-a-tour",
+  "terme": "la grue à tour",
+  "definition": "Grue fixe formée d'un haut mât en treillis et d'une flèche horizontale qui pivote au-dessus du chantier.",
+  "requetes": [
+   "tower crane construction",
+   "grue à tour",
+   "incategory:\"Tower cranes\""
+  ]
+ },
+ {
+  "id": "grue-mobile",
+  "terme": "la grue mobile",
+  "definition": "Grue montée sur un camion ou un porteur à pneus, à flèche télescopique, stabilisée par des béquilles.",
+  "requetes": [
+   "mobile crane",
+   "grue mobile",
+   "truck mounted crane telescopic"
+  ]
+ },
+ {
+  "id": "monte-charge",
+  "terme": "le monte-charge",
+  "definition": "Plateforme ou cabine qui monte les matériaux le long d'un mât fixé à la façade.",
+  "requetes": [
+   "construction hoist",
+   "monte-charge chantier",
+   "material hoist mast"
+  ]
+ },
+ {
+  "id": "poulie",
+  "terme": "la poulie",
+  "definition": "Roue à gorge suspendue en hauteur, sur laquelle passe une corde pour hisser seaux et matériaux à la main.",
+  "requetes": [
+   "pulley construction bucket",
+   "poulie chantier",
+   "gin wheel"
+  ]
+ },
+ {
+  "id": "palan",
+  "terme": "le palan",
+  "definition": "Appareil de levage à chaîne, manuel ou électrique, accroché en hauteur pour soulever une charge lourde.",
+  "requetes": [
+   "chain hoist",
+   "palan à chaîne",
+   "chain block"
+  ]
+ },
+ {
+  "id": "elingue",
+  "terme": "l'élingue",
+  "definition": "Sangle, câble ou chaîne terminé par des boucles ou des crochets, qui attache une charge au crochet de la grue.",
+  "requetes": [
+   "lifting sling",
+   "élingue de levage",
+   "crane sling load"
+  ]
+ },
+ {
+  "id": "benne-a-beton",
+  "terme": "la benne à béton",
+  "definition": "Seau métallique conique suspendu à la grue, à trappe en bas, qui déverse le béton dans le coffrage.",
+  "requetes": [
+   "concrete bucket crane",
+   "benne à béton grue",
+   "concrete skip"
+  ]
+ },
+ {
+  "id": "truelle",
+  "terme": "la truelle",
+  "definition": "Outil à lame d'acier plate, triangulaire ou arrondie, et à manche coudé, pour prendre, étaler et lisser le mortier.",
+  "requetes": [
+   "mason trowel",
+   "truelle",
+   "incategory:\"Trowels\""
+  ]
+ },
+ {
+  "id": "taloche",
+  "terme": "la taloche",
+  "definition": "Planchette rectangulaire en bois, plastique ou mousse, munie d'une poignée, pour dresser et serrer un enduit ou une chape.",
+  "requetes": [
+   "plastering float",
+   "taloche",
+   "wooden hand float"
+  ]
+ },
+ {
+  "id": "platoir",
+  "terme": "le platoir",
+  "definition": "Lame d'acier rectangulaire et lisse, à poignée centrale, pour étaler et lisser enduit, colle ou ragréage.",
+  "requetes": [
+   "plastering trowel steel",
+   "platoir",
+   "finishing trowel"
+  ]
+ },
+ {
+  "id": "seau-de-macon",
+  "terme": "le seau de maçon",
+  "definition": "Seau robuste en caoutchouc ou plastique noir, à anse, pour porter mortier, béton ou eau.",
+  "requetes": [
+   "builder's bucket",
+   "seau de maçon",
+   "rubber bucket construction"
+  ]
+ },
+ {
+  "id": "brouette",
+  "terme": "la brouette",
+  "definition": "Caisse à une roue et deux bras qu'on pousse pour transporter matériaux et gravats.",
+  "requetes": [
+   "wheelbarrow construction",
+   "brouette",
+   "incategory:\"Wheelbarrows\""
+  ]
+ },
+ {
+  "id": "pelle",
+  "terme": "la pelle",
+  "definition": "Outil formé d'une plaque métallique un peu creuse au bout d'un long manche, pour remuer sable, gravier et mortier.",
+  "requetes": [
+   "shovel sand",
+   "pelle chantier",
+   "incategory:\"Shovels\""
+  ]
+ },
+ {
+  "id": "pioche",
+  "terme": "la pioche",
+  "definition": "Outil à fer pointu ou aplati monté perpendiculairement sur un manche, pour creuser un sol dur.",
+  "requetes": [
+   "pickaxe",
+   "pioche",
+   "incategory:\"Pickaxes\""
+  ]
+ },
+ {
+  "id": "marteau",
+  "terme": "le marteau",
+  "definition": "Outil formé d'une tête métallique fixée au bout d'un manche, pour frapper et enfoncer des clous.",
+  "requetes": [
+   "claw hammer",
+   "marteau",
+   "incategory:\"Hammers\""
+  ]
+ },
+ {
+  "id": "masse",
+  "terme": "la masse",
+  "definition": "Lourd marteau à tête d'acier rectangulaire, à manche court ou long, pour casser ou frapper fort.",
+  "requetes": [
+   "sledgehammer",
+   "masse",
+   "club hammer"
+  ]
+ },
+ {
+  "id": "burin",
+  "terme": "le burin",
+  "definition": "Barre d'acier à bout plat et tranchant, frappée au marteau pour tailler ou démolir la maçonnerie.",
+  "requetes": [
+   "cold chisel",
+   "burin",
+   "masonry chisel"
+  ]
+ },
+ {
+  "id": "tamis",
+  "terme": "le tamis",
+  "definition": "Cadre muni d'un grillage fin, souvent dressé incliné, à travers lequel on passe le sable pour en retirer les cailloux.",
+  "requetes": [
+   "sand sieve construction",
+   "tamis à sable",
+   "sand screen mesh"
+  ]
+ },
+ {
+  "id": "regle-de-macon",
+  "terme": "la règle de maçon",
+  "definition": "Longue barre droite en aluminium, qu'on tire sur une chape ou un enduit frais pour le dresser.",
+  "requetes": [
+   "screed rule aluminium",
+   "règle de maçon",
+   "straightedge plastering"
+  ]
+ },
+ {
+  "id": "niveau-a-bulle",
+  "terme": "le niveau à bulle",
+  "definition": "Barre droite munie de fioles où une bulle d'air indique si une surface est horizontale ou verticale.",
+  "requetes": [
+   "spirit level",
+   "niveau à bulle",
+   "incategory:\"Spirit levels\""
+  ]
+ },
+ {
+  "id": "fil-a-plomb",
+  "terme": "le fil à plomb",
+  "definition": "Poids métallique suspendu au bout d'une ficelle, qui donne la verticale pour monter un mur droit.",
+  "requetes": [
+   "plumb bob",
+   "fil à plomb",
+   "incategory:\"Plumb bobs\""
+  ]
+ },
+ {
+  "id": "cordeau",
+  "terme": "le cordeau",
+  "definition": "Ficelle tendue entre deux points pour aligner un rang de blocs ou tracer une ligne droite.",
+  "requetes": [
+   "mason line string",
+   "cordeau maçon",
+   "string line bricklaying"
+  ]
+ },
+ {
+  "id": "cordeau-traceur",
+  "terme": "le cordeau traceur",
+  "definition": "Boîtier contenant une ficelle enduite de poudre colorée, qu'on tend et fait claquer pour marquer une ligne droite.",
+  "requetes": [
+   "chalk line reel",
+   "cordeau traceur",
+   "chalk line snap"
+  ]
+ },
+ {
+  "id": "equerre-de-macon",
+  "terme": "l'équerre de maçon",
+  "definition": "Grande équerre métallique en forme de L ou de triangle, pour vérifier les angles droits.",
+  "requetes": [
+   "builder's square",
+   "équerre de maçon",
+   "steel square"
+  ]
+ },
+ {
+  "id": "moule-a-parpaings",
+  "terme": "le moule à parpaings",
+  "definition": "Moule métallique, souvent à levier, dans lequel on serre le béton maigre pour fabriquer des blocs sur place.",
+  "requetes": [
+   "concrete block mould manual",
+   "moule à parpaings",
+   "block making machine manual Africa"
+  ]
+ },
+ {
+  "id": "talocheuse-mecanique",
+  "terme": "la talocheuse mécanique",
+  "definition": "Machine à pales tournantes guidée par un long manche, qui lisse la surface d'une dalle de béton frais.",
+  "requetes": [
+   "power trowel",
+   "talocheuse mécanique hélicoptère",
+   "concrete power float"
+  ]
+ },
+ {
+  "id": "regle-vibrante",
+  "terme": "la règle vibrante",
+  "definition": "Longue poutre à moteur vibreur, tirée sur le béton frais d'une dalle pour l'aplanir et le serrer.",
+  "requetes": [
+   "vibrating screed",
+   "règle vibrante",
+   "concrete screed vibrator"
+  ]
+ },
+ {
+  "id": "aiguille-vibrante",
+  "terme": "l'aiguille vibrante",
+  "definition": "Tige métallique vibrante au bout d'un flexible, plongée dans le béton frais pour en chasser l'air.",
+  "requetes": [
+   "concrete poker vibrator",
+   "aiguille vibrante béton",
+   "internal concrete vibrator"
+  ]
+ },
+ {
+  "id": "cisaille-a-armatures",
+  "terme": "la cisaille à armatures",
+  "definition": "Grande pince à longs bras, ou machine, qui coupe les barres d'acier à béton.",
+  "requetes": [
+   "rebar cutter",
+   "cisaille à armatures",
+   "bolt cutter rebar"
+  ]
+ },
+ {
+  "id": "cintreuse-a-armatures",
+  "terme": "la cintreuse à armatures",
+  "definition": "Appareil manuel ou électrique sur lequel on plie les barres d'acier pour former cadres et crochets.",
+  "requetes": [
+   "rebar bender",
+   "cintreuse à armatures",
+   "rebar bending machine"
+  ]
+ },
+ {
+  "id": "griffe-a-cintrer",
+  "terme": "la griffe à cintrer",
+  "definition": "Barre d'acier terminée par une fourche, avec laquelle le ferrailleur plie à la main les fers à béton.",
+  "requetes": [
+   "rebar bending tool hand",
+   "clé à cintrer fer à béton",
+   "hickey bar rebar"
+  ]
+ },
+ {
+  "id": "tenaille",
+  "terme": "la tenaille",
+  "definition": "Pince à mâchoires arrondies et coupantes, qui sert au ferrailleur à serrer et couper le fil de ligature.",
+  "requetes": [
+   "tower pincers",
+   "tenaille",
+   "rebar tying pliers"
+  ]
+ },
+ {
+  "id": "fil-a-ligaturer",
+  "terme": "le fil à ligaturer",
+  "definition": "Fil de fer recuit, souple, en bobine ou en tronçons, qu'on torsade pour attacher les barres d'armature entre elles.",
+  "requetes": [
+   "rebar tie wire",
+   "fil à ligaturer",
+   "annealed binding wire"
+  ]
+ },
+ {
+  "id": "disqueuse",
+  "terme": "la disqueuse",
+  "definition": "Meuleuse électrique à main dont le disque rotatif coupe métal, carrelage ou maçonnerie.",
+  "requetes": [
+   "angle grinder",
+   "disqueuse meuleuse",
+   "incategory:\"Angle grinders\""
+  ]
+ },
+ {
+  "id": "poste-a-souder",
+  "terme": "le poste à souder",
+  "definition": "Appareil électrique relié par câbles à une pince porte-électrode, qui fond le métal pour assembler des pièces d'acier.",
+  "requetes": [
+   "arc welding machine",
+   "poste à souder",
+   "welding inverter"
+  ]
+ },
+ {
+  "id": "chalumeau",
+  "terme": "le chalumeau",
+  "definition": "Outil à flamme alimenté par une bouteille de gaz, pour chauffer, braser ou souder.",
+  "requetes": [
+   "blowtorch",
+   "chalumeau",
+   "gas torch"
+  ]
+ },
+ {
+  "id": "scie-circulaire",
+  "terme": "la scie circulaire",
+  "definition": "Scie électrique à lame ronde dentée, portative ou sur table, pour débiter le bois et les panneaux.",
+  "requetes": [
+   "circular saw",
+   "scie circulaire",
+   "incategory:\"Circular saws\""
+  ]
+ },
+ {
+  "id": "scie-sauteuse",
+  "terme": "la scie sauteuse",
+  "definition": "Scie électrique à main dont la lame étroite va et vient verticalement, pour les découpes courbes.",
+  "requetes": [
+   "jigsaw power tool",
+   "scie sauteuse",
+   "incategory:\"Jigsaws (tool)\""
+  ]
+ },
+ {
+  "id": "tronconneuse",
+  "terme": "la tronçonneuse",
+  "definition": "Scie à moteur dont une chaîne dentée tourne autour d'un guide, pour couper le bois.",
+  "requetes": [
+   "chainsaw",
+   "tronçonneuse",
+   "incategory:\"Chainsaws\""
+  ]
+ },
+ {
+  "id": "perceuse",
+  "terme": "la perceuse",
+  "definition": "Outil électrique à main qui fait tourner un foret pour percer des trous.",
+  "requetes": [
+   "electric drill",
+   "perceuse",
+   "incategory:\"Electric drills\""
+  ]
+ },
+ {
+  "id": "marteau-piqueur",
+  "terme": "le marteau-piqueur",
+  "definition": "Lourd outil pneumatique ou électrique qui frappe un pic sur le béton ou la chaussée pour les briser.",
+  "requetes": [
+   "jackhammer",
+   "marteau-piqueur",
+   "pneumatic drill road"
+  ]
+ },
+ {
+  "id": "carotteuse",
+  "terme": "la carotteuse",
+  "definition": "Machine à couronne diamantée qui découpe un trou rond parfait dans le béton ou la maçonnerie.",
+  "requetes": [
+   "core drill concrete",
+   "carotteuse béton",
+   "diamond core drilling"
+  ]
+ },
+ {
+  "id": "rabot",
+  "terme": "le rabot",
+  "definition": "Outil à lame tranchante réglable dans un fût, poussé sur le bois pour l'aplanir.",
+  "requetes": [
+   "hand plane woodworking",
+   "rabot",
+   "incategory:\"Planes (tools)\""
+  ]
+ },
+ {
+  "id": "metre-ruban",
+  "terme": "le mètre ruban",
+  "definition": "Ruban métallique gradué enroulé dans un boîtier, qui se déroule pour mesurer.",
+  "requetes": [
+   "tape measure",
+   "mètre ruban",
+   "incategory:\"Tape measures\""
+  ]
+ },
+ {
+  "id": "etabli",
+  "terme": "l'établi",
+  "definition": "Table de travail robuste, souvent munie d'un étau, sur laquelle on taille et assemble les pièces.",
+  "requetes": [
+   "workbench",
+   "établi",
+   "incategory:\"Workbenches\""
+  ]
+ },
+ {
+  "id": "tournevis",
+  "terme": "le tournevis",
+  "definition": "Outil à manche et tige métallique dont le bout plat ou cruciforme serre les vis.",
+  "requetes": [
+   "screwdriver",
+   "tournevis",
+   "incategory:\"Screwdrivers\""
+  ]
+ },
+ {
+  "id": "coupe-carreau",
+  "terme": "le coupe-carreau",
+  "definition": "Appareil à rail et molette qui raye puis casse net les carreaux en ligne droite.",
+  "requetes": [
+   "manual tile cutter",
+   "coupe-carreau",
+   "tile cutter"
+  ]
+ },
+ {
+  "id": "spatule-crantee",
+  "terme": "la spatule crantée",
+  "definition": "Lame d'acier à bord denté qui étale la colle à carrelage en sillons réguliers.",
+  "requetes": [
+   "notched trowel tile adhesive",
+   "spatule crantée",
+   "peigne à colle carrelage"
+  ]
+ },
+ {
+  "id": "raclette-a-joints",
+  "terme": "la raclette à joints",
+  "definition": "Taloche à semelle de caoutchouc qui fait pénétrer le mortier de joint entre les carreaux.",
+  "requetes": [
+   "grout float",
+   "raclette à joints",
+   "rubber grout float tiles"
+  ]
+ },
+ {
+  "id": "cle-serre-tube",
+  "terme": "la clé serre-tube",
+  "definition": "Grosse clé à mâchoires dentées réglables, qui serre et tourne les tubes et raccords filetés.",
+  "requetes": [
+   "pipe wrench",
+   "clé serre-tube",
+   "stillson wrench"
+  ]
+ },
+ {
+  "id": "coupe-tube",
+  "terme": "le coupe-tube",
+  "definition": "Outil à molette tranchante qu'on fait tourner autour d'un tube pour le couper net.",
+  "requetes": [
+   "pipe cutter",
+   "coupe-tube",
+   "tube cutter copper"
+  ]
+ },
+ {
+  "id": "casque-de-chantier",
+  "terme": "le casque de chantier",
+  "definition": "Casque rigide en plastique coloré qui protège la tête des chocs et des chutes d'objets.",
+  "requetes": [
+   "hard hat construction worker",
+   "casque de chantier",
+   "incategory:\"Hard hats\""
+  ]
+ },
+ {
+  "id": "gilet-haute-visibilite",
+  "terme": "le gilet haute visibilité",
+  "definition": "Gilet jaune ou orange fluo à bandes réfléchissantes, qui rend le travailleur visible.",
+  "requetes": [
+   "high visibility vest worker",
+   "gilet haute visibilité",
+   "hi-vis vest"
+  ]
+ },
+ {
+  "id": "chaussures-de-securite",
+  "terme": "les chaussures de sécurité",
+  "definition": "Chaussures montantes à coque de protection et semelle anti-perforation.",
+  "requetes": [
+   "safety boots steel toe",
+   "chaussures de sécurité",
+   "safety footwear"
+  ]
+ },
+ {
+  "id": "gants-de-travail",
+  "terme": "les gants de travail",
+  "definition": "Gants en cuir, en tissu enduit ou en caoutchouc, qui protègent les mains des coupures, du ciment et des frottements.",
+  "requetes": [
+   "work gloves",
+   "gants de travail",
+   "construction gloves"
+  ]
+ },
+ {
+  "id": "casque-anti-bruit",
+  "terme": "le casque anti-bruit",
+  "definition": "Paire de coquilles reliées par un arceau, qui couvrent les oreilles contre le bruit des machines.",
+  "requetes": [
+   "ear defenders",
+   "casque anti-bruit",
+   "hearing protection earmuffs"
+  ]
+ },
+ {
+  "id": "harnais-de-securite",
+  "terme": "le harnais de sécurité",
+  "definition": "Ensemble de sangles serrées autour du corps, relié par une longe à un point d'ancrage contre les chutes.",
+  "requetes": [
+   "fall arrest harness",
+   "harnais de sécurité",
+   "safety harness worker height"
+  ]
+ },
+ {
+  "id": "ligne-de-vie",
+  "terme": "la ligne de vie",
+  "definition": "Câble ou rail fixé à une structure, sur lequel le travailleur accroche sa longe en se déplaçant en hauteur.",
+  "requetes": [
+   "lifeline cable roof fall protection",
+   "ligne de vie",
+   "horizontal lifeline"
+  ]
+ },
+ {
+  "id": "chaise-d-implantation",
+  "terme": "la chaise d'implantation",
+  "definition": "Planche horizontale clouée sur deux piquets, hors de la fouille, où l'on fixe les cordeaux qui matérialisent les axes.",
+  "requetes": [
+   "batter boards",
+   "chaise d'implantation",
+   "batter board string line foundation"
+  ]
+ },
+ {
+  "id": "piquet",
+  "terme": "le piquet",
+  "definition": "Pieu de bois ou fer pointu enfoncé dans le sol pour repérer un point ou tendre un cordeau.",
+  "requetes": [
+   "survey stake",
+   "piquet implantation",
+   "wooden stakes construction"
+  ]
+ },
+ {
+  "id": "station-totale",
+  "terme": "la station totale",
+  "definition": "Appareil de topographie sur trépied, à lunette pivotante et écran, qui mesure angles et distances pour implanter.",
+  "requetes": [
+   "total station surveying",
+   "station totale",
+   "incategory:\"Total stations\""
+  ]
+ },
+ {
+  "id": "niveau-laser",
+  "terme": "le niveau laser",
+  "definition": "Appareil qui projette des lignes ou un plan laser horizontal et vertical pour donner niveaux et aplombs.",
+  "requetes": [
+   "line laser level",
+   "niveau laser",
+   "rotary laser level"
+  ]
+ },
+ {
+  "id": "niveau-a-eau",
+  "terme": "le niveau à eau",
+  "definition": "Long tuyau transparent rempli d'eau dont les deux bouts donnent le même niveau, pour reporter un trait d'une pièce à l'autre.",
+  "requetes": [
+   "water level tube",
+   "niveau à eau tuyau",
+   "hose level"
+  ]
+ },
+ {
+  "id": "mire",
+  "terme": "la mire",
+  "definition": "Longue règle graduée tenue verticalement, sur laquelle on lit la hauteur dans la lunette d'un niveau.",
+  "requetes": [
+   "levelling staff",
+   "mire de nivellement",
+   "surveying rod"
+  ]
+ },
+ {
+  "id": "jalon",
+  "terme": "le jalon",
+  "definition": "Tige à bandes rouges et blanches plantée verticalement pour signaler un point visé de loin.",
+  "requetes": [
+   "ranging pole",
+   "jalon topographie",
+   "range pole red white"
+  ]
+ },
+ {
+  "id": "trottoir",
+  "terme": "le trottoir",
+  "definition": "Partie surélevée de la rue, le long de la chaussée, réservée aux piétons.",
+  "requetes": [
+   "sidewalk",
+   "trottoir",
+   "incategory:\"Sidewalks\""
+  ]
+ },
+ {
+  "id": "bordure-de-trottoir",
+  "terme": "la bordure de trottoir",
+  "definition": "Bloc allongé en béton ou en pierre qui borde le trottoir et marque sa différence de hauteur avec la chaussée.",
+  "requetes": [
+   "curb stone",
+   "bordure de trottoir",
+   "incategory:\"Curbs\""
+  ]
+ },
+ {
+  "id": "caniveau",
+  "terme": "le caniveau",
+  "definition": "Rigole ou canal maçonné le long de la chaussée, au pied de la bordure, ouvert ou couvert de dallettes, qui conduit l'eau de pluie vers les avaloirs.",
+  "requetes": [
+   "street gutter",
+   "caniveau chaussée",
+   "road gutter kerb"
+  ]
+ },
+ {
+  "id": "caniveau-a-grille",
+  "terme": "le caniveau à grille",
+  "definition": "Canal étroit en béton ou en polymère encastré dans le sol et recouvert d'une grille, qui recueille l'eau sur sa longueur.",
+  "requetes": [
+   "channel drain grate",
+   "caniveau à grille",
+   "trench drain"
+  ]
+ },
+ {
+  "id": "chaussee",
+  "terme": "la chaussée",
+  "definition": "Partie de la rue ou de la route où roulent les véhicules.",
+  "requetes": [
+   "road carriageway",
+   "chaussée",
+   "incategory:\"Roads\""
+  ]
+ },
+ {
+  "id": "enrobe",
+  "terme": "l'enrobé",
+  "definition": "Revêtement noir de gravillons liés au bitume, répandu à chaud et compacté sur une chaussée ou une cour.",
+  "requetes": [
+   "asphalt paving",
+   "enrobé bitumineux",
+   "asphalt surface"
+  ]
+ },
+ {
+  "id": "pave-autobloquant",
+  "terme": "le pavé autobloquant",
+  "definition": "Pavé en béton à formes emboîtables, posé sur sable sans mortier, très employé pour les trottoirs et cours à Dakar.",
+  "requetes": [
+   "interlocking paving",
+   "pavé autobloquant",
+   "interlocking concrete pavers"
+  ]
+ },
+ {
+  "id": "pave",
+  "terme": "le pavé",
+  "definition": "Bloc de pierre taillée, souvent cubique, juxtaposé à d'autres pour revêtir une rue ou une place.",
+  "requetes": [
+   "cobblestone street",
+   "pavé de granit",
+   "incategory:\"Cobblestones\""
+  ]
+ },
+ {
+  "id": "dalle-engazonnee",
+  "terme": "la dalle engazonnée",
+  "definition": "Dalle en béton ou plastique ajourée d'alvéoles où pousse le gazon, pour un parking perméable.",
+  "requetes": [
+   "grass paver",
+   "dalle engazonnée",
+   "grass grid paving"
+  ]
+ },
+ {
+  "id": "pas-japonais",
+  "terme": "les pas japonais",
+  "definition": "Dalles espacées posées dans la pelouse ou le gravier, sur lesquelles on marche pas à pas.",
+  "requetes": [
+   "stepping stones garden path",
+   "pas japonais",
+   "stepping stone path"
+  ]
+ },
+ {
+  "id": "allee",
+  "terme": "l'allée",
+  "definition": "Chemin aménagé d'un jardin ou d'une parcelle, en gravier, dalles ou pavés.",
+  "requetes": [
+   "garden path",
+   "allée de jardin",
+   "gravel garden path"
+  ]
+ },
+ {
+  "id": "bordurette",
+  "terme": "la bordurette",
+  "definition": "Petite bordure en béton qui borde une allée, une pelouse ou un massif.",
+  "requetes": [
+   "garden edging concrete",
+   "bordurette béton",
+   "lawn edging kerb"
+  ]
+ },
+ {
+  "id": "regard",
+  "terme": "le regard",
+  "definition": "Ouvrage enterré maçonné ou préfabriqué, fermé par un couvercle, qui donne accès à une canalisation pour la visite et le curage.",
+  "requetes": [
+   "manhole open inspection chamber",
+   "regard de visite",
+   "inspection chamber drain"
+  ]
+ },
+ {
+  "id": "tampon-de-regard",
+  "terme": "le tampon de regard",
+  "definition": "Couvercle rond ou carré, en fonte ou en béton, qui ferme un regard au niveau du sol.",
+  "requetes": [
+   "manhole cover",
+   "tampon fonte",
+   "incategory:\"Manhole covers\""
+  ]
+ },
+ {
+  "id": "avaloir",
+  "terme": "l'avaloir",
+  "definition": "Bouche d'égout ouverte dans la bordure ou le caniveau, par laquelle l'eau de pluie descend dans le réseau.",
+  "requetes": [
+   "storm drain inlet curb",
+   "avaloir",
+   "kerb inlet"
+  ]
+ },
+ {
+  "id": "grille-avaloir",
+  "terme": "la grille avaloir",
+  "definition": "Grille en fonte posée dans le caniveau ou la chaussée, au-dessus d'un avaloir, qui laisse passer l'eau.",
+  "requetes": [
+   "storm drain grate",
+   "grille avaloir fonte",
+   "gully grate"
+  ]
+ },
+ {
+  "id": "canal-d-eaux-pluviales",
+  "terme": "le canal d'eaux pluviales",
+  "definition": "Large canal à ciel ouvert en béton qui traverse un quartier pour évacuer les eaux de pluie, comme on en voit à Dakar.",
+  "requetes": [
+   "open storm drain canal concrete",
+   "canal d'évacuation des eaux pluviales Dakar",
+   "open drainage channel city"
+  ]
+ },
+ {
+  "id": "fosse",
+  "terme": "le fossé",
+  "definition": "Tranchée en terre creusée le long d'une route ou d'un terrain pour recueillir et évacuer l'eau.",
+  "requetes": [
+   "roadside ditch",
+   "fossé",
+   "drainage ditch"
+  ]
+ },
+ {
+  "id": "dalot",
+  "terme": "le dalot",
+  "definition": "Ouvrage rectangulaire en béton qui fait passer l'eau sous une route.",
+  "requetes": [
+   "box culvert road",
+   "dalot",
+   "box culvert concrete"
+  ]
+ },
+ {
+  "id": "buse",
+  "terme": "la buse",
+  "definition": "Gros tuyau cylindrique en béton qui fait passer l'eau sous une voie ou une entrée de parcelle.",
+  "requetes": [
+   "concrete pipe culvert",
+   "buse béton",
+   "pipe culvert"
+  ]
+ },
+ {
+  "id": "fosse-septique",
+  "terme": "la fosse septique",
+  "definition": "Cuve enterrée en béton ou préfabriquée, fermée de dalles ou de tampons, qui recueille et prétraite les eaux usées d'une maison.",
+  "requetes": [
+   "septic tank installation",
+   "fosse septique",
+   "septic tank concrete"
+  ]
+ },
+ {
+  "id": "puisard",
+  "terme": "le puisard",
+  "definition": "Puits maçonné à fond perméable, couvert d'une dalle, dans lequel les eaux s'infiltrent dans le sol.",
+  "requetes": [
+   "soakaway pit",
+   "puisard",
+   "soak pit"
+  ]
+ },
+ {
+  "id": "bassin-de-retention",
+  "terme": "le bassin de rétention",
+  "definition": "Grand bassin à ciel ouvert, à berges en terre ou en béton, qui stocke les eaux de pluie avant de les rejeter.",
+  "requetes": [
+   "retention pond",
+   "bassin de rétention",
+   "stormwater detention basin"
+  ]
+ },
+ {
+  "id": "dos-d-ane",
+  "terme": "le dos-d'âne",
+  "definition": "Bosse aménagée en travers de la chaussée pour obliger les véhicules à ralentir.",
+  "requetes": [
+   "speed bump",
+   "dos d'âne ralentisseur",
+   "incategory:\"Speed bumps\""
+  ]
+ },
+ {
+  "id": "passage-pieton",
+  "terme": "le passage piéton",
+  "definition": "Bandes blanches peintes en travers de la chaussée, où les piétons traversent.",
+  "requetes": [
+   "zebra crossing",
+   "passage piéton",
+   "incategory:\"Zebra crossings\""
+  ]
+ },
+ {
+  "id": "marquage-au-sol",
+  "terme": "le marquage au sol",
+  "definition": "Lignes et signes peints en blanc ou en jaune sur la chaussée pour guider la circulation.",
+  "requetes": [
+   "road markings",
+   "marquage au sol",
+   "road surface marking lines"
+  ]
+ },
+ {
+  "id": "terre-plein-central",
+  "terme": "le terre-plein central",
+  "definition": "Bande surélevée, plantée ou bétonnée, qui sépare les deux sens de circulation d'une route.",
+  "requetes": [
+   "road median strip",
+   "terre-plein central",
+   "central reservation"
+  ]
+ },
+ {
+  "id": "accotement",
+  "terme": "l'accotement",
+  "definition": "Bande non roulée, en terre ou en gravier, située entre le bord de la chaussée et le fossé.",
+  "requetes": [
+   "road shoulder",
+   "accotement route",
+   "gravel road shoulder"
+  ]
+ },
+ {
+  "id": "potelet",
+  "terme": "le potelet",
+  "definition": "Petit poteau fixé au bord du trottoir pour empêcher les voitures d'y stationner.",
+  "requetes": [
+   "bollard sidewalk",
+   "potelet",
+   "incategory:\"Bollards\""
+  ]
+ },
+ {
+  "id": "lampadaire",
+  "terme": "le lampadaire",
+  "definition": "Haut mât portant un ou plusieurs luminaires qui éclairent la rue.",
+  "requetes": [
+   "street light pole",
+   "lampadaire",
+   "incategory:\"Street lights\""
+  ]
+ },
+ {
+  "id": "panneau-de-signalisation",
+  "terme": "le panneau de signalisation",
+  "definition": "Plaque métallique à symboles, fixée sur un poteau, qui donne une indication ou une obligation aux usagers de la route.",
+  "requetes": [
+   "road sign",
+   "panneau de signalisation routière",
+   "traffic sign pole"
+  ]
+ },
+ {
+  "id": "abribus",
+  "terme": "l'abribus",
+  "definition": "Abri couvert, souvent vitré et muni d'un banc, installé à un arrêt de bus.",
+  "requetes": [
+   "bus shelter",
+   "abribus",
+   "incategory:\"Bus shelters\""
+  ]
+ },
+ {
+  "id": "piste-cyclable",
+  "terme": "la piste cyclable",
+  "definition": "Voie réservée aux vélos, séparée ou marquée au sol, parfois de couleur distincte.",
+  "requetes": [
+   "bike lane",
+   "piste cyclable",
+   "cycle track"
+  ]
+ },
+ {
+  "id": "bateau-de-trottoir",
+  "terme": "le bateau de trottoir",
+  "definition": "Abaissement de la bordure et du trottoir qui permet aux véhicules ou aux fauteuils de passer de la chaussée au trottoir.",
+  "requetes": [
+   "curb ramp",
+   "bateau de trottoir abaissé",
+   "dropped kerb"
+  ]
+ },
+ {
+  "id": "mur-de-cloture",
+  "terme": "le mur de clôture",
+  "definition": "Mur maçonné qui ferme une parcelle sur la rue et les voisins, typique des concessions et villas de Dakar.",
+  "requetes": [
+   "boundary wall house",
+   "mur de clôture",
+   "compound wall Senegal"
+  ]
+ },
+ {
+  "id": "muret",
+  "terme": "le muret",
+  "definition": "Mur bas qui délimite un jardin, une allée ou supporte une grille.",
+  "requetes": [
+   "low garden wall",
+   "muret",
+   "low wall"
+  ]
+ },
+ {
+  "id": "pilier-de-portail",
+  "terme": "le pilier de portail",
+  "definition": "Poteau maçonné, souvent coiffé d'un chapeau, sur lequel le portail est fixé de chaque côté de l'entrée.",
+  "requetes": [
+   "gate pillar",
+   "pilier de portail",
+   "brick gate pier"
+  ]
+ },
+ {
+  "id": "chaperon",
+  "terme": "le chaperon",
+  "definition": "Couronnement en pente d'un mur de clôture ou d'un pilier, qui rejette l'eau de pluie.",
+  "requetes": [
+   "wall coping",
+   "chaperon de mur",
+   "coping stone wall"
+  ]
+ },
+ {
+  "id": "tessons-de-verre",
+  "terme": "les tessons de verre",
+  "definition": "Morceaux de bouteilles cassées (tessons de bouteille) scellés dans le mortier en crête de mur pour empêcher l'escalade.",
+  "requetes": [
+   "broken glass wall top",
+   "tessons de bouteille sur mur",
+   "glass shards on wall security"
+  ]
+ },
+ {
+  "id": "fil-barbele",
+  "terme": "le fil barbelé",
+  "definition": "Fil de fer torsadé garni de pointes, tendu sur une clôture ou en haut d'un mur.",
+  "requetes": [
+   "barbed wire fence",
+   "fil barbelé",
+   "incategory:\"Barbed wire\""
+  ]
+ },
+ {
+  "id": "concertina",
+  "terme": "le concertina",
+  "definition": "Rouleau de fil barbelé à lames tranchantes, déployé en spirales en haut d'un mur ou d'une clôture.",
+  "requetes": [
+   "razor wire coil wall",
+   "concertina barbelé",
+   "concertina wire"
+  ]
+ },
+ {
+  "id": "cloture-grillagee",
+  "terme": "la clôture grillagée",
+  "definition": "Clôture faite d'un grillage métallique tendu entre des poteaux.",
+  "requetes": [
+   "chain link fence",
+   "clôture grillagée",
+   "wire mesh fence"
+  ]
+ },
+ {
+  "id": "cloture-en-bois",
+  "terme": "la clôture en bois",
+  "definition": "Clôture faite de planches, de lattes ou de piquets de bois fixés à des poteaux.",
+  "requetes": [
+   "wooden fence garden",
+   "clôture en bois",
+   "picket fence"
+  ]
+ },
+ {
+  "id": "haie",
+  "terme": "la haie",
+  "definition": "Rangée d'arbustes plantés serrés et taillés, qui forme une clôture végétale.",
+  "requetes": [
+   "hedge garden",
+   "haie taillée",
+   "incategory:\"Hedges\""
+  ]
+ },
+ {
+  "id": "mur-de-soutenement",
+  "terme": "le mur de soutènement",
+  "definition": "Mur, maçonné ou en béton armé, qui retient les terres d'un talus ou d'un terrain en pente, le sol étant plus haut d'un côté que de l'autre.",
+  "requetes": [
+   "retaining wall",
+   "mur de soutènement",
+   "incategory:\"Retaining walls\""
+  ]
+ },
+ {
+  "id": "barbacane",
+  "terme": "la barbacane",
+  "definition": "Petit trou ou tuyau traversant le bas d'un mur de soutènement, par où s'écoule l'eau des terres retenues.",
+  "requetes": [
+   "weep hole retaining wall",
+   "barbacane mur de soutènement",
+   "retaining wall weep holes"
+  ]
+ },
+ {
+  "id": "gabion",
+  "terme": "le gabion",
+  "definition": "Cage en grillage d'acier remplie de pierres, empilée pour former murs et soutènements.",
+  "requetes": [
+   "gabion wall",
+   "gabion",
+   "incategory:\"Gabions\""
+  ]
+ },
+ {
+  "id": "enrochement",
+  "terme": "l'enrochement",
+  "definition": "Amas de gros blocs de roche disposés pour protéger un talus, une berge ou un littoral.",
+  "requetes": [
+   "riprap rock embankment",
+   "enrochement",
+   "rock armour shore"
+  ]
+ },
+ {
+  "id": "talus",
+  "terme": "le talus",
+  "definition": "Terrain en pente, naturel ou remblayé, qui raccorde deux niveaux de sol.",
+  "requetes": [
+   "embankment slope grass",
+   "talus",
+   "road embankment slope"
+  ]
+ },
+ {
+  "id": "pergola",
+  "terme": "la pergola",
+  "definition": "Structure de poteaux et de poutres ajourées qui forme un couvert léger au-dessus d'une terrasse ou d'une allée.",
+  "requetes": [
+   "pergola garden",
+   "pergola",
+   "incategory:\"Pergolas\""
+  ]
+ },
+ {
+  "id": "grille-d-arbre",
+  "terme": "la grille d'arbre",
+  "definition": "Grille métallique posée au sol autour du pied d'un arbre planté dans un trottoir ou une place.",
+  "requetes": [
+   "tree grate",
+   "grille d'arbre",
+   "tree grille pavement"
+  ]
+ },
+ {
+  "id": "pelouse",
+  "terme": "la pelouse",
+  "definition": "Surface plantée de gazon court et entretenu.",
+  "requetes": [
+   "lawn",
+   "pelouse",
+   "incategory:\"Lawns\""
+  ]
+ },
+ {
+  "id": "aire-de-jeux",
+  "terme": "l'aire de jeux",
+  "definition": "Espace extérieur équipé de toboggans, balançoires et jeux pour enfants, sur un sol amortissant.",
+  "requetes": [
+   "playground equipment",
+   "aire de jeux",
+   "incategory:\"Playgrounds\""
+  ]
+ },
+ {
+  "id": "guerite",
+  "terme": "la guérite",
+  "definition": "Petit abri maçonné ou préfabriqué placé à l'entrée d'une propriété ou d'un site, où se tient le gardien.",
+  "requetes": [
+   "guard booth gate",
+   "guérite gardien",
+   "security guard house entrance"
+  ]
+ },
+ {
+  "id": "piscine",
+  "terme": "la piscine",
+  "definition": "Bassin artificiel étanche, revêtu de carrelage, de liner ou d'enduit, aménagé pour la baignade.",
+  "requetes": [
+   "swimming pool villa",
+   "piscine",
+   "incategory:\"Swimming pools\""
+  ]
+ },
+ {
+  "id": "piscine-a-debordement",
+  "terme": "la piscine à débordement",
+  "definition": "Piscine dont l'eau déborde sur un ou plusieurs bords en une lame continue, donnant l'illusion qu'elle se prolonge dans le paysage.",
+  "requetes": [
+   "infinity pool",
+   "piscine à débordement",
+   "infinity edge pool"
+  ]
+ },
+ {
+  "id": "margelle",
+  "terme": "la margelle",
+  "definition": "Rebord en pierre, béton ou carrelage qui couronne le bord du bassin d'une piscine.",
+  "requetes": [
+   "pool coping",
+   "margelle piscine",
+   "swimming pool coping stone"
+  ]
+ },
+ {
+  "id": "plage-de-piscine",
+  "terme": "la plage de piscine",
+  "definition": "Surface dallée ou en bois qui entoure le bassin d'une piscine.",
+  "requetes": [
+   "pool deck",
+   "plage de piscine",
+   "pool deck paving"
+  ]
+ },
+ {
+  "id": "skimmer",
+  "terme": "le skimmer",
+  "definition": "Bouche rectangulaire placée en haut de la paroi d'une piscine, qui aspire l'eau de surface vers la filtration.",
+  "requetes": [
+   "pool skimmer",
+   "skimmer piscine",
+   "swimming pool skimmer opening"
+  ]
+ },
+ {
+  "id": "echelle-de-piscine",
+  "terme": "l'échelle de piscine",
+  "definition": "Échelle en tubes d'inox recourbés, fixée au bord du bassin, pour entrer et sortir de l'eau.",
+  "requetes": [
+   "pool ladder stainless",
+   "échelle de piscine",
+   "swimming pool ladder"
+  ]
+ },
+ {
+  "id": "pediluve",
+  "terme": "le pédiluve",
+  "definition": "Petit bassin peu profond où l'on se lave les pieds avant d'accéder à une piscine.",
+  "requetes": [
+   "footbath pool",
+   "pédiluve",
+   "foot bath swimming pool entrance"
+  ]
+ },
+ {
+  "id": "mosquee-soudano-sahelienne",
+  "terme": "la mosquée soudano-sahélienne",
+  "definition": "Mosquée en banco aux murs épais rythmés de contreforts et de pinacles, hérissée de torons.",
+  "requetes": [
+   "Great Mosque of Djenné",
+   "sudano-sahelian mosque",
+   "mosquée en banco Mali"
+  ]
+ },
+ {
+  "id": "voute-nubienne",
+  "terme": "la voûte nubienne",
+  "definition": "Voûte en briques de terre crue montée sans coffrage, par rangs inclinés, utilisée dans le Sahel pour couvrir des maisons.",
+  "requetes": [
+   "nubian vault Burkina Faso",
+   "voûte nubienne",
+   "nubian vault construction"
+  ]
+ },
+ {
+  "id": "laterite",
+  "terme": "la latérite",
+  "definition": "Terre ou roche rouge riche en fer, très répandue en Afrique de l'Ouest, utilisée en remblai, en piste ou en moellons.",
+  "requetes": [
+   "laterite soil red",
+   "laterite Senegal",
+   "latérite"
+  ]
+ },
+ {
+  "id": "piste-lateritique",
+  "terme": "la piste latéritique",
+  "definition": "Route en terre rouge compactée, typique des campagnes d'Afrique de l'Ouest.",
+  "requetes": [
+   "laterite road Africa",
+   "red dirt road Senegal",
+   "piste en latérite"
+  ]
+ },
+ {
+  "id": "pierre-de-laterite",
+  "terme": "la pierre de latérite",
+  "definition": "Bloc de latérite taillé, rougeâtre et alvéolé, maçonné en murs apparents.",
+  "requetes": [
+   "laterite blocks wall",
+   "laterite stone building",
+   "mur en latérite"
+  ]
+ },
+ {
+  "id": "crinting",
+  "terme": "le crinting",
+  "definition": "Panneau de lattes de bambou ou de nervures de rônier tressées, utilisé au Sénégal en palissade, en clôture ou en paroi de case.",
+  "requetes": [
+   "crinting Sénégal",
+   "woven fence Senegal",
+   "palissade crinting"
+  ]
+ },
+ {
+  "id": "paillote",
+  "terme": "la paillote",
+  "definition": "Abri léger à toit de paille ou de palmes sur poteaux de bois, courant sur les plages et dans les cours.",
+  "requetes": [
+   "paillote plage Sénégal",
+   "thatched beach hut Africa",
+   "straw shelter beach"
+  ]
+ },
+ {
+  "id": "grenier-a-mil",
+  "terme": "le grenier à mil",
+  "definition": "Petite construction surélevée en terre ou en paille tressée, coiffée d'un toit conique, où l'on stocke le mil.",
+  "requetes": [
+   "granary Senegal village",
+   "grenier à mil",
+   "millet granary Africa"
+  ]
+ },
+ {
+  "id": "grenier-sur-pilotis",
+  "terme": "le grenier sur pilotis",
+  "definition": "Grenier à mil en paille dressé sur pilotis au-dessus de l'eau, comme ceux de Fadiouth en pays sérère.",
+  "requetes": [
+   "Fadiouth granaries",
+   "greniers sur pilotis Fadiouth",
+   "Joal-Fadiouth granaries stilts"
+  ]
+ },
+ {
+  "id": "ronier",
+  "terme": "le rônier",
+  "definition": "Palmier dont le stipe, très résistant aux termites, est débité en lattes et en poutres pour la charpente.",
+  "requetes": [
+   "borassus palm",
+   "rônier Sénégal",
+   "Borassus aethiopum"
+  ]
+ },
+ {
+  "id": "typha",
+  "terme": "le typha",
+  "definition": "Roseau des marais du fleuve Sénégal, transformé en panneaux isolants ou en bottes pour la construction.",
+  "requetes": [
+   "typha building material Senegal",
+   "panneaux typha",
+   "typha australis"
+  ]
+ },
+ {
+  "id": "tata-somba",
+  "terme": "le tata somba",
+  "definition": "Maison-forteresse en terre à étage des Somba (Betammaribé) du nord du Bénin et du Togo, aux tourelles cylindriques coiffées de toits coniques de paille.",
+  "requetes": [
+   "tata somba",
+   "Koutammakou",
+   "takienta house"
+  ]
+ },
+ {
+  "id": "case-kassena",
+  "terme": "la case kassena",
+  "definition": "Case en terre du pays kassena (Tiébélé, Burkina Faso) aux murs couverts de motifs géométriques peints en noir, blanc et rouge.",
+  "requetes": [
+   "Tiébélé",
+   "kassena painted house",
+   "Tiebele painted houses"
+  ]
+ },
+ {
+  "id": "ginna",
+  "terme": "la ginna",
+  "definition": "Grande maison du patriarche d'un lignage dogon, dont la façade de terre est percée de rangées de petites niches.",
+  "requetes": [
+   "ginna Dogon",
+   "Dogon ginna house facade",
+   "ginna maison dogon"
+  ]
+ },
+ {
+  "id": "porte-dogon",
+  "terme": "la porte dogon",
+  "definition": "Petite porte de bois sculptée de figures en relief qui ferme un grenier ou une maison en pays dogon.",
+  "requetes": [
+   "Dogon door carved",
+   "porte dogon sculptée",
+   "Dogon granary door"
+  ]
+ },
+ {
+  "id": "case-a-etage",
+  "terme": "la case à étage",
+  "definition": "Grande habitation diola en banco à deux niveaux, aux murs épais et au toit de chaume, typique de Mlomp en Casamance.",
+  "requetes": [
+   "case à étage Mlomp",
+   "Mlomp Casamance",
+   "two-storey mud house Casamance"
+  ]
+ },
+ {
+  "id": "facade-toucouleur",
+  "terme": "la façade toucouleur",
+  "definition": "Façade de maison en banco de Djenné, de style dit toucouleur, marquée par un portail central en saillie flanqué de pilastres et couronné de pinacles.",
+  "requetes": [
+   "Djenné house facade",
+   "Djenné architecture house",
+   "maison Djenné façade"
+  ]
+ },
+ {
+  "id": "concession",
+  "terme": "la concession",
+  "definition": "Ensemble de cases ou de bâtiments d'une même famille, groupés autour d'une cour et clos par un mur ou une palissade.",
+  "requetes": [
+   "family compound Senegal village",
+   "concession village Sénégal",
+   "African compound aerial view"
+  ]
+ },
+ {
+  "id": "bas-relief-d-abomey",
+  "terme": "le bas-relief d'Abomey",
+  "definition": "Bas-relief polychrome modelé dans les murs en terre des palais royaux d'Abomey, au Bénin.",
+  "requetes": [
+   "Abomey bas-relief",
+   "bas-reliefs palais Abomey",
+   "Royal Palaces of Abomey relief"
+  ]
+ },
+ {
+  "id": "maison-de-signare",
+  "terme": "la maison de signare",
+  "definition": "Maison coloniale de Gorée ou de Saint-Louis à étage sur rez-de-chaussée, avec escalier extérieur, galerie et toit de tuiles.",
+  "requetes": [
+   "maison de signare",
+   "Gorée colonial house",
+   "Saint-Louis Senegal colonial house"
+  ]
+ },
+ {
+  "id": "maison-coloniale",
+  "terme": "la maison coloniale",
+  "definition": "Maison à étage enduite de couleurs, à balcon ou galerie de bois ou de fer et à persiennes, typique de Saint-Louis, de Gorée et du Plateau à Dakar.",
+  "requetes": [
+   "Saint-Louis Senegal colonial architecture",
+   "Gorée island houses",
+   "maison coloniale Saint-Louis"
+  ]
+ },
+ {
+  "id": "minaret",
+  "terme": "le minaret",
+  "definition": "Tour élancée d'une mosquée, d'où est lancé l'appel à la prière.",
+  "requetes": [
+   "incategory:\"Minarets\"",
+   "mosque minaret Dakar",
+   "minaret Senegal"
+  ]
+ },
+ {
+  "id": "crepissage",
+  "terme": "le crépissage",
+  "definition": "Réfection collective, à la main, de l'enduit de banco d'une mosquée soudano-sahélienne, comme la fête annuelle de la grande mosquée de Djenné.",
+  "requetes": [
+   "crépissage Djenné",
+   "Djenne mosque replastering",
+   "Great Mosque of Djenné plastering festival"
+  ]
+ }
+]

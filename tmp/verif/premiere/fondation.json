@@ -1,0 +1,53 @@
+{
+  "termId": "fondation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fondations anciennes en brique et pieux bois sous la gare, avec un ouvrier à genoux sur un sol de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Vestiges mêlés d'étaiements et de dalle ; ambigu avec pieu, radier, semelle."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fouille profonde avec poteaux et armatures en attente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Los Angeles, États-Unis",
+      "note": "Scène confuse, pourrait illustrer fouille, pieu, semelle ; pas claire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Massifs de maçonnerie en brique sous la gare, ouvrier au pied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Ambigu et complexe (étaiements)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Camion malaxeur de béton dans la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taipei, Taïwan",
+      "note": "Pas de fondation visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Camion pompe à béton sur un chantier, au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enfield, Nouvelle-Écosse, Canada",
+      "note": "Fondation trop petite, camion dominant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Camion pompe et malaxeur au loin sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enfield, Nouvelle-Écosse, Canada",
+      "note": "Fondation trop petite."
+    }
+  ]
+}

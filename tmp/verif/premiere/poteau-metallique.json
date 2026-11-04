@@ -1,0 +1,53 @@
+{
+  "termId": "poteau-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dessin technique de plaque de base de colonne (planche ancienne).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessin technique de plaque de base de colonne (planche ancienne).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Dessin technique de plaque de base de colonne (planche ancienne).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Dessin technique de plaque de base de colonne (planche ancienne).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Dessin technique de plaque de base de colonne (planche ancienne).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Dessin technique de plaque de base de colonne (planche ancienne).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "mur-de-remplissage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petite construction à ossature béton avec remplissage de briques apparentes, tôles en toiture et en fermeture de baie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Meghalaya, Inde",
+      "note": "Remplissage visible mais petit, inachevé et mêlé de tôles et planches ; pourrait être lu comme maçonnerie de briques : doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Semelle de fondation bétonnée contre un mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet : fondation."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chantier de terrassement avec tas de gravats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chantier de terrassement avec murs bas de briques rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Immeuble endommagé par un séisme, remplissage de briques tombé entre les poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Düzce, Turquie",
+      "note": "Remplissage visible mais endommagé, peu lisible ; trop de confusions."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Château de pierre avec ruines et pelouse, couleurs fortement retouchées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leybourne, Kent",
+      "note": "Hors sujet, image retouchée."
+    }
+  ]
+}

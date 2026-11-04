@@ -1,0 +1,53 @@
+{
+  "termId": "maconnerie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'un mur en bois cordé (rondins) dans un mortier clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur en bois cordé, ne représente pas la maçonnerie en général."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Long mur de pierre contrebuté par des massifs de béton, devant un parking gravillonné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur en moellons avec contreforts : ambigu avec des termes voisins."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cabane en bois cordé avec remplissage de pierres sombres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Construction vernaculaire atypique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de briques rouges en gros plan, appareil irrégulier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pourrait illustrer assise, panneresse, joint ou appareil : trop de confusions voisines."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur en bois cordé avec bouteilles de verre dans un enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur en bois cordé avec bouteilles de verre dans un enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

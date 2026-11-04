@@ -1,0 +1,53 @@
+{
+  "termId": "tranchee-de-fondation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Longue tranchée étroite creusée dans la terre sur un lotissement, avec béton au fond et treillis visible, maisons en arrière-plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Angleterre, Royaume-Uni",
+      "note": "Tranchée longue et étroite en plein sol, typique d'une tranchée de fondation ; dominante dans l'image."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tranchée au bord d'un chemin de chantier, fond en béton clair, ruban vert et cône.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranchée de mur anti-crue en bord de route, sa fonction de fondation n'est pas évidente."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photographie ancienne noir et blanc d'une profonde excavation rocheuse de barrage avec ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grande fouille de barrage, pas une tranchée de fondation de bâtiment."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Compacteur à rouleaux jaune sur un terrain de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin, pas une tranchée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan sur les rouleaux boueux d'un compacteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin, pas une tranchée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Reproduction d'un album ancien montrant la vue générale d'un grand chantier de barrage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue éloignée, illisible, reproduction."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "beton",
+    "terme": "le béton",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau fait de ciment, de sable, de gravier et d'eau qui durcit en une masse de pierre artificielle grise.",
+    "priorite": 1,
+    "requetes": [
+      "concrete wall",
+      "concrete surface texture",
+      "béton"
+    ],
+    "incompatibles": [
+      "beton-brut"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Old concrete wall.jpg",
+      "description": "Old concrete wall",
+      "categories": [
+        "Featured pictures of Mexico",
+        "Sticks",
+        "Wall plugs",
+        "Urban decay",
+        "Location possible",
+        "Self-published work",
+        "Information field template with formatting",
+        "Hidden faces in objects or places",
+        "Mexico photographs taken on 2010-06-13",
+        "Buildings in León, Guanajuato",
+        "Concrete walls in Mexico",
+        "Featured pictures of walls"
+      ],
+      "auteur": "Tomascastelazo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_concrete_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Old_concrete_wall.jpg/1280px-Old_concrete_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4368,
+      "hauteur": 2912
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Concrete wall - Arlington, MA - 01.jpg",
+      "description": "Concrete wall - Arlington, Massachusetts, USA.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2024-08-27",
+        "Concrete walls in Arlington, Massachusetts"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_wall_-_Arlington,_MA_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Concrete_wall_-_Arlington%2C_MA_-_01.jpg/1280px-Concrete_wall_-_Arlington%2C_MA_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3905,
+      "hauteur": 2196
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ambigram bastard, red text graffiti on concrete wall.jpg",
+      "description": "Ambigramme bastard ( connard en anglais), graffiti en lettres rouges sur un mur en béton. Symétrie miroir (d'axe vertical). Photomontage.",
+      "categories": [
+        "English-language profanity",
+        "Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM",
+        "Self-published work",
+        "Graffiti on walls",
+        "Ambigrams in Polish",
+        "Ambigrams in German",
+        "Ambigrams in English",
+        "English-language graffiti",
+        "Ambigrams in Norwegian",
+        "Ambigrams in Swedish",
+        "Concrete walls in Cambodia",
+        "Ambigrams by Basile Morin",
+        "Files with coordinates missing SDC location of creation",
+        "Laos photographs taken on 2019-10-11",
+        "Photographs by Basile Morin",
+        "Ambigram logos",
+        "Mirror ambigrams (vertical axis)",
+        "Photographs of ambigrams",
+        "Photomontages of art",
+        "Graffiti of profanity",
+        "Bastard (text)"
+      ],
+      "auteur": "Basile Morin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ambigram_bastard,_red_text_graffiti_on_concrete_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ambigram_bastard%2C_red_text_graffiti_on_concrete_wall.jpg/1280px-Ambigram_bastard%2C_red_text_graffiti_on_concrete_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6720,
+      "hauteur": 4480
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Concrete block house wall - Arlington, MA - 01.jpg",
+      "description": "Concrete block house wall - Arlington, Massachusetts, USA.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2023-12-10",
+        "Concrete walls in Arlington, Massachusetts",
+        "Concrete houses in Arlington, Massachusetts"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_block_house_wall_-_Arlington,_MA_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Concrete_block_house_wall_-_Arlington%2C_MA_-_01.jpg/1280px-Concrete_block_house_wall_-_Arlington%2C_MA_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2268
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Concrete block wall - Arlington, MA - 01.jpg",
+      "description": "Concrete block wall - Arlington, Massachusetts, USA.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2024-06-30",
+        "Concrete walls in Arlington, Massachusetts"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_block_wall_-_Arlington,_MA_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Concrete_block_wall_-_Arlington%2C_MA_-_01.jpg/1280px-Concrete_block_wall_-_Arlington%2C_MA_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3937,
+      "hauteur": 2214
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Concrete block wall in Muan in 2026 (1).jpg",
+      "description": "Concrete block wall in Muan in 2026 (1)",
+      "categories": [
+        "Muan",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Concrete block walls in South Korea"
+      ],
+      "auteur": "Sadopaul",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_block_wall_in_Muan_in_2026_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Concrete_block_wall_in_Muan_in_2026_%281%29.jpg/1280px-Concrete_block_wall_in_Muan_in_2026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "gravier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Page dactylographiée d'un catalogue de film.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Document texte, hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Page dactylographiée d'un catalogue de film.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Document texte, hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Page dactylographiée d'un catalogue de film.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Document texte, hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Page dactylographiée d'un catalogue de film.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Document texte, hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Page dactylographiée d'un catalogue de film.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Document texte, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Page dactylographiée d'un catalogue de film.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Document texte, hors sujet."
+    }
+  ]
+}

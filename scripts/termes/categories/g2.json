@@ -1,0 +1,991 @@
+{
+ "colonne": [
+  "Category:Columns",
+  "Category:Column capitals",
+  "Category:Colonnades"
+ ],
+ "arc-boutant": [
+  "Category:Flying buttresses",
+  "Category:Buttresses"
+ ],
+ "contrefort": [
+  "Category:Buttresses",
+  "Category:Buttresses in France",
+  "Category:Church buttresses"
+ ],
+ "arc": [
+  "Category:Arches",
+  "Category:Round arches",
+  "Category:Arches (architecture)"
+ ],
+ "voute": [
+  "Category:Vaults",
+  "Category:Barrel vaults",
+  "Category:Rib vaults"
+ ],
+ "cle-de-voute": [
+  "Category:Keystones",
+  "Category:Vault bosses",
+  "Category:Arches"
+ ],
+ "coupole": [
+  "Category:Domes",
+  "Category:Interiors of domes",
+  "Category:Dome ceilings"
+ ],
+ "corbeau": [
+  "Category:Corbels",
+  "Category:Corbel tables",
+  "Category:Stone corbels"
+ ],
+ "ferme": [
+  "Category:Roof trusses",
+  "Category:Timber roof trusses",
+  "Category:Trusses"
+ ],
+ "colombage": [
+  "Category:Half-timbered buildings",
+  "Category:Half-timbered houses",
+  "Category:Timber framing"
+ ],
+ "pilotis": [
+  "Category:Pilotis",
+  "Category:Buildings on stilts",
+  "Category:Stilt houses"
+ ],
+ "parpaing": [
+  "Category:Concrete blocks",
+  "Category:Concrete block walls",
+  "Category:Concrete blocks in Senegal"
+ ],
+ "fondation": [
+  "Category:Foundations",
+  "Category:Building foundations",
+  "Category:Foundations (buildings and structures)"
+ ],
+ "semelle-filante": [
+  "Category:Strip foundations",
+  "Category:Foundations",
+  "Category:Foundation construction"
+ ],
+ "semelle-isolee": [
+  "Category:Pad foundations",
+  "Category:Foundations",
+  "Category:Foundation construction"
+ ],
+ "radier": [
+  "Category:Raft foundations",
+  "Category:Foundations",
+  "Category:Foundation construction"
+ ],
+ "pieu": [
+  "Category:Piles",
+  "Category:Pile driving",
+  "Category:Concrete piles"
+ ],
+ "longrine": [
+  "Category:Foundation construction",
+  "Category:Ground beams",
+  "Category:Foundations"
+ ],
+ "beton-de-proprete": [
+  "Category:Concrete foundations",
+  "Category:Foundation construction",
+  "Category:Concrete"
+ ],
+ "beton-cyclopeen": [
+  "Category:Cyclopean concrete",
+  "Category:Concrete",
+  "Category:Concrete foundations"
+ ],
+ "arase-etanche": [
+  "Category:Damp proof courses",
+  "Category:Rising damp",
+  "Category:Masonry"
+ ],
+ "vide-sanitaire": [
+  "Category:Crawl spaces",
+  "Category:Foundations",
+  "Category:Foundation construction"
+ ],
+ "fouille": [
+  "Category:Excavations (construction)",
+  "Category:Foundation excavations",
+  "Category:Construction sites"
+ ],
+ "tranchee-de-fondation": [
+  "Category:Foundation trenches",
+  "Category:Trenches",
+  "Category:Foundation construction"
+ ],
+ "deblai": [
+  "Category:Earthworks",
+  "Category:Excavated soil",
+  "Category:Spoil heaps"
+ ],
+ "remblai": [
+  "Category:Embankments",
+  "Category:Earthworks",
+  "Category:Backfill"
+ ],
+ "blindage-de-fouille": [
+  "Category:Trench shoring",
+  "Category:Shoring",
+  "Category:Trenches"
+ ],
+ "film-polyethylene": [
+  "Category:Polyethylene films",
+  "Category:Vapor barriers",
+  "Category:Plastic sheeting"
+ ],
+ "herisson": [
+  "Category:Gravel",
+  "Category:Crushed stone",
+  "Category:Foundation construction"
+ ],
+ "paroi-moulee": [
+  "Category:Diaphragm walls",
+  "Category:Slurry walls",
+  "Category:Retaining walls"
+ ],
+ "paroi-berlinoise": [
+  "Category:Soldier pile walls",
+  "Category:Retaining walls",
+  "Category:Shoring"
+ ],
+ "palplanche": [
+  "Category:Sheet piles",
+  "Category:Sheet piling",
+  "Category:Steel sheet piles"
+ ],
+ "badigeon-bitumineux": [
+  "Category:Bitumen",
+  "Category:Waterproofing",
+  "Category:Foundation construction"
+ ],
+ "plot-de-beton": [
+  "Category:Concrete foundations",
+  "Category:Concrete piers",
+  "Category:Foundation construction"
+ ],
+ "beton-frais": [
+  "Category:Fresh concrete",
+  "Category:Concrete pouring",
+  "Category:Concrete"
+ ],
+ "betonnage": [
+  "Category:Concrete pouring",
+  "Category:Concrete construction",
+  "Category:Concrete work"
+ ],
+ "ferraillage": [
+  "Category:Rebar",
+  "Category:Reinforced concrete",
+  "Category:Rebar in Senegal"
+ ],
+ "ferraillage-de-dalle": [
+  "Category:Rebar",
+  "Category:Reinforced concrete slabs",
+  "Category:Reinforced concrete"
+ ],
+ "cage-d-armature": [
+  "Category:Rebar cages",
+  "Category:Rebar",
+  "Category:Reinforced concrete"
+ ],
+ "fer-a-beton": [
+  "Category:Rebar",
+  "Category:Steel bars",
+  "Category:Reinforcing steel"
+ ],
+ "rond-lisse": [
+  "Category:Steel bars",
+  "Category:Rebar",
+  "Category:Round bars"
+ ],
+ "cadre-d-armature": [
+  "Category:Rebar",
+  "Category:Rebar cages",
+  "Category:Reinforced concrete columns"
+ ],
+ "etrier": [
+  "Category:Rebar",
+  "Category:Rebar cages",
+  "Category:Reinforced concrete beams"
+ ],
+ "epingle": [
+  "Category:Rebar",
+  "Category:Reinforced concrete",
+  "Category:Reinforcing steel"
+ ],
+ "crochet-d-armature": [
+  "Category:Rebar",
+  "Category:Reinforcing steel",
+  "Category:Reinforced concrete"
+ ],
+ "treillis-soude": [
+  "Category:Welded wire mesh",
+  "Category:Reinforcing mesh",
+  "Category:Rebar"
+ ],
+ "armature-en-attente": [
+  "Category:Rebar",
+  "Category:Reinforced concrete",
+  "Category:Reinforced concrete columns"
+ ],
+ "amorce-de-poteau": [
+  "Category:Rebar",
+  "Category:Reinforced concrete columns",
+  "Category:Reinforced concrete"
+ ],
+ "recouvrement-d-armatures": [
+  "Category:Rebar",
+  "Category:Reinforced concrete",
+  "Category:Reinforcing steel"
+ ],
+ "coupleur-d-armature": [
+  "Category:Rebar",
+  "Category:Rebar couplers",
+  "Category:Reinforcing steel"
+ ],
+ "ligature": [
+  "Category:Rebar",
+  "Category:Wire",
+  "Category:Reinforced concrete"
+ ],
+ "cale-d-armature": [
+  "Category:Rebar spacers",
+  "Category:Rebar",
+  "Category:Reinforced concrete"
+ ],
+ "chaise-d-armature": [
+  "Category:Rebar chairs",
+  "Category:Rebar",
+  "Category:Reinforced concrete"
+ ],
+ "reprise-de-betonnage": [
+  "Category:Construction joints",
+  "Category:Concrete",
+  "Category:Concrete construction"
+ ],
+ "nid-de-cailloux": [
+  "Category:Concrete defects",
+  "Category:Concrete",
+  "Category:Concrete damage"
+ ],
+ "corrosion-des-armatures": [
+  "Category:Concrete spalling",
+  "Category:Rusty rebar",
+  "Category:Concrete damage"
+ ],
+ "epaufrure": [
+  "Category:Concrete spalling",
+  "Category:Concrete damage",
+  "Category:Concrete"
+ ],
+ "beton-projete": [
+  "Category:Shotcrete",
+  "Category:Concrete spraying",
+  "Category:Concrete"
+ ],
+ "bande-d-arret-d-eau": [
+  "Category:Waterstops",
+  "Category:Concrete joints",
+  "Category:Waterproofing"
+ ],
+ "reservation": [
+  "Category:Concrete walls",
+  "Category:Concrete construction",
+  "Category:Pipe penetrations"
+ ],
+ "tremie": [
+  "Category:Floor openings",
+  "Category:Concrete slabs",
+  "Category:Concrete construction"
+ ],
+ "hourdis": [
+  "Category:Hollow clay blocks",
+  "Category:Concrete slabs",
+  "Category:Beam and block floors"
+ ],
+ "poutrelle": [
+  "Category:Precast concrete",
+  "Category:Beam and block floors",
+  "Category:Concrete beams"
+ ],
+ "table-de-compression": [
+  "Category:Concrete slabs",
+  "Category:Beam and block floors",
+  "Category:Concrete floors"
+ ],
+ "predalle": [
+  "Category:Precast concrete slabs",
+  "Category:Precast concrete",
+  "Category:Concrete slabs"
+ ],
+ "chainage": [
+  "Category:Tie beams",
+  "Category:Reinforced concrete",
+  "Category:Masonry"
+ ],
+ "chainage-horizontal": [
+  "Category:Tie beams",
+  "Category:Concrete beams",
+  "Category:Masonry"
+ ],
+ "chainage-vertical": [
+  "Category:Reinforced concrete columns",
+  "Category:Masonry",
+  "Category:Reinforced concrete"
+ ],
+ "linteau-coule-en-place": [
+  "Category:Lintels",
+  "Category:Concrete beams",
+  "Category:Formwork"
+ ],
+ "linteau-prefabrique": [
+  "Category:Lintels",
+  "Category:Precast concrete",
+  "Category:Concrete lintels"
+ ],
+ "maconnerie": [
+  "Category:Masonry",
+  "Category:Masonry walls",
+  "Category:Bricklaying"
+ ],
+ "mur-de-remplissage": [
+  "Category:Masonry walls",
+  "Category:Concrete frame buildings",
+  "Category:Brick walls"
+ ],
+ "bloc-plein": [
+  "Category:Concrete blocks",
+  "Category:Concrete masonry units",
+  "Category:Concrete blocks in Senegal"
+ ],
+ "bloc-a-bancher": [
+  "Category:Insulating concrete forms",
+  "Category:Concrete blocks",
+  "Category:Formwork"
+ ],
+ "bloc-en-u": [
+  "Category:Concrete blocks",
+  "Category:Lintels",
+  "Category:Concrete masonry units"
+ ],
+ "brique-creuse": [
+  "Category:Hollow bricks",
+  "Category:Clay bricks",
+  "Category:Bricks"
+ ],
+ "planelle": [
+  "Category:Bricks",
+  "Category:Clay bricks",
+  "Category:Hollow bricks"
+ ],
+ "panneresse": [
+  "Category:Brick bonds",
+  "Category:Bricks",
+  "Category:Brick walls"
+ ],
+ "boutisse": [
+  "Category:Brick bonds",
+  "Category:Bricks",
+  "Category:Brick walls"
+ ],
+ "appareil-en-panneresses": [
+  "Category:Stretcher bond",
+  "Category:Brick bonds",
+  "Category:Brick walls"
+ ],
+ "appareil-flamand": [
+  "Category:Flemish bond",
+  "Category:Brick bonds",
+  "Category:Brick walls"
+ ],
+ "appareil-anglais": [
+  "Category:English bond",
+  "Category:Brick bonds",
+  "Category:Brick walls"
+ ],
+ "appareil-en-epi": [
+  "Category:Herringbone brickwork",
+  "Category:Opus spicatum",
+  "Category:Brick bonds"
+ ],
+ "opus-incertum": [
+  "Category:Opus incertum",
+  "Category:Roman masonry",
+  "Category:Masonry"
+ ],
+ "appareil-cyclopeen": [
+  "Category:Cyclopean masonry",
+  "Category:Polygonal masonry",
+  "Category:Masonry"
+ ],
+ "appareil-reticule": [
+  "Category:Opus reticulatum",
+  "Category:Roman masonry",
+  "Category:Masonry"
+ ],
+ "assise": [
+  "Category:Courses (masonry)",
+  "Category:Masonry",
+  "Category:Brick walls"
+ ],
+ "arase": [
+  "Category:Masonry",
+  "Category:Concrete block walls",
+  "Category:Brick walls"
+ ],
+ "joint-de-maconnerie": [
+  "Category:Mortar joints",
+  "Category:Pointing (masonry)",
+  "Category:Brick walls"
+ ],
+ "joint-creux": [
+  "Category:Mortar joints",
+  "Category:Pointing (masonry)",
+  "Category:Brickwork"
+ ],
+ "lit-de-mortier": [
+  "Category:Mortar",
+  "Category:Bricklaying",
+  "Category:Masonry"
+ ],
+ "mortier": [
+  "Category:Mortar",
+  "Category:Cement mortar",
+  "Category:Mortar mixing"
+ ],
+ "gachage": [
+  "Category:Concrete mixing",
+  "Category:Mortar mixing",
+  "Category:Cement mixing"
+ ],
+ "mur-en-pierre-seche": [
+  "Category:Dry stone walls",
+  "Category:Drystone",
+  "Category:Stone walls"
+ ],
+ "mur-en-moellons": [
+  "Category:Rubble masonry",
+  "Category:Stone walls",
+  "Category:Masonry"
+ ],
+ "gobetis": [
+  "Category:Plastering",
+  "Category:Render",
+  "Category:Stucco"
+ ],
+ "saignee": [
+  "Category:Wall chases",
+  "Category:Masonry",
+  "Category:Plastering"
+ ],
+ "trou-de-boulin": [
+  "Category:Putlog holes",
+  "Category:Scaffolding",
+  "Category:Stone walls"
+ ],
+ "dallage": [
+  "Category:Concrete slabs",
+  "Category:Concrete floors",
+  "Category:Slab-on-grade"
+ ],
+ "chape": [
+  "Category:Screeds",
+  "Category:Concrete floors",
+  "Category:Floor construction"
+ ],
+ "chape-liquide": [
+  "Category:Screeds",
+  "Category:Concrete floors",
+  "Category:Floor construction"
+ ],
+ "joint-de-fractionnement": [
+  "Category:Control joints",
+  "Category:Concrete slabs",
+  "Category:Concrete joints"
+ ],
+ "ciment": [
+  "Category:Cement",
+  "Category:Cement bags",
+  "Category:Portland cement"
+ ],
+ "sable": [
+  "Category:Sand",
+  "Category:Sand piles",
+  "Category:Building sand"
+ ],
+ "gravier": [
+  "Category:Gravel",
+  "Category:Crushed stone",
+  "Category:Aggregates"
+ ],
+ "poteau": [
+  "Category:Reinforced concrete columns",
+  "Category:Concrete columns",
+  "Category:Columns"
+ ],
+ "poutre": [
+  "Category:Concrete beams",
+  "Category:Beams",
+  "Category:Reinforced concrete"
+ ],
+ "dalle": [
+  "Category:Concrete slabs",
+  "Category:Reinforced concrete",
+  "Category:Concrete floors"
+ ],
+ "plancher-a-corps-creux": [
+  "Category:Beam and block floors",
+  "Category:Hollow clay blocks",
+  "Category:Concrete floors"
+ ],
+ "dalle-nervuree": [
+  "Category:Ribbed slabs",
+  "Category:Concrete slabs",
+  "Category:Concrete ceilings"
+ ],
+ "dalle-caissonnee": [
+  "Category:Waffle slabs",
+  "Category:Coffered ceilings",
+  "Category:Concrete ceilings"
+ ],
+ "dalle-champignon": [
+  "Category:Flat slabs",
+  "Category:Mushroom columns",
+  "Category:Concrete slabs"
+ ],
+ "dalle-alveolee": [
+  "Category:Hollow-core slabs",
+  "Category:Precast concrete slabs",
+  "Category:Precast concrete"
+ ],
+ "plancher-collaborant": [
+  "Category:Composite floors",
+  "Category:Steel decking",
+  "Category:Metal decking"
+ ],
+ "voile": [
+  "Category:Concrete walls",
+  "Category:Shear walls",
+  "Category:Reinforced concrete"
+ ],
+ "mur-porteur": [
+  "Category:Load-bearing walls",
+  "Category:Masonry walls",
+  "Category:Walls"
+ ],
+ "pilier": [
+  "Category:Pillars",
+  "Category:Piers (architecture)",
+  "Category:Stone pillars"
+ ],
+ "portique": [
+  "Category:Portal frames",
+  "Category:Steel frame buildings",
+  "Category:Steel structures"
+ ],
+ "ossature-en-beton-arme": [
+  "Category:Reinforced concrete frame buildings",
+  "Category:Concrete frame buildings",
+  "Category:Reinforced concrete"
+ ],
+ "ossature-metallique": [
+  "Category:Steel frame buildings",
+  "Category:Steel frames",
+  "Category:Steel structures"
+ ],
+ "ossature-bois": [
+  "Category:Timber framing",
+  "Category:Timber frame houses",
+  "Category:Wood frame construction"
+ ],
+ "poteau-metallique": [
+  "Category:Steel columns",
+  "Category:Column bases",
+  "Category:Steel structures"
+ ],
+ "profile-en-i": [
+  "Category:I-beams",
+  "Category:Steel beams",
+  "Category:Steel profiles"
+ ],
+ "profile-en-h": [
+  "Category:H-beams",
+  "Category:Steel beams",
+  "Category:Steel columns"
+ ],
+ "profile-en-u": [
+  "Category:Steel channels",
+  "Category:Steel profiles",
+  "Category:Steel beams"
+ ],
+ "corniere": [
+  "Category:Angle irons",
+  "Category:Steel angles",
+  "Category:Steel profiles"
+ ],
+ "poutre-treillis": [
+  "Category:Truss girders",
+  "Category:Steel trusses",
+  "Category:Trusses"
+ ],
+ "poutre-vierendeel": [
+  "Category:Vierendeel trusses",
+  "Category:Vierendeel bridges",
+  "Category:Trusses"
+ ],
+ "ferme-metallique": [
+  "Category:Steel roof trusses",
+  "Category:Steel trusses",
+  "Category:Roof trusses"
+ ],
+ "structure-tridimensionnelle": [
+  "Category:Space frames",
+  "Category:Space frame roofs",
+  "Category:Steel structures"
+ ],
+ "contreventement": [
+  "Category:Bracing",
+  "Category:Steel bracing",
+  "Category:Steel frame buildings"
+ ],
+ "croix-de-saint-andre": [
+  "Category:Saint Andrew's crosses",
+  "Category:X bracing",
+  "Category:Bracing"
+ ],
+ "tirant": [
+  "Category:Tie rods",
+  "Category:Tie bars",
+  "Category:Arches"
+ ],
+ "ancre": [
+  "Category:Wall anchors",
+  "Category:Tie rods",
+  "Category:Anchor plates"
+ ],
+ "hauban": [
+  "Category:Stay cables",
+  "Category:Cable-stayed structures",
+  "Category:Cables"
+ ],
+ "platine": [
+  "Category:Column bases",
+  "Category:Base plates",
+  "Category:Steel columns"
+ ],
+ "tige-d-ancrage": [
+  "Category:Anchor bolts",
+  "Category:Foundation bolts",
+  "Category:Bolts"
+ ],
+ "assemblage-boulonne": [
+  "Category:Bolted joints",
+  "Category:Steel connections",
+  "Category:Bolts"
+ ],
+ "assemblage-soude": [
+  "Category:Welded joints",
+  "Category:Welding",
+  "Category:Steel connections"
+ ],
+ "gousset": [
+  "Category:Gusset plates",
+  "Category:Steel connections",
+  "Category:Steel structures"
+ ],
+ "jarret": [
+  "Category:Portal frames",
+  "Category:Steel frame buildings",
+  "Category:Steel structures"
+ ],
+ "appareil-d-appui": [
+  "Category:Bridge bearings",
+  "Category:Elastomeric bearings",
+  "Category:Bearings"
+ ],
+ "joint-de-dilatation": [
+  "Category:Expansion joints",
+  "Category:Expansion joints in buildings",
+  "Category:Bridge expansion joints"
+ ],
+ "porte-a-faux": [
+  "Category:Cantilevers",
+  "Category:Cantilevered buildings",
+  "Category:Cantilever balconies"
+ ],
+ "retombee-de-poutre": [
+  "Category:Concrete beams",
+  "Category:Beams",
+  "Category:Concrete ceilings"
+ ],
+ "poutre-de-rive": [
+  "Category:Concrete beams",
+  "Category:Beams",
+  "Category:Reinforced concrete"
+ ],
+ "solive": [
+  "Category:Joists",
+  "Category:Floor joists",
+  "Category:Wooden beams"
+ ],
+ "chevetre": [
+  "Category:Joists",
+  "Category:Floor joists",
+  "Category:Timber framing"
+ ],
+ "coque-en-beton": [
+  "Category:Concrete shells",
+  "Category:Shell structures",
+  "Category:Concrete roofs"
+ ],
+ "claveau": [
+  "Category:Voussoirs",
+  "Category:Arches",
+  "Category:Stone arches"
+ ],
+ "sommier": [
+  "Category:Arches",
+  "Category:Voussoirs",
+  "Category:Stone arches"
+ ],
+ "intrados": [
+  "Category:Arches",
+  "Category:Soffits",
+  "Category:Stone arches"
+ ],
+ "arc-en-plein-cintre": [
+  "Category:Round arches",
+  "Category:Semicircular arches",
+  "Category:Arches"
+ ],
+ "arc-brise": [
+  "Category:Pointed arches",
+  "Category:Gothic arches",
+  "Category:Arches"
+ ],
+ "arc-surbaisse": [
+  "Category:Segmental arches",
+  "Category:Arches",
+  "Category:Brick arches"
+ ],
+ "arc-outrepasse": [
+  "Category:Horseshoe arches",
+  "Category:Moorish arches",
+  "Category:Arches"
+ ],
+ "arc-de-decharge": [
+  "Category:Relieving arches",
+  "Category:Arches",
+  "Category:Lintels"
+ ],
+ "voute-en-berceau": [
+  "Category:Barrel vaults",
+  "Category:Vaults",
+  "Category:Stone vaults"
+ ],
+ "voute-d-aretes": [
+  "Category:Groin vaults",
+  "Category:Cross vaults",
+  "Category:Vaults"
+ ],
+ "voute-sur-croisee-d-ogives": [
+  "Category:Rib vaults",
+  "Category:Gothic vaults",
+  "Category:Vaults"
+ ],
+ "pendentif": [
+  "Category:Pendentives",
+  "Category:Domes",
+  "Category:Dome interiors"
+ ],
+ "tambour": [
+  "Category:Drums (architecture)",
+  "Category:Dome drums",
+  "Category:Domes"
+ ],
+ "escalier": [
+  "Category:Staircases",
+  "Category:Interior stairs",
+  "Category:Stairs"
+ ],
+ "escalier-droit": [
+  "Category:Straight staircases",
+  "Category:Staircases",
+  "Category:Stairs"
+ ],
+ "escalier-quart-tournant": [
+  "Category:Staircases",
+  "Category:Quarter-turn staircases",
+  "Category:Stairs"
+ ],
+ "escalier-demi-tournant": [
+  "Category:Half-turn staircases",
+  "Category:Staircases",
+  "Category:Stairs"
+ ],
+ "escalier-en-colimacon": [
+  "Category:Spiral staircases",
+  "Category:Newel stairs",
+  "Category:Staircases"
+ ],
+ "escalier-a-double-revolution": [
+  "Category:Double staircases",
+  "Category:Imperial staircases",
+  "Category:Staircases"
+ ],
+ "escalier-a-cremaillere": [
+  "Category:Stairs",
+  "Category:Staircases",
+  "Category:Steel staircases"
+ ],
+ "escalier-en-porte-a-faux": [
+  "Category:Cantilevered staircases",
+  "Category:Staircases",
+  "Category:Stairs"
+ ],
+ "escalier-en-beton": [
+  "Category:Concrete staircases",
+  "Category:Concrete stairs",
+  "Category:Staircases"
+ ],
+ "escalier-metallique": [
+  "Category:Steel staircases",
+  "Category:Metal staircases",
+  "Category:Staircases"
+ ],
+ "escalier-en-bois": [
+  "Category:Wooden staircases",
+  "Category:Wooden stairs",
+  "Category:Staircases"
+ ],
+ "escalier-de-secours": [
+  "Category:Fire escapes",
+  "Category:Fire escape stairs",
+  "Category:Emergency stairs"
+ ],
+ "escalier-escamotable": [
+  "Category:Attic ladders",
+  "Category:Folding stairs",
+  "Category:Loft ladders"
+ ],
+ "echelle-de-meunier": [
+  "Category:Ship's ladders",
+  "Category:Alternating tread stairs",
+  "Category:Stairs"
+ ],
+ "echelle-a-crinoline": [
+  "Category:Caged ladders",
+  "Category:Ladders",
+  "Category:Fixed ladders"
+ ],
+ "escalier-mecanique": [
+  "Category:Escalators",
+  "Category:Escalators in Japan",
+  "Category:Moving stairways"
+ ],
+ "trottoir-roulant": [
+  "Category:Moving walkways",
+  "Category:Moving walkways in airports",
+  "Category:Travelators"
+ ],
+ "marche": [
+  "Category:Stair treads",
+  "Category:Steps",
+  "Category:Stairs"
+ ],
+ "contremarche": [
+  "Category:Stair risers",
+  "Category:Stairs",
+  "Category:Steps"
+ ],
+ "nez-de-marche": [
+  "Category:Stair nosings",
+  "Category:Stairs",
+  "Category:Steps"
+ ],
+ "marche-dansante": [
+  "Category:Winders",
+  "Category:Winder stairs",
+  "Category:Staircases"
+ ],
+ "volee": [
+  "Category:Flights of stairs",
+  "Category:Staircases",
+  "Category:Stairs"
+ ],
+ "palier": [
+  "Category:Stair landings",
+  "Category:Staircases",
+  "Category:Stairs"
+ ],
+ "limon": [
+  "Category:Stair stringers",
+  "Category:Staircases",
+  "Category:Stairs"
+ ],
+ "paillasse": [
+  "Category:Concrete stairs",
+  "Category:Stair soffits",
+  "Category:Staircases"
+ ],
+ "noyau": [
+  "Category:Newel stairs",
+  "Category:Spiral staircases",
+  "Category:Newels"
+ ],
+ "cage-d-escalier": [
+  "Category:Stairwells",
+  "Category:Staircases",
+  "Category:Stair halls"
+ ],
+ "tremie-d-escalier": [
+  "Category:Stairwells",
+  "Category:Staircases",
+  "Category:Floor openings"
+ ],
+ "rampe-d-escalier": [
+  "Category:Stair railings",
+  "Category:Banisters",
+  "Category:Handrails"
+ ],
+ "main-courante": [
+  "Category:Handrails",
+  "Category:Banisters",
+  "Category:Stair railings"
+ ],
+ "barreau-de-rampe": [
+  "Category:Balusters",
+  "Category:Banisters",
+  "Category:Stair railings"
+ ],
+ "poteau-de-depart": [
+  "Category:Newel posts",
+  "Category:Balusters",
+  "Category:Banisters"
+ ],
+ "perron": [
+  "Category:Front steps",
+  "Category:Entrance stairs",
+  "Category:Stairs"
+ ],
+ "rampe-d-acces": [
+  "Category:Wheelchair ramps",
+  "Category:Ramps",
+  "Category:Accessibility ramps"
+ ],
+ "bande-podotactile": [
+  "Category:Tactile paving",
+  "Category:Tactile paving at stairs",
+  "Category:Tactile paving in Japan"
+ ],
+ "ascenseur": [
+  "Category:Elevators",
+  "Category:Elevator doors",
+  "Category:Elevator interiors"
+ ]
+}

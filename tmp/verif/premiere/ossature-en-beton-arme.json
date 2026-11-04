@@ -1,0 +1,53 @@
+{
+  "termId": "ossature-en-beton-arme",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Page de catalogue ancien sur le béton armé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tour d'horloge sous bâche bleue entre des tours.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune ossature béton visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Immeuble de bureaux en noir et blanc, endommagé par un séisme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Façade, ossature non lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Dessin de journal d'un hôpital.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tour Centre Point en rénovation, bâchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature cachée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Locomotive électrique ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

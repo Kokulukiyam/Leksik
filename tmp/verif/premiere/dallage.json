@@ -1,0 +1,53 @@
+{
+  "termId": "dallage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fouille étayée de bois avec sol terreux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Pas de dallage."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvriers dans une fouille étayée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de dallage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Coulage du béton sur un treillis d'armature posé sur isolant, coffrage de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Suède",
+      "note": "Dalle sur terre-plein en cours de coulage : ambigu avec bétonnage, ferraillage de dalle, radier."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvriers réglant une dalle béton avec une règle vibrante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambigu, pas un dallage fini clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Voies ferrées et quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bac à compost entre plaques de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

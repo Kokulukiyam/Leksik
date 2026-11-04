@@ -1,0 +1,13 @@
+{
+  "termId": "semelle-filante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Page d'ancien magazine en noir et blanc avec trois photos de chantier de métro.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien, texte, rien d'identifiable."
+    }
+  ]
+}

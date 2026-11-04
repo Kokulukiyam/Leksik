@@ -1,0 +1,29 @@
+{
+  "termId": "plaque-translucide",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gravure/photo de catalogue ancien d'une plaque de tôle estampée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien, pas une plaque translucide."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau gris posé au sol sur un terrain vague.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tottenham, Londres",
+      "note": "Matériau opaque, non translucide."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rue avec panneau de chantier devant un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tottenham, Londres",
+      "note": "Sans rapport."
+    }
+  ]
+}

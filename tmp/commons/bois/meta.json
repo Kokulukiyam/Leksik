@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "bois",
+    "terme": "le bois",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau issu du tronc des arbres, débité en pièces ou en planches, utilisé en structure, menuiserie et revêtement.",
+    "priorite": 1,
+    "requetes": [
+      "timber planks stack",
+      "sawn lumber",
+      "bois de construction"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Stack of wooden planks - close-up 02.jpg",
+      "description": "A close-up shot of a stack of wooden planks taken in La Clusaz, France",
+      "categories": [
+        "Materials",
+        "Wood products",
+        "Self-published work",
+        "Wood textures",
+        "Timber piles"
+      ],
+      "auteur": "David r jenkins",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stack_of_wooden_planks_-_close-up_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Stack_of_wooden_planks_-_close-up_02.jpg/1280px-Stack_of_wooden_planks_-_close-up_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Woodworking hand tools on timber planks 01.jpg",
+      "description": "A collection of carpentry tools including a hand saw, wooden jack plane, hammer, and measuring tape resting on stacked timber in a workshop or construction site. Category: Woodworking hand tools; Carpentry in Bangladesh; Wood planes.",
+      "categories": [
+        "Woodworking hand tools",
+        "Self-published work",
+        "Carpentry in Bangladesh",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Bangladesh",
+        "Images from Wiki Loves Folklore 2026 to check",
+        "Uploaded via Campaign:wlf 2026"
+      ],
+      "auteur": "A S M Jobaer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Woodworking_hand_tools_on_timber_planks_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Woodworking_hand_tools_on_timber_planks_01.jpg/1280px-Woodworking_hand_tools_on_timber_planks_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Woodworking hand tools on timber planks 02.jpg",
+      "description": "A collection of carpentry tools including a hand saw, wooden jack plane, hammer, and measuring tape resting on stacked timber in a workshop or construction site. Category: Woodworking hand tools; Carpentry in Bangladesh; Wood planes.",
+      "categories": [
+        "Woodworking hand tools",
+        "Self-published work",
+        "Carpentry in Bangladesh",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Bangladesh",
+        "Images from Wiki Loves Folklore 2026 to check",
+        "Uploaded via Campaign:wlf 2026"
+      ],
+      "auteur": "A S M Jobaer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Woodworking_hand_tools_on_timber_planks_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Woodworking_hand_tools_on_timber_planks_02.jpg/1280px-Woodworking_hand_tools_on_timber_planks_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Stacked wood planks (Unsplash).jpg",
+      "description": "Alex Jones 2015-01-25",
+      "categories": [
+        "CC-Zero",
+        "Timber",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "Alex Jones alexjones",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stacked_wood_planks_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Stacked_wood_planks_%28Unsplash%29.jpg/1280px-Stacked_wood_planks_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Timber Market Scene.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Nigeria",
+        "Images from Wiki Loves Africa 2026 in the Igbo community",
+        "Images from Wiki Loves Africa 2026 to check",
+        "Images from Wiki Loves Africa 2026 without categories"
+      ],
+      "auteur": "Bigkotech",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Timber_Market_Scene.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Timber_Market_Scene.jpg/1280px-Timber_Market_Scene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Timber stacked in sawmill yard (21313837969).jpg",
+      "description": "Sawn timber stacked beside a railway line and on a bogie in a timber yard. A chimney stack and buildings can be seen in the distance. Photographed by William Archer Price, at an unidentified location, ca 1920s. An unidentified group of saw mill workers are standing on the stacked sawn planks. Quantity: 1 b&w original negative(s). Physical Description: Dry plate glass negative 4.75 x 6.5 inches Timber stacked in sawmill yard. Price, William Archer, 1866-1948 :Collection of post card negatives. Ref: 1/2-001251-G. Alexander Turnbull Library, Wellington, New Zealand. natlib.govt.nz/records/2315313",
+      "categories": [
+        "Logging railways in New Zealand",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Photographs by National Library NZ on The Commons",
+        "Photographs by William Archer Price",
+        "Photographs in the National Library of New Zealand"
+      ],
+      "auteur": "National Library NZ on The Commons",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Timber_stacked_in_sawmill_yard_(21313837969).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Timber_stacked_in_sawmill_yard_%2821313837969%29.jpg/1280px-Timber_stacked_in_sawmill_yard_%2821313837969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5109,
+      "hauteur": 3742
+    }
+  ]
+}

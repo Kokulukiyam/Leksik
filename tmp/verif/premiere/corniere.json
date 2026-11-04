@@ -1,0 +1,53 @@
+{
+  "termId": "corniere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Planche gravée d'un four à acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cadres blancs en profilés dans un atelier (gaines coupe-feu).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Section en L peu lisible, éléments peu identifiables."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gravure de coupe de navire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gravure de coupe de navire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gravure de coupe de navire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Dessin technique d'assemblage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    }
+  ]
+}

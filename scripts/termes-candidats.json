@@ -9,7 +9,12 @@
       "allège fenêtre façade",
       "incategory:\"Window sills\""
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Window sills",
+      "Category:Spandrels",
+      "Category:Windows"
+    ]
   },
   {
     "id": "appui-de-fenetre",
@@ -20,7 +25,11 @@
       "incategory:\"Window sills\"",
       "stone window sill"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Window sills",
+      "Category:Windows"
+    ]
   },
   {
     "id": "linteau",
@@ -32,7 +41,12 @@
       "deepcat:\"Lintels\"",
       "stone lintel door"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Lintels",
+      "Category:Stone lintels",
+      "Category:Doorways"
+    ]
   },
   {
     "id": "meneau",
@@ -44,7 +58,12 @@
       "incategory:\"Mullions\"",
       "mullioned window stone"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Mullions",
+      "Category:Mullioned windows",
+      "Category:Tracery windows"
+    ]
   },
   {
     "id": "trumeau",
@@ -56,7 +75,11 @@
       "trumeau portail",
       "trumeau portal"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Trumeaux",
+      "Category:Portals"
+    ]
   },
   {
     "id": "piedroit",
@@ -76,7 +99,10 @@
     "incompatibles": [
       "trumeau"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Doorways"
+    ]
   },
   {
     "id": "chambranle",
@@ -93,7 +119,12 @@
       "moulded window surround stone",
       "door architrave surround classical facade"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Door frames",
+      "Category:Window frames",
+      "Category:Doorways"
+    ]
   },
   {
     "id": "tympan",
@@ -123,6 +154,10 @@
     "priorite": 2,
     "incompatibles": [
       "lucarne"
+    ],
+    "categoriesCommons": [
+      "Category:Oculi",
+      "Category:Round windows"
     ]
   },
   {
@@ -143,7 +178,11 @@
       "garde-corps",
       "balustre"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Balconies",
+      "Category:Balconies in France"
+    ]
   },
   {
     "id": "garde-corps",
@@ -155,7 +194,11 @@
       "garde-corps",
       "metal railing terrace"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Railings",
+      "Category:Balcony railings"
+    ]
   },
   {
     "id": "persienne",
@@ -166,7 +209,12 @@
       "incategory:\"Louvered shutters\"",
       "persiennes"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Louvered shutters",
+      "Category:Shutters",
+      "Category:Window shutters"
+    ]
   },
   {
     "id": "oriel",
@@ -177,7 +225,11 @@
       "deepcat:\"Oriel windows\"",
       "oriel window"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Oriel windows",
+      "Category:Bay windows"
+    ]
   },
   {
     "id": "imposte",
@@ -192,6 +244,10 @@
     "priorite": 2,
     "incompatibles": [
       "chassis-fixe"
+    ],
+    "categoriesCommons": [
+      "Category:Fanlights",
+      "Category:Transom windows"
     ]
   },
   {
@@ -209,7 +265,10 @@
       "concrete sun shading facade",
       "brise-soleil Brasilia"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Sunshades"
+    ]
   },
   {
     "id": "claustra",
@@ -225,6 +284,9 @@
     "incompatibles": [
       "brise-soleil",
       "moucharabieh"
+    ],
+    "categoriesCommons": [
+      "Category:Breeze blocks"
     ]
   },
   {
@@ -236,7 +298,10 @@
       "incategory:\"Gables\"",
       "pignon maison"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Gables"
+    ]
   },
   {
     "id": "moucharabieh",
@@ -247,7 +312,10 @@
       "incategory:\"Mashrabiya\"",
       "mashrabiya"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Mashrabiya"
+    ]
   },
   {
     "id": "lucarne",
@@ -258,7 +326,12 @@
       "deepcat:\"Dormers\"",
       "lucarne toit"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Dormer windows",
+      "Category:Dormers",
+      "Category:Roof windows"
+    ]
   },
   {
     "id": "acrotere",
@@ -278,7 +351,11 @@
       "garde-corps",
       "garde-corps-maconne"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Parapets",
+      "Category:Roof parapets"
+    ]
   },
   {
     "id": "gouttiere",
@@ -294,7 +371,11 @@
       "zinc gutter roof",
       "half-round gutter"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Rain gutters",
+      "Category:Gutters"
+    ]
   },
   {
     "id": "faitage",
@@ -305,7 +386,12 @@
       "incategory:\"Roof ridges\"",
       "faîtage tuiles"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Roof ridges",
+      "Category:Ridge tiles",
+      "Category:Roofs"
+    ]
   },
   {
     "id": "croupe",
@@ -322,7 +408,11 @@
       "hipped roof farmhouse",
       "toit à croupes"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Hipped roofs",
+      "Category:Roofs"
+    ]
   },
   {
     "id": "chaume",
@@ -338,7 +428,11 @@
       "chaumière",
       "thatched roof house"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Thatched roofs",
+      "Category:Thatching"
+    ]
   },
   {
     "id": "souche-de-cheminee",
@@ -354,7 +448,11 @@
       "brick chimney roof house",
       "souche de cheminée toit"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Chimneys",
+      "Category:Chimney pots"
+    ]
   },
   {
     "id": "shed",
@@ -365,7 +463,10 @@
       "incategory:\"Sawtooth roofs\"",
       "sawtooth roof factory"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Sawtooth roofs"
+    ]
   },
   {
     "id": "fleche",
@@ -376,7 +477,11 @@
       "incategory:\"Spires\"",
       "church spire"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Spires",
+      "Category:Church spires"
+    ]
   },
   {
     "id": "lanterneau",
@@ -396,6 +501,9 @@
     "incompatibles": [
       "exutoire-de-desenfumage",
       "verriere"
+    ],
+    "categoriesCommons": [
+      "Category:Skylights"
     ]
   },
   {
@@ -416,6 +524,10 @@
     "incompatibles": [
       "chapiteau",
       "pilastre"
+    ],
+    "categoriesCommons": [
+      "Category:Columns",
+      "Category:Colonnades"
     ]
   },
   {
@@ -436,7 +548,11 @@
       "arc",
       "contrefort"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Flying buttresses",
+      "Category:Buttresses"
+    ]
   },
   {
     "id": "contrefort",
@@ -452,7 +568,11 @@
       "contreforts église",
       "stepped buttress"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Buttresses",
+      "Category:Buttresses in France"
+    ]
   },
   {
     "id": "arc",
@@ -464,7 +584,10 @@
       "stone arch",
       "incategory:\"Arches\""
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Arches"
+    ]
   },
   {
     "id": "voute",
@@ -481,7 +604,11 @@
       "voûte en berceau",
       "groin vault interior"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Vaults",
+      "Category:Barrel vaults"
+    ]
   },
   {
     "id": "cle-de-voute",
@@ -497,7 +624,11 @@
       "voute",
       "claveau"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Keystones",
+      "Category:Arches"
+    ]
   },
   {
     "id": "coupole",
@@ -511,7 +642,10 @@
     "incompatibles": [
       "voute"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Domes"
+    ]
   },
   {
     "id": "corbeau",
@@ -531,7 +665,12 @@
       "modillon",
       "console"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Corbels",
+      "Category:Corbel tables",
+      "Category:Stone corbels"
+    ]
   },
   {
     "id": "ferme",
@@ -542,7 +681,12 @@
       "incategory:\"Roof trusses\"",
       "timber roof truss"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Roof trusses",
+      "Category:Timber roof trusses",
+      "Category:Trusses"
+    ]
   },
   {
     "id": "colombage",
@@ -554,7 +698,12 @@
       "half-timbered house",
       "colombage"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Half-timbered buildings",
+      "Category:Half-timbered houses",
+      "Category:Timber framing"
+    ]
   },
   {
     "id": "pilotis",
@@ -568,6 +717,10 @@
     "priorite": 3,
     "incompatibles": [
       "poteau"
+    ],
+    "categoriesCommons": [
+      "Category:Pilotis",
+      "Category:Stilt houses"
     ]
   },
   {
@@ -584,7 +737,10 @@
       "corniche immeuble",
       "modillion cornice building top"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Cornices"
+    ]
   },
   {
     "id": "bandeau",
@@ -617,6 +773,9 @@
     "priorite": 2,
     "incompatibles": [
       "tympan"
+    ],
+    "categoriesCommons": [
+      "Category:Pediments"
     ]
   },
   {
@@ -633,7 +792,11 @@
       "pilastre",
       "colonne"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Capitals (architecture)",
+      "Category:Corinthian capitals"
+    ]
   },
   {
     "id": "pilastre",
@@ -649,7 +812,10 @@
       "pilastres façade",
       "fluted pilaster"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Pilasters"
+    ]
   },
   {
     "id": "console",
@@ -670,6 +836,9 @@
     "incompatibles": [
       "corbeau",
       "modillon"
+    ],
+    "categoriesCommons": [
+      "Category:Corbels"
     ]
   },
   {
@@ -689,6 +858,10 @@
     "priorite": 2,
     "incompatibles": [
       "gargouille-de-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Gargoyles",
+      "Category:Gargoyles in France"
     ]
   },
   {
@@ -703,6 +876,11 @@
     "priorite": 1,
     "incompatibles": [
       "balustrade"
+    ],
+    "categoriesCommons": [
+      "Category:Balusters",
+      "Category:Balustrades",
+      "Category:Stone balustrades"
     ]
   },
   {
@@ -717,6 +895,10 @@
     "priorite": 3,
     "incompatibles": [
       "oeil-de-boeuf"
+    ],
+    "categoriesCommons": [
+      "Category:Rose windows",
+      "Category:Rose windows in France"
     ]
   },
   {
@@ -736,7 +918,11 @@
     "incompatibles": [
       "corniche"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Corbels",
+      "Category:Corbel tables"
+    ]
   },
   {
     "id": "mascaron",
@@ -751,6 +937,10 @@
     "incompatibles": [
       "bas-relief",
       "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Mascarons",
+      "Category:Mascarons in France"
     ]
   },
   {
@@ -767,7 +957,10 @@
       "frise sculptée façade",
       "Parthenon frieze"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Friezes"
+    ]
   },
   {
     "id": "pinacle",
@@ -783,7 +976,11 @@
       "pinacles gothiques",
       "pinnacle crockets cathedral"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Pinnacles",
+      "Category:Pinnacles in France"
+    ]
   },
   {
     "id": "cariatide",
@@ -794,7 +991,11 @@
       "incategory:\"Caryatids\"",
       "caryatids"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Caryatids",
+      "Category:Caryatids in France"
+    ]
   },
   {
     "id": "brique",
@@ -813,6 +1014,11 @@
     "priorite": 2,
     "incompatibles": [
       "brique-creuse"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Brick walls",
+      "Category:Brickwork"
     ]
   },
   {
@@ -829,6 +1035,10 @@
     "incompatibles": [
       "bloc-plein",
       "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete blocks",
+      "Category:Concrete block walls"
     ]
   },
   {
@@ -840,7 +1050,10 @@
       "ashlar masonry wall",
       "deepcat:\"Ashlar\""
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Ashlar"
+    ]
   },
   {
     "id": "moellon",
@@ -855,6 +1068,9 @@
     "incompatibles": [
       "mur-en-moellons",
       "opus-incertum"
+    ],
+    "categoriesCommons": [
+      "Category:Stone walls"
     ]
   },
   {
@@ -872,7 +1088,10 @@
       "béton banché brut planches",
       "board formed concrete texture"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Concrete walls"
+    ]
   },
   {
     "id": "tuile",
@@ -889,6 +1108,11 @@
       "tuile-mecanique",
       "tuile-plate",
       "tuile-faitiere"
+    ],
+    "categoriesCommons": [
+      "Category:Roof tiles",
+      "Category:Roof tiles in France",
+      "Category:Tiled roofs"
     ]
   },
   {
@@ -905,7 +1129,11 @@
       "toit en ardoise",
       "slate roofing tiles house"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Slate roofs",
+      "Category:Slate"
+    ]
   },
   {
     "id": "tole-ondulee",
@@ -926,7 +1154,11 @@
       "bardage",
       "acier-galvanise"
     ],
-    "priorite": 1
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Corrugated iron roofs",
+      "Category:Corrugated iron"
+    ]
   },
   {
     "id": "carreau-de-ciment",
@@ -942,6 +1174,10 @@
     "incompatibles": [
       "carrelage",
       "carreau-hexagonal"
+    ],
+    "categoriesCommons": [
+      "Category:Cement tiles",
+      "Category:Encaustic tiles"
     ]
   },
   {
@@ -979,7 +1215,11 @@
     "incompatibles": [
       "banco"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Rammed earth",
+      "Category:Rammed earth buildings"
+    ]
   },
   {
     "id": "banco",
@@ -1003,7 +1243,10 @@
       "voute-nubienne",
       "case-a-impluvium"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Adobe"
+    ]
   },
   {
     "id": "toron",
@@ -1015,7 +1258,11 @@
       "toron mosque Mali",
       "Djinguereber mosque"
     ],
-    "priorite": 2
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Great Mosque of Djenné",
+      "Category:Mosques in Mali"
+    ]
   },
   {
     "id": "toguna",
@@ -1026,7 +1273,10 @@
       "toguna",
       "togu na Dogon"
     ],
-    "priorite": 3
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Dogon architecture"
+    ]
   },
   {
     "id": "grenier-dogon",
@@ -1046,6 +1296,11 @@
     "priorite": 3,
     "incompatibles": [
       "banco"
+    ],
+    "categoriesCommons": [
+      "Category:Dogon granaries",
+      "Category:Granaries in Mali",
+      "Category:Granaries"
     ]
   },
   {
@@ -1086,6 +1341,10 @@
     "priorite": 2,
     "incompatibles": [
       "chaume"
+    ],
+    "categoriesCommons": [
+      "Category:Huts in Senegal",
+      "Category:Huts"
     ]
   },
   {
@@ -1098,6 +1357,9 @@
       "construction site hoarding",
       "palissade de chantier",
       "construction fence corrugated sheet"
+    ],
+    "categoriesCommons": [
+      "Category:Construction sites"
     ]
   },
   {
@@ -1125,6 +1387,10 @@
       "construction site office container",
       "bungalow de chantier",
       "site cabin portable office"
+    ],
+    "categoriesCommons": [
+      "Category:Portable buildings",
+      "Category:Construction sites"
     ]
   },
   {
@@ -1140,6 +1406,10 @@
     ],
     "incompatibles": [
       "camion-benne"
+    ],
+    "categoriesCommons": [
+      "Category:Skips (containers)",
+      "Category:Waste containers"
     ]
   },
   {
@@ -1167,6 +1437,9 @@
       "traffic cones road works",
       "cône de signalisation",
       "incategory:\"Traffic cones\""
+    ],
+    "categoriesCommons": [
+      "Category:Traffic cones"
     ]
   },
   {
@@ -1194,6 +1467,9 @@
     ],
     "incompatibles": [
       "plancher-d-echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Scaffolding"
     ]
   },
   {
@@ -1209,6 +1485,9 @@
     ],
     "incompatibles": [
       "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Scaffolding"
     ]
   },
   {
@@ -1224,6 +1503,10 @@
     ],
     "incompatibles": [
       "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden scaffolding",
+      "Category:Scaffolding"
     ]
   },
   {
@@ -1239,6 +1522,10 @@
     ],
     "incompatibles": [
       "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Bamboo scaffolding",
+      "Category:Scaffolding"
     ]
   },
   {
@@ -1254,6 +1541,9 @@
     ],
     "incompatibles": [
       "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Scaffolding"
     ]
   },
   {
@@ -1269,6 +1559,9 @@
     ],
     "incompatibles": [
       "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Scaffolding"
     ]
   },
   {
@@ -1284,6 +1577,9 @@
     ],
     "incompatibles": [
       "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Safety nets"
     ]
   },
   {
@@ -1296,6 +1592,9 @@
       "ladder construction site",
       "échelle chantier",
       "incategory:\"Ladders\""
+    ],
+    "categoriesCommons": [
+      "Category:Ladders"
     ]
   },
   {
@@ -1308,6 +1607,10 @@
       "aerial work platform",
       "nacelle élévatrice",
       "boom lift cherry picker"
+    ],
+    "categoriesCommons": [
+      "Category:Aerial work platforms",
+      "Category:Cherry pickers"
     ]
   },
   {
@@ -1324,6 +1627,10 @@
     "incompatibles": [
       "etai-metallique",
       "etai-en-bois"
+    ],
+    "categoriesCommons": [
+      "Category:Shoring",
+      "Category:Formwork"
     ]
   },
   {
@@ -1341,6 +1648,9 @@
       "etai",
       "tour-d-etaiement",
       "coffrage-de-dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Shoring"
     ]
   },
   {
@@ -1356,6 +1666,9 @@
     ],
     "incompatibles": [
       "etai"
+    ],
+    "categoriesCommons": [
+      "Category:Shoring"
     ]
   },
   {
@@ -1371,6 +1684,10 @@
     ],
     "incompatibles": [
       "etai"
+    ],
+    "categoriesCommons": [
+      "Category:Shoring",
+      "Category:Falsework"
     ]
   },
   {
@@ -1387,6 +1704,9 @@
     "incompatibles": [
       "coffrage-bois",
       "coffrage-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Formwork"
     ]
   },
   {
@@ -1515,6 +1835,9 @@
       "concrete mixer drum site",
       "bétonnière",
       "incategory:\"Concrete mixers\""
+    ],
+    "categoriesCommons": [
+      "Category:Concrete mixers"
     ]
   },
   {
@@ -1530,6 +1853,10 @@
     ],
     "incompatibles": [
       "mini-pelle"
+    ],
+    "categoriesCommons": [
+      "Category:Excavators",
+      "Category:Hydraulic excavators"
     ]
   },
   {
@@ -1545,6 +1872,9 @@
     ],
     "incompatibles": [
       "pelle-hydraulique"
+    ],
+    "categoriesCommons": [
+      "Category:Excavators"
     ]
   },
   {
@@ -1557,6 +1887,9 @@
       "backhoe loader",
       "tractopelle",
       "incategory:\"Backhoe loaders\""
+    ],
+    "categoriesCommons": [
+      "Category:Backhoe loaders"
     ]
   },
   {
@@ -1569,6 +1902,10 @@
       "bulldozer",
       "bouteur",
       "incategory:\"Bulldozers\""
+    ],
+    "categoriesCommons": [
+      "Category:Bulldozers",
+      "Category:Caterpillar bulldozers"
     ]
   },
   {
@@ -1581,6 +1918,9 @@
       "motor grader",
       "niveleuse",
       "road grader"
+    ],
+    "categoriesCommons": [
+      "Category:Graders"
     ]
   },
   {
@@ -1593,6 +1933,10 @@
       "road roller",
       "rouleau compresseur",
       "incategory:\"Road rollers\""
+    ],
+    "categoriesCommons": [
+      "Category:Road rollers",
+      "Category:Compactors"
     ]
   },
   {
@@ -1608,6 +1952,10 @@
     ],
     "incompatibles": [
       "pilonneuse"
+    ],
+    "categoriesCommons": [
+      "Category:Plate compactors",
+      "Category:Compactors"
     ]
   },
   {
@@ -1623,6 +1971,9 @@
     ],
     "incompatibles": [
       "plaque-vibrante"
+    ],
+    "categoriesCommons": [
+      "Category:Plate compactors"
     ]
   },
   {
@@ -1638,6 +1989,9 @@
     ],
     "incompatibles": [
       "tombereau"
+    ],
+    "categoriesCommons": [
+      "Category:Dump trucks"
     ]
   },
   {
@@ -1653,6 +2007,10 @@
     ],
     "incompatibles": [
       "camion-benne"
+    ],
+    "categoriesCommons": [
+      "Category:Articulated dump trucks",
+      "Category:Dump trucks"
     ]
   },
   {
@@ -1665,6 +2023,9 @@
       "site dumper",
       "dumper chantier",
       "front tipping dumper"
+    ],
+    "categoriesCommons": [
+      "Category:Dump trucks"
     ]
   },
   {
@@ -1680,6 +2041,9 @@
     ],
     "incompatibles": [
       "pompe-a-beton"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete mixer trucks"
     ]
   },
   {
@@ -1695,6 +2059,10 @@
     ],
     "incompatibles": [
       "camion-toupie"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete pump trucks",
+      "Category:Concrete pumps"
     ]
   },
   {
@@ -1707,6 +2075,9 @@
       "telehandler",
       "chariot télescopique",
       "telescopic handler"
+    ],
+    "categoriesCommons": [
+      "Category:Telescopic handlers"
     ]
   },
   {
@@ -1719,6 +2090,9 @@
       "piling rig",
       "foreuse de pieux",
       "rotary drilling rig pile"
+    ],
+    "categoriesCommons": [
+      "Category:Pile drivers"
     ]
   },
   {
@@ -1731,6 +2105,9 @@
       "tower crane construction",
       "grue à tour",
       "incategory:\"Tower cranes\""
+    ],
+    "categoriesCommons": [
+      "Category:Tower cranes"
     ]
   },
   {
@@ -1743,6 +2120,9 @@
       "mobile crane",
       "grue mobile",
       "truck mounted crane telescopic"
+    ],
+    "categoriesCommons": [
+      "Category:Mobile cranes"
     ]
   },
   {
@@ -1758,6 +2138,9 @@
     ],
     "incompatibles": [
       "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Hoists"
     ]
   },
   {
@@ -1770,6 +2153,10 @@
       "pulley construction bucket",
       "poulie chantier",
       "gin wheel"
+    ],
+    "categoriesCommons": [
+      "Category:Pulleys",
+      "Category:Block and tackle"
     ]
   },
   {
@@ -1782,6 +2169,10 @@
       "chain hoist",
       "palan à chaîne",
       "chain block"
+    ],
+    "categoriesCommons": [
+      "Category:Chain hoists",
+      "Category:Hoists"
     ]
   },
   {
@@ -1794,6 +2185,9 @@
       "lifting sling",
       "élingue de levage",
       "crane sling load"
+    ],
+    "categoriesCommons": [
+      "Category:Lifting equipment"
     ]
   },
   {
@@ -1809,6 +2203,9 @@
     ],
     "incompatibles": [
       "grue-a-tour"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete buckets"
     ]
   },
   {
@@ -1821,6 +2218,9 @@
       "mason trowel",
       "truelle",
       "incategory:\"Trowels\""
+    ],
+    "categoriesCommons": [
+      "Category:Trowels"
     ]
   },
   {
@@ -1851,6 +2251,9 @@
     ],
     "incompatibles": [
       "taloche"
+    ],
+    "categoriesCommons": [
+      "Category:Trowels"
     ]
   },
   {
@@ -1863,6 +2266,9 @@
       "builder's bucket",
       "seau de maçon",
       "rubber bucket construction"
+    ],
+    "categoriesCommons": [
+      "Category:Buckets"
     ]
   },
   {
@@ -1875,6 +2281,9 @@
       "wheelbarrow construction",
       "brouette",
       "incategory:\"Wheelbarrows\""
+    ],
+    "categoriesCommons": [
+      "Category:Wheelbarrows"
     ]
   },
   {
@@ -1887,6 +2296,10 @@
       "shovel sand",
       "pelle chantier",
       "incategory:\"Shovels\""
+    ],
+    "categoriesCommons": [
+      "Category:Shovels",
+      "Category:Spades"
     ]
   },
   {
@@ -1899,6 +2312,10 @@
       "pickaxe",
       "pioche",
       "incategory:\"Pickaxes\""
+    ],
+    "categoriesCommons": [
+      "Category:Pickaxes",
+      "Category:Mattocks"
     ]
   },
   {
@@ -1911,6 +2328,10 @@
       "claw hammer",
       "marteau",
       "incategory:\"Hammers\""
+    ],
+    "categoriesCommons": [
+      "Category:Claw hammers",
+      "Category:Hammers"
     ]
   },
   {
@@ -1926,6 +2347,10 @@
     ],
     "incompatibles": [
       "marteau"
+    ],
+    "categoriesCommons": [
+      "Category:Sledgehammers",
+      "Category:Hammers"
     ]
   },
   {
@@ -1941,6 +2366,10 @@
     ],
     "incompatibles": [
       "masse"
+    ],
+    "categoriesCommons": [
+      "Category:Cold chisels",
+      "Category:Chisels"
     ]
   },
   {
@@ -1953,6 +2382,9 @@
       "sand sieve construction",
       "tamis à sable",
       "sand screen mesh"
+    ],
+    "categoriesCommons": [
+      "Category:Sieves"
     ]
   },
   {
@@ -1965,6 +2397,10 @@
       "screed rule aluminium",
       "règle de maçon",
       "straightedge plastering"
+    ],
+    "categoriesCommons": [
+      "Category:Screeds",
+      "Category:Straightedges"
     ]
   },
   {
@@ -1977,6 +2413,9 @@
       "spirit level",
       "niveau à bulle",
       "incategory:\"Spirit levels\""
+    ],
+    "categoriesCommons": [
+      "Category:Spirit levels"
     ]
   },
   {
@@ -1989,6 +2428,9 @@
       "plumb bob",
       "fil à plomb",
       "incategory:\"Plumb bobs\""
+    ],
+    "categoriesCommons": [
+      "Category:Plumb bobs"
     ]
   },
   {
@@ -2019,6 +2461,9 @@
     ],
     "incompatibles": [
       "cordeau"
+    ],
+    "categoriesCommons": [
+      "Category:Chalk lines"
     ]
   },
   {
@@ -2031,6 +2476,9 @@
       "builder's square",
       "équerre de maçon",
       "steel square"
+    ],
+    "categoriesCommons": [
+      "Category:Try squares"
     ]
   },
   {
@@ -2046,6 +2494,9 @@
     ],
     "incompatibles": [
       "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete blocks"
     ]
   },
   {
@@ -2058,6 +2509,9 @@
       "power trowel",
       "talocheuse mécanique hélicoptère",
       "concrete power float"
+    ],
+    "categoriesCommons": [
+      "Category:Power trowels"
     ]
   },
   {
@@ -2094,6 +2548,9 @@
       "rebar cutter",
       "cisaille à armatures",
       "bolt cutter rebar"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar"
     ]
   },
   {
@@ -2109,6 +2566,9 @@
     ],
     "incompatibles": [
       "griffe-a-cintrer"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar"
     ]
   },
   {
@@ -2124,6 +2584,9 @@
     ],
     "incompatibles": [
       "cintreuse-a-armatures"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar"
     ]
   },
   {
@@ -2136,6 +2599,10 @@
       "tower pincers",
       "tenaille",
       "rebar tying pliers"
+    ],
+    "categoriesCommons": [
+      "Category:Pincers",
+      "Category:Pliers"
     ]
   },
   {
@@ -2148,6 +2615,9 @@
       "rebar tie wire",
       "fil à ligaturer",
       "annealed binding wire"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar"
     ]
   },
   {
@@ -2160,6 +2630,10 @@
       "angle grinder",
       "disqueuse meuleuse",
       "incategory:\"Angle grinders\""
+    ],
+    "categoriesCommons": [
+      "Category:Angle grinders",
+      "Category:Grinders"
     ]
   },
   {
@@ -2172,6 +2646,10 @@
       "arc welding machine",
       "poste à souder",
       "welding inverter"
+    ],
+    "categoriesCommons": [
+      "Category:Welding machines",
+      "Category:Arc welding"
     ]
   },
   {
@@ -2196,6 +2674,9 @@
       "circular saw",
       "scie circulaire",
       "incategory:\"Circular saws\""
+    ],
+    "categoriesCommons": [
+      "Category:Circular saws"
     ]
   },
   {
@@ -2208,6 +2689,9 @@
       "jigsaw power tool",
       "scie sauteuse",
       "incategory:\"Jigsaws (tool)\""
+    ],
+    "categoriesCommons": [
+      "Category:Jigsaws"
     ]
   },
   {
@@ -2220,6 +2704,10 @@
       "chainsaw",
       "tronçonneuse",
       "incategory:\"Chainsaws\""
+    ],
+    "categoriesCommons": [
+      "Category:Chainsaws",
+      "Category:Saws"
     ]
   },
   {
@@ -2232,6 +2720,9 @@
       "electric drill",
       "perceuse",
       "incategory:\"Electric drills\""
+    ],
+    "categoriesCommons": [
+      "Category:Drills"
     ]
   },
   {
@@ -2244,6 +2735,9 @@
       "jackhammer",
       "marteau-piqueur",
       "pneumatic drill road"
+    ],
+    "categoriesCommons": [
+      "Category:Jackhammers"
     ]
   },
   {
@@ -2256,6 +2750,10 @@
       "core drill concrete",
       "carotteuse béton",
       "diamond core drilling"
+    ],
+    "categoriesCommons": [
+      "Category:Core drills",
+      "Category:Drilling rigs"
     ]
   },
   {
@@ -2268,6 +2766,9 @@
       "hand plane woodworking",
       "rabot",
       "incategory:\"Planes (tools)\""
+    ],
+    "categoriesCommons": [
+      "Category:Planes (tools)"
     ]
   },
   {
@@ -2280,6 +2781,9 @@
       "tape measure",
       "mètre ruban",
       "incategory:\"Tape measures\""
+    ],
+    "categoriesCommons": [
+      "Category:Tape measures"
     ]
   },
   {
@@ -2292,6 +2796,9 @@
       "workbench",
       "établi",
       "incategory:\"Workbenches\""
+    ],
+    "categoriesCommons": [
+      "Category:Workbenches"
     ]
   },
   {
@@ -2304,6 +2811,9 @@
       "screwdriver",
       "tournevis",
       "incategory:\"Screwdrivers\""
+    ],
+    "categoriesCommons": [
+      "Category:Screwdrivers"
     ]
   },
   {
@@ -2331,6 +2841,9 @@
     ],
     "incompatibles": [
       "platoir"
+    ],
+    "categoriesCommons": [
+      "Category:Trowels"
     ]
   },
   {
@@ -2358,6 +2871,10 @@
       "pipe wrench",
       "clé serre-tube",
       "stillson wrench"
+    ],
+    "categoriesCommons": [
+      "Category:Pipe wrenches",
+      "Category:Wrenches"
     ]
   },
   {
@@ -2370,6 +2887,9 @@
       "pipe cutter",
       "coupe-tube",
       "tube cutter copper"
+    ],
+    "categoriesCommons": [
+      "Category:Plumbing tools"
     ]
   },
   {
@@ -2382,6 +2902,10 @@
       "hard hat construction worker",
       "casque de chantier",
       "incategory:\"Hard hats\""
+    ],
+    "categoriesCommons": [
+      "Category:Hard hats",
+      "Category:Construction workers"
     ]
   },
   {
@@ -2394,6 +2918,9 @@
       "high visibility vest worker",
       "gilet haute visibilité",
       "hi-vis vest"
+    ],
+    "categoriesCommons": [
+      "Category:High-visibility clothing"
     ]
   },
   {
@@ -2406,6 +2933,9 @@
       "safety boots steel toe",
       "chaussures de sécurité",
       "safety footwear"
+    ],
+    "categoriesCommons": [
+      "Category:Work boots"
     ]
   },
   {
@@ -2418,6 +2948,10 @@
       "work gloves",
       "gants de travail",
       "construction gloves"
+    ],
+    "categoriesCommons": [
+      "Category:Work gloves",
+      "Category:Gloves"
     ]
   },
   {
@@ -2473,6 +3007,9 @@
     "incompatibles": [
       "cordeau",
       "piquet"
+    ],
+    "categoriesCommons": [
+      "Category:Surveying"
     ]
   },
   {
@@ -2485,6 +3022,9 @@
       "survey stake",
       "piquet implantation",
       "wooden stakes construction"
+    ],
+    "categoriesCommons": [
+      "Category:Stakes"
     ]
   },
   {
@@ -2500,6 +3040,9 @@
     ],
     "incompatibles": [
       "mire"
+    ],
+    "categoriesCommons": [
+      "Category:Surveying instruments"
     ]
   },
   {
@@ -2536,6 +3079,9 @@
       "levelling staff",
       "mire de nivellement",
       "surveying rod"
+    ],
+    "categoriesCommons": [
+      "Category:Surveying instruments"
     ]
   },
   {
@@ -2551,6 +3097,9 @@
     ],
     "incompatibles": [
       "mire"
+    ],
+    "categoriesCommons": [
+      "Category:Surveying instruments"
     ]
   },
   {
@@ -2566,6 +3115,10 @@
     ],
     "incompatibles": [
       "bordure-de-trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Sidewalks",
+      "Category:Pavements"
     ]
   },
   {
@@ -2581,6 +3134,9 @@
     ],
     "incompatibles": [
       "caniveau"
+    ],
+    "categoriesCommons": [
+      "Category:Kerbs"
     ]
   },
   {
@@ -2597,6 +3153,10 @@
     "incompatibles": [
       "fosse",
       "canal-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Drains",
+      "Category:Storm drains"
     ]
   },
   {
@@ -2613,6 +3173,9 @@
     "incompatibles": [
       "caniveau",
       "grille-avaloir"
+    ],
+    "categoriesCommons": [
+      "Category:Drains"
     ]
   },
   {
@@ -2628,6 +3191,9 @@
     ],
     "incompatibles": [
       "enrobe"
+    ],
+    "categoriesCommons": [
+      "Category:Roads"
     ]
   },
   {
@@ -2643,6 +3209,10 @@
     ],
     "incompatibles": [
       "chaussee"
+    ],
+    "categoriesCommons": [
+      "Category:Asphalt",
+      "Category:Road surfaces"
     ]
   },
   {
@@ -2674,6 +3244,10 @@
     ],
     "incompatibles": [
       "pave-autobloquant"
+    ],
+    "categoriesCommons": [
+      "Category:Cobblestones",
+      "Category:Cobblestone streets"
     ]
   },
   {
@@ -2705,6 +3279,10 @@
     "incompatibles": [
       "allee",
       "pelouse"
+    ],
+    "categoriesCommons": [
+      "Category:Stepping stones",
+      "Category:Garden paths"
     ]
   },
   {
@@ -2717,6 +3295,11 @@
       "garden path",
       "allée de jardin",
       "gravel garden path"
+    ],
+    "categoriesCommons": [
+      "Category:Garden paths",
+      "Category:Footpaths",
+      "Category:Alleys"
     ]
   },
   {
@@ -2733,6 +3316,9 @@
     "incompatibles": [
       "bordure-de-trottoir",
       "allee"
+    ],
+    "categoriesCommons": [
+      "Category:Garden edging"
     ]
   },
   {
@@ -2748,6 +3334,9 @@
     ],
     "incompatibles": [
       "tampon-de-regard"
+    ],
+    "categoriesCommons": [
+      "Category:Manholes"
     ]
   },
   {
@@ -2760,6 +3349,10 @@
       "manhole cover",
       "tampon fonte",
       "incategory:\"Manhole covers\""
+    ],
+    "categoriesCommons": [
+      "Category:Manhole covers",
+      "Category:Manholes"
     ]
   },
   {
@@ -2776,6 +3369,10 @@
     "incompatibles": [
       "grille-avaloir",
       "caniveau"
+    ],
+    "categoriesCommons": [
+      "Category:Storm drains",
+      "Category:Drains"
     ]
   },
   {
@@ -2788,6 +3385,9 @@
       "storm drain grate",
       "grille avaloir fonte",
       "gully grate"
+    ],
+    "categoriesCommons": [
+      "Category:Storm drains"
     ]
   },
   {
@@ -2803,6 +3403,10 @@
     ],
     "incompatibles": [
       "fosse"
+    ],
+    "categoriesCommons": [
+      "Category:Storm drains",
+      "Category:Drainage canals"
     ]
   },
   {
@@ -2815,6 +3419,10 @@
       "roadside ditch",
       "fossé",
       "drainage ditch"
+    ],
+    "categoriesCommons": [
+      "Category:Roadside ditches",
+      "Category:Ditches"
     ]
   },
   {
@@ -2830,6 +3438,10 @@
     ],
     "incompatibles": [
       "buse"
+    ],
+    "categoriesCommons": [
+      "Category:Box culverts",
+      "Category:Culverts"
     ]
   },
   {
@@ -2842,6 +3454,10 @@
       "concrete pipe culvert",
       "buse béton",
       "pipe culvert"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete pipes",
+      "Category:Culverts"
     ]
   },
   {
@@ -2858,6 +3474,10 @@
     "incompatibles": [
       "puisard",
       "regard"
+    ],
+    "categoriesCommons": [
+      "Category:Septic tanks",
+      "Category:Septic systems"
     ]
   },
   {
@@ -2885,6 +3505,9 @@
       "retention pond",
       "bassin de rétention",
       "stormwater detention basin"
+    ],
+    "categoriesCommons": [
+      "Category:Retention basins"
     ]
   },
   {
@@ -2901,6 +3524,10 @@
     "incompatibles": [
       "passage-pieton",
       "chaussee"
+    ],
+    "categoriesCommons": [
+      "Category:Speed bumps",
+      "Category:Traffic calming"
     ]
   },
   {
@@ -2917,6 +3544,10 @@
     "incompatibles": [
       "marquage-au-sol",
       "chaussee"
+    ],
+    "categoriesCommons": [
+      "Category:Pedestrian crossings",
+      "Category:Zebra crossings"
     ]
   },
   {
@@ -2932,6 +3563,9 @@
     ],
     "incompatibles": [
       "chaussee"
+    ],
+    "categoriesCommons": [
+      "Category:Road markings"
     ]
   },
   {
@@ -2947,6 +3581,9 @@
     ],
     "incompatibles": [
       "bordure-de-trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Median strips"
     ]
   },
   {
@@ -2963,6 +3600,10 @@
     "incompatibles": [
       "chaussee",
       "fosse"
+    ],
+    "categoriesCommons": [
+      "Category:Road shoulders",
+      "Category:Roadsides"
     ]
   },
   {
@@ -2978,6 +3619,9 @@
     ],
     "incompatibles": [
       "trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Bollards"
     ]
   },
   {
@@ -2993,6 +3637,9 @@
     ],
     "incompatibles": [
       "lampadaire-solaire"
+    ],
+    "categoriesCommons": [
+      "Category:Street lights"
     ]
   },
   {
@@ -3017,6 +3664,10 @@
       "bus shelter",
       "abribus",
       "incategory:\"Bus shelters\""
+    ],
+    "categoriesCommons": [
+      "Category:Bus shelters",
+      "Category:Bus stops"
     ]
   },
   {
@@ -3032,6 +3683,9 @@
     ],
     "incompatibles": [
       "marquage-au-sol"
+    ],
+    "categoriesCommons": [
+      "Category:Cycle lanes"
     ]
   },
   {
@@ -3048,6 +3702,10 @@
     "incompatibles": [
       "bordure-de-trottoir",
       "trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Curb cuts",
+      "Category:Wheelchair ramps"
     ]
   },
   {
@@ -3064,6 +3722,10 @@
     "incompatibles": [
       "pilier-de-portail",
       "chaperon"
+    ],
+    "categoriesCommons": [
+      "Category:Walls",
+      "Category:Fences"
     ]
   },
   {
@@ -3094,6 +3756,10 @@
     ],
     "incompatibles": [
       "mur-de-cloture"
+    ],
+    "categoriesCommons": [
+      "Category:Gate piers",
+      "Category:Gates"
     ]
   },
   {
@@ -3139,6 +3805,10 @@
     ],
     "incompatibles": [
       "cloture-grillagee"
+    ],
+    "categoriesCommons": [
+      "Category:Barbed wire",
+      "Category:Barbed wire fences"
     ]
   },
   {
@@ -3154,6 +3824,9 @@
     ],
     "incompatibles": [
       "fil-barbele"
+    ],
+    "categoriesCommons": [
+      "Category:Concertina wire"
     ]
   },
   {
@@ -3166,6 +3839,10 @@
       "chain link fence",
       "clôture grillagée",
       "wire mesh fence"
+    ],
+    "categoriesCommons": [
+      "Category:Chain-link fences",
+      "Category:Wire fences"
     ]
   },
   {
@@ -3178,6 +3855,10 @@
       "wooden fence garden",
       "clôture en bois",
       "picket fence"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden fences",
+      "Category:Fences"
     ]
   },
   {
@@ -3190,6 +3871,9 @@
       "hedge garden",
       "haie taillée",
       "incategory:\"Hedges\""
+    ],
+    "categoriesCommons": [
+      "Category:Hedges"
     ]
   },
   {
@@ -3205,6 +3889,10 @@
     ],
     "incompatibles": [
       "barbacane"
+    ],
+    "categoriesCommons": [
+      "Category:Retaining walls",
+      "Category:Walls"
     ]
   },
   {
@@ -3217,6 +3905,9 @@
       "weep hole retaining wall",
       "barbacane mur de soutènement",
       "retaining wall weep holes"
+    ],
+    "categoriesCommons": [
+      "Category:Retaining walls"
     ]
   },
   {
@@ -3232,6 +3923,9 @@
     ],
     "incompatibles": [
       "mur-de-soutenement"
+    ],
+    "categoriesCommons": [
+      "Category:Gabions"
     ]
   },
   {
@@ -3247,6 +3941,11 @@
     ],
     "incompatibles": [
       "talus"
+    ],
+    "categoriesCommons": [
+      "Category:Riprap",
+      "Category:Rock armour",
+      "Category:Embankments"
     ]
   },
   {
@@ -3259,6 +3958,10 @@
       "embankment slope grass",
       "talus",
       "road embankment slope"
+    ],
+    "categoriesCommons": [
+      "Category:Embankments",
+      "Category:Slopes"
     ]
   },
   {
@@ -3271,6 +3974,10 @@
       "pergola garden",
       "pergola",
       "incategory:\"Pergolas\""
+    ],
+    "categoriesCommons": [
+      "Category:Pergolas",
+      "Category:Garden structures"
     ]
   },
   {
@@ -3286,6 +3993,10 @@
     ],
     "incompatibles": [
       "trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Tree grates",
+      "Category:Tree guards"
     ]
   },
   {
@@ -3298,6 +4009,10 @@
       "lawn",
       "pelouse",
       "incategory:\"Lawns\""
+    ],
+    "categoriesCommons": [
+      "Category:Lawns",
+      "Category:Grass"
     ]
   },
   {
@@ -3310,6 +4025,10 @@
       "playground equipment",
       "aire de jeux",
       "incategory:\"Playgrounds\""
+    ],
+    "categoriesCommons": [
+      "Category:Playgrounds",
+      "Category:Playground equipment"
     ]
   },
   {
@@ -3325,6 +4044,10 @@
     ],
     "incompatibles": [
       "pilier-de-portail"
+    ],
+    "categoriesCommons": [
+      "Category:Guardhouses",
+      "Category:Sentry boxes"
     ]
   },
   {
@@ -3341,6 +4064,10 @@
     "incompatibles": [
       "margelle",
       "plage-de-piscine"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools",
+      "Category:Private swimming pools"
     ]
   },
   {
@@ -3356,6 +4083,9 @@
     ],
     "incompatibles": [
       "piscine"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
     ]
   },
   {
@@ -3371,6 +4101,9 @@
     ],
     "incompatibles": [
       "piscine"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
     ]
   },
   {
@@ -3386,6 +4119,9 @@
     ],
     "incompatibles": [
       "margelle"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
     ]
   },
   {
@@ -3402,6 +4138,9 @@
     "incompatibles": [
       "piscine",
       "margelle"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
     ]
   },
   {
@@ -3418,6 +4157,9 @@
     "incompatibles": [
       "piscine",
       "margelle"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
     ]
   },
   {
@@ -3430,6 +4172,9 @@
       "footbath pool",
       "pédiluve",
       "foot bath swimming pool entrance"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
     ]
   },
   {
@@ -3442,6 +4187,9 @@
       "building facade elevation photo",
       "façade immeuble",
       "building front facade"
+    ],
+    "categoriesCommons": [
+      "Category:Facades"
     ]
   },
   {
@@ -3458,6 +4206,10 @@
     "incompatibles": [
       "facade",
       "meneau"
+    ],
+    "categoriesCommons": [
+      "Category:Curtain walls",
+      "Category:Glass facades"
     ]
   },
   {
@@ -3474,6 +4226,10 @@
     "incompatibles": [
       "facade",
       "mur-rideau"
+    ],
+    "categoriesCommons": [
+      "Category:Double-skin facades",
+      "Category:Glass facades"
     ]
   },
   {
@@ -3491,6 +4247,11 @@
       "facade",
       "bardage",
       "panneau-composite-aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Ventilated facades",
+      "Category:Rainscreen cladding",
+      "Category:Cladding"
     ]
   },
   {
@@ -3503,6 +4264,10 @@
       "window opening in masonry wall",
       "baie ouverture mur façade",
       "wall opening without window frame"
+    ],
+    "categoriesCommons": [
+      "Category:Windows",
+      "Category:Doorways"
     ]
   },
   {
@@ -3535,6 +4300,9 @@
     "incompatibles": [
       "piedroit",
       "baie"
+    ],
+    "categoriesCommons": [
+      "Category:Windows"
     ]
   },
   {
@@ -3579,6 +4347,9 @@
     "incompatibles": [
       "appui-de-fenetre",
       "corniche"
+    ],
+    "categoriesCommons": [
+      "Category:Cornices"
     ]
   },
   {
@@ -3595,6 +4366,9 @@
     "incompatibles": [
       "auvent",
       "brise-soleil-horizontal"
+    ],
+    "categoriesCommons": [
+      "Category:Canopies"
     ]
   },
   {
@@ -3610,6 +4384,9 @@
     ],
     "incompatibles": [
       "auvent"
+    ],
+    "categoriesCommons": [
+      "Category:Canopies"
     ]
   },
   {
@@ -3625,6 +4402,10 @@
     ],
     "incompatibles": [
       "porche"
+    ],
+    "categoriesCommons": [
+      "Category:Canopies",
+      "Category:Awnings"
     ]
   },
   {
@@ -3640,6 +4421,11 @@
     ],
     "incompatibles": [
       "balcon"
+    ],
+    "categoriesCommons": [
+      "Category:Loggias",
+      "Category:Loggias in France",
+      "Category:Balconies"
     ]
   },
   {
@@ -3655,6 +4441,10 @@
     ],
     "incompatibles": [
       "porche"
+    ],
+    "categoriesCommons": [
+      "Category:Verandas",
+      "Category:Porches"
     ]
   },
   {
@@ -3667,6 +4457,11 @@
       "entrance porch building",
       "porche d'entrée",
       "church porch entrance"
+    ],
+    "categoriesCommons": [
+      "Category:Porches",
+      "Category:Church porches",
+      "Category:Porches in France"
     ]
   },
   {
@@ -3683,6 +4478,9 @@
     "incompatibles": [
       "balcon",
       "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Balconies"
     ]
   },
   {
@@ -3699,6 +4497,10 @@
     "incompatibles": [
       "balcon",
       "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Balconies",
+      "Category:Balconies in France"
     ]
   },
   {
@@ -3715,6 +4517,10 @@
     "incompatibles": [
       "facade",
       "bandeau"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -3731,6 +4537,9 @@
     "incompatibles": [
       "oriel",
       "corbeau"
+    ],
+    "categoriesCommons": [
+      "Category:Corbels"
     ]
   },
   {
@@ -3746,6 +4555,9 @@
     ],
     "incompatibles": [
       "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Plinths"
     ]
   },
   {
@@ -3794,6 +4606,10 @@
     "incompatibles": [
       "linteau",
       "arc"
+    ],
+    "categoriesCommons": [
+      "Category:Jack arches",
+      "Category:Lintels"
     ]
   },
   {
@@ -3810,6 +4626,9 @@
     "incompatibles": [
       "arc",
       "baie"
+    ],
+    "categoriesCommons": [
+      "Category:Arches"
     ]
   },
   {
@@ -3842,6 +4661,10 @@
     "incompatibles": [
       "fenetre-en-bandeau",
       "baie"
+    ],
+    "categoriesCommons": [
+      "Category:Corner windows",
+      "Category:Windows"
     ]
   },
   {
@@ -3857,6 +4680,10 @@
     ],
     "incompatibles": [
       "baie"
+    ],
+    "categoriesCommons": [
+      "Category:Ribbon windows",
+      "Category:Windows"
     ]
   },
   {
@@ -3869,6 +4696,9 @@
       "arrow slit castle wall",
       "meurtrière château",
       "loophole castle"
+    ],
+    "categoriesCommons": [
+      "Category:Arrowslits"
     ]
   },
   {
@@ -3881,6 +4711,9 @@
       "basement window grille street level",
       "soupirail cave",
       "cellar window grate"
+    ],
+    "categoriesCommons": [
+      "Category:Cellar windows"
     ]
   },
   {
@@ -3912,6 +4745,10 @@
     "incompatibles": [
       "garde-corps",
       "balcon"
+    ],
+    "categoriesCommons": [
+      "Category:Glass railings",
+      "Category:Balcony railings"
     ]
   },
   {
@@ -3929,6 +4766,11 @@
       "garde-corps",
       "balcon",
       "barreaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Balusters",
+      "Category:Railings",
+      "Category:Balcony railings"
     ]
   },
   {
@@ -3944,6 +4786,10 @@
     ],
     "incompatibles": [
       "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Handrails",
+      "Category:Railings"
     ]
   },
   {
@@ -3959,6 +4805,9 @@
     ],
     "incompatibles": [
       "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Railings"
     ]
   },
   {
@@ -3977,6 +4826,11 @@
       "garde-corps-a-barreaudage",
       "balcon",
       "fer-forge"
+    ],
+    "categoriesCommons": [
+      "Category:Wrought iron railings",
+      "Category:Wrought iron balconies",
+      "Category:Wrought iron"
     ]
   },
   {
@@ -3994,6 +4848,9 @@
       "garde-corps",
       "balcon",
       "acrotere"
+    ],
+    "categoriesCommons": [
+      "Category:Parapets"
     ]
   },
   {
@@ -4010,6 +4867,11 @@
     "incompatibles": [
       "balustre",
       "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Balustrades",
+      "Category:Balusters",
+      "Category:Stone balustrades"
     ]
   },
   {
@@ -4026,6 +4888,10 @@
     "incompatibles": [
       "garde-corps",
       "balconnet"
+    ],
+    "categoriesCommons": [
+      "Category:Window railings",
+      "Category:Railings"
     ]
   },
   {
@@ -4041,6 +4907,9 @@
     ],
     "incompatibles": [
       "balcon"
+    ],
+    "categoriesCommons": [
+      "Category:Fences"
     ]
   },
   {
@@ -4057,6 +4926,9 @@
     "incompatibles": [
       "brise-soleil",
       "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Venetian blinds"
     ]
   },
   {
@@ -4102,6 +4974,9 @@
     ],
     "incompatibles": [
       "auvent"
+    ],
+    "categoriesCommons": [
+      "Category:Awnings"
     ]
   },
   {
@@ -4117,6 +4992,10 @@
     ],
     "incompatibles": [
       "store-banne"
+    ],
+    "categoriesCommons": [
+      "Category:Window blinds",
+      "Category:Awnings"
     ]
   },
   {
@@ -4129,6 +5008,9 @@
       "shade sail courtyard",
       "voile d'ombrage",
       "tensile shade sail"
+    ],
+    "categoriesCommons": [
+      "Category:Shade sails"
     ]
   },
   {
@@ -4164,6 +5046,11 @@
     ],
     "incompatibles": [
       "mur-rideau"
+    ],
+    "categoriesCommons": [
+      "Category:Structural glazing",
+      "Category:Glass facades",
+      "Category:Curtain walls"
     ]
   },
   {
@@ -4180,6 +5067,10 @@
     "incompatibles": [
       "mur-rideau",
       "allege"
+    ],
+    "categoriesCommons": [
+      "Category:Curtain walls",
+      "Category:Cladding"
     ]
   },
   {
@@ -4195,6 +5086,9 @@
     ],
     "incompatibles": [
       "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Vertical gardens"
     ]
   },
   {
@@ -4210,6 +5104,9 @@
     ],
     "incompatibles": [
       "mur-vegetal"
+    ],
+    "categoriesCommons": [
+      "Category:Trellises"
     ]
   },
   {
@@ -4226,6 +5123,9 @@
     "incompatibles": [
       "facade",
       "pignon"
+    ],
+    "categoriesCommons": [
+      "Category:Walls"
     ]
   },
   {
@@ -4241,6 +5141,10 @@
     ],
     "incompatibles": [
       "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Corner buildings",
+      "Category:Corner buildings in France"
     ]
   },
   {
@@ -4256,6 +5160,10 @@
     ],
     "incompatibles": [
       "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Avant-corps",
+      "Category:Pavilions"
     ]
   },
   {
@@ -4271,6 +5179,9 @@
     ],
     "incompatibles": [
       "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Attics (architecture)"
     ]
   },
   {
@@ -4287,6 +5198,10 @@
     "incompatibles": [
       "arc",
       "colonne"
+    ],
+    "categoriesCommons": [
+      "Category:Arcades",
+      "Category:Arches"
     ]
   },
   {
@@ -4302,6 +5217,10 @@
     ],
     "incompatibles": [
       "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Access balconies",
+      "Category:Walkways"
     ]
   },
   {
@@ -4318,6 +5237,10 @@
     "incompatibles": [
       "vitrine",
       "rideau-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Shopfronts",
+      "Category:Shopfronts in France"
     ]
   },
   {
@@ -4330,6 +5253,10 @@
       "shop window display",
       "vitrine magasin",
       "store window street"
+    ],
+    "categoriesCommons": [
+      "Category:Shop windows",
+      "Category:Shopfronts"
     ]
   },
   {
@@ -4345,6 +5272,9 @@
     ],
     "incompatibles": [
       "unite-exterieure"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
     ]
   },
   {
@@ -4360,6 +5290,11 @@
     ],
     "incompatibles": [
       "balcon"
+    ],
+    "categoriesCommons": [
+      "Category:Window boxes",
+      "Category:Flower boxes",
+      "Category:Planters"
     ]
   },
   {
@@ -4375,6 +5310,10 @@
     ],
     "incompatibles": [
       "pignon"
+    ],
+    "categoriesCommons": [
+      "Category:Stepped gables",
+      "Category:Gables"
     ]
   },
   {
@@ -4390,6 +5329,9 @@
     ],
     "incompatibles": [
       "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Louvers"
     ]
   },
   {
@@ -4402,6 +5344,9 @@
       "house roof",
       "toiture maison",
       "roofs aerial view"
+    ],
+    "categoriesCommons": [
+      "Category:Roofs"
     ]
   },
   {
@@ -4418,6 +5363,11 @@
     "incompatibles": [
       "toiture",
       "acrotere"
+    ],
+    "categoriesCommons": [
+      "Category:Flat roofs",
+      "Category:Roof terraces",
+      "Category:Roofs"
     ]
   },
   {
@@ -4433,6 +5383,11 @@
     ],
     "incompatibles": [
       "toiture-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Roof terraces",
+      "Category:Terraces",
+      "Category:Roof gardens"
     ]
   },
   {
@@ -4448,6 +5403,9 @@
     ],
     "incompatibles": [
       "toiture-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Flat roofs"
     ]
   },
   {
@@ -4464,6 +5422,10 @@
     "incompatibles": [
       "toiture-terrasse",
       "toiture"
+    ],
+    "categoriesCommons": [
+      "Category:Sod roofs",
+      "Category:Roof gardens"
     ]
   },
   {
@@ -4482,6 +5444,10 @@
       "pignon",
       "faitage",
       "versant"
+    ],
+    "categoriesCommons": [
+      "Category:Gable roofs",
+      "Category:Roofs"
     ]
   },
   {
@@ -4500,6 +5466,10 @@
       "croupe",
       "aretier",
       "versant"
+    ],
+    "categoriesCommons": [
+      "Category:Hipped roofs",
+      "Category:Roofs"
     ]
   },
   {
@@ -4516,6 +5486,10 @@
     "incompatibles": [
       "toiture",
       "versant"
+    ],
+    "categoriesCommons": [
+      "Category:Shed roofs",
+      "Category:Roofs"
     ]
   },
   {
@@ -4532,6 +5506,9 @@
     "incompatibles": [
       "toit-monopente",
       "auvent"
+    ],
+    "categoriesCommons": [
+      "Category:Sheds"
     ]
   },
   {
@@ -4565,6 +5542,9 @@
     "incompatibles": [
       "toiture",
       "lucarne"
+    ],
+    "categoriesCommons": [
+      "Category:Roofs"
     ]
   },
   {
@@ -4598,6 +5578,10 @@
       "toiture",
       "case",
       "chaume"
+    ],
+    "categoriesCommons": [
+      "Category:Cone roofs",
+      "Category:Round roofs"
     ]
   },
   {
@@ -4614,6 +5598,10 @@
     "incompatibles": [
       "toiture",
       "bac-acier"
+    ],
+    "categoriesCommons": [
+      "Category:Barrel roofs",
+      "Category:Curved roofs"
     ]
   },
   {
@@ -4630,6 +5618,10 @@
     "incompatibles": [
       "toiture",
       "noue"
+    ],
+    "categoriesCommons": [
+      "Category:Butterfly roofs",
+      "Category:Roofs"
     ]
   },
   {
@@ -4645,6 +5637,9 @@
     ],
     "incompatibles": [
       "toiture"
+    ],
+    "categoriesCommons": [
+      "Category:Roofs"
     ]
   },
   {
@@ -4661,6 +5656,10 @@
     "incompatibles": [
       "gouttiere",
       "avant-toit"
+    ],
+    "categoriesCommons": [
+      "Category:Eaves",
+      "Category:Roof overhangs"
     ]
   },
   {
@@ -4676,6 +5675,10 @@
     ],
     "incompatibles": [
       "pignon"
+    ],
+    "categoriesCommons": [
+      "Category:Barge boards",
+      "Category:Gable roofs"
     ]
   },
   {
@@ -4718,6 +5721,10 @@
     ],
     "incompatibles": [
       "toiture"
+    ],
+    "categoriesCommons": [
+      "Category:Eaves",
+      "Category:Roof overhangs"
     ]
   },
   {
@@ -4733,6 +5740,10 @@
     ],
     "incompatibles": [
       "ferme"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses",
+      "Category:Timber roof trusses"
     ]
   },
   {
@@ -4750,6 +5761,9 @@
       "charpente",
       "ferme",
       "ferme-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Steel structures"
     ]
   },
   {
@@ -4766,6 +5780,11 @@
     "incompatibles": [
       "charpente",
       "ferme"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses",
+      "Category:Timber roof trusses",
+      "Category:Trusses"
     ]
   },
   {
@@ -4781,6 +5800,9 @@
     ],
     "incompatibles": [
       "charpente"
+    ],
+    "categoriesCommons": [
+      "Category:Purlins"
     ]
   },
   {
@@ -4798,6 +5820,9 @@
       "panne",
       "faitage",
       "charpente"
+    ],
+    "categoriesCommons": [
+      "Category:Purlins"
     ]
   },
   {
@@ -4814,6 +5839,9 @@
     "incompatibles": [
       "chevron",
       "charpente"
+    ],
+    "categoriesCommons": [
+      "Category:Timber framing"
     ]
   },
   {
@@ -4876,6 +5904,9 @@
     "incompatibles": [
       "ferme",
       "arbaletrier"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses"
     ]
   },
   {
@@ -4891,6 +5922,9 @@
     ],
     "incompatibles": [
       "ferme"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses"
     ]
   },
   {
@@ -4907,6 +5941,10 @@
     "incompatibles": [
       "ferme",
       "entrait"
+    ],
+    "categoriesCommons": [
+      "Category:King post trusses",
+      "Category:Roof trusses"
     ]
   },
   {
@@ -4922,6 +5960,9 @@
     ],
     "incompatibles": [
       "liteau"
+    ],
+    "categoriesCommons": [
+      "Category:Roof insulation"
     ]
   },
   {
@@ -4937,6 +5978,11 @@
     ],
     "incompatibles": [
       "tole-ondulee"
+    ],
+    "categoriesCommons": [
+      "Category:Corrugated iron roofs",
+      "Category:Metal roofs",
+      "Category:Steel roofs"
     ]
   },
   {
@@ -4952,6 +5998,9 @@
     ],
     "incompatibles": [
       "bac-acier"
+    ],
+    "categoriesCommons": [
+      "Category:Sandwich panels"
     ]
   },
   {
@@ -4969,6 +6018,9 @@
       "bac-acier",
       "tole-ondulee",
       "polycarbonate-alveolaire"
+    ],
+    "categoriesCommons": [
+      "Category:Corrugated plastic roofs"
     ]
   },
   {
@@ -4984,6 +6036,9 @@
     ],
     "incompatibles": [
       "tuile"
+    ],
+    "categoriesCommons": [
+      "Category:Roof tiles"
     ]
   },
   {
@@ -4999,6 +6054,9 @@
     ],
     "incompatibles": [
       "tuile"
+    ],
+    "categoriesCommons": [
+      "Category:Roof tiles"
     ]
   },
   {
@@ -5015,6 +6073,10 @@
     "incompatibles": [
       "tuile",
       "ardoise"
+    ],
+    "categoriesCommons": [
+      "Category:Flat roof tiles",
+      "Category:Roof tiles"
     ]
   },
   {
@@ -5031,6 +6093,11 @@
     "incompatibles": [
       "faitage",
       "tuile"
+    ],
+    "categoriesCommons": [
+      "Category:Ridge tiles",
+      "Category:Roof tiles",
+      "Category:Roof ridges"
     ]
   },
   {
@@ -5046,6 +6113,10 @@
     ],
     "incompatibles": [
       "bardeau"
+    ],
+    "categoriesCommons": [
+      "Category:Shingles",
+      "Category:Shingle roofs"
     ]
   },
   {
@@ -5061,6 +6132,10 @@
     ],
     "incompatibles": [
       "toit-mansarde"
+    ],
+    "categoriesCommons": [
+      "Category:Zinc roofs",
+      "Category:Metal roofs"
     ]
   },
   {
@@ -5073,6 +6148,9 @@
       "glass roof atrium",
       "verrière toiture",
       "iron glass roof"
+    ],
+    "categoriesCommons": [
+      "Category:Skylights"
     ]
   },
   {
@@ -5089,6 +6167,10 @@
     "incompatibles": [
       "lucarne",
       "lanterneau"
+    ],
+    "categoriesCommons": [
+      "Category:Roof windows",
+      "Category:Skylights"
     ]
   },
   {
@@ -5104,6 +6186,11 @@
     ],
     "incompatibles": [
       "lucarne"
+    ],
+    "categoriesCommons": [
+      "Category:Dormer windows",
+      "Category:Dormers",
+      "Category:Roof windows"
     ]
   },
   {
@@ -5134,6 +6221,9 @@
     ],
     "incompatibles": [
       "gouttiere"
+    ],
+    "categoriesCommons": [
+      "Category:Rain gutters"
     ]
   },
   {
@@ -5149,6 +6239,11 @@
     ],
     "incompatibles": [
       "gouttiere"
+    ],
+    "categoriesCommons": [
+      "Category:Box gutters",
+      "Category:Rain gutters",
+      "Category:Gutters"
     ]
   },
   {
@@ -5164,6 +6259,9 @@
     ],
     "incompatibles": [
       "descente-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Rain gutters"
     ]
   },
   {
@@ -5179,6 +6277,9 @@
     ],
     "incompatibles": [
       "descente-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Rain gutters"
     ]
   },
   {
@@ -5194,6 +6295,9 @@
     ],
     "incompatibles": [
       "toiture-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Roof drainage"
     ]
   },
   {
@@ -5210,6 +6314,10 @@
     "incompatibles": [
       "gargouille",
       "acrotere"
+    ],
+    "categoriesCommons": [
+      "Category:Scuppers",
+      "Category:Gargoyles"
     ]
   },
   {
@@ -5226,6 +6334,9 @@
     "incompatibles": [
       "gargouille-de-terrasse",
       "acrotere"
+    ],
+    "categoriesCommons": [
+      "Category:Scuppers"
     ]
   },
   {
@@ -5242,6 +6353,9 @@
     "incompatibles": [
       "toiture-terrasse",
       "releve-d-etancheite"
+    ],
+    "categoriesCommons": [
+      "Category:Flat roofs"
     ]
   },
   {
@@ -5258,6 +6372,9 @@
     "incompatibles": [
       "acrotere",
       "toiture-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Flat roofs"
     ]
   },
   {
@@ -5273,6 +6390,9 @@
     ],
     "incompatibles": [
       "terrasse-accessible"
+    ],
+    "categoriesCommons": [
+      "Category:Roof terraces"
     ]
   },
   {
@@ -5289,6 +6409,9 @@
     "incompatibles": [
       "acrotere",
       "chaperon"
+    ],
+    "categoriesCommons": [
+      "Category:Parapets"
     ]
   },
   {
@@ -5304,6 +6427,10 @@
     ],
     "incompatibles": [
       "tuile"
+    ],
+    "categoriesCommons": [
+      "Category:Roof ventilation",
+      "Category:Roof tiles"
     ]
   },
   {
@@ -5319,6 +6446,10 @@
     ],
     "incompatibles": [
       "souche-de-cheminee"
+    ],
+    "categoriesCommons": [
+      "Category:Chimney pots",
+      "Category:Chimneys"
     ]
   },
   {
@@ -5334,6 +6465,10 @@
     ],
     "incompatibles": [
       "toiture-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Rooftop structures",
+      "Category:Roofs"
     ]
   },
   {
@@ -5414,6 +6549,10 @@
     ],
     "incompatibles": [
       "fondation"
+    ],
+    "categoriesCommons": [
+      "Category:Piles",
+      "Category:Concrete piles"
     ]
   },
   {
@@ -5448,6 +6587,9 @@
       "fouille",
       "fondation",
       "tranchee-de-fondation"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete"
     ]
   },
   {
@@ -5463,6 +6605,9 @@
     ],
     "incompatibles": [
       "fondation"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete"
     ]
   },
   {
@@ -5479,6 +6624,9 @@
     "incompatibles": [
       "soubassement",
       "arase"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry"
     ]
   },
   {
@@ -5491,6 +6639,9 @@
       "crawl space foundation",
       "vide sanitaire construction",
       "crawlspace under house"
+    ],
+    "categoriesCommons": [
+      "Category:Crawl spaces"
     ]
   },
   {
@@ -5503,6 +6654,9 @@
       "foundation excavation pit construction site",
       "fouille fondations chantier",
       "excavation construction"
+    ],
+    "categoriesCommons": [
+      "Category:Construction sites"
     ]
   },
   {
@@ -5518,6 +6672,9 @@
     ],
     "incompatibles": [
       "fouille"
+    ],
+    "categoriesCommons": [
+      "Category:Trenches"
     ]
   },
   {
@@ -5534,6 +6691,9 @@
     "incompatibles": [
       "fouille",
       "remblai"
+    ],
+    "categoriesCommons": [
+      "Category:Earthworks"
     ]
   },
   {
@@ -5546,6 +6706,10 @@
       "backfill soil foundation construction",
       "remblai compacté fondation",
       "backfilling trench"
+    ],
+    "categoriesCommons": [
+      "Category:Embankments",
+      "Category:Earthworks"
     ]
   },
   {
@@ -5562,6 +6726,10 @@
     "incompatibles": [
       "tranchee-de-fondation",
       "fouille"
+    ],
+    "categoriesCommons": [
+      "Category:Shoring",
+      "Category:Trenches"
     ]
   },
   {
@@ -5579,6 +6747,9 @@
       "dallage",
       "herisson",
       "pare-vapeur"
+    ],
+    "categoriesCommons": [
+      "Category:Vapor barriers"
     ]
   },
   {
@@ -5594,6 +6765,10 @@
     ],
     "incompatibles": [
       "dallage"
+    ],
+    "categoriesCommons": [
+      "Category:Gravel",
+      "Category:Crushed stone"
     ]
   },
   {
@@ -5609,6 +6784,9 @@
     ],
     "incompatibles": [
       "fouille"
+    ],
+    "categoriesCommons": [
+      "Category:Retaining walls"
     ]
   },
   {
@@ -5625,6 +6803,11 @@
     "incompatibles": [
       "fouille",
       "palplanche"
+    ],
+    "categoriesCommons": [
+      "Category:Soldier pile walls",
+      "Category:Retaining walls",
+      "Category:Shoring"
     ]
   },
   {
@@ -5640,6 +6823,9 @@
     ],
     "incompatibles": [
       "fouille"
+    ],
+    "categoriesCommons": [
+      "Category:Sheet piling"
     ]
   },
   {
@@ -5656,6 +6842,10 @@
     "incompatibles": [
       "fondation",
       "soubassement"
+    ],
+    "categoriesCommons": [
+      "Category:Bitumen",
+      "Category:Waterproofing"
     ]
   },
   {
@@ -5671,6 +6861,9 @@
     ],
     "incompatibles": [
       "fondation"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete piers"
     ]
   },
   {
@@ -5687,6 +6880,9 @@
     "incompatibles": [
       "betonnage",
       "beton"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete"
     ]
   },
   {
@@ -5703,6 +6899,9 @@
     "incompatibles": [
       "beton-frais",
       "pompe-a-beton"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete construction"
     ]
   },
   {
@@ -5715,6 +6914,10 @@
       "rebar reinforcement construction",
       "ferraillage béton armé",
       "steel reinforcement slab"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5731,6 +6934,10 @@
     "incompatibles": [
       "ferraillage",
       "treillis-soude"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5747,6 +6954,11 @@
     "incompatibles": [
       "ferraillage",
       "cadre-d-armature"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar cages",
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5762,6 +6974,10 @@
     ],
     "incompatibles": [
       "ferraillage"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Steel bars"
     ]
   },
   {
@@ -5777,6 +6993,10 @@
     ],
     "incompatibles": [
       "fer-a-beton"
+    ],
+    "categoriesCommons": [
+      "Category:Steel bars",
+      "Category:Rebar"
     ]
   },
   {
@@ -5793,6 +7013,10 @@
     "incompatibles": [
       "ferraillage",
       "etrier"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Rebar cages"
     ]
   },
   {
@@ -5809,6 +7033,10 @@
     "incompatibles": [
       "ferraillage",
       "cadre-d-armature"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Rebar cages"
     ]
   },
   {
@@ -5825,6 +7053,10 @@
     "incompatibles": [
       "ferraillage",
       "cadre-d-armature"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5840,6 +7072,10 @@
     ],
     "incompatibles": [
       "ferraillage"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5855,6 +7091,10 @@
     ],
     "incompatibles": [
       "ferraillage"
+    ],
+    "categoriesCommons": [
+      "Category:Welded wire mesh",
+      "Category:Rebar"
     ]
   },
   {
@@ -5871,6 +7111,10 @@
     "incompatibles": [
       "ferraillage",
       "amorce-de-poteau"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5886,6 +7130,10 @@
     ],
     "incompatibles": [
       "armature-en-attente"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5902,6 +7150,10 @@
     "incompatibles": [
       "ferraillage",
       "armature-en-attente"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5917,6 +7169,9 @@
     ],
     "incompatibles": [
       "ferraillage"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar"
     ]
   },
   {
@@ -5933,6 +7188,10 @@
     "incompatibles": [
       "ferraillage",
       "fil-a-ligaturer"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5948,6 +7207,11 @@
     ],
     "incompatibles": [
       "ferraillage"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar spacers",
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5964,6 +7228,10 @@
     "incompatibles": [
       "ferraillage",
       "ferraillage-de-dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -5976,6 +7244,10 @@
       "construction joint concrete",
       "reprise de bétonnage",
       "cold joint concrete wall"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete",
+      "Category:Concrete construction"
     ]
   },
   {
@@ -5988,6 +7260,9 @@
       "honeycombing concrete",
       "nid de cailloux béton",
       "concrete honeycomb defect"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete"
     ]
   },
   {
@@ -6015,6 +7290,9 @@
       "concrete spalling edge",
       "épaufrure béton",
       "spalled concrete"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete"
     ]
   },
   {
@@ -6027,6 +7305,10 @@
       "shotcrete spraying",
       "béton projeté",
       "sprayed concrete wall"
+    ],
+    "categoriesCommons": [
+      "Category:Shotcrete",
+      "Category:Concrete"
     ]
   },
   {
@@ -6042,6 +7324,9 @@
     ],
     "incompatibles": [
       "reprise-de-betonnage"
+    ],
+    "categoriesCommons": [
+      "Category:Waterproofing"
     ]
   },
   {
@@ -6057,6 +7342,10 @@
     ],
     "incompatibles": [
       "tremie"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete walls",
+      "Category:Concrete construction"
     ]
   },
   {
@@ -6072,6 +7361,11 @@
     ],
     "incompatibles": [
       "reservation"
+    ],
+    "categoriesCommons": [
+      "Category:Floor openings",
+      "Category:Concrete slabs",
+      "Category:Concrete construction"
     ]
   },
   {
@@ -6088,6 +7382,9 @@
     "incompatibles": [
       "poutrelle",
       "plancher-a-corps-creux"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs"
     ]
   },
   {
@@ -6104,6 +7401,10 @@
     "incompatibles": [
       "hourdis",
       "plancher-a-corps-creux"
+    ],
+    "categoriesCommons": [
+      "Category:Precast concrete",
+      "Category:Concrete beams"
     ]
   },
   {
@@ -6121,6 +7422,9 @@
       "hourdis",
       "plancher-a-corps-creux",
       "treillis-soude"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs"
     ]
   },
   {
@@ -6136,6 +7440,10 @@
     ],
     "incompatibles": [
       "dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Precast concrete",
+      "Category:Concrete slabs"
     ]
   },
   {
@@ -6148,6 +7456,10 @@
       "confined masonry tie beam",
       "chaînage béton armé maçonnerie",
       "bond beam masonry"
+    ],
+    "categoriesCommons": [
+      "Category:Reinforced concrete",
+      "Category:Masonry"
     ]
   },
   {
@@ -6164,6 +7476,10 @@
     "incompatibles": [
       "chainage",
       "poutre"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete beams",
+      "Category:Masonry"
     ]
   },
   {
@@ -6180,6 +7496,10 @@
     "incompatibles": [
       "chainage",
       "poteau"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -6196,6 +7516,11 @@
     "incompatibles": [
       "linteau",
       "chainage-horizontal"
+    ],
+    "categoriesCommons": [
+      "Category:Lintels",
+      "Category:Concrete beams",
+      "Category:Formwork"
     ]
   },
   {
@@ -6211,6 +7536,10 @@
     ],
     "incompatibles": [
       "linteau"
+    ],
+    "categoriesCommons": [
+      "Category:Lintels",
+      "Category:Precast concrete"
     ]
   },
   {
@@ -6223,6 +7552,9 @@
       "masonry wall construction",
       "mur en maçonnerie",
       "bricklaying wall"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry"
     ]
   },
   {
@@ -6240,6 +7572,9 @@
       "maconnerie",
       "ossature-en-beton-arme",
       "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Brick walls"
     ]
   },
   {
@@ -6255,6 +7590,9 @@
     ],
     "incompatibles": [
       "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete blocks"
     ]
   },
   {
@@ -6270,6 +7608,11 @@
     ],
     "incompatibles": [
       "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Insulating concrete forms",
+      "Category:Concrete blocks",
+      "Category:Formwork"
     ]
   },
   {
@@ -6286,6 +7629,10 @@
     "incompatibles": [
       "parpaing",
       "chainage-horizontal"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete blocks",
+      "Category:Lintels"
     ]
   },
   {
@@ -6301,6 +7648,10 @@
     ],
     "incompatibles": [
       "brique"
+    ],
+    "categoriesCommons": [
+      "Category:Clay bricks",
+      "Category:Bricks"
     ]
   },
   {
@@ -6316,6 +7667,10 @@
     ],
     "incompatibles": [
       "nez-de-dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Clay bricks"
     ]
   },
   {
@@ -6333,6 +7688,10 @@
       "appareil-en-panneresses",
       "appareil-flamand",
       "appareil-anglais"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Brick walls"
     ]
   },
   {
@@ -6349,6 +7708,10 @@
     "incompatibles": [
       "appareil-flamand",
       "appareil-anglais"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Brick walls"
     ]
   },
   {
@@ -6364,6 +7727,10 @@
     ],
     "incompatibles": [
       "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Stretcher bond",
+      "Category:Brick walls"
     ]
   },
   {
@@ -6380,6 +7747,10 @@
     "incompatibles": [
       "appareil-anglais",
       "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Flemish bond",
+      "Category:Brick walls"
     ]
   },
   {
@@ -6395,6 +7766,10 @@
     ],
     "incompatibles": [
       "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:English bond",
+      "Category:Brick walls"
     ]
   },
   {
@@ -6410,6 +7785,9 @@
     ],
     "incompatibles": [
       "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Opus spicatum"
     ]
   },
   {
@@ -6426,6 +7804,10 @@
     "incompatibles": [
       "mur-en-moellons",
       "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Opus incertum",
+      "Category:Masonry"
     ]
   },
   {
@@ -6441,6 +7823,11 @@
     ],
     "incompatibles": [
       "mur-en-pierre-seche"
+    ],
+    "categoriesCommons": [
+      "Category:Cyclopean masonry",
+      "Category:Polygonal masonry",
+      "Category:Masonry"
     ]
   },
   {
@@ -6453,6 +7840,10 @@
       "opus reticulatum",
       "appareil réticulé",
       "reticulate masonry roman"
+    ],
+    "categoriesCommons": [
+      "Category:Opus reticulatum",
+      "Category:Masonry"
     ]
   },
   {
@@ -6469,6 +7860,10 @@
     "incompatibles": [
       "maconnerie",
       "joint-de-maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry",
+      "Category:Brick walls"
     ]
   },
   {
@@ -6484,6 +7879,11 @@
     ],
     "incompatibles": [
       "assise"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry",
+      "Category:Concrete block walls",
+      "Category:Brick walls"
     ]
   },
   {
@@ -6499,6 +7899,10 @@
     ],
     "incompatibles": [
       "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Mortar joints",
+      "Category:Brick walls"
     ]
   },
   {
@@ -6514,6 +7918,10 @@
     ],
     "incompatibles": [
       "joint-de-maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Mortar joints",
+      "Category:Brickwork"
     ]
   },
   {
@@ -6530,6 +7938,10 @@
     "incompatibles": [
       "mortier",
       "joint-de-maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Mortar",
+      "Category:Masonry"
     ]
   },
   {
@@ -6545,6 +7957,9 @@
     ],
     "incompatibles": [
       "gachage"
+    ],
+    "categoriesCommons": [
+      "Category:Mortar"
     ]
   },
   {
@@ -6576,6 +7991,10 @@
     ],
     "incompatibles": [
       "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Dry stone walls",
+      "Category:Stone walls"
     ]
   },
   {
@@ -6592,6 +8011,10 @@
     "incompatibles": [
       "moellon",
       "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Stone walls",
+      "Category:Masonry"
     ]
   },
   {
@@ -6622,6 +8045,9 @@
     ],
     "incompatibles": [
       "gaine-icta"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry"
     ]
   },
   {
@@ -6634,6 +8060,11 @@
       "putlog holes",
       "trou de boulin",
       "putlog holes medieval wall"
+    ],
+    "categoriesCommons": [
+      "Category:Putlog holes",
+      "Category:Scaffolding",
+      "Category:Stone walls"
     ]
   },
   {
@@ -6649,6 +8080,9 @@
     ],
     "incompatibles": [
       "dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs"
     ]
   },
   {
@@ -6664,6 +8098,10 @@
     ],
     "incompatibles": [
       "dallage"
+    ],
+    "categoriesCommons": [
+      "Category:Screeds",
+      "Category:Floor construction"
     ]
   },
   {
@@ -6680,6 +8118,10 @@
     "incompatibles": [
       "chape",
       "ragreage"
+    ],
+    "categoriesCommons": [
+      "Category:Screeds",
+      "Category:Floor construction"
     ]
   },
   {
@@ -6696,6 +8138,9 @@
     "incompatibles": [
       "dallage",
       "chape"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs"
     ]
   },
   {
@@ -6708,6 +8153,10 @@
       "cement bags construction site",
       "sac de ciment",
       "cement sacks"
+    ],
+    "categoriesCommons": [
+      "Category:Cement",
+      "Category:Cement bags"
     ]
   },
   {
@@ -6720,6 +8169,9 @@
       "sand pile construction site",
       "tas de sable chantier",
       "building sand heap"
+    ],
+    "categoriesCommons": [
+      "Category:Sand"
     ]
   },
   {
@@ -6735,6 +8187,10 @@
     ],
     "incompatibles": [
       "sable"
+    ],
+    "categoriesCommons": [
+      "Category:Gravel",
+      "Category:Crushed stone"
     ]
   },
   {
@@ -6751,6 +8207,10 @@
     "incompatibles": [
       "colonne",
       "pilier"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete columns",
+      "Category:Columns"
     ]
   },
   {
@@ -6766,6 +8226,11 @@
     ],
     "incompatibles": [
       "retombee-de-poutre"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete beams",
+      "Category:Beams",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -6778,6 +8243,10 @@
       "reinforced concrete slab floor",
       "dalle béton armé",
       "concrete floor slab structure"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -6812,6 +8281,10 @@
     "incompatibles": [
       "dalle",
       "dalle-caissonnee"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs",
+      "Category:Concrete ceilings"
     ]
   },
   {
@@ -6827,6 +8300,10 @@
     ],
     "incompatibles": [
       "dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Coffered ceilings",
+      "Category:Concrete ceilings"
     ]
   },
   {
@@ -6843,6 +8320,10 @@
     "incompatibles": [
       "poteau",
       "dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Mushroom columns",
+      "Category:Concrete slabs"
     ]
   },
   {
@@ -6858,6 +8339,9 @@
     ],
     "incompatibles": [
       "dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Precast concrete"
     ]
   },
   {
@@ -6889,6 +8373,10 @@
     ],
     "incompatibles": [
       "mur-porteur"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete walls",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -6906,6 +8394,9 @@
       "voile",
       "mur-de-remplissage",
       "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Walls"
     ]
   },
   {
@@ -6923,6 +8414,10 @@
       "poteau",
       "colonne",
       "pilier-de-portail"
+    ],
+    "categoriesCommons": [
+      "Category:Pillars",
+      "Category:Piers (architecture)"
     ]
   },
   {
@@ -6940,6 +8435,10 @@
       "poteau",
       "poutre",
       "ossature-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Steel frame buildings",
+      "Category:Steel structures"
     ]
   },
   {
@@ -6957,6 +8456,9 @@
       "poteau",
       "poutre",
       "dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -6975,6 +8477,10 @@
       "profile-en-i",
       "profile-en-h",
       "charpente-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Steel frame buildings",
+      "Category:Steel structures"
     ]
   },
   {
@@ -6990,6 +8496,9 @@
     ],
     "incompatibles": [
       "colombage"
+    ],
+    "categoriesCommons": [
+      "Category:Timber framing"
     ]
   },
   {
@@ -7007,6 +8516,9 @@
       "poteau",
       "profile-en-h",
       "platine"
+    ],
+    "categoriesCommons": [
+      "Category:Steel structures"
     ]
   },
   {
@@ -7022,6 +8534,10 @@
     ],
     "incompatibles": [
       "profile-en-h"
+    ],
+    "categoriesCommons": [
+      "Category:I-beams",
+      "Category:Steel beams"
     ]
   },
   {
@@ -7037,6 +8553,10 @@
     ],
     "incompatibles": [
       "profile-en-i"
+    ],
+    "categoriesCommons": [
+      "Category:H-beams",
+      "Category:Steel beams"
     ]
   },
   {
@@ -7052,6 +8572,9 @@
     ],
     "incompatibles": [
       "profile-en-i"
+    ],
+    "categoriesCommons": [
+      "Category:Steel beams"
     ]
   },
   {
@@ -7081,6 +8604,9 @@
       "ferme-metallique",
       "ferme",
       "structure-tridimensionnelle"
+    ],
+    "categoriesCommons": [
+      "Category:Trusses"
     ]
   },
   {
@@ -7096,6 +8622,10 @@
     ],
     "incompatibles": [
       "poutre-treillis"
+    ],
+    "categoriesCommons": [
+      "Category:Vierendeel bridges",
+      "Category:Trusses"
     ]
   },
   {
@@ -7114,6 +8644,9 @@
       "poutre-treillis",
       "charpente-metallique",
       "gousset"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses"
     ]
   },
   {
@@ -7126,6 +8659,10 @@
       "space frame structure",
       "structure tridimensionnelle",
       "spaceframe roof"
+    ],
+    "categoriesCommons": [
+      "Category:Space frames",
+      "Category:Steel structures"
     ]
   },
   {
@@ -7141,6 +8678,9 @@
     ],
     "incompatibles": [
       "croix-de-saint-andre"
+    ],
+    "categoriesCommons": [
+      "Category:Steel frame buildings"
     ]
   },
   {
@@ -7156,6 +8696,9 @@
     ],
     "incompatibles": [
       "contreventement"
+    ],
+    "categoriesCommons": [
+      "Category:Saint Andrew's crosses"
     ]
   },
   {
@@ -7171,6 +8714,9 @@
     ],
     "incompatibles": [
       "ancre"
+    ],
+    "categoriesCommons": [
+      "Category:Arches"
     ]
   },
   {
@@ -7186,6 +8732,9 @@
     ],
     "incompatibles": [
       "tirant"
+    ],
+    "categoriesCommons": [
+      "Category:Wall anchors"
     ]
   },
   {
@@ -7198,6 +8747,10 @@
       "cable stayed roof",
       "hauban câble",
       "stay cables structure"
+    ],
+    "categoriesCommons": [
+      "Category:Cable-stayed structures",
+      "Category:Cables"
     ]
   },
   {
@@ -7229,6 +8782,10 @@
     ],
     "incompatibles": [
       "platine"
+    ],
+    "categoriesCommons": [
+      "Category:Anchor bolts",
+      "Category:Bolts"
     ]
   },
   {
@@ -7245,6 +8802,10 @@
     "incompatibles": [
       "gousset",
       "platine"
+    ],
+    "categoriesCommons": [
+      "Category:Bolted joints",
+      "Category:Bolts"
     ]
   },
   {
@@ -7257,6 +8818,9 @@
       "welded steel connection",
       "assemblage soudé",
       "weld bead steel"
+    ],
+    "categoriesCommons": [
+      "Category:Welding"
     ]
   },
   {
@@ -7272,6 +8836,10 @@
     ],
     "incompatibles": [
       "assemblage-boulonne"
+    ],
+    "categoriesCommons": [
+      "Category:Gusset plates",
+      "Category:Steel structures"
     ]
   },
   {
@@ -7287,6 +8855,10 @@
     ],
     "incompatibles": [
       "portique"
+    ],
+    "categoriesCommons": [
+      "Category:Steel frame buildings",
+      "Category:Steel structures"
     ]
   },
   {
@@ -7299,6 +8871,11 @@
       "elastomeric bearing pad",
       "appareil d'appui néoprène",
       "bridge bearing"
+    ],
+    "categoriesCommons": [
+      "Category:Bridge bearings",
+      "Category:Elastomeric bearings",
+      "Category:Bearings"
     ]
   },
   {
@@ -7311,6 +8888,10 @@
       "building expansion joint",
       "joint de dilatation",
       "expansion joint facade"
+    ],
+    "categoriesCommons": [
+      "Category:Expansion joints",
+      "Category:Bridge expansion joints"
     ]
   },
   {
@@ -7328,6 +8909,10 @@
       "encorbellement",
       "balcon",
       "casquette"
+    ],
+    "categoriesCommons": [
+      "Category:Cantilevers",
+      "Category:Cantilever balconies"
     ]
   },
   {
@@ -7343,6 +8928,11 @@
     ],
     "incompatibles": [
       "poutre"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete beams",
+      "Category:Beams",
+      "Category:Concrete ceilings"
     ]
   },
   {
@@ -7358,6 +8948,11 @@
     ],
     "incompatibles": [
       "poutre"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete beams",
+      "Category:Beams",
+      "Category:Reinforced concrete"
     ]
   },
   {
@@ -7373,6 +8968,10 @@
     ],
     "incompatibles": [
       "chevetre"
+    ],
+    "categoriesCommons": [
+      "Category:Joists",
+      "Category:Wooden beams"
     ]
   },
   {
@@ -7389,6 +8988,10 @@
     "incompatibles": [
       "solive",
       "tremie"
+    ],
+    "categoriesCommons": [
+      "Category:Joists",
+      "Category:Timber framing"
     ]
   },
   {
@@ -7404,6 +9007,9 @@
     ],
     "incompatibles": [
       "voute"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete roofs"
     ]
   },
   {
@@ -7420,6 +9026,11 @@
     "incompatibles": [
       "arc",
       "cle-de-voute"
+    ],
+    "categoriesCommons": [
+      "Category:Voussoirs",
+      "Category:Arches",
+      "Category:Stone arches"
     ]
   },
   {
@@ -7436,6 +9047,11 @@
     "incompatibles": [
       "arc",
       "claveau"
+    ],
+    "categoriesCommons": [
+      "Category:Arches",
+      "Category:Voussoirs",
+      "Category:Stone arches"
     ]
   },
   {
@@ -7454,6 +9070,10 @@
       "voute",
       "claveau",
       "cle-de-voute"
+    ],
+    "categoriesCommons": [
+      "Category:Arches",
+      "Category:Stone arches"
     ]
   },
   {
@@ -7470,6 +9090,9 @@
     "incompatibles": [
       "arc",
       "baie-cintree"
+    ],
+    "categoriesCommons": [
+      "Category:Arches"
     ]
   },
   {
@@ -7485,6 +9108,11 @@
     ],
     "incompatibles": [
       "arc"
+    ],
+    "categoriesCommons": [
+      "Category:Pointed arches",
+      "Category:Gothic arches",
+      "Category:Arches"
     ]
   },
   {
@@ -7500,6 +9128,11 @@
     ],
     "incompatibles": [
       "arc"
+    ],
+    "categoriesCommons": [
+      "Category:Segmental arches",
+      "Category:Arches",
+      "Category:Brick arches"
     ]
   },
   {
@@ -7515,6 +9148,10 @@
     ],
     "incompatibles": [
       "arc"
+    ],
+    "categoriesCommons": [
+      "Category:Horseshoe arches",
+      "Category:Arches"
     ]
   },
   {
@@ -7531,6 +9168,10 @@
     "incompatibles": [
       "arc",
       "linteau"
+    ],
+    "categoriesCommons": [
+      "Category:Arches",
+      "Category:Lintels"
     ]
   },
   {
@@ -7547,6 +9188,10 @@
     "incompatibles": [
       "voute",
       "voute-nubienne"
+    ],
+    "categoriesCommons": [
+      "Category:Barrel vaults",
+      "Category:Vaults"
     ]
   },
   {
@@ -7562,6 +9207,10 @@
     ],
     "incompatibles": [
       "voute"
+    ],
+    "categoriesCommons": [
+      "Category:Groin vaults",
+      "Category:Vaults"
     ]
   },
   {
@@ -7578,6 +9227,10 @@
     "incompatibles": [
       "voute",
       "cle-de-voute"
+    ],
+    "categoriesCommons": [
+      "Category:Gothic vaults",
+      "Category:Vaults"
     ]
   },
   {
@@ -7593,6 +9246,11 @@
     ],
     "incompatibles": [
       "coupole"
+    ],
+    "categoriesCommons": [
+      "Category:Pendentives",
+      "Category:Domes",
+      "Category:Dome interiors"
     ]
   },
   {
@@ -7608,6 +9266,9 @@
     ],
     "incompatibles": [
       "coupole"
+    ],
+    "categoriesCommons": [
+      "Category:Domes"
     ]
   },
   {
@@ -7623,6 +9284,11 @@
     ],
     "incompatibles": [
       "pierre-de-taille"
+    ],
+    "categoriesCommons": [
+      "Category:Granite",
+      "Category:Granite walls",
+      "Category:Granite buildings"
     ]
   },
   {
@@ -7635,6 +9301,10 @@
       "white marble veined slab",
       "marble cladding wall",
       "marbre veiné"
+    ],
+    "categoriesCommons": [
+      "Category:Marble",
+      "Category:Marble walls"
     ]
   },
   {
@@ -7654,6 +9324,11 @@
       "tuffeau",
       "travertin",
       "gres"
+    ],
+    "categoriesCommons": [
+      "Category:Limestone",
+      "Category:Limestone walls",
+      "Category:Limestone buildings"
     ]
   },
   {
@@ -7670,6 +9345,11 @@
     "incompatibles": [
       "pierre-de-taille",
       "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Sandstone",
+      "Category:Sandstone walls",
+      "Category:Sandstone buildings"
     ]
   },
   {
@@ -7686,6 +9366,9 @@
     "incompatibles": [
       "marbre",
       "calcaire"
+    ],
+    "categoriesCommons": [
+      "Category:Travertine"
     ]
   },
   {
@@ -7701,6 +9384,9 @@
     ],
     "incompatibles": [
       "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Basalt"
     ]
   },
   {
@@ -7716,6 +9402,9 @@
     ],
     "incompatibles": [
       "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Meulière"
     ]
   },
   {
@@ -7732,6 +9421,9 @@
     "incompatibles": [
       "pierre-de-taille",
       "calcaire"
+    ],
+    "categoriesCommons": [
+      "Category:Limestone buildings in France"
     ]
   },
   {
@@ -7744,6 +9436,11 @@
       "flint wall",
       "knapped flint wall",
       "mur en silex"
+    ],
+    "categoriesCommons": [
+      "Category:Flint",
+      "Category:Flint walls",
+      "Category:Flint buildings"
     ]
   },
   {
@@ -7759,6 +9456,11 @@
     ],
     "incompatibles": [
       "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Pebbles",
+      "Category:Pebble walls",
+      "Category:Cobblestones"
     ]
   },
   {
@@ -7776,6 +9478,10 @@
       "staff",
       "enduit-de-platre",
       "carreau-de-platre"
+    ],
+    "categoriesCommons": [
+      "Category:Plaster",
+      "Category:Gypsum"
     ]
   },
   {
@@ -7794,6 +9500,11 @@
       "beton-frais",
       "beton-prefabrique",
       "beton-imprime"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete",
+      "Category:Concrete walls",
+      "Category:Concrete structures"
     ]
   },
   {
@@ -7809,6 +9520,11 @@
     ],
     "incompatibles": [
       "beton"
+    ],
+    "categoriesCommons": [
+      "Category:Exposed aggregate concrete",
+      "Category:Concrete pavements",
+      "Category:Concrete"
     ]
   },
   {
@@ -7841,6 +9557,9 @@
     "incompatibles": [
       "beton",
       "beton-brut"
+    ],
+    "categoriesCommons": [
+      "Category:Stamped concrete"
     ]
   },
   {
@@ -7856,6 +9575,10 @@
     ],
     "incompatibles": [
       "beton"
+    ],
+    "categoriesCommons": [
+      "Category:Stamped concrete",
+      "Category:Concrete pavements"
     ]
   },
   {
@@ -7871,6 +9594,10 @@
     ],
     "incompatibles": [
       "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Autoclaved aerated concrete",
+      "Category:Concrete blocks"
     ]
   },
   {
@@ -7889,6 +9616,10 @@
       "beton-brut",
       "linteau-prefabrique",
       "predalle"
+    ],
+    "categoriesCommons": [
+      "Category:Precast concrete",
+      "Category:Prefabricated buildings"
     ]
   },
   {
@@ -7904,6 +9635,11 @@
     ],
     "incompatibles": [
       "brique"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Brick walls",
+      "Category:Brickwork"
     ]
   },
   {
@@ -7920,6 +9656,9 @@
     "incompatibles": [
       "brique",
       "banco"
+    ],
+    "categoriesCommons": [
+      "Category:Compressed earth blocks"
     ]
   },
   {
@@ -7935,6 +9674,10 @@
     ],
     "incompatibles": [
       "brique"
+    ],
+    "categoriesCommons": [
+      "Category:Glazed bricks",
+      "Category:Bricks"
     ]
   },
   {
@@ -7947,6 +9690,10 @@
       "glass block wall",
       "brique de verre",
       "glass bricks"
+    ],
+    "categoriesCommons": [
+      "Category:Glass blocks",
+      "Category:Glass block walls"
     ]
   },
   {
@@ -7964,6 +9711,9 @@
       "brique",
       "parement-en-pierre",
       "brique-pleine"
+    ],
+    "categoriesCommons": [
+      "Category:Stone veneer"
     ]
   },
   {
@@ -7981,6 +9731,10 @@
       "moellon",
       "pierre-de-taille",
       "pierre-reconstituee"
+    ],
+    "categoriesCommons": [
+      "Category:Stone veneer",
+      "Category:Stone walls"
     ]
   },
   {
@@ -7997,6 +9751,10 @@
     "incompatibles": [
       "pierre-de-taille",
       "parement-en-pierre"
+    ],
+    "categoriesCommons": [
+      "Category:Cast stone",
+      "Category:Artificial stone"
     ]
   },
   {
@@ -8014,6 +9772,9 @@
       "pierre-de-taille",
       "granite",
       "beton-boucharde"
+    ],
+    "categoriesCommons": [
+      "Category:Stone textures"
     ]
   },
   {
@@ -8026,6 +9787,10 @@
       "timber planks stack",
       "sawn lumber",
       "bois de construction"
+    ],
+    "categoriesCommons": [
+      "Category:Wood",
+      "Category:Timber"
     ]
   },
   {
@@ -8041,6 +9806,9 @@
     ],
     "incompatibles": [
       "bois"
+    ],
+    "categoriesCommons": [
+      "Category:Plywood"
     ]
   },
   {
@@ -8071,6 +9839,9 @@
     ],
     "incompatibles": [
       "bois"
+    ],
+    "categoriesCommons": [
+      "Category:Glued laminated timber"
     ]
   },
   {
@@ -8083,6 +9854,9 @@
       "bamboo construction",
       "bamboo building structure",
       "construction en bambou"
+    ],
+    "categoriesCommons": [
+      "Category:Bamboo"
     ]
   },
   {
@@ -8098,6 +9872,10 @@
     ],
     "incompatibles": [
       "bois"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden beams",
+      "Category:Planks"
     ]
   },
   {
@@ -8113,6 +9891,9 @@
     ],
     "incompatibles": [
       "bois"
+    ],
+    "categoriesCommons": [
+      "Category:Log cabins"
     ]
   },
   {
@@ -8130,6 +9911,11 @@
       "bardage",
       "tuile",
       "bardeau-bitume"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden shingles",
+      "Category:Shingles",
+      "Category:Shingle roofs"
     ]
   },
   {
@@ -8163,6 +9949,9 @@
       "tole-ondulee",
       "panneau-sandwich",
       "bac-acier"
+    ],
+    "categoriesCommons": [
+      "Category:Metal facades"
     ]
   },
   {
@@ -8218,6 +10007,11 @@
       "bardage-metallique",
       "fer-forge",
       "fonte"
+    ],
+    "categoriesCommons": [
+      "Category:Steel",
+      "Category:Structural steel",
+      "Category:Steel beams"
     ]
   },
   {
@@ -8248,6 +10042,10 @@
     ],
     "incompatibles": [
       "acier"
+    ],
+    "categoriesCommons": [
+      "Category:Galvanization",
+      "Category:Hot-dip galvanizing"
     ]
   },
   {
@@ -8264,6 +10062,10 @@
     "incompatibles": [
       "acier",
       "aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Stainless steel",
+      "Category:Stainless steel in architecture"
     ]
   },
   {
@@ -8282,6 +10084,10 @@
       "acier-galvanise",
       "menuiserie-aluminium",
       "profile-aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Aluminium",
+      "Category:Aluminium profiles"
     ]
   },
   {
@@ -8294,6 +10100,11 @@
       "copper roof patina",
       "copper cladding facade",
       "toiture en cuivre"
+    ],
+    "categoriesCommons": [
+      "Category:Copper",
+      "Category:Copper roofs",
+      "Category:Copper sheets"
     ]
   },
   {
@@ -8306,6 +10117,10 @@
       "brass door handle",
       "brass hardware",
       "laiton"
+    ],
+    "categoriesCommons": [
+      "Category:Brass",
+      "Category:Brass objects"
     ]
   },
   {
@@ -8321,6 +10136,9 @@
     ],
     "incompatibles": [
       "fer-forge"
+    ],
+    "categoriesCommons": [
+      "Category:Cast iron"
     ]
   },
   {
@@ -8338,6 +10156,11 @@
       "fonte",
       "garde-corps",
       "garde-corps-en-fer-forge"
+    ],
+    "categoriesCommons": [
+      "Category:Wrought iron",
+      "Category:Wrought iron gates",
+      "Category:Ironwork"
     ]
   },
   {
@@ -8353,6 +10176,9 @@
     ],
     "incompatibles": [
       "metal-deploye"
+    ],
+    "categoriesCommons": [
+      "Category:Metal facades"
     ]
   },
   {
@@ -8408,6 +10234,9 @@
       "wired glass",
       "wire mesh glass",
       "verre armé"
+    ],
+    "categoriesCommons": [
+      "Category:Glass"
     ]
   },
   {
@@ -8423,6 +10252,10 @@
     ],
     "incompatibles": [
       "verre-imprime"
+    ],
+    "categoriesCommons": [
+      "Category:Frosted glass",
+      "Category:Glass"
     ]
   },
   {
@@ -8438,6 +10271,9 @@
     ],
     "incompatibles": [
       "verre-depoli"
+    ],
+    "categoriesCommons": [
+      "Category:Glass"
     ]
   },
   {
@@ -8450,6 +10286,9 @@
       "reflective glass facade",
       "mirror glass building",
       "verre réfléchissant façade"
+    ],
+    "categoriesCommons": [
+      "Category:Glass facades"
     ]
   },
   {
@@ -8465,6 +10304,9 @@
     ],
     "incompatibles": [
       "plaque-translucide"
+    ],
+    "categoriesCommons": [
+      "Category:Polycarbonate"
     ]
   },
   {
@@ -8481,6 +10323,9 @@
     "incompatibles": [
       "beton",
       "gobetis"
+    ],
+    "categoriesCommons": [
+      "Category:Plaster"
     ]
   },
   {
@@ -8511,6 +10356,9 @@
     ],
     "incompatibles": [
       "enduit"
+    ],
+    "categoriesCommons": [
+      "Category:Sgraffito"
     ]
   },
   {
@@ -8541,6 +10389,10 @@
     ],
     "incompatibles": [
       "mosaique-de-pate-de-verre"
+    ],
+    "categoriesCommons": [
+      "Category:Mosaics",
+      "Category:Mosaic floors"
     ]
   },
   {
@@ -8571,6 +10423,10 @@
     ],
     "incompatibles": [
       "tole-ondulee"
+    ],
+    "categoriesCommons": [
+      "Category:Asbestos cement",
+      "Category:Fibre cement"
     ]
   },
   {
@@ -8586,6 +10442,9 @@
     ],
     "incompatibles": [
       "colombage"
+    ],
+    "categoriesCommons": [
+      "Category:Wattle and daub"
     ]
   },
   {
@@ -8614,6 +10473,10 @@
       "straw bale construction",
       "straw bale wall",
       "construction en bottes de paille"
+    ],
+    "categoriesCommons": [
+      "Category:Straw bales",
+      "Category:Straw bale houses"
     ]
   },
   {
@@ -8626,6 +10489,10 @@
       "expanded polystyrene insulation boards",
       "EPS insulation",
       "polystyrène expansé"
+    ],
+    "categoriesCommons": [
+      "Category:Expanded polystyrene",
+      "Category:Thermal insulation"
     ]
   },
   {
@@ -8641,6 +10508,10 @@
     ],
     "incompatibles": [
       "laine-de-roche"
+    ],
+    "categoriesCommons": [
+      "Category:Glass wool",
+      "Category:Thermal insulation"
     ]
   },
   {
@@ -8656,6 +10527,10 @@
     ],
     "incompatibles": [
       "laine-de-verre"
+    ],
+    "categoriesCommons": [
+      "Category:Mineral wool",
+      "Category:Thermal insulation"
     ]
   },
   {
@@ -8671,6 +10546,9 @@
     ],
     "incompatibles": [
       "brique"
+    ],
+    "categoriesCommons": [
+      "Category:Efflorescence"
     ]
   },
   {
@@ -8687,6 +10565,9 @@
     "incompatibles": [
       "corniche",
       "bandeau"
+    ],
+    "categoriesCommons": [
+      "Category:Moldings"
     ]
   },
   {
@@ -8704,6 +10585,11 @@
       "entablement",
       "frise",
       "chapiteau"
+    ],
+    "categoriesCommons": [
+      "Category:Architraves",
+      "Category:Entablatures",
+      "Category:Architectural elements"
     ]
   },
   {
@@ -8723,6 +10609,9 @@
       "corniche",
       "triglyphe",
       "metope"
+    ],
+    "categoriesCommons": [
+      "Category:Entablatures"
     ]
   },
   {
@@ -8740,6 +10629,11 @@
       "metope",
       "frise",
       "entablement"
+    ],
+    "categoriesCommons": [
+      "Category:Triglyphs",
+      "Category:Doric friezes",
+      "Category:Doric order"
     ]
   },
   {
@@ -8758,6 +10652,11 @@
       "frise",
       "bas-relief",
       "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Metopes",
+      "Category:Doric friezes",
+      "Category:Doric order"
     ]
   },
   {
@@ -8775,6 +10674,10 @@
       "chapiteau-ionique",
       "console",
       "chapiteau"
+    ],
+    "categoriesCommons": [
+      "Category:Volutes",
+      "Category:Ionic capitals"
     ]
   },
   {
@@ -8792,6 +10695,11 @@
       "chapiteau-corinthien",
       "chapiteau",
       "rinceau"
+    ],
+    "categoriesCommons": [
+      "Category:Acanthus leaves",
+      "Category:Acanthus ornaments",
+      "Category:Corinthian capitals"
     ]
   },
   {
@@ -8809,6 +10717,10 @@
       "corniche",
       "modillon",
       "moulure"
+    ],
+    "categoriesCommons": [
+      "Category:Dentils",
+      "Category:Cornices"
     ]
   },
   {
@@ -8842,6 +10754,9 @@
       "frise",
       "bas-relief",
       "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Ornaments"
     ]
   },
   {
@@ -8859,6 +10774,9 @@
       "frise",
       "bas-relief",
       "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Festoons"
     ]
   },
   {
@@ -8876,6 +10794,9 @@
       "frise",
       "bas-relief",
       "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Palmettes"
     ]
   },
   {
@@ -8891,6 +10812,9 @@
     ],
     "incompatibles": [
       "frise"
+    ],
+    "categoriesCommons": [
+      "Category:Greek key"
     ]
   },
   {
@@ -8908,6 +10832,9 @@
       "medaillon",
       "bas-relief",
       "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Cartouches"
     ]
   },
   {
@@ -8925,6 +10852,10 @@
       "cartouche",
       "bas-relief",
       "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Medallions (architecture)",
+      "Category:Roundels"
     ]
   },
   {
@@ -8940,6 +10871,9 @@
     ],
     "incompatibles": [
       "cariatide"
+    ],
+    "categoriesCommons": [
+      "Category:Atlantes"
     ]
   },
   {
@@ -9000,6 +10934,9 @@
       "haut-relief",
       "frise",
       "bas-relief-d-abomey"
+    ],
+    "categoriesCommons": [
+      "Category:Bas-reliefs"
     ]
   },
   {
@@ -9016,6 +10953,10 @@
     "incompatibles": [
       "bas-relief",
       "frise"
+    ],
+    "categoriesCommons": [
+      "Category:High reliefs",
+      "Category:Reliefs"
     ]
   },
   {
@@ -9031,6 +10972,9 @@
     ],
     "incompatibles": [
       "balustrade"
+    ],
+    "categoriesCommons": [
+      "Category:Finials"
     ]
   },
   {
@@ -9046,6 +10990,10 @@
     ],
     "incompatibles": [
       "faitage"
+    ],
+    "categoriesCommons": [
+      "Category:Roof finials",
+      "Category:Finials"
     ]
   },
   {
@@ -9063,6 +11011,10 @@
       "pinacle",
       "gable",
       "crochet"
+    ],
+    "categoriesCommons": [
+      "Category:Finials",
+      "Category:Fleurons"
     ]
   },
   {
@@ -9080,6 +11032,10 @@
       "pinacle",
       "gable",
       "fleuron"
+    ],
+    "categoriesCommons": [
+      "Category:Crockets",
+      "Category:Gothic architectural elements"
     ]
   },
   {
@@ -9097,6 +11053,9 @@
       "rosace",
       "vitrail",
       "meneau"
+    ],
+    "categoriesCommons": [
+      "Category:Tracery"
     ]
   },
   {
@@ -9115,6 +11074,10 @@
       "fronton",
       "crochet",
       "fleuron"
+    ],
+    "categoriesCommons": [
+      "Category:Gables",
+      "Category:Gothic gables"
     ]
   },
   {
@@ -9131,6 +11094,10 @@
     "incompatibles": [
       "colonne",
       "pilastre"
+    ],
+    "categoriesCommons": [
+      "Category:Fluted columns",
+      "Category:Columns"
     ]
   },
   {
@@ -9147,6 +11114,11 @@
     "incompatibles": [
       "chapiteau",
       "feuille-d-acanthe"
+    ],
+    "categoriesCommons": [
+      "Category:Corinthian capitals",
+      "Category:Corinthian order",
+      "Category:Capitals (architecture)"
     ]
   },
   {
@@ -9163,6 +11135,11 @@
     "incompatibles": [
       "chapiteau",
       "volute"
+    ],
+    "categoriesCommons": [
+      "Category:Ionic capitals",
+      "Category:Ionic order",
+      "Category:Capitals (architecture)"
     ]
   },
   {
@@ -9178,6 +11155,11 @@
     ],
     "incompatibles": [
       "chapiteau"
+    ],
+    "categoriesCommons": [
+      "Category:Doric capitals",
+      "Category:Doric order",
+      "Category:Capitals (architecture)"
     ]
   },
   {
@@ -9194,6 +11176,9 @@
     "incompatibles": [
       "rosace",
       "remplage"
+    ],
+    "categoriesCommons": [
+      "Category:Stained glass"
     ]
   },
   {
@@ -9209,6 +11194,9 @@
     ],
     "incompatibles": [
       "trompe-l-oeil"
+    ],
+    "categoriesCommons": [
+      "Category:Frescos"
     ]
   },
   {
@@ -9224,6 +11212,9 @@
     ],
     "incompatibles": [
       "fresque"
+    ],
+    "categoriesCommons": [
+      "Category:Murals"
     ]
   },
   {
@@ -9239,6 +11230,9 @@
     ],
     "incompatibles": [
       "fresque"
+    ],
+    "categoriesCommons": [
+      "Category:Sgraffito"
     ]
   },
   {
@@ -9251,6 +11245,10 @@
       "lambrequin bois",
       "gingerbread trim eaves",
       "decorative bargeboard fretwork"
+    ],
+    "categoriesCommons": [
+      "Category:Lambrequins",
+      "Category:Bargeboards"
     ]
   },
   {
@@ -9267,6 +11265,9 @@
     "incompatibles": [
       "rinceau",
       "zellige"
+    ],
+    "categoriesCommons": [
+      "Category:Islamic geometric patterns"
     ]
   },
   {
@@ -9282,6 +11283,11 @@
     ],
     "incompatibles": [
       "colonne"
+    ],
+    "categoriesCommons": [
+      "Category:Solomonic columns",
+      "Category:Twisted columns",
+      "Category:Columns"
     ]
   },
   {
@@ -9298,6 +11304,10 @@
     "incompatibles": [
       "console",
       "corbeau"
+    ],
+    "categoriesCommons": [
+      "Category:Corbels",
+      "Category:Gothic corbels"
     ]
   },
   {
@@ -9313,6 +11323,11 @@
     ],
     "incompatibles": [
       "fronton"
+    ],
+    "categoriesCommons": [
+      "Category:Broken pediments",
+      "Category:Pediments",
+      "Category:Baroque pediments"
     ]
   },
   {
@@ -9328,6 +11343,9 @@
     ],
     "incompatibles": [
       "moulure"
+    ],
+    "categoriesCommons": [
+      "Category:Ceiling roses"
     ]
   },
   {
@@ -9346,6 +11364,10 @@
       "banco",
       "crepissage",
       "minaret"
+    ],
+    "categoriesCommons": [
+      "Category:Mosques in Mali",
+      "Category:Great Mosque of Djenné"
     ]
   },
   {
@@ -9362,6 +11384,9 @@
     "incompatibles": [
       "voute",
       "banco"
+    ],
+    "categoriesCommons": [
+      "Category:Nubian vaults"
     ]
   },
   {
@@ -9378,6 +11403,9 @@
     "incompatibles": [
       "piste-lateritique",
       "pierre-de-laterite"
+    ],
+    "categoriesCommons": [
+      "Category:Laterite"
     ]
   },
   {
@@ -9394,6 +11422,9 @@
     "incompatibles": [
       "laterite",
       "chaussee"
+    ],
+    "categoriesCommons": [
+      "Category:Dirt roads"
     ]
   },
   {
@@ -9410,6 +11441,9 @@
     "incompatibles": [
       "laterite",
       "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Laterite"
     ]
   },
   {
@@ -9425,6 +11459,9 @@
     ],
     "incompatibles": [
       "paillote"
+    ],
+    "categoriesCommons": [
+      "Category:Fences in Senegal"
     ]
   },
   {
@@ -9441,6 +11478,9 @@
     "incompatibles": [
       "chaume",
       "case"
+    ],
+    "categoriesCommons": [
+      "Category:Thatched roofs"
     ]
   },
   {
@@ -9458,6 +11498,11 @@
       "grenier-dogon",
       "grenier-sur-pilotis",
       "case"
+    ],
+    "categoriesCommons": [
+      "Category:Granaries in Senegal",
+      "Category:Granaries in Africa",
+      "Category:Granaries"
     ]
   },
   {
@@ -9474,6 +11519,9 @@
     "incompatibles": [
       "grenier-a-mil",
       "pilotis"
+    ],
+    "categoriesCommons": [
+      "Category:Granaries"
     ]
   },
   {
@@ -9489,6 +11537,10 @@
     ],
     "incompatibles": [
       "toron"
+    ],
+    "categoriesCommons": [
+      "Category:Borassus aethiopum",
+      "Category:Borassus"
     ]
   },
   {
@@ -9501,6 +11553,10 @@
       "typha building material Senegal",
       "panneaux typha",
       "typha australis"
+    ],
+    "categoriesCommons": [
+      "Category:Typha",
+      "Category:Typha domingensis"
     ]
   },
   {
@@ -9548,6 +11604,9 @@
     "incompatibles": [
       "grenier-dogon",
       "banco"
+    ],
+    "categoriesCommons": [
+      "Category:Dogon architecture"
     ]
   },
   {
@@ -9563,6 +11622,10 @@
     ],
     "incompatibles": [
       "grenier-dogon"
+    ],
+    "categoriesCommons": [
+      "Category:Dogon doors",
+      "Category:Doors in Mali"
     ]
   },
   {
@@ -9595,6 +11658,9 @@
     "incompatibles": [
       "banco",
       "toron"
+    ],
+    "categoriesCommons": [
+      "Category:Djenné"
     ]
   },
   {
@@ -9611,6 +11677,9 @@
     "incompatibles": [
       "case",
       "crinting"
+    ],
+    "categoriesCommons": [
+      "Category:Villages in Senegal"
     ]
   },
   {
@@ -9626,6 +11695,9 @@
     ],
     "incompatibles": [
       "bas-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Bas-reliefs"
     ]
   },
   {
@@ -9641,6 +11713,10 @@
     ],
     "incompatibles": [
       "maison-coloniale"
+    ],
+    "categoriesCommons": [
+      "Category:Colonial architecture in Senegal",
+      "Category:Gorée"
     ]
   },
   {
@@ -9658,6 +11734,9 @@
       "maison-de-signare",
       "balcon",
       "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Colonial architecture in Senegal"
     ]
   },
   {
@@ -9673,6 +11752,10 @@
     ],
     "incompatibles": [
       "mosquee-soudano-sahelienne"
+    ],
+    "categoriesCommons": [
+      "Category:Minarets",
+      "Category:Minarets in Mali"
     ]
   },
   {
@@ -9702,6 +11785,10 @@
       "porte intérieure bois fermée",
       "wooden door closed",
       "door"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9717,6 +11804,11 @@
     ],
     "incompatibles": [
       "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Front doors",
+      "Category:Entrance doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9732,6 +11824,10 @@
     ],
     "incompatibles": [
       "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Interior doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9747,6 +11843,11 @@
     ],
     "incompatibles": [
       "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Panel doors",
+      "Category:Wooden doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9763,6 +11864,10 @@
     "incompatibles": [
       "porte",
       "porte-fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Glass doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9779,6 +11884,9 @@
     "incompatibles": [
       "porte-vitree",
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Doors"
     ]
   },
   {
@@ -9794,6 +11902,11 @@
     ],
     "incompatibles": [
       "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Double doors",
+      "Category:Wooden doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9809,6 +11922,10 @@
     ],
     "incompatibles": [
       "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Sliding doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9824,6 +11941,10 @@
     ],
     "incompatibles": [
       "porte-coulissante"
+    ],
+    "categoriesCommons": [
+      "Category:Pocket doors",
+      "Category:Sliding doors"
     ]
   },
   {
@@ -9839,6 +11960,10 @@
     ],
     "incompatibles": [
       "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Folding doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9854,6 +11979,10 @@
     ],
     "incompatibles": [
       "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Revolving doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9870,6 +11999,11 @@
     "incompatibles": [
       "porte-coulissante",
       "porte-vitree"
+    ],
+    "categoriesCommons": [
+      "Category:Automatic doors",
+      "Category:Sliding doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9885,6 +12019,10 @@
     ],
     "incompatibles": [
       "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Metal doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9901,6 +12039,10 @@
     "incompatibles": [
       "porte",
       "porte-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Fire doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9917,6 +12059,10 @@
     "incompatibles": [
       "porte",
       "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Louvered shutters",
+      "Category:Doors"
     ]
   },
   {
@@ -9933,6 +12079,11 @@
     "incompatibles": [
       "porte",
       "placard"
+    ],
+    "categoriesCommons": [
+      "Category:Wardrobes",
+      "Category:Sliding doors",
+      "Category:Doors"
     ]
   },
   {
@@ -9948,6 +12099,10 @@
     ],
     "incompatibles": [
       "porte-a-deux-vantaux"
+    ],
+    "categoriesCommons": [
+      "Category:Gateways",
+      "Category:Doors"
     ]
   },
   {
@@ -9963,6 +12118,9 @@
     ],
     "incompatibles": [
       "porte-sectionnelle"
+    ],
+    "categoriesCommons": [
+      "Category:Garage doors"
     ]
   },
   {
@@ -9975,6 +12133,10 @@
       "sectional garage door",
       "porte sectionnelle",
       "industrial sectional door"
+    ],
+    "categoriesCommons": [
+      "Category:Sectional doors",
+      "Category:Garage doors"
     ]
   },
   {
@@ -9990,6 +12152,10 @@
     ],
     "incompatibles": [
       "volet-roulant"
+    ],
+    "categoriesCommons": [
+      "Category:Roller shutters",
+      "Category:Shutters"
     ]
   },
   {
@@ -10002,6 +12168,10 @@
       "window frame glass",
       "fenêtre",
       "window"
+    ],
+    "categoriesCommons": [
+      "Category:Windows",
+      "Category:Window frames"
     ]
   },
   {
@@ -10017,6 +12187,10 @@
     ],
     "incompatibles": [
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Casement windows",
+      "Category:Windows"
     ]
   },
   {
@@ -10032,6 +12206,10 @@
     ],
     "incompatibles": [
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Hopper windows",
+      "Category:Windows"
     ]
   },
   {
@@ -10049,6 +12227,10 @@
       "fenetre",
       "fenetre-a-soufflet",
       "fenetre-a-la-francaise"
+    ],
+    "categoriesCommons": [
+      "Category:Tilt and turn windows",
+      "Category:Windows"
     ]
   },
   {
@@ -10064,6 +12246,10 @@
     ],
     "incompatibles": [
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Sliding windows",
+      "Category:Windows"
     ]
   },
   {
@@ -10079,6 +12265,10 @@
     ],
     "incompatibles": [
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Sash windows",
+      "Category:Windows"
     ]
   },
   {
@@ -10094,6 +12284,10 @@
     ],
     "incompatibles": [
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Pivot windows",
+      "Category:Windows"
     ]
   },
   {
@@ -10109,6 +12303,10 @@
     ],
     "incompatibles": [
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Awning windows",
+      "Category:Windows"
     ]
   },
   {
@@ -10125,6 +12323,9 @@
     "incompatibles": [
       "fenetre",
       "imposte"
+    ],
+    "categoriesCommons": [
+      "Category:Windows"
     ]
   },
   {
@@ -10142,6 +12343,10 @@
       "fenetre",
       "persienne",
       "menuiserie-aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Jalousie windows",
+      "Category:Windows"
     ]
   },
   {
@@ -10161,6 +12366,10 @@
       "chassis-fixe",
       "porte-vitree",
       "aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Window frames",
+      "Category:Windows"
     ]
   },
   {
@@ -10179,6 +12388,9 @@
       "menuiserie-aluminium",
       "fenetre-oscillo-battante",
       "double-vitrage"
+    ],
+    "categoriesCommons": [
+      "Category:Windows"
     ]
   },
   {
@@ -10194,6 +12406,10 @@
     ],
     "incompatibles": [
       "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters",
+      "Category:Shutters"
     ]
   },
   {
@@ -10210,6 +12426,10 @@
     "incompatibles": [
       "volet",
       "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters",
+      "Category:Shutters"
     ]
   },
   {
@@ -10225,6 +12445,10 @@
     ],
     "incompatibles": [
       "volet"
+    ],
+    "categoriesCommons": [
+      "Category:Roller shutters",
+      "Category:Window shutters"
     ]
   },
   {
@@ -10240,6 +12464,10 @@
     ],
     "incompatibles": [
       "volet-roulant"
+    ],
+    "categoriesCommons": [
+      "Category:Roller shutters",
+      "Category:Window shutters"
     ]
   },
   {
@@ -10255,6 +12483,9 @@
     ],
     "incompatibles": [
       "volet"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters"
     ]
   },
   {
@@ -10271,6 +12502,9 @@
     "incompatibles": [
       "volet",
       "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters"
     ]
   },
   {
@@ -10287,6 +12521,10 @@
     "incompatibles": [
       "volet-battant",
       "volet"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters",
+      "Category:Shutters"
     ]
   },
   {
@@ -10302,6 +12540,10 @@
     ],
     "incompatibles": [
       "volet-battant"
+    ],
+    "categoriesCommons": [
+      "Category:Shutter dogs",
+      "Category:Shutters"
     ]
   },
   {
@@ -10318,6 +12560,9 @@
     "incompatibles": [
       "cremone",
       "poignee-de-fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Espagnolettes"
     ]
   },
   {
@@ -10333,6 +12578,9 @@
     ],
     "incompatibles": [
       "poignee-de-fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Espagnolettes"
     ]
   },
   {
@@ -10345,6 +12593,11 @@
       "metal gate house",
       "portail métallique",
       "steel gate"
+    ],
+    "categoriesCommons": [
+      "Category:Metal gates",
+      "Category:Gates",
+      "Category:Iron gates"
     ]
   },
   {
@@ -10361,6 +12614,9 @@
     "incompatibles": [
       "portail-metallique",
       "rail-de-portail"
+    ],
+    "categoriesCommons": [
+      "Category:Gates"
     ]
   },
   {
@@ -10376,6 +12632,9 @@
     ],
     "incompatibles": [
       "portail-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Gates"
     ]
   },
   {
@@ -10392,6 +12651,11 @@
     "incompatibles": [
       "portail-metallique",
       "portail-battant"
+    ],
+    "categoriesCommons": [
+      "Category:Wicket gates",
+      "Category:Garden gates",
+      "Category:Gates"
     ]
   },
   {
@@ -10407,6 +12671,9 @@
     ],
     "incompatibles": [
       "portail-coulissant"
+    ],
+    "categoriesCommons": [
+      "Category:Gates"
     ]
   },
   {
@@ -10468,6 +12735,10 @@
     ],
     "incompatibles": [
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Insect screens",
+      "Category:Mosquito nets"
     ]
   },
   {
@@ -10483,6 +12754,10 @@
     ],
     "incompatibles": [
       "huisserie"
+    ],
+    "categoriesCommons": [
+      "Category:Window frames",
+      "Category:Door frames"
     ]
   },
   {
@@ -10498,6 +12773,10 @@
     ],
     "incompatibles": [
       "vantail"
+    ],
+    "categoriesCommons": [
+      "Category:Windows",
+      "Category:Casement windows"
     ]
   },
   {
@@ -10513,6 +12792,10 @@
     ],
     "incompatibles": [
       "ouvrant"
+    ],
+    "categoriesCommons": [
+      "Category:Doors",
+      "Category:Wooden doors"
     ]
   },
   {
@@ -10529,6 +12812,9 @@
     "incompatibles": [
       "dormant",
       "chambranle"
+    ],
+    "categoriesCommons": [
+      "Category:Door frames"
     ]
   },
   {
@@ -10545,6 +12831,9 @@
     "incompatibles": [
       "appui-de-fenetre",
       "dormant"
+    ],
+    "categoriesCommons": [
+      "Category:Window sills"
     ]
   },
   {
@@ -10560,6 +12849,9 @@
     ],
     "incompatibles": [
       "piece-d-appui"
+    ],
+    "categoriesCommons": [
+      "Category:Doors"
     ]
   },
   {
@@ -10575,6 +12867,11 @@
     ],
     "incompatibles": [
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Muntins",
+      "Category:Windows",
+      "Category:Window frames"
     ]
   },
   {
@@ -10590,6 +12887,9 @@
     ],
     "incompatibles": [
       "porte-vitree"
+    ],
+    "categoriesCommons": [
+      "Category:Doors"
     ]
   },
   {
@@ -10606,6 +12906,9 @@
     "incompatibles": [
       "menuiserie-aluminium",
       "aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Aluminium profiles"
     ]
   },
   {
@@ -10621,6 +12924,9 @@
     ],
     "incompatibles": [
       "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Insulated glazing"
     ]
   },
   {
@@ -10633,6 +12939,10 @@
       "laminated glass cracked",
       "verre feuilleté",
       "laminated safety glass"
+    ],
+    "categoriesCommons": [
+      "Category:Laminated glass",
+      "Category:Glass"
     ]
   },
   {
@@ -10648,6 +12958,9 @@
     ],
     "incompatibles": [
       "verre-reflechissant"
+    ],
+    "categoriesCommons": [
+      "Category:Glass windows"
     ]
   },
   {
@@ -10660,6 +12973,10 @@
       "glazing bead window",
       "parclose",
       "glazing bead"
+    ],
+    "categoriesCommons": [
+      "Category:Windows",
+      "Category:Window frames"
     ]
   },
   {
@@ -10676,6 +12993,10 @@
     "incompatibles": [
       "charniere",
       "gond"
+    ],
+    "categoriesCommons": [
+      "Category:Door hinges",
+      "Category:Hinges"
     ]
   },
   {
@@ -10691,6 +13012,10 @@
     ],
     "incompatibles": [
       "paumelle"
+    ],
+    "categoriesCommons": [
+      "Category:Door hinges",
+      "Category:Hinges"
     ]
   },
   {
@@ -10706,6 +13031,9 @@
     ],
     "incompatibles": [
       "paumelle"
+    ],
+    "categoriesCommons": [
+      "Category:Hinges"
     ]
   },
   {
@@ -10721,6 +13049,10 @@
     ],
     "incompatibles": [
       "penture"
+    ],
+    "categoriesCommons": [
+      "Category:Gate hinges",
+      "Category:Hinges"
     ]
   },
   {
@@ -10736,6 +13068,10 @@
     ],
     "incompatibles": [
       "gond"
+    ],
+    "categoriesCommons": [
+      "Category:Strap hinges",
+      "Category:Hinges"
     ]
   },
   {
@@ -10748,6 +13084,9 @@
       "door lock",
       "serrure porte",
       "lock"
+    ],
+    "categoriesCommons": [
+      "Category:Door locks"
     ]
   },
   {
@@ -10763,6 +13102,10 @@
     ],
     "incompatibles": [
       "serrure"
+    ],
+    "categoriesCommons": [
+      "Category:Rim locks",
+      "Category:Door locks"
     ]
   },
   {
@@ -10778,6 +13121,9 @@
     ],
     "incompatibles": [
       "serrure"
+    ],
+    "categoriesCommons": [
+      "Category:Door locks"
     ]
   },
   {
@@ -10794,6 +13140,9 @@
     "incompatibles": [
       "serrure",
       "serrure-a-encastrer"
+    ],
+    "categoriesCommons": [
+      "Category:Door locks"
     ]
   },
   {
@@ -10824,6 +13173,10 @@
     ],
     "incompatibles": [
       "pene"
+    ],
+    "categoriesCommons": [
+      "Category:Strike plates",
+      "Category:Door locks"
     ]
   },
   {
@@ -10839,6 +13192,9 @@
     ],
     "incompatibles": [
       "gache"
+    ],
+    "categoriesCommons": [
+      "Category:Door locks"
     ]
   },
   {
@@ -10854,6 +13210,10 @@
     ],
     "incompatibles": [
       "serrure-a-encastrer"
+    ],
+    "categoriesCommons": [
+      "Category:Latches",
+      "Category:Door locks"
     ]
   },
   {
@@ -10869,6 +13229,10 @@
     ],
     "incompatibles": [
       "bouton-de-porte"
+    ],
+    "categoriesCommons": [
+      "Category:Door handles",
+      "Category:Door furniture"
     ]
   },
   {
@@ -10884,6 +13248,10 @@
     ],
     "incompatibles": [
       "poignee-de-porte"
+    ],
+    "categoriesCommons": [
+      "Category:Doorknobs",
+      "Category:Door handles"
     ]
   },
   {
@@ -10899,6 +13267,9 @@
     ],
     "incompatibles": [
       "poignee-de-porte"
+    ],
+    "categoriesCommons": [
+      "Category:Door handles"
     ]
   },
   {
@@ -10914,6 +13285,9 @@
     ],
     "incompatibles": [
       "cremone"
+    ],
+    "categoriesCommons": [
+      "Category:Window handles"
     ]
   },
   {
@@ -10929,6 +13303,9 @@
     ],
     "incompatibles": [
       "cylindre-de-serrure"
+    ],
+    "categoriesCommons": [
+      "Category:Keys"
     ]
   },
   {
@@ -10944,6 +13321,9 @@
     ],
     "incompatibles": [
       "targette"
+    ],
+    "categoriesCommons": [
+      "Category:Door bolts"
     ]
   },
   {
@@ -10959,6 +13339,9 @@
     ],
     "incompatibles": [
       "verrou"
+    ],
+    "categoriesCommons": [
+      "Category:Door bolts"
     ]
   },
   {
@@ -10974,6 +13357,9 @@
     ],
     "incompatibles": [
       "verrou"
+    ],
+    "categoriesCommons": [
+      "Category:Latches"
     ]
   },
   {
@@ -10989,6 +13375,9 @@
     ],
     "incompatibles": [
       "moraillon"
+    ],
+    "categoriesCommons": [
+      "Category:Padlocks"
     ]
   },
   {
@@ -11004,6 +13393,10 @@
     ],
     "incompatibles": [
       "cadenas"
+    ],
+    "categoriesCommons": [
+      "Category:Hasps",
+      "Category:Padlocks"
     ]
   },
   {
@@ -11019,6 +13412,10 @@
     ],
     "incompatibles": [
       "porte-d-entree"
+    ],
+    "categoriesCommons": [
+      "Category:Door chains",
+      "Category:Door security"
     ]
   },
   {
@@ -11034,6 +13431,9 @@
     ],
     "incompatibles": [
       "porte-d-entree"
+    ],
+    "categoriesCommons": [
+      "Category:Peepholes"
     ]
   },
   {
@@ -11049,6 +13449,9 @@
     ],
     "incompatibles": [
       "porte-coupe-feu"
+    ],
+    "categoriesCommons": [
+      "Category:Door closers"
     ]
   },
   {
@@ -11091,6 +13494,9 @@
     ],
     "incompatibles": [
       "porte-d-entree"
+    ],
+    "categoriesCommons": [
+      "Category:Door knockers"
     ]
   },
   {
@@ -11103,6 +13509,10 @@
       "staircase interior",
       "escalier",
       "stairs"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
     ]
   },
   {
@@ -11123,6 +13533,10 @@
       "escalier-en-bois",
       "escalier-de-secours",
       "volee"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
     ]
   },
   {
@@ -11142,6 +13556,10 @@
       "escalier-metallique",
       "escalier-en-bois",
       "escalier-de-secours"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
     ]
   },
   {
@@ -11162,6 +13580,10 @@
       "escalier-metallique",
       "escalier-en-bois",
       "escalier-de-secours"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
     ]
   },
   {
@@ -11182,6 +13604,9 @@
       "escalier-metallique",
       "escalier-en-bois",
       "escalier-de-secours"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases"
     ]
   },
   {
@@ -11200,6 +13625,10 @@
       "escalier-en-beton",
       "escalier-metallique",
       "escalier-en-bois"
+    ],
+    "categoriesCommons": [
+      "Category:Imperial staircases",
+      "Category:Staircases"
     ]
   },
   {
@@ -11219,6 +13648,10 @@
       "escalier-en-beton",
       "escalier-metallique",
       "escalier-en-bois"
+    ],
+    "categoriesCommons": [
+      "Category:Stairs",
+      "Category:Staircases"
     ]
   },
   {
@@ -11238,6 +13671,10 @@
       "escalier-metallique",
       "escalier-en-bois",
       "porte-a-faux"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
     ]
   },
   {
@@ -11254,6 +13691,11 @@
     "incompatibles": [
       "escalier",
       "paillasse"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete staircases",
+      "Category:Concrete stairs",
+      "Category:Staircases"
     ]
   },
   {
@@ -11269,6 +13711,10 @@
     ],
     "incompatibles": [
       "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Metal staircases",
+      "Category:Staircases"
     ]
   },
   {
@@ -11284,6 +13730,11 @@
     ],
     "incompatibles": [
       "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden staircases",
+      "Category:Wooden stairs",
+      "Category:Staircases"
     ]
   },
   {
@@ -11299,6 +13750,9 @@
     ],
     "incompatibles": [
       "escalier-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Fire escapes"
     ]
   },
   {
@@ -11315,6 +13769,9 @@
     "incompatibles": [
       "echelle-de-meunier",
       "escalier-en-bois"
+    ],
+    "categoriesCommons": [
+      "Category:Attic ladders"
     ]
   },
   {
@@ -11332,6 +13789,10 @@
       "escalier",
       "escalier-en-bois",
       "escalier-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Alternating tread stairs",
+      "Category:Stairs"
     ]
   },
   {
@@ -11347,6 +13808,11 @@
     ],
     "incompatibles": [
       "echelle"
+    ],
+    "categoriesCommons": [
+      "Category:Caged ladders",
+      "Category:Ladders",
+      "Category:Fixed ladders"
     ]
   },
   {
@@ -11362,6 +13828,10 @@
     ],
     "incompatibles": [
       "trottoir-roulant"
+    ],
+    "categoriesCommons": [
+      "Category:Escalators",
+      "Category:Escalators in Japan"
     ]
   },
   {
@@ -11393,6 +13863,10 @@
     "incompatibles": [
       "contremarche",
       "nez-de-marche"
+    ],
+    "categoriesCommons": [
+      "Category:Steps",
+      "Category:Stairs"
     ]
   },
   {
@@ -11408,6 +13882,10 @@
     ],
     "incompatibles": [
       "marche"
+    ],
+    "categoriesCommons": [
+      "Category:Stairs",
+      "Category:Steps"
     ]
   },
   {
@@ -11423,6 +13901,10 @@
     ],
     "incompatibles": [
       "marche"
+    ],
+    "categoriesCommons": [
+      "Category:Stairs",
+      "Category:Steps"
     ]
   },
   {
@@ -11439,6 +13921,9 @@
     "incompatibles": [
       "marche",
       "escalier-quart-tournant"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases"
     ]
   },
   {
@@ -11454,6 +13939,10 @@
     ],
     "incompatibles": [
       "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
     ]
   },
   {
@@ -11469,6 +13958,11 @@
     ],
     "incompatibles": [
       "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Stair landings",
+      "Category:Staircases",
+      "Category:Stairs"
     ]
   },
   {
@@ -11484,6 +13978,10 @@
     ],
     "incompatibles": [
       "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
     ]
   },
   {
@@ -11499,6 +13997,10 @@
     ],
     "incompatibles": [
       "escalier-en-beton"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete stairs",
+      "Category:Staircases"
     ]
   },
   {
@@ -11529,6 +14031,10 @@
     ],
     "incompatibles": [
       "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Stairwells",
+      "Category:Staircases"
     ]
   },
   {
@@ -11545,6 +14051,11 @@
     "incompatibles": [
       "cage-d-escalier",
       "tremie"
+    ],
+    "categoriesCommons": [
+      "Category:Stairwells",
+      "Category:Staircases",
+      "Category:Floor openings"
     ]
   },
   {
@@ -11562,6 +14073,10 @@
       "garde-corps",
       "main-courante",
       "barreau-de-rampe"
+    ],
+    "categoriesCommons": [
+      "Category:Stair railings",
+      "Category:Handrails"
     ]
   },
   {
@@ -11577,6 +14092,10 @@
     ],
     "incompatibles": [
       "rampe-d-escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Handrails",
+      "Category:Stair railings"
     ]
   },
   {
@@ -11594,6 +14113,10 @@
       "rampe-d-escalier",
       "balustre",
       "garde-corps-a-barreaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Balusters",
+      "Category:Stair railings"
     ]
   },
   {
@@ -11609,6 +14132,10 @@
     ],
     "incompatibles": [
       "rampe-d-escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Newel posts",
+      "Category:Balusters"
     ]
   },
   {
@@ -11626,6 +14153,10 @@
       "escalier",
       "escalier-droit",
       "escalier-en-beton"
+    ],
+    "categoriesCommons": [
+      "Category:Entrance stairs",
+      "Category:Stairs"
     ]
   },
   {
@@ -11641,6 +14172,10 @@
     ],
     "incompatibles": [
       "bateau-de-trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Wheelchair ramps",
+      "Category:Ramps"
     ]
   },
   {
@@ -11656,6 +14191,10 @@
     ],
     "incompatibles": [
       "marche"
+    ],
+    "categoriesCommons": [
+      "Category:Tactile paving",
+      "Category:Tactile paving in Japan"
     ]
   },
   {
@@ -11672,6 +14211,10 @@
     "incompatibles": [
       "bouton-d-appel",
       "monte-charge"
+    ],
+    "categoriesCommons": [
+      "Category:Elevators",
+      "Category:Elevator doors"
     ]
   },
   {
@@ -11684,6 +14227,10 @@
       "water tap faucet",
       "robinet eau",
       "tap"
+    ],
+    "categoriesCommons": [
+      "Category:Taps",
+      "Category:Water taps"
     ]
   },
   {
@@ -11711,6 +14258,10 @@
       "washbasin bathroom",
       "lavabo salle de bain",
       "sink bathroom ceramic"
+    ],
+    "categoriesCommons": [
+      "Category:Bathroom sinks",
+      "Category:Sinks"
     ]
   },
   {
@@ -11726,6 +14277,9 @@
     ],
     "incompatibles": [
       "lavabo"
+    ],
+    "categoriesCommons": [
+      "Category:Sinks"
     ]
   },
   {
@@ -11738,6 +14292,10 @@
       "kitchen sink stainless steel",
       "évier cuisine inox",
       "kitchen sink"
+    ],
+    "categoriesCommons": [
+      "Category:Kitchen sinks",
+      "Category:Sinks"
     ]
   },
   {
@@ -11753,6 +14311,9 @@
     ],
     "incompatibles": [
       "evier"
+    ],
+    "categoriesCommons": [
+      "Category:Sinks"
     ]
   },
   {
@@ -11765,6 +14326,11 @@
       "toilet bowl ceramic",
       "cuvette WC",
       "incategory:\"Flush toilets\""
+    ],
+    "categoriesCommons": [
+      "Category:Toilet bowls",
+      "Category:Flush toilets",
+      "Category:Toilets"
     ]
   },
   {
@@ -11780,6 +14346,9 @@
     ],
     "incompatibles": [
       "cuvette-de-wc"
+    ],
+    "categoriesCommons": [
+      "Category:Toilets"
     ]
   },
   {
@@ -11795,6 +14364,9 @@
     ],
     "incompatibles": [
       "wc-suspendu"
+    ],
+    "categoriesCommons": [
+      "Category:Toilets"
     ]
   },
   {
@@ -11810,6 +14382,10 @@
     ],
     "incompatibles": [
       "cuvette-de-wc"
+    ],
+    "categoriesCommons": [
+      "Category:Squat toilets",
+      "Category:Toilets"
     ]
   },
   {
@@ -11825,6 +14401,9 @@
     ],
     "incompatibles": [
       "cuvette-de-wc"
+    ],
+    "categoriesCommons": [
+      "Category:Flush toilets"
     ]
   },
   {
@@ -11840,6 +14419,10 @@
     ],
     "incompatibles": [
       "cuvette-de-wc"
+    ],
+    "categoriesCommons": [
+      "Category:Bidet showers",
+      "Category:Bidets"
     ]
   },
   {
@@ -11852,6 +14435,9 @@
       "bidet bathroom",
       "bidet céramique",
       "incategory:\"Bidets\""
+    ],
+    "categoriesCommons": [
+      "Category:Bidets"
     ]
   },
   {
@@ -11864,6 +14450,10 @@
       "urinal",
       "urinoir",
       "urinals public toilet"
+    ],
+    "categoriesCommons": [
+      "Category:Urinals",
+      "Category:Toilets"
     ]
   },
   {
@@ -11876,6 +14466,10 @@
       "shower head",
       "pomme de douche",
       "rain shower head"
+    ],
+    "categoriesCommons": [
+      "Category:Shower heads",
+      "Category:Showers"
     ]
   },
   {
@@ -11891,6 +14485,10 @@
     ],
     "incompatibles": [
       "pomme-de-douche"
+    ],
+    "categoriesCommons": [
+      "Category:Showers",
+      "Category:Shower heads"
     ]
   },
   {
@@ -11903,6 +14501,10 @@
       "shower tray",
       "receveur de douche",
       "shower base"
+    ],
+    "categoriesCommons": [
+      "Category:Shower trays",
+      "Category:Showers"
     ]
   },
   {
@@ -11919,6 +14521,9 @@
     "incompatibles": [
       "receveur-de-douche",
       "siphon-de-sol"
+    ],
+    "categoriesCommons": [
+      "Category:Showers"
     ]
   },
   {
@@ -11931,6 +14536,10 @@
       "bathtub",
       "baignoire",
       "bath tub bathroom"
+    ],
+    "categoriesCommons": [
+      "Category:Bathtubs",
+      "Category:Bathrooms"
     ]
   },
   {
@@ -11943,6 +14552,10 @@
       "sink drain plug",
       "bonde lavabo",
       "drain strainer sink"
+    ],
+    "categoriesCommons": [
+      "Category:Sink drains",
+      "Category:Drains"
     ]
   },
   {
@@ -11955,6 +14568,10 @@
       "sink trap P-trap",
       "siphon lavabo",
       "bottle trap under sink"
+    ],
+    "categoriesCommons": [
+      "Category:Siphons",
+      "Category:Plumbing"
     ]
   },
   {
@@ -11967,6 +14584,10 @@
       "floor drain bathroom",
       "siphon de sol",
       "floor drain grate"
+    ],
+    "categoriesCommons": [
+      "Category:Floor drains",
+      "Category:Drains"
     ]
   },
   {
@@ -11983,6 +14604,10 @@
     "incompatibles": [
       "siphon-de-sol",
       "douche-a-l-italienne"
+    ],
+    "categoriesCommons": [
+      "Category:Floor drains",
+      "Category:Drains"
     ]
   },
   {
@@ -12010,6 +14635,10 @@
     ],
     "incompatibles": [
       "descente-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Plastic pipes",
+      "Category:Pipes"
     ]
   },
   {
@@ -12022,6 +14651,10 @@
       "copper pipe plumbing",
       "tube cuivre plomberie",
       "copper pipes"
+    ],
+    "categoriesCommons": [
+      "Category:Copper pipes",
+      "Category:Pipes"
     ]
   },
   {
@@ -12034,6 +14667,10 @@
       "PEX pipe red blue",
       "tube PER",
       "PEX tubing plumbing"
+    ],
+    "categoriesCommons": [
+      "Category:Plastic pipes",
+      "Category:Pipes"
     ]
   },
   {
@@ -12049,6 +14686,10 @@
     ],
     "incompatibles": [
       "tube-per"
+    ],
+    "categoriesCommons": [
+      "Category:Plastic pipes",
+      "Category:Pipes"
     ]
   },
   {
@@ -12061,6 +14702,10 @@
       "PPR pipe green",
       "tube PPR",
       "polypropylene pipe welding"
+    ],
+    "categoriesCommons": [
+      "Category:Plastic pipes",
+      "Category:Pipes"
     ]
   },
   {
@@ -12073,6 +14718,10 @@
       "galvanized steel pipe",
       "tube acier galvanisé",
       "galvanized pipe plumbing"
+    ],
+    "categoriesCommons": [
+      "Category:Steel pipes",
+      "Category:Pipes"
     ]
   },
   {
@@ -12085,6 +14734,10 @@
       "HDPE pipe black coil",
       "tuyau polyéthylène",
       "PE water pipe coil"
+    ],
+    "categoriesCommons": [
+      "Category:Plastic pipes",
+      "Category:Pipes"
     ]
   },
   {
@@ -12139,6 +14792,10 @@
       "pipe clamp wall",
       "collier de fixation tuyau",
       "pipe clip bracket"
+    ],
+    "categoriesCommons": [
+      "Category:Pipe clamps",
+      "Category:Pipe supports"
     ]
   },
   {
@@ -12154,6 +14811,10 @@
     ],
     "incompatibles": [
       "robinet"
+    ],
+    "categoriesCommons": [
+      "Category:Ball valves",
+      "Category:Valves"
     ]
   },
   {
@@ -12166,6 +14827,10 @@
       "check valve brass",
       "clapet anti-retour",
       "non return valve"
+    ],
+    "categoriesCommons": [
+      "Category:Check valves",
+      "Category:Valves"
     ]
   },
   {
@@ -12181,6 +14846,10 @@
     ],
     "incompatibles": [
       "manometre"
+    ],
+    "categoriesCommons": [
+      "Category:Pressure regulators",
+      "Category:Valves"
     ]
   },
   {
@@ -12193,6 +14862,10 @@
       "pressure gauge water pipe",
       "manomètre",
       "pressure gauge"
+    ],
+    "categoriesCommons": [
+      "Category:Pressure gauges",
+      "Category:Manometers"
     ]
   },
   {
@@ -12208,6 +14881,9 @@
     ],
     "incompatibles": [
       "tube-per"
+    ],
+    "categoriesCommons": [
+      "Category:Manifolds"
     ]
   },
   {
@@ -12220,6 +14896,9 @@
       "water meter",
       "compteur d'eau",
       "incategory:\"Water meters\""
+    ],
+    "categoriesCommons": [
+      "Category:Water meters"
     ]
   },
   {
@@ -12232,6 +14911,9 @@
       "plastic water tank rooftop",
       "polyethylene water storage tank",
       "citerne eau plastique"
+    ],
+    "categoriesCommons": [
+      "Category:Water tanks"
     ]
   },
   {
@@ -12244,6 +14926,10 @@
       "water tower",
       "château d'eau",
       "incategory:\"Water towers\""
+    ],
+    "categoriesCommons": [
+      "Category:Water towers",
+      "Category:Water towers in Africa"
     ]
   },
   {
@@ -12261,6 +14947,9 @@
       "pompe-de-surface",
       "reservoir-a-vessie",
       "manometre"
+    ],
+    "categoriesCommons": [
+      "Category:Water pumps"
     ]
   },
   {
@@ -12273,6 +14962,9 @@
       "pressure tank water pump",
       "réservoir à vessie",
       "bladder pressure tank"
+    ],
+    "categoriesCommons": [
+      "Category:Water pumps"
     ]
   },
   {
@@ -12285,6 +14977,11 @@
       "centrifugal water pump electric",
       "pompe de surface",
       "surface water pump"
+    ],
+    "categoriesCommons": [
+      "Category:Water pumps",
+      "Category:Centrifugal pumps",
+      "Category:Pumps"
     ]
   },
   {
@@ -12297,6 +14994,10 @@
       "submersible pump borehole",
       "pompe immergée",
       "submersible water pump"
+    ],
+    "categoriesCommons": [
+      "Category:Submersible pumps",
+      "Category:Pumps"
     ]
   },
   {
@@ -12312,6 +15013,10 @@
     ],
     "incompatibles": [
       "pompe-immergee"
+    ],
+    "categoriesCommons": [
+      "Category:Sewage pumps",
+      "Category:Pumps"
     ]
   },
   {
@@ -12328,6 +15033,9 @@
     "incompatibles": [
       "tube-pvc",
       "descente-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Pipes"
     ]
   },
   {
@@ -12400,6 +15108,9 @@
     ],
     "incompatibles": [
       "chauffe-eau-electrique"
+    ],
+    "categoriesCommons": [
+      "Category:Safety valves"
     ]
   },
   {
@@ -12412,6 +15123,9 @@
       "radiator",
       "radiateur",
       "incategory:\"Radiators\""
+    ],
+    "categoriesCommons": [
+      "Category:Radiators"
     ]
   },
   {
@@ -12424,6 +15138,9 @@
       "underfloor heating pipes",
       "plancher chauffant",
       "radiant floor heating installation"
+    ],
+    "categoriesCommons": [
+      "Category:Underfloor heating"
     ]
   },
   {
@@ -12439,6 +15156,9 @@
     ],
     "incompatibles": [
       "reservoir-a-vessie"
+    ],
+    "categoriesCommons": [
+      "Category:Expansion tanks"
     ]
   },
   {
@@ -12451,6 +15171,10 @@
       "gas cylinder butane",
       "bouteille de gaz",
       "LPG cylinder"
+    ],
+    "categoriesCommons": [
+      "Category:Gas cylinders",
+      "Category:Butane cylinders"
     ]
   },
   {
@@ -12466,6 +15190,9 @@
     ],
     "incompatibles": [
       "bouteille-de-gaz"
+    ],
+    "categoriesCommons": [
+      "Category:Pressure regulators"
     ]
   },
   {
@@ -12478,6 +15205,10 @@
       "electrical panel breakers",
       "tableau électrique",
       "distribution board"
+    ],
+    "categoriesCommons": [
+      "Category:Distribution boards",
+      "Category:Circuit breakers"
     ]
   },
   {
@@ -12493,6 +15224,9 @@
     ],
     "incompatibles": [
       "tableau-electrique"
+    ],
+    "categoriesCommons": [
+      "Category:Circuit breakers"
     ]
   },
   {
@@ -12509,6 +15243,9 @@
     "incompatibles": [
       "disjoncteur",
       "tableau-electrique"
+    ],
+    "categoriesCommons": [
+      "Category:Circuit breakers"
     ]
   },
   {
@@ -12525,6 +15262,10 @@
     "incompatibles": [
       "tableau-electrique",
       "disjoncteur"
+    ],
+    "categoriesCommons": [
+      "Category:Surge protectors",
+      "Category:Circuit breakers"
     ]
   },
   {
@@ -12576,6 +15317,10 @@
       "light switch wall",
       "interrupteur",
       "wall switch"
+    ],
+    "categoriesCommons": [
+      "Category:Light switches",
+      "Category:Electric switches"
     ]
   },
   {
@@ -12591,6 +15336,9 @@
     ],
     "incompatibles": [
       "gaine-icta"
+    ],
+    "categoriesCommons": [
+      "Category:Junction boxes"
     ]
   },
   {
@@ -12603,6 +15351,9 @@
       "junction box electrical",
       "boîte de dérivation",
       "electrical junction box wires"
+    ],
+    "categoriesCommons": [
+      "Category:Junction boxes"
     ]
   },
   {
@@ -12639,6 +15390,9 @@
       "cable tray",
       "chemin de câbles",
       "wire mesh cable tray"
+    ],
+    "categoriesCommons": [
+      "Category:Cable trays"
     ]
   },
   {
@@ -12651,6 +15405,9 @@
       "electrical cable",
       "câble électrique",
       "electric wires"
+    ],
+    "categoriesCommons": [
+      "Category:Cables"
     ]
   },
   {
@@ -12675,6 +15432,9 @@
       "lightning rod roof",
       "paratonnerre",
       "lightning conductor"
+    ],
+    "categoriesCommons": [
+      "Category:Lightning rods"
     ]
   },
   {
@@ -12687,6 +15447,9 @@
       "diesel generator",
       "groupe électrogène",
       "generator set"
+    ],
+    "categoriesCommons": [
+      "Category:Diesel generators"
     ]
   },
   {
@@ -12699,6 +15462,9 @@
       "electrical substation transformer building",
       "poste de transformation",
       "pad mounted transformer"
+    ],
+    "categoriesCommons": [
+      "Category:Electrical substations"
     ]
   },
   {
@@ -12711,6 +15477,11 @@
       "light bulb",
       "ampoule",
       "LED bulb"
+    ],
+    "categoriesCommons": [
+      "Category:Light bulbs",
+      "Category:Incandescent light bulbs",
+      "Category:LED lamps"
     ]
   },
   {
@@ -12750,6 +15521,9 @@
     ],
     "incompatibles": [
       "plafonnier"
+    ],
+    "categoriesCommons": [
+      "Category:Downlights"
     ]
   },
   {
@@ -12762,6 +15536,9 @@
       "pendant light",
       "suspension luminaire",
       "pendant lamp"
+    ],
+    "categoriesCommons": [
+      "Category:Chandeliers"
     ]
   },
   {
@@ -12777,6 +15554,9 @@
     ],
     "incompatibles": [
       "plafonnier"
+    ],
+    "categoriesCommons": [
+      "Category:Fluorescent lamps"
     ]
   },
   {
@@ -12789,6 +15569,9 @@
       "LED floodlight",
       "projecteur LED",
       "floodlight wall"
+    ],
+    "categoriesCommons": [
+      "Category:Floodlights"
     ]
   },
   {
@@ -12804,6 +15587,10 @@
     ],
     "incompatibles": [
       "panneau-photovoltaique"
+    ],
+    "categoriesCommons": [
+      "Category:Solar street lights",
+      "Category:Street lights"
     ]
   },
   {
@@ -12816,6 +15603,10 @@
       "emergency exit sign light",
       "bloc autonome éclairage de sécurité",
       "exit sign"
+    ],
+    "categoriesCommons": [
+      "Category:Emergency lighting",
+      "Category:Emergency exit signs"
     ]
   },
   {
@@ -12828,6 +15619,10 @@
       "solar panels rooftop",
       "panneau photovoltaïque",
       "photovoltaic panel"
+    ],
+    "categoriesCommons": [
+      "Category:Solar panels",
+      "Category:Photovoltaic power stations"
     ]
   },
   {
@@ -12840,6 +15635,9 @@
       "solar inverter",
       "onduleur solaire",
       "inverter wall mounted"
+    ],
+    "categoriesCommons": [
+      "Category:Inverters"
     ]
   },
   {
@@ -12870,6 +15668,9 @@
     ],
     "incompatibles": [
       "onduleur"
+    ],
+    "categoriesCommons": [
+      "Category:Solar charge controllers"
     ]
   },
   {
@@ -12885,6 +15686,9 @@
     ],
     "incompatibles": [
       "unite-exterieure"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
     ]
   },
   {
@@ -12897,6 +15701,9 @@
       "air conditioner outdoor unit",
       "unité extérieure climatisation",
       "condenser unit wall"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
     ]
   },
   {
@@ -12912,6 +15719,10 @@
     ],
     "incompatibles": [
       "split"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners",
+      "Category:Ceiling air conditioners"
     ]
   },
   {
@@ -12927,6 +15738,9 @@
     ],
     "incompatibles": [
       "split"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
     ]
   },
   {
@@ -12942,6 +15756,9 @@
     ],
     "incompatibles": [
       "unite-exterieure"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
     ]
   },
   {
@@ -12959,6 +15776,9 @@
       "split",
       "unite-exterieure",
       "tube-en-cuivre"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
     ]
   },
   {
@@ -12974,6 +15794,10 @@
     ],
     "incompatibles": [
       "split"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners",
+      "Category:Drain pipes"
     ]
   },
   {
@@ -12986,6 +15810,9 @@
       "ceiling fan",
       "ventilateur de plafond",
       "ceiling fan room"
+    ],
+    "categoriesCommons": [
+      "Category:Ceiling fans"
     ]
   },
   {
@@ -13001,6 +15828,10 @@
     ],
     "incompatibles": [
       "grille-de-ventilation"
+    ],
+    "categoriesCommons": [
+      "Category:Exhaust fans",
+      "Category:Ventilation fans"
     ]
   },
   {
@@ -13056,6 +15887,9 @@
       "ventilation ductwork",
       "gaine de ventilation",
       "air duct galvanized"
+    ],
+    "categoriesCommons": [
+      "Category:Ductwork"
     ]
   },
   {
@@ -13071,6 +15905,9 @@
     ],
     "incompatibles": [
       "gaine-de-ventilation"
+    ],
+    "categoriesCommons": [
+      "Category:Air handling units"
     ]
   },
   {
@@ -13095,6 +15932,9 @@
       "fire extinguisher",
       "extincteur",
       "incategory:\"Fire extinguishers\""
+    ],
+    "categoriesCommons": [
+      "Category:Fire extinguishers"
     ]
   },
   {
@@ -13107,6 +15947,10 @@
       "fire hose reel",
       "robinet d'incendie armé",
       "fire hose reel cabinet"
+    ],
+    "categoriesCommons": [
+      "Category:Fire hose reels",
+      "Category:Fire hoses"
     ]
   },
   {
@@ -13119,6 +15963,9 @@
       "fire hydrant",
       "poteau incendie",
       "incategory:\"Fire hydrants\""
+    ],
+    "categoriesCommons": [
+      "Category:Fire hydrants"
     ]
   },
   {
@@ -13134,6 +15981,9 @@
     ],
     "incompatibles": [
       "sprinkler"
+    ],
+    "categoriesCommons": [
+      "Category:Smoke detectors"
     ]
   },
   {
@@ -13146,6 +15996,10 @@
       "fire sprinkler head",
       "sprinkler incendie",
       "sprinkler ceiling"
+    ],
+    "categoriesCommons": [
+      "Category:Fire sprinklers",
+      "Category:Sprinklers"
     ]
   },
   {
@@ -13158,6 +16012,9 @@
       "manual call point fire alarm",
       "déclencheur manuel",
       "fire alarm pull station"
+    ],
+    "categoriesCommons": [
+      "Category:Fire alarms"
     ]
   },
   {
@@ -13170,6 +16027,10 @@
       "dry riser inlet",
       "colonne sèche",
       "dry riser outlet"
+    ],
+    "categoriesCommons": [
+      "Category:Dry risers",
+      "Category:Fire hydrants"
     ]
   },
   {
@@ -13194,6 +16055,9 @@
       "elevator machine room",
       "machinerie ascenseur",
       "lift motor traction machine"
+    ],
+    "categoriesCommons": [
+      "Category:Elevators"
     ]
   },
   {
@@ -13209,6 +16073,10 @@
     ],
     "incompatibles": [
       "ascenseur"
+    ],
+    "categoriesCommons": [
+      "Category:Elevator buttons",
+      "Category:Elevators"
     ]
   },
   {
@@ -13221,6 +16089,10 @@
       "interior partition wall construction",
       "cloison intérieure",
       "incategory:\"Partition walls\""
+    ],
+    "categoriesCommons": [
+      "Category:Partition walls",
+      "Category:Walls"
     ]
   },
   {
@@ -13279,6 +16151,9 @@
     ],
     "incompatibles": [
       "plaque-de-platre"
+    ],
+    "categoriesCommons": [
+      "Category:Fire protection"
     ]
   },
   {
@@ -13311,6 +16186,9 @@
     "incompatibles": [
       "rail-metallique",
       "cloison-en-plaques-de-platre"
+    ],
+    "categoriesCommons": [
+      "Category:Steel framing"
     ]
   },
   {
@@ -13326,6 +16204,9 @@
     ],
     "incompatibles": [
       "cloison-en-plaques-de-platre"
+    ],
+    "categoriesCommons": [
+      "Category:Steel framing"
     ]
   },
   {
@@ -13373,6 +16254,9 @@
       "plaque-de-platre",
       "cloison-en-plaques-de-platre",
       "cloison"
+    ],
+    "categoriesCommons": [
+      "Category:Dry lining"
     ]
   },
   {
@@ -13388,6 +16272,9 @@
     ],
     "incompatibles": [
       "cloison"
+    ],
+    "categoriesCommons": [
+      "Category:Gypsum blocks"
     ]
   },
   {
@@ -13403,6 +16290,9 @@
     ],
     "incompatibles": [
       "cloison"
+    ],
+    "categoriesCommons": [
+      "Category:Glass walls"
     ]
   },
   {
@@ -13418,6 +16308,9 @@
     ],
     "incompatibles": [
       "cloison-vitree"
+    ],
+    "categoriesCommons": [
+      "Category:Crittall windows"
     ]
   },
   {
@@ -13433,6 +16326,9 @@
     ],
     "incompatibles": [
       "cloison"
+    ],
+    "categoriesCommons": [
+      "Category:Folding partitions"
     ]
   },
   {
@@ -13448,6 +16344,9 @@
     ],
     "incompatibles": [
       "cloison"
+    ],
+    "categoriesCommons": [
+      "Category:Public toilets"
     ]
   },
   {
@@ -13464,6 +16363,10 @@
     "incompatibles": [
       "laine-de-verre",
       "film-polyethylene"
+    ],
+    "categoriesCommons": [
+      "Category:Vapor barriers",
+      "Category:Thermal insulation"
     ]
   },
   {
@@ -13476,6 +16379,9 @@
       "reflective foil insulation",
       "isolant mince multicouche",
       "radiant barrier foil"
+    ],
+    "categoriesCommons": [
+      "Category:Thermal insulation"
     ]
   },
   {
@@ -13488,6 +16394,11 @@
       "spray foam insulation",
       "mousse polyuréthane projetée",
       "sprayed polyurethane foam wall"
+    ],
+    "categoriesCommons": [
+      "Category:Spray foam insulation",
+      "Category:Polyurethane foam",
+      "Category:Thermal insulation"
     ]
   },
   {
@@ -13503,6 +16414,9 @@
     ],
     "incompatibles": [
       "platre"
+    ],
+    "categoriesCommons": [
+      "Category:Plaster"
     ]
   },
   {
@@ -13515,6 +16429,9 @@
       "suspended ceiling",
       "faux plafond",
       "incategory:\"Dropped ceilings\""
+    ],
+    "categoriesCommons": [
+      "Category:Ceilings"
     ]
   },
   {
@@ -13531,6 +16448,9 @@
     "incompatibles": [
       "faux-plafond",
       "ossature-de-faux-plafond"
+    ],
+    "categoriesCommons": [
+      "Category:Ceiling tiles"
     ]
   },
   {
@@ -13628,6 +16548,9 @@
     "incompatibles": [
       "faux-plafond",
       "staff"
+    ],
+    "categoriesCommons": [
+      "Category:Ceiling lighting"
     ]
   },
   {
@@ -13674,6 +16597,9 @@
     ],
     "incompatibles": [
       "faux-plafond"
+    ],
+    "categoriesCommons": [
+      "Category:Metal ceilings"
     ]
   },
   {
@@ -13689,6 +16615,9 @@
     ],
     "incompatibles": [
       "faux-plafond"
+    ],
+    "categoriesCommons": [
+      "Category:Ceilings"
     ]
   },
   {
@@ -13716,6 +16645,10 @@
       "acoustic wall panels",
       "panneau acoustique mural",
       "acoustic panels room"
+    ],
+    "categoriesCommons": [
+      "Category:Sound absorbers",
+      "Category:Acoustics"
     ]
   },
   {
@@ -13728,6 +16661,10 @@
       "tiled floor",
       "carrelage sol",
       "incategory:\"Tiled floors\""
+    ],
+    "categoriesCommons": [
+      "Category:Tiles",
+      "Category:Ceramic tiles"
     ]
   },
   {
@@ -13744,6 +16681,9 @@
     "incompatibles": [
       "carrelage",
       "faience"
+    ],
+    "categoriesCommons": [
+      "Category:Ceramic tiles"
     ]
   },
   {
@@ -13809,6 +16749,9 @@
     "incompatibles": [
       "carrelage",
       "tomette"
+    ],
+    "categoriesCommons": [
+      "Category:Hexagonal tiles"
     ]
   },
   {
@@ -13824,6 +16767,10 @@
     ],
     "incompatibles": [
       "carrelage"
+    ],
+    "categoriesCommons": [
+      "Category:Terracotta tiles",
+      "Category:Hexagonal tiles"
     ]
   },
   {
@@ -13854,6 +16801,9 @@
     ],
     "incompatibles": [
       "carrelage"
+    ],
+    "categoriesCommons": [
+      "Category:Tiling"
     ]
   },
   {
@@ -13869,6 +16819,9 @@
     ],
     "incompatibles": [
       "carrelage"
+    ],
+    "categoriesCommons": [
+      "Category:Tiling"
     ]
   },
   {
@@ -13884,6 +16837,9 @@
     ],
     "incompatibles": [
       "carrelage"
+    ],
+    "categoriesCommons": [
+      "Category:Tiling"
     ]
   },
   {
@@ -13896,6 +16852,9 @@
       "baseboard skirting",
       "plinthe carrelage",
       "incategory:\"Baseboards\""
+    ],
+    "categoriesCommons": [
+      "Category:Baseboards"
     ]
   },
   {
@@ -13927,6 +16886,9 @@
     "incompatibles": [
       "carrelage",
       "faience"
+    ],
+    "categoriesCommons": [
+      "Category:Tiling"
     ]
   },
   {
@@ -13942,6 +16904,10 @@
     ],
     "incompatibles": [
       "sol-en-marbre"
+    ],
+    "categoriesCommons": [
+      "Category:Terrazzo",
+      "Category:Terrazzo floors"
     ]
   },
   {
@@ -13959,6 +16925,9 @@
       "carrelage",
       "gres-cerame-poli",
       "marbre"
+    ],
+    "categoriesCommons": [
+      "Category:Marble"
     ]
   },
   {
@@ -13974,6 +16943,10 @@
     ],
     "incompatibles": [
       "beton-poli"
+    ],
+    "categoriesCommons": [
+      "Category:Polished concrete",
+      "Category:Concrete"
     ]
   },
   {
@@ -13990,6 +16963,10 @@
     "incompatibles": [
       "beton-brut",
       "sol-en-resine"
+    ],
+    "categoriesCommons": [
+      "Category:Polished concrete",
+      "Category:Concrete"
     ]
   },
   {
@@ -14002,6 +16979,9 @@
       "epoxy floor coating",
       "sol résine époxy",
       "epoxy resin floor"
+    ],
+    "categoriesCommons": [
+      "Category:Floors"
     ]
   },
   {
@@ -14075,6 +17055,10 @@
     ],
     "incompatibles": [
       "parquet"
+    ],
+    "categoriesCommons": [
+      "Category:Laminate flooring",
+      "Category:Floors"
     ]
   },
   {
@@ -14090,6 +17074,9 @@
     ],
     "incompatibles": [
       "sol-stratifie"
+    ],
+    "categoriesCommons": [
+      "Category:Laminate flooring"
     ]
   },
   {
@@ -14106,6 +17093,10 @@
     "incompatibles": [
       "linoleum",
       "sol-stratifie"
+    ],
+    "categoriesCommons": [
+      "Category:Vinyl flooring",
+      "Category:Floors"
     ]
   },
   {
@@ -14118,6 +17109,10 @@
       "linoleum floor",
       "linoléum sol",
       "incategory:\"Linoleum\""
+    ],
+    "categoriesCommons": [
+      "Category:Linoleum",
+      "Category:Floors"
     ]
   },
   {
@@ -14160,6 +17155,9 @@
     ],
     "incompatibles": [
       "sol-pvc"
+    ],
+    "categoriesCommons": [
+      "Category:Floors"
     ]
   },
   {
@@ -14172,6 +17170,9 @@
       "cork flooring",
       "revêtement liège",
       "cork wall tiles"
+    ],
+    "categoriesCommons": [
+      "Category:Cork flooring"
     ]
   },
   {
@@ -14184,6 +17185,10 @@
       "raised access floor",
       "plancher technique",
       "raised floor data center"
+    ],
+    "categoriesCommons": [
+      "Category:Raised floors",
+      "Category:Floors"
     ]
   },
   {
@@ -14196,6 +17201,10 @@
       "recessed entrance mat",
       "tapis de propreté encastré",
       "entrance matting building"
+    ],
+    "categoriesCommons": [
+      "Category:Doormats",
+      "Category:Mats"
     ]
   },
   {
@@ -14211,6 +17220,10 @@
     ],
     "incompatibles": [
       "carrelage"
+    ],
+    "categoriesCommons": [
+      "Category:Wall tiles",
+      "Category:Ceramic tiles"
     ]
   },
   {
@@ -14227,6 +17240,10 @@
     "incompatibles": [
       "faience",
       "frise"
+    ],
+    "categoriesCommons": [
+      "Category:Wall tiles",
+      "Category:Ceramic tiles"
     ]
   },
   {
@@ -14243,6 +17260,9 @@
     "incompatibles": [
       "faience",
       "plan-de-travail"
+    ],
+    "categoriesCommons": [
+      "Category:Wall tiles"
     ]
   },
   {
@@ -14258,6 +17278,10 @@
     ],
     "incompatibles": [
       "faience"
+    ],
+    "categoriesCommons": [
+      "Category:Wall tiles",
+      "Category:Ceramic tiles"
     ]
   },
   {
@@ -14273,6 +17297,11 @@
     ],
     "incompatibles": [
       "faience"
+    ],
+    "categoriesCommons": [
+      "Category:Glass mosaics",
+      "Category:Mosaic tiles",
+      "Category:Mosaics"
     ]
   },
   {
@@ -14288,6 +17317,9 @@
     ],
     "incompatibles": [
       "natte-d-etancheite"
+    ],
+    "categoriesCommons": [
+      "Category:Waterproofing"
     ]
   },
   {
@@ -14300,6 +17332,9 @@
       "waterproofing membrane under tile orange",
       "natte d'étanchéité",
       "uncoupling membrane tile"
+    ],
+    "categoriesCommons": [
+      "Category:Waterproofing"
     ]
   },
   {
@@ -14312,6 +17347,9 @@
       "silicone sealant bathtub",
       "joint silicone",
       "caulking bathroom silicone"
+    ],
+    "categoriesCommons": [
+      "Category:Caulking"
     ]
   },
   {
@@ -14327,6 +17365,9 @@
     ],
     "incompatibles": [
       "joint-silicone"
+    ],
+    "categoriesCommons": [
+      "Category:Caulking"
     ]
   },
   {
@@ -14355,6 +17396,11 @@
       "painting interior wall roller",
       "peinture mur intérieur",
       "incategory:\"Painted walls\""
+    ],
+    "categoriesCommons": [
+      "Category:Paint",
+      "Category:Painted walls",
+      "Category:House painting"
     ]
   },
   {
@@ -14367,6 +17413,10 @@
       "wallpaper wall",
       "papier peint",
       "incategory:\"Wallpapers\""
+    ],
+    "categoriesCommons": [
+      "Category:Wallpapers",
+      "Category:Wallpapered rooms"
     ]
   },
   {
@@ -14399,6 +17449,9 @@
     "incompatibles": [
       "beton-cire",
       "stuc-venitien"
+    ],
+    "categoriesCommons": [
+      "Category:Tadelakt"
     ]
   },
   {
@@ -14474,6 +17527,10 @@
     "incompatibles": [
       "dressing",
       "porte-de-placard"
+    ],
+    "categoriesCommons": [
+      "Category:Cupboards",
+      "Category:Wardrobes"
     ]
   },
   {
@@ -14486,6 +17543,10 @@
       "walk-in closet",
       "dressing aménagé",
       "walk in wardrobe"
+    ],
+    "categoriesCommons": [
+      "Category:Wardrobes",
+      "Category:Closets"
     ]
   },
   {
@@ -14498,6 +17559,10 @@
       "kitchen countertop granite",
       "plan de travail cuisine",
       "kitchen worktop"
+    ],
+    "categoriesCommons": [
+      "Category:Countertops",
+      "Category:Kitchens"
     ]
   },
   {
@@ -14513,6 +17578,10 @@
     ],
     "incompatibles": [
       "mousse-polyurethane-projetee"
+    ],
+    "categoriesCommons": [
+      "Category:Polyurethane foam",
+      "Category:Spray foam insulation"
     ]
   },
   {
@@ -14529,6 +17598,9 @@
     "incompatibles": [
       "enduit-de-platre",
       "bande-a-joint"
+    ],
+    "categoriesCommons": [
+      "Category:Plaster"
     ]
   }
 ]

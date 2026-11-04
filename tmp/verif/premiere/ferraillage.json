@@ -1,0 +1,53 @@
+{
+  "termId": "ferraillage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue de l'intérieur d'une grande cage cylindrique d'armatures pour pieu foré, ciel bleu au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image spectaculaire mais montre une cage d'armature de pieu : trop proche d'un terme voisin."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Quadrillage de barres d'acier à haute adhérence peintes en vert, liées entre elles devant un coffrage en contreplaqué.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Armatures en place avant coulage, barres HA ligaturées, très lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Faisceau de barres d'acier rouillées couchées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Khokana, Népal",
+      "note": "Barres en stock : évoque le fer à béton, pas le ferraillage en place."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier dans un escalier de coffrage en bois avec armatures sorties.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène confuse, armatures peu lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cage cylindrique d'armature posée au sol, vue de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cage d'armature de pieu, terme voisin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grand ouvrage en tranchée avec murs et radier entièrement ferraillés, grues au fond.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Weidatal, Allemagne",
+      "note": "Nappes d'armatures de murs et de dalle en place avant coulage, clair et dominant."
+    }
+  ]
+}

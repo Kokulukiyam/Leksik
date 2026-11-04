@@ -1,0 +1,21 @@
+{
+  "termId": "fer-a-beton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photographie ancienne d'un atelier d'usine avec poteaux, courroies et moteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rien à voir avec le fer à béton."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Page imprimée de publicité ancienne avec texte et un hôtel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document imprimé, pas une photo de l'élément."
+    }
+  ]
+}

@@ -1,0 +1,2235 @@
+[
+ {
+  "id": "chaume",
+  "terme": "le chaume",
+  "definition": "Couverture de toit faite de paille, de roseaux ou d'herbes séchées.",
+  "requetes": [
+   "incategory:\"Thatched roofs\"",
+   "thatched roof"
+  ]
+ },
+ {
+  "id": "corniche",
+  "terme": "la corniche",
+  "definition": "Couronnement en saillie, généralement mouluré, qui termine le haut d'un mur ou d'une façade.",
+  "requetes": [
+   "incategory:\"Cornices\"",
+   "cornice building"
+  ]
+ },
+ {
+  "id": "bandeau",
+  "terme": "le bandeau",
+  "definition": "Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.",
+  "requetes": [
+   "deepcat:\"String courses\"",
+   "string course facade"
+  ]
+ },
+ {
+  "id": "fronton",
+  "terme": "le fronton",
+  "definition": "Couronnement triangulaire ou cintré, bordé de corniches, qui surmonte une façade, une porte ou une fenêtre.",
+  "requetes": [
+   "incategory:\"Pediments\"",
+   "pediment temple facade"
+  ]
+ },
+ {
+  "id": "chapiteau",
+  "terme": "le chapiteau",
+  "definition": "Partie supérieure, élargie et souvent sculptée, d'une colonne ou d'un pilastre.",
+  "requetes": [
+   "corinthian capital",
+   "ionic capital",
+   "deepcat:\"Capitals\""
+  ]
+ },
+ {
+  "id": "pilastre",
+  "terme": "le pilastre",
+  "definition": "Pilier plat engagé dans un mur, dont il ne dépasse que légèrement, souvent avec base et chapiteau.",
+  "requetes": [
+   "incategory:\"Pilasters\"",
+   "pilasters facade"
+  ]
+ },
+ {
+  "id": "console",
+  "terme": "la console",
+  "definition": "Support en saillie, souvent galbé en forme de S ou de volute, qui porte un balcon, une corniche ou un élément décoratif.",
+  "requetes": [
+   "console balcon",
+   "balcony console volute",
+   "deepcat:\"Consoles (architecture)\""
+  ]
+ },
+ {
+  "id": "gargouille",
+  "terme": "la gargouille",
+  "definition": "Déversoir en saillie, souvent sculpté, qui rejette loin du mur l'eau de pluie du toit.",
+  "requetes": [
+   "incategory:\"Gargoyles\"",
+   "gargoyle cathedral"
+  ]
+ },
+ {
+  "id": "balustre",
+  "terme": "le balustre",
+  "definition": "Petite colonne renflée qui, répétée en série, forme une balustrade.",
+  "requetes": [
+   "incategory:\"Balusters\"",
+   "stone balusters"
+  ]
+ },
+ {
+  "id": "rosace",
+  "terme": "la rosace",
+  "definition": "Grande baie circulaire à remplage, garnie de vitraux, typique des églises gothiques.",
+  "requetes": [
+   "incategory:\"Rose windows\"",
+   "rose window"
+  ]
+ },
+ {
+  "id": "modillon",
+  "terme": "le modillon",
+  "definition": "Petite console répétée à intervalles réguliers sous la saillie d'une corniche.",
+  "requetes": [
+   "deepcat:\"Modillions\"",
+   "modillions cornice"
+  ]
+ },
+ {
+  "id": "mascaron",
+  "terme": "le mascaron",
+  "definition": "Masque sculpté, figure humaine ou fantastique, qui orne une clé d'arc, une console ou une fontaine.",
+  "requetes": [
+   "deepcat:\"Mascarons\"",
+   "mascaron façade"
+  ]
+ },
+ {
+  "id": "frise",
+  "terme": "la frise",
+  "definition": "Bande horizontale ornée de motifs répétés ou de figures, sculptée ou peinte, qui court le long d'un mur ou entre l'architrave et la corniche d'un entablement.",
+  "requetes": [
+   "incategory:\"Friezes\"",
+   "frieze sculpted"
+  ]
+ },
+ {
+  "id": "pinacle",
+  "terme": "le pinacle",
+  "definition": "Petit couronnement élancé, pyramidal ou conique, qui surmonte un contrefort ou un angle, surtout dans l'architecture gothique.",
+  "requetes": [
+   "deepcat:\"Pinnacles\"",
+   "gothic pinnacles"
+  ]
+ },
+ {
+  "id": "cariatide",
+  "terme": "la cariatide",
+  "definition": "Statue de femme qui sert de support à la place d'une colonne ou d'un pilastre.",
+  "requetes": [
+   "incategory:\"Caryatids\"",
+   "caryatids"
+  ]
+ },
+ {
+  "id": "brique",
+  "terme": "la brique",
+  "definition": "Bloc d'argile moulé puis cuit, utilisé en maçonnerie.",
+  "requetes": [
+   "incategory:\"Brick walls\"",
+   "brick wall texture"
+  ]
+ },
+ {
+  "id": "pierre-de-taille",
+  "terme": "la pierre de taille",
+  "definition": "Pierre taillée en blocs aux faces dressées, posés en assises régulières.",
+  "requetes": [
+   "ashlar masonry wall",
+   "deepcat:\"Ashlar\""
+  ]
+ },
+ {
+  "id": "moellon",
+  "terme": "le moellon",
+  "definition": "Pierre brute ou grossièrement équarrie, de petite taille, employée en maçonnerie.",
+  "requetes": [
+   "rubble masonry wall",
+   "mur en moellons"
+  ]
+ },
+ {
+  "id": "beton-brut",
+  "terme": "le béton brut",
+  "definition": "Béton laissé apparent tel qu'il sort du coffrage, dont il garde l'empreinte.",
+  "requetes": [
+   "béton brut",
+   "board-formed concrete wall",
+   "exposed concrete brutalist"
+  ]
+ },
+ {
+  "id": "ardoise",
+  "terme": "l'ardoise",
+  "definition": "Roche schisteuse fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
+  "requetes": [
+   "incategory:\"Slate roofs\"",
+   "slate roof"
+  ]
+ },
+ {
+  "id": "tole-ondulee",
+  "terme": "la tôle ondulée",
+  "definition": "Feuille de métal à ondulations régulières, utilisée en couverture ou en bardage.",
+  "requetes": [
+   "corrugated iron roof",
+   "corrugated metal sheet roof",
+   "tôle ondulée"
+  ]
+ },
+ {
+  "id": "carreau-de-ciment",
+  "terme": "le carreau de ciment",
+  "definition": "Carreau de sol épais en ciment, aux motifs colorés incrustés dans la masse, pressé et séché sans cuisson ; fréquent dans les maisons anciennes.",
+  "requetes": [
+   "carreaux de ciment",
+   "encaustic cement tiles floor",
+   "cement tiles"
+  ]
+ },
+ {
+  "id": "bardage",
+  "terme": "le bardage",
+  "definition": "Revêtement extérieur de façade fait de lames ou de panneaux fixés sur une ossature.",
+  "requetes": [
+   "wooden cladding facade",
+   "bardage bois",
+   "timber siding house"
+  ]
+ },
+ {
+  "id": "pise",
+  "terme": "le pisé",
+  "definition": "Terre crue compactée par couches successives dans un coffrage pour former des murs massifs.",
+  "requetes": [
+   "incategory:\"Rammed earth\"",
+   "pisé mur",
+   "rammed earth wall"
+  ]
+ },
+ {
+  "id": "granite",
+  "terme": "le granite",
+  "definition": "Roche magmatique dure et grenue, mouchetée de grains clairs et sombres, employée en dalles, bordures ou parements.",
+  "requetes": [
+   "granite cladding facade",
+   "granite polished slab",
+   "granit"
+  ]
+ },
+ {
+  "id": "marbre",
+  "terme": "le marbre",
+  "definition": "Roche métamorphique issue du calcaire, cristalline et souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.",
+  "requetes": [
+   "white marble veined slab",
+   "marble cladding wall",
+   "marbre veiné"
+  ]
+ },
+ {
+  "id": "calcaire",
+  "terme": "le calcaire",
+  "definition": "Pierre sédimentaire tendre à mi-dure, généralement blanche à beige, très employée en pierre de taille et en moellons.",
+  "requetes": [
+   "limestone wall building",
+   "limestone blocks",
+   "mur en calcaire"
+  ]
+ },
+ {
+  "id": "gres",
+  "terme": "le grès",
+  "definition": "Pierre sédimentaire formée de grains de sable cimentés, souvent ocre, rose ou rouge, au toucher rugueux.",
+  "requetes": [
+   "red sandstone wall",
+   "sandstone building facade",
+   "mur en grès"
+  ]
+ },
+ {
+  "id": "travertin",
+  "terme": "le travertin",
+  "definition": "Calcaire beige criblé de petites cavités allongées, employé en dallage et en revêtement de façade.",
+  "requetes": [
+   "travertine cladding",
+   "travertine stone texture",
+   "travertin dallage"
+  ]
+ },
+ {
+  "id": "basalte",
+  "terme": "le basalte",
+  "definition": "Roche volcanique très sombre, gris foncé à noire, dure et à grain fin, employée en moellons et en pavés.",
+  "requetes": [
+   "basalt stone wall",
+   "basalt masonry",
+   "mur en basalte"
+  ]
+ },
+ {
+  "id": "meuliere",
+  "terme": "la meulière",
+  "definition": "Pierre siliceuse brune et caverneuse, très employée en moellons apparents dans les pavillons d'Île-de-France.",
+  "requetes": [
+   "meulière maison",
+   "millstone grit house Paris suburb",
+   "pavillon en meulière"
+  ]
+ },
+ {
+  "id": "tuffeau",
+  "terme": "le tuffeau",
+  "definition": "Calcaire tendre très blanc du Val de Loire, taillé en blocs pour les façades et les châteaux.",
+  "requetes": [
+   "tuffeau façade",
+   "tuffeau stone Loire",
+   "tufa limestone Loire chateau wall"
+  ]
+ },
+ {
+  "id": "silex",
+  "terme": "le silex",
+  "definition": "Pierre très dure noire ou grise à cassure luisante, posée en rognons ou taillée dans les murs.",
+  "requetes": [
+   "flint wall",
+   "knapped flint wall",
+   "mur en silex"
+  ]
+ },
+ {
+  "id": "galet",
+  "terme": "le galet",
+  "definition": "Pierre arrondie et lisse polie par l'eau, employée en mur, en sol ou en décoration.",
+  "requetes": [
+   "pebble wall",
+   "river stone wall",
+   "mur en galets"
+  ]
+ },
+ {
+  "id": "platre",
+  "terme": "le plâtre",
+  "definition": "Poudre blanche de gypse qui, gâchée à l'eau, forme une pâte durcissant vite, utilisée en enduits et moulages.",
+  "requetes": [
+   "plaster of paris powder",
+   "plâtre gâché",
+   "gypsum plaster bag"
+  ]
+ },
+ {
+  "id": "beton",
+  "terme": "le béton",
+  "definition": "Matériau fait de ciment, de sable, de gravier et d'eau qui durcit en une masse de pierre artificielle grise.",
+  "requetes": [
+   "concrete wall",
+   "concrete surface texture",
+   "béton"
+  ]
+ },
+ {
+  "id": "beton-desactive",
+  "terme": "le béton désactivé",
+  "definition": "Béton dont on a éliminé la laitance en surface pour faire apparaître les graviers.",
+  "requetes": [
+   "exposed aggregate concrete",
+   "béton désactivé",
+   "washed concrete surface"
+  ]
+ },
+ {
+  "id": "beton-boucharde",
+  "terme": "le béton bouchardé",
+  "definition": "Béton dont la surface a été piquetée à la boucharde, ce qui lui donne un aspect granuleux et mat.",
+  "requetes": [
+   "bush hammered concrete",
+   "béton bouchardé",
+   "bush-hammered concrete wall"
+  ]
+ },
+ {
+  "id": "beton-matrice",
+  "terme": "le béton matricé",
+  "definition": "Béton apparent dont la surface porte un relief décoratif obtenu par une matrice placée dans le coffrage.",
+  "requetes": [
+   "form liner concrete",
+   "béton matricé",
+   "textured concrete relief wall"
+  ]
+ },
+ {
+  "id": "beton-imprime",
+  "terme": "le béton imprimé",
+  "definition": "Dalle de béton coloré dont la surface est estampée pour imiter des pavés, des dalles ou du bois.",
+  "requetes": [
+   "stamped concrete",
+   "béton imprimé",
+   "stamped concrete patio"
+  ]
+ },
+ {
+  "id": "beton-cellulaire",
+  "terme": "le béton cellulaire",
+  "definition": "Béton léger, blanc et très poreux, vendu en gros blocs réguliers faciles à scier.",
+  "requetes": [
+   "aerated concrete blocks",
+   "autoclaved aerated concrete wall",
+   "béton cellulaire"
+  ]
+ },
+ {
+  "id": "beton-prefabrique",
+  "terme": "le béton préfabriqué",
+  "definition": "Éléments de béton coulés en usine (panneaux, poutres, prédalles), reconnaissables en stock ou au levage, ou aux joints réguliers entre panneaux une fois posés.",
+  "requetes": [
+   "precast concrete panels",
+   "precast concrete element crane",
+   "béton préfabriqué"
+  ]
+ },
+ {
+  "id": "brique-pleine",
+  "terme": "la brique pleine",
+  "definition": "Brique de terre cuite massive, sans alvéoles, souvent laissée apparente.",
+  "requetes": [
+   "solid clay brick",
+   "brique pleine",
+   "solid brick stack"
+  ]
+ },
+ {
+  "id": "brique-de-terre-comprimee",
+  "terme": "la brique de terre comprimée",
+  "definition": "Bloc de terre crue légèrement stabilisée, compacté à la presse, aux arêtes nettes ; on dit couramment BTC.",
+  "requetes": [
+   "compressed earth block",
+   "brique de terre comprimée",
+   "compressed earth blocks wall Africa"
+  ]
+ },
+ {
+  "id": "brique-vernissee",
+  "terme": "la brique vernissée",
+  "definition": "Brique de terre cuite revêtue d'un émail brillant et coloré.",
+  "requetes": [
+   "glazed brick facade",
+   "brique vernissée",
+   "glazed bricks wall"
+  ]
+ },
+ {
+  "id": "brique-de-verre",
+  "terme": "la brique de verre",
+  "definition": "Bloc creux de verre moulé, translucide, maçonné pour former une paroi qui laisse passer la lumière.",
+  "requetes": [
+   "glass block wall",
+   "brique de verre",
+   "glass bricks"
+  ]
+ },
+ {
+  "id": "plaquette-de-parement",
+  "terme": "la plaquette de parement",
+  "definition": "Mince plaquette de terre cuite ou de pierre collée sur un mur pour imiter une maçonnerie apparente.",
+  "requetes": [
+   "brick slips wall",
+   "plaquette de parement",
+   "brick veneer tiles"
+  ]
+ },
+ {
+  "id": "parement-en-pierre",
+  "terme": "le parement en pierre",
+  "definition": "Revêtement de façade en plaques ou moellons de pierre collés ou agrafés devant un mur porteur.",
+  "requetes": [
+   "stone veneer facade",
+   "parement pierre façade",
+   "stone cladding wall"
+  ]
+ },
+ {
+  "id": "pierre-reconstituee",
+  "terme": "la pierre reconstituée",
+  "definition": "Matériau moulé à base de ciment et de granulats de pierre, qui imite la pierre naturelle.",
+  "requetes": [
+   "cast stone",
+   "pierre reconstituée",
+   "cast stone facade elements"
+  ]
+ },
+ {
+  "id": "pierre-bouchardee",
+  "terme": "la pierre bouchardée",
+  "definition": "Pierre dont la face a été piquetée à la boucharde, ce qui lui donne une surface finement grêlée.",
+  "requetes": [
+   "bush hammered granite",
+   "pierre bouchardée",
+   "bush hammered stone surface"
+  ]
+ },
+ {
+  "id": "bois",
+  "terme": "le bois",
+  "definition": "Matériau issu du tronc des arbres, débité en pièces ou en planches, utilisé en structure, menuiserie et revêtement.",
+  "requetes": [
+   "timber planks stack",
+   "sawn lumber",
+   "bois de construction"
+  ]
+ },
+ {
+  "id": "contreplaque",
+  "terme": "le contreplaqué",
+  "definition": "Panneau formé de fines feuilles de bois collées à fil croisé, dont la tranche montre les couches.",
+  "requetes": [
+   "plywood sheets",
+   "plywood edge layers",
+   "contreplaqué"
+  ]
+ },
+ {
+  "id": "panneau-osb",
+  "terme": "le panneau OSB",
+  "definition": "Panneau de grandes lamelles de bois orientées et collées, reconnaissable à son aspect de copeaux.",
+  "requetes": [
+   "OSB board",
+   "oriented strand board texture",
+   "panneau OSB"
+  ]
+ },
+ {
+  "id": "lamelle-colle",
+  "terme": "le lamellé-collé",
+  "definition": "Bois formé de lamelles collées entre elles, en poutres de grande portée dont la tranche montre les strates.",
+  "requetes": [
+   "glued laminated timber beams",
+   "glulam structure",
+   "lamellé-collé"
+  ]
+ },
+ {
+  "id": "bambou",
+  "terme": "le bambou",
+  "definition": "Grande tige creuse et nouée d'une graminée, employée en structure légère, en échafaudage ou en revêtement.",
+  "requetes": [
+   "bamboo construction",
+   "bamboo building structure",
+   "construction en bambou"
+  ]
+ },
+ {
+  "id": "madrier",
+  "terme": "le madrier",
+  "definition": "Pièce de bois de sciage épaisse et large, utilisée en charpente, en coffrage ou en platelage.",
+  "requetes": [
+   "timber baulk",
+   "madrier bois",
+   "thick wooden planks stack"
+  ]
+ },
+ {
+  "id": "rondin",
+  "terme": "le rondin",
+  "definition": "Tronc d'arbre écorcé, laissé rond, utilisé empilé en murs ou en poteaux.",
+  "requetes": [
+   "log cabin wall",
+   "log construction",
+   "maison en rondins"
+  ]
+ },
+ {
+  "id": "bardeau",
+  "terme": "le bardeau",
+  "definition": "Petite planchette de bois fendu posée en recouvrement sur un toit ou une façade, comme des écailles.",
+  "requetes": [
+   "wooden shingles",
+   "wood shingle roof",
+   "bardeaux de bois"
+  ]
+ },
+ {
+  "id": "bardage-a-clin",
+  "terme": "le bardage à clin",
+  "definition": "Bardage de planches horizontales posées en recouvrement, chacune chevauchant celle du dessous.",
+  "requetes": [
+   "clapboard siding",
+   "bardage à clin",
+   "lap siding house"
+  ]
+ },
+ {
+  "id": "bardage-metallique",
+  "terme": "le bardage métallique",
+  "definition": "Revêtement de façade en tôles ou cassettes métalliques nervurées, typique des bâtiments industriels.",
+  "requetes": [
+   "metal cladding facade",
+   "bardage métallique",
+   "steel cladding industrial building"
+  ]
+ },
+ {
+  "id": "bois-brule",
+  "terme": "le bois brûlé",
+  "definition": "Bois de bardage dont la surface est carbonisée, noire et craquelée, pour la protéger.",
+  "requetes": [
+   "shou sugi ban",
+   "charred wood cladding",
+   "yakisugi facade"
+  ]
+ },
+ {
+  "id": "bois-composite",
+  "terme": "le bois composite",
+  "definition": "Matériau de fibres de bois et de plastique, moulé en lames rainurées pour terrasses et bardages.",
+  "requetes": [
+   "composite decking",
+   "wood plastic composite boards",
+   "lames composite terrasse"
+  ]
+ },
+ {
+  "id": "acier",
+  "terme": "l'acier",
+  "definition": "Alliage de fer et de carbone, utilisé en profilés, en tôles et en armatures.",
+  "requetes": [
+   "steel beams stack",
+   "steel profiles",
+   "structural steel sections"
+  ]
+ },
+ {
+  "id": "acier-corten",
+  "terme": "l'acier Corten",
+  "definition": "Acier qui se couvre d'une rouille brun orangé stable et protectrice, laissé apparent en façade.",
+  "requetes": [
+   "corten steel facade",
+   "weathering steel cladding",
+   "acier corten"
+  ]
+ },
+ {
+  "id": "acier-galvanise",
+  "terme": "l'acier galvanisé",
+  "definition": "Acier recouvert de zinc, d'aspect gris argenté mat, souvent pailleté, qui le protège de la rouille.",
+  "requetes": [
+   "galvanized steel",
+   "hot dip galvanized steel surface",
+   "acier galvanisé"
+  ]
+ },
+ {
+  "id": "inox",
+  "terme": "l'inox",
+  "definition": "Acier inoxydable, brillant ou brossé, qui ne rouille pas, employé en garde-corps, habillages et équipements.",
+  "requetes": [
+   "stainless steel railing",
+   "brushed stainless steel",
+   "inox"
+  ]
+ },
+ {
+  "id": "aluminium",
+  "terme": "l'aluminium",
+  "definition": "Métal léger gris clair, employé en profilés de menuiserie, en tôles et en panneaux de façade.",
+  "requetes": [
+   "aluminium profiles",
+   "aluminum extrusion profiles",
+   "profilés aluminium"
+  ]
+ },
+ {
+  "id": "cuivre",
+  "terme": "le cuivre",
+  "definition": "Métal rougeâtre qui se patine en brun puis en vert-de-gris, employé en couverture et en habillage.",
+  "requetes": [
+   "copper roof patina",
+   "copper cladding facade",
+   "toiture en cuivre"
+  ]
+ },
+ {
+  "id": "laiton",
+  "terme": "le laiton",
+  "definition": "Alliage jaune doré de cuivre et de zinc, employé en quincaillerie, en profils et en décor.",
+  "requetes": [
+   "brass door handle",
+   "brass hardware",
+   "laiton"
+  ]
+ },
+ {
+  "id": "fonte",
+  "terme": "la fonte",
+  "definition": "Alliage de fer coulé en moule, lourd et cassant, employé en colonnes, grilles, regards et éléments décoratifs.",
+  "requetes": [
+   "cast iron columns",
+   "cast iron architecture",
+   "fonte colonne"
+  ]
+ },
+ {
+  "id": "fer-forge",
+  "terme": "le fer forgé",
+  "definition": "Fer travaillé à chaud au marteau en barres tordues, volutes et pointes, pour grilles, balcons et rampes.",
+  "requetes": [
+   "wrought iron railing",
+   "wrought iron gate",
+   "fer forgé"
+  ]
+ },
+ {
+  "id": "tole-perforee",
+  "terme": "la tôle perforée",
+  "definition": "Tôle percée de trous réguliers, employée en habillage, en garde-corps ou en brise-vue.",
+  "requetes": [
+   "perforated metal facade",
+   "perforated metal sheet",
+   "tôle perforée"
+  ]
+ },
+ {
+  "id": "metal-deploye",
+  "terme": "le métal déployé",
+  "definition": "Tôle incisée puis étirée qui forme un réseau de mailles en losange.",
+  "requetes": [
+   "expanded metal mesh",
+   "expanded metal facade",
+   "métal déployé"
+  ]
+ },
+ {
+  "id": "tole-larmee",
+  "terme": "la tôle larmée",
+  "definition": "Tôle d'acier antidérapante dont la surface porte de petits reliefs en forme de larmes.",
+  "requetes": [
+   "checker plate steel",
+   "diamond plate steel floor",
+   "tôle larmée"
+  ]
+ },
+ {
+  "id": "panneau-composite-aluminium",
+  "terme": "le panneau composite aluminium",
+  "definition": "Panneau plan et lisse de deux feuilles d'aluminium laquées collées sur une âme, posé en cassettes sur les façades.",
+  "requetes": [
+   "aluminium composite panel facade",
+   "ACM cladding building",
+   "panneau composite aluminium façade"
+  ]
+ },
+ {
+  "id": "verre-arme",
+  "terme": "le verre armé",
+  "definition": "Verre dans lequel est noyé un treillis de fils métalliques visible.",
+  "requetes": [
+   "wired glass",
+   "wire mesh glass",
+   "verre armé"
+  ]
+ },
+ {
+  "id": "verre-depoli",
+  "terme": "le verre dépoli",
+  "definition": "Verre rendu translucide par une surface mate qui laisse passer la lumière mais pas la vue.",
+  "requetes": [
+   "frosted glass window",
+   "verre dépoli",
+   "frosted glass door"
+  ]
+ },
+ {
+  "id": "verre-imprime",
+  "terme": "le verre imprimé",
+  "definition": "Verre translucide dont une face porte un motif en relief.",
+  "requetes": [
+   "patterned glass",
+   "textured glass window",
+   "verre imprimé"
+  ]
+ },
+ {
+  "id": "verre-reflechissant",
+  "terme": "le verre réfléchissant",
+  "definition": "Vitrage à couche métallique qui renvoie l'image comme un miroir, vu sur les façades de bureaux.",
+  "requetes": [
+   "reflective glass facade",
+   "mirror glass building",
+   "verre réfléchissant façade"
+  ]
+ },
+ {
+  "id": "polycarbonate-alveolaire",
+  "terme": "le polycarbonate alvéolaire",
+  "definition": "Plaque de plastique translucide à parois creuses parallèles, employée en couverture légère ou en façade.",
+  "requetes": [
+   "polycarbonate roofing sheets",
+   "multiwall polycarbonate",
+   "polycarbonate alvéolaire"
+  ]
+ },
+ {
+  "id": "enduit",
+  "terme": "l'enduit",
+  "definition": "Couche de mortier appliquée sur un mur pour le protéger et l'aplanir.",
+  "requetes": [
+   "rendered wall",
+   "plastered wall exterior",
+   "enduit façade"
+  ]
+ },
+ {
+  "id": "enduit-tyrolien",
+  "terme": "l'enduit tyrolien",
+  "definition": "Enduit projeté à la machine qui laisse une surface rugueuse de petites aspérités, très répandu sur les façades.",
+  "requetes": [
+   "tyrolean render",
+   "tyrolienne façade",
+   "roughcast render wall texture"
+  ]
+ },
+ {
+  "id": "enduit-gratte",
+  "terme": "l'enduit gratté",
+  "definition": "Enduit dont la surface, grattée avant durcissement, présente un grain fin et régulier.",
+  "requetes": [
+   "scraped render",
+   "enduit gratté",
+   "scraped finish render facade"
+  ]
+ },
+ {
+  "id": "enduit-taloche",
+  "terme": "l'enduit taloché",
+  "definition": "Enduit lissé à la taloche, plan, au grain fin avec de légères traces circulaires.",
+  "requetes": [
+   "floated render",
+   "enduit taloché",
+   "smooth render wall"
+  ]
+ },
+ {
+  "id": "mosaique",
+  "terme": "la mosaïque",
+  "definition": "Revêtement fait de petits fragments de pierre, de céramique ou de verre assemblés.",
+  "requetes": [
+   "mosaic wall",
+   "mosaic floor",
+   "mosaïque"
+  ]
+ },
+ {
+  "id": "zellige",
+  "terme": "le zellige",
+  "definition": "Petit carreau de terre cuite émaillée, taillé à la main, assemblé en motifs géométriques.",
+  "requetes": [
+   "zellige",
+   "zellij tiles",
+   "zellige mosaic wall"
+  ]
+ },
+ {
+  "id": "fibrociment",
+  "terme": "le fibrociment",
+  "definition": "Matériau de ciment et de fibres, gris clair, moulé en plaques ondulées ou planes.",
+  "requetes": [
+   "fibre cement corrugated sheet",
+   "asbestos cement roof",
+   "fibrociment toiture"
+  ]
+ },
+ {
+  "id": "torchis",
+  "terme": "le torchis",
+  "definition": "Mélange de terre et de paille appliqué sur un clayonnage de bois pour remplir les murs.",
+  "requetes": [
+   "wattle and daub",
+   "torchis",
+   "wattle and daub wall"
+  ]
+ },
+ {
+  "id": "bauge",
+  "terme": "la bauge",
+  "definition": "Terre crue mêlée de paille, empilée en couches épaisses et retaillée pour former des murs massifs.",
+  "requetes": [
+   "cob wall",
+   "cob house",
+   "maison en bauge"
+  ]
+ },
+ {
+  "id": "botte-de-paille",
+  "terme": "la botte de paille",
+  "definition": "Botte de paille compactée empilée comme un bloc pour monter des murs isolants.",
+  "requetes": [
+   "straw bale construction",
+   "straw bale wall",
+   "construction en bottes de paille"
+  ]
+ },
+ {
+  "id": "polystyrene-expanse",
+  "terme": "le polystyrène expansé",
+  "definition": "Isolant blanc et léger fait de billes collées, vendu en plaques.",
+  "requetes": [
+   "expanded polystyrene insulation boards",
+   "EPS insulation",
+   "polystyrène expansé"
+  ]
+ },
+ {
+  "id": "laine-de-verre",
+  "terme": "la laine de verre",
+  "definition": "Isolant fibreux, souple, souvent jaune, vendu en rouleaux ou en panneaux.",
+  "requetes": [
+   "glass wool insulation",
+   "fiberglass insulation roll",
+   "laine de verre"
+  ]
+ },
+ {
+  "id": "laine-de-roche",
+  "terme": "la laine de roche",
+  "definition": "Isolant fibreux plus dense que la laine de verre, souvent vert-gris ou brun, vendu en panneaux.",
+  "requetes": [
+   "rock wool insulation",
+   "mineral wool boards",
+   "laine de roche"
+  ]
+ },
+ {
+  "id": "efflorescence",
+  "terme": "l'efflorescence",
+  "definition": "Dépôt blanchâtre de sels qui apparaît à la surface d'une maçonnerie ou d'un béton humide.",
+  "requetes": [
+   "efflorescence brick wall",
+   "efflorescence concrete",
+   "salpêtre mur"
+  ]
+ },
+ {
+  "id": "moulure",
+  "terme": "la moulure",
+  "definition": "Ornement en relief, de profil constant, qui court le long d'un mur, d'un plafond ou d'un encadrement.",
+  "requetes": [
+   "moulding plaster ceiling",
+   "architectural molding",
+   "moulure"
+  ]
+ },
+ {
+  "id": "architrave",
+  "terme": "l'architrave",
+  "definition": "Partie inférieure de l'entablement, posée directement sur les chapiteaux des colonnes.",
+  "requetes": [
+   "architrave classical temple",
+   "architrave columns",
+   "architrave entablement"
+  ]
+ },
+ {
+  "id": "entablement",
+  "terme": "l'entablement",
+  "definition": "Couronnement horizontal porté par les colonnes, formé de l'architrave, de la frise et de la corniche.",
+  "requetes": [
+   "entablature temple",
+   "classical entablature",
+   "entablement"
+  ]
+ },
+ {
+  "id": "triglyphe",
+  "terme": "le triglyphe",
+  "definition": "Panneau rectangulaire gravé de rainures verticales, qui alterne avec les métopes dans la frise dorique.",
+  "requetes": [
+   "triglyphs metopes",
+   "doric frieze triglyph",
+   "triglyphe"
+  ]
+ },
+ {
+  "id": "metope",
+  "terme": "la métope",
+  "definition": "Panneau carré, lisse ou sculpté, placé entre deux triglyphes dans la frise dorique.",
+  "requetes": [
+   "metope sculpted",
+   "Parthenon metope",
+   "métope"
+  ]
+ },
+ {
+  "id": "volute",
+  "terme": "la volute",
+  "definition": "Ornement enroulé en spirale, typique du chapiteau ionique et des consoles.",
+  "requetes": [
+   "ionic volute",
+   "volute scroll ornament",
+   "volute"
+  ]
+ },
+ {
+  "id": "feuille-d-acanthe",
+  "terme": "la feuille d'acanthe",
+  "definition": "Motif sculpté de larges feuilles découpées et recourbées, qui garnit notamment le chapiteau corinthien.",
+  "requetes": [
+   "acanthus leaves carving",
+   "acanthus ornament",
+   "feuille d'acanthe"
+  ]
+ },
+ {
+  "id": "denticule",
+  "terme": "le denticule",
+  "definition": "Petit bloc rectangulaire répété en rang serré sous une corniche, comme une rangée de dents.",
+  "requetes": [
+   "dentils cornice",
+   "dentil molding",
+   "denticules corniche"
+  ]
+ },
+ {
+  "id": "ove",
+  "terme": "l'ove",
+  "definition": "Ornement en forme d'œuf, répété en rang et alterné avec des dards sur une moulure.",
+  "requetes": [
+   "egg and dart",
+   "egg and dart molding",
+   "oves et dards"
+  ]
+ },
+ {
+  "id": "rinceau",
+  "terme": "le rinceau",
+  "definition": "Ornement de tiges végétales ondulantes qui s'enroulent en volutes garnies de feuilles.",
+  "requetes": [
+   "rinceau ornament",
+   "scrolling vine relief",
+   "rinceaux sculptés"
+  ]
+ },
+ {
+  "id": "feston",
+  "terme": "le feston",
+  "definition": "Guirlande sculptée de feuilles, de fleurs ou de fruits, suspendue en arc entre deux points.",
+  "requetes": [
+   "festoon garland relief",
+   "swag ornament facade",
+   "feston sculpté"
+  ]
+ },
+ {
+  "id": "palmette",
+  "terme": "la palmette",
+  "definition": "Motif stylisé en éventail de feuilles de palmier, répété dans les frises et les acrotères.",
+  "requetes": [
+   "palmette ornament",
+   "anthemion palmette",
+   "palmette"
+  ]
+ },
+ {
+  "id": "grecque",
+  "terme": "la grecque",
+  "definition": "Frise de lignes brisées à angles droits, formant un méandre continu.",
+  "requetes": [
+   "greek key meander",
+   "greek fret pattern",
+   "frise grecque"
+  ]
+ },
+ {
+  "id": "cartouche",
+  "terme": "le cartouche",
+  "definition": "Encadrement sculpté, souvent à bords enroulés, qui entoure une inscription, un blason ou une date sur une façade.",
+  "requetes": [
+   "cartouche facade",
+   "baroque cartouche",
+   "cartouche sculpté"
+  ]
+ },
+ {
+  "id": "medaillon",
+  "terme": "le médaillon",
+  "definition": "Ornement rond ou ovale, encadré, qui porte un portrait ou un motif sculpté.",
+  "requetes": [
+   "medallion facade relief",
+   "portrait medallion building",
+   "médaillon façade"
+  ]
+ },
+ {
+  "id": "atlante",
+  "terme": "l'atlante",
+  "definition": "Statue d'homme qui porte un entablement ou un balcon à la place d'une colonne.",
+  "requetes": [
+   "atlas telamon",
+   "atlantes balcony",
+   "atlantes façade"
+  ]
+ },
+ {
+  "id": "bossage",
+  "terme": "le bossage",
+  "definition": "Saillie volontaire de la face des pierres d'un mur, séparées par des joints creux, pour en accuser le relief.",
+  "requetes": [
+   "rustication stone",
+   "rusticated masonry",
+   "bossage façade"
+  ]
+ },
+ {
+  "id": "refend",
+  "terme": "le refend",
+  "definition": "Rainure creusée dans un enduit ou une pierre pour marquer ou imiter les joints d'un appareil.",
+  "requetes": [
+   "refend façade",
+   "rusticated render grooves",
+   "channelled rustication"
+  ]
+ },
+ {
+  "id": "niche",
+  "terme": "la niche",
+  "definition": "Renfoncement ménagé dans l'épaisseur d'un mur, souvent cintré, destiné à recevoir une statue ou un vase.",
+  "requetes": [
+   "niche statue facade",
+   "wall niche architecture",
+   "niche"
+  ]
+ },
+ {
+  "id": "bas-relief",
+  "terme": "le bas-relief",
+  "definition": "Sculpture qui se détache peu du fond auquel elle reste attachée.",
+  "requetes": [
+   "bas-relief facade",
+   "low relief sculpture wall",
+   "bas-relief"
+  ]
+ },
+ {
+  "id": "haut-relief",
+  "terme": "le haut-relief",
+  "definition": "Sculpture qui se détache fortement du fond, les figures étant presque en ronde-bosse.",
+  "requetes": [
+   "high relief sculpture",
+   "high relief facade",
+   "haut-relief"
+  ]
+ },
+ {
+  "id": "pot-a-feu",
+  "terme": "le pot à feu",
+  "definition": "Vase décoratif sculpté d'où sortent des flammes stylisées, posé en couronnement d'une façade ou d'un pilier.",
+  "requetes": [
+   "pot à feu",
+   "flaming urn finial",
+   "urne flamme balustrade"
+  ]
+ },
+ {
+  "id": "epi-de-faitage",
+  "terme": "l'épi de faîtage",
+  "definition": "Ornement de terre cuite, de zinc ou de plomb qui se dresse à l'extrémité ou au sommet d'un faîtage.",
+  "requetes": [
+   "roof finial",
+   "épi de faîtage",
+   "finial roof ridge"
+  ]
+ },
+ {
+  "id": "fleuron",
+  "terme": "le fleuron",
+  "definition": "Ornement en forme de fleur stylisée, souvent placé au sommet d'un pinacle ou d'un gâble gothique.",
+  "requetes": [
+   "finial gothic",
+   "fleuron gothique",
+   "gothic finial"
+  ]
+ },
+ {
+  "id": "crochet",
+  "terme": "le crochet",
+  "definition": "Petit ornement gothique en forme de feuille recourbée, répété le long des arêtes des pinacles et des gâbles.",
+  "requetes": [
+   "crockets gothic",
+   "gothic crocket",
+   "crochets gothiques"
+  ]
+ },
+ {
+  "id": "remplage",
+  "terme": "le remplage",
+  "definition": "Réseau de pierre découpée qui divise une baie gothique en compartiments garnis de vitraux.",
+  "requetes": [
+   "gothic tracery",
+   "tracery window",
+   "remplage gothique"
+  ]
+ },
+ {
+  "id": "gable",
+  "terme": "le gâble",
+  "definition": "Couronnement triangulaire et aigu, ajouré, qui surmonte un portail ou une baie gothique.",
+  "requetes": [
+   "gable gothic portal",
+   "gothic gablet",
+   "gâble portail cathédrale"
+  ]
+ },
+ {
+  "id": "cannelure",
+  "terme": "la cannelure",
+  "definition": "Rainure verticale creusée en série sur le fût d'une colonne ou d'un pilastre.",
+  "requetes": [
+   "fluted column",
+   "column fluting",
+   "cannelures colonne"
+  ]
+ },
+ {
+  "id": "chapiteau-corinthien",
+  "terme": "le chapiteau corinthien",
+  "definition": "Chapiteau en forme de corbeille garnie de rangs de feuilles d'acanthe et de petites volutes aux angles.",
+  "requetes": [
+   "incategory:\"Corinthian capitals\"",
+   "corinthian capital",
+   "chapiteau corinthien"
+  ]
+ },
+ {
+  "id": "chapiteau-ionique",
+  "terme": "le chapiteau ionique",
+  "definition": "Chapiteau orné de deux grandes volutes enroulées de part et d'autre.",
+  "requetes": [
+   "incategory:\"Ionic capitals\"",
+   "ionic capital",
+   "chapiteau ionique"
+  ]
+ },
+ {
+  "id": "chapiteau-dorique",
+  "terme": "le chapiteau dorique",
+  "definition": "Chapiteau simple formé d'un coussinet arrondi surmonté d'une tablette carrée.",
+  "requetes": [
+   "incategory:\"Doric capitals\"",
+   "doric capital",
+   "chapiteau dorique"
+  ]
+ },
+ {
+  "id": "vitrail",
+  "terme": "le vitrail",
+  "definition": "Composition de verres colorés assemblés par des plombs, qui garnit une baie.",
+  "requetes": [
+   "incategory:\"Stained glass windows\"",
+   "stained glass window",
+   "vitrail église"
+  ]
+ },
+ {
+  "id": "fresque",
+  "terme": "la fresque",
+  "definition": "Grande peinture murale, à l'origine exécutée sur enduit frais, en intérieur ou sur une façade.",
+  "requetes": [
+   "mural painting wall",
+   "fresque murale",
+   "street mural Dakar"
+  ]
+ },
+ {
+  "id": "trompe-l-oeil",
+  "terme": "le trompe-l'œil",
+  "definition": "Peinture murale qui imite un décor en relief, des fenêtres ou une perspective pour tromper la vue.",
+  "requetes": [
+   "trompe l'oeil facade",
+   "trompe-l'œil façade peinte",
+   "painted facade illusion"
+  ]
+ },
+ {
+  "id": "sgraffite",
+  "terme": "le sgraffite",
+  "definition": "Décor obtenu en grattant une couche d'enduit pour faire apparaître une couche de couleur différente dessous.",
+  "requetes": [
+   "sgraffito facade",
+   "sgraffito wall decoration",
+   "sgraffite"
+  ]
+ },
+ {
+  "id": "lambrequin",
+  "terme": "le lambrequin",
+  "definition": "Bande de bois ou de métal découpée qui borde le bas d'une avancée de toit ou d'un auvent.",
+  "requetes": [
+   "lambrequin bois",
+   "gingerbread trim eaves",
+   "decorative bargeboard fretwork"
+  ]
+ },
+ {
+  "id": "arabesque",
+  "terme": "l'arabesque",
+  "definition": "Ornement fait d'entrelacs de lignes courbes et de motifs végétaux stylisés.",
+  "requetes": [
+   "arabesque ornament",
+   "islamic arabesque carving",
+   "arabesque"
+  ]
+ },
+ {
+  "id": "colonne-torse",
+  "terme": "la colonne torse",
+  "definition": "Colonne dont le fût est tordu en spirale, comme une vis.",
+  "requetes": [
+   "solomonic column",
+   "twisted column",
+   "colonne torse"
+  ]
+ },
+ {
+  "id": "cul-de-lampe",
+  "terme": "le cul-de-lampe",
+  "definition": "Console sculptée en forme de pyramide renversée qui reçoit la retombée d'une nervure ou porte une statue.",
+  "requetes": [
+   "cul-de-lampe",
+   "corbel gothic sculpted",
+   "culot sculpté"
+  ]
+ },
+ {
+  "id": "fronton-brise",
+  "terme": "le fronton brisé",
+  "definition": "Fronton dont les rampants sont interrompus au sommet, laissant un vide central souvent occupé par un ornement.",
+  "requetes": [
+   "broken pediment",
+   "fronton brisé",
+   "broken pediment door"
+  ]
+ },
+ {
+  "id": "rosace-de-plafond",
+  "terme": "la rosace de plafond",
+  "definition": "Ornement circulaire en plâtre moulé au centre d'un plafond, souvent autour du point d'accrochage du lustre.",
+  "requetes": [
+   "ceiling rose plaster",
+   "ceiling medallion",
+   "rosace de plafond"
+  ]
+ },
+ {
+  "id": "cloison",
+  "terme": "la cloison",
+  "definition": "Mur intérieur mince et non porteur qui sépare deux pièces.",
+  "requetes": [
+   "interior partition wall construction",
+   "cloison intérieure",
+   "incategory:\"Partition walls\""
+  ]
+ },
+ {
+  "id": "cloison-en-plaques-de-platre",
+  "terme": "la cloison en plaques de plâtre",
+  "definition": "Cloison sèche faite de plaques de plâtre vissées de part et d'autre d'une ossature métallique.",
+  "requetes": [
+   "drywall partition metal studs",
+   "cloison placo",
+   "drywall partition"
+  ]
+ },
+ {
+  "id": "plaque-de-platre",
+  "terme": "la plaque de plâtre",
+  "definition": "Panneau plat de plâtre pris entre deux feuilles de carton, appelé couramment placo ou BA13, vissé sur ossature pour cloisons, doublages et plafonds.",
+  "requetes": [
+   "drywall sheets stacked",
+   "plaque de plâtre BA13",
+   "incategory:\"Drywall\""
+  ]
+ },
+ {
+  "id": "plaque-de-platre-hydrofuge",
+  "terme": "la plaque de plâtre hydrofuge",
+  "definition": "Plaque de plâtre à carton vert, traitée contre l'humidité, posée dans les salles d'eau.",
+  "requetes": [
+   "green moisture resistant drywall",
+   "plaque hydrofuge verte",
+   "green board drywall bathroom"
+  ]
+ },
+ {
+  "id": "plaque-de-platre-coupe-feu",
+  "terme": "la plaque de plâtre coupe-feu",
+  "definition": "Plaque de plâtre renforcée de fibres, à carton souvent rose ou rouge, qui retarde la propagation du feu.",
+  "requetes": [
+   "fire rated drywall pink",
+   "plaque de plâtre coupe-feu",
+   "type X drywall"
+  ]
+ },
+ {
+  "id": "plaque-de-platre-perforee",
+  "terme": "la plaque de plâtre perforée",
+  "definition": "Plaque de plâtre percée d'un réseau régulier de petits trous, utilisée en plafond pour absorber le bruit.",
+  "requetes": [
+   "perforated gypsum acoustic ceiling",
+   "plafond plâtre perforé",
+   "perforated plasterboard ceiling"
+  ]
+ },
+ {
+  "id": "montant-metallique",
+  "terme": "le montant métallique",
+  "definition": "Profilé vertical en tôle d'acier galvanisé, en forme de C, qui forme l'ossature d'une cloison sèche.",
+  "requetes": [
+   "metal stud framing drywall",
+   "montants métalliques cloison",
+   "steel stud wall framing"
+  ]
+ },
+ {
+  "id": "rail-metallique",
+  "terme": "le rail métallique",
+  "definition": "Profilé en U en acier galvanisé fixé au sol et au plafond, dans lequel s'emboîtent les montants d'une cloison sèche.",
+  "requetes": [
+   "metal track drywall floor",
+   "rail placo sol",
+   "steel stud track"
+  ]
+ },
+ {
+  "id": "bande-a-joint",
+  "terme": "la bande à joint",
+  "definition": "Bande de papier ou de fibre noyée dans l'enduit pour masquer et renforcer la jonction entre deux plaques de plâtre.",
+  "requetes": [
+   "drywall joint tape mud",
+   "bande à joint placo",
+   "drywall taping"
+  ]
+ },
+ {
+  "id": "corniere-d-angle",
+  "terme": "la cornière d'angle",
+  "definition": "Profilé métallique ou plastique en L qui protège et dresse les angles saillants des cloisons et enduits.",
+  "requetes": [
+   "drywall corner bead",
+   "cornière d'angle plâtre",
+   "metal corner bead plaster"
+  ]
+ },
+ {
+  "id": "doublage",
+  "terme": "le doublage",
+  "definition": "Paroi mince, souvent en plaques de plâtre avec isolant, posée contre la face intérieure d'un mur.",
+  "requetes": [
+   "insulated plasterboard wall lining",
+   "doublage isolant mur",
+   "drywall furring wall insulation"
+  ]
+ },
+ {
+  "id": "carreau-de-platre",
+  "terme": "le carreau de plâtre",
+  "definition": "Bloc plein de plâtre à emboîtement, monté à la colle pour faire des cloisons intérieures lisses.",
+  "requetes": [
+   "gypsum block partition",
+   "carreau de plâtre cloison",
+   "gypsum blocks wall"
+  ]
+ },
+ {
+  "id": "cloison-vitree",
+  "terme": "la cloison vitrée",
+  "definition": "Cloison intérieure en grands panneaux de verre, fréquente dans les bureaux.",
+  "requetes": [
+   "glass partition office",
+   "cloison vitrée bureau",
+   "glazed office partition"
+  ]
+ },
+ {
+  "id": "verriere-interieure",
+  "terme": "la verrière intérieure",
+  "definition": "Cloison vitrée à fins profilés d'acier noirs formant des carreaux, de style atelier.",
+  "requetes": [
+   "interior steel glass partition atelier",
+   "verrière d'atelier intérieure",
+   "black steel frame glass wall interior"
+  ]
+ },
+ {
+  "id": "cloison-mobile",
+  "terme": "la cloison mobile",
+  "definition": "Cloison faite de panneaux suspendus à un rail qui coulissent ou se replient pour diviser ou ouvrir une salle.",
+  "requetes": [
+   "operable wall partition",
+   "cloison mobile salle",
+   "folding partition wall"
+  ]
+ },
+ {
+  "id": "cloison-sanitaire",
+  "terme": "la cloison sanitaire",
+  "definition": "Panneaux rigides surélevés du sol qui séparent les cabines de WC dans les toilettes collectives.",
+  "requetes": [
+   "toilet partitions public restroom",
+   "cabine sanitaire cloison",
+   "toilet cubicles"
+  ]
+ },
+ {
+  "id": "pare-vapeur",
+  "terme": "le pare-vapeur",
+  "definition": "Film plastique tendu côté intérieur d'un isolant pour empêcher la vapeur d'eau d'y pénétrer.",
+  "requetes": [
+   "vapor barrier plastic insulation wall",
+   "pare-vapeur film",
+   "vapour barrier membrane"
+  ]
+ },
+ {
+  "id": "isolant-mince-reflechissant",
+  "terme": "l'isolant mince réfléchissant",
+  "definition": "Isolant en rouleau, peu épais, fait de feuilles d'aluminium brillantes et de couches de mousse ou de ouate.",
+  "requetes": [
+   "reflective foil insulation",
+   "isolant mince multicouche",
+   "radiant barrier foil"
+  ]
+ },
+ {
+  "id": "mousse-polyurethane-projetee",
+  "terme": "la mousse polyuréthane projetée",
+  "definition": "Isolant pulvérisé qui gonfle en une mousse jaunâtre irrégulière collée au support.",
+  "requetes": [
+   "spray foam insulation",
+   "mousse polyuréthane projetée",
+   "sprayed polyurethane foam wall"
+  ]
+ },
+ {
+  "id": "enduit-de-platre",
+  "terme": "l'enduit de plâtre",
+  "definition": "Couche de plâtre étalée et lissée sur un mur ou un plafond intérieur pour obtenir une surface plane prête à peindre.",
+  "requetes": [
+   "plastering interior wall gypsum",
+   "enduit plâtre mur",
+   "fresh plaster wall interior"
+  ]
+ },
+ {
+  "id": "faux-plafond",
+  "terme": "le faux plafond",
+  "definition": "Plafond suspendu sous la dalle ou la charpente, qui masque gaines et réseaux.",
+  "requetes": [
+   "suspended ceiling",
+   "faux plafond",
+   "incategory:\"Dropped ceilings\""
+  ]
+ },
+ {
+  "id": "faux-plafond-en-dalles",
+  "terme": "le faux plafond en dalles",
+  "definition": "Faux plafond fait de dalles amovibles, souvent de 60 × 60 cm, posées dans une ossature apparente.",
+  "requetes": [
+   "drop ceiling tiles grid",
+   "faux plafond dalles 60x60",
+   "acoustic ceiling tiles office"
+  ]
+ },
+ {
+  "id": "faux-plafond-en-plaques-de-platre",
+  "terme": "le faux plafond en plaques de plâtre",
+  "definition": "Faux plafond continu et lisse fait de plaques de plâtre vissées sur une ossature cachée.",
+  "requetes": [
+   "plasterboard ceiling installation",
+   "faux plafond placo",
+   "drywall ceiling"
+  ]
+ },
+ {
+  "id": "ossature-de-faux-plafond",
+  "terme": "l'ossature de faux plafond",
+  "definition": "Réseau de profilés métalliques suspendus qui porte les dalles ou les plaques d'un faux plafond.",
+  "requetes": [
+   "suspended ceiling grid",
+   "ossature faux plafond",
+   "ceiling T-bar grid installation"
+  ]
+ },
+ {
+  "id": "corniere-de-rive",
+  "terme": "la cornière de rive",
+  "definition": "Profilé en L fixé au mur sur lequel reposent les bords d'un faux plafond.",
+  "requetes": [
+   "ceiling wall angle trim suspended",
+   "cornière de rive faux plafond",
+   "wall angle ceiling grid"
+  ]
+ },
+ {
+  "id": "suspente",
+  "terme": "la suspente",
+  "definition": "Tige ou fil métallique accroché à la dalle qui porte l'ossature d'un faux plafond.",
+  "requetes": [
+   "suspended ceiling hanger wire",
+   "suspente faux plafond",
+   "ceiling hangers rods"
+  ]
+ },
+ {
+  "id": "staff",
+  "terme": "le staff",
+  "definition": "Plâtre armé de fibres, coulé en plaques ou en moulures, très employé au Sénégal pour les faux plafonds et corniches décoratives.",
+  "requetes": [
+   "staff plaster ceiling decorative",
+   "plafond en staff",
+   "fibrous plaster ceiling"
+  ]
+ },
+ {
+  "id": "gorge-lumineuse",
+  "terme": "la gorge lumineuse",
+  "definition": "Rebord ou décaissé du faux plafond qui cache une source lumineuse éclairant le plafond de façon indirecte.",
+  "requetes": [
+   "cove lighting ceiling",
+   "gorge lumineuse plafond",
+   "indirect light cove ceiling"
+  ]
+ },
+ {
+  "id": "trappe-de-visite",
+  "terme": "la trappe de visite",
+  "definition": "Petit panneau ouvrant dans un faux plafond ou une cloison, qui donne accès aux réseaux cachés.",
+  "requetes": [
+   "ceiling access panel",
+   "trappe de visite plafond",
+   "drywall access hatch"
+  ]
+ },
+ {
+  "id": "lambris-pvc",
+  "terme": "le lambris PVC",
+  "definition": "Lames de plastique emboîtées, souvent blanches, fixées en plafond ou en mur ; courant au Sénégal sous les toitures.",
+  "requetes": [
+   "PVC ceiling panels",
+   "lambris PVC plafond",
+   "plastic ceiling planks"
+  ]
+ },
+ {
+  "id": "faux-plafond-a-lames-metalliques",
+  "terme": "le faux plafond à lames métalliques",
+  "definition": "Faux plafond fait de lames d'aluminium étroites et parallèles clipsées sur des porteurs.",
+  "requetes": [
+   "metal linear strip ceiling",
+   "faux plafond lames aluminium",
+   "aluminium baffle linear ceiling"
+  ]
+ },
+ {
+  "id": "plafond-tendu",
+  "terme": "le plafond tendu",
+  "definition": "Toile de PVC ou de textile tendue sur un cadre fixé en périphérie, formant un plafond parfaitement lisse.",
+  "requetes": [
+   "stretch ceiling",
+   "plafond tendu",
+   "stretch ceiling glossy"
+  ]
+ },
+ {
+  "id": "baffle-acoustique",
+  "terme": "le baffle acoustique",
+  "definition": "Panneau absorbant suspendu verticalement sous un plafond pour réduire la réverbération.",
+  "requetes": [
+   "acoustic baffles ceiling",
+   "baffles acoustiques suspendus",
+   "hanging acoustic baffles"
+  ]
+ },
+ {
+  "id": "panneau-acoustique",
+  "terme": "le panneau acoustique",
+  "definition": "Panneau absorbant en mousse, fibres ou bois rainuré, fixé au mur ou au plafond pour corriger l'acoustique.",
+  "requetes": [
+   "acoustic wall panels",
+   "panneau acoustique mural",
+   "acoustic panels room"
+  ]
+ },
+ {
+  "id": "carrelage",
+  "terme": "le carrelage",
+  "definition": "Revêtement de sol ou de mur fait de carreaux de céramique ou de pierre collés et séparés par des joints.",
+  "requetes": [
+   "tiled floor",
+   "carrelage sol",
+   "incategory:\"Tiled floors\""
+  ]
+ },
+ {
+  "id": "carreau-de-gres-cerame",
+  "terme": "le carreau de grès cérame",
+  "definition": "Carreau très dur et peu poreux en argile cuite à haute température, le plus posé aujourd'hui au sol.",
+  "requetes": [
+   "porcelain tile floor",
+   "carreau grès cérame",
+   "porcelain stoneware tiles"
+  ]
+ },
+ {
+  "id": "gres-cerame-poli",
+  "terme": "le grès cérame poli",
+  "definition": "Carreau de grès cérame à surface polie et brillante qui reflète la lumière, souvent appelé carreau poli à Dakar.",
+  "requetes": [
+   "polished porcelain tile floor glossy",
+   "carrelage poli brillant",
+   "polished porcelain floor tiles"
+  ]
+ },
+ {
+  "id": "carreau-grand-format",
+  "terme": "le carreau grand format",
+  "definition": "Carreau de grande dimension, à partir de 60 × 120 cm, posé avec très peu de joints visibles.",
+  "requetes": [
+   "large format tiles floor",
+   "carrelage grand format",
+   "large porcelain slabs floor"
+  ]
+ },
+ {
+  "id": "carreau-imitation-bois",
+  "terme": "le carreau imitation bois",
+  "definition": "Carreau de grès cérame en forme de lame qui reproduit le veinage du bois.",
+  "requetes": [
+   "wood look porcelain tile",
+   "carrelage imitation parquet",
+   "wood effect tiles floor"
+  ]
+ },
+ {
+  "id": "carreau-hexagonal",
+  "terme": "le carreau hexagonal",
+  "definition": "Carreau de sol ou de mur à six côtés, posé en nid d'abeilles.",
+  "requetes": [
+   "hexagonal floor tiles",
+   "carreau hexagonal",
+   "hexagon tile floor"
+  ]
+ },
+ {
+  "id": "tomette",
+  "terme": "la tomette",
+  "definition": "Petit carreau de terre cuite rouge, souvent hexagonal, des sols anciens.",
+  "requetes": [
+   "terracotta hexagonal floor tiles tomette",
+   "tomettes",
+   "terracotta tile floor old"
+  ]
+ },
+ {
+  "id": "joint-de-carrelage",
+  "terme": "le joint de carrelage",
+  "definition": "Mince bande de mortier coloré qui remplit l'espace entre deux carreaux.",
+  "requetes": [
+   "tile grout lines",
+   "joint de carrelage",
+   "grouting tiles"
+  ]
+ },
+ {
+  "id": "croisillon",
+  "terme": "le croisillon",
+  "definition": "Petite croix en plastique placée entre les carreaux pendant la pose pour garder des joints réguliers.",
+  "requetes": [
+   "tile spacers crosses",
+   "croisillons carrelage",
+   "tile spacers"
+  ]
+ },
+ {
+  "id": "cale-autonivelante",
+  "terme": "la cale autonivelante",
+  "definition": "Système de languettes et de coins en plastique qui maintient les carreaux voisins au même niveau pendant la prise.",
+  "requetes": [
+   "tile leveling system clips wedges",
+   "cales autonivelantes carrelage",
+   "tile levelling clips"
+  ]
+ },
+ {
+  "id": "colle-a-carrelage",
+  "terme": "la colle à carrelage",
+  "definition": "Mortier-colle en poudre, vendu en sacs, étalé au peigne cranté pour coller les carreaux.",
+  "requetes": [
+   "tile adhesive notched trowel",
+   "mortier colle carrelage",
+   "thinset mortar tiles"
+  ]
+ },
+ {
+  "id": "plinthe",
+  "terme": "la plinthe",
+  "definition": "Bande de carrelage, de bois ou de PVC posée au bas d'un mur, contre le sol, pour le protéger.",
+  "requetes": [
+   "baseboard skirting",
+   "plinthe carrelage",
+   "incategory:\"Baseboards\""
+  ]
+ },
+ {
+  "id": "barre-de-seuil",
+  "terme": "la barre de seuil",
+  "definition": "Profilé métallique mince vissé ou collé au sol sous une porte, qui couvre la jonction entre deux revêtements de sol différents.",
+  "requetes": [
+   "door threshold strip floor transition",
+   "barre de seuil",
+   "marble threshold door"
+  ]
+ },
+ {
+  "id": "baguette-d-angle",
+  "terme": "la baguette d'angle",
+  "definition": "Profilé métallique ou PVC posé sur les angles et les bords du carrelage pour les protéger et les finir.",
+  "requetes": [
+   "tile edge trim",
+   "profilé d'angle carrelage",
+   "tile corner trim metal"
+  ]
+ },
+ {
+  "id": "granito",
+  "terme": "le granito",
+  "definition": "Sol coulé ou en carreaux fait d'éclats de marbre noyés dans un ciment puis poncé, appelé aussi terrazzo ; fréquent dans les anciens immeubles de Dakar.",
+  "requetes": [
+   "terrazzo floor",
+   "sol granito",
+   "incategory:\"Terrazzo\""
+  ]
+ },
+ {
+  "id": "sol-en-marbre",
+  "terme": "le sol en marbre",
+  "definition": "Sol fait de dalles de marbre polies aux veines visibles.",
+  "requetes": [
+   "marble floor",
+   "sol en marbre",
+   "polished marble floor interior"
+  ]
+ },
+ {
+  "id": "beton-cire",
+  "terme": "le béton ciré",
+  "definition": "Enduit décoratif à base de ciment appliqué en couche mince sur sol ou mur, lissé et protégé, à aspect nuancé et continu.",
+  "requetes": [
+   "polished concrete microcement floor",
+   "béton ciré sol",
+   "microcement bathroom"
+  ]
+ },
+ {
+  "id": "beton-poli",
+  "terme": "le béton poli",
+  "definition": "Dalle de béton poncée jusqu'à devenir lisse et brillante, laissée comme sol fini.",
+  "requetes": [
+   "polished concrete floor",
+   "béton poli sol",
+   "ground polished concrete floor"
+  ]
+ },
+ {
+  "id": "sol-en-resine",
+  "terme": "le sol en résine",
+  "definition": "Revêtement de sol coulé, lisse et sans joint, en résine époxy ou polyuréthane, souvent dans les ateliers et parkings.",
+  "requetes": [
+   "epoxy floor coating",
+   "sol résine époxy",
+   "epoxy resin floor"
+  ]
+ },
+ {
+  "id": "ragreage",
+  "terme": "le ragréage",
+  "definition": "Mortier fluide autolissant coulé en couche mince pour rendre une dalle parfaitement plane avant pose du revêtement.",
+  "requetes": [
+   "self leveling compound floor",
+   "ragréage sol",
+   "self-levelling screed pouring"
+  ]
+ },
+ {
+  "id": "parquet",
+  "terme": "le parquet",
+  "definition": "Revêtement de sol en lames de bois assemblées.",
+  "requetes": [
+   "wooden parquet floor",
+   "parquet bois",
+   "incategory:\"Parquet\""
+  ]
+ },
+ {
+  "id": "parquet-a-batons-rompus",
+  "terme": "le parquet à bâtons rompus",
+  "definition": "Parquet dont les lames rectangulaires se rencontrent à angle droit en zigzag.",
+  "requetes": [
+   "herringbone parquet",
+   "parquet bâtons rompus",
+   "herringbone wood floor"
+  ]
+ },
+ {
+  "id": "parquet-point-de-hongrie",
+  "terme": "le parquet en point de Hongrie",
+  "definition": "Parquet dont les lames, coupées en biais, forment des chevrons alignés en pointe.",
+  "requetes": [
+   "chevron parquet",
+   "parquet point de Hongrie",
+   "chevron wood floor"
+  ]
+ },
+ {
+  "id": "sol-stratifie",
+  "terme": "le sol stratifié",
+  "definition": "Lames clipsables en panneau de fibres revêtu d'un décor imprimé, souvent imitation bois, posées flottantes.",
+  "requetes": [
+   "laminate flooring",
+   "parquet stratifié",
+   "laminate floor installation"
+  ]
+ },
+ {
+  "id": "sous-couche-acoustique",
+  "terme": "la sous-couche acoustique",
+  "definition": "Feuille de mousse ou de liège déroulée sous un parquet flottant ou un stratifié.",
+  "requetes": [
+   "laminate underlayment foam",
+   "sous-couche parquet",
+   "flooring underlay"
+  ]
+ },
+ {
+  "id": "sol-pvc",
+  "terme": "le sol PVC",
+  "definition": "Revêtement de sol souple en plastique, en rouleaux, dalles ou lames, appelé aussi sol vinyle.",
+  "requetes": [
+   "vinyl flooring",
+   "sol PVC",
+   "vinyl floor roll"
+  ]
+ },
+ {
+  "id": "linoleum",
+  "terme": "le linoléum",
+  "definition": "Revêtement de sol souple en rouleau fait d'huile de lin, de résine et de liège sur toile de jute.",
+  "requetes": [
+   "linoleum floor",
+   "linoléum sol",
+   "incategory:\"Linoleum\""
+  ]
+ },
+ {
+  "id": "moquette",
+  "terme": "la moquette",
+  "definition": "Revêtement de sol textile fixé d'un mur à l'autre.",
+  "requetes": [
+   "wall to wall carpet",
+   "moquette",
+   "carpeted office floor"
+  ]
+ },
+ {
+  "id": "dalle-de-moquette",
+  "terme": "la dalle de moquette",
+  "definition": "Carré de moquette, souvent de 50 × 50 cm, posé à joints serrés dans les bureaux.",
+  "requetes": [
+   "carpet tiles office",
+   "dalles de moquette",
+   "modular carpet tiles"
+  ]
+ },
+ {
+  "id": "sol-en-caoutchouc",
+  "terme": "le sol en caoutchouc",
+  "definition": "Revêtement souple et épais en caoutchouc, souvent à pastilles en relief, posé dans les lieux à fort passage ou les salles de sport.",
+  "requetes": [
+   "rubber flooring studded",
+   "sol caoutchouc",
+   "rubber floor tiles gym"
+  ]
+ },
+ {
+  "id": "liege",
+  "terme": "le liège",
+  "definition": "Revêtement de sol ou de mur en plaques d'écorce de chêne-liège agglomérée, brunes et granuleuses.",
+  "requetes": [
+   "cork flooring",
+   "revêtement liège",
+   "cork wall tiles"
+  ]
+ },
+ {
+  "id": "plancher-technique",
+  "terme": "le plancher technique",
+  "definition": "Plancher fait de dalles amovibles posées sur des vérins, qui laisse passer les câbles dessous ; courant dans les salles informatiques.",
+  "requetes": [
+   "raised access floor",
+   "plancher technique",
+   "raised floor data center"
+  ]
+ },
+ {
+  "id": "tapis-de-proprete",
+  "terme": "le tapis de propreté",
+  "definition": "Tapis grattant encastré au sol à l'entrée d'un bâtiment pour retenir poussière et sable.",
+  "requetes": [
+   "recessed entrance mat",
+   "tapis de propreté encastré",
+   "entrance matting building"
+  ]
+ },
+ {
+  "id": "faience",
+  "terme": "la faïence",
+  "definition": "Carreaux de céramique émaillée collés sur les murs de cuisines et salles de bains.",
+  "requetes": [
+   "bathroom wall tiles",
+   "faïence salle de bain",
+   "ceramic wall tiles"
+  ]
+ },
+ {
+  "id": "listel",
+  "terme": "le listel",
+  "definition": "Étroite bande décorative de carreaux insérée dans une faïence murale.",
+  "requetes": [
+   "tile border strip bathroom",
+   "listel faïence",
+   "decorative tile border"
+  ]
+ },
+ {
+  "id": "credence",
+  "terme": "la crédence",
+  "definition": "Revêtement mural protecteur posé au-dessus du plan de travail d'une cuisine.",
+  "requetes": [
+   "kitchen backsplash",
+   "crédence cuisine",
+   "kitchen tile backsplash"
+  ]
+ },
+ {
+  "id": "carreau-metro",
+  "terme": "le carreau métro",
+  "definition": "Faïence rectangulaire blanche biseautée, posée à joints décalés, inspirée du métro parisien.",
+  "requetes": [
+   "subway tiles white bevelled",
+   "carrelage métro",
+   "subway tile wall"
+  ]
+ },
+ {
+  "id": "mosaique-de-pate-de-verre",
+  "terme": "la mosaïque de pâte de verre",
+  "definition": "Petits carreaux de verre coloré collés sur trame, posés dans les douches et les piscines.",
+  "requetes": [
+   "glass mosaic tiles",
+   "mosaïque pâte de verre",
+   "glass mosaic bathroom"
+  ]
+ },
+ {
+  "id": "etancheite-liquide",
+  "terme": "l'étanchéité liquide",
+  "definition": "Résine appliquée au rouleau sur les sols et murs de douche avant carrelage, formant une couche continue souvent grise ou bleue.",
+  "requetes": [
+   "liquid waterproofing membrane shower",
+   "étanchéité sous carrelage",
+   "shower waterproofing membrane"
+  ]
+ },
+ {
+  "id": "natte-d-etancheite",
+  "terme": "la natte d'étanchéité",
+  "definition": "Membrane souple en plastique, souvent orange, collée sous le carrelage des pièces humides.",
+  "requetes": [
+   "waterproofing membrane under tile orange",
+   "natte d'étanchéité",
+   "uncoupling membrane tile"
+  ]
+ },
+ {
+  "id": "joint-silicone",
+  "terme": "le joint silicone",
+  "definition": "Cordon de mastic souple et étanche posé autour des sanitaires, des plans de travail et dans les angles.",
+  "requetes": [
+   "silicone sealant bathtub",
+   "joint silicone",
+   "caulking bathroom silicone"
+  ]
+ },
+ {
+  "id": "fond-de-joint",
+  "terme": "le fond de joint",
+  "definition": "Cordon de mousse enfoncé dans un joint large avant le mastic pour en régler la profondeur.",
+  "requetes": [
+   "backer rod joint",
+   "fond de joint mousse",
+   "backer rod sealant"
+  ]
+ },
+ {
+  "id": "couvre-joint",
+  "terme": "le couvre-joint",
+  "definition": "Profilé métallique ou plastique qui recouvre un joint entre deux revêtements ou deux parties d'ouvrage.",
+  "requetes": [
+   "expansion joint cover profile floor",
+   "couvre-joint",
+   "floor expansion joint cover"
+  ]
+ },
+ {
+  "id": "peinture",
+  "terme": "la peinture",
+  "definition": "Couche colorée appliquée au rouleau ou au pinceau sur un mur ou un plafond.",
+  "requetes": [
+   "painting interior wall roller",
+   "peinture mur intérieur",
+   "incategory:\"Painted walls\""
+  ]
+ },
+ {
+  "id": "papier-peint",
+  "terme": "le papier peint",
+  "definition": "Revêtement mural en rouleaux de papier ou de vinyle imprimé, collé au mur.",
+  "requetes": [
+   "wallpaper wall",
+   "papier peint",
+   "incategory:\"Wallpapers\""
+  ]
+ },
+ {
+  "id": "toile-de-verre",
+  "terme": "la toile de verre",
+  "definition": "Revêtement mural en tissu de fibres de verre à relief léger, collé puis peint.",
+  "requetes": [
+   "fiberglass wallcovering",
+   "toile de verre",
+   "glass fibre wall covering"
+  ]
+ },
+ {
+  "id": "tadelakt",
+  "terme": "le tadelakt",
+  "definition": "Enduit marocain à la chaux, lissé et poli au galet, étanche et brillant, posé en salles d'eau.",
+  "requetes": [
+   "tadelakt",
+   "tadelakt salle de bain",
+   "tadelakt plaster"
+  ]
+ },
+ {
+  "id": "stuc-venitien",
+  "terme": "le stuc vénitien",
+  "definition": "Enduit décoratif à la chaux et poudre de marbre, lissé en couches fines, à reflet marbré et brillant.",
+  "requetes": [
+   "venetian plaster wall",
+   "stuc vénitien",
+   "polished venetian plaster"
+  ]
+ },
+ {
+  "id": "lambris",
+  "terme": "le lambris",
+  "definition": "Revêtement de mur ou de plafond fait de lames de bois emboîtées.",
+  "requetes": [
+   "wood paneling wall",
+   "lambris bois",
+   "tongue and groove wood ceiling"
+  ]
+ },
+ {
+  "id": "boiserie",
+  "terme": "la boiserie",
+  "definition": "Habillage mural en panneaux de bois moulurés, typique des intérieurs anciens.",
+  "requetes": [
+   "wood panelled room",
+   "boiseries",
+   "incategory:\"Boiseries\""
+  ]
+ },
+ {
+  "id": "cimaise",
+  "terme": "la cimaise",
+  "definition": "Moulure horizontale fixée à mi-hauteur d'un mur, qui protège la paroi ou sert à accrocher des tableaux.",
+  "requetes": [
+   "chair rail molding wall",
+   "cimaise murale",
+   "picture rail molding"
+  ]
+ },
+ {
+  "id": "placard",
+  "terme": "le placard",
+  "definition": "Rangement intégré dans l'épaisseur d'un mur ou entre deux cloisons, fermé par des portes.",
+  "requetes": [
+   "built-in closet",
+   "placard intégré",
+   "built-in wardrobe sliding doors"
+  ]
+ },
+ {
+  "id": "dressing",
+  "terme": "le dressing",
+  "definition": "Pièce ou grand placard aménagé de penderies, étagères et tiroirs pour ranger les vêtements.",
+  "requetes": [
+   "walk-in closet",
+   "dressing aménagé",
+   "walk in wardrobe"
+  ]
+ },
+ {
+  "id": "plan-de-travail",
+  "terme": "le plan de travail",
+  "definition": "Tablette horizontale de cuisine en granit, bois, stratifié ou carrelage, posée sur les meubles bas.",
+  "requetes": [
+   "kitchen countertop granite",
+   "plan de travail cuisine",
+   "kitchen worktop"
+  ]
+ },
+ {
+  "id": "mousse-expansive",
+  "terme": "la mousse expansive",
+  "definition": "Mousse polyuréthane jaune projetée à la bombe, qui gonfle pour combler les vides autour des menuiseries et des traversées de gaines.",
+  "requetes": [
+   "expanding foam window frame gap",
+   "mousse expansive",
+   "spray foam sealant window"
+  ]
+ },
+ {
+  "id": "enduit-de-lissage",
+  "terme": "l'enduit de lissage",
+  "definition": "Enduit fin, blanc, étalé au couteau en couches minces sur un mur ou des plaques de plâtre pour obtenir une surface lisse avant peinture.",
+  "requetes": [
+   "skim coat wall drywall",
+   "enduit de lissage mur",
+   "skim coating plaster wall"
+  ]
+ }
+]

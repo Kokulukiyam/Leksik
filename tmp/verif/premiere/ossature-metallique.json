@@ -1,0 +1,58 @@
+{
+  "termId": "ossature-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sommet d'un gratte-ciel en construction avec ossature acier rouge-brun et grue verte, vu en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature réelle mais cadrage penché, éclairage sombre ; moins clair que les autres."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvrier sur ossature en profilés légers (montants galvanisés) devant façade béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature légère de cloison, pas la structure porteuse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue aérienne d'une ossature de bâtiment en acier galvanisé sur chantier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Lieu inconnu",
+      "note": "Ossature d'acier complète, claire et dominante."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier mesurant un cadre de montants métalliques avec plaques GlasRoc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature légère de façade, pas porteuse."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ossature d'acier de trois niveaux (poteaux, poutres, contreventements) sur chantier, Ann Arbor.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.16,
+        "largeur": 0.75,
+        "hauteur": 0.67
+      },
+      "lieu": "Ann Arbor Township, Michigan, États-Unis",
+      "note": "Poteaux, poutres et diagonales apparents, bien lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne en noir et blanc du squelette d'acier du LC Smith Building.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et ancien ; moins lisible."
+    }
+  ]
+}

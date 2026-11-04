@@ -1,0 +1,2091 @@
+[
+ {
+  "id": "persienne",
+  "terme": "la persienne",
+  "definition": "Volet extérieur à lames inclinées qui laisse passer l'air tout en arrêtant le soleil.",
+  "requetes": [
+   "incategory:\"Louvered shutters\"",
+   "persiennes"
+  ]
+ },
+ {
+  "id": "porte",
+  "terme": "la porte",
+  "definition": "Ouvrage mobile, en bois, métal ou verre, qui ferme une baie de passage dans un mur ou une cloison.",
+  "requetes": [
+   "porte intérieure bois fermée",
+   "wooden door closed",
+   "door"
+  ]
+ },
+ {
+  "id": "porte-d-entree",
+  "terme": "la porte d'entrée",
+  "definition": "Porte principale qui donne accès depuis l'extérieur à une maison ou à un logement, souvent plus robuste et décorée.",
+  "requetes": [
+   "porte d'entrée maison",
+   "house front door",
+   "front door entrance"
+  ]
+ },
+ {
+  "id": "porte-isoplane",
+  "terme": "la porte isoplane",
+  "definition": "Porte intérieure lisse et légère, faite de deux parements minces collés sur un cadre en bois garni d'une âme alvéolaire.",
+  "requetes": [
+   "flush door interior",
+   "porte isoplane",
+   "plain flush door"
+  ]
+ },
+ {
+  "id": "porte-a-panneaux",
+  "terme": "la porte à panneaux",
+  "definition": "Porte dont le cadre en bois assemblé encadre plusieurs panneaux en creux ou en relief.",
+  "requetes": [
+   "panelled door wood",
+   "porte à panneaux bois",
+   "raised panel door"
+  ]
+ },
+ {
+  "id": "porte-vitree",
+  "terme": "la porte vitrée",
+  "definition": "Porte dont une grande partie du vantail est occupée par un vitrage.",
+  "requetes": [
+   "glazed door",
+   "porte vitrée",
+   "glass panel door"
+  ]
+ },
+ {
+  "id": "porte-fenetre",
+  "terme": "la porte-fenêtre",
+  "definition": "Fenêtre descendant jusqu'au sol qui sert aussi de porte vers un balcon, une terrasse ou un jardin.",
+  "requetes": [
+   "French window balcony",
+   "porte-fenêtre",
+   "french doors garden"
+  ]
+ },
+ {
+  "id": "porte-a-deux-vantaux",
+  "terme": "la porte à deux vantaux",
+  "definition": "Porte formée de deux battants qui s'ouvrent depuis le milieu de la baie.",
+  "requetes": [
+   "double door wooden",
+   "porte double vantaux",
+   "double leaf door"
+  ]
+ },
+ {
+  "id": "porte-coulissante",
+  "terme": "la porte coulissante",
+  "definition": "Porte dont le vantail glisse latéralement sur un rail, parallèlement au mur.",
+  "requetes": [
+   "sliding door interior rail",
+   "porte coulissante",
+   "sliding door"
+  ]
+ },
+ {
+  "id": "porte-a-galandage",
+  "terme": "la porte à galandage",
+  "definition": "Porte coulissante qui s'efface entièrement dans l'épaisseur de la cloison.",
+  "requetes": [
+   "pocket door",
+   "porte à galandage",
+   "pocket sliding door"
+  ]
+ },
+ {
+  "id": "porte-accordeon",
+  "terme": "la porte accordéon",
+  "definition": "Porte faite de panneaux étroits articulés qui se replient les uns sur les autres en s'ouvrant.",
+  "requetes": [
+   "folding door accordion",
+   "porte accordéon",
+   "bifold door"
+  ]
+ },
+ {
+  "id": "porte-a-tambour",
+  "terme": "la porte à tambour",
+  "definition": "Porte d'entrée formée de vantaux vitrés qui tournent autour d'un axe central dans un cylindre.",
+  "requetes": [
+   "incategory:\"Revolving doors\"",
+   "porte à tambour",
+   "revolving door"
+  ]
+ },
+ {
+  "id": "porte-automatique",
+  "terme": "la porte automatique",
+  "definition": "Porte vitrée, le plus souvent coulissante, qui s'ouvre seule à l'approche d'une personne grâce à un détecteur.",
+  "requetes": [
+   "automatic sliding door shop entrance",
+   "porte automatique",
+   "automatic door"
+  ]
+ },
+ {
+  "id": "porte-metallique",
+  "terme": "la porte métallique",
+  "definition": "Porte en tôle d'acier sur cadre en tubes ou profilés, très utilisée pour les entrées et locaux techniques.",
+  "requetes": [
+   "steel door metal",
+   "porte métallique tôle",
+   "metal door"
+  ]
+ },
+ {
+  "id": "porte-coupe-feu",
+  "terme": "la porte coupe-feu",
+  "definition": "Porte qui résiste au feu pendant une durée donnée, munie d'un ferme-porte et souvent d'une plaque signalétique.",
+  "requetes": [
+   "fire door sign",
+   "porte coupe-feu",
+   "fire door"
+  ]
+ },
+ {
+  "id": "porte-persiennee",
+  "terme": "la porte persiennée",
+  "definition": "Porte dont le vantail est garni de lames inclinées qui laissent passer l'air, courante sur les placards et locaux techniques.",
+  "requetes": [
+   "louvered door",
+   "porte persiennée",
+   "louvre door"
+  ]
+ },
+ {
+  "id": "porte-de-placard",
+  "terme": "la porte de placard",
+  "definition": "Porte battante ou coulissante qui ferme un placard ou un dressing.",
+  "requetes": [
+   "closet door sliding wardrobe",
+   "porte de placard",
+   "closet doors"
+  ]
+ },
+ {
+  "id": "porte-cochere",
+  "terme": "la porte cochère",
+  "definition": "Grande porte à deux vantaux, assez haute et large pour laisser passer une voiture vers une cour.",
+  "requetes": [
+   "porte cochère",
+   "carriage entrance door",
+   "carriage door courtyard"
+  ]
+ },
+ {
+  "id": "porte-basculante",
+  "terme": "la porte basculante",
+  "definition": "Porte de garage d'un seul panneau qui pivote vers le haut pour se loger sous le plafond.",
+  "requetes": [
+   "up and over garage door",
+   "porte de garage basculante",
+   "garage door"
+  ]
+ },
+ {
+  "id": "porte-sectionnelle",
+  "terme": "la porte sectionnelle",
+  "definition": "Porte de garage ou de hangar faite de panneaux horizontaux articulés qui remontent sur des rails au plafond.",
+  "requetes": [
+   "sectional garage door",
+   "porte sectionnelle",
+   "industrial sectional door"
+  ]
+ },
+ {
+  "id": "rideau-metallique",
+  "terme": "le rideau métallique",
+  "definition": "Fermeture de devanture faite de lames d'acier qui s'enroulent dans un coffre au-dessus de l'ouverture.",
+  "requetes": [
+   "roller shutter shop closed",
+   "rideau métallique magasin",
+   "shop shutter"
+  ]
+ },
+ {
+  "id": "fenetre",
+  "terme": "la fenêtre",
+  "definition": "Ouvrage vitré, fixe ou ouvrant, qui ferme une baie pour donner du jour et de l'air.",
+  "requetes": [
+   "window frame glass",
+   "fenêtre",
+   "window"
+  ]
+ },
+ {
+  "id": "fenetre-a-la-francaise",
+  "terme": "la fenêtre à la française",
+  "definition": "Fenêtre dont les vantaux pivotent sur un côté vertical et s'ouvrent vers l'intérieur.",
+  "requetes": [
+   "casement window open inward",
+   "fenêtre à la française ouverte",
+   "casement window"
+  ]
+ },
+ {
+  "id": "fenetre-a-soufflet",
+  "terme": "la fenêtre à soufflet",
+  "definition": "Fenêtre dont le vantail pivote autour de son côté bas et s'ouvre vers l'intérieur par le haut.",
+  "requetes": [
+   "hopper window open",
+   "fenêtre à soufflet",
+   "bottom hung window open"
+  ]
+ },
+ {
+  "id": "fenetre-oscillo-battante",
+  "terme": "la fenêtre oscillo-battante",
+  "definition": "Fenêtre qui s'ouvre soit à la française, soit en soufflet selon la position de la poignée.",
+  "requetes": [
+   "tilt and turn window",
+   "fenêtre oscillo-battante",
+   "tilt turn window open"
+  ]
+ },
+ {
+  "id": "fenetre-coulissante",
+  "terme": "la fenêtre coulissante",
+  "definition": "Fenêtre dont les vantaux glissent horizontalement l'un devant l'autre sur des rails, très courante en aluminium.",
+  "requetes": [
+   "sliding window aluminium",
+   "fenêtre coulissante aluminium",
+   "sliding window"
+  ]
+ },
+ {
+  "id": "fenetre-a-guillotine",
+  "terme": "la fenêtre à guillotine",
+  "definition": "Fenêtre dont les châssis glissent verticalement l'un devant l'autre.",
+  "requetes": [
+   "incategory:\"Sash windows\"",
+   "fenêtre à guillotine",
+   "sash window"
+  ]
+ },
+ {
+  "id": "fenetre-pivotante",
+  "terme": "la fenêtre pivotante",
+  "definition": "Fenêtre dont le vantail tourne autour d'un axe central, horizontal ou vertical.",
+  "requetes": [
+   "pivot window open",
+   "fenêtre pivotante",
+   "centre pivot window"
+  ]
+ },
+ {
+  "id": "fenetre-a-l-italienne",
+  "terme": "la fenêtre à l'italienne",
+  "definition": "Fenêtre dont le vantail s'ouvre vers l'extérieur en basculant par le bas, articulé en partie haute.",
+  "requetes": [
+   "awning window open",
+   "fenêtre à l'italienne",
+   "top hung window open outward"
+  ]
+ },
+ {
+  "id": "chassis-fixe",
+  "terme": "le châssis fixe",
+  "definition": "Partie vitrée d'une menuiserie qui ne s'ouvre pas.",
+  "requetes": [
+   "fixed window glazing",
+   "châssis fixe vitré",
+   "fixed pane window"
+  ]
+ },
+ {
+  "id": "naco",
+  "terme": "le naco",
+  "definition": "Fenêtre faite de lames horizontales parallèles, en verre ou en aluminium, qui pivotent ensemble grâce à un levier latéral ; appelée naco en Afrique de l'Ouest et fenêtre à jalousies en France.",
+  "requetes": [
+   "louvre window glass",
+   "jalousie window glass louvres",
+   "naco fenêtre"
+  ]
+ },
+ {
+  "id": "menuiserie-aluminium",
+  "terme": "la menuiserie aluminium",
+  "definition": "Porte ou fenêtre dont le cadre et les vantaux sont faits de profilés en aluminium, souvent coulissants.",
+  "requetes": [
+   "aluminium window frame",
+   "menuiserie aluminium",
+   "aluminum windows"
+  ]
+ },
+ {
+  "id": "menuiserie-pvc",
+  "terme": "la menuiserie PVC",
+  "definition": "Porte ou fenêtre dont le cadre est fait de profilés en PVC, généralement blancs.",
+  "requetes": [
+   "PVC window white",
+   "fenêtre PVC",
+   "uPVC window"
+  ]
+ },
+ {
+  "id": "volet",
+  "terme": "le volet",
+  "definition": "Panneau mobile placé devant une fenêtre pour la protéger, l'occulter ou la sécuriser.",
+  "requetes": [
+   "window shutters",
+   "volets fenêtre",
+   "shutters"
+  ]
+ },
+ {
+  "id": "volet-battant",
+  "terme": "le volet battant",
+  "definition": "Volet à un ou deux vantaux qui pivotent sur des gonds fixés au mur ou au tableau.",
+  "requetes": [
+   "hinged shutters open",
+   "volets battants",
+   "wooden shutters"
+  ]
+ },
+ {
+  "id": "volet-roulant",
+  "terme": "le volet roulant",
+  "definition": "Volet fait de lames horizontales articulées qui s'enroulent dans un coffre au-dessus de la fenêtre.",
+  "requetes": [
+   "roller shutter window",
+   "volet roulant",
+   "rolling shutter"
+  ]
+ },
+ {
+  "id": "coffre-de-volet-roulant",
+  "terme": "le coffre de volet roulant",
+  "definition": "Caisson placé en haut de la baie, dans lequel s'enroule le tablier d'un volet roulant.",
+  "requetes": [
+   "roller shutter box",
+   "coffre volet roulant",
+   "shutter box window"
+  ]
+ },
+ {
+  "id": "volet-coulissant",
+  "terme": "le volet coulissant",
+  "definition": "Volet qui glisse sur un rail le long de la façade au lieu de pivoter.",
+  "requetes": [
+   "sliding shutters facade",
+   "volet coulissant",
+   "sliding shutter"
+  ]
+ },
+ {
+  "id": "volet-pliant",
+  "terme": "le volet pliant",
+  "definition": "Volet en plusieurs feuilles articulées qui se replient dans l'épaisseur du tableau de la baie.",
+  "requetes": [
+   "folding shutters",
+   "volets pliants",
+   "bifold shutters window"
+  ]
+ },
+ {
+  "id": "volet-a-barres-et-echarpe",
+  "terme": "le volet à barres et écharpe",
+  "definition": "Volet en planches verticales tenues par deux barres horizontales et une barre oblique formant un Z.",
+  "requetes": [
+   "volet bois barres écharpe",
+   "Z brace shutter",
+   "wooden shutter Z"
+  ]
+ },
+ {
+  "id": "arret-de-volet",
+  "terme": "l'arrêt de volet",
+  "definition": "Pièce métallique fixée au mur qui maintient un volet battant ouvert contre la façade.",
+  "requetes": [
+   "shutter dog",
+   "arrêt de volet",
+   "tête de bergère volet"
+  ]
+ },
+ {
+  "id": "espagnolette",
+  "terme": "l'espagnolette",
+  "definition": "Tige métallique verticale manœuvrée par une poignée, dont les crochets aux extrémités ferment une fenêtre ou des volets.",
+  "requetes": [
+   "espagnolette",
+   "espagnolette bolt window",
+   "espagnolette fenêtre ancienne"
+  ]
+ },
+ {
+  "id": "cremone",
+  "terme": "la crémone",
+  "definition": "Ferrure de fermeture de fenêtre dont la poignée fait coulisser deux tringles qui s'engagent en haut et en bas du dormant.",
+  "requetes": [
+   "crémone fenêtre",
+   "cremone bolt",
+   "window cremone bolt handle"
+  ]
+ },
+ {
+  "id": "portail-metallique",
+  "terme": "le portail métallique",
+  "definition": "Grande porte extérieure en acier, pleine ou ajourée, qui ferme l'entrée d'une parcelle.",
+  "requetes": [
+   "metal gate house",
+   "portail métallique",
+   "steel gate"
+  ]
+ },
+ {
+  "id": "portail-coulissant",
+  "terme": "le portail coulissant",
+  "definition": "Portail d'un seul vantail qui glisse latéralement le long de la clôture, sur un rail au sol.",
+  "requetes": [
+   "sliding gate",
+   "portail coulissant",
+   "sliding gate rail"
+  ]
+ },
+ {
+  "id": "portail-battant",
+  "terme": "le portail battant",
+  "definition": "Portail à un ou deux vantaux qui pivotent sur des gonds fixés aux piliers.",
+  "requetes": [
+   "swing gate double",
+   "portail battant deux vantaux",
+   "metal swing gate"
+  ]
+ },
+ {
+  "id": "portillon",
+  "terme": "le portillon",
+  "definition": "Petite porte de clôture réservée aux piétons, souvent à côté du portail.",
+  "requetes": [
+   "garden gate small",
+   "portillon",
+   "pedestrian gate"
+  ]
+ },
+ {
+  "id": "rail-de-portail",
+  "terme": "le rail de portail",
+  "definition": "Profilé scellé au sol sur lequel roulent les roues d'un portail coulissant.",
+  "requetes": [
+   "sliding gate track ground",
+   "rail portail coulissant",
+   "gate rail wheel"
+  ]
+ },
+ {
+  "id": "grille-de-defense",
+  "terme": "la grille de défense",
+  "definition": "Grille en barreaux ou en fer forgé fixée devant une fenêtre pour empêcher l'effraction.",
+  "requetes": [
+   "window security bars",
+   "grille de défense fenêtre",
+   "window grille iron"
+  ]
+ },
+ {
+  "id": "barreaudage",
+  "terme": "le barreaudage",
+  "definition": "Ensemble de barreaux métalliques parallèles qui ferment une ouverture ou forment une grille.",
+  "requetes": [
+   "iron bars window",
+   "barreaudage",
+   "metal bars"
+  ]
+ },
+ {
+  "id": "grille-extensible",
+  "terme": "la grille extensible",
+  "definition": "Grille métallique articulée en croisillons qui se replie en accordéon sur le côté d'une porte ou d'une vitrine.",
+  "requetes": [
+   "collapsible gate",
+   "grille extensible",
+   "scissor gate shop"
+  ]
+ },
+ {
+  "id": "moustiquaire",
+  "terme": "la moustiquaire",
+  "definition": "Toile à mailles fines tendue sur un cadre devant une fenêtre ou une porte pour arrêter les moustiques.",
+  "requetes": [
+   "insect screen window",
+   "moustiquaire fenêtre",
+   "window screen mesh"
+  ]
+ },
+ {
+  "id": "dormant",
+  "terme": "le dormant",
+  "definition": "Cadre fixe d'une porte ou d'une fenêtre, scellé ou fixé dans la maçonnerie, qui reçoit les parties ouvrantes.",
+  "requetes": [
+   "window frame installation",
+   "dormant fenêtre",
+   "window frame outer"
+  ]
+ },
+ {
+  "id": "ouvrant",
+  "terme": "l'ouvrant",
+  "definition": "Partie mobile d'une fenêtre, qui porte le vitrage et s'ouvre par rapport au dormant.",
+  "requetes": [
+   "open window sash",
+   "ouvrant fenêtre",
+   "casement sash open"
+  ]
+ },
+ {
+  "id": "vantail",
+  "terme": "le vantail",
+  "definition": "Battant d'une porte, d'une fenêtre ou d'un volet ; une porte double a deux vantaux.",
+  "requetes": [
+   "door leaf open",
+   "vantail porte",
+   "door leaf"
+  ]
+ },
+ {
+  "id": "huisserie",
+  "terme": "l'huisserie",
+  "definition": "Cadre en bois ou en métal qui encadre l'ouverture d'une porte et sur lequel elle est ferrée, posé avant les enduits sur chantier.",
+  "requetes": [
+   "steel door frame installed wall",
+   "huisserie métallique",
+   "door frame"
+  ]
+ },
+ {
+  "id": "piece-d-appui",
+  "terme": "la pièce d'appui",
+  "definition": "Traverse basse du dormant d'une fenêtre, posée sur l'appui de maçonnerie.",
+  "requetes": [
+   "window frame sill profile",
+   "pièce d'appui fenêtre",
+   "bottom rail window frame"
+  ]
+ },
+ {
+  "id": "jet-d-eau",
+  "terme": "le jet d'eau",
+  "definition": "Profil saillant fixé au bas de l'ouvrant d'une fenêtre ou d'une porte pour rejeter l'eau de pluie vers l'extérieur.",
+  "requetes": [
+   "weatherboard door bottom",
+   "jet d'eau fenêtre",
+   "door weather bar"
+  ]
+ },
+ {
+  "id": "petit-bois",
+  "terme": "le petit-bois",
+  "definition": "Baguette de bois ou de métal qui divise le vitrage d'une fenêtre en carreaux.",
+  "requetes": [
+   "window muntins",
+   "petits-bois fenêtre",
+   "glazing bars window panes"
+  ]
+ },
+ {
+  "id": "hublot-de-porte",
+  "terme": "le hublot de porte",
+  "definition": "Petite ouverture vitrée, ronde ou rectangulaire, percée dans un vantail de porte.",
+  "requetes": [
+   "door vision panel round",
+   "hublot porte",
+   "porthole door window"
+  ]
+ },
+ {
+  "id": "profile-aluminium",
+  "terme": "le profilé aluminium",
+  "definition": "Barre d'aluminium extrudée de section creuse, utilisée pour fabriquer cadres et vantaux de menuiserie.",
+  "requetes": [
+   "aluminium profiles extrusion",
+   "profilés aluminium menuiserie",
+   "aluminium extrusion profile"
+  ]
+ },
+ {
+  "id": "double-vitrage",
+  "terme": "le double vitrage",
+  "definition": "Vitrage fait de deux verres séparés par une lame d'air ou de gaz, avec un intercalaire visible sur le pourtour.",
+  "requetes": [
+   "double glazing unit edge",
+   "double vitrage",
+   "insulated glass unit"
+  ]
+ },
+ {
+  "id": "vitrage-feuillete",
+  "terme": "le vitrage feuilleté",
+  "definition": "Verre de sécurité fait de plusieurs feuilles collées par un film plastique, qui se fissure en toile d'araignée sans tomber.",
+  "requetes": [
+   "laminated glass cracked",
+   "verre feuilleté",
+   "laminated safety glass"
+  ]
+ },
+ {
+  "id": "vitrage-teinte",
+  "terme": "le vitrage teinté",
+  "definition": "Vitrage coloré dans la masse, souvent gris, bronze ou vert, pour réduire l'éblouissement.",
+  "requetes": [
+   "tinted glass window",
+   "vitrage teinté",
+   "bronze tinted glass"
+  ]
+ },
+ {
+  "id": "parclose",
+  "terme": "la parclose",
+  "definition": "Baguette fixée sur le cadre qui maintient le vitrage en place.",
+  "requetes": [
+   "glazing bead window",
+   "parclose",
+   "glazing bead"
+  ]
+ },
+ {
+  "id": "paumelle",
+  "terme": "la paumelle",
+  "definition": "Ferrure de rotation en deux parties emboîtées sur un axe, l'une fixée au dormant et l'autre au vantail.",
+  "requetes": [
+   "lift off hinge door",
+   "paumelle porte",
+   "paumelle"
+  ]
+ },
+ {
+  "id": "paumelle-a-souder",
+  "terme": "la paumelle à souder",
+  "definition": "Paumelle cylindrique en acier, sans ailes percées, soudée directement sur les portes et portails métalliques.",
+  "requetes": [
+   "weld on hinge",
+   "paumelle à souder",
+   "bullet hinge weld"
+  ]
+ },
+ {
+  "id": "charniere",
+  "terme": "la charnière",
+  "definition": "Ferrure articulée faite de deux lames reliées par un axe, qui permet à un vantail de pivoter.",
+  "requetes": [
+   "butt hinge",
+   "charnière porte",
+   "door hinge"
+  ]
+ },
+ {
+  "id": "gond",
+  "terme": "le gond",
+  "definition": "Pièce métallique coudée scellée dans le mur ou le pilier, sur laquelle pivote un volet ou un portail.",
+  "requetes": [
+   "gate hinge pin",
+   "gond volet",
+   "pintle hinge"
+  ]
+ },
+ {
+  "id": "penture",
+  "terme": "la penture",
+  "definition": "Longue bande de fer fixée sur un volet ou une porte, dont l'œil tourne sur un gond.",
+  "requetes": [
+   "strap hinge",
+   "penture volet",
+   "strap hinge door"
+  ]
+ },
+ {
+  "id": "serrure",
+  "terme": "la serrure",
+  "definition": "Mécanisme de fermeture actionné par une clé, qui bloque un vantail grâce à un pêne.",
+  "requetes": [
+   "door lock",
+   "serrure porte",
+   "lock"
+  ]
+ },
+ {
+  "id": "serrure-en-applique",
+  "terme": "la serrure en applique",
+  "definition": "Serrure dont le boîtier est vissé en saillie sur la face intérieure du vantail.",
+  "requetes": [
+   "rim lock door",
+   "serrure en applique",
+   "rim lock"
+  ]
+ },
+ {
+  "id": "serrure-a-encastrer",
+  "terme": "la serrure à encastrer",
+  "definition": "Serrure logée dans une mortaise taillée dans le chant du vantail, dont on ne voit que la têtière.",
+  "requetes": [
+   "mortise lock",
+   "serrure à encastrer",
+   "mortice lock door edge"
+  ]
+ },
+ {
+  "id": "serrure-multipoint",
+  "terme": "la serrure multipoint",
+  "definition": "Serrure qui verrouille la porte en plusieurs points répartis sur sa hauteur grâce à des tringles.",
+  "requetes": [
+   "multipoint lock",
+   "serrure multipoints",
+   "multi-point locking door"
+  ]
+ },
+ {
+  "id": "cylindre-de-serrure",
+  "terme": "le cylindre de serrure",
+  "definition": "Pièce de la serrure dans laquelle on introduit la clé, aussi appelée barillet.",
+  "requetes": [
+   "lock cylinder",
+   "cylindre serrure barillet",
+   "euro cylinder lock"
+  ]
+ },
+ {
+  "id": "gache",
+  "terme": "la gâche",
+  "definition": "Pièce métallique fixée sur le dormant, dans laquelle s'engage le pêne de la serrure.",
+  "requetes": [
+   "strike plate door",
+   "gâche serrure",
+   "door strike plate"
+  ]
+ },
+ {
+  "id": "gache-electrique",
+  "terme": "la gâche électrique",
+  "definition": "Gâche commandée à distance qui libère le pêne pour ouvrir une porte ou un portail, souvent couplée à un interphone.",
+  "requetes": [
+   "electric strike",
+   "gâche électrique",
+   "electric strike lock"
+  ]
+ },
+ {
+  "id": "pene",
+  "terme": "le pêne",
+  "definition": "Pièce mobile de la serrure qui sort du vantail pour s'engager dans la gâche.",
+  "requetes": [
+   "lock bolt latch",
+   "pêne serrure",
+   "latch bolt door edge"
+  ]
+ },
+ {
+  "id": "poignee-de-porte",
+  "terme": "la poignée de porte",
+  "definition": "Levier ou poignée que l'on abaisse pour ouvrir une porte, appelée aussi béquille.",
+  "requetes": [
+   "door handle lever",
+   "poignée de porte",
+   "lever door handle"
+  ]
+ },
+ {
+  "id": "bouton-de-porte",
+  "terme": "le bouton de porte",
+  "definition": "Poignée ronde que l'on tourne ou que l'on tire pour manœuvrer une porte.",
+  "requetes": [
+   "door knob",
+   "bouton de porte",
+   "doorknob"
+  ]
+ },
+ {
+  "id": "poignee-de-tirage",
+  "terme": "la poignée de tirage",
+  "definition": "Poignée fixe, souvent un tube vertical en inox, qui sert à tirer ou pousser une porte vitrée ou métallique.",
+  "requetes": [
+   "pull handle glass door",
+   "poignée de tirage inox",
+   "door pull handle"
+  ]
+ },
+ {
+  "id": "poignee-de-fenetre",
+  "terme": "la poignée de fenêtre",
+  "definition": "Poignée fixée sur l'ouvrant qui commande le verrouillage d'une fenêtre.",
+  "requetes": [
+   "window handle",
+   "poignée de fenêtre",
+   "window lever handle"
+  ]
+ },
+ {
+  "id": "cle",
+  "terme": "la clé",
+  "definition": "Petite pièce métallique dont on introduit la tige crantée dans une serrure pour l'ouvrir ou la fermer.",
+  "requetes": [
+   "door key",
+   "clé de porte",
+   "keys"
+  ]
+ },
+ {
+  "id": "verrou",
+  "terme": "le verrou",
+  "definition": "Fermeture faite d'une pièce métallique coulissante que l'on pousse à la main dans une gâche.",
+  "requetes": [
+   "door bolt",
+   "verrou porte",
+   "barrel bolt"
+  ]
+ },
+ {
+  "id": "targette",
+  "terme": "la targette",
+  "definition": "Petit verrou plat monté sur platine, manœuvré par un bouton, qui ferme une porte ou une fenêtre de l'intérieur.",
+  "requetes": [
+   "tower bolt",
+   "targette",
+   "barrel bolt small door"
+  ]
+ },
+ {
+  "id": "loquet",
+  "terme": "le loquet",
+  "definition": "Fermeture simple faite d'une barre pivotante qui retombe dans un crochet.",
+  "requetes": [
+   "thumb latch door",
+   "loquet porte",
+   "gate latch"
+  ]
+ },
+ {
+  "id": "cadenas",
+  "terme": "le cadenas",
+  "definition": "Serrure mobile munie d'un anneau en U que l'on passe dans un moraillon ou une chaîne.",
+  "requetes": [
+   "padlock",
+   "cadenas",
+   "padlock gate"
+  ]
+ },
+ {
+  "id": "moraillon",
+  "terme": "le moraillon",
+  "definition": "Ferrure articulée à anneau qui permet de fermer une porte ou un portail avec un cadenas.",
+  "requetes": [
+   "hasp and staple padlock",
+   "moraillon",
+   "hasp door"
+  ]
+ },
+ {
+  "id": "entrebailleur",
+  "terme": "l'entrebâilleur",
+  "definition": "Chaîne ou bras métallique qui limite l'ouverture d'une porte pour voir qui se présente.",
+  "requetes": [
+   "door chain",
+   "entrebâilleur",
+   "door chain lock"
+  ]
+ },
+ {
+  "id": "judas",
+  "terme": "le judas",
+  "definition": "Petite lentille optique traversant une porte d'entrée pour voir à l'extérieur sans ouvrir.",
+  "requetes": [
+   "door peephole",
+   "judas porte",
+   "peephole"
+  ]
+ },
+ {
+  "id": "ferme-porte",
+  "terme": "le ferme-porte",
+  "definition": "Mécanisme à bras articulé fixé en haut d'une porte, qui la referme automatiquement.",
+  "requetes": [
+   "door closer",
+   "ferme-porte",
+   "overhead door closer"
+  ]
+ },
+ {
+  "id": "butee-de-porte",
+  "terme": "la butée de porte",
+  "definition": "Petit arrêt fixé au sol ou au mur qui empêche la porte ou sa poignée de heurter le mur.",
+  "requetes": [
+   "door stop floor",
+   "butée de porte",
+   "doorstop"
+  ]
+ },
+ {
+  "id": "barre-antipanique",
+  "terme": "la barre antipanique",
+  "definition": "Barre horizontale sur toute la largeur d'une porte de sortie, qui la déverrouille par simple poussée.",
+  "requetes": [
+   "panic bar door",
+   "barre antipanique",
+   "push bar emergency exit"
+  ]
+ },
+ {
+  "id": "heurtoir",
+  "terme": "le heurtoir",
+  "definition": "Anneau ou marteau métallique fixé sur une porte d'entrée, que l'on frappe pour s'annoncer.",
+  "requetes": [
+   "door knocker",
+   "heurtoir porte",
+   "incategory:\"Door knockers\""
+  ]
+ },
+ {
+  "id": "robinet",
+  "terme": "le robinet",
+  "definition": "Appareil à manette ou à tête qu'on ouvre pour faire couler l'eau d'une canalisation, monté sur un lavabo, un évier ou un mur.",
+  "requetes": [
+   "water tap faucet",
+   "robinet eau",
+   "tap"
+  ]
+ },
+ {
+  "id": "mitigeur",
+  "terme": "le mitigeur",
+  "definition": "Robinet à manette unique qui règle à la fois le débit et le mélange d'eau chaude et d'eau froide.",
+  "requetes": [
+   "single lever mixer tap",
+   "mitigeur lavabo",
+   "mixer faucet"
+  ]
+ },
+ {
+  "id": "lavabo",
+  "terme": "le lavabo",
+  "definition": "Cuvette fixée au mur ou posée sur un meuble, alimentée par un robinet, servant à se laver les mains et le visage.",
+  "requetes": [
+   "washbasin bathroom",
+   "lavabo salle de bain",
+   "sink bathroom ceramic"
+  ]
+ },
+ {
+  "id": "vasque",
+  "terme": "la vasque",
+  "definition": "Lavabo en forme de bol posé sur un plan ou encastré dans un meuble, sans fixation murale apparente.",
+  "requetes": [
+   "vessel sink countertop",
+   "vasque à poser",
+   "countertop basin bathroom"
+  ]
+ },
+ {
+  "id": "evier",
+  "terme": "l'évier",
+  "definition": "Bac de cuisine en inox, en céramique ou en résine, avec un ou deux bacs et souvent un égouttoir, encastré dans un plan de travail.",
+  "requetes": [
+   "kitchen sink stainless steel",
+   "évier cuisine inox",
+   "kitchen sink"
+  ]
+ },
+ {
+  "id": "bac-a-laver",
+  "terme": "le bac à laver",
+  "definition": "Bac profond en béton, en céramique ou en résine, souvent posé dans une buanderie ou une cour, servant à laver le linge à la main.",
+  "requetes": [
+   "concrete laundry sink",
+   "bac à laver",
+   "utility sink laundry tub"
+  ]
+ },
+ {
+  "id": "cuvette-de-wc",
+  "terme": "la cuvette de WC",
+  "definition": "Cuvette en céramique où l'on fait ses besoins, reliée à l'évacuation et rincée par une chasse d'eau ; aussi appelée WC à l'anglaise.",
+  "requetes": [
+   "toilet bowl ceramic",
+   "cuvette WC",
+   "incategory:\"Flush toilets\""
+  ]
+ },
+ {
+  "id": "wc-suspendu",
+  "terme": "le WC suspendu",
+  "definition": "Cuvette de WC fixée au mur sans pied, le réservoir étant caché dans un bâti-support derrière la cloison.",
+  "requetes": [
+   "wall hung toilet",
+   "WC suspendu",
+   "wall mounted toilet bathroom"
+  ]
+ },
+ {
+  "id": "bati-support",
+  "terme": "le bâti-support",
+  "definition": "Châssis métallique fixé au mur ou au sol, intégrant le réservoir de chasse, sur lequel on accroche un WC suspendu avant de l'habiller d'une cloison.",
+  "requetes": [
+   "concealed toilet cistern frame installation",
+   "bâti-support WC",
+   "toilet frame Geberit installation"
+  ]
+ },
+ {
+  "id": "wc-a-la-turque",
+  "terme": "le WC à la turque",
+  "definition": "Cuvette posée au ras du sol, avec deux repose-pieds, sur laquelle on s'accroupit.",
+  "requetes": [
+   "squat toilet",
+   "toilettes à la turque",
+   "squatting toilet ceramic"
+  ]
+ },
+ {
+  "id": "reservoir-de-chasse",
+  "terme": "le réservoir de chasse",
+  "definition": "Réservoir d'eau en céramique ou en plastique placé derrière ou au-dessus de la cuvette, qui se vide pour la rincer.",
+  "requetes": [
+   "toilet cistern",
+   "réservoir chasse d'eau",
+   "toilet tank"
+  ]
+ },
+ {
+  "id": "douchette-wc",
+  "terme": "la douchette WC",
+  "definition": "Petite douchette à main reliée à un flexible près de la cuvette, servant à la toilette intime, très répandue au Sénégal.",
+  "requetes": [
+   "bidet shower sprayer toilet",
+   "hand held bidet sprayer",
+   "shattaf"
+  ]
+ },
+ {
+  "id": "bidet",
+  "terme": "le bidet",
+  "definition": "Appareil sanitaire bas en céramique, sur lequel on s'assoit à califourchon pour la toilette intime.",
+  "requetes": [
+   "bidet bathroom",
+   "bidet céramique",
+   "incategory:\"Bidets\""
+  ]
+ },
+ {
+  "id": "urinoir",
+  "terme": "l'urinoir",
+  "definition": "Appareil sanitaire mural en céramique ou en inox, utilisé debout par les hommes, courant dans les sanitaires publics.",
+  "requetes": [
+   "urinal",
+   "urinoir",
+   "urinals public toilet"
+  ]
+ },
+ {
+  "id": "pomme-de-douche",
+  "terme": "la pomme de douche",
+  "definition": "Pièce perforée par laquelle l'eau de la douche sort en jet, fixée au mur ou au bout d'un flexible.",
+  "requetes": [
+   "shower head",
+   "pomme de douche",
+   "rain shower head"
+  ]
+ },
+ {
+  "id": "colonne-de-douche",
+  "terme": "la colonne de douche",
+  "definition": "Ensemble vertical fixé au mur réunissant une grande pomme de douche en tête, une douchette et un mitigeur.",
+  "requetes": [
+   "shower column",
+   "colonne de douche",
+   "shower panel system"
+  ]
+ },
+ {
+  "id": "receveur-de-douche",
+  "terme": "le receveur de douche",
+  "definition": "Bac plat en céramique, en résine ou en acrylique posé au sol de la douche, qui recueille l'eau et la dirige vers la bonde.",
+  "requetes": [
+   "shower tray",
+   "receveur de douche",
+   "shower base"
+  ]
+ },
+ {
+  "id": "douche-a-l-italienne",
+  "terme": "la douche à l'italienne",
+  "definition": "Douche de plain-pied sans receveur, dont le sol carrelé est en légère pente vers un siphon ou un caniveau.",
+  "requetes": [
+   "walk-in shower tiled floor",
+   "douche à l'italienne",
+   "curbless shower"
+  ]
+ },
+ {
+  "id": "baignoire",
+  "terme": "la baignoire",
+  "definition": "Grande cuve sanitaire en acrylique, en fonte ou en acier dans laquelle on prend un bain.",
+  "requetes": [
+   "bathtub",
+   "baignoire",
+   "bath tub bathroom"
+  ]
+ },
+ {
+  "id": "bonde",
+  "terme": "la bonde",
+  "definition": "Pièce métallique ou plastique au fond d'un lavabo, d'un évier, d'une baignoire ou d'un receveur, par laquelle l'eau s'écoule.",
+  "requetes": [
+   "sink drain plug",
+   "bonde lavabo",
+   "drain strainer sink"
+  ]
+ },
+ {
+  "id": "siphon",
+  "terme": "le siphon",
+  "definition": "Pièce coudée ou en forme de bouteille placée sous un appareil sanitaire, qui garde une garde d'eau pour bloquer les odeurs de l'égout.",
+  "requetes": [
+   "sink trap P-trap",
+   "siphon lavabo",
+   "bottle trap under sink"
+  ]
+ },
+ {
+  "id": "siphon-de-sol",
+  "terme": "le siphon de sol",
+  "definition": "Grille posée au sol d'une douche, d'une salle d'eau ou d'une terrasse, reliée à un siphon, qui recueille l'eau qui ruisselle.",
+  "requetes": [
+   "floor drain bathroom",
+   "siphon de sol",
+   "floor drain grate"
+  ]
+ },
+ {
+  "id": "caniveau-de-douche",
+  "terme": "le caniveau de douche",
+  "definition": "Long caniveau étroit en inox encastré dans le sol d'une douche à l'italienne, couvert d'une grille.",
+  "requetes": [
+   "linear shower drain",
+   "caniveau de douche",
+   "linear drain stainless"
+  ]
+ },
+ {
+  "id": "flexible-d-alimentation",
+  "terme": "le flexible d'alimentation",
+  "definition": "Tuyau souple gainé de tresse inox qui relie un robinet ou un réservoir de chasse au robinet d'arrêt.",
+  "requetes": [
+   "braided flexible hose tap connector",
+   "flexible inox robinet",
+   "tap connector hose"
+  ]
+ },
+ {
+  "id": "tube-pvc",
+  "terme": "le tube PVC",
+  "definition": "Tuyau rigide en plastique gris ou blanc utilisé pour l'évacuation des eaux usées et parfois pour l'alimentation en eau.",
+  "requetes": [
+   "PVC pipe",
+   "tube PVC évacuation",
+   "PVC pipes construction"
+  ]
+ },
+ {
+  "id": "tube-en-cuivre",
+  "terme": "le tube en cuivre",
+  "definition": "Tuyau métallique de teinte orangée utilisé pour l'eau, le gaz ou les liaisons frigorifiques, assemblé par brasure ou raccords.",
+  "requetes": [
+   "copper pipe plumbing",
+   "tube cuivre plomberie",
+   "copper pipes"
+  ]
+ },
+ {
+  "id": "tube-per",
+  "terme": "le tube PER",
+  "definition": "Tuyau souple en polyéthylène réticulé, souvent rouge ou bleu, parfois passé dans une gaine, pour la distribution d'eau chaude et froide.",
+  "requetes": [
+   "PEX pipe red blue",
+   "tube PER",
+   "PEX tubing plumbing"
+  ]
+ },
+ {
+  "id": "tube-multicouche",
+  "terme": "le tube multicouche",
+  "definition": "Tuyau blanc semi-rigide composé de plastique et d'une âme en aluminium, pour l'alimentation en eau, assemblé par raccords à sertir.",
+  "requetes": [
+   "multilayer pipe PEX-AL-PEX",
+   "tube multicouche",
+   "multilayer composite pipe"
+  ]
+ },
+ {
+  "id": "tube-ppr",
+  "terme": "le tube PPR",
+  "definition": "Tuyau en polypropylène, souvent vert ou blanc, assemblé par soudure à chaud, très employé en Afrique de l'Ouest pour l'alimentation en eau.",
+  "requetes": [
+   "PPR pipe green",
+   "tube PPR",
+   "polypropylene pipe welding"
+  ]
+ },
+ {
+  "id": "tube-galvanise",
+  "terme": "le tube galvanisé",
+  "definition": "Tuyau en acier recouvert de zinc, gris mat, fileté aux extrémités, pour l'eau ou la protection incendie.",
+  "requetes": [
+   "galvanized steel pipe",
+   "tube acier galvanisé",
+   "galvanized pipe plumbing"
+  ]
+ },
+ {
+  "id": "tuyau-en-polyethylene",
+  "terme": "le tuyau en polyéthylène",
+  "definition": "Tuyau souple noir, parfois à bande bleue, enroulé en couronne, utilisé pour les branchements d'eau enterrés.",
+  "requetes": [
+   "HDPE pipe black coil",
+   "tuyau polyéthylène",
+   "PE water pipe coil"
+  ]
+ },
+ {
+  "id": "coude",
+  "terme": "le coude",
+  "definition": "Raccord de tuyauterie qui change la direction d'une canalisation, le plus souvent à 45 ou 90 degrés.",
+  "requetes": [
+   "pipe elbow fitting",
+   "coude PVC",
+   "PVC elbow"
+  ]
+ },
+ {
+  "id": "te",
+  "terme": "le té",
+  "definition": "Raccord de tuyauterie en forme de T qui crée une dérivation sur une canalisation.",
+  "requetes": [
+   "tee pipe fitting",
+   "té PVC",
+   "pipe tee"
+  ]
+ },
+ {
+  "id": "raccord",
+  "terme": "le raccord",
+  "definition": "Pièce qui relie deux tuyaux entre eux ou un tuyau à un appareil : manchon, réduction, union…",
+  "requetes": [
+   "pipe fitting",
+   "raccord plomberie",
+   "plumbing fittings"
+  ]
+ },
+ {
+  "id": "collier-de-fixation",
+  "terme": "le collier de fixation",
+  "definition": "Bride en métal ou en plastique vissée au mur qui maintient un tuyau.",
+  "requetes": [
+   "pipe clamp wall",
+   "collier de fixation tuyau",
+   "pipe clip bracket"
+  ]
+ },
+ {
+  "id": "vanne-d-arret",
+  "terme": "la vanne d'arrêt",
+  "definition": "Robinet à manette quart de tour, souvent rouge ou jaune, monté sur une canalisation pour couper l'eau.",
+  "requetes": [
+   "ball valve lever",
+   "vanne quart de tour",
+   "shut-off valve pipe"
+  ]
+ },
+ {
+  "id": "clapet-anti-retour",
+  "terme": "le clapet anti-retour",
+  "definition": "Pièce montée sur une canalisation qui laisse passer l'eau dans un seul sens, une flèche indiquant le sens sur le corps.",
+  "requetes": [
+   "check valve brass",
+   "clapet anti-retour",
+   "non return valve"
+  ]
+ },
+ {
+  "id": "reducteur-de-pression",
+  "terme": "le réducteur de pression",
+  "definition": "Appareil en laiton monté sur l'arrivée d'eau, souvent muni d'un manomètre, qui abaisse la pression du réseau.",
+  "requetes": [
+   "pressure reducing valve water",
+   "réducteur de pression eau",
+   "water pressure regulator brass"
+  ]
+ },
+ {
+  "id": "manometre",
+  "terme": "le manomètre",
+  "definition": "Cadran à aiguille qui indique la pression dans une canalisation, une pompe ou un réservoir.",
+  "requetes": [
+   "pressure gauge water pipe",
+   "manomètre",
+   "pressure gauge"
+  ]
+ },
+ {
+  "id": "collecteur",
+  "terme": "le collecteur",
+  "definition": "Tube muni de plusieurs sorties, avec ou sans robinets, qui répartit l'eau vers chaque appareil ; aussi appelé nourrice.",
+  "requetes": [
+   "plumbing manifold PEX",
+   "collecteur nourrice plomberie",
+   "water manifold"
+  ]
+ },
+ {
+  "id": "compteur-d-eau",
+  "terme": "le compteur d'eau",
+  "definition": "Appareil placé sur le branchement, à cadran et chiffres, qui mesure l'eau consommée.",
+  "requetes": [
+   "water meter",
+   "compteur d'eau",
+   "incategory:\"Water meters\""
+  ]
+ },
+ {
+  "id": "cuve-en-polyethylene",
+  "terme": "la cuve en polyéthylène",
+  "definition": "Réservoir d'eau en plastique moulé, souvent noir, bleu ou blanc, posé au sol ou sur une terrasse pour stocker l'eau.",
+  "requetes": [
+   "plastic water tank rooftop",
+   "polyethylene water storage tank",
+   "citerne eau plastique"
+  ]
+ },
+ {
+  "id": "chateau-d-eau",
+  "terme": "le château d'eau",
+  "definition": "Réservoir d'eau surélevé sur un fût ou des poteaux, qui alimente un réseau par gravité.",
+  "requetes": [
+   "water tower",
+   "château d'eau",
+   "incategory:\"Water towers\""
+  ]
+ },
+ {
+  "id": "surpresseur",
+  "terme": "le surpresseur",
+  "definition": "Groupe formé d'une pompe et d'un réservoir sous pression qui augmente la pression de l'eau dans le bâtiment.",
+  "requetes": [
+   "booster pump pressure tank",
+   "surpresseur eau",
+   "water pressure booster pump"
+  ]
+ },
+ {
+  "id": "reservoir-a-vessie",
+  "terme": "le réservoir à vessie",
+  "definition": "Ballon métallique peint, souvent bleu, raccordé à une pompe ou un surpresseur, qui garde l'eau sous pression.",
+  "requetes": [
+   "pressure tank water pump",
+   "réservoir à vessie",
+   "bladder pressure tank"
+  ]
+ },
+ {
+  "id": "pompe-de-surface",
+  "terme": "la pompe de surface",
+  "definition": "Pompe électrique posée au sol qui aspire l'eau d'une cuve ou d'une bâche et la refoule dans le réseau.",
+  "requetes": [
+   "centrifugal water pump electric",
+   "pompe de surface",
+   "surface water pump"
+  ]
+ },
+ {
+  "id": "pompe-immergee",
+  "terme": "la pompe immergée",
+  "definition": "Pompe cylindrique étroite descendue dans un forage ou une cuve, qui fonctionne sous l'eau.",
+  "requetes": [
+   "submersible pump borehole",
+   "pompe immergée",
+   "submersible water pump"
+  ]
+ },
+ {
+  "id": "pompe-de-relevage",
+  "terme": "la pompe de relevage",
+  "definition": "Pompe placée dans une petite cuve qui remonte les eaux usées d'un sous-sol jusqu'au réseau d'évacuation.",
+  "requetes": [
+   "sewage lift pump",
+   "pompe de relevage",
+   "sump pump basement"
+  ]
+ },
+ {
+  "id": "colonne-de-chute",
+  "terme": "la colonne de chute",
+  "definition": "Canalisation verticale qui descend les eaux usées et les eaux vannes des étages jusqu'au réseau en pied d'immeuble.",
+  "requetes": [
+   "soil stack pipe building",
+   "colonne de chute",
+   "drain stack PVC"
+  ]
+ },
+ {
+  "id": "chauffe-eau-electrique",
+  "terme": "le chauffe-eau électrique",
+  "definition": "Ballon cylindrique blanc, vertical ou horizontal, qui chauffe et stocke l'eau chaude par une résistance électrique ; appelé aussi cumulus.",
+  "requetes": [
+   "electric water heater",
+   "chauffe-eau électrique",
+   "hot water cylinder"
+  ]
+ },
+ {
+  "id": "chauffe-eau-solaire",
+  "terme": "le chauffe-eau solaire",
+  "definition": "Ensemble posé en toiture formé de capteurs et d'un ballon horizontal, qui chauffe l'eau par le soleil.",
+  "requetes": [
+   "solar water heater rooftop",
+   "chauffe-eau solaire",
+   "thermosiphon solar water heater"
+  ]
+ },
+ {
+  "id": "capteur-solaire-thermique",
+  "terme": "le capteur solaire thermique",
+  "definition": "Panneau vitré ou à tubes sous vide qui capte la chaleur du soleil pour chauffer de l'eau.",
+  "requetes": [
+   "solar thermal collector",
+   "capteur solaire thermique",
+   "evacuated tube collector"
+  ]
+ },
+ {
+  "id": "chauffe-eau-instantane",
+  "terme": "le chauffe-eau instantané",
+  "definition": "Petit appareil mural, électrique ou à gaz, qui chauffe l'eau au moment où elle passe, sans réservoir.",
+  "requetes": [
+   "tankless water heater",
+   "chauffe-eau instantané",
+   "instant water heater"
+  ]
+ },
+ {
+  "id": "groupe-de-securite",
+  "terme": "le groupe de sécurité",
+  "definition": "Organe en laiton à soupape, monté sur l'arrivée d'eau froide d'un chauffe-eau, qui évacue la surpression.",
+  "requetes": [
+   "water heater safety valve",
+   "groupe de sécurité chauffe-eau",
+   "expansion relief valve"
+  ]
+ },
+ {
+  "id": "radiateur",
+  "terme": "le radiateur",
+  "definition": "Appareil de chauffage fixé au mur, en fonte, en acier ou en aluminium, à éléments ou à panneau.",
+  "requetes": [
+   "radiator",
+   "radiateur",
+   "incategory:\"Radiators\""
+  ]
+ },
+ {
+  "id": "plancher-chauffant",
+  "terme": "le plancher chauffant",
+  "definition": "Réseau de tubes souples posés en serpentin sur un isolant avant le coulage de la chape.",
+  "requetes": [
+   "underfloor heating pipes",
+   "plancher chauffant",
+   "radiant floor heating installation"
+  ]
+ },
+ {
+  "id": "vase-d-expansion",
+  "terme": "le vase d'expansion",
+  "definition": "Petit réservoir métallique, souvent rouge, qui absorbe la dilatation de l'eau dans une installation de chauffage ou d'eau chaude.",
+  "requetes": [
+   "expansion vessel red",
+   "vase d'expansion",
+   "expansion tank"
+  ]
+ },
+ {
+  "id": "bouteille-de-gaz",
+  "terme": "la bouteille de gaz",
+  "definition": "Bouteille métallique de butane ou de propane qui alimente une cuisinière ou un réchaud.",
+  "requetes": [
+   "gas cylinder butane",
+   "bouteille de gaz",
+   "LPG cylinder"
+  ]
+ },
+ {
+  "id": "detendeur",
+  "terme": "le détendeur",
+  "definition": "Pièce vissée sur la bouteille de gaz qui abaisse la pression du gaz avant le tuyau de raccordement.",
+  "requetes": [
+   "gas regulator cylinder",
+   "détendeur gaz",
+   "LPG regulator"
+  ]
+ },
+ {
+  "id": "tableau-electrique",
+  "terme": "le tableau électrique",
+  "definition": "Coffret qui regroupe les disjoncteurs et protections d'une installation électrique sur des rails.",
+  "requetes": [
+   "electrical panel breakers",
+   "tableau électrique",
+   "distribution board"
+  ]
+ },
+ {
+  "id": "disjoncteur",
+  "terme": "le disjoncteur",
+  "definition": "Appareil modulaire à manette, monté sur rail dans le tableau, qui coupe un circuit en cas de surcharge ou de court-circuit.",
+  "requetes": [
+   "circuit breaker modular",
+   "disjoncteur",
+   "miniature circuit breaker"
+  ]
+ },
+ {
+  "id": "disjoncteur-differentiel",
+  "terme": "le disjoncteur différentiel",
+  "definition": "Disjoncteur muni d'un bouton test, qui coupe le courant en cas de fuite vers la terre pour protéger les personnes.",
+  "requetes": [
+   "residual current circuit breaker",
+   "disjoncteur différentiel",
+   "RCD test button"
+  ]
+ },
+ {
+  "id": "parafoudre",
+  "terme": "le parafoudre",
+  "definition": "Appareil modulaire du tableau électrique, souvent avec un voyant, qui protège l'installation des surtensions dues à la foudre.",
+  "requetes": [
+   "surge protection device DIN rail",
+   "parafoudre",
+   "surge arrester modular"
+  ]
+ },
+ {
+  "id": "compteur-electrique",
+  "terme": "le compteur électrique",
+  "definition": "Appareil qui mesure l'électricité consommée, avec un afficheur, installé à l'entrée du logement.",
+  "requetes": [
+   "electricity meter",
+   "compteur électrique",
+   "incategory:\"Electricity meters\""
+  ]
+ },
+ {
+  "id": "compteur-a-prepaiement",
+  "terme": "le compteur à prépaiement",
+  "definition": "Compteur électrique à clavier où l'on saisit le code d'une recharge achetée à l'avance ; au Sénégal, le compteur Woyofal.",
+  "requetes": [
+   "prepaid electricity meter keypad",
+   "compteur prépayé",
+   "prepayment meter"
+  ]
+ },
+ {
+  "id": "prise-de-courant",
+  "terme": "la prise de courant",
+  "definition": "Socle mural à deux trous, avec ou sans broche de terre, où l'on branche un appareil électrique.",
+  "requetes": [
+   "electrical outlet wall socket",
+   "prise de courant",
+   "power socket"
+  ]
+ },
+ {
+  "id": "interrupteur",
+  "terme": "l'interrupteur",
+  "definition": "Appareil mural à bascule ou à bouton qui allume et éteint un éclairage.",
+  "requetes": [
+   "light switch wall",
+   "interrupteur",
+   "wall switch"
+  ]
+ },
+ {
+  "id": "boite-d-encastrement",
+  "terme": "la boîte d'encastrement",
+  "definition": "Petit boîtier rond en plastique scellé dans le mur, qui reçoit une prise ou un interrupteur.",
+  "requetes": [
+   "electrical flush box wall",
+   "boîte d'encastrement",
+   "pattress box"
+  ]
+ },
+ {
+  "id": "boite-de-derivation",
+  "terme": "la boîte de dérivation",
+  "definition": "Boîtier à couvercle où se raccordent les fils de plusieurs circuits électriques.",
+  "requetes": [
+   "junction box electrical",
+   "boîte de dérivation",
+   "electrical junction box wires"
+  ]
+ },
+ {
+  "id": "gaine-icta",
+  "terme": "la gaine ICTA",
+  "definition": "Conduit annelé souple, gris ou orange, posé dans les murs et les dalles avant coulage pour y passer les fils électriques.",
+  "requetes": [
+   "corrugated electrical conduit",
+   "gaine ICTA",
+   "flexible conduit in concrete slab"
+  ]
+ },
+ {
+  "id": "goulotte",
+  "terme": "la goulotte",
+  "definition": "Profilé en plastique à couvercle fixé en surface du mur, dans lequel passent les câbles.",
+  "requetes": [
+   "cable trunking",
+   "goulotte électrique",
+   "wall cable duct"
+  ]
+ },
+ {
+  "id": "chemin-de-cables",
+  "terme": "le chemin de câbles",
+  "definition": "Support en treillis ou en tôle perforée, suspendu ou fixé au mur, qui porte les câbles dans les locaux techniques et les faux plafonds.",
+  "requetes": [
+   "cable tray",
+   "chemin de câbles",
+   "wire mesh cable tray"
+  ]
+ },
+ {
+  "id": "cable-electrique",
+  "terme": "le câble électrique",
+  "definition": "Ensemble de fils conducteurs isolés réunis sous une gaine, posé pour distribuer l'électricité.",
+  "requetes": [
+   "electrical cable",
+   "câble électrique",
+   "electric wires"
+  ]
+ },
+ {
+  "id": "piquet-de-terre",
+  "terme": "le piquet de terre",
+  "definition": "Tige métallique enfoncée dans le sol et reliée au câble de terre de l'installation électrique.",
+  "requetes": [
+   "earth rod grounding",
+   "piquet de terre",
+   "ground rod"
+  ]
+ },
+ {
+  "id": "paratonnerre",
+  "terme": "le paratonnerre",
+  "definition": "Tige métallique dressée au sommet d'un bâtiment et reliée à la terre, qui capte la foudre.",
+  "requetes": [
+   "lightning rod roof",
+   "paratonnerre",
+   "lightning conductor"
+  ]
+ },
+ {
+  "id": "groupe-electrogene",
+  "terme": "le groupe électrogène",
+  "definition": "Machine formée d'un moteur et d'un alternateur, souvent dans un capot insonorisé, qui produit l'électricité en cas de coupure.",
+  "requetes": [
+   "diesel generator",
+   "groupe électrogène",
+   "generator set"
+  ]
+ },
+ {
+  "id": "poste-de-transformation",
+  "terme": "le poste de transformation",
+  "definition": "Local ou cabine abritant le transformateur qui abaisse la tension du réseau pour alimenter un bâtiment ou un quartier.",
+  "requetes": [
+   "electrical substation transformer building",
+   "poste de transformation",
+   "pad mounted transformer"
+  ]
+ },
+ {
+  "id": "ampoule",
+  "terme": "l'ampoule",
+  "definition": "Lampe en verre ou en plastique qu'on visse ou enfiche dans une douille pour éclairer.",
+  "requetes": [
+   "light bulb",
+   "ampoule",
+   "LED bulb"
+  ]
+ },
+ {
+  "id": "plafonnier",
+  "terme": "le plafonnier",
+  "definition": "Luminaire fixé directement contre le plafond.",
+  "requetes": [
+   "ceiling light",
+   "plafonnier",
+   "flush mount ceiling light"
+  ]
+ },
+ {
+  "id": "applique",
+  "terme": "l'applique",
+  "definition": "Luminaire fixé au mur.",
+  "requetes": [
+   "wall light sconce",
+   "applique murale",
+   "wall lamp"
+  ]
+ },
+ {
+  "id": "spot-encastre",
+  "terme": "le spot encastré",
+  "definition": "Petit luminaire rond logé dans le faux plafond, dont seule la collerette dépasse.",
+  "requetes": [
+   "recessed downlight ceiling",
+   "spot encastré",
+   "recessed light"
+  ]
+ },
+ {
+  "id": "suspension",
+  "terme": "la suspension",
+  "definition": "Luminaire accroché au plafond par un fil, une chaîne ou une tige.",
+  "requetes": [
+   "pendant light",
+   "suspension luminaire",
+   "pendant lamp"
+  ]
+ },
+ {
+  "id": "reglette",
+  "terme": "la réglette",
+  "definition": "Luminaire long et étroit à tube fluorescent ou LED, fixé au plafond ou au mur.",
+  "requetes": [
+   "fluorescent tube light fixture",
+   "réglette LED",
+   "batten light"
+  ]
+ },
+ {
+  "id": "projecteur",
+  "terme": "le projecteur",
+  "definition": "Luminaire puissant orientable, à LED ou à halogène, qui éclaire une façade, une cour ou un chantier.",
+  "requetes": [
+   "LED floodlight",
+   "projecteur LED",
+   "floodlight wall"
+  ]
+ },
+ {
+  "id": "lampadaire-solaire",
+  "terme": "le lampadaire solaire",
+  "definition": "Mât d'éclairage extérieur portant un luminaire et un panneau photovoltaïque qui le rend autonome.",
+  "requetes": [
+   "solar street light",
+   "lampadaire solaire",
+   "solar street lamp Africa"
+  ]
+ },
+ {
+  "id": "bloc-autonome-d-eclairage-de-securite",
+  "terme": "le bloc autonome d'éclairage de sécurité",
+  "definition": "Petit boîtier lumineux avec un pictogramme de sortie, qui s'allume en cas de coupure pour guider l'évacuation ; abrégé BAES.",
+  "requetes": [
+   "emergency exit sign light",
+   "bloc autonome éclairage de sécurité",
+   "exit sign"
+  ]
+ },
+ {
+  "id": "panneau-photovoltaique",
+  "terme": "le panneau photovoltaïque",
+  "definition": "Panneau plat bleu sombre ou noir, à cellules visibles, qui produit de l'électricité à partir du soleil.",
+  "requetes": [
+   "solar panels rooftop",
+   "panneau photovoltaïque",
+   "photovoltaic panel"
+  ]
+ },
+ {
+  "id": "onduleur",
+  "terme": "l'onduleur",
+  "definition": "Boîtier électronique mural qui transforme le courant continu des panneaux solaires ou des batteries en courant alternatif.",
+  "requetes": [
+   "solar inverter",
+   "onduleur solaire",
+   "inverter wall mounted"
+  ]
+ },
+ {
+  "id": "batterie-solaire",
+  "terme": "la batterie solaire",
+  "definition": "Batterie de stockage, souvent en rangée ou en armoire, qui garde l'électricité produite par les panneaux.",
+  "requetes": [
+   "solar battery bank",
+   "batterie solaire",
+   "battery storage solar"
+  ]
+ },
+ {
+  "id": "regulateur-de-charge",
+  "terme": "le régulateur de charge",
+  "definition": "Petit boîtier électronique qui contrôle la charge des batteries par les panneaux solaires.",
+  "requetes": [
+   "solar charge controller",
+   "régulateur de charge solaire",
+   "MPPT charge controller"
+  ]
+ },
+ {
+  "id": "split",
+  "terme": "le split",
+  "definition": "Climatiseur dont l'unité intérieure, un boîtier blanc allongé, est fixée en haut du mur et reliée à une unité extérieure.",
+  "requetes": [
+   "split air conditioner indoor unit",
+   "climatiseur split",
+   "wall mounted air conditioner"
+  ]
+ },
+ {
+  "id": "unite-exterieure",
+  "terme": "l'unité extérieure",
+  "definition": "Caisson à ventilateur du climatiseur installé dehors, sur une façade, un toit ou au sol.",
+  "requetes": [
+   "air conditioner outdoor unit",
+   "unité extérieure climatisation",
+   "condenser unit wall"
+  ]
+ },
+ {
+  "id": "cassette-de-climatisation",
+  "terme": "la cassette de climatisation",
+  "definition": "Unité intérieure carrée encastrée dans le faux plafond, qui souffle l'air par quatre côtés.",
+  "requetes": [
+   "cassette air conditioner ceiling",
+   "climatiseur cassette",
+   "ceiling cassette AC"
+  ]
+ },
+ {
+  "id": "climatiseur-armoire",
+  "terme": "le climatiseur armoire",
+  "definition": "Climatiseur à unité intérieure haute et verticale posée au sol, pour les grandes pièces.",
+  "requetes": [
+   "floor standing air conditioner",
+   "climatiseur armoire",
+   "standing AC unit"
+  ]
+ },
+ {
+  "id": "climatiseur-de-fenetre",
+  "terme": "le climatiseur de fenêtre",
+  "definition": "Climatiseur monobloc encastré dans une fenêtre ou dans un trou du mur, dont l'arrière dépasse dehors.",
+  "requetes": [
+   "window air conditioner",
+   "climatiseur de fenêtre",
+   "through-wall air conditioner"
+  ]
+ },
+ {
+  "id": "liaison-frigorifique",
+  "terme": "la liaison frigorifique",
+  "definition": "Paire de tubes en cuivre isolés de mousse qui relie l'unité intérieure à l'unité extérieure d'un climatiseur.",
+  "requetes": [
+   "air conditioner copper line set insulation",
+   "liaison frigorifique",
+   "refrigerant pipes insulated"
+  ]
+ },
+ {
+  "id": "tuyau-de-condensats",
+  "terme": "le tuyau de condensats",
+  "definition": "Petit tuyau qui évacue l'eau produite par un climatiseur, souvent visible goutte à goutte en façade.",
+  "requetes": [
+   "air conditioner condensate drain pipe",
+   "évacuation condensats climatiseur",
+   "AC drain pipe"
+  ]
+ },
+ {
+  "id": "ventilateur-de-plafond",
+  "terme": "le ventilateur de plafond",
+  "definition": "Appareil à pales tournantes suspendu au plafond qui brasse l'air.",
+  "requetes": [
+   "ceiling fan",
+   "ventilateur de plafond",
+   "ceiling fan room"
+  ]
+ },
+ {
+  "id": "extracteur-d-air",
+  "terme": "l'extracteur d'air",
+  "definition": "Ventilateur fixé dans un mur, une fenêtre ou un conduit, qui rejette l'air vicié d'une cuisine ou d'une salle d'eau.",
+  "requetes": [
+   "exhaust fan wall",
+   "extracteur d'air",
+   "bathroom extractor fan"
+  ]
+ },
+ {
+  "id": "grille-de-ventilation",
+  "terme": "la grille de ventilation",
+  "definition": "Grille à lames ou perforée posée sur un mur ou une porte, qui laisse passer l'air.",
+  "requetes": [
+   "ventilation grille wall",
+   "grille d'aération",
+   "air vent grille"
+  ]
+ },
+ {
+  "id": "bouche-d-extraction",
+  "terme": "la bouche d'extraction",
+  "definition": "Bouche ronde, souvent blanche, posée au plafond ou en haut du mur d'une pièce humide, par laquelle la ventilation aspire l'air.",
+  "requetes": [
+   "extract air valve ceiling",
+   "bouche d'extraction VMC",
+   "ventilation extract valve"
+  ]
+ },
+ {
+  "id": "diffuseur-d-air",
+  "terme": "le diffuseur d'air",
+  "definition": "Bouche à ailettes, carrée ou ronde, posée dans le faux plafond, qui souffle l'air climatisé ou neuf.",
+  "requetes": [
+   "ceiling air diffuser",
+   "diffuseur d'air plafond",
+   "square ceiling diffuser"
+  ]
+ },
+ {
+  "id": "gaine-de-ventilation",
+  "terme": "la gaine de ventilation",
+  "definition": "Conduit en tôle, rond ou rectangulaire, ou en aluminium souple, qui transporte l'air.",
+  "requetes": [
+   "ventilation ductwork",
+   "gaine de ventilation",
+   "air duct galvanized"
+  ]
+ },
+ {
+  "id": "centrale-de-traitement-d-air",
+  "terme": "la centrale de traitement d'air",
+  "definition": "Grand caisson métallique qui filtre, refroidit ou chauffe et souffle l'air vers les gaines d'un bâtiment.",
+  "requetes": [
+   "air handling unit",
+   "centrale de traitement d'air",
+   "AHU rooftop"
+  ]
+ },
+ {
+  "id": "hotte",
+  "terme": "la hotte",
+  "definition": "Appareil placé au-dessus de la cuisinière qui aspire les fumées et les odeurs de cuisson.",
+  "requetes": [
+   "kitchen hood",
+   "hotte de cuisine",
+   "range hood"
+  ]
+ },
+ {
+  "id": "extincteur",
+  "terme": "l'extincteur",
+  "definition": "Bouteille rouge sous pression, munie d'une poignée et d'un tuyau, qui projette un produit pour éteindre un début de feu.",
+  "requetes": [
+   "fire extinguisher",
+   "extincteur",
+   "incategory:\"Fire extinguishers\""
+  ]
+ },
+ {
+  "id": "robinet-d-incendie-arme",
+  "terme": "le robinet d'incendie armé",
+  "definition": "Dévidoir mural portant un tuyau semi-rigide enroulé, raccordé en permanence au réseau d'eau, pour lutter contre le feu ; abrégé RIA.",
+  "requetes": [
+   "fire hose reel",
+   "robinet d'incendie armé",
+   "fire hose reel cabinet"
+  ]
+ },
+ {
+  "id": "poteau-d-incendie",
+  "terme": "le poteau d'incendie",
+  "definition": "Borne rouge en fonte posée au bord de la voie, munie de prises où les pompiers raccordent leurs tuyaux.",
+  "requetes": [
+   "fire hydrant",
+   "poteau incendie",
+   "incategory:\"Fire hydrants\""
+  ]
+ },
+ {
+  "id": "detecteur-de-fumee",
+  "terme": "le détecteur de fumée",
+  "definition": "Petit boîtier rond fixé au plafond qui détecte la fumée et déclenche une alarme.",
+  "requetes": [
+   "smoke detector ceiling",
+   "détecteur de fumée",
+   "smoke alarm"
+  ]
+ },
+ {
+  "id": "sprinkler",
+  "terme": "le sprinkler",
+  "definition": "Petite tête d'arrosage au plafond, à ampoule de verre colorée, qui libère l'eau automatiquement en cas de chaleur.",
+  "requetes": [
+   "fire sprinkler head",
+   "sprinkler incendie",
+   "sprinkler ceiling"
+  ]
+ },
+ {
+  "id": "declencheur-manuel",
+  "terme": "le déclencheur manuel",
+  "definition": "Boîtier rouge mural à vitre ou à membrane qu'on enfonce pour donner l'alarme incendie.",
+  "requetes": [
+   "manual call point fire alarm",
+   "déclencheur manuel",
+   "fire alarm pull station"
+  ]
+ },
+ {
+  "id": "colonne-seche",
+  "terme": "la colonne sèche",
+  "definition": "Canalisation vide montant dans les étages, avec une prise en façade où les pompiers branchent leur tuyau, et des prises à chaque niveau.",
+  "requetes": [
+   "dry riser inlet",
+   "colonne sèche",
+   "dry riser outlet"
+  ]
+ },
+ {
+  "id": "exutoire-de-desenfumage",
+  "terme": "l'exutoire de désenfumage",
+  "definition": "Ouvrant ou volet en haut d'une cage d'escalier ou en toiture qui s'ouvre en cas d'incendie pour évacuer la fumée.",
+  "requetes": [
+   "smoke vent roof",
+   "exutoire de désenfumage",
+   "smoke ventilation hatch"
+  ]
+ },
+ {
+  "id": "machinerie-d-ascenseur",
+  "terme": "la machinerie d'ascenseur",
+  "definition": "Local ou ensemble formé du moteur, du treuil et des poulies qui entraînent les câbles d'un ascenseur.",
+  "requetes": [
+   "elevator machine room",
+   "machinerie ascenseur",
+   "lift motor traction machine"
+  ]
+ },
+ {
+  "id": "bouton-d-appel",
+  "terme": "le bouton d'appel",
+  "definition": "Plaque à bouton lumineux placée sur le palier pour appeler l'ascenseur.",
+  "requetes": [
+   "elevator call button",
+   "bouton d'appel ascenseur",
+   "lift call button"
+  ]
+ }
+]

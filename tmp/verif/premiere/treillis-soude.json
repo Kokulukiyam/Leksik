@@ -1,0 +1,53 @@
+{
+  "termId": "treillis-soude",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panneaux de treillis soudé en barres HA rouillées empilés, vue rapprochée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rixö, Suède",
+      "note": "Empilement dense, maille peu lisible ; on préfère la candidate 06."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grillage galvanisé en fil fin avec mètre ruban.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grillage de clôture et mètre ruban, pas un treillis pour béton armé."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maille galvanisée avec mètre ruban sur fond clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grillage de clôture et mètre ruban."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pile de panneaux de grillage galvanisé, logo en incrustation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grillage galvanisé et logo ; pas le treillis soudé du béton armé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Silhouettes d'ouvriers devant une armature, image détourée en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée en silhouette."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneaux de treillis soudé en barres HA rouillées, mailles carrées bien visibles, vus en plongée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Rixö, Suède",
+      "note": "Panneaux soudés à mailles régulières, typiques du treillis soudé pour dalles."
+    }
+  ]
+}

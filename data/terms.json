@@ -579,6 +579,39 @@
     ]
   },
   {
+    "id": "echafaudage",
+    "terme": "l'échafaudage",
+    "definition": "Structure provisoire de montants, traverses et planchers dressée contre un ouvrage pour permettre de travailler en hauteur.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1,
+    "incompatibles": [
+      "plancher-d-echafaudage"
+    ]
+  },
+  {
+    "id": "coffrage",
+    "terme": "le coffrage",
+    "definition": "Moule provisoire, en bois ou en métal, dans lequel on coule le béton pour lui donner sa forme.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1,
+    "incompatibles": [
+      "coffrage-bois",
+      "coffrage-metallique"
+    ]
+  },
+  {
+    "id": "coffrage-de-poteau",
+    "terme": "le coffrage de poteau",
+    "definition": "Caisson vertical, souvent carré, monté autour des armatures d'un poteau avant d'y couler le béton.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1,
+    "incompatibles": [
+      "coffrage",
+      "coffrage-bois",
+      "coffrage-metallique"
+    ]
+  },
+  {
     "id": "pelle-hydraulique",
     "terme": "la pelle hydraulique",
     "definition": "Engin de terrassement sur chenilles ou pneus, à tourelle pivotante et bras articulé terminé par un godet.",
@@ -728,6 +761,214 @@
     "priorite": 1,
     "incompatibles": [
       "caniveau"
+    ]
+  },
+  {
+    "id": "chaussee",
+    "terme": "la chaussée",
+    "definition": "Partie de la rue ou de la route où roulent les véhicules.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "enrobe"
+    ]
+  },
+  {
+    "id": "pave-autobloquant",
+    "terme": "le pavé autobloquant",
+    "definition": "Pavé en béton à formes emboîtables, posé sur sable sans mortier, très employé pour les trottoirs et cours à Dakar.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "pave",
+      "trottoir"
+    ]
+  },
+  {
+    "id": "tampon-de-regard",
+    "terme": "le tampon de regard",
+    "definition": "Couvercle rond ou carré, en fonte ou en béton, qui ferme un regard au niveau du sol.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1
+  },
+  {
+    "id": "dos-d-ane",
+    "terme": "le dos-d'âne",
+    "definition": "Bosse aménagée en travers de la chaussée pour obliger les véhicules à ralentir.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "passage-pieton",
+      "chaussee"
+    ]
+  },
+  {
+    "id": "passage-pieton",
+    "terme": "le passage piéton",
+    "definition": "Bandes blanches peintes en travers de la chaussée, où les piétons traversent.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "marquage-au-sol",
+      "chaussee"
+    ]
+  },
+  {
+    "id": "marquage-au-sol",
+    "terme": "le marquage au sol",
+    "definition": "Lignes et signes peints en blanc ou en jaune sur la chaussée pour guider la circulation.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "chaussee"
+    ]
+  },
+  {
+    "id": "lampadaire",
+    "terme": "le lampadaire",
+    "definition": "Haut mât portant un ou plusieurs luminaires qui éclairent la rue.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "lampadaire-solaire"
+    ]
+  },
+  {
+    "id": "panneau-de-signalisation",
+    "terme": "le panneau de signalisation",
+    "definition": "Plaque métallique à symboles, fixée sur un poteau, qui donne une indication ou une obligation aux usagers de la route.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1
+  },
+  {
+    "id": "mur-de-cloture",
+    "terme": "le mur de clôture",
+    "definition": "Mur maçonné qui ferme une parcelle sur la rue et les voisins, typique des concessions et villas de Dakar.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "pilier-de-portail",
+      "chaperon"
+    ]
+  },
+  {
+    "id": "pilier-de-portail",
+    "terme": "le pilier de portail",
+    "definition": "Poteau maçonné, souvent coiffé d'un chapeau, sur lequel le portail est fixé de chaque côté de l'entrée.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "mur-de-cloture"
+    ]
+  },
+  {
+    "id": "chaperon",
+    "terme": "le chaperon",
+    "definition": "Couronnement en pente d'un mur de clôture ou d'un pilier, qui rejette l'eau de pluie.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "mur-de-cloture"
+    ]
+  },
+  {
+    "id": "fil-barbele",
+    "terme": "le fil barbelé",
+    "definition": "Fil de fer torsadé garni de pointes, tendu sur une clôture ou en haut d'un mur.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "cloture-grillagee"
+    ]
+  },
+  {
+    "id": "cloture-grillagee",
+    "terme": "la clôture grillagée",
+    "definition": "Clôture faite d'un grillage métallique tendu entre des poteaux.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1
+  },
+  {
+    "id": "piscine",
+    "terme": "la piscine",
+    "definition": "Bassin artificiel étanche, revêtu de carrelage, de liner ou d'enduit, aménagé pour la baignade.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "margelle",
+      "plage-de-piscine"
+    ]
+  },
+  {
+    "id": "facade",
+    "terme": "la façade",
+    "definition": "Face extérieure verticale d'un bâtiment, avec ses murs et ses ouvertures, vue dans son ensemble.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 1
+  },
+  {
+    "id": "mur-rideau",
+    "terme": "le mur-rideau",
+    "definition": "Façade légère entièrement vitrée, faite d'une ossature de montants et traverses accrochée devant la structure du bâtiment.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 1,
+    "incompatibles": [
+      "facade",
+      "meneau"
+    ]
+  },
+  {
+    "id": "garde-corps-vitre",
+    "terme": "le garde-corps vitré",
+    "definition": "Garde-corps dont le remplissage est un panneau de verre feuilleté, tenu par des pinces, un profilé ou des montants.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 1,
+    "incompatibles": [
+      "garde-corps",
+      "balcon"
+    ]
+  },
+  {
+    "id": "vitrine",
+    "terme": "la vitrine",
+    "definition": "Grande baie vitrée d'un commerce au rez-de-chaussée, derrière laquelle sont exposées les marchandises.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 1
+  },
+  {
+    "id": "toit-a-deux-pans",
+    "terme": "le toit à deux pans",
+    "definition": "Toit formé de deux versants inclinés qui se rejoignent au faîtage, avec un pignon à chaque bout.",
+    "categorie": "Toitures",
+    "priorite": 1,
+    "incompatibles": [
+      "toiture",
+      "pignon",
+      "faitage",
+      "versant"
+    ]
+  },
+  {
+    "id": "toit-a-quatre-pans",
+    "terme": "le toit à quatre pans",
+    "definition": "Toit formé de quatre versants inclinés, deux longs pans et deux croupes, sans pignon.",
+    "categorie": "Toitures",
+    "priorite": 1,
+    "incompatibles": [
+      "toiture",
+      "croupe",
+      "aretier",
+      "versant"
+    ]
+  },
+  {
+    "id": "charpente",
+    "terme": "la charpente",
+    "definition": "Ossature en bois ou en métal qui porte la couverture d'un toit.",
+    "categorie": "Toitures",
+    "priorite": 1,
+    "incompatibles": [
+      "ferme"
     ]
   }
 ]

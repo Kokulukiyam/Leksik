@@ -1,0 +1,881 @@
+{
+ "persienne": [
+  "Category:Louvered shutters",
+  "Category:Shutters",
+  "Category:Window shutters"
+ ],
+ "porte": [
+  "Category:Wooden doors",
+  "Category:Doors"
+ ],
+ "porte-d-entree": [
+  "Category:Front doors",
+  "Category:Entrance doors",
+  "Category:Doors"
+ ],
+ "porte-isoplane": [
+  "Category:Flush doors",
+  "Category:Interior doors",
+  "Category:Doors"
+ ],
+ "porte-a-panneaux": [
+  "Category:Panel doors",
+  "Category:Wooden doors",
+  "Category:Doors"
+ ],
+ "porte-vitree": [
+  "Category:Glazed doors",
+  "Category:Glass doors",
+  "Category:Doors"
+ ],
+ "porte-fenetre": [
+  "Category:French doors",
+  "Category:Balcony doors",
+  "Category:Doors"
+ ],
+ "porte-a-deux-vantaux": [
+  "Category:Double doors",
+  "Category:Wooden doors",
+  "Category:Doors"
+ ],
+ "porte-coulissante": [
+  "Category:Sliding doors",
+  "Category:Doors"
+ ],
+ "porte-a-galandage": [
+  "Category:Pocket doors",
+  "Category:Sliding doors"
+ ],
+ "porte-accordeon": [
+  "Category:Folding doors",
+  "Category:Accordion doors",
+  "Category:Doors"
+ ],
+ "porte-a-tambour": [
+  "Category:Revolving doors",
+  "Category:Doors"
+ ],
+ "porte-automatique": [
+  "Category:Automatic doors",
+  "Category:Sliding doors",
+  "Category:Doors"
+ ],
+ "porte-metallique": [
+  "Category:Metal doors",
+  "Category:Steel doors",
+  "Category:Doors"
+ ],
+ "porte-coupe-feu": [
+  "Category:Fire doors",
+  "Category:Fire safety doors",
+  "Category:Doors"
+ ],
+ "porte-persiennee": [
+  "Category:Louvered doors",
+  "Category:Louvered shutters",
+  "Category:Doors"
+ ],
+ "porte-de-placard": [
+  "Category:Wardrobes",
+  "Category:Sliding doors",
+  "Category:Doors"
+ ],
+ "porte-cochere": [
+  "Category:Carriage entrances",
+  "Category:Gateways",
+  "Category:Doors"
+ ],
+ "porte-basculante": [
+  "Category:Garage doors",
+  "Category:Overhead doors"
+ ],
+ "porte-sectionnelle": [
+  "Category:Sectional doors",
+  "Category:Garage doors"
+ ],
+ "rideau-metallique": [
+  "Category:Roller shutters",
+  "Category:Shop shutters",
+  "Category:Shutters"
+ ],
+ "fenetre": [
+  "Category:Windows",
+  "Category:Window frames"
+ ],
+ "fenetre-a-la-francaise": [
+  "Category:Casement windows",
+  "Category:Windows"
+ ],
+ "fenetre-a-soufflet": [
+  "Category:Hopper windows",
+  "Category:Windows"
+ ],
+ "fenetre-oscillo-battante": [
+  "Category:Tilt and turn windows",
+  "Category:Windows"
+ ],
+ "fenetre-coulissante": [
+  "Category:Sliding windows",
+  "Category:Windows"
+ ],
+ "fenetre-a-guillotine": [
+  "Category:Sash windows",
+  "Category:Windows"
+ ],
+ "fenetre-pivotante": [
+  "Category:Pivot windows",
+  "Category:Windows"
+ ],
+ "fenetre-a-l-italienne": [
+  "Category:Awning windows",
+  "Category:Windows"
+ ],
+ "chassis-fixe": [
+  "Category:Fixed windows",
+  "Category:Windows"
+ ],
+ "naco": [
+  "Category:Louvre windows",
+  "Category:Jalousie windows",
+  "Category:Windows"
+ ],
+ "menuiserie-aluminium": [
+  "Category:Aluminium windows",
+  "Category:Window frames",
+  "Category:Windows"
+ ],
+ "menuiserie-pvc": [
+  "Category:PVC windows",
+  "Category:Plastic windows",
+  "Category:Windows"
+ ],
+ "volet": [
+  "Category:Window shutters",
+  "Category:Shutters"
+ ],
+ "volet-battant": [
+  "Category:Hinged shutters",
+  "Category:Window shutters",
+  "Category:Shutters"
+ ],
+ "volet-roulant": [
+  "Category:Roller shutters",
+  "Category:Window shutters"
+ ],
+ "coffre-de-volet-roulant": [
+  "Category:Roller shutters",
+  "Category:Window shutters"
+ ],
+ "volet-coulissant": [
+  "Category:Sliding shutters",
+  "Category:Window shutters"
+ ],
+ "volet-pliant": [
+  "Category:Folding shutters",
+  "Category:Window shutters"
+ ],
+ "volet-a-barres-et-echarpe": [
+  "Category:Wooden shutters",
+  "Category:Window shutters",
+  "Category:Shutters"
+ ],
+ "arret-de-volet": [
+  "Category:Shutter dogs",
+  "Category:Shutter hardware",
+  "Category:Shutters"
+ ],
+ "espagnolette": [
+  "Category:Espagnolettes",
+  "Category:Window hardware"
+ ],
+ "cremone": [
+  "Category:Espagnolettes",
+  "Category:Window hardware"
+ ],
+ "portail-metallique": [
+  "Category:Metal gates",
+  "Category:Gates",
+  "Category:Iron gates"
+ ],
+ "portail-coulissant": [
+  "Category:Sliding gates",
+  "Category:Gates"
+ ],
+ "portail-battant": [
+  "Category:Swing gates",
+  "Category:Gates"
+ ],
+ "portillon": [
+  "Category:Wicket gates",
+  "Category:Garden gates",
+  "Category:Gates"
+ ],
+ "rail-de-portail": [
+  "Category:Sliding gates",
+  "Category:Gates"
+ ],
+ "grille-de-defense": [
+  "Category:Window grilles",
+  "Category:Security grilles",
+  "Category:Window bars"
+ ],
+ "barreaudage": [
+  "Category:Window bars",
+  "Category:Window grilles",
+  "Category:Iron bars"
+ ],
+ "grille-extensible": [
+  "Category:Collapsible gates",
+  "Category:Security grilles"
+ ],
+ "moustiquaire": [
+  "Category:Insect screens",
+  "Category:Window screens",
+  "Category:Mosquito nets"
+ ],
+ "dormant": [
+  "Category:Window frames",
+  "Category:Door frames"
+ ],
+ "ouvrant": [
+  "Category:Windows",
+  "Category:Casement windows"
+ ],
+ "vantail": [
+  "Category:Doors",
+  "Category:Wooden doors"
+ ],
+ "huisserie": [
+  "Category:Door frames",
+  "Category:Steel door frames"
+ ],
+ "piece-d-appui": [
+  "Category:Window sills",
+  "Category:Windowsills"
+ ],
+ "jet-d-eau": [
+  "Category:Doors",
+  "Category:Door hardware"
+ ],
+ "petit-bois": [
+  "Category:Muntins",
+  "Category:Windows",
+  "Category:Window frames"
+ ],
+ "hublot-de-porte": [
+  "Category:Porthole windows",
+  "Category:Door windows",
+  "Category:Doors"
+ ],
+ "profile-aluminium": [
+  "Category:Aluminium profiles",
+  "Category:Aluminium extrusions"
+ ],
+ "double-vitrage": [
+  "Category:Double glazing",
+  "Category:Insulated glazing"
+ ],
+ "vitrage-feuillete": [
+  "Category:Laminated glass",
+  "Category:Glass"
+ ],
+ "vitrage-teinte": [
+  "Category:Tinted glass",
+  "Category:Glass windows"
+ ],
+ "parclose": [
+  "Category:Windows",
+  "Category:Window frames"
+ ],
+ "paumelle": [
+  "Category:Door hinges",
+  "Category:Hinges"
+ ],
+ "paumelle-a-souder": [
+  "Category:Door hinges",
+  "Category:Hinges"
+ ],
+ "charniere": [
+  "Category:Hinges",
+  "Category:Butt hinges"
+ ],
+ "gond": [
+  "Category:Gate hinges",
+  "Category:Hinges"
+ ],
+ "penture": [
+  "Category:Strap hinges",
+  "Category:Hinges"
+ ],
+ "serrure": [
+  "Category:Door locks",
+  "Category:Locks"
+ ],
+ "serrure-en-applique": [
+  "Category:Rim locks",
+  "Category:Door locks",
+  "Category:Locks"
+ ],
+ "serrure-a-encastrer": [
+  "Category:Mortise locks",
+  "Category:Door locks",
+  "Category:Locks"
+ ],
+ "serrure-multipoint": [
+  "Category:Door locks",
+  "Category:Locks"
+ ],
+ "cylindre-de-serrure": [
+  "Category:Lock cylinders",
+  "Category:Locks"
+ ],
+ "gache": [
+  "Category:Strike plates",
+  "Category:Door locks"
+ ],
+ "gache-electrique": [
+  "Category:Electric strikes",
+  "Category:Door locks"
+ ],
+ "pene": [
+  "Category:Latches",
+  "Category:Door locks"
+ ],
+ "poignee-de-porte": [
+  "Category:Door handles",
+  "Category:Door furniture"
+ ],
+ "bouton-de-porte": [
+  "Category:Doorknobs",
+  "Category:Door handles"
+ ],
+ "poignee-de-tirage": [
+  "Category:Door handles",
+  "Category:Pull handles"
+ ],
+ "poignee-de-fenetre": [
+  "Category:Window handles",
+  "Category:Window hardware"
+ ],
+ "cle": [
+  "Category:Keys",
+  "Category:Door keys"
+ ],
+ "verrou": [
+  "Category:Door bolts",
+  "Category:Bolts (locks)",
+  "Category:Locks"
+ ],
+ "targette": [
+  "Category:Door bolts",
+  "Category:Tower bolts"
+ ],
+ "loquet": [
+  "Category:Latches",
+  "Category:Door latches"
+ ],
+ "cadenas": [
+  "Category:Padlocks",
+  "Category:Locks"
+ ],
+ "moraillon": [
+  "Category:Hasps",
+  "Category:Padlocks"
+ ],
+ "entrebailleur": [
+  "Category:Door chains",
+  "Category:Door security"
+ ],
+ "judas": [
+  "Category:Door viewers",
+  "Category:Peepholes"
+ ],
+ "ferme-porte": [
+  "Category:Door closers",
+  "Category:Door hardware"
+ ],
+ "butee-de-porte": [
+  "Category:Door stops",
+  "Category:Door hardware"
+ ],
+ "barre-antipanique": [
+  "Category:Panic bars",
+  "Category:Panic hardware"
+ ],
+ "heurtoir": [
+  "Category:Door knockers"
+ ],
+ "robinet": [
+  "Category:Faucets",
+  "Category:Taps",
+  "Category:Water taps"
+ ],
+ "mitigeur": [
+  "Category:Mixer taps",
+  "Category:Faucets"
+ ],
+ "lavabo": [
+  "Category:Washbasins",
+  "Category:Bathroom sinks",
+  "Category:Sinks"
+ ],
+ "vasque": [
+  "Category:Vessel sinks",
+  "Category:Washbasins",
+  "Category:Sinks"
+ ],
+ "evier": [
+  "Category:Kitchen sinks",
+  "Category:Sinks"
+ ],
+ "bac-a-laver": [
+  "Category:Laundry sinks",
+  "Category:Sinks"
+ ],
+ "cuvette-de-wc": [
+  "Category:Toilet bowls",
+  "Category:Flush toilets",
+  "Category:Toilets"
+ ],
+ "wc-suspendu": [
+  "Category:Wall-hung toilets",
+  "Category:Toilets"
+ ],
+ "bati-support": [
+  "Category:Toilet cisterns",
+  "Category:Toilets"
+ ],
+ "wc-a-la-turque": [
+  "Category:Squat toilets",
+  "Category:Toilets"
+ ],
+ "reservoir-de-chasse": [
+  "Category:Toilet cisterns",
+  "Category:Flush toilets"
+ ],
+ "douchette-wc": [
+  "Category:Bidet showers",
+  "Category:Bidets"
+ ],
+ "bidet": [
+  "Category:Bidets",
+  "Category:Bathroom fixtures"
+ ],
+ "urinoir": [
+  "Category:Urinals",
+  "Category:Toilets"
+ ],
+ "pomme-de-douche": [
+  "Category:Shower heads",
+  "Category:Showers"
+ ],
+ "colonne-de-douche": [
+  "Category:Showers",
+  "Category:Shower heads"
+ ],
+ "receveur-de-douche": [
+  "Category:Shower trays",
+  "Category:Showers"
+ ],
+ "douche-a-l-italienne": [
+  "Category:Walk-in showers",
+  "Category:Showers"
+ ],
+ "baignoire": [
+  "Category:Bathtubs",
+  "Category:Bathrooms"
+ ],
+ "bonde": [
+  "Category:Sink drains",
+  "Category:Drains"
+ ],
+ "siphon": [
+  "Category:Siphons",
+  "Category:Sink traps",
+  "Category:Plumbing"
+ ],
+ "siphon-de-sol": [
+  "Category:Floor drains",
+  "Category:Drains"
+ ],
+ "caniveau-de-douche": [
+  "Category:Floor drains",
+  "Category:Shower drains",
+  "Category:Drains"
+ ],
+ "flexible-d-alimentation": [
+  "Category:Flexible hoses",
+  "Category:Plumbing fittings"
+ ],
+ "tube-pvc": [
+  "Category:PVC pipes",
+  "Category:Plastic pipes",
+  "Category:Pipes"
+ ],
+ "tube-en-cuivre": [
+  "Category:Copper pipes",
+  "Category:Copper tubing",
+  "Category:Pipes"
+ ],
+ "tube-per": [
+  "Category:PEX pipes",
+  "Category:Plastic pipes",
+  "Category:Pipes"
+ ],
+ "tube-multicouche": [
+  "Category:Plastic pipes",
+  "Category:PEX pipes",
+  "Category:Pipes"
+ ],
+ "tube-ppr": [
+  "Category:Plastic pipes",
+  "Category:Pipes"
+ ],
+ "tube-galvanise": [
+  "Category:Galvanized pipes",
+  "Category:Steel pipes",
+  "Category:Pipes"
+ ],
+ "tuyau-en-polyethylene": [
+  "Category:Polyethylene pipes",
+  "Category:Plastic pipes",
+  "Category:Pipes"
+ ],
+ "coude": [
+  "Category:Pipe fittings",
+  "Category:Pipe elbows"
+ ],
+ "te": [
+  "Category:Pipe fittings",
+  "Category:Plumbing fittings"
+ ],
+ "raccord": [
+  "Category:Pipe fittings",
+  "Category:Plumbing fittings"
+ ],
+ "collier-de-fixation": [
+  "Category:Pipe clamps",
+  "Category:Pipe supports"
+ ],
+ "vanne-d-arret": [
+  "Category:Ball valves",
+  "Category:Valves"
+ ],
+ "clapet-anti-retour": [
+  "Category:Check valves",
+  "Category:Valves"
+ ],
+ "reducteur-de-pression": [
+  "Category:Pressure regulators",
+  "Category:Valves"
+ ],
+ "manometre": [
+  "Category:Pressure gauges",
+  "Category:Manometers"
+ ],
+ "collecteur": [
+  "Category:Manifolds",
+  "Category:Plumbing fittings"
+ ],
+ "compteur-d-eau": [
+  "Category:Water meters"
+ ],
+ "cuve-en-polyethylene": [
+  "Category:Water tanks",
+  "Category:Plastic tanks",
+  "Category:Water tanks in Africa"
+ ],
+ "chateau-d-eau": [
+  "Category:Water towers",
+  "Category:Water towers in Africa"
+ ],
+ "surpresseur": [
+  "Category:Water pumps",
+  "Category:Pressure tanks"
+ ],
+ "reservoir-a-vessie": [
+  "Category:Pressure tanks",
+  "Category:Water pumps"
+ ],
+ "pompe-de-surface": [
+  "Category:Water pumps",
+  "Category:Centrifugal pumps",
+  "Category:Pumps"
+ ],
+ "pompe-immergee": [
+  "Category:Submersible pumps",
+  "Category:Pumps"
+ ],
+ "pompe-de-relevage": [
+  "Category:Sewage pumps",
+  "Category:Pumps"
+ ],
+ "colonne-de-chute": [
+  "Category:Soil pipes",
+  "Category:Drainpipes",
+  "Category:Pipes"
+ ],
+ "chauffe-eau-electrique": [
+  "Category:Electric water heaters",
+  "Category:Water heaters"
+ ],
+ "chauffe-eau-solaire": [
+  "Category:Solar water heaters",
+  "Category:Water heaters"
+ ],
+ "capteur-solaire-thermique": [
+  "Category:Solar thermal collectors",
+  "Category:Solar water heaters"
+ ],
+ "chauffe-eau-instantane": [
+  "Category:Tankless water heaters",
+  "Category:Water heaters"
+ ],
+ "groupe-de-securite": [
+  "Category:Safety valves",
+  "Category:Water heaters"
+ ],
+ "radiateur": [
+  "Category:Radiators (heating)",
+  "Category:Radiators"
+ ],
+ "plancher-chauffant": [
+  "Category:Underfloor heating",
+  "Category:Heating pipes"
+ ],
+ "vase-d-expansion": [
+  "Category:Expansion vessels",
+  "Category:Expansion tanks"
+ ],
+ "bouteille-de-gaz": [
+  "Category:Gas cylinders",
+  "Category:Butane cylinders"
+ ],
+ "detendeur": [
+  "Category:Gas regulators",
+  "Category:Pressure regulators"
+ ],
+ "tableau-electrique": [
+  "Category:Distribution boards",
+  "Category:Electrical panels",
+  "Category:Circuit breakers"
+ ],
+ "disjoncteur": [
+  "Category:Circuit breakers"
+ ],
+ "disjoncteur-differentiel": [
+  "Category:Residual-current devices",
+  "Category:Circuit breakers"
+ ],
+ "parafoudre": [
+  "Category:Surge protectors",
+  "Category:Circuit breakers"
+ ],
+ "compteur-electrique": [
+  "Category:Electricity meters",
+  "Category:Electric meters"
+ ],
+ "compteur-a-prepaiement": [
+  "Category:Prepaid electricity meters",
+  "Category:Electricity meters"
+ ],
+ "prise-de-courant": [
+  "Category:Electrical outlets",
+  "Category:Wall sockets",
+  "Category:AC power plugs and sockets"
+ ],
+ "interrupteur": [
+  "Category:Light switches",
+  "Category:Electric switches"
+ ],
+ "boite-d-encastrement": [
+  "Category:Electrical boxes",
+  "Category:Junction boxes"
+ ],
+ "boite-de-derivation": [
+  "Category:Junction boxes",
+  "Category:Electrical boxes"
+ ],
+ "gaine-icta": [
+  "Category:Electrical conduits",
+  "Category:Conduits"
+ ],
+ "goulotte": [
+  "Category:Cable ducts",
+  "Category:Cable trunking"
+ ],
+ "chemin-de-cables": [
+  "Category:Cable trays",
+  "Category:Cable management"
+ ],
+ "cable-electrique": [
+  "Category:Electrical cables",
+  "Category:Cables"
+ ],
+ "piquet-de-terre": [
+  "Category:Earthing rods",
+  "Category:Grounding"
+ ],
+ "paratonnerre": [
+  "Category:Lightning rods",
+  "Category:Lightning protection"
+ ],
+ "groupe-electrogene": [
+  "Category:Diesel generators",
+  "Category:Electric generators"
+ ],
+ "poste-de-transformation": [
+  "Category:Electrical substations",
+  "Category:Transformer stations"
+ ],
+ "ampoule": [
+  "Category:Light bulbs",
+  "Category:Incandescent light bulbs",
+  "Category:LED lamps"
+ ],
+ "plafonnier": [
+  "Category:Ceiling lights",
+  "Category:Light fixtures"
+ ],
+ "applique": [
+  "Category:Wall lights",
+  "Category:Wall sconces"
+ ],
+ "spot-encastre": [
+  "Category:Recessed lighting",
+  "Category:Downlights",
+  "Category:Ceiling lights"
+ ],
+ "suspension": [
+  "Category:Pendant lamps",
+  "Category:Chandeliers"
+ ],
+ "reglette": [
+  "Category:Fluorescent lamps",
+  "Category:Fluorescent light fixtures"
+ ],
+ "projecteur": [
+  "Category:Floodlights",
+  "Category:LED floodlights"
+ ],
+ "lampadaire-solaire": [
+  "Category:Solar street lights",
+  "Category:Street lights"
+ ],
+ "bloc-autonome-d-eclairage-de-securite": [
+  "Category:Emergency lighting",
+  "Category:Emergency exit signs"
+ ],
+ "panneau-photovoltaique": [
+  "Category:Solar panels",
+  "Category:Photovoltaic power stations",
+  "Category:Solar panels in Africa"
+ ],
+ "onduleur": [
+  "Category:Solar inverters",
+  "Category:Inverters"
+ ],
+ "batterie-solaire": [
+  "Category:Solar batteries",
+  "Category:Batteries"
+ ],
+ "regulateur-de-charge": [
+  "Category:Solar charge controllers",
+  "Category:Solar power"
+ ],
+ "split": [
+  "Category:Air conditioners",
+  "Category:Split air conditioners"
+ ],
+ "unite-exterieure": [
+  "Category:Air conditioners",
+  "Category:Air conditioner outdoor units"
+ ],
+ "cassette-de-climatisation": [
+  "Category:Air conditioners",
+  "Category:Ceiling air conditioners"
+ ],
+ "climatiseur-armoire": [
+  "Category:Air conditioners"
+ ],
+ "climatiseur-de-fenetre": [
+  "Category:Window air conditioners",
+  "Category:Air conditioners"
+ ],
+ "liaison-frigorifique": [
+  "Category:Air conditioners",
+  "Category:Refrigerant pipes"
+ ],
+ "tuyau-de-condensats": [
+  "Category:Air conditioners",
+  "Category:Drain pipes"
+ ],
+ "ventilateur-de-plafond": [
+  "Category:Ceiling fans"
+ ],
+ "extracteur-d-air": [
+  "Category:Exhaust fans",
+  "Category:Ventilation fans"
+ ],
+ "grille-de-ventilation": [
+  "Category:Ventilation grilles",
+  "Category:Air vents"
+ ],
+ "bouche-d-extraction": [
+  "Category:Air vents",
+  "Category:Ventilation grilles"
+ ],
+ "diffuseur-d-air": [
+  "Category:Air diffusers",
+  "Category:Air vents"
+ ],
+ "gaine-de-ventilation": [
+  "Category:Ventilation ducts",
+  "Category:Ductwork"
+ ],
+ "centrale-de-traitement-d-air": [
+  "Category:Air handling units",
+  "Category:HVAC"
+ ],
+ "hotte": [
+  "Category:Range hoods",
+  "Category:Kitchen hoods"
+ ],
+ "extincteur": [
+  "Category:Fire extinguishers"
+ ],
+ "robinet-d-incendie-arme": [
+  "Category:Fire hose reels",
+  "Category:Fire hoses"
+ ],
+ "poteau-d-incendie": [
+  "Category:Fire hydrants"
+ ],
+ "detecteur-de-fumee": [
+  "Category:Smoke detectors"
+ ],
+ "sprinkler": [
+  "Category:Fire sprinklers",
+  "Category:Sprinklers"
+ ],
+ "declencheur-manuel": [
+  "Category:Fire alarm call points",
+  "Category:Fire alarms"
+ ],
+ "colonne-seche": [
+  "Category:Dry risers",
+  "Category:Fire hydrants"
+ ],
+ "exutoire-de-desenfumage": [
+  "Category:Smoke vents",
+  "Category:Smoke control"
+ ],
+ "machinerie-d-ascenseur": [
+  "Category:Elevator machinery",
+  "Category:Elevators"
+ ],
+ "bouton-d-appel": [
+  "Category:Elevator buttons",
+  "Category:Elevators"
+ ]
+}

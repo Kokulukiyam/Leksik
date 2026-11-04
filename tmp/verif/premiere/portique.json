@@ -1,0 +1,53 @@
+{
+  "termId": "portique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entrée vitrée d'un immeuble de bureaux avec auvent sur poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un portique structurel lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Entrée de la Kohlenwäsche de Zollverein sous une galerie sur poteaux d'acier rouges, avec jarrets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossatures multiples et imbriquées : ambigu avec poteau, poutre, jarret."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gravure ancienne d'un pavillon d'exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Église romane de brique et pierre avec grand porche en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail en arc, non un portique de structure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Même église, vue du portail en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Idem."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Même église, vue d'ensemble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Idem."
+    }
+  ]
+}

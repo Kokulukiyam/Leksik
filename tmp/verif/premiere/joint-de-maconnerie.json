@@ -1,0 +1,63 @@
+{
+  "termId": "joint-de-maconnerie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de briques aux joints de mortier débordants et irréguliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints mal finis, bavures : lecture moins claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan de briques rouges avec joints de mortier clair, horizontal et vertical.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.19,
+        "largeur": 1.0,
+        "hauteur": 0.12
+      },
+      "lieu": "",
+      "note": "Joint horizontal net et dominant, rectangle posé dessus ; image sans texte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Angle d'un bâtiment en brique, joints fins et petits, travaux de rejointoiement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chicago Ridge, Illinois, États-Unis",
+      "note": "Joints trop petits et texte de légende trompeur."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de briques avec joints à deux traitements (pibestilk / Hamborg) en saillie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Copenhague, Danemark",
+      "note": "Joint décoratif atypique, confusion avec joint saillant ou creux."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de briques, joints recouverts d'un voile de mortier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints peu lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de briques rouges, joints gris nets, horizontaux et verticaux, bien éclairés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.3,
+        "largeur": 0.96,
+        "hauteur": 0.06
+      },
+      "lieu": "",
+      "note": "Joint horizontal clair encadré de près."
+    }
+  ]
+}

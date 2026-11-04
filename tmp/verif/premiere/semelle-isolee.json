@@ -1,0 +1,29 @@
+{
+  "termId": "semelle-isolee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne d'un pont en béton armé sur chevalets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pasadena, États-Unis",
+      "note": "Aucune semelle visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sommet de l'ascenseur de Santa Justa.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détail en fer ajouré néo-gothique de l'ascenseur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Sans rapport."
+    }
+  ]
+}

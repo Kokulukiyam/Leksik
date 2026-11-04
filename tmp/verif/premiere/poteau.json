@@ -1,0 +1,53 @@
+{
+  "termId": "poteau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Armature de béton armé (cage d'acier) dressée dans une tranchée contre un mur en parpaings.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armature seule, sans béton : ni poteau fini ni chaînage distinguables."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poteau électrique en béton armé dans un champ, avec ses lignes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poteau de ligne électrique, pas un poteau de structure de bâtiment."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment en parpaings en construction, avec un petit auvent sur poteaux peints en vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poteaux petits, peints, et mat électrique au premier plan : ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ancienne gravure/photo d'un pont en béton armé sur chevalets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien, poteau non identifiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo de guerre en noir et blanc : blindé et soldats près d'un poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poteau en arrière-plan, sujet autre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur un fût de béton circulaire fissuré, armatures apparentes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pathologie ; pourrait être pris pour une colonne."
+    }
+  ]
+}

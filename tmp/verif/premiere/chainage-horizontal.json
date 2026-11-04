@@ -1,0 +1,53 @@
+{
+  "termId": "chainage-horizontal",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mât du HMS Victory devant des bâtiments de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Quai de gare avec train et voies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gare avec passerelle et train.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur en blocs de béton dans un atelier, sans chaînage visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le chaînage n'est pas visible ; simple mur de blocs."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de blocs de béton sous une charpente métallique avec inscriptions.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaînage non identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison ancienne en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

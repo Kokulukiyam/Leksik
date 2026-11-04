@@ -1,0 +1,53 @@
+{
+  "termId": "charpente-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Missile en vol au-dessus d'un entrepôt lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minneapolis, États-Unis",
+      "note": "Silo béton ; aucune charpente métallique visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minneapolis, États-Unis",
+      "note": "Silo béton ; aucune charpente métallique visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minneapolis, États-Unis",
+      "note": "Silo béton ; aucune charpente métallique visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minneapolis, États-Unis",
+      "note": "Silo béton ; aucune charpente métallique visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Silo à grains en béton, Gold Medal Flour (Minneapolis), sans charpente métallique visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minneapolis, États-Unis",
+      "note": "Silo béton ; aucune charpente métallique visible."
+    }
+  ]
+}

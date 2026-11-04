@@ -1,0 +1,757 @@
+{
+ "allege": [
+  "Category:Window sills",
+  "Category:Spandrels",
+  "Category:Windows"
+ ],
+ "appui-de-fenetre": [
+  "Category:Window sills",
+  "Category:Windowsills",
+  "Category:Windows"
+ ],
+ "linteau": [
+  "Category:Lintels",
+  "Category:Stone lintels",
+  "Category:Doorways"
+ ],
+ "meneau": [
+  "Category:Mullions",
+  "Category:Mullioned windows",
+  "Category:Tracery windows"
+ ],
+ "trumeau": [
+  "Category:Trumeaux",
+  "Category:Trumeau portals",
+  "Category:Portals"
+ ],
+ "piedroit": [
+  "Category:Jambs",
+  "Category:Door jambs",
+  "Category:Doorways"
+ ],
+ "chambranle": [
+  "Category:Door frames",
+  "Category:Window frames",
+  "Category:Doorways"
+ ],
+ "tympan": [
+  "Category:Tympana",
+  "Category:Romanesque tympana",
+  "Category:Gothic tympana"
+ ],
+ "oeil-de-boeuf": [
+  "Category:Oculi",
+  "Category:Bull's-eye windows",
+  "Category:Round windows"
+ ],
+ "balcon": [
+  "Category:Balconies",
+  "Category:Balconies in Africa",
+  "Category:Balconies in France"
+ ],
+ "garde-corps": [
+  "Category:Railings",
+  "Category:Balcony railings",
+  "Category:Guard rails"
+ ],
+ "oriel": [
+  "Category:Oriel windows",
+  "Category:Bay windows",
+  "Category:Bay windows in France"
+ ],
+ "imposte": [
+  "Category:Fanlights",
+  "Category:Transom windows",
+  "Category:Doors with fanlights"
+ ],
+ "brise-soleil": [
+  "Category:Brise soleil",
+  "Category:Sun shading",
+  "Category:Sunshades"
+ ],
+ "claustra": [
+  "Category:Breeze block walls",
+  "Category:Breeze blocks",
+  "Category:Perforated walls"
+ ],
+ "pignon": [
+  "Category:Gables",
+  "Category:Gable walls",
+  "Category:Gable ends"
+ ],
+ "moucharabieh": [
+  "Category:Mashrabiya",
+  "Category:Mashrabiyas",
+  "Category:Lattice windows"
+ ],
+ "lucarne": [
+  "Category:Dormer windows",
+  "Category:Dormers",
+  "Category:Roof windows"
+ ],
+ "acrotere": [
+  "Category:Acroteria",
+  "Category:Parapets",
+  "Category:Roof parapets"
+ ],
+ "gouttiere": [
+  "Category:Rain gutters",
+  "Category:Gutters",
+  "Category:Downspouts"
+ ],
+ "faitage": [
+  "Category:Roof ridges",
+  "Category:Ridge tiles",
+  "Category:Roofs"
+ ],
+ "croupe": [
+  "Category:Hip roofs",
+  "Category:Hipped roofs",
+  "Category:Roofs"
+ ],
+ "souche-de-cheminee": [
+  "Category:Chimney stacks",
+  "Category:Chimneys",
+  "Category:Chimney pots"
+ ],
+ "shed": [
+  "Category:Sawtooth roofs",
+  "Category:Sawtooth roof",
+  "Category:Industrial roofs"
+ ],
+ "fleche": [
+  "Category:Spires",
+  "Category:Church spires",
+  "Category:Steeples"
+ ],
+ "lanterneau": [
+  "Category:Roof lanterns",
+  "Category:Skylights",
+  "Category:Rooflights"
+ ],
+ "tuile": [
+  "Category:Roof tiles",
+  "Category:Roof tiles in France",
+  "Category:Tiled roofs"
+ ],
+ "facade": [
+  "Category:Facades",
+  "Category:Building facades",
+  "Category:Facades of houses"
+ ],
+ "mur-rideau": [
+  "Category:Curtain walls",
+  "Category:Glass curtain walls",
+  "Category:Glass facades"
+ ],
+ "facade-double-peau": [
+  "Category:Double-skin facades",
+  "Category:Double skin facades",
+  "Category:Glass facades"
+ ],
+ "facade-ventilee": [
+  "Category:Ventilated facades",
+  "Category:Rainscreen cladding",
+  "Category:Cladding"
+ ],
+ "baie": [
+  "Category:Window openings",
+  "Category:Windows",
+  "Category:Doorways"
+ ],
+ "ebrasement": [
+  "Category:Splayed windows",
+  "Category:Window reveals",
+  "Category:Doorway reveals"
+ ],
+ "tableau-de-baie": [
+  "Category:Window reveals",
+  "Category:Window openings",
+  "Category:Windows"
+ ],
+ "seuil": [
+  "Category:Door thresholds",
+  "Category:Thresholds",
+  "Category:Doorsteps"
+ ],
+ "bavette": [
+  "Category:Flashing (roofing)",
+  "Category:Roof flashing",
+  "Category:Flashings"
+ ],
+ "larmier": [
+  "Category:Drip moldings",
+  "Category:Drip edges",
+  "Category:Cornices"
+ ],
+ "casquette": [
+  "Category:Canopies",
+  "Category:Door canopies",
+  "Category:Entrance canopies"
+ ],
+ "marquise": [
+  "Category:Glass canopies",
+  "Category:Canopies",
+  "Category:Marquees (architecture)"
+ ],
+ "auvent": [
+  "Category:Canopies",
+  "Category:Porch roofs",
+  "Category:Awnings"
+ ],
+ "loggia": [
+  "Category:Loggias",
+  "Category:Loggias in France",
+  "Category:Balconies"
+ ],
+ "veranda": [
+  "Category:Verandas",
+  "Category:Verandahs",
+  "Category:Porches"
+ ],
+ "porche": [
+  "Category:Porches",
+  "Category:Church porches",
+  "Category:Porches in France"
+ ],
+ "balconnet": [
+  "Category:Juliet balconies",
+  "Category:Balconettes",
+  "Category:Balconies"
+ ],
+ "balcon-filant": [
+  "Category:Continuous balconies",
+  "Category:Balconies",
+  "Category:Balconies in France"
+ ],
+ "nez-de-dalle": [
+  "Category:Concrete slab edges",
+  "Category:Concrete slabs",
+  "Category:Reinforced concrete"
+ ],
+ "encorbellement": [
+  "Category:Corbelled buildings",
+  "Category:Jettied buildings",
+  "Category:Corbels"
+ ],
+ "soubassement": [
+  "Category:Plinths",
+  "Category:Building plinths",
+  "Category:Stone plinths"
+ ],
+ "chaine-d-angle": [
+  "Category:Quoins",
+  "Category:Quoins in France",
+  "Category:Cornerstones"
+ ],
+ "encadrement-de-baie": [
+  "Category:Window frames (architecture)",
+  "Category:Window surrounds",
+  "Category:Door surrounds"
+ ],
+ "plate-bande": [
+  "Category:Flat arches",
+  "Category:Jack arches",
+  "Category:Lintels"
+ ],
+ "baie-cintree": [
+  "Category:Arched windows",
+  "Category:Round-arched windows",
+  "Category:Arches"
+ ],
+ "baie-geminee": [
+  "Category:Coupled windows",
+  "Category:Twin windows",
+  "Category:Biforas"
+ ],
+ "baie-d-angle": [
+  "Category:Corner windows",
+  "Category:Windows",
+  "Category:Glass corners"
+ ],
+ "fenetre-en-bandeau": [
+  "Category:Ribbon windows",
+  "Category:Strip windows",
+  "Category:Windows"
+ ],
+ "meurtriere": [
+  "Category:Arrowslits",
+  "Category:Arrow slits",
+  "Category:Loopholes"
+ ],
+ "soupirail": [
+  "Category:Cellar windows",
+  "Category:Basement windows",
+  "Category:Basement vents"
+ ],
+ "cour-anglaise": [
+  "Category:Window wells",
+  "Category:Basement areas",
+  "Category:Basement windows"
+ ],
+ "garde-corps-vitre": [
+  "Category:Glass railings",
+  "Category:Glass balustrades",
+  "Category:Balcony railings"
+ ],
+ "garde-corps-a-barreaudage": [
+  "Category:Balusters",
+  "Category:Railings",
+  "Category:Balcony railings"
+ ],
+ "garde-corps-a-lisses": [
+  "Category:Handrails",
+  "Category:Railings",
+  "Category:Guard rails"
+ ],
+ "garde-corps-a-cables": [
+  "Category:Cable railings",
+  "Category:Railings",
+  "Category:Wire rope railings"
+ ],
+ "garde-corps-en-fer-forge": [
+  "Category:Wrought iron railings",
+  "Category:Wrought iron balconies",
+  "Category:Wrought iron"
+ ],
+ "garde-corps-maconne": [
+  "Category:Parapets",
+  "Category:Brick parapets",
+  "Category:Balcony parapets"
+ ],
+ "balustrade": [
+  "Category:Balustrades",
+  "Category:Balusters",
+  "Category:Stone balustrades"
+ ],
+ "barre-d-appui": [
+  "Category:Window guards",
+  "Category:Window railings",
+  "Category:Railings"
+ ],
+ "pare-vue": [
+  "Category:Privacy screens",
+  "Category:Screens (privacy)",
+  "Category:Fences"
+ ],
+ "brise-soleil-orientable": [
+  "Category:Louvered sunshades",
+  "Category:Brise soleil",
+  "Category:Venetian blinds"
+ ],
+ "brise-soleil-vertical": [
+  "Category:Vertical fins",
+  "Category:Brise soleil",
+  "Category:Sun shading"
+ ],
+ "brise-soleil-horizontal": [
+  "Category:Horizontal brise soleil",
+  "Category:Brise soleil",
+  "Category:Sun shading"
+ ],
+ "store-banne": [
+  "Category:Awnings",
+  "Category:Retractable awnings",
+  "Category:Shop awnings"
+ ],
+ "store-a-l-italienne": [
+  "Category:Roller blinds",
+  "Category:Window blinds",
+  "Category:Awnings"
+ ],
+ "voile-d-ombrage": [
+  "Category:Shade sails",
+  "Category:Sun shades",
+  "Category:Shade structures"
+ ],
+ "resille-metallique": [
+  "Category:Metal mesh facades",
+  "Category:Expanded metal",
+  "Category:Metal screens"
+ ],
+ "vitrage-agrafe": [
+  "Category:Structural glazing",
+  "Category:Glass facades",
+  "Category:Curtain walls"
+ ],
+ "panneau-d-allege": [
+  "Category:Spandrel panels",
+  "Category:Curtain walls",
+  "Category:Cladding"
+ ],
+ "mur-vegetal": [
+  "Category:Green walls",
+  "Category:Vertical gardens",
+  "Category:Living walls"
+ ],
+ "treillage": [
+  "Category:Trellises",
+  "Category:Lattices",
+  "Category:Garden trellises"
+ ],
+ "mur-aveugle": [
+  "Category:Blind walls",
+  "Category:Blank walls",
+  "Category:Walls"
+ ],
+ "pan-coupe": [
+  "Category:Chamfered corners",
+  "Category:Corner buildings",
+  "Category:Corner buildings in France"
+ ],
+ "avant-corps": [
+  "Category:Avant-corps",
+  "Category:Projecting bays",
+  "Category:Pavilions"
+ ],
+ "attique": [
+  "Category:Attics (architecture)",
+  "Category:Attic storey",
+  "Category:Mansard roofs"
+ ],
+ "arcade": [
+  "Category:Arcades (architecture)",
+  "Category:Arcades",
+  "Category:Arches"
+ ],
+ "coursive": [
+  "Category:Access balconies",
+  "Category:Deck access",
+  "Category:Walkways"
+ ],
+ "devanture": [
+  "Category:Shopfronts",
+  "Category:Shop fronts",
+  "Category:Shopfronts in France"
+ ],
+ "vitrine": [
+  "Category:Shop windows",
+  "Category:Display windows",
+  "Category:Shopfronts"
+ ],
+ "cache-climatiseur": [
+  "Category:Air conditioners on buildings",
+  "Category:Air conditioners",
+  "Category:Air conditioning units"
+ ],
+ "jardiniere": [
+  "Category:Window boxes",
+  "Category:Flower boxes",
+  "Category:Planters"
+ ],
+ "pignon-a-redents": [
+  "Category:Crow-stepped gables",
+  "Category:Stepped gables",
+  "Category:Gables"
+ ],
+ "abat-son": [
+  "Category:Abat-sons",
+  "Category:Belfry louvres",
+  "Category:Louvers"
+ ],
+ "toiture": [
+  "Category:Roofs",
+  "Category:Roofs by type",
+  "Category:Roof structures"
+ ],
+ "toiture-terrasse": [
+  "Category:Flat roofs",
+  "Category:Roof terraces",
+  "Category:Roofs"
+ ],
+ "terrasse-accessible": [
+  "Category:Roof terraces",
+  "Category:Terraces",
+  "Category:Roof gardens"
+ ],
+ "toiture-terrasse-gravillonnee": [
+  "Category:Gravel roofs",
+  "Category:Flat roofs",
+  "Category:Roofing gravel"
+ ],
+ "toiture-vegetalisee": [
+  "Category:Green roofs",
+  "Category:Sod roofs",
+  "Category:Roof gardens"
+ ],
+ "toit-a-deux-pans": [
+  "Category:Gable roofs",
+  "Category:Gabled roofs",
+  "Category:Roofs"
+ ],
+ "toit-a-quatre-pans": [
+  "Category:Hip roofs",
+  "Category:Hipped roofs",
+  "Category:Roofs"
+ ],
+ "toit-monopente": [
+  "Category:Shed roofs",
+  "Category:Mono-pitched roofs",
+  "Category:Roofs"
+ ],
+ "appentis": [
+  "Category:Lean-tos",
+  "Category:Lean-to roofs",
+  "Category:Sheds"
+ ],
+ "toit-en-pavillon": [
+  "Category:Pavilion roofs",
+  "Category:Pyramidal roofs",
+  "Category:Hip roofs"
+ ],
+ "toit-mansarde": [
+  "Category:Mansard roofs",
+  "Category:Mansard roofs in France",
+  "Category:Roofs"
+ ],
+ "demi-croupe": [
+  "Category:Half-hip roofs",
+  "Category:Jerkinhead roofs",
+  "Category:Hip roofs"
+ ],
+ "toit-conique": [
+  "Category:Conical roofs",
+  "Category:Cone roofs",
+  "Category:Round roofs"
+ ],
+ "toiture-cintree": [
+  "Category:Barrel roofs",
+  "Category:Curved roofs",
+  "Category:Vaulted roofs"
+ ],
+ "toit-papillon": [
+  "Category:Butterfly roofs",
+  "Category:V-shaped roofs",
+  "Category:Roofs"
+ ],
+ "versant": [
+  "Category:Roof slopes",
+  "Category:Pitched roofs",
+  "Category:Roofs"
+ ],
+ "egout-de-toit": [
+  "Category:Eaves",
+  "Category:Roof eaves",
+  "Category:Roof overhangs"
+ ],
+ "rive": [
+  "Category:Verges (roofs)",
+  "Category:Barge boards",
+  "Category:Gable roofs"
+ ],
+ "aretier": [
+  "Category:Hip rafters",
+  "Category:Roof hips",
+  "Category:Hip roofs"
+ ],
+ "noue": [
+  "Category:Roof valleys",
+  "Category:Valleys (roofs)",
+  "Category:Roof valley flashing"
+ ],
+ "avant-toit": [
+  "Category:Eaves",
+  "Category:Roof overhangs",
+  "Category:Roof eaves"
+ ],
+ "charpente": [
+  "Category:Roof trusses",
+  "Category:Roof structures",
+  "Category:Timber roof trusses"
+ ],
+ "charpente-metallique": [
+  "Category:Steel roof trusses",
+  "Category:Steel trusses",
+  "Category:Steel structures"
+ ],
+ "fermette": [
+  "Category:Roof trusses",
+  "Category:Timber roof trusses",
+  "Category:Trusses"
+ ],
+ "panne": [
+  "Category:Purlins",
+  "Category:Roof purlins",
+  "Category:Roof structures"
+ ],
+ "panne-faitiere": [
+  "Category:Ridge beams",
+  "Category:Purlins",
+  "Category:Roof structures"
+ ],
+ "sabliere": [
+  "Category:Wall plates",
+  "Category:Roof structures",
+  "Category:Timber framing"
+ ],
+ "chevron": [
+  "Category:Rafters",
+  "Category:Roof rafters",
+  "Category:Roof structures"
+ ],
+ "volige": [
+  "Category:Roof sheathing",
+  "Category:Roof boards",
+  "Category:Roof decking"
+ ],
+ "liteau": [
+  "Category:Roof battens",
+  "Category:Battens",
+  "Category:Roof structures"
+ ],
+ "entrait": [
+  "Category:Tie beams",
+  "Category:Collar beams",
+  "Category:Roof trusses"
+ ],
+ "arbaletrier": [
+  "Category:Principal rafters",
+  "Category:Roof trusses",
+  "Category:Rafters"
+ ],
+ "poincon": [
+  "Category:King posts",
+  "Category:King post trusses",
+  "Category:Roof trusses"
+ ],
+ "ecran-sous-toiture": [
+  "Category:Roof underlays",
+  "Category:Roofing membranes",
+  "Category:Roof insulation"
+ ],
+ "bac-acier": [
+  "Category:Corrugated iron roofs",
+  "Category:Metal roofs",
+  "Category:Steel roofs"
+ ],
+ "panneau-sandwich": [
+  "Category:Sandwich panels",
+  "Category:Insulated panels",
+  "Category:Metal cladding"
+ ],
+ "plaque-translucide": [
+  "Category:Translucent roofs",
+  "Category:Polycarbonate roofs",
+  "Category:Corrugated plastic roofs"
+ ],
+ "tuile-canal": [
+  "Category:Roman tiles",
+  "Category:Barrel tiles",
+  "Category:Roof tiles"
+ ],
+ "tuile-mecanique": [
+  "Category:Interlocking roof tiles",
+  "Category:Clay roof tiles",
+  "Category:Roof tiles"
+ ],
+ "tuile-plate": [
+  "Category:Plain tiles",
+  "Category:Flat roof tiles",
+  "Category:Roof tiles"
+ ],
+ "tuile-faitiere": [
+  "Category:Ridge tiles",
+  "Category:Roof tiles",
+  "Category:Roof ridges"
+ ],
+ "bardeau-bitume": [
+  "Category:Asphalt shingles",
+  "Category:Shingles",
+  "Category:Shingle roofs"
+ ],
+ "couverture-en-zinc": [
+  "Category:Zinc roofs",
+  "Category:Zinc roofing",
+  "Category:Metal roofs"
+ ],
+ "verriere": [
+  "Category:Glass roofs",
+  "Category:Glazed roofs",
+  "Category:Skylights"
+ ],
+ "fenetre-de-toit": [
+  "Category:Roof windows",
+  "Category:Skylights",
+  "Category:Rooflights"
+ ],
+ "chien-assis": [
+  "Category:Dormer windows",
+  "Category:Dormers",
+  "Category:Roof windows"
+ ],
+ "solin": [
+  "Category:Roof flashing",
+  "Category:Flashing (roofing)",
+  "Category:Chimney flashing"
+ ],
+ "descente-d-eaux-pluviales": [
+  "Category:Downspouts",
+  "Category:Rainwater downspouts",
+  "Category:Rain gutters"
+ ],
+ "cheneau": [
+  "Category:Box gutters",
+  "Category:Rain gutters",
+  "Category:Gutters"
+ ],
+ "boite-a-eau": [
+  "Category:Rainwater heads",
+  "Category:Rain gutters",
+  "Category:Downspouts"
+ ],
+ "dauphin": [
+  "Category:Downspout shoes",
+  "Category:Downspouts",
+  "Category:Rain gutters"
+ ],
+ "crapaudine": [
+  "Category:Roof drains",
+  "Category:Drain strainers",
+  "Category:Roof drainage"
+ ],
+ "gargouille-de-terrasse": [
+  "Category:Roof drains",
+  "Category:Scuppers",
+  "Category:Gargoyles"
+ ],
+ "trop-plein": [
+  "Category:Overflow pipes",
+  "Category:Scuppers",
+  "Category:Roof drains"
+ ],
+ "membrane-bitumineuse": [
+  "Category:Bituminous membranes",
+  "Category:Roofing membranes",
+  "Category:Flat roofs"
+ ],
+ "releve-d-etancheite": [
+  "Category:Roofing membranes",
+  "Category:Flat roofs",
+  "Category:Roof flashing"
+ ],
+ "dalle-sur-plots": [
+  "Category:Paving on pedestals",
+  "Category:Roof terraces",
+  "Category:Pavers"
+ ],
+ "couvertine": [
+  "Category:Coping (architecture)",
+  "Category:Wall copings",
+  "Category:Parapets"
+ ],
+ "chatiere": [
+  "Category:Roof vents",
+  "Category:Roof ventilation",
+  "Category:Roof tiles"
+ ],
+ "mitre": [
+  "Category:Chimney pots",
+  "Category:Chimney caps",
+  "Category:Chimneys"
+ ],
+ "edicule": [
+  "Category:Rooftop structures",
+  "Category:Roof structures",
+  "Category:Roofs"
+ ]
+}

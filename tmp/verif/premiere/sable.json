@@ -1,0 +1,53 @@
+{
+  "termId": "sable",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux tas, l'un de sable, l'autre de terre, sur un chantier routier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Royaume-Uni",
+      "note": "Tas de natures différentes, peu net."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photographie ancienne de 1903 de déchargement de sable au bord de la Seine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Photo ancienne annotée, pas lisible sur téléphone."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros tas de sable jaune de construction, grain fin et pelleté, mur de parpaings en arrière-plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matière granulaire fine remplissant l'image ; ne peut être pris pour gravier ou ciment."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand tas de sable devant une clôture, en bord de mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bournemouth, Royaume-Uni",
+      "note": "Tas lointain, moins lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Estampe ancienne d'un port avec voiliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tas de sable de construction à grain fin, surface striée, sol ocre en bas.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "État d'Anambra, Nigeria",
+      "note": "Tas de sable net et dominant, matière reconnaissable."
+    }
+  ]
+}

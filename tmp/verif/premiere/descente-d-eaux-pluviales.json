@@ -1,0 +1,63 @@
+{
+  "termId": "descente-d-eaux-pluviales",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tuyau de descente rouillé, percé, contre un mur de briques blanchies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Delft, Pays-Bas",
+      "note": "Tuyau en mauvais état, coupé en haut, peu clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Descente d'eaux pluviales noire fixée sur la façade d'un abri en bois, avec coude en haut et dauphin en pied.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.16,
+        "y": 0.07,
+        "largeur": 0.37,
+        "hauteur": 0.8
+      },
+      "lieu": "Trimingham, Norfolk, Royaume-Uni",
+      "note": "Descente verticale claire et dominante, cadrée de près."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même descente rouillée vue de plus près, avec plaques jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Delft, Pays-Bas",
+      "note": "Panneaux de signalisation visibles, tuyau abîmé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Descente fine et noire le long d'un mur d'église en silex.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Edingthorpe, Norfolk, Royaume-Uni",
+      "note": "Tuyau fin, peu contrasté dans un mur sombre, trop discret sur téléphone."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Descente carrée métallique avec boîte à eau en tête, le long d'un mur d'église en silex.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.45,
+        "y": 0.09,
+        "largeur": 0.14,
+        "hauteur": 0.9
+      },
+      "lieu": "Northrepps, Norfolk, Royaume-Uni",
+      "note": "Descente verticale nette en tête de boîte à eau (terme incompatible), bien lisible une fois encadrée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chaîne de pluie japonaise (ama-ochi) en forme de spirale, devant un temple.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fukuoka, Japon",
+      "note": "Chaîne de pluie, pas un tuyau ; confusion possible."
+    }
+  ]
+}

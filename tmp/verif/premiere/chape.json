@@ -1,0 +1,53 @@
+{
+  "termId": "chape",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sol béton brut avec gaines rouges dans une ossature bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chape coulée reconnaissable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pose d'un plancher chauffant à plots, tuyaux blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étape avant la chape : la chape n'est pas visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pose d'un plancher chauffant, ouvriers dans une pièce.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pose d'un plancher chauffant, rouleau de tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plancher chauffant posé sur panneaux à plots.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pose d'un plancher chauffant, ouvrier à genoux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape non visible."
+    }
+  ]
+}

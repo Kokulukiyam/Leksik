@@ -12,7 +12,11 @@
     ],
     "incompatibles": [
       "charpente",
-      "ferme"
+      "ferme",
+      "ferme-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Steel structures"
     ]
   },
   "candidats": [
@@ -127,6 +131,130 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781448349.jpg/1280px-Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781448349.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3024,
       "hauteur": 4032
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Arapuni steel lattice tower.JPG",
+      "description": "Steel lattice tower of the Arapuni Swing Bridge on the true left of the Waikato River.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W210",
+        "Arapuni Suspension Bridge",
+        "License migration redundant",
+        "Steel structures",
+        "Self-published work",
+        "Images by Schwede66",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Schwede66",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arapuni_steel_lattice_tower.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Arapuni_steel_lattice_tower.JPG/1280px-Arapuni_steel_lattice_tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Cutting & Lifting docking pile guide after pilling (3467346026).jpg",
+      "description": "Installation Subsea Template in Su Tu Vang Oil Field",
+      "categories": [
+        "Steel structures",
+        "Flickr images reviewed by FlickreviewR",
+        "Petroleum production in Vietnam"
+      ],
+      "auteur": "Vodka Hanoi",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cutting_%26_Lifting_docking_pile_guide_after_pilling_(3467346026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Cutting_%26_Lifting_docking_pile_guide_after_pilling_%283467346026%29.jpg/1280px-Cutting_%26_Lifting_docking_pile_guide_after_pilling_%283467346026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bytom Rozbark mine steel structure.jpg",
+      "description": "pozostałości zabudowy rejonu głównego Kopalni Węgla Kamiennego Rozbark (resztka estakady taśmociągu, który dostarczał węgiel do kotłowni), konstrukcja stalowa (ściany były wypełnione cegłą, widać pozostałości) obok maszynowni szybu Bończyk (fragment z lewej), Bytom-Rozbark, ul. Chorzowska, widok od ulicy Chorzowskiej. Wyjaśnienie p. Marka Lohera: „zainstalowany tam był przenośnik kubełkowy ze względu na mało miejsca i sporą różnicę wysokości. Otóż zrąb szybu Bończyk i jego budynek maszynowni - znajdowały się na poziomie bocznicy kolejowej, czyli kilka metrów niżej od terenu reszty zabudowy. Po",
+      "categories": [
+        "Rozbark coal mine",
+        "Steel structures",
+        "Self-published work",
+        "Ruins in Silesian Voivodeship",
+        "2019 in Bytom",
+        "Chorzowska Street in Bytom",
+        "Steel constructions",
+        "Images by Gower"
+      ],
+      "auteur": "Adrian Tync",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bytom_Rozbark_mine_steel_structure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bytom_Rozbark_mine_steel_structure.jpg/1280px-Bytom_Rozbark_mine_steel_structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3042,
+      "hauteur": 4563
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Forma y fondo; arte conceptual sin concepto. (3370269937).jpg",
+      "description": "Forma y fondo; arte conceptual sin concepto.",
+      "categories": [
+        "Steel structures",
+        "Flickr images reviewed by FlickreviewR",
+        "Red lines",
+        "Photographs by Carlos Adampol Galindo",
+        "Corona del Pedregal de Mathias Goeritz",
+        "Photographs of horizontal lines"
+      ],
+      "auteur": "Carlos Adampol Galindo from DF, México",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Forma_y_fondo;_arte_conceptual_sin_concepto._(3370269937).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Forma_y_fondo%3B_arte_conceptual_sin_concepto._%283370269937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 853
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Alice the Tunnel Boring Machine 1900 (10281221096) (3).jpg",
+      "description": "Waterview tunnel project (Mt Roskill end) open day. Boring machine and tunnel construction on view. 22,000 visits over the day. The Waterview Connection is a motorway section under construction through west/central Auckland, New Zealand. It is to connect the stub of State Highway 20 in the south from Mt Roskill to join up with another motorway, State Highway 16 in the west at Point Chevalier, and is a part of the Western Ring Route. It was formerly known as the SH20 Avondale extension. The Waterview link will be 4.5 km long, of which 2.5 km are to be in a mostly bored twin tunnel, with three l",
+      "categories": [
+        "Conveyor belts",
+        "Taken with Canon EOS 550D",
+        "Steel structures",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Media needing category review as of 21 March 2016",
+        "Construction cranes in New Zealand",
+        "Cherry pickers in New Zealand",
+        "Photographs by Noel Jones",
+        "Files with coordinates missing SDC location of creation",
+        "New Zealand photographs taken on 2013-10-13",
+        "Retaining walls in New Zealand",
+        "Steel buildings in New Zealand",
+        "Construction of the Waterview Connection"
+      ],
+      "auteur": "Noel Jones",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alice_the_Tunnel_Boring_Machine_1900_(10281221096)_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Alice_the_Tunnel_Boring_Machine_1900_%2810281221096%29_%283%29.jpg/1280px-Alice_the_Tunnel_Boring_Machine_1900_%2810281221096%29_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1067
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Fitness center.jpeg",
+      "description": "Front side of a fitness center in Noida",
+      "categories": [
+        "Steel structures",
+        "Self-published work",
+        "Apartment buildings in Uttar Pradesh",
+        "High-rises in Uttar Pradesh",
+        "Health clubs in India",
+        "Buildings in Noida"
+      ],
+      "auteur": "Abbasidaniyal",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fitness_center.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Fitness_center.jpeg/1280px-Fitness_center.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4800,
+      "hauteur": 2700
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

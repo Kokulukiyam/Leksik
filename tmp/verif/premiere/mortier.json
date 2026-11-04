@@ -1,0 +1,53 @@
+{
+  "termId": "mortier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Silo de mortier prêt à l'emploi devant des immeubles, marque visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nottingham, Royaume-Uni",
+      "note": "Silo avec texte de marque ; mortier non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tas de sable et ciment mélangé au sol, pelle plantée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut aussi illustrer sable ou ciment ; mortier non identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrier malaxant à la pelle un mélange sur le sol d'un couloir de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bassorah, Irak",
+      "note": "Matériau boueux, ambigu avec béton ou ciment."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gravure ancienne d'une ferme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin / imprimé ancien."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gravure ancienne d'une installation de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin / imprimé ancien."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Soldat nettoyant une bétonnière orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mortier non visible."
+    }
+  ]
+}

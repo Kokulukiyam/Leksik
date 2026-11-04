@@ -1,0 +1,53 @@
+{
+  "termId": "panne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sous-face d'une toiture de hall avec une grosse poutre métallique blanche diagonale et des pannes fines en acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pannes trop fines et confondues avec la poutre/fermes ; ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Halle de marché en charpente bois vue de face, avec nombreux éléments.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Trop d'éléments (poteaux, jambes de force, chevrons) ; la panne n'est pas isolable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvriers militaires posant des fermes et pièces de bois sur un toit en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tinian, Îles Mariannes du Nord",
+      "note": "Personnes au premier plan, pannes non identifiables clairement."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Noir et blanc : assemblage de bois dans un comble sous chaume, détail de faîtière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, détail de panne faîtière (terme incompatible mais lecture confuse), peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade de maison à pignon en bois, avec avancées de pannes sous le débord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bogen, Allemagne",
+      "note": "Pannes à peine visibles, sujet est la façade."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Charpente de grange en bois vue d'en dessous : arbalétriers, entraits et pièces transversales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maine, États-Unis",
+      "note": "Pannes et chevrons difficiles à distinguer sans doute ; risque de confusion avec arbalétrier/entrait."
+    }
+  ]
+}

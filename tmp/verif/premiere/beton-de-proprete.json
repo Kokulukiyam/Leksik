@@ -1,0 +1,37 @@
+{
+  "termId": "beton-de-proprete",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Poste de tuyauterie de gazoduc enneigé sur plots.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dübendorf",
+      "note": "Sans rapport avec le béton de propreté."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade d'une église en briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tonawanda, États-Unis",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plan technique ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, rejeté."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Peinture abstraite colorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, sans rapport."
+    }
+  ]
+}
