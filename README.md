@@ -17,6 +17,10 @@ npm run dev
 
 Puis ouvrir <http://localhost:3000> dans le navigateur.
 
+**Plus simple, sur Mac :** double-cliquer sur `Lancer Leksik.command`. Il installe ce qu'il faut la première fois,
+lance l'app et ouvre le jeu dans le navigateur. Fermer la fenêtre du Terminal arrête l'app.
+On peut le glisser dans le Dock (à droite du séparateur) pour l'avoir sous la main.
+
 ## Sur le téléphone
 
 Le téléphone doit être sur le même wifi que l'ordinateur.

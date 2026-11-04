@@ -27,3 +27,4 @@
 - Paires incompatibles (`INCOMPATIBLES` dans `lib/shared.ts`) : deux termes qu'une même photo pourrait illustrer (ex. pisé / banco, bandeau / corniche) ne sont jamais proposés ensemble ; si la catégorie n'a plus assez de mauvaises réponses, le jeu complète avec d'autres catégories.
 - Seconde recherche Commons (`--suite`, champ `requetes2`) faite seulement pour les termes abandonnés après la première ; six candidates de plus par terme, mêmes deux vérifications. La contre-vérification ne reçoit que les images pas encore jugées (lot `suite-1`).
 - Next : `turbopack.root` fixé au dossier du projet, pour qu'un `package-lock.json` d'un dossier parent ne soit pas pris pour la racine.
+- Lancement par double-clic : `Lancer Leksik.command` (macOS) lance `npm run dev` (installe d'abord si besoin), attend que le serveur réponde puis ouvre le navigateur ; si Leksik tourne déjà, il ouvre seulement le navigateur.
