@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Castell de Xivert, Espagne",
       "note": "Tapial à chaux décoré en imitation de pierre de taille, moellons dominants : confusion forte."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan d'un mur lisse beige aux couches horizontales légèrement marquées, avec un joint vertical et quelques épaufrures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eden Project, Royaume-Uni",
+      "note": "Surface très proche d'un béton brut/béton banché : confusion directe possible avec un terme de la même catégorie."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier : un ouvrier casqué tasse la terre au pisoir dans une banche en bois serrée par des clés, mur en pisé achevé à droite ; second ouvrier en bas, tas de tuiles à gauche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.35,
+        "y": 0.13,
+        "largeur": 0.63,
+        "hauteur": 0.52
+      },
+      "lieu": "Tarma, Junín, Pérou",
+      "note": "Mise en œuvre du pisé sans ambiguïté (banche, pisoir, mur à banchées visibles) ; rectangle pour exclure les tuiles et le terrassement."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Coupe d'un ancien rempart en terre montrant de très nombreuses couches horizontales fines et régulières de terre compactée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Xinzheng, Henan, Chine",
+      "note": "Couches de terre damée régulières occupant toute l'image, signature typique du pisé ; aucun autre élément concurrent."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Panneaux de mur lisses beige clair entre une poutre de couronnement en béton et un soubassement en pierre, sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sud-Sinaï, Égypte",
+      "note": "Aspect de béton coulé : couches non lisibles, confusion avec le béton brut."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Image satellite de La Nouvelle-Orléans et du lac Pontchartrain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Nouvelle-Orléans, États-Unis",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Planche de livre ancien en noir et blanc : excavation d'un canal avec ouvriers, légende imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reproduction imprimée avec texte, sans rapport avec le pisé."
     }
   ]
 }

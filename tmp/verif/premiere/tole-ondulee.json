@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Huwei, Taïwan",
       "note": "Vue de dessous sombre, ondulations non lisibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison enduite en cours de réfection : un couvreur sur la toiture en tôle ondulée rouillée, des tôles déposées au sol à droite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.66,
+        "y": 0.74,
+        "largeur": 0.34,
+        "hauteur": 0.23
+      },
+      "lieu": "Nigeria",
+      "note": "Tôles ondulées déposées au sol, ondulations et rouille très lisibles ; rectangle sur elles pour éviter toiture/couvreur/échelle."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Échoppe de restauration dont murs et toit sont en tôles ondulées colorées, avec plusieurs personnes au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Somaliland",
+      "note": "Tôle bien visible mais scène encombrée de personnes, et emploi en parois proche du bardage ; quota du terme atteint avec de meilleures images."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux cases en contre-jour sous des arbres, l'une couverte de tôle ondulée, l'autre de chaume, derrière des palissades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Séléki, Casamance, Sénégal",
+      "note": "Toiture en tôle petite, à contre-jour, masquée par les branches ; le chaume voisin crée une confusion."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photo noir et blanc d'une maison basse derrière des arbres et du linge étendu ; toit en tôle à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bissau, Guinée-Bissau",
+      "note": "Tôle presque entièrement cachée par le feuillage, noir et blanc peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carte postale ancienne d'une halle de marché à toit à deux pans, avec légende imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Farim, Guinée-Bissau",
+      "note": "Reproduction de carte postale avec texte ; matériau de couverture non lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue de marché animée en noir et blanc, toits en tôle au loin et parasols.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bissau, Guinée-Bissau",
+      "note": "Tôle secondaire et lointaine, scène dominée par la foule."
     }
   ]
 }

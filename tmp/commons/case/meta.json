@@ -1,13 +1,18 @@
 {
   "terme": {
     "id": "case",
-    "terme": "la case",
+    "terme": "la case ronde",
     "categorie": "Afrique de l'Ouest",
     "definition": "Habitation traditionnelle de plan circulaire, aux murs en terre et au toit conique de paille.",
     "requetes": [
       "case Sénégal village",
       "hut Senegal village thatched",
       "round hut thatched roof Africa"
+    ],
+    "requetes2": [
+      "round hut thatched roof Senegal",
+      "case ronde Sénégal",
+      "traditional round house thatched Mali village"
     ]
   },
   "candidats": [
@@ -126,6 +131,121 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/3_phot.%2C_deux_de_villages_du_S%C3%A9n%C3%A9gal%2C_une_de_l%27int%C3%A9rieur_du_poste_d%27Atar_%28Mauritanie%29%2C_don_1923_-_btv1b77022212_%283_of_3%29.jpg/1280px-3_phot.%2C_deux_de_villages_du_S%C3%A9n%C3%A9gal%2C_une_de_l%27int%C3%A9rieur_du_poste_d%27Atar_%28Mauritanie%29%2C_don_1923_-_btv1b77022212_%283_of_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1536,
       "hauteur": 966
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Habitation faite avec du grenier à Mbind-Sereer (Fissel) 16.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Thatched roofs in Senegal",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check"
+      ],
+      "auteur": "Kalamuh 045",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_16.jpg/1280px-Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Habitation faite avec du grenier à Mbind-Sereer (Fissel) 09.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Thatched roofs in Senegal",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check"
+      ],
+      "auteur": "Kalamuh 045",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_09.jpg/1280px-Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Habitation faite avec du grenier à Mbind-Sereer (Fissel) 20.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Thatched roofs in Senegal",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check"
+      ],
+      "auteur": "Kalamuh 045",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_20.jpg/1280px-Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Habitation faite avec du grenier à Mbind-Sereer (Fissel) 18.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Thatched roofs in Senegal",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check"
+      ],
+      "auteur": "Kalamuh 045",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_18.jpg/1280px-Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Habitation faite avec du grenier à Mbind-Sereer (Fissel) 21.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Thatched roofs in Senegal",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check"
+      ],
+      "auteur": "Kalamuh 045",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_21.jpg/1280px-Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Habitation faite avec du grenier à Mbind-Sereer (Fissel) 07.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Thatched roofs in Senegal",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check"
+      ],
+      "auteur": "Kalamuh 045",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_07.jpg/1280px-Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
     }
-  ]
+  ],
+  "suite": true
 }

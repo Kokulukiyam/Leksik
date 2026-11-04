@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Barcelone, Espagne",
       "note": "Façade en pierre, aucun bardage."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Détail de façade : lames de bois horizontales à recouvrement autour d'une fenêtre, encadrées de tôle ondulée en haut à droite et en soubassement, cuve ondulée à gauche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.125,
+        "y": 0.515,
+        "largeur": 0.805,
+        "hauteur": 0.245
+      },
+      "lieu": "Tasmanie, Australie",
+      "note": "Lames de bois fixées très nettes ; rectangle sur le bardage bois pour écarter la tôle ondulée voisine."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grande maison Queen Anne à pignon décoré, porche à colonnes, façade en clins peints beiges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buffalo, États-Unis",
+      "note": "Vue d'ensemble : les clins sont fins et peu lisibles sur téléphone, d'autres éléments (pignon, porche, colonnes) dominent."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maison jaune à tourelle, revêtue surtout de bardeaux, avec une partie en lames verticales blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buffalo, États-Unis",
+      "note": "Revêtement majoritairement en bardeaux ; vue d'ensemble où le bardage n'est pas dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Maison coloniale à clins gris, porte rouge, largement masquée par des arbres, voitures devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buffalo, États-Unis",
+      "note": "Façade en grande partie cachée, clins peu visibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison Queen Anne verte à tourelle et escalier de secours, clins verts et bardeaux dans les pignons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buffalo, États-Unis",
+      "note": "Clins présents mais fins, mélangés aux bardeaux et à de nombreux éléments ; trop peu lisible même encadré."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Maison Queen Anne à tourelle conique, panneau de rue « Woodward Ave », drapeau, haie au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buffalo, États-Unis",
+      "note": "Panneau de rue lisible, revêtements variés (bardeaux, clins) peu lisibles, bardage non dominant."
     }
   ]
 }

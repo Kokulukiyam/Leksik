@@ -3,10 +3,15 @@
     "id": "bandeau",
     "terme": "le bandeau",
     "categorie": "Ornement",
-    "definition": "Bande horizontale peu saillante, lisse ou moulurée, qui marque les niveaux d'une façade.",
+    "definition": "Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.",
     "requetes": [
       "deepcat:\"String courses\"",
       "string course facade"
+    ],
+    "requetes2": [
+      "string course brick facade",
+      "bandeau façade pierre",
+      "belt course stone building"
     ]
   },
   "candidats": [
@@ -148,6 +153,118 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Tenement_house%2C_1884_design._Karol_%C5%BBycho%C5%84%2C_5_Karmelicka_Street%2C_Krak%C3%B3w._Poland.jpg/1280px-Tenement_house%2C_1884_design._Karol_%C5%BBycho%C5%84%2C_5_Karmelicka_Street%2C_Krak%C3%B3w._Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 6000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Szymel & Helena Wileńscy tenement house, Łódź Sienkiewicza 49.jpg",
+      "description": "Szymel & Helena Wileńscy tenement house, Łódź Sienkiewicza 49",
+      "categories": [
+        "Tenement houses in Łódź",
+        "Sienkiewicza Street in Łódź",
+        "Self-published work",
+        "1 Komuny Paryskiej Square in Łódź"
+      ],
+      "auteur": "Zorro2212",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Szymel_%26_Helena_Wile%C5%84scy_tenement_house,_%C5%81%C3%B3d%C5%BA_Sienkiewicza_49.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Szymel_%26_Helena_Wile%C5%84scy_tenement_house%2C_%C5%81%C3%B3d%C5%BA_Sienkiewicza_49.jpg/1280px-Szymel_%26_Helena_Wile%C5%84scy_tenement_house%2C_%C5%81%C3%B3d%C5%BA_Sienkiewicza_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Telimena tenement house, 27 Krakowskie Przedmieście street, Warsaw, Poland.jpg",
+      "description": "Telimena tenement house, 27 Krakowskie Przedmieście street, Warsaw, Poland",
+      "categories": [
+        "Kestner Tenement House in Warsaw",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "April 2026 in Warsaw"
+      ],
+      "auteur": "Igor123121",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Telimena_tenement_house,_27_Krakowskie_Przedmie%C5%9Bcie_street,_Warsaw,_Poland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Telimena_tenement_house%2C_27_Krakowskie_Przedmie%C5%9Bcie_street%2C_Warsaw%2C_Poland.jpg/1280px-Telimena_tenement_house%2C_27_Krakowskie_Przedmie%C5%9Bcie_street%2C_Warsaw%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4205,
+      "hauteur": 2674
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Brick house in Quebec City.jpg",
+      "description": "The front of a red brick house numbered 28, a white panelled double door beside a window with drawn blinds, over a granite basement course, in winter. Quebec City, Quebec, Canada.",
+      "categories": [
+        "Houses in Quebec City",
+        "CC-Zero",
+        "Self-published work",
+        "28, rue Sainte-Famille",
+        "Media created with Nikon Z7ii provided by the Quebec WikiClub in 2021",
+        "Media created with Nikon Z7ii provided by the Quebec WikiClub",
+        "Doors in Quebec City",
+        "Windows in Quebec City",
+        "Doors by Wilfredor",
+        "Houses facades by Wilfredor",
+        "Windows by Wilfredor",
+        "Images of Canada by User:Wilfredor",
+        "Photographs of Quebec City by Wilfredor"
+      ],
+      "auteur": "Wilfredo Rafael Rodriguez Hernandez",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_house_in_Quebec_City.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Brick_house_in_Quebec_City.jpg/1280px-Brick_house_in_Quebec_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6792,
+      "hauteur": 5297
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Tenement house, 5 Bohaterów Getta Square, Podgórze, Kraków, Poland.jpg",
+      "description": "Tenement house, 5 Bohaterów Getta square, Podgórze, aerial view 2025, Kraków, Poland",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "December 2025 in Kraków",
+        "Aerial photographs of Kraków",
+        "User:Igor123121",
+        "5 Bohaterów Getta Square in Kraków"
+      ],
+      "auteur": "Igor123121",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tenement_house,_5_Bohater%C3%B3w_Getta_Square,_Podg%C3%B3rze,_Krak%C3%B3w,_Poland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Tenement_house%2C_5_Bohater%C3%B3w_Getta_Square%2C_Podg%C3%B3rze%2C_Krak%C3%B3w%2C_Poland.jpg/1280px-Tenement_house%2C_5_Bohater%C3%B3w_Getta_Square%2C_Podg%C3%B3rze%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3200,
+      "hauteur": 2398
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Lublin Konopnica tenement house 2018.jpg",
+      "description": "Konopnica tenement house in Lublin",
+      "categories": [
+        "Konopnica tenement house in Lublin",
+        "Self-published work"
+      ],
+      "auteur": "Fallaner",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lublin_Konopnica_tenement_house_2018.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Lublin_Konopnica_tenement_house_2018.jpg/1280px-Lublin_Konopnica_tenement_house_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Schlieffen Tenement House in Kołobrzeg, 2023.jpg",
+      "description": "Schlieffen Tenement House in Kołobrzeg, 2023",
+      "categories": [
+        "Schlieffens' tenement house in Kołobrzeg",
+        "Self-published work"
+      ],
+      "auteur": "Szczecinolog",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schlieffen_Tenement_House_in_Ko%C5%82obrzeg,_2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Schlieffen_Tenement_House_in_Ko%C5%82obrzeg%2C_2023.jpg/1280px-Schlieffen_Tenement_House_in_Ko%C5%82obrzeg%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
     }
-  ]
+  ],
+  "suite": true
 }

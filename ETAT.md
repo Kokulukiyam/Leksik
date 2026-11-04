@@ -15,31 +15,20 @@ Dernière mise à jour : 4 novembre 2026, ~21 h 30 UTC. Branche `claude/leksik`,
 
 ## À faire, dans l'ordre
 
-### 1. Test de bout en bout (obligatoire, SPEC.md)
+### 1. Test de bout en bout — FAIT (4 nov. 2026)
 
-Pas encore fait : il a été arrêté avant d'avoir produit quoi que ce soit. Prompt d'agent à utiliser :
-
-> Agent de test de bout en bout de Leksik. Lis SPEC.md (sections « Pages » et « Agent de test de bout en bout ») et CLAUDE.md.
-> Écris `tests/e2e.mjs`, un script Playwright pour 390×844 et 1280×860, avec le serveur sur http://localhost:3000. Il couvre :
-> - une partie complète dans « Toutes » et dans chaque catégorie, avec des réponses justes et fausses, l'écran de fin et « Revoir mes erreurs » ;
-> - aucune image cassée ni `refusée` en partie (en créer une `refusée` pour le test) ;
-> - 4 mots distincts, la bonne réponse toujours présente, le vert et le rouge, la définition, le crédit ;
-> - `/ajouter` avec un terme existant puis un nouveau terme, avec et sans rectangle, et la suggestion « menau » → « le meneau » ;
->   vérifier data/*.json et public/images/perso/ (WebP de 1600 px de large au maximum) ;
-> - `/gerer` : filtres, modification du terme et du rectangle, refus, suppression ;
-> - aucune erreur dans la console ni dans le log du serveur.
->
-> Le script sauvegarde data/*.json au début et remet tout en état à la fin. Corrige les bugs et relance jusqu'à zéro erreur.
-
-Si Playwright manque : `npm i -D playwright && npx playwright install chromium`, et noter ce choix dans DECISIONS.md.
+`tests/e2e.mjs` (Playwright) : lancer `npm run dev > tmp/e2e-server.log 2>&1`, puis `npm run e2e` dans un autre terminal.
+Dernier résultat : 3951 vérifications réussies, 0 échouée, deux exécutions consécutives, 390×844 et 1280×860. Aucun bug trouvé dans l'app.
+À relancer après toute modification de l'app ou du contenu (et après `integrer.mjs`, jamais pendant).
 
 ### 2. Seconde recherche d'images (facultative)
 
 Elle vise les termes qui ont un champ `requetes2` dans `scripts/termes-candidats.json`.
 
-- **Termes déjà téléchargés** (candidates 07+, `"suite": true` dans le `meta.json`) : piedroit, chambranle, balcon.
-  Leur première vérification a été **interrompue** : compléter les entrées 07+ manquantes dans `tmp/verif/premiere/<id>.json`,
-  sans toucher aux entrées 01–06.
+- **piedroit, chambranle, balcon** : candidates 07–12 téléchargées et première vérification faite (piedroit 12, balcon 11 et 12 validées).
+- **acrotere, croupe, souche-de-cheminee, corbeau, bandeau, console, tole-ondulee, bardage, pise, banco, case** : candidates 07–12
+  téléchargées le 4 nov. ; première vérification en cours.
+- Les autres termes ayant `requetes2` sont déjà illustrés : pas de seconde recherche prévue pour eux.
 - **Termes restants** : `node scripts/commons.mjs --suite`. Les termes déjà faits sont sautés. Derrière un proxy, ajouter `NODE_USE_ENV_PROXY=1`.
   L'API Commons est lente (2 à 5 min par terme).
 - **Ensuite, pour chaque lot :**

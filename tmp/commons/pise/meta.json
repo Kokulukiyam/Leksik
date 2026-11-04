@@ -3,11 +3,16 @@
     "id": "pise",
     "terme": "le pisé",
     "categorie": "Matériaux et revêtements",
-    "definition": "Mur en terre crue compactée par couches successives dans un coffrage.",
+    "definition": "Terre crue compactée par couches successives dans un coffrage pour former des murs massifs.",
     "requetes": [
       "incategory:\"Rammed earth\"",
       "pisé mur",
       "rammed earth wall"
+    ],
+    "requetes2": [
+      "rammed earth wall layers",
+      "mur en pisé couches",
+      "rammed earth building"
     ]
   },
   "candidats": [
@@ -135,6 +140,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Castillo_de_Xivert_Muro_de_Alafia.JPG/1280px-Castillo_de_Xivert_Muro_de_Alafia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4752,
       "hauteur": 3168
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Rammed earth wall surface.jpg",
+      "description": "",
+      "categories": [
+        "Rammed earth",
+        "Eden Project",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Media missing infobox template",
+        "Self-published work",
+        "Pictures by Solipsist"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rammed_earth_wall_surface.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rammed_earth_wall_surface.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 900,
+      "hauteur": 1248
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:PiseP1010653mod.jpg",
+      "description": "Construction d'un mur en pisé dans l'Hacienda Santa Maria, Tarma, Junin, Pérou.",
+      "categories": [
+        "Self-published work",
+        "Rammed earth buildings",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "JYB Devot",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PiseP1010653mod.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/PiseP1010653mod.jpg/1280px-PiseP1010653mod.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1875,
+      "hauteur": 2388
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Xinzheng Ancient City Wall of Rammed Earth, Eastern Zhou, c. 770-230 BC.jpg",
+      "description": "Roadcut shows yearly layers of rammed earth. Xinzheng City, Henan Province. Complete indexed photo collection at WorldHistoryPics.com.",
+      "categories": [
+        "City walls in China",
+        "Defensive walls in China",
+        "CC-Zero",
+        "Warring States Period",
+        "Site of Capital of Kingdom Zheng and Han",
+        "Defensive walls",
+        "City walls",
+        "Xinzheng",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Zheng (state)",
+        "City wall of Xinzheng"
+      ],
+      "auteur": "Gary Todd",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Xinzheng_Ancient_City_Wall_of_Rammed_Earth,_Eastern_Zhou,_c._770-230_BC.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Xinzheng_Ancient_City_Wall_of_Rammed_Earth%2C_Eastern_Zhou%2C_c._770-230_BC.jpg/1280px-Xinzheng_Ancient_City_Wall_of_Rammed_Earth%2C_Eastern_Zhou%2C_c._770-230_BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Rammed Earth Under Construction.JPG",
+      "description": "Photo of rammed earth under construction site, showing how panels arrangement works Building: Center of Building Crafts, South Sinai, Egypt",
+      "categories": [
+        "Taken with Sony DSC-S730",
+        "Rammed earth",
+        "Files with no machine-readable source",
+        "Sinai Peninsula",
+        "Self-published work",
+        "Assumed own work",
+        "Photographs taken on 2008-03-02"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Moshirah (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rammed_Earth_Under_Construction.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Rammed_Earth_Under_Construction.JPG/1280px-Rammed_Earth_Under_Construction.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:New Orleans, Louisiana (5637745193).jpg",
+      "description": "On Sunday, February 3, roughly 800 million eyes from all over the world focused on the Louisiana Superdome in New Orleans as the New England Patriots battled the St. Louis Rams for the NFL Championship in Super Bowl XXXVI. This true color image of New Orleans was acquired on April 26, 2000, by the Enhanced Thematic Mapper plus (ETM+), flying aboard the Landsat 7 satellite. Lake Pontchartrain borders the city to the north. The big river winding its way east to west through the image is the Mississippi. The Louisiana Superdome, built in 1975, sits just inside the rightmost portion of the big riv",
+      "categories": [
+        "Satellite pictures of New Orleans",
+        "2000 in New Orleans",
+        "April 2000 in Louisiana",
+        "2000 in Saint Tammany Parish, Louisiana",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Satellite pictures of Lake Pontchartrain",
+        "Files from NASA Goddard Space Flight Center Flickr stream"
+      ],
+      "auteur": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:New_Orleans,_Louisiana_(5637745193).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/New_Orleans%2C_Louisiana_%285637745193%29.jpg/1280px-New_Orleans%2C_Louisiana_%285637745193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3286,
+      "hauteur": 2465
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Factory and industrial management (1891) (14784105613).jpg",
+      "description": "Identifier : factoryindustria15newy ( find matches ) Title : Factory and industrial management Year : 1891 ( 1890s ) Authors : Subjects : Engineering Factory management Industrial efficiency Publisher : New York (etc.) McGraw-Hill (etc.) Contributing Library : Engineering - University of Toronto Digitizing Sponsor : University of Toronto View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: t is necessary, of ",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 11 October 2015",
+        "Engineering Magazine, 1898"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Factory_and_industrial_management_(1891)_(14784105613).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Factory_and_industrial_management_%281891%29_%2814784105613%29.jpg/1280px-Factory_and_industrial_management_%281891%29_%2814784105613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3328,
+      "hauteur": 2546
     }
-  ]
+  ],
+  "suite": true
 }

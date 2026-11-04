@@ -3,10 +3,15 @@
     "id": "acrotere",
     "terme": "l'acrotère",
     "categorie": "Toitures",
-    "definition": "Muret qui borde une toiture-terrasse et en dépasse le niveau.",
+    "definition": "Muret en rive d'une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l'étanchéité.",
     "requetes": [
       "acrotère toiture terrasse",
       "flat roof parapet modern building"
+    ],
+    "requetes2": [
+      "parapet flat roof building",
+      "toiture-terrasse acrotère",
+      "modernist building flat roof parapet"
     ]
   },
   "candidats": [
@@ -123,6 +128,108 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/First_Wisconsin_Plaza_%28US_Bank_Plaza%29%2C_Pinckney_Street_and_Washington_Avenue%2C_Madison%2C_WI_%2852734146479%29.jpg/1280px-First_Wisconsin_Plaza_%28US_Bank_Plaza%29%2C_Pinckney_Street_and_Washington_Avenue%2C_Madison%2C_WI_%2852734146479%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2834,
       "hauteur": 3779
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:City Building 1209 Williams St Great Bend Central Business District Barton Co KS.jpg",
+      "description": "This one-story office building is rectangular in form with a flat roof and parapet that steps down toward the rear. The building is stuccoed. The upper half of the front façade is covered in metal sheeting and has lettering reading: “CITY BUILDING.\"",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Great Bend Central Business District"
+      ],
+      "auteur": "SharonPapierdreams",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:City_Building_1209_Williams_St_Great_Bend_Central_Business_District_Barton_Co_KS.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/City_Building_1209_Williams_St_Great_Bend_Central_Business_District_Barton_Co_KS.jpg/1280px-City_Building_1209_Williams_St_Great_Bend_Central_Business_District_Barton_Co_KS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1291
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Nimock’s Building 1413 Main St Great Bend Central Business District Barton Co KS.jpg",
+      "description": "This two-story, brick commercial block features a flat roof with parapet. An elaborate cornice features brackets, dentils, and a sawtooth trim.",
+      "categories": [
+        "Self-published work",
+        "Great Bend Central Business District"
+      ],
+      "auteur": "SharonPapierdreams",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nimock%E2%80%99s_Building_1413_Main_St_Great_Bend_Central_Business_District_Barton_Co_KS.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Nimock%E2%80%99s_Building_1413_Main_St_Great_Bend_Central_Business_District_Barton_Co_KS.jpg/1280px-Nimock%E2%80%99s_Building_1413_Main_St_Great_Bend_Central_Business_District_Barton_Co_KS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2595,
+      "hauteur": 3892
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:East Lawrence Industrial Historic District Douglas Co KS 846 Pennsylvania St oil storage-distribution building.jpg",
+      "description": "The northern two-thirds of the brick oil storage distribution building is one story tall and has a flat roof with parapet walls at the north and west elevations.",
+      "categories": [
+        "National Register of Historic Places in Douglas County, Kansas",
+        "Historic districts on the National Register of Historic Places in Kansas",
+        "Self-published work",
+        "Buildings in Lawrence, Kansas",
+        "East Lawrence Industrial Historic District"
+      ],
+      "auteur": "SharonPapierdreams",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:East_Lawrence_Industrial_Historic_District_Douglas_Co_KS_846_Pennsylvania_St_oil_storage-distribution_building.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/East_Lawrence_Industrial_Historic_District_Douglas_Co_KS_846_Pennsylvania_St_oil_storage-distribution_building.jpg/1280px-East_Lawrence_Industrial_Historic_District_Douglas_Co_KS_846_Pennsylvania_St_oil_storage-distribution_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3101,
+      "hauteur": 2067
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:14. 811 5th St Clay Center Downtown Historic District KS.jpg",
+      "description": "This is a rectangular two-story brick masonry building with a flat roof and parapet.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Clay Center Downtown Historic District"
+      ],
+      "auteur": "SharonPapierdreams",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:14._811_5th_St_Clay_Center_Downtown_Historic_District_KS.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/14._811_5th_St_Clay_Center_Downtown_Historic_District_KS.jpg/1280px-14._811_5th_St_Clay_Center_Downtown_Historic_District_KS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3625,
+      "hauteur": 2417
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Model Laundry, Galveston.jpg",
+      "description": "Two-story reinforced concrete commercial structure with brick and tile facing; square shape with flat roof; shaped parapets define corners; facades divided into sections by groupings of 3 windows or 3 doors (latter on lower level) with flat pilasters; openings divided into smaller, usually vertical, panes; corbeling along roofline; contrasting tile brick frame openings; colored diamond- and square shaped tiles used as decoration; attached canopy on east facade; later rear addition of yellow brick also has slight variation in window treatment. Significance: Building represents type of later com",
+      "categories": [
+        "Buildings in Galveston, Texas",
+        "National Register of Historic Places in Galveston County, Texas",
+        "Commercial buildings on the National Register of Historic Places in Texas",
+        "Self-published work",
+        "Model Laundry (Galveston)",
+        "National Register of Historic Places with known IDs"
+      ],
+      "auteur": "Jim Evans",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Model_Laundry,_Galveston.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Model_Laundry%2C_Galveston.jpg/1280px-Model_Laundry%2C_Galveston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2775,
+      "hauteur": 1527
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Jewelry Store 206 Forest Ave Great Bend Central Business District Barton Co KS.jpg",
+      "description": "This two-story, brick commercial building is rectangular in form with a flat roof and parapet. The parapet features an elaborate corbelled brick cornice that protrudes slightly and features brackets and multiple bands of dentils.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "A.S. Allen Buildings",
+        "Great Bend Central Business District"
+      ],
+      "auteur": "SharonPapierdreams",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jewelry_Store_206_Forest_Ave_Great_Bend_Central_Business_District_Barton_Co_KS.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Jewelry_Store_206_Forest_Ave_Great_Bend_Central_Business_District_Barton_Co_KS.jpg/1280px-Jewelry_Store_206_Forest_Ave_Great_Bend_Central_Business_District_Barton_Co_KS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2200,
+      "hauteur": 3300
     }
-  ]
+  ],
+  "suite": true
 }

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Lituanie",
       "note": "Hors sujet : canal lituanien (homonymie), pas de banco."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cour dogon : murs épais enduits de terre lissée à la main, mur de briques de terre crue apparentes au fond, échelle dogon et table au premier plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Teli, pays dogon, Mali",
+      "note": "Enduit de banco et briques crues lisibles et dominants ; aucun autre matériau ou terme concurrent."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Construction d'une maison ronde en briques de terre séchée, ouvriers et piles de briques autour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boromo, Burkina Faso",
+      "note": "Bâtiment rond en chantier : confusion avec la case ronde ; briques assez petites et proches d'une brique ordinaire sur téléphone."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ruines de murs en briques crues sur le sable devant une grande maison à étage de Tombouctou, tente de nattes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tombouctou, Mali",
+      "note": "Matériau peu lisible, contre-jour terne, scène confuse."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Aire de séchage de briques de terre crue devant des maisons en terre, homme avec deux ânes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tombouctou, Mali",
+      "note": "Briques au séchage petites et lointaines, peu lisibles sur téléphone."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vue plongeante sur les toits-terrasses en terre de Djenné, arbre, hutte de paille sur une terrasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djenné, Mali",
+      "note": "Banco partout mais aucun élément dominant ; la hutte de paille et l'ensemble urbain brouillent la lecture."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Murets de gros blocs de terre crue modelés au premier plan, murets de briques de terre et grenier enduit hérissé de bois au fond, falaise de Bandiagara.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.7,
+        "largeur": 1.0,
+        "hauteur": 0.3
+      },
+      "lieu": "Teli, pays dogon, Mali",
+      "note": "Blocs de banco moulés très lisibles au premier plan ; rectangle pour écarter le grenier aux pièces de bois saillantes (confusion toron/grenier)."
     }
   ]
 }

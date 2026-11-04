@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Sénégal",
       "note": "Cases minuscules et floues ; annotation manuscrite « un village noir »."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux toits coniques de chaume derrière une palissade de tiges et un arbre au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mbind-Sereer (Fissel), Sénégal",
+      "note": "Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »)."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Toit conique de chaume au-dessus d'une palissade de tiges ; seul un mince bandeau de mur ocre est visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mbind-Sereer (Fissel), Sénégal",
+      "note": "Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »)."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux toits coniques de chaume derrière une palissade de tiges et une haie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mbind-Sereer (Fissel), Sénégal",
+      "note": "Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »)."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Toit conique de chaume à contre-jour derrière des palissades de tiges et un arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mbind-Sereer (Fissel), Sénégal",
+      "note": "Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »)."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Toit conique de chaume au-dessus d'une palissade de tiges, haies au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mbind-Sereer (Fissel), Sénégal",
+      "note": "Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »)."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Toit conique de chaume au-dessus d'une haute palissade de tiges sur muret.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mbind-Sereer (Fissel), Sénégal",
+      "note": "Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »)."
     }
   ]
 }

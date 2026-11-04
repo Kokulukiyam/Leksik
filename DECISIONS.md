@@ -1,7 +1,7 @@
 # Décisions prises en autonomie
 
 - Next.js 16 (App Router) + React 19 + Tailwind 4 ; TypeScript 5 (TypeScript 7 n'est pas encore pris en charge par Next).
-- Pas d'ESLint ni de framework de test dans le projet, pour limiter les dépendances ; les tests de bout en bout utilisent le Playwright déjà installé sur la machine de développement.
+- Pas d'ESLint ni de framework de test dans le projet, pour limiter les dépendances. Seul `playwright` (bibliothèque, sans `@playwright/test`) est ajouté en dépendance de développement pour le test de bout en bout `tests/e2e.mjs` (`npx playwright install chromium` une fois).
 - `sharp` est la seule dépendance ajoutée : redimensionnement en WebP (largeur max 1600 px) côté serveur, ce qui marche aussi avec les photos de téléphone (Safari ne sait pas encoder le WebP dans un canvas).
 - Module d'accès aux données : `lib/data.ts` (lecture/écriture des JSON et des fichiers image). `lib/shared.ts` ne contient que les types et des fonctions pures utilisables dans le navigateur.
 - Les écritures JSON sont sérialisées et atomiques (fichier temporaire puis renommage) pour éviter de corrompre les fichiers.
@@ -22,3 +22,4 @@
 - Les images rejetées par l'une des deux vérifications ne sont pas copiées dans le projet et n'apparaissent pas dans `images.json` ; elles sont documentées dans `VERIFICATION.md`.
 - `terms.json` ne contient que les termes illustrés par au moins une image retenue (plus ceux créés depuis Ajouter).
 - Les outils de vérification visuelle (`scripts/verif/outils.py`, planches et rectangles dessinés) utilisent Python/Pillow ; ils ne servent qu'à la préparation du contenu, pas à l'app.
+- Test de bout en bout : `npm run e2e` (`tests/e2e.mjs`) suppose le serveur déjà lancé avec son log dans `tmp/e2e-server.log` ; il passe temporairement `toguna-03` en `refusée`, crée ses photos de test avec sharp et remet `data/` et `public/images/perso/` en état à la fin.

@@ -8,6 +8,11 @@
       "corrugated iron roof",
       "corrugated metal sheet roof",
       "tôle ondulée"
+    ],
+    "requetes2": [
+      "corrugated iron roof Africa",
+      "corrugated galvanized iron sheet",
+      "tôle ondulée toit"
     ]
   },
   "candidats": [
@@ -137,6 +142,134 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Corrugated_iron_roofs_of_Taisi_Bus_Huwei_Station.jpg/1280px-Corrugated_iron_roofs_of_Taisi_Bus_Huwei_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1616,
       "hauteur": 1080
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Roofer.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Buildings in Nigeria",
+        "Roofers",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2017",
+        "Men at work in Nigeria",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2017 in Nigeria",
+        "Corrugated iron roofs"
+      ],
+      "auteur": "Shigod",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roofer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Roofer.jpg/1280px-Roofer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:ASC Leiden - van de Bruinhorst Collection - Somaliland 2019 - 4462 - A food stall run by women in pink and purple shawls with children under a roof of corrugated iron.jpg",
+      "description": "A food stall run by women in pink and purple shawls with children under a roof of corrugated iron.",
+      "categories": [
+        "Images from the African Studies Centre (Leiden)",
+        "Uploaded with pattypan",
+        "Items with VRTS permission confirmed",
+        "Food stalls",
+        "Images which had their watermark removed",
+        "Somaliland 2019 (van de Bruinhorst Collection)",
+        "Images donated by Gerard van de Bruinhorst"
+      ],
+      "auteur": "Gerard C. van de Bruinhorst",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_de_Bruinhorst_Collection_-_Somaliland_2019_-_4462_-_A_food_stall_run_by_women_in_pink_and_purple_shawls_with_children_under_a_roof_of_corrugated_iron.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/ASC_Leiden_-_van_de_Bruinhorst_Collection_-_Somaliland_2019_-_4462_-_A_food_stall_run_by_women_in_pink_and_purple_shawls_with_children_under_a_roof_of_corrugated_iron.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Séléki-Houses.JPG",
+      "description": "Cases à Séléki (Casamance, Sénégal), celle de gauche avec un toit en tôle, celle de droite avec un toit en chaume",
+      "categories": [
+        "Taken with Nikon Coolpix S500",
+        "Séléki",
+        "Huts in Africa",
+        "Self-published work",
+        "PD-self",
+        "Houses in Senegal",
+        "January 2008 in Senegal",
+        "Thatched roofs in Senegal",
+        "Corrugated iron roofs"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:S%C3%A9l%C3%A9ki-Houses.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/S%C3%A9l%C3%A9ki-Houses.JPG/1280px-S%C3%A9l%C3%A9ki-Houses.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bissau (19362097179).jpg",
+      "description": "Bissau town Guiné-Bissau Africa",
+      "categories": [
+        "Bissau",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2015 in Bissau",
+        "Clothes lines in Guinea-Bissau",
+        "Corrugated iron roofs in Guinea-Bissau",
+        "Files uploaded as part of the Wikimedia Portugal - Guinea-Bissau project"
+      ],
+      "auteur": "Barnabe Freixo",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bissau_(19362097179).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bissau_%2819362097179%29.jpg/1280px-Bissau_%2819362097179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:JRD - 13. Guiné Portuguesa – Farim – O mercado.jpg",
+      "description": "Postal da Guiné-Bissau",
+      "categories": [
+        "Uploaded with pattypan",
+        "PD-old-100-expired",
+        "Markets in Guinea-Bissau",
+        "CC-PD-Mark",
+        "Rain gutters in Portugal",
+        "Corrugated iron roofs in Guinea-Bissau",
+        "PD-old missing SDC copyright status",
+        "History of Farim (Guinea-Bissau)",
+        "Jill Rosemary Dias Collection",
+        "D. A. Longuet postcards of Portuguese Guinea"
+      ],
+      "auteur": "unknown/unstated at the source",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:JRD_-_13._Guin%C3%A9_Portuguesa_%E2%80%93_Farim_%E2%80%93_O_mercado.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/JRD_-_13._Guin%C3%A9_Portuguesa_%E2%80%93_Farim_%E2%80%93_O_mercado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 960,
+      "hauteur": 626
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bissau life (19361784259).jpg",
+      "description": "Bissau town Guiné-Bissau Africa",
+      "categories": [
+        "Headcarrying in Guinea-Bissau",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2015 in Bissau",
+        "Streets in Bissau",
+        "Clothes lines in Guinea-Bissau",
+        "Corrugated iron roofs in Guinea-Bissau",
+        "Street markets in Bissau",
+        "Files uploaded as part of the Wikimedia Portugal - Guinea-Bissau project"
+      ],
+      "auteur": "Barnabe Freixo",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bissau_life_(19361784259).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Bissau_life_%2819361784259%29.jpg/1280px-Bissau_life_%2819361784259%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true
 }
