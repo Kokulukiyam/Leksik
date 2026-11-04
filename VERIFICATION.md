@@ -7,28 +7,18 @@ Chaque image candidate venue de Wikimedia Commons a été examinée deux fois :
 
 Une image n'est retenue que si les deux vérifications la valident.
 
-Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faute d'image fiable.
+Résultat : 66 termes illustrés, 110 images retenues, 4 termes abandonnés faute d'image fiable.
 
 ## Termes abandonnés
 
-- le piédroit (Façade et ouvertures)
 - le chambranle (Façade et ouvertures)
-- le balcon (Façade et ouvertures)
-- l'acrotère (Toitures)
 - la croupe (Toitures)
-- la souche de cheminée (Toitures)
-- le corbeau (Structure)
-- le bandeau (Ornement)
 - la console (Ornement)
-- la tôle ondulée (Matériaux et revêtements)
-- le bardage (Matériaux et revêtements)
-- le pisé (Matériaux et revêtements)
-- le banco (Afrique de l'Ouest)
 - la case ronde (Afrique de l'Ouest)
 
 ## Afrique de l'Ouest
 
-### le banco — abandonné
+### le banco — 2 images retenues
 
 *Terre argileuse mêlée de paille, moulée en briques ou appliquée en enduit dans la construction traditionnelle.*
 
@@ -56,6 +46,30 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vu : Canal rectiligne bordé de bouleaux sous un ciel bleu.
   - Vérification : rejetée — Hors sujet : canal lituanien (homonymie), pas de banco.
   - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [ASC Leiden - van Achterberg Collection - 06 - 17 - La cour de la maison d'hôtes avec trois figurines humaine - Teli, pays Dogon, Mali - Nov.-déc. 1983.jpg](https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_06_-_17_-_La_cour_de_la_maison_d%27h%C3%B4tes_avec_trois_figurines_humaine_-_Teli,_pays_Dogon,_Mali_-_Nov.-d%C3%A9c._1983.jpg)
+  - Vu : Cour dogon : murs épais enduits de terre lissée à la main, mur de briques de terre crue apparentes au fond, échelle dogon et table au premier plan.
+  - Vérification : validée — Enduit de banco et briques crues lisibles et dominants ; aucun autre matériau ou terme concurrent.
+  - Contre-vérification : d'accord — Photo réelle d'une cour dogon : murs enduits de terre et mur de briques de terre, le banco domine l'image ; aucun édifice type toguna ou grenier n'est au premier plan.
+- **Rejetée** — [Constructoin d'une maison en brique de terre séchée.jpg](https://commons.wikimedia.org/wiki/File:Constructoin_d%27une_maison_en_brique_de_terre_s%C3%A9ch%C3%A9e.jpg)
+  - Vu : Construction d'une maison ronde en briques de terre séchée, ouvriers et piles de briques autour.
+  - Vérification : rejetée — Bâtiment rond en chantier : confusion avec la case ronde ; briques assez petites et proches d'une brique ordinaire sur téléphone.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [ASC Leiden - van Achterberg Collection - 05 - 47 - Une tente de nattes près des maisons - Tombouctou, Mali - Novembre-décembre 1993.jpg](https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_47_-_Une_tente_de_nattes_pr%C3%A8s_des_maisons_-_Tombouctou,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg)
+  - Vu : Ruines de murs en briques crues sur le sable devant une grande maison à étage de Tombouctou, tente de nattes.
+  - Vérification : rejetée — Matériau peu lisible, contre-jour terne, scène confuse.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [ASC Leiden - van Achterberg Collection - 05 - 23 - Une plaine de sable près des murs de Tombouctou - Tombouctou, Mali - Novembre-décembre 1993.jpg](https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_23_-_Une_plaine_de_sable_pr%C3%A8s_des_murs_de_Tombouctou_-_Tombouctou,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg)
+  - Vu : Aire de séchage de briques de terre crue devant des maisons en terre, homme avec deux ânes.
+  - Vérification : rejetée — Briques au séchage petites et lointaines, peu lisibles sur téléphone.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [ASC Leiden - van Achterberg Collection - 05 - 82 - Un aperçu des toits d'un quartier de maisons basses - Djenné, Mali - Novembre-décembre 1993.jpg](https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_82_-_Un_aper%C3%A7u_des_toits_d%27un_quartier_de_maisons_basses_-_Djenn%C3%A9,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg)
+  - Vu : Vue plongeante sur les toits-terrasses en terre de Djenné, arbre, hutte de paille sur une terrasse.
+  - Vérification : rejetée — Banco partout mais aucun élément dominant ; la hutte de paille et l'ensemble urbain brouillent la lecture.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [ASC Leiden - van Achterberg Collection - 06 - 25 - Cinq entrepôts derrière des murs bas en briques crues - Teli, pays Dogon, Mali - Nov.-déc. 1983.jpg](https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_06_-_25_-_Cinq_entrep%C3%B4ts_derri%C3%A8re_des_murs_bas_en_briques_crues_-_Teli,_pays_Dogon,_Mali_-_Nov.-d%C3%A9c._1983.jpg)
+  - Vu : Murets de gros blocs de terre crue modelés au premier plan, murets de briques de terre et grenier enduit hérissé de bois au fond, falaise de Bandiagara.
+  - Vérification : validée (avec rectangle) — Blocs de banco moulés très lisibles au premier plan ; rectangle pour écarter le grenier aux pièces de bois saillantes (confusion toron/grenier).
+  - Contre-vérification : d'accord — Le rectangle cadre de près un mur en briques de terre moulées, matériau banco très lisible.
 
 ### le toron — 2 images retenues
 
@@ -200,6 +214,30 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
 - **Rejetée** — [3 phot., deux de villages du Sénégal, une de l'intérieur du poste d'Atar (Mauritanie), don 1923 - btv1b77022212 (3 of 3).jpg](https://commons.wikimedia.org/wiki/File:3_phot.,_deux_de_villages_du_S%C3%A9n%C3%A9gal,_une_de_l%27int%C3%A9rieur_du_poste_d%27Atar_(Mauritanie),_don_1923_-_btv1b77022212_(3_of_3).jpg)
   - Vu : Tirage ancien flou d'une place de village avec rôniers, quelques toits coniques au loin, annotations manuscrites et réglette.
   - Vérification : rejetée — Cases minuscules et floues ; annotation manuscrite « un village noir ».
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Habitation faite avec du grenier à Mbind-Sereer (Fissel) 16.jpg](https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_16.jpg)
+  - Vu : Deux toits coniques de chaume derrière une palissade de tiges et un arbre au premier plan.
+  - Vérification : rejetée — Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »).
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Habitation faite avec du grenier à Mbind-Sereer (Fissel) 09.jpg](https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_09.jpg)
+  - Vu : Toit conique de chaume au-dessus d'une palissade de tiges ; seul un mince bandeau de mur ocre est visible.
+  - Vérification : rejetée — Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »).
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Habitation faite avec du grenier à Mbind-Sereer (Fissel) 20.jpg](https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_20.jpg)
+  - Vu : Deux toits coniques de chaume derrière une palissade de tiges et une haie.
+  - Vérification : rejetée — Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »).
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Habitation faite avec du grenier à Mbind-Sereer (Fissel) 18.jpg](https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_18.jpg)
+  - Vu : Toit conique de chaume à contre-jour derrière des palissades de tiges et un arbre.
+  - Vérification : rejetée — Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »).
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Habitation faite avec du grenier à Mbind-Sereer (Fissel) 21.jpg](https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_21.jpg)
+  - Vu : Toit conique de chaume au-dessus d'une palissade de tiges, haies au premier plan.
+  - Vérification : rejetée — Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »).
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Habitation faite avec du grenier à Mbind-Sereer (Fissel) 07.jpg](https://commons.wikimedia.org/wiki/File:Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_(Fissel)_07.jpg)
+  - Vu : Toit conique de chaume au-dessus d'une haute palissade de tiges sur muret.
+  - Vérification : rejetée — Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ## Façade et ouvertures
@@ -353,7 +391,7 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vérification : rejetée — Trumeau trop petit dans l'image ; doublon de 01.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le piédroit — abandonné
+### le piédroit — 1 image retenue
 
 *Montant vertical de maçonnerie qui forme le côté d'une baie et porte le linteau ou l'arc.*
 
@@ -401,10 +439,10 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vu : Gros plan d'une tête barbue sculptée en pierre au sommet d'un montant, mur jaune derrière.
   - Vérification : rejetée — Détail sculpté (tête) ; le piédroit n'est pas identifiable.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Mittelheim-Langhaus Giebelseite West-Romanisches Portal mit abgetrepptem Gewände-06042012.JPG](https://commons.wikimedia.org/wiki/File:Mittelheim-Langhaus_Giebelseite_West-Romanisches_Portal_mit_abgetrepptem_Gew%C3%A4nde-06042012.JPG)
+- **Retenue** — [Mittelheim-Langhaus Giebelseite West-Romanisches Portal mit abgetrepptem Gewände-06042012.JPG](https://commons.wikimedia.org/wiki/File:Mittelheim-Langhaus_Giebelseite_West-Romanisches_Portal_mit_abgetrepptem_Gew%C3%A4nde-06042012.JPG)
   - Vu : Portail roman en plein cintre d'une église en moellons, à claveaux alternés rouges et blancs, tympan nu, porte en bois à pentures, ébrasement à ressauts avec colonnettes.
   - Vérification : validée (avec rectangle) — Photo nette et frontale ; le rectangle isole le montant droit de la baie (avec ses ressauts) qui porte l'arc et le linteau du tympan.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Portail roman : le rectangle désigne le montant droit de la baie (avec sa colonnette engagée) qui porte l'arc, c'est bien un piédroit ; pas de chambranle rapporté.
 
 ### le chambranle — abandonné
 
@@ -517,7 +555,7 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vérification : rejetée — Verrière linéaire, pas une fenêtre ronde ; hors sujet.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le balcon — abandonné
+### le balcon — 2 images retenues
 
 *Plateforme en saillie sur une façade, accessible depuis l'intérieur et fermée par un garde-corps.*
 
@@ -561,14 +599,14 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vu : Façade Art nouveau d'un hôtel avec de nombreux petits balcons, enseigne « Terminus » et « Best Western ».
   - Vérification : rejetée — Balcons petits, et texte d'enseigne visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Balcony of the Château de Bois-Préau in Rueil-Malmaison, France 002.JPG](https://commons.wikimedia.org/wiki/File:Balcony_of_the_Ch%C3%A2teau_de_Bois-Pr%C3%A9au_in_Rueil-Malmaison,_France_002.JPG)
+- **Retenue** — [Balcony of the Château de Bois-Préau in Rueil-Malmaison, France 002.JPG](https://commons.wikimedia.org/wiki/File:Balcony_of_the_Ch%C3%A2teau_de_Bois-Pr%C3%A9au_in_Rueil-Malmaison,_France_002.JPG)
   - Vu : Façade classique en pierre : porte-fenêtre à persiennes donnant sur un balcon à garde-corps en fer forgé, dalle portée par des consoles en fer.
   - Vérification : validée (avec rectangle) — Balcon net : dalle en saillie sur consoles + garde-corps ; le rectangle englobe toute la plateforme pour écarter persienne et garde-corps seul.
-  - Contre-vérification : —
-- **Rejetée** — [Riverside facade of Palais Rohan, Strasbourg DSC00688 (46985621941).jpg](https://commons.wikimedia.org/wiki/File:Riverside_facade_of_Palais_Rohan,_Strasbourg_DSC00688_(46985621941).jpg)
+  - Contre-vérification : d'accord — Le rectangle englobe la dalle en saillie, ses consoles et son garde-corps : c'est l'ensemble balcon devant une porte-fenêtre.
+- **Retenue** — [Riverside facade of Palais Rohan, Strasbourg DSC00688 (46985621941).jpg](https://commons.wikimedia.org/wiki/File:Riverside_facade_of_Palais_Rohan,_Strasbourg_DSC00688_(46985621941).jpg)
   - Vu : Long balcon en pierre vu en contre-plongée, porté par des consoles sculptées, avec garde-corps en fer forgé doré, au-dessus de fenêtres grillagées.
   - Vérification : validée (avec rectangle) — Saillie de la plateforme et consoles bien visibles ; le rectangle englobe dalle, consoles et garde-corps (l'ensemble du balcon).
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Grand balcon en saillie sur consoles avec garde-corps en fer forgé, le rectangle englobe tout l'ouvrage ; balcon sans ambiguïté.
 
 ### le garde-corps — 2 images retenues
 
@@ -1036,7 +1074,7 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vérification : rejetée — Toiture en dalles de gneiss épaisses (lauze), petite dans l'image ; pas une ardoise caractéristique.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la tôle ondulée — abandonné
+### la tôle ondulée — 1 image retenue
 
 *Feuille de métal à ondulations régulières, utilisée en couverture ou en bardage.*
 
@@ -1063,6 +1101,30 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
 - **Rejetée** — [Corrugated iron roofs of Taisi Bus Huwei Station.jpg](https://commons.wikimedia.org/wiki/File:Corrugated_iron_roofs_of_Taisi_Bus_Huwei_Station.jpg)
   - Vu : Sous-face d'un abri de bus la nuit, tube fluorescent et panneaux de plafond colorés.
   - Vérification : rejetée — Vue de dessous sombre, ondulations non lisibles.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Roofer.jpg](https://commons.wikimedia.org/wiki/File:Roofer.jpg)
+  - Vu : Maison enduite en cours de réfection : un couvreur sur la toiture en tôle ondulée rouillée, des tôles déposées au sol à droite.
+  - Vérification : validée (avec rectangle) — Tôles ondulées déposées au sol, ondulations et rouille très lisibles ; rectangle sur elles pour éviter toiture/couvreur/échelle.
+  - Contre-vérification : d'accord — Le rectangle cadre des feuilles de tôle ondulée rouillée déposées au sol, ondulations bien visibles ; la toiture est aussi en tôle ondulée.
+- **Rejetée** — [ASC Leiden - van de Bruinhorst Collection - Somaliland 2019 - 4462 - A food stall run by women in pink and purple shawls with children under a roof of corrugated iron.jpg](https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_de_Bruinhorst_Collection_-_Somaliland_2019_-_4462_-_A_food_stall_run_by_women_in_pink_and_purple_shawls_with_children_under_a_roof_of_corrugated_iron.jpg)
+  - Vu : Échoppe de restauration dont murs et toit sont en tôles ondulées colorées, avec plusieurs personnes au premier plan.
+  - Vérification : rejetée — Tôle bien visible mais scène encombrée de personnes, et emploi en parois proche du bardage ; quota du terme atteint avec de meilleures images.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Séléki-Houses.JPG](https://commons.wikimedia.org/wiki/File:S%C3%A9l%C3%A9ki-Houses.JPG)
+  - Vu : Deux cases en contre-jour sous des arbres, l'une couverte de tôle ondulée, l'autre de chaume, derrière des palissades.
+  - Vérification : rejetée — Toiture en tôle petite, à contre-jour, masquée par les branches ; le chaume voisin crée une confusion.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Bissau (19362097179).jpg](https://commons.wikimedia.org/wiki/File:Bissau_(19362097179).jpg)
+  - Vu : Photo noir et blanc d'une maison basse derrière des arbres et du linge étendu ; toit en tôle à peine visible.
+  - Vérification : rejetée — Tôle presque entièrement cachée par le feuillage, noir et blanc peu lisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [JRD - 13. Guiné Portuguesa – Farim – O mercado.jpg](https://commons.wikimedia.org/wiki/File:JRD_-_13._Guin%C3%A9_Portuguesa_%E2%80%93_Farim_%E2%80%93_O_mercado.jpg)
+  - Vu : Carte postale ancienne d'une halle de marché à toit à deux pans, avec légende imprimée.
+  - Vérification : rejetée — Reproduction de carte postale avec texte ; matériau de couverture non lisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Bissau life (19361784259).jpg](https://commons.wikimedia.org/wiki/File:Bissau_life_(19361784259).jpg)
+  - Vu : Rue de marché animée en noir et blanc, toits en tôle au loin et parasols.
+  - Vérification : rejetée — Tôle secondaire et lointaine, scène dominée par la foule.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le carreau de ciment — 2 images retenues
@@ -1094,7 +1156,7 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vérification : rejetée — Collage de plusieurs photos (image retouchée), pas une photo unique.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le bardage — abandonné
+### le bardage — 1 image retenue
 
 *Revêtement extérieur de façade fait de lames ou de panneaux fixés sur une ossature.*
 
@@ -1122,8 +1184,32 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vu : Vue d'ensemble de la façade moderniste en pierre de la Casa Comalat avec balcons.
   - Vérification : rejetée — Façade en pierre, aucun bardage.
   - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Facade detail with natural building materials, Tasmanian House by Jiri Lev.jpg](https://commons.wikimedia.org/wiki/File:Facade_detail_with_natural_building_materials,_Tasmanian_House_by_Jiri_Lev.jpg)
+  - Vu : Détail de façade : lames de bois horizontales à recouvrement autour d'une fenêtre, encadrées de tôle ondulée en haut à droite et en soubassement, cuve ondulée à gauche.
+  - Vérification : validée (avec rectangle) — Lames de bois fixées très nettes ; rectangle sur le bardage bois pour écarter la tôle ondulée voisine.
+  - Contre-vérification : d'accord — Le rectangle cadre des lames de bois horizontales fixées en façade : bardage bois net, distinct de la tôle ondulée voisine.
+- **Rejetée** — [Frank Sickels House, Buffalo, New York - 20200618.jpg](https://commons.wikimedia.org/wiki/File:Frank_Sickels_House,_Buffalo,_New_York_-_20200618.jpg)
+  - Vu : Grande maison Queen Anne à pignon décoré, porche à colonnes, façade en clins peints beiges.
+  - Vérification : rejetée — Vue d'ensemble : les clins sont fins et peu lisibles sur téléphone, d'autres éléments (pignon, porche, colonnes) dominent.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Batterson-Kleckner House, Buffalo, New York - 20200923.jpg](https://commons.wikimedia.org/wiki/File:Batterson-Kleckner_House,_Buffalo,_New_York_-_20200923.jpg)
+  - Vu : Maison jaune à tourelle, revêtue surtout de bardeaux, avec une partie en lames verticales blanches.
+  - Vérification : rejetée — Revêtement majoritairement en bardeaux ; vue d'ensemble où le bardage n'est pas dominant.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Charles and Florence Sears House, Buffalo, New York - 20200619.jpg](https://commons.wikimedia.org/wiki/File:Charles_and_Florence_Sears_House,_Buffalo,_New_York_-_20200619.jpg)
+  - Vu : Maison coloniale à clins gris, porte rouge, largement masquée par des arbres, voitures devant.
+  - Vérification : rejetée — Façade en grande partie cachée, clins peu visibles.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Henry R. Clark House, Buffalo, New York - 20201013.jpg](https://commons.wikimedia.org/wiki/File:Henry_R._Clark_House,_Buffalo,_New_York_-_20201013.jpg)
+  - Vu : Maison Queen Anne verte à tourelle et escalier de secours, clins verts et bardeaux dans les pignons.
+  - Vérification : rejetée — Clins présents mais fins, mélangés aux bardeaux et à de nombreux éléments ; trop peu lisible même encadré.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Hatmaker-McDonnell House, Buffalo, New York - 20200920.jpg](https://commons.wikimedia.org/wiki/File:Hatmaker-McDonnell_House,_Buffalo,_New_York_-_20200920.jpg)
+  - Vu : Maison Queen Anne à tourelle conique, panneau de rue « Woodward Ave », drapeau, haie au premier plan.
+  - Vérification : rejetée — Panneau de rue lisible, revêtements variés (bardeaux, clins) peu lisibles, bardage non dominant.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le pisé — abandonné
+### le pisé — 1 image retenue
 
 *Terre crue compactée par couches successives dans un coffrage pour former des murs massifs.*
 
@@ -1150,6 +1236,30 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
 - **Rejetée** — [Castillo de Xivert Muro de Alafia.JPG](https://commons.wikimedia.org/wiki/File:Castillo_de_Xivert_Muro_de_Alafia.JPG)
   - Vu : Muraille de château avec maçonnerie de moellons en premier plan et grand mur à décor de faux appareil au-dessus.
   - Vérification : rejetée — Tapial à chaux décoré en imitation de pierre de taille, moellons dominants : confusion forte.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Rammed earth wall surface.jpg](https://commons.wikimedia.org/wiki/File:Rammed_earth_wall_surface.jpg)
+  - Vu : Gros plan d'un mur lisse beige aux couches horizontales légèrement marquées, avec un joint vertical et quelques épaufrures.
+  - Vérification : rejetée — Surface très proche d'un béton brut/béton banché : confusion directe possible avec un terme de la même catégorie.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [PiseP1010653mod.jpg](https://commons.wikimedia.org/wiki/File:PiseP1010653mod.jpg)
+  - Vu : Chantier : un ouvrier casqué tasse la terre au pisoir dans une banche en bois serrée par des clés, mur en pisé achevé à droite ; second ouvrier en bas, tas de tuiles à gauche.
+  - Vérification : validée (avec rectangle) — Mise en œuvre du pisé sans ambiguïté (banche, pisoir, mur à banchées visibles) ; rectangle pour exclure les tuiles et le terrassement.
+  - Contre-vérification : d'accord — Chantier de pisé : coffrage en bois et mur de terre compactée par levées, le rectangle cadre banches et mur ; très explicite.
+- **Rejetée** — [Xinzheng Ancient City Wall of Rammed Earth, Eastern Zhou, c. 770-230 BC.jpg](https://commons.wikimedia.org/wiki/File:Xinzheng_Ancient_City_Wall_of_Rammed_Earth,_Eastern_Zhou,_c._770-230_BC.jpg)
+  - Vu : Coupe d'un ancien rempart en terre montrant de très nombreuses couches horizontales fines et régulières de terre compactée.
+  - Vérification : validée — Couches de terre damée régulières occupant toute l'image, signature typique du pisé ; aucun autre élément concurrent.
+  - Contre-vérification : pas d'accord — Paroi de terre à fines strates horizontales, sans coffrage ni bâti visible : pourrait être une falaise sédimentaire naturelle, doute.
+- **Rejetée** — [Rammed Earth Under Construction.JPG](https://commons.wikimedia.org/wiki/File:Rammed_Earth_Under_Construction.JPG)
+  - Vu : Panneaux de mur lisses beige clair entre une poutre de couronnement en béton et un soubassement en pierre, sur un chantier.
+  - Vérification : rejetée — Aspect de béton coulé : couches non lisibles, confusion avec le béton brut.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [New Orleans, Louisiana (5637745193).jpg](https://commons.wikimedia.org/wiki/File:New_Orleans,_Louisiana_(5637745193).jpg)
+  - Vu : Image satellite de La Nouvelle-Orléans et du lac Pontchartrain.
+  - Vérification : rejetée — Hors sujet.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Factory and industrial management (1891) (14784105613).jpg](https://commons.wikimedia.org/wiki/File:Factory_and_industrial_management_(1891)_(14784105613).jpg)
+  - Vu : Planche de livre ancien en noir et blanc : excavation d'un canal avec ouvriers, légende imprimée.
+  - Vérification : rejetée — Reproduction imprimée avec texte, sans rapport avec le pisé.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ## Ornement
@@ -1183,7 +1293,7 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vérification : rejetée — Angle d'avant-toit en charpente, pas une corniche.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le bandeau — abandonné
+### le bandeau — 1 image retenue
 
 *Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.*
 
@@ -1210,6 +1320,30 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
 - **Rejetée** — [Tenement house, 1884 design. Karol Żychoń, 5 Karmelicka Street, Kraków. Poland.jpg](https://commons.wikimedia.org/wiki/File:Tenement_house,_1884_design._Karol_%C5%BBycho%C5%84,_5_Karmelicka_Street,_Krak%C3%B3w._Poland.jpg)
   - Vu : Façade d'immeuble XIXe avec frontons de fenêtres, refends et commerce au rez-de-chaussée.
   - Vérification : rejetée — Bandeaux peu marqués, ornements de fenêtres dominants ; élément ambigu.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Szymel & Helena Wileńscy tenement house, Łódź Sienkiewicza 49.jpg](https://commons.wikimedia.org/wiki/File:Szymel_%26_Helena_Wile%C5%84scy_tenement_house,_%C5%81%C3%B3d%C5%BA_Sienkiewicza_49.jpg)
+  - Vu : Immeuble moderniste d'angle enduit, avec bow-windows et balcons.
+  - Vérification : rejetée — Pas de bandeau identifiable.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Telimena tenement house, 27 Krakowskie Przedmieście street, Warsaw, Poland.jpg](https://commons.wikimedia.org/wiki/File:Telimena_tenement_house,_27_Krakowskie_Przedmie%C5%9Bcie_street,_Warsaw,_Poland.jpg)
+  - Vu : Immeuble d'angle jaune à toit mansardé, bande blanche portant des enseignes au-dessus du rez-de-chaussée.
+  - Vérification : rejetée — Bande d'enseigne avec texte ; corniche et bandeaux peu distincts.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Brick house in Quebec City.jpg](https://commons.wikimedia.org/wiki/File:Brick_house_in_Quebec_City.jpg)
+  - Vu : Façade en brique avec porte double, fenêtre à appui et soubassement en granit, sous la neige.
+  - Vérification : rejetée — Pas de bandeau : seulement un soubassement et un appui.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Tenement house, 5 Bohaterów Getta Square, Podgórze, Kraków, Poland.jpg](https://commons.wikimedia.org/wiki/File:Tenement_house,_5_Bohater%C3%B3w_Getta_Square,_Podg%C3%B3rze,_Krak%C3%B3w,_Poland.jpg)
+  - Vu : Vue aérienne d'une rangée d'immeubles de rapport.
+  - Vérification : rejetée — Éléments bien trop petits.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Lublin Konopnica tenement house 2018.jpg](https://commons.wikimedia.org/wiki/File:Lublin_Konopnica_tenement_house_2018.jpg)
+  - Vu : Façade Renaissance à attique crénelé, encadrements sculptés et rez-de-chaussée à bossages, séparés par des bandes horizontales.
+  - Vérification : validée (avec rectangle) — Le rectangle cible la bande lisse peu saillante au-dessus des bossages, qui marque le niveau : bandeau type ; la bande moulurée plus haut (corniche intermédiaire) est exclue.
+  - Contre-vérification : d'accord — Le rectangle cadre une bande horizontale peu saillante entre rez-de-chaussée et étage, ce qui marque le niveau : bandeau et non corniche.
+- **Rejetée** — [Schlieffen Tenement House in Kołobrzeg, 2023.jpg](https://commons.wikimedia.org/wiki/File:Schlieffen_Tenement_House_in_Ko%C5%82obrzeg,_2023.jpg)
+  - Vu : Maison gothique en brique à pignon à redans, avec cordons moulurés horizontaux entre les niveaux.
+  - Vérification : rejetée — Cordons fortement moulurés et en saillie (confusion corniche/cordon) ; panneau explicatif visible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le fronton — 2 images retenues
@@ -1326,6 +1460,30 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
 - **Rejetée** — [Ballylarkin Church internal North wall corbel 7.jpg](https://commons.wikimedia.org/wiki/File:Ballylarkin_Church_internal_North_wall_corbel_7.jpg)
   - Vu : Haut de mur en ruine avec un corbeau de pierre profilé sous une dalle saillante.
   - Vérification : rejetée — Corbeau, pas une console à volute (confusion console / corbeau).
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [8 rue des Hallebardes à Strasbourg (1er étage).jpg](https://commons.wikimedia.org/wiki/File:8_rue_des_Hallebardes_%C3%A0_Strasbourg_(1er_%C3%A9tage).jpg)
+  - Vu : Façade baroque en grès à mascarons et balcon en fer forgé ; le balcon et ses supports sont coupés en bas.
+  - Vérification : rejetée — Consoles hors cadre ou à peine visibles.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Derby Assembly Room facade - Tramway Street, Crich Tramway Village - National Tramway Museum - Crich (15355622746).jpg](https://commons.wikimedia.org/wiki/File:Derby_Assembly_Room_facade_-_Tramway_Street,_Crich_Tramway_Village_-_National_Tramway_Museum_-_Crich_(15355622746).jpg)
+  - Vu : Façade georgienne à fronton, balustrades et fenêtres à frontons.
+  - Vérification : rejetée — Pas de console lisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [5 rue des Bouchers à Strasbourg.jpg](https://commons.wikimedia.org/wiki/File:5_rue_des_Bouchers_%C3%A0_Strasbourg.jpg)
+  - Vu : Portail cintré surmonté d'un balcon fleuri porté par trois fines consoles en fer forgé.
+  - Vérification : rejetée — Consoles métalliques grêles, peu lisibles sur téléphone ; panneau d'hôtel visible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Derby Assembly Room facade - Tramway Street, Crich Tramway Village - National Tramway Museum - Crich - former bank (15192108887).jpg](https://commons.wikimedia.org/wiki/File:Derby_Assembly_Room_facade_-_Tramway_Street,_Crich_Tramway_Village_-_National_Tramway_Museum_-_Crich_-_former_bank_(15192108887).jpg)
+  - Vu : Façades d'anciens bâtiments en pierre avec inscription « Burnley Corporation Tramways ».
+  - Vérification : rejetée — Consoles minuscules ; texte visible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Montenegro-02375 (10596504964).jpg](https://commons.wikimedia.org/wiki/File:Montenegro-02375_(10596504964).jpg)
+  - Vu : Palais en pierre dont le balcon supérieur à garde-corps en fonte repose sur une série de consoles sculptées en volute.
+  - Vérification : validée (avec rectangle) — Consoles galbées en volute portant un balcon : définition exacte ; rectangle sur une console bien éclairée.
+  - Contre-vérification : pas d'accord — La console désignée sous le balcon est petite et dans l'ombre : peu lisible sur téléphone, et une confusion avec le modillon reste possible.
+- **Rejetée** — [Savoy Theatre - Church Street, Monmouth - lantern (18535373294).jpg](https://commons.wikimedia.org/wiki/File:Savoy_Theatre_-_Church_Street,_Monmouth_-_lantern_(18535373294).jpg)
+  - Vu : Lanterne murale sur potence métallique fixée à une platine.
+  - Vérification : rejetée — Support d'éclairage, pas une console architecturale.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la gargouille — 1 image retenue
@@ -1765,7 +1923,7 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vérification : rejetée — Image composite fortement déformée et encombrée ; coupole vitrée peu représentative.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le corbeau — abandonné
+### le corbeau — 1 image retenue
 
 *Pierre ou pièce de bois en saillie sur un mur, qui porte une poutre, une corniche ou un encorbellement.*
 
@@ -1792,6 +1950,30 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
 - **Rejetée** — [Коканд, здание Русско-Азиатского банка, консоль.jpg](https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BA%D0%B0%D0%BD%D0%B4,_%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D0%90%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0,_%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C.jpg)
   - Vu : Encadrement de fenêtre dont la corniche est portée par deux supports blancs cannelés à volutes.
   - Vérification : rejetée — Ce sont des consoles décoratives (volutes, cannelures), pas des corbeaux.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [O'Briens Castle outside showing the corbel head.jpg](https://commons.wikimedia.org/wiki/File:O%27Briens_Castle_outside_showing_the_corbel_head.jpg)
+  - Vu : Mur en pierre sèche avec une pierre sculptée d'un visage, vue de face.
+  - Vérification : rejetée — Vu de face, la saillie et la fonction porteuse ne se lisent pas ; ressemble à un simple masque.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Stone relief with six figures at Lebenberg Castle.jpg](https://commons.wikimedia.org/wiki/File:Stone_relief_with_six_figures_at_Lebenberg_Castle.jpg)
+  - Vu : Relief sculpté de six apôtres sous arcatures, posé sur deux blocs de granit en saillie sur le mur.
+  - Vérification : validée (avec rectangle) — Bloc de pierre simple en saillie portant la tablette : corbeau typique (non galbé, donc pas une console) ; rectangle sur le bloc de gauche.
+  - Contre-vérification : d'accord — Bloc de pierre en saillie sur le mur qui porte un retable sculpté : corbeau clair, bien cadré.
+- **Rejetée** — [Eastnor Castle - Portcullis Lodge and Retaining Walls to Forecourt (33239963473).jpg](https://commons.wikimedia.org/wiki/File:Eastnor_Castle_-_Portcullis_Lodge_and_Retaining_Walls_to_Forecourt_(33239963473).jpg)
+  - Vu : Château néogothique avec tours crénelées et porche, visiteurs au premier plan.
+  - Vérification : rejetée — Corbeaux de mâchicoulis minuscules ; confusion avec mâchicoulis/créneaux.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Eastnor Castle - behind the Castle Tea Room (33895335752).jpg](https://commons.wikimedia.org/wiki/File:Eastnor_Castle_-_behind_the_Castle_Tea_Room_(33895335752).jpg)
+  - Vu : Cour du château vue à travers un cèdre, tour crénelée au centre.
+  - Vérification : rejetée — Aucun corbeau lisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Eastnor Castle - behind the Castle Tea Room (33667465900).jpg](https://commons.wikimedia.org/wiki/File:Eastnor_Castle_-_behind_the_Castle_Tea_Room_(33667465900).jpg)
+  - Vu : Murs du château en contre-plongée, ciel dominant, façade sombre.
+  - Vérification : rejetée — Aucun corbeau lisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Eastnor Castle (33923357391).jpg](https://commons.wikimedia.org/wiki/File:Eastnor_Castle_(33923357391).jpg)
+  - Vu : Cour gravillonnée avec à gauche une façade du château portant une rangée de petits corbeaux sous un parapet.
+  - Vérification : rejetée — Corbeaux petits, à contre-jour et dans l'ombre.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la ferme — 2 images retenues
@@ -1912,7 +2094,7 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vérification : validée (avec rectangle) — Lucarne dominante et typique ; rectangle pour exclure la gouttière et la corniche en dessous.
   - Contre-vérification : d'accord — Lucarne à fronton et ailerons à volutes émergeant du toit de tuiles, fenêtre verticale bien visible ; le rectangle l'encadre de près.
 
-### l'acrotère — abandonné
+### l'acrotère — 1 image retenue
 
 *Muret en rive d'une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l'étanchéité.*
 
@@ -1939,6 +2121,30 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
 - **Rejetée** — [First Wisconsin Plaza (US Bank Plaza), Pinckney Street and Washington Avenue, Madison, WI (52734146479).jpg](https://commons.wikimedia.org/wiki/File:First_Wisconsin_Plaza_(US_Bank_Plaza),_Pinckney_Street_and_Washington_Avenue,_Madison,_WI_(52734146479).jpg)
   - Vu : Rue en pente menant à un immeuble de bureaux vitré au loin.
   - Vérification : rejetée — Bâtiment lointain, aucun acrotère visible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [City Building 1209 Williams St Great Bend Central Business District Barton Co KS.jpg](https://commons.wikimedia.org/wiki/File:City_Building_1209_Williams_St_Great_Bend_Central_Business_District_Barton_Co_KS.jpg)
+  - Vu : Petit hôtel de ville à toit plat, façade surmontée d'un large bandeau bardé de métal portant l'enseigne « City Hall ».
+  - Vérification : rejetée — Le haut de façade est un bandeau d'enseigne plus qu'un acrotère lisible ; texte visible ; toiture-terrasse invisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Nimock’s Building 1413 Main St Great Bend Central Business District Barton Co KS.jpg](https://commons.wikimedia.org/wiki/File:Nimock%E2%80%99s_Building_1413_Main_St_Great_Bend_Central_Business_District_Barton_Co_KS.jpg)
+  - Vu : Immeuble commercial en brique à corniche ornée de consoles, en grande partie masqué par des arbres.
+  - Vérification : rejetée — Élément dominant = corniche, acrotère indiscernable ; feuillage masquant.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [East Lawrence Industrial Historic District Douglas Co KS 846 Pennsylvania St oil storage-distribution building.jpg](https://commons.wikimedia.org/wiki/File:East_Lawrence_Industrial_Historic_District_Douglas_Co_KS_846_Pennsylvania_St_oil_storage-distribution_building.jpg)
+  - Vu : Entrepôt en brique avec un grand auvent plat en porte-à-faux et un quai de chargement.
+  - Vérification : rejetée — Aucun acrotère lisible ; l'auvent domine.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [14. 811 5th St Clay Center Downtown Historic District KS.jpg](https://commons.wikimedia.org/wiki/File:14._811_5th_St_Clay_Center_Downtown_Historic_District_KS.jpg)
+  - Vu : Façade enduite de deux niveaux à toit plat, sommet de mur à peine marqué par deux moulures, cheminée en retrait.
+  - Vérification : rejetée — Le couronnement se confond avec des bandeaux moulurés ; toiture-terrasse invisible ; enseigne visible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Model Laundry, Galveston.jpg](https://commons.wikimedia.org/wiki/File:Model_Laundry,_Galveston.jpg)
+  - Vu : Immeuble d'angle à toit plat dont le mur de façade se prolonge au-dessus de la toiture par un muret à redans chaperonné, surélevé à l'angle.
+  - Vérification : validée (avec rectangle) — Muret en rive de toiture-terrasse se détachant sur le ciel ; rectangle sur la partie d'angle pour lever le doute avec la corniche dentelée en dessous.
+  - Contre-vérification : d'accord — Le rectangle désigne le muret qui dépasse en rive de la toiture plate de l'immeuble d'angle : acrotère, lisible.
+- **Rejetée** — [Jewelry Store 206 Forest Ave Great Bend Central Business District Barton Co KS.jpg](https://commons.wikimedia.org/wiki/File:Jewelry_Store_206_Forest_Ave_Great_Bend_Central_Business_District_Barton_Co_KS.jpg)
+  - Vu : Façade commerciale en brique à corniche en encorbellement, couverte d'ombres d'arbre.
+  - Vérification : rejetée — Corniche dominante, acrotère non lisible ; ombres et feuillage.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la gouttière — 1 image retenue
@@ -2027,8 +2233,32 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
   - Vu : Petite maison en pierre isolée sur une île, toit en bois à quatre pans dont une croupe triangulaire avec une petite lucarne et une échelle.
   - Vérification : rejetée — La croupe existe mais occupe une petite part de l'image ; toit proche du pavillon et lucarne dans le pan : doute, rejet par prudence.
   - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Mittlist Gfaell 02 edit.jpg](https://commons.wikimedia.org/wiki/File:Mittlist_Gfaell_02_edit.jpg)
+  - Vu : Paysage alpin avec une petite ferme à toit à pans multiples au premier plan.
+  - Vérification : rejetée — Bâtiment minuscule dans un paysage ; croupe non lisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Nottuln, Gebäude -Senden'sche Kurie- -- 2016 -- 3822.jpg](https://commons.wikimedia.org/wiki/File:Nottuln,_Geb%C3%A4ude_-Senden%27sche_Kurie-_--_2016_--_3822.jpg)
+  - Vu : Maison en brique vue de face, toit en tuiles à demi-croupes, derrière des ifs et un portail.
+  - Vérification : rejetée — Demi-croupes (confusion avec croupe) vues par la tranche ; peu lisibles.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Nottuln, Hotel Steverburg -- 2016 -- 1486.jpg](https://commons.wikimedia.org/wiki/File:Nottuln,_Hotel_Steverburg_--_2016_--_1486.jpg)
+  - Vu : Grande maison en pierre vue de face, toit à croupes avec lucarnes.
+  - Vérification : rejetée — Les croupes, vues par la tranche depuis la façade, ne se lisent pas clairement.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Wissembourg Rue du Marché-aux-Poissons 2–2a 001 2006 09 19.jpg](https://commons.wikimedia.org/wiki/File:Wissembourg_Rue_du_March%C3%A9-aux-Poissons_2%E2%80%932a_001_2006_09_19.jpg)
+  - Vu : Grand toit alsacien à pans très pentus et multiples niveaux de lucarnes et de chiens-assis.
+  - Vérification : rejetée — Toiture complexe (plusieurs croupes, coyaux, demi-niveaux) : élément ambigu ; image retouchée selon Commons.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Speyer Große Himmelsgasse 3 a 001 2021 02 26.jpg](https://commons.wikimedia.org/wiki/File:Speyer_Gro%C3%9Fe_Himmelsgasse_3_a_001_2021_02_26.jpg)
+  - Vu : Maison enduite vue d'angle, toit à long pan avec croupe sur le petit côté, vue en fort raccourci.
+  - Vérification : rejetée — Croupe visible seulement en mince bande ; un rectangle mettrait surtout en évidence l'arêtier (confusion).
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Speyer Stuhlbrudergasse 5 007 2021 02 26.jpg](https://commons.wikimedia.org/wiki/File:Speyer_Stuhlbrudergasse_5_007_2021_02_26.jpg)
+  - Vu : Bâtiment jaune vu d'angle avec toit à lucarnes ; extrémité de toit vue en raccourci au-dessus du mur bas à gauche.
+  - Vérification : rejetée — Croupe trop en raccourci et peu lisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### la souche de cheminée — abandonné
+### la souche de cheminée — 3 images retenues
 
 *Partie d'un conduit de cheminée qui dépasse au-dessus du toit.*
 
@@ -2055,6 +2285,30 @@ Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faut
 - **Rejetée** — [House chimney pipe 001.jpg](https://commons.wikimedia.org/wiki/File:House_chimney_pipe_001.jpg)
   - Vu : Tuyau de poêle métallique sortant d'un mur en torchis sous un avant-toit en bois.
   - Vérification : rejetée — Conduit métallique sous l'avant-toit, ne dépasse pas au-dessus d'un toit.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [-2022-04-05 Chimney stack, Back Street, Mundesley.JPG](https://commons.wikimedia.org/wiki/File:-2022-04-05_Chimney_stack,_Back_Street,_Mundesley.JPG)
+  - Vu : Souche de cheminée en brique avec deux mitrons en terre cuite, émergeant d'un toit en tuiles avec solin en plomb.
+  - Vérification : validée — Souche dominante et parfaitement lisible au-dessus de la couverture.
+  - Contre-vérification : d'accord — Souche en brique avec mitrons qui dépasse d'un toit de tuiles, élément dominant et net.
+- **Rejetée** — [-2020-02-28 Lead flashing around a chimney stack, Trimingham.JPG](https://commons.wikimedia.org/wiki/File:-2020-02-28_Lead_flashing_around_a_chimney_stack,_Trimingham.JPG)
+  - Vu : Bas d'une souche en brique coupée en haut, avec un large solin en plomb sur des tuiles.
+  - Vérification : rejetée — Souche tronquée ; le sujet est le solin.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [-2021-09-24 Chimney stack on the Old Manor Farmehouse, Church Street, Northrepps.JPG](https://commons.wikimedia.org/wiki/File:-2021-09-24_Chimney_stack_on_the_Old_Manor_Farmehouse,_Church_Street,_Northrepps.JPG)
+  - Vu : Haute souche double en brique à couronnement mouluré sur un toit de chaume.
+  - Vérification : rejetée — Bonne image mais moins nette que les trois retenues (maximum 3).
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [-2022-04-04 Chimney stack, House on Saint Nicholas Place, Sheringham, Norfolk.JPG](https://commons.wikimedia.org/wiki/File:-2022-04-04_Chimney_stack,_House_on_Saint_Nicholas_Place,_Sheringham,_Norfolk.JPG)
+  - Vu : Souche de cheminée en brique à corniche de couronnement portant huit mitrons, sur un toit en tuiles.
+  - Vérification : validée — Souche dominante et lisible, émergence du toit claire.
+  - Contre-vérification : d'accord — Souche en brique avec nombreux mitrons au-dessus d'un toit, dominante et nette.
+- **Retenue** — [-2022-08-01 Chimney stack, High Street, Mundesley, Norfolk (1).JPG](https://commons.wikimedia.org/wiki/File:-2022-08-01_Chimney_stack,_High_Street,_Mundesley,_Norfolk_(1).JPG)
+  - Vu : Souche en brique avec trois mitrons, sortant d'un toit de chaume avec solin en plomb.
+  - Vérification : validée — Souche dominante, lecture immédiate.
+  - Contre-vérification : d'accord — Souche en brique avec trois mitrons au-dessus d'un toit de chaume, dominante et nette.
+- **Rejetée** — [-2021-09-24 Chimney stack on the Old Manor Farmehouse, Church Street, Northrepps (1).JPG](https://commons.wikimedia.org/wiki/File:-2021-09-24_Chimney_stack_on_the_Old_Manor_Farmehouse,_Church_Street,_Northrepps_(1).JPG)
+  - Vu : Souche massive en brique à niches, émergeant d'un toit de chaume, câbles en travers.
+  - Vérification : rejetée — Bonne mais câbles en travers ; trois meilleures déjà retenues.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le shed — 2 images retenues

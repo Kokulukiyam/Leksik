@@ -53,6 +53,9 @@ def planche(term_id):
     meta = json.loads((CANDIDATS / term_id / "meta.json").read_text())
     vignettes = []
     for c in meta["candidats"]:
+        # Candidates non téléchargées sur cette machine (NN.jpg non versionnés) : ignorées.
+        if not (CANDIDATS / term_id / c["fichier"]).exists():
+            continue
         im = ouvrir(term_id, c["fichier"][:-4])
         im.thumbnail((520, 400))
         vignettes.append((c["fichier"][:-4], im))

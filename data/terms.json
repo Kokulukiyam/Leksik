@@ -30,6 +30,12 @@
     "categorie": "Façade et ouvertures"
   },
   {
+    "id": "piedroit",
+    "terme": "le piédroit",
+    "definition": "Montant vertical de maçonnerie qui forme le côté d'une baie et porte le linteau ou l'arc.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
     "id": "tympan",
     "terme": "le tympan",
     "definition": "Surface, souvent sculptée, enclose entre le linteau et l'arc d'un portail, ou entre les corniches d'un fronton.",
@@ -39,6 +45,12 @@
     "id": "oeil-de-boeuf",
     "terme": "l'œil-de-bœuf",
     "definition": "Petite fenêtre ronde ou ovale percée dans un mur ou un toit.",
+    "categorie": "Façade et ouvertures"
+  },
+  {
+    "id": "balcon",
+    "terme": "le balcon",
+    "definition": "Plateforme en saillie sur une façade, accessible depuis l'intérieur et fermée par un garde-corps.",
     "categorie": "Façade et ouvertures"
   },
   {
@@ -96,6 +108,12 @@
     "categorie": "Toitures"
   },
   {
+    "id": "acrotere",
+    "terme": "l'acrotère",
+    "definition": "Muret en rive d'une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l'étanchéité.",
+    "categorie": "Toitures"
+  },
+  {
     "id": "gouttiere",
     "terme": "la gouttière",
     "definition": "Canal fixé au bas d'un toit qui recueille les eaux de pluie.",
@@ -112,6 +130,12 @@
     "terme": "le chaume",
     "definition": "Couverture de toit faite de paille, de roseaux ou d'herbes séchées.",
     "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "souche-de-cheminee",
+    "terme": "la souche de cheminée",
+    "definition": "Partie d'un conduit de cheminée qui dépasse au-dessus du toit.",
+    "categorie": "Toitures"
   },
   {
     "id": "shed",
@@ -174,6 +198,12 @@
     "categorie": "Structure"
   },
   {
+    "id": "corbeau",
+    "terme": "le corbeau",
+    "definition": "Pierre ou pièce de bois en saillie sur un mur, qui porte une poutre, une corniche ou un encorbellement.",
+    "categorie": "Structure"
+  },
+  {
     "id": "ferme",
     "terme": "la ferme",
     "definition": "Assemblage triangulé de pièces de bois ou de métal qui porte la couverture d'un toit.",
@@ -195,6 +225,12 @@
     "id": "corniche",
     "terme": "la corniche",
     "definition": "Couronnement en saillie, généralement mouluré, qui termine le haut d'un mur ou d'une façade.",
+    "categorie": "Ornement"
+  },
+  {
+    "id": "bandeau",
+    "terme": "le bandeau",
+    "definition": "Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.",
     "categorie": "Ornement"
   },
   {
@@ -306,10 +342,34 @@
     "categorie": "Matériaux et revêtements"
   },
   {
+    "id": "tole-ondulee",
+    "terme": "la tôle ondulée",
+    "definition": "Feuille de métal à ondulations régulières, utilisée en couverture ou en bardage.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
     "id": "carreau-de-ciment",
     "terme": "le carreau de ciment",
     "definition": "Carreau décoratif fait de ciment coloré pressé et séché, sans cuisson.",
     "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "bardage",
+    "terme": "le bardage",
+    "definition": "Revêtement extérieur de façade fait de lames ou de panneaux fixés sur une ossature.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "pise",
+    "terme": "le pisé",
+    "definition": "Terre crue compactée par couches successives dans un coffrage pour former des murs massifs.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "banco",
+    "terme": "le banco",
+    "definition": "Terre argileuse mêlée de paille, moulée en briques ou appliquée en enduit dans la construction traditionnelle.",
+    "categorie": "Afrique de l'Ouest"
   },
   {
     "id": "toron",

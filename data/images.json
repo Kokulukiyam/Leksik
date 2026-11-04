@@ -180,6 +180,24 @@
     "note": "Vérification : Trumeau évident entre les deux portes ; rectangle sur le pilier central. Contre-vérification : Portail gothique : le rectangle cadre le pilier central avec sa statue entre les deux portes rouges ; trumeau sans ambiguïté."
   },
   {
+    "id": "piedroit-12",
+    "termId": "piedroit",
+    "fichier": "commons/piedroit-12.webp",
+    "rectangle": {
+      "x": 0.597,
+      "y": 0.385,
+      "largeur": 0.17,
+      "hauteur": 0.46
+    },
+    "lieu": "Mittelheim, Allemagne",
+    "source": "commons",
+    "auteur": "Robert Pietschmann",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Mittelheim-Langhaus_Giebelseite_West-Romanisches_Portal_mit_abgetrepptem_Gew%C3%A4nde-06042012.JPG",
+    "statut": "validée",
+    "note": "Vérification : Photo nette et frontale ; le rectangle isole le montant droit de la baie (avec ses ressauts) qui porte l'arc et le linteau du tympan. Contre-vérification : Portail roman : le rectangle désigne le montant droit de la baie (avec sa colonnette engagée) qui porte l'arc, c'est bien un piédroit ; pas de chambranle rapporté."
+  },
+  {
     "id": "tympan-02",
     "termId": "tympan",
     "fichier": "commons/tympan-02.webp",
@@ -245,6 +263,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Katowice_Warszawska_25_oculus_2026.jpg",
     "statut": "validée",
     "note": "Vérification : Petite fenêtre ronde dans un toit ; rectangle indispensable pour la distinguer de la lucarne qui la porte. Contre-vérification : Fenêtre ronde vitrée dans un fronton Art nouveau ; le rectangle la cadre de près, sans englober le pignon : œil-de-bœuf clair."
+  },
+  {
+    "id": "balcon-11",
+    "termId": "balcon",
+    "fichier": "commons/balcon-11.webp",
+    "rectangle": {
+      "x": 0.165,
+      "y": 0.645,
+      "largeur": 0.63,
+      "hauteur": 0.32
+    },
+    "lieu": "Rueil-Malmaison, France",
+    "source": "commons",
+    "auteur": "Moonik",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Balcony_of_the_Ch%C3%A2teau_de_Bois-Pr%C3%A9au_in_Rueil-Malmaison,_France_002.JPG",
+    "statut": "validée",
+    "note": "Vérification : Balcon net : dalle en saillie sur consoles + garde-corps ; le rectangle englobe toute la plateforme pour écarter persienne et garde-corps seul. Contre-vérification : Le rectangle englobe la dalle en saillie, ses consoles et son garde-corps : c'est l'ensemble balcon devant une porte-fenêtre."
+  },
+  {
+    "id": "balcon-12",
+    "termId": "balcon",
+    "fichier": "commons/balcon-12.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0,
+      "largeur": 0.99,
+      "hauteur": 0.71
+    },
+    "lieu": "Strasbourg, France",
+    "source": "commons",
+    "auteur": "Franck FU from Phnom Penh, Cambodia",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Riverside_facade_of_Palais_Rohan,_Strasbourg_DSC00688_(46985621941).jpg",
+    "statut": "validée",
+    "note": "Vérification : Saillie de la plateforme et consoles bien visibles ; le rectangle englobe dalle, consoles et garde-corps (l'ensemble du balcon). Contre-vérification : Grand balcon en saillie sur consoles avec garde-corps en fer forgé, le rectangle englobe tout l'ouvrage ; balcon sans ambiguïté."
   },
   {
     "id": "garde-corps-01",
@@ -528,6 +582,24 @@
     "note": "Vérification : Lucarne dominante et typique ; rectangle pour exclure la gouttière et la corniche en dessous. Contre-vérification : Lucarne à fronton et ailerons à volutes émergeant du toit de tuiles, fenêtre verticale bien visible ; le rectangle l'encadre de près."
   },
   {
+    "id": "acrotere-11",
+    "termId": "acrotere",
+    "fichier": "commons/acrotere-11.webp",
+    "rectangle": {
+      "x": 0.36,
+      "y": 0.39,
+      "largeur": 0.29,
+      "hauteur": 0.085
+    },
+    "lieu": "Galveston, Texas, États-Unis",
+    "source": "commons",
+    "auteur": "Jim Evans",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Model_Laundry,_Galveston.jpg",
+    "statut": "validée",
+    "note": "Vérification : Muret en rive de toiture-terrasse se détachant sur le ciel ; rectangle sur la partie d'angle pour lever le doute avec la corniche dentelée en dessous. Contre-vérification : Le rectangle désigne le muret qui dépasse en rive de la toiture plate de l'immeuble d'angle : acrotère, lisible."
+  },
+  {
     "id": "gouttiere-01",
     "termId": "gouttiere",
     "fichier": "commons/gouttiere-01.webp",
@@ -588,6 +660,45 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Thatched_roof_OGA_2.jpg",
     "statut": "validée",
     "note": "Vérification : Texture de couverture en chaume plein cadre, rangs et liens visibles ; photographie réelle. Contre-vérification : Pan de toiture en paille fixé par des fils, avec mousse, occupant toute l'image : couverture en chaume clairement lisible."
+  },
+  {
+    "id": "souche-de-cheminee-07",
+    "termId": "souche-de-cheminee",
+    "fichier": "commons/souche-de-cheminee-07.webp",
+    "rectangle": null,
+    "lieu": "Mundesley, Norfolk, Angleterre",
+    "source": "commons",
+    "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:-2022-04-05_Chimney_stack,_Back_Street,_Mundesley.JPG",
+    "statut": "validée",
+    "note": "Vérification : Souche dominante et parfaitement lisible au-dessus de la couverture. Contre-vérification : Souche en brique avec mitrons qui dépasse d'un toit de tuiles, élément dominant et net."
+  },
+  {
+    "id": "souche-de-cheminee-10",
+    "termId": "souche-de-cheminee",
+    "fichier": "commons/souche-de-cheminee-10.webp",
+    "rectangle": null,
+    "lieu": "Sheringham, Norfolk, Angleterre",
+    "source": "commons",
+    "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:-2022-04-04_Chimney_stack,_House_on_Saint_Nicholas_Place,_Sheringham,_Norfolk.JPG",
+    "statut": "validée",
+    "note": "Vérification : Souche dominante et lisible, émergence du toit claire. Contre-vérification : Souche en brique avec nombreux mitrons au-dessus d'un toit, dominante et nette."
+  },
+  {
+    "id": "souche-de-cheminee-11",
+    "termId": "souche-de-cheminee",
+    "fichier": "commons/souche-de-cheminee-11.webp",
+    "rectangle": null,
+    "lieu": "Mundesley, Norfolk, Angleterre",
+    "source": "commons",
+    "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:-2022-08-01_Chimney_stack,_High_Street,_Mundesley,_Norfolk_(1).JPG",
+    "statut": "validée",
+    "note": "Vérification : Souche dominante, lecture immédiate. Contre-vérification : Souche en brique avec trois mitrons au-dessus d'un toit de chaume, dominante et nette."
   },
   {
     "id": "shed-03",
@@ -868,6 +979,24 @@
     "note": "Vérification : Coupole centrale claire ; rectangle pour écarter les arcs et voûtes environnants. Contre-vérification : Le rectangle cadre la coupole sur tambour (Sant'Agnese in Agone) vue de l'intérieur, avec lanterne et fenêtres, nettement distincte des berceaux voisins."
   },
   {
+    "id": "corbeau-08",
+    "termId": "corbeau",
+    "fichier": "commons/corbeau-08.webp",
+    "rectangle": {
+      "x": 0.155,
+      "y": 0.81,
+      "largeur": 0.17,
+      "hauteur": 0.165
+    },
+    "lieu": "Château de Lebenberg, Tyrol du Sud, Italie",
+    "source": "commons",
+    "auteur": "Norbert Nagel",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Stone_relief_with_six_figures_at_Lebenberg_Castle.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bloc de pierre simple en saillie portant la tablette : corbeau typique (non galbé, donc pas une console) ; rectangle sur le bloc de gauche. Contre-vérification : Bloc de pierre en saillie sur le mur qui porte un retable sculpté : corbeau clair, bien cadré."
+  },
+  {
     "id": "ferme-01",
     "termId": "ferme",
     "fichier": "commons/ferme-01.webp",
@@ -964,6 +1093,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Upton_Hall.jpg",
     "statut": "validée",
     "note": "Vérification : Corniche de couronnement continue en haut de façade ; rectangle nécessaire pour la distinguer du bandeau d'étage visible à mi-hauteur. Contre-vérification : Façade blanche ; le rectangle cadre de près le couronnement mouluré en saillie au sommet du mur, sans englober le bandeau d'étage situé plus bas : c'est bien la corniche."
+  },
+  {
+    "id": "bandeau-11",
+    "termId": "bandeau",
+    "fichier": "commons/bandeau-11.webp",
+    "rectangle": {
+      "x": 0.05,
+      "y": 0.735,
+      "largeur": 0.825,
+      "hauteur": 0.022
+    },
+    "lieu": "Lublin, Pologne",
+    "source": "commons",
+    "auteur": "Fallaner",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lublin_Konopnica_tenement_house_2018.jpg",
+    "statut": "validée",
+    "note": "Vérification : Le rectangle cible la bande lisse peu saillante au-dessus des bossages, qui marque le niveau : bandeau type ; la bande moulurée plus haut (corniche intermédiaire) est exclue. Contre-vérification : Le rectangle cadre une bande horizontale peu saillante entre rez-de-chaussée et étage, ce qui marque le niveau : bandeau et non corniche."
   },
   {
     "id": "fronton-01",
@@ -1449,6 +1596,24 @@
     "note": "Vérification : Ardoises fines au crochet, très caractéristiques ; rectangle pour exclure le ciel et le bout de brique à droite. Contre-vérification : Le rectangle cadre une couverture d'ardoises naturelles fixées au crochet, plaques minces bien lisibles."
   },
   {
+    "id": "tole-ondulee-07",
+    "termId": "tole-ondulee",
+    "fichier": "commons/tole-ondulee-07.webp",
+    "rectangle": {
+      "x": 0.66,
+      "y": 0.74,
+      "largeur": 0.34,
+      "hauteur": 0.23
+    },
+    "lieu": "Nigeria",
+    "source": "commons",
+    "auteur": "Shigod",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Roofer.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tôles ondulées déposées au sol, ondulations et rouille très lisibles ; rectangle sur elles pour éviter toiture/couvreur/échelle. Contre-vérification : Le rectangle cadre des feuilles de tôle ondulée rouillée déposées au sol, ondulations bien visibles ; la toiture est aussi en tôle ondulée."
+  },
+  {
     "id": "carreau-de-ciment-02",
     "termId": "carreau-de-ciment",
     "fichier": "commons/carreau-de-ciment-02.webp",
@@ -1478,6 +1643,73 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Carreaux_de_ciment_tunis_02.jpg",
     "statut": "validée",
     "note": "Vérification : Carreaux de ciment typiques, nets et dominants, joints visibles. Contre-vérification : Sol de carreaux de ciment à motifs géométriques et frise de grecques, matériau net et caractéristique."
+  },
+  {
+    "id": "bardage-07",
+    "termId": "bardage",
+    "fichier": "commons/bardage-07.webp",
+    "rectangle": {
+      "x": 0.125,
+      "y": 0.515,
+      "largeur": 0.805,
+      "hauteur": 0.245
+    },
+    "lieu": "Tasmanie, Australie",
+    "source": "commons",
+    "auteur": "AtelierJL",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Facade_detail_with_natural_building_materials,_Tasmanian_House_by_Jiri_Lev.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lames de bois fixées très nettes ; rectangle sur le bardage bois pour écarter la tôle ondulée voisine. Contre-vérification : Le rectangle cadre des lames de bois horizontales fixées en façade : bardage bois net, distinct de la tôle ondulée voisine."
+  },
+  {
+    "id": "pise-08",
+    "termId": "pise",
+    "fichier": "commons/pise-08.webp",
+    "rectangle": {
+      "x": 0.35,
+      "y": 0.13,
+      "largeur": 0.63,
+      "hauteur": 0.52
+    },
+    "lieu": "Tarma, Junín, Pérou",
+    "source": "commons",
+    "auteur": "JYB Devot",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:PiseP1010653mod.jpg",
+    "statut": "validée",
+    "note": "Vérification : Mise en œuvre du pisé sans ambiguïté (banche, pisoir, mur à banchées visibles) ; rectangle pour exclure les tuiles et le terrassement. Contre-vérification : Chantier de pisé : coffrage en bois et mur de terre compactée par levées, le rectangle cadre banches et mur ; très explicite."
+  },
+  {
+    "id": "banco-07",
+    "termId": "banco",
+    "fichier": "commons/banco-07.webp",
+    "rectangle": null,
+    "lieu": "Teli, pays dogon, Mali",
+    "source": "commons",
+    "auteur": "Angeline A. van Achterberg",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_06_-_17_-_La_cour_de_la_maison_d%27h%C3%B4tes_avec_trois_figurines_humaine_-_Teli,_pays_Dogon,_Mali_-_Nov.-d%C3%A9c._1983.jpg",
+    "statut": "validée",
+    "note": "Vérification : Enduit de banco et briques crues lisibles et dominants ; aucun autre matériau ou terme concurrent. Contre-vérification : Photo réelle d'une cour dogon : murs enduits de terre et mur de briques de terre, le banco domine l'image ; aucun édifice type toguna ou grenier n'est au premier plan."
+  },
+  {
+    "id": "banco-12",
+    "termId": "banco",
+    "fichier": "commons/banco-12.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.7,
+      "largeur": 1,
+      "hauteur": 0.3
+    },
+    "lieu": "Teli, pays dogon, Mali",
+    "source": "commons",
+    "auteur": "Angeline A. van Achterberg",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_06_-_25_-_Cinq_entrep%C3%B4ts_derri%C3%A8re_des_murs_bas_en_briques_crues_-_Teli,_pays_Dogon,_Mali_-_Nov.-d%C3%A9c._1983.jpg",
+    "statut": "validée",
+    "note": "Vérification : Blocs de banco moulés très lisibles au premier plan ; rectangle pour écarter le grenier aux pièces de bois saillantes (confusion toron/grenier). Contre-vérification : Le rectangle cadre de près un mur en briques de terre moulées, matériau banco très lisible."
   },
   {
     "id": "toron-03",

@@ -1,0 +1,18 @@
+[
+  { "cle": "banco/07", "accord": true, "raison": "Photo réelle d'une cour dogon : murs enduits de terre et mur de briques de terre, le banco domine l'image ; aucun édifice type toguna ou grenier n'est au premier plan." },
+  { "cle": "banco/12", "accord": true, "raison": "Le rectangle cadre de près un mur en briques de terre moulées, matériau banco très lisible." },
+  { "cle": "piedroit/12", "accord": true, "raison": "Portail roman : le rectangle désigne le montant droit de la baie (avec sa colonnette engagée) qui porte l'arc, c'est bien un piédroit ; pas de chambranle rapporté." },
+  { "cle": "balcon/11", "accord": true, "raison": "Le rectangle englobe la dalle en saillie, ses consoles et son garde-corps : c'est l'ensemble balcon devant une porte-fenêtre." },
+  { "cle": "balcon/12", "accord": true, "raison": "Grand balcon en saillie sur consoles avec garde-corps en fer forgé, le rectangle englobe tout l'ouvrage ; balcon sans ambiguïté." },
+  { "cle": "tole-ondulee/07", "accord": true, "raison": "Le rectangle cadre des feuilles de tôle ondulée rouillée déposées au sol, ondulations bien visibles ; la toiture est aussi en tôle ondulée." },
+  { "cle": "bardage/07", "accord": true, "raison": "Le rectangle cadre des lames de bois horizontales fixées en façade : bardage bois net, distinct de la tôle ondulée voisine." },
+  { "cle": "pise/08", "accord": true, "raison": "Chantier de pisé : coffrage en bois et mur de terre compactée par levées, le rectangle cadre banches et mur ; très explicite." },
+  { "cle": "pise/09", "accord": false, "raison": "Paroi de terre à fines strates horizontales, sans coffrage ni bâti visible : pourrait être une falaise sédimentaire naturelle, doute." },
+  { "cle": "bandeau/11", "accord": true, "raison": "Le rectangle cadre une bande horizontale peu saillante entre rez-de-chaussée et étage, ce qui marque le niveau : bandeau et non corniche." },
+  { "cle": "console/11", "accord": false, "raison": "La console désignée sous le balcon est petite et dans l'ombre : peu lisible sur téléphone, et une confusion avec le modillon reste possible." },
+  { "cle": "corbeau/08", "accord": true, "raison": "Bloc de pierre en saillie sur le mur qui porte un retable sculpté : corbeau clair, bien cadré." },
+  { "cle": "acrotere/11", "accord": true, "raison": "Le rectangle désigne le muret qui dépasse en rive de la toiture plate de l'immeuble d'angle : acrotère, lisible." },
+  { "cle": "souche-de-cheminee/07", "accord": true, "raison": "Souche en brique avec mitrons qui dépasse d'un toit de tuiles, élément dominant et net." },
+  { "cle": "souche-de-cheminee/10", "accord": true, "raison": "Souche en brique avec nombreux mitrons au-dessus d'un toit, dominante et nette." },
+  { "cle": "souche-de-cheminee/11", "accord": true, "raison": "Souche en brique avec trois mitrons au-dessus d'un toit de chaume, dominante et nette." }
+]
