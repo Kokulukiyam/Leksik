@@ -670,6 +670,11 @@
   "requetes": [
    "incategory:\"Brick walls\"",
    "brick wall texture"
+  ],
+  "requetes2": [
+   "red brick wall",
+   "mur de briques",
+   "brick masonry wall"
   ]
  },
  {
@@ -712,6 +717,11 @@
    "béton brut",
    "board-formed concrete wall",
    "exposed concrete brutalist"
+  ],
+  "requetes2": [
+   "board-marked concrete",
+   "béton banché brut planches",
+   "board formed concrete texture"
   ]
  },
  {
@@ -748,6 +758,11 @@
    "corrugated iron roof",
    "corrugated metal sheet roof",
    "tôle ondulée"
+  ],
+  "requetes2": [
+   "corrugated iron roof Africa",
+   "corrugated galvanized iron sheet",
+   "tôle ondulée toit"
   ]
  },
  {

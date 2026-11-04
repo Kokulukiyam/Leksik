@@ -7,7 +7,7 @@ Chaque image candidate venue de Wikimedia Commons a été examinée deux fois :
 
 Une image n'est retenue que si les deux vérifications la valident.
 
-Résultat : 44 termes illustrés, 75 images retenues, 26 termes abandonnés faute d'image fiable.
+Résultat : 52 termes illustrés, 90 images retenues, 18 termes abandonnés faute d'image fiable.
 
 ## Termes abandonnés
 
@@ -20,15 +20,7 @@ Résultat : 44 termes illustrés, 75 images retenues, 26 termes abandonnés faut
 - le corbeau (Structure)
 - le bandeau (Ornement)
 - la console (Ornement)
-- la brique (Matériaux et revêtements)
-- le parpaing (Matériaux et revêtements)
-- la pierre de taille (Matériaux et revêtements)
-- le moellon (Matériaux et revêtements)
-- le béton brut (Matériaux et revêtements)
-- la tuile (Matériaux et revêtements)
-- l'ardoise (Matériaux et revêtements)
 - la tôle ondulée (Matériaux et revêtements)
-- le carreau de ciment (Matériaux et revêtements)
 - le bardage (Matériaux et revêtements)
 - le pisé (Matériaux et revêtements)
 - le banco (Afrique de l'Ouest)
@@ -44,22 +36,70 @@ Résultat : 44 termes illustrés, 75 images retenues, 26 termes abandonnés faut
 
 *Terre argileuse mêlée de paille, moulée en briques ou appliquée en enduit dans la construction traditionnelle.*
 
-Aucune image candidate trouvée sur Commons.
-
+- **Rejetée** — [Banko kanalas 4.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_4.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Banko kanalas 3.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_3.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Banko kanalas 2.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_2.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Banko kanalas 5.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_5.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Banko kanalas 2024.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_2024.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Banko kanalas 1.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_1.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le toron — abandonné
 
 *Pièce de bois fichée dans les murs des mosquées soudano-sahéliennes, servant d'appui lors du recrépissage.*
 
-Aucune image candidate trouvée sur Commons.
-
+- **Rejetée** — [MaliDjennéMosquée.JPG](https://commons.wikimedia.org/wiki/File:MaliDjenn%C3%A9Mosqu%C3%A9e.JPG)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Great Mosque of Djenné 1.jpg](https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Djenn%C3%A9_1.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Djenne great mud mosque.jpg](https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Djenné Moschee(Dach)1990.jpg](https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_Moschee(Dach)1990.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [The Great Clay Mosque in Djenne, Mali.jpg](https://commons.wikimedia.org/wiki/File:The_Great_Clay_Mosque_in_Djenne,_Mali.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [The Great Mosque of Djenné in Mali is the largest mud brick building in the world. (32931594225).jpg](https://commons.wikimedia.org/wiki/File:The_Great_Mosque_of_Djenn%C3%A9_in_Mali_is_the_largest_mud_brick_building_in_the_world._(32931594225).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le toguna — abandonné
 
 *Abri de palabres du pays dogon, au toit très épais de tiges de mil posé sur des piliers bas.*
 
-Aucune image candidate trouvée sur Commons.
-
+- **Rejetée** — [Toguna (6462881).jpg](https://commons.wikimedia.org/wiki/File:Toguna_(6462881).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Toguna, Kani-Kombole (6485121).jpg](https://commons.wikimedia.org/wiki/File:Toguna,_Kani-Kombole_(6485121).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Ende Toguna (6842550).jpg](https://commons.wikimedia.org/wiki/File:Ende_Toguna_(6842550).jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Park rzeźby na bródnie toguna 6.jpg](https://commons.wikimedia.org/wiki/File:Park_rze%C5%BAby_na_br%C3%B3dnie_toguna_6.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Park rzeźby na bródnie toguna 4.jpg](https://commons.wikimedia.org/wiki/File:Park_rze%C5%BAby_na_br%C3%B3dnie_toguna_4.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Park rzeźby na bródnie toguna 5.jpg](https://commons.wikimedia.org/wiki/File:Park_rze%C5%BAby_na_br%C3%B3dnie_toguna_5.jpg)
+  - Vérification : non examinée
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le grenier dogon — abandonné
 
@@ -612,7 +652,7 @@ Aucune image candidate trouvée sur Commons.
 
 ## Matériaux et revêtements
 
-### la brique — abandonné
+### la brique — 1 image retenue
 
 *Bloc d'argile moulé puis cuit, utilisé en maçonnerie.*
 
@@ -624,14 +664,14 @@ Aucune image candidate trouvée sur Commons.
   - Vu : Bâtiment bas en briques rouges avec fenêtres grillagées, panneau, cour pavée et toit en ardoises à gauche.
   - Vérification : rejetée — Vue d'ensemble d'un bâtiment, matériau peu lisible en détail sur téléphone ; toiture en ardoise visible (confusion possible).
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Church of St Paraskevi, details of the outer walls 02.jpg](https://commons.wikimedia.org/wiki/File:Church_of_St_Paraskevi,_details_of_the_outer_walls_02.jpg)
+- **Retenue** — [Church of St Paraskevi, details of the outer walls 02.jpg](https://commons.wikimedia.org/wiki/File:Church_of_St_Paraskevi,_details_of_the_outer_walls_02.jpg)
   - Vu : Gros plan d'un appareil de briques rouges en saillie alternée, joints de mortier bien visibles.
   - Vérification : validée — Briques cuites nettes et dominantes, texture et appareillage sans ambiguïté.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Gros plan net d'une maçonnerie de briques de terre cuite avec joints de mortier, matériau sans ambiguïté.
 - **Rejetée** — [Dudzele Lentestraat 1 R08.jpg](https://commons.wikimedia.org/wiki/File:Dudzele_Lentestraat_1_R08.jpg)
   - Vu : Façade de grange en briques jaunes et rouges appareillées, avec arcs en briques et portes rouges.
   - Vérification : validée — Mur de briques occupant toute l'image, appareillage net ; les portes en bois ne correspondent à aucun matériau de la liste.
-  - Contre-vérification : —
+  - Contre-vérification : pas d'accord — Mur de briques jaunes en fond, mais les portes et le volet en planches rouges dominent l'image et peuvent évoquer le bardage ; briques petites et peu lisibles sur téléphone.
 - **Rejetée** — [Tolna County CoA relief, Varkoz, 2016 Szekszard.jpg](https://commons.wikimedia.org/wiki/File:Tolna_County_CoA_relief,_Varkoz,_2016_Szekszard.jpg)
   - Vu : Relief sculpté d'armoiries en pierre sur un mur de briques partiellement enduit.
   - Vérification : rejetée — Le relief sculpté domine ; brique secondaire et partiellement enduite.
@@ -641,7 +681,7 @@ Aucune image candidate trouvée sur Commons.
   - Vérification : rejetée — Appareil mixte galets/briques : les galets dominent, ambigu (moellon possible).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le parpaing — abandonné
+### le parpaing — 2 images retenues
 
 *Bloc de béton moulé, souvent creux, utilisé pour monter des murs.*
 
@@ -661,16 +701,16 @@ Aucune image candidate trouvée sur Commons.
   - Vu : Angle de maison en blocs de béton gravillonnés avec fenêtres blanches et bardage sombre en partie haute.
   - Vérification : rejetée — Blocs à parement texturé ressemblant à de la pierre, et bardage visible : risque de confusion.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [House and concrete block wall in Noho Island 202603.jpg](https://commons.wikimedia.org/wiki/File:House_and_concrete_block_wall_in_Noho_Island_202603.jpg)
+- **Retenue** — [House and concrete block wall in Noho Island 202603.jpg](https://commons.wikimedia.org/wiki/File:House_and_concrete_block_wall_in_Noho_Island_202603.jpg)
   - Vu : Muret en parpaings gris autour d'une maison basse à toit de tuiles, avec poteau électrique.
   - Vérification : validée (avec rectangle) — Parpaings creux typiques en assises ; rectangle sur le mur de droite pour exclure la toiture en tuiles.
-  - Contre-vérification : —
-- **Rejetée** — [Concrete block wall 02.jpg](https://commons.wikimedia.org/wiki/File:Concrete_block_wall_02.jpg)
+  - Contre-vérification : d'accord — Le rectangle cadre un mur de blocs de béton gris appareillés, les joints des parpaings sont lisibles ; pas de confusion avec le béton coffré.
+- **Retenue** — [Concrete block wall 02.jpg](https://commons.wikimedia.org/wiki/File:Concrete_block_wall_02.jpg)
   - Vu : Muret en parpaings de béton gris aux joints réguliers, avec blocs claustra en haut et une affiche à droite.
   - Vérification : validée (avec rectangle) — Parpaings de béton nets et caractéristiques ; rectangle sur le mur pour écarter l'affiche et les pierres du soubassement.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Mur de blocs de béton gris vus de face, bien cadré par le rectangle qui exclut les pierres à droite et les claustras en haut.
 
-### la pierre de taille — abandonné
+### la pierre de taille — 3 images retenues
 
 *Pierre taillée en blocs aux faces dressées, posés en assises régulières.*
 
@@ -678,35 +718,35 @@ Aucune image candidate trouvée sur Commons.
   - Vu : Ruine couverte de végétation dans un sous-bois, maçonnerie à peine visible.
   - Vérification : rejetée — Maçonnerie cachée par la végétation, illisible.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Hasmonean Masonry from a Tower (3622470040).jpg](https://commons.wikimedia.org/wiki/File:Hasmonean_Masonry_from_a_Tower_(3622470040).jpg)
+- **Retenue** — [Hasmonean Masonry from a Tower (3622470040).jpg](https://commons.wikimedia.org/wiki/File:Hasmonean_Masonry_from_a_Tower_(3622470040).jpg)
   - Vu : Tour en gros blocs de pierre calcaire à bossage, en assises régulières, au-dessus d'un rempart crénelé.
   - Vérification : validée — Blocs taillés aux faces dressées en assises régulières, dominants ; tout l'appareil visible est de la pierre de taille.
-  - Contre-vérification : —
-- **Rejetée** — [Antelope Creek Masonry Arch Bridge Mitchell Co KS wing wall.jpg](https://commons.wikimedia.org/wiki/File:Antelope_Creek_Masonry_Arch_Bridge_Mitchell_Co_KS_wing_wall.jpg)
+  - Contre-vérification : d'accord — Grands blocs de pierre équarris posés en assises régulières (avec bossages) et parement appareillé en dessous : pierre de taille caractéristique.
+- **Retenue** — [Antelope Creek Masonry Arch Bridge Mitchell Co KS wing wall.jpg](https://commons.wikimedia.org/wiki/File:Antelope_Creek_Masonry_Arch_Bridge_Mitchell_Co_KS_wing_wall.jpg)
   - Vu : Pont en arc en blocs de grès taillés posés en assises régulières, dans un lit de rivière asséché.
   - Vérification : validée — Pierre de taille clairement lisible (assises régulières, blocs dressés, pile massive) ; aucun autre matériau de la liste.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Pont en grès fait de blocs taillés aux faces dressées et en assises régulières, bien visible.
 - **Rejetée** — [Mur Inca Décembre 2007.jpg](https://commons.wikimedia.org/wiki/File:Mur_Inca_D%C3%A9cembre_2007.jpg)
   - Vu : Mur inca en blocs polygonaux ajustés, joints irréguliers.
   - Vérification : rejetée — Appareil polygonal sans assises régulières : ne correspond pas à la définition.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Tunnel unter dem Damm der Nationalbahn bei der Station Mellingen 03.jpg](https://commons.wikimedia.org/wiki/File:Tunnel_unter_dem_Damm_der_Nationalbahn_bei_der_Station_Mellingen_03.jpg)
+- **Retenue** — [Tunnel unter dem Damm der Nationalbahn bei der Station Mellingen 03.jpg](https://commons.wikimedia.org/wiki/File:Tunnel_unter_dem_Damm_der_Nationalbahn_bei_der_Station_Mellingen_03.jpg)
   - Vu : Gros plan de blocs de pierre rectangulaires à parement rustiqué et ciselures périphériques, en assises régulières.
   - Vérification : validée — Blocs taillés à arêtes dressées et ciselure, assises régulières ; caractéristique de la pierre de taille.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Gros plan de blocs de pierre équarris aux arêtes nettes, joints fins et assises régulières ; faces layées mais clairement taillées.
 - **Rejetée** — [Delfos, ruinas 18.jpg](https://commons.wikimedia.org/wiki/File:Delfos,_ruinas_18.jpg)
   - Vu : Mur en blocs de pierre avec des touffes de fleurs violettes poussant dans les joints.
   - Vérification : rejetée — Les fleurs dominent et masquent l'appareil.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le moellon — abandonné
+### le moellon — 2 images retenues
 
 *Pierre brute ou grossièrement équarrie, de petite taille, employée en maçonnerie.*
 
-- **Rejetée** — [Limestone rubble wall with brick quoins.jpg](https://commons.wikimedia.org/wiki/File:Limestone_rubble_wall_with_brick_quoins.jpg)
+- **Retenue** — [Limestone rubble wall with brick quoins.jpg](https://commons.wikimedia.org/wiki/File:Limestone_rubble_wall_with_brick_quoins.jpg)
   - Vu : Pignon de bâtiment en moellons calcaires irréguliers hourdés au mortier, avec chaînes d'angle en briques rouges.
   - Vérification : validée (avec rectangle) — Moellons nets et typiques ; rectangle sur la maçonnerie de moellons pour exclure les chaînes d'angle en brique.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Le rectangle cadre un mur de pierres brutes irrégulières hourdées au mortier, en excluant les chaînes d'angle en brique.
 - **Rejetée** — [Rubble-fill-wall.jpg](https://commons.wikimedia.org/wiki/File:Rubble-fill-wall.jpg)
   - Vu : Dessin en coupe d'un mur avec remplissage de moellons.
   - Vérification : rejetée — Dessin, pas une photo ; texte donnant la réponse.
@@ -715,10 +755,10 @@ Aucune image candidate trouvée sur Commons.
   - Vu : Photo noir et blanc d'ouvriers au milieu de tas de pierres dans un champ.
   - Vérification : rejetée — Tas de pierres, pas de maçonnerie lisible ; photo ancienne peu nette.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Cylindrical masonry watchtower along western wall, Ribat Tit - El Jadida, Morocco - Oct 2026.jpg](https://commons.wikimedia.org/wiki/File:Cylindrical_masonry_watchtower_along_western_wall,_Ribat_Tit_-_El_Jadida,_Morocco_-_Oct_2026.jpg)
+- **Retenue** — [Cylindrical masonry watchtower along western wall, Ribat Tit - El Jadida, Morocco - Oct 2026.jpg](https://commons.wikimedia.org/wiki/File:Cylindrical_masonry_watchtower_along_western_wall,_Ribat_Tit_-_El_Jadida,_Morocco_-_Oct_2026.jpg)
   - Vu : Tour circulaire crénelée bâtie en moellons irréguliers liés au mortier, une autre tour en arrière-plan.
   - Vérification : validée — Maçonnerie de moellons grossiers dominante et bien visible.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Tour maçonnée en petites pierres brutes irrégulières liées au mortier, moellons bien visibles et dominants.
 - **Rejetée** — [2017-08-01 Random rubble masonary, Albufeira.JPG](https://commons.wikimedia.org/wiki/File:2017-08-01_Random_rubble_masonary,_Albufeira.JPG)
   - Vu : Gros plan de pierres plates irrégulières grossièrement ajustées avec un lézard décoratif en céramique.
   - Vérification : rejetée — Cadrage très serré sur de grandes pierres, joints en partie secs (pierre sèche possible), objet décoratif distrayant ; moins sûr que 01 et 04.
@@ -728,7 +768,7 @@ Aucune image candidate trouvée sur Commons.
   - Vérification : rejetée — Rempart en pierre de taille dominant, moellons trop petits et secondaires.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le béton brut — abandonné
+### le béton brut — 1 image retenue
 
 *Béton laissé apparent tel qu'il sort du coffrage, avec la trace des planches.*
 
@@ -748,88 +788,188 @@ Aucune image candidate trouvée sur Commons.
   - Vu : Intérieur de passage souterrain en béton avec graffiti, panneau numéro 2 et vitrine.
   - Vérification : rejetée — Traces de planches visibles à gauche mais graffiti et éléments parasites ; moins net que 05 et 06.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Belgique - Louvain-la-Neuve - Place des Sciences - 29.jpg](https://commons.wikimedia.org/wiki/File:Belgique_-_Louvain-la-Neuve_-_Place_des_Sciences_-_29.jpg)
+- **Retenue** — [Belgique - Louvain-la-Neuve - Place des Sciences - 29.jpg](https://commons.wikimedia.org/wiki/File:Belgique_-_Louvain-la-Neuve_-_Place_des_Sciences_-_29.jpg)
   - Vu : Mur de béton brut de décoffrage avec empreintes verticales de planches bien marquées, arbres derrière.
   - Vérification : validée — Exemple type de béton brut avec la trace des planches de coffrage.
-  - Contre-vérification : —
+  - Contre-vérification : d'accord — Mur de béton portant nettement l'empreinte verticale des planches de coffrage et les bavures aux joints : béton brut de décoffrage typique.
 - **Rejetée** — [MGH Kon-ya-machi Daimyō Bldg the béton brut Daimyō 1-chōme Chūō-ku Fukuoka 20250619.jpg](https://commons.wikimedia.org/wiki/File:MGH_Kon-ya-machi_Daimy%C5%8D_Bldg_the_b%C3%A9ton_brut_Daimy%C5%8D_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg)
   - Vu : Mur de béton brut lisse en vue rasante, avec trous de tiges de coffrage et joint de banche, escalier à gauche.
   - Vérification : validée (avec rectangle) — Béton de décoffrage apparent avec trous de banchage caractéristiques ; rectangle pour exclure la partie gauche (lattes de bois).
-  - Contre-vérification : —
+  - Contre-vérification : pas d'accord — Image pivotée de 90° (scène couchée sur le côté) et béton lisse de coffrage à panneaux avec trous de banches, sans la trace de planches qu'exige la définition.
 
-### la tuile — abandonné
+### la tuile — 3 images retenues
 
 *Élément de couverture en terre cuite ou en béton, posé en recouvrement sur un toit.*
 
 - **Rejetée** — [Grythengen møne tette regn takpanner takstein 01.jpg](https://commons.wikimedia.org/wiki/File:Grythengen_m%C3%B8ne_tette_regn_takpanner_takstein_01.jpg)
-  - Vérification : non examinée
+  - Vu : Main décollant une bande d'étanchéité de faîtage sous une tuile faîtière, gros plan sur un joint.
+  - Vérification : rejetée — Sujet = la bande d'étanchéité et la main, pas la tuile ; lecture confuse.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Tiles (251207197).jpeg](https://commons.wikimedia.org/wiki/File:Tiles_(251207197).jpeg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Tiles (251207197).jpeg](https://commons.wikimedia.org/wiki/File:Tiles_(251207197).jpeg)
+  - Vu : Gros plan de tuiles mécaniques en terre cuite vieillies, à emboîtement, posées en recouvrement.
+  - Vérification : validée — Tuiles nettes et dominantes, relief et recouvrement bien lisibles.
+  - Contre-vérification : d'accord — Gros plan de tuiles mécaniques en recouvrement sur un toit, forme et emboîtement bien lisibles.
 - **Rejetée** — [Pile of red clay roof tiles from Basque Whalers.JPG](https://commons.wikimedia.org/wiki/File:Pile_of_red_clay_roof_tiles_from_Basque_Whalers.JPG)
-  - Vérification : non examinée
+  - Vu : Tas de débris de tuiles rouges dans l'herbe au bord d'une baie, village au loin.
+  - Vérification : rejetée — Fragments petits et en tas, pas de toiture : l'élément n'est pas identifiable sur téléphone.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [16-04-24 taktegl PermaLiv.jpg](https://commons.wikimedia.org/wiki/File:16-04-24_taktegl_PermaLiv.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Types of roof tiles 05.jpg](https://commons.wikimedia.org/wiki/File:Types_of_roof_tiles_05.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [16-04-24 taktegl PermaLiv.jpg](https://commons.wikimedia.org/wiki/File:16-04-24_taktegl_PermaLiv.jpg)
+  - Vu : Versant de toit couvert de vieilles tuiles creuses en terre cuite sous un grand ciel bleu.
+  - Vérification : validée (avec rectangle) — Tuiles canal bien caractérisées ; rectangle sur la couverture car le ciel occupe 60 % de l'image.
+  - Contre-vérification : d'accord — Le rectangle cadre une toiture de tuiles en terre cuite en recouvrement, nombreuses et reconnaissables.
+- **Retenue** — [Types of roof tiles 05.jpg](https://commons.wikimedia.org/wiki/File:Types_of_roof_tiles_05.jpg)
+  - Vu : Petit pavillon couvert de tuiles mécaniques orange neuves, mur de briques en dessous et enseigne « MERSEILLE ».
+  - Vérification : validée (avec rectangle) — Tuiles mécaniques (type Marseille) très nettes ; rectangle nécessaire pour exclure les briques du mur ; l'enseigne ne donne pas le terme.
+  - Contre-vérification : d'accord — Le rectangle cadre un toit de tuiles mécaniques en terre cuite, en excluant le panneau de briques en dessous.
 - **Rejetée** — [Dachpfannenprofil anbringen.jpeg](https://commons.wikimedia.org/wiki/File:Dachpfannenprofil_anbringen.jpeg)
-  - Vérification : non examinée
+  - Vu : Couvreurs posant des plaques métalliques imitant la tuile sur un toit bâché.
+  - Vérification : rejetée — « Dachpfannenprofil Nordblech » : tôle profilée façon tuile, pas de la tuile ; confusion avec la tôle.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### l'ardoise — abandonné
+### l'ardoise — 1 image retenue
 
 *Pierre fendue en plaques minces, utilisée pour couvrir les toits ou les murs.*
 
 - **Rejetée** — [Црква „Св. Петка“ - Маловиште.jpg](https://commons.wikimedia.org/wiki/File:%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%E2%80%9E%D0%A1%D0%B2._%D0%9F%D0%B5%D1%82%D0%BA%D0%B0%E2%80%9C_-_%D0%9C%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D1%88%D1%82%D0%B5.jpg)
-  - Vérification : non examinée
+  - Vu : Église et monastère en pierre couverts de grandes dalles de pierre grise, maisons à toits de tuiles autour.
+  - Vérification : rejetée — Dalles de pierre épaisses (lauzes) plutôt qu'ardoise fine, vue lointaine, tuiles présentes : ambigu.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Turretted house at 4714 Mussetter Rd., Ijamsville, MD.jpg](https://commons.wikimedia.org/wiki/File:Turretted_house_at_4714_Mussetter_Rd.,_Ijamsville,_MD.jpg)
-  - Vérification : non examinée
+  - Vu : Maison victorienne à clins blancs avec tourelle conique couverte d'ardoises en écailles.
+  - Vérification : rejetée — Ardoise de la tourelle trop petite et claire, peu lisible ; façade en bardage à clins (confusion).
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Cavigliano 080215.jpg](https://commons.wikimedia.org/wiki/File:Cavigliano_080215.jpg)
-  - Vérification : non examinée
+  - Vu : Ruelle de village tessinois, maison au toit de dalles de pierre peu visible, palmiers.
+  - Vérification : rejetée — Toiture minuscule et à contre-jour ; dalles de gneiss (piode) plutôt qu'ardoise.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Toitardoise.jpg](https://commons.wikimedia.org/wiki/File:Toitardoise.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Toitardoise.jpg](https://commons.wikimedia.org/wiki/File:Toitardoise.jpg)
+  - Vu : Gros plan en contre-plongée d'un pan de toit couvert d'ardoises rectangulaires fixées au crochet, ciel bleu.
+  - Vérification : validée (avec rectangle) — Ardoises fines au crochet, très caractéristiques ; rectangle pour exclure le ciel et le bout de brique à droite.
+  - Contre-vérification : d'accord — Le rectangle cadre une couverture d'ardoises naturelles fixées au crochet, plaques minces bien lisibles.
 - **Rejetée** — [Cappella Comoi 160212 1.JPG](https://commons.wikimedia.org/wiki/File:Cappella_Comoi_160212_1.JPG)
-  - Vérification : non examinée
+  - Vu : Croix métallique en contre-jour sur un faîtage de dalles de pierre, montagnes enneigées au fond.
+  - Vérification : rejetée — Sujet = la croix ; dalles épaisses de gneiss (lauzes), pas de l'ardoise fine.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Epl312 7241665.jpg](https://commons.wikimedia.org/wiki/File:Epl312_7241665.jpg)
-  - Vérification : non examinée
+  - Vu : Petite chapelle votive avec fresque, toit de grosses dalles de pierre, vélo devant.
+  - Vérification : rejetée — Toiture en dalles de gneiss épaisses (lauze), petite dans l'image ; pas une ardoise caractéristique.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### la tôle ondulée — abandonné
 
 *Feuille de métal à ondulations régulières, utilisée en couverture ou en bardage.*
 
-Aucune image candidate trouvée sur Commons.
+- **Rejetée** — [Old little shop with corrugated iron roof, selling drinks and petrol, in Don Khon, Laos.jpg](https://commons.wikimedia.org/wiki/File:Old_little_shop_with_corrugated_iron_roof,_selling_drinks_and_petrol,_in_Don_Khon,_Laos.jpg)
+  - Vu : Petite échoppe sur pilotis de bois couverte d'un toit en tôle ondulée rouillée.
+  - Vérification : validée (avec rectangle) — Ondulations bien lisibles sur toute la couverture ; rectangle pour isoler la toiture du reste de la scène.
+  - Contre-vérification : pas d'accord — Le toit en tôle ondulée est visible, mais le rectangle descend jusqu'aux panneaux de lattes de bambou verticales qui peuvent être pris pour du bardage ; cadrage trop large.
+- **Rejetée** — [Corrugated rusty roof 1.jpg](https://commons.wikimedia.org/wiki/File:Corrugated_rusty_roof_1.jpg)
+  - Vu : Gros plan d'un égout de toit en tôle ondulée rouillée au-dessus d'un mur en planches.
+  - Vérification : validée (avec rectangle) — Ondulations régulières très nettes ; rectangle pour écarter le bardage bois en dessous.
+  - Contre-vérification : pas d'accord — Tôle ondulée rouillée très nette, mais le rectangle englobe aussi le haut du bardage en planches verticales sous l'égout, terme concurrent de la catégorie.
+- **Rejetée** — [Corrugated rusty roof 2.jpg](https://commons.wikimedia.org/wiki/File:Corrugated_rusty_roof_2.jpg)
+  - Vu : Même cabane : angle de toit en tôle ondulée rouillée, grand mur de planches verticales en dessous.
+  - Vérification : rejetée — Quasi doublon de 02, et le bardage bois domine la moitié basse de l'image.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Corrugated roof on a garage in Tuntorp.jpg](https://commons.wikimedia.org/wiki/File:Corrugated_roof_on_a_garage_in_Tuntorp.jpg)
+  - Vu : Débord de toit en bac acier trapézoïdal gris au-dessus d'un mur en planches jaunes.
+  - Vérification : rejetée — Profil nervuré trapézoïdal (bac acier), pas une ondulation sinusoïdale ; bardage bois dominant.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Old brick barn with corrugated iron roof addition - geograph.org.uk - 2647128.jpg](https://commons.wikimedia.org/wiki/File:Old_brick_barn_with_corrugated_iron_roof_addition_-_geograph.org.uk_-_2647128.jpg)
+  - Vu : Grange en briques en ruine avec un appentis couvert de tôle verte, chemin et promeneurs.
+  - Vérification : rejetée — Tôle petite et lointaine, briques au premier plan : élément trop peu lisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Corrugated iron roofs of Taisi Bus Huwei Station.jpg](https://commons.wikimedia.org/wiki/File:Corrugated_iron_roofs_of_Taisi_Bus_Huwei_Station.jpg)
+  - Vu : Sous-face d'un abri de bus la nuit, tube fluorescent et panneaux de plafond colorés.
+  - Vérification : rejetée — Vue de dessous sombre, ondulations non lisibles.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
-
-### le carreau de ciment — abandonné
+### le carreau de ciment — 2 images retenues
 
 *Carreau décoratif fait de ciment coloré pressé et séché, sans cuisson.*
 
-Aucune image candidate trouvée sur Commons.
-
+- **Rejetée** — [Carreaux de ciment tunis 04.jpg](https://commons.wikimedia.org/wiki/File:Carreaux_de_ciment_tunis_04.jpg)
+  - Vu : Sol de carreaux de ciment à motifs bordeaux et blancs avec frise, pieds du photographe et porte au premier plan.
+  - Vérification : rejetée — Carreaux corrects mais pieds et porte parasitent la photo ; 02 et 03 sont meilleures.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Carreaux de ciment tunis 01.jpg](https://commons.wikimedia.org/wiki/File:Carreaux_de_ciment_tunis_01.jpg)
+  - Vu : Sol de carreaux de ciment à croix vertes et rouges avec frises, base d'un escalier en marbre à gauche.
+  - Vérification : validée (avec rectangle) — Motifs et joints des carreaux bien lisibles ; rectangle pour exclure le marbre de l'escalier.
+  - Contre-vérification : d'accord — Le rectangle cadre un sol de carreaux de ciment à motifs colorés mats, en excluant la marche en marbre.
+- **Retenue** — [Carreaux de ciment tunis 02.jpg](https://commons.wikimedia.org/wiki/File:Carreaux_de_ciment_tunis_02.jpg)
+  - Vu : Gros plan de carreaux de ciment gris et noirs à rosaces étoilées et bordure en grecque.
+  - Vérification : validée — Carreaux de ciment typiques, nets et dominants, joints visibles.
+  - Contre-vérification : d'accord — Sol de carreaux de ciment à motifs géométriques et frise de grecques, matériau net et caractéristique.
+- **Rejetée** — [Carreaux de ciment tunis 03.jpg](https://commons.wikimedia.org/wiki/File:Carreaux_de_ciment_tunis_03.jpg)
+  - Vu : Sol de carreaux de ciment à fleurs avec frise, tapis et pieds en chaussettes en bas.
+  - Vérification : rejetée — Tapis et pieds au premier plan ; redondant avec 02.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Perpignan - carreaux de ciment rue Saint François de Paule.jpg](https://commons.wikimedia.org/wiki/File:Perpignan_-_carreaux_de_ciment_rue_Saint_Fran%C3%A7ois_de_Paule.jpg)
+  - Vu : Seuil de porte tagué avec une contremarche usée garnie de carreaux à motifs, trottoir en pierre.
+  - Vérification : rejetée — Carreaux petits et usés, graffitis dominants : élément peu lisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Carreaux de ciment des escaliers de l'hôtel Vialètes de Mortarieu.jpg](https://commons.wikimedia.org/wiki/File:Carreaux_de_ciment_des_escaliers_de_l%27h%C3%B4tel_Vial%C3%A8tes_de_Mortarieu.jpg)
+  - Vu : Montage de quatre photos de carreaux de ciment différents, avec bordures blanches.
+  - Vérification : rejetée — Collage de plusieurs photos (image retouchée), pas une photo unique.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le bardage — abandonné
 
 *Revêtement extérieur de façade fait de lames ou de panneaux fixés sur une ossature.*
 
-Aucune image candidate trouvée sur Commons.
-
+- **Rejetée** — [Bike and cladding Træ Sydhavnen Træ office block Southern Harbour Aarhus Denmark.jpg](https://commons.wikimedia.org/wiki/File:Bike_and_cladding_Tr%C3%A6_Sydhavnen_Tr%C3%A6_office_block_Southern_Harbour_Aarhus_Denmark.jpg)
+  - Vu : Façade faite de tôles ondulées métalliques usées entre des panneaux de bois, vélo garé devant.
+  - Vérification : rejetée — Le revêtement visible est de la tôle ondulée : confusion directe avec le terme « tôle ondulée ».
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Casa Comalat front facade 12.JPG](https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_12.JPG)
+  - Vu : Façade moderniste ornée en pierre de la Casa Comalat, fenêtres ondulées et balcons en fer forgé.
+  - Vérification : rejetée — Façade en pierre sculptée, aucun bardage.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Casa Comalat front facade 07.JPG](https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_07.JPG)
+  - Vu : Porte d'entrée en bois sculpté dans un encadrement de pierre moderniste.
+  - Vérification : rejetée — Pierre de taille et menuiserie, aucun bardage.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Casa Comalat front facade 06.JPG](https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_06.JPG)
+  - Vu : Balcon-tribune en pierre sculptée aux formes organiques avec vitraux.
+  - Vérification : rejetée — Pierre sculptée, aucun bardage.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Casa Comalat back facade 07.JPG](https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_07.JPG)
+  - Vu : Gros plan d'un revêtement en trencadís (mosaïque de céramique brisée) sur une surface ondulée.
+  - Vérification : rejetée — Mosaïque de céramique, pas un bardage de lames ou panneaux.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Casa Comalat front facade 13.JPG](https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_13.JPG)
+  - Vu : Vue d'ensemble de la façade moderniste en pierre de la Casa Comalat avec balcons.
+  - Vérification : rejetée — Façade en pierre, aucun bardage.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le pisé — abandonné
 
 *Mur en terre crue compactée par couches successives dans un coffrage.*
 
-Aucune image candidate trouvée sur Commons.
-
+- **Rejetée** — [Libya 4432 Ghadames Luca Galuzzi 2007.jpg](https://commons.wikimedia.org/wiki/File:Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg)
+  - Vu : Passage couvert blanchi à la chaux dans la vieille ville, homme en tenue blanche.
+  - Vérification : rejetée — Murs enduits et blanchis : matériau invisible, pisé seulement affirmé par la légende.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Adobe wall, Umaria district, MP, India.jpg](https://commons.wikimedia.org/wiki/File:Adobe_wall,_Umaria_district,_MP,_India.jpg)
+  - Vu : Mur enduit de terre clair avec poutres saillantes, botte de paille et cordes suspendues.
+  - Vérification : rejetée — Mur enduit, aucune trace de banchées ; catégorie « Adobe » : pisé non vérifiable, confusion avec terre crue.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Adobe wall, Umaria district, Madhya Pradesh, India.jpg](https://commons.wikimedia.org/wiki/File:Adobe_wall,_Umaria_district,_Madhya_Pradesh,_India.jpg)
+  - Vu : Même type de mur enduit de terre clair, étagère en bois, bottes de paille.
+  - Vérification : rejetée — Mur enduit sans couches de compactage visibles ; pisé non démontré.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Pisé Chassignieu abc1.jpg](https://commons.wikimedia.org/wiki/File:Pis%C3%A9_Chassignieu_abc1.jpg)
+  - Vu : Mur de maison enduit en partie haute, avec en bas une bande de terre à cailloux décroûtée au-dessus d'un soubassement de galets.
+  - Vérification : rejetée — Pisé seulement visible sur une bande dégradée, sans lits de banchée lisibles ; ambigu avec terre crue et galets/moellons.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Wall Finish.jpg](https://commons.wikimedia.org/wiki/File:Wall_Finish.jpg)
+  - Vu : Surface plane de terre rougeâtre compactée juste après décoffrage, avec de légères strates horizontales.
+  - Vérification : rejetée — Bien du pisé, mais strates à peine perceptibles : sur téléphone, surface brune uniforme, confusion possible avec terre crue ou béton.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Castillo de Xivert Muro de Alafia.JPG](https://commons.wikimedia.org/wiki/File:Castillo_de_Xivert_Muro_de_Alafia.JPG)
+  - Vu : Muraille de château avec maçonnerie de moellons en premier plan et grand mur à décor de faux appareil au-dessus.
+  - Vérification : rejetée — Tapial à chaux décoré en imitation de pierre de taille, moellons dominants : confusion forte.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ## Ornement
 

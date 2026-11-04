@@ -262,5 +262,53 @@
     "terme": "la cariatide",
     "definition": "Statue de femme qui sert de support à la place d'une colonne ou d'un pilastre.",
     "categorie": "Ornement"
+  },
+  {
+    "id": "brique",
+    "terme": "la brique",
+    "definition": "Bloc d'argile moulé puis cuit, utilisé en maçonnerie.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "parpaing",
+    "terme": "le parpaing",
+    "definition": "Bloc de béton moulé, souvent creux, utilisé pour monter des murs.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "pierre-de-taille",
+    "terme": "la pierre de taille",
+    "definition": "Pierre taillée en blocs aux faces dressées, posés en assises régulières.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "moellon",
+    "terme": "le moellon",
+    "definition": "Pierre brute ou grossièrement équarrie, de petite taille, employée en maçonnerie.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "beton-brut",
+    "terme": "le béton brut",
+    "definition": "Béton laissé apparent tel qu'il sort du coffrage, avec la trace des planches.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "tuile",
+    "terme": "la tuile",
+    "definition": "Élément de couverture en terre cuite ou en béton, posé en recouvrement sur un toit.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "ardoise",
+    "terme": "l'ardoise",
+    "definition": "Pierre fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
+    "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "carreau-de-ciment",
+    "terme": "le carreau de ciment",
+    "definition": "Carreau décoratif fait de ciment coloré pressé et séché, sans cuisson.",
+    "categorie": "Matériaux et revêtements"
   }
 ]

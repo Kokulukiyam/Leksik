@@ -1248,5 +1248,235 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Porch_of_the_Maidens_(Caryatids)_4.jpg",
     "statut": "validée",
     "note": "Vérification : Cariatide nette et dominante, chapiteau sur la tête bien visible ; les visiteurs n'introduisent aucune ambiguïté. Contre-vérification : Cariatide de l'Érechthéion, figure féminine drapée coiffée d'un chapiteau et d'un abaque ; elle est dominante et sans ambiguïté."
+  },
+  {
+    "id": "brique-03",
+    "termId": "brique",
+    "fichier": "commons/brique-03.webp",
+    "rectangle": null,
+    "lieu": "Nessebar, Bulgarie",
+    "source": "commons",
+    "auteur": "Kritzolina",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Church_of_St_Paraskevi,_details_of_the_outer_walls_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Briques cuites nettes et dominantes, texture et appareillage sans ambiguïté. Contre-vérification : Gros plan net d'une maçonnerie de briques de terre cuite avec joints de mortier, matériau sans ambiguïté."
+  },
+  {
+    "id": "parpaing-05",
+    "termId": "parpaing",
+    "fichier": "commons/parpaing-05.webp",
+    "rectangle": {
+      "x": 0.62,
+      "y": 0.53,
+      "largeur": 0.38,
+      "hauteur": 0.33
+    },
+    "lieu": "Île de Noho, Okinawa, Japon",
+    "source": "commons",
+    "auteur": "Kugel~commonswiki",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:House_and_concrete_block_wall_in_Noho_Island_202603.jpg",
+    "statut": "validée",
+    "note": "Vérification : Parpaings creux typiques en assises ; rectangle sur le mur de droite pour exclure la toiture en tuiles. Contre-vérification : Le rectangle cadre un mur de blocs de béton gris appareillés, les joints des parpaings sont lisibles ; pas de confusion avec le béton coffré."
+  },
+  {
+    "id": "parpaing-06",
+    "termId": "parpaing",
+    "fichier": "commons/parpaing-06.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.24,
+      "largeur": 0.76,
+      "hauteur": 0.47
+    },
+    "lieu": "Kamakura, Japon",
+    "source": "commons",
+    "auteur": "Ishikawa Ken from Kamakura, Japan",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Concrete_block_wall_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Parpaings de béton nets et caractéristiques ; rectangle sur le mur pour écarter l'affiche et les pierres du soubassement. Contre-vérification : Mur de blocs de béton gris vus de face, bien cadré par le rectangle qui exclut les pierres à droite et les claustras en haut."
+  },
+  {
+    "id": "pierre-de-taille-02",
+    "termId": "pierre-de-taille",
+    "fichier": "commons/pierre-de-taille-02.webp",
+    "rectangle": null,
+    "lieu": "Jérusalem",
+    "source": "commons",
+    "auteur": "Ian Scott",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Hasmonean_Masonry_from_a_Tower_(3622470040).jpg",
+    "statut": "validée",
+    "note": "Vérification : Blocs taillés aux faces dressées en assises régulières, dominants ; tout l'appareil visible est de la pierre de taille. Contre-vérification : Grands blocs de pierre équarris posés en assises régulières (avec bossages) et parement appareillé en dessous : pierre de taille caractéristique."
+  },
+  {
+    "id": "pierre-de-taille-03",
+    "termId": "pierre-de-taille",
+    "fichier": "commons/pierre-de-taille-03.webp",
+    "rectangle": null,
+    "lieu": "Comté de Mitchell, Kansas, États-Unis",
+    "source": "commons",
+    "auteur": "SharonPapierdreams",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Antelope_Creek_Masonry_Arch_Bridge_Mitchell_Co_KS_wing_wall.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pierre de taille clairement lisible (assises régulières, blocs dressés, pile massive) ; aucun autre matériau de la liste. Contre-vérification : Pont en grès fait de blocs taillés aux faces dressées et en assises régulières, bien visible."
+  },
+  {
+    "id": "pierre-de-taille-05",
+    "termId": "pierre-de-taille",
+    "fichier": "commons/pierre-de-taille-05.webp",
+    "rectangle": null,
+    "lieu": "Mellingen, Suisse",
+    "source": "commons",
+    "auteur": "Arkelin",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tunnel_unter_dem_Damm_der_Nationalbahn_bei_der_Station_Mellingen_03.jpg",
+    "statut": "validée",
+    "note": "Vérification : Blocs taillés à arêtes dressées et ciselure, assises régulières ; caractéristique de la pierre de taille. Contre-vérification : Gros plan de blocs de pierre équarris aux arêtes nettes, joints fins et assises régulières ; faces layées mais clairement taillées."
+  },
+  {
+    "id": "moellon-01",
+    "termId": "moellon",
+    "fichier": "commons/moellon-01.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.29,
+      "largeur": 0.8,
+      "hauteur": 0.6
+    },
+    "lieu": "Para Vista, Adélaïde, Australie",
+    "source": "commons",
+    "auteur": "Peripitus",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Limestone_rubble_wall_with_brick_quoins.jpg",
+    "statut": "validée",
+    "note": "Vérification : Moellons nets et typiques ; rectangle sur la maçonnerie de moellons pour exclure les chaînes d'angle en brique. Contre-vérification : Le rectangle cadre un mur de pierres brutes irrégulières hourdées au mortier, en excluant les chaînes d'angle en brique."
+  },
+  {
+    "id": "moellon-04",
+    "termId": "moellon",
+    "fichier": "commons/moellon-04.webp",
+    "rectangle": null,
+    "lieu": "Ribat Tit, El Jadida, Maroc",
+    "source": "commons",
+    "auteur": "Xpelli",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cylindrical_masonry_watchtower_along_western_wall,_Ribat_Tit_-_El_Jadida,_Morocco_-_Oct_2026.jpg",
+    "statut": "validée",
+    "note": "Vérification : Maçonnerie de moellons grossiers dominante et bien visible. Contre-vérification : Tour maçonnée en petites pierres brutes irrégulières liées au mortier, moellons bien visibles et dominants."
+  },
+  {
+    "id": "beton-brut-05",
+    "termId": "beton-brut",
+    "fichier": "commons/beton-brut-05.webp",
+    "rectangle": null,
+    "lieu": "Louvain-la-Neuve, Belgique",
+    "source": "commons",
+    "auteur": "EmDee",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Belgique_-_Louvain-la-Neuve_-_Place_des_Sciences_-_29.jpg",
+    "statut": "validée",
+    "note": "Vérification : Exemple type de béton brut avec la trace des planches de coffrage. Contre-vérification : Mur de béton portant nettement l'empreinte verticale des planches de coffrage et les bavures aux joints : béton brut de décoffrage typique."
+  },
+  {
+    "id": "tuile-02",
+    "termId": "tuile",
+    "fichier": "commons/tuile-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Kevin Doncaster",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tiles_(251207197).jpeg",
+    "statut": "validée",
+    "note": "Vérification : Tuiles nettes et dominantes, relief et recouvrement bien lisibles. Contre-vérification : Gros plan de tuiles mécaniques en recouvrement sur un toit, forme et emboîtement bien lisibles."
+  },
+  {
+    "id": "tuile-04",
+    "termId": "tuile",
+    "fichier": "commons/tuile-04.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.62,
+      "largeur": 1,
+      "hauteur": 0.38
+    },
+    "lieu": "Toten, Norvège",
+    "source": "commons",
+    "auteur": "Øyvind Holmstad",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:16-04-24_taktegl_PermaLiv.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tuiles canal bien caractérisées ; rectangle sur la couverture car le ciel occupe 60 % de l'image. Contre-vérification : Le rectangle cadre une toiture de tuiles en terre cuite en recouvrement, nombreuses et reconnaissables."
+  },
+  {
+    "id": "tuile-05",
+    "termId": "tuile",
+    "fichier": "commons/tuile-05.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.08,
+      "largeur": 1,
+      "hauteur": 0.48
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Ssemmanda will",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Types_of_roof_tiles_05.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tuiles mécaniques (type Marseille) très nettes ; rectangle nécessaire pour exclure les briques du mur ; l'enseigne ne donne pas le terme. Contre-vérification : Le rectangle cadre un toit de tuiles mécaniques en terre cuite, en excluant le panneau de briques en dessous."
+  },
+  {
+    "id": "ardoise-04",
+    "termId": "ardoise",
+    "fichier": "commons/ardoise-04.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.3,
+      "largeur": 0.78,
+      "hauteur": 0.7
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Kou07kou",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Toitardoise.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ardoises fines au crochet, très caractéristiques ; rectangle pour exclure le ciel et le bout de brique à droite. Contre-vérification : Le rectangle cadre une couverture d'ardoises naturelles fixées au crochet, plaques minces bien lisibles."
+  },
+  {
+    "id": "carreau-de-ciment-02",
+    "termId": "carreau-de-ciment",
+    "fichier": "commons/carreau-de-ciment-02.webp",
+    "rectangle": {
+      "x": 0.4,
+      "y": 0.18,
+      "largeur": 0.6,
+      "hauteur": 0.72
+    },
+    "lieu": "Tunis, Tunisie",
+    "source": "commons",
+    "auteur": "Youssefbensaad",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Carreaux_de_ciment_tunis_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Motifs et joints des carreaux bien lisibles ; rectangle pour exclure le marbre de l'escalier. Contre-vérification : Le rectangle cadre un sol de carreaux de ciment à motifs colorés mats, en excluant la marche en marbre."
+  },
+  {
+    "id": "carreau-de-ciment-03",
+    "termId": "carreau-de-ciment",
+    "fichier": "commons/carreau-de-ciment-03.webp",
+    "rectangle": null,
+    "lieu": "Tunis, Tunisie",
+    "source": "commons",
+    "auteur": "Youssefbensaad",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Carreaux_de_ciment_tunis_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Carreaux de ciment typiques, nets et dominants, joints visibles. Contre-vérification : Sol de carreaux de ciment à motifs géométriques et frise de grecques, matériau net et caractéristique."
   }
 ]

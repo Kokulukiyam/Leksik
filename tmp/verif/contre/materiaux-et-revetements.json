@@ -1,0 +1,21 @@
+[
+  { "cle": "brique/03", "accord": true, "raison": "Gros plan net d'une maçonnerie de briques de terre cuite avec joints de mortier, matériau sans ambiguïté." },
+  { "cle": "brique/04", "accord": false, "raison": "Mur de briques jaunes en fond, mais les portes et le volet en planches rouges dominent l'image et peuvent évoquer le bardage ; briques petites et peu lisibles sur téléphone." },
+  { "cle": "parpaing/05", "accord": true, "raison": "Le rectangle cadre un mur de blocs de béton gris appareillés, les joints des parpaings sont lisibles ; pas de confusion avec le béton coffré." },
+  { "cle": "parpaing/06", "accord": true, "raison": "Mur de blocs de béton gris vus de face, bien cadré par le rectangle qui exclut les pierres à droite et les claustras en haut." },
+  { "cle": "pierre-de-taille/02", "accord": true, "raison": "Grands blocs de pierre équarris posés en assises régulières (avec bossages) et parement appareillé en dessous : pierre de taille caractéristique." },
+  { "cle": "pierre-de-taille/03", "accord": true, "raison": "Pont en grès fait de blocs taillés aux faces dressées et en assises régulières, bien visible." },
+  { "cle": "pierre-de-taille/05", "accord": true, "raison": "Gros plan de blocs de pierre équarris aux arêtes nettes, joints fins et assises régulières ; faces layées mais clairement taillées." },
+  { "cle": "moellon/01", "accord": true, "raison": "Le rectangle cadre un mur de pierres brutes irrégulières hourdées au mortier, en excluant les chaînes d'angle en brique." },
+  { "cle": "moellon/04", "accord": true, "raison": "Tour maçonnée en petites pierres brutes irrégulières liées au mortier, moellons bien visibles et dominants." },
+  { "cle": "beton-brut/05", "accord": true, "raison": "Mur de béton portant nettement l'empreinte verticale des planches de coffrage et les bavures aux joints : béton brut de décoffrage typique." },
+  { "cle": "beton-brut/06", "accord": false, "raison": "Image pivotée de 90° (scène couchée sur le côté) et béton lisse de coffrage à panneaux avec trous de banches, sans la trace de planches qu'exige la définition." },
+  { "cle": "tuile/02", "accord": true, "raison": "Gros plan de tuiles mécaniques en recouvrement sur un toit, forme et emboîtement bien lisibles." },
+  { "cle": "tuile/04", "accord": true, "raison": "Le rectangle cadre une toiture de tuiles en terre cuite en recouvrement, nombreuses et reconnaissables." },
+  { "cle": "tuile/05", "accord": true, "raison": "Le rectangle cadre un toit de tuiles mécaniques en terre cuite, en excluant le panneau de briques en dessous." },
+  { "cle": "ardoise/04", "accord": true, "raison": "Le rectangle cadre une couverture d'ardoises naturelles fixées au crochet, plaques minces bien lisibles." },
+  { "cle": "tole-ondulee/01", "accord": false, "raison": "Le toit en tôle ondulée est visible, mais le rectangle descend jusqu'aux panneaux de lattes de bambou verticales qui peuvent être pris pour du bardage ; cadrage trop large." },
+  { "cle": "tole-ondulee/02", "accord": false, "raison": "Tôle ondulée rouillée très nette, mais le rectangle englobe aussi le haut du bardage en planches verticales sous l'égout, terme concurrent de la catégorie." },
+  { "cle": "carreau-de-ciment/02", "accord": true, "raison": "Le rectangle cadre un sol de carreaux de ciment à motifs colorés mats, en excluant la marche en marbre." },
+  { "cle": "carreau-de-ciment/03", "accord": true, "raison": "Sol de carreaux de ciment à motifs géométriques et frise de grecques, matériau net et caractéristique." }
+]
