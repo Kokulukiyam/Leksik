@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Figure from "./Figure";
-import { CATEGORIES, imageSrc, type Image, type Term } from "@/lib/shared";
+import { CATEGORIES, compatibles, imageSrc, type Image, type Term } from "@/lib/shared";
 
 const TAILLE_PARTIE = 10;
 const CLE = "leksik:partie";
@@ -39,7 +39,7 @@ function sauver(p: Partie | null) {
 
 /** 3 mauvaises réponses de la même catégorie (complétées ailleurs si la catégorie est trop petite). */
 function choixPour(term: Term, terms: Term[]): string[] {
-  const autres = terms.filter((t) => t.id !== term.id && t.terme !== term.terme);
+  const autres = terms.filter((t) => t.id !== term.id && t.terme !== term.terme && compatibles(t.id, term.id));
   const memeCat = melanger(autres.filter((t) => t.categorie === term.categorie));
   const ailleurs = melanger(autres.filter((t) => t.categorie !== term.categorie));
   const faux = [...memeCat, ...ailleurs].slice(0, 3).map((t) => t.id);

@@ -1,0 +1,53 @@
+{
+  "termId": "case-a-impluvium",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entrée couverte à poteaux peints menant à un grand dôme décoré de motifs, jardin fleuri de bougainvilliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ziguinchor, Sénégal",
+      "note": "Bâtiment contemporain (Alliance franco-sénégalaise) seulement inspiré du type ; impluvium invisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur en terre d'une habitation à toit de chaume, fenêtre, linge et bidons devant ; image très retouchée (HDR).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enampore, Sénégal",
+      "note": "Façade extérieure seule, toit en entonnoir non visible ; traitement HDR marqué."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand fromager au premier plan, longue maison à toit de chaume au loin entre les palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enampore, Sénégal",
+      "note": "Maison petite, à l'ombre, en partie cachée ; impluvium non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bâtiment carré enduit rouge à toit de tôle à quatre pans, avec un tableau accroché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Porto-Novo, Bénin",
+      "note": "Hors sujet : case du palais Honmè au Bénin, sans impluvium."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cour intérieure circulaire à ciel ouvert, bassin en terre avec un arbre au centre, bords du toit de chaume tombant tout autour, portes des chambres en périphérie.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Enampore, Sénégal",
+      "note": "Montre l'élément définissant : l'ouverture centrale du toit en entonnoir et le bassin de l'impluvium ; occupe toute l'image."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grande habitation basse en terre sous un vaste toit de chaume, vue de l'extérieur sur un terrain sablonneux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enampore, Sénégal",
+      "note": "De l'extérieur, l'entonnoir et l'impluvium ne se voient pas : identification seulement par hypothèse."
+    }
+  ]
+}

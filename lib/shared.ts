@@ -107,3 +107,21 @@ export function rectValide(r: unknown): r is Rect {
     (x as number) + (largeur as number) <= 1.002 && (y as number) + (hauteur as number) <= 1.002
   );
 }
+
+/**
+ * Paires de termes jamais proposées ensemble : l'un est un cas particulier de l'autre, ou l'un se voit
+ * forcément sur la photo de l'autre (relevé par la relecture du contenu).
+ */
+const INCOMPATIBLES: [string, string][] = [
+  ["coupole", "voute"],
+  ["arc-boutant", "arc"],
+  ["cle-de-voute", "arc"],
+  ["cle-de-voute", "voute"],
+  ["case-a-impluvium", "case"],
+  ["modillon", "corniche"],
+  ["chapiteau", "pilastre"],
+];
+
+export function compatibles(a: string, b: string) {
+  return !INCOMPATIBLES.some(([x, y]) => (x === a && y === b) || (x === b && y === a));
+}

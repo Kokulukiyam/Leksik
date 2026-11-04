@@ -817,6 +817,12 @@
    "banco Mali",
    "mud brick Mali building",
    "adobe Burkina Faso house"
+  ],
+  "requetes2": [
+   "mud brick wall Mali",
+   "adobe wall Djenné",
+   "banco Burkina Faso maison",
+   "mud architecture Mali wall"
   ]
  },
  {
@@ -849,6 +855,11 @@
    "Dogon granary",
    "grenier dogon",
    "Dogon granaries"
+  ],
+  "requetes2": [
+   "Dogon granary Bandiagara",
+   "greniers Dogon falaise",
+   "granaries Dogon village"
   ]
  },
  {
@@ -860,17 +871,27 @@
    "case à impluvium",
    "impluvium Casamance",
    "Enampore"
+  ],
+  "requetes2": [
+   "case à impluvium Casamance",
+   "impluvium house Senegal",
+   "Enampor impluvium"
   ]
  },
  {
   "id": "case",
-  "terme": "la case",
+  "terme": "la case ronde",
   "categorie": "Afrique de l'Ouest",
   "definition": "Habitation traditionnelle de plan circulaire, aux murs en terre et au toit conique de paille.",
   "requetes": [
    "case Sénégal village",
    "hut Senegal village thatched",
    "round hut thatched roof Africa"
+  ],
+  "requetes2": [
+   "round hut thatched roof Senegal",
+   "case ronde Sénégal",
+   "traditional round house thatched Mali village"
   ]
  }
 ]

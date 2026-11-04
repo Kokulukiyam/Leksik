@@ -8,6 +8,11 @@
       "chambranle porte",
       "incategory:\"Door frames\"",
       "door surround molding"
+    ],
+    "requetes2": [
+      "chambranle mouluré",
+      "moulded window surround stone",
+      "door architrave surround classical facade"
     ]
   },
   "candidats": [
@@ -130,6 +135,147 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Manoir_de_Livet._Partie_du_chambranle_de_la_porte_ouest.jpg/1280px-Manoir_de_Livet._Partie_du_chambranle_de_la_porte_ouest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2736,
       "hauteur": 3648
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Nouvel Opéra. Avant-foyer (Chambranle. Moulures) - Charles Garnier - btv1b53180043z.jpg",
+      "description": "Sujet : Opéra Garnier (Paris) Plans Plan Langue : français",
+      "categories": [
+        "Charles Garnier",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "Large images",
+        "PD US expired",
+        "PD France",
+        "Images from Gallica",
+        "CC-PD-Mark",
+        "Files from Gallica",
+        "PD-old missing SDC copyright status",
+        "PD-US missing SDC copyright status",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot"
+      ],
+      "auteur": "Garnier, Charles (1825-1898). Dessinateur. Ancien possesseur",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nouvel_Op%C3%A9ra._Avant-foyer_(Chambranle._Moulures)_-_Charles_Garnier_-_btv1b53180043z.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Nouvel_Op%C3%A9ra._Avant-foyer_%28Chambranle._Moulures%29_-_Charles_Garnier_-_btv1b53180043z.jpg/1280px-Nouvel_Op%C3%A9ra._Avant-foyer_%28Chambranle._Moulures%29_-_Charles_Garnier_-_btv1b53180043z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8888,
+      "hauteur": 13016
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Casino de Monte-Carlo - détail du chambranle de l'avant-scène et des moulures recevant la partie circulaire de ce chambranle - coupes - N°71B - Charles Garnier - btv1b53091307m.jpg",
+      "description": "Langue : français français",
+      "categories": [
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "Large images",
+        "PD US expired",
+        "PD France",
+        "Images from Gallica",
+        "CC-PD-Mark",
+        "Files from Gallica",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot",
+        "Architectural drawings of the Casino de Monte Carlo by Charles Garnier"
+      ],
+      "auteur": "Garnier, Charles (1825-1898). Dessinateur",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casino_de_Monte-Carlo_-_d%C3%A9tail_du_chambranle_de_l%27avant-sc%C3%A8ne_et_des_moulures_recevant_la_partie_circulaire_de_ce_chambranle_-_coupes_-_N%C2%B071B_-_Charles_Garnier_-_btv1b53091307m.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Casino_de_Monte-Carlo_-_d%C3%A9tail_du_chambranle_de_l%27avant-sc%C3%A8ne_et_des_moulures_recevant_la_partie_circulaire_de_ce_chambranle_-_coupes_-_N%C2%B071B_-_Charles_Garnier_-_btv1b53091307m.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 12807,
+      "hauteur": 9212
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Chambranle des croisées et portes d'armoires ; Chambranles des portes ; Anglaise - dessin - Jean-Jacques Lequeu - btv1b53165473t (1 of 2).jpg",
+      "description": "Sujet : Portes Moulures Toilettes (pièces) Chambranles Paris (France) -- Hôtel Montholon Dessins et plans -- 18e siècle Profil (architecture) Plan",
+      "categories": [
+        "Jean-Jacques Lequeu",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD France",
+        "Images from Gallica",
+        "CC-PD-Mark",
+        "Files from Gallica",
+        "PD-old missing SDC copyright status",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot"
+      ],
+      "auteur": "Lequeu, Jean-Jacques (1757-1826). Dessinateur",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_;_Chambranles_des_portes_;_Anglaise_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b53165473t_(1_of_2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_%3B_Chambranles_des_portes_%3B_Anglaise_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b53165473t_%281_of_2%29.jpg/1280px-Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_%3B_Chambranles_des_portes_%3B_Anglaise_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b53165473t_%281_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5681,
+      "hauteur": 3924
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Chambranle des croisées et portes d'armoires ; Chambranles des portes ; Anglaise - dessin - Jean-Jacques Lequeu - btv1b53165473t (2 of 2).jpg",
+      "description": "Sujet : Portes Moulures Toilettes (pièces) Chambranles Paris (France) -- Hôtel Montholon Dessins et plans -- 18e siècle Profil (architecture) Plan",
+      "categories": [
+        "Jean-Jacques Lequeu",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD France",
+        "Images from Gallica",
+        "CC-PD-Mark",
+        "Files from Gallica",
+        "PD-old missing SDC copyright status",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot"
+      ],
+      "auteur": "Lequeu, Jean-Jacques (1757-1826). Dessinateur",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_;_Chambranles_des_portes_;_Anglaise_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b53165473t_(2_of_2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_%3B_Chambranles_des_portes_%3B_Anglaise_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b53165473t_%282_of_2%29.jpg/1280px-Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_%3B_Chambranles_des_portes_%3B_Anglaise_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b53165473t_%282_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5700,
+      "hauteur": 3876
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Chambranle des croisées et portes d'armoires - dessin - Jean-Jacques Lequeu - btv1b7703563r (2 of 2).jpg",
+      "description": "Sujet : Portes Moulures Toilettes (pièces) Chambranles Paris (France) -- Hôtel Montholon Dessins et plans -- 18e siècle Profil (architecture) Plan",
+      "categories": [
+        "Jean-Jacques Lequeu",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD US expired",
+        "PD France",
+        "Images from Gallica",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "PD-US missing SDC copyright status",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot",
+        "Images from Gallica needing categories"
+      ],
+      "auteur": "Lequeu, Jean Jacques (1757-1826). Dessinateur",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_(2_of_2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_%282_of_2%29.jpg/1280px-Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_%282_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2040
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Chambranle des croisées et portes d'armoires - dessin - Jean-Jacques Lequeu - btv1b7703563r (1 of 2).jpg",
+      "description": "Sujet : Portes Moulures Toilettes (pièces) Chambranles Paris (France) -- Hôtel Montholon Dessins et plans -- 18e siècle Profil (architecture) Plan",
+      "categories": [
+        "Jean-Jacques Lequeu",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD US expired",
+        "PD France",
+        "Images from Gallica",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "PD-US missing SDC copyright status",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot",
+        "Images from Gallica needing categories"
+      ],
+      "auteur": "Lequeu, Jean Jacques (1757-1826). Dessinateur",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_(1_of_2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_%281_of_2%29.jpg/1280px-Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_%281_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2023
     }
-  ]
+  ],
+  "suite": true
 }

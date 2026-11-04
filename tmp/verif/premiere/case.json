@@ -1,0 +1,53 @@
+{
+  "termId": "case",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petite cabane en planches de bois au toit plat, entourée d'une clôture de poteaux et de cordes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sénégal",
+      "note": "Pas une case : abri en bois, ni plan circulaire, ni murs en terre, ni toit conique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Carte postale ancienne : rue de village bordée de palissades et de huttes en roseaux, légende imprimée en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rufisque, Sénégal",
+      "note": "Huttes en roseaux (pas de murs en terre) peu lisibles ; carte postale avec légende imprimée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Long hangar ouvert sur poteaux de bois, toit de chaume, bancs dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sénégal",
+      "note": "Hangar ouvert, pas une habitation circulaire ; pourrait évoquer un abri type toguna."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Carte postale ancienne : palissades et toits de chaume au bord d'une lagune, quatre personnes au centre, légende imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rufisque, Sénégal",
+      "note": "Cases cachées derrière les palissades, seuls des toits visibles ; légende imprimée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Petite construction ronde aux murs enduits de terre et porte orange, toit conique de chaume en partie bâché, derrière des branches et une palissade tressée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Noflaye, Sénégal",
+      "note": "Bon type, mais petite, masquée par les branches et la palissade, toit recouvert de bâches : trop peu lisible sur un téléphone."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tirage ancien flou d'une place de village avec rôniers, quelques toits coniques au loin, annotations manuscrites et réglette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sénégal",
+      "note": "Cases minuscules et floues ; annotation manuscrite « un village noir »."
+    }
+  ]
+}
