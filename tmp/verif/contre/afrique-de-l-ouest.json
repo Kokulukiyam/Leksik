@@ -1,0 +1,9 @@
+[
+  { "cle": "toron/03", "accord": true, "raison": "Photo réelle de la Grande Mosquée de Djenné ; le rectangle cadre de près un groupe de pièces de bois saillantes sur la tour centrale en banco : ce sont bien des torons, l'élément désigné n'est pas le mur lui-même." },
+  { "cle": "toron/04", "accord": true, "raison": "Photo réelle d'une mosquée soudano-sahélienne en banco ; le rectangle encadre précisément trois pièces de bois fichées en saillie dans le mur : torons sans ambiguïté, bien lisibles." },
+  { "cle": "toguna/01", "accord": false, "raison": "Abri bas à toit épais de tiges, mais les supports sont en maçonnerie de pierre continue avec une ouverture de type porte : l'ensemble se lit comme une case en pierre plutôt qu'un abri ouvert sur piliers bas ; image sombre et peu lisible sur téléphone, illustration ambiguë du toguna." },
+  { "cle": "toguna/02", "accord": true, "raison": "Photo réelle d'un toguna dogon au pied de la falaise de Bandiagara : piliers bas en bois sculptés portant un toit de tiges ; le rectangle cadre l'abri sans englober d'autre construction." },
+  { "cle": "toguna/03", "accord": true, "raison": "Photo réelle d'un toguna dogon dominant le cadre : rangées de piliers bas en bois sculptés de figures portant une couverture de tiges de mil ; aucun autre terme de la catégorie ne convient." },
+  { "cle": "grenier-dogon/04", "accord": true, "raison": "Photo réelle d'un grenier dogon en banco surélevé sur pierres, avec petites portes en bois et toit conique de paille ; le rectangle cadre tout le bâtiment, les chevilles de bois ne peuvent pas être prises pour la réponse." },
+  { "cle": "case-a-impluvium/05", "accord": true, "raison": "Photo réelle de l'intérieur d'une case à impluvium diola : cour centrale circulaire avec bassin de recueil, couverture de chaume qui s'incline vers l'ouverture centrale et portes des chambres autour ; caractéristique et sans confusion possible avec la case ronde." }
+]
