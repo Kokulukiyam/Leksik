@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "chaussures-de-securite",
+    "terme": "les chaussures de sécurité",
+    "categorie": "Chantier et outillage",
+    "definition": "Chaussures montantes à coque de protection et semelle anti-perforation.",
+    "priorite": 1,
+    "requetes": [
+      "safety boots steel toe",
+      "chaussures de sécurité",
+      "safety footwear"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:S3 safety footwear.jpg",
+      "description": "Catégorie S3 Neskrid Cherokee II chaussures de sécurité.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-LS60",
+        "Shoelaces",
+        "Self-published work",
+        "Lace-up boots",
+        "Black leather boots",
+        "Work boots",
+        "Steel-toe boots"
+      ],
+      "auteur": "Francis Flinch",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:S3_safety_footwear.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/S3_safety_footwear.jpg/1280px-S3_safety_footwear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2485,
+      "hauteur": 2041
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:DeWalt Newark steel toe work boots.jpg",
+      "description": "One of my DeWalt Newark work boots that I use for my construction work since they come with a steel toe cap.",
+      "categories": [
+        "DeWalt",
+        "Leather boots",
+        "Self-published work",
+        "Information field template with formatting",
+        "Work boots",
+        "Steel-toe boots"
+      ],
+      "auteur": "Best For My Feet",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DeWalt_Newark_steel_toe_work_boots.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/DeWalt_Newark_steel_toe_work_boots.jpg/1280px-DeWalt_Newark_steel_toe_work_boots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Keen Uttility Lansing steel toe work boots.jpg",
+      "description": "This is the steel toe KEEN Utility Lansing work boot that I've used for my construction day job.",
+      "categories": [
+        "Self-published work",
+        "Information field template with formatting",
+        "Work boots"
+      ],
+      "auteur": "Best For My Feet",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Keen_Uttility_Lansing_steel_toe_work_boots.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Keen_Uttility_Lansing_steel_toe_work_boots.jpg/1280px-Keen_Uttility_Lansing_steel_toe_work_boots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:XenaWorkwear-Gravity-Safety-Shoe.jpg",
+      "description": "Xena Workwear Gravity Steel-toe shoe",
+      "categories": [
+        "Self-published work",
+        "Safety boots",
+        "Safety footwear",
+        "Safety shoe",
+        "Steel-Toe boots",
+        "Steel-Toe shoes",
+        "Steel Toe boots",
+        "Steel Toe shoes"
+      ],
+      "auteur": "Foorej41",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:XenaWorkwear-Gravity-Safety-Shoe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/XenaWorkwear-Gravity-Safety-Shoe.jpg/1280px-XenaWorkwear-Gravity-Safety-Shoe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3133,
+      "hauteur": 4177
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Caterpillar Outline steel toe work boots.jpg",
+      "description": "This is the Caterpillar Outline safety boot that comes with a steel toe cap to be used in industrial environments.",
+      "categories": [
+        "Self-published work",
+        "Information field template with formatting",
+        "Work boots",
+        "Brown leather boots",
+        "Single boots",
+        "Caterpillar footwear"
+      ],
+      "auteur": "Best For My Feet",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caterpillar_Outline_steel_toe_work_boots.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Caterpillar_Outline_steel_toe_work_boots.jpg/1280px-Caterpillar_Outline_steel_toe_work_boots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:DeWalt Newark work boots cut in half.jpg",
+      "description": "I've cut in half my pair of DeWalt Newark steel toe safety boots in order to learn and find out more about how this boot is made and what goes into it.",
+      "categories": [
+        "Protective shoes",
+        "DeWalt",
+        "Footwear components",
+        "Self-published work",
+        "Information field template with formatting",
+        "Work boots"
+      ],
+      "auteur": "Best For My Feet",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DeWalt_Newark_work_boots_cut_in_half.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/DeWalt_Newark_work_boots_cut_in_half.jpg/1280px-DeWalt_Newark_work_boots_cut_in_half.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

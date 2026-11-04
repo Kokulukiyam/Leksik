@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "etai",
+    "terme": "l'étai",
+    "categorie": "Chantier et outillage",
+    "definition": "Pièce verticale provisoire, en bois ou en métal, qui soutient un coffrage, une dalle ou un ouvrage le temps qu'il tienne seul.",
+    "priorite": 1,
+    "requetes": [
+      "shoring props slab formwork",
+      "étais dalle",
+      "incategory:\"Shoring\""
+    ],
+    "incompatibles": [
+      "etai-metallique",
+      "etai-en-bois"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Juliette Drouet à Victor Hugo, 26 juillet lundi midi 14 1847, a7950(3).jpg",
+      "description": "Auteur(s): Drouet, Juliette (Julienne Gauvain, dite) (Fougères, 10–04–1806 - Paris, 11–05–1883), auteur du texte Date de production: En 26–07–1847 Datation en siècle: 19e siècle Type(s) d'objet(s): Manuscrits, imprimés, reliure Dénomination(s): Lettre autographe Dimensions - Oeuvre: Hauteur : 21 cm Largeur : 13.5 cm Description: 4 Feuillets Marques, inscriptions, poinçons: Inscription - 26 juillet [1847], lundi, midi ¼Quel temps, mon Dieu ! Jamais, depuis bientôt trois ans que je demeure ici, la pluie n’avait passé à travers les fenêtres comme aujourd’hui. Les rideaux sont trempés et les tentu",
+      "categories": [
+        "CC-Zero",
+        "Images from Paris Musées",
+        "Letters of Maison de Victor Hugo"
+      ],
+      "auteur": "Drouet, Juliette (Julienne Gauvain, dite) (Fougères, 10–04–1806 - Paris, 11–05–1883), auteur du texte",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Juliette_Drouet_%C3%A0_Victor_Hugo,_26_juillet_lundi_midi_14_1847,_a7950(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Juliette_Drouet_%C3%A0_Victor_Hugo%2C_26_juillet_lundi_midi_14_1847%2C_a7950%283%29.jpg/1280px-Juliette_Drouet_%C3%A0_Victor_Hugo%2C_26_juillet_lundi_midi_14_1847%2C_a7950%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1712,
+      "hauteur": 2543
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Consolidation column house faun Pompeii.jpg",
+      "description": "Consolidation d'une colonne dans la Maison du Faune à Pompéi, Italie.",
+      "categories": [
+        "CC-Zero",
+        "Shoring",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2015-07-24",
+        "Columns in Pompeii",
+        "House of the Faun (Pompeii) - Servile rooms"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Consolidation_column_house_faun_Pompeii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Consolidation_column_house_faun_Pompeii.jpg/1280px-Consolidation_column_house_faun_Pompeii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3056,
+      "hauteur": 4432
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Juliette Drouet à Victor Hugo, 26 juillet lundi midi 14 1847, a7950(4).jpg",
+      "description": "Auteur(s): Drouet, Juliette (Julienne Gauvain, dite) (Fougères, 10–04–1806 - Paris, 11–05–1883), auteur du texte Date de production: En 26–07–1847 Datation en siècle: 19e siècle Type(s) d'objet(s): Manuscrits, imprimés, reliure Dénomination(s): Lettre autographe Dimensions - Oeuvre: Hauteur : 21 cm Largeur : 13.5 cm Description: 4 Feuillets Marques, inscriptions, poinçons: Inscription - 26 juillet [1847], lundi, midi ¼Quel temps, mon Dieu ! Jamais, depuis bientôt trois ans que je demeure ici, la pluie n’avait passé à travers les fenêtres comme aujourd’hui. Les rideaux sont trempés et les tentu",
+      "categories": [
+        "CC-Zero",
+        "Images from Paris Musées",
+        "Letters of Maison de Victor Hugo"
+      ],
+      "auteur": "Drouet, Juliette (Julienne Gauvain, dite) (Fougères, 10–04–1806 - Paris, 11–05–1883), auteur du texte",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Juliette_Drouet_%C3%A0_Victor_Hugo,_26_juillet_lundi_midi_14_1847,_a7950(4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Juliette_Drouet_%C3%A0_Victor_Hugo%2C_26_juillet_lundi_midi_14_1847%2C_a7950%284%29.jpg/1280px-Juliette_Drouet_%C3%A0_Victor_Hugo%2C_26_juillet_lundi_midi_14_1847%2C_a7950%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2547
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chas2.jpg",
+      "description": "Ram Mandir",
+      "categories": [
+        "Scaffolding",
+        "Images with annotations",
+        "Shoring",
+        "Chas Ghodegaon",
+        "Buildings in Pune district",
+        "Self-published work",
+        "Building construction in India",
+        "Streets in Maharashtra",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Mansingbhor",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chas2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Chas2.jpg/1280px-Chas2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6762,
+      "hauteur": 3808
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Juliette Drouet à Victor Hugo, 26 juillet lundi midi 14 1847, a7950(2).jpg",
+      "description": "Auteur(s): Drouet, Juliette (Julienne Gauvain, dite) (Fougères, 10–04–1806 - Paris, 11–05–1883), auteur du texte Date de production: En 26–07–1847 Datation en siècle: 19e siècle Type(s) d'objet(s): Manuscrits, imprimés, reliure Dénomination(s): Lettre autographe Dimensions - Oeuvre: Hauteur : 21 cm Largeur : 13.5 cm Description: 4 Feuillets Marques, inscriptions, poinçons: Inscription - 26 juillet [1847], lundi, midi ¼Quel temps, mon Dieu ! Jamais, depuis bientôt trois ans que je demeure ici, la pluie n’avait passé à travers les fenêtres comme aujourd’hui. Les rideaux sont trempés et les tentu",
+      "categories": [
+        "CC-Zero",
+        "Images from Paris Musées",
+        "Letters of Maison de Victor Hugo"
+      ],
+      "auteur": "Drouet, Juliette (Julienne Gauvain, dite) (Fougères, 10–04–1806 - Paris, 11–05–1883), auteur du texte",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Juliette_Drouet_%C3%A0_Victor_Hugo,_26_juillet_lundi_midi_14_1847,_a7950(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Juliette_Drouet_%C3%A0_Victor_Hugo%2C_26_juillet_lundi_midi_14_1847%2C_a7950%282%29.jpg/1280px-Juliette_Drouet_%C3%A0_Victor_Hugo%2C_26_juillet_lundi_midi_14_1847%2C_a7950%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 2539
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Gorge shoring related to Hurricane Helene damage in Western North Carolina on October 17, 2024 - 13.jpg",
+      "description": "Gorge shoring related to Hurricane Helene damage in Western North Carolina on October 17, 2024",
+      "categories": [
+        "Shoring",
+        "Flickr images reviewed by FlickreviewR 2",
+        "October 2024 in North Carolina",
+        "Effects of Hurricane Helene (2024) in North Carolina"
+      ],
+      "auteur": "NCDOTcommunications",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gorge_shoring_related_to_Hurricane_Helene_damage_in_Western_North_Carolina_on_October_17,_2024_-_13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Gorge_shoring_related_to_Hurricane_Helene_damage_in_Western_North_Carolina_on_October_17%2C_2024_-_13.jpg/1280px-Gorge_shoring_related_to_Hurricane_Helene_damage_in_Western_North_Carolina_on_October_17%2C_2024_-_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    }
+  ]
+}

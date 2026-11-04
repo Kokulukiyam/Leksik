@@ -1,0 +1,19 @@
+{
+  "terme": {
+    "id": "gargouille-de-terrasse",
+    "terme": "la gargouille de terrasse",
+    "categorie": "Toitures",
+    "definition": "Tube court qui traverse l'acrotère et rejette l'eau d'une toiture-terrasse loin de la façade.",
+    "priorite": 1,
+    "requetes": [
+      "scupper drain parapet pipe",
+      "gargouille terrasse PVC",
+      "rainwater spout through parapet"
+    ],
+    "incompatibles": [
+      "gargouille",
+      "acrotere"
+    ]
+  },
+  "candidats": []
+}

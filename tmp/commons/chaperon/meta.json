@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "chaperon",
+    "terme": "le chaperon",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Couronnement en pente d'un mur de clôture ou d'un pilier, qui rejette l'eau de pluie.",
+    "priorite": 1,
+    "requetes": [
+      "wall coping",
+      "chaperon de mur",
+      "coping stone wall"
+    ],
+    "incompatibles": [
+      "mur-de-cloture"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Downhills Park Road mossy wall, Haringey London 1.jpg",
+      "description": "Moss covered wall boundary of Downhills Park , on Downhills Park Road in Haringey , London, England. Mobile device view : Wikimedia (April 2020) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Downhills Park , and this uploader's Walls and Parks and Gardens photos. You can add a click-through 'categories' button to the very bottom of photo-pages you view by going to settings... three-bar icon top left. Desktop view : Wikimedia (April 2020) makes it difficult to immediately view the helpful category links where you can ",
+      "categories": [
+        "Downhills Park",
+        "Photographs with aspect ratio of 4:3",
+        "Self-published work",
+        "United Kingdom photographs taken on 2020-04-10",
+        "Flora of London in April",
+        "Bryophyta in London",
+        "Brick walls in London",
+        "April 2020 in London",
+        "Acabashi photos: fences, gates and walls",
+        "Bryophyta in the Northern Hemisphere in April",
+        "Spring in the London Borough of Haringey",
+        "Coping stones",
+        "London green spaces and flora photos taken with Canon PowerShot SX60 HS",
+        "Buildings in the London Borough of Haringey photographed in 2020"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Downhills_Park_Road_mossy_wall,_Haringey_London_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Downhills_Park_Road_mossy_wall%2C_Haringey_London_1.jpg/1280px-Downhills_Park_Road_mossy_wall%2C_Haringey_London_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4490,
+      "hauteur": 3367
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Projet de décor pour l'Opéra Comique La Princesse Jaune de Gallet et Saint-Saens, 2ème arrondissement, en 1873, D.3856.jpg",
+      "description": "Auteur(s): Chaperon, Philippe-Marie (Paris, 02–02–1823 - Lagny-sur-Marne, 1907), dessinateur Autre titre: Décor pour l'Opéra Comique la princesse Jaune. 1873. (Titre inscrit (lettre)) Date de production: En 1873 Type(s) d'objet(s): Dessin, Arts graphiques Dénomination(s): Dessin Dimensions - Oeuvre: Hauteur : 7.2 cm Largeur : 10.1 cm Dimensions - Montage du musée: Hauteur : 11.9 cm Largeur : 28.3 cm Dimensions - Passe-partout du musée: Hauteur : 40 cm Largeur : 50 cm Marques, inscriptions, poinçons: Numéro d'inventaire - Au recto, sur le carton bleu en bas à gauche sous le dessin, manuscrit à ",
+      "categories": [
+        "CC-Zero",
+        "Philippe Chaperon",
+        "Artworks without Wikidata item",
+        "Images from Paris Musées",
+        "Drawings in Musée Carnavalet",
+        "La Princesse jaune"
+      ],
+      "auteur": "Philippe Chaperon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Projet_de_d%C3%A9cor_pour_l%27Op%C3%A9ra_Comique_La_Princesse_Jaune_de_Gallet_et_Saint-Saens,_2%C3%A8me_arrondissement,_en_1873,_D.3856.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Projet_de_d%C3%A9cor_pour_l%27Op%C3%A9ra_Comique_La_Princesse_Jaune_de_Gallet_et_Saint-Saens%2C_2%C3%A8me_arrondissement%2C_en_1873%2C_D.3856.jpg/1280px-Projet_de_d%C3%A9cor_pour_l%27Op%C3%A9ra_Comique_La_Princesse_Jaune_de_Gallet_et_Saint-Saens%2C_2%C3%A8me_arrondissement%2C_en_1873%2C_D.3856.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5469,
+      "hauteur": 3860
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Downhills Park Road mossy wall, Haringey London 2.jpg",
+      "description": "Moss covered wall boundary of Downhills Park , on Downhills Park Road in Haringey , London, England. Mobile device view : Wikimedia (April 2020) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Downhills Park , and this uploader's Walls and Parks and Gardens photos. You can add a click-through 'categories' button to the very bottom of photo-pages you view by going to settings... three-bar icon top left. Desktop view : Wikimedia (April 2020) makes it difficult to immediately view the helpful category links where you can ",
+      "categories": [
+        "Downhills Park",
+        "Photographs with aspect ratio of 4:3",
+        "Self-published work",
+        "United Kingdom photographs taken on 2020-04-10",
+        "Flora of London in April",
+        "Bryophyta in London",
+        "Brick walls in London",
+        "April 2020 in London",
+        "Acabashi photos: fences, gates and walls",
+        "Fences in the London Borough of Haringey",
+        "Bryophyta in the Northern Hemisphere in April",
+        "Spring in the London Borough of Haringey",
+        "Coping stones",
+        "London green spaces and flora photos taken with Canon PowerShot SX60 HS",
+        "Buildings in the London Borough of Haringey photographed in 2020"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Downhills_Park_Road_mossy_wall,_Haringey_London_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Downhills_Park_Road_mossy_wall%2C_Haringey_London_2.jpg/1280px-Downhills_Park_Road_mossy_wall%2C_Haringey_London_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4366,
+      "hauteur": 3275
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Maquette de décor de théâtre, pour l'opéra les Huguenots (acte I) de Meyerbeer, joué en 1874, D.6741.jpg",
+      "description": "Auteur(s): Chaperon, Philippe-Marie (Paris, 02–02–1823 - Lagny-sur-Marne, 1907), dessinateur Autre titre: Les Huguenots 2 derrière 1er acte (Titre attribué) Date de production: Entre 1869 et 1879 Type(s) d'objet(s): Dessin, Arts graphiques Dénomination(s): Dessin Dimensions - Oeuvre: Hauteur : 35.5 cm Largeur : 56.8 cm Dimensions - Montage du musée: Hauteur : 50 cm Largeur : 65 cm Description: Partie d'une maquette de théâtre composée de quatre éléments : CARD06739, CARD06740, CARD06741 et CARD06742. Marques, inscriptions, poinçons: Numéro d'inventaire - Au recto, sur le dessin en bas à droite",
+      "categories": [
+        "CC-Zero",
+        "Images from Paris Musées",
+        "Drawings in Musée Carnavalet"
+      ],
+      "auteur": "Chaperon, Philippe-Marie (Paris, 02–02–1823 - Lagny-sur-Marne, 1907), dessinateur",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Maquette_de_d%C3%A9cor_de_th%C3%A9%C3%A2tre,_pour_l%27op%C3%A9ra_les_Huguenots_(acte_I)_de_Meyerbeer,_jou%C3%A9_en_1874,_D.6741.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Maquette_de_d%C3%A9cor_de_th%C3%A9%C3%A2tre%2C_pour_l%27op%C3%A9ra_les_Huguenots_%28acte_I%29_de_Meyerbeer%2C_jou%C3%A9_en_1874%2C_D.6741.jpg/1280px-Maquette_de_d%C3%A9cor_de_th%C3%A9%C3%A2tre%2C_pour_l%27op%C3%A9ra_les_Huguenots_%28acte_I%29_de_Meyerbeer%2C_jou%C3%A9_en_1874%2C_D.6741.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 1910
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Maquette de décor pour l'opéra les Huguenots (acte I) de Meyerbeer, joué en 1874. D.6740.jpg",
+      "description": "Auteur(s): Chaperon, Philippe-Marie (Paris, 02–02–1823 - Lagny-sur-Marne, 1907), dessinateur Date de production: Entre 1869 et 1879 Type(s) d'objet(s): Dessin, Arts graphiques Dénomination(s): Dessin Dimensions - Oeuvre: Hauteur : 45.3 cm Largeur : 58.2 cm Dimensions - Montage du musée: Hauteur : 50 cm Largeur : 65 cm Description: Partie d'une maquette de théâtre composée de quatre éléments : CARD06739, CARD06740, CARD06741 et CARD06742. Marques, inscriptions, poinçons: Inscription - Au recto, sur le dessin en bas à droite, numéro d'entrée manuscrit à l'encre rouge : \"E 8142(5)A.14\". \\ Inscrip",
+      "categories": [
+        "CC-Zero",
+        "Images from Paris Musées",
+        "Drawings in Musée Carnavalet"
+      ],
+      "auteur": "Chaperon, Philippe-Marie (Paris, 02–02–1823 - Lagny-sur-Marne, 1907), dessinateur",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Maquette_de_d%C3%A9cor_pour_l%27op%C3%A9ra_les_Huguenots_(acte_I)_de_Meyerbeer,_jou%C3%A9_en_1874._D.6740.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Maquette_de_d%C3%A9cor_pour_l%27op%C3%A9ra_les_Huguenots_%28acte_I%29_de_Meyerbeer%2C_jou%C3%A9_en_1874._D.6740.jpg/1280px-Maquette_de_d%C3%A9cor_pour_l%27op%C3%A9ra_les_Huguenots_%28acte_I%29_de_Meyerbeer%2C_jou%C3%A9_en_1874._D.6740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2352
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Garden wall with travertine yellow rockface cladding and coping.jpg",
+      "description": "View of a garden wall clad with travertine veneers (type: Yellow) in Rockface style. The top is finished with matching travertine coping stones to protect the masonry from moisture. Author: Frank Petry / Marmormagia Naturstein.",
+      "categories": [
+        "Travertine",
+        "Self-published work",
+        "Garden walls in Germany",
+        "Coping stones"
+      ],
+      "auteur": "Frank Petry / Marmormagia Naturstein (User: Fravert)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Garden_wall_with_travertine_yellow_rockface_cladding_and_coping.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Garden_wall_with_travertine_yellow_rockface_cladding_and_coping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1000,
+      "hauteur": 750
+    }
+  ]
+}

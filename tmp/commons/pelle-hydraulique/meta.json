@@ -1,0 +1,156 @@
+{
+  "terme": {
+    "id": "pelle-hydraulique",
+    "terme": "la pelle hydraulique",
+    "categorie": "Chantier et outillage",
+    "definition": "Engin de terrassement sur chenilles ou pneus, à tourelle pivotante et bras articulé terminé par un godet.",
+    "priorite": 1,
+    "requetes": [
+      "hydraulic excavator",
+      "pelle hydraulique chantier",
+      "incategory:\"Excavators\""
+    ],
+    "incompatibles": [
+      "mini-pelle"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Caterpillar 330 excavator on a pile of dirt.jpg",
+      "description": "A Caterpillar 330 excavator on a pile of dirt",
+      "categories": [
+        "Self-published work",
+        "Caterpillar 330",
+        "Construction sites in the United States",
+        "Excavators in the United States",
+        "Photographs by Matthew T Rader",
+        "Still Life Photographs by Matthew T Rader"
+      ],
+      "auteur": "Matthew T Rader",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caterpillar_330_excavator_on_a_pile_of_dirt.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Caterpillar_330_excavator_on_a_pile_of_dirt.jpg/1280px-Caterpillar_330_excavator_on_a_pile_of_dirt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Caterpillar 302.7D excavator on Barrow Street.jpg",
+      "description": "A Caterpillar 302.7D mini hydraulic excavator at a work site on Barrow Street in Dublin, Ireland.",
+      "categories": [
+        "Republic of Ireland photographs taken on 2019-05-06",
+        "Taken with Google Pixel XL",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Nov 2017-Aug 2019)",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by Grendelkhan",
+        "Construction sites in Dublin",
+        "Caterpillar 302.7D"
+      ],
+      "auteur": "Grendelkhan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caterpillar_302.7D_excavator_on_Barrow_Street.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Caterpillar_302.7D_excavator_on_Barrow_Street.jpg/1280px-Caterpillar_302.7D_excavator_on_Barrow_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3582,
+      "hauteur": 2883
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Doosan DX85R-3 excavator in Remiremont, France - 2022-05-03 - 01.jpg",
+      "description": "Mini-pelle Doosan DX85R-3 sur la rive sud du canal d'alimentation du réservoir de Bouzey à Remiremont (Vosges, France).",
+      "categories": [
+        "Grand Est photographs taken on 2022-05-03",
+        "May 2022 in Vosges",
+        "Excavators in Vosges",
+        "Self-published work",
+        "Doosan DX85R-3",
+        "Orange land vehicles in France",
+        "2022 in construction in France",
+        "2022 in Remiremont",
+        "Photographs by Mathieu Kappler taken in 2022",
+        "Files with coordinates missing SDC location of creation (48° N, 6° E)",
+        "Photographs by Mathieu Kappler taken with Canon PowerShot G9 X",
+        "Remiremont photographs by Mathieu Kappler",
+        "Construction photographs by Mathieu Kappler",
+        "Construction vehicles in Remiremont"
+      ],
+      "auteur": "Mathieu Kappler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Doosan_DX85R-3_excavator_in_Remiremont,_France_-_2022-05-03_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Doosan_DX85R-3_excavator_in_Remiremont%2C_France_-_2022-05-03_-_01.jpg/1280px-Doosan_DX85R-3_excavator_in_Remiremont%2C_France_-_2022-05-03_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Pala excavadora.jpg",
+      "description": "It is a self-propelled machine, on tires or tracks, with a structure capable of rotating at least 360º (in one direction and another, and without interruption) that excavates land, or loads, lifts, rotates and unloads material by the action of the spoon.",
+      "categories": [
+        "Excavator buckets",
+        "Parque Metropolitano de Santiago",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Hydraulic shovels",
+        "JCB excavators"
+      ],
+      "auteur": "Rjcastillo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pala_excavadora.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Pala_excavadora.jpg/1280px-Pala_excavadora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6749,
+      "hauteur": 4499
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Excavator in Brittany France.JPG",
+      "description": "An excavator in Brittany, France",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot G3",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Excavators in France",
+        "Tracked 360 degree diggers",
+        "New Holland E215"
+      ],
+      "auteur": "DocteurCosmos",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Excavator_in_Brittany_France.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Excavator_in_Brittany_France.JPG/1280px-Excavator_in_Brittany_France.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Drilling rig and a digger at a construction site in Tuntorp.jpg",
+      "description": "Epiroc SmartRoc T40 surface drill rig from Vestfold Fjellboring AS, drilling blast holes for dynamite into granite rocks at a construction site for a new house in Tuntorp, Brastad, Lysekil Municipality, Sweden. A Trimble Hitachi Zaxis 224 US LC DMM hydraulic excavator with steel tracks from Scapus AB is moving the broken granite blocks and levelling the ground.",
+      "categories": [
+        "Taken with Canon EOS 600D and Canon EF-S 18-55mm f/3.5-5.6 IS II",
+        "Bohus Granite",
+        "Self-published work",
+        "Building construction sites in Sweden",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of Lysekil Municipality",
+        "Featured pictures of machines",
+        "Featured pictures of objects in Sweden",
+        "Hitachi excavators",
+        "Rock blastings",
+        "Images by W.carter, my own favorites",
+        "Vehicles in Lysekil Municipality",
+        "Tuntorp, Brastad",
+        "Epiroc SmartROC T40",
+        "Featured pictures by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg/1280px-Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5057,
+      "hauteur": 3372
+    }
+  ]
+}

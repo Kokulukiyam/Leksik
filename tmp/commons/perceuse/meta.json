@@ -1,0 +1,165 @@
+{
+  "terme": {
+    "id": "perceuse",
+    "terme": "la perceuse",
+    "categorie": "Chantier et outillage",
+    "definition": "Outil électrique à main qui fait tourner un foret pour percer des trous.",
+    "priorite": 1,
+    "requetes": [
+      "electric drill",
+      "perceuse",
+      "incategory:\"Electric drills\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:PalmercarpenterA.jpg",
+      "description": "Charpentier au travail sur le barrage de Douglas, au Tennesee (de l'Autorité de Vallée du Tennessee). Photographie prise en 1942. Cette image documente le travail du charpentier et les techniques de photographie en couleur des années 1940. En particulier, cette photo répond aux canons de son époque, avec une forte saturation. Tiếng Việt: Một người thợ mộc đang làm việc. Ảnh chụp năm 1942 tại Douglas Dam, Tennessee, Mỹ. Português: Fotografia de 1942 de um carpinteiro trabalhando em Douglas Dam, Tennessee. Enciclopédico tanto como um documento de carpintaria durante essa época como um exemplo hi",
+      "categories": [
+        "Braces (tool)",
+        "Images from the Library of Congress",
+        "Retouched pictures",
+        "Masculinity",
+        "Bib overalls",
+        "Featured pictures of Tennessee",
+        "20th-century men of the United States",
+        "Featured pictures on Wikipedia, English",
+        "Fashion in 1942",
+        "PD US FSA/OWI",
+        "Featured pictures on Wikipedia, Turkish",
+        "Featured pictures on Wikipedia, Vietnamese",
+        "Men at work in Tennessee",
+        "People of the United States in 1942",
+        "Carpenters in the United States",
+        "Men with hard hats",
+        "Featured photographs in the public domain",
+        "Featured pictures taken on slide film",
+        "Featured pictures from the Library of Congress",
+        "Color photographs from the Office of War Information",
+        "Men at work in the 1940s",
+        "Carpenters at work",
+        "Douglas Dam photographs by Alfred T. Palmer"
+      ],
+      "auteur": "Alfred T. Palmer",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:PalmercarpenterA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/PalmercarpenterA.jpg/1280px-PalmercarpenterA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2301,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Drilling rig and a digger at a construction site in Tuntorp.jpg",
+      "description": "Epiroc SmartRoc T40 surface drill rig from Vestfold Fjellboring AS, drilling blast holes for dynamite into granite rocks at a construction site for a new house in Tuntorp, Brastad, Lysekil Municipality, Sweden. A Trimble Hitachi Zaxis 224 US LC DMM hydraulic excavator with steel tracks from Scapus AB is moving the broken granite blocks and levelling the ground.",
+      "categories": [
+        "Taken with Canon EOS 600D and Canon EF-S 18-55mm f/3.5-5.6 IS II",
+        "Bohus Granite",
+        "Self-published work",
+        "Building construction sites in Sweden",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of Lysekil Municipality",
+        "Featured pictures of machines",
+        "Featured pictures of objects in Sweden",
+        "Hitachi excavators",
+        "Rock blastings",
+        "Images by W.carter, my own favorites",
+        "Vehicles in Lysekil Municipality",
+        "Tuntorp, Brastad",
+        "Epiroc SmartROC T40",
+        "Featured pictures by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg/1280px-Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5057,
+      "hauteur": 3372
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Drilling rig at a construction site in Tuntorp.jpg",
+      "description": "Epiroc SmartRoc T40 surface drill rig from Vestfold Fjellboring AS, drilling blast holes for dynamite into granite rocks at a construction site for a new house in Tuntorp, Brastad, Lysekil Municipality, Sweden. The image is focus stacked from two photos.",
+      "categories": [
+        "Retouched pictures",
+        "Rock blasting",
+        "Taken with Canon EOS 600D and Canon EF-S 18-55mm f/3.5-5.6 IS II",
+        "Bohus Granite",
+        "Self-published work",
+        "Sweden photographs taken on 2022-10-03",
+        "Building construction sites in Sweden",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of Lysekil Municipality",
+        "Featured pictures of machines",
+        "Images by W.carter, my own favorites",
+        "Vehicles in Lysekil Municipality",
+        "Tuntorp, Brastad",
+        "Epiroc SmartROC T40",
+        "Reused images by W.carter",
+        "Featured pictures by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drilling_rig_at_a_construction_site_in_Tuntorp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Drilling_rig_at_a_construction_site_in_Tuntorp.jpg/1280px-Drilling_rig_at_a_construction_site_in_Tuntorp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3372,
+      "hauteur": 5058
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Makita 18v electric drill (1).jpg",
+      "description": "Makita 18V electric drill",
+      "categories": [
+        "Makita LXT",
+        "Makita cordless drills"
+      ],
+      "auteur": "Helar Lukats",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Makita_18v_electric_drill_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Makita_18v_electric_drill_%281%29.jpg/1280px-Makita_18v_electric_drill_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Drill inside.jpg",
+      "description": "A look inside a standard, thyristor regulated, 500 W drill. (CMI 500E)",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Corded electric drills",
+        "Cutaways of tools"
+      ],
+      "auteur": "FDominec",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drill_inside.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Drill_inside.jpg/1280px-Drill_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Drill bits 2017 G1.jpg",
+      "description": "A set of drill bits in a workshop. Ukraine",
+      "categories": [
+        "Taken with Canon EOS 750D",
+        "Drill bits",
+        "Featured pictures of Ukraine",
+        "Self-published work",
+        "PD-self",
+        "Featured pictures by George Chernilevsky",
+        "Featured photographs in the public domain",
+        "Images by George Chernilevsky"
+      ],
+      "auteur": "George Chernilevsky",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drill_bits_2017_G1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Drill_bits_2017_G1.jpg/1280px-Drill_bits_2017_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5600,
+      "hauteur": 3500
+    }
+  ]
+}

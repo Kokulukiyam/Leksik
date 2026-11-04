@@ -1,0 +1,92 @@
+{
+  "terme": {
+    "id": "garde-corps-a-barreaudage",
+    "terme": "le garde-corps à barreaudage",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps métallique à barreaux verticaux rapprochés fixés entre une lisse haute et une lisse basse.",
+    "priorite": 1,
+    "requetes": [
+      "vertical bar railing balcony",
+      "garde-corps barreaudage",
+      "metal balcony railing vertical bars"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "balcon"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Sosnowiec, Małachowskieog 9 - hostel, Kamienica pub, Maya Tapas Bar, Dzień i Noc, Sierpień 2024 KsP 096.jpg",
+      "description": "Immeuble de rapport au 9 rue Stanisława Małachowskiego à Sosnowiec , dans le centre-ville, voïvodie de Silésie, Pologne , le 24 août 2024. La photographie montre la façade principale d’un immeuble urbain à plusieurs étages avec des locaŭ de service au rez-de-chaussée et une auberge aŭ étages supérieurs : inscription « HOSTEL », entrée de « Kamienica », enseignes « Maya Tapas Bar » et « Dzień i Noc », terrasses de restauration, parasols, tables, chaises, clients, jardinières, balcons, loggias, éléments de façade saillants, pignons décoratifs, ornements de façade, fenêtres, câbles aériens et bât",
+      "categories": [
+        "Małachowskiego Street in Sosnowiec",
+        "9 Małachowskiego Street in Sosnowiec",
+        "Buildings in Sosnowiec",
+        "Self-published work",
+        "Hostels in Poland",
+        "Restaurants in Silesian Voivodeship",
+        "On OSM",
+        "Open air restaurant and café areas in Poland",
+        "Files with coordinates missing SDC location of creation",
+        "2024 in Sosnowiec"
+      ],
+      "auteur": "Krzysztof Popławski",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sosnowiec,_Ma%C5%82achowskieog_9_-_hostel,_Kamienica_pub,_Maya_Tapas_Bar,_Dzie%C5%84_i_Noc,_Sierpie%C5%84_2024_KsP_096.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sosnowiec%2C_Ma%C5%82achowskieog_9_-_hostel%2C_Kamienica_pub%2C_Maya_Tapas_Bar%2C_Dzie%C5%84_i_Noc%2C_Sierpie%C5%84_2024_KsP_096.jpg/1280px-Sosnowiec%2C_Ma%C5%82achowskieog_9_-_hostel%2C_Kamienica_pub%2C_Maya_Tapas_Bar%2C_Dzie%C5%84_i_Noc%2C_Sierpie%C5%84_2024_KsP_096.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7008,
+      "hauteur": 4672
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Hotel Russell - 2015-08-23.jpg",
+      "description": "The Russell Hotel seen near Russell Square in Bloomsbury. It was still raining as we headed towards the British Museum. Had earlier left Russell Square Underground Station via Marchmont Street (wasn't very well signposted). So went round in a circle to get to Russell Square. Saw this building before we crossed through the square to the museum. From here the view was from Woburn Place. The hotel is Grade II* listed. Russell Hotel and Attached Railings with Piers and Lamps, Camden CAMDEN TQ3082SW RUSSELL SQUARE 798-1/95/1423 (East side) 03/12/70 Russell Hotel and attached railings with piers and",
+      "categories": [
+        "Hotel Russell",
+        "London photographs taken on 2015-08-23",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)"
+      ],
+      "auteur": "Elliott Brown",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hotel_Russell_-_2015-08-23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Hotel_Russell_-_2015-08-23.jpg/1280px-Hotel_Russell_-_2015-08-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:6 Grand Avenue Hove 09-2026.jpg",
+      "description": "6 Grand Avenue, Hove , United Kingdom . Photographed 9 September 2026. Listing details: House, now subdivided into flats. c1880. Architect E.J.Ockenden. Yellow stock bricks, extensive use of moulded brick dress, hipped slate roof, tall stacks with moulded caps rising on returns and at rear. Double-fronted. 3 storeys plus attic over basement, 3:1:3 bays, full-height canted bay left and full-height bow right, moulded surrounds to window openings, all sash windows without glazing bars except to the 3 gabled dormers with ornamental surrounds and one vertical glazing bar each, modillion moulded cor",
+      "categories": [
+        "Listed buildings in England",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Files with coordinates missing SDC location of creation (50° N, 1° W)",
+        "Images from Wiki Loves Monuments 2026",
+        "Listed buildings in England missing SDC depicts",
+        "Listed buildings in England missing SDC location of creation",
+        "Houses in Hove, East Sussex",
+        "Buildings in East Sussex photographed in 2026",
+        "Images from Wiki Loves Monuments 2026 in the United Kingdom",
+        "Images from Wiki Loves Monuments 2026 in England",
+        "WLM-UK 2026 unfiltered 09-09",
+        "East Sussex photographs taken on 2026-09-09",
+        "2026 in Hove, East Sussex"
+      ],
+      "auteur": "Transgenderoriole",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:6_Grand_Avenue_Hove_09-2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/6_Grand_Avenue_Hove_09-2026.jpg/1280px-6_Grand_Avenue_Hove_09-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 6240
+    }
+  ]
+}

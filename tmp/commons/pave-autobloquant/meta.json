@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "pave-autobloquant",
+    "terme": "le pavé autobloquant",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Pavé en béton à formes emboîtables, posé sur sable sans mortier, très employé pour les trottoirs et cours à Dakar.",
+    "priorite": 1,
+    "requetes": [
+      "interlocking paving",
+      "pavé autobloquant",
+      "interlocking concrete pavers"
+    ],
+    "incompatibles": [
+      "pave",
+      "trottoir"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Paver Blocks Exterior Circular 3008px.jpg",
+      "description": "Pavés devant l'entrée du musée de Winterthur, dans le Delaware.",
+      "categories": [
+        "Taken with Nikon D50",
+        "GFDL-1.2",
+        "Interlocking stones",
+        "Photographs with aspect ratio of 3:2",
+        "ISO speed rating 200",
+        "Self-published work",
+        "Featured pictures by Derek Ramsey",
+        "Photographs by Derek Ramsey",
+        "Exposure time 1/320 sec",
+        "Brown impressions",
+        "Stone pavement textures",
+        "F-number f/10",
+        "Brown textures",
+        "Grounds of Winterthur Museum",
+        "Featured pictures of texture photography",
+        "Featured pictures of floors"
+      ],
+      "auteur": "Photo by and (c)2007 Derek Ramsey ( Ram-Man )",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paver_Blocks_Exterior_Circular_3008px.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Paver_Blocks_Exterior_Circular_3008px.jpg/1280px-Paver_Blocks_Exterior_Circular_3008px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Interlocking concrete pavers ao 16k (Amal Kumar via Poly Haven) JPG.jpg",
+      "description": "Texture of a parquet pattern that can also be found in European regions. Length: 1.8 meters. Sampling: 9102 px/m.",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with OpenRefine",
+        "Files uploaded by PantheraLeo1359531",
+        "Files from Poly Haven (flat list)",
+        "Files uploaded with OpenRefine by PantheraLeo1359531",
+        "Interlocking Concrete Pavers (Poly Haven)"
+      ],
+      "auteur": "Amal Kumar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interlocking_concrete_pavers_ao_16k_(Amal_Kumar_via_Poly_Haven)_JPG.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Interlocking_concrete_pavers_ao_16k_%28Amal_Kumar_via_Poly_Haven%29_JPG.jpg/1280px-Interlocking_concrete_pavers_ao_16k_%28Amal_Kumar_via_Poly_Haven%29_JPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 16384,
+      "hauteur": 16384
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Paving stones concrete s-shape 2025-03-11.jpg",
+      "description": "Paving stones concrete s-shape",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (49° N, 6° E)",
+        "Interlocking concrete paver in Germany"
+      ],
+      "auteur": "Goodidea",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paving_stones_concrete_s-shape_2025-03-11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Paving_stones_concrete_s-shape_2025-03-11.jpg/1280px-Paving_stones_concrete_s-shape_2025-03-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Interlocking concrete pavers arm 16k (Amal Kumar via Poly Haven) JPG.jpg",
+      "description": "Texture of a parquet pattern that can also be found in European regions. Length: 1.8 meters. Sampling: 9102 px/m.",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with OpenRefine",
+        "Files uploaded by PantheraLeo1359531",
+        "Files from Poly Haven (flat list)",
+        "Files uploaded with OpenRefine by PantheraLeo1359531",
+        "Interlocking Concrete Pavers (Poly Haven)"
+      ],
+      "auteur": "Amal Kumar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interlocking_concrete_pavers_arm_16k_(Amal_Kumar_via_Poly_Haven)_JPG.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Interlocking_concrete_pavers_arm_16k_%28Amal_Kumar_via_Poly_Haven%29_JPG.jpg/1280px-Interlocking_concrete_pavers_arm_16k_%28Amal_Kumar_via_Poly_Haven%29_JPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 16384,
+      "hauteur": 16384
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Grey herringbone wavy interlocking seamless block floor paving texture.jpg",
+      "description": "this is a seamless texture of a paving surface photographed in a warm climate. It was turned into a texture, using photo editing software, \"gimp\".",
+      "categories": [
+        "CC-Zero",
+        "Created with GIMP",
+        "Paving",
+        "Self-published work",
+        "Tileable textures"
+      ],
+      "auteur": "Sisters.seamless",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grey_herringbone_wavy_interlocking_seamless_block_floor_paving_texture.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Grey_herringbone_wavy_interlocking_seamless_block_floor_paving_texture.jpg/1280px-Grey_herringbone_wavy_interlocking_seamless_block_floor_paving_texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1718,
+      "hauteur": 1692
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Interlocking concrete pavers diff 16k (Amal Kumar via Poly Haven) JPG.jpg",
+      "description": "Texture of a parquet pattern that can also be found in European regions. Length: 1.8 meters. Sampling: 9102 px/m.",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with OpenRefine",
+        "Files uploaded by PantheraLeo1359531",
+        "Files from Poly Haven (flat list)",
+        "Files uploaded with OpenRefine by PantheraLeo1359531",
+        "Interlocking Concrete Pavers (Poly Haven)"
+      ],
+      "auteur": "Amal Kumar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interlocking_concrete_pavers_diff_16k_(Amal_Kumar_via_Poly_Haven)_JPG.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Interlocking_concrete_pavers_diff_16k_%28Amal_Kumar_via_Poly_Haven%29_JPG.jpg/1280px-Interlocking_concrete_pavers_diff_16k_%28Amal_Kumar_via_Poly_Haven%29_JPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 16384,
+      "hauteur": 16384
+    }
+  ]
+}

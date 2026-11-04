@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "panne",
+    "terme": "la panne",
+    "categorie": "Toitures",
+    "definition": "Pièce horizontale de charpente, parallèle au faîtage, posée sur les fermes et qui porte les chevrons ou la couverture.",
+    "priorite": 1,
+    "requetes": [
+      "roof purlins",
+      "pannes charpente",
+      "steel purlins roof"
+    ],
+    "incompatibles": [
+      "charpente"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Purlins.JPG",
+      "description": "CFS purlins",
+      "categories": [
+        "Taken with Sony DSC-T900",
+        "Purlins",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Rfehr613",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Purlins.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Purlins.JPG/1280px-Purlins.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Pfettendach, Marktplatz von London-Bermondsey (2024).jpg",
+      "description": "Pfettendach, Marktplatz von London-Bermondsey (2024)",
+      "categories": [
+        "Bermondsey",
+        "Roofs",
+        "Southwark Park Road, London",
+        "Purlins",
+        "Self-published work",
+        "Market places in London"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pfettendach,_Marktplatz_von_London-Bermondsey_(2024).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pfettendach%2C_Marktplatz_von_London-Bermondsey_%282024%29.jpg/1280px-Pfettendach%2C_Marktplatz_von_London-Bermondsey_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2209,
+      "hauteur": 1608
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Seabees measure purlins on the roof of Tinian Elementary School. (30969747657).jpg",
+      "description": "TINIAN, Commonwealth of the Northern Mariana Islands (Nov. 14, 2018) Builder 3rd Class William Mathis, from Ragland, Ala., and Builder 2nd Class Anthony DeSalvo, from Savona, N.Y., both assigned to Naval Mobile Construction Battalion 1, Detachment Guam, measure purlins on the roof of Tinian Elementary School during Super Typhoon Yutu recovery efforts. Service members from Joint Region Marianas and U.S. Indo-Pacific Command are providing Department of Defense support to the Commonwealth of the Northern Mariana Islands' civil and local officials as part of the Federal Emergency Management Agency",
+      "categories": [
+        "Tinian",
+        "Typhoon Yutu (2018)",
+        "PD US Navy",
+        "Flickr images missing SDC creator",
+        "CC-PD-Mark",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by the United States Navy",
+        "Builder (United States Navy)",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Official U.S. Navy Page from United States of America MC2 Kelsey J. Hockenberger/U.S. Navy",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seabees_measure_purlins_on_the_roof_of_Tinian_Elementary_School._(30969747657).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Seabees_measure_purlins_on_the_roof_of_Tinian_Elementary_School._%2830969747657%29.jpg/1280px-Seabees_measure_purlins_on_the_roof_of_Tinian_Elementary_School._%2830969747657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5417,
+      "hauteur": 3611
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Interieur speelhuis, zolder, detail nokgording - Lisse - 20340656 - RCE.jpg",
+      "description": "Keukenhof: Interieur speelhuis, zolder, detail nokgording",
+      "categories": [
+        "Speelhuis (Kasteel Keukenhof)",
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Purlins",
+        "Rijksmonumenten with known IDs",
+        "Buildings with addresses",
+        "Photographs by Gerard Dukker in Lisse (2000)"
+      ],
+      "auteur": "Gerard Dukker",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interieur_speelhuis,_zolder,_detail_nokgording_-_Lisse_-_20340656_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Interieur_speelhuis%2C_zolder%2C_detail_nokgording_-_Lisse_-_20340656_-_RCE.jpg/1280px-Interieur_speelhuis%2C_zolder%2C_detail_nokgording_-_Lisse_-_20340656_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3014,
+      "hauteur": 3026
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bogen-Bachstraße-19.jpg",
+      "description": "Bogen, Bachststraße 19. Giebelhaus, Obergeschoss-Blockbau mit Flachsatteldach, im Gebälk bez. \"1725\", Haustür bez. 1840. Ehemalige Fronfeste.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Cultural heritage monuments in Bogen",
+        "Purlins",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Elcom.stadler",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bogen-Bachstra%C3%9Fe-19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bogen-Bachstra%C3%9Fe-19.jpg/1280px-Bogen-Bachstra%C3%9Fe-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Common purlin framing.JPG",
+      "description": "This barn roof framing is of \"common purlin\" construction which is commonly found in old buildings in most of New England and some other regions. The wind braces between the principal rafters and the ridge beam are characteristic of a \"five sided ridge\" beam.",
+      "categories": [
+        "Taken with Canon PowerShot G9",
+        "Rafters (structural systems)",
+        "Barns in Maine",
+        "Self-published work",
+        "Timber framing in the United States"
+      ],
+      "auteur": "Jim Derby",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Common_purlin_framing.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Common_purlin_framing.JPG/1280px-Common_purlin_framing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

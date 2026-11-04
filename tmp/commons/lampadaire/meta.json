@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "lampadaire",
+    "terme": "le lampadaire",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Haut mât portant un ou plusieurs luminaires qui éclairent la rue.",
+    "priorite": 1,
+    "requetes": [
+      "street light pole",
+      "lampadaire",
+      "incategory:\"Street lights\""
+    ],
+    "incompatibles": [
+      "lampadaire-solaire"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mere Lane lamp standard 1.jpg",
+      "description": "Grade II listed lamp standard, late 19th century in iron, richly ornamented with scrolled base and two (since replaced) luminaires.",
+      "categories": [
+        "Rodhullandemu images",
+        "Mere Lane lamp standard",
+        "Attribution only license",
+        "Self-published work"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mere_Lane_lamp_standard_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mere_Lane_lamp_standard_1.jpg/1280px-Mere_Lane_lamp_standard_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3189,
+      "hauteur": 4500
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Street light 07092012..jpg",
+      "description": "A street light in Burdwan.",
+      "categories": [
+        "Taken with Nikon D90",
+        "Bardhaman",
+        "Taken with Nikon AF Nikkor 50mm f/1.8D",
+        "Self-published work",
+        "Information field template with formatting",
+        "Photographs and images by Joydeep",
+        "Street lights in West Bengal",
+        "Light poles in India"
+      ],
+      "auteur": "Joydeep",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Street_light_07092012..jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Street_light_07092012..jpg/1280px-Street_light_07092012..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2438,
+      "hauteur": 2438
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Réverbère - 20150802 17h53 (10751).jpg",
+      "description": "Réverbère à Disneyland Paris.",
+      "categories": [
+        "Disney's Hotel Newport Bay",
+        "Taken with Canon EOS 6D and Canon EF 24-70mm F2.8L II USM",
+        "Self-published work",
+        "Images by Medium69",
+        "Photographs by Medium69",
+        "Information field template with formatting",
+        "Street lights in Île-de-France",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Pendant street lights"
+      ],
+      "auteur": "Une autre de mes images: Cette photographie a été prise par Medium69 (William Crochot) et publié sous la licence ci-dessous. Vous êtes libre de l'utiliser aussi longtemps que vous citez l'auteur (Will",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:R%C3%A9verb%C3%A8re_-_20150802_17h53_(10751).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/R%C3%A9verb%C3%A8re_-_20150802_17h53_%2810751%29.jpg/1280px-R%C3%A9verb%C3%A8re_-_20150802_17h53_%2810751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2791,
+      "hauteur": 4186
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Barcelona - Farola Avenida Gaudi.jpg",
+      "description": "Réverbère conçu en 1909 par l'architecte Pere Falqués , sur l' avenue Gaudí de Barcelone en Catalogne.",
+      "categories": [
+        "Taken with Nikon D5100",
+        "Streetlamps of Avinguda Gaudí",
+        "Self-published work",
+        "Featured pictures of Barcelona",
+        "Featured pictures by Selbymay",
+        "December 2011 in Barcelona",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Selbymay",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Farola_Avenida_Gaudi.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Barcelona_-_Farola_Avenida_Gaudi.jpg/1280px-Barcelona_-_Farola_Avenida_Gaudi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3080,
+      "hauteur": 4649
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Branch hanging on light pole, Annandale Drive Townsville.jpg",
+      "description": "Branch hanging on light pole, Annandale Drive Townsville.",
+      "categories": [
+        "Cyclone Yasi (2011)",
+        "Annandale, Queensland",
+        "Flickr images reviewed by FlickreviewR",
+        "Light poles",
+        "Street lights in Queensland",
+        "Roads in Townsville"
+      ],
+      "auteur": "Rob and Stephanie Levy from Townsville, Australia",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Branch_hanging_on_light_pole,_Annandale_Drive_Townsville.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Branch_hanging_on_light_pole%2C_Annandale_Drive_Townsville.jpg/1280px-Branch_hanging_on_light_pole%2C_Annandale_Drive_Townsville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1988,
+      "hauteur": 2922
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A utility pole in a street in Klaten.jpg",
+      "description": "A utility pole housing a transformer and a street light with blue sky background.",
+      "categories": [
+        "Utility poles in Indonesia",
+        "License review needed",
+        "Pole-mounted transformers in Indonesia",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "Utility poles in Central Java",
+        "Public lighting on utility poles",
+        "Utility poles by country",
+        "Public lighting on utility poles in Indonesia"
+      ],
+      "auteur": "NawanP",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_utility_pole_in_a_street_in_Klaten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/A_utility_pole_in_a_street_in_Klaten.jpg/1280px-A_utility_pole_in_a_street_in_Klaten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    }
+  ]
+}

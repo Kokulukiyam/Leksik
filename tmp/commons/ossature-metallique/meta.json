@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "ossature-metallique",
+    "terme": "l'ossature métallique",
+    "categorie": "Structure",
+    "definition": "Structure porteuse faite de profilés d'acier assemblés : poteaux, poutres et contreventements.",
+    "priorite": 1,
+    "requetes": [
+      "steel frame building construction",
+      "ossature métallique",
+      "structural steel frame"
+    ],
+    "incompatibles": [
+      "poteau-metallique",
+      "profile-en-i",
+      "profile-en-h"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Steel frame building under construction in Taiwan.jpg",
+      "description": "Steel frame building under construction in Taiwan",
+      "categories": [
+        "CC-Zero",
+        "Tower cranes in Taiwan",
+        "Skyscraper construction in Taiwan",
+        "Steel structures in Taiwan",
+        "Self-published work"
+      ],
+      "auteur": "SSJF01",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Steel_frame_building_under_construction_in_Taiwan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Steel_frame_building_under_construction_in_Taiwan.jpg/1280px-Steel_frame_building_under_construction_in_Taiwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Construction worker on steel framing of hollywoodHUB at Hollywood Transit Center, Portland, Oregon (January 2026).jpg",
+      "description": "A construction worker in safety gear works on metal stud framing high up in the structural grid of the 12-story hollywoodHUB affordable housing development at the Hollywood Transit Center site. This transit-oriented project by BRIDGE Housing and TriMet, featuring 222 units, is under construction with completion expected around 2026–2027.",
+      "categories": [
+        "Hollywood, Portland, Oregon",
+        "Affordable housing",
+        "Self-published work",
+        "Construction in Oregon",
+        "Files with coordinates missing SDC location of creation",
+        "Steel frame buildings"
+      ],
+      "auteur": "PortlandAppraisalBlog",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_worker_on_steel_framing_of_hollywoodHUB_at_Hollywood_Transit_Center,_Portland,_Oregon_(January_2026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Construction_worker_on_steel_framing_of_hollywoodHUB_at_Hollywood_Transit_Center%2C_Portland%2C_Oregon_%28January_2026%29.jpg/1280px-Construction_worker_on_steel_framing_of_hollywoodHUB_at_Hollywood_Transit_Center%2C_Portland%2C_Oregon_%28January_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5712,
+      "hauteur": 4284
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Steel frame structure.jpg",
+      "description": "Steel frame structure under construction",
+      "categories": [
+        "CC-Zero",
+        "Westby, Wisconsin",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2024-03-12",
+        "Steel frame buildings",
+        "Steel frame buildings in the United States"
+      ],
+      "auteur": "Wikideas1",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Steel_frame_structure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Steel_frame_structure.jpg/1280px-Steel_frame_structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2228
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Construction worker measuring framing at hollywoodHUB, Portland, Oregon.jpg",
+      "description": "A construction worker in neon safety shirt measures within the steel stud framing and GlasRoc sheathing on the hollywoodHUB project, documenting typical modern multi-family construction techniques.",
+      "categories": [
+        "Hollywood, Portland, Oregon",
+        "Affordable housing",
+        "Self-published work",
+        "Construction in Oregon",
+        "Files with coordinates missing SDC location of creation",
+        "Steel frame buildings"
+      ],
+      "auteur": "PortlandAppraisalBlog",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_worker_measuring_framing_at_hollywoodHUB,_Portland,_Oregon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Construction_worker_measuring_framing_at_hollywoodHUB%2C_Portland%2C_Oregon.jpg/1280px-Construction_worker_measuring_framing_at_hollywoodHUB%2C_Portland%2C_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5712,
+      "hauteur": 4284
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Steel Frame Commercial Building Under Construction, Ann Arbor Township, Michigan.JPG",
+      "description": "Steel frame commercial building under construction, Domino Farms, Ann Arbor Township, Michigan. Lieu de la prise de vue 42° 18′ 44,19″ N, 83° 40′ 44″ O Voir cet endroit et d’autres images sur : OpenStreetMap 42.312275; -83.678889",
+      "categories": [
+        "Taken with Canon EOS 600D",
+        "Ann Arbor Charter Township, Michigan",
+        "Self-published work",
+        "Building sites",
+        "Files with coordinates missing SDC location of creation",
+        "Steel frame buildings in the United States"
+      ],
+      "auteur": "Dwight Burdette",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Steel_Frame_Commercial_Building_Under_Construction,_Ann_Arbor_Township,_Michigan.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Steel_Frame_Commercial_Building_Under_Construction%2C_Ann_Arbor_Township%2C_Michigan.JPG/1280px-Steel_Frame_Commercial_Building_Under_Construction%2C_Ann_Arbor_Township%2C_Michigan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:LC Smith Building construction showing structural steel skeleton, ca 1913 (SEATTLE 3151).jpg",
+      "description": "On verso of image: Topped out 1913 Subjects (LCTGM): Building construction--Washington (State)--Seattle; Office buildings--Washington (State)--Seattle; Street railroads--Washington (State)--Seattle; People--Washington (State)--Seattle; Street lights--Washington (State)--Seattle Subjects (LCSH): Smith Tower (Seattle, Wash.); Central business districts--Washington (State)--Seattle; Seattle (Wash.)--Buildings, structures, etc.",
+      "categories": [
+        "Steel framing",
+        "Street lights in Seattle",
+        "Buildings in Seattle",
+        "PD US expired",
+        "Black and white photographs of buildings",
+        "Black and white photographs of Seattle",
+        "Template Unknown (author)",
+        "1913 in Seattle",
+        "Images from the Seattle Photographs Collection",
+        "Smith Tower (Seattle) under construction"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:LC_Smith_Building_construction_showing_structural_steel_skeleton,_ca_1913_(SEATTLE_3151).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/LC_Smith_Building_construction_showing_structural_steel_skeleton%2C_ca_1913_%28SEATTLE_3151%29.jpg/1280px-LC_Smith_Building_construction_showing_structural_steel_skeleton%2C_ca_1913_%28SEATTLE_3151%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2980,
+      "hauteur": 3799
+    }
+  ]
+}

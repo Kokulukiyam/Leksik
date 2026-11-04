@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "poutre",
+    "terme": "la poutre",
+    "categorie": "Structure",
+    "definition": "Élément porteur horizontal qui franchit un espace entre deux appuis et porte un plancher ou une toiture.",
+    "priorite": 1,
+    "requetes": [
+      "concrete beam building structure",
+      "poutre béton",
+      "beam structure"
+    ],
+    "incompatibles": [
+      "retombee-de-poutre"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Post tensioned concrete beam for long span structure.jpg",
+      "description": "To bridge a distance of 30 meter between two columns, a post-tensioned concrete beam of dimensions 1250 x 600 x 30000 mm was designed by architect Mario Kleff from Thailand. 36 tendons with a diameter of 12.7 mm were used. Reinforcement DB25, DB20 and DB16@150 mm.",
+      "categories": [
+        "Beams",
+        "Self-published work",
+        "Mario Kleff",
+        "Long-span techniques in residential architecture",
+        "Buildings in Pattaya",
+        "Post tensioning",
+        "Concrete framing"
+      ],
+      "auteur": "Designer Mario Kleff",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Post_tensioned_concrete_beam_for_long_span_structure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Post_tensioned_concrete_beam_for_long_span_structure.jpg/1280px-Post_tensioned_concrete_beam_for_long_span_structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2268
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fissures sur poutre en béton armé (2).jpg",
+      "description": "Fissures dans une poutre en béton armé après un essai de flexion simple depuis une force exercée au milieu de la poutre.",
+      "categories": [
+        "Self-published work",
+        "Concrete testing",
+        "Files by User:Dyolf77",
+        "Photographs by User:Dyolf77"
+      ],
+      "auteur": "Habib M'henni",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fissures_sur_poutre_en_b%C3%A9ton_arm%C3%A9_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Fissures_sur_poutre_en_b%C3%A9ton_arm%C3%A9_%282%29.jpg/1280px-Fissures_sur_poutre_en_b%C3%A9ton_arm%C3%A9_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4644,
+      "hauteur": 3084
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:16000 PSI Concrete Beam Post-Tensioned.jpg",
+      "description": "In Pattaya in 2022, the architect Mario Kleff designed several large villas and used post tensioning technology and 16,000 PSI concrete - 110 MPa - to produce 30 meter concrete girders and post-tensioned footings for 2-story structures.",
+      "categories": [
+        "Construction",
+        "Self-published work",
+        "Mario Kleff",
+        "Buildings in Pattaya",
+        "Post tensioning"
+      ],
+      "auteur": "Designer Mario Kleff",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:16000_PSI_Concrete_Beam_Post-Tensioned.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/16000_PSI_Concrete_Beam_Post-Tensioned.jpg/1280px-16000_PSI_Concrete_Beam_Post-Tensioned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2548,
+      "hauteur": 1147
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fissures sur poutre en béton armé (1).jpg",
+      "description": "Fissures dans une poutre en béton armé après un essai de flexion simple depuis une force exercée au milieu de la poutre.",
+      "categories": [
+        "Self-published work",
+        "Concrete testing",
+        "Files by User:Dyolf77",
+        "Photographs by User:Dyolf77"
+      ],
+      "auteur": "Habib M'henni",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fissures_sur_poutre_en_b%C3%A9ton_arm%C3%A9_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Fissures_sur_poutre_en_b%C3%A9ton_arm%C3%A9_%281%29.jpg/1280px-Fissures_sur_poutre_en_b%C3%A9ton_arm%C3%A9_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4644,
+      "hauteur": 3084
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Keroman III - poutre en béton de toiture.JPG",
+      "description": "Keroman III - Poutres de béton surmontant les chambres d'éclatement.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 550D",
+        "License migration redundant",
+        "Self-published work",
+        "2011 in Lorient",
+        "Keroman III"
+      ],
+      "auteur": "user:XIIIfromTOKYO",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Keroman_III_-_poutre_en_b%C3%A9ton_de_toiture.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Keroman_III_-_poutre_en_b%C3%A9ton_de_toiture.JPG/1280px-Keroman_III_-_poutre_en_b%C3%A9ton_de_toiture.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Prestressed concrete slab.jpg",
+      "description": "Prestressed concrete slabs exclude beams in a structure. the red tape shows the position of tendons .",
+      "categories": [
+        "Prestressed concrete",
+        "Self-published work",
+        "Building sites",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Nov 2017-Aug 2019)",
+        "Photographs taken on 2018-08-24",
+        "Red tapes",
+        "Administration Building, Russell Avenue, Pearl Harbor"
+      ],
+      "auteur": "Hemant_sahu_Raj",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Prestressed_concrete_slab.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Prestressed_concrete_slab.jpg/1280px-Prestressed_concrete_slab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

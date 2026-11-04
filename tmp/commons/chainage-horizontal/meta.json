@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "chainage-horizontal",
+    "terme": "le chaînage horizontal",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Ceinture continue en béton armé coulée sur les murs au niveau des planchers ou en tête de mur.",
+    "priorite": 1,
+    "requetes": [
+      "bond beam on block wall",
+      "chaînage horizontal",
+      "ring beam masonry wall"
+    ],
+    "incompatibles": [
+      "chainage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:HMS Victory - Portsmouth Historic Dockyard - Quarter Deck - South Office Block - Storehouses 10 & 11 (9351531683).jpg",
+      "description": "After our visit to the new Mary Rose Museum, we headed straight to HMS Victory. &lt;a href=\" http://en.wikipedia.org/wiki/HMS_Victory \" rel=\"noreferrer nofollow\"&gt;HMS Victory&lt;/a&gt; is a 104-gun first-rate ship of the line of the Royal Navy, laid down in 1759 and launched in 1765. She is most famous as Lord Nelson's flagship at the Battle of Trafalgar in 1805. She was also Keppel's flagship at Ushant, Howe's flagship at Cape Spartel and Jervis's flagship at Cape St Vincent. After 1824 she served as a harbour ship. In 1922 she was moved to a dry dock at Portsmouth, England, and preserved a",
+      "categories": [
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (50° N, 2° W)",
+        "HMS Victory at Portsmouth Historic Dockyard",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HMS_Victory_-_Portsmouth_Historic_Dockyard_-_Quarter_Deck_-_South_Office_Block_-_Storehouses_10_%26_11_(9351531683).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/HMS_Victory_-_Portsmouth_Historic_Dockyard_-_Quarter_Deck_-_South_Office_Block_-_Storehouses_10_%26_11_%289351531683%29.jpg/1280px-HMS_Victory_-_Portsmouth_Historic_Dockyard_-_Quarter_Deck_-_South_Office_Block_-_Storehouses_10_%26_11_%289351531683%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Worcester Shrub Hill Station - footbridge - London Midland Class 172 on platform 2 (6365918749).jpg",
+      "description": "The platforms and tracks at Worcester Shrub Hill Station . The station is Grade II listed. Shrub Hill Railway Station: Main Building with Attached Wall and Lamps, Worcester - British Listed Buildings WORCESTER SO8555SE SHRUB HILL 620-1/14/518 Shrub Hill Railway Station: 05/04/71 main building with attached wall and lamps (Formerly Listed as: SHRUB HILL Shrub Hill Railway Station. East Platform at Shrub Hill Railway Station) II Railway station with attached walls and lamps. 1850-54 with later additions and alterations. Attributed by Pevsner to engineer Edward Wilson. Blue-brick laid in English ",
+      "categories": [
+        "Taken with Fujifilm FinePix S1500",
+        "Worcester Shrub Hill railway station",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "November 2011 in Worcestershire",
+        "Uploads by Oxyman",
+        "Photographs by Elliott Brown",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Worcester_Shrub_Hill_Station_-_footbridge_-_London_Midland_Class_172_on_platform_2_(6365918749).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Worcester_Shrub_Hill_Station_-_footbridge_-_London_Midland_Class_172_on_platform_2_%286365918749%29.jpg/1280px-Worcester_Shrub_Hill_Station_-_footbridge_-_London_Midland_Class_172_on_platform_2_%286365918749%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Worcester Shrub Hill Station - footbridge - London Midland Class 172 on platform 2 (6365921217).jpg",
+      "description": "The platforms and tracks at Worcester Shrub Hill Station . The station is Grade II listed. Shrub Hill Railway Station: Main Building with Attached Wall and Lamps, Worcester - British Listed Buildings WORCESTER SO8555SE SHRUB HILL 620-1/14/518 Shrub Hill Railway Station: 05/04/71 main building with attached wall and lamps (Formerly Listed as: SHRUB HILL Shrub Hill Railway Station. East Platform at Shrub Hill Railway Station) II Railway station with attached walls and lamps. 1850-54 with later additions and alterations. Attributed by Pevsner to engineer Edward Wilson. Blue-brick laid in English ",
+      "categories": [
+        "Taken with Fujifilm FinePix S1500",
+        "Worcester Shrub Hill railway station",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "November 2011 in Worcestershire",
+        "Uploads by Oxyman",
+        "Photographs by Elliott Brown",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Worcester_Shrub_Hill_Station_-_footbridge_-_London_Midland_Class_172_on_platform_2_(6365921217).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Worcester_Shrub_Hill_Station_-_footbridge_-_London_Midland_Class_172_on_platform_2_%286365921217%29.jpg/1280px-Worcester_Shrub_Hill_Station_-_footbridge_-_London_Midland_Class_172_on_platform_2_%286365921217%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:C.M.U. Structure.jpg",
+      "description": "8\" block wall, Hollow metal door frame grouted solid, 5/8\" vertical rebar every 4' on center, Bond beam above door and last 2 top courses of wall, every block cell grouted solid giving the wall a 4 hour fire rating.",
+      "categories": [
+        "Self-published work",
+        "Brickwork"
+      ],
+      "auteur": "BRICKSTACKER",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C.M.U._Structure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/C.M.U._Structure.jpg/1280px-C.M.U._Structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:OH 13 043 (26880986662).jpg",
+      "description": "Contaminated Concrete Blocks Removed From the Top of Wall Down to Bond Beam Between Trusses 1 and 3 on the Building KA-2 Center Wall For more information or additional images, please contact 202-586-5251.",
+      "categories": [
+        "PD US DOE",
+        "Flickr images missing SDC inception",
+        "Flickr images reviewed by FlickreviewR 2",
+        "USGov files uploaded by OceanAtoll",
+        "Office of Environmental Management"
+      ],
+      "auteur": "U.S. Department of Energy from United States",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:OH_13_043_(26880986662).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/OH_13_043_%2826880986662%29.jpg/1280px-OH_13_043_%2826880986662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3496,
+      "hauteur": 2310
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:BOXLEY ABBEY HOUSE. (Not open to the public) S.P.A.B open day. (52206852206).jpg",
+      "description": "Part of Boxley Abbey (Cistercian), incorporating part of the west range and possibly part of Abbot's house; once a large L-plan house,of which the present house is a fragment. Abbey founded in 1146 by William of Ypres, Earl of Kent and dissolved in 1538; some C16 work; house built in early C18. Stone core with red brick front and plain tile roof. 3 storeys. North elevation (entrance front): no plinth, but about 1' at base of ground floor is in coursed galletted. stone, with red brick in Flemish bond above. Platt band above ground-floor and first- floor windows, and very deep dentilled and moul",
+      "categories": [
+        "Taken with Sony ILCE-6000",
+        "CC-Zero",
+        "Boxley Abbey House",
+        "Flickr images missing SDC inception",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from JOHN K THORNE Flickr stream"
+      ],
+      "auteur": "JOHN K THORNE from Universal , Universal",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BOXLEY_ABBEY_HOUSE._(Not_open_to_the_public)_S.P.A.B_open_day._(52206852206).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/BOXLEY_ABBEY_HOUSE._%28Not_open_to_the_public%29_S.P.A.B_open_day._%2852206852206%29.jpg/1280px-BOXLEY_ABBEY_HOUSE._%28Not_open_to_the_public%29_S.P.A.B_open_day._%2852206852206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    }
+  ]
+}

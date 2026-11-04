@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "metre-ruban",
+    "terme": "le mètre ruban",
+    "categorie": "Chantier et outillage",
+    "definition": "Ruban métallique gradué enroulé dans un boîtier, qui se déroule pour mesurer.",
+    "priorite": 1,
+    "requetes": [
+      "tape measure",
+      "mètre ruban",
+      "incategory:\"Tape measures\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:B&Q Tape Measure.jpg",
+      "description": "Mètre Ruban - B&Q",
+      "categories": [
+        "Retractable tape measures",
+        "Self-published work",
+        "Information field template with formatting",
+        "Taken on missing SDC inception",
+        "Location rounded",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)",
+        "Files with Assessments template missing SDC Commons no value quality assessment",
+        "Images by User:多多123"
+      ],
+      "auteur": "多多123",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%26Q_Tape_Measure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/B%26Q_Tape_Measure.jpg/1280px-B%26Q_Tape_Measure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5788,
+      "hauteur": 3859
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Blue tape measure.jpg",
+      "description": "Blue tape measure in centimeters",
+      "categories": [
+        "Taken with Pentax K-5 II",
+        "Tape measures",
+        "Self-published work",
+        "All media supported by Wikimedia CH",
+        "Media supported by Wikimedia CH - Photo studio",
+        "Files by Pleclown",
+        "Blue tapes",
+        "Light blue objects"
+      ],
+      "auteur": "Clément Bucco-Lechat",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_tape_measure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Blue_tape_measure.jpg/1280px-Blue_tape_measure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2138,
+      "hauteur": 1226
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2023 Metr krawiecki.jpg",
+      "description": "Tape measure",
+      "categories": [
+        "Tape measures",
+        "Self-published work",
+        "Images by Jacek Halicki",
+        "Green tapes",
+        "Wikigrant WG 2023-3"
+      ],
+      "auteur": "Jacek Halicki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023_Metr_krawiecki.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/2023_Metr_krawiecki.jpg/1280px-2023_Metr_krawiecki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4918,
+      "hauteur": 2701
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Measuring-tape.jpg",
+      "description": "A standard measuring tape.",
+      "categories": [
+        "Taken with Sony DSLR-A700",
+        "Location not applicable",
+        "Retractable tape measures",
+        "Self-published work",
+        "PD-self",
+        "Objects with white background",
+        "Evan Amos"
+      ],
+      "auteur": "Evan-Amos",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Measuring-tape.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Measuring-tape.jpg/1280px-Measuring-tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3380,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Lufkin Universal 50 ft tape measure.jpg",
+      "description": "A 50-foot (15 m) tape measure produced by the Lufkin Rule Co. in Saginaw, Michigan at some point after 1929 (patent 1,713,807).",
+      "categories": [
+        "Taken with Olympus XZ-1",
+        "CC-Zero",
+        "Retractable tape measures",
+        "Lufkin (brand)",
+        "Self-published work",
+        "Files by User:Junkyardsparkle"
+      ],
+      "auteur": "Junkyardsparkle",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lufkin_Universal_50_ft_tape_measure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Lufkin_Universal_50_ft_tape_measure.jpg/1280px-Lufkin_Universal_50_ft_tape_measure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Tape measure colored.jpeg",
+      "description": "A tape measure.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D90",
+        "Tape measures",
+        "License migration redundant",
+        "Self-published work",
+        "Green, red, white objects"
+      ],
+      "auteur": "Simon A. Eugster",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tape_measure_colored.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Tape_measure_colored.jpeg/1280px-Tape_measure_colored.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4310,
+      "hauteur": 2868
+    }
+  ]
+}

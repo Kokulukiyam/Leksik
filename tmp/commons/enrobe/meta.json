@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "enrobe",
+    "terme": "l'enrobé",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Revêtement noir de gravillons liés au bitume, répandu à chaud et compacté sur une chaussée ou une cour.",
+    "priorite": 1,
+    "requetes": [
+      "asphalt paving",
+      "enrobé bitumineux",
+      "asphalt surface"
+    ],
+    "incompatibles": [
+      "chaussee"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chiang Kai-shek memorial amk.jpg",
+      "description": "Le mémorial national à Tchang Kaï-chek à Taipei ( République de Chine ).",
+      "categories": [
+        "Taken with Canon EOS 40D",
+        "Taiwan photographs taken on 2008-10-16",
+        "Self-published work",
+        "Featured pictures by User:AngMoKio",
+        "Photographs by User:AngMoKio",
+        "Featured pictures on Wikipedia, Chinese",
+        "Featured pictures on Wikipedia, Turkish",
+        "FoP-Taiwan",
+        "Files with coordinates missing SDC location of creation",
+        "2008 photographs of Taipei",
+        "Assessment tagged pages marked as POTY candidates",
+        "Chiang Kai-shek Memorial Hall (viewed from Democracy Boulevard)",
+        "Photographs of the national flag of the Republic of China in Taipei",
+        "Featured pictures of Chiang Kai-shek Memorial Hall"
+      ],
+      "auteur": "AngMoKio",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_memorial_amk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Chiang_Kai-shek_memorial_amk.jpg/1280px-Chiang_Kai-shek_memorial_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2900,
+      "hauteur": 1933
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Asphalt base.jpg",
+      "description": "Close-up of an asphaltic concrete layer of a new road under construction. Photograph by Estr4ng3d , Helwan - Korayimat Road ( Cairo , Egypt ).",
+      "categories": [
+        "GFDL",
+        "Streets in Cairo",
+        "Paving",
+        "License migration completed",
+        "Self-published work",
+        "Asphalt roads",
+        "Photographs of roadworks"
+      ],
+      "auteur": "Estr4ng3d",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Asphalt_base.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Asphalt_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1097,
+      "hauteur": 851
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Asphalt paving machine - geograph.org.uk - 7349239.jpg",
+      "description": "Asphalt paving machine",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Renfrew (civil parish)",
+        "Road paving",
+        "Vögele Super 1803-3i"
+      ],
+      "auteur": "Thomas Nugent",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Asphalt_paving_machine_-_geograph.org.uk_-_7349239.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Asphalt_paving_machine_-_geograph.org.uk_-_7349239.jpg/1280px-Asphalt_paving_machine_-_geograph.org.uk_-_7349239.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1050
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:0118Hot-mix asphalt concrete manual pouring-paving in the repair and maintenance 20.jpg",
+      "description": "Hot-mix asphalt concrete manual pouring-paving in the repair and maintenance of Plaridel-Pulilan Diversion Road",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Asphalt concrete",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Files with coordinates missing SDC location of creation",
+        "Philippines photographs taken on 2020-12-22"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_20.jpg/1280px-0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Globen September 2014 01.jpg",
+      "description": "Stockholm Globe Arena",
+      "categories": [
+        "Hovet",
+        "Images with annotations",
+        "2014 in sports in Sweden",
+        "Globen City",
+        "Self-published work",
+        "Featured pictures of buildings",
+        "Aerial photographs from helicopters",
+        "Featured pictures of Stockholm",
+        "2014 in Johanneshov",
+        "Featured pictures by Arild Vågen",
+        "Media created by technology pool of Wikimedia Sverige",
+        "Aerial photographs of Sweden approved by the Swedish Defence Forces",
+        "Featured pictures created by technology pool of Wikimedia Sverige",
+        "Photographs taken on 2014-09-20",
+        "Images by Arild Vågen-Aerial photography Stockholm September 2014",
+        "Wikimedia Sveriges flygfotoprojekt 2014, Stockholm",
+        "Aerial photographs of Avicii Arena"
+      ],
+      "auteur": "Arild Vågen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Globen_September_2014_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Globen_September_2014_01.jpg/1280px-Globen_September_2014_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5609,
+      "hauteur": 3867
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:0118Hot-mix asphalt concrete manual pouring-paving in the repair and maintenance 19.jpg",
+      "description": "Hot-mix asphalt concrete manual pouring-paving in the repair and maintenance of Plaridel-Pulilan Diversion Road",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Asphalt concrete",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Files with coordinates missing SDC location of creation",
+        "Philippines photographs taken on 2020-12-22"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_19.jpg/1280px-0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

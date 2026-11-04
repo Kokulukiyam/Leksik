@@ -8,7 +8,8 @@
       "window spandrel panel facade",
       "allège fenêtre façade",
       "incategory:\"Window sills\""
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "appui-de-fenetre",
@@ -18,7 +19,8 @@
     "requetes": [
       "incategory:\"Window sills\"",
       "stone window sill"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "linteau",
@@ -29,7 +31,8 @@
       "incategory:\"Lintels\"",
       "deepcat:\"Lintels\"",
       "stone lintel door"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "meneau",
@@ -40,18 +43,20 @@
       "deepcat:\"Mullioned windows\"",
       "incategory:\"Mullions\"",
       "mullioned window stone"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "trumeau",
     "terme": "le trumeau",
     "categorie": "Façade et ouvertures",
-    "definition": "Pan de mur compris entre deux baies voisines ; dans un portail, pilier central qui en divise l'ouverture.",
+    "definition": "Pan de mur plein compris entre deux baies voisines d'un même niveau.",
     "requetes": [
       "deepcat:\"Trumeaux\"",
       "trumeau portail",
       "trumeau portal"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "piedroit",
@@ -70,7 +75,8 @@
     ],
     "incompatibles": [
       "trumeau"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "chambranle",
@@ -86,7 +92,8 @@
       "chambranle mouluré",
       "moulded window surround stone",
       "door architrave surround classical facade"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "tympan",
@@ -97,6 +104,10 @@
       "tympanum portal sculpture",
       "tympan portail",
       "deepcat:\"Tympanums\""
+    ],
+    "priorite": 3,
+    "incompatibles": [
+      "fronton"
     ]
   },
   {
@@ -108,6 +119,10 @@
       "oeil-de-boeuf window",
       "œil-de-bœuf fenêtre",
       "deepcat:\"Oculi\""
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "lucarne"
     ]
   },
   {
@@ -127,7 +142,8 @@
     "incompatibles": [
       "garde-corps",
       "balustre"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "garde-corps",
@@ -138,17 +154,19 @@
       "incategory:\"Railings\"",
       "garde-corps",
       "metal railing terrace"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "persienne",
     "terme": "la persienne",
-    "categorie": "Façade et ouvertures",
+    "categorie": "Menuiserie et serrurerie",
     "definition": "Volet extérieur à lames inclinées qui laisse passer l'air tout en arrêtant le soleil.",
     "requetes": [
       "incategory:\"Louvered shutters\"",
       "persiennes"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "oriel",
@@ -158,7 +176,8 @@
     "requetes": [
       "deepcat:\"Oriel windows\"",
       "oriel window"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "imposte",
@@ -169,6 +188,10 @@
       "incategory:\"Fanlights\"",
       "incategory:\"Transom windows\"",
       "imposte porte"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "chassis-fixe"
     ]
   },
   {
@@ -185,7 +208,8 @@
       "brise-soleil Le Corbusier",
       "concrete sun shading facade",
       "brise-soleil Brasilia"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "claustra",
@@ -196,6 +220,11 @@
       "incategory:\"Breeze blocks\"",
       "claustra",
       "cobogó"
+    ],
+    "priorite": 1,
+    "incompatibles": [
+      "brise-soleil",
+      "moucharabieh"
     ]
   },
   {
@@ -206,7 +235,8 @@
     "requetes": [
       "incategory:\"Gables\"",
       "pignon maison"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "moucharabieh",
@@ -216,7 +246,8 @@
     "requetes": [
       "incategory:\"Mashrabiya\"",
       "mashrabiya"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "lucarne",
@@ -226,7 +257,8 @@
     "requetes": [
       "deepcat:\"Dormers\"",
       "lucarne toit"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "acrotere",
@@ -243,8 +275,10 @@
       "modernist building flat roof parapet"
     ],
     "incompatibles": [
-      "garde-corps"
-    ]
+      "garde-corps",
+      "garde-corps-maconne"
+    ],
+    "priorite": 1
   },
   {
     "id": "gouttiere",
@@ -259,7 +293,8 @@
       "roof gutter eaves",
       "zinc gutter roof",
       "half-round gutter"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "faitage",
@@ -269,7 +304,8 @@
     "requetes": [
       "incategory:\"Roof ridges\"",
       "faîtage tuiles"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "croupe",
@@ -285,7 +321,8 @@
       "hip roof",
       "hipped roof farmhouse",
       "toit à croupes"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "chaume",
@@ -300,7 +337,8 @@
       "thatched cottage",
       "chaumière",
       "thatched roof house"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "souche-de-cheminee",
@@ -315,7 +353,8 @@
       "chimney stack on roof",
       "brick chimney roof house",
       "souche de cheminée toit"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "shed",
@@ -325,7 +364,8 @@
     "requetes": [
       "incategory:\"Sawtooth roofs\"",
       "sawtooth roof factory"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "fleche",
@@ -335,7 +375,8 @@
     "requetes": [
       "incategory:\"Spires\"",
       "church spire"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "lanterneau",
@@ -350,6 +391,11 @@
       "lanterneau toit",
       "roof lantern glass",
       "skylight lantern roof"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "exutoire-de-desenfumage",
+      "verriere"
     ]
   },
   {
@@ -365,6 +411,11 @@
       "doric column temple",
       "colonne corinthienne",
       "marble column portico"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "chapiteau",
+      "pilastre"
     ]
   },
   {
@@ -382,8 +433,10 @@
       "flying buttresses Notre-Dame"
     ],
     "incompatibles": [
-      "arc"
-    ]
+      "arc",
+      "contrefort"
+    ],
+    "priorite": 3
   },
   {
     "id": "contrefort",
@@ -398,7 +451,8 @@
       "buttresses gothic church exterior",
       "contreforts église",
       "stepped buttress"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "arc",
@@ -409,7 +463,8 @@
       "incategory:\"Round arches\"",
       "stone arch",
       "incategory:\"Arches\""
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "voute",
@@ -425,7 +480,8 @@
       "barrel vault nave",
       "voûte en berceau",
       "groin vault interior"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "cle-de-voute",
@@ -438,21 +494,24 @@
     ],
     "incompatibles": [
       "arc",
-      "voute"
-    ]
+      "voute",
+      "claveau"
+    ],
+    "priorite": 3
   },
   {
     "id": "coupole",
     "terme": "la coupole",
     "categorie": "Structure",
-    "definition": "Voûte en demi-sphère ou en calotte, élevée sur un plan circulaire, carré ou polygonal ; le mot désigne surtout sa face intérieure, l'extérieur étant le dôme.",
+    "definition": "Voûte en demi-sphère ou en calotte qui couvre un espace de plan circulaire, carré ou polygonal ; vue de l'extérieur, on l'appelle aussi dôme.",
     "requetes": [
       "deepcat:\"Interiors of domes\"",
       "dome interior view"
     ],
     "incompatibles": [
       "voute"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "corbeau",
@@ -469,8 +528,10 @@
       "corbeaux pierre"
     ],
     "incompatibles": [
-      "modillon"
-    ]
+      "modillon",
+      "console"
+    ],
+    "priorite": 3
   },
   {
     "id": "ferme",
@@ -480,7 +541,8 @@
     "requetes": [
       "incategory:\"Roof trusses\"",
       "timber roof truss"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "colombage",
@@ -491,7 +553,8 @@
       "incategory:\"Half-timbered buildings\"",
       "half-timbered house",
       "colombage"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "pilotis",
@@ -501,6 +564,10 @@
     "requetes": [
       "incategory:\"Pilotis\"",
       "pilotis Le Corbusier"
+    ],
+    "priorite": 3,
+    "incompatibles": [
+      "poteau"
     ]
   },
   {
@@ -516,7 +583,8 @@
       "cornice facade building",
       "corniche immeuble",
       "modillion cornice building top"
-    ]
+    ],
+    "priorite": 1
   },
   {
     "id": "bandeau",
@@ -534,7 +602,8 @@
     ],
     "incompatibles": [
       "corniche"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "fronton",
@@ -544,6 +613,10 @@
     "requetes": [
       "incategory:\"Pediments\"",
       "pediment temple facade"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "tympan"
     ]
   },
   {
@@ -557,8 +630,10 @@
       "deepcat:\"Capitals\""
     ],
     "incompatibles": [
-      "pilastre"
-    ]
+      "pilastre",
+      "colonne"
+    ],
+    "priorite": 2
   },
   {
     "id": "pilastre",
@@ -573,7 +648,8 @@
       "pilasters facade classical",
       "pilastres façade",
       "fluted pilaster"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "console",
@@ -589,6 +665,11 @@
       "baroque console balcony",
       "scroll bracket facade",
       "console sculptée façade"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "corbeau",
+      "modillon"
     ]
   },
   {
@@ -604,6 +685,10 @@
       "gargoyle spout cathedral roof",
       "gargouille cathédrale",
       "gargoyle water spout gothic"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "gargouille-de-terrasse"
     ]
   },
   {
@@ -614,6 +699,10 @@
     "requetes": [
       "incategory:\"Balusters\"",
       "stone balusters"
+    ],
+    "priorite": 1,
+    "incompatibles": [
+      "balustrade"
     ]
   },
   {
@@ -624,6 +713,10 @@
     "requetes": [
       "incategory:\"Rose windows\"",
       "rose window"
+    ],
+    "priorite": 3,
+    "incompatibles": [
+      "oeil-de-boeuf"
     ]
   },
   {
@@ -642,7 +735,8 @@
     ],
     "incompatibles": [
       "corniche"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "mascaron",
@@ -652,6 +746,11 @@
     "requetes": [
       "deepcat:\"Mascarons\"",
       "mascaron façade"
+    ],
+    "priorite": 3,
+    "incompatibles": [
+      "bas-relief",
+      "haut-relief"
     ]
   },
   {
@@ -667,7 +766,8 @@
       "sculpted frieze facade building",
       "frise sculptée façade",
       "Parthenon frieze"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "pinacle",
@@ -682,7 +782,8 @@
       "gothic pinnacle buttress",
       "pinacles gothiques",
       "pinnacle crockets cathedral"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "cariatide",
@@ -692,7 +793,8 @@
     "requetes": [
       "incategory:\"Caryatids\"",
       "caryatids"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "brique",
@@ -707,17 +809,26 @@
       "red brick wall",
       "mur de briques",
       "brick masonry wall"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "brique-creuse"
     ]
   },
   {
     "id": "parpaing",
     "terme": "le parpaing",
-    "categorie": "Matériaux et revêtements",
-    "definition": "Bloc de béton moulé, souvent creux, utilisé pour monter des murs.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Bloc de béton moulé, généralement creux, utilisé pour monter les murs ; on dit couramment agglo au Sénégal.",
     "requetes": [
       "concrete block wall",
       "cinder block wall",
       "parpaing mur"
+    ],
+    "priorite": 1,
+    "incompatibles": [
+      "bloc-plein",
+      "maconnerie"
     ]
   },
   {
@@ -728,7 +839,8 @@
     "requetes": [
       "ashlar masonry wall",
       "deepcat:\"Ashlar\""
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "moellon",
@@ -738,6 +850,11 @@
     "requetes": [
       "rubble masonry wall",
       "mur en moellons"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "mur-en-moellons",
+      "opus-incertum"
     ]
   },
   {
@@ -754,16 +871,24 @@
       "board-marked concrete",
       "béton banché brut planches",
       "board formed concrete texture"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "tuile",
     "terme": "la tuile",
-    "categorie": "Matériaux et revêtements",
+    "categorie": "Toitures",
     "definition": "Élément de couverture en terre cuite ou en béton, posé en recouvrement sur un toit.",
     "requetes": [
       "incategory:\"Roof tiles\"",
       "clay roof tiles"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "tuile-canal",
+      "tuile-mecanique",
+      "tuile-plate",
+      "tuile-faitiere"
     ]
   },
   {
@@ -779,7 +904,8 @@
       "slate roof close-up",
       "toit en ardoise",
       "slate roofing tiles house"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "tole-ondulee",
@@ -797,18 +923,25 @@
       "tôle ondulée toit"
     ],
     "incompatibles": [
-      "bardage"
-    ]
+      "bardage",
+      "acier-galvanise"
+    ],
+    "priorite": 1
   },
   {
     "id": "carreau-de-ciment",
     "terme": "le carreau de ciment",
-    "categorie": "Matériaux et revêtements",
-    "definition": "Carreau décoratif fait de ciment coloré pressé et séché, sans cuisson.",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Carreau de sol épais en ciment, aux motifs colorés incrustés dans la masse, pressé et séché sans cuisson ; fréquent dans les maisons anciennes.",
     "requetes": [
       "carreaux de ciment",
       "encaustic cement tiles floor",
       "cement tiles"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "carrelage",
+      "carreau-hexagonal"
     ]
   },
   {
@@ -825,7 +958,8 @@
       "wooden clapboard house facade",
       "bardage bois façade maison",
       "timber cladding modern house"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "pise",
@@ -844,7 +978,8 @@
     ],
     "incompatibles": [
       "banco"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "banco",
@@ -863,35 +998,41 @@
       "mud architecture Mali wall"
     ],
     "incompatibles": [
-      "grenier-dogon"
-    ]
+      "grenier-dogon",
+      "case",
+      "voute-nubienne",
+      "case-a-impluvium"
+    ],
+    "priorite": 2
   },
   {
     "id": "toron",
     "terme": "le toron",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Pièce de bois de rônier fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage.",
+    "definition": "Pièce de bois, souvent de rônier, fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage annuel.",
     "requetes": [
       "Great Mosque of Djenné",
       "toron mosque Mali",
       "Djinguereber mosque"
-    ]
+    ],
+    "priorite": 2
   },
   {
     "id": "toguna",
     "terme": "le toguna",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Abri de palabres du pays dogon, au toit très épais de tiges de mil posé sur des piliers bas.",
+    "definition": "Abri de palabres du pays dogon, au toit très épais de couches de tiges de mil posé sur des piliers bas, souvent sculptés, qui empêchent de se tenir debout.",
     "requetes": [
       "toguna",
       "togu na Dogon"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "grenier-dogon",
     "terme": "le grenier dogon",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Petit bâtiment en banco, coiffé d'un toit conique de paille, qui sert à stocker le mil.",
+    "definition": "Petit bâtiment en banco de plan carré ou rond, coiffé d'un chapeau conique de paille, qui sert à stocker le mil dans les villages des falaises de Bandiagara.",
     "requetes": [
       "Dogon granary",
       "grenier dogon",
@@ -901,13 +1042,17 @@
       "Dogon granary Bandiagara",
       "greniers Dogon falaise",
       "granaries Dogon village"
+    ],
+    "priorite": 3,
+    "incompatibles": [
+      "banco"
     ]
   },
   {
     "id": "case-a-impluvium",
     "terme": "la case à impluvium",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Grande habitation diola de Casamance dont le toit en entonnoir recueille l'eau de pluie au centre.",
+    "definition": "Grande habitation diola circulaire de Casamance, en banco, dont le toit en entonnoir recueille l'eau de pluie dans un bassin au centre de la cour intérieure.",
     "requetes": [
       "case à impluvium",
       "impluvium Casamance",
@@ -920,7 +1065,8 @@
     ],
     "incompatibles": [
       "case"
-    ]
+    ],
+    "priorite": 3
   },
   {
     "id": "case",
@@ -936,6 +1082,10 @@
       "round hut thatched roof Senegal",
       "case ronde Sénégal",
       "traditional round house thatched Mali village"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "chaume"
     ]
   },
   {
@@ -1189,7 +1339,8 @@
     ],
     "incompatibles": [
       "etai",
-      "tour-d-etaiement"
+      "tour-d-etaiement",
+      "coffrage-de-dalle"
     ]
   },
   {
@@ -1296,7 +1447,9 @@
       "column formwork timber"
     ],
     "incompatibles": [
-      "coffrage"
+      "coffrage",
+      "coffrage-bois",
+      "coffrage-metallique"
     ]
   },
   {
@@ -1312,7 +1465,10 @@
     ],
     "incompatibles": [
       "coffrage",
-      "etai"
+      "etai",
+      "coffrage-bois",
+      "etai-metallique",
+      "etai-en-bois"
     ]
   },
   {
@@ -1327,7 +1483,9 @@
       "flying table formwork"
     ],
     "incompatibles": [
-      "coffrage-de-dalle"
+      "coffrage-de-dalle",
+      "coffrage",
+      "coffrage-metallique"
     ]
   },
   {
@@ -1342,7 +1500,9 @@
       "form tie"
     ],
     "incompatibles": [
-      "banche"
+      "banche",
+      "coffrage",
+      "coffrage-metallique"
     ]
   },
   {
@@ -1526,7 +1686,7 @@
     "id": "pompe-a-beton",
     "terme": "la pompe à béton",
     "categorie": "Chantier et outillage",
-    "definition": "Camion muni d'un long bras articulé à tuyau qui projette le béton jusqu'au point de coulage.",
+    "definition": "Engin, le plus souvent un camion à long bras articulé déplié au-dessus du chantier, qui refoule le béton dans un tuyau jusqu'au point de coulage.",
     "priorite": 2,
     "requetes": [
       "concrete pump truck boom",
@@ -1655,7 +1815,7 @@
     "id": "truelle",
     "terme": "la truelle",
     "categorie": "Chantier et outillage",
-    "definition": "Outil à lame d'acier plate et pointue, avec un manche coudé, pour prendre, étaler et lisser le mortier.",
+    "definition": "Outil à lame d'acier plate, triangulaire ou arrondie, et à manche coudé, pour prendre, étaler et lisser le mortier.",
     "priorite": 1,
     "requetes": [
       "mason trowel",
@@ -1667,7 +1827,7 @@
     "id": "taloche",
     "terme": "la taloche",
     "categorie": "Chantier et outillage",
-    "definition": "Planchette rectangulaire en bois, plastique ou mousse, munie d'une poignée, pour dresser et talocher un enduit.",
+    "definition": "Planchette rectangulaire en bois, plastique ou mousse, munie d'une poignée, pour dresser et serrer un enduit ou une chape.",
     "priorite": 1,
     "requetes": [
       "plastering float",
@@ -1878,7 +2038,7 @@
     "terme": "le moule à parpaings",
     "categorie": "Chantier et outillage",
     "definition": "Moule métallique, souvent à levier, dans lequel on serre le béton maigre pour fabriquer des blocs sur place.",
-    "priorite": 3,
+    "priorite": 2,
     "requetes": [
       "concrete block mould manual",
       "moule à parpaings",
@@ -2174,18 +2334,6 @@
     ]
   },
   {
-    "id": "croisillons",
-    "terme": "les croisillons",
-    "categorie": "Chantier et outillage",
-    "definition": "Petites croix en plastique placées entre les carreaux pour garder des joints de largeur égale.",
-    "priorite": 2,
-    "requetes": [
-      "tile spacers",
-      "croisillons carrelage",
-      "tile spacer crosses"
-    ]
-  },
-  {
     "id": "raclette-a-joints",
     "terme": "la raclette à joints",
     "categorie": "Chantier et outillage",
@@ -2439,7 +2587,7 @@
     "id": "caniveau",
     "terme": "le caniveau",
     "categorie": "Extérieurs et voirie",
-    "definition": "Rigole en béton ou en pierre au pied de la bordure, qui conduit l'eau de pluie de la chaussée vers les avaloirs.",
+    "definition": "Rigole ou canal maçonné le long de la chaussée, au pied de la bordure, ouvert ou couvert de dallettes, qui conduit l'eau de pluie vers les avaloirs.",
     "priorite": 1,
     "requetes": [
       "street gutter",
@@ -2492,21 +2640,6 @@
       "asphalt paving",
       "enrobé bitumineux",
       "asphalt surface"
-    ],
-    "incompatibles": [
-      "chaussee"
-    ]
-  },
-  {
-    "id": "piste-en-laterite",
-    "terme": "la piste en latérite",
-    "categorie": "Extérieurs et voirie",
-    "definition": "Route non revêtue en terre latéritique rouge compactée, courante en Afrique de l'Ouest.",
-    "priorite": 2,
-    "requetes": [
-      "laterite road",
-      "piste en latérite",
-      "red dirt road Africa"
     ],
     "incompatibles": [
       "chaussee"
@@ -2732,7 +2865,7 @@
     "terme": "le puisard",
     "categorie": "Extérieurs et voirie",
     "definition": "Puits maçonné à fond perméable, couvert d'une dalle, dans lequel les eaux s'infiltrent dans le sol.",
-    "priorite": 3,
+    "priorite": 2,
     "requetes": [
       "soakaway pit",
       "puisard",
@@ -2766,7 +2899,8 @@
       "incategory:\"Speed bumps\""
     ],
     "incompatibles": [
-      "passage-pieton"
+      "passage-pieton",
+      "chaussee"
     ]
   },
   {
@@ -2781,7 +2915,8 @@
       "incategory:\"Zebra crossings\""
     ],
     "incompatibles": [
-      "marquage-au-sol"
+      "marquage-au-sol",
+      "chaussee"
     ]
   },
   {
@@ -2916,21 +3051,6 @@
     ]
   },
   {
-    "id": "dalle-podotactile",
-    "terme": "la dalle podotactile",
-    "categorie": "Extérieurs et voirie",
-    "definition": "Dalle à plots en relief, souvent de couleur contrastée, posée au bord d'un quai ou d'un passage pour alerter les malvoyants.",
-    "priorite": 3,
-    "requetes": [
-      "tactile paving",
-      "dalle podotactile",
-      "tactile warning strip"
-    ],
-    "incompatibles": [
-      "trottoir"
-    ]
-  },
-  {
     "id": "mur-de-cloture",
     "terme": "le mur de clôture",
     "categorie": "Extérieurs et voirie",
@@ -2995,8 +3115,8 @@
     "id": "tessons-de-verre",
     "terme": "les tessons de verre",
     "categorie": "Extérieurs et voirie",
-    "definition": "Morceaux de bouteilles cassées scellés dans le mortier en crête de mur pour empêcher l'escalade.",
-    "priorite": 2,
+    "definition": "Morceaux de bouteilles cassées (tessons de bouteille) scellés dans le mortier en crête de mur pour empêcher l'escalade.",
+    "priorite": 1,
     "requetes": [
       "broken glass wall top",
       "tessons de bouteille sur mur",
@@ -3076,7 +3196,7 @@
     "id": "mur-de-soutenement",
     "terme": "le mur de soutènement",
     "categorie": "Extérieurs et voirie",
-    "definition": "Mur épais qui retient les terres d'un talus ou d'un terrain en pente.",
+    "definition": "Mur, maçonné ou en béton armé, qui retient les terres d'un talus ou d'un terrain en pente, le sol étant plus haut d'un côté que de l'autre.",
     "priorite": 2,
     "requetes": [
       "retaining wall",
@@ -3369,7 +3489,8 @@
     ],
     "incompatibles": [
       "facade",
-      "bardage"
+      "bardage",
+      "panneau-composite-aluminium"
     ]
   },
   {
@@ -3385,22 +3506,6 @@
     ]
   },
   {
-    "id": "embrasure",
-    "terme": "l'embrasure",
-    "categorie": "Façade et ouvertures",
-    "definition": "Espace ménagé dans l'épaisseur du mur autour d'une baie, entre la menuiserie et le nu du mur.",
-    "priorite": 1,
-    "requetes": [
-      "window embrasure thick wall",
-      "embrasure fenêtre",
-      "deep window reveal"
-    ],
-    "incompatibles": [
-      "baie",
-      "piedroit"
-    ]
-  },
-  {
     "id": "ebrasement",
     "terme": "l'ébrasement",
     "categorie": "Façade et ouvertures",
@@ -3412,7 +3517,6 @@
       "splayed jamb window"
     ],
     "incompatibles": [
-      "embrasure",
       "baie",
       "piedroit"
     ]
@@ -3429,24 +3533,8 @@
       "tableau de baie"
     ],
     "incompatibles": [
-      "embrasure",
       "piedroit",
       "baie"
-    ]
-  },
-  {
-    "id": "feuillure",
-    "terme": "la feuillure",
-    "categorie": "Façade et ouvertures",
-    "definition": "Entaille en angle droit ménagée dans le tableau d'une baie pour recevoir le dormant de la menuiserie.",
-    "priorite": 3,
-    "requetes": [
-      "rebate masonry window opening",
-      "feuillure baie maçonnerie",
-      "window rebate stone"
-    ],
-    "incompatibles": [
-      "tableau-de-baie"
     ]
   },
   {
@@ -3482,7 +3570,7 @@
     "terme": "le larmier",
     "categorie": "Façade et ouvertures",
     "definition": "Saillie ou rainure sous un appui, une corniche ou une dalle, qui fait goutter l'eau de pluie loin du mur.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "drip groove underside sill",
       "larmier façade",
@@ -3625,7 +3713,8 @@
       "concrete floor slab edge building"
     ],
     "incompatibles": [
-      "facade"
+      "facade",
+      "bandeau"
     ]
   },
   {
@@ -3664,7 +3753,7 @@
     "terme": "la chaîne d'angle",
     "categorie": "Façade et ouvertures",
     "definition": "Assemblage vertical de pierres ou de briques alternées qui renforce et marque l'angle d'un mur.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "quoins building corner",
       "chaîne d'angle pierre",
@@ -3687,7 +3776,8 @@
     ],
     "incompatibles": [
       "chambranle",
-      "baie"
+      "baie",
+      "linteau"
     ]
   },
   {
@@ -3786,7 +3876,7 @@
     "terme": "le soupirail",
     "categorie": "Façade et ouvertures",
     "definition": "Petite ouverture au ras du sol, souvent grillagée, qui éclaire et aère une cave.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "basement window grille street level",
       "soupirail cave",
@@ -3837,7 +3927,8 @@
     ],
     "incompatibles": [
       "garde-corps",
-      "balcon"
+      "balcon",
+      "barreaudage"
     ]
   },
   {
@@ -3852,8 +3943,7 @@
       "horizontal rail balustrade"
     ],
     "incompatibles": [
-      "garde-corps",
-      "lisse"
+      "garde-corps"
     ]
   },
   {
@@ -3885,7 +3975,8 @@
     "incompatibles": [
       "garde-corps",
       "garde-corps-a-barreaudage",
-      "balcon"
+      "balcon",
+      "fer-forge"
     ]
   },
   {
@@ -3918,21 +4009,6 @@
     ],
     "incompatibles": [
       "balustre",
-      "garde-corps"
-    ]
-  },
-  {
-    "id": "lisse",
-    "terme": "la lisse",
-    "categorie": "Façade et ouvertures",
-    "definition": "Barre horizontale d'un garde-corps, en partie haute ou basse, sur laquelle sont fixés les barreaux.",
-    "priorite": 3,
-    "requetes": [
-      "railing top rail detail",
-      "lisse garde-corps",
-      "handrail balcony rail detail"
-    ],
-    "incompatibles": [
       "garde-corps"
     ]
   },
@@ -4018,7 +4094,7 @@
     "terme": "le store banne",
     "categorie": "Façade et ouvertures",
     "definition": "Store en toile qui se déroule en avant d'une façade, porté par des bras articulés.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "retractable awning terrace",
       "store banne",
@@ -4069,7 +4145,10 @@
     "incompatibles": [
       "facade-double-peau",
       "claustra",
-      "moucharabieh"
+      "moucharabieh",
+      "tole-perforee",
+      "metal-deploye",
+      "brise-soleil"
     ]
   },
   {
@@ -4237,7 +4316,8 @@
       "traditional shop front"
     ],
     "incompatibles": [
-      "vitrine"
+      "vitrine",
+      "rideau-metallique"
     ]
   },
   {
@@ -4262,6 +4342,9 @@
       "air conditioner cover grille facade",
       "cache climatiseur façade",
       "AC unit screen building"
+    ],
+    "incompatibles": [
+      "unite-exterieure"
     ]
   },
   {
@@ -4473,7 +4556,7 @@
     "terme": "le toit mansardé",
     "categorie": "Toitures",
     "definition": "Toit à la Mansart, dont chaque versant est brisé en un brisis très raide en bas et un terrasson peu incliné en haut.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "mansard roof Paris",
       "toit mansardé",
@@ -4665,7 +4748,8 @@
     ],
     "incompatibles": [
       "charpente",
-      "ferme"
+      "ferme",
+      "ferme-metallique"
     ]
   },
   {
@@ -4673,7 +4757,7 @@
     "terme": "la fermette",
     "categorie": "Toitures",
     "definition": "Ferme légère industrialisée en bois assemblé par connecteurs métalliques, posée à faible entraxe.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "timber trusses gang nail plates",
       "fermettes industrielles",
@@ -4737,7 +4821,7 @@
     "terme": "le chevron",
     "categorie": "Toitures",
     "definition": "Pièce de bois inclinée suivant la pente du toit, posée sur les pannes, qui reçoit les liteaux ou voliges.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "roof rafters",
       "chevrons toiture",
@@ -4767,7 +4851,7 @@
     "terme": "le liteau",
     "categorie": "Toitures",
     "definition": "Tasseau de bois cloué horizontalement sur les chevrons, sur lequel s'accrochent les tuiles.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "roof battens",
       "liteaux toiture",
@@ -4830,7 +4914,7 @@
     "terme": "l'écran sous-toiture",
     "categorie": "Toitures",
     "definition": "Membrane souple tendue sous la couverture, sur les chevrons, qui arrête l'eau infiltrée et la poussière.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "roofing underlayment membrane rafters",
       "écran sous-toiture",
@@ -4871,21 +4955,6 @@
     ]
   },
   {
-    "id": "plaque-de-fibrociment",
-    "terme": "la plaque de fibrociment",
-    "categorie": "Toitures",
-    "definition": "Plaque ondulée grise en ciment armé de fibres, posée en couverture sur des pannes.",
-    "priorite": 2,
-    "requetes": [
-      "corrugated fibre cement roof sheets",
-      "plaque fibrociment toiture",
-      "asbestos cement corrugated roof"
-    ],
-    "incompatibles": [
-      "tole-ondulee"
-    ]
-  },
-  {
     "id": "plaque-translucide",
     "terme": "la plaque translucide",
     "categorie": "Toitures",
@@ -4898,7 +4967,8 @@
     ],
     "incompatibles": [
       "bac-acier",
-      "tole-ondulee"
+      "tole-ondulee",
+      "polycarbonate-alveolaire"
     ]
   },
   {
@@ -4973,6 +5043,9 @@
       "asphalt shingles roof",
       "bardeau bitumé",
       "bitumen shingles"
+    ],
+    "incompatibles": [
+      "bardeau"
     ]
   },
   {
@@ -5007,7 +5080,7 @@
     "terme": "la fenêtre de toit",
     "categorie": "Toitures",
     "definition": "Fenêtre posée dans le plan d'un versant de toit, à la même pente que la couverture.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "roof window pitched roof",
       "fenêtre de toit",
@@ -5207,14 +5280,15 @@
     "terme": "la couvertine",
     "categorie": "Toitures",
     "definition": "Profilé métallique qui coiffe le dessus d'un acrotère ou d'un muret pour le protéger de la pluie.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "parapet coping metal",
       "couvertine acrotère",
       "aluminium coping"
     ],
     "incompatibles": [
-      "acrotere"
+      "acrotere",
+      "chaperon"
     ]
   },
   {
@@ -5252,7 +5326,7 @@
     "terme": "l'édicule",
     "categorie": "Toitures",
     "definition": "Petite construction qui émerge d'une toiture-terrasse, abritant la sortie d'escalier ou des équipements.",
-    "priorite": 3,
+    "priorite": 2,
     "requetes": [
       "rooftop stair enclosure",
       "édicule toiture terrasse",
@@ -5272,6 +5346,9 @@
       "building foundation construction site concrete",
       "fondation béton chantier",
       "foundation concrete rebar trench"
+    ],
+    "incompatibles": [
+      "fouille"
     ]
   },
   {
@@ -5287,7 +5364,8 @@
     ],
     "incompatibles": [
       "fondation",
-      "tranchee-de-fondation"
+      "tranchee-de-fondation",
+      "fouille"
     ]
   },
   {
@@ -5343,7 +5421,7 @@
     "terme": "la longrine",
     "categorie": "Gros œuvre et maçonnerie",
     "definition": "Poutre en béton armé posée au niveau des fondations, qui relie les semelles entre elles et porte les murs du rez-de-chaussée.",
-    "priorite": 2,
+    "priorite": 1,
     "requetes": [
       "grade beam rebar construction",
       "longrine béton armé fondation",
@@ -5368,7 +5446,8 @@
     ],
     "incompatibles": [
       "fouille",
-      "fondation"
+      "fondation",
+      "tranchee-de-fondation"
     ]
   },
   {
@@ -5498,7 +5577,8 @@
     ],
     "incompatibles": [
       "dallage",
-      "herisson"
+      "herisson",
+      "pare-vapeur"
     ]
   },
   {
@@ -5605,7 +5685,8 @@
       "wet concrete slab"
     ],
     "incompatibles": [
-      "betonnage"
+      "betonnage",
+      "beton"
     ]
   },
   {
@@ -5620,7 +5701,8 @@
       "concrete pour pump"
     ],
     "incompatibles": [
-      "beton-frais"
+      "beton-frais",
+      "pompe-a-beton"
     ]
   },
   {
@@ -5849,7 +5931,8 @@
       "tied rebar intersection"
     ],
     "incompatibles": [
-      "ferraillage"
+      "ferraillage",
+      "fil-a-ligaturer"
     ]
   },
   {
@@ -5864,8 +5947,7 @@
       "concrete spacer blocks"
     ],
     "incompatibles": [
-      "ferraillage",
-      "enrobage"
+      "ferraillage"
     ]
   },
   {
@@ -5882,22 +5964,6 @@
     "incompatibles": [
       "ferraillage",
       "ferraillage-de-dalle"
-    ]
-  },
-  {
-    "id": "enrobage",
-    "terme": "l'enrobage",
-    "categorie": "Gros œuvre et maçonnerie",
-    "definition": "Épaisseur de béton qui recouvre les armatures et les protège ; on la voit à la tranche d'une pièce ou lorsqu'elle a éclaté.",
-    "priorite": 3,
-    "requetes": [
-      "concrete cover rebar",
-      "enrobage armatures béton",
-      "insufficient concrete cover exposed rebar"
-    ],
-    "incompatibles": [
-      "corrosion-des-armatures",
-      "epaufrure"
     ]
   },
   {
@@ -5936,8 +6002,7 @@
       "rebar corrosion"
     ],
     "incompatibles": [
-      "epaufrure",
-      "enrobage"
+      "epaufrure"
     ]
   },
   {
@@ -6011,7 +6076,7 @@
   },
   {
     "id": "hourdis",
-    "terme": "l'hourdis",
+    "terme": "le hourdis",
     "categorie": "Gros œuvre et maçonnerie",
     "definition": "Bloc creux en béton ou en polystyrène, aussi appelé entrevous, posé entre les poutrelles d'un plancher avant le coulage de la dalle de compression.",
     "priorite": 1,
@@ -6027,9 +6092,9 @@
   },
   {
     "id": "poutrelle",
-    "terme": "la poutrelle précontrainte",
+    "terme": "la poutrelle",
     "categorie": "Gros œuvre et maçonnerie",
-    "definition": "Petite poutre préfabriquée en béton, posée à intervalles réguliers d'un appui à l'autre pour porter les hourdis d'un plancher.",
+    "definition": "Petite poutre préfabriquée en béton armé ou précontraint, posée à intervalles réguliers d'un appui à l'autre pour porter les hourdis d'un plancher.",
     "priorite": 1,
     "requetes": [
       "precast concrete joist beam and block",
@@ -6097,7 +6162,8 @@
       "ring beam masonry wall"
     ],
     "incompatibles": [
-      "chainage"
+      "chainage",
+      "poutre"
     ]
   },
   {
@@ -6112,7 +6178,8 @@
       "tie column block wall"
     ],
     "incompatibles": [
-      "chainage"
+      "chainage",
+      "poteau"
     ]
   },
   {
@@ -6171,7 +6238,8 @@
     ],
     "incompatibles": [
       "maconnerie",
-      "ossature-en-beton-arme"
+      "ossature-en-beton-arme",
+      "parpaing"
     ]
   },
   {
@@ -6221,21 +6289,6 @@
     ]
   },
   {
-    "id": "bloc-de-beton-cellulaire",
-    "terme": "le bloc de béton cellulaire",
-    "categorie": "Gros œuvre et maçonnerie",
-    "definition": "Gros bloc blanc et léger, très régulier, en béton aéré, monté à joints minces.",
-    "priorite": 3,
-    "requetes": [
-      "aerated concrete block wall",
-      "béton cellulaire bloc",
-      "AAC blocks construction"
-    ],
-    "incompatibles": [
-      "maconnerie"
-    ]
-  },
-  {
     "id": "brique-creuse",
     "terme": "la brique creuse",
     "categorie": "Gros œuvre et maçonnerie",
@@ -6260,6 +6313,9 @@
       "planelle",
       "planelle rive de dalle",
       "clay slab edge tile"
+    ],
+    "incompatibles": [
+      "nez-de-dalle"
     ]
   },
   {
@@ -6274,7 +6330,9 @@
       "brick stretchers"
     ],
     "incompatibles": [
-      "appareil-en-panneresses"
+      "appareil-en-panneresses",
+      "appareil-flamand",
+      "appareil-anglais"
     ]
   },
   {
@@ -6409,7 +6467,8 @@
       "brick course wall"
     ],
     "incompatibles": [
-      "maconnerie"
+      "maconnerie",
+      "joint-de-maconnerie"
     ]
   },
   {
@@ -6500,7 +6559,8 @@
       "hand mixing mortar ground"
     ],
     "incompatibles": [
-      "mortier"
+      "mortier",
+      "betonniere"
     ]
   },
   {
@@ -6544,6 +6604,9 @@
       "scratch coat render wall",
       "gobetis mur",
       "spatterdash render"
+    ],
+    "incompatibles": [
+      "enduit"
     ]
   },
   {
@@ -6556,6 +6619,9 @@
       "wall chasing conduit groove",
       "saignée mur gaine",
       "chased wall electrical"
+    ],
+    "incompatibles": [
+      "gaine-icta"
     ]
   },
   {
@@ -6612,7 +6678,8 @@
       "anhydrite screed"
     ],
     "incompatibles": [
-      "chape"
+      "chape",
+      "ragreage"
     ]
   },
   {
@@ -6711,24 +6778,6 @@
       "reinforced concrete slab floor",
       "dalle béton armé",
       "concrete floor slab structure"
-    ],
-    "incompatibles": [
-      "dalle-pleine"
-    ]
-  },
-  {
-    "id": "dalle-pleine",
-    "terme": "la dalle pleine",
-    "categorie": "Structure",
-    "definition": "Dalle de béton armé massive coulée sur coffrage, sans hourdis ni vides, dont la sous-face est lisse.",
-    "priorite": 2,
-    "requetes": [
-      "solid concrete slab soffit",
-      "dalle pleine béton armé",
-      "flat slab underside"
-    ],
-    "incompatibles": [
-      "dalle"
     ]
   },
   {
@@ -6823,7 +6872,8 @@
       "metal decking concrete slab"
     ],
     "incompatibles": [
-      "ossature-metallique"
+      "ossature-metallique",
+      "bac-acier"
     ]
   },
   {
@@ -6831,7 +6881,7 @@
     "terme": "le voile",
     "categorie": "Structure",
     "definition": "Mur porteur en béton armé, coulé entre des banches.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "reinforced concrete shear wall",
       "voile béton armé",
@@ -6846,29 +6896,16 @@
     "terme": "le mur porteur",
     "categorie": "Structure",
     "definition": "Mur qui porte les planchers ou la toiture et transmet leurs charges aux fondations.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "load bearing wall",
       "mur porteur",
       "bearing wall masonry"
     ],
     "incompatibles": [
-      "mur-de-refend"
-    ]
-  },
-  {
-    "id": "mur-de-refend",
-    "terme": "le mur de refend",
-    "categorie": "Structure",
-    "definition": "Mur porteur intérieur qui partage l'espace d'un bâtiment et relie les façades.",
-    "priorite": 2,
-    "requetes": [
-      "interior load bearing wall",
-      "mur de refend",
-      "cross wall construction"
-    ],
-    "incompatibles": [
-      "mur-porteur"
+      "voile",
+      "mur-de-remplissage",
+      "maconnerie"
     ]
   },
   {
@@ -6884,7 +6921,8 @@
     ],
     "incompatibles": [
       "poteau",
-      "colonne"
+      "colonne",
+      "pilier-de-portail"
     ]
   },
   {
@@ -6935,7 +6973,8 @@
     "incompatibles": [
       "poteau-metallique",
       "profile-en-i",
-      "profile-en-h"
+      "profile-en-h",
+      "charpente-metallique"
     ]
   },
   {
@@ -7040,7 +7079,8 @@
     ],
     "incompatibles": [
       "ferme-metallique",
-      "ferme"
+      "ferme",
+      "structure-tridimensionnelle"
     ]
   },
   {
@@ -7071,7 +7111,9 @@
     ],
     "incompatibles": [
       "ferme",
-      "poutre-treillis"
+      "poutre-treillis",
+      "charpente-metallique",
+      "gousset"
     ]
   },
   {
@@ -7201,7 +7243,8 @@
       "steel beam bolted joint"
     ],
     "incompatibles": [
-      "gousset"
+      "gousset",
+      "platine"
     ]
   },
   {
@@ -7263,7 +7306,7 @@
     "terme": "le joint de dilatation",
     "categorie": "Structure",
     "definition": "Coupure qui traverse un bâtiment de haut en bas et sépare deux blocs pour qu'ils se dilatent librement.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "building expansion joint",
       "joint de dilatation",
@@ -7282,7 +7325,9 @@
       "cantilevered slab"
     ],
     "incompatibles": [
-      "encorbellement"
+      "encorbellement",
+      "balcon",
+      "casquette"
     ]
   },
   {
@@ -7347,21 +7392,6 @@
     ]
   },
   {
-    "id": "poutre-en-lamelle-colle",
-    "terme": "la poutre en lamellé-collé",
-    "categorie": "Structure",
-    "definition": "Poutre en bois faite de lamelles collées dont on voit les couches parallèles sur le côté.",
-    "priorite": 3,
-    "requetes": [
-      "glulam beam",
-      "poutre lamellé-collé",
-      "glued laminated timber"
-    ],
-    "incompatibles": [
-      "poutre"
-    ]
-  },
-  {
     "id": "coque-en-beton",
     "terme": "la coque en béton",
     "categorie": "Structure",
@@ -7421,23 +7451,9 @@
     ],
     "incompatibles": [
       "arc",
-      "voute"
-    ]
-  },
-  {
-    "id": "extrados",
-    "terme": "l'extrados",
-    "categorie": "Structure",
-    "definition": "Face extérieure, convexe, d'un arc ou d'une voûte.",
-    "priorite": 3,
-    "requetes": [
-      "arch extrados",
-      "extrados arc",
-      "arch extrados stone"
-    ],
-    "incompatibles": [
-      "arc",
-      "voute"
+      "voute",
+      "claveau",
+      "cle-de-voute"
     ]
   },
   {
@@ -7452,7 +7468,8 @@
       "semicircular arch"
     ],
     "incompatibles": [
-      "arc"
+      "arc",
+      "baie-cintree"
     ]
   },
   {
@@ -7528,7 +7545,8 @@
       "barrel vault ceiling"
     ],
     "incompatibles": [
-      "voute"
+      "voute",
+      "voute-nubienne"
     ]
   },
   {
@@ -7611,8 +7629,8 @@
     "id": "marbre",
     "terme": "le marbre",
     "categorie": "Matériaux et revêtements",
-    "definition": "Pierre calcaire cristalline, souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.",
-    "priorite": 1,
+    "definition": "Roche métamorphique issue du calcaire, cristalline et souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.",
+    "priorite": 2,
     "requetes": [
       "white marble veined slab",
       "marble cladding wall",
@@ -7634,7 +7652,8 @@
       "pierre-de-taille",
       "moellon",
       "tuffeau",
-      "travertin"
+      "travertin",
+      "gres"
     ]
   },
   {
@@ -7665,7 +7684,8 @@
       "travertin dallage"
     ],
     "incompatibles": [
-      "marbre"
+      "marbre",
+      "calcaire"
     ]
   },
   {
@@ -7742,21 +7762,6 @@
     ]
   },
   {
-    "id": "chaux",
-    "terme": "la chaux",
-    "categorie": "Matériaux et revêtements",
-    "definition": "Liant blanc obtenu par cuisson du calcaire, employé dans les mortiers, les enduits et les badigeons.",
-    "priorite": 2,
-    "requetes": [
-      "lime powder bag building",
-      "chaux sac",
-      "slaked lime putty"
-    ],
-    "incompatibles": [
-      "enduit-a-la-chaux"
-    ]
-  },
-  {
     "id": "platre",
     "terme": "le plâtre",
     "categorie": "Matériaux et revêtements",
@@ -7766,6 +7771,11 @@
       "plaster of paris powder",
       "plâtre gâché",
       "gypsum plaster bag"
+    ],
+    "incompatibles": [
+      "staff",
+      "enduit-de-platre",
+      "carreau-de-platre"
     ]
   },
   {
@@ -7780,7 +7790,10 @@
       "béton"
     ],
     "incompatibles": [
-      "beton-brut"
+      "beton-brut",
+      "beton-frais",
+      "beton-prefabrique",
+      "beton-imprime"
     ]
   },
   {
@@ -7864,15 +7877,18 @@
     "id": "beton-prefabrique",
     "terme": "le béton préfabriqué",
     "categorie": "Matériaux et revêtements",
-    "definition": "Éléments de béton coulés en usine (panneaux, poutres, escaliers) puis posés sur le chantier.",
-    "priorite": 2,
+    "definition": "Éléments de béton coulés en usine (panneaux, poutres, prédalles), reconnaissables en stock ou au levage, ou aux joints réguliers entre panneaux une fois posés.",
+    "priorite": 3,
     "requetes": [
       "precast concrete panels",
       "precast concrete element crane",
       "béton préfabriqué"
     ],
     "incompatibles": [
-      "beton"
+      "beton",
+      "beton-brut",
+      "linteau-prefabrique",
+      "predalle"
     ]
   },
   {
@@ -7946,7 +7962,8 @@
     ],
     "incompatibles": [
       "brique",
-      "parement-en-pierre"
+      "parement-en-pierre",
+      "brique-pleine"
     ]
   },
   {
@@ -7995,7 +8012,8 @@
     ],
     "incompatibles": [
       "pierre-de-taille",
-      "granite"
+      "granite",
+      "beton-boucharde"
     ]
   },
   {
@@ -8110,7 +8128,8 @@
     ],
     "incompatibles": [
       "bardage",
-      "tuile"
+      "tuile",
+      "bardeau-bitume"
     ]
   },
   {
@@ -8142,7 +8161,8 @@
     "incompatibles": [
       "bardage",
       "tole-ondulee",
-      "panneau-sandwich"
+      "panneau-sandwich",
+      "bac-acier"
     ]
   },
   {
@@ -8190,7 +8210,14 @@
     "incompatibles": [
       "acier-galvanise",
       "inox",
-      "acier-corten"
+      "acier-corten",
+      "tole-perforee",
+      "metal-deploye",
+      "tole-larmee",
+      "tole-ondulee",
+      "bardage-metallique",
+      "fer-forge",
+      "fonte"
     ]
   },
   {
@@ -8251,7 +8278,10 @@
       "profilés aluminium"
     ],
     "incompatibles": [
-      "inox"
+      "inox",
+      "acier-galvanise",
+      "menuiserie-aluminium",
+      "profile-aluminium"
     ]
   },
   {
@@ -8306,7 +8336,8 @@
     ],
     "incompatibles": [
       "fonte",
-      "garde-corps"
+      "garde-corps",
+      "garde-corps-en-fer-forge"
     ]
   },
   {
@@ -8431,6 +8462,9 @@
       "polycarbonate roofing sheets",
       "multiwall polycarbonate",
       "polycarbonate alvéolaire"
+    ],
+    "incompatibles": [
+      "plaque-translucide"
     ]
   },
   {
@@ -8445,7 +8479,8 @@
       "enduit façade"
     ],
     "incompatibles": [
-      "beton"
+      "beton",
+      "gobetis"
     ]
   },
   {
@@ -8494,22 +8529,6 @@
     ]
   },
   {
-    "id": "enduit-a-la-chaux",
-    "terme": "l'enduit à la chaux",
-    "categorie": "Matériaux et revêtements",
-    "definition": "Enduit souple et respirant à base de chaux, aux teintes douces et à la surface légèrement irrégulière.",
-    "priorite": 3,
-    "requetes": [
-      "lime render wall",
-      "enduit à la chaux",
-      "lime plaster facade"
-    ],
-    "incompatibles": [
-      "enduit",
-      "chaux"
-    ]
-  },
-  {
     "id": "mosaique",
     "terme": "la mosaïque",
     "categorie": "Matériaux et revêtements",
@@ -8521,22 +8540,7 @@
       "mosaïque"
     ],
     "incompatibles": [
-      "pate-de-verre"
-    ]
-  },
-  {
-    "id": "pate-de-verre",
-    "terme": "la pâte de verre",
-    "categorie": "Matériaux et revêtements",
-    "definition": "Petits carreaux de verre coloré collés sur trame, en revêtement de piscines, de salles d'eau ou de façades.",
-    "priorite": 3,
-    "requetes": [
-      "glass mosaic tiles",
-      "pâte de verre",
-      "glass mosaic pool"
-    ],
-    "incompatibles": [
-      "mosaique"
+      "mosaique-de-pate-de-verre"
     ]
   },
   {
@@ -8751,7 +8755,9 @@
     ],
     "incompatibles": [
       "triglyphe",
-      "frise"
+      "frise",
+      "bas-relief",
+      "haut-relief"
     ]
   },
   {
@@ -8759,7 +8765,7 @@
     "terme": "la volute",
     "categorie": "Ornement",
     "definition": "Ornement enroulé en spirale, typique du chapiteau ionique et des consoles.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "ionic volute",
       "volute scroll ornament",
@@ -8801,7 +8807,8 @@
     ],
     "incompatibles": [
       "corniche",
-      "modillon"
+      "modillon",
+      "moulure"
     ]
   },
   {
@@ -8832,7 +8839,9 @@
     ],
     "incompatibles": [
       "feuille-d-acanthe",
-      "frise"
+      "frise",
+      "bas-relief",
+      "haut-relief"
     ]
   },
   {
@@ -8847,7 +8856,9 @@
       "feston sculpté"
     ],
     "incompatibles": [
-      "frise"
+      "frise",
+      "bas-relief",
+      "haut-relief"
     ]
   },
   {
@@ -8862,7 +8873,9 @@
       "palmette"
     ],
     "incompatibles": [
-      "frise"
+      "frise",
+      "bas-relief",
+      "haut-relief"
     ]
   },
   {
@@ -8892,7 +8905,9 @@
       "cartouche sculpté"
     ],
     "incompatibles": [
-      "medaillon"
+      "medaillon",
+      "bas-relief",
+      "haut-relief"
     ]
   },
   {
@@ -8907,7 +8922,9 @@
       "médaillon façade"
     ],
     "incompatibles": [
-      "cartouche"
+      "cartouche",
+      "bas-relief",
+      "haut-relief"
     ]
   },
   {
@@ -8930,7 +8947,7 @@
     "terme": "le bossage",
     "categorie": "Ornement",
     "definition": "Saillie volontaire de la face des pierres d'un mur, séparées par des joints creux, pour en accuser le relief.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "rustication stone",
       "rusticated masonry",
@@ -8945,7 +8962,7 @@
     "id": "refend",
     "terme": "le refend",
     "categorie": "Ornement",
-    "definition": "Rainure horizontale creusée dans un enduit ou une pierre pour imiter les joints d'un appareil.",
+    "definition": "Rainure creusée dans un enduit ou une pierre pour marquer ou imiter les joints d'un appareil.",
     "priorite": 3,
     "requetes": [
       "refend façade",
@@ -8961,7 +8978,7 @@
     "terme": "la niche",
     "categorie": "Ornement",
     "definition": "Renfoncement ménagé dans l'épaisseur d'un mur, souvent cintré, destiné à recevoir une statue ou un vase.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "niche statue facade",
       "wall niche architecture",
@@ -8973,7 +8990,7 @@
     "terme": "le bas-relief",
     "categorie": "Ornement",
     "definition": "Sculpture qui se détache peu du fond auquel elle reste attachée.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "bas-relief facade",
       "low relief sculpture wall",
@@ -8981,7 +8998,8 @@
     ],
     "incompatibles": [
       "haut-relief",
-      "frise"
+      "frise",
+      "bas-relief-d-abomey"
     ]
   },
   {
@@ -8989,7 +9007,7 @@
     "terme": "le haut-relief",
     "categorie": "Ornement",
     "definition": "Sculpture qui se détache fortement du fond, les figures étant presque en ronde-bosse.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "high relief sculpture",
       "high relief facade",
@@ -9104,7 +9122,7 @@
     "terme": "la cannelure",
     "categorie": "Ornement",
     "definition": "Rainure verticale creusée en série sur le fût d'une colonne ou d'un pilastre.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "fluted column",
       "column fluting",
@@ -9167,7 +9185,7 @@
     "terme": "le vitrail",
     "categorie": "Ornement",
     "definition": "Composition de verres colorés assemblés par des plombs, qui garnit une baie.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "incategory:\"Stained glass windows\"",
       "stained glass window",
@@ -9182,8 +9200,8 @@
     "id": "fresque",
     "terme": "la fresque",
     "categorie": "Ornement",
-    "definition": "Grande peinture murale exécutée sur un enduit, en intérieur ou sur une façade.",
-    "priorite": 1,
+    "definition": "Grande peinture murale, à l'origine exécutée sur enduit frais, en intérieur ou sur une façade.",
+    "priorite": 2,
     "requetes": [
       "mural painting wall",
       "fresque murale",
@@ -9325,7 +9343,9 @@
     ],
     "incompatibles": [
       "toron",
-      "banco"
+      "banco",
+      "crepissage",
+      "minaret"
     ]
   },
   {
@@ -9333,7 +9353,7 @@
     "terme": "la voûte nubienne",
     "categorie": "Afrique de l'Ouest",
     "definition": "Voûte en briques de terre crue montée sans coffrage, par rangs inclinés, utilisée dans le Sahel pour couvrir des maisons.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "nubian vault Burkina Faso",
       "voûte nubienne",
@@ -9365,14 +9385,15 @@
     "terme": "la piste latéritique",
     "categorie": "Afrique de l'Ouest",
     "definition": "Route en terre rouge compactée, typique des campagnes d'Afrique de l'Ouest.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "laterite road Africa",
       "red dirt road Senegal",
       "piste en latérite"
     ],
     "incompatibles": [
-      "laterite"
+      "laterite",
+      "chaussee"
     ]
   },
   {
@@ -9395,8 +9416,8 @@
     "id": "crinting",
     "terme": "le crinting",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Panneau de tiges ou de lattes tressées (bambou, rônier, mil), utilisé au Sénégal en palissade ou en paroi de case ; on dit aussi seko au Mali.",
-    "priorite": 1,
+    "definition": "Panneau de lattes de bambou ou de nervures de rônier tressées, utilisé au Sénégal en palissade, en clôture ou en paroi de case.",
+    "priorite": 2,
     "requetes": [
       "crinting Sénégal",
       "woven fence Senegal",
@@ -9411,7 +9432,7 @@
     "terme": "la paillote",
     "categorie": "Afrique de l'Ouest",
     "definition": "Abri léger à toit de paille ou de palmes sur poteaux de bois, courant sur les plages et dans les cours.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "paillote plage Sénégal",
       "thatched beach hut Africa",
@@ -9484,10 +9505,10 @@
   },
   {
     "id": "tata-somba",
-    "terme": "la tata somba",
+    "terme": "le tata somba",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Maison-forteresse en terre à étage du nord du Bénin et du Togo, flanquée de tourelles coiffées de paille.",
-    "priorite": 2,
+    "definition": "Maison-forteresse en terre à étage des Somba (Betammaribé) du nord du Bénin et du Togo, aux tourelles cylindriques coiffées de toits coniques de paille.",
+    "priorite": 3,
     "requetes": [
       "tata somba",
       "Koutammakou",
@@ -9502,7 +9523,7 @@
     "id": "case-kassena",
     "terme": "la case kassena",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Case en terre du pays kassena (Burkina Faso) aux murs couverts de motifs géométriques peints en noir, blanc et rouge.",
+    "definition": "Case en terre du pays kassena (Tiébélé, Burkina Faso) aux murs couverts de motifs géométriques peints en noir, blanc et rouge.",
     "priorite": 3,
     "requetes": [
       "Tiébélé",
@@ -9511,22 +9532,6 @@
     ],
     "incompatibles": [
       "banco"
-    ]
-  },
-  {
-    "id": "soukala",
-    "terme": "la soukala",
-    "categorie": "Afrique de l'Ouest",
-    "definition": "Concession fortifiée en terre du Burkina Faso, faite de bâtiments accolés à toits-terrasses autour d'une cour.",
-    "priorite": 3,
-    "requetes": [
-      "soukala",
-      "Bobo-Dioulasso traditional compound",
-      "soukala Burkina Faso"
-    ],
-    "incompatibles": [
-      "banco",
-      "concession"
     ]
   },
   {
@@ -9580,7 +9585,7 @@
     "id": "facade-toucouleur",
     "terme": "la façade toucouleur",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Façade de maison en banco de Djenné marquée par un portail central en saillie, flanqué de pilastres et couronné de pinacles.",
+    "definition": "Façade de maison en banco de Djenné, de style dit toucouleur, marquée par un portail central en saillie flanqué de pilastres et couronné de pinacles.",
     "priorite": 3,
     "requetes": [
       "Djenné house facade",
@@ -9642,7 +9647,7 @@
     "id": "maison-coloniale",
     "terme": "la maison coloniale",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Maison enduite de couleurs vives, à balcon ou galerie de bois ou de fer et à persiennes, typique de Saint-Louis et de Gorée.",
+    "definition": "Maison à étage enduite de couleurs, à balcon ou galerie de bois ou de fer et à persiennes, typique de Saint-Louis, de Gorée et du Plateau à Dakar.",
     "priorite": 2,
     "requetes": [
       "Saint-Louis Senegal colonial architecture",
@@ -9653,18 +9658,6 @@
       "maison-de-signare",
       "balcon",
       "persienne"
-    ]
-  },
-  {
-    "id": "tessons-de-bouteille",
-    "terme": "les tessons de bouteille",
-    "categorie": "Afrique de l'Ouest",
-    "definition": "Éclats de verre scellés dans le mortier au sommet d'un mur de clôture pour empêcher l'escalade.",
-    "priorite": 2,
-    "requetes": [
-      "broken glass on wall top",
-      "wall topped with broken glass",
-      "tessons de bouteille mur"
     ]
   },
   {
@@ -9686,7 +9679,7 @@
     "id": "crepissage",
     "terme": "le crépissage",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Réfection collective, à la main, de l'enduit de banco d'une mosquée soudano-sahélienne, comme la fête annuelle de Djenné.",
+    "definition": "Réfection collective, à la main, de l'enduit de banco d'une mosquée soudano-sahélienne, comme la fête annuelle de la grande mosquée de Djenné.",
     "priorite": 3,
     "requetes": [
       "crépissage Djenné",
@@ -9730,7 +9723,7 @@
     "id": "porte-isoplane",
     "terme": "la porte isoplane",
     "categorie": "Menuiserie et serrurerie",
-    "definition": "Porte intérieure légère et lisse, faite de deux panneaux minces collés sur un cadre à âme alvéolaire.",
+    "definition": "Porte intérieure lisse et légère, faite de deux parements minces collés sur un cadre en bois garni d'une âme alvéolaire.",
     "priorite": 2,
     "requetes": [
       "flush door interior",
@@ -9849,21 +9842,6 @@
     ]
   },
   {
-    "id": "porte-va-et-vient",
-    "terme": "la porte va-et-vient",
-    "categorie": "Menuiserie et serrurerie",
-    "definition": "Porte montée sur pivots ou charnières doubles qui s'ouvre dans les deux sens et revient seule en position fermée.",
-    "priorite": 3,
-    "requetes": [
-      "swing door double acting",
-      "porte va-et-vient",
-      "saloon doors"
-    ],
-    "incompatibles": [
-      "porte"
-    ]
-  },
-  {
     "id": "porte-a-tambour",
     "terme": "la porte à tambour",
     "categorie": "Menuiserie et serrurerie",
@@ -9906,22 +9884,6 @@
       "metal door"
     ],
     "incompatibles": [
-      "porte"
-    ]
-  },
-  {
-    "id": "porte-blindee",
-    "terme": "la porte blindée",
-    "categorie": "Menuiserie et serrurerie",
-    "definition": "Porte d'entrée renforcée par une tôle d'acier et une serrure multipoint pour résister à l'effraction.",
-    "priorite": 2,
-    "requetes": [
-      "armored door apartment",
-      "porte blindée",
-      "security door"
-    ],
-    "incompatibles": [
-      "porte-d-entree",
       "porte"
     ]
   },
@@ -9969,7 +9931,8 @@
       "closet doors"
     ],
     "incompatibles": [
-      "porte"
+      "porte",
+      "placard"
     ]
   },
   {
@@ -10076,7 +10039,7 @@
     "terme": "la fenêtre oscillo-battante",
     "categorie": "Menuiserie et serrurerie",
     "definition": "Fenêtre qui s'ouvre soit à la française, soit en soufflet selon la position de la poignée.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "tilt and turn window",
       "fenêtre oscillo-battante",
@@ -10160,14 +10123,15 @@
       "fixed pane window"
     ],
     "incompatibles": [
-      "fenetre"
+      "fenetre",
+      "imposte"
     ]
   },
   {
     "id": "naco",
     "terme": "le naco",
     "categorie": "Menuiserie et serrurerie",
-    "definition": "Fenêtre à lames de verre parallèles et orientables, réglées par une manivelle ou un levier, appelée naco en Afrique de l'Ouest (fenêtre à jalousies).",
+    "definition": "Fenêtre faite de lames horizontales parallèles, en verre ou en aluminium, qui pivotent ensemble grâce à un levier latéral ; appelée naco en Afrique de l'Ouest et fenêtre à jalousies en France.",
     "priorite": 1,
     "requetes": [
       "louvre window glass",
@@ -10175,7 +10139,9 @@
       "naco fenêtre"
     ],
     "incompatibles": [
-      "fenetre"
+      "fenetre",
+      "persienne",
+      "menuiserie-aluminium"
     ]
   },
   {
@@ -10191,7 +10157,10 @@
     ],
     "incompatibles": [
       "fenetre",
-      "fenetre-coulissante"
+      "fenetre-coulissante",
+      "chassis-fixe",
+      "porte-vitree",
+      "aluminium"
     ]
   },
   {
@@ -10206,7 +10175,10 @@
       "uPVC window"
     ],
     "incompatibles": [
-      "fenetre"
+      "fenetre",
+      "menuiserie-aluminium",
+      "fenetre-oscillo-battante",
+      "double-vitrage"
     ]
   },
   {
@@ -10344,7 +10316,8 @@
       "espagnolette fenêtre ancienne"
     ],
     "incompatibles": [
-      "cremone"
+      "cremone",
+      "poignee-de-fenetre"
     ]
   },
   {
@@ -10559,21 +10532,6 @@
     ]
   },
   {
-    "id": "seuil-de-porte",
-    "terme": "le seuil de porte",
-    "categorie": "Menuiserie et serrurerie",
-    "definition": "Pièce horizontale au bas d'une porte, en pierre, bois ou métal, qui marque le passage au sol.",
-    "priorite": 2,
-    "requetes": [
-      "door threshold",
-      "seuil de porte",
-      "threshold strip"
-    ],
-    "incompatibles": [
-      "porte"
-    ]
-  },
-  {
     "id": "piece-d-appui",
     "terme": "la pièce d'appui",
     "categorie": "Menuiserie et serrurerie",
@@ -10631,7 +10589,6 @@
       "porthole door window"
     ],
     "incompatibles": [
-      "porte-va-et-vient",
       "porte-vitree"
     ]
   },
@@ -10640,14 +10597,15 @@
     "terme": "le profilé aluminium",
     "categorie": "Menuiserie et serrurerie",
     "definition": "Barre d'aluminium extrudée de section creuse, utilisée pour fabriquer cadres et vantaux de menuiserie.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "aluminium profiles extrusion",
       "profilés aluminium menuiserie",
       "aluminium extrusion profile"
     ],
     "incompatibles": [
-      "menuiserie-aluminium"
+      "menuiserie-aluminium",
+      "aluminium"
     ]
   },
   {
@@ -10655,7 +10613,7 @@
     "terme": "le double vitrage",
     "categorie": "Menuiserie et serrurerie",
     "definition": "Vitrage fait de deux verres séparés par une lame d'air ou de gaz, avec un intercalaire visible sur le pourtour.",
-    "priorite": 2,
+    "priorite": 3,
     "requetes": [
       "double glazing unit edge",
       "double vitrage",
@@ -10678,21 +10636,6 @@
     ]
   },
   {
-    "id": "vitrage-reflechissant",
-    "terme": "le vitrage réfléchissant",
-    "categorie": "Menuiserie et serrurerie",
-    "definition": "Vitrage revêtu d'une couche métallique qui renvoie la lumière comme un miroir et limite l'apport solaire.",
-    "priorite": 2,
-    "requetes": [
-      "reflective glass facade building",
-      "vitrage réfléchissant",
-      "mirror glass building"
-    ],
-    "incompatibles": [
-      "vitrage-teinte"
-    ]
-  },
-  {
     "id": "vitrage-teinte",
     "terme": "le vitrage teinté",
     "categorie": "Menuiserie et serrurerie",
@@ -10704,7 +10647,7 @@
       "bronze tinted glass"
     ],
     "incompatibles": [
-      "vitrage-reflechissant"
+      "verre-reflechissant"
     ]
   },
   {
@@ -10717,9 +10660,6 @@
       "glazing bead window",
       "parclose",
       "glazing bead"
-    ],
-    "incompatibles": [
-      "feuillure"
     ]
   },
   {
@@ -10743,7 +10683,7 @@
     "terme": "la paumelle à souder",
     "categorie": "Menuiserie et serrurerie",
     "definition": "Paumelle cylindrique en acier, sans ailes percées, soudée directement sur les portes et portails métalliques.",
-    "priorite": 3,
+    "priorite": 2,
     "requetes": [
       "weld on hinge",
       "paumelle à souder",
@@ -11177,7 +11117,12 @@
       "straight flight stairs"
     ],
     "incompatibles": [
-      "escalier"
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours",
+      "volee"
     ]
   },
   {
@@ -11192,7 +11137,11 @@
       "quarter turn stairs"
     ],
     "incompatibles": [
-      "escalier"
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours"
     ]
   },
   {
@@ -11208,7 +11157,11 @@
     ],
     "incompatibles": [
       "escalier",
-      "palier"
+      "palier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours"
     ]
   },
   {
@@ -11224,7 +11177,11 @@
     ],
     "incompatibles": [
       "escalier",
-      "noyau"
+      "noyau",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours"
     ]
   },
   {
@@ -11239,7 +11196,10 @@
       "grand double staircase"
     ],
     "incompatibles": [
-      "escalier"
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois"
     ]
   },
   {
@@ -11255,7 +11215,10 @@
     ],
     "incompatibles": [
       "limon",
-      "escalier"
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois"
     ]
   },
   {
@@ -11270,7 +11233,11 @@
       "floating staircase"
     ],
     "incompatibles": [
-      "escalier"
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "porte-a-faux"
     ]
   },
   {
@@ -11346,7 +11313,8 @@
       "loft ladder"
     ],
     "incompatibles": [
-      "echelle-de-meunier"
+      "echelle-de-meunier",
+      "escalier-en-bois"
     ]
   },
   {
@@ -11361,7 +11329,9 @@
       "steep stairs ladder"
     ],
     "incompatibles": [
-      "escalier"
+      "escalier",
+      "escalier-en-bois",
+      "escalier-metallique"
     ]
   },
   {
@@ -11374,6 +11344,9 @@
       "caged ladder",
       "échelle à crinoline",
       "fixed ladder safety cage"
+    ],
+    "incompatibles": [
+      "echelle"
     ]
   },
   {
@@ -11570,7 +11543,8 @@
       "floor opening stairs construction"
     ],
     "incompatibles": [
-      "cage-d-escalier"
+      "cage-d-escalier",
+      "tremie"
     ]
   },
   {
@@ -11618,7 +11592,8 @@
     ],
     "incompatibles": [
       "rampe-d-escalier",
-      "balustre"
+      "balustre",
+      "garde-corps-a-barreaudage"
     ]
   },
   {
@@ -11648,7 +11623,9 @@
       "entrance stoop steps"
     ],
     "incompatibles": [
-      "escalier"
+      "escalier",
+      "escalier-droit",
+      "escalier-en-beton"
     ]
   },
   {
@@ -11661,6 +11638,9 @@
       "wheelchair ramp",
       "rampe d'accès PMR",
       "accessibility ramp"
+    ],
+    "incompatibles": [
+      "bateau-de-trottoir"
     ]
   },
   {
@@ -11688,6 +11668,10 @@
       "elevator doors lobby",
       "ascenseur",
       "lift doors"
+    ],
+    "incompatibles": [
+      "bouton-d-appel",
+      "monte-charge"
     ]
   },
   {
@@ -11942,7 +11926,7 @@
     "terme": "la baignoire",
     "categorie": "Réseaux et équipements",
     "definition": "Grande cuve sanitaire en acrylique, en fonte ou en acier dans laquelle on prend un bain.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "bathtub",
       "baignoire",
@@ -12023,6 +12007,9 @@
       "PVC pipe",
       "tube PVC évacuation",
       "PVC pipes construction"
+    ],
+    "incompatibles": [
+      "descente-d-eaux-pluviales"
     ]
   },
   {
@@ -12191,6 +12178,9 @@
       "pressure reducing valve water",
       "réducteur de pression eau",
       "water pressure regulator brass"
+    ],
+    "incompatibles": [
+      "manometre"
     ]
   },
   {
@@ -12269,7 +12259,8 @@
     ],
     "incompatibles": [
       "pompe-de-surface",
-      "reservoir-a-vessie"
+      "reservoir-a-vessie",
+      "manometre"
     ]
   },
   {
@@ -12318,6 +12309,9 @@
       "sewage lift pump",
       "pompe de relevage",
       "sump pump basement"
+    ],
+    "incompatibles": [
+      "pompe-immergee"
     ]
   },
   {
@@ -12332,7 +12326,8 @@
       "drain stack PVC"
     ],
     "incompatibles": [
-      "tube-pvc"
+      "tube-pvc",
+      "descente-d-eaux-pluviales"
     ]
   },
   {
@@ -13003,6 +12998,9 @@
       "exhaust fan wall",
       "extracteur d'air",
       "bathroom extractor fan"
+    ],
+    "incompatibles": [
+      "grille-de-ventilation"
     ]
   },
   {
@@ -13103,7 +13101,7 @@
     "id": "robinet-d-incendie-arme",
     "terme": "le robinet d'incendie armé",
     "categorie": "Réseaux et équipements",
-    "definition": "Dévidoir mural portant un tuyau rigide enroulé, raccordé en permanence au réseau d'eau, pour lutter contre le feu ; abrégé RIA.",
+    "definition": "Dévidoir mural portant un tuyau semi-rigide enroulé, raccordé en permanence au réseau d'eau, pour lutter contre le feu ; abrégé RIA.",
     "priorite": 3,
     "requetes": [
       "fire hose reel",
@@ -13208,6 +13206,9 @@
       "elevator call button",
       "bouton d'appel ascenseur",
       "lift call button"
+    ],
+    "incompatibles": [
+      "ascenseur"
     ]
   },
   {
@@ -13369,7 +13370,9 @@
       "drywall furring wall insulation"
     ],
     "incompatibles": [
-      "plaque-de-platre"
+      "plaque-de-platre",
+      "cloison-en-plaques-de-platre",
+      "cloison"
     ]
   },
   {
@@ -13433,21 +13436,6 @@
     ]
   },
   {
-    "id": "cloison-alveolaire",
-    "terme": "la cloison alvéolaire",
-    "categorie": "Second œuvre et finitions",
-    "definition": "Cloison préfabriquée faite de deux parements en carton plâtre reliés par une âme en nid d'abeilles de carton.",
-    "priorite": 3,
-    "requetes": [
-      "honeycomb core partition panel",
-      "cloison alvéolaire",
-      "paper honeycomb panel"
-    ],
-    "incompatibles": [
-      "cloison"
-    ]
-  },
-  {
     "id": "cloison-sanitaire",
     "terme": "la cloison sanitaire",
     "categorie": "Second œuvre et finitions",
@@ -13474,7 +13462,8 @@
       "vapour barrier membrane"
     ],
     "incompatibles": [
-      "laine-de-verre"
+      "laine-de-verre",
+      "film-polyethylene"
     ]
   },
   {
@@ -13511,6 +13500,9 @@
       "plastering interior wall gypsum",
       "enduit plâtre mur",
       "fresh plaster wall interior"
+    ],
+    "incompatibles": [
+      "platre"
     ]
   },
   {
@@ -13616,7 +13608,10 @@
     "incompatibles": [
       "corniche",
       "faux-plafond",
-      "platre"
+      "platre",
+      "rosace-de-plafond",
+      "moulure",
+      "faux-plafond-en-plaques-de-platre"
     ]
   },
   {
@@ -13724,18 +13719,6 @@
     ]
   },
   {
-    "id": "revetement-de-sol",
-    "terme": "le revêtement de sol",
-    "categorie": "Second œuvre et finitions",
-    "definition": "Couche de finition posée sur la dalle ou la chape : carrelage, parquet, résine, sol souple, etc.",
-    "priorite": 1,
-    "requetes": [
-      "floor covering",
-      "revêtement de sol",
-      "incategory:\"Floors\""
-    ]
-  },
-  {
     "id": "carrelage",
     "terme": "le carrelage",
     "categorie": "Second œuvre et finitions",
@@ -13745,9 +13728,6 @@
       "tiled floor",
       "carrelage sol",
       "incategory:\"Tiled floors\""
-    ],
-    "incompatibles": [
-      "revetement-de-sol"
     ]
   },
   {
@@ -13762,7 +13742,8 @@
       "porcelain stoneware tiles"
     ],
     "incompatibles": [
-      "carrelage"
+      "carrelage",
+      "faience"
     ]
   },
   {
@@ -13810,7 +13791,8 @@
     ],
     "incompatibles": [
       "carreau-de-gres-cerame",
-      "parquet"
+      "parquet",
+      "sol-stratifie"
     ]
   },
   {
@@ -13886,7 +13868,6 @@
       "tile levelling clips"
     ],
     "incompatibles": [
-      "croisillon",
       "carrelage"
     ]
   },
@@ -13921,12 +13902,15 @@
     "id": "barre-de-seuil",
     "terme": "la barre de seuil",
     "categorie": "Second œuvre et finitions",
-    "definition": "Profilé ou pierre posé au sol sous une porte, à la jonction de deux revêtements différents.",
-    "priorite": 1,
+    "definition": "Profilé métallique mince vissé ou collé au sol sous une porte, qui couvre la jonction entre deux revêtements de sol différents.",
+    "priorite": 2,
     "requetes": [
       "door threshold strip floor transition",
       "barre de seuil",
       "marble threshold door"
+    ],
+    "incompatibles": [
+      "seuil"
     ]
   },
   {
@@ -13973,7 +13957,8 @@
     ],
     "incompatibles": [
       "carrelage",
-      "gres-cerame-poli"
+      "gres-cerame-poli",
+      "marbre"
     ]
   },
   {
@@ -14003,7 +13988,8 @@
       "ground polished concrete floor"
     ],
     "incompatibles": [
-      "beton-brut"
+      "beton-brut",
+      "sol-en-resine"
     ]
   },
   {
@@ -14016,9 +14002,6 @@
       "epoxy floor coating",
       "sol résine époxy",
       "epoxy resin floor"
-    ],
-    "incompatibles": [
-      "revetement-de-sol"
     ]
   },
   {
@@ -14031,6 +14014,9 @@
       "self leveling compound floor",
       "ragréage sol",
       "self-levelling screed pouring"
+    ],
+    "incompatibles": [
+      "chape-liquide"
     ]
   },
   {
@@ -14043,9 +14029,6 @@
       "wooden parquet floor",
       "parquet bois",
       "incategory:\"Parquet\""
-    ],
-    "incompatibles": [
-      "revetement-de-sol"
     ]
   },
   {
@@ -14122,7 +14105,7 @@
     ],
     "incompatibles": [
       "linoleum",
-      "revetement-de-sol"
+      "sol-stratifie"
     ]
   },
   {
@@ -14147,9 +14130,6 @@
       "wall to wall carpet",
       "moquette",
       "carpeted office floor"
-    ],
-    "incompatibles": [
-      "revetement-de-sol"
     ]
   },
   {
@@ -14219,18 +14199,6 @@
     ]
   },
   {
-    "id": "revetement-mural",
-    "terme": "le revêtement mural",
-    "categorie": "Second œuvre et finitions",
-    "definition": "Couche de finition appliquée sur un mur intérieur : peinture, faïence, papier peint, lambris, etc.",
-    "priorite": 1,
-    "requetes": [
-      "interior wall covering",
-      "revêtement mural",
-      "wall finish interior"
-    ]
-  },
-  {
     "id": "faience",
     "terme": "la faïence",
     "categorie": "Second œuvre et finitions",
@@ -14242,8 +14210,7 @@
       "ceramic wall tiles"
     ],
     "incompatibles": [
-      "carrelage",
-      "revetement-mural"
+      "carrelage"
     ]
   },
   {
@@ -14374,7 +14341,8 @@
       "floor expansion joint cover"
     ],
     "incompatibles": [
-      "joint-de-fractionnement"
+      "joint-de-fractionnement",
+      "joint-de-dilatation"
     ]
   },
   {
@@ -14387,9 +14355,6 @@
       "painting interior wall roller",
       "peinture mur intérieur",
       "incategory:\"Painted walls\""
-    ],
-    "incompatibles": [
-      "revetement-mural"
     ]
   },
   {
@@ -14402,9 +14367,6 @@
       "wallpaper wall",
       "papier peint",
       "incategory:\"Wallpapers\""
-    ],
-    "incompatibles": [
-      "revetement-mural"
     ]
   },
   {
@@ -14466,7 +14428,8 @@
       "tongue and groove wood ceiling"
     ],
     "incompatibles": [
-      "boiserie"
+      "boiserie",
+      "bardage"
     ]
   },
   {
@@ -14493,7 +14456,8 @@
       "picture rail molding"
     ],
     "incompatibles": [
-      "boiserie"
+      "boiserie",
+      "moulure"
     ]
   },
   {
@@ -14508,7 +14472,8 @@
       "built-in wardrobe sliding doors"
     ],
     "incompatibles": [
-      "dressing"
+      "dressing",
+      "porte-de-placard"
     ]
   },
   {

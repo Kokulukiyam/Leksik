@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "encadrement-de-baie",
+    "terme": "l'encadrement de baie",
+    "categorie": "Façade et ouvertures",
+    "definition": "Bordure qui entoure une baie en façade, en saillie ou de teinte différente, sur les côtés et au-dessus.",
+    "priorite": 1,
+    "requetes": [
+      "window surround facade",
+      "encadrement de fenêtre façade",
+      "stone window surround"
+    ],
+    "incompatibles": [
+      "chambranle",
+      "baie"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Carl Hårleman - Partial Elevation of Facade with a Cornice, Two Studies for Lanterns, Two Window Surrounds - NMH CC 3277 verso - Nationalmuseum.jpg",
+      "description": "",
+      "categories": [
+        "Carl Hårleman",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-auto-expired)",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "CC-PD-Mark",
+        "Artworks with accession number from Wikidata",
+        "Artworks with Wikidata item missing genre",
+        "Drawings in the Nationalmuseum Stockholm",
+        "Artworks digital representation of 2D work"
+      ],
+      "auteur": "Carl Hårleman",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carl_H%C3%A5rleman_-_Partial_Elevation_of_Facade_with_a_Cornice,_Two_Studies_for_Lanterns,_Two_Window_Surrounds_-_NMH_CC_3277_verso_-_Nationalmuseum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Carl_H%C3%A5rleman_-_Partial_Elevation_of_Facade_with_a_Cornice%2C_Two_Studies_for_Lanterns%2C_Two_Window_Surrounds_-_NMH_CC_3277_verso_-_Nationalmuseum.jpg/1280px-Carl_H%C3%A5rleman_-_Partial_Elevation_of_Facade_with_a_Cornice%2C_Two_Studies_for_Lanterns%2C_Two_Window_Surrounds_-_NMH_CC_3277_verso_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3918,
+      "hauteur": 5577
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2026-09-17 Window and facade details at 11 Gizo Nishnianidze Street, Tbilisi.jpg",
+      "description": "Detail of the facade of the house at 11 Gizo Nishnianidze Street, Sololaki, Tbilisi, Georgia. The photograph shows a wooden window with a moulded surround, a decorative element above the window opening, cornice mouldings and weathered plaster.",
+      "categories": [
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation",
+        "11 Gizo Nishnianidze Street - 4 Rostom Muskhelishvili Street, Tbilisi"
+      ],
+      "auteur": "FingerWiki",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-09-17_Window_and_facade_details_at_11_Gizo_Nishnianidze_Street,_Tbilisi.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2026-09-17_Window_and_facade_details_at_11_Gizo_Nishnianidze_Street%2C_Tbilisi.jpg/1280px-2026-09-17_Window_and_facade_details_at_11_Gizo_Nishnianidze_Street%2C_Tbilisi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Casa Comalat front facade 05.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Casa Comalat (Avinguda Diagonal facade)",
+        "Oriel windows in Barcelona"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_front_facade_05.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Casa_Comalat_front_facade_05.JPG/1280px-Casa_Comalat_front_facade_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Casa Comalat back facade 18.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Art Nouveau windows in Catalonia",
+        "Casa Comalat (Carrer de Còrsega facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_18.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Casa_Comalat_back_facade_18.JPG/1280px-Casa_Comalat_back_facade_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2507,
+      "hauteur": 1880
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Casa Comalat back facade 17.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Art Nouveau windows in Catalonia",
+        "Casa Comalat (Carrer de Còrsega facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_17.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Casa_Comalat_back_facade_17.JPG/1280px-Casa_Comalat_back_facade_17.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1887,
+      "hauteur": 2516
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Casa Comalat back facade 16.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Art Nouveau windows in Catalonia",
+        "Casa Comalat (Carrer de Còrsega facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_16.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Casa_Comalat_back_facade_16.JPG/1280px-Casa_Comalat_back_facade_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2396,
+      "hauteur": 1915
+    }
+  ]
+}

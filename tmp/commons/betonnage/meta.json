@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "betonnage",
+    "terme": "le bétonnage",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Coulage du béton dans un coffrage ou sur une dalle, à la pompe, à la goulotte ou au seau.",
+    "priorite": 1,
+    "requetes": [
+      "concrete pouring slab construction workers",
+      "coulage béton dalle",
+      "concrete pour pump"
+    ],
+    "incompatibles": [
+      "beton-frais"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:US Navy 030429-N-2517J-003 Seabees from Naval Mobile Construction Battalion One Thirty Three (NMCB-133) smooth the surface of newly poured concrete slab, using a screed board and rakes, during repair and improvements for the ru.jpg",
+      "description": "Al Kut Air Base, Iraq (Apr. 29, 2003) -- Seabees from Naval Mobile Construction Battalion One Thirty Three (NMCB-133) smooth the surface of newly poured concrete slab, using a screed board and rakes, during repair and improvements for the runway at Al Kut Air Base, Iraq. NMCB-133 is repairing the runway so that supplies and equipment can be flown into the area in support humanitarian missions. NMCB-133 is in Iraq to support combatant forces with construction support and aid the reconstruction of the local community during Operation Iraqi Freedom. U.S. Navy Naval Mobile Construction Battalions ",
+      "categories": [
+        "Photos taken with Nikon D1",
+        "Al Kut",
+        "Naval Mobile Construction Battalion 133",
+        "Concrete workers",
+        "PD US Navy",
+        "People with rakes",
+        "Files created by the United States Navy with known IDs",
+        "United States Navy images from Iraq",
+        "CC-PD-Mark",
+        "Airfield construction",
+        "People wearing boonie hats",
+        "People with hand rakes"
+      ],
+      "auteur": "U.S. Navy photo by Photographer’s Mate 2nd Class Jacob Johnson.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:US_Navy_030429-N-2517J-003_Seabees_from_Naval_Mobile_Construction_Battalion_One_Thirty_Three_(NMCB-133)_smooth_the_surface_of_newly_poured_concrete_slab,_using_a_screed_board_and_rakes,_during_repair_and_improvements_for_the_ru.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/US_Navy_030429-N-2517J-003_Seabees_from_Naval_Mobile_Construction_Battalion_One_Thirty_Three_%28NMCB-133%29_smooth_the_surface_of_newly_poured_concrete_slab%2C_using_a_screed_board_and_rakes%2C_during_repair_and_improvements_for_the_ru.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1312
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Coulage de béton pour dalle, Tunisie.jpg",
+      "description": "Camion toupie en train d'alimenter une pompe à béton pour la dalle dune construction en Tunisie",
+      "categories": [
+        "Self-published work",
+        "Construction in Tunisia",
+        "Concrete pump trucks",
+        "Files by User:Dyolf77",
+        "Photographs by User:Dyolf77",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2019-07-24"
+      ],
+      "auteur": "Habib M'henni",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coulage_de_b%C3%A9ton_pour_dalle,_Tunisie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Coulage_de_b%C3%A9ton_pour_dalle%2C_Tunisie.jpg/1280px-Coulage_de_b%C3%A9ton_pour_dalle%2C_Tunisie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Engineers at the Construction Site 11.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Self-published work",
+        "Construction in Uganda",
+        "Images from Wiki Loves Africa 2017",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Construction workers in Uganda",
+        "Images from Wiki Loves Africa 2017 in Uganda",
+        "Occupations of Uganda"
+      ],
+      "auteur": "Manu4ster",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Engineers_at_the_Construction_Site_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Engineers_at_the_Construction_Site_11.jpg/1280px-Engineers_at_the_Construction_Site_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Engineers at the Construction Site 12.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Self-published work",
+        "Construction in Uganda",
+        "Images from Wiki Loves Africa 2017",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Construction workers in Uganda",
+        "Images from Wiki Loves Africa 2017 in Uganda",
+        "Occupations of Uganda"
+      ],
+      "auteur": "Manu4ster",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Engineers_at_the_Construction_Site_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Engineers_at_the_Construction_Site_12.jpg/1280px-Engineers_at_the_Construction_Site_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Coulage de la dalle béton d'une maison individuelle (MAISON CMI).jpg",
+      "description": "Coulage de la dalle en béton d'une maison individuelle en Centre-Val de Loire : camion toupie équipé d'une goulotte devant les murs de soubassement.",
+      "categories": [
+        "Concrete slabs",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Pouring concrete",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "House construction in France"
+      ],
+      "auteur": "MAISON CMI",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coulage_de_la_dalle_b%C3%A9ton_d%27une_maison_individuelle_(MAISON_CMI).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Coulage_de_la_dalle_b%C3%A9ton_d%27une_maison_individuelle_%28MAISON_CMI%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Engineers at the Construction Site 17.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Self-published work",
+        "Construction in Uganda",
+        "Images from Wiki Loves Africa 2017",
+        "Men at work in Uganda",
+        "Uploaded via Campaign:wlafrica",
+        "Construction workers in Uganda",
+        "Images from Wiki Loves Africa 2017 in Uganda",
+        "Images from Wiki Loves Africa 2017 Selection",
+        "Occupations of Uganda"
+      ],
+      "auteur": "Manu4ster",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Engineers_at_the_Construction_Site_17.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Engineers_at_the_Construction_Site_17.jpg/1280px-Engineers_at_the_Construction_Site_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

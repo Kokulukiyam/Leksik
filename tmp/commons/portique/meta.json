@@ -1,0 +1,162 @@
+{
+  "terme": {
+    "id": "portique",
+    "terme": "le portique",
+    "categorie": "Structure",
+    "definition": "Ossature formée de deux poteaux et d'une poutre rigidement assemblés, répétée pour former la structure d'un bâtiment ou d'un hangar.",
+    "priorite": 1,
+    "requetes": [
+      "portal frame steel building",
+      "portique charpente",
+      "portal frame structure"
+    ],
+    "incompatibles": [
+      "poteau",
+      "poutre",
+      "ossature-metallique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Münster, LVM -- 2016 -- 2336.jpg",
+      "description": "Main entrance of the LVM building, Münster , North Rhine-Westphalia , Germany The origins of today’s LVM campus date back to 1967, when the company moved into its premises on Kolde-Ring at the corner of Weseler Straße. The campus’s seven insurance buildings are located south of Münster city center. The northern part of Von-Stauffenberg-Straße runs through the campus, while Sperlichstraße forms its southern boundary. The LVM buildings were constructed between 1965 and 2014. The insurance company’s three high-rise buildings in particular are part of Münster’s skyline . The ground-level sculpture",
+      "categories": [
+        "Taken with Canon EOS 70D",
+        "Photographs with aspect ratio of 3:2",
+        "Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM",
+        "ISO speed rating 400",
+        "Uploaded with VicuñaUploader",
+        "LVM 2, LVM-Campus (Münster)",
+        "Office buildings in Germany photographed in 2016",
+        "Commercial signage in Germany",
+        "Self-published work",
+        "Objects with inscriptions in German needing translation",
+        "F-number f/6.3",
+        "Exposure time 1/40 sec",
+        "Steel stairs",
+        "Photographs by Dietmar Rabich/Münster",
+        "Empty stairs in North Rhine-Westphalia",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Metal stairs in North Rhine-Westphalia",
+        "Information field template with formatting",
+        "Entrance stairs in Münster (Westfalen)",
+        "Portals in Münster (Westfalen)",
+        "FoP-Germany",
+        "Closed doors in North Rhine-Westphalia",
+        "Outside stairs in Münster (Westfalen)",
+        "Glass doors in Münster (Westfalen)",
+        "Buildings with addresses",
+        "Changes of XRay's photographs of the recent weeks",
+        "Images by XRay (flat list)",
+        "Photographs by Dietmar Rabich/Medium exposure",
+        "Münster (Westfalen) photographs taken on 2016-05-06",
+        "Photographs by Dietmar Rabich/Architectural photography",
+        "Entrance doors in Münster (Westfalen)",
+        "Centered views of portals in North Rhine-Westphalia",
+        "10-step stairs in North Rhine-Westphalia",
+        "Lens focal length 29 mm",
+        "Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia",
+        "Metal frame glass doors",
+        "Photographs by Dietmar Rabich/Quality images of doors",
+        "Photographs by Dietmar Rabich/Quality images of office buildings",
+        "Photographs by Dietmar Rabich/Quality images of stairs",
+        "Photographs by Dietmar Rabich/Year/2016",
+        "Main entrances in North Rhine-Westphalia",
+        "Morning in Münster (Westfalen)",
+        "Stairs and doors"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_LVM_--_2016_--_2336.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/M%C3%BCnster%2C_LVM_--_2016_--_2336.jpg/1280px-M%C3%BCnster%2C_LVM_--_2016_--_2336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Eingang-Kohlenwäsche-Detailaufnahme-Ruhrmuseum-2026.jpg",
+      "description": "Eingangsportal der Kohlenwäsche (Gebäude A14) der Zeche Zollverein , Schachtanlage XII, in Essen , aufgenommen von unterhalb der Schrägbandbrücke. Den Eingang rahmt ein charakteristischer roter Stahlbogen. Das Gebäude beherbergt heute das Ruhr Museum .",
+      "categories": [
+        "Images by Tuxyso",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation (51° N, 7° E)",
+        "Ruhr Museum - Zeche Zollverein Essen"
+      ],
+      "auteur": "Tuxyso",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eingang-Kohlenw%C3%A4sche-Detailaufnahme-Ruhrmuseum-2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Eingang-Kohlenw%C3%A4sche-Detailaufnahme-Ruhrmuseum-2026.jpg/1280px-Eingang-Kohlenw%C3%A4sche-Detailaufnahme-Ruhrmuseum-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8256,
+      "hauteur": 4824
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:The World's Columbian exposition, Chicago, 1893 (1893) (14593641658).jpg",
+      "description": "Identifier : worldscolumbiane02whit ( find matches ) Title : The World's Columbian exposition, Chicago, 1893 Year : 1893 ( 1890s ) Authors : White, Trumbull, 1868-1941 Igleheart, William, (from old catalog) joint author Subjects : World's Columbian Exposition (1893 : Chicago, Ill.) Publisher : Philadelphia and St. Louis, P.W. Ziegler & co Contributing Library : The Library of Congress Digitizing Sponsor : The Library of Congress View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context ",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 20 September 2015",
+        "Mines Building at the World's Columbian Exposition",
+        "The World's Columbian exposition, Chicago, 1893 (1893)"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_World%27s_Columbian_exposition,_Chicago,_1893_(1893)_(14593641658).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_World%27s_Columbian_exposition%2C_Chicago%2C_1893_%281893%29_%2814593641658%29.jpg/1280px-The_World%27s_Columbian_exposition%2C_Chicago%2C_1893_%281893%29_%2814593641658%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2284,
+      "hauteur": 1648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Walton Christian Church, Main Street, Walton, KY - 52719663808.jpg",
+      "description": "Built in 1948-1949, this Romanesque Revival-style building was constructed to house the Walton Christian Church, which began in 1873 and was organized in 1876. The building replaced a previous church on the same site, built in 1918, which burned in a devastating fire on Thanksgiving Day in 1947. The building features a red brick exterior with a fieldstone base, cornerstones bearing the dates 1873 and 1948 engraved into them, steel frame stained glass windows with stone trim, low-slope roofs with parapets on the wings flanking a central section with a front gable roof, a front entrance with sto",
+      "categories": [
+        "Walton, Kentucky",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Walton_Christian_Church,_Main_Street,_Walton,_KY_-_52719663808.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Walton_Christian_Church%2C_Main_Street%2C_Walton%2C_KY_-_52719663808.jpg/1280px-Walton_Christian_Church%2C_Main_Street%2C_Walton%2C_KY_-_52719663808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2847,
+      "hauteur": 3796
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Walton Christian Church, Main Street, Walton, KY - 52719441004.jpg",
+      "description": "Built in 1948-1949, this Romanesque Revival-style building was constructed to house the Walton Christian Church, which began in 1873 and was organized in 1876. The building replaced a previous church on the same site, built in 1918, which burned in a devastating fire on Thanksgiving Day in 1947. The building features a red brick exterior with a fieldstone base, cornerstones bearing the dates 1873 and 1948 engraved into them, steel frame stained glass windows with stone trim, low-slope roofs with parapets on the wings flanking a central section with a front gable roof, a front entrance with sto",
+      "categories": [
+        "Walton, Kentucky",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Walton_Christian_Church,_Main_Street,_Walton,_KY_-_52719441004.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Walton_Christian_Church%2C_Main_Street%2C_Walton%2C_KY_-_52719441004.jpg/1280px-Walton_Christian_Church%2C_Main_Street%2C_Walton%2C_KY_-_52719441004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2876,
+      "hauteur": 3834
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Walton Christian Church, Main Street, Walton, KY - 52719597280.jpg",
+      "description": "Built in 1948-1949, this Romanesque Revival-style building was constructed to house the Walton Christian Church, which began in 1873 and was organized in 1876. The building replaced a previous church on the same site, built in 1918, which burned in a devastating fire on Thanksgiving Day in 1947. The building features a red brick exterior with a fieldstone base, cornerstones bearing the dates 1873 and 1948 engraved into them, steel frame stained glass windows with stone trim, low-slope roofs with parapets on the wings flanking a central section with a front gable roof, a front entrance with sto",
+      "categories": [
+        "Walton, Kentucky",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Walton_Christian_Church,_Main_Street,_Walton,_KY_-_52719597280.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Walton_Christian_Church%2C_Main_Street%2C_Walton%2C_KY_-_52719597280.jpg/1280px-Walton_Christian_Church%2C_Main_Street%2C_Walton%2C_KY_-_52719597280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2916,
+      "hauteur": 3889
+    }
+  ]
+}

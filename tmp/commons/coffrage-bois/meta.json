@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "coffrage-bois",
+    "terme": "le coffrage bois",
+    "categorie": "Chantier et outillage",
+    "definition": "Coffrage fait de planches ou de contreplaqué, cloué et renforcé de chevrons.",
+    "priorite": 1,
+    "requetes": [
+      "timber formwork",
+      "coffrage bois planches",
+      "wooden formwork concrete column"
+    ],
+    "incompatibles": [
+      "coffrage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Slab Formwork Tables.JPG",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Formwork",
+        "License migration redundant",
+        "Extendable support beams",
+        "Media missing infobox template",
+        "Doka Group",
+        "Self-published work"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Slab_Formwork_Tables.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Slab_Formwork_Tables.JPG/1280px-Slab_Formwork_Tables.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3488,
+      "hauteur": 2616
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Timber for Pent House Formwork. Sydney Harbour Bridge (17139929569).jpg",
+      "description": "Title: Timber for Pent House Formwork. Sydney Harbour Bridge Dated: 11/12/1931 Digital ID: http://investigator.records.nsw.gov.au/asp/photosearch/photo.asp?12685_a007_a00704_8733000080r Series: http://search.records.nsw.gov.au/series/12685 rel= Sydney Harbour Bridge Photographic Albums Rights: No known copyright restrictions http://www.records.nsw.gov.au/about-us/rights-and-permissions We'd love to http://www.records.nsw.gov.au/contact-us if you use our photos/documents. Many other photos in our collection are available to view and browse on our website using http://investigator.records.nsw.go",
+      "categories": [
+        "Sydney Harbour",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Photographs by the State Archives and Records Authority of New South Wales",
+        "Sydney Harbour Bridge (construction)",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "State Records NSW",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Timber_for_Pent_House_Formwork._Sydney_Harbour_Bridge_(17139929569).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Timber_for_Pent_House_Formwork._Sydney_Harbour_Bridge_%2817139929569%29.jpg/1280px-Timber_for_Pent_House_Formwork._Sydney_Harbour_Bridge_%2817139929569%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1107
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Contract No. 80, High Level Distribution Reservoir, Weston, looking west showing timber bulkhead in southeast corner of gatehouse, high level distribution reservoir, Weston, Mass., - DPLA - a7821798b1d059cd37c1b88bbec84b9a.jpg",
+      "description": "Title supplied by cataloger. Print in album volume MDWSC, Contract 80, Norumbega Reservoir, High Level Distribution Reservoir, Volume 7, Chief Engineer set Massachusetts Metropolitan District Commission; Massachusetts Department of Conservation and Recreation",
+      "categories": [
+        "PD US",
+        "Media contributed by the Digital Public Library of America",
+        "Media contributed by Massachusetts Archives",
+        "Media contributed by Digital Commonwealth",
+        "Photographs by Edwin Parker Troland",
+        "Files from the Massachusetts Water Resources Authority"
+      ],
+      "auteur": "Massachusetts. Metropolitan District Water Supply Commission, Troland, Edwin Parker, 1914-2004",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Contract_No._80,_High_Level_Distribution_Reservoir,_Weston,_looking_west_showing_timber_bulkhead_in_southeast_corner_of_gatehouse,_high_level_distribution_reservoir,_Weston,_Mass.,_-_DPLA_-_a7821798b1d059cd37c1b88bbec84b9a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Contract_No._80%2C_High_Level_Distribution_Reservoir%2C_Weston%2C_looking_west_showing_timber_bulkhead_in_southeast_corner_of_gatehouse%2C_high_level_distribution_reservoir%2C_Weston%2C_Mass.%2C_-_DPLA_-_a7821798b1d059cd37c1b88bbec84b9a.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4038,
+      "hauteur": 2539
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Carpentry workshop. Iran. Qom city کارگاه نجاری برادران حاج محمدی. ایران، قم 03.jpg",
+      "description": "Carpentry is a skilled trade in which the primary work performed is the cutting, shaping and installation of building materials during the construction of buildings, ships, timber bridges, concrete formwork, etc. Carpenters traditionally worked with natural wood and did the rougher work such as framing, but today many other materials are also used and sometimes the finer trades of cabinetmaking and furniture building are considered carpentry. Carpentry in the United States is almost always done by men. With 98.5% of carpenters being male, it was the fourth most male-dominated occupation in the",
+      "categories": [
+        "Self-published work",
+        "Timber in Iran",
+        "Carpentry in Iran",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Mostafa Meraji"
+      ],
+      "auteur": "Mostafameraji",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpentry_workshop._Iran._Qom_city_%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D9%86%D8%AC%D8%A7%D8%B1%DB%8C_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF%DB%8C._%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%D9%82%D9%85_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Carpentry_workshop._Iran._Qom_city_%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D9%86%D8%AC%D8%A7%D8%B1%DB%8C_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF%DB%8C._%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%D9%82%D9%85_03.jpg/1280px-Carpentry_workshop._Iran._Qom_city_%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D9%86%D8%AC%D8%A7%D8%B1%DB%8C_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF%DB%8C._%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%D9%82%D9%85_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Carpentry workshop. Iran. Qom city کارگاه نجاری برادران حاج محمدی. ایران، قم 07.jpg",
+      "description": "Carpentry is a skilled trade in which the primary work performed is the cutting, shaping and installation of building materials during the construction of buildings, ships, timber bridges, concrete formwork, etc. Carpenters traditionally worked with natural wood and did the rougher work such as framing, but today many other materials are also used and sometimes the finer trades of cabinetmaking and furniture building are considered carpentry. Carpentry in the United States is almost always done by men. With 98.5% of carpenters being male, it was the fourth most male-dominated occupation in the",
+      "categories": [
+        "Self-published work",
+        "Timber in Iran",
+        "Carpentry in Iran",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Mostafa Meraji"
+      ],
+      "auteur": "Mostafameraji",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpentry_workshop._Iran._Qom_city_%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D9%86%D8%AC%D8%A7%D8%B1%DB%8C_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF%DB%8C._%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%D9%82%D9%85_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Carpentry_workshop._Iran._Qom_city_%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D9%86%D8%AC%D8%A7%D8%B1%DB%8C_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF%DB%8C._%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%D9%82%D9%85_07.jpg/1280px-Carpentry_workshop._Iran._Qom_city_%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D9%86%D8%AC%D8%A7%D8%B1%DB%8C_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF%DB%8C._%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%D9%82%D9%85_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Carpentry workshop. Iran. Qom city کارگاه نجاری برادران حاج محمدی. ایران، قم 08.jpg",
+      "description": "Carpentry is a skilled trade in which the primary work performed is the cutting, shaping and installation of building materials during the construction of buildings, ships, timber bridges, concrete formwork, etc. Carpenters traditionally worked with natural wood and did the rougher work such as framing, but today many other materials are also used and sometimes the finer trades of cabinetmaking and furniture building are considered carpentry. Carpentry in the United States is almost always done by men. With 98.5% of carpenters being male, it was the fourth most male-dominated occupation in the",
+      "categories": [
+        "Self-published work",
+        "Timber in Iran",
+        "Carpentry in Iran",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Mostafa Meraji"
+      ],
+      "auteur": "Mostafameraji",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpentry_workshop._Iran._Qom_city_%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D9%86%D8%AC%D8%A7%D8%B1%DB%8C_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF%DB%8C._%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%D9%82%D9%85_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Carpentry_workshop._Iran._Qom_city_%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D9%86%D8%AC%D8%A7%D8%B1%DB%8C_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF%DB%8C._%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%D9%82%D9%85_08.jpg/1280px-Carpentry_workshop._Iran._Qom_city_%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87_%D9%86%D8%AC%D8%A7%D8%B1%DB%8C_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86_%D8%AD%D8%A7%D8%AC_%D9%85%D8%AD%D9%85%D8%AF%DB%8C._%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%D9%82%D9%85_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    }
+  ]
+}

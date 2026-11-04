@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "ossature-en-beton-arme",
+    "terme": "l'ossature en béton armé",
+    "categorie": "Structure",
+    "definition": "Squelette porteur fait de poteaux, de poutres et de dalles en béton armé, bien visible sur un bâtiment en construction avant le remplissage des murs.",
+    "priorite": 1,
+    "requetes": [
+      "reinforced concrete frame building under construction",
+      "ossature béton armé",
+      "concrete skeleton structure"
+    ],
+    "incompatibles": [
+      "poteau",
+      "poutre",
+      "dalle"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Handbook and catalogue of concrete reinforcement (1908) (14802056913).jpg",
+      "description": "Identifier : cu31924021907252 ( find matches ) Title : Handbook and catalogue of concrete reinforcement Year : 1908 ( 1900s ) Authors : American Steel & Wire Company Subjects : Reinforced concrete Publisher : (Chicago?) Contributing Library : Cornell University Library Digitizing Sponsor : MSN View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: ' Text Appearing After Image: THE BAILARGEON BUILDING, SEATTLE, ",
+      "categories": [
+        "Reinforced concrete",
+        "Images with annotations",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "1907 in Seattle",
+        "Building construction in the United States",
+        "J.A. Baillargeon Building",
+        "Steel frame buildings in the United States",
+        "Handbook and catalogue of concrete reinforcement (1908)",
+        "Germania Hall"
+      ],
+      "auteur": "American Steel & Wire Company",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Handbook_and_catalogue_of_concrete_reinforcement_(1908)_(14802056913).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Handbook_and_catalogue_of_concrete_reinforcement_%281908%29_%2814802056913%29.jpg/1280px-Handbook_and_catalogue_of_concrete_reinforcement_%281908%29_%2814802056913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2878,
+      "hauteur": 2310
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Clock Tower under construction, Hibiya Kokaido Public Hall, Chiyoda Tokyo, Japan (44517246044).jpg",
+      "description": "Hibiya Public Hall [Shisei Kaikan], in part a public facility and in part the offices of the Tokyo Institute of Municipal Research, is located on the southeastern corner of Hibiya Park. The ten-story steel-frame reinforced concrete structure is finished in terra cotta, Yokonezawa stone (quarried in Shizuoka Prefecture), and the light brown scratch tile so popular in the 1920s. Construction was completed in 1929, a symbol of Tokyo’s rebirth after the devastating 1923 Great Kanto earthquake, and the hall is still in use today for concerts, lectures, meetings and other cultural activities. In 196",
+      "categories": [
+        "Hibiya Public Hall",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Japan photographs taken on 2010-08-17",
+        "Public clocks in Tokyo",
+        "Building repairs in the special wards of Tōkyō"
+      ],
+      "auteur": "Arjan Richter from Amsterdam, The Netherlands",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clock_Tower_under_construction,_Hibiya_Kokaido_Public_Hall,_Chiyoda_Tokyo,_Japan_(44517246044).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Clock_Tower_under_construction%2C_Hibiya_Kokaido_Public_Hall%2C_Chiyoda_Tokyo%2C_Japan_%2844517246044%29.jpg/1280px-Clock_Tower_under_construction%2C_Hibiya_Kokaido_Public_Hall%2C_Chiyoda_Tokyo%2C_Japan_%2844517246044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Imperial County Services building damage 1979.jpg",
+      "description": "Earthquake damage caused to the Imperial County Services Building in the 1979 Imperial Valley earthquake . The support pillar failed at the east end of the Imperial County Services Building in El Centro . The concrete at the base of the columns was shattered and the vertical reinforced bars were severely bent, allowing the building to sag about 30 cm. This 6-story reinforced concrete frame and shear wall structure, designed to be earthquake resistant, was completed in 1971 at a construction cost of $1.87 million. The building was later destroyed and rebuilt by the County of Imperial . Earthqua",
+      "categories": [
+        "PD US Government",
+        "Engineering failures",
+        "Earthquake engineering",
+        "1979 Imperial Valley earthquake",
+        "Brise soleils",
+        "Destroyed buildings in California",
+        "Black and white photographs of California",
+        "Built in California in 1971",
+        "Concrete buildings in California",
+        "Buildings in Imperial County, California",
+        "Black and white photographs of buildings",
+        "Buildings damaged by earthquakes",
+        "CC-PD-Mark",
+        "Earthquake damage in California",
+        "Modernist high-rises in California",
+        "Buildings in El Centro, California"
+      ],
+      "auteur": "U.S. Geological Survey",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Imperial_County_Services_building_damage_1979.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Imperial_County_Services_building_damage_1979.jpg/1280px-Imperial_County_Services_building_damage_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1400,
+      "hauteur": 1040
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Building and engineering news (1930) (14781868195).jpg",
+      "description": "Identifier : buildingengineer30230cont ( find matches ) Title : Building & engineering news Year : 1914 ( 1910s ) Authors : Contractors' and Dealers' Association of California Subjects : Architecture Building Construction industry Engineering Publisher : San Francisco : L. A. Larson Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Te",
+      "categories": [
+        "Construction industry",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Building and Engineering News, 1930",
+        "Internet Archive document buildingengineer30230cont"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_and_engineering_news_(1930)_(14781868195).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Building_and_engineering_news_%281930%29_%2814781868195%29.jpg/1280px-Building_and_engineering_news_%281930%29_%2814781868195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2374,
+      "hauteur": 1504
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Centre Point - New Oxford Street, Holborn.jpg",
+      "description": "Modern architecture in Holborn. Seen after we left the British Museum. Initially we were heading down New Oxford Street. I wasn't sure which way Tottenham Court Road Underground Station was, so ended up going via Centre Saint Giles onto High Holborn (then found our way to Holborn Underground Station). Was probably better to go there, as only had to get two tube trains back to Victoria. Centre Point seen down New Oxford Street. It's at 101–103 New Oxford Street. Built between 1961 and 1966. The current construction work is due to Crossrail. The building is Grade II listed. Centre Point and Pond",
+      "categories": [
+        "Reinforced concrete",
+        "Centre Point",
+        "London photographs taken on 2015-08-23",
+        "2015 in the London Borough of Camden",
+        "Photographs by Elliott Brown",
+        "Construction of Crossrail, London",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Printed scaffolding covers in London"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centre_Point_-_New_Oxford_Street,_Holborn.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Centre_Point_-_New_Oxford_Street%2C_Holborn.jpg/1280px-Centre_Point_-_New_Oxford_Street%2C_Holborn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3216,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Building and engineering news (1916) (14594795397).jpg",
+      "description": "Identifier : buildingengineer1616cont ( find matches ) Title : Building & engineering news Year : 1914 ( 1910s ) Authors : Contractors' and Dealers' Association of California Subjects : Architecture Building Construction industry Engineering Publisher : San Francisco : L. A. Larson Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Tex",
+      "categories": [
+        "Construction industry",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 15 September 2015",
+        "Building and engineering news (1916)",
+        "Internet Archive document buildingengineer1616cont"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_and_engineering_news_(1916)_(14594795397).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Building_and_engineering_news_%281916%29_%2814594795397%29.jpg/1280px-Building_and_engineering_news_%281916%29_%2814594795397%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1988,
+      "hauteur": 1206
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "cordeau",
+    "terme": "le cordeau",
+    "categorie": "Chantier et outillage",
+    "definition": "Ficelle tendue entre deux points pour aligner un rang de blocs ou tracer une ligne droite.",
+    "priorite": 1,
+    "requetes": [
+      "mason line string",
+      "cordeau maçon",
+      "string line bricklaying"
+    ],
+    "incompatibles": [
+      "chaise-d-implantation"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mason-Dixon Line boundary marker.jpg",
+      "description": "A Mason-Dixon Line boundary marker around Shrewsbury Township, York County",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Mason–Dixon Line stone markers"
+      ],
+      "auteur": "Cicku",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mason-Dixon_Line_boundary_marker.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Mason-Dixon_Line_boundary_marker.jpg/1280px-Mason-Dixon_Line_boundary_marker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Mason Dixon Line Marker - Camp Horseshoe 3.jpg",
+      "description": "Mason Dixon Line Marker 19",
+      "categories": [
+        "Horseshoe Scout Reservation",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Mason–Dixon Line stone markers"
+      ],
+      "auteur": "Evrik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mason_Dixon_Line_Marker_-_Camp_Horseshoe_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Mason_Dixon_Line_Marker_-_Camp_Horseshoe_3.jpg/1280px-Mason_Dixon_Line_Marker_-_Camp_Horseshoe_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Mason Dixon Line Marker - Camp Horseshoe 2.jpg",
+      "description": "Mason Dixon Line Marker 19",
+      "categories": [
+        "Horseshoe Scout Reservation",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Mason–Dixon Line stone markers"
+      ],
+      "auteur": "Evrik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mason_Dixon_Line_Marker_-_Camp_Horseshoe_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Mason_Dixon_Line_Marker_-_Camp_Horseshoe_2.jpg/1280px-Mason_Dixon_Line_Marker_-_Camp_Horseshoe_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Mason Dixon Line Marker - Camp Horseshoe 1.jpg",
+      "description": "Mason Dixon Line Marker 19",
+      "categories": [
+        "Horseshoe Scout Reservation",
+        "Self-published work",
+        "Monuments and memorials in Cecil County, Maryland",
+        "Files with coordinates missing SDC location of creation",
+        "Mason–Dixon Line stone markers"
+      ],
+      "auteur": "Evrik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mason_Dixon_Line_Marker_-_Camp_Horseshoe_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Mason_Dixon_Line_Marker_-_Camp_Horseshoe_1.jpg/1280px-Mason_Dixon_Line_Marker_-_Camp_Horseshoe_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mason Trail, MCT, BNSF line crossings at Prospect Rd, Fort Collins.jpg",
+      "description": "Mason Trail, MCT, BNSF line crossings at Prospect Rd in Fort Collins, Colorado",
+      "categories": [
+        "Streets in Colorado",
+        "Stop line signs",
+        "Self-published work",
+        "Road signs in Colorado",
+        "Traffic signals in Colorado",
+        "Level crossings in Colorado",
+        "Mason Corridor Transitway",
+        "Mason Trail (Fort Collins, Colorado)"
+      ],
+      "auteur": "Xnatedawgx",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mason_Trail,_MCT,_BNSF_line_crossings_at_Prospect_Rd,_Fort_Collins.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Mason_Trail%2C_MCT%2C_BNSF_line_crossings_at_Prospect_Rd%2C_Fort_Collins.jpg/1280px-Mason_Trail%2C_MCT%2C_BNSF_line_crossings_at_Prospect_Rd%2C_Fort_Collins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3114,
+      "hauteur": 1768
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Mason Dixon Line - Rail Trail.jpg",
+      "description": "Mason Dixon Line where the Torrey C. Brown Rail Trail becomes the York County Heritage Trail near New Freedom, PA",
+      "categories": [
+        "Rail trails in Pennsylvania",
+        "State lines",
+        "Self-published work",
+        "Trails in Maryland",
+        "Trails in Pennsylvania",
+        "State border signs in Maryland",
+        "State border signs in Pennsylvania",
+        "Border signs in the United States",
+        "Files with coordinates missing SDC location of creation",
+        "Signs in York County, Pennsylvania",
+        "Torrey C. Brown Rail Trail",
+        "Mason–Dixon Line"
+      ],
+      "auteur": "Tzadik Vanderhoof",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mason_Dixon_Line_-_Rail_Trail.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Mason_Dixon_Line_-_Rail_Trail.jpg/1280px-Mason_Dixon_Line_-_Rail_Trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2988,
+      "hauteur": 5312
+    }
+  ]
+}

@@ -123,11 +123,6 @@
     "raison": "priorité manquante ; c'est un type de volet, donc dans le périmètre Menuiserie et serrurerie (déjà incompatible avec volet et volet-battant)"
   },
   {
-    "id": "seuil",
-    "action": "supprimer",
-    "raison": "doublon de seuil-de-porte (Menuiserie et serrurerie), même objet et même définition"
-  },
-  {
     "id": "embrasure",
     "action": "supprimer",
     "raison": "quasi-doublon de tableau-de-baie : différence invisible sur une photo (même surface du mur autour de la baie)"

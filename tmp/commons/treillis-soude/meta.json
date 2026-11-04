@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "treillis-soude",
+    "terme": "le treillis soudé",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Grillage de barres d'acier soudées en mailles carrées ou rectangulaires, livré en panneaux, posé dans les dalles et les dallages.",
+    "priorite": 1,
+    "requetes": [
+      "welded wire mesh reinforcement slab",
+      "treillis soudé",
+      "welded steel mesh panels"
+    ],
+    "incompatibles": [
+      "ferraillage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Rusty rebar nets.jpg",
+      "description": "Somewhat rusty rebar nets at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden. Photo taken on this site .",
+      "categories": [
+        "Welded wire mesh",
+        "Self-published work",
+        "Featured pictures of texture photography",
+        "Images by W.carter",
+        "Featured pictures on Wikipedia, Bengali",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Featured pictures of Lysekil Municipality",
+        "Featured pictures of objects in Sweden",
+        "Featured pictures taken with compact digital camera",
+        "Rusty textures",
+        "Rusty construction materials",
+        "Images by W.carter, my own favorites",
+        "Abandoned granite quarry of Rixö, Sweden",
+        "Picture of the day by W.carter on various projects",
+        "Featured pictures by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rusty_rebar_nets.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Rusty_rebar_nets.jpg/1280px-Rusty_rebar_nets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4680,
+      "hauteur": 3353
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:GI welded Fence 100mm 6mm (2).jpg",
+      "description": "GI Welded mesh produce by steel wire. it welded at first and than do galvanized by electro galvanized process.",
+      "categories": [
+        "Welded wire mesh",
+        "Mesh",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Welded meshes",
+        "Wire mesh",
+        "80 mm"
+      ],
+      "auteur": "YKMGROUP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:GI_welded_Fence_100mm_6mm_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/GI_welded_Fence_100mm_6mm_%282%29.jpg/1280px-GI_welded_Fence_100mm_6mm_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:GI welded mesh 100mm 6mm (4).jpg",
+      "description": "GI welded mesh SQUARE also post galvanized process.",
+      "categories": [
+        "Welded wire mesh",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Welded meshes",
+        "GI welded mesh"
+      ],
+      "auteur": "YKMGROUP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:GI_welded_mesh_100mm_6mm_(4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/GI_welded_mesh_100mm_6mm_%284%29.jpg/1280px-GI_welded_mesh_100mm_6mm_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3014,
+      "hauteur": 2850
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:GI welded mesh 100mm 6mm (5).jpg",
+      "description": "GI welded mesh",
+      "categories": [
+        "Welded wire mesh",
+        "Mesh",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Welded meshes"
+      ],
+      "auteur": "YKMGROUP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:GI_welded_mesh_100mm_6mm_(5).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/GI_welded_mesh_100mm_6mm_%285%29.jpg/1280px-GI_welded_mesh_100mm_6mm_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Construction workers in Mexico.jpg",
+      "description": "Construction workers in Mexico preparing concrete structure.",
+      "categories": [
+        "Featured pictures of Mexico",
+        "Taken with Canon EOS 80D",
+        "Construction workers",
+        "Welded wire mesh",
+        "Self-published work",
+        "Information field template with formatting",
+        "Black and white photographs of Mexico",
+        "Men at work in Mexico",
+        "Mexico photographs taken on 2018-06-07",
+        "Photographic silhouettes of people in Mexico",
+        "Males climbing",
+        "Photographic silhouettes of men",
+        "Black and white photographs of 4 men",
+        "Men at work in the 2010s",
+        "High contrast photography"
+      ],
+      "auteur": "Tomascastelazo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_workers_in_Mexico.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Construction_workers_in_Mexico.jpg/1280px-Construction_workers_in_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5999,
+      "hauteur": 3262
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Five rebar nets closeup.jpg",
+      "description": "Closeup of somewhat rusty rebar nets at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden. Photo taken on this site .",
+      "categories": [
+        "Welded wire mesh",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Five_rebar_nets_closeup.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Five_rebar_nets_closeup.jpg/1280px-Five_rebar_nets_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4407,
+      "hauteur": 2785
+    }
+  ]
+}

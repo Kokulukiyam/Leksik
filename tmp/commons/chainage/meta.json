@@ -1,0 +1,15 @@
+{
+  "terme": {
+    "id": "chainage",
+    "terme": "le chaînage",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Élément en béton armé noyé dans la maçonnerie, horizontal ou vertical, qui ceinture et solidarise les murs.",
+    "priorite": 1,
+    "requetes": [
+      "confined masonry tie beam",
+      "chaînage béton armé maçonnerie",
+      "bond beam masonry"
+    ]
+  },
+  "candidats": []
+}

@@ -1,0 +1,77 @@
+{
+  "terme": {
+    "id": "semelle-isolee",
+    "terme": "la semelle isolée",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Fondation ponctuelle en béton armé, en forme de bloc carré ou rectangulaire, placée sous un poteau dont les armatures en sortent.",
+    "priorite": 1,
+    "requetes": [
+      "pad footing rebar column starter",
+      "semelle isolée poteau béton armé",
+      "isolated footing construction"
+    ],
+    "incompatibles": [
+      "fondation",
+      "amorce-de-poteau",
+      "fouille"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Linda Vista reinforced concrete bridge, Pasadena, California (Architect and engineer, 1909.jpg",
+      "description": "Linda Vista reinforced concrete bridge, Pasadena, California Identifier : architectenginee0910sanf ( find matches ) Title : The Architect & engineer of California and the Pacific Coast Year : 1905 ( 1900s ) Authors : Subjects : Architecture Architecture Architecture Building Publisher : San Francisco, Calif. : Architect and Engineer Co Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in c",
+      "categories": [
+        "Holly Street Bridge",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "The Architect and engineer of California and the Pacific Coast (1909)",
+        "Bridges over the Arroyo Seco (Los Angeles County)"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Linda_Vista_reinforced_concrete_bridge,_Pasadena,_California_(Architect_and_engineer,_1909.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Linda_Vista_reinforced_concrete_bridge%2C_Pasadena%2C_California_%28Architect_and_engineer%2C_1909.jpg/1280px-Linda_Vista_reinforced_concrete_bridge%2C_Pasadena%2C_California_%28Architect_and_engineer%2C_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2128,
+      "hauteur": 1444
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:The top of Lisbon Santa Justa Lift (26463851550).jpg",
+      "description": "R. Garrett, Lisbon, Portugal From Wikipedia, the free encyclopaedia Official name: Elevador do Carmo Country Portugal RegionLisboa LocationSacramento - elevation13 m (43 ft) - coordinates38°42′43.64″N 9°8′21.92″WCoordinates: 38°42′43.64″N 9°8′21.92″W Height45 m (148 ft) EngineerRaoul Mesnier du Ponsard StyleNeo-Gothic Materials : Wood, Glass, Cement Originc. 1874 - Initiated2 June 1900 - Completionc. 1902 OwnerPortuguese Republic VisitationClosed (Mondays and on 1 January, Easter Sunday, 1 May and 25 December) Easiest access : Rua de Santa Justa ManagementInstituto Gestão do Patrimonio Arquite",
+      "categories": [
+        "Elevador de Santa Justa",
+        "Files uploaded by User:JotaCartas (Lisbon)",
+        "Photos by Pedro Ribeiro Simões",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Pedro Ribeiro Simões from Lisboa, Portugal",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_top_of_Lisbon_Santa_Justa_Lift_(26463851550).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/The_top_of_Lisbon_Santa_Justa_Lift_%2826463851550%29.jpg/1280px-The_top_of_Lisbon_Santa_Justa_Lift_%2826463851550%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4475,
+      "hauteur": 3200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Santa Justa Lift - Iron details (26249724533).jpg",
+      "description": "R. Garrett, Lisbon, Portugal From Wikipedia, the free encyclopaedia Official name: Elevador do Carmo Country Portugal RegionLisboa LocationSacramento - elevation13 m (43 ft) - coordinates38°42′43.64″N 9°8′21.92″WCoordinates: 38°42′43.64″N 9°8′21.92″W Height: 45 m (148 ft) Engineer: Raoul Mesnier du Poniard Style: Neo-Gothic Materials : Wood, Glass, Cement Originc. 1874 - Initiated2 June 1900 - Completionc. 1902 OwnerPortuguese Republic VisitationClosed (Mondays and on 1 January, Easter Sunday, 1 May and 25 December) Easiest access : Rua de Santa Justa ManagementInstituto Gestão do Patrimonio A",
+      "categories": [
+        "Elevador de Santa Justa",
+        "Files uploaded by User:JotaCartas (Lisbon)",
+        "Photos by Pedro Ribeiro Simões",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Pedro Ribeiro Simões from Lisboa, Portugal",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Santa_Justa_Lift_-_Iron_details_(26249724533).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Santa_Justa_Lift_-_Iron_details_%2826249724533%29.jpg/1280px-Santa_Justa_Lift_-_Iron_details_%2826249724533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5034,
+      "hauteur": 2558
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "poteau",
+    "terme": "le poteau",
+    "categorie": "Structure",
+    "definition": "Élément porteur vertical, de section carrée, rectangulaire ou ronde, qui reporte les charges des planchers vers les fondations.",
+    "priorite": 1,
+    "requetes": [
+      "reinforced concrete column building",
+      "poteau béton armé",
+      "concrete columns structure"
+    ],
+    "incompatibles": [
+      "colonne",
+      "pilier"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Reinforced Column Base for Fence Foundation.jpg",
+      "description": "Steel reinforcement bars (rebar) are set inside a dug footing beside the block wall to strengthen the fence foundation before concrete is poured.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Building Materials in Nigeria"
+      ],
+      "auteur": "Johnnybam",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Reinforced_Column_Base_for_Fence_Foundation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Reinforced_Column_Base_for_Fence_Foundation.jpg/1280px-Reinforced_Column_Base_for_Fence_Foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Support de ligne HTA Garczynski Traploir..jpg",
+      "description": "Photographie prise à la Meilleraie-Tillay, près des carrières, et présentant un exemple de poteau béton armé de fabrication Garczynski Traploir, soutenant des lignes 20kV.",
+      "categories": [
+        "Utility poles in France",
+        "Overhead power lines in France",
+        "Taken with 6MP-9FS",
+        "Garczynski Traploir",
+        "La Meilleraie-Tillay",
+        "Self-published work"
+      ],
+      "auteur": "Tirand",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Support_de_ligne_HTA_Garczynski_Traploir..jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Support_de_ligne_HTA_Garczynski_Traploir..jpg/1280px-Support_de_ligne_HTA_Garczynski_Traploir..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Multi-Tiered Concrete Block Structure in Progress.jpg",
+      "description": "A wide shot of a multi-story building under construction with exposed concrete blocks and reinforcement columns, framed in the foreground by a smaller, completed structure with bright green pillars.",
+      "categories": [
+        "CC-Zero",
+        "Concrete bricks",
+        "Self-published work",
+        "Brick infill",
+        "Concrete framing"
+      ],
+      "auteur": "Paul The Writer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Multi-Tiered_Concrete_Block_Structure_in_Progress.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Multi-Tiered_Concrete_Block_Structure_in_Progress.jpg/1280px-Multi-Tiered_Concrete_Block_Structure_in_Progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Linda Vista reinforced concrete bridge, Pasadena, California (Architect and engineer, 1909.jpg",
+      "description": "Linda Vista reinforced concrete bridge, Pasadena, California Identifier : architectenginee0910sanf ( find matches ) Title : The Architect & engineer of California and the Pacific Coast Year : 1905 ( 1900s ) Authors : Subjects : Architecture Architecture Architecture Building Publisher : San Francisco, Calif. : Architect and Engineer Co Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in c",
+      "categories": [
+        "Holly Street Bridge",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "The Architect and engineer of California and the Pacific Coast (1909)",
+        "Bridges over the Arroyo Seco (Los Angeles County)"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Linda_Vista_reinforced_concrete_bridge,_Pasadena,_California_(Architect_and_engineer,_1909.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Linda_Vista_reinforced_concrete_bridge%2C_Pasadena%2C_California_%28Architect_and_engineer%2C_1909.jpg/1280px-Linda_Vista_reinforced_concrete_bridge%2C_Pasadena%2C_California_%28Architect_and_engineer%2C_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2128,
+      "hauteur": 1444
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:WW2 Nazi Germany occupation of France 1940-45 L'Occupation allemande de la France Photos Normandie Flickr Wehrmacht soldiers etc 123.jpg",
+      "description": "Photographie allemande - (col. Normandie Mémoire) Le long d'une haie, à côté d'un poteau en béton armé un véhicule 8 roues allemand blindé lourd de reconnaissance avec deux soldats dessus. Il s'agit d'un Schwerer Panzerspähwagen FU (SdKfz 232) 8-rad. Le Sdkfz 232 Fu est équipé d'une imposante antenne galerie sur le dessus, fixée sur la caisse arrière et sur un pivot placé sur le toit de la tourelle (permettant la rotation de celle-ci), il est armé d'un canon de 2 cm et d'une MG coaxiale.",
+      "categories": [
+        "German occupation in France",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "PhotosNormandie",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:WW2_Nazi_Germany_occupation_of_France_1940-45_L%27Occupation_allemande_de_la_France_Photos_Normandie_Flickr_Wehrmacht_soldiers_etc_123.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/WW2_Nazi_Germany_occupation_of_France_1940-45_L%27Occupation_allemande_de_la_France_Photos_Normandie_Flickr_Wehrmacht_soldiers_etc_123.jpg/1280px-WW2_Nazi_Germany_occupation_of_France_1940-45_L%27Occupation_allemande_de_la_France_Photos_Normandie_Flickr_Wehrmacht_soldiers_etc_123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3696,
+      "hauteur": 2480
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fractured reinforced concrete column.JPG",
+      "description": "",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Minolta Dimage X",
+        "PD-user",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Earthquake engineering",
+        "Rebar",
+        "Concrete columns",
+        "Media missing infobox template",
+        "Concrete testing",
+        "University of California, San Diego, University Center",
+        "Material failures of ceramics"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fractured_reinforced_concrete_column.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fractured_reinforced_concrete_column.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 1600
+    }
+  ]
+}

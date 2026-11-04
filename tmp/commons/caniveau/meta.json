@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "caniveau",
+    "terme": "le caniveau",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Rigole en béton ou en pierre au pied de la bordure, qui conduit l'eau de pluie de la chaussée vers les avaloirs.",
+    "priorite": 1,
+    "requetes": [
+      "street gutter",
+      "caniveau chaussée",
+      "road gutter kerb"
+    ],
+    "incompatibles": [
+      "fosse",
+      "canal-d-eaux-pluviales"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Street gutter in Old Town Stockholm.jpg",
+      "description": "Street gutter in Old Town Stockholm",
+      "categories": [
+        "Taken with Canon EOS 5D Mark II",
+        "Images with annotations",
+        "Cigarette butts",
+        "Streets in Gamla stan",
+        "Street gutters",
+        "Sett (paving)",
+        "Flickr images uploaded by Flickr upload bot",
+        "2009 in Gamla stan",
+        "Sweden photographs taken on 2009-03-13",
+        "Stockholm by BN"
+      ],
+      "auteur": "Bengt Nyman",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Street_gutter_in_Old_Town_Stockholm.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Street_gutter_in_Old_Town_Stockholm.jpg/1280px-Street_gutter_in_Old_Town_Stockholm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Street gutter (caño) and gutter bridge in Moravia, Costa Rica - 07.jpg",
+      "description": "Street gutter (caño) or storm drain to collect rainwater, and pedestrian gutter bridge to cross the drain, in San Vicente de Moravia , Costa Rica.",
+      "categories": [
+        "Taken with Canon PowerShot SX280 HS",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Costa Rica photographs taken on 2016-06-14",
+        "Storm drains in Costa Rica",
+        "Street gutters in Costa Rica",
+        "2016 in San José, Costa Rica",
+        "Pictures by O'Dea",
+        "Gutter bridges"
+      ],
+      "auteur": "Spideog",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Street_gutter_(ca%C3%B1o)_and_gutter_bridge_in_Moravia,_Costa_Rica_-_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Street_gutter_%28ca%C3%B1o%29_and_gutter_bridge_in_Moravia%2C_Costa_Rica_-_07.jpg/1280px-Street_gutter_%28ca%C3%B1o%29_and_gutter_bridge_in_Moravia%2C_Costa_Rica_-_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Choked gutter 21.jpg",
+      "description": "This is a choke gutter within Gurugu community",
+      "categories": [
+        "Street gutters",
+        "Self-published work"
+      ],
+      "auteur": "Mohammed Ahmed 123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Choked_gutter_21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Choked_gutter_21.jpg/1280px-Choked_gutter_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:La rue de l'Yvette franchie par le viaduc du chemin de fer à Orsay.jpg",
+      "description": "La rue de l'Yvette longée par un trottoir et la rivière l'Yvette, franchie par le viaduc du chemin de fer à Orsay, éclairée par un réverbère comme la nuit approche. Photo prise le samedi 9 décembre au soir avec un téléphone portable Samsung A40.",
+      "categories": [
+        "Trees in France",
+        "Houses in France",
+        "Rivers of France",
+        "Viaducts in France",
+        "Drain covers",
+        "Self-published work",
+        "Street lights in France",
+        "Twilights of France",
+        "Sidewalks in France",
+        "Evening in France",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2023-12-09",
+        "Street gutters in France",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Railway bridges in Orsay",
+        "Rue de l'Yvette (Orsay, Essonne)"
+      ],
+      "auteur": "Wikisquack",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_rue_de_l%27Yvette_franchie_par_le_viaduc_du_chemin_de_fer_%C3%A0_Orsay.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/La_rue_de_l%27Yvette_franchie_par_le_viaduc_du_chemin_de_fer_%C3%A0_Orsay.jpg/1280px-La_rue_de_l%27Yvette_franchie_par_le_viaduc_du_chemin_de_fer_%C3%A0_Orsay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:La Garde-Guérin, caniveau central.jpg",
+      "description": "Au Moyen-Age, le caniveau collecteur des eaux de pluie et des égouts se trouvait au milieu de la rue.",
+      "categories": [
+        "La Garde-Guérin",
+        "Self-published work"
+      ],
+      "auteur": "Celeda",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_Garde-Gu%C3%A9rin,_caniveau_central.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/La_Garde-Gu%C3%A9rin%2C_caniveau_central.jpg/1280px-La_Garde-Gu%C3%A9rin%2C_caniveau_central.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3547,
+      "hauteur": 4770
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Stop sign on sidewalk at Post Street and South San Pedro Street, San Jose, California.jpg",
+      "description": "A stop sign lies supine across the sidewalk at the corner of Post Street and South San Pedro Street in San Jose, California, United States, the same corner where a parking sign would lie in rest a week later.",
+      "categories": [
+        "Stop signs in California",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Tactile paving in California",
+        "Laid objects",
+        "Road signs in San Jose, California",
+        "South San Pedro Street, San Jose, California",
+        "Objects at corners",
+        "Street gutters in the United States",
+        "Photographs of red octagonal stop signs",
+        "Post Street, San Jose, California",
+        "Stop signs on ground",
+        "Curb cuts in California"
+      ],
+      "auteur": "Mxn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stop_sign_on_sidewalk_at_Post_Street_and_South_San_Pedro_Street,_San_Jose,_California.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Stop_sign_on_sidewalk_at_Post_Street_and_South_San_Pedro_Street%2C_San_Jose%2C_California.jpg/1280px-Stop_sign_on_sidewalk_at_Post_Street_and_South_San_Pedro_Street%2C_San_Jose%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

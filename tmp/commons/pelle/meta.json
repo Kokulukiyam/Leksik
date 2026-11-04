@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "pelle",
+    "terme": "la pelle",
+    "categorie": "Chantier et outillage",
+    "definition": "Outil formé d'une plaque métallique un peu creuse au bout d'un long manche, pour remuer sable, gravier et mortier.",
+    "priorite": 1,
+    "requetes": [
+      "shovel sand",
+      "pelle chantier",
+      "incategory:\"Shovels\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Sand and shovel in tractor trailer.jpg",
+      "description": "Sand and shovel in tractor trailer",
+      "categories": [
+        "Shovels",
+        "Self-published work",
+        "Transport of sand"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sand_and_shovel_in_tractor_trailer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Sand_and_shovel_in_tractor_trailer.jpg/1280px-Sand_and_shovel_in_tractor_trailer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4912,
+      "hauteur": 7360
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Common chimpanzee (Pan troglodytes schweinfurthii) feeding.jpg",
+      "description": "Common chimpanzee ( Pan troglodytes schweinfurthii ) feeding on fig ( Ficus sur ), Kibale National Park , Uganda",
+      "categories": [
+        "Pan troglodytes schweinfurthii",
+        "Photographs by Charlesjsharp",
+        "Self-published work",
+        "Exposure time 1/320 sec",
+        "F-number f/6.3",
+        "Featured pictures by Charlesjsharp",
+        "Featured pictures on Wikipedia, Vietnamese",
+        "ISO speed rating 2000",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures by Charlesjsharp/Uganda",
+        "Uganda photographs taken on 2016-10-17",
+        "Featured pictures of Hominidae",
+        "Images used in A Sharp Eye on wildlife photography",
+        "Images used in A Sharp Eye on wildlife photography/Issue Three, July 2020",
+        "Pan troglodytes in Uganda",
+        "Pan troglodytes of Kibale National Park",
+        "Featured pictures of animals in Uganda",
+        "Animals with Ficus sur",
+        "Featured pictures of mammals by Charlesjsharp",
+        "Lens focal length 114 mm"
+      ],
+      "auteur": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Common_chimpanzee_(Pan_troglodytes_schweinfurthii)_feeding.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Common_chimpanzee_%28Pan_troglodytes_schweinfurthii%29_feeding.jpg/1280px-Common_chimpanzee_%28Pan_troglodytes_schweinfurthii%29_feeding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3048,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Shovel of Jimmy Carter.jpg",
+      "description": "On display at the Jimmy Carter Library and Museum",
+      "categories": [
+        "CC-Zero",
+        "Shovels",
+        "Jimmy Carter Library and Museum",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "ArtemisiaGentileschiFan",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shovel_of_Jimmy_Carter.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Shovel_of_Jimmy_Carter.jpg/1280px-Shovel_of_Jimmy_Carter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1656,
+      "hauteur": 3471
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Beach Shovel.jpg",
+      "description": "broken plastic shovel we found on the beach",
+      "categories": [
+        "Shovels",
+        "Unidentified beaches",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Beach litter",
+        "Unidentified Phaeophyceae"
+      ],
+      "auteur": "magnoid",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beach_Shovel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Beach_Shovel.jpg/1280px-Beach_Shovel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Shovel - 13с - Kolomna local museum.jpg",
+      "description": "Shovel. Kolomna local museum.",
+      "categories": [
+        "CC-Zero",
+        "Local museum, Kolomna",
+        "Self-published work",
+        "Culture of Rus principalities",
+        "Wooden shovels"
+      ],
+      "auteur": "Лапоть",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shovel_-_13%D1%81_-_Kolomna_local_museum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Shovel_-_13%D1%81_-_Kolomna_local_museum.jpg/1280px-Shovel_-_13%D1%81_-_Kolomna_local_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5388,
+      "hauteur": 2117
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:An old shovel.jpg",
+      "description": "Broken shovel left in the forest",
+      "categories": [
+        "Shovels",
+        "Self-published work",
+        "Forests in Saint Petersburg",
+        "Betula in Saint Petersburg",
+        "Photos by User:Горбунова М.С.",
+        "Izotovsky Square"
+      ],
+      "auteur": "Горбунова М.С.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_old_shovel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/An_old_shovel.jpg/1280px-An_old_shovel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    }
+  ]
+}

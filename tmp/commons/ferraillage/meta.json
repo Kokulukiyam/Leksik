@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "ferraillage",
+    "terme": "le ferraillage",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Ensemble des barres d'acier assemblées en place avant le coulage, qui formeront les armatures d'un ouvrage en béton armé.",
+    "priorite": 1,
+    "requetes": [
+      "rebar reinforcement construction",
+      "ferraillage béton armé",
+      "steel reinforcement slab"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Baustelle-Hölzla-Rebar-6228085.jpg",
+      "description": "Reinforcement cage for bored pile on the ABS construction site in Nuremberg Ebensfeld",
+      "categories": [
+        "Germany photographs taken on 2016-06-22",
+        "Taken with Olympus OM-D E-M5 Mark II",
+        "Featured pictures of Bavaria",
+        "Featured pictures by Ermell",
+        "Uploaded with LrMediaWiki",
+        "Photographs by Ermell",
+        "October 2016 in Bavaria",
+        "Featured pictures of objects in Germany",
+        "Files with coordinates missing SDC location of creation (49° N, 10° E)",
+        "Featured pictures of Landkreis Bamberg by Ermell",
+        "Objects with blue sky background",
+        "Rebar on site",
+        "Taken with Olympus M.Zuiko Digital ED 7-14mm f/2.8 PRO",
+        "ABS Nürnberg–Ebensfeld in Ebing",
+        "Images by User:Ermell taken in 2016"
+      ],
+      "auteur": "Ermell",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baustelle-H%C3%B6lzla-Rebar-6228085.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Baustelle-H%C3%B6lzla-Rebar-6228085.jpg/1280px-Baustelle-H%C3%B6lzla-Rebar-6228085.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3873,
+      "hauteur": 2905
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Installation of rebar reinforcement at 335 Madison parking level. (CM014B, 4-24-2018) (42149187742).jpg",
+      "description": "Installation of rebar reinforcement at 335 Madison parking level. (CM014B, 4-24-2018)",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Construction of Grand Central Madison",
+        "Rebar on site",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2018/04/27"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Installation_of_rebar_reinforcement_at_335_Madison_parking_level._(CM014B,_4-24-2018)_(42149187742).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Installation_of_rebar_reinforcement_at_335_Madison_parking_level._%28CM014B%2C_4-24-2018%29_%2842149187742%29.jpg/1280px-Installation_of_rebar_reinforcement_at_335_Madison_parking_level._%28CM014B%2C_4-24-2018%29_%2842149187742%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Steel reinforcement rods.jpg",
+      "description": "Steel reinforcement rods, a widely used building construction material, lying on a street in Khokana, Nepal.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D80",
+        "Khokana",
+        "Rebar",
+        "License migration redundant",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Markus Koljonen ( Dilaudid )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Steel_reinforcement_rods.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Steel_reinforcement_rods.jpg/1280px-Steel_reinforcement_rods.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Installing rebar reinforcement for the 47th Street entrance to the future LIRR Concourse. 05-29-2019 (47974619121).jpg",
+      "description": "Installing rebar reinforcement for the 47th Street entrance to the future LIRR Concourse. 05-29-2019",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/05/31"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Installing_rebar_reinforcement_for_the_47th_Street_entrance_to_the_future_LIRR_Concourse._05-29-2019_(47974619121).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Installing_rebar_reinforcement_for_the_47th_Street_entrance_to_the_future_LIRR_Concourse._05-29-2019_%2847974619121%29.jpg/1280px-Installing_rebar_reinforcement_for_the_47th_Street_entrance_to_the_future_LIRR_Concourse._05-29-2019_%2847974619121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Baustelle-Hölzla-Rebar-4141399.jpg",
+      "description": "Reinforcement cage for bored pile on the ABS construction site in Nuremberg Ebensfeld",
+      "categories": [
+        "Self-published work",
+        "Uploaded with LrMediaWiki",
+        "Photographs by Ermell",
+        "Bavaria photographs taken on 2016-04-14",
+        "Files with coordinates missing SDC location of creation (49° N, 10° E)",
+        "Rebar on site",
+        "Taken with Olympus OM-D E-M5 Mark II and Olympus M.Zuiko Digital ED 12-40mm f/2.8 PRO",
+        "ABS Nürnberg–Ebensfeld in Ebing",
+        "Images by User:Ermell taken in 2016"
+      ],
+      "auteur": "Ermell",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baustelle-H%C3%B6lzla-Rebar-4141399.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Baustelle-H%C3%B6lzla-Rebar-4141399.jpg/1280px-Baustelle-H%C3%B6lzla-Rebar-4141399.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3614,
+      "hauteur": 3396
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bridge reinforcement weidatal.jpg",
+      "description": "Reinforcement of Weidatalbridge",
+      "categories": [
+        "GFDL",
+        "Taken with Konica Revio KD-500Z",
+        "License migration completed",
+        "Weidatalbruecke (construction)",
+        "Rebar on site",
+        "Post tensioning"
+      ],
+      "auteur": "Störfix",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bridge_reinforcement_weidatal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Bridge_reinforcement_weidatal.jpg/1280px-Bridge_reinforcement_weidatal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    }
+  ]
+}

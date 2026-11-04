@@ -1,0 +1,123 @@
+{
+  "terme": {
+    "id": "maconnerie",
+    "terme": "la maçonnerie",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Ouvrage fait de blocs, de briques ou de pierres assemblés, le plus souvent au mortier.",
+    "priorite": 1,
+    "requetes": [
+      "masonry wall construction",
+      "mur en maçonnerie",
+      "bricklaying wall"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cordwood masonry wall.jpg",
+      "description": "A built section of cordwood masonry wall. Cut log ends protrude slightly from the pointed mortar join. Earthwood Building School, 2016. (source: cordwoodmasonry.com).",
+      "categories": [
+        "Cordwood construction",
+        "Self-published work"
+      ],
+      "auteur": "Trajinus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cordwood_masonry_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Cordwood_masonry_wall.jpg/1280px-Cordwood_masonry_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Braced masonry wall - geograph.org.uk - 6574225.jpg",
+      "description": "Braced masonry wall",
+      "categories": [
+        "Burntisland",
+        "Images from Geograph Britain and Ireland"
+      ],
+      "auteur": "Bill Kasman",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Braced_masonry_wall_-_geograph.org.uk_-_6574225.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Braced_masonry_wall_-_geograph.org.uk_-_6574225.jpg/1280px-Braced_masonry_wall_-_geograph.org.uk_-_6574225.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5921,
+      "hauteur": 3586
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Åvinge gård 2014b.jpg",
+      "description": "Åvinge gårds kubbstuga från sent 1800-tal",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ20",
+        "Åvinge gård",
+        "Cordwood construction",
+        "Self-published work",
+        "2014 in Botkyrka Municipality",
+        "May 2014 in Stockholm County",
+        "Sweden photographs taken on 2014-05-08",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Holger Ellgaard"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%85vinge_g%C3%A5rd_2014b.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%C3%85vinge_g%C3%A5rd_2014b.jpg/1280px-%C3%85vinge_g%C3%A5rd_2014b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4136,
+      "hauteur": 2872
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Wall decoration and insulation with Masonry Veneer.jpg",
+      "description": "Masonry veneer walls consist of a single non-structural external layer of masonry work, typically brick, backed by an air space. The innermost element is usually structural wall, and may consist of wood or metal frame within the Cavity wall (where inner and outer layers are both structural) while others are distinct to masonry veneer walls • The airspace functions as a drainage plane, allowing any water that has penetrated the veneer to drain to the bottom of the cavity, where it encounters flashing (weatherproofing) and is directed to the outside through weep holes, rather than entering the b",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Wall deteriorations"
+      ],
+      "auteur": "Les Chatfield",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wall_decoration_and_insulation_with_Masonry_Veneer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Wall_decoration_and_insulation_with_Masonry_Veneer.jpg/1280px-Wall_decoration_and_insulation_with_Masonry_Veneer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2311,
+      "hauteur": 1724
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cordwood wall with bottles J3.JPG",
+      "description": "Mur en bois cordé avec bouteilles, on ne voit ici que les bouteilles, photo prise en Belgique.",
+      "categories": [
+        "Walls in Belgium",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ38",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Cordwood construction",
+        "Self-published work"
+      ],
+      "auteur": "Jamain",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cordwood_wall_with_bottles_J3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Cordwood_wall_with_bottles_J3.JPG/1280px-Cordwood_wall_with_bottles_J3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2930
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cordwood wall with bottles J2.JPG",
+      "description": "Mur en bois cordé avec bouteilles, le bois se trouve dans le bas du mur, photo prise en Belgique.",
+      "categories": [
+        "Walls in Belgium",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ38",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Cordwood construction",
+        "Self-published work"
+      ],
+      "auteur": "Jamain",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cordwood_wall_with_bottles_J2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Cordwood_wall_with_bottles_J2.JPG/1280px-Cordwood_wall_with_bottles_J2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2950,
+      "hauteur": 4000
+    }
+  ]
+}

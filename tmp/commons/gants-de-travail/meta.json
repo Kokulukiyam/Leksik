@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "gants-de-travail",
+    "terme": "les gants de travail",
+    "categorie": "Chantier et outillage",
+    "definition": "Gants en cuir, en tissu enduit ou en caoutchouc, qui protègent les mains des coupures, du ciment et des frottements.",
+    "priorite": 1,
+    "requetes": [
+      "work gloves",
+      "gants de travail",
+      "construction gloves"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cryo protecting gloves.jpg",
+      "description": "Laboratory gloves for cryoprotection",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Cryogenics",
+        "Self-published work",
+        "LabPstryk 2011",
+        "Featured pictures on Wikipedia, Polish",
+        "Photos taken in cooperation with Fotoedukacja",
+        "Dresden photographs taken on 2011-01-22",
+        "Corrected by Jacek Halicki",
+        "Protective gloves"
+      ],
+      "auteur": "Lilly_M",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cryo_protecting_gloves.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Cryo_protecting_gloves.jpg/1280px-Cryo_protecting_gloves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3272,
+      "hauteur": 2426
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2 الحداد.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Angle grinders",
+        "Guillotines (sheet metal)",
+        "Self-published work",
+        "Featured pictures of Algeria",
+        "Images from Wiki Loves Africa 2017",
+        "Men at work in Algeria",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Lack of personal protective equipment",
+        "Algeria photographs taken on 2015-05-26",
+        "Purple boilersuits",
+        "Boilersuits in Algeria",
+        "Images from Wiki Loves Africa 2017 in Algeria",
+        "Grinder sparks",
+        "Men wearing boilersuits",
+        "Images from Wiki Loves Africa 2017 Selection",
+        "Featured pictures from Wiki Loves Africa 2017"
+      ],
+      "auteur": "Sofiane mohammed amri",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2_%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2_%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF.jpg/1280px-2_%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2165,
+      "hauteur": 3244
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Snowboard gloves with integrated wrist protection.jpg",
+      "description": "Snowboard gloves with integrated wrist protection. The left glove is partly dismantled to show the removable rigid plastic element which is in a pouch on the back of the hand/glove. The ca. 15 cm long and 3 cm wide, quite rigid plastic element is in a pouch on the back of the hand. With the velcro strap, this element is tightly fixated to the wrist, such that the wrist has a reduced freedom to be bent upwards - in this way, the wearer is protected against one of the most common injuries while snowboarding, which happens when the boarder falls to the front and tries to dampen the impact by fall",
+      "categories": [
+        "Reusch",
+        "Wrist guards",
+        "Hook-and-loop fasteners",
+        "Self-published work",
+        "Snowboarding gloves"
+      ],
+      "auteur": "Pittigrilli",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Snowboard_gloves_with_integrated_wrist_protection.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Snowboard_gloves_with_integrated_wrist_protection.jpg/1280px-Snowboard_gloves_with_integrated_wrist_protection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 3450
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chemikalienschutzhandschuhe.JPG",
+      "description": "Chemical protection gloves. From the top left (starting with yellow), clockwise: latex, chloroprene, nitrile, neoprene, nitrile, nitrile, latex, butyl, laminate, PVA, latex, PVC",
+      "categories": [
+        "Self-published work",
+        "Protective gloves"
+      ],
+      "auteur": "Work-psa",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chemikalienschutzhandschuhe.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Chemikalienschutzhandschuhe.JPG/1280px-Chemikalienschutzhandschuhe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4449,
+      "hauteur": 3305
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Flute Work Space by Optoskept.jpg",
+      "description": "A photo I took of my work space when I was making simple flutes by calculating the size and location of holes to drill in metal pipes.",
+      "categories": [
+        "Tools",
+        "Flutes",
+        "Gloves",
+        "Drill bits",
+        "Self-published work"
+      ],
+      "auteur": "Optoskept",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flute_Work_Space_by_Optoskept.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Flute_Work_Space_by_Optoskept.jpg/1280px-Flute_Work_Space_by_Optoskept.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 3240
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chainsaw gloves.JPG",
+      "description": "Chainsaw gloves Note that only the back of the left hand glove contains chainsaw protective fabric, and so only that glove carries the chainsaw label.",
+      "categories": [
+        "Taken with Fujifilm FinePix F10",
+        "Chainsaw safety clothing",
+        "Photographs by Andy Dingley",
+        "Work gloves",
+        "Personal protective equipment conformity marks"
+      ],
+      "auteur": "Andy Dingley",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chainsaw_gloves.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Chainsaw_gloves.JPG/1280px-Chainsaw_gloves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 2021
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "betonniere",
+    "terme": "la bétonnière",
+    "categorie": "Chantier et outillage",
+    "definition": "Machine à cuve rotative inclinable, électrique ou thermique, qui malaxe le béton ou le mortier sur le chantier.",
+    "priorite": 1,
+    "requetes": [
+      "concrete mixer drum site",
+      "bétonnière",
+      "incategory:\"Concrete mixers\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Contract No. 14, East Portion, Wachusett-Coldbrook Tunnel, West Boylston, Holden, Rutland, concrete plant, Shaft 1, West Boylston, Mass., Jul. 29, 1929 - DPLA - 38ae92298717b8050cb8a28a3adcca44.jpg",
+      "description": "Title supplied by cataloger. Print in album volume MDWSC, Contract 14, Wachusett-Coldbrook Tunnel, Tunnel East and Shaft 1, Volume 1, Reference set Typed on back: Concrete plant used in the concreting operations for lining the circular and transition sections of tunnel, Sta. 21+09, 21+64. Extreme right, cement shed; right center background, coarse aggregate (gravel); right center foreground, batcher bin, aggregates taken in wheelbarrows and dumped into bin which is then raised by hoist, to mixer drum; center, ransome 1/2 cubic yd. mixer; left center, electric tugger hoist for hauling concrete ",
+      "categories": [
+        "PD US",
+        "Media contributed by the Digital Public Library of America",
+        "Media contributed by Massachusetts Archives",
+        "Media contributed by Digital Commonwealth",
+        "Photographs by Carl A. Remington",
+        "Files from the Massachusetts Water Resources Authority"
+      ],
+      "auteur": "Massachusetts. Metropolitan District Water Supply Commission, Remington, Carl A., 1902-1982",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Contract_No._14,_East_Portion,_Wachusett-Coldbrook_Tunnel,_West_Boylston,_Holden,_Rutland,_concrete_plant,_Shaft_1,_West_Boylston,_Mass.,_Jul._29,_1929_-_DPLA_-_38ae92298717b8050cb8a28a3adcca44.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Contract_No._14%2C_East_Portion%2C_Wachusett-Coldbrook_Tunnel%2C_West_Boylston%2C_Holden%2C_Rutland%2C_concrete_plant%2C_Shaft_1%2C_West_Boylston%2C_Mass.%2C_Jul._29%2C_1929_-_DPLA_-_38ae92298717b8050cb8a28a3adcca44.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3927,
+      "hauteur": 2561
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Mercedes-Benz Axor based cement mixer truck.JPG",
+      "description": "Mercedes-Benz Axor based cement mixer truck.",
+      "categories": [
+        "Cement mixer trucks in Germany",
+        "Mercedes-Benz trucks in Germany",
+        "Images with annotations",
+        "Self-published work",
+        "Files by User:High Contrast",
+        "White Mercedes-Benz trucks",
+        "Mercedes-Benz concrete mixer trucks",
+        "Rigid cement mixer trucks",
+        "Mercedes-Benz eight-wheeled trucks",
+        "Mercedes-Benz Axor 3236",
+        "Schwing Stetter concrete mixers"
+      ],
+      "auteur": "High Contrast",
+      "licence": "CC BY 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Axor_based_cement_mixer_truck.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Mercedes-Benz_Axor_based_cement_mixer_truck.JPG/1280px-Mercedes-Benz_Axor_based_cement_mixer_truck.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 2200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Architect and engineer (1930) (14589823570).jpg",
+      "description": "Identifier : architectenginee1030sanf ( find matches ) Title : Architect and engineer Year : 1905 ( 1900s ) Authors : Subjects : Architecture Architecture Architecture Building Publisher : San Francisco : Architect and Engineer, Inc Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: August 1 to Octo-ber 19,",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 22 September 2015",
+        "Architect and engineer (1930)"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Architect_and_engineer_(1930)_(14589823570).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Architect_and_engineer_%281930%29_%2814589823570%29.jpg/1280px-Architect_and_engineer_%281930%29_%2814589823570%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1312
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Kaohsiung Taiwan Cement-mixer-truck-01.jpg",
+      "description": "Lingya District, Kaohsiung City, Taiwan: A ready-mixed concrete lorry.",
+      "categories": [
+        "Taiwan Cement",
+        "Lingya District, Kaohsiung",
+        "Taiwan photographs taken on 2015-12-29",
+        "Self-published work",
+        "Information field template with formatting",
+        "Concrete mixer trucks in Taiwan",
+        "Images by Cccefalon",
+        "Files with coordinates missing SDC location of creation",
+        "2015 photographs of Kaohsiung",
+        "Rigid cement mixer trucks",
+        "Six-wheeled rigid trucks",
+        "Fuso cab-over-engine trucks",
+        "Trucks in Kaohsiung",
+        "Trucks on zebra crossings in Taiwan",
+        "Images of Taiwan by User:Cccefalon",
+        "Trucks photographed in 2015"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Taiwan_Cement-mixer-truck-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kaohsiung_Taiwan_Cement-mixer-truck-01.jpg/1280px-Kaohsiung_Taiwan_Cement-mixer-truck-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4590,
+      "hauteur": 2582
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:88a081 Holloway Ready-Mix plant and Riverway Louisville Terminal on River Road (9767236716).jpg",
+      "description": "Looking NNW from I-64 overlooking River Road between Clay St. [later Witherspoon St.] and Adams St.. Holloway Ready-Mix concrete plant, 1220 River Road, with tilt mixer at right, so-named because the mixing drum is raised and tilted to pour the concrete into the truck . [The 1982 Louisville City Directory lists 1220 River Road as \"vacant\", while the 1977 Directory lists it as \"American Oil Co. (Terminal)\".] At Riverway Louisville Terminal, 1201 River Road, a large pile of road salt is covered by a striped tarp weighed down by old tires connected with rope. As of 2013, Tumbleweed Tex Mex Grill ",
+      "categories": [
+        "1988 in Kentucky",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Ohio River at Louisville, Kentucky"
+      ],
+      "auteur": "William Alden from Louisville, Kentucky, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:88a081_Holloway_Ready-Mix_plant_and_Riverway_Louisville_Terminal_on_River_Road_(9767236716).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/88a081_Holloway_Ready-Mix_plant_and_Riverway_Louisville_Terminal_on_River_Road_%289767236716%29.jpg/1280px-88a081_Holloway_Ready-Mix_plant_and_Riverway_Louisville_Terminal_on_River_Road_%289767236716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3637,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cement mixer 3.jpg",
+      "description": "cement mixer",
+      "categories": [
+        "Taken with Canon PowerShot A95",
+        "Concrete buckets",
+        "Flickr images reviewed by FlickreviewR",
+        "Cement mixer trucks in the United States",
+        "Cement mixer trucks (front discharge)",
+        "Photographs by Michael Pereckas",
+        "Rigid cement mixer trucks"
+      ],
+      "auteur": "Michael Pereckas from Milwaukee, WI, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cement_mixer_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Cement_mixer_3.jpg/1280px-Cement_mixer_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1977,
+      "hauteur": 1167
+    }
+  ]
+}

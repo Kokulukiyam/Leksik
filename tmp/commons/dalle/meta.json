@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "dalle",
+    "terme": "la dalle",
+    "categorie": "Structure",
+    "definition": "Plaque horizontale de béton armé, d'épaisseur constante, qui forme un plancher ou une toiture-terrasse.",
+    "priorite": 1,
+    "requetes": [
+      "reinforced concrete slab floor",
+      "dalle béton armé",
+      "concrete floor slab structure"
+    ],
+    "incompatibles": [
+      "dalle-pleine"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Steel highway bridges with reinforced concrete floors (1910) (14577406739).jpg",
+      "description": "Identifier : steelhighwaybrid00corn ( find matches ) Title : Steel highway bridges with reinforced concrete floors Year : 1910 ( 1910s ) Authors : Cornwell, Earl Zink Williams, Glenn Richard Subjects : Bridges Iron and steel bridges Theses Publisher : Contributing Library : University of Illinois Urbana-Champaign Digitizing Sponsor : University of Illinois Urbana-Champaign View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appeari",
+      "categories": [
+        "Highway bridges",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Concrete arch bridge drawings",
+        "Steel highway bridges with reinforced concrete floors (1910)"
+      ],
+      "auteur": "Cornwell, Earl Zink; Williams, Glenn Richard",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Steel_highway_bridges_with_reinforced_concrete_floors_(1910)_(14577406739).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Steel_highway_bridges_with_reinforced_concrete_floors_%281910%29_%2814577406739%29.jpg/1280px-Steel_highway_bridges_with_reinforced_concrete_floors_%281910%29_%2814577406739%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 2495
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:The theory of the flexure and strength of rectangular flat plates applied to reinforced concrete floor slabs (1913) (14576707688).jpg",
+      "description": "Identifier : theoryofflexures00eddy ( find matches ) Title : The theory of the flexure and strength of rectangular flat plates applied to reinforced concrete floor slabs Year : 1913 ( 1910s ) Authors : Eddy, Henry T. (Henry Turner), 1844-1921 Subjects : Reinforced concrete Publisher : Minneapolis, Rogers & company Contributing Library : The Library of Congress Digitizing Sponsor : The Library of Congress View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online ve",
+      "categories": [
+        "Reinforced concrete",
+        "1913 books",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 6 October 2015"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_(1913)_(14576707688).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_%281913%29_%2814576707688%29.jpg/1280px-The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_%281913%29_%2814576707688%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2058,
+      "hauteur": 1314
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:The theory of the flexure and strength of rectangular flat plates applied to reinforced concrete floor slabs (1913) (14576712938).jpg",
+      "description": "Identifier : theoryofflexures00eddy ( find matches ) Title : The theory of the flexure and strength of rectangular flat plates applied to reinforced concrete floor slabs Year : 1913 ( 1910s ) Authors : Eddy, Henry T. (Henry Turner), 1844-1921 Subjects : Reinforced concrete Publisher : Minneapolis, Rogers & company Contributing Library : The Library of Congress Digitizing Sponsor : The Library of Congress View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online ve",
+      "categories": [
+        "Reinforced concrete",
+        "1913 books",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 6 October 2015"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_(1913)_(14576712938).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_%281913%29_%2814576712938%29.jpg/1280px-The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_%281913%29_%2814576712938%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2006,
+      "hauteur": 1514
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:The theory of the flexure and strength of rectangular flat plates applied to reinforced concrete floor slabs (1913) (14760166711).jpg",
+      "description": "Identifier : theoryofflexures00eddy ( find matches ) Title : The theory of the flexure and strength of rectangular flat plates applied to reinforced concrete floor slabs Year : 1913 ( 1910s ) Authors : Eddy, Henry T. (Henry Turner), 1844-1921 Subjects : Reinforced concrete Publisher : Minneapolis, Rogers & company Contributing Library : The Library of Congress Digitizing Sponsor : The Library of Congress View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online ve",
+      "categories": [
+        "Reinforced concrete",
+        "1913 books",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 26 October 2015"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_(1913)_(14760166711).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_%281913%29_%2814760166711%29.jpg/1280px-The_theory_of_the_flexure_and_strength_of_rectangular_flat_plates_applied_to_reinforced_concrete_floor_slabs_%281913%29_%2814760166711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2258,
+      "hauteur": 1762
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A treatise on concrete, plain and reinforced - materials, construction, and design of concrete and reinforced concrete; 2nd ed. (1912) (14596999080).jpg",
+      "description": "Identifier : treatiseonconcr00tayl ( find matches ) Title : A treatise on concrete, plain and reinforced : materials, construction, and design of concrete and reinforced concrete; 2nd ed. Year : 1912 ( 1910s ) Authors : Taylor, Frederick Winslow, 1856-1915 Feret, R Thompson, Sanford E. (Sanford Eleazer), b. 1867 Subjects : Concrete Reinforced concrete Publisher : New York : J. Wiley Contributing Library : Robarts - University of Toronto Digitizing Sponsor : University of Toronto View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to vi",
+      "categories": [
+        "Concrete",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 5 August 2015",
+        "1912 books from the United States"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_treatise_on_concrete,_plain_and_reinforced_-_materials,_construction,_and_design_of_concrete_and_reinforced_concrete;_2nd_ed._(1912)_(14596999080).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/A_treatise_on_concrete%2C_plain_and_reinforced_-_materials%2C_construction%2C_and_design_of_concrete_and_reinforced_concrete%3B_2nd_ed._%281912%29_%2814596999080%29.jpg/1280px-A_treatise_on_concrete%2C_plain_and_reinforced_-_materials%2C_construction%2C_and_design_of_concrete_and_reinforced_concrete%3B_2nd_ed._%281912%29_%2814596999080%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 1782
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Steel Fabrication Shop Structural Steel Erection, Reinforcing Bar In Place Prior To Pouring Concrete Floor Slab In Foreground, 9-5-68 (16843022202).jpg",
+      "description": "Collection: Ingalls Shipyard West Bank Expansion Collection Call number: PI/SF/IND/1986.0017 System ID: 105357 Catalog link: 105357 Steel Fabrication Shop Structural Steel Erection, Reinforcing Bar In Place Prior To Pouring Concrete Floor Slab In Foreground, 9/5/68. Please see our profile page for information on ordering. Scanned as tiff in 2011/03/24 by MDAH. Credit: Courtesy of the Mississippi Department of Archives and History",
+      "categories": [
+        "1968 in Mississippi",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Ingalls Shipbuilding",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Photographs by Mississippi Department of Archives and History",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Mississippi Department of Archives and History",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Steel_Fabrication_Shop_Structural_Steel_Erection,_Reinforcing_Bar_In_Place_Prior_To_Pouring_Concrete_Floor_Slab_In_Foreground,_9-5-68_(16843022202).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Steel_Fabrication_Shop_Structural_Steel_Erection%2C_Reinforcing_Bar_In_Place_Prior_To_Pouring_Concrete_Floor_Slab_In_Foreground%2C_9-5-68_%2816843022202%29.jpg/1280px-Steel_Fabrication_Shop_Structural_Steel_Erection%2C_Reinforcing_Bar_In_Place_Prior_To_Pouring_Concrete_Floor_Slab_In_Foreground%2C_9-5-68_%2816843022202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6058,
+      "hauteur": 4831
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "passage-pieton",
+    "terme": "le passage piéton",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Bandes blanches peintes en travers de la chaussée, où les piétons traversent.",
+    "priorite": 1,
+    "requetes": [
+      "zebra crossing",
+      "passage piéton",
+      "incategory:\"Zebra crossings\""
+    ],
+    "incompatibles": [
+      "marquage-au-sol"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Japanese car accident.jpg",
+      "description": "Un accident de voiture à Tokyo (Japon).",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-LX2",
+        "Personality rights warning",
+        "Honda Fit (1st generation)",
+        "Toyota Platz",
+        "Commons featured widescreen desktop backgrounds",
+        "Featured pictures of automobiles",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with derivative versions",
+        "Featured pictures of Tokyo",
+        "Featured pictures on Wikipedia, Turkish",
+        "Zebra crossings in Japan",
+        "Road accidents in 2007",
+        "March 2007 in Tokyo",
+        "Number 17 on vehicle registration plates",
+        "Number 22 on vehicle registration plates",
+        "Japan photographs taken on 2007-03-03",
+        "Automobile accidents in Japan",
+        "Photos in Flickr Explore",
+        "Automobiles in Tokyo",
+        "Hit and runs",
+        "Featured pictures from Flickr",
+        "Photographs by Shuets Udono",
+        "Automobiles on zebra crossings",
+        "Crashed Honda vehicles",
+        "Crashed Toyota Yaris",
+        "Crashed Toyota vehicles"
+      ],
+      "auteur": "Shuets Udono",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Japanese_car_accident.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Japanese_car_accident.jpg/1280px-Japanese_car_accident.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4224,
+      "hauteur": 2376
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Zebra crossing St Helier.jpg",
+      "description": "A zebra crossing in The Parade, St Helier.",
+      "categories": [
+        "Jersey",
+        "Roads in Jersey",
+        "Zebra crossings",
+        "Saint Helier, Jersey",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2022-07-31",
+        "The Parade, Saint Helier"
+      ],
+      "auteur": "Jèrriais janne",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zebra_crossing_St_Helier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Zebra_crossing_St_Helier.jpg/1280px-Zebra_crossing_St_Helier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Zebra Cross di Jalan Asia Afrika.jpg",
+      "description": "Zebra Cross di Jalan Asia Afrika",
+      "categories": [
+        "Jalan Asia Afrika",
+        "Self-published work",
+        "White zebra crossings",
+        "Regol"
+      ],
+      "auteur": "Astari28",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zebra_Cross_di_Jalan_Asia_Afrika.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Zebra_Cross_di_Jalan_Asia_Afrika.jpg/1280px-Zebra_Cross_di_Jalan_Asia_Afrika.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 4864
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Zebra crossing on Freeman Street - geograph.org.uk - 8147284.jpg",
+      "description": "Zebra crossing on Freeman Street",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Zebra crossings in England",
+        "Freeman Street, Grimsby"
+      ],
+      "auteur": "Stephen Craven",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147284.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147284.jpg/1280px-Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147284.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4864,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Zebra crossing, Kingsway, Newport - geograph.org.uk - 6466465.jpg",
+      "description": "Zebra crossing, Kingsway, Newport",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Zebra crossings in Wales",
+        "Kingsway, Newport, Wales"
+      ],
+      "auteur": "Jaggery",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zebra_crossing,_Kingsway,_Newport_-_geograph.org.uk_-_6466465.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Zebra_crossing%2C_Kingsway%2C_Newport_-_geograph.org.uk_-_6466465.jpg/1280px-Zebra_crossing%2C_Kingsway%2C_Newport_-_geograph.org.uk_-_6466465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1326
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Zebra crossing on Freeman Street - geograph.org.uk - 8147294.jpg",
+      "description": "Zebra crossing on Freeman Street",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Zebra crossings in England",
+        "Freeman Street, Grimsby"
+      ],
+      "auteur": "Stephen Craven",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147294.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147294.jpg/1280px-Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1500
+    }
+  ]
+}

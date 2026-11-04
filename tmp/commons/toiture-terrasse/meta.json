@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "toiture-terrasse",
+    "terme": "la toiture-terrasse",
+    "categorie": "Toitures",
+    "definition": "Toiture plate ou à très faible pente, en général une dalle étanchée bordée d'acrotères.",
+    "priorite": 1,
+    "requetes": [
+      "flat roof building",
+      "toiture-terrasse",
+      "flat concrete roof Dakar"
+    ],
+    "incompatibles": [
+      "toiture",
+      "acrotere"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:EPDM Rubber flat roof Halifax.jpg",
+      "description": "EPDM rubber flat roof undertaken by Crown Building Services Halifax",
+      "categories": [
+        "Elastomers",
+        "Self-published work",
+        "Flat roof dormers",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)",
+        "Tiled roofs in England"
+      ],
+      "auteur": "Crownbuild",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EPDM_Rubber_flat_roof_Halifax.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/EPDM_Rubber_flat_roof_Halifax.jpg/1280px-EPDM_Rubber_flat_roof_Halifax.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Krasnoyarsk embankment, Roof terrace, Russia.jpg",
+      "description": "The Krasnoyarsk embankment along the Yenisey River. Roof terrace. Krasnoyarsk, Russia.",
+      "categories": [
+        "Photos by Vyacheslav Argenberg",
+        "Krasnoyarsk",
+        "Roof terraces",
+        "Self-published work",
+        "August 2016 in Krasnoyarsk Krai",
+        "Clouds and blue sky in Krasnoyarsk Krai",
+        "Photos by Vyacheslav Argenberg in Russia",
+        "Photos by Vyacheslav Argenberg in 2016"
+      ],
+      "auteur": "Vyacheslav Argenberg",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Krasnoyarsk_embankment,_Roof_terrace,_Russia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Krasnoyarsk_embankment%2C_Roof_terrace%2C_Russia.jpg/1280px-Krasnoyarsk_embankment%2C_Roof_terrace%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Rooftop pool, Nairobi (20250808-P1048999).jpg",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Panasonic Lumix DC-G91 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Rooftop swimming pools",
+        "Gigiri",
+        "Photographs taken during Wikimania 2025",
+        "Wikimania 2025 by MB-one (supported by WMDE)"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rooftop_pool,_Nairobi_(20250808-P1048999).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Rooftop_pool%2C_Nairobi_%2820250808-P1048999%29.jpg/1280px-Rooftop_pool%2C_Nairobi_%2820250808-P1048999%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Krasnoyarsk embankment, Roof terrace, Clouds, Russia.jpg",
+      "description": "The Krasnoyarsk embankment along the Yenisey River. Roof terrace. Krasnoyarsk, Russia.",
+      "categories": [
+        "Photos by Vyacheslav Argenberg",
+        "Krasnoyarsk",
+        "Roof terraces",
+        "Self-published work",
+        "August 2016 in Krasnoyarsk Krai",
+        "Clouds and blue sky in Krasnoyarsk Krai",
+        "Photos by Vyacheslav Argenberg in Russia",
+        "Photos by Vyacheslav Argenberg in 2016"
+      ],
+      "auteur": "Vyacheslav Argenberg",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Krasnoyarsk_embankment,_Roof_terrace,_Clouds,_Russia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Krasnoyarsk_embankment%2C_Roof_terrace%2C_Clouds%2C_Russia.jpg/1280px-Krasnoyarsk_embankment%2C_Roof_terrace%2C_Clouds%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Krasnoyarsk embankment, Roof terrace 2, Russia.jpg",
+      "description": "The Krasnoyarsk embankment along the Yenisey River. Roof terrace. Krasnoyarsk, Russia.",
+      "categories": [
+        "Modernist architecture in Russia",
+        "Photos by Vyacheslav Argenberg",
+        "Krasnoyarsk",
+        "Roof terraces",
+        "Self-published work",
+        "August 2016 in Krasnoyarsk Krai",
+        "Clouds and blue sky in Krasnoyarsk Krai",
+        "Photos by Vyacheslav Argenberg in Russia",
+        "Photos by Vyacheslav Argenberg in 2016"
+      ],
+      "auteur": "Vyacheslav Argenberg",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Krasnoyarsk_embankment,_Roof_terrace_2,_Russia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Krasnoyarsk_embankment%2C_Roof_terrace_2%2C_Russia.jpg/1280px-Krasnoyarsk_embankment%2C_Roof_terrace_2%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dombay, Roof terrace, Soviet modernism, Karachay-Cherkessia.jpg",
+      "description": "Roof terrace. Soviet modernism. Dombay, Karachay-Cherkessia.",
+      "categories": [
+        "Photos by Vyacheslav Argenberg",
+        "Roof terraces",
+        "Architecture of the Soviet Union",
+        "Dombai",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Soviet modernist architecture in Russia",
+        "Photos by Vyacheslav Argenberg in 2013",
+        "Photos by Vyacheslav Argenberg in Caucasus, Russia"
+      ],
+      "auteur": "Vyacheslav Argenberg",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dombay,_Roof_terrace,_Soviet_modernism,_Karachay-Cherkessia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Dombay%2C_Roof_terrace%2C_Soviet_modernism%2C_Karachay-Cherkessia.jpg/1280px-Dombay%2C_Roof_terrace%2C_Soviet_modernism%2C_Karachay-Cherkessia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4912,
+      "hauteur": 3264
+    }
+  ]
+}

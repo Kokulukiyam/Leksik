@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "hourdis",
+    "terme": "l'hourdis",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Bloc creux en béton ou en polystyrène, aussi appelé entrevous, posé entre les poutrelles d'un plancher avant le coulage de la dalle de compression.",
+    "priorite": 1,
+    "requetes": [
+      "hollow block slab hourdis",
+      "hourdis poutrelles plancher",
+      "beam and block floor construction"
+    ],
+    "incompatibles": [
+      "poutrelle",
+      "plancher-a-corps-creux"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Coulage plancher.JPG",
+      "description": "Coulage d'un plancher poutrelles hourdis",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-P150",
+        "Construction",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Cedriccabioch",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coulage_plancher.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Coulage_plancher.JPG/1280px-Coulage_plancher.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Beam ^ block floor, Meadows View development - geograph.org.uk - 4523943.jpg",
+      "description": "Beam & block floor, Meadows View development",
+      "categories": [
+        "Eastbourne",
+        "Images from Geograph Britain and Ireland"
+      ],
+      "auteur": "Oast House Archive",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beam_%5E_block_floor,_Meadows_View_development_-_geograph.org.uk_-_4523943.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Beam_%5E_block_floor%2C_Meadows_View_development_-_geograph.org.uk_-_4523943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:-2019-11-29 Block & Beam floor beams, Trimingham.JPG",
+      "description": "A stack of concrete ‘T’ beams which are used in the construction of a suspended Beam & Block Floor. These have been delivered to a property in Trimingham , Norfolk.",
+      "categories": [
+        "Attribution only license",
+        "Images by Kolforn",
+        "November 2019 in Norfolk, England",
+        "United Kingdom photographs taken on 2019-11-29",
+        "Concrete beams",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2019-11-29_Block_%26_Beam_floor_beams,_Trimingham.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/-2019-11-29_Block_%26_Beam_floor_beams%2C_Trimingham.JPG/1280px--2019-11-29_Block_%26_Beam_floor_beams%2C_Trimingham.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:-2019-11-29 Block & Beam floor blocks, Trimingham.JPG",
+      "description": "Packs of concrete blocks which are used in the construction of a suspended Beam & Block Floor. These have been delivered to a property in Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Attribution only license",
+        "Images by Kolforn",
+        "November 2019 in Norfolk, England",
+        "United Kingdom photographs taken on 2019-11-29",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2019-11-29_Block_%26_Beam_floor_blocks,_Trimingham.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/-2019-11-29_Block_%26_Beam_floor_blocks%2C_Trimingham.JPG/1280px--2019-11-29_Block_%26_Beam_floor_blocks%2C_Trimingham.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Construction at A. Reyrolle and Co. Ltd. (21438187330).jpg",
+      "description": "TWAM Ref: TWCMS:M4448 A. Reyrolle & Co. Ltd was founded by Alphonse Reyrolle (1864 - 1919), a French engineer who established a small switchgear shop in London in 1886. In 1901 his business moved to Hebburn and the firm began to grow with the recruitment of Henry Clothier. Clothier helped them develop large switchgears for power stations, a product the company became famous for. Over the years, Reyrolle continued to grow, seeing a number of mergers. Most notably with C.A Parsons in 1968 and Rolls Royce in 1989. The Hebburn site is now owned by Siemens who acquired the company in 2005. This pho",
+      "categories": [
+        "Industrial heritage",
+        "Construction",
+        "Timber",
+        "A. Reyrolle & Company",
+        "Urban development",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Photographs by Tyne & Wear Archives & Museums",
+        "Files with coordinates missing SDC location of creation (54° N, 2° W)"
+      ],
+      "auteur": "Tyne & Wear Archives & Museums",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_at_A._Reyrolle_and_Co._Ltd._(21438187330).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Construction_at_A._Reyrolle_and_Co._Ltd._%2821438187330%29.jpg/1280px-Construction_at_A._Reyrolle_and_Co._Ltd._%2821438187330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5072,
+      "hauteur": 3880
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Architect and engineer (1947) (14578727048).jpg",
+      "description": "Identifier : architectenginee16847sanf ( find matches ) Title : Architect and engineer Year : 1905 ( 1900s ) Authors : Subjects : Architecture Architecture Architecture Building Publisher : San Francisco : Architect and Engineer, Inc Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: qual vibration periods ",
+      "categories": [
+        "Sherman Clay",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "1947 in Oakland, California",
+        "Oakland, California in the 1940s",
+        "Architect and engineer (1947)",
+        "Piano warehouses"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Architect_and_engineer_(1947)_(14578727048).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Architect_and_engineer_%281947%29_%2814578727048%29.jpg/1280px-Architect_and_engineer_%281947%29_%2814578727048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1814,
+      "hauteur": 1248
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "mur-de-remplissage",
+    "terme": "le mur de remplissage",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Mur en maçonnerie non porteur monté entre les poteaux et les poutres d'une ossature en béton armé.",
+    "priorite": 1,
+    "requetes": [
+      "infill masonry wall concrete frame",
+      "mur de remplissage agglos ossature béton",
+      "infill wall construction"
+    ],
+    "incompatibles": [
+      "maconnerie",
+      "ossature-en-beton-arme"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Concrete Brick House Construction Sasatgre Oct24 A7CR 03727.jpg",
+      "description": "Concrete frame, brick walled house under construction, Sasatgre, West Garo Hills, Meghalaya, India",
+      "categories": [
+        "Self-published work",
+        "Brick infill",
+        "Buildings in Meghalaya",
+        "Brick walls in India",
+        "Files with coordinates missing SDC location of creation",
+        "Corrugated iron roofs in India",
+        "Images by User:Tagooty",
+        "Taken with Sony ILCE-7CR",
+        "Arecaceae in Meghalaya",
+        "Sasatgre",
+        "Images by User:Tagooty/India",
+        "Arecaceae in India in October 2024",
+        "Concrete framing"
+      ],
+      "auteur": "Timothy A. Gonsalves",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_Brick_House_Construction_Sasatgre_Oct24_A7CR_03727.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Concrete_Brick_House_Construction_Sasatgre_Oct24_A7CR_03727.jpg/1280px-Concrete_Brick_House_Construction_Sasatgre_Oct24_A7CR_03727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6980,
+      "hauteur": 5235
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:5. Footer Stabilization, Water Infiltration, North Wall. (b011a751-246d-4a9e-a20c-eac68f46df99).JPG",
+      "description": "The foundation footer has been infilled and stabilized with concrete. There is a hole around the house foundation where construction workers dug to access the foundation pieces. The completed footer and foundation wall infills on the west elevation just prior to installation of waterproofing materials. Keywords: gettysburg; civil war; gettysburg national military park; battlefield; homes",
+      "categories": [
+        "PD US NPS",
+        "Media needing category review with 3 suggested categories",
+        "Taken on missing SDC inception",
+        "Photographs taken on 2020-06-02",
+        "Images from NPGallery",
+        "Media needing category review as of 18 May 2021",
+        "James Warfield House restoration"
+      ],
+      "auteur": "NPS Photo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:5._Footer_Stabilization,_Water_Infiltration,_North_Wall._(b011a751-246d-4a9e-a20c-eac68f46df99).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/5._Footer_Stabilization%2C_Water_Infiltration%2C_North_Wall._%28b011a751-246d-4a9e-a20c-eac68f46df99%29.JPG/1280px-5._Footer_Stabilization%2C_Water_Infiltration%2C_North_Wall._%28b011a751-246d-4a9e-a20c-eac68f46df99%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Coal drop yard York Central Jun25.jpg",
+      "description": "The former NER coal drop yard in York built in 1872-3. Visible are the coal drop retaining walls. The yard has been infilled and is to become an event space.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)",
+        "June 2025 in York",
+        "Construction on York Central",
+        "York photographs taken on 2025-06-02"
+      ],
+      "auteur": "Malcolmxl5",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coal_drop_yard_York_Central_Jun25.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Coal_drop_yard_York_Central_Jun25.jpg/1280px-Coal_drop_yard_York_Central_Jun25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Coal drop yard York Central Jun25 01.jpg",
+      "description": "The former NER coal drop yard in York built in 1872-3. Visible are the coal drop retaining walls. The yard has been infilled and is to become an event space.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)",
+        "June 2025 in York",
+        "Construction on York Central",
+        "York photographs taken on 2025-06-02"
+      ],
+      "auteur": "Malcolmxl5",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coal_drop_yard_York_Central_Jun25_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Coal_drop_yard_York_Central_Jun25_01.jpg/1280px-Coal_drop_yard_York_Central_Jun25_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Duzce 1999 earthquake damage Bilham 895.jpg",
+      "description": "Close up of damage to a structure in Duzce. Note that the columns have shifted slightly and infill has fallen out. Also note the unbroken glass windows. The basement area is surrounded by a retaining wall which is typical of the construction in this part of Turkey.",
+      "categories": [
+        "1999 Düzce earthquake",
+        "PD US NOAA"
+      ],
+      "auteur": "Roger Bilham",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duzce_1999_earthquake_damage_Bilham_895.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Duzce_1999_earthquake_damage_Bilham_895.jpg/1280px-Duzce_1999_earthquake_damage_Bilham_895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1130
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Leybourne Castle Kent.jpg",
+      "description": "An enclosure castle is a defended residence or stronghold, built mainly of stone, in which the principal or sole defence comprises the walls and towers bounding the site. Some form of keep may have stood within the enclosure but this was not significant in defensive terms and served mainly to provide accommodation. Larger sites might have more than one line of walling and there are normally mural towers and gatehouses. Outside the walls a ditch, either waterfilled or dry, crossed by bridges may be found. The first enclosure castles were constructed at the time of the Norman Conquest. However, ",
+      "categories": [
+        "Kent",
+        "Flickr images missing SDC copyright status",
+        "Flickr images reviewed by FlickreviewR 2",
+        "PD-author-FlickrPDM",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "John K Thorne",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Leybourne_Castle_Kent.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Leybourne_Castle_Kent.jpg/1280px-Leybourne_Castle_Kent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    }
+  ]
+}

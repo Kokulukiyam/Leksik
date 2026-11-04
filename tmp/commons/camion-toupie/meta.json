@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "camion-toupie",
+    "terme": "le camion-toupie",
+    "categorie": "Chantier et outillage",
+    "definition": "Camion portant une grande cuve rotative inclinée qui livre le béton prêt à l'emploi en le malaxant.",
+    "priorite": 1,
+    "requetes": [
+      "concrete mixer truck",
+      "camion toupie béton",
+      "incategory:\"Concrete mixer trucks\""
+    ],
+    "incompatibles": [
+      "pompe-a-beton"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Kaohsiung Taiwan Cement-mixer-truck-01.jpg",
+      "description": "Lingya District, Kaohsiung City, Taiwan: A ready-mixed concrete lorry.",
+      "categories": [
+        "Taiwan Cement",
+        "Lingya District, Kaohsiung",
+        "Taiwan photographs taken on 2015-12-29",
+        "Self-published work",
+        "Information field template with formatting",
+        "Concrete mixer trucks in Taiwan",
+        "Images by Cccefalon",
+        "Files with coordinates missing SDC location of creation",
+        "2015 photographs of Kaohsiung",
+        "Rigid cement mixer trucks",
+        "Six-wheeled rigid trucks",
+        "Fuso cab-over-engine trucks",
+        "Trucks in Kaohsiung",
+        "Trucks on zebra crossings in Taiwan",
+        "Images of Taiwan by User:Cccefalon",
+        "Trucks photographed in 2015"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Taiwan_Cement-mixer-truck-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kaohsiung_Taiwan_Cement-mixer-truck-01.jpg/1280px-Kaohsiung_Taiwan_Cement-mixer-truck-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4590,
+      "hauteur": 2582
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Clean concrete mixer truck.jpg",
+      "description": "A clean green concrete mixer truck, District of Columbia, United States of America.",
+      "categories": [
+        "Cement mixer trucks in the United States",
+        "Mack DM series",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Green Mack trucks",
+        "Rigid cement mixer trucks",
+        "Eight-wheeled trucks"
+      ],
+      "auteur": "woodleywonderworks",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clean_concrete_mixer_truck.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Clean_concrete_mixer_truck.jpg/1280px-Clean_concrete_mixer_truck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2692,
+      "hauteur": 1795
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Mercedes-Benz Axor based cement mixer truck.JPG",
+      "description": "Mercedes-Benz Axor based cement mixer truck.",
+      "categories": [
+        "Cement mixer trucks in Germany",
+        "Mercedes-Benz trucks in Germany",
+        "Images with annotations",
+        "Self-published work",
+        "Files by User:High Contrast",
+        "White Mercedes-Benz trucks",
+        "Mercedes-Benz concrete mixer trucks",
+        "Rigid cement mixer trucks",
+        "Mercedes-Benz eight-wheeled trucks",
+        "Mercedes-Benz Axor 3236",
+        "Schwing Stetter concrete mixers"
+      ],
+      "auteur": "High Contrast",
+      "licence": "CC BY 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Axor_based_cement_mixer_truck.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Mercedes-Benz_Axor_based_cement_mixer_truck.JPG/1280px-Mercedes-Benz_Axor_based_cement_mixer_truck.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 2200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Concrete mixer and pump truck with extended boom.jpg",
+      "description": "A concrete mixer attached to a concrete pump truck with an extended boom, seen from eight stories up at a construction site in Sunnyvale, California.",
+      "categories": [
+        "Taken with Nexus 5X",
+        "Construction sites in California",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Jul 2016 - Jun 2017)",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2017-06-15",
+        "Concrete pumps sourced by concrete mixer vehicles",
+        "Photos by Grendelkhan"
+      ],
+      "auteur": "Grendelkhan",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_mixer_and_pump_truck_with_extended_boom.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Concrete_mixer_and_pump_truck_with_extended_boom.jpg/1280px-Concrete_mixer_and_pump_truck_with_extended_boom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:アボロン cement mixer loaded on truck -33117.jpeg",
+      "description": "アボロン cement mixer loaded on truck",
+      "categories": [
+        "CC-Zero",
+        "Ebisu, Tokyo",
+        "Concrete mixers",
+        "Self-published work",
+        "Cement mixers in Japan",
+        "Japan photographs taken on 2024-11-26",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E3%82%A2%E3%83%9C%E3%83%AD%E3%83%B3_cement_mixer_loaded_on_truck_-33117.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%E3%82%A2%E3%83%9C%E3%83%AD%E3%83%B3_cement_mixer_loaded_on_truck_-33117.jpeg/1280px-%E3%82%A2%E3%83%9C%E3%83%AD%E3%83%B3_cement_mixer_loaded_on_truck_-33117.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Concrete mixer - Mobile self-loading concrete mixer, Queensland, circa 1930.jpg",
+      "description": "QSA Item ID 1820216 The Transport and Main Roads Visual Resource Library collection contains over 200.000 photographs and other resources from the 1920’s to 2005 from the many and varied road, transport and maritime departments over that time. View this and other original records at the Queensland State Archives: Series ID 20074",
+      "categories": [
+        "PD-Australia",
+        "1930 in Queensland",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Images from the Queensland State Archives",
+        "Cement mixer trucks in Australia"
+      ],
+      "auteur": "Queensland State Archives",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_mixer_-_Mobile_self-loading_concrete_mixer,_Queensland,_circa_1930.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Concrete_mixer_-_Mobile_self-loading_concrete_mixer%2C_Queensland%2C_circa_1930.jpg/1280px-Concrete_mixer_-_Mobile_self-loading_concrete_mixer%2C_Queensland%2C_circa_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3649,
+      "hauteur": 2266
+    }
+  ]
+}

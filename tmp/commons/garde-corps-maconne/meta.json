@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "garde-corps-maconne",
+    "terme": "le garde-corps maçonné",
+    "categorie": "Façade et ouvertures",
+    "definition": "Muret plein en maçonnerie ou en béton qui fait office de garde-corps sur un balcon ou une terrasse.",
+    "priorite": 1,
+    "requetes": [
+      "solid concrete balcony parapet",
+      "garde-corps maçonné balcon",
+      "masonry balcony wall"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "balcon",
+      "acrotere"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:The Three Graces - Liverpool Waterfront - Royal Liver, Cunard and Port of Liverpool Buildings - panoramic (10730608696).jpg",
+      "description": "The Three Graces - Liverpool Waterfront. All Grade II* listed buildings (apart from the nearby modern buildings). The Three Graces: &lt;a href=\" http://www.britishlistedbuildings.co.uk/en-214151-royal-liver-building-iron-railings-and-s \" rel=\"noreferrer nofollow\"&gt;Royal Liver Building&lt;/a&gt;, &lt;a href=\" http://www.britishlistedbuildings.co.uk/en-214150-cunard-building- \" rel=\"noreferrer nofollow\"&gt;The Cunard Building&lt;/a&gt; and &lt;a href=\" http://www.britishlistedbuildings.co.uk/en-214149-port-of-liverpool-building-and-stone-bal \" rel=\"noreferrer nofollow\"&gt;The Port of Liverpool",
+      "categories": [
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Three Graces, Liverpool",
+        "Files with coordinates missing SDC location of creation (53° N, 3° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Three_Graces_-_Liverpool_Waterfront_-_Royal_Liver,_Cunard_and_Port_of_Liverpool_Buildings_-_panoramic_(10730608696).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/The_Three_Graces_-_Liverpool_Waterfront_-_Royal_Liver%2C_Cunard_and_Port_of_Liverpool_Buildings_-_panoramic_%2810730608696%29.jpg/1280px-The_Three_Graces_-_Liverpool_Waterfront_-_Royal_Liver%2C_Cunard_and_Port_of_Liverpool_Buildings_-_panoramic_%2810730608696%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6913,
+      "hauteur": 3235
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Weathered window and rose hip bush, Rerik-West, 2026-09-07.jpg",
+      "description": "Vue détaillée d’un ancien bâtiment résidentiel en ruine de la cité-jardin historique de Rerik , dans le quartier de Rerik-West , sur la péninsule de Wustrow , en Mecklembourg-Poméranie-Occidentale, en Allemagne. On distingue une fenêtre en bois altérée par les intempéries, aux vitres brisées, un enduit écaillé laissant apparaître la maçonnerie, un vestige de balcon délabré ainsi qu’un rosier rugueux ( Rosa rugosa ) portant des cynorrhodons rouges. La photographie a été prise lors d’une visite exceptionnellement autorisée par le propriétaire, Anno August Jagdfeld, sur ce site habituellement ina",
+      "categories": [
+        "Derelict houses in Germany",
+        "Broken windows in Germany",
+        "Taken with Nikon D3300",
+        "Brickwork details",
+        "Wooden windows in Germany",
+        "Self-published work",
+        "Information field template with formatting",
+        "Plants on balconies in Germany",
+        "Rosa rugosa in September",
+        "Evening in Mecklenburg-Vorpommern",
+        "Photographs by Radomianin",
+        "Balconies in Landkreis Rostock",
+        "2026 in Landkreis Rostock",
+        "Cross windows in Germany",
+        "Plastered facades in Germany",
+        "Rosa rugosa in Germany (fruit)",
+        "Window hinges",
+        "Rerik-West",
+        "Summer 2026 in Mecklenburg-Vorpommern",
+        "Mecklenburg-Vorpommern photographs taken on 2026-09-07"
+      ],
+      "auteur": "Radomianin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Weathered_window_and_rose_hip_bush,_Rerik-West,_2026-09-07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Weathered_window_and_rose_hip_bush%2C_Rerik-West%2C_2026-09-07.jpg/1280px-Weathered_window_and_rose_hip_bush%2C_Rerik-West%2C_2026-09-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4056,
+      "hauteur": 2785
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:The Three Graces - Liverpool Waterfront - Royal Liver, Cunard and Port of Liverpool Buildings (10716024675).jpg",
+      "description": "The Three Graces - Liverpool Waterfront. All Grade II* listed buildings (apart from the nearby modern buildings). The Three Graces: &lt;a href=\" http://www.britishlistedbuildings.co.uk/en-214151-royal-liver-building-iron-railings-and-s \" rel=\"noreferrer nofollow\"&gt;Royal Liver Building&lt;/a&gt;, &lt;a href=\" http://www.britishlistedbuildings.co.uk/en-214150-cunard-building- \" rel=\"noreferrer nofollow\"&gt;The Cunard Building&lt;/a&gt; and &lt;a href=\" http://www.britishlistedbuildings.co.uk/en-214149-port-of-liverpool-building-and-stone-bal \" rel=\"noreferrer nofollow\"&gt;The Port of Liverpool",
+      "categories": [
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Three Graces, Liverpool",
+        "Files with coordinates missing SDC location of creation (53° N, 3° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Three_Graces_-_Liverpool_Waterfront_-_Royal_Liver,_Cunard_and_Port_of_Liverpool_Buildings_(10716024675).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/The_Three_Graces_-_Liverpool_Waterfront_-_Royal_Liver%2C_Cunard_and_Port_of_Liverpool_Buildings_%2810716024675%29.jpg/1280px-The_Three_Graces_-_Liverpool_Waterfront_-_Royal_Liver%2C_Cunard_and_Port_of_Liverpool_Buildings_%2810716024675%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Savoy Theatre - Church Street, Monmouth - lantern (18535373294).jpg",
+      "description": "A look around Monmouth in Monmouthshire - the county town of the county. Square-shaped metal lantern, Savoy Theatre facade on Church street in Monmouth, Wales. The shops on Church Street in Monmouth. The Savoy Theatre is at the end of this street. The Savoy Theatre. Grade II* listed building. &lt;a href=\" http://www.britishlistedbuildings.co.uk/wa-2812-savoy-theatre-and-monmouth-music-box-monmo#.VYx9c0aC8Xw \" rel=\"nofollow\"&gt;Savoy Theatre and Monmouth Music Box, Monmouth&lt;/a&gt; Location In the street leading north-east out of the town square in the centre of Monmouth, Wales. History A pro",
+      "categories": [
+        "Savoy Theatre, Monmouth",
+        "Brackets (lighting device components)",
+        "Metal lanterns",
+        "Photographs by Elliott Brown",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Square-shaped lanterns",
+        "Files with coordinates missing SDC location of creation (51° N, 3° W)",
+        "Exterior wall lanterns in England",
+        "Lanterns in Wales"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Savoy_Theatre_-_Church_Street,_Monmouth_-_lantern_(18535373294).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Savoy_Theatre_-_Church_Street%2C_Monmouth_-_lantern_%2818535373294%29.jpg/1280px-Savoy_Theatre_-_Church_Street%2C_Monmouth_-_lantern_%2818535373294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3216,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Liverpool window view - Royal Liver Building & Port of Liverpool Building (10628920405).jpg",
+      "description": "View from the window at the International Slavery Museum, Albert Dock, Liverpool. The Liverpool Waterfront. It has changed so much since the days of the transatlantic slave trade ended. The three famous 20th century Pier Head buildings stand on the site of George's Dock where slave ships bound for Africa loaded their goods. The two dry docks, in front of the Great Western Railway building, were built in the 18th century, Slave ships were repaired in these docks. They are a vivid reminder of the horrors of Liverpool's slave trading, and monuments to the commercial success of 18th century Liverp",
+      "categories": [
+        "Port of Liverpool Building",
+        "Royal Liver Building",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (53° N, 3° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Liverpool_window_view_-_Royal_Liver_Building_%26_Port_of_Liverpool_Building_(10628920405).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Liverpool_window_view_-_Royal_Liver_Building_%26_Port_of_Liverpool_Building_%2810628920405%29.jpg/1280px-Liverpool_window_view_-_Royal_Liver_Building_%26_Port_of_Liverpool_Building_%2810628920405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Lands End (50824080257).jpg",
+      "description": "The Farolim de Felgueiras is a Portuguese lighthouse located at the tip of the jetty of the same name, in the parish of Foz do Douro , Oporto City . This is a tower hexagonal in masonry of granite apparent, with ten meters high. It has a red balcony and lantern, and a small annex building with plastered walls painted in white. The designation 'Molhe de Felgueiras' was attributed to it because it was built towards the Felgueiras rock, which is bordered by the West. Before deactivating, the light had a range of 9 nautical miles , emitting red lightning every 5 seconds. Porto Portugal.",
+      "categories": [
+        "CC-Zero",
+        "Douro North Mole Light",
+        "Beaches of Porto",
+        "March 2015 in Porto",
+        "Files with coordinates missing SDC location of creation",
+        "Portugal photographs taken on 2015-03-25",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Terry Kearney Flickr stream"
+      ],
+      "auteur": "Terry Kearney from liverpool, merseyside",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lands_End_(50824080257).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Lands_End_%2850824080257%29.jpg/1280px-Lands_End_%2850824080257%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4526,
+      "hauteur": 3017
+    }
+  ]
+}

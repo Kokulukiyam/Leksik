@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "poteau-metallique",
+    "terme": "le poteau métallique",
+    "categorie": "Structure",
+    "definition": "Poteau fait d'un profilé ou d'un tube d'acier, fixé en pied par une platine.",
+    "priorite": 1,
+    "requetes": [
+      "steel column base plate",
+      "poteau métallique",
+      "steel column building"
+    ],
+    "incompatibles": [
+      "poteau",
+      "profile-en-h",
+      "platine"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Plain base plates for columns (1907) (14755304656).jpg",
+      "description": "Identifier : plainbaseplatesf00dick ( find matches ) Title : Plain base plates for columns Year : 1907 ( 1900s ) Authors : Dick, Carl Rankin Subjects : Plates (Engineering) Plates, Iron and steel Theses Publisher : Contributing Library : University of Illinois Urbana-Champaign Digitizing Sponsor : University of Illinois Urbana-Champaign View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: &d w/fh i^cre./rr&.f",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 26 October 2015",
+        "Plain base plates for columns (1907)"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14755304656).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Plain_base_plates_for_columns_%281907%29_%2814755304656%29.jpg/1280px-Plain_base_plates_for_columns_%281907%29_%2814755304656%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2023,
+      "hauteur": 1973
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Plain base plates for columns (1907) (14591664418).jpg",
+      "description": "Identifier : plainbaseplatesf00dick ( find matches ) Title : Plain base plates for columns Year : 1907 ( 1900s ) Authors : Dick, Carl Rankin Subjects : Plates (Engineering) Plates, Iron and steel Theses Publisher : Contributing Library : University of Illinois Urbana-Champaign Digitizing Sponsor : University of Illinois Urbana-Champaign View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: CAST I/FON OCTAGONAL",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 26 October 2015",
+        "Plain base plates for columns (1907)"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14591664418).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Plain_base_plates_for_columns_%281907%29_%2814591664418%29.jpg/1280px-Plain_base_plates_for_columns_%281907%29_%2814591664418%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2033,
+      "hauteur": 1991
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Plain base plates for columns (1907) (14591592220).jpg",
+      "description": "Identifier : plainbaseplatesf00dick ( find matches ) Title : Plain base plates for columns Year : 1907 ( 1900s ) Authors : Dick, Carl Rankin Subjects : Plates (Engineering) Plates, Iron and steel Theses Publisher : Contributing Library : University of Illinois Urbana-Champaign Digitizing Sponsor : University of Illinois Urbana-Champaign View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: A 3 CA5T I170N(70UNI",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 26 October 2015",
+        "Plain base plates for columns (1907)",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14591592220).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Plain_base_plates_for_columns_%281907%29_%2814591592220%29.jpg/1280px-Plain_base_plates_for_columns_%281907%29_%2814591592220%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2014,
+      "hauteur": 1960
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Plain base plates for columns (1907) (14778305555).jpg",
+      "description": "Identifier : plainbaseplatesf00dick ( find matches ) Title : Plain base plates for columns Year : 1907 ( 1900s ) Authors : Dick, Carl Rankin Subjects : Plates (Engineering) Plates, Iron and steel Theses Publisher : Contributing Library : University of Illinois Urbana-Champaign Digitizing Sponsor : University of Illinois Urbana-Champaign View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: ' Text Appearing Aft",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Flickr images missing SDC creator",
+        "Plain base plates for columns (1907)",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Dick, Carl Rankin",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14778305555).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Plain_base_plates_for_columns_%281907%29_%2814778305555%29.jpg/1280px-Plain_base_plates_for_columns_%281907%29_%2814778305555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3520,
+      "hauteur": 2512
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Plain base plates for columns (1907) (14755302186).jpg",
+      "description": "Identifier : plainbaseplatesf00dick ( find matches ) Title : Plain base plates for columns Year : 1907 ( 1900s ) Authors : Dick, Carl Rankin Subjects : Plates (Engineering) Plates, Iron and steel Theses Publisher : Contributing Library : University of Illinois Urbana-Champaign Digitizing Sponsor : University of Illinois Urbana-Champaign View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: ( Text Appearing Aft",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Flickr images missing SDC creator",
+        "Plain base plates for columns (1907)",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Dick, Carl Rankin",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14755302186).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Plain_base_plates_for_columns_%281907%29_%2814755302186%29.jpg/1280px-Plain_base_plates_for_columns_%281907%29_%2814755302186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3664,
+      "hauteur": 2621
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Plain base plates for columns (1907) (14591582860).jpg",
+      "description": "Identifier : plainbaseplatesf00dick ( find matches ) Title : Plain base plates for columns Year : 1907 ( 1900s ) Authors : Dick, Carl Rankin Subjects : Plates (Engineering) Plates, Iron and steel Theses Publisher : Contributing Library : University of Illinois Urbana-Champaign Digitizing Sponsor : University of Illinois Urbana-Champaign View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: ' Text Appearing Aft",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Flickr images missing SDC creator",
+        "Plain base plates for columns (1907)",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Dick, Carl Rankin",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plain_base_plates_for_columns_(1907)_(14591582860).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Plain_base_plates_for_columns_%281907%29_%2814591582860%29.jpg/1280px-Plain_base_plates_for_columns_%281907%29_%2814591582860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3408,
+      "hauteur": 2496
+    }
+  ]
+}

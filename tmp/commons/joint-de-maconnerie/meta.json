@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "joint-de-maconnerie",
+    "terme": "le joint de maçonnerie",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Couche de mortier entre deux briques, blocs ou pierres, horizontale (lit) ou verticale.",
+    "priorite": 1,
+    "requetes": [
+      "mortar joint brick wall",
+      "joint de mortier maçonnerie",
+      "mortar joints closeup"
+    ],
+    "incompatibles": [
+      "maconnerie"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Red brick wall with rude cement (Moscow).JPG",
+      "description": "Кирпичная стена",
+      "categories": [
+        "Taken with Nikon Coolpix P310",
+        "Mortar joints",
+        "Self-published work",
+        "Brick wall textures",
+        "Uploaded by Shakko/Photos",
+        "Uploaded by Shakko/Photos (buildings)"
+      ],
+      "auteur": "Shakko",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Red_brick_wall_with_rude_cement_(Moscow).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Red_brick_wall_with_rude_cement_%28Moscow%29.JPG/1280px-Red_brick_wall_with_rude_cement_%28Moscow%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:One brick among 6 other bricks, held together with mortar.JPG",
+      "description": "N1brick",
+      "categories": [
+        "Taken with Nikon D80",
+        "Building joints",
+        "Self-published work",
+        "PD-self",
+        "Brick wall close-ups showing less than 10 bricks"
+      ],
+      "auteur": "Nicolas Papastathopoulos",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:One_brick_among_6_other_bricks,_held_together_with_mortar.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/One_brick_among_6_other_bricks%2C_held_together_with_mortar.JPG/1280px-One_brick_among_6_other_bricks%2C_held_together_with_mortar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Grinding out mortar joints on comman brick wall. Right side of picture shows tuckpointing completed wall. Wall was washed after completion. Left side of picture is ibeing ground out befoe tuckpointing.jpg",
+      "description": "Completing grinding and flush tuckpointing a building in Chicago Ridge IL. Work by A-Above Tuckpointing Crete IL 60417 (708)- 672-9340",
+      "categories": [
+        "Taken with Nikon Coolpix L24",
+        "Tuckpointing",
+        "Self-published work"
+      ],
+      "auteur": "Masonry Guy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grinding_out_mortar_joints_on_comman_brick_wall._Right_side_of_picture_shows_tuckpointing_completed_wall._Wall_was_washed_after_completion._Left_side_of_picture_is_ibeing_ground_out_befoe_tuckpointing.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Grinding_out_mortar_joints_on_comman_brick_wall._Right_side_of_picture_shows_tuckpointing_completed_wall._Wall_was_washed_after_completion._Left_side_of_picture_is_ibeing_ground_out_befoe_tuckpointing.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 3240
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hamborgfuge.jpg",
+      "description": "Hamborg- eller pibestilksfuge til højre, Larslejsstræde i København",
+      "categories": [
+        "Mortar joints",
+        "Self-published work",
+        "Brick walls in Denmark",
+        "Architectural elements in Copenhagen",
+        "Brick wall textures"
+      ],
+      "auteur": "Orf3us",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hamborgfuge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Hamborgfuge.jpg/1280px-Hamborgfuge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Muro de ladrillo.jpg",
+      "description": "muro de ladrillo",
+      "categories": [
+        "Mortar joints",
+        "Self-published work",
+        "Brick wall textures"
+      ],
+      "auteur": "Pizarros",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Muro_de_ladrillo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Muro_de_ladrillo.jpg/1280px-Muro_de_ladrillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Voegwerk geknipt 1010129.jpg",
+      "description": "geknipt voegwerk",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Mortar joints",
+        "Self-published work",
+        "Brick wall textures",
+        "Brick walls in unidentified bond"
+      ],
+      "auteur": "Arend041",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Voegwerk_geknipt_1010129.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Voegwerk_geknipt_1010129.jpg/1280px-Voegwerk_geknipt_1010129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 1204
+    }
+  ]
+}

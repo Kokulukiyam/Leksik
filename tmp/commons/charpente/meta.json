@@ -1,0 +1,159 @@
+{
+  "terme": {
+    "id": "charpente",
+    "terme": "la charpente",
+    "categorie": "Toitures",
+    "definition": "Ossature en bois ou en métal qui porte la couverture d'un toit.",
+    "priorite": 1,
+    "requetes": [
+      "roof timber framing construction",
+      "charpente toit",
+      "roof structure trusses"
+    ],
+    "incompatibles": [
+      "ferme"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Timber roof truss, roof construction, town hall Duderstadt 02.jpg",
+      "description": "Zimmermannskunst, Dachstuhl im Rathaus Duderstadt",
+      "categories": [
+        "Roof trusses in Germany",
+        "Interior of Rathaus Duderstadt",
+        "Self-published work",
+        "Timber framing in Duderstadt"
+      ],
+      "auteur": "Nemracc",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Timber_roof_truss,_roof_construction,_town_hall_Duderstadt_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Timber_roof_truss%2C_roof_construction%2C_town_hall_Duderstadt_02.jpg/1280px-Timber_roof_truss%2C_roof_construction%2C_town_hall_Duderstadt_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3565,
+      "hauteur": 2850
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Roof Timbers - geograph.org.uk - 1740919.jpg",
+      "description": "Roof Timbers. Detail showing the roof construction in the disused barn, also featured in this square 1740674 .",
+      "categories": [
+        "Taken with Pentax K200D",
+        "Images from Geograph Britain and Ireland",
+        "Information field template with formatting",
+        "United Kingdom photographs taken on 2010-03-07",
+        "Timber framing in Warwickshire",
+        "Images by Dominic Cropper"
+      ],
+      "auteur": "Dominic Cropper",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_Timbers_-_geograph.org.uk_-_1740919.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Roof_Timbers_-_geograph.org.uk_-_1740919.jpg/1280px-Roof_Timbers_-_geograph.org.uk_-_1740919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Thatched-roof villa in the Maldive Islands.jpg",
+      "description": "Thatched roof houses. Part of a resort on Landaa Giraavaru, Maldives .",
+      "categories": [
+        "Taken with Nikon D2Xs",
+        "Attribution only license",
+        "Self-published work",
+        "Piers in the Maldives",
+        "Information field template with formatting",
+        "Thatched roofs in the Maldive Islands",
+        "Stilt houses in the Maldives",
+        "All Images by User:Godot13",
+        "Jetties in the Maldives",
+        "Landaagiraavaru",
+        "Files with coordinates missing SDC location of creation",
+        "Clouds and blue sky in the Maldives",
+        "2013 User:Godot13",
+        "All photographs by User:Godot13",
+        "Quality Valued Images by User:Godot13",
+        "Maldives by User:Godot13"
+      ],
+      "auteur": "Godot13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Thatched-roof_villa_in_the_Maldive_Islands.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Thatched-roof_villa_in_the_Maldive_Islands.jpg/1280px-Thatched-roof_villa_in_the_Maldive_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4264,
+      "hauteur": 2791
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Image of roof trusses from The Circle of Mechanical Arts digitized by Google.jpg",
+      "description": "A page of illustrations of roof framing types, several types of trusses, a gambrel and reciprocal framing published in London, England in 1813 for use in Wikipedia Timber framing or Timber roof truss",
+      "categories": [
+        "Gambrels",
+        "PD-old-70-expired",
+        "Roof construction",
+        "PD US expired",
+        "CC-PD-Mark",
+        "Timber framing in art",
+        "PD-old missing SDC copyright status",
+        "PD-US missing SDC copyright status",
+        "Timber framing techniques",
+        "Diagrams about trusses"
+      ],
+      "auteur": "Thomas Martin et. al.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Image_of_roof_trusses_from_The_Circle_of_Mechanical_Arts_digitized_by_Google.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Image_of_roof_trusses_from_The_Circle_of_Mechanical_Arts_digitized_by_Google.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1252,
+      "hauteur": 1706
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bamboo Forest, Arashiyama, Kyoto, Japan.jpg",
+      "description": "Forêt de bambous , Arashiyama , Kyoto , Japon . Focus stacking à partir de 6 photographies (en poses longues).",
+      "categories": [
+        "Sagano Bamboo forest",
+        "Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM",
+        "Self-published work",
+        "Unidentified Bambusoideae",
+        "Long exposure photographs of Japan",
+        "Focus stacking images of plants",
+        "Exposure time 6 sec",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures by Basile Morin",
+        "Created with Helicon Focus",
+        "Featured pictures of Kyoto",
+        "Photographs by Basile Morin",
+        "Featured pictures of Poales",
+        "Published photographs by Basile Morin",
+        "Kyoto photographs taken on 2019-06-10"
+      ],
+      "auteur": "Basile Morin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/1280px-Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6558,
+      "hauteur": 4372
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Thatched cottage in the sand dunes by Denmark.jpg",
+      "description": "Thatched cottage in the sand dunes by Denmark .",
+      "categories": [
+        "Taken with Nikon D300",
+        "Dunes",
+        "Self-published work",
+        "Featured pictures of Denmark",
+        "Information field template with formatting",
+        "Thatched roofs in Denmark",
+        "Sand drifting",
+        "FoP-Denmark",
+        "Sedimentology of Denmark",
+        "Featured pictures by Michael Gäbler",
+        "Photographs by Michael Gäbler"
+      ],
+      "auteur": "Michael Gäbler",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Thatched_cottage_in_the_sand_dunes_by_Denmark.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Thatched_cottage_in_the_sand_dunes_by_Denmark.jpg/1280px-Thatched_cottage_in_the_sand_dunes_by_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3368,
+      "hauteur": 2086
+    }
+  ]
+}

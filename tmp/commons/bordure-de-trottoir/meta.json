@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "bordure-de-trottoir",
+    "terme": "la bordure de trottoir",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Bloc allongé en béton ou en pierre qui borde le trottoir et marque sa différence de hauteur avec la chaussée.",
+    "priorite": 1,
+    "requetes": [
+      "curb stone",
+      "bordure de trottoir",
+      "incategory:\"Curbs\""
+    ],
+    "incompatibles": [
+      "caniveau"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Road Curb.JPG",
+      "description": "Road side curb in Dryden, Ontario.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Kerbs",
+        "Self-published work"
+      ],
+      "auteur": "Michelle Arseneault",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Road_Curb.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Road_Curb.JPG/1280px-Road_Curb.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2496,
+      "hauteur": 1664
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Curb cut for wheelchair ramp (DSC 3500).jpg",
+      "description": "Sidewalk granite curb cut for wheelchair ramp, Philadelphia PA",
+      "categories": [
+        "Sidewalks",
+        "South Philadelphia",
+        "Pedestrian crossing elements",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Tactile paving on curb cuts in New York City"
+      ],
+      "auteur": "Nick-philly",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Curb_cut_for_wheelchair_ramp_(DSC_3500).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Curb_cut_for_wheelchair_ramp_%28DSC_3500%29.jpg/1280px-Curb_cut_for_wheelchair_ramp_%28DSC_3500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Curb cut for wheelchair ramp (DSC 3616).jpg",
+      "description": "Sidewalk granite curb cut for wheelchair ramp",
+      "categories": [
+        "South Philadelphia",
+        "Pedestrian crossing elements",
+        "Self-published work",
+        "Sidewalks in the United States",
+        "Files with coordinates missing SDC location of creation",
+        "Unmarked pedestrian crossings in the United States",
+        "Curb cuts in the United States"
+      ],
+      "auteur": "Nick-philly",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Curb_cut_for_wheelchair_ramp_(DSC_3616).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Curb_cut_for_wheelchair_ramp_%28DSC_3616%29.jpg/1280px-Curb_cut_for_wheelchair_ramp_%28DSC_3616%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Curb Mulch.jpg",
+      "description": "KODAK Digital Still Camera",
+      "categories": [
+        "Self-published work",
+        "All media needing categories as of 2026",
+        "Media needing categories as of 26 September 2026"
+      ],
+      "auteur": "WXchaser",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Curb_Mulch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Curb_Mulch.jpg/1280px-Curb_Mulch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Curb alert.jpg",
+      "description": "A chair on the side of the road, often referred to as a curb alert.",
+      "categories": [
+        "CC-Zero",
+        "Chairs",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Punker1999",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Curb_alert.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Curb_alert.jpg/1280px-Curb_alert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:The association Orthotricho-Grimmietum, growing on a curb.jpg",
+      "description": "Een epilitische mossenvegetatie van de muisjesmos-associatie ( Orthotricho-Grimmietum ), groeiend op een stoeprand.",
+      "categories": [
+        "Chaenomeles (cultivars)",
+        "CC-Zero",
+        "Kerbs",
+        "Orthotricho-Grimmietum",
+        "Self-published work",
+        "Drainage pits",
+        "Files with coordinates missing SDC location of creation (51° N, 5° E)"
+      ],
+      "auteur": "Cultureel Gelderland",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_association_Orthotricho-Grimmietum,_growing_on_a_curb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_association_Orthotricho-Grimmietum%2C_growing_on_a_curb.jpg/1280px-The_association_Orthotricho-Grimmietum%2C_growing_on_a_curb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

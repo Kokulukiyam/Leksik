@@ -1,0 +1,121 @@
+{
+  "terme": {
+    "id": "marteau",
+    "terme": "le marteau",
+    "categorie": "Chantier et outillage",
+    "definition": "Outil formé d'une tête métallique fixée au bout d'un manche, pour frapper et enfoncer des clous.",
+    "priorite": 1,
+    "requetes": [
+      "claw hammer",
+      "marteau",
+      "incategory:\"Hammers\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Claw hammer 2.jpg",
+      "description": "Claw haemr with a black handle",
+      "categories": [
+        "Claw hammers",
+        "Self-published work"
+      ],
+      "auteur": "HutheMeow",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Claw_hammer_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Claw_hammer_2.jpg/1280px-Claw_hammer_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2254,
+      "hauteur": 4084
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Claw hammer-1.jpg",
+      "description": "Claw hammer",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix 5700",
+        "License migration redundant",
+        "Claw hammers",
+        "Self-published work"
+      ],
+      "auteur": "Shakespeare at en.wikipedia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Claw_hammer-1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Claw_hammer-1.jpg/1280px-Claw_hammer-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Claw hammer.JPG",
+      "description": "claw hammer",
+      "categories": [
+        "Claw hammers",
+        "Self-published work",
+        "People using hammers",
+        "Removing metal nails"
+      ],
+      "auteur": "ایران پتک",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Claw_hammer.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Claw_hammer.JPG/1280px-Claw_hammer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 5616
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Claw-hammer.jpg",
+      "description": "A standard household claw hammer.",
+      "categories": [
+        "Taken with Sony DSLR-A700",
+        "Images with opaque backgrounds",
+        "Claw hammers",
+        "Self-published work",
+        "PD-self",
+        "Evan Amos"
+      ],
+      "auteur": "Evan-Amos",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Claw-hammer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Claw-hammer.jpg/1280px-Claw-hammer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4240,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Magnum 25116 claw hammer.jpg",
+      "description": "Magnum 25116 claw hammer.",
+      "categories": [
+        "Taken with OnePlus 3",
+        "Claw hammers",
+        "Photographs taken on 2016-09-13"
+      ],
+      "auteur": "Santeri Viinamäki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Magnum_25116_claw_hammer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Magnum_25116_claw_hammer.jpg/1280px-Magnum_25116_claw_hammer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4640,
+      "hauteur": 3480
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Stanley graphite claw hammer.jpg",
+      "description": "A 16 oz. Stanley claw hammer . Steel head, graphite handle and core.",
+      "categories": [
+        "GFDL",
+        "Taken with iPhone 5",
+        "Stanley Hand Tools",
+        "License migration redundant",
+        "Claw hammers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "J.C. Fields ( Talk ) ( Uploads )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stanley_graphite_claw_hammer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Stanley_graphite_claw_hammer.jpg/1280px-Stanley_graphite_claw_hammer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 3264
+    }
+  ]
+}

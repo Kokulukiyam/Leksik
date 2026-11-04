@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "mur-rideau",
+    "terme": "le mur-rideau",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade légère entièrement vitrée, faite d'une ossature de montants et traverses accrochée devant la structure du bâtiment.",
+    "priorite": 1,
+    "requetes": [
+      "glass curtain wall office building",
+      "façade mur-rideau vitrée",
+      "incategory:\"Curtain walls\""
+    ],
+    "incompatibles": [
+      "facade",
+      "meneau"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hallidie Building in San Francisco dllu.jpg",
+      "description": "The Hallidie Building is an office building in San Francisco , known for being one of the first American buildings covered in glass curtain walls.",
+      "categories": [
+        "Hallidie Building",
+        "Self-published work"
+      ],
+      "auteur": "Dllu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hallidie_Building_in_San_Francisco_dllu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Hallidie_Building_in_San_Francisco_dllu.jpg/1280px-Hallidie_Building_in_San_Francisco_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7928,
+      "hauteur": 6107
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Illuminated white and purple facade of the office building Rohm Semiconductor in Kyoto, Japan.jpg",
+      "description": "La façade éclairée blanche et violette de l'immeuble de bureaux Rohm Semiconductor , fabricant japonais de pièces électroniques, à Shimogyo-ku , Kyoto , Japon .",
+      "categories": [
+        "Taken with Canon EOS 5D Mark IV and Canon EF 11-24mm F4L USM",
+        "Rohm Co.",
+        "Architecture of the Heisei era",
+        "Self-published work",
+        "Featured pictures of buildings",
+        "Featured night photography",
+        "Black, purple, white",
+        "White lighting",
+        "Glass facades in Japan",
+        "Purple and white buildings",
+        "Buildings illuminated blue",
+        "Buildings illuminated purple",
+        "Purple facades",
+        "Blue and white facades",
+        "Window reflections in Japan",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures by Basile Morin",
+        "Featured pictures of Kyoto",
+        "Photographs by Basile Morin",
+        "Office buildings in Shimogyo-ku, Kyoto",
+        "Illuminated buildings in Kyoto",
+        "11x23 arrays",
+        "Glass curtain walls in Japan"
+      ],
+      "auteur": "Basile Morin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto,_Japan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg/1280px-Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4181,
+      "hauteur": 3136
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Hallidie Building, San Francisco (1) 2023-07-18.jpg",
+      "description": "Hallidie Building, San Francisco",
+      "categories": [
+        "Hallidie Building",
+        "Self-published work",
+        "Photographs by the wub",
+        "July 2023 in San Francisco",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2023-07-18"
+      ],
+      "auteur": "The wub",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hallidie_Building,_San_Francisco_(1)_2023-07-18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Hallidie_Building%2C_San_Francisco_%281%29_2023-07-18.jpg/1280px-Hallidie_Building%2C_San_Francisco_%281%29_2023-07-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3830,
+      "hauteur": 3064
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hallidie Building, San Francisco (2) 2023-07-18.jpg",
+      "description": "Hallidie Building, San Francisco",
+      "categories": [
+        "Hallidie Building",
+        "Self-published work",
+        "Photographs by the wub",
+        "July 2023 in San Francisco",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2023-07-18"
+      ],
+      "auteur": "The wub",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hallidie_Building,_San_Francisco_(2)_2023-07-18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hallidie_Building%2C_San_Francisco_%282%29_2023-07-18.jpg/1280px-Hallidie_Building%2C_San_Francisco_%282%29_2023-07-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3076,
+      "hauteur": 3076
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Hallidie Building 2012-09-06 19-20-53.jpg",
+      "description": "Hallidie Building",
+      "categories": [
+        "Taken with HTC One V",
+        "Hallidie Building",
+        "Self-published work",
+        "National Register of Historic Places with known IDs",
+        "Images from Wiki Loves Monuments 2012",
+        "Images from Wiki Loves Monuments 2012 in the United States",
+        "Uploaded with Android WLM App",
+        "WLM 2012 United States reviewed"
+      ],
+      "auteur": "mutante",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hallidie_Building_2012-09-06_19-20-53.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Hallidie_Building_2012-09-06_19-20-53.jpg/1280px-Hallidie_Building_2012-09-06_19-20-53.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1552,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Hallidie Building 04.jpg",
+      "description": "130 Sutter St",
+      "categories": [
+        "Hallidie Building",
+        "Self-published work"
+      ],
+      "auteur": "Stilfehler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hallidie_Building_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hallidie_Building_04.jpg/1280px-Hallidie_Building_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

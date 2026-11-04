@@ -1,0 +1,18 @@
+{
+  "terme": {
+    "id": "bac-acier",
+    "terme": "le bac acier",
+    "categorie": "Toitures",
+    "definition": "Tôle d'acier nervurée à grandes ondes trapézoïdales, posée sur pannes en couverture de toiture.",
+    "priorite": 1,
+    "requetes": [
+      "trapezoidal steel roof sheet",
+      "toiture bac acier",
+      "corrugated trapezoidal metal roofing"
+    ],
+    "incompatibles": [
+      "tole-ondulee"
+    ]
+  },
+  "candidats": []
+}

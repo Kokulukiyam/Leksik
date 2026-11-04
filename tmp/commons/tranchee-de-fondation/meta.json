@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "tranchee-de-fondation",
+    "terme": "la tranchée de fondation",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Fouille longue et étroite creusée selon le tracé des murs pour recevoir les semelles filantes.",
+    "priorite": 1,
+    "requetes": [
+      "foundation trench construction",
+      "tranchée de fondation",
+      "trench footing excavation"
+    ],
+    "incompatibles": [
+      "fouille"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Foundation trench - geograph.org.uk - 4381504.jpg",
+      "description": "Foundation trench",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Wellesbourne and Walton"
+      ],
+      "auteur": "David P Howard",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Foundation_trench_-_geograph.org.uk_-_4381504.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Foundation_trench_-_geograph.org.uk_-_4381504.jpg/1280px-Foundation_trench_-_geograph.org.uk_-_4381504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Flood wall D foundation trench on the south side of the Shimna River - geograph.org.uk - 7076394.jpg",
+      "description": "Flood wall D foundation trench on the south side of the Shimna River",
+      "categories": [
+        "Newry, Mourne and Down",
+        "Images from Geograph Britain and Ireland"
+      ],
+      "auteur": "Eric Jones",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flood_wall_D_foundation_trench_on_the_south_side_of_the_Shimna_River_-_geograph.org.uk_-_7076394.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Flood_wall_D_foundation_trench_on_the_south_side_of_the_Shimna_River_-_geograph.org.uk_-_7076394.jpg/1280px-Flood_wall_D_foundation_trench_on_the_south_side_of_the_Shimna_River_-_geograph.org.uk_-_7076394.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:\"Trench at upstream toe of Boulder Dam foundation, looking toward Nevada side from top of Arizona bench nearly on... - NARA - 293905.jpg",
+      "description": "Scope and content: Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.",
+      "categories": [
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "PD USBR",
+        "Template Unknown (author)",
+        "US National Archives series: Photograph albums, compiled 1903 - 1972",
+        "US National Archives location: other",
+        "Construction of the Hoover Dam"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Trench_at_upstream_toe_of_Boulder_Dam_foundation,_looking_toward_Nevada_side_from_top_of_Arizona_bench_nearly_on..._-_NARA_-_293905.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%22Trench_at_upstream_toe_of_Boulder_Dam_foundation%2C_looking_toward_Nevada_side_from_top_of_Arizona_bench_nearly_on..._-_NARA_-_293905.jpg/1280px-%22Trench_at_upstream_toe_of_Boulder_Dam_foundation%2C_looking_toward_Nevada_side_from_top_of_Arizona_bench_nearly_on..._-_NARA_-_293905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2099,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2008-08-28 Wacker RT trench roller.jpg",
+      "description": "A Wacker RT-series vibratory trench roller at a construction site in Durham, North Carolina .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Trench rollers",
+        "Wacker vehicles",
+        "Files by User:Specious"
+      ],
+      "auteur": "Ildar Sagdejev ( Specious )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-08-28_Wacker_RT_trench_roller.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2008-08-28_Wacker_RT_trench_roller.jpg/1280px-2008-08-28_Wacker_RT_trench_roller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2008-08-28 Wacker RT trench roller wheels.jpg",
+      "description": "The wheels of a Wacker RT-series vibratory trench roller at a construction site.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Metal wheels",
+        "Trench rollers",
+        "Files by User:Specious"
+      ],
+      "auteur": "Ildar Sagdejev ( Specious )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-08-28_Wacker_RT_trench_roller_wheels.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2008-08-28_Wacker_RT_trench_roller_wheels.jpg/1280px-2008-08-28_Wacker_RT_trench_roller_wheels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Kensico reservoir. General view of excavation and foundation for Kensico dam. Cut-off trench being excavated at right. Contract 9. December 31, 1912 (NYPL b13814376-435379).jpg",
+      "description": "* A collection of separate photographs accompanied by a typewritten, classified list of titles. Acc. Hdq. S. 851",
+      "categories": [
+        "Images uploaded by Fæ",
+        "PD-scan (PD-US-expired)",
+        "PD US expired",
+        "Images from the New York Public Library",
+        "Media needing category review as of 31 October 2016",
+        "NYPL Science, Industry and Business Library: General Collection",
+        "PD-US missing SDC copyright status",
+        "Photographs of the Catskill water supply system in process of construction"
+      ],
+      "auteur": "Scan by NYPL",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kensico_reservoir._General_view_of_excavation_and_foundation_for_Kensico_dam._Cut-off_trench_being_excavated_at_right._Contract_9._December_31,_1912_(NYPL_b13814376-435379).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Kensico_reservoir._General_view_of_excavation_and_foundation_for_Kensico_dam._Cut-off_trench_being_excavated_at_right._Contract_9._December_31%2C_1912_%28NYPL_b13814376-435379%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3749,
+      "hauteur": 2443
+    }
+  ]
+}

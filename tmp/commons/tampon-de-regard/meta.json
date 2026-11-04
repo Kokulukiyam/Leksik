@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "tampon-de-regard",
+    "terme": "le tampon de regard",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Couvercle rond ou carré, en fonte ou en béton, qui ferme un regard au niveau du sol.",
+    "priorite": 1,
+    "requetes": [
+      "manhole cover",
+      "tampon fonte",
+      "incategory:\"Manhole covers\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Люк-менажница на территории Мечниковской больницы 12.jpg",
+      "description": "Manhole cover with the inscription ДРЕНАЖЪ (DRAINAGE), made in Russian pre-revolutionary spelling, on the territory of the Peter the Great Hospital in St. Petersburg",
+      "categories": [
+        "Peter the Great hospital",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures taken with mobile phones",
+        "Compartment manhole covers in Saint Petersburg",
+        "Square photos of manhole covers",
+        "Photographs taken by Anastasiya Lvova in 2024",
+        "Featured images by Lvova"
+      ],
+      "auteur": "Anastasia Lvova",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9B%D1%8E%D0%BA-%D0%BC%D0%B5%D0%BD%D0%B0%D0%B6%D0%BD%D0%B8%D1%86%D0%B0_%D0%BD%D0%B0_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%9C%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8B_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%D0%9B%D1%8E%D0%BA-%D0%BC%D0%B5%D0%BD%D0%B0%D0%B6%D0%BD%D0%B8%D1%86%D0%B0_%D0%BD%D0%B0_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%9C%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8B_12.jpg/1280px-%D0%9B%D1%8E%D0%BA-%D0%BC%D0%B5%D0%BD%D0%B0%D0%B6%D0%BD%D0%B8%D1%86%D0%B0_%D0%BD%D0%B0_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%9C%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8B_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2950,
+      "hauteur": 2996
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Manhole cover, Berlin (IMG 20190806 094407).jpg",
+      "description": "Manhole cover by VEB Kanalguss Lugau in Berlin",
+      "categories": [
+        "Robert-Koch-Platz (Berlin-Mitte)",
+        "GFDL",
+        "Taken with Xiaomi Mi A2 Lite",
+        "License migration redundant",
+        "Self-published work",
+        "Manhole covers in Berlin",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Manhole covers by VEB Kanalguss Lugau"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Manhole_cover,_Berlin_(IMG_20190806_094407).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Manhole_cover%2C_Berlin_%28IMG_20190806_094407%29.jpg/1280px-Manhole_cover%2C_Berlin_%28IMG_20190806_094407%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2017-09-14 (107) Manhole cover by Wallner & Neubert at Bahnhof Rekawinkel.jpg",
+      "description": "Manhole cover by Wallner & Neubert at train station Rekawinkel",
+      "categories": [
+        "Self-published work",
+        "Taken with Canon PowerShot SX50 HS by User:GT1976",
+        "September 2017 in Lower Austria",
+        "Austria photographs taken on 2017-09-14",
+        "Manhole covers in Lower Austria",
+        "Manhole covers by Wallner & Neubert",
+        "Files by User:GT1976 Manhole covers",
+        "Files by User:GT1976 2017-09-14 Bahnhof Rekawinkel",
+        "Files by User:GT1976 in Pressbaum",
+        "Park and Ride Bahnhof Rekawinkel",
+        "2017 at Bahnhof Rekawinkel"
+      ],
+      "auteur": "GT1976",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017-09-14_(107)_Manhole_cover_by_Wallner_%26_Neubert_at_Bahnhof_Rekawinkel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2017-09-14_%28107%29_Manhole_cover_by_Wallner_%26_Neubert_at_Bahnhof_Rekawinkel.jpg/1280px-2017-09-14_%28107%29_Manhole_cover_by_Wallner_%26_Neubert_at_Bahnhof_Rekawinkel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2018-02-13 (605) Manhole cover by Meier Guss at Bahnhof Mauthausen.jpg",
+      "description": "Manhole cover by Meier Guss at Bahnhof Mauthausen",
+      "categories": [
+        "Bahnhof Mauthausen",
+        "Self-published work",
+        "Media from WikiDaheim in Austria check done",
+        "Taken with Canon PowerShot SX50 HS by User:GT1976",
+        "Austria photographs taken on 2018-02-13",
+        "February 2018 in Upper Austria",
+        "Media from WikiDaheim 2018 in Austria/Unspecified",
+        "February 2018 in rail transport in Austria",
+        "Manhole covers in Upper Austria",
+        "Tactile paving in Upper Austria",
+        "Uploaded via Campaign:WikiDaheim-at",
+        "Manhole covers by Meier Guss",
+        "Media from WikiDaheim 2018 in Austria/all",
+        "Files by User:GT1976 Manhole covers",
+        "Files by User:GT1976 2018-02-13 Bahnhof Mauthausen",
+        "Files by User:GT1976 in Mauthausen"
+      ],
+      "auteur": "GT1976",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-02-13_(605)_Manhole_cover_by_Meier_Guss_at_Bahnhof_Mauthausen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2018-02-13_%28605%29_Manhole_cover_by_Meier_Guss_at_Bahnhof_Mauthausen.jpg/1280px-2018-02-13_%28605%29_Manhole_cover_by_Meier_Guss_at_Bahnhof_Mauthausen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Manhole cover in Viborg Danemark.jpg",
+      "description": "Plaque d'égout à Viborg au Danemark.",
+      "categories": [
+        "Taken with Sony ILCE-7",
+        "CC-Zero",
+        "Taken with Sony FE 24-240mm F3.5-6.3 OSS",
+        "Self-published work",
+        "Manhole covers in Denmark",
+        "Files with coordinates missing SDC location of creation",
+        "Denmark photographs taken on 2016-02-22",
+        "Coats of arms on manhole covers in Denmark",
+        "Coats of arms of Viborg"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Manhole_cover_in_Viborg_Danemark.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Manhole_cover_in_Viborg_Danemark.jpg/1280px-Manhole_cover_in_Viborg_Danemark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3952,
+      "hauteur": 3827
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A manhole cover 19.09.24 in Istanbul 10.jpg",
+      "description": "Канализационный люк",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Square manhole covers",
+        "Manhole covers for İBB",
+        "Wikimedia CEE Meeting 2024 photos — Learning day (Thursday, 19 September)",
+        "Photographs taken by Anastasiya Lvova in 2024"
+      ],
+      "auteur": "Anastasia Lvova",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_manhole_cover_19.09.24_in_Istanbul_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/A_manhole_cover_19.09.24_in_Istanbul_10.jpg/1280px-A_manhole_cover_19.09.24_in_Istanbul_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2874,
+      "hauteur": 3020
+    }
+  ]
+}

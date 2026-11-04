@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "camion-benne",
+    "terme": "le camion-benne",
+    "categorie": "Chantier et outillage",
+    "definition": "Camion dont la caisse basculante déverse sable, gravier ou déblais.",
+    "priorite": 1,
+    "requetes": [
+      "dump truck",
+      "camion-benne",
+      "tipper truck"
+    ],
+    "incompatibles": [
+      "tombereau"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mercedes-Benz Arocs - dump truck version (1).JPG",
+      "description": "The new Mercedes-Benz Arocs heavy-duty truck from 2013.",
+      "categories": [
+        "Self-published work",
+        "Files by User:High Contrast",
+        "Dump rigid trucks",
+        "Orange Mercedes-Benz trucks",
+        "Eight-wheeled trucks",
+        "Mercedes-Benz eight-wheeled trucks",
+        "Mercedes-Benz dump trucks",
+        "Meiller-Kipper",
+        "Europäisches Trucker-Treffen Passau, 2013",
+        "Mercedes-Benz Arocs 3245"
+      ],
+      "auteur": "High Contrast",
+      "licence": "CC BY 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Arocs_-_dump_truck_version_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Mercedes-Benz_Arocs_-_dump_truck_version_%281%29.JPG/1280px-Mercedes-Benz_Arocs_-_dump_truck_version_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4200,
+      "hauteur": 2930
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Logan Lake Mining Dump Truck 2.jpg",
+      "description": "Wabco Haulpak 3200B Electric haul truck Engine : 645cid x 12 cylinders - 2 stroke - 2500 Hp H: 19' 11\" W: 24' 1\" L: 54' 3\" Gross Weight: 844,600 lbs Payload: 470,000 lbs",
+      "categories": [
+        "Taken with Minolta Dimage Z1",
+        "Logan Lake, British Columbia",
+        "Twin tires",
+        "Flickr images reviewed by FlickreviewR",
+        "WABCO 3200",
+        "Dump trucks in Canada",
+        "Files with coordinates missing SDC location of creation",
+        "Canada photographs taken on 2007-05-21",
+        "Six-wheeled rigid trucks",
+        "White Haulpak haul trucks",
+        "Photographs by dave 7",
+        "Tandem axles"
+      ],
+      "auteur": "dave_7 from Lethbridge, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Logan_Lake_Mining_Dump_Truck_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Logan_Lake_Mining_Dump_Truck_2.jpg/1280px-Logan_Lake_Mining_Dump_Truck_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Logan Lake Mining Dump Truck 1.jpg",
+      "description": "Wabco Haulpak 3200B Electric haul truck Engine : 645cid x 12 cylinders - 2 stroke - 2500 Hp H: 19' 11\" W: 24' 1\" L: 54' 3\" Gross Weight: 844,600 lbs Payload: 470,000 lbs",
+      "categories": [
+        "Taken with Minolta Dimage Z1",
+        "Logan Lake, British Columbia",
+        "Flickr images reviewed by FlickreviewR",
+        "WABCO 3200",
+        "Dump trucks in Canada",
+        "Files with coordinates missing SDC location of creation",
+        "Number 50 on trucks",
+        "Red number 50",
+        "Canada photographs taken on 2007-05-21",
+        "May 2007 in British Columbia",
+        "Six-wheeled rigid trucks",
+        "White Haulpak haul trucks",
+        "Nissan Quest (third generation)",
+        "Photographs by dave 7"
+      ],
+      "auteur": "dave_7 from Lethbridge, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Logan_Lake_Mining_Dump_Truck_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Logan_Lake_Mining_Dump_Truck_1.jpg/1280px-Logan_Lake_Mining_Dump_Truck_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Howo Sinotruk Mining Dump Truck (Mining Indonesia 2026).jpg",
+      "description": "Seen in Mining Indonesia 2026 in JIEXPO Kemayoran, Central Jakarta, Indonesia.",
+      "categories": [
+        "Self-published work",
+        "Dump trucks in Indonesia",
+        "Mining vehicles",
+        "Yellow HOWO trucks",
+        "Indonesia photographs taken on 2026-09-10",
+        "Mining Indonesia 2026",
+        "HOWO haul trucks"
+      ],
+      "auteur": "Sulthan Naufal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Howo_Sinotruk_Mining_Dump_Truck_(Mining_Indonesia_2026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Howo_Sinotruk_Mining_Dump_Truck_%28Mining_Indonesia_2026%29.jpg/1280px-Howo_Sinotruk_Mining_Dump_Truck_%28Mining_Indonesia_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Eastern Washington Truck.jpg",
+      "description": "Truck in front of a wheat field near Waterville",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 350D",
+        "U.S. Route 2 in Washington (state)",
+        "Eastern Washington",
+        "License migration completed",
+        "United States photographs taken on 2007-09-02",
+        "Dump trucks in Washington (state)",
+        "Dump trucks in the United States",
+        "Dump half trailer drawbar trucks"
+      ],
+      "auteur": "Ikiwaner ( d · contributions )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eastern_Washington_Truck.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Eastern_Washington_Truck.jpg/1280px-Eastern_Washington_Truck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3300,
+      "hauteur": 2200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Lovol LT90 Rigid Dump Truck (Mining Indonesia 2026).jpg",
+      "description": "The Lovol LT90 is a heavy-duty mining dump truck specifically designed to operate in extreme terrain.",
+      "categories": [
+        "Self-published work",
+        "Trucks in Indonesia",
+        "Dump trucks in Indonesia",
+        "Six-wheeled dump trucks",
+        "Off-road dump trucks",
+        "Indonesia photographs taken on 2026-09-10",
+        "Mining Indonesia 2026",
+        "Lovol haul trucks"
+      ],
+      "auteur": "Sulthan Naufal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lovol_LT90_Rigid_Dump_Truck_(Mining_Indonesia_2026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Lovol_LT90_Rigid_Dump_Truck_%28Mining_Indonesia_2026%29.jpg/1280px-Lovol_LT90_Rigid_Dump_Truck_%28Mining_Indonesia_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    }
+  ]
+}

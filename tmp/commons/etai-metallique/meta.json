@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "etai-metallique",
+    "terme": "l'étai métallique",
+    "categorie": "Chantier et outillage",
+    "definition": "Étai télescopique en tube d'acier, réglable en hauteur par une broche et un écrou, avec une platine à chaque bout.",
+    "priorite": 1,
+    "requetes": [
+      "steel prop adjustable",
+      "étai métallique tirant poussant",
+      "acrow prop"
+    ],
+    "incompatibles": [
+      "etai",
+      "tour-d-etaiement"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Acrow props support failing building at Armadale station.jpg",
+      "description": "Permanent fence now in place around the Acrow props used to support the kiosk located above Armadale station platform 1",
+      "categories": [
+        "Armadale railway station, Melbourne",
+        "Self-published work"
+      ],
+      "auteur": "Wongm",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acrow_props_support_failing_building_at_Armadale_station.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Acrow_props_support_failing_building_at_Armadale_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 683
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Jack Post and Christian O'Connell.jpg",
+      "description": "Jack Post and Christian O'Connell in the Gold 104.3 studios in Melbourne",
+      "categories": [
+        "Christian O'Connell",
+        "Self-published work",
+        "Jack Post"
+      ],
+      "auteur": "BungalowUnit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jack_Post_and_Christian_O%27Connell.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Jack_Post_and_Christian_O%27Connell.jpg/1280px-Jack_Post_and_Christian_O%27Connell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4835,
+      "hauteur": 3223
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Report of draft gear tests, United State Railroad administration, Inspection and test section; (1921) (14573106147).jpg",
+      "description": "Identifier : reportofdraftgea00unit ( find matches ) Title : Report of draft gear tests, United State Railroad administration, Inspection and test section; Year : 1921 ( 1920s ) Authors : United States Railroad Administration Young, C. B. (from old catalog) Subjects : Draft-gear Publisher : New York, Simmons-Boardman publishing company Contributing Library : The Library of Congress Digitizing Sponsor : The Library of Congress View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in ",
+      "categories": [
+        "1921 books",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 20 September 2015"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Report_of_draft_gear_tests,_United_State_Railroad_administration,_Inspection_and_test_section;_(1921)_(14573106147).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Report_of_draft_gear_tests%2C_United_State_Railroad_administration%2C_Inspection_and_test_section%3B_%281921%29_%2814573106147%29.jpg/1280px-Report_of_draft_gear_tests%2C_United_State_Railroad_administration%2C_Inspection_and_test_section%3B_%281921%29_%2814573106147%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2636,
+      "hauteur": 1132
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Electric railway journal (1921) (14759854092).jpg",
+      "description": "Identifier : electricrailway571921newy ( find matches ) Title : Electric railway journal Year : 1908 ( 1900s ) Authors : Subjects : Electric railroads Publisher : (New York) McGraw Hill Pub. Co Contributing Library : Smithsonian Libraries Digitizing Sponsor : Smithsonian Libraries View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: s.These are of the Henry type, all metal with white enam-eled hand grips, and",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 17 October 2015",
+        "Electric Railway Journal (1921)"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Electric_railway_journal_(1921)_(14759854092).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Electric_railway_journal_%281921%29_%2814759854092%29.jpg/1280px-Electric_railway_journal_%281921%29_%2814759854092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2430,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Jack Post playing vinyl.jpg",
+      "description": "Jack Post playing vinyl on The Christian O'Connell Breakfast Show on Gold 104.3",
+      "categories": [
+        "Radio presenters",
+        "Self-published work"
+      ],
+      "auteur": "BungalowUnit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jack_Post_playing_vinyl.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Jack_Post_playing_vinyl.jpg/1280px-Jack_Post_playing_vinyl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5264,
+      "hauteur": 3355
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:St. Louis Post-Dispatch of St. Louis, Missouri on August 2, 1943.jpg",
+      "description": "St. Louis Post-Dispatch of St. Louis, Missouri on August 2, 1943",
+      "categories": [
+        "PD US not renewed",
+        "St. Louis Post-Dispatch",
+        "Images with extracted images",
+        "Gliders of the United States",
+        "Template Unknown (author)",
+        "PD-US missing SDC copyright status",
+        "William Dee Becker",
+        "St. Louis Post-Dispatch 1943",
+        "1943 St. Louis Lambert International Airport glider crash"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:St._Louis_Post-Dispatch_of_St._Louis,_Missouri_on_August_2,_1943.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/St._Louis_Post-Dispatch_of_St._Louis%2C_Missouri_on_August_2%2C_1943.jpg/1280px-St._Louis_Post-Dispatch_of_St._Louis%2C_Missouri_on_August_2%2C_1943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1576,
+      "hauteur": 2046
+    }
+  ]
+}

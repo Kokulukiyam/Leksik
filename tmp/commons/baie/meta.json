@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "baie",
+    "terme": "la baie",
+    "categorie": "Façade et ouvertures",
+    "definition": "Ouverture ménagée dans un mur pour une porte ou une fenêtre, considérée avec son encadrement maçonné.",
+    "priorite": 1,
+    "requetes": [
+      "window opening in masonry wall",
+      "baie ouverture mur façade",
+      "wall opening without window frame"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:15. Window Frame and Masonry Reconstruction. (23928803-983f-4ef4-9792-ac9f5e393134).jpg",
+      "description": "Two members of the preservation crew are bent over working on reconstructing the masonry walls around the half exposed window frame. There is a red scaffold in the background and a white tarp over the exposed section of the house they are working on. There is a black and white sign leaning against the white, wooden window frame that reads \"Gettysburg NMP Warfield House Laying Stone Gable North Wall PEPC 85531 8-31-20 Smith.\" Preservationists install a wooden window frame in a historic window opening which was removed during the early part of the 20th century. Work begins on reconstructing sect",
+      "categories": [
+        "PD US NPS",
+        "Media needing category review with 3 suggested categories",
+        "Photographs taken on 2020-08-31",
+        "Images from NPGallery",
+        "Media needing category review as of 13 January 2022",
+        "James Warfield House restoration"
+      ],
+      "auteur": "NPS Photo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:15._Window_Frame_and_Masonry_Reconstruction._(23928803-983f-4ef4-9792-ac9f5e393134).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/15._Window_Frame_and_Masonry_Reconstruction._%2823928803-983f-4ef4-9792-ac9f5e393134%29.jpg/1280px-15._Window_Frame_and_Masonry_Reconstruction._%2823928803-983f-4ef4-9792-ac9f5e393134%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2. North wall, first floor, infill non historic window. (bdd1af23-8c87-4672-8c8e-af51335bf7f4).jpg",
+      "description": "The modern windows have been removed to begin the masonry infill process. The inside of the house can be seen through the new opening on the wall. The modern windows have been removed to begin the masonry infill process. Keywords: Gettysburg; Gettysburg National Military Park; civil war; homes; battlefield",
+      "categories": [
+        "PD US NPS",
+        "Media needing category review with 3 suggested categories",
+        "Photographs taken on 2019-10-31",
+        "Images from NPGallery",
+        "Media needing category review as of 15 January 2022",
+        "James Warfield House restoration"
+      ],
+      "auteur": "NPS Photo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:2._North_wall,_first_floor,_infill_non_historic_window._(bdd1af23-8c87-4672-8c8e-af51335bf7f4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2._North_wall%2C_first_floor%2C_infill_non_historic_window._%28bdd1af23-8c87-4672-8c8e-af51335bf7f4%29.jpg/1280px-2._North_wall%2C_first_floor%2C_infill_non_historic_window._%28bdd1af23-8c87-4672-8c8e-af51335bf7f4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4408,
+      "hauteur": 3400
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:9. First floor, west wall, turn an existing doorway into a window. (892c478b-90c6-4886-87fb-ba5a1b0e70f5).jpg",
+      "description": "Stones have been stacked with mortar and the window opening is nearly competed. Masonry reconstructed to support remaining historic window header. The vertical red string line is used by the masons to keep edges straight and plumb. Keywords: gettysburg; gettysburg national military park; history; battlefield; civil war",
+      "categories": [
+        "PD US NPS",
+        "Media needing category review with 2 suggested categories",
+        "Photographs taken on 2019-08-28",
+        "Images from NPGallery",
+        "Media needing category review as of 16 May 2021",
+        "James Warfield House restoration"
+      ],
+      "auteur": "NPS Photo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:9._First_floor,_west_wall,_turn_an_existing_doorway_into_a_window._(892c478b-90c6-4886-87fb-ba5a1b0e70f5).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/9._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%28892c478b-90c6-4886-87fb-ba5a1b0e70f5%29.jpg/1280px-9._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%28892c478b-90c6-4886-87fb-ba5a1b0e70f5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4488,
+      "hauteur": 3392
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:8. First floor, west wall, turn an existing doorway into a window. (2f51951d-eaa1-43d0-ad8a-44451f6c57e2).jpg",
+      "description": "Stones and mortar are built up to establish a new window opening. Outlines of the reestablished window opening are being recreated. As seen from inside the historic house. Keywords: gettysburg; gettysburg national military park; battlefield; homes; civil war",
+      "categories": [
+        "PD US NPS",
+        "Media needing category review with 3 suggested categories",
+        "Photographs taken on 2019-08-28",
+        "Images from NPGallery",
+        "Media needing category review as of 16 May 2021",
+        "James Warfield House restoration"
+      ],
+      "auteur": "NPS Photo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:8._First_floor,_west_wall,_turn_an_existing_doorway_into_a_window._(2f51951d-eaa1-43d0-ad8a-44451f6c57e2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/8._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%282f51951d-eaa1-43d0-ad8a-44451f6c57e2%29.jpg/1280px-8._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%282f51951d-eaa1-43d0-ad8a-44451f6c57e2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4392,
+      "hauteur": 3312
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:1. First floor, west wall, turn an existing doorway into a window. (4b7b1dc2-7082-4303-84c7-2ffdc89a8af7).jpg",
+      "description": "A construction site shows an existing doorway frame and opening that is going to be rebuilt into a window opening. Drywall has been removed to expose original masonry surfaces. Keywords: gettysburg; gettysburg national military park; history; battlefield; civil war",
+      "categories": [
+        "PD US NPS",
+        "Media needing category review with 2 suggested categories",
+        "Photographs taken on 2019-08-19",
+        "Images from NPGallery",
+        "Media needing category review as of 16 May 2021",
+        "James Warfield House restoration"
+      ],
+      "auteur": "NPS Photo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:1._First_floor,_west_wall,_turn_an_existing_doorway_into_a_window._(4b7b1dc2-7082-4303-84c7-2ffdc89a8af7).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/1._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%284b7b1dc2-7082-4303-84c7-2ffdc89a8af7%29.jpg/1280px-1._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%284b7b1dc2-7082-4303-84c7-2ffdc89a8af7%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4384,
+      "hauteur": 3280
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:6. First floor, west wall, turn an existing doorway into a window. (cf5ca454-a2f6-4cc2-b8cc-4536171175ad).jpg",
+      "description": "Masonry work continues as the doorway opening is beginning to look like a window opening. Masonry knee wall is reconstructed to establish former window opening. Keywords: gettysburg; gettysburg national military park; history; battlefield; civil war",
+      "categories": [
+        "PD US NPS",
+        "Media needing category review with 2 suggested categories",
+        "Photographs taken on 2019-08-22",
+        "Images from NPGallery",
+        "Media needing category review as of 17 May 2021",
+        "James Warfield House restoration"
+      ],
+      "auteur": "NPS Photo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:6._First_floor,_west_wall,_turn_an_existing_doorway_into_a_window._(cf5ca454-a2f6-4cc2-b8cc-4536171175ad).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/6._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%28cf5ca454-a2f6-4cc2-b8cc-4536171175ad%29.jpg/1280px-6._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%28cf5ca454-a2f6-4cc2-b8cc-4536171175ad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4368,
+      "hauteur": 3320
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "terme": {
+    "id": "linteau-coule-en-place",
+    "terme": "le linteau coulé en place",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Linteau en béton armé coffré et coulé sur le chantier au-dessus d'une baie, parfois continu avec le chaînage.",
+    "priorite": 1,
+    "requetes": [
+      "cast in place lintel formwork",
+      "linteau coulé béton armé",
+      "concrete lintel above window construction"
+    ],
+    "incompatibles": [
+      "linteau",
+      "chainage-horizontal"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52361036145.jpg",
+      "description": "Built in 1915 and expanded in 1930, this complex of Renaissance Revival and Tudor Revival-style buildings serves as the parish school for Holy Cross Parish, replacing an earlier set of buildings on the same site, including the original Holy Cross Church and School, which were demolished to make way for the buildings. The 1915 school building features a dark red wire brick exterior, gabled parapets, buff brick accents and trim, decorative stone trim accents, decorative stone surrounds at the two entry doors, a rusticated stone base, replacement windows, a large copper cross mounted on the arche",
+      "categories": [
+        "Holy Cross Church (Covington, Kentucky)",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52361036145.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52361036145.jpg/1280px-Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52361036145.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3833,
+      "hauteur": 2875
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52359667132.jpg",
+      "description": "Built in 1915 and expanded in 1930, this complex of Renaissance Revival and Tudor Revival-style buildings serves as the parish school for Holy Cross Parish, replacing an earlier set of buildings on the same site, including the original Holy Cross Church and School, which were demolished to make way for the buildings. The 1915 school building features a dark red wire brick exterior, gabled parapets, buff brick accents and trim, decorative stone trim accents, decorative stone surrounds at the two entry doors, a rusticated stone base, replacement windows, a large copper cross mounted on the arche",
+      "categories": [
+        "Holy Cross Church (Covington, Kentucky)",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52359667132.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52359667132.jpg/1280px-Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52359667132.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52360850338.jpg",
+      "description": "Built in 1915 and expanded in 1930, this complex of Renaissance Revival and Tudor Revival-style buildings serves as the parish school for Holy Cross Parish, replacing an earlier set of buildings on the same site, including the original Holy Cross Church and School, which were demolished to make way for the buildings. The 1915 school building features a dark red wire brick exterior, gabled parapets, buff brick accents and trim, decorative stone trim accents, decorative stone surrounds at the two entry doors, a rusticated stone base, replacement windows, a large copper cross mounted on the arche",
+      "categories": [
+        "Holy Cross Church (Covington, Kentucky)",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52360850338.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52360850338.jpg/1280px-Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52360850338.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3727,
+      "hauteur": 2795
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52360851008.jpg",
+      "description": "Built in 1915 and expanded in 1930, this complex of Renaissance Revival and Tudor Revival-style buildings serves as the parish school for Holy Cross Parish, replacing an earlier set of buildings on the same site, including the original Holy Cross Church and School, which were demolished to make way for the buildings. The 1915 school building features a dark red wire brick exterior, gabled parapets, buff brick accents and trim, decorative stone trim accents, decorative stone surrounds at the two entry doors, a rusticated stone base, replacement windows, a large copper cross mounted on the arche",
+      "categories": [
+        "Holy Cross Church (Covington, Kentucky)",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52360851008.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52360851008.jpg/1280px-Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52360851008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2840,
+      "hauteur": 3787
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52361034685.jpg",
+      "description": "Built in 1915 and expanded in 1930, this complex of Renaissance Revival and Tudor Revival-style buildings serves as the parish school for Holy Cross Parish, replacing an earlier set of buildings on the same site, including the original Holy Cross Church and School, which were demolished to make way for the buildings. The 1915 school building features a dark red wire brick exterior, gabled parapets, buff brick accents and trim, decorative stone trim accents, decorative stone surrounds at the two entry doors, a rusticated stone base, replacement windows, a large copper cross mounted on the arche",
+      "categories": [
+        "Holy Cross Church (Covington, Kentucky)",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52361034685.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52361034685.jpg/1280px-Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52361034685.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3589,
+      "hauteur": 2689
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Holy Cross Catholic School, Church Street, Latonia, Covington, KY - 52361036045.jpg",
+      "description": "Built in 1915 and expanded in 1930, this complex of Renaissance Revival and Tudor Revival-style buildings serves as the parish school for Holy Cross Parish, replacing an earlier set of buildings on the same site, including the original Holy Cross Church and School, which were demolished to make way for the buildings. The 1915 school building features a dark red wire brick exterior, gabled parapets, buff brick accents and trim, decorative stone trim accents, decorative stone surrounds at the two entry doors, a rusticated stone base, replacement windows, a large copper cross mounted on the arche",
+      "categories": [
+        "Holy Cross Church (Covington, Kentucky)",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holy_Cross_Catholic_School,_Church_Street,_Latonia,_Covington,_KY_-_52361036045.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52361036045.jpg/1280px-Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52361036045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2830,
+      "hauteur": 3774
+    }
+  ]
+}

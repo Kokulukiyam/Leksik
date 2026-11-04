@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "mur-porteur",
+    "terme": "le mur porteur",
+    "categorie": "Structure",
+    "definition": "Mur qui porte les planchers ou la toiture et transmet leurs charges aux fondations.",
+    "priorite": 1,
+    "requetes": [
+      "load bearing wall",
+      "mur porteur",
+      "bearing wall masonry"
+    ],
+    "incompatibles": [
+      "mur-de-refend"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fortress of Famagusta (Cyprus).jpg",
+      "description": "",
+      "categories": [
+        "Author died more than 100 years ago public domain images",
+        "Artworks without Wikidata item",
+        "Famagusta walls",
+        "Self-published work",
+        "Artworks with known accession number",
+        "Taken on missing SDC inception",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "17th-century art in Venice",
+        "Images by Archaeodontosaurus Venice",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2026-05-13",
+        "May 2026 in Venice",
+        "Relief maps in the collections of the Museo storico navale (Venice)"
+      ],
+      "auteur": "Didier Descouens",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fortress_of_Famagusta_(Cyprus).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Fortress_of_Famagusta_%28Cyprus%29.jpg/1280px-Fortress_of_Famagusta_%28Cyprus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5369,
+      "hauteur": 4043
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:ANSK 11299 14621x10772 LISBETH BERGH Norske anskuelsesbilleder NORWAY 1912-13 OSLO HAVN Dampbåt jernbane Akershus (harbour steamer people ) skoleplansje (educational school wall chart) Det Kgl. Bibliotek Free copyright.jpg",
+      "description": "Kristiania Harbor (Port of Oslo with the Akershus Fortress in the background.) Title: A Market (Norwegian: Et Torv ) Series Title: Lisbeth Bergh’s Norwegian Educational Illustrations. The series of class room wall charts consists of a total of 12 images . Creator: Lisbeth Bergh (1861–1927), Norwegian drawing teacher and illustrator Image Type: School chart, educational wall chart, educational illustration, class room wall chart, educational picture board, teaching material, visual aid used in object-based teaching Description: Paper with color lithography . Text: L. Fehr’s Lith. Officin. Chris",
+      "categories": [
+        "Education in Norway",
+        "Educational wall pictures",
+        "Aschehoug",
+        "Lisbeth Bergh",
+        "Fred. Olsen & Co.",
+        "Educational illustrations",
+        "Oslo in art",
+        "People of Norway in art",
+        "1913 works in Norway",
+        "Steamships in art",
+        "Collections of Royal Danish Library",
+        "Educational posters",
+        "Horse-drawn wagons in art",
+        "Historical images of Pipervika",
+        "Akershus fortress in art",
+        "Wall charts"
+      ],
+      "auteur": "Lisbeth Bergh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ANSK_11299_14621x10772_LISBETH_BERGH_Norske_anskuelsesbilleder_NORWAY_1912-13_OSLO_HAVN_Dampb%C3%A5t_jernbane_Akershus_(harbour_steamer_people_)_skoleplansje_(educational_school_wall_chart)_Det_Kgl._Bibliotek_Free_copyright.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ANSK_11299_14621x10772_LISBETH_BERGH_Norske_anskuelsesbilleder_NORWAY_1912-13_OSLO_HAVN_Dampb%C3%A5t_jernbane_Akershus_%28harbour_steamer_people_%29_skoleplansje_%28educational_school_wall_chart%29_Det_Kgl._Bibliotek_Free_copyright.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 14621,
+      "hauteur": 10772
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Kiasma curved wall from above, 1998.jpg",
+      "description": "The backbone of the building is a 190-metre-long load-bearing wall. At the southern end (in the foreground), the wall rotates inwards by 9.5 degrees. At the northern end, the wall becomes a glass façade tilted outwards by 9.5 degrees.",
+      "categories": [
+        "Exterior of Kiasma",
+        "1998-05-15",
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC source of file",
+        "1998 in Helsinki",
+        "May 1998 in Europe",
+        "GWToolset Batch Upload",
+        "Media released by the Finnish National Gallery",
+        "Finland photographs taken on 1998-05-15",
+        "Wikimedia Suomi GLAM uploads",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Petri Lagus / Finnish National Gallery",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kiasma_curved_wall_from_above,_1998.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Kiasma_curved_wall_from_above%2C_1998.jpg/1280px-Kiasma_curved_wall_from_above%2C_1998.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3315,
+      "hauteur": 3308
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Grade beam.jpg",
+      "description": "Grade beam",
+      "categories": [
+        "Self-published work",
+        "Foundations drawings"
+      ],
+      "auteur": "WikiDork78",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grade_beam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Grade_beam.jpg/1280px-Grade_beam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1453,
+      "hauteur": 1480
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Fachwerk(Bild1).jpg",
+      "description": "Restauriertes Fachwerkhaus im Aufbau",
+      "categories": [
+        "Timber framing",
+        "Self-published work"
+      ],
+      "auteur": "ABBwiki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fachwerk(Bild1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Fachwerk%28Bild1%29.jpg/1280px-Fachwerk%28Bild1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Woodman Point tin and iron building, curved top plate.jpg",
+      "description": "A tin-clad shed at Woodman Point munitions dump.",
+      "categories": [
+        "Woodman Point Munitions Magazines",
+        "Self-published work",
+        "Taken with Samsung Galaxy S21 FE 5G",
+        "Photos by Sam Wilson",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Sam Wilson (taken with Samsung Galaxy S21 FE 5G )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Woodman_Point_tin_and_iron_building,_curved_top_plate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Woodman_Point_tin_and_iron_building%2C_curved_top_plate.jpg/1280px-Woodman_Point_tin_and_iron_building%2C_curved_top_plate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

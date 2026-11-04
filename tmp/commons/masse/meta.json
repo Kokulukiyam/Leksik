@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "masse",
+    "terme": "la masse",
+    "categorie": "Chantier et outillage",
+    "definition": "Lourd marteau à tête d'acier rectangulaire, à manche court ou long, pour casser ou frapper fort.",
+    "priorite": 1,
+    "requetes": [
+      "sledgehammer",
+      "masse",
+      "club hammer"
+    ],
+    "incompatibles": [
+      "marteau"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Worker with sledgehammer on the NYC Subway.jpg",
+      "description": "Some workers sit in a group on the NYC Subway. One of them holds a sledgehammer.",
+      "categories": [
+        "August 2011 in New York City",
+        "Taken with Nexus S",
+        "Sledgehammers",
+        "IRT Broadway – Seventh Avenue Line stations",
+        "Self-published work",
+        "Workers in the United States",
+        "Uploaded with Mobile/Android",
+        "New York City Subway car interiors",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2011-08-24",
+        "Men of the United States in 2011",
+        "Photos by Grendelkhan",
+        "New York City Subway passengers",
+        "New York City Subway in August 2011"
+      ],
+      "auteur": "Grendelkhan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Worker_with_sledgehammer_on_the_NYC_Subway.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Worker_with_sledgehammer_on_the_NYC_Subway.jpg/1280px-Worker_with_sledgehammer_on_the_NYC_Subway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Various sledge hammers and an axe in hardware store in Germany.jpg",
+      "description": "Various sledge hammers and an axe in a hardware store in Munich, Germany",
+      "categories": [
+        "Price tags in Germany",
+        "CC-Zero",
+        "Axes",
+        "Lux-tools",
+        "Sledgehammers",
+        "Self-published work",
+        "Images with extracted images",
+        "Files with coordinates missing SDC location of creation (48° N, 11° E)",
+        "Hardware stores in Munich",
+        "Price tags in euros"
+      ],
+      "auteur": "Pittigrilli",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Various_sledge_hammers_and_an_axe_in_hardware_store_in_Germany.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Various_sledge_hammers_and_an_axe_in_hardware_store_in_Germany.jpg/1280px-Various_sledge_hammers_and_an_axe_in_hardware_store_in_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1971,
+      "hauteur": 1891
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:C&O Railway Heritage Center - Sledgehammer.jpg",
+      "description": "Sledgehammer for driving railroad spikes into wooden sleepers during rail construction, at C&O Railway Heritage Center in Clifton Forge, Virginia",
+      "categories": [
+        "Taken with Nikon D80",
+        "Spike mauls",
+        "Self-published work",
+        "Maintenance of way",
+        "August 2012 in Virginia",
+        "United States photographs taken on 2012-08-03",
+        "August 2012 in rail transport in the United States",
+        "Railway photographs taken on 2012-08-03",
+        "Photographs by Jarek Tuszyński from 2012",
+        "C&O Railway Heritage Center"
+      ],
+      "auteur": "Jarek Tuszyński",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C%26O_Railway_Heritage_Center_-_Sledgehammer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/C%26O_Railway_Heritage_Center_-_Sledgehammer.jpg/1280px-C%26O_Railway_Heritage_Center_-_Sledgehammer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1710,
+      "hauteur": 3596
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2-1 Conducts Mechanical Breaching Image 7 of 8 6656546 210512-M-CH865-1003.jpg",
+      "description": "U.S. Marines with 2nd battalion, 1st Marines, assigned to Special Purpose Marine Air-Ground Task Force – Crisis Response – Central Command (SPMAGTF-CR-CC), conduct breach and clear procedures in Jordan, May 12, 2021. SPMAGTF-CR-CC is designed to respond rapidly and efficiently to a wide-range of military operations utilizing aviation, ground, and logistics assets. (U.S. Marine Corps photo by Cpl. Jacob Yost). Jordan (country)",
+      "categories": [
+        "2021 in Jordan",
+        "Door breaching",
+        "AN/PEQ-15",
+        "2nd Battalion 1st Marines",
+        "Sledgehammers",
+        "AN/PEQ-16",
+        "Plate Carrier Generation III",
+        "PD US Marines",
+        "Files created by the United States Marine Corps with known IDs",
+        "Advanced Combat Optical Gunsight on M27 IAR",
+        "Magpul magazines",
+        "Camouflaged firearms",
+        "KAC suppressor",
+        "People with M27 IAR",
+        "Desert MARPAT in 2021"
+      ],
+      "auteur": "Jacob Yost",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:2-1_Conducts_Mechanical_Breaching_Image_7_of_8_6656546_210512-M-CH865-1003.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2-1_Conducts_Mechanical_Breaching_Image_7_of_8_6656546_210512-M-CH865-1003.jpg/1280px-2-1_Conducts_Mechanical_Breaching_Image_7_of_8_6656546_210512-M-CH865-1003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Sledgehammer (5489039867).jpg",
+      "description": "A worker takes a sledgehammer a wall surrounding the building that housed the Carrefour mayor's office. USAID's Office of Transition Initiatives funded the demolition of the building, which collapsed in the earthquake. Photo copyright Kendra Helmer/USAID All rights reserved",
+      "categories": [
+        "PD USAID",
+        "Sledgehammers",
+        "Flickr images reviewed by FlickreviewR",
+        "Files uploaded by Reguyla",
+        "USAID IMAGES"
+      ],
+      "auteur": "USAID U.S. Agency for International Development",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sledgehammer_(5489039867).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sledgehammer_%285489039867%29.jpg/1280px-Sledgehammer_%285489039867%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1287,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Sledgehammer with very flexible handle - 02.jpg",
+      "description": "Worker using a sledgehammer to extract rebar and other metal from concrete rubble at building demolition site, Haikou City, Hainan Province, China.",
+      "categories": [
+        "CC-Zero",
+        "Sledgehammers",
+        "Self-published work",
+        "Files uploaded by Anna Frodesiak",
+        "Construction debris",
+        "Rebar on site"
+      ],
+      "auteur": "Anna Frodesiak",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sledgehammer_with_very_flexible_handle_-_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Sledgehammer_with_very_flexible_handle_-_02.jpg/1280px-Sledgehammer_with_very_flexible_handle_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3400,
+      "hauteur": 2600
+    }
+  ]
+}

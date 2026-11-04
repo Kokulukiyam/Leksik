@@ -1,0 +1,121 @@
+{
+  "terme": {
+    "id": "auvent",
+    "terme": "l'auvent",
+    "categorie": "Façade et ouvertures",
+    "definition": "Petit toit en saillie fixé à la façade, au-dessus d'une porte ou d'une fenêtre, pour l'abriter.",
+    "priorite": 1,
+    "requetes": [
+      "door canopy porch roof",
+      "auvent porte d'entrée",
+      "awning roof over door"
+    ],
+    "incompatibles": [
+      "porche"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Salle, Ss Peter & Paul church, north porch (28302351175).jpg",
+      "description": "Grade I listed This large perpendicular church in a relatively remote location was built between around 1405 and 1420. It was financed by at least four Lords of Manors and other men with wealth acquired from wool. There were at least six Guilds Chapels, and a chaplain and clerks in each Chapel prayed daily for donors' souls. There is a west tower, north and south porch with parvises, nave with clerestory, north and south aisles, north and south transepts and chancel. The west tower is of four stages, the last stage was built around 1511. There is a west door with censing Angels and Shields ove",
+      "categories": [
+        "Church of St Peter and St Paul, Salle",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (52° N, 1° E)"
+      ],
+      "auteur": "Jules & Jenny from Lincoln, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Salle,_Ss_Peter_%26_Paul_church,_north_porch_(28302351175).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Salle%2C_Ss_Peter_%26_Paul_church%2C_north_porch_%2828302351175%29.jpg/1280px-Salle%2C_Ss_Peter_%26_Paul_church%2C_north_porch_%2828302351175%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3696
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:The Collegiate Church of Saint Mary - Stafford - church window and door (32449350984).jpg",
+      "description": "The Collegiate Church of Saint Mary in Stafford. Aka Stafford Church. It is near Earl Street and St Mary's Place. St Mary's Grove runs down one side of the church. Grade I listed building. &lt;a href=\" http://www.britishlistedbuildings.co.uk/en-384034-church-of-st-mary-staffordshire#.WL3RVX9FaGw \" rel=\"noreferrer nofollow\"&gt;Church of St Mary, Stafford&lt;/a&gt; STAFFORD SJ9223SW ST MARY'S GATE 590-1/10/83 (West side) 16/01/51 Church of St Mary GV I Former collegiate church. Early C13 nave and aisles; later C13 chancel and aisles; early C14 north transept; late C14 aisle roofs; C15 clerestori",
+      "categories": [
+        "Collegiate church Saint Mary of Stafford",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Collegiate_Church_of_Saint_Mary_-_Stafford_-_church_window_and_door_(32449350984).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_Collegiate_Church_of_Saint_Mary_-_Stafford_-_church_window_and_door_%2832449350984%29.jpg/1280px-The_Collegiate_Church_of_Saint_Mary_-_Stafford_-_church_window_and_door_%2832449350984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:DSC 6661 A tranquil courtyard in front of a traditional Thai-style building with a red gabled roof ornate gold accents and a wide staircase leading up to the entrance under a partly cloudy sky.jpg",
+      "description": "This photograph captures a traditional Thai-style building set against a partly cloudy sky, likely located in the Phala area of Rayong Province, Thailand. The two-story structure features pale green and cream-colored walls with a striking red gabled roof adorned with ornate gold decorative elements, including traditional Thai chofa finials pointing skyward at the roof's peak. A wide staircase with white balustrades leads up to the main entrance, flanked by covered walkways and a porte-cochère-style canopy supported by white columns on the right side. The building has numerous tall windows with",
+      "categories": [
+        "Ban Chang District",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "PattayaPatrol",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DSC_6661_A_tranquil_courtyard_in_front_of_a_traditional_Thai-style_building_with_a_red_gabled_roof_ornate_gold_accents_and_a_wide_staircase_leading_up_to_the_entrance_under_a_partly_cloudy_sky.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/DSC_6661_A_tranquil_courtyard_in_front_of_a_traditional_Thai-style_building_with_a_red_gabled_roof_ornate_gold_accents_and_a_wide_staircase_leading_up_to_the_entrance_under_a_partly_cloudy_sky.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Burnham Thorpe - \"Nelson's Church\" - All Saints Church.jpg",
+      "description": "This is the village of Burnham Thorpe - it is the birthplace of Horatio Nelson in 1758. He also lived around here when not off at war on one of his ships. First up is \"Nelson's Church\" - All Saints Church. You can park on the grass here if you want. It is Grade I listed. &lt;a href=\" http://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1239270&resourceID=5 \" rel=\"nofollow\"&gt;Church of All Saints - Burnham Thorpe - Heritage Gateway&lt;/a&gt; Parish church. C13 arcades, C14 aisles, C15 clerestorey, north porch, chancel, west tower. Rubble, knapped and squared chequer work flint, st",
+      "categories": [
+        "Taken with Fujifilm FinePix S1500",
+        "All Saints, Burnham Thorpe",
+        "Flickr images uploaded by Flickr upload bot",
+        "Church towers in Norfolk, England",
+        "Church porches in Norfolk, England",
+        "Photographs by Elliott Brown"
+      ],
+      "auteur": "Elliott Brown",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Burnham_Thorpe_-_%22Nelson%27s_Church%22_-_All_Saints_Church.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Burnham_Thorpe_-_%22Nelson%27s_Church%22_-_All_Saints_Church.jpg/1280px-Burnham_Thorpe_-_%22Nelson%27s_Church%22_-_All_Saints_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dr. George Keenan House, Gilman Street and Pinckney Street, Mansion Hill, Madison, WI - 52762369522.jpg",
+      "description": "Built in 1857 in Rundbogenstil style, this house was designed by the German immigrant architect August Kutzbock for Napoleon Bonaparte Van Slyke, and was later renovated circa 1870 in the Second Empire style, adding the mansard roof and extending the rear service ell. The house is clad in buff brick with extruded corner pilasters and corbeling below the roof, arched replacement windows trimmed by decorative stone headers and pilasters, a brick side porch with a balcony accessed via an arched french door, and an arched front opening, two one-story bay windows on the front facade, a front entran",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Van Slyke House (Gilman Street)",
+        "Photographs by Warren LeMay in Wisconsin"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dr._George_Keenan_House,_Gilman_Street_and_Pinckney_Street,_Mansion_Hill,_Madison,_WI_-_52762369522.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dr._George_Keenan_House%2C_Gilman_Street_and_Pinckney_Street%2C_Mansion_Hill%2C_Madison%2C_WI_-_52762369522.jpg/1280px-Dr._George_Keenan_House%2C_Gilman_Street_and_Pinckney_Street%2C_Mansion_Hill%2C_Madison%2C_WI_-_52762369522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2318,
+      "hauteur": 3091
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dr. George Keenan House, Gilman Street and Pinckney Street, Mansion Hill, Madison, WI - 52762370277.jpg",
+      "description": "Built in 1857 in Rundbogenstil style, this house was designed by the German immigrant architect August Kutzbock for Napoleon Bonaparte Van Slyke, and was later renovated circa 1870 in the Second Empire style, adding the mansard roof and extending the rear service ell. The house is clad in buff brick with extruded corner pilasters and corbeling below the roof, arched replacement windows trimmed by decorative stone headers and pilasters, a brick side porch with a balcony accessed via an arched french door, and an arched front opening, two one-story bay windows on the front facade, a front entran",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Van Slyke House (Gilman Street)",
+        "Photographs by Warren LeMay in Wisconsin"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dr._George_Keenan_House,_Gilman_Street_and_Pinckney_Street,_Mansion_Hill,_Madison,_WI_-_52762370277.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dr._George_Keenan_House%2C_Gilman_Street_and_Pinckney_Street%2C_Mansion_Hill%2C_Madison%2C_WI_-_52762370277.jpg/1280px-Dr._George_Keenan_House%2C_Gilman_Street_and_Pinckney_Street%2C_Mansion_Hill%2C_Madison%2C_WI_-_52762370277.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3830,
+      "hauteur": 2872
+    }
+  ]
+}

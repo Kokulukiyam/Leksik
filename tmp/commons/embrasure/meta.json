@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "embrasure",
+    "terme": "l'embrasure",
+    "categorie": "Façade et ouvertures",
+    "definition": "Espace ménagé dans l'épaisseur du mur autour d'une baie, entre la menuiserie et le nu du mur.",
+    "priorite": 1,
+    "requetes": [
+      "window embrasure thick wall",
+      "embrasure fenêtre",
+      "deep window reveal"
+    ],
+    "incompatibles": [
+      "baie",
+      "piedroit"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:The house- a manual of rural architecture- or, How to build country houses and out-buildings (1866) (14766217651).jpg",
+      "description": "Identifier : housemanualofrur00jacqrich ( find matches ) Title : The house: a manual of rural architecture: or, How to build country houses and out-buildings .. Year : 1866 ( 1860s ) Authors : Jacques, D. H. (Daniel Harrison), 1825-1877 Subjects : Architecture, Domestic Publisher : New York, G.E. & F.W. Woodward Contributing Library : University of California Libraries Digitizing Sponsor : MSN View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of th",
+      "categories": [
+        "1866 books",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 8 October 2015"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_house-_a_manual_of_rural_architecture-_or,_How_to_build_country_houses_and_out-buildings_(1866)_(14766217651).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_house-_a_manual_of_rural_architecture-_or%2C_How_to_build_country_houses_and_out-buildings_%281866%29_%2814766217651%29.jpg/1280px-The_house-_a_manual_of_rural_architecture-_or%2C_How_to_build_country_houses_and_out-buildings_%281866%29_%2814766217651%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2652,
+      "hauteur": 1856
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A Family of Musicians Playing in a Window Embrasure.jpg",
+      "description": "Une famille de musiciens jouant dans l'embrasure d'une fenêtre : un homme debout jouant de la flûte, une femme assise jouant de la harpe et une fillette tenant une partition musicale sur laquelle on peut lire 'ROMANCE / DU CHAPITRE SECOND / CHANTÉ PAR LA COMTESSE ST AUBIN'",
+      "categories": [
+        "Jean-Pierre Solié",
+        "Emmanuel Dupaty",
+        "Jeanne-Charlotte Schroeder",
+        "PD-Art (PD-old-70)",
+        "Artworks with Wikidata item",
+        "CC-PD-Mark",
+        "Family portraits of France",
+        "1790s portrait paintings from France",
+        "Artworks with Wikidata item missing date",
+        "Artworks with Wikidata item missing genre",
+        "Men playing flutes",
+        "Artworks digital representation of 2D work",
+        "Harpists in art",
+        "Portrait paintings with flute",
+        "Portraits with harps",
+        "Portrait paintings of musicians"
+      ],
+      "auteur": "Anonyme Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Family_of_Musicians_Playing_in_a_Window_Embrasure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/A_Family_of_Musicians_Playing_in_a_Window_Embrasure.jpg/1280px-A_Family_of_Musicians_Playing_in_a_Window_Embrasure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2608,
+      "hauteur": 3200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:The castellated and domestic architecture of Scotland, from the twelfth to the eighteenth century (1887) (14598600797).jpg",
+      "description": "Identifier : castellateddomes03macg ( find matches ) Title : The castellated and domestic architecture of Scotland, from the twelfth to the eighteenth century Year : 1887 ( 1880s ) Authors : MacGibbon, David, d. 1902 Ross, Thomas, 1839-1930 Subjects : Architecture Architecture, Domestic Castles Publisher : Edinburgh : D. Douglas Contributing Library : University of California Libraries Digitizing Sponsor : Internet Archive View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a b",
+      "categories": [
+        "The castellated and domestic architecture of Scotland, from the twelfth to the eighteenth century (1887)",
+        "Breachacha Castle (old)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_castellated_and_domestic_architecture_of_Scotland,_from_the_twelfth_to_the_eighteenth_century_(1887)_(14598600797).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/The_castellated_and_domestic_architecture_of_Scotland%2C_from_the_twelfth_to_the_eighteenth_century_%281887%29_%2814598600797%29.jpg/1280px-The_castellated_and_domestic_architecture_of_Scotland%2C_from_the_twelfth_to_the_eighteenth_century_%281887%29_%2814598600797%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1538
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Krak des chevaliers embrasure de fenetre.jpg",
+      "description": "Embrasure de fenêtre au Krak des chevalier, jeu de société creusé dans la pierre du banc latéral",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Embrasures in Syria",
+        "Interior views of the Krak des Chevaliers"
+      ],
+      "auteur": "Michel Benoist",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Krak_des_chevaliers_embrasure_de_fenetre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Krak_des_chevaliers_embrasure_de_fenetre.jpg/1280px-Krak_des_chevaliers_embrasure_de_fenetre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1287,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Le Bizot - Embrasure de la fenêtre du juge.jpg",
+      "description": "Embrasure de fenêtre munie d'un coussiège",
+      "categories": [
+        "Maison de justice du Bizot",
+        "Self-published work"
+      ],
+      "auteur": "GenGavi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Le_Bizot_-_Embrasure_de_la_fen%C3%AAtre_du_juge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Le_Bizot_-_Embrasure_de_la_fen%C3%AAtre_du_juge.jpg/1280px-Le_Bizot_-_Embrasure_de_la_fen%C3%AAtre_du_juge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2992,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Rembrandt - Homme dans une embrasure de fenêtre, tenant son bonnet (Lugt 60), DDUT1015.jpg",
+      "description": "",
+      "categories": [
+        "Uploaded with pattypan",
+        "Artworks without Wikidata item",
+        "PD-Art (PD-old)",
+        "CC-PD-Mark",
+        "PD-Art missing SDC copyright status",
+        "PD-old missing SDC copyright status",
+        "Creator Rembrandt missing SDC depicts",
+        "Drawings by Rembrandt in the Musée des Beaux-Arts de la Ville de Paris"
+      ],
+      "auteur": "Rembrandt",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_Homme_dans_une_embrasure_de_fen%C3%AAtre,_tenant_son_bonnet_(Lugt_60),_DDUT1015.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Rembrandt_-_Homme_dans_une_embrasure_de_fen%C3%AAtre%2C_tenant_son_bonnet_%28Lugt_60%29%2C_DDUT1015.jpg/1280px-Rembrandt_-_Homme_dans_une_embrasure_de_fen%C3%AAtre%2C_tenant_son_bonnet_%28Lugt_60%29%2C_DDUT1015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4963,
+      "hauteur": 6004
+    }
+  ]
+}

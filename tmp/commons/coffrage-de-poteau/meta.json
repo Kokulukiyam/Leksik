@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "coffrage-de-poteau",
+    "terme": "le coffrage de poteau",
+    "categorie": "Chantier et outillage",
+    "definition": "Caisson vertical, souvent carré, monté autour des armatures d'un poteau avant d'y couler le béton.",
+    "priorite": 1,
+    "requetes": [
+      "column formwork",
+      "coffrage poteau",
+      "column formwork timber"
+    ],
+    "incompatibles": [
+      "coffrage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Formwork for columns.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Taken with Huawei Ascend Y520",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2017",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Construction workers in Cameroon",
+        "Cameroon photographs taken on 2016-06-07",
+        "Images from Wiki Loves Africa 2017 in Cameroon"
+      ],
+      "auteur": "EzekielFokam",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Formwork_for_columns.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Formwork_for_columns.jpg/1280px-Formwork_for_columns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Slab Formwork Tables.JPG",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Formwork",
+        "License migration redundant",
+        "Extendable support beams",
+        "Media missing infobox template",
+        "Doka Group",
+        "Self-published work"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Slab_Formwork_Tables.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Slab_Formwork_Tables.JPG/1280px-Slab_Formwork_Tables.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3488,
+      "hauteur": 2616
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Carpenters install formwork around existing columns in the concourse. (CM014B, 1-08-2018) (25780525388).jpg",
+      "description": "Carpenters install formwork around existing columns in the concourse. (CM014B, 1-08-2018)",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "East Side Access construction/2018/01",
+        "Flickr files uploaded by Epicgenius",
+        "Construction of LIRR Concourse (Grand Central Terminal)"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpenters_install_formwork_around_existing_columns_in_the_concourse._(CM014B,_1-08-2018)_(25780525388).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Carpenters_install_formwork_around_existing_columns_in_the_concourse._%28CM014B%2C_1-08-2018%29_%2825780525388%29.jpg/1280px-Carpenters_install_formwork_around_existing_columns_in_the_concourse._%28CM014B%2C_1-08-2018%29_%2825780525388%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Carpenters continue to install formwork around existing columns in the concourse. (CM014B, 1-03-2018) (25706275198).jpg",
+      "description": "Carpenters continue to install formwork around existing columns in the concourse. (CM014B, 1-03-2018)",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "East Side Access construction/2018/01",
+        "Flickr files uploaded by Epicgenius",
+        "Construction of LIRR Concourse (Grand Central Terminal)"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpenters_continue_to_install_formwork_around_existing_columns_in_the_concourse._(CM014B,_1-03-2018)_(25706275198).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Carpenters_continue_to_install_formwork_around_existing_columns_in_the_concourse._%28CM014B%2C_1-03-2018%29_%2825706275198%29.jpg/1280px-Carpenters_continue_to_install_formwork_around_existing_columns_in_the_concourse._%28CM014B%2C_1-03-2018%29_%2825706275198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:SFOBBESR ColumnFormworkAdj7June2011.jpg",
+      "description": "Casting a concrete pylon using reusable formwork, eastern span replacement of the San Francisco - Oakland Bay Bridge.",
+      "categories": [
+        "CC-Zero",
+        "Eastern span replacement of the San Francisco–Oakland Bay Bridge",
+        "Self-published work"
+      ],
+      "auteur": "Leonard G.",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:SFOBBESR_ColumnFormworkAdj7June2011.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/SFOBBESR_ColumnFormworkAdj7June2011.jpg/1280px-SFOBBESR_ColumnFormworkAdj7June2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Whittier Bridge- Pier 3 Column Form work (June 2016) (27414345980).jpg",
+      "description": "The contractor constructs formwork to create a mold for Pier 3 of the new southbound bridge span. The new, completed northbound bridge span, which currently holds two-way traffic on I-95, is visible on the left.",
+      "categories": [
+        "John Greenleaf Whittier Bridge",
+        "PD-MAGov",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from the MassDOT flickr stream needing curation"
+      ],
+      "auteur": "MassDOT",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Whittier_Bridge-_Pier_3_Column_Form_work_(June_2016)_(27414345980).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Whittier_Bridge-_Pier_3_Column_Form_work_%28June_2016%29_%2827414345980%29.jpg/1280px-Whittier_Bridge-_Pier_3_Column_Form_work_%28June_2016%29_%2827414345980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1306,
+      "hauteur": 980
+    }
+  ]
+}

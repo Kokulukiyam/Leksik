@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "vitrine",
+    "terme": "la vitrine",
+    "categorie": "Façade et ouvertures",
+    "definition": "Grande baie vitrée d'un commerce au rez-de-chaussée, derrière laquelle sont exposées les marchandises.",
+    "priorite": 1,
+    "requetes": [
+      "shop window display",
+      "vitrine magasin",
+      "store window street"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Rainbow yarn for knitting, display in front of a needlework shop in Graz, Austria, GW23-100.jpg",
+      "description": "Rainbow yarn for knitting, display in front of a needlework shop in Graz, Austria Español: Hilo arcoíris para tejer, expuesto frente a una tienda de artículos de costura en Graz , Austria. Italiano: Gomitoli di lana policromi per lavori a maglia , esposti in una merceria a Graz , in Austria . Українська: Райдужна пряжа для в'язання, виставка перед магазином рукоділля в Грац і, Австрія.",
+      "categories": [
+        "Austria photographs taken on 2023-06-15",
+        "Self-published work",
+        "Featured pictures by others nominated by Yann Forget",
+        "Rainbow objects",
+        "Colorful textiles",
+        "Wool yarn",
+        "Photo challenge winners",
+        "June 2023 in Graz",
+        "Shop windows in Graz"
+      ],
+      "auteur": "Lusi Lindwurm",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rainbow_yarn_for_knitting,_display_in_front_of_a_needlework_shop_in_Graz,_Austria,_GW23-100.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg/1280px-Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dress shop window display.jpg",
+      "description": "This image is part of the Hines Studio Collection. Original is held by Archives and Special Collections at Western Libraries.",
+      "categories": [
+        "Images from Western Libraries Archives and Special Collections",
+        "PD Canada",
+        "Uploaded with pattypan",
+        "PD US expired",
+        "Photographs with Wikidata item",
+        "Hines Studio Collection",
+        "Artworks digital representation of 2D work",
+        "Photographs with Wikidata item missing accession number",
+        "Photographs with Wikidata item missing date"
+      ],
+      "auteur": "Hines Studio",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dress_shop_window_display.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dress_shop_window_display.jpg/1280px-Dress_shop_window_display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1655,
+      "hauteur": 1300
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Charity shop window display - geograph.org.uk - 5858029.jpg",
+      "description": "Charity shop window display",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Shop window displays",
+        "Shops in Ross-on-Wye"
+      ],
+      "auteur": "Jonathan Billinger",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Charity_shop_window_display_-_geograph.org.uk_-_5858029.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Charity_shop_window_display_-_geograph.org.uk_-_5858029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Green Flocked Bunny Figurine in a Warsaw Shop Window January 2025.jpg",
+      "description": "This photo shows a decorative rabbit figurine with a vibrant green, moss-like flocked texture, displayed in a Warsaw shop window. Behind the contemporary Easter or spring-themed bunny is a heart-shaped object with a red-and-white target design",
+      "categories": [
+        "Self-published work",
+        "Easter decorations in Poland",
+        "Shop window displays",
+        "Shop windows in Warsaw"
+      ],
+      "auteur": "Oleslawlama",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Green_Flocked_Bunny_Figurine_in_a_Warsaw_Shop_Window_January_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Green_Flocked_Bunny_Figurine_in_a_Warsaw_Shop_Window_January_2025.jpg/1280px-Green_Flocked_Bunny_Figurine_in_a_Warsaw_Shop_Window_January_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2940,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Marburg asv2022-02 img06 Reitgasse.jpg",
+      "description": "Bookstore N.G.Elwert at Reitgasse 9 in Marburg, Hesse, Germany",
+      "categories": [
+        "Shop doors in Germany",
+        "FAL",
+        "Featured pictures of buildings in Germany",
+        "Featured pictures of Hesse",
+        "Shop windows in Hesse",
+        "Hesse photographs taken on 2022-02-21",
+        "February 2022 in Marburg",
+        "Photographs by A.Savin taken in 2022",
+        "Featured pictures of windows",
+        "Files with coordinates missing SDC location of creation (50° N, 8° E)",
+        "Buchhandlung N.G. Elwert",
+        "Photographs by A.Savin/Germany",
+        "Taken with Sony ILCE-7RM3 and Sony FE 24-105mm F4 G OSS"
+      ],
+      "auteur": "A.Savin",
+      "licence": "FAL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Marburg_asv2022-02_img06_Reitgasse.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Marburg_asv2022-02_img06_Reitgasse.jpg/1280px-Marburg_asv2022-02_img06_Reitgasse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7130,
+      "hauteur": 4456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Window display of prom dress shop.jpg",
+      "description": "Window display of a prom dress shop",
+      "categories": [
+        "Strapless dresses",
+        "Blue dresses",
+        "Scoop necks",
+        "Shop windows in California",
+        "November 2018 in California",
+        "Mannequins in California",
+        "Self-published work",
+        "Gray dresses",
+        "Light blue dresses",
+        "Files with coordinates missing SDC location of creation",
+        "Clothing shop windows",
+        "United States photographs taken on 2018-11-14",
+        "Female mannequins in the United States",
+        "Women's clothing shops in the United States",
+        "Prom dresses",
+        "The Shops at Tanforan - Interior"
+      ],
+      "auteur": "FuriousYogi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Window_display_of_prom_dress_shop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Window_display_of_prom_dress_shop.jpg/1280px-Window_display_of_prom_dress_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

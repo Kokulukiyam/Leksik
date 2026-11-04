@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "truelle",
+    "terme": "la truelle",
+    "categorie": "Chantier et outillage",
+    "definition": "Outil à lame d'acier plate et pointue, avec un manche coudé, pour prendre, étaler et lisser le mortier.",
+    "priorite": 1,
+    "requetes": [
+      "mason trowel",
+      "truelle",
+      "incategory:\"Trowels\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:-Mason Holding a Trowel- MET DP700222.jpg",
+      "description": "Daguerreotype; Photographs",
+      "categories": [
+        "CC-Zero",
+        "Department of Photographs, Metropolitan Museum of Art",
+        "Masons",
+        "Brick trowels",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "Template Unknown (author)",
+        "GWToolset Batch Upload",
+        "Daguerreotype portraits",
+        "Daguerreotypes in the Metropolitan Museum of Art",
+        "Daguerreotype cases",
+        "Bequest of Herbert Mitchell"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-Mason_Holding_a_Trowel-_MET_DP700222.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/-Mason_Holding_a_Trowel-_MET_DP700222.jpg/1280px--Mason_Holding_a_Trowel-_MET_DP700222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3812,
+      "hauteur": 2350
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:-Mason (?) Holding a Trowel and Sledgehammer- MET DP700336.jpg",
+      "description": "Tintype; Photographs",
+      "categories": [
+        "CC-Zero",
+        "Department of Photographs, Metropolitan Museum of Art",
+        "Artworks without Wikidata item",
+        "Trowels",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "Template Unknown (author)",
+        "GWToolset Batch Upload",
+        "Bequest of Herbert Mitchell"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-Mason_(%3F)_Holding_a_Trowel_and_Sledgehammer-_MET_DP700336.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/-Mason_%28%3F%29_Holding_a_Trowel_and_Sledgehammer-_MET_DP700336.jpg/1280px--Mason_%28%3F%29_Holding_a_Trowel_and_Sledgehammer-_MET_DP700336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2299,
+      "hauteur": 3232
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:-Mason Holding a Trowel- MET DP700223.jpg",
+      "description": "Daguerreotype; Photographs",
+      "categories": [
+        "CC-Zero",
+        "Department of Photographs, Metropolitan Museum of Art",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "Template Unknown (author)",
+        "GWToolset Batch Upload",
+        "Daguerreotypes in the Metropolitan Museum of Art",
+        "Daguerreotype cases",
+        "Bequest of Herbert Mitchell"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-Mason_Holding_a_Trowel-_MET_DP700223.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/-Mason_Holding_a_Trowel-_MET_DP700223.jpg/1280px--Mason_Holding_a_Trowel-_MET_DP700223.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2966,
+      "hauteur": 3170
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:-Mason Holding a Trowel- MET DP700224.jpg",
+      "description": "Daguerreotype; Photographs",
+      "categories": [
+        "CC-Zero",
+        "Department of Photographs, Metropolitan Museum of Art",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "Template Unknown (author)",
+        "GWToolset Batch Upload",
+        "Daguerreotypes in the Metropolitan Museum of Art",
+        "Daguerreotype cases",
+        "Bequest of Herbert Mitchell"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-Mason_Holding_a_Trowel-_MET_DP700224.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/-Mason_Holding_a_Trowel-_MET_DP700224.jpg/1280px--Mason_Holding_a_Trowel-_MET_DP700224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2887,
+      "hauteur": 3143
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:-Mason (?) Holding a Trowel and Sledgehammer- MET DP700337.jpg",
+      "description": "Tintype; Photographs",
+      "categories": [
+        "CC-Zero",
+        "Department of Photographs, Metropolitan Museum of Art",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "Template Unknown (author)",
+        "GWToolset Batch Upload",
+        "Bequest of Herbert Mitchell"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-Mason_(%3F)_Holding_a_Trowel_and_Sledgehammer-_MET_DP700337.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/-Mason_%28%3F%29_Holding_a_Trowel_and_Sledgehammer-_MET_DP700337.jpg/1280px--Mason_%28%3F%29_Holding_a_Trowel_and_Sledgehammer-_MET_DP700337.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2273,
+      "hauteur": 3086
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Masons trowel.jpg",
+      "description": "Mason's Trowel used in Satanic Worship, most commonly used by Puritan witches.",
+      "categories": [
+        "GFDL",
+        "Brick trowels",
+        "License migration completed",
+        "Tools on white background",
+        "Taken with Canon PowerShot S230"
+      ],
+      "auteur": "Mike Lupinacci",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Masons_trowel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Masons_trowel.jpg/1280px-Masons_trowel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1452,
+      "hauteur": 723
+    }
+  ]
+}

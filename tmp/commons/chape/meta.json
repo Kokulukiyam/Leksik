@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "chape",
+    "terme": "la chape",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Couche de mortier ou de béton coulée et dressée sur un plancher pour obtenir une surface plane avant le revêtement de sol.",
+    "priorite": 1,
+    "requetes": [
+      "cement screed floor",
+      "chape ciment",
+      "floor screed"
+    ],
+    "incompatibles": [
+      "dallage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Betonggulv med røropplegg.JPG",
+      "description": "Betonggulv med røropplegg",
+      "categories": [
+        "Floors",
+        "Self-published work",
+        "Cement based screeds"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betonggulv_med_r%C3%B8ropplegg.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Betonggulv_med_r%C3%B8ropplegg.JPG/1280px-Betonggulv_med_r%C3%B8ropplegg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dornbirn-Ebnit-underfloor heating-system-08ASD.jpg",
+      "description": "Laying a underfloor heating-system in the house Ebnit 52 in Dornbirn, Vorarlberg, Austria. There is a styrofoam insulation layer below the underfloor heating and the whole thing is poured into liquid disposal (cement based screeds). The flow temperature may be around 30 ° C.",
+      "categories": [
+        "Underfloor heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Floor construction",
+        "Photographs by Asurnipal-Dornbirn-Ebnit"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-08ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Dornbirn-Ebnit-underfloor_heating-system-08ASD.jpg/1280px-Dornbirn-Ebnit-underfloor_heating-system-08ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dornbirn-Ebnit-underfloor heating-system-01ASD.jpg",
+      "description": "Laying a underfloor heating-system in the house Ebnit 52 in Dornbirn, Vorarlberg, Austria. There is a styrofoam insulation layer below the underfloor heating and the whole thing is poured into liquid disposal (cement based screeds). The flow temperature may be around 30 ° C.",
+      "categories": [
+        "Underfloor heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Floor construction",
+        "Photographs by Asurnipal-Dornbirn-Ebnit"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-01ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Dornbirn-Ebnit-underfloor_heating-system-01ASD.jpg/1280px-Dornbirn-Ebnit-underfloor_heating-system-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dornbirn-Ebnit-underfloor heating-system-06ASD.jpg",
+      "description": "Laying a underfloor heating-system in the house Ebnit 52 in Dornbirn, Vorarlberg, Austria. There is a styrofoam insulation layer below the underfloor heating and the whole thing is poured into liquid disposal (cement based screeds). The flow temperature may be around 30 ° C.",
+      "categories": [
+        "Underfloor heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Floor construction",
+        "Photographs by Asurnipal-Dornbirn-Ebnit"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-06ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Dornbirn-Ebnit-underfloor_heating-system-06ASD.jpg/1280px-Dornbirn-Ebnit-underfloor_heating-system-06ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dornbirn-Ebnit-underfloor heating-system-04ASD.jpg",
+      "description": "Laying a underfloor heating-system in the house Ebnit 52 in Dornbirn, Vorarlberg, Austria. There is a styrofoam insulation layer below the underfloor heating and the whole thing is poured into liquid disposal (cement based screeds). The flow temperature may be around 30 ° C.",
+      "categories": [
+        "Underfloor heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Floor construction",
+        "Photographs by Asurnipal-Dornbirn-Ebnit"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-04ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Dornbirn-Ebnit-underfloor_heating-system-04ASD.jpg/1280px-Dornbirn-Ebnit-underfloor_heating-system-04ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dornbirn-Ebnit-underfloor heating-system-02ASD.jpg",
+      "description": "Laying a underfloor heating-system in the house Ebnit 52 in Dornbirn, Vorarlberg, Austria. There is a styrofoam insulation layer below the underfloor heating and the whole thing is poured into liquid disposal (cement based screeds). The flow temperature may be around 30 ° C.",
+      "categories": [
+        "Underfloor heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Floor construction",
+        "Photographs by Asurnipal-Dornbirn-Ebnit"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-02ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Dornbirn-Ebnit-underfloor_heating-system-02ASD.jpg/1280px-Dornbirn-Ebnit-underfloor_heating-system-02ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    }
+  ]
+}

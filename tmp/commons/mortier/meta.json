@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "mortier",
+    "terme": "le mortier",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Mélange de ciment ou de chaux, de sable et d'eau, préparé en pâte pour lier les blocs et faire les enduits.",
+    "priorite": 1,
+    "requetes": [
+      "mortar mixing construction",
+      "mortier ciment sable",
+      "fresh mortar pile"
+    ],
+    "incompatibles": [
+      "gachage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:EuroMix mortar silo - 31 July 2026.jpg",
+      "description": "A EuroMix-branded mortar silo in Sneinton, Nottingham.",
+      "categories": [
+        "Taken with Canon EOS 100D",
+        "CC-Zero",
+        "Sneinton",
+        "Mortar (masonry)",
+        "Uploaded with VicuñaUploader",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)",
+        "Construction in Nottinghamshire",
+        "Silos in England",
+        "July 2026 in Nottingham",
+        "England photographs taken on 2026-07-31",
+        "Photographs by Aethonatic in July 2026"
+      ],
+      "auteur": "Aethonatic",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EuroMix_mortar_silo_-_31_July_2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/EuroMix_mortar_silo_-_31_July_2026.jpg/1280px-EuroMix_mortar_silo_-_31_July_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3327,
+      "hauteur": 4985
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Sand and Cement Mixing for Construction.jpg",
+      "description": "Sand and cement are combined together to prepare mortar for plastering and building work.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Africa 2026 for Creatives in Nigeria",
+        "Building Materials in Nigeria"
+      ],
+      "auteur": "Johnnybam",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sand_and_Cement_Mixing_for_Construction.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sand_and_Cement_Mixing_for_Construction.jpg/1280px-Sand_and_Cement_Mixing_for_Construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A construction worker mixes mortar for the renovation of the Hamdan Police Station in Basrah. The U.S. Army Corps of Engineers Gulf Region South provides quality assurance for the p - DPLA - 357a86d8d25d320378a9f7e5127e5539.jpeg",
+      "description": "The original finding aid described this photograph as: Subject Operation/Series: IRAQI FREEDOM Base: Tallil Area Office Country: Iraq (IRQ) Scene Major Command Shown: USACE Scene Camera Operator: Bj Weiner, CIV, Acoe Release Status: Released to Public",
+      "categories": [
+        "PD US Military",
+        "Basra",
+        "Media contributed by the National Archives and Records Administration",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Media contributed by National Archives at College Park - Still Pictures",
+        "NARA images of Iraq",
+        "Photographs taken on 2005-07-27",
+        "US National Archives series: Combined Military Service Digital Photographic Files, 1982 - 2007"
+      ],
+      "auteur": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_construction_worker_mixes_mortar_for_the_renovation_of_the_Hamdan_Police_Station_in_Basrah._The_U.S._Army_Corps_of_Engineers_Gulf_Region_South_provides_quality_assurance_for_the_p_-_DPLA_-_357a86d8d25d320378a9f7e5127e5539.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/A_construction_worker_mixes_mortar_for_the_renovation_of_the_Hamdan_Police_Station_in_Basrah._The_U.S._Army_Corps_of_Engineers_Gulf_Region_South_provides_quality_assurance_for_the_p_-_DPLA_-_357a86d8d25d320378a9f7e5127e5539.jpeg/1280px-thumbnail.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2240
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:The farmer his own builder - a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities, describing reliable methods, offering (14596972797).jpg",
+      "description": "Identifier : farmerhisownbuil00robe ( find matches ) Title : The farmer his own builder : a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities, describing reliable methods, offering practical suggestions, presenting numerous details and formulas, and explaining simple rules for estimating the labor and materials required. With special reference to concrete and carpentry Year : 1918 ( 1910s ) Authors : Roberts, H. Armstrong (Howard Armstrong), 1885-1947 Subjects : Farm buildings Publisher : Philadelphia : D. McKay Contributi",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 25 August 2015",
+        "The farmer his own builder - a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities (1918)"
+      ],
+      "auteur": "Roberts, H. Armstrong (Howard Armstrong), 1885-1947",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_farmer_his_own_builder_-_a_guide_and_reference_book_for_the_construction_of_dwellings,_barns_and_other_farm_buildings,_together_with_their_utilities,_describing_reliable_methods,_offering_(14596972797).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/The_farmer_his_own_builder_-_a_guide_and_reference_book_for_the_construction_of_dwellings%2C_barns_and_other_farm_buildings%2C_together_with_their_utilities%2C_describing_reliable_methods%2C_offering_%2814596972797%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2040
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Handbook of construction plant, its cost and efficiency (1914) (14784231335).jpg",
+      "description": "Identifier : handbookofconstr00dana ( find matches ) Title : Handbook of construction plant, its cost and efficiency Year : 1914 ( 1910s ) Authors : Dana, Richard Turner, 1876-1928 Subjects : Contractors' operations Building Publisher : Chicago, The M. C. Clark Publishing Co. Contributing Library : The Library of Congress Digitizing Sponsor : The Library of Congress View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Befo",
+      "categories": [
+        "1914 books",
+        "Asphalt plants",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Handbook_of_construction_plant,_its_cost_and_efficiency_(1914)_(14784231335).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Handbook_of_construction_plant%2C_its_cost_and_efficiency_%281914%29_%2814784231335%29.jpg/1280px-Handbook_of_construction_plant%2C_its_cost_and_efficiency_%281914%29_%2814784231335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1308,
+      "hauteur": 1036
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Construction continues at Gabriela Mistral Primary School site 150603-F-LP903-566.jpg",
+      "description": "U.S. Air Force Senior Airman Jason Berry, 823rd Expeditionary RED HORSE Squadron water and fuels system maintenance journeyman, out of Hurlburt Field, Fla., cleans out a mortar mixing machine at the Gabriela Mistral primary school in Ocotes Alto, Honduras, June 3, 2015, after creating a batch of mortar. The school project is one part of the New Horizons Honduras 2015, an annual humanitarian and training exercise put on by U.S. Southern Command. New Horizons was launched in the 1980s and is an annual joint humanitarian assistance exercise that U.S. Southern Command conducts with a partner natio",
+      "categories": [
+        "Hurlburt Field",
+        "PD US Air Force",
+        "Files created by the United States Air Force with known IDs",
+        "Taken on missing SDC inception",
+        "Images from DoD uploaded by Fæ",
+        "Honduras photographs taken on 2015-06-03",
+        "823rd Rapid Engineer Deployable Heavy Operational Repair Squadron Engineers",
+        "New Horizons 2015"
+      ],
+      "auteur": "Capt. David Murphy",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_continues_at_Gabriela_Mistral_Primary_School_site_150603-F-LP903-566.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Construction_continues_at_Gabriela_Mistral_Primary_School_site_150603-F-LP903-566.jpg/1280px-Construction_continues_at_Gabriela_Mistral_Primary_School_site_150603-F-LP903-566.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4226,
+      "hauteur": 2854
+    }
+  ]
+}

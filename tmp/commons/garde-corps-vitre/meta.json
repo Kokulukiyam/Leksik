@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "garde-corps-vitre",
+    "terme": "le garde-corps vitré",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps dont le remplissage est un panneau de verre feuilleté, tenu par des pinces, un profilé ou des montants.",
+    "priorite": 1,
+    "requetes": [
+      "glass balustrade balcony",
+      "garde-corps verre",
+      "frameless glass railing"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "balcon"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Calico cat in top of a glass balustrade.jpg",
+      "description": "A calico cat in top of a glass balustrade.",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Location withheld",
+        "Sitting cats",
+        "Images with extracted images",
+        "Cats on balconies",
+        "Cats on white background",
+        "Tricolour patterned black tortoiseshell and white cats"
+      ],
+      "auteur": "My brother",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calico_cat_in_top_of_a_glass_balustrade.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Calico_cat_in_top_of_a_glass_balustrade.jpg/1280px-Calico_cat_in_top_of_a_glass_balustrade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Calico cat in top of a glass balustrade (2025; cropped 2026).jpg",
+      "description": "A calico cat in top of a glass balustrade.",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Location withheld",
+        "Sitting cats",
+        "Extracted images",
+        "Cats on balconies",
+        "Cats on white background",
+        "Tricolour patterned black tortoiseshell and white cats"
+      ],
+      "auteur": "My brother",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calico_cat_in_top_of_a_glass_balustrade_(2025;_cropped_2026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Calico_cat_in_top_of_a_glass_balustrade_%282025%3B_cropped_2026%29.jpg/1280px-Calico_cat_in_top_of_a_glass_balustrade_%282025%3B_cropped_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1317,
+      "hauteur": 1975
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:EVA- Lanxmeer OfficeBuilding4 2009.jpg",
+      "description": "L'un des deux immeubles de bureaux de \"E.V.A. Lanxmeer\" (écoquartier construit près de la gare de Culemborg (Pays-Bas, sud-est d'Utrecht). Un logement est intégré sur le toit (en terrasse) de l'immeuble Ce quartier est un projet semi-public d'environ 250 maisons écologiques (à vendre ou à louer en habitat social à loyer modéré), incluant aussi plusieurs immeubles de bureaux et d'une ferme urbaine. Le projet est basé sur la participation constante de représentants des habitants et de leur association (BEL). Il vise une implantation soutenable à faible empreinte écologique et fortes mesures comp",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "EVA Lanxmeer",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Balconies in the Netherlands",
+        "Outside stairs in the Netherlands",
+        "Balustrades in the Netherlands",
+        "Balcony railings",
+        "Windows in Gelderland",
+        "Netherlands photographs taken on 2009-07-10",
+        "Glass walls"
+      ],
+      "auteur": "Lamiot",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EVA-_Lanxmeer_OfficeBuilding4_2009.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/EVA-_Lanxmeer_OfficeBuilding4_2009.jpg/1280px-EVA-_Lanxmeer_OfficeBuilding4_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Porte de la Bourse de commerce de Paris.jpg",
+      "description": "Porte de la Bourse de commerce de Paris",
+      "categories": [
+        "Self-published work",
+        "Corbels in Paris",
+        "Balconies in Paris",
+        "Balustrades in Paris",
+        "Black doors in Paris",
+        "Metal doors in Paris",
+        "Glass doors in Paris",
+        "Bourse de commerce de Paris - Portal",
+        "Closed doors in Paris"
+      ],
+      "auteur": "Ath wik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Porte_de_la_Bourse_de_commerce_de_Paris.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Porte_de_la_Bourse_de_commerce_de_Paris.jpg/1280px-Porte_de_la_Bourse_de_commerce_de_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Balcony in the church of Mission San Miguel Arcangel, near Templeton, California, ca.1905 (CHS-4010).jpg",
+      "description": "Balcony in the church of Mission San Miguel Arcangel, near Templeton, California, ca.1905 Photograph of the balcony and wall decorations in the church of Mission San Miguel Arcangel, near Templeton, California, ca.1905, taken from the balcony. A balustrade lines fronts the balcony (right) while the wall painting (left) imitates a continuation of the balcony (a tromp d'oeil). A faux piller supports the balcony painting. Carved rafters are barely visible overhead. Call number : CHS-4010 Filename : CHS-4010 Coverage date : circa 1905 Part of collection : California Historical Society Collection, ",
+      "categories": [
+        "Glass plate negatives",
+        "PD US expired",
+        "Template Unknown (author)",
+        "California Historical Society Collection, 1860-1960",
+        "Images from USC Digital Library uploaded by Fæ",
+        "PD-US missing SDC copyright status",
+        "San Miguel Arcángel Mission Church"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_in_the_church_of_Mission_San_Miguel_Arcangel,_near_Templeton,_California,_ca.1905_(CHS-4010).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Balcony_in_the_church_of_Mission_San_Miguel_Arcangel%2C_near_Templeton%2C_California%2C_ca.1905_%28CHS-4010%29.jpg/1280px-Balcony_in_the_church_of_Mission_San_Miguel_Arcangel%2C_near_Templeton%2C_California%2C_ca.1905_%28CHS-4010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5137,
+      "hauteur": 3860
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2025-12-23 External elevator at 7 Bazaleti Street.jpg",
+      "description": "External glass elevator at 7 Bazaleti Street in Tbilisi, likely added to the building some time after its construction; the elevator stops at staircase landings in the middle between floors and overhangs the main entrance to the building",
+      "categories": [
+        "Self-published work",
+        "Glass in Georgia (country)",
+        "Elevators in Georgia (country)",
+        "Taken on missing SDC inception",
+        "Files with coordinates missing SDC location of creation",
+        "Balustrade balconies in Georgia (country)",
+        "2025 in Tbilisi",
+        "Buildings in Georgia (country) photographed in 2025",
+        "Apartment buildings in Tbilisi",
+        "Balconies in Tbilisi",
+        "Photographs by Yuri Samoylov taken in 2025",
+        "Taken with Samsung Galaxy A06",
+        "Glass elevators",
+        "Georgia (country) photographs taken on 2025-12-23",
+        "Bazaleti Street, Tbilisi",
+        "External elevators"
+      ],
+      "auteur": "Yuri Samoylov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-12-23_External_elevator_at_7_Bazaleti_Street.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-12-23_External_elevator_at_7_Bazaleti_Street.jpg/1280px-2025-12-23_External_elevator_at_7_Bazaleti_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2904,
+      "hauteur": 3995
+    }
+  ]
+}

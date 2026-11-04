@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "toit-monopente",
+    "terme": "le toit monopente",
+    "categorie": "Toitures",
+    "definition": "Toit formé d'un seul versant incliné.",
+    "priorite": 1,
+    "requetes": [
+      "single pitch roof house",
+      "toit monopente",
+      "mono-pitch roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "versant"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:William H. Johnson House, Buffalo, New York - 20200808.jpg",
+      "description": "The William H. Johnson House, 341 Jersey Street at Porter Avenue, Buffalo, New York, August 2020. Part of the National Register-listed Fargo Estate Historic District, this two-and-a-half-story Romanesque Revival brick residence was built in 1881 from a design by the local firm of Cyrus K. Porter & Son and features a steeply-pitched gable roof atop a pair of segmental-arched windows: a smaller and simpler one in the attic, and a large tripartite one on the second floor whose cut-stone eyebrow window head sports a decorative keystone in the center. The main entrance is fronted by a simple Classi",
+      "categories": [
+        "Fargo Estate Historic District",
+        "Cyrus Kinne Porter",
+        "Self-published work",
+        "Brick houses in Buffalo, New York",
+        "Files with coordinates missing SDC location of creation",
+        "August 2020 in Buffalo, New York",
+        "Romanesque Revival houses in Buffalo, New York",
+        "Jersey Street (Buffalo, New York)",
+        "Photos taken by Andre Carrotflower in Buffalo, New York",
+        "Photos taken by Andre Carrotflower in 2020",
+        "Houses built in Buffalo, New York in 1881"
+      ],
+      "auteur": "Andre Carrotflower",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:William_H._Johnson_House,_Buffalo,_New_York_-_20200808.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/William_H._Johnson_House%2C_Buffalo%2C_New_York_-_20200808.jpg/1280px-William_H._Johnson_House%2C_Buffalo%2C_New_York_-_20200808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1740,
+      "hauteur": 2320
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Daws-Keys House.jpg",
+      "description": "A quaint, single-story house with a steeply pitched, metal roof painted in a light color. The house has a warm brown exterior with vertical siding and a small, decorative gable near the roof’s peak, featuring a vent.",
+      "categories": [
+        "Uploads using Flickypedia",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Craig Talbert",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Daws-Keys_House.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Daws-Keys_House.jpg/1280px-Daws-Keys_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gas Street - 42 Gas Street - Canal House (5232827572).jpg",
+      "description": "Shots from Gas Street in Birmingham. Rain had stopped by then. Mostly slushy ice on the pavements now. I found where on Gas Street ITV are based (ITV Central). Quite a few old buildings down here from the early 19th century. This is 42 Gas Street. Grade II listed building. Cottage and associated yard (presently offices). Probably built for the Worcester and Birmingham Canal Company. c1800. Brick construction with pitched slate roof. Main facade, painted, facing canal. Rear facade on Gas Street. Two storey structure. Entrance offset to the right of centre flanked by single four light sash windo",
+      "categories": [
+        "Grade II listed buildings in Birmingham",
+        "Listed buildings in England with known IDs",
+        "1800s houses in England",
+        "Grade II listed houses in the West Midlands (county)",
+        "19th-century houses in the West Midlands (county)",
+        "December 2010 in Birmingham",
+        "Buildings in the West Midlands (county) photographed in 2010",
+        "Uploads by Matlin",
+        "United Kingdom photographs taken on 2010-12-04",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Gas Street, Birmingham"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gas_Street_-_42_Gas_Street_-_Canal_House_(5232827572).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Gas_Street_-_42_Gas_Street_-_Canal_House_%285232827572%29.jpg/1280px-Gas_Street_-_42_Gas_Street_-_Canal_House_%285232827572%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:John Lane House-111 John- Markham-Ontario-HPC15248-20201017 (2).jpg",
+      "description": "The John Lane House, is located at 111 John Street, in the Town of Markham. The one-and-a-half-storey clapboard sheathed house was constructed circa 1842. The House is associated with prominent local resident, John Lane. The John Lane House is a good representation of a Georgian cottage with Neo-Classical influence. A later Victorian addition successfully showcases and amalgamates the evolution in building styles. The structure follows an 'L' shaped plan. The original part of the dwelling has a low pitched roof while the addition has a high pitched roof. The main entrance is an eye capturing N",
+      "categories": [
+        "John Lane House",
+        "Self-published work",
+        "Heritage properties in Canada with known IDs",
+        "Uploaded via Campaign:wlm-ca",
+        "Files with coordinates missing SDC location of creation",
+        "October 2020 in Ontario",
+        "Images from Wiki Loves Monuments 2020",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2020 in Canada",
+        "Heritage properties in Canada missing SDC location of creation",
+        "2020 in Markham, Ontario"
+      ],
+      "auteur": "Mhsheikholeslami",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:John_Lane_House-111_John-_Markham-Ontario-HPC15248-20201017_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/John_Lane_House-111_John-_Markham-Ontario-HPC15248-20201017_%282%29.jpg/1280px-John_Lane_House-111_John-_Markham-Ontario-HPC15248-20201017_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3509,
+      "hauteur": 1969
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:John Lane House-111 John- Markham-Ontario-HPC15248-20201017 (3).jpg",
+      "description": "The John Lane House, is located at 111 John Street, in the Town of Markham. The one-and-a-half-storey clapboard sheathed house was constructed circa 1842. The House is associated with prominent local resident, John Lane. The John Lane House is a good representation of a Georgian cottage with Neo-Classical influence. A later Victorian addition successfully showcases and amalgamates the evolution in building styles. The structure follows an 'L' shaped plan. The original part of the dwelling has a low pitched roof while the addition has a high pitched roof. The main entrance is an eye capturing N",
+      "categories": [
+        "John Lane House",
+        "Self-published work",
+        "Heritage properties in Canada with known IDs",
+        "Uploaded via Campaign:wlm-ca",
+        "Files with coordinates missing SDC location of creation",
+        "October 2020 in Ontario",
+        "Images from Wiki Loves Monuments 2020",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2020 in Canada",
+        "Heritage properties in Canada missing SDC location of creation",
+        "2020 in Markham, Ontario"
+      ],
+      "auteur": "Mhsheikholeslami",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:John_Lane_House-111_John-_Markham-Ontario-HPC15248-20201017_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/John_Lane_House-111_John-_Markham-Ontario-HPC15248-20201017_%283%29.jpg/1280px-John_Lane_House-111_John-_Markham-Ontario-HPC15248-20201017_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Schmitt-McGowan House, Buffalo, New York - 20220321.jpg",
+      "description": "The Schmitt-McGowan House, 117 Huntley Road, Buffalo, New York, March 2022. The Treehaven or Judges' Row neighborhood has arguably the densest concentration of Minimal Traditional homes (a 1930s and '40s-era stylistic trend perhaps best described as a stripped-down version of the historic-eclectic styles popular in the 1920s) inside Buffalo's city line, and the Schmitt-McGowan House is unique among them in that the style from which it takes heaviest influence isn't the Tudor or Colonial Revival, but the French Eclectic. The steeply-pitched hipped roof, the segmentally-arched second-floor windo",
+      "categories": [
+        "Houses built in New York (state) in 1937",
+        "Self-published work",
+        "Views from automobiles in Buffalo, New York",
+        "Brick houses in Buffalo, New York",
+        "Files with coordinates missing SDC location of creation",
+        "Eclectic architecture in New York (state)",
+        "1930s houses in Buffalo, New York",
+        "Minimal Traditional architecture in Buffalo, New York",
+        "March 2022 in Buffalo, New York",
+        "Built in Buffalo, New York in 1937",
+        "Photos taken by Andre Carrotflower in Buffalo, New York",
+        "Huntley Road (Buffalo, New York)",
+        "Andre Carrotflower's \"Photo a Day For However Long I Can Keep It Going\" in 2022"
+      ],
+      "auteur": "Andre Carrotflower",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schmitt-McGowan_House,_Buffalo,_New_York_-_20220321.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Schmitt-McGowan_House%2C_Buffalo%2C_New_York_-_20220321.jpg/1280px-Schmitt-McGowan_House%2C_Buffalo%2C_New_York_-_20220321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2843,
+      "hauteur": 1703
+    }
+  ]
+}

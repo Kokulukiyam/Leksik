@@ -1,0 +1,58 @@
+{
+  "terme": {
+    "id": "fer-a-beton",
+    "terme": "le fer à béton",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Barre d'acier à surface crénelée, dite haute adhérence (HA), livrée en longueurs droites et façonnée sur le chantier.",
+    "priorite": 1,
+    "requetes": [
+      "rebar bundle steel bars",
+      "fer à béton barres HA",
+      "deformed reinforcing bars"
+    ],
+    "incompatibles": [
+      "ferraillage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Handbook for architects and builders (1898) (14776305971).jpg",
+      "description": "Identifier : handbookforarchi14illi ( find matches ) Title : Handbook for architects and builders Year : 1898 ( 1890s ) Authors : Illinois Society of Architects Subjects : Architecture Building Architects Publisher : Chicago Contributing Library : University of Illinois Urbana-Champaign Digitizing Sponsor : University of Illinois Urbana-Champaign View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: ts — CORRu",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 21 September 2015",
+        "Handbook for architects and builders (1898)",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Handbook_for_architects_and_builders_(1898)_(14776305971).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Handbook_for_architects_and_builders_%281898%29_%2814776305971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1072,
+      "hauteur": 814
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:The Architect and engineer of California and the Pacific Coast (1917) (14781789392).jpg",
+      "description": "Identifier : architectenginee5017sanf ( find matches ) Title : The Architect & engineer of California and the Pacific Coast Year : 1905 ( 1900s ) Authors : Subjects : Architecture Architecture Architecture Building Publisher : San Francisco, Calif. : Architect and Engineer Co Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appe",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "The Architect and engineer of California and the Pacific Coast (1917)"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Architect_and_engineer_of_California_and_the_Pacific_Coast_(1917)_(14781789392).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_Architect_and_engineer_of_California_and_the_Pacific_Coast_%281917%29_%2814781789392%29.jpg/1280px-The_Architect_and_engineer_of_California_and_the_Pacific_Coast_%281917%29_%2814781789392%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1970,
+      "hauteur": 2804
+    }
+  ]
+}

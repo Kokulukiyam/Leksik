@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "tournevis",
+    "terme": "le tournevis",
+    "categorie": "Chantier et outillage",
+    "definition": "Outil à manche et tige métallique dont le bout plat ou cruciforme serre les vis.",
+    "priorite": 1,
+    "requetes": [
+      "screwdriver",
+      "tournevis",
+      "incategory:\"Screwdrivers\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:MacAllister cordless screwdriver 02.jpg",
+      "description": "MacAllister MSCD18-Li-2 cordless screwdriver manufactured exclusively for French home-improvement retailer Castorama. Mounted Pozidriv PZ2 screwdriver bit",
+      "categories": [
+        "Retouched pictures",
+        "Castorama",
+        "Self-published work",
+        "Cordless screwdrivers",
+        "Tools on white background"
+      ],
+      "auteur": "LoMit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MacAllister_cordless_screwdriver_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/MacAllister_cordless_screwdriver_02.jpg/1280px-MacAllister_cordless_screwdriver_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4195,
+      "hauteur": 4122
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:MacAllister cordless screwdriver 01.jpg",
+      "description": "MacAllister MSCD18-Li-2 cordless screwdriver manufactured exclusively for French home-improvement retailer Castorama. Mounted Pozidriv PZ2 screwdriver bit",
+      "categories": [
+        "Retouched pictures",
+        "Castorama",
+        "Self-published work",
+        "Cordless screwdrivers",
+        "Tools on white background"
+      ],
+      "auteur": "LoMit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MacAllister_cordless_screwdriver_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/MacAllister_cordless_screwdriver_01.jpg/1280px-MacAllister_cordless_screwdriver_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4717,
+      "hauteur": 4171
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2023 Wkrętak elektryczny Xiaomi.jpg",
+      "description": "Xiaomi electric screwdriver",
+      "categories": [
+        "Self-published work",
+        "Featured pictures on Wikipedia, Polish",
+        "Cordless screwdrivers",
+        "Images by Jacek Halicki",
+        "Featured picture on the Polish Wikipedia by Jacek Halicki",
+        "Xiaomi products",
+        "Wikigrant WG 2023-3"
+      ],
+      "auteur": "Jacek Halicki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023_Wkr%C4%99tak_elektryczny_Xiaomi.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2023_Wkr%C4%99tak_elektryczny_Xiaomi.jpg/1280px-2023_Wkr%C4%99tak_elektryczny_Xiaomi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5096,
+      "hauteur": 3099
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Screwdriver, Birmingham-Shuttlesworth International Airport, Birmingham AL.jpg",
+      "description": "Screwdriver, Birmingham-Shuttlesworth International Airport, Birmingham Alabama",
+      "categories": [
+        "Coasters",
+        "Birmingham, Alabama",
+        "Screwdriver (cocktail)",
+        "Self-published work",
+        "Drinking glasses with straws"
+      ],
+      "auteur": "John Phelan",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Screwdriver,_Birmingham-Shuttlesworth_International_Airport,_Birmingham_AL.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg/1280px-Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2130,
+      "hauteur": 2838
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2023 Wkrętak z bitami.jpg",
+      "description": "Screwdriver with bits",
+      "categories": [
+        "Toolboxes",
+        "Self-published work",
+        "Images by Jacek Halicki",
+        "Tool sets with a ratcheting tool and a bit set for various screw types",
+        "Ratchet screwdrivers",
+        "Wikigrant WG 2023-3"
+      ],
+      "auteur": "Jacek Halicki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023_Wkr%C4%99tak_z_bitami.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2023_Wkr%C4%99tak_z_bitami.jpg/1280px-2023_Wkr%C4%99tak_z_bitami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4560,
+      "hauteur": 3512
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Screwdriver 2026.jpg",
+      "description": "Small pink Screwdriver",
+      "categories": [
+        "Screwdrivers",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2026-05-28"
+      ],
+      "auteur": "Сергей Михель",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Screwdriver_2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Screwdriver_2026.jpg/1280px-Screwdriver_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    }
+  ]
+}

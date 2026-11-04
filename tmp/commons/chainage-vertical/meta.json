@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "chainage-vertical",
+    "terme": "le chaînage vertical",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Petit poteau en béton armé coulé dans la maçonnerie aux angles et aux croisements des murs, souvent appelé raidisseur.",
+    "priorite": 1,
+    "requetes": [
+      "confined masonry tie column",
+      "chaînage vertical raidisseur",
+      "tie column block wall"
+    ],
+    "incompatibles": [
+      "chainage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Savoy Theatre - Church Street, Monmouth - lantern (18535373294).jpg",
+      "description": "A look around Monmouth in Monmouthshire - the county town of the county. Square-shaped metal lantern, Savoy Theatre facade on Church street in Monmouth, Wales. The shops on Church Street in Monmouth. The Savoy Theatre is at the end of this street. The Savoy Theatre. Grade II* listed building. &lt;a href=\" http://www.britishlistedbuildings.co.uk/wa-2812-savoy-theatre-and-monmouth-music-box-monmo#.VYx9c0aC8Xw \" rel=\"nofollow\"&gt;Savoy Theatre and Monmouth Music Box, Monmouth&lt;/a&gt; Location In the street leading north-east out of the town square in the centre of Monmouth, Wales. History A pro",
+      "categories": [
+        "Savoy Theatre, Monmouth",
+        "Brackets (lighting device components)",
+        "Metal lanterns",
+        "Photographs by Elliott Brown",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Square-shaped lanterns",
+        "Files with coordinates missing SDC location of creation (51° N, 3° W)",
+        "Exterior wall lanterns in England",
+        "Lanterns in Wales"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Savoy_Theatre_-_Church_Street,_Monmouth_-_lantern_(18535373294).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Savoy_Theatre_-_Church_Street%2C_Monmouth_-_lantern_%2818535373294%29.jpg/1280px-Savoy_Theatre_-_Church_Street%2C_Monmouth_-_lantern_%2818535373294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3216,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:The sanctuary of Zeus Hypsistos, Ancient Dion (6933607844).jpg",
+      "description": "A sacred way, lined with columns topped by marble eagles, led to the sanctuary of Zeus Hypsistos, Dominating the middle of the spacious square of the precinct (temenos) is the temple, which was surrounded by stoas with rooms for the needs of the sanctuary. In front of the temple are the altar and the stone block at which the animalsfor sacrifice were tied. The temple of Zeus Hypsistos comprises of one hall (cella) surrounded by flank columns (pteron). On the floor are mosaic representations of: a white bull and a double axe, in the pteron, and panels with depictions of crows, in the cella. On ",
+      "categories": [
+        "Sanctuary of Zeus Hypsistos (Ancient Dion)",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Carole Raddato",
+        "2012 in Dio-Olympos",
+        "Files with coordinates missing SDC location of creation",
+        "Greece photographs taken on 2012-04-03"
+      ],
+      "auteur": "Carole Raddato from FRANKFURT, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion_(6933607844).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%286933607844%29.jpg/1280px-The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%286933607844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:The sanctuary of Zeus Hypsistos, Ancient Dion (6933632176).jpg",
+      "description": "A sacred way, lined with columns topped by marble eagles, led to the sanctuary of Zeus Hypsistos, Dominating the middle of the spacious square of the precinct (temenos) is the temple, which was surrounded by stoas with rooms for the needs of the sanctuary. In front of the temple are the altar and the stone block at which the animalsfor sacrifice were tied. The temple of Zeus Hypsistos comprises of one hall (cella) surrounded by flank columns (pteron). On the floor are mosaic representations of: a white bull and a double axe, in the pteron, and panels with depictions of crows, in the cella. On ",
+      "categories": [
+        "Sanctuary of Zeus Hypsistos (Ancient Dion)",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Carole Raddato",
+        "2012 in Dio-Olympos",
+        "Files with coordinates missing SDC location of creation",
+        "Greece photographs taken on 2012-04-03"
+      ],
+      "auteur": "Carole Raddato from FRANKFURT, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion_(6933632176).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%286933632176%29.jpg/1280px-The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%286933632176%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:The sanctuary of Zeus Hypsistos, Ancient Dion.jpg",
+      "description": "A sacred way, lined with columns topped by marble eagles, led to the sanctuary of Zeus Hypsistos, Dominating the middle of the spacious square of the precinct (temenos) is the temple, which was surrounded by stoas with rooms for the needs of the sanctuary. In front of the temple are the altar and the stone block at which the animalsfor sacrifice were tied. The temple of Zeus Hypsistos comprises of one hall (cella) surrounded by flank columns (pteron). On the floor are mosaic representations of: a white bull and a double axe, in the pteron, and panels with depictions of crows, in the cella. On ",
+      "categories": [
+        "Sanctuary of Zeus Hypsistos (Ancient Dion)",
+        "Flickr images reviewed by FlickreviewR",
+        "Ancient Roman reliefs in Greece",
+        "Reliefs of eagles in Greece",
+        "Statues of Zeus",
+        "Photographs by Carole Raddato",
+        "2012 in Dio-Olympos",
+        "Files with coordinates missing SDC location of creation",
+        "Greece photographs taken on 2012-04-03",
+        "Sculptures in Dio-Olympos",
+        "Reliefs in Dio-Olympos"
+      ],
+      "auteur": "Carole",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion.jpg/1280px-The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:The sanctuary of Zeus Hypsistos, Ancient Dion (7079681743).jpg",
+      "description": "A sacred way, lined with columns topped by marble eagles, led to the sanctuary of Zeus Hypsistos, Dominating the middle of the spacious square of the precinct (temenos) is the temple, which was surrounded by stoas with rooms for the needs of the sanctuary. In front of the temple are the altar and the stone block at which the animalsfor sacrifice were tied. The temple of Zeus Hypsistos comprises of one hall (cella) surrounded by flank columns (pteron). On the floor are mosaic representations of: a white bull and a double axe, in the pteron, and panels with depictions of crows, in the cella. On ",
+      "categories": [
+        "Sanctuary of Zeus Hypsistos (Ancient Dion)",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Carole Raddato",
+        "2012 in Dio-Olympos",
+        "Files with coordinates missing SDC location of creation",
+        "Greece photographs taken on 2012-04-03",
+        "Sculptures in Dio-Olympos"
+      ],
+      "auteur": "Carole Raddato from FRANKFURT, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion_(7079681743).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%287079681743%29.jpg/1280px-The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%287079681743%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:The sanctuary of Zeus Hypsistos, Ancient Dion (6933623052).jpg",
+      "description": "A sacred way, lined with columns topped by marble eagles, led to the sanctuary of Zeus Hypsistos, Dominating the middle of the spacious square of the precinct (temenos) is the temple, which was surrounded by stoas with rooms for the needs of the sanctuary. In front of the temple are the altar and the stone block at which the animalsfor sacrifice were tied. The temple of Zeus Hypsistos comprises of one hall (cella) surrounded by flank columns (pteron). On the floor are mosaic representations of: a white bull and a double axe, in the pteron, and panels with depictions of crows, in the cella. On ",
+      "categories": [
+        "Sanctuary of Zeus Hypsistos (Ancient Dion)",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Carole Raddato",
+        "2012 in Dio-Olympos",
+        "Files with coordinates missing SDC location of creation",
+        "Greece photographs taken on 2012-04-03"
+      ],
+      "auteur": "Carole Raddato from FRANKFURT, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_sanctuary_of_Zeus_Hypsistos,_Ancient_Dion_(6933623052).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%286933623052%29.jpg/1280px-The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%286933623052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    }
+  ]
+}

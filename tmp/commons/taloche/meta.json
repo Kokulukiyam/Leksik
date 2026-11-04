@@ -1,0 +1,160 @@
+{
+  "terme": {
+    "id": "taloche",
+    "terme": "la taloche",
+    "categorie": "Chantier et outillage",
+    "definition": "Planchette rectangulaire en bois, plastique ou mousse, munie d'une poignée, pour dresser et talocher un enduit.",
+    "priorite": 1,
+    "requetes": [
+      "plastering float",
+      "taloche",
+      "wooden hand float"
+    ],
+    "incompatibles": [
+      "platoir"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Luchien.jpg",
+      "description": "Le chien : Luchien Le perroquet : Gabin Les personnes de gauche à droite : Fabian Le Castel (imitateur, voix de Gabin) Philippe SEN (dessinateur humoristique, créateur de Luchien) Bruno Taloche (humoriste, auteur et voix de Luchien) Michel Trutin (réalisateur de Luchien) Didier Waldemeyer (Diwa Media, coproducteur de Luchien) Ferdinand Kech (réalisateur de Luchien)",
+      "categories": [
+        "Fictional characters",
+        "Dogs in art",
+        "Parrots in art",
+        "Television programmes from Belgium",
+        "Television programmes from Switzerland",
+        "Male actors from Belgium",
+        "Frères Taloche",
+        "Self-published work",
+        "6 men",
+        "Animated television series",
+        "Fabian Le Castel"
+      ],
+      "auteur": "Stzck",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Luchien.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Luchien.jpg/1280px-Luchien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1468,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Canadian forest industries 1880-1881 (1881) (20523501055).jpg",
+      "description": "Title : Canadian forest industries 1880-1881 Identifier : canadianforest188081donm ( find matches ) Year : 1881 ( 1880s ) Authors : Subjects : Lumbering ; Forests and forestry ; Forest products ; Wood-pulp industry ; Wood-using industries Publisher : Don Mills, Ont. : Southam Business Publications Contributing Library : Fisher - University of Toronto Digitizing Sponsor : University of Toronto View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of thi",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "The Canada Lumberman, 1881",
+        "Gilman Paper Company Collection"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Canadian_forest_industries_1880-1881_(1881)_(20523501055).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Canadian_forest_industries_1880-1881_%281881%29_%2820523501055%29.jpg/1280px-Canadian_forest_industries_1880-1881_%281881%29_%2820523501055%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3146,
+      "hauteur": 1246
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:View from the Window at Le Gras, Joseph Nicéphore Niépce.jpg",
+      "description": "Nicéphore Niépce (1827). Vue de la fenêtre du domaine du Gras , à Saint-Loup-de-Varennes (Saône-et-Loire, Bourgogne, France). Première photographie permanente jamais réalisée.",
+      "categories": [
+        "Point de vue du Gras",
+        "PD-old-100-expired",
+        "Featured pictures on Wikipedia, English",
+        "Featured pictures on Wikipedia, German",
+        "Photographs with Wikidata item",
+        "Featured pictures on Wikipedia, Persian",
+        "Featured pictures on Wikipedia, Spanish",
+        "Featured pictures on Wikipedia, Turkish",
+        "Pages with complex technique templates",
+        "Featured pictures of Saône-et-Loire",
+        "CC-PD-Mark",
+        "Featured photographs in the public domain",
+        "Artworks digital representation of unknown type of work",
+        "Artworks digital representation of 2D work",
+        "Featured pictures on Wikipedia, Arabic",
+        "Photographs with Wikidata item: quick statements",
+        "Assessment tagged pages marked as POTY candidates",
+        "Photographs with Wikidata item missing author"
+      ],
+      "auteur": "Joseph Nicéphore Niépce",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:View_from_the_Window_at_Le_Gras,_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/View_from_the_Window_at_Le_Gras%2C_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg/1280px-View_from_the_Window_at_Le_Gras%2C_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2597,
+      "hauteur": 1805
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Foie gras IMGP2356.jpg",
+      "description": "Foie gras - food product made of the liver of a duck or goose that has been specially fattened.",
+      "categories": [
+        "Taken with Pentax K20D",
+        "Self-published work",
+        "Plates with foie gras in France",
+        "IGP canard à foie gras du Sud Ouest Quercy"
+      ],
+      "auteur": "Nikodem Nijaki",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Foie_gras_IMGP2356.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Foie_gras_IMGP2356.jpg/1280px-Foie_gras_IMGP2356.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4504,
+      "hauteur": 2976
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Foie gras IMGP2349.jpg",
+      "description": "Assiette composée de foie gras , de confit de groseille et de quelques feuilles de basilic .",
+      "categories": [
+        "Taken with Pentax K20D",
+        "Self-published work",
+        "Green vegetables",
+        "Vegetable dishes",
+        "Plates with foie gras in France",
+        "Oie à foie gras du Périgord"
+      ],
+      "auteur": "Nikodem Nijaki",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Foie_gras_IMGP2349.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Foie_gras_IMGP2349.jpg/1280px-Foie_gras_IMGP2349.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4517,
+      "hauteur": 2716
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Eugène Du Faget - Costume designs for Les Huguenots - 2. Julie Dorus-Gras as Marguerite, Adolphe Nourrit as Raoul, and Cornélie Falcon as Valentine.jpg",
+      "description": "Costume designs for Giacomo Meyerbeer 's Les Huguenots , No 2. Julie Dorus-Gras as Marguerite, Adolphe Nourrit as Raoul, and Cornélie Falcon as Valentine, for the Académie Royale de Musique-Le Peletier performance that opened 29 February 1836. Watercolour; probably 210 x 310 mm (Gallica lists ranges when multiple objects are in a set. The exact description is: \"aquarelle ; H. 120-210 x L. 080-310 mm - of which I'm presuming the smaller numbers refers to the single drawing. The crop is minimal.)",
+      "categories": [
+        "1836 paintings from France",
+        "Adolphe Nourrit",
+        "Cornélie Falcon",
+        "Julie Dorus-Gras",
+        "PD-old-100-expired",
+        "Featured pictures on Wikipedia, English",
+        "Information field template with formatting",
+        "Watercolor paintings in France",
+        "CC-PD-Mark",
+        "1836 watercolor paintings",
+        "Adam Cuerden's restorations",
+        "Featured pictures of people of France",
+        "Featured pictures of paintings from France",
+        "1836 paintings of people",
+        "1830s watercolor paintings from France",
+        "Featured pictures in the public domain",
+        "Les Huguenots (1836)",
+        "Eugène Du Faget"
+      ],
+      "auteur": "Adam Cuerden",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Les_Huguenots_-_2._Julie_Dorus-Gras_as_Marguerite,_Adolphe_Nourrit_as_Raoul,_and_Corn%C3%A9lie_Falcon_as_Valentine.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Les_Huguenots_-_2._Julie_Dorus-Gras_as_Marguerite%2C_Adolphe_Nourrit_as_Raoul%2C_and_Corn%C3%A9lie_Falcon_as_Valentine.jpg/1280px-Eug%C3%A8ne_Du_Faget_-_Costume_designs_for_Les_Huguenots_-_2._Julie_Dorus-Gras_as_Marguerite%2C_Adolphe_Nourrit_as_Raoul%2C_and_Corn%C3%A9lie_Falcon_as_Valentine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4876,
+      "hauteur": 3244
+    }
+  ]
+}

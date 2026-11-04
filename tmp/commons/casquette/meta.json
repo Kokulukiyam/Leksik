@@ -1,0 +1,165 @@
+{
+  "terme": {
+    "id": "casquette",
+    "terme": "la casquette",
+    "categorie": "Façade et ouvertures",
+    "definition": "Dalle de béton en saillie au-dessus d'une baie ou d'une façade, qui l'abrite du soleil et de la pluie.",
+    "priorite": 1,
+    "requetes": [
+      "concrete canopy over window",
+      "casquette béton fenêtre",
+      "concrete window hood Dakar"
+    ],
+    "incompatibles": [
+      "auvent",
+      "brise-soleil-horizontal"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Canopy 03 - Books of Remembrance - North Nave Bay L - National Cathedral - DC.JPG",
+      "description": "Looking up at the wooden canopy over the Books of Remembrance in the Kellog Bay on the north side of the nave of the Washington National Cathedral in Washington, D.C. The canopy was originally part of the tomb of Woodrow Wilson. Wilson died on February 3, 1924, almost three years after his second term as president ended. He was buried in a private service (per his wishes; there was no state funeral) on February 6, 1924, at the Washington National Cathedral. Wilson's body was interred in the burial vault beneath the Bethlehem Chapel -- the only part of the cathedral constructed at that time. Th",
+      "categories": [
+        "Taken with Canon EOS 5D Mark II",
+        "Flickr images reviewed by trusted users",
+        "Photographs by Tim Evanson",
+        "Tomb of Woodrow Wilson",
+        "Gothic architectural canopies"
+      ],
+      "auteur": "Tim Evanson",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Canopy_03_-_Books_of_Remembrance_-_North_Nave_Bay_L_-_National_Cathedral_-_DC.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Canopy_03_-_Books_of_Remembrance_-_North_Nave_Bay_L_-_National_Cathedral_-_DC.JPG/1280px-Canopy_03_-_Books_of_Remembrance_-_North_Nave_Bay_L_-_National_Cathedral_-_DC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Wilson Bay and window 03 - South Nave Bay F - National Cathedral - DC.JPG",
+      "description": "Standing in the nave and looking southwest at the tomb of Woodrow Wilson in the Wilson Bay of the Washington National Cathedral in Washington, D.C. This photo was taken the day after the anniversary of Wilson's death. The flowers are from President Barack Obama. Wilson died on February 3, 1924, almost three years after his second term as president ended. He was buried in a private service (per his wishes; there was no state funeral) on February 6, 1924, at the Washington National Cathedral. Wilson's body was interred in the burial vault beneath the Bethlehem Chapel -- the only part of the cath",
+      "categories": [
+        "Taken with Canon EOS 5D Mark II",
+        "Flickr images reviewed by trusted users",
+        "Photographs by Tim Evanson",
+        "Tomb of Woodrow Wilson",
+        "Wilson Bay"
+      ],
+      "auteur": "Tim Evanson",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wilson_Bay_and_window_03_-_South_Nave_Bay_F_-_National_Cathedral_-_DC.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Wilson_Bay_and_window_03_-_South_Nave_Bay_F_-_National_Cathedral_-_DC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1000,
+      "hauteur": 667
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Model Laundry, Galveston.jpg",
+      "description": "Two-story reinforced concrete commercial structure with brick and tile facing; square shape with flat roof; shaped parapets define corners; facades divided into sections by groupings of 3 windows or 3 doors (latter on lower level) with flat pilasters; openings divided into smaller, usually vertical, panes; corbeling along roofline; contrasting tile brick frame openings; colored diamond- and square shaped tiles used as decoration; attached canopy on east facade; later rear addition of yellow brick also has slight variation in window treatment. Significance: Building represents type of later com",
+      "categories": [
+        "Buildings in Galveston, Texas",
+        "National Register of Historic Places in Galveston County, Texas",
+        "Commercial buildings on the National Register of Historic Places in Texas",
+        "Self-published work",
+        "Model Laundry (Galveston)",
+        "National Register of Historic Places with known IDs"
+      ],
+      "auteur": "Jim Evans",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Model_Laundry,_Galveston.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Model_Laundry%2C_Galveston.jpg/1280px-Model_Laundry%2C_Galveston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2775,
+      "hauteur": 1527
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dülmen, Bült, Pins-Keller -- 2023 -- 6208.jpg",
+      "description": "View of the hood of the cellar window (cellar of the former home of the Pins family) at the Bült, Dülmen , North Rhine-Westphalia , Germany The Keller Pins near the parish church of St. Viktor in Dülmen is a decentralized memorial that commemorates the fate of the Jewish family of cattle dealer Louis Pins. After the family’s home was destroyed by a bombing raid in March 1945, only the historic sandstone walls surrounding the cellar remained; today, they are preserved under a glass canopy. Passersby can look through the glass directly into the atmospherically lit underground space, which is fur",
+      "categories": [
+        "Images with annotations",
+        "Photographs with aspect ratio of 3:2",
+        "Stolpersteine in Dülmen",
+        "ISO speed rating 100",
+        "Buildings in Germany photographed in 2023",
+        "Sculptures in Germany photographed in 2023",
+        "Self-published work",
+        "Photographs by Dietmar Rabich/Long exposure",
+        "Photographs by Dietmar Rabich/Dülmen",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Information field template with formatting",
+        "Photographs by Dietmar Rabich/Quality images of buildings",
+        "FoP-Germany",
+        "Buildings with addresses",
+        "Lens focal length 24 mm",
+        "Buildings in North Rhine-Westphalia at night",
+        "Exposure time 5 sec",
+        "Changes of XRay's photographs of the recent weeks",
+        "Images by XRay (flat list)",
+        "Cobblestones in Kreis Coesfeld",
+        "Uploaded with LrMediaWiki",
+        "Photographs by Dietmar Rabich/Quality images of monuments and memorials",
+        "F-number f/13",
+        "Sculptures in North Rhine-Westphalia at night",
+        "Dülmen photographs taken on 2023-01-17",
+        "Long exposure photography in architecture",
+        "Photographs by Dietmar Rabich/Architectural photography",
+        "Quality night photography in Dülmen",
+        "Fences in Dülmen-Mitte",
+        "Long exposure photographs of Dülmen",
+        "Night in Dülmen-Mitte",
+        "Photographs by Dietmar Rabich/Available light photography/Night",
+        "Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia",
+        "Photographs by Dietmar Rabich/Year/2023",
+        "Photographs by Dietmar Rabich/Quality images of fences",
+        "Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM",
+        "Keller Pins (Dülmen)"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_B%C3%BClt,_Pins-Keller_--_2023_--_6208.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/D%C3%BClmen%2C_B%C3%BClt%2C_Pins-Keller_--_2023_--_6208.jpg/1280px-D%C3%BClmen%2C_B%C3%BClt%2C_Pins-Keller_--_2023_--_6208.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6720,
+      "hauteur": 4480
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Coventry Cathedral - Epstein's sculpture of St.Michael and Lucifer.jpg",
+      "description": "Heading to the ruins of the destroyed Coventry Cathedral. This is its replacement from the 1950s and '60s! It is Grade I listed. From Cathedral of St Michael, Coventry \"COVENTRY Priory Street SP 3379 SE Cathedral of St Michael 833/2/411 GV. I Cathedral. 1951-62. Designed by Sir Basil Spence. Red sandstone ashlar with green slate cladding to chapels; concrete roof. Lofty space of 7 bays with nave; full height aisles; no clerestorey; full height Lady Chapel and Western (liturgical) porch; circular chapels to north-west (lit) and south-east (lit). Cathedral aligns east-west. Built at right angles",
+      "categories": [
+        "Taken with Fujifilm FinePix S2980",
+        "St Michaels Victory over the Devil (Sir Jacob Epstein)",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "Elliott Brown",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coventry_Cathedral_-_Epstein%27s_sculpture_of_St.Michael_and_Lucifer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Coventry_Cathedral_-_Epstein%27s_sculpture_of_St.Michael_and_Lucifer.jpg/1280px-Coventry_Cathedral_-_Epstein%27s_sculpture_of_St.Michael_and_Lucifer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3216,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:South Ruislip Underground Station (Central Line and Chiltern Railways).jpg",
+      "description": "South Ruislip Underground Station, 16 February 2024. In 1903-06 the GWR opened their New North Main Line (NNML) from Old Oak Common West Junction Acton (east of the GWR’s Acton Main Line station and south of the Central Line’s yet-to-be-built North Acton station) to Northolt Junction (to the south of South Ruislip station) to connect with the GWR/GCR joint line to the Midlands. In May 1908 the GWR opened their Northolt Junction station, becoming South Ruislip & Northolt Junction in September 1932 and plain South Ruislip in June 1937. Included in the London Passenger Transport Board’s 1935-40 N",
+      "categories": [
+        "Henry Haig",
+        "South Ruislip station",
+        "Sculptures in the London Borough of Hillingdon",
+        "Public art in the London Borough of Hillingdon",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2024 in the London Borough of Hillingdon",
+        "2024 on the London Underground",
+        "London photographs taken on 2024-02-16",
+        "Buildings in London photographed in 2024",
+        "February 2024 in rail transport in England",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)"
+      ],
+      "auteur": "Hugh Llewelyn",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:South_Ruislip_Underground_Station_(Central_Line_and_Chiltern_Railways).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/South_Ruislip_Underground_Station_%28Central_Line_and_Chiltern_Railways%29.jpg/1280px-South_Ruislip_Underground_Station_%28Central_Line_and_Chiltern_Railways%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1932
+    }
+  ]
+}

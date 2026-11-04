@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "plancher-a-corps-creux",
+    "terme": "le plancher à corps creux",
+    "categorie": "Structure",
+    "definition": "Plancher fait de poutrelles, d'hourdis et d'une dalle de compression, très répandu en Afrique de l'Ouest et en France.",
+    "priorite": 1,
+    "requetes": [
+      "beam and block floor",
+      "plancher hourdis poutrelles",
+      "hollow block slab"
+    ],
+    "incompatibles": [
+      "hourdis",
+      "poutrelle",
+      "table-de-compression",
+      "dalle"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Beam ^ block floor, Meadows View development - geograph.org.uk - 4523943.jpg",
+      "description": "Beam & block floor, Meadows View development",
+      "categories": [
+        "Eastbourne",
+        "Images from Geograph Britain and Ireland"
+      ],
+      "auteur": "Oast House Archive",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beam_%5E_block_floor,_Meadows_View_development_-_geograph.org.uk_-_4523943.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Beam_%5E_block_floor%2C_Meadows_View_development_-_geograph.org.uk_-_4523943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:-2019-11-29 Block & Beam floor beams, Trimingham.JPG",
+      "description": "A stack of concrete ‘T’ beams which are used in the construction of a suspended Beam & Block Floor. These have been delivered to a property in Trimingham , Norfolk.",
+      "categories": [
+        "Attribution only license",
+        "Images by Kolforn",
+        "November 2019 in Norfolk, England",
+        "United Kingdom photographs taken on 2019-11-29",
+        "Concrete beams",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2019-11-29_Block_%26_Beam_floor_beams,_Trimingham.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/-2019-11-29_Block_%26_Beam_floor_beams%2C_Trimingham.JPG/1280px--2019-11-29_Block_%26_Beam_floor_beams%2C_Trimingham.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:-2019-11-29 Block & Beam floor blocks, Trimingham.JPG",
+      "description": "Packs of concrete blocks which are used in the construction of a suspended Beam & Block Floor. These have been delivered to a property in Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Attribution only license",
+        "Images by Kolforn",
+        "November 2019 in Norfolk, England",
+        "United Kingdom photographs taken on 2019-11-29",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2019-11-29_Block_%26_Beam_floor_blocks,_Trimingham.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/-2019-11-29_Block_%26_Beam_floor_blocks%2C_Trimingham.JPG/1280px--2019-11-29_Block_%26_Beam_floor_blocks%2C_Trimingham.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Metal sign of Block 39 Forfar House.jpg",
+      "description": "The former Forfar House was Singapore’s tallest public residential building during its time. Built at a cost of $585,000, the 14-storey block of Singapore Improvement Trust (SIT) flats were officially opened on 24th October 1956 by then Minister for Local Government, Lands and Housing, Inche Abdul Hamid bin Haji Jumat, as the apex of architectural massing in Queenstown estate. The block comprised of 106 rental apartments and 4 shops which were served by two fast lifts that could take occupants to the top floor in 45 seconds. Designed in the Modern style, Chap Si Lau (Hokkien: 十四楼, 14-storey) h",
+      "categories": [
+        "Singapore",
+        "Files with no machine-readable author",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Mycommunitysg"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Metal_sign_of_Block_39_Forfar_House.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Metal_sign_of_Block_39_Forfar_House.jpg/1280px-Metal_sign_of_Block_39_Forfar_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3943,
+      "hauteur": 2957
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Sanctuary Floor, Fourth Presbyterian Church, Michigan Avenue, Streeterville, Chicago, IL.jpg",
+      "description": "Built in 1912-1914, this Gothic Revival and Tudor Revival-style church was designed by Ralph Adams Cram and Howard Van Doren Shaw to house the congregation of the Fourth Presbyterian Church, which was founded in 1871 when the congregation of North Presbyterian Church merged with the congregation of Westminster Presbyterian Church. The first sanctuary was dedicated the day of the Great Chicago Fire, and was claimed in the blaze, with a new church being built in 1874 at the corner of Rush Street and Superior Street, a few block south of the present church, along what was then the principal stree",
+      "categories": [
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Interior of Fourth Presbyterian Church (Chicago)"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sanctuary_Floor,_Fourth_Presbyterian_Church,_Michigan_Avenue,_Streeterville,_Chicago,_IL.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Sanctuary_Floor%2C_Fourth_Presbyterian_Church%2C_Michigan_Avenue%2C_Streeterville%2C_Chicago%2C_IL.jpg/1280px-Sanctuary_Floor%2C_Fourth_Presbyterian_Church%2C_Michigan_Avenue%2C_Streeterville%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4284,
+      "hauteur": 5712
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Timahoe Castle blocked up chancel arch.jpg",
+      "description": "The blocked up Gothic chancel arch of what was Timahoe Church (or \"Abbey\", according to old maps) which was later turned into a castle, as indicated by the slots for floor beams above. This is the view from the interior of the building onto the east gable.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Timahoe Castle"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Timahoe_Castle_blocked_up_chancel_arch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Timahoe_Castle_blocked_up_chancel_arch.jpg/1280px-Timahoe_Castle_blocked_up_chancel_arch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 4928
+    }
+  ]
+}

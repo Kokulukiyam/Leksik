@@ -1,0 +1,119 @@
+{
+  "terme": {
+    "id": "muret",
+    "terme": "le muret",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Mur bas qui délimite un jardin, une allée ou supporte une grille.",
+    "priorite": 1,
+    "requetes": [
+      "low garden wall",
+      "muret",
+      "low wall"
+    ],
+    "incompatibles": [
+      "mur-de-cloture"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Outhouse And Garden Wall, School, Low Causeway, Culross.jpg",
+      "description": "Outhouse And Garden Wall, School, Low Causeway, Culross",
+      "categories": [
+        "Uploaded with OpenRefine",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in the United Kingdom",
+        "Images from Wiki Loves Monuments 2025 in Scotland"
+      ],
+      "auteur": "Kirsty S. Ross",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Outhouse_And_Garden_Wall,_School,_Low_Causeway,_Culross.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Outhouse_And_Garden_Wall%2C_School%2C_Low_Causeway%2C_Culross.jpg/1280px-Outhouse_And_Garden_Wall%2C_School%2C_Low_Causeway%2C_Culross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8160,
+      "hauteur": 3768
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Low sandstone wall at Abbots Wood Garden - geograph.org.uk - 3219246.jpg",
+      "description": "Low sandstone wall at Abbots Wood Garden",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Borough of Barrow-in-Furness"
+      ],
+      "auteur": "Stephen Middlemiss",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Low_sandstone_wall_at_Abbots_Wood_Garden_-_geograph.org.uk_-_3219246.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Low_sandstone_wall_at_Abbots_Wood_Garden_-_geograph.org.uk_-_3219246.jpg/1280px-Low_sandstone_wall_at_Abbots_Wood_Garden_-_geograph.org.uk_-_3219246.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1530,
+      "hauteur": 1016
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Feature Wall in Low Water Garden (4465828545).jpg",
+      "description": "Feature Wall in Low Water Garden",
+      "categories": [
+        "2010 Melbourne International Flower and Garden Show",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Rexness Flickr stream"
+      ],
+      "auteur": "Rexness",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Feature_Wall_in_Low_Water_Garden_(4465828545).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Feature_Wall_in_Low_Water_Garden_%284465828545%29.jpg/1280px-Feature_Wall_in_Low_Water_Garden_%284465828545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1575,
+      "hauteur": 1050
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Trough in garden wall - geograph.org.uk - 5253959.jpg",
+      "description": "Trough in garden wall",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Shotley Low Quarter"
+      ],
+      "auteur": "Robert Graham",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Trough_in_garden_wall_-_geograph.org.uk_-_5253959.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Trough_in_garden_wall_-_geograph.org.uk_-_5253959.jpg/1280px-Trough_in_garden_wall_-_geograph.org.uk_-_5253959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2265,
+      "hauteur": 1675
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Fukuoka Daimyō Garden City Tower the detail of the NNW curtain wall Daimyō 2-chōme Chūō-ku Fukuoka 20250619.jpg",
+      "description": "Fukuoka Daimyō Garden City Tower, the detail of the north-northwest glass curtain wall (Address: 6-50, Daimyō 2-chōme, Chūō-ku, Fukuoka City 8100041, Japan)",
+      "categories": [
+        "Pages with malformed coordinate tags",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Fukuoka Daimyō Garden City Tower",
+        "Glass curtain walls in Chūō-ku, Fukuoka"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_detail_of_the_NNW_curtain_wall_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_detail_of_the_NNW_curtain_wall_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg/1280px-Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_detail_of_the_NNW_curtain_wall_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fukuoka Daimyō Garden City Tower the low-angle shot of the NE side Daimyō 2-chōme Chūō-ku Fukuoka 20240812.jpg",
+      "description": "Fukuoka Daimyō Garden City Tower, the low-angle shot of the northeast side (Address: 6-50, Daimyō 2-chōme, Chūō-ku, Fukuoka City 8100041, Japan)",
+      "categories": [
+        "Pages with malformed coordinate tags",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Fukuoka Daimyō Garden City Tower",
+        "Low-angle shots of buildings in Daimyō, Chūō-ku, Fukuoka"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_low-angle_shot_of_the_NE_side_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20240812.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_low-angle_shot_of_the_NE_side_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20240812.jpg/1280px-Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_low-angle_shot_of_the_NE_side_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20240812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2928,
+      "hauteur": 3904
+    }
+  ]
+}

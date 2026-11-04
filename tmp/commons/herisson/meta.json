@@ -1,0 +1,18 @@
+{
+  "terme": {
+    "id": "herisson",
+    "terme": "le hérisson",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Couche de cailloux ou de pierres concassées étalée et compactée sur le sol, sous un dallage, pour drainer et couper les remontées d'humidité.",
+    "priorite": 1,
+    "requetes": [
+      "hardcore layer under concrete slab",
+      "hérisson cailloux dallage",
+      "gravel sub-base slab"
+    ],
+    "incompatibles": [
+      "dallage"
+    ]
+  },
+  "candidats": []
+}

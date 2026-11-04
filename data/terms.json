@@ -3,37 +3,43 @@
     "id": "allege",
     "terme": "l'allège",
     "definition": "Partie de mur située sous une fenêtre, entre le plancher et l'appui de la baie.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 1
   },
   {
     "id": "appui-de-fenetre",
     "terme": "l'appui de fenêtre",
     "definition": "Tablette horizontale qui termine le bas d'une baie au-dessus de l'allège, souvent saillante et inclinée pour rejeter l'eau de pluie.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 1
   },
   {
     "id": "linteau",
     "terme": "le linteau",
     "definition": "Élément horizontal en pierre, bois ou béton qui ferme le haut d'une baie et porte la maçonnerie située au-dessus.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 1
   },
   {
     "id": "meneau",
     "terme": "le meneau",
     "definition": "Montant vertical fixe, en pierre ou en bois, qui divise une même fenêtre en plusieurs parties.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 2
   },
   {
     "id": "trumeau",
     "terme": "le trumeau",
-    "definition": "Pan de mur compris entre deux baies voisines ; dans un portail, pilier central qui en divise l'ouverture.",
-    "categorie": "Façade et ouvertures"
+    "definition": "Pan de mur plein compris entre deux baies voisines d'un même niveau.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2
   },
   {
     "id": "piedroit",
     "terme": "le piédroit",
     "definition": "Montant vertical de maçonnerie qui forme le côté d'une baie et porte le linteau ou l'arc.",
     "categorie": "Façade et ouvertures",
+    "priorite": 2,
     "incompatibles": [
       "trumeau"
     ]
@@ -42,19 +48,28 @@
     "id": "tympan",
     "terme": "le tympan",
     "definition": "Surface, souvent sculptée, enclose entre le linteau et l'arc d'un portail, ou entre les corniches d'un fronton.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "fronton"
+    ]
   },
   {
     "id": "oeil-de-boeuf",
     "terme": "l'œil-de-bœuf",
     "definition": "Petite fenêtre ronde ou ovale percée dans un mur ou un toit.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "lucarne"
+    ]
   },
   {
     "id": "balcon",
     "terme": "le balcon",
     "definition": "Plateforme en saillie sur une façade, accessible depuis l'intérieur et fermée par un garde-corps.",
     "categorie": "Façade et ouvertures",
+    "priorite": 1,
     "incompatibles": [
       "garde-corps",
       "balustre"
@@ -64,155 +79,197 @@
     "id": "garde-corps",
     "terme": "le garde-corps",
     "definition": "Barrière à hauteur d'appui qui protège des chutes au bord d'un vide, comme un balcon, un escalier ou une terrasse.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 1
   },
   {
     "id": "persienne",
     "terme": "la persienne",
     "definition": "Volet extérieur à lames inclinées qui laisse passer l'air tout en arrêtant le soleil.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1
   },
   {
     "id": "oriel",
     "terme": "l'oriel",
     "definition": "Avant-corps vitré en encorbellement sur une façade, sur un ou plusieurs étages.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 3
   },
   {
     "id": "imposte",
     "terme": "l'imposte",
     "definition": "Partie haute, fixe ou ouvrante et souvent vitrée, d'une porte ou d'une fenêtre, séparée du reste par une traverse.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "chassis-fixe"
+    ]
   },
   {
     "id": "brise-soleil",
     "terme": "le brise-soleil",
     "definition": "Ensemble de lames ou de panneaux fixés devant une façade pour la protéger du rayonnement solaire.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 1
   },
   {
     "id": "claustra",
     "terme": "le claustra",
     "definition": "Paroi ajourée faite d'éléments assemblés en béton, terre cuite ou bois, qui laisse passer l'air et la lumière.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 1,
+    "incompatibles": [
+      "brise-soleil",
+      "moucharabieh"
+    ]
   },
   {
     "id": "pignon",
     "terme": "le pignon",
     "definition": "Partie supérieure, triangulaire, d'un mur qui porte les deux versants d'un toit.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 1
   },
   {
     "id": "moucharabieh",
     "terme": "le moucharabieh",
     "definition": "Treillis de bois tourné, souvent en saillie devant une fenêtre, qui permet de voir sans être vu, typique de l'architecture arabe.",
-    "categorie": "Façade et ouvertures"
+    "categorie": "Façade et ouvertures",
+    "priorite": 3
   },
   {
     "id": "lucarne",
     "terme": "la lucarne",
     "definition": "Ouvrage en saillie sur un toit, muni d'une fenêtre verticale, qui éclaire le comble.",
-    "categorie": "Toitures"
+    "categorie": "Toitures",
+    "priorite": 3
   },
   {
     "id": "acrotere",
     "terme": "l'acrotère",
     "definition": "Muret en rive d'une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l'étanchéité.",
     "categorie": "Toitures",
+    "priorite": 1,
     "incompatibles": [
-      "garde-corps"
+      "garde-corps",
+      "garde-corps-maconne"
     ]
   },
   {
     "id": "gouttiere",
     "terme": "la gouttière",
     "definition": "Canal fixé au bas d'un toit qui recueille les eaux de pluie.",
-    "categorie": "Toitures"
+    "categorie": "Toitures",
+    "priorite": 1
   },
   {
     "id": "faitage",
     "terme": "le faîtage",
     "definition": "Ligne de rencontre supérieure des deux versants d'un toit, et l'ouvrage qui la couvre.",
-    "categorie": "Toitures"
+    "categorie": "Toitures",
+    "priorite": 1
   },
   {
     "id": "chaume",
     "terme": "le chaume",
     "definition": "Couverture de toit faite de paille, de roseaux ou d'herbes séchées.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2
   },
   {
     "id": "souche-de-cheminee",
     "terme": "la souche de cheminée",
     "definition": "Partie d'un conduit de cheminée qui dépasse au-dessus du toit.",
-    "categorie": "Toitures"
+    "categorie": "Toitures",
+    "priorite": 3
   },
   {
     "id": "shed",
     "terme": "le shed",
     "definition": "Toiture en dents de scie dont un versant de chaque dent est vitré pour éclairer l'intérieur, typique des bâtiments industriels.",
-    "categorie": "Toitures"
+    "categorie": "Toitures",
+    "priorite": 3
   },
   {
     "id": "fleche",
     "terme": "la flèche",
     "definition": "Couronnement très élancé, pyramidal ou conique, qui surmonte un clocher ou une tour.",
-    "categorie": "Toitures"
+    "categorie": "Toitures",
+    "priorite": 3
   },
   {
     "id": "lanterneau",
     "terme": "le lanterneau",
     "definition": "Élément vitré posé en saillie sur un toit pour éclairer et parfois aérer l'espace situé dessous.",
-    "categorie": "Toitures"
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "exutoire-de-desenfumage",
+      "verriere"
+    ]
   },
   {
     "id": "colonne",
     "terme": "la colonne",
     "definition": "Support vertical isolé, de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "priorite": 2,
+    "incompatibles": [
+      "chapiteau",
+      "pilastre"
+    ]
   },
   {
     "id": "arc-boutant",
     "terme": "l'arc-boutant",
     "definition": "Arc extérieur qui reporte la poussée d'une voûte sur une culée éloignée du mur.",
     "categorie": "Structure",
+    "priorite": 3,
     "incompatibles": [
-      "arc"
+      "arc",
+      "contrefort"
     ]
   },
   {
     "id": "contrefort",
     "terme": "le contrefort",
     "definition": "Massif de maçonnerie en saillie, appliqué contre un mur pour le renforcer et résister aux poussées.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "priorite": 3
   },
   {
     "id": "arc",
     "terme": "l'arc",
     "definition": "Élément courbe qui franchit une ouverture en reportant les charges sur ses appuis.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "priorite": 2
   },
   {
     "id": "voute",
     "terme": "la voûte",
     "definition": "Ouvrage de maçonnerie cintré qui couvre un espace, comme un arc prolongé dans la profondeur.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "priorite": 2
   },
   {
     "id": "cle-de-voute",
     "terme": "la clé de voûte",
     "definition": "Pierre placée au sommet d'un arc ou d'une voûte, qui bloque les autres pierres.",
     "categorie": "Structure",
+    "priorite": 3,
     "incompatibles": [
       "arc",
-      "voute"
+      "voute",
+      "claveau"
     ]
   },
   {
     "id": "coupole",
     "terme": "la coupole",
-    "definition": "Voûte en demi-sphère ou en calotte, élevée sur un plan circulaire, carré ou polygonal ; le mot désigne surtout sa face intérieure, l'extérieur étant le dôme.",
+    "definition": "Voûte en demi-sphère ou en calotte qui couvre un espace de plan circulaire, carré ou polygonal ; vue de l'extérieur, on l'appelle aussi dôme.",
     "categorie": "Structure",
+    "priorite": 2,
     "incompatibles": [
       "voute"
     ]
@@ -222,39 +279,49 @@
     "terme": "le corbeau",
     "definition": "Pierre ou pièce de bois en saillie sur un mur, qui porte une poutre, une corniche ou un encorbellement.",
     "categorie": "Structure",
+    "priorite": 3,
     "incompatibles": [
-      "modillon"
+      "modillon",
+      "console"
     ]
   },
   {
     "id": "ferme",
     "terme": "la ferme",
     "definition": "Assemblage triangulé de pièces de bois ou de métal qui porte la couverture d'un toit.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "priorite": 2
   },
   {
     "id": "colombage",
     "terme": "le colombage",
     "definition": "Ossature de mur en pièces de bois apparentes dont les vides sont remplis de maçonnerie ou de torchis.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "priorite": 3
   },
   {
     "id": "pilotis",
     "terme": "le pilotis",
     "definition": "Ensemble de pieux ou de poteaux qui portent une construction au-dessus du sol ou de l'eau, en laissant libre le niveau inférieur.",
-    "categorie": "Structure"
+    "categorie": "Structure",
+    "priorite": 3,
+    "incompatibles": [
+      "poteau"
+    ]
   },
   {
     "id": "corniche",
     "terme": "la corniche",
     "definition": "Couronnement en saillie, généralement mouluré, qui termine le haut d'un mur ou d'une façade.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 1
   },
   {
     "id": "bandeau",
     "terme": "le bandeau",
     "definition": "Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.",
     "categorie": "Ornement",
+    "priorite": 2,
     "incompatibles": [
       "corniche"
     ]
@@ -263,46 +330,66 @@
     "id": "fronton",
     "terme": "le fronton",
     "definition": "Couronnement triangulaire ou cintré, bordé de corniches, qui surmonte une façade, une porte ou une fenêtre.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "tympan"
+    ]
   },
   {
     "id": "chapiteau",
     "terme": "le chapiteau",
     "definition": "Partie supérieure, élargie et souvent sculptée, d'une colonne ou d'un pilastre.",
     "categorie": "Ornement",
+    "priorite": 2,
     "incompatibles": [
-      "pilastre"
+      "pilastre",
+      "colonne"
     ]
   },
   {
     "id": "pilastre",
     "terme": "le pilastre",
     "definition": "Pilier plat engagé dans un mur, dont il ne dépasse que légèrement, souvent avec base et chapiteau.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 2
   },
   {
     "id": "gargouille",
     "terme": "la gargouille",
     "definition": "Déversoir en saillie, souvent sculpté, qui rejette loin du mur l'eau de pluie du toit.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "gargouille-de-terrasse"
+    ]
   },
   {
     "id": "balustre",
     "terme": "le balustre",
     "definition": "Petite colonne renflée qui, répétée en série, forme une balustrade.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 1,
+    "incompatibles": [
+      "balustrade"
+    ]
   },
   {
     "id": "rosace",
     "terme": "la rosace",
     "definition": "Grande baie circulaire à remplage, garnie de vitraux, typique des églises gothiques.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "oeil-de-boeuf"
+    ]
   },
   {
     "id": "modillon",
     "terme": "le modillon",
     "definition": "Petite console répétée à intervalles réguliers sous la saillie d'une corniche.",
     "categorie": "Ornement",
+    "priorite": 3,
     "incompatibles": [
       "corniche"
     ]
@@ -311,94 +398,135 @@
     "id": "mascaron",
     "terme": "le mascaron",
     "definition": "Masque sculpté, figure humaine ou fantastique, qui orne une clé d'arc, une console ou une fontaine.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "bas-relief",
+      "haut-relief"
+    ]
   },
   {
     "id": "frise",
     "terme": "la frise",
     "definition": "Bande horizontale ornée de motifs répétés ou de figures, sculptée ou peinte, qui court le long d'un mur ou entre l'architrave et la corniche d'un entablement.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 2
   },
   {
     "id": "pinacle",
     "terme": "le pinacle",
     "definition": "Petit couronnement élancé, pyramidal ou conique, qui surmonte un contrefort ou un angle, surtout dans l'architecture gothique.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 3
   },
   {
     "id": "cariatide",
     "terme": "la cariatide",
     "definition": "Statue de femme qui sert de support à la place d'une colonne ou d'un pilastre.",
-    "categorie": "Ornement"
+    "categorie": "Ornement",
+    "priorite": 3
   },
   {
     "id": "brique",
     "terme": "la brique",
     "definition": "Bloc d'argile moulé puis cuit, utilisé en maçonnerie.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "brique-creuse"
+    ]
   },
   {
     "id": "parpaing",
     "terme": "le parpaing",
-    "definition": "Bloc de béton moulé, souvent creux, utilisé pour monter des murs.",
-    "categorie": "Matériaux et revêtements"
+    "definition": "Bloc de béton moulé, généralement creux, utilisé pour monter les murs ; on dit couramment agglo au Sénégal.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 1,
+    "incompatibles": [
+      "bloc-plein",
+      "maconnerie"
+    ]
   },
   {
     "id": "pierre-de-taille",
     "terme": "la pierre de taille",
     "definition": "Pierre taillée en blocs aux faces dressées, posés en assises régulières.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2
   },
   {
     "id": "moellon",
     "terme": "le moellon",
     "definition": "Pierre brute ou grossièrement équarrie, de petite taille, employée en maçonnerie.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "mur-en-moellons",
+      "opus-incertum"
+    ]
   },
   {
     "id": "beton-brut",
     "terme": "le béton brut",
     "definition": "Béton laissé apparent tel qu'il sort du coffrage, dont il garde l'empreinte.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2
   },
   {
     "id": "tuile",
     "terme": "la tuile",
     "definition": "Élément de couverture en terre cuite ou en béton, posé en recouvrement sur un toit.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "tuile-canal",
+      "tuile-mecanique",
+      "tuile-plate",
+      "tuile-faitiere"
+    ]
   },
   {
     "id": "ardoise",
     "terme": "l'ardoise",
     "definition": "Roche schisteuse fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3
   },
   {
     "id": "tole-ondulee",
     "terme": "la tôle ondulée",
     "definition": "Feuille de métal à ondulations régulières, utilisée en couverture ou en bardage.",
     "categorie": "Matériaux et revêtements",
+    "priorite": 1,
     "incompatibles": [
-      "bardage"
+      "bardage",
+      "acier-galvanise"
     ]
   },
   {
     "id": "carreau-de-ciment",
     "terme": "le carreau de ciment",
-    "definition": "Carreau décoratif fait de ciment coloré pressé et séché, sans cuisson.",
-    "categorie": "Matériaux et revêtements"
+    "definition": "Carreau de sol épais en ciment, aux motifs colorés incrustés dans la masse, pressé et séché sans cuisson ; fréquent dans les maisons anciennes.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 2,
+    "incompatibles": [
+      "carrelage",
+      "carreau-hexagonal"
+    ]
   },
   {
     "id": "bardage",
     "terme": "le bardage",
     "definition": "Revêtement extérieur de façade fait de lames ou de panneaux fixés sur une ossature.",
-    "categorie": "Matériaux et revêtements"
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2
   },
   {
     "id": "pise",
     "terme": "le pisé",
     "definition": "Terre crue compactée par couches successives dans un coffrage pour former des murs massifs.",
     "categorie": "Matériaux et revêtements",
+    "priorite": 3,
     "incompatibles": [
       "banco"
     ]
@@ -408,33 +536,44 @@
     "terme": "le banco",
     "definition": "Terre crue argileuse, souvent mêlée de paille, moulée en briques, modelée en murs ou appliquée en enduit dans la construction traditionnelle ouest-africaine.",
     "categorie": "Afrique de l'Ouest",
+    "priorite": 2,
     "incompatibles": [
-      "grenier-dogon"
+      "grenier-dogon",
+      "case",
+      "voute-nubienne",
+      "case-a-impluvium"
     ]
   },
   {
     "id": "toron",
     "terme": "le toron",
-    "definition": "Pièce de bois de rônier fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage.",
-    "categorie": "Afrique de l'Ouest"
+    "definition": "Pièce de bois, souvent de rônier, fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage annuel.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 2
   },
   {
     "id": "toguna",
     "terme": "le toguna",
-    "definition": "Abri de palabres du pays dogon, au toit très épais de tiges de mil posé sur des piliers bas.",
-    "categorie": "Afrique de l'Ouest"
+    "definition": "Abri de palabres du pays dogon, au toit très épais de couches de tiges de mil posé sur des piliers bas, souvent sculptés, qui empêchent de se tenir debout.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 3
   },
   {
     "id": "grenier-dogon",
     "terme": "le grenier dogon",
-    "definition": "Petit bâtiment en banco, coiffé d'un toit conique de paille, qui sert à stocker le mil.",
-    "categorie": "Afrique de l'Ouest"
+    "definition": "Petit bâtiment en banco de plan carré ou rond, coiffé d'un chapeau conique de paille, qui sert à stocker le mil dans les villages des falaises de Bandiagara.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 3,
+    "incompatibles": [
+      "banco"
+    ]
   },
   {
     "id": "case-a-impluvium",
     "terme": "la case à impluvium",
-    "definition": "Grande habitation diola de Casamance dont le toit en entonnoir recueille l'eau de pluie au centre.",
+    "definition": "Grande habitation diola circulaire de Casamance, en banco, dont le toit en entonnoir recueille l'eau de pluie dans un bassin au centre de la cour intérieure.",
     "categorie": "Afrique de l'Ouest",
+    "priorite": 3,
     "incompatibles": [
       "case"
     ]

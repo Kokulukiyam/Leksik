@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "charpente-metallique",
+    "terme": "la charpente métallique",
+    "categorie": "Toitures",
+    "definition": "Charpente de toit faite de profilés en acier (fermes, pannes) assemblés par boulons ou soudure.",
+    "priorite": 1,
+    "requetes": [
+      "steel roof structure warehouse",
+      "charpente métallique toiture",
+      "steel roof trusses purlins"
+    ],
+    "incompatibles": [
+      "charpente",
+      "ferme"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A BGM-109 Tomahawk cruise missile, armed with a live 1,000 -pound Bullpup conventional warhead, makes an approach on its target, a warehouse-size concrete and steel structure with 7 - DPLA - 62dfc7197bcbfc43b1a7f429293cbd9b.jpeg",
+      "description": "The original finding aid described this photograph as: Country: Unknown Scene Camera Operator: Unknown Release Status: Released to Public",
+      "categories": [
+        "BGM-109 Tomahawk",
+        "PD US Military",
+        "Media contributed by the National Archives and Records Administration",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Media contributed by National Archives at College Park - Still Pictures",
+        "US National Archives series: Combined Military Service Digital Photographic Files, 1982 - 2007"
+      ],
+      "auteur": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_BGM-109_Tomahawk_cruise_missile,_armed_with_a_live_1,000_-pound_Bullpup_conventional_warhead,_makes_an_approach_on_its_target,_a_warehouse-size_concrete_and_steel_structure_with_7_-_DPLA_-_62dfc7197bcbfc43b1a7f429293cbd9b.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/A_BGM-109_Tomahawk_cruise_missile%2C_armed_with_a_live_1%2C000_-pound_Bullpup_conventional_warhead%2C_makes_an_approach_on_its_target%2C_a_warehouse-size_concrete_and_steel_structure_with_7_-_DPLA_-_62dfc7197bcbfc43b1a7f429293cbd9b.jpeg/1280px-thumbnail.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781057363.jpg",
+      "description": "Built in 1908 by the Haglin-Stahr Company, this 185-foot-tall concrete structure was added to the adjacent Washburn, Crosby and Company A Flour Mill to increase production. The structure consists of 15 cylindrical concrete bins with a 5-story concrete and steel warehouse on top, with two large signs on the roof advertising Gold Medal Flour. An additional Feed Elevator, built in 1928 and designed by the Barnett & Record Company, with 15 more slender cylindrical concrete bins and a 20-foot-tall workhouse on top stands immediately to the west. Presently unused, this structure has proven difficult",
+      "categories": [
+        "Buildings in Minneapolis",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Gold Medal Flour"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781057363.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781057363.jpg/1280px-Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781057363.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2726,
+      "hauteur": 3635
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781065743.jpg",
+      "description": "Built in 1908 by the Haglin-Stahr Company, this 185-foot-tall concrete structure was added to the adjacent Washburn, Crosby and Company A Flour Mill to increase production. The structure consists of 15 cylindrical concrete bins with a 5-story concrete and steel warehouse on top, with two large signs on the roof advertising Gold Medal Flour. An additional Feed Elevator, built in 1928 and designed by the Barnett & Record Company, with 15 more slender cylindrical concrete bins and a 20-foot-tall workhouse on top stands immediately to the west. Presently unused, this structure has proven difficult",
+      "categories": [
+        "Buildings in Minneapolis",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Gold Medal Flour"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781065743.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781065743.jpg/1280px-Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781065743.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2713,
+      "hauteur": 3617
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51779983072.jpg",
+      "description": "Built in 1908 by the Haglin-Stahr Company, this 185-foot-tall concrete structure was added to the adjacent Washburn, Crosby and Company A Flour Mill to increase production. The structure consists of 15 cylindrical concrete bins with a 5-story concrete and steel warehouse on top, with two large signs on the roof advertising Gold Medal Flour. An additional Feed Elevator, built in 1928 and designed by the Barnett & Record Company, with 15 more slender cylindrical concrete bins and a 20-foot-tall workhouse on top stands immediately to the west. Presently unused, this structure has proven difficult",
+      "categories": [
+        "September 2021 in Minneapolis",
+        "Washburn \"A\" Mill",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "United States photographs taken on 2021-09-25"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51779983072.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51779983072.jpg/1280px-Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51779983072.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781458339.jpg",
+      "description": "Built in 1908 by the Haglin-Stahr Company, this 185-foot-tall concrete structure was added to the adjacent Washburn, Crosby and Company A Flour Mill to increase production. The structure consists of 15 cylindrical concrete bins with a 5-story concrete and steel warehouse on top, with two large signs on the roof advertising Gold Medal Flour. An additional Feed Elevator, built in 1928 and designed by the Barnett & Record Company, with 15 more slender cylindrical concrete bins and a 20-foot-tall workhouse on top stands immediately to the west. Presently unused, this structure has proven difficult",
+      "categories": [
+        "September 2021 in Minneapolis",
+        "Washburn \"A\" Mill",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "United States photographs taken on 2021-09-25",
+        "Gold Medal Flour"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781458339.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781458339.jpg/1280px-Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781458339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Gold Medal Flour Grain Elevator, West River Parkway, Mill District, Minneapolis, MN - 51781448349.jpg",
+      "description": "Built in 1908 by the Haglin-Stahr Company, this 185-foot-tall concrete structure was added to the adjacent Washburn, Crosby and Company A Flour Mill to increase production. The structure consists of 15 cylindrical concrete bins with a 5-story concrete and steel warehouse on top, with two large signs on the roof advertising Gold Medal Flour. An additional Feed Elevator, built in 1928 and designed by the Barnett & Record Company, with 15 more slender cylindrical concrete bins and a 20-foot-tall workhouse on top stands immediately to the west. Presently unused, this structure has proven difficult",
+      "categories": [
+        "Buildings in Minneapolis",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gold_Medal_Flour_Grain_Elevator,_West_River_Parkway,_Mill_District,_Minneapolis,_MN_-_51781448349.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781448349.jpg/1280px-Gold_Medal_Flour_Grain_Elevator%2C_West_River_Parkway%2C_Mill_District%2C_Minneapolis%2C_MN_-_51781448349.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

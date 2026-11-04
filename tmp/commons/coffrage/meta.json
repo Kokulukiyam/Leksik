@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "coffrage",
+    "terme": "le coffrage",
+    "categorie": "Chantier et outillage",
+    "definition": "Moule provisoire, en bois ou en métal, dans lequel on coule le béton pour lui donner sa forme.",
+    "priorite": 1,
+    "requetes": [
+      "concrete formwork construction",
+      "coffrage béton",
+      "incategory:\"Formwork\""
+    ],
+    "incompatibles": [
+      "coffrage-bois",
+      "coffrage-metallique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Concrete Formwork in winter Зимнее бетонирование.jpg",
+      "description": "Unusual vault geometry in concrete in Lesoparkovaya Moscow metro station, 2013",
+      "categories": [
+        "Concrete",
+        "Formwork",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Construction of Lesoparkovaya (Moscow Metro)"
+      ],
+      "auteur": "STALFORM Engineering",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_Formwork_in_winter_%D0%97%D0%B8%D0%BC%D0%BD%D0%B5%D0%B5_%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Concrete_Formwork_in_winter_%D0%97%D0%B8%D0%BC%D0%BD%D0%B5%D0%B5_%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.jpg/1280px-Concrete_Formwork_in_winter_%D0%97%D0%B8%D0%BC%D0%BD%D0%B5%D0%B5_%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Mario Kleff Overseeing the Construction of a 30-Meter Concrete Beam.jpg",
+      "description": "The image shows Mario Kleff overseeing the construction of a 30-meter concrete beam. It features formwork by Wandeegroup Asia used to shape the beam, highlighting the precision and scale of the project.",
+      "categories": [
+        "Construction",
+        "Formwork",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Mario Kleff",
+        "Long-span techniques in residential architecture"
+      ],
+      "auteur": "Designer Mario Kleff",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mario_Kleff_Overseeing_the_Construction_of_a_30-Meter_Concrete_Beam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mario_Kleff_Overseeing_the_Construction_of_a_30-Meter_Concrete_Beam.jpg/1280px-Mario_Kleff_Overseeing_the_Construction_of_a_30-Meter_Concrete_Beam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2268
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Formwork for concrete stair.JPG",
+      "description": "Formwork for a concrete stair",
+      "categories": [
+        "Taken with Sony Ericsson W810",
+        "Concrete",
+        "Formwork",
+        "FoP-Germany",
+        "Work by Mattes 2008",
+        "User:Mattes/Contributions/Topics/Germany/München",
+        "Construction sites in Munich",
+        "Stairs in Munich",
+        "File uploads by User:Mattes (flat)",
+        "User:Mattes/Contributions/Topics/Buildings and structures",
+        "Munich photographs taken on 2008-07-12"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Formwork_for_concrete_stair.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Formwork_for_concrete_stair.JPG/1280px-Formwork_for_concrete_stair.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 1224
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Installation Russian Mobil Formwork System Stalform for underground construction 01.jpg",
+      "description": "Mobil Formwork System Stalform for underground construction/Troparevo Subway Station, Moscow, Russia",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Concrete",
+        "Formwork",
+        "Self-published work",
+        "Construction of Troparyovo (Moscow Metro)"
+      ],
+      "auteur": "STALFORM Engineering",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Installation_Russian_Mobil_Formwork_System_Stalform_for_underground_construction_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Installation_Russian_Mobil_Formwork_System_Stalform_for_underground_construction_01.jpg/1280px-Installation_Russian_Mobil_Formwork_System_Stalform_for_underground_construction_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Construction in Russia. Formwork system for cut-and-cover construction Metro Station Alma-Atinscaya in Moscow.jpg",
+      "description": "Formwork system for cut-and-cover construction Metro Station Alma-Atinskaya in Moscow",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Concrete",
+        "Formwork",
+        "Self-published work",
+        "Construction of Alma-Atinskaya (Moscow Metro)"
+      ],
+      "auteur": "Stalform Engineering",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_in_Russia._Formwork_system_for_cut-and-cover_construction_Metro_Station_Alma-Atinscaya_in_Moscow.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Construction_in_Russia._Formwork_system_for_cut-and-cover_construction_Metro_Station_Alma-Atinscaya_in_Moscow.jpg/1280px-Construction_in_Russia._Formwork_system_for_cut-and-cover_construction_Metro_Station_Alma-Atinscaya_in_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Engineered Formwork System for cut and cover construction method. Механизированная опалубка свода.jpg",
+      "description": "Self-propelled Formwork STALFORM for construction Metro Station Novokosino in Moscow subway",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Concrete",
+        "Formwork",
+        "Self-published work",
+        "Construction of Novokosino (Moscow Metro)"
+      ],
+      "auteur": "STALFORM Engineering",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Engineered_Formwork_System_for_cut_and_cover_construction_method._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D1%81%D0%B2%D0%BE%D0%B4%D0%B0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Engineered_Formwork_System_for_cut_and_cover_construction_method._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D1%81%D0%B2%D0%BE%D0%B4%D0%B0.jpg/1280px-Engineered_Formwork_System_for_cut_and_cover_construction_method._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D1%81%D0%B2%D0%BE%D0%B4%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1280
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "terme": {
+    "id": "releve-d-etancheite",
+    "terme": "le relevé d'étanchéité",
+    "categorie": "Toitures",
+    "definition": "Remontée de la membrane d'étanchéité le long de l'acrotère ou d'un mur en bordure de terrasse.",
+    "priorite": 1,
+    "requetes": [
+      "roof membrane upstand parapet",
+      "relevé d'étanchéité acrotère",
+      "waterproofing upturn parapet"
+    ],
+    "incompatibles": [
+      "acrotere",
+      "toiture-terrasse"
+    ]
+  },
+  "candidats": []
+}

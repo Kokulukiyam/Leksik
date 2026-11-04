@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "brouette",
+    "terme": "la brouette",
+    "categorie": "Chantier et outillage",
+    "definition": "Caisse à une roue et deux bras qu'on pousse pour transporter matériaux et gravats.",
+    "priorite": 1,
+    "requetes": [
+      "wheelbarrow construction",
+      "brouette",
+      "incategory:\"Wheelbarrows\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2008-07-15 Construction wheelbarrow at Duke.jpg",
+      "description": "Brouette sur un chantier de l' université Duke à Durham, North Carolina / États-Unis .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Wheelbarrows in the United States",
+        "Duke University in 2008",
+        "Files by User:Specious",
+        "Construction of Duke University"
+      ],
+      "auteur": "Ildar Sagdejev ( Specious )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-07-15_Construction_wheelbarrow_at_Duke.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2008-07-15_Construction_wheelbarrow_at_Duke.jpg/1280px-2008-07-15_Construction_wheelbarrow_at_Duke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Wheelbarrow under construction in Lagos.jpg",
+      "description": "Under construction wheelbarrow in Lagos",
+      "categories": [
+        "CC-Zero",
+        "Lagos",
+        "Self-published work",
+        "Wheelbarrows in Nigeria"
+      ],
+      "auteur": "Jonywikis",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wheelbarrow_under_construction_in_Lagos.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Wheelbarrow_under_construction_in_Lagos.jpg/1280px-Wheelbarrow_under_construction_in_Lagos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2992,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Construction, wheelbarrow Fortepan 61741.jpg",
+      "description": "Tags: construction, wheelbarrow",
+      "categories": [
+        "Images from Fortepan",
+        "1960 in construction",
+        "Images uploaded by Fæ"
+      ],
+      "auteur": "FOTO:Fortepan — ID 61741 : Adományozó/Donor: Lipovits Károly. copie d'archive sur Wayback Machine",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction,_wheelbarrow_Fortepan_61741.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Construction%2C_wheelbarrow_Fortepan_61741.jpg/1280px-Construction%2C_wheelbarrow_Fortepan_61741.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5333,
+      "hauteur": 3474
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Wheelbarrow Outdoors.JPG",
+      "description": "A Wheelbarrow Outdoors",
+      "categories": [
+        "Taken with iPhone 5",
+        "CC-Zero",
+        "Self-published work",
+        "Construction tools",
+        "Files with coordinates missing SDC location of creation",
+        "Wheelbarrows in the United States"
+      ],
+      "auteur": "MarkBuckawicki",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wheelbarrow_Outdoors.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Wheelbarrow_Outdoors.JPG/1280px-Wheelbarrow_Outdoors.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Construction, factory, wheelbarrow Fortepan 70664.jpg",
+      "description": "Veszprém Megye?? Péti Nitrogén Műtrágyagyár Rt,??? Tags: construction, factory, wheelbarrow",
+      "categories": [
+        "Images from Fortepan",
+        "Images uploaded by Fæ",
+        "1938 photographs of Hungary"
+      ],
+      "auteur": "FOTO:Fortepan — ID 70664 : Adományozó/Donor: Veszprém Megyei Levéltár/Kozelka Tivadar.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction,_factory,_wheelbarrow_Fortepan_70664.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Construction%2C_factory%2C_wheelbarrow_Fortepan_70664.jpg/1280px-Construction%2C_factory%2C_wheelbarrow_Fortepan_70664.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8708,
+      "hauteur": 6298
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Construction of Marilao station in Ibayo SM 14.jpg",
+      "description": "Construction of Marilao station in 2022 in Ibayo: in front of SM Marilao is the New PNR station being constructed",
+      "categories": [
+        "Self-published work",
+        "McDonald's restaurants",
+        "Philippines photographs taken on 2022-09-28",
+        "Construction workers in Bulacan",
+        "People with wheelbarrows",
+        "Construction of Marilao station in 2022"
+      ],
+      "auteur": "RamaGaspar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_of_Marilao_station_in_Ibayo_SM_14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Construction_of_Marilao_station_in_Ibayo_SM_14.jpg/1280px-Construction_of_Marilao_station_in_Ibayo_SM_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    }
+  ]
+}

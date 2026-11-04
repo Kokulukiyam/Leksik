@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "membrane-bitumineuse",
+    "terme": "la membrane bitumineuse",
+    "categorie": "Toitures",
+    "definition": "Feuille d'étanchéité en bitume armé, posée en lés soudés au chalumeau sur une toiture-terrasse.",
+    "priorite": 1,
+    "requetes": [
+      "torch on bitumen membrane roof",
+      "étanchéité bitumineuse terrasse",
+      "bitumen roofing membrane"
+    ],
+    "incompatibles": [
+      "toiture-terrasse",
+      "releve-d-etancheite"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:4X-ECB Micha.jpg",
+      "description": "4X-ECB new livery at Ben Gurion airport",
+      "categories": [
+        "Self-published work",
+        "4X-ECB (aircraft)",
+        "2019 at Ben Gurion International Airport"
+      ],
+      "auteur": "LLHZ2805",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4X-ECB_Micha.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/4X-ECB_Micha.jpg/1280px-4X-ECB_Micha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4807,
+      "hauteur": 3211
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Roof waterproofing system application by Monotica Athens.jpg",
+      "description": "Roof waterproofing and sealing application (bitumen membranes) on a residential building in Egaleo, Athens, performed by Monotica. The project demonstrates the complete surface preparation and final coating for long-term protection against leaks",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Asphalt roll roofing",
+        "Rubber membranes"
+      ],
+      "auteur": "Μάριος-Μητσόγλου",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_waterproofing_system_application_by_Monotica_Athens.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Roof_waterproofing_system_application_by_Monotica_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:ECB at sunrise, Frankfurt am Main (IMG 20220427 071600-RR).jpg",
+      "description": "Contre-jour view of ECB tower in the morning fog shortly after sunrise",
+      "categories": [
+        "Contre-jour photography of Germany",
+        "GFDL",
+        "License migration redundant",
+        "Sachsenhäuser Ufer",
+        "Self-published work",
+        "Alte Brücke (Frankfurt am Main)",
+        "Hesse photographs taken on 2022-04-27",
+        "21st-century photographs of Frankfurt am Main",
+        "Fog in Hesse",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Skytower (ECB)",
+        "Dawn in Frankfurt am Main",
+        "Fog in Frankfurt am Main",
+        "Taken with Xiaomi Mi 11 5G (main camera)"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ECB_at_sunrise,_Frankfurt_am_Main_(IMG_20220427_071600-RR).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/ECB_at_sunrise%2C_Frankfurt_am_Main_%28IMG_20220427_071600-RR%29.jpg/1280px-ECB_at_sunrise%2C_Frankfurt_am_Main_%28IMG_20220427_071600-RR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2436,
+      "hauteur": 3045
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Seat of the ECB, Southwest view 20220213 1.jpg",
+      "description": "A southwest view of the Seat of the European Central Bank, Frankfurt",
+      "categories": [
+        "Uploads by User:DXR",
+        "Uploads by User:DXR in Hessen",
+        "Uploaded with LrMediaWiki",
+        "Skytower (ECB)",
+        "Uploads by User:DXR in 2022"
+      ],
+      "auteur": "DXR",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seat_of_the_ECB,_Southwest_view_20220213_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Seat_of_the_ECB%2C_Southwest_view_20220213_1.jpg/1280px-Seat_of_the_ECB%2C_Southwest_view_20220213_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6305,
+      "hauteur": 10839
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:View of Riverside and Seat of the ECB, Frankfurt-Ostend 20190330 1.jpg",
+      "description": "A south view of the riverside of the Main and the seat of the ECB, Frankfurt am Main-Ostend",
+      "categories": [
+        "Uploads by User:DXR",
+        "Uploads by User:DXR in 2019",
+        "Uploads by User:DXR in Hessen",
+        "Uploaded with LrMediaWiki",
+        "Skytower (ECB)",
+        "Deutschherrnuferpark"
+      ],
+      "auteur": "DXR",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:View_of_Riverside_and_Seat_of_the_ECB,_Frankfurt-Ostend_20190330_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/View_of_Riverside_and_Seat_of_the_ECB%2C_Frankfurt-Ostend_20190330_1.jpg/1280px-View_of_Riverside_and_Seat_of_the_ECB%2C_Frankfurt-Ostend_20190330_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6473,
+      "hauteur": 4606
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A6-ECB Boeing 777 Emirates (7608143792).jpg",
+      "description": "At Dubai International DXB",
+      "categories": [
+        "Items with VRTS permission confirmed",
+        "A6-ECB (aircraft)",
+        "2012 at Dubai International Airport",
+        "Photographs by Aeroprints.com",
+        "Boeing 777-300ER of Emirates at Dubai International Airport"
+      ],
+      "auteur": "Aeroprints.com",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A6-ECB_Boeing_777_Emirates_(7608143792).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/A6-ECB_Boeing_777_Emirates_%287608143792%29.jpg/1280px-A6-ECB_Boeing_777_Emirates_%287608143792%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1536
+    }
+  ]
+}

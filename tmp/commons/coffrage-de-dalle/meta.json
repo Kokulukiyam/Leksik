@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "coffrage-de-dalle",
+    "terme": "le coffrage de dalle",
+    "categorie": "Chantier et outillage",
+    "definition": "Plateau horizontal de panneaux porté par des étais, sur lequel on pose les armatures et coule une dalle.",
+    "priorite": 1,
+    "requetes": [
+      "slab formwork props",
+      "coffrage de dalle",
+      "deck formwork shoring"
+    ],
+    "incompatibles": [
+      "coffrage",
+      "etai"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Maison forestière. Coffrage de la dalle en béton armé. N° 1172. - Brousson - btv1b106881663.jpg",
+      "description": "Photographie en noir et blanc de la restauration des terrains en montagne. Mots-clés : Ouvrages de dérivation ; Saint-Julien-de-Maurienne (Savoie, France) ; Savoie (France)",
+      "categories": [
+        "CC-Zero",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "PD France",
+        "Images from Gallica",
+        "Files from Gallica",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot",
+        "Photographies de restauration des terrains en montagne",
+        "Files from Gallica needing categories (images of 1939)",
+        "Savoie (département) in the Archives nationales (France)",
+        "Forester's lodges in Savoie"
+      ],
+      "auteur": "Brousson, Pierre, agent public de l'inspection des eaux et forêts",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Maison_foresti%C3%A8re._Coffrage_de_la_dalle_en_b%C3%A9ton_arm%C3%A9._N%C2%B0_1172._-_Brousson_-_btv1b106881663.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Maison_foresti%C3%A8re._Coffrage_de_la_dalle_en_b%C3%A9ton_arm%C3%A9._N%C2%B0_1172._-_Brousson_-_btv1b106881663.jpg/1280px-Maison_foresti%C3%A8re._Coffrage_de_la_dalle_en_b%C3%A9ton_arm%C3%A9._N%C2%B0_1172._-_Brousson_-_btv1b106881663.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3587,
+      "hauteur": 2599
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:P1340074 Angers eglise St-Martin dalle funeraire rwk.jpg",
+      "description": "Dalle de couverture de coffrage funéraire en ardoise portant une épitaphe datée de 925. Cette pièce se trouve exposée dans l'église Saint-Martin d'Angers (Maine-et-Loire, France).",
+      "categories": [
+        "Église Saint-Martin d'Angers",
+        "Self-published work"
+      ],
+      "auteur": "Mbzt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:P1340074_Angers_eglise_St-Martin_dalle_funeraire_rwk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/P1340074_Angers_eglise_St-Martin_dalle_funeraire_rwk.jpg/1280px-P1340074_Angers_eglise_St-Martin_dalle_funeraire_rwk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 1663
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:P1340078 Angers eglise St-Martin dalle funeraire rwk.jpg",
+      "description": "Dalle de couverture de coffrage funéraire en ardoise portant une épitaphe datée de 784 ou 787. Cette pièce se trouve exposée dans l'église Saint-Martin d'Angers (Maine-et-Loire, France).",
+      "categories": [
+        "Église Saint-Martin d'Angers",
+        "Self-published work"
+      ],
+      "auteur": "Mbzt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:P1340078_Angers_eglise_St-Martin_dalle_funeraire_rwk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/P1340078_Angers_eglise_St-Martin_dalle_funeraire_rwk.jpg/1280px-P1340078_Angers_eglise_St-Martin_dalle_funeraire_rwk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2158,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Small City, travaux 1-68-3.jpg",
+      "description": "Mise en place du coffrage pour la première dalle.",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "Construction workers in Switzerland",
+        "Men at work in the canton of Geneva",
+        "Small City (Petit-Lancy), coffrages"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Small_City,_travaux_1-68-3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Small_City%2C_travaux_1-68-3.jpg/1280px-Small_City%2C_travaux_1-68-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 1417
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Small City, travaux 1-68-2.jpg",
+      "description": "Mise en place du coffrage pour la première dalle.",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "Construction workers in Switzerland",
+        "Men at work in the canton of Geneva",
+        "Small City (Petit-Lancy), coffrages"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Small_City,_travaux_1-68-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Small_City%2C_travaux_1-68-2.jpg/1280px-Small_City%2C_travaux_1-68-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2705,
+      "hauteur": 2603
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Small City, travaux 1-68-1.jpg",
+      "description": "Mise en place du coffrage pour la première dalle.",
+      "categories": [
+        "Self-published work",
+        "Small City (Petit-Lancy), coffrages",
+        "Small City (Petit-Lancy), travaux, excavation"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Small_City,_travaux_1-68-1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Small_City%2C_travaux_1-68-1.jpg/1280px-Small_City%2C_travaux_1-68-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3231,
+      "hauteur": 2154
+    }
+  ]
+}

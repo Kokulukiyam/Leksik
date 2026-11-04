@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "pilier-de-portail",
+    "terme": "le pilier de portail",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Poteau maçonné, souvent coiffé d'un chapeau, sur lequel le portail est fixé de chaque côté de l'entrée.",
+    "priorite": 1,
+    "requetes": [
+      "gate pillar",
+      "pilier de portail",
+      "brick gate pier"
+    ],
+    "incompatibles": [
+      "mur-de-cloture"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Rotary Welcome Arch 12.JPG",
+      "description": "Rotary Welcome Arch, Sault Ste. Marie, Ontario. ESSAR STEEL ALGOMA FACILITY Historically, the Rotary Welcome Cairns and Arch marked the only entrance into Sault Ste. Marie: the international ferry from Michigan. The Arch welcomed travelers disembarking from the ferry onto Ferry Street (previously known as Foster Drive, now Russ Ramsay Way). With the support of Algoma Steel, who designed and donated the arch, and other local businesses, the Rotary Welcome Arch was built with local materials and officially erected in 1937. The building of the International Bridge and the Trans-Canada Highway aro",
+      "categories": [
+        "Rotary Welcome Arch",
+        "Self-published work",
+        "Signs in Ontario",
+        "Historical information signs in Canada",
+        "Images from Wiki Loves Monuments 2012",
+        "Heritage properties in Canada with known IDs",
+        "Images from Wiki Loves Monuments 2012 in Canada",
+        "September 2012 in Ontario",
+        "WLM 2012 Canada unreviewed",
+        "Sault Ste. Marie, Ontario in the 2010s"
+      ],
+      "auteur": "Fungus Guy",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rotary_Welcome_Arch_12.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Rotary_Welcome_Arch_12.JPG/1280px-Rotary_Welcome_Arch_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Postbox-West-Gate-Warwick-September-2024.jpg",
+      "description": "Postbox at West Gate (High Street) Warwick, England in September 2024",
+      "categories": [
+        "Westgate pillar box, Warwick",
+        "Self-published work",
+        "Listed buildings in England with known IDs"
+      ],
+      "auteur": "Acediscovery",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Postbox-West-Gate-Warwick-September-2024.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Postbox-West-Gate-Warwick-September-2024.jpg/1280px-Postbox-West-Gate-Warwick-September-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 8000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Rotary Welcome Arch 5.JPG",
+      "description": "Rotary Welcome Arch, Sault Ste. Marie, Ontario.",
+      "categories": [
+        "Rotary Welcome Arch",
+        "Self-published work",
+        "Time 03:57",
+        "Images from Wiki Loves Monuments 2012",
+        "Heritage properties in Canada with known IDs",
+        "Images from Wiki Loves Monuments 2012 in Canada",
+        "2012 in road transport in Canada",
+        "September 2012 in Ontario",
+        "WLM 2012 Canada unreviewed",
+        "Sault Ste. Marie, Ontario in the 2010s"
+      ],
+      "auteur": "Fungus Guy",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rotary_Welcome_Arch_5.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Rotary_Welcome_Arch_5.JPG/1280px-Rotary_Welcome_Arch_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Canons gate pillar - 2026-05-20.jpg",
+      "description": "Canons gate pillar",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Canons gate pillars",
+        "London photographs taken on 2026-05-20",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Matt Brown",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Canons_gate_pillar_-_2026-05-20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Canons_gate_pillar_-_2026-05-20.jpg/1280px-Canons_gate_pillar_-_2026-05-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Château de Fontainebleau-Pilier du Portail-20170625.jpg",
+      "description": "La grille d'honneur qui remplace l'aile de Ferrare, détruite, est décorée par l'architecte du château de Fontainebleau. La gloire militaire est matérialisée par des aigles en plomb doré, perchés en haut de la grille. Les activités civiles magnifiées par les abeilles stylisées, superposés à l'initiale de Napoléon couronnée de palmes.",
+      "categories": [
+        "Artworks without Wikidata item",
+        "Unsupported technique",
+        "Self-published work",
+        "Pages with complex technique templates",
+        "Île-de-France photographs taken on 2017-06-25",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Cour du Cheval Blanc",
+        "Gates of Château de Fontainebleau",
+        "Clôture de la Cour du Cheval Blanc"
+      ],
+      "auteur": "Maximilien Joseph Hurtault",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Fontainebleau-Pilier_du_Portail-20170625.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ch%C3%A2teau_de_Fontainebleau-Pilier_du_Portail-20170625.jpg/1280px-Ch%C3%A2teau_de_Fontainebleau-Pilier_du_Portail-20170625.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3580,
+      "hauteur": 5369
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Warwick Eastgate CV34.jpg",
+      "description": "Victorian Fluted Pillar box of 1856 by Smith & Hawkes of Birmingham.",
+      "categories": [
+        "Eastgate pillar box, Warwick",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)",
+        "Files from Steve Knight Flickr stream"
+      ],
+      "auteur": "kitmasterbloke",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Warwick_Eastgate_CV34.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Warwick_Eastgate_CV34.jpg/1280px-Warwick_Eastgate_CV34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2608,
+      "hauteur": 4621
+    }
+  ]
+}

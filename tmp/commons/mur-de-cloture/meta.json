@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "mur-de-cloture",
+    "terme": "le mur de clôture",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Mur maçonné qui ferme une parcelle sur la rue et les voisins, typique des concessions et villas de Dakar.",
+    "priorite": 1,
+    "requetes": [
+      "boundary wall house",
+      "mur de clôture",
+      "compound wall Senegal"
+    ],
+    "incompatibles": [
+      "pilier-de-portail",
+      "chaperon"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Boundary Wall Of Manor House 02.jpg",
+      "description": "Boundary Wall Of Manor House .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-ou",
+      "categories": [
+        "Headington",
+        "Self-published work",
+        "Potential image for Wikidata item",
+        "Listed buildings in England with known IDs",
+        "Stone walls in Oxfordshire",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "Boundary Wall of Manor House, Oxford"
+      ],
+      "auteur": "EugeneStarostin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boundary_Wall_Of_Manor_House_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Boundary_Wall_Of_Manor_House_02.jpg/1280px-Boundary_Wall_Of_Manor_House_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Boundary Wall Of Manor House 01.jpg",
+      "description": "Boundary Wall Of Manor House .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-ou",
+      "categories": [
+        "Headington",
+        "Self-published work",
+        "Potential image for Wikidata item",
+        "Listed buildings in England with known IDs",
+        "Stone walls in Oxfordshire",
+        "Uploaded via Campaign:wlm-gb-eng"
+      ],
+      "auteur": "EugeneStarostin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boundary_Wall_Of_Manor_House_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Boundary_Wall_Of_Manor_House_01.jpg/1280px-Boundary_Wall_Of_Manor_House_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Boundary wall to Carshalton House along Pound Street.jpg",
+      "description": "Boundary Wall To Carshalton House Boundary Walls To Carshalton House Along Pound Street And Shorts Road .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--backgro",
+      "categories": [
+        "Pound Street, Carshalton",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Images from Wiki Loves Monuments 2017",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "Images from Wiki Loves Monuments 2017 in England",
+        "Images from Wiki Loves Monuments 2017 in the United Kingdom",
+        "Brick walls in London",
+        "Buildings in London photographed in 2017",
+        "United Kingdom photographs taken on 2017-09-07",
+        "WLM-UK 2017 unfiltered 09-07"
+      ],
+      "auteur": "Jhsteel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boundary_wall_to_Carshalton_House_along_Pound_Street.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Boundary_wall_to_Carshalton_House_along_Pound_Street.jpg/1280px-Boundary_wall_to_Carshalton_House_along_Pound_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Spelthorne - Boundary Wall Of Duncroft House - 20230903154600.jpg",
+      "description": "Spelthorne, Boundary Wall Of Duncroft House.",
+      "categories": [
+        "Staines-upon-Thames",
+        "Grade II listed buildings in Surrey",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "September 2023 in Surrey",
+        "United Kingdom photographs taken on 2023-09-03",
+        "Images from Wiki Loves Monuments 2023",
+        "Images from Wiki Loves Monuments 2023 in the United Kingdom",
+        "Buildings in Surrey photographed in 2023",
+        "Images from Wiki Loves Monuments 2023 in England",
+        "Uploaded with Monumental",
+        "Grade II listed walls in England",
+        "WLM-UK 2023 unfiltered 09-04"
+      ],
+      "auteur": "DanielMichaelPerry",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spelthorne_-_Boundary_Wall_Of_Duncroft_House_-_20230903154600.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Spelthorne_-_Boundary_Wall_Of_Duncroft_House_-_20230903154600.jpg/1280px-Spelthorne_-_Boundary_Wall_Of_Duncroft_House_-_20230903154600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:1369474 II BOUNDARY WALL OF RHODES HOUSE FRONTING SOUTH PARKS ROAD AND PARKS ROAD Oxford 20250617 0001.jpg",
+      "description": "Oxford: BOUNDARY WALL OF RHODES HOUSE FRONTING SOUTH PARKS ROAD AND PARKS ROAD",
+      "categories": [
+        "Uploaded with pattypan",
+        "Listed buildings in England with known IDs",
+        "Boundary Wall of Rhodes House Fronting South Parks Road and Parks Road, Oxford"
+      ],
+      "auteur": "Tilman2007",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1369474_II_BOUNDARY_WALL_OF_RHODES_HOUSE_FRONTING_SOUTH_PARKS_ROAD_AND_PARKS_ROAD_Oxford_20250617_0001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/1369474_II_BOUNDARY_WALL_OF_RHODES_HOUSE_FRONTING_SOUTH_PARKS_ROAD_AND_PARKS_ROAD_Oxford_20250617_0001.jpg/1280px-1369474_II_BOUNDARY_WALL_OF_RHODES_HOUSE_FRONTING_SOUTH_PARKS_ROAD_AND_PARKS_ROAD_Oxford_20250617_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5504,
+      "hauteur": 8321
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Lodge, Gates And Boundary Wall Of Bay House School.jpg",
+      "description": "Lodge, Gates And Boundary Wall Of Bay House School (building in Gosport, Hampshire, UK)",
+      "categories": [
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "United Kingdom photographs taken on 2022-08-01",
+        "Files with coordinates missing SDC location of creation (50° N, 2° W)",
+        "Fire insurance signs in England",
+        "Entrance Lodge To Stanley Park, Bay House School"
+      ],
+      "auteur": "Chris debian",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lodge,_Gates_And_Boundary_Wall_Of_Bay_House_School.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lodge%2C_Gates_And_Boundary_Wall_Of_Bay_House_School.jpg/1280px-Lodge%2C_Gates_And_Boundary_Wall_Of_Bay_House_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

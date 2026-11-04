@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "toit-a-quatre-pans",
+    "terme": "le toit à quatre pans",
+    "categorie": "Toitures",
+    "definition": "Toit formé de quatre versants inclinés, deux longs pans et deux croupes, sans pignon.",
+    "priorite": 1,
+    "requetes": [
+      "hip roof house",
+      "toit à quatre pans",
+      "hipped roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "croupe",
+      "aretier",
+      "versant"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:MICKLE HOUSE.jpg",
+      "description": "THE HOUSE IS ALSO KNOWN AS THE HIP ROOF HOUSE; IT WAS A 1742 SADDLERY SHOP USED CONTINUOUSLY AS A HOME. IT WAS MOVED ONTO THE GROUNDS OF GREENFIELD HALL",
+      "categories": [
+        "Taken with Nikon D3",
+        "Self-published work",
+        "Mickle House (Haddonfield, New Jersey)",
+        "National Register of Historic Places with known IDs",
+        "Photographs by User:KLOTZ"
+      ],
+      "auteur": "JERRYE & ROY KLOTZ MD",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MICKLE_HOUSE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/MICKLE_HOUSE.jpg/1280px-MICKLE_HOUSE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 1991
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Adare - Main Street (N21) - Large Yellow Thatched-Roof House - geograph.org.uk - 3125741.jpg",
+      "description": "Adare - Main Street (N21) - Large Yellow Thatched-Roof House",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Hipped-Roof Thatched Cottage, Adare"
+      ],
+      "auteur": "Suzanne Mischyshyn",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adare_-_Main_Street_(N21)_-_Large_Yellow_Thatched-Roof_House_-_geograph.org.uk_-_3125741.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Adare_-_Main_Street_%28N21%29_-_Large_Yellow_Thatched-Roof_House_-_geograph.org.uk_-_3125741.jpg/1280px-Adare_-_Main_Street_%28N21%29_-_Large_Yellow_Thatched-Roof_House_-_geograph.org.uk_-_3125741.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2799,
+      "hauteur": 1516
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Hipped-roof houses on Broadlea Street - geograph.org.uk - 6499064.jpg",
+      "description": "Hipped-roof houses on Broadlea Street",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Semi-detached houses in Bramley, Leeds",
+        "Broadlea Street, Bramley, West Yorkshire"
+      ],
+      "auteur": "Stephen Craven",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hipped-roof_houses_on_Broadlea_Street_-_geograph.org.uk_-_6499064.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Hipped-roof_houses_on_Broadlea_Street_-_geograph.org.uk_-_6499064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Photograph of the Hip Roof Frame of the Amoureaux House in Ste Genevieve MO.jpg",
+      "description": "This is a 1986 photograph of the frame for the hip roof of the Amoureaux House in Ste. Geneviève, Missouri . Note that the roof is no longer a hip roof. The Amoureaux House, sometimes called the Bauvais-Amoureux House, was built in in 1793 in Ste. Geneviève, Missouri . It was built by Benjamin Amoureaux, who came from France. It is currently operated as a museum by the Missouri Department of Natural Resources. It is one of three poteaux-en-terre buildings that survive. The others are the Bequet-Ribault House and the Vital St. Gemme Beauvais House I (20 S. Main Street).",
+      "categories": [
+        "Amoureux House",
+        "Historic American Buildings Survey of Missouri",
+        "PD US NPS",
+        "Files from the Historic American Buildings Survey",
+        "Black and white photographs of Missouri"
+      ],
+      "auteur": "Jack E. Boucher",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Photograph_of_the_Hip_Roof_Frame_of_the_Amoureaux_House_in_Ste_Genevieve_MO.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Photograph_of_the_Hip_Roof_Frame_of_the_Amoureaux_House_in_Ste_Genevieve_MO.jpg/1280px-Photograph_of_the_Hip_Roof_Frame_of_the_Amoureaux_House_in_Ste_Genevieve_MO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3306,
+      "hauteur": 4804
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A house roof at Theydon Mount Essex England.JPG",
+      "description": "Tiled roof and chimney of a brick and timber framed house at Mount End in the civil parish of Theydon Mount , Essex , England",
+      "categories": [
+        "Images with annotations",
+        "Houses in Essex",
+        "Mount End",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Chimneys in Essex",
+        "Timber framing in Essex",
+        "Tiled roofs in Essex",
+        "Hipped dormers in the United Kingdom",
+        "Acabashi photos: buildings in Essex",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Hipped roofs in England",
+        "Roof tiles in England",
+        "Theydon Mount in June 2015 in Essex",
+        "Theydon Mount photographs taken on 2015-06-26"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_house_roof_at_Theydon_Mount_Essex_England.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/A_house_roof_at_Theydon_Mount_Essex_England.JPG/1280px-A_house_roof_at_Theydon_Mount_Essex_England.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5247,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:RUS-2016-Bolshoi Zayatsky Island-Stone House.jpg",
+      "description": "Maison en pierre sur l’île Bolchoï Zaïatsky, îles Solovki , mer Blanche , Russie .",
+      "categories": [
+        "Stone houses",
+        "Hipped roofs",
+        "Saint Andrew Skete (Solovki)",
+        "Attribution only license",
+        "Self-published work",
+        "Featured Pictures (Commons) by User:Godot13",
+        "Information field template with formatting",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Images from Wiki Loves Monuments 2016",
+        "Featured pictures of Arkhangelsk Oblast",
+        "All Images by User:Godot13",
+        "Uploaded via Campaign:wlm-ru",
+        "Images from Wiki Loves Monuments 2016 in Russia",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "All photographs by User:Godot13",
+        "Russia by User:Godot13",
+        "2016 User:Godot13",
+        "Featured pictures from Wiki Loves Monuments Russia 2016",
+        "Shortlisted images of Wiki Loves Monuments 2016 in Russia",
+        "Russian heritage ID 2910149004"
+      ],
+      "auteur": "Godot13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg/1280px-RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3062,
+      "hauteur": 4592
+    }
+  ]
+}

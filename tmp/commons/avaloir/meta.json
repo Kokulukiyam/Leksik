@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "avaloir",
+    "terme": "l'avaloir",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Bouche d'égout ouverte dans la bordure ou le caniveau, par laquelle l'eau de pluie descend dans le réseau.",
+    "priorite": 1,
+    "requetes": [
+      "storm drain inlet curb",
+      "avaloir",
+      "kerb inlet"
+    ],
+    "incompatibles": [
+      "grille-avaloir",
+      "caniveau"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Curb inlet and catch basin.jpg",
+      "description": "A cub inlet and catch basin in San Diego, CA, USA. A white stamp denotes that no dumping should occur as the storm drain discharges to the ocean.",
+      "categories": [
+        "Kearny Mesa, San Diego",
+        "Curbs in California",
+        "Self-published work",
+        "Storm drains",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Mds08011",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Curb_inlet_and_catch_basin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Curb_inlet_and_catch_basin.jpg/1280px-Curb_inlet_and_catch_basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:-42 drain.jpg",
+      "description": "drain",
+      "categories": [
+        "Toilets",
+        "Self-published work",
+        "Floor drains"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-42_drain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/-42_drain.jpg/1280px--42_drain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8341,
+      "hauteur": 6645
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Storm drain curb inlet San Diego.jpg",
+      "description": "Curb inlet to San Diego Storm Drain",
+      "categories": [
+        "Streets in San Diego, California",
+        "East Village, San Diego",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2020-03-07"
+      ],
+      "auteur": "Mds08011",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Storm_drain_curb_inlet_San_Diego.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Storm_drain_curb_inlet_San_Diego.jpg/1280px-Storm_drain_curb_inlet_San_Diego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Blocked floor drain.jpg",
+      "description": "A blocked floor drain in a kitchen, with the waste water in the drain not flowing down.",
+      "categories": [
+        "Self-published work",
+        "Floor drains",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Sgconlaw",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blocked_floor_drain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Blocked_floor_drain.jpg/1280px-Blocked_floor_drain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Building and engineering news (1925) (14784819643).jpg",
+      "description": "Identifier : buildingengineer2525cont ( find matches ) Title : Building & engineering news Year : 1914 ( 1910s ) Authors : Contractors' and Dealers' Association of California Subjects : Architecture Building Construction industry Engineering Publisher : San Francisco : L. A. Larson Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Tex",
+      "categories": [
+        "Construction industry",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 30 October 2015",
+        "Building and engineering news (1925)",
+        "Internet Archive document buildingengineer2525cont"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_and_engineering_news_(1925)_(14784819643).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Building_and_engineering_news_%281925%29_%2814784819643%29.jpg/1280px-Building_and_engineering_news_%281925%29_%2814784819643%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2122,
+      "hauteur": 1734
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Panorama depuis le belvédère du Mont des Avaloirs.jpg",
+      "description": "Panorama de 360°×37° en projection cylindrique vu depuis le belvédère du Mont des Avaloirs. L'image est séparée en deux moitiés de 180° chacune centrée respectivement plein sud pour la partie haute et plein nord pour la partie basse. Les photographies ayant servi à réaliser ce panorama ont été prises le 27 mai 2020 à 18h15 (heure locale).",
+      "categories": [
+        "Mont des Avaloirs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "JackDesBwa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Panorama_depuis_le_belv%C3%A9d%C3%A8re_du_Mont_des_Avaloirs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Panorama_depuis_le_belv%C3%A9d%C3%A8re_du_Mont_des_Avaloirs.jpg/1280px-Panorama_depuis_le_belv%C3%A9d%C3%A8re_du_Mont_des_Avaloirs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 10000,
+      "hauteur": 2880
+    }
+  ]
+}

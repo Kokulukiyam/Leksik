@@ -1,0 +1,119 @@
+{
+  "terme": {
+    "id": "fil-a-plomb",
+    "terme": "le fil à plomb",
+    "categorie": "Chantier et outillage",
+    "definition": "Poids métallique suspendu au bout d'une ficelle, qui donne la verticale pour monter un mur droit.",
+    "priorite": 1,
+    "requetes": [
+      "plumb bob",
+      "fil à plomb",
+      "incategory:\"Plumb bobs\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Plumb bob.jpg",
+      "description": "Plumb bob suspended on a string, photo cropped with the Gimp.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A85",
+        "Plumb bobs",
+        "License migration completed",
+        "Self-published work"
+      ],
+      "auteur": "Jim Thomas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plumb_bob.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Plumb_bob.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 978,
+      "hauteur": 1449
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Plumb bob with string.jpg",
+      "description": "A plumb bob is a weight with a pointed tip on the bottom, suspended from a string. It is used as a vertical direction as a reference line.",
+      "categories": [
+        "Measuring instruments",
+        "Plumb bobs",
+        "Self-published work"
+      ],
+      "auteur": "Salil Kumar Mukherjee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plumb_bob_with_string.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Plumb_bob_with_string.jpg/1280px-Plumb_bob_with_string.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2055,
+      "hauteur": 3312
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Plumb bob with string 1.jpg",
+      "description": "A plumb bob is a weight with a pointed tip on the bottom, suspended from a string. It is used as a vertical direction as a reference line.",
+      "categories": [
+        "Measuring instruments",
+        "Plumb bobs",
+        "Self-published work"
+      ],
+      "auteur": "Salil Kumar Mukherjee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plumb_bob_with_string_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Plumb_bob_with_string_1.jpg/1280px-Plumb_bob_with_string_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3323,
+      "hauteur": 2861
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Plumb bob with string 2.jpg",
+      "description": "A plumb bob is a weight with a pointed tip on the bottom, suspended from a string. It is used as a vertical direction as a reference line.",
+      "categories": [
+        "Measuring instruments",
+        "Plumb bobs",
+        "Self-published work"
+      ],
+      "auteur": "Salil Kumar Mukherjee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plumb_bob_with_string_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Plumb_bob_with_string_2.jpg/1280px-Plumb_bob_with_string_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2733,
+      "hauteur": 3492
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Many Plumb Bobs.jpg",
+      "description": "A collection of mostly metal plumb bobs, in a mirror-backed cabinet.",
+      "categories": [
+        "CC-Zero",
+        "Plumb bobs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ejtack",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Many_Plumb_Bobs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Many_Plumb_Bobs.jpg/1280px-Many_Plumb_Bobs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1835,
+      "hauteur": 2962
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Roman plumb bob.jpg",
+      "description": "Roman plumb bob. In the Archaeological Museum, Split, Croatia. Bronze.",
+      "categories": [
+        "Ancient Roman architecture in Croatia",
+        "Plumb bobs",
+        "Groma",
+        "Self-published work",
+        "Ancient Roman tools",
+        "Ancient Roman lead artefacts",
+        "Ancient Roman metalware in Split archaeological museum"
+      ],
+      "auteur": "Gaius Cornelius",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roman_plumb_bob.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Roman_plumb_bob.jpg/1280px-Roman_plumb_bob.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 3240
+    }
+  ]
+}

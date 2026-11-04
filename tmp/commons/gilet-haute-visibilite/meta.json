@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "gilet-haute-visibilite",
+    "terme": "le gilet haute visibilité",
+    "categorie": "Chantier et outillage",
+    "definition": "Gilet jaune ou orange fluo à bandes réfléchissantes, qui rend le travailleur visible.",
+    "priorite": 1,
+    "requetes": [
+      "high visibility vest worker",
+      "gilet haute visibilité",
+      "hi-vis vest"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Warnweste gelb.jpg",
+      "description": "Yellow reflective vest",
+      "categories": [
+        "High-visibility vests",
+        "Green clothing"
+      ],
+      "auteur": "Magnus Mertens",
+      "licence": "CC BY-SA 2.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Warnweste_gelb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Warnweste_gelb.jpg/1280px-Warnweste_gelb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1788,
+      "hauteur": 1884
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Road Worker in Hokkaido Japan.jpg",
+      "description": "A road worker carries his gear over a bridge in rural Hokkaido Japan",
+      "categories": [
+        "Workers",
+        "Road workers",
+        "Yuni, Hokkaido",
+        "Self-published work",
+        "Workers in Japan",
+        "Paddy fields in Hokkaido",
+        "High-visibility vests in Japan",
+        "Outdoor workers"
+      ],
+      "auteur": "Sgroey",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Road_Worker_in_Hokkaido_Japan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Road_Worker_in_Hokkaido_Japan.jpg/1280px-Road_Worker_in_Hokkaido_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3523,
+      "hauteur": 2208
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Rolls-Royce Trent 7000 engine on Delta A330-900 at London Heathrow April 2025.jpg",
+      "description": "The Trent 7000 engine on Delta Air Lines Airbus A330-900 N427DX parked at London Heathrow Airport",
+      "categories": [
+        "Rolls-Royce Trent 7000",
+        "Self-published work",
+        "Airbus A330-900neo in 2025",
+        "Parked Airbus A330",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Airport workers",
+        "Airbus A330-900neo of Delta Air Lines at London Heathrow Airport",
+        "N427DX (aircraft)",
+        "Taken with Nikon Z 8 and Nikkor Z 24-120mm f/4 S",
+        "High-visibility vests in London",
+        "April 2025 at London Heathrow Airport",
+        "Aircraft in the United Kingdom photographed in April 2025",
+        "Photographs by User:4300streetcar"
+      ],
+      "auteur": "4300streetcar",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Trent_7000_engine_on_Delta_A330-900_at_London_Heathrow_April_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Rolls-Royce_Trent_7000_engine_on_Delta_A330-900_at_London_Heathrow_April_2025.jpg/1280px-Rolls-Royce_Trent_7000_engine_on_Delta_A330-900_at_London_Heathrow_April_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8256,
+      "hauteur": 5504
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Uczestnicy XI Zaglebiowskiej Masy Krytycznej.jpg",
+      "description": "Uczestnicy XI Zaglebiowskiej Masy Krytycznej",
+      "categories": [
+        "Zagłębie Critical Mass",
+        "High-visibility vests",
+        "Self-published work",
+        "Many bicycles",
+        "Children with bicycles"
+      ],
+      "auteur": "Stimoroll",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Uczestnicy_XI_Zaglebiowskiej_Masy_Krytycznej.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Uczestnicy_XI_Zaglebiowskiej_Masy_Krytycznej.jpg/1280px-Uczestnicy_XI_Zaglebiowskiej_Masy_Krytycznej.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3288,
+      "hauteur": 2594
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:11 Zagłębiowska Masa Krytyczna.jpg",
+      "description": "L’une des plus grandes manifestations cyclistes de type masse critique en Pologne et en Europe : la Zagłębiowska Masa Krytyczna traverse les villes de Sosnowiec, Będzin, Czeladź et Dąbrowa Górnicza. Elle est organisée chaque année depuis 2011, généralement au début du mois de mai. Le record de participation a été atteint en 2018 avec environ 5000 participants.",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "Będzin",
+        "Zagłębie Critical Mass",
+        "Cycling events",
+        "High-visibility vests",
+        "Self-published work",
+        "Bicycles in motion",
+        "Many bicycles",
+        "Files with coordinates missing SDC location of creation",
+        "Cycling in the 2010s",
+        "High-visibility vests in Poland",
+        "May 2018 in Silesian Voivodeship",
+        "2018 photos by Krzysztof Popławski"
+      ],
+      "auteur": "Stimoroll",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:11_Zag%C5%82%C4%99biowska_Masa_Krytyczna.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/11_Zag%C5%82%C4%99biowska_Masa_Krytyczna.jpg/1280px-11_Zag%C5%82%C4%99biowska_Masa_Krytyczna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 3056
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chasuble de manif solidaires informatique.jpg",
+      "description": "chasuble de manif solidaires informatique",
+      "categories": [
+        "High-visibility vests",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2024-09-20"
+      ],
+      "auteur": "Exilexi",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chasuble_de_manif_solidaires_informatique.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Chasuble_de_manif_solidaires_informatique.jpg/1280px-Chasuble_de_manif_solidaires_informatique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    }
+  ]
+}

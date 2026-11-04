@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "dos-d-ane",
+    "terme": "le dos-d'âne",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Bosse aménagée en travers de la chaussée pour obliger les véhicules à ralentir.",
+    "priorite": 1,
+    "requetes": [
+      "speed bump",
+      "dos d'âne ralentisseur",
+      "incategory:\"Speed bumps\""
+    ],
+    "incompatibles": [
+      "passage-pieton"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Speed bump and sign, Swansea Toronto 2026.jpg",
+      "description": "A sign for a speed bump as well as the bump itself in the Swansea neighbourhood in Toronto in 2026.",
+      "categories": [
+        "Swansea, Toronto",
+        "Self-published work",
+        "Speed bumps in Canada",
+        "Files with coordinates missing SDC location of creation",
+        "Bump warning road signs in Canada",
+        "Armadale Avenue, Toronto",
+        "July 2026 in Toronto",
+        "Pictures taken by Chicken4War in Toronto"
+      ],
+      "auteur": "Chicken4War",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Speed_bump_and_sign,_Swansea_Toronto_2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Speed_bump_and_sign%2C_Swansea_Toronto_2026.jpg/1280px-Speed_bump_and_sign%2C_Swansea_Toronto_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A vandalized speed bump sign in Guelph, Ontario.jpg",
+      "description": "A vandalized speed bump sign in Guelph, Ontario.",
+      "categories": [
+        "Self-published work",
+        "Road signs in Ontario",
+        "Faces in art",
+        "Files with coordinates missing SDC location of creation",
+        "2025 in Guelph",
+        "Speed bump signs",
+        "August 2025 in Ontario",
+        "Signs in Guelph",
+        "Graffiti on road signs",
+        "Vandalised road signs in Canada"
+      ],
+      "auteur": "Gogerr",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_vandalized_speed_bump_sign_in_Guelph,_Ontario.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/A_vandalized_speed_bump_sign_in_Guelph%2C_Ontario.jpg/1280px-A_vandalized_speed_bump_sign_in_Guelph%2C_Ontario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Speed-bump street marking-LosAngeles.jpg",
+      "description": "Street markings for a speed bump in the Elysian Park neighborhood of Los Angeles, California, United States",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Road markings in the United States",
+        "Speed cushions in the United States"
+      ],
+      "auteur": "Eric Polk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Speed-bump_street_marking-LosAngeles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Speed-bump_street_marking-LosAngeles.jpg/1280px-Speed-bump_street_marking-LosAngeles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6836,
+      "hauteur": 2010
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Speed-bump caution sign, Los Angeles.jpg",
+      "description": "Caution/Speed limit sign for upcoming speed hump in the Elysian Park neighborhood of Los Angeles, California, United States.",
+      "categories": [
+        "Self-published work",
+        "Elysian Park, Los Angeles",
+        "Files with coordinates missing SDC location of creation",
+        "Bump warning road signs in the United States",
+        "Advisory speed warning road signs in the United States",
+        "Road signs in Los Angeles",
+        "20 mph speed limit road signs in the United States"
+      ],
+      "auteur": "Eric Polk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Speed-bump_caution_sign,_Los_Angeles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Speed-bump_caution_sign%2C_Los_Angeles.jpg/1280px-Speed-bump_caution_sign%2C_Los_Angeles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1544,
+      "hauteur": 2492
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ležeći policajac 016.jpg",
+      "description": "",
+      "categories": [
+        "PD-user",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Streets in Belgrade",
+        "Media missing infobox template",
+        "Grey coupes",
+        "Speed bumps in Serbia",
+        "Serbia photographs taken on 2003-01-11",
+        "Peugeot 406 Coupé in Serbia",
+        "Automobiles in Belgrade",
+        "Peugeot 406 Coupé with BBS rims",
+        "Peugeot 406 Coupé Phase 2",
+        "Peugeot 406 Coupé in Cosmos"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Le%C5%BEe%C4%87i_policajac_016.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Le%C5%BEe%C4%87i_policajac_016.jpg/1280px-Le%C5%BEe%C4%87i_policajac_016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Speed bump on Württembergische Straße.jpg",
+      "description": "Speed bump on Württembergische Straße",
+      "categories": [
+        "Württembergische Straße (Berlin-Wilmersdorf)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Berlin photographs taken on 2024-07-13",
+        "Vertical deflection devices in Germany"
+      ],
+      "auteur": "Андрей Романенко",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Speed_bump_on_W%C3%BCrttembergische_Stra%C3%9Fe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Speed_bump_on_W%C3%BCrttembergische_Stra%C3%9Fe.jpg/1280px-Speed_bump_on_W%C3%BCrttembergische_Stra%C3%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "terme": {
+    "id": "etai-en-bois",
+    "terme": "l'étai en bois",
+    "categorie": "Chantier et outillage",
+    "definition": "Perche ou bastaing de bois calé sous un coffrage pour le soutenir, très employé sur les chantiers au Sénégal.",
+    "priorite": 1,
+    "requetes": [
+      "timber shoring poles slab",
+      "wooden props formwork",
+      "étai en bois coffrage"
+    ],
+    "incompatibles": [
+      "etai"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Outing (1885) (14796341853).jpg",
+      "description": "Identifier : outing58newy ( find matches ) Title : Outing Year : 1885 ( 1880s ) Authors : Subjects : Leisure Sports Travel Publisher : (New York : Outing Pub. Co.) Contributing Library : Tisch Library Digitizing Sponsor : Boston Library Consortium Member Libraries View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: tt bought a 224 l*mm SHALLOWS WERE FREQUENT AND MADE WADING NECESSARY. spring chicken on faith",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 23 September 2015",
+        "The Outing Magazine, 1911"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Outing_(1885)_(14796341853).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Outing_%281885%29_%2814796341853%29.jpg/1280px-Outing_%281885%29_%2814796341853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1906,
+      "hauteur": 1310
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "ferme-metallique",
+    "terme": "la ferme métallique",
+    "categorie": "Structure",
+    "definition": "Ferme de toiture faite de profilés ou de tubes d'acier assemblés en triangles.",
+    "priorite": 1,
+    "requetes": [
+      "steel roof truss",
+      "ferme métallique",
+      "steel truss roof structure"
+    ],
+    "incompatibles": [
+      "ferme",
+      "poutre-treillis"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Universiti Malaya Cyberjaya Campus upper floor corridors and steel truss glass roof (250423).jpg",
+      "description": "Universiti Malaya Cyberjaya Campus",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Universiti Malaya Cyberjaya Campus"
+      ],
+      "auteur": "*angys*",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Universiti_Malaya_Cyberjaya_Campus_upper_floor_corridors_and_steel_truss_glass_roof_(250423).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Universiti_Malaya_Cyberjaya_Campus_upper_floor_corridors_and_steel_truss_glass_roof_%28250423%29.jpg/1280px-Universiti_Malaya_Cyberjaya_Campus_upper_floor_corridors_and_steel_truss_glass_roof_%28250423%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Modern steel station roof of Zaandam as a space truss construction to give maximum transparancy to the townhall - panoramio.jpg",
+      "description": "Modern steel station roof of Zaandam as a space truss construction to give maximum transparancy to the townhall",
+      "categories": [
+        "Station Zaandam",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Netherlands photographs taken on 2014-07-30",
+        "Photographs by Henk Monster",
+        "Photos from Panoramio ID 1100550"
+      ],
+      "auteur": "Henk Monster",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Modern_steel_station_roof_of_Zaandam_as_a_space_truss_construction_to_give_maximum_transparancy_to_the_townhall_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Modern_steel_station_roof_of_Zaandam_as_a_space_truss_construction_to_give_maximum_transparancy_to_the_townhall_-_panoramio.jpg/1280px-Modern_steel_station_roof_of_Zaandam_as_a_space_truss_construction_to_give_maximum_transparancy_to_the_townhall_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Molete Ibadan Factory Building-Dev For Alh J A Odutola Nigeria 1965 Designed by Michael Olutusen Onafowokan Details Of Steel Roof Truss Drwg Sheet 1 009.jpg",
+      "description": "Details Of Steel Roof Truss Drwg Sheet 1 For Factory Building-Dev For Alh J A Odutola",
+      "categories": [
+        "Architectural drawings",
+        "Uploaded with pattypan",
+        "Items with VRTS permission confirmed",
+        "Factories in Nigeria",
+        "Files with PermissionTicket template but without P6305 SDC statement",
+        "Buildings by Michael Olutusen Onafowokan"
+      ],
+      "auteur": "Michael Olutusen Onafowokan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Molete_Ibadan_Factory_Building-Dev_For_Alh_J_A_Odutola_Nigeria_1965_Designed_by_Michael_Olutusen_Onafowokan_Details_Of_Steel_Roof_Truss_Drwg_Sheet_1_009.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Molete_Ibadan_Factory_Building-Dev_For_Alh_J_A_Odutola_Nigeria_1965_Designed_by_Michael_Olutusen_Onafowokan_Details_Of_Steel_Roof_Truss_Drwg_Sheet_1_009.jpg/1280px-Molete_Ibadan_Factory_Building-Dev_For_Alh_J_A_Odutola_Nigeria_1965_Designed_by_Michael_Olutusen_Onafowokan_Details_Of_Steel_Roof_Truss_Drwg_Sheet_1_009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3937,
+      "hauteur": 3022
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:University of Michigan Library, Ann Arbor, Mich. Two tier stack suspended from steel roof trusses (fig. 110) LCCN2007682526.jpg",
+      "description": "Title: University of Michigan Library, Ann Arbor, Mich. Two tier stack suspended from steel roof trusses (fig. 110) Abstract/medium: 1 photomechanical print : halftone.",
+      "categories": [
+        "Images from the Library of Congress",
+        "PD-old-70-expired",
+        "Images uploaded by Fæ",
+        "CC-PD-Mark",
+        "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:University_of_Michigan_Library,_Ann_Arbor,_Mich._Two_tier_stack_suspended_from_steel_roof_trusses_(fig._110)_LCCN2007682526.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/University_of_Michigan_Library%2C_Ann_Arbor%2C_Mich._Two_tier_stack_suspended_from_steel_roof_trusses_%28fig._110%29_LCCN2007682526.jpg/1280px-University_of_Michigan_Library%2C_Ann_Arbor%2C_Mich._Two_tier_stack_suspended_from_steel_roof_trusses_%28fig._110%29_LCCN2007682526.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5283,
+      "hauteur": 3659
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Steel Fabrication Shop Columns and Beams. Bar-Joist Roof Trusses on Ground in Foreground, 9-6-68 (16843105081).jpg",
+      "description": "Collection: Ingalls Shipyard West Bank Expansion Collection Call number: PI/SF/IND/1986.0017 System ID: 105355 Catalog link: 105355 Steel Fabrication Shop Columns and Beams. Bar-Joist Roof Trusses on Ground in Foreground, 9/6/68. Please see our profile page for information on ordering. Scanned as tiff in 2011/03/24 by MDAH. Credit: Courtesy of the Mississippi Department of Archives and History",
+      "categories": [
+        "1968 in Mississippi",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Ingalls Shipbuilding",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Photographs by Mississippi Department of Archives and History",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Mississippi Department of Archives and History",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Steel_Fabrication_Shop_Columns_and_Beams._Bar-Joist_Roof_Trusses_on_Ground_in_Foreground,_9-6-68_(16843105081).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Steel_Fabrication_Shop_Columns_and_Beams._Bar-Joist_Roof_Trusses_on_Ground_in_Foreground%2C_9-6-68_%2816843105081%29.jpg/1280px-Steel_Fabrication_Shop_Columns_and_Beams._Bar-Joist_Roof_Trusses_on_Ground_in_Foreground%2C_9-6-68_%2816843105081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6077,
+      "hauteur": 4903
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ogbomosho Methodist Church Nigeria 1971 Designed by Michael Olutusen Onafowokan Steel Roof Trusses Details Drwg Oa-71-35 8 025.jpg",
+      "description": "Steel Roof Trusses Details Drwg Oa-71-35 8 for Ogbomosho Methodist Church",
+      "categories": [
+        "Churches in Nigeria",
+        "Architectural drawings",
+        "Uploaded with pattypan",
+        "Items with VRTS permission confirmed",
+        "Buildings by Michael Olutusen Onafowokan"
+      ],
+      "auteur": "Michael Olutusen Onafowokan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ogbomosho_Methodist_Church_Nigeria_1971_Designed_by_Michael_Olutusen_Onafowokan_Steel_Roof_Trusses_Details_Drwg_Oa-71-35_8_025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ogbomosho_Methodist_Church_Nigeria_1971_Designed_by_Michael_Olutusen_Onafowokan_Steel_Roof_Trusses_Details_Drwg_Oa-71-35_8_025.jpg/1280px-Ogbomosho_Methodist_Church_Nigeria_1971_Designed_by_Michael_Olutusen_Onafowokan_Steel_Roof_Trusses_Details_Drwg_Oa-71-35_8_025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3937,
+      "hauteur": 2727
+    }
+  ]
+}

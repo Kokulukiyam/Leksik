@@ -1,0 +1,41 @@
+{
+  "terme": {
+    "id": "semelle-filante",
+    "terme": "la semelle filante",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Fondation continue en béton armé, en forme de bande, coulée au fond d'une tranchée sous toute la longueur d'un mur.",
+    "priorite": 1,
+    "requetes": [
+      "strip footing concrete construction",
+      "semelle filante béton armé",
+      "strip foundation rebar trench"
+    ],
+    "incompatibles": [
+      "fondation",
+      "tranchee-de-fondation"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Building and engineering news (1916) (14778463941).jpg",
+      "description": "Identifier : buildingengineer1616cont ( find matches ) Title : Building & engineering news Year : 1914 ( 1910s ) Authors : Contractors' and Dealers' Association of California Subjects : Architecture Building Construction industry Engineering Publisher : San Francisco : L. A. Larson Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Tex",
+      "categories": [
+        "Construction industry",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 9 September 2015",
+        "Building and engineering news (1916)",
+        "Internet Archive document buildingengineer1616cont"
+      ],
+      "auteur": "Contractors' and Dealers' Association of California",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_and_engineering_news_(1916)_(14778463941).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Building_and_engineering_news_%281916%29_%2814778463941%29.jpg/1280px-Building_and_engineering_news_%281916%29_%2814778463941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1930,
+      "hauteur": 2928
+    }
+  ]
+}

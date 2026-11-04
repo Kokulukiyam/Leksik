@@ -1,0 +1,159 @@
+{
+  "terme": {
+    "id": "regard",
+    "terme": "le regard",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Ouvrage enterré maçonné ou préfabriqué, fermé par un couvercle, qui donne accès à une canalisation pour la visite et le curage.",
+    "priorite": 1,
+    "requetes": [
+      "manhole open inspection chamber",
+      "regard de visite",
+      "inspection chamber drain"
+    ],
+    "incompatibles": [
+      "tampon-de-regard"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Aqueduc Medicis regard 13 Arcueil.jpg",
+      "description": "Le regard n°13 du pont-aqueduc d'Arcueil-Cachan, partie de l' aqueduc Médicis (17e siècle) qui apportait de l'eau de Rungis à Paris, ouvert à la visite lors des Journées européennes du Patrimoine 2013 (Arcueil, Val-de-Marne, France)",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Nikon D90",
+        "Monuments historiques inscrits",
+        "Monuments historiques classés",
+        "Self-published work",
+        "Information field template with formatting",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Regard No. 13 (aqueduc Médicis)",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Île-de-France photographs taken on 2013-09-14",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "September 2013 in Arcueil",
+        "European Heritage Days 2013 in Val-de-Marne"
+      ],
+      "auteur": "Myrabella",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aqueduc_Medicis_regard_13_Arcueil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Aqueduc_Medicis_regard_13_Arcueil.jpg/1280px-Aqueduc_Medicis_regard_13_Arcueil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3010,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:05. Regard de Visite - Aqueduc du Gier - Mornant, Parking des Bruyères.JPG",
+      "description": "Regard de visite de l' aqueduc du Gier à Mornant , Parking des Bruyères. De l'eau semble encore couler.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 450D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation",
+        "Regard du Parking des Bruyères"
+      ],
+      "auteur": "Otourly",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:05._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant,_Parking_des_Bruy%C3%A8res.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/05._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG/1280px-05._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:02. Regard de Visite - Aqueduc du Gier - Mornant, Parking des Bruyères.JPG",
+      "description": "Regard de visite de l' aqueduc du Gier à Mornant , Parking des Bruyères. De l'eau semble encore couler.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 450D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation",
+        "Regard du Parking des Bruyères"
+      ],
+      "auteur": "Otourly",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:02._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant,_Parking_des_Bruy%C3%A8res.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/02._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG/1280px-02._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Aqueduc Medicis regard 13 interieur Arcueil.jpg",
+      "description": "À l'intérieur du regard n°13 de l' aqueduc Médicis , ouvert à la visite lors des Journées européennes du Patrimoine 2013 (Arcueil, Val-de-Marne, France)",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Nikon D90",
+        "Monuments historiques inscrits",
+        "Self-published work",
+        "Information field template with formatting",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Regard No. 13 (aqueduc Médicis)",
+        "Penstocks in France",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Île-de-France photographs taken on 2013-09-14",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "September 2013 in Arcueil",
+        "Aqueduc Médicis (intérieur)",
+        "European Heritage Days 2013 in Val-de-Marne"
+      ],
+      "auteur": "Myrabella",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aqueduc_Medicis_regard_13_interieur_Arcueil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Aqueduc_Medicis_regard_13_interieur_Arcueil.jpg/1280px-Aqueduc_Medicis_regard_13_interieur_Arcueil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1995,
+      "hauteur": 3005
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:01. Regard de Visite - Aqueduc du Gier - Mornant, Parking des Bruyères.JPG",
+      "description": "Regard de visite de l' aqueduc du Gier à Mornant , Parking des Bruyères. De l'eau semble encore couler.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 450D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation",
+        "Regard du Parking des Bruyères"
+      ],
+      "auteur": "Otourly",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:01._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant,_Parking_des_Bruy%C3%A8res.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/01._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG/1280px-01._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:03. Regard de Visite - Aqueduc du Gier - Mornant, Parking des Bruyères.JPG",
+      "description": "Regard de visite de l' aqueduc du Gier à Mornant , Parking des Bruyères. De l'eau semble encore couler.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 450D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation",
+        "Regard du Parking des Bruyères"
+      ],
+      "auteur": "Otourly",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:03._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant,_Parking_des_Bruy%C3%A8res.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/03._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG/1280px-03._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    }
+  ]
+}

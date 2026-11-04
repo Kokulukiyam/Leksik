@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "tractopelle",
+    "terme": "la tractopelle",
+    "categorie": "Chantier et outillage",
+    "definition": "Engin sur pneus portant un godet de chargement à l'avant et un bras de pelle à l'arrière.",
+    "priorite": 1,
+    "requetes": [
+      "backhoe loader",
+      "tractopelle",
+      "incategory:\"Backhoe loaders\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Caterpillar backhoe loader at construction site in Sunnyvale, back view.jpg",
+      "description": "A Caterpillar backhoe loader parked at a construction site in Sunnyvale, California.",
+      "categories": [
+        "Taken with Nexus 5X",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Jul 2016 - Jun 2017)",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2017-06-07",
+        "Yellow backhoe loaders",
+        "Photos by Grendelkhan",
+        "Caterpillar backhoe loaders"
+      ],
+      "auteur": "Grendelkhan",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caterpillar_backhoe_loader_at_construction_site_in_Sunnyvale,_back_view.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Caterpillar_backhoe_loader_at_construction_site_in_Sunnyvale%2C_back_view.jpg/1280px-Caterpillar_backhoe_loader_at_construction_site_in_Sunnyvale%2C_back_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Terex TLB 825 in Saint Petersburg.jpg",
+      "description": "A Terex TLB 825 backhoe loader with a hydraulic breaker . The tractor is operated by the Saint Petersburg State Unitary Enterprise of Roadworks “Tsentr” . The photo was taken in Saint Petersburg , in Bolshaya Morskaya Street . A photo from the user collection Machinery .",
+      "categories": [
+        "Roadworks in Russia",
+        "Self-published work",
+        "Files uploaded by Dmitry Ivanov",
+        "Terex backhoe loaders",
+        "Loaders in Russia",
+        "September 2015 in Saint Petersburg",
+        "Files with coordinates missing SDC location of creation",
+        "Russia photographs taken on 2015-09-09",
+        "Pneumatic breakers",
+        "Bolshaya Morskaya Street - pedestrian zone"
+      ],
+      "auteur": "Dmitry Ivanov .",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Terex_TLB_825_in_Saint_Petersburg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Terex_TLB_825_in_Saint_Petersburg.jpg/1280px-Terex_TLB_825_in_Saint_Petersburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3019,
+      "hauteur": 1988
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Koparko-ladowarka.jpg",
+      "description": "Zdjęcie koparko-ładowarki w pracy",
+      "categories": [
+        "Self-published work",
+        "Case backhoe loaders",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Zdzislawdyrman",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Koparko-ladowarka.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Koparko-ladowarka.jpg/1280px-Koparko-ladowarka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Case 580 Super L backhoe loader - 3.jpg",
+      "description": "A Case 580 Super L backhoe loader loading palm trees, Florida, USA",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Unidentified Arecaceae",
+        "Flickr images uploaded by Flickr upload bot",
+        "Case backhoe loaders",
+        "Yellow backhoe loaders"
+      ],
+      "auteur": "Joedamadman",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Case_580_Super_L_backhoe_loader_-_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Case_580_Super_L_backhoe_loader_-_3.jpg/1280px-Case_580_Super_L_backhoe_loader_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Case 580 Super L backhoe loader - 4.jpg",
+      "description": "A Case 580 Super L backhoe loader loading palm trees, Florida, USA",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Unidentified Arecaceae",
+        "Flickr images uploaded by Flickr upload bot",
+        "Case backhoe loaders",
+        "Yellow backhoe loaders"
+      ],
+      "auteur": "Joedamadman",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Case_580_Super_L_backhoe_loader_-_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Case_580_Super_L_backhoe_loader_-_4.jpg/1280px-Case_580_Super_L_backhoe_loader_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Case 580 Super L backhoe loader - 5.jpg",
+      "description": "A Case 580 Super L backhoe loader loading palm trees, Florida, USA",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Unidentified Arecaceae",
+        "Flickr images uploaded by Flickr upload bot",
+        "Case backhoe loaders",
+        "Yellow backhoe loaders"
+      ],
+      "auteur": "Joedamadman",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Case_580_Super_L_backhoe_loader_-_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Case_580_Super_L_backhoe_loader_-_5.jpg/1280px-Case_580_Super_L_backhoe_loader_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "terme": {
+    "id": "armature-en-attente",
+    "terme": "l'armature en attente",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Barre d'acier laissée en saillie d'un ouvrage en béton pour être raccordée à la partie coulée plus tard ; on parle couramment des attentes, par exemple au-dessus d'une toiture-terrasse.",
+    "priorite": 1,
+    "requetes": [
+      "rebar protruding from concrete column roof",
+      "fers en attente poteau",
+      "starter bars sticking out concrete"
+    ],
+    "incompatibles": [
+      "ferraillage",
+      "amorce-de-poteau"
+    ]
+  },
+  "candidats": []
+}

@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "liteau",
+    "terme": "le liteau",
+    "categorie": "Toitures",
+    "definition": "Tasseau de bois cloué horizontalement sur les chevrons, sur lequel s'accrochent les tuiles.",
+    "priorite": 1,
+    "requetes": [
+      "roof battens",
+      "liteaux toiture",
+      "battens tiles roof"
+    ],
+    "incompatibles": [
+      "chevron",
+      "ecran-sous-toiture"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Clay Roof Tiles Hanging on Battens at Thun Castle.jpg",
+      "description": "Clay roof tiles seen hanging on wooden battens above a covered staircase at Thun Castle",
+      "categories": [
+        "Roofing materials",
+        "Self-published work",
+        "Roof tiles in Switzerland"
+      ],
+      "auteur": "Henrysz",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clay_Roof_Tiles_Hanging_on_Battens_at_Thun_Castle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Clay_Roof_Tiles_Hanging_on_Battens_at_Thun_Castle.jpg/1280px-Clay_Roof_Tiles_Hanging_on_Battens_at_Thun_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Unfertige Dinge 003 2022 10 26.jpg",
+      "description": "Unfinished roof with roof tile , roof battens and roof windows Partie d'un édifice: Toit Titre Toit Nature de l’élément partie d'un édifice Partie de Clos et couvert , maison et bâtiment couverture : Tuile Titre Tuile Nature de l’élément couverture Partie de toit Objet : Fenêtre de toit Titre Fenêtre de toit Objet : Liteau Titre Liteau",
+      "categories": [
+        "Roof tiles in Germany",
+        "Roof construction in Germany",
+        "Sloped windows in Germany",
+        "Taken with Canon EOS 6D Mark II",
+        "Retouched pictures",
+        "User custom license tags",
+        "Erlus",
+        "Roof batten",
+        "Self-published work",
+        "Information field template with formatting",
+        "Buildings in Ruppertsberg",
+        "Uploaded with LrMediaWiki",
+        "Taken with Tamron SP 15-30mm F/2.8 Di VC USD",
+        "Images by F. Riedelio",
+        "Rhineland-Palatinate photographs taken on 2022-10-26",
+        "Red clay roof tiles",
+        "Velux sloped windows"
+      ],
+      "auteur": "Friedrich Haag",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Unfertige_Dinge_003_2022_10_26.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Unfertige_Dinge_003_2022_10_26.jpg/1280px-Unfertige_Dinge_003_2022_10_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5454,
+      "hauteur": 4033
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Roof works in Chebachiy.jpg",
+      "description": "Roof construction in Chebachiy, Semikarakorsk District, Rostov Oblast, Russia.",
+      "categories": [
+        "CC-Zero",
+        "Roofers",
+        "Chebachiy",
+        "Roof batten",
+        "Self-published work",
+        "Houses in Rostov Oblast",
+        "FoP-Russia"
+      ],
+      "auteur": "Alexander Roumega",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_works_in_Chebachiy.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Roof_works_in_Chebachiy.jpg/1280px-Roof_works_in_Chebachiy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Huldenberg, dak van boerderij B.jpg",
+      "description": "Repair of the roof of an old house / farm. Clearly visible are the roofing battens, also called roofing lath, on which the tiles are laid.",
+      "categories": [
+        "Tiled roofs",
+        "Huldenberg",
+        "Roof batten",
+        "Self-published work",
+        "Roofs in Belgium"
+      ],
+      "auteur": "Wouter Hagens",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Huldenberg,_dak_van_boerderij_B.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Huldenberg%2C_dak_van_boerderij_B.jpg/1280px-Huldenberg%2C_dak_van_boerderij_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7059,
+      "hauteur": 4711
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Huldenberg, dak van boerderij A.jpg",
+      "description": "Repair of the roof of an old house / farm. Clearly visible are the roofing battens, also called roofing lath, on which the tiles are laid.",
+      "categories": [
+        "Tiled roofs",
+        "Huldenberg",
+        "Roof batten",
+        "Self-published work",
+        "Roofs in Belgium"
+      ],
+      "auteur": "Wouter Hagens",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Huldenberg,_dak_van_boerderij_A.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Huldenberg%2C_dak_van_boerderij_A.jpg/1280px-Huldenberg%2C_dak_van_boerderij_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7158,
+      "hauteur": 4777
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:00486 couvreur.jpg",
+      "description": "Couvreur travaillant à la construction d'une maison neuve à Paris, en France.",
+      "categories": [
+        "Workers",
+        "Roofers",
+        "Valleys (roofing)",
+        "Roof batten",
+        "Self-published work",
+        "Building trade"
+      ],
+      "auteur": "Heurtelions",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:00486_couvreur.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/00486_couvreur.jpg/1280px-00486_couvreur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "terme": {
+    "id": "cadre-d-armature",
+    "terme": "le cadre d'armature",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Barre d'acier pliée en carré ou en rectangle fermé, qui entoure les barres longitudinales d'un poteau ou d'une poutre.",
+    "priorite": 1,
+    "requetes": [
+      "rebar ties column stirrups",
+      "cadres armature poteau",
+      "rebar stirrup"
+    ],
+    "incompatibles": [
+      "ferraillage",
+      "etrier"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:US Navy 100204-N-9584H-021 Utilitiesman Constructionman Apprentice Alex Strickland creates a rebar stirrup for the concrete pad of a new command and control facility at Kandahar Airfield, Afghanistan.jpg",
+      "description": "KANDAHAR PROVINCE, Afghanistan (Feb. 4, 2010) Utilitiesman Constructionman Apprentice Alex Strickland, from San Diego, assigned to Naval Mobile Construction Battalion (NMCB) 4, creates a rebar stirrup for the concrete pad of a new command and control facility at Kandahar Airfield, Afghanistan. NMCB-4 is homeported in Port Hueneme, Calif. and is deployed supporting U.S. forces in Afghanistan. (U.S. Navy photo by Mass Communication Specialist 3rd Class Ernesto Hernandez Fonte/Released)",
+      "categories": [
+        "Taken with Nikon D300",
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Airfield construction",
+        "Photographs taken on 2010-02-04",
+        "Rebar on site",
+        "United States Navy images from Kandahar Province"
+      ],
+      "auteur": "U.S. Navy photo by Mass Communication Specialist 3rd Class Ernesto Hernandez Fonte",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:US_Navy_100204-N-9584H-021_Utilitiesman_Constructionman_Apprentice_Alex_Strickland_creates_a_rebar_stirrup_for_the_concrete_pad_of_a_new_command_and_control_facility_at_Kandahar_Airfield,_Afghanistan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/US_Navy_100204-N-9584H-021_Utilitiesman_Constructionman_Apprentice_Alex_Strickland_creates_a_rebar_stirrup_for_the_concrete_pad_of_a_new_command_and_control_facility_at_Kandahar_Airfield%2C_Afghanistan.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2100,
+      "hauteur": 1500
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:U S Navy Seabees build 2-room schoolhouse in Nabua Village, Fiji as part of Pacific Partnership 2026 (9807090).jpg",
+      "description": "Steelworker 2nd Class Shannon Scoggins, assigned to Naval Mobile Construction Battalion (NMCB) 1, validates rebar cage stirrups during construction of a two-room schoolhouse as part of an enduring Pacific Partnership initiative in Nabua Village, Savusavu, Fiji, May 8, 2026. Now in its 22nd iteration, the Pacific Partnership series is the largest annual multinational humanitarian assistance and disaster management preparedness mission conducted in the Indo-Pacific. Pacific Partnership works collaboratively with host and partner nations to enhance regional interoperability and disaster response ",
+      "categories": [
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, Fiji (review needed)",
+        "Fiji photographs taken on 2026-05-07",
+        "Pacific Partnership 2026"
+      ],
+      "auteur": "U.S. Navy photo by [null Courtesy]",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:U_S_Navy_Seabees_build_2-room_schoolhouse_in_Nabua_Village,_Fiji_as_part_of_Pacific_Partnership_2026_(9807090).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/U_S_Navy_Seabees_build_2-room_schoolhouse_in_Nabua_Village%2C_Fiji_as_part_of_Pacific_Partnership_2026_%289807090%29.jpg/1280px-U_S_Navy_Seabees_build_2-room_schoolhouse_in_Nabua_Village%2C_Fiji_as_part_of_Pacific_Partnership_2026_%289807090%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Seabees deployed with Naval Mobile Construction Battalion 5's Detail Marshall Islands continue work on the Ennibur Evacuation Center project (5952847).jpg",
+      "description": "191118-N-ES865-1002 ENNIBUR, Marshall Islands (Nov. 20, 2019) Equipment Operator Constructionman Manuel Mendez Correa, from Memphis, Tennessee, deployed with Naval Mobile Construction Battalion (NMCB) 5’s Detail Marshall Islands, bends rebar stirrups for the prefabrication of the reinforced steel grade beams. NMCB-5 is deployed across the Indo-Pacific region conducting high-quality construction to support U.S. and partner nations to strengthen partnerships, deter aggression, and enable expeditionary logistics and naval power projection. (U.S. Navy photo by Construction Electrician 3rd Class Ch",
+      "categories": [
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Marshall Islands photographs taken on 2019-11-16",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, Marshall Islands (review needed)"
+      ],
+      "auteur": "U.S. Navy photo by [null Courtesy]",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seabees_deployed_with_Naval_Mobile_Construction_Battalion_5%27s_Detail_Marshall_Islands_continue_work_on_the_Ennibur_Evacuation_Center_project_(5952847).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Seabees_deployed_with_Naval_Mobile_Construction_Battalion_5%27s_Detail_Marshall_Islands_continue_work_on_the_Ennibur_Evacuation_Center_project_%285952847%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 853
+    }
+  ]
+}

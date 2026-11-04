@@ -1,0 +1,181 @@
+{
+  "terme": {
+    "id": "toit-a-deux-pans",
+    "terme": "le toit à deux pans",
+    "categorie": "Toitures",
+    "definition": "Toit formé de deux versants inclinés qui se rejoignent au faîtage, avec un pignon à chaque bout.",
+    "priorite": 1,
+    "requetes": [
+      "gable roof house",
+      "toit à deux pans",
+      "pitched gable roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "pignon",
+      "faitage",
+      "versant"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Khmer gable roof.jpg",
+      "description": "Khmer-style roof pediment of wooden architecture in 12th century.",
+      "categories": [
+        "Khmer architecture",
+        "Self-published work",
+        "Khmer roof, Khmer house,"
+      ],
+      "auteur": "Cambodia Public Domain",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Khmer_gable_roof.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Khmer_gable_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 928,
+      "hauteur": 625
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Top of gable of cultural monument village house with thatched roof in Stropešín, Třebíč District.jpg",
+      "description": "Top of gable of cultural monument village house with thatched roof in Stropešín, Třebíč District.",
+      "categories": [
+        "Thatched roofs in the Czech Republic",
+        "Gables in Třebíč District",
+        "Stropešín čp. 17",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Jiří Sedláček",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Top_of_gable_of_cultural_monument_village_house_with_thatched_roof_in_Strope%C5%A1%C3%ADn,_T%C5%99eb%C3%AD%C4%8D_District.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Top_of_gable_of_cultural_monument_village_house_with_thatched_roof_in_Strope%C5%A1%C3%ADn%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg/1280px-Top_of_gable_of_cultural_monument_village_house_with_thatched_roof_in_Strope%C5%A1%C3%ADn%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Double Gable roof - geograph.org.uk - 6660534.jpg",
+      "description": "Double Gable roof",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Ropsley and Humby"
+      ],
+      "auteur": "Bob Harvey",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Double_Gable_roof_-_geograph.org.uk_-_6660534.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Double_Gable_roof_-_geograph.org.uk_-_6660534.jpg/1280px-Double_Gable_roof_-_geograph.org.uk_-_6660534.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6252,
+      "hauteur": 4164
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Santorin (GR), Ia, Vier Glocken -- 2017 -- 2720-6-2.jpg",
+      "description": "Quatre cloches à Ia, Santorin , Grèce",
+      "categories": [
+        "Photographs by Dietmar Rabich/Quality images of Greece",
+        "Photographs by Dietmar Rabich/Featured pictures of Greece",
+        "Taken with Canon EOS 70D",
+        "Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM",
+        "ISO speed rating 100",
+        "Uploaded with VicuñaUploader",
+        "Photographs with aspect ratio of 8:13",
+        "Self-published work",
+        "Photographs by Dietmar Rabich/Reflections",
+        "Photographs by Dietmar Rabich/Tone-mapped HDR images",
+        "Photographs by Dietmar Rabich/Featured pictures",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Picture of week on the Czech Wikipedia",
+        "Photographs by Dietmar Rabich/Greece",
+        "Information field template with formatting",
+        "F-number f/9",
+        "Bell ropes in Greece",
+        "Photographs by Dietmar Rabich/Quality images of churches",
+        "Tone-mapped HDR images of Greece",
+        "Featured pictures of sunsets",
+        "Exposure time 1/1250 sec",
+        "Reflections in Greece",
+        "White crosses",
+        "4 church bells",
+        "Churches in Greece photographed in 2017",
+        "Changes of XRay's photographs of the recent weeks",
+        "Images by XRay (flat list)",
+        "Protected areas with known WDPA-ID",
+        "2017 in Santorini",
+        "Featured pictures on Wikipedia, Bengali",
+        "Featured pictures of churches in Greece",
+        "Greece photographs taken on 2017-09-26",
+        "Gable crosses in Greece",
+        "Churches in Oia (Santorini)",
+        "Photographs by Dietmar Rabich/Quality images of religious items",
+        "Shadows in Greece",
+        "Lens focal length 15 mm",
+        "Churches at sunset",
+        "Tone-mapped HDR images of buildings",
+        "Photographs by Dietmar Rabich/Contre-jour photography",
+        "Photographs by Dietmar Rabich/Featured pictures on Wikimedia Commons",
+        "Photographs by Dietmar Rabich/Architectural photography/Religious buildings",
+        "Contre-jour photography of water",
+        "Photographs by Dietmar Rabich/Available light photography/Sunsets",
+        "Sunsets in 2017",
+        "Light and shadow in architecture",
+        "Sunlight reflections from water far from the horizon",
+        "Shadows of architectural elements",
+        "Contre-jour photography of churches",
+        "Bell gables in Santorini",
+        "Crosses in Santorini",
+        "Sunsets of Oia",
+        "Pictures of the Year/2017 (finalist)",
+        "Featured pictures of Oia, Greece",
+        "Photographs by Dietmar Rabich/Quality images of natural phenomena",
+        "Photographs by Dietmar Rabich/Quality images of sunsets and sunrises",
+        "Photographs by Dietmar Rabich/Quality images of gables",
+        "Photographs by Dietmar Rabich/Year/2017",
+        "Water reflections of sunsets in Greece",
+        "Tone-mapped HDR images of sunsets",
+        "Photographs by Dietmar Rabich/Pictures of the Year (finalist)",
+        "Sunlight reflections in Greece",
+        "Photographs by Dietmar Rabich/Quality images of bells"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Ia,_Vier_Glocken_--_2017_--_2720-6-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Santorin_%28GR%29%2C_Ia%2C_Vier_Glocken_--_2017_--_2720-6-2.jpg/1280px-Santorin_%28GR%29%2C_Ia%2C_Vier_Glocken_--_2017_--_2720-6-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2719,
+      "hauteur": 4441
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gable and windows of cultural monument village house with thatched roof in Stropešín, Třebíč District.jpg",
+      "description": "Gable and windows of cultural monument village house with thatched roof in Stropešín, Třebíč District.",
+      "categories": [
+        "Windows in Třebíč District",
+        "Gables in Třebíč District",
+        "Stropešín čp. 17",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Jiří Sedláček",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gable_and_windows_of_cultural_monument_village_house_with_thatched_roof_in_Strope%C5%A1%C3%ADn,_T%C5%99eb%C3%AD%C4%8D_District.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Gable_and_windows_of_cultural_monument_village_house_with_thatched_roof_in_Strope%C5%A1%C3%ADn%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg/1280px-Gable_and_windows_of_cultural_monument_village_house_with_thatched_roof_in_Strope%C5%A1%C3%ADn%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bodmin - No.90 Fore Street with hipped gable roof - geograph.org.uk - 8026419.jpg",
+      "description": "Bodmin - No.90 Fore Street with hipped gable roof",
+      "categories": [
+        "Bodmin",
+        "Images from Geograph Britain and Ireland",
+        "Taken with Panasonic Lumix DC-TZ99 / ZS99"
+      ],
+      "auteur": "Rob Farrow",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bodmin_-_No.90_Fore_Street_with_hipped_gable_roof_-_geograph.org.uk_-_8026419.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bodmin_-_No.90_Fore_Street_with_hipped_gable_roof_-_geograph.org.uk_-_8026419.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1000,
+      "hauteur": 1412
+    }
+  ]
+}

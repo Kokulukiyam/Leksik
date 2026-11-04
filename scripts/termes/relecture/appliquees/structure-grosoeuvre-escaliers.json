@@ -1,0 +1,544 @@
+[
+  {
+    "id": "colonne",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "chapiteau",
+      "pilastre"
+    ],
+    "raison": "Priorité manquante ; colonne et chapiteau ou pilastre sont visibles ensemble ou se confondent."
+  },
+  {
+    "id": "arc-boutant",
+    "action": "modifier",
+    "priorite": 3,
+    "incompatibles_ajout": [
+      "contrefort"
+    ],
+    "raison": "Priorité manquante ; l'arc-boutant retombe toujours sur un contrefort visible sur la même photo."
+  },
+  {
+    "id": "contrefort",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "Priorité manquante."
+  },
+  {
+    "id": "arc",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "Priorité manquante."
+  },
+  {
+    "id": "voute",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "Priorité manquante."
+  },
+  {
+    "id": "cle-de-voute",
+    "action": "modifier",
+    "priorite": 3,
+    "incompatibles_ajout": [
+      "claveau"
+    ],
+    "raison": "Priorité manquante ; la clé est un claveau."
+  },
+  {
+    "id": "coupole",
+    "action": "modifier",
+    "priorite": 2,
+    "definition": "Voûte en demi-sphère ou en calotte qui couvre un espace de plan circulaire, carré ou polygonal ; vue de l'extérieur, on l'appelle aussi dôme.",
+    "raison": "Priorité manquante ; la nuance coupole intérieure / dôme extérieur est invisible sans terme « dôme » et induirait en erreur."
+  },
+  {
+    "id": "corbeau",
+    "action": "modifier",
+    "priorite": 3,
+    "incompatibles_ajout": [
+      "console"
+    ],
+    "raison": "Priorité manquante ; quasi-synonyme de la console porteuse."
+  },
+  {
+    "id": "ferme",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "Priorité manquante."
+  },
+  {
+    "id": "colombage",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "Priorité manquante."
+  },
+  {
+    "id": "pilotis",
+    "action": "modifier",
+    "priorite": 3,
+    "incompatibles_ajout": [
+      "poteau"
+    ],
+    "raison": "Priorité manquante ; un pilotis est fait de poteaux."
+  },
+  {
+    "id": "dalle-pleine",
+    "action": "supprimer",
+    "raison": "Quasi-doublon de « la dalle » (définie d'épaisseur constante) ; la différence avec une dalle sur corps creux enduite est invisible en sous-face."
+  },
+  {
+    "id": "plancher-collaborant",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bac-acier"
+    ],
+    "raison": "La tôle nervurée du plancher collaborant ressemble au bac acier de couverture."
+  },
+  {
+    "id": "voile",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "Les voiles restent moins fréquents que les poteaux-poutres à Dakar ; il se confond aussi avec le mur porteur."
+  },
+  {
+    "id": "mur-porteur",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "voile",
+      "mur-de-remplissage",
+      "maconnerie"
+    ],
+    "incompatibles_retrait": [
+      "mur-de-refend"
+    ],
+    "raison": "Le caractère porteur ne se voit pas toujours : à rendre incompatible avec voile, mur de remplissage et maçonnerie ; priorité ajustée."
+  },
+  {
+    "id": "mur-de-refend",
+    "action": "supprimer",
+    "raison": "Non photographiable sans ambiguïté : rien ne distingue sur une photo un mur de refend d'un autre mur intérieur, porteur ou non."
+  },
+  {
+    "id": "pilier",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "pilier-de-portail"
+    ],
+    "raison": "Le pilier de portail est un pilier."
+  },
+  {
+    "id": "ossature-metallique",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "charpente-metallique"
+    ],
+    "raison": "Une charpente métallique peut illustrer une ossature métallique."
+  },
+  {
+    "id": "ferme-metallique",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "charpente-metallique",
+      "gousset"
+    ],
+    "raison": "La charpente métallique (Toitures) est faite de fermes métalliques ; un gousset se voit à chaque nœud."
+  },
+  {
+    "id": "poutre-treillis",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "structure-tridimensionnelle"
+    ],
+    "raison": "Une structure tridimensionnelle est faite de treillis."
+  },
+  {
+    "id": "assemblage-boulonne",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "platine"
+    ],
+    "raison": "La platine est toujours boulonnée : visibles ensemble."
+  },
+  {
+    "id": "joint-de-dilatation",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "Visible sur les grands bâtiments, pas à chaque chantier."
+  },
+  {
+    "id": "porte-a-faux",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "balcon",
+      "casquette"
+    ],
+    "raison": "Un balcon ou une casquette en béton sont des porte-à-faux : même photo."
+  },
+  {
+    "id": "poutre-en-lamelle-colle",
+    "action": "supprimer",
+    "raison": "Doublon de « le lamellé-collé » (Matériaux et revêtements), défini comme des poutres dont la tranche montre les strates."
+  },
+  {
+    "id": "intrados",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "claveau",
+      "cle-de-voute"
+    ],
+    "raison": "L'intrados se confond avec les claveaux et la clé qui le forment."
+  },
+  {
+    "id": "extrados",
+    "action": "supprimer",
+    "raison": "Face d'arc rarement visible (souvent noyée dans le mur ou cachée sous la toiture) et impossible à désigner sans ambiguïté face à l'arc, aux claveaux et à l'intrados."
+  },
+  {
+    "id": "arc-en-plein-cintre",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "baie-cintree"
+    ],
+    "raison": "Une baie cintrée en plein cintre illustre les deux termes."
+  },
+  {
+    "id": "voute-en-berceau",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "voute-nubienne"
+    ],
+    "raison": "La voûte nubienne a la forme d'une voûte en berceau."
+  },
+  {
+    "id": "chainage-horizontal",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "poutre"
+    ],
+    "raison": "Sur un chantier dakarois, une ceinture en béton sur les murs se confond facilement avec une poutre."
+  },
+  {
+    "id": "chainage-vertical",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "poteau"
+    ],
+    "raison": "Le raidisseur a l'aspect d'un petit poteau."
+  },
+  {
+    "id": "fondation",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "fouille"
+    ],
+    "raison": "La fondation est vue au fond des fouilles : même photo."
+  },
+  {
+    "id": "semelle-filante",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "fouille"
+    ],
+    "raison": "Semelle filante vue au fond de la fouille."
+  },
+  {
+    "id": "longrine",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "Les longrines sont présentes sur presque toutes les constructions à Dakar."
+  },
+  {
+    "id": "beton-de-proprete",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "tranchee-de-fondation"
+    ],
+    "raison": "Le béton de propreté se voit au fond de la tranchée."
+  },
+  {
+    "id": "film-polyethylene",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "pare-vapeur"
+    ],
+    "raison": "Le polyane sous dallage et le pare-vapeur sont le même type de film plastique."
+  },
+  {
+    "id": "beton-frais",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "beton"
+    ],
+    "raison": "Une photo de béton frais illustre aussi « le béton »."
+  },
+  {
+    "id": "betonnage",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "pompe-a-beton"
+    ],
+    "raison": "Le bétonnage se fait souvent à la pompe : la pompe est sur la photo."
+  },
+  {
+    "id": "ligature",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "fil-a-ligaturer"
+    ],
+    "raison": "La ligature est faite avec le fil à ligaturer (Chantier) : même objet vu de près."
+  },
+  {
+    "id": "enrobage",
+    "action": "supprimer",
+    "raison": "Notion d'épaisseur, pas un objet : une photo ne la montre pas sans ambiguïté (on voit plutôt l'épaufrure ou la corrosion)."
+  },
+  {
+    "id": "cale-d-armature",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "enrobage"
+    ],
+    "raison": "Retrait de l'enrobage, supprimé."
+  },
+  {
+    "id": "corrosion-des-armatures",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "enrobage"
+    ],
+    "raison": "Retrait de l'enrobage, supprimé."
+  },
+  {
+    "id": "hourdis",
+    "action": "modifier",
+    "terme": "le hourdis",
+    "raison": "« hourdis » a un h aspiré : on dit « le hourdis », forme d'usage sur les chantiers."
+  },
+  {
+    "id": "poutrelle",
+    "action": "modifier",
+    "terme": "la poutrelle",
+    "definition": "Petite poutre préfabriquée en béton armé ou précontraint, posée à intervalles réguliers d'un appui à l'autre pour porter les hourdis d'un plancher.",
+    "raison": "La précontrainte ne se voit pas sur une photo, et les poutrelles à treillis en béton armé sont courantes à Dakar."
+  },
+  {
+    "id": "mur-de-remplissage",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "parpaing"
+    ],
+    "raison": "Le mur de remplissage est monté en parpaings."
+  },
+  {
+    "id": "bloc-de-beton-cellulaire",
+    "action": "supprimer",
+    "raison": "Doublon de « le béton cellulaire » (Matériaux et revêtements), défini comme vendu en gros blocs réguliers."
+  },
+  {
+    "id": "planelle",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "nez-de-dalle"
+    ],
+    "raison": "La planelle habille le nez de dalle : même élément sur la photo."
+  },
+  {
+    "id": "panneresse",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "appareil-flamand",
+      "appareil-anglais"
+    ],
+    "raison": "Les panneresses se voient dans tous les appareils de briques."
+  },
+  {
+    "id": "assise",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "joint-de-maconnerie"
+    ],
+    "raison": "Assises et joints de maçonnerie sont toujours visibles ensemble."
+  },
+  {
+    "id": "gobetis",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "enduit"
+    ],
+    "raison": "Le gobetis est un enduit (première couche)."
+  },
+  {
+    "id": "gachage",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "betonniere"
+    ],
+    "raison": "Le gâchage se fait souvent à la bétonnière, visible sur la photo."
+  },
+  {
+    "id": "saignee",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "gaine-icta"
+    ],
+    "raison": "La saignée reçoit une gaine ICTA, souvent déjà en place sur la photo."
+  },
+  {
+    "id": "chape-liquide",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "ragreage"
+    ],
+    "raison": "Chape liquide et ragréage autolissant ont le même aspect."
+  },
+  {
+    "id": "escalier-droit",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours",
+      "volee"
+    ],
+    "raison": "Forme et matériau se combinent : un escalier droit en béton illustre à la fois sa forme et son matériau."
+  },
+  {
+    "id": "escalier-quart-tournant",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours"
+    ],
+    "raison": "Forme et matériau se combinent : un escalier droit en béton illustre à la fois sa forme et son matériau."
+  },
+  {
+    "id": "escalier-demi-tournant",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours"
+    ],
+    "raison": "Forme et matériau se combinent : un escalier droit en béton illustre à la fois sa forme et son matériau."
+  },
+  {
+    "id": "escalier-en-colimacon",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours"
+    ],
+    "raison": "Forme et matériau se combinent : un escalier droit en béton illustre à la fois sa forme et son matériau."
+  },
+  {
+    "id": "escalier-a-double-revolution",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois"
+    ],
+    "raison": "Forme et matériau se combinent : un escalier droit en béton illustre à la fois sa forme et son matériau."
+  },
+  {
+    "id": "escalier-a-cremaillere",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois"
+    ],
+    "raison": "Forme et matériau se combinent : un escalier droit en béton illustre à la fois sa forme et son matériau."
+  },
+  {
+    "id": "escalier-en-porte-a-faux",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "porte-a-faux"
+    ],
+    "raison": "Forme et matériau se combinent : un escalier droit en béton illustre à la fois sa forme et son matériau."
+  },
+  {
+    "id": "echelle-de-meunier",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-en-bois",
+      "escalier-metallique"
+    ],
+    "raison": "Une échelle de meunier est en bois ou en métal."
+  },
+  {
+    "id": "escalier-escamotable",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-en-bois"
+    ],
+    "raison": "Souvent en bois."
+  },
+  {
+    "id": "echelle-a-crinoline",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "echelle"
+    ],
+    "raison": "Générique : l'échelle (Chantier)."
+  },
+  {
+    "id": "tremie-d-escalier",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "tremie"
+    ],
+    "raison": "Cas particulier de la trémie (Gros œuvre)."
+  },
+  {
+    "id": "barreau-de-rampe",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "garde-corps-a-barreaudage"
+    ],
+    "raison": "Une rampe à barreaux ressemble à un garde-corps à barreaudage."
+  },
+  {
+    "id": "perron",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "escalier-droit",
+      "escalier-en-beton"
+    ],
+    "raison": "Un perron est un petit escalier droit, souvent en béton."
+  },
+  {
+    "id": "rampe-d-acces",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bateau-de-trottoir"
+    ],
+    "raison": "Le bateau de trottoir sert aussi de rampe pour fauteuils."
+  },
+  {
+    "id": "ascenseur",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bouton-d-appel",
+      "monte-charge"
+    ],
+    "raison": "Le bouton d'appel est visible à côté des portes palières ; le monte-charge de chantier est aussi une cabine élévatrice."
+  },
+  {
+    "id": "_bilan",
+    "action": "bilan",
+    "raison": "Structure : priorités données aux 11 premiers termes ; définition de la coupole corrigée ; suppression de dalle pleine (quasi-doublon de dalle), mur de refend (non distinguable), extrados (peu visible) et poutre en lamellé-collé (doublon de Matériaux) ; incompatibles ajoutés (charpente métallique, bac acier, balcon/casquette, console, pilastre…). Gros œuvre : « le hourdis » (h aspiré), « la poutrelle » sans « précontrainte » invisible, longrine en P1 ; suppression de enrobage (notion) et bloc de béton cellulaire (doublon de béton cellulaire) ; incompatibles avec Chantier, Second œuvre et Réseaux (fil à ligaturer, pompe, bétonnière, ragréage, gaine ICTA, pare-vapeur). Escaliers : incompatibles ajoutés entre types de forme et types de matériau (un escalier droit en béton illustre les deux) ; bande podotactile supprimée (doublon de dalle podotactile). Restent douteux : intrados, sommier, trou de boulin, arase étanche, vide sanitaire et déblai/remblai (difficiles à reconnaître sans rectangle) ; mur porteur (le caractère porteur ne se voit pas toujours) ; ferme (Structure) est à la frontière avec Toitures ; la catégorie Escaliers garde assez de distracteurs (parties d'escalier, formes entre elles, matériaux entre eux)."
+  }
+]

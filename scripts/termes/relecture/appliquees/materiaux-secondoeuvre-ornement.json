@@ -1,0 +1,707 @@
+[
+  {
+    "id": "chaume",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante (paillotes, abris)"
+  },
+  {
+    "id": "brique",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "brique-creuse"
+    ],
+    "raison": "priorité manquante ; générique de la brique creuse"
+  },
+  {
+    "id": "parpaing",
+    "action": "modifier",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 1,
+    "definition": "Bloc de béton moulé, généralement creux, utilisé pour monter les murs ; on dit couramment agglo au Sénégal.",
+    "incompatibles_ajout": [
+      "bloc-plein",
+      "maconnerie"
+    ],
+    "raison": "priorité manquante ; les blocs sont dans le périmètre Gros œuvre (bloc plein, bloc à bancher, bloc en U) ; mention de l'agglo"
+  },
+  {
+    "id": "pierre-de-taille",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "moellon",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "mur-en-moellons",
+      "opus-incertum"
+    ],
+    "raison": "priorité manquante ; même photo que mur en moellons / opus incertum"
+  },
+  {
+    "id": "beton-brut",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "tuile",
+    "action": "modifier",
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "tuile-canal",
+      "tuile-mecanique",
+      "tuile-plate",
+      "tuile-faitiere"
+    ],
+    "raison": "priorité manquante ; générique des tuiles canal, mécanique, plate, faîtière, toutes dans Toitures (couvertures)"
+  },
+  {
+    "id": "ardoise",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante (rare à Dakar)"
+  },
+  {
+    "id": "tole-ondulee",
+    "action": "modifier",
+    "priorite": 1,
+    "incompatibles_ajout": [
+      "acier-galvanise"
+    ],
+    "raison": "priorité manquante (omniprésente) ; une tôle ondulée est souvent en acier galvanisé"
+  },
+  {
+    "id": "carreau-de-ciment",
+    "action": "modifier",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 2,
+    "definition": "Carreau de sol épais en ciment, aux motifs colorés incrustés dans la masse, pressé et séché sans cuisson ; fréquent dans les maisons anciennes.",
+    "incompatibles_ajout": [
+      "carrelage",
+      "carreau-hexagonal"
+    ],
+    "raison": "priorité manquante ; carreau de sol, périmètre Second œuvre (sols intérieurs) ; définition précisée"
+  },
+  {
+    "id": "bardage",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "pise",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "marbre",
+    "action": "modifier",
+    "definition": "Roche métamorphique issue du calcaire, cristalline et souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.",
+    "priorite": 2,
+    "raison": "le marbre est une roche métamorphique, pas une pierre calcaire ; P2"
+  },
+  {
+    "id": "calcaire",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "gres"
+    ],
+    "raison": "grès beige et calcaire se confondent sur photo"
+  },
+  {
+    "id": "travertin",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "calcaire"
+    ],
+    "raison": "le travertin est un calcaire"
+  },
+  {
+    "id": "pierre-bouchardee",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "beton-boucharde"
+    ],
+    "raison": "même aspect que le béton bouchardé"
+  },
+  {
+    "id": "beton",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "beton-frais",
+      "beton-prefabrique",
+      "beton-imprime"
+    ],
+    "raison": "le béton frais est aussi du béton"
+  },
+  {
+    "id": "beton-prefabrique",
+    "action": "modifier",
+    "definition": "Éléments de béton coulés en usine (panneaux, poutres, prédalles), reconnaissables en stock ou au levage, ou aux joints réguliers entre panneaux une fois posés.",
+    "priorite": 3,
+    "incompatibles_ajout": [
+      "beton-brut",
+      "linteau-prefabrique",
+      "predalle"
+    ],
+    "raison": "préfabriqué et coulé en place se distinguent mal une fois posés ; définition orientée vers ce qui se voit"
+  },
+  {
+    "id": "plaquette-de-parement",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "brique-pleine"
+    ],
+    "raison": "une fois posée, se confond avec une brique pleine apparente"
+  },
+  {
+    "id": "platre",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "staff",
+      "enduit-de-platre",
+      "carreau-de-platre"
+    ],
+    "raison": "se confond avec le staff et l'enduit de plâtre"
+  },
+  {
+    "id": "bardeau",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bardeau-bitume"
+    ],
+    "raison": "quasi-synonyme du bardeau bitumé de Toitures sur une photo de loin"
+  },
+  {
+    "id": "bardage-metallique",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bac-acier"
+    ],
+    "raison": "se confond avec le bac acier"
+  },
+  {
+    "id": "polycarbonate-alveolaire",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "plaque-translucide"
+    ],
+    "raison": "même objet que la plaque translucide de Toitures"
+  },
+  {
+    "id": "acier",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "tole-perforee",
+      "metal-deploye",
+      "tole-larmee",
+      "tole-ondulee",
+      "bardage-metallique",
+      "fer-forge",
+      "fonte"
+    ],
+    "raison": "générique de toutes les tôles et fers : une photo de tôle ou de grille est aussi de l'acier"
+  },
+  {
+    "id": "aluminium",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "acier-galvanise",
+      "menuiserie-aluminium",
+      "profile-aluminium"
+    ],
+    "raison": "gris clair mat, se confond avec l'acier galvanisé ; générique des menuiseries alu"
+  },
+  {
+    "id": "fer-forge",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "garde-corps-en-fer-forge"
+    ],
+    "raison": "même photo qu'un garde-corps en fer forgé"
+  },
+  {
+    "id": "enduit",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "gobetis"
+    ],
+    "raison": "le gobetis est une couche d'enduit"
+  },
+  {
+    "id": "mosaique",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "pate-de-verre"
+    ],
+    "incompatibles_ajout": [
+      "mosaique-de-pate-de-verre"
+    ],
+    "raison": "pâte de verre supprimée ; générique de la mosaïque de pâte de verre"
+  },
+  {
+    "id": "pate-de-verre",
+    "action": "supprimer",
+    "raison": "doublon de mosaique-de-pate-de-verre (Second œuvre)"
+  },
+  {
+    "id": "chaux",
+    "action": "supprimer",
+    "raison": "poudre blanche indiscernable du plâtre ou du ciment sur photo"
+  },
+  {
+    "id": "enduit-a-la-chaux",
+    "action": "supprimer",
+    "raison": "différence invisible à l'œil avec un autre enduit"
+  },
+  {
+    "id": "cloison-alveolaire",
+    "action": "supprimer",
+    "raison": "une fois finie, indiscernable d'une cloison en plaques de plâtre"
+  },
+  {
+    "id": "revetement-de-sol",
+    "action": "supprimer",
+    "raison": "générique trop large (tout sol) : notion plus qu'objet"
+  },
+  {
+    "id": "revetement-mural",
+    "action": "supprimer",
+    "raison": "générique trop large (tout mur) : notion plus qu'objet"
+  },
+  {
+    "id": "carrelage",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "revetement-de-sol"
+    ],
+    "raison": "revetement-de-sol supprimé"
+  },
+  {
+    "id": "sol-en-resine",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "revetement-de-sol"
+    ],
+    "raison": "revetement-de-sol supprimé"
+  },
+  {
+    "id": "parquet",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "revetement-de-sol"
+    ],
+    "raison": "revetement-de-sol supprimé"
+  },
+  {
+    "id": "sol-pvc",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "revetement-de-sol"
+    ],
+    "raison": "revetement-de-sol supprimé ; les lames vinyle imitent le stratifié",
+    "incompatibles_ajout": [
+      "sol-stratifie"
+    ]
+  },
+  {
+    "id": "moquette",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "revetement-de-sol"
+    ],
+    "raison": "revetement-de-sol supprimé"
+  },
+  {
+    "id": "faience",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "revetement-mural"
+    ],
+    "raison": "revetement-mural supprimé"
+  },
+  {
+    "id": "peinture",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "revetement-mural"
+    ],
+    "raison": "revetement-mural supprimé"
+  },
+  {
+    "id": "papier-peint",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "revetement-mural"
+    ],
+    "raison": "revetement-mural supprimé"
+  },
+  {
+    "id": "cale-autonivelante",
+    "action": "modifier",
+    "incompatibles_retrait": [
+      "croisillon"
+    ],
+    "incompatibles_ajout": [
+      "croisillons"
+    ],
+    "raison": "croisillon supprimé au profit de croisillons"
+  },
+  {
+    "id": "doublage",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "cloison-en-plaques-de-platre",
+      "cloison"
+    ],
+    "raison": "un doublage en plaques ressemble à une cloison en plaques"
+  },
+  {
+    "id": "staff",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "rosace-de-plafond",
+      "moulure",
+      "faux-plafond-en-plaques-de-platre"
+    ],
+    "raison": "se confond avec les moulures, rosaces et plafonds en plaques"
+  },
+  {
+    "id": "ragreage",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "chape-liquide"
+    ],
+    "raison": "même aspect que la chape liquide"
+  },
+  {
+    "id": "beton-poli",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "sol-en-resine"
+    ],
+    "raison": "sol gris lisse et brillant comme une résine"
+  },
+  {
+    "id": "carreau-imitation-bois",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "sol-stratifie"
+    ],
+    "raison": "se confond avec un stratifié imitation bois"
+  },
+  {
+    "id": "sol-en-marbre",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "marbre"
+    ],
+    "raison": "un sol en marbre est une photo de marbre"
+  },
+  {
+    "id": "carreau-de-gres-cerame",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "faience"
+    ],
+    "raison": "le grès cérame se pose aussi au mur"
+  },
+  {
+    "id": "couvre-joint",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "joint-de-dilatation"
+    ],
+    "raison": "couvre souvent un joint de dilatation"
+  },
+  {
+    "id": "lambris",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bardage"
+    ],
+    "raison": "lames de bois comme un bardage"
+  },
+  {
+    "id": "cimaise",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "moulure"
+    ],
+    "raison": "la cimaise est une moulure"
+  },
+  {
+    "id": "placard",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "porte-de-placard"
+    ],
+    "raison": "la porte de placard est toujours visible"
+  },
+  {
+    "id": "barre-de-seuil",
+    "action": "modifier",
+    "definition": "Profilé métallique mince vissé ou collé au sol sous une porte, qui couvre la jonction entre deux revêtements de sol différents.",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "seuil-de-porte",
+      "seuil"
+    ],
+    "raison": "définition recentrée sur le profilé, pour la distinguer du seuil de porte"
+  },
+  {
+    "id": "pare-vapeur",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "film-polyethylene"
+    ],
+    "raison": "film plastique identique au polyane"
+  },
+  {
+    "id": "enduit-de-platre",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "platre"
+    ],
+    "raison": "le plâtre est la même chose sur photo"
+  },
+  {
+    "id": "corniche",
+    "action": "modifier",
+    "priorite": 1,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "bandeau",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "fronton",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "tympan"
+    ],
+    "raison": "priorité manquante ; le tympan est toujours visible dans un fronton"
+  },
+  {
+    "id": "chapiteau",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "colonne"
+    ],
+    "raison": "priorité manquante ; toujours vu avec la colonne"
+  },
+  {
+    "id": "pilastre",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "console",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "corbeau",
+      "modillon"
+    ],
+    "raison": "priorité manquante ; quasi-synonyme du corbeau ; le modillon est une petite console"
+  },
+  {
+    "id": "gargouille",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "gargouille-de-terrasse"
+    ],
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "balustre",
+    "action": "modifier",
+    "priorite": 1,
+    "incompatibles_ajout": [
+      "balustrade"
+    ],
+    "raison": "priorité manquante (très courant sur les villas dakaroises) ; toujours en balustrade"
+  },
+  {
+    "id": "rosace",
+    "action": "modifier",
+    "priorite": 3,
+    "incompatibles_ajout": [
+      "oeil-de-boeuf"
+    ],
+    "raison": "priorité manquante ; proche de l'œil-de-bœuf"
+  },
+  {
+    "id": "modillon",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "mascaron",
+    "action": "modifier",
+    "priorite": 3,
+    "incompatibles_ajout": [
+      "bas-relief",
+      "haut-relief"
+    ],
+    "raison": "priorité manquante ; un mascaron est sculpté en relief"
+  },
+  {
+    "id": "frise",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "pinacle",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "cariatide",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "priorité manquante"
+  },
+  {
+    "id": "medaillon",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bas-relief",
+      "haut-relief"
+    ],
+    "raison": "ornement sculpté : une photo de bas-relief ou haut-relief le montre aussi"
+  },
+  {
+    "id": "feston",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bas-relief",
+      "haut-relief"
+    ],
+    "raison": "ornement sculpté : une photo de bas-relief ou haut-relief le montre aussi"
+  },
+  {
+    "id": "rinceau",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bas-relief",
+      "haut-relief"
+    ],
+    "raison": "ornement sculpté : une photo de bas-relief ou haut-relief le montre aussi"
+  },
+  {
+    "id": "cartouche",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bas-relief",
+      "haut-relief"
+    ],
+    "raison": "ornement sculpté : une photo de bas-relief ou haut-relief le montre aussi"
+  },
+  {
+    "id": "metope",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bas-relief",
+      "haut-relief"
+    ],
+    "raison": "ornement sculpté : une photo de bas-relief ou haut-relief le montre aussi"
+  },
+  {
+    "id": "palmette",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "bas-relief",
+      "haut-relief"
+    ],
+    "raison": "ornement sculpté : une photo de bas-relief ou haut-relief le montre aussi"
+  },
+  {
+    "id": "bas-relief",
+    "action": "modifier",
+    "priorite": 2,
+    "incompatibles_ajout": [
+      "bas-relief-d-abomey"
+    ],
+    "raison": "rare à Dakar ; générique du bas-relief d'Abomey"
+  },
+  {
+    "id": "haut-relief",
+    "action": "modifier",
+    "priorite": 3,
+    "raison": "rare"
+  },
+  {
+    "id": "denticule",
+    "action": "modifier",
+    "incompatibles_ajout": [
+      "moulure"
+    ],
+    "raison": "rang de denticules = moulure"
+  },
+  {
+    "id": "refend",
+    "action": "modifier",
+    "definition": "Rainure creusée dans un enduit ou une pierre pour marquer ou imiter les joints d'un appareil.",
+    "raison": "les refends peuvent être verticaux ; marquer ou imiter les joints"
+  },
+  {
+    "id": "fresque",
+    "action": "modifier",
+    "definition": "Grande peinture murale, à l'origine exécutée sur enduit frais, en intérieur ou sur une façade.",
+    "priorite": 2,
+    "raison": "la technique (sur enduit frais) ne se voit pas : définition par l'usage courant ; P2"
+  },
+  {
+    "id": "volute",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "rééquilibrage : fréquent mais pas à chaque visite à Dakar"
+  },
+  {
+    "id": "bossage",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "rééquilibrage : fréquent mais pas à chaque visite à Dakar"
+  },
+  {
+    "id": "niche",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "rééquilibrage : fréquent mais pas à chaque visite à Dakar"
+  },
+  {
+    "id": "cannelure",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "rééquilibrage : fréquent mais pas à chaque visite à Dakar"
+  },
+  {
+    "id": "vitrail",
+    "action": "modifier",
+    "priorite": 2,
+    "raison": "rééquilibrage : fréquent mais pas à chaque visite à Dakar"
+  },
+  {
+    "id": "_bilan",
+    "action": "bilan",
+    "raison": "Priorités données aux 26 termes sans priorité. Suppressions : doublons inter-catégories (fibrociment, béton cellulaire, lamellé-collé, verre réfléchissant, pâte de verre, croisillon), génériques trop vagues (revêtement de sol, revêtement mural), éléments indiscernables sur photo (chaux, enduit à la chaux, cloison alvéolaire). Déplacements : parpaing vers Gros œuvre (avec les blocs), tuile vers Toitures (avec les tuiles précises), carreau de ciment vers Second œuvre. Définitions corrigées : marbre (métamorphique), fresque, refend, barre de seuil, béton préfabriqué, carreau de ciment, parpaing (agglo). Nombreux incompatibles ajoutés (génériques acier, béton, bas-relief, moulure). Points douteux : plaquette de parement et pierre reconstituée (aspect proche de la vraie maçonnerie), enduit gratté et enduit taloché (difficiles à distinguer), béton préfabriqué, doublage contre cloison ; tessons-de-bouteille (Afrique de l'Ouest) et tessons-de-verre (Extérieurs) semblent être un doublon, hors de mon périmètre."
+  }
+]

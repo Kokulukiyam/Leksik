@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "assemblage-soude",
+    "terme": "l'assemblage soudé",
+    "categorie": "Structure",
+    "definition": "Liaison de pièces métalliques par un cordon de soudure visible le long du contact.",
+    "priorite": 1,
+    "requetes": [
+      "welded steel connection",
+      "assemblage soudé",
+      "weld bead steel"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Gas seamed elbow.jpg",
+      "description": "Seamed gas elbows",
+      "categories": [
+        "Steel",
+        "Self-published work",
+        "Butt welding fittings"
+      ],
+      "auteur": "Ghasemimoshref",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gas_seamed_elbow.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Gas_seamed_elbow.jpg/1280px-Gas_seamed_elbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 3078
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:BSB welding.jpg",
+      "description": "Manual metal arc welding steel connections on deck",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A560",
+        "Blackfriars Bridge (London, Ontario)",
+        "License migration redundant",
+        "Manual metal arc welding",
+        "Self-published work",
+        "2008 in London, Ontario",
+        "Canada photographs taken on 2008-05-30",
+        "May 2008 in Ontario",
+        "Welding masks"
+      ],
+      "auteur": "Alethe",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BSB_welding.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/BSB_welding.jpg/1280px-BSB_welding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2235,
+      "hauteur": 999
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Linz Neue Donaubrücke Oktober 2020-2206.jpg",
+      "description": "The New Linz Danube Bridge (project name) is the replacement of the railway bridge dismantled in 2016. It was built according to a design by the Paris architecture firm Mimram. The connection between the steel structure and the concrete road surface is accomplished by welded-on bolts .",
+      "categories": [
+        "Girders",
+        "Images with annotations",
+        "Felbermayr",
+        "Porr",
+        "Strabag",
+        "Uploaded with VicuñaUploader",
+        "MCE GmbH",
+        "Supported by Wikimedia Österreich",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Bridge supports in Austria",
+        "Neue Eisenbahnbrücke, Linz (under construction)",
+        "Stud welding"
+      ],
+      "auteur": "Isiwal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Linz_Neue_Donaubr%C3%BCcke_Oktober_2020-2206.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Linz_Neue_Donaubr%C3%BCcke_Oktober_2020-2206.jpg/1280px-Linz_Neue_Donaubr%C3%BCcke_Oktober_2020-2206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Linz Baustelle Neue Donaubrücke 2021 02 24-0002 (02).jpg",
+      "description": "The New Linz Danube Bridge (project name) is the replacement of the railway bridge dismantled in 2016. It was built according to a design by the Paris architecture firm Mimram. The connection between the steel structure and the concrete road surface is accomplished by welded-on bolts .",
+      "categories": [
+        "Girders",
+        "Porr",
+        "Strabag",
+        "Uploaded with VicuñaUploader",
+        "MCE GmbH",
+        "Supported by Wikimedia Österreich",
+        "Files with coordinates missing SDC location of creation",
+        "Austria photographs taken on 2020-10-31",
+        "October 2020 in bridge construction in Austria",
+        "2020 in construction in Upper Austria",
+        "October 2020 in Linz",
+        "Neue Eisenbahnbrücke, Linz (under construction)",
+        "Stud welding"
+      ],
+      "auteur": "Isiwal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Linz_Baustelle_Neue_Donaubr%C3%BCcke_2021_02_24-0002_(02).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Linz_Baustelle_Neue_Donaubr%C3%BCcke_2021_02_24-0002_%2802%29.jpg/1280px-Linz_Baustelle_Neue_Donaubr%C3%BCcke_2021_02_24-0002_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3295,
+      "hauteur": 4393
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Sheet metal workers' manual; a complete, practical instruction book on the sheet metal industry, machinery and tools, and related subjects, including the oxy-acetylen welding and cutting process (14576734248).jpg",
+      "description": "Identifier : sheetmetalworker00broe ( find matches ) Title : Sheet metal workers' manual; a complete, practical instruction book on the sheet metal industry, machinery and tools, and related subjects, including the oxy-acetylen welding and cutting process Year : 1918 ( 1910s ) Authors : Broemel, L. (Louis), b. 1885 Daugherty, James S. (James Sharkey), b. 1866 Subjects : Sheet-metal work Publisher : Chicago, Drake Contributing Library : The Library of Congress Digitizing Sponsor : The Library of Congress View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images F",
+      "categories": [
+        "1918 books",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 14 October 2015"
+      ],
+      "auteur": "Broemel, L. (Louis), b. 1885; Daugherty, James S. (James Sharkey), b. 1866",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sheet_metal_workers%27_manual;_a_complete,_practical_instruction_book_on_the_sheet_metal_industry,_machinery_and_tools,_and_related_subjects,_including_the_oxy-acetylen_welding_and_cutting_process_(14576734248).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Sheet_metal_workers%27_manual%3B_a_complete%2C_practical_instruction_book_on_the_sheet_metal_industry%2C_machinery_and_tools%2C_and_related_subjects%2C_including_the_oxy-acetylen_welding_and_cutting_process_%2814576734248%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 3552
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Munitions Demilitarization Building (16475642510).jpg",
+      "description": "A Blue Grass Chemical Agent-Destruction Pilot Plant worker welds a plenum box inside the Munitions Demilitarization Building. The plenum is a steel chamber that will serve as a connection between blast valves and HVAC ductwork.",
+      "categories": [
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_(16475642510).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_%2816475642510%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_%2816475642510%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    }
+  ]
+}

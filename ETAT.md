@@ -23,9 +23,10 @@ chances de croiser sur un chantier (génériques et précis) ; parties toujours 
 
 ### En cours / à faire, dans l'ordre
 
-1. **Relecture des 1007 termes** (5 agents, `scripts/verif/consignes-relecture.md`) → propositions dans
-   `scripts/termes/relecture/*.json`, puis `python3 scripts/appliquer_relecture.py --ecrire`.
-2. **Test de bout en bout** mis à jour pour les paramètres et Gérer paginé (agent de test) ; relancer `npm run e2e`.
+1. ~~Relecture des 1007 termes~~ FAIT : 245 modifications, 25 suppressions → **982 termes**, tous avec priorité
+   (`scripts/termes/relecture/appliquees/`, arbitrages dans `scripts/termes/relecture/arbitrages.txt`).
+2. ~~Test de bout en bout mis à jour~~ FAIT : 6941 vérifications, 0 erreur (paramètres, Gérer paginé, incompatibles).
+   Si le serveur tourne déjà (lancé par double-clic) : `SERVER_LOG=.next/dev/logs/next-development.log npm run e2e`.
 3. **Recherche Commons** : `node scripts/commons.mjs > tmp/commons-1000.log 2>&1` (par priorité ; reprend où il
    s'est arrêté : les termes qui ont un `meta.json` sont sautés). ~30 s à 1 min par terme.
 4. **Vérifications, par lots**, au fur et à mesure des téléchargements (`python3 scripts/avancement.py` donne l'état) :
@@ -36,6 +37,12 @@ chances de croiser sur un chantier (génériques et précis) ; parties toujours 
      sortie `tmp/verif/contre/v2-NNN.json` ;
    - `node scripts/integrer.mjs` (jamais pendant `npm run e2e`).
 5. Test de bout en bout final, README, DECISIONS, rapport, commit et push.
+
+## Journal des lots
+
+Première vérification (agents Sonnet, 10 termes par lot) : p-001 à p-004 lancés (40 termes de priorité 1, chantier).
+Contre-vérification (modèle principal) : lots `v2-NNN`, aucun encore.
+Termes sans aucune candidate Commons (à retenter avec d'autres requêtes à la fin) : voir `python3 scripts/avancement.py`.
 
 ## Rappels
 

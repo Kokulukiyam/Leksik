@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "piscine",
+    "terme": "la piscine",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Bassin artificiel étanche, revêtu de carrelage, de liner ou d'enduit, aménagé pour la baignade.",
+    "priorite": 1,
+    "requetes": [
+      "swimming pool villa",
+      "piscine",
+      "incategory:\"Swimming pools\""
+    ],
+    "incompatibles": [
+      "margelle",
+      "plage-de-piscine"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Villa Airport Prestige Swimming Pool - Cancun QR Jan 2020.jpg",
+      "description": "Cancun, Quintana Roo, MEXICO",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2020 in Cancún",
+        "Mexico photographs taken on 2020-01-26",
+        "Hotels in Mexico photographed in 2020",
+        "Hotel swimming pools in Cancún"
+      ],
+      "auteur": "Bernard DUPONT",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Villa_Airport_Prestige_Swimming_Pool_-_Cancun_QR_Jan_2020.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Villa_Airport_Prestige_Swimming_Pool_-_Cancun_QR_Jan_2020.jpg/1280px-Villa_Airport_Prestige_Swimming_Pool_-_Cancun_QR_Jan_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1792,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Swimming pool villa Poppaea.jpg",
+      "description": "SONY DSC",
+      "categories": [
+        "Self-published work",
+        "Piscina. Villa Poppaea"
+      ],
+      "auteur": "Rjdeadly",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Swimming_pool_villa_Poppaea.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Swimming_pool_villa_Poppaea.jpg/1280px-Swimming_pool_villa_Poppaea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1520
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Swimming pool, Tran Le Xuan Villa 01.jpg",
+      "description": "Swimming pool, Tran Le Xuan Villa",
+      "categories": [
+        "Tran Le Xuan Villa",
+        "Taken with Canon PowerShot A570 IS",
+        "Self-published work",
+        "Swimming pools in Vietnam"
+      ],
+      "auteur": "Diane Selwyn",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Swimming_pool,_Tran_Le_Xuan_Villa_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Swimming_pool%2C_Tran_Le_Xuan_Villa_01.jpg/1280px-Swimming_pool%2C_Tran_Le_Xuan_Villa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 1853
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Swimming pool and Makuti-thatched villa in Malindi.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Kenya",
+        "Images from Wiki Loves Africa 2026 to check",
+        "Images from Wiki Loves Africa 2026 without categories"
+      ],
+      "auteur": "Lebu Ayiga",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Swimming_pool_and_Makuti-thatched_villa_in_Malindi.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Swimming_pool_and_Makuti-thatched_villa_in_Malindi.jpg/1280px-Swimming_pool_and_Makuti-thatched_villa_in_Malindi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A woman in bikini near a swimming pool in Villa del Palmar, Mexico.jpg",
+      "description": "A woman in bikini near a swimming pool in Villa del Palmar, Mexico",
+      "categories": [
+        "Personality rights warning",
+        "2010s bikinis",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Women wearing pink bikinis",
+        "Bikinis in Mexico",
+        "Photographs by Kirt Edblom",
+        "Villa del Palmar"
+      ],
+      "auteur": "Kirt Edblom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_woman_in_bikini_near_a_swimming_pool_in_Villa_del_Palmar,_Mexico.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/A_woman_in_bikini_near_a_swimming_pool_in_Villa_del_Palmar%2C_Mexico.jpg/1280px-A_woman_in_bikini_near_a_swimming_pool_in_Villa_del_Palmar%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1930,
+      "hauteur": 2900
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Two women in bikinis at loungers near a swimming pool in Villa del Palmar, Mexico.jpg",
+      "description": "Two women in bikinis at loungers near a swimming pool in Villa del Palmar",
+      "categories": [
+        "Beach umbrellas",
+        "Sunbathing in Mexico",
+        "2010s bikinis",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Women wearing black bikinis",
+        "Women wearing pink bikinis",
+        "Standing women seen from behind in Mexico",
+        "Bikinis in Mexico",
+        "Photographs by Kirt Edblom",
+        "Recumbent women wearing bikinis (prone)",
+        "Villa del Palmar"
+      ],
+      "auteur": "Kirt Edblom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Two_women_in_bikinis_at_loungers_near_a_swimming_pool_in_Villa_del_Palmar,_Mexico.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Two_women_in_bikinis_at_loungers_near_a_swimming_pool_in_Villa_del_Palmar%2C_Mexico.jpg/1280px-Two_women_in_bikinis_at_loungers_near_a_swimming_pool_in_Villa_del_Palmar%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1963,
+      "hauteur": 2949
+    }
+  ]
+}

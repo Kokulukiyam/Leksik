@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "pioche",
+    "terme": "la pioche",
+    "categorie": "Chantier et outillage",
+    "definition": "Outil à fer pointu ou aplati monté perpendiculairement sur un manche, pour creuser un sol dur.",
+    "priorite": 1,
+    "requetes": [
+      "pickaxe",
+      "pioche",
+      "incategory:\"Pickaxes\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Victor Gillam A Thing Well Begun Is Half Done 1899 Cornell CUL PJM 1136 01.jpg",
+      "description": "A satirical political cartoon reflecting America's imperial ambitions following quick and total victory in the Spanish American War of 1898.",
+      "categories": [
+        "Imperialism",
+        "Featured maps",
+        "Artworks without Wikidata item",
+        "Victor Gillam",
+        "PD-old-100-expired",
+        "Artworks with known accession number",
+        "CC-PD-Mark",
+        "Spanish-American War cartoons",
+        "Featured Pictures by EVDiam",
+        "Judge, 1899",
+        "Engravings of Uncle Sam",
+        "Cornell: Persuasive Cartography: The PJ Mode Collection",
+        "Cornell University Collection of Political Americana",
+        "Featured pictures in the public domain",
+        "PD-old missing SDC copyright status",
+        "Featured pictures of cartoons",
+        "Featured pictures of history of the United States",
+        "1899 political cartoons of the United States",
+        "Caricatures of William McKinley",
+        "Ships in cartoons",
+        "Maps of the Nicaragua Canal",
+        "American Colonialism in art",
+        "Images from Cornell University Library",
+        "Globes in political cartoons"
+      ],
+      "auteur": "Victor Gillam",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Victor_Gillam_A_Thing_Well_Begun_Is_Half_Done_1899_Cornell_CUL_PJM_1136_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Victor_Gillam_A_Thing_Well_Begun_Is_Half_Done_1899_Cornell_CUL_PJM_1136_01.jpg/1280px-Victor_Gillam_A_Thing_Well_Begun_Is_Half_Done_1899_Cornell_CUL_PJM_1136_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2593
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Pickaxe.jpg",
+      "description": "A pickaxe lying on the ground. See File info .",
+      "categories": [
+        "PD-user",
+        "Pickaxes"
+      ],
+      "auteur": "Hyena~commonswiki",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pickaxe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Pickaxe.jpg/1280px-Pickaxe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2787,
+      "hauteur": 2180
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pickaxe and gloves on grass.jpg",
+      "description": "500px provided description: 15 52 Hands Votogs52 [#grass ,#dirt ,#gloves ,#pickaxe ,#votogs52]",
+      "categories": [
+        "Pickaxes",
+        "Garden gloves",
+        "Photos imported with import-500px",
+        "Leather gloves"
+      ],
+      "auteur": "Martin Majer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pickaxe_and_gloves_on_grass.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Pickaxe_and_gloves_on_grass.jpg/1280px-Pickaxe_and_gloves_on_grass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1280
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Spitzhacke (Claes Oldenburg) 02.JPG",
+      "description": "Spitzhacke (Claes Oldenburg)",
+      "categories": [
+        "Spitzhacke (Claes Oldenburg)",
+        "Self-published work",
+        "FoP-Germany",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation (51° N, 9° E)"
+      ],
+      "auteur": "Cherubino",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spitzhacke_(Claes_Oldenburg)_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spitzhacke_%28Claes_Oldenburg%29_02.JPG/1280px-Spitzhacke_%28Claes_Oldenburg%29_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:02016 0712 Pickaxe from Nowa Huta, 9-10th century.jpg",
+      "description": "Pickaxe from Nowa Huta, 9-10th century",
+      "categories": [
+        "Self-published work",
+        "Pickaxes in Poland",
+        "10th-century works in Lesser Poland",
+        "9th-century works in Lesser Poland",
+        "Archaeology of Nowa Huta",
+        "Hoard from Mogiła"
+      ],
+      "auteur": "Silar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:02016_0712_Pickaxe_from_Nowa_Huta,_9-10th_century.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/02016_0712_Pickaxe_from_Nowa_Huta%2C_9-10th_century.jpg/1280px-02016_0712_Pickaxe_from_Nowa_Huta%2C_9-10th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3958,
+      "hauteur": 2664
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Spitzhacke.jpg",
+      "description": "\"Spitzhacke\", a sculpture by Claes Oldenburg in Kassel , Germany.",
+      "categories": [
+        "Spitzhacke (Claes Oldenburg)",
+        "Flickr images verified by UploadWizard",
+        "Files from Daniel Lobo (daquellamanera) Flickr stream",
+        "Files with coordinates missing SDC location of creation (51° N, 9° E)"
+      ],
+      "auteur": "Daniel Lobo",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spitzhacke.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Spitzhacke.jpg/1280px-Spitzhacke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    }
+  ]
+}

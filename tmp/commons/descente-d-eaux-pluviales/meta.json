@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "descente-d-eaux-pluviales",
+    "terme": "la descente d'eaux pluviales",
+    "categorie": "Toitures",
+    "definition": "Tuyau vertical fixé sur la façade qui conduit l'eau du toit jusqu'au sol ou au réseau.",
+    "priorite": 1,
+    "requetes": [
+      "downspout building",
+      "descente eaux pluviales",
+      "incategory:\"Downspouts\""
+    ],
+    "incompatibles": [
+      "gouttiere"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Oxidated rain pipe, Delft (2020) 01.jpg",
+      "description": "A rusted rain pipe at a small local restaurant, that is located in the Haaglander city of Delft, South Holland.",
+      "categories": [
+        "Self-published work",
+        "2020 in Delft",
+        "Netherlands photographs taken on 2020-12-10"
+      ],
+      "auteur": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject N",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oxidated_rain_pipe,_Delft_(2020)_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Oxidated_rain_pipe%2C_Delft_%282020%29_01.jpg/1280px-Oxidated_rain_pipe%2C_Delft_%282020%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 4864
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:-2023-01-29 Rainwater downpipe, Trimingham, Norfolk.JPG",
+      "description": "A rainwater down pipe on a shed in the village of Trimingham , Norfolk, United Kingdom.",
+      "categories": [
+        "Attribution only license",
+        "January 2023 in Norfolk, England",
+        "Images by Kolforn",
+        "England photographs taken on 2023-01-29",
+        "Files with coordinates missing SDC location of creation (52° N, 1° E)",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Rain gutters (downpipe) in Norfolk, England",
+        "Trimingham images by Kolforn",
+        "Architectural elements in Trimingham"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2023-01-29_Rainwater_downpipe,_Trimingham,_Norfolk.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/-2023-01-29_Rainwater_downpipe%2C_Trimingham%2C_Norfolk.JPG/1280px--2023-01-29_Rainwater_downpipe%2C_Trimingham%2C_Norfolk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Oxidated rain pipe, Delft (2020) 02.jpg",
+      "description": "A rusted rain pipe at a small local restaurant, that is located in the Haaglander city of Delft, South Holland.",
+      "categories": [
+        "Self-published work",
+        "2020 in Delft",
+        "Netherlands photographs taken on 2020-12-10"
+      ],
+      "auteur": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject N",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oxidated_rain_pipe,_Delft_(2020)_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Oxidated_rain_pipe%2C_Delft_%282020%29_02.jpg/1280px-Oxidated_rain_pipe%2C_Delft_%282020%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4864,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:-2022-06-24 Butress and downpipe, Parish church of All Saints, Edingthorpe, Norfolk.JPG",
+      "description": "A Buttress and gutter downpipe on the south wall of the parish church of All Saints within the village of Edingthorpe , Norfolk",
+      "categories": [
+        "Attribution only license",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2022-06-24",
+        "June 2022 in Norfolk, England",
+        "Files with coordinates missing SDC location of creation (52° N, 1° E)",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Architectural elements of All Saints, Edingthorpe",
+        "Rain gutters (downpipe) in Norfolk, England",
+        "Churches taken with Canon PowerShot SX430 IS",
+        "Church images by Kolforn",
+        "Church buttresses in Norfolk, England",
+        "Churches in Norfolk, England photographed in June 2022"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2022-06-24_Butress_and_downpipe,_Parish_church_of_All_Saints,_Edingthorpe,_Norfolk.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/-2022-06-24_Butress_and_downpipe%2C_Parish_church_of_All_Saints%2C_Edingthorpe%2C_Norfolk.JPG/1280px--2022-06-24_Butress_and_downpipe%2C_Parish_church_of_All_Saints%2C_Edingthorpe%2C_Norfolk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:-2022-04-24 Gutter downpipe, Saint Mary's, Northrepps.JPG",
+      "description": "A gutter downpipe on the south elevation of Saint Mary's parish church in the village of Northrepps , Norfolk, England.",
+      "categories": [
+        "Attribution only license",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2022-04-24",
+        "April 2022 in Norfolk, England",
+        "Files with coordinates missing SDC location of creation (52° N, 1° E)",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Rain gutters (downpipe) in Norfolk, England",
+        "Churches taken with Canon PowerShot SX430 IS",
+        "Church images by Kolforn",
+        "Architectural elements of Saint Mary's, Northrepps",
+        "Churches in Norfolk, England photographed in April 2022"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2022-04-24_Gutter_downpipe,_Saint_Mary%27s,_Northrepps.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/-2022-04-24_Gutter_downpipe%2C_Saint_Mary%27s%2C_Northrepps.JPG/1280px--2022-04-24_Gutter_downpipe%2C_Saint_Mary%27s%2C_Northrepps.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Shōfuku-ji rain gutter rain leader ama-ochi of the butsuden 6-1 Gokushomachi Hakata-ku Fukuoka 20240206.jpg",
+      "description": "Shōfuku-ji, the rain gutter, the rain leader, the ama-ochi etc. of the butsuden (Address: 6-1, Gokushomachi, Hakata-ku, Fukuoka City, Japan 812-0037)",
+      "categories": [
+        "Self-published work",
+        "Drain pipes in Japan",
+        "Files with coordinates missing SDC location of creation",
+        "Butsuden, Shōfuku-ji",
+        "Amaochi"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sh%C5%8Dfuku-ji_rain_gutter_rain_leader_ama-ochi_of_the_butsuden_6-1_Gokushomachi_Hakata-ku_Fukuoka_20240206.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Sh%C5%8Dfuku-ji_rain_gutter_rain_leader_ama-ochi_of_the_butsuden_6-1_Gokushomachi_Hakata-ku_Fukuoka_20240206.jpg/1280px-Sh%C5%8Dfuku-ji_rain_gutter_rain_leader_ama-ochi_of_the_butsuden_6-1_Gokushomachi_Hakata-ku_Fukuoka_20240206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    }
+  ]
+}

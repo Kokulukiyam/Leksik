@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "echafaudage",
+    "terme": "l'échafaudage",
+    "categorie": "Chantier et outillage",
+    "definition": "Structure provisoire de montants, traverses et planchers dressée contre un ouvrage pour permettre de travailler en hauteur.",
+    "priorite": 1,
+    "requetes": [
+      "scaffolding building facade",
+      "échafaudage façade",
+      "incategory:\"Scaffolding\""
+    ],
+    "incompatibles": [
+      "plancher-d-echafaudage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Shorts Building facade 9904.JPG",
+      "description": "Shorts Building in Shortstown (or New Cardington), showing facade erected whilst renovation work ensues on substantial scaffolding erection hidden by the enhanced photograph that shows how the building should look when renovations are complete.",
+      "categories": [
+        "Taken with Nikon D700",
+        "Scaffolding",
+        "PD-user",
+        "Facades",
+        "Shortstown",
+        "Pages with local camera coordinates and mismatching SDC coordinates",
+        "Files with coordinates missing SDC location of creation (52° N, 1° W)"
+      ],
+      "auteur": "G1MFG ( talk )",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shorts_Building_facade_9904.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Shorts_Building_facade_9904.JPG/1280px-Shorts_Building_facade_9904.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3942,
+      "hauteur": 1774
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:St Andrew's Cathedral, Wells, with scaffolding - geograph.org.uk - 7053762.jpg",
+      "description": "St Andrew's Cathedral, Wells, with scaffolding",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Scaffolding in Somerset",
+        "West facade of Wells Cathedral"
+      ],
+      "auteur": "Stephen Craven",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_Cathedral,_Wells,_with_scaffolding_-_geograph.org.uk_-_7053762.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/St_Andrew%27s_Cathedral%2C_Wells%2C_with_scaffolding_-_geograph.org.uk_-_7053762.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Scaffolding on the Minster, Minster Yard, York - geograph.org.uk - 8293971.jpg",
+      "description": "Scaffolding on the Minster, Minster Yard, York",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Scaffolding in North Yorkshire",
+        "South facade of York Minster",
+        "Images by habiloid",
+        "April 2026 in York",
+        "York photographs taken on 2026-04-01"
+      ],
+      "auteur": "habiloid",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Scaffolding_on_the_Minster,_Minster_Yard,_York_-_geograph.org.uk_-_8293971.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Scaffolding_on_the_Minster%2C_Minster_Yard%2C_York_-_geograph.org.uk_-_8293971.jpg/1280px-Scaffolding_on_the_Minster%2C_Minster_Yard%2C_York_-_geograph.org.uk_-_8293971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2789,
+      "hauteur": 3417
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:HK 上環 Sheung Wan 差館上街 Upper Station Street 荷李活大樓 Hollywood Building facade 竹棚架 鷹架 bamboo scaffolding decoration August 2017 IX1 01.jpg",
+      "description": "HK 上環 Sheung Wan zh:差館上街 Upper Station Street zh:荷李活大樓 Hollywood Building facade 竹棚架 鷹架 bamboo scaffolding decoration in August 2017",
+      "categories": [
+        "Self-published work",
+        "Hong Kong photographs taken on 2017-08-05",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Residential buildings in Sheung Wan",
+        "Construction sites in Sheung Wan",
+        "Exterior of Hollywood Building, Hong Kong",
+        "Bamboo scaffolding in Sheung Wan",
+        "2017 in Hollywood Building, Hong Kong",
+        "July 2017 in Upper Station Street"
+      ],
+      "auteur": "SA LAW MAN G",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E5%B7%AE%E9%A4%A8%E4%B8%8A%E8%A1%97_Upper_Station_Street_%E8%8D%B7%E6%9D%8E%E6%B4%BB%E5%A4%A7%E6%A8%93_Hollywood_Building_facade_%E7%AB%B9%E6%A3%9A%E6%9E%B6_%E9%B7%B9%E6%9E%B6_bamboo_scaffolding_decoration_August_2017_IX1_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E5%B7%AE%E9%A4%A8%E4%B8%8A%E8%A1%97_Upper_Station_Street_%E8%8D%B7%E6%9D%8E%E6%B4%BB%E5%A4%A7%E6%A8%93_Hollywood_Building_facade_%E7%AB%B9%E6%A3%9A%E6%9E%B6_%E9%B7%B9%E6%9E%B6_bamboo_scaffolding_decoration_August_2017_IX1_01.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1368,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:HK 上環 Sheung Wan 差館上街 Upper Station Street 荷李活大樓 Hollywood Building facade 竹棚架 鷹架 bamboo scaffolding decoration August 2017 IX1 03.jpg",
+      "description": "HK 上環 Sheung Wan zh:差館上街 Upper Station Street zh:荷李活大樓 Hollywood Building facade 竹棚架 鷹架 bamboo scaffolding decoration in August 2017",
+      "categories": [
+        "Self-published work",
+        "Hong Kong photographs taken on 2017-08-05",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Residential buildings in Sheung Wan",
+        "Construction sites in Sheung Wan",
+        "Exterior of Hollywood Building, Hong Kong",
+        "Bamboo scaffolding in Sheung Wan",
+        "2017 in Hollywood Building, Hong Kong",
+        "July 2017 in Upper Station Street"
+      ],
+      "auteur": "SA LAW MAN G",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E5%B7%AE%E9%A4%A8%E4%B8%8A%E8%A1%97_Upper_Station_Street_%E8%8D%B7%E6%9D%8E%E6%B4%BB%E5%A4%A7%E6%A8%93_Hollywood_Building_facade_%E7%AB%B9%E6%A3%9A%E6%9E%B6_%E9%B7%B9%E6%9E%B6_bamboo_scaffolding_decoration_August_2017_IX1_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E5%B7%AE%E9%A4%A8%E4%B8%8A%E8%A1%97_Upper_Station_Street_%E8%8D%B7%E6%9D%8E%E6%B4%BB%E5%A4%A7%E6%A8%93_Hollywood_Building_facade_%E7%AB%B9%E6%A3%9A%E6%9E%B6_%E9%B7%B9%E6%9E%B6_bamboo_scaffolding_decoration_August_2017_IX1_03.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1368,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:HK 上環 Sheung Wan 差館上街 Upper Station Street 荷李活大樓 Hollywood Building facade 竹棚架 鷹架 bamboo scaffolding decoration August 2017 IX1 02.jpg",
+      "description": "HK 上環 Sheung Wan zh:差館上街 Upper Station Street zh:荷李活大樓 Hollywood Building facade 竹棚架 鷹架 bamboo scaffolding decoration in August 2017",
+      "categories": [
+        "Self-published work",
+        "Hong Kong photographs taken on 2017-08-05",
+        "August 2017 in Sheung Wan",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Residential buildings in Sheung Wan",
+        "Construction sites in Sheung Wan",
+        "Exterior of Hollywood Building, Hong Kong",
+        "Bamboo scaffolding in Sheung Wan",
+        "2017 in Hollywood Building, Hong Kong",
+        "July 2017 in Upper Station Street"
+      ],
+      "auteur": "SA LAW MAN G",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E5%B7%AE%E9%A4%A8%E4%B8%8A%E8%A1%97_Upper_Station_Street_%E8%8D%B7%E6%9D%8E%E6%B4%BB%E5%A4%A7%E6%A8%93_Hollywood_Building_facade_%E7%AB%B9%E6%A3%9A%E6%9E%B6_%E9%B7%B9%E6%9E%B6_bamboo_scaffolding_decoration_August_2017_IX1_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E5%B7%AE%E9%A4%A8%E4%B8%8A%E8%A1%97_Upper_Station_Street_%E8%8D%B7%E6%9D%8E%E6%B4%BB%E5%A4%A7%E6%A8%93_Hollywood_Building_facade_%E7%AB%B9%E6%A3%9A%E6%9E%B6_%E9%B7%B9%E6%9E%B6_bamboo_scaffolding_decoration_August_2017_IX1_02.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1368
+    }
+  ]
+}

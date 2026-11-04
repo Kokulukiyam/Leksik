@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "profile-en-i",
+    "terme": "le profilé en I",
+    "categorie": "Structure",
+    "definition": "Barre d'acier dont la section a la forme d'un I, avec des ailes étroites, comme les IPE et les IPN, employée en poutre.",
+    "priorite": 1,
+    "requetes": [
+      "I beam steel",
+      "profilé IPE",
+      "steel I-beams"
+    ],
+    "incompatibles": [
+      "profile-en-h"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:I-beam raw material at WP Welding 5.jpg",
+      "description": "Four I-beams, Construction raw material delivered to West Pipe Welding, Gåseberg, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Structural steel",
+        "CC-Zero",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "West Pipe Welding AB",
+        "I-beams",
+        "Steel-profile storage"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/I-beam_raw_material_at_WP_Welding_5.jpg/1280px-I-beam_raw_material_at_WP_Welding_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4925,
+      "hauteur": 3283
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:I-beam raw material at WP Welding 3.jpg",
+      "description": "I-beams, Construction raw material delivered to West Pipe Welding, Gåseberg, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Structural steel",
+        "CC-Zero",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "West Pipe Welding AB",
+        "I-beams",
+        "Steel-profile storage"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/I-beam_raw_material_at_WP_Welding_3.jpg/1280px-I-beam_raw_material_at_WP_Welding_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4830,
+      "hauteur": 2717
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:I-beam raw material at WP Welding 4.jpg",
+      "description": "Four I-beams, Construction raw material delivered to West Pipe Welding, Gåseberg, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Structural steel",
+        "CC-Zero",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "West Pipe Welding AB",
+        "I-beams",
+        "Steel-profile storage"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/I-beam_raw_material_at_WP_Welding_4.jpg/1280px-I-beam_raw_material_at_WP_Welding_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4925,
+      "hauteur": 3283
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Wongamat Tower Construction Start.jpg",
+      "description": "At the Wong Amat Tower construction site in Pattaya in 2008, Mario Kleff, Heights Holdings CEO Haim Bar-David, and Wandeegroup workers .",
+      "categories": [
+        "Construction",
+        "Pattaya",
+        "Self-published work",
+        "I-beams",
+        "Long-span techniques in residential architecture",
+        "Architectural designs by Mario Kleff"
+      ],
+      "auteur": "Designer Mario Kleff",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wongamat_Tower_Construction_Start.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Wongamat_Tower_Construction_Start.jpg/1280px-Wongamat_Tower_Construction_Start.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:I-beam raw material at WP Welding 1.jpg",
+      "description": "Five I-beams, Construction raw material delivered to West Pipe Welding, Gåseberg, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Structural steel",
+        "CC-Zero",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "West Pipe Welding AB",
+        "I-beams",
+        "Steel-profile storage"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/I-beam_raw_material_at_WP_Welding_1.jpg/1280px-I-beam_raw_material_at_WP_Welding_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4826,
+      "hauteur": 2714
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:I-beam raw material at WP Welding 2.jpg",
+      "description": "Five I-beams, Construction raw material delivered to West Pipe Welding, Gåseberg, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Structural steel",
+        "CC-Zero",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Sweden photographs taken on 2018-04-25",
+        "Rusty objects in Sweden",
+        "West Pipe Welding AB",
+        "I-beams",
+        "Steel-profile storage"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:I-beam_raw_material_at_WP_Welding_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/I-beam_raw_material_at_WP_Welding_2.jpg/1280px-I-beam_raw_material_at_WP_Welding_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4900,
+      "hauteur": 2756
+    }
+  ]
+}

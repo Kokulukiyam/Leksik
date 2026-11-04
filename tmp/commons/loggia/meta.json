@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "loggia",
+    "terme": "la loggia",
+    "categorie": "Façade et ouvertures",
+    "definition": "Balcon couvert et en retrait dans l'épaisseur de la façade, fermé sur les côtés.",
+    "priorite": 1,
+    "requetes": [
+      "loggia apartment building facade",
+      "loggia façade immeuble",
+      "incategory:\"Loggias\""
+    ],
+    "incompatibles": [
+      "balcon"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Loggia, Érmellékistrasse 8, 2026 Törökvész.jpg",
+      "description": "The plans for this single-story, historicist-style residential building were drawn up in 1924 by architects Dr. Béla Barát and Ede Novák; it was commissioned by grain and produce merchants Emil Deutsch and Zsigmond Deutsch. Year of construction: 1924–1925. Before World War II, the ground floor and first floor of the villa were each occupied by a large apartment—one with four rooms and the other with five—both of which were home to members of the Jewish noble Deutsch family of Nagybereki. The main façade has an Italianate feel, and the garden in front of its loggia-style terrace is adorned with",
+      "categories": [
+        "Self-published work",
+        "Loggias in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "Hungary photographs taken on 2026-05-10",
+        "Budapest 100 in 2026",
+        "Érmelléki utca 8 (Budapest)"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Loggia,_%C3%89rmell%C3%A9kistrasse_8,_2026_T%C3%B6r%C3%B6kv%C3%A9sz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Loggia%2C_%C3%89rmell%C3%A9kistrasse_8%2C_2026_T%C3%B6r%C3%B6kv%C3%A9sz.jpg/1280px-Loggia%2C_%C3%89rmell%C3%A9kistrasse_8%2C_2026_T%C3%B6r%C3%B6kv%C3%A9sz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1996,
+      "hauteur": 1498
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Loggia, Säule, Érmellékistrasse 8, 2026 Törökvész.jpg",
+      "description": "The plans for this single-story, historicist-style residential building were drawn up in 1924 by architects Dr. Béla Barát and Ede Novák; it was commissioned by grain and produce merchants Emil Deutsch and Zsigmond Deutsch. Year of construction: 1924–1925. Before World War II, the ground floor and first floor of the villa were each occupied by a large apartment—one with four rooms and the other with five—both of which were home to members of the Jewish noble Deutsch family of Nagybereki. The main façade has an Italianate feel, and the garden in front of its loggia-style terrace is adorned with",
+      "categories": [
+        "Self-published work",
+        "Loggias in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "Columns in Budapest",
+        "Hungary photographs taken on 2026-05-10",
+        "Budapest 100 in 2026",
+        "Érmelléki utca 8 (Budapest)"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Loggia,_S%C3%A4ule,_%C3%89rmell%C3%A9kistrasse_8,_2026_T%C3%B6r%C3%B6kv%C3%A9sz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Loggia%2C_S%C3%A4ule%2C_%C3%89rmell%C3%A9kistrasse_8%2C_2026_T%C3%B6r%C3%B6kv%C3%A9sz.jpg/1280px-Loggia%2C_S%C3%A4ule%2C_%C3%89rmell%C3%A9kistrasse_8%2C_2026_T%C3%B6r%C3%B6kv%C3%A9sz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gemischte Fassaden Esmarchstraße Kiel-Blücherplatz (2).jpg",
+      "description": "Mixed facades in Kiel -Blücherplatz",
+      "categories": [
+        "Self-published work",
+        "Christian Alexander Tietgen",
+        "Apartment buildings in Kiel-Blücherplatz",
+        "Loggias in Kiel",
+        "Avant-corps in Kiel",
+        "Plastered facades in Kiel",
+        "Dutch gables in Kiel",
+        "Mietwohnungshäuser Esmarchstraße 60-68"
+      ],
+      "auteur": "Christian Alexander Tietgen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gemischte_Fassaden_Esmarchstra%C3%9Fe_Kiel-Bl%C3%BCcherplatz_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gemischte_Fassaden_Esmarchstra%C3%9Fe_Kiel-Bl%C3%BCcherplatz_%282%29.jpg/1280px-Gemischte_Fassaden_Esmarchstra%C3%9Fe_Kiel-Bl%C3%BCcherplatz_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Esmarchstraße (09) (32692174163).jpg",
+      "description": "Denkmalgeschütztes Mietwohnungshäusensemble in der Esmarchstraße 60-68 in Kiel-Blücherplatz",
+      "categories": [
+        "Cultural heritage monuments in Kiel-Blücherplatz",
+        "Apartment buildings in Kiel-Blücherplatz",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Rüdiger Stehn/Germany",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Loggias in Kiel",
+        "Plastered facades in Kiel",
+        "Mietwohnungshäuser Esmarchstraße 60-68"
+      ],
+      "auteur": "Rüdiger Stehn from Kiel, Deutschland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Esmarchstra%C3%9Fe_(09)_(32692174163).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Esmarchstra%C3%9Fe_%2809%29_%2832692174163%29.jpg/1280px-Esmarchstra%C3%9Fe_%2809%29_%2832692174163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6779,
+      "hauteur": 3395
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20100716 liege20.JPG",
+      "description": "Le boulevard d'Avroy à Liège, à l'angle de la rue Sainte-Marie.",
+      "categories": [
+        "Self-published work",
+        "Curved buildings in Belgium",
+        "2010 in Liège",
+        "White facades",
+        "Corner buildings in Belgium",
+        "Belgium photographs taken on 2010-07-16",
+        "Rue Sainte-Marie (Liège)",
+        "Tunnel Sainte-Marie (Liège)",
+        "Apartment buildings in Liège",
+        "Photos of Belgium by user Jean Housen",
+        "2010 photos by user Jean Housen",
+        "Loggias in Liège",
+        "Views of boulevard d'Avroy"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20100716_liege20.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/20100716_liege20.JPG/1280px-20100716_liege20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Esmarchstraße, Kiel (21922832210).jpg",
+      "description": "Denkmalgeschütztes Mietwohnhaus Esmarchstraße 66 in Kiel-Blücherplatz.",
+      "categories": [
+        "Cultural heritage monuments in Kiel-Blücherplatz",
+        "Apartment buildings in Kiel-Blücherplatz",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Loggias in Kiel",
+        "Plastered facades in Kiel",
+        "Triangular gables in Kiel",
+        "Mietwohnungshäuser Esmarchstraße 60-68",
+        "Cornices in Kiel",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Rüdiger Stehn from Kiel, Deutschland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Esmarchstra%C3%9Fe,_Kiel_(21922832210).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Esmarchstra%C3%9Fe%2C_Kiel_%2821922832210%29.jpg/1280px-Esmarchstra%C3%9Fe%2C_Kiel_%2821922832210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    }
+  ]
+}

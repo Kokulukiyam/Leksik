@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "dallage",
+    "terme": "le dallage",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Dalle de béton coulée directement sur le sol préparé, qui forme le plancher bas d'un rez-de-chaussée, d'un hangar ou d'une cour.",
+    "priorite": 1,
+    "requetes": [
+      "concrete slab on grade",
+      "dallage béton",
+      "ground floor slab concrete"
+    ],
+    "incompatibles": [
+      "dalle"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Grading the subbase of the Tunnel A approach structure in advance of the installation of a concrete working slab that will create the base for this tunnel . (CH061A, 9-20-2017) (37230384521).jpg",
+      "description": "Grading the subbase of the Tunnel A approach structure in advance of the installation of a concrete working slab that will create the base for this tunnel . (CH061A, 9-20-2017)",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "East Side Access construction/2017/09",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access at Harold Interlocking"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grading_the_subbase_of_the_Tunnel_A_approach_structure_in_advance_of_the_installation_of_a_concrete_working_slab_that_will_create_the_base_for_this_tunnel_._(CH061A,_9-20-2017)_(37230384521).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Grading_the_subbase_of_the_Tunnel_A_approach_structure_in_advance_of_the_installation_of_a_concrete_working_slab_that_will_create_the_base_for_this_tunnel_._%28CH061A%2C_9-20-2017%29_%2837230384521%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 960,
+      "hauteur": 1280
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Grading the subbase of the Tunnel A approach structure in advance of the installation of a concrete mud slab that the will create the sub-base for this tunnel. (CH061A, 9-25-2017) (37420423582).jpg",
+      "description": "Grading the subbase of the Tunnel A approach structure in advance of the installation of a concrete mud slab that the will create the sub-base for this tunnel. (CH061A, 9-25-2017)",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "East Side Access construction/2017/09",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access at Harold Interlocking"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grading_the_subbase_of_the_Tunnel_A_approach_structure_in_advance_of_the_installation_of_a_concrete_mud_slab_that_the_will_create_the_sub-base_for_this_tunnel._(CH061A,_9-25-2017)_(37420423582).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Grading_the_subbase_of_the_Tunnel_A_approach_structure_in_advance_of_the_installation_of_a_concrete_mud_slab_that_the_will_create_the_sub-base_for_this_tunnel._%28CH061A%2C_9-25-2017%29_%2837420423582%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2016,
+      "hauteur": 1512
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gjutning av grund.jpg",
+      "description": "Concrete betong. Casting of a slab-on-grade foundation .",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix S9",
+        "Concrete",
+        "Concrete slabs",
+        "Shallow foundations",
+        "License migration redundant",
+        "Self-published work",
+        "Construction in Sweden"
+      ],
+      "auteur": "Boatbuilder",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gjutning_av_grund.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Gjutning_av_grund.jpg/1280px-Gjutning_av_grund.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hand-Operated Grader-1 VA (8448146572).jpg",
+      "description": "FHWA, Highways for LIFE: prior to slab installation, the base was adequately prepared to provide an even surface and uniform support to the concrete slab. Precise grading of the bedding course was done for every slab that was intended to match the elevation requirements for the specific location.",
+      "categories": [
+        "PD US DOT",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Transportation files uploaded by Tyler de Noche",
+        "USGov files uploaded by Tyler de Noche",
+        "Images from the Federal Highway Administration Flickr stream",
+        "Virginia I-66 Concrete Pavement Replacement Using Precast Concrete Pavement Systems",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Federal Highway Administration",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hand-Operated_Grader-1_VA_(8448146572).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Hand-Operated_Grader-1_VA_%288448146572%29.jpg/1280px-Hand-Operated_Grader-1_VA_%288448146572%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3488,
+      "hauteur": 2616
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Former Tilling-Stevens Factory A Grade II Listed Building in Maidstone, Kent. Framed Photograph - 54411514778.jpg",
+      "description": "Summary This former motor vehicle factory was built in 1917 by Wallis, Gilbert and Partners, in collaboration with Truscon, for Tilling-Stevens Ltd. It is an example of a factory designed using the Kahn Daylight System. The various sheds which adjoin the factory building to the south are not of special interest. Description The factory is constructed of a regular reinforced concrete grid, expressed throughout the exterior of the building; the front elevation, also of concrete, is dressed to present a classically-styled composition to the street. MATERIALS: the building is composed of a grid of",
+      "categories": [
+        "Maidstone East railway station",
+        "Flickr images missing SDC copyright status",
+        "Flickr images reviewed by FlickreviewR 2",
+        "PD-author-FlickrPDM",
+        "March 2025 in Kent",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Buildings in Kent photographed in 2025",
+        "Files from JOHN K THORNE Flickr stream",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "JOHN K THORNE",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Former_Tilling-Stevens_Factory_A_Grade_II_Listed_Building_in_Maidstone,_Kent._Framed_Photograph_-_54411514778.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Former_Tilling-Stevens_Factory_A_Grade_II_Listed_Building_in_Maidstone%2C_Kent._Framed_Photograph_-_54411514778.jpg/1280px-Former_Tilling-Stevens_Factory_A_Grade_II_Listed_Building_in_Maidstone%2C_Kent._Framed_Photograph_-_54411514778.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8064,
+      "hauteur": 4536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Copped Hall kitchen walled garden, compost bin, Essex, England 1.jpg",
+      "description": "A compost heap bin at the northwest of the walled garden, called 'The Kitchen Garden', 390 yards (360 m) northwest from Copped Hall , aka Copt Hall or Copthall, a Grade II listed country house , 1.5 miles (2 km) west from the town of Epping , Essex , England. The house and its ancillary buildings are within the civil parish of Epping Upland , with the larger part of the gardens to the west, in Waltham Abbey . The present mid-18th-century Georgian hall replaced an earlier Elizabethan hall by Sir Thomas Heneage . It was destroyed by fire in 1917, with it and its gardens suffering further 20th-ce",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Compost",
+        "Compost bins",
+        "Concrete slabs",
+        "Photographs with aspect ratio of 5:4",
+        "Self-published work",
+        "Winter in Essex",
+        "Waste management in England",
+        "Winter 2018-2019 in the United Kingdom",
+        "February 2019 in Essex",
+        "Acabashi photos: Copped Hall",
+        "Acabashi photos: detritus",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "England photographs taken on 2019-02-17",
+        "Copped Hall walled kitchen garden",
+        "Concrete panels"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Copped_Hall_kitchen_walled_garden,_compost_bin,_Essex,_England_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Copped_Hall_kitchen_walled_garden%2C_compost_bin%2C_Essex%2C_England_1.jpg/1280px-Copped_Hall_kitchen_walled_garden%2C_compost_bin%2C_Essex%2C_England_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3328
+    }
+  ]
+}

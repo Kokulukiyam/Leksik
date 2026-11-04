@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "cloture-grillagee",
+    "terme": "la clôture grillagée",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Clôture faite d'un grillage métallique tendu entre des poteaux.",
+    "priorite": 1,
+    "requetes": [
+      "chain link fence",
+      "clôture grillagée",
+      "wire mesh fence"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Broken chain-link fence around a wetland in North Lynnwood.jpg",
+      "description": "This chain-link fence surrounds a wetland between WA 525 and Interstate 5 in North Lynnwood, Washington. The area has suffered from some illegal dumping, which is likely the reason the fence has been forceable opened. The wetland contains Swamp Creek and a scattering of trees and brush.",
+      "categories": [
+        "Chain-link fences in Washington (state)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "PinchyCC",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg/1280px-Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Empty lot with chain link fence.jpg",
+      "description": "Empty lot seen through a chain link fence. Site had housed the Dosan Ahn Chang Ho post office in Koreatown, Los Angeles. A large building with hotel and housing is planned for the site.",
+      "categories": [
+        "Chain-link fences in California",
+        "Self-published work",
+        "Vacant lots",
+        "Files with coordinates missing SDC location of creation",
+        "Buildings in Koreatown, Los Angeles"
+      ],
+      "auteur": "Downtowngal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Empty_lot_with_chain_link_fence.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Empty_lot_with_chain_link_fence.jpg/1280px-Empty_lot_with_chain_link_fence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 2332
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chain Link Fence.jpg",
+      "description": "Chain Link Fence at night.",
+      "categories": [
+        "Fence posts",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Fence and gate finials",
+        "Files with coordinates missing SDC location of creation",
+        "Night sky in the United States",
+        "Nepal photographs taken on 2021-07-09"
+      ],
+      "auteur": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chain_Link_Fence.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Chain_Link_Fence.jpg/1280px-Chain_Link_Fence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chainlink fence Fence Barrier.jpg",
+      "description": "Chainlink fence Fence Barrier",
+      "categories": [
+        "CC-Zero",
+        "Chain-link fences",
+        "Files from external sources with reviewed licenses",
+        "Template Unknown (author)",
+        "Photographs taken on 2015-04-25"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chainlink_fence_Fence_Barrier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Chainlink_fence_Fence_Barrier.jpg/1280px-Chainlink_fence_Fence_Barrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4513,
+      "hauteur": 2738
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20200408 newspaper chain-link fence.jpg",
+      "description": "A weathered newspaper stuck in a chain-link fence in the Almet in Saarbrücken.",
+      "categories": [
+        "Chain-link fences in Germany",
+        "Almet (Sankt Arnual)",
+        "Self-published work",
+        "Unassessed QI candidates",
+        "Images by User:FlocciNivis",
+        "Saarbrücken photographs taken on 2020-04-08",
+        "2010s newspapers of Germany",
+        "Quality image candidates by User:FlocciNivis - Unassessed"
+      ],
+      "auteur": "Flocci Nivis",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20200408_newspaper_chain-link_fence.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/20200408_newspaper_chain-link_fence.jpg/1280px-20200408_newspaper_chain-link_fence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5858,
+      "hauteur": 3911
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chain link fence (Unsplash).jpg",
+      "description": "Sean DuBois",
+      "categories": [
+        "CC-Zero",
+        "Chain-link fences",
+        "Files from external sources with reviewed licenses",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Photographs taken on 2014-10-23"
+      ],
+      "auteur": "Sean DuBois seandubois",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chain_link_fence_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Chain_link_fence_%28Unsplash%29.jpg/1280px-Chain_link_fence_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2808,
+      "hauteur": 1872
+    }
+  ]
+}

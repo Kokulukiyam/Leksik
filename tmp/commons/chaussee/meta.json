@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "chaussee",
+    "terme": "la chaussée",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Partie de la rue ou de la route où roulent les véhicules.",
+    "priorite": 1,
+    "requetes": [
+      "road carriageway",
+      "chaussée",
+      "incategory:\"Roads\""
+    ],
+    "incompatibles": [
+      "enrobe"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Road 35, Iceland, 20230501 0928 3772.jpg",
+      "description": "Road 35 between Geysir Geothermal Field and Gullfoss, Iceland",
+      "categories": [
+        "Bláskógabyggð",
+        "Self-published work",
+        "Iceland photographs taken on 2023-05-01",
+        "Files with coordinates missing SDC location of creation",
+        "Road 35 (Iceland)",
+        "Remote views of Geysir Geothermal Field",
+        "Bjarnarfell (Geysir) in 2023"
+      ],
+      "auteur": "Jakub Hałun",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Road_35,_Iceland,_20230501_0928_3772.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Road_35%2C_Iceland%2C_20230501_0928_3772.jpg/1280px-Road_35%2C_Iceland%2C_20230501_0928_3772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4764,
+      "hauteur": 3180
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Single-lane carriageway with road train route.jpg",
+      "description": "Still frame from dashcam footage while driving down a single-lane carriageway that has a Road Train Route sign. Dead bugs on the windscreen mar the image.",
+      "categories": [
+        "Images with watermarks",
+        "Roads in Australia",
+        "Self-published work",
+        "Road signs photographed in 2021",
+        "Road signs in Queensland",
+        "Files with coordinates missing SDC location of creation",
+        "Still images from videos from automobile cameras"
+      ],
+      "auteur": "Klightspeed",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Single-lane_carriageway_with_road_train_route.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Single-lane_carriageway_with_road_train_route.jpg/1280px-Single-lane_carriageway_with_road_train_route.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Start of dual-carriageway section of Aberford Road - geograph.org.uk - 8299738.jpg",
+      "description": "Start of dual-carriageway section of Aberford Road",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Aberford Road, Stanley, West Yorkshire",
+        "Moorhouse, West Yorkshire"
+      ],
+      "auteur": "Stephen Craven",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Start_of_dual-carriageway_section_of_Aberford_Road_-_geograph.org.uk_-_8299738.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Start_of_dual-carriageway_section_of_Aberford_Road_-_geograph.org.uk_-_8299738.jpg/1280px-Start_of_dual-carriageway_section_of_Aberford_Road_-_geograph.org.uk_-_8299738.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1500
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A299 Dual Carriageway - geograph.org.uk - 1827592.jpg",
+      "description": "A299 Dual Carriageway",
+      "categories": [
+        "A299 road (England)",
+        "Images from Geograph Britain and Ireland",
+        "Dual carriageways",
+        "Streets in Herne Bay, Kent"
+      ],
+      "auteur": "David Anstiss",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A299_Dual_Carriageway_-_geograph.org.uk_-_1827592.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/A299_Dual_Carriageway_-_geograph.org.uk_-_1827592.jpg/1280px-A299_Dual_Carriageway_-_geograph.org.uk_-_1827592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dual Carriageway-1320372, Wainuiomata, Wellington, New Zealand.jpg",
+      "description": "Dual carriageway going down the hill to Wainuiomata from Lower Hutt.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ80 / TZ81 / TZ85 / ZS60",
+        "Tree lines",
+        "Light and shadow",
+        "Self-published work",
+        "Rear views of automobiles",
+        "Blue, brown, white signs",
+        "Crash barrier traffic medians",
+        "Lamp posts in New Zealand",
+        "Perspective views of streets",
+        "Road markings in New Zealand",
+        "Dual carriageways",
+        "Rows of utility poles",
+        "Roundabouts in New Zealand",
+        "Arrow road markings",
+        "Left turn road signs in New Zealand",
+        "Left turn lane road signs",
+        "New Zealand photographs taken on 2025-04-11"
+      ],
+      "auteur": "Wainuio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dual_Carriageway-1320372,_Wainuiomata,_Wellington,_New_Zealand.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Dual_Carriageway-1320372%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg/1280px-Dual_Carriageway-1320372%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dual Carriageway-1320402, Wainuiomata, Wellington, New Zealand.jpg",
+      "description": "Dual carriageway going down the hill to Wainuiomata from Lower Hutt.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ80 / TZ81 / TZ85 / ZS60",
+        "Tree lines",
+        "Remutaka Range",
+        "Light and shadow",
+        "Self-published work",
+        "Automobile rear lights",
+        "Blue, brown, white signs",
+        "Crash barrier traffic medians",
+        "Lamp posts in New Zealand",
+        "Perspective views of streets",
+        "Road markings in New Zealand",
+        "Dual carriageways",
+        "Rows of utility poles",
+        "Arrow road markings",
+        "Left turn road signs in New Zealand",
+        "New Zealand photographs taken on 2025-04-11",
+        "Remembrance Poppies in public art"
+      ],
+      "auteur": "Wainuio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dual_Carriageway-1320402,_Wainuiomata,_Wellington,_New_Zealand.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Dual_Carriageway-1320402%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg/1280px-Dual_Carriageway-1320402%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "fosse-septique",
+    "terme": "la fosse septique",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Cuve enterrée en béton ou préfabriquée, fermée de dalles ou de tampons, qui recueille et prétraite les eaux usées d'une maison.",
+    "priorite": 1,
+    "requetes": [
+      "septic tank installation",
+      "fosse septique",
+      "septic tank concrete"
+    ],
+    "incompatibles": [
+      "puisard",
+      "regard"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Septic tank installation - geograph.org.uk - 7914060.jpg",
+      "description": "Septic tank installation",
+      "categories": [
+        "Huntley, Gloucestershire",
+        "Images from Geograph Britain and Ireland"
+      ],
+      "auteur": "Jonathan Billinger",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Septic_tank_installation_-_geograph.org.uk_-_7914060.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Septic_tank_installation_-_geograph.org.uk_-_7914060.jpg/1280px-Septic_tank_installation_-_geograph.org.uk_-_7914060.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Typical Septic tank layout.jpg",
+      "description": "This helps a lot when doing Septic Tank Designs",
+      "categories": [
+        "Septic tanks",
+        "Self-published work",
+        "Uploaded with Mobile/Android"
+      ],
+      "auteur": "Opio Martin Atubu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Typical_Septic_tank_layout.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Typical_Septic_tank_layout.jpg/1280px-Typical_Septic_tank_layout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1919,
+      "hauteur": 912
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Photograph of Septic Tank Installation for Barona Houses - DPLA - f772e8b60abc319d50034128b20b4846.jpg",
+      "description": "Original caption: \"Indians install septic tanks for Barona Houses.\"",
+      "categories": [
+        "PD US",
+        "Media contributed by the National Archives and Records Administration",
+        "Media contributed by the Digital Public Library of America",
+        "Septic tanks",
+        "Artworks without Wikidata item",
+        "Media contributed by National Archives at Riverside",
+        "US National Archives series: Photographs, 1936 - 1942"
+      ],
+      "auteur": "Department of the Interior. Office of Indian Affairs. Mission Agency. 11/15/1920-6/17/1946",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Photograph_of_Septic_Tank_Installation_for_Barona_Houses_-_DPLA_-_f772e8b60abc319d50034128b20b4846.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Photograph_of_Septic_Tank_Installation_for_Barona_Houses_-_DPLA_-_f772e8b60abc319d50034128b20b4846.jpg/1280px-Photograph_of_Septic_Tank_Installation_for_Barona_Houses_-_DPLA_-_f772e8b60abc319d50034128b20b4846.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4001,
+      "hauteur": 3142
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Septic tank image 01.jpg",
+      "description": "Septic tank",
+      "categories": [
+        "CC-Zero",
+        "Wastewater",
+        "Septic tanks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2024-07-09"
+      ],
+      "auteur": "Wikideas1",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Septic_tank_image_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Septic_tank_image_01.jpg/1280px-Septic_tank_image_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2083
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Septic tank image 03.jpg",
+      "description": "Septic tank",
+      "categories": [
+        "CC-Zero",
+        "Wastewater",
+        "Septic tanks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2024-06-12"
+      ],
+      "auteur": "Wikideas1",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Septic_tank_image_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Septic_tank_image_03.jpg/1280px-Septic_tank_image_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1652,
+      "hauteur": 3532
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Septic tank image 02.jpg",
+      "description": "Septic tank",
+      "categories": [
+        "CC-Zero",
+        "Wastewater",
+        "Septic tanks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2024-07-09"
+      ],
+      "auteur": "Wikideas1",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Septic_tank_image_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Septic_tank_image_02.jpg/1280px-Septic_tank_image_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1594,
+      "hauteur": 3752
+    }
+  ]
+}

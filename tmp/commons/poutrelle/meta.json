@@ -1,0 +1,19 @@
+{
+  "terme": {
+    "id": "poutrelle",
+    "terme": "la poutrelle précontrainte",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Petite poutre préfabriquée en béton, posée à intervalles réguliers d'un appui à l'autre pour porter les hourdis d'un plancher.",
+    "priorite": 1,
+    "requetes": [
+      "precast concrete joist beam and block",
+      "poutrelle précontrainte",
+      "prestressed joist floor"
+    ],
+    "incompatibles": [
+      "hourdis",
+      "plancher-a-corps-creux"
+    ]
+  },
+  "candidats": []
+}

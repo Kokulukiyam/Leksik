@@ -1,0 +1,72 @@
+{
+  "terme": {
+    "id": "plaque-translucide",
+    "terme": "la plaque translucide",
+    "categorie": "Toitures",
+    "definition": "Plaque de couverture en polycarbonate ou polyester qui laisse passer la lumière, posée parmi les tôles.",
+    "priorite": 1,
+    "requetes": [
+      "translucent roof sheet polycarbonate",
+      "plaque translucide toiture",
+      "clear corrugated roofing"
+    ],
+    "incompatibles": [
+      "bac-acier",
+      "tole-ondulee"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Sheet metals and sheet metal products - no. 292 (1911) (14781119804).jpg",
+      "description": "Identifier : SheetMetalsAndSheetMetalProductsNo.292 Title : Sheet metals and sheet metal products : no. 292 Year : 1911 ( 1910s ) Authors : Wheeling Corrugating Company Subjects : Division 07 sheet-metal -- catalogs metal products -- catalogs corrugated metal roofing metal shingles metal siding tin roll roofing tin gutters Publisher : Wheeling Corrugating Company Contributing Library : MBJ collection View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online versio",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Sheet metals and sheet metal products - no. 292 (1911)"
+      ],
+      "auteur": "Wheeling Corrugating Company",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sheet_metals_and_sheet_metal_products_-_no._292_(1911)_(14781119804).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Sheet_metals_and_sheet_metal_products_-_no._292_%281911%29_%2814781119804%29.jpg/1280px-Sheet_metals_and_sheet_metal_products_-_no._292_%281911%29_%2814781119804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2412,
+      "hauteur": 3692
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Collapsed section of fence - Rycroft Way N17, former Green.jpg",
+      "description": "On 30 January 2018 a section of fencing had collapsed and the adjacent building site was even less secure than usual. New dumping there included a mattress - which may have contributed to the fence collapsing. I'd phoned a member of Haringey Council before Christmas 2017 and subsequently, reporting what seemed to me the worsening condition of the building site. Other rubbish visible through the gap in the fence included a pile of broken grey corrugated roofing tiles. I worried in case they contained asbestos. Following my phonecalls the rubbish and roofing tiles were eventually cleared. The fe",
+      "categories": [
+        "Rycroft Way, Tottenham",
+        "Flickr images reviewed by FlickreviewR 2",
+        "London photographs taken on 2018-01-30",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)"
+      ],
+      "auteur": "Alan Stanton",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Collapsed_section_of_fence_-_Rycroft_Way_N17,_former_Green.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Collapsed_section_of_fence_-_Rycroft_Way_N17%2C_former_Green.jpg/1280px-Collapsed_section_of_fence_-_Rycroft_Way_N17%2C_former_Green.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3750,
+      "hauteur": 2900
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Jigsaw - Coming Soon, Coming Soon.jpg",
+      "description": "23 February 2018. Looking east along Chesnut Road N17 near the corner of Rycroft Way. Until recently the site behind the propped-up facade had suffered from grossly inadequate gating. Probably as a result, for months it had piles of dumped rubbish, of rubble, and broken pieces of corrugated grey roofing. There was a full skip of rubbish. Plus assorted other trash. And graffiti, of course. Recent improvements followed after Martin Ball and I complained to Haringey Council. So credit and thanks for those arranging the clean-up. But no excuses for whoever - owners or Council - left it open and ap",
+      "categories": [
+        "Chesnut Road, Tottenham",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Facadism in London"
+      ],
+      "auteur": "Alan Stanton",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jigsaw_-_Coming_Soon,_Coming_Soon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Jigsaw_-_Coming_Soon%2C_Coming_Soon.jpg/1280px-Jigsaw_-_Coming_Soon%2C_Coming_Soon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2800,
+      "hauteur": 3600
+    }
+  ]
+}

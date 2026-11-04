@@ -1,0 +1,98 @@
+{
+  "terme": {
+    "id": "beton-de-proprete",
+    "terme": "le béton de propreté",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Mince couche de béton maigre coulée au fond des fouilles pour obtenir une surface propre et plane avant de poser les armatures.",
+    "priorite": 1,
+    "requetes": [
+      "blinding concrete foundation",
+      "béton de propreté fouille",
+      "lean concrete blinding layer"
+    ],
+    "incompatibles": [
+      "fouille",
+      "fondation"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Pipeline device.jpg",
+      "description": "A station on a natural gas pipeline used for the loading and unloading of pipeline inspection gauges, commonly known as \"pigs\". Photographed near Dübendorf, Switzerland . Additional annotations from the English Wikipedia by users Cadmium , Mannings , and BrutonD : This station is for loading or unloading pigs , the pigs are used for cleaning out or inspecting pipelines. This station is designed to receive pigs from the upstream section and launch pigs into the downstream section, with a cross-over for the fluid to flow from one section to the next. The pre-installed thrust blocks (those empty ",
+      "categories": [
+        "Gas pipelines",
+        "GFDL",
+        "Cleaning",
+        "Dübendorf",
+        "License migration redundant",
+        "Self-published work",
+        "Pipeline maintenance"
+      ],
+      "auteur": "Audriusa (Audrius Meskauskas)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pipeline_device.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Pipeline_device.jpg/1280px-Pipeline_device.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1537,
+      "hauteur": 1030
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:St. Francis of Assisi RC Church, Tonawanda, New York - 20230225.jpg",
+      "description": "St. Francis of Assisi Roman Catholic Church, 150 Broad Street at Clinton Park, Tonawanda, New York, February 2023. A work of prominent local architect George Dietel, the design of this 5,720-square-foot church building might best be described as a Modernized take on the Italian Romanesque style. With a structure of steel-reinforced concrete veneered in brick and stone (the latter figuring in the rusticated central portion of the façade), the aesthetic is exemplified by the building's stout and sprawling massing, the shallow pitch of the roof, the relative smallness of the central rose window a",
+      "categories": [
+        "February 2023 in New York (state)",
+        "Self-published work",
+        "Churches in the United States photographed in 2023",
+        "Files with coordinates missing SDC location of creation",
+        "2023 in Erie County, New York",
+        "Snow in Erie County, New York",
+        "Photos taken by Andre Carrotflower in Tonawanda (city), New York",
+        "Photos taken by Andre Carrotflower in 2023",
+        "St. Francis of Assisi Roman Catholic Church (Tonawanda, New York)"
+      ],
+      "auteur": "Andre Carrotflower",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St._Francis_of_Assisi_RC_Church,_Tonawanda,_New_York_-_20230225.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/St._Francis_of_Assisi_RC_Church%2C_Tonawanda%2C_New_York_-_20230225.jpg/1280px-St._Francis_of_Assisi_RC_Church%2C_Tonawanda%2C_New_York_-_20230225.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3718,
+      "hauteur": 2231
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:The street railway review (1891) (14758017321).jpg",
+      "description": "Identifier : streetrailwayrev01amer ( find matches ) Title : The street railway review Year : 1891 ( 1890s ) Authors : American Street Railway Association Street Railway Accountants' Association of America American Railway, Mechanical, and Electrical Association Subjects : Street-railroads Publisher : Chicago : Street Railway Review Pub. Co Contributing Library : Carnegie Library of Pittsburgh Digitizing Sponsor : Lyrasis Members and Sloan Foundation View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this il",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 14 September 2015",
+        "The Street Railway Review (Vol. 1, 1891)",
+        "Internet Archive document streetrailwayrev01amer"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_street_railway_review_(1891)_(14758017321).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/The_street_railway_review_%281891%29_%2814758017321%29.jpg/1280px-The_street_railway_review_%281891%29_%2814758017321%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2178,
+      "hauteur": 1250
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Labyrinth of the mind.JPG",
+      "description": "\"Labyrinth of the Mind\" , by Erik Pevernagie , (100 x 100 cm) , Oil on canvas. DESCRIPTION OF THE PAINTING In “Labyrinth of the Mind,” Erik Pevernagie constructs an inner architecture of thought—an abstract yet intensely evocative environment where perception, memory, and imagination entwine. The viewer is placed behind a faceless figure, a blank head rendered in stark white, symbolizing the universal human thinker. This figure confronts a world of intersecting pathways, slanted grids, and radiating lines that evoke the dizzying intricacy of mental processes. The canvas feels like an inner cit",
+      "categories": [
+        "Items with VRTS permission confirmed",
+        "Paintings without Wikidata item",
+        "Paintings by Erik Pevernagie"
+      ],
+      "auteur": "Erik Pevernagie .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Labyrinth_of_the_mind.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Labyrinth_of_the_mind.JPG/1280px-Labyrinth_of_the_mind.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1602,
+      "hauteur": 1428
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "couvertine",
+    "terme": "la couvertine",
+    "categorie": "Toitures",
+    "definition": "Profilé métallique qui coiffe le dessus d'un acrotère ou d'un muret pour le protéger de la pluie.",
+    "priorite": 1,
+    "requetes": [
+      "parapet coping metal",
+      "couvertine acrotère",
+      "aluminium coping"
+    ],
+    "incompatibles": [
+      "acrotere"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:St. Paul Lutheran Church and Cemetery Union Co SD northwest corner.jpg",
+      "description": "The chimney is flanked by louvered pointed arch vents located near the stepped parapet with metal coping. The rear elevation also contains a one-story, seven- sided projecting bay.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "St. Paul Lutheran Church and Cemetery (Union County, South Dakota)"
+      ],
+      "auteur": "SharonPapierdreams",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St._Paul_Lutheran_Church_and_Cemetery_Union_Co_SD_northwest_corner.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/St._Paul_Lutheran_Church_and_Cemetery_Union_Co_SD_northwest_corner.jpg/1280px-St._Paul_Lutheran_Church_and_Cemetery_Union_Co_SD_northwest_corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4775,
+      "hauteur": 3183
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dewey Ave Rt-66 at Park St Sapulpa OK 2026-09-15 10-46-45.jpg",
+      "description": "Dewey Ave, Route 66 at Park St. The road was re-done for the Centenial of Rt-66 this year. On the left is the Odd Fellows Building. The corner is a rounded turret where you can see I.O.O.F. in the brick near the roof. It was built in 1908 and is a three-story red brick building. The two-story gold brick building on the right side of the street is the Kress Building. You can see the ghost name \"Kress\" in the center facing the street as well as on the front facing the side street. A metal panel runs above the two first-floor storefronts. At the top is a stepped parapet with stone coping. 126 Eas",
+      "categories": [
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Taken on missing SDC inception",
+        "Buildings in the United States photographed in 2026",
+        "Taken with Nikon Z 9",
+        "Taken with Nikkor Z 14-30mm f/4 S",
+        "Sapulpa Downtown Historic District",
+        "Files by User:Lorax/Oklahoma",
+        "United States photographs taken on 2026-09-15",
+        "September 2026 in Oklahoma"
+      ],
+      "auteur": "G. Edward Johnson",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dewey_Ave_Rt-66_at_Park_St_Sapulpa_OK_2026-09-15_10-46-45.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Dewey_Ave_Rt-66_at_Park_St_Sapulpa_OK_2026-09-15_10-46-45.jpg/1280px-Dewey_Ave_Rt-66_at_Park_St_Sapulpa_OK_2026-09-15_10-46-45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6097,
+      "hauteur": 3429
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dewey Ave Rt-66 north side Sapulpa OK 2026-09-15 10-46-05.jpg",
+      "description": "Dewey Ave, Route 66 at Park St. The road was re-done for the Centenial of Rt-66 this year. The two-story gold brick building on the right side of the photo is the Kress Building. You can see the ghost name \"Kress\" in the top center. A metal panel runs above the two first-floor storefronts. At the top is a stepped parapet with stone coping. 121 East Dewey Avenue, Sapulpa, Oklahoma 74066. To it's left is the three story brick Stonewall / Theo. Berryhill building, built around 1910. Above the first floor storefronts is a stripe of white brick with decorative dark red brick diamonds. Current shops",
+      "categories": [
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Taken on missing SDC inception",
+        "Buildings in the United States photographed in 2026",
+        "Taken with Nikon Z 9",
+        "Taken with Nikkor Z 14-30mm f/4 S",
+        "Sapulpa Downtown Historic District",
+        "Files by User:Lorax/Oklahoma",
+        "United States photographs taken on 2026-09-15",
+        "September 2026 in Oklahoma"
+      ],
+      "auteur": "G. Edward Johnson",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dewey_Ave_Rt-66_north_side_Sapulpa_OK_2026-09-15_10-46-05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Dewey_Ave_Rt-66_north_side_Sapulpa_OK_2026-09-15_10-46-05.jpg/1280px-Dewey_Ave_Rt-66_north_side_Sapulpa_OK_2026-09-15_10-46-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8026,
+      "hauteur": 4515
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Drugstore Building, 501-503 North College Avenue (Indianapolis, Ind.) c. 1968 - DPLA - 75984126402b98feed9485cc49089a3b.jpg",
+      "description": "1887 Sanborn Map: https://indianamemory.contentdm.oclc.org/digital/collection/SanbornJP2/id/369 1898 Sanborn Map: https://indianamemory.contentdm.oclc.org/digital/collection/SanbornJP2/id/496 1915 Sanborn Map: https://indianamemory.contentdm.oclc.org/digital/collection/SanbornJP2/id/1961 ; 501 - 503 North College Avenue; Indianapolis; Indiana; Marion; Center; Lockerbie Square Historic District; Drugstore Building 501-503 North College Avenue (formerly Noble Street) c . 1895 This two-and-a-half story commercial building appears on the 1898 Sanborn map, replacing an earlier one-story double resi",
+      "categories": [
+        "Media contributed by Indiana Memory",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Information field template with formatting",
+        "Digital Public Library of America files missing required SDC statements",
+        "Digital Public Library of America files missing creator",
+        "Media contributed by IUPUI University Library"
+      ],
+      "auteur": "Indiana Landmarks",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drugstore_Building,_501-503_North_College_Avenue_(Indianapolis,_Ind.)_c._1968_-_DPLA_-_75984126402b98feed9485cc49089a3b.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Drugstore_Building%2C_501-503_North_College_Avenue_%28Indianapolis%2C_Ind.%29_c._1968_-_DPLA_-_75984126402b98feed9485cc49089a3b.jpg/1280px-Drugstore_Building%2C_501-503_North_College_Avenue_%28Indianapolis%2C_Ind.%29_c._1968_-_DPLA_-_75984126402b98feed9485cc49089a3b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5639,
+      "hauteur": 3534
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Worcester Shrub Hill Station (6368363455).jpg",
+      "description": "Worcester Shrub Hill Station from the outside on Shrub Hill. The station is Grade II listed. Shrub Hill Railway Station: Main Building with Attached Wall and Lamps, Worcester - British Listed Buildings WORCESTER SO8555SE SHRUB HILL 620-1/14/518 Shrub Hill Railway Station: 05/04/71 main building with attached wall and lamps (Formerly Listed as: SHRUB HILL Shrub Hill Railway Station. East Platform at Shrub Hill Railway Station) II Railway station with attached walls and lamps. 1850-54 with later additions and alterations. Attributed by Pevsner to engineer Edward Wilson. Blue-brick laid in Englis",
+      "categories": [
+        "Taken with Fujifilm FinePix S1500",
+        "Worcester Shrub Hill railway station",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Car parks in Worcestershire",
+        "November 2011 in Worcestershire",
+        "Uploads by Oxyman",
+        "2011 in Worcester, England",
+        "Photographs by Elliott Brown",
+        "United Kingdom photographs taken on 2011-11-18",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Worcester_Shrub_Hill_Station_(6368363455).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Worcester_Shrub_Hill_Station_%286368363455%29.jpg/1280px-Worcester_Shrub_Hill_Station_%286368363455%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Worcester Shrub Hill Station - platform 1a (6365926059).jpg",
+      "description": "The platforms and tracks at Worcester Shrub Hill Station . The station is Grade II listed. Shrub Hill Railway Station: Main Building with Attached Wall and Lamps, Worcester - British Listed Buildings WORCESTER SO8555SE SHRUB HILL 620-1/14/518 Shrub Hill Railway Station: 05/04/71 main building with attached wall and lamps (Formerly Listed as: SHRUB HILL Shrub Hill Railway Station. East Platform at Shrub Hill Railway Station) II Railway station with attached walls and lamps. 1850-54 with later additions and alterations. Attributed by Pevsner to engineer Edward Wilson. Blue-brick laid in English ",
+      "categories": [
+        "Taken with Fujifilm FinePix S1500",
+        "Worcester Shrub Hill railway station",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "November 2011 in Worcestershire",
+        "Uploads by Oxyman",
+        "Photographs by Elliott Brown",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Worcester_Shrub_Hill_Station_-_platform_1a_(6365926059).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Worcester_Shrub_Hill_Station_-_platform_1a_%286365926059%29.jpg/1280px-Worcester_Shrub_Hill_Station_-_platform_1a_%286365926059%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

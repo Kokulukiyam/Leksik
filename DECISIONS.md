@@ -33,3 +33,4 @@
 - Paires incompatibles déplacées du code vers les données (`incompatibles` sur chaque terme) ; aucune paire incompatible n'apparaît dans une même manche, mauvaises réponses comprises.
 - Page Paramètres (quatrième page, demandée après la spécification) : réglages gardés dans localStorage ; par défaut, parties de 10 images et 4 mots comme avant.
 - Gérer : recherche par terme et affichage par paquets de 60 cartes, pour rester fluide avec plus de 1000 images.
+- Première vérification de la version 2 confiée à des agents Sonnet (lots de 10 termes), pour ménager le budget ; la contre-vérification, garde-fou indépendant, reste sur le modèle principal.

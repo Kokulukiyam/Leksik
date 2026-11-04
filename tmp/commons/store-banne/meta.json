@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "store-banne",
+    "terme": "le store banne",
+    "categorie": "Façade et ouvertures",
+    "definition": "Store en toile qui se déroule en avant d'une façade, porté par des bras articulés.",
+    "priorite": 1,
+    "requetes": [
+      "retractable awning terrace",
+      "store banne",
+      "incategory:\"Awnings\""
+    ],
+    "incompatibles": [
+      "auvent"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bateau Komilfo.jpg",
+      "description": "Bateau Komilfo durant la Route du Rhum 2014",
+      "categories": [
+        "Route du Rhum 2014",
+        "Komilfo (ship, 2006)"
+      ],
+      "auteur": "Yves Letourneux",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bateau_Komilfo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bateau_Komilfo.jpg/1280px-Bateau_Komilfo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5706,
+      "hauteur": 3804
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fogo São Filipe shop.jpg",
+      "description": "Magasin à São Filipe sur lîle de Fogo, Cap-Vert.",
+      "categories": [
+        "Taken with Nikon D700",
+        "São Filipe (Cape Verde)",
+        "Awnings",
+        "Clothing shops",
+        "Self-published work",
+        "Featured pictures of Cape Verde",
+        "Shops in Cape Verde",
+        "Selection WikiCon 2013",
+        "Featured pictures by Cayambe",
+        "Patriotism in art",
+        "Souvenir shops",
+        "January 2011 in Cape Verde",
+        "Door steps",
+        "Photographs taken on 2011-01-20",
+        "Hanging objects",
+        "Files with coordinates missing SDC location of creation",
+        "Sidewalk shops",
+        "Cape Verde flag clothing",
+        "Tinware pots and pans"
+      ],
+      "auteur": "Cayambe",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fogo_S%C3%A3o_Filipe_shop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Fogo_S%C3%A3o_Filipe_shop.jpg/1280px-Fogo_S%C3%A3o_Filipe_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2872,
+      "hauteur": 2299
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Panorama of the Neftekamsk-city from a height.jpg",
+      "description": "Панорама Нефтекамска со стороны Николо-Березовского шоссе",
+      "categories": [
+        "Neftekamsk",
+        "Self-published work"
+      ],
+      "auteur": "Arthur Komilfo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Panorama_of_the_Neftekamsk-city_from_a_height.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Panorama_of_the_Neftekamsk-city_from_a_height.jpg/1280px-Panorama_of_the_Neftekamsk-city_from_a_height.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hotel Ta-Mar, Bissau.jpg",
+      "description": "The Ta-Mar Hotel in the old part of Bissau.",
+      "categories": [
+        "People of Bissau",
+        "Awnings",
+        "Rua 3 (Bissau)",
+        "Self-published work",
+        "Damaged reinforced concrete",
+        "Hotel signs in Guinea-Bissau",
+        "People of Guinea-Bissau in 2017",
+        "2017 in Bissau",
+        "Guinea-Bissau photographs taken on 2017-11-03",
+        "Barred windows in Guinea-Bissau",
+        "Sobrados in Bissau Velho",
+        "Hotels in Bissau",
+        "Hotel air-conditioners",
+        "Balconies in Bissau"
+      ],
+      "auteur": "Joehawkins",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hotel_Ta-Mar,_Bissau.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Hotel_Ta-Mar%2C_Bissau.jpg/1280px-Hotel_Ta-Mar%2C_Bissau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Microdistrict Kasevo in Neftekamsk-city.jpg",
+      "description": "Russia, Republic of Bashkortostan, Neftekamsk",
+      "categories": [
+        "Neftekamsk",
+        "Self-published work"
+      ],
+      "auteur": "Arthur Komilfo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Microdistrict_Kasevo_in_Neftekamsk-city.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Microdistrict_Kasevo_in_Neftekamsk-city.jpg/1280px-Microdistrict_Kasevo_in_Neftekamsk-city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Rue Hoche, Cannes (20260619-IMG 3774).jpg",
+      "description": "Cannes",
+      "categories": [
+        "Cafés in France",
+        "GFDL",
+        "Awnings",
+        "License migration redundant",
+        "Self-published work",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Files with coordinates missing SDC location of creation",
+        "2026 in Cannes",
+        "Pictures by MB-one to review",
+        "Taken with Canon EOS M100 and Canon EF-M 15-45mm F3.5-6.3 IS STM",
+        "Provence-Alpes-Côte d'Azur photographs taken on 2026-06-19",
+        "June 2026 Alpes-Maritimes photographs"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rue_Hoche,_Cannes_(20260619-IMG_3774).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Rue_Hoche%2C_Cannes_%2820260619-IMG_3774%29.jpg/1280px-Rue_Hoche%2C_Cannes_%2820260619-IMG_3774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "terme": {
+    "id": "chevron",
+    "terme": "le chevron",
+    "categorie": "Toitures",
+    "definition": "Pièce de bois inclinée suivant la pente du toit, posée sur les pannes, qui reçoit les liteaux ou voliges.",
+    "priorite": 1,
+    "requetes": [
+      "roof rafters",
+      "chevrons toiture",
+      "exposed rafters"
+    ],
+    "incompatibles": [
+      "charpente"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Roof Rafters 3211.jpg",
+      "description": "Roof Rafters of the I.O.O.F. building in Crown Point, Indiana.",
+      "categories": [
+        "Taken with Samsung Galaxy J3 Eclipse",
+        "Self-published work",
+        "I.O.O.F. (CPt) Image by Chris Light",
+        "I.O.O.F. Hall (Crown Point, Ind)"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_Rafters_3211.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Roof_Rafters_3211.jpg/1280px-Roof_Rafters_3211.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1932
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Roof Rafters, St Peter, Hascombe - geograph.org.uk - 1944779.jpg",
+      "description": "Roof Rafters, St Peter, Hascombe",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "St Peter's church, Hascombe (interior)"
+      ],
+      "auteur": "Colin Smith",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_Rafters,_St_Peter,_Hascombe_-_geograph.org.uk_-_1944779.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Roof_Rafters%2C_St_Peter%2C_Hascombe_-_geograph.org.uk_-_1944779.jpg/1280px-Roof_Rafters%2C_St_Peter%2C_Hascombe_-_geograph.org.uk_-_1944779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Roof rafters P4260067.jpg",
+      "description": "Sevenson Road Covered Bridge over Massies Creek near Xenia, Ohio.",
+      "categories": [
+        "Stevenson Road Covered Bridge",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Sevenson Road CB Image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_rafters_P4260067.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Roof_rafters_P4260067.jpg/1280px-Roof_rafters_P4260067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Roof Rafters P9070522.jpg",
+      "description": "Roof Rafters extending out to create an overhang at the Elijah Oliver Place.",
+      "categories": [
+        "Elijah Oliver Place",
+        "Self-published work",
+        "Elijah Oliver Place Image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_Rafters_P9070522.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Roof_Rafters_P9070522.jpg/1280px-Roof_Rafters_P9070522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Roof rafters P6150525.jpg",
+      "description": "Roof rafters in the Herns Mill Covered Bridge in Lewisburg, WV.",
+      "categories": [
+        "Herns Mill Covered Bridge",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Herns Mill CB Image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_rafters_P6150525.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Roof_rafters_P6150525.jpg/1280px-Roof_rafters_P6150525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:-Roof Rafters P9070524.jpg",
+      "description": "Roof Rafters extending out to create an overhang at the Elijah Oliver Place.",
+      "categories": [
+        "Self-published work",
+        "Elijah Oliver Cabin",
+        "Elijah Oliver Place Image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-Roof_Rafters_P9070524.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/-Roof_Rafters_P9070524.jpg/1280px--Roof_Rafters_P9070524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    }
+  ]
+}

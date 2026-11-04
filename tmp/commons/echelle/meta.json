@@ -1,0 +1,118 @@
+{
+  "terme": {
+    "id": "echelle",
+    "terme": "l'échelle",
+    "categorie": "Chantier et outillage",
+    "definition": "Appareil portatif formé de deux montants reliés par des barreaux, appuyé contre un ouvrage pour monter.",
+    "priorite": 1,
+    "requetes": [
+      "ladder construction site",
+      "échelle chantier",
+      "incategory:\"Ladders\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:HK 上環 Sheung Wan 樓梯街 Ladder Street stairs October 2017 IX1 construction site n visitors.jpg",
+      "description": "zh:樓梯街 , Ladder Street, Sheung Wan, Hong Kong in October 2017",
+      "categories": [
+        "Self-published work",
+        "Hong Kong photographs taken on 2017-10-19",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Outside stairs in Sheung Wan",
+        "October 2017 in Ladder Street",
+        "Ladder Street - Construction sites"
+      ],
+      "auteur": "OrgenaMA20",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%A8%93%E6%A2%AF%E8%A1%97_Ladder_Street_stairs_October_2017_IX1_construction_site_n_visitors.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%A8%93%E6%A2%AF%E8%A1%97_Ladder_Street_stairs_October_2017_IX1_construction_site_n_visitors.jpg/1280px-HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%A8%93%E6%A2%AF%E8%A1%97_Ladder_Street_stairs_October_2017_IX1_construction_site_n_visitors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1368
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:HK 上環 Sheung Wan 樓梯街 Ladder Street stairs October 2017 IX1 construction site.jpg",
+      "description": "zh:樓梯街 , Ladder Street, Sheung Wan, Hong Kong in October 2017",
+      "categories": [
+        "Self-published work",
+        "Hong Kong photographs taken on 2017-10-19",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Outside stairs in Sheung Wan",
+        "October 2017 in Ladder Street",
+        "Ladder Street - Construction sites"
+      ],
+      "auteur": "OrgenaMA20",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%A8%93%E6%A2%AF%E8%A1%97_Ladder_Street_stairs_October_2017_IX1_construction_site.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%A8%93%E6%A2%AF%E8%A1%97_Ladder_Street_stairs_October_2017_IX1_construction_site.jpg/1280px-HK_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%A8%93%E6%A2%AF%E8%A1%97_Ladder_Street_stairs_October_2017_IX1_construction_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1368,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Construction of Diglis fish ladder - geograph.org.uk - 6704664.jpg",
+      "description": "Construction of Diglis fish ladder",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "City of Worcester, England"
+      ],
+      "auteur": "Philip Halling",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_of_Diglis_fish_ladder_-_geograph.org.uk_-_6704664.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Construction_of_Diglis_fish_ladder_-_geograph.org.uk_-_6704664.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Construction of a fish ladder at Diglis - geograph.org.uk - 6704659.jpg",
+      "description": "Construction of a fish ladder at Diglis",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "City of Worcester, England"
+      ],
+      "auteur": "Philip Halling",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_of_a_fish_ladder_at_Diglis_-_geograph.org.uk_-_6704659.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Construction_of_a_fish_ladder_at_Diglis_-_geograph.org.uk_-_6704659.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:EFTA00000191 - Construction site with blue scaffolding an orange ladder and tools scattered on the floor.jpg",
+      "description": "Part of Epstein Files released by the DOJ on December 19 2025",
+      "categories": [
+        "Uploaded with pattypan",
+        "PD-USGov missing SDC copyright status",
+        "Media by the Federal Bureau of Investigation",
+        "2019 FBI raid on Epstein's townhouse"
+      ],
+      "auteur": "Federal Bureau of Investigation",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EFTA00000191_-_Construction_site_with_blue_scaffolding_an_orange_ladder_and_tools_scattered_on_the_floor.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/EFTA00000191_-_Construction_site_with_blue_scaffolding_an_orange_ladder_and_tools_scattered_on_the_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1152,
+      "hauteur": 768
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:EFTA00000635 - Construction site with blue scaffolding an orange ladder and plastic sheeting covering the walls.jpg",
+      "description": "Part of Epstein Files released by the DOJ on December 19 2025",
+      "categories": [
+        "Uploaded with pattypan",
+        "PD-USGov missing SDC copyright status",
+        "Media by the Federal Bureau of Investigation",
+        "2019 FBI raid on Epstein's townhouse"
+      ],
+      "auteur": "Federal Bureau of Investigation",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EFTA00000635_-_Construction_site_with_blue_scaffolding_an_orange_ladder_and_plastic_sheeting_covering_the_walls.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/EFTA00000635_-_Construction_site_with_blue_scaffolding_an_orange_ladder_and_plastic_sheeting_covering_the_walls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1152,
+      "hauteur": 768
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "voile",
+    "terme": "le voile",
+    "categorie": "Structure",
+    "definition": "Mur porteur en béton armé, coulé entre des banches.",
+    "priorite": 1,
+    "requetes": [
+      "reinforced concrete shear wall",
+      "voile béton armé",
+      "concrete wall cast in place"
+    ],
+    "incompatibles": [
+      "mur-porteur"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Test of concrete and reinforced concrete wall footings (1911) (14741863026).jpg",
+      "description": "Identifier : testofconcretere00petr ( find matches ) Title : Test of concrete and reinforced concrete wall footings Year : 1911 ( 1910s ) Authors : Petry, Charles Aloysius Ruskamp, William Henry Subjects : Concrete footings Concrete walls Theses Publisher : Contributing Library : University of Illinois Urbana-Champaign Digitizing Sponsor : University of Illinois Urbana-Champaign View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text A",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 9 October 2015",
+        "1911 books from the United States",
+        "Graphs of concrete walls",
+        "Academic theses and dissertations of the University of Illinois Urbana-Champaign"
+      ],
+      "auteur": "Petry, Charles Aloysius; Ruskamp, William Henry",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Test_of_concrete_and_reinforced_concrete_wall_footings_(1911)_(14741863026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Test_of_concrete_and_reinforced_concrete_wall_footings_%281911%29_%2814741863026%29.jpg/1280px-Test_of_concrete_and_reinforced_concrete_wall_footings_%281911%29_%2814741863026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1908,
+      "hauteur": 2877
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Voile en béton armé.JPG",
+      "description": "décoffrage d'une voile en béton armé",
+      "categories": [
+        "Taken with Pentax Optio E65",
+        "Self-published work",
+        "Construction in Tunisia",
+        "Concrete walls"
+      ],
+      "auteur": "Oussama zrafi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Voile_en_b%C3%A9ton_arm%C3%A9.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Voile_en_b%C3%A9ton_arm%C3%A9.JPG/1280px-Voile_en_b%C3%A9ton_arm%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2130
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Design of reinforced concrete arch highway bridge (1915) (14578056399).jpg",
+      "description": "Identifier : designofreinforc00duff ( find matches ) Title : Design of reinforced concrete arch highway bridge Year : 1915 ( 1910s ) Authors : Duffy, Joseph L Subjects : Publisher : Contributing Library : Paul V. Galvin Library, Illinois Institute of Technology Digitizing Sponsor : CARLI: Consortium of Academic and Research Libraries in Illinois View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Text Appearing Before Image: on for £5 E",
+      "categories": [
+        "1915 books",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 10 October 2015",
+        "Academic theses of the Illinois Institute of Technology"
+      ],
+      "auteur": "Duffy, Joseph L",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Design_of_reinforced_concrete_arch_highway_bridge_(1915)_(14578056399).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Design_of_reinforced_concrete_arch_highway_bridge_%281915%29_%2814578056399%29.jpg/1280px-Design_of_reinforced_concrete_arch_highway_bridge_%281915%29_%2814578056399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3048,
+      "hauteur": 2606
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Imperial County Services building damage 1979.jpg",
+      "description": "Earthquake damage caused to the Imperial County Services Building in the 1979 Imperial Valley earthquake . The support pillar failed at the east end of the Imperial County Services Building in El Centro . The concrete at the base of the columns was shattered and the vertical reinforced bars were severely bent, allowing the building to sag about 30 cm. This 6-story reinforced concrete frame and shear wall structure, designed to be earthquake resistant, was completed in 1971 at a construction cost of $1.87 million. The building was later destroyed and rebuilt by the County of Imperial . Earthqua",
+      "categories": [
+        "PD US Government",
+        "Engineering failures",
+        "Earthquake engineering",
+        "1979 Imperial Valley earthquake",
+        "Brise soleils",
+        "Destroyed buildings in California",
+        "Black and white photographs of California",
+        "Built in California in 1971",
+        "Concrete buildings in California",
+        "Buildings in Imperial County, California",
+        "Black and white photographs of buildings",
+        "Buildings damaged by earthquakes",
+        "CC-PD-Mark",
+        "Earthquake damage in California",
+        "Modernist high-rises in California",
+        "Buildings in El Centro, California"
+      ],
+      "auteur": "U.S. Geological Survey",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Imperial_County_Services_building_damage_1979.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Imperial_County_Services_building_damage_1979.jpg/1280px-Imperial_County_Services_building_damage_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1400,
+      "hauteur": 1040
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:La Maison Bulle - Martinrou 2.jpg",
+      "description": "Vue des externes de la maison-bulle à Fleurus. 2021",
+      "categories": [
+        "Self-published work",
+        "Maison Bulle (Fleurus)"
+      ],
+      "auteur": "Bangiomorpha",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_Maison_Bulle_-_Martinrou_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/La_Maison_Bulle_-_Martinrou_2.jpg/1280px-La_Maison_Bulle_-_Martinrou_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1368,
+      "hauteur": 1026
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Trump Towers, NYC (18780647148).jpg",
+      "description": "Trump Tower, 725 5th Ave, New York, NY 10022, United States. Trump Tower is a 68-story mixed-use skyscraper located at 725 Fifth Avenue, at the corner of East 56th Street in Midtown Manhattan, New York City. The Trump Tower is the 57th tallest building in New York City. The tower is a reinforced concrete, shear-wall core structure and was the tallest structure of this type in New York City when completed.",
+      "categories": [
+        "Columbus Circle",
+        "New York City photographs taken on 2014-10-11",
+        "Flickr images reviewed by FlickreviewR 2",
+        "October 2014 in Manhattan, New York City",
+        "Files uploaded by Ltn12345/Flickr"
+      ],
+      "auteur": "Phil Dolby",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Trump_Towers,_NYC_(18780647148).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Trump_Towers%2C_NYC_%2818780647148%29.jpg/1280px-Trump_Towers%2C_NYC_%2818780647148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 1918
+    }
+  ]
+}
