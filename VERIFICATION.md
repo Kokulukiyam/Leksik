@@ -7,7 +7,7 @@ Chaque image candidate venue de Wikimedia Commons a été examinée deux fois :
 
 Une image n'est retenue que si les deux vérifications la valident.
 
-Résultat : 52 termes illustrés, 90 images retenues, 18 termes abandonnés faute d'image fiable.
+Résultat : 56 termes illustrés, 96 images retenues, 14 termes abandonnés faute d'image fiable.
 
 ## Termes abandonnés
 
@@ -24,11 +24,7 @@ Résultat : 52 termes illustrés, 90 images retenues, 18 termes abandonnés faut
 - le bardage (Matériaux et revêtements)
 - le pisé (Matériaux et revêtements)
 - le banco (Afrique de l'Ouest)
-- le toron (Afrique de l'Ouest)
-- le toguna (Afrique de l'Ouest)
-- le grenier dogon (Afrique de l'Ouest)
-- la case à impluvium (Afrique de l'Ouest)
-- la case (Afrique de l'Ouest)
+- la case ronde (Afrique de l'Ouest)
 
 ## Afrique de l'Ouest
 
@@ -37,90 +33,174 @@ Résultat : 52 termes illustrés, 90 images retenues, 18 termes abandonnés faut
 *Terre argileuse mêlée de paille, moulée en briques ou appliquée en enduit dans la construction traditionnelle.*
 
 - **Rejetée** — [Banko kanalas 4.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_4.jpg)
-  - Vérification : non examinée
+  - Vu : Talus herbeux au bord d'un fossé, en lisière de forêt de bouleaux et d'épicéas.
+  - Vérification : rejetée — Hors sujet : « Banko kanalas » est un canal lituanien, aucune construction en terre.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Banko kanalas 3.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_3.jpg)
-  - Vérification : non examinée
+  - Vu : Canal étroit bordé de roseaux dans un paysage de tourbière.
+  - Vérification : rejetée — Hors sujet : canal lituanien (homonymie), pas de banco.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Banko kanalas 2.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_2.jpg)
-  - Vérification : non examinée
+  - Vu : Fossé en eau entre deux berges herbeuses, bouleaux à l'arrière-plan.
+  - Vérification : rejetée — Hors sujet : canal lituanien (homonymie), pas de banco.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Banko kanalas 5.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_5.jpg)
-  - Vérification : non examinée
+  - Vu : Chemin de terre sur une digue herbeuse longeant un bois.
+  - Vérification : rejetée — Hors sujet : canal lituanien (homonymie), pas de banco.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Banko kanalas 2024.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_2024.jpg)
-  - Vérification : non examinée
+  - Vu : Route asphaltée franchissant un pont à glissières, panneau bleu « Banko kanalas ».
+  - Vérification : rejetée — Hors sujet : pont routier sur un canal lituanien, panneau portant le mot.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Banko kanalas 1.jpg](https://commons.wikimedia.org/wiki/File:Banko_kanalas_1.jpg)
-  - Vérification : non examinée
+  - Vu : Canal rectiligne bordé de bouleaux sous un ciel bleu.
+  - Vérification : rejetée — Hors sujet : canal lituanien (homonymie), pas de banco.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le toron — abandonné
+### le toron — 2 images retenues
 
-*Pièce de bois fichée dans les murs des mosquées soudano-sahéliennes, servant d'appui lors du recrépissage.*
+*Pièce de bois de rônier fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage.*
 
 - **Rejetée** — [MaliDjennéMosquée.JPG](https://commons.wikimedia.org/wiki/File:MaliDjenn%C3%A9Mosqu%C3%A9e.JPG)
-  - Vérification : non examinée
+  - Vu : Vue d'ensemble de la Grande Mosquée de Djenné de trois quarts, un arbre au premier plan à gauche.
+  - Vérification : rejetée — Torons trop petits à cette échelle ; l'image montre surtout le bâtiment entier.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Great Mosque of Djenné 1.jpg](https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Djenn%C3%A9_1.jpg)
-  - Vérification : non examinée
+  - Vu : Grande Mosquée de Djenné vue de l'angle, derrière son mur d'enceinte, moutons couchés au premier plan.
+  - Vérification : rejetée — Bâtiment entier, torons minuscules ; 04 et 03 sont plus lisibles.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Djenne great mud mosque.jpg](https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Djenné Moschee(Dach)1990.jpg](https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_Moschee(Dach)1990.jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Djenne great mud mosque.jpg](https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg)
+  - Vu : Façade principale de la Grande Mosquée de Djenné, tours hérissées de pièces de bois saillantes, homme à vélo au premier plan.
+  - Vérification : validée (avec rectangle) — Rangées de torons nettes avec leurs ombres portées ; le rectangle isole un groupe de torons sur la tour centrale (et non le bâtiment).
+  - Contre-vérification : d'accord — Photo réelle de la Grande Mosquée de Djenné ; le rectangle cadre de près un groupe de pièces de bois saillantes sur la tour centrale en banco : ce sont bien des torons, l'élément désigné n'est pas le mur lui-même.
+- **Retenue** — [Djenné Moschee(Dach)1990.jpg](https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_Moschee(Dach)1990.jpg)
+  - Vu : Toit de la Grande Mosquée de Djenné : pinacles en banco dont émergent de grosses pièces de bois saillantes, vues de près.
+  - Vérification : validée (avec rectangle) — Meilleure vue rapprochée : trois torons bien visibles en saillie du mur, encadrés de près.
+  - Contre-vérification : d'accord — Photo réelle d'une mosquée soudano-sahélienne en banco ; le rectangle encadre précisément trois pièces de bois fichées en saillie dans le mur : torons sans ambiguïté, bien lisibles.
 - **Rejetée** — [The Great Clay Mosque in Djenne, Mali.jpg](https://commons.wikimedia.org/wiki/File:The_Great_Clay_Mosque_in_Djenne,_Mali.jpg)
-  - Vérification : non examinée
+  - Vu : Grande Mosquée de Djenné au-dessus du marché coloré du lundi.
+  - Vérification : rejetée — Marché dominant, torons trop petits.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [The Great Mosque of Djenné in Mali is the largest mud brick building in the world. (32931594225).jpg](https://commons.wikimedia.org/wiki/File:The_Great_Mosque_of_Djenn%C3%A9_in_Mali_is_the_largest_mud_brick_building_in_the_world._(32931594225).jpg)
-  - Vérification : non examinée
+  - Vu : Silhouette de la mosquée de Djenné vue de loin au-dessus des toits-terrasses de la ville.
+  - Vérification : rejetée — Prise de loin, torons peu nombreux et petits ; c'est la mosquée qui est montrée.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le toguna — abandonné
+### le toguna — 2 images retenues
 
 *Abri de palabres du pays dogon, au toit très épais de tiges de mil posé sur des piliers bas.*
 
 - **Rejetée** — [Toguna (6462881).jpg](https://commons.wikimedia.org/wiki/File:Toguna_(6462881).jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Toguna, Kani-Kombole (6485121).jpg](https://commons.wikimedia.org/wiki/File:Toguna,_Kani-Kombole_(6485121).jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Ende Toguna (6842550).jpg](https://commons.wikimedia.org/wiki/File:Ende_Toguna_(6842550).jpg)
-  - Vérification : non examinée
-  - Contre-vérification : sans objet (rejetée à la première vérification)
+  - Vu : Abri bas aux piliers de pierres sèches, coiffé d'un toit très épais de tiges de mil ; un homme assis dessous, un grenier conique à gauche.
+  - Vérification : validée (avec rectangle) — Toguna typique (toit épais de tiges, faible hauteur) ; rectangle nécessaire pour écarter le grenier conique visible à gauche.
+  - Contre-vérification : pas d'accord — Abri bas à toit épais de tiges, mais les supports sont en maçonnerie de pierre continue avec une ouverture de type porte : l'ensemble se lit comme une case en pierre plutôt qu'un abri ouvert sur piliers bas ; image sombre et peu lisible sur téléphone, illustration ambiguë du toguna.
+- **Retenue** — [Toguna, Kani-Kombole (6485121).jpg](https://commons.wikimedia.org/wiki/File:Toguna,_Kani-Kombole_(6485121).jpg)
+  - Vu : Abri bas aux piliers de bois sculptés de figures, toit de tiges, au pied de la falaise de Bandiagara ; enfants au premier plan.
+  - Vérification : validée (avec rectangle) — Toguna à piliers sculptés bien lisible ; rectangle pour isoler l'abri des enfants, du grand arbre et de la falaise.
+  - Contre-vérification : d'accord — Photo réelle d'un toguna dogon au pied de la falaise de Bandiagara : piliers bas en bois sculptés portant un toit de tiges ; le rectangle cadre l'abri sans englober d'autre construction.
+- **Retenue** — [Ende Toguna (6842550).jpg](https://commons.wikimedia.org/wiki/File:Ende_Toguna_(6842550).jpg)
+  - Vu : Long abri bas aux nombreux piliers de bois sculptés de figures, couvert de tiges, sur une place de village.
+  - Vérification : validée — Toguna dominant et net ; couverture moins épaisse que 01 mais forme sans ambiguïté.
+  - Contre-vérification : d'accord — Photo réelle d'un toguna dogon dominant le cadre : rangées de piliers bas en bois sculptés de figures portant une couverture de tiges de mil ; aucun autre terme de la catégorie ne convient.
 - **Rejetée** — [Park rzeźby na bródnie toguna 6.jpg](https://commons.wikimedia.org/wiki/File:Park_rze%C5%BAby_na_br%C3%B3dnie_toguna_6.jpg)
-  - Vérification : non examinée
+  - Vu : Gros plan d'un pilier de bois sculpté d'une figure de sirène, sur une pelouse.
+  - Vérification : rejetée — Détail d'un pilier seulement ; réplique-sculpture dans un parc polonais.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Park rzeźby na bródnie toguna 4.jpg](https://commons.wikimedia.org/wiki/File:Park_rze%C5%BAby_na_br%C3%B3dnie_toguna_4.jpg)
-  - Vérification : non examinée
+  - Vu : Toguna en bois sculpté posé sur une pelouse urbaine, immeubles et voitures en arrière-plan.
+  - Vérification : rejetée — Œuvre d'art (Parc de sculptures de Bródno), hors contexte dogon ; pas une construction traditionnelle.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 - **Rejetée** — [Park rzeźby na bródnie toguna 5.jpg](https://commons.wikimedia.org/wiki/File:Park_rze%C5%BAby_na_br%C3%B3dnie_toguna_5.jpg)
-  - Vérification : non examinée
+  - Vu : Vue entre deux piliers de bois sur une statuette, pelouse et immeubles derrière.
+  - Vérification : rejetée — Détail illisible, toguna non identifiable ; sculpture en Pologne.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
-### le grenier dogon — abandonné
+### le grenier dogon — 1 image retenue
 
 *Petit bâtiment en banco, coiffé d'un toit conique de paille, qui sert à stocker le mil.*
 
-Aucune image candidate trouvée sur Commons.
+- **Rejetée** — [Dogon granary by David Sessoms.jpg](https://commons.wikimedia.org/wiki/File:Dogon_granary_by_David_Sessoms.jpg)
+  - Vu : Intérieur sombre d'un grenier : compartiments en terre, perche de bois et taches de soleil.
+  - Vérification : rejetée — Vue intérieure illisible, forte contre-lumière ; le grenier n'est pas reconnaissable.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Dogon Granary, Djiguibombo (6462722).jpg](https://commons.wikimedia.org/wiki/File:Dogon_Granary,_Djiguibombo_(6462722).jpg)
+  - Vu : Haut volume cylindrique en terre à toit conique de paille, à contre-jour, dans une ruelle bordée de murets de pierre ; deux hommes à droite.
+  - Vérification : rejetée — Contre-jour sombre ; sans socle ni petite porte visibles, impossible de le distinguer d'une case ronde.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Granary shutter, Mali, Dogon people, early 20th century, wood, metal - De Young Museum - DSC01103.JPG](https://commons.wikimedia.org/wiki/File:Granary_shutter,_Mali,_Dogon_people,_early_20th_century,_wood,_metal_-_De_Young_Museum_-_DSC01103.JPG)
+  - Vu : Volet de grenier en bois sculpté exposé dans une vitrine de musée.
+  - Vérification : rejetée — Objet de musée (volet), pas le grenier.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [ASC Leiden - W.E.A. van Beek Collection - Dogon architecture 05 - A female granary, Yugo 1981.jpg](https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_architecture_05_-_A_female_granary,_Yugo_1981.jpg)
+  - Vu : Grenier en banco à toit conique de paille, petites portes de bois en hauteur, posé sur un socle de pierres, falaise en arrière-plan.
+  - Vérification : validée (avec rectangle) — Grenier (femelle) caractéristique : socle surélevé, petites portes, toit conique ; rectangle pour écarter paniers, jarres et la case voisine à gauche.
+  - Contre-vérification : d'accord — Photo réelle d'un grenier dogon en banco surélevé sur pierres, avec petites portes en bois et toit conique de paille ; le rectangle cadre tout le bâtiment, les chevilles de bois ne peuvent pas être prises pour la réponse.
+- **Rejetée** — [ASC Leiden - W.E.A. van Beek Collection - Dogon daily life 03 - Jauire takes the millet from the granary for the daily meal. In principle, only men can get millet from the granary, Tireli, Mali 1980.jpg](https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_daily_life_03_-_Jauire_takes_the_millet_from_the_granary_for_the_daily_meal._In_principle,_only_men_can_get_millet_from_the_granary,_Tireli,_Mali_1980.jpg)
+  - Vu : Homme dans l'ouverture d'un grenier tendant des épis à une femme, avec un panier ; un toit conique au loin.
+  - Vérification : rejetée — Scène de vie ; le grenier n'est montré que par un pan de mur, non identifiable.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Barn decoration, Dogon people 01.jpg](https://commons.wikimedia.org/wiki/File:Barn_decoration,_Dogon_people_01.jpg)
+  - Vu : Panneau de bois sculpté d'une figure, sur fond bleu de musée.
+  - Vérification : rejetée — Objet de musée (décor de grenier), pas le bâtiment.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
-
-### la case à impluvium — abandonné
+### la case à impluvium — 1 image retenue
 
 *Grande habitation diola de Casamance dont le toit en entonnoir recueille l'eau de pluie au centre.*
 
-Aucune image candidate trouvée sur Commons.
+- **Rejetée** — [ZiguinchorImpluviumEntrance.jpg](https://commons.wikimedia.org/wiki/File:ZiguinchorImpluviumEntrance.jpg)
+  - Vu : Entrée couverte à poteaux peints menant à un grand dôme décoré de motifs, jardin fleuri de bougainvilliers.
+  - Vérification : rejetée — Bâtiment contemporain (Alliance franco-sénégalaise) seulement inspiré du type ; impluvium invisible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Alyssa K. Barry Enampore, Casamance, Senegal.jpg](https://commons.wikimedia.org/wiki/File:Alyssa_K._Barry_Enampore,_Casamance,_Senegal.jpg)
+  - Vu : Mur en terre d'une habitation à toit de chaume, fenêtre, linge et bidons devant ; image très retouchée (HDR).
+  - Vérification : rejetée — Façade extérieure seule, toit en entonnoir non visible ; traitement HDR marqué.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [EnamporFromager.JPG](https://commons.wikimedia.org/wiki/File:EnamporFromager.JPG)
+  - Vu : Grand fromager au premier plan, longue maison à toit de chaume au loin entre les palmiers.
+  - Vérification : rejetée — Maison petite, à l'ombre, en partie cachée ; impluvium non visible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Une case du Musée Honmè.jpg](https://commons.wikimedia.org/wiki/File:Une_case_du_Mus%C3%A9e_Honm%C3%A8.jpg)
+  - Vu : Bâtiment carré enduit rouge à toit de tôle à quatre pans, avec un tableau accroché.
+  - Vérification : rejetée — Hors sujet : case du palais Honmè au Bénin, sans impluvium.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Enampor-Impluvium1.JPG](https://commons.wikimedia.org/wiki/File:Enampor-Impluvium1.JPG)
+  - Vu : Cour intérieure circulaire à ciel ouvert, bassin en terre avec un arbre au centre, bords du toit de chaume tombant tout autour, portes des chambres en périphérie.
+  - Vérification : validée — Montre l'élément définissant : l'ouverture centrale du toit en entonnoir et le bassin de l'impluvium ; occupe toute l'image.
+  - Contre-vérification : d'accord — Photo réelle de l'intérieur d'une case à impluvium diola : cour centrale circulaire avec bassin de recueil, couverture de chaume qui s'incline vers l'ouverture centrale et portes des chambres autour ; caractéristique et sans confusion possible avec la case ronde.
+- **Rejetée** — [Enampor-Impluvium2.jpg](https://commons.wikimedia.org/wiki/File:Enampor-Impluvium2.jpg)
+  - Vu : Grande habitation basse en terre sous un vaste toit de chaume, vue de l'extérieur sur un terrain sablonneux.
+  - Vérification : rejetée — De l'extérieur, l'entonnoir et l'impluvium ne se voient pas : identification seulement par hypothèse.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
-
-### la case — abandonné
+### la case ronde — abandonné
 
 *Habitation traditionnelle de plan circulaire, aux murs en terre et au toit conique de paille.*
 
-Aucune image candidate trouvée sur Commons.
-
+- **Rejetée** — [Case of.jpg](https://commons.wikimedia.org/wiki/File:Case_of.jpg)
+  - Vu : Petite cabane en planches de bois au toit plat, entourée d'une clôture de poteaux et de cordes.
+  - Vérification : rejetée — Pas une case : abri en bois, ni plan circulaire, ni murs en terre, ni toit conique.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Village of N'Dengou, Rufisque (now a suburb of Dakar), Sénégal (West Africa), c. 1905 (7798155468).jpg](https://commons.wikimedia.org/wiki/File:Village_of_N%27Dengou,_Rufisque_(now_a_suburb_of_Dakar),_S%C3%A9n%C3%A9gal_(West_Africa),_c._1905_(7798155468).jpg)
+  - Vu : Carte postale ancienne : rue de village bordée de palissades et de huttes en roseaux, légende imprimée en haut.
+  - Vérification : rejetée — Huttes en roseaux (pas de murs en terre) peu lisibles ; carte postale avec légende imprimée.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Case of turtle.jpg](https://commons.wikimedia.org/wiki/File:Case_of_turtle.jpg)
+  - Vu : Long hangar ouvert sur poteaux de bois, toit de chaume, bancs dessous.
+  - Vérification : rejetée — Hangar ouvert, pas une habitation circulaire ; pourrait évoquer un abri type toguna.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [The village of Guendel, Rufisque (now a suburb of Dakar), Sénégal (West Africa), c. 1905 (7804097800).jpg](https://commons.wikimedia.org/wiki/File:The_village_of_Guendel,_Rufisque_(now_a_suburb_of_Dakar),_S%C3%A9n%C3%A9gal_(West_Africa),_c._1905_(7804097800).jpg)
+  - Vu : Carte postale ancienne : palissades et toits de chaume au bord d'une lagune, quatre personnes au centre, légende imprimée.
+  - Vérification : rejetée — Cases cachées derrière les palissades, seuls des toits visibles ; légende imprimée.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Kitchen case.jpg](https://commons.wikimedia.org/wiki/File:Kitchen_case.jpg)
+  - Vu : Petite construction ronde aux murs enduits de terre et porte orange, toit conique de chaume en partie bâché, derrière des branches et une palissade tressée.
+  - Vérification : rejetée — Bon type, mais petite, masquée par les branches et la palissade, toit recouvert de bâches : trop peu lisible sur un téléphone.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [3 phot., deux de villages du Sénégal, une de l'intérieur du poste d'Atar (Mauritanie), don 1923 - btv1b77022212 (3 of 3).jpg](https://commons.wikimedia.org/wiki/File:3_phot.,_deux_de_villages_du_S%C3%A9n%C3%A9gal,_une_de_l%27int%C3%A9rieur_du_poste_d%27Atar_(Mauritanie),_don_1923_-_btv1b77022212_(3_of_3).jpg)
+  - Vu : Tirage ancien flou d'une place de village avec rôniers, quelques toits coniques au loin, annotations manuscrites et réglette.
+  - Vérification : rejetée — Cases minuscules et floues ; annotation manuscrite « un village noir ».
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ## Façade et ouvertures
 
@@ -159,7 +239,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### l'appui de fenêtre — 2 images retenues
 
-*Partie horizontale qui forme le bas d'une fenêtre, souvent en saillie pour rejeter l'eau de pluie.*
+*Tablette horizontale qui termine le bas d'une baie au-dessus de l'allège, souvent saillante et inclinée pour rejeter l'eau de pluie.*
 
 - **Rejetée** — [Sprossenfenster 01.jpg](https://commons.wikimedia.org/wiki/File:Sprossenfenster_01.jpg)
   - Vu : Fenêtre à croisillons vue de l'intérieur, paysage enneigé ; la tablette intérieure n'apparaît qu'en bas, sombre et coupée.
@@ -217,7 +297,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### le meneau — 2 images retenues
 
-*Montant vertical fixe, en pierre ou en bois, qui divise une fenêtre en plusieurs parties.*
+*Montant vertical fixe, en pierre ou en bois, qui divise une même fenêtre en plusieurs parties.*
 
 - **Retenue** — [2 rue des Marchands in Nimes 02.jpg](https://commons.wikimedia.org/wiki/File:2_rue_des_Marchands_in_Nimes_02.jpg)
   - Vu : Fenêtre à croisée de pierre, quatre jours séparés par un meneau et une traverse.
@@ -301,6 +381,30 @@ Aucune image candidate trouvée sur Commons.
   - Vu : Gros plan d'une dalle de pierre avec trou de gond, main visible.
   - Vérification : rejetée — Dalle réemployée en gros plan, illisible comme piédroit.
   - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Roscrea St. Cronan's Romanesque Church Portal Left Jamb 2010 09 03.jpg](https://commons.wikimedia.org/wiki/File:Roscrea_St._Cronan%27s_Romanesque_Church_Portal_Left_Jamb_2010_09_03.jpg)
+  - Vu : Vue oblique d'un portail roman en ruine encastré dans un pan de mur, avec ressauts de l'ébrasement dans l'ombre, route à gauche.
+  - Vérification : rejetée — Portail vu de biais et en partie dans l'ombre : le piédroit gauche ne se distingue pas nettement de la masse du mur.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Roscrea St. Cronan's Romanesque Church Portal Left Jamb Details 2010 09 03.jpg](https://commons.wikimedia.org/wiki/File:Roscrea_St._Cronan%27s_Romanesque_Church_Portal_Left_Jamb_Details_2010_09_03.jpg)
+  - Vu : Gros plan oblique de blocs de grès érodés et sculptés d'un portail contre le ciel, grille en fer en bas.
+  - Vérification : rejetée — Détail illisible : on ne reconnaît ni la baie ni le montant.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Pisa Baptistery, architraves over east portal, c1200.jpg](https://commons.wikimedia.org/wiki/File:Pisa_Baptistery,_architraves_over_east_portal,_c1200.jpg)
+  - Vu : Deux registres horizontaux de reliefs figurés (Christ, apôtres, scènes de la vie de saint Jean-Baptiste) au-dessus d'un portail.
+  - Vérification : rejetée — Montre les linteaux sculptés du portail, pas les piédroits.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Portal 3c Gewände links Malachias.jpg](https://commons.wikimedia.org/wiki/File:Portal_3c_Gew%C3%A4nde_links_Malachias.jpg)
+  - Vu : Statue-relief d'un prophète tenant un phylactère inscrit, entre une colonne torsadée et des ressauts de marbre rose.
+  - Vérification : rejetée — Gros plan d'une statue de portail ; la baie n'est pas lisible et la colonne torsadée prête à confusion ; inscription visible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Frauenchiemsee Münster - Romanisches Portal 5 Gewände Kopf.jpg](https://commons.wikimedia.org/wiki/File:Frauenchiemsee_M%C3%BCnster_-_Romanisches_Portal_5_Gew%C3%A4nde_Kopf.jpg)
+  - Vu : Gros plan d'une tête barbue sculptée en pierre au sommet d'un montant, mur jaune derrière.
+  - Vérification : rejetée — Détail sculpté (tête) ; le piédroit n'est pas identifiable.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Mittelheim-Langhaus Giebelseite West-Romanisches Portal mit abgetrepptem Gewände-06042012.JPG](https://commons.wikimedia.org/wiki/File:Mittelheim-Langhaus_Giebelseite_West-Romanisches_Portal_mit_abgetrepptem_Gew%C3%A4nde-06042012.JPG)
+  - Vu : Portail roman en plein cintre d'une église en moellons, à claveaux alternés rouges et blancs, tympan nu, porte en bois à pentures, ébrasement à ressauts avec colonnettes.
+  - Vérification : validée (avec rectangle) — Photo nette et frontale ; le rectangle isole le montant droit de la baie (avec ses ressauts) qui porte l'arc et le linteau du tympan.
+  - Contre-vérification : —
 
 ### le chambranle — abandonné
 
@@ -330,10 +434,34 @@ Aucune image candidate trouvée sur Commons.
   - Vu : Bas d'une porte en bois cloutée ouverte sur un pré, avec le pied d'un montant de pierre.
   - Vérification : rejetée — Élément à peine visible et sans moulure identifiable ; le terme n'est qu'une hypothèse.
   - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Nouvel Opéra. Avant-foyer (Chambranle. Moulures) - Charles Garnier - btv1b53180043z.jpg](https://commons.wikimedia.org/wiki/File:Nouvel_Op%C3%A9ra._Avant-foyer_(Chambranle._Moulures)_-_Charles_Garnier_-_btv1b53180043z.jpg)
+  - Vu : Dessin d'architecte au crayon : profil de moulures d'un chambranle (Opéra Garnier).
+  - Vérification : rejetée — Dessin, pas une photo.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Casino de Monte-Carlo - détail du chambranle de l'avant-scène et des moulures recevant la partie circulaire de ce chambranle - coupes - N°71B - Charles Garnier - btv1b53091307m.jpg](https://commons.wikimedia.org/wiki/File:Casino_de_Monte-Carlo_-_d%C3%A9tail_du_chambranle_de_l%27avant-sc%C3%A8ne_et_des_moulures_recevant_la_partie_circulaire_de_ce_chambranle_-_coupes_-_N%C2%B071B_-_Charles_Garnier_-_btv1b53091307m.jpg)
+  - Vu : Dessin d'architecte : coupes et profils de moulures sur papier (Casino de Monte-Carlo).
+  - Vérification : rejetée — Dessin, pas une photo.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Chambranle des croisées et portes d'armoires ; Chambranles des portes ; Anglaise - dessin - Jean-Jacques Lequeu - btv1b53165473t (1 of 2).jpg](https://commons.wikimedia.org/wiki/File:Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_;_Chambranles_des_portes_;_Anglaise_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b53165473t_(1_of_2).jpg)
+  - Vu : Planche dessinée de Lequeu : profils de chambranles et élévation d'une porte d'armoire.
+  - Vérification : rejetée — Dessin, pas une photo.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Chambranle des croisées et portes d'armoires ; Chambranles des portes ; Anglaise - dessin - Jean-Jacques Lequeu - btv1b53165473t (2 of 2).jpg](https://commons.wikimedia.org/wiki/File:Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_;_Chambranles_des_portes_;_Anglaise_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b53165473t_(2_of_2).jpg)
+  - Vu : Planche dessinée de Lequeu : élévation d'une porte à panneaux et profils de moulures.
+  - Vérification : rejetée — Dessin, pas une photo.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Chambranle des croisées et portes d'armoires - dessin - Jean-Jacques Lequeu - btv1b7703563r (2 of 2).jpg](https://commons.wikimedia.org/wiki/File:Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_(2_of_2).jpg)
+  - Vu : Planche dessinée de Lequeu : élévation d'une porte à panneaux et profils de moulures.
+  - Vérification : rejetée — Dessin, pas une photo.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Chambranle des croisées et portes d'armoires - dessin - Jean-Jacques Lequeu - btv1b7703563r (1 of 2).jpg](https://commons.wikimedia.org/wiki/File:Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_(1_of_2).jpg)
+  - Vu : Planche dessinée de Lequeu : profils de chambranles et plan/élévation d'une armoire.
+  - Vérification : rejetée — Dessin, pas une photo.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ### le tympan — 2 images retenues
 
-*Surface, souvent sculptée, comprise entre le linteau et l'arc qui surmontent une porte.*
+*Surface, souvent sculptée, enclose entre le linteau et l'arc d'un portail, ou entre les corniches d'un fronton.*
 
 - **Rejetée** — [Central bay of Cologne west portal-Architectural sculpture-Tympanum-2.jpg](https://commons.wikimedia.org/wiki/File:Central_bay_of_Cologne_west_portal-Architectural_sculpture-Tympanum-2.jpg)
   - Vu : Tympan gothique doré à registres de scènes sculptées du portail central de la cathédrale de Cologne, entouré de voussures à statues.
@@ -417,6 +545,30 @@ Aucune image candidate trouvée sur Commons.
   - Vu : Façade vitrée bleue avec un grand panneau de céramique ornée autour d'une fenêtre cintrée, arbre au premier plan.
   - Vérification : rejetée — Aucun balcon visible clairement ; panneau de céramique et arbre dominent.
   - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Casa Vicens - balcony on main facade.jpg](https://commons.wikimedia.org/wiki/File:Casa_Vicens_-_balcony_on_main_facade.jpg)
+  - Vu : Façade de la Casa Vicens : balcon arrondi à garde-corps en fer forgé et grillage sur dalle à damier, au-dessus d'une fenêtre fermée par une grande grille galbée.
+  - Vérification : rejetée — Le balcon est assez lisible mais la grille galbée de la fenêtre au-dessous peut aussi passer pour un balcon ; les deux autres candidates validées sont plus claires.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Dornava Mansion Balcony 197.JPG](https://commons.wikimedia.org/wiki/File:Dornava_Mansion_Balcony_197.JPG)
+  - Vu : Façade baroque d'un château avec un portique à colonnes portant une terrasse à garde-corps en fer, drapeaux et statues.
+  - Vérification : rejetée — Plateforme posée sur un portique (terrasse) plutôt que balcon en saillie ; drapeaux et statues distraient.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Facade de la maison Marrou à Rouen.jpg](https://commons.wikimedia.org/wiki/File:Facade_de_la_maison_Marrou_%C3%A0_Rouen.jpg)
+  - Vu : Façade très ornée avec un balcon en pierre sculpté en encorbellement, vu d'en bas, surcharge décorative.
+  - Vérification : rejetée — Décor foisonnant et sombre : la plateforme et son garde-corps se lisent mal.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Facade of Hotel Terminus Grenoble.jpg](https://commons.wikimedia.org/wiki/File:Facade_of_Hotel_Terminus_Grenoble.jpg)
+  - Vu : Façade Art nouveau d'un hôtel avec de nombreux petits balcons, enseigne « Terminus » et « Best Western ».
+  - Vérification : rejetée — Balcons petits, et texte d'enseigne visible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Balcony of the Château de Bois-Préau in Rueil-Malmaison, France 002.JPG](https://commons.wikimedia.org/wiki/File:Balcony_of_the_Ch%C3%A2teau_de_Bois-Pr%C3%A9au_in_Rueil-Malmaison,_France_002.JPG)
+  - Vu : Façade classique en pierre : porte-fenêtre à persiennes donnant sur un balcon à garde-corps en fer forgé, dalle portée par des consoles en fer.
+  - Vérification : validée (avec rectangle) — Balcon net : dalle en saillie sur consoles + garde-corps ; le rectangle englobe toute la plateforme pour écarter persienne et garde-corps seul.
+  - Contre-vérification : —
+- **Rejetée** — [Riverside facade of Palais Rohan, Strasbourg DSC00688 (46985621941).jpg](https://commons.wikimedia.org/wiki/File:Riverside_facade_of_Palais_Rohan,_Strasbourg_DSC00688_(46985621941).jpg)
+  - Vu : Long balcon en pierre vu en contre-plongée, porté par des consoles sculptées, avec garde-corps en fer forgé doré, au-dessus de fenêtres grillagées.
+  - Vérification : validée (avec rectangle) — Saillie de la plateforme et consoles bien visibles ; le rectangle englobe dalle, consoles et garde-corps (l'ensemble du balcon).
+  - Contre-vérification : —
 
 ### le garde-corps — 2 images retenues
 
@@ -507,7 +659,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### l'imposte — 2 images retenues
 
-*Partie vitrée, fixe ou ouvrante, située au-dessus d'une porte ou d'une fenêtre.*
+*Partie haute, fixe ou ouvrante et souvent vitrée, d'une porte ou d'une fenêtre, séparée du reste par une traverse.*
 
 - **Rejetée** — [128-126 Queen.JPG](https://commons.wikimedia.org/wiki/File:128-126_Queen.JPG)
   - Vu : Rangée de maisons en brique avec voitures garées ; porte d'entrée lointaine surmontée d'une petite imposte.
@@ -623,7 +775,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### le moucharabieh — 1 image retenue
 
-*Grillage de bois tourné à motifs, placé devant une fenêtre, qui permet de voir sans être vu.*
+*Treillis de bois tourné, souvent en saillie devant une fenêtre, qui permet de voir sans être vu, typique de l'architecture arabe.*
 
 - **Retenue** — [Cairo Residence.jpg](https://commons.wikimedia.org/wiki/File:Cairo_Residence.jpg)
   - Vu : Façade de maison du Caire avec plusieurs moucharabiehs en bois en saillie aux étages et des fenêtres grillagées.
@@ -651,6 +803,35 @@ Aucune image candidate trouvée sur Commons.
   - Contre-vérification : sans objet (rejetée à la première vérification)
 
 ## Matériaux et revêtements
+
+### le chaume — 1 image retenue
+
+*Couverture de toit faite de paille, de roseaux ou d'herbes séchées.*
+
+- **Rejetée** — [Ostercappeln - Darpvenne - Eisenzeithaus - Rieddach 01.jpg](https://commons.wikimedia.org/wiki/File:Ostercappeln_-_Darpvenne_-_Eisenzeithaus_-_Rieddach_01.jpg)
+  - Vu : Gros plan des abouts de roseaux serrés d'une couverture en chaume.
+  - Vérification : validée — Matériau de couverture en roseau montré plein cadre, sans ambiguïté avec un autre terme de toiture.
+  - Contre-vérification : pas d'accord — Gros plan macro de bouts de roseaux, texture abstraite sans aucun contexte de toit : on ne voit pas qu'il s'agit d'une couverture, l'image ne montre pas clairement le chaume comme couverture de toit.
+- **Rejetée** — [Village scene-Fiji (NYPL Hades-2359174-4043530).jpg](https://commons.wikimedia.org/wiki/File:Village_scene-Fiji_(NYPL_Hades-2359174-4043530).jpg)
+  - Vu : Carte postale ancienne en noir et blanc d'une case au toit de chaume aux Fidji, avec légende imprimée.
+  - Vérification : rejetée — Carte postale ancienne avec texte imprimé ; qualité faible.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Village house in Laos.jpg](https://commons.wikimedia.org/wiki/File:Village_house_in_Laos.jpg)
+  - Vu : Village laotien de maisons en bambou couvertes de chaume d'herbes, sous un ciel blanc.
+  - Vérification : rejetée — Lumière terne et scène d'ensemble ; d'autres candidates montrent mieux le chaume.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Rural village scene 01.jpg](https://commons.wikimedia.org/wiki/File:Rural_village_scene_01.jpg)
+  - Vu : Village tribal indien de huttes en terre couvertes de palmes séchées, homme accroupi au premier plan.
+  - Vérification : rejetée — Couverture en palmes plutôt qu'en paille ou roseau ; sens technique discutable.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Rejetée** — [Charming Village House with Thatched Roof.jpg](https://commons.wikimedia.org/wiki/File:Charming_Village_House_with_Thatched_Roof.jpg)
+  - Vu : Maisonnette blanche au toit de chaume en croupe dans un jardin boisé, derrière une clôture en bois.
+  - Vérification : rejetée — Toit assez petit et en forme de croupe : le cadre sur la toiture laisserait hésiter entre chaume et croupe.
+  - Contre-vérification : sans objet (rejetée à la première vérification)
+- **Retenue** — [Thatched roof OGA 2.jpg](https://commons.wikimedia.org/wiki/File:Thatched_roof_OGA_2.jpg)
+  - Vu : Surface d'un versant en chaume de paille avec rangs de ligatures et touffes de mousse.
+  - Vérification : validée — Texture de couverture en chaume plein cadre, rangs et liens visibles ; photographie réelle.
+  - Contre-vérification : d'accord — Pan de toiture en paille fixé par des fils, avec mousse, occupant toute l'image : couverture en chaume clairement lisible.
 
 ### la brique — 1 image retenue
 
@@ -770,7 +951,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### le béton brut — 1 image retenue
 
-*Béton laissé apparent tel qu'il sort du coffrage, avec la trace des planches.*
+*Béton laissé apparent tel qu'il sort du coffrage, dont il garde l'empreinte.*
 
 - **Rejetée** — [FOT9514 Haltepunkt Leipzig Anger-Crottendorf 2024 – Treppenaufgang Süd.jpg](https://commons.wikimedia.org/wiki/File:FOT9514_Haltepunkt_Leipzig_Anger-Crottendorf_2024_%E2%80%93_Treppenaufgang_S%C3%BCd.jpg)
   - Vu : Abri d'escalier vitré sur un quai de gare, avec garde-corps et murets en béton.
@@ -828,7 +1009,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### l'ardoise — 1 image retenue
 
-*Pierre fendue en plaques minces, utilisée pour couvrir les toits ou les murs.*
+*Roche schisteuse fendue en plaques minces, utilisée pour couvrir les toits ou les murs.*
 
 - **Rejetée** — [Црква „Св. Петка“ - Маловиште.jpg](https://commons.wikimedia.org/wiki/File:%D0%A6%D1%80%D0%BA%D0%B2%D0%B0_%E2%80%9E%D0%A1%D0%B2._%D0%9F%D0%B5%D1%82%D0%BA%D0%B0%E2%80%9C_-_%D0%9C%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D1%88%D1%82%D0%B5.jpg)
   - Vu : Église et monastère en pierre couverts de grandes dalles de pierre grise, maisons à toits de tuiles autour.
@@ -944,7 +1125,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### le pisé — abandonné
 
-*Mur en terre crue compactée par couches successives dans un coffrage.*
+*Terre crue compactée par couches successives dans un coffrage pour former des murs massifs.*
 
 - **Rejetée** — [Libya 4432 Ghadames Luca Galuzzi 2007.jpg](https://commons.wikimedia.org/wiki/File:Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg)
   - Vu : Passage couvert blanchi à la chaux dans la vieille ville, homme en tenue blanche.
@@ -1004,7 +1185,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### le bandeau — abandonné
 
-*Bande horizontale peu saillante, lisse ou moulurée, qui marque les niveaux d'une façade.*
+*Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.*
 
 - **Rejetée** — [Tenement house, 50 Grodzka street, Kraków, Poland.jpg](https://commons.wikimedia.org/wiki/File:Tenement_house,_50_Grodzka_street,_Krak%C3%B3w,_Poland.jpg)
   - Vu : Façade d'immeuble à quatre niveaux avec commerces au rez-de-chaussée, un bandeau mouluré sépare le dernier étage.
@@ -1033,7 +1214,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### le fronton — 2 images retenues
 
-*Couronnement triangulaire ou cintré qui surmonte une façade, une porte ou une fenêtre.*
+*Couronnement triangulaire ou cintré, bordé de corniches, qui surmonte une façade, une porte ou une fenêtre.*
 
 - **Retenue** — [Birger Jarlsgatan, Pumpstocken 10, febr 2021c.jpg](https://commons.wikimedia.org/wiki/File:Birger_Jarlsgatan,_Pumpstocken_10,_febr_2021c.jpg)
   - Vu : Fronton cintré brisé à volutes et cartouche portant le numéro 13 au-dessus d'une baie à trois fenêtres.
@@ -1294,7 +1475,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### la frise — 1 image retenue
 
-*Bande décorative horizontale, sculptée ou peinte, qui court le long d'un mur.*
+*Bande horizontale ornée de motifs répétés ou de figures, sculptée ou peinte, qui court le long d'un mur ou entre l'architrave et la corniche d'un entablement.*
 
 - **Retenue** — [Lady Lever Gallery (30596307434).jpg](https://commons.wikimedia.org/wiki/File:Lady_Lever_Gallery_(30596307434).jpg)
   - Vu : Entablement de marbre blanc au-dessus d'une porte, dont la bande médiane montre une ronde de jeunes femmes en relief sur fond bleu, entre corniche et architrave, flanquée de deux consoles à volutes.
@@ -1383,7 +1564,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### la colonne — 1 image retenue
 
-*Support vertical de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.*
+*Support vertical isolé, de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.*
 
 - **Rejetée** — [Park, Schlemmin (P1090180).jpg](https://commons.wikimedia.org/wiki/File:Park,_Schlemmin_(P1090180).jpg)
   - Vu : Stèle (pilier carré) gravée d'une inscription, enfouie dans la végétation d'un parc.
@@ -1499,7 +1680,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### la voûte — 1 image retenue
 
-*Ouvrage de maçonnerie courbe qui couvre un espace, comme un plafond en forme d'arc.*
+*Ouvrage de maçonnerie cintré qui couvre un espace, comme un arc prolongé dans la profondeur.*
 
 - **Retenue** — [Fort de la Chartreuse (DSCF3625-hdr).jpg](https://commons.wikimedia.org/wiki/File:Fort_de_la_Chartreuse_(DSCF3625-hdr).jpg)
   - Vu : Casemate d'un fort, voûte en berceau en brique couvrant toute la salle, avec deux fenêtres au fond.
@@ -1557,7 +1738,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### la coupole — 3 images retenues
 
-*Voûte hémisphérique ou ovoïde couvrant un espace, vue de l'intérieur.*
+*Voûte en demi-sphère ou en calotte, élevée sur un plan circulaire, carré ou polygonal ; le mot désigne surtout sa face intérieure, l'extérieur étant le dôme.*
 
 - **Retenue** — [Christian IXs Chapel Dome Interior 2015-03-31-4812.jpg](https://commons.wikimedia.org/wiki/File:Christian_IXs_Chapel_Dome_Interior_2015-03-31-4812.jpg)
   - Vu : Vue zénithale d'une coupole blanche à caissons et cannelures sur pendentifs, entourée de voûtes en berceau à caissons.
@@ -1673,7 +1854,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### le pilotis — 1 image retenue
 
-*Ensemble de poteaux qui portent un bâtiment au-dessus du sol en laissant le rez-de-chaussée libre.*
+*Ensemble de pieux ou de poteaux qui portent une construction au-dessus du sol ou de l'eau, en laissant libre le niveau inférieur.*
 
 - **Rejetée** — [Parempuyre - Pilotis.jpg](https://commons.wikimedia.org/wiki/File:Parempuyre_-_Pilotis.jpg)
   - Vu : Maison de plain-pied surélevée sur de fins poteaux, en bord de route, avec escalier extérieur.
@@ -1733,7 +1914,7 @@ Aucune image candidate trouvée sur Commons.
 
 ### l'acrotère — abandonné
 
-*Muret qui borde une toiture-terrasse et en dépasse le niveau.*
+*Muret en rive d'une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l'étanchéité.*
 
 - **Rejetée** — [Building at 2629-2635 Main Street and 2387-2395 Fillmore Avenue, Buffalo, New York - 20220801.jpg](https://commons.wikimedia.org/wiki/File:Building_at_2629-2635_Main_Street_and_2387-2395_Fillmore_Avenue,_Buffalo,_New_York_-_20220801.jpg)
   - Vu : Immeuble commercial de deux étages à toit plat, vu de loin depuis un carrefour, couronné d'une corniche et d'un court parapet à redans.
@@ -1846,35 +2027,6 @@ Aucune image candidate trouvée sur Commons.
   - Vu : Petite maison en pierre isolée sur une île, toit en bois à quatre pans dont une croupe triangulaire avec une petite lucarne et une échelle.
   - Vérification : rejetée — La croupe existe mais occupe une petite part de l'image ; toit proche du pavillon et lucarne dans le pan : doute, rejet par prudence.
   - Contre-vérification : sans objet (rejetée à la première vérification)
-
-### le chaume — 1 image retenue
-
-*Couverture de toit faite de paille, de roseaux ou d'herbes séchées.*
-
-- **Rejetée** — [Ostercappeln - Darpvenne - Eisenzeithaus - Rieddach 01.jpg](https://commons.wikimedia.org/wiki/File:Ostercappeln_-_Darpvenne_-_Eisenzeithaus_-_Rieddach_01.jpg)
-  - Vu : Gros plan des abouts de roseaux serrés d'une couverture en chaume.
-  - Vérification : validée — Matériau de couverture en roseau montré plein cadre, sans ambiguïté avec un autre terme de toiture.
-  - Contre-vérification : pas d'accord — Gros plan macro de bouts de roseaux, texture abstraite sans aucun contexte de toit : on ne voit pas qu'il s'agit d'une couverture, l'image ne montre pas clairement le chaume comme couverture de toit.
-- **Rejetée** — [Village scene-Fiji (NYPL Hades-2359174-4043530).jpg](https://commons.wikimedia.org/wiki/File:Village_scene-Fiji_(NYPL_Hades-2359174-4043530).jpg)
-  - Vu : Carte postale ancienne en noir et blanc d'une case au toit de chaume aux Fidji, avec légende imprimée.
-  - Vérification : rejetée — Carte postale ancienne avec texte imprimé ; qualité faible.
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Village house in Laos.jpg](https://commons.wikimedia.org/wiki/File:Village_house_in_Laos.jpg)
-  - Vu : Village laotien de maisons en bambou couvertes de chaume d'herbes, sous un ciel blanc.
-  - Vérification : rejetée — Lumière terne et scène d'ensemble ; d'autres candidates montrent mieux le chaume.
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Rural village scene 01.jpg](https://commons.wikimedia.org/wiki/File:Rural_village_scene_01.jpg)
-  - Vu : Village tribal indien de huttes en terre couvertes de palmes séchées, homme accroupi au premier plan.
-  - Vérification : rejetée — Couverture en palmes plutôt qu'en paille ou roseau ; sens technique discutable.
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Rejetée** — [Charming Village House with Thatched Roof.jpg](https://commons.wikimedia.org/wiki/File:Charming_Village_House_with_Thatched_Roof.jpg)
-  - Vu : Maisonnette blanche au toit de chaume en croupe dans un jardin boisé, derrière une clôture en bois.
-  - Vérification : rejetée — Toit assez petit et en forme de croupe : le cadre sur la toiture laisserait hésiter entre chaume et croupe.
-  - Contre-vérification : sans objet (rejetée à la première vérification)
-- **Retenue** — [Thatched roof OGA 2.jpg](https://commons.wikimedia.org/wiki/File:Thatched_roof_OGA_2.jpg)
-  - Vu : Surface d'un versant en chaume de paille avec rangs de ligatures et touffes de mousse.
-  - Vérification : validée — Texture de couverture en chaume plein cadre, rangs et liens visibles ; photographie réelle.
-  - Contre-vérification : d'accord — Pan de toiture en paille fixé par des fils, avec mousse, occupant toute l'image : couverture en chaume clairement lisible.
 
 ### la souche de cheminée — abandonné
 

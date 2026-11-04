@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Kilmaurs, Écosse",
       "note": "Dalle réemployée en gros plan, illisible comme piédroit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue oblique d'un portail roman en ruine encastré dans un pan de mur, avec ressauts de l'ébrasement dans l'ombre, route à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Roscrea, Irlande",
+      "note": "Portail vu de biais et en partie dans l'ombre : le piédroit gauche ne se distingue pas nettement de la masse du mur."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan oblique de blocs de grès érodés et sculptés d'un portail contre le ciel, grille en fer en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Roscrea, Irlande",
+      "note": "Détail illisible : on ne reconnaît ni la baie ni le montant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux registres horizontaux de reliefs figurés (Christ, apôtres, scènes de la vie de saint Jean-Baptiste) au-dessus d'un portail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pise, Italie",
+      "note": "Montre les linteaux sculptés du portail, pas les piédroits."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Statue-relief d'un prophète tenant un phylactère inscrit, entre une colonne torsadée et des ressauts de marbre rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vérone, Italie",
+      "note": "Gros plan d'une statue de portail ; la baie n'est pas lisible et la colonne torsadée prête à confusion ; inscription visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan d'une tête barbue sculptée en pierre au sommet d'un montant, mur jaune derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Frauenchiemsee, Allemagne",
+      "note": "Détail sculpté (tête) ; le piédroit n'est pas identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Portail roman en plein cintre d'une église en moellons, à claveaux alternés rouges et blancs, tympan nu, porte en bois à pentures, ébrasement à ressauts avec colonnettes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.597,
+        "y": 0.385,
+        "largeur": 0.17,
+        "hauteur": 0.46
+      },
+      "lieu": "Mittelheim, Allemagne",
+      "note": "Photo nette et frontale ; le rectangle isole le montant droit de la baie (avec ses ressauts) qui porte l'arc et le linteau du tympan."
     }
   ]
 }

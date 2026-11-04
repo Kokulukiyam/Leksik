@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Aucun balcon visible clairement ; panneau de céramique et arbre dominent."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade de la Casa Vicens : balcon arrondi à garde-corps en fer forgé et grillage sur dalle à damier, au-dessus d'une fenêtre fermée par une grande grille galbée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Le balcon est assez lisible mais la grille galbée de la fenêtre au-dessous peut aussi passer pour un balcon ; les deux autres candidates validées sont plus claires."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade baroque d'un château avec un portique à colonnes portant une terrasse à garde-corps en fer, drapeaux et statues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dornava, Slovénie",
+      "note": "Plateforme posée sur un portique (terrasse) plutôt que balcon en saillie ; drapeaux et statues distraient."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade très ornée avec un balcon en pierre sculpté en encorbellement, vu d'en bas, surcharge décorative.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rouen, France",
+      "note": "Décor foisonnant et sombre : la plateforme et son garde-corps se lisent mal."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade Art nouveau d'un hôtel avec de nombreux petits balcons, enseigne « Terminus » et « Best Western ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Grenoble, France",
+      "note": "Balcons petits, et texte d'enseigne visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade classique en pierre : porte-fenêtre à persiennes donnant sur un balcon à garde-corps en fer forgé, dalle portée par des consoles en fer.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.165,
+        "y": 0.645,
+        "largeur": 0.63,
+        "hauteur": 0.32
+      },
+      "lieu": "Rueil-Malmaison, France",
+      "note": "Balcon net : dalle en saillie sur consoles + garde-corps ; le rectangle englobe toute la plateforme pour écarter persienne et garde-corps seul."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Long balcon en pierre vu en contre-plongée, porté par des consoles sculptées, avec garde-corps en fer forgé doré, au-dessus de fenêtres grillagées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 0.99,
+        "hauteur": 0.71
+      },
+      "lieu": "Strasbourg, France",
+      "note": "Saillie de la plateforme et consoles bien visibles ; le rectangle englobe dalle, consoles et garde-corps (l'ensemble du balcon)."
     }
   ]
 }

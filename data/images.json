@@ -1478,5 +1478,103 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Carreaux_de_ciment_tunis_02.jpg",
     "statut": "validée",
     "note": "Vérification : Carreaux de ciment typiques, nets et dominants, joints visibles. Contre-vérification : Sol de carreaux de ciment à motifs géométriques et frise de grecques, matériau net et caractéristique."
+  },
+  {
+    "id": "toron-03",
+    "termId": "toron",
+    "fichier": "commons/toron-03.webp",
+    "rectangle": {
+      "x": 0.375,
+      "y": 0.3,
+      "largeur": 0.12,
+      "hauteur": 0.12
+    },
+    "lieu": "Djenné, Mali",
+    "source": "commons",
+    "auteur": "Ruud Zwart",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rangées de torons nettes avec leurs ombres portées ; le rectangle isole un groupe de torons sur la tour centrale (et non le bâtiment). Contre-vérification : Photo réelle de la Grande Mosquée de Djenné ; le rectangle cadre de près un groupe de pièces de bois saillantes sur la tour centrale en banco : ce sont bien des torons, l'élément désigné n'est pas le mur lui-même."
+  },
+  {
+    "id": "toron-04",
+    "termId": "toron",
+    "fichier": "commons/toron-04.webp",
+    "rectangle": {
+      "x": 0.78,
+      "y": 0.35,
+      "largeur": 0.21,
+      "hauteur": 0.06
+    },
+    "lieu": "Djenné, Mali",
+    "source": "commons",
+    "auteur": "Albert Backer",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_Moschee(Dach)1990.jpg",
+    "statut": "validée",
+    "note": "Vérification : Meilleure vue rapprochée : trois torons bien visibles en saillie du mur, encadrés de près. Contre-vérification : Photo réelle d'une mosquée soudano-sahélienne en banco ; le rectangle encadre précisément trois pièces de bois fichées en saillie dans le mur : torons sans ambiguïté, bien lisibles."
+  },
+  {
+    "id": "toguna-02",
+    "termId": "toguna",
+    "fichier": "commons/toguna-02.webp",
+    "rectangle": {
+      "x": 0.22,
+      "y": 0.45,
+      "largeur": 0.64,
+      "hauteur": 0.36
+    },
+    "lieu": "Kani-Kombolé, Mali",
+    "source": "commons",
+    "auteur": "upyernoz from Haverford, USA",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Toguna,_Kani-Kombole_(6485121).jpg",
+    "statut": "validée",
+    "note": "Vérification : Toguna à piliers sculptés bien lisible ; rectangle pour isoler l'abri des enfants, du grand arbre et de la falaise. Contre-vérification : Photo réelle d'un toguna dogon au pied de la falaise de Bandiagara : piliers bas en bois sculptés portant un toit de tiges ; le rectangle cadre l'abri sans englober d'autre construction."
+  },
+  {
+    "id": "toguna-03",
+    "termId": "toguna",
+    "fichier": "commons/toguna-03.webp",
+    "rectangle": null,
+    "lieu": "Enndé, Mali",
+    "source": "commons",
+    "auteur": "upyernoz from Haverford, USA",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ende_Toguna_(6842550).jpg",
+    "statut": "validée",
+    "note": "Vérification : Toguna dominant et net ; couverture moins épaisse que 01 mais forme sans ambiguïté. Contre-vérification : Photo réelle d'un toguna dogon dominant le cadre : rangées de piliers bas en bois sculptés de figures portant une couverture de tiges de mil ; aucun autre terme de la catégorie ne convient."
+  },
+  {
+    "id": "grenier-dogon-04",
+    "termId": "grenier-dogon",
+    "fichier": "commons/grenier-dogon-04.webp",
+    "rectangle": {
+      "x": 0.18,
+      "y": 0.03,
+      "largeur": 0.66,
+      "hauteur": 0.67
+    },
+    "lieu": "Yugo, Mali",
+    "source": "commons",
+    "auteur": "Wouter van Beek",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Dogon_architecture_05_-_A_female_granary,_Yugo_1981.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grenier (femelle) caractéristique : socle surélevé, petites portes, toit conique ; rectangle pour écarter paniers, jarres et la case voisine à gauche. Contre-vérification : Photo réelle d'un grenier dogon en banco surélevé sur pierres, avec petites portes en bois et toit conique de paille ; le rectangle cadre tout le bâtiment, les chevilles de bois ne peuvent pas être prises pour la réponse."
+  },
+  {
+    "id": "case-a-impluvium-05",
+    "termId": "case-a-impluvium",
+    "fichier": "commons/case-a-impluvium-05.webp",
+    "rectangle": null,
+    "lieu": "Enampore, Sénégal",
+    "source": "commons",
+    "auteur": "Ji-Elle",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Enampor-Impluvium1.JPG",
+    "statut": "validée",
+    "note": "Vérification : Montre l'élément définissant : l'ouverture centrale du toit en entonnoir et le bassin de l'impluvium ; occupe toute l'image. Contre-vérification : Photo réelle de l'intérieur d'une case à impluvium diola : cour centrale circulaire avec bassin de recueil, couverture de chaume qui s'incline vers l'ouverture centrale et portes des chambres autour ; caractéristique et sans confusion possible avec la case ronde."
   }
 ]

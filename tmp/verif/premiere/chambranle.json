@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Rumesnil, France",
       "note": "Élément à peine visible et sans moulure identifiable ; le terme n'est qu'une hypothèse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Dessin d'architecte au crayon : profil de moulures d'un chambranle (Opéra Garnier).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dessin d'architecte : coupes et profils de moulures sur papier (Casino de Monte-Carlo).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Monaco",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Planche dessinée de Lequeu : profils de chambranles et élévation d'une porte d'armoire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Planche dessinée de Lequeu : élévation d'une porte à panneaux et profils de moulures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Planche dessinée de Lequeu : élévation d'une porte à panneaux et profils de moulures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Planche dessinée de Lequeu : profils de chambranles et plan/élévation d'une armoire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Dessin, pas une photo."
     }
   ]
 }

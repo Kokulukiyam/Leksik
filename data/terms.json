@@ -8,7 +8,7 @@
   {
     "id": "appui-de-fenetre",
     "terme": "l'appui de fenêtre",
-    "definition": "Partie horizontale qui forme le bas d'une fenêtre, souvent en saillie pour rejeter l'eau de pluie.",
+    "definition": "Tablette horizontale qui termine le bas d'une baie au-dessus de l'allège, souvent saillante et inclinée pour rejeter l'eau de pluie.",
     "categorie": "Façade et ouvertures"
   },
   {
@@ -20,7 +20,7 @@
   {
     "id": "meneau",
     "terme": "le meneau",
-    "definition": "Montant vertical fixe, en pierre ou en bois, qui divise une fenêtre en plusieurs parties.",
+    "definition": "Montant vertical fixe, en pierre ou en bois, qui divise une même fenêtre en plusieurs parties.",
     "categorie": "Façade et ouvertures"
   },
   {
@@ -32,7 +32,7 @@
   {
     "id": "tympan",
     "terme": "le tympan",
-    "definition": "Surface, souvent sculptée, comprise entre le linteau et l'arc qui surmontent une porte.",
+    "definition": "Surface, souvent sculptée, enclose entre le linteau et l'arc d'un portail, ou entre les corniches d'un fronton.",
     "categorie": "Façade et ouvertures"
   },
   {
@@ -62,7 +62,7 @@
   {
     "id": "imposte",
     "terme": "l'imposte",
-    "definition": "Partie vitrée, fixe ou ouvrante, située au-dessus d'une porte ou d'une fenêtre.",
+    "definition": "Partie haute, fixe ou ouvrante et souvent vitrée, d'une porte ou d'une fenêtre, séparée du reste par une traverse.",
     "categorie": "Façade et ouvertures"
   },
   {
@@ -86,7 +86,7 @@
   {
     "id": "moucharabieh",
     "terme": "le moucharabieh",
-    "definition": "Grillage de bois tourné à motifs, placé devant une fenêtre, qui permet de voir sans être vu.",
+    "definition": "Treillis de bois tourné, souvent en saillie devant une fenêtre, qui permet de voir sans être vu, typique de l'architecture arabe.",
     "categorie": "Façade et ouvertures"
   },
   {
@@ -111,7 +111,7 @@
     "id": "chaume",
     "terme": "le chaume",
     "definition": "Couverture de toit faite de paille, de roseaux ou d'herbes séchées.",
-    "categorie": "Toitures"
+    "categorie": "Matériaux et revêtements"
   },
   {
     "id": "shed",
@@ -134,7 +134,7 @@
   {
     "id": "colonne",
     "terme": "la colonne",
-    "definition": "Support vertical de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.",
+    "definition": "Support vertical isolé, de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.",
     "categorie": "Structure"
   },
   {
@@ -158,7 +158,7 @@
   {
     "id": "voute",
     "terme": "la voûte",
-    "definition": "Ouvrage de maçonnerie courbe qui couvre un espace, comme un plafond en forme d'arc.",
+    "definition": "Ouvrage de maçonnerie cintré qui couvre un espace, comme un arc prolongé dans la profondeur.",
     "categorie": "Structure"
   },
   {
@@ -170,7 +170,7 @@
   {
     "id": "coupole",
     "terme": "la coupole",
-    "definition": "Voûte hémisphérique ou ovoïde couvrant un espace, vue de l'intérieur.",
+    "definition": "Voûte en demi-sphère ou en calotte, élevée sur un plan circulaire, carré ou polygonal ; le mot désigne surtout sa face intérieure, l'extérieur étant le dôme.",
     "categorie": "Structure"
   },
   {
@@ -188,7 +188,7 @@
   {
     "id": "pilotis",
     "terme": "le pilotis",
-    "definition": "Ensemble de poteaux qui portent un bâtiment au-dessus du sol en laissant le rez-de-chaussée libre.",
+    "definition": "Ensemble de pieux ou de poteaux qui portent une construction au-dessus du sol ou de l'eau, en laissant libre le niveau inférieur.",
     "categorie": "Structure"
   },
   {
@@ -200,7 +200,7 @@
   {
     "id": "fronton",
     "terme": "le fronton",
-    "definition": "Couronnement triangulaire ou cintré qui surmonte une façade, une porte ou une fenêtre.",
+    "definition": "Couronnement triangulaire ou cintré, bordé de corniches, qui surmonte une façade, une porte ou une fenêtre.",
     "categorie": "Ornement"
   },
   {
@@ -248,7 +248,7 @@
   {
     "id": "frise",
     "terme": "la frise",
-    "definition": "Bande décorative horizontale, sculptée ou peinte, qui court le long d'un mur.",
+    "definition": "Bande horizontale ornée de motifs répétés ou de figures, sculptée ou peinte, qui court le long d'un mur ou entre l'architrave et la corniche d'un entablement.",
     "categorie": "Ornement"
   },
   {
@@ -290,7 +290,7 @@
   {
     "id": "beton-brut",
     "terme": "le béton brut",
-    "definition": "Béton laissé apparent tel qu'il sort du coffrage, avec la trace des planches.",
+    "definition": "Béton laissé apparent tel qu'il sort du coffrage, dont il garde l'empreinte.",
     "categorie": "Matériaux et revêtements"
   },
   {
@@ -302,7 +302,7 @@
   {
     "id": "ardoise",
     "terme": "l'ardoise",
-    "definition": "Pierre fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
+    "definition": "Roche schisteuse fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
     "categorie": "Matériaux et revêtements"
   },
   {
@@ -310,5 +310,29 @@
     "terme": "le carreau de ciment",
     "definition": "Carreau décoratif fait de ciment coloré pressé et séché, sans cuisson.",
     "categorie": "Matériaux et revêtements"
+  },
+  {
+    "id": "toron",
+    "terme": "le toron",
+    "definition": "Pièce de bois de rônier fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage.",
+    "categorie": "Afrique de l'Ouest"
+  },
+  {
+    "id": "toguna",
+    "terme": "le toguna",
+    "definition": "Abri de palabres du pays dogon, au toit très épais de tiges de mil posé sur des piliers bas.",
+    "categorie": "Afrique de l'Ouest"
+  },
+  {
+    "id": "grenier-dogon",
+    "terme": "le grenier dogon",
+    "definition": "Petit bâtiment en banco, coiffé d'un toit conique de paille, qui sert à stocker le mil.",
+    "categorie": "Afrique de l'Ouest"
+  },
+  {
+    "id": "case-a-impluvium",
+    "terme": "la case à impluvium",
+    "definition": "Grande habitation diola de Casamance dont le toit en entonnoir recueille l'eau de pluie au centre.",
+    "categorie": "Afrique de l'Ouest"
   }
 ]
