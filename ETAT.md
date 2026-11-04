@@ -25,9 +25,8 @@ terme, définition et catégorie).
   Reste : Afrique de l'Ouest.
 - **Intégration** : 52 termes, 90 images dans le jeu (avant Afrique de l'Ouest et seconde recherche).
 - **Seconde recherche** (`node scripts/commons.mjs --suite`, log `tmp/commons-suite.log`) : en cours pour les
-  termes qui ont un champ `requetes2` (sans image ou avec une seule). Si elle a été interrompue, la relancer :
-  elle saute… NON, elle ne saute pas les termes déjà complétés — vérifier dans chaque `meta.json` s'il y a déjà
-  des candidates 07+ et ne la relancer que pour les termes qui n'en ont pas (`node scripts/commons.mjs --suite <ids>`).
+  termes qui ont un champ `requetes2` (sans image ou avec une seule). Si elle a été interrompue, la relancer telle
+  quelle : les termes déjà traités (`"suite": true` dans leur `meta.json`) sont sautés.
   Ensuite : première vérification des candidates 07+ (en AJOUTANT les entrées au JSON du terme), puis
   contre-vérification des nouvelles validées (lot séparé, ex. `tmp/verif/contre/suite-*.json`), puis `integrer.mjs`.
 - **Relecture du contenu** : agent lancé sur `scripts/termes-candidats.json` (compte rendu prévu dans

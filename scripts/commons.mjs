@@ -111,7 +111,7 @@ async function main() {
     // --suite : seconde recherche avec « requetes2 », candidates ajoutées après celles déjà téléchargées.
     const suite = args.includes("--suite");
     const existant = await fs.readFile(path.join(dossier, "meta.json"), "utf8").then(JSON.parse, () => null);
-    if (suite ? !terme.requetes2 : existant && !args.includes("--refaire")) continue;
+    if (suite ? !terme.requetes2 || existant?.suite : existant && !args.includes("--refaire")) continue;
     const deja = suite ? (existant?.candidats ?? []) : [];
     await fs.mkdir(dossier, { recursive: true });
     // Requêtes dans l'ordre, jusqu'à avoir assez de candidates (pour économiser les appels à l'API),
@@ -146,7 +146,7 @@ async function main() {
         console.warn(`  ${terme.id}: téléchargement impossible (${c.titre}) : ${e.message}`);
       }
     }
-    await fs.writeFile(path.join(dossier, "meta.json"), JSON.stringify({ terme, candidats: meta }, null, 2));
+    await fs.writeFile(path.join(dossier, "meta.json"), JSON.stringify({ terme, candidats: meta, ...(suite || existant?.suite ? { suite: true } : {}) }, null, 2));
     console.log(`${terme.id}: ${meta.length - deja.length} candidates${suite ? " (seconde recherche)" : ""}`);
   }
 }
