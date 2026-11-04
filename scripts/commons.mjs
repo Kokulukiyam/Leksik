@@ -1,7 +1,7 @@
 // Cherche des images candidates sur Wikimedia Commons pour chaque terme et les télécharge
 // dans tmp/commons/<termId>/ avec leurs métadonnées (meta.json).
 //
-// Usage : NODE_USE_ENV_PROXY=1 node scripts/commons.mjs [termId ...] [--max=7]
+// Usage : NODE_USE_ENV_PROXY=1 node scripts/commons.mjs [termId ...] [--max=6] [--refaire]
 // (NODE_USE_ENV_PROXY n'est utile que derrière un proxy HTTP.)
 import { promises as fs } from "node:fs";
 import path from "node:path";
@@ -13,13 +13,21 @@ const UA = "LeksikBot/0.1 (outil local de vocabulaire architectural; usage perso
 const LARGEUR = 1280; // taille de vignette standard de Commons
 
 const args = process.argv.slice(2);
-const MAX = Number(args.find((a) => a.startsWith("--max="))?.slice(6) ?? 7);
+const MAX = Number(args.find((a) => a.startsWith("--max="))?.slice(6) ?? 6);
 const filtre = args.filter((a) => !a.startsWith("--"));
 
 const pause = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// Wikimedia limite les clients sans compte à ~10 requêtes/min (API et téléchargements) :
+// toutes les requêtes passent par cet espacement minimal.
+let dernierAppel = 0;
+const INTERVALLE = Number(process.env.INTERVALLE ?? 6500);
+
 async function requete(url, type = "json") {
   for (let essai = 0; essai < 6; essai++) {
+    const attente = dernierAppel + INTERVALLE - Date.now();
+    if (attente > 0) await pause(attente);
+    dernierAppel = Date.now();
     try {
       const rep = await fetch(url, { headers: { "User-Agent": UA } });
       const texte = type === "json" ? await rep.text() : null;
@@ -37,13 +45,7 @@ async function requete(url, type = "json") {
   throw new Error(`Échec : ${url}`);
 }
 
-let dernierAppel = 0;
-const INTERVALLE_API = Number(process.env.INTERVALLE_API ?? 6500); // ~10 requêtes/min sans compte
-
 async function api(params) {
-  const attente = dernierAppel + INTERVALLE_API - Date.now();
-  if (attente > 0) await pause(attente);
-  dernierAppel = Date.now();
   const u = new URL(API);
   for (const [k, v] of Object.entries({ format: "json", formatversion: "2", ...params })) u.searchParams.set(k, v);
   return requete(u);
@@ -98,6 +100,7 @@ async function main() {
   const choisis = filtre.length ? termes.filter((t) => filtre.includes(t.id)) : termes;
   for (const terme of choisis) {
     const dossier = path.join(SORTIE, terme.id);
+    if (!args.includes("--refaire") && (await fs.stat(path.join(dossier, "meta.json")).catch(() => null))) continue;
     await fs.mkdir(dossier, { recursive: true });
     // Résultats de chaque requête, puis sélection alternée pour varier les sources.
     const listes = [];
@@ -125,7 +128,6 @@ async function main() {
       } catch (e) {
         console.warn(`  ${terme.id}: téléchargement impossible (${c.titre}) : ${e.message}`);
       }
-      await pause(250);
     }
     await fs.writeFile(path.join(dossier, "meta.json"), JSON.stringify({ terme, candidats: meta }, null, 2));
     console.log(`${terme.id}: ${meta.length} candidates`);

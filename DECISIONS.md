@@ -1,0 +1,24 @@
+# Décisions prises en autonomie
+
+- Next.js 16 (App Router) + React 19 + Tailwind 4 ; TypeScript 5 (TypeScript 7 n'est pas encore pris en charge par Next).
+- Pas d'ESLint ni de framework de test dans le projet, pour limiter les dépendances ; les tests de bout en bout utilisent le Playwright déjà installé sur la machine de développement.
+- `sharp` est la seule dépendance ajoutée : redimensionnement en WebP (largeur max 1600 px) côté serveur, ce qui marche aussi avec les photos de téléphone (Safari ne sait pas encoder le WebP dans un canvas).
+- Module d'accès aux données : `lib/data.ts` (lecture/écriture des JSON et des fichiers image). `lib/shared.ts` ne contient que les types et des fonctions pures utilisables dans le navigateur.
+- Les écritures JSON sont sérialisées et atomiques (fichier temporaire puis renommage) pour éviter de corrompre les fichiers.
+- Champ `fichier` : chemin relatif à `public/images/` (ex. `commons/linteau-02.webp`). Champ du lien source : `lienSource`.
+- Auteur de mes photos : « Moi », licence « Photo personnelle ».
+- Le serveur de dev écoute sur `0.0.0.0` et `allowedDevOrigins` autorise les adresses de réseau local (192.168.x.x, 10.x.x.x, 172.x.x.x), sinon Next 16 bloque le téléphone.
+- L'indicateur de développement de Next et la génération d'`AGENTS.md` sont désactivés.
+- Partie : les 10 images sont tirées en variant le plus possible les termes (un même terme ne revient que si la catégorie en a moins de 10).
+- Mauvaises réponses : 3 termes de la même catégorie ; si la catégorie en compte moins de 4, on complète avec d'autres catégories. Les termes sans image peuvent servir de mauvaise réponse.
+- « Revoir mes erreurs » : une manche par terme raté, avec une image de ce terme tirée au hasard (pas forcément la même).
+- La partie en cours (manches, réponses) est gardée dans `localStorage` ; elle est abandonnée si une image a été supprimée ou refusée entre-temps.
+- Ajouter : la proposition d'un terme proche se fait par distance d'édition (1 pour les mots courts, 2 sinon), sans accents, majuscules ni article. Le terme proche est proposé, mais on peut quand même créer un nouveau terme.
+- Gérer : « Refuser » devient « Valider » sur une image refusée (retour possible). La suppression demande confirmation et efface aussi le fichier.
+- Gérer : la modification du terme se fait parmi les termes existants (un nouveau terme se crée depuis Ajouter).
+- Images Commons : vignettes de 1280 px (taille standard servie par Commons), photos JPEG uniquement, au moins 900 × 600 px, dessins, plans, gravures, peintures et images générées par IA exclus par le script.
+- L'API Commons limite les clients sans compte à environ 10 requêtes par minute : le script espace toutes ses requêtes de 6,5 s et reprend là où il s'était arrêté.
+- Première vérification : jusqu'à 3 images validées par terme, pour absorber les refus de la contre-vérification (objectif : 2 images par terme).
+- Les images rejetées par l'une des deux vérifications ne sont pas copiées dans le projet et n'apparaissent pas dans `images.json` ; elles sont documentées dans `VERIFICATION.md`.
+- `terms.json` ne contient que les termes illustrés par au moins une image retenue (plus ceux créés depuis Ajouter).
+- Les outils de vérification visuelle (`scripts/verif/outils.py`, planches et rectangles dessinés) utilisent Python/Pillow ; ils ne servent qu'à la préparation du contenu, pas à l'app.
