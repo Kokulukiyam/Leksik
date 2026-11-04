@@ -14,7 +14,7 @@
   "id": "appui-de-fenetre",
   "terme": "l'appui de fenêtre",
   "categorie": "Façade et ouvertures",
-  "definition": "Partie horizontale qui forme le bas d'une fenêtre, souvent en saillie pour rejeter l'eau de pluie.",
+  "definition": "Tablette horizontale qui termine le bas d'une baie au-dessus de l'allège, souvent saillante et inclinée pour rejeter l'eau de pluie.",
   "requetes": [
    "incategory:\"Window sills\"",
    "stone window sill"
@@ -35,7 +35,7 @@
   "id": "meneau",
   "terme": "le meneau",
   "categorie": "Façade et ouvertures",
-  "definition": "Montant vertical fixe, en pierre ou en bois, qui divise une fenêtre en plusieurs parties.",
+  "definition": "Montant vertical fixe, en pierre ou en bois, qui divise une même fenêtre en plusieurs parties.",
   "requetes": [
    "deepcat:\"Mullioned windows\"",
    "incategory:\"Mullions\"",
@@ -89,7 +89,7 @@
   "id": "tympan",
   "terme": "le tympan",
   "categorie": "Façade et ouvertures",
-  "definition": "Surface, souvent sculptée, comprise entre le linteau et l'arc qui surmontent une porte.",
+  "definition": "Surface, souvent sculptée, enclose entre le linteau et l'arc d'un portail, ou entre les corniches d'un fronton.",
   "requetes": [
    "tympanum portal sculpture",
    "tympan portail",
@@ -157,7 +157,7 @@
   "id": "imposte",
   "terme": "l'imposte",
   "categorie": "Façade et ouvertures",
-  "definition": "Partie vitrée, fixe ou ouvrante, située au-dessus d'une porte ou d'une fenêtre.",
+  "definition": "Partie haute, fixe ou ouvrante et souvent vitrée, d'une porte ou d'une fenêtre, séparée du reste par une traverse.",
   "requetes": [
    "incategory:\"Fanlights\"",
    "incategory:\"Transom windows\"",
@@ -205,7 +205,7 @@
   "id": "moucharabieh",
   "terme": "le moucharabieh",
   "categorie": "Façade et ouvertures",
-  "definition": "Grillage de bois tourné à motifs, placé devant une fenêtre, qui permet de voir sans être vu.",
+  "definition": "Treillis de bois tourné, souvent en saillie devant une fenêtre, qui permet de voir sans être vu, typique de l'architecture arabe.",
   "requetes": [
    "incategory:\"Mashrabiya\"",
    "mashrabiya"
@@ -225,7 +225,7 @@
   "id": "acrotere",
   "terme": "l'acrotère",
   "categorie": "Toitures",
-  "definition": "Muret qui borde une toiture-terrasse et en dépasse le niveau.",
+  "definition": "Muret en rive d'une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l'étanchéité.",
   "requetes": [
    "acrotère toiture terrasse",
    "flat roof parapet modern building"
@@ -280,7 +280,7 @@
  {
   "id": "chaume",
   "terme": "le chaume",
-  "categorie": "Toitures",
+  "categorie": "Matériaux et revêtements",
   "definition": "Couverture de toit faite de paille, de roseaux ou d'herbes séchées.",
   "requetes": [
    "incategory:\"Thatched roofs\"",
@@ -346,7 +346,7 @@
   "id": "colonne",
   "terme": "la colonne",
   "categorie": "Structure",
-  "definition": "Support vertical de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.",
+  "definition": "Support vertical isolé, de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.",
   "requetes": [
    "incategory:\"Columns\"",
    "colonnade columns"
@@ -402,7 +402,7 @@
   "id": "voute",
   "terme": "la voûte",
   "categorie": "Structure",
-  "definition": "Ouvrage de maçonnerie courbe qui couvre un espace, comme un plafond en forme d'arc.",
+  "definition": "Ouvrage de maçonnerie cintré qui couvre un espace, comme un arc prolongé dans la profondeur.",
   "requetes": [
    "incategory:\"Barrel vaults\"",
    "barrel vault interior",
@@ -428,7 +428,7 @@
   "id": "coupole",
   "terme": "la coupole",
   "categorie": "Structure",
-  "definition": "Voûte hémisphérique ou ovoïde couvrant un espace, vue de l'intérieur.",
+  "definition": "Voûte en demi-sphère ou en calotte, élevée sur un plan circulaire, carré ou polygonal ; le mot désigne surtout sa face intérieure, l'extérieur étant le dôme.",
   "requetes": [
    "deepcat:\"Interiors of domes\"",
    "dome interior view"
@@ -474,7 +474,7 @@
   "id": "pilotis",
   "terme": "le pilotis",
   "categorie": "Structure",
-  "definition": "Ensemble de poteaux qui portent un bâtiment au-dessus du sol en laissant le rez-de-chaussée libre.",
+  "definition": "Ensemble de pieux ou de poteaux qui portent une construction au-dessus du sol ou de l'eau, en laissant libre le niveau inférieur.",
   "requetes": [
    "incategory:\"Pilotis\"",
    "pilotis Le Corbusier"
@@ -499,7 +499,7 @@
   "id": "bandeau",
   "terme": "le bandeau",
   "categorie": "Ornement",
-  "definition": "Bande horizontale peu saillante, lisse ou moulurée, qui marque les niveaux d'une façade.",
+  "definition": "Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.",
   "requetes": [
    "deepcat:\"String courses\"",
    "string course facade"
@@ -514,7 +514,7 @@
   "id": "fronton",
   "terme": "le fronton",
   "categorie": "Ornement",
-  "definition": "Couronnement triangulaire ou cintré qui surmonte une façade, une porte ou une fenêtre.",
+  "definition": "Couronnement triangulaire ou cintré, bordé de corniches, qui surmonte une façade, une porte ou une fenêtre.",
   "requetes": [
    "incategory:\"Pediments\"",
    "pediment temple facade"
@@ -626,7 +626,7 @@
   "id": "frise",
   "terme": "la frise",
   "categorie": "Ornement",
-  "definition": "Bande décorative horizontale, sculptée ou peinte, qui court le long d'un mur.",
+  "definition": "Bande horizontale ornée de motifs répétés ou de figures, sculptée ou peinte, qui court le long d'un mur ou entre l'architrave et la corniche d'un entablement.",
   "requetes": [
    "incategory:\"Friezes\"",
    "frieze sculpted"
@@ -712,7 +712,7 @@
   "id": "beton-brut",
   "terme": "le béton brut",
   "categorie": "Matériaux et revêtements",
-  "definition": "Béton laissé apparent tel qu'il sort du coffrage, avec la trace des planches.",
+  "definition": "Béton laissé apparent tel qu'il sort du coffrage, dont il garde l'empreinte.",
   "requetes": [
    "béton brut",
    "board-formed concrete wall",
@@ -738,7 +738,7 @@
   "id": "ardoise",
   "terme": "l'ardoise",
   "categorie": "Matériaux et revêtements",
-  "definition": "Pierre fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
+  "definition": "Roche schisteuse fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
   "requetes": [
    "incategory:\"Slate roofs\"",
    "slate roof"
@@ -796,7 +796,7 @@
   "id": "pise",
   "terme": "le pisé",
   "categorie": "Matériaux et revêtements",
-  "definition": "Mur en terre crue compactée par couches successives dans un coffrage.",
+  "definition": "Terre crue compactée par couches successives dans un coffrage pour former des murs massifs.",
   "requetes": [
    "incategory:\"Rammed earth\"",
    "pisé mur",
@@ -823,7 +823,7 @@
   "id": "toron",
   "terme": "le toron",
   "categorie": "Afrique de l'Ouest",
-  "definition": "Pièce de bois fichée dans les murs des mosquées soudano-sahéliennes, servant d'appui lors du recrépissage.",
+  "definition": "Pièce de bois de rônier fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage.",
   "requetes": [
    "Great Mosque of Djenné",
    "toron mosque Mali",

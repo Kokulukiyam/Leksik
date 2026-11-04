@@ -1,0 +1,53 @@
+{
+  "termId": "banco",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Talus herbeux au bord d'un fossé, en lisière de forêt de bouleaux et d'épicéas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lituanie",
+      "note": "Hors sujet : « Banko kanalas » est un canal lituanien, aucune construction en terre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Canal étroit bordé de roseaux dans un paysage de tourbière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lituanie",
+      "note": "Hors sujet : canal lituanien (homonymie), pas de banco."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fossé en eau entre deux berges herbeuses, bouleaux à l'arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lituanie",
+      "note": "Hors sujet : canal lituanien (homonymie), pas de banco."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chemin de terre sur une digue herbeuse longeant un bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lituanie",
+      "note": "Hors sujet : canal lituanien (homonymie), pas de banco."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Route asphaltée franchissant un pont à glissières, panneau bleu « Banko kanalas ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lituanie",
+      "note": "Hors sujet : pont routier sur un canal lituanien, panneau portant le mot."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Canal rectiligne bordé de bouleaux sous un ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lituanie",
+      "note": "Hors sujet : canal lituanien (homonymie), pas de banco."
+    }
+  ]
+}

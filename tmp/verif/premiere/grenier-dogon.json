@@ -1,0 +1,53 @@
+{
+  "termId": "grenier-dogon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Intérieur sombre d'un grenier : compartiments en terre, perche de bois et taches de soleil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue intérieure illisible, forte contre-lumière ; le grenier n'est pas reconnaissable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Haut volume cylindrique en terre à toit conique de paille, à contre-jour, dans une ruelle bordée de murets de pierre ; deux hommes à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djiguibombo, Mali",
+      "note": "Contre-jour sombre ; sans socle ni petite porte visibles, impossible de le distinguer d'une case ronde."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Volet de grenier en bois sculpté exposé dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Francisco, États-Unis",
+      "note": "Objet de musée (volet), pas le grenier."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grenier en banco à toit conique de paille, petites portes de bois en hauteur, posé sur un socle de pierres, falaise en arrière-plan.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.18, "y": 0.03, "largeur": 0.66, "hauteur": 0.67 },
+      "lieu": "Yugo, Mali",
+      "note": "Grenier (femelle) caractéristique : socle surélevé, petites portes, toit conique ; rectangle pour écarter paniers, jarres et la case voisine à gauche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Homme dans l'ouverture d'un grenier tendant des épis à une femme, avec un panier ; un toit conique au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tireli, Mali",
+      "note": "Scène de vie ; le grenier n'est montré que par un pan de mur, non identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneau de bois sculpté d'une figure, sur fond bleu de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belgrade, Serbie",
+      "note": "Objet de musée (décor de grenier), pas le bâtiment."
+    }
+  ]
+}

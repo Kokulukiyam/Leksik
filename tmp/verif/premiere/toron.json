@@ -1,0 +1,53 @@
+{
+  "termId": "toron",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue d'ensemble de la Grande Mosquée de Djenné de trois quarts, un arbre au premier plan à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djenné, Mali",
+      "note": "Torons trop petits à cette échelle ; l'image montre surtout le bâtiment entier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande Mosquée de Djenné vue de l'angle, derrière son mur d'enceinte, moutons couchés au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djenné, Mali",
+      "note": "Bâtiment entier, torons minuscules ; 04 et 03 sont plus lisibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade principale de la Grande Mosquée de Djenné, tours hérissées de pièces de bois saillantes, homme à vélo au premier plan.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.375, "y": 0.30, "largeur": 0.12, "hauteur": 0.12 },
+      "lieu": "Djenné, Mali",
+      "note": "Rangées de torons nettes avec leurs ombres portées ; le rectangle isole un groupe de torons sur la tour centrale (et non le bâtiment)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Toit de la Grande Mosquée de Djenné : pinacles en banco dont émergent de grosses pièces de bois saillantes, vues de près.",
+      "verdict": "validée",
+      "rectangle": { "x": 0.78, "y": 0.35, "largeur": 0.21, "hauteur": 0.06 },
+      "lieu": "Djenné, Mali",
+      "note": "Meilleure vue rapprochée : trois torons bien visibles en saillie du mur, encadrés de près."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grande Mosquée de Djenné au-dessus du marché coloré du lundi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djenné, Mali",
+      "note": "Marché dominant, torons trop petits."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Silhouette de la mosquée de Djenné vue de loin au-dessus des toits-terrasses de la ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djenné, Mali",
+      "note": "Prise de loin, torons peu nombreux et petits ; c'est la mosquée qui est montrée."
+    }
+  ]
+}
