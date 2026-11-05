@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pathologie ; pourrait être pris pour une colonne."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Démolition d'un bâtiment, piliers gris au milieu des gravats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de ruine confuse, éléments peu lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur maya en pierre sous un toit de palmes porté par des poteaux en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poteaux secondaires, ruine archéologique ; non clair."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Béton brut de Le Corbusier : colonne ronde sous une poutre, mur jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Support rond évoquant colonne/pilotis ; pas un poteau typique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rangée de colonnes en pierre sur site maya.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colonnes antiques, pas des poteaux."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Galerie couverte soutenue par des fûts ronds revêtus, panneau devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Supports ronds ambigus (colonne), panneau visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chapiteau ionique antique sur un fût cannelé, Delphes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colonne, pas un poteau."
     }
   ]
 }

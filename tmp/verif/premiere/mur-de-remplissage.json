@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Leybourne, Kent",
       "note": "Hors sujet, image retouchée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de briques avec fenêtre à encadrement rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de façade ordinaire, remplissage non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Femme enceinte devant l'entrée d'un immeuble de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bâtiment ancien en briques avec arcade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ruine de mur en briques percée d'une ouverture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de briques orange autour d'un volet métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de structure visible, remplissage non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur couvert de vigne vierge rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

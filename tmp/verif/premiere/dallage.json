@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pavillon préfabriqué en panneaux de façade à fenêtres, exposition en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux de façade, pas un dallage."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Panneau de façade en béton debout dans une exposition, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un dallage."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Militaire qui lisse à la truelle une grande surface de béton frais sous un coffrage en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher coulé en hauteur sous coffrage : dalle ou chape possible, pas un dallage sûr."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chantier avec ferraillage et coffrages, vue lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément non clair, ferraillage dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pose de panneaux de béton sur un tablier de pont métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tablier de pont, pas un dallage."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plafond en béton à caissons losangés vu de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher nervuré vu en sous-face, pas un dallage."
     }
   ]
 }

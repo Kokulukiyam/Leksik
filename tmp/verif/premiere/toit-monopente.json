@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Toit à plusieurs versants."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ancienne ferme en brique, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit à pignon, pas monopente."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Auvent lumineux d'un cinéma.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Usine textile avec toits en sheds.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sheds, terme voisin."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Abri en rondins peints en rouge, couvert d'un unique versant en tôle.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Suède",
+      "note": "Un seul versant incliné, net et dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Halle de marché intérieure à charpente métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Église à toit à deux versants enneigés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas monopente."
     }
   ]
 }

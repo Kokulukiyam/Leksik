@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Idem."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Halle dévastée par une tornade, ossature métallique tordue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruine confuse, portique non lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan sur une surface rouge striée en toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Débris de hall et voitures écrasées après la tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruine, pas de portique lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Convoyeur sur supports métalliques, esplanade en gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Supports de convoyeur, pas un portique clair."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison d'habitation moderne à toit zinc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pylône en treillis métallique d'un pont suspendu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pylône treillis, pas un portique."
     }
   ]
 }

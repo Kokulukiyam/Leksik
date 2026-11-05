@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Militaire lissant du béton sur une grande dalle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle coulée, pas de hourdis."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Panneau de façade préfabriqué, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petit pavillon d'exposition en blocs, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Dalles préfabriquées posées sur tablier de pont métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalles de pont, pas de hourdis."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Dalle sculptée assyrienne sur le sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue aérienne de grandes dalles préfabriquées sur chantier de pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prédalles, pas hourdis."
     }
   ]
 }

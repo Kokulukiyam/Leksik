@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Socle de monument, pas soubassement de façade."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Colonne peinte posée sur sa base dans un atelier.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Piédestal de statue en pierre devant une église.",
+      "verdict": "rejetée",
+      "note": "Piédestal, pas le soubassement d'une façade.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petit piédestal de marbre dans une niche.",
+      "verdict": "rejetée",
+      "note": "Piédestal, pas un soubassement de façade.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Monument à arcade surmonté d'une statue, au milieu d'une place.",
+      "verdict": "rejetée",
+      "note": "Monument, pas un soubassement de façade.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Angle d'un socle laqué à décor floral doré.",
+      "verdict": "rejetée",
+      "note": "Objet décoratif, pas une façade.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Assises de pierre en ruine devant une ville.",
+      "verdict": "rejetée",
+      "note": "Ruine, pas un soubassement de façade.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

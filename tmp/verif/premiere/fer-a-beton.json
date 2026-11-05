@@ -16,6 +16,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Document imprimé, pas une photo de l'élément."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrier assemblant des armatures sur un chantier, nappe de treillis au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier confuse, plutôt ferraillage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Barres de métaux divers sur un râtelier d'atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres lisses non béton."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Barres HA rouillées coudées en L, très rapprochées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres coudées : peut évoquer crochet d'armature ou armature en attente."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvriers préparant une poutre en acier à la grue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Militaire portant un fagot de barres pliées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres peu lisibles, tenues à la main."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Barres d'acier inox poli, section ronde et carrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres lisses métallurgiques, pas des fers à béton."
     }
   ]
 }

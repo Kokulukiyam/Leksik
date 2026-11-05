@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sujet principal est la dalle, pas une poutre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafond d'une grande salle avec nervures blanches parallèles au-dessus de baies cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut être des solives ou nervures ; ambigu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pignon d'immeuble avec balcon porté par une console sculptée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Console, pas poutre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chantier de fondations avec ferraillage et longrine béton au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments multiples, longrine possible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photo ancienne en noir et blanc : ouvriers et poutre béton levée à la grue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, poutre préfabriquée mais scène chargée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Balcon d'immeuble sur console sculptée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Console, pas poutre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de béton fissuré avec armature rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une poutre."
     }
   ]
 }

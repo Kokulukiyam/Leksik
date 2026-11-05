@@ -32,6 +32,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Peinture, sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Angle d'un conteneur en tôle galvanisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvriers grutant des éléments préfabriqués en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments préfabriqués, pas de béton de propreté."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Engrenages rouillés d'une cimenterie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Macrophotographie de béton à gros granulats colorés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pilier de béton lavé à gravillons apparents.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton désactivé, pas béton de propreté."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Traces de chaussures sur un sol de béton sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol quelconque, rien ne montre une couche de propreté."
     }
   ]
 }

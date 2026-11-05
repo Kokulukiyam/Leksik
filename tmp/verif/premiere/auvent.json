@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas d'auvent clairement visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petit bateau à moteur avec bimini bleu-vert au-dessus des passagers.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Terrasse de café avec store en toile au coin d'une rue piétonne.",
+      "verdict": "rejetée",
+      "note": "Store banne, terme voisin.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tentes de cérémonie colorées avec assemblée sous un mât.",
+      "verdict": "rejetée",
+      "note": "Tentes, pas un auvent.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petit toit de tôle bordeaux au-dessus d'une double porte d'église en brique, avec banderoles et panneau d'affichage.",
+      "verdict": "rejetée",
+      "note": "Auvent possible mais bord festonné évoquant un store de toile, nombreux textes et banderoles : doute.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Femmes dansant sous une tente colorée.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ancienne photo sépia d'un bâtiment à arcades.",
+      "verdict": "rejetée",
+      "note": "Image ancienne, pas d'auvent.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

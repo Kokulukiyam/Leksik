@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Dubaï",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Village de montagne aux toits plats en terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toits en terre, pas de membrane."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Hamac dans une terrasse sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toit plat d'immeuble avec antennes et équipements.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène chargée, membrane peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Surface grise fissurée avec évent et deux moineaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement peu identifiable, oiseaux et évent dominants."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Toit végétalisé de bâtiment bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture végétalisée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue aérienne de terrasses agricoles et dalle de roche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

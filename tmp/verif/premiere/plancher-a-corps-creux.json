@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafond décoré d'un hammam avec lanterneau en nid d'abeilles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Carrière, petit bâtiment en pierre rouge au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plaque d'acier de trottoir gravée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fouille en carrière avec bâches et coffrages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Sol en verre d'un patio vitré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Passage taillé dans un grès rouge en carrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

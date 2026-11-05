@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Covington, Kentucky, États-Unis",
       "note": "Aucun linteau coulé en place identifiable ; photo hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Porte ancienne avec plaques et inscription gravée au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Linteau en pierre."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Publicité ancienne imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Imprimé."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vue aérienne d'un chantier de centrale avec coffrages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Linteau de pierre armorié réemployé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Linteau en pierre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Deux photos anciennes de chantier de pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Voile en béton armé en construction avec ferraillage et ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de linteau identifiable."
     }
   ]
 }

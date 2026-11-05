@@ -24,6 +24,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Garde-corps trop petit, de type fonte ornementée ; confusion avec fer forgé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche gravée de balustres de pieds de meuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas un garde-corps."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plate-forme d'observation en acier galvanisé dont le garde-corps a des barreaux verticaux fins entre lisses et main courante en bois.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.16,
+        "largeur": 0.85,
+        "hauteur": 0.27
+      },
+      "lieu": "Barcelone, Espagne",
+      "note": "Barreaudage métallique vertical net ; rectangle sur la plate-forme haute, hors graffiti."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Balcons d'immeuble en bord de mer avec garde-corps en fer à courbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barreaux courbes décoratifs, type fer forgé."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Lucarne en pierre sculptée avec balustrade à balustres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balustrade en pierre."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Détail d'une rampe ancienne, main courante usée sur fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fer forgé, flou, pas un barreaudage."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Balcon à garde-corps en fer forgé ondulé orné de pots.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fer forgé décoratif."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Rixö, Suède",
       "note": "Panneaux soudés à mailles régulières, typiques du treillis soudé pour dalles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Extrémités de barres HA vues de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de maille soudée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Militaire portant des barres pliées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Panneaux de treillis soudé HA rouillés empilés, vue en perspective rasante avec barres longitudinales et transversales soudées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maille soudée orthogonale bien lisible ; typique du treillis soudé."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ferraillage de mur en bord de route avec poteaux de signalisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cage de mur, pas un panneau de treillis."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tas de fers tordus dans des gravats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Démolition."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ferraillage d'un voile de mur en bord de route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferraillage de voile, treillis non isolé."
     }
   ]
 }

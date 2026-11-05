@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Image confuse, équipements techniques dominants."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Auvent lumineux d'un cinéma, vu depuis le trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Auvent, pas une toiture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Intérieur d'une maison traditionnelle sous charpente de roseaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, pas la toiture vue de l'extérieur."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Terrasse en terre d'une maison de montagne avec objets épars.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit plat en terre, confus."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Peinture d'Egon Schiele : maison au toit de bardeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petite maison en bois bleu coiffée d'un toit de chaume à croupes avec une souche de cheminée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.21,
+        "y": 0.1,
+        "largeur": 0.71,
+        "hauteur": 0.31
+      },
+      "lieu": "Kosa, région de Rostov, Russie",
+      "note": "Toiture entière clairement visible ; rectangle sur la couverture."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit garage à toit monopente devant une chaumière à l'arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture peu lisible, ambiguë."
     }
   ]
 }

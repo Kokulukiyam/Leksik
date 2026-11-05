@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Cordon non visible, image sombre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Marine qui découpe un bidon au chalumeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Découpe, pas d'assemblage soudé visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Photo ancienne en noir et blanc : ouvriers coupant un tuyau au chalumeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, découpe."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Forgeron qui soude des pièces, étincelles, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cordon invisible, scène sombre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Atelier d'apprentissage de la soudure, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes, pas de soudure lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan sur la découpe d'un bidon au chalumeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Découpe, pas un assemblage."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Soudeur en action avec masque, gerbe d'étincelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Acte de souder, cordon non visible."
     }
   ]
 }

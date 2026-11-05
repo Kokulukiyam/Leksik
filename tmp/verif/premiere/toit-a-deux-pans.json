@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Toit à croupe, trop petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chapelle en brique dont la nef est couverte d'un toit à deux versants de tuiles, pignon à gauche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.22,
+        "largeur": 0.56,
+        "hauteur": 0.31
+      },
+      "lieu": "Cariló, Argentine",
+      "note": "Deux versants et pignon nets ; rectangle sur le toit principal."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Auvent lumineux d'un cinéma.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maison en bois à étage d'angle, toit en tôle à deux versants et pignon triangulaire bien visibles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Charleston, États-Unis",
+      "note": "Toit à deux pans très lisible, photo claire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photographie ancienne d'une maison en rondins, noir et blanc rayé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne plaque abîmée, peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petit abri en bois abritant un distributeur, toit à deux pans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Distributeur et texte dominants."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Toit de tuiles vu de dessus sur une flèche de cuivre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Versant seul, pas deux pans."
     }
   ]
 }

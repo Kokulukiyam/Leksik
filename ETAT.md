@@ -48,7 +48,7 @@ chances de croiser sur un chantier (génériques et précis) ; parties toujours 
   « à vérifier (1re) » ; les agents ne vérifient que les candidates absentes du JSON.
 - Restent à traiter ensuite : les 10 termes « sans candidate ».
 - Limite d'utilisation Claude atteinte trois fois : reprendre les agents interrompus avec SendMessage.
-- État : `python3 scripts/avancement.py`. Jeu au 5 nov. 4 h : 229 termes, 342 images.
+- État : `python3 scripts/avancement.py`. Jeu au 5 nov. après-midi : 389 termes, 592 images ; lots p-001 à p-064 et v2-001 à v2-015 faits.
 
 ## Rappels
 

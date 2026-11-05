@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Armatures seules, légende de texte donnant la réponse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panneau de façade béton debout dans une exposition, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une dalle horizontale."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Élément béton préfabriqué avec armatures en attente sur gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poutre/élément préfabriqué, pas une dalle claire."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sous-face d'un plafond en béton à caissons losangés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "C'est une dalle caissonnée, pas une dalle simple."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bâtiment à coffrages en aluminium, ouvriers sur le toit, armatures en attente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage de murs, dalle non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pavillon préfabriqué à panneaux, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une dalle."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Salle d'exposition avec lettres « Hormigón armado ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte, pas une dalle."
     }
   ]
 }

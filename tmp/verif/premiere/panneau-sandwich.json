@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Louisa, Virginie, États-Unis",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Schéma technique allemand de section de sandwich.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Schéma, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Panneaux solaires devant un bâtiment cuivré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux photovoltaïques."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvriers posant un grand panneau blanc dans un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes dominantes, panneau non identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Techniciens manipulant une armoire électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvrier tronçonnant un panneau isolant à âme minérale posé à terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrier, grue et échelle dominants ; âme minérale, ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bâtiment bas en pleine nature avec capteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

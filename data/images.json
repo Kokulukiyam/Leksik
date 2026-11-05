@@ -5386,6 +5386,55 @@
     "note": "Vérification : Gâchage à la main, autre cadrage de la scène, lisible. Contre-vérification : Même scène vue autrement : mélange au sol de mortier et d'eau à la truelle, gâchage évident."
   },
   {
+    "id": "trou-de-boulin-01",
+    "termId": "trou-de-boulin",
+    "fichier": "commons/trou-de-boulin-01.webp",
+    "rectangle": {
+      "x": 0.23,
+      "y": 0.53,
+      "largeur": 0.31,
+      "hauteur": 0.12
+    },
+    "lieu": "Saint-Avit-Sénieur, France",
+    "source": "commons",
+    "auteur": "Jochen Jahnke",
+    "licence": "GFDL 1.2",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:F08.St.-Avit-S%C3%A9nieur.0028.jpg",
+    "statut": "validée",
+    "note": "Vérification : Trous de boulin nets dans un mur appareillé ; rectangle sur une rangée. Contre-vérification : Mur en pierre de taille percé de petits trous carrés alignés ; le rectangle encadre une rangée de trous de boulin typiques."
+  },
+  {
+    "id": "trou-de-boulin-05",
+    "termId": "trou-de-boulin",
+    "fichier": "commons/trou-de-boulin-05.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.27,
+      "largeur": 0.46,
+      "hauteur": 0.21
+    },
+    "lieu": "Château de Cardiff, Pays de Galles",
+    "source": "commons",
+    "auteur": "Wolfgang Sauber",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cardiff_castle_-_Keep_8a_Innenraum_Balkenl%C3%B6cher.jpg",
+    "statut": "validée",
+    "note": "Vérification : Deux trous de boulin lisibles dans un mur ancien ; rectangle sur eux. Contre-vérification : Mur ancien en moellons avec deux cavités rectangulaires alignées, désignées par le rectangle : trous de boulin plausibles et lisibles."
+  },
+  {
+    "id": "chape-liquide-04",
+    "termId": "chape-liquide",
+    "fichier": "commons/chape-liquide-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Southern Liquid Screed",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:LiquidScreed.jpg",
+    "statut": "validée",
+    "note": "Vérification : Surface autonivelante très lisse, typique d'une chape liquide. Contre-vérification : Sol de chantier fraîchement coulé, fluide, parfaitement plan et miroitant : chape liquide autonivelante typique."
+  },
+  {
     "id": "sable-03",
     "termId": "sable",
     "fichier": "commons/sable-03.webp",
@@ -5423,6 +5472,32 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:16000_PSI_Concrete_Beam_Post-Tensioned.jpg",
     "statut": "validée",
     "note": "Vérification : Poutre béton horizontale clairement dominante. Contre-vérification : Poutre préfabriquée en béton précontraint sur son banc, élément horizontal massif et dominant, avec torons et attentes en tête secondaires."
+  },
+  {
+    "id": "dalle-caissonnee-02",
+    "termId": "dalle-caissonnee",
+    "fichier": "commons/dalle-caissonnee-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Frank Vincentz",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gummersbach_-_Sankt_Franziskus_in_02_ies.jpg",
+    "statut": "validée",
+    "note": "Vérification : Dalle caissonnée en béton, nervures croisées, très claire. Contre-vérification : Sous-face de dalle béton à caissons carrés formés par des nervures croisées, très lisible."
+  },
+  {
+    "id": "dalle-champignon-03",
+    "termId": "dalle-champignon",
+    "fichier": "commons/dalle-champignon-03.webp",
+    "rectangle": null,
+    "lieu": "Heerlen, Pays-Bas",
+    "source": "commons",
+    "auteur": "Kris Roderburg",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Interieur,_gebouw_tijdens_restauratie,_doorzicht_etage_(zonder_glazen_gevels_of_ramen)_-_Heerlen_-_20001061_-_RCE.jpg",
+    "statut": "validée",
+    "note": "Vérification : Dalle champignon très lisible, têtes de poteaux évasées. Contre-vérification : Photo N&B d'un plancher sans poutres porté par des poteaux à tête évasée en champignon : exemple clair."
   },
   {
     "id": "pilier-04",
@@ -5492,6 +5567,55 @@
     "note": "Vérification : Section en H bien visible ; le rectangle écarte les autres profilés. Contre-vérification : Section d'un profilé à ailes larges vue en bout, forme en H nette : profilé en H."
   },
   {
+    "id": "poutre-vierendeel-02",
+    "termId": "poutre-vierendeel",
+    "fichier": "commons/poutre-vierendeel-02.webp",
+    "rectangle": {
+      "x": 0.03,
+      "y": 0.4,
+      "largeur": 0.79,
+      "hauteur": 0.22
+    },
+    "lieu": "Glendale, Californie, États-Unis",
+    "source": "commons",
+    "auteur": "Junkyardsparkle",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Geneva_St_Vierendeel_bridge_Glendale_oblique_view_to_southeast_2014.jpg",
+    "statut": "validée",
+    "note": "Vérification : Poutre Vierendeel nette, rectangle sur la poutre de rive. Contre-vérification : Pont à poutre ajourée de membrures et montants verticaux sans diagonales, ouvertures à angles arrondis : poutre Vierendeel bien cadrée."
+  },
+  {
+    "id": "ancre-02",
+    "termId": "ancre",
+    "fichier": "commons/ancre-02.webp",
+    "rectangle": {
+      "x": 0.4,
+      "y": 0.26,
+      "largeur": 0.22,
+      "hauteur": 0.26
+    },
+    "lieu": "Astrup, Danemark",
+    "source": "commons",
+    "auteur": "Frank Vincentz",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Astrup_Kirke_06_ies.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ancre de façade nette ; rectangle de près. Contre-vérification : Ancre de fer décorative (en fleur de lys) fixée sur un mur en granit, exactement encadrée."
+  },
+  {
+    "id": "ancre-06",
+    "termId": "ancre",
+    "fichier": "commons/ancre-06.webp",
+    "rectangle": null,
+    "lieu": "Touraine, France",
+    "source": "commons",
+    "auteur": "DocteurCosmos",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ancre_et_tirant_d%27un_dispositif_de_cha%C3%AEnage.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ancre et tirant très lisibles, occupe l'image. Contre-vérification : Ancre en X en fer avec l'extrémité filetée du tirant, sur un mur en moellons : très clair."
+  },
+  {
     "id": "assemblage-boulonne-04",
     "termId": "assemblage-boulonne",
     "fichier": "commons/assemblage-boulonne-04.webp",
@@ -5526,6 +5650,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Hubbr%C3%BCcke_(Magdeburg).Ostteil.Tragwerk.Detail.1.ajb.jpg",
     "statut": "validée",
     "note": "Vérification : Plaque qui réunit plusieurs barres en un nœud, rectangle sur la plaque ; assemblage riveté, graffiti. Contre-vérification : Plaque d'acier rivetée réunissant membrure et diagonales d'une poutre de pont au même nœud, bien cadrée : gousset typique."
+  },
+  {
+    "id": "appareil-d-appui-01",
+    "termId": "appareil-d-appui",
+    "fichier": "commons/appareil-d-appui-01.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.32,
+      "largeur": 0.78,
+      "hauteur": 0.34
+    },
+    "lieu": "Autoroute D11, Tchéquie",
+    "source": "commons",
+    "auteur": "Draceane",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:D11,_%C3%BAsek_06,_(04)_most_p%C5%99es_Trotinu,_2021_(16).jpg",
+    "statut": "validée",
+    "note": "Vérification : Appui de pont net, rectangle sur l'appareil. Contre-vérification : Appareil d'appui métallique (à pot) entre le tablier et le sommier béton, bien cadré."
+  },
+  {
+    "id": "appareil-d-appui-02",
+    "termId": "appareil-d-appui",
+    "fichier": "commons/appareil-d-appui-02.webp",
+    "rectangle": {
+      "x": 0.03,
+      "y": 0.26,
+      "largeur": 0.6,
+      "hauteur": 0.33
+    },
+    "lieu": "Nagaoka, Japon",
+    "source": "commons",
+    "auteur": "Tyutyanya",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:20200117_Kawaguchi_Bridge_(Niigata_Prefectural_Road_Route_71)_and_Uonogawa_Bridge_(Iiyama_Line).jpg",
+    "statut": "validée",
+    "note": "Vérification : Caoutchouc fretté très lisible. Contre-vérification : Appareil d'appui en élastomère fretté sous une poutre métallique, encadré par le rectangle."
   },
   {
     "id": "porte-a-faux-05",
@@ -5613,6 +5773,50 @@
     "note": "Vérification : Arcs à flèche faible, nettement surbaissés ; rectangle sur une travée. Contre-vérification : Arcade en brique dont la courbe est nettement plus basse que la demi-portée, rectangle sur un arc : arc surbaissé lisible."
   },
   {
+    "id": "arc-outrepasse-03",
+    "termId": "arc-outrepasse",
+    "fichier": "commons/arc-outrepasse-03.webp",
+    "rectangle": {
+      "x": 0.31,
+      "y": 0.07,
+      "largeur": 0.4,
+      "hauteur": 0.43
+    },
+    "lieu": "Putrajaya, Malaisie",
+    "source": "commons",
+    "auteur": "Frostpolar",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_in_Putrajaya,_Malaysia_20.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fer à cheval net, courbe dépassant le demi-cercle et se resserrant à la base. Contre-vérification : Arc en fer à cheval mauresque dont la courbe dépasse nettement le demi-cercle, bien encadré."
+  },
+  {
+    "id": "pendentif-03",
+    "termId": "pendentif",
+    "fichier": "commons/pendentif-03.webp",
+    "rectangle": null,
+    "lieu": "Verceil, Italie",
+    "source": "commons",
+    "auteur": "Ivan Ruggiero I'd appreciate if you could mail me (ivanrugg+credit@gmail.com) if you want to use this picture out of the Wikimedia project scope. Please attribute as: Ivan Ruggiero (Wikimedia)",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Affresco_Duomo_Vercelli_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Triangle courbe sous la coupole clairement lisible; fresque sans texte. Contre-vérification : Photo d'un pendentif peint entre deux arcs sous l'anneau d'une coupole : triangle sphérique bien visible."
+  },
+  {
+    "id": "pendentif-06",
+    "termId": "pendentif",
+    "fichier": "commons/pendentif-06.webp",
+    "rectangle": null,
+    "lieu": "Liverpool, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Red de Leon",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cunard_Building_ceiling_pendentive.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pendentif entier bien lisible, triangle courbe entre arcs et coupole. Contre-vérification : Pendentif décoré (caravelle peinte) entre deux grands arcs, sous la base circulaire de la coupole : forme claire."
+  },
+  {
     "id": "granite-02",
     "termId": "granite",
     "fichier": "commons/granite-02.webp",
@@ -5652,6 +5856,130 @@
     "note": "Vérification : Calcaire clair poreux en appareil régulier, dominant. Contre-vérification : Mur en grands blocs de pierre blanche taillée, piquetée de petits trous : calcaire typique."
   },
   {
+    "id": "travertin-05",
+    "termId": "travertin",
+    "fichier": "commons/travertin-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Fravert",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Draufsicht_quadratischer_Natursteinfliesen_aus_nussbraunem_Travertin_Noce_im_Kreuzverband.jpg",
+    "statut": "validée",
+    "note": "Vérification : Texture typique du travertin: cavités allongées, veines, bords adoucis; dallage clair. Contre-vérification : Dalles de travertin à cavités allongées caractéristiques, gros plan lisible."
+  },
+  {
+    "id": "meuliere-04",
+    "termId": "meuliere",
+    "fichier": "commons/meuliere-04.webp",
+    "rectangle": {
+      "x": 0.54,
+      "y": 0.51,
+      "largeur": 0.17,
+      "hauteur": 0.34
+    },
+    "lieu": "Chevreuse, France",
+    "source": "commons",
+    "auteur": "Lionel Allorge",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Chevreuse_Meuliere_House.jpg",
+    "statut": "validée",
+    "note": "Vérification : Meulière typique (brune, alvéolée) très lisible; rectangle sur un panneau pour écarter la brique. Contre-vérification : Pavillon francilien en moellons de meulière brune et caverneuse avec chaînages brique ; rectangle sur un panneau de meulière."
+  },
+  {
+    "id": "tuffeau-02",
+    "termId": "tuffeau",
+    "fichier": "commons/tuffeau-02.webp",
+    "rectangle": null,
+    "lieu": "Val de Loire, France",
+    "source": "commons",
+    "auteur": "Chateauposeidon",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:West_Tower_on_the_South_Fa%C3%A7ade_-_July_2025.jpg",
+    "statut": "validée",
+    "note": "Vérification : Calcaire tendre blanc du Val de Loire, taillé en blocs, nettement lisible. Contre-vérification : Façade et tourelle d'un château ligérien en pierre blanche tendre appareillée : tuffeau typique."
+  },
+  {
+    "id": "tuffeau-06",
+    "termId": "tuffeau",
+    "fichier": "commons/tuffeau-06.webp",
+    "rectangle": {
+      "x": 0.27,
+      "y": 0.42,
+      "largeur": 0.35,
+      "hauteur": 0.24
+    },
+    "lieu": "Azay-le-Rideau, France",
+    "source": "commons",
+    "auteur": "Rolf Kranz",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ades_sud_et_est_du_ch%C3%A2teau_d%27Azay-le-Rideau_et_son_miroir_d%27eau.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tuffeau typique du Val de Loire; rectangle sur le mur pour écarter l'ardoise des toits. Contre-vérification : Azay-le-Rideau, façade en tuffeau blanc encadrée : exemple emblématique."
+  },
+  {
+    "id": "silex-02",
+    "termId": "silex",
+    "fichier": "commons/silex-02.webp",
+    "rectangle": {
+      "x": 0.6,
+      "y": 0.5,
+      "largeur": 0.4,
+      "hauteur": 0.5
+    },
+    "lieu": "Edingthorpe, Norfolk, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:-2022-06-24_Brick_and_flint_gable_end_with_tumbled_brickwork,_Parish_church_of_All_Saints,_Edingthorpe,_Norfolk.JPG",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur les silex, distincts de la brique. Contre-vérification : Mur en rognons de silex taillés gris-noir à cassure luisante, le rectangle cible bien le silex."
+  },
+  {
+    "id": "silex-06",
+    "termId": "silex",
+    "fichier": "commons/silex-06.webp",
+    "rectangle": null,
+    "lieu": "Sulhamstead Abbots, Berkshire",
+    "source": "commons",
+    "auteur": "Motacilla",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:SulhamsteadAbbots_ChurchHall_GableMasonry.jpg",
+    "statut": "validée",
+    "note": "Vérification : Silex dominants et clairs. Contre-vérification : Pignon en silex noirs éclatés noyés dans le mortier, matériau dominant et clair."
+  },
+  {
+    "id": "galet-02",
+    "termId": "galet",
+    "fichier": "commons/galet-02.webp",
+    "rectangle": {
+      "x": 0.06,
+      "y": 0.8,
+      "largeur": 0.9,
+      "hauteur": 0.17
+    },
+    "lieu": "Barcugnan, France",
+    "source": "commons",
+    "auteur": "F123",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Laurent_de_Montagnan_2019_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur le mur de galets. Contre-vérification : Mur de cimetière en galets arrondis assisés, encadré par le rectangle ; lisible."
+  },
+  {
+    "id": "galet-05",
+    "termId": "galet",
+    "fichier": "commons/galet-05.webp",
+    "rectangle": null,
+    "lieu": "Kanazawa, Japon",
+    "source": "commons",
+    "auteur": "Tbatb",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Retaining_wall_of_Kanazawa_Castle_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Galets arrondis très lisibles. Contre-vérification : Mur de soutènement entièrement en galets lisses et arrondis : très clair."
+  },
+  {
     "id": "beton-desactive-01",
     "termId": "beton-desactive",
     "fichier": "commons/beton-desactive-01.webp",
@@ -5663,6 +5991,50 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Waschbetonplatte.jpg",
     "statut": "validée",
     "note": "Vérification : Gros plan net et typique de granulats apparents dans la matrice de ciment. Contre-vérification : Dalle dont la surface montre les graviers roulés dégagés dans la matrice de ciment : béton désactivé typique."
+  },
+  {
+    "id": "beton-boucharde-01",
+    "termId": "beton-boucharde",
+    "fichier": "commons/beton-boucharde-01.webp",
+    "rectangle": null,
+    "lieu": "Fukuoka, Japon",
+    "source": "commons",
+    "auteur": "Hirho",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fukuoka_Art_Museum_The_bush-hammered_concrete_column_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260529_172503.jpg",
+    "statut": "validée",
+    "note": "Vérification : Texture bouchardée nette et dominante. Contre-vérification : Poteau en béton à surface piquetée, granuleuse et mate : béton bouchardé typique."
+  },
+  {
+    "id": "beton-boucharde-02",
+    "termId": "beton-boucharde",
+    "fichier": "commons/beton-boucharde-02.webp",
+    "rectangle": null,
+    "lieu": "Fukuoka, Japon",
+    "source": "commons",
+    "auteur": "Hirho",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fukuoka_Art_Museum_The_bush-hammered_concrete_columns_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260529_170508.jpg",
+    "statut": "validée",
+    "note": "Vérification : Piquetage visible, éléments dominants. Contre-vérification : Poteaux en béton à surface fortement bouchardée, relief éclaté visible en gros plan."
+  },
+  {
+    "id": "beton-imprime-03",
+    "termId": "beton-imprime",
+    "fichier": "commons/beton-imprime-03.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.37,
+      "largeur": 0.98,
+      "hauteur": 0.55
+    },
+    "lieu": "États-Unis",
+    "source": "commons",
+    "auteur": "ChicagoConcrete",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Concrete_being_stamped.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la dalle estampée. Contre-vérification : Ouvriers estampant une dalle de béton frais avec des matrices imitant des dalles : béton imprimé clairement encadré."
   },
   {
     "id": "brique-pleine-02",
@@ -5689,6 +6061,37 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Brick_wall_20210114_135050.jpg",
     "statut": "validée",
     "note": "Vérification : Briques pleines apparentes bien lisibles sur toute l'image. Contre-vérification : Mur de briques rouges apparentes avec arc en brique, appareil bien lisible : brique pleine juste."
+  },
+  {
+    "id": "brique-vernissee-01",
+    "termId": "brique-vernissee",
+    "fichier": "commons/brique-vernissee-01.webp",
+    "rectangle": null,
+    "lieu": "Berlin-Adlershof",
+    "source": "commons",
+    "auteur": "Nylki",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tor_aus_glasierten_Ziegelsteinen_(Angelika_Baasner-Matussek),_Berlin-Adlershof,_2026-09-26,_3.jpeg",
+    "statut": "validée",
+    "note": "Vérification : Émail brillant très net, plein cadre. Contre-vérification : Mur de briques à émail brillant et coloré, craquelé, posées en appareil : brique vernissée nette."
+  },
+  {
+    "id": "brique-vernissee-03",
+    "termId": "brique-vernissee",
+    "fichier": "commons/brique-vernissee-03.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.58,
+      "largeur": 0.67,
+      "hauteur": 0.31
+    },
+    "lieu": "Pavie, Italie",
+    "source": "commons",
+    "auteur": "FabioRomanoni",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Musei_civici_(Pavia)14.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur les assises émaillées vertes. Contre-vérification : Rangs de briques vernissées vertes et noires alternant avec des briques rouges ; le rectangle cible les rangs émaillés."
   },
   {
     "id": "brique-de-verre-02",
@@ -5839,6 +6242,81 @@
     "note": "Vérification : Chaumes nouées bien visibles, deuxième cadrage du même lieu. Contre-vérification : Tiges de bambou nouées, l'une fendue montrant l'intérieur creux et les nœuds : bambou clair."
   },
   {
+    "id": "rondin-02",
+    "termId": "rondin",
+    "fichier": "commons/rondin-02.webp",
+    "rectangle": null,
+    "lieu": "Eaglehawk, Victoria, Australie",
+    "source": "commons",
+    "auteur": "Mattinbgn",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:EaglehawkLogLockup.JPG",
+    "statut": "validée",
+    "note": "Vérification : Murs en troncs ronds empilés, très lisibles. Contre-vérification : Cabane en troncs ronds empilés, croisés aux angles : murs en rondins typiques."
+  },
+  {
+    "id": "rondin-05",
+    "termId": "rondin",
+    "fichier": "commons/rondin-05.webp",
+    "rectangle": null,
+    "lieu": "Allemagne",
+    "source": "commons",
+    "auteur": "Theonly1",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Blockhuette.JPG",
+    "statut": "validée",
+    "note": "Vérification : Rondins ronds laissés bruts, clairs. Contre-vérification : Abri forestier en rondins écorcés empilés, poteaux en rondins : très lisible."
+  },
+  {
+    "id": "bardeau-01",
+    "termId": "bardeau",
+    "fichier": "commons/bardeau-01.webp",
+    "rectangle": null,
+    "lieu": "Fleuve Saint-Laurent, Québec",
+    "source": "commons",
+    "auteur": "Letartean",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bardeau2011.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bardeaux fendus parfaitement lisibles. Contre-vérification : Gros plan de bardeaux de bois fendu posés en recouvrement : très clair."
+  },
+  {
+    "id": "bardeau-02",
+    "termId": "bardeau",
+    "fichier": "commons/bardeau-02.webp",
+    "rectangle": {
+      "x": 0.04,
+      "y": 0.3,
+      "largeur": 0.92,
+      "hauteur": 0.55
+    },
+    "lieu": "Ickford, Buckinghamshire",
+    "source": "commons",
+    "auteur": "Motacilla",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ickford_VillageHall_east.JPG",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur le bâtiment entièrement bardé. Contre-vérification : Bâtiment couvert et bardé de bardeaux de cèdre en écailles, toiture et murs : terme juste."
+  },
+  {
+    "id": "bardage-a-clin-04",
+    "termId": "bardage-a-clin",
+    "fichier": "commons/bardage-a-clin-04.webp",
+    "rectangle": {
+      "x": 0.22,
+      "y": 0.4,
+      "largeur": 0.5,
+      "hauteur": 0.2
+    },
+    "lieu": "Bünde, Allemagne",
+    "source": "commons",
+    "auteur": "TUBS",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Holsen_Bieren_Ostkilver_Juni_2009_044.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur les planches à clin nettes. Contre-vérification : Pignon en planches horizontales se chevauchant ; le rectangle cible bien le bardage à clin."
+  },
+  {
     "id": "bardage-metallique-01",
     "termId": "bardage-metallique",
     "fichier": "commons/bardage-metallique-01.webp",
@@ -5850,6 +6328,45 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Pole_(16041011846).jpg",
     "statut": "validée",
     "note": "Vérification : Revêtement de façade métallique nervuré, typique, occupe tout le cadre. Contre-vérification : Façade industrielle entièrement revêtue de tôle nervurée bleue : bardage métallique typique."
+  },
+  {
+    "id": "bois-brule-01",
+    "termId": "bois-brule",
+    "fichier": "commons/bois-brule-01.webp",
+    "rectangle": null,
+    "lieu": "Japon",
+    "source": "commons",
+    "auteur": "漱石の猫",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Yakiita_11.jpg",
+    "statut": "validée",
+    "note": "Vérification : Yakisugi très net et dominant. Contre-vérification : Planche à surface carbonisée noire et craquelée en écailles : bois brûlé typique."
+  },
+  {
+    "id": "bois-brule-04",
+    "termId": "bois-brule",
+    "fichier": "commons/bois-brule-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Caroistda",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Exemple_shou-sugi-ban.jpg",
+    "statut": "validée",
+    "note": "Vérification : Aspect alligator très lisible. Contre-vérification : Lames de bardage carbonisées à craquelures caractéristiques, gros plan net."
+  },
+  {
+    "id": "bois-composite-03",
+    "termId": "bois-composite",
+    "fichier": "commons/bois-composite-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Remos764",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Terasy_WOODPLASTI%C4%8C.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lames composites rainurées typiques. Contre-vérification : Lames de terrasse rainurées de couleurs uniformes, aspect plastique moulé : bois composite."
   },
   {
     "id": "acier-corten-02",
@@ -5894,6 +6411,37 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:HK_Central_Murray_Road_Hutchison_House_entrance_stairs_stainless_steel_fences_Nov-2012.jpg",
     "statut": "validée",
     "note": "Vérification : Inox brillant très lisible, garde-corps typique. Contre-vérification : Garde-corps d'escalier en tubes d'acier brillant poli miroir : inox typique."
+  },
+  {
+    "id": "cuivre-05",
+    "termId": "cuivre",
+    "fichier": "commons/cuivre-05.webp",
+    "rectangle": {
+      "x": 0.69,
+      "y": 0.09,
+      "largeur": 0.17,
+      "hauteur": 0.27
+    },
+    "lieu": "Gurnitz, Carinthie",
+    "source": "commons",
+    "auteur": "Johann Jaritz",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ebenthal_Gurnitz_Propstei_und_Pfarrkirche_Sankt_Martin_06032015_0283.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur le bulbe en cuivre. Contre-vérification : Bulbe de clocher en cuivre neuf rougeâtre et brillant, bien encadré."
+  },
+  {
+    "id": "fonte-01",
+    "termId": "fonte",
+    "fichier": "commons/fonte-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Lukas Large from Stourbridge, United Kingdom",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ironwork_(5628329881).jpg",
+    "statut": "validée",
+    "note": "Vérification : Décor moulé typique en fonte, lisible et dominant. Contre-vérification : Ornement rouillé épais moulé (rinceaux) typique d'une pièce en fonte de grille ou de banc."
   },
   {
     "id": "fer-forge-01",
@@ -5951,6 +6499,58 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership,_Stockholm,_Sweden_julesvernex2-4.jpg",
     "statut": "validée",
     "note": "Vérification : Perforations nettes, couvrant toute l'image. Contre-vérification : Coursives habillées de tôles percées de trous ronds réguliers, bien lisibles : tôle perforée."
+  },
+  {
+    "id": "metal-deploye-03",
+    "termId": "metal-deploye",
+    "fichier": "commons/metal-deploye-03.webp",
+    "rectangle": null,
+    "lieu": "Grenchen, Suisse",
+    "source": "commons",
+    "auteur": "Sennrich",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Streckmetallfassade,_Mod._Tallin,_Sennrich,_Uhrenschule_Grenchen.jpg",
+    "statut": "validée",
+    "note": "Vérification : Maille losange très lisible sur toute la façade. Contre-vérification : Façade entièrement habillée de métal déployé à mailles losangées : très clair."
+  },
+  {
+    "id": "metal-deploye-06",
+    "termId": "metal-deploye",
+    "fichier": "commons/metal-deploye-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Sennrich",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Streckmetall_Mod._Paris_Sennrich.jpg",
+    "statut": "validée",
+    "note": "Vérification : Maille à losanges nette et dominante. Contre-vérification : Gros plan d'une résille en métal déployé aux mailles en losange étirées."
+  },
+  {
+    "id": "tole-larmee-01",
+    "termId": "tole-larmee",
+    "fichier": "commons/tole-larmee-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "NordNordWest",
+    "licence": "CC BY-SA 3.0 de",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Riffelblech.nnw.jpg",
+    "statut": "validée",
+    "note": "Vérification : Motif de larmes parfaitement lisible. Contre-vérification : Tôle rouillée à reliefs en larmes croisés : tôle larmée sans ambiguïté."
+  },
+  {
+    "id": "tole-larmee-05",
+    "termId": "tole-larmee",
+    "fichier": "commons/tole-larmee-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Titus Tscharntke",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Metal_steel_surface.jpg",
+    "statut": "validée",
+    "note": "Vérification : Motif lisible et typique. Contre-vérification : Plaque de tôle larmée grise avec ses reliefs en larmes, gros plan net."
   },
   {
     "id": "verre-depoli-05",
@@ -6023,6 +6623,76 @@
     "note": "Vérification : Mosaïque évidente remplissant l'image. Contre-vérification : Sol antique en tesselles de pierre formant un décor végétal : mosaïque typique."
   },
   {
+    "id": "zellige-02",
+    "termId": "zellige",
+    "fichier": "commons/zellige-02.webp",
+    "rectangle": null,
+    "lieu": "Rabat, Maroc",
+    "source": "commons",
+    "auteur": "Aemazy",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Jardins_d%27Essais_Botaniques,_Rabat_-_calligraphic_inscription.jpg",
+    "statut": "validée",
+    "note": "Vérification : Carreaux émaillés taillés à la main, motif géométrique, lisible. Contre-vérification : Revêtement marocain de petits carreaux émaillés taillés en motifs géométriques : zellige typique."
+  },
+  {
+    "id": "torchis-02",
+    "termId": "torchis",
+    "fichier": "commons/torchis-02.webp",
+    "rectangle": null,
+    "lieu": "Eitorf, Allemagne",
+    "source": "commons",
+    "auteur": "Olbertz",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fachwerk_Eitorf.jpg",
+    "statut": "validée",
+    "note": "Vérification : Clayonnage et torchis très visibles. Contre-vérification : Pan de bois avec garnissage de terre et paille sur clayonnage de lattes apparent : torchis clair."
+  },
+  {
+    "id": "torchis-06",
+    "termId": "torchis",
+    "fichier": "commons/torchis-06.webp",
+    "rectangle": null,
+    "lieu": "Meiningen, Allemagne",
+    "source": "commons",
+    "auteur": "Fachwerk-meiningen002.jpg : Dontworry derivative work: Sebastian Wallroth ( talk )",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fachwerk-meiningen002-2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Clayonnage et torchis lisibles. Contre-vérification : Pans de bois garnis de torchis sur lattis visible ; un seul panneau en moellons, le torchis domine."
+  },
+  {
+    "id": "bauge-05",
+    "termId": "bauge",
+    "fichier": "commons/bauge-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Maple Braier",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cob_House_(223152759).jpeg",
+    "statut": "validée",
+    "note": "Vérification : Terre mêlée de paille bien visible, mur massif. Contre-vérification : Murs massifs en terre crue mêlée de paille, épaisseur visible à l'ébrasement de porte : bauge."
+  },
+  {
+    "id": "bauge-06",
+    "termId": "bauge",
+    "fichier": "commons/bauge-06.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.36,
+      "largeur": 0.79,
+      "hauteur": 0.15
+    },
+    "lieu": "Hallaton, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Michael Trolove",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cob_wall,_Hallaton_-_geograph.org.uk_-_3412406.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la partie en terre, assises épaisses visibles. Contre-vérification : Mur de clôture en terre crue massive (cob) sur soubassement de pierre, coiffé de tuiles ; rectangle sur la terre."
+  },
+  {
     "id": "laine-de-verre-01",
     "termId": "laine-de-verre",
     "fichier": "commons/laine-de-verre-01.webp",
@@ -6041,6 +6711,24 @@
     "note": "Vérification : Isolant fibreux jaune typique, rectangle sur la laine pour écarter le personnage. Contre-vérification : Rouleaux d'isolant fibreux jaune posés entre solives, rectangle sur l'isolant : laine de verre."
   },
   {
+    "id": "efflorescence-01",
+    "termId": "efflorescence",
+    "fichier": "commons/efflorescence-01.webp",
+    "rectangle": {
+      "x": 0.43,
+      "y": 0.22,
+      "largeur": 0.25,
+      "hauteur": 0.62
+    },
+    "lieu": "Lingen, Allemagne",
+    "source": "commons",
+    "auteur": "Frank Vincentz",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lingen_-_Lindenstra%C3%9Fe_-_Luftschutzbunker_14_ies.jpg",
+    "statut": "validée",
+    "note": "Vérification : Dépôt blanc de sels sur le béton, nettement visible. Contre-vérification : Dépôts blancs de sels coulant d'un joint sur un mur en béton, bien encadrés."
+  },
+  {
     "id": "entablement-06",
     "termId": "entablement",
     "fichier": "commons/entablement-06.webp",
@@ -6057,6 +6745,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Backside_of_a_pediment_and_entablature_(Gate_of_Athena_Archegetis)_on_February_26,_2022.jpg",
     "statut": "validée",
     "note": "Vérification : Rectangle sur l'architrave et la frise sous le fronton. Contre-vérification : Porte antique : rectangle sur toute la bande horizontale portée par les colonnes, sous le fronton exclu : entablement juste."
+  },
+  {
+    "id": "triglyphe-05",
+    "termId": "triglyphe",
+    "fichier": "commons/triglyphe-05.webp",
+    "rectangle": {
+      "x": 0.35,
+      "y": 0.23,
+      "largeur": 0.12,
+      "hauteur": 0.28
+    },
+    "lieu": "Olympie, Grèce",
+    "source": "commons",
+    "auteur": "Paolo Villa",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:02_2020_Grecia_photo_Paolo_Villa_FO199994_(Olimpia_parco_archeologico_-_fregio_di_triglifi_e_metope_di_ordine_dorico_del_Tempio_di_Era_-_-_frieze_of_triglyphs_and_Doric_order_metopes_from_the_Temple_of_Era).jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur un triglyphe aux rainures verticales. Contre-vérification : Frise dorique antique ; le rectangle encadre exactement un triglyphe à rainures verticales entre deux métopes lisses."
+  },
+  {
+    "id": "metope-04",
+    "termId": "metope",
+    "fichier": "commons/metope-04.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.2,
+      "largeur": 0.7,
+      "hauteur": 0.6
+    },
+    "lieu": "Jovkva, Ukraine",
+    "source": "commons",
+    "auteur": "Сергій Криниця (Haidamac)",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kolegiata_sw_Wawrzynca_w_Zolkwi_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur le panneau sculpté entre triglyphes, flanqué de triglyphes. Contre-vérification : Panneau sculpté (cavalier) entre deux triglyphes d'une frise dorique, bien encadré."
   },
   {
     "id": "volute-02",
@@ -6111,6 +6835,37 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Dentil_with_egg_-_Cleveland_Museum_of_Art_(28347462781).jpg",
     "statut": "validée",
     "note": "Vérification : Rang de denticules net, cadré de près; oves incompatibles. Contre-vérification : Rectangle sur un rang serré de petits blocs rectangulaires sous une corniche de marbre : denticules nets et dominants."
+  },
+  {
+    "id": "ove-02",
+    "termId": "ove",
+    "fichier": "commons/ove-02.webp",
+    "rectangle": null,
+    "lieu": "Ostie, Italie",
+    "source": "commons",
+    "auteur": "Camelia.boban",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ostia_antica_554.JPG",
+    "statut": "validée",
+    "note": "Vérification : Ove et dards très nets, gros plan dominant. Contre-vérification : Gros plan d'un ove dans sa coque, entre deux dards : très net."
+  },
+  {
+    "id": "ove-05",
+    "termId": "ove",
+    "fichier": "commons/ove-05.webp",
+    "rectangle": {
+      "x": 0.06,
+      "y": 0.33,
+      "largeur": 0.84,
+      "hauteur": 0.33
+    },
+    "lieu": "Kilmaurs, Écosse",
+    "source": "commons",
+    "auteur": "Rosser1954",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:The_Egg_and_Dart_carving_on_a_capital._Glencairn_Aisle,_Kilmaurs,_East_Ayrshire.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la bande d'oves, motif bien lisible. Contre-vérification : Rang d'oves alternés de petits dards sur une moulure de chapiteau, encadré par le rectangle."
   },
   {
     "id": "cartouche-04",

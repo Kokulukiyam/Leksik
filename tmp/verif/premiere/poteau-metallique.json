@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Place urbaine avec lettres « Eu Fabri » et statue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pylône rouge en treillis de téléphérique dans la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pylône treillis, pas un poteau métallique à platine."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Place avec lettres « Eu Vargem Alegre ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bâtiment à bardage métallique gris, base d'ambulances.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan sur une surface rouge striée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ruine de structure métallique et bois d'une mine envahie par la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poteaux non lisibles."
     }
   ]
 }

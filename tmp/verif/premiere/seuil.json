@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Dalle basse et marche ambiguës, rideau dans l'ouverture ; doute."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panneau d'entrée de la commune de Seuil au bord d'une route.",
+      "verdict": "rejetée",
+      "note": "Homonyme (village), hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Borne rouge avec arceaux devant de la lavande.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Panneaux de direction à Seuil devant un grillage.",
+      "verdict": "rejetée",
+      "note": "Homonyme, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Croix de carrefour avec Christ sur un socle.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Hôtel-restaurant au bord d'une route.",
+      "verdict": "rejetée",
+      "note": "Seuil non visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau de sortie de la commune de Seuil.",
+      "verdict": "rejetée",
+      "note": "Homonyme, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

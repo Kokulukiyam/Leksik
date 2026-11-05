@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Aucun tableau lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Salle de cours vide avec pupitres et petites fenêtres lumineuses.",
+      "verdict": "rejetée",
+      "note": "Intérieur, aucun tableau de baie lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade vitrée sombre avec une personne assise et un poteau orange.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade bicolore avec quatre fenêtres à volets roulants.",
+      "verdict": "rejetée",
+      "note": "Les côtés de la baie ne sont pas visibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Quatre fenêtres vues de l'intérieur dans une pièce très sombre.",
+      "verdict": "rejetée",
+      "note": "Image trop sombre.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fenêtre à deux vantaux dans un mur de brique avec bordure claire, vue de face.",
+      "verdict": "rejetée",
+      "note": "Vue frontale : le tableau n'est pas visible, pourrait illustrer l'encadrement ou l'appui.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Surface métallique en relief, texture abstraite.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

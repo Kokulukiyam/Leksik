@@ -3,10 +3,25 @@
     "id": "colonne",
     "terme": "la colonne",
     "categorie": "Structure",
-    "definition": "Support vertical de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.",
+    "definition": "Support vertical isolé, de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.",
     "requetes": [
       "incategory:\"Columns\"",
       "colonnade columns"
+    ],
+    "requetes2": [
+      "doric column temple",
+      "colonne corinthienne",
+      "marble column portico"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "chapiteau",
+      "pilastre",
+      "pilotis"
+    ],
+    "categoriesCommons": [
+      "Category:Columns",
+      "Category:Colonnades"
     ]
   },
   "candidats": [
@@ -137,6 +152,118 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Museo_della_civilt%C3%A0_romana_-_ricostruzione_di_una_biblioteca_1150144.JPG/1280px-Museo_della_civilt%C3%A0_romana_-_ricostruzione_di_una_biblioteca_1150144.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2816,
       "hauteur": 2112
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Chichén Itzá columnas 2025 24.jpg",
+      "description": "Chichén Itzá columnas 2025",
+      "categories": [
+        "CC-Zero",
+        "Chichén Itzá",
+        "Columns",
+        "Self-published work"
+      ],
+      "auteur": "Álvaro de la Paz Franco",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_columnas_2025_24.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Chich%C3%A9n_Itz%C3%A1_columnas_2025_24.jpg/1280px-Chich%C3%A9n_Itz%C3%A1_columnas_2025_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Antigua Guatemala, February 2020 - Stout Columns.jpg",
+      "description": "Antigua Guatemala, February 2020 - Row of Stout Columns",
+      "categories": [
+        "Colonnades",
+        "Buildings in Antigua Guatemala",
+        "Columns in Guatemala",
+        "2020 in Antigua Guatemala",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Bruno Rijsman"
+      ],
+      "auteur": "Bruno Rijsman",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antigua_Guatemala,_February_2020_-_Stout_Columns.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Antigua_Guatemala%2C_February_2020_-_Stout_Columns.jpg/1280px-Antigua_Guatemala%2C_February_2020_-_Stout_Columns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Thèbes. Memnonium (Ramesseum). Coupe longitudinale du tombeau d'Osymandyas, prise de l'ouest (NYPL b14212718-1267958).jpg",
+      "description": "Thèbes. Memnonium [Ramesseum]. Coupe longitudinale du tombeau d'Osymandyas, prise de l'ouest.",
+      "categories": [
+        "Colonnades",
+        "Images uploaded by Fæ",
+        "PD-old-100-expired",
+        "PD-scan (PD-old-auto-expired)",
+        "Images from the New York Public Library",
+        "CC-PD-Mark",
+        "NYPL General Research Division",
+        "Description de l'Egypte. Antiquités. Tome deuxième",
+        "Illustrations from the Ramesseum"
+      ],
+      "auteur": "Impr. impériale",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Th%C3%A8bes._Memnonium_(Ramesseum)._Coupe_longitudinale_du_tombeau_d%27Osymandyas,_prise_de_l%27ouest_(NYPL_b14212718-1267958).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Th%C3%A8bes._Memnonium_%28Ramesseum%29._Coupe_longitudinale_du_tombeau_d%27Osymandyas%2C_prise_de_l%27ouest_%28NYPL_b14212718-1267958%29.jpg/1280px-Th%C3%A8bes._Memnonium_%28Ramesseum%29._Coupe_longitudinale_du_tombeau_d%27Osymandyas%2C_prise_de_l%27ouest_%28NYPL_b14212718-1267958%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5379,
+      "hauteur": 3390
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Chichén Itzá columnas 2025 40.jpg",
+      "description": "Chichén Itzá columnas 2025",
+      "categories": [
+        "CC-Zero",
+        "Chichén Itzá",
+        "Columns",
+        "Self-published work"
+      ],
+      "auteur": "Álvaro de la Paz Franco",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_columnas_2025_40.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Chich%C3%A9n_Itz%C3%A1_columnas_2025_40.jpg/1280px-Chich%C3%A9n_Itz%C3%A1_columnas_2025_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Colonna (75427559).jpeg",
+      "description": "500px provided description: KONICA MINOLTA DIGITAL CAMERA [#sky ,#greece ,#blue ,#column]",
+      "categories": [
+        "Columns",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Francesca Capochiani",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Colonna_(75427559).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Colonna_%2875427559%29.jpeg/1280px-Colonna_%2875427559%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Album de 132 phot. de Turquie et d'Égypte de la fin du XIXe siècle - Abdullah frères, Zangaki et autres phot. - btv1b53082984w (108 of 131).jpg",
+      "description": "Sujet : Égypte Turquie d'Asie Appartient à l’ensemble documentaire : PhoGéo1 Appartient à l’ensemble documentaire : BbLevt0 Langue : français",
+      "categories": [
+        "Columns",
+        "Artworks without Wikidata item",
+        "PD France",
+        "Files from Gallica",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot",
+        "Album de 132 phot. de Turquie et d'Égypte de la fin du XIXe siècle - Abdullah frères, Zangaki et autres phot. - btv1b53082984w"
+      ],
+      "auteur": "Arnoux, Hippolyte (18..-19..? ; photographe). Photographe Zangaki. Photographe Abdullah frères (Istanbul). Photographe",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Album_de_132_phot._de_Turquie_et_d%27%C3%89gypte_de_la_fin_du_XIXe_si%C3%A8cle_-_Abdullah_fr%C3%A8res,_Zangaki_et_autres_phot._-_btv1b53082984w_(108_of_131).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Album_de_132_phot._de_Turquie_et_d%27%C3%89gypte_de_la_fin_du_XIXe_si%C3%A8cle_-_Abdullah_fr%C3%A8res%2C_Zangaki_et_autres_phot._-_btv1b53082984w_%28108_of_131%29.jpg/1280px-Album_de_132_phot._de_Turquie_et_d%27%C3%89gypte_de_la_fin_du_XIXe_si%C3%A8cle_-_Abdullah_fr%C3%A8res%2C_Zangaki_et_autres_phot._-_btv1b53082984w_%28108_of_131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4056,
+      "hauteur": 3496
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

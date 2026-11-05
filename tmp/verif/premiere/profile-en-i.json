@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Section non visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan sur l'extrémité d'un profilé en I galvanisé, âme et deux ailes parallèles bien visibles.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.12,
+        "largeur": 0.52,
+        "hauteur": 0.78
+      },
+      "lieu": "",
+      "note": "Section en I nette ; ailes assez étroites par rapport à la hauteur (type IPE) ; rectangle sur le profilé central."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvriers sur de grandes poutres métalliques de pont en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes, section non lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poutres galvanisées d'une structure avec une corde posée dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plusieurs profilés enchevêtrés, section non claire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Profilé galvanisé posé sur une platine boulonnée, dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ailes larges, confusion possible avec le profilé en H."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chantier avec pompe à béton et foreuse de pieux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sculpture rouge en profilés devant un bâtiment universitaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture, pas un profilé clair."
     }
   ]
 }

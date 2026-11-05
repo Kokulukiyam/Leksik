@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chaume, charpente non visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sous-face d'une charpente de croupe en bois sur murs de parpaings.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage confus, vue de dessous peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Comble ancien en bois avec passerelle et tiges métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aménagements parasites, charpente peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grande halle à charpente métallique et verrière avec une caravane.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente métallique, terme voisin, scène chargée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plafond de bois peint en berceau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond décoré, pas la charpente."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Halle industrielle à charpente métallique avec chariot et palettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente métallique, scène encombrée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Charpente en bois d'une grange vue de l'intérieur, fermes à entraits, arbalétriers et chevrons sous le toit.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Hautecombe, Savoie, France",
+      "note": "Charpente bois nette et dominante."
     }
   ]
 }

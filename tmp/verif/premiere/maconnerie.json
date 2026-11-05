@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Angle d'un mur de brique dégradé dans la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dégradé, peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de briques blanches de tailles irrégulières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil irrégulier ; peut évoquer assise ou panneresse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Briques éclairées en jaune sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Retouche de couleur, peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Appui d'escalier voûté enduit de blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enduit, maçonnerie non visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de pierre à bossage autour d'une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évoque appareil à bossage, trop spécifique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de briques d'enclos autour d'un cimetière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de clôture, vue trop générale."
     }
   ]
 }

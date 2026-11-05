@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Vue éloignée, illisible, reproduction."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tranchée à pommes de terre dans un champ.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une tranchée de fondation."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Paroi sous-marine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo de guerre 1914-1918 avec tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranchée militaire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tranchée pour réparer des conduites d'eau en ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranchée de réseau, pas de fondation."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petite tranchée militaire en terre dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranchée de guerre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tranchée géologique montrant des couches sédimentaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

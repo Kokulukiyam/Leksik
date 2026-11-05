@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas un pilier de portail."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Borne de pierre moussue envahie de végétation devant un grillage.",
+      "verdict": "rejetée",
+      "note": "Borne, pas un pilier de portail.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Barrière de champ en bois rustique devant un pré.",
+      "verdict": "rejetée",
+      "note": "Pas de pilier maçonné.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Portail en fer forgé encadré de deux piliers de pierre à chapeau et boule, à Prague.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.6,
+        "y": 0.11,
+        "largeur": 0.2,
+        "hauteur": 0.8
+      },
+      "lieu": "Prague, Tchéquie",
+      "note": "Piliers maçonnés porteurs du portail, nets ; rectangle sur le pilier de droite."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ruines romaines en brique avec arcades.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Portail en fer entre deux piliers de pierre dégradés, avec sculptures d'animaux au pied.",
+      "verdict": "rejetée",
+      "note": "Piliers délabrés, sculptures qui distraient.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Jardin de nuit avec arche lumineuse et bassin.",
+      "verdict": "rejetée",
+      "note": "Sombre, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

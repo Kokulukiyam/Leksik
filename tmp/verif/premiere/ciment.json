@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Couleuvre sur un trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Camion chargé de sacs, sol de terre rouge, petit et flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sacs trop petits, pas lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Trottoir en béton fraîchement coulé au bord d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton, pas ciment."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sac de ciment Portland de 50 kg en papier kraft, vu de face, avec d'autres sacs empilés.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Hsinchu, Taïwan",
+      "note": "Sac de ciment net et dominant ; inscriptions en chinois, sans mot français donnant la réponse."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Trottoir en béton frais avec cônes de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton, pas ciment."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sac de ciment en papier posé à plat, inscriptions en chinois et marque latine « T'cement ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible donnant la réponse ; l'autre sac est plus net."
     }
   ]
 }

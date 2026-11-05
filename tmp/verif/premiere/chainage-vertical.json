@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble en blocs de béton inachevé avec balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaînages non distinguables."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Personnes assemblant une cage d'armature de poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armature de poteau, pas chaînage en place."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Carte postale ancienne d'un bâtiment universitaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Structures en fil blanc sous une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Soubassement d'un vieux mur peint écaillé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Salle d'exposition voûtée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

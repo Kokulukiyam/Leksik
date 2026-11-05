@@ -24,6 +24,54 @@
       "rectangle": null,
       "lieu": "Îles Marshall",
       "note": "Montre le cintrage, pas un cadre fini."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Machine à cintrer les barres d'acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine, pas un cadre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne d'une cage d'armature circulaire dans une fouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancien ; cage, pas cadre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Autel de pierres en montagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grande cage d'armatures dans un tunnel avec ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cage d'armature, cadres non isolés."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Débris de béton avec inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cages d'armature cylindriques posées au sol sur un chantier routier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cages d'armature, pas des cadres."
     }
   ]
 }

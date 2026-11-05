@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Piste cyclable dominante, scène chargée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Avenue avec un bus ; au premier plan, le mot ÔNIBUS peint en blanc sur la voie réservée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.23,
+        "y": 0.77,
+        "largeur": 0.69,
+        "hauteur": 0.18
+      },
+      "lieu": "São Paulo, Brésil",
+      "note": "Inscription peinte sur la chaussée, nettement un marquage au sol ; rectangle sur l'inscription."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Large avenue de nuit avec flèches et passage piéton, terre-plein planté au centre.",
+      "verdict": "rejetée",
+      "note": "Scène nocturne sombre, éléments multiples.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan d'enrobé usé avec éclats de peinture jaune et un bout de ligne blanche.",
+      "verdict": "rejetée",
+      "note": "Marquage dégradé, illisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chaussée avec pictogramme de vélo peint et pointillés, mur à droite.",
+      "verdict": "rejetée",
+      "note": "Évoque la piste cyclable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Route de campagne avec passage piéton et panneau.",
+      "verdict": "rejetée",
+      "note": "Passage piéton dominant, panneau visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Carrefour mouillé avec lignes et flèches peintes, voiture rouge floue.",
+      "verdict": "rejetée",
+      "note": "Marquage confus, flou de mouvement.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

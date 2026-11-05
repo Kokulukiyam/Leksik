@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Terrasse couverte ou balcon, pas une toiture-terrasse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Abri de bus à toit plat débordant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Auvent plat, toiture-terrasse non lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Terrasse en bord de mer avec garde-corps métallique ouvragé et rive de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps de terrasse, pas la toiture-terrasse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Auvent de cinéma éclairé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Carport à toit végétalisé sur une pente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture végétalisée, terme voisin."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Toits-terrasses de médina avec escalier et verrières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène confuse, plusieurs éléments."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Carport à toit végétalisé vu de côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture végétalisée, terme voisin."
     }
   ]
 }

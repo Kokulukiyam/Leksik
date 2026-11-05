@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plutôt semelle filante ou fondation ; ambigu pour le bétonnage."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plancher dalle sur poutres alvéolaires en acier, façade en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de coulage visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fondations en terre rouge avec attentes, ouvriers au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évoque fondations, pas le bétonnage."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Treillis d'acier sur membrane bleue avant coulage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre le treillis, pas le coulage."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvrier versant du béton à la pelle dans une tranchée avec armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt semelle filante ou fondation ; ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photographie ancienne d'un ouvrage de soutènement en maçonnerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancien, peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chantier ancien en noir et blanc avec bétonnière, armatures et banches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancien, confus, bétonnage non clair."
     }
   ]
 }

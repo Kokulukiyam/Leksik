@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Mortier non visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mortier à piler en bois dans une cour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mortier à piler, sens différent."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grand mortier à piler en bois vu du dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mortier à piler, sens différent."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Militaire versant du mélange gris d'une bétonnière dans une brouette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mélange pouvant être béton ou mortier ; ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mortier à piler en bois avec pilon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mortier à piler, sens différent."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Femme casquée remuant une pâte grise dans une brouette près d'une bétonnière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mélange non identifiable avec certitude, ambigu avec béton."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grand mortier à piler en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mortier à piler, sens différent."
     }
   ]
 }

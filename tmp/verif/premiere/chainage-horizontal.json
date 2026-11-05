@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poutres en béton d'une halte ferroviaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poutres, chaînage non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade en crépi projeté, fenêtre et souche de cheminée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo ancienne d'un chantier d'arcades en briques avec poutres au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancien, poutres isolées, pas chaînage."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Galerie d'arcs en briques en ogive.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Deux photos anciennes de chantier de pont et de poutres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancien, hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de briques avec porte à arc en ogive.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

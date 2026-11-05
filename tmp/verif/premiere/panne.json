@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Maine, États-Unis",
       "note": "Pannes et chevrons difficiles à distinguer sans doute ; risque de confusion avec arbalétrier/entrait."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Charpente de comble aux chevrons soulignés de rouge, vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chevrons surlignés, panne non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sous-face de toit en madriers et solives de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces non identifiables comme pannes."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toit en rondins en spirale avec lanterneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure atypique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Comble sombre aux poutres confuses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, illisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Plafond de bois d'un moulin avec poutre brute et mécanisme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contexte de moulin, panne ambiguë."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plafond peint d'une église avec poutres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor dominant, panne non identifiable."
     }
   ]
 }

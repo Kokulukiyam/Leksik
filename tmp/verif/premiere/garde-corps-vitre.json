@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de garde-corps vitré lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Militaires posant une plaque sur un garde-corps vitré, vue penchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes dominantes, garde-corps partiel."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade avec balcons à garde-corps métalliques à barreaux verticaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barreaudage, pas de verre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gare avec train et, au premier plan, un garde-corps de verre à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Train dominant, verre peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtre à persiennes avec petit balcon en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fer forgé, pas de verre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Hall d'hôtel avec escalier et verrière, garde-corps vitré lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément trop petit et noyé dans la scène."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Carte postale ancienne de l'escalier des lions, au Bardo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image ancienne imprimée, garde-corps en fer."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chantier, panneau texte visible, baie non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de brique avec deux grandes fenêtres à meneaux et encadrements de pierre, en contre-plongée.",
+      "verdict": "rejetée",
+      "note": "Montre meneaux, appuis et encadrements : plusieurs termes voisins possibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Encadrement de porte en pierre sculptée d'entrelacs, exposé dans une salle de musée.",
+      "verdict": "rejetée",
+      "note": "Évoque le chambranle ou le piédroit, hors contexte de mur.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade bicolore à plaques avec quatre fenêtres à volets roulants.",
+      "verdict": "rejetée",
+      "note": "Fenêtres simples sans encadrement distinct ; pourrait illustrer façade ou allège.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arc de pierre en ruine couvert de lierre ouvrant sur un champ.",
+      "verdict": "rejetée",
+      "note": "Arc en ruine, évoque une baie cintrée ou un arc.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fenêtre arrondie de train ou de bateau dans une cabine sombre.",
+      "verdict": "rejetée",
+      "note": "Pas une baie de mur.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte étroite dans un mur de pierre, encadrée de pierres de taille moulurées.",
+      "verdict": "rejetée",
+      "note": "Évoque surtout le chambranle ou l'encadrement ; ambigu.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

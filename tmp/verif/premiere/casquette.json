@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas une casquette."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand bâtiment classique derrière une aire de jeux ; un toit vitré bas au premier plan.",
+      "verdict": "rejetée",
+      "note": "Aucune casquette en béton au-dessus d'une baie.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Temple doré sur un bassin avec foule sous des toiles tendues.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vieille voiture rose posée sur un auvent au-dessus d'une boutique de vêtements.",
+      "verdict": "rejetée",
+      "note": "Auvent commercial insolite, pas une casquette.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grand abri en bois à toit plat à l'entrée d'un immeuble de bureaux.",
+      "verdict": "rejetée",
+      "note": "Grand auvent en bois, pas une casquette en béton.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Marquise en fer forgé et verre au-dessus d'une entrée de palais, vue de dessous.",
+      "verdict": "rejetée",
+      "note": "C'est une marquise, pas une casquette.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Abri en bois ouvert à toit à deux pentes, couvert de graffitis, dans une forêt.",
+      "verdict": "rejetée",
+      "note": "Abri, pas une casquette.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chape non visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier qui dresse du béton frais à la règle dans un coffrage extérieur sur sol de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt un dallage extérieur ; ambigu avec dallage/dalle."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cadre de ventilateur métallique posé sur un sol en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une chape."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvrier agenouillé qui talonche une chape fraîche dans une pièce, image floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape plausible mais floue ; mieux vaut les autres."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande pièce vitrée dont le sol est couvert d'une chape fluide brillante, de niveau.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape (liquide) lisse bien visible sur tout le sol ; terme incompatible avec chape liquide donc acceptable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pièce nue dont le sol est couvert d'une chape fraîche de mortier, avec bande périphérique bleue et règle au premier plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape fraîche dressée sur toute la pièce, bande de rive visible ; un peu sombre mais claire."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Faux plancher technique vu de dessous avec câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une chape."
     }
   ]
 }

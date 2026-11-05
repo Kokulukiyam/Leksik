@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Détail de mur, pas de clôture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan d'un appareil de pierre avec une inscription gravée.",
+      "verdict": "rejetée",
+      "note": "Détail de mur, rien qui montre une clôture.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chemin enneigé en noir et blanc bordé d'une barrière en bois.",
+      "verdict": "rejetée",
+      "note": "Clôture en bois, noir et blanc.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de pierres en ruine sur une pente herbeuse.",
+      "verdict": "rejetée",
+      "note": "Ruine, pas un mur de clôture.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Garde-corps rouge devant la mer au crépuscule.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Surface lisse beige uniforme.",
+      "verdict": "rejetée",
+      "note": "Image sans sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bâtiment blanc en noir et blanc derrière une route avec une moto.",
+      "verdict": "rejetée",
+      "note": "Pas de mur de clôture lisible, noir et blanc.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Toulouse, France",
       "note": "Façade d'ensemble claire malgré l'arbre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand pan de façade sombre percé de hublots ronds, au-dessus d'un rez-de-chaussée vitré, avec voitures devant.",
+      "verdict": "rejetée",
+      "note": "Évoque plutôt une façade ventilée ou un mur aveugle ; façade coupée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade frontale complète d'un immeuble de rapport avec bow-window central, balcons et lucarnes.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Façade vue de face dans son ensemble, de la toiture au rez-de-chaussée ; seules des barrières de chantier au bas."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bâtiment en brique rouge avec foule devant, enseigne de cabinet d'avocats.",
+      "verdict": "rejetée",
+      "note": "Foule et enseigne qui parasitent, texte visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Immeuble de bureaux beige en angle, vu en contre-plongée.",
+      "verdict": "rejetée",
+      "note": "Vue d'angle d'un volume entier, pas une façade.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade de maison de ville en pierre avec balcon et grandes baies cintrées, cachée en partie par un arbre.",
+      "verdict": "rejetée",
+      "note": "Branches d'arbre devant la façade, voiture au premier plan.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rez-de-chaussée commercial d'un bâtiment crème avec pharmacie et enseignes.",
+      "verdict": "rejetée",
+      "note": "Enseignes et textes, façade coupée.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

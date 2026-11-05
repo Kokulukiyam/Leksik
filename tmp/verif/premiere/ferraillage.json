@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Weidatal, Allemagne",
       "note": "Nappes d'armatures de murs et de dalle en place avant coulage, clair et dominant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Machine à cintrer les barres d'acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine, pas le ferraillage en place."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grande fouille avec nappes d'armatures en fond, engin au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures trop petites et lointaines ; plutôt fouille ou radier."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Militaire portant des barres d'acier pliées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres isolées portées à la main."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bordure de parking en béton cassé avec armatures apparentes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évoque corrosion des armatures ou épaufrure."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Barres d'acier tordues dans des gravats de démolition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Démolition, pas ferraillage."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Passage inférieur en béton de gare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

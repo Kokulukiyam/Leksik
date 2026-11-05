@@ -58,6 +58,54 @@
       },
       "lieu": "",
       "note": "Joint horizontal clair encadré de près."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Soubassement en gros moellons liés par un mortier lissé débordant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joint débordant très épais, ambigu avec mortier ou mur en moellons."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur couvert de vigne vierge rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints cachés."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de pierres volcaniques avec mortier à petits cailloux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints irréguliers ambigus avec mortier."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de briques avec plante au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints flous."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de briques et pierres réemployées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur mixte, joints peu lisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de galets et de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints peu lisibles, appareil de galets."
     }
   ]
 }

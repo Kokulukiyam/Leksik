@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "France",
       "note": "Document texte, hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tracteur avec remorque basculante sur un tas de galets de rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tracteur dominant, galets roulés."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Terrain couvert de scories noires devant un haut-fourneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scories, pas du gravier de construction."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chemin de campagne en gravier sous les arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin, pas un tas de granulat."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Camion benne chargé de gravier sur route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravier minuscule, camion dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Big bag de sacs de matériaux devant une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contenu peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grands tas de gravier concassé gris en carrière ou centrale à béton.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Klöch, Autriche",
+      "note": "Tas de gravier clairs et dominants, grain bien visible."
     }
   ]
 }

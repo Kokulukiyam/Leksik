@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Enfield, Nouvelle-Écosse, Canada",
       "note": "Fondation trop petite."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Foule d'enfants lors d'une action caritative.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet (fondation au sens ONG)."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Débat dans une salle d'exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sacs de pain dans un conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Dépistage sanitaire à une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Distribution de médicaments à des personnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux hommes devant une affiche lors d'une exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

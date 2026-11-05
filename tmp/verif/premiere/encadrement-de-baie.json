@@ -53,6 +53,54 @@
       },
       "lieu": "Barcelone, Espagne",
       "note": "Bordure en saillie, de teinte différente, qui entoure la baie ; rectangle sur l'ensemble."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble de brique à pignons, fenêtres à encadrements clairs, grandes baies cintrées au rez-de-chaussée.",
+      "verdict": "rejetée",
+      "note": "Encadrements trop petits dans une vue d'ensemble.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Maison en bois à porche, vue d'ensemble.",
+      "verdict": "rejetée",
+      "note": "Encadrements non lisibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Baie ovale à grille en fer dans une bordure de pierre granuleuse très moulurée, Casa Comalat.",
+      "verdict": "rejetée",
+      "note": "Bordure monumentale proche d'un arc ; déjà illustré par la 06, doute sur l'élément.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Immeuble de brique à pignons à gradins vu en contre-plongée.",
+      "verdict": "rejetée",
+      "note": "Vue d'ensemble, encadrements trop petits.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pignon d'une maison en bois avec fenêtres et œil-de-bœuf, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "note": "Encadrements simples, peu lisibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan d'une fenêtre à vitrail dans une très grande bordure de pierre granuleuse, surexposée.",
+      "verdict": "rejetée",
+      "note": "Cadrage trop serré, surexposition, bordure qui évoque un arc ; doute.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

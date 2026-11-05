@@ -2094,6 +2094,27 @@
     ]
   },
   {
+    "id": "trou-de-boulin",
+    "terme": "le trou de boulin",
+    "definition": "Petit trou laissé dans un mur ancien, où s'encastraient les pièces de bois de l'échafaudage.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "reservation"
+    ]
+  },
+  {
+    "id": "chape-liquide",
+    "terme": "la chape liquide",
+    "definition": "Chape fluide coulée à la pompe, qui se met de niveau d'elle-même et donne une surface très lisse.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "chape",
+      "ragreage"
+    ]
+  },
+  {
     "id": "sable",
     "terme": "le sable",
     "definition": "Granulat fin livré en tas sur le chantier, mélangé au ciment pour le mortier et le béton.",
@@ -2109,6 +2130,27 @@
     "incompatibles": [
       "retombee-de-poutre",
       "solive"
+    ]
+  },
+  {
+    "id": "dalle-caissonnee",
+    "terme": "la dalle caissonnée",
+    "definition": "Dalle de béton dont la sous-face est creusée de caissons carrés formés par des nervures croisées.",
+    "categorie": "Structure",
+    "priorite": 3,
+    "incompatibles": [
+      "dalle"
+    ]
+  },
+  {
+    "id": "dalle-champignon",
+    "terme": "la dalle champignon",
+    "definition": "Dalle sans poutres portée par des poteaux qui s'évasent en tête comme un champignon.",
+    "categorie": "Structure",
+    "priorite": 3,
+    "incompatibles": [
+      "poteau",
+      "dalle"
     ]
   },
   {
@@ -2150,6 +2192,27 @@
     ]
   },
   {
+    "id": "poutre-vierendeel",
+    "terme": "la poutre Vierendeel",
+    "definition": "Poutre à jour faite de membrures et de montants verticaux rigidement assemblés, sans diagonales.",
+    "categorie": "Structure",
+    "priorite": 3,
+    "incompatibles": [
+      "poutre-treillis",
+      "ferme-metallique"
+    ]
+  },
+  {
+    "id": "ancre",
+    "terme": "l'ancre",
+    "definition": "Pièce de fer en forme de S, de X ou de barre, fixée sur une façade au bout d'un tirant pour retenir le mur.",
+    "categorie": "Structure",
+    "priorite": 3,
+    "incompatibles": [
+      "tirant"
+    ]
+  },
+  {
     "id": "assemblage-boulonne",
     "terme": "l'assemblage boulonné",
     "definition": "Liaison de pièces métalliques par des boulons serrés à travers des plaques ou des ailes de profilés.",
@@ -2169,6 +2232,13 @@
     "incompatibles": [
       "assemblage-boulonne"
     ]
+  },
+  {
+    "id": "appareil-d-appui",
+    "terme": "l'appareil d'appui",
+    "definition": "Bloc de caoutchouc fretté ou pièce métallique placé entre une poutre et son appui pour lui permettre de bouger légèrement.",
+    "categorie": "Structure",
+    "priorite": 3
   },
   {
     "id": "porte-a-faux",
@@ -2224,6 +2294,26 @@
     ]
   },
   {
+    "id": "arc-outrepasse",
+    "terme": "l'arc outrepassé",
+    "definition": "Arc en fer à cheval, dont la courbe dépasse le demi-cercle et se resserre à la base.",
+    "categorie": "Structure",
+    "priorite": 3,
+    "incompatibles": [
+      "arc"
+    ]
+  },
+  {
+    "id": "pendentif",
+    "terme": "le pendentif",
+    "definition": "Triangle de maçonnerie courbe qui fait passer d'un plan carré au cercle d'une coupole.",
+    "categorie": "Structure",
+    "priorite": 3,
+    "incompatibles": [
+      "coupole"
+    ]
+  },
+  {
     "id": "granite",
     "terme": "le granite",
     "definition": "Roche magmatique dure et grenue, mouchetée de grains clairs et sombres, employée en dalles, bordures ou parements.",
@@ -2249,6 +2339,61 @@
     ]
   },
   {
+    "id": "travertin",
+    "terme": "le travertin",
+    "definition": "Calcaire beige criblé de petites cavités allongées, employé en dallage et en revêtement de façade.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "marbre",
+      "calcaire",
+      "pierre-de-taille"
+    ]
+  },
+  {
+    "id": "meuliere",
+    "terme": "la meulière",
+    "definition": "Pierre siliceuse brune et caverneuse, très employée en moellons apparents dans les pavillons d'Île-de-France.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "moellon",
+      "silex"
+    ]
+  },
+  {
+    "id": "tuffeau",
+    "terme": "le tuffeau",
+    "definition": "Calcaire tendre très blanc du Val de Loire, taillé en blocs pour les façades et les châteaux.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "pierre-de-taille",
+      "calcaire",
+      "travertin"
+    ]
+  },
+  {
+    "id": "silex",
+    "terme": "le silex",
+    "definition": "Pierre très dure noire ou grise à cassure luisante, posée en rognons ou taillée dans les murs.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "galet"
+    ]
+  },
+  {
+    "id": "galet",
+    "terme": "le galet",
+    "definition": "Pierre arrondie et lisse polie par l'eau, employée en mur, en sol ou en décoration.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "moellon"
+    ]
+  },
+  {
     "id": "beton-desactive",
     "terme": "le béton désactivé",
     "definition": "Béton dont on a éliminé la laitance en surface pour faire apparaître les graviers.",
@@ -2259,6 +2404,28 @@
     ]
   },
   {
+    "id": "beton-boucharde",
+    "terme": "le béton bouchardé",
+    "definition": "Béton dont la surface a été piquetée à la boucharde, ce qui lui donne un aspect granuleux et mat.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "beton",
+      "beton-brut"
+    ]
+  },
+  {
+    "id": "beton-imprime",
+    "terme": "le béton imprimé",
+    "definition": "Dalle de béton coloré dont la surface est estampée pour imiter des pavés, des dalles ou du bois.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "beton",
+      "beton-matrice"
+    ]
+  },
+  {
     "id": "brique-pleine",
     "terme": "la brique pleine",
     "definition": "Brique de terre cuite massive, sans alvéoles, souvent laissée apparente.",
@@ -2266,6 +2433,18 @@
     "priorite": 2,
     "incompatibles": [
       "brique",
+      "brique-creuse"
+    ]
+  },
+  {
+    "id": "brique-vernissee",
+    "terme": "la brique vernissée",
+    "definition": "Brique de terre cuite revêtue d'un émail brillant et coloré.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "brique",
+      "brique-pleine",
       "brique-creuse"
     ]
   },
@@ -2325,6 +2504,40 @@
     ]
   },
   {
+    "id": "rondin",
+    "terme": "le rondin",
+    "definition": "Tronc d'arbre écorcé, laissé rond, utilisé empilé en murs ou en poteaux.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "bardeau",
+    "terme": "le bardeau",
+    "definition": "Petite planchette de bois fendu posée en recouvrement sur un toit ou une façade, comme des écailles.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "bardage",
+      "tuile",
+      "bardeau-bitume"
+    ]
+  },
+  {
+    "id": "bardage-a-clin",
+    "terme": "le bardage à clin",
+    "definition": "Bardage de planches horizontales posées en recouvrement, chacune chevauchant celle du dessous.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "bardage",
+      "bois-brule",
+      "bardeau"
+    ]
+  },
+  {
     "id": "bardage-metallique",
     "terme": "le bardage métallique",
     "definition": "Revêtement de façade en tôles ou cassettes métalliques nervurées, typique des bâtiments industriels.",
@@ -2337,6 +2550,27 @@
       "bac-acier",
       "panneau-composite-aluminium",
       "acier-galvanise"
+    ]
+  },
+  {
+    "id": "bois-brule",
+    "terme": "le bois brûlé",
+    "definition": "Bois de bardage dont la surface est carbonisée, noire et craquelée, pour la protéger.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "bardage",
+      "bois"
+    ]
+  },
+  {
+    "id": "bois-composite",
+    "terme": "le bois composite",
+    "definition": "Matériau de fibres de bois et de plastique, moulé en lames rainurées pour terrasses et bardages.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "bois"
     ]
   },
   {
@@ -2362,6 +2596,23 @@
     ]
   },
   {
+    "id": "cuivre",
+    "terme": "le cuivre",
+    "definition": "Métal rougeâtre qui se patine en brun puis en vert-de-gris, employé en couverture et en habillage.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3
+  },
+  {
+    "id": "fonte",
+    "terme": "la fonte",
+    "definition": "Alliage de fer coulé en moule, lourd et cassant, employé en colonnes, grilles, regards et éléments décoratifs.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "fer-forge"
+    ]
+  },
+  {
     "id": "fer-forge",
     "terme": "le fer forgé",
     "definition": "Fer travaillé à chaud au marteau en barres tordues, volutes et pointes, pour grilles, balcons et rampes.",
@@ -2381,6 +2632,26 @@
     "priorite": 2,
     "incompatibles": [
       "metal-deploye"
+    ]
+  },
+  {
+    "id": "metal-deploye",
+    "terme": "le métal déployé",
+    "definition": "Tôle incisée puis étirée qui forme un réseau de mailles en losange.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "tole-perforee"
+    ]
+  },
+  {
+    "id": "tole-larmee",
+    "terme": "la tôle larmée",
+    "definition": "Tôle d'acier antidérapante dont la surface porte de petits reliefs en forme de larmes.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "acier-galvanise"
     ]
   },
   {
@@ -2411,6 +2682,39 @@
     ]
   },
   {
+    "id": "zellige",
+    "terme": "le zellige",
+    "definition": "Petit carreau de terre cuite émaillée, taillé à la main, assemblé en motifs géométriques.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "mosaique",
+      "mosaique-de-pate-de-verre"
+    ]
+  },
+  {
+    "id": "torchis",
+    "terme": "le torchis",
+    "definition": "Mélange de terre et de paille appliqué sur un clayonnage de bois pour remplir les murs.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "colombage",
+      "bauge"
+    ]
+  },
+  {
+    "id": "bauge",
+    "terme": "la bauge",
+    "definition": "Terre crue mêlée de paille, empilée en couches épaisses et retaillée pour former des murs massifs.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "pise",
+      "banco"
+    ]
+  },
+  {
     "id": "laine-de-verre",
     "terme": "la laine de verre",
     "definition": "Isolant fibreux, souple, souvent jaune, vendu en rouleaux ou en panneaux.",
@@ -2418,6 +2722,16 @@
     "priorite": 2,
     "incompatibles": [
       "laine-de-roche"
+    ]
+  },
+  {
+    "id": "efflorescence",
+    "terme": "l'efflorescence",
+    "definition": "Dépôt blanchâtre de sels qui apparaît à la surface d'une maçonnerie ou d'un béton humide.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 3,
+    "incompatibles": [
+      "brique"
     ]
   },
   {
@@ -2434,6 +2748,31 @@
       "metope",
       "denticule",
       "modillon"
+    ]
+  },
+  {
+    "id": "triglyphe",
+    "terme": "le triglyphe",
+    "definition": "Panneau rectangulaire gravé de rainures verticales, qui alterne avec les métopes dans la frise dorique.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "metope",
+      "frise",
+      "entablement"
+    ]
+  },
+  {
+    "id": "metope",
+    "terme": "la métope",
+    "definition": "Panneau carré, lisse ou sculpté, placé entre deux triglyphes dans la frise dorique.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "triglyphe",
+      "frise",
+      "bas-relief",
+      "haut-relief"
     ]
   },
   {
@@ -2473,6 +2812,20 @@
       "corniche",
       "modillon",
       "moulure",
+      "bandeau",
+      "chapiteau-ionique"
+    ]
+  },
+  {
+    "id": "ove",
+    "terme": "l'ove",
+    "definition": "Ornement en forme d'œuf, répété en rang et alterné avec des dards sur une moulure.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "moulure",
+      "denticule",
+      "corniche",
       "bandeau",
       "chapiteau-ionique"
     ]

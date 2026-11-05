@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Karts alignés devant un bâtiment de karting.",
+      "verdict": "rejetée",
+      "note": "Hors sujet (Muret, ville).",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Étagère de livres dans un hall.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vallée vue de loin avec collines et étang.",
+      "verdict": "rejetée",
+      "note": "Aucun muret visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arche de départ d'un circuit de karting.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petit mur en pierres sèches bordant un jardin en pente, vu de loin.",
+      "verdict": "rejetée",
+      "note": "Muret trop petit et lointain, pourrait être un mur de soutènement.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Boîte à livres en bois fixée devant un mur.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

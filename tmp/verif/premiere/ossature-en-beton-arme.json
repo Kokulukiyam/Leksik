@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pieds de table en fil blanc dans une salle d'exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan sur un morceau de béton avec une barre d'acier rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armature et fragment, pas une ossature."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Passage inférieur sous un pont ferroviaire en béton brut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage d'art, pas une ossature de bâtiment."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Dégradation sous un balcon, armatures rouillées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pathologie, pas une ossature."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment en construction à murs coffrés en aluminium, ouvriers sur le toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure à voiles coffrés, pas poteaux-poutres."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Armatures en attente et massif de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures seules, pas une ossature."
     }
   ]
 }

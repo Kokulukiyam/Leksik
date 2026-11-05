@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Dessin."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Charpente en bois de chevrons sous un abri.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bois, pas métal."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Intérieur d'une grande halle dont la toiture est portée par des fermes métalliques triangulées sous un lanterneau vitré.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 1.0,
+        "hauteur": 0.68
+      },
+      "lieu": "Stockholm, Suède",
+      "note": "Fermes en treillis d'acier bien lisibles ; rectangle sur la toiture pour écarter les arcs en bas."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maison en construction avec fermettes en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bois, pas métal."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Charpente en bois lamellé vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bois, pas métal."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Même halle que 08 (doublon).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doublon de 08, déjà retenu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Halle industrielle chargée de palettes, fermes métalliques en hauteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermes visibles mais scène encombrée, moins nette que 08."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Fouille archéologique, image de reproduction peu lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rue enneigée devant un grand bâtiment bâché en chantier, grue rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune fouille visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue aérienne ancienne en noir et blanc d'un quartier avec un chantier au centre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop lointain, ancien, peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pile de grumes devant un silo sur un quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grue jaune et façade bâchée de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Hommes devant une ossature en bois dans un local.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tranchée étroite en terre rouge avec cages d'armatures au fond et gros cube d'armatures à côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évoque tranchée de fondation, semelle ou ferraillage plutôt que la fouille ; ambigu."
     }
   ]
 }

@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plateau ralentisseur plutôt que dos-d'âne ; peu net."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Passage piéton avec îlot refuge et potelets jaunes, sans bosse visible.",
+      "verdict": "rejetée",
+      "note": "Pas de dos-d'âne net.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Marquage blanc ondulé sur la chaussée devant un mur, bosse non lisible.",
+      "verdict": "rejetée",
+      "note": "Marquage, pas de bosse nette.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Route avec balises jaunes souples dans la voie centrale.",
+      "verdict": "rejetée",
+      "note": "Pas de dos-d'âne.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poste de police en Oman avec ralentisseurs noir et jaune lointains.",
+      "verdict": "rejetée",
+      "note": "Ralentisseurs petits et ambigus avec bordures peintes, scène chargée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Route à trois voies avec lignes jaunes, sans bosse.",
+      "verdict": "rejetée",
+      "note": "Aucun dos-d'âne.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue humide d'une ville du Bélarus avec un ralentisseur à bandes jaunes et noires en travers de la chaussée, devant des maisons.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.28,
+        "y": 0.78,
+        "largeur": 0.72,
+        "hauteur": 0.22
+      },
+      "lieu": "Minsk, Bélarus",
+      "note": "Bosse jaune et noire en travers de la chaussée, encadrée ; rectangle levant le doute avec les maisons et la clôture."
     }
   ]
 }

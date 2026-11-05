@@ -1,0 +1,262 @@
+[
+  {
+    "cle": "trou-de-boulin/01",
+    "accord": true,
+    "raison": "Mur en pierre de taille percé de petits trous carrés alignés ; le rectangle encadre une rangée de trous de boulin typiques."
+  },
+  {
+    "cle": "trou-de-boulin/05",
+    "accord": true,
+    "raison": "Mur ancien en moellons avec deux cavités rectangulaires alignées, désignées par le rectangle : trous de boulin plausibles et lisibles."
+  },
+  {
+    "cle": "chape-liquide/04",
+    "accord": true,
+    "raison": "Sol de chantier fraîchement coulé, fluide, parfaitement plan et miroitant : chape liquide autonivelante typique."
+  },
+  {
+    "cle": "dalle-caissonnee/02",
+    "accord": true,
+    "raison": "Sous-face de dalle béton à caissons carrés formés par des nervures croisées, très lisible."
+  },
+  {
+    "cle": "dalle-champignon/03",
+    "accord": true,
+    "raison": "Photo N&B d'un plancher sans poutres porté par des poteaux à tête évasée en champignon : exemple clair."
+  },
+  {
+    "cle": "poutre-vierendeel/02",
+    "accord": true,
+    "raison": "Pont à poutre ajourée de membrures et montants verticaux sans diagonales, ouvertures à angles arrondis : poutre Vierendeel bien cadrée."
+  },
+  {
+    "cle": "ancre/02",
+    "accord": true,
+    "raison": "Ancre de fer décorative (en fleur de lys) fixée sur un mur en granit, exactement encadrée."
+  },
+  {
+    "cle": "ancre/06",
+    "accord": true,
+    "raison": "Ancre en X en fer avec l'extrémité filetée du tirant, sur un mur en moellons : très clair."
+  },
+  {
+    "cle": "appareil-d-appui/01",
+    "accord": true,
+    "raison": "Appareil d'appui métallique (à pot) entre le tablier et le sommier béton, bien cadré."
+  },
+  {
+    "cle": "appareil-d-appui/02",
+    "accord": true,
+    "raison": "Appareil d'appui en élastomère fretté sous une poutre métallique, encadré par le rectangle."
+  },
+  {
+    "cle": "arc-outrepasse/03",
+    "accord": true,
+    "raison": "Arc en fer à cheval mauresque dont la courbe dépasse nettement le demi-cercle, bien encadré."
+  },
+  {
+    "cle": "arc-outrepasse/05",
+    "accord": false,
+    "raison": "Arc outrepassé mais nettement brisé (pointe au sommet) : « l'arc brisé », présent dans les choix, serait aussi défendable."
+  },
+  {
+    "cle": "pendentif/03",
+    "accord": true,
+    "raison": "Photo d'un pendentif peint entre deux arcs sous l'anneau d'une coupole : triangle sphérique bien visible."
+  },
+  {
+    "cle": "pendentif/06",
+    "accord": true,
+    "raison": "Pendentif décoré (caravelle peinte) entre deux grands arcs, sous la base circulaire de la coupole : forme claire."
+  },
+  {
+    "cle": "travertin/05",
+    "accord": true,
+    "raison": "Dalles de travertin à cavités allongées caractéristiques, gros plan lisible."
+  },
+  {
+    "cle": "meuliere/04",
+    "accord": true,
+    "raison": "Pavillon francilien en moellons de meulière brune et caverneuse avec chaînages brique ; rectangle sur un panneau de meulière."
+  },
+  {
+    "cle": "tuffeau/02",
+    "accord": true,
+    "raison": "Façade et tourelle d'un château ligérien en pierre blanche tendre appareillée : tuffeau typique."
+  },
+  {
+    "cle": "tuffeau/06",
+    "accord": true,
+    "raison": "Azay-le-Rideau, façade en tuffeau blanc encadrée : exemple emblématique."
+  },
+  {
+    "cle": "silex/02",
+    "accord": true,
+    "raison": "Mur en rognons de silex taillés gris-noir à cassure luisante, le rectangle cible bien le silex."
+  },
+  {
+    "cle": "silex/06",
+    "accord": true,
+    "raison": "Pignon en silex noirs éclatés noyés dans le mortier, matériau dominant et clair."
+  },
+  {
+    "cle": "galet/02",
+    "accord": true,
+    "raison": "Mur de cimetière en galets arrondis assisés, encadré par le rectangle ; lisible."
+  },
+  {
+    "cle": "galet/05",
+    "accord": true,
+    "raison": "Mur de soutènement entièrement en galets lisses et arrondis : très clair."
+  },
+  {
+    "cle": "beton-boucharde/01",
+    "accord": true,
+    "raison": "Poteau en béton à surface piquetée, granuleuse et mate : béton bouchardé typique."
+  },
+  {
+    "cle": "beton-boucharde/02",
+    "accord": true,
+    "raison": "Poteaux en béton à surface fortement bouchardée, relief éclaté visible en gros plan."
+  },
+  {
+    "cle": "beton-imprime/03",
+    "accord": true,
+    "raison": "Ouvriers estampant une dalle de béton frais avec des matrices imitant des dalles : béton imprimé clairement encadré."
+  },
+  {
+    "cle": "brique-vernissee/01",
+    "accord": true,
+    "raison": "Mur de briques à émail brillant et coloré, craquelé, posées en appareil : brique vernissée nette."
+  },
+  {
+    "cle": "brique-vernissee/03",
+    "accord": true,
+    "raison": "Rangs de briques vernissées vertes et noires alternant avec des briques rouges ; le rectangle cible les rangs émaillés."
+  },
+  {
+    "cle": "rondin/02",
+    "accord": true,
+    "raison": "Cabane en troncs ronds empilés, croisés aux angles : murs en rondins typiques."
+  },
+  {
+    "cle": "rondin/05",
+    "accord": true,
+    "raison": "Abri forestier en rondins écorcés empilés, poteaux en rondins : très lisible."
+  },
+  {
+    "cle": "bardeau/01",
+    "accord": true,
+    "raison": "Gros plan de bardeaux de bois fendu posés en recouvrement : très clair."
+  },
+  {
+    "cle": "bardeau/02",
+    "accord": true,
+    "raison": "Bâtiment couvert et bardé de bardeaux de cèdre en écailles, toiture et murs : terme juste."
+  },
+  {
+    "cle": "bardage-a-clin/04",
+    "accord": true,
+    "raison": "Pignon en planches horizontales se chevauchant ; le rectangle cible bien le bardage à clin."
+  },
+  {
+    "cle": "bois-brule/01",
+    "accord": true,
+    "raison": "Planche à surface carbonisée noire et craquelée en écailles : bois brûlé typique."
+  },
+  {
+    "cle": "bois-brule/04",
+    "accord": true,
+    "raison": "Lames de bardage carbonisées à craquelures caractéristiques, gros plan net."
+  },
+  {
+    "cle": "bois-composite/03",
+    "accord": true,
+    "raison": "Lames de terrasse rainurées de couleurs uniformes, aspect plastique moulé : bois composite."
+  },
+  {
+    "cle": "cuivre/05",
+    "accord": true,
+    "raison": "Bulbe de clocher en cuivre neuf rougeâtre et brillant, bien encadré."
+  },
+  {
+    "cle": "fonte/01",
+    "accord": true,
+    "raison": "Ornement rouillé épais moulé (rinceaux) typique d'une pièce en fonte de grille ou de banc."
+  },
+  {
+    "cle": "metal-deploye/03",
+    "accord": true,
+    "raison": "Façade entièrement habillée de métal déployé à mailles losangées : très clair."
+  },
+  {
+    "cle": "metal-deploye/06",
+    "accord": true,
+    "raison": "Gros plan d'une résille en métal déployé aux mailles en losange étirées."
+  },
+  {
+    "cle": "tole-larmee/01",
+    "accord": true,
+    "raison": "Tôle rouillée à reliefs en larmes croisés : tôle larmée sans ambiguïté."
+  },
+  {
+    "cle": "tole-larmee/05",
+    "accord": true,
+    "raison": "Plaque de tôle larmée grise avec ses reliefs en larmes, gros plan net."
+  },
+  {
+    "cle": "zellige/02",
+    "accord": true,
+    "raison": "Revêtement marocain de petits carreaux émaillés taillés en motifs géométriques : zellige typique."
+  },
+  {
+    "cle": "torchis/02",
+    "accord": true,
+    "raison": "Pan de bois avec garnissage de terre et paille sur clayonnage de lattes apparent : torchis clair."
+  },
+  {
+    "cle": "torchis/06",
+    "accord": true,
+    "raison": "Pans de bois garnis de torchis sur lattis visible ; un seul panneau en moellons, le torchis domine."
+  },
+  {
+    "cle": "bauge/05",
+    "accord": true,
+    "raison": "Murs massifs en terre crue mêlée de paille, épaisseur visible à l'ébrasement de porte : bauge."
+  },
+  {
+    "cle": "bauge/06",
+    "accord": true,
+    "raison": "Mur de clôture en terre crue massive (cob) sur soubassement de pierre, coiffé de tuiles ; rectangle sur la terre."
+  },
+  {
+    "cle": "efflorescence/01",
+    "accord": true,
+    "raison": "Dépôts blancs de sels coulant d'un joint sur un mur en béton, bien encadrés."
+  },
+  {
+    "cle": "efflorescence/05",
+    "accord": false,
+    "raison": "Photo floue et confuse d'une voûte humide moussue avec coulures blanches : peu lisible, maçonnerie mal identifiable."
+  },
+  {
+    "cle": "triglyphe/05",
+    "accord": true,
+    "raison": "Frise dorique antique ; le rectangle encadre exactement un triglyphe à rainures verticales entre deux métopes lisses."
+  },
+  {
+    "cle": "metope/04",
+    "accord": true,
+    "raison": "Panneau sculpté (cavalier) entre deux triglyphes d'une frise dorique, bien encadré."
+  },
+  {
+    "cle": "ove/02",
+    "accord": true,
+    "raison": "Gros plan d'un ove dans sa coque, entre deux dards : très net."
+  },
+  {
+    "cle": "ove/05",
+    "accord": true,
+    "raison": "Rang d'oves alternés de petits dards sur une moulure de chapiteau, encadré par le rectangle."
+  }
+]

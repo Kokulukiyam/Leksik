@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Loggia non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Niches voûtées décorées de mosaïques bleues, vues de près.",
+      "verdict": "rejetée",
+      "note": "Niches ou iwans, pas une loggia lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade de restaurant avec, à l'étage, une galerie à arcades en retrait sous le toit.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.27,
+        "largeur": 0.48,
+        "hauteur": 0.19
+      },
+      "lieu": "Savoie, France",
+      "note": "Loggia à arcades en retrait dans l'épaisseur de la façade, encadrée ; le rez-de-chaussée du restaurant pourrait distraire."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petit balcon à garde-corps ajouré devant une porte-fenêtre, mur de brique couvert de lierre.",
+      "verdict": "rejetée",
+      "note": "Balcon en saillie, pas une loggia.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Intérieur d'une galerie en bois à arcades et colonnes, avec banc.",
+      "verdict": "rejetée",
+      "note": "Vue d'intérieur confuse, pourrait être une véranda ou un porche.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tribune dorée en encorbellement dans un salon à plafond peint.",
+      "verdict": "rejetée",
+      "note": "Tribune intérieure, pas une loggia.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Voiles blanches d'un bâtiment vues à travers des montants vitrés.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

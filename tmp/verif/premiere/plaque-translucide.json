@@ -24,6 +24,35 @@
       "rectangle": null,
       "lieu": "Tottenham, Londres",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Étal de légumes en libre-service sous un toit de tôle rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tôle opaque rouillée, pas translucide."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Étal de légumes sous un toit de plaques ondulées translucides, le ciel bleu se voit à travers.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.13,
+        "largeur": 1.0,
+        "hauteur": 0.19
+      },
+      "lieu": "Fujikawaguchiko, Japon",
+      "note": "Plaques ondulées translucides nettes ; rectangle sur le toit, hors panneaux de prix."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Distributeur de boissons sous un abri à toit de plaques vieillies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Distributeur dominant, toit peu lisible."
     }
   ]
 }

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Toit végétalisé, confusion possible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rive de tuiles au-dessus d'une porte de grange noire et d'une plante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Débord peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sous-face d'un débord de toit avec jambes de force en bois, gare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure de charpente plus que avant-toit, ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pavillon vu en contre-plongée : débord de toit à consoles sous une lucarne à pignon.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.44,
+        "largeur": 0.91,
+        "hauteur": 0.17
+      },
+      "lieu": "Kawit, Philippines",
+      "note": "Débord de toit au-dessus du mur bien lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Église à toit débordant et flèche, ciel gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Débord peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Coq de cuivre sur un pignon en brique avec gouttière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pignon et gouttière dominants."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sous-face d'un auvent en bois avec poutres rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Auvent, pas avant-toit d'un mur."
     }
   ]
 }

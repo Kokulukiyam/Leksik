@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Dessin."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Soudeur qui meule une ossature métallique, étincelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cornière non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Objets de levage (chaîne, poulies) sur une table d'exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Verrière métallique de la gare Victoria, Londres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermes et pas de cornière lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poutres numérotées en noir et blanc, architecture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de cornière."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Haut-fourneau en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dessin d'un poinçon d'outil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, sans rapport."
     }
   ]
 }

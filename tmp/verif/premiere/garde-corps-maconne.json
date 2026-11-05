@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Aucun garde-corps maçonné visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Terrasse de bastion avec parapet crénelé en pierre sur la mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parapet de fortification, pas un balcon."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan d'une pièce de monnaie sur du bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cour d'un château de brique avec créneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Toit-terrasse avec murets gris au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Acrotère plutôt que garde-corps, ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Haut d'un bâtiment à fronton avec drapeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, pas de garde-corps."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Terrasse couverte avec muret plein, contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surexposée, trop confuse."
     }
   ]
 }

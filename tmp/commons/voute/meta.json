@@ -3,11 +3,21 @@
     "id": "voute",
     "terme": "la voûte",
     "categorie": "Structure",
-    "definition": "Ouvrage de maçonnerie courbe qui couvre un espace, comme un plafond en forme d'arc.",
+    "definition": "Ouvrage de maçonnerie cintré qui couvre un espace, comme un arc prolongé dans la profondeur.",
     "requetes": [
       "incategory:\"Barrel vaults\"",
       "barrel vault interior",
       "incategory:\"Rib vaults\""
+    ],
+    "requetes2": [
+      "barrel vault nave",
+      "voûte en berceau",
+      "groin vault interior"
+    ],
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Vaults",
+      "Category:Barrel vaults"
     ]
   },
   "candidats": [
@@ -147,6 +157,133 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/20090818250DR_Pom%C3%9Fen_%28Parthenstein%29_Dorfkirche_Seitenschiff.jpg/1280px-20090818250DR_Pom%C3%9Fen_%28Parthenstein%29_Dorfkirche_Seitenschiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2430,
       "hauteur": 1854
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:All Saints Church, Middle Claydon, Bucks, England - chancel barrel ceiling.jpg",
+      "description": "The wooden barrel ceiling of the chancel in the parish Church of All Saints, Middle Claydon , Buckinghamshire , England. Software : JPEG file optimized and/or cropped and/or spun with DxO OpticsPro 10 Elite and Adobe Photoshop CS2 .",
+      "categories": [
+        "Taken with Nikon Coolpix L810",
+        "Barrel vaults",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Bosses in England",
+        "Ceilings in Buckinghamshire",
+        "Churches in Buckinghamshire photographed in 2014",
+        "September 2014 in Buckinghamshire",
+        "United Kingdom photographs taken on 2014-09-13",
+        "Painted ceilings in England",
+        "Wooden church ceilings in England",
+        "Acabashi photos: church ceilings",
+        "All Saints Church, Middle Claydon (interior)"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:All_Saints_Church,_Middle_Claydon,_Bucks,_England_-_chancel_barrel_ceiling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/All_Saints_Church%2C_Middle_Claydon%2C_Bucks%2C_England_-_chancel_barrel_ceiling.jpg/1280px-All_Saints_Church%2C_Middle_Claydon%2C_Bucks%2C_England_-_chancel_barrel_ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3091,
+      "hauteur": 4122
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bogen, Tonnengewölbe (Baukunde für Architekten, 1903, S.99, Fig.230).jpg",
+      "description": "Bogen, Tonnengewölbe (Baukunde für Architekten, 1903, S.99, Fig.230)",
+      "categories": [
+        "Arches",
+        "Vaults",
+        "Bogen",
+        "Author died more than 70 years ago public domain images",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Anonyme Fachbuchzeichnung, erschienen 1903.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bogen,_Tonnengew%C3%B6lbe_(Baukunde_f%C3%BCr_Architekten,_1903,_S.99,_Fig.230).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Bogen%2C_Tonnengew%C3%B6lbe_%28Baukunde_f%C3%BCr_Architekten%2C_1903%2C_S.99%2C_Fig.230%29.jpg/1280px-Bogen%2C_Tonnengew%C3%B6lbe_%28Baukunde_f%C3%BCr_Architekten%2C_1903%2C_S.99%2C_Fig.230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3939,
+      "hauteur": 2502
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bóveda de cañón de de la iglesia del monasterio de San Miguel de los Reyes 01.jpg",
+      "description": "Bóveda de cañón de de la iglesia del monasterio de San Miguel de los Reyes.",
+      "categories": [
+        "Interior of Sant Miquel dels Reis",
+        "Barrel vaults",
+        "Images from Wiki Loves Monuments 2018",
+        "Self-published work",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Uploaded via Campaign:wlm-es",
+        "Files with coordinates missing SDC location of creation",
+        "Church vaults in the province of Valencia",
+        "Spain photographs taken on 2017-03-05",
+        "Images from Wiki Loves Monuments 2018 in Spain",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Photographs by User:Dorieo",
+        "All media supported by Wikimedia España in 2018"
+      ],
+      "auteur": "Dorieo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C3%B3veda_de_ca%C3%B1%C3%B3n_de_de_la_iglesia_del_monasterio_de_San_Miguel_de_los_Reyes_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/B%C3%B3veda_de_ca%C3%B1%C3%B3n_de_de_la_iglesia_del_monasterio_de_San_Miguel_de_los_Reyes_01.jpg/1280px-B%C3%B3veda_de_ca%C3%B1%C3%B3n_de_de_la_iglesia_del_monasterio_de_San_Miguel_de_los_Reyes_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2667
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:DSC 9466-28 (3464792477).jpg",
+      "description": "DSC_9466-28",
+      "categories": [
+        "Vaults",
+        "Diefenbunker",
+        "Flickr images reviewed by FlickreviewR 2",
+        "April 2009 in Ottawa"
+      ],
+      "auteur": "Iouri Goussev",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DSC_9466-28_(3464792477).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/DSC_9466-28_%283464792477%29.jpg/1280px-DSC_9466-28_%283464792477%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1371,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Arlempdes Poterne2.JPG",
+      "description": "Arlempdes , comm. de la Haute-Loire, France (région Auvergne). La poterne (arche voûtée en berceau brisé), face nord.",
+      "categories": [
+        "Taken with Olympus SP-570UZ",
+        "Barrel vaults",
+        "Self-published work",
+        "PD-self",
+        "Gates in Haute-Loire",
+        "Buildings in Arlempdes"
+      ],
+      "auteur": "Torsade de Pointes",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arlempdes_Poterne2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Arlempdes_Poterne2.JPG/1280px-Arlempdes_Poterne2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - FO232095 - Architettura e mattoni - arco-volta.jpg",
+      "description": "10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - Architettura e mattoni - arco-volta",
+      "categories": [
+        "Baths of Caracalla",
+        "Vaults",
+        "Opus lateritium",
+        "Self-published work"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232095_-_Architettura_e_mattoni_-_arco-volta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/10_2023_-_Terme_%28Baths_of%29_Caracalla%2C_Arte_Romana%2C_Viale_Guido_Baccelli%2C_Rome%2C_Roma%2C_Lazio%2C_00154%2C_Italy_-_Photo_Paolo_Villa_-_FO232095_-_Architettura_e_mattoni_-_arco-volta.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

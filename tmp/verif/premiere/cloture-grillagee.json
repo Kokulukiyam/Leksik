@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Flou et sombre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vache qui broute à travers un grillage, gros plan sur sa tête.",
+      "verdict": "rejetée",
+      "note": "L'animal domine l'image.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dépôt de bus derrière un grillage en bord d'image, ombre du grillage au sol.",
+      "verdict": "rejetée",
+      "note": "Clôture marginale, scène chargée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Caméléon sur un grillage.",
+      "verdict": "rejetée",
+      "note": "L'animal domine.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Longue clôture à mailles fines tendue sur des perches de bois, avec isolateurs, en terrain sableux.",
+      "verdict": "rejetée",
+      "note": "Clôture agricole ou électrique, ambiguë avec une clôture en bois ; image peu claire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Âne devant un grillage dans un enclos.",
+      "verdict": "rejetée",
+      "note": "L'animal domine, grillage secondaire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Paysage en noir et blanc avec route et clôture lointaine.",
+      "verdict": "rejetée",
+      "note": "Image ancienne en noir et blanc, clôture quasi invisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }
