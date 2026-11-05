@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "piscine-a-debordement",
+    "terme": "la piscine à débordement",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Piscine dont l'eau déborde sur un ou plusieurs bords en une lame continue, donnant l'illusion qu'elle se prolonge dans le paysage.",
+    "priorite": 3,
+    "requetes": [
+      "infinity pool",
+      "piscine à débordement",
+      "infinity edge pool"
+    ],
+    "incompatibles": [
+      "piscine"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A vibrant blue swimming pool features white metal ladders against a clear sky.jpg",
+      "description": "A vibrant blue swimming pool features white metal ladders against a clear sky. The pool appears empty, suggesting it may be prepped for summer fun and relaxation soon.",
+      "categories": [
+        "Ladders",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg/1280px-A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A young child wearing a red shirt plays beside an inflatable pool filled with vibrant floaties.jpg",
+      "description": "A young child wearing a red shirt plays beside an inflatable pool filled with vibrant floaties. The setting is a backyard surrounded by greenery, indicating summer fun during the evening.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_young_child_wearing_a_red_shirt_plays_beside_an_inflatable_pool_filled_with_vibrant_floaties.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/A_young_child_wearing_a_red_shirt_plays_beside_an_inflatable_pool_filled_with_vibrant_floaties.jpg/1280px-A_young_child_wearing_a_red_shirt_plays_beside_an_inflatable_pool_filled_with_vibrant_floaties.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:42064096Վլադիմիր.jpg",
+      "description": "Vladimir Harutyunyan",
+      "categories": [
+        "CC-Zero",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Արշո",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:42064096%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/42064096%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80.jpg/1280px-42064096%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Child in swim goggles adjusts mask near pool on a sunny day.jpg",
+      "description": "A boy wearing swim goggles is getting ready to swim near a pool. He stands on the edge of the pool with water droplets on his skin. It is a warm and sunny day.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_in_swim_goggles_adjusts_mask_near_pool_on_a_sunny_day.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Child_in_swim_goggles_adjusts_mask_near_pool_on_a_sunny_day.jpg/1280px-Child_in_swim_goggles_adjusts_mask_near_pool_on_a_sunny_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:-Man Sitting at Edge of Swimming Pool with Surface Water Reflections- MET DP106482.jpg",
+      "description": "Photograph; Photographs",
+      "categories": [
+        "Department of Photographs, Metropolitan Museum of Art",
+        "Swimming pools",
+        "Artworks without Wikidata item",
+        "Louis Fleckenstein",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "PD-old-80",
+        "CC-PD-Mark",
+        "GWToolset Batch Upload",
+        "1931 black and white photographs"
+      ],
+      "auteur": "Louis Fleckenstein",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:-Man_Sitting_at_Edge_of_Swimming_Pool_with_Surface_Water_Reflections-_MET_DP106482.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/-Man_Sitting_at_Edge_of_Swimming_Pool_with_Surface_Water_Reflections-_MET_DP106482.jpg/1280px--Man_Sitting_at_Edge_of_Swimming_Pool_with_Surface_Water_Reflections-_MET_DP106482.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3202,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A young child stands in shallow water, enjoying the coolness of the pool while wearing a colorful swimsuit. The sunlight reflects off the water, creating a joyful atmosphere.jpg",
+      "description": "A young child stands in shallow water, enjoying the coolness of the pool while wearing a colorful swimsuit. The sunlight reflects off the water, creating a joyful atmosphere.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_young_child_stands_in_shallow_water,_enjoying_the_coolness_of_the_pool_while_wearing_a_colorful_swimsuit._The_sunlight_reflects_off_the_water,_creating_a_joyful_atmosphere.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/A_young_child_stands_in_shallow_water%2C_enjoying_the_coolness_of_the_pool_while_wearing_a_colorful_swimsuit._The_sunlight_reflects_off_the_water%2C_creating_a_joyful_atmosphere.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    }
+  ]
+}

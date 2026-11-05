@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "volige",
+    "terme": "la volige",
+    "categorie": "Toitures",
+    "definition": "Planche mince clouée jointive sur les chevrons pour porter une couverture en ardoise ou en zinc.",
+    "priorite": 3,
+    "requetes": [
+      "roof boarding sarking boards",
+      "voligeage toiture",
+      "volige"
+    ],
+    "incompatibles": [
+      "chevron"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Harzkornmagazin, Verschalung Dachgeschoss 02.jpg",
+      "description": "Sparren und Verschalung auf dem Dachboden des Harzkornmagazins in Osterode am Harz.",
+      "categories": [
+        "Rafters (structural systems)",
+        "Uploaded with VicuñaUploader",
+        "Interior of Harzkornmagazin",
+        "Purlins",
+        "Photographs by Migebert"
+      ],
+      "auteur": "Migebert",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Harzkornmagazin,_Verschalung_Dachgeschoss_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Harzkornmagazin%2C_Verschalung_Dachgeschoss_02.jpg/1280px-Harzkornmagazin%2C_Verschalung_Dachgeschoss_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fundament zur Errichtung einer Treppenanlage zum Parkbogen Ost 2.jpg",
+      "description": "Fondement d'un nouvel escalier pour le « Parkbogen Ost » dans la rue Theodor-Neubauer : le béton a été coulé dans un moule en bois rempli d'acier d'armature. Après le durcissement, on érige l'escalier proprement dit sur les fondations en béton armé.",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Nikon D750",
+        "Retouched pictures",
+        "Theodor-Neubauer-Straße (Leipzig)",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Leipzig photographs taken on 2023-03-24",
+        "Photographs by Augustgeyler",
+        "Construction phase of Parkbogen Ost"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fundament_zur_Errichtung_einer_Treppenanlage_zum_Parkbogen_Ost_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Fundament_zur_Errichtung_einer_Treppenanlage_zum_Parkbogen_Ost_2.jpg/1280px-Fundament_zur_Errichtung_einer_Treppenanlage_zum_Parkbogen_Ost_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5549,
+      "hauteur": 3429
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Fundament zur Errichtung einer Treppenanlage zum Parkbogen Ost.jpg",
+      "description": "Fondement d'un nouvel escalier pour le « Parkbogen Ost » dans la rue Theodor-Neubauer : le béton a été coulé dans un moule en bois rempli d'acier d'armature. Après le durcissement, on érige l'escalier proprement dit sur les fondations en béton armé.",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Nikon D750",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Leipzig photographs taken on 2023-03-24",
+        "Photographs by Augustgeyler",
+        "Construction phase of Parkbogen Ost"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fundament_zur_Errichtung_einer_Treppenanlage_zum_Parkbogen_Ost.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Fundament_zur_Errichtung_einer_Treppenanlage_zum_Parkbogen_Ost.jpg/1280px-Fundament_zur_Errichtung_einer_Treppenanlage_zum_Parkbogen_Ost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4021,
+      "hauteur": 6031
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Brückenbau am Haltepunkt Anger-Crottendorf.jpg",
+      "description": "An elaborate steel and wood formwork over Zweinaundorfer Straße was built in order to be able to erect the east of the two railway overpasses at the Leipzig Anger-Crottendorf stop in reinforced concrete construction.",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Nikon D750",
+        "EÜ Zweinaundorfer Straße (Güterring)",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Leipzig photographs taken on 2023-03-26",
+        "Photographs by Augustgeyler"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Br%C3%BCckenbau_am_Haltepunkt_Anger-Crottendorf.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Br%C3%BCckenbau_am_Haltepunkt_Anger-Crottendorf.jpg/1280px-Br%C3%BCckenbau_am_Haltepunkt_Anger-Crottendorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5938,
+      "hauteur": 3958
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Stahlbetonbau am Haltepunkt Anger-Crottendorf.jpg",
+      "description": "Construction of the abutments for the east of the two railway overpasses at the Leipzig Anger-Crottendorf stop. On the right is the formwork for concrete construction. To the left in the foreground is the pile wall, which until 2021 served as the eastern boundary of the railway dam. In the middle you can see the already built staircase with the passenger elevator to the platform.",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Nikon D750",
+        "EÜ Zweinaundorfer Straße (Güterring)",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Leipzig photographs taken on 2023-03-26",
+        "Photographs by Augustgeyler",
+        "Rail construction at Haltepunkt Leipzig Anger-Crottendorf"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stahlbetonbau_am_Haltepunkt_Anger-Crottendorf.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Stahlbetonbau_am_Haltepunkt_Anger-Crottendorf.jpg/1280px-Stahlbetonbau_am_Haltepunkt_Anger-Crottendorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5387,
+      "hauteur": 3871
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Eisspeicher im Neubau Historisches Archiv der Stadt Köln-4213.jpg",
+      "description": "Eisspeicher im Neubau Historisches Archiv der Stadt Köln",
+      "categories": [
+        "Doka Group",
+        "Self-published work",
+        "Information field template with formatting",
+        "Uploaded with LrMediaWiki",
+        "November 2017 in construction in Cologne",
+        "Files by User:Raymond from de.wikipedia/Historisches Archiv",
+        "Eisspeicher im Neubau Historisches Archiv der Stadt Köln"
+      ],
+      "auteur": "Raimond Spekking",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eisspeicher_im_Neubau_Historisches_Archiv_der_Stadt_K%C3%B6ln-4213.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Eisspeicher_im_Neubau_Historisches_Archiv_der_Stadt_K%C3%B6ln-4213.jpg/1280px-Eisspeicher_im_Neubau_Historisches_Archiv_der_Stadt_K%C3%B6ln-4213.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

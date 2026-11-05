@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "ginna",
+    "terme": "la ginna",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Grande maison du patriarche d'un lignage dogon, dont la façade de terre est percée de rangées de petites niches.",
+    "priorite": 3,
+    "requetes": [
+      "ginna Dogon",
+      "Dogon ginna house facade",
+      "ginna maison dogon"
+    ],
+    "incompatibles": [
+      "grenier-dogon",
+      "banco"
+    ],
+    "categoriesCommons": [
+      "Category:Dogon architecture"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Casas dogon.jpg",
+      "description": "Dogon houses from the XIV century. UNESCO",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 970 IS",
+        "License migration redundant",
+        "Self-published work",
+        "Dogon architecture",
+        "Tellem dwellings"
+      ],
+      "auteur": "Andres.barragan",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casas_dogon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Casas_dogon.jpg/1280px-Casas_dogon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bandiagara escarpment2.jpg",
+      "description": "The Bandiagara Escarpment is an escarpment in the Dogon country — in the Sahel region of Mali. The sandstone cliff rises about 500 meters above the lower sandy flats to the south. It has a length of approximately 150 kilometers. The area of the escarpment is inhabited today by the Dogon people. Before the Dogon the escarpment was inhabited by the Tellem and Toloy. Many structures remain from the Tellem. The Bandiagara Escarpment was listed in the UNESCO World Heritage List in 1989.",
+      "categories": [
+        "Taken with Canon EOS 300D",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Dogon architecture",
+        "Photographs by Ferdinand Reus",
+        "Tellem dwellings"
+      ],
+      "auteur": "Ferdinand Reus from Arnhem, Holland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bandiagara_escarpment2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandiagara_escarpment2.jpg/1280px-Bandiagara_escarpment2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Les montagnes du Macina-Habitations des Habbès (AOF).jpg",
+      "description": "*François-Edmond Fortier, Les montagnes du Macina. Habitations des Habbès dans les excavations des falaises . Afrique Occidentale - Soudan.",
+      "categories": [
+        "Bandiagara Escarpment",
+        "PD-old-70-expired",
+        "Dogon architecture",
+        "CC-PD-Mark",
+        "Macina, Mali",
+        "PD-old missing SDC copyright status",
+        "Postcards published by François-Edmond Fortier",
+        "Postcards of Mopti Region"
+      ],
+      "auteur": "François-Edmond Fortier (1862-1928)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Les_montagnes_du_Macina-Habitations_des_Habb%C3%A8s_(AOF).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Les_montagnes_du_Macina-Habitations_des_Habb%C3%A8s_%28AOF%29.jpg/1280px-Les_montagnes_du_Macina-Habitations_des_Habb%C3%A8s_%28AOF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1618,
+      "hauteur": 1031
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dogon village rooftops by David Sessoms.jpg",
+      "description": "Rooftops of a Dogon village near the Bandiagara escarpment, Dogon country, Mali.",
+      "categories": [
+        "Bandiagara Escarpment",
+        "Flickr images uploaded by Flickr upload bot",
+        "Dogon architecture"
+      ],
+      "auteur": "David Sessoms",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dogon_village_rooftops_by_David_Sessoms.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Dogon_village_rooftops_by_David_Sessoms.jpg/1280px-Dogon_village_rooftops_by_David_Sessoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mali, maison du chef du village Dogon \"Banani\" (8441477399).jpg",
+      "description": "Mali, maison du chef du village Dogon \"Banani\". Lieu du 1er bivouac : sur son toit",
+      "categories": [
+        "1997 in Mali",
+        "Banani (Mali)",
+        "Dogon architecture",
+        "January 1997 photographs",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Images uploaded by User:Thibaultmol",
+        "Files from Jeanne Menjoulet Flickr stream",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Jeanne Menjoulet from Paris, France",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mali,_maison_du_chef_du_village_Dogon_%22Banani%22_(8441477399).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Mali%2C_maison_du_chef_du_village_Dogon_%22Banani%22_%288441477399%29.jpg/1280px-Mali%2C_maison_du_chef_du_village_Dogon_%22Banani%22_%288441477399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7005,
+      "hauteur": 4503
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bandiagara escarpment1.jpg",
+      "description": "Cliff of Bandiagara, Dogon, Mali",
+      "categories": [
+        "Taken with Canon EOS 300D",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Dogon architecture",
+        "Photographs by Ferdinand Reus",
+        "Tellem dwellings"
+      ],
+      "auteur": "Ferdinand Reus from Arnhem, Holland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bandiagara_escarpment1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bandiagara_escarpment1.jpg/1280px-Bandiagara_escarpment1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
+    }
+  ]
+}

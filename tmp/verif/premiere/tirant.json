@@ -1,0 +1,53 @@
+{
+  "termId": "tirant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pergola en arcs blancs sur piliers de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun tirant visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Arc de pierre en ruine envahi de végétation, vu en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tirant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Arc en ruine couvert de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tirant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade en noir et blanc avec arcs et fenêtres grillagées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tirant identifiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cage d'escalier en tôle ondulée avec une voûte au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tirant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ruelle avec un arc brisé entre deux bâtiments.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hellín, Espagne",
+      "note": "Arc sans tirant visible."
+    }
+  ]
+}

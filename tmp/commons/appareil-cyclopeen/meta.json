@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "appareil-cyclopeen",
+    "terme": "l'appareil cyclopéen",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Maçonnerie de très gros blocs de pierre bruts ou à peine taillés, ajustés sans mortier.",
+    "priorite": 3,
+    "requetes": [
+      "cyclopean masonry",
+      "appareil cyclopéen",
+      "cyclopean wall stones"
+    ],
+    "incompatibles": [
+      "mur-en-pierre-seche"
+    ],
+    "categoriesCommons": [
+      "Category:Cyclopean masonry",
+      "Category:Polygonal masonry",
+      "Category:Masonry"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hartley steps in Princes Half-Tide Dock.jpg",
+      "description": "Flight of steps by Jesse Hartley at the eastern quayside of Princes Half-Tide Dock, Liverpool.",
+      "categories": [
+        "Rodhullandemu images",
+        "GFDL",
+        "License migration redundant",
+        "Princes Half-Tide Dock, Liverpool",
+        "Cyclopean masonry",
+        "Self-published work",
+        "September 2021 in Liverpool",
+        "Files with coordinates missing SDC location of creation (53° N, 3° W)",
+        "Steps in Liverpool"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hartley_steps_in_Princes_Half-Tide_Dock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Hartley_steps_in_Princes_Half-Tide_Dock.jpg/1280px-Hartley_steps_in_Princes_Half-Tide_Dock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4216,
+      "hauteur": 2826
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Wall of ruin near Vlithias - Pashley Robert - 1837.jpg",
+      "description": "Illustration from Travels in Crete, London, John Murray , 1837, by Robert Pashley",
+      "categories": [
+        "Polygonal masonry",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-auto-expired)",
+        "CC-PD-Mark",
+        "Castles in Chania Prefecture",
+        "Travels in Crete (1837)"
+      ],
+      "auteur": "Robert Pashley",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wall_of_ruin_near_Vlithias_-_Pashley_Robert_-_1837.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Wall_of_ruin_near_Vlithias_-_Pashley_Robert_-_1837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1015,
+      "hauteur": 661
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A building constructed with Concrete Masonry blocks.jpg",
+      "description": "A building is under construction with Concrete Masonry blocks. A concrete masonry blocks is a standard size rectangular block used in building construction.",
+      "categories": [
+        "Masonry",
+        "Construction materials",
+        "Building blocks",
+        "Self-published work",
+        "Concrete buildings in India",
+        "Unidentified buildings in Kolkata"
+      ],
+      "auteur": "Salil Kumar Mukherjee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_building_constructed_with_Concrete_Masonry_blocks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/A_building_constructed_with_Concrete_Masonry_blocks.jpg/1280px-A_building_constructed_with_Concrete_Masonry_blocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2107,
+      "hauteur": 1649
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Baalbek (2001) 12.jpg",
+      "description": "Cyclopean stone next to the Temple of Jupiter-Baal at the ruins of Heliopolis. Baalbek, Lerbanon",
+      "categories": [
+        "Tour guides",
+        "Temple of Jupiter in Baalbek",
+        "Cyclopean masonry",
+        "Self-published work",
+        "Stones in Lebanon",
+        "Photographs by LBM1948",
+        "2001 in Baalbek",
+        "People for scale",
+        "Architectural elements in Baalbek",
+        "People in Baalbek"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baalbek_(2001)_12.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Baalbek_%282001%29_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1078,
+      "hauteur": 684
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bordüre an einem alten mauerwerk.jpg",
+      "description": "border on an old wall. Autor Metoc 18:49, 29 March 2006 (UTC)",
+      "categories": [
+        "Masonry",
+        "Files with no machine-readable source",
+        "Self-published work",
+        "Assumed own work"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Metoc~commonswiki (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bord%C3%BCre_an_einem_alten_mauerwerk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bord%C3%BCre_an_einem_alten_mauerwerk.jpg/1280px-Bord%C3%BCre_an_einem_alten_mauerwerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2080,
+      "hauteur": 1544
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Sea wall at Salisbury Dock Head.jpg",
+      "description": "Grade II listed sea wall at the island entrance to Salisbury Dock (known as the Dock Head). By Jesse Hartley to support the grade II listed hexagonal clock on which it stands.",
+      "categories": [
+        "Rodhullandemu images",
+        "GFDL",
+        "Images with annotations",
+        "License migration redundant",
+        "Cyclopean masonry",
+        "Self-published work",
+        "Salisbury Dock, Liverpool",
+        "Grade II listed buildings in Liverpool L3",
+        "September 2021 in Liverpool",
+        "England photographs taken on 2023-09-15",
+        "Files with coordinates missing SDC location of creation (53° N, 4° W)",
+        "Walls in Liverpool"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sea_wall_at_Salisbury_Dock_Head.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sea_wall_at_Salisbury_Dock_Head.jpg/1280px-Sea_wall_at_Salisbury_Dock_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5198,
+      "hauteur": 2944
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "terme": {
+    "id": "colonne-torse",
+    "terme": "la colonne torse",
+    "categorie": "Ornement",
+    "definition": "Colonne dont le fût est tordu en spirale, comme une vis.",
+    "priorite": 3,
+    "requetes": [
+      "solomonic column",
+      "twisted column",
+      "colonne torse"
+    ],
+    "incompatibles": [
+      "colonne"
+    ],
+    "categoriesCommons": [
+      "Category:Solomonic columns",
+      "Category:Twisted columns",
+      "Category:Columns"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cabinet - Germany, 17c - Palace of Tsar Alexey Romanov.jpg",
+      "description": "Cabinet. Germany. Mid-XVII century. Wood (nutwood, spruce, oak), metal; woodwork, lathework, carving, veneering, sawing (on metal), engraving, blacking. Palace of Tsar Alexey Romanov.",
+      "categories": [
+        "CC-Zero",
+        "Solomonic columns",
+        "Furniture from Germany",
+        "Self-published work",
+        "Cabinets in Russia",
+        "17th-century cabinets",
+        "Objects in Palace of Tsar Alexey Romanov"
+      ],
+      "auteur": "Лапоть",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cabinet_-_Germany,_17c_-_Palace_of_Tsar_Alexey_Romanov.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Cabinet_-_Germany%2C_17c_-_Palace_of_Tsar_Alexey_Romanov.jpg/1280px-Cabinet_-_Germany%2C_17c_-_Palace_of_Tsar_Alexey_Romanov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3993,
+      "hauteur": 5108
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Chinese New Year Butterflies at Hong Kong International Airport.JPG",
+      "description": "Butterfly sculpture celebrating the Chinese New Year at the Hong Kong International Airport",
+      "categories": [
+        "Taken with Canon PowerShot SX230 HS",
+        "Twisted columns",
+        "Interior of Hong Kong International Airport Terminal 1",
+        "Self-published work",
+        "Photos by Wingchi Poon",
+        "January 2014 in Hong Kong",
+        "2014 at Hong Kong International Airport",
+        "Hong Kong photographs taken on 2014-01-26",
+        "Chinese New Year 2014 in Hong Kong",
+        "Sculptures in Islands District",
+        "Statues of butterflies",
+        "Statues of circles"
+      ],
+      "auteur": "Wingchi Poon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chinese_New_Year_Butterflies_at_Hong_Kong_International_Airport.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Chinese_New_Year_Butterflies_at_Hong_Kong_International_Airport.JPG/1280px-Chinese_New_Year_Butterflies_at_Hong_Kong_International_Airport.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chichén Itzá columnas 2025 22.jpg",
+      "description": "Chichén Itzá columnas 2025",
+      "categories": [
+        "CC-Zero",
+        "Chichén Itzá",
+        "Columns",
+        "Self-published work"
+      ],
+      "auteur": "Álvaro de la Paz Franco",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_columnas_2025_22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Chich%C3%A9n_Itz%C3%A1_columnas_2025_22.jpg/1280px-Chich%C3%A9n_Itz%C3%A1_columnas_2025_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:0660 - Civesio - Sant'Ambrogio - Cappella di sinistra - Foto di Giovanni Dall'Orto, 11 luglio 2026.jpg",
+      "description": "Left-hand chapel in Sant'Ambrogio, Civesio (San Giuliano Milanese). Photo by Giovanni Dall'Orto , July 11 2026.",
+      "categories": [
+        "Solomonic columns",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Baroque stuccos in Lombardy",
+        "Photographs by Giovanni Dall'Orto",
+        "Baroque reliefs in Lombardy",
+        "Sant'Ambrogio (Civesio, San Giuliano Milanese) - Altare della Beata Vergine Maria del Rosario"
+      ],
+      "auteur": "Giovanni Dall'Orto",
+      "licence": "CC BY-SA 2.5 it",
+      "lien": "https://commons.wikimedia.org/wiki/File:0660_-_Civesio_-_Sant%27Ambrogio_-_Cappella_di_sinistra_-_Foto_di_Giovanni_Dall%27Orto,_11_luglio_2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/0660_-_Civesio_-_Sant%27Ambrogio_-_Cappella_di_sinistra_-_Foto_di_Giovanni_Dall%27Orto%2C_11_luglio_2026.jpg/1280px-0660_-_Civesio_-_Sant%27Ambrogio_-_Cappella_di_sinistra_-_Foto_di_Giovanni_Dall%27Orto%2C_11_luglio_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Chapelle Saint-Clamens 2019 26 - Fenêtre.jpg",
+      "description": "Fenêtre du chevet de la chapelle Saint-Clamens de Belloc-Saint-Clamens. Elle est encadrée par deux colonnettes surmontées de chapiteaux érodés.",
+      "categories": [
+        "Corbels in Gers",
+        "Capitals (architecture) in Gers",
+        "Chapelle Saint-Clamens de Belloc-Saint-Clamens",
+        "Twisted columns",
+        "July 2019 in Gers",
+        "Self-published work"
+      ],
+      "auteur": "F123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chapelle_Saint-Clamens_2019_26_-_Fen%C3%AAtre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Chapelle_Saint-Clamens_2019_26_-_Fen%C3%AAtre.jpg/1280px-Chapelle_Saint-Clamens_2019_26_-_Fen%C3%AAtre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3395,
+      "hauteur": 4527
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:\"The Resurrection,\" Niche Sculptures, Wells Cathedral West Façade (3610696171).jpg",
+      "description": "Cette image est issue de la collection The Commons du site Flickr . Les organismes y partageant leur collection déclarent qu'à leur connaissance, aucune restriction de droit d'auteur ne fait obstacle à leur diffusion, pour l'une des raisons suivantes : l'œuvre est dans le domaine public car les droits d'auteur ont expiré ; l'œuvre a été rattachée au domaine public pour d'autres raisons, tel que le non respect des conditions nécessaires pour renouveler des droits d'auteur ; l'organisme est détenteur des droits d'auteur mais ne ne souhaite pas exercer son contrôle ou ; l'organisme possède des dr",
+      "categories": [
+        "Resurrection of Christ",
+        "Columns",
+        "Facades",
+        "Niches",
+        "Trefoil arches",
+        "H. Bedford Lemere",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Cornell University Library archives",
+        "Files with coordinates missing SDC location of creation (51° N, 3° W)",
+        "Gothic sculptures of Wells Cathedral",
+        "Collection A. D. White Architectural Photographs",
+        "Black and white photographs of Wells Cathedral"
+      ],
+      "auteur": "Cornell University Library",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22The_Resurrection,%22_Niche_Sculptures,_Wells_Cathedral_West_Fa%C3%A7ade_(3610696171).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/%22The_Resurrection%2C%22_Niche_Sculptures%2C_Wells_Cathedral_West_Fa%C3%A7ade_%283610696171%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1247,
+      "hauteur": 1536
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "predalle",
+    "terme": "la prédalle",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Plaque mince de béton armé préfabriquée, posée comme fond de coffrage perdu et complétée par du béton coulé sur place.",
+    "priorite": 3,
+    "requetes": [
+      "precast concrete plank slab construction",
+      "prédalle",
+      "filigree slab"
+    ],
+    "incompatibles": [
+      "dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Precast concrete",
+      "Category:Concrete slabs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:刘范村东 水泥楼板 2021-01-28.jpg",
+      "description": "​刘范村东 水泥楼板",
+      "categories": [
+        "China photographs taken on 2021-01-28",
+        "Taken with Xiaomi Redmi K30 5G",
+        "Precast concrete",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Taken by Ngguls",
+        "January 2021 in Dongping County",
+        "Liufancun, Dongping"
+      ],
+      "auteur": "Ngguls",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E5%88%98%E8%8C%83%E6%9D%91%E4%B8%9C_%E6%B0%B4%E6%B3%A5%E6%A5%BC%E6%9D%BF_2021-01-28.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%E5%88%98%E8%8C%83%E6%9D%91%E4%B8%9C_%E6%B0%B4%E6%B3%A5%E6%A5%BC%E6%9D%BF_2021-01-28.jpg/1280px-%E5%88%98%E8%8C%83%E6%9D%91%E4%B8%9C_%E6%B0%B4%E6%B3%A5%E6%A5%BC%E6%9D%BF_2021-01-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4624,
+      "hauteur": 3472
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:FAU-UFPA (7).jpg",
+      "description": "Faculdade de Arquitetura e Urbanismo da Universidade Federal do Pará.",
+      "categories": [
+        "Concrete slabs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cidade Universitária Prof. José da Silveira Netto"
+      ],
+      "auteur": "Jucá Costa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FAU-UFPA_(7).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/FAU-UFPA_%287%29.jpg/1280px-FAU-UFPA_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Seattle - Our Lady of the Lake - interior 35 - arch detail showing seam.jpg",
+      "description": "Detail of precast concrete arch and stained glass window, Our Lady of the Lake (Roman Catholic church), Wedgwood, Seattle, Washington, U.S. Seams between portions of the arch are visible here.",
+      "categories": [
+        "GFDL",
+        "Precast concrete",
+        "License migration redundant",
+        "Stained-glass windows in Washington (state)",
+        "Self-published work",
+        "Churches in the United States photographed in 2016",
+        "September 2016 in Seattle",
+        "United States photographs taken on 2016-09-10",
+        "Concrete arches",
+        "Our Lady of the Lake (Seattle) - interior"
+      ],
+      "auteur": "Joe Mabel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seattle_-_Our_Lady_of_the_Lake_-_interior_35_-_arch_detail_showing_seam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Seattle_-_Our_Lady_of_the_Lake_-_interior_35_-_arch_detail_showing_seam.jpg/1280px-Seattle_-_Our_Lady_of_the_Lake_-_interior_35_-_arch_detail_showing_seam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Assyrian slab in Arkah, Tur Abdin (ܐܝܩܪܬܐ ܕܒܝܬ ܡܠܟܐ ܢܝܚܐ).jpg",
+      "description": "A picture of an Assyrian slab in Arkah, Tur Abdin. The slab features the Assyrian diety lamassu and the star of Ishtar, as well as a phrase of writing in Assyrian Aramaic. The slab reads \"ܐܝܩܪܬܐ ܕܒܝܬ ܡܠܟܐ ܢܝܚܐ\"",
+      "categories": [
+        "Shedu",
+        "Concrete slabs",
+        "2021 in Turkey",
+        "Estrangelo",
+        "Star of Ishtar",
+        "Items with VRTS permission confirmed",
+        "Üçköy, Nusaybin"
+      ],
+      "auteur": "Athra Kado",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Assyrian_slab_in_Arkah,_Tur_Abdin_(%DC%90%DC%9D%DC%A9%DC%AA%DC%AC%DC%90_%DC%95%DC%92%DC%9D%DC%AC_%DC%A1%DC%A0%DC%9F%DC%90_%DC%A2%DC%9D%DC%9A%DC%90).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Assyrian_slab_in_Arkah%2C_Tur_Abdin_%28%DC%90%DC%9D%DC%A9%DC%AA%DC%AC%DC%90_%DC%95%DC%92%DC%9D%DC%AC_%DC%A1%DC%A0%DC%9F%DC%90_%DC%A2%DC%9D%DC%9A%DC%90%29.jpg/1280px-Assyrian_slab_in_Arkah%2C_Tur_Abdin_%28%DC%90%DC%9D%DC%A9%DC%AA%DC%AC%DC%90_%DC%95%DC%92%DC%9D%DC%AC_%DC%A1%DC%A0%DC%9F%DC%90_%DC%A2%DC%9D%DC%9A%DC%90%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Precast Elements display stall in erode 2.jpg",
+      "description": "Precast Elements display stall",
+      "categories": [
+        "Precast concrete",
+        "Self-published work",
+        "Precast concrete manholes",
+        "Precast concrete element walls"
+      ],
+      "auteur": "Balu Digital Marketing Analyst",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Precast_Elements_display_stall_in_erode_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Precast_Elements_display_stall_in_erode_2.jpg/1280px-Precast_Elements_display_stall_in_erode_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 2576
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bonded post-tension.JPG",
+      "description": "Bonded post-tension",
+      "categories": [
+        "Taken with iPhone (original)",
+        "Concrete slabs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Elie Malti",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bonded_post-tension.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bonded_post-tension.JPG/1280px-Bonded_post-tension.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1936
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "centrale-de-traitement-d-air",
+    "terme": "la centrale de traitement d'air",
+    "categorie": "Réseaux et équipements",
+    "definition": "Grand caisson métallique qui filtre, refroidit ou chauffe et souffle l'air vers les gaines d'un bâtiment.",
+    "priorite": 3,
+    "requetes": [
+      "air handling unit",
+      "centrale de traitement d'air",
+      "AHU rooftop"
+    ],
+    "incompatibles": [
+      "gaine-de-ventilation"
+    ],
+    "categoriesCommons": [
+      "Category:Air handling units"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Zentralbibliothek Zürich - Hottingen Schulhaus mit Ventilat.-schacht - 991070726879705501.jpg",
+      "description": "Hottingen Schulhaus mit Ventilat.-schacht: Lüftungsturm beim Schulhaus Ilgen A",
+      "categories": [
+        "Air handling units",
+        "Hottingen",
+        "Media contributed by Zentralbibliothek Zürich",
+        "Uploaded with OpenRefine",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "Supported by Wikimedia CH",
+        "CC-PD-Mark",
+        "1889 in Zürich",
+        "Breitinger Collection"
+      ],
+      "auteur": "Robert Breitinger",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zentralbibliothek_Z%C3%BCrich_-_Hottingen_Schulhaus_mit_Ventilat.-schacht_-_991070726879705501.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Zentralbibliothek_Z%C3%BCrich_-_Hottingen_Schulhaus_mit_Ventilat.-schacht_-_991070726879705501.jpg/1280px-Zentralbibliothek_Z%C3%BCrich_-_Hottingen_Schulhaus_mit_Ventilat.-schacht_-_991070726879705501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4054,
+      "hauteur": 4434
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Kelly II Building (7685620308).jpg",
+      "description": "Filter banks and cascading ventilation system are now installed for the Kelly II Building at the Blue Grass Chemical Agent-Destruction Pilot Plant. The Kelly II Building will serve as a Safe Refuge in the unlikely event of a chemical agent release.",
+      "categories": [
+        "Air handling units",
+        "Positive pressure fans",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Air intakes",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Kelly_II_Building_(7685620308).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Kelly_II_Building_%287685620308%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Kelly_II_Building_%287685620308%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Kelly II Building (12816676624).jpg",
+      "description": "The Kelly II Building is overpressurized, which means air is drawn from the outside and cleaned through filters before it is pushed into the building, preventing contaminated air from entering. In the unlikely event of a chemical accident or incident at the chemical weapons storage area, workers would be able to safely shelter in the building.",
+      "categories": [
+        "Air handling units",
+        "Positive pressure fans",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Kelly_II_Building_(12816676624).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Kelly_II_Building_%2812816676624%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Kelly_II_Building_%2812816676624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Air handling units in large commercial building, Brisbane 01.jpg",
+      "description": "Air handling units in large commercial building, Brisbane",
+      "categories": [
+        "Air handling units",
+        "Office buildings in Brisbane",
+        "Self-published work",
+        "Photographs by Kgbo taken in 2021",
+        "July 2021 in Brisbane",
+        "Australia photographs taken on 2021-07-20",
+        "Taken with iPhone 12 Pro Max",
+        "Photos by User:Kgbo"
+      ],
+      "auteur": "Kgbo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_handling_units_in_large_commercial_building,_Brisbane_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Air_handling_units_in_large_commercial_building%2C_Brisbane_01.jpg/1280px-Air_handling_units_in_large_commercial_building%2C_Brisbane_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Air handling units in large commercial building, Brisbane.jpg",
+      "description": "Air handling units in large commercial building, Brisbane",
+      "categories": [
+        "Air handling units",
+        "Office buildings in Brisbane",
+        "Self-published work",
+        "Photographs by Kgbo taken in 2021",
+        "July 2021 in Brisbane",
+        "Australia photographs taken on 2021-07-21",
+        "Taken with iPhone 12 Pro Max",
+        "Photos by User:Kgbo"
+      ],
+      "auteur": "Kgbo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_handling_units_in_large_commercial_building,_Brisbane.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Air_handling_units_in_large_commercial_building%2C_Brisbane.jpg/1280px-Air_handling_units_in_large_commercial_building%2C_Brisbane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3977,
+      "hauteur": 2983
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Waermerueckgewinnung KSBA.JPG",
+      "description": "Modular aufgebaute Wärmerückgewinnung. Zuluft / Wärmetauscher / Abluft",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D70",
+        "Air handling units",
+        "Kantonsschule Baden",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Dominique.bugmann",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Waermerueckgewinnung_KSBA.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Waermerueckgewinnung_KSBA.JPG/1280px-Waermerueckgewinnung_KSBA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    }
+  ]
+}

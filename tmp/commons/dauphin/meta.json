@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "dauphin",
+    "terme": "le dauphin",
+    "categorie": "Toitures",
+    "definition": "Partie basse d'une descente d'eaux pluviales, en fonte, coudée vers le sol ou le caniveau.",
+    "priorite": 3,
+    "requetes": [
+      "cast iron downpipe shoe",
+      "dauphin fonte descente",
+      "downspout cast iron base"
+    ],
+    "incompatibles": [
+      "descente-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Rain gutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Antiga Casa Duarte, Bolama, Guiné-Bissau – 2018-03-02 – DSCN1067.jpg",
+      "description": "Antiga Casa Duarte, Bolama, Guiné-Bissau",
+      "categories": [
+        "Utility poles in Guinea-Bissau",
+        "Taken with Nikon Coolpix A900",
+        "Rain gutters",
+        "Uploaded with pattypan",
+        "Casa Duarte",
+        "Items with VRTS permission confirmed",
+        "2018 in Bolama",
+        "Clothes lines in Guinea-Bissau",
+        "Wikimedia Portugal GLAM initiative with Presença Feminina"
+      ],
+      "auteur": "Helena Maria Pestana",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antiga_Casa_Duarte,_Bolama,_Guin%C3%A9-Bissau_%E2%80%93_2018-03-02_%E2%80%93_DSCN1067.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Antiga_Casa_Duarte%2C_Bolama%2C_Guin%C3%A9-Bissau_%E2%80%93_2018-03-02_%E2%80%93_DSCN1067.jpg/1280px-Antiga_Casa_Duarte%2C_Bolama%2C_Guin%C3%A9-Bissau_%E2%80%93_2018-03-02_%E2%80%93_DSCN1067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:11-11-24-basel-by-ralfr-176.jpg",
+      "description": "Basel",
+      "categories": [
+        "Taken with Nikon D300s",
+        "GFDL-1.2",
+        "FAL",
+        "Rain gutters",
+        "Sculptures in Basel",
+        "Supported by Wikimedia Österreich",
+        "Sculptures of fish in Switzerland",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ralf Roletschek ( talk )",
+      "licence": "FAL",
+      "lien": "https://commons.wikimedia.org/wiki/File:11-11-24-basel-by-ralfr-176.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/11-11-24-basel-by-ralfr-176.jpg/1280px-11-11-24-basel-by-ralfr-176.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Calles del centro de Xalapa, estado de Veracruz 17.jpg",
+      "description": "Streets, downtown of Xalapa, state of Veracruz.",
+      "categories": [
+        "Rain gutters",
+        "Xalapa de Enríquez",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "2014 in Xalapa-Enríquez",
+        "Images by Correogsk",
+        "Streets in Xalapa"
+      ],
+      "auteur": "Correogsk",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calles_del_centro_de_Xalapa,_estado_de_Veracruz_17.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Calles_del_centro_de_Xalapa%2C_estado_de_Veracruz_17.jpg/1280px-Calles_del_centro_de_Xalapa%2C_estado_de_Veracruz_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2008 06 04 - Russett - Concord Park inner wall 2.JPG",
+      "description": "The bare inner wall of Concord Park facing toward the parking garage, Russett , Maryland Lieu de la prise de vue 39° 06′ 30,4″ N, 76° 47′ 42,1″ O Voir cet endroit et d’autres images sur : OpenStreetMap 39.108444; -76.795028",
+      "categories": [
+        "Taken with Canon PowerShot A650 IS",
+        "Drain pipes",
+        "Rain gutters",
+        "Siding",
+        "Self-published work",
+        "Files by User:Thisisbossi",
+        "Roofs in the United States",
+        "Windows in Maryland",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2008-06-04",
+        "Buildings in Russett"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008_06_04_-_Russett_-_Concord_Park_inner_wall_2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2008_06_04_-_Russett_-_Concord_Park_inner_wall_2.JPG/1280px-2008_06_04_-_Russett_-_Concord_Park_inner_wall_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bünker 1902 S 066 sw Hofer Haus.jpg",
+      "description": "Page 65 of the binding of Johann Reinhard Bünker from Sopron : The farmhouse near Lake Millstatt . Vienna, 1902. Reprinted from Volume XXXII [Der dritten Folge Band II] der „Mittheilungen der Anthropologischen Gesellschaft in Wien“, Wien, 1902. In self-publishers of the Anthropological Society of Vienna. Print by Friedrich Jasper in Vienna. People Ethnography essay in two parts on the farm architecture (13 farm types, inventory and primitive dwellings as on pastures) with hand-drawn illustrations (\"junior cancellation\" among the rest by academic painters Robert C. Lischka and Franz Storno jun.",
+      "categories": [
+        "Rain gutters",
+        "Location withheld",
+        "PD-old-70-expired",
+        "Files by User:Joadl",
+        "Farm buildings in Carinthia",
+        "July 1900 in Austria",
+        "CC-PD-Mark",
+        "Hofer Haus Treffling",
+        "Half hipped with gable roofs in Carinthia",
+        "Scanned with Epson Perfection V500 Office Scanner",
+        "Johann Reinhard Bünker Bauernhaus am Millstätter See 1902"
+      ],
+      "auteur": "scan and upload by Joadl ; Thanks to Michael Bünker",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C3%BCnker_1902_S_066_sw_Hofer_Haus.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/B%C3%BCnker_1902_S_066_sw_Hofer_Haus.jpg/1280px-B%C3%BCnker_1902_S_066_sw_Hofer_Haus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2008,
+      "hauteur": 1251
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Abschnitt GSK Hof 20200704 DSC2619.jpg",
+      "description": "Ein Abschnitt der Grundschule Krötenbruck in Hof, hier in der Mitte ist die Regenrinne.",
+      "categories": [
+        "Taken with Sony ILCE-7",
+        "Rain gutters",
+        "Self-published work",
+        "Hof (Saale) photographs taken on 2020-07-04",
+        "Files with coordinates missing SDC location of creation (50° N, 11° E)",
+        "Photographs of Hof (Saale) by PantheraLeo1359531",
+        "Grundschule Krötenbruck in 2020",
+        "Photographs created by PantheraLeo1359531 on 2020-07-04"
+      ],
+      "auteur": "PantheraLeo1359531",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abschnitt_GSK_Hof_20200704_DSC2619.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Abschnitt_GSK_Hof_20200704_DSC2619.jpg/1280px-Abschnitt_GSK_Hof_20200704_DSC2619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    }
+  ]
+}

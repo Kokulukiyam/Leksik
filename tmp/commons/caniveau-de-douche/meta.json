@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "caniveau-de-douche",
+    "terme": "le caniveau de douche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Long caniveau étroit en inox encastré dans le sol d'une douche à l'italienne, couvert d'une grille.",
+    "priorite": 3,
+    "requetes": [
+      "linear shower drain",
+      "caniveau de douche",
+      "linear drain stainless"
+    ],
+    "incompatibles": [
+      "siphon-de-sol",
+      "douche-a-l-italienne"
+    ],
+    "categoriesCommons": [
+      "Category:Floor drains",
+      "Category:Drains"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ellsworth W. Allen Park td (2019-06-28) 050 - Bathrooms.jpg",
+      "description": "Inside the Men's bathroom of Ellsworth W. Allen Town Park, at Motor Avenue between Heisser Lane and Kent Street in South Farmingdale, Nassau County, New York. Very clean.",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Building interiors in New York (state)",
+        "June 2019 in New York (state)",
+        "Public toilets in New York (state)",
+        "Self-published work",
+        "Floor drains",
+        "Interiors of toilets",
+        "Files with coordinates missing SDC location of creation",
+        "Parks in 2019",
+        "United States photographs taken on 2019-06-28",
+        "Ellsworth W. Allen Town Park",
+        "2019 New York (state) photographs by Tdorante10",
+        "2019 in Nassau County, New York",
+        "Men's toilets",
+        "Square floor tiles",
+        "Park toilets in the United States",
+        "Garden and park buildings in the United States"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ellsworth_W._Allen_Park_td_(2019-06-28)_050_-_Bathrooms.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Ellsworth_W._Allen_Park_td_%282019-06-28%29_050_-_Bathrooms.jpg/1280px-Ellsworth_W._Allen_Park_td_%282019-06-28%29_050_-_Bathrooms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dhabihah ذبح اسلامی گوسفند 20.jpg",
+      "description": "La dhabiha est la méthode d'abattage rituel des animaux prescrite par la loi islamique. Elle s'applique à tous les animaux à l'exception des poissons et fruits de mer, . Le terme dhabiha est souvent utilisé erronément comme synonyme de halal, mais utilisés conjointement (dhabīḥah halal), les mots décrivent toute pièce de viande permise par la loi islamique.",
+      "categories": [
+        "Goats",
+        "Blood",
+        "Goat meat",
+        "Crimson",
+        "Slaughtering",
+        "Drains",
+        "Animal sacrifice",
+        "Goat based food",
+        "Self-published work",
+        "Goat slaughtering",
+        "Photographs by Mostafa Meraji",
+        "Dhabiha",
+        "Butchery",
+        "Dead goats",
+        "Blood in religion",
+        "Mammal blood",
+        "Animal blood"
+      ],
+      "auteur": "Mostafameraji",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dhabihah_%D8%B0%D8%A8%D8%AD_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%DA%AF%D9%88%D8%B3%D9%81%D9%86%D8%AF_20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dhabihah_%D8%B0%D8%A8%D8%AD_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%DA%AF%D9%88%D8%B3%D9%81%D9%86%D8%AF_20.jpg/1280px-Dhabihah_%D8%B0%D8%A8%D8%AD_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%DA%AF%D9%88%D8%B3%D9%81%D9%86%D8%AF_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:65AGBVardPbchbath2.jpg",
+      "description": "Image, slimline drain in shower Imange slimline trenchdrain in shower",
+      "categories": [
+        "Self-published work",
+        "PD-self",
+        "Floor drains",
+        "Wet rooms",
+        "Shower drain water management"
+      ],
+      "auteur": "Troy Creighton",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:65AGBVardPbchbath2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/65AGBVardPbchbath2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 937,
+      "hauteur": 698
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Clinton power station run off.jpg",
+      "description": "Clinton nuclear generating station coolant run off, Illinois, USA",
+      "categories": [
+        "Taken with Canon EOS 5D",
+        "Cooling",
+        "Drains",
+        "DeWitt County, Illinois",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2008-01-21",
+        "Files by User:Dschwen"
+      ],
+      "auteur": "Daniel Schwen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clinton_power_station_run_off.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Clinton_power_station_run_off.jpg/1280px-Clinton_power_station_run_off.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4368,
+      "hauteur": 2912
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Set Basicflow.jpg",
+      "description": "Floor drain",
+      "categories": [
+        "Self-published work",
+        "Floor drains"
+      ],
+      "auteur": "Alinaciao",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Set_Basicflow.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Set_Basicflow.jpg/1280px-Set_Basicflow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2480,
+      "hauteur": 3508
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Desaugadoiro dos baños ao aire libre de Aquis Querquennis. Baños de Bande. Bande. Galiza.jpg",
+      "description": "Drain of the thermae of Aquis Querquennis, Baños de Bande, Bande, Galicia (Spain).",
+      "categories": [
+        "Drains",
+        "Self-published work",
+        "Ancient Roman thermae of Aquis Querquennis"
+      ],
+      "auteur": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Desaugadoiro_dos_ba%C3%B1os_ao_aire_libre_de_Aquis_Querquennis._Ba%C3%B1os_de_Bande._Bande._Galiza.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Desaugadoiro_dos_ba%C3%B1os_ao_aire_libre_de_Aquis_Querquennis._Ba%C3%B1os_de_Bande._Bande._Galiza.jpg/1280px-Desaugadoiro_dos_ba%C3%B1os_ao_aire_libre_de_Aquis_Querquennis._Ba%C3%B1os_de_Bande._Bande._Galiza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4705,
+      "hauteur": 3137
+    }
+  ]
+}

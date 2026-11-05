@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "grenier-sur-pilotis",
+    "terme": "le grenier sur pilotis",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Grenier à mil en paille dressé sur pilotis au-dessus de l'eau, comme ceux de Fadiouth en pays sérère.",
+    "priorite": 3,
+    "requetes": [
+      "Fadiouth granaries",
+      "greniers sur pilotis Fadiouth",
+      "Joal-Fadiouth granaries stilts"
+    ],
+    "incompatibles": [
+      "grenier-a-mil",
+      "pilotis"
+    ],
+    "categoriesCommons": [
+      "Category:Granaries"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Spichlerz 1856 Żylicze.jpg",
+      "description": "Pozostałość po zespole folwarcznym. Obiekt wpisany do rejestru zabytków, nr rej.:751 z 21.02.1991",
+      "categories": [
+        "Granaries",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Maria Weronika Kmoch",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spichlerz_1856_%C5%BBylicze.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Spichlerz_1856_%C5%BBylicze.jpg/1280px-Spichlerz_1856_%C5%BBylicze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 1746
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dynastie IV. Pyramiden von Giseh (Jîzah), Grab 75. Ostwand (NYPL b14291191-38017).jpg",
+      "description": "Dynastie IV. Pyramiden von Giseh [Jîzah], Grab 75. Ostwand.",
+      "categories": [
+        "Scribes",
+        "Granaries",
+        "Images uploaded by Fæ",
+        "PD-old-100-expired",
+        "PD-scan (PD-old-auto-expired)",
+        "Images from the New York Public Library",
+        "Media needing category review as of 1 July 2016",
+        "CC-PD-Mark",
+        "NYPL General Research Division",
+        "Historical images of donkeys",
+        "Bulls in Ancient Egyptian art",
+        "Giza mastabas by Richard Lepsius",
+        "Nicolaische Buchhandlung"
+      ],
+      "auteur": "Scan by NYPL",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dynastie_IV._Pyramiden_von_Giseh_(J%C3%AEzah),_Grab_75._Ostwand_(NYPL_b14291191-38017).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Dynastie_IV._Pyramiden_von_Giseh_%28J%C3%AEzah%29%2C_Grab_75._Ostwand_%28NYPL_b14291191-38017%29.jpg/1280px-Dynastie_IV._Pyramiden_von_Giseh_%28J%C3%AEzah%29%2C_Grab_75._Ostwand_%28NYPL_b14291191-38017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5168,
+      "hauteur": 6299
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Grannery .jpg",
+      "description": "ধানের গোলা",
+      "categories": [
+        "CC-Zero",
+        "Granaries",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Apurv013",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grannery_.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Grannery_.jpg/1280px-Grannery_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Eberfing - Ettinger Str - Getreidekasten Bichlmoarhof v NO 230723.jpg",
+      "description": "Getreidekasten Bichlmoarhof Ettinger Str. in Eberfing",
+      "categories": [
+        "Granaries",
+        "Cultural heritage monuments in Eberfing",
+        "Buildings in Eberfing",
+        "Self-published work"
+      ],
+      "auteur": "Flodur63",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eberfing_-_Ettinger_Str_-_Getreidekasten_Bichlmoarhof_v_NO_230723.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Eberfing_-_Ettinger_Str_-_Getreidekasten_Bichlmoarhof_v_NO_230723.jpg/1280px-Eberfing_-_Ettinger_Str_-_Getreidekasten_Bichlmoarhof_v_NO_230723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5347,
+      "hauteur": 3463
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Rice storage.jpg",
+      "description": "Rice storage bins in Nagaland",
+      "categories": [
+        "Granaries",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2023-12-16",
+        "Woven objects"
+      ],
+      "auteur": "Shyamal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rice_storage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Rice_storage.jpg/1280px-Rice_storage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2464,
+      "hauteur": 2464
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Granary foundation stones 1.jpg",
+      "description": "Foundation stones on which once stood the granaries of the legend, Katangwan Mungwob, as narrated, Uza, Kpak, Kagoro, Nigeria",
+      "categories": [
+        "Kagoro",
+        "Grass",
+        "Granaries",
+        "Foundation stones",
+        "Self-published work",
+        "Photowalk in Nok, Zangon Kataf, Kafanchan, Kagoro and Godogodo/Kagoro",
+        "Tyap Wikimedians User Group in 2022",
+        "Photowalk in Nok, Zangon Kataf, Kafanchan, Kagoro and Godogodo"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granary_foundation_stones_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Granary_foundation_stones_1.jpg/1280px-Granary_foundation_stones_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    }
+  ]
+}

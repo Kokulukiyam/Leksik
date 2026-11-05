@@ -1,0 +1,173 @@
+{
+  "terme": {
+    "id": "intrados",
+    "terme": "l'intrados",
+    "categorie": "Structure",
+    "definition": "Face intérieure, concave, d'un arc ou d'une voûte.",
+    "priorite": 3,
+    "requetes": [
+      "arch intrados",
+      "intrados arc",
+      "soffit of arch"
+    ],
+    "incompatibles": [
+      "arc",
+      "voute",
+      "claveau",
+      "cle-de-voute"
+    ],
+    "categoriesCommons": [
+      "Category:Arches",
+      "Category:Stone arches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Christmas market Schloss Charlottenburg Berlin-Charlottenburg 2025-12-17 04.jpg",
+      "description": "Christmas market Schloss Charlottenburg in Berlin-Charlottenburg at night.",
+      "categories": [
+        "CC-Zero",
+        "Crowds",
+        "Christmas markets",
+        "Arches",
+        "Christmas lights",
+        "Night photography",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Leonhard Lenz",
+        "Christmas 2025 in Berlin",
+        "Weihnachtsmarkt Schloss Charlottenburg",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Germany",
+        "Images from Wiki Loves Folklore 2026, DE-BE"
+      ],
+      "auteur": "Leonhard Lenz",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Christmas_market_Schloss_Charlottenburg_Berlin-Charlottenburg_2025-12-17_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Christmas_market_Schloss_Charlottenburg_Berlin-Charlottenburg_2025-12-17_04.jpg/1280px-Christmas_market_Schloss_Charlottenburg_Berlin-Charlottenburg_2025-12-17_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8144,
+      "hauteur": 5424
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:BW photo of arch in Rock Garden, Chandigarh.jpg",
+      "description": "",
+      "categories": [
+        "Media lacking a description",
+        "Images from Wiki Loves Monuments 2019",
+        "Rock Garden, Chandigarh",
+        "Self-published work",
+        "Stone arches",
+        "Uploaded via Campaign:wlm-in",
+        "Images from Wiki Loves Monuments 2019 in India",
+        "India photographs taken on 2016-04-18",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Files from competitions organized by West Bengal Wikimedians User Group",
+        "Images from WLM 2019 India under review by Montage tool"
+      ],
+      "auteur": "Haydenvictor123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BW_photo_of_arch_in_Rock_Garden,_Chandigarh.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/BW_photo_of_arch_in_Rock_Garden%2C_Chandigarh.jpg/1280px-BW_photo_of_arch_in_Rock_Garden%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:4º Campeonato Mundial de Paraglider.jpg",
+      "description": "Minha família visitando o Pico do Gavião no dia do 4º Campeonato Mundial de Paraglider. Foi uma experiência inesquecível! De lá pode-se avistar lindas paisagens e as pequenas cidades do sul de Minas Gerais.",
+      "categories": [
+        "Mountains of Brazil",
+        "Arches",
+        "Paragliding World Cup",
+        "Pico do Gavião",
+        "Self-published work",
+        "Tourists in Brazil",
+        "Paragliding in Minas Gerais",
+        "Brazil photographs taken on 2017-09-09",
+        "September 2017 in sports in Brazil",
+        "2017 in paragliding in Brazil",
+        "September 2017 in Minas Gerais",
+        "Paragliding events"
+      ],
+      "auteur": "Monica Maia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4%C2%BA_Campeonato_Mundial_de_Paraglider.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/4%C2%BA_Campeonato_Mundial_de_Paraglider.jpg/1280px-4%C2%BA_Campeonato_Mundial_de_Paraglider.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Amalfi (Italien); Fassade mit Bogenkonstruktionen.jpg",
+      "description": "Straßenunterführung in 84011 Amalfi SA (Italien), Via Cardinale Marino del Giudice 10. Aufnahme von 2017.",
+      "categories": [
+        "Bifora",
+        "Buildings in Amalfi",
+        "Self-published work",
+        "Arches in Italy",
+        "Stone arches"
+      ],
+      "auteur": "Colling-architektur",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amalfi_(Italien);_Fassade_mit_Bogenkonstruktionen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Amalfi_%28Italien%29%3B_Fassade_mit_Bogenkonstruktionen.jpg/1280px-Amalfi_%28Italien%29%3B_Fassade_mit_Bogenkonstruktionen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Arches passage.jpg",
+      "description": "Arches gives different feel",
+      "categories": [
+        "Kuwait",
+        "Arches",
+        "Self-published work"
+      ],
+      "auteur": "Aabbou",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arches_passage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Arches_passage.jpg/1280px-Arches_passage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4381,
+      "hauteur": 6070
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Arched entrance to the Walled Garden summerhouse at Parham House, West Sussex, England.jpg",
+      "description": "Arched entrance to the summerhouse at the north of the Walled Garden at Parham House , in West Sussex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : file lens-corrected and optimized with DxO OpticsPro 10 Elite and Viewpoint 2, and further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Images with annotations",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Walls in West Sussex",
+        "Summer in West Sussex",
+        "Stone arches",
+        "Stone walls in West Sussex",
+        "Angel heads in the United Kingdom",
+        "Plaques in West Sussex",
+        "Flora of West Sussex in July",
+        "Brick walls in West Sussex",
+        "Summer 2016 in the United Kingdom",
+        "Parham House Walled Garden",
+        "Wooden outdoor chairs",
+        "Arches in West Sussex",
+        "Acabashi photos: buildings in West Sussex",
+        "Files with coordinates missing SDC location of creation (50° N, 1° W)",
+        "Semi-circular arches in England",
+        "Summer houses in England",
+        "Memento mori in England",
+        "Chairs in West Sussex",
+        "Acabashi photos:Parham House gardens",
+        "Parham, West Sussex photographs taken on 2016-07-20"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arched_entrance_to_the_Walled_Garden_summerhouse_at_Parham_House,_West_Sussex,_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Arched_entrance_to_the_Walled_Garden_summerhouse_at_Parham_House%2C_West_Sussex%2C_England.jpg/1280px-Arched_entrance_to_the_Walled_Garden_summerhouse_at_Parham_House%2C_West_Sussex%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    }
+  ]
+}

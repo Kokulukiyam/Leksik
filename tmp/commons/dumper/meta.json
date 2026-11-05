@@ -1,0 +1,160 @@
+{
+  "terme": {
+    "id": "dumper",
+    "terme": "le dumper",
+    "categorie": "Chantier et outillage",
+    "definition": "Petit engin à benne basculante placée à l'avant, devant le conducteur, pour déplacer matériaux et terre sur le chantier.",
+    "priorite": 3,
+    "requetes": [
+      "site dumper",
+      "dumper chantier",
+      "front tipping dumper"
+    ],
+    "categoriesCommons": [
+      "Category:Dump trucks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2025-01-06 10 49 58 A Mercer County Department of Transportation truck spreading salt and sand during a light snowfall along Mercer County Route 579 (Bear Tavern Road) in Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "A Mercer County Department of Transportation truck spreading salt and sand during a light snowfall along Mercer County Route 579 (Bear Tavern Road) in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Salt spreaders",
+        "Dump trucks",
+        "Snowplows",
+        "Self-published work",
+        "Vehicles in New Jersey",
+        "Files with coordinates missing SDC location of creation",
+        "Famartin's 2025 photos",
+        "Bear Tavern Road (Ewing Township, New Jersey)",
+        "Mercer County Department of Transportation",
+        "Famartin's January 2025 photos",
+        "Snow in Ewing Township, New Jersey on January 6, 2025"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-01-06_10_49_58_A_Mercer_County_Department_of_Transportation_truck_spreading_salt_and_sand_during_a_light_snowfall_along_Mercer_County_Route_579_(Bear_Tavern_Road)_in_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2025-01-06_10_49_58_A_Mercer_County_Department_of_Transportation_truck_spreading_salt_and_sand_during_a_light_snowfall_along_Mercer_County_Route_579_%28Bear_Tavern_Road%29_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:IAA Transportation 2026, Hanover (20260914-P1086917).jpg",
+      "description": "Lieu de la prise de vue 52° 19′ 08,31″ N, 9° 48′ 03,27″ E Voir cet endroit et d’autres images sur : OpenStreetMap 52.318975; 9.800908",
+      "categories": [
+        "GFDL",
+        "Dump trucks",
+        "License migration redundant",
+        "Self-published work",
+        "GNU Free Documentation License with different SDC copyright license",
+        "CC-BY-SA-2.0+",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Creative Commons Attribution-Share Alike 2.0 with different SDC copyright license",
+        "Creative Commons Attribution-Share Alike 2.5 with different SDC copyright license",
+        "Creative Commons Attribution-Share Alike 3.0 with different SDC copyright license",
+        "Pictures by MB-one to review",
+        "Taken with Panasonic Lumix DC-G91 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Uploaded with LrMediaWiki2",
+        "IAA Transportation 2026 (supported by WMDE)",
+        "Kia at IAA Transportation 2026",
+        "Vans at IAA Transportation 2026",
+        "Scattolini",
+        "Kia PV5 Chassis Cab"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:IAA_Transportation_2026,_Hanover_(20260914-P1086917).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/IAA_Transportation_2026%2C_Hanover_%2820260914-P1086917%29.jpg/1280px-IAA_Transportation_2026%2C_Hanover_%2820260914-P1086917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3110,
+      "hauteur": 2333
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Zirgu Sala rekonstrukcija 2015 - 8 - panoramio.jpg",
+      "description": "Zirgu Sala rekonstrukcija 2015 - 8",
+      "categories": [
+        "Dump trucks",
+        "Liepājas ezers",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2015-11-15",
+        "Files with coordinates missing SDC location of creation",
+        "Photos from Panoramio ID 760796"
+      ],
+      "auteur": "---=XEON=---",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zirgu_Sala_rekonstrukcija_2015_-_8_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Zirgu_Sala_rekonstrukcija_2015_-_8_-_panoramio.jpg/1280px-Zirgu_Sala_rekonstrukcija_2015_-_8_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Peugeot Boxer electric dumper by Dangel, IAA 2024, Hanover (P1200049).jpg",
+      "description": "Peugeot Boxer dump truck converted to battery power by Dangel",
+      "categories": [
+        "GFDL",
+        "Dump trucks",
+        "License migration redundant",
+        "Self-published work",
+        "F-number f/3.3",
+        "CC-BY-SA-2.0+",
+        "Peugeot Boxer (2014)",
+        "Uploaded with LrMediaWiki",
+        "Lens focal length 22 mm",
+        "Quality image candidates by User:MB-one - ready to submit",
+        "IAA Transportation 2024 (supported by WMDE)",
+        "Taken with Panasonic Lumix DMC-G5 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Dangel vehicles"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Peugeot_Boxer_electric_dumper_by_Dangel,_IAA_2024,_Hanover_(P1200049).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Peugeot_Boxer_electric_dumper_by_Dangel%2C_IAA_2024%2C_Hanover_%28P1200049%29.jpg/1280px-Peugeot_Boxer_electric_dumper_by_Dangel%2C_IAA_2024%2C_Hanover_%28P1200049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Building demolition in Ebisu.jpg",
+      "description": "Black worker in truck separates rebar from concrete",
+      "categories": [
+        "CC-Zero",
+        "Dump trucks",
+        "Ebisu, Tokyo",
+        "Self-published work",
+        "Building demolition in Japan",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Japan photographs taken on 2023-06-10"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_demolition_in_Ebisu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Building_demolition_in_Ebisu.jpg/1280px-Building_demolition_in_Ebisu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Delivering ballast for Track A in Harold Interlocking. (CH057D, 10-19-2018) (44844532394).jpg",
+      "description": "Delivering ballast for Track A in Harold Interlocking. (CH057D, 10-19-2018)",
+      "categories": [
+        "Dump trucks",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access at Harold Interlocking",
+        "East Side Access construction/2018/10/26"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Delivering_ballast_for_Track_A_in_Harold_Interlocking._(CH057D,_10-19-2018)_(44844532394).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Delivering_ballast_for_Track_A_in_Harold_Interlocking._%28CH057D%2C_10-19-2018%29_%2844844532394%29.jpg/1280px-Delivering_ballast_for_Track_A_in_Harold_Interlocking._%28CH057D%2C_10-19-2018%29_%2844844532394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1512,
+      "hauteur": 2016
+    }
+  ]
+}

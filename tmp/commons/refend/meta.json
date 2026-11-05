@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "refend",
+    "terme": "le refend",
+    "categorie": "Ornement",
+    "definition": "Rainure creusée dans un enduit ou une pierre pour marquer ou imiter les joints d'un appareil.",
+    "priorite": 3,
+    "requetes": [
+      "refend façade",
+      "rusticated render grooves",
+      "channelled rustication"
+    ],
+    "incompatibles": [
+      "bossage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:TOURNAI (Doornik) — Façade et toiture du 65 rue de Marvis.jpg",
+      "description": "Ceci est une photo d'un monument de Wallonie, numéro :",
+      "categories": [
+        "Self-published work",
+        "Cultural heritage monuments in Wallonia with known IDs",
+        "Uploaded via Campaign:wlm-be-wal",
+        "Files with coordinates missing SDC location of creation (50° N, 3° E)",
+        "Photographs by Jpcuvelier",
+        "Rue de Marvis, 57-71"
+      ],
+      "auteur": "Jpcuvelier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TOURNAI_(Doornik)_%E2%80%94_Fa%C3%A7ade_et_toiture_du_65_rue_de_Marvis.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/TOURNAI_%28Doornik%29_%E2%80%94_Fa%C3%A7ade_et_toiture_du_65_rue_de_Marvis.jpg/1280px-TOURNAI_%28Doornik%29_%E2%80%94_Fa%C3%A7ade_et_toiture_du_65_rue_de_Marvis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2023,
+      "hauteur": 3368
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:TOURNAI (Doornik) —Toiture et façade du 69 de la rue de Marvis.jpg",
+      "description": "Ceci est une photo d'un monument de Wallonie, numéro :",
+      "categories": [
+        "Self-published work",
+        "Cultural heritage monuments in Wallonia with known IDs",
+        "Uploaded via Campaign:wlm-be-wal",
+        "Files with coordinates missing SDC location of creation (50° N, 3° E)",
+        "Photographs by Jpcuvelier",
+        "Rue de Marvis, 57-71"
+      ],
+      "auteur": "Jpcuvelier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TOURNAI_(Doornik)_%E2%80%94Toiture_et_fa%C3%A7ade_du_69_de_la_rue_de_Marvis.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/TOURNAI_%28Doornik%29_%E2%80%94Toiture_et_fa%C3%A7ade_du_69_de_la_rue_de_Marvis.jpg/1280px-TOURNAI_%28Doornik%29_%E2%80%94Toiture_et_fa%C3%A7ade_du_69_de_la_rue_de_Marvis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2860,
+      "hauteur": 3810
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:TOURNAI (Doornik) — Façade et toiture du 65 de la rue de Marvis et celles des maisons voisines —.jpg",
+      "description": "Ceci est une photo d'un monument de Wallonie, numéro :",
+      "categories": [
+        "Self-published work",
+        "Cultural heritage monuments in Wallonia with known IDs",
+        "Uploaded via Campaign:wlm-be-wal",
+        "Files with coordinates missing SDC location of creation (50° N, 3° E)",
+        "Photographs by Jpcuvelier",
+        "Rue de Marvis, 57-71"
+      ],
+      "auteur": "Jpcuvelier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TOURNAI_(Doornik)_%E2%80%94_Fa%C3%A7ade_et_toiture_du_65_de_la_rue_de_Marvis_et_celles_des_maisons_voisines_%E2%80%94.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/TOURNAI_%28Doornik%29_%E2%80%94_Fa%C3%A7ade_et_toiture_du_65_de_la_rue_de_Marvis_et_celles_des_maisons_voisines_%E2%80%94.jpg/1280px-TOURNAI_%28Doornik%29_%E2%80%94_Fa%C3%A7ade_et_toiture_du_65_de_la_rue_de_Marvis_et_celles_des_maisons_voisines_%E2%80%94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5140,
+      "hauteur": 3426
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:TOURNAI (Doornik) —Façade et portail de l'Hôtel de Maître, rue Saint Jacques, N°41.jpg",
+      "description": "Ceci est une photo d'un monument de Wallonie, numéro :",
+      "categories": [
+        "Self-published work",
+        "Cultural heritage monuments in Wallonia with known IDs",
+        "Uploaded via Campaign:wlm-be-wal",
+        "Files with coordinates missing SDC location of creation (50° N, 3° E)",
+        "Photographs by Jpcuvelier",
+        "Rue Saint-Jacques 41, Tournai"
+      ],
+      "auteur": "Jpcuvelier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TOURNAI_(Doornik)_%E2%80%94Fa%C3%A7ade_et_portail_de_l%27H%C3%B4tel_de_Ma%C3%AEtre,_rue_Saint_Jacques,_N%C2%B041.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/TOURNAI_%28Doornik%29_%E2%80%94Fa%C3%A7ade_et_portail_de_l%27H%C3%B4tel_de_Ma%C3%AEtre%2C_rue_Saint_Jacques%2C_N%C2%B041.jpg/1280px-TOURNAI_%28Doornik%29_%E2%80%94Fa%C3%A7ade_et_portail_de_l%27H%C3%B4tel_de_Ma%C3%AEtre%2C_rue_Saint_Jacques%2C_N%C2%B041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4524,
+      "hauteur": 3016
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:TOURNAI (Doornik) —Façade de l'immeuble sis quai Vifquin, n°19.jpg",
+      "description": "Ceci est une photo d'un monument de Wallonie, numéro :",
+      "categories": [
+        "Self-published work",
+        "Cultural heritage monuments in Wallonia with known IDs",
+        "Uploaded via Campaign:wlm-be-wal",
+        "Files with coordinates missing SDC location of creation (50° N, 3° E)",
+        "Photographs by Jpcuvelier",
+        "Quai Vifquin 19, Tournai"
+      ],
+      "auteur": "Jpcuvelier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TOURNAI_(Doornik)_%E2%80%94Fa%C3%A7ade_de_l%27immeuble_sis_quai_Vifquin,_n%C2%B019.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/TOURNAI_%28Doornik%29_%E2%80%94Fa%C3%A7ade_de_l%27immeuble_sis_quai_Vifquin%2C_n%C2%B019.jpg/1280px-TOURNAI_%28Doornik%29_%E2%80%94Fa%C3%A7ade_de_l%27immeuble_sis_quai_Vifquin%2C_n%C2%B019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2958,
+      "hauteur": 4733
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:TOURNAI (Doornik) —Toiture et façade du 67 de la rue de Marvis.jpg",
+      "description": "Ceci est une photo d'un monument de Wallonie, numéro :",
+      "categories": [
+        "Self-published work",
+        "Cultural heritage monuments in Wallonia with known IDs",
+        "Uploaded via Campaign:wlm-be-wal",
+        "Files with coordinates missing SDC location of creation (50° N, 3° E)",
+        "Photographs by Jpcuvelier",
+        "Rue de Marvis, 57-71"
+      ],
+      "auteur": "Jpcuvelier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TOURNAI_(Doornik)_%E2%80%94Toiture_et_fa%C3%A7ade_du_67_de_la_rue_de_Marvis.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/TOURNAI_%28Doornik%29_%E2%80%94Toiture_et_fa%C3%A7ade_du_67_de_la_rue_de_Marvis.jpg/1280px-TOURNAI_%28Doornik%29_%E2%80%94Toiture_et_fa%C3%A7ade_du_67_de_la_rue_de_Marvis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3268,
+      "hauteur": 4085
+    }
+  ]
+}

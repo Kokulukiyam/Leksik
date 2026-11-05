@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "panne-faitiere",
+    "terme": "la panne faîtière",
+    "categorie": "Toitures",
+    "definition": "Panne placée au sommet de la charpente, le long du faîtage.",
+    "priorite": 3,
+    "requetes": [
+      "ridge beam roof timber",
+      "panne faîtière",
+      "ridge board roof framing"
+    ],
+    "incompatibles": [
+      "panne",
+      "faitage",
+      "charpente"
+    ],
+    "categoriesCommons": [
+      "Category:Purlins"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Interieur speelhuis, zolder, detail nokgording - Lisse - 20340656 - RCE.jpg",
+      "description": "Keukenhof: Interieur speelhuis, zolder, detail nokgording",
+      "categories": [
+        "Speelhuis (Kasteel Keukenhof)",
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Purlins",
+        "Rijksmonumenten with known IDs",
+        "Buildings with addresses",
+        "Photographs by Gerard Dukker in Lisse (2000)"
+      ],
+      "auteur": "Gerard Dukker",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interieur_speelhuis,_zolder,_detail_nokgording_-_Lisse_-_20340656_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Interieur_speelhuis%2C_zolder%2C_detail_nokgording_-_Lisse_-_20340656_-_RCE.jpg/1280px-Interieur_speelhuis%2C_zolder%2C_detail_nokgording_-_Lisse_-_20340656_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3014,
+      "hauteur": 3026
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Common purlin framing.JPG",
+      "description": "This barn roof framing is of \"common purlin\" construction which is commonly found in old buildings in most of New England and some other regions. The wind braces between the principal rafters and the ridge beam are characteristic of a \"five sided ridge\" beam.",
+      "categories": [
+        "Taken with Canon PowerShot G9",
+        "Rafters (structural systems)",
+        "Barns in Maine",
+        "Self-published work",
+        "Timber framing in the United States"
+      ],
+      "auteur": "Jim Derby",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Common_purlin_framing.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Common_purlin_framing.JPG/1280px-Common_purlin_framing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pfettendach, Marktplatz von London-Bermondsey (2024).jpg",
+      "description": "Pfettendach, Marktplatz von London-Bermondsey (2024)",
+      "categories": [
+        "Bermondsey",
+        "Roofs",
+        "Southwark Park Road, London",
+        "Purlins",
+        "Self-published work",
+        "Market places in London"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pfettendach,_Marktplatz_von_London-Bermondsey_(2024).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pfettendach%2C_Marktplatz_von_London-Bermondsey_%282024%29.jpg/1280px-Pfettendach%2C_Marktplatz_von_London-Bermondsey_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2209,
+      "hauteur": 1608
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Continuing along the path towards Anne Hathaway's Cottage - The Thatched House, 16 Tavern Lane, Shottery (4960862241).jpg",
+      "description": "After the Recreation Field detor it was back on the path through Shottery. This is The Thatched House on Tavern Lane in Shottery. The house is Grade II listed. Three cottages, now one house. c1600 with later alterations. Timber-frame with plaster and brick infill on rubble plinth; thatched roof with brick stacks. Gable facing, front to left. Single storey and attics; catslide outshut with storey-height posts and middle rail; entrance with C20 door to right of large windows with leaded glazing; 2 small windows. 5-window range to rear, originally the front. 2 entrances, one to left end with half",
+      "categories": [
+        "Thatched roofs in Warwickshire",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)",
+        "Files uploaded by Sic19"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Continuing_along_the_path_towards_Anne_Hathaway%27s_Cottage_-_The_Thatched_House,_16_Tavern_Lane,_Shottery_(4960862241).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Continuing_along_the_path_towards_Anne_Hathaway%27s_Cottage_-_The_Thatched_House%2C_16_Tavern_Lane%2C_Shottery_%284960862241%29.jpg/1280px-Continuing_along_the_path_towards_Anne_Hathaway%27s_Cottage_-_The_Thatched_House%2C_16_Tavern_Lane%2C_Shottery_%284960862241%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Henry Tudor House - Barracks Passage, Shrewsbury (25328185530).jpg",
+      "description": "After leaving The Quarry (now called The Dingle), I headed back into Shrewsbury Town Centre. Belmont Bank Seen down Barracks Passage off Belmont Bank was Henry Tudor House. Grade I listed building as &lt;a href=\" http://www.britishlistedbuildings.co.uk/en-455200-the-trotting-horse-building-shrewsbury-#.Vt9WeNBy3dQ \" rel=\"noreferrer nofollow\"&gt;The Trotting Horse Building, Shrewsbury&lt;/a&gt;. It's also on Wyle Cop, at the other end of this passage. SHREWSBURY SJ4912SW BARRACKS PASSAGE 653-1/15/92 (South East side) 19/09/72 Nos.1 AND 2 The Trotting Horse Building (Formerly Listed as: WYLE COP",
+      "categories": [
+        "Jetty (timber framing)",
+        "The Trotting Horse Building",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Henry_Tudor_House_-_Barracks_Passage,_Shrewsbury_(25328185530).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Henry_Tudor_House_-_Barracks_Passage%2C_Shrewsbury_%2825328185530%29.jpg/1280px-Henry_Tudor_House_-_Barracks_Passage%2C_Shrewsbury_%2825328185530%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bogen-Bachstraße-19.jpg",
+      "description": "Bogen, Bachststraße 19. Giebelhaus, Obergeschoss-Blockbau mit Flachsatteldach, im Gebälk bez. \"1725\", Haustür bez. 1840. Ehemalige Fronfeste.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Cultural heritage monuments in Bogen",
+        "Purlins",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Elcom.stadler",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bogen-Bachstra%C3%9Fe-19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bogen-Bachstra%C3%9Fe-19.jpg/1280px-Bogen-Bachstra%C3%9Fe-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

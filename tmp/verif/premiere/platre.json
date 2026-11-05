@@ -1,0 +1,53 @@
+{
+  "termId": "platre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Schéma annoté de coupe-feu et de flocage dans un plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sudbury, Canada",
+      "note": "Texte et annotations."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Roche stratifiée à efflorescences blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Itu, Brésil",
+      "note": "Efflorescence de gypse en carrière, pas du plâtre en œuvre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Flocage ignifuge sur structure de plafond, avec texte explicatif.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sudbury, Canada",
+      "note": "Flocage, texte visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros cristal de gypse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Minéral, pas du plâtre en œuvre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Compresses, pansements et bandages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Roche avec gypse, malachite et atacamite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon minéralogique."
+    }
+  ]
+}

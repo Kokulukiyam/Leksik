@@ -1,0 +1,159 @@
+{
+  "terme": {
+    "id": "poteau-de-depart",
+    "terme": "le poteau de départ",
+    "categorie": "Escaliers et circulations",
+    "definition": "Poteau plus massif qui marque le bas d'une rampe d'escalier et en reçoit la main courante.",
+    "priorite": 3,
+    "requetes": [
+      "newel post",
+      "poteau de départ escalier",
+      "stair newel post"
+    ],
+    "incompatibles": [
+      "rampe-d-escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Newel posts",
+      "Category:Balusters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Boule de rampe d'escalier.jpg",
+      "description": "Boule de rampe d'escalier. France, début du XXe siècle.",
+      "categories": [
+        "Taken with Canon PowerShot G10",
+        "Location not applicable",
+        "Newel posts",
+        "Spherical objects",
+        "Self-published work",
+        "PD-self",
+        "Blue objects",
+        "Glass spheres",
+        "20th-century glassware in France",
+        "Wooden railings",
+        "Interior stair railings in France"
+      ],
+      "auteur": "Tangopaso",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boule_de_rampe_d%27escalier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Boule_de_rampe_d%27escalier.jpg/1280px-Boule_de_rampe_d%27escalier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3312,
+      "hauteur": 4416
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Escalier du ministre (Louvre) (02).jpg",
+      "description": "Escalier du ministre (Louvre)",
+      "categories": [
+        "Escalier du ministre (Louvre)",
+        "Balusters",
+        "Self-published work",
+        "July 2021 in Paris",
+        "Balustrades in Paris"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Escalier_du_ministre_(Louvre)_(02).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Escalier_du_ministre_%28Louvre%29_%2802%29.jpg/1280px-Escalier_du_ministre_%28Louvre%29_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2939,
+      "hauteur": 4036
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Escalier de la Sainte-Trinité-des-Monts, globe avec fleurs de lis, Rome, Italy.jpg",
+      "description": "Un globe avec une fleur de lys, escaliers de la Piazza di Spagna, Rome, Italie.",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "CC-Zero",
+        "Piazza di Spagna (Rome)",
+        "Newel posts",
+        "Self-published work",
+        "August 2013 Italy photographs",
+        "Italy photographs taken on 2013-08-24",
+        "Files with coordinates missing SDC location of creation",
+        "Sculptures of globes",
+        "Sculptures photographed in 2013",
+        "Reliefs of fleur-de-lis"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Escalier_de_la_Sainte-Trinit%C3%A9-des-Monts,_globe_avec_fleurs_de_lis,_Rome,_Italy.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Escalier_de_la_Sainte-Trinit%C3%A9-des-Monts%2C_globe_avec_fleurs_de_lis%2C_Rome%2C_Italy.jpg/1280px-Escalier_de_la_Sainte-Trinit%C3%A9-des-Monts%2C_globe_avec_fleurs_de_lis%2C_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3058,
+      "hauteur": 4752
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Copped Hall stable block architectural storage Epping, Essex, England 03.jpg",
+      "description": "Photograph taken at a house and gardens open day on 1 June 2025, at Copped Hall , aka Copt Hall or Copthall, a Grade II listed country house , 1.5 miles (2 km) west from the town of Epping , Essex , England. The house and its ancillary buildings are within the civil parish of Epping Upland , with the larger part of the gardens to the west, in Waltham Abbey . The present mid-18th-century Georgian hall replaced an earlier Elizabethan hall by Sir Thomas Heneage . It was destroyed by fire in 1917, with it and its gardens suffering further 20th-century destruction and neglect. The property is being",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Balusters",
+        "Self-published work",
+        "Spring in Essex",
+        "Broken objects",
+        "Acabashi photos: Copped Hall",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "June 2025 in Essex",
+        "Architectural salvage in England",
+        "Copped Hall (interior)",
+        "Essex photographs taken on 2025-06-01",
+        "Copped Hall Stable Block"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Copped_Hall_stable_block_architectural_storage_Epping,_Essex,_England_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Copped_Hall_stable_block_architectural_storage_Epping%2C_Essex%2C_England_03.jpg/1280px-Copped_Hall_stable_block_architectural_storage_Epping%2C_Essex%2C_England_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 5547
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Garden Stairway.jpg",
+      "description": "Stairway in garden at the Biltmore Estate.",
+      "categories": [
+        "Newel posts",
+        "Self-published work",
+        "Brick stairs",
+        "Outside stairs in North Carolina",
+        "Lanterns in the United States",
+        "Wrought iron in the United States",
+        "September 2010 United States photographs",
+        "Garden and park stairs in the United States",
+        "Newel post lamps"
+      ],
+      "auteur": "Dslcards",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Garden_Stairway.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Garden_Stairway.jpg/1280px-Garden_Stairway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3312,
+      "hauteur": 4416
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bridge over Mandovi River.JPG",
+      "description": "Bridge over Mahadayi or Mandovi River, a 77 km long river in Goa, India",
+      "categories": [
+        "GFDL",
+        "Mandovi Bridge (Goa)",
+        "License migration redundant",
+        "Balusters",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Street lights in India",
+        "Files with coordinates missing SDC location of creation",
+        "India photographs taken on 2009-12-16",
+        "Mandovi River in Goa"
+      ],
+      "auteur": "CVV Achary",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bridge_over_Mandovi_River.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Bridge_over_Mandovi_River.JPG/1280px-Bridge_over_Mandovi_River.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    }
+  ]
+}

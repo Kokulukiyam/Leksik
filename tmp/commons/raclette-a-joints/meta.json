@@ -1,0 +1,18 @@
+{
+  "terme": {
+    "id": "raclette-a-joints",
+    "terme": "la raclette à joints",
+    "categorie": "Chantier et outillage",
+    "definition": "Taloche à semelle de caoutchouc qui fait pénétrer le mortier de joint entre les carreaux.",
+    "priorite": 3,
+    "requetes": [
+      "grout float",
+      "raclette à joints",
+      "rubber grout float tiles"
+    ],
+    "incompatibles": [
+      "taloche"
+    ]
+  },
+  "candidats": []
+}

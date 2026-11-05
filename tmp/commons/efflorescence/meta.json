@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "efflorescence",
+    "terme": "l'efflorescence",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Dépôt blanchâtre de sels qui apparaît à la surface d'une maçonnerie ou d'un béton humide.",
+    "priorite": 3,
+    "requetes": [
+      "efflorescence brick wall",
+      "efflorescence concrete",
+      "salpêtre mur"
+    ],
+    "incompatibles": [
+      "brique"
+    ],
+    "categoriesCommons": [
+      "Category:Efflorescence"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Lingen - Lindenstraße - Luftschutzbunker 14 ies.jpg",
+      "description": "Winkel-Hochbunker, Lindenstraße in Lingen (Ems)",
+      "categories": [
+        "GFDL",
+        "Efflorescence",
+        "License migration redundant",
+        "Self-published work",
+        "Photographs taken on 2018-04-21",
+        "Winkel-Hochbunker Lingen"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lingen_-_Lindenstra%C3%9Fe_-_Luftschutzbunker_14_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Lingen_-_Lindenstra%C3%9Fe_-_Luftschutzbunker_14_ies.jpg/1280px-Lingen_-_Lindenstra%C3%9Fe_-_Luftschutzbunker_14_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:U-Bahn-Moosach Wasserschaden.jpg",
+      "description": "Kalkausblühungen im U-Bahnhof Moosach München",
+      "categories": [
+        "U-Bahnhof Moosach",
+        "Efflorescence",
+        "Self-published work",
+        "Construction technology"
+      ],
+      "auteur": "Patrick Oberdörfer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:U-Bahn-Moosach_Wasserschaden.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/U-Bahn-Moosach_Wasserschaden.jpg/1280px-U-Bahn-Moosach_Wasserschaden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ausblühungen-Neonlicht.JPG",
+      "description": "Ausblühungen im Mauerwerk (Aufnahme unter Neonlicht)",
+      "categories": [
+        "Germany photographs taken on 2006-10-22",
+        "Taken with Panasonic Lumix DMC-LC50",
+        "Images of low quality",
+        "Efflorescence",
+        "Self-published work",
+        "PD-self",
+        "Wall deteriorations",
+        "Work by Mattes 2006",
+        "File uploads by User:Mattes (flat)",
+        "User:Mattes/Contributions/Topics/Miscellaneous",
+        "User:Mattes/Contributions/Topics/Germany/Niederbayern"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ausbl%C3%BChungen-Neonlicht.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ausbl%C3%BChungen-Neonlicht.JPG/1280px-Ausbl%C3%BChungen-Neonlicht.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Wuppertal - Am Eskesberg - Kalktrichterofen 09 ies.jpg",
+      "description": "Kalktrichterofen, Am Eskesberg in Wuppertal",
+      "categories": [
+        "GFDL",
+        "Efflorescence",
+        "License migration redundant",
+        "Kalktrichterofen (Wuppertal, Am Eskesberg)",
+        "Self-published work",
+        "2012 photographs of Wuppertal"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wuppertal_-_Am_Eskesberg_-_Kalktrichterofen_09_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Wuppertal_-_Am_Eskesberg_-_Kalktrichterofen_09_ies.jpg/1280px-Wuppertal_-_Am_Eskesberg_-_Kalktrichterofen_09_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 5616
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ausblühungen fd (2).JPG",
+      "description": "Ausblühungen in einer Bahnunterführung bei Schmallenberg.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ22",
+        "Efflorescence",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (51° N, 8° E)",
+        "Nature of Schmallenberg"
+      ],
+      "auteur": "Friedhelm Dröge",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ausbl%C3%BChungen_fd_(2).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ausbl%C3%BChungen_fd_%282%29.JPG/1280px-Ausbl%C3%BChungen_fd_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2880,
+      "hauteur": 4320
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Efflorescence on cellar floor bricks.jpg",
+      "description": "Efflorescence which appeared on a seventeenth century brick cellar floor a few days after tge removal of concrete which had been covering. Hastings, UK.",
+      "categories": [
+        "Efflorescence",
+        "Self-published work"
+      ],
+      "auteur": "Graemedavis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Efflorescence_on_cellar_floor_bricks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Efflorescence_on_cellar_floor_bricks.jpg/1280px-Efflorescence_on_cellar_floor_bricks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

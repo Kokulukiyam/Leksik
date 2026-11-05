@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "voute-nubienne",
+    "terme": "la voûte nubienne",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Voûte en briques de terre crue montée sans coffrage, par rangs inclinés, utilisée dans le Sahel pour couvrir des maisons.",
+    "priorite": 3,
+    "requetes": [
+      "nubian vault Burkina Faso",
+      "voûte nubienne",
+      "nubian vault construction"
+    ],
+    "incompatibles": [
+      "voute",
+      "banco"
+    ],
+    "categoriesCommons": [
+      "Category:Nubian vaults"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Maison obus.jpg",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Beehive houses",
+        "Architecture of Cameroon",
+        "Musgum",
+        "Detached houses",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Far North Region (Cameroon)",
+        "License migration completed",
+        "Nubian vaults",
+        "Media missing infobox template",
+        "Mud dwellings",
+        "Houses in Cameroon",
+        "Domes in Cameroon",
+        "Mud buildings in Cameroon"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Maison_obus.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Maison_obus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1060,
+      "hauteur": 688
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Voute nubienne egypte.jpg",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Nubia Museum, Aswan",
+        "License migration completed",
+        "Nubian vaults",
+        "Media missing infobox template",
+        "Ancient Egyptian architectural elements",
+        "Catenary arches",
+        "Catenary in architecture",
+        "Pitched brick vaults"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Voute_nubienne_egypte.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Voute_nubienne_egypte.jpg/1280px-Voute_nubienne_egypte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1984,
+      "hauteur": 1488
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Nubian House, Nagaa Suhayl Gharb, AG, EGY (48026698187).jpg",
+      "description": "Incorporating traditional Nubian motifs and cultural practices, the Nubian Village at Aswan is full of vernacular buildings built of concrete and masonry, which express the unique indigenous culture of the Nubian people. The village at Aswan was settled beginning in the 1960s, as the Aswan High Dam was under construction and threatened former indigenous lands and settlements with inundation. As the Nubians are somewhat distinct culturally from the rest of Egypt, they created new settlements in areas that were available, but often separate from other people. Over time, these settlements have gr",
+      "categories": [
+        "CC-Zero",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Nagaa Suhayl Gharb"
+      ],
+      "auteur": "Warren LeMay from Chicago, IL, United States",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nubian_House,_Nagaa_Suhayl_Gharb,_AG,_EGY_(48026698187).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Nubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026698187%29.jpg/1280px-Nubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026698187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:1Wali tomb,El Kurru.jpg",
+      "description": "Wali tomb. South of Karima, Sudan",
+      "categories": [
+        "GFDL",
+        "El-Kurru",
+        "License migration redundant",
+        "Sufi mausoleums",
+        "Nubian vaults",
+        "Self-published work",
+        "Tombs of Muslim saints in Egypt"
+      ],
+      "auteur": "Bertramz",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1Wali_tomb,El_Kurru.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/1Wali_tomb%2CEl_Kurru.jpg/1280px-1Wali_tomb%2CEl_Kurru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2429
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Nubian House, Nagaa Suhayl Gharb, AG, EGY (48026553433).jpg",
+      "description": "Incorporating traditional Nubian motifs and cultural practices, the Nubian Village at Aswan is full of vernacular buildings built of concrete and masonry, which express the unique indigenous culture of the Nubian people. The village at Aswan was settled beginning in the 1960s, as the Aswan High Dam was under construction and threatened former indigenous lands and settlements with inundation. As the Nubians are somewhat distinct culturally from the rest of Egypt, they created new settlements in areas that were available, but often separate from other people. Over time, these settlements have gr",
+      "categories": [
+        "CC-Zero",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC inception",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Nagaa Suhayl Gharb"
+      ],
+      "auteur": "Warren LeMay from Chicago, IL, United States",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nubian_House,_Nagaa_Suhayl_Gharb,_AG,_EGY_(48026553433).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Nubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026553433%29.jpg/1280px-Nubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026553433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

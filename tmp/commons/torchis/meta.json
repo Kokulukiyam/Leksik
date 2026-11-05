@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "torchis",
+    "terme": "le torchis",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Mélange de terre et de paille appliqué sur un clayonnage de bois pour remplir les murs.",
+    "priorite": 3,
+    "requetes": [
+      "wattle and daub",
+      "torchis",
+      "wattle and daub wall"
+    ],
+    "incompatibles": [
+      "colombage"
+    ],
+    "categoriesCommons": [
+      "Category:Wattle and daub"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Torchis, Etiopia.jpg",
+      "description": "Torchis, Ethiopia",
+      "categories": [
+        "Taken with Nikon Coolpix 4100",
+        "Wattle and daub",
+        "Populated places in Ethiopia",
+        "Huts in Africa",
+        "Self-published work",
+        "Round huts"
+      ],
+      "auteur": "Maxcorradi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Torchis,_Etiopia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Torchis%2C_Etiopia.jpg/1280px-Torchis%2C_Etiopia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fachwerk Eitorf.jpg",
+      "description": "Fachwerk an einer zerfallenden Scheune in Eitorf-Mittelottersbach",
+      "categories": [
+        "Wattle and daub in Germany",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Wattle and daub",
+        "Ottersbach",
+        "License migration redundant",
+        "Self-published work",
+        "Timber framing techniques",
+        "Half-timbered beams",
+        "Timber framing in Eitorf"
+      ],
+      "auteur": "Olbertz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fachwerk_Eitorf.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Fachwerk_Eitorf.jpg/1280px-Fachwerk_Eitorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Quartier protohistorique Provence.jpg",
+      "description": "Reconstitution du quartier protohistorique du Jardin d'hiver (Arles) VIIe-IIe siècle avant notre ère. Musée départemental Arles antique (2022)",
+      "categories": [
+        "CC-Zero",
+        "Wattle and daub",
+        "Self-published work",
+        "Media needing category review as of 1 June 2023",
+        "Antiquity of Provence-Alpes-Côte d'Azur",
+        "Musée de l'Arles antique (maquettes)"
+      ],
+      "auteur": "Wisi eu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Quartier_protohistorique_Provence.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Quartier_protohistorique_Provence.jpg/1280px-Quartier_protohistorique_Provence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Colorful, winter, snow Fortepan 27352.jpg",
+      "description": "Eastern front, probably Russia Tags: colorful, winter, snow",
+      "categories": [
+        "Images from Fortepan",
+        "Wattle and daub",
+        "1942 in Russia",
+        "Valenki",
+        "Images uploaded by Fæ",
+        "Wooden houses in Russia",
+        "Vernacular architecture of Russia",
+        "Thatched roofs in Russia",
+        "Colour photographs from Fortepan",
+        "Wattle and daub in Ukraine",
+        "Photographs by Tamás Konok",
+        "Traditional fur clothing of Russia"
+      ],
+      "auteur": "FOTO:Fortepan — ID 27352 : Adományozó/Donor: Konok Tamás id. copie d'archive sur Wayback Machine",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Colorful,_winter,_snow_Fortepan_27352.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Colorful%2C_winter%2C_snow_Fortepan_27352.jpg/1280px-Colorful%2C_winter%2C_snow_Fortepan_27352.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3608,
+      "hauteur": 2347
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Boscobel - dairy wattle and daub.jpg",
+      "description": "Original wattle and daub construction of 16th century farm, Boscobel House, Shropshire.",
+      "categories": [
+        "Taken with Hitachi HDC-1061E",
+        "Wattle and daub",
+        "Boscobel House",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)"
+      ],
+      "auteur": "Sjwells53",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boscobel_-_dairy_wattle_and_daub.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Boscobel_-_dairy_wattle_and_daub.jpg/1280px-Boscobel_-_dairy_wattle_and_daub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fachwerk-meiningen002-2.jpg",
+      "description": "uncovered old half timbering wall at Meiningen, Thuringia, Germany",
+      "categories": [
+        "Taken with Fujifilm FinePix S6500fd",
+        "Retouched pictures",
+        "Wattle and daub",
+        "Timber framing in Meiningen",
+        "Uploaded with derivativeFX",
+        "Timber framing techniques",
+        "Stone infill"
+      ],
+      "auteur": "Fachwerk-meiningen002.jpg : Dontworry derivative work: Sebastian Wallroth ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fachwerk-meiningen002-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Fachwerk-meiningen002-2.jpg/1280px-Fachwerk-meiningen002-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2483,
+      "hauteur": 2669
+    }
+  ]
+}

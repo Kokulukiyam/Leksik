@@ -1,0 +1,53 @@
+{
+  "termId": "voute-en-berceau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petit arc de pierre antique en ruine, vu de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Apollonia, Albanie",
+      "note": "Vu de face, se lit comme un arc."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Monument à Dieste, voile mince de béton ondulé sur un pylône.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Salto, Uruguay",
+      "note": "Voile ondulé, pas un berceau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Nef de théâtre voûtée en berceau très décoré avec doubleaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Potosí, Bolivie",
+      "note": "Décor chargé et lunettes, lecture incertaine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grande voûte de brique romaine éventrée, vue de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Thermes de Caracalla, Rome",
+      "note": "Angle difficile, forme mal lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Nef d'église à plafond en berceau lambrissé, avec entraits de bois sombres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Myddfai, Pays de Galles",
+      "note": "Berceau en bois/plâtre, pas une voûte maçonnée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Voûtes de déversoir de barrage vues d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jándula, Espagne",
+      "note": "Forme expressionniste, mal lisible."
+    }
+  ]
+}

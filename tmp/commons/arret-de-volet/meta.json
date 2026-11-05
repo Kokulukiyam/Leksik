@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "arret-de-volet",
+    "terme": "l'arrêt de volet",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Pièce métallique fixée au mur qui maintient un volet battant ouvert contre la façade.",
+    "priorite": 3,
+    "requetes": [
+      "shutter dog",
+      "arrêt de volet",
+      "tête de bergère volet"
+    ],
+    "incompatibles": [
+      "volet-battant"
+    ],
+    "categoriesCommons": [
+      "Category:Shutter dogs",
+      "Category:Shutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Дом купца Семендяева - дверь и ставни, ул.25-го Октября 25 Остров, Сентябрь 2022г.jpg",
+      "description": "Усадьба Семендяева Ф.В.: улица 25-го Октября, 25 / улица Рымара, 1, Остров, Островский район, Псковская область",
+      "categories": [
+        "Shutters",
+        "Self-published work",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Uploaded via Campaign:wlm-ru",
+        "Buildings in Ostrov (Pskov Oblast)",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC depicts",
+        "Images from Wiki Loves Monuments 2022",
+        "Images from Wiki Loves Monuments 2022 in Russia",
+        "Russian heritage ID 6000000664",
+        "25 Oktyabrya Street, 25 (Ostrov)"
+      ],
+      "auteur": "Alandislands",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%B4%D1%8F%D0%B5%D0%B2%D0%B0_-_%D0%B4%D0%B2%D0%B5%D1%80%D1%8C_%D0%B8_%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8,_%D1%83%D0%BB.25-%D0%B3%D0%BE_%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_25_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2,_%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2022%D0%B3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%D0%94%D0%BE%D0%BC_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%B4%D1%8F%D0%B5%D0%B2%D0%B0_-_%D0%B4%D0%B2%D0%B5%D1%80%D1%8C_%D0%B8_%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%2C_%D1%83%D0%BB.25-%D0%B3%D0%BE_%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_25_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%2C_%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2022%D0%B3.jpg/1280px-%D0%94%D0%BE%D0%BC_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%B4%D1%8F%D0%B5%D0%B2%D0%B0_-_%D0%B4%D0%B2%D0%B5%D1%80%D1%8C_%D0%B8_%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%2C_%D1%83%D0%BB.25-%D0%B3%D0%BE_%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_25_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%2C_%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2022%D0%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3929,
+      "hauteur": 2947
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Brand-alpine pasture Unter Brueggele-Shutter dog-02ASD.jpg",
+      "description": "Alpage Unter Brüggele à Brand, Vorarlberg, Autriche",
+      "categories": [
+        "Shutter dogs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Objects in Vorarlberg",
+        "Photographs by Asurnipal-Brand",
+        "Alpe Unter Brüggele",
+        "Brand (Vorarlberg) photographs taken on 2025-11-01"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brand-alpine_pasture_Unter_Brueggele-Shutter_dog-02ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Brand-alpine_pasture_Unter_Brueggele-Shutter_dog-02ASD.jpg/1280px-Brand-alpine_pasture_Unter_Brueggele-Shutter_dog-02ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Kazimierz Buildings 06.JPG",
+      "description": "Colourful building decoration in the Kazimierz District of Cracow (Kraków), Poland. The Scotch Mist Gallery contains many photographs of historic buildings, monuments and memorials of Poland.",
+      "categories": [
+        "Shutters",
+        "Kazimierz",
+        "Self-published work",
+        "Restaurants in Kraków",
+        "Restaurants photographed in 2015",
+        "July 2015 in Kraków"
+      ],
+      "auteur": "Scotch Mist",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kazimierz_Buildings_06.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Kazimierz_Buildings_06.JPG/1280px-Kazimierz_Buildings_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Luxembourg-Differdange-Shutter dog-02ASD.jpg",
+      "description": "Shutter dog in Differdange. Differdange (luxembourg: Déifferdeng 'or Déifferdang, french: Differdange, german: Differdingen) is a town and a municipality in the canton of Esch-sur-Alzette in the Grand Duchy of Luxembourg.",
+      "categories": [
+        "July 2019 Luxembourg photographs",
+        "Differdange",
+        "Shutter dogs",
+        "Self-published work",
+        "Photographs by Asurnipal-Differdingen"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Luxembourg-Differdange-Shutter_dog-02ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Luxembourg-Differdange-Shutter_dog-02ASD.jpg/1280px-Luxembourg-Differdange-Shutter_dog-02ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 2576
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Иркутск Подгорная-13.jpg",
+      "description": "Дом, в котором находилась типография иркутского комитета РСДРП: улица Подгорная, 13, Иркутск, Иркутская область",
+      "categories": [
+        "Shutters",
+        "Cultural heritage monuments in Irkutsk",
+        "Self-published work",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Images from Wiki Loves Monuments 2017",
+        "13 (house number) in Russia",
+        "Uploaded via Campaign:wlm-ru",
+        "Images from Wiki Loves Monuments 2017 in Russia",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC depicts",
+        "Irkutsk Oblast photographs taken on 2017-09-23",
+        "Podgornaya Street, Irkutsk",
+        "Russian heritage ID 3800453000"
+      ],
+      "auteur": "AlPot",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-13.jpg/1280px-%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA_%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3387,
+      "hauteur": 2339
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Brand-alpine pasture Unter Brueggele-Shutter dog-01ASD.jpg",
+      "description": "Alpage Unter Brüggele à Brand, Vorarlberg, Autriche",
+      "categories": [
+        "Shutter dogs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Asurnipal-Brand",
+        "Alpe Unter Brüggele",
+        "Brand (Vorarlberg) photographs taken on 2025-11-01"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brand-alpine_pasture_Unter_Brueggele-Shutter_dog-01ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Brand-alpine_pasture_Unter_Brueggele-Shutter_dog-01ASD.jpg/1280px-Brand-alpine_pasture_Unter_Brueggele-Shutter_dog-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "terme": {
+    "id": "beton-cire",
+    "terme": "le béton ciré",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Enduit décoratif à base de ciment appliqué en couche mince sur sol ou mur, lissé et protégé, à aspect nuancé et continu.",
+    "priorite": 2,
+    "requetes": [
+      "polished concrete microcement floor",
+      "béton ciré sol",
+      "microcement bathroom"
+    ],
+    "incompatibles": [
+      "beton-poli"
+    ],
+    "categoriesCommons": [
+      "Category:Polished concrete",
+      "Category:Concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:นายกรัฐมนตรี เป็นประธานพิธีเปิดการประชุมสัมมนา เรื่อง - Flickr - Abhisit Vejjajiva (1).jpg",
+      "description": "นายกรัฐมนตรี เป็นประธานพิธีเปิดการประชุมสัมมนา เรื่อง \"การสร้างความเข้าใจและมอบนโยบายการปฏิบัติงานสำหรับผู้แทนเกษตรกรระดับตำบล\" ณ ศูนย์แสดงสินค้าและการประชุม อิมแพ็ค เมืองทองธานี จังหวัดนนทบุรี วันศุกร์ ที่ 22 เมษายน พ.ศ.2554 (Photographer attached to the Prime Minister of the Kingdom of Thailand (H.E.Mr.Abhisit Vejjajiva) : Peerapat Wimolrungkarat / พีรพัฒน์ วิมลรังครัตน์) @is50mm",
+      "categories": [
+        "Taken with Canon EOS 5D",
+        "Polished concrete",
+        "Flickr images reviewed by trusted users",
+        "Photographs by Peerapat Wimolrungkarat",
+        "Events at Impact, Muang Thong Thani"
+      ],
+      "auteur": "Abhisit Vejjajiva",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5_%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B2_%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87_-_Flickr_-_Abhisit_Vejjajiva_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5_%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B2_%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87_-_Flickr_-_Abhisit_Vejjajiva_%281%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5120,
+      "hauteur": 3413
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:202412 Two Shoeprints on the concrete floor.jpg",
+      "description": "Two Shoeprints on the concrete floor",
+      "categories": [
+        "Shoeprints",
+        "Gray",
+        "Concrete",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Junyu-K",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:202412_Two_Shoeprints_on_the_concrete_floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/202412_Two_Shoeprints_on_the_concrete_floor.jpg/1280px-202412_Two_Shoeprints_on_the_concrete_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Betoncsiszolas 02.jpg",
+      "description": "Polished concrete",
+      "categories": [
+        "Polished concrete",
+        "Betoncsiszolas"
+      ],
+      "auteur": "PConcrete",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betoncsiszolas_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Betoncsiszolas_02.jpg/1280px-Betoncsiszolas_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hairline cracks.jpg",
+      "description": "A network of very fine hairline cracks appear on the floor",
+      "categories": [
+        "Polished concrete",
+        "Self-published work"
+      ],
+      "auteur": "Prygpt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hairline_cracks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Hairline_cracks.jpg/1280px-Hairline_cracks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1328
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:15 cm cubes used for cube test to measure concrete strength.jpg",
+      "description": "15 cm cubes used for cube test to measure concrete strength",
+      "categories": [
+        "Construction",
+        "Concrete",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2021-07-29"
+      ],
+      "auteur": "Fotokannan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:15_cm_cubes_used_for_cube_test_to_measure_concrete_strength.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/15_cm_cubes_used_for_cube_test_to_measure_concrete_strength.jpg/1280px-15_cm_cubes_used_for_cube_test_to_measure_concrete_strength.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 1844
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Final buffing with BECOSAN.jpg",
+      "description": "Final buffing on polished concrete floor.",
+      "categories": [
+        "Polished concrete",
+        "Self-published work"
+      ],
+      "auteur": "BECOTREAT",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Final_buffing_with_BECOSAN.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Final_buffing_with_BECOSAN.jpg/1280px-Final_buffing_with_BECOSAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    }
+  ]
+}

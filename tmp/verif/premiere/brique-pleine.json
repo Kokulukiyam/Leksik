@@ -1,0 +1,53 @@
+{
+  "termId": "brique-pleine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Brique creuse à alvéole vue de dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brique alvéolée, contraire à brique pleine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande façade de briques rouges appareillées avec fenêtres et soubassement en pierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Mur de briques de terre cuite apparentes, appareil net et dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de parement rugueux rosé en HDR avec banc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture de parement fendu, pas de briques lisibles, HDR très retouché."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ancienne brique entourée de ficelle dans une vitrine, étiquette en hindi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée avec texte, brique unique peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vieux mur de briques avec porte bleue et homme poussant un diable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de rue, mur dégradé, sujet principal autre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de briques rouges avec arc en briques, étoile de façade et baie.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Briques pleines apparentes bien lisibles sur toute l'image."
+    }
+  ]
+}

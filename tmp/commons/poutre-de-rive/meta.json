@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "poutre-de-rive",
+    "terme": "la poutre de rive",
+    "categorie": "Structure",
+    "definition": "Poutre placée en bordure d'un plancher, le long de la façade.",
+    "priorite": 3,
+    "requetes": [
+      "edge beam concrete",
+      "poutre de rive",
+      "spandrel beam"
+    ],
+    "incompatibles": [
+      "poutre"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete beams",
+      "Category:Beams",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Double-tee roof.jpg",
+      "description": "Double-tee roof structure of an indoor swimming pool",
+      "categories": [
+        "Prestressed concrete",
+        "Roofs (structural systems)",
+        "Self-published work",
+        "Roof girders",
+        "Concrete beams"
+      ],
+      "auteur": "Z22",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Double-tee_roof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Double-tee_roof.jpg/1280px-Double-tee_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3178,
+      "hauteur": 2384
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bridge between Armadale Road and North Lake Road under construction, January 2021 02.jpg",
+      "description": "The bridge between Armadale Road and North Lake Road over the Kwinana Freeway under construction, seen from Cockburn Central station platform. The view is west from the station, with the girders for the western side of the bridge ready for placement, the eastern side already having been done.",
+      "categories": [
+        "Beams",
+        "Construction of Armadale Road to North Lake Road Bridge",
+        "Self-published work",
+        "Australia photographs taken on 2021-01-04",
+        "January 2021 in Cockburn, Western Australia",
+        "January 2021 in rail transport in Australia",
+        "Australia photos taken with Canon PowerShot SX60 HS",
+        "Views of Armadale Road to North Lake Road Bridge from Cockburn Central railway station"
+      ],
+      "auteur": "Calistemon",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bridge_between_Armadale_Road_and_North_Lake_Road_under_construction,_January_2021_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Bridge_between_Armadale_Road_and_North_Lake_Road_under_construction%2C_January_2021_02.jpg/1280px-Bridge_between_Armadale_Road_and_North_Lake_Road_under_construction%2C_January_2021_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Armoured.jpg",
+      "description": "Ruined armoured.",
+      "categories": [
+        "Reinforced concrete",
+        "Self-published work",
+        "Files by User:R-bahn"
+      ],
+      "auteur": "R-bahn",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armoured.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Armoured.jpg/1280px-Armoured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Verkeersongeval, NL-HlmNHA 5400464587.JPG",
+      "description": "Collectie Collectie Fotoburo de Boer Inventarisnummer NL-HlmNHA_5400464587 Beschrijving Verkeersongeval Fotonummer NL-HlmNHA_5400464587 Documenttype Historieprenten, tekeningen en foto's Vervaardiger Boer, Cees de (1918-1985) Naam object Rijksweg Land Nederland Provincie Noord-Holland Gemeente Velsen Plaats IJmuiden Begindatum 1985 Einddatum 1985 Techniek Foto Plaatsing gb38",
+      "categories": [
+        "CC-Zero",
+        "IJmuiden",
+        "FTF Trucks",
+        "Images from fotoburo de Boer",
+        "Photographs by Cees de Boer",
+        "1985 in Haarlem",
+        "2 cranes (machines)",
+        "Flatbed step frame semi-trailer trucks",
+        "Eight-wheeled trucks",
+        "Heavy haulage semi-trailer tractors",
+        "Concrete beams",
+        "Truck accidents in Haarlem"
+      ],
+      "auteur": "Boer, Cees de (1918-1985)",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Verkeersongeval,_NL-HlmNHA_5400464587.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Verkeersongeval%2C_NL-HlmNHA_5400464587.JPG/1280px-Verkeersongeval%2C_NL-HlmNHA_5400464587.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2582,
+      "hauteur": 1895
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Beams once forming first floor.jpg",
+      "description": "beams once forming first floor of Clara Castle, dated to 1540, according to our guide",
+      "categories": [
+        "Beams",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2024-07-06",
+        "Interior of Clara Castle"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beams_once_forming_first_floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Beams_once_forming_first_floor.jpg/1280px-Beams_once_forming_first_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 31.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "Concrete slabs",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_31.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_31.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

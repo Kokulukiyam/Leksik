@@ -1,0 +1,165 @@
+{
+  "terme": {
+    "id": "carreau-grand-format",
+    "terme": "le carreau grand format",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Carreau de grande dimension, à partir de 60 × 120 cm, posé avec très peu de joints visibles.",
+    "priorite": 2,
+    "requetes": [
+      "large format tiles floor",
+      "carrelage grand format",
+      "large porcelain slabs floor"
+    ],
+    "incompatibles": [
+      "carreau-de-gres-cerame",
+      "carrelage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Polished Porcelain Floor Tiling.jpg",
+      "description": "Modern polished porcelain floor tiles in a large format.",
+      "categories": [
+        "Self-published work",
+        "Floor tiles in the United Kingdom"
+      ],
+      "auteur": "ColumbD",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Polished_Porcelain_Floor_Tiling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Polished_Porcelain_Floor_Tiling.jpg/1280px-Polished_Porcelain_Floor_Tiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Beauchamp Roding - St Botolph's Church - Essex England - decorative floor tiles.jpg",
+      "description": "Decorative floor tiles in the Grade II* listed 14th-century St Botolph's Church at Beauchamp Roding in The Rodings , Essex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : large RAW file lens-corrected, optimized and downsized with DxO OpticsPro 10 Elite , Viewpoint 2, and Adobe Photoshop CS2 .",
+      "categories": [
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "March 2016 in Essex",
+        "St Botolph's Church, Beauchamp Roding (interior)",
+        "United Kingdom photographs taken on 2016-03-31",
+        "Victorian tiles",
+        "Floor tiles in England",
+        "Acabashi photos: church interior elements",
+        "Church tiles in Essex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beauchamp_Roding_-_St_Botolph%27s_Church_-_Essex_England_-_decorative_floor_tiles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Beauchamp_Roding_-_St_Botolph%27s_Church_-_Essex_England_-_decorative_floor_tiles.jpg/1280px-Beauchamp_Roding_-_St_Botolph%27s_Church_-_Essex_England_-_decorative_floor_tiles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Church of the Holy Cross Felsted Essex England - chancel tiled floor 01.jpg",
+      "description": "The chancel decorative tiled floor of the Grade I listed Holy Cross Church on the B1417 Braintree Road, Felsted , Essex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : large RAW file lens-corrected, optimized and downsized with DxO OpticsPro 10 Elite , Viewpoint 2, and Adobe Photoshop CS2 .",
+      "categories": [
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "February 2016 in Essex",
+        "Churches in Essex photographed in 2016",
+        "Photographs taken on 2016-02-29",
+        "Holy Cross Church, Felsted (interior)",
+        "Floor tiles in England",
+        "Acabashi photos: church interior elements",
+        "Church tiles in Essex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_tiled_floor_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_tiled_floor_01.jpg/1280px-Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_tiled_floor_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Abbess Roding - St Edmund's Church - Essex England - chancel sanctuary floor tiles.jpg",
+      "description": "Floor tiles in the chancel sanctuary of St Edmund's Church at Abbess Roding in The Rodings , Essex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : large RAW file lens-corrected, optimized and downsized with DxO OpticsPro 10 Elite , Viewpoint 2, and Adobe Photoshop CS2 .",
+      "categories": [
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "March 2016 in Essex",
+        "Churches in Essex photographed in 2016",
+        "United Kingdom photographs taken on 2016-03-31",
+        "Floor tiles in England",
+        "St Edmund's Church, Abbess Roding (interior)",
+        "Acabashi photos: church interior elements",
+        "Church tiles in Essex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abbess_Roding_-_St_Edmund%27s_Church_-_Essex_England_-_chancel_sanctuary_floor_tiles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Abbess_Roding_-_St_Edmund%27s_Church_-_Essex_England_-_chancel_sanctuary_floor_tiles.jpg/1280px-Abbess_Roding_-_St_Edmund%27s_Church_-_Essex_England_-_chancel_sanctuary_floor_tiles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Church of the Holy Cross Felsted Essex England - chancel tiled floor 02.jpg",
+      "description": "The chancel decorative tiled floor of the Grade I listed Holy Cross Church on the B1417 Braintree Road, Felsted , Essex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : large RAW file lens-corrected, optimized and downsized with DxO OpticsPro 10 Elite , Viewpoint 2, and Adobe Photoshop CS2 .",
+      "categories": [
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "February 2016 in Essex",
+        "Churches in Essex photographed in 2016",
+        "Photographs taken on 2016-02-29",
+        "Holy Cross Church, Felsted (interior)",
+        "Floor tiles in England",
+        "Acabashi photos: church interior elements",
+        "Church tiles in Essex",
+        "Fleur-de-lis in mosaics"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_tiled_floor_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_tiled_floor_02.jpg/1280px-Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_tiled_floor_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Armitage Shanks urinals at Margate Kent England.jpg",
+      "description": "Armitage Shanks urinals in a public house lavatory in Margate , Kent , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : large RAW file lens-corrected, optimized and downsized with DxO OpticsPro 10 Elite , Viewpoint 2, and Adobe Photoshop CS2 .",
+      "categories": [
+        "Margate, Kent",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Photographs with aspect ratio of 2:3",
+        "Self-published work",
+        "Tiled walls",
+        "Urinals in the United Kingdom",
+        "Spring in Kent",
+        "Toilets (sanitation fixtures)",
+        "Interiors of toilets",
+        "May 2016 in Kent",
+        "Spring 2016 in the United Kingdom",
+        "Photographs taken on 2016-05-06",
+        "5 objects",
+        "Acabashi photos: lavatories",
+        "Public urinals",
+        "Files with coordinates missing SDC location of creation (51° N, 1° E)",
+        "Toilets in England",
+        "Floor tiles in England",
+        "Men's toilets",
+        "Ceramic wall tiles",
+        "Armitage Shanks",
+        "White ceramics in toilets",
+        "Square floor tiles",
+        "Images from Kent"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armitage_Shanks_urinals_at_Margate_Kent_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Armitage_Shanks_urinals_at_Margate_Kent_England.jpg/1280px-Armitage_Shanks_urinals_at_Margate_Kent_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3000
+    }
+  ]
+}

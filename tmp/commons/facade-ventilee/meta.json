@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "facade-ventilee",
+    "terme": "la façade ventilée",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade dont le parement extérieur (panneaux, plaques, lames) est fixé sur une ossature à distance du mur, avec une lame d'air derrière.",
+    "priorite": 3,
+    "requetes": [
+      "ventilated facade installation subframe",
+      "façade ventilée pose ossature",
+      "rainscreen cladding installation"
+    ],
+    "incompatibles": [
+      "facade",
+      "bardage",
+      "panneau-composite-aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Ventilated facades",
+      "Category:Rainscreen cladding",
+      "Category:Cladding"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Buckler's Hard Maritime Museum 19 - Agamemnon copper cladding.jpg",
+      "description": "Original copper cladding from the Agamemnon (1781). Buckler's Hard Maritime Museum, Beaulieu, Hampshire, United Kingdom.",
+      "categories": [
+        "HMS Agamemnon (ship, 1781)",
+        "Copper objects",
+        "Buckler's Hard Maritime Museum",
+        "Cladding",
+        "Self-published work",
+        "Photos by Mike Peel using a Canon EOS 60D"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Buckler%27s_Hard_Maritime_Museum_19_-_Agamemnon_copper_cladding.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Buckler%27s_Hard_Maritime_Museum_19_-_Agamemnon_copper_cladding.jpg/1280px-Buckler%27s_Hard_Maritime_Museum_19_-_Agamemnon_copper_cladding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Sol 3.4.jpg",
+      "description": "Poliuretano Proyectado. Fachada Ventilada",
+      "categories": [
+        "CC-Zero",
+        "Thermal insulation",
+        "Sprayed polyurethane foam",
+        "Self-published work",
+        "Ventilated facades"
+      ],
+      "auteur": "Alvaro Pimentel",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sol_3.4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Sol_3.4.jpg/1280px-Sol_3.4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3076,
+      "hauteur": 1688
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cladding.jpg",
+      "description": "Cladding-Auftragsschweißung an einem Kesselrohr",
+      "categories": [
+        "Taken with Canon PowerShot SX120 IS",
+        "PD-user",
+        "Cladding",
+        "Welds"
+      ],
+      "auteur": "Rainer Sielker",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cladding.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Cladding.jpg/1280px-Cladding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:ComteGéraud-11-b.jpg",
+      "description": "Rue du Comte Géraud numéro 11, à Onex. Élément de façade ventilée manquant.",
+      "categories": [
+        "Thermal insulation",
+        "Self-published work",
+        "Apartment blocks in Onex",
+        "Damaged walls",
+        "Ventilated facades",
+        "Rue du Comte Géraud (Onex)"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ComteG%C3%A9raud-11-b.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/ComteG%C3%A9raud-11-b.jpg/1280px-ComteG%C3%A9raud-11-b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1445,
+      "hauteur": 2148
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Montage der ventilierbaren Fassade.jpg",
+      "description": "Мounting plate from the jura-limestone for ventilated facades.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Ventilated facades"
+      ],
+      "auteur": "J.Stiegler",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Montage_der_ventilierbaren_Fassade.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Montage_der_ventilierbaren_Fassade.jpg/1280px-Montage_der_ventilierbaren_Fassade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1344,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Монтаж вентилируемых фасадных систем с применением утеплителя.jpg",
+      "description": "Монтаж вентилируемых фасадных систем с применением утеплителя",
+      "categories": [
+        "Thermal insulation",
+        "Self-published work",
+        "Ventilated facades"
+      ],
+      "auteur": "Mmanokhin",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6_%D0%B2%D0%B5%D0%BD%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85_%D1%84%D0%B0%D1%81%D0%B0%D0%B4%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%81_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6_%D0%B2%D0%B5%D0%BD%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85_%D1%84%D0%B0%D1%81%D0%B0%D0%B4%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%81_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F.jpg/1280px-%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6_%D0%B2%D0%B5%D0%BD%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85_%D1%84%D0%B0%D1%81%D0%B0%D0%B4%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%81_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    }
+  ]
+}

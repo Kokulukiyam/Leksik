@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "regle-vibrante",
+    "terme": "la règle vibrante",
+    "categorie": "Chantier et outillage",
+    "definition": "Longue poutre à moteur vibreur, tirée sur le béton frais d'une dalle pour l'aplanir et le serrer.",
+    "priorite": 3,
+    "requetes": [
+      "vibrating screed",
+      "règle vibrante",
+      "concrete screed vibrator"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Betonfahrbahndeckenlos VIII Rüttelbohle, Zweischichtiger Einbau - LABW - Staatsarchiv Ludwigsburg EL 75 VI a Nr 885.jpeg",
+      "description": "Betonfahrbahndeckenlos VIII Rüttelbohle, Zweischichtiger Einbau",
+      "categories": [
+        "Files with no machine-readable author",
+        "Uploaded with OpenRefine",
+        "Collections of Staatsarchiv Ludwigsburg",
+        "Files from Landesarchiv-BW with known IDs",
+        "Files from Landesarchiv Baden-Württemberg uploaded by CuratorBot",
+        "Staatsarchiv Ludwigsburg Findbuch EL 75 VI a",
+        "Media needing category review as of 5 September 2025",
+        "Power screeds"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betonfahrbahndeckenlos_VIII_R%C3%BCttelbohle,_Zweischichtiger_Einbau_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_75_VI_a_Nr_885.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Betonfahrbahndeckenlos_VIII_R%C3%BCttelbohle%2C_Zweischichtiger_Einbau_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_75_VI_a_Nr_885.jpeg/1280px-Betonfahrbahndeckenlos_VIII_R%C3%BCttelbohle%2C_Zweischichtiger_Einbau_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_75_VI_a_Nr_885.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1362,
+      "hauteur": 1056
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Tamazulapa River Bridge, Construction view, Leveling concrete ahead of screed, Vibrating the concrete - DPLA - 84764972cac8ae6459ec91384a14b3ee.jpg",
+      "description": "Original caption: 39-1761 - Tamasulapa River Bridge. Construction view. Leveling concrete ahead of screed. Taken June 5, 1937. 39-1762 - Tamasulapa River Bridge. Construction view. Vibrating the concrete. Taken June 5, 1937. State: Guatemala. Place: Tamasulapa River Bridge.",
+      "categories": [
+        "PD US",
+        "Media contributed by the National Archives and Records Administration",
+        "Media contributed by the Digital Public Library of America",
+        "Media contributed by National Archives at College Park - Still Pictures"
+      ],
+      "auteur": "Department of Commerce. Bureau of Public Roads. 8/20/1949-4/1/1967",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tamazulapa_River_Bridge,_Construction_view,_Leveling_concrete_ahead_of_screed,_Vibrating_the_concrete_-_DPLA_-_84764972cac8ae6459ec91384a14b3ee.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Tamazulapa_River_Bridge%2C_Construction_view%2C_Leveling_concrete_ahead_of_screed%2C_Vibrating_the_concrete_-_DPLA_-_84764972cac8ae6459ec91384a14b3ee.jpg/1280px-Tamazulapa_River_Bridge%2C_Construction_view%2C_Leveling_concrete_ahead_of_screed%2C_Vibrating_the_concrete_-_DPLA_-_84764972cac8ae6459ec91384a14b3ee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7019,
+      "hauteur": 5100
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Standspurherstellung (Beton) mit Vögele-Wendeschaufelverteiler und Rüttelbohle - LABW - Staatsarchiv Ludwigsburg EL 75 VI a Nr 924.jpeg",
+      "description": "Standspurherstellung (Beton) mit Vögele-Wendeschaufelverteiler und Rüttelbohle",
+      "categories": [
+        "Files with no machine-readable author",
+        "Uploaded with OpenRefine",
+        "Collections of Staatsarchiv Ludwigsburg",
+        "Files from Landesarchiv-BW with known IDs",
+        "Files from Landesarchiv Baden-Württemberg uploaded by CuratorBot",
+        "Staatsarchiv Ludwigsburg Findbuch EL 75 VI a",
+        "Media needing category review as of 5 September 2025",
+        "Power screeds"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Standspurherstellung_(Beton)_mit_V%C3%B6gele-Wendeschaufelverteiler_und_R%C3%BCttelbohle_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_75_VI_a_Nr_924.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Standspurherstellung_%28Beton%29_mit_V%C3%B6gele-Wendeschaufelverteiler_und_R%C3%BCttelbohle_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_75_VI_a_Nr_924.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1011,
+      "hauteur": 1026
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:San Marcos Bridge - DPLA - 498af25841832b33c17f5d0c93d4f006.jpg",
+      "description": "Original caption: 53-1239 - San Marcos Bridge - April 5, 1952. Screeding concrete with vibrating screed. This screed is not very effective for vibrating except for near the surface. For adequate vibration it was found necessary to supplement with conventional vibrators. As a screed the vibrating screed works well. Note operator at right with conventional vibrator. 53-1240 - San Marcos Bridge - May 7, 1952. Screeding and spreading low slump concrete on deck. State: El Salvador. Place: San Marcos Bridge.",
+      "categories": [
+        "PD US",
+        "Media contributed by the National Archives and Records Administration",
+        "Media contributed by the Digital Public Library of America",
+        "Media contributed by National Archives at College Park - Still Pictures"
+      ],
+      "auteur": "Department of Commerce. Bureau of Public Roads. 8/20/1949-4/1/1967",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:San_Marcos_Bridge_-_DPLA_-_498af25841832b33c17f5d0c93d4f006.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/San_Marcos_Bridge_-_DPLA_-_498af25841832b33c17f5d0c93d4f006.jpg/1280px-San_Marcos_Bridge_-_DPLA_-_498af25841832b33c17f5d0c93d4f006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7019,
+      "hauteur": 5100
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:NMCB 4 Seabees Assemble Power Screed (9283505).jpg",
+      "description": "Seabees assigned to Naval Mobile Construction Battalion (NMCB) 4 assemble a power screed in Camp Shields, Okinawa, Japan, on July 30, 2025. NMCB 4 is forward deployed throughout the Indo-Pacific region to support and maintain a free and open Indo-Pacific. As the stand-in, crisis response, naval engineering force, NMCB 4 maintains a ready posture to deliver in-theater expeditionary logistics via expeditionary shore infrastructure, forward damage repair, and mobile construction. (US Navy photo by Mass Communication Specialist 1st Class Dakota Rayburn)",
+      "categories": [
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Japan photographs taken on 2025-07-30",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, Japan (review needed)",
+        "Power screeds"
+      ],
+      "auteur": "U.S. Navy NMCB4 by Petty Officer 1st Class Justin Rayburn",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:NMCB_4_Seabees_Assemble_Power_Screed_(9283505).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/NMCB_4_Seabees_Assemble_Power_Screed_%289283505%29.jpg/1280px-NMCB_4_Seabees_Assemble_Power_Screed_%289283505%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4115,
+      "hauteur": 2743
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Nimbus Dam (51719037634).jpg",
+      "description": "AR-1346-CV American River. Nimbus. Moving vibrating screed up surface of freshly placed concrete on downstream slope near crest of monolith L-1. Delta District, Central Valley Project, Region 2. L.R. Murphy, Photo. April 2, 1953.",
+      "categories": [
+        "Nimbus Dam",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Bureau of Reclamation",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nimbus_Dam_(51719037634).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Nimbus_Dam_%2851719037634%29.jpg/1280px-Nimbus_Dam_%2851719037634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1976,
+      "hauteur": 1304
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "chaine-d-angle",
+    "terme": "la chaîne d'angle",
+    "categorie": "Façade et ouvertures",
+    "definition": "Assemblage vertical de pierres ou de briques alternées qui renforce et marque l'angle d'un mur.",
+    "priorite": 3,
+    "requetes": [
+      "quoins building corner",
+      "chaîne d'angle pierre",
+      "stone quoin corner"
+    ],
+    "incompatibles": [
+      "pierre-de-taille"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Villach Perau Italiener Strasse 17 ehemaliges Kathreinspital 07082015 6525.jpg",
+      "description": "Former Kathrein hospital on Italiener Straße #17 in Perau, statutary city Villach , Carinthia , Austria , EU",
+      "categories": [
+        "Quoins (architecture)",
+        "Ehemaliges Kathreinspital, Villach",
+        "Self-published work",
+        "Images by Johann Jaritz",
+        "Cultural heritage monuments in Austria with known IDs",
+        "August 2015 in Carinthia",
+        "Corner buildings in Austria",
+        "Austria photographs taken on 2015-08-07",
+        "Summer 2015 in Villach"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Villach_Perau_Italiener_Strasse_17_ehemaliges_Kathreinspital_07082015_6525.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Villach_Perau_Italiener_Strasse_17_ehemaliges_Kathreinspital_07082015_6525.jpg/1280px-Villach_Perau_Italiener_Strasse_17_ehemaliges_Kathreinspital_07082015_6525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6726,
+      "hauteur": 3482
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Grandmaster Palace as seen from outside 18.jpg",
+      "description": "Cette image concerne un bien culturel maltais de numéro d'inventaire 01134 .",
+      "categories": [
+        "Grandmaster's Palace",
+        "Cultural heritage monuments in Malta with known IDs",
+        "Quoins (architecture)",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2017",
+        "Uploaded via Campaign:wlm-mt",
+        "Images from Wiki Loves Monuments 2017 in Malta",
+        "Malta photographs taken on 2017-09-12"
+      ],
+      "auteur": "Continentaleurope",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grandmaster_Palace_as_seen_from_outside_18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Grandmaster_Palace_as_seen_from_outside_18.jpg/1280px-Grandmaster_Palace_as_seen_from_outside_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ustka willa Red.jpg",
+      "description": "Ustka, zespół willowy, 1900",
+      "categories": [
+        "Images with annotations",
+        "Quoins (architecture)",
+        "Villa Red in Ustka",
+        "Self-published work",
+        "Cultural heritage monuments in Poland with known IDs",
+        "Uploaded via Campaign:wikiwakacje-z",
+        "Cultural heritage monuments in Poland missing SDC location of creation",
+        "Araucaria araucana in Ustka",
+        "Images from Wikiwakacje 2016",
+        "Images from Wikiwakacje 2016 (monuments)"
+      ],
+      "auteur": "Grażyna Burak",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ustka_willa_Red.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ustka_willa_Red.jpg/1280px-Ustka_willa_Red.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Lebende Steine.jpg",
+      "description": "Ein Klostergebäude",
+      "categories": [
+        "Quoins (architecture)",
+        "Self-published work",
+        "Taken with Blackview A80 Pro"
+      ],
+      "auteur": "ElektraLu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lebende_Steine.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lebende_Steine.jpg/1280px-Lebende_Steine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Alcaldía de Cartagena de Indias, Bolívar.jpg",
+      "description": "ALCALDÍA DE CARTAGENA DE INDIAS, COLOMBIA",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W310",
+        "License migration redundant",
+        "Quoins (architecture)",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Alcaldía de Cartagena"
+      ],
+      "auteur": "Hekas2 HENRY HERRERA",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alcald%C3%ADa_de_Cartagena_de_Indias,_Bol%C3%ADvar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Alcald%C3%ADa_de_Cartagena_de_Indias%2C_Bol%C3%ADvar.jpg/1280px-Alcald%C3%ADa_de_Cartagena_de_Indias%2C_Bol%C3%ADvar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Crete P1050730.JPG",
+      "description": "Village of Kritsa, Crete, Greece",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ8",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Quoins (architecture)",
+        "Self-published work",
+        "September 2011 Greece photographs",
+        "2011 in Agios Nikolaos",
+        "Oculi in Agios Nikolaos",
+        "Pillars in Agios Nikolaos",
+        "Church of Panagia Odigitria (Kritsa)"
+      ],
+      "auteur": "Deror_avi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crete_P1050730.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Crete_P1050730.JPG/1280px-Crete_P1050730.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

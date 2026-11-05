@@ -1,0 +1,63 @@
+{
+  "termId": "cartouche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Portail de cimetière juif en pierre avec linteau inscrit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Rémy-de-Provence",
+      "note": "Pas de cartouche enroulé, simple bandeau d'inscription."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Hiéroglyphes sur linteau de temple vu en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Karnak, Égypte",
+      "note": "Cartouches égyptiens, sens différent."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Carte céleste gravée coloriée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo d'architecture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plaque funéraire de marbre à bords enroulés et écu, fixée sous une retombée de voûte.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.05,
+        "largeur": 0.6,
+        "hauteur": 0.62
+      },
+      "lieu": "Great Haseley, Oxfordshire",
+      "note": "Cartouche sculpté à volutes entourant une inscription; rectangle sur le cartouche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Dessin à la sanguine d'un cartouche avec putti et figures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cartouche baroque doré à volutes encadrant une inscription, entouré de putti.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.05,
+        "largeur": 0.95,
+        "hauteur": 0.72
+      },
+      "lieu": "Gaming, Autriche",
+      "note": "Cartouche clair et dominant; rectangle sur le cartouche, hors putti."
+    }
+  ]
+}

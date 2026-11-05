@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "tige-de-coffrage",
+    "terme": "la tige de coffrage",
+    "categorie": "Chantier et outillage",
+    "definition": "Tige filetée traversant un coffrage de mur, serrée par des écrous à ailettes pour tenir ses deux faces.",
+    "priorite": 3,
+    "requetes": [
+      "formwork tie rod wing nut",
+      "tige de coffrage écrou",
+      "form tie"
+    ],
+    "incompatibles": [
+      "banche",
+      "coffrage",
+      "coffrage-metallique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hull Collegiate Sixth-Form Tie 2014.jpg",
+      "description": "The tie used by sixth-form pupils at Hull Collegiate School, purchased in June 2014.",
+      "categories": [
+        "Tranby",
+        "Self-published work",
+        "School ties",
+        "August 2017 in the East Riding of Yorkshire"
+      ],
+      "auteur": "Robin S. Taylor",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hull_Collegiate_Sixth-Form_Tie_2014.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hull_Collegiate_Sixth-Form_Tie_2014.jpg/1280px-Hull_Collegiate_Sixth-Form_Tie_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 3240
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Form Holder and Wall Tie - DPLA - 70de9b09a0f97533fadf073f57293efa (page 4).jpg",
+      "description": "Patent for Form holder and wall tie; [1], 4 p. : ill. ; 23 cm.",
+      "categories": [
+        "PD US",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Media contributed by The Portal to Texas History",
+        "Information field template with formatting",
+        "Digital Public Library of America files missing required SDC statements",
+        "PD-US missing SDC copyright status",
+        "Digital Public Library of America files missing creator",
+        "Media contributed by University of North Texas Libraries"
+      ],
+      "auteur": "Tenholder, Herman G",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_(page_4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_%28page_4%29.jpg/1280px-Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_%28page_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Form Holder and Wall Tie - DPLA - 70de9b09a0f97533fadf073f57293efa (page 2).jpg",
+      "description": "Patent for Form holder and wall tie; [1], 4 p. : ill. ; 23 cm.",
+      "categories": [
+        "PD US",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Media contributed by The Portal to Texas History",
+        "Information field template with formatting",
+        "Digital Public Library of America files missing required SDC statements",
+        "PD-US missing SDC copyright status",
+        "Digital Public Library of America files missing creator",
+        "Media contributed by University of North Texas Libraries"
+      ],
+      "auteur": "Tenholder, Herman G",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_(page_2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_%28page_2%29.jpg/1280px-Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:US Navy 051015-N-2984R-009 Squadron plane captains hold tie down chains used to tie down aircraft on their shoulders during flight operations.jpg",
+      "description": "Atlantic Ocean (Oct. 15, 2005) – Squadron plane captains hold tie down chains used to tie down aircraft on their shoulders during flight operations aboard the Nimitz-class aircraft carrier USS Harry S. Truman (CVN 75). Truman is currently conducting carrier qualifications and sustainment training with embarked Carrier Air Wing Three (CVW-3) off the East Coast. U.S. Navy photo by Photographer's Mate Airman Ricardo J. Reyes (RELEASED)",
+      "categories": [
+        "Taken with Nikon D2X",
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Photographs taken on 2005-10-15",
+        "Aboard USS Harry S. Truman (CVN-75)",
+        "Aircraft tie-down chains"
+      ],
+      "auteur": "U.S. Navy photo by Photographer's Mate Airman Ricardo J. Reyes",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:US_Navy_051015-N-2984R-009_Squadron_plane_captains_hold_tie_down_chains_used_to_tie_down_aircraft_on_their_shoulders_during_flight_operations.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/US_Navy_051015-N-2984R-009_Squadron_plane_captains_hold_tie_down_chains_used_to_tie_down_aircraft_on_their_shoulders_during_flight_operations.jpg/1280px-US_Navy_051015-N-2984R-009_Squadron_plane_captains_hold_tie_down_chains_used_to_tie_down_aircraft_on_their_shoulders_during_flight_operations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2100,
+      "hauteur": 1558
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Stacked Spiral Hair Ties Lined Up 1.jpg",
+      "description": "Spiral hair ties stacked by an autistic young woman. They are sorted by size. Autistic people may enjoy stacking objects in addition to lining up objects.",
+      "categories": [
+        "Stimming",
+        "Hair ties",
+        "Self-published work",
+        "Polyurethane objects"
+      ],
+      "auteur": "MissLunaRose12",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stacked_Spiral_Hair_Ties_Lined_Up_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Stacked_Spiral_Hair_Ties_Lined_Up_1.jpg/1280px-Stacked_Spiral_Hair_Ties_Lined_Up_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Social networking services.jpg",
+      "description": "Drawing about the Social networking services",
+      "categories": [
+        "Social networking services",
+        "With trademark",
+        "Flickr images reviewed by FlickreviewR",
+        "Colorful drawings"
+      ],
+      "auteur": "Wilgengebroed on Flickr",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Social_networking_services.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Social_networking_services.jpg/1280px-Social_networking_services.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1679
+    }
+  ]
+}

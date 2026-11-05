@@ -1,0 +1,163 @@
+{
+  "terme": {
+    "id": "attique",
+    "terme": "l'attique",
+    "categorie": "Façade et ouvertures",
+    "definition": "Dernier étage d'un immeuble, plus bas ou en retrait par rapport à la façade principale.",
+    "priorite": 3,
+    "requetes": [
+      "setback top floor penthouse facade",
+      "étage attique",
+      "attic storey classical building"
+    ],
+    "incompatibles": [
+      "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Attics (architecture)"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Piran, attic at the Town Hall 02.jpg",
+      "description": "Attic at the Piran Town Hall",
+      "categories": [
+        "CC-Zero",
+        "Piran Town Hall",
+        "Attics (architecture)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cultural monuments of Slovenia with known IDs",
+        "Architectural sculptures in Piran"
+      ],
+      "auteur": "Ajznponar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Piran,_attic_at_the_Town_Hall_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Piran%2C_attic_at_the_Town_Hall_02.jpg/1280px-Piran%2C_attic_at_the_Town_Hall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Great Church, attic, vases, Saint Stephen and angels, 2020 Pápa.jpg",
+      "description": ": Great Church or Saint Stephen parish-church. The towers connected by pediment include rectangular windows on both end. Attic with vases. On the attic statue of Saint Sttephen martyr and angels, the church was named after him. - Fő Square, Downtown, Pápa , Veszprém County , Hungary .",
+      "categories": [
+        "Attics (architecture)",
+        "Saint Stephen the Martyr church in Pápa",
+        "Self-published work",
+        "Statues of angels in Hungary",
+        "Vases in Hungary",
+        "July 2020 Hungary photographs",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Statues of Saint Stephen in Hungary",
+        "Architectural sculptures in Hungary",
+        "Stone vases",
+        "Files with coordinates missing SDC location of creation",
+        "Statues in Pápa",
+        "2020 in Pápa"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Great_Church,_attic,_vases,_Saint_Stephen_and_angels,_2020_P%C3%A1pa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Great_Church%2C_attic%2C_vases%2C_Saint_Stephen_and_angels%2C_2020_P%C3%A1pa.jpg/1280px-Great_Church%2C_attic%2C_vases%2C_Saint_Stephen_and_angels%2C_2020_P%C3%A1pa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Iserlohn-AltesRathaus7-Asio.jpg",
+      "description": "Brüstung als Attika mit Adlern auf den Eckakroteren des denkmalgeschützten ehemaligen Rathauses in Iserlohn , Alter Rathausplatz 1.",
+      "categories": [
+        "Sculptures of eagles in Germany",
+        "Attics (architecture)",
+        "Altes Rathaus Iserlohn",
+        "Self-published work",
+        "Information field template with formatting",
+        "Balustrades in North Rhine-Westphalia",
+        "Acroterion in Germany",
+        "Stone balustrades in Germany",
+        "North Rhine-Westphalia photographs taken on 2023-03-18",
+        "Files with coordinates missing SDC location of creation (51° N, 7° E)"
+      ],
+      "auteur": "Asio otus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iserlohn-AltesRathaus7-Asio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Iserlohn-AltesRathaus7-Asio.jpg/1280px-Iserlohn-AltesRathaus7-Asio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Les Invalide 640 Detail.jpg",
+      "description": "Les Invalides",
+      "categories": [
+        "Taken with Sony DSC-HX1",
+        "Roofs in Paris",
+        "Cour d'honneur des Invalides",
+        "Attics (architecture)",
+        "Self-published work",
+        "Cadrans solaires de la cour d'honneur des Invalides",
+        "Pediments in Paris",
+        "Windows in Paris",
+        "Arcades in Paris",
+        "Balustrades in Paris",
+        "Oculi in Paris",
+        "Railings in Paris"
+      ],
+      "auteur": "Viault",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Les_Invalide_640_Detail.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Les_Invalide_640_Detail.jpg/1280px-Les_Invalide_640_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Trianon Museum, sign and parapet, 2017 Várpalota.jpg",
+      "description": ": Based on the former Zichyk Mansion a new Mansion was built in 1863 according plans of Miklós Ybl in Neoclassical-romantic style, orderd by Count János Waldstein later was Officer's Training School. Now Museum. - Kastély (Palace) Hill, Várpalota , Veszprém County , Hungary .",
+      "categories": [
+        "Roof parapets",
+        "Attics (architecture)",
+        "Museum signs",
+        "Self-published work",
+        "Architectural elements in Hungary",
+        "Reliefs of coats of arms in Veszprém County",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "August 2017 Hungary photographs",
+        "Files with coordinates missing SDC location of creation",
+        "Coats of arms on buildings in Hungary",
+        "Trianon Museum",
+        "Signs in Várpalota",
+        "2017 in Várpalota"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Trianon_Museum,_sign_and_parapet,_2017_V%C3%A1rpalota.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Trianon_Museum%2C_sign_and_parapet%2C_2017_V%C3%A1rpalota.jpg/1280px-Trianon_Museum%2C_sign_and_parapet%2C_2017_V%C3%A1rpalota.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Városháza, a város címere az attikafalban, 2019 Kalocsa.jpg",
+      "description": ": Town Hall. Built to guest house restaurant (nagyvendéglő) in 1912 in the site of the former Town Hall (used since 1896). roof parapet with CoA, lunette or (window) pediment and bird nest. - 35, Szent István király út, Kalocsa , Bács-Kiskun County .",
+      "categories": [
+        "Bird nests",
+        "Attics (architecture)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "February 2019 Hungary photographs",
+        "Coats of arms of Kalocsa",
+        "2019 in Kalocsa",
+        "Kalocsa Town Hall"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:V%C3%A1rosh%C3%A1za,_a_v%C3%A1ros_c%C3%ADmere_az_attikafalban,_2019_Kalocsa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/V%C3%A1rosh%C3%A1za%2C_a_v%C3%A1ros_c%C3%ADmere_az_attikafalban%2C_2019_Kalocsa.jpg/1280px-V%C3%A1rosh%C3%A1za%2C_a_v%C3%A1ros_c%C3%ADmere_az_attikafalban%2C_2019_Kalocsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2090,
+      "hauteur": 1567
+    }
+  ]
+}

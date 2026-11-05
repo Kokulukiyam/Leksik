@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "piste-cyclable",
+    "terme": "la piste cyclable",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Voie réservée aux vélos, séparée ou marquée au sol, parfois de couleur distincte.",
+    "priorite": 3,
+    "requetes": [
+      "bike lane",
+      "piste cyclable",
+      "cycle track"
+    ],
+    "incompatibles": [
+      "marquage-au-sol"
+    ],
+    "categoriesCommons": [
+      "Category:Cycle lanes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Carril ciclista en frente al Cerro de las Campanas.jpg",
+      "description": "Carril ciclista pintado a lo largo de las vías frente al Cerro de las Campanas, en la ciudad de Santiago de Querétaro.",
+      "categories": [
+        "Cycle lanes",
+        "Santiago de Querétaro",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "2023 in Querétaro"
+      ],
+      "auteur": "JeSe-MX",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carril_ciclista_en_frente_al_Cerro_de_las_Campanas.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Carril_ciclista_en_frente_al_Cerro_de_las_Campanas.jpg/1280px-Carril_ciclista_en_frente_al_Cerro_de_las_Campanas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Carril compartido en Calle Cuauhtemoc, Santiago de Querétaro.jpg",
+      "description": "Señal que indica que se comparte la calle o vía con los ciclistas y automovilistas, ubicado en la calle Cuauhtemoc, frente a la vieja estación de tren en la ciudad de Santiago de Querétaro",
+      "categories": [
+        "Traffic signals",
+        "Cycle lanes",
+        "Santiago de Querétaro",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "2022 in Querétaro"
+      ],
+      "auteur": "JeSe-MX",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carril_compartido_en_Calle_Cuauhtemoc,_Santiago_de_Quer%C3%A9taro.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Carril_compartido_en_Calle_Cuauhtemoc%2C_Santiago_de_Quer%C3%A9taro.jpg/1280px-Carril_compartido_en_Calle_Cuauhtemoc%2C_Santiago_de_Quer%C3%A9taro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:20210320 092737 March 2021 in Białystok.jpg",
+      "description": "March 2021 in Białystok",
+      "categories": [
+        "Taken with Samsung Galaxy A7 (2017)",
+        "CC-Zero",
+        "Cycle lanes",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Poland photographs taken on 2021-03-20",
+        "March 2021 in Białystok",
+        "Andersa Street in Białystok",
+        "Bitwy Białostockiej Street in Białystok"
+      ],
+      "auteur": "Rakoon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20210320_092737_March_2021_in_Bia%C5%82ystok.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/20210320_092737_March_2021_in_Bia%C5%82ystok.jpg/1280px-20210320_092737_March_2021_in_Bia%C5%82ystok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bike Infrastructure Mapping Progress - November 2024.jpg",
+      "description": "Map showing the extent of bicycle infrastructure mapping in Victoria as of November 2024",
+      "categories": [
+        "Cycle lanes",
+        "Self-published work"
+      ],
+      "auteur": "Hannah.Ferrier",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bike_Infrastructure_Mapping_Progress_-_November_2024.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bike_Infrastructure_Mapping_Progress_-_November_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1107,
+      "hauteur": 657
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Castel Goffredo-Pista ciclabile Tartaro.jpg",
+      "description": "Castel Goffredo, pista ciclabile Tartaro",
+      "categories": [
+        "Cycle lanes",
+        "Self-published work",
+        "Images with extracted images",
+        "Trees in Castel Goffredo"
+      ],
+      "auteur": "Teseo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castel_Goffredo-Pista_ciclabile_Tartaro.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Castel_Goffredo-Pista_ciclabile_Tartaro.jpg/1280px-Castel_Goffredo-Pista_ciclabile_Tartaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Autorickshaw parked on bicycle lane, on Hitex Road.jpg",
+      "description": "Autorickshaw parked on bicycle lane, on Hitex Road",
+      "categories": [
+        "CC-Zero",
+        "Auto-rickshaws",
+        "Cycle lanes",
+        "Self-published work",
+        "Roads in HITEC City",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Cycle lanes in Hyderabad, India",
+        "India photographs taken on 2025-11-02",
+        "Illegal parking in Hyderabad, India",
+        "Vehicles in HITEC City"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Autorickshaw_parked_on_bicycle_lane,_on_Hitex_Road.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Autorickshaw_parked_on_bicycle_lane%2C_on_Hitex_Road.jpg/1280px-Autorickshaw_parked_on_bicycle_lane%2C_on_Hitex_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    }
+  ]
+}

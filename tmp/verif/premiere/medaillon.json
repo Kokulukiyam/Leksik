@@ -1,0 +1,58 @@
+{
+  "termId": "medaillon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petit monument en jardin avec médaillon portrait, très petit dans l'image.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taipei, Taïwan",
+      "note": "Élément trop petit."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Affiche d'insignes d'avions.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo d'architecture."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Médaillon ovale à couronne de laurier portant un monogramme IHS au-dessus d'un fronton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eberndorf, Autriche",
+      "note": "Monogramme/inscription, doute avec cartouche ou blason."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Médaillon circulaire encadré portant une tête du Christ en relief, dans un fronton.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.34,
+        "y": 0.28,
+        "largeur": 0.35,
+        "hauteur": 0.46
+      },
+      "lieu": "",
+      "note": "Médaillon rond encadré avec portrait, rectangle serré."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Profil en bronze sur plaque de granit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dean Cemetery, Édimbourg",
+      "note": "Portrait sans encadrement net, plutôt plaque/bas-relief."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fragment de pierre ovale très érodé avec buste.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maillezais",
+      "note": "Érodé, illisible, objet de musée."
+    }
+  ]
+}

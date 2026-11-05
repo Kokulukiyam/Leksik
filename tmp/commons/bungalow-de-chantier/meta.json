@@ -1,0 +1,156 @@
+{
+  "terme": {
+    "id": "bungalow-de-chantier",
+    "terme": "le bungalow de chantier",
+    "categorie": "Chantier et outillage",
+    "definition": "Module préfabriqué de type conteneur, installé sur un chantier comme bureau, vestiaire ou réfectoire.",
+    "priorite": 3,
+    "requetes": [
+      "construction site office container",
+      "bungalow de chantier",
+      "site cabin portable office"
+    ],
+    "categoriesCommons": [
+      "Category:Portable buildings",
+      "Category:Construction sites"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:High Line td 76 - West Side.jpg",
+      "description": "A Modspace portable building at West 30th Street and 12th Avenue (West Side Highway) adjacent to the High Line and West Side Yard in Chelsea/Hell's Kitchen, Manhattan. Looking south from the High Line Section 3.",
+      "categories": [
+        "Views from the High Line (New York City)",
+        "Portable buildings",
+        "30th Street (Manhattan)",
+        "Self-published work",
+        "High Line Section 3",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2017-10-31",
+        "High Line (New York City) in 2017",
+        "2017 Manhattan photographs by Tdorante10",
+        "Midtown Manhattan in 2017",
+        "October 2017 in Manhattan, New York City",
+        "Buildings in Midtown Manhattan"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:High_Line_td_76_-_West_Side.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/High_Line_td_76_-_West_Side.jpg/1280px-High_Line_td_76_-_West_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bauboom Alte Landstrasse 154 158 Küsnacht mit Freihof.jpg",
+      "description": "Building boom Alte Landstrasse 154 158 Küsnacht with Freihof",
+      "categories": [
+        "Construction sites",
+        "CC-Zero",
+        "Küsnacht ZH",
+        "Self-published work",
+        "Alte Landstrasse (Küsnacht ZH)",
+        "Oberwachtstrasse (Küsnacht ZH)"
+      ],
+      "auteur": "Saxifraga mutata",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bauboom_Alte_Landstrasse_154_158_K%C3%BCsnacht_mit_Freihof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bauboom_Alte_Landstrasse_154_158_K%C3%BCsnacht_mit_Freihof.jpg/1280px-Bauboom_Alte_Landstrasse_154_158_K%C3%BCsnacht_mit_Freihof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Metropolitan Av Selfridge St td 05 - Parkside LIRR.jpg",
+      "description": "The site of the former Parkside LIRR station of the Rockaway Beach Branch, on Metropolitan Avenue between Selfridge Street and Trotting Course Lane in Forest Hills / Rego Park, Queens.",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Bridges in Queens, New York City",
+        "Metropolitan Avenue (New York City)",
+        "Portable buildings",
+        "Self-published work",
+        "Railway bridges in New York City",
+        "Photographs by Tdorante10 taken on 2018-05-07",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2018-05-07",
+        "Railway photographs taken on 2018-05-07",
+        "Trees in Queens, New York City",
+        "Yellow backhoe loaders",
+        "2018 Queens photographs by Tdorante10",
+        "2018 in Rego Park, Queens",
+        "2018 in Forest Hills, Queens",
+        "Long Island Rail Road in 2018",
+        "May 2018 in Queens, New York City",
+        "Caterpillar backhoe loaders",
+        "Parkside (LIRR station)",
+        "Construction vehicles in Queens, New York City",
+        "Backhoe loaders in New York City"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Metropolitan_Av_Selfridge_St_td_05_-_Parkside_LIRR.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Metropolitan_Av_Selfridge_St_td_05_-_Parkside_LIRR.jpg/1280px-Metropolitan_Av_Selfridge_St_td_05_-_Parkside_LIRR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:B8n Baustelle PA185576.JPG",
+      "description": "B8n Baustelle",
+      "categories": [
+        "Construction sites",
+        "Taken with Olympus E-620",
+        "Self-published work"
+      ],
+      "auteur": "Foto-dus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B8n_Baustelle_PA185576.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/B8n_Baustelle_PA185576.JPG/1280px-B8n_Baustelle_PA185576.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Matrosa, Jalaksilla oleva \"\"kolhoosiputiikki\"\", SAKuva-52760.jpg",
+      "description": "Matrosa, Jalaksilla oleva \"kolhoosiputiikki\"",
+      "categories": [
+        "SA-kuva",
+        "Portable buildings",
+        "PD Finland (simple photos)",
+        "SA-kuva images with watermarks",
+        "Photographs by Esko Manninen",
+        "Karelo-Finnish SSR photographs taken on 1941-09-28",
+        "Historical images of Matrosy"
+      ],
+      "auteur": "Esko Manninen",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Matrosa,_Jalaksilla_oleva_%22%22kolhoosiputiikki%22%22,_SAKuva-52760.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Matrosa%2C_Jalaksilla_oleva_%22%22kolhoosiputiikki%22%22%2C_SAKuva-52760.jpg/1280px-Matrosa%2C_Jalaksilla_oleva_%22%22kolhoosiputiikki%22%22%2C_SAKuva-52760.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4972,
+      "hauteur": 3386
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Apollo converter station under construction 07.jpg",
+      "description": "Steel structure assembly during construction of the Apollo HVDC power station. Photo from late 1973, scanned in January 2020.",
+      "categories": [
+        "Electricity pylons in South Africa",
+        "Construction sites",
+        "Construction workers",
+        "Cahora Bassa (HVDC)",
+        "High-voltage overhead power lines",
+        "HVDC converter stations",
+        "HVDC power lines",
+        "Self-published work",
+        "Construction in South Africa"
+      ],
+      "auteur": "Herbert Hönigsperger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apollo_converter_station_under_construction_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Apollo_converter_station_under_construction_07.jpg/1280px-Apollo_converter_station_under_construction_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1400,
+      "hauteur": 2100
+    }
+  ]
+}

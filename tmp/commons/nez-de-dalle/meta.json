@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "nez-de-dalle",
+    "terme": "le nez de dalle",
+    "categorie": "Façade et ouvertures",
+    "definition": "Tranche d'un plancher en béton visible en façade, formant une bande horizontale à chaque niveau.",
+    "priorite": 3,
+    "requetes": [
+      "exposed slab edge facade",
+      "nez de dalle façade",
+      "concrete floor slab edge building"
+    ],
+    "incompatibles": [
+      "facade",
+      "bandeau"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:19870724040NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße / Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Hier: Außenwandelement. [R19870724A11.jpg]19870724040NR.JPG(c)Blobelt",
+      "categories": [
+        "Facades in Germany",
+        "WBS 70",
+        "Concrete slabs",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Concrete panels"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724040NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/19870724040NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724040NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2475
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 22.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_22.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cemento stampato.jpg",
+      "description": "pavimento in cemento stampato",
+      "categories": [
+        "Concrete slabs",
+        "Self-published work"
+      ],
+      "auteur": "Cemento stampato",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cemento_stampato.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Cemento_stampato.jpg/1280px-Cemento_stampato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5312,
+      "hauteur": 2988
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Concrete wall cracking as its steel reinforcing cracks and swells 9061v.jpg",
+      "description": "Photograph taken in grounds of Newton Park Technical High School, Port Elizabeth, South Africa",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Canon PowerShot A650 IS",
+        "Self-published work",
+        "Corroded objects"
+      ],
+      "auteur": "JonRichfield",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_wall_cracking_as_its_steel_reinforcing_cracks_and_swells_9061v.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Concrete_wall_cracking_as_its_steel_reinforcing_cracks_and_swells_9061v.jpg/1280px-Concrete_wall_cracking_as_its_steel_reinforcing_cracks_and_swells_9061v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:FAU-UFPA (7).jpg",
+      "description": "Faculdade de Arquitetura e Urbanismo da Universidade Federal do Pará.",
+      "categories": [
+        "Concrete slabs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cidade Universitária Prof. José da Silveira Netto"
+      ],
+      "auteur": "Jucá Costa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FAU-UFPA_(7).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/FAU-UFPA_%287%29.jpg/1280px-FAU-UFPA_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 06.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "Formwork",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_06.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

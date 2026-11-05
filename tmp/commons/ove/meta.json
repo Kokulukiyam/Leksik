@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "ove",
+    "terme": "l'ove",
+    "categorie": "Ornement",
+    "definition": "Ornement en forme d'œuf, répété en rang et alterné avec des dards sur une moulure.",
+    "priorite": 3,
+    "requetes": [
+      "egg and dart",
+      "egg and dart molding",
+      "oves et dards"
+    ],
+    "incompatibles": [
+      "moulure"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Egg and Dart pattern on doorway of Thracian temple in Starosel, Plovdiv, Bulgaria.jpg",
+      "description": "Egg and Dart pattern on doorway of Thracian temple at the Chetinyova Mound, in Starosel, Plovdiv, Bulgaria.",
+      "categories": [
+        "Taken with Sanyo Xacti VPC-HD1A",
+        "Chetinyova Tomb",
+        "Egg and dart",
+        "Self-published work",
+        "Architectural motifs"
+      ],
+      "auteur": "Shannon E. Wells",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Egg_and_Dart_pattern_on_doorway_of_Thracian_temple_in_Starosel,_Plovdiv,_Bulgaria.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Egg_and_Dart_pattern_on_doorway_of_Thracian_temple_in_Starosel%2C_Plovdiv%2C_Bulgaria.jpg/1280px-Egg_and_Dart_pattern_on_doorway_of_Thracian_temple_in_Starosel%2C_Plovdiv%2C_Bulgaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3680,
+      "hauteur": 2760
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ostia antica 554.JPG",
+      "description": "Ostia antica (archaeological site)",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D80",
+        "Temple of the Capitoline triade in Ostia",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Wikigita Roma - Ostia Antica 14 novembre 2009",
+        "Self-published work",
+        "Ancient Roman modillon cornices",
+        "Egg and dart in Italy"
+      ],
+      "auteur": "Camelia.boban",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ostia_antica_554.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ostia_antica_554.JPG/1280px-Ostia_antica_554.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Egg-and-dart in Parsonage Lane - geograph.org.uk - 2238721.jpg",
+      "description": "Egg-and-dart in Parsonage Lane",
+      "categories": [
+        "Streets in Bath, Somerset",
+        "Images from Geograph Britain and Ireland"
+      ],
+      "auteur": "Virginia Knight",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Egg-and-dart_in_Parsonage_Lane_-_geograph.org.uk_-_2238721.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Egg-and-dart_in_Parsonage_Lane_-_geograph.org.uk_-_2238721.jpg/1280px-Egg-and-dart_in_Parsonage_Lane_-_geograph.org.uk_-_2238721.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Stock Exchange Palace (Bucharest).jpg",
+      "description": "Stock Exchange Palace (Bucharest)",
+      "categories": [
+        "Interior of the Stock Exchange Palace, Bucharest",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Egg and dart in Romania",
+        "Cartouches in Bucharest",
+        "Door pediments in Bucharest",
+        "Corbels in Bucharest"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stock_Exchange_Palace_(Bucharest).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Stock_Exchange_Palace_%28Bucharest%29.jpg/1280px-Stock_Exchange_Palace_%28Bucharest%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3799,
+      "hauteur": 2364
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:The Egg and Dart carving on a capital. Glencairn Aisle, Kilmaurs, East Ayrshire.jpg",
+      "description": "The Egg and Dart carving on a capital on the monument. Glencairn Aisle, Kilmaurs, East Ayrshire. Represents birth and death.",
+      "categories": [
+        "Glencairn Aisle",
+        "Kilmaurs (civil parish)",
+        "Self-published work",
+        "May 2021 in Scotland",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Egg_and_Dart_carving_on_a_capital._Glencairn_Aisle,_Kilmaurs,_East_Ayrshire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Egg_and_Dart_carving_on_a_capital._Glencairn_Aisle%2C_Kilmaurs%2C_East_Ayrshire.jpg/1280px-The_Egg_and_Dart_carving_on_a_capital._Glencairn_Aisle%2C_Kilmaurs%2C_East_Ayrshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 2752
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:173, Splaiul Unirii, Bucharest (Romania) 1.jpg",
+      "description": "173, Splaiul Unirii, Bucharest (Romania)",
+      "categories": [
+        "Self-published work",
+        "Reliefs of dragons in Romania",
+        "Romania photographs taken on 2021-01-23",
+        "January 2021 in Bucharest",
+        "Egg and dart in Romania",
+        "Reliefs in Bucharest",
+        "Walls in Bucharest",
+        "Cartouches in Bucharest",
+        "Rectangular windows in Bucharest",
+        "Splaiul Unirii 173, Bucharest"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:173,_Splaiul_Unirii,_Bucharest_(Romania)_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/173%2C_Splaiul_Unirii%2C_Bucharest_%28Romania%29_1.jpg/1280px-173%2C_Splaiul_Unirii%2C_Bucharest_%28Romania%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3116,
+      "hauteur": 2777
+    }
+  ]
+}

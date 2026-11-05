@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "panneresse",
+    "terme": "la panneresse",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Brique ou bloc posé dans le sens de la longueur, sa grande face visible dans le parement.",
+    "priorite": 3,
+    "requetes": [
+      "stretcher brick",
+      "panneresse brique",
+      "brick stretchers"
+    ],
+    "incompatibles": [
+      "appareil-en-panneresses",
+      "appareil-flamand",
+      "appareil-anglais"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Brick walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2025-04-26 Brauerei Feldschloesschen Rheinfelden AG 007.jpg",
+      "description": "Architektonische Detailaufnahmen der Brauerei Feldschlösschen in Rheinfelden AG - Ein Nahaufnahme der Ziegelsteine.",
+      "categories": [
+        "Bricks",
+        "Feldschlösschen (Rheinfelden)",
+        "Self-published work",
+        "Brick architectural elements in Switzerland",
+        "Photographs taken on 2025-04-26"
+      ],
+      "auteur": "Ahmet Düz, Dreiländer- & Oberrheinfotograf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-04-26_Brauerei_Feldschloesschen_Rheinfelden_AG_007.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2025-04-26_Brauerei_Feldschloesschen_Rheinfelden_AG_007.jpg/1280px-2025-04-26_Brauerei_Feldschloesschen_Rheinfelden_AG_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Aniceto Lacson House entrance - NHCP.jpg",
+      "description": "Entrance of the Aniceto Lacson House in Talisay, Negros Occidental, Philippines",
+      "categories": [
+        "Brick walls",
+        "PD-PhilippinesGov",
+        "Images with extracted images",
+        "Entrances in the Philippines",
+        "Buildings in the Philippines photographed in 2015",
+        "Photos from the National Historical Commission of the Philippines",
+        "Aniceto Lacson House"
+      ],
+      "auteur": "Commission historique nationale des Philippines",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aniceto_Lacson_House_entrance_-_NHCP.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Aniceto_Lacson_House_entrance_-_NHCP.jpg/1280px-Aniceto_Lacson_House_entrance_-_NHCP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2018-07-15 Ziegelei Lage (Lippe) 04.jpg",
+      "description": "Ziegeleimuseum Lage (Lippe) in Nordrhein-Westfalen, LWL-Industriemuseum. Gebrannte Ziegel",
+      "categories": [
+        "Brick making in Germany",
+        "Bricks",
+        "Ring kilns",
+        "Ziegelei Lage",
+        "Wikipedia Hannover 2021 Contributions"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-07-15_Ziegelei_Lage_%28Lippe%29_04.jpg/1280px-2018-07-15_Ziegelei_Lage_%28Lippe%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Autumn Colour (8109215713).jpg",
+      "description": "Autumn Colour",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ30",
+        "Brick walls",
+        "Flickr images reviewed by FlickreviewR",
+        "Unidentified Parthenocissus",
+        "Photographs by Jason Ryde",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Jay from UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Autumn_Colour_(8109215713).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Autumn_Colour_%288109215713%29.jpg/1280px-Autumn_Colour_%288109215713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1875
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2021-06-06 Schwesternhausstraße (Hannover) 03.JPG",
+      "description": "Schwesternhausstraße im Stadtteil Bult in Hannover Blick nach Norden in die Schwesternhausstraße von der Einmündung in die Heiligengeiststraße, rechts das Alten- und Pflegeheims \"Rats- und von Soden-Kloster\" in der Schwesternhausstraße 9-9a",
+      "categories": [
+        "Bricks",
+        "Schwesternhausstraße (Hannover)",
+        "Files with coordinates missing SDC location of creation (52° N, 9° E)",
+        "Rats- und von-Soden-Kloster (Hannover)",
+        "Wikipedia Hannover 2021 Contributions"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021-06-06_Schwesternhausstra%C3%9Fe_(Hannover)_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2021-06-06_Schwesternhausstra%C3%9Fe_%28Hannover%29_03.JPG/1280px-2021-06-06_Schwesternhausstra%C3%9Fe_%28Hannover%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2921,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:207 366 - Dreiecke Triangles (28089308283).jpg",
+      "description": "One year, two perspectives. This image is part of a 365(+1) project, my friend &lt;a href=\" https://www.flickr.com/photos/tiloschaffrik \"&gt;Tilo&lt;/a&gt; and I are working on. If you want to see more, check out our website &lt;a href=\" http://zweisichtig.de/ \" rel=\"nofollow\"&gt;zweisichtig.de&lt;/a&gt;.",
+      "categories": [
+        "Brick walls",
+        "Flickr images reviewed by FlickreviewR 2",
+        "MH2024",
+        "Boris Thaser (photographer)"
+      ],
+      "auteur": "Boris Thaser from Augsburg, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:207_366_-_Dreiecke_Triangles_(28089308283).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/207_366_-_Dreiecke_Triangles_%2828089308283%29.jpg/1280px-207_366_-_Dreiecke_Triangles_%2828089308283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4886,
+      "hauteur": 3183
+    }
+  ]
+}

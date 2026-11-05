@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "colonne-seche",
+    "terme": "la colonne sèche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Canalisation vide montant dans les étages, avec une prise en façade où les pompiers branchent leur tuyau, et des prises à chaque niveau.",
+    "priorite": 3,
+    "requetes": [
+      "dry riser inlet",
+      "colonne sèche",
+      "dry riser outlet"
+    ],
+    "categoriesCommons": [
+      "Category:Dry risers",
+      "Category:Fire hydrants"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Columna seca Barcelona 3.jpg",
+      "description": "Colonne sèche d'un immeuble de Barcelone, Espagne.",
+      "categories": [
+        "Dry risers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Pyrog",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Columna_seca_Barcelona_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Columna_seca_Barcelona_3.jpg/1280px-Columna_seca_Barcelona_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:File-50787.BA001--Wheel wrench for fire hydrants -1910.02.26- (090031f4-4ea7-4e73-80ca-f4299c690852).jpg",
+      "description": "50787.BA#001--Wheel wrench for fire hydrants [1910.02.26] Keywords: architectural drawings; wheel wrench; fire hydrants; Railroads; (NPS Focus Subject Thesaurus)",
+      "categories": [
+        "Fire hydrants",
+        "PD US expired",
+        "Images from NPGallery to check",
+        "Template Unknown (author)",
+        "Photographs taken on 1910-02-26",
+        "Images from NPGallery",
+        "Handwheels",
+        "Documents of the Delaware, Lackawanna and Western Railroad"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:File-50787.BA001--Wheel_wrench_for_fire_hydrants_-1910.02.26-_(090031f4-4ea7-4e73-80ca-f4299c690852).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/File-50787.BA001--Wheel_wrench_for_fire_hydrants_-1910.02.26-_%28090031f4-4ea7-4e73-80ca-f4299c690852%29.jpg/1280px-File-50787.BA001--Wheel_wrench_for_fire_hydrants_-1910.02.26-_%28090031f4-4ea7-4e73-80ca-f4299c690852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1618,
+      "hauteur": 2057
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Colonne sèche2008.jpg",
+      "description": "Colonnes sèches (Lille, France)",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "License migration redundant",
+        "Standpipes (firefighting)",
+        "Dry risers",
+        "Self-published work"
+      ],
+      "auteur": "Lamiot",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Colonne_s%C3%A8che2008.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Colonne_s%C3%A8che2008.jpg/1280px-Colonne_s%C3%A8che2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1236
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fire hydrant 11.jpg",
+      "description": "Oberflurhydrant für Löschwasser",
+      "categories": [
+        "Fire hydrants",
+        "Photographs by Killarnee"
+      ],
+      "auteur": "Killarnee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_hydrant_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Fire_hydrant_11.jpg/1280px-Fire_hydrant_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Fire-fighting-facility node-3782843534.jpg",
+      "description": "Ce point d'eau incendie peut être visualisé sur OSMHydrant ( Afficher ). Deutsch ∙ English ∙ français ∙ +/−",
+      "categories": [
+        "Wall fire hydrants",
+        "Dry risers",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "higa4",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire-fighting-facility_node-3782843534.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Fire-fighting-facility_node-3782843534.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bucharest - hydrant.jpg",
+      "description": "Red hydrant in Bucharest.",
+      "categories": [
+        "Taken with Sony ILCE-5000",
+        "Fire hydrants",
+        "Sector 1 (Bucharest)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Romania photographs taken on 2016-05-30",
+        "May 2016 in Bucharest"
+      ],
+      "auteur": "Tiia Monto",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bucharest_-_hydrant.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bucharest_-_hydrant.jpg/1280px-Bucharest_-_hydrant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2976,
+      "hauteur": 4645
+    }
+  ]
+}

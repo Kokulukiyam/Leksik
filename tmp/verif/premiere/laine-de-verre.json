@@ -1,0 +1,58 @@
+{
+  "termId": "laine-de-verre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier en combinaison tenant un rouleau de laine de verre jaune posée entre des solives.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.55,
+        "largeur": 1.0,
+        "hauteur": 0.45
+      },
+      "lieu": "",
+      "note": "Isolant fibreux jaune typique, rectangle sur la laine pour écarter le personnage."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Climatiseur extérieur avec tuyaux isolés en mousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mousse caoutchouc, pas de la laine de verre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrières manipulant de la laine de verre en usine, photo ancienne noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Millville, États-Unis",
+      "note": "Document ancien, matériau peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Parois métalliques bombées d'un réservoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan sur fibres d'isolant orangées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couleurs très accentuées, pourrait être confondu avec la laine de roche ; sans contexte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chantier de rénovation avec laine minérale et panneaux aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Laine de roche ou minérale, peu lisible, plusieurs éléments."
+    }
+  ]
+}

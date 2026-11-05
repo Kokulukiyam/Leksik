@@ -1,0 +1,96 @@
+{
+  "terme": {
+    "id": "ragreage",
+    "terme": "le ragréage",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Mortier fluide autolissant coulé en couche mince pour rendre une dalle parfaitement plane avant pose du revêtement.",
+    "priorite": 2,
+    "requetes": [
+      "self leveling compound floor",
+      "ragréage sol",
+      "self-levelling screed pouring"
+    ],
+    "incompatibles": [
+      "chape-liquide"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:7th to 8th century Candi Arjuna, Siva temple, Karangsari Java, Indonesia.jpg",
+      "description": "Location of this monument: Position de l'objet 7° 12′ 17,78″ S, 109° 54′ 24,98″ E Voir cet endroit et d’autres images sur : OpenStreetMap -7.204939; 109.906939 Dieng temples group is a large group of Hindu temples over a 1.6 square kilometers. They are located on Dieng Plateau in Wonosobo, Central Java. This site is about 2000 meters above sea level and among the oldest Hindu complexes in Central Java, Indonesia. The Dieng group is dedicated to Shiva, likely built in two phases. The first phase extended between 650 and 725 CE, which completed the Arjuna (above), Semar, Srikandi and Gatutkaca t",
+      "categories": [
+        "Hindu temples in Indonesia",
+        "CC-Zero",
+        "Candi Arjuna",
+        "Floor plans of Hindu temples",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ms Sarah Welch",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:7th_to_8th_century_Candi_Arjuna,_Siva_temple,_Karangsari_Java,_Indonesia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/7th_to_8th_century_Candi_Arjuna%2C_Siva_temple%2C_Karangsari_Java%2C_Indonesia.jpg/1280px-7th_to_8th_century_Candi_Arjuna%2C_Siva_temple%2C_Karangsari_Java%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5100,
+      "hauteur": 3300
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Sulu Museum and Library 2026-06-15Cabel Filipino Heritage Restaurant 13.jpg",
+      "description": "Cabel Filipino Heritage Restaurant (600- square-meter ancestral house 1,000-square-meter lot upscale 2-story preserved ancestral house ambience recognized Bib Gourmand by Michelin Guide Philippines The Sulu Public Hospital, historically known Sulu Provincial Hospital and Sulu Sanitarium, Bangsamoro Autonomous Region Muslim Mindanao (BARMM) evolved from a colonial-era leprosarium into first Level 2 general hospital currently operating as Integrated Provincial Health Office - Sulu Provincial Hospital Sulu Sanitarium and General Hospital Jolo, Sulu established in 1916 inaugurated on November 7, 1",
+      "categories": [
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Cultural heritage monuments in Sulu (province)",
+        "Buildings in Jolo, Sulu",
+        "Cabel Restaurant"
+      ],
+      "auteur": "P1898",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sulu_Museum_and_Library_2026-06-15Cabel_Filipino_Heritage_Restaurant_13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sulu_Museum_and_Library_2026-06-15Cabel_Filipino_Heritage_Restaurant_13.jpg/1280px-Sulu_Museum_and_Library_2026-06-15Cabel_Filipino_Heritage_Restaurant_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2533,
+      "hauteur": 1505
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Akzhar Chalk Mountains, Kostanay Region, Kazakhstan. September 2024 11.jpg",
+      "description": "Geological Description The photograph illustrates a classic example of stratigraphic layering (sedimentation). These \"badlands\" are composed primarily of sedimentary rocks, including colored clays, marls, and chalk deposits. Mineral Composition: The vibrant color palette is indicative of various oxidation states and mineral content. The deep reds and ochres suggest a high concentration of iron oxides (hematite), while the whites and yellows point to calcium carbonate (chalk) and sulfur compounds or specific clay minerals like kaolinite. Morphology: The rounded, undulating shapes and deep groov",
+      "categories": [
+        "Kostanay Region",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Science Competition 2025 in Kazakhstan",
+        "Wildlife and nature images from Wiki Science Competition 2025",
+        "Uploaded via Campaign:wsc-kz"
+      ],
+      "auteur": "Astrobond",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Akzhar_Chalk_Mountains,_Kostanay_Region,_Kazakhstan._September_2024_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Akzhar_Chalk_Mountains%2C_Kostanay_Region%2C_Kazakhstan._September_2024_11.jpg/1280px-Akzhar_Chalk_Mountains%2C_Kostanay_Region%2C_Kazakhstan._September_2024_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Akzhar Chalk Mountains, Kostanay Region, Kazakhstan. September 2024 12.jpg",
+      "description": "Geological Description The photograph illustrates a classic example of stratigraphic layering (sedimentation). These \"badlands\" are composed primarily of sedimentary rocks, including colored clays, marls, and chalk deposits. Mineral Composition: The vibrant color palette is indicative of various oxidation states and mineral content. The deep reds and ochres suggest a high concentration of iron oxides (hematite), while the whites and yellows point to calcium carbonate (chalk) and sulfur compounds or specific clay minerals like kaolinite. Morphology: The rounded, undulating shapes and deep groov",
+      "categories": [
+        "Kostanay Region",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Science Competition 2025 in Kazakhstan",
+        "Wildlife and nature images from Wiki Science Competition 2025",
+        "Uploaded via Campaign:wsc-kz"
+      ],
+      "auteur": "Astrobond",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Akzhar_Chalk_Mountains,_Kostanay_Region,_Kazakhstan._September_2024_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Akzhar_Chalk_Mountains%2C_Kostanay_Region%2C_Kazakhstan._September_2024_12.jpg/1280px-Akzhar_Chalk_Mountains%2C_Kostanay_Region%2C_Kazakhstan._September_2024_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8912,
+      "hauteur": 3584
+    }
+  ]
+}

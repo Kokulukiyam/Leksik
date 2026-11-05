@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "plot-de-beton",
+    "terme": "le plot de béton",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Petit massif de béton coulé dans un trou, qui sert de fondation à un poteau léger, une clôture ou une terrasse.",
+    "priorite": 3,
+    "requetes": [
+      "concrete pier footing post",
+      "plot béton fondation",
+      "concrete footing post hole"
+    ],
+    "incompatibles": [
+      "fondation"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete piers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:The farmer his own builder - a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities, describing reliable methods, offering (14596972797).jpg",
+      "description": "Identifier : farmerhisownbuil00robe ( find matches ) Title : The farmer his own builder : a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities, describing reliable methods, offering practical suggestions, presenting numerous details and formulas, and explaining simple rules for estimating the labor and materials required. With special reference to concrete and carpentry Year : 1918 ( 1910s ) Authors : Roberts, H. Armstrong (Howard Armstrong), 1885-1947 Subjects : Farm buildings Publisher : Philadelphia : D. McKay Contributi",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 25 August 2015",
+        "The farmer his own builder - a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities (1918)"
+      ],
+      "auteur": "Roberts, H. Armstrong (Howard Armstrong), 1885-1947",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_farmer_his_own_builder_-_a_guide_and_reference_book_for_the_construction_of_dwellings,_barns_and_other_farm_buildings,_together_with_their_utilities,_describing_reliable_methods,_offering_(14596972797).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/The_farmer_his_own_builder_-_a_guide_and_reference_book_for_the_construction_of_dwellings%2C_barns_and_other_farm_buildings%2C_together_with_their_utilities%2C_describing_reliable_methods%2C_offering_%2814596972797%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2040
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:D35, DOD Opatovice–Časy, 2021-09-11 (69).jpg",
+      "description": "Open doors day at D35 highway, section Opatovice–Časy, 2021-09-11",
+      "categories": [
+        "Files by Draceane – Czechia",
+        "Uploaded with pattypan",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C",
+        "Concrete piers",
+        "Construction of highway bridge in Bukovina nad Labem",
+        "Open doors day of D35 highway, Opatovice nad Labem"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D35,_DOD_Opatovice%E2%80%93%C4%8Casy,_2021-09-11_(69).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/D35%2C_DOD_Opatovice%E2%80%93%C4%8Casy%2C_2021-09-11_%2869%29.jpg/1280px-D35%2C_DOD_Opatovice%E2%80%93%C4%8Casy%2C_2021-09-11_%2869%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Route 2 Bridges First Concrete Pour for the New Route 2 East Bridge (23665844941).jpg",
+      "description": "Construction of the new Route 2 East bridge has begun – a major project milestone! Concrete is poured for the center pier columns within the median, which will support the new bridge. In the foreground, concrete for the footing of the west abutment is curing under tarps.",
+      "categories": [
+        "Road bridges in Massachusetts",
+        "PD-MAGov",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from the MassDOT flickr stream needing curation"
+      ],
+      "auteur": "MassDOT",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Route_2_Bridges_First_Concrete_Pour_for_the_New_Route_2_East_Bridge_(23665844941).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Route_2_Bridges_First_Concrete_Pour_for_the_New_Route_2_East_Bridge_%2823665844941%29.jpg/1280px-Route_2_Bridges_First_Concrete_Pour_for_the_New_Route_2_East_Bridge_%2823665844941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1306,
+      "hauteur": 980
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Facing E from overlook - Quadrangle - Memorial Amphitheater - Arlington National Cemetery - 2012.jpg",
+      "description": "Looking east while standing on the eastern overlook on the quadrangle east of the Tomb of the Unknown Soldier and the Memorial Amphitheater at Arlington National Cemetery near Washington, D.C., in the United States. The Washington Monument and the U.S. Capitol can both be seen. That's Section 6 of the cemetery just below. Arlington's first Amphitheater was constructed of wood in 1874, and soon proved far too small. Congress authorized construction of the Memorial Amphitheater on March 4, 1913. Ground-breaking occurred on March 1, 1915, and President Woodrow Wilson placed the cornerstone on Oct",
+      "categories": [
+        "United States photographs taken on 2012-04-05",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Tim Evanson",
+        "Arlington National Cemetery in April 2012",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Tim Evanson",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Facing_E_from_overlook_-_Quadrangle_-_Memorial_Amphitheater_-_Arlington_National_Cemetery_-_2012.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Facing_E_from_overlook_-_Quadrangle_-_Memorial_Amphitheater_-_Arlington_National_Cemetery_-_2012.jpg/1280px-Facing_E_from_overlook_-_Quadrangle_-_Memorial_Amphitheater_-_Arlington_National_Cemetery_-_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:D35, DOD Opatovice–Časy, 2021-09-11 (63).jpg",
+      "description": "Open doors day at D35 highway, section Opatovice–Časy, 2021-09-11",
+      "categories": [
+        "Files by Draceane – Czechia",
+        "Uploaded with pattypan",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C",
+        "Concrete piers",
+        "Construction of highway bridge in Bukovina nad Labem",
+        "Open doors day of D35 highway, Opatovice nad Labem"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D35,_DOD_Opatovice%E2%80%93%C4%8Casy,_2021-09-11_(63).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/D35%2C_DOD_Opatovice%E2%80%93%C4%8Casy%2C_2021-09-11_%2863%29.jpg/1280px-D35%2C_DOD_Opatovice%E2%80%93%C4%8Casy%2C_2021-09-11_%2863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20130512 Amsterdam Nieuw-West Slotervaart Brug 705 03.JPG",
+      "description": "2013-05-12 in Amsterdam Nieuw-West, Slotervaart; Brug 705.",
+      "categories": [
+        "Taken with Olympus XZ-2",
+        "Brug 705",
+        "Self-published work",
+        "Piers (architecture) in the Netherlands",
+        "Netherlands photographs taken on 2013-05-12",
+        "May 2013 in Amsterdam",
+        "Photographs by Mark Ahsmann",
+        "Concrete piers"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20130512_Amsterdam_Nieuw-West_Slotervaart_Brug_705_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/20130512_Amsterdam_Nieuw-West_Slotervaart_Brug_705_03.JPG/1280px-20130512_Amsterdam_Nieuw-West_Slotervaart_Brug_705_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
+    }
+  ]
+}

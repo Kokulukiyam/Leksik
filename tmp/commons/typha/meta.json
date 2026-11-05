@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "typha",
+    "terme": "le typha",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Roseau des marais du fleuve Sénégal, transformé en panneaux isolants ou en bottes pour la construction.",
+    "priorite": 3,
+    "requetes": [
+      "typha building material Senegal",
+      "panneaux typha",
+      "typha australis"
+    ],
+    "categoriesCommons": [
+      "Category:Typha",
+      "Category:Typha domingensis"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cattail reed in Siston Common.jpg",
+      "description": "Cattail",
+      "categories": [
+        "Typha",
+        "Self-published work"
+      ],
+      "auteur": "WhiteTailedEagle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cattail_reed_in_Siston_Common.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Cattail_reed_in_Siston_Common.jpg/1280px-Cattail_reed_in_Siston_Common.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Typha domingensis 13360584.jpg",
+      "description": "Southern cattail ( Typha domingensis ) in the United States",
+      "categories": [
+        "Typha domingensis",
+        "Media from iNaturalist",
+        "INaturalist images reviewed by iNaturalistReviewBot",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded with iNaturalist2Commons",
+        "Media from GBIF",
+        "INaturalist images missing SDC depicts"
+      ],
+      "auteur": "Alex Abair",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Typha_domingensis_13360584.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Typha_domingensis_13360584.jpg/1280px-Typha_domingensis_13360584.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:DSC 6004 Typha shuttleworthii W.D.J.Koch & Sond.jpg",
+      "description": "Shuttleworth's Cattail",
+      "categories": [
+        "Typha",
+        "Self-published work",
+        "Ne beri – zaštićeno!"
+      ],
+      "auteur": "Lalakmus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DSC_6004_Typha_shuttleworthii_W.D.J.Koch_%26_Sond.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/DSC_6004_Typha_shuttleworthii_W.D.J.Koch_%26_Sond.jpg/1280px-DSC_6004_Typha_shuttleworthii_W.D.J.Koch_%26_Sond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cattails (6631412913).jpg",
+      "description": "Cattails wave in the winter breeze with a frozen lake in the background.",
+      "categories": [
+        "Typha domingensis",
+        "Taken with Canon EOS 40D",
+        "Flora of California",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Rennett Stowe"
+      ],
+      "auteur": "Rennett Stowe from USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cattails_(6631412913).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Cattails_%286631412913%29.jpg/1280px-Cattails_%286631412913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2460,
+      "hauteur": 1804
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Barrel, gin (AM 614537-1).jpg",
+      "description": "Ceramic gin barrel with lid white ceramic barrel; oval base; white with gold rim and painted illustration of swan on side and word 'GIN'",
+      "categories": [
+        "Typha",
+        "Gin",
+        "Swans in art",
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Unknown date",
+        "Beverages industry in Auckland Museum"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barrel,_gin_(AM_614537-1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Barrel%2C_gin_%28AM_614537-1%29.jpg/1280px-Barrel%2C_gin_%28AM_614537-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2888,
+      "hauteur": 3135
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Typha domingensis Habitus CampodeCalatrava.jpg",
+      "description": "Typha domingensis , Campo de Calatrava , Spain",
+      "categories": [
+        "Typha domingensis",
+        "Self-published work",
+        "PD-self",
+        "Flora of Campo de Calatrava"
+      ],
+      "auteur": "javier martin",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Typha_domingensis_Habitus_CampodeCalatrava.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Typha_domingensis_Habitus_CampodeCalatrava.jpg/1280px-Typha_domingensis_Habitus_CampodeCalatrava.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3200,
+      "hauteur": 2400
+    }
+  ]
+}

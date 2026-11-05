@@ -1,0 +1,193 @@
+{
+  "terme": {
+    "id": "sommier",
+    "terme": "le sommier",
+    "categorie": "Structure",
+    "definition": "Première pierre d'un arc, posée sur le piédroit, d'où part la courbe.",
+    "priorite": 3,
+    "requetes": [
+      "springer arch",
+      "sommier arc",
+      "arch springer stone"
+    ],
+    "incompatibles": [
+      "arc",
+      "claveau"
+    ],
+    "categoriesCommons": [
+      "Category:Arches",
+      "Category:Voussoirs",
+      "Category:Stone arches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Baitul Mokarram Mosque 217.jpg",
+      "description": "National Mosque of Bangladesh",
+      "categories": [
+        "Mosques in Bangladesh",
+        "Islamic architecture",
+        "Arches",
+        "Self-published work",
+        "People on stairs",
+        "Project Korikath-All images",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Bangladesh",
+        "Uploaded via Campaign:wlf bd 2026",
+        "Motion blur photography"
+      ],
+      "auteur": "Frameofashik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baitul_Mokarram_Mosque_217.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Baitul_Mokarram_Mosque_217.jpg/1280px-Baitul_Mokarram_Mosque_217.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Church of St Andrew's, Boreham, Essex - voussoir remains of former altar.jpg",
+      "description": "Voussoir remains of part of a now blocked 11th- or early 12th-century round headed arch, using Roman brick and stone, of a former nave altar, with a later attached 14th-century piscina , at the northeast of the nave of the Grade I listed 11th- to 15th-century Parish Church of St Andrew's, in Boreham village, Essex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : RAW file lens-corrected, optimized and converted with DxO OpticsPro 11 Elite , and further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Images with annotations",
+        "Blind arches",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Photographs with aspect ratio of 2:3",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Piscinas (architecture) in Essex",
+        "June 2017 in Essex",
+        "Churches in Essex photographed in 2017",
+        "Photographs taken on 2017-06-11",
+        "St Andrew's Church, Boreham (interior)",
+        "Romanesque arches in England",
+        "Close-up photographs of architectural structures",
+        "Acabashi photos: church interiors",
+        "Voussoirs"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_St_Andrew%27s,_Boreham,_Essex_-_voussoir_remains_of_former_altar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Church_of_St_Andrew%27s%2C_Boreham%2C_Essex_-_voussoir_remains_of_former_altar.jpg/1280px-Church_of_St_Andrew%27s%2C_Boreham%2C_Essex_-_voussoir_remains_of_former_altar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2333,
+      "hauteur": 3500
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Arcades Targarins Fora Vila.jpg",
+      "description": "Arcades dels Targarins Fora Vila, Parc de Sant Eloi , Tàrrega. Més detalls a: http://www.amicsarbre.cat/monuments.php",
+      "categories": [
+        "Parc de Sant Eloi, Tàrrega",
+        "Self-published work",
+        "Stone arches"
+      ],
+      "auteur": "Rwxrwxrwx",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arcades_Targarins_Fora_Vila.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Arcades_Targarins_Fora_Vila.jpg/1280px-Arcades_Targarins_Fora_Vila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1968
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:At Berrington Hall 2022 142.jpg",
+      "description": "At Berrington Hall 2022.",
+      "categories": [
+        "Arches",
+        "Hedges",
+        "Unidentified Jasminum",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)",
+        "Unidentified white climbing Rosa cultivars",
+        "Unidentified Clematis cultivars",
+        "Photos by Mike Peel using a Canon EOS 90D",
+        "Berrington Hall gardens"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_Berrington_Hall_2022_142.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/At_Berrington_Hall_2022_142.jpg/1280px-At_Berrington_Hall_2022_142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6749,
+      "hauteur": 4499
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Diagnostický ústav pro mládež, Lublaňská 33, dveře a okna do ulice.JPG",
+      "description": "House of the Youth Detention Center Lublaňská 33, Prague 2 - New Town, Czech Republic. Neorenesance facade decorated by sgraffito and plastic rustication.",
+      "categories": [
+        "Czech inscriptions in the Czech Republic",
+        "Czech Republic photographs taken on 2011-04-09",
+        "Greater coat of arms of the Czech Republic",
+        "Taken with Canon PowerShot G10",
+        "Latticework",
+        "Bossage",
+        "Lublaňská 33 (Prague)",
+        "Files by Juandev",
+        "33 (house number) in the Czech Republic",
+        "Files with coordinates missing SDC location of creation",
+        "Wooden doors in Prague",
+        "Conscription and orientation house number in Prague",
+        "Mosaics of Jesus Christ as the Good Shepherd",
+        "Mosaics in New Town (Prague)",
+        "Windows in New Town (Prague)",
+        "Voussoirs"
+      ],
+      "auteur": "Juan de Vojníkov",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Diagnostick%C3%BD_%C3%BAstav_pro_ml%C3%A1de%C5%BE,_Lubla%C5%88sk%C3%A1_33,_dve%C5%99e_a_okna_do_ulice.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Diagnostick%C3%BD_%C3%BAstav_pro_ml%C3%A1de%C5%BE%2C_Lubla%C5%88sk%C3%A1_33%2C_dve%C5%99e_a_okna_do_ulice.JPG/1280px-Diagnostick%C3%BD_%C3%BAstav_pro_ml%C3%A1de%C5%BE%2C_Lubla%C5%88sk%C3%A1_33%2C_dve%C5%99e_a_okna_do_ulice.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2984,
+      "hauteur": 2728
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:18th-century carriage arch in courtyard of Parham House, West Sussex, England.jpg",
+      "description": "The Grade I listed three-floored 18th-century carriage arch block leading to the stables and laundry wing, and defining the north of the courtyard of Parham House , in West Sussex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : file lens-corrected and optimized with DxO OpticsPro 10 Elite and Viewpoint 2, and further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Clock faces",
+        "Photographs with aspect ratio of 3:2",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Summer in West Sussex",
+        "Chimneys in West Sussex",
+        "Driveways in West Sussex",
+        "Gatehouses in West Sussex",
+        "Time 01:32",
+        "Stone arches",
+        "Clocks in West Sussex",
+        "Weather vanes in West Sussex",
+        "18th-century architecture in West Sussex",
+        "Tiled roofs in West Sussex",
+        "Arch portals in the United Kingdom",
+        "Climbing plants in the United Kingdom",
+        "Pointed arch portals in the United Kingdom",
+        "Gravel driveways",
+        "Summer 2016 in the United Kingdom",
+        "Plants on buildings",
+        "Buildings photographed in 2016",
+        "Carriage arches in the United Kingdom",
+        "Arches in West Sussex",
+        "Acabashi photos: buildings in West Sussex",
+        "Courtyards in England",
+        "Cupolas in England",
+        "Carriage houses in England",
+        "Slate roofs in England",
+        "Gateways in West Sussex",
+        "Entrances in West Sussex",
+        "The Stables and Laundry Wing at Parham Park to the North of the House",
+        "Clock towers in West Sussex",
+        "Acabashi photos:Parham House gardens",
+        "Gravel paths in the United Kingdom",
+        "Clocks by time 01:00 to 01:59 in the United Kingdom",
+        "Parham, West Sussex photographs taken on 2016-07-20"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:18th-century_carriage_arch_in_courtyard_of_Parham_House,_West_Sussex,_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/18th-century_carriage_arch_in_courtyard_of_Parham_House%2C_West_Sussex%2C_England.jpg/1280px-18th-century_carriage_arch_in_courtyard_of_Parham_House%2C_West_Sussex%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    }
+  ]
+}

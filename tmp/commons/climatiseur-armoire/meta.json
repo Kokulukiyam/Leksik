@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "climatiseur-armoire",
+    "terme": "le climatiseur armoire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Climatiseur à unité intérieure haute et verticale posée au sol, pour les grandes pièces.",
+    "priorite": 3,
+    "requetes": [
+      "floor standing air conditioner",
+      "climatiseur armoire",
+      "standing AC unit"
+    ],
+    "incompatibles": [
+      "split"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:AC outdoor vent 26092036.jpg",
+      "description": "AC outdoor vent, Photographed at Burdwan, West Bengal, India.",
+      "categories": [
+        "Taken with Sony ILCE-7M3",
+        "Air conditioners",
+        "Taken with Sony FE 50mm F1.8",
+        "Self-published work",
+        "Information field template with formatting",
+        "Photographs and images by Joydeep"
+      ],
+      "auteur": "Joydeep Chakraborty",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AC_outdoor_vent_26092036.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/AC_outdoor_vent_26092036.jpg/1280px-AC_outdoor_vent_26092036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4300,
+      "hauteur": 4295
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Air Conditioner Hoses in Window (54273679109).jpg",
+      "description": "Air conditioner",
+      "categories": [
+        "Air conditioners",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Tony Webster",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_Conditioner_Hoses_in_Window_(54273679109).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Air_Conditioner_Hoses_in_Window_%2854273679109%29.jpg/1280px-Air_Conditioner_Hoses_in_Window_%2854273679109%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Air conditioner 2.jpg",
+      "description": "SITRONIC air conditioner",
+      "categories": [
+        "Air conditioners",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2025-01-17"
+      ],
+      "auteur": "Solijon Solayev",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioner_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Air_conditioner_2.jpg/1280px-Air_conditioner_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Air conditioner 14.jpg",
+      "description": "Portrait of an air conditioner at sepia tone",
+      "categories": [
+        "Taken with Motorola Moto E (first generation)",
+        "Air conditioners",
+        "Sepia photographs",
+        "Self-published work"
+      ],
+      "auteur": "Dibyendutwipzbiswas",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioner_14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Air_conditioner_14.jpg/1280px-Air_conditioner_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Air condition outdoors with blue sky in background.jpg",
+      "description": "Air condition outdoors with blue sky in background",
+      "categories": [
+        "Air conditioners",
+        "Heating devices",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_condition_outdoors_with_blue_sky_in_background.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Air_condition_outdoors_with_blue_sky_in_background.jpg/1280px-Air_condition_outdoors_with_blue_sky_in_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:'Everybody knows who Sgt. Parker is' 130718-Z-RK751-005.jpg",
+      "description": "U.S. Army Sgt. Richard Parker, a plumber and carpenter, assigned to the 859th Engineer Company, Mississippi Army National Guard works on a 5-kilowatt air conditioning unit at Forward Operating Base Fenty in Nangarhar province, Afghanistan, July 18, 2013. Parker and his team have spent more than 936 man-hours fixing 238 air conditioning units. (U.S. Army National Guard photo by Staff Sgt. Jerry Saslav/Released) Unit: 129th Mobile Public Affairs Detachment DVIDS Tags: Soldier; Bagram Airfield; Nangarhar Province; Combat; Engineers; Coalition Forces; Fort Campbell; Army Soldier; Bagram; FORSCOM; ",
+      "categories": [
+        "Air conditioners",
+        "Forward Operating Base Fenty",
+        "PD US National Guard",
+        "Files created by the United States National Guard with known IDs",
+        "Images from DoD uploaded by Fæ",
+        "Afghanistan photographs taken on 2013-07-18",
+        "859th Engineer Company (United States)",
+        "July 2012 in Nangarhar"
+      ],
+      "auteur": "Staff Sgt. Jerry Saslav",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-005.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-005.jpg/1280px-%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3805,
+      "hauteur": 2532
+    }
+  ]
+}

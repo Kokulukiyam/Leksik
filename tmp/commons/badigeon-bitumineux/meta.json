@@ -1,0 +1,155 @@
+{
+  "terme": {
+    "id": "badigeon-bitumineux",
+    "terme": "le badigeon bitumineux",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Couche noire de bitume appliquée sur la face enterrée des fondations et des murs pour les protéger de l'humidité.",
+    "priorite": 3,
+    "requetes": [
+      "bitumen coating foundation wall",
+      "enduit bitumineux fondation",
+      "black tar waterproofing foundation"
+    ],
+    "incompatibles": [
+      "fondation",
+      "soubassement"
+    ],
+    "categoriesCommons": [
+      "Category:Bitumen",
+      "Category:Waterproofing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bitumen-SchweißbahnenFlämmenAufbringen 03.jpg",
+      "description": "Flämmen und Aufbringen von Bitumen-Schweißbahnen auf der Betondecke der neu errichteten Fußgänger- und Radfahrerbrücke über den Schüttbach neben der Trasse der Pinzgauer Lokalbahn. Dies geschah anlässlich des Neubaus der Bahn- und der Fußgängerbrücke und der gleichzeitigen Verlegung der Haltestelle Kitzsteinhornstraße (Pinzgauer Lokalbahn) im Ortsteil Schüttdorf in Zell am See im Herbst 2016.",
+      "categories": [
+        "Personality rights warning",
+        "Bitumen",
+        "Zell am See-Süd",
+        "Self-published work",
+        "Austria photographs taken on 2016-10-14",
+        "Files by User:Wald1siedel",
+        "Files with coordinates missing SDC location of creation",
+        "October 2016 in Salzburg (state)",
+        "2016 in Zell am See"
+      ],
+      "auteur": "Wald1siedel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bitumen-Schwei%C3%9FbahnenFl%C3%A4mmenAufbringen_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Bitumen-Schwei%C3%9FbahnenFl%C3%A4mmenAufbringen_03.jpg/1280px-Bitumen-Schwei%C3%9FbahnenFl%C3%A4mmenAufbringen_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3977,
+      "hauteur": 2844
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:岩本町駅 Iwamotocho Sta. (55563028789).jpg",
+      "description": "",
+      "categories": [
+        "Waterproofing",
+        "Iwamotocho Station",
+        "Media lacking a description",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Flickr images missing SDC copyright status",
+        "Black and yellow caution tape",
+        "Red arrow signs in Japan",
+        "Temporary signs in Japan",
+        "Train station escalators in Japan",
+        "Bilingual English-Japanese signs in Japan",
+        "Out of service in Japan",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Black, blue, red letter signs",
+        "Whiteboards in Japan",
+        "October 2026 in rail transport in Tokyo",
+        "Apology signs in Japan",
+        "Signs at train station platforms in Japan",
+        "Tokyo photographs taken on 2026-10-01",
+        "2026 in signs in Japan",
+        "Files from nagi usano Flickr stream",
+        "Red outlined signs in Japan",
+        "Blue outlined signs in Japan",
+        "Railway photographs taken on 2026-10-01"
+      ],
+      "auteur": "nagi usano",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E5%B2%A9%E6%9C%AC%E7%94%BA%E9%A7%85_Iwamotocho_Sta._(55563028789).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%E5%B2%A9%E6%9C%AC%E7%94%BA%E9%A7%85_Iwamotocho_Sta._%2855563028789%29.jpg/1280px-%E5%B2%A9%E6%9C%AC%E7%94%BA%E9%A7%85_Iwamotocho_Sta._%2855563028789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2427,
+      "hauteur": 3641
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bitumen.jpg",
+      "description": "Natural formed Bitumen collected at the Dead Sea shore",
+      "categories": [
+        "Taken with Pentax Optio E10",
+        "Dead Sea",
+        "Bitumen",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Daniel Tzvi",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bitumen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Bitumen.jpg/1280px-Bitumen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2570,
+      "hauteur": 1326
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:DRACO - logo.jpg",
+      "description": "Službeni logo tvrtke DRACO iz Solina kojoj je glavna djelatnost hidroizolacija",
+      "categories": [
+        "Logos of companies of Croatia",
+        "Waterproofing",
+        "PD text"
+      ],
+      "auteur": "Zorrost",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:DRACO_-_logo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/DRACO_-_logo.jpg/1280px-DRACO_-_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2471,
+      "hauteur": 1377
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bitumen-SchweißbahnenFlämmenAufbringen 12.jpg",
+      "description": "Flämmen und Aufbringen von Bitumen-Schweißbahnen auf der Betondecke der neu errichteten Fußgänger- und Radfahrerbrücke über den Schüttbach neben der Trasse der Pinzgauer Lokalbahn. Dies geschah anlässlich des Neubaus der Bahn- und der Fußgängerbrücke und der gleichzeitigen Verlegung der Haltestelle Kitzsteinhornstraße (Pinzgauer Lokalbahn) im Ortsteil Schüttdorf in Zell am See im Herbst 2016.",
+      "categories": [
+        "Personality rights warning",
+        "Bitumen",
+        "Zell am See-Süd",
+        "Self-published work",
+        "Austria photographs taken on 2016-10-14",
+        "Files by User:Wald1siedel",
+        "Files with coordinates missing SDC location of creation",
+        "October 2016 in Salzburg (state)",
+        "2016 in Zell am See"
+      ],
+      "auteur": "Wald1siedel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bitumen-Schwei%C3%9FbahnenFl%C3%A4mmenAufbringen_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Bitumen-Schwei%C3%9FbahnenFl%C3%A4mmenAufbringen_12.jpg/1280px-Bitumen-Schwei%C3%9FbahnenFl%C3%A4mmenAufbringen_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4195,
+      "hauteur": 3181
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Roof gap stop measure (right) (1540177932).jpg",
+      "description": "First Big Rain",
+      "categories": [
+        "Waterproofing",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Peretz Partensky"
+      ],
+      "auteur": "Peretz Partensky from San Francisco, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_gap_stop_measure_(right)_(1540177932).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Roof_gap_stop_measure_%28right%29_%281540177932%29.jpg/1280px-Roof_gap_stop_measure_%28right%29_%281540177932%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    }
+  ]
+}

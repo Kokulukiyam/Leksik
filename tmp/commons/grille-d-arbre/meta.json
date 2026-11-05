@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "grille-d-arbre",
+    "terme": "la grille d'arbre",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Grille métallique posée au sol autour du pied d'un arbre planté dans un trottoir ou une place.",
+    "priorite": 3,
+    "requetes": [
+      "tree grate",
+      "grille d'arbre",
+      "tree grille pavement"
+    ],
+    "incompatibles": [
+      "trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Tree grates",
+      "Category:Tree guards"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:HK 新埔崗 San Po Kong 景福街 King Fuk Street December 2020 SS2 08.jpg",
+      "description": "HK 新埔崗 San Po Kong 景福街 King Fuk Street in December 2020",
+      "categories": [
+        "Tree grates",
+        "Self-published work",
+        "Stelux House",
+        "Files with coordinates missing SDC location of creation",
+        "Hong Kong photographs taken on 2020-12-11",
+        "Tree pits in Hong Kong",
+        "December 2020 in San Po Kong",
+        "Buildings in King Fuk Street",
+        "Buildings in San Po Kong",
+        "2020 in King Fuk Street"
+      ],
+      "auteur": "Domust Jellifrea",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_%E6%96%B0%E5%9F%94%E5%B4%97_San_Po_Kong_%E6%99%AF%E7%A6%8F%E8%A1%97_King_Fuk_Street_December_2020_SS2_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/HK_%E6%96%B0%E5%9F%94%E5%B4%97_San_Po_Kong_%E6%99%AF%E7%A6%8F%E8%A1%97_King_Fuk_Street_December_2020_SS2_08.jpg/1280px-HK_%E6%96%B0%E5%9F%94%E5%B4%97_San_Po_Kong_%E6%99%AF%E7%A6%8F%E8%A1%97_King_Fuk_Street_December_2020_SS2_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Botanical Garden, University of Wisconsin - 4.jpg",
+      "description": "\"Newton Apple Tree\" in the Botanical Garden of the University of Wisconsin-Madison",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ7",
+        "License migration redundant",
+        "Apple trees of Isaac Newton",
+        "Self-published work",
+        "Tree guards",
+        "Botanical Garden, Madison, Wisconsin"
+      ],
+      "auteur": "James Steakley",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Botanical_Garden,_University_of_Wisconsin_-_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Botanical_Garden%2C_University_of_Wisconsin_-_4.jpg/1280px-Botanical_Garden%2C_University_of_Wisconsin_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Metal tree support (42111428122).jpg",
+      "description": "Helsinki in 2018",
+      "categories": [
+        "Länsilinkki",
+        "Tree shelters",
+        "Tree grates",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Finland photographs taken on 2018-04-13",
+        "Photographs by Eric Fischer",
+        "April 2018 in Helsinki",
+        "Street trees in Helsinki"
+      ],
+      "auteur": "Eric Fischer",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Metal_tree_support_(42111428122).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Metal_tree_support_%2842111428122%29.jpg/1280px-Metal_tree_support_%2842111428122%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Wollemia nobilis Bratislava.JPG",
+      "description": "Wollemia nobilis in Bratislava Botanical Garden.",
+      "categories": [
+        "Wollemia nobilis",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ8",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Plants in Botanical Garden of the Comenius University",
+        "Wollemia nobilis information signs",
+        "Tree guards"
+      ],
+      "auteur": "MOs810",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wollemia_nobilis_Bratislava.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Wollemia_nobilis_Bratislava.JPG/1280px-Wollemia_nobilis_Bratislava.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1360
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Weeds growing through a tree grate shaped with the Lisbon coat of arms, Avenida da República, Lisbon, Portugal julesvernex2.jpg",
+      "description": "Weeds growing through a tree grate shaped with the Lisbon coat of arms, Avenida da República, Lisbon, Portugal",
+      "categories": [
+        "With trademark",
+        "Avenida da República (Lisbon)",
+        "Tree grates",
+        "Taken with Ricoh GR III",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Julesvernex2",
+        "Portugal images by Julesvernex2",
+        "PPL1 images by Julesvernex2",
+        "Nature images by Julesvernex2",
+        "Sidewalk weeds",
+        "Favourite images by Julesvernex2",
+        "Architecture images by Julesvernex2",
+        "Abstract(ish) images by Julesvernex2",
+        "Lisbon collection by Julesvernex2",
+        "Ricoh GR III images by Julesvernex2",
+        "Ricoh GR III 18.3mm f2.8 (fixed lens) images by Julesvernex2",
+        "Barca de São Vicente (Lisbon)"
+      ],
+      "auteur": "Jules Verne Times Two",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Weeds_growing_through_a_tree_grate_shaped_with_the_Lisbon_coat_of_arms,_Avenida_da_Rep%C3%BAblica,_Lisbon,_Portugal_julesvernex2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Weeds_growing_through_a_tree_grate_shaped_with_the_Lisbon_coat_of_arms%2C_Avenida_da_Rep%C3%BAblica%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Weeds_growing_through_a_tree_grate_shaped_with_the_Lisbon_coat_of_arms%2C_Avenida_da_Rep%C3%BAblica%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4973,
+      "hauteur": 3960
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Liriodendron tulipifera near Yoshizuka Station.jpg",
+      "description": "吉塚駅西口前のユリノキ",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Liriodendron tulipifera (cultivated)",
+        "Tree guards"
+      ],
+      "auteur": "そらみみ",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Liriodendron_tulipifera_near_Yoshizuka_Station.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Liriodendron_tulipifera_near_Yoshizuka_Station.jpg/1280px-Liriodendron_tulipifera_near_Yoshizuka_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2399,
+      "hauteur": 3199
+    }
+  ]
+}

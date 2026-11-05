@@ -1,0 +1,58 @@
+{
+  "termId": "cage-d-armature",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plusieurs cages d'armature cylindriques stockées au sol, destinées à des pieux.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.08,
+        "largeur": 0.54,
+        "hauteur": 0.86
+      },
+      "lieu": "Cologne, Allemagne",
+      "note": "Cages cylindriques très lisibles, encadrées."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancienne barre d'acier tordue dans le béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Une seule barre, pas une cage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Attentes de poteaux avec barres verticales et cadres sur une longrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Antony, France",
+      "note": "Armatures d'attente, cage non nette (confusion cadre/étrier/ferraillage)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Immeuble en construction avec coffrages aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mexique",
+      "note": "Pas de cage visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne en noir et blanc d'un ouvrier autour d'une armature cylindrique en fouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Noir et blanc ancien, cage peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cage d'armature de poutre de fondation (barres longitudinales et cadres) posée sur gravier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Barquisimeto, Venezuela",
+      "note": "Cage de fondation visible, vue frontale claire."
+    }
+  ]
+}

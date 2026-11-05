@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "beton-boucharde",
+    "terme": "le béton bouchardé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Béton dont la surface a été piquetée à la boucharde, ce qui lui donne un aspect granuleux et mat.",
+    "priorite": 3,
+    "requetes": [
+      "bush hammered concrete",
+      "béton bouchardé",
+      "bush-hammered concrete wall"
+    ],
+    "incompatibles": [
+      "beton",
+      "beton-brut"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fukuoka Art Museum The bush-hammered concrete column Ōhorikōen Chūō-ku Fukuoka 20260529 172503.jpg",
+      "description": "Fukuoka Art Museum: The bush-hammered concrete column (Address: 1-6, Ōhorikōen, Chūō-ku, Fukuoka-shi 8100051, Japan)",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Details of Fukuoka Art Museum"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fukuoka_Art_Museum_The_bush-hammered_concrete_column_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260529_172503.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Fukuoka_Art_Museum_The_bush-hammered_concrete_column_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260529_172503.jpg/1280px-Fukuoka_Art_Museum_The_bush-hammered_concrete_column_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260529_172503.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6144,
+      "hauteur": 8192
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fukuoka Art Museum The bush-hammered concrete columns Ōhorikōen Chūō-ku Fukuoka 20260529 170508.jpg",
+      "description": "Fukuoka Art Museum: The bush-hammered concrete columns (Address: 1-6, Ōhorikōen, Chūō-ku, Fukuoka-shi 8100051, Japan)",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Details of Fukuoka Art Museum",
+        "Interior of the Fukuoka Art Museum"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fukuoka_Art_Museum_The_bush-hammered_concrete_columns_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260529_170508.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Fukuoka_Art_Museum_The_bush-hammered_concrete_columns_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260529_170508.jpg/1280px-Fukuoka_Art_Museum_The_bush-hammered_concrete_columns_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260529_170508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6144,
+      "hauteur": 8192
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Stockhammer.JPG",
+      "description": "Stockhammer",
+      "categories": [
+        "Taken with Canon EOS 30D",
+        "Hammers",
+        "Stonemason's tools"
+      ],
+      "auteur": "Reiner Flassig",
+      "licence": "CC BY-SA 2.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stockhammer.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Stockhammer.JPG/1280px-Stockhammer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:8. Philips Headquarters Office Building, Addis Abeba. Close up View of Bush Hammered Concrete Column.jpg",
+      "description": "The Philips Headquarters is a four story office building designed by The Bureau D’Etudes Henri Chomette (BEHC), who had offices located in Paris (France), Abidjan (Ivory Coast), Addis Abeba (Ethiopia), Ouagadougou (Burkina Faso) and Cotonou (Benin). Upon Emperor Haile Selassie's proposal to host the new African Organisation in Addis Abeba, the city underwent a significant urban reform in the 1960’s. Henri Chomette was one of the prominent architects practicing in Addis Abeba during the 50’s and 60’s who has designed many post modern buildings in the city. The Philips Headquarters was commissio",
+      "categories": [
+        "Postmodern architecture in Ethiopia",
+        "Brutalist architecture in Ethiopia",
+        "Concrete",
+        "Haile Selassie I of Ethiopia",
+        "Buildings in Addis Ababa",
+        "Self-published work",
+        "Philips Headquarters Office Building (Addis Ababa)",
+        "Addis Ababa in the 1960s",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:8._Philips_Headquarters_Office_Building,_Addis_Abeba._Close_up_View_of_Bush_Hammered_Concrete_Column.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/8._Philips_Headquarters_Office_Building%2C_Addis_Abeba._Close_up_View_of_Bush_Hammered_Concrete_Column.jpg/1280px-8._Philips_Headquarters_Office_Building%2C_Addis_Abeba._Close_up_View_of_Bush_Hammered_Concrete_Column.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:EiABC Library Entrance showing Bush Hammered Concrete Wall (View from W to E).jpg",
+      "description": "EiABC Library is a Brick Brutalist building located in the Ethiopian Institute of Architecture, Building Construction and City Development Compound. It was constructed in 1976.",
+      "categories": [
+        "Brutalist architecture in Ethiopia",
+        "Postmodern architecture",
+        "Libraries in Ethiopia",
+        "Buildings in Addis Ababa",
+        "Self-published work",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EiABC_Library_Entrance_showing_Bush_Hammered_Concrete_Wall_(View_from_W_to_E).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/EiABC_Library_Entrance_showing_Bush_Hammered_Concrete_Wall_%28View_from_W_to_E%29.jpg/1280px-EiABC_Library_Entrance_showing_Bush_Hammered_Concrete_Wall_%28View_from_W_to_E%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4309
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:7. Philips Headquarters Office Building, Addis Abeba. View of Verenda showing the bush-hammered concrete columns and aluminium framed clear glass curtain wall.jpg",
+      "description": "The Philips Headquarters is a four story office building designed by The Bureau D’Etudes Henri Chomette (BEHC), who had offices located in Paris (France), Abidjan (Ivory Coast), Addis Abeba (Ethiopia), Ouagadougou (Burkina Faso) and Cotonou (Benin). Upon Emperor Haile Selassie's proposal to host the new African Organisation in Addis Abeba, the city underwent a significant urban reform in the 1960’s. Henri Chomette was one of the prominent architects practicing in Addis Abeba during the 50’s and 60’s who has designed many post modern buildings in the city. The Philips Headquarters was commissio",
+      "categories": [
+        "Self-published work",
+        "Philips Headquarters Office Building (Addis Ababa)",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:7._Philips_Headquarters_Office_Building,_Addis_Abeba._View_of_Verenda_showing_the_bush-hammered_concrete_columns_and_aluminium_framed_clear_glass_curtain_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/7._Philips_Headquarters_Office_Building%2C_Addis_Abeba._View_of_Verenda_showing_the_bush-hammered_concrete_columns_and_aluminium_framed_clear_glass_curtain_wall.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

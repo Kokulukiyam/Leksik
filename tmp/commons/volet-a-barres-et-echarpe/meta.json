@@ -1,0 +1,151 @@
+{
+  "terme": {
+    "id": "volet-a-barres-et-echarpe",
+    "terme": "le volet à barres et écharpe",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Volet en planches verticales tenues par deux barres horizontales et une barre oblique formant un Z.",
+    "priorite": 3,
+    "requetes": [
+      "volet bois barres écharpe",
+      "Z brace shutter",
+      "wooden shutter Z"
+    ],
+    "incompatibles": [
+      "volet-battant",
+      "volet"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters",
+      "Category:Shutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:27001-Kohren-1937-Burg Gnandstein, Romanischer Saal-Brück & Sohn Kunstverlag.jpg",
+      "description": "Kohren; Burg Gnandstein, Romanischer Saal",
+      "categories": [
+        "Halls in Germany",
+        "Interior of Burg Gnandstein",
+        "Window shutters",
+        "Wild cat fur-skins",
+        "Uploaded with VicuñaUploader",
+        "Images with extracted images",
+        "Images from Brück & Sohn",
+        "Files with coordinates missing SDC location of creation",
+        "1937 postcards of Landkreis Leipzig",
+        "1937 postcards published by Brück & Sohn",
+        "Postcards of Kohren-Sahlis published by Brück & Sohn",
+        "Rectangular tables"
+      ],
+      "auteur": "Brück & Sohn Kunstverlag Meißen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:27001-Kohren-1937-Burg_Gnandstein,_Romanischer_Saal-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/27001-Kohren-1937-Burg_Gnandstein%2C_Romanischer_Saal-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg/1280px-27001-Kohren-1937-Burg_Gnandstein%2C_Romanischer_Saal-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1528,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Singapore building with coloured shutters-1 (5917585625).jpg",
+      "description": "Singapore building with coloured shutters",
+      "categories": [
+        "Shutters",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Media needing category review as of 2 October 2018",
+        "Photographs by Sheba Also",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Sheba_Also 43,000 photos",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Singapore_building_with_coloured_shutters-1_(5917585625).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Singapore_building_with_coloured_shutters-1_%285917585625%29.jpg/1280px-Singapore_building_with_coloured_shutters-1_%285917585625%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1880,
+      "hauteur": 1284
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Indian Trading Post--Original Shutters--Ste Genevieve MO.jpg",
+      "description": "The original shutters of the Indian Trading Post in Ste. Geneviève, Missouri ; photographed in 1952. *The trading post was built by French Traders in 1784 to trade with the indians in New France.",
+      "categories": [
+        "Images from the Library of Congress",
+        "Window shutters",
+        "Historic American Buildings Survey of Missouri",
+        "PD US NPS",
+        "Files from the Historic American Buildings Survey",
+        "Doors in Missouri",
+        "Template Unknown (author)",
+        "Black and white photographs of Missouri",
+        "Indian Trading Post (Ste. Genevieve, Missouri)"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Indian_Trading_Post--Original_Shutters--Ste_Genevieve_MO.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Indian_Trading_Post--Original_Shutters--Ste_Genevieve_MO.jpg/1280px-Indian_Trading_Post--Original_Shutters--Ste_Genevieve_MO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3597,
+      "hauteur": 4615
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Emin Gjiku Complex 01.jpg",
+      "description": "Emin Gjiku Complex",
+      "categories": [
+        "Shutters",
+        "Self-published work",
+        "Emin Gjiku Complex"
+      ],
+      "auteur": "Sonia Budini",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Emin_Gjiku_Complex_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Emin_Gjiku_Complex_01.jpg/1280px-Emin_Gjiku_Complex_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:27001-Kohren-1937-Burg Gnandstein, Romanischer Saal-Brück & Sohn Kunstverlag (cropped).jpg",
+      "description": "Kohren; Burg Gnandstein, Romanischer Saal",
+      "categories": [
+        "Halls in Germany",
+        "Interior of Burg Gnandstein",
+        "Window shutters",
+        "Wild cat fur-skins",
+        "Uploaded with VicuñaUploader",
+        "Extracted images",
+        "Images from Brück & Sohn",
+        "Files with coordinates missing SDC location of creation",
+        "1937 postcards of Landkreis Leipzig",
+        "1937 postcards published by Brück & Sohn",
+        "Postcards of Kohren-Sahlis published by Brück & Sohn",
+        "Rectangular tables"
+      ],
+      "auteur": "Brück & Sohn Kunstverlag Meißen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:27001-Kohren-1937-Burg_Gnandstein,_Romanischer_Saal-Br%C3%BCck_%26_Sohn_Kunstverlag_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/27001-Kohren-1937-Burg_Gnandstein%2C_Romanischer_Saal-Br%C3%BCck_%26_Sohn_Kunstverlag_%28cropped%29.jpg/1280px-27001-Kohren-1937-Burg_Gnandstein%2C_Romanischer_Saal-Br%C3%BCck_%26_Sohn_Kunstverlag_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1412,
+      "hauteur": 845
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Balintore Castle.JPG",
+      "description": "Balintore Castle, Angus, Scotland",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A710 IS",
+        "Window shutters",
+        "Balintore Castle",
+        "License migration redundant",
+        "Self-published work",
+        "September 2008 in Scotland",
+        "United Kingdom photographs taken on 2008-09-18"
+      ],
+      "auteur": "User:Jonathan Oldenbuck",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balintore_Castle.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Balintore_Castle.JPG/1280px-Balintore_Castle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    }
+  ]
+}

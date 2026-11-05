@@ -1,0 +1,58 @@
+{
+  "termId": "brique-de-verre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grand panneau de briques de verre en haut d'une entrée, avec portes à grille ouvertes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.12,
+        "largeur": 0.96,
+        "hauteur": 0.48
+      },
+      "lieu": "Porto Alegre, Brésil",
+      "note": "Paroi de briques de verre translucides rétroéclairée, encadrée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan sur un mur de briques de verre rectangulaires en appareil varié.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Würzburg, Allemagne",
+      "note": "Blocs de verre creux translucides, joints visibles, très clair."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Entrée d'immeuble encadrée de briques de verre autour d'une porte noire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Porto Alegre, Brésil",
+      "note": "Vue large, briques de verre petites sur l'image, autre image du même lieu retenue."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Petit bâtiment bas aux murs recouverts de blocs de verre sombres, rue d'Innsbruck.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Innsbruck, Autriche",
+      "note": "Blocs peu lisibles à distance, aspect de béton."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan de briques de verre carrées à motif en relief, scellées au mortier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Chevreuse, France",
+      "note": "Blocs de verre moulés avec joints, aspect typique."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Entrée de station avec portes bleues et petite paroi de briques de verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Briques de verre secondaires, portes dominantes."
+    }
+  ]
+}

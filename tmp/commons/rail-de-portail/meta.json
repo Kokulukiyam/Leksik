@@ -1,0 +1,121 @@
+{
+  "terme": {
+    "id": "rail-de-portail",
+    "terme": "le rail de portail",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Profilé scellé au sol sur lequel roulent les roues d'un portail coulissant.",
+    "priorite": 3,
+    "requetes": [
+      "sliding gate track ground",
+      "rail portail coulissant",
+      "gate rail wheel"
+    ],
+    "incompatibles": [
+      "portail-coulissant"
+    ],
+    "categoriesCommons": [
+      "Category:Gates"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:37002-School gate.jpg",
+      "description": "School",
+      "categories": [
+        "CC-Zero",
+        "Gates",
+        "Self-published work"
+      ],
+      "auteur": "N S Sunitha",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:37002-School_gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/37002-School_gate.jpg/1280px-37002-School_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A door in a frame.jpg",
+      "description": "A door in a frame.",
+      "categories": [
+        "Hospitals in Nepal",
+        "Gates",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2019-08-19"
+      ],
+      "auteur": "Gaurav_Dhwaj_Khadka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_door_in_a_frame.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/A_door_in_a_frame.jpg/1280px-A_door_in_a_frame.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:12324 pptsalps gate.jpg",
+      "description": "My School",
+      "categories": [
+        "Gates",
+        "Self-published work"
+      ],
+      "auteur": "NKraseena",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:12324_pptsalps_gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/12324_pptsalps_gate.jpg/1280px-12324_pptsalps_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:\"Evening Elegance\" ✨🌙.jpg",
+      "description": "A beautifully lit entrance with fountains, greenery, and warm lights creating a magical night ambiance. 🌴💡🌊",
+      "categories": [
+        "Gates",
+        "Self-published work"
+      ],
+      "auteur": "Abinaya Vijayan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Evening_Elegance%22_%E2%9C%A8%F0%9F%8C%99.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%22Evening_Elegance%22_%E2%9C%A8%F0%9F%8C%99.jpg/1280px-%22Evening_Elegance%22_%E2%9C%A8%F0%9F%8C%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 2340
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:500px photo (51597624).jpeg",
+      "description": "500px provided description: OLYMPUS DIGITAL CAMERA [#people ,#street ,#bw ,#monochrome ,#sw ,#olympus ,#candid ,#fineart ,#45mm ,#omd-em5]",
+      "categories": [
+        "Gates",
+        "Photographs by Magdalena Roeseler",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Magdalena Roeseler",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(51597624).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/500px_photo_%2851597624%29.jpeg/1280px-500px_photo_%2851597624%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1563
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2016 366 39 More signs of confusion (24611613520).jpg",
+      "description": "2016/366/39 More signs of confusion",
+      "categories": [
+        "Gates",
+        "Confusion",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Muddled signs"
+      ],
+      "auteur": "Edna Winti",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_366_39_More_signs_of_confusion_(24611613520).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/2016_366_39_More_signs_of_confusion_%2824611613520%29.jpg/1280px-2016_366_39_More_signs_of_confusion_%2824611613520%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    }
+  ]
+}

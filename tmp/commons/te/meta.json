@@ -1,0 +1,117 @@
+{
+  "terme": {
+    "id": "te",
+    "terme": "le té",
+    "categorie": "Réseaux et équipements",
+    "definition": "Raccord de tuyauterie en forme de T qui crée une dérivation sur une canalisation.",
+    "priorite": 3,
+    "requetes": [
+      "tee pipe fitting",
+      "té PVC",
+      "pipe tee"
+    ],
+    "incompatibles": [
+      "raccord"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tés de plomberie.jpg",
+      "description": "Tés de plomberie, à gauche en cuivre, à droite en PVC.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Polyvinyl chloride pipes",
+        "Tee fittings"
+      ],
+      "auteur": "Mini.fb",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:T%C3%A9s_de_plomberie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/T%C3%A9s_de_plomberie.jpg/1280px-T%C3%A9s_de_plomberie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Gas pipe tee.jpg",
+      "description": "Seamless tee",
+      "categories": [
+        "Self-published work",
+        "Butt welding fittings"
+      ],
+      "auteur": "Ghasemimoshref",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gas_pipe_tee.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Gas_pipe_tee.jpg/1280px-Gas_pipe_tee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Tapping tee on PE pipe, saddle mount, halfway cut.jpg",
+      "description": "Elektrofusion tee fitting for gas cutting a hole into main line, detail",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Tee fittings",
+        "Electrofusion welding"
+      ],
+      "auteur": "PalmölCroissant299",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tapping_tee_on_PE_pipe,_saddle_mount,_halfway_cut.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_halfway_cut.jpg/1280px-Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_halfway_cut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1964,
+      "hauteur": 1484
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tapping tee on PE pipe, saddle mount, clamped and elektrofusion welded.jpg",
+      "description": "Elektrofusion tee fitting for gas cutting a hole into main line",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Tee fittings",
+        "Electrofusion welding"
+      ],
+      "auteur": "PalmölCroissant299",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tapping_tee_on_PE_pipe,_saddle_mount,_clamped_and_elektrofusion_welded.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_clamped_and_elektrofusion_welded.jpg/1280px-Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_clamped_and_elektrofusion_welded.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 2676
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Tapping tee on PE pipe, saddle mount, cutting bolt.jpg",
+      "description": "Elektrofusion tee fitting for gas cutting a hole into main line, detail",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Tee fittings",
+        "Electrofusion welding"
+      ],
+      "auteur": "PalmölCroissant299",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tapping_tee_on_PE_pipe,_saddle_mount,_cutting_bolt.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_cutting_bolt.jpg/1280px-Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_cutting_bolt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3432,
+      "hauteur": 2456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Tee .jpg",
+      "description": "pipe fittings sandblast tee",
+      "categories": [
+        "Fittings",
+        "Self-published work"
+      ],
+      "auteur": "Xiaoyan Yang",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tee_.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Tee_.jpg/1280px-Tee_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

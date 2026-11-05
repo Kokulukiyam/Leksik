@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "lampadaire-solaire",
+    "terme": "le lampadaire solaire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Mât d'éclairage extérieur portant un luminaire et un panneau photovoltaïque qui le rend autonome.",
+    "priorite": 3,
+    "requetes": [
+      "solar street light",
+      "lampadaire solaire",
+      "solar street lamp Africa"
+    ],
+    "incompatibles": [
+      "panneau-photovoltaique"
+    ],
+    "categoriesCommons": [
+      "Category:Solar street lights",
+      "Category:Street lights"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Lampadaire solaire IMEXLAMP.jpg",
+      "description": "Lampadaire solaire de la gamme IMEXLAMP d'IMEX CGI éclairant un arrêt de car",
+      "categories": [
+        "Taken with Kodak EasyShare CX6330",
+        "Solar street lights",
+        "Self-published work"
+      ],
+      "auteur": "Yoann213",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lampadaire_solaire_IMEXLAMP.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Lampadaire_solaire_IMEXLAMP.jpg/1280px-Lampadaire_solaire_IMEXLAMP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1354,
+      "hauteur": 2032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Streetlights selection.jpg",
+      "description": "Inner sight of a Streetlamp and other Streetlights",
+      "categories": [
+        "Street lights",
+        "Self-published work"
+      ],
+      "auteur": "Cgwalther",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Streetlights_selection.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Streetlights_selection.jpg/1280px-Streetlights_selection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2017 Latarnia uliczna w Pisarach.jpg",
+      "description": "Street light in Pisary",
+      "categories": [
+        "Solar street lights",
+        "Wind turbines in Poland",
+        "Pisary, Lower Silesian Voivodeship",
+        "Self-published work",
+        "Street lights in Poland",
+        "Solar cell panels in Poland",
+        "Images by Jacek Halicki",
+        "Files with coordinates missing SDC location of creation",
+        "Poland photographs taken on 2017-08-06",
+        "Wikigrant WG 2017-38"
+      ],
+      "auteur": "Jacek Halicki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017_Latarnia_uliczna_w_Pisarach.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/2017_Latarnia_uliczna_w_Pisarach.jpg/1280px-2017_Latarnia_uliczna_w_Pisarach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2655,
+      "hauteur": 4416
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Sarkaya District, Astana (P1190765).jpg",
+      "description": "Sarkaya District of Astana",
+      "categories": [
+        "GFDL",
+        "Street lights",
+        "License migration redundant",
+        "Self-published work",
+        "CC-BY-SA-2.0+",
+        "Exterior lighting in Kazakhstan",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Files with coordinates missing SDC location of creation",
+        "Saryarka District",
+        "Taken with Panasonic Lumix DMC-G5 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Astana photographs taken on 2024-08-19"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sarkaya_District,_Astana_(P1190765).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Sarkaya_District%2C_Astana_%28P1190765%29.jpg/1280px-Sarkaya_District%2C_Astana_%28P1190765%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:123 02 Вуличне освітлення в с Чмирівка after.jpg",
+      "description": "Street lighting in Ukraine after renovation",
+      "categories": [
+        "Humanitarian aid",
+        "Solar street lights",
+        "Self-published work",
+        "Street lights in Ukraine",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Meizu M6"
+      ],
+      "auteur": "Mooraha",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:123_02_%D0%92%D1%83%D0%BB%D0%B8%D1%87%D0%BD%D0%B5_%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2_%D1%81_%D0%A7%D0%BC%D0%B8%D1%80%D1%96%D0%B2%D0%BA%D0%B0_after.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/123_02_%D0%92%D1%83%D0%BB%D0%B8%D1%87%D0%BD%D0%B5_%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2_%D1%81_%D0%A7%D0%BC%D0%B8%D1%80%D1%96%D0%B2%D0%BA%D0%B0_after.jpg/1280px-123_02_%D0%92%D1%83%D0%BB%D0%B8%D1%87%D0%BD%D0%B5_%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2_%D1%81_%D0%A7%D0%BC%D0%B8%D1%80%D1%96%D0%B2%D0%BA%D0%B0_after.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Wanderful Rozafa Castle in Shkodër Albania.jpg",
+      "description": "Shkoder Albania",
+      "categories": [
+        "Street lights",
+        "Self-published work",
+        "Wiki Photowalk 2023 SQ",
+        "Rozafa Fortress"
+      ],
+      "auteur": "Artemiss.B",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wanderful_Rozafa_Castle_in_Shkod%C3%ABr_Albania.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Wanderful_Rozafa_Castle_in_Shkod%C3%ABr_Albania.jpg/1280px-Wanderful_Rozafa_Castle_in_Shkod%C3%ABr_Albania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

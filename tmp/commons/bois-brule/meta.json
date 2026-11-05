@@ -1,0 +1,111 @@
+{
+  "terme": {
+    "id": "bois-brule",
+    "terme": "le bois brûlé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bois de bardage dont la surface est carbonisée, noire et craquelée, pour la protéger.",
+    "priorite": 3,
+    "requetes": [
+      "shou sugi ban",
+      "charred wood cladding",
+      "yakisugi facade"
+    ],
+    "incompatibles": [
+      "bardage",
+      "bois"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Yakiita 11.jpg",
+      "description": "焼きたての焼き板",
+      "categories": [
+        "Yakisugi",
+        "Self-published work"
+      ],
+      "auteur": "漱石の猫",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Yakiita_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Yakiita_11.jpg/1280px-Yakiita_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2992,
+      "hauteur": 2992
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Yakiita 2.jpg",
+      "description": "焼きたての焼き板",
+      "categories": [
+        "Yakisugi",
+        "Self-published work"
+      ],
+      "auteur": "漱石の猫",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Yakiita_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Yakiita_2.jpg/1280px-Yakiita_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2992,
+      "hauteur": 2992
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Yakiita 1.jpg",
+      "description": "焼き板の製作作業",
+      "categories": [
+        "Yakisugi",
+        "Self-published work"
+      ],
+      "auteur": "漱石の猫",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Yakiita_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Yakiita_1.jpg/1280px-Yakiita_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1546,
+      "hauteur": 2991
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Exemple shou-sugi-ban.jpg",
+      "description": "shou-sugi-ban, yakisugi, bois brûlé",
+      "categories": [
+        "Yakisugi",
+        "Self-published work"
+      ],
+      "auteur": "Caroistda",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Exemple_shou-sugi-ban.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Exemple_shou-sugi-ban.jpg/1280px-Exemple_shou-sugi-ban.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3520,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:OKOPOD - Yakisugi.jpg",
+      "description": "OKOPOD garden room with Yakisugi cladding",
+      "categories": [
+        "Yakisugi",
+        "Self-published work",
+        "Garden Room"
+      ],
+      "auteur": "Lorna Satchell",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:OKOPOD_-_Yakisugi.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/OKOPOD_-_Yakisugi.jpg/1280px-OKOPOD_-_Yakisugi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Yakiita 9.jpg",
+      "description": "焼き板の製作作業",
+      "categories": [
+        "Yakisugi",
+        "Self-published work"
+      ],
+      "auteur": "漱石の猫",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Yakiita_9.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Yakiita_9.jpg/1280px-Yakiita_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2992,
+      "hauteur": 2992
+    }
+  ]
+}

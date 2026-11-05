@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "ebrasement",
+    "terme": "l'ébrasement",
+    "categorie": "Façade et ouvertures",
+    "definition": "Côtés d'une baie taillés en biais pour que l'ouverture s'évase vers l'intérieur ou l'extérieur du mur.",
+    "priorite": 3,
+    "requetes": [
+      "splayed window reveal",
+      "ébrasement fenêtre",
+      "splayed jamb window"
+    ],
+    "incompatibles": [
+      "baie",
+      "piedroit"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:One Ten - 110 Colmore Row (3914750887).jpg",
+      "description": "This is One Ten, 110 Colmore Row A Grade II listed building, built in 1902 by William Henman and Thomas Cooper for the Scottish Union and National Insurance Company. No. 110 is a picturesque and original piece of 1903-4 by Henman & Cooper for the Scottish Union and National Insurance Co. Aberdeen granite, appropriately, and limestone, with inset bands of red brick. Two-storey centre with big semicircular oriel and fine original railing, clamped between three-storey towers with tapering tops, ogee caps and tall finials. From Pevsner Architectural Guides: Birmingham by Andy Foster 110 Colmore Ro",
+      "categories": [
+        "Colmore Row, Birmingham",
+        "Grade II listed buildings in Birmingham",
+        "Listed buildings in England with known IDs",
+        "Built in England in 1902",
+        "Buildings numbered 110",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:One_Ten_-_110_Colmore_Row_(3914750887).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/One_Ten_-_110_Colmore_Row_%283914750887%29.jpg/1280px-One_Ten_-_110_Colmore_Row_%283914750887%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Friedelsheim Bahnhofstraße 5 (bei) 003 2022 09 11.jpg",
+      "description": "Ceci est une photographie d'un monument architectural. Ce monument est inclus dans la liste de monuments culturels de Friedelsheim page de liste de Wikimédia : Cultural heritage monuments in Friedelsheim Titre Cultural heritage monuments in Friedelsheim Nature de l’élément page de liste de Wikimédia Élément d'architecture: Ébrasement Titre Ébrasement Nature de l’élément élément d'architecture Designation: Enclosure wall of the castle Depicted part: Sandstone jamb Construction time: around 1585 Description: Part of the former enclosure wall of the castle Quarry stone with two sandstone jambs Pl",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II",
+        "Retouched pictures",
+        "Enceintes",
+        "User custom license tags",
+        "Splay",
+        "(bei) Bahnhofstraße 5 (Friedelsheim)",
+        "Self-published work",
+        "Information field template with formatting",
+        "Uploaded with LrMediaWiki",
+        "Images by F. Riedelio",
+        "Sandstone walls in Rhineland-Palatinate",
+        "Landkreis Bad Dürkheim photographs taken on 2022-09-11",
+        "Taken with Tamron SP AF 24-70mm F/2.8 Di VC USD"
+      ],
+      "auteur": "Friedrich Haag",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Friedelsheim_Bahnhofstra%C3%9Fe_5_(bei)_003_2022_09_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Friedelsheim_Bahnhofstra%C3%9Fe_5_%28bei%29_003_2022_09_11.jpg/1280px-Friedelsheim_Bahnhofstra%C3%9Fe_5_%28bei%29_003_2022_09_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4122,
+      "hauteur": 6022
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Robert Davies Walk, Lichfield - spire of the Church of St Michael (26441660986).jpg",
+      "description": "Arriving at Lichfield City Station, I took a detour via Robert Davies Walk, Wharf Close, Cherry Orchard, then over onto Sturgeons Hill and Rotten Row, before I got back near the City Centre at Birmingham Road. On Robert Davies Walk. spire of the &lt;a href=\" https://en.wikipedia.org/wiki/St_Michael_on_Greenhill,_Lichfield \" rel=\"noreferrer nofollow\"&gt;Church of St Michael&lt;/a&gt; St Michael on Greenhill is a parish church in Lichfield, Staffordshire in the United Kingdom, located on the high ground of Greenhill in the east of the city. A church has been on the present site since at least 11",
+      "categories": [
+        "St Michael on Greenhill, Lichfield",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Robert_Davies_Walk,_Lichfield_-_spire_of_the_Church_of_St_Michael_(26441660986).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Robert_Davies_Walk%2C_Lichfield_-_spire_of_the_Church_of_St_Michael_%2826441660986%29.jpg/1280px-Robert_Davies_Walk%2C_Lichfield_-_spire_of_the_Church_of_St_Michael_%2826441660986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Eglise Saint-Martin Cortrat fenêtre en ébrasement ERNOUF Guillaume.jpg",
+      "description": "Eglise Saint-Martin Cortrat fenêtre en ébrasement ERNOUF Guillaume",
+      "categories": [
+        "Église Saint-Martin de Cortrat",
+        "Splay",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "ERNOUF Guillaume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eglise_Saint-Martin_Cortrat_fen%C3%AAtre_en_%C3%A9brasement_ERNOUF_Guillaume.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Eglise_Saint-Martin_Cortrat_fen%C3%AAtre_en_%C3%A9brasement_ERNOUF_Guillaume.jpg/1280px-Eglise_Saint-Martin_Cortrat_fen%C3%AAtre_en_%C3%A9brasement_ERNOUF_Guillaume.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2608,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Former Bell Brothers and Dorman Long office building designed by Phillip Speakman Webb.jpg",
+      "description": "Former Bell Brothers Offices Zetland Road, Middlesbrough. Designed by Philip Webb his only remaining commercial building. Now called Webb House. This photograph was linked in the article in the Guardian \"The Northerner\" Blog - 17th October 2011 [www.guardian.co.uk/uk/the-northerner/2011/oct/17/middlesb...] English Heritage \"MIDDLESBROUGH ZETLAND ROAD, NZ 4920 NE south side. 8/97 No. 7 (Formerly listed as offices 13.2.63 occupied by Dorman Long & Co. Ltd.). G.V. II* Offices, 1881/91 by Philip Webb, for Hugh Bell, ironmaster. Altered and extended 1906 by George Jack. Sandstone ashlar; glazed bro",
+      "categories": [
+        "Dorman Long",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (54° N, 2° W)",
+        "7 Zetland Road, Middlesbrough",
+        "Phillip Webb",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Bolckow",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Former_Bell_Brothers_and_Dorman_Long_office_building_designed_by_Phillip_Speakman_Webb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Former_Bell_Brothers_and_Dorman_Long_office_building_designed_by_Phillip_Speakman_Webb.jpg/1280px-Former_Bell_Brothers_and_Dorman_Long_office_building_designed_by_Phillip_Speakman_Webb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fenêtre Choeur de l'Eglise Saint-Martin Cortrat ERNOUF Guillaume.jpg",
+      "description": "Fenêtre Choeur de l'Eglise Saint-Martin Cortrat ERNOUF Guillaume",
+      "categories": [
+        "Église Saint-Martin de Cortrat",
+        "Splay",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "ERNOUF Guillaume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fen%C3%AAtre_Choeur_de_l%27Eglise_Saint-Martin_Cortrat_ERNOUF_Guillaume.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Fen%C3%AAtre_Choeur_de_l%27Eglise_Saint-Martin_Cortrat_ERNOUF_Guillaume.jpg/1280px-Fen%C3%AAtre_Choeur_de_l%27Eglise_Saint-Martin_Cortrat_ERNOUF_Guillaume.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2608,
+      "hauteur": 4624
+    }
+  ]
+}

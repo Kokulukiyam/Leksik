@@ -1,0 +1,53 @@
+{
+  "termId": "bossage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de tour en pierres à faces bosselées en saillie, séparées par des joints creux.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Zvíkov, Bohême du Sud",
+      "note": "Bossage rustique net, dominant l'image."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Place avec maisons à décor de sgraffite imitant un bossage en pointes de diamant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Slavonice, Tchéquie",
+      "note": "Bossage peint en sgraffite, pas en relief réel."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur dégradé, enduit écaillé, vu en fuite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Varsovie",
+      "note": "Pas lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur en moellons avec flèche rouge et écusson.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Göttingen",
+      "note": "Flèche, élément peu clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Loggia à colonnes ioniques à tambours bagués en saillie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sydney",
+      "note": "Colonnes à bossages, mais chapiteaux ioniques dominants : confusion."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Angle de palais à assises horizontales à refends.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Palais du Luxembourg, Paris",
+      "note": "Refends en bandes, confusion bossage/refend."
+    }
+  ]
+}

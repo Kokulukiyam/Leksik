@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "poincon",
+    "terme": "le poinçon",
+    "categorie": "Toitures",
+    "definition": "Pièce verticale au centre d'une ferme, entre l'entrait et le faîtage.",
+    "priorite": 3,
+    "requetes": [
+      "king post roof truss",
+      "poinçon charpente",
+      "king post"
+    ],
+    "incompatibles": [
+      "ferme",
+      "entrait"
+    ],
+    "categoriesCommons": [
+      "Category:King post trusses",
+      "Category:Roof trusses"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Linwood House 07.jpg",
+      "description": "Linwood House during demolition in May 2011 showing the timber work in the roof.",
+      "categories": [
+        "Taken with Canon PowerShot A510",
+        "Linwood House",
+        "King post trusses",
+        "Items with VRTS permission confirmed",
+        "Common purlin roofs"
+      ],
+      "auteur": "Jackie Snowdon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Linwood_House_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Linwood_House_07.jpg/1280px-Linwood_House_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Förbindelsegången August 2012 01.jpg",
+      "description": "Förbindelsegången, Slakthusområdet.",
+      "categories": [
+        "Taken with Nikon D7000",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Images by Arild Vågen",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Media created by technology pool of Wikimedia Sverige",
+        "Interiors of factories in Stockholm",
+        "Enskede slakthus"
+      ],
+      "auteur": "Arild Vågen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelseg%C3%A5ngen_August_2012_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/F%C3%B6rbindelseg%C3%A5ngen_August_2012_01.jpg/1280px-F%C3%B6rbindelseg%C3%A5ngen_August_2012_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2457,
+      "hauteur": 1627
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cercha en Nemocón.jpeg",
+      "description": "Cercha en el edificio previo a la mina de sal de Nemocón, Cundinamarca, Colombia.",
+      "categories": [
+        "Nemocón",
+        "King post trusses",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2014-08-09",
+        "Taken with Samsung GT-I9505"
+      ],
+      "auteur": "Xemenendura",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cercha_en_Nemoc%C3%B3n.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Cercha_en_Nemoc%C3%B3n.jpeg/1280px-Cercha_en_Nemoc%C3%B3n.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 2322
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dakota Roos 2014-10-03 (Unsplash).jpg",
+      "description": "Dakota Roos 2014-10-03",
+      "categories": [
+        "CC-Zero",
+        "Roof trusses",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "Dakota Roos dakotaroosphotography",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dakota_Roos_2014-10-03_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Dakota_Roos_2014-10-03_%28Unsplash%29.jpg/1280px-Dakota_Roos_2014-10-03_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Grange dîmeresse de la Haule à Aclou.jpg",
+      "description": "Grange dîmière de la Haule (XVe siècle) à Aclou (Eure, 27), France.",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Kodak EasyShare C340",
+        "Monuments historiques inscrits",
+        "Grange dîmière de la Haule",
+        "King post trusses",
+        "Self-published work",
+        "PD-self",
+        "Files by User:Stanzilla",
+        "Timber framing in Eure",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Close studding",
+        "France photographs taken on 2009-06-14",
+        "Stone infill",
+        "Porch barns"
+      ],
+      "auteur": "Stanzilla",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grange_d%C3%AEmeresse_de_la_Haule_%C3%A0_Aclou.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Grange_d%C3%AEmeresse_de_la_Haule_%C3%A0_Aclou.jpg/1280px-Grange_d%C3%AEmeresse_de_la_Haule_%C3%A0_Aclou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2379,
+      "hauteur": 1558
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Roof trusses, St Hilary's.jpg",
+      "description": "Roof trusses in the nave of St Hilary's, Wallasey",
+      "categories": [
+        "Rodhullandemu images",
+        "Roof trusses",
+        "Interior of St Hilary's Church, Wallasey",
+        "Self-published work",
+        "Church ceilings in Merseyside",
+        "Files with coordinates missing SDC location of creation (53° N, 4° W)"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_trusses,_St_Hilary%27s.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Roof_trusses%2C_St_Hilary%27s.jpg/1280px-Roof_trusses%2C_St_Hilary%27s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3466,
+      "hauteur": 5199
+    }
+  ]
+}

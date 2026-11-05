@@ -1,0 +1,53 @@
+{
+  "termId": "grecque",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pavement de mosaïque noir et blanc à méandres, large champ et non une frise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Essen-Werden, Allemagne",
+      "note": "Méandre net mais en champ de sol, pas une frise : doute avec frise/pavement."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Portail de cimetière en pierre et fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Amour, Jura",
+      "note": "Motif invisible ou minuscule."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bordure de papier peint à clef grecque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Papier peint, pas une photo d'architecture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bas-relief roman en frise sur une tour, scènes figurées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fidenza, Italie",
+      "note": "Grecque minuscule en haut, dominée par le bas-relief."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bordure de papier peint à clef grecque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Papier peint."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sculptures romanes de scènes figurées, fine bande en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fidenza, Italie",
+      "note": "Grecque trop petite, bas-relief dominant."
+    }
+  ]
+}

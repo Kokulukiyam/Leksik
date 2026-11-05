@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "ossature-bois",
+    "terme": "l'ossature bois",
+    "categorie": "Structure",
+    "definition": "Structure de murs faite de montants et de traverses en bois rapprochés, avant la pose des panneaux.",
+    "priorite": 3,
+    "requetes": [
+      "timber frame house construction",
+      "ossature bois",
+      "wood frame wall studs"
+    ],
+    "incompatibles": [
+      "colombage"
+    ],
+    "categoriesCommons": [
+      "Category:Timber framing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Gefach, Zierausfachung (Kloster Wienhausen, 2017).jpg",
+      "description": "Gefach, Zierausfachung (Kloster Wienhausen, 2017)",
+      "categories": [
+        "Timber framing",
+        "Wienhausen monastery",
+        "Self-published work"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gefach,_Zierausfachung_(Kloster_Wienhausen,_2017).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Gefach%2C_Zierausfachung_%28Kloster_Wienhausen%2C_2017%29.jpg/1280px-Gefach%2C_Zierausfachung_%28Kloster_Wienhausen%2C_2017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Casa de bajareque, San Antonio Pajonal.jpg",
+      "description": "Casita de bajareque en la Calle al Cementerio en San Antonio Pajonal, El Salvador. Tomada en julio de 2019.",
+      "categories": [
+        "Timber framing",
+        "Wattle and daub",
+        "Metal roofs",
+        "Self-published work",
+        "July 2019 in San Antonio Pajonal",
+        "Wattle and daub in El Salvador",
+        "Concrete framing"
+      ],
+      "auteur": "Christopher Arturo Aragón Vides",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_de_bajareque,_San_Antonio_Pajonal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Casa_de_bajareque%2C_San_Antonio_Pajonal.jpg/1280px-Casa_de_bajareque%2C_San_Antonio_Pajonal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Fachwerk, Ausfachung, Gefach (Wanfried, 2018).jpg",
+      "description": "Fachwerk, Ausfachung, Gefach (Wanfried, 2018)",
+      "categories": [
+        "Timber framing",
+        "Wanfried",
+        "Self-published work"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fachwerk,_Ausfachung,_Gefach_(Wanfried,_2018).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Fachwerk%2C_Ausfachung%2C_Gefach_%28Wanfried%2C_2018%29.jpg/1280px-Fachwerk%2C_Ausfachung%2C_Gefach_%28Wanfried%2C_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:20170404 AltSchwanheim14.jpg",
+      "description": "Fachwerkhaus auf Alt Schwanheim (Frankfurt am Main)",
+      "categories": [
+        "Timber framing",
+        "Cultural heritage monuments in Frankfurt-Schwanheim",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Bernhard Stuck",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:20170404_AltSchwanheim14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/20170404_AltSchwanheim14.jpg/1280px-20170404_AltSchwanheim14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Centralne Muzeum Morskie and SS Sołdek in Gdańsk.jpg",
+      "description": "Picture taken in w:Gdańsk after Wikimania 2010 conference . Centralne Muzeum Morskie and w:SS Sołdek .",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D90",
+        "Timber framing",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Files by DerHexer",
+        "Motława in Gdańsk",
+        "Billboards in Gdańsk",
+        "General views of Sołdek (ship, 1949)",
+        "Photographs of flags of Poland in Gdańsk",
+        "Granaries in Ołowianka 9-11",
+        "Files by DerHexer/Wikimania 2010 in Gdańsk and surrounding/Vacations"
+      ],
+      "auteur": "DerHexer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centralne_Muzeum_Morskie_and_SS_So%C5%82dek_in_Gda%C5%84sk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Centralne_Muzeum_Morskie_and_SS_So%C5%82dek_in_Gda%C5%84sk.jpg/1280px-Centralne_Muzeum_Morskie_and_SS_So%C5%82dek_in_Gda%C5%84sk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3963,
+      "hauteur": 2680
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fensterfasche, Göttingen, Geismar Landstr.24, 2021.jpg",
+      "description": "Fensterfasche, Göttingen, Geismar Landstr.24, 2021",
+      "categories": [
+        "Windows in Germany",
+        "Timber framing",
+        "Self-published work"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fensterfasche,_G%C3%B6ttingen,_Geismar_Landstr.24,_2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Fensterfasche%2C_G%C3%B6ttingen%2C_Geismar_Landstr.24%2C_2021.jpg/1280px-Fensterfasche%2C_G%C3%B6ttingen%2C_Geismar_Landstr.24%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1389,
+      "hauteur": 1899
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "parquet",
+    "terme": "le parquet",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Revêtement de sol en lames de bois assemblées.",
+    "priorite": 2,
+    "requetes": [
+      "wooden parquet floor",
+      "parquet bois",
+      "incategory:\"Parquet\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2013-07 Kuben kampsport.jpg",
+      "description": "Kuben indoor sports- and basketballarena at en:Kuben Upper Secondary School . This photo from the MA/dance room. Schools Principal in the photo",
+      "categories": [
+        "Taken with Canon EOS 550D",
+        "Parquetry",
+        "Kjell Ove Hauge",
+        "Sports venues in Oslo",
+        "Punching bags",
+        "Kuben Yrkesarena",
+        "Dance studios",
+        "Kuben videregående skole",
+        "Self-published work",
+        "Files by User:QUB1 from no.wikipedia"
+      ],
+      "auteur": "QUB1",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-07_Kuben_kampsport.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2013-07_Kuben_kampsport.jpg/1280px-2013-07_Kuben_kampsport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5080,
+      "hauteur": 2990
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:27th Independent Sevastopol Guards Motor Rifle Brigade (183-16).jpg",
+      "description": "82 мм миномет (82mm mortar)",
+      "categories": [
+        "Parquetry",
+        "82 mm mortar M1937",
+        "Items with VRTS permission confirmed",
+        "Photos by Vitaly Kuzmin",
+        "Conscript day 2009 in 27th Separate Guards Motor Rifle Brigade",
+        "Import by User:Slick-o-bot/27th Independent Sevastopol Guards Motor Rifle Brigade"
+      ],
+      "auteur": "Vitaly V. Kuzmin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_(183-16).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_%28183-16%29.jpg/1280px-27th_Independent_Sevastopol_Guards_Motor_Rifle_Brigade_%28183-16%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1377,
+      "hauteur": 1500
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Garnýž, oprava (005).jpg",
+      "description": "Repairing curtain rod.",
+      "categories": [
+        "Taken with LG Optimus Black",
+        "Parquetry",
+        "Curtain rods",
+        "Uploaded with VicuñaUploader",
+        "Files by Juandev lacking geographic coordinates"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Garn%C3%BD%C5%BE,_oprava_(005).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Garn%C3%BD%C5%BE%2C_oprava_%28005%29.jpg/1280px-Garn%C3%BD%C5%BE%2C_oprava_%28005%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Französisches fischgrät route 66 antik fischbacher living.jpg",
+      "description": "französisches Fischgrät",
+      "categories": [
+        "Parquetry",
+        "Self-published work"
+      ],
+      "auteur": "Robert Fischbacher163",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Franz%C3%B6sisches_fischgr%C3%A4t_route_66_antik_fischbacher_living.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Franz%C3%B6sisches_fischgr%C3%A4t_route_66_antik_fischbacher_living.jpg/1280px-Franz%C3%B6sisches_fischgr%C3%A4t_route_66_antik_fischbacher_living.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cúpula de Edificio Bencich.jpg",
+      "description": "Dome of building Bencich, Buenos Aires, Argentina",
+      "categories": [
+        "Parquetry",
+        "Self-published work",
+        "Peeling paint",
+        "Featured pictures of Buenos Aires",
+        "Files from Open Foto Buenos Aires 2016",
+        "Argentina photographs taken on 2016-12-03",
+        "Domes in Buenos Aires",
+        "Interior of Edificio Bencich (Diagonal Norte)",
+        "Electric chandeliers in Argentina",
+        "Arch windows in Argentina",
+        "Empty rooms",
+        "Reflections on floors",
+        "Vacant rooms"
+      ],
+      "auteur": "Eizuel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C%C3%BApula_de_Edificio_Bencich.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/C%C3%BApula_de_Edificio_Bencich.jpg/1280px-C%C3%BApula_de_Edificio_Bencich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3508,
+      "hauteur": 2743
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Art-parket-asp.jpg",
+      "description": "Один из простых рисунков художественной укладки штучного паркета. Применяемые при укладке породы - дуб селекции рустик и мербау. Покрыт лаком Bona D5 в несколько слоев, который \"поджигает\" рисунок древесины.",
+      "categories": [
+        "Parquetry",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Пищулин Антон Сергеевич",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Art-parket-asp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Art-parket-asp.jpg/1280px-Art-parket-asp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1818,
+      "hauteur": 1818
+    }
+  ]
+}

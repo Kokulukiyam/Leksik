@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "arc-outrepasse",
+    "terme": "l'arc outrepassé",
+    "categorie": "Structure",
+    "definition": "Arc en fer à cheval, dont la courbe dépasse le demi-cercle et se resserre à la base.",
+    "priorite": 3,
+    "requetes": [
+      "horseshoe arch",
+      "arc outrepassé",
+      "moorish horseshoe arch"
+    ],
+    "incompatibles": [
+      "arc"
+    ],
+    "categoriesCommons": [
+      "Category:Horseshoe arches",
+      "Category:Arches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Acha-Kayyngdy (At-Bashy district) skyline.jpg",
+      "description": "Acha-Kayyngdy (At-Bashy district) skyline",
+      "categories": [
+        "Mountains of Kyrgyzstan",
+        "Arches",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2022-11-04"
+      ],
+      "auteur": "Kmaksat",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acha-Kayyngdy_(At-Bashy_district)_skyline.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Acha-Kayyngdy_%28At-Bashy_district%29_skyline.jpg/1280px-Acha-Kayyngdy_%28At-Bashy_district%29_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2269
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Courtyard3(js).jpg",
+      "description": "The Umayyad Mosque - the courtyard with mosaics, Damascus",
+      "categories": [
+        "GFDL",
+        "Arcades",
+        "Horseshoe arches",
+        "License migration redundant",
+        "Self-published work",
+        "Arches in Syria",
+        "West side of the Umayyad courtyard"
+      ],
+      "auteur": "Jerzy Strzelecki",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Courtyard3(js).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Courtyard3%28js%29.jpg/1280px-Courtyard3%28js%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1251
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Botanical Garden in Putrajaya, Malaysia 20.jpg",
+      "description": "Putrajaya Botanical Garden in Presint 1, Putrajaya, Malaysia",
+      "categories": [
+        "Horseshoe arches",
+        "Self-published work",
+        "Fountains in Malaysia",
+        "Fountains in gardens and parks",
+        "Putrajaya Botanical Garden - Islamic garden"
+      ],
+      "auteur": "Frostpolar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_in_Putrajaya,_Malaysia_20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Botanical_Garden_in_Putrajaya%2C_Malaysia_20.jpg/1280px-Botanical_Garden_in_Putrajaya%2C_Malaysia_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Arches of Stade Louis II.jpg",
+      "description": "Arches of Stade Louis II",
+      "categories": [
+        "Arches",
+        "Stade Louis II",
+        "Self-published work"
+      ],
+      "auteur": "Uhooep",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arches_of_Stade_Louis_II.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Arches_of_Stade_Louis_II.jpg/1280px-Arches_of_Stade_Louis_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Al-Qarawiyyin02.jpg",
+      "description": "Al-Qarawiyyin University in Fes, Morocco",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS i Zoom",
+        "Horseshoe arches",
+        "License migration redundant",
+        "Self-published work",
+        "Arches in Morocco",
+        "Al-Qarawiyyin courtyard",
+        "Bab al-Ward"
+      ],
+      "auteur": "Khonsali",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al-Qarawiyyin02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Al-Qarawiyyin02.jpg/1280px-Al-Qarawiyyin02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:B Facundus 176v.jpg",
+      "description": "",
+      "categories": [
+        "Beatus de Facundus",
+        "Horseshoe arches",
+        "Artworks without Wikidata item",
+        "PD-Art (PD-old-100)",
+        "CC-PD-Mark",
+        "Measure of the temple"
+      ],
+      "auteur": "Facundus, pour Ferdinand Ier de Castille et Leon et la reine Sancha",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:B_Facundus_176v.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/B_Facundus_176v.jpg/1280px-B_Facundus_176v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1282,
+      "hauteur": 1787
+    }
+  ]
+}

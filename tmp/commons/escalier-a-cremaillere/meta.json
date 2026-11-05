@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "escalier-a-cremaillere",
+    "terme": "l'escalier à crémaillère",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier dont les marches reposent sur un limon découpé en dents de scie, visible de profil.",
+    "priorite": 3,
+    "requetes": [
+      "stringer stairs cut steel",
+      "escalier à crémaillère",
+      "zigzag stringer staircase"
+    ],
+    "incompatibles": [
+      "limon",
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois"
+    ],
+    "categoriesCommons": [
+      "Category:Stairs",
+      "Category:Staircases"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2016 Lublin; Multi-family high-rise building, stairs.jpg",
+      "description": "2016 Lublin; Multi-family high-rise building, stairs",
+      "categories": [
+        "Stairs",
+        "Lublin",
+        "High-rises",
+        "Self-published work"
+      ],
+      "auteur": "BogTar201213",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_Lublin;_Multi-family_high-rise_building,_stairs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2016_Lublin%3B_Multi-family_high-rise_building%2C_stairs.jpg/1280px-2016_Lublin%3B_Multi-family_high-rise_building%2C_stairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1826,
+      "hauteur": 3022
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:African Human wooden Seats.jpg",
+      "description": "Ceci est une image du genre Musique et Danse de :",
+      "categories": [
+        "Staircases",
+        "Calabar",
+        "Self-published work",
+        "Crafts of Nigeria",
+        "Images from Wiki Loves Africa 2016",
+        "Images from Wiki Loves Africa 2016 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2016 in Nigeria",
+        "Nigeria photographs taken on 2016-12-29",
+        "Wooden chairs"
+      ],
+      "auteur": "Charles. Utibemfon Charles",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:African_Human_wooden_Seats.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/African_Human_wooden_Seats.jpg/1280px-African_Human_wooden_Seats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2013 TLD ABS-580 self-propelled passenger stairs.jpg",
+      "description": "2013 TLD ABS-580 self-propelled passenger stairs",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Oleg Yunakov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013_TLD_ABS-580_self-propelled_passenger_stairs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2013_TLD_ABS-580_self-propelled_passenger_stairs.jpg/1280px-2013_TLD_ABS-580_self-propelled_passenger_stairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Balustrade Southgate-Lewis House 1980.jpg",
+      "description": "The hand-turned balustrade in the main entry foyer of the Southgate-Lewis is said to be: \"one of the finest staircases in all of Austin.\" There is no doubt that it is a finely crafted beautiful work of art. Remarkably, more than one century after it was constructed, it stout, firm, and strong. R.C. Lambie was well known for his finely woodwork and this is perhaps one of his best examples.",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "Grand staircases",
+        "Woodwork"
+      ],
+      "auteur": "DGAAustin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balustrade_Southgate-Lewis_House_1980.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Balustrade_Southgate-Lewis_House_1980.jpg/1280px-Balustrade_Southgate-Lewis_House_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 6316
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2018-08-24 Åland by Olaf Kosinsky-2649.jpg",
+      "description": "Stairs aboard the Baltic Princess.",
+      "categories": [
+        "Stairs",
+        "Personality rights warning",
+        "Interior of Baltic Princess (ship, 2008)",
+        "Photos by User:Olaf Kosinsky in 2018",
+        "People Photos by Olaf Kosinsky",
+        "Olaf Kosinsky Aland Inseln",
+        "Olaf Kosinsky Ostsefähre"
+      ],
+      "auteur": "Olaf Kosinsky",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-08-24_%C3%85land_by_Olaf_Kosinsky-2649.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2018-08-24_%C3%85land_by_Olaf_Kosinsky-2649.jpg/1280px-2018-08-24_%C3%85land_by_Olaf_Kosinsky-2649.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6.jpg",
+      "description": "Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "June 2024 in Lower Saxony",
+        "Amsbergstraße 27 (Bad Harzburg)"
+      ],
+      "auteur": "Steffen Dietrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg/1280px-Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    }
+  ]
+}

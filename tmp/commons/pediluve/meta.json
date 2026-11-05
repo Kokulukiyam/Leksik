@@ -1,0 +1,121 @@
+{
+  "terme": {
+    "id": "pediluve",
+    "terme": "le pédiluve",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Petit bassin peu profond où l'on se lave les pieds avant d'accéder à une piscine.",
+    "priorite": 3,
+    "requetes": [
+      "footbath pool",
+      "pédiluve",
+      "foot bath swimming pool entrance"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blad man swimming in the swimming pool.jpg",
+      "description": "A man is swimming alone in a swimming pool. The water is clear and reflects sunlight. The scene shows a casual atmosphere. The swimmer moves through the water with ease.",
+      "categories": [
+        "Swimming pools",
+        "Self-published work",
+        "Photographs of men"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blad_man_swimming_in_the_swimming_pool.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Blad_man_swimming_in_the_swimming_pool.jpg/1280px-Blad_man_swimming_in_the_swimming_pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Boy jumps into the pool wearing goggles at a summer gathering with friends.jpg",
+      "description": "A young boy is leaping into a pool, wearing goggles. Other children are swimming and enjoying the afternoon. Sunlight reflects off the water.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boy_jumps_into_the_pool_wearing_goggles_at_a_summer_gathering_with_friends.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Boy_jumps_into_the_pool_wearing_goggles_at_a_summer_gathering_with_friends.jpg/1280px-Boy_jumps_into_the_pool_wearing_goggles_at_a_summer_gathering_with_friends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5690,
+      "hauteur": 3786
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Child jumps into a pool while another child swims nearby.jpg",
+      "description": "A child in red shorts dives into a clear pool while another child swims in the background. The activity takes place on a bright, sunny day.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg/1280px-Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Child in swim goggles adjusts mask near pool on a sunny day.jpg",
+      "description": "A boy wearing swim goggles is getting ready to swim near a pool. He stands on the edge of the pool with water droplets on his skin. It is a warm and sunny day.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_in_swim_goggles_adjusts_mask_near_pool_on_a_sunny_day.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Child_in_swim_goggles_adjusts_mask_near_pool_on_a_sunny_day.jpg/1280px-Child_in_swim_goggles_adjusts_mask_near_pool_on_a_sunny_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Centre nautique de Saint-Joseph.jpg",
+      "description": "Centre nautique de Saint-Joseph, La Réunion",
+      "categories": [
+        "Swimming pools",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Buildings in Saint-Joseph (Réunion)",
+        "Réunion photographs taken on 2026-08-06",
+        "Photos by Clémenceau Lauret"
+      ],
+      "auteur": "Clémenceau Lauret",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centre_nautique_de_Saint-Joseph.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Centre_nautique_de_Saint-Joseph.jpg/1280px-Centre_nautique_de_Saint-Joseph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bronte Splash - Flickr - Link1.jpg",
+      "description": "Bronte Splash",
+      "categories": [
+        "Swimming pools",
+        "Photographs taken on 2003-05-04",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Link1",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bronte_Splash_-_Flickr_-_Link1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bronte_Splash_-_Flickr_-_Link1.jpg/1280px-Bronte_Splash_-_Flickr_-_Link1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    }
+  ]
+}

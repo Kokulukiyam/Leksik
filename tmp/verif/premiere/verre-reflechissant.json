@@ -1,0 +1,58 @@
+{
+  "termId": "verre-reflechissant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Hall de musée avec avion et grande verrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Friedrichshafen, Allemagne",
+      "note": "Vitrage transparent, pas réfléchissant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tour de bureaux à façade vitrée sombre dont le verre renvoie l'image d'un immeuble voisin.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.52,
+        "y": 0.0,
+        "largeur": 0.48,
+        "hauteur": 0.72
+      },
+      "lieu": "Mexico, Mexique",
+      "note": "Reflet net dans le rectangle posé sur la tour de droite."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade d'une banque à grandes baies, avec enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maroc",
+      "note": "Texte visible, verre non réfléchissant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Place avec immeuble de verre sombre à gauche parmi d'autres bâtiments et enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Liège, Belgique",
+      "note": "Reflets peu lisibles, scène chargée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue avec bâtiment vitré lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Liège, Belgique",
+      "note": "Trop petit et peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble de bureaux à façade vitrée renvoyant ciel, nuage et arbres comme un miroir.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Reflet évident occupant toute la façade."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "rond-lisse",
+    "terme": "le rond lisse",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Barre d'acier ronde à surface lisse, sans crénelures, employée pour les petites armatures et les crochets.",
+    "priorite": 3,
+    "requetes": [
+      "plain round steel bar",
+      "rond lisse acier",
+      "smooth round bar steel"
+    ],
+    "incompatibles": [
+      "fer-a-beton"
+    ],
+    "categoriesCommons": [
+      "Category:Steel bars",
+      "Category:Rebar"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Barre section carres rectangulaire.jpg",
+      "description": "Barres carrées et rectangulaires dans un atelier d'usinage.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS62",
+        "Steel bars",
+        "Self-published work"
+      ],
+      "auteur": "Cdang",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barre_section_carres_rectangulaire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Barre_section_carres_rectangulaire.jpg/1280px-Barre_section_carres_rectangulaire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bring reinforcements^ - geograph.org.uk - 7198904.jpg",
+      "description": "Bring reinforcements!",
+      "categories": [
+        "Rebar",
+        "Images from Geograph Britain and Ireland",
+        "Construction in Bristol",
+        "Cumberland Road, Bristol"
+      ],
+      "auteur": "Anthony O'Neil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg/1280px-Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2856,
+      "hauteur": 1960
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Acciaio per armatura.jpg",
+      "description": "Barre d'acciaio per armatura di strutture in cemento armato, a destra il tipo attualmente in uso ad aderenza migliorata",
+      "categories": [
+        "GFDL",
+        "Rebar",
+        "License migration completed",
+        "Photographs taken on 2006-08-07"
+      ],
+      "auteur": "Mattia Campolese",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acciaio_per_armatura.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Acciaio_per_armatura.jpg/1280px-Acciaio_per_armatura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1564,
+      "hauteur": 1032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Carrying steel beams 2.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Carrying",
+        "Steel bars",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2017",
+        "Men at work in Egypt",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2017 in Egypt",
+        "Images from Wiki Loves Africa 2017 Selection"
+      ],
+      "auteur": "Ayman Fouad Khamis khalil",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carrying_steel_beams_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Carrying_steel_beams_2.jpg/1280px-Carrying_steel_beams_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5197,
+      "hauteur": 3442
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Constructiondebris.jpg",
+      "description": "Twisted rebar in construction debris",
+      "categories": [
+        "CC-Zero",
+        "Rebar",
+        "Self-published work",
+        "Construction debris"
+      ],
+      "auteur": "Clump",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Constructiondebris.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Constructiondebris.jpg/1280px-Constructiondebris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3080
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Structural Steel (3972164848).jpg",
+      "description": "Structural steel for the Control and Support Building arrived and was staged for installation that began in September.",
+      "categories": [
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Steel bars",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Steel-profile storage",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Structural_Steel_(3972164848).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Structural_Steel_%283972164848%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Structural_Steel_%283972164848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

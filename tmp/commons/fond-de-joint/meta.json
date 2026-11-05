@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "fond-de-joint",
+    "terme": "le fond de joint",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Cordon de mousse enfoncé dans un joint large avant le mastic pour en régler la profondeur.",
+    "priorite": 3,
+    "requetes": [
+      "backer rod joint",
+      "fond de joint mousse",
+      "backer rod sealant"
+    ],
+    "incompatibles": [
+      "joint-silicone"
+    ],
+    "categoriesCommons": [
+      "Category:Caulking"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:How joint2.jpg",
+      "description": "\"HOW\" (Head Of Wall) Building Joint with incomplete firestop (topcaulking is not yet installed).",
+      "categories": [
+        "Thermal insulation",
+        "Firestops",
+        "Caulking",
+        "Building joints",
+        "Rockwool",
+        "Concrete blocks",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:How_joint2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/How_joint2.jpg/1280px-How_joint2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3430,
+      "hauteur": 2360
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Caulking Tools, Mary Rose - 55129851509.jpg",
+      "description": "(1) Caulking mallet (2) Oakum (3) Pitch (4) Bronze pitch pot",
+      "categories": [
+        "Caulking",
+        "Files from Tim Sheerman-Chase Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (50° N, 2° W)",
+        "Flickr images missing SDC published in",
+        "Collections of the Mary Rose Museum"
+      ],
+      "auteur": "Tim Sheerman-Chase",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caulking_Tools,_Mary_Rose_-_55129851509.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Caulking_Tools%2C_Mary_Rose_-_55129851509.jpg/1280px-Caulking_Tools%2C_Mary_Rose_-_55129851509.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 2916
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Koby Auto tyre sealer.jpg",
+      "description": "Koby tyre sealer antirust cooling explosion proof tyre automatic repairing, Pili, Camarines Sur, Philippines",
+      "categories": [
+        "Tires",
+        "Caulking",
+        "Self-published work"
+      ],
+      "auteur": "Derk29",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Koby_Auto_tyre_sealer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Koby_Auto_tyre_sealer.jpg/1280px-Koby_Auto_tyre_sealer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3096,
+      "hauteur": 4128
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:MaryRose-caulking tools3.JPG",
+      "description": "Caulking tools found on board the carrack Mary Rose .",
+      "categories": [
+        "Taken with Olympus E-500",
+        "Caulking",
+        "Mary Rose Trust donation",
+        "Items with VRTS permission confirmed",
+        "Collections of the Mary Rose Museum"
+      ],
+      "auteur": "Peter Crossman of the Mary Rose Trust",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MaryRose-caulking_tools3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/MaryRose-caulking_tools3.JPG/1280px-MaryRose-caulking_tools3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3222,
+      "hauteur": 2268
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:MaryRose-caulking tools4.JPG",
+      "description": "Caulking tools found on board the carrack Mary Rose .",
+      "categories": [
+        "Taken with Olympus E-500",
+        "Caulking",
+        "Mary Rose Trust donation",
+        "Items with VRTS permission confirmed",
+        "Collections of the Mary Rose Museum"
+      ],
+      "auteur": "Peter Crossman of the Mary Rose Trust",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MaryRose-caulking_tools4.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/MaryRose-caulking_tools4.JPG/1280px-MaryRose-caulking_tools4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2904,
+      "hauteur": 2169
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Munitions Demilitarization Building (19573581842).jpg",
+      "description": "A Blue Grass Chemical Agent-Destruction Pilot Plant laborer places caulk at a Munitions Demilitarization Building exterior door. Once operational, this 143,000 square-foot building will house the equipment and systems that will disassemble the munitions, and remove and neutralize the energetics and chemical agent.",
+      "categories": [
+        "Caulking",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_(19573581842).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_%2819573581842%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_%2819573581842%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    }
+  ]
+}

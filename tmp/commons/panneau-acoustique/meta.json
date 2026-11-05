@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "panneau-acoustique",
+    "terme": "le panneau acoustique",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Panneau absorbant en mousse, fibres ou bois rainuré, fixé au mur ou au plafond pour corriger l'acoustique.",
+    "priorite": 3,
+    "requetes": [
+      "acoustic wall panels",
+      "panneau acoustique mural",
+      "acoustic panels room"
+    ],
+    "categoriesCommons": [
+      "Category:Sound absorbers",
+      "Category:Acoustics"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ceiling of the Nils Ericson bus terminal, Gothenburg 1.jpg",
+      "description": "Ceiling of the Nils Ericson bus terminal on the first day of spring in central Gothenburg, Sweden.",
+      "categories": [
+        "Interior of Nils Ericson terminalen",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Glass ceilings in Sweden",
+        "Sound absorbers",
+        "Images by W.carter, my own favorites"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_of_the_Nils_Ericson_bus_terminal,_Gothenburg_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Ceiling_of_the_Nils_Ericson_bus_terminal%2C_Gothenburg_1.jpg/1280px-Ceiling_of_the_Nils_Ericson_bus_terminal%2C_Gothenburg_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4925,
+      "hauteur": 3283
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Aalto-Acoustics-Lab-Sept-2017.jpg",
+      "description": "Aalto Acoustics Lab in September 2017",
+      "categories": [
+        "Acoustics",
+        "Aalto University",
+        "Laboratories in Finland",
+        "Otaniemi",
+        "Self-published work",
+        "Creeper (plant)",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Vesku345",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aalto-Acoustics-Lab-Sept-2017.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Aalto-Acoustics-Lab-Sept-2017.jpg/1280px-Aalto-Acoustics-Lab-Sept-2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2286,
+      "hauteur": 1759
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:ACOUSTIC RESISTANCE SIMULATOR - NARA - 17421055.jpg",
+      "description": "Scope and content: The original finding aid described this as: Capture Date: 6/19/1974 Photographer: MARTIN BROWN Keywords: Larsen Scan",
+      "categories": [
+        "PD NASA",
+        "Acoustics",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "US National Archives series: Photographs Relating to Agency Activities, Facilities and Personnel",
+        "US National Archives location: other",
+        "Photographs by Martin Brown"
+      ],
+      "auteur": "Martin Brown",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:ACOUSTIC_RESISTANCE_SIMULATOR_-_NARA_-_17421055.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/ACOUSTIC_RESISTANCE_SIMULATOR_-_NARA_-_17421055.jpg/1280px-ACOUSTIC_RESISTANCE_SIMULATOR_-_NARA_-_17421055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6374,
+      "hauteur": 4854
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2015 UEC Track Elite European Championships 137.JPG",
+      "description": "Details der Decke im Velodrome Suisse La production, l'édition ou le partage de ce fichier a été soutenu par le Budget Communautaire de Wikimédia Allemagne . Pour voir tous les fichiers concernés, consultez la catégorie Supported by Wikimedia Deutschland . العربية ∙ বাংলা ∙ Deutsch ∙ English ∙ Esperanto ∙ français ∙ हिन्दी ∙ magyar ∙ Bahasa Indonesia ∙ italiano ∙ 日本語 ∙ македонски ∙ മലയാളം ∙ Bahasa Melayu ∙ Nederlands ∙ português ∙ română ∙ русский ∙ slovenščina ∙ svenska ∙ தமிழ் ∙ українська ∙ 中文 ∙ +/−",
+      "categories": [
+        "2015 UEC Track Elite European Championships",
+        "Velodrome Suisse",
+        "Self-published work",
+        "Supported by Wikimedia Deutschland",
+        "Sound absorbers",
+        "Files by User:Nicola/Radsport/Bahn-EM 2015"
+      ],
+      "auteur": "Nicola",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2015_UEC_Track_Elite_European_Championships_137.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2015_UEC_Track_Elite_European_Championships_137.JPG/1280px-2015_UEC_Track_Elite_European_Championships_137.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:ACOUSTIC RESISTANCE SIMULATOR - NARA - 17421054.jpg",
+      "description": "Scope and content: The original finding aid described this as: Capture Date: 6/19/1974 Photographer: MARTIN BROWN Keywords: Larsen Scan",
+      "categories": [
+        "PD NASA",
+        "Acoustics",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "US National Archives series: Photographs Relating to Agency Activities, Facilities and Personnel",
+        "US National Archives location: other",
+        "Photographs by Martin Brown"
+      ],
+      "auteur": "Martin Brown",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:ACOUSTIC_RESISTANCE_SIMULATOR_-_NARA_-_17421054.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/ACOUSTIC_RESISTANCE_SIMULATOR_-_NARA_-_17421054.jpg/1280px-ACOUSTIC_RESISTANCE_SIMULATOR_-_NARA_-_17421054.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6313,
+      "hauteur": 5028
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ceiling of the Nils Ericson bus terminal, Gothenburg 6.jpg",
+      "description": "Ceiling of the Nils Ericson bus terminal on the first day of spring in central Gothenburg, Sweden.",
+      "categories": [
+        "Interior of Nils Ericson terminalen",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Glass ceilings in Sweden",
+        "Sound absorbers"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_of_the_Nils_Ericson_bus_terminal,_Gothenburg_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ceiling_of_the_Nils_Ericson_bus_terminal%2C_Gothenburg_6.jpg/1280px-Ceiling_of_the_Nils_Ericson_bus_terminal%2C_Gothenburg_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4925,
+      "hauteur": 3002
+    }
+  ]
+}

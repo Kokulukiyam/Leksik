@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "fenetre-oscillo-battante",
+    "terme": "la fenêtre oscillo-battante",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fenêtre qui s'ouvre soit à la française, soit en soufflet selon la position de la poignée.",
+    "priorite": 3,
+    "requetes": [
+      "tilt and turn window",
+      "fenêtre oscillo-battante",
+      "tilt turn window open"
+    ],
+    "incompatibles": [
+      "fenetre",
+      "fenetre-a-soufflet",
+      "fenetre-a-la-francaise"
+    ],
+    "categoriesCommons": [
+      "Category:Tilt and turn windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hotel Terminus - open tilt and turn windows - afternoon golden hour light - Jernbanebakken, Bergen, Norway 2017-10-23 i.jpg",
+      "description": "Open tilt and turn window in Grand Hotel Terminus in Bergen, Norway. View towards Jernbanebakken.",
+      "categories": [
+        "Grand Hotel Terminus, Bergen",
+        "Self-published work",
+        "Windows in Norway",
+        "Roofs in Norway",
+        "Sloped windows in Norway",
+        "Tilt and turn windows"
+      ],
+      "auteur": "Wolfmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hotel_Terminus_-_open_tilt_and_turn_windows_-_afternoon_golden_hour_light_-_Jernbanebakken,_Bergen,_Norway_2017-10-23_i.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hotel_Terminus_-_open_tilt_and_turn_windows_-_afternoon_golden_hour_light_-_Jernbanebakken%2C_Bergen%2C_Norway_2017-10-23_i.jpg/1280px-Hotel_Terminus_-_open_tilt_and_turn_windows_-_afternoon_golden_hour_light_-_Jernbanebakken%2C_Bergen%2C_Norway_2017-10-23_i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A portal.jpg",
+      "description": "a window",
+      "categories": [
+        "Windows",
+        "Self-published work"
+      ],
+      "auteur": "Llgilpin03",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_portal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/A_portal.jpg/1280px-A_portal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Hotel Terminus - open tilt and turn windows - afternoon golden hour light - Jernbanebakken, Bergen, Norway 2017-10-23 a.jpg",
+      "description": "Open tilt and turn window in Grand Hotel Terminus in Bergen, Norway. View towards Jernbanebakken.",
+      "categories": [
+        "Self-published work",
+        "Windows in Norway",
+        "Slate roofs in Norway",
+        "Sloped windows in Norway",
+        "Tilt and turn windows"
+      ],
+      "auteur": "Wolfmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hotel_Terminus_-_open_tilt_and_turn_windows_-_afternoon_golden_hour_light_-_Jernbanebakken,_Bergen,_Norway_2017-10-23_a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Hotel_Terminus_-_open_tilt_and_turn_windows_-_afternoon_golden_hour_light_-_Jernbanebakken%2C_Bergen%2C_Norway_2017-10-23_a.jpg/1280px-Hotel_Terminus_-_open_tilt_and_turn_windows_-_afternoon_golden_hour_light_-_Jernbanebakken%2C_Bergen%2C_Norway_2017-10-23_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A classroom in the Faculty of Architecture, FUASK.jpg",
+      "description": "A classroom in the Faculty of Architecture, FUASK",
+      "categories": [
+        "Ceiling fans",
+        "Windows",
+        "Seats",
+        "Classrooms",
+        "Self-published work",
+        "Images taken by Kambai Akau",
+        "Federal University of Applied Sciences Kachia"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_classroom_in_the_Faculty_of_Architecture,_FUASK.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg/1280px-A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7200,
+      "hauteur": 4800
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Universiteto 7a.JPG",
+      "description": "Vilnius university. The Faculty of History (Universiteto g. 7)",
+      "categories": [
+        "Taken with Sony DSC-W55",
+        "Universiteto Street in Vilnius",
+        "Vilnius University Central Campus",
+        "Self-published work",
+        "Tilt and turn windows",
+        "Vinyl window frames"
+      ],
+      "auteur": "Alma Pater",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Universiteto_7a.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Universiteto_7a.JPG/1280px-Universiteto_7a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:500px photo (247983863).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Nuno Borges",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(247983863).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/500px_photo_%28247983863%29.jpeg/1280px-500px_photo_%28247983863%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

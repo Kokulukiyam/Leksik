@@ -1,0 +1,169 @@
+{
+  "terme": {
+    "id": "pieu",
+    "terme": "le pieu",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Long fût de béton, d'acier ou de bois enfoncé ou coulé profondément dans le sol pour porter un ouvrage, dont on voit la tête dépasser du terrain.",
+    "priorite": 3,
+    "requetes": [
+      "concrete pile heads construction site",
+      "pieux de fondation béton",
+      "pile foundation"
+    ],
+    "incompatibles": [
+      "fondation"
+    ],
+    "categoriesCommons": [
+      "Category:Piles",
+      "Category:Concrete piles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A pile of white silage bales at a farm i Holma 2.jpg",
+      "description": "A pile of white silage bales at a farm i Holma, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Piles",
+        "Holma säteri",
+        "Taken with Canon EOS 600D and Canon EF 40mm F2.8 STM",
+        "Self-published work",
+        "Round silage bales in Sweden",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Farms in Lysekil Municipality"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_pile_of_white_silage_bales_at_a_farm_i_Holma_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/A_pile_of_white_silage_bales_at_a_farm_i_Holma_2.jpg/1280px-A_pile_of_white_silage_bales_at_a_farm_i_Holma_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Barents Center construction site in Haparanda 20231022 004.jpg",
+      "description": "A large water pit in the border area of Tornio, Finland, and Haparanda, Sweden. It stands as a reminder of the now cancelled Barents Center construction project. The idea of the project (construction permit in 2014) was to build a center that would have combined a multipurpose arena, shops, a hotel, and a school, among other things. Seen on the other side of the pit are some of the buildings of the west bank area of Tornio.",
+      "categories": [
+        "Taken with Samsung Galaxy J5 (2016)",
+        "Haparanda",
+        "Suensaari",
+        "Finland-Sweden border",
+        "Pits",
+        "Self-published work",
+        "Finland photographs taken on 2023-10-22",
+        "Ponds in Finland",
+        "Ponds in Sweden",
+        "Sweden photographs taken on 2023-10-22",
+        "Building construction sites in Sweden",
+        "October 2023 in Norrbotten County",
+        "2023 in Haparanda Municipality",
+        "October 2023 in Tornio",
+        "Concrete piles"
+      ],
+      "auteur": "Methem (Mikko J. Putkonen)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barents_Center_construction_site_in_Haparanda_20231022_004.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Barents_Center_construction_site_in_Haparanda_20231022_004.jpg/1280px-Barents_Center_construction_site_in_Haparanda_20231022_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A pile of white silage bales at a farm i Holma 5.jpg",
+      "description": "A pile of white silage bales at a farm i Holma, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Piles",
+        "Holma säteri",
+        "Taken with Canon EOS 600D and Canon EF 40mm F2.8 STM",
+        "Self-published work",
+        "Round silage bales in Sweden",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Farms in Lysekil Municipality"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_pile_of_white_silage_bales_at_a_farm_i_Holma_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/A_pile_of_white_silage_bales_at_a_farm_i_Holma_5.jpg/1280px-A_pile_of_white_silage_bales_at_a_farm_i_Holma_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5125,
+      "hauteur": 3417
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Barents Center construction site in Haparanda 20240630 001.jpg",
+      "description": "A large water pit in the border area of Tornio, Finland, and Haparanda, Sweden. It stands as a reminder of the now cancelled Barents Center construction project. The idea of the project (construction permit in 2014) was to build a center that would have combined a multipurpose arena, shops, a hotel, and a school, among other things. Seen on the other side of the pit are some of the buildings of the west bank area of Tornio.",
+      "categories": [
+        "Taken with Samsung Galaxy J5 (2016)",
+        "Haparanda",
+        "Suensaari",
+        "Finland-Sweden border",
+        "Pits",
+        "Self-published work",
+        "Ponds in Finland",
+        "Ponds in Sweden",
+        "Building construction sites in Sweden",
+        "2024 in Haparanda Municipality",
+        "Finland photographs taken on 2024-06-30",
+        "June 2024 in Norrbotten County",
+        "June 2024 in Tornio",
+        "Concrete piles"
+      ],
+      "auteur": "Mikko J. Putkonen (Methem)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barents_Center_construction_site_in_Haparanda_20240630_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Barents_Center_construction_site_in_Haparanda_20240630_001.jpg/1280px-Barents_Center_construction_site_in_Haparanda_20240630_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bikes in Osaka (27999349927).jpg",
+      "description": "Bikes in Osaka",
+      "categories": [
+        "Piles",
+        "Japan photographs taken on 2018-06-07",
+        "Parked bicycles in Osaka prefecture",
+        "Files with coordinates missing SDC location of creation",
+        "Disorder in Japan",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Bicycles in Osaka"
+      ],
+      "auteur": "Liz Mc from Austin, Texas",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bikes_in_Osaka_(27999349927).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bikes_in_Osaka_%2827999349927%29.jpg/1280px-Bikes_in_Osaka_%2827999349927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Large excavation of the building-project De Hallen, Amsterdam-West - Grote bouwput van De Hallen in de Kinkerbuurt, Amsterdam Oud-West.jpg",
+      "description": "Photo of building in Amsterdam; a large excavation-site and rusty sheet piling on the foreground; it is part of the project De Hallen in the Kinkerbuurt - on the background the houses of the Bellamystraat; free photo of Amsterdam constructions by Fons Heijnsbroek, 19 March 2014.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-GF3",
+        "CC-Zero",
+        "Amsterdam-West",
+        "Concrete columns",
+        "Self-published work",
+        "Concrete casting",
+        "Archaeological excavations in the Netherlands",
+        "Construction excavations",
+        "Netherlands photographs taken on 2014-03-19",
+        "Spring in Amsterdam",
+        "Construction sites in Amsterdam",
+        "Rusty construction materials",
+        "Buildings in Amsterdam-West",
+        "Concrete piles",
+        "Photographs by Fons Heijnsbroek in Amsterdam (2014)",
+        "Kinkerbuurt neighbourhood of Amsterdam, in photos by Fons Heijnsbroek"
+      ],
+      "auteur": "Fons Heijnsbroek",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Large_excavation_of_the_building-project_De_Hallen,_Amsterdam-West_-_Grote_bouwput_van_De_Hallen_in_de_Kinkerbuurt,_Amsterdam_Oud-West.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Large_excavation_of_the_building-project_De_Hallen%2C_Amsterdam-West_-_Grote_bouwput_van_De_Hallen_in_de_Kinkerbuurt%2C_Amsterdam_Oud-West.jpg/1280px-Large_excavation_of_the_building-project_De_Hallen%2C_Amsterdam-West_-_Grote_bouwput_van_De_Hallen_in_de_Kinkerbuurt%2C_Amsterdam_Oud-West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4724,
+      "hauteur": 3543
+    }
+  ]
+}

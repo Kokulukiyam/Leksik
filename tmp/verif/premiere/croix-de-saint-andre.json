@@ -1,0 +1,53 @@
+{
+  "termId": "croix-de-saint-andre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vitrail d'un saint avec une croix en X.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrail, pas une structure."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fresque ovale de saint André portant sa croix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture religieuse, aucun contreventement."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Paroi de roche rouge de Lalibela avec fenêtres en croix et en X.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lalibela, Éthiopie",
+      "note": "Fenêtre taillée dans le roc, pas un contreventement."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Panneau de passage à niveau en croix de Saint-André sur un poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Signalisation routière, pas structurel."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vitrail de saint André avec sa croix en X.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrail."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Peinture d'un apôtre tenant une croix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    }
+  ]
+}

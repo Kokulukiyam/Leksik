@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "sgraffite",
+    "terme": "le sgraffite",
+    "categorie": "Ornement",
+    "definition": "Décor obtenu en grattant une couche d'enduit pour faire apparaître une couche de couleur différente dessous.",
+    "priorite": 3,
+    "requetes": [
+      "sgraffito facade",
+      "sgraffito wall decoration",
+      "sgraffite"
+    ],
+    "incompatibles": [
+      "fresque"
+    ],
+    "categoriesCommons": [
+      "Category:Sgraffito"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Daniel Cox - Graffito in Bayerbach bei Ergoldsbach (DEU).jpg",
+      "description": "Graffito in Bayerbach bei Ergoldsbach (DEU)",
+      "categories": [
+        "Bavaria",
+        "Sgraffito",
+        "Bayerbach bei Ergoldsbach",
+        "Dirndl",
+        "Self-published work"
+      ],
+      "auteur": "Daniel Cox",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Daniel_Cox_-_Graffito_in_Bayerbach_bei_Ergoldsbach_(DEU).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Daniel_Cox_-_Graffito_in_Bayerbach_bei_Ergoldsbach_%28DEU%29.jpg/1280px-Daniel_Cox_-_Graffito_in_Bayerbach_bei_Ergoldsbach_%28DEU%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Paul Haldimann - Sgraffito am Kindergarten Glärnisch.jpg",
+      "description": "Sgraffito am Kindergarten Glärnisch in Wädenswil von Paul Haldimann (17.5.1893 - 26.5.1951), geschaffen 1950, abgebrochen 2019",
+      "categories": [
+        "Sgraffito",
+        "Wädenswil",
+        "Paul Haldimann",
+        "PD-Art (PD-old-70)",
+        "CC-PD-Mark",
+        "PD-Art missing SDC copyright status",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Paul Haldimann († 26.5.1951)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paul_Haldimann_-_Sgraffito_am_Kindergarten_Gl%C3%A4rnisch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Paul_Haldimann_-_Sgraffito_am_Kindergarten_Gl%C3%A4rnisch.jpg/1280px-Paul_Haldimann_-_Sgraffito_am_Kindergarten_Gl%C3%A4rnisch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2999,
+      "hauteur": 3217
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:MMDA-Photos - 2020-05-03 - Hartford Tribune Building Sgraffito.jpg",
+      "description": "Sgraffito and Columns at the Hartford Times Building, Hartford, Connecticut, USA.",
+      "categories": [
+        "Sgraffito",
+        "Hartford Times Building",
+        "Self-published work",
+        "Photos by M.M.Dwyer-Architect"
+      ],
+      "auteur": "M.M.Dwyer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MMDA-Photos_-_2020-05-03_-_Hartford_Tribune_Building_Sgraffito.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/MMDA-Photos_-_2020-05-03_-_Hartford_Tribune_Building_Sgraffito.jpg/1280px-MMDA-Photos_-_2020-05-03_-_Hartford_Tribune_Building_Sgraffito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3001,
+      "hauteur": 2905
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Milano - Chiesa dell'abbazia di Chiaravalle - 2023-09-14 16-48-37 027.jpg",
+      "description": "Seguage di Donato Bramante: Graffiti con viste di Milano , anteriori al 1521. Si trovano nella Sala capitolare dell'Abbazia di Chiaravalle.",
+      "categories": [
+        "Sgraffito",
+        "Donato Bramante",
+        "Self-published work",
+        "Historical images of Milan",
+        "Cultural heritage monuments in Italy with known IDs",
+        "Ancient graffiti in Italy",
+        "Images from Wiki Loves Monuments 2023",
+        "Images from Wiki Loves Monuments 2023 in Italy",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2023 in Italy - Lombardy",
+        "Images from Wiki Loves Monuments 2023 in Italy - religious buildings",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Italy missing SDC location of creation",
+        "Cultural heritage monuments in Italy missing SDC depicts",
+        "Renaissance art in Milan",
+        "Files uploaded via webapp Wiki Loves Monuments Italia - mobile version in 2023",
+        "Images from Wiki Loves Monuments 2023 in Italy - Lombardy - religious buildings",
+        "Abbazia di Chiaravalle (Milan) - Chapter room"
+      ],
+      "auteur": "Viaggiamocela",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Milano_-_Chiesa_dell%27abbazia_di_Chiaravalle_-_2023-09-14_16-48-37_027.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Milano_-_Chiesa_dell%27abbazia_di_Chiaravalle_-_2023-09-14_16-48-37_027.jpg/1280px-Milano_-_Chiesa_dell%27abbazia_di_Chiaravalle_-_2023-09-14_16-48-37_027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:074 Ca n'Ortadó, pl. Sant Ramon 23-24 (Cerdanyola del Vallès), esgrafiat.jpg",
+      "description": "Casa Artado (Cerdanyola del Vallès)",
+      "categories": [
+        "Sgraffito",
+        "Ca n'Ortadó",
+        "Self-published work",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Sgraffito in Catalonia",
+        "Uploaded via Campaign:wlm-es-cat",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts",
+        "Images from Wiki Loves Monuments 2021 in Spain",
+        "Images from Wiki Loves Monuments 2021",
+        "All media supported by Wikimedia España in 2021"
+      ],
+      "auteur": "Enric",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:074_Ca_n%27Ortad%C3%B3,_pl._Sant_Ramon_23-24_(Cerdanyola_del_Vall%C3%A8s),_esgrafiat.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/074_Ca_n%27Ortad%C3%B3%2C_pl._Sant_Ramon_23-24_%28Cerdanyola_del_Vall%C3%A8s%29%2C_esgrafiat.jpg/1280px-074_Ca_n%27Ortad%C3%B3%2C_pl._Sant_Ramon_23-24_%28Cerdanyola_del_Vall%C3%A8s%29%2C_esgrafiat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:La Blanca graffiti 3.jpg",
+      "description": "Spanish colonial graffiti at the Maya site of La Blanca, Peten, Guatemala, bearing the name of Pedro Montañes and the year 1752.",
+      "categories": [
+        "Walls in Guatemala",
+        "Sgraffito",
+        "Taken with Nikon Coolpix L11",
+        "La Blanca, El Petén",
+        "Self-published work",
+        "Graffiti in Guatemala",
+        "18th-century graffiti",
+        "Photos by Simon Burchell"
+      ],
+      "auteur": "Simon Burchell",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_Blanca_graffiti_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Blanca_graffiti_3.jpg/1280px-La_Blanca_graffiti_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "detendeur",
+    "terme": "le détendeur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce vissée sur la bouteille de gaz qui abaisse la pression du gaz avant le tuyau de raccordement.",
+    "priorite": 3,
+    "requetes": [
+      "gas regulator cylinder",
+      "détendeur gaz",
+      "LPG regulator"
+    ],
+    "incompatibles": [
+      "bouteille-de-gaz"
+    ],
+    "categoriesCommons": [
+      "Category:Pressure regulators"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Assembled 'Minidrop' circuitboard.jpg",
+      "description": "Open Source Hardware board to control the flow of microfluidic reagents with air pressure. This board is a key unit of the Minidrop workstation design, published in 2018 https://doi.org/10.1038/s41467-017-02659-x .",
+      "categories": [
+        "Pressure regulators",
+        "Microfluidics",
+        "Do it yourself",
+        "Open hardware",
+        "Self-published work"
+      ],
+      "auteur": "MakerTobey",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Assembled_%27Minidrop%27_circuitboard.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Assembled_%27Minidrop%27_circuitboard.jpg/1280px-Assembled_%27Minidrop%27_circuitboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1614,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Korea Liquefied petroleum gas cylinders.jpg",
+      "description": "Liquefied petroleum gas cylinders",
+      "categories": [
+        "Self-published work",
+        "Liquefied petroleum gas cylinders",
+        "47kg Propane cylinders",
+        "LPG gas automatic changeover regulators"
+      ],
+      "auteur": "Mykim5902",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Korea_Liquefied_petroleum_gas_cylinders.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Korea_Liquefied_petroleum_gas_cylinders.jpg/1280px-Korea_Liquefied_petroleum_gas_cylinders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Industrial pressure regulator.jpg",
+      "description": "Industrial gas pressure regulator",
+      "categories": [
+        "Pressure regulators",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "Alnitak3",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Industrial_pressure_regulator.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Industrial_pressure_regulator.jpg/1280px-Industrial_pressure_regulator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A nitrogen gas cylinder with pressure-relief devices.jpg",
+      "description": "​一个配有减压阀的高纯氮气钢瓶",
+      "categories": [
+        "Nitrogen",
+        "Gas cylinders",
+        "Self-published work",
+        "Gas pressure regulators",
+        "Taken with Nokia N97 mini"
+      ],
+      "auteur": "Seaborg",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_nitrogen_gas_cylinder_with_pressure-relief_devices.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/A_nitrogen_gas_cylinder_with_pressure-relief_devices.jpg/1280px-A_nitrogen_gas_cylinder_with_pressure-relief_devices.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:DAMAGED PRESSURE REGULATOR - NARA - 17469397.jpg",
+      "description": "Scope and content: The original finding aid described this as: Capture Date: 7/15/1977 Photographer: DONALD HUEBLER Keywords: Larsen Scan Location Building No: 5",
+      "categories": [
+        "PD NASA",
+        "Pressure regulators",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "Template Unknown (author)",
+        "US National Archives series: Photographs Relating to Agency Activities, Facilities and Personnel",
+        "US National Archives location: other",
+        "Photographs by Donald Huebler"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:DAMAGED_PRESSURE_REGULATOR_-_NARA_-_17469397.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/DAMAGED_PRESSURE_REGULATOR_-_NARA_-_17469397.jpg/1280px-DAMAGED_PRESSURE_REGULATOR_-_NARA_-_17469397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4885,
+      "hauteur": 6167
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Gas regulator.jpg",
+      "description": "Gas regulator attached to a nitrogen tank, with a three-way outlet controlled by needle valves",
+      "categories": [
+        "Industrial gases",
+        "Gas cylinders",
+        "Self-published work",
+        "PD-self",
+        "Gas pressure regulators",
+        "Taken with Sony Ericsson K800i"
+      ],
+      "auteur": "Rifleman 82",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gas_regulator.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Gas_regulator.jpg/1280px-Gas_regulator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

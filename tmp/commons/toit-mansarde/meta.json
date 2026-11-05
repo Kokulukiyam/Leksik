@@ -1,0 +1,176 @@
+{
+  "terme": {
+    "id": "toit-mansarde",
+    "terme": "le toit mansardé",
+    "categorie": "Toitures",
+    "definition": "Toit à la Mansart, dont chaque versant est brisé en un brisis très raide en bas et un terrasson peu incliné en haut.",
+    "priorite": 3,
+    "requetes": [
+      "mansard roof Paris",
+      "toit mansardé",
+      "incategory:\"Mansard roofs\""
+    ],
+    "incompatibles": [
+      "toiture",
+      "lucarne"
+    ],
+    "categoriesCommons": [
+      "Category:Roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:(1)Ritz-98.jpg",
+      "description": "The Ritz, Randwick, Sydney",
+      "categories": [
+        "Lighting",
+        "Roofs",
+        "The Ritz Cinema",
+        "Self-published work",
+        "5 people"
+      ],
+      "auteur": "Sardaka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(1)Ritz-98.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%281%29Ritz-98.jpg/1280px-%281%29Ritz-98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2456,
+      "hauteur": 3680
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:The Mansard Roof Edward Hopper 1923.jpg",
+      "description": "The Mansard Roof , watercolor over graphite on paper, 13 7/8 x 20 in. (35.2 x 50.8 cm)",
+      "categories": [
+        "1923 paintings",
+        "Paintings in the Brooklyn Museum",
+        "PD US expired",
+        "PD-US missing SDC copyright status",
+        "Watercolor paintings by Edward Hopper"
+      ],
+      "auteur": "Edward Hopper",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Mansard_Roof_Edward_Hopper_1923.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_Mansard_Roof_Edward_Hopper_1923.jpg/1280px-The_Mansard_Roof_Edward_Hopper_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1410
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:École Militaire (Paris) - Detail of the central pavilion mansard roof, dormers, and imperial coat of arms relief.jpg",
+      "description": "Close-up architectural view highlighting the symmetrical mansard roof configuration of the central pavilion, showing two circular oeil-de-boeuf window dormers framing the monumental French Imperial Eagle coat of arms relief flanked by allegorical stone figures sitting along the upper cornice.",
+      "categories": [
+        "Base Mérimée",
+        "École militaire",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments 2026 in France",
+        "Images of France by I.Mahesh",
+        "Images by User:I.Mahesh"
+      ],
+      "auteur": "iMahesh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%89cole_Militaire_(Paris)_-_Detail_of_the_central_pavilion_mansard_roof,_dormers,_and_imperial_coat_of_arms_relief.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%C3%89cole_Militaire_%28Paris%29_-_Detail_of_the_central_pavilion_mansard_roof%2C_dormers%2C_and_imperial_coat_of_arms_relief.jpg/1280px-%C3%89cole_Militaire_%28Paris%29_-_Detail_of_the_central_pavilion_mansard_roof%2C_dormers%2C_and_imperial_coat_of_arms_relief.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5347,
+      "hauteur": 3007
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Incendie hôtel Lambert Paris 2.jpg",
+      "description": "Détail des destructions subies par le toit de l' Hôtel Lambert à Paris, lors de l'incendie de la nuit du 9 au 10 juillet 2013.",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "CC-Zero",
+        "Fire at hôtel Lambert",
+        "Self-published work",
+        "Dormer windows in Paris",
+        "Slate roofs in Paris",
+        "Damaged roofs in France",
+        "Brick chimneys in France",
+        "Mansards in Paris",
+        "France photographs taken on 2013-07-12",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Incendie_h%C3%B4tel_Lambert_Paris_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Incendie_h%C3%B4tel_Lambert_Paris_2.jpg/1280px-Incendie_h%C3%B4tel_Lambert_Paris_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3095,
+      "hauteur": 2060
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:École Militaire (Paris) - Pavillon de la Cavalerie - Mansard roof, central window, and imperial eagle pediment detail.jpg",
+      "description": "Close-up architectural view highlighting the upper facade of the Cavalry Wing, featuring its slate mansard roof, a central stone-framed dormer window, and an intricate triangular pediment sculpted with a prominent imperial eagle motif from the Second Empire expansion.",
+      "categories": [
+        "Base Mérimée",
+        "École militaire",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments with different SDC participant in",
+        "Images from Wiki Loves Monuments 2026 in France",
+        "Images of France by I.Mahesh",
+        "Images by User:I.Mahesh"
+      ],
+      "auteur": "iMahesh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%89cole_Militaire_(Paris)_-_Pavillon_de_la_Cavalerie_-_Mansard_roof,_central_window,_and_imperial_eagle_pediment_detail.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/%C3%89cole_Militaire_%28Paris%29_-_Pavillon_de_la_Cavalerie_-_Mansard_roof%2C_central_window%2C_and_imperial_eagle_pediment_detail.jpg/1280px-%C3%89cole_Militaire_%28Paris%29_-_Pavillon_de_la_Cavalerie_-_Mansard_roof%2C_central_window%2C_and_imperial_eagle_pediment_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Paris, caserne Château-Landon 06.jpg",
+      "description": "Caserne de sapeurs-pompiers Château-Landon, rue de l'Aqueduc et rue Philippe-de-Girard : comble de l'aile droite.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "Mansards",
+        "Roofs in Paris",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Taken with Canon EF 100mm F2.8 Macro USM",
+        "Ancienne caserne Château-Landon",
+        "Self-published work",
+        "Files by User:Coyau",
+        "Information field template with formatting",
+        "Dormer windows in Paris",
+        "Street lights in Paris",
+        "Slate roofs in Paris",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)"
+      ],
+      "auteur": "Coyau",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paris,_caserne_Ch%C3%A2teau-Landon_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Paris%2C_caserne_Ch%C3%A2teau-Landon_06.jpg/1280px-Paris%2C_caserne_Ch%C3%A2teau-Landon_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

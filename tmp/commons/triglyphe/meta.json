@@ -1,0 +1,161 @@
+{
+  "terme": {
+    "id": "triglyphe",
+    "terme": "le triglyphe",
+    "categorie": "Ornement",
+    "definition": "Panneau rectangulaire gravé de rainures verticales, qui alterne avec les métopes dans la frise dorique.",
+    "priorite": 3,
+    "requetes": [
+      "triglyphs metopes",
+      "doric frieze triglyph",
+      "triglyphe"
+    ],
+    "incompatibles": [
+      "metope",
+      "frise",
+      "entablement"
+    ],
+    "categoriesCommons": [
+      "Category:Triglyphs",
+      "Category:Doric friezes",
+      "Category:Doric order"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Important Date (5974272396).jpg",
+      "description": "Important Date",
+      "categories": [
+        "Taken with Nikon Coolpix S6100",
+        "Triglyphs",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Bronze statues in Portugal",
+        "Angels in Portugal",
+        "Sculptures of plants in Portugal",
+        "Photographs by Michael Coghlan",
+        "Files with coordinates missing SDC location of creation",
+        "Portugal photographs taken on 2011-07-01",
+        "July 2011 in Lisbon",
+        "Bird control spikes in Portugal",
+        "Sculptures of palm fronds",
+        "Sculptures of people holding laurel wreaths",
+        "Details of Monumento aos Restauradores"
+      ],
+      "auteur": "Michael Coghlan from Adelaide, Australia",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Important_Date_(5974272396).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Important_Date_%285974272396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Grave of the Popescu Family in the Bellu Cemetery in Bucharest, Romania (09).jpg",
+      "description": "Grave of the Popescu Family in the Bellu Cemetery in Bucharest, Romania",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Reliefs in the Bellu Cemetery",
+        "Metopes in Romania",
+        "December 2023 in Bucharest",
+        "Egg and dart in Romania",
+        "Acroterion in the Bellu Cemetery",
+        "Crosses in the Bellu Cemetery",
+        "Pediments in the Bellu Cemetery",
+        "Plaques in the Bellu Cemetery",
+        "19th-century reliefs in Bucharest",
+        "Triglyphs in Romania",
+        "Doric friezes",
+        "Architectural dates in Bucharest",
+        "Friezes in Bucharest",
+        "Neoclassical reliefs in Bucharest",
+        "Inscriptions in the Bellu Cemetery",
+        "Grave of the Popescu Family"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grave_of_the_Popescu_Family_in_the_Bellu_Cemetery_in_Bucharest,_Romania_(09).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Grave_of_the_Popescu_Family_in_the_Bellu_Cemetery_in_Bucharest%2C_Romania_%2809%29.jpg/1280px-Grave_of_the_Popescu_Family_in_the_Bellu_Cemetery_in_Bucharest%2C_Romania_%2809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3167,
+      "hauteur": 5021
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:The Doric columns of the Propylaea of Athens on March 5, 2020.jpg",
+      "description": "The Doric columns of the Propylaea of Athens on March 5, 2020. West side.",
+      "categories": [
+        "Self-published work",
+        "Doric columns in Greece",
+        "Files with coordinates missing SDC location of creation",
+        "Western side of the Propylaea of Athens",
+        "Greece photographs taken on 2020-03-05",
+        "North wing of the Propylaea",
+        "Doric capitals in Athens",
+        "Doric order"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Doric_columns_of_the_Propylaea_of_Athens_on_March_5,_2020.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Doric_columns_of_the_Propylaea_of_Athens_on_March_5%2C_2020.jpg/1280px-The_Doric_columns_of_the_Propylaea_of_Athens_on_March_5%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Miersch, Kierch Ornament.jpg",
+      "description": "D'Triglyphenfries mat Rosetten a Schofsbéckschierbelen um Portal vun der Méchelskierch zu Miersch . Driwwer waacht d'A vun Eiser Här.",
+      "categories": [
+        "Capitals (architecture) in Luxembourg",
+        "Pediments in Luxembourg",
+        "July 2014 Luxembourg photographs",
+        "Taken with Canon PowerShot G15",
+        "Triglyphs",
+        "Église Saint-Michel Mersch",
+        "Uploaded with VicuñaUploader",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (49° N, 6° E)"
+      ],
+      "auteur": "Jwh",
+      "licence": "CC BY-SA 3.0 lu",
+      "lien": "https://commons.wikimedia.org/wiki/File:Miersch,_Kierch_Ornament.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Miersch%2C_Kierch_Ornament.jpg/1280px-Miersch%2C_Kierch_Ornament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3438,
+      "hauteur": 2624
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:02 2020 Grecia photo Paolo Villa FO199994 (Olimpia parco archeologico - fregio di triglifi e metope di ordine dorico del Tempio di Era - - frieze of triglyphs and Doric order metopes from the Temple of Era).jpg",
+      "description": "02 2020 Grecia photo Paolo Villa (Olimpia parco archeologico - fregio di triglifi e metope di ordine dorico del Tempio di Era ) 02 2020 Greece photo Paolo Villa (Olympia archaeological park - frieze of triglyphs and Doric order metopes from the Temple of Era) PAOLO VILLA VERONA ITALY (first edition commons.wikimedia.org)",
+      "categories": [
+        "Temple of Hera in Olympia",
+        "Self-published work",
+        "Doric friezes",
+        "Friezes in Olympia"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:02_2020_Grecia_photo_Paolo_Villa_FO199994_(Olimpia_parco_archeologico_-_fregio_di_triglifi_e_metope_di_ordine_dorico_del_Tempio_di_Era_-_-_frieze_of_triglyphs_and_Doric_order_metopes_from_the_Temple_of_Era).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/02_2020_Grecia_photo_Paolo_Villa_FO199994_%28Olimpia_parco_archeologico_-_fregio_di_triglifi_e_metope_di_ordine_dorico_del_Tempio_di_Era_-_-_frieze_of_triglyphs_and_Doric_order_metopes_from_the_Temple_of_Era%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Kleitias - ABV 77 1 - compendium of Greek mythology - Firenze MAN 4209 - 04 (cropped).jpg",
+      "description": "object type / vase shape: attic black figure volute-krater, the „François Vase“ - description: compendium of Greek mythology, all figures and many objects with name inscriptions: -Trojan myth: the gods coming to the wedding of Peleus and Thetis; chariot race at the funerary games of Patroklos; Ajax carrying to dead body of Achilles - Kalydonian boar hunt - Theseus on Crete with Ariadne - centauromachy - return of Hephaistos, led back to Olympos by Dionysos, with satyrs and maenads - Pygmies fighting cranes - potnia theron - production place: Athens - potter: Ergotimos (signed) - painter: Kleit",
+      "categories": [
+        "Self-published work",
+        "Extracted images",
+        "Doric order",
+        "François vase - Details"
+      ],
+      "auteur": "ArchaiOptix",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kleitias_-_ABV_77_1_-_compendium_of_Greek_mythology_-_Firenze_MAN_4209_-_04_(cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kleitias_-_ABV_77_1_-_compendium_of_Greek_mythology_-_Firenze_MAN_4209_-_04_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1195,
+      "hauteur": 1085
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "cloison-sanitaire",
+    "terme": "la cloison sanitaire",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Panneaux rigides surélevés du sol qui séparent les cabines de WC dans les toilettes collectives.",
+    "priorite": 3,
+    "requetes": [
+      "toilet partitions public restroom",
+      "cabine sanitaire cloison",
+      "toilet cubicles"
+    ],
+    "incompatibles": [
+      "cloison"
+    ],
+    "categoriesCommons": [
+      "Category:Public toilets"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2003-08-22 A-men.jpg",
+      "description": "Someone vandalised the Men's restroom on a beach in Chicago by adding an \"A\" in front of the \"MEN\". Editing: Adjusted for slight lens barrel distortion, cropped, and slightly adjusted levels.",
+      "categories": [
+        "Public toilets",
+        "GFDL",
+        "Taken with Nikon Coolpix 5700",
+        "License migration redundant",
+        "Vandalism in the United States",
+        "Self-published work",
+        "Toilets in the United States",
+        "August 2003 in Chicago",
+        "Files by User:Specious"
+      ],
+      "auteur": "Ildar Sagdejev ( Specious )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2003-08-22_A-men.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2003-08-22_A-men.jpg/1280px-2003-08-22_A-men.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1581,
+      "hauteur": 1917
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Changi Airport Accessible Toiet.JPG",
+      "description": "シンガポールチャンギ国際空港の車いす対応トイレ。ドアが日本、韓国、台湾で主流のスライド式ではなく、開き戸である。",
+      "categories": [
+        "Public toilets",
+        "Taken with GE C1233",
+        "Self-published work",
+        "Toilets in Singapore",
+        "2014 at Singapore Changi Airport",
+        "Accessible toilet pictograms",
+        "Signs in Singapore Changi Airport"
+      ],
+      "auteur": "Akinori Takemoto",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Changi_Airport_Accessible_Toiet.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Changi_Airport_Accessible_Toiet.JPG/1280px-Changi_Airport_Accessible_Toiet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bathroom Mural.jpg",
+      "description": "Murals inside the women’s public restroom at Chicano Park, Barrio Logan, 2024.",
+      "categories": [
+        "Public toilets",
+        "Murals",
+        "Self-published work"
+      ],
+      "auteur": "Purplestitch",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bathroom_Mural.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Bathroom_Mural.jpg/1280px-Bathroom_Mural.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Baños Públicos - Plaza de Maipú.jpg",
+      "description": "Los baños públicos gratuitos ubicados en Chacabuco con Alberto Llona, en la Plaza de Armas de Maipú, construidos durante la gestión del alcalde Roberto Sepúlveda. Maipú, Santiago de Chile, 29 de septiembre de 2011.",
+      "categories": [
+        "Public toilets",
+        "Plaza de Armas de Maipú",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Nokia C3-00"
+      ],
+      "auteur": "Jorgebarrios",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ba%C3%B1os_P%C3%BAblicos_-_Plaza_de_Maip%C3%BA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ba%C3%B1os_P%C3%BAblicos_-_Plaza_de_Maip%C3%BA.jpg/1280px-Ba%C3%B1os_P%C3%BAblicos_-_Plaza_de_Maip%C3%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Betschdorf Toilets 2.jpg",
+      "description": "Eine öffentliche Toilette in Betschdorf, liegt nahe der Église Saint-Jean-Baptiste",
+      "categories": [
+        "Public toilets",
+        "Toilets",
+        "Self-published work",
+        "On OSM",
+        "Tagging in France",
+        "Files with coordinates missing SDC location of creation (48° N, 7° E)"
+      ],
+      "auteur": "Emilius123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betschdorf_Toilets_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Betschdorf_Toilets_2.jpg/1280px-Betschdorf_Toilets_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Archaeological site of Philippi BW 2017-10-05 13-05-24.jpg",
+      "description": "site de Philippes, latrines publiques romaines",
+      "categories": [
+        "Public toilets",
+        "Taken with Pentax K-3",
+        "Uploaded with VicuñaUploader",
+        "Files with coordinates missing SDC location of creation",
+        "Greece photographs taken on 2017-10-05",
+        "Ancient Roman latrinae in Philippoi",
+        "Photographs by User:Berthold Werner/Griechenland/Philippi"
+      ],
+      "auteur": "Berthold Werner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Archaeological_site_of_Philippi_BW_2017-10-05_13-05-24.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Archaeological_site_of_Philippi_BW_2017-10-05_13-05-24.jpg/1280px-Archaeological_site_of_Philippi_BW_2017-10-05_13-05-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    }
+  ]
+}

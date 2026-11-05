@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "soupirail",
+    "terme": "le soupirail",
+    "categorie": "Façade et ouvertures",
+    "definition": "Petite ouverture au ras du sol, souvent grillagée, qui éclaire et aère une cave.",
+    "priorite": 3,
+    "requetes": [
+      "basement window grille street level",
+      "soupirail cave",
+      "cellar window grate"
+    ],
+    "categoriesCommons": [
+      "Category:Cellar windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Nikiszowiec 109.JPG",
+      "description": "Janów-Nikiszowiec, Katowice",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "Nikiszowiec",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Rectangular windows",
+        "Segment arch windows",
+        "Windows in Silesian Voivodeship",
+        "Oriel windows in Poland",
+        "Cellar windows",
+        "Arch windows in Poland",
+        "Brick walls with ornamental brickworks",
+        "Brick window arches"
+      ],
+      "auteur": "Piotrus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nikiszowiec_109.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Nikiszowiec_109.JPG/1280px-Nikiszowiec_109.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Nikiszowiec 097.JPG",
+      "description": "Janów-Nikiszowiec, Katowice",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "Nikiszowiec",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Rectangular windows",
+        "Windows in Silesian Voivodeship",
+        "Cellar windows"
+      ],
+      "auteur": "Piotrus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nikiszowiec_097.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Nikiszowiec_097.JPG/1280px-Nikiszowiec_097.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Nikiszowiec 116.JPG",
+      "description": "Janów-Nikiszowiec, Katowice",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "Nikiszowiec",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Segment arch windows",
+        "Facades in Poland",
+        "Windows in Silesian Voivodeship",
+        "Brick facades",
+        "Oriel windows in Poland",
+        "Cellar windows",
+        "Arch gates"
+      ],
+      "auteur": "Piotrus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nikiszowiec_116.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Nikiszowiec_116.JPG/1280px-Nikiszowiec_116.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hotel Eden - Sala de Máquinas - Ventana.JPG",
+      "description": "Ventana de la sala de máquinas del Edén Hotel.",
+      "categories": [
+        "Eden Hotel en La Falda, Provincia de Córdoba, Argentina",
+        "Taken with Sony DSC-W150",
+        "Rectangular windows",
+        "Windows in Argentina",
+        "2013 in Córdoba Province, Argentina",
+        "Cellar windows",
+        "January 2013 Argentina photographs"
+      ],
+      "auteur": "Banfield",
+      "licence": "CC BY-SA 2.5 ar",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hotel_Eden_-_Sala_de_M%C3%A1quinas_-_Ventana.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hotel_Eden_-_Sala_de_M%C3%A1quinas_-_Ventana.JPG/1280px-Hotel_Eden_-_Sala_de_M%C3%A1quinas_-_Ventana.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dritare sopraluce në Banesën në Korçë.jpg",
+      "description": "Pamje e dritares sopraluce e katit nentokë, të vilës eklektike në Korçë",
+      "categories": [
+        "Cellar windows",
+        "CHwB Albania archives",
+        "Buildings in Korçë"
+      ],
+      "auteur": "CHwB Albania employee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dritare_sopraluce_n%C3%AB_Banes%C3%ABn_n%C3%AB_Kor%C3%A7%C3%AB.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Dritare_sopraluce_n%C3%AB_Banes%C3%ABn_n%C3%AB_Kor%C3%A7%C3%AB.jpg/1280px-Dritare_sopraluce_n%C3%AB_Banes%C3%ABn_n%C3%AB_Kor%C3%A7%C3%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:MuensterZwingerKellerfenster.jpg",
+      "description": "Tag des offenen Denkmals 2006: Kellerfenster im Zwinger in Münster, Deutschland",
+      "categories": [
+        "Windows in Germany",
+        "Zwinger (Münster)",
+        "Rectangular windows",
+        "Cellar windows",
+        "Tag des offenen Denkmals in Münster (Westfalen) 2006"
+      ],
+      "auteur": "Jürgen Melzer",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:MuensterZwingerKellerfenster.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/MuensterZwingerKellerfenster.jpg/1280px-MuensterZwingerKellerfenster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    }
+  ]
+}

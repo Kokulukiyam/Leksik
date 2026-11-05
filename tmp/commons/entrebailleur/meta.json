@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "entrebailleur",
+    "terme": "l'entrebâilleur",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Chaîne ou bras métallique qui limite l'ouverture d'une porte pour voir qui se présente.",
+    "priorite": 3,
+    "requetes": [
+      "door chain",
+      "entrebâilleur",
+      "door chain lock"
+    ],
+    "incompatibles": [
+      "porte-d-entree"
+    ],
+    "categoriesCommons": [
+      "Category:Door chains",
+      "Category:Door security"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Door chain.JPG",
+      "description": "Chaînes de porte",
+      "categories": [
+        "Taken with Canon PowerShot A3100 IS",
+        "Door chains",
+        "Photographs taken on 2015-04-05"
+      ],
+      "auteur": "Santeri Viinamäki",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_chain.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Door_chain.JPG/1280px-Door_chain.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3732,
+      "hauteur": 2524
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Nieupoważnionym wstęp wzbroniony (ubt).jpg",
+      "description": "A door with a sign No unauthorized access in Gdańsk , Poland",
+      "categories": [
+        "Taken with Canon PowerShot A560",
+        "Polish-language signs",
+        "Segmental arches",
+        "Door security",
+        "Brick arches",
+        "Photographs by tsca",
+        "Rectangular signs",
+        "Security signs",
+        "Brown doors",
+        "Doors with writing",
+        "Wooden doors in Poland",
+        "2009 in Gdańsk",
+        "Closed doors",
+        "Trespassing prohibition signs in Poland",
+        "Arch doors",
+        "Metal signs",
+        "Doors in Gdańsk",
+        "Employee-only signs"
+      ],
+      "auteur": "Tomasz Sienicki [user: tsca , mail: tomasz.sienicki at gmail.com]",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nieupowa%C5%BCnionym_wst%C4%99p_wzbroniony_(ubt).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Nieupowa%C5%BCnionym_wst%C4%99p_wzbroniony_%28ubt%29.jpg/1280px-Nieupowa%C5%BCnionym_wst%C4%99p_wzbroniony_%28ubt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2202,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Smile -) (2835577365).jpg",
+      "description": "smile :-)",
+      "categories": [
+        "Door chains",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Martin Fisch from Wiesbaden, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Smile_-)_(2835577365).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Smile_-%29_%282835577365%29.jpg/1280px-Smile_-%29_%282835577365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1624,
+      "hauteur": 1293
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tuerkette 01 (fcm).jpg",
+      "description": "Bildinhalt: Eingehängte Türkette an weißer Tür Aufnahmeort: Baden-Baden, Deutschland",
+      "categories": [
+        "Taken with Canon EOS 600D",
+        "Door chains",
+        "Self-published work",
+        "Images by Frank C. Müller",
+        "Photographs taken on 2015-05-18"
+      ],
+      "auteur": "Photographie : Frank C. Müller , Baden-Baden",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tuerkette_01_(fcm).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Tuerkette_01_%28fcm%29.jpg/1280px-Tuerkette_01_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3050,
+      "hauteur": 3975
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dortmund, Deutsche Bundesbank (2).jpg",
+      "description": "Lieferanten-Zufahrt zur Blick Dortmunder Filiale der Deutschen Bundesbank, schräg gegenüber dem Johannes-Hospital.",
+      "categories": [
+        "Iron gates in Germany",
+        "Stop signs in Germany",
+        "Door security",
+        "Deutsche Bundesbank Dortmund",
+        "Self-published work",
+        "Metal doors in North Rhine-Westphalia",
+        "Metal gates in North Rhine-Westphalia"
+      ],
+      "auteur": "Joehawkins",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dortmund,_Deutsche_Bundesbank_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Dortmund%2C_Deutsche_Bundesbank_%282%29.jpg/1280px-Dortmund%2C_Deutsche_Bundesbank_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Old white wall and door chain.jpg",
+      "description": "Taken in Syracuse, New York in 2013.",
+      "categories": [
+        "Door chains",
+        "White walls",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2013 in Syracuse, New York",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Michael Scialdone",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_white_wall_and_door_chain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Old_white_wall_and_door_chain.jpg/1280px-Old_white_wall_and_door_chain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2196,
+      "hauteur": 2928
+    }
+  ]
+}

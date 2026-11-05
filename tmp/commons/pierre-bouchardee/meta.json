@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "pierre-bouchardee",
+    "terme": "la pierre bouchardée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre dont la face a été piquetée à la boucharde, ce qui lui donne une surface finement grêlée.",
+    "priorite": 3,
+    "requetes": [
+      "bush hammered granite",
+      "pierre bouchardée",
+      "bush hammered stone surface"
+    ],
+    "incompatibles": [
+      "pierre-de-taille",
+      "granite",
+      "beton-boucharde"
+    ],
+    "categoriesCommons": [
+      "Category:Stone textures"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blue bumpy stone texture (01).jpg",
+      "description": "Texture de pierre.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Stone textures",
+        "Photos by User:M0tty",
+        "Photo challenge/2014 - March - Surface textures",
+        "Blue textures"
+      ],
+      "auteur": "M0tty",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_bumpy_stone_texture_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Blue_bumpy_stone_texture_%2801%29.jpg/1280px-Blue_bumpy_stone_texture_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5198,
+      "hauteur": 3462
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Blue stone texture with vertical stripes (01).jpg",
+      "description": "Texture de pierre.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Stone textures",
+        "Photos by User:M0tty",
+        "Photo challenge/2014 - March - Surface textures",
+        "Blue textures",
+        "Gray textures"
+      ],
+      "auteur": "M0tty",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_stone_texture_with_vertical_stripes_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Blue_stone_texture_with_vertical_stripes_%2801%29.jpg/1280px-Blue_stone_texture_with_vertical_stripes_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3496,
+      "hauteur": 2351
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cova Tallada, detall.JPG",
+      "description": "Cova Tallada, detall.",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Cova Tallada",
+        "Self-published work",
+        "Stone textures"
+      ],
+      "auteur": "Joanbanjo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cova_Tallada,_detall.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Cova_Tallada%2C_detall.JPG/1280px-Cova_Tallada%2C_detall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Crete texture rusty.jpg",
+      "description": "Image title: Crete texture rusty Image from Public domain images website, http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/concrete-texture-public-domain-images-pictures/crete-texture-rusty.jpg.html",
+      "categories": [
+        "PD-author",
+        "Images uploaded by Fæ",
+        "Stone textures",
+        "Public-domain-image.com",
+        "Rusty textures",
+        "Rusty parts"
+      ],
+      "auteur": "Georges Grondin",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crete_texture_rusty.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Crete_texture_rusty.jpg/1280px-Crete_texture_rusty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Chalkboard Texture.jpg",
+      "description": "Blank Chalkboard Texture",
+      "categories": [
+        "Self-published work",
+        "Stone textures",
+        "Green textures",
+        "Wall textures"
+      ],
+      "auteur": "JOGOS Public Assets",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chalkboard_Texture.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Chalkboard_Texture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 831
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Crystals P3231366.JPG",
+      "description": "",
+      "categories": [
+        "Taken with Olympus E-510",
+        "Crystals",
+        "Media lacking a description",
+        "Self-published work",
+        "PD-self",
+        "Stone textures"
+      ],
+      "auteur": "Roman Köhler",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crystals_P3231366.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Crystals_P3231366.JPG/1280px-Crystals_P3231366.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

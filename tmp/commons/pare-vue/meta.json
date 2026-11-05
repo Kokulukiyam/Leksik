@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "pare-vue",
+    "terme": "le pare-vue",
+    "categorie": "Façade et ouvertures",
+    "definition": "Panneau opaque ou translucide séparant deux balcons ou terrasses voisins pour masquer la vue.",
+    "priorite": 3,
+    "requetes": [
+      "balcony privacy screen divider",
+      "pare-vue balcon",
+      "brise-vue séparatif balcon"
+    ],
+    "incompatibles": [
+      "balcon"
+    ],
+    "categoriesCommons": [
+      "Category:Fences"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:20150924 Bretagne PointeDuRaz fence DSC07022-2 PtrQs.jpg",
+      "description": "Fence battered by atlantic storms, Pointe du Raz, Brittany/France",
+      "categories": [
+        "Pointe du Raz",
+        "Taken with Sony DSLR-A900",
+        "Fences",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Files by User:PtrQs",
+        "QIC by usr:PtrQs",
+        "Photographs taken with Minolta AF Zoom 28-70mm F2.8 G"
+      ],
+      "auteur": "PtrQs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20150924_Bretagne_PointeDuRaz_fence_DSC07022-2_PtrQs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/20150924_Bretagne_PointeDuRaz_fence_DSC07022-2_PtrQs.jpg/1280px-20150924_Bretagne_PointeDuRaz_fence_DSC07022-2_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5485,
+      "hauteur": 3085
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2012년 전선에 서다 the frontline (8596431313).jpg",
+      "description": "중부전선 철책 Iron fences on the frontline",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Fences",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by the Republic of Korea Armed Forces",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "대한민국 국군 Republic of Korea Armed Forces",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2012%EB%85%84_%EC%A0%84%EC%84%A0%EC%97%90_%EC%84%9C%EB%8B%A4_the_frontline_(8596431313).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2012%EB%85%84_%EC%A0%84%EC%84%A0%EC%97%90_%EC%84%9C%EB%8B%A4_the_frontline_%288596431313%29.jpg/1280px-2012%EB%85%84_%EC%A0%84%EC%84%A0%EC%97%90_%EC%84%9C%EB%8B%A4_the_frontline_%288596431313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 2756
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:500px photo (93220949).jpeg",
+      "description": "500px provided description: [#landscape ,#winter ,#color ,#cold ,#nature ,#sun ,#light ,#road ,#film ,#snow ,#village ,#broken ,#border ,#zenit ,#gelios ,#toning ,#brock ,#2014 ,#2014_ ,#g44-2]",
+      "categories": [
+        "Fences",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Vad 7",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(93220949).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/500px_photo_%2893220949%29.jpeg/1280px-500px_photo_%2893220949%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1119
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A beautiful street.jpg",
+      "description": "Obodo mara mma",
+      "categories": [
+        "Fences",
+        "Streets in Nigeria",
+        "Self-published work",
+        "Black and white photographs of buildings",
+        "Images from Wiki Loves Africa 2019",
+        "Fences in Nigeria",
+        "Images from Wiki Loves Africa 2019 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2019 in Nigeria"
+      ],
+      "auteur": "Factual Evolution Media",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_beautiful_street.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/A_beautiful_street.jpg/1280px-A_beautiful_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1676,
+      "hauteur": 2235
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:500px photo (49750466).jpeg",
+      "description": "500px provided description: Untitled [#sky ,#tower ,#black and white ,#photo ,#subway ,#bell ,#photography ,#wires ,#enclosure ,#original ,#imagourbis]",
+      "categories": [
+        "Black and white photographs",
+        "Fences",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Emanuele Meschini",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(49750466).jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/500px_photo_%2849750466%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 853
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:44359515505 - Flickr - Noel Feans.jpg",
+      "description": "",
+      "categories": [
+        "Fog",
+        "Fences",
+        "Media lacking a description",
+        "Unidentified trees",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs taken on 2018-04-18",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Noel Feans",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:44359515505_-_Flickr_-_Noel_Feans.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/44359515505_-_Flickr_-_Noel_Feans.jpg/1280px-44359515505_-_Flickr_-_Noel_Feans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7487,
+      "hauteur": 3903
+    }
+  ]
+}

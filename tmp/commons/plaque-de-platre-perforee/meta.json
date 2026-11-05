@@ -1,0 +1,89 @@
+{
+  "terme": {
+    "id": "plaque-de-platre-perforee",
+    "terme": "la plaque de plâtre perforée",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Plaque de plâtre percée d'un réseau régulier de petits trous, utilisée en plafond pour absorber le bruit.",
+    "priorite": 3,
+    "requetes": [
+      "perforated gypsum acoustic ceiling",
+      "plafond plâtre perforé",
+      "perforated plasterboard ceiling"
+    ],
+    "incompatibles": [
+      "plaque-de-platre",
+      "faux-plafond-en-plaques-de-platre"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Apalit station viaducts June 20 2026 Sampaga San Vicente construction 01.jpg",
+      "description": "Apalit railway station elevated dual-track elevated viaduct to seamlessly connect 1,435 mm standard-gauge railway 2-story A-2 level station passenger terminal",
+      "categories": [
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Construction of Apalit station"
+      ],
+      "auteur": "P1898",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apalit_station_viaducts_June_20_2026_Sampaga_San_Vicente_construction_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Apalit_station_viaducts_June_20_2026_Sampaga_San_Vicente_construction_01.jpg/1280px-Apalit_station_viaducts_June_20_2026_Sampaga_San_Vicente_construction_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3175,
+      "hauteur": 2899
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Apalit station viaducts June 20 2026 Sampaga San Vicente construction 03.jpg",
+      "description": "Apalit railway station elevated dual-track elevated viaduct to seamlessly connect 1,435 mm standard-gauge railway 2-story A-2 level station passenger terminal",
+      "categories": [
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Construction of Apalit station"
+      ],
+      "auteur": "P1898",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apalit_station_viaducts_June_20_2026_Sampaga_San_Vicente_construction_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Apalit_station_viaducts_June_20_2026_Sampaga_San_Vicente_construction_03.jpg/1280px-Apalit_station_viaducts_June_20_2026_Sampaga_San_Vicente_construction_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3605,
+      "hauteur": 2896
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Apalit station & viaducts June 20 2026 Sampaga San Vicente construction 03.jpg",
+      "description": "Apalit railway station elevated dual-track elevated viaduct to seamlessly connect 1,435 mm standard-gauge railway 2-story A-2 level station passenger terminal",
+      "categories": [
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Construction of Apalit station"
+      ],
+      "auteur": "P1898",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apalit_station_%26_viaducts_June_20_2026_Sampaga_San_Vicente_construction_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Apalit_station_%26_viaducts_June_20_2026_Sampaga_San_Vicente_construction_03.jpg/1280px-Apalit_station_%26_viaducts_June_20_2026_Sampaga_San_Vicente_construction_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3040,
+      "hauteur": 2331
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Apalit station & viaducts June 20 2026 Sampaga San Vicente construction 06.jpg",
+      "description": "Apalit railway station elevated dual-track elevated viaduct to seamlessly connect 1,435 mm standard-gauge railway 2-story A-2 level station passenger terminal",
+      "categories": [
+        "Self-published work",
+        "Construction of Apalit station"
+      ],
+      "auteur": "P1898",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apalit_station_%26_viaducts_June_20_2026_Sampaga_San_Vicente_construction_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Apalit_station_%26_viaducts_June_20_2026_Sampaga_San_Vicente_construction_06.jpg/1280px-Apalit_station_%26_viaducts_June_20_2026_Sampaga_San_Vicente_construction_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3004,
+      "hauteur": 3870
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "granito",
+    "terme": "le granito",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Sol coulé ou en carreaux fait d'éclats de marbre noyés dans un ciment puis poncé, appelé aussi terrazzo ; fréquent dans les anciens immeubles de Dakar.",
+    "priorite": 2,
+    "requetes": [
+      "terrazzo floor",
+      "sol granito",
+      "incategory:\"Terrazzo\""
+    ],
+    "incompatibles": [
+      "sol-en-marbre"
+    ],
+    "categoriesCommons": [
+      "Category:Terrazzo",
+      "Category:Terrazzo floors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Canadian Legion No. 001, Regina, Saskatchewan (531017835).jpg",
+      "description": "This is a perfectly flat floor but, to me, this pattern gives this illusion of a dome. It must have some military significance.",
+      "categories": [
+        "Terrazzo",
+        "Flickr images reviewed by FlickreviewR",
+        "Royal Canadian Legion No. 001, Regina, Saskatchewan",
+        "Files from Sandra Cohen-Rose and Colin Rose Flickr stream"
+      ],
+      "auteur": "Sandra Cohen-Rose and Colin Rose from Montreal, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Canadian_Legion_No._001,_Regina,_Saskatchewan_(531017835).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Canadian_Legion_No._001%2C_Regina%2C_Saskatchewan_%28531017835%29.jpg/1280px-Canadian_Legion_No._001%2C_Regina%2C_Saskatchewan_%28531017835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3320,
+      "hauteur": 2488
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:MAST, Bologna (terrazzo floor).jpg",
+      "description": "Bologna, Fondazione MAST (Manifattura di Arti, Sperimentazione e Tecnologia), interior, terrazzo floor",
+      "categories": [
+        "Fondazione MAST",
+        "Self-published work",
+        "Terrazzo floors",
+        "Photographs by Armin Kleiner - Italy, Bologna"
+      ],
+      "auteur": "Armin Kleiner",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MAST,_Bologna_(terrazzo_floor).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/MAST%2C_Bologna_%28terrazzo_floor%29.jpg/1280px-MAST%2C_Bologna_%28terrazzo_floor%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3749,
+      "hauteur": 5623
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Terrazzo observatory.jpg",
+      "description": "The Observatory depicted in terrazzo in front of Clifton's Cafeteria in Downtown Los Angeles.",
+      "categories": [
+        "Terrazzo",
+        "Self-published work"
+      ],
+      "auteur": "Caterpillar84",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Terrazzo_observatory.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Terrazzo_observatory.jpg/1280px-Terrazzo_observatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2389
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Terrazzo ca favretto.JPG",
+      "description": "Terrazzo floor ca favretto",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ10",
+        "Ca' Favretto (Venice)",
+        "Self-published work",
+        "Terrazzo floors",
+        "December 2011 in Venice",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2011-12-12"
+      ],
+      "auteur": "Abxbay",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Terrazzo_ca_favretto.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Terrazzo_ca_favretto.JPG/1280px-Terrazzo_ca_favretto.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Wasserwerk am Hochablass 06.jpg",
+      "description": "Wasserwerk am Hochablass: Terrazzo-Boden",
+      "categories": [
+        "GFDL",
+        "Terrazzo",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Wasserwerk am Hochablass (Augsburg)",
+        "Stammtisch Augsburg 2018-06-03"
+      ],
+      "auteur": "Neitram",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wasserwerk_am_Hochablass_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Wasserwerk_am_Hochablass_06.jpg/1280px-Wasserwerk_am_Hochablass_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Avståndsmarkering kassakö covid-19.jpg",
+      "description": "Un sol en granito (et non en terrazzo) avec des indications concernant les distances interindividuelles à respecter lors de la pandémie de COVID 19, Göteborg , Suède.",
+      "categories": [
+        "Self-published work",
+        "Terrazzo floors",
+        "Files with coordinates missing SDC location of creation",
+        "Sweden photographs taken on 2020-04-24",
+        "Shops during the COVID-19 pandemic in Sweden"
+      ],
+      "auteur": "Vogler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Avst%C3%A5ndsmarkering_kassak%C3%B6_covid-19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Avst%C3%A5ndsmarkering_kassak%C3%B6_covid-19.jpg/1280px-Avst%C3%A5ndsmarkering_kassak%C3%B6_covid-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3928,
+      "hauteur": 2947
+    }
+  ]
+}

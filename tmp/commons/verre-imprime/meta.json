@@ -1,0 +1,124 @@
+{
+  "terme": {
+    "id": "verre-imprime",
+    "terme": "le verre imprimé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Verre translucide dont une face porte un motif en relief.",
+    "priorite": 3,
+    "requetes": [
+      "patterned glass",
+      "textured glass window",
+      "verre imprimé"
+    ],
+    "incompatibles": [
+      "verre-depoli"
+    ],
+    "categoriesCommons": [
+      "Category:Glass"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:67 Sunflower 2.jpg",
+      "description": "Sunflower by Christopher Ries",
+      "categories": [
+        "Glass",
+        "Sculptures",
+        "Christopher Ries"
+      ],
+      "auteur": "Julien Church",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:67_Sunflower_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/67_Sunflower_2.jpg/1280px-67_Sunflower_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1500
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2012-366-349 Minor Detail (8273349673).jpg",
+      "description": "I've taken numerous photos of these window chimes my ex and I made one year for holiday gifts- they were old silverware we found at thrift stores hung on fishing line and strung from manzanita branches found in the yard. I cropped the original way in and had never noticde this little angel figure. Never know what you might overlook. On this day, I am looking for optimism in very tiny places, because the rest of the world right now...?",
+      "categories": [
+        "Glass",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2012-366-349_Minor_Detail_(8273349673).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2012-366-349_Minor_Detail_%288273349673%29.jpg/1280px-2012-366-349_Minor_Detail_%288273349673%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1317,
+      "hauteur": 878
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:American Inkwell.jpg",
+      "description": "Blown geometric ink bottle Early American Glass",
+      "categories": [
+        "Glass",
+        "Self-published work"
+      ],
+      "auteur": "Randy Stamm",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:American_Inkwell.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/American_Inkwell.jpg/1280px-American_Inkwell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 4928
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2016-366-353 Microworlds on a String (31697581216).jpg",
+      "description": "2016/366/353 Microworlds on a String",
+      "categories": [
+        "CC-Zero",
+        "Glass",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016-366-353_Microworlds_on_a_String_(31697581216).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2016-366-353_Microworlds_on_a_String_%2831697581216%29.jpg/1280px-2016-366-353_Microworlds_on_a_String_%2831697581216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1971,
+      "hauteur": 1314
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:7034DavidPatchenExampleofMurrine.jpg",
+      "description": "Example of murrine in work by David Patchen",
+      "categories": [
+        "Glass",
+        "Glass art",
+        "Blown glass",
+        "Murrine",
+        "Self-published work",
+        "Murrini",
+        "Dopemillies",
+        "Millies"
+      ],
+      "auteur": "Davidpatchen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:7034DavidPatchenExampleofMurrine.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/7034DavidPatchenExampleofMurrine.jpg/1280px-7034DavidPatchenExampleofMurrine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1663,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A glass of wine 12.jpg",
+      "description": "A glass of wine",
+      "categories": [
+        "Glass",
+        "Self-published work"
+      ],
+      "auteur": "BogTar201213",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_glass_of_wine_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/A_glass_of_wine_12.jpg/1280px-A_glass_of_wine_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2069,
+      "hauteur": 2125
+    }
+  ]
+}

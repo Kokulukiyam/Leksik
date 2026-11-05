@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "regulateur-de-charge",
+    "terme": "le régulateur de charge",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit boîtier électronique qui contrôle la charge des batteries par les panneaux solaires.",
+    "priorite": 3,
+    "requetes": [
+      "solar charge controller",
+      "régulateur de charge solaire",
+      "MPPT charge controller"
+    ],
+    "incompatibles": [
+      "onduleur"
+    ],
+    "categoriesCommons": [
+      "Category:Solar charge controllers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Laderegler.jpg",
+      "description": "Laderegler",
+      "categories": [
+        "Solar charge controllers",
+        "Self-published work"
+      ],
+      "auteur": "MAmberg",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laderegler.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Laderegler.jpg/1280px-Laderegler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1887,
+      "hauteur": 1709
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Kabus 000245 171295 516064 4578 (36775931446).jpg",
+      "description": "A PWM solar charge controller used as part of a garden/home solar cell panel installation in Wisconsin. To keep the energy consistent and under control a charge controller is necessary to watch the energy levels and determine how many volts it is putting out. It also helps to keep the batteries from getting overloaded.",
+      "categories": [
+        "Solar power in Wisconsin",
+        "Solar charge controllers",
+        "PD US DOE",
+        "Photographs by the U.S. Department of Energy",
+        "Flickr images reviewed by FlickreviewR 2",
+        "USGov files uploaded by Tyler de Noche",
+        "Hit Me With Your Sunshot"
+      ],
+      "auteur": "Photo by Cody Kabus. – U.S. Department of Energy from United States",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kabus_000245_171295_516064_4578_(36775931446).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kabus_000245_171295_516064_4578_%2836775931446%29.jpg/1280px-Kabus_000245_171295_516064_4578_%2836775931446%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1440
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Kabus 000244 171294 516060 4578 (36775931686).jpg",
+      "description": "A garden/home solar cell panel installation in Wisconsin. – Solar charge controller (left), deep cycle batteries (center), and inverter (right).",
+      "categories": [
+        "Interstate Batteries",
+        "Solar inverter panels",
+        "Solar power in Wisconsin",
+        "Solar charge controllers",
+        "PD US DOE",
+        "Photographs by the U.S. Department of Energy",
+        "Flickr images reviewed by FlickreviewR 2",
+        "USGov files uploaded by Tyler de Noche",
+        "Hit Me With Your Sunshot"
+      ],
+      "auteur": "Photo by Cody Kabus. – U.S. Department of Energy from United States",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kabus_000244_171294_516060_4578_(36775931686).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Kabus_000244_171294_516060_4578_%2836775931686%29.jpg/1280px-Kabus_000244_171294_516060_4578_%2836775931686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1440
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:SUOER SOLAR CHARGE CONTROLLER.jpg",
+      "description": "SUOER SOLAR CHARGE CONTROLLER",
+      "categories": [
+        "CC-Zero",
+        "Controllers",
+        "Self-published work",
+        "Taken with Realme GT 2"
+      ],
+      "auteur": "Ranjithkumar Murugesan",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:SUOER_SOLAR_CHARGE_CONTROLLER.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/SUOER_SOLAR_CHARGE_CONTROLLER.jpg/1280px-SUOER_SOLAR_CHARGE_CONTROLLER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1840,
+      "hauteur": 2453
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Kabus 000246 171296 516068 4578 (36775938376).jpg",
+      "description": "A garden/home solar cell panel installation in Wisconsin. – Solar charge controller (left) and deep cycle batteries.",
+      "categories": [
+        "Interstate Batteries",
+        "Solar power in Wisconsin",
+        "Solar charge controllers",
+        "PD US DOE",
+        "Photographs by the U.S. Department of Energy",
+        "Flickr images reviewed by FlickreviewR 2",
+        "USGov files uploaded by Tyler de Noche",
+        "Hit Me With Your Sunshot"
+      ],
+      "auteur": "Photo by Cody Kabus. – U.S. Department of Energy from United States",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kabus_000246_171296_516068_4578_(36775938376).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Kabus_000246_171296_516068_4578_%2836775938376%29.jpg/1280px-Kabus_000246_171296_516068_4578_%2836775938376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1440
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Growatt MOD 4000TL3-X inverter data sheet.jpg",
+      "description": "Data sheet of the inverter Growatt MOD 4000TL3-X.",
+      "categories": [
+        "Solar inverter panels",
+        "Growatt inverters"
+      ],
+      "auteur": "Zátonyi Sándor, (ifj.) Fizped",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Growatt_MOD_4000TL3-X_inverter_data_sheet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Growatt_MOD_4000TL3-X_inverter_data_sheet.jpg/1280px-Growatt_MOD_4000TL3-X_inverter_data_sheet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    }
+  ]
+}

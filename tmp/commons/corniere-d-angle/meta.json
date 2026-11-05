@@ -1,0 +1,38 @@
+{
+  "terme": {
+    "id": "corniere-d-angle",
+    "terme": "la cornière d'angle",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Profilé métallique ou plastique en L qui protège et dresse les angles saillants des cloisons et enduits.",
+    "priorite": 2,
+    "requetes": [
+      "drywall corner bead",
+      "cornière d'angle plâtre",
+      "metal corner bead plaster"
+    ],
+    "incompatibles": [
+      "baguette-d-angle"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:The farmer his own builder - a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities, describing reliable methods, offering (14596972797).jpg",
+      "description": "Identifier : farmerhisownbuil00robe ( find matches ) Title : The farmer his own builder : a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities, describing reliable methods, offering practical suggestions, presenting numerous details and formulas, and explaining simple rules for estimating the labor and materials required. With special reference to concrete and carpentry Year : 1918 ( 1910s ) Authors : Roberts, H. Armstrong (Howard Armstrong), 1885-1947 Subjects : Farm buildings Publisher : Philadelphia : D. McKay Contributi",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 25 August 2015",
+        "The farmer his own builder - a guide and reference book for the construction of dwellings, barns and other farm buildings, together with their utilities (1918)"
+      ],
+      "auteur": "Roberts, H. Armstrong (Howard Armstrong), 1885-1947",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_farmer_his_own_builder_-_a_guide_and_reference_book_for_the_construction_of_dwellings,_barns_and_other_farm_buildings,_together_with_their_utilities,_describing_reliable_methods,_offering_(14596972797).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/The_farmer_his_own_builder_-_a_guide_and_reference_book_for_the_construction_of_dwellings%2C_barns_and_other_farm_buildings%2C_together_with_their_utilities%2C_describing_reliable_methods%2C_offering_%2814596972797%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2040
+    }
+  ]
+}

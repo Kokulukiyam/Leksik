@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "paroi-berlinoise",
+    "terme": "la paroi berlinoise",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Soutènement provisoire de fouille fait de profilés métalliques verticaux entre lesquels on place des planches ou du béton projeté.",
+    "priorite": 3,
+    "requetes": [
+      "soldier pile wall timber lagging",
+      "paroi berlinoise",
+      "berliner verbau"
+    ],
+    "incompatibles": [
+      "fouille",
+      "palplanche"
+    ],
+    "categoriesCommons": [
+      "Category:Soldier pile walls",
+      "Category:Retaining walls",
+      "Category:Shoring"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:J39 149 EÜ Zweenfurther Straße, Gründung 6371 Nord.jpg",
+      "description": "Richtung Nordost, der Damm ist mit einem rückverankerten Verbau gesichert. Davor wurde die Gründung für das neue Brückenbauwerk betoniert. Das Rahmenbauwerk selbst ist noch nicht begonnen worden. Nach dem ursprünglichen Plan sollten die Brückenbauwerke über die Cunnersdorfer und Zweenfurther Straße im März 2021 eingeschoben werden. Dass dieser Termin unrealistisch wurde, ist schon seit einigen Monate sichtbar.",
+      "categories": [
+        "Soldier pile walls",
+        "Railway photographs taken on 2020-12-19",
+        "December 2020 in bridge construction in Germany",
+        "Leipzig photographs taken on 2020-12-19",
+        "Taken with Canon EOS 5D Mark III and Canon EF 24mm F2,8 IS USM",
+        "Falk2/2020",
+        "New construction of 5 bridges on the german railway line ELSt/6375 in Leipzig in December 2020",
+        "Falk2/EÜ Zweenfurther Straße",
+        "EÜ Zweenfurther Straße (Leipzig, construction 2019–2022)"
+      ],
+      "auteur": "Falk2",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:J39_149_E%C3%9C_Zweenfurther_Stra%C3%9Fe,_Gr%C3%BCndung_6371_Nord.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/J39_149_E%C3%9C_Zweenfurther_Stra%C3%9Fe%2C_Gr%C3%BCndung_6371_Nord.jpg/1280px-J39_149_E%C3%9C_Zweenfurther_Stra%C3%9Fe%2C_Gr%C3%BCndung_6371_Nord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5886,
+      "hauteur": 3924
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20140620 Veliko Tarnovo 363.jpg",
+      "description": "2014-06-20 in Veliko Tarnovo.",
+      "categories": [
+        "Taken with Olympus XZ-2",
+        "Potted plants",
+        "Retaining walls",
+        "Self-published work",
+        "Photographs by Mark Ahsmann",
+        "Walls in Veliko Tarnovo"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20140620_Veliko_Tarnovo_363.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/20140620_Veliko_Tarnovo_363.jpg/1280px-20140620_Veliko_Tarnovo_363.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:900 mm dia Sewer Installation, Toronto, Kent Road.jpg",
+      "description": "900 mm dia Sewer Installation, Toronto, Kent Road",
+      "categories": [
+        "Sewers",
+        "Safety equipment",
+        "Shoring",
+        "Self-published work",
+        "Sewer construction in Toronto",
+        "Sewer workers in Canada"
+      ],
+      "auteur": "Silenzio76",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:900_mm_dia_Sewer_Installation,_Toronto,_Kent_Road.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/900_mm_dia_Sewer_Installation%2C_Toronto%2C_Kent_Road.jpg/1280px-900_mm_dia_Sewer_Installation%2C_Toronto%2C_Kent_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:20210325.Dresden.Geschäftshaus Fritz-Löffler-Platz.-017.jpg",
+      "description": "Dresden: Fritz-Löffler-Platz: Berg-Ecke Münchner Straße entsteht ein neues Geschäftsgebäude. Den Neubau am Fritz-Löffler-Platz in Dresden mit einem REWE Markt, Büroflächen für universitätsnahe Nutzungen, sowie den dazugehörigen Frei- und Verkehrs- und Stellplatzanlagen. Insgesamt werden baulich neun Geschossebenen ausgebildet: zwei Untergeschosse, zwei Erdgeschosse und fünf Obergeschosse. Das zweite Untergeschoss ist dabei auf den Eckbereich begrenzt. Das erste Erdgeschoss sowie das zweite Erdgeschoss und das erste Obergeschoss sind großflächig ausgebildet. Dabei belichtet ein Innenhof den Ker",
+      "categories": [
+        "Soldier pile walls",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "March 2021 in construction in Dresden",
+        "Dresden photographs taken on 2021-03-25",
+        "Geschäftshaus Fritz-Löffler-Platz",
+        "Photos by User:Bybbisch94/2021"
+      ],
+      "auteur": "Bybbisch94, Christian Gebhardt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20210325.Dresden.Gesch%C3%A4ftshaus_Fritz-L%C3%B6ffler-Platz.-017.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/20210325.Dresden.Gesch%C3%A4ftshaus_Fritz-L%C3%B6ffler-Platz.-017.jpg/1280px-20210325.Dresden.Gesch%C3%A4ftshaus_Fritz-L%C3%B6ffler-Platz.-017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5312,
+      "hauteur": 2988
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Chelela to Paro road views during LGFC - Bhutan 2019 (146).jpg",
+      "description": "Photos from Bhutan during LGFC - Bhutan 2019",
+      "categories": [
+        "Uploaded with pattypan",
+        "Retaining walls",
+        "Chele La pass",
+        "Self-published work",
+        "Prayer flags in Bhutan",
+        "Files with coordinates missing SDC location of creation",
+        "Bhutan Vinayaraj"
+      ],
+      "auteur": "Vinayaraj",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chelela_to_Paro_road_views_during_LGFC_-_Bhutan_2019_(146).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Chelela_to_Paro_road_views_during_LGFC_-_Bhutan_2019_%28146%29.jpg/1280px-Chelela_to_Paro_road_views_during_LGFC_-_Bhutan_2019_%28146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Acacias-Centre (Geneva), démolition-40.jpg",
+      "description": "Démolition de l'ensemble mixte composé d'un immeuble de bureaux et de deux immeubles d'habitation, le tout sur une galette commerciale, construits en1960-1963 par Honegger Frères architectes. Reconstruction Route des Acacias 16-18/Rue Gustave-Revilliod 12.",
+      "categories": [
+        "Groupe Orllati",
+        "Shoring",
+        "Self-published work",
+        "Construction excavations",
+        "Acacias-Centre (Geneva), démolition"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acacias-Centre_(Geneva),_d%C3%A9molition-40.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Acacias-Centre_%28Geneva%29%2C_d%C3%A9molition-40.jpg/1280px-Acacias-Centre_%28Geneva%29%2C_d%C3%A9molition-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "monte-charge",
+    "terme": "le monte-charge",
+    "categorie": "Chantier et outillage",
+    "definition": "Plateforme ou cabine qui monte les matériaux le long d'un mât fixé à la façade.",
+    "priorite": 3,
+    "requetes": [
+      "construction hoist",
+      "monte-charge chantier",
+      "material hoist mast"
+    ],
+    "incompatibles": [
+      "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Hoists"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Appareil pour tirer des vaisseaux à terre sur une cale XVIIIè siècle.jpg",
+      "description": "Appareil pour tirer des vaisseaux à terre sur une cale. Image extraite de Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine. Pr[emie]re partie par Deslongchamps l'ainé, lieutenant des vaisseaux du Roy et du port de Brest en 1763. Plans des hunes, des barres d'hunes, chuquets, barres de peroquet et autres pièces concernant la construction de la mature des vaisseaux 1767 . Manuscrit numérisé de la bibliothèque municipale de Brest, France.",
+      "categories": [
+        "Author died more than 100 years ago public domain images",
+        "Hoists",
+        "Views in technical drawings",
+        "CC-PD-Mark",
+        "Pulleys (sailing) in history",
+        "PD-old missing SDC copyright status",
+        "Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine"
+      ],
+      "auteur": "Louis-Jean Montier Deslongchamps (1721-1782)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Appareil_pour_tirer_des_vaisseaux_%C3%A0_terre_sur_une_cale_XVIII%C3%A8_si%C3%A8cle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Appareil_pour_tirer_des_vaisseaux_%C3%A0_terre_sur_une_cale_XVIII%C3%A8_si%C3%A8cle.jpg/1280px-Appareil_pour_tirer_des_vaisseaux_%C3%A0_terre_sur_une_cale_XVIII%C3%A8_si%C3%A8cle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3687,
+      "hauteur": 5122
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bout-vergues et candelettes.jpg",
+      "description": "Bout-vergues et candelettes. Image extraite de Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine. Pr[emie]re partie par Deslongchamps l'ainé, lieutenant des vaisseaux du Roy et du port de Brest en 1763. Plans des hunes, des barres d'hunes, chuquets, barres de peroquet et autres pièces concernant la construction de la mature des vaisseaux 1767 . Manuscrit numérisé de la bibliothèque municipale de Brest, France.",
+      "categories": [
+        "Author died more than 100 years ago public domain images",
+        "Hoists",
+        "Views in technical drawings",
+        "CC-PD-Mark",
+        "Pulleys (sailing) in history",
+        "PD-old missing SDC copyright status",
+        "Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine"
+      ],
+      "auteur": "Louis-Jean Montier Deslongchamps (1721-1782)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bout-vergues_et_candelettes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bout-vergues_et_candelettes.jpg/1280px-Bout-vergues_et_candelettes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3687,
+      "hauteur": 5122
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:678 Pors Tarz.jpg",
+      "description": "Primelin : le treuil installé à Pors Tarz à la fin du XIXème siècle pour faciliter le relevage des embarcations.",
+      "categories": [
+        "Primelin",
+        "Hoists",
+        "Self-published work",
+        "19th-century works in Finistère"
+      ],
+      "auteur": "Moreau.henri",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:678_Pors_Tarz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/678_Pors_Tarz.jpg/1280px-678_Pors_Tarz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4100,
+      "hauteur": 2924
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Appareil pour tirer des vaisseaux à terre sur une cale.jpg",
+      "description": "Appareil pour tirer des vaisseaux à terre sur une cale. Image extraite de Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine. Pr[emie]re partie par Deslongchamps l'ainé, lieutenant des vaisseaux du Roy et du port de Brest en 1763. Plans des hunes, des barres d'hunes, chuquets, barres de peroquet et autres pièces concernant la construction de la mature des vaisseaux 1767 . Manuscrit numérisé de la bibliothèque municipale de Brest, France.",
+      "categories": [
+        "Author died more than 100 years ago public domain images",
+        "Hoists",
+        "Views in technical drawings",
+        "CC-PD-Mark",
+        "Pulleys (sailing) in history",
+        "PD-old missing SDC copyright status",
+        "Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine"
+      ],
+      "auteur": "Louis-Jean Montier Deslongchamps (1721-1782)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Appareil_pour_tirer_des_vaisseaux_%C3%A0_terre_sur_une_cale.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Appareil_pour_tirer_des_vaisseaux_%C3%A0_terre_sur_une_cale.jpg/1280px-Appareil_pour_tirer_des_vaisseaux_%C3%A0_terre_sur_une_cale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3687,
+      "hauteur": 5122
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Coal hoist at Brooklyn Navy Yard, New York City, New York, 1904 (26102888501).jpg",
+      "description": "Lot 3000-Q-4: Coal hoist at Brooklyn Navy Yard, New York City, New York. Published by Detroit Publishing Company, 1904. Courtesy of the Library of Congress. (2016/03/31).",
+      "categories": [
+        "Hoists",
+        "PD US Navy",
+        "CC-PD-Mark",
+        "Black and white photographs of the United States in the 1900s",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Images uploaded by Hiàn",
+        "Black and white photographs of Brooklyn, New York City",
+        "Photographs from the U.S. Navy Museum",
+        "History of the Brooklyn Navy Yard",
+        "Black and white photographs of ships in the United States",
+        "USGov images uploaded by Hiàn",
+        "Transport of coal"
+      ],
+      "auteur": "National Museum of the U.S. Navy",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coal_hoist_at_Brooklyn_Navy_Yard,_New_York_City,_New_York,_1904_(26102888501).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Coal_hoist_at_Brooklyn_Navy_Yard%2C_New_York_City%2C_New_York%2C_1904_%2826102888501%29.jpg/1280px-Coal_hoist_at_Brooklyn_Navy_Yard%2C_New_York_City%2C_New_York%2C_1904_%2826102888501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2830,
+      "hauteur": 2138
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Châtillon-sur-Saône le 13 août 2013 - 07.jpg",
+      "description": "Cette image a été versée dans le cadre de L'Été des villes 2015 .",
+      "categories": [
+        "GFDL",
+        "FAL",
+        "Châtillon-sur-Saône",
+        "License migration redundant",
+        "Hoists",
+        "Construction elevators",
+        "Self-published work",
+        "Uploaded via Campaign:ÉtédesVilles",
+        "Uploaded with Commonist",
+        "Images from Été des Villes 2015",
+        "Files with coordinates missing SDC location of creation",
+        "Roofing tools",
+        "Inclined freight lifts"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2tillon-sur-Sa%C3%B4ne_le_13_ao%C3%BBt_2013_-_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Ch%C3%A2tillon-sur-Sa%C3%B4ne_le_13_ao%C3%BBt_2013_-_07.jpg/1280px-Ch%C3%A2tillon-sur-Sa%C3%B4ne_le_13_ao%C3%BBt_2013_-_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "mire",
+    "terme": "la mire",
+    "categorie": "Chantier et outillage",
+    "definition": "Longue règle graduée tenue verticalement, sur laquelle on lit la hauteur dans la lunette d'un niveau.",
+    "priorite": 3,
+    "requetes": [
+      "levelling staff",
+      "mire de nivellement",
+      "surveying rod"
+    ],
+    "categoriesCommons": [
+      "Category:Surveying instruments"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Iconographic Encyclopedia of Science, Literature and Art 010.jpg",
+      "description": "Illustration from Brockhaus and Efron Encyclopedic Dictionary (1890—1907)",
+      "categories": [
+        "Scientific instruments",
+        "PD-RusEmpire",
+        "Surveying instruments",
+        "PD Brockhaus&Efron",
+        "Engraved illustrations from Iconographic Encyclopedia of Science, Literature and Art, Published in 1851"
+      ],
+      "auteur": "painter from Brockhaus and Efron Encyclopedic Dictionary",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iconographic_Encyclopedia_of_Science,_Literature_and_Art_010.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Iconographic_Encyclopedia_of_Science%2C_Literature_and_Art_010.jpg/1280px-Iconographic_Encyclopedia_of_Science%2C_Literature_and_Art_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1835,
+      "hauteur": 1439
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cgs01221 (9785652043).jpg",
+      "description": "A nostalgic Clarence E. \"Pete\" Pedersen cartoon of hydrographic surveying in Alaska. Image ID: cgs01221, NOAA's Historic Coast & Geodetic Survey (C&GS) Collection Location: Alaska Southeast Photo Date: 1985",
+      "categories": [
+        "Hydrography",
+        "Navigational equipment",
+        "Surveying instruments",
+        "Surveying in the United States",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from the NOAA Photo Library Flickr stream",
+        "Surveying in art",
+        "Clarence E. \"Pete\" Pedersen"
+      ],
+      "auteur": "NOAA Photo Library",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cgs01221_(9785652043).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cgs01221_%289785652043%29.jpg/1280px-Cgs01221_%289785652043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 3680
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:CACUNAHDisplay07.JPG",
+      "description": "Instrument for surveying by Dietgen on display at the UNAH Center for Art and Culture",
+      "categories": [
+        "Taken with Nikon D60",
+        "Surveying instruments",
+        "Centro de Arte y Cultura de la UNAH",
+        "Self-published work"
+      ],
+      "auteur": "Thelmadatter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CACUNAHDisplay07.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/CACUNAHDisplay07.JPG/1280px-CACUNAHDisplay07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Eötvös tér a Széchenyi István (Roosevelt) tér felé nézve. Fortepan 97420.jpg",
+      "description": "Eötvös square looking towards Széchenyi István (Roosevelt) square.",
+      "categories": [
+        "Parabolic antennas",
+        "Images from Fortepan",
+        "Surveying instruments",
+        "Images uploaded by Fæ",
+        "1968 in Budapest"
+      ],
+      "auteur": "FOTO:Fortepan — ID 97420 : Adományozó/Donor: UVATERV. copie d'archive sur Wayback Machine",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:E%C3%B6tv%C3%B6s_t%C3%A9r_a_Sz%C3%A9chenyi_Istv%C3%A1n_(Roosevelt)_t%C3%A9r_fel%C3%A9_n%C3%A9zve._Fortepan_97420.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/E%C3%B6tv%C3%B6s_t%C3%A9r_a_Sz%C3%A9chenyi_Istv%C3%A1n_%28Roosevelt%29_t%C3%A9r_fel%C3%A9_n%C3%A9zve._Fortepan_97420.jpg/1280px-E%C3%B6tv%C3%B6s_t%C3%A9r_a_Sz%C3%A9chenyi_Istv%C3%A1n_%28Roosevelt%29_t%C3%A9r_fel%C3%A9_n%C3%A9zve._Fortepan_97420.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4346,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dividing Engine Lansing Michigan.jpg",
+      "description": "Photo of dividing engine at Michigan Museum of Surveying, Lansing, MI, USA",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 50",
+        "Museums in Michigan",
+        "Surveying instruments",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Dividing engines",
+        "Self-published work"
+      ],
+      "auteur": "Jessamyn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dividing_Engine_Lansing_Michigan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Dividing_Engine_Lansing_Michigan.jpg/1280px-Dividing_Engine_Lansing_Michigan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2449,
+      "hauteur": 1716
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chvalšiny, muzeum, zeměměřické přístroje (1).jpg",
+      "description": "Zeměměřické nástroje užívané při výstavbě Schwarzenberského plavebního kanálu, vystavené ve chvalšinském muzeu.",
+      "categories": [
+        "Taken with Canon EOS 600D",
+        "Surveying instruments",
+        "Museum in Chvalšiny",
+        "Uploaded with VicuñaUploader",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Jan Polák",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chval%C5%A1iny,_muzeum,_zem%C4%9Bm%C4%9B%C5%99ick%C3%A9_p%C5%99%C3%ADstroje_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Chval%C5%A1iny%2C_muzeum%2C_zem%C4%9Bm%C4%9B%C5%99ick%C3%A9_p%C5%99%C3%ADstroje_%281%29.jpg/1280px-Chval%C5%A1iny%2C_muzeum%2C_zem%C4%9Bm%C4%9B%C5%99ick%C3%A9_p%C5%99%C3%ADstroje_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    }
+  ]
+}

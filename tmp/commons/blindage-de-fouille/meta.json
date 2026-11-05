@@ -1,0 +1,175 @@
+{
+  "terme": {
+    "id": "blindage-de-fouille",
+    "terme": "le blindage de fouille",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Ensemble de panneaux, planches ou caissons métalliques étayés qui retiennent les parois d'une tranchée profonde.",
+    "priorite": 3,
+    "requetes": [
+      "trench shoring",
+      "blindage de tranchée",
+      "trench box excavation"
+    ],
+    "incompatibles": [
+      "tranchee-de-fondation",
+      "fouille"
+    ],
+    "categoriesCommons": [
+      "Category:Shoring",
+      "Category:Trenches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chiesa della Natività della Beata Vergine Maria (Vigarano Mainarda) 03.JPG",
+      "description": "Vigarano Mainarda, chiesa della Natività della Beata Vergine Maria in fase di restauro dopo il terremoto dell'Emilia del 2012.",
+      "categories": [
+        "Shoring",
+        "Natività della Beata Vergine Maria (Vigarano Mainarda)",
+        "Self-published work",
+        "Metal scaffolding in Italy",
+        "Italy photographs taken on 2015-04-26"
+      ],
+      "auteur": "Threecharlie",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chiesa_della_Nativit%C3%A0_della_Beata_Vergine_Maria_(Vigarano_Mainarda)_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Chiesa_della_Nativit%C3%A0_della_Beata_Vergine_Maria_%28Vigarano_Mainarda%29_03.JPG/1280px-Chiesa_della_Nativit%C3%A0_della_Beata_Vergine_Maria_%28Vigarano_Mainarda%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2024-05-04 Calves in Kveda Beretisa in Imereti.jpg",
+      "description": "A herd of calves in Kveda Beretisa village, Chiatura Municipality, Imereti",
+      "categories": [
+        "Calves",
+        "Trenches",
+        "Self-published work",
+        "Taken on missing SDC inception",
+        "17 animals",
+        "Files with coordinates missing SDC location of creation",
+        "Many cattle",
+        "Georgia (country) photographs taken on 2024-05-04",
+        "Cattle in Georgia (country)",
+        "Nigozeti community",
+        "Photographs by Yuri Samoylov taken on 2024-05-04"
+      ],
+      "auteur": "Yuri Samoylov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-05-04_Calves_in_Kveda_Beretisa_in_Imereti.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2024-05-04_Calves_in_Kveda_Beretisa_in_Imereti.jpg/1280px-2024-05-04_Calves_in_Kveda_Beretisa_in_Imereti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2742,
+      "hauteur": 1698
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Consolidation column house faun Pompeii.jpg",
+      "description": "Consolidation d'une colonne dans la Maison du Faune à Pompéi, Italie.",
+      "categories": [
+        "CC-Zero",
+        "Shoring",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2015-07-24",
+        "Columns in Pompeii",
+        "House of the Faun (Pompeii) - Servile rooms"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Consolidation_column_house_faun_Pompeii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Consolidation_column_house_faun_Pompeii.jpg/1280px-Consolidation_column_house_faun_Pompeii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3056,
+      "hauteur": 4432
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2-2CR conduct blank fire iteration during AgS19 (5641169).jpg",
+      "description": "U.S. Soldiers, assigned to Ghost Troop, 2d Squadron, 2d Cavalry Regiment, wait to engage targets at their firing positions during a blank fire iteration for the squadron live-fire range during exercise Agile Spirit 19, at the Vaziani Military Base near Tbilisi, Georgia, Aug. 4, 2019. AgS19 is a cooperatively led exercise between the Georgian Defense Forces, designed to support theater security cooperation and training efforts among the 14 allies and partnering nations participating. The exercise is designed to improve joint and multinational readiness, interoperability, mobility and posture of",
+      "categories": [
+        "PD US Army",
+        "Trenches",
+        "M249 light machine guns",
+        "Files created by the United States Army with known IDs",
+        "People with firearms",
+        "Military people of the United States in 2019",
+        "Agile Spirit 2019",
+        "Georgia (country) photographs taken on 2019-08-04",
+        "Military men wearing helmets",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "2nd Squadron, 2nd Cavalry Regiment",
+        "M4 carbine with optical sights",
+        "Military men wearing boots",
+        "M4 carbine with M320"
+      ],
+      "auteur": "U.S. Army photo by Pfc. Denice Parker",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:2-2CR_conduct_blank_fire_iteration_during_AgS19_(5641169).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2-2CR_conduct_blank_fire_iteration_during_AgS19_%285641169%29.jpg/1280px-2-2CR_conduct_blank_fire_iteration_during_AgS19_%285641169%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4800,
+      "hauteur": 3200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Image taken from page 66 of 'Old and New London, etc' (11189115166).jpg",
+      "description": "The Gun Tavern, Stafford Row, Pimlico",
+      "categories": [
+        "Images from the British Library",
+        "Old and New London, Illustrated (1873) by Walter Thornbury and Edward Walford - BL 1887 copy",
+        "Files with no machine-readable author",
+        "PD-old-70-expired",
+        "Shoring",
+        "Pimlico",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Flickr images reviewed by FlickreviewR",
+        "Images from the British Library Mechanical Curator collection",
+        "Files from Flickr's 'The Commons'",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC inception",
+        "Flickr images missing SDC source of file",
+        "1820 in London",
+        "CC-PD-Mark",
+        "Uploaded by the British Library",
+        "Gun public houses",
+        "Hoare & Co. brewery",
+        "Pubs in Pimlico"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Image_taken_from_page_66_of_%27Old_and_New_London,_etc%27_(11189115166).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Image_taken_from_page_66_of_%27Old_and_New_London%2C_etc%27_%2811189115166%29.jpg/1280px-Image_taken_from_page_66_of_%27Old_and_New_London%2C_etc%27_%2811189115166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1892,
+      "hauteur": 1603
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:The British Army on the Western Front, 1914-1918 Q3289.jpg",
+      "description": "The British Army on the Western Front, 1914-1918 Members of the Queen Mary's Army Auxiliary Corps wear steel helmets while in trenches constructed for shelter in the event of an aerial attack at Rouen, 18 June 1918.",
+      "categories": [
+        "Trenches",
+        "Nissen huts",
+        "1918 in France",
+        "Queen Mary's Army Auxiliary Corps",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Ministry of Information First World War Official Collection",
+        "UK Government artistic works",
+        "PD-scan (PD-UKGov)",
+        "Historical photographs of Seine-Maritime",
+        "Rouen during World War I",
+        "Imperial War Museum First World War Women's War Work Collection photographs",
+        "World War I photographs by Ernest Brooks",
+        "Historical photographs of Rouen",
+        "Women at work in France in World War I",
+        "Black and white photographs of Rouen"
+      ],
+      "auteur": "Ernest Brooks",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_British_Army_on_the_Western_Front,_1914-1918_Q3289.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_British_Army_on_the_Western_Front%2C_1914-1918_Q3289.jpg/1280px-The_British_Army_on_the_Western_Front%2C_1914-1918_Q3289.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1300,
+      "hauteur": 907
+    }
+  ]
+}

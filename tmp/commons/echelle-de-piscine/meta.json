@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "echelle-de-piscine",
+    "terme": "l'échelle de piscine",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Échelle en tubes d'inox recourbés, fixée au bord du bassin, pour entrer et sortir de l'eau.",
+    "priorite": 3,
+    "requetes": [
+      "pool ladder stainless",
+      "échelle de piscine",
+      "swimming pool ladder"
+    ],
+    "incompatibles": [
+      "piscine",
+      "margelle"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A cheerful child is splashing in a pool while sitting on a bright pink flamingo float.jpg",
+      "description": "A cheerful child is splashing in a pool while sitting on a bright pink flamingo float. Laughter fills the air as the sparkling blue water dances around. It is a joyful summer moment.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_cheerful_child_is_splashing_in_a_pool_while_sitting_on_a_bright_pink_flamingo_float.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_cheerful_child_is_splashing_in_a_pool_while_sitting_on_a_bright_pink_flamingo_float.jpg/1280px-A_cheerful_child_is_splashing_in_a_pool_while_sitting_on_a_bright_pink_flamingo_float.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5265,
+      "hauteur": 3515
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Catania 1.jpg",
+      "description": "Creamos comunidades sustentables con plusvalía.",
+      "categories": [
+        "Swimming pools",
+        "Self-published work",
+        "Vivienda",
+        "Sustentabilidad Innovación"
+      ],
+      "auteur": "Comunidad Vinte",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Catania_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Catania_1.jpg/1280px-Catania_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3181,
+      "hauteur": 2122
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Beach Kino, Interboot 2020, Friedrichshafen (IB200177).jpg",
+      "description": "Beach Kino at Interboot 2020, Friedrichshafen",
+      "categories": [
+        "Projection screens",
+        "Swimming pools",
+        "Deckchairs",
+        "Intex",
+        "Fotoprojekt Interboot 2020 (supported by Wikimedia Deutschland)",
+        "Self-published work",
+        "Baden-Württemberg photographs taken on 2020-09-19",
+        "Quality image candidates by User:MB-one - ready to submit"
+      ],
+      "auteur": "MB-one",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beach_Kino,_Interboot_2020,_Friedrichshafen_(IB200177).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Beach_Kino%2C_Interboot_2020%2C_Friedrichshafen_%28IB200177%29.jpg/1280px-Beach_Kino%2C_Interboot_2020%2C_Friedrichshafen_%28IB200177%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6720,
+      "hauteur": 4480
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Child swims in a swimming pool on a sunny day with water splashing around.jpg",
+      "description": "A child swims in a clear swimming pool during the afternoon. Water splashes around as the child enjoys the activity. The sun shines brightly above.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg/1280px-Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bronte Splash - Flickr - Link1.jpg",
+      "description": "Bronte Splash",
+      "categories": [
+        "Swimming pools",
+        "Photographs taken on 2003-05-04",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Link1",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bronte_Splash_-_Flickr_-_Link1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bronte_Splash_-_Flickr_-_Link1.jpg/1280px-Bronte_Splash_-_Flickr_-_Link1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A vibrant blue swimming pool features white metal ladders against a clear sky.jpg",
+      "description": "A vibrant blue swimming pool features white metal ladders against a clear sky. The pool appears empty, suggesting it may be prepped for summer fun and relaxation soon.",
+      "categories": [
+        "Ladders",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg/1280px-A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    }
+  ]
+}

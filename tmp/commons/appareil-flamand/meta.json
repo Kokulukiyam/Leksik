@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "appareil-flamand",
+    "terme": "l'appareil flamand",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Appareil de briques où panneresses et boutisses alternent dans chaque rang.",
+    "priorite": 3,
+    "requetes": [
+      "flemish bond brickwork",
+      "appareil flamand brique",
+      "flemish bond"
+    ],
+    "incompatibles": [
+      "appareil-anglais",
+      "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Flemish bond",
+      "Category:Brick walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Flemish Bond (marked) 20-11-19 086.jpg",
+      "description": "Flemish bond, King block, 221-223-225 South Cavin Street.",
+      "categories": [
+        "Flemish bond",
+        "Self-published work",
+        "King Blck (Ligonier) Image by CLight",
+        "King Block (Ligonier, Indiana)"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flemish_Bond_(marked)_20-11-19_086.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flemish_Bond_%28marked%29_20-11-19_086.jpg/1280px-Flemish_Bond_%28marked%29_20-11-19_086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Alfa Romeo Spider Meteora.jpg",
+      "description": "Alfa Romeo Spider 24V 3.0",
+      "categories": [
+        "Taken with Nikon Coolpix L11",
+        "PD-user",
+        "Brick walls",
+        "Automobiles with open doors",
+        "Grey Alfa Romeo convertibles",
+        "Alfa Romeo Spider (1998)",
+        "Automobiles without door handles"
+      ],
+      "auteur": "Gold333 ( talk ) Myself",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Spider_Meteora.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Alfa_Romeo_Spider_Meteora.jpg/1280px-Alfa_Romeo_Spider_Meteora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Brickwork 2717.jpg",
+      "description": "Indian Village United Methodist Church, originally built as a United Brethren Church.",
+      "categories": [
+        "Flemish bond",
+        "Self-published work",
+        "Indian Village UMC Image by CLight",
+        "Indian Village United Methodist Church, Indiana"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brickwork_2717.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Brickwork_2717.jpg/1280px-Brickwork_2717.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:500px photo (167961693).jpeg",
+      "description": "500px provided description: Img 5569 Jpg []",
+      "categories": [
+        "CC-Zero",
+        "Brick walls",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Gyori Fanni",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(167961693).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/500px_photo_%28167961693%29.jpeg/1280px-500px_photo_%28167961693%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Flemish Bond 19-10-19 914 Bond.jpg",
+      "description": "Flemish Bond in the Circa 1809 Hall, Kentucky. CIrcled Heading Bond bricks.",
+      "categories": [
+        "Flemish bond",
+        "Self-published work",
+        "Circa 1809 Hall (Bardstown, Kentucky)",
+        "Circa 1809 Hall (Bardstown, Ky) Image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flemish_Bond_19-10-19_914_Bond.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Flemish_Bond_19-10-19_914_Bond.jpg/1280px-Flemish_Bond_19-10-19_914_Bond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Brick walls, King Bela Square, 2016 Szekszard.jpg",
+      "description": ": Brick structure. - King Béla Square, Szekszárd , Tolna County , Hungary .",
+      "categories": [
+        "Walls in Hungary",
+        "Brick walls",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "King Béla Square 3, Szekszárd (Prosecutor office)",
+        "Szekszárd Prison",
+        "2016 in Szekszárd"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_walls,_King_Bela_Square,_2016_Szekszard.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Brick_walls%2C_King_Bela_Square%2C_2016_Szekszard.jpg/1280px-Brick_walls%2C_King_Bela_Square%2C_2016_Szekszard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    }
+  ]
+}

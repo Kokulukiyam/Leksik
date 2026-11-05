@@ -1,0 +1,53 @@
+{
+  "termId": "bambou",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Feuilles et rameaux de bambou en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Feuillage seul, pas de chaume lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bosquet de bambous devant une maison japonaise, lumière faible, image retouchée HDR.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kyoto, Japon",
+      "note": "Sombre, HDR marqué, sujet noyé."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Touffe de végétation haute dans un arboretum.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Trsteno, Croatie",
+      "note": "Plante non identifiable comme bambou."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux chaumes de bambou au sol de feuilles sèches, l'un fendu laissant voir les cloisons internes.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tiges creuses et nouées, nœuds et cloisons très lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pyrogravure sur un tube de bambou tenu à la main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Soncheon, Corée du Sud",
+      "note": "Artisanat, élément peu lisible comme bambou de construction."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Variante du même sujet : chaumes de bambou, l'un fendu montrant les cloisons.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaumes nouées bien visibles, deuxième cadrage du même lieu."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "chauffe-eau-instantane",
+    "terme": "le chauffe-eau instantané",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit appareil mural, électrique ou à gaz, qui chauffe l'eau au moment où elle passe, sans réservoir.",
+    "priorite": 3,
+    "requetes": [
+      "tankless water heater",
+      "chauffe-eau instantané",
+      "instant water heater"
+    ],
+    "incompatibles": [
+      "chauffe-eau-electrique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:HK WCN 灣仔北 Wan Chai North 香港會展 HKCEC 建造創新博覽會 Construction Innovation Expo 鋁遊家 AluHouse Technology 組裝合成建築 MiC construction 過渡性房屋 transitional housing December 2022 Px3 27.jpg",
+      "description": "HK_WCN_灣仔北_Wan_Chai_North_香港會展_HKCEC_建造創新博覽會_Construction_Innovation_Expo_鋁遊家_AluHouse_Technology_組裝合成建築_MiC_construction_過渡性房屋_transitional_housing in December_2022",
+      "categories": [
+        "Modular buildings",
+        "Self-published work",
+        "Hong Kong photographs taken on 2022-12-13",
+        "Files with coordinates missing SDC location of creation",
+        "Gas-powered tankless water heaters",
+        "Taken with Xiaomi Poco X3 Pro in December 2022",
+        "Transitional housing (Hong Kong)",
+        "Modular buildings in China",
+        "Taken with Xiaomi Poco X3 Pro in Wan Chai North",
+        "AluHouse Technology (GD) Company 鋁遊家",
+        "Exhibitions in HKCEC in December 2022",
+        "MiC - Modular Integrated Construction 組裝合成 建築法",
+        "Taken with Xiaomi Poco X3 Pro in HKCEC",
+        "Shower cabins"
+      ],
+      "auteur": "AKAMGO yalms",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_%E5%BB%BA%E9%80%A0%E5%89%B5%E6%96%B0%E5%8D%9A%E8%A6%BD%E6%9C%83_Construction_Innovation_Expo_%E9%8B%81%E9%81%8A%E5%AE%B6_AluHouse_Technology_%E7%B5%84%E8%A3%9D%E5%90%88%E6%88%90%E5%BB%BA%E7%AF%89_MiC_construction_%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B_transitional_housing_December_2022_Px3_27.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_%E5%BB%BA%E9%80%A0%E5%89%B5%E6%96%B0%E5%8D%9A%E8%A6%BD%E6%9C%83_Construction_Innovation_Expo_%E9%8B%81%E9%81%8A%E5%AE%B6_AluHouse_Technology_%E7%B5%84%E8%A3%9D%E5%90%88%E6%88%90%E5%BB%BA%E7%AF%89_MiC_construction_%E9%81%8E%E6%B8%A1%E6%80%A7%E6%88%BF%E5%B1%8B_transitional_housing_December_2022_Px3_27.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:PALOMA GAS WATER HEATER JSW32-PH-163EW.jpg",
+      "description": "PALOMA GAS WATER HEATER JSW32-PH-163EW MANUFACTURED IN JAPAN BY PALOMA CO., LTD.",
+      "categories": [
+        "Taken with Canon EOS R5",
+        "Water heating devices",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Gas-powered tankless water heaters",
+        "Paloma Co., Ltd.",
+        "Taken with Canon RF 100-500mm f/4.5-7.1L IS USM"
+      ],
+      "auteur": "Dinkun Chen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PALOMA_GAS_WATER_HEATER_JSW32-PH-163EW.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/PALOMA_GAS_WATER_HEATER_JSW32-PH-163EW.jpg/1280px-PALOMA_GAS_WATER_HEATER_JSW32-PH-163EW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4030,
+      "hauteur": 5893
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Caldaia Murale.jpg",
+      "description": "Caldaia murale a gas per uso domestico",
+      "categories": [
+        "Taken with Canon Digital IXUS 850 IS",
+        "PD-user",
+        "Gas-powered tankless water heaters",
+        "Gas-powered tankless water heaters controllers"
+      ],
+      "auteur": "Tiesse sur Wikipédia italien",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caldaia_Murale.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Caldaia_Murale.jpg/1280px-Caldaia_Murale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chaudière à gaz Brötje WGB 28 C (extérieur).jpg",
+      "description": "Chaudière à gaz Brötje EcoTherm Plus WGB 28 C, vue de l'extérieur.",
+      "categories": [
+        "Brötje",
+        "Self-published work",
+        "Gas-powered tankless water heaters"
+      ],
+      "auteur": "The RedBurn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chaudi%C3%A8re_%C3%A0_gaz_Br%C3%B6tje_WGB_28_C_(ext%C3%A9rieur).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Chaudi%C3%A8re_%C3%A0_gaz_Br%C3%B6tje_WGB_28_C_%28ext%C3%A9rieur%29.jpg/1280px-Chaudi%C3%A8re_%C3%A0_gaz_Br%C3%B6tje_WGB_28_C_%28ext%C3%A9rieur%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Caldaia 1.jpg",
+      "description": "Caldaia murale a gas Argo per il riscaldamento di casa con i termosifoni e per l'uso dell'acqua corrente riscaldata",
+      "categories": [
+        "Argoclima",
+        "Self-published work",
+        "Gas-powered tankless water heaters"
+      ],
+      "auteur": "Antonio Mette",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caldaia_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Caldaia_1.jpg/1280px-Caldaia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Merker Durchlauferhitzer.jpg",
+      "description": "Fuel gas driven continuous-flow water heater with pilot flame. Make Merker AG manufactured in the the 1930's.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Pilot flame",
+        "Self-published work",
+        "Gas-powered tankless water heaters",
+        "Files by User:Voyager"
+      ],
+      "auteur": "Voyager",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Merker_Durchlauferhitzer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Merker_Durchlauferhitzer.jpg/1280px-Merker_Durchlauferhitzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2000
+    }
+  ]
+}

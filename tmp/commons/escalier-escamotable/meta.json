@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "escalier-escamotable",
+    "terme": "l'escalier escamotable",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier pliant ou télescopique qui se replie dans une trappe au plafond pour accéder aux combles.",
+    "priorite": 3,
+    "requetes": [
+      "attic ladder folding",
+      "escalier escamotable",
+      "loft ladder"
+    ],
+    "incompatibles": [
+      "echelle-de-meunier",
+      "escalier-en-bois"
+    ],
+    "categoriesCommons": [
+      "Category:Attic ladders"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Coveralls (2116273141).jpg",
+      "description": "Clothes left on the loft ladder.",
+      "categories": [
+        "St. Paul No. 19, Alberta",
+        "Attic ladders",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Wooden ladders in Canada",
+        "December 2007 in Alberta"
+      ],
+      "auteur": "runran from An island in the stream",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coveralls_(2116273141).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Coveralls_%282116273141%29.jpg/1280px-Coveralls_%282116273141%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1514,
+      "hauteur": 2066
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Leiter, Schornstein, Leiter, Szemlőhegystrasse 27B, 2026 Szemlőhegy.jpg",
+      "description": "Historicist villa with Art Nouveau elements. Planned by Marcell Komor. Built to Ferenc Wilhelm mathematician and accountant. Builder: Béla Lukács buildet master, head of the technical department, construction manager, member of the Budapest Guild of Builders. Construction permit: in 1923. - Owner was Manó Lackó, a jeweler and shop owner, who bought the house for 88,000 pengő. In the 1929 residents' register: Felix Schwartz,director of Atheneum Press, director of the Hungarian Rubber Factory (later Taueis Rubber Factory). In 1932, the owner was Ákos Fejér, born in Kassán, royal government chief",
+      "categories": [
+        "Self-published work",
+        "Ladders in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "Chimneys in Budapest",
+        "Hungary photographs taken on 2026-05-09",
+        "Budapest 100 in 2026",
+        "Budapest Főváros II. Kerületi Önkormányzat Szemlőhegy utcai Óvoda"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Leiter,_Schornstein,_Leiter,_Szeml%C5%91hegystrasse_27B,_2026_Szeml%C5%91hegy.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Leiter%2C_Schornstein%2C_Leiter%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg/1280px-Leiter%2C_Schornstein%2C_Leiter%2C_Szeml%C5%91hegystrasse_27B%2C_2026_Szeml%C5%91hegy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chancellor Merkel makes brief stop at NATO Air Base (13926910270).jpg",
+      "description": "Angela Merkel, Chancellor of the Federal Republic of Germany, was greeted by Maj. Gen. Andrew M. Mueller, E-3A Component commander, and his wife, Keri, during a short visit at NATO Air Base Geilenkirchen on April 30, 2014. The chancellor was transiting through the air base while traveling to Aachen. (Photo by Andrea Hohenforst)",
+      "categories": [
+        "2014 in aviation in Germany",
+        "Taken with Nikon D3",
+        "Integrated side gangways (aircraft)",
+        "Flickr images reviewed by FlickreviewR",
+        "Females with aircraft",
+        "Angela Merkel in April 2014",
+        "Aircraft at Air Base Geilenkirchen",
+        "Bombardier Global 5000 of the German Air Force"
+      ],
+      "auteur": "NATO E-3A Component",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chancellor_Merkel_makes_brief_stop_at_NATO_Air_Base_(13926910270).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Chancellor_Merkel_makes_brief_stop_at_NATO_Air_Base_%2813926910270%29.jpg/1280px-Chancellor_Merkel_makes_brief_stop_at_NATO_Air_Base_%2813926910270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2362,
+      "hauteur": 3543
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Attic ladder closed.jpg",
+      "description": "I took this picture.",
+      "categories": [
+        "Attic ladders",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Kborer ( talk ) ( Uploads )",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Attic_ladder_closed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Attic_ladder_closed.jpg/1280px-Attic_ladder_closed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ouvrage de La Salmagne escalier escamotable.JPG",
+      "description": "Ouvrage de La Salmagne interieur",
+      "categories": [
+        "Ouvrage de La Salmagne",
+        "Self-published work"
+      ],
+      "auteur": "Chatsam",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ouvrage_de_La_Salmagne_escalier_escamotable.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Ouvrage_de_La_Salmagne_escalier_escamotable.JPG/1280px-Ouvrage_de_La_Salmagne_escalier_escamotable.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Attic ladder open.jpg",
+      "description": "I took this photo.",
+      "categories": [
+        "Attic ladders",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Kborer ( talk ) ( Uploads )",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Attic_ladder_open.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Attic_ladder_open.jpg/1280px-Attic_ladder_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    }
+  ]
+}

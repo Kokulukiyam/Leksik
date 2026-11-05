@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "hauban",
+    "terme": "le hauban",
+    "categorie": "Structure",
+    "definition": "Câble d'acier tendu en oblique, qui suspend ou stabilise une toiture, un mât ou une passerelle.",
+    "priorite": 3,
+    "requetes": [
+      "cable stayed roof",
+      "hauban câble",
+      "stay cables structure"
+    ],
+    "categoriesCommons": [
+      "Category:Cable-stayed structures",
+      "Category:Cables"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2013-365-323 Here Comes The Internet (10957266035).jpg",
+      "description": "Most of these wires are for the cable connections-- one of them is mine.",
+      "categories": [
+        "Cables",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-365-323_Here_Comes_The_Internet_(10957266035).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2013-365-323_Here_Comes_The_Internet_%2810957266035%29.jpg/1280px-2013-365-323_Here_Comes_The_Internet_%2810957266035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Acuity Autobahn ATBMicro.jpg",
+      "description": "LED streetlight in Lindenhurst, NY",
+      "categories": [
+        "Cables",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Chase Burwasser",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acuity_Autobahn_ATBMicro.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Acuity_Autobahn_ATBMicro.jpg/1280px-Acuity_Autobahn_ATBMicro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Plat 9x2.jpg",
+      "description": "Two-layer space platform (angar) for using in outer space and on the surfaces of other planets",
+      "categories": [
+        "Tensegrity",
+        "Space architecture",
+        "Self-published work",
+        "Cable-stayed structures"
+      ],
+      "auteur": "Sergey Makarov (personal site: https://hammer.bas.lv )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plat_9x2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Plat_9x2.jpg/1280px-Plat_9x2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1892,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Brooklyn Bridge (5809293214).jpg",
+      "description": "The Brooklyn Bridge viewed from the Prospect Street, in Brooklyn, New York - 2005",
+      "categories": [
+        "Cables",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Views of the Brooklyn Bridge from Brooklyn",
+        "Brick architecture in the United States",
+        "Files uploaded from Flickr by DarwIn to be reviewed"
+      ],
+      "auteur": "Diego Torres Silvestre from Sao Paulo, Brazil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_(5809293214).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Brooklyn_Bridge_%285809293214%29.jpg/1280px-Brooklyn_Bridge_%285809293214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1680,
+      "hauteur": 1260
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Zugstabsystem Macalloy in Mariinsky Theater.jpg",
+      "description": "Verwendung des Zugstabsystems in Mariinsky Theater in Sankt-Peterburg",
+      "categories": [
+        "Taken with Canon EOS 550D",
+        "Self-published work",
+        "Cable-stayed structures",
+        "Files with coordinates missing SDC location of creation",
+        "Mariinsky-2 spiral stairs",
+        "Macalloy"
+      ],
+      "auteur": "Сергей Вениаминович Пермяков",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zugstabsystem_Macalloy_in_Mariinsky_Theater.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Zugstabsystem_Macalloy_in_Mariinsky_Theater.jpg/1280px-Zugstabsystem_Macalloy_in_Mariinsky_Theater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:PSE Insulation boards and plaster applied on a building facade.jpg",
+      "description": "Rénovation énergétique : isolation thermique par l'extérieur (ITE). Application d'un enduit acrylique (dispersion aqueuse) à prise rapide (en hiver) à base de fibre de verre (StoArmat Classic QS de Sto ) sur des panneaux isolants en mousse de polystyrène (PSE), sur une façade d'immeuble d'habitation. L'enduit de finition sera le Stolit QS MP (en hiver).",
+      "categories": [
+        "Exterior insulation finishing system",
+        "Platforms",
+        "Self-published work",
+        "Men at work in France",
+        "Residential buildings in Nièvre",
+        "Blue sky in France",
+        "Cable-stayed structures",
+        "Rénovations de bâtiments au quartier Saint-Laurent de Cosne-Cours-sur-Loire",
+        "Insulation boards by Sto",
+        "Insulation boards by Sto by Cjp24",
+        "Rénovations de bâtiments au quartier Saint-Laurent de Cosne-Cours-sur-Loire by Cjp24"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PSE_Insulation_boards_and_plaster_applied_on_a_building_facade.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/PSE_Insulation_boards_and_plaster_applied_on_a_building_facade.jpg/1280px-PSE_Insulation_boards_and_plaster_applied_on_a_building_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2142,
+      "hauteur": 1332
+    }
+  ]
+}

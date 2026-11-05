@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "griffe-a-cintrer",
+    "terme": "la griffe à cintrer",
+    "categorie": "Chantier et outillage",
+    "definition": "Barre d'acier terminée par une fourche, avec laquelle le ferrailleur plie à la main les fers à béton.",
+    "priorite": 3,
+    "requetes": [
+      "rebar bending tool hand",
+      "clé à cintrer fer à béton",
+      "hickey bar rebar"
+    ],
+    "incompatibles": [
+      "cintreuse-a-armatures"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chamsin Kehl.jpg",
+      "description": "Tramway de Strasbourg, ligne transfrontalière , chantier du pont",
+      "categories": [
+        "Bridge construction in Germany",
+        "Overcast in Germany",
+        "Beatus Rhenanus Bridge",
+        "Images with annotations",
+        "Rebar",
+        "Buildings in Kehl",
+        "Self-published work",
+        "NoFoP-France",
+        "Bridge construction in France",
+        "Construction sites in Baden-Württemberg",
+        "Construction sites in Alsace",
+        "High-rises in Ortenaukreis",
+        "2015 in bridge construction",
+        "Files with coordinates missing SDC location of creation (48° N, 7° E)",
+        "Chamsin (ship, 2000)"
+      ],
+      "auteur": "Ikar.us",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chamsin_Kehl.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Chamsin_Kehl.jpg/1280px-Chamsin_Kehl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 816
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:169th CES Deployment for Training 150629-Z-WT236-030.jpg",
+      "description": "U.S. Air Force Tech. Sgt. Kendall Bearden, a power pro technician from the South Carolina Air National Guard’s 169th Civil Engineer Squadron at McEntire Joint National Guard Base, S.C., carries rebar during construction for multipurpose buildings in support of a Deployment for Training in Israel, June 29, 2015. The construction project is to help S.C. PRIME BEEF Airmen maintain their civil engineering specialties. Swamp Fox civil engineers are working alongside 200th RED HORSE Squadron and U.S. Navy Seabees civil engineers during the training exercise. (South Carolina Air National Guard photo ",
+      "categories": [
+        "United States Air Force airmen",
+        "Rebar",
+        "169th Fighter Wing (South Carolina Air National Guard)",
+        "PD US National Guard",
+        "Files created by the United States National Guard with known IDs",
+        "People carrying objects",
+        "Images from DoD uploaded by Fæ",
+        "200th Rapid Engineer Deployable Heavy Operational Repair Squadron Engineers",
+        "Israel photographs taken on 2015-06-29",
+        "169th Civil Engineer Squadron (United States Air Force)"
+      ],
+      "auteur": "Tech. Sgt. Caycee Watson",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:169th_CES_Deployment_for_Training_150629-Z-WT236-030.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/169th_CES_Deployment_for_Training_150629-Z-WT236-030.jpg/1280px-169th_CES_Deployment_for_Training_150629-Z-WT236-030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Acciaio per armatura.jpg",
+      "description": "Barre d'acciaio per armatura di strutture in cemento armato, a destra il tipo attualmente in uso ad aderenza migliorata",
+      "categories": [
+        "GFDL",
+        "Rebar",
+        "License migration completed",
+        "Photographs taken on 2006-08-07"
+      ],
+      "auteur": "Mattia Campolese",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acciaio_per_armatura.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Acciaio_per_armatura.jpg/1280px-Acciaio_per_armatura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1564,
+      "hauteur": 1032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A bunch of rebar.jpg",
+      "description": "Closeup of straight rebar at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Retouched pictures",
+        "Rebar",
+        "Decomposed granite",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Bundles",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden",
+        "Reused images by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_bunch_of_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_bunch_of_rebar.jpg/1280px-A_bunch_of_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4512,
+      "hauteur": 3504
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A reinforced steel nest - geograph.org.uk - 7238387.jpg",
+      "description": "A reinforced steel nest",
+      "categories": [
+        "Rebar",
+        "Images from Geograph Britain and Ireland",
+        "Construction debris",
+        "July 2022 in Bristol",
+        "Redcliff Quarter",
+        "Demolitions in Bristol"
+      ],
+      "auteur": "Neil Owen",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_reinforced_steel_nest_-_geograph.org.uk_-_7238387.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/A_reinforced_steel_nest_-_geograph.org.uk_-_7238387.jpg/1280px-A_reinforced_steel_nest_-_geograph.org.uk_-_7238387.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Baustahlmaschine.JPG",
+      "description": "Maschine zum Biegen von Baustahl",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Supported by Wikimedia Deutschland",
+        "Fotoprojekt Bauma 2016 (supported by Wikimedia Deutschland)"
+      ],
+      "auteur": "Mailtosap",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baustahlmaschine.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Baustahlmaschine.JPG/1280px-Baustahlmaschine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    }
+  ]
+}

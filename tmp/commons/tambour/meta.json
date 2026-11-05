@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "tambour",
+    "terme": "le tambour",
+    "categorie": "Structure",
+    "definition": "Mur circulaire ou polygonal, souvent percé de fenêtres, qui surélève une coupole au-dessus de sa base.",
+    "priorite": 3,
+    "requetes": [
+      "dome drum windows",
+      "tambour coupole",
+      "drum of dome"
+    ],
+    "incompatibles": [
+      "coupole"
+    ],
+    "categoriesCommons": [
+      "Category:Domes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Beït ed Dine, dak van een badhuis, Bestanddeelnr 255-6413.jpg",
+      "description": "Collectie / Archief : Fotocollectie Van de Poll Reportage / Serie : Midden-Oosten 1950-1955: Libanon Beschrijving : Beït ed Dine, dak van een badhuis Datum : 1950 Locatie : Beit Ed Dine, Libanon Trefwoorden : badhuizen, daken Fotograaf : Poll, Willem van de Auteursrechthebbende : Nationaal Archief Materiaalsoort : Negatief (zwart/wit) Nummer archiefinventaris : bekijk toegang 2.24.14.02 Bestanddeelnummer : 255-6413",
+      "categories": [
+        "CC-Zero",
+        "Domes",
+        "Images from Nationaal Archief",
+        "Beiteddine",
+        "Photographs by Willem van de Poll in Lebanon (1950)",
+        "Historical images of Beit ed-Dine"
+      ],
+      "auteur": "Willem van de Poll",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Be%C3%AFt_ed_Dine,_dak_van_een_badhuis,_Bestanddeelnr_255-6413.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Be%C3%AFt_ed_Dine%2C_dak_van_een_badhuis%2C_Bestanddeelnr_255-6413.jpg/1280px-Be%C3%AFt_ed_Dine%2C_dak_van_een_badhuis%2C_Bestanddeelnr_255-6413.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2593,
+      "hauteur": 2586
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cúpula Congreso DSC 0073 (2).jpg",
+      "description": "Cúpula Congreso y Monumento Plaza",
+      "categories": [
+        "Domes",
+        "Self-published work"
+      ],
+      "auteur": "Suhibi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C%C3%BApula_Congreso_DSC_0073_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/C%C3%BApula_Congreso_DSC_0073_%282%29.jpg/1280px-C%C3%BApula_Congreso_DSC_0073_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4097,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Data mosaic shows \"all sky\" brightness measurements from celestial and outdoor light sources at Chaco Culture National (e0427315-1dd8-b71b-0b49-ad8337a6e692).jpg",
+      "description": "Data mosaic shows \"all sky\" brightness measurements from celestial and outdoor light sources at Chaco Culture National Historical Park, New Mexico. Keywords: all sky brightness; night sky; sky; night skies; light pollution; artificial light; estimated artificial sky glow; viewshed; natural lightscape; sky glow; skyglow; false color panorama; panorama; natural sounds and night skies division; nsnsd; national park; national monument; national park service; nps; dark sky; dark skies; dome; nightskies; new mexico; Chaco Culture National Historical Park; CHCU",
+      "categories": [
+        "Skyglow",
+        "Panoramas",
+        "Domes",
+        "Chaco Culture National Historical Park",
+        "PD US NPS",
+        "Taken on missing SDC inception",
+        "Monitoring",
+        "Photographs taken on 2016-04-19",
+        "Images from NPGallery",
+        "\"All sky\" brightness"
+      ],
+      "auteur": "NPS",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Data_mosaic_shows_%22all_sky%22_brightness_measurements_from_celestial_and_outdoor_light_sources_at_Chaco_Culture_National_(e0427315-1dd8-b71b-0b49-ad8337a6e692).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Data_mosaic_shows_%22all_sky%22_brightness_measurements_from_celestial_and_outdoor_light_sources_at_Chaco_Culture_National_%28e0427315-1dd8-b71b-0b49-ad8337a6e692%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1097
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Data mosaic shows \"all sky\" brightness measurements from celestial and outdoor lighting sources, Emory Peak, Big Bend National (dbed6a46-1dd8-b71b-0b40-cbca553dec0d).jpg",
+      "description": "Data mosaic shows \"all sky\" brightness measurements from celestial and outdoor lighting sources, Emory Peak, Big Bend National Park, Texas. Keywords: all sky brightness; night sky; sky; night skies; light pollution; artificial light; estimated artificial sky glow; viewshed; natural lightscape; sky glow; skyglow; false color panorama; panorama; natural sounds and night skies division; nsnsd; national park; national monument; national park service; nps; dark sky; dark skies; dome; emory peak; big bend national park; nightskies",
+      "categories": [
+        "Skyglow",
+        "Panoramas",
+        "Big Bend National Park",
+        "Domes",
+        "PD US NPS",
+        "Taken on missing SDC inception",
+        "Monitoring",
+        "Photographs taken on 2016-04-19",
+        "Images from NPGallery",
+        "\"All sky\" brightness"
+      ],
+      "auteur": "NPS",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Data_mosaic_shows_%22all_sky%22_brightness_measurements_from_celestial_and_outdoor_lighting_sources,_Emory_Peak,_Big_Bend_National_(dbed6a46-1dd8-b71b-0b40-cbca553dec0d).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Data_mosaic_shows_%22all_sky%22_brightness_measurements_from_celestial_and_outdoor_lighting_sources%2C_Emory_Peak%2C_Big_Bend_National_%28dbed6a46-1dd8-b71b-0b40-cbca553dec0d%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1097
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Baku - Baku8398.jpg",
+      "description": "Interior dome and gilded cenotaph of a Shia shrine in Baku.",
+      "categories": [
+        "CC-Zero",
+        "Islamic architecture",
+        "Domes",
+        "Cenotaphs",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Shrines in Azerbaijan",
+        "Flickr images missing SDC copyright status",
+        "Flickr images missing SDC inception",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "lumoplank",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baku_-_Baku8398.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Baku_-_Baku8398.jpg/1280px-Baku_-_Baku8398.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chatsworth dome (18503327454).jpg",
+      "description": "Chatsworth dome",
+      "categories": [
+        "Domes",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Nguyenhai314"
+      ],
+      "auteur": "Sketyl none",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chatsworth_dome_(18503327454).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Chatsworth_dome_%2818503327454%29.jpg/1280px-Chatsworth_dome_%2818503327454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4802,
+      "hauteur": 3288
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "maison-de-signare",
+    "terme": "la maison de signare",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Maison coloniale de Gorée ou de Saint-Louis à étage sur rez-de-chaussée, avec escalier extérieur, galerie et toit de tuiles.",
+    "priorite": 3,
+    "requetes": [
+      "maison de signare",
+      "Gorée colonial house",
+      "Saint-Louis Senegal colonial house"
+    ],
+    "incompatibles": [
+      "maison-coloniale"
+    ],
+    "categoriesCommons": [
+      "Category:Colonial architecture in Senegal",
+      "Category:Gorée"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Un ancien Bâtiment à Pout Diak 02.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Colonial architecture in Senegal",
+        "Self-published work",
+        "Uploaded via Campaign:wlafrica",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check",
+        "Pout Diak"
+      ],
+      "auteur": "Kalamuh 045",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Un_ancien_B%C3%A2timent_%C3%A0_Pout_Diak_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Un_ancien_B%C3%A2timent_%C3%A0_Pout_Diak_02.jpg/1280px-Un_ancien_B%C3%A2timent_%C3%A0_Pout_Diak_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Agave sisalana de l'ile de Goree.jpg",
+      "description": "Une Platation bien faite dans au niveau de l'Île de Gorée qui embellit la devanture de la maison des ésclaves de Gorée.",
+      "categories": [
+        "Agave sisalana",
+        "Gorée",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2023",
+        "Uploaded via Campaign:wlafrica",
+        "Files with coordinates missing SDC location of creation",
+        "Asparagaceae in Senegal",
+        "Images from Wiki Loves Africa 2023 in Senegal"
+      ],
+      "auteur": "Lebayefallserrère",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Agave_sisalana_de_l%27ile_de_Goree.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Agave_sisalana_de_l%27ile_de_Goree.jpg/1280px-Agave_sisalana_de_l%27ile_de_Goree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bunker abandonné.jpg",
+      "description": "Bunker de l'époque coloniale",
+      "categories": [
+        "Colonial architecture in Senegal",
+        "Self-published work",
+        "Forts in Senegal",
+        "Images from Wiki Loves Earth 2023 in Senegal",
+        "Natural Reserve of Popenguine",
+        "Excursion photographique WLE 2023 Popenguine"
+      ],
+      "auteur": "Nickos",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bunker_abandonn%C3%A9.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bunker_abandonn%C3%A9.jpg/1280px-Bunker_abandonn%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Arbre à Goree.jpg",
+      "description": "Ceci est une image en rapport avec le thème Climat + Météo en Afrique en/au : Sénégal",
+      "categories": [
+        "Trees in Senegal",
+        "Gorée",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2023",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2023 in Senegal",
+        "Whitewashed tree trunks"
+      ],
+      "auteur": "ThiernoYaya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arbre_%C3%A0_Goree.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Arbre_%C3%A0_Goree.jpg/1280px-Arbre_%C3%A0_Goree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:ThièsColoniale.JPG",
+      "description": "Maison coloniale à Thiès (Sénégal)",
+      "categories": [
+        "Colonial architecture in Senegal",
+        "Taken with Nikon Coolpix S500",
+        "Thiès",
+        "Self-published work",
+        "PD-self",
+        "Houses in Senegal",
+        "January 2008 in Senegal"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Thi%C3%A8sColoniale.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Thi%C3%A8sColoniale.JPG/1280px-Thi%C3%A8sColoniale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alec Baobab.jpg",
+      "description": "Baobab se trouvant à la place public de Gorée",
+      "categories": [
+        "Gorée",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2023",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2023 in Senegal",
+        "Adansonia digitata in Senegal",
+        "Taken with Tecno Spark 9T",
+        "Balade photographique à Gorée"
+      ],
+      "auteur": "El Hadji Thioune",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alec_Baobab.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Alec_Baobab.jpg/1280px-Alec_Baobab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1872,
+      "hauteur": 4160
+    }
+  ]
+}

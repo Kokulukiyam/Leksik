@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "bardeau",
+    "terme": "le bardeau",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Petite planchette de bois fendu posée en recouvrement sur un toit ou une façade, comme des écailles.",
+    "priorite": 3,
+    "requetes": [
+      "wooden shingles",
+      "wood shingle roof",
+      "bardeaux de bois"
+    ],
+    "incompatibles": [
+      "bardage",
+      "tuile",
+      "bardeau-bitume"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden shingles",
+      "Category:Shingles",
+      "Category:Shingle roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bardeau2011.jpg",
+      "description": "Bardeau de bois sur un mur d'une cabane située sur le bord du fleuve Saint-Laurent",
+      "categories": [
+        "Taken with Nikon D7000",
+        "Wooden shingles",
+        "Files with coordinates missing SDC location of creation",
+        "Images by Letartean"
+      ],
+      "auteur": "Letartean",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bardeau2011.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Bardeau2011.jpg/1280px-Bardeau2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3403,
+      "hauteur": 2213
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ickford VillageHall east.JPG",
+      "description": "Ickford Village Hall, Ickford, Buckinghamshire",
+      "categories": [
+        "Taken with Nikon D70s",
+        "Shingle roofs",
+        "1946 in the United Kingdom",
+        "Ickford",
+        "1946 establishments",
+        "Self-published work",
+        "Village halls in Buckinghamshire"
+      ],
+      "auteur": "Motacilla",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ickford_VillageHall_east.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Ickford_VillageHall_east.JPG/1280px-Ickford_VillageHall_east.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2950,
+      "hauteur": 1770
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bystřice nad Olší, kostel a jeho okolí (10).JPG",
+      "description": "This photograph was taken with a DSLR from WMCZ's Camera grant .",
+      "categories": [
+        "Images of Czechia by User:Podzemnik",
+        "Photos taken with WMCZ camera",
+        "Church of the Exaltation of the Holy Cross (Bystřice)",
+        "Wooden shingles",
+        "Self-published work",
+        "Images by User:Podzemnik",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Michal Klajban",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Byst%C5%99ice_nad_Ol%C5%A1%C3%AD,_kostel_a_jeho_okol%C3%AD_(10).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Byst%C5%99ice_nad_Ol%C5%A1%C3%AD%2C_kostel_a_jeho_okol%C3%AD_%2810%29.JPG/1280px-Byst%C5%99ice_nad_Ol%C5%A1%C3%AD%2C_kostel_a_jeho_okol%C3%AD_%2810%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3684,
+      "hauteur": 2480
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Shingle Fortepan 95072.jpg",
+      "description": "Tags: shingle",
+      "categories": [
+        "Images from Fortepan",
+        "Shingles",
+        "Images uploaded by Fæ",
+        "PD US expired",
+        "1909 black and white photographs"
+      ],
+      "auteur": "FOTO:Fortepan — ID 95072 : Adományozó/Donor: Magyar Földrajzi Múzeum / Diagyűjtemény.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shingle_Fortepan_95072.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Shingle_Fortepan_95072.jpg/1280px-Shingle_Fortepan_95072.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5287,
+      "hauteur": 3598
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Linz Urfahr Dießenleitenweg Hochbehälter Wasserwerk 1902-4032-2.jpg",
+      "description": "The water reservoir on the slope of the Pöstlingberg near Dießenleitenweg in Linz was built in 1902 together with the Heilham waterworks. At that time Urfahr was still a city in its own right. Therefore there was still an Urfahr waterworks. This facility has belonged to the city of Linz since 1919.",
+      "categories": [
+        "Shingle roofs",
+        "Linz AG",
+        "Pöstlingberg (Quarter in Linz)",
+        "Self-published work",
+        "Media from WikiDaheim in Austria check done",
+        "Water works in Austria",
+        "Built in Austria in 1902",
+        "Metal doors in Austria",
+        "Media from WikiDaheim 2021 in Austria/all",
+        "Rustication (architecture) in Austria",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded via Campaign:WikiDaheim-at",
+        "Media from WikiDaheim 2021 in Austria/Unspecified"
+      ],
+      "auteur": "Isiwal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Linz_Urfahr_Die%C3%9Fenleitenweg_Hochbeh%C3%A4lter_Wasserwerk_1902-4032-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Linz_Urfahr_Die%C3%9Fenleitenweg_Hochbeh%C3%A4lter_Wasserwerk_1902-4032-2.jpg/1280px-Linz_Urfahr_Die%C3%9Fenleitenweg_Hochbeh%C3%A4lter_Wasserwerk_1902-4032-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Budurleni - Bistrita-Nasaud (11).jpg",
+      "description": "October 2010",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Wooden shingles",
+        "Wooden church in Budurleni, Bistrița-Năsăud",
+        "Flickr images reviewed by trusted users",
+        "Images from Wiki Loves Monuments 2011",
+        "Cultural heritage monuments in Romania with known IDs",
+        "Images from Wiki Loves Monuments 2011 in Romania",
+        "Romania photographs taken on 2010-10-23",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Romania missing SDC location of creation",
+        "Flickr images from Wiki Loves Monuments 2011 in Romania",
+        "Photographs by Cristian Bortes"
+      ],
+      "auteur": "Cristian Bortes from Cluj-Napoca, Romania",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Budurleni_-_Bistrita-Nasaud_(11).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Budurleni_-_Bistrita-Nasaud_%2811%29.jpg/1280px-Budurleni_-_Bistrita-Nasaud_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    }
+  ]
+}

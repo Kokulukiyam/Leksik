@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "tuile-plate",
+    "terme": "la tuile plate",
+    "categorie": "Toitures",
+    "definition": "Petite tuile plane rectangulaire posée à recouvrement, comme une écaille.",
+    "priorite": 3,
+    "requetes": [
+      "plain clay roof tiles",
+      "tuile plate toiture",
+      "flat clay tiles roof"
+    ],
+    "incompatibles": [
+      "tuile",
+      "ardoise"
+    ],
+    "categoriesCommons": [
+      "Category:Flat roof tiles",
+      "Category:Roof tiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Poros Museum - Roof Tile 1.JPG",
+      "description": "Archaeological Museum of Poros, Greece: Painted roof tile from tempel of ancient Methana (Early Hellenistic Period)",
+      "categories": [
+        "GFDL",
+        "Acropolis Palaiokastro",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Archaeological Museum of Poros",
+        "Self-published work",
+        "Roof tiles in Greece",
+        "Files with coordinates missing SDC location of creation",
+        "Flat roof tiles",
+        "Ancient roof tiles"
+      ],
+      "auteur": "Schuppi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Poros_Museum_-_Roof_Tile_1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Poros_Museum_-_Roof_Tile_1.JPG/1280px-Poros_Museum_-_Roof_Tile_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5456,
+      "hauteur": 3632
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dachpfannenprofil produktion.jpg",
+      "description": "Dachpfannenprofil das aus der Rollformanlage kommt",
+      "categories": [
+        "Roof tiles",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "HNB Nordbleche GmbH",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannenprofil_produktion.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Dachpfannenprofil_produktion.jpg/1280px-Dachpfannenprofil_produktion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Put to new use (2707086897).jpg",
+      "description": "Immeuble du \"Sporting Bar\", Châtillon-sur-Seine, Côte-d'Or, France",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Bars in Bourgogne-Franche-Comté",
+        "Tiled roofs in Côte-d'Or",
+        "July 2008 in Côte-d'Or",
+        "Wooden buildings in Côte-d'Or",
+        "Stone buildings in Côte-d'Or",
+        "France photographs taken on 2008-07-08",
+        "Timber framed houses in Arrondissement Montbard",
+        "Buildings in Châtillon-sur-Seine",
+        "Photographs by fourthandfifteen",
+        "Flat roof tiles"
+      ],
+      "auteur": "fourthandfifteen",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Put_to_new_use_(2707086897).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Put_to_new_use_%282707086897%29.jpg/1280px-Put_to_new_use_%282707086897%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Poros Museum - Roof Tile 2.JPG",
+      "description": "Archaeological Museum of Poros, Greece: Painted roof tile from tempel of ancient Methana (Early Hellenistic Period)",
+      "categories": [
+        "GFDL",
+        "Acropolis Palaiokastro",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Archaeological Museum of Poros",
+        "Self-published work",
+        "Roof tiles in Greece",
+        "Files with coordinates missing SDC location of creation",
+        "Flat roof tiles",
+        "Ancient roof tiles"
+      ],
+      "auteur": "Schuppi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Poros_Museum_-_Roof_Tile_2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Poros_Museum_-_Roof_Tile_2.JPG/1280px-Poros_Museum_-_Roof_Tile_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5456,
+      "hauteur": 3632
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dachpfannenprofil anbringen.jpeg",
+      "description": "Dachpfannenprofil Nordblech Klassik auf Nebengebäude decken",
+      "categories": [
+        "Roof tiles",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "HNB Nordbleche GmbH",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannenprofil_anbringen.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Dachpfannenprofil_anbringen.jpeg/1280px-Dachpfannenprofil_anbringen.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dakpan achterzijde - Unknown - 20317991 - RCE.jpg",
+      "description": "Diversen: dakpan achterzijde",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Roof tiles",
+        "Photographs by A.H.C. Schollen"
+      ],
+      "auteur": "Ton Schollen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dakpan_achterzijde_-_Unknown_-_20317991_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Dakpan_achterzijde_-_Unknown_-_20317991_-_RCE.jpg/1280px-Dakpan_achterzijde_-_Unknown_-_20317991_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3054,
+      "hauteur": 3066
+    }
+  ]
+}

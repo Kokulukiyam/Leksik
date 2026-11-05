@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "opus-incertum",
+    "terme": "l'opus incertum",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Appareil de moellons de formes irrégulières assemblés sans rangs, avec des joints en tous sens.",
+    "priorite": 3,
+    "requetes": [
+      "opus incertum",
+      "appareil irrégulier moellons",
+      "random rubble masonry wall"
+    ],
+    "incompatibles": [
+      "mur-en-moellons",
+      "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Opus incertum",
+      "Category:Masonry"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Opus incertum en pierre de Bourgogne.jpg",
+      "description": "Opus incertum en pierre de Bourgogne",
+      "categories": [
+        "Tiles",
+        "Opus incertum",
+        "Paving",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Thibaut REMY",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Opus_incertum_en_pierre_de_Bourgogne.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Opus_incertum_en_pierre_de_Bourgogne.jpg/1280px-Opus_incertum_en_pierre_de_Bourgogne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 1224
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:\"Hark\" (harpa in het Papiaments).jpg",
+      "description": "Gebruikt om houtskool uit de oven te halen",
+      "categories": [
+        "Masonry",
+        "Self-published work"
+      ],
+      "auteur": "ElvijonH",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Hark%22_(harpa_in_het_Papiaments).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/%22Hark%22_%28harpa_in_het_Papiaments%29.jpg/1280px-%22Hark%22_%28harpa_in_het_Papiaments%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Amphitheatre of Durrës 2013-09 001.jpg",
+      "description": "Vaults below the rows of seats, opus incertum is nicely displayed",
+      "categories": [
+        "Amphitheatre of Durrës",
+        "Taken with Nikon D5100",
+        "Opus incertum",
+        "Self-published work"
+      ],
+      "auteur": "Attila Terbócs",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Durr%C3%ABs_2013-09_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Amphitheatre_of_Durr%C3%ABs_2013-09_001.jpg/1280px-Amphitheatre_of_Durr%C3%ABs_2013-09_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1060
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A brick wall made of bricks of different sizes.jpg",
+      "description": "Кирпичная стена из кирпича разного размера.",
+      "categories": [
+        "Masonry",
+        "Self-published work",
+        "Taken with BQ Mobile Choice"
+      ],
+      "auteur": "Алёна Синичкина",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_brick_wall_made_of_bricks_of_different_sizes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/A_brick_wall_made_of_bricks_of_different_sizes.jpg/1280px-A_brick_wall_made_of_bricks_of_different_sizes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Narbonne - Horreum romain - 20151218 (1).jpg",
+      "description": "Narbonne ( Aude , Languedoc-Roussillon , France) - Horreum romain.",
+      "categories": [
+        "Horreum (Narbonne)",
+        "Opus incertum",
+        "Sepia photographs of Occitanie in the 21st century",
+        "Self-published work",
+        "Blind doors in France",
+        "Black and white photographs of Aude in the 2010s",
+        "France photographs taken on 2015-12-18",
+        "2015 in Narbonne",
+        "Sepia photographs of Aude",
+        "Building interiors in Narbonne",
+        "Black and white photographs of Narbonne",
+        "Photographs by Olybrius - 2015-12-18"
+      ],
+      "auteur": "Olybrius",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Narbonne_-_Horreum_romain_-_20151218_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Narbonne_-_Horreum_romain_-_20151218_%281%29.jpg/1280px-Narbonne_-_Horreum_romain_-_20151218_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ba-nikolsky-2001-brickwork.jpg",
+      "description": "Brickwork of Nikolsky cathedral of Nikolsky monastery in Pereslavl.",
+      "categories": [
+        "Masonry",
+        "Self-published work",
+        "Bricks in Russia",
+        "Red bricks",
+        "Stacks of bricks",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Bakhtiyor Abdullaev",
+        "Construction of Nikolsky cathedral (Pereslavl-Zalessky)"
+      ],
+      "auteur": "Бахтиёр Абдуллаев",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ba-nikolsky-2001-brickwork.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ba-nikolsky-2001-brickwork.jpg/1280px-Ba-nikolsky-2001-brickwork.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1028
+    }
+  ]
+}

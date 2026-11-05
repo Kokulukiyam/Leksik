@@ -1,0 +1,170 @@
+{
+  "terme": {
+    "id": "grille-extensible",
+    "terme": "la grille extensible",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Grille métallique articulée en croisillons qui se replie en accordéon sur le côté d'une porte ou d'une vitrine.",
+    "priorite": 3,
+    "requetes": [
+      "collapsible gate",
+      "grille extensible",
+      "scissor gate shop"
+    ],
+    "incompatibles": [
+      "rideau-metallique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Peeping through a collapsible gate.jpg",
+      "description": "Peeping through a collapsible gate near a Park in Kolkata, West Bengal, India",
+      "categories": [
+        "Parks",
+        "Self-published work",
+        "Collapsible objects"
+      ],
+      "auteur": "Salil Kumar Mukherjee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Peeping_through_a_collapsible_gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Peeping_through_a_collapsible_gate.jpg/1280px-Peeping_through_a_collapsible_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Liebherr tracked vehicle on Goldhofer trailer - right view2.jpg",
+      "description": "Convoi exceptionnel (effectué par les transports du groupe Courcelle) en stationnement sur une zone de repos en bordure de la D955A, près de l'A77, à Cosne-Cours-sur-Loire ( Nièvre , France). Composition : tracteur Volvo ; remorque (à plateau bas extensible) porte-engins Goldhofer STHP/XLE 8 de 137 tonnes à 8 essieux (3 AV + 5 AR) ; pelle mécanique hydraulique de démolition Liebherr R 974 B VH-HD Litronic (pelle spécialisée ; sur chenilles) (sur la photo : sans bras de démolition). Pelle (appartenant à l'entreprise Prestosid) de caractéristiques : poids en ordre de marche : ~120 t ; moteur : D",
+      "categories": [
+        "Images with annotations",
+        "Self-published work",
+        "Pictures by Cjp24",
+        "Road transport in Nièvre",
+        "Yellow land vehicles",
+        "Semi-trailer trucks in France",
+        "Street lights in Nièvre",
+        "Volvo trucks in France",
+        "Road vehicles in France photographed in 2016",
+        "Oversized loads in France",
+        "Volvo semi-trailer tractors",
+        "Construction vehicle transport trucks",
+        "Flatbed low loader semi-trailer trucks",
+        "Liebherr R 974",
+        "Trucks in Cosne-Cours-sur-Loire",
+        "Excavators in Cosne-Cours-sur-Loire",
+        "Goldhofer trailers"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Liebherr_tracked_vehicle_on_Goldhofer_trailer_-_right_view2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Liebherr_tracked_vehicle_on_Goldhofer_trailer_-_right_view2.jpg/1280px-Liebherr_tracked_vehicle_on_Goldhofer_trailer_-_right_view2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:CCFL702@Lomba12(1967)2.jpg",
+      "description": "Lisbon 6705835 702 Route 12 Largo Rodrigues do Freitas at Rua de Santa Marinha 670929",
+      "categories": [
+        "Images with watermarks",
+        "Signalmen (rail)",
+        "Carris route 12E",
+        "Wine barrels in Portugal",
+        "Lisbon tram 702",
+        "Pawn shops in Portugal",
+        "Sentry boxes in Portugal",
+        "Lisbon trams with scissor gates",
+        "PD-Portugal-URAA",
+        "September 1967 in Europe",
+        "21 (house number)",
+        "Lisbon trams in 1967",
+        "Photographs taken on 1967-09-29",
+        "September in Lisbon",
+        "Lisbon trams in plain yellow livery",
+        "Lisbon trams facing left (series 701-735)",
+        "Anonymous people of Lisbon",
+        "Intersection of Costa do Castelo × Calçada de Santo André × Largo Rodrigues de Freitas × Calçada da Graça",
+        "Tram overhead line poles in Lisbon",
+        "Clothes lines in Lisbon",
+        "Drying laundry in Lisbon",
+        "Carris route signage with slashed numerals"
+      ],
+      "auteur": "John F. Bromley",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CCFL702@Lomba12(1967)2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/CCFL702%40Lomba12%281967%292.jpg/1280px-CCFL702%40Lomba12%281967%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3802,
+      "hauteur": 2629
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Main floor bronze gates 1908.jpg",
+      "description": "1908 photograph of the collapsible bronze gates at the main stairs on the main floor of the Cleveland Trust Company building in Cleveland, Ohio, in the United States.",
+      "categories": [
+        "PD US expired",
+        "PD-US missing SDC copyright status",
+        "Interior of the Cleveland Trust Company Building"
+      ],
+      "auteur": "The Cleveland Trust Company: An Epitome of the Past, A Chronicle of the Present, A Promise of the Future . Cleveland: The Cleveland Trust Company, 1908, p. 43 overleaf.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Main_floor_bronze_gates_1908.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Main_floor_bronze_gates_1908.jpg/1280px-Main_floor_bronze_gates_1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1622,
+      "hauteur": 1266
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:CCFL702@Lomba12(1967)1.jpg",
+      "description": "Lisbon street scene with tram in 1967",
+      "categories": [
+        "Signalmen (rail)",
+        "Carris route 12E",
+        "Wine barrels in Portugal",
+        "Lisbon tram 702",
+        "Pawn shops in Portugal",
+        "Sentry boxes in Portugal",
+        "Lisbon trams with scissor gates",
+        "PD-Portugal-URAA",
+        "September 1967 in Europe",
+        "21 (house number)",
+        "Lisbon trams in 1967",
+        "Photographs taken on 1967-09-29",
+        "September in Lisbon",
+        "Lisbon trams in plain yellow livery",
+        "Lisbon trams facing left (series 701-735)",
+        "Anonymous people of Lisbon",
+        "Intersection of Costa do Castelo × Calçada de Santo André × Largo Rodrigues de Freitas × Calçada da Graça",
+        "Tram overhead line poles in Lisbon",
+        "Clothes lines in Lisbon",
+        "Drying laundry in Lisbon",
+        "Carris route signage with slashed numerals",
+        "Partial views of Lisbon trams"
+      ],
+      "auteur": "John F. Bromley",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CCFL702@Lomba12(1967)1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/CCFL702%40Lomba12%281967%291.jpg/1280px-CCFL702%40Lomba12%281967%291.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3868,
+      "hauteur": 2585
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Austin Seven Meteor – Robinson & Co 1929.JPG",
+      "description": "This Australian designed vintage 1929 Austin Seven Meteor sports model is one of a limited number built between 1928-29 by coachbuilder A Robinson & Co. of 181 Castlereagh Street, Sydney. • Chassis is standard production 1929 Austin Seven type AD Tourer, with exception of a lower steering box angle and lengthened steering column. • Engine is standard production late 1928 / early 1929 4 cylinder side-valve 2 bearing 1 1/8\" crank-shaft developing 10.5bhp @ 2400rpm, with exception of a 1936 high compression cylinder head ( 1A911-AF1 5.6.6 ). • Body and single passenger door are constructed of she",
+      "categories": [
+        "Taken with Canon PowerShot G2",
+        "Self-published work",
+        "1929 Austin automobiles",
+        "1928 Austin automobiles",
+        "Tonneau covers",
+        "Austin 7 Meteor"
+      ],
+      "auteur": "Christopher Killalea",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Austin_Seven_Meteor_%E2%80%93_Robinson_%26_Co_1929.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Austin_Seven_Meteor_%E2%80%93_Robinson_%26_Co_1929.JPG/1280px-Austin_Seven_Meteor_%E2%80%93_Robinson_%26_Co_1929.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    }
+  ]
+}

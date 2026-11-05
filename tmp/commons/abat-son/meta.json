@@ -1,0 +1,165 @@
+{
+  "terme": {
+    "id": "abat-son",
+    "terme": "l'abat-son",
+    "categorie": "Façade et ouvertures",
+    "definition": "Ensemble de lames inclinées fermant les baies d'un clocher, qui rabattent le son vers le sol.",
+    "priorite": 3,
+    "requetes": [
+      "louvred belfry opening",
+      "abat-son clocher",
+      "bell tower louvers"
+    ],
+    "incompatibles": [
+      "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Louvers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Pörtschach Winklern Hauptstraße 106 Villa Edelweiß erstes OG Jalousien 19122013 7213.jpg",
+      "description": "Jalousie windows at the villa Edelweiss, architectural design by architect Prof. Franz Baumgartner, year of creation: 1910, on Hauptstraße #106, municipality Pörtschach am Wörther See , district Klagenfurt Land, Carinthia , Austria , EU",
+      "categories": [
+        "Taken with Nikon D7000",
+        "Villa Edelweiss (Pörtschach am Wörthersee)",
+        "Louvers",
+        "Self-published work",
+        "Cultural heritage monuments in Austria check done",
+        "Images by Johann Jaritz",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Windows in Carinthia",
+        "Window shutters in Carinthia",
+        "Autumn 2013 in Pörtschach am Wörther See",
+        "Semi-open",
+        "Austria photographs taken on 2013-12-19"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:P%C3%B6rtschach_Winklern_Hauptstra%C3%9Fe_106_Villa_Edelwei%C3%9F_erstes_OG_Jalousien_19122013_7213.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/P%C3%B6rtschach_Winklern_Hauptstra%C3%9Fe_106_Villa_Edelwei%C3%9F_erstes_OG_Jalousien_19122013_7213.jpg/1280px-P%C3%B6rtschach_Winklern_Hauptstra%C3%9Fe_106_Villa_Edelwei%C3%9F_erstes_OG_Jalousien_19122013_7213.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Pörtschach Winklern Hauptstraße 106 Villa Edelweiß erstes OG Jalousien 08122022 9544.jpg",
+      "description": "Jalousie windows at the villa Edelweiß, architectural design by architect Prof. Franz Baumgartner, year of creation: 1910, on Hauptstraße #106 in Winklern, municipality Pörtschach am Wörther See , district Klagenfurt Land, Carinthia , Austria , EU",
+      "categories": [
+        "Villa Edelweiss (Pörtschach am Wörthersee)",
+        "Louvers",
+        "Self-published work",
+        "Images by Johann Jaritz",
+        "December 2022 in Carinthia",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Windows in Carinthia",
+        "Austria photographs taken on 2022-12-08",
+        "Window shutters in Carinthia",
+        "Semi-open",
+        "Autumn 2022 in Pörtschach am Wörther See"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:P%C3%B6rtschach_Winklern_Hauptstra%C3%9Fe_106_Villa_Edelwei%C3%9F_erstes_OG_Jalousien_08122022_9544.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/P%C3%B6rtschach_Winklern_Hauptstra%C3%9Fe_106_Villa_Edelwei%C3%9F_erstes_OG_Jalousien_08122022_9544.jpg/1280px-P%C3%B6rtschach_Winklern_Hauptstra%C3%9Fe_106_Villa_Edelwei%C3%9F_erstes_OG_Jalousien_08122022_9544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3280
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Kumoha115-1035 snow separating room louver.jpg",
+      "description": "Louver of snow separating room of JR East 115 series electric multiple unit Kumoha 115-1035.",
+      "categories": [
+        "Taken with Canon PowerShot SX100 IS",
+        "Louvers",
+        "Self-published work",
+        "PD-self",
+        "Files uploaded by Vantey",
+        "Kanji signs (2 letter)",
+        "November 2009 in rail transport in Saitama prefecture",
+        "Japan photographs taken on 2009-11-01",
+        "Railway photographs taken on 2009-11-01",
+        "Train windows in Japan",
+        "JNR 115 (JR East) in Shonan Livery",
+        "Trains at Ageo Station"
+      ],
+      "auteur": "Vantey",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kumoha115-1035_snow_separating_room_louver.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Kumoha115-1035_snow_separating_room_louver.jpg/1280px-Kumoha115-1035_snow_separating_room_louver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Castle, Elmina (P1100197).jpg",
+      "description": "Window at Elmina Castle",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Louvers",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2023 in Ghana",
+        "Images from Wiki Loves Monuments 2023",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Ghana photographs taken on 2023-02-09",
+        "Interior of Elmina Castle",
+        "Taken with Panasonic Lumix DMC-G5 and Panasonic Lumix G Vario HD 14-140mm F4.0-5.8 Asph Mega OIS",
+        "2023 photographs of Central Region (Ghana)"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castle,_Elmina_(P1100197).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Castle%2C_Elmina_%28P1100197%29.jpg/1280px-Castle%2C_Elmina_%28P1100197%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Funchal doors 04 (29101251111).jpg",
+      "description": "Funchal doors 04",
+      "categories": [
+        "Louvers",
+        "Flickr images reviewed by FlickreviewR",
+        "Graffiti in Madeira",
+        "Blind windows in Portugal",
+        "2016 in Funchal",
+        "Roller shutters in Portugal",
+        "Rendered walls in Portugal",
+        "ArT of opEN doors - Travessa do Acciaolli"
+      ],
+      "auteur": "michael clarke stuff",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Funchal_doors_04_(29101251111).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Funchal_doors_04_%2829101251111%29.jpg/1280px-Funchal_doors_04_%2829101251111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Poertschach Hauptstrasse 106 Villa Edelweiss zweites OG Jalousien19122013 212.jpg",
+      "description": "Jalousie windows at the villa Edelweiss, architectural design by architect Prof. Franz Baumgartner, year of creation: 1910, Main street #106, municipality Poertschach on the Lake Woerth , district Klagenfurt Land, Carinthia , Austria , EU",
+      "categories": [
+        "Taken with Nikon D7000",
+        "Villa Edelweiss (Pörtschach am Wörthersee)",
+        "Louvers",
+        "Self-published work",
+        "Cultural heritage monuments in Austria check done",
+        "Images by Johann Jaritz",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Window shutters in Carinthia",
+        "Autumn 2013 in Pörtschach am Wörther See"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 3.0 at",
+      "lien": "https://commons.wikimedia.org/wiki/File:Poertschach_Hauptstrasse_106_Villa_Edelweiss_zweites_OG_Jalousien19122013_212.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Poertschach_Hauptstrasse_106_Villa_Edelweiss_zweites_OG_Jalousien19122013_212.jpg/1280px-Poertschach_Hauptstrasse_106_Villa_Edelweiss_zweites_OG_Jalousien19122013_212.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    }
+  ]
+}

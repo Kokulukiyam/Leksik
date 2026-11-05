@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "climatiseur-de-fenetre",
+    "terme": "le climatiseur de fenêtre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Climatiseur monobloc encastré dans une fenêtre ou dans un trou du mur, dont l'arrière dépasse dehors.",
+    "priorite": 3,
+    "requetes": [
+      "window air conditioner",
+      "climatiseur de fenêtre",
+      "through-wall air conditioner"
+    ],
+    "incompatibles": [
+      "unite-exterieure"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Air conditioning unit installed indoors with copper pipes and electrical connections visible from the rear side in a modern space.jpg",
+      "description": "An air conditioning unit is mounted on a wall, showcasing its rear side. Copper pipes and electrical connections are visible, suggesting ongoing cooling functionality.",
+      "categories": [
+        "Air conditioners",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioning_unit_installed_indoors_with_copper_pipes_and_electrical_connections_visible_from_the_rear_side_in_a_modern_space.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Air_conditioning_unit_installed_indoors_with_copper_pipes_and_electrical_connections_visible_from_the_rear_side_in_a_modern_space.jpg/1280px-Air_conditioning_unit_installed_indoors_with_copper_pipes_and_electrical_connections_visible_from_the_rear_side_in_a_modern_space.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Abluftklappe außen am Haus bei kontrollierter Hausbelüftung Kontrollierte Wohnraumlüftung IMG5231.JPG",
+      "description": "Lüftungsklappe außen an einem Einfamilienhaus, Abluftklappe der Zwangsbelüftung",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Air conditioners",
+        "Exhaust fan shutters"
+      ],
+      "auteur": "Politikaner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abluftklappe_au%C3%9Fen_am_Haus_bei_kontrollierter_Hausbel%C3%BCftung_Kontrollierte_Wohnrauml%C3%BCftung_IMG5231.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abluftklappe_au%C3%9Fen_am_Haus_bei_kontrollierter_Hausbel%C3%BCftung_Kontrollierte_Wohnrauml%C3%BCftung_IMG5231.JPG/1280px-Abluftklappe_au%C3%9Fen_am_Haus_bei_kontrollierter_Hausbel%C3%BCftung_Kontrollierte_Wohnrauml%C3%BCftung_IMG5231.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:AIR CONDITIONER.jpg",
+      "description": "Aircon nag himo og bugnaw nga hangin",
+      "categories": [
+        "Air conditioners",
+        "Self-published work"
+      ],
+      "auteur": "SHEM1230046",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AIR_CONDITIONER.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/AIR_CONDITIONER.jpg/1280px-AIR_CONDITIONER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:'Everybody knows who Sgt. Parker is' 130718-Z-RK751-032.jpg",
+      "description": "U.S. Army Sgt. Richard Parker, a plumber and carpenter, assigned to the 859th Engineer Company, Mississippi Army National Guard works on a 5-kilowatt air conditioning unit at Forward Operating Base Fenty in Nangarhar province, Afghanistan, July 18, 2013. Parker and his team have spent more than 936 man-hours fixing 238 air conditioning units. (U.S. Army National Guard photo by Staff Sgt. Jerry Saslav/Released)",
+      "categories": [
+        "Air conditioners",
+        "Forward Operating Base Fenty",
+        "PD US National Guard",
+        "Files created by the United States National Guard with known IDs",
+        "Men with objects",
+        "Images from DoD uploaded by Fæ",
+        "Afghanistan photographs taken on 2013-07-18",
+        "Men with finger rings",
+        "859th Engineer Company (United States)"
+      ],
+      "auteur": "Staff Sgt. Jerry Saslav",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-032.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-032.jpg/1280px-%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-032.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3805,
+      "hauteur": 2532
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Air conditioning units in Singapore (9336).jpg",
+      "description": "Air conditioning units line the walls of a street in Singapore.",
+      "categories": [
+        "Air conditioners",
+        "Boat Quay",
+        "Uploaded with pattypan",
+        "Flickr images reviewed by trusted users",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC source of file",
+        "Climate change in Singapore",
+        "Climate Visuals upload"
+      ],
+      "auteur": "Rym DeCoster",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioning_units_in_Singapore_(9336).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Air_conditioning_units_in_Singapore_%289336%29.jpg/1280px-Air_conditioning_units_in_Singapore_%289336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 3448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Air conditioner 14.jpg",
+      "description": "Portrait of an air conditioner at sepia tone",
+      "categories": [
+        "Taken with Motorola Moto E (first generation)",
+        "Air conditioners",
+        "Sepia photographs",
+        "Self-published work"
+      ],
+      "auteur": "Dibyendutwipzbiswas",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioner_14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Air_conditioner_14.jpg/1280px-Air_conditioner_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1456,
+      "hauteur": 2592
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "terme": {
+    "id": "fermette",
+    "terme": "la fermette",
+    "categorie": "Toitures",
+    "definition": "Ferme légère industrialisée en bois assemblé par connecteurs métalliques, posée à faible entraxe.",
+    "priorite": 3,
+    "requetes": [
+      "timber trusses gang nail plates",
+      "fermettes industrielles",
+      "prefabricated roof trusses"
+    ],
+    "incompatibles": [
+      "charpente",
+      "ferme"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses",
+      "Category:Timber roof trusses",
+      "Category:Trusses"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Kehlbalkendach nach Böhm.jpg",
+      "description": "Roof truss with collar beam. Böhm, Theodor: Handbuch der Holzkonstruktionen, Dresden 1911, p. 302",
+      "categories": [
+        "Roof construction",
+        "Roof trusses",
+        "Collar beam roof",
+        "PD Old",
+        "CC-PD-Mark",
+        "Drawings of roofs",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Theodor Böhm",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kehlbalkendach_nach_B%C3%B6hm.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Kehlbalkendach_nach_B%C3%B6hm.jpg/1280px-Kehlbalkendach_nach_B%C3%B6hm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1788,
+      "hauteur": 1160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Beaune - Hôtel-Dieu - Intérieur - 04.jpg",
+      "description": "Beaune (Côte-d'Or, France) - Hôtel-Dieu des Hospices civils de Beaune - Charpente et plafond de la Grande Salle des Pôvres",
+      "categories": [
+        "Base Mérimée",
+        "GFDL",
+        "Monuments historiques classés",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Ceilings in Côte-d'Or",
+        "August 2025 in Côte-d'Or",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Files by Benjism89",
+        "Timber roof trusses",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in France",
+        "Grande salle des pôvres de l'Hôtel-Dieu de Beaune",
+        "Images from Wiki Loves Monuments with different SDC participant in",
+        "Bourgogne-Franche-Comté photographs taken on 2025-08-07"
+      ],
+      "auteur": "Benjamin Smith",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beaune_-_H%C3%B4tel-Dieu_-_Int%C3%A9rieur_-_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Beaune_-_H%C3%B4tel-Dieu_-_Int%C3%A9rieur_-_04.jpg/1280px-Beaune_-_H%C3%B4tel-Dieu_-_Int%C3%A9rieur_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6477,
+      "hauteur": 4321
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bay Ridge Av BMT td (2018-09-19) 22.jpg",
+      "description": "Looking at the center columns from Manhattan-bound platform of the Bay Ridge Avenue BMT station, under 4th Avenue and Bay Ridge Avenue in Bay Ridge, Brooklyn. Note the trusses at the top of the beams, typical of Dual Contracts construction but not seen on newer IND construction.",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "R (New York City Subway service)",
+        "Trusses",
+        "R46 (New York City Subway car)",
+        "Self-published work",
+        "New York City Subway trains at stations",
+        "New York City Subway in September 2018",
+        "New York City Subway station platforms in Brooklyn",
+        "Number 5611 on rail vehicles",
+        "Files with coordinates missing SDC location of creation",
+        "Railway photographs taken on 2018-09-19",
+        "2018 New York City Subway photographs by Tdorante10",
+        "2018 in Bay Ridge, Brooklyn",
+        "2018 Brooklyn photographs by Tdorante10",
+        "September 2018 in Brooklyn, New York City",
+        "New York City Subway support beams",
+        "Bay Ridge Avenue BMT station after ESI renovations",
+        "Photographs by Tdorante10 taken on 2018-09-19"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bay_Ridge_Av_BMT_td_(2018-09-19)_22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Bay_Ridge_Av_BMT_td_%282018-09-19%29_22.jpg/1280px-Bay_Ridge_Av_BMT_td_%282018-09-19%29_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Rökerigatan 11, 2010c.jpg",
+      "description": "Slakthusområdet, Rökerigatan 11",
+      "categories": [
+        "Taken with Nikon Coolpix S51",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Photographs by Holger Ellgaard",
+        "Enskede slakthus"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:R%C3%B6kerigatan_11,_2010c.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/R%C3%B6kerigatan_11%2C_2010c.jpg/1280px-R%C3%B6kerigatan_11%2C_2010c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Beaune - Hôtel-Dieu - Intérieur - 02.jpg",
+      "description": "Beaune (Côte-d'Or, France) - Hôtel-Dieu des Hospices civils de Beaune - Charpente et vitraux de la Grande Salle des Pôvres et de la chapelle",
+      "categories": [
+        "Base Mérimée",
+        "GFDL",
+        "Monuments historiques classés",
+        "License migration redundant",
+        "Chapelle de l'Hôtel-Dieu de Beaune",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "August 2025 in Côte-d'Or",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Files by Benjism89",
+        "Timber roof trusses",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in France",
+        "Grande salle des pôvres de l'Hôtel-Dieu de Beaune",
+        "Images from Wiki Loves Monuments with different SDC participant in",
+        "Bourgogne-Franche-Comté photographs taken on 2025-08-07"
+      ],
+      "auteur": "Benjamin Smith",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beaune_-_H%C3%B4tel-Dieu_-_Int%C3%A9rieur_-_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Beaune_-_H%C3%B4tel-Dieu_-_Int%C3%A9rieur_-_02.jpg/1280px-Beaune_-_H%C3%B4tel-Dieu_-_Int%C3%A9rieur_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6256,
+      "hauteur": 3519
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Förbindelsehallen, 2010a.jpg",
+      "description": "Slakthusområdet, Förbindelsehallen",
+      "categories": [
+        "Taken with Nikon Coolpix S51",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Interiors of factories in Stockholm",
+        "Photographs by Holger Ellgaard",
+        "Enskede slakthus"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelsehallen,_2010a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/F%C3%B6rbindelsehallen%2C_2010a.jpg/1280px-F%C3%B6rbindelsehallen%2C_2010a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2979,
+      "hauteur": 2139
+    }
+  ]
+}

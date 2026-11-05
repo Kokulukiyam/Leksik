@@ -1,0 +1,13 @@
+{
+  "termId": "panneau-composite-aluminium",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Longue façade industrielle de petits panneaux clairs sur fond de ciel, avec camion-citerne et route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Copenhague, Danemark",
+      "note": "Façade d'usine à panneaux sandwich selon Commons, mais panneaux petits, aspect quadrillé, photo lointaine ; confusion possible avec bardage ; doute, rejetée."
+    }
+  ]
+}

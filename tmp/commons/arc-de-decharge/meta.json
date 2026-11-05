@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "arc-de-decharge",
+    "terme": "l'arc de décharge",
+    "categorie": "Structure",
+    "definition": "Arc noyé dans la maçonnerie au-dessus d'une baie ou d'un linteau pour en détourner les charges.",
+    "priorite": 3,
+    "requetes": [
+      "relieving arch",
+      "arc de décharge",
+      "relieving arch above lintel"
+    ],
+    "incompatibles": [
+      "arc",
+      "linteau"
+    ],
+    "categoriesCommons": [
+      "Category:Arches",
+      "Category:Lintels"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Baitul Mokarram Mosque 405.jpg",
+      "description": "National Mosque of Bangladesh",
+      "categories": [
+        "Windows",
+        "Islamic architecture",
+        "Arches",
+        "Geometric patterns",
+        "Self-published work",
+        "Project Korikath-All images",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Bangladesh",
+        "Uploaded via Campaign:wlf bd 2026",
+        "Humans walking"
+      ],
+      "auteur": "Frameofashik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baitul_Mokarram_Mosque_405.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baitul_Mokarram_Mosque_405.jpg/1280px-Baitul_Mokarram_Mosque_405.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Jumet - Chapelle Notre-Dame des Affligés (chronogramme 1677).jpg",
+      "description": "Jumet ( Charleroi - Belgique ) - Chapelle Notre-Dame des Affligés (XVIIe - XVIIIe siècle) - ancienne porte d'entrée à linteau droit portant le chronogramme «hanC pIVs aeDeM ereXIt popVLVs» (1677).",
+      "categories": [
+        "Chapelle Notre-Dame des Affligés (Jumet)",
+        "Lintels",
+        "Images with annotations",
+        "Self-published work",
+        "Latin inscriptions in Belgium",
+        "2011 in Charleroi",
+        "Photographs taken on 2011-09-07",
+        "September 2011 Belgium photographs",
+        "Small caps mixed case in Roman numeral chronograms",
+        "Plaques referencing 1677 in Belgium",
+        "Files with coordinates missing SDC location of creation (50° N, 4° E)",
+        "Images by Jmh2o",
+        "Chronograms in writing in Charleroi",
+        "MDCLXVVVII (numeral)"
+      ],
+      "auteur": "Jmh2o",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jumet_-_Chapelle_Notre-Dame_des_Afflig%C3%A9s_(chronogramme_1677).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Jumet_-_Chapelle_Notre-Dame_des_Afflig%C3%A9s_%28chronogramme_1677%29.jpg/1280px-Jumet_-_Chapelle_Notre-Dame_des_Afflig%C3%A9s_%28chronogramme_1677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Arco del Salvador (Hellín) (41994).jpg",
+      "description": "Arco del Salvador, elemento histórico situado en el casco antiguo de Hellín, en la provincia de Albacete, Castilla-La Mancha.",
+      "categories": [
+        "CC-Zero",
+        "Arches",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Conjunto histórico artístico de Hellín",
+        "Culture of Hellín",
+        "Spain photographs taken on 2026-09-02"
+      ],
+      "auteur": "Hetemacaba",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arco_del_Salvador_(Hell%C3%ADn)_(41994).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Arco_del_Salvador_%28Hell%C3%ADn%29_%2841994%29.jpg/1280px-Arco_del_Salvador_%28Hell%C3%ADn%29_%2841994%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Lintel in Perge.jpg",
+      "description": "Un linteau dans le cardo de Pergé, Turquie",
+      "categories": [
+        "GFDL",
+        "Lintels",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Perge - Main street",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Bernard Gagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lintel_in_Perge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Lintel_in_Perge.jpg/1280px-Lintel_in_Perge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3312,
+      "hauteur": 1962
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Arch made up of shells. (51128266164).jpg",
+      "description": "This arch is made up of shells. Really pretty in person. Found it at Elkhorn Slough preservation Estuarine.",
+      "categories": [
+        "Arches",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Nguyenhai314"
+      ],
+      "auteur": "bluesbby from Mountain View, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arch_made_up_of_shells._(51128266164).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Arch_made_up_of_shells._%2851128266164%29.jpg/1280px-Arch_made_up_of_shells._%2851128266164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8052,
+      "hauteur": 2351
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Lintel bearing a lion relief - IAA 2003-780.jpeg",
+      "description": "Lintel bearing a lion relief - IAA 2003-780",
+      "categories": [
+        "CC-Zero",
+        "Lintels",
+        "Ayoub Rabenou Gallery of Islamic Art",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Reliefs of lions",
+        "Photographs by User:Marsupium"
+      ],
+      "auteur": "Marsupium",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lintel_bearing_a_lion_relief_-_IAA_2003-780.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Lintel_bearing_a_lion_relief_-_IAA_2003-780.jpeg/1280px-Lintel_bearing_a_lion_relief_-_IAA_2003-780.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

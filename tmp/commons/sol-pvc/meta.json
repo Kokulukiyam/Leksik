@@ -1,0 +1,120 @@
+{
+  "terme": {
+    "id": "sol-pvc",
+    "terme": "le sol PVC",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Revêtement de sol souple en plastique, en rouleaux, dalles ou lames, appelé aussi sol vinyle.",
+    "priorite": 2,
+    "requetes": [
+      "vinyl flooring",
+      "sol PVC",
+      "vinyl floor roll"
+    ],
+    "incompatibles": [
+      "linoleum",
+      "sol-stratifie"
+    ],
+    "categoriesCommons": [
+      "Category:Vinyl flooring",
+      "Category:Floors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Vinyl flooring, tiles.jpg",
+      "description": "Vinyl floor tiles, installed, multicolour",
+      "categories": [
+        "Self-published work",
+        "Vinyl flooring"
+      ],
+      "auteur": "Linoleum123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vinyl_flooring,_tiles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Vinyl_flooring%2C_tiles.jpg/1280px-Vinyl_flooring%2C_tiles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:BedroomHandDrawnPlan.jpg",
+      "description": "Hand Drawn Floor Plan of a Bedroom",
+      "categories": [
+        "GFDL",
+        "Floors",
+        "Floor plans",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "CyberThing",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BedroomHandDrawnPlan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/BedroomHandDrawnPlan.jpg/1280px-BedroomHandDrawnPlan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2750,
+      "hauteur": 2325
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Wilfer Sails production worker.jpg",
+      "description": "Wilfer Sails production worker doing sewing",
+      "categories": [
+        "Sewing",
+        "Self-published work",
+        "Vinyl flooring"
+      ],
+      "auteur": "Jincong Peng",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wilfer_Sails_production_worker.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Wilfer_Sails_production_worker.jpg/1280px-Wilfer_Sails_production_worker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Carte Zodiacale sur Carreau de 40x40 cm.jpg",
+      "description": "Peinture au sol",
+      "categories": [
+        "Floors",
+        "Self-published work",
+        "Lanceur d'alerte"
+      ],
+      "auteur": "Cartecieliste",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carte_Zodiacale_sur_Carreau_de_40x40_cm.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Carte_Zodiacale_sur_Carreau_de_40x40_cm.jpg/1280px-Carte_Zodiacale_sur_Carreau_de_40x40_cm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dura sample.jpg",
+      "description": "A realistic version of synthetic teak decking that sets no limits and can easily be mistaken for real teak wood.",
+      "categories": [
+        "Self-published work",
+        "Vinyl flooring"
+      ],
+      "auteur": "Durateakpeter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dura_sample.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Dura_sample.jpg/1280px-Dura_sample.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Custom Showroom.jpg",
+      "description": "www.beallhardwoodfloors.com Showroom",
+      "categories": [
+        "Taken with Kodak EasyShare DX7590",
+        "Floors",
+        "Self-published work"
+      ],
+      "auteur": "Perry Beall",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Custom_Showroom.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Custom_Showroom.jpg/1280px-Custom_Showroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1932
+    }
+  ]
+}

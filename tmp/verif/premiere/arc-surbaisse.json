@@ -1,0 +1,58 @@
+{
+  "termId": "arc-surbaisse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grande porte de ferme en bois sous un arc de pierre, avec auvent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Castellolí, Espagne",
+      "note": "Courbe incertaine, confusion avec plein cintre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruelle avec un arc brisé entre deux bâtiments.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hellín, Espagne",
+      "note": "Arc brisé, pas surbaissé."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Arcades de brique alignées, très aplaties, sur piliers.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.56,
+        "y": 0.17,
+        "largeur": 0.28,
+        "hauteur": 0.17
+      },
+      "lieu": "Aarhus, Danemark",
+      "note": "Arcs à flèche faible, nettement surbaissés ; rectangle sur une travée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Petit pont de pierre à arc dans un jardin, sous les arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone",
+      "note": "Arc peu lisible dans le feuillage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Galerie à arcs en perspective, abandonnée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Courbes non lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Passage voûté couvert d'un voile noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bois-d'Arcy, France",
+      "note": "Arc masqué par une toile, ambigu."
+    }
+  ]
+}

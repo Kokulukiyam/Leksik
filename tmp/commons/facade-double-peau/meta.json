@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "facade-double-peau",
+    "terme": "la façade double peau",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade composée de deux parois vitrées séparées par un vide d'air ventilé, souvent accessible pour l'entretien.",
+    "priorite": 3,
+    "requetes": [
+      "double skin facade cavity",
+      "façade double peau",
+      "double-skin glass facade"
+    ],
+    "incompatibles": [
+      "facade",
+      "mur-rideau"
+    ],
+    "categoriesCommons": [
+      "Category:Double-skin facades",
+      "Category:Glass facades"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:09263jfPhilippine Rice Research Institute Creeks Muñoz Nueva Ecijafvf 05.JPG",
+      "description": "Philippine Rice Research Institute , PhilRice , (is a government corporate entity attached to the Department of Agriculture , created through Executive Order 1061 on 5 November 1985 (as amended), Irrigated Rice Research Consortium , and International Rice Research Institute ; located in Barangay , Maligaya , Muñoz , Nueva Ecija , in front of its Barangay Hall and Chapel along the Pan-Philippine Highway , also known as the Maharlika \"Nobility/freeman\" Highway or Asian Highway 26, in Cagayan Valley Road; or Category:Maharlika Highway (Cagayan Valley Road, Talavera-Santo Domingo-Quezon-Science Ci",
+      "categories": [
+        "Glass facades",
+        "Self-published work",
+        "Philippine Rice Research Institute"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:09263jfPhilippine_Rice_Research_Institute_Creeks_Mu%C3%B1oz_Nueva_Ecijafvf_05.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/09263jfPhilippine_Rice_Research_Institute_Creeks_Mu%C3%B1oz_Nueva_Ecijafvf_05.JPG/1280px-09263jfPhilippine_Rice_Research_Institute_Creeks_Mu%C3%B1oz_Nueva_Ecijafvf_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2017-10-17-bruessel-europaviertel-berlaymont03.jpg",
+      "description": "Das Berlaymont-Gebäude , der Sitz der Europäischen Kommission in Brüssel .",
+      "categories": [
+        "GFDL",
+        "Berlaymont building",
+        "Glass facades",
+        "License migration redundant",
+        "Self-published work",
+        "Facades in Brussels",
+        "Gray facades",
+        "Images by AKirch-Bonn",
+        "October 2017 in Brussels",
+        "Files with coordinates missing SDC location of creation (50° N, 4° E)",
+        "Double-skin facades"
+      ],
+      "auteur": "Axel Kirch",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017-10-17-bruessel-europaviertel-berlaymont03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2017-10-17-bruessel-europaviertel-berlaymont03.jpg/1280px-2017-10-17-bruessel-europaviertel-berlaymont03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bishop Ranch 3 02.jpg",
+      "description": "A close up of a building from Bishop Ranch 3, in en:San Ramon, CA",
+      "categories": [
+        "GFDL",
+        "Glass facades",
+        "Office buildings in California",
+        "License migration redundant",
+        "Self-published work",
+        "Media by ShakataGaNai",
+        "Files with coordinates missing SDC location of creation",
+        "Bishop Ranch"
+      ],
+      "auteur": "ShakataGaNai",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bishop_Ranch_3_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bishop_Ranch_3_02.jpg/1280px-Bishop_Ranch_3_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1060
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:LawrenceScarpa Cherokee 007780-2.jpg",
+      "description": "Cherokee Mixed-Use Lofts is an urban infill, mixed-use, market-rate housing project. The building is inspired by the series of paintings by the British artist Patrick Hughes titled, “Prospectivity”, whose paintings appear to be ever changing and physically moving while being viewed. At Cherokee the main architectural feature of this project is the building’s owner-controlled operable double façade system. By allowing the occupant to adjust, at will, the operable screens of the building façade, the facade is virtually redesigned “live” from within the space, reflecting the occupants of the buil",
+      "categories": [
+        "Sustainable architecture",
+        "Lawrence Scarpa",
+        "Apartment buildings in Los Angeles",
+        "Stucco buildings in California",
+        "Self-published work",
+        "Gray buildings",
+        "Buildings by Angela Brooks",
+        "Double-skin facades"
+      ],
+      "auteur": "Calderoliver",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LawrenceScarpa_Cherokee_007780-2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/LawrenceScarpa_Cherokee_007780-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 769
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:50 Years Dornier STOL, Friedrichshafen (1X7A4132).jpg",
+      "description": "Dornier-Museum, Friedrichshafen",
+      "categories": [
+        "Glass facades",
+        "Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM",
+        "D-IFNT (aircraft)",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Pictures by MB-one rejected",
+        "50 Years Dornier VTOL"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:50_Years_Dornier_STOL,_Friedrichshafen_(1X7A4132).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/50_Years_Dornier_STOL%2C_Friedrichshafen_%281X7A4132%29.jpg/1280px-50_Years_Dornier_STOL%2C_Friedrichshafen_%281X7A4132%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1707
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20100719 liege30.JPG",
+      "description": "Angle du boulevard Piercot et de l'avenue Rogier, à Liège.",
+      "categories": [
+        "Glass facades",
+        "CBC Banque & Assurance",
+        "Boulevard Piercot",
+        "Self-published work",
+        "2010 in Liège",
+        "Corner buildings in Belgium",
+        "Belgium photographs taken on 2010-07-19",
+        "Avenue Rogier (Liège)",
+        "Apartment buildings in Liège",
+        "Houses in Liège",
+        "Cafés in Liège",
+        "Oriel windows in Liège",
+        "Windows in Liège",
+        "Photos of Belgium by user Jean Housen",
+        "2010 photos by user Jean Housen",
+        "Glass walls in Liège",
+        "Loggias in Liège",
+        "Bank buildings in Liège"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20100719_liege30.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/20100719_liege30.JPG/1280px-20100719_liege30.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    }
+  ]
+}

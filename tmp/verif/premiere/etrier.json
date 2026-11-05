@@ -1,0 +1,53 @@
+{
+  "termId": "etrier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pilier de pont en béton avec échafaudage, attentes d'armature au sommet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brno, République tchèque",
+      "note": "Étriers non visibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Machine à cintrer les barres d'acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine, pas un étrier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cages d'armature cylindriques de pieux alignées au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cages cylindriques (cerces), pas des étriers en U."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Militaire portant des barres d'acier pliées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faisceau de barres floues, non lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Barres d'acier coudées empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres longues coudées, pas clairement des étriers."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Borne en béton cassée laissant voir des barres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres isolées, pas d'étrier."
+    }
+  ]
+}

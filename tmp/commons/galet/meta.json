@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "galet",
+    "terme": "le galet",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre arrondie et lisse polie par l'eau, employée en mur, en sol ou en décoration.",
+    "priorite": 3,
+    "requetes": [
+      "pebble wall",
+      "river stone wall",
+      "mur en galets"
+    ],
+    "incompatibles": [
+      "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Pebbles",
+      "Category:Pebble walls",
+      "Category:Cobblestones"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bancs de galets de l'Isère en Combe de Savoie (automne 2021) 2.JPG",
+      "description": "Vue, en automne, des bants de galets dans l' Isère dans les environs de Cruet dans la combe de Savoie , en Savoie .",
+      "categories": [
+        "Combe de Savoie",
+        "Pebbles",
+        "Self-published work",
+        "October 2021 in Savoie",
+        "Files with coordinates missing SDC location of creation",
+        "Isère River in Cruet",
+        "Isère River in Planaise"
+      ],
+      "auteur": "Florian Pépellin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bancs_de_galets_de_l%27Is%C3%A8re_en_Combe_de_Savoie_(automne_2021)_2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Bancs_de_galets_de_l%27Is%C3%A8re_en_Combe_de_Savoie_%28automne_2021%29_2.JPG/1280px-Bancs_de_galets_de_l%27Is%C3%A8re_en_Combe_de_Savoie_%28automne_2021%29_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3212,
+      "hauteur": 2384
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Église Saint-Laurent de Montagnan 2019 01.jpg",
+      "description": "L'église Saint-Laurent de Montagnan à Barcugnan avec son cimetière.",
+      "categories": [
+        "Cemeteries in Gers",
+        "June 2019 in Gers",
+        "Église Saint-Laurent de Montagnan",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Pebble walls"
+      ],
+      "auteur": "F123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Laurent_de_Montagnan_2019_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%C3%89glise_Saint-Laurent_de_Montagnan_2019_01.jpg/1280px-%C3%89glise_Saint-Laurent_de_Montagnan_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Batalha das Flores, Lamego, 2025 120 2025-09-07 17-46-27.jpg",
+      "description": "Batalha das Flores, Lamego, 2025",
+      "categories": [
+        "Pavements",
+        "Litter",
+        "Confetti",
+        "Self-published work",
+        "Cobblestones",
+        "Streetscapes",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Portugal",
+        "Files by Mind Booster Noori",
+        "Batalha das Flores"
+      ],
+      "auteur": "Mind Booster Noori ( d )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Batalha_das_Flores,_Lamego,_2025_120_2025-09-07_17-46-27.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Batalha_das_Flores%2C_Lamego%2C_2025_120_2025-09-07_17-46-27.jpg/1280px-Batalha_das_Flores%2C_Lamego%2C_2025_120_2025-09-07_17-46-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Aglais urticae (14803225846).jpg",
+      "description": "A Small Tortoiseshell Butterfly on Pett Level Beach soaking up the sun.",
+      "categories": [
+        "Pebbles",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Leonard Bentley",
+        "Nymphalidae of East Sussex",
+        "Aglais urticae in England",
+        "Files with coordinates missing SDC location of creation (50° N, 0° E)"
+      ],
+      "auteur": "Leonard Bentley from Iden, East Sussex, UK",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aglais_urticae_(14803225846).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Aglais_urticae_%2814803225846%29.jpg/1280px-Aglais_urticae_%2814803225846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1708,
+      "hauteur": 1489
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Retaining wall of Kanazawa Castle 01.jpg",
+      "description": "​金澤城外緣擋土牆。",
+      "categories": [
+        "Self-published work",
+        "Retaining walls in Japan",
+        "Photographs by Tbatb taken in 2020",
+        "Pebble walls",
+        "Stone walls of Kanazawa Castle"
+      ],
+      "auteur": "Tbatb",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Retaining_wall_of_Kanazawa_Castle_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Retaining_wall_of_Kanazawa_Castle_01.jpg/1280px-Retaining_wall_of_Kanazawa_Castle_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Gatsten kullersten.jpg",
+      "description": "Gatsten till vänster, kullersten till höger. Sverige, Vadstena, korsningen Strågatan/Gropgatan.",
+      "categories": [
+        "Self-published work",
+        "Cobblestones",
+        "Cobblestones in Sweden"
+      ],
+      "auteur": "Sekreterare",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gatsten_kullersten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Gatsten_kullersten.jpg/1280px-Gatsten_kullersten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3701,
+      "hauteur": 2776
+    }
+  ]
+}

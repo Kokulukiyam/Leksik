@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "baie-d-angle",
+    "terme": "la baie d'angle",
+    "categorie": "Façade et ouvertures",
+    "definition": "Fenêtre qui se retourne sur l'angle du bâtiment, sans poteau ni mur à l'angle.",
+    "priorite": 3,
+    "requetes": [
+      "corner window modernist",
+      "fenêtre d'angle",
+      "wraparound corner window"
+    ],
+    "incompatibles": [
+      "fenetre-en-bandeau",
+      "baie"
+    ],
+    "categoriesCommons": [
+      "Category:Corner windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Habitat 67 (8126485497).jpg",
+      "description": "Habitat 67, or simply Habitat, is a model community and housing complex in Montreal, Canada designed by Israeli–Canadian architect Moshe Safdie. It was originally conceived as his master's thesis in architecture at McGill University and then built as a pavilion for Expo 67",
+      "categories": [
+        "Habitat 67",
+        "Flickr images reviewed by FlickreviewR",
+        "Files uploaded by The Photographer from Flickr",
+        "Square objects",
+        "Corner windows"
+      ],
+      "auteur": "Matias Garabedian from Montreal, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Habitat_67_(8126485497).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Habitat_67_%288126485497%29.jpg/1280px-Habitat_67_%288126485497%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6144,
+      "hauteur": 4069
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2025-03-09 Hameln Deisterstraße 17 1090755.jpg",
+      "description": "Blick von Osten auf ein Fenster im Treppenhaus des Wohn- und Geschäftshauses Deisterstraße 17 in Hameln",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-de-ni",
+        "Cultural heritage monuments in Lower Saxony with known IDs",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025 in Germany",
+        "Images from Wiki Loves Monuments 2025",
+        "Deisterstraße (Hameln)",
+        "Images from Wiki Loves Monuments 2025, DE-NI",
+        "Cultural heritage monuments in Lower Saxony missing SDC location of creation"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090755.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090755.jpg/1280px-2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2672,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pont-Croix Marquisat.jpg",
+      "description": "Maison du Marquisat, aujourd'hui musée du Patrimoine, à Pont-Croix (Finistère).",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Images with annotations",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Maison du Marquisat",
+        "Self-published work",
+        "Stone walls in France",
+        "Street lights in France",
+        "Lanterns in France",
+        "Hipped dormers in France",
+        "Corner windows"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pont-Croix_Marquisat.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Pont-Croix_Marquisat.jpg/1280px-Pont-Croix_Marquisat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3048,
+      "hauteur": 2322
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2025-03-09 Hameln Deisterstraße 17 1090745.jpg",
+      "description": "Fenster im Wohn- und Geschäftshaus Deisterstraße 17 in Hameln, unter dem Fenster die Beschriftung \"Haus Andrea\"",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-de-ni",
+        "Cultural heritage monuments in Lower Saxony with known IDs",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025 in Germany",
+        "Images from Wiki Loves Monuments 2025",
+        "Deisterstraße (Hameln)",
+        "Images from Wiki Loves Monuments 2025 in Germany not for prejury",
+        "Images from Wiki Loves Monuments 2025, DE-NI",
+        "Cultural heritage monuments in Lower Saxony missing SDC location of creation"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg/1280px-2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Rowland Institute at Harvard - Cambridge, MA - DSC05665.JPG",
+      "description": "Rowland Institute at Harvard - 100 Edwin H. Land Boulevard, Cambridge, Massachusetts, USA. Originally founded in 1980 by Edwin H. Land as The Rowland Institute for Science.",
+      "categories": [
+        "CC-Zero",
+        "Rowland Institute at Harvard",
+        "Self-published work",
+        "Corner windows",
+        "Files uploaded by Daderot"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rowland_Institute_at_Harvard_-_Cambridge,_MA_-_DSC05665.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Rowland_Institute_at_Harvard_-_Cambridge%2C_MA_-_DSC05665.JPG/1280px-Rowland_Institute_at_Harvard_-_Cambridge%2C_MA_-_DSC05665.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2013-365-205 Window Reflection Collage (9364454403).jpg",
+      "description": "Just a straight on photo, no post edits",
+      "categories": [
+        "CC-Zero",
+        "Windows",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-365-205_Window_Reflection_Collage_(9364454403).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2013-365-205_Window_Reflection_Collage_%289364454403%29.jpg/1280px-2013-365-205_Window_Reflection_Collage_%289364454403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

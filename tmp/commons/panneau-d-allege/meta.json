@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "panneau-d-allege",
+    "terme": "le panneau d'allège",
+    "categorie": "Façade et ouvertures",
+    "definition": "Panneau opaque d'un mur-rideau, devant le nez de plancher, entre deux bandes de vitrage.",
+    "priorite": 3,
+    "requetes": [
+      "spandrel panel curtain wall",
+      "panneau d'allège mur-rideau",
+      "opaque spandrel glass"
+    ],
+    "incompatibles": [
+      "mur-rideau",
+      "allege"
+    ],
+    "categoriesCommons": [
+      "Category:Curtain walls",
+      "Category:Cladding"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Arc de Triomphe depuis La Defense.jpg",
+      "description": "Paris : L'Arc de Triomphe de l'Étoile vu depuis La Défense",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus E-400",
+        "Views from La Défense",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Curtain walls",
+        "Self-published work",
+        "Remote views of the Arc de Triomphe de l'Étoile",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)"
+      ],
+      "auteur": "Myrabella",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_depuis_La_Defense.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Arc_de_Triomphe_depuis_La_Defense.jpg/1280px-Arc_de_Triomphe_depuis_La_Defense.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3599,
+      "hauteur": 2701
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Walt Disney Concert Hall - Steve driscoll 2016 (Unsplash).jpg",
+      "description": "Walt Disney Concert Hall - Steve driscoll 2016",
+      "categories": [
+        "CC-Zero",
+        "Walt Disney Concert Hall",
+        "Images uploaded by Fæ",
+        "Cladding",
+        "Images from Unsplash"
+      ],
+      "auteur": "Steve driscoll ssdriscoll",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Walt_Disney_Concert_Hall_-_Steve_driscoll_2016_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Walt_Disney_Concert_Hall_-_Steve_driscoll_2016_%28Unsplash%29.jpg/1280px-Walt_Disney_Concert_Hall_-_Steve_driscoll_2016_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4343,
+      "hauteur": 3080
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Rathausstraße (06) (53352972813).jpg",
+      "description": "Eckhaus Kleiner Kuhberg 44, Ecke Rathausstraße in Kiel-Vorstadt,",
+      "categories": [
+        "Curtain walls",
+        "Rathausstraße (Kiel)",
+        "Buildings in Vorstadt (Kiel)",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Rüdiger Stehn/Germany",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Glass facades in Kiel"
+      ],
+      "auteur": "Rüdiger Stehn from Kiel, Deutschland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rathausstra%C3%9Fe_(06)_(53352972813).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Rathausstra%C3%9Fe_%2806%29_%2853352972813%29.jpg/1280px-Rathausstra%C3%9Fe_%2806%29_%2853352972813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Abraj al bait closeup.jpg",
+      "description": "Abraj al bait closeup",
+      "categories": [
+        "Abraj Al Bait Towers",
+        "Facades",
+        "Cladding",
+        "Self-published work",
+        "FoP-Saudi Arabia"
+      ],
+      "auteur": "King Eliot",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abraj_al_bait_closeup.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Abraj_al_bait_closeup.jpg/1280px-Abraj_al_bait_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Burgos, San Juan 05.jpg",
+      "description": "Façade of the Public Library at San Juan Square. Burgos city, Burgos, Castile and León, Spain",
+      "categories": [
+        "Curtain walls",
+        "Self-published work",
+        "Burgos Public Library",
+        "Photographs by LBM1948",
+        "Facades in Burgos",
+        "People in Burgos"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Burgos,_San_Juan_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Burgos%2C_San_Juan_05.jpg/1280px-Burgos%2C_San_Juan_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4028,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Abraj al bait closeup 2.jpg",
+      "description": "Abraj al bait closeup",
+      "categories": [
+        "Abraj Al Bait Towers",
+        "Facades",
+        "Cladding",
+        "Self-published work",
+        "FoP-Saudi Arabia"
+      ],
+      "auteur": "King Eliot",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abraj_al_bait_closeup_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Abraj_al_bait_closeup_2.jpg/1280px-Abraj_al_bait_closeup_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2588,
+      "hauteur": 3456
+    }
+  ]
+}

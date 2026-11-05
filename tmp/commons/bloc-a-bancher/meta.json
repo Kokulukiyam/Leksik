@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "bloc-a-bancher",
+    "terme": "le bloc à bancher",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Bloc de béton creux à grandes alvéoles, monté à sec puis rempli de béton armé pour former un mur porteur.",
+    "priorite": 3,
+    "requetes": [
+      "concrete block formwork insulated",
+      "bloc à bancher",
+      "hollow concrete block grouted rebar"
+    ],
+    "incompatibles": [
+      "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Insulating concrete forms",
+      "Category:Concrete blocks",
+      "Category:Formwork"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:ICF cantiere.jpg",
+      "description": "Cantiere realizzato con Insulating Concrete Forms",
+      "categories": [
+        "Self-published work",
+        "Insulating concrete forms"
+      ],
+      "auteur": "Giuliastully",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ICF_cantiere.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/ICF_cantiere.jpg/1280px-ICF_cantiere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A balancing act (6175374779).jpg",
+      "description": "Brampton Indie Fest, The Rose Theater no adhesives... just proper alignment....",
+      "categories": [
+        "Concrete blocks",
+        "Rocks in Ontario",
+        "Files with coordinates missing SDC location of creation",
+        "Balance",
+        "Canada photographs taken on 2011-09-16",
+        "Flickr images reviewed by FlickreviewR 2",
+        "September 2011 in Ontario",
+        "2011 in Brampton, Ontario",
+        "Sculptures in Brampton, Ontario"
+      ],
+      "auteur": "^ Missi ^ from Mississauga, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_balancing_act_(6175374779).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_balancing_act_%286175374779%29.jpg/1280px-A_balancing_act_%286175374779%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Assembling formwork system in Moscow metro station Монтаж опалубки на станции метро Борисово в Москве.jpg",
+      "description": "Assembling formwork system in Moscow metro station Borisovo",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Formwork",
+        "Self-published work",
+        "Construction of Borisovo (Moscow Metro)"
+      ],
+      "auteur": "STALFORM Engineering",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Assembling_formwork_system_in_Moscow_metro_station_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%BE_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Assembling_formwork_system_in_Moscow_metro_station_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%BE_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.jpg/1280px-Assembling_formwork_system_in_Moscow_metro_station_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%BE_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Néopor.jpg",
+      "description": "Block de démonstration de construction isolante en Néopor.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Insulating concrete forms"
+      ],
+      "auteur": "Zoneverte34",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:N%C3%A9opor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/N%C3%A9opor.jpg/1280px-N%C3%A9opor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2808,
+      "hauteur": 2804
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Batako.jpg",
+      "description": "Batako sawijining bahan kanggo gawe wangunan arupa omah, tembok, pager, gudhang, kandhang, lsp. Saiki uwong-uwong luwih seneng migunakake batako tinimbang bata abang, sebab bisa luwih ngirit semen",
+      "categories": [
+        "Construction materials in Indonesia",
+        "Concrete blocks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Dandung Adityo Argo Prasetyo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Batako.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Batako.jpg/1280px-Batako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Basement egress steps.jpg",
+      "description": "Walk up basement constructed using aluminum concrete forms.",
+      "categories": [
+        "GFDL",
+        "Formwork",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "WTF Formwork",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Basement_egress_steps.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Basement_egress_steps.jpg/1280px-Basement_egress_steps.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5120,
+      "hauteur": 3503
+    }
+  ]
+}

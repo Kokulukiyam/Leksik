@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "porte-a-galandage",
+    "terme": "la porte à galandage",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte coulissante qui s'efface entièrement dans l'épaisseur de la cloison.",
+    "priorite": 3,
+    "requetes": [
+      "pocket door",
+      "porte à galandage",
+      "pocket sliding door"
+    ],
+    "incompatibles": [
+      "porte-coulissante"
+    ],
+    "categoriesCommons": [
+      "Category:Pocket doors",
+      "Category:Sliding doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Emmet Hardy Home Morgan St New Orleans 05.JPG",
+      "description": "237 Morgan Street, Algiers Point, New Orleans. First house in the neighborhood rebuilt after the Great Algiers Fire of 1895. Residence of jazz legend Emmett Hardy, 1919-1923. Still has many vintage fixtures.",
+      "categories": [
+        "Pocket doors",
+        "Self-published work",
+        "Doors in Algiers, New Orleans",
+        "Emmett Hardy Home, Algiers Point",
+        "September 2015 in Algiers, New Orleans"
+      ],
+      "auteur": "Infrogmation of New Orleans",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Emmet_Hardy_Home_Morgan_St_New_Orleans_05.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Emmet_Hardy_Home_Morgan_St_New_Orleans_05.JPG/1280px-Emmet_Hardy_Home_Morgan_St_New_Orleans_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:HK 屯門 Tuen Mun night 屯門鄉事會路 Heung Sze Wui Road shop bank branch 24-hours ATM automatic service machine July 2016 DSC.jpg",
+      "description": "HK 屯門 Tuen Mun night zh:屯門鄉事會路 shop in July 2016",
+      "categories": [
+        "Taken with Sony DSC-WX350",
+        "Sliding doors",
+        "Crime prevention",
+        "OCBC Bank (Hong Kong)",
+        "Self-published work",
+        "Hong Kong photographs taken on 2016-07-21",
+        "Glass doors in Hong Kong",
+        "Automatic teller machines in Hong Kong",
+        "Customers in Hong Kong",
+        "Self service in Hong Kong",
+        "Bank branches in Hong Kong",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Women standing indoors",
+        "Night in Tuen Mun Heung Sze Wui Road",
+        "July 2016 in Tuen Mun Heung Sze Wui Road",
+        "Shops in Tuen Mun Heung Sze Wui Road",
+        "24/7 shops"
+      ],
+      "auteur": "Ho Mandkonay",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_%E5%B1%AF%E9%96%80_Tuen_Mun_night_%E5%B1%AF%E9%96%80%E9%84%89%E4%BA%8B%E6%9C%83%E8%B7%AF_Heung_Sze_Wui_Road_shop_bank_branch_24-hours_ATM_automatic_service_machine_July_2016_DSC.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/HK_%E5%B1%AF%E9%96%80_Tuen_Mun_night_%E5%B1%AF%E9%96%80%E9%84%89%E4%BA%8B%E6%9C%83%E8%B7%AF_Heung_Sze_Wui_Road_shop_bank_branch_24-hours_ATM_automatic_service_machine_July_2016_DSC.jpg/1280px-HK_%E5%B1%AF%E9%96%80_Tuen_Mun_night_%E5%B1%AF%E9%96%80%E9%84%89%E4%BA%8B%E6%9C%83%E8%B7%AF_Heung_Sze_Wui_Road_shop_bank_branch_24-hours_ATM_automatic_service_machine_July_2016_DSC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Living Room facing east; note pocket doors 02.jpg",
+      "description": "The Patroon Agent's House Living Room, December 2012",
+      "categories": [
+        "Taken with Olympus E-M5",
+        "Patroon Agent's House and Office",
+        "Pocket doors",
+        "Self-published work"
+      ],
+      "auteur": "OCULUS NY",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Living_Room_facing_east;_note_pocket_doors_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Living_Room_facing_east%3B_note_pocket_doors_02.jpg/1280px-Living_Room_facing_east%3B_note_pocket_doors_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1580,
+      "hauteur": 1185
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Barca de Alba 06.jpg",
+      "description": "Detail of the derelict [c.1985] train station, on the former Porto / Salamanca railway . Barca d'Alva, Figueira de Castelo Rodrigo, Guarda, Portugal",
+      "categories": [
+        "Sliding doors",
+        "Barca d'Alva train station",
+        "Self-published work",
+        "Portugal photographs taken on 2014-04-03",
+        "Railway photographs taken on 2014-04-03",
+        "Photographs by LBM1948"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barca_de_Alba_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Barca_de_Alba_06.jpg/1280px-Barca_de_Alba_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3920,
+      "hauteur": 2724
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Maple St House Details Pocket Door Hdwr Carrollton New Orleans.jpg",
+      "description": "detail in house in the Carrollton Historic District, New Orleans",
+      "categories": [
+        "Pocket doors",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Doors in Carrollton, New Orleans",
+        "7509 Maple Street, New Orleans - interior",
+        "Keyholes in the United States"
+      ],
+      "auteur": "Infrogmation",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Maple_St_House_Details_Pocket_Door_Hdwr_Carrollton_New_Orleans.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Maple_St_House_Details_Pocket_Door_Hdwr_Carrollton_New_Orleans.jpg/1280px-Maple_St_House_Details_Pocket_Door_Hdwr_Carrollton_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Eumig-Palmers-Hochhaus 08, Wiener Neudorf.jpg",
+      "description": "The building was created for Eumig in 1956. After insolvency of Eumig, the building was used by Palmers until 2014. It is located in the industry zone of Wiener Neudorf.",
+      "categories": [
+        "Taken with Nikon D7000",
+        "Sliding doors",
+        "Self-published work",
+        "Images by Herzi Pinki",
+        "Eumig-Palmers-Hochhaus, Wiener Neudorf",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Herzi Pinki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eumig-Palmers-Hochhaus_08,_Wiener_Neudorf.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Eumig-Palmers-Hochhaus_08%2C_Wiener_Neudorf.jpg/1280px-Eumig-Palmers-Hochhaus_08%2C_Wiener_Neudorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3016,
+      "hauteur": 4520
+    }
+  ]
+}

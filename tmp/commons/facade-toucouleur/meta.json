@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "facade-toucouleur",
+    "terme": "la façade toucouleur",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Façade de maison en banco de Djenné, de style dit toucouleur, marquée par un portail central en saillie flanqué de pilastres et couronné de pinacles.",
+    "priorite": 3,
+    "requetes": [
+      "Djenné house facade",
+      "Djenné architecture house",
+      "maison Djenné façade"
+    ],
+    "incompatibles": [
+      "banco",
+      "toron"
+    ],
+    "categoriesCommons": [
+      "Category:Djenné"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Vessel MET 1986.484.3.jpg",
+      "description": "Djenné peoples; Vessel; Ceramics-Containers",
+      "categories": [
+        "CC-Zero",
+        "Files with no machine-readable author",
+        "Djenné",
+        "Artworks without Wikidata item",
+        "The Michael C. Rockefeller Wing Collection, Metropolitan Museum of Art",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vessel_MET_1986.484.3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Vessel_MET_1986.484.3.jpg/1280px-Vessel_MET_1986.484.3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 2778
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Vessel MET vs1999 47 69.jpg",
+      "description": "Djenné peoples (?); Vessel; Ceramics-Containers",
+      "categories": [
+        "CC-Zero",
+        "Files with no machine-readable author",
+        "Djenné",
+        "Artworks without Wikidata item",
+        "The Michael C. Rockefeller Wing Collection, Metropolitan Museum of Art",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vessel_MET_vs1999_47_69.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Vessel_MET_vs1999_47_69.jpg/1280px-Vessel_MET_vs1999_47_69.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1608,
+      "hauteur": 1317
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Malian boys from Djenne.jpg",
+      "description": "Inland Niger Delta by Djenne, Mali.",
+      "categories": [
+        "Djenné",
+        "Niger Inland Delta",
+        "Boats in Mali",
+        "Boys of Mali",
+        "Flickr images reviewed by FlickreviewR 2",
+        "People of Djenné",
+        "Transport in Djenné"
+      ],
+      "auteur": "Jurgen",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Malian_boys_from_Djenne.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Malian_boys_from_Djenne.jpg/1280px-Malian_boys_from_Djenne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tailors atelier.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Djenné",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2017",
+        "People at work in Mali",
+        "Tailors from Mali",
+        "Images from Wiki Loves Africa 2017 in Mali"
+      ],
+      "auteur": "PGskot",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tailors_atelier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tailors_atelier.jpg/1280px-Tailors_atelier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3616,
+      "hauteur": 2712
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bracelet MET vs1999 486 7.jpeg",
+      "description": "Djenné peoples; Bracelet; Metal-Ornaments",
+      "categories": [
+        "CC-Zero",
+        "Files with no machine-readable author",
+        "Djenné",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "African art in the Metropolitan Museum of Art",
+        "Bracelets in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bracelet_MET_vs1999_486_7.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Bracelet_MET_vs1999_486_7.jpeg/1280px-Bracelet_MET_vs1999_486_7.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1492,
+      "hauteur": 1287
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Djenné (24).JPG",
+      "description": "Ceci est une image du genre Tenues et parures traditionnelles de :",
+      "categories": [
+        "Shepherds",
+        "Djenné",
+        "Pays Dogon",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2015",
+        "Sheep in Mali",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2015 in Mali"
+      ],
+      "auteur": "OBERSON",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9_(24).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Djenn%C3%A9_%2824%29.JPG/1280px-Djenn%C3%A9_%2824%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

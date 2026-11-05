@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "groupe-de-securite",
+    "terme": "le groupe de sécurité",
+    "categorie": "Réseaux et équipements",
+    "definition": "Organe en laiton à soupape, monté sur l'arrivée d'eau froide d'un chauffe-eau, qui évacue la surpression.",
+    "priorite": 3,
+    "requetes": [
+      "water heater safety valve",
+      "groupe de sécurité chauffe-eau",
+      "expansion relief valve"
+    ],
+    "incompatibles": [
+      "chauffe-eau-electrique"
+    ],
+    "categoriesCommons": [
+      "Category:Safety valves"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Plougonvelin - Musée Mémoires 39-45 06.jpg",
+      "description": "Musée Mémoires 39-45, dans le bunker du Prédic, à Plougonvelin (Finistère, France)",
+      "categories": [
+        "Musée Mémoires 39-45",
+        "Safety valves",
+        "Self-published work",
+        "German inscriptions in France",
+        "Inscriptions in Finistère"
+      ],
+      "auteur": "Fab5669",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plougonvelin_-_Mus%C3%A9e_M%C3%A9moires_39-45_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Plougonvelin_-_Mus%C3%A9e_M%C3%A9moires_39-45_06.jpg/1280px-Plougonvelin_-_Mus%C3%A9e_M%C3%A9moires_39-45_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Groupe de sécurité.jpg",
+      "description": "Un Groupe de sécurité , dispositif de plomberie chargé de maintenir la pression inférieure à 7 bars dans un chauffe-eau électrique.",
+      "categories": [
+        "Safety valves",
+        "Electric-powered hot water storage tanks"
+      ],
+      "auteur": "Prométhée",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Groupe_de_s%C3%A9curit%C3%A9.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Groupe_de_s%C3%A9curit%C3%A9.jpg/1280px-Groupe_de_s%C3%A9curit%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cologne Germany Bopp&Reutter-Safety-Relief-Valve-01.jpg",
+      "description": "Cologne, Germany: Bopp & Reuther Safety Relief Valves, mounted on a transport pallet",
+      "categories": [
+        "Safety valves",
+        "Bopp & Reuther",
+        "Relief valves",
+        "Self-published work",
+        "Information field template with formatting",
+        "Images by Cccefalon",
+        "Images with portrait aspect ratio by User:Cccefalon",
+        "Images of objects by User:Cccefalon"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Bopp%26Reutter-Safety-Relief-Valve-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Cologne_Germany_Bopp%26Reutter-Safety-Relief-Valve-01.jpg/1280px-Cologne_Germany_Bopp%26Reutter-Safety-Relief-Valve-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3150,
+      "hauteur": 4725
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:003 - Foto originale.jpg",
+      "description": "Esempio di situazione di pericolo su impianti riscaldamento",
+      "categories": [
+        "Safety valves",
+        "Self-published work",
+        "Taken with Samsung GT-I9000",
+        "Risk at work"
+      ],
+      "auteur": "Lanorte",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:003_-_Foto_originale.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/003_-_Foto_originale.jpg/1280px-003_-_Foto_originale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ancien autoclave (détails).jpg",
+      "description": "Ancien autoclave médical, détails du manomètre et de la soupape de sécurité, Musée de l'histoire de la médecine, Hautefort, Dordogne, France.",
+      "categories": [
+        "Autoclaves",
+        "Manometers",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Safety valves",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Bachelot Pierre J-P",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancien_autoclave_(d%C3%A9tails).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ancien_autoclave_%28d%C3%A9tails%29.jpg/1280px-Ancien_autoclave_%28d%C3%A9tails%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cafetière Vesuviana 46.jpg",
+      "description": "Soupape",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "Location not applicable",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Safety valves",
+        "Taken with Canon EF 100mm F2.8 Macro USM",
+        "Artworks without Wikidata item",
+        "Self-published work",
+        "Files by User:Coyau",
+        "Images supported by Wikimedia France - Photo studio",
+        "Media supported by Wikimedia France",
+        "Information field template with formatting",
+        "Vesuviana stovetop coffee maker"
+      ],
+      "auteur": "Coyau",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cafeti%C3%A8re_Vesuviana_46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Cafeti%C3%A8re_Vesuviana_46.jpg/1280px-Cafeti%C3%A8re_Vesuviana_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

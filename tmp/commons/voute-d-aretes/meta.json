@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "voute-d-aretes",
+    "terme": "la voûte d'arêtes",
+    "categorie": "Structure",
+    "definition": "Voûte formée par le croisement de deux voûtes en berceau, dont les intersections dessinent des arêtes saillantes.",
+    "priorite": 3,
+    "requetes": [
+      "groin vault",
+      "voûte d'arêtes",
+      "groin vaulted ceiling"
+    ],
+    "incompatibles": [
+      "voute"
+    ],
+    "categoriesCommons": [
+      "Category:Groin vaults",
+      "Category:Vaults"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Madrasa of Iljay al-Yusufi DSCF3478.jpg",
+      "description": "Madrasa of Aljay al-Yusufi (or Iljay/Uljay, Ilgay, etc). The groin vault above the entrance vestibule. According to Caroline Williams (\"Islamic Monuments in Cairo: The Practical Guide\", 7th edition, p. 109), this is the first groin vault of this kind in Cairo.",
+      "categories": [
+        "Madrasa of Aljay al-Yusufi",
+        "Groin vaults",
+        "Self-published work"
+      ],
+      "auteur": "R Prazeres",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Madrasa_of_Iljay_al-Yusufi_DSCF3478.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Madrasa_of_Iljay_al-Yusufi_DSCF3478.jpg/1280px-Madrasa_of_Iljay_al-Yusufi_DSCF3478.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Anna Popović 2016-01-06 (Unsplash).jpg",
+      "description": "Anna Popović 2016-01-06",
+      "categories": [
+        "CC-Zero",
+        "Vaults",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "Anna Popović and_her_eyes_were_wild",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anna_Popovi%C4%87_2016-01-06_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Anna_Popovi%C4%87_2016-01-06_%28Unsplash%29.jpg/1280px-Anna_Popovi%C4%87_2016-01-06_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4256,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Nikiszowiec 105.JPG",
+      "description": "Janów-Nikiszowiec, Katowice",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "Nikiszowiec",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Groin vaults",
+        "Self-published work",
+        "Brick arches"
+      ],
+      "auteur": "Piotrus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nikiszowiec_105.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikiszowiec_105.JPG/1280px-Nikiszowiec_105.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - FO232095 - Architettura e mattoni - arco-volta.jpg",
+      "description": "10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - Architettura e mattoni - arco-volta",
+      "categories": [
+        "Baths of Caracalla",
+        "Vaults",
+        "Opus lateritium",
+        "Self-published work"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232095_-_Architettura_e_mattoni_-_arco-volta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/10_2023_-_Terme_%28Baths_of%29_Caracalla%2C_Arte_Romana%2C_Viale_Guido_Baccelli%2C_Rome%2C_Roma%2C_Lazio%2C_00154%2C_Italy_-_Photo_Paolo_Villa_-_FO232095_-_Architettura_e_mattoni_-_arco-volta.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Pohled na klenbu.jpg",
+      "description": "pohled na klenbu",
+      "categories": [
+        "Church of the Nativity of the Virgin Mary in Průhonice Castle",
+        "Groin vaults",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Michaela Irová",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pohled_na_klenbu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Pohled_na_klenbu.jpg/1280px-Pohled_na_klenbu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Abhängling, Wien, Stephansdom, Katharinenapelle (Hasak, Hdb.d.Architektur, 1927, Abb.142).jpg",
+      "description": "Abhängling, Wien, Stephansdom, Katharinenapelle (Hasak, Hdb.d.Architektur, 1927, Abb.142)",
+      "categories": [
+        "Vaults",
+        "Author died more than 70 years ago public domain images",
+        "CC-PD-Mark",
+        "St. Stephen's Cathedral in art",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Max Hasak, gestorben 1937",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abh%C3%A4ngling,_Wien,_Stephansdom,_Katharinenapelle_(Hasak,_Hdb.d.Architektur,_1927,_Abb.142).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Abh%C3%A4ngling%2C_Wien%2C_Stephansdom%2C_Katharinenapelle_%28Hasak%2C_Hdb.d.Architektur%2C_1927%2C_Abb.142%29.jpg/1280px-Abh%C3%A4ngling%2C_Wien%2C_Stephansdom%2C_Katharinenapelle_%28Hasak%2C_Hdb.d.Architektur%2C_1927%2C_Abb.142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6459,
+      "hauteur": 3690
+    }
+  ]
+}

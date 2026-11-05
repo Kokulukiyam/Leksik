@@ -1,0 +1,163 @@
+{
+  "terme": {
+    "id": "chevetre",
+    "terme": "le chevêtre",
+    "categorie": "Structure",
+    "definition": "Pièce de bois ou de métal posée entre deux solives pour encadrer une trémie et reprendre les solives interrompues.",
+    "priorite": 3,
+    "requetes": [
+      "trimmer joist header",
+      "chevêtre",
+      "floor opening trimmer"
+    ],
+    "incompatibles": [
+      "solive",
+      "tremie"
+    ],
+    "categoriesCommons": [
+      "Category:Joists",
+      "Category:Timber framing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2009-08-27-chorin-31.jpg",
+      "description": "Kloster Chorin",
+      "categories": [
+        "GFDL-1.2",
+        "Joists",
+        "Interior of Klosterkirche Chorin"
+      ],
+      "auteur": "Ralf Roletschek ( talk )",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:2009-08-27-chorin-31.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2009-08-27-chorin-31.jpg/1280px-2009-08-27-chorin-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3008
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Departure of English Mail from Post Office, Simla.jpg",
+      "description": "Departure of English Mail from Post Office, Simla; Lala Deen Dayal (Indian, 1844 - 1905); 1885–1887; Albumen silver print; 19.7 × 26.2 cm (7 3/4 × 10 5/16 in.); 84.XM.1409.1; No Copyright - United States ( http://rightsstatements.org/vocab/NoC-US/1.0/ ) View of the Mall Road, a busy road lined with buildings and storefronts. At the end of the road is the Shimla General Post Office, a three-story building with railings along its balconies. A section of the building is topped with a spire-like structure. A number of people can be seen at various points along the road. (Recto, print) lower left, ",
+      "categories": [
+        "India in the 19th century",
+        "CC-Zero",
+        "Timber framing",
+        "Post offices in Himachal Pradesh",
+        "Postal vehicles of India",
+        "Horse-drawn carts in India",
+        "Black and white photographs by Lala Deen Dayal",
+        "Buildings on the Mall Road, Shimla",
+        "Photographs of India in the J. Paul Getty Museum"
+      ],
+      "auteur": "The J. Paul Getty Museum, Los Angeles",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Departure_of_English_Mail_from_Post_Office,_Simla.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Departure_of_English_Mail_from_Post_Office%2C_Simla.jpg/1280px-Departure_of_English_Mail_from_Post_Office%2C_Simla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4301,
+      "hauteur": 3209
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Copped Hall first floor room, Epping, Essex, England.jpg",
+      "description": "A first floor room at Copped Hall , aka Copt Hall or Copthall, a Grade II listed country house , 1.5 miles (2 km) west from the town of Epping , Essex , England. The house and its ancillary buildings are within the civil parish of Epping Upland , with the larger part of the gardens to the west, in Waltham Abbey . The present mid-18th-century Georgian hall replaced an earlier Elizabethan hall by Sir Thomas Heneage . It was destroyed by fire in 1917, with it and its gardens suffering further 20th-century destruction and neglect. The property is being restored by The Copped Hall Trust . Mobile de",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Joists",
+        "Easels",
+        "Steel framing",
+        "Wooden beams",
+        "Hanging light fixtures",
+        "Photographs with aspect ratio of 3:2",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Lintels in the United Kingdom",
+        "Costumes in the United Kingdom",
+        "Ceiling light fixtures in the United Kingdom",
+        "Brick walls in Essex",
+        "Winter 2018-2019 in the United Kingdom",
+        "February 2019 in Essex",
+        "Acabashi photos: Copped Hall",
+        "Acabashi photos: buildings in Essex",
+        "Damaged walls in the United Kingdom",
+        "England photographs taken on 2019-02-17",
+        "Fireplaces in England",
+        "Dining rooms in England",
+        "Bricked-up doors in England",
+        "Rendered walls in England",
+        "Blind doors in England",
+        "Fireplace hearths",
+        "Chairs in Essex",
+        "Tables in Essex",
+        "Copped Hall (interior)",
+        "1750s female clothing",
+        "Timber girders"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Copped_Hall_first_floor_room,_Epping,_Essex,_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Copped_Hall_first_floor_room%2C_Epping%2C_Essex%2C_England.jpg/1280px-Copped_Hall_first_floor_room%2C_Epping%2C_Essex%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Casa de adobe, San Antonio Pajonal.jpg",
+      "description": "Casita de adobe sobre la Calle al Cementerio en la zona urbana de San Antonio Pajonal, julio 2019.",
+      "categories": [
+        "Timber framing",
+        "Houses in El Salvador",
+        "Self-published work",
+        "Wire fences",
+        "Adobe houses",
+        "July 2019 in San Antonio Pajonal"
+      ],
+      "auteur": "Christopher Arthur Aragon",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_de_adobe,_San_Antonio_Pajonal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Casa_de_adobe%2C_San_Antonio_Pajonal.jpg/1280px-Casa_de_adobe%2C_San_Antonio_Pajonal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Burg Zug.jpg",
+      "description": "Description: Burg Zug Source: photo taken by me, October 2004 Photographer: Baikonur",
+      "categories": [
+        "GFDL",
+        "Joists",
+        "Files with no machine-readable source",
+        "Burg Zug",
+        "License migration redundant",
+        "Wooden buildings",
+        "Self-published work",
+        "Post-and-plank",
+        "Assumed own work"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Baikonur (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Burg_Zug.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Zug.jpg/1280px-Burg_Zug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fachwerkhaus Oberdorf Berod.jpg",
+      "description": "Fachwerkhaus Oberdorf Berod",
+      "categories": [
+        "CC-Zero",
+        "Timber framing",
+        "Cultural heritage monuments in Berod bei Wallmerod",
+        "Self-published work"
+      ],
+      "auteur": "Frechdacks",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fachwerkhaus_Oberdorf_Berod.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Fachwerkhaus_Oberdorf_Berod.jpg/1280px-Fachwerkhaus_Oberdorf_Berod.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2894,
+      "hauteur": 2561
+    }
+  ]
+}

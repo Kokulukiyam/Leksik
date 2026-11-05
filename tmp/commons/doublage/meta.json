@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "doublage",
+    "terme": "le doublage",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Paroi mince, souvent en plaques de plâtre avec isolant, posée contre la face intérieure d'un mur.",
+    "priorite": 2,
+    "requetes": [
+      "insulated plasterboard wall lining",
+      "doublage isolant mur",
+      "drywall furring wall insulation"
+    ],
+    "incompatibles": [
+      "plaque-de-platre",
+      "cloison-en-plaques-de-platre",
+      "cloison"
+    ],
+    "categoriesCommons": [
+      "Category:Dry lining"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Moscow, Begovaya Station rebuild Aug 2025 02.jpg",
+      "description": "Вялотекущий ремонт станции \"Беговая\". В июле 2024 здесь была частично демонтирована мраморная плитка. В августе 2025 полностью расчищены силовые бетонные стены, установлены продольные профили и кронштейны для монтажа новой фальшстены. Глядишь, года через три завершат.",
+      "categories": [
+        "CC-Zero",
+        "Dry lining",
+        "Self-published work",
+        "Begovaya (Moscow Metro)",
+        "Steel studs",
+        "Moscow photographs taken on 2025-08-19",
+        "Photographs by Retired electrician/sovietlegacy"
+      ],
+      "auteur": "Retired electrician",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow,_Begovaya_Station_rebuild_Aug_2025_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Moscow%2C_Begovaya_Station_rebuild_Aug_2025_02.jpg/1280px-Moscow%2C_Begovaya_Station_rebuild_Aug_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4966,
+      "hauteur": 3310
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fertigungslinien für Gipskartonplatten , Gipskonstruktionsplatten und Gipsdeckenplatten.jpg",
+      "description": "Grenzebach delivers turn-key manufacturing lines for gypsum plasterboards – from the analysis of the raw material in our own laboratory to the finished wallboard. Our turn-key scope includes buildings, infrastructure and logistics. Safety in operation, low operating costs and optimum energy efficiency combined with the highest quality standards characterize all our equipment.",
+      "categories": [
+        "Taken with Hasselblad H3D II-39",
+        "Grenzebach Group",
+        "Dry lining",
+        "Self-published work"
+      ],
+      "auteur": "TheGrenzebachGroup",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fertigungslinien_f%C3%BCr_Gipskartonplatten_,_Gipskonstruktionsplatten_und_Gipsdeckenplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Fertigungslinien_f%C3%BCr_Gipskartonplatten_%2C_Gipskonstruktionsplatten_und_Gipsdeckenplatten.jpg/1280px-Fertigungslinien_f%C3%BCr_Gipskartonplatten_%2C_Gipskonstruktionsplatten_und_Gipsdeckenplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6910,
+      "hauteur": 5705
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Air duct and fuse box in a construction site.jpg",
+      "description": "Air duct and fuse box",
+      "categories": [
+        "Joists",
+        "Dry lining",
+        "Flickr images reviewed by FlickreviewR",
+        "Information field template with formatting",
+        "FlickrLickr images",
+        "Flickr images missing SDC creator",
+        "Fuse boxes"
+      ],
+      "auteur": "Paul Cutler de Chaska, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_duct_and_fuse_box_in_a_construction_site.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Air_duct_and_fuse_box_in_a_construction_site.jpg/1280px-Air_duct_and_fuse_box_in_a_construction_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Architectural wall panel supports installed in the east cavern of the passenger terminal. (CM007, 01-02-2019) (32727328918).jpg",
+      "description": "Architectural wall panel supports installed in the east cavern of the passenger terminal. (CM007, 01-02-2019)",
+      "categories": [
+        "Dry lining",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/01/04"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Architectural_wall_panel_supports_installed_in_the_east_cavern_of_the_passenger_terminal._(CM007,_01-02-2019)_(32727328918).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Architectural_wall_panel_supports_installed_in_the_east_cavern_of_the_passenger_terminal._%28CM007%2C_01-02-2019%29_%2832727328918%29.jpg/1280px-Architectural_wall_panel_supports_installed_in_the_east_cavern_of_the_passenger_terminal._%28CM007%2C_01-02-2019%29_%2832727328918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gipsskivor.jpg",
+      "description": "Gipsskivor",
+      "categories": [
+        "Trestle tables",
+        "Dry lining",
+        "Self-published work"
+      ],
+      "auteur": "Jorchr",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gipsskivor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Gipsskivor.jpg/1280px-Gipsskivor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Trockenbau.jpg",
+      "description": "Designer und Gestaltungsarbeiten",
+      "categories": [
+        "Dry lining",
+        "Self-published work"
+      ],
+      "auteur": "NK Bau Montageservice",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Trockenbau.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Trockenbau.jpg/1280px-Trockenbau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2988,
+      "hauteur": 5312
+    }
+  ]
+}

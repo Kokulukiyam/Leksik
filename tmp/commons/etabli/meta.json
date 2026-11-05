@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "etabli",
+    "terme": "l'établi",
+    "categorie": "Chantier et outillage",
+    "definition": "Table de travail robuste, souvent munie d'un étau, sur laquelle on taille et assemble les pièces.",
+    "priorite": 3,
+    "requetes": [
+      "workbench",
+      "établi",
+      "incategory:\"Workbenches\""
+    ],
+    "categoriesCommons": [
+      "Category:Workbenches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Base with Plexiglass.jpeg",
+      "description": "This is the basic shape and design for the new capacitor.",
+      "categories": [
+        "Capacitors",
+        "Taken with iPhone 4",
+        "Workbenches",
+        "DIY electronics",
+        "Self-published work"
+      ],
+      "auteur": "Mkennedy7536",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Base_with_Plexiglass.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Base_with_Plexiglass.jpeg/960px-Base_with_Plexiglass.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 968,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Forms and edges (2420241452).jpg",
+      "description": "Ski and snowboard forms, and the workbench where metal edges are attached. Prior factory, Whistler.",
+      "categories": [
+        "Workbenches",
+        "Snowboards",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Canada photographs taken on 2008-03-29",
+        "Photographs by Ruth Hartnup",
+        "March 2008 in British Columbia",
+        "2008 in Whistler, British Columbia",
+        "Function Junction"
+      ],
+      "auteur": "Ruth Hartnup from Vancouver, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Forms_and_edges_(2420241452).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Forms_and_edges_%282420241452%29.jpg/1280px-Forms_and_edges_%282420241452%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:CH.ZG.Zug Museum-Burg-Zug shoemaker's-workbench-around-1930.jpg",
+      "description": "A shoemaker's workbench around 1930, found in the Museum Burg in Zug, Switzerland Xaver Blum, the Swiss shoemaker and church sexton, lived in Risch in the canton of Zug from 1902 to 1990. Since 1992, his machines and tools have been owned by the Museum Burg Zug. The workshop there displays the state of mechanization around 1930. Blum was known for his work as a shoemaker and his tools and machines have been preserved to showcase the craftsmanship and technology of the time.",
+      "categories": [
+        "Workbenches",
+        "Taken with Fujifilm GFX100S",
+        "Self-published work",
+        "F-number f/8",
+        "Lens focal length 45 mm",
+        "Shoemakers from Switzerland",
+        "Files with coordinates missing SDC location of creation",
+        "Museum Burg Zug"
+      ],
+      "auteur": "Roy Egloff",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CH.ZG.Zug_Museum-Burg-Zug_shoemaker%27s-workbench-around-1930.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/CH.ZG.Zug_Museum-Burg-Zug_shoemaker%27s-workbench-around-1930.jpg/1280px-CH.ZG.Zug_Museum-Burg-Zug_shoemaker%27s-workbench-around-1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 11648,
+      "hauteur": 8736
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Finished Wooden Base.jpeg",
+      "description": "This is the finished wooden base that will hold the plexiglass",
+      "categories": [
+        "Capacitors",
+        "Taken with iPhone 4",
+        "Workbenches",
+        "DIY electronics",
+        "Wooden objects",
+        "Self-published work"
+      ],
+      "auteur": "Mkennedy7536",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Finished_Wooden_Base.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Finished_Wooden_Base.jpeg/960px-Finished_Wooden_Base.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 968,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:067 VINSEUM (Vilafranca del Penedès), taula de treball i estris del boter de cuir.jpg",
+      "description": "VINSEUM (Vilafranca del Penedès), taula de treball i estris del boter de cuir",
+      "categories": [
+        "Workbenches",
+        "Wineskins",
+        "Self-published work",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Uploaded via Campaign:wlm-es-cat",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in Spain",
+        "All media supported by Wikimedia España in 2025",
+        "Museum workshops",
+        "Collections of VINSEUM"
+      ],
+      "auteur": "Enric",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:067_VINSEUM_(Vilafranca_del_Pened%C3%A8s),_taula_de_treball_i_estris_del_boter_de_cuir.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/067_VINSEUM_%28Vilafranca_del_Pened%C3%A8s%29%2C_taula_de_treball_i_estris_del_boter_de_cuir.jpg/1280px-067_VINSEUM_%28Vilafranca_del_Pened%C3%A8s%29%2C_taula_de_treball_i_estris_del_boter_de_cuir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 2840
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:-77wiki.jpg",
+      "description": "Management of spanner",
+      "categories": [
+        "Workbenches",
+        "Self-published work"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-77wiki.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/-77wiki.jpg/1280px--77wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6304,
+      "hauteur": 7881
+    }
+  ]
+}

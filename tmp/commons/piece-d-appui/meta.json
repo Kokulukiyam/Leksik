@@ -1,0 +1,163 @@
+{
+  "terme": {
+    "id": "piece-d-appui",
+    "terme": "la pièce d'appui",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Traverse basse du dormant d'une fenêtre, posée sur l'appui de maçonnerie.",
+    "priorite": 3,
+    "requetes": [
+      "window frame sill profile",
+      "pièce d'appui fenêtre",
+      "bottom rail window frame"
+    ],
+    "incompatibles": [
+      "appui-de-fenetre",
+      "dormant"
+    ],
+    "categoriesCommons": [
+      "Category:Window sills"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Döblergasse 4 Wohnhaus Otto Wagner 03.jpg",
+      "description": "Wohn- und Sterbehaus Otto Wagners, heute Otto Wagner-Archiv: Fensterbrett",
+      "categories": [
+        "Window sills",
+        "Döblergasse 4",
+        "Self-published work",
+        "Cultural heritage monuments in Austria check done",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Images uploaded by Geolina163",
+        "Uploaded via Campaign:wlm-at",
+        "Supported by Wikimedia Österreich in 2025",
+        "Cultural heritage monuments in Austria missing SDC location of creation",
+        "Cultural heritage monuments in Austria missing SDC depicts",
+        "Media from WikiDaheim 2025 in Austria/all",
+        "Media from WikiDaheim 2025 in Austria/Cultural heritage monuments",
+        "Media from WikiDaheim 2025 in Austria not for prejury",
+        "Media from WikiDaheim 2025 in Austria/Unspecified",
+        "Ausgsteckt project",
+        "Vienna photographs taken on 2025-08-18",
+        "Austria by Geolina"
+      ],
+      "auteur": "Geolina163",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D%C3%B6blergasse_4_Wohnhaus_Otto_Wagner_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/D%C3%B6blergasse_4_Wohnhaus_Otto_Wagner_03.jpg/1280px-D%C3%B6blergasse_4_Wohnhaus_Otto_Wagner_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:HK Admiralty Hotel corridor view Aug-2012.JPG",
+      "description": "香港港麗酒店 , Conrad Hotels, Admiralty, Hong Kong",
+      "categories": [
+        "Taken with Ricoh R10",
+        "Window sills",
+        "Interior of Conrad Hong Kong",
+        "Self-published work",
+        "Corridors in Hong Kong",
+        "Wall mounted pictures",
+        "Curved structures",
+        "Windows (interior views)",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Hong Kong photographs taken on 2012-08-30",
+        "Media needing category review as of 30 January 2024",
+        "August 2012 in Conrad Hong Kong"
+      ],
+      "auteur": "Chansmingkwong",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_Admiralty_Hotel_corridor_view_Aug-2012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/HK_Admiralty_Hotel_corridor_view_Aug-2012.JPG/1280px-HK_Admiralty_Hotel_corridor_view_Aug-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Fenêtre gare de Calevoet - Larmier.jpg",
+      "description": "Gare de Calevoet - détail d'une fenêtre",
+      "categories": [
+        "Taken with Sony DSC-HX80",
+        "Uccle-Calevoet station",
+        "Window sills",
+        "Self-published work",
+        "Windows in Belgium",
+        "2019 in rail transport in Belgium",
+        "Hood moulds in Belgium",
+        "Photographs taken on 2019-02-17",
+        "Belgium photographs taken on 2019-02-16"
+      ],
+      "auteur": "Stratoswift",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fen%C3%AAtre_gare_de_Calevoet_-_Larmier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Fen%C3%AAtre_gare_de_Calevoet_-_Larmier.jpg/1280px-Fen%C3%AAtre_gare_de_Calevoet_-_Larmier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Daniel Tafjord 2017-05-17 (Unsplash).jpg",
+      "description": "Daniel Tafjord 2017-05-17",
+      "categories": [
+        "CC-Zero",
+        "Window sills",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "Daniel Tafjord danieltafjord",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Daniel_Tafjord_2017-05-17_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Daniel_Tafjord_2017-05-17_%28Unsplash%29.jpg/1280px-Daniel_Tafjord_2017-05-17_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7952,
+      "hauteur": 5304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gotland-Bunge Museum Hof 19.Jhdt. 15.jpg",
+      "description": "Bunge Museum auf Gotland. Hof ( 19.Jhdt. ): Austragshaus - Petroleumlampe am Fenster",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Window sills",
+        "Self-published work",
+        "Lanterns in Sweden",
+        "August 2007 in Gotland",
+        "Museums in Sweden photographed in 2007",
+        "Sweden photographs taken on 2007-08-26",
+        "2007 in Bunge",
+        "Hurricane lamps",
+        "Farm in Gotland 19th century"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gotland-Bunge_Museum_Hof_19.Jhdt._15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Gotland-Bunge_Museum_Hof_19.Jhdt._15.jpg/1280px-Gotland-Bunge_Museum_Hof_19.Jhdt._15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fönsterbröstning, fönsterbänk, radiator.jpg",
+      "description": "Fönsterbröstning, fönsterbänk, radiator och golvsockel",
+      "categories": [
+        "Baseboards",
+        "Window sills",
+        "Sheet metal radiators",
+        "Self-published work",
+        "Windows (interior views)",
+        "Photographs by Holger Ellgaard"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6nsterbr%C3%B6stning,_f%C3%B6nsterb%C3%A4nk,_radiator.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/F%C3%B6nsterbr%C3%B6stning%2C_f%C3%B6nsterb%C3%A4nk%2C_radiator.jpg/1280px-F%C3%B6nsterbr%C3%B6stning%2C_f%C3%B6nsterb%C3%A4nk%2C_radiator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4340,
+      "hauteur": 3210
+    }
+  ]
+}

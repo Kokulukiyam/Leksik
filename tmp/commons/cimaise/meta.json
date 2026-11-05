@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "cimaise",
+    "terme": "la cimaise",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Moulure horizontale fixée à mi-hauteur d'un mur, qui protège la paroi ou sert à accrocher des tableaux.",
+    "priorite": 3,
+    "requetes": [
+      "chair rail molding wall",
+      "cimaise murale",
+      "picture rail molding"
+    ],
+    "incompatibles": [
+      "boiserie",
+      "moulure"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Capitel y cimacio visigodo, Museo Arqueológico de Sevilla.jpg",
+      "description": "El cimacio (s. VI-VII) procede de La Luisiana . El capitel es de mármol, con decoración sencilla y procedencia desconocida. Fechable a finales del siglo VI d.C. o principios del VII.",
+      "categories": [
+        "GFDL",
+        "La Luisiana",
+        "License migration redundant",
+        "Cyma moldings",
+        "Self-published work",
+        "Visigothic capitals in Seville",
+        "Capitals (architecture), Archeological Museum of Seville"
+      ],
+      "auteur": "José Luis Filpo Cabana",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capitel_y_cimacio_visigodo,_Museo_Arqueol%C3%B3gico_de_Sevilla.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Capitel_y_cimacio_visigodo%2C_Museo_Arqueol%C3%B3gico_de_Sevilla.jpg/1280px-Capitel_y_cimacio_visigodo%2C_Museo_Arqueol%C3%B3gico_de_Sevilla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3088,
+      "hauteur": 3088
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Iglesia-villaute-san-martin-exterior-dic-2021-bj.jpg",
+      "description": "Villaute (España). Iglesia de San Martín Obispo. Canecillo.",
+      "categories": [
+        "Cyma moldings",
+        "Iglesia de San Martín Obispo, Villaute",
+        "Self-published work"
+      ],
+      "auteur": "MottaW",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iglesia-villaute-san-martin-exterior-dic-2021-bj.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Iglesia-villaute-san-martin-exterior-dic-2021-bj.jpg/1280px-Iglesia-villaute-san-martin-exterior-dic-2021-bj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1900,
+      "hauteur": 1258
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Church of Saint Román - Iglesia de San Román (Villaherreros) 003.JPG",
+      "description": "Cimacio of the portal of the Church of Saint Román in Villaherreros (Palencia, Castile and León).",
+      "categories": [
+        "Taken with Nikon D80",
+        "Cyma moldings",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Church of Saint Román, Villaherreros"
+      ],
+      "auteur": "Valdavia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Rom%C3%A1n_-_Iglesia_de_San_Rom%C3%A1n_(Villaherreros)_003.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Church_of_Saint_Rom%C3%A1n_-_Iglesia_de_San_Rom%C3%A1n_%28Villaherreros%29_003.JPG/1280px-Church_of_Saint_Rom%C3%A1n_-_Iglesia_de_San_Rom%C3%A1n_%28Villaherreros%29_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cimacio visigodo (19600471142).jpg",
+      "description": "De los escasos restos que quedan del arte visigodo, cimacios, columnas y canceles son los tipos más frecuentes. Esta pieza, posiblemente del siglo VII, está expuesta en la Colección Visigoda de Mérida.",
+      "categories": [
+        "Cyma moldings",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Ángel M. Felicísimo",
+        "Museo de Arte Visigodo",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Ángel M. Felicísimo from Mérida, España",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cimacio_visigodo_(19600471142).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Cimacio_visigodo_%2819600471142%29.jpg/1280px-Cimacio_visigodo_%2819600471142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1496
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cimacio visigodo (ss. V-VII).jpg",
+      "description": "Mezquita de Almonaster la Real . Elemento visigodo reutilizado en la construcción de la mezquita de al-Munastyr.",
+      "categories": [
+        "Images with annotations",
+        "Mezquita de Almonaster",
+        "Cyma moldings",
+        "Self-published work",
+        "Visigothic capitals in Spain",
+        "Architectural elements in Almonaster la Real",
+        "Visigothic art in Andalusia"
+      ],
+      "auteur": "José Luis Filpo Cabana",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cimacio_visigodo_(ss._V-VII).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cimacio_visigodo_%28ss._V-VII%29.jpg/1280px-Cimacio_visigodo_%28ss._V-VII%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Santibáñez de la Peña Church of Saint John the Baptist 006 cimacio.jpg",
+      "description": "Portal of church of Saint John the Baptist in Santibáñez de la Peña (Palencia, Castile and León)",
+      "categories": [
+        "Taken with Nikon D80",
+        "Cyma moldings",
+        "Church of Saint John the Baptist, Santibáñez de la Peña",
+        "Self-published work",
+        "Photos by User:Valdavia"
+      ],
+      "auteur": "Valdavia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Santib%C3%A1%C3%B1ez_de_la_Pe%C3%B1a_Church_of_Saint_John_the_Baptist_006_cimacio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Santib%C3%A1%C3%B1ez_de_la_Pe%C3%B1a_Church_of_Saint_John_the_Baptist_006_cimacio.jpg/1280px-Santib%C3%A1%C3%B1ez_de_la_Pe%C3%B1a_Church_of_Saint_John_the_Baptist_006_cimacio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1296
+    }
+  ]
+}

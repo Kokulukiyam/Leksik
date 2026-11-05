@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "plaque-de-platre-coupe-feu",
+    "terme": "la plaque de plâtre coupe-feu",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Plaque de plâtre renforcée de fibres, à carton souvent rose ou rouge, qui retarde la propagation du feu.",
+    "priorite": 3,
+    "requetes": [
+      "fire rated drywall pink",
+      "plaque de plâtre coupe-feu",
+      "type X drywall"
+    ],
+    "incompatibles": [
+      "plaque-de-platre"
+    ],
+    "categoriesCommons": [
+      "Category:Fire protection"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2017 09 04-22.04.44.270-CDT.jpg",
+      "description": "Rock Rabbit Lookout wrapped for protection",
+      "categories": [
+        "PD US Government",
+        "Highline Fire",
+        "Fire protection",
+        "CC-PD-Mark",
+        "InciWeb photos"
+      ],
+      "auteur": "U.S. Forest Service",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017_09_04-22.04.44.270-CDT.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2017_09_04-22.04.44.270-CDT.jpg/1280px-2017_09_04-22.04.44.270-CDT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:1903 Auditors' Report, p.3 (3081129968).jpg",
+      "description": "Third page of the Abstract of Accounts for Deseronto in 1902, detailing expenditure and receipts for the Public School, High School, water works and fire protection.",
+      "categories": [
+        "Taken with Sony DSC-H3",
+        "Fire protection",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "1903 documents of Canada",
+        "Water works in Canada",
+        "Photographs in the Deseronto Archives"
+      ],
+      "auteur": "Deseronto Archives",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:1903_Auditors%27_Report,_p.3_(3081129968).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/1903_Auditors%27_Report%2C_p.3_%283081129968%29.jpg/1280px-1903_Auditors%27_Report%2C_p.3_%283081129968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Brandschutzstreifen.jpg",
+      "description": "Rock woll fire protection barrier within a polystyrole thermal building insulation",
+      "categories": [
+        "Scaffolding",
+        "Thermal insulation",
+        "Fire protection"
+      ],
+      "auteur": "Cschirp",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brandschutzstreifen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Brandschutzstreifen.jpg/1280px-Brandschutzstreifen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1728,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fensterschliessung für Feuerwehrzugang.jpg",
+      "description": "Fensterschliessung für Feuerwehrzugang",
+      "categories": [
+        "Windows",
+        "Fire protection",
+        "Self-published work",
+        "Fire protection signs"
+      ],
+      "auteur": "Ralph Plennert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fensterschliessung_f%C3%BCr_Feuerwehrzugang.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Fensterschliessung_f%C3%BCr_Feuerwehrzugang.jpg/1280px-Fensterschliessung_f%C3%BCr_Feuerwehrzugang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2084,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2. Kriegs-Feuerschutz-Merkblatt (Verlag Ph.L. Jung, München) - LABW - Staatsarchiv Freiburg W 110-1 Nr. 0099.jpeg",
+      "description": "2. Kriegs-Feuerschutz-Merkblatt (Verlag Ph.L. Jung, München)",
+      "categories": [
+        "Files with no machine-readable author",
+        "Fire protection",
+        "Uploaded with OpenRefine",
+        "Files from Landesarchiv-BW with known IDs",
+        "Collections of Staatsarchiv Freiburg",
+        "Files from Landesarchiv Baden-Württemberg uploaded by CuratorBot",
+        "Staatsarchiv Freiburg Findbuch W 110/1"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2._Kriegs-Feuerschutz-Merkblatt_(Verlag_Ph.L._Jung,_M%C3%BCnchen)_-_LABW_-_Staatsarchiv_Freiburg_W_110-1_Nr._0099.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2._Kriegs-Feuerschutz-Merkblatt_%28Verlag_Ph.L._Jung%2C_M%C3%BCnchen%29_-_LABW_-_Staatsarchiv_Freiburg_W_110-1_Nr._0099.jpeg/1280px-2._Kriegs-Feuerschutz-Merkblatt_%28Verlag_Ph.L._Jung%2C_M%C3%BCnchen%29_-_LABW_-_Staatsarchiv_Freiburg_W_110-1_Nr._0099.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1239
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:FEMA - 30109 - Protecting Stuctures from Wildfire in Georgia.jpg",
+      "description": "Charlton County, GA, May 18, 2007 -- Firefighters have wrapped a historic property and installed an emergency sprinkler system fed by 'pumpkin' tanks to protect it from the Big Turnaround Fire, known earlier as the Bugaboo Scrub Fire. The U.S. Federal Emergency Management Agency (FEMA) authorized four Fire Management Assistance Grants between April 18 and May 10, 2007, to help Georgia fight fires in four counties. Mark Wolfe/FEMA",
+      "categories": [
+        "Okefenokee National Wildlife Refuge",
+        "Taken with Nikon D70",
+        "Fire protection",
+        "2007 Bugaboo Scrub Fire",
+        "PD US FEMA",
+        "Parks in 2007",
+        "May 2007 United States photographs",
+        "May 2007 in Georgia (U.S. state)",
+        "Picket fences in the United States",
+        "4 objects",
+        "Portable pools",
+        "Images from FEMA, category Response",
+        "Images from FEMA, category Operations",
+        "Images from FEMA, category Preparations",
+        "Images from FEMA, category Fire",
+        "Charlton County, Georgia in the 2000s"
+      ],
+      "auteur": "Mark Wolfe",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:FEMA_-_30109_-_Protecting_Stuctures_from_Wildfire_in_Georgia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/FEMA_-_30109_-_Protecting_Stuctures_from_Wildfire_in_Georgia.jpg/1280px-FEMA_-_30109_-_Protecting_Stuctures_from_Wildfire_in_Georgia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    }
+  ]
+}

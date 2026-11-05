@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "papier-peint",
+    "terme": "le papier peint",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Revêtement mural en rouleaux de papier ou de vinyle imprimé, collé au mur.",
+    "priorite": 2,
+    "requetes": [
+      "wallpaper wall",
+      "papier peint",
+      "incategory:\"Wallpapers\""
+    ],
+    "categoriesCommons": [
+      "Category:Wallpapers",
+      "Category:Wallpapered rooms"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Altic wallpaper.jpg",
+      "description": "walpapper",
+      "categories": [
+        "Wallpapers",
+        "Self-published work"
+      ],
+      "auteur": "Altic Ecommerce Pvt. Ltd.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Altic_wallpaper.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Altic_wallpaper.jpg/1280px-Altic_wallpaper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2319,
+      "hauteur": 2319
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20120306160DR Waldenburg Schloß klassizistisches Zimmer.jpg",
+      "description": "06.03.2012 08396 Waldenburg, Peniger Straße 10: Schloß (GMP: 50.875155,12.605512). Während der Revolution von 1848 wurde das vorhandene Schloß zerstört. 1855-1859 wurde nach Plänen des Leipziger Architekten Eduard Pötzsch ein Neubau im Stile der Tudorgotik errichtet. Unter Fürst Victor Otto II. von Schönburg-Waldenburg entstand 1909-1912 durch Umbau nach Plänen des Dresdner Hofarchitekten Gustav Frölichdurch das heutige Schloß. 1948 wurde in der Fürstenresidenz eine Lungenheilstätte eröffnet, aus der später ein Krankenhaus hervorging. 1998 wurde das Krankenhaus geschlossen. Heute Museum. Klass",
+      "categories": [
+        "Fireplaces in Germany",
+        "Tapestries in Germany",
+        "Interior of Schloss Waldenburg",
+        "Files by Jörg Blobelt",
+        "2012 in Landkreis Mittelsachsen",
+        "Files with coordinates missing SDC location of creation",
+        "Saxony photographs taken on 2012-03-06",
+        "Wallpapered rooms"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20120306160DR_Waldenburg_Schlo%C3%9F_klassizistisches_Zimmer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/20120306160DR_Waldenburg_Schlo%C3%9F_klassizistisches_Zimmer.jpg/1280px-20120306160DR_Waldenburg_Schlo%C3%9F_klassizistisches_Zimmer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2479,
+      "hauteur": 1872
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:One piece my wallpaper.jpg",
+      "description": "One piece my wallpaper",
+      "categories": [
+        "Wallpapers",
+        "Self-published work",
+        "Taken with Alps S11"
+      ],
+      "auteur": "Kempoyy",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:One_piece_my_wallpaper.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/One_piece_my_wallpaper.jpg/1280px-One_piece_my_wallpaper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:4769494160 wallpaper.jpg",
+      "description": "flower patterns",
+      "categories": [
+        "Taken with Canon EOS 5D Mark II",
+        "Flickr images reviewed by FlickreviewR",
+        "Wallpapered rooms",
+        "Indian (wallpaper)",
+        "Morris & Co. wallpapers in interiors"
+      ],
+      "auteur": "Eduardo",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4769494160_wallpaper.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/4769494160_wallpaper.jpg/1280px-4769494160_wallpaper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:64 Gorokhovaya Street. Old wallpapers in Rasputin's apartment 08.jpg",
+      "description": "ул.Гороховая, 64. Старые обои в квартире Распутина",
+      "categories": [
+        "Self-published work",
+        "Wallpapered rooms",
+        "Rasputin's Museum (Saint Petersburg)"
+      ],
+      "auteur": "Vaija",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:64_Gorokhovaya_Street._Old_wallpapers_in_Rasputin%27s_apartment_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/64_Gorokhovaya_Street._Old_wallpapers_in_Rasputin%27s_apartment_08.jpg/1280px-64_Gorokhovaya_Street._Old_wallpapers_in_Rasputin%27s_apartment_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 2322
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Slashed House Wallpaper.jpg",
+      "description": "Old times...",
+      "categories": [
+        "CC-Zero",
+        "Wallpapers",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Taken with Tecno Spark Go 2022"
+      ],
+      "auteur": "VladimirWorkspace",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Slashed_House_Wallpaper.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Slashed_House_Wallpaper.jpg/1280px-Slashed_House_Wallpaper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 1872
+    }
+  ]
+}

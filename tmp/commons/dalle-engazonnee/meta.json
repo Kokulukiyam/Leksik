@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "dalle-engazonnee",
+    "terme": "la dalle engazonnée",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Dalle en béton ou plastique ajourée d'alvéoles où pousse le gazon, pour un parking perméable.",
+    "priorite": 3,
+    "requetes": [
+      "grass paver",
+      "dalle engazonnée",
+      "grass grid paving"
+    ],
+    "incompatibles": [
+      "pelouse"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mapi6.jpg",
+      "description": "",
+      "categories": [
+        "Media lacking a description",
+        "Grass pavements",
+        "Self-published work"
+      ],
+      "auteur": "LUCY GUTIERREZ",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mapi6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Mapi6.jpg/1280px-Mapi6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:'Anas platyrhynchos' ducks Mallard at Henham Essex England 02.jpg",
+      "description": "Mallard , Anas platyrhynchos , ducks at Henham , in Essex , England. Software : RAW file lens-corrected, optimized and converted to JPEG with DxO OpticsPro 10 Elite , and likely further optimized and/or cropped and/or spun with Adobe Photoshop CS2 .",
+      "categories": [
+        "Grass pavements",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "July 2015 in Essex",
+        "Photographs taken on 2015-07-18",
+        "2 birds in the United Kingdom",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Anas platyrhynchos (more than one female)",
+        "Ducks in Henham",
+        "Acabashi photos: birds"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Anas_platyrhynchos%27_ducks_Mallard_at_Henham_Essex_England_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%27Anas_platyrhynchos%27_ducks_Mallard_at_Henham_Essex_England_02.jpg/1280px-%27Anas_platyrhynchos%27_ducks_Mallard_at_Henham_Essex_England_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3704,
+      "hauteur": 2096
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Rasengitterstein Boeschung.jpg",
+      "description": "Rasengitterstein zur Sicherung einer Böschung",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D200",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Grass pavements",
+        "Self-published work"
+      ],
+      "auteur": "Cliffscherer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rasengitterstein_Boeschung.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Rasengitterstein_Boeschung.jpg/1280px-Rasengitterstein_Boeschung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3884,
+      "hauteur": 2600
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bochum - Werner Hellweg - Heinrich Gustav - Schacht Jacob+Hauptfeuerwache+Arnold 01 ies.jpg",
+      "description": "Ehemaliger Standort des Schachtes Jacob der Zeche Heinrich Gustav, später Zeche Robert Müser, am Werner Hellweg in Bochum . Im Hintergrund Schacht Arnold und die Hauptfeuer- und Rettungswache.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 5D Mark II",
+        "License migration redundant",
+        "Grass pavements",
+        "Self-published work",
+        "Zeche Heinrich Gustav Schacht Arnold",
+        "Hauptfeuer- und Rettungswache Bochum",
+        "Zeche Heinrich Gustav Schacht Jacob"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob%2BHauptfeuerwache%2BArnold_01_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob%2BHauptfeuerwache%2BArnold_01_ies.jpg/1280px-Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob%2BHauptfeuerwache%2BArnold_01_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 5616
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Grass Pavers In The Auckland Domain II.jpg",
+      "description": "Grass pavers in the Auckland Domain, close-up.",
+      "categories": [
+        "CC-Zero",
+        "Auckland Domain",
+        "Grass pavements",
+        "Self-published work"
+      ],
+      "auteur": "Ingolfson",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grass_Pavers_In_The_Auckland_Domain_II.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Grass_Pavers_In_The_Auckland_Domain_II.jpg/1280px-Grass_Pavers_In_The_Auckland_Domain_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Euromaster à Massy en Essonne le 2 août 2015 - 10.jpg",
+      "description": "Cette image a été versée dans le cadre de L'Été des villes 2015 .",
+      "categories": [
+        "GFDL",
+        "FAL",
+        "License migration redundant",
+        "Grass pavements",
+        "Self-published work",
+        "Uploaded via Campaign:ÉtédesVilles",
+        "Uploaded with Commonist",
+        "Images from Été des Villes 2015",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Euromaster Massy (Essonne)"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Euromaster_%C3%A0_Massy_en_Essonne_le_2_ao%C3%BBt_2015_-_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Euromaster_%C3%A0_Massy_en_Essonne_le_2_ao%C3%BBt_2015_-_10.jpg/1280px-Euromaster_%C3%A0_Massy_en_Essonne_le_2_ao%C3%BBt_2015_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

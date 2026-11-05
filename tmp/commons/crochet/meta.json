@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "crochet",
+    "terme": "le crochet",
+    "categorie": "Ornement",
+    "definition": "Petit ornement gothique en forme de feuille recourbée, répété le long des arêtes des pinacles et des gâbles.",
+    "priorite": 3,
+    "requetes": [
+      "crockets gothic",
+      "gothic crocket",
+      "crochets gothiques"
+    ],
+    "incompatibles": [
+      "pinacle",
+      "gable",
+      "fleuron"
+    ],
+    "categoriesCommons": [
+      "Category:Crockets",
+      "Category:Gothic architectural elements"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Gothic pseudo-windows.jpg",
+      "description": "Gothic pseudo-windows",
+      "categories": [
+        "Taken with Sony DSC-W30",
+        "Flickr images uploaded by Flickr upload bot",
+        "Gothic architectural elements"
+      ],
+      "auteur": "Erin Stevenson O'Connor",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gothic_pseudo-windows.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gothic_pseudo-windows.jpg/1280px-Gothic_pseudo-windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Monestir de la Trinitat pinacles.JPG",
+      "description": "Pinacles gòtics que emmarquen la portada d'ingrés a l'església del Monestir de la Trinitat de València.",
+      "categories": [
+        "Exterior of the Monestir de la Trinitat de València",
+        "Crockets",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Joanbanjo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Monestir_de_la_Trinitat_pinacles.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Monestir_de_la_Trinitat_pinacles.JPG/1280px-Monestir_de_la_Trinitat_pinacles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2748,
+      "hauteur": 3664
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Linzer Dom - Fenster Versehgang 5 Architektur.jpg",
+      "description": "Linz ( Upper Austria ). New Cathedral: Stained glass windows showing the pastoral visit to dying bishop Rudigier in 1884 - detail: Gothic architectural elements.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "Self-published work",
+        "Cultural heritage monuments in Austria check done",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Gothic architectural elements",
+        "Images from Wiki Loves Monuments 2014",
+        "Images from Wiki Loves Monuments 2014 in Austria",
+        "Uploaded via Campaign:wlm-at",
+        "Images from Wiki Loves Monuments 2014 in Austria selected for jury (remove me if image should not take part in the competition)",
+        "Austria photographs taken on 2011-11-30",
+        "Fenster Versehgang zu Bischof Rudigier (Neuer Dom Linz)"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0 at",
+      "lien": "https://commons.wikimedia.org/wiki/File:Linzer_Dom_-_Fenster_Versehgang_5_Architektur.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Linzer_Dom_-_Fenster_Versehgang_5_Architektur.jpg/1280px-Linzer_Dom_-_Fenster_Versehgang_5_Architektur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1410,
+      "hauteur": 2130
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Kostel sv. Barbory (Kutná Hora) (10).jpg",
+      "description": "Kostel sv. Barbory (Kutná Hora), Barborská, Kutná Hora",
+      "categories": [
+        "Gothic church portals in the Czech Republic",
+        "Images from Wiki Loves Monuments 2012 in the Czech Republic",
+        "Czech Republic photographs taken on 2012-09-28",
+        "Taken with Canon EOS 7D",
+        "Crockets",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2012",
+        "West facade of the Church of Saint Barbara (Kutná Hora)",
+        "Church portals in Kutná Hora"
+      ],
+      "auteur": "Ondřej Kořínek",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kostel_sv._Barbory_(Kutn%C3%A1_Hora)_(10).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Kostel_sv._Barbory_%28Kutn%C3%A1_Hora%29_%2810%29.jpg/1280px-Kostel_sv._Barbory_%28Kutn%C3%A1_Hora%29_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2333,
+      "hauteur": 3500
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gothic elements, 2 Kossuth street, 2018 Ráckeve.jpg",
+      "description": ": Now flower shop and restaurant with wine testing cellar and event venues. Former trading house, 15th Century. Some Gothic elements can be see on its facade. - 2 Kossuth Lajos street, Old Town, Ráckeve , Pest County , Hungary",
+      "categories": [
+        "Self-published work",
+        "Gothic architectural elements",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "July 2018 Hungary photographs",
+        "Windows in Ráckeve",
+        "2018 in Ráckeve",
+        "Kossuth Lajos utca, 2 (Ráckeve)"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gothic_elements,_2_Kossuth_street,_2018_R%C3%A1ckeve.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Gothic_elements%2C_2_Kossuth_street%2C_2018_R%C3%A1ckeve.jpg/1280px-Gothic_elements%2C_2_Kossuth_street%2C_2018_R%C3%A1ckeve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Kadaň, radnice, kraby (1).JPG",
+      "description": "Ce média traite du monument culturel protégé en République Tchèque portant le numéro",
+      "categories": [
+        "Crockets",
+        "Self-published work",
+        "Cultural monuments in the Czech Republic with known IDs",
+        "Uploaded via Campaign:wlm-cz",
+        "Tower of the town hall in Kadaň"
+      ],
+      "auteur": "Palickap",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kada%C5%88,_radnice,_kraby_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kada%C5%88%2C_radnice%2C_kraby_%281%29.JPG/1280px-Kada%C5%88%2C_radnice%2C_kraby_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2976,
+      "hauteur": 3968
+    }
+  ]
+}

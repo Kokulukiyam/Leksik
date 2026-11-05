@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "bois-composite",
+    "terme": "le bois composite",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau de fibres de bois et de plastique, moulé en lames rainurées pour terrasses et bardages.",
+    "priorite": 3,
+    "requetes": [
+      "composite decking",
+      "wood plastic composite boards",
+      "lames composite terrasse"
+    ],
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Profilblock.jpg",
+      "description": "Profilblock",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 40D",
+        "Composite materials",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Wood plastic composite",
+        "Self-published work"
+      ],
+      "auteur": "Elke Wetzig ( elya )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Profilblock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Profilblock.jpg/1280px-Profilblock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1463
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:WPC madera y plástico.JPG",
+      "description": "Placas de diferentes fórmulas de compuesto de madera y plástico.",
+      "categories": [
+        "Taken with Sony DSC-W5",
+        "Files with no machine-readable source",
+        "Wood plastic composite",
+        "Self-published work",
+        "PD-self",
+        "Assumed own work"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Iqmanuelnavarro (étant donné la revendication de droit d’auteur).",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:WPC_madera_y_pl%C3%A1stico.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/WPC_madera_y_pl%C3%A1stico.JPG/1280px-WPC_madera_y_pl%C3%A1stico.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Terasy WOODPLASTIČ.jpg",
+      "description": "WOODPLASTIC",
+      "categories": [
+        "Wood plastic composite",
+        "Self-published work"
+      ],
+      "auteur": "Remos764",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Terasy_WOODPLASTI%C4%8C.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Terasy_WOODPLASTI%C4%8C.jpg/1280px-Terasy_WOODPLASTI%C4%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 1568
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:WPC-Miniautos.jpg",
+      "description": "WPC-Miniautos",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 40D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Wood plastic composite",
+        "Self-published work",
+        "Blue, green, red"
+      ],
+      "auteur": "Elke Wetzig ( elya )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:WPC-Miniautos.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/WPC-Miniautos.jpg/1280px-WPC-Miniautos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1366
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Rachel Carson National Wildlife Refuge (5514980099).jpg",
+      "description": "Outlooks on the Rachel Carson trail were rehabilitated using recycled plastic lumber.",
+      "categories": [
+        "Rachel Carson National Wildlife Refuge",
+        "PD US FWS",
+        "Wood plastic composite",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Files from the US Fish and Wildlife Service - Recovery Act Team Flickr stream"
+      ],
+      "auteur": "US Fish and Wildlife Service - Recovery Act Team",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rachel_Carson_National_Wildlife_Refuge_(5514980099).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Rachel_Carson_National_Wildlife_Refuge_%285514980099%29.jpg/1280px-Rachel_Carson_National_Wildlife_Refuge_%285514980099%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Little Dish made from reinforced PLA.jpg",
+      "description": "Little Dish made from reinforced PLA",
+      "categories": [
+        "Bioplastics",
+        "Wood plastic composite",
+        "Items with VRTS permission confirmed",
+        "Brown objects",
+        "Objects with white background",
+        "Brown dishes"
+      ],
+      "auteur": "F. Kesselring, FKuR Willich",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Little_Dish_made_from_reinforced_PLA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Little_Dish_made_from_reinforced_PLA.jpg/1280px-Little_Dish_made_from_reinforced_PLA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1747,
+      "hauteur": 1750
+    }
+  ]
+}

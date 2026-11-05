@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "pare-vapeur",
+    "terme": "le pare-vapeur",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Film plastique tendu côté intérieur d'un isolant pour empêcher la vapeur d'eau d'y pénétrer.",
+    "priorite": 3,
+    "requetes": [
+      "vapor barrier plastic insulation wall",
+      "pare-vapeur film",
+      "vapour barrier membrane"
+    ],
+    "incompatibles": [
+      "laine-de-verre",
+      "film-polyethylene"
+    ],
+    "categoriesCommons": [
+      "Category:Vapor barriers",
+      "Category:Thermal insulation"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dampbrems 1.JPG",
+      "description": "Intello dampbrems fra Hunton. Sd 0,25 - Sd 25.",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampbrems_1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Dampbrems_1.JPG/1280px-Dampbrems_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dampbrems 7.JPG",
+      "description": "Intello dampbrems fra Hunton. Sd 0,25 - Sd 25.",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampbrems_7.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Dampbrems_7.JPG/1280px-Dampbrems_7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2023-04-02 Siltasaari HOAS 4.jpg",
+      "description": "New HOAS building under construction in Siltasaarenkatu, Helsinki. April 2023.",
+      "categories": [
+        "Thermal insulation",
+        "Siltasaarenkatu",
+        "Self-published work",
+        "April 2023 in Helsinki",
+        "Building construction in Finland",
+        "Finland photographs taken on 2023-04-02",
+        "2023 in construction in Helsinki",
+        "Construction sites in Helsinki",
+        "Buildings in Kallio"
+      ],
+      "auteur": "Nemo bis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-04-02_Siltasaari_HOAS_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2023-04-02_Siltasaari_HOAS_4.jpg/1280px-2023-04-02_Siltasaari_HOAS_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dampfbremse.jpg",
+      "description": "Verlegte Dampfbremse im Neubau",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Ampack",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampfbremse.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Dampfbremse.jpg/1280px-Dampfbremse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:1 INCH DIAMETER PIPE - INSULATION COLOR CHANGE - REFLOX RIG - NARA - 17422422.jpg",
+      "description": "Scope and content: The original finding aid described this as: Capture Date: 2/17/1978 Photographer: DONALD HUEBLER Keywords: Larsen Scan",
+      "categories": [
+        "PD NASA",
+        "Thermal insulation",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "Lewis Research Center in 1978",
+        "US National Archives series: Photographs Relating to Agency Activities, Facilities and Personnel",
+        "US National Archives location: other",
+        "Photographs by Donald Huebler"
+      ],
+      "auteur": "Donald Huebler",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:1_INCH_DIAMETER_PIPE_-_INSULATION_COLOR_CHANGE_-_REFLOX_RIG_-_NARA_-_17422422.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/1_INCH_DIAMETER_PIPE_-_INSULATION_COLOR_CHANGE_-_REFLOX_RIG_-_NARA_-_17422422.jpg/1280px-1_INCH_DIAMETER_PIPE_-_INSULATION_COLOR_CHANGE_-_REFLOX_RIG_-_NARA_-_17422422.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4853,
+      "hauteur": 6234
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Aluminum foil sauna vapor barrier.jpg",
+      "description": "Alumiinipaperia saunan eristeenä.",
+      "categories": [
+        "Taken with Canon PowerShot A3100 IS",
+        "Aluminium foil",
+        "Vapor barriers",
+        "Saunas",
+        "Photographs taken on 2016-06-15"
+      ],
+      "auteur": "Santeri Viinamäki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminum_foil_sauna_vapor_barrier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Aluminum_foil_sauna_vapor_barrier.jpg/1280px-Aluminum_foil_sauna_vapor_barrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

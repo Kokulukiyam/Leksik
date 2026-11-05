@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "goulotte-a-gravats",
+    "terme": "la goulotte à gravats",
+    "categorie": "Chantier et outillage",
+    "definition": "Conduit formé de tronçons emboîtés suspendus le long d'une façade, qui fait descendre les gravats des étages vers une benne.",
+    "priorite": 3,
+    "requetes": [
+      "debris chute construction",
+      "goulotte à gravats",
+      "rubbish chute scaffolding"
+    ],
+    "incompatibles": [
+      "benne-a-gravats"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:CHUTES - Construction Plastic Trash Chute.jpg",
+      "description": "DURACHUTE Plastic debris chute",
+      "categories": [
+        "Construction slides",
+        "Self-published work"
+      ],
+      "auteur": "Hcwood",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CHUTES_-_Construction_Plastic_Trash_Chute.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/CHUTES_-_Construction_Plastic_Trash_Chute.jpg/1280px-CHUTES_-_Construction_Plastic_Trash_Chute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Rubbish chute Oslo 2020-04-04 14.44.19.jpg",
+      "description": "goulotte à gravats",
+      "categories": [
+        "Recycling",
+        "Construction",
+        "Building demolition",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Teodor605",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rubbish_chute_Oslo_2020-04-04_14.44.19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Rubbish_chute_Oslo_2020-04-04_14.44.19.jpg/1280px-Rubbish_chute_Oslo_2020-04-04_14.44.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Fonds André Raymond (1925-2011) - Tunisie - La cour en travaux de la Mosquée de Hammuda Pacha à Tunis (MédiHAL 4029887).jpg",
+      "description": "Partie en travaux de la cour de cette Mosquée. Des débris et chutes de bois jonchent le sol aux côtés d'équipements divers (brouette, pelle). Cette partie de la cour dispose de galeries à portiques en arcs outrepassés à claveaux de marbre bichrome (noir et blanc). Ils reposent sur des colonnes à fût lisse et à chapiteau de style neo-corinthien à feuillage.",
+      "categories": [
+        "Hammouda Pacha Mosque",
+        "Files with coordinates missing SDC location of creation",
+        "1958 in Tunis",
+        "1958 photographs of Tunisia",
+        "MédiHAL files uploaded by OptimusPrimeBot",
+        "Fonds André Raymond",
+        "Photographs of Tunisia by André Raymond",
+        "Licence Ouverte 2.0"
+      ],
+      "auteur": "Maison Méditerranéenne Des Sciences de l'Homme Phonothèque, André Raymond",
+      "licence": "Licence Ouverte",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fonds_Andr%C3%A9_Raymond_(1925-2011)_-_Tunisie_-_La_cour_en_travaux_de_la_Mosqu%C3%A9e_de_Hammuda_Pacha_%C3%A0_Tunis_(M%C3%A9diHAL_4029887).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Fonds_Andr%C3%A9_Raymond_%281925-2011%29_-_Tunisie_-_La_cour_en_travaux_de_la_Mosqu%C3%A9e_de_Hammuda_Pacha_%C3%A0_Tunis_%28M%C3%A9diHAL_4029887%29.jpg/1280px-Fonds_Andr%C3%A9_Raymond_%281925-2011%29_-_Tunisie_-_La_cour_en_travaux_de_la_Mosqu%C3%A9e_de_Hammuda_Pacha_%C3%A0_Tunis_%28M%C3%A9diHAL_4029887%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2532,
+      "hauteur": 3868
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Construction rubbish chute J1.jpg",
+      "description": "Goulotte à gravats à Mouscron, Belgique.",
+      "categories": [
+        "GFDL",
+        "Construction slides",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work"
+      ],
+      "auteur": "Jamain",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_rubbish_chute_J1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Construction_rubbish_chute_J1.jpg/1280px-Construction_rubbish_chute_J1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3448,
+      "hauteur": 5024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:DE-1801 - USACE-p15141coll5-16656.jpeg",
+      "description": "Base form for debris chute to stilling basin from lower South outlet. Camera approx. 75' D/S, looking D/S. Wayne Construction Co. Cont. 56-273",
+      "categories": [
+        "Uploaded with OpenRefine",
+        "PD US Army USACE",
+        "Images from USACE to check",
+        "Images from USACE, Photographs collection"
+      ],
+      "auteur": "United States. Army. Corps of Engineers. Portland District",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:DE-1801_-_USACE-p15141coll5-16656.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/DE-1801_-_USACE-p15141coll5-16656.jpeg/1280px-DE-1801_-_USACE-p15141coll5-16656.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3070
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Farman reck.jpg",
+      "description": "Historische Fotografie vom 10. Oktober 1915 von der Westfront in der Woëvre-Ebene nahe dem Festungsring von Verdun (Frankreich). Die Aufnahme zeigt deutsche Artilleristen bei der Inspektion der Trümmer eines von deutschen Fliegern abgeschossenen französischen Aufklärungsflugzeugs des Typs Farman M.F.11 „Shorthorn“ (erkennbar an der originalen Ruderbeschriftung „M.F.“ für Maurice Farman sowie der Angabe zur maximalen Zuladung „CHARGE MAXIMA 305 KGs“). Das Wrack dokumentiert den historisch ersten Luftsieg des späteren Jagdfliegers Robert Ritter von Greim (FFA), den dieser an diesem Tag als Flieg",
+      "categories": [
+        "Farman MF.11",
+        "Robert Ritter von Greim",
+        "Europeana 1914-1918",
+        "PD-old-100-expired",
+        "Template Unknown (author)",
+        "CC-PD-Mark"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Farman_reck.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Farman_reck.jpg/1280px-Farman_reck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7253,
+      "hauteur": 4705
+    }
+  ]
+}

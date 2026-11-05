@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "echelle-a-crinoline",
+    "terme": "l'échelle à crinoline",
+    "categorie": "Escaliers et circulations",
+    "definition": "Échelle fixe verticale entourée d'arceaux métalliques qui protègent des chutes, pour l'accès aux toitures et cuves.",
+    "priorite": 3,
+    "requetes": [
+      "caged ladder",
+      "échelle à crinoline",
+      "fixed ladder safety cage"
+    ],
+    "incompatibles": [
+      "echelle"
+    ],
+    "categoriesCommons": [
+      "Category:Caged ladders",
+      "Category:Ladders",
+      "Category:Fixed ladders"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Devil's Gate Dam, Altadena and Pasadena area, Los Angeles, California 18.jpg",
+      "description": "Devil's Gate Dam, Altadena and Pasadena area, Los Angeles, California",
+      "categories": [
+        "2012 in Los Angeles",
+        "Caged ladders",
+        "September 2012 in California",
+        "Self-published work",
+        "United States photographs taken on 2012-09-20",
+        "Devil's Gate Dam (California)"
+      ],
+      "auteur": "Levi Clancy",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Devil%27s_Gate_Dam,_Altadena_and_Pasadena_area,_Los_Angeles,_California_18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Devil%27s_Gate_Dam%2C_Altadena_and_Pasadena_area%2C_Los_Angeles%2C_California_18.jpg/1280px-Devil%27s_Gate_Dam%2C_Altadena_and_Pasadena_area%2C_Los_Angeles%2C_California_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Broken Ladder (124001553).jpeg",
+      "description": "500px provided description: Germany, Dusseldorf &lt;a href=\"www.instagram.com/akavalerov/\"&gt;Instagram&lt;/a&gt; &lt;a href=\"kavalerov.name\"&gt;kavalerov.name&lt;/a&gt; (hi-res & free) [#house ,#abstract ,#building ,#art ,#interior ,#abandoned ,#broken ,#indoor ,#wooden ,#ladder ,#miniature ,#modern art]",
+      "categories": [
+        "Ladders",
+        "Photos imported with import-500px",
+        "Files with coordinates missing SDC location of creation (51° N, 6° E)"
+      ],
+      "auteur": "Artem Kavalerov",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_Ladder_(124001553).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Broken_Ladder_%28124001553%29.jpeg/1280px-Broken_Ladder_%28124001553%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1280
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2008-04-12 Freilichtmuseum Detmold (84).jpg",
+      "description": "Westfälisches Freilichtmuseum in Detmold / Germany",
+      "categories": [
+        "April 2008 Germany photographs",
+        "Self-published work",
+        "Photos by R. Engelhardt (Detmold)",
+        "Thatched roofs in North Rhine-Westphalia",
+        "Farmhouses in Kreis Lippe",
+        "2008 in Detmold",
+        "Photographs taken on 2008-04-12",
+        "Gables with crossed horse heads in North Rhine-Westphalia",
+        "Files with coordinates missing SDC location of creation (51° N, 8° E)",
+        "Wooden ladders",
+        "Timber framing in Westfälisches Freilichtmuseum",
+        "Westfälisches Freilichtmuseum Detmold Outdoor",
+        "Rung ladders",
+        "Fixed ladders"
+      ],
+      "auteur": "R-E-AL ( talk | contribs | Gallery ) (German Wikipedia)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-04-12_Freilichtmuseum_Detmold_(84).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2008-04-12_Freilichtmuseum_Detmold_%2884%29.jpg/1280px-2008-04-12_Freilichtmuseum_Detmold_%2884%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 1976
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Lyon 3e - Échelle à crinoline, rue Lamartine (avril 2019).jpg",
+      "description": "Une échelle à crinoline, rue Lamartine, dans le 3e arrondissement de Lyon.",
+      "categories": [
+        "Caged ladders",
+        "Rue Lamartine (Lyon)",
+        "Self-published work",
+        "Files by User:Sebleouf",
+        "Files with coordinates missing SDC location of creation",
+        "April 2019 in Lyon",
+        "Auvergne-Rhône-Alpes photographs taken on 2019-04-12",
+        "Images of Lyon 3e arrondissement by Sebleouf",
+        "Graffiti in Lyon"
+      ],
+      "auteur": "Sebleouf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lyon_3e_-_%C3%89chelle_%C3%A0_crinoline,_rue_Lamartine_(avril_2019).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Lyon_3e_-_%C3%89chelle_%C3%A0_crinoline%2C_rue_Lamartine_%28avril_2019%29.jpg/1280px-Lyon_3e_-_%C3%89chelle_%C3%A0_crinoline%2C_rue_Lamartine_%28avril_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Eingeschobene Treppe(Bild1).jpg",
+      "description": "Eingeschobene Treppe mit neuen Stufen.",
+      "categories": [
+        "Ladders",
+        "Self-published work"
+      ],
+      "auteur": "ABBwiki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eingeschobene_Treppe(Bild1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Eingeschobene_Treppe%28Bild1%29.jpg/1280px-Eingeschobene_Treppe%28Bild1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Georgetown PowerPlant Museum 93.jpg",
+      "description": "Ladder up the side of a vertical steam turbine, Georgetown PowerPlant Museum, Seattle, Washington, USA.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix P50",
+        "License migration completed",
+        "Step ladders",
+        "Self-published work",
+        "National Register of Historic Places with known IDs",
+        "Georgetown PowerPlant Museum - turbine hall",
+        "Vertical Curtis steam turbines",
+        "Fixed ladders"
+      ],
+      "auteur": "Joe Mabel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Georgetown_PowerPlant_Museum_93.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Georgetown_PowerPlant_Museum_93.jpg/1280px-Georgetown_PowerPlant_Museum_93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

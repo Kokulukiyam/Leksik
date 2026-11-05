@@ -1,0 +1,58 @@
+{
+  "termId": "tole-perforee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panneau métallique vert percé de trous formant un pictogramme de vélo, posé en garde-corps.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.0,
+        "largeur": 0.7,
+        "hauteur": 0.77
+      },
+      "lieu": "Wainuiomata, Nouvelle-Zélande",
+      "note": "Tôle perforée évidente ; rectangle sur le panneau pour exclure la barrière à barreaux."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tour d'habitation dorée vue de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau non identifiable, trop petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade en béton et panneaux métalliques ajourés, vue lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Francisco, États-Unis",
+      "note": "Tôle peu lisible, ambiguë avec béton."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade à panneaux métalliques perforés à trous ronds en damier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Segeltorp, Suède",
+      "note": "Perforation nette et dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tours d'habitation vues de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune tôle perforée visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneaux métalliques à perforations rondes en cage sur ciel bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Segeltorp, Suède",
+      "note": "Perforations nettes, couvrant toute l'image."
+    }
+  ]
+}

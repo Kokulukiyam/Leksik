@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "jarret",
+    "terme": "le jarret",
+    "categorie": "Structure",
+    "definition": "Renfort triangulaire à l'angle entre poteau et traverse d'un portique métallique, qui épaissit la poutre près de l'appui.",
+    "priorite": 3,
+    "requetes": [
+      "haunch portal frame",
+      "jarret portique",
+      "portal frame haunch"
+    ],
+    "incompatibles": [
+      "portique"
+    ],
+    "categoriesCommons": [
+      "Category:Steel frame buildings",
+      "Category:Steel structures"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Construction of Oaks Medical Centre - Shady Lane - Great Barr 01.jpg",
+      "description": "Construction of a factory on Shady Lane, Great Barr , Birmingham, England,",
+      "categories": [
+        "Taken with Nikon D40",
+        "Self-published work",
+        "Images by Andy Mabbett",
+        "Construction sites in the West Midlands (county)",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)",
+        "Steel frame buildings",
+        "Oaks Medical Centre, Birmingham"
+      ],
+      "auteur": "Andy Mabbett",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_of_Oaks_Medical_Centre_-_Shady_Lane_-_Great_Barr_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Construction_of_Oaks_Medical_Centre_-_Shady_Lane_-_Great_Barr_01.jpg/1280px-Construction_of_Oaks_Medical_Centre_-_Shady_Lane_-_Great_Barr_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bytom Rozbark mine steel structure.jpg",
+      "description": "pozostałości zabudowy rejonu głównego Kopalni Węgla Kamiennego Rozbark (resztka estakady taśmociągu, który dostarczał węgiel do kotłowni), konstrukcja stalowa (ściany były wypełnione cegłą, widać pozostałości) obok maszynowni szybu Bończyk (fragment z lewej), Bytom-Rozbark, ul. Chorzowska, widok od ulicy Chorzowskiej. Wyjaśnienie p. Marka Lohera: „zainstalowany tam był przenośnik kubełkowy ze względu na mało miejsca i sporą różnicę wysokości. Otóż zrąb szybu Bończyk i jego budynek maszynowni - znajdowały się na poziomie bocznicy kolejowej, czyli kilka metrów niżej od terenu reszty zabudowy. Po",
+      "categories": [
+        "Rozbark coal mine",
+        "Steel structures",
+        "Self-published work",
+        "Ruins in Silesian Voivodeship",
+        "2019 in Bytom",
+        "Chorzowska Street in Bytom",
+        "Steel constructions",
+        "Images by Gower"
+      ],
+      "auteur": "Adrian Tync",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bytom_Rozbark_mine_steel_structure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bytom_Rozbark_mine_steel_structure.jpg/1280px-Bytom_Rozbark_mine_steel_structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3042,
+      "hauteur": 4563
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Lužice after 2021 South Moravia tornado strike (51).jpg",
+      "description": "Municipality Lužice a day after 2021 South Moravia tornado strike, Hodonín District, South Moravian Region, Czechia, 25 June 2021",
+      "categories": [
+        "Damaged vehicles in the Czech Republic",
+        "Uploaded with pattypan",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Plánovací kalendář",
+        "Steel frame buildings",
+        "Industrial area in Lužice (Hodonín District)",
+        "Mediagrant 2021",
+        "Buildings damaged by 2021 South Moravia tornado",
+        "Mediagrant:Události 21",
+        "2021 tornado damage in Lužice (Hodonín District)"
+      ],
+      "auteur": "Tadeáš Bednarz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lu%C5%BEice_after_2021_South_Moravia_tornado_strike_(51).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Lu%C5%BEice_after_2021_South_Moravia_tornado_strike_%2851%29.jpg/1280px-Lu%C5%BEice_after_2021_South_Moravia_tornado_strike_%2851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Lužice after 2021 South Moravia tornado strike (54).jpg",
+      "description": "Municipality Lužice a day after 2021 South Moravia tornado strike, Hodonín District, South Moravian Region, Czechia, 25 June 2021",
+      "categories": [
+        "Damaged vehicles in the Czech Republic",
+        "Škoda Superb III",
+        "Uploaded with pattypan",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Plánovací kalendář",
+        "Steel frame buildings",
+        "Industrial area in Lužice (Hodonín District)",
+        "Mediagrant 2021",
+        "Buildings damaged by 2021 South Moravia tornado",
+        "Mediagrant:Události 21",
+        "2021 tornado damage in Lužice (Hodonín District)"
+      ],
+      "auteur": "Tadeáš Bednarz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lu%C5%BEice_after_2021_South_Moravia_tornado_strike_(54).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Lu%C5%BEice_after_2021_South_Moravia_tornado_strike_%2854%29.jpg/1280px-Lu%C5%BEice_after_2021_South_Moravia_tornado_strike_%2854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Construction of Oaks Medical Centre - Shady Lane - Great Barr 06.jpg",
+      "description": "Construction of a factory on Shady Lane, Great Barr , Birmingham, England. The former chapel in the background was demolished shortly afterwards, to make way for the medical centre's car park",
+      "categories": [
+        "Taken with Nikon D40",
+        "Self-published work",
+        "Images by Andy Mabbett",
+        "Construction sites in the West Midlands (county)",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)",
+        "Steel frame buildings",
+        "Oaks Medical Centre, Birmingham"
+      ],
+      "auteur": "Andy Mabbett",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_of_Oaks_Medical_Centre_-_Shady_Lane_-_Great_Barr_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Construction_of_Oaks_Medical_Centre_-_Shady_Lane_-_Great_Barr_06.jpg/1280px-Construction_of_Oaks_Medical_Centre_-_Shady_Lane_-_Great_Barr_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Moravská Nová Ves after 2021 South Moravia tornado strike (01).jpg",
+      "description": "Moravská Nová Ves a day after 2021 South Moravia tornado strike, Břeclav District, South Moravian Region, Czechia, 25 June 2021",
+      "categories": [
+        "Damaged vehicles in the Czech Republic",
+        "Uploaded with pattypan",
+        "Dolní (Moravská Nová Ves)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Plánovací kalendář",
+        "Steel frame buildings",
+        "Overhead power lines in Břeclav District",
+        "Mediagrant 2021",
+        "Buildings damaged by 2021 South Moravia tornado",
+        "Mediagrant:Události 21",
+        "2021 tornado damage in Moravská Nová Ves"
+      ],
+      "auteur": "Tadeáš Bednarz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moravsk%C3%A1_Nov%C3%A1_Ves_after_2021_South_Moravia_tornado_strike_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Moravsk%C3%A1_Nov%C3%A1_Ves_after_2021_South_Moravia_tornado_strike_%2801%29.jpg/1280px-Moravsk%C3%A1_Nov%C3%A1_Ves_after_2021_South_Moravia_tornado_strike_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 5616
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "basalte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Galet brun-noir parsemé de bulles de remplissage blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon de collection."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros bloc rougeâtre fissuré sur un estran.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ayrshire, Écosse",
+      "note": "Couleur et aspect pas typiques."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Roche grise vacuolaire au milieu de roche rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dorgali, Sardaigne",
+      "note": "Mélange avec autre roche, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Hautes tours rocheuses dans la forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Badacsony, Hongrie",
+      "note": "Orgues peu lisibles et noyées dans les arbres."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Lame mince au microscope, cristal vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Microscopie."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Macareux sur des falaises, roches sombres dans la mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Látrabjarg, Islande",
+      "note": "Oiseau au premier plan, roche non identifiable."
+    }
+  ]
+}

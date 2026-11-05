@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "coque-en-beton",
+    "terme": "la coque en béton",
+    "categorie": "Structure",
+    "definition": "Voile mince de béton armé à double courbure qui couvre un espace sans appuis intermédiaires.",
+    "priorite": 3,
+    "requetes": [
+      "thin concrete shell",
+      "coque béton",
+      "concrete shell roof"
+    ],
+    "incompatibles": [
+      "voute"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Garching Forschungszentrum, U-Bahnhof, Zugang, 2.jpeg",
+      "description": "Garching bei München, Zugang zum U-Bahnhof Garching Forschungszentrum.",
+      "categories": [
+        "Underground station entrances in Germany",
+        "CC-Zero",
+        "U-Bahnhof Garching-Forschungszentrum",
+        "Self-published work",
+        "Concrete roofs",
+        "Files with coordinates missing SDC location of creation (48° N, 11° E)"
+      ],
+      "auteur": "Renardo la vulpo",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Garching_Forschungszentrum,_U-Bahnhof,_Zugang,_2.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Garching_Forschungszentrum%2C_U-Bahnhof%2C_Zugang%2C_2.jpeg/1280px-Garching_Forschungszentrum%2C_U-Bahnhof%2C_Zugang%2C_2.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2912,
+      "hauteur": 1456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Filature Levavasseur 32.jpg",
+      "description": "Filature Levavasseur.",
+      "categories": [
+        "Filature Levavasseur",
+        "Self-published work",
+        "Overhead cranes in France",
+        "Concrete roofs"
+      ],
+      "auteur": "Giogo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Filature_Levavasseur_32.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Filature_Levavasseur_32.jpg/1280px-Filature_Levavasseur_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Concrete roof (Unsplash).jpg",
+      "description": "Oskar Wimmerman 2017",
+      "categories": [
+        "CC-Zero",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)",
+        "Concrete roofs"
+      ],
+      "auteur": "Oskar Wimmerman oskwim",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_roof_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Concrete_roof_%28Unsplash%29.jpg/1280px-Concrete_roof_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4013,
+      "hauteur": 2675
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Gare de marchandises de Vichy, toiture (1).jpg",
+      "description": "Gare de marchandises de Vichy, toiture",
+      "categories": [
+        "Gare de marchandises de Vichy",
+        "Self-published work",
+        "Roofs in Allier",
+        "August 2023 in rail transport in France",
+        "Concrete roofs",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Auvergne-Rhône-Alpes photographs taken on 2023-08-23"
+      ],
+      "auteur": "TCY",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gare_de_marchandises_de_Vichy,_toiture_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Gare_de_marchandises_de_Vichy%2C_toiture_%281%29.jpg/1280px-Gare_de_marchandises_de_Vichy%2C_toiture_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Grey in grey.JPG",
+      "description": "The tilted concrete roof of Godsbanen. The housing blocks of Åhusene, can be seen to the right.",
+      "categories": [
+        "Godsbanen",
+        "Concrete architectural elements",
+        "Self-published work",
+        "Railings in Denmark",
+        "Concrete buildings in Denmark",
+        "Concrete roofs",
+        "Round windows in Aarhus"
+      ],
+      "auteur": "RhinoMind",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grey_in_grey.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Grey_in_grey.JPG/1280px-Grey_in_grey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dalle préfabriquée, vue du dessous.jpg",
+      "description": "Dalle préfabriqué en Tunisie",
+      "categories": [
+        "Taken with Sony DSLR-A350",
+        "Concrete ceilings",
+        "Self-published work",
+        "Concrete roofs",
+        "Masonry in Tunisia"
+      ],
+      "auteur": "Sahlianox",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dalle_pr%C3%A9fabriqu%C3%A9e,_vue_du_dessous.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Dalle_pr%C3%A9fabriqu%C3%A9e%2C_vue_du_dessous.jpg/1280px-Dalle_pr%C3%A9fabriqu%C3%A9e%2C_vue_du_dessous.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3408,
+      "hauteur": 2272
+    }
+  ]
+}

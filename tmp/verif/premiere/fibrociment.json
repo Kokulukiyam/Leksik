@@ -1,0 +1,53 @@
+{
+  "termId": "fibrociment",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tuyau en amiante-ciment cassé posé au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pourrait passer pour du béton ou de la fonte ; pas une plaque."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux éclats sombres de fibrociment sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Éclats peu identifiables."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tuyau gris en amiante-ciment planté dans le sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet ambigu, pas une plaque."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Annonce publicitaire ancienne avec tuyaux et plaques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Castelldefels, Espagne",
+      "note": "Document imprimé avec texte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Échantillon de fibres d'amiante dans un sachet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade aux panneaux courbes beige clair, balcons arrondis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Malte",
+      "note": "Panneaux lisses beiges pouvant passer pour composite, enduit ou béton ; pas identifiable au premier regard."
+    }
+  ]
+}

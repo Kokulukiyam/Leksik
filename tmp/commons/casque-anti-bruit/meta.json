@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "casque-anti-bruit",
+    "terme": "le casque anti-bruit",
+    "categorie": "Chantier et outillage",
+    "definition": "Paire de coquilles reliées par un arceau, qui couvrent les oreilles contre le bruit des machines.",
+    "priorite": 3,
+    "requetes": [
+      "ear defenders",
+      "casque anti-bruit",
+      "hearing protection earmuffs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Peltor earmuffs.jpg",
+      "description": "Various Peltor earmuffs",
+      "categories": [
+        "Peltor",
+        "Safety earmuffs",
+        "Self-published work",
+        "Products of 3M"
+      ],
+      "auteur": "JiriMatejicek",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Peltor_earmuffs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Peltor_earmuffs.jpg/1280px-Peltor_earmuffs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4137,
+      "hauteur": 1745
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ear muff white bg.jpg",
+      "description": "Earmuffs",
+      "categories": [
+        "Taken with Canon EOS 20D",
+        "GFDL-1.2",
+        "CC-BY-NC-3.0",
+        "Taken with Canon EF 70-200mm F2.8L USM",
+        "License migration opt-out",
+        "Safety earmuffs",
+        "Green equipment",
+        "Husqvarna gardening equipment and tools"
+      ],
+      "auteur": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Canon 70-200mm f/2.8 L",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ear_muff_white_bg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ear_muff_white_bg.jpg/1280px-Ear_muff_white_bg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1067
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Over the Head Earmuffs (Ear Protectors, left) and trowels of various sizes and shapes in German hardware store.jpg",
+      "description": "Over the Head Earmuffs (Ear Protectors, left) and trowels of various sizes and shapes in German hardware store",
+      "categories": [
+        "Price tags in Germany",
+        "CC-Zero",
+        "Earmuffs",
+        "Lux-tools",
+        "Self-published work",
+        "Tiling equipment",
+        "Images with extracted images",
+        "Hardware stores in Munich",
+        "Price tags in euros",
+        "Trowels in Germany"
+      ],
+      "auteur": "Pittigrilli",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Over_the_Head_Earmuffs_(Ear_Protectors,_left)_and_trowels_of_various_sizes_and_shapes_in_German_hardware_store.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Over_the_Head_Earmuffs_%28Ear_Protectors%2C_left%29_and_trowels_of_various_sizes_and_shapes_in_German_hardware_store.jpg/1280px-Over_the_Head_Earmuffs_%28Ear_Protectors%2C_left%29_and_trowels_of_various_sizes_and_shapes_in_German_hardware_store.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3041,
+      "hauteur": 2811
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Reviewing orders.jpg",
+      "description": "Airman 1st Class Cecilia Whitney, C-17 Globemaster III aircraft maintainer assigned to the 437th Aircraft Maintenance Squadron, reviews her technical order during pre-flight checks of the aircraft in support of a mission generation exercise at Joint Base Charleston, S.C., Jan. 5, 2023. The exercise kicked off Mobility Guardian 23 and involved the launch of 24 C-17s for the largest-ever show-of-force formation flight over Charleston Harbor. (U.S. Air Force photo by Master Sgt. Matthew Plew) (This photo has been altered for security purposes by blurring out the tablet screen.)",
+      "categories": [
+        "Joint Base Charleston",
+        "437th Airlift Wing (United States Air Force)",
+        "PD US Air Force",
+        "People using laptops",
+        "Women wearing baseball caps in the United States",
+        "Peltor safety earmuffs",
+        "People wearing safety earmuffs in the United States",
+        "437th Aircraft Maintenance Squadron",
+        "Women holding laptops",
+        "Mobility Guardian 2023"
+      ],
+      "auteur": "Master Sgt. Matthew Plew",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Reviewing_orders.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Reviewing_orders.jpg/1280px-Reviewing_orders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5062,
+      "hauteur": 3368
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Boy Scout with Black Powder Shotgun.jpg",
+      "description": "A Boy Scout of LVAC Troop 430 takes aim with a black powder shotgun at Mountain Man Rendevous 2018.",
+      "categories": [
+        "Shooting ranges in the United States",
+        "Scouting in Nevada",
+        "Self-published work",
+        "Boy Scouts of America in 2018",
+        "People with shotguns",
+        "People wearing safety earmuffs in the United States",
+        "Male people with shotguns"
+      ],
+      "auteur": "Noah Wulf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boy_Scout_with_Black_Powder_Shotgun.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Boy_Scout_with_Black_Powder_Shotgun.jpg/1280px-Boy_Scout_with_Black_Powder_Shotgun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Earmuffs (36325358721).jpg",
+      "description": "Or furry headphones? If they are, fur play to her...",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "People with thermal earmuffs"
+      ],
+      "auteur": "Garry Knight from London, England",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Earmuffs_(36325358721).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Earmuffs_%2836325358721%29.jpg/1280px-Earmuffs_%2836325358721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4573,
+      "hauteur": 3430
+    }
+  ]
+}

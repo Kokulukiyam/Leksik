@@ -1,0 +1,53 @@
+{
+  "termId": "ferraillage-de-dalle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Caisse de barres d'acier pliées en U.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures sans ferraillage de dalle (nappe) clairement visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pont béton au-dessus d'un passage souterrain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tikkurila, Finlande",
+      "note": "Béton sans armatures visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Faisceau de barres d'acier droites en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures sans ferraillage de dalle (nappe) clairement visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle d'exposition sur le béton armé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Espagne",
+      "note": "Salle de musée, pas de ferraillage de dalle."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Barres d'acier coudées empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures sans ferraillage de dalle (nappe) clairement visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble en construction avec coffrages aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mexique",
+      "note": "Pas de ferraillage de dalle lisible."
+    }
+  ]
+}

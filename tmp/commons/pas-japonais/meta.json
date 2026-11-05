@@ -1,0 +1,159 @@
+{
+  "terme": {
+    "id": "pas-japonais",
+    "terme": "les pas japonais",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Dalles espacées posées dans la pelouse ou le gravier, sur lesquelles on marche pas à pas.",
+    "priorite": 3,
+    "requetes": [
+      "stepping stones garden path",
+      "pas japonais",
+      "stepping stone path"
+    ],
+    "incompatibles": [
+      "allee",
+      "pelouse"
+    ],
+    "categoriesCommons": [
+      "Category:Stepping stones",
+      "Category:Garden paths"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cỏ nhân tạo sân vườn Grass C05.jpg",
+      "description": "Liên hệ: 0982.222.525",
+      "categories": [
+        "Stepping stones",
+        "Self-published work"
+      ],
+      "auteur": "Conhantao",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C%E1%BB%8F_nh%C3%A2n_t%E1%BA%A1o_s%C3%A2n_v%C6%B0%E1%BB%9Dn_Grass_C05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/C%E1%BB%8F_nh%C3%A2n_t%E1%BA%A1o_s%C3%A2n_v%C6%B0%E1%BB%9Dn_Grass_C05.jpg/1280px-C%E1%BB%8F_nh%C3%A2n_t%E1%BA%A1o_s%C3%A2n_v%C6%B0%E1%BB%9Dn_Grass_C05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2896,
+      "hauteur": 2896
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Choceň, zámecký park, stezka.jpg",
+      "description": "Choceň , Ústí nad Orlicí District , Pardubice Region , the Czech Republic . A castle park, a path.",
+      "categories": [
+        "Czech Republic photographs taken on 2011-07-07",
+        "Taken with Kodak EasyShare Z8612 IS",
+        "Bikeways in Pardubice Region",
+        "Garden paths",
+        "Zámecký park (Choceň)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Pedestrian and cyclist path signs in Czechia",
+        "C 07a Stezka pro chodce (Czech road sign)",
+        "C 08a Stezka pro cyklisty (Czech road sign)",
+        "IS 21abc Směrová tabulka pro cyklisty (Czech road sign)",
+        "Segregated pedestrian and cyclist paths",
+        "Street lights in Ústí nad Orlicí District"
+      ],
+      "auteur": "ŠJů",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Choce%C5%88,_z%C3%A1meck%C3%BD_park,_stezka.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Choce%C5%88%2C_z%C3%A1meck%C3%BD_park%2C_stezka.jpg/1280px-Choce%C5%88%2C_z%C3%A1meck%C3%BD_park%2C_stezka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2014 Suchum, Ogród botaniczny (06).jpg",
+      "description": "Botanical garden . Sukhumi , Abkhazia .",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Garden paths",
+        "Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM",
+        "Uploaded with VicuñaUploader",
+        "Self-published work",
+        "Information field template with formatting",
+        "Images by Hons084 (Halavar)",
+        "Photographs with polarization filter",
+        "2014 in Sukhumi",
+        "Images by User:Hons084 (Halavar) taken in 2014",
+        "Images of Abkhazia by Hons084 (Halavar)",
+        "Sukhimi botanical garden"
+      ],
+      "auteur": "Hons084",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014_Suchum,_Ogr%C3%B3d_botaniczny_(06).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2014_Suchum%2C_Ogr%C3%B3d_botaniczny_%2806%29.jpg/1280px-2014_Suchum%2C_Ogr%C3%B3d_botaniczny_%2806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2615,
+      "hauteur": 4775
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Lodi Garden - dawn 3 Sep 2010-1.JPG",
+      "description": "Lodi Gardens at dawn, New Delhi, India.",
+      "categories": [
+        "Taken with Canon Digital IXUS 860 IS",
+        "Stepping stones",
+        "Lodi Gardens",
+        "Self-published work",
+        "PD-self",
+        "Files uploaded by Daderot"
+      ],
+      "auteur": "Daderot",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lodi_Garden_-_dawn_3_Sep_2010-1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lodi_Garden_-_dawn_3_Sep_2010-1.JPG/1280px-Lodi_Garden_-_dawn_3_Sep_2010-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Autumn season in Butanic Garden فصل پاییز در باغ بوتانیکال تفلیس 13.jpg",
+      "description": "Le jardin botanique de Tbilissi, ou jardin botanique national de Géorgie, avant 1845: jardin impérial de Tiflis, avant 1917: jardin botanique impérial de Tiflis, est un jardin botanique situé à Tbilissi (autrefois Tiflis) en Géorgie. Il se trouve au sud-ouest de Tbilissi au pied de la forteresse de Narikala dans la vallée de la rivière Tsavkisistskali et s'étend sur 128 hectares. Il dépend de l'Académie des sciences de Géorgie depuis 1943.",
+      "categories": [
+        "Taken with LG G4",
+        "Botanical Garden, Tbilisi",
+        "Garden paths",
+        "Self-published work",
+        "2017 in Tbilisi",
+        "Files with coordinates missing SDC location of creation",
+        "Georgia (country) photographs taken on 2017-10-26",
+        "Photographs by Mostafa Meraji",
+        "Autumn in Georgia (country)"
+      ],
+      "auteur": "Mostafameraji",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Autumn_season_in_Butanic_Garden_%D9%81%D8%B5%D9%84_%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2_%D8%AF%D8%B1_%D8%A8%D8%A7%D8%BA_%D8%A8%D9%88%D8%AA%D8%A7%D9%86%DB%8C%DA%A9%D8%A7%D9%84_%D8%AA%D9%81%D9%84%DB%8C%D8%B3_13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Autumn_season_in_Butanic_Garden_%D9%81%D8%B5%D9%84_%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2_%D8%AF%D8%B1_%D8%A8%D8%A7%D8%BA_%D8%A8%D9%88%D8%AA%D8%A7%D9%86%DB%8C%DA%A9%D8%A7%D9%84_%D8%AA%D9%81%D9%84%DB%8C%D8%B3_13.jpg/1280px-Autumn_season_in_Butanic_Garden_%D9%81%D8%B5%D9%84_%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2_%D8%AF%D8%B1_%D8%A8%D8%A7%D8%BA_%D8%A8%D9%88%D8%AA%D8%A7%D9%86%DB%8C%DA%A9%D8%A7%D9%84_%D8%AA%D9%81%D9%84%DB%8C%D8%B3_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2988,
+      "hauteur": 5312
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Stone steps in the woods.JPG",
+      "description": "Natural stone stairs in the woodlands. Garvin Woodland Gardens, Hot Springs, Arkansas. Photo credit: http://www.MikePerryMedia.com/ - Michael D. Perry",
+      "categories": [
+        "Forests in Arkansas",
+        "Hot Springs, Arkansas",
+        "GFDL",
+        "Taken with Nikon D200",
+        "Woodland gardens",
+        "Files with no machine-readable source",
+        "Stepping stones",
+        "License migration redundant",
+        "Gardens in Arkansas",
+        "Self-published work",
+        "Natural stone stairs",
+        "Assumed own work",
+        "Outside stairs in Arkansas",
+        "Photographs taken on 2006-09-12",
+        "Garden and park stairs in the United States"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : DarkPhiber (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stone_steps_in_the_woods.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Stone_steps_in_the_woods.JPG/1280px-Stone_steps_in_the_woods.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    }
+  ]
+}

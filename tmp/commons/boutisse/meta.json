@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "boutisse",
+    "terme": "la boutisse",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Brique ou pierre posée en travers du mur, dont on ne voit que le petit bout dans le parement.",
+    "priorite": 3,
+    "requetes": [
+      "header brick",
+      "boutisse brique",
+      "brick headers course"
+    ],
+    "incompatibles": [
+      "appareil-flamand",
+      "appareil-anglais"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Brick walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:* Buddha (15308178543).jpg",
+      "description": "Buddha",
+      "categories": [
+        "Germany photographs taken on 2014-09-21",
+        "Buddhism",
+        "Bricks",
+        "Flickr images reviewed by FlickreviewR",
+        "Graffiti in unidentified countries",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Tony Webster",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Tony Webster from Portland, Oregon, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:*_Buddha_(15308178543).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%2A_Buddha_%2815308178543%29.jpg/1280px-%2A_Buddha_%2815308178543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2021-06-27 Nonnenwall (Haselünne) 03.jpg",
+      "description": "View of the monastery wall in the street Nonnenwall in Haselünne in Emsland (Lower Saxony, Germany)",
+      "categories": [
+        "Brick walls",
+        "Nonnenwall (Haselünne)",
+        "Self-published work",
+        "Stone wall textures",
+        "Brick wall textures",
+        "Klostermauer (Klarissenkloster St. Ursula)"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021-06-27_Nonnenwall_(Hasel%C3%BCnne)_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2021-06-27_Nonnenwall_%28Hasel%C3%BCnne%29_03.jpg/1280px-2021-06-27_Nonnenwall_%28Hasel%C3%BCnne%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2012 Northern Italy earthquake 001.jpg",
+      "description": "Terremoto a Ferrara",
+      "categories": [
+        "Taken with Nikon D300s",
+        "Bricks",
+        "Fiat Multipla I",
+        "Flickr images reviewed by FlickreviewR",
+        "Fiat automobiles in Italy",
+        "Italy photographs taken on 2012-05-20",
+        "May 2012 in Ferrara",
+        "2012 earthquake in Ferrara",
+        "Automobiles damaged by the 2012 Emilia-Romagna earthquake",
+        "Automobiles in Ferrara"
+      ],
+      "auteur": "Mario Fornasari from Ferrara, Italy",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2012_Northern_Italy_earthquake_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2012_Northern_Italy_earthquake_001.jpg/1280px-2012_Northern_Italy_earthquake_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1360,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Brick wall (-29wiki).jpg",
+      "description": "Brick wall",
+      "categories": [
+        "Graffiti",
+        "Brick walls",
+        "Self-published work"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_wall_(-29wiki).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Brick_wall_%28-29wiki%29.jpg/1280px-Brick_wall_%28-29wiki%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8330,
+      "hauteur": 6645
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20120408Ludwigstr32 Hockenheim3.jpg",
+      "description": "Ludwigstraße 32 (Hockenheim)",
+      "categories": [
+        "Taken with Olympus FE-47 / X-43",
+        "CC-Zero",
+        "Bricks",
+        "Self-published work",
+        "Hockenheim photographs taken on 2012-04-08",
+        "Ludwigstraße 32 (Hockenheim)"
+      ],
+      "auteur": "AnRo0002",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20120408Ludwigstr32_Hockenheim3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/20120408Ludwigstr32_Hockenheim3.jpg/1280px-20120408Ludwigstr32_Hockenheim3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1875
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bottler wall.jpg",
+      "description": "Lone Fir Cemetery",
+      "categories": [
+        "Brick walls",
+        "Buildings in Portland, Oregon",
+        "Bottler (surname)",
+        "Moss-covered objects",
+        "Moss-covered gravestones",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Damaged buildings in the United States",
+        "Gravestones at Lone Fir Cemetery"
+      ],
+      "auteur": "mike krzeszak",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bottler_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bottler_wall.jpg/1280px-Bottler_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

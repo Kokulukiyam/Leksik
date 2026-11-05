@@ -1,0 +1,118 @@
+{
+  "terme": {
+    "id": "ligne-de-vie",
+    "terme": "la ligne de vie",
+    "categorie": "Chantier et outillage",
+    "definition": "Câble ou rail fixé à une structure, sur lequel le travailleur accroche sa longe en se déplaçant en hauteur.",
+    "priorite": 3,
+    "requetes": [
+      "lifeline cable roof fall protection",
+      "ligne de vie",
+      "horizontal lifeline"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Métro Rennes ligne B - Base de vie de la Courrouze - manutention des voussoirs dans le puits d'entrée.jpg",
+      "description": "Métro Rennes ligne B - Base de vie de la Courrouze - manutention des voussoirs dans le puits d'entrée au moyen du pont roulant",
+      "categories": [
+        "Self-published work",
+        "Voussoir de tunnel",
+        "Travaux de la ligne B du métro de Rennes - Base de vie de la Courrouze"
+      ],
+      "auteur": "GOUPILLEAU J-Y",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:M%C3%A9tro_Rennes_ligne_B_-_Base_de_vie_de_la_Courrouze_-_manutention_des_voussoirs_dans_le_puits_d%27entr%C3%A9e.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/M%C3%A9tro_Rennes_ligne_B_-_Base_de_vie_de_la_Courrouze_-_manutention_des_voussoirs_dans_le_puits_d%27entr%C3%A9e.jpg/1280px-M%C3%A9tro_Rennes_ligne_B_-_Base_de_vie_de_la_Courrouze_-_manutention_des_voussoirs_dans_le_puits_d%27entr%C3%A9e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Métro Rennes ligne B - Base de vie de la Courrouze.jpg",
+      "description": "Base de vie de la Courrouze - creusement du tunnel de la ligne B avec le tunnelier Élaine",
+      "categories": [
+        "Self-published work",
+        "Signs in Rennes",
+        "Travaux de la ligne B du métro de Rennes - Base de vie de la Courrouze"
+      ],
+      "auteur": "GOUPILLEAU J-Y",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:M%C3%A9tro_Rennes_ligne_B_-_Base_de_vie_de_la_Courrouze.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/M%C3%A9tro_Rennes_ligne_B_-_Base_de_vie_de_la_Courrouze.jpg/1280px-M%C3%A9tro_Rennes_ligne_B_-_Base_de_vie_de_la_Courrouze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ligne Nantes - St-Gilles Croix de Vie (arrivée).JPG",
+      "description": "Arrivée en bout de ligne, en gare de St-Gilles Croix de Vie ( Vendée ), de la ligne de chemin de fer Nantes -St-Gilles.",
+      "categories": [
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Ligne de Commequiers à Saint-Gilles-Croix-de-Vie",
+        "Self-published work",
+        "2010 in rail transport in France",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Florian Pépellin",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ligne_Nantes_-_St-Gilles_Croix_de_Vie_(arriv%C3%A9e).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ligne_Nantes_-_St-Gilles_Croix_de_Vie_%28arriv%C3%A9e%29.JPG/1280px-Ligne_Nantes_-_St-Gilles_Croix_de_Vie_%28arriv%C3%A9e%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ligne de Vie Vélodrome.jpg",
+      "description": "Des cartes postales du programme Ligne de Vie à l'effigie de l'ancien trolleybus, lors d'une présentation du nouveau au Vélodrome.",
+      "categories": [
+        "Transport in Nancy",
+        "Self-published work",
+        "Postcards of Nancy"
+      ],
+      "auteur": "Le traminot nancéien",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ligne_de_Vie_V%C3%A9lodrome.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ligne_de_Vie_V%C3%A9lodrome.jpg/1280px-Ligne_de_Vie_V%C3%A9lodrome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ligne Ferroviaire Commequiers Saint Gilles Croix Vie - Saint-Gilles-Croix-de-Vie (FR85) - 2026-08-01 - 2.jpg",
+      "description": "Ligne ferroviaire de Commequiers à Saint-Gilles-Croix-de-Vie, Saint-Gilles-Croix-de-Vie.",
+      "categories": [
+        "Saint-Gilles-Croix-de-Vie",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Images by Chabe01 taken with iPhone 16 Pro",
+        "Images of rail transport by Chabe01",
+        "Pays de la Loire photographs taken on 2026-08-01",
+        "August 2026 in Vendée",
+        "Images of Saint-Gilles-Croix-de-Vie by Chabe01"
+      ],
+      "auteur": "Chabe01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ligne_Ferroviaire_Commequiers_Saint_Gilles_Croix_Vie_-_Saint-Gilles-Croix-de-Vie_(FR85)_-_2026-08-01_-_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ligne_Ferroviaire_Commequiers_Saint_Gilles_Croix_Vie_-_Saint-Gilles-Croix-de-Vie_%28FR85%29_-_2026-08-01_-_2.jpg/1280px-Ligne_Ferroviaire_Commequiers_Saint_Gilles_Croix_Vie_-_Saint-Gilles-Croix-de-Vie_%28FR85%29_-_2026-08-01_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5712,
+      "hauteur": 4284
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ligne De Vie (52333046).jpeg",
+      "description": "500px provided description: Marseille - France. [#france ,#sud ,#marseille]",
+      "categories": [
+        "Birds on wires",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Mathieu Dupouy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ligne_De_Vie_(52333046).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ligne_De_Vie_%2852333046%29.jpeg/1280px-Ligne_De_Vie_%2852333046%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    }
+  ]
+}

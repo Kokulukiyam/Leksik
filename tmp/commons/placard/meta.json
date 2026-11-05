@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "placard",
+    "terme": "le placard",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Rangement intégré dans l'épaisseur d'un mur ou entre deux cloisons, fermé par des portes.",
+    "priorite": 2,
+    "requetes": [
+      "built-in closet",
+      "placard intégré",
+      "built-in wardrobe sliding doors"
+    ],
+    "incompatibles": [
+      "dressing",
+      "porte-de-placard"
+    ],
+    "categoriesCommons": [
+      "Category:Cupboards",
+      "Category:Wardrobes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Century House Pantry 2.JPG",
+      "description": "Century House Pantry before it's removal.",
+      "categories": [
+        "Taken with Nikon D40x",
+        "Wardrobes",
+        "Self-published work"
+      ],
+      "auteur": "Afries52 ( talk )",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Century_House_Pantry_2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Century_House_Pantry_2.JPG/1280px-Century_House_Pantry_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cupboard (Bath Cabinet Makers Co., 1899). - Budapest Museum of Applied Arts.JPG",
+      "description": "Carved oak cupboard with copper mount by Bath Cabinet Makers Co., 1899. Budapest Museum of Applied Arts. - Üllői Avenue, Hőgyes Endre Street, Kinizsi Pál Street, Budapest District IX , Hungary",
+      "categories": [
+        "Art of England",
+        "Cupboards",
+        "Self-published work",
+        "Interior lighting in Hungary",
+        "August 2015 in Budapest",
+        "1899 decorative and applied arts",
+        "1890s furniture",
+        "Oak furniture",
+        "Furniture in Budapest Museum of Applied Arts"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cupboard_(Bath_Cabinet_Makers_Co.,_1899)._-_Budapest_Museum_of_Applied_Arts.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Cupboard_%28Bath_Cabinet_Makers_Co.%2C_1899%29._-_Budapest_Museum_of_Applied_Arts.JPG/1280px-Cupboard_%28Bath_Cabinet_Makers_Co.%2C_1899%29._-_Budapest_Museum_of_Applied_Arts.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Stairs, wardrobe Fortepan 70517.jpg",
+      "description": "Pétfürdő? a gyarat építő munkások öltözője? Tags: stairs, wardrobe",
+      "categories": [
+        "Images from Fortepan",
+        "Wardrobes",
+        "Images uploaded by Fæ",
+        "Pétfürdő",
+        "1940 photographs of Hungary",
+        "Indoor stairs in Hungary",
+        "Interior stair railings in Hungary"
+      ],
+      "auteur": "FOTO:Fortepan — ID 70517 : Adományozó/Donor: Veszprém Megyei Levéltár/Kozelka Tivadar. copie d'archive sur Wayback Machine",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stairs,_wardrobe_Fortepan_70517.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Stairs%2C_wardrobe_Fortepan_70517.jpg/1280px-Stairs%2C_wardrobe_Fortepan_70517.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4078,
+      "hauteur": 5769
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Archivschrank G. Haiss.jpg",
+      "description": "Private Domumentesammlung Zell und Keramik",
+      "categories": [
+        "Cupboards",
+        "Self-published work"
+      ],
+      "auteur": "Graf Magga 2016",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Archivschrank_G._Haiss.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Archivschrank_G._Haiss.jpg/1280px-Archivschrank_G._Haiss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:072 Josepinism Style Furniture.jpg",
+      "description": "GARDEROBESCHRANK, mit Kirschholz furniert, poliert Im Aufbau gleich den Schränken des Rokoko. Beine und schmückendes Beiwerk antikisierend, bis auf versprengte Rokokomotive in der Mitte der Schranktüren: kleine Felder von langgezogenen Rocailleschnörkeln umrahmt",
+      "categories": [
+        "Wardrobes",
+        "Author died more than 100 years ago public domain images",
+        "BDA-Scan",
+        "CC-PD-Mark",
+        "Files by User:Hubertl",
+        "Josephinism interiors",
+        "CPB-Scan from Austria"
+      ],
+      "auteur": "Scan and postprocessing by Hubertl",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:072_Josepinism_Style_Furniture.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/072_Josepinism_Style_Furniture.jpg/1280px-072_Josepinism_Style_Furniture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3829,
+      "hauteur": 5265
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alacena 01 by-dpc.jpg",
+      "description": "Cupboard in Sanchidrián ( Ávila Spain ).",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Cupboards",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Photos by user:David Perez",
+        "Files with coordinates missing SDC location of creation",
+        "Images of Spain by User:David Perez"
+      ],
+      "auteur": "David Perez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alacena_01_by-dpc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Alacena_01_by-dpc.jpg/1280px-Alacena_01_by-dpc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    }
+  ]
+}

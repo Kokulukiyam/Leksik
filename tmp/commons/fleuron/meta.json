@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "fleuron",
+    "terme": "le fleuron",
+    "categorie": "Ornement",
+    "definition": "Ornement en forme de fleur stylisée, souvent placé au sommet d'un pinacle ou d'un gâble gothique.",
+    "priorite": 3,
+    "requetes": [
+      "finial gothic",
+      "fleuron gothique",
+      "gothic finial"
+    ],
+    "incompatibles": [
+      "pinacle",
+      "gable",
+      "crochet"
+    ],
+    "categoriesCommons": [
+      "Category:Finials",
+      "Category:Fleurons"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Allégorie de la République, G.26913.jpg",
+      "description": "Auteur(s): Anonyme, graveur Autre titre: Figures et emblèmes allégoriques (Titre de la série) Date de production: Après 1793 Datation en siècle: 18e siècle Type(s) d'objet(s): Estampe, Arts graphiques, Révolution française Dénomination(s): Estampe Matériaux et techniques: Bois (matériau) Dimensions - Oeuvre: Hauteur : 17.2 cm Largeur : 44.5 cm Dimensions - Montage: Hauteur : 32.6 cm Largeur : 50.3 cm Description: Estampe collée sur un montage. Institution: Musée Carnavalet, Histoire de Paris Numéro d’inventaire: G.26913 IIIF Manifest: https://apicollections.parismusees.paris.fr/iiif/320182188/",
+      "categories": [
+        "CC-Zero",
+        "Fleurons",
+        "Images from Paris Musées",
+        "Prints in Musée Carnavalet",
+        "Figures et emblèmes allégoriques"
+      ],
+      "auteur": "Anonyme, graveur",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:All%C3%A9gorie_de_la_R%C3%A9publique,_G.26913.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/All%C3%A9gorie_de_la_R%C3%A9publique%2C_G.26913.jpg/1280px-All%C3%A9gorie_de_la_R%C3%A9publique%2C_G.26913.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5307,
+      "hauteur": 2135
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Finial with Two Animals Flanking a Human LACMA AC1998.251.60.jpg",
+      "description": "Architecture; Architectural Elements Cast bronze 8 x 3 x 1/2 in. (20.32 x 7.62 x 1.27 cm) Gift of Mr. and Mrs. Eric Lidow (AC1998.251.60)",
+      "categories": [
+        "Finials",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from LACMA uploaded by Fæ",
+        "Public domain images from the Los Angeles County Museum of Art",
+        "Images from LACMA uploaded by Fæ (check needed)"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Finial_with_Two_Animals_Flanking_a_Human_LACMA_AC1998.251.60.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Finial_with_Two_Animals_Flanking_a_Human_LACMA_AC1998.251.60.jpg/1280px-Finial_with_Two_Animals_Flanking_a_Human_LACMA_AC1998.251.60.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1291,
+      "hauteur": 2100
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Calligraphia Latina - Schwandner - 01.jpg",
+      "description": "boek : Calligraphia Latina - Schwandner",
+      "categories": [
+        "Author died more than 70 years ago public domain images",
+        "Fleurons",
+        "PD Old",
+        "PD US expired",
+        "CC-PD-Mark",
+        "Dissertatio epistolaris de Calligraphiae Nomenclatione"
+      ],
+      "auteur": "Calligraphia Latina - Schwandner",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calligraphia_Latina_-_Schwandner_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Calligraphia_Latina_-_Schwandner_-_01.jpg/1280px-Calligraphia_Latina_-_Schwandner_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1436,
+      "hauteur": 909
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chief Coronation marshal's baton (18th c., Kremlin) by shakko 01.JPG",
+      "description": "Жезл верховного маршала коронации. Россия, 18 век (?). Серебро, изумруд, жемчуг. Гладкий четырехгранный жезл увенчан навершием в виде 3 соединенных двухглавых орлов под короной с крупным изумрудом и жемчужиной. Сильно переделан к коронации Александра II - верхний двуглавый орел был снят, изумруд закреплен над короной оставшегося нижнего орла. первоначальный вид можно рассмотреть на гравюрах коронации Елизаветы Петровны. Навершие жезла. Москва, мастерские Кремля. конец 17 века (?). Изумруд, алмаз, рубин, золото. ММК. Золотое литое навершие жезла выполнено в виде двуглавого орла под короной, вен",
+      "categories": [
+        "Finials",
+        "Coats of arms of the Russian Empire",
+        "Workshop of Kremlin Armoury",
+        "Self-published work",
+        "17th-century jewellery",
+        "Uploaded by Shakko/Photos",
+        "Emerald jewellery",
+        "Coronations (Kremlin exhibition, 2013) - emperors",
+        "Uploaded by Shakko/Photos (applied arts)",
+        "Uploaded by Shakko/Photos (Moscow Kremlin)",
+        "Jewellery in the Museums of Moscow Kremlin"
+      ],
+      "auteur": "user:shakko",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chief_Coronation_marshal%27s_baton_(18th_c.,_Kremlin)_by_shakko_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Chief_Coronation_marshal%27s_baton_%2818th_c.%2C_Kremlin%29_by_shakko_01.JPG/1280px-Chief_Coronation_marshal%27s_baton_%2818th_c.%2C_Kremlin%29_by_shakko_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1745,
+      "hauteur": 4568
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cambodian finial springing from the jaws of Makara, 12th century, HAA.jpg",
+      "description": "Cambodian finial springing from the jaws of Makara, Ankor kingdom, 12th century, bronze with traces of gilding, Honolulu Academy of Arts , one of pair",
+      "categories": [
+        "CC-Zero",
+        "Finials",
+        "2011 photographs",
+        "Cambodia in the 12th century",
+        "Self-published work",
+        "Art of Cambodia in the Honolulu Museum of Art",
+        "Palanquin fittings from Cambodia"
+      ],
+      "auteur": "Hiart",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cambodian_finial_springing_from_the_jaws_of_Makara,_12th_century,_HAA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Cambodian_finial_springing_from_the_jaws_of_Makara%2C_12th_century%2C_HAA.jpg/1280px-Cambodian_finial_springing_from_the_jaws_of_Makara%2C_12th_century%2C_HAA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1470,
+      "hauteur": 3388
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chokwe scepter finial (Bode-Museum) (1).jpg",
+      "description": "Chokwe scepter finial Angola Mid-19th century Wood, brass tacks, metal Bode-Museum Acquired in 1876 from Alexander von Homeyer",
+      "categories": [
+        "Chokwe people",
+        "Finials",
+        "Sceptres",
+        "Alexander von Homeyer",
+        "Sculptures in Angola",
+        "Self-published work",
+        "African art in the Bode-Museum"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chokwe_scepter_finial_(Bode-Museum)_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Chokwe_scepter_finial_%28Bode-Museum%29_%281%29.jpg/1280px-Chokwe_scepter_finial_%28Bode-Museum%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2925,
+      "hauteur": 5384
+    }
+  ]
+}

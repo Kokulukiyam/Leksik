@@ -1,0 +1,165 @@
+{
+  "terme": {
+    "id": "boiserie",
+    "terme": "la boiserie",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Habillage mural en panneaux de bois moulurés, typique des intérieurs anciens.",
+    "priorite": 3,
+    "requetes": [
+      "wood panelled room",
+      "boiseries",
+      "incategory:\"Boiseries\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Château de Pibrac (19).jpg",
+      "description": "Château de Pibrac, XVIème siècle (Haute-Garonne). Détail du cabinet des quatrains.",
+      "categories": [
+        "Château de Pibrac",
+        "Carved panellings",
+        "Self-published work",
+        "16th-century wood carving"
+      ],
+      "auteur": "Frédéric Neupont",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Pibrac_(19).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ch%C3%A2teau_de_Pibrac_%2819%29.jpg/1280px-Ch%C3%A2teau_de_Pibrac_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4658,
+      "hauteur": 3566
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Chateau de Tanlay - Boiserie - Sauvageot.jpg",
+      "description": "Zeichnung einer Bosierie im Schloss Tanlay, Yonne, Burgund",
+      "categories": [
+        "Author died more than 100 years ago public domain images",
+        "Carved panellings",
+        "CC-PD-Mark",
+        "Château de Tanlay in art"
+      ],
+      "auteur": "Claude Sauvageot",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chateau_de_Tanlay_-_Boiserie_-_Sauvageot.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Chateau_de_Tanlay_-_Boiserie_-_Sauvageot.jpg/1280px-Chateau_de_Tanlay_-_Boiserie_-_Sauvageot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3361,
+      "hauteur": 5427
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Reutenbourg Vierge-SteCroix 10.JPG",
+      "description": "Cet objet mobilier est inscrit monument historique dans la base Palissy , base de données sur le patrimoine mobilier français du ministère français de la Culture , sous les références PM67001731 et IM67011238 .",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Canon PowerShot SX20 IS",
+        "Monuments historiques inscrits",
+        "Palissy",
+        "Carved panellings",
+        "Self-published work",
+        "Objets monuments historiques inscrits",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Cultural heritage monument objects in France with known IDs",
+        "Objets monuments historiques in Reutenbourg",
+        "Objets monuments historiques in Bas-Rhin (wooden panelings)",
+        "1905 works in Bas-Rhin",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Palissy with PM parameter",
+        "Photographs of Reutenbourg by Ralph Hammann",
+        "Choir altar of Couvent de Reinacker"
+      ],
+      "auteur": "© Ralph Hammann - Wikimedia Commons",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Reutenbourg_Vierge-SteCroix_10.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Reutenbourg_Vierge-SteCroix_10.JPG/1280px-Reutenbourg_Vierge-SteCroix_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Flagellation du Christ, cathédrale Saint-Julien.jpg",
+      "description": "Représentation de la flagellation du Christ sculptée dans une boiserie exposée dans la cathédrale Saint-Julien du Mans, en France.",
+      "categories": [
+        "Base Mérimée",
+        "Choir stalls in Cathédrale Saint-Julien du Mans",
+        "Images from Wiki Loves Monuments 2019",
+        "Carved panellings",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "Images from Wiki Loves Monuments 2019 in France",
+        "Pays de la Loire photographs taken on 2019-01-02"
+      ],
+      "auteur": "Harmonide",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flagellation_du_Christ,_cath%C3%A9drale_Saint-Julien.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flagellation_du_Christ%2C_cath%C3%A9drale_Saint-Julien.jpg/1280px-Flagellation_du_Christ%2C_cath%C3%A9drale_Saint-Julien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2806,
+      "hauteur": 2301
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Marmoutier Abbaye 198.JPG",
+      "description": "Cet objet mobilier est classé monument historique dans la base Palissy , base de données sur le patrimoine mobilier français du ministère français de la Culture , sous les références PM67000168 et IM67011775 .",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Canon PowerShot SX20 IS",
+        "Monuments historiques inscrits",
+        "Monuments historiques classés",
+        "Angel of Saint Matthew",
+        "Palissy",
+        "Carved panellings",
+        "Self-published work",
+        "Objets monuments historiques classés",
+        "Mérimée with PA parameter",
+        "Choir stalls of Abbey Church, Marmoutier",
+        "Cultural heritage monuments in France with known IDs",
+        "Cultural heritage monument objects in France with known IDs",
+        "Misericords in Bas-Rhin",
+        "Lecterns in Bas-Rhin",
+        "Baroque statues in Marmoutier",
+        "Wooden statues in Marmoutier",
+        "18th-century statues in Marmoutier",
+        "Statues of angels in Marmoutier",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Palissy with PM parameter",
+        "Photographs of Marmoutier by Ralph Hammann"
+      ],
+      "auteur": "© Ralph Hammann - Wikimedia Commons",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Marmoutier_Abbaye_198.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Marmoutier_Abbaye_198.JPG/1280px-Marmoutier_Abbaye_198.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cène gravée dans un panneau de bois, cathédrale Saint-Julien du Mans.jpg",
+      "description": "Scène biblique de la Cène gravée dans un panneau de bois exposé dans la cathédrale Saint-Julien du Mans, en France.",
+      "categories": [
+        "Base Mérimée",
+        "Choir stalls in Cathédrale Saint-Julien du Mans",
+        "Images from Wiki Loves Monuments 2019",
+        "Carved panellings",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "Images from Wiki Loves Monuments 2019 in France",
+        "Pays de la Loire photographs taken on 2019-01-02"
+      ],
+      "auteur": "Harmonide",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C%C3%A8ne_grav%C3%A9e_dans_un_panneau_de_bois,_cath%C3%A9drale_Saint-Julien_du_Mans.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/C%C3%A8ne_grav%C3%A9e_dans_un_panneau_de_bois%2C_cath%C3%A9drale_Saint-Julien_du_Mans.jpg/1280px-C%C3%A8ne_grav%C3%A9e_dans_un_panneau_de_bois%2C_cath%C3%A9drale_Saint-Julien_du_Mans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2243,
+      "hauteur": 3005
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "terme": {
+    "id": "vide-sanitaire",
+    "terme": "le vide sanitaire",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Espace vide de faible hauteur ménagé entre le sol et le plancher bas d'un bâtiment, visible par ses ouvertures de ventilation ou en cours de construction.",
+    "priorite": 3,
+    "requetes": [
+      "crawl space foundation",
+      "vide sanitaire construction",
+      "crawlspace under house"
+    ],
+    "categoriesCommons": [
+      "Category:Crawl spaces"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Crawlspace access panel.jpg",
+      "description": "Crawlspace access panel",
+      "categories": [
+        "Crawl spaces",
+        "Self-published work"
+      ],
+      "auteur": "TradeCrawlspaces",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crawlspace_access_panel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Crawlspace_access_panel.jpg/1280px-Crawlspace_access_panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Old House with crawl space foundation.jpg",
+      "description": "An old house built in the old way on a foot high stonewall. That keeps the floor above the ground and creates a crawl space, well ventilated with openings. It's an easy way to make a wooden house that last for centuries.",
+      "categories": [
+        "Crawl spaces",
+        "Cottages",
+        "Kållekärr",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ingwik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_House_with_crawl_space_foundation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Old_House_with_crawl_space_foundation.jpg/1280px-Old_House_with_crawl_space_foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7712,
+      "hauteur": 4352
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Crawl spaces 1.jpg",
+      "description": "crawl spaces.",
+      "categories": [
+        "GFDL",
+        "Shallow foundations",
+        "License migration redundant",
+        "Self-published work",
+        "Construction in Sweden",
+        "Foundations drawings"
+      ],
+      "auteur": "Boatbuilder",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crawl_spaces_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Crawl_spaces_1.jpg/1280px-Crawl_spaces_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2334,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Vespaio aerato con elementi prefabbricati.jpg",
+      "description": "Vespaio aerato realizzato con elementi prefabbricati e armatura di ripartizione.",
+      "categories": [
+        "Crawl spaces",
+        "GFDL",
+        "Taken with Pentax K100D",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Marco Bernardini",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vespaio_aerato_con_elementi_prefabbricati.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Vespaio_aerato_con_elementi_prefabbricati.jpg/1280px-Vespaio_aerato_con_elementi_prefabbricati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3032,
+      "hauteur": 2016
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Top Three hosts Triad Resilience Run-Walk-Crawl (6378660).jpg",
+      "description": "The Falcon Top Three hosted a Triad Resilience Run-Walk-Crawl event to help raise money for the Remount Foundation Sept. 26, 2020 at Schriever Air Force Base, Colorado. Lt. Col. Alan Burwell, 50th Operations Support Squadron commander, made a plaque out of purpleheart wood with a triskelion to give to the participant who logged the most miles. Burwell said the triskelion is considered as the symbol of progress, personal growth and improvement in Celtic culture. (U.S. Air Force courtesy photo)",
+      "categories": [
+        "Triskelion",
+        "PD US Air Force",
+        "Files created by the United States Air Force with known IDs",
+        "Photographs taken on 2020-09-28",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "ID-USMil missing SDC VIRIN"
+      ],
+      "auteur": "U.S. Space Force SBD1 by Airman 1st Class Jonathan Whitely",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Top_Three_hosts_Triad_Resilience_Run-Walk-Crawl_(6378660).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Top_Three_hosts_Triad_Resilience_Run-Walk-Crawl_%286378660%29.jpg/1280px-Top_Three_hosts_Triad_Resilience_Run-Walk-Crawl_%286378660%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3908,
+      "hauteur": 1922
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Vespaio areato su scantinato tipo Cupolex.jpg",
+      "description": "spaccato di Vespaio areato tipo Cupolex",
+      "categories": [
+        "Crawl spaces",
+        "Self-published work"
+      ],
+      "auteur": "Luca pontarolo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vespaio_areato_su_scantinato_tipo_Cupolex.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Vespaio_areato_su_scantinato_tipo_Cupolex.jpg/1280px-Vespaio_areato_su_scantinato_tipo_Cupolex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 3000
+    }
+  ]
+}

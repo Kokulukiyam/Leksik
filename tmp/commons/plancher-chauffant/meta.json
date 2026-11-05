@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "plancher-chauffant",
+    "terme": "le plancher chauffant",
+    "categorie": "Réseaux et équipements",
+    "definition": "Réseau de tubes souples posés en serpentin sur un isolant avant le coulage de la chape.",
+    "priorite": 3,
+    "requetes": [
+      "underfloor heating pipes",
+      "plancher chauffant",
+      "radiant floor heating installation"
+    ],
+    "categoriesCommons": [
+      "Category:Underfloor heating"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fußbodenheizung Heizkreisverteiler Variotherm.jpg",
+      "description": "heating water flow meter of under floor heating water distribution block",
+      "categories": [
+        "CC-Zero",
+        "Underfloor heating",
+        "Self-published work",
+        "Water meters"
+      ],
+      "auteur": "Best Tech Nick 25",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fu%C3%9Fbodenheizung_Heizkreisverteiler_Variotherm.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fu%C3%9Fbodenheizung_Heizkreisverteiler_Variotherm.jpg/1280px-Fu%C3%9Fbodenheizung_Heizkreisverteiler_Variotherm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4136,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Elektrické topné fólie HEATMAX.jpg",
+      "description": "Topné fólie HEATMAX od společnosti NEXWARM.CZ",
+      "categories": [
+        "Underfloor heating",
+        "Self-published work"
+      ],
+      "auteur": "Nexwarm",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Elektrick%C3%A9_topn%C3%A9_f%C3%B3lie_HEATMAX.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Elektrick%C3%A9_topn%C3%A9_f%C3%B3lie_HEATMAX.jpg/1280px-Elektrick%C3%A9_topn%C3%A9_f%C3%B3lie_HEATMAX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3840,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Col·lector terra radiant i tubs.JPG",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Underfloor heating",
+        "License migration redundant",
+        "Media missing infobox template",
+        "Self-published work"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Col%C2%B7lector_terra_radiant_i_tubs.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Col%C2%B7lector_terra_radiant_i_tubs.JPG/1280px-Col%C2%B7lector_terra_radiant_i_tubs.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dornbirn-liquid screed-01ASD.jpg",
+      "description": "Introducing a liquid screed in the house Ebnit 52 in Dornbirn, Vorarlberg, Austria. After a day, the screed is accessible and is slightly resilient after three days.",
+      "categories": [
+        "Underfloor heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cement based screeds",
+        "Photographs by Asurnipal-Dornbirn-Ebnit",
+        "Screeding"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-liquid_screed-01ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Dornbirn-liquid_screed-01ASD.jpg/1280px-Dornbirn-liquid_screed-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Estrichverlegung 6.jpg",
+      "description": "Estrichverlegung (Fotografierrichtung senkrecht nach unten)",
+      "categories": [
+        "GFDL",
+        "Taken with Medion 636Z3",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Underfloor heating",
+        "License migration redundant",
+        "Self-published work",
+        "Floor construction"
+      ],
+      "auteur": "Hundehalter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Estrichverlegung_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Estrichverlegung_6.jpg/1280px-Estrichverlegung_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2864,
+      "hauteur": 2152
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dornbirn-Ebnit-underfloor heating-system-03ASD.jpg",
+      "description": "Laying a underfloor heating-system in the house Ebnit 52 in Dornbirn, Vorarlberg, Austria. There is a styrofoam insulation layer below the underfloor heating and the whole thing is poured into liquid disposal (cement based screeds). The flow temperature may be around 30 ° C.",
+      "categories": [
+        "Underfloor heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Floor construction",
+        "Photographs by Asurnipal-Dornbirn-Ebnit"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-03ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dornbirn-Ebnit-underfloor_heating-system-03ASD.jpg/1280px-Dornbirn-Ebnit-underfloor_heating-system-03ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    }
+  ]
+}

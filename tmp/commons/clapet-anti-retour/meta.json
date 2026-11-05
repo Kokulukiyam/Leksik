@@ -1,0 +1,118 @@
+{
+  "terme": {
+    "id": "clapet-anti-retour",
+    "terme": "le clapet anti-retour",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce montée sur une canalisation qui laisse passer l'eau dans un seul sens, une flèche indiquant le sens sur le corps.",
+    "priorite": 3,
+    "requetes": [
+      "check valve brass",
+      "clapet anti-retour",
+      "non return valve"
+    ],
+    "categoriesCommons": [
+      "Category:Check valves",
+      "Category:Valves"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2024 Leinefelde-Heiligenstadt 38.jpg",
+      "description": "Weg zwischen Leine und Bahndamm am Gellenbach: Wasserkanal zur Leine beim Freibad Heiligenstadt mit Rückstauplappe/ventil??",
+      "categories": [
+        "Check valves",
+        "Self-published work",
+        "Leine im Heilbad Heiligenstadt"
+      ],
+      "auteur": "WeicheW",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024_Leinefelde-Heiligenstadt_38.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2024_Leinefelde-Heiligenstadt_38.jpg/1280px-2024_Leinefelde-Heiligenstadt_38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 2752
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:1 inch PVC Valve and pipe-IMG 1062.jpg",
+      "description": "1 inch PVC Valve and pipe",
+      "categories": [
+        "Valves",
+        "Photos by Bijay chaurasia"
+      ],
+      "auteur": "Bijay Chaurasia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1_inch_PVC_Valve_and_pipe-IMG_1062.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/1_inch_PVC_Valve_and_pipe-IMG_1062.jpg/1280px-1_inch_PVC_Valve_and_pipe-IMG_1062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3975,
+      "hauteur": 5962
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Inside-tilting-disc-check-valve-The-Alloy-Valve-Stockist.jpg",
+      "description": "Tilting disc check valve , interior view. Valves and are generally made of plastic or steel, the latter being the most widely used in chemical and petrochemical applications. Steel grades range from the most common type, namely carbon steel, with standard stainless steel being the second most common. Stainless steel alloys, which include nickel or copper are used in applications that require higher corrosion or heat resistance. In such cases, the most commonly used valve configurations -- ball valves, gate valves, check valves, globe valves and butterfly valves -- are often forged or cast as d",
+      "categories": [
+        "Taken with Canon Digital IXUS 860 IS",
+        "Check valves",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Heather Smith",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Inside-tilting-disc-check-valve-The-Alloy-Valve-Stockist.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Inside-tilting-disc-check-valve-The-Alloy-Valve-Stockist.jpg/1280px-Inside-tilting-disc-check-valve-The-Alloy-Valve-Stockist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Absperrventil auf ehemaliger Zechenhalde DSCF5959.jpg",
+      "description": "Absperrventil auf ehemaliger Zechenhalde",
+      "categories": [
+        "Taken with Fujifilm FinePix S9600",
+        "Valves",
+        "GFDL-1.2",
+        "Self-published work"
+      ],
+      "auteur": "Johann H. Addicks - addicks@gmx.net",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:Absperrventil_auf_ehemaliger_Zechenhalde_DSCF5959.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Absperrventil_auf_ehemaliger_Zechenhalde_DSCF5959.jpg/1280px-Absperrventil_auf_ehemaliger_Zechenhalde_DSCF5959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2616,
+      "hauteur": 3488
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Nozzle check valve disc-The-Alloy-Valve-Stockist.JPG",
+      "description": "Disc for a nozzle check valve . Valves and are generally made of plastic or steel, the latter being the most widely used in chemical and petrochemical applications. Steel grades range from the most common type, namely carbon steel, with standard stainless steel being the second most common. Stainless steel alloys, which include nickel or copper are used in applications that require higher corrosion or heat resistance. In such cases, the most commonly used valve configurations -- ball valves, gate valves, check valves, globe valves and butterfly valves -- are often forged or cast as duplex valv",
+      "categories": [
+        "Taken with Fujifilm FinePix A203",
+        "Check valves",
+        "Inconel valves",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Heather Smith",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nozzle_check_valve_disc-The-Alloy-Valve-Stockist.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Nozzle_check_valve_disc-The-Alloy-Valve-Stockist.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 960
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2013-365-41 Open or Ouvert, The Direction is Clear (8464901060).jpg",
+      "description": "2013/365",
+      "categories": [
+        "Valves",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-365-41_Open_or_Ouvert,_The_Direction_is_Clear_(8464901060).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2013-365-41_Open_or_Ouvert%2C_The_Direction_is_Clear_%288464901060%29.jpg/1280px-2013-365-41_Open_or_Ouvert%2C_The_Direction_is_Clear_%288464901060%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

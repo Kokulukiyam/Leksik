@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "meuliere",
+    "terme": "la meulière",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre siliceuse brune et caverneuse, très employée en moellons apparents dans les pavillons d'Île-de-France.",
+    "priorite": 3,
+    "requetes": [
+      "meulière maison",
+      "millstone grit house Paris suburb",
+      "pavillon en meulière"
+    ],
+    "incompatibles": [
+      "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Meulière"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bullion le 24 août 2014 - 3.jpg",
+      "description": "Vue de Bullion en France .",
+      "categories": [
+        "GFDL",
+        "FAL",
+        "License migration redundant",
+        "Meulière",
+        "Self-published work",
+        "Uploaded via Campaign:ÉtédesVilles",
+        "Uploaded with Commonist",
+        "Images from Été des Villes 2015",
+        "Buildings in Bullion"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bullion_le_24_ao%C3%BBt_2014_-_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bullion_le_24_ao%C3%BBt_2014_-_3.jpg/1280px-Bullion_le_24_ao%C3%BBt_2014_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Boullay-les-Troux 2011 25.jpg",
+      "description": "Boullay-les-Troux en France .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "FAL",
+        "License migration redundant",
+        "Meulière",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "France photographs taken on 2011-08-16",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Buildings in Boullay-les-Troux"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boullay-les-Troux_2011_25.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Boullay-les-Troux_2011_25.jpg/1280px-Boullay-les-Troux_2011_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:94 boulevard Maurice-Berteaux Franconville.jpg",
+      "description": "94, boulevard Maurice-Berteaux, Franconville, 95 130.",
+      "categories": [
+        "Meulière",
+        "Self-published work",
+        "Boulevard Maurice-Berteaux (Franconville, Val-d'Oise)",
+        "Buildings in Franconville (Val-d'Oise)"
+      ],
+      "auteur": "CVB",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:94_boulevard_Maurice-Berteaux_Franconville.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/94_boulevard_Maurice-Berteaux_Franconville.jpg/1280px-94_boulevard_Maurice-Berteaux_Franconville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chevreuse Meuliere House.jpg",
+      "description": "Petit immeuble en pierres meulières et briques, situé rue de la Porte-de-Paris, à Chevreuse , en France .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "Houses in Yvelines",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Meulière",
+        "Self-published work",
+        "Buildings in Chevreuse"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chevreuse_Meuliere_House.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Chevreuse_Meuliere_House.jpg/1280px-Chevreuse_Meuliere_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:23 Rue Chesneau Saint-Rémy-lès-Chevreuse 1.jpg",
+      "description": "Maison en meulière au 23 rue Pierre Chesneau à Saint Rémy lès Chevreuse en France",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Meulière",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Fences in Yvelines",
+        "Oculi in Yvelines",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rue Chesneau (Saint-Rémy-lès-Chevreuse)",
+        "Houses in Saint-Rémy-lès-Chevreuse"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:23_Rue_Chesneau_Saint-R%C3%A9my-l%C3%A8s-Chevreuse_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/23_Rue_Chesneau_Saint-R%C3%A9my-l%C3%A8s-Chevreuse_1.jpg/1280px-23_Rue_Chesneau_Saint-R%C3%A9my-l%C3%A8s-Chevreuse_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Boullay-les-Troux 2011 21.jpg",
+      "description": "Boullay-les-Troux en France .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "FAL",
+        "License migration redundant",
+        "Meulière",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "France photographs taken on 2011-08-16",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Buildings in Boullay-les-Troux"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boullay-les-Troux_2011_21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Boullay-les-Troux_2011_21.jpg/1280px-Boullay-les-Troux_2011_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    }
+  ]
+}

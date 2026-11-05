@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "baguette-d-angle",
+    "terme": "la baguette d'angle",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Profilé métallique ou PVC posé sur les angles et les bords du carrelage pour les protéger et les finir.",
+    "priorite": 2,
+    "requetes": [
+      "tile edge trim",
+      "profilé d'angle carrelage",
+      "tile corner trim metal"
+    ],
+    "incompatibles": [
+      "carrelage",
+      "faience"
+    ],
+    "categoriesCommons": [
+      "Category:Tiling"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Handyman photos Fix Barber Wilson diverter valve 12.JPG",
+      "description": "I am using a tiling drill bit to make a new hole for the valve stem to come through. I drill through the tile and then the cement backer board beneath it. The grey duct tape is to prevent chipping. Background: This is image 12 of a repair project to fix a shower/tub diverter valve made by Barber Wilsons & Co Ltd. The handle which was supposed to divert water to the shower but it did not work; a plastic piece inside was broken. Unfortunately, since this valve could not be fixed from the front, it required a major operation to open up the back and replace pipes. I ended up replacing the defectiv",
+      "categories": [
+        "Plumbing",
+        "CC-Zero",
+        "Tiling",
+        "Self-published work",
+        "Handyman photos by tom sulcer"
+      ],
+      "auteur": "Tomwsulcer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Handyman_photos_Fix_Barber_Wilson_diverter_valve_12.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Handyman_photos_Fix_Barber_Wilson_diverter_valve_12.JPG/1280px-Handyman_photos_Fix_Barber_Wilson_diverter_valve_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1335,
+      "hauteur": 852
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Isfahan 1210046 nevit.jpg",
+      "description": "Photographs from Isfahan, Iran",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Nevit Dilmen",
+        "Tiles in Isfahan"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Isfahan_1210046_nevit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Isfahan_1210046_nevit.jpg/1280px-Isfahan_1210046_nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Isfahan 1210043 nevit.jpg",
+      "description": "Photographs from Isfahan, Iran",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Nevit Dilmen",
+        "Tiles in Isfahan"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Isfahan_1210043_nevit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Isfahan_1210043_nevit.jpg/1280px-Isfahan_1210043_nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Azulejos. Cartelería integrada. 01.jpg",
+      "description": "The inscription “CAFÉ” on blue and yellow tiles, surrounded by ornamental ceramic work and vegetal and animal motifs in the decoration of the San Telmo Art Nouveau kiosk.",
+      "categories": [
+        "Signage",
+        "Architecture",
+        "Art Nouveau",
+        "Ceramics",
+        "Kiosks",
+        "Las Palmas de Gran Canaria",
+        "Tiling",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "DRNRMRZ",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Azulejos._Carteler%C3%ADa_integrada._01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Azulejos._Carteler%C3%ADa_integrada._01.jpg/1280px-Azulejos._Carteler%C3%ADa_integrada._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Construction tiles.JPG",
+      "description": "Tοποθέτηση πλακιδίων σε μπάνιο",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W125",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Tony Esopi",
+        "Construction tiles"
+      ],
+      "auteur": "Tony Esopi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_tiles.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Construction_tiles.JPG/1280px-Construction_tiles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Construction tiles6.JPG",
+      "description": "προεργασία για τοποθέτηση πλακιδίων σε εξωτερικό χώρο- δάπεδο",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W125",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Tony Esopi",
+        "Construction tiles"
+      ],
+      "auteur": "Tony Esopi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_tiles6.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Construction_tiles6.JPG/1280px-Construction_tiles6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    }
+  ]
+}

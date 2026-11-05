@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "fenetre-pivotante",
+    "terme": "la fenêtre pivotante",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fenêtre dont le vantail tourne autour d'un axe central, horizontal ou vertical.",
+    "priorite": 3,
+    "requetes": [
+      "pivot window open",
+      "fenêtre pivotante",
+      "centre pivot window"
+    ],
+    "incompatibles": [
+      "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Pivot windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:New windows - Flickr - peganum (2).jpg",
+      "description": "They pivot on a hex-head decking screw at each end. Cool huh? Don't look too closely though, as my dad would have said. The joinery is a bit rough and ready. It seems to be pretty strong though.",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Steve Law",
+        "Pivot windows",
+        "Files uploaded by Josve05a (peganum)"
+      ],
+      "auteur": "peganum from Small Dole, England",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:New_windows_-_Flickr_-_peganum_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/New_windows_-_Flickr_-_peganum_%282%29.jpg/1280px-New_windows_-_Flickr_-_peganum_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20151021 EST TEKE5 (22191778528).jpg",
+      "description": "NATO photos by Siim Teder Baltic Battalion Lithuanian team soldiers await in position during City Battle Exercise, Trident Juncture 15 at San Gregorio training area, Spain, October 20, 2015.",
+      "categories": [
+        "Windows",
+        "Walls",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by the Allied Joint Force Command Brunssum",
+        "Images uploaded by Revent from Flickr",
+        "Images uploaded by Revent (cleanup)",
+        "Lithuanian military at Trident Juncture 2015",
+        "FN MAG in Lithuanian service",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Allied Joint Force Command Brunssum",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20151021_EST_TEKE5_(22191778528).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/20151021_EST_TEKE5_%2822191778528%29.jpg/1280px-20151021_EST_TEKE5_%2822191778528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4333,
+      "hauteur": 2889
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Stalen venster met draairaam - Schinveld - 20331019 - RCE.jpg",
+      "description": "Basisschool Op de Berg: Stalen venster met draairaam",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Schools in Limburg (Netherlands)",
+        "Basisschool Op de Berg",
+        "Rijksmonumenten with known IDs",
+        "Buildings with addresses",
+        "Photographs by IJ.Th. Heins from 2003",
+        "Netherlands photographs taken on 2003-09-02",
+        "Pivot windows"
+      ],
+      "auteur": "IJsbrand Heins",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stalen_venster_met_draairaam_-_Schinveld_-_20331019_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Stalen_venster_met_draairaam_-_Schinveld_-_20331019_-_RCE.jpg/1280px-Stalen_venster_met_draairaam_-_Schinveld_-_20331019_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3046,
+      "hauteur": 3059
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A View (48281304).jpeg",
+      "description": "500px provided description: Lake Geneva, WI [#winter ,#window ,#brown ,#shingles ,#Wisconsin ,#Lake Geneva ,#Historic ,#lakeshore path]",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Treena Nicole",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_View_(48281304).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/A_View_%2848281304%29.jpeg/1280px-A_View_%2848281304%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1454,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Art & History Museum in Geneva-windows.jpg",
+      "description": "Fenêtres entre-ouvertes au Musée d'art et d'histoire de Genève, en été.",
+      "categories": [
+        "Round arch windows",
+        "Self-published work",
+        "Windows in the canton of Geneva",
+        "Yellow windows",
+        "Pivot windows",
+        "Musée d'Art et d'Histoire (Geneva) main building interior"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Art_%26_History_Museum_in_Geneva-windows.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Art_%26_History_Museum_in_Geneva-windows.jpg/1280px-Art_%26_History_Museum_in_Geneva-windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2432
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20121018011DR Dresden-Südvorstadt Hübnerstraße 16A.jpg",
+      "description": "17.10.2012 01187 Dresden-Südvorstadt: Blick aus dem Erdgeschoß-Badfenster Hübnerstraße 16A (GMP: 51.032580,13.723535) nach Westen. Wohnungsgenossenschaft &gt;Glückauf&lt; Süd Dresden. [SAM2279.JPG]20121018011DR.JPG(c)Blobelt",
+      "categories": [
+        "Windows",
+        "Hübnerstraße, Dresden",
+        "Self-published work",
+        "Windows in Dresden",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Dresden photographs taken on 2012-10-17"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20121018011DR_Dresden-S%C3%BCdvorstadt_H%C3%BCbnerstra%C3%9Fe_16A.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/20121018011DR_Dresden-S%C3%BCdvorstadt_H%C3%BCbnerstra%C3%9Fe_16A.jpg/1280px-20121018011DR_Dresden-S%C3%BCdvorstadt_H%C3%BCbnerstra%C3%9Fe_16A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2363,
+      "hauteur": 1806
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "fenetre-a-guillotine",
+    "terme": "la fenêtre à guillotine",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fenêtre dont les châssis glissent verticalement l'un devant l'autre.",
+    "priorite": 3,
+    "requetes": [
+      "incategory:\"Sash windows\"",
+      "fenêtre à guillotine",
+      "sash window"
+    ],
+    "incompatibles": [
+      "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Sash windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Window detail De Bazel Vijzelstraat Amsterdam 2016-09-13-6627.jpg",
+      "description": "Window detail of De Bazel (Amsterdam City Archives) at Vijzelstraat, Amsterdam, the Netherlands",
+      "categories": [
+        "Taken with Canon EOS 600D and Canon EF-S 55-250mm F4-5.6 IS II",
+        "De Bazel",
+        "Sash windows",
+        "Self-published work",
+        "Photographs by User:Slaunger",
+        "Featured pictures by User:Slaunger",
+        "Featured pictures of Amsterdam",
+        "4 windows",
+        "Netherlands photographs taken on 2016-09-13",
+        "September 2016 in Amsterdam",
+        "Featured pictures of architecture in the Netherlands",
+        "Featured pictures of windows",
+        "Windows in Amsterdam"
+      ],
+      "auteur": "Slaunger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Window_detail_De_Bazel_Vijzelstraat_Amsterdam_2016-09-13-6627.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Window_detail_De_Bazel_Vijzelstraat_Amsterdam_2016-09-13-6627.jpg/1280px-Window_detail_De_Bazel_Vijzelstraat_Amsterdam_2016-09-13-6627.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3768,
+      "hauteur": 3065
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2025-03-09 Hameln Deisterstraße 17 1090745.jpg",
+      "description": "Fenster im Wohn- und Geschäftshaus Deisterstraße 17 in Hameln, unter dem Fenster die Beschriftung \"Haus Andrea\"",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-de-ni",
+        "Cultural heritage monuments in Lower Saxony with known IDs",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025 in Germany",
+        "Images from Wiki Loves Monuments 2025",
+        "Deisterstraße (Hameln)",
+        "Images from Wiki Loves Monuments 2025 in Germany not for prejury",
+        "Images from Wiki Loves Monuments 2025, DE-NI",
+        "Cultural heritage monuments in Lower Saxony missing SDC location of creation"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg/1280px-2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Charleroi - Le Mayence - 09.jpg",
+      "description": "Charleroi ( Belgique ) - Le Mayence - Hôtel et restaurant.",
+      "categories": [
+        "Sash windows",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 4° E)",
+        "Images by Jmh2o",
+        "Windows in Charleroi",
+        "Le Mayence (Charleroi)"
+      ],
+      "auteur": "Jmh2o",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Charleroi_-_Le_Mayence_-_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Charleroi_-_Le_Mayence_-_09.jpg/1280px-Charleroi_-_Le_Mayence_-_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2707,
+      "hauteur": 4088
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A cozy corner features a stack of vintage books.jpg",
+      "description": "A cozy corner features a stack of vintage books resting by a window. Soft natural light filters in, creating a warm atmosphere perfect for reading.",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Old books"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_cozy_corner_features_a_stack_of_vintage_books.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/A_cozy_corner_features_a_stack_of_vintage_books.jpg/1280px-A_cozy_corner_features_a_stack_of_vintage_books.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5414,
+      "hauteur": 3614
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Sandviksvei 62, Hordaland - Riksantikvaren-T248 02 0482.jpg",
+      "description": "Sandviksvei 62 i Bergen, Hordaland",
+      "categories": [
+        "Sash windows",
+        "PD Norway",
+        "Images from The Norwegian Directorate for Cultural Heritage",
+        "Cultural heritage monuments in Norway with known IDs",
+        "Windows in Norway",
+        "1944 in Bergen, Norway",
+        "Sash windows in Norway",
+        "Cultural heritage monuments in Norway missing SDC location of creation",
+        "Cultural heritage monuments in Norway missing SDC depicts",
+        "Mesterhuset, Stoltz' reperbane",
+        "Photographs by Halvor Vreim",
+        "Files uploaded by Riksbot"
+      ],
+      "auteur": "Halvor Vreim",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sandviksvei_62,_Hordaland_-_Riksantikvaren-T248_02_0482.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sandviksvei_62%2C_Hordaland_-_Riksantikvaren-T248_02_0482.jpg/1280px-Sandviksvei_62%2C_Hordaland_-_Riksantikvaren-T248_02_0482.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2398,
+      "hauteur": 3556
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A window at the White House in Washington, D.C.jpg",
+      "description": "A window at the White House in Washington, D.C.",
+      "categories": [
+        "Windows",
+        "Interior of the White House",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Harrison Keely",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_window_at_the_White_House_in_Washington,_D.C.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/A_window_at_the_White_House_in_Washington%2C_D.C.jpg/1280px-A_window_at_the_White_House_in_Washington%2C_D.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3010,
+      "hauteur": 4014
+    }
+  ]
+}

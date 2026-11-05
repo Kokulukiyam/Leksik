@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "machinerie-d-ascenseur",
+    "terme": "la machinerie d'ascenseur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Local ou ensemble formé du moteur, du treuil et des poulies qui entraînent les câbles d'un ascenseur.",
+    "priorite": 3,
+    "requetes": [
+      "elevator machine room",
+      "machinerie ascenseur",
+      "lift motor traction machine"
+    ],
+    "categoriesCommons": [
+      "Category:Elevators"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Allure of the Seas, Pernon telakka, Turku, 23.10.2010 (3).JPG",
+      "description": "MS Allure of the Seas at STX Europe shipyard Turku , Finland .",
+      "categories": [
+        "Taken with Canon PowerShot S90",
+        "Elevators",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation",
+        "Aboard Allure of the Seas (ship, 2010) in 2010"
+      ],
+      "auteur": "Makele-90",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Allure_of_the_Seas,_Pernon_telakka,_Turku,_23.10.2010_(3).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Allure_of_the_Seas%2C_Pernon_telakka%2C_Turku%2C_23.10.2010_%283%29.JPG/1280px-Allure_of_the_Seas%2C_Pernon_telakka%2C_Turku%2C_23.10.2010_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Alter Elbtunnel Elevator (15723989638).jpg",
+      "description": "Licensing: flickr@tonywebster.com",
+      "categories": [
+        "Elevators",
+        "Flickr images reviewed by FlickreviewR",
+        "Cyclists in the 2010s",
+        "Hamburg photographs taken on 2014-09-17",
+        "Files with coordinates missing SDC location of creation (53° N, 9° E)",
+        "Alter Elbtunnel elevators",
+        "Photographs by Tony Webster"
+      ],
+      "auteur": "Tony Webster from Portland, Oregon, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alter_Elbtunnel_Elevator_(15723989638).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Alter_Elbtunnel_Elevator_%2815723989638%29.jpg/1280px-Alter_Elbtunnel_Elevator_%2815723989638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Analog electronics of an elevator contorller.jpg",
+      "description": "Analog electronics of an elevator contorller",
+      "categories": [
+        "Elevators",
+        "Analog electronics",
+        "Self-published work",
+        "PD-self",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "booledozer",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Analog_electronics_of_an_elevator_contorller.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Analog_electronics_of_an_elevator_contorller.jpg/1280px-Analog_electronics_of_an_elevator_contorller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3296,
+      "hauteur": 2472
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Analog electronics of an elevator contorller 4.jpg",
+      "description": "Analog electronics of an elevator contorller",
+      "categories": [
+        "Elevators",
+        "Analog electronics",
+        "Self-published work",
+        "PD-self",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "booledozer",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Analog_electronics_of_an_elevator_contorller_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Analog_electronics_of_an_elevator_contorller_4.jpg/1280px-Analog_electronics_of_an_elevator_contorller_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3296,
+      "hauteur": 2472
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Apparently this is the elevator to the B-wing hanger. Squeee - Flickr - floodllama.jpg",
+      "description": "Apparently this is the elevator to the B-wing hanger. Squeee!",
+      "categories": [
+        "Elevators",
+        "Photographs taken on 2015-12-22",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "floodllama",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apparently_this_is_the_elevator_to_the_B-wing_hanger._Squeee_-_Flickr_-_floodllama.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Apparently_this_is_the_elevator_to_the_B-wing_hanger._Squeee_-_Flickr_-_floodllama.jpg/1280px-Apparently_this_is_the_elevator_to_the_B-wing_hanger._Squeee_-_Flickr_-_floodllama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alter Elbtunnel Car Elevators (15910816422).jpg",
+      "description": "Licensing: flickr@tonywebster.com",
+      "categories": [
+        "Elevators",
+        "Flickr images reviewed by FlickreviewR",
+        "Hamburg photographs taken on 2014-09-17",
+        "Files with coordinates missing SDC location of creation (53° N, 9° E)",
+        "Alter Elbtunnel elevators",
+        "Photographs by Tony Webster"
+      ],
+      "auteur": "Tony Webster from Portland, Oregon, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alter_Elbtunnel_Car_Elevators_(15910816422).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Alter_Elbtunnel_Car_Elevators_%2815910816422%29.jpg/1280px-Alter_Elbtunnel_Car_Elevators_%2815910816422%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
+    }
+  ]
+}

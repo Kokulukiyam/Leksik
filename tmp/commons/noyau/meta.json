@@ -1,0 +1,164 @@
+{
+  "terme": {
+    "id": "noyau",
+    "terme": "le noyau",
+    "categorie": "Escaliers et circulations",
+    "definition": "Poteau ou mur central autour duquel tournent les marches d'un escalier.",
+    "priorite": 3,
+    "requetes": [
+      "spiral staircase newel central column",
+      "noyau escalier",
+      "newel spiral stair"
+    ],
+    "incompatibles": [
+      "escalier-en-colimacon"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:3D-SIM-2 Nucleus prophase 3d rotated.jpg",
+      "description": "3D-representation of a mouse cell nucleus from different angles. Recorded with 3D Structured Illumination Microscopy (3D-SIM-microscopy). The cell is in an early stage of nuclear division (prophase). The chromosomes (red) are already condensed, to be distributed to the daughter cells later on. The surrounding nuclear envelope (green) shows prominent invaginations and first disruptions. For further information see: Schermelleh L, Carlton PM, Haase S, Shao L, Winoto L, Kner P, Burke B, Cardoso MC, Agard DA, Gustafsson MG, Leonhardt H, Sedat JW (June 2008). \"Subdiffraction multicolor imaging of t",
+      "categories": [
+        "Chromosomes",
+        "Cell nucleus",
+        "Prophase",
+        "Items with VRTS permission confirmed",
+        "Fluorescent microscope images",
+        "Microscopic images of Mus musculus",
+        "Super resolution microscopy"
+      ],
+      "auteur": "Lothar Schermelleh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3D-SIM-2_Nucleus_prophase_3d_rotated.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/3D-SIM-2_Nucleus_prophase_3d_rotated.jpg/1280px-3D-SIM-2_Nucleus_prophase_3d_rotated.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 640
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Escalier de la Sainte-Trinité-des-Monts, globe avec fleurs de lis, Rome, Italy.jpg",
+      "description": "Un globe avec une fleur de lys, escaliers de la Piazza di Spagna, Rome, Italie.",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "CC-Zero",
+        "Piazza di Spagna (Rome)",
+        "Newel posts",
+        "Self-published work",
+        "August 2013 Italy photographs",
+        "Italy photographs taken on 2013-08-24",
+        "Files with coordinates missing SDC location of creation",
+        "Sculptures of globes",
+        "Sculptures photographed in 2013",
+        "Reliefs of fleur-de-lis"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Escalier_de_la_Sainte-Trinit%C3%A9-des-Monts,_globe_avec_fleurs_de_lis,_Rome,_Italy.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Escalier_de_la_Sainte-Trinit%C3%A9-des-Monts%2C_globe_avec_fleurs_de_lis%2C_Rome%2C_Italy.jpg/1280px-Escalier_de_la_Sainte-Trinit%C3%A9-des-Monts%2C_globe_avec_fleurs_de_lis%2C_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3058,
+      "hauteur": 4752
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cell nucleus II -- Smart-Servier.jpg",
+      "description": "noyau",
+      "categories": [
+        "Cell nucleus",
+        "Artworks without Wikidata item",
+        "Uploaded with OpenRefine",
+        "Content made available through the Content Partnerships Hub Helpdesk",
+        "Content made available through Wikimedia Sverige partnerships",
+        "SMART-Servier Medical Art - Intracellular components",
+        "Media from SMART-Servier Medical Art"
+      ],
+      "auteur": "Servier",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cell_nucleus_II_--_Smart-Servier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Cell_nucleus_II_--_Smart-Servier.jpg/1280px-Cell_nucleus_II_--_Smart-Servier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 10240,
+      "hauteur": 5760
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Pot à feu escalier Château de Hautefort 28.jpg",
+      "description": "Pot-à-feu en bois décoratif, utilisé comme pomme d'escalier, XVIIe siècle, Château de Hautefort, Dordogne.",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Sony DSLR-A550",
+        "CC-Zero",
+        "Monuments historiques classés",
+        "Wooden sculptures",
+        "Newel posts",
+        "Self-published work",
+        "2013 photographs of Dordogne",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2013",
+        "Cultural heritage monuments in France with known IDs",
+        "Flame urns (ornament) in France",
+        "Images from Wiki Loves Monuments 2013 in France",
+        "Files with coordinates missing SDC location of creation",
+        "Sculptures in France photographed in 2013",
+        "France photographs taken on 2013-08-13",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Architectural elements in Château de Hautefort",
+        "17th-century wooden sculptures in Dordogne",
+        "Sculptures in Château de Hautefort"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pot_%C3%A0_feu_escalier_Ch%C3%A2teau_de_Hautefort_28.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pot_%C3%A0_feu_escalier_Ch%C3%A2teau_de_Hautefort_28.jpg/1280px-Pot_%C3%A0_feu_escalier_Ch%C3%A2teau_de_Hautefort_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2738,
+      "hauteur": 4541
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Villa Saint Cyr Staircase Newel Cap.jpg",
+      "description": "Tête de départ de l'escalier de la Villa Saint Cyr à Bourg-la-Reine en France",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "FAL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Newel posts",
+        "License migration redundant",
+        "Self-published work",
+        "Staircases in Hauts-de-Seine",
+        "Railings in Île-de-France",
+        "Finials in Île-de-France",
+        "Details of buildings in France",
+        "Interior stair railings in France",
+        "Wooden stair railings",
+        "Villa Saint Cyr"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Villa_Saint_Cyr_Staircase_Newel_Cap.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Villa_Saint_Cyr_Staircase_Newel_Cap.jpg/1280px-Villa_Saint_Cyr_Staircase_Newel_Cap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cell nucleus I -- Smart-Servier.jpg",
+      "description": "noyau",
+      "categories": [
+        "Cell nucleus",
+        "Artworks without Wikidata item",
+        "Uploaded with OpenRefine",
+        "Content made available through the Content Partnerships Hub Helpdesk",
+        "Content made available through Wikimedia Sverige partnerships",
+        "SMART-Servier Medical Art - Intracellular components",
+        "Media from SMART-Servier Medical Art"
+      ],
+      "auteur": "Servier",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cell_nucleus_I_--_Smart-Servier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Cell_nucleus_I_--_Smart-Servier.jpg/1280px-Cell_nucleus_I_--_Smart-Servier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 10240,
+      "hauteur": 5760
+    }
+  ]
+}

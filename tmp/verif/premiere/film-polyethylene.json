@@ -1,0 +1,53 @@
+{
+  "termId": "film-polyethylene",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Frein-vapeur Intello en comble avec marque imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Norvège",
+      "note": "Membrane pare-vapeur/frein-vapeur sous toiture avec texte de marque visible, pas un film polyéthylène sous dallage."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Frein-vapeur Intello en comble avec marque imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Norvège",
+      "note": "Membrane pare-vapeur/frein-vapeur sous toiture avec texte de marque visible, pas un film polyéthylène sous dallage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Frein-vapeur Intello contre une paroi en bois, texte visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Norvège",
+      "note": "Membrane pare-vapeur/frein-vapeur sous toiture avec texte de marque visible, pas un film polyéthylène sous dallage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Frein-vapeur Intello en comble avec marque imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Norvège",
+      "note": "Membrane pare-vapeur/frein-vapeur sous toiture avec texte de marque visible, pas un film polyéthylène sous dallage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pare-vapeur vert fixé sous chevrons en plafond de comble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Pare-vapeur en toiture, texte visible, pas un film sous dallage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan du frein-vapeur imprimé de l'adresse du fabricant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, pare-vapeur et non film polyéthylène."
+    }
+  ]
+}

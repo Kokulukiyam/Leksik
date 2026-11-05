@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "linteau-prefabrique",
+    "terme": "le linteau préfabriqué",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Linteau en béton armé fabriqué à l'avance, livré en longueur et posé sur les murs au-dessus d'une baie.",
+    "priorite": 3,
+    "requetes": [
+      "precast concrete lintel",
+      "linteau préfabriqué",
+      "precast lintels stacked"
+    ],
+    "incompatibles": [
+      "linteau"
+    ],
+    "categoriesCommons": [
+      "Category:Lintels",
+      "Category:Precast concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Lintel to Henry Nisbet from Dean House, reused in Dean Cemetery.jpg",
+      "description": "Lintel to Henry Nisbet from Dean House, reused in Dean Cemetery",
+      "categories": [
+        "Lintels",
+        "Self-published work"
+      ],
+      "auteur": "Stephencdickson",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lintel_to_Henry_Nisbet_from_Dean_House,_reused_in_Dean_Cemetery.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lintel_to_Henry_Nisbet_from_Dean_House%2C_reused_in_Dean_Cemetery.jpg/1280px-Lintel_to_Henry_Nisbet_from_Dean_House%2C_reused_in_Dean_Cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3088,
+      "hauteur": 2056
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Sidewalk in Thanjavur Tamil Nadu India.jpg",
+      "description": "This is a newly laid sidewalk near Manimandapam Thanjavur Tamil Nadu India which is very useful for pedestrians. I took this shot at noon during rainy time 27 th Nov 2024",
+      "categories": [
+        "CC-Zero",
+        "Thanjavur",
+        "Sidewalks",
+        "Precast concrete",
+        "Thanjavur district",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Sindugab",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sidewalk_in_Thanjavur_Tamil_Nadu_India.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Sidewalk_in_Thanjavur_Tamil_Nadu_India.jpg/1280px-Sidewalk_in_Thanjavur_Tamil_Nadu_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dva překlady nad sebou.JPG",
+      "description": "Two translations on top of each other. Prague, Czech Republic.",
+      "categories": [
+        "Taken with Canon PowerShot G10",
+        "Lintels",
+        "Self-published work",
+        "Files by Juandev",
+        "Files by Juandev lacking geographic coordinates",
+        "Brick walls in unidentified countries"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dva_p%C5%99eklady_nad_sebou.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Dva_p%C5%99eklady_nad_sebou.JPG/1280px-Dva_p%C5%99eklady_nad_sebou.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3312,
+      "hauteur": 2220
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Precast Concrete Column Moving.jpg",
+      "description": "Precast concrete column set by crane in Manaus by Platinum Construções",
+      "categories": [
+        "Construction",
+        "Manaus",
+        "Precast concrete",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Bernardobenzecry",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Precast_Concrete_Column_Moving.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Precast_Concrete_Column_Moving.jpg/1280px-Precast_Concrete_Column_Moving.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Nalanda Monastery 4 ei7-07.jpg",
+      "description": "Doorway. Monastery 4, Nalanda A basic reinforcing lintel caps the doorway on the east side of the monastery.",
+      "categories": [
+        "Lintels",
+        "Self-published work",
+        "Monastery 4 of Nalanda"
+      ],
+      "auteur": "G41rn8",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nalanda_Monastery_4_ei7-07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Nalanda_Monastery_4_ei7-07.jpg/1280px-Nalanda_Monastery_4_ei7-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Precast concrete manholes.jpg",
+      "description": "These are assorted sizes of precast concrete manholes, stored for a UG sewer project at Tamilnadu, India. I took this shot at 7.15 AM in bright sun light. Seeing all sizes of manholes for different applications in one place is funny.",
+      "categories": [
+        "CC-Zero",
+        "Manholes",
+        "Precast concrete",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Precast concrete manholes"
+      ],
+      "auteur": "Sindugab",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Precast_concrete_manholes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Precast_concrete_manholes.jpg/1280px-Precast_concrete_manholes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3667,
+      "hauteur": 2063
+    }
+  ]
+}

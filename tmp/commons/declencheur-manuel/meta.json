@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "declencheur-manuel",
+    "terme": "le déclencheur manuel",
+    "categorie": "Réseaux et équipements",
+    "definition": "Boîtier rouge mural à vitre ou à membrane qu'on enfonce pour donner l'alarme incendie.",
+    "priorite": 2,
+    "requetes": [
+      "manual call point fire alarm",
+      "déclencheur manuel",
+      "fire alarm pull station"
+    ],
+    "categoriesCommons": [
+      "Category:Fire alarms"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Braemar sigma 5.jpg",
+      "description": "Sigma 5 compact CIE panel",
+      "categories": [
+        "Fire alarms",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2022-11-13"
+      ],
+      "auteur": "Sebastiansmartguy101",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Braemar_sigma_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Braemar_sigma_5.jpg/1280px-Braemar_sigma_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bma bosch.jpg",
+      "description": "",
+      "categories": [
+        "Fire alarms",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Media missing infobox template",
+        "Control panels",
+        "Firefighting in Celle",
+        "Bosch Security Systems"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 2.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bma_bosch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bma_bosch.jpg/1280px-Bma_bosch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1890,
+      "hauteur": 2340
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Alarm exception.jpg",
+      "description": "",
+      "categories": [
+        "CC-Zero",
+        "Fire alarms",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Media missing infobox template",
+        "Self-published work"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alarm_exception.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Alarm_exception.jpg/1280px-Alarm_exception.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3465,
+      "hauteur": 2249
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Apr 26, 2022 El Kinder Camino Portugués Tour (52082390138).jpg",
+      "description": "&lt;a href=\" http://www.frescotours.com \" rel=\"noreferrer nofollow\"&gt;www.frescotours.com&lt;/a&gt; Camino de Santiago Walking Tour by Spain's Fresco Tours! &lt;a href=\" http://www.frescotours.com \" rel=\"noreferrer nofollow\"&gt;&lt;/a&gt;",
+      "categories": [
+        "Fire alarms",
+        "Igreja do Carmo (Guimarães)",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Tourism in Guimarães",
+        "Firefighting in Guimarães"
+      ],
+      "auteur": "Fresco Tours from Bilbao, Spain",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apr_26,_2022_El_Kinder_Camino_Portugu%C3%A9s_Tour_(52082390138).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Apr_26%2C_2022_El_Kinder_Camino_Portugu%C3%A9s_Tour_%2852082390138%29.jpg/1280px-Apr_26%2C_2022_El_Kinder_Camino_Portugu%C3%A9s_Tour_%2852082390138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3713,
+      "hauteur": 4937
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Alton Street Alpha 1.jpg",
+      "description": "Alton Street Alpha 1",
+      "categories": [
+        "Fire alarms",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2022-10-29"
+      ],
+      "auteur": "Sebastiansmartguy101",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alton_Street_Alpha_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Alton_Street_Alpha_1.jpg/1280px-Alton_Street_Alpha_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20030613대중소방안전교범제작기획단 관련 사진25.jpg",
+      "description": "20030613대중소방안전교범제작기획단 관련 사진",
+      "categories": [
+        "Fire alarms",
+        "Maintenance:162a243ed45323405af0d117b98a2038",
+        "Safety education of Seoul Fire Services"
+      ],
+      "auteur": "서울특별시 소방재난본부",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20030613%EB%8C%80%EC%A4%91%EC%86%8C%EB%B0%A9%EC%95%88%EC%A0%84%EA%B5%90%EB%B2%94%EC%A0%9C%EC%9E%91%EA%B8%B0%ED%9A%8D%EB%8B%A8_%EA%B4%80%EB%A0%A8_%EC%82%AC%EC%A7%8425.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/20030613%EB%8C%80%EC%A4%91%EC%86%8C%EB%B0%A9%EC%95%88%EC%A0%84%EA%B5%90%EB%B2%94%EC%A0%9C%EC%9E%91%EA%B8%B0%ED%9A%8D%EB%8B%A8_%EA%B4%80%EB%A0%A8_%EC%82%AC%EC%A7%8425.jpg/960px-20030613%EB%8C%80%EC%A4%91%EC%86%8C%EB%B0%A9%EC%95%88%EC%A0%84%EA%B5%90%EB%B2%94%EC%A0%9C%EC%9E%91%EA%B8%B0%ED%9A%8D%EB%8B%A8_%EA%B4%80%EB%A0%A8_%EC%82%AC%EC%A7%8425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1200,
+      "hauteur": 1600
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "collecteur",
+    "terme": "le collecteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tube muni de plusieurs sorties, avec ou sans robinets, qui répartit l'eau vers chaque appareil ; aussi appelé nourrice.",
+    "priorite": 3,
+    "requetes": [
+      "plumbing manifold PEX",
+      "collecteur nourrice plomberie",
+      "water manifold"
+    ],
+    "incompatibles": [
+      "tube-per"
+    ],
+    "categoriesCommons": [
+      "Category:Manifolds"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Detail of barrel seal scuba manifold P8100005.JPG",
+      "description": "Detail of scuba manifold showing barrel seal o-rings and left hand thread",
+      "categories": [
+        "Taken with Olympus TG-3",
+        "Screw threads",
+        "O-rings",
+        "Manifolds",
+        "Self-published work",
+        "Scuba equipment",
+        "Underwater diving cylinder valves",
+        "Groove (geometry)"
+      ],
+      "auteur": "Peter Southwood",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detail_of_barrel_seal_scuba_manifold_P8100005.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Detail_of_barrel_seal_scuba_manifold_P8100005.JPG/1280px-Detail_of_barrel_seal_scuba_manifold_P8100005.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:16 fire hose hook-up.jpg",
+      "description": "this hookup could supply 16 fire hoses- check the size of the pipe the manifold is bolted to! DSC_0918",
+      "categories": [
+        "Taken with Nikon D40x",
+        "Valves",
+        "Groups of 16",
+        "Manifolds",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Bill Abbott"
+      ],
+      "auteur": "Bill Abbott",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:16_fire_hose_hook-up.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/16_fire_hose_hook-up.jpg/1280px-16_fire_hose_hook-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ashton Frost engine HP trip gear.jpg",
+      "description": "The Ashton Frost engine at Mill Meece Pumping Station, showing the trip-gear on the high-pressure cylinder. The trip-gear is the mechanism in the foreground, upper centre. The blue steel clad casing behind it is the steam manifold which supplies steam to the Corliss inlet valves at each end.",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus C-4100Z / C-4000Z",
+        "License migration redundant",
+        "Manifolds",
+        "Mill Meece Pumping Station",
+        "Self-published work",
+        "Building interiors in Staffordshire"
+      ],
+      "auteur": "Globbet",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ashton_Frost_engine_HP_trip_gear.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ashton_Frost_engine_HP_trip_gear.jpg/1280px-Ashton_Frost_engine_HP_trip_gear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cast fe and cu dwv piping.jpg",
+      "description": "Cast Iron and copper DWV (Drain, Waste and Vent) Piping in a Timber Residential Building in Mission, British Columbia , Canada in the 1980s.",
+      "categories": [
+        "GFDL",
+        "Copper pipes",
+        "License migration redundant",
+        "Manifolds",
+        "Self-published work",
+        "Cast iron fittings"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cast_fe_and_cu_dwv_piping.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Cast_fe_and_cu_dwv_piping.jpg/1280px-Cast_fe_and_cu_dwv_piping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4694,
+      "hauteur": 3061
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Barrel seal scuba manifold P8100001.JPG",
+      "description": "Barrel seal scuba manifold",
+      "categories": [
+        "Taken with Olympus TG-3",
+        "Valves",
+        "Manifolds",
+        "Self-published work",
+        "Scuba equipment",
+        "Underwater diving cylinder valves"
+      ],
+      "auteur": "Peter Southwood",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barrel_seal_scuba_manifold_P8100001.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Barrel_seal_scuba_manifold_P8100001.JPG/1280px-Barrel_seal_scuba_manifold_P8100001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Draeger 200 bar cylinder manifold P5070179.JPG",
+      "description": "Draeger 200 bar twin cylinder manifold with DIN connections for 170mm diameter cylinders",
+      "categories": [
+        "Diving cylinders",
+        "Manifolds",
+        "Self-published work",
+        "Dräger products"
+      ],
+      "auteur": "Peter Southwood",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Draeger_200_bar_cylinder_manifold_P5070179.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Draeger_200_bar_cylinder_manifold_P5070179.JPG/1280px-Draeger_200_bar_cylinder_manifold_P5070179.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

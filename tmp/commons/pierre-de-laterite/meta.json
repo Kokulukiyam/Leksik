@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "pierre-de-laterite",
+    "terme": "la pierre de latérite",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Bloc de latérite taillé, rougeâtre et alvéolé, maçonné en murs apparents.",
+    "priorite": 3,
+    "requetes": [
+      "laterite blocks wall",
+      "laterite stone building",
+      "mur en latérite"
+    ],
+    "incompatibles": [
+      "laterite",
+      "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Laterite"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Laterite stone during rainy season 06.jpg",
+      "description": "Exposed lateritic rock formations shaped by tropical weathering and erosion, showcasing the rich reddish hues and rugged textures typical of iron rich soils.",
+      "categories": [
+        "Laterite",
+        "Self-published work",
+        "Uploaded via Campaign:wle-ng",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Images from Wiki Loves Earth 2025",
+        "Images from Wiki Loves Earth 2025 in Nigeria",
+        "Laterite in Nigeria"
+      ],
+      "auteur": "Eloquenttheory",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laterite_stone_during_rainy_season_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Laterite_stone_during_rainy_season_06.jpg/1280px-Laterite_stone_during_rainy_season_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Baol-Géologie.jpg",
+      "description": "Carte géologique : \"Puits du Baol et affleurements de latérite\", dans La Géographie , tome IV, 15 juillet 1901, p. 17",
+      "categories": [
+        "Geography of Senegal",
+        "Laterite",
+        "Lac rose (Senegal)",
+        "Images from Gallica to be checked",
+        "PD US expired",
+        "PD France",
+        "1901 maps",
+        "Template Unknown (author)",
+        "Geological maps of Senegal",
+        "CC-PD-Mark",
+        "20th-century maps of Senegal",
+        "Files from Gallica",
+        "PD Old (assumed)",
+        "PD-old missing SDC copyright status",
+        "PD-US missing SDC copyright status"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baol-G%C3%A9ologie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Baol-G%C3%A9ologie.jpg/1280px-Baol-G%C3%A9ologie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1285,
+      "hauteur": 737
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chemical laterite profile 005.jpg",
+      "description": "Chemical variation in a laterite proflle on serpentinite. Kalimantan, Indonesia. The renewed increase of silica near the surface is due to addition of allochthonous material.",
+      "categories": [
+        "Taken with Canon Digital IXUS 50",
+        "Geology of Indonesia",
+        "Laterite",
+        "Self-published work",
+        "Weathering in Indonesia",
+        "Geochemical charts"
+      ],
+      "auteur": "Schellat",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chemical_laterite_profile_005.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Chemical_laterite_profile_005.jpg/1280px-Chemical_laterite_profile_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Laterisches Nickelerz (RK 2206 P1880849).jpg",
+      "description": "Laterisches Nickelerz mit Nickelhydrosilikaten aus der Mine Thio, Neukaledonien – ausgestellt im Mineralogischen Museum Würzburg",
+      "categories": [
+        "Rocks in New Caledonia",
+        "Nickel",
+        "Laterite",
+        "Files by Reinhard Kraasch",
+        "Files with coordinates missing SDC location of creation (49° N, 9° E)",
+        "Files by Reinhard Kraasch from Mineralogisches Museum der Universität Würzburg"
+      ],
+      "auteur": "Reinhard Kraasch",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laterisches_Nickelerz_(RK_2206_P1880849).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Laterisches_Nickelerz_%28RK_2206_P1880849%29.jpg/1280px-Laterisches_Nickelerz_%28RK_2206_P1880849%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2661,
+      "hauteur": 1998
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Centipède rouge brun.jpg",
+      "description": "Image d'un centipède rouge brun posé sur une latérite au parc Bangréogo de Ouagadougou au Burkina Faso.",
+      "categories": [
+        "Laterite",
+        "Animals of Burkina Faso",
+        "Self-published work",
+        "Unidentified Myriapoda",
+        "Soils in Burkina Faso",
+        "Images from Wiki Loves Earth 2023",
+        "Images from Wiki Loves Earth 2023 in Burkina Faso",
+        "Uploaded via Campaign:wle-bf",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation"
+      ],
+      "auteur": "EKokou",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centip%C3%A8de_rouge_brun.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Centip%C3%A8de_rouge_brun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 960
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Laterit 03.jpg",
+      "description": "Laterit-Ziegel im Sukhothai Geschichtspark",
+      "categories": [
+        "Sukhothai Historical Park",
+        "Laterite",
+        "Self-published work"
+      ],
+      "auteur": "ErwinMeier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laterit_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Laterit_03.jpg/1280px-Laterit_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

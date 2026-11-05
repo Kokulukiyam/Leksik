@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "paroi-moulee",
+    "terme": "la paroi moulée",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Mur en béton armé coulé dans une tranchée profonde avant le terrassement, qui soutient les terres d'un sous-sol.",
+    "priorite": 3,
+    "requetes": [
+      "diaphragm wall excavation",
+      "paroi moulée",
+      "slurry wall basement construction"
+    ],
+    "incompatibles": [
+      "fouille"
+    ],
+    "categoriesCommons": [
+      "Category:Retaining walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2018052602 Ufermauer leinpfad uebigau 2018.jpg",
+      "description": "hier auf Höhe Drehkran Übigau, Richtung flussaufwärts",
+      "categories": [
+        "Retaining walls",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Dresden photographs taken on 2018-05-26",
+        "Iron rings",
+        "Leinpfad Übigau (Dresden)"
+      ],
+      "auteur": "VSchagow",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018052602_Ufermauer_leinpfad_uebigau_2018.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/2018052602_Ufermauer_leinpfad_uebigau_2018.jpg/1280px-2018052602_Ufermauer_leinpfad_uebigau_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Katona József Straße, Wandgemälde, 2025 Ózd.jpg",
+      "description": "Mural on landslide protection, support wall - Katona József Road, Ózd , Borsod-Abaúj-Zemplén County , Hungary .",
+      "categories": [
+        "Walls in Hungary",
+        "Retaining walls",
+        "Self-published work",
+        "Murals in Borsod-Abaúj-Zemplén County",
+        "Disaster prevention in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "June 2025 Hungary photographs",
+        "2025 in Ózd",
+        "Katona József út, Ózd"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Katona_J%C3%B3zsef_Stra%C3%9Fe,_Wandgem%C3%A4lde,_2025_%C3%93zd.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Katona_J%C3%B3zsef_Stra%C3%9Fe%2C_Wandgem%C3%A4lde%2C_2025_%C3%93zd.jpg/1280px-Katona_J%C3%B3zsef_Stra%C3%9Fe%2C_Wandgem%C3%A4lde%2C_2025_%C3%93zd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1290
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Markov Manastir 13.JPG",
+      "description": "Marko's Monastery, Markova Sušica, Macedonia",
+      "categories": [
+        "Gates in North Macedonia",
+        "Stairs in North Macedonia",
+        "May 2011 in North Macedonia",
+        "GFDL",
+        "Taken with Canon EOS 450D",
+        "Marko's Monastery",
+        "Retaining walls",
+        "License migration redundant",
+        "Gatehouses in North Macedonia",
+        "Self-published work",
+        "Taken by Rašo",
+        "Open gates"
+      ],
+      "auteur": "This illustration was made by Rašo . An email to Rašo would be appreciated too.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Markov_Manastir_13.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Markov_Manastir_13.JPG/1280px-Markov_Manastir_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Redi-Rock cobblestone-gravity-park-FosterSupply-ParkersbergRiverpointPark4 (24870053564).jpg",
+      "description": "These Redi-Rock walls in West Virginia are Cobblestone texture topped with caps, making a great seat wall for this riverfront park. The retaining walls are located at Point Park in Parkersburg, WV.",
+      "categories": [
+        "Retaining walls",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Riverfront Park, Parkersburg"
+      ],
+      "auteur": "Redi-Rock International",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Redi-Rock_cobblestone-gravity-park-FosterSupply-ParkersbergRiverpointPark4_(24870053564).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Redi-Rock_cobblestone-gravity-park-FosterSupply-ParkersbergRiverpointPark4_%2824870053564%29.jpg/1280px-Redi-Rock_cobblestone-gravity-park-FosterSupply-ParkersbergRiverpointPark4_%2824870053564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1195
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:HK 香港島東區 Island Eastern 天后廟道 Tin Hau Temple Road 南 south January 2021 SS2 30.jpg",
+      "description": "HK 香港島東區 Island Eastern 天后廟道 Tin Hau Temple Road 南 south in January 2021",
+      "categories": [
+        "Retaining walls",
+        "Self-published work",
+        "Number 62 on objects",
+        "School signs in Hong Kong",
+        "Unidentified plants in Hong Kong",
+        "Files with coordinates missing SDC location of creation",
+        "Hong Kong photographs taken on 2021-01-16",
+        "January 2021 in Tin Hau",
+        "Buildings in Tin Hau",
+        "Buildings in Tin Hau Temple Road",
+        "2021 in Tin Hau Temple Road",
+        "Evening in Tin Hau"
+      ],
+      "auteur": "Williamzu Hanildrum",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_%E9%A6%99%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Island_Eastern_%E5%A4%A9%E5%90%8E%E5%BB%9F%E9%81%93_Tin_Hau_Temple_Road_%E5%8D%97_south_January_2021_SS2_30.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/HK_%E9%A6%99%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Island_Eastern_%E5%A4%A9%E5%90%8E%E5%BB%9F%E9%81%93_Tin_Hau_Temple_Road_%E5%8D%97_south_January_2021_SS2_30.jpg/1280px-HK_%E9%A6%99%E6%B8%AF%E5%B3%B6%E6%9D%B1%E5%8D%80_Island_Eastern_%E5%A4%A9%E5%90%8E%E5%BB%9F%E9%81%93_Tin_Hau_Temple_Road_%E5%8D%97_south_January_2021_SS2_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Anglers on the old Grand Canal, Beijing.jpg",
+      "description": "Anglers looking for fish in the waters of the former Grand Canal in Beijing's Shichahai neighborhood.",
+      "categories": [
+        "Fishermen from China",
+        "Spring in China",
+        "GFDL",
+        "Shichahai",
+        "Dongcheng District, Beijing",
+        "Retaining walls",
+        "License migration redundant",
+        "Self-published work",
+        "Men crouching",
+        "Men smoking cigarettes",
+        "Canals in Beijing"
+      ],
+      "auteur": "Daniel Case",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anglers_on_the_old_Grand_Canal,_Beijing.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anglers_on_the_old_Grand_Canal%2C_Beijing.jpg/1280px-Anglers_on_the_old_Grand_Canal%2C_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4104,
+      "hauteur": 3156
+    }
+  ]
+}

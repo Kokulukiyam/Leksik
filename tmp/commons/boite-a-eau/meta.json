@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "boite-a-eau",
+    "terme": "la boîte à eau",
+    "categorie": "Toitures",
+    "definition": "Réceptacle en forme d'entonnoir qui recueille l'eau d'une gouttière ou d'une gargouille en tête de descente.",
+    "priorite": 3,
+    "requetes": [
+      "rainwater hopper head",
+      "boîte à eau descente",
+      "downpipe hopper"
+    ],
+    "incompatibles": [
+      "descente-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Rain gutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Calles del centro de Xalapa, estado de Veracruz 42.jpg",
+      "description": "Streets, downtown of Xalapa, state of Veracruz.",
+      "categories": [
+        "Rain gutters",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Mexico photographs taken on 2014-04-12",
+        "Sidewalks in Veracruz",
+        "2014 in Xalapa-Enríquez",
+        "Images by Correogsk",
+        "Streets in Xalapa"
+      ],
+      "auteur": "Correogsk",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calles_del_centro_de_Xalapa,_estado_de_Veracruz_42.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Calles_del_centro_de_Xalapa%2C_estado_de_Veracruz_42.jpg/1280px-Calles_del_centro_de_Xalapa%2C_estado_de_Veracruz_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:500px photo (168211223).jpeg",
+      "description": "500px provided description: Img 8183 Jpg [#yellow ,#trees ,#brown ,#plant ,#white ,#green ,#garden]",
+      "categories": [
+        "CC-Zero",
+        "Rain gutters",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Gyori Fanni",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(168211223).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/500px_photo_%28168211223%29.jpeg/1280px-500px_photo_%28168211223%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1365,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2008 06 04 - Russett - Concord Park inner wall 2.JPG",
+      "description": "The bare inner wall of Concord Park facing toward the parking garage, Russett , Maryland Lieu de la prise de vue 39° 06′ 30,4″ N, 76° 47′ 42,1″ O Voir cet endroit et d’autres images sur : OpenStreetMap 39.108444; -76.795028",
+      "categories": [
+        "Taken with Canon PowerShot A650 IS",
+        "Drain pipes",
+        "Rain gutters",
+        "Siding",
+        "Self-published work",
+        "Files by User:Thisisbossi",
+        "Roofs in the United States",
+        "Windows in Maryland",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2008-06-04",
+        "Buildings in Russett"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008_06_04_-_Russett_-_Concord_Park_inner_wall_2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2008_06_04_-_Russett_-_Concord_Park_inner_wall_2.JPG/1280px-2008_06_04_-_Russett_-_Concord_Park_inner_wall_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Abschnitt GSK Hof 20200704 DSC2619.jpg",
+      "description": "Ein Abschnitt der Grundschule Krötenbruck in Hof, hier in der Mitte ist die Regenrinne.",
+      "categories": [
+        "Taken with Sony ILCE-7",
+        "Rain gutters",
+        "Self-published work",
+        "Hof (Saale) photographs taken on 2020-07-04",
+        "Files with coordinates missing SDC location of creation (50° N, 11° E)",
+        "Photographs of Hof (Saale) by PantheraLeo1359531",
+        "Grundschule Krötenbruck in 2020",
+        "Photographs created by PantheraLeo1359531 on 2020-07-04"
+      ],
+      "auteur": "PantheraLeo1359531",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abschnitt_GSK_Hof_20200704_DSC2619.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Abschnitt_GSK_Hof_20200704_DSC2619.jpg/1280px-Abschnitt_GSK_Hof_20200704_DSC2619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:11-11-24-basel-by-ralfr-176.jpg",
+      "description": "Basel",
+      "categories": [
+        "Taken with Nikon D300s",
+        "GFDL-1.2",
+        "FAL",
+        "Rain gutters",
+        "Sculptures in Basel",
+        "Supported by Wikimedia Österreich",
+        "Sculptures of fish in Switzerland",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ralf Roletschek ( talk )",
+      "licence": "FAL",
+      "lien": "https://commons.wikimedia.org/wiki/File:11-11-24-basel-by-ralfr-176.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/11-11-24-basel-by-ralfr-176.jpg/1280px-11-11-24-basel-by-ralfr-176.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bukchon Hanok Village 09.jpg",
+      "description": "Gargouille dans le quartier hanok de Bukchon, Séoul",
+      "categories": [
+        "CC-Zero",
+        "Rain gutters",
+        "Bukchon Hanok Village",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Gargoyles in South Korea"
+      ],
+      "auteur": "Bgag",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Bukchon_Hanok_Village_09.jpg/1280px-Bukchon_Hanok_Village_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3924,
+      "hauteur": 2616
+    }
+  ]
+}

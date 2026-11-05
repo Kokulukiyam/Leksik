@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "appareil-d-appui",
+    "terme": "l'appareil d'appui",
+    "categorie": "Structure",
+    "definition": "Bloc de caoutchouc fretté ou pièce métallique placé entre une poutre et son appui pour lui permettre de bouger légèrement.",
+    "priorite": 3,
+    "requetes": [
+      "elastomeric bearing pad",
+      "appareil d'appui néoprène",
+      "bridge bearing"
+    ],
+    "categoriesCommons": [
+      "Category:Bridge bearings",
+      "Category:Elastomeric bearings",
+      "Category:Bearings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:D11, úsek 06, (04) most přes Trotinu, 2021 (16).jpg",
+      "description": "D11 motorway, Section 06, bridge over the Trotina",
+      "categories": [
+        "Files by Draceane – Czechia",
+        "Uploaded with pattypan",
+        "Bridge bearings",
+        "Bridge of the D11 highway over the Trotina",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C",
+        "Pot bearings",
+        "Construction of D11 highway, section 06"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D11,_%C3%BAsek_06,_(04)_most_p%C5%99es_Trotinu,_2021_(16).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/D11%2C_%C3%BAsek_06%2C_%2804%29_most_p%C5%99es_Trotinu%2C_2021_%2816%29.jpg/1280px-D11%2C_%C3%BAsek_06%2C_%2804%29_most_p%C5%99es_Trotinu%2C_2021_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20200117 Kawaguchi Bridge (Niigata Prefectural Road Route 71) and Uonogawa Bridge (Iiyama Line).jpg",
+      "description": "この画像は2020年1月17日投稿者によって、新潟県長岡市東川口にて撮影された新潟県道71号線川口橋のゴム支承を撮影した写真。背景は信濃川支流魚野川に架かっている東日本旅客鉄道（JR東日本）飯山線の魚野川橋梁。",
+      "categories": [
+        "Uonogawa Bridge (Iiyama Line)",
+        "Kawaguchi Bridge (Niigata Prefectural Road Route 71)",
+        "Bridges in Japan photographed in 2020",
+        "Self-published work",
+        "January 2020 in Nagaoka (Niigata)",
+        "Japan photographs taken on 2020-01-17",
+        "Elastomeric bearings",
+        "Bridge bearings in Japan"
+      ],
+      "auteur": "Tyutyanya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20200117_Kawaguchi_Bridge_(Niigata_Prefectural_Road_Route_71)_and_Uonogawa_Bridge_(Iiyama_Line).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/20200117_Kawaguchi_Bridge_%28Niigata_Prefectural_Road_Route_71%29_and_Uonogawa_Bridge_%28Iiyama_Line%29.jpg/1280px-20200117_Kawaguchi_Bridge_%28Niigata_Prefectural_Road_Route_71%29_and_Uonogawa_Bridge_%28Iiyama_Line%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Châteauneuf-sur-Loire (21).JPG",
+      "description": "Pont de Châteauneuf-sur-Loire (Loiret - France)",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Pont de Châteauneuf-sur-Loire",
+        "Bridge bearings",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Roulex_45",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teauneuf-sur-Loire_(21).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ch%C3%A2teauneuf-sur-Loire_%2821%29.JPG/1280px-Ch%C3%A2teauneuf-sur-Loire_%2821%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1288
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dřevobetonový most v Bohunicích detail 2.jpg",
+      "description": "Detail uložení dřevěného nosníku vpravo na betonovou podpěru s odvodńovacím žlábkem",
+      "categories": [
+        "Bridge in Bohunice",
+        "Bridge bearings",
+        "Self-published work",
+        "Pictures taken during Wikiměsto Prachatice",
+        "Elastomeric bearings"
+      ],
+      "auteur": "JanBedřich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D%C5%99evobetonov%C3%BD_most_v_Bohunic%C3%ADch_detail_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/D%C5%99evobetonov%C3%BD_most_v_Bohunic%C3%ADch_detail_2.jpg/1280px-D%C5%99evobetonov%C3%BD_most_v_Bohunic%C3%ADch_detail_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:AIR THRUST BEARING AFTER TEST - NARA - 17448516.jpg",
+      "description": "Scope and content: The original finding aid described this as: Capture Date: 7/9/1976 Photographer: MARTIN BROWN Keywords: Larsen Scan",
+      "categories": [
+        "Bearings",
+        "PD NASA",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "Photographs taken on 1976-07-09",
+        "US National Archives series: Photographs Relating to Agency Activities, Facilities and Personnel",
+        "US National Archives location: other",
+        "Photographs by Martin Brown"
+      ],
+      "auteur": "Martin Brown",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:AIR_THRUST_BEARING_AFTER_TEST_-_NARA_-_17448516.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/AIR_THRUST_BEARING_AFTER_TEST_-_NARA_-_17448516.jpg/1280px-AIR_THRUST_BEARING_AFTER_TEST_-_NARA_-_17448516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6213,
+      "hauteur": 4900
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Amsterdam, Pythonbrug, 2019 (06).jpg",
+      "description": "Pythonbrug (\"Python Bridge\"), Amsterdam",
+      "categories": [
+        "Amsterdam",
+        "Brug 1998, Pythonbrug",
+        "Uploaded with pattypan",
+        "Bridge bearings",
+        "Files by Draceane – Netherlands",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amsterdam,_Pythonbrug,_2019_(06).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Amsterdam%2C_Pythonbrug%2C_2019_%2806%29.jpg/1280px-Amsterdam%2C_Pythonbrug%2C_2019_%2806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    }
+  ]
+}

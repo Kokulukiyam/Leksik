@@ -1,0 +1,160 @@
+{
+  "terme": {
+    "id": "poutre-vierendeel",
+    "terme": "la poutre Vierendeel",
+    "categorie": "Structure",
+    "definition": "Poutre à jour faite de membrures et de montants verticaux rigidement assemblés, sans diagonales.",
+    "priorite": 3,
+    "requetes": [
+      "vierendeel truss",
+      "poutre Vierendeel",
+      "vierendeel girder"
+    ],
+    "incompatibles": [
+      "poutre-treillis"
+    ],
+    "categoriesCommons": [
+      "Category:Vierendeel bridges",
+      "Category:Trusses"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:0041Baliuag, Bulacan Maharlika Highway Proper 23.jpg",
+      "description": "Baliuag, Bulacan Maharlika Highway Proper",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Trusses",
+        "Stacks",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Files with coordinates missing SDC location of creation",
+        "Philippines photographs taken on 2021-02-01",
+        "Pawid"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0041Baliuag,_Bulacan_Maharlika_Highway_Proper_23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/0041Baliuag%2C_Bulacan_Maharlika_Highway_Proper_23.jpg/1280px-0041Baliuag%2C_Bulacan_Maharlika_Highway_Proper_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Geneva St Vierendeel bridge Glendale oblique view to southeast 2014.jpg",
+      "description": "One of the very few remaining Vierendeel truss bridges in the United States, crossing the Verdugo Wash at Geneva Street in Glendale . Built in 1937 by the United States Army Corps of Engineers after passage of the Flood Control Act of 1936 . View is to the northwest. [1]",
+      "categories": [
+        "Taken with Olympus XZ-1",
+        "CC-Zero",
+        "Vierendeel bridges",
+        "Verdugo Wash",
+        "Bridges in the United States completed in 1937",
+        "Built in California in 1937",
+        "Self-published work",
+        "Files by User:Junkyardsparkle",
+        "Files with coordinates missing SDC location of creation",
+        "Road bridges in Los Angeles County, California",
+        "Road transport in Glendale, California"
+      ],
+      "auteur": "Junkyardsparkle",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Geneva_St_Vierendeel_bridge_Glendale_oblique_view_to_southeast_2014.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Geneva_St_Vierendeel_bridge_Glendale_oblique_view_to_southeast_2014.jpg/1280px-Geneva_St_Vierendeel_bridge_Glendale_oblique_view_to_southeast_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Paignton - GWR 150243+150261 arriving from Exmouth.JPG",
+      "description": "Great Western Railway's 150243 and 150261 arrive at Paignton, the end of a journey from Exmouth.",
+      "categories": [
+        "GFDL",
+        "Vierendeel bridges",
+        "License migration redundant",
+        "Self-published work",
+        "Trains of Great Western Railway (First Group) on the Riviera Line",
+        "Railway station footbridges in Devon",
+        "2021 in rail transport in England",
+        "August 2021 in Devon",
+        "Railway photographs taken on 2021-08-30",
+        "England photographs taken on 2021-08-30",
+        "Railway photographs by Geof Sheppard",
+        "British Rail Class 150 150243",
+        "British Rail Class 150/2s of Great Western Railway (First Group)",
+        "British Rail Class 150s on the Riviera Line",
+        "Trains at Paignton railway station",
+        "British Rail Class 150s in Great Western Railway (First Group) livery"
+      ],
+      "auteur": "Geof Sheppard",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paignton_-_GWR_150243%2B150261_arriving_from_Exmouth.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Paignton_-_GWR_150243%2B150261_arriving_from_Exmouth.JPG/1280px-Paignton_-_GWR_150243%2B150261_arriving_from_Exmouth.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1366,
+      "hauteur": 910
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2020, tiltas. Kėdainiai.JPG",
+      "description": "Footbridge, Kėdainiai, Lithuania",
+      "categories": [
+        "Trusses",
+        "Kėdainiai Old Town Bridge",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Vilensija",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2020,_tiltas._K%C4%97dainiai.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2020%2C_tiltas._K%C4%97dainiai.JPG/1280px-2020%2C_tiltas._K%C4%97dainiai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Brugge Scheepsdalebrug R04.jpg",
+      "description": "Bruges (Belgique) : l'ancien Pont de Scheepsdale (démoli en 2009)",
+      "categories": [
+        "Taken with Canon PowerShot A620",
+        "Vierendeel bridges",
+        "Self-published work",
+        "Images by MJJR",
+        "Swing bridges in Belgium",
+        "Belgium photographs taken on 2008-09-27",
+        "Files with coordinates missing SDC location of creation (51° N, 3° E)",
+        "Scheepsdalebrug (Bruges)"
+      ],
+      "auteur": "Marc Ryckaert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brugge_Scheepsdalebrug_R04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Brugge_Scheepsdalebrug_R04.jpg/1280px-Brugge_Scheepsdalebrug_R04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Brugge Spoorbrug Blankenbergse Steenweg R01.jpg",
+      "description": "Sint-Pieters-Brugge (ville de Bruges, Belgique) : le pont ferroviaire du Blankenbergse Steenweg",
+      "categories": [
+        "Taken with Nikon D90",
+        "Line 51 (Infrabel)",
+        "Bridges in Bruges",
+        "Vierendeel bridges",
+        "Self-published work",
+        "Images by MJJR",
+        "Iron truss railway bridges in Belgium",
+        "Railway images by Marc Ryckaert",
+        "Destroyed bridges in Belgium",
+        "Sint-Pieters (Bruges)",
+        "Blankenbergse Steenweg (Sint-Pieters)"
+      ],
+      "auteur": "Marc Ryckaert ( MJJR )",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brugge_Spoorbrug_Blankenbergse_Steenweg_R01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Brugge_Spoorbrug_Blankenbergse_Steenweg_R01.jpg/1280px-Brugge_Spoorbrug_Blankenbergse_Steenweg_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3860,
+      "hauteur": 2571
+    }
+  ]
+}

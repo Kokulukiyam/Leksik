@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "menuiserie-pvc",
+    "terme": "la menuiserie PVC",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte ou fenêtre dont le cadre est fait de profilés en PVC, généralement blancs.",
+    "priorite": 3,
+    "requetes": [
+      "PVC window white",
+      "fenêtre PVC",
+      "uPVC window"
+    ],
+    "incompatibles": [
+      "fenetre",
+      "menuiserie-aluminium",
+      "fenetre-oscillo-battante",
+      "double-vitrage"
+    ],
+    "categoriesCommons": [
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:24 Windows (92455263).jpeg",
+      "description": "500px provided description: 24 Windows [#windows]",
+      "categories": [
+        "Windows",
+        "Images with watermarks",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Francesca Capochiani",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:24_Windows_(92455263).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/24_Windows_%2892455263%29.jpeg/1280px-24_Windows_%2892455263%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1530
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:500px photo (22803999).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Jim Hawkins",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(22803999).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/500px_photo_%2822803999%29.jpeg/1280px-500px_photo_%2822803999%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1365,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A View (48281304).jpeg",
+      "description": "500px provided description: Lake Geneva, WI [#winter ,#window ,#brown ,#shingles ,#Wisconsin ,#Lake Geneva ,#Historic ,#lakeshore path]",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Treena Nicole",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_View_(48281304).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/A_View_%2848281304%29.jpeg/1280px-A_View_%2848281304%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1454,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:500px photo (105270455).jpeg",
+      "description": "500px provided description: Img 0840 Jpg [#building ,#haus ,#h?tte]",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Elektroll",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(105270455).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/500px_photo_%28105270455%29.jpeg/1280px-500px_photo_%28105270455%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1364,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2025-03-09 Hameln Deisterstraße 17 1090745.jpg",
+      "description": "Fenster im Wohn- und Geschäftshaus Deisterstraße 17 in Hameln, unter dem Fenster die Beschriftung \"Haus Andrea\"",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-de-ni",
+        "Cultural heritage monuments in Lower Saxony with known IDs",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025 in Germany",
+        "Images from Wiki Loves Monuments 2025",
+        "Deisterstraße (Hameln)",
+        "Images from Wiki Loves Monuments 2025 in Germany not for prejury",
+        "Images from Wiki Loves Monuments 2025, DE-NI",
+        "Cultural heritage monuments in Lower Saxony missing SDC location of creation"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg/1280px-2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2x2 (27563238720).jpg",
+      "description": "2x2 rq",
+      "categories": [
+        "Windows",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Felipe Gabaldón"
+      ],
+      "auteur": "Felipe Gabaldón",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2x2_(27563238720).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2x2_%2827563238720%29.jpg/1280px-2x2_%2827563238720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4368,
+      "hauteur": 2893
+    }
+  ]
+}

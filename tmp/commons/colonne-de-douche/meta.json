@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "colonne-de-douche",
+    "terme": "la colonne de douche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ensemble vertical fixé au mur réunissant une grande pomme de douche en tête, une douchette et un mitigeur.",
+    "priorite": 3,
+    "requetes": [
+      "shower column",
+      "colonne de douche",
+      "shower panel system"
+    ],
+    "incompatibles": [
+      "pomme-de-douche"
+    ],
+    "categoriesCommons": [
+      "Category:Showers",
+      "Category:Shower heads"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Baltic Queen shower - 20230902 - 06.jpg",
+      "description": "Resa med Baltic Queen från Stockholm-Mariehamn-Tallinn den 2 september 2023. Dusch i poolområdet.",
+      "categories": [
+        "Showers",
+        "Interior of Baltic Queen (ship, 2009)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2023-09-02"
+      ],
+      "auteur": "AleWi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baltic_Queen_shower_-_20230902_-_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Baltic_Queen_shower_-_20230902_-_06.jpg/1280px-Baltic_Queen_shower_-_20230902_-_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Drop in slow motion.jpg",
+      "description": "A sink tap water falling through air with more fps you could imagine with high speed camera.",
+      "categories": [
+        "Shower heads",
+        "Water droplets",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-in",
+        "Out of scope images from Wiki Loves Monuments 2018"
+      ],
+      "auteur": "Rupeshpatil12293",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drop_in_slow_motion.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Drop_in_slow_motion.jpg/1280px-Drop_in_slow_motion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:0005 Casa de Santos Dumont.JPG",
+      "description": "Santos Dumont's House : Shower and domestic boiler",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix AV150",
+        "Showers",
+        "License migration redundant",
+        "Self-published work",
+        "Domestic boilers",
+        "Brazil photographs taken on 2011-05-21",
+        "Interior of Museu Casa de Santos Dumont"
+      ],
+      "auteur": "Eugenio Hansen, OFS",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0005_Casa_de_Santos_Dumont.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/0005_Casa_de_Santos_Dumont.JPG/1280px-0005_Casa_de_Santos_Dumont.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3216,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chrome (3004182709).jpg",
+      "description": "This is my new shower head. It is a bit on the weak side, but the coverage and flow are excellent. There used to be a fancy system with a shower head, two body sprays, and a handshower. None of them worked well, but the handshower worked okay as a shower head. It was very difficult to remove because everything had been tightened down too much. One of the pipes even crushed as I tried to remove it from the wall. Only a lot of filing and drilling saved me there. Sunnyvale, CA",
+      "categories": [
+        "Shower heads",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "John Loo from Sunnyvale, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chrome_(3004182709).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Chrome_%283004182709%29.jpg/1280px-Chrome_%283004182709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Banaue Philippines Combined-toilet-and-shower-01.jpg",
+      "description": "Banaue, Philippines: Typical combined toilet and shower room in the Philippines, sometimes also referred as \"elephant shower\"",
+      "categories": [
+        "Taken with Sony DSLR-A700",
+        "Showers",
+        "Banaue",
+        "Self-published work",
+        "Information field template with formatting",
+        "Toilets in the Philippines",
+        "Images by Cccefalon",
+        "Files with coordinates missing SDC location of creation",
+        "Bathrooms in the 2000s",
+        "Philippines photographs taken on 2008-11-08",
+        "Toilets in the 2000s",
+        "Images of the Philippines by User:Cccefalon"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Combined-toilet-and-shower-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Banaue_Philippines_Combined-toilet-and-shower-01.jpg/1280px-Banaue_Philippines_Combined-toilet-and-shower-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3161,
+      "hauteur": 2443
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:KMM PFL 3rd St bathroom shower water pipe n metal shelves August 2021 SS2.jpg",
+      "description": "KMM PFL 3rd St in August 2021",
+      "categories": [
+        "Water pipes in China",
+        "Shelves in China",
+        "August 2021 in China",
+        "Residential buildings",
+        "China photographs taken on 2021-08-15",
+        "Shower heads",
+        "Showers in China",
+        "Wire shelving",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "ZHANG MIANS 2021",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:KMM_PFL_3rd_St_bathroom_shower_water_pipe_n_metal_shelves_August_2021_SS2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/KMM_PFL_3rd_St_bathroom_shower_water_pipe_n_metal_shelves_August_2021_SS2.jpg/1280px-KMM_PFL_3rd_St_bathroom_shower_water_pipe_n_metal_shelves_August_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3096,
+      "hauteur": 4128
+    }
+  ]
+}

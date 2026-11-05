@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "porte-persiennee",
+    "terme": "la porte persiennée",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte dont le vantail est garni de lames inclinées qui laissent passer l'air, courante sur les placards et locaux techniques.",
+    "priorite": 3,
+    "requetes": [
+      "louvered door",
+      "porte persiennée",
+      "louvre door"
+    ],
+    "incompatibles": [
+      "porte",
+      "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Louvered shutters",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dubrovnik, fachadas 02.jpg",
+      "description": "A façade. Dubrovnik, Dubrovnik-Neretva, Dalmatia, Croatia",
+      "categories": [
+        "Self-published work",
+        "Facades in Croatia",
+        "Shutters in Croatia",
+        "Photographs by LBM1948",
+        "Louvered shutters",
+        "Windows in Dubrovnik"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dubrovnik,_fachadas_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Dubrovnik%2C_fachadas_02.jpg/1280px-Dubrovnik%2C_fachadas_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4074,
+      "hauteur": 4157
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20140814 BozenBolzanoSuedTirol DoorDetail DSC02169 PtrQs.jpg",
+      "description": "Details of a door in Bolzano, South Tyrol/Italy",
+      "categories": [
+        "Doors",
+        "Taken with Sony DSLR-A900",
+        "Self-published work",
+        "Files by User:PtrQs",
+        "Photographs taken with Minolta AF 17-35mm F3.5",
+        "No QIC by usr:PtrQs"
+      ],
+      "auteur": "PtrQs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20140814_BozenBolzanoSuedTirol_DoorDetail_DSC02169_PtrQs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/20140814_BozenBolzanoSuedTirol_DoorDetail_DSC02169_PtrQs.jpg/1280px-20140814_BozenBolzanoSuedTirol_DoorDetail_DSC02169_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3741,
+      "hauteur": 5612
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dubrovnik, fachadas 01.jpg",
+      "description": "A façade. Dubrovnik, Dubrovnik-Neretva, Dalmatia, Croatia",
+      "categories": [
+        "Self-published work",
+        "Facades in Croatia",
+        "Shutters in Croatia",
+        "6 windows",
+        "Green window shutters",
+        "Photographs by LBM1948",
+        "Square windows",
+        "Louvered shutters",
+        "2x3 architectural elements",
+        "Windows in Dubrovnik"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dubrovnik,_fachadas_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dubrovnik%2C_fachadas_01.jpg/1280px-Dubrovnik%2C_fachadas_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4268,
+      "hauteur": 2744
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2025-03-12 Castel Nuovo Entrance Door Right.jpg",
+      "description": "ナポリ ヌオーヴォ城",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "C1815",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-12_Castel_Nuovo_Entrance_Door_Right.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2025-03-12_Castel_Nuovo_Entrance_Door_Right.jpg/1280px-2025-03-12_Castel_Nuovo_Entrance_Door_Right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Persiane alla genovese.jpg",
+      "description": "Green modern Genoese shutters",
+      "categories": [
+        "CC-Zero",
+        "Green window shutters",
+        "Images from Pxhere",
+        "Genoese shutters",
+        "Louvered shutters"
+      ],
+      "auteur": "pxhere",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Persiane_alla_genovese.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Persiane_alla_genovese.jpg/1280px-Persiane_alla_genovese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 5616
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Porec - panoramio (10).jpg",
+      "description": "Porec",
+      "categories": [
+        "Buildings in Poreč",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Windows in Croatia",
+        "Flowers of Croatia",
+        "Panoramio images reviewed by trusted users",
+        "Window shutters in Croatia",
+        "Photos from Panoramio",
+        "Potted plants in Croatia",
+        "Files with coordinates missing SDC location of creation",
+        "Croatia photographs taken on 2011-09-13",
+        "White window shutters",
+        "Unidentified Pelargonium",
+        "Plants at windows",
+        "Louvered shutters",
+        "Photos from Panoramio ID 2900405"
+      ],
+      "auteur": "Tanya Dedyukhina",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Porec_-_panoramio_(10).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Porec_-_panoramio_%2810%29.jpg/1280px-Porec_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

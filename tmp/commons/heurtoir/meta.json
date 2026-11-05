@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "heurtoir",
+    "terme": "le heurtoir",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Anneau ou marteau métallique fixé sur une porte d'entrée, que l'on frappe pour s'annoncer.",
+    "priorite": 3,
+    "requetes": [
+      "door knocker",
+      "heurtoir porte",
+      "incategory:\"Door knockers\""
+    ],
+    "incompatibles": [
+      "porte-d-entree"
+    ],
+    "categoriesCommons": [
+      "Category:Door knockers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Heurtoir - Animal - Hibou.jpg",
+      "description": "Heurtoir - Animal - Hibou",
+      "categories": [
+        "CC-Zero",
+        "Door knockers",
+        "Self-published work"
+      ],
+      "auteur": "René Hourdry",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Heurtoir_-_Animal_-_Hibou.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Heurtoir_-_Animal_-_Hibou.jpg/1280px-Heurtoir_-_Animal_-_Hibou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2206,
+      "hauteur": 1526
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20220523.Door knockers.-07.jpg",
+      "description": "Door knockers, Hausportal: Türklopfer in Weymouth, Dorset",
+      "categories": [
+        "Door knockers",
+        "Weymouth, Dorset",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 3° W)",
+        "Photos by User:Bybbisch94/2022"
+      ],
+      "auteur": "Bybbisch94, Christian Gebhardt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20220523.Door_knockers.-07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/20220523.Door_knockers.-07.jpg/1280px-20220523.Door_knockers.-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 8000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:20220523.Door knockers.-12.jpg",
+      "description": "Door knockers, Hausportal: Türklopfer in Weymouth, Dorset",
+      "categories": [
+        "Door knockers",
+        "Weymouth, Dorset",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 3° W)",
+        "Photos by User:Bybbisch94/2022"
+      ],
+      "auteur": "Bybbisch94, Christian Gebhardt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20220523.Door_knockers.-12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/20220523.Door_knockers.-12.jpg/1280px-20220523.Door_knockers.-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 8000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:El juego de la (in)diferencia the play of (in)difference (5055120400).jpg",
+      "description": "el juego de la (in)diferencia / the play of (in)difference",
+      "categories": [
+        "Door knockers",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "bachmont",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:El_juego_de_la_(in)diferencia_the_play_of_(in)difference_(5055120400).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/El_juego_de_la_%28in%29diferencia_the_play_of_%28in%29difference_%285055120400%29.jpg/1280px-El_juego_de_la_%28in%29diferencia_the_play_of_%28in%29difference_%285055120400%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1895,
+      "hauteur": 1895
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Door knocker (AM 647668).jpg",
+      "description": "Door knocker, metal ring with diamond shaped metal attachment",
+      "categories": [
+        "Door knockers",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Unknown date",
+        "Template Unknown (author)"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_knocker_(AM_647668).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Door_knocker_%28AM_647668%29.jpg/1280px-Door_knocker_%28AM_647668%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2010,
+      "hauteur": 1362
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Door knocker from Cairo, Egypt, c. 1880, copper alloy and silver, HAA.JPG",
+      "description": "Door knocker from Cairo, Egypt, c. 1880, copper alloy and silver, Honolulu Academy of Arts (long-term loan from the Doris Duke Foundation for Islamic Art)",
+      "categories": [
+        "CC-Zero",
+        "Door knockers",
+        "1880 in Egypt",
+        "2011 photographs",
+        "Self-published work",
+        "Crafts of Egypt",
+        "Coppersmiths from Egypt",
+        "Art of Egypt in the Honolulu Museum of Art",
+        "Metalwork in the Doris Duke Foundation for Islamic Art",
+        "Islamic metalwork in the Honolulu Museum of Art"
+      ],
+      "auteur": "Hiart",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_knocker_from_Cairo,_Egypt,_c._1880,_copper_alloy_and_silver,_HAA.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Door_knocker_from_Cairo%2C_Egypt%2C_c._1880%2C_copper_alloy_and_silver%2C_HAA.JPG/1280px-Door_knocker_from_Cairo%2C_Egypt%2C_c._1880%2C_copper_alloy_and_silver%2C_HAA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2220,
+      "hauteur": 2585
+    }
+  ]
+}

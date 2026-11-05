@@ -1,0 +1,83 @@
+{
+  "terme": {
+    "id": "dalle-de-moquette",
+    "terme": "la dalle de moquette",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Carré de moquette, souvent de 50 × 50 cm, posé à joints serrés dans les bureaux.",
+    "priorite": 3,
+    "requetes": [
+      "carpet tiles office",
+      "dalles de moquette",
+      "modular carpet tiles"
+    ],
+    "incompatibles": [
+      "moquette"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1980 - Lehigh Valley Mall Cinemas - 5 Jul MC - Allentown PA.jpg",
+      "description": "Lehigh Valley Mall Cinemas",
+      "categories": [
+        "Newspaper advertising in Allentown, Pennsylvania",
+        "PD US no notice 1989",
+        "Allentown, Pennsylvania in the 1980s",
+        "PD-US missing SDC copyright status",
+        "Lehigh Valley Mall Cinema, Allentown, Pennsylvania"
+      ],
+      "auteur": "Self Scanned",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:1980_-_Lehigh_Valley_Mall_Cinemas_-_5_Jul_MC_-_Allentown_PA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/1980_-_Lehigh_Valley_Mall_Cinemas_-_5_Jul_MC_-_Allentown_PA.jpg/1280px-1980_-_Lehigh_Valley_Mall_Cinemas_-_5_Jul_MC_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1881,
+      "hauteur": 3041
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Hans Holbein the Younger - The Ambassadors - Google Art Project-x3-y2.jpg",
+      "description": "Le double portrait de Jean de Dinteville et Georges de Selve est célèbre pour contenir, au premier plan, une spectaculaire anamorphose évoquant un os de seiche qui se révèle, depuis un point de vue oblique, être un crâne humain.",
+      "categories": [
+        "Pages with non-numeric formatnum arguments",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "CC-PD-Mark",
+        "Artworks with accession number from Wikidata",
+        "Tile set of The Ambassadors",
+        "Artworks digital representation of 2D work",
+        "Files from Google Arts & Culture"
+      ],
+      "auteur": "Hans Holbein le Jeune",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project-x3-y2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project-x3-y2.jpg/1280px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project-x3-y2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1354,
+      "hauteur": 29696
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Hans Holbein the Younger - The Ambassadors - Google Art Project-x3-y0.jpg",
+      "description": "Le double portrait de Jean de Dinteville et Georges de Selve est célèbre pour contenir, au premier plan, une spectaculaire anamorphose évoquant un os de seiche qui se révèle, depuis un point de vue oblique, être un crâne humain.",
+      "categories": [
+        "Pages with non-numeric formatnum arguments",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "CC-PD-Mark",
+        "Artworks with accession number from Wikidata",
+        "Tile set of The Ambassadors",
+        "Artworks digital representation of 2D work",
+        "Files from Google Arts & Culture"
+      ],
+      "auteur": "Hans Holbein le Jeune",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project-x3-y0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project-x3-y0.jpg/1280px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project-x3-y0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1354,
+      "hauteur": 29696
+    }
+  ]
+}

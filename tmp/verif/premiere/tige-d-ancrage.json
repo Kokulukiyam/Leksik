@@ -1,0 +1,53 @@
+{
+  "termId": "tige-d-ancrage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Scellé de conteneur jaune sur une pièce d'aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Profilé en I galvanisé couché sur une plaque avec deux écrous, dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tige scellée dans du béton, scène peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Boulons, rondelles et tige filetée sur une planche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quincaillerie en vrac, pas un ancrage en place."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Boîte de vis et boulons assortis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vrac de quincaillerie."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cheville d'ancrage à expansion avec écrou posée sur un fond granuleux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cheville mécanique isolée, pas une tige scellée supportant une platine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ancre de façade en fer sur un mur de ruelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "C'est une ancre de façade, pas une tige d'ancrage."
+    }
+  ]
+}

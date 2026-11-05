@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "arabesque",
+    "terme": "l'arabesque",
+    "categorie": "Ornement",
+    "definition": "Ornement fait d'entrelacs de lignes courbes et de motifs végétaux stylisés.",
+    "priorite": 3,
+    "requetes": [
+      "arabesque ornament",
+      "islamic arabesque carving",
+      "arabesque"
+    ],
+    "incompatibles": [
+      "rinceau",
+      "zellige"
+    ],
+    "categoriesCommons": [
+      "Category:Islamic geometric patterns"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Aramgah-e Shah-e Cheragh (21159066835).jpg",
+      "description": "intricate work",
+      "categories": [
+        "Tiles in Iran",
+        "Shah Cheragh",
+        "Islamic geometric patterns",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "s1ingshot from Berlin, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aramgah-e_Shah-e_Cheragh_(21159066835).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Aramgah-e_Shah-e_Cheragh_%2821159066835%29.jpg/1280px-Aramgah-e_Shah-e_Cheragh_%2821159066835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5280,
+      "hauteur": 2938
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Armenian Quarter P1130541.JPG",
+      "description": "Armenian inscriptions in Jerusalem. the Armenian Quarter, the Old City, Jerusalem",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ8",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Islamic geometric patterns",
+        "License migration redundant",
+        "Self-published work",
+        "Islamic plaster sculpture",
+        "Needing transcription (hy)",
+        "Photographs by Deror avi in Armenian Quarter",
+        "Armenian inscriptions in Jerusalem",
+        "Courtyard of the Monastery of St. James, Jerusalem",
+        "Elef Milim - The Armenian Quarter"
+      ],
+      "auteur": "Deror Avi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armenian_Quarter_P1130541.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Armenian_Quarter_P1130541.JPG/1280px-Armenian_Quarter_P1130541.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bujará, Bolo Hauz 6.jpg",
+      "description": "Coffered ceiling of the Bolo Hawz loggia . Bukhara, Uzbekistan",
+      "categories": [
+        "Islamic geometric patterns",
+        "Self-published work",
+        "Coffered ceilings in Uzbekistan",
+        "Photographs by LBM1948",
+        "Elements of the Bolo Haouz Mosque"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bujar%C3%A1,_Bolo_Hauz_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bujar%C3%A1%2C_Bolo_Hauz_6.jpg/1280px-Bujar%C3%A1%2C_Bolo_Hauz_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3852,
+      "hauteur": 2812
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bujará, Po-i-Kalyan 08.jpg",
+      "description": "Ornamentation of the main entrance; Mir-i-Arab madrasa; Po-i-Kalyan ensemble. Bukhara, Uzbekistan",
+      "categories": [
+        "Mir-i-Arab madrasa",
+        "Islamic geometric patterns",
+        "Self-published work",
+        "Islamic mosaics",
+        "Decorated tiles in Uzbekistan",
+        "Photographs by LBM1948",
+        "Uzbekistan photographs taken on 2011-04-23",
+        "Blue, white, yellow in architecture",
+        "Arabic inscriptions in Bukhara",
+        "Decorative tile patterns",
+        "Arabic calligraphy in tiles"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bujar%C3%A1,_Po-i-Kalyan_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bujar%C3%A1%2C_Po-i-Kalyan_08.jpg/1280px-Bujar%C3%A1%2C_Po-i-Kalyan_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2712,
+      "hauteur": 2772
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A Manuscript of Five Sections of a Qur'an MET sf1982-120-2-frontispiece.jpg",
+      "description": "Section from a non-illustrated manuscript; Codices",
+      "categories": [
+        "CC-Zero",
+        "Files with no machine-readable author",
+        "Islamic geometric patterns",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "George Blumenthal donations to the Metropolitan Museum of Art",
+        "Gift of George Blumenthal",
+        "Qur'an manuscripts in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Manuscript_of_Five_Sections_of_a_Qur%27an_MET_sf1982-120-2-frontispiece.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/A_Manuscript_of_Five_Sections_of_a_Qur%27an_MET_sf1982-120-2-frontispiece.jpg/1280px-A_Manuscript_of_Five_Sections_of_a_Qur%27an_MET_sf1982-120-2-frontispiece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1290,
+      "hauteur": 878
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bujará, Bolo Hauz 7.jpg",
+      "description": "Coffered ceiling of the Bolo Hawz loggia . Bukhara, Uzbekistan",
+      "categories": [
+        "Islamic geometric patterns",
+        "Self-published work",
+        "Colorful ceilings",
+        "Coffered ceilings in Uzbekistan",
+        "Photographs by LBM1948",
+        "Architecture inspired by mathematics"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bujar%C3%A1,_Bolo_Hauz_7.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bujar%C3%A1%2C_Bolo_Hauz_7.jpg/1280px-Bujar%C3%A1%2C_Bolo_Hauz_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4120,
+      "hauteur": 2848
+    }
+  ]
+}

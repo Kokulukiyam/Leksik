@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "ancre",
+    "terme": "l'ancre",
+    "categorie": "Structure",
+    "definition": "Pièce de fer en forme de S, de X ou de barre, fixée sur une façade au bout d'un tirant pour retenir le mur.",
+    "priorite": 3,
+    "requetes": [
+      "wall anchor plate",
+      "ancre de façade",
+      "wall tie plate S shaped"
+    ],
+    "incompatibles": [
+      "tirant"
+    ],
+    "categoriesCommons": [
+      "Category:Wall anchors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Listed rectory, wall anchor, Végardó, 2020 Sárospatak.jpg",
+      "description": ": Greek Catholic rectory, facade detail, wall anchor. - 10 Széchenyi Street, Végardó neighborhood, Sárospatak , Borsod-Abaúj-Zemplén County , Hungary .",
+      "categories": [
+        "Wall anchors",
+        "Self-published work",
+        "Building ornaments in Hungary",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "August 2020 Hungary photographs",
+        "Görögkatolikus paplak (Sárospatak)",
+        "2020 in Sárospatak"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Listed_rectory,_wall_anchor,_V%C3%A9gard%C3%B3,_2020_S%C3%A1rospatak.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Listed_rectory%2C_wall_anchor%2C_V%C3%A9gard%C3%B3%2C_2020_S%C3%A1rospatak.jpg/1280px-Listed_rectory%2C_wall_anchor%2C_V%C3%A9gard%C3%B3%2C_2020_S%C3%A1rospatak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1291,
+      "hauteur": 1721
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Astrup Kirke 06 ies.jpg",
+      "description": "Astrup Kirke, Søvej 3, Astrup 9510 Arden, Mariagerfjord Kommune, Denmark",
+      "categories": [
+        "GFDL",
+        "Taken with Ricoh Caplio G4",
+        "Wall anchors",
+        "Astrup Kirke (Mariagerfjord Kommune)",
+        "License migration redundant",
+        "Self-published work",
+        "Fleur-de-lis in metal fences"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Astrup_Kirke_06_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Astrup_Kirke_06_ies.jpg/1280px-Astrup_Kirke_06_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Church of the Saviour, Koryazhma 25.09.16 (09).jpg",
+      "description": "Церковь Спаса Нерукотворного Образа (Спасская церковь)",
+      "categories": [
+        "CC-Zero",
+        "Wall anchors",
+        "Self-published work",
+        "Church of the Saviour, Koryazhma"
+      ],
+      "auteur": "Georg Pik",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_the_Saviour,_Koryazhma_25.09.16_(09).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Church_of_the_Saviour%2C_Koryazhma_25.09.16_%2809%29.jpg/1280px-Church_of_the_Saviour%2C_Koryazhma_25.09.16_%2809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Banon 802.jpg",
+      "description": "Banon, département des Alpes-de-Haute-Provence (France). Porte en plein cintre à bretèche par laquelle on accède au vieux village",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Wall anchors",
+        "License migration redundant",
+        "Portail féodal de Banon",
+        "Low rise stairs",
+        "Self-published work",
+        "Stair ramps in France",
+        "Metallic crosses in Alpes-de-Haute-Provence",
+        "Machicolations in Alpes-de-Haute-Provence",
+        "Stairways in Alpes-de-Haute-Provence",
+        "Brettices in France",
+        "Arch portals in France"
+      ],
+      "auteur": "Michel wal",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banon_802.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Banon_802.jpg/1280px-Banon_802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Kirche, Fenster und Maueranker, 2023 Ipolytölgyes.jpg",
+      "description": "Christ the King church. Built in 1794. Parish church. Late Baroque. Copf (Mid-eastern European late Baroque) main altar. East side entry formerly there was west side, in around 2020 partly opened the west entry. - Kossuth Lajos Street, Ipolytölgyes , Pest County , Hungary .",
+      "categories": [
+        "Wall anchors",
+        "Self-published work",
+        "May 2023 Hungary photographs",
+        "Church windows in Hungary",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Roman Catholic Church in Ipolytölgyes"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kirche,_Fenster_und_Maueranker,_2023_Ipolyt%C3%B6lgyes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche%2C_Fenster_und_Maueranker%2C_2023_Ipolyt%C3%B6lgyes.jpg/1280px-Kirche%2C_Fenster_und_Maueranker%2C_2023_Ipolyt%C3%B6lgyes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ancre et tirant d'un dispositif de chaînage.jpg",
+      "description": "Chaînage métallique des murs en pierre d'une maison ancienne en Touraine (France) avec tirant et ancre.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot G3",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Wall anchors",
+        "Houses in Indre-et-Loire",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "DocteurCosmos",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancre_et_tirant_d%27un_dispositif_de_cha%C3%AEnage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ancre_et_tirant_d%27un_dispositif_de_cha%C3%AEnage.jpg/1280px-Ancre_et_tirant_d%27un_dispositif_de_cha%C3%AEnage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    }
+  ]
+}

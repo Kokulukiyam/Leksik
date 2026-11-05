@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "volet-pliant",
+    "terme": "le volet pliant",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Volet en plusieurs feuilles articulées qui se replient dans l'épaisseur du tableau de la baie.",
+    "priorite": 3,
+    "requetes": [
+      "folding shutters",
+      "volets pliants",
+      "bifold shutters window"
+    ],
+    "incompatibles": [
+      "volet",
+      "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fredrikshalds teater, detalj vinduslem.jpg",
+      "description": "Fredrikshalds teater, Halden, oppført 1838, arkitekt Balthazar Nicolai Garben",
+      "categories": [
+        "Window shutters",
+        "Fredrikshalds teater",
+        "Self-published work",
+        "Windows in Norway",
+        "Norway photographs taken on 2014-08-06"
+      ],
+      "auteur": "Apple farmer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fredrikshalds_teater,_detalj_vinduslem.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Fredrikshalds_teater%2C_detalj_vinduslem.jpg/1280px-Fredrikshalds_teater%2C_detalj_vinduslem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1891,
+      "hauteur": 2844
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:BS VerwGericht LS Klappe.JPG",
+      "description": "Protective window shutters at a court building in Brunswick, Germany . During the 1930ies many cellars serving as air raid shelter were equipped with metal hatches and window protections like these as a protection against shrapnel and debris.",
+      "categories": [
+        "Window shutters",
+        "Sozial- und Verwaltungsgericht Braunschweig",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (52° N, 10° E)",
+        "Window blast shutters in Germany"
+      ],
+      "auteur": "TeWeBs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BS_VerwGericht_LS_Klappe.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/BS_VerwGericht_LS_Klappe.JPG/1280px-BS_VerwGericht_LS_Klappe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4352,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bahia Palace sunlit window.jpg",
+      "description": "Sunlight illuminating an ornate yellow metal window grille at Bahia Palace in Marrakech, Morocco, surrounded by painted wooden shutters and traditional geometric floor tiles",
+      "categories": [
+        "Zellij",
+        "Window shutters",
+        "Cultural heritage monuments in Morocco",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "Tiles in Morocco",
+        "Uploaded via Campaign:wlm-ma",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC copyright license",
+        "Images from Wiki Loves Monuments missing SDC copyright status",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments 2026 in Morocco"
+      ],
+      "auteur": "SafiaMens",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bahia_Palace_sunlit_window.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Bahia_Palace_sunlit_window.jpg/1280px-Bahia_Palace_sunlit_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3738,
+      "hauteur": 4986
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Brick building with shutters (Unsplash).jpg",
+      "description": "mvp 2016-03-15",
+      "categories": [
+        "CC-Zero",
+        "Window shutters",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "mvp mvp",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_building_with_shutters_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Brick_building_with_shutters_%28Unsplash%29.jpg/1280px-Brick_building_with_shutters_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3357,
+      "hauteur": 5128
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Kableshkov House-6.JPG",
+      "description": "Maison Kableshkov, à Koprivchtitsa (Bulgarie).",
+      "categories": [
+        "Taken with Nikon Coolpix 4600",
+        "Kableshkov House",
+        "Window shutters",
+        "Self-published work",
+        "PD-self",
+        "Photos by TwoWings (PD-self)"
+      ],
+      "auteur": "TwoWings",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kableshkov_House-6.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kableshkov_House-6.JPG/1280px-Kableshkov_House-6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Balintore Castle.JPG",
+      "description": "Balintore Castle, Angus, Scotland",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A710 IS",
+        "Window shutters",
+        "Balintore Castle",
+        "License migration redundant",
+        "Self-published work",
+        "September 2008 in Scotland",
+        "United Kingdom photographs taken on 2008-09-18"
+      ],
+      "auteur": "User:Jonathan Oldenbuck",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balintore_Castle.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Balintore_Castle.JPG/1280px-Balintore_Castle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    }
+  ]
+}

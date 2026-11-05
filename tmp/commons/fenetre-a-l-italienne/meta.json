@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "fenetre-a-l-italienne",
+    "terme": "la fenêtre à l'italienne",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fenêtre dont le vantail s'ouvre vers l'extérieur en basculant par le bas, articulé en partie haute.",
+    "priorite": 3,
+    "requetes": [
+      "awning window open",
+      "fenêtre à l'italienne",
+      "top hung window open outward"
+    ],
+    "incompatibles": [
+      "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Awning windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Green roof at Fundação Cásper Líbero 10.jpg",
+      "description": "Green roof at Fundação Cásper Líbero, at Avenida Paulista, in São Paulo",
+      "categories": [
+        "Images with annotations",
+        "Green roof at Edifício Gazeta",
+        "Self-published work",
+        "Wooden benches",
+        "Files with coordinates missing SDC location of creation",
+        "December 2017 in São Paulo",
+        "Brazil photographs taken on 2017-12-13",
+        "Park benches in São Paulo (state)",
+        "Windows in São Paulo",
+        "Unidentified Philodendron",
+        "Awning windows",
+        "Vertical gardens in São Paulo (city)",
+        "Edifício Morumby"
+      ],
+      "auteur": "Joalpe",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Green_roof_at_Funda%C3%A7%C3%A3o_C%C3%A1sper_L%C3%ADbero_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Green_roof_at_Funda%C3%A7%C3%A3o_C%C3%A1sper_L%C3%ADbero_10.jpg/1280px-Green_roof_at_Funda%C3%A7%C3%A3o_C%C3%A1sper_L%C3%ADbero_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 2322
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:24 Windows (92455263).jpeg",
+      "description": "500px provided description: 24 Windows [#windows]",
+      "categories": [
+        "Windows",
+        "Images with watermarks",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Francesca Capochiani",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:24_Windows_(92455263).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/24_Windows_%2892455263%29.jpeg/1280px-24_Windows_%2892455263%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1530
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Wien Hofburg Reichkanzleitrakt 2009 PF ed 20091007 001.JPG",
+      "description": "Reichskanzleitrakt Vienna, Wien",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Reichskanzleitrakt",
+        "Windows in Vienna",
+        "Window headers",
+        "Awning windows"
+      ],
+      "auteur": "Politikaner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wien_Hofburg_Reichkanzleitrakt_2009_PF_ed_20091007_001.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Wien_Hofburg_Reichkanzleitrakt_2009_PF_ed_20091007_001.JPG/1280px-Wien_Hofburg_Reichkanzleitrakt_2009_PF_ed_20091007_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4272
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:500px photo (105270455).jpeg",
+      "description": "500px provided description: Img 0840 Jpg [#building ,#haus ,#h?tte]",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Elektroll",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(105270455).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/500px_photo_%28105270455%29.jpeg/1280px-500px_photo_%28105270455%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1364,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:雑誌の立 (309473969).jpg",
+      "description": "立ち読み禁止？ 里 珈",
+      "categories": [
+        "Domesticated ducks",
+        "Taken with Fujifilm FinePix F700",
+        "Wooden buildings in Japan",
+        "Pets in Japan",
+        "Wooden facades",
+        "Flickr images reviewed by FlickreviewR",
+        "Prohibition signs in Japan",
+        "Kanji signs",
+        "Newspaper stands in Japan",
+        "High-visibility orange",
+        "Flowerpots in Japan",
+        "Birds of Japan (captive)",
+        "Animals in pottery",
+        "Wire racks",
+        "Awning windows",
+        "Bookshop magazine shelves in Japan",
+        "Semi-open (below)",
+        "Protruding animals",
+        "Manuscript shop signs in Japan"
+      ],
+      "auteur": "kurisuuu",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E9%9B%91%E8%AA%8C%E3%81%AE%E7%AB%8B_(309473969).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%E9%9B%91%E8%AA%8C%E3%81%AE%E7%AB%8B_%28309473969%29.jpg/960px-%E9%9B%91%E8%AA%8C%E3%81%AE%E7%AB%8B_%28309473969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 960,
+      "hauteur": 1280
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A cozy corner features a stack of vintage books.jpg",
+      "description": "A cozy corner features a stack of vintage books resting by a window. Soft natural light filters in, creating a warm atmosphere perfect for reading.",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Old books"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_cozy_corner_features_a_stack_of_vintage_books.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/A_cozy_corner_features_a_stack_of_vintage_books.jpg/1280px-A_cozy_corner_features_a_stack_of_vintage_books.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5414,
+      "hauteur": 3614
+    }
+  ]
+}

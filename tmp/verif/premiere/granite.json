@@ -1,0 +1,53 @@
+{
+  "termId": "granite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Montagne et glacier dans un parc national arctique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baffin, Canada",
+      "note": "Paysage, roche pas identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Parement de granit poli à gros cristaux, avec deux mains courantes inox.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Sendai, Japon",
+      "note": "Granit à gros grains nettement visible, dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade de bureau de poste avec encadrements de pierre, horloge et texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Blackrock, Irlande",
+      "note": "Texte « POST OFFICE » visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche ancienne illustrée d'échantillons de roches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Place avec bâtiment de bureaux et bancs de pierre sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Matière indistincte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grand grenier sur pilotis de pierre avec toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Poio, Espagne",
+      "note": "Structure, la pierre n'est pas lisible."
+    }
+  ]
+}

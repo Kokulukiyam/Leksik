@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "appareil-en-epi",
+    "terme": "l'appareil en épi",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Appareil de briques ou de pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre en arête de poisson.",
+    "priorite": 3,
+    "requetes": [
+      "herringbone masonry opus spicatum",
+      "appareil en épi",
+      "opus spicatum wall"
+    ],
+    "incompatibles": [
+      "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Opus spicatum"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:145 Sant Quirze de Colera, aparell irregular i d'opus spicatum.jpg",
+      "description": "Conjunt monàstic de Sant Quirze de Colera (Rabós)",
+      "categories": [
+        "Taken with Canon PowerShot G15",
+        "Opus spicatum",
+        "Monestir de Sant Quirze de Colera",
+        "Uploaded with VicuñaUploader",
+        "Self-published work",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Images from Wiki Loves Monuments 2014",
+        "Images from Wiki Loves Monuments 2014 in Spain",
+        "Files with coordinates missing SDC location of creation",
+        "All media supported by Wikimedia España in 2014",
+        "Spain photographs taken on 2014-08-24",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts"
+      ],
+      "auteur": "Enfo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:145_Sant_Quirze_de_Colera,_aparell_irregular_i_d%27opus_spicatum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/145_Sant_Quirze_de_Colera%2C_aparell_irregular_i_d%27opus_spicatum.jpg/1280px-145_Sant_Quirze_de_Colera%2C_aparell_irregular_i_d%27opus_spicatum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Herringbone stonework which usually indicates 11century construction.JPG",
+      "description": "stonewall with herringbone pattern",
+      "categories": [
+        "Taken with iPhone 4",
+        "Opus spicatum",
+        "Self-published work"
+      ],
+      "auteur": "Mlane78212",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Herringbone_stonework_which_usually_indicates_11century_construction.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Herringbone_stonework_which_usually_indicates_11century_construction.JPG/1280px-Herringbone_stonework_which_usually_indicates_11century_construction.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Evangelische Kirche Königsbach (Königsbach-Stein) Merowinger.jpg",
+      "description": "Evangelische Kirche Königsbach (Königsbach-Stein). opus spicatum",
+      "categories": [
+        "Opus spicatum",
+        "Self-published work",
+        "Evangelische Kirche Königsbach (Königsbach-Stein)",
+        "Files with coordinates missing SDC location of creation (48° N, 8° E)"
+      ],
+      "auteur": "Moleskine",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Evangelische_Kirche_K%C3%B6nigsbach_(K%C3%B6nigsbach-Stein)_Merowinger.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Evangelische_Kirche_K%C3%B6nigsbach_%28K%C3%B6nigsbach-Stein%29_Merowinger.jpg/1280px-Evangelische_Kirche_K%C3%B6nigsbach_%28K%C3%B6nigsbach-Stein%29_Merowinger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Gaeta, ex chiesa di Santa Lucia - Facciata, inserti in opus spicatum 1.jpg",
+      "description": "Inserti in opus spicatum sulla facciata.",
+      "categories": [
+        "Opus spicatum",
+        "Self-published work",
+        "Santa Lucia (Gaeta) - Facade",
+        "Santa Lucia (Gaeta) - Early medieval structures"
+      ],
+      "auteur": "Pufui PcPifpef",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gaeta,_ex_chiesa_di_Santa_Lucia_-_Facciata,_inserti_in_opus_spicatum_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Gaeta%2C_ex_chiesa_di_Santa_Lucia_-_Facciata%2C_inserti_in_opus_spicatum_1.jpg/1280px-Gaeta%2C_ex_chiesa_di_Santa_Lucia_-_Facciata%2C_inserti_in_opus_spicatum_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Franciscan Friary of Cork.jpg",
+      "description": "Franciscan Friary of Cork. The wall is mostly stretcher bond with some opus spicatum (?) and rows of sailors.",
+      "categories": [
+        "Opus spicatum",
+        "Franciscan convents",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2024-05-05",
+        "Stretcher bond in Cork"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Franciscan_Friary_of_Cork.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Franciscan_Friary_of_Cork.jpg/1280px-Franciscan_Friary_of_Cork.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2016
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Gaeta, ex chiesa di Santa Lucia - Facciata, inserti in opus spicatum 2.jpg",
+      "description": "Inserti in opus spicatum sulla facciata.",
+      "categories": [
+        "Opus spicatum",
+        "Self-published work",
+        "Santa Lucia (Gaeta) - Facade",
+        "Santa Lucia (Gaeta) - Early medieval structures"
+      ],
+      "auteur": "Pufui PcPifpef",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gaeta,_ex_chiesa_di_Santa_Lucia_-_Facciata,_inserti_in_opus_spicatum_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Gaeta%2C_ex_chiesa_di_Santa_Lucia_-_Facciata%2C_inserti_in_opus_spicatum_2.jpg/1280px-Gaeta%2C_ex_chiesa_di_Santa_Lucia_-_Facciata%2C_inserti_in_opus_spicatum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2532,
+      "hauteur": 1936
+    }
+  ]
+}

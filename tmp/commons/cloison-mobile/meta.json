@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "cloison-mobile",
+    "terme": "la cloison mobile",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Cloison faite de panneaux suspendus à un rail qui coulissent ou se replient pour diviser ou ouvrir une salle.",
+    "priorite": 3,
+    "requetes": [
+      "operable wall partition",
+      "cloison mobile salle",
+      "folding partition wall"
+    ],
+    "incompatibles": [
+      "cloison"
+    ],
+    "categoriesCommons": [
+      "Category:Folding partitions"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:CubeSpace.jpg",
+      "description": "Cubicles in a now-defunct co-working space in Portland, Oregon.",
+      "categories": [
+        "Taken with Nikon D40",
+        "2009 in Portland, Oregon",
+        "Office cubicles",
+        "Flickr images reviewed by trusted users",
+        "Offices in the United States",
+        "Building interiors in Portland, Oregon",
+        "Coworking spaces in the United States",
+        "Folding partitions"
+      ],
+      "auteur": "Asa Wilson",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CubeSpace.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/CubeSpace.jpg/1280px-CubeSpace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:SWHK male toilet Folding wooden partitions divided Urinals n Drain pipe 20120502.JPG",
+      "description": "Male toilet",
+      "categories": [
+        "Public toilets in China",
+        "Urinals in China",
+        "Taken with Ricoh R10",
+        "Self-published work",
+        "White objects",
+        "Drain pipes in Hong Kong",
+        "White ceramics in toilets",
+        "Folding partitions"
+      ],
+      "auteur": "Pincetomseaview",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:SWHK_male_toilet_Folding_wooden_partitions_divided_Urinals_n_Drain_pipe_20120502.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/SWHK_male_toilet_Folding_wooden_partitions_divided_Urinals_n_Drain_pipe_20120502.JPG/1280px-SWHK_male_toilet_Folding_wooden_partitions_divided_Urinals_n_Drain_pipe_20120502.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:KH St Elisabeth RV 2013 Aufwachraum 02.jpg",
+      "description": "Ravensburg, Krankenhaus St. Elisabeth, Aufwachraum im neuen Bettenhaus (am Tag der offenen Tür 2013)",
+      "categories": [
+        "Anaesthesia recovery",
+        "Krankenhaus St. Elisabeth Ravensburg",
+        "Self-published work",
+        "PD-self",
+        "Photos by User:AndreasPraefcke",
+        "Hospital beds in Germany",
+        "Hospital rooms",
+        "Folding partitions"
+      ],
+      "auteur": "Photo: Andreas Praefcke",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:KH_St_Elisabeth_RV_2013_Aufwachraum_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/KH_St_Elisabeth_RV_2013_Aufwachraum_02.jpg/1280px-KH_St_Elisabeth_RV_2013_Aufwachraum_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:The illustrated companion to the Latin dictionary and Greek lexicon; forming a glossary of all the words representing visible objects connected with the arts, manufactures, and every-day life of the (14598103478).jpg",
+      "description": "Identifier : illustratedcompa00rich ( find matches ) Title : The illustrated companion to the Latin dictionary and Greek lexicon; forming a glossary of all the words representing visible objects connected with the arts, manufactures, and every-day life of the Greeks and Romans, with representations of nearly two thousand objects from the antique Year : 1849 ( 1840s ) Authors : Rich, Anthony, 1803 or 1804-1891 Subjects : Classical dictionaries Publisher : London, Longmans Contributing Library : The Library of Congress Digitizing Sponsor : The Library of Congress View Book Page : Book Viewer Abo",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Media needing category review as of 22 September 2015",
+        "The illustrated companion to the Latin dictionary, and Greek lexicon",
+        "Line art without P180"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_illustrated_companion_to_the_Latin_dictionary_and_Greek_lexicon;_forming_a_glossary_of_all_the_words_representing_visible_objects_connected_with_the_arts,_manufactures,_and_every-day_life_of_the_(14598103478).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/The_illustrated_companion_to_the_Latin_dictionary_and_Greek_lexicon%3B_forming_a_glossary_of_all_the_words_representing_visible_objects_connected_with_the_arts%2C_manufactures%2C_and_every-day_life_of_the_%2814598103478%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2292,
+      "hauteur": 1648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Frischoperierte Hilfskrankenhaus Gunzenhausen 2009 30.jpg",
+      "description": "Patientenbereich für frischoperierte Patienten (Aufwachbereich) im Hilfskrankenhaus Gunzenhausen, Nov. 2009",
+      "categories": [
+        "Hilfskrankenhaus Gunzenhausen",
+        "Anaesthesia recovery",
+        "Self-published work",
+        "Hospital beds in Germany",
+        "Folding partitions"
+      ],
+      "auteur": "Kasa Fue",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Frischoperierte_Hilfskrankenhaus_Gunzenhausen_2009_30.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Frischoperierte_Hilfskrankenhaus_Gunzenhausen_2009_30.jpg/1280px-Frischoperierte_Hilfskrankenhaus_Gunzenhausen_2009_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Rootes Maidstone building.jpg",
+      "description": "Car showroom and workshops, 1938-39, by Howard and Souster. MATERIALS: steel-framed and reinforced concrete structure, walls of brick faced with reconstituted-stone blocks, now painted white. Roof of reinforced concrete and steel frame with metal sheeting. Floors of reinforced concrete with Terrazzo, rubber and grano finishing. Steel casement windows. PLAN: irregular L-shape plan with showroom, offices (now snooker club) and car storage to the west facing onto Mill Street (this block is known as Len House), and workshops and administration block to the east, facing on to Len Pond. The east blo",
+      "categories": [
+        "CC-Zero",
+        "Rootes Maidstone Kent",
+        "Flickr images reviewed by FlickreviewR 2",
+        "April 2022 in Kent",
+        "2022 in Maidstone",
+        "Files from JOHN K THORNE Flickr stream"
+      ],
+      "auteur": "John K Thorne",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rootes_Maidstone_building.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Rootes_Maidstone_building.jpg/1280px-Rootes_Maidstone_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    }
+  ]
+}

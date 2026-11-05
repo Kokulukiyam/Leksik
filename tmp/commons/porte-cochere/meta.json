@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "porte-cochere",
+    "terme": "la porte cochère",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Grande porte à deux vantaux, assez haute et large pour laisser passer une voiture vers une cour.",
+    "priorite": 3,
+    "requetes": [
+      "porte cochère",
+      "carriage entrance door",
+      "carriage door courtyard"
+    ],
+    "incompatibles": [
+      "porte-a-deux-vantaux"
+    ],
+    "categoriesCommons": [
+      "Category:Gateways",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Liberec, náměstí pod Branou.JPG",
+      "description": "Liberec IV-Perštýn, nám. Pod Branou 440/4.",
+      "categories": [
+        "Keystones in the Czech Republic",
+        "Arch windows in the Czech Republic",
+        "Oculi in the Czech Republic",
+        "Arch gates in the Czech Republic",
+        "Náměstí Pod Branou",
+        "Perštýn (Liberec)",
+        "Self-published work",
+        "Gateways",
+        "Buildings in Liberec",
+        "Gates in Liberec",
+        "Gate towers in Liberec District"
+      ],
+      "auteur": "Adam Fogl",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Liberec,_n%C3%A1m%C4%9Bst%C3%AD_pod_Branou.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Liberec%2C_n%C3%A1m%C4%9Bst%C3%AD_pod_Branou.JPG/1280px-Liberec%2C_n%C3%A1m%C4%9Bst%C3%AD_pod_Branou.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 1607
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A circular door at Kaymakli Underground City.jpg",
+      "description": "A circular door at Kaymakli Underground City",
+      "categories": [
+        "Doors",
+        "Underground City of Kaymaklı",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Slyronit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_circular_door_at_Kaymakli_Underground_City.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/A_circular_door_at_Kaymakli_Underground_City.jpg/1280px-A_circular_door_at_Kaymakli_Underground_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Train station, gateway, 2019 Kalocsa.jpg",
+      "description": ": Kalocsa train station, gateway. - Kalocsa , Bács-Kiskun County",
+      "categories": [
+        "Images with annotations",
+        "Self-published work",
+        "Toilets in Hungary",
+        "Gateways",
+        "Files with coordinates missing SDC location of creation",
+        "February 2019 Hungary photographs",
+        "Kalocsa railway station",
+        "2019 in Kalocsa",
+        "Gates in Kalocsa"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Train_station,_gateway,_2019_Kalocsa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Train_station%2C_gateway%2C_2019_Kalocsa.jpg/1280px-Train_station%2C_gateway%2C_2019_Kalocsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:5 Porta Blava02.jpg",
+      "description": "això és una prova",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Monblau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5_Porta_Blava02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/5_Porta_Blava02.jpg/1280px-5_Porta_Blava02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1912,
+      "hauteur": 1912
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dellavallejeva ulica trg brolo.jpg",
+      "description": "Łącznik między kamienicami przy placu Brolo 2 i ulicy Cankara 1 w Koprze. Wlot ulicy Dellavalle",
+      "categories": [
+        "Brolo Square",
+        "Cankarjeva ulica (Koper)",
+        "Self-published work",
+        "Gates in Slovenia",
+        "Skyways in Slovenia",
+        "Gateways",
+        "Files with coordinates missing SDC location of creation",
+        "August 2024 in Slovenia",
+        "Images by User:Panek/Slovenia",
+        "Taken with Nikon Coolpix B600"
+      ],
+      "auteur": "Panek",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dellavallejeva_ulica_trg_brolo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dellavallejeva_ulica_trg_brolo.jpg/1280px-Dellavallejeva_ulica_trg_brolo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2248,
+      "hauteur": 2208
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:9 фото Дверь в кабину машиниста.jpg",
+      "description": "Производство дверей и огнестойких перегородок для магистрального рельсового транспорта",
+      "categories": [
+        "Doors",
+        "Self-published work"
+      ],
+      "auteur": "Красноярские машиностроительные компоненты",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg/1280px-9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4736,
+      "hauteur": 3063
+    }
+  ]
+}

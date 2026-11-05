@@ -1,0 +1,58 @@
+{
+  "termId": "assemblage-boulonne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'un boulon avec rondelle sur une tôle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boulon isolé sur tôle, pas un assemblage de profilés."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Nœud de pont métallique à barres croisées, assemblé par rivets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kankakee, États-Unis",
+      "note": "Rivets plutôt que boulons, ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rendu 3D d'un boulon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image de synthèse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gousset plat boulonné reliant des tubes d'acier, boulons à écrous hexagonaux nets.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.38,
+        "largeur": 0.37,
+        "hauteur": 0.57
+      },
+      "lieu": "",
+      "note": "Plaque et écrous clairement visibles, rectangle sur la platine boulonnée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pont métallique avec grande plaque rivetée et panneau peint.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Adlikon-Ossingen, Suisse",
+      "note": "Rivets, panneau avec marquage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pièces de châssis automobile avec écrous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mécanique automobile."
+    }
+  ]
+}

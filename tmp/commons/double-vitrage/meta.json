@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "double-vitrage",
+    "terme": "le double vitrage",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Vitrage fait de deux verres séparés par une lame d'air ou de gaz, avec un intercalaire visible sur le pourtour.",
+    "priorite": 3,
+    "requetes": [
+      "double glazing unit edge",
+      "double vitrage",
+      "insulated glass unit"
+    ],
+    "incompatibles": [
+      "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Insulated glazing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fenster - Dreifachverglasung.JPG",
+      "description": "Mehrscheiben-Isolierglas-Profil.",
+      "categories": [
+        "Insulated glazing",
+        "Material profiles",
+        "Self-published work",
+        "Files by User:High Contrast"
+      ],
+      "auteur": "High Contrast",
+      "licence": "CC BY 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fenster_-_Dreifachverglasung.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Fenster_-_Dreifachverglasung.JPG/1280px-Fenster_-_Dreifachverglasung.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Eck einer Isolierglasscheibe ohne Fenster.jpg",
+      "description": "Isolierglasscheibe",
+      "categories": [
+        "Insulated glazing",
+        "Self-published work"
+      ],
+      "auteur": "HTL-Mödchen23",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eck_einer_Isolierglasscheibe_ohne_Fenster.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Eck_einer_Isolierglasscheibe_ohne_Fenster.jpg/1280px-Eck_einer_Isolierglasscheibe_ohne_Fenster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2892,
+      "hauteur": 2200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Broken window glass in apartment after break-in by firefighters due to water leak, Paris 2004 2.jpg",
+      "description": "Broken window glass in apartment after break-in by firefighters due to water leak, Paris 2004",
+      "categories": [
+        "Firefighting",
+        "CC-Zero",
+        "Windows",
+        "Glass",
+        "Insulated glazing",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2000-02-26"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_window_glass_in_apartment_after_break-in_by_firefighters_due_to_water_leak,_Paris_2004_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Broken_window_glass_in_apartment_after_break-in_by_firefighters_due_to_water_leak%2C_Paris_2004_2.jpg/960px-Broken_window_glass_in_apartment_after_break-in_by_firefighters_due_to_water_leak%2C_Paris_2004_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 960,
+      "hauteur": 1280
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:EURO 68 wooden window profile with insulated glazing 01.JPG",
+      "description": "EURO 68 wooden window profile with insulated glazing",
+      "categories": [
+        "Taken with Fujifilm FinePix S6500fd",
+        "Insulated glazing",
+        "Wooden objects",
+        "Wooden windows"
+      ],
+      "auteur": "Kozuch",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EURO_68_wooden_window_profile_with_insulated_glazing_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/EURO_68_wooden_window_profile_with_insulated_glazing_01.JPG/1280px-EURO_68_wooden_window_profile_with_insulated_glazing_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2136,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Haus Katze Sonnenschirm Köln.jpg",
+      "description": "Haus mit zwei Fenstern, davon ein mit grüner Jalousie und eins mit Katze und zugeklapptem grünen Sonnenschirm irgendwo in Köln.",
+      "categories": [
+        "April 2007 Germany photographs",
+        "GFDL",
+        "Taken with Canon EOS 300D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Insulated glazing",
+        "Self-published work",
+        "Windows in Cologne",
+        "20th-century houses in Cologne",
+        "Green umbrellas",
+        "2007 photographs of Cologne",
+        "Patio umbrellas",
+        "Vinyl window frames",
+        "Indoor cats at windows"
+      ],
+      "auteur": "Elke Wetzig ( Elya )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Haus_Katze_Sonnenschirm_K%C3%B6ln.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Haus_Katze_Sonnenschirm_K%C3%B6ln.jpg/1280px-Haus_Katze_Sonnenschirm_K%C3%B6ln.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1784,
+      "hauteur": 2550
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:EURO 68 wooden window profile with insulated glazing 02.JPG",
+      "description": "EURO 68 wooden window profile with insulated glazing",
+      "categories": [
+        "Taken with Fujifilm FinePix S6500fd",
+        "Insulated glazing",
+        "Material profiles",
+        "Wooden objects",
+        "Uploaded with Commonist",
+        "Sectioned mechanical devices",
+        "Wooden windows"
+      ],
+      "auteur": "Kozuch",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EURO_68_wooden_window_profile_with_insulated_glazing_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/EURO_68_wooden_window_profile_with_insulated_glazing_02.JPG/1280px-EURO_68_wooden_window_profile_with_insulated_glazing_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2136,
+      "hauteur": 2848
+    }
+  ]
+}

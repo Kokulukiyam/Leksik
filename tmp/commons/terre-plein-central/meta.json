@@ -1,0 +1,170 @@
+{
+  "terme": {
+    "id": "terre-plein-central",
+    "terme": "le terre-plein central",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Bande surélevée, plantée ou bétonnée, qui sépare les deux sens de circulation d'une route.",
+    "priorite": 3,
+    "requetes": [
+      "road median strip",
+      "terre-plein central",
+      "central reservation"
+    ],
+    "incompatibles": [
+      "bordure-de-trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Median strips"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Berlín, Tiergarten 2.jpg",
+      "description": "Perspective from 17th June St.; in the background, the Victory Column. Berlin, Germany",
+      "categories": [
+        "Self-published work",
+        "Photographs by LBM1948",
+        "Remote views of the Berlin Victory Column",
+        "Median strips"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Berl%C3%ADn,_Tiergarten_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Berl%C3%ADn%2C_Tiergarten_2.jpg/1280px-Berl%C3%ADn%2C_Tiergarten_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3750,
+      "hauteur": 2491
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Downtown Canandaigua, NY.jpg",
+      "description": "Downtown Canandaigua , NY, USA, from the median strip on Main Street ( NY 21 / 332 ))",
+      "categories": [
+        "Streets in New York (state)",
+        "GFDL",
+        "Taken with Nikon D3x",
+        "New York State Route 21",
+        "New York State Route 332",
+        "License migration redundant",
+        "Photographs of flags of the United States in New York (state)",
+        "Street lights in New York (state)",
+        "May 2014 in New York (state)",
+        "Clouds and blue sky in New York (state)",
+        "Self-published work",
+        "United States photographs taken on 2014-05-31",
+        "Spring in Ontario County, New York",
+        "Canandaigua Historic District",
+        "Median strips",
+        "Automobiles in motion in New York (state)",
+        "French and US flags blowing in the wind"
+      ],
+      "auteur": "Daniel Case",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Downtown_Canandaigua,_NY.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Downtown_Canandaigua%2C_NY.jpg/1280px-Downtown_Canandaigua%2C_NY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5556,
+      "hauteur": 3516
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Duncraig Glengarry median to southern end.jpg",
+      "description": "Median strip of Glengarry Drive looking south from Lennoxtown Road, Duncraig, Western Australia",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Median strips",
+        "Parks in Duncraig, Western Australia",
+        "Streets in Duncraig, Western Australia"
+      ],
+      "auteur": "Orderinchaos",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duncraig_Glengarry_median_to_southern_end.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Duncraig_Glengarry_median_to_southern_end.jpg/1280px-Duncraig_Glengarry_median_to_southern_end.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4624,
+      "hauteur": 3468
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Mittelstreifen Begruenung Darmstadt.jpg",
+      "description": "Mittelstreifen Begrünung in Darmstadt 2015",
+      "categories": [
+        "April 2015 Germany photographs",
+        "Self-published work",
+        "Images by User:Erkaha",
+        "2015 in Darmstadt",
+        "Median strips",
+        "Central reservation"
+      ],
+      "auteur": "Erkaha",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mittelstreifen_Begruenung_Darmstadt.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Mittelstreifen_Begruenung_Darmstadt.jpg/1280px-Mittelstreifen_Begruenung_Darmstadt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2480,
+      "hauteur": 2480
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Lily Pond Av Guilford St td 02.jpg",
+      "description": "Street signs in the median of Lily Pond Avenue at Guilford Street in Arrochar, Staten Island. Fort Wadsworth is in the background.",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Fort Wadsworth",
+        "Arrochar, Staten Island",
+        "Self-published work",
+        "Cycle lanes in New York City",
+        "Street lights in New York City",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2018-09-19",
+        "2018 Staten Island photographs by Tdorante10",
+        "Median strips",
+        "September 2018 in Staten Island, New York City",
+        "Avenues (landscape) in New York City",
+        "Street signs on Staten Island, New York City",
+        "Grass in New York City",
+        "Lily Pond Avenue",
+        "Photographs by Tdorante10 taken on 2018-09-19"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lily_Pond_Av_Guilford_St_td_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Lily_Pond_Av_Guilford_St_td_02.jpg/1280px-Lily_Pond_Av_Guilford_St_td_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Lily Pond Av Gatesville Ct td 01.jpg",
+      "description": "A Midtown-bound SIM6 express bus traveling north towards the Verrazano Bridge on Lily Pond Avenue at Gatesville Court in Arrochar, Staten Island. Fort Wadsworth is in the background.",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Fort Wadsworth",
+        "Arrochar, Staten Island",
+        "Buses in Staten Island, New York City",
+        "Streets in Staten Island",
+        "Self-published work",
+        "Street lights in New York City",
+        "Number 2762 on vehicles",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2018-09-19",
+        "Prevost X3-45 coaches of MTA Regional Bus Operations",
+        "SIM6 (New York City bus)",
+        "2018 Staten Island photographs by Tdorante10",
+        "Median strips",
+        "MTA Regional Bus Operations in 2018",
+        "September 2018 in Staten Island, New York City",
+        "Advertisements on buses in New York City",
+        "Avenues (landscape) in New York City",
+        "Grass in New York City",
+        "Lily Pond Avenue",
+        "Photographs by Tdorante10 taken on 2018-09-19",
+        "Dunkin' in New York City"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lily_Pond_Av_Gatesville_Ct_td_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Lily_Pond_Av_Gatesville_Ct_td_01.jpg/1280px-Lily_Pond_Av_Gatesville_Ct_td_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    }
+  ]
+}

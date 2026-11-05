@@ -1418,6 +1418,29 @@
     "priorite": 1
   },
   {
+    "id": "terrasse-accessible",
+    "terme": "la terrasse accessible",
+    "definition": "Toiture-terrasse aménagée pour circuler et séjourner, avec revêtement de sol et garde-corps.",
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "toiture-terrasse"
+    ]
+  },
+  {
+    "id": "toiture-vegetalisee",
+    "terme": "la toiture végétalisée",
+    "definition": "Toiture recouverte d'un substrat planté (sédums, herbes, arbustes) au-dessus de l'étanchéité.",
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "toiture-terrasse",
+      "toiture",
+      "terrasse-accessible",
+      "membrane-bitumineuse"
+    ]
+  },
+  {
     "id": "toit-a-deux-pans",
     "terme": "le toit à deux pans",
     "definition": "Toit formé de deux versants inclinés qui se rejoignent au faîtage, avec un pignon à chaque bout.",
@@ -1445,6 +1468,19 @@
       "versant",
       "demi-croupe",
       "toit-mansarde"
+    ]
+  },
+  {
+    "id": "toit-conique",
+    "terme": "le toit conique",
+    "definition": "Toit en forme de cône qui couvre un bâtiment ou une tour de plan circulaire.",
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "toiture",
+      "case",
+      "chaume",
+      "fleche"
     ]
   },
   {
@@ -1484,6 +1520,41 @@
     ]
   },
   {
+    "id": "tuile-mecanique",
+    "terme": "la tuile mécanique",
+    "definition": "Tuile moulée à emboîtement, munie de nervures et de tenons qui s'accrochent aux liteaux.",
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "tuile"
+    ]
+  },
+  {
+    "id": "tuile-faitiere",
+    "terme": "la tuile faîtière",
+    "definition": "Tuile arrondie ou en angle qui recouvre la ligne de faîtage.",
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "faitage",
+      "tuile",
+      "tuile-canal",
+      "tuile-mecanique",
+      "tuile-plate"
+    ]
+  },
+  {
+    "id": "verriere",
+    "terme": "la verrière",
+    "definition": "Toiture vitrée sur ossature métallique qui couvre une cour, un hall ou un passage.",
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "fenetre-de-toit",
+      "plaque-translucide"
+    ]
+  },
+  {
     "id": "descente-d-eaux-pluviales",
     "terme": "la descente d'eaux pluviales",
     "definition": "Tuyau vertical fixé sur la façade qui conduit l'eau du toit jusqu'au sol ou au réseau.",
@@ -1491,6 +1562,16 @@
     "priorite": 1,
     "incompatibles": [
       "gouttiere"
+    ]
+  },
+  {
+    "id": "crapaudine",
+    "terme": "la crapaudine",
+    "definition": "Grille bombée posée sur l'orifice d'évacuation d'une terrasse ou d'une gouttière pour arrêter les feuilles.",
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "toiture-terrasse"
     ]
   },
   {
@@ -1522,6 +1603,19 @@
     "priorite": 1
   },
   {
+    "id": "cage-d-armature",
+    "terme": "la cage d'armature",
+    "definition": "Assemblage préparé de barres longitudinales tenues par des cadres, destiné à un poteau, une poutre ou un pieu.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 2,
+    "incompatibles": [
+      "ferraillage",
+      "cadre-d-armature",
+      "etrier",
+      "epingle"
+    ]
+  },
+  {
     "id": "treillis-soude",
     "terme": "le treillis soudé",
     "definition": "Grillage de barres d'acier soudées en mailles carrées ou rectangulaires, livré en panneaux, posé dans les dalles et les dallages.",
@@ -1529,6 +1623,37 @@
     "priorite": 1,
     "incompatibles": [
       "ferraillage"
+    ]
+  },
+  {
+    "id": "cale-d-armature",
+    "terme": "la cale d'armature",
+    "definition": "Petite pièce en béton ou en plastique placée sous ou contre les armatures pour les tenir à distance du coffrage et garantir l'enrobage.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 2,
+    "incompatibles": [
+      "ferraillage"
+    ]
+  },
+  {
+    "id": "corrosion-des-armatures",
+    "terme": "la corrosion des armatures",
+    "definition": "Rouille des barres d'acier qui gonflent, font éclater le béton et apparaissent à nu, fréquente en bord de mer.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 2,
+    "incompatibles": [
+      "epaufrure"
+    ]
+  },
+  {
+    "id": "gachage",
+    "terme": "le gâchage",
+    "definition": "Mélange du ciment, du sable et de l'eau, à la pelle sur le sol ou dans une bétonnière, pour obtenir mortier ou béton.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 2,
+    "incompatibles": [
+      "mortier",
+      "betonniere"
     ]
   },
   {
@@ -1550,6 +1675,19 @@
     ]
   },
   {
+    "id": "pilier",
+    "terme": "le pilier",
+    "definition": "Support vertical massif en maçonnerie ou en béton, de section carrée ou polygonale, plus trapu qu'un poteau.",
+    "categorie": "Structure",
+    "priorite": 2,
+    "incompatibles": [
+      "poteau",
+      "colonne",
+      "pilier-de-portail",
+      "pilotis"
+    ]
+  },
+  {
     "id": "ossature-metallique",
     "terme": "l'ossature métallique",
     "definition": "Structure porteuse faite de profilés d'acier assemblés : poteaux, poutres et contreventements.",
@@ -1561,6 +1699,17 @@
       "profile-en-h",
       "charpente-metallique",
       "ferme-metallique"
+    ]
+  },
+  {
+    "id": "profile-en-h",
+    "terme": "le profilé en H",
+    "definition": "Barre d'acier dont la section a la forme d'un H, à ailes larges, comme les HEA et HEB, employée surtout en poteau.",
+    "categorie": "Structure",
+    "priorite": 2,
+    "incompatibles": [
+      "profile-en-i",
+      "poutre"
     ]
   },
   {

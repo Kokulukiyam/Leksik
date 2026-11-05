@@ -1,0 +1,155 @@
+{
+  "terme": {
+    "id": "bateau-de-trottoir",
+    "terme": "le bateau de trottoir",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Abaissement de la bordure et du trottoir qui permet aux véhicules ou aux fauteuils de passer de la chaussée au trottoir.",
+    "priorite": 3,
+    "requetes": [
+      "curb ramp",
+      "bateau de trottoir abaissé",
+      "dropped kerb"
+    ],
+    "incompatibles": [
+      "bordure-de-trottoir",
+      "trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Curb cuts",
+      "Category:Wheelchair ramps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Beast 0071.jpg",
+      "description": "This photo is of Wikis Take Manhattan goal code R13 , Curb cut .",
+      "categories": [
+        "Curb cuts",
+        "Shadow of the photographer",
+        "Images from Wikis Take Manhattan by Beast"
+      ],
+      "auteur": "This photo was taken by participant/team Beast as part of the Commons:Wikis Take Manhattan project on October 4, 2008. Ce fichier est disponible selon les termes de la licence Creative Commons Attribu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beast_0071.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Beast_0071.jpg/1280px-Beast_0071.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3280,
+      "hauteur": 2460
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:FirstBankofUS03.jpg",
+      "description": "First Bank of the United States (1797-1811), Stephen Girard’s Bank (May, 1811-1831), subsequent banks, and owned since 1955 by the National Park Service. Location: 116 South 3rd Street, Philadelphia, PA 19106. Rear (west side) of the building, with later additions removed by the NPS and a handicapped access ramp added.",
+      "categories": [
+        "Taken with HP PhotoSmart R717",
+        "Wheelchair ramps",
+        "First Bank of the United States",
+        "Self-published work",
+        "PD-self",
+        "Accessibility in Pennsylvania",
+        "Files with coordinates missing SDC location of creation",
+        "Pedestrian ramps"
+      ],
+      "auteur": "Davidt8",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:FirstBankofUS03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/FirstBankofUS03.jpg/1280px-FirstBankofUS03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 2144
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ploughed snow blocks curb cuts.jpg",
+      "description": "Main crossroads at Nordre Ringgade, Nørrebrogade and Randersvej by Nobelparken, Aarhus University. Dark blue sky and light, just before dawn, during typical commuter hours. January after overnight snow. Car lights seen in several directions. A cyclist just riding by, head down, dark clothing, wearing a helmet. The road for motorised vehicles has been cleared. The cycleway for bikes has been cleared. The snow ploughed up from the cleared road and bike path has been dumped at the side, forming a bank of snow that blocks kerb cut ramp access (curb cuts) for pedestrians on the footpaths who need t",
+      "categories": [
+        "Curb cuts",
+        "Nordre Ringgade",
+        "Snow in Aarhus",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "Snow removal in Denmark",
+        "Crossroads in Denmark",
+        "Accessibility in Denmark",
+        "Files with coordinates missing SDC location of creation",
+        "Cycling in snow",
+        "January in Aarhus"
+      ],
+      "auteur": "Ciara Ní Riain",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ploughed_snow_blocks_curb_cuts.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ploughed_snow_blocks_curb_cuts.jpg/1280px-Ploughed_snow_blocks_curb_cuts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hintta Parish Centre Oulu 20190428 03.jpg",
+      "description": "The Hintta Parish Centre in Oulu.",
+      "categories": [
+        "Taken with Canon EOS 6D",
+        "CC-Zero",
+        "Wheelchair ramps",
+        "Self-published work",
+        "Photographs by Estormiz",
+        "Files with coordinates missing SDC location of creation",
+        "Finland photographs taken on 2019-04-28",
+        "April 2019 in Oulu",
+        "Hintta Parish Centre"
+      ],
+      "auteur": "Estormiz",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hintta_Parish_Centre_Oulu_20190428_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hintta_Parish_Centre_Oulu_20190428_03.jpg/1280px-Hintta_Parish_Centre_Oulu_20190428_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2994,
+      "hauteur": 4500
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2023-07-11 Driveway east of 55 Alexander Kazbegi Avenue.jpg",
+      "description": "Driveway from Alexander Kazbegi Avenue into the courtyard east of 55 Alexander Kazbegi Avenue, Tbilisi",
+      "categories": [
+        "Curb cuts",
+        "Self-published work",
+        "Taken on missing SDC inception",
+        "Files with coordinates missing SDC location of creation",
+        "2023 in Tbilisi",
+        "Georgia (country) photographs taken on 2023-07-11",
+        "Alexander Kazbegi Avenue",
+        "Photographs by Yuri Samoylov taken on 2023-07-11",
+        "Turning boom barriers in Tbilisi",
+        "Zebra crossings in Tbilisi"
+      ],
+      "auteur": "Yuri Samoylov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-07-11_Driveway_east_of_55_Alexander_Kazbegi_Avenue.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/2023-07-11_Driveway_east_of_55_Alexander_Kazbegi_Avenue.jpg/1280px-2023-07-11_Driveway_east_of_55_Alexander_Kazbegi_Avenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1965,
+      "hauteur": 1106
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dancer bus, Busworld Europe 2023, Brussels (P1140249).jpg",
+      "description": "Dancer bus at Busworld Europe 2023",
+      "categories": [
+        "GFDL",
+        "Wheelchair ramps",
+        "License migration redundant",
+        "Dancer buses",
+        "Busworld Europe 2023 (supported by Wikimedia Deutschland)",
+        "Self-published work",
+        "Full-size buses in Belgium",
+        "CC-BY-SA-2.0+",
+        "Pictures by MB-one rejected",
+        "Bus sliding-plug doors"
+      ],
+      "auteur": "MB-one",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dancer_bus,_Busworld_Europe_2023,_Brussels_(P1140249).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dancer_bus%2C_Busworld_Europe_2023%2C_Brussels_%28P1140249%29.jpg/1280px-Dancer_bus%2C_Busworld_Europe_2023%2C_Brussels_%28P1140249%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3456
+    }
+  ]
+}

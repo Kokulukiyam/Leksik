@@ -1,0 +1,53 @@
+{
+  "termId": "mosaique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maison à étages avec portail en fer, façade crépie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cameroun",
+      "note": "Mosaïque non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol en opus sectile : cercle de marbres et triangles noirs et blancs, damier de petites tesselles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement de petits fragments de pierre assemblés, clair et dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Planche d'encyclopédie illustrée de mosaïques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure/dessin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Couloir sombre à murs et sol de petits carreaux de céramique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Sombre, peu lisible sur téléphone, mosaïque secondaire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Même maison que 01, avec texte rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cameroun",
+      "note": "Hors sujet, texte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sol antique en mosaïque de petites tesselles blanches, noires et rouges formant des feuillages, partiellement lacunaire.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Terrassa, Espagne",
+      "note": "Mosaïque évidente remplissant l'image."
+    }
+  ]
+}

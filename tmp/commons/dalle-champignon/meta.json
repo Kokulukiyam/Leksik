@@ -1,0 +1,161 @@
+{
+  "terme": {
+    "id": "dalle-champignon",
+    "terme": "la dalle champignon",
+    "categorie": "Structure",
+    "definition": "Dalle sans poutres portée par des poteaux qui s'évasent en tête comme un champignon.",
+    "priorite": 3,
+    "requetes": [
+      "mushroom column flat slab",
+      "poteau champignon",
+      "mushroom columns concrete"
+    ],
+    "incompatibles": [
+      "poteau",
+      "dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Mushroom columns",
+      "Category:Concrete slabs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Overzicht voorgevel - Heerlen - 20349660 - RCE.jpg",
+      "description": "Het Glaspaleis: Overzicht voorgevel (opmerking: Gefotografeerd voor ANWB Monumentenboek)",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Glaspaleis",
+        "Rijksmonumenten with known IDs",
+        "Buildings with addresses",
+        "Photographs by Thea van den Heuvel",
+        "Photographs uploaded by User:Vysotsky",
+        "Mushroom columns",
+        "ANWB Monumentenboek"
+      ],
+      "auteur": "Thea van den Heuvel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Overzicht_voorgevel_-_Heerlen_-_20349660_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Overzicht_voorgevel_-_Heerlen_-_20349660_-_RCE.jpg/1280px-Overzicht_voorgevel_-_Heerlen_-_20349660_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2880,
+      "hauteur": 2880
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dvořákova-Beznadějná jeskyně, 2021 (02).jpg",
+      "description": "Dvořák-Hopeless Cave, Týnčany Karst",
+      "categories": [
+        "Files by Draceane – Czechia",
+        "Concrete slabs",
+        "Uploaded with pattypan",
+        "Dvořákova-Beznadějná jeskyně",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dvo%C5%99%C3%A1kova-Beznad%C4%9Bjn%C3%A1_jeskyn%C4%9B,_2021_(02).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Dvo%C5%99%C3%A1kova-Beznad%C4%9Bjn%C3%A1_jeskyn%C4%9B%2C_2021_%2802%29.jpg/1280px-Dvo%C5%99%C3%A1kova-Beznad%C4%9Bjn%C3%A1_jeskyn%C4%9B%2C_2021_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Interieur, gebouw tijdens restauratie, doorzicht etage (zonder glazen gevels of ramen) - Heerlen - 20001061 - RCE.jpg",
+      "description": "Voormalig Glaspaleis: Interieur, gebouw tijdens restauratie, doorzicht etage (zonder glazen gevels of ramen)",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Rijksmonumenten with known IDs",
+        "Buildings with addresses",
+        "Photographs by Kris Roderburg",
+        "Mushroom columns",
+        "Glaspaleis renovation in 2001"
+      ],
+      "auteur": "Kris Roderburg",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interieur,_gebouw_tijdens_restauratie,_doorzicht_etage_(zonder_glazen_gevels_of_ramen)_-_Heerlen_-_20001061_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Interieur%2C_gebouw_tijdens_restauratie%2C_doorzicht_etage_%28zonder_glazen_gevels_of_ramen%29_-_Heerlen_-_20001061_-_RCE.jpg/1280px-Interieur%2C_gebouw_tijdens_restauratie%2C_doorzicht_etage_%28zonder_glazen_gevels_of_ramen%29_-_Heerlen_-_20001061_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3032,
+      "hauteur": 3061
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Concrete slabs (5268484415).jpg",
+      "description": "concrete slab to close the chamber opening",
+      "categories": [
+        "Concrete slabs",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in Zambia",
+        "Health in Lusaka"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_slabs_(5268484415).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Concrete_slabs_%285268484415%29.jpg/1280px-Concrete_slabs_%285268484415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:19870724030NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße 51-55/ Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Links: Faserbeton-Wetterschale der IHS Cottbus, rechts Schaumbetonaußenwandplatte der IHS Cottbus. [R19870724A07.jpg]19870724030NR.JPG(c)Blobelt",
+      "categories": [
+        "Facades in Germany",
+        "WBS 70",
+        "Concrete slabs",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Concrete panels",
+        "Flächige Feinkornbetonelemente"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2434,
+      "hauteur": 2996
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Edifício da Administração Pública – Porto Santo - SDC10637.jpg",
+      "description": "Edifício da Administração Pública – Porto Santo - edifício no Porto Santo, Portugal",
+      "categories": [
+        "Concrete slabs",
+        "Images from Wiki Loves Monuments 2019",
+        "Edifício da Administração Pública, Porto Santo",
+        "Self-published work",
+        "Gardens in Madeira",
+        "2009 in Madeira",
+        "Benches in Madeira",
+        "Cultural heritage monuments in Portugal with known IDs",
+        "Uploaded via Campaign:wlm-pt",
+        "Concrete benches in Portugal",
+        "Portugal photographs taken on 2009-09-17",
+        "Photos taken by DarwIn",
+        "Images from Wiki Loves Monuments 2019 in Portugal",
+        "Oculi in Madeira",
+        "Pergolas in Madeira",
+        "Lawns in Madeira",
+        "Bougainvillea cultivars in Madeira",
+        "Green window shutters in Madeira",
+        "Trachybasalt structures in Madeira",
+        "Images from Wiki Loves Monuments 2019 in Portugal - Madeira",
+        "Fountains in Porto Santo"
+      ],
+      "auteur": "PESP/ Wikimedia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_da_Administra%C3%A7%C3%A3o_P%C3%BAblica_%E2%80%93_Porto_Santo_-_SDC10637.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Edif%C3%ADcio_da_Administra%C3%A7%C3%A3o_P%C3%BAblica_%E2%80%93_Porto_Santo_-_SDC10637.jpg/1280px-Edif%C3%ADcio_da_Administra%C3%A7%C3%A3o_P%C3%BAblica_%E2%80%93_Porto_Santo_-_SDC10637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    }
+  ]
+}

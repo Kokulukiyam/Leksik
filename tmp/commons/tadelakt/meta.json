@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "tadelakt",
+    "terme": "le tadelakt",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Enduit marocain à la chaux, lissé et poli au galet, étanche et brillant, posé en salles d'eau.",
+    "priorite": 3,
+    "requetes": [
+      "tadelakt",
+      "tadelakt salle de bain",
+      "tadelakt plaster"
+    ],
+    "incompatibles": [
+      "beton-cire",
+      "stuc-venitien"
+    ],
+    "categoriesCommons": [
+      "Category:Tadelakt"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tadelakt shower-minoeco.JPG",
+      "description": "Tadelakt is ideal for humid areas and it can be applied onto walls, floors, washing basins and bath tabs. What makes tadelakt method unique is its ability to form a glazed and impermeable surfaces.",
+      "categories": [
+        "Taken with Sony NEX-C3",
+        "Showers",
+        "Tadelakt",
+        "Self-published work",
+        "Bathrooms in Morocco",
+        "Views from above"
+      ],
+      "auteur": "SpOne",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tadelakt_shower-minoeco.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Tadelakt_shower-minoeco.JPG/1280px-Tadelakt_shower-minoeco.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 1624
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Tadelakt-ouarzazate-morocco-1.jpg",
+      "description": "Mixing Marrakech Lime with water and yellow pigment to make Tadelakt in Riad Dar Rita, Ouarzazate, Morocco.",
+      "categories": [
+        "GFDL",
+        "Paint",
+        "Tadelakt",
+        "License migration redundant",
+        "2010 in Morocco",
+        "Self-published work",
+        "Men at work",
+        "Artisans from Morocco"
+      ],
+      "auteur": "Joaoleitao ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tadelakt-ouarzazate-morocco-1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tadelakt-ouarzazate-morocco-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 800
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Tadelakt.jpg",
+      "description": "Tadelakt wordt 'gesteend'. Bron: Eigenheym",
+      "categories": [
+        "Tadelakt",
+        "Self-published work",
+        "Artisans from Morocco"
+      ],
+      "auteur": "Eigenheym",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tadelakt.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Tadelakt.jpg/1280px-Tadelakt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tadelakt chaux aérienne.JPG",
+      "description": "tablette en tadelakt",
+      "categories": [
+        "Taken with Nikon Coolpix S3000",
+        "Tadelakt",
+        "Self-published work",
+        "Bathrooms in Morocco"
+      ],
+      "auteur": "Les styles de verone",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tadelakt_chaux_a%C3%A9rienne.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Tadelakt_chaux_a%C3%A9rienne.JPG/1280px-Tadelakt_chaux_a%C3%A9rienne.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Riad Maroc 044.JPG",
+      "description": "Riad au Maroc",
+      "categories": [
+        "Tadelakt",
+        "Self-published work",
+        "Tray tables",
+        "Riads in unidentified locations in Morocco"
+      ],
+      "auteur": "Arnaud 25",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Riad_Maroc_044.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Riad_Maroc_044.JPG/1280px-Riad_Maroc_044.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Tadelakt washbasin-minoeco.JPG",
+      "description": "Washbasins can be created from tadelakt plaster - Project of Minoeco",
+      "categories": [
+        "Taken with Sony NEX-C3",
+        "Tadelakt",
+        "Self-published work",
+        "Hand-washing sinks"
+      ],
+      "auteur": "SpOne",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tadelakt_washbasin-minoeco.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Tadelakt_washbasin-minoeco.JPG/1280px-Tadelakt_washbasin-minoeco.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 1624
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "robinet-d-incendie-arme",
+    "terme": "le robinet d'incendie armé",
+    "categorie": "Réseaux et équipements",
+    "definition": "Dévidoir mural portant un tuyau semi-rigide enroulé, raccordé en permanence au réseau d'eau, pour lutter contre le feu ; abrégé RIA.",
+    "priorite": 3,
+    "requetes": [
+      "fire hose reel",
+      "robinet d'incendie armé",
+      "fire hose reel cabinet"
+    ],
+    "categoriesCommons": [
+      "Category:Fire hose reels",
+      "Category:Fire hoses"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dodge WC-54, 1946, CCF (3).jpg",
+      "description": "Camion-citerne feux de forêts (CCF) Dodge WC-54 de 1946, de la collection « J. Faust » ; exposition de véhicules, Saint-Malo-en-Donziois, Nièvre, France.",
+      "categories": [
+        "Taken with Nikon Coolpix S7000",
+        "Wildland fire engines",
+        "Self-published work",
+        "Michelin truck tires",
+        "1946 Dodge trucks",
+        "Bourgogne-Franche-Comté photographs taken on 2019-07-21",
+        "Exposition de véhicules d'intervention des sapeurs-pompiers, Saint-Malo-en-Donziois 2019",
+        "Dodge WC-54 fire trucks",
+        "Fire hose reels",
+        "Exposition de véhicules, Saint-Malo-en-Donziois 2019 by Cjp24"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dodge_WC-54,_1946,_CCF_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Dodge_WC-54%2C_1946%2C_CCF_%283%29.jpg/1280px-Dodge_WC-54%2C_1946%2C_CCF_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Brand Wohnhaus (35862721332).jpg",
+      "description": "In der Wasserversorgung über lange Strecken werden auch Verteiler eingebaut um zusätzliche Schläuche anzukuppeln - die Gruppenkommandanten haben blaue Überwürfe - Brand eines Wohnhauses nach vermutlichem Blitzschlag in Steyregg",
+      "categories": [
+        "Donau Straße",
+        "Fire hoses",
+        "Wye appliances",
+        "Flickr images reviewed by FlickreviewR",
+        "Imported files by User:Karl Gruber/BFK Pressestelle UU",
+        "High-visibility vests in Austria",
+        "Fire incident Steyregg 2017"
+      ],
+      "auteur": "Pressestelle BFK Urfahr-Umgebung",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brand_Wohnhaus_(35862721332).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Brand_Wohnhaus_%2835862721332%29.jpg/1280px-Brand_Wohnhaus_%2835862721332%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3500,
+      "hauteur": 2333
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:At Long Island Museum 2025 039.jpg",
+      "description": "Hose Cart, 1870. US.",
+      "categories": [
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Horse-drawn fire engines in the United States",
+        "Photos by Mike Peel using an iPhone 12 Mini",
+        "Red wheels",
+        "Fire hose reels",
+        "Carriages in the Long Island Museum"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_Long_Island_Museum_2025_039.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/At_Long_Island_Museum_2025_039.jpg/1280px-At_Long_Island_Museum_2025_039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Andrey Tarkovsky with air.jpg",
+      "description": "Andery Tarkovsky filming The Mirror in Tuchkovo. The hulk of an airplane (with a working engine and propeller) is not a movie prop but an air blower used to create artificial wind.",
+      "categories": [
+        "Fire hoses",
+        "Yakovlev Yak-18",
+        "Tuchkovo",
+        "Disassembled aircraft",
+        "Films by Andrei Tarkovsky",
+        "Film sets in Russia",
+        "Mos.ru, 1974",
+        "Files uploaded by MasterRus21thCentury",
+        "Air blowers",
+        "Repurposed aircraft",
+        "Images from Moscow Main Archive",
+        "Photographs by Igor Gnevashev",
+        "Uploads by MasterRus21thCentury/Mos.ru/1974"
+      ],
+      "auteur": "Igor Gnevashev",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Andrey_Tarkovsky_with_air.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Andrey_Tarkovsky_with_air.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 871
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Fire Hose on Shipboard.JPG",
+      "description": "The fire hose on the board of the passenger motor ship Knyaz Menshikov (Russia).",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D3100",
+        "Ship parts",
+        "License migration redundant",
+        "Self-published work",
+        "Firefighting equipment in Russia",
+        "Files uploaded by Dmitry Ivanov",
+        "Knyaz Menshikov (ship, 1971)",
+        "Fire hose reels"
+      ],
+      "auteur": "Dmitry Ivanov .",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_Hose_on_Shipboard.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Fire_Hose_on_Shipboard.JPG/1280px-Fire_Hose_on_Shipboard.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3831,
+      "hauteur": 2954
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:CCF GMC CCKW 353 (3).jpg",
+      "description": "Camion-citerne feux de forêts (CCF) GMC CCKW 353. Lors du 87 e congrès départemental des sapeurs-pompiers de la Dordogne, place de la République, Mussidan, France.",
+      "categories": [
+        "Fire hoses",
+        "Self-published work",
+        "GMC CCKW 353 wildland fire engines",
+        "Congrès départemental sapeurs-pompiers Dordogne 2018 à Mussidan, véhicules d'incendie anciens",
+        "Congrès départemental 2018 des sapeurs-pompiers de la Dordogne à Mussidan by Cjp24",
+        "Uniroyal tyres"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CCF_GMC_CCKW_353_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/CCF_GMC_CCKW_353_%283%29.jpg/1280px-CCF_GMC_CCKW_353_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3344,
+      "hauteur": 2508
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "loquet",
+    "terme": "le loquet",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fermeture simple faite d'une barre pivotante qui retombe dans un crochet.",
+    "priorite": 3,
+    "requetes": [
+      "thumb latch door",
+      "loquet porte",
+      "gate latch"
+    ],
+    "incompatibles": [
+      "verrou"
+    ],
+    "categoriesCommons": [
+      "Category:Latches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A Smart camlock for meter box, vending machine, storage cabinet .jpg",
+      "description": "access and key control",
+      "categories": [
+        "Electronic locks",
+        "Locks (security devices)",
+        "Self-published work",
+        "Latches"
+      ],
+      "auteur": "Chole Wu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Smart_camlock_for_meter_box,_vending_machine,_storage_cabinet_.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/A_Smart_camlock_for_meter_box%2C_vending_machine%2C_storage_cabinet_.jpg/1280px-A_Smart_camlock_for_meter_box%2C_vending_machine%2C_storage_cabinet_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:At New York City 2024 114.jpg",
+      "description": "Paddle door latch in M Social Hotel Times Square New York",
+      "categories": [
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Midtown Manhattan in 2024",
+        "Latches",
+        "New York City photographs taken on 2024-03-04",
+        "March 2024 in Manhattan, New York City",
+        "M Social Hotel Times Square New York",
+        "Hotels in Midtown Manhattan",
+        "Photos by Mike Peel using an iPhone 12 Mini",
+        "Hotel doors",
+        "Photos by Mike Peel of New York City in 2024"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_New_York_City_2024_114.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/At_New_York_City_2024_114.jpg/1280px-At_New_York_City_2024_114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Portão - HDR (2786323566).jpg",
+      "description": "fechado.",
+      "categories": [
+        "Wrought iron in Brazil",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Latches",
+        "Photographs by Kátia Goretti Dias Vazzoller"
+      ],
+      "auteur": "Kátia Goretti Dias Vazzoller from Brazil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Port%C3%A3o_-_HDR_(2786323566).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Port%C3%A3o_-_HDR_%282786323566%29.jpg/1280px-Port%C3%A3o_-_HDR_%282786323566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2444,
+      "hauteur": 3250
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ca 1970 cabinet catch nr 560 by Hillerstorps Metallverk Hillerstorp Sweden.jpg",
+      "description": "Ca 1970 cabinet catch nr 560 by Hillerstorps Metallverk, Hillerstorp, Sweden. Approx. 3.6 x 2.9 x 1.15 cm, 8 g.",
+      "categories": [
+        "Products of Sweden",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Photographs by R. Henrik Nilsson",
+        "Latches"
+      ],
+      "auteur": "R. Henrik Nilsson",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ca_1970_cabinet_catch_nr_560_by_Hillerstorps_Metallverk_Hillerstorp_Sweden.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ca_1970_cabinet_catch_nr_560_by_Hillerstorps_Metallverk_Hillerstorp_Sweden.jpg/1280px-Ca_1970_cabinet_catch_nr_560_by_Hillerstorps_Metallverk_Hillerstorp_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2068,
+      "hauteur": 1796
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Old door latches Breckenridge.jpg",
+      "description": "Old and abandoned historic building Breckenridge Colorado",
+      "categories": [
+        "CC-Zero",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Latches",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "420 Photography",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_door_latches_Breckenridge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Old_door_latches_Breckenridge.jpg/1280px-Old_door_latches_Breckenridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 971
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Whiting latch.jpg",
+      "description": "Door latch for a Whiting roll-up door on a delivery truck.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Latches",
+        "Truck doors"
+      ],
+      "auteur": "Eric Polk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Whiting_latch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Whiting_latch.jpg/1280px-Whiting_latch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1385,
+      "hauteur": 747
+    }
+  ]
+}

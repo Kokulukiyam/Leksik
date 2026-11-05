@@ -1,0 +1,151 @@
+{
+  "terme": {
+    "id": "detecteur-de-fumee",
+    "terme": "le détecteur de fumée",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit boîtier rond fixé au plafond qui détecte la fumée et déclenche une alarme.",
+    "priorite": 2,
+    "requetes": [
+      "smoke detector ceiling",
+      "détecteur de fumée",
+      "smoke alarm"
+    ],
+    "incompatibles": [
+      "sprinkler"
+    ],
+    "categoriesCommons": [
+      "Category:Smoke detectors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Church of the Annunciation (03).JPG",
+      "description": "Church of the Annunciation (Solvychegodsk)",
+      "categories": [
+        "Church of the Annunciation (Solvychegodsk)",
+        "Taken with Sony DSC-H10",
+        "CC-Zero",
+        "Smoke detectors",
+        "Self-published work",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC depicts",
+        "Russian heritage ID 2910054004"
+      ],
+      "auteur": "Georg Pik",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_the_Annunciation_(03).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Church_of_the_Annunciation_%2803%29.JPG/1280px-Church_of_the_Annunciation_%2803%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fire detector showcased by Shibuya fire authority.jpg",
+      "description": "Fire detector showcased by Shibuya fire authority",
+      "categories": [
+        "CC-Zero",
+        "Smoke detectors",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Shibuya photographs taken on 2023-03-11"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_detector_showcased_by_Shibuya_fire_authority.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Fire_detector_showcased_by_Shibuya_fire_authority.jpg/1280px-Fire_detector_showcased_by_Shibuya_fire_authority.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:18-05-31-graz RRK3233.jpg",
+      "description": "Rauchmelder im Hotel Ibis Budget Graz",
+      "categories": [
+        "GFDL-1.2",
+        "Smoke detectors",
+        "Hotel Ibis",
+        "Images by Ralf Roletschek/x",
+        "Spelling mistakes in German",
+        "Honeywell products",
+        "Hotels in Graz"
+      ],
+      "auteur": "Ralf Roletschek",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:18-05-31-graz_RRK3233.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/18-05-31-graz_RRK3233.jpg/1280px-18-05-31-graz_RRK3233.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2620,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2012 Sala das Açafatas.JPG",
+      "description": "Люстра в приемной Национального дворца Келуш, Португалия (XIX век, Мурано)",
+      "categories": [
+        "Taken with Canon EOS 400D",
+        "Smoke detectors",
+        "Self-published work",
+        "Electric chandeliers in Portugal",
+        "Glass chandeliers",
+        "Portugal photographs taken on 2012-09-12",
+        "September 2012 in Lisbon",
+        "Murano glassware - Lustres",
+        "Chandeliers in Palácio Nacional de Queluz",
+        "Ladies-in-Waiting Room (Palácio Nacional de Queluz)"
+      ],
+      "auteur": "Luu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2012_Sala_das_A%C3%A7afatas.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2012_Sala_das_A%C3%A7afatas.JPG/1280px-2012_Sala_das_A%C3%A7afatas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1663,
+      "hauteur": 2724
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:FireAngel smoke detector system - 2021-07-07 - Andy Mabbett - 01.jpg",
+      "description": "Part of a cordless FireAngel smoke detector system: the upper side of the W2-SVP-630-LCombined Strobe and Vibrating Pad unit, with stroboscopic lights. The black cable is the power supply, the white cable attached a vibrating pad which is used under a deaf person's pillow.",
+      "categories": [
+        "Stroboscopes",
+        "Smoke detectors",
+        "Taken with OnePlus Nord",
+        "Self-published work",
+        "Images by Andy Mabbett",
+        "United Kingdom photographs taken on 2021-07-07",
+        "Objects made of plastic",
+        "White objects in the United Kingdom",
+        "Carbon monoxide detectors",
+        "FireAngel"
+      ],
+      "auteur": "Andy Mabbett",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FireAngel_smoke_detector_system_-_2021-07-07_-_Andy_Mabbett_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/FireAngel_smoke_detector_system_-_2021-07-07_-_Andy_Mabbett_-_01.jpg/1280px-FireAngel_smoke_detector_system_-_2021-07-07_-_Andy_Mabbett_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:City as Subjectivity (Moscow; 2021-08-24) 27.jpg",
+      "description": "Exposition of the exhibition City as Subjectivity.",
+      "categories": [
+        "Human legs",
+        "CC-Zero",
+        "Smoke detectors",
+        "Self-published work",
+        "August 2021 Russia photographs",
+        "Metal railings in Russia",
+        "People descending staircases",
+        "Art exhibitions in Moscow"
+      ],
+      "auteur": "DonSimon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:City_as_Subjectivity_(Moscow;_2021-08-24)_27.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/City_as_Subjectivity_%28Moscow%3B_2021-08-24%29_27.jpg/1280px-City_as_Subjectivity_%28Moscow%3B_2021-08-24%29_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    }
+  ]
+}

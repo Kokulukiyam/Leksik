@@ -1,0 +1,53 @@
+{
+  "termId": "enduit-taloche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Image floue d'un modèle de mouches volantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plaque commémorative noire sur mur à crépi rugueux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ukraine",
+      "note": "Plaque dominante, texte, crépi non taloché."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Lamelle de verre tenue entre les doigts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan sur plaque commémorative.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ukraine",
+      "note": "Texte, hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Lamelle de verre tenue entre les doigts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fresque rouge à gazelles, reproduction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dunhuang, Chine",
+      "note": "Hors sujet."
+    }
+  ]
+}

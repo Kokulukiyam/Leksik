@@ -1,0 +1,176 @@
+{
+  "terme": {
+    "id": "fronton-brise",
+    "terme": "le fronton brisé",
+    "categorie": "Ornement",
+    "definition": "Fronton dont les rampants sont interrompus au sommet, laissant un vide central souvent occupé par un ornement.",
+    "priorite": 3,
+    "requetes": [
+      "broken pediment",
+      "fronton brisé",
+      "broken pediment door"
+    ],
+    "incompatibles": [
+      "fronton"
+    ],
+    "categoriesCommons": [
+      "Category:Broken pediments",
+      "Category:Pediments",
+      "Category:Baroque pediments"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Pierre legros, gloria di san luigi gonzaga, 1697-99, 01, altare con colonne di verde antico (cropped pediments and cartouche).jpg",
+      "description": "Interior of Sant'Ignazio (Rome)",
+      "categories": [
+        "Verde Antico",
+        "June 2016 in Rome",
+        "Baroque pediments",
+        "Baroque cartouches",
+        "Baroque keystones",
+        "Altar of St. Aloysius Gonzaga in Sant'Ignazio (Rome)",
+        "Keystones in Rome",
+        "Broken pediments in Rome",
+        "Cartouches in Rome"
+      ],
+      "auteur": "Sailko",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pierre_legros,_gloria_di_san_luigi_gonzaga,_1697-99,_01,_altare_con_colonne_di_verde_antico_(cropped_pediments_and_cartouche).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Pierre_legros%2C_gloria_di_san_luigi_gonzaga%2C_1697-99%2C_01%2C_altare_con_colonne_di_verde_antico_%28cropped_pediments_and_cartouche%29.jpg/1280px-Pierre_legros%2C_gloria_di_san_luigi_gonzaga%2C_1697-99%2C_01%2C_altare_con_colonne_di_verde_antico_%28cropped_pediments_and_cartouche%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2230,
+      "hauteur": 1589
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Entrance to the Church in Tomášov.jpg",
+      "description": "Westerly entrance to the Church of St. Nicholas in Tomášov with a statue of St. Nicholas and coat of arms of Archbishop Szelepcsényi renovated in 2017",
+      "categories": [
+        "Church in Tomášov",
+        "Broken pediments",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Nov 2017-Aug 2019)",
+        "Files with coordinates missing SDC location of creation",
+        "Sculptures photographed in 2018",
+        "Slovakia photographs taken on 2018-08-18"
+      ],
+      "auteur": "TomášPolonec",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Church_in_Tom%C3%A1%C5%A1ov.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Entrance_to_the_Church_in_Tom%C3%A1%C5%A1ov.jpg/1280px-Entrance_to_the_Church_in_Tom%C3%A1%C5%A1ov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Swietochlowice Donnersmarck pediment.jpg",
+      "description": "Dawna siedziba Dyrekcji Kopalń i Hut Donnersmarcków w Świętochłowicach, ul. Katowicka 30, szczyt.",
+      "categories": [
+        "Pediments",
+        "30d-e-f Katowicka Street in Świętochłowice",
+        "Self-published work",
+        "Public clocks",
+        "Images by Gower"
+      ],
+      "auteur": "Adrian Tync",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Swietochlowice_Donnersmarck_pediment.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Swietochlowice_Donnersmarck_pediment.jpg/1280px-Swietochlowice_Donnersmarck_pediment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1836,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Villé NDAssomption 03.JPG",
+      "description": "Alsace, Bas-Rhin, Villé, Église Notre-Dame-de-l’Assomption Cet édifice est inscrit au titre des monuments historiques de la France . Il est répertorié dans la base Mérimée , base de données sur le patrimoine architectural français du ministère de la Culture , sous les références PA67000101 et IA67010340 . brezhoneg ∙ català ∙ Deutsch ∙ English ∙ español ∙ Esperanto ∙ euskara ∙ français ∙ italiano ∙ magyar ∙ Nederlands ∙ português do Brasil ∙ português ∙ română ∙ sicilianu ∙ slovenščina ∙ suomi ∙ svenska ∙ Ελληνικά ∙ беларуская (тарашкевіца) ∙ кыргызча ∙ македонски ∙ русский ∙ українська ∙ ไทย ",
+      "categories": [
+        "Base Mérimée",
+        "Église Notre-Dame-de-l'Assomption, Villé",
+        "Taken with Sony DSC-HX5V",
+        "Monuments historiques inscrits",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Pediments in Bas-Rhin",
+        "Cultural heritage monuments in France with known IDs",
+        "Sandstone reliefs in Bas-Rhin",
+        "18th-century sandstone reliefs in Alsace",
+        "Baroque reliefs in Villé",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Baroque pediments",
+        "Files with coordinates missing SDC location of creation (48° N, 7° E)",
+        "Photographs of Villé by Ralph Hammann"
+      ],
+      "auteur": "© Ralph Hammann - Wikimedia Commons",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vill%C3%A9_NDAssomption_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Vill%C3%A9_NDAssomption_03.JPG/1280px-Vill%C3%A9_NDAssomption_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3607,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Aula der Universität Bamberg - Außenansicht.JPG",
+      "description": "Aula der Otto-Friedrich-Universität Bamberg — Außenansicht.",
+      "categories": [
+        "Germany photographs taken on 2009-11-21",
+        "Taken with Fujifilm FinePix S5700",
+        "Dominikanerkloster, Kirche (Bamberg)",
+        "Broken pediments",
+        "Self-published work",
+        "PD-self",
+        "Sculptures in Bamberg",
+        "Church portals in Bamberg",
+        "FoP-Germany",
+        "User:Mattes/Contributions/Topics/Germany/Bamberg",
+        "Blue banners",
+        "Work by Mattes 2009",
+        "Rectangular signs (vertical)",
+        "Statues of Saint Christopher in Upper Franconia",
+        "File uploads by User:Mattes (flat)",
+        "User:Mattes/Contributions/Topics/Buildings and structures",
+        "Wooden doors in Bamberg",
+        "Signs with two poles in Germany",
+        "White on blue signs in Germany",
+        "Files with coordinates missing SDC location of creation (49° N, 10° E)",
+        "User:Mattes/Contributions/Geolocation/OK",
+        "Right-angled vertical signs",
+        "Aula (text)"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aula_der_Universit%C3%A4t_Bamberg_-_Au%C3%9Fenansicht.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Aula_der_Universit%C3%A4t_Bamberg_-_Au%C3%9Fenansicht.JPG/1280px-Aula_der_Universit%C3%A4t_Bamberg_-_Au%C3%9Fenansicht.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Drzwi wejściowe do archikatedry wawelskiej.jpg",
+      "description": "Kraków, bazylika archikatedralna św. Stanisława i św. Wacława, drzwi wejściowe",
+      "categories": [
+        "Broken pediments",
+        "Images from Wiki Loves Monuments 2018",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded via Campaign:wikiwakacje-z",
+        "September 2017 in Kraków",
+        "Poland photographs taken on 2017-09-16",
+        "Images from Wiki Loves Monuments 2018 in Poland",
+        "Images from Wikiwakacje 2018 (monuments)",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Doors in the Wawel Cathedral",
+        "Images from Wikiwakacje 2018",
+        "Images from Wiki Loves Monuments in Poland – Lesser Poland Voivodeship"
+      ],
+      "auteur": "Aw58",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drzwi_wej%C5%9Bciowe_do_archikatedry_wawelskiej.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Drzwi_wej%C5%9Bciowe_do_archikatedry_wawelskiej.jpg/1280px-Drzwi_wej%C5%9Bciowe_do_archikatedry_wawelskiej.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "pierre-reconstituee",
+    "terme": "la pierre reconstituée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau moulé à base de ciment et de granulats de pierre, qui imite la pierre naturelle.",
+    "priorite": 3,
+    "requetes": [
+      "cast stone",
+      "pierre reconstituée",
+      "cast stone facade elements"
+    ],
+    "incompatibles": [
+      "pierre-de-taille",
+      "parement-en-pierre"
+    ],
+    "categoriesCommons": [
+      "Category:Cast stone",
+      "Category:Artificial stone"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dancer Looking at the Sole of her Right Foot (Fourth State) MET 176414.jpg",
+      "description": "American, after French original; Statuette; Sculpture-Reproductions-Casts",
+      "categories": [
+        "CC-Zero",
+        "Artworks without Wikidata item",
+        "Cast stone",
+        "Artworks with known accession number",
+        "Department of European Sculpture and Decorative Arts, Metropolitan Museum of Art",
+        "Images from Metropolitan Museum of Art",
+        "Dancer Looking at the Sole of Her Right Foot by Edgar Degas",
+        "GWToolset Batch Upload",
+        "Sculptures by Edgar Degas in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Edgar Degas",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dancer_Looking_at_the_Sole_of_her_Right_Foot_(Fourth_State)_MET_176414.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Dancer_Looking_at_the_Sole_of_her_Right_Foot_%28Fourth_State%29_MET_176414.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 1984
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Technistone material.JPG",
+      "description": "Technistone product",
+      "categories": [
+        "Taken with Nikon D2X",
+        "Artificial stone",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Technistone",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Technistone_material.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Technistone_material.JPG/1280px-Technistone_material.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2144,
+      "hauteur": 1424
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Mallory Hotel - ground-floor window decoration on east façade.jpg",
+      "description": "The upper portions of windows on the main, east façade of the historic Mallory Hotel building in Portland, Oregon (near the façade's north end), which feature decoration made of painted cast stone. Still in use as a hotel, the 1912 building has housed the Hotel deLuxe since 2006. It is listed on the U.S. National Register of Historic Places under its original name.",
+      "categories": [
+        "GFDL",
+        "Mallory Hotel (Hotel deLuxe)",
+        "License migration redundant",
+        "Cast stone",
+        "Self-published work",
+        "December 2018 in Portland, Oregon",
+        "Window decorations"
+      ],
+      "auteur": "Steve Morgan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mallory_Hotel_-_ground-floor_window_decoration_on_east_fa%C3%A7ade.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Mallory_Hotel_-_ground-floor_window_decoration_on_east_fa%C3%A7ade.jpg/1280px-Mallory_Hotel_-_ground-floor_window_decoration_on_east_fa%C3%A7ade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:History and development of Artificial Stones.jpg",
+      "description": "Artificial stone is a name for various kinds of synthetic stone products used from the 18th century onward. They have been used in building construction, civil engineering work, and industrial uses such as grindstones. Description One of the earliest was Lithodipyra (also called Coade stone ), a ceramic created by Eleanor Coade (1733–1821), and produced from 1769 to 1833. Later, in 1844, Frederick Ransome created a Patent Siliceous Stone, which comprised sand and powdered flint in an alkaline solution. By heating it in an enclosed high temperature steam boiler the siliceous particles were boun",
+      "categories": [
+        "Artificial stone",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Coral stone architecture"
+      ],
+      "auteur": "Fabio Pani",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:History_and_development_of_Artificial_Stones.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/History_and_development_of_Artificial_Stones.jpg/1280px-History_and_development_of_Artificial_Stones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:'Head of a Thinker', cast stone sculpture by Wilhelm Lehmbruck, 1918, HAA.JPG",
+      "description": "Head of a Thinker , cast stone sculpture by Wilhelm Lehmbruck, 1918, Honolulu Museum of Art accession 4135.1",
+      "categories": [
+        "CC-Zero",
+        "2011 photographs",
+        "Cast stone",
+        "Self-published work",
+        "20th-century sculptures in the Honolulu Museum of Art",
+        "Sculptures from Europe in the Honolulu Museum of Art",
+        "Sculptures by Wilhelm Lehmbruck"
+      ],
+      "auteur": "Hiart",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Head_of_a_Thinker%27,_cast_stone_sculpture_by_Wilhelm_Lehmbruck,_1918,_HAA.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%27Head_of_a_Thinker%27%2C_cast_stone_sculpture_by_Wilhelm_Lehmbruck%2C_1918%2C_HAA.JPG/1280px-%27Head_of_a_Thinker%27%2C_cast_stone_sculpture_by_Wilhelm_Lehmbruck%2C_1918%2C_HAA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1836,
+      "hauteur": 2490
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Anchor of Hope Cemetery, stone casket (20983082383).jpg",
+      "description": "A stone casket at Anchor of Hope Cemetery. The cemetery has suffered from significant erosion.",
+      "categories": [
+        "Artificial stone",
+        "Flickr images reviewed by FlickreviewR",
+        "Coffins in the United States",
+        "Anchor of Hope Cemetery"
+      ],
+      "auteur": "Preservation Maryland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anchor_of_Hope_Cemetery,_stone_casket_(20983082383).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Anchor_of_Hope_Cemetery%2C_stone_casket_%2820983082383%29.jpg/1280px-Anchor_of_Hope_Cemetery%2C_stone_casket_%2820983082383%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    }
+  ]
+}

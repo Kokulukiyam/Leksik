@@ -1,0 +1,58 @@
+{
+  "termId": "plaquette-de-parement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pose de plaquettes de pierre irrégulières autour d'un foyer, sur plaque de ciment.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.2,
+        "largeur": 0.76,
+        "hauteur": 0.52
+      },
+      "lieu": "",
+      "note": "Mince pierre de parement collée sur support, pose en cours, bien visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tranche d'une plaque fine de pierre mesurée à la règle, entre des doigts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail d'épaisseur, pas de mur ni de parement visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Surface de pierre brune et beige brute en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture de roche, pas une plaquette posée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Feuilles minces de pierre grise sur fond blanc, empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Feuilles de placage empilées, pas de mur de plaquettes."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pile de dalles fines de pierre beige en stock.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalles en stock, confusion avec carrelage de pierre ou dalles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pile de plaques blanches brillantes sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu de produit blanc, matériau non identifiable."
+    }
+  ]
+}

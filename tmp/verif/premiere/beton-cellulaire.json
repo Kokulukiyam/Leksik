@@ -1,0 +1,53 @@
+{
+  "termId": "beton-cellulaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Échantillon de panneau en coupe posé sur un bureau, avec faux appareil de briques et de pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maquette d'échantillon décorée, pas une photo de bâtiment ni de blocs lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros blocs de béton alvéolés posés au bord d'un chemin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs de béton lourds creux, pas du béton cellulaire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de façade orné de reliefs sculptés blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Œuvre décorative, le matériau n'est pas identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de blocs gris foncé à grains.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs de béton gris (parpaings), pas blancs ni poreux."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cabane en latérite avec partie haute en blocs clairs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mélange de matériaux, blocs cellulaires peu identifiables."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chantier avec mur de blocs clairs derrière un mur de blocs gris foncé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Les blocs clairs sont ambigus et mêlés à des parpaings gris ; doute."
+    }
+  ]
+}

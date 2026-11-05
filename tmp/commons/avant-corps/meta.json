@@ -1,0 +1,179 @@
+{
+  "terme": {
+    "id": "avant-corps",
+    "terme": "l'avant-corps",
+    "categorie": "Façade et ouvertures",
+    "definition": "Partie d'une façade en saillie sur le reste, sur toute la hauteur du bâtiment.",
+    "priorite": 3,
+    "requetes": [
+      "projecting central bay facade",
+      "avant-corps façade",
+      "avant-corps château"
+    ],
+    "incompatibles": [
+      "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Avant-corps",
+      "Category:Pavilions"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Niels Juels gate 42.jpg",
+      "description": "Niels Juels gate 42. Arkitekt: Heinrich Jürgensen.",
+      "categories": [
+        "Avant-corps",
+        "Niels Juels gate, Oslo",
+        "Self-published work",
+        "Cultural heritage monuments in Norway with known IDs",
+        "Bifora in Norway",
+        "Apartment buildings in Oslo",
+        "Bay windows in Norway",
+        "Norway photographs taken on 2014-03-25",
+        "Wrought iron balconies in Norway",
+        "Avant-corps in Norway",
+        "Built in Oslo in 1896",
+        "March 2014 in Oslo",
+        "Wall ornaments in Norway",
+        "Cultural heritage monuments in Norway missing SDC location of creation",
+        "Cultural heritage monuments in Norway missing SDC depicts",
+        "Cultural heritage monuments in Oslo (bygårder)",
+        "Buildings by Heinrich Jürgensen"
+      ],
+      "auteur": "Jan-Tore Egge",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Niels_Juels_gate_42.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Niels_Juels_gate_42.jpg/1280px-Niels_Juels_gate_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2297,
+      "hauteur": 1857
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Île de Philæ. Vue perspective de l'édifice de l'est (NYPL b14212718-1267857).jpg",
+      "description": "Île de Philæ. Vue perspective de l'édifice de l'est.",
+      "categories": [
+        "Pavilions",
+        "Images uploaded by Fæ",
+        "PD-old-100-expired",
+        "PD-scan (PD-old-auto-expired)",
+        "Images from the New York Public Library",
+        "CC-PD-Mark",
+        "NYPL General Research Division",
+        "Kiosk of Trajan in art",
+        "Description de l'Egypte, Île de Philæ"
+      ],
+      "auteur": "Impr. impériale",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%8Ele_de_Phil%C3%A6._Vue_perspective_de_l%27%C3%A9difice_de_l%27est_(NYPL_b14212718-1267857).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/%C3%8Ele_de_Phil%C3%A6._Vue_perspective_de_l%27%C3%A9difice_de_l%27est_%28NYPL_b14212718-1267857%29.jpg/1280px-%C3%8Ele_de_Phil%C3%A6._Vue_perspective_de_l%27%C3%A9difice_de_l%27est_%28NYPL_b14212718-1267857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5476,
+      "hauteur": 3873
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Læssøesgades Skole hjørnerisalit.jpg",
+      "description": "Avant-corps at Læssøesgade's School",
+      "categories": [
+        "Taken with Canon EOS 5D Mark III",
+        "Avant-corps",
+        "Læssøesgades Skole",
+        "Self-published work",
+        "October 2014 Denmark photographs",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by Villy Fink Isaksen"
+      ],
+      "auteur": "Villy Fink Isaksen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%C3%A6ss%C3%B8esgades_Skole_hj%C3%B8rnerisalit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/L%C3%A6ss%C3%B8esgades_Skole_hj%C3%B8rnerisalit.jpg/1280px-L%C3%A6ss%C3%B8esgades_Skole_hj%C3%B8rnerisalit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3416,
+      "hauteur": 4917
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:33254-Bad Elster-2007-Korrektur 31848-Brück & Sohn Kunstverlag.jpg",
+      "description": "Bad Elster; Korrektur 31848",
+      "categories": [
+        "König-Albert-Theater (Bad Elster)",
+        "Parks in Saxony",
+        "Pavilions",
+        "Uploaded with pattypan",
+        "Unidentified pink Rosa cultivars",
+        "Medical buildings in Saxony",
+        "Flower beds in Saxony",
+        "Images from Brück & Sohn",
+        "Files with coordinates missing SDC location of creation",
+        "König-Albert-Bad (Bad Elster)",
+        "Postcards of Bad Elster published by Brück & Sohn",
+        "Spa buildings",
+        "2007 postcards of Vogtlandkreis",
+        "2007 postcards published by Brück & Sohn",
+        "Pica pica in art",
+        "Postcards with 16 images",
+        "Postcards published by Brück & Sohn with images of Brück & Sohn"
+      ],
+      "auteur": "Brück & Sohn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:33254-Bad_Elster-2007-Korrektur_31848-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/33254-Bad_Elster-2007-Korrektur_31848-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg/1280px-33254-Bad_Elster-2007-Korrektur_31848-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3512,
+      "hauteur": 2500
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20.5.2018 Hauptstraße 5 Falkenstein.JPG",
+      "description": "Hauptstraße 5 Falkenstein",
+      "categories": [
+        "GFDL",
+        "Bundesstraße 169",
+        "Avant-corps",
+        "License migration redundant",
+        "Stuccos",
+        "Buildings in Falkenstein/Vogtl.",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Cafés in Saxony",
+        "Self-published work",
+        "Built in Saxony in 1860",
+        "1880 works in Saxony",
+        "Cultural heritage monuments in Falkenstein/Vogtl.",
+        "Former shops in Saxony",
+        "Files with coordinates missing SDC location of creation",
+        "May 2018 in Vogtlandkreis",
+        "Gable roofs in Saxony",
+        "Saxony photographs taken on 2018-05-20",
+        "Hauptstraße (Falkenstein/Vogtl.)"
+      ],
+      "auteur": "E.H.M.Plauen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20.5.2018_Hauptstra%C3%9Fe_5_Falkenstein.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/20.5.2018_Hauptstra%C3%9Fe_5_Falkenstein.JPG/1280px-20.5.2018_Hauptstra%C3%9Fe_5_Falkenstein.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3681,
+      "hauteur": 2405
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Japanese garden and pavilion (NYPL Hades-2360191-4043990).jpg",
+      "description": "Japanese garden and pavilion.",
+      "categories": [
+        "Pavilions",
+        "Parasols",
+        "Images uploaded by Fæ",
+        "PD-scan (PD-US-expired)",
+        "PD US expired",
+        "Images from the New York Public Library",
+        "Media needing category review as of 11 July 2016",
+        "PD-US missing SDC copyright status",
+        "Pacific Pursuits Postcard Collection",
+        "Paper lanterns in art"
+      ],
+      "auteur": "Scan by NYPL",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Japanese_garden_and_pavilion_(NYPL_Hades-2360191-4043990).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Japanese_garden_and_pavilion_%28NYPL_Hades-2360191-4043990%29.jpg/1280px-Japanese_garden_and_pavilion_%28NYPL_Hades-2360191-4043990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4711,
+      "hauteur": 3038
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "claveau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Intrados d'un arc ancien avec pierre centrale sculptée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Litovel, Tchéquie",
+      "note": "Pierre centrale = clé, confusion possible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Marché de Noël devant un immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tbilissi, Géorgie",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte romane en arc de pierre rugueuse avec claveaux irréguliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Péninsule de Dingle, Irlande",
+      "note": "Arc, pas un claveau isolé, claveaux peu nets."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bloc de pierre sculpté de motifs végétaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre sculptée isolée, hors contexte d'arc."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Arc en plein cintre aveugle en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Poitiers, France",
+      "note": "Illustrerait plutôt arc ; un rectangle sur un claveau serait trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Moulage en plâtre d'un voussoir sculpté, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bruxelles",
+      "note": "Moulage, pas une photo d'élément en place."
+    }
+  ]
+}

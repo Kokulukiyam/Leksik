@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "palplanche",
+    "terme": "la palplanche",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Profilé d'acier ondulé, enfoncé verticalement et emboîté avec ses voisins pour former un rideau qui retient la terre ou l'eau.",
+    "priorite": 3,
+    "requetes": [
+      "steel sheet piling",
+      "palplanches",
+      "sheet pile wall"
+    ],
+    "incompatibles": [
+      "fouille"
+    ],
+    "categoriesCommons": [
+      "Category:Sheet piling"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Installing sheetpile (26749943821).jpg",
+      "description": "Credit: Eric Derleth/USFWS The Muddy Creek project site is a tidally-restricted estuary with fringing degraded tidal marshes. The project enhances coastal natural defenses against storm surge by restoring a mix of estuarine and subtidal wetlands, improving water quality and restoring passage for fish that migrate between fresh and saltwater. Restoration actions included the removal of twin undersized stone culverts and replacing them with a 94-foot span bridge and open channel. To learn more about the Muddy Creek project, please visit: &lt;a href=\" http://www.fws.gov/hurricane/sandy/projects/M",
+      "categories": [
+        "PD US FWS",
+        "Sheet piling",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "USGov files uploaded by OceanAtoll",
+        "Files from the United States Fish and Wildlife Service Northeast Region Flickr stream"
+      ],
+      "auteur": "U.S. Fish and Wildlife Service Northeast Region",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Installing_sheetpile_(26749943821).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Installing_sheetpile_%2826749943821%29.jpg/1280px-Installing_sheetpile_%2826749943821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:L03 318 Baustelle Stadthafen.jpg",
+      "description": "Vom Blüthnestegwehr Richtung Südsüdost, nach vielen Jahren Ruhe wird seit 2022 endlich am Innenhafen gebaut. Die Bohrpfahlwand als provisorischer Abschluss ist entfernt, die Betonarbeiten für das Hafenbecken laufen. Der Elstermühlgraben wurde etwa in der Mitte des Außenhafen durch eine Spundwand abgetrennt, damit ist unterhalb kein Durchfluss mehr möglich. Die diagonal durch den Außenhafen laufende und abgeschnittene Bohrpfahlwand wurde schon nach dem Betonbau des Blüthnerstegwehres vor 2010 beseitigt.",
+      "categories": [
+        "Sheet piling",
+        "Secant piling",
+        "Construction sites in Leipzig",
+        "Leipzig photographs taken on 2024-03-06",
+        "March 2024 in construction in Leipzig",
+        "Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM",
+        "Falk2/Elstermühlgraben",
+        "Innenhafen (Stadthafen Leipzig, construction 2022–)",
+        "Falk2/2024"
+      ],
+      "auteur": "Falk2",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L03_318_Baustelle_Stadthafen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/L03_318_Baustelle_Stadthafen.jpg/1280px-L03_318_Baustelle_Stadthafen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6855,
+      "hauteur": 4570
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:L03 707 Stadthafenbaustelle, Spundwand.jpg",
+      "description": "Von der Schreberbrücke Richtung Nordnordost zum Blüthnerstegwehr, das im Regelbetrieb zusammen mit dem Palmengartenwehr die Haltung im Elsterflutbett sichert; der Außenhafen ist zum Aufnahmezeitpunkt mit einer Spundwand geteilt, die die Baustellen des Innenhafens und der Poniatowskibrücke trocken hält. Für den Hafenbetrieb wurde einer der Pontons als Behelfsanleger an das linke Ufer verlegt.",
+      "categories": [
+        "Taken with Canon EOS 5D Mark III and Canon EF 24-105mm F4L IS USM",
+        "Sheet piling",
+        "Construction sites in Leipzig",
+        "April 2024 in construction in Leipzig",
+        "Leipzig photographs taken on 2024-04-28",
+        "Ships in Leipzig",
+        "Falk2/Elstermühlgraben",
+        "Innenhafen (Stadthafen Leipzig, construction 2022–)",
+        "Falk2/2024"
+      ],
+      "auteur": "Falk2",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L03_707_Stadthafenbaustelle,_Spundwand.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/L03_707_Stadthafenbaustelle%2C_Spundwand.jpg/1280px-L03_707_Stadthafenbaustelle%2C_Spundwand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6783,
+      "hauteur": 4522
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:J41 505 Stadthafen, Innenhafenbaustelle.jpg",
+      "description": "Richtung Nordost von der Schreberbrücke, für den Bau des Innenhafens und der Poniatowskibrücke wurde der Außenhafen mit einer Spundwand geteilt. Die Einfahrt in den Innenhafen ist betoniert, links in Hintergrund liegt das Blüthnerstegwehr. Der Hafenbetrieb läuft in der Zwischenzeit im Rest der Fläche weiter.",
+      "categories": [
+        "Taken with Canon EOS 5D Mark III and Canon EF 24-105mm F4L IS USM",
+        "Sheet piling",
+        "Construction sites in Leipzig",
+        "April 2024 in construction in Leipzig",
+        "Leipzig photographs taken on 2024-04-15",
+        "Falk2/Elstermühlgraben",
+        "Innenhafen (Stadthafen Leipzig, construction 2022–)",
+        "Falk2/2024"
+      ],
+      "auteur": "Falk2",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:J41_505_Stadthafen,_Innenhafenbaustelle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/J41_505_Stadthafen%2C_Innenhafenbaustelle.jpg/1280px-J41_505_Stadthafen%2C_Innenhafenbaustelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5931,
+      "hauteur": 3954
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:L03 319 Baustelle Stadthafen, Spundwand.jpg",
+      "description": "Richtung Palm(en)gartenwehr, für die Trockenhaltung der Hafenbaustelle wurde das Außenhafenbecken durch eine Spundwand geteilt. Im Hintergrund liegt die Schreberbrücke.",
+      "categories": [
+        "Sheet piling",
+        "Schreberbrücke",
+        "Construction sites in Leipzig",
+        "Leipzig photographs taken on 2024-03-06",
+        "March 2024 in construction in Leipzig",
+        "Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM",
+        "Falk2/Elstermühlgraben",
+        "Innenhafen (Stadthafen Leipzig, construction 2022–)",
+        "Falk2/2024"
+      ],
+      "auteur": "Falk2",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L03_319_Baustelle_Stadthafen,_Spundwand.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/L03_319_Baustelle_Stadthafen%2C_Spundwand.jpg/1280px-L03_319_Baustelle_Stadthafen%2C_Spundwand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6532,
+      "hauteur": 4355
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:LondonAvFlexifloat3.jpg",
+      "description": "New Orleans after Hurricane Katrina : Ongoing repairs on the lower breach of the London Avenue Canal , as seen from Mirabeau Avenue Bridge]]",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 50",
+        "License migration opt-out",
+        "Sheet piling",
+        "Self-published work",
+        "London Avenue Canal after Katrina"
+      ],
+      "auteur": "Infrogmation",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LondonAvFlexifloat3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/LondonAvFlexifloat3.jpg/1280px-LondonAvFlexifloat3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    }
+  ]
+}

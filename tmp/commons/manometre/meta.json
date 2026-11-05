@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "manometre",
+    "terme": "le manomètre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Cadran à aiguille qui indique la pression dans une canalisation, une pompe ou un réservoir.",
+    "priorite": 3,
+    "requetes": [
+      "pressure gauge water pipe",
+      "manomètre",
+      "pressure gauge"
+    ],
+    "categoriesCommons": [
+      "Category:Pressure gauges",
+      "Category:Manometers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:At Paraty 2023 032.jpg",
+      "description": "",
+      "categories": [
+        "Pressure gauges",
+        "Artworks with Wikidata item",
+        "Uploaded with LrMediaWiki",
+        "Artworks with Wikidata item missing genre",
+        "Baldwin locomotive at Dom Pedro Station, Cunha",
+        "Photos by Mike Peel using a Canon EOS 90D",
+        "Terbrasma"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_Paraty_2023_032.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/At_Paraty_2023_032.jpg/1280px-At_Paraty_2023_032.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6960,
+      "hauteur": 4640
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Equipment- St. Paul - DPLA - 4c6ccb9a0ec0cd61b3de1fd281a89546.JPG",
+      "description": "Manometer. Location: St. Paul Island, Alaska Date: August 29, 2005 Photographer: David Winandy Photographer Affiliation: NOAA NARA Accessioned Digital Format: JPG",
+      "categories": [
+        "Manometers",
+        "Media contributed by the National Archives and Records Administration",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Media contributed by National Archives at College Park - Still Pictures",
+        "PD US NOAA",
+        "Damaged objects in the United States",
+        "US National Archives series: Central Photographic Files Relating to Environmental Problems and Remediation Activities, Social and Economic Life on the Pribilof Islands, Alaska, 1996 - 2007"
+      ],
+      "auteur": "Department of Commerce. National Oceanic and Atmospheric Administration. National Ocean Service. Office of Response and Restoration. Pribilof Islands Restoration Project Office. 1996-9/2008",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Equipment-_St._Paul_-_DPLA_-_4c6ccb9a0ec0cd61b3de1fd281a89546.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Equipment-_St._Paul_-_DPLA_-_4c6ccb9a0ec0cd61b3de1fd281a89546.JPG/1280px-Equipment-_St._Paul_-_DPLA_-_4c6ccb9a0ec0cd61b3de1fd281a89546.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chevy Cruze TPMS display.jpg",
+      "description": "Electronic Driver Information Center (DIC) in a 2013 Chevrolet Cruze displaying pressure measurements reported by the Tire Pressure Monitoring System (TPMS). Measured pressure for each tire is displayed in pounds per square inch (PSI). Pictograph of vehicle shows which measurement corresponds to each tire.",
+      "categories": [
+        "Tire-pressure monitoring systems",
+        "Pressure gauges",
+        "Embedded systems",
+        "Chevrolet Cruze (J300, first generation)",
+        "Self-published work",
+        "Chevrolet automobile dashboards"
+      ],
+      "auteur": "WillisMoon",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chevy_Cruze_TPMS_display.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Chevy_Cruze_TPMS_display.jpg/1280px-Chevy_Cruze_TPMS_display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:AB-BLDG-6555013.jpg",
+      "description": "BLDG#6555, Anderson Barracks Dexheim, pres. gauge",
+      "categories": [
+        "GFDL",
+        "Manometers",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Anderson Barracks",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Fernost",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AB-BLDG-6555013.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/AB-BLDG-6555013.jpg/1280px-AB-BLDG-6555013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1063
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gauge (AM 610769).jpg",
+      "description": "German pressure gauge",
+      "categories": [
+        "Pressure gauges",
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Unknown date"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gauge_(AM_610769).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gauge_%28AM_610769%29.jpg/1280px-Gauge_%28AM_610769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dampfschiff Stadt Rapperswil - Schiffsmotor 2011-05-01 18-12-00.JPG",
+      "description": "Ship engine of the Zürichsee-Schiffahrtsgesellschaft (ZSG) paddle steamer Stadt Rapperswil",
+      "categories": [
+        "Taken with Nikon D90",
+        "Manometers",
+        "Self-published work",
+        "Ship engine of Dampfschiff Stadt Rapperswil",
+        "Files with coordinates missing SDC location of creation",
+        "Switzerland photographs taken on 2011-05-01",
+        "Photographs by Roland Fischer"
+      ],
+      "auteur": "Roland zh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampfschiff_Stadt_Rapperswil_-_Schiffsmotor_2011-05-01_18-12-00.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfschiff_Stadt_Rapperswil_-_Schiffsmotor_2011-05-01_18-12-00.JPG/1280px-Dampfschiff_Stadt_Rapperswil_-_Schiffsmotor_2011-05-01_18-12-00.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    }
+  ]
+}

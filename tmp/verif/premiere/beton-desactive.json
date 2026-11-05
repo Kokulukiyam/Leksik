@@ -1,0 +1,53 @@
+{
+  "termId": "beton-desactive",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dalle de béton dont la surface lavée laisse apparaître des graviers roulés, posée sur le sol.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan net et typique de granulats apparents dans la matrice de ciment."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Église et chemin pavé en automne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le sujet est l'église, le béton n'est pas lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sol sombre et brillant à l'intérieur d'un conteneur sanitaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement de sol indéfini, pas du béton désactivé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Surface de galets noyés dans du mortier gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut se lire comme galets / pavage de galets, confusion avec le galet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pavillon de brique avec dalle de béton devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton lisse sans granulats visibles, brique dominante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Engrenages rouillés dans une cimenterie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    }
+  ]
+}

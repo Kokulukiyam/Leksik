@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "bardeau-bitume",
+    "terme": "le bardeau bitumé",
+    "categorie": "Toitures",
+    "definition": "Petite plaque souple de bitume armé recouverte de granulés minéraux, posée en écailles sur un voligeage.",
+    "priorite": 3,
+    "requetes": [
+      "asphalt shingles roof",
+      "bardeau bitumé",
+      "bitumen shingles"
+    ],
+    "incompatibles": [
+      "bardeau"
+    ],
+    "categoriesCommons": [
+      "Category:Shingles",
+      "Category:Shingle roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Retro roofs.jpg",
+      "description": "The dormitory that we stayed at kavimane at Kupalli, shimoga",
+      "categories": [
+        "Shingles",
+        "Self-published work",
+        "Roofs in Karnataka",
+        "Images from Wiki Loves Earth 2017 in India",
+        "Ceiling fans with three blades",
+        "Uploaded via Campaign:wle-in",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Earth 2017",
+        "India photographs taken on 2017-05-27",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Ceiling fans in India"
+      ],
+      "auteur": "Depaac",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Retro_roofs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Retro_roofs.jpg/1280px-Retro_roofs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Green rubber roof.jpg",
+      "description": "Green rubber roof",
+      "categories": [
+        "CC-Zero",
+        "Shingle roofs",
+        "Self-published work",
+        "Taken on missing SDC inception",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2024-04-05",
+        "April 2024 in Wisconsin"
+      ],
+      "auteur": "Wikideas1",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Green_rubber_roof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Green_rubber_roof.jpg/1280px-Green_rubber_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3012,
+      "hauteur": 2176
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Hastings County Archives HC02987 (21713355591).jpg",
+      "description": "John St., Eldorado, Ontario. Shows shingle mill, box factory and railway tracks in the early 1900's.",
+      "categories": [
+        "Ontario in the 1900s",
+        "Shingles",
+        "PD Canada",
+        "PD US expired",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "1900s postcards of Canada",
+        "Media from Community Archives of Belleville and Hastings County",
+        "Eldorado, Ontario",
+        "Box manufacturers",
+        "Postcards of Hastings County, Ontario",
+        "Canada photographs taken on 1900-01-01"
+      ],
+      "auteur": "Community Archives",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hastings_County_Archives_HC02987_(21713355591).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Hastings_County_Archives_HC02987_%2821713355591%29.jpg/1280px-Hastings_County_Archives_HC02987_%2821713355591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1869,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ickford VillageHall east.JPG",
+      "description": "Ickford Village Hall, Ickford, Buckinghamshire",
+      "categories": [
+        "Taken with Nikon D70s",
+        "Shingle roofs",
+        "1946 in the United Kingdom",
+        "Ickford",
+        "1946 establishments",
+        "Self-published work",
+        "Village halls in Buckinghamshire"
+      ],
+      "auteur": "Motacilla",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ickford_VillageHall_east.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Ickford_VillageHall_east.JPG/1280px-Ickford_VillageHall_east.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2950,
+      "hauteur": 1770
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bardeaux en bois et en métal.jpg",
+      "description": "Bardeaux en bois et en métal (Alsace), assurant l'étanchéité des toits de tuile Musée de la Tuile à Eschau (Bas-Rhin)",
+      "categories": [
+        "Shingles",
+        "Self-published work",
+        "October 2022 in Bas-Rhin",
+        "October 2022 Alsace photographs",
+        "Musée de la Tuile à Eschau (Bas-Rhin)"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bardeaux_en_bois_et_en_m%C3%A9tal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Bardeaux_en_bois_et_en_m%C3%A9tal.jpg/1280px-Bardeaux_en_bois_et_en_m%C3%A9tal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2521
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Hotel Krone in Huttwil BE.jpg",
+      "description": "Huttwil, canton de Berne : Auberge Krone, construite en 1730",
+      "categories": [
+        "Shingle roofs",
+        "Half hipped roofs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Switzerland photographs taken on 2019-05-26",
+        "Gasthof Krone (Bahnhofstrasse 14, Huttwil)"
+      ],
+      "auteur": "JoachimKohler-HB",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hotel_Krone_in_Huttwil_BE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Hotel_Krone_in_Huttwil_BE.jpg/1280px-Hotel_Krone_in_Huttwil_BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3840,
+      "hauteur": 2400
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "terme": {
+    "id": "suspente",
+    "terme": "la suspente",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Tige ou fil métallique accroché à la dalle qui porte l'ossature d'un faux plafond.",
+    "priorite": 2,
+    "requetes": [
+      "suspended ceiling hanger wire",
+      "suspente faux plafond",
+      "ceiling hangers rods"
+    ],
+    "incompatibles": [
+      "ossature-de-faux-plafond"
+    ]
+  },
+  "candidats": []
+}

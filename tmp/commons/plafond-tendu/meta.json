@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "plafond-tendu",
+    "terme": "le plafond tendu",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Toile de PVC ou de textile tendue sur un cadre fixé en périphérie, formant un plafond parfaitement lisse.",
+    "priorite": 3,
+    "requetes": [
+      "stretch ceiling",
+      "plafond tendu",
+      "stretch ceiling glossy"
+    ],
+    "incompatibles": [
+      "faux-plafond"
+    ],
+    "categoriesCommons": [
+      "Category:Ceilings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1974-02-28-b06.jpg",
+      "description": "Fregio d’angolo sul soffitto del “salottino”",
+      "categories": [
+        "Ceilings",
+        "Self-published work"
+      ],
+      "auteur": "Ganisario",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1974-02-28-b06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/1974-02-28-b06.jpg/1280px-1974-02-28-b06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3624,
+      "hauteur": 2412
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Amazing world of light.jpg",
+      "description": "small room of light",
+      "categories": [
+        "Ceilings",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2024-10-14"
+      ],
+      "auteur": "Rahat Been Farooqi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amazing_world_of_light.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Amazing_world_of_light.jpg/1280px-Amazing_world_of_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4208,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cambo 627.jpg",
+      "description": "Thermal imaging — Khmer houses in Cambodia .",
+      "categories": [
+        "Ceilings",
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Roofs in Cambodia",
+        "Thermal images of houses",
+        "Traditional Houses in Cambodia"
+      ],
+      "auteur": "Cam42",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cambo_627.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cambo_627.jpg/1280px-Cambo_627.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1969,
+      "hauteur": 975
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:CAM-Melong- Hotel toiture de la case.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Hotels in Cameroon",
+        "Ceilings",
+        "Taken with Hitachi HDC-1095E",
+        "Melong",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Cameroon"
+      ],
+      "auteur": "WILLAV-FR",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CAM-Melong-_Hotel_toiture_de_la_case.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/CAM-Melong-_Hotel_toiture_de_la_case.jpg/1280px-CAM-Melong-_Hotel_toiture_de_la_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:34 Tomba Brion - San Vito d'Altivole, Treviso, Italy - Carlo Scarpa-FPPL3001.jpg",
+      "description": "©Filippo Poli",
+      "categories": [
+        "Ceilings",
+        "Self-published work"
+      ],
+      "auteur": "Filippo Poli",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:34_Tomba_Brion_-_San_Vito_d%27Altivole,_Treviso,_Italy_-_Carlo_Scarpa-FPPL3001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/34_Tomba_Brion_-_San_Vito_d%27Altivole%2C_Treviso%2C_Italy_-_Carlo_Scarpa-FPPL3001.jpg/1280px-34_Tomba_Brion_-_San_Vito_d%27Altivole%2C_Treviso%2C_Italy_-_Carlo_Scarpa-FPPL3001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1400,
+      "hauteur": 1050
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:0عیوضی.jpg",
+      "description": "گچ کار حرفه ای و معمار لوکس",
+      "categories": [
+        "Ceilings",
+        "Self-published work"
+      ],
+      "auteur": "Mohammadreza eivazi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0%D8%B9%DB%8C%D9%88%D8%B6%DB%8C.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/0%D8%B9%DB%8C%D9%88%D8%B6%DB%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1080,
+      "hauteur": 810
+    }
+  ]
+}

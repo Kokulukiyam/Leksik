@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "beton-matrice",
+    "terme": "le béton matricé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Béton apparent dont la surface porte un relief décoratif obtenu par une matrice placée dans le coffrage.",
+    "priorite": 3,
+    "requetes": [
+      "form liner concrete",
+      "béton matricé",
+      "textured concrete relief wall"
+    ],
+    "incompatibles": [
+      "beton",
+      "beton-brut"
+    ],
+    "categoriesCommons": [
+      "Category:Stamped concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Concrete being stamped.jpg",
+      "description": "Concrete being stamped with ashlar slate pattern — construction of a patio.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W290",
+        "License migration redundant",
+        "Stamped concrete",
+        "21st-century men of the United States",
+        "Self-published work",
+        "Construction sites in the United States",
+        "Men at work in the United States",
+        "People of the United States in 2010",
+        "Patios in the United States",
+        "May 2010 in Illinois",
+        "3 men in the United States",
+        "United States photographs taken on 2010-05-14",
+        "Tile pavements in the United States",
+        "Pavements in Illinois",
+        "Concrete pavements",
+        "Men at work in the 2010s",
+        "Stone pavements in the United States"
+      ],
+      "auteur": "ChicagoConcrete",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_being_stamped.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Concrete_being_stamped.jpg/1280px-Concrete_being_stamped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Abutment Concrete Mold for Wamsutta Bridge (24397044345).jpg",
+      "description": "A casting bed with a faux-granite block form liner lays on its side at the Unistress plant in Pittsfield, MA. These precast pieces will shape the concrete abutments for the Wamsutta Bridge in New Bedford as part of South Coast Rail’s Early Action Bridge Replacement Project.",
+      "categories": [
+        "Pittsfield, Massachusetts",
+        "Moulds",
+        "PD-MAGov",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from the MassDOT flickr stream needing curation",
+        "Abutments in Massachusetts"
+      ],
+      "auteur": "MassDOT",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abutment_Concrete_Mold_for_Wamsutta_Bridge_(24397044345).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Abutment_Concrete_Mold_for_Wamsutta_Bridge_%2824397044345%29.jpg/1280px-Abutment_Concrete_Mold_for_Wamsutta_Bridge_%2824397044345%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1613,
+      "hauteur": 1210
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cementric.jpg",
+      "description": "Stamped Concrete done by cementric",
+      "categories": [
+        "Stamped concrete",
+        "Self-published work"
+      ],
+      "auteur": "Swapnilw1986",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cementric.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Cementric.jpg/1280px-Cementric.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1836,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Scott System cacti.jpg",
+      "description": "40-foot cacti decorate a sound/retaining wall in Scottsdale, AZ. Created with Scott System form liner.",
+      "categories": [
+        "Taken with Kodak EasyShare DX4530",
+        "License migration redundant",
+        "GFDL-disclaimers",
+        "Self-published work",
+        "Items with VRTS permission confirmed",
+        "Concrete walls",
+        "Cactaceae in art",
+        "Public art in Scottsdale, Arizona",
+        "Concrete reliefs in the United States"
+      ],
+      "auteur": "Scott System",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Scott_System_cacti.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Scott_System_cacti.jpg/1280px-Scott_System_cacti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2580,
+      "hauteur": 1932
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Stampedconcrete1.jpg",
+      "description": "Stamped concrete patterns, mixed with acid stain coloring",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Stamped concrete",
+        "Self-published work"
+      ],
+      "auteur": "Seminar attendees",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stampedconcrete1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Stampedconcrete1.jpg/1280px-Stampedconcrete1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:I-84 Sandy River Bridge Wing Wall 7 (14067196620).jpg",
+      "description": "After the concrete wall is complete, form liners and special stains are used to apply aesthetic finish details.",
+      "categories": [
+        "Taken with Nikon Coolpix L18",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by the Oregon Department of Transportation",
+        "Bridge construction in Oregon",
+        "Interstate 84 Sandy River Bridge"
+      ],
+      "auteur": "Oregon Department of Transportation",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:I-84_Sandy_River_Bridge_Wing_Wall_7_(14067196620).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/I-84_Sandy_River_Bridge_Wing_Wall_7_%2814067196620%29.jpg/1280px-I-84_Sandy_River_Bridge_Wing_Wall_7_%2814067196620%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

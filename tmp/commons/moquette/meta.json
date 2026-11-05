@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "moquette",
+    "terme": "la moquette",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Revêtement de sol textile fixé d'un mur à l'autre.",
+    "priorite": 2,
+    "requetes": [
+      "wall to wall carpet",
+      "moquette",
+      "carpeted office floor"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tennis-Carpet-Tile.jpg",
+      "description": "Tennis Moquette Tuile",
+      "categories": [
+        "Tennis courts",
+        "Carpet tennis courts",
+        "Self-published work",
+        "Taken with Sony Ericsson W715",
+        "Playing field marking"
+      ],
+      "auteur": "Mamiejeanjean",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tennis-Carpet-Tile.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Tennis-Carpet-Tile.jpg/1280px-Tennis-Carpet-Tile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Wall to wall carpet and carpet pad.jpg",
+      "description": "Fitted carpet and pads underneath were lifted after a flood. The handyman wanted to see if the wood underneath was wet. 100-year-old apartment in Los Angeles, California.",
+      "categories": [
+        "Fitted carpets",
+        "Self-published work",
+        "Carpet laying"
+      ],
+      "auteur": "Downtowngal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wall_to_wall_carpet_and_carpet_pad.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Wall_to_wall_carpet_and_carpet_pad.jpg/1280px-Wall_to_wall_carpet_and_carpet_pad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1285,
+      "hauteur": 944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Teppichboden.JPG",
+      "description": "Eurotherme Bad Schallerbach, Hotel Paradiso",
+      "categories": [
+        "Eurotherme Bad Schallerbach",
+        "Fitted carpets",
+        "Self-published work",
+        "PD-self",
+        "Hotels in Austria photographed in 2009",
+        "Interiors of hotels in Austria",
+        "Austria photographs taken on 2009-07-09",
+        "Interiors of hospitality buildings in Upper Austria",
+        "July 2009 in Upper Austria",
+        "2009 in Bezirk Grieskirchen"
+      ],
+      "auteur": "Michael Fleischhacker",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Teppichboden.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Teppichboden.JPG/1280px-Teppichboden.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:28 A wall carpet in the royal castle of stockholm.JPG",
+      "description": "Gustav III's parachute chamber. Inside the balustrade, the paired bed was wearing red silk damask.",
+      "categories": [
+        "Wall hangings",
+        "Interior of the Royal Palace, Stockholm",
+        "Self-published work",
+        "Interior columns in Sweden",
+        "Columns in Stockholm",
+        "Gustav III:s paradsängkammare"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:28_A_wall_carpet_in_the_royal_castle_of_stockholm.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/28_A_wall_carpet_in_the_royal_castle_of_stockholm.JPG/1280px-28_A_wall_carpet_in_the_royal_castle_of_stockholm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Carpet stretching arp.jpg",
+      "description": "Laying a carpet at a house in Yate, South Gloucestershire, England. The fitter is ramming his knee (with great force) on the black padded end of the tool. Spikes (unseen in the photo), on the lower surface of the other end of the tool, grip the carpet. The carpet stretches onto the spikes sticking up (again unseen) on the gripper strip that has been nailed down around the periphery of the room. The fitter simultaneously pushes the carpet edge down into the channel behind the gripper, using the chisel-like tool in his right hand, to produce a perfect edge.",
+      "categories": [
+        "Taken with Olympus C-750UZ",
+        "PD-user",
+        "Yate, Gloucestershire",
+        "Fitted carpets",
+        "Carpet textile tools"
+      ],
+      "auteur": "Adrian Pingstone ( Arpingstone )",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpet_stretching_arp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Carpet_stretching_arp.jpg/1280px-Carpet_stretching_arp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Carpet stretcher arp.jpg",
+      "description": "A manual carpet stretcher, shown upside down to reveal the spikes that grip the carpet during stretching. The fitter rams his knee (with great force) on the black padded end of the tool, with the spikes seen in the photo gripping the carpet. The carpet is then pushed down onto nails that stick up on the gripper strip around the periphery of the room. The fitter then pushes the carpet edge down into the channel behind the gripper, to produce a perfect edge.",
+      "categories": [
+        "Taken with Olympus C-750UZ",
+        "PD-user",
+        "Fitted carpets",
+        "Carpet textile tools"
+      ],
+      "auteur": "Adrian Pingstone ( Arpingstone )",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpet_stretcher_arp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Carpet_stretcher_arp.jpg/1280px-Carpet_stretcher_arp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1909,
+      "hauteur": 1393
+    }
+  ]
+}

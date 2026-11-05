@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "jardiniere",
+    "terme": "la jardinière",
+    "categorie": "Façade et ouvertures",
+    "definition": "Bac en saillie intégré à la façade, au balcon ou à l'appui, destiné à recevoir des plantes.",
+    "priorite": 3,
+    "requetes": [
+      "concrete planter balcony facade",
+      "jardinière façade béton",
+      "built-in planter building facade"
+    ],
+    "incompatibles": [
+      "balcon"
+    ],
+    "categoriesCommons": [
+      "Category:Window boxes",
+      "Category:Flower boxes",
+      "Category:Planters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1405, Côte des Érables (détails façade 1).JPG",
+      "description": "Détails de la façade",
+      "categories": [
+        "Window boxes",
+        "Site du patrimoine de la Côte-des-Érables",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2012",
+        "Heritage properties in Canada with known IDs",
+        "Images from Wiki Loves Monuments 2012 in Canada",
+        "WLM 2012 Canada reviewed",
+        "Canada photographs taken on 2012-09-22"
+      ],
+      "auteur": "June Dennie",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1405,_C%C3%B4te_des_%C3%89rables_(d%C3%A9tails_fa%C3%A7ade_1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/1405%2C_C%C3%B4te_des_%C3%89rables_%28d%C3%A9tails_fa%C3%A7ade_1%29.JPG/1280px-1405%2C_C%C3%B4te_des_%C3%89rables_%28d%C3%A9tails_fa%C3%A7ade_1%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2017-10-31 (344) Hauptfriedhof St. Pölten.jpg",
+      "description": "Hauptfriedhof St. Pölten",
+      "categories": [
+        "Calluna vulgaris (cultivars)",
+        "Self-published work",
+        "Flower boxes",
+        "Freiheitskämpfergrab",
+        "Taken with Canon PowerShot SX50 HS by User:GT1976",
+        "Austria photographs taken on 2017-10-31",
+        "October 2017 in St. Pölten",
+        "Files by User:GT1976 2017-10-31 Hauptfriedhof St. Pölten",
+        "Files by User:GT1976 Unidentified graves in St. Pölten"
+      ],
+      "auteur": "GT1976",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017-10-31_(344)_Hauptfriedhof_St._P%C3%B6lten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2017-10-31_%28344%29_Hauptfriedhof_St._P%C3%B6lten.jpg/1280px-2017-10-31_%28344%29_Hauptfriedhof_St._P%C3%B6lten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A Surinam Planter in his Morning Drefs (Dress), by John Gabriel Stedman, 1796 (cropped).jpg",
+      "description": "A Surinam Planter in his Morning Dress : un planteur du Suriname dans ses habits du matin. Gravure de William Blake, d'après un dessin de Jean-Gabriel Stedman pour illustrer son récit de voyage Narrative of a five years' expedition, against the revolted negroes of Surinam, in Guiana, on the wild coast of South America ; from the year 1772, to 1777 , publié en 1796.",
+      "categories": [
+        "Planters",
+        "John Gabriel Stedman",
+        "Author died more than 70 years ago public domain images",
+        "Surinamese slaves",
+        "Slavery in art",
+        "CC-PD-Mark",
+        "William Blake's engravings after John Gabriel Stedman"
+      ],
+      "auteur": "Jean-Gabriel Stedman / William Blake",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Surinam_Planter_in_his_Morning_Drefs_(Dress),_by_John_Gabriel_Stedman,_1796_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/A_Surinam_Planter_in_his_Morning_Drefs_%28Dress%29%2C_by_John_Gabriel_Stedman%2C_1796_%28cropped%29.jpg/1280px-A_Surinam_Planter_in_his_Morning_Drefs_%28Dress%29%2C_by_John_Gabriel_Stedman%2C_1796_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2558,
+      "hauteur": 3417
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2007 herbs windowbox 459617919.jpg",
+      "description": "windowbox",
+      "categories": [
+        "Taken with Sony Ericsson W810",
+        "Window boxes",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "Matt Seppings from London, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2007_herbs_windowbox_459617919.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2007_herbs_windowbox_459617919.jpg/1280px-2007_herbs_windowbox_459617919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 1224
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:'The City Is The Cinema' (2022) door Melanie Maria, Wezenstraat, Arnhem 01.jpg",
+      "description": "'The City Is The Cinema' (2022) by Melanie Maria, Wezenstraat, Arnhem, the Netherlands",
+      "categories": [
+        "Sculptures in Arnhem",
+        "Wezenstraat (Arnhem)",
+        "Self-published work",
+        "Flower boxes",
+        "2024 in Arnhem",
+        "2022 sculptures in the Netherlands",
+        "Taken with Google Pixel 4a",
+        "Netherlands photographs taken on 2024-01-11",
+        "Cinema seats",
+        "Benches in Arnhem",
+        "Files by User:FakirNL/Arnhem/Sculptures",
+        "Melanie Maria"
+      ],
+      "auteur": "FakirNL",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27The_City_Is_The_Cinema%27_(2022)_door_Melanie_Maria,_Wezenstraat,_Arnhem_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%27The_City_Is_The_Cinema%27_%282022%29_door_Melanie_Maria%2C_Wezenstraat%2C_Arnhem_01.jpg/1280px-%27The_City_Is_The_Cinema%27_%282022%29_door_Melanie_Maria%2C_Wezenstraat%2C_Arnhem_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3723,
+      "hauteur": 2798
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blumenkarren (115412415).jpeg",
+      "description": "500px provided description: Urlaubsbild auf den Stra?en von Tallin [#blumen ,#Karren ,#Blume ,#Stra?e]",
+      "categories": [
+        "Tagetes (cultivars)",
+        "Planters",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Uwe Rosenboom",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blumenkarren_(115412415).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Blumenkarren_%28115412415%29.jpeg/1280px-Blumenkarren_%28115412415%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1153
+    }
+  ]
+}

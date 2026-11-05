@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "barre-de-seuil",
+    "terme": "la barre de seuil",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Profilé métallique mince vissé ou collé au sol sous une porte, qui couvre la jonction entre deux revêtements de sol différents.",
+    "priorite": 2,
+    "requetes": [
+      "door threshold strip floor transition",
+      "barre de seuil",
+      "marble threshold door"
+    ],
+    "incompatibles": [
+      "seuil"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ecluse de la Barre, Lille 18 aout 2018 vue du sas seuil.jpg",
+      "description": "Sas et seuil de l'écluse de la Barre de Lille, qui reliait autrefois la Haute-Deûle à la Moyenne-Deûle, avec tapis de lentilles d'eau, à Lille 18 aout 2018",
+      "categories": [
+        "Moyenne-Deûle",
+        "Self-published work",
+        "Haute-Deûle",
+        "Écluse de la Barre (Lille)"
+      ],
+      "auteur": "Lamiot",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ecluse_de_la_Barre,_Lille_18_aout_2018_vue_du_sas_seuil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Ecluse_de_la_Barre%2C_Lille_18_aout_2018_vue_du_sas_seuil.jpg/1280px-Ecluse_de_la_Barre%2C_Lille_18_aout_2018_vue_du_sas_seuil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Pompeii; its history, buildings and antiquities - an account of the destruction of the city, with a full description of the remains, and of the recent excavations and also an itinerary for visitors (14773001385).jpg",
+      "description": "Identifier : pompeiiitshist00dyer ( find matches ) Title : Pompeii; its history, buildings and antiquities : an account of the destruction of the city, with a full description of the remains, and of the recent excavations and also an itinerary for visitors Year : 1887 ( 1880s ) Authors : Dyer, Thomas Henry, 1804-1888 Subjects : Publisher : London : Bell Contributing Library : Robarts - University of Toronto Digitizing Sponsor : University of Toronto View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this ill",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Pompeii - Its history, buildings and antiquities (1887)",
+        "Pompeii in art (realistic)",
+        "Unidentified houses in Pompeii",
+        "Ancient Roman doors in Pompeii",
+        "Historical images of Pompeii - Unidentified locations"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pompeii;_its_history,_buildings_and_antiquities_-_an_account_of_the_destruction_of_the_city,_with_a_full_description_of_the_remains,_and_of_the_recent_excavations_and_also_an_itinerary_for_visitors_(14773001385).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Pompeii%3B_its_history%2C_buildings_and_antiquities_-_an_account_of_the_destruction_of_the_city%2C_with_a_full_description_of_the_remains%2C_and_of_the_recent_excavations_and_also_an_itinerary_for_visitors_%2814773001385%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1552,
+      "hauteur": 2596
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Seuil d'entrée dans l'éperon barré du camp de César.jpg",
+      "description": "Seuil d'entrée de l'éperon barré du camp préhistorique nommé camps de César",
+      "categories": [
+        "History of Haute-Saône",
+        "Chariez",
+        "Self-published work"
+      ],
+      "auteur": "Espirat",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seuil_d%27entr%C3%A9e_dans_l%27%C3%A9peron_barr%C3%A9_du_camp_de_C%C3%A9sar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Seuil_d%27entr%C3%A9e_dans_l%27%C3%A9peron_barr%C3%A9_du_camp_de_C%C3%A9sar.jpg/1280px-Seuil_d%27entr%C3%A9e_dans_l%27%C3%A9peron_barr%C3%A9_du_camp_de_C%C3%A9sar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Louis Voisinet House, Tonawanda, New York - 20191003.jpg",
+      "description": "The Louis Voisinet House, 429 Englewood Ave. at Fairfield Ave., Tonawanda, New York. One of the oldest buildings in the town, it was built in 1828 by its then forty-year-old namesake, a native of Évette-Salbert, France who had immigrated the same year with his wife and children. His eldest son, also named Louis, inherited the house and the 102 acres (41 ha) of farmland on which it sat, later expanding the family's land holdings to 130 acres (52 ha) and becoming one of the most distinguished citizens of Tonawanda of his day. The farm was sold off to land speculators not many years after the you",
+      "categories": [
+        "Stone houses in New York (state)",
+        "Gothic Revival houses in New York (state)",
+        "October 2019 in New York (state)",
+        "Houses built in New York (state) in 1828",
+        "Self-published work",
+        "Stone buildings in Erie County, New York",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2019-10-03",
+        "2019 in Erie County, New York",
+        "Houses in Tonawanda (town), New York",
+        "Gothic Revival architecture in Erie County, New York",
+        "1820s architecture in Erie County, New York",
+        "Photos taken by Andre Carrotflower in Tonawanda (town), New York",
+        "Andre Carrotflower's \"Photo a Day For However Long I Can Keep It Going\" in 2019"
+      ],
+      "auteur": "Andre Carrotflower",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Louis_Voisinet_House,_Tonawanda,_New_York_-_20191003.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Louis_Voisinet_House%2C_Tonawanda%2C_New_York_-_20191003.jpg/1280px-Louis_Voisinet_House%2C_Tonawanda%2C_New_York_-_20191003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2415,
+      "hauteur": 1811
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mosaique de seuil El Jem.jpg",
+      "description": "Mosaïque du musée archéologique d'El Jem (Tunisie) datant du III e siècle et provenant des Petits Thermes du terrain M'barek Rhaïem. Mosaïque de seuil figurant, dans cinq médaillons, cinq poissons surmontés de cinq barres. Il s'agit de l'emblème de la sodalité des Pentasii .",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W55",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Mosaics of animals in the El Jem museum",
+        "Mosaics of fish",
+        "3rd-century mosaics in Tunisia"
+      ],
+      "auteur": "Cimoi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mosaique_de_seuil_El_Jem.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mosaique_de_seuil_El_Jem.jpg/1280px-Mosaique_de_seuil_El_Jem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Exposition universelle de 1889 statue devant le pavillon de la préfecture de la Seine ville de Paris, à proximité de l, PH76842.jpg",
+      "description": "Auteur(s): Blancard, Hippolyte (1843 - 1924), photographe Autre titre: Entrée d'un pavillon de la ville de Paris, côté du Dôme / central [tour Eiffel mots barrés], ([deux personnes à gauche mots barrés]) ( un pompier / sur le seuil de la porte). (Titre inscrit (lettre)) Date de production: En 1889 Datation en siècle: 2e moitié du 19e siècle Type(s) d'objet(s): Photographie, Arts graphiques Dénomination(s): Photographie Dimensions - Oeuvre: Hauteur : 21.6 cm Largeur : 16.5 cm Description: Tirage non monté Marques, inscriptions, poinçons: Inscription - Inscription au verso Description iconograph",
+      "categories": [
+        "CC-Zero",
+        "Images from Paris Musées",
+        "Paris World Exhibition 1889 photographs in the Musée Carnavalet by Hippolyte Blancard",
+        "Pavillon de la Ville de Paris (1889)"
+      ],
+      "auteur": "Blancard, Hippolyte (1843 - 1924), photographe",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Exposition_universelle_de_1889_statue_devant_le_pavillon_de_la_pr%C3%A9fecture_de_la_Seine_ville_de_Paris,_%C3%A0_proximit%C3%A9_de_l,_PH76842.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Exposition_universelle_de_1889_statue_devant_le_pavillon_de_la_pr%C3%A9fecture_de_la_Seine_ville_de_Paris%2C_%C3%A0_proximit%C3%A9_de_l%2C_PH76842.jpg/1280px-Exposition_universelle_de_1889_statue_devant_le_pavillon_de_la_pr%C3%A9fecture_de_la_Seine_ville_de_Paris%2C_%C3%A0_proximit%C3%A9_de_l%2C_PH76842.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2008,
+      "hauteur": 2629
+    }
+  ]
+}

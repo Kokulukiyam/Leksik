@@ -1,0 +1,53 @@
+{
+  "termId": "polystyrene-expanse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photographie ancienne en noir et blanc : femme soulevant un gros rouleau blanc de Styrofoam.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Image retouchée, ancienne, polystyrène extrudé ; pas typique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan sur remplissage de combles et poutres en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Windsheim, Allemagne",
+      "note": "Matériau non identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Défilé costumé dans la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Seattle, États-Unis",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Parois métalliques bombées d'un réservoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bloc de coffrage isolant gris avec entretoises noires sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bloc en Néopor gris avec entretoises, pas la plaque blanche typique ; ambiguïté."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison dont une partie de façade est isolée, vue de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bohumín, Tchéquie",
+      "note": "Isolant sous enduit, non visible."
+    }
+  ]
+}

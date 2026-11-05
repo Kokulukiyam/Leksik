@@ -1,0 +1,119 @@
+{
+  "terme": {
+    "id": "meurtriere",
+    "terme": "la meurtrière",
+    "categorie": "Façade et ouvertures",
+    "definition": "Ouverture verticale très étroite dans un mur épais, à l'origine pour tirer à l'abri.",
+    "priorite": 3,
+    "requetes": [
+      "arrow slit castle wall",
+      "meurtrière château",
+      "loophole castle"
+    ],
+    "categoriesCommons": [
+      "Category:Arrowslits"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tchestea Bouyon calonire.jpg",
+      "description": "airtchires / calonires e tchestea d' Bouyon",
+      "categories": [
+        "Arrowslits",
+        "Interior of château de Bouillon",
+        "Self-published work",
+        "Photographs by Lucien Mahin"
+      ],
+      "auteur": "Lucyin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tchestea_Bouyon_calonire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tchestea_Bouyon_calonire.jpg/1280px-Tchestea_Bouyon_calonire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 1496
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Galartza 24069 1987 1038921.jpg",
+      "description": "Saietera edo gezileihoa Galartza dorretxeko horman, 1987",
+      "categories": [
+        "Arrowslits",
+        "Galartza dorrea"
+      ],
+      "auteur": "Gipuzkoako Foru Aldundia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Galartza_24069_1987_1038921.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Galartza_24069_1987_1038921.jpg/1280px-Galartza_24069_1987_1038921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1991,
+      "hauteur": 3023
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Meurtrière Façade nord-ouest Tour de Morestel (mai 2026).JPG",
+      "description": "Vue de la meurtrière de la façade nord-ouest de la tour médiévale de Morestel , en Isère .",
+      "categories": [
+        "Arrowslits",
+        "Morestel Castle",
+        "Self-published work"
+      ],
+      "auteur": "Florian Pépellin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Meurtri%C3%A8re_Fa%C3%A7ade_nord-ouest_Tour_de_Morestel_(mai_2026).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Meurtri%C3%A8re_Fa%C3%A7ade_nord-ouest_Tour_de_Morestel_%28mai_2026%29.JPG/1280px-Meurtri%C3%A8re_Fa%C3%A7ade_nord-ouest_Tour_de_Morestel_%28mai_2026%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tchestea airtchirreye.jpg",
+      "description": "airtchires / calonires e tchestea d' Bouyon",
+      "categories": [
+        "Arrowslits",
+        "Interior of château de Bouillon",
+        "Self-published work",
+        "Photographs by Lucien Mahin"
+      ],
+      "auteur": "Lucyin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tchestea_airtchirreye.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tchestea_airtchirreye.jpg/1280px-Tchestea_airtchirreye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 1496
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Le château de Montauban-de-Bretagne (48631473736).jpg",
+      "description": "Le château de Montauban-de-Bretagne",
+      "categories": [
+        "Arrowslits",
+        "Château de Montauban-de-Bretagne",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Bretagne photographs taken on 2019-08-15",
+        "Photographs by Mike Finn"
+      ],
+      "auteur": "Mike Finn from Worcester, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Le_ch%C3%A2teau_de_Montauban-de-Bretagne_(48631473736).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Le_ch%C3%A2teau_de_Montauban-de-Bretagne_%2848631473736%29.jpg/1280px-Le_ch%C3%A2teau_de_Montauban-de-Bretagne_%2848631473736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1708,
+      "hauteur": 2566
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cross shaped loophole.jpg",
+      "description": "Cross shaped loophole at Cahir Castle. It is part of the most defended building entrances at the castle.",
+      "categories": [
+        "Cahir Castle",
+        "Arrowslits",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cross_shaped_loophole.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cross_shaped_loophole.jpg/1280px-Cross_shaped_loophole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2016,
+      "hauteur": 4032
+    }
+  ]
+}

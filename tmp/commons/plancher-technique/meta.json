@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "plancher-technique",
+    "terme": "le plancher technique",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Plancher fait de dalles amovibles posées sur des vérins, qui laisse passer les câbles dessous ; courant dans les salles informatiques.",
+    "priorite": 3,
+    "requetes": [
+      "raised access floor",
+      "plancher technique",
+      "raised floor data center"
+    ],
+    "categoriesCommons": [
+      "Category:Raised floors",
+      "Category:Floors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Control and Support Building (7685619350).jpg",
+      "description": "Blue Grass Chemical Agent-Destruction Pilot Plant workers assemble cable trays in the floor of the Control and Support Building. These cable trays will hold electric, telephone and other cabling necessary to operate the Control and Support Building. An elevated floor will be installed over the cable tray.",
+      "categories": [
+        "Cable trays",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Raised floors",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_(7685619350).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%287685619350%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%287685619350%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A Perspective On Floor (85331857).jpeg",
+      "description": "500px provided description: A Perspective On Floor [#Wood ,#France ,#Paris ,#Street]",
+      "categories": [
+        "Floors",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Thibauld Nion",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Perspective_On_Floor_(85331857).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/A_Perspective_On_Floor_%2885331857%29.jpeg/1280px-A_Perspective_On_Floor_%2885331857%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Supercritical Water Oxidation Processing Building (17093752801).jpg",
+      "description": "A Blue Grass Chemical Agent-Destruction Pilot Plant electrician checks the level while placing a floating floor in the Supercritical Water Oxidation Processing Building. This floating floor will hold electric raceways and cables necessary to operate equipment in the building.",
+      "categories": [
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Raised floors",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Processing_Building_(17093752801).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Processing_Building_%2817093752801%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Processing_Building_%2817093752801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:202407 Sence of outdoor air dust covered on the smooth chiller room floor before be fully cleaning out yet.jpg",
+      "description": "BTW: Small image on the photo upper lift side is a complete real-scene after be fully cleaning out. The place has gated access control Photography date: 2024-07-29",
+      "categories": [
+        "Rooms",
+        "Chillers",
+        "Dust",
+        "Floors",
+        "Cleaning",
+        "Air pollution in Taiwan",
+        "Indoor",
+        "Particulate pollution",
+        "Self-published work",
+        "HDR images",
+        "Epoxy floors",
+        "Air conditioning in buildings",
+        "Liminal spaces in Taiwan"
+      ],
+      "auteur": "Junyu-K",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:202407_Sence_of_outdoor_air_dust_covered_on_the_smooth_chiller_room_floor_before_be_fully_cleaning_out_yet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/202407_Sence_of_outdoor_air_dust_covered_on_the_smooth_chiller_room_floor_before_be_fully_cleaning_out_yet.jpg/1280px-202407_Sence_of_outdoor_air_dust_covered_on_the_smooth_chiller_room_floor_before_be_fully_cleaning_out_yet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Detail-under-raised-floor.jpg",
+      "description": "Close-up view under a raised floor.",
+      "categories": [
+        "Taken with Canon PowerShot A70",
+        "Self-published work",
+        "PD-self",
+        "Assumed own work",
+        "Raised floors",
+        "Photographs taken on 2006-10-11",
+        "Floor construction"
+      ],
+      "auteur": "Jonathan Lamb",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detail-under-raised-floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Detail-under-raised-floor.jpg/1280px-Detail-under-raised-floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Child sits on the floor using a vintage typewriter while looking out a bright window in a cozy room.jpg",
+      "description": "A young child is seated on the floor beside a vintage typewriter, focused on typing. Sunlight filters through a window, illuminating the room's cozy ambiance as she glances outside.",
+      "categories": [
+        "Children",
+        "Typewriters",
+        "Floors",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_sits_on_the_floor_using_a_vintage_typewriter_while_looking_out_a_bright_window_in_a_cozy_room.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Child_sits_on_the_floor_using_a_vintage_typewriter_while_looking_out_a_bright_window_in_a_cozy_room.jpg/1280px-Child_sits_on_the_floor_using_a_vintage_typewriter_while_looking_out_a_bright_window_in_a_cozy_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    }
+  ]
+}

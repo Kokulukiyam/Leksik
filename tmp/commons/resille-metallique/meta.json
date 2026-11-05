@@ -1,0 +1,155 @@
+{
+  "terme": {
+    "id": "resille-metallique",
+    "terme": "la résille métallique",
+    "categorie": "Façade et ouvertures",
+    "definition": "Enveloppe en métal ajouré (tôle perforée, maille, lames) posée devant une façade comme filtre visuel et solaire.",
+    "priorite": 3,
+    "requetes": [
+      "perforated metal facade screen",
+      "résille métallique façade",
+      "metal mesh facade"
+    ],
+    "incompatibles": [
+      "facade-double-peau",
+      "claustra",
+      "moucharabieh",
+      "tole-perforee",
+      "metal-deploye",
+      "brise-soleil"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:LawrenceScarpa Cherokee 8268.jpg",
+      "description": "Cherokee Mixed-Use Lofts is an urban infill, mixed-use, market-rate housing project. The building is inspired by the series of paintings by the British artist Patrick Hughes titled, “Prospectivity”, whose paintings appear to be ever changing and physically moving while being viewed. At Cherokee the main architectural feature of this project is the building’s owner-controlled operable double façade system. By allowing the occupant to adjust, at will, the operable screens of the building façade, the facade is virtually redesigned “live” from within the space, reflecting the occupants of the buil",
+      "categories": [
+        "Lawrence Scarpa",
+        "Apartment buildings in Los Angeles",
+        "Self-published work",
+        "Buildings by Angela Brooks",
+        "Double-skin facades"
+      ],
+      "auteur": "Calderoliver",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LawrenceScarpa_Cherokee_8268.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/LawrenceScarpa_Cherokee_8268.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 786
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Gewerbepark Hochfranken – Neubau 20250427 HOF8526 RAW-Export (cropped).jpg",
+      "description": "New building at the Hochfranken business park, is to belong to Pharma Stulln GmbH as an external warehouse in Hof. The photo has a three-color trichotomy; the corrugated metal-like façade is highlighted. The photo looks very tidy and almost symbolic. The light cast creates a color gradient on the façade. The blue sky is simple and contains no disruptive elements. Cutting without mesh at the top edge of the building",
+      "categories": [
+        "Retouched pictures",
+        "Featured pictures of buildings in Germany",
+        "Self-published work",
+        "Featured pictures of Bavaria",
+        "Gates in Upper Franconia",
+        "Lens focal length 20 mm",
+        "Facades in Hof (Saale)",
+        "ISO speed rating 50",
+        "Featured pictures of Hof (Saale)",
+        "Featured pictures by PantheraLeo1359531",
+        "Featured pictures of doors",
+        "Images of Hof (Saale) taken with Sony FE 20mm F1.8 G",
+        "Files with coordinates missing SDC location of creation (50° N, 11° E)",
+        "Photographs of Hof (Saale) by PantheraLeo1359531",
+        "Photographs with aspect ratio of 3:2 by PantheraLeo1359531",
+        "ISO speed rating 50 by PantheraLeo1359531",
+        "Images of Hof (Saale) taken with Sony ILCE-7RM5",
+        "Files uploaded by PantheraLeo1359531",
+        "Taken with Sony FE 20mm F1.8 G by PantheraLeo1359531",
+        "Lens focal length 20 mm by PantheraLeo1359531",
+        "Taken with Sony ILCE-7RM4 by User:PantheraLeo1359531",
+        "Lossy compressed images of Hof (Saale)",
+        "Hof (Saale) photographs taken on 2025-04-27",
+        "Photographs created by PantheraLeo1359531 on 2025-04-27",
+        "Gewerbepark Hochfranken",
+        "Blue sky in Hofer Land",
+        "Taken with Sony ILCE-7RM5 and Sony FE 20mm F1.8 G"
+      ],
+      "auteur": "Foto: PantheraLeo1359531 crop+Farbraumkonvertierung: Radomianin",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gewerbepark_Hochfranken_%E2%80%93_Neubau_20250427_HOF8526_RAW-Export_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Gewerbepark_Hochfranken_%E2%80%93_Neubau_20250427_HOF8526_RAW-Export_%28cropped%29.jpg/1280px-Gewerbepark_Hochfranken_%E2%80%93_Neubau_20250427_HOF8526_RAW-Export_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8176,
+      "hauteur": 4568
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:LawrenceScarpa Cherokee 007780-2.jpg",
+      "description": "Cherokee Mixed-Use Lofts is an urban infill, mixed-use, market-rate housing project. The building is inspired by the series of paintings by the British artist Patrick Hughes titled, “Prospectivity”, whose paintings appear to be ever changing and physically moving while being viewed. At Cherokee the main architectural feature of this project is the building’s owner-controlled operable double façade system. By allowing the occupant to adjust, at will, the operable screens of the building façade, the facade is virtually redesigned “live” from within the space, reflecting the occupants of the buil",
+      "categories": [
+        "Sustainable architecture",
+        "Lawrence Scarpa",
+        "Apartment buildings in Los Angeles",
+        "Stucco buildings in California",
+        "Self-published work",
+        "Gray buildings",
+        "Buildings by Angela Brooks",
+        "Double-skin facades"
+      ],
+      "auteur": "Calderoliver",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LawrenceScarpa_Cherokee_007780-2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/LawrenceScarpa_Cherokee_007780-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 769
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Goodman Building, State Street, Madison, WI (52733354652).jpg",
+      "description": "Built in 1979, this contemporary mixed-use building was renovated in the early 2010s to its present appearance. The building features a facade clad in brick, glass curtain walls, and multi-colored metal panels, with wire mesh railings on the upper floors, and a recessed storefront at the retail spaces on the ground floor.",
+      "categories": [
+        "State Street (Madison)",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "September 2022 in Madison, Wisconsin"
+      ],
+      "auteur": "Warren LeMay from Covington, KY, United States",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Goodman_Building,_State_Street,_Madison,_WI_(52733354652).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Goodman_Building%2C_State_Street%2C_Madison%2C_WI_%2852733354652%29.jpg/1280px-Goodman_Building%2C_State_Street%2C_Madison%2C_WI_%2852733354652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3788,
+      "hauteur": 3061
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Urban Lab Building (Morgan Live + Work), Morgan Street and 32nd Street, Bridgeport, Chicago, IL (54835393789).jpg",
+      "description": "Built in 2002-2004, this Contemporary building was designed by Martin Felsen and Sarah Dunn to serve as their personal residence, as well as the home of their architecture and design firm, Urban Lab. The building consists of a one-story front wing, containing an architecture studio, with a principal facade clad in rusted cor-ten steel panels with perforated metal screens at the windows, corrugated metal panels on the side and rear facades, and a second-story wing that cantilevers onto a grassy mound in the rear, which is clad in metal panels with large bays and exposed steel cross-bracing. The",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Warren LeMay in Chicago",
+        "Urban Lab Building"
+      ],
+      "auteur": "Warren LeMay from Chicago, IL, United States",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Urban_Lab_Building_(Morgan_Live_%2B_Work),_Morgan_Street_and_32nd_Street,_Bridgeport,_Chicago,_IL_(54835393789).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Urban_Lab_Building_%28Morgan_Live_%2B_Work%29%2C_Morgan_Street_and_32nd_Street%2C_Bridgeport%2C_Chicago%2C_IL_%2854835393789%29.jpg/1280px-Urban_Lab_Building_%28Morgan_Live_%2B_Work%29%2C_Morgan_Street_and_32nd_Street%2C_Bridgeport%2C_Chicago%2C_IL_%2854835393789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3949,
+      "hauteur": 2962
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Urban Lab Building (Morgan Live + Work), Morgan Street and 32nd Street, Bridgeport, Chicago, IL (54835408168).jpg",
+      "description": "Built in 2002-2004, this Contemporary building was designed by Martin Felsen and Sarah Dunn to serve as their personal residence, as well as the home of their architecture and design firm, Urban Lab. The building consists of a one-story front wing, containing an architecture studio, with a principal facade clad in rusted cor-ten steel panels with perforated metal screens at the windows, corrugated metal panels on the side and rear facades, and a second-story wing that cantilevers onto a grassy mound in the rear, which is clad in metal panels with large bays and exposed steel cross-bracing. The",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Warren LeMay in Chicago",
+        "Urban Lab Building"
+      ],
+      "auteur": "Warren LeMay from Chicago, IL, United States",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Urban_Lab_Building_(Morgan_Live_%2B_Work),_Morgan_Street_and_32nd_Street,_Bridgeport,_Chicago,_IL_(54835408168).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Urban_Lab_Building_%28Morgan_Live_%2B_Work%29%2C_Morgan_Street_and_32nd_Street%2C_Bridgeport%2C_Chicago%2C_IL_%2854835408168%29.jpg/1280px-Urban_Lab_Building_%28Morgan_Live_%2B_Work%29%2C_Morgan_Street_and_32nd_Street%2C_Bridgeport%2C_Chicago%2C_IL_%2854835408168%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2982,
+      "hauteur": 3976
+    }
+  ]
+}

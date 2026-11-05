@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "palmette",
+    "terme": "la palmette",
+    "categorie": "Ornement",
+    "definition": "Motif stylisé en éventail de feuilles de palmier, répété dans les frises et les acrotères.",
+    "priorite": 3,
+    "requetes": [
+      "palmette ornament",
+      "anthemion palmette",
+      "palmette"
+    ],
+    "incompatibles": [
+      "frise",
+      "bas-relief",
+      "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Palmettes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Anthemion with relief, marble, 470-460 BC, AM Amorgos, 180362.jpg",
+      "description": "The upper part of a funerary stele. marble anthemion, 470-460 BC. Under the anthemion the head of a young male, the honored dead. Work of a Parian sculptor. Found at Chora (in the wider area of Minoa). Archaeological Collection of Amorgos, Inv. No. 13.",
+      "categories": [
+        "Palmettes",
+        "Self-published work",
+        "Marble reliefs in Greece",
+        "Archaeological Collection of Amorgos, Collections"
+      ],
+      "auteur": "Zde",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anthemion_with_relief,_marble,_470-460_BC,_AM_Amorgos,_180362.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Anthemion_with_relief%2C_marble%2C_470-460_BC%2C_AM_Amorgos%2C_180362.jpg/1280px-Anthemion_with_relief%2C_marble%2C_470-460_BC%2C_AM_Amorgos%2C_180362.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3131,
+      "hauteur": 4697
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Colonia Ulpia Escus 2010 PD 0067.JPG",
+      "description": "Colonia Ulpia Oescus: lateinisch Ulpia Escus; Nordbulgarien; an der Donau; beim Dorf Gigen; menschenleer; eingezäunt; gepflegte Anlage",
+      "categories": [
+        "Palmettes",
+        "Taken with Canon EOS 500D",
+        "Moldings",
+        "Self-published work",
+        "Roman reliefs in Colonia Ulpia Oescus"
+      ],
+      "auteur": "Bin im Garten",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Colonia_Ulpia_Escus_2010_PD_0067.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Colonia_Ulpia_Escus_2010_PD_0067.JPG/1280px-Colonia_Ulpia_Escus_2010_PD_0067.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Palmette.jpg",
+      "description": "The type of palmette commonly found as an acroterion",
+      "categories": [
+        "Palmettes",
+        "Taken with Sony DSC-T1",
+        "PD-user",
+        "Acroterion"
+      ],
+      "auteur": "Enyama sur Wikipédia anglais",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Palmette.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Palmette.jpg/1280px-Palmette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1312,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:7714 - Piraeus Arch. Museum, Athens -Stele with family scene - Photo by Giovanni Dall'Orto, Nov 14 2009.jpg",
+      "description": "Stele of Aristylla, who bids farewell to her daughter Chairestrate, next to her husband Kephisodotos of Pithos. Behind the deceased, her father Philon from Phaleron. 380/370 a.C. On display at the open-air exhibition along the Ancient Greek theater in the Archaeological Museum of Piraeus (Athens) . Picture by Giovanni Dall'Orto , November 14 2009.",
+      "categories": [
+        "Palmettes",
+        "Taken with Canon EOS 1000D",
+        "Pithos",
+        "Phaleron",
+        "Ancient Athenian women",
+        "Attribution only license",
+        "Self-published work",
+        "Ancient Greek chairs",
+        "Marble reliefs in Greece",
+        "Ancient Greek funerary steles in the Archaeological Museum of Piraeus (Athens)",
+        "380s BC reliefs in Athens"
+      ],
+      "auteur": "Giovanni Dall'Orto .",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:7714_-_Piraeus_Arch._Museum,_Athens_-Stele_with_family_scene_-_Photo_by_Giovanni_Dall%27Orto,_Nov_14_2009.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/7714_-_Piraeus_Arch._Museum%2C_Athens_-Stele_with_family_scene_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg/1280px-7714_-_Piraeus_Arch._Museum%2C_Athens_-Stele_with_family_scene_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1408,
+      "hauteur": 2398
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Anthemia types by culture.jpg",
+      "description": "Anthemia types by culture (in Greek)",
+      "categories": [
+        "Palmettes",
+        "PD Old",
+        "PD US expired",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "PD-US missing SDC copyright status",
+        "Illustrations in Greek"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anthemia_types_by_culture.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Anthemia_types_by_culture.jpg/1280px-Anthemia_types_by_culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1746,
+      "hauteur": 2851
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:195 Bwy F sun jeh.jpg",
+      "description": "Looking northwest across Broadway at transom of 195 Broadway on a sunny day.",
+      "categories": [
+        "Palmettes",
+        "Taken with Nikon Coolpix P6000",
+        "CC-Zero",
+        "195 Broadway",
+        "Buff (colour)",
+        "Rosettes (ornament)",
+        "Nude females in reliefs",
+        "New York City photographs taken on 2010-03-06",
+        "Files with coordinates missing SDC location of creation",
+        "Financial District, Manhattan in 2010",
+        "March 2010 in Manhattan, New York City",
+        "March 2010 photos by Jim.henderson",
+        "Reliefs of fleur-de-lis",
+        "Bronze reliefs in the United States",
+        "2010 Manhattan photos by Jim.henderson"
+      ],
+      "auteur": "Jim.henderson",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:195_Bwy_F_sun_jeh.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/195_Bwy_F_sun_jeh.jpg/1280px-195_Bwy_F_sun_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3174,
+      "hauteur": 2222
+    }
+  ]
+}

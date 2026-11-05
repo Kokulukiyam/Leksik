@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "trappe-de-visite",
+    "terme": "la trappe de visite",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Petit panneau ouvrant dans un faux plafond ou une cloison, qui donne accès aux réseaux cachés.",
+    "priorite": 2,
+    "requetes": [
+      "ceiling access panel",
+      "trappe de visite plafond",
+      "drywall access hatch"
+    ],
+    "incompatibles": [
+      "faux-plafond"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fowler Ridge Wind Farm 2621899372.jpg",
+      "description": "The access door on the bottom of one of the wind turbines.",
+      "categories": [
+        "Taken with Sony DSLR-A100",
+        "Fowler Ridge Wind Farm",
+        "Access panels and doors",
+        "Flickr images reviewed by FlickreviewR",
+        "Wind turbines in Indiana",
+        "June 2008 in Indiana",
+        "United States photographs taken on 2008-06-28"
+      ],
+      "auteur": "Patrick Finnegan from Lafayette, IN, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fowler_Ridge_Wind_Farm_2621899372.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Fowler_Ridge_Wind_Farm_2621899372.jpg/1280px-Fowler_Ridge_Wind_Farm_2621899372.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2607,
+      "hauteur": 3880
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Old School of Medicine interior (55).JPG",
+      "description": "Interior of Leeds School of Medicine, Thoresby Place, Leeds, West Yorkshire, England. It was designed by William Henry Thorp (born 1852), founded in 1890, and completed in 1894. All the original stone carving on the exterior, and the original wood and stone carving inside, was executed by John Wormald Appleyard (1831-1894). Showing the mosaic floor, in the hexagonal entrance hall.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Mosaic floors in Leeds",
+        "Old Leeds School of Medicine, entrance hall"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_School_of_Medicine_interior_(55).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Old_School_of_Medicine_interior_%2855%29.JPG/1280px-Old_School_of_Medicine_interior_%2855%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4232,
+      "hauteur": 3628
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:US Navy 100929-N-7103C-002 Aviation Structural Mechanic (Equipment) Airman Frederick Copuyoc removes bolts from the access panel of an F-A-18C Horn.jpg",
+      "description": "PACIFIC OCEAN (Sept. 29, 2010) Aviation Structural Mechanic (Equipment) Airman Frederick Copuyoc, from Quezon City, Philippines, removes bolts from the access panel of an F/A-18C Hornet during a scheduled maintenance aboard the aircraft carrier USS George Washington (CVN 73). George Washington, the Navy's only permanently forward-deployed aircraft carrier, is underway helping to ensure security and stability in the western Pacific Ocean. (U.S. Navy photo by Mass Communication Specialist 3rd Class David A. Cox/Released)",
+      "categories": [
+        "Taken with Nikon D300s",
+        "Access panels and doors",
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Photographs taken on 2010-09-29",
+        "Maintenance of military aircraft on USS George Washington (CVN-73)"
+      ],
+      "auteur": "U.S. Navy photo by Mass Communication Specialist 3rd Class David A. Cox",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:US_Navy_100929-N-7103C-002_Aviation_Structural_Mechanic_(Equipment)_Airman_Frederick_Copuyoc_removes_bolts_from_the_access_panel_of_an_F-A-18C_Horn.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/US_Navy_100929-N-7103C-002_Aviation_Structural_Mechanic_%28Equipment%29_Airman_Frederick_Copuyoc_removes_bolts_from_the_access_panel_of_an_F-A-18C_Horn.jpg/1280px-US_Navy_100929-N-7103C-002_Aviation_Structural_Mechanic_%28Equipment%29_Airman_Frederick_Copuyoc_removes_bolts_from_the_access_panel_of_an_F-A-18C_Horn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2520,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Old School of Medicine interior (118).JPG",
+      "description": "Interior of Leeds School of Medicine, Thoresby Place, Leeds, West Yorkshire, England. It was designed by William Henry Thorp (born 1852), founded in 1890, and completed in 1894. All the original stone carving on the exterior, and the original wood and stone carving inside, was executed by John Wormald Appleyard (1831-1894). Showing an unusual brass cage-panel in the inner door of the hexagonal entrance hall.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Old Leeds School of Medicine, entrance hall"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_School_of_Medicine_interior_(118).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Old_School_of_Medicine_interior_%28118%29.JPG/1280px-Old_School_of_Medicine_interior_%28118%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:STS-133 access door closed.jpg",
+      "description": "On Launch Pad 39A at NASA's Kennedy Space Center in Florida, technicians will access the intertank of space shuttle Discovery's external fuel tank through this door. The intertank is unpressurized and holds most of the tank's electrical components. It sits between the liquid hydrogen tank and liquid oxygen tank. Technicians will be working inside the intertank to further analyze two cracks that were found on the tank’s metal exterior. The foam cracked during initial loading operations for space shuttle Discovery’s launch attempt on Nov. 5. The cracks are on one of the stringers, which are the ",
+      "categories": [
+        "PD NASA",
+        "STS-133",
+        "Access panels and doors",
+        "Kennedy Space Center in 2010",
+        "United States photographs taken on 2010-11-11",
+        "Files from NASA with known IDs",
+        "Space Shuttle Discovery at the Kennedy Space Center Launch Complex 39",
+        "Photographs by Jack Pfaller",
+        "ET-137"
+      ],
+      "auteur": "NASA/Jack Pfaller",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:STS-133_access_door_closed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/STS-133_access_door_closed.jpg/1280px-STS-133_access_door_closed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Skoda 1000MB hajaja engine 2.JPG",
+      "description": "Radiator and engine of Škoda 1000MB Combi prototype as viewed from luggage space throught service door.",
+      "categories": [
+        "Škoda 1000 MB Combi",
+        "Access panels and doors",
+        "Self-published work",
+        "PD-self",
+        "Taken with Sony Ericsson K800i",
+        "1960s Škoda automobiles in the Škoda Museum",
+        "Depository of Škoda Museum"
+      ],
+      "auteur": "VentYl",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Skoda_1000MB_hajaja_engine_2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Skoda_1000MB_hajaja_engine_2.JPG/1280px-Skoda_1000MB_hajaja_engine_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

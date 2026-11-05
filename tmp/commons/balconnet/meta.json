@@ -1,0 +1,124 @@
+{
+  "terme": {
+    "id": "balconnet",
+    "terme": "le balconnet",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps placé devant une porte-fenêtre, sans plateforme ou avec une très faible avancée.",
+    "priorite": 3,
+    "requetes": [
+      "french balcony railing",
+      "balconnet fer forgé",
+      "juliet balcony"
+    ],
+    "incompatibles": [
+      "balcon",
+      "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Balconies"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Balkonverglasung Solarlux.jpg",
+      "description": "Balkonverglasung SL 35; angefaltet, voll geöffnet und im geschlossenen Zustand",
+      "categories": [
+        "Balconies",
+        "Solarlux",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Sandra Gussmann",
+      "licence": "CC BY-SA 2.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balkonverglasung_Solarlux.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Balkonverglasung_Solarlux.jpg/1280px-Balkonverglasung_Solarlux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2704,
+      "hauteur": 4064
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:020260502 National flag of Poland on balconies.jpg",
+      "description": "A subtle manifestation of national identity framed by the architectural glory of a standard Polish housing estate.",
+      "categories": [
+        "Balconies",
+        "Self-published work"
+      ],
+      "auteur": "Auctor quaerendae",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:020260502_National_flag_of_Poland_on_balconies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/020260502_National_flag_of_Poland_on_balconies.jpg/1280px-020260502_National_flag_of_Poland_on_balconies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2962,
+      "hauteur": 3950
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:- panoramio (1494).jpg",
+      "description": "",
+      "categories": [
+        "Balconies",
+        "Media lacking a description",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2010-11-21",
+        "Images from Panoramio with bad file names"
+      ],
+      "auteur": "Vinicius MOREIRA ROD…",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_(1494).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/-_panoramio_%281494%29.jpg/1280px--_panoramio_%281494%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:030 Ipoh Enlightened Heart Elevated Balconies.jpg",
+      "description": "Ipoh Enlightened Heart Elevated Balconies",
+      "categories": [
+        "Taken with Canon Digital IXUS 860 IS",
+        "Ipoh",
+        "Balconies",
+        "Self-published work"
+      ],
+      "auteur": "Anandajoti",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:030_Ipoh_Enlightened_Heart_Elevated_Balconies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/030_Ipoh_Enlightened_Heart_Elevated_Balconies.jpg/1280px-030_Ipoh_Enlightened_Heart_Elevated_Balconies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Balcony (69872709).jpeg",
+      "description": "500px provided description: Balcony [#street ,#colour ,#photo ,#photography ,#blackandwhite ,#photographer ,#balcony ,#foto ,#fotografia ,#streetphotography ,#blancoynegro ,#streetphoto ,#Salamanca ,#Murcia ,#fotocolor]",
+      "categories": [
+        "Balconies",
+        "Photos imported with import-500px",
+        "Photographs by Pedro Soler Bueno"
+      ],
+      "auteur": "Pedro Soler Bueno",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_(69872709).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Balcony_%2869872709%29.jpeg/1280px-Balcony_%2869872709%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1597,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:BalcónCeramica.jpg",
+      "description": "Balcón de Cerámica",
+      "categories": [
+        "Taken with Olympus SZ-14",
+        "Balconies",
+        "Self-published work",
+        "Ceramic reliefs"
+      ],
+      "auteur": "Victor Muñoz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balc%C3%B3nCeramica.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Balc%C3%B3nCeramica.jpg/1280px-Balc%C3%B3nCeramica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    }
+  ]
+}

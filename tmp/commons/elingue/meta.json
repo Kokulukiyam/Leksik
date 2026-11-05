@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "elingue",
+    "terme": "l'élingue",
+    "categorie": "Chantier et outillage",
+    "definition": "Sangle, câble ou chaîne terminé par des boucles ou des crochets, qui attache une charge au crochet de la grue.",
+    "priorite": 3,
+    "requetes": [
+      "lifting sling",
+      "élingue de levage",
+      "crane sling load"
+    ],
+    "categoriesCommons": [
+      "Category:Lifting equipment"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Members of Massachusetts Task Force 1 practice lifting and moving heavy objects using nothing but muscle and wood during an 80 hour structural collapse training course in Beverly, M - DPLA - ed81367266d391c8e93e5693d66b324e.jpg",
+      "description": "The original finding aid described this as: Date Taken: 2014-10-24 12:54:00 UTC Photographer name: Eilis Maynard City/State: Beverly, MA Categories: Preparations ^ Training",
+      "categories": [
+        "Beverly, Massachusetts",
+        "Media contributed by the National Archives and Records Administration",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Lifting equipment",
+        "Media contributed by National Archives at College Park - Still Pictures",
+        "PD US FEMA",
+        "US National Archives series: Photographs Relating to Disasters and Emergency Management Programs, Activities, and Officials, 1998 - 9/26/2016"
+      ],
+      "auteur": "Department of Homeland Security. Federal Emergency Management Agency. Public Affairs Division. 3/1/2003",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Members_of_Massachusetts_Task_Force_1_practice_lifting_and_moving_heavy_objects_using_nothing_but_muscle_and_wood_during_an_80_hour_structural_collapse_training_course_in_Beverly,_M_-_DPLA_-_ed81367266d391c8e93e5693d66b324e.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Members_of_Massachusetts_Task_Force_1_practice_lifting_and_moving_heavy_objects_using_nothing_but_muscle_and_wood_during_an_80_hour_structural_collapse_training_course_in_Beverly%2C_M_-_DPLA_-_ed81367266d391c8e93e5693d66b324e.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4202,
+      "hauteur": 2668
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Articulated lorry lift, Grand Theatre, Harrison Street, Leeds (12th April 2014).JPG",
+      "description": "Articulated lorry lift, Grand Theatre, Harrison Street, Leeds, West Yorkshire. Taken on the afternoon of Saturday the 12th of April 2014.",
+      "categories": [
+        "Taken with Sony DSC-W730",
+        "Lifting equipment",
+        "Self-published work",
+        "England photographs taken on 2014-04-12",
+        "Box semi-trailer trucks",
+        "Scania cab-over-engine trucks",
+        "Scania semi-trailer tractors",
+        "Trucks in West Yorkshire",
+        "Harrison Street, Leeds",
+        "April 2014 in Leeds",
+        "2014 on New Briggate"
+      ],
+      "auteur": "Mtaylor848",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Articulated_lorry_lift,_Grand_Theatre,_Harrison_Street,_Leeds_(12th_April_2014).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Articulated_lorry_lift%2C_Grand_Theatre%2C_Harrison_Street%2C_Leeds_%2812th_April_2014%29.JPG/1280px-Articulated_lorry_lift%2C_Grand_Theatre%2C_Harrison_Street%2C_Leeds_%2812th_April_2014%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:DSIR archive G24 023.jpg",
+      "description": "Three Kings Islands Field trip, rope up from landing, Nov 1970 [G_2_4__23]",
+      "categories": [
+        "Ropes",
+        "Lifting equipment",
+        "Uploaded with OpenRefine",
+        "Images from the DSIR",
+        "Staff of Department of Scientific and Industrial Research (New Zealand)"
+      ],
+      "auteur": "Department of Scientific and Industrial Research",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DSIR_archive_G24_023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/DSIR_archive_G24_023.jpg/1280px-DSIR_archive_G24_023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4304,
+      "hauteur": 2803
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Boomlift at construction site.jpg",
+      "description": "A boom lift on a construction site",
+      "categories": [
+        "Construction sites",
+        "CC-Zero",
+        "Lifting equipment",
+        "Self-published work"
+      ],
+      "auteur": "CaptainHisDudeness",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boomlift_at_construction_site.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Boomlift_at_construction_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Control and Support Building (9091268591).jpg",
+      "description": "Blue Grass Chemical Agent-Destruction Pilot Plant workers prepare to lift and place sections of cascading air ventilation ducting in the Control and Support Building. The cascading ventilation system will pull air through the facility from cleaner areas to more contaminated areas.",
+      "categories": [
+        "Butterfly valves",
+        "Fire dampers",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Lifting equipment",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_(9091268591).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%289091268591%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%289091268591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Eerste Wereldoorlog Ravitaillering Duitse bakkers met brood bij veldbakkerij aan het Oostfront, SFA022801617.jpg",
+      "description": "Omschrijving: Eerste Wereldoorlog : Ravitaillering : Duitse bakkers met brood bij veldbakkerij aan het Oostfront. 1914.",
+      "categories": [
+        "PD US",
+        "Lifting equipment",
+        "PD-anon-70-EU",
+        "Template Unknown (author)",
+        "Photographs from Spaarnestad Photo before 1929"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eerste_Wereldoorlog_Ravitaillering_Duitse_bakkers_met_brood_bij_veldbakkerij_aan_het_Oostfront,_SFA022801617.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Eerste_Wereldoorlog_Ravitaillering_Duitse_bakkers_met_brood_bij_veldbakkerij_aan_het_Oostfront%2C_SFA022801617.jpg/1280px-Eerste_Wereldoorlog_Ravitaillering_Duitse_bakkers_met_brood_bij_veldbakkerij_aan_het_Oostfront%2C_SFA022801617.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2263,
+      "hauteur": 3542
+    }
+  ]
+}

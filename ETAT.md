@@ -40,15 +40,15 @@ chances de croiser sur un chantier (génériques et précis) ; parties toujours 
 
 ## Journal des lots
 
-- Première vérification (agents Sonnet) : p-001 à p-016 faits (10 termes par lot), p-017 à p-020 lancés (15 termes).
-- Contre-vérification (modèle principal) : v2-001 à v2-004 faits.
-- 5 nov. : passe « critères croisés » (539 paires incompatibles, `scripts/verif/consignes-axes.md`) appliquée.
-- Recherche Commons par catégories vérifiées depuis le 4 nov. 23 h ; les termes téléchargés avant (environ 210)
-  ont eu la recherche plein texte : seconde passe à faire pour ceux qui ont moins de 2 images
-  (`node scripts/commons.mjs --suite --categories <ids>`, puis 1re vérification des nouvelles candidates seulement).
-- Limite d'utilisation Claude atteinte deux fois : reprendre les agents interrompus avec SendMessage, ou relancer
-  le lot (un JSON incomplet est compté « à vérifier »).
-- Pour savoir quoi faire : `python3 scripts/avancement.py`.
+- Téléchargement Commons (1re passe) : TERMINÉ le 5 nov. matin pour les 982 termes.
+- Première vérification (agents Sonnet) : p-001 à p-032 faits ; p-033 à p-036 en cours (repris après la limite).
+- Contre-vérification (modèle principal) : v2-001 à v2-008 faits.
+- Seconde passe par catégories en cours pour 377 termes qui ont moins de 2 images
+  (`tmp/seconde-passe-ids.txt`, log `tmp/commons-passe2.log`) : ses nouvelles candidates (07–12) apparaissent
+  « à vérifier (1re) » ; les agents ne vérifient que les candidates absentes du JSON.
+- Restent à traiter ensuite : les 10 termes « sans candidate ».
+- Limite d'utilisation Claude atteinte trois fois : reprendre les agents interrompus avec SendMessage.
+- État : `python3 scripts/avancement.py`. Jeu au 5 nov. 4 h : 229 termes, 342 images.
 
 ## Rappels
 

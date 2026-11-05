@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "marche-dansante",
+    "terme": "la marche dansante",
+    "categorie": "Escaliers et circulations",
+    "definition": "Marche tournante, plus large d'un côté que de l'autre, qui fait changer l'escalier de direction.",
+    "priorite": 3,
+    "requetes": [
+      "winder stairs",
+      "marches balancées escalier",
+      "winder steps"
+    ],
+    "incompatibles": [
+      "marche",
+      "escalier-quart-tournant"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:3rd staircase.jpg",
+      "description": "Carpet installation with border",
+      "categories": [
+        "Staircases",
+        "Stairs with carpets",
+        "Self-published work",
+        "Unidentified houses",
+        "Rugs and carpets in brown"
+      ],
+      "auteur": "AIVOP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3rd_staircase.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/3rd_staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Alaverdi - building interior.jpg",
+      "description": "Apartment building interior in Alaverdi, Armenia.",
+      "categories": [
+        "Building interiors in Armenia",
+        "Taken with Sony DSC-RX100 III",
+        "Staircases",
+        "Alaverdi",
+        "Uploaded with VicuñaUploader",
+        "Apartment buildings in Armenia",
+        "Pink walls",
+        "Armenia photographs taken on 2018-05-10"
+      ],
+      "auteur": "Tiia Monto",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alaverdi_-_building_interior.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alaverdi_-_building_interior.jpg/1280px-Alaverdi_-_building_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2121,
+      "hauteur": 3182
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Balustrade Upstairs Southgate-Lewis House 1980.jpg",
+      "description": "The stairway balustrade of the Southgate-Lewis House was constructed by the renowned builder Robert C. Lambie and has been referred to as \"one of the finest staircases in all of Austin.\" This photograph shows the balustrade and the landing at the top of the staircase on the second floor directly after the house was saved from demolition, restored and preserved, circa 1980.",
+      "categories": [
+        "Woodworking",
+        "Staircases",
+        "Balustrades",
+        "Southgate-Lewis House",
+        "Self-published work",
+        "Woodwork"
+      ],
+      "auteur": "DGAAustin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg/1280px-Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4500,
+      "hauteur": 3155
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A staircase to first floor.jpg",
+      "description": "this is a staircase that connects to the first floor on the outside separated from the ground floor",
+      "categories": [
+        "Buildings in Kenya",
+        "Staircases",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 in Kenya",
+        "Stairs in Kenya"
+      ],
+      "auteur": "Latif2022",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_staircase_to_first_floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/A_staircase_to_first_floor.jpg/1280px-A_staircase_to_first_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2024 Kežmarok New Lutheran Church interior (1).jpg",
+      "description": "Nový evangelický kostel v Kežmaroku. Interiér. Pohled na oltářní část.",
+      "categories": [
+        "CC-Zero",
+        "Staircases",
+        "Self-published work",
+        "Lutheran altars in Slovakia",
+        "Evangelic church in Kežmarok-interior"
+      ],
+      "auteur": "Qasinka",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024_Ke%C5%BEmarok_New_Lutheran_Church_interior_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2024_Ke%C5%BEmarok_New_Lutheran_Church_interior_%281%29.jpg/1280px-2024_Ke%C5%BEmarok_New_Lutheran_Church_interior_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2176,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6.jpg",
+      "description": "Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "June 2024 in Lower Saxony",
+        "Amsbergstraße 27 (Bad Harzburg)"
+      ],
+      "auteur": "Steffen Dietrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg/1280px-Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    }
+  ]
+}

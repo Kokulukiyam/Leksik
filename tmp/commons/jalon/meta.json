@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "jalon",
+    "terme": "le jalon",
+    "categorie": "Chantier et outillage",
+    "definition": "Tige à bandes rouges et blanches plantée verticalement pour signaler un point visé de loin.",
+    "priorite": 3,
+    "requetes": [
+      "ranging pole",
+      "jalon topographie",
+      "range pole red white"
+    ],
+    "incompatibles": [
+      "mire"
+    ],
+    "categoriesCommons": [
+      "Category:Surveying instruments"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chvalšiny, muzeum, zeměměřické přístroje (1).jpg",
+      "description": "Zeměměřické nástroje užívané při výstavbě Schwarzenberského plavebního kanálu, vystavené ve chvalšinském muzeu.",
+      "categories": [
+        "Taken with Canon EOS 600D",
+        "Surveying instruments",
+        "Museum in Chvalšiny",
+        "Uploaded with VicuñaUploader",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Jan Polák",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chval%C5%A1iny,_muzeum,_zem%C4%9Bm%C4%9B%C5%99ick%C3%A9_p%C5%99%C3%ADstroje_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Chval%C5%A1iny%2C_muzeum%2C_zem%C4%9Bm%C4%9B%C5%99ick%C3%A9_p%C5%99%C3%ADstroje_%281%29.jpg/1280px-Chval%C5%A1iny%2C_muzeum%2C_zem%C4%9Bm%C4%9B%C5%99ick%C3%A9_p%C5%99%C3%ADstroje_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Göttingen-Diopter.Lineal.mit.Kompass.01.JPG",
+      "description": "",
+      "categories": [
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Städtisches Museum Göttingen",
+        "Surveying instruments",
+        "Media missing infobox template",
+        "Self-published work",
+        "PD-self",
+        "Goniographe"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:G%C3%B6ttingen-Diopter.Lineal.mit.Kompass.01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/G%C3%B6ttingen-Diopter.Lineal.mit.Kompass.01.JPG/1280px-G%C3%B6ttingen-Diopter.Lineal.mit.Kompass.01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 2136
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Basisapparat.Gebrueder.Brunner.Paris.1878.jpg",
+      "description": "Basisapparat zur Ausmessung von Basislinien. Hersteller Gebrüder Brunner in Paris, Baujahre 1876 bis 1878, Exponat der Ausstellung 2017 vom GeoForschungsZentrum Potsdam",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-GX8",
+        "CC-Zero",
+        "Surveying instruments",
+        "Helmholtz-Zentrum Potsdam – Deutsches GeoForschungsZentrum",
+        "Taken with Nocticron 42.5mm",
+        "Self-published work",
+        "F-number f/1.2"
+      ],
+      "auteur": "Bautsch",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Basisapparat.Gebrueder.Brunner.Paris.1878.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Basisapparat.Gebrueder.Brunner.Paris.1878.jpg/1280px-Basisapparat.Gebrueder.Brunner.Paris.1878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3293,
+      "hauteur": 4940
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:District-Nabawan Sabah Land-Surveyors-01.jpg",
+      "description": "Kg. Salarom, Sapulut, Sabah: Land surveyors of Public Works Department Sabah mapping the exact topography of the new Sapulut-Kalabakan Road near Salarom",
+      "categories": [
+        "Taken with Canon EOS 5D Mark III",
+        "Surveyors",
+        "Surveying instruments",
+        "Self-published work",
+        "Information field template with formatting",
+        "Images by Cccefalon",
+        "Public Works Department Sabah",
+        "Files with coordinates missing SDC location of creation",
+        "Malaysia photographs taken on 2014-05-20",
+        "Images of Sabah by User:Cccefalon",
+        "Salarom",
+        "Kalabakan-Sapulut Road"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:District-Nabawan_Sabah_Land-Surveyors-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/District-Nabawan_Sabah_Land-Surveyors-01.jpg/1280px-District-Nabawan_Sabah_Land-Surveyors-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4382,
+      "hauteur": 3386
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Geodimeter 8 control panel.jpg",
+      "description": "Operator control panel of Model 8 Geodimeter.",
+      "categories": [
+        "Surveying instruments",
+        "Laser range finders",
+        "PD US NOAA",
+        "Unknown date",
+        "Template Unknown (author)"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Geodimeter_8_control_panel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Geodimeter_8_control_panel.jpg/1280px-Geodimeter_8_control_panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1801,
+      "hauteur": 1231
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Active total station on a construction site.jpg",
+      "description": "A tripod-mounted total station operating with a visible green guide light on a cleared construction site under an overcast sky. Photograph by HR Surveyors .",
+      "categories": [
+        "Surveying",
+        "Surveying instruments",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Tachymeters (survey)"
+      ],
+      "auteur": "Cvstr",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Active_total_station_on_a_construction_site.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Active_total_station_on_a_construction_site.jpg/1280px-Active_total_station_on_a_construction_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 3780
+    }
+  ]
+}

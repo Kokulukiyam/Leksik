@@ -1,0 +1,58 @@
+{
+  "termId": "solive",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Une militaire frappe au marteau une solive de plancher en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante, plancher cadré en désordre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plancher vu de dessous, poutres peintes en blanc avec une trémie encadrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ellingham, Angleterre",
+      "note": "Montre aussi un chevêtre, risque de confusion."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grosses pièces de bois numérotées sous un plancher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tyrone, États-Unis",
+      "note": "Numéros peints visibles, éléments peu clairs."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Charpente en bois d'un comble avec fermes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Terrassa, Espagne",
+      "note": "Charpente et non plancher."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison en rénovation, solives apparentes au plafond et montants de cloisons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène encombrée, solives secondaires."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pièce dépouillée dont le plafond montre des solives de bois parallèles apparentes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.0,
+        "largeur": 0.85,
+        "hauteur": 0.2
+      },
+      "lieu": "Terre-Neuve, Canada",
+      "note": "Série de solives parallèles bien visibles, cadrées en haut de l'image."
+    }
+  ]
+}

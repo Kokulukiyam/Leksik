@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "palan",
+    "terme": "le palan",
+    "categorie": "Chantier et outillage",
+    "definition": "Appareil de levage à chaîne, manuel ou électrique, accroché en hauteur pour soulever une charge lourde.",
+    "priorite": 3,
+    "requetes": [
+      "chain hoist",
+      "palan à chaîne",
+      "chain block"
+    ],
+    "categoriesCommons": [
+      "Category:Chain hoists",
+      "Category:Hoists"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Kettenzug.jpg",
+      "description": "Handbetriebener Kettenzug wie er zumeist für Montage- und Demontagearbeiten eingesetzt wird",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix F750EXR",
+        "License migration redundant",
+        "Self-published work",
+        "Chain hoists"
+      ],
+      "auteur": "Helfmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kettenzug.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kettenzug.jpg/1280px-Kettenzug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3464,
+      "hauteur": 1760
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Aluminum Gantry Crane.jpg",
+      "description": "Portable aluminum gantry crane with a chain hoist. Manufactured by H & B Machine Corporation.",
+      "categories": [
+        "Gantry cranes",
+        "Hoists",
+        "Self-published work"
+      ],
+      "auteur": "Uiuc123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminum_Gantry_Crane.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Aluminum_Gantry_Crane.jpg/1280px-Aluminum_Gantry_Crane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3668,
+      "hauteur": 4430
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Carl Stahl Hebelzug Flaschenzug.jpg",
+      "description": "Hebelzug und Flaschenzug von Carl Stahl",
+      "categories": [
+        "Carl Stahl Gruppe",
+        "Hoists",
+        "Items with VRTS permission confirmed",
+        "Chain hoists"
+      ],
+      "auteur": "Carl Stahl GmbH",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carl_Stahl_Hebelzug_Flaschenzug.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Carl_Stahl_Hebelzug_Flaschenzug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1181,
+      "hauteur": 855
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Châtillon-sur-Saône le 13 août 2013 - 04.jpg",
+      "description": "Cette image a été versée dans le cadre de L'Été des villes 2015 .",
+      "categories": [
+        "GFDL",
+        "FAL",
+        "License migration redundant",
+        "Hoists",
+        "Self-published work",
+        "Uploaded via Campaign:ÉtédesVilles",
+        "Uploaded with Commonist",
+        "Metal scaffolding in France",
+        "Images from Été des Villes 2015",
+        "Files with coordinates missing SDC location of creation",
+        "France photographs taken on 2013-08-13",
+        "Buildings in Châtillon-sur-Saône"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2tillon-sur-Sa%C3%B4ne_le_13_ao%C3%BBt_2013_-_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch%C3%A2tillon-sur-Sa%C3%B4ne_le_13_ao%C3%BBt_2013_-_04.jpg/1280px-Ch%C3%A2tillon-sur-Sa%C3%B4ne_le_13_ao%C3%BBt_2013_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Chain Block (YS).JPG",
+      "description": "Chain Block",
+      "categories": [
+        "Taken with Nikon Coolpix L22",
+        "Self-published work",
+        "Chain hoists",
+        "Tripods for lifting equipment"
+      ],
+      "auteur": "YVSREDDY",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chain_Block_(YS).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Chain_Block_%28YS%29.JPG/1280px-Chain_Block_%28YS%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Check station on Purify Bay Road.jpg",
+      "description": "Hunter information sign doubling as a check station on Purify Bay Road in Wakulla County, Florida .",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Hoists",
+        "Hunting in Florida",
+        "Self-published work",
+        "Views from automobiles in Wakulla County, Florida",
+        "Signs in Wakulla County, Florida",
+        "Information boards in Florida",
+        "Roofed information boards",
+        "January 2025 in Florida",
+        "United States photographs taken on 2025-01-06",
+        "Purify Bay Road",
+        "Parks in 2025",
+        "Images by The Bushranger taken with Panasonic Lumix DMC-FZ18",
+        "Game check stations"
+      ],
+      "auteur": "The Bushranger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Check_station_on_Purify_Bay_Road.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Check_station_on_Purify_Bay_Road.jpg/1280px-Check_station_on_Purify_Bay_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

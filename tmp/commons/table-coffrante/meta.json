@@ -1,0 +1,79 @@
+{
+  "terme": {
+    "id": "table-coffrante",
+    "terme": "la table coffrante",
+    "categorie": "Chantier et outillage",
+    "definition": "Grand plateau de coffrage préassemblé sur son étaiement, déplacé d'un bloc à la grue d'une travée à l'autre.",
+    "priorite": 3,
+    "requetes": [
+      "table formwork",
+      "table coffrante",
+      "flying table formwork"
+    ],
+    "incompatibles": [
+      "coffrage-de-dalle",
+      "coffrage",
+      "coffrage-metallique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Slab Formwork Tables.JPG",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Formwork",
+        "License migration redundant",
+        "Extendable support beams",
+        "Media missing infobox template",
+        "Doka Group",
+        "Self-published work"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Slab_Formwork_Tables.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Slab_Formwork_Tables.JPG/1280px-Slab_Formwork_Tables.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3488,
+      "hauteur": 2616
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Contract No. 85, Manufacture and Delivery of Precast Concrete Steel Cylinder Pipe, Southborough, Framingham, Wayland, Natick, Weston, welding tables for forms for concrete pipe, Nat - DPLA - 872a3240437866a662533ff0695ec473.jpg",
+      "description": "Title supplied by cataloger. Print in album volume MDWSC, Contract 85, Manufacture and Delivery of Concrete Steel Cylinder Pipe, Volume 1, Chief Engineer set",
+      "categories": [
+        "PD US",
+        "Media contributed by the Digital Public Library of America",
+        "Media contributed by Massachusetts Archives",
+        "Media contributed by Digital Commonwealth"
+      ],
+      "auteur": "Massachusetts. Metropolitan District Water Supply Commission, Pike, Stuart D., 1910-1978",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Contract_No._85,_Manufacture_and_Delivery_of_Precast_Concrete_Steel_Cylinder_Pipe,_Southborough,_Framingham,_Wayland,_Natick,_Weston,_welding_tables_for_forms_for_concrete_pipe,_Nat_-_DPLA_-_872a3240437866a662533ff0695ec473.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Contract_No._85%2C_Manufacture_and_Delivery_of_Precast_Concrete_Steel_Cylinder_Pipe%2C_Southborough%2C_Framingham%2C_Wayland%2C_Natick%2C_Weston%2C_welding_tables_for_forms_for_concrete_pipe%2C_Nat_-_DPLA_-_872a3240437866a662533ff0695ec473.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3931,
+      "hauteur": 2477
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Seabees Support Diego Garcia Tennant Commands (6326793).jpg",
+      "description": "200817-N-HI746-1001 DIEGO GARCIA, British Indian Ocean Territory (Aug. 17, 2020) Builder 3rd Class Jacob Gillam, assigned to U.S. Naval Mobile Construction Battalion (NMCB) 3’s Detail Diego Garcia, cuts plywood using a table saw to make concrete formwork for a tension fabric structure project to support the storage of U.S. Air Force equipment. NMCB-3 is deployed across the Indo-Pacific region conducting high-quality construction to support U.S. and partner nations to strengthen partnerships, deter aggression, and enable expeditionary logistics and naval power projection. The battalion stands r",
+      "categories": [
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "United Kingdom photographs taken on 2020-08-17",
+        "CC-PD-Mark",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, United Kingdom (review needed)"
+      ],
+      "auteur": "U.S. Navy photo by Petty Officer 3rd Class Carlos Hopper",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seabees_Support_Diego_Garcia_Tennant_Commands_(6326793).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Seabees_Support_Diego_Garcia_Tennant_Commands_%286326793%29.jpg/1280px-Seabees_Support_Diego_Garcia_Tennant_Commands_%286326793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

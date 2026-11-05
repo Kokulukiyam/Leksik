@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "laine-de-roche",
+    "terme": "la laine de roche",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Isolant fibreux plus dense que la laine de verre, souvent vert-gris ou brun, vendu en panneaux.",
+    "priorite": 3,
+    "requetes": [
+      "rock wool insulation",
+      "mineral wool boards",
+      "laine de roche"
+    ],
+    "incompatibles": [
+      "laine-de-verre"
+    ],
+    "categoriesCommons": [
+      "Category:Mineral wool",
+      "Category:Thermal insulation"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Arrangement Mineralwolle.jpeg",
+      "description": "Verschiedene Produkte aus Mineralwolle, als Matte und als Rolle.",
+      "categories": [
+        "Mineral wool",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "FMI Fachverband Mineralwolleindustrie",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arrangement_Mineralwolle.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Arrangement_Mineralwolle.jpeg/1280px-Arrangement_Mineralwolle.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1134
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bildung, Arbeit und Erholung, mosaik by Karl Gunsam.jpg",
+      "description": "Bildung, Arbeit und Erholung . Mosaik von Karl Gunsam (1955) in der Längenfeldgasse 24, Wien-Meidling am Ernst-Reuter-Hof. Im Zuge der thermischen Sanierung ist das Mosaik hinter einem Gerüst verschwunden.",
+      "categories": [
+        "Thermal insulation",
+        "Public art in Meidling",
+        "Ernst-Reuter-Hof",
+        "Self-published work",
+        "Media from WikiDaheim in Austria check done",
+        "Mosaics in Vienna",
+        "Images by Herzi Pinki",
+        "Supported by Wikimedia Österreich in 2018",
+        "1955 works in Austria",
+        "Scaffolding in Vienna",
+        "Files with coordinates missing SDC location of creation",
+        "Austria photographs taken on 2018-03-10",
+        "Media from WikiDaheim 2018 in Austria/Unspecified",
+        "Uploaded via Campaign:WikiDaheim-at",
+        "Karl Gunsam",
+        "Media from WikiDaheim 2018 in Austria/all",
+        "1955 mosaics"
+      ],
+      "auteur": "Herzi Pinki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bildung,_Arbeit_und_Erholung,_mosaik_by_Karl_Gunsam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Bildung%2C_Arbeit_und_Erholung%2C_mosaik_by_Karl_Gunsam.jpg/1280px-Bildung%2C_Arbeit_und_Erholung%2C_mosaik_by_Karl_Gunsam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 4928
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gasexplosion Dämmstoff Mineralwolle und Glassplitter IMG 1807.jpg",
+      "description": "After gas explosion in a building insulate material laying in the street",
+      "categories": [
+        "Mineral wool",
+        "Glass wool",
+        "Self-published work"
+      ],
+      "auteur": "Ribax",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gasexplosion_D%C3%A4mmstoff_Mineralwolle_und_Glassplitter_IMG_1807.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Gasexplosion_D%C3%A4mmstoff_Mineralwolle_und_Glassplitter_IMG_1807.jpg/1280px-Gasexplosion_D%C3%A4mmstoff_Mineralwolle_und_Glassplitter_IMG_1807.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4465,
+      "hauteur": 3349
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Almonte, Ont. Maple Leaf Mill (3226264918).jpg",
+      "description": "basement",
+      "categories": [
+        "Thermal insulation",
+        "Almonte, Ontario",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Canada photographs taken on 2008-02-01",
+        "February 2008 in Ontario",
+        "Basements in Canada"
+      ],
+      "auteur": "ceedub13",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Almonte,_Ont._Maple_Leaf_Mill_(3226264918).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Almonte%2C_Ont._Maple_Leaf_Mill_%283226264918%29.jpg/1280px-Almonte%2C_Ont._Maple_Leaf_Mill_%283226264918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:14 Church Street, O. M. Beer Co., Sheffield, Pa (68850).jpg",
+      "description": "Title: 14 Church Street, O. M. Beer Co., Sheffield, Pa. Subjects: Commercial facilities Places: Pennsylvania &gt; Warren (county) &gt; Sheffield Notes: Title from item. Extent: 1 print (postcard) : linen texture, color ; 3 1/2 x 5 1/2 in. Accession #: 06_10_018290",
+      "categories": [
+        "Mineral wool",
+        "Sheffield, Pennsylvania",
+        "Buildings in Warren County, Pennsylvania",
+        "PD US no notice",
+        "Postcards of Warren County, Pennsylvania",
+        "Economy of Warren County, Pennsylvania",
+        "1930s trucks",
+        "Postcards of Pennsylvania published by Tichnor Brothers",
+        "Postcards of streets in Pennsylvania"
+      ],
+      "auteur": "Pub. by Thomas, Warren, PA.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:14_Church_Street,_O._M._Beer_Co.,_Sheffield,_Pa_(68850).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/14_Church_Street%2C_O._M._Beer_Co.%2C_Sheffield%2C_Pa_%2868850%29.jpg/1280px-14_Church_Street%2C_O._M._Beer_Co.%2C_Sheffield%2C_Pa_%2868850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3325,
+      "hauteur": 2143
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:ANDOAS.jpg",
+      "description": "Aislamiento térmico a planta petrolera",
+      "categories": [
+        "Petroleum production",
+        "Thermal insulation",
+        "Self-published work"
+      ],
+      "auteur": "AISLAMIENTOS TERMICOS",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ANDOAS.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/ANDOAS.jpg/1280px-ANDOAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1200
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "terme": {
+    "id": "haut-relief",
+    "terme": "le haut-relief",
+    "categorie": "Ornement",
+    "definition": "Sculpture qui se détache fortement du fond, les figures étant presque en ronde-bosse.",
+    "priorite": 3,
+    "requetes": [
+      "high relief sculpture",
+      "high relief facade",
+      "haut-relief"
+    ],
+    "incompatibles": [
+      "bas-relief",
+      "frise"
+    ],
+    "categoriesCommons": [
+      "Category:High reliefs",
+      "Category:Reliefs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Divrigi Mosque north portal DSCF2436.jpg",
+      "description": "The northern entrance portal to the Great Mosque of Divriği.",
+      "categories": [
+        "Arabesque (art)",
+        "Stone carving in Turkey",
+        "Self-published work",
+        "High reliefs",
+        "Northern portal of the mosque of the Divriği complex"
+      ],
+      "auteur": "R Prazeres",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Divrigi_Mosque_north_portal_DSCF2436.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Divrigi_Mosque_north_portal_DSCF2436.jpg/1280px-Divrigi_Mosque_north_portal_DSCF2436.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:4-12 Bulevardul Regina Elisabeta, Bucharest (22).jpg",
+      "description": "4-12 Bulevardul Regina Elisabeta, Bucharest",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "May 2023 in Bucharest",
+        "Windows of the University Building, Bucharest",
+        "Exterior of the University Building, Bucharest",
+        "High reliefs",
+        "20th-century reliefs in Bucharest",
+        "Gables in Bucharest"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4-12_Bulevardul_Regina_Elisabeta,_Bucharest_(22).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/4-12_Bulevardul_Regina_Elisabeta%2C_Bucharest_%2822%29.jpg/1280px-4-12_Bulevardul_Regina_Elisabeta%2C_Bucharest_%2822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3908,
+      "hauteur": 2827
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Kanonicza Street, Kraków, Poland, 2022, 02.jpg",
+      "description": "Kanonicza Street, Kraków, Poland, 2022",
+      "categories": [
+        "Bishop Ciolek Palace",
+        "Kanonicza Street in Kraków",
+        "Self-published work",
+        "May 2022 in Kraków",
+        "Poland photographs taken on 2022-05-04",
+        "Coats of arms on buildings in Poland",
+        "Photographs of Poland by Kgbo in 2022",
+        "High reliefs",
+        "Reliefs of coats of arms in Kraków",
+        "Photos by User:Kgbo",
+        "Photographs of Kraków by Kgbo in 2022"
+      ],
+      "auteur": "Kgbo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kanonicza_Street,_Krak%C3%B3w,_Poland,_2022,_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Kanonicza_Street%2C_Krak%C3%B3w%2C_Poland%2C_2022%2C_02.jpg/1280px-Kanonicza_Street%2C_Krak%C3%B3w%2C_Poland%2C_2022%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2293,
+      "hauteur": 2654
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dionysian Sarcophagus, Glyptothek, Munich (GL 223).jpg",
+      "description": "Dionysian Sarcophagus, Glyptothek, Munich, Germany, Inv. No. 223, Hadrianic (Chronontology), marble, Dionysus and Ariadne placed on a chariot.",
+      "categories": [
+        "2nd-century reliefs in Germany",
+        "Reliefs of panthers in Germany",
+        "Ascension",
+        "Self-published work",
+        "Glyptothek Munich - Room 13",
+        "130s sarcophagi",
+        "120s sarcophagi",
+        "110s sarcophagi",
+        "Reliefs of Dionysos",
+        "High reliefs",
+        "Hercules in ancient Roman reliefs",
+        "Chariots in ancient Roman art",
+        "Reliefs of centaurs",
+        "Lion fur-skins in art",
+        "Reliefs of Nike",
+        "Reliefs of Bacchus and Ariadne",
+        "Reliefs of chariots",
+        "Reliefs of Silenus",
+        "Reliefs of Eros",
+        "Ancient Roman reliefs in the Glyptothek Munich",
+        "Ancient Roman sarcophagi in the Glyptothek Munich",
+        "Reliefs of Ariadne"
+      ],
+      "auteur": "Yair-haklai",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dionysian_Sarcophagus,_Glyptothek,_Munich_(GL_223).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Dionysian_Sarcophagus%2C_Glyptothek%2C_Munich_%28GL_223%29.jpg/1280px-Dionysian_Sarcophagus%2C_Glyptothek%2C_Munich_%28GL_223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2756,
+      "hauteur": 941
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Kamienica Pod Rakiem, ul. Szpitalna 7, Kraków, 2023, 02.jpg",
+      "description": "Kamienica Pod Rakiem, ul. Szpitalna 7, Kraków, 2023",
+      "categories": [
+        "7 Szpitalna Street in Kraków",
+        "Self-published work",
+        "September 2023 in Kraków",
+        "Poland photographs taken on 2023-09-11",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs of Poland by Kgbo in 2023",
+        "High reliefs",
+        "Photos by User:Kgbo",
+        "Photographs of Kraków by Kgbo in 2023",
+        "Tenement house emblem in Kraków"
+      ],
+      "auteur": "Kgbo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kamienica_Pod_Rakiem,_ul._Szpitalna_7,_Krak%C3%B3w,_2023,_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Kamienica_Pod_Rakiem%2C_ul._Szpitalna_7%2C_Krak%C3%B3w%2C_2023%2C_02.jpg/1280px-Kamienica_Pod_Rakiem%2C_ul._Szpitalna_7%2C_Krak%C3%B3w%2C_2023%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3674,
+      "hauteur": 2817
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Санкт-Петербург, Казанский собор, горельеф правого портика.jpg",
+      "description": "High relief of the right portico of Kazansky cathedral. Saint Petersburg, Russia.",
+      "categories": [
+        "Self-published work",
+        "Unassessed QI candidates",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Uploaded via Campaign:wlm-ru",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC depicts",
+        "Content media by years - NWR-Hist - 2022",
+        "Images from Wiki Loves Monuments 2022",
+        "Images from Wiki Loves Monuments 2022 in Russia",
+        "High reliefs",
+        "Photographs by Nikolay Bulykin",
+        "Reliefs of Kazan Cathedral",
+        "Taken with NWR-Hist Drone (Mavic 3)",
+        "Russian heritage ID 7810539004"
+      ],
+      "auteur": "Nikolaï Boulykine",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3,_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80,_%D0%B3%D0%BE%D1%80%D0%B5%D0%BB%D1%8C%D0%B5%D1%84_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%BA%D0%B0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C_%D0%B3%D0%BE%D1%80%D0%B5%D0%BB%D1%8C%D0%B5%D1%84_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%BA%D0%B0.jpg/1280px-%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C_%D0%B3%D0%BE%D1%80%D0%B5%D0%BB%D1%8C%D0%B5%D1%84_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%BA%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4652,
+      "hauteur": 665
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "aire-de-jeux",
+    "terme": "l'aire de jeux",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Espace extérieur équipé de toboggans, balançoires et jeux pour enfants, sur un sol amortissant.",
+    "priorite": 3,
+    "requetes": [
+      "playground equipment",
+      "aire de jeux",
+      "incategory:\"Playgrounds\""
+    ],
+    "categoriesCommons": [
+      "Category:Playgrounds",
+      "Category:Playground equipment"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Benkid77 Picnic Bench 280605.JPG",
+      "description": "A picnic bench",
+      "categories": [
+        "GFDL",
+        "Playgrounds",
+        "License migration redundant",
+        "Self-published work",
+        "Photos uploaded by Rept0n1x",
+        "Wooden picnic tables"
+      ],
+      "auteur": "Rept0n1x",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Benkid77_Picnic_Bench_280605.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Benkid77_Picnic_Bench_280605.JPG/1280px-Benkid77_Picnic_Bench_280605.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2240,
+      "hauteur": 1680
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Flamingo Spring Rider - Cagliari, Italy 2024-03-25.jpg",
+      "description": "Flamingo Spring Rider at Molentargius - Saline Regional Park (Parco naturale regionale Molentargius - Saline) in Cagliari, Italy.",
+      "categories": [
+        "Playground equipment",
+        "Uploaded with pattypan",
+        "Self-published work",
+        "Photographs by Ryan Hodnett",
+        "Photographs by Ryan Hodnett (Nikon D3200)",
+        "Photographs by Ryan Hodnett (Nikon DX AF-S NIKKOR 55-300mm f/4.5-5.6G ED VR)",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Ryan Hodnett (2024)",
+        "Parks in Cagliari",
+        "Photographs by Ryan Hodnett (Cagliari)"
+      ],
+      "auteur": "Ryan Hodnett",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flamingo_Spring_Rider_-_Cagliari,_Italy_2024-03-25.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Flamingo_Spring_Rider_-_Cagliari%2C_Italy_2024-03-25.jpg/1280px-Flamingo_Spring_Rider_-_Cagliari%2C_Italy_2024-03-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4106,
+      "hauteur": 3284
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Child enjoys playtime on a bright red slide in a sunny backyard during a warm afternoon.jpg",
+      "description": "A young child is seated on a vibrant red slide in a green backyard, enjoying playtime under the sun. Grass surrounds the slide, creating a playful environment.",
+      "categories": [
+        "Children",
+        "Slides",
+        "Playgrounds",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_enjoys_playtime_on_a_bright_red_slide_in_a_sunny_backyard_during_a_warm_afternoon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Child_enjoys_playtime_on_a_bright_red_slide_in_a_sunny_backyard_during_a_warm_afternoon.jpg/1280px-Child_enjoys_playtime_on_a_bright_red_slide_in_a_sunny_backyard_during_a_warm_afternoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4934,
+      "hauteur": 3294
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Curious George Goes to Town.JPG",
+      "description": "Curious George Goes to Town play area",
+      "categories": [
+        "Woody Woodpecker's Kidzone",
+        "Playground equipment",
+        "Curious George",
+        "Self-published work",
+        "Amusement parks in 2015"
+      ],
+      "auteur": "Eliedion",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Curious_George_Goes_to_Town.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Curious_George_Goes_to_Town.JPG/1280px-Curious_George_Goes_to_Town.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:C150317 (33456177375).jpg",
+      "description": "C150317",
+      "categories": [
+        "Playgrounds",
+        "Flickr images reviewed by FlickreviewR 2",
+        "PD-author-FlickrPDM",
+        "Files from Jusotil 1943 Flickr stream"
+      ],
+      "auteur": "Jusotil_1943",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:C150317_(33456177375).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/C150317_%2833456177375%29.jpg/1280px-C150317_%2833456177375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2248
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Makoko Children.jpg",
+      "description": "This file represents children playing on their DIY playground and enjoying each others company outside their homes.",
+      "categories": [
+        "Playground equipment",
+        "2017 in Nigeria",
+        "Self-published work",
+        "Children of Nigeria"
+      ],
+      "auteur": "Somi Nwandu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Makoko_Children.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Makoko_Children.jpg/1280px-Makoko_Children.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

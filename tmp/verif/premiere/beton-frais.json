@@ -1,0 +1,53 @@
+{
+  "termId": "beton-frais",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Coulage de pâte de ciment grise dans un moule cubique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pâte/mortier de laboratoire, pas du béton frais de chantier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Conteneur bleu avec lavabos extérieurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Afrique du Sud",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Homme assis près d'un conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Afrique du Sud",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Brouette remplie de béton frais gris, humide et malléable.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton frais lisible et dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bord d'un trottoir en béton, neuf à côté d'un ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton durci, pas frais."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Nappe de treillis d'armatures sur film plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferraillage, pas de béton frais."
+    }
+  ]
+}

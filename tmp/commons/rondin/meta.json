@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "rondin",
+    "terme": "le rondin",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Tronc d'arbre écorcé, laissé rond, utilisé empilé en murs ou en poteaux.",
+    "priorite": 3,
+    "requetes": [
+      "log cabin wall",
+      "log construction",
+      "maison en rondins"
+    ],
+    "incompatibles": [
+      "bois"
+    ],
+    "categoriesCommons": [
+      "Category:Log cabins"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Booker T. Washington National Memorial Cabin and Grounds (c9b120b7-50fb-4c21-af55-bde410eb6d39).jpg",
+      "description": "View of horse barn and pastures with interpretive staff. On April 5, 1856, a child who later called himself Booker T. Washington, was born in slavery on this 207-acre tobacco farm. Booker T. Washington. Washington founded Tuskegee Institute in Alabama in 1881 and later became an important and controversial leader of his race at a time when increasing racism in the United States made it necessary for African Americans to adjust themselves to a new era of legalized oppression. The site is restored to its general appearance in the mid-19th century. All buildings standing today (kitchen cabin, smo",
+      "categories": [
+        "Log cabins",
+        "Booker T. Washington National Monument",
+        "PD US NPS",
+        "Images from NPGallery to check",
+        "Media needing category review as of 3 July 2019",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2003-11-13",
+        "Images from NPGallery",
+        "Media needing category review with 4 suggested categories"
+      ],
+      "auteur": "NPS staff",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Booker_T._Washington_National_Memorial_Cabin_and_Grounds_(c9b120b7-50fb-4c21-af55-bde410eb6d39).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Booker_T._Washington_National_Memorial_Cabin_and_Grounds_%28c9b120b7-50fb-4c21-af55-bde410eb6d39%29.jpg/1280px-Booker_T._Washington_National_Memorial_Cabin_and_Grounds_%28c9b120b7-50fb-4c21-af55-bde410eb6d39%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:EaglehawkLogLockup.JPG",
+      "description": "Historic Log Lockup at en:Eaglehawk, Victoria",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A520",
+        "Log cabins",
+        "Former prisons in Australia",
+        "Eaglehawk Court House and Lock-up",
+        "License migration redundant",
+        "Self-published work",
+        "Australia photographs taken on 2008-08-02",
+        "August 2008 in Bendigo",
+        "Photographs by Mattinbgn taken in 2008"
+      ],
+      "auteur": "Mattinbgn",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EaglehawkLogLockup.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/EaglehawkLogLockup.JPG/1280px-EaglehawkLogLockup.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Aslak Lie splice restoration.jpg",
+      "description": "Splicing a splint onto a 170-year-old beam during restoration of the Aslak Lie cabin at Folklore Village in Dodgeville Wisconsin.",
+      "categories": [
+        "Log cabins",
+        "Personality rights warning",
+        "American people of Norwegian descent",
+        "Items with VRTS permission confirmed",
+        "1849 in Wisconsin"
+      ],
+      "auteur": "Terri Van Orman",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aslak_Lie_splice_restoration.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Aslak_Lie_splice_restoration.jpg/1280px-Aslak_Lie_splice_restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cabin (32903449).jpeg",
+      "description": "500px provided description: Cabin [#dark ,#woods ,#cabin ,#fireplace]",
+      "categories": [
+        "Log cabins",
+        "Building interiors",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Olav Gjerde",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cabin_(32903449).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Cabin_%2832903449%29.jpeg/1280px-Cabin_%2832903449%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1363
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Blockhuette.JPG",
+      "description": "Blockhütte",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-T9",
+        "User-created GFDL images",
+        "Log cabins",
+        "License migration completed",
+        "Self-published work"
+      ],
+      "auteur": "Theonly1",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blockhuette.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Blockhuette.JPG/1280px-Blockhuette.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1337
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cabinin woods.jpg",
+      "description": "This is the first cabin in Scarborough.",
+      "categories": [
+        "Log cabins",
+        "Self-published work",
+        "Black and white photographs of houses",
+        "2012 black and white photographs",
+        "Houses in snow"
+      ],
+      "auteur": "William b.Grice",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cabinin_woods.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Cabinin_woods.jpg/1280px-Cabinin_woods.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

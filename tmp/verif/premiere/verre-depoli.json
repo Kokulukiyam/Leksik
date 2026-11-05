@@ -1,0 +1,53 @@
+{
+  "termId": "verre-depoli",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Verres anciens en vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sušice, Tchéquie",
+      "note": "Objets, pas un vitrage de bâtiment."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sculpture en verre soufflé multicolore.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet d'art."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Intérieur de restaurant avec une cloison cannelée à gauche et enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tokyo, Japon",
+      "note": "Verre dépoli non démontré, texte visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Appareil photo moyen format avec bague.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vitrage entièrement dépoli, motif de feuillages clairs gravés sur fond mat.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Surface mate translucide nette occupant toute l'image."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Boîte et viseur d'appareil photo Mamiya.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, texte visible."
+    }
+  ]
+}

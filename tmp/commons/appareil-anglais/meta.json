@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "appareil-anglais",
+    "terme": "l'appareil anglais",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Appareil de briques où un rang de panneresses alterne avec un rang de boutisses.",
+    "priorite": 3,
+    "requetes": [
+      "english bond brickwork",
+      "appareil anglais brique",
+      "english bond"
+    ],
+    "incompatibles": [
+      "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:English bond",
+      "Category:Brick walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:English bond on an old building in Burgum.jpg",
+      "description": "English bond on an old building (De Pleats) in Burgum",
+      "categories": [
+        "De Pleats (Burgum)",
+        "English bond",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (53° N, 5° E)",
+        "Photographs taken on 2025-01-25"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:English_bond_on_an_old_building_in_Burgum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/English_bond_on_an_old_building_in_Burgum.jpg/1280px-English_bond_on_an_old_building_in_Burgum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3231,
+      "hauteur": 2296
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Brick wall (-29wiki).jpg",
+      "description": "Brick wall",
+      "categories": [
+        "Graffiti",
+        "Brick walls",
+        "Self-published work"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_wall_(-29wiki).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Brick_wall_%28-29wiki%29.jpg/1280px-Brick_wall_%28-29wiki%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8330,
+      "hauteur": 6645
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:English bond on Sint-Janskerk.jpg",
+      "description": "English bond on Sint-Janskerk in Roosendaal",
+      "categories": [
+        "Roosendaal",
+        "English bond",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Netherlands photographs taken on 2025-01-21",
+        "Files with coordinates missing SDC location of creation (51° N, 4° E)"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:English_bond_on_Sint-Janskerk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/English_bond_on_Sint-Janskerk.jpg/1280px-English_bond_on_Sint-Janskerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3056,
+      "hauteur": 3056
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:207 366 - Dreiecke Triangles (28089308283).jpg",
+      "description": "One year, two perspectives. This image is part of a 365(+1) project, my friend &lt;a href=\" https://www.flickr.com/photos/tiloschaffrik \"&gt;Tilo&lt;/a&gt; and I are working on. If you want to see more, check out our website &lt;a href=\" http://zweisichtig.de/ \" rel=\"nofollow\"&gt;zweisichtig.de&lt;/a&gt;.",
+      "categories": [
+        "Brick walls",
+        "Flickr images reviewed by FlickreviewR 2",
+        "MH2024",
+        "Boris Thaser (photographer)"
+      ],
+      "auteur": "Boris Thaser from Augsburg, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:207_366_-_Dreiecke_Triangles_(28089308283).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/207_366_-_Dreiecke_Triangles_%2828089308283%29.jpg/1280px-207_366_-_Dreiecke_Triangles_%2828089308283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4886,
+      "hauteur": 3183
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:English bond at a shop façade in Castlecomer.jpg",
+      "description": "English bond brickwork at a shop façade in Castlecomer",
+      "categories": [
+        "Castlecomer",
+        "English bond",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Republic of Ireland photographs taken on 2024-04-30",
+        "Brick bonds in County Kilkenny"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:English_bond_at_a_shop_fa%C3%A7ade_in_Castlecomer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/English_bond_at_a_shop_fa%C3%A7ade_in_Castlecomer.jpg/1280px-English_bond_at_a_shop_fa%C3%A7ade_in_Castlecomer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1677,
+      "hauteur": 1677
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alfa Romeo Spider Meteora.jpg",
+      "description": "Alfa Romeo Spider 24V 3.0",
+      "categories": [
+        "Taken with Nikon Coolpix L11",
+        "PD-user",
+        "Brick walls",
+        "Automobiles with open doors",
+        "Grey Alfa Romeo convertibles",
+        "Alfa Romeo Spider (1998)",
+        "Automobiles without door handles"
+      ],
+      "auteur": "Gold333 ( talk ) Myself",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Spider_Meteora.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Alfa_Romeo_Spider_Meteora.jpg/1280px-Alfa_Romeo_Spider_Meteora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    }
+  ]
+}

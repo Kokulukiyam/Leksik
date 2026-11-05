@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "poste-de-transformation",
+    "terme": "le poste de transformation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Local ou cabine abritant le transformateur qui abaisse la tension du réseau pour alimenter un bâtiment ou un quartier.",
+    "priorite": 3,
+    "requetes": [
+      "electrical substation transformer building",
+      "poste de transformation",
+      "pad mounted transformer"
+    ],
+    "categoriesCommons": [
+      "Category:Electrical substations"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Obras de captação do sistema produtor São Lourenço. (24690333908).jpg",
+      "description": "Ibiuna 18/11/2017- O governador Geraldo Alckmin visitou aa obras de captação do sistema produtor São Lourenço. Foto: Mastrangelo Reino/A2IMG",
+      "categories": [
+        "Electrical substations",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Sistema produtor São Lourenço",
+        "Files from Governo do Estado de São Paulo Flickr stream",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Governo do Estado de São Paulo",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Obras_de_capta%C3%A7%C3%A3o_do_sistema_produtor_S%C3%A3o_Louren%C3%A7o._(24690333908).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Obras_de_capta%C3%A7%C3%A3o_do_sistema_produtor_S%C3%A3o_Louren%C3%A7o._%2824690333908%29.jpg/1280px-Obras_de_capta%C3%A7%C3%A3o_do_sistema_produtor_S%C3%A3o_Louren%C3%A7o._%2824690333908%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2750
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Maisonnais-eolien-poste-livraison 01.jpg",
+      "description": "Parc éolien à Maisonnais-sur-Tardoire, Haute-Vienne, France - Le poste de livraison",
+      "categories": [
+        "Electrical substations",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Images by Traumrune",
+        "Parc éolien Maisonnais-sur-Tardoire"
+      ],
+      "auteur": "Traumrune",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Maisonnais-eolien-poste-livraison_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Maisonnais-eolien-poste-livraison_01.jpg/1280px-Maisonnais-eolien-poste-livraison_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:BYU PPE2.jpg",
+      "description": "Photograph of the Physical Plant Electrical Substation #2 at Brigham Young University .",
+      "categories": [
+        "GFDL",
+        "Taken with Kodak EasyShare DX6440",
+        "Electrical substations",
+        "License migration redundant",
+        "Self-published work",
+        "August 2010 in Utah",
+        "Chain-link fences in Utah",
+        "Files with coordinates missing SDC location of creation",
+        "2010 in Provo, Utah",
+        "Brigham Young University Physical Plant buildings"
+      ],
+      "auteur": "GreenwoodKL",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BYU_PPE2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/BYU_PPE2.jpg/1280px-BYU_PPE2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Graffiti on power substation at trg dt. Franje Tuđmana, Zagreb.jpg",
+      "description": "graffiti on power substation at trg dt. Franje Tuđmana, Zagreb",
+      "categories": [
+        "Graffiti",
+        "Electrical substations",
+        "Self-published work",
+        "Art in Zagreb",
+        "On OSM",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Croatia photographs taken on 2023-04-21"
+      ],
+      "auteur": "Mnalis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Graffiti_on_power_substation_at_trg_dt._Franje_Tu%C4%91mana,_Zagreb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Graffiti_on_power_substation_at_trg_dt._Franje_Tu%C4%91mana%2C_Zagreb.jpg/1280px-Graffiti_on_power_substation_at_trg_dt._Franje_Tu%C4%91mana%2C_Zagreb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Modhucity PowerHouse.jpg",
+      "description": "Electrical Substation at Modhucity -1",
+      "categories": [
+        "CC-Zero",
+        "Electrical substations",
+        "Self-published work"
+      ],
+      "auteur": "Asmath98",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Modhucity_PowerHouse.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Modhucity_PowerHouse.jpg/1280px-Modhucity_PowerHouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:APCPDCL Substation.jpg",
+      "description": "APCPDCL Indoor Substation",
+      "categories": [
+        "Electrical substations",
+        "Self-published work",
+        "Spike topped fences"
+      ],
+      "auteur": "Hindustanilanguage",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:APCPDCL_Substation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/APCPDCL_Substation.jpg/1280px-APCPDCL_Substation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    }
+  ]
+}

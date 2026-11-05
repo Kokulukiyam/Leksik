@@ -1,0 +1,53 @@
+{
+  "termId": "platine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Éprouvette de liquide doré avec paillettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Platine chimique, pas la plaque d'acier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Part de gâteau au chocolat sur une assiette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bloc de minerai de platine dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nantes, France",
+      "note": "Minerai, hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plaque d'immatriculation de l'Ontario.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque minéralogique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Lame mince de roche au microscope.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plaque d'immatriculation du Kansas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque minéralogique."
+    }
+  ]
+}

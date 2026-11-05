@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "vitrage-teinte",
+    "terme": "le vitrage teinté",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Vitrage coloré dans la masse, souvent gris, bronze ou vert, pour réduire l'éblouissement.",
+    "priorite": 3,
+    "requetes": [
+      "tinted glass window",
+      "vitrage teinté",
+      "bronze tinted glass"
+    ],
+    "incompatibles": [
+      "verre-reflechissant"
+    ],
+    "categoriesCommons": [
+      "Category:Glass windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cat with TRA Houtong Station in background 2012-02-18.jpg",
+      "description": "cat with TRA Houtong Station in background",
+      "categories": [
+        "TRA Houtong Station",
+        "Houtong Cat Village",
+        "Taiwan photographs taken on 2012-02-18",
+        "Cats at windows in Taiwan",
+        "Glass windows",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2012 photographs of New Taipei",
+        "Files from Cheng-en Cheng Flickr stream"
+      ],
+      "auteur": "Cheng-en Cheng",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cat_with_TRA_Houtong_Station_in_background_2012-02-18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Cat_with_TRA_Houtong_Station_in_background_2012-02-18.jpg/1280px-Cat_with_TRA_Houtong_Station_in_background_2012-02-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1466,
+      "hauteur": 2200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Alcatraz Island (6870452744).jpg",
+      "description": "Glass thickness in the prison. Touring the cellhouse on Alcatraz Island on a very rainy day.",
+      "categories": [
+        "Taken with Canon EOS 600D",
+        "Interior of Alcatraz Federal Penitentiary",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Files with coordinates missing SDC location of creation",
+        "Glass windows",
+        "Uploaded by user Magnus Manske",
+        "Photographs by Anna Fox"
+      ],
+      "auteur": "HarshLight from San Jose, CA, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_(6870452744).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Alcatraz_Island_%286870452744%29.jpg/1280px-Alcatraz_Island_%286870452744%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:20161122 084846 lr bw (35861732670).jpg",
+      "description": "Andreas Manessinger, manessinger.com , Creative Commons BY-SA",
+      "categories": [
+        "Glass windows",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Andreas Manessinger"
+      ],
+      "auteur": "Andreas Manessinger",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20161122_084846_lr_bw_(35861732670).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/20161122_084846_lr_bw_%2835861732670%29.jpg/1280px-20161122_084846_lr_bw_%2835861732670%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3980,
+      "hauteur": 5088
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Empty apartment room with extension cord.jpg",
+      "description": "Photograph of a small empty room in an apartment unit. The floor is hardwood and the walls are white plaster. One window with an AC unit attached lets in sunlight. A black bag is left on a part of the structure on the left. The AC unit is plugged in via an extension cord strewn across the floor.",
+      "categories": [
+        "Taken with Nexus 5",
+        "Apartment buildings in Manhattan",
+        "New York City photographs taken on 2018-08-08",
+        "Self-published work",
+        "Sunlight in the United States",
+        "Black windows",
+        "Glass windows",
+        "Windows in Manhattan, New York City",
+        "Files uploaded by aismallard",
+        "Photographs by aismallard",
+        "August 2018 in Manhattan, New York City",
+        "Interiors of apartment buildings in New York City",
+        "Wooden flooring in the United States",
+        "Sliding windows",
+        "Vacant rooms in the United States"
+      ],
+      "auteur": "aismallard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Empty_apartment_room_with_extension_cord.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Empty_apartment_room_with_extension_cord.jpg/1280px-Empty_apartment_room_with_extension_cord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:30697-Dresden-1987-Bischof-Wienken-Haus-Brück & Sohn Kunstverlag.jpg",
+      "description": "Dresden; Bischof-Wienken-Haus",
+      "categories": [
+        "Bischof-Wienken-Haus",
+        "Uploaded with VicuñaUploader",
+        "Items with VRTS permission confirmed",
+        "Crucifixes in Saxony",
+        "Images from Brück & Sohn",
+        "Files with coordinates missing SDC location of creation",
+        "1987 postcards of Dresden",
+        "1987 postcards published by Brück & Sohn",
+        "Glass windows",
+        "Postcards of Seevorstadt (Dresden) published by Brück & Sohn",
+        "Altars in Dresden",
+        "Postcards published by Brück & Sohn with images of Erich Braun"
+      ],
+      "auteur": "Brück & Sohn Kunstverlag Meißen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:30697-Dresden-1987-Bischof-Wienken-Haus-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/30697-Dresden-1987-Bischof-Wienken-Haus-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg/1280px-30697-Dresden-1987-Bischof-Wienken-Haus-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1434,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:CFF @ Hall @ Gare de Genève-Cornavin @ Genève (50897824753).jpg",
+      "description": "CFF @ Hall @ Gare de Genève-Cornavin @ Genève",
+      "categories": [
+        "Stained-glass windows in the canton of Geneva",
+        "Uploads by Matlin",
+        "Files with coordinates missing SDC location of creation",
+        "Glass windows",
+        "Files from Guilhem Vellut Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Logos of CFF",
+        "Grand hall historique de la gare Cornavin à Genève"
+      ],
+      "auteur": "Guilhem Vellut from Annecy, France",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CFF_@_Hall_@_Gare_de_Gen%C3%A8ve-Cornavin_@_Gen%C3%A8ve_(50897824753).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/CFF_%40_Hall_%40_Gare_de_Gen%C3%A8ve-Cornavin_%40_Gen%C3%A8ve_%2850897824753%29.jpg/1280px-CFF_%40_Hall_%40_Gare_de_Gen%C3%A8ve-Cornavin_%40_Gen%C3%A8ve_%2850897824753%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    }
+  ]
+}

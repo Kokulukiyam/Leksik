@@ -1,0 +1,188 @@
+{
+  "terme": {
+    "id": "tube-multicouche",
+    "terme": "le tube multicouche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau blanc semi-rigide composé de plastique et d'une âme en aluminium, pour l'alimentation en eau, assemblé par raccords à sertir.",
+    "priorite": 3,
+    "requetes": [
+      "multilayer pipe PEX-AL-PEX",
+      "tube multicouche",
+      "multilayer composite pipe"
+    ],
+    "incompatibles": [
+      "tube-per"
+    ],
+    "categoriesCommons": [
+      "Category:Plastic pipes",
+      "Category:Pipes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Large dusty black plastic pipes side view.jpg",
+      "description": "Large dusty black plastic pipes at Valbodalen marina in Lysekil , Sweden. The pipes are about 25-30 cm in diameter and made from hard plastic.",
+      "categories": [
+        "Plastic pipes",
+        "Valbodalen",
+        "Self-published work",
+        "Images by W.carter",
+        "Black materials",
+        "Files with coordinates missing SDC location of creation",
+        "Dust on objects",
+        "Stacks of pipes"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Large_dusty_black_plastic_pipes_side_view.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Large_dusty_black_plastic_pipes_side_view.jpg/1280px-Large_dusty_black_plastic_pipes_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3899,
+      "hauteur": 2421
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Arctic pipe.jpg",
+      "description": "Производство теплоизолированных труб АРКТИК",
+      "categories": [
+        "Pipes",
+        "Taken with Canon EOS 20D",
+        "Self-published work"
+      ],
+      "auteur": "Lobkovs",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arctic_pipe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Arctic_pipe.jpg/1280px-Arctic_pipe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1772,
+      "hauteur": 1181
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Haltern am See, Sythen, Werkzeughalle der Quarzwerke -- 2015 -- 4433.jpg",
+      "description": "Tubes en plastique, atelier d’outillage de l’usine de quartz à Sythen, Haltern am See , Rhénanie-du-Nord-Westphalie , Allemagne",
+      "categories": [
+        "Photographs by Dietmar Rabich/Featured pictures of Germany",
+        "Buildings in Germany photographed in 2015",
+        "4 objects in Germany",
+        "Plastic pipes",
+        "Taken with Canon EOS 600D",
+        "ISO speed rating 100",
+        "Uploaded with VicuñaUploader",
+        "Taken with Canon EF-S 55-250mm F4-5.6 IS STM",
+        "Photographs with aspect ratio of 4:3",
+        "Featured pictures of building interiors in Germany",
+        "Quarzwerke (Haltern am See)",
+        "Self-published work",
+        "Commons featured desktop backgrounds",
+        "Photographs by Dietmar Rabich/Long exposure",
+        "Photographs by Dietmar Rabich/Close-ups",
+        "F-number f/5.6",
+        "Red circles",
+        "Photographs by Dietmar Rabich/Haltern am See",
+        "Photographs by Dietmar Rabich/Abstract photography",
+        "Photographs by Dietmar Rabich/Featured pictures",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Information field template with formatting",
+        "Sheds in Kreis Recklinghausen",
+        "Red pipes",
+        "Building interiors in Kreis Recklinghausen",
+        "Featured abstract photos",
+        "Buildings with addresses",
+        "Abstract photography in Germany",
+        "Lens focal length 200 mm",
+        "Photographs by Dietmar Rabich/Quality images of economy",
+        "Exposure time 2.5 sec",
+        "Images by XRay (flat list)",
+        "Featured pictures of Haltern am See",
+        "Quality abstract photos",
+        "Haltern am See photographs taken on 2015-03-06",
+        "Pipes in North Rhine-Westphalia",
+        "Items with ticket accreditation",
+        "Photographs by Dietmar Rabich/Quality images of building interiors",
+        "Featured pictures of objects in Germany",
+        "Photographs by Dietmar Rabich/Featured pictures on Wikimedia Commons",
+        "Close-up photographs of architectural structures",
+        "Long exposure photographs of Kreis Recklinghausen",
+        "Photographs by Dietmar Rabich/Industrial photography",
+        "Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia",
+        "Photographs by Dietmar Rabich/Year/2015",
+        "Photo art in Haltern am See",
+        "Close-up photographs in North Rhine-Westphalia",
+        "Photographs by Dietmar Rabich/Quality images of pipes",
+        "Stacks of pipes"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Haltern_am_See,_Sythen,_Werkzeughalle_der_Quarzwerke_--_2015_--_4433.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Haltern_am_See%2C_Sythen%2C_Werkzeughalle_der_Quarzwerke_--_2015_--_4433.jpg/1280px-Haltern_am_See%2C_Sythen%2C_Werkzeughalle_der_Quarzwerke_--_2015_--_4433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4318,
+      "hauteur": 3235
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:70 365 Pipe Dream (16580688787).jpg",
+      "description": "I am seriously dreaming for an early spring!",
+      "categories": [
+        "Pipes",
+        "Files with coordinates missing SDC location of creation",
+        "Icicles in Ontario",
+        "Flickr images reviewed by FlickreviewR 2",
+        "March 2015 in Ontario",
+        "Animal Services Centre (Whitby, Ontario)",
+        "2015 in Whitby, Ontario"
+      ],
+      "auteur": "Camera Eye Photography from Oshawa, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:70_365_Pipe_Dream_(16580688787).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/70_365_Pipe_Dream_%2816580688787%29.jpg/1280px-70_365_Pipe_Dream_%2816580688787%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Kształtki hydrauliczne.jpg",
+      "description": "Ekspozycja kształtek hydraulicznych z PCV. Skan z diapozytywu barwnego.",
+      "categories": [
+        "Plastic pipes",
+        "CC-Zero",
+        "Self-published work",
+        "Hydraulical connectors"
+      ],
+      "auteur": "Tomasz Zugaj",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kszta%C5%82tki_hydrauliczne.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kszta%C5%82tki_hydrauliczne.jpg/1280px-Kszta%C5%82tki_hydrauliczne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3131,
+      "hauteur": 2361
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20130816 Kuehtai TunnelUnderSkiingSlope DSC07218 PtrQs.jpg",
+      "description": "Tunnel for pedestrians under the skiing slope, Kühtai, Tyrol, in summer",
+      "categories": [
+        "Pipes",
+        "Taken with Sony DSLR-A900",
+        "Tunnels in Tyrol (state)",
+        "Vanishing point",
+        "Self-published work",
+        "Black and white photographs of Austria in the 2010s",
+        "Black and white photographs of Tyrol (state)",
+        "Files with coordinates missing SDC location of creation",
+        "Featured Pictures by User:PtrQs",
+        "Files by User:PtrQs",
+        "Austria photographs taken on 2013-08-16",
+        "August 2013 in Tyrol (state)",
+        "Featured black and white photographs",
+        "Ski tunnels",
+        "Photographs taken with Minolta AF 17-35mm F3.5",
+        "Kühtai ski resort"
+      ],
+      "auteur": "PtrQs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20130816_Kuehtai_TunnelUnderSkiingSlope_DSC07218_PtrQs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/20130816_Kuehtai_TunnelUnderSkiingSlope_DSC07218_PtrQs.jpg/1280px-20130816_Kuehtai_TunnelUnderSkiingSlope_DSC07218_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2250
+    }
+  ]
+}

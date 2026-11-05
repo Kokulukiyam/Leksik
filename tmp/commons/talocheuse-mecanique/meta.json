@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "talocheuse-mecanique",
+    "terme": "la talocheuse mécanique",
+    "categorie": "Chantier et outillage",
+    "definition": "Machine à pales tournantes guidée par un long manche, qui lisse la surface d'une dalle de béton frais.",
+    "priorite": 3,
+    "requetes": [
+      "power trowel",
+      "talocheuse mécanique hélicoptère",
+      "concrete power float"
+    ],
+    "categoriesCommons": [
+      "Category:Power trowels"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hand-push electric concrete trowel.jpg",
+      "description": "Hand-push electric concrete trowel",
+      "categories": [
+        "Power trowels",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Jiangsu Provincial Highway 262 construction site"
+      ],
+      "auteur": "Fumikas Sagisavas",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hand-push_electric_concrete_trowel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Hand-push_electric_concrete_trowel.jpg/1280px-Hand-push_electric_concrete_trowel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Building Fairs Brno 2011 (232).jpg",
+      "description": "Building Fairs Brno 2011",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ5",
+        "Power trowels",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files by User:Sevela.p",
+        "Building Fairs Brno 2011",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would lik",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_Fairs_Brno_2011_(232).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Building_Fairs_Brno_2011_%28232%29.jpg/1280px-Building_Fairs_Brno_2011_%28232%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Concrete polishing machine J1.JPG",
+      "description": "Machine à polir le béton (polisseuse), photo prise en Belgique.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ38",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Power trowels",
+        "Self-published work",
+        "Polishing wheels"
+      ],
+      "auteur": "Jamain",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_polishing_machine_J1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Concrete_polishing_machine_J1.JPG/1280px-Concrete_polishing_machine_J1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Zacieraczka do betonu.JPG",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix S602 ZOOM",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "License migration completed",
+        "Power trowels",
+        "Media missing infobox template"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zacieraczka_do_betonu.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Zacieraczka_do_betonu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 960
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ingco Gasoline 2026-06-18 Engine Power Trowel GPT361-3.jpg",
+      "description": "Industrial-grade concrete finishing tool 4.8 kW (6.5 HP) INGCO petrol engine 4-blade rotor system flattening smoothing large concrete slabs 78 kg in just 30 minutes the cemented area dried and next day it can be opened to motorists",
+      "categories": [
+        "Power trowels",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license"
+      ],
+      "auteur": "P1898",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ingco_Gasoline_2026-06-18_Engine_Power_Trowel_GPT361-3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ingco_Gasoline_2026-06-18_Engine_Power_Trowel_GPT361-3.jpg/1280px-Ingco_Gasoline_2026-06-18_Engine_Power_Trowel_GPT361-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1999,
+      "hauteur": 1556
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ride on power trowel.jpg",
+      "description": "Двороторна затирочна машина по бетону фірми Dynamic",
+      "categories": [
+        "Power trowels",
+        "Self-published work"
+      ],
+      "auteur": "DIMEX",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ride_on_power_trowel.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Ride_on_power_trowel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1152,
+      "hauteur": 864
+    }
+  ]
+}

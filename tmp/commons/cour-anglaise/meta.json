@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "cour-anglaise",
+    "terme": "la cour anglaise",
+    "categorie": "Façade et ouvertures",
+    "definition": "Fossé ouvert le long d'une façade, sous le niveau du sol, qui éclaire et aère un sous-sol.",
+    "priorite": 3,
+    "requetes": [
+      "areaway basement railing",
+      "cour anglaise sous-sol",
+      "basement light well area"
+    ],
+    "incompatibles": [
+      "soupirail"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fukuoka Budōkan The areaway on the N side Ōhori 1-chōme Chūō-ku Fukuoka 20250912 155506.jpg",
+      "description": "Fukuoka Budōkan: The areaway on the north side (Address: 1-1, Ōhori 1-chōme, Chūō-ku, Fukuoka-shi 810-0052, Japan)",
+      "categories": [
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation",
+        "Exterior of Fukuoka Budōkan",
+        "Areaway"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fukuoka_Bud%C5%8Dkan_The_areaway_on_the_N_side_%C5%8Chori_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250912_155506.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Fukuoka_Bud%C5%8Dkan_The_areaway_on_the_N_side_%C5%8Chori_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250912_155506.jpg/1280px-Fukuoka_Bud%C5%8Dkan_The_areaway_on_the_N_side_%C5%8Chori_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250912_155506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fukuoka Budōkan The areaway on the W side Ōhori 1-chōme Chūō-ku Fukuoka 20250912 155904.jpg",
+      "description": "Fukuoka Budōkan: The areaway on the west side (Address: 1-1, Ōhori 1-chōme, Chūō-ku, Fukuoka-shi 810-0052, Japan)",
+      "categories": [
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation",
+        "Exterior of Fukuoka Budōkan",
+        "Areaway"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fukuoka_Bud%C5%8Dkan_The_areaway_on_the_W_side_%C5%8Chori_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250912_155904.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Fukuoka_Bud%C5%8Dkan_The_areaway_on_the_W_side_%C5%8Chori_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250912_155904.jpg/1280px-Fukuoka_Bud%C5%8Dkan_The_areaway_on_the_W_side_%C5%8Chori_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250912_155904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Charlestown Heights (area architecture).JPG",
+      "description": "Charlestown Heights, Roughly bounded by St. Martin, Bunker Hill, Medford, and Sackville Sts. Charlestown",
+      "categories": [
+        "Taken with Fujifilm FinePix S4400",
+        "Self-published work",
+        "National Register of Historic Places with known IDs",
+        "Images from Wikipedia Summer of Monuments",
+        "Doors in Boston",
+        "Brownstone buildings",
+        "Buildings in Charlestown, Boston",
+        "Unreviewed submissions from Wikipedia Summer of Monuments",
+        "Uploaded via Campaign:wsm"
+      ],
+      "auteur": "Thaidragon27",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Charlestown_Heights_(area_architecture).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Charlestown_Heights_%28area_architecture%29.JPG/1280px-Charlestown_Heights_%28area_architecture%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Picnic Area Architecture (44945322).jpg",
+      "description": "Picnic Area Architecture",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Ryder Park"
+      ],
+      "auteur": "Darin Marshall from Oakland, United States",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Picnic_Area_Architecture_(44945322).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Picnic_Area_Architecture_%2844945322%29.jpg/1280px-Picnic_Area_Architecture_%2844945322%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Picnic Area Architecture (44945119).jpg",
+      "description": "Picnic Area Architecture",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Ryder Park"
+      ],
+      "auteur": "Darin Marshall from Oakland, United States",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Picnic_Area_Architecture_(44945119).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Picnic_Area_Architecture_%2844945119%29.jpg/1280px-Picnic_Area_Architecture_%2844945119%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fourth Street in the Irish Channel Area Architectural District.jpg",
+      "description": "Street view of houses on the western side of the 1000 block of Fourth Street in New Orleans , Louisiana , United States . This block is part of the Irish Channel Area Architectural District , a historic district that is listed on the National Register of Historic Places .",
+      "categories": [
+        "Images from the Library of Congress",
+        "National Register of Historic Places in Orleans Parish, Louisiana",
+        "PD US NPS",
+        "Files from the Historic American Buildings Survey",
+        "National Register of Historic Places with known IDs",
+        "Black and white photographs of New Orleans",
+        "1979 in New Orleans",
+        "Wrought iron in the United States",
+        "Wooden houses in New Orleans",
+        "Other people's pictures by User:Nyttend",
+        "Files with coordinates missing SDC location of creation",
+        "National Register of Historic Places missing SDC location of creation",
+        "National Register of Historic Places missing SDC depicts",
+        "19th-century houses in New Orleans",
+        "Photographs by Jet Lowe",
+        "Houses in the Irish Channel, New Orleans",
+        "Fourth Street, New Orleans"
+      ],
+      "auteur": "Jet Lowe",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fourth_Street_in_the_Irish_Channel_Area_Architectural_District.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Fourth_Street_in_the_Irish_Channel_Area_Architectural_District.jpg/1280px-Fourth_Street_in_the_Irish_Channel_Area_Architectural_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4701,
+      "hauteur": 3697
+    }
+  ]
+}

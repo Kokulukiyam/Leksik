@@ -1,0 +1,122 @@
+{
+  "terme": {
+    "id": "rabot",
+    "terme": "le rabot",
+    "categorie": "Chantier et outillage",
+    "definition": "Outil à lame tranchante réglable dans un fût, poussé sur le bois pour l'aplanir.",
+    "priorite": 3,
+    "requetes": [
+      "hand plane woodworking",
+      "rabot",
+      "incategory:\"Planes (tools)\""
+    ],
+    "categoriesCommons": [
+      "Category:Planes (tools)"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:9101-07 fælghøvle.jpg",
+      "description": "Plane (tool) to make wheels",
+      "categories": [
+        "Planes (tools)",
+        "Self-published work"
+      ],
+      "auteur": "B Askholm sur Wikipédia danois",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:9101-07_f%C3%A6lgh%C3%B8vle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/9101-07_f%C3%A6lgh%C3%B8vle.jpg/1280px-9101-07_f%C3%A6lgh%C3%B8vle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2261,
+      "hauteur": 1520
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Doppelhobel mit Metallsohle 05.jpg",
+      "description": "Doppelhobel mit Metallsohle, gut geeignet für Arbeiten auf Baustellen",
+      "categories": [
+        "Planes (tools)",
+        "Self-published work"
+      ],
+      "auteur": "Volker hemavom",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Doppelhobel_mit_Metallsohle_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Doppelhobel_mit_Metallsohle_05.jpg/1280px-Doppelhobel_mit_Metallsohle_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Carpentry tools Cathedral Museum Mdina Malta 2014.jpg",
+      "description": "Collection d'outils de menuiserie du Musée de la Cathédrale de Mdina , à Mdina , Malte",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 60D",
+        "Planes (tools)",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Wooden planes (tools)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Malta photographs taken on 2014-08-09",
+        "Interior of Mdina Cathedral Museum"
+      ],
+      "auteur": "Karelj",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpentry_tools_Cathedral_Museum_Mdina_Malta_2014.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Carpentry_tools_Cathedral_Museum_Mdina_Malta_2014.jpg/1280px-Carpentry_tools_Cathedral_Museum_Mdina_Malta_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Doppelhobel mit Metallsohle 03.jpg",
+      "description": "Doppelhobel mit Metallsohle, gut geeignet für Arbeiten auf Baustellen",
+      "categories": [
+        "Planes (tools)",
+        "Self-published work"
+      ],
+      "auteur": "Volker hemavom",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Doppelhobel_mit_Metallsohle_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Doppelhobel_mit_Metallsohle_03.jpg/1280px-Doppelhobel_mit_Metallsohle_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2016-07-17-Holzhobel-5997.jpg",
+      "description": "Holzhobel",
+      "categories": [
+        "Planes (tools)",
+        "Wooden planes (tools)",
+        "Files by User:Superbass from de.wikipedia/Objects",
+        "Tools on white background",
+        "Uploaded with LrMediaWiki",
+        "Fotosession im Lokal K (2016)"
+      ],
+      "auteur": "Superbass",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016-07-17-Holzhobel-5997.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2016-07-17-Holzhobel-5997.jpg/1280px-2016-07-17-Holzhobel-5997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5288,
+      "hauteur": 3525
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2022-11-02 10 Hobel.jpg",
+      "description": "Hobel aus DDR-Produktion?",
+      "categories": [
+        "Planes (tools)",
+        "Planes (tools) in Germany",
+        "Self-published work"
+      ],
+      "auteur": "Monsatorum",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2022-11-02_10_Hobel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2022-11-02_10_Hobel.jpg/1280px-2022-11-02_10_Hobel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3311,
+      "hauteur": 2417
+    }
+  ]
+}

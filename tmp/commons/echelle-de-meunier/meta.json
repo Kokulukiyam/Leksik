@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "echelle-de-meunier",
+    "terme": "l'échelle de meunier",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier très raide aux marches étroites et sans contremarches, entre l'échelle et l'escalier.",
+    "priorite": 3,
+    "requetes": [
+      "ship ladder stairs",
+      "échelle de meunier",
+      "steep stairs ladder"
+    ],
+    "incompatibles": [
+      "escalier",
+      "escalier-en-bois",
+      "escalier-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Alternating tread stairs",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Sambatreppe-Stufen.JPG",
+      "description": "Stufen einer Sambatreppe",
+      "categories": [
+        "Wooden stairs",
+        "Alternating tread stairs",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Tom Quist",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sambatreppe-Stufen.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Sambatreppe-Stufen.JPG/1280px-Sambatreppe-Stufen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1520,
+      "hauteur": 2032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Accès Gare Hauptwache S-Bahn An Der Hautwache - Francfort-sur-le-Main (DE71) - 2025-11-29 - 1.jpg",
+      "description": "Accès à la gare Hauptwache de la S-Bahn, An Der Hautwache, Francfort-sur-le-Main.",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 8° E)",
+        "Images by Chabe01 taken with iPhone 16 Pro",
+        "Images of rapid transit by Chabe01",
+        "Images of Frankfurt am Main by Chabe01",
+        "Frankfurt am Main photographs taken on 2025-11-29",
+        "Entrances to Bahnhof Frankfurt (Main) Hauptwache"
+      ],
+      "auteur": "Chabe01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acc%C3%A8s_Gare_Hauptwache_S-Bahn_An_Der_Hautwache_-_Francfort-sur-le-Main_(DE71)_-_2025-11-29_-_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Acc%C3%A8s_Gare_Hauptwache_S-Bahn_An_Der_Hautwache_-_Francfort-sur-le-Main_%28DE71%29_-_2025-11-29_-_1.jpg/1280px-Acc%C3%A8s_Gare_Hauptwache_S-Bahn_An_Der_Hautwache_-_Francfort-sur-le-Main_%28DE71%29_-_2025-11-29_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5712,
+      "hauteur": 4284
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Lunéville (M-et-M) escalier d'une maison à marches alternantes g-dr.jpg",
+      "description": "Lunéville (M-et-M) escalier d'une maison à marches alternantes g-dr",
+      "categories": [
+        "CC-Zero",
+        "Lunéville",
+        "Alternating tread stairs",
+        "Self-published work",
+        "Stairs in Meurthe-et-Moselle",
+        "Images from Été des Régions 2016",
+        "Uploaded via Campaign:Été des régions 2016",
+        "Photographs by Henk van Gaal"
+      ],
+      "auteur": "Havang(nl)",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lun%C3%A9ville_(M-et-M)_escalier_d%27une_maison_%C3%A0_marches_alternantes_g-dr.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Lun%C3%A9ville_%28M-et-M%29_escalier_d%27une_maison_%C3%A0_marches_alternantes_g-dr.jpg/1280px-Lun%C3%A9ville_%28M-et-M%29_escalier_d%27une_maison_%C3%A0_marches_alternantes_g-dr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2015-365-69 Keeping The Parallels (16756249196).jpg",
+      "description": "Light is very consistent...",
+      "categories": [
+        "CC-Zero",
+        "Stairs",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine",
+        "Files with coordinates missing SDC location of creation",
+        "Shadows of railings"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2015-365-69_Keeping_The_Parallels_(16756249196).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2015-365-69_Keeping_The_Parallels_%2816756249196%29.jpg/1280px-2015-365-69_Keeping_The_Parallels_%2816756249196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Oybin - Berg - Burg+Kloster - Kloster - Klosterkirche - Turm 03 ies.jpg",
+      "description": "Kirchturm der Klosterkirche, Kloster Oybin auf dem Berg Oybin in Oybin",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 5D Mark II",
+        "Alternating tread stairs",
+        "License migration redundant",
+        "Self-published work",
+        "Klosterkirchturm Oybin"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oybin_-_Berg_-_Burg%2BKloster_-_Kloster_-_Klosterkirche_-_Turm_03_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Oybin_-_Berg_-_Burg%2BKloster_-_Kloster_-_Klosterkirche_-_Turm_03_ies.jpg/1280px-Oybin_-_Berg_-_Burg%2BKloster_-_Kloster_-_Klosterkirche_-_Turm_03_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:4 Place des Vosges, Hôtel Regnouart, départ d'escalier, 4ème arrondissement, Paris, PH23381.jpg",
+      "description": "Auteur(s): Lansiaux, Charles Joseph Antoine (Aniche, 09–03–1855 - Paris, après 06–04–1939), photographe Date de production: Entre 1916 et 1922 Type(s) d'objet(s): Photographie, Arts graphiques Dénomination(s): Photographie Matériaux et techniques: Tirage au gélatino-bromure d’argent Dimensions - Oeuvre: Hauteur : 17.7 cm Largeur : 23.3 cm Description: Tirage placé sur montage ancien (format 32,2 x 50 cm) grâce à un système d'encoches avec PH23380 Marques, inscriptions, poinçons: Inscription concernant le titre - Au verso de l'image, à droite, manuscrit à l'encre violette : \"DIRECTION DE L'EXTE",
+      "categories": [
+        "Place des Vosges (Paris)",
+        "CC-Zero",
+        "Stairs",
+        "Images from Paris Musées",
+        "Photographs by Charles Lansiaux in the Musée Carnavalet"
+      ],
+      "auteur": "Lansiaux, Charles Joseph Antoine (Aniche, 09–03–1855 - Paris, après 06–04–1939), photographe",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4_Place_des_Vosges,_H%C3%B4tel_Regnouart,_d%C3%A9part_d%27escalier,_4%C3%A8me_arrondissement,_Paris,_PH23381.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/4_Place_des_Vosges%2C_H%C3%B4tel_Regnouart%2C_d%C3%A9part_d%27escalier%2C_4%C3%A8me_arrondissement%2C_Paris%2C_PH23381.jpg/1280px-4_Place_des_Vosges%2C_H%C3%B4tel_Regnouart%2C_d%C3%A9part_d%27escalier%2C_4%C3%A8me_arrondissement%2C_Paris%2C_PH23381.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4580,
+      "hauteur": 3443
+    }
+  ]
+}

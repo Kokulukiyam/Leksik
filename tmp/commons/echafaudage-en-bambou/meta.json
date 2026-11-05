@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "echafaudage-en-bambou",
+    "terme": "l'échafaudage en bambou",
+    "categorie": "Chantier et outillage",
+    "definition": "Échafaudage fait de tiges de bambou ligaturées entre elles.",
+    "priorite": 3,
+    "requetes": [
+      "bamboo scaffolding",
+      "incategory:\"Bamboo scaffolding\"",
+      "échafaudage en bambou"
+    ],
+    "incompatibles": [
+      "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Bamboo scaffolding",
+      "Category:Scaffolding"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fisherman in bamboo tower watching for fish, Kamakura, Japan LCCN2001705669.jpg",
+      "description": "Title: Fisherman in bamboo tower watching for fish, Kamakura, Japan Abstract: Photo shows a man on a platform in a bamboo-pole tower at the edge of the sea, watching for fish; other bamboo towers are in the background, one showing a thatched covering. Physical description: 1 photographic print. Notes: Title from caption card and item.; Forms part of: Frank and Frances Carpenter Collection (Library of Congress).; LOT subdivision subject: Japan.",
+      "categories": [
+        "Images from the Library of Congress",
+        "Fishing in Japan",
+        "Bamboo scaffolding",
+        "Images uploaded by Fæ",
+        "PD US expired",
+        "Scaffolding in Japan",
+        "Frank and Frances Carpenter Collection black and white photographs of Japan"
+      ],
+      "auteur": "Frank and Frances Carpenter Collection",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fisherman_in_bamboo_tower_watching_for_fish,_Kamakura,_Japan_LCCN2001705669.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Fisherman_in_bamboo_tower_watching_for_fish%2C_Kamakura%2C_Japan_LCCN2001705669.jpg/1280px-Fisherman_in_bamboo_tower_watching_for_fish%2C_Kamakura%2C_Japan_LCCN2001705669.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4199,
+      "hauteur": 5800
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Arkaden (15368859575).jpg",
+      "description": "Topshop Arkaden in Gothenburg, Sweden",
+      "categories": [
+        "Scaffolding",
+        "Södra Hamngatan",
+        "Topshop",
+        "Flickr images reviewed by FlickreviewR",
+        "Sweden photographs taken on 2014-09-12",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Tony Webster"
+      ],
+      "auteur": "Tony Webster from Portland, Oregon, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arkaden_(15368859575).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Arkaden_%2815368859575%29.jpg/1280px-Arkaden_%2815368859575%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Scaffolding in Kampot.jpg",
+      "description": "Bamboo scaffolding in Kampot, Cambodia.",
+      "categories": [
+        "Kampot",
+        "Bamboo scaffolding",
+        "Self-published work",
+        "Scaffolding in Cambodia",
+        "Files with coordinates missing SDC location of creation",
+        "Images by Christophe95/Cambodia"
+      ],
+      "auteur": "Christophe95",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Scaffolding_in_Kampot.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Scaffolding_in_Kampot.jpg/1280px-Scaffolding_in_Kampot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Archiv 1006 001.jpg",
+      "description": "Pfarrkirche St. Gebhard in Konstanz während der Renovierung 1961",
+      "categories": [
+        "Scanned with SF Scanner",
+        "Scaffolding",
+        "Gebhard of Constance Church (Konstanz)",
+        "Self-published work"
+      ],
+      "auteur": "Andreas Fecker",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Archiv_1006_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Archiv_1006_001.jpg/1280px-Archiv_1006_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2461,
+      "hauteur": 3802
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:High-Rise with Men on Bamboo Scaffolding - Colombo - Sri Lanka (14018270714).jpg",
+      "description": "High-Rise with Men on Bamboo Scaffolding - Colombo - Sri Lanka",
+      "categories": [
+        "Bamboo scaffolding",
+        "Apartment buildings in Colombo",
+        "Photographs by Adam Jones",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Adam Jones from Kelowna, BC, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:High-Rise_with_Men_on_Bamboo_Scaffolding_-_Colombo_-_Sri_Lanka_(14018270714).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/High-Rise_with_Men_on_Bamboo_Scaffolding_-_Colombo_-_Sri_Lanka_%2814018270714%29.jpg/1280px-High-Rise_with_Men_on_Bamboo_Scaffolding_-_Colombo_-_Sri_Lanka_%2814018270714%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2024-06-16 Zanzbar Stonetown 02.jpg",
+      "description": "Scaffolding on a residential building in the old town (Stonetown) of Zanzibar.",
+      "categories": [
+        "Scaffolding",
+        "Stone Town",
+        "Self-published work",
+        "Construction in Tanzania"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-06-16_Zanzbar_Stonetown_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2024-06-16_Zanzbar_Stonetown_02.jpg/1280px-2024-06-16_Zanzbar_Stonetown_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 3402
+    }
+  ]
+}

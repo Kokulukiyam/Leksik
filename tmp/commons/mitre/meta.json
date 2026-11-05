@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "mitre",
+    "terme": "la mitre",
+    "categorie": "Toitures",
+    "definition": "Couronnement placé au sommet d'un conduit de cheminée pour l'abriter de la pluie et du vent.",
+    "priorite": 3,
+    "requetes": [
+      "chimney cowl",
+      "mitre cheminée",
+      "chimney pot cap"
+    ],
+    "incompatibles": [
+      "souche-de-cheminee"
+    ],
+    "categoriesCommons": [
+      "Category:Chimney pots",
+      "Category:Chimneys"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chimney.stack.london.arp.jpg",
+      "description": "Chimney pots in London, England, seen from the tower of Westminster Roman Catholic cathedral.",
+      "categories": [
+        "Taken with Olympus C-750UZ",
+        "PD-user",
+        "Views from Westminster Cathedral",
+        "Chimneys in London",
+        "2005 in the City of Westminster",
+        "Roofs in London",
+        "Architectural elements in the City of Westminster",
+        "London photographs taken on 2005-06-07",
+        "Chimney pots"
+      ],
+      "auteur": "Adrian Pingstone",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chimney.stack.london.arp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Chimney.stack.london.arp.jpg/1280px-Chimney.stack.london.arp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ducted chimney heater.jpg",
+      "description": "This chimney heat exchanger has a ducted inlet and outlet allowing it to be tied into the central air register system of the home.",
+      "categories": [
+        "GFDL",
+        "Chimneys",
+        "Heating devices",
+        "License migration redundant",
+        "Self-published work",
+        "Air heaters"
+      ],
+      "auteur": "Brenthasty",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ducted_chimney_heater.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ducted_chimney_heater.jpg/1280px-Ducted_chimney_heater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chimney-stack-pots-and-tv-antennas.jpg",
+      "description": "Chimney sweepa",
+      "categories": [
+        "Terrestrial television antennas",
+        "Chimney pots"
+      ],
+      "auteur": "Alex Borland",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chimney-stack-pots-and-tv-antennas.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Chimney-stack-pots-and-tv-antennas.jpg/1280px-Chimney-stack-pots-and-tv-antennas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1233
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Parisien Chimney Pots, Paris 5 September 2008.jpg",
+      "description": "Parisien Chminey Pots",
+      "categories": [
+        "Views from Printemps Haussmann",
+        "Flickr images reviewed by FlickreviewR",
+        "September 2008 in Paris",
+        "France photographs taken on 2008-09-05",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Chimney pots",
+        "Photographs by Chris Eason",
+        "Roofscapes in Paris"
+      ],
+      "auteur": "Chris Eason from London",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Parisien_Chimney_Pots,_Paris_5_September_2008.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Parisien_Chimney_Pots%2C_Paris_5_September_2008.jpg/1280px-Parisien_Chimney_Pots%2C_Paris_5_September_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Brick Field Workers 1047 48.jpg",
+      "description": "Brick Field Workers of Bangladesh",
+      "categories": [
+        "Bricks",
+        "Chimneys",
+        "Brickworks",
+        "Self-published work",
+        "Hand carts",
+        "Project Korikath-All images",
+        "Brick kilns",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Bangladesh",
+        "Uploaded via Campaign:wlf bd 2026"
+      ],
+      "auteur": "Frameofashik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_Field_Workers_1047_48.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Brick_Field_Workers_1047_48.jpg/1280px-Brick_Field_Workers_1047_48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4200,
+      "hauteur": 2800
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Kamininpot Yq34r.jpg",
+      "description": "keramischer Schornsteinaufsatz , Terracotta, traditionell, Schornsteinverlängerung, rot",
+      "categories": [
+        "Ceramic objects",
+        "Self-published work",
+        "Chimney pots"
+      ],
+      "auteur": "Wdo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kamininpot_Yq34r.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Kamininpot_Yq34r.jpg/1280px-Kamininpot_Yq34r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3022,
+      "hauteur": 4442
+    }
+  ]
+}

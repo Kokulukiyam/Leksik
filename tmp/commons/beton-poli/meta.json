@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "beton-poli",
+    "terme": "le béton poli",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Dalle de béton poncée jusqu'à devenir lisse et brillante, laissée comme sol fini.",
+    "priorite": 3,
+    "requetes": [
+      "polished concrete floor",
+      "béton poli sol",
+      "ground polished concrete floor"
+    ],
+    "incompatibles": [
+      "beton-brut",
+      "sol-en-resine"
+    ],
+    "categoriesCommons": [
+      "Category:Polished concrete",
+      "Category:Concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Betoncsiszolas 02.jpg",
+      "description": "Polished concrete",
+      "categories": [
+        "Polished concrete",
+        "Betoncsiszolas"
+      ],
+      "auteur": "PConcrete",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betoncsiszolas_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Betoncsiszolas_02.jpg/1280px-Betoncsiszolas_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2nd Floor Rod Biding in Progress.jpg",
+      "description": "11-4C 1435 CDA Cuttack, Orissa, India",
+      "categories": [
+        "Taken with Sony Ericsson W8",
+        "Concrete",
+        "Self-published work"
+      ],
+      "auteur": "BCSInfo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2nd_Floor_Rod_Biding_in_Progress.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2nd_Floor_Rod_Biding_in_Progress.jpg/1280px-2nd_Floor_Rod_Biding_in_Progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Final buffing with BECOSAN.jpg",
+      "description": "Final buffing on polished concrete floor.",
+      "categories": [
+        "Polished concrete",
+        "Self-published work"
+      ],
+      "auteur": "BECOTREAT",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Final_buffing_with_BECOSAN.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Final_buffing_with_BECOSAN.jpg/1280px-Final_buffing_with_BECOSAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2023-07-12 10 47 46 60-year old sidewalk along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "60-year old sidewalk along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Concrete",
+        "Self-published work",
+        "July 2023 in New Jersey",
+        "United States photographs taken on 2023-07-12",
+        "Files with coordinates missing SDC location of creation",
+        "Sidewalks in Ewing Township, New Jersey",
+        "Lochatong Road (Ewing Township, New Jersey)",
+        "Famartin's 2023 photos",
+        "Famartin's July 2023 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-07-12_10_47_46_60-year_old_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2023-07-12_10_47_46_60-year_old_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-2023-07-12_10_47_46_60-year_old_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Removing micro roughness on concrete floor.jpg",
+      "description": "Removing micro roughness on concrete floor",
+      "categories": [
+        "Polished concrete",
+        "Self-published work",
+        "Ambiguous location in EXIF"
+      ],
+      "auteur": "BECOTREAT",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Removing_micro_roughness_on_concrete_floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Removing_micro_roughness_on_concrete_floor.jpg/1280px-Removing_micro_roughness_on_concrete_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3078
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ablution block in a container (7208537450).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208537450).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ablution_block_in_a_container_%287208537450%29.jpg/1280px-Ablution_block_in_a_container_%287208537450%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    }
+  ]
+}

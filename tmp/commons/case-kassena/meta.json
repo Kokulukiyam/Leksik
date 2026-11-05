@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "case-kassena",
+    "terme": "la case kassena",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Case en terre du pays kassena (Tiébélé, Burkina Faso) aux murs couverts de motifs géométriques peints en noir, blanc et rouge.",
+    "priorite": 3,
+    "requetes": [
+      "Tiébélé",
+      "kassena painted house",
+      "Tiebele painted houses"
+    ],
+    "incompatibles": [
+      "banco"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:BF-Tiébélé-Entrée de maison 3.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Tiebele",
+        "Self-published work",
+        "Houses in Burkina Faso",
+        "Images from Wiki Loves Africa 2022",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Burkina Faso"
+      ],
+      "auteur": "WILLAV-FR",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BF-Ti%C3%A9b%C3%A9l%C3%A9-Entr%C3%A9e_de_maison_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BF-Ti%C3%A9b%C3%A9l%C3%A9-Entr%C3%A9e_de_maison_3.jpg/1280px-BF-Ti%C3%A9b%C3%A9l%C3%A9-Entr%C3%A9e_de_maison_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:BF-Tiébélé-Décoration murale.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Art of Burkina Faso",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Burkina Faso",
+        "Royal Court of Tiébélé"
+      ],
+      "auteur": "WILLAV-FR",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BF-Ti%C3%A9b%C3%A9l%C3%A9-D%C3%A9coration_murale.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/BF-Ti%C3%A9b%C3%A9l%C3%A9-D%C3%A9coration_murale.jpg/1280px-BF-Ti%C3%A9b%C3%A9l%C3%A9-D%C3%A9coration_murale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:BF-Tiébélé-Arbre à palabres.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Trees in Burkina Faso",
+        "Tiebele",
+        "Women of Burkina Faso",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Burkina Faso"
+      ],
+      "auteur": "WILLAV-FR",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BF-Ti%C3%A9b%C3%A9l%C3%A9-Arbre_%C3%A0_palabres.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/BF-Ti%C3%A9b%C3%A9l%C3%A9-Arbre_%C3%A0_palabres.jpg/1280px-BF-Ti%C3%A9b%C3%A9l%C3%A9-Arbre_%C3%A0_palabres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:View of the court.jpg",
+      "description": "Une vue de la cour royale de Tiébélé construit au 16e siècle. Patrimoine mondial de l'UNESCO",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded via Campaign:wle-bf",
+        "Images from Wiki Loves Earth 2024",
+        "Images from Wiki Loves Earth 2024 in Burkina Faso",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Royal Court of Tiébélé",
+        "Images from Wiki Loves Earth missing SDC participant in"
+      ],
+      "auteur": "Hampandi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:View_of_the_court.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_the_court.jpg/1280px-View_of_the_court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:BF-Tiébélé-Récipients dans la cuisine.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Tiebele",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Kitchens in Burkina Faso",
+        "Uploaded via Campaign:wlafrica",
+        "Containers in Burkina Faso",
+        "Images from Wiki Loves Africa 2022 in Burkina Faso",
+        "Kitchenware of Burkina Faso"
+      ],
+      "auteur": "WILLAV-FR",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BF-Ti%C3%A9b%C3%A9l%C3%A9-R%C3%A9cipients_dans_la_cuisine.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/BF-Ti%C3%A9b%C3%A9l%C3%A9-R%C3%A9cipients_dans_la_cuisine.jpg/1280px-BF-Ti%C3%A9b%C3%A9l%C3%A9-R%C3%A9cipients_dans_la_cuisine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:The kitchen 11-09-2024.jpg",
+      "description": "Tiebele royal court built in the XVI century. African architecture",
+      "categories": [
+        "Self-published work",
+        "Kitchens in Burkina Faso",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded via Campaign:wle-bf",
+        "Images from Wiki Loves Earth 2024",
+        "Images from Wiki Loves Earth 2024 in Burkina Faso",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Royal Court of Tiébélé",
+        "Images from Wiki Loves Earth missing SDC participant in"
+      ],
+      "auteur": "Hampandi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_kitchen_11-09-2024.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/The_kitchen_11-09-2024.jpg/1280px-The_kitchen_11-09-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "case-a-etage",
+    "terme": "la case à étage",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Grande habitation diola en banco à deux niveaux, aux murs épais et au toit de chaume, typique de Mlomp en Casamance.",
+    "priorite": 3,
+    "requetes": [
+      "case à étage Mlomp",
+      "Mlomp Casamance",
+      "two-storey mud house Casamance"
+    ],
+    "incompatibles": [
+      "case-a-impluvium",
+      "banco"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mlomp-Calebassier2.JPG",
+      "description": "Calebassier à Mlomp (Casamance, Sénégal), à l'arrière d'une case à étages",
+      "categories": [
+        "Trees in Senegal",
+        "Crescentia cujete",
+        "Taken with Nikon Coolpix S500",
+        "Self-published work",
+        "PD-self",
+        "Mlomp"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mlomp-Calebassier2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mlomp-Calebassier2.JPG/1280px-Mlomp-Calebassier2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Mlomp-Mango.JPG",
+      "description": "Manguier à l'arrière de l'une des cases à étages de Mlomp (Casamance, Sénégal)",
+      "categories": [
+        "Taken with Nikon Coolpix S500",
+        "Self-published work",
+        "PD-self",
+        "Unidentified Mangifera",
+        "Mango trees in Senegal",
+        "Mlomp"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mlomp-Mango.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Mlomp-Mango.JPG/1280px-Mlomp-Mango.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Mlomp-Lady.jpg",
+      "description": "L'une des doyennes de Mlomp (Casamance, Sénégal). Sa date de naissance est inconnue, mais elle totaliserait 88 ans de mariage en 2008.",
+      "categories": [
+        "Taken with Nikon Coolpix S500",
+        "Self-published work",
+        "PD-self",
+        "Old women of Senegal",
+        "Mlomp"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mlomp-Lady.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Mlomp-Lady.jpg/1280px-Mlomp-Lady.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1806,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Case à étage.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Senegal",
+        "Views from vehicles in Senegal",
+        "Mlomp",
+        "Images from Wiki Loves Africa 2022 in Ziguinchor Region"
+      ],
+      "auteur": "Fatou kine doucoure",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Case_%C3%A0_%C3%A9tage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Case_%C3%A0_%C3%A9tage.jpg/1280px-Case_%C3%A0_%C3%A9tage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mlomp-Fromager1.JPG",
+      "description": "Contreforts ailés d'un fromager à Mlomp (Casamance, Sénégal)",
+      "categories": [
+        "Trees in Senegal",
+        "Taken with Nikon Coolpix S500",
+        "Self-published work",
+        "PD-self",
+        "Buttress roots",
+        "Unidentified Ceiba",
+        "Mlomp"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mlomp-Fromager1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Mlomp-Fromager1.JPG/1280px-Mlomp-Fromager1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Mlomp-MaisonEtages2.JPG",
+      "description": "La façade arrière d'une case à étages en banco à Mlomp (Casamance, Sénégal)",
+      "categories": [
+        "Taken with Nikon Coolpix S500",
+        "Self-published work",
+        "PD-self",
+        "Houses in Senegal",
+        "January 2008 in Senegal",
+        "Mud buildings in Senegal",
+        "Mlomp"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mlomp-MaisonEtages2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mlomp-MaisonEtages2.JPG/1280px-Mlomp-MaisonEtages2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    }
+  ]
+}

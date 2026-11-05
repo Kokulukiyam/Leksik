@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "lambrequin",
+    "terme": "le lambrequin",
+    "categorie": "Ornement",
+    "definition": "Bande de bois ou de métal découpée qui borde le bas d'une avancée de toit ou d'un auvent.",
+    "priorite": 3,
+    "requetes": [
+      "lambrequin bois",
+      "gingerbread trim eaves",
+      "decorative bargeboard fretwork"
+    ],
+    "categoriesCommons": [
+      "Category:Lambrequins",
+      "Category:Bargeboards"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:BAR000264 - Casa quinhentista.jpg",
+      "description": "Título: Casa quinhentista Dimensão: 9 x 12 cm Suporte: Negativo de gelatina e prata em vidro Unidades de descrição relacionadas: Cód. Referência: PT/AMLSB/POR/053403 Título: Casa quinhentista Cód. Referência: PT/AMLSB/POR/053259 Título: Casa quinhentista Notas: Inscrição no original: 6399 \"1\" Assunto: Placa toponímica / Chaminé / Casa quinhentista / Escada Local: Largo Rodrigues de Freitas Freguesia: Socorro Código de referência: PT/AMLSB/BAR/000264",
+      "categories": [
+        "16th-century houses",
+        "Lisbon in the 1900s",
+        "Lambrequins",
+        "José Artur Leitão Bárcia",
+        "Houses in Lisbon",
+        "PD-old-80-expired",
+        "CC-PD-Mark",
+        "16th-century architecture in Lisbon",
+        "Images from the Arquivo Municipal de Lisboa",
+        "Largo do Menino Deus",
+        "Lambrequins in Portugal",
+        "Black and white photographs of Lisbon",
+        "Clothes lines in Lisbon",
+        "Cobbled streets in Lisbon",
+        "Beco dos Fróis",
+        "Files of Lisbon uploaded by Darwinius"
+      ],
+      "auteur": "José Artur Leitão Bárcia",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:BAR000264_-_Casa_quinhentista.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/BAR000264_-_Casa_quinhentista.jpg/1280px-BAR000264_-_Casa_quinhentista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 2759
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dormer window at Southgate-Lewis House 1980.jpg",
+      "description": "The dormer window at the Southgate-Lewis House embodies many characteristics of Victorian Style: (a) overhanging eves with exposed rafter ends, (b) crossed bargeboard trim, (c) steeply pitched gable roof with an extended overhang, and (d) diagonal brackets to support the overhang. There are two ornamental symbolic birds reaching toward each other above an ornamental medallion.",
+      "categories": [
+        "Bargeboards",
+        "Dormer windows",
+        "Southgate-Lewis House",
+        "Self-published work",
+        "Dormer windows in Haute-Vienne"
+      ],
+      "auteur": "DGAAustin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dormer_window_at_Southgate-Lewis_House_1980.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Dormer_window_at_Southgate-Lewis_House_1980.jpg/1280px-Dormer_window_at_Southgate-Lewis_House_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2550,
+      "hauteur": 2322
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pepinster Fen1a.jpg",
+      "description": "Pepinster (Belgique), la matou de la « Rue de la Pompe ».",
+      "categories": [
+        "GFDL",
+        "Pepinster",
+        "Lambrequins",
+        "License migration redundant",
+        "Cats of Belgium",
+        "Self-published work",
+        "Uploaded by Jean-Pol GRANDMONT",
+        "Black tortoiseshell and white cats",
+        "Windows in Belgium",
+        "Cats at windows"
+      ],
+      "auteur": "Jean-Pol GRANDMONT",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pepinster_Fen1a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Pepinster_Fen1a.jpg/1280px-Pepinster_Fen1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:James Gilpin, house, Smith's Village, Enfield, Mass., Mar. 28, 1928 Parcel no. 289-16, James Gilpin - DPLA - c9f2bca50b3b5f64dbb52c5b5a2390e2.jpg",
+      "description": "Massachusetts Metropolitan District Commission; Massachusetts Department of Conservation and Recreation Print in album volume MDWSC, Real Estate, Swift River Watershed, Volume 11",
+      "categories": [
+        "PD US",
+        "Bargeboards",
+        "Media contributed by the Digital Public Library of America",
+        "Media contributed by Massachusetts Archives",
+        "Media contributed by Digital Commonwealth",
+        "Files from the Massachusetts Water Resources Authority",
+        "Photographs by Charles B. Chetwynd"
+      ],
+      "auteur": "Massachusetts. Metropolitan District Water Supply Commission, Chetwynd, Charles B., 1906-1994, Chetwynd, Charles B., 1906-1994",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:James_Gilpin,_house,_Smith%27s_Village,_Enfield,_Mass.,_Mar._28,_1928_Parcel_no._289-16,_James_Gilpin_-_DPLA_-_c9f2bca50b3b5f64dbb52c5b5a2390e2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/James_Gilpin%2C_house%2C_Smith%27s_Village%2C_Enfield%2C_Mass.%2C_Mar._28%2C_1928_Parcel_no._289-16%2C_James_Gilpin_-_DPLA_-_c9f2bca50b3b5f64dbb52c5b5a2390e2.jpg/1280px-James_Gilpin%2C_house%2C_Smith%27s_Village%2C_Enfield%2C_Mass.%2C_Mar._28%2C_1928_Parcel_no._289-16%2C_James_Gilpin_-_DPLA_-_c9f2bca50b3b5f64dbb52c5b5a2390e2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4551,
+      "hauteur": 2932
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bamberg Herzog-Max-Strasse-1.jpg",
+      "description": "Lambrequin Herzog-Max-Straße 1 – 96047 Bamberg – Inselstadt – Stadtdenkmal Wohn- und Geschäftshaus Der nachfolgende Text stammt aus der Bayerischen Denkmalliste (Stand: Mai 2018): Mietshaus, zweiflügelig in spitzwinkliger Straßengabelung, dreigeschossiger Massivbau mit Mansarddach und repräsentativem viergeschossigem Eckpavillon, Putzbau mit genutetem Erdgeschoss, neubarock, 1893 von Chrysostomus Martin.",
+      "categories": [
+        "Lambrequins",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (49° N, 10° E)"
+      ],
+      "auteur": "Owaaitza",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bamberg_Herzog-Max-Strasse-1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bamberg_Herzog-Max-Strasse-1.jpg/1280px-Bamberg_Herzog-Max-Strasse-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2988,
+      "hauteur": 5312
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:1601 N 7th Street.jpg",
+      "description": "Goreczky, Anton, House - 1601 N 7th Street Boise, ID.",
+      "categories": [
+        "Taken with Nikon D50",
+        "Bargeboards",
+        "Anton Goreczky House",
+        "Houses on the National Register of Historic Places in Idaho",
+        "Houses in Boise, Idaho",
+        "Self-published work",
+        "National Register of Historic Places with known IDs",
+        "National Register of Historic Places missing SDC location of creation",
+        "National Register of Historic Places missing SDC depicts"
+      ],
+      "auteur": "Charmar",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1601_N_7th_Street.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/1601_N_7th_Street.jpg/1280px-1601_N_7th_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    }
+  ]
+}

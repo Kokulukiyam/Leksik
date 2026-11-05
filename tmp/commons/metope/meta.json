@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "metope",
+    "terme": "la métope",
+    "categorie": "Ornement",
+    "definition": "Panneau carré, lisse ou sculpté, placé entre deux triglyphes dans la frise dorique.",
+    "priorite": 3,
+    "requetes": [
+      "metope sculpted",
+      "Parthenon metope",
+      "métope"
+    ],
+    "incompatibles": [
+      "triglyphe",
+      "frise",
+      "bas-relief",
+      "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Metopes",
+      "Category:Doric friezes",
+      "Category:Doric order"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Paphos Königsgrab 8 - Loculus mit Eingang.jpg",
+      "description": "Paphos ( Cyprus ). Tombs of the kings: Tomb 8 - Loculus with portal.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Metopes",
+        "License migration redundant",
+        "Loculus (architecture)",
+        "Self-published work",
+        "Tombs of the kings (Paphos) - Tomb 8"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paphos_K%C3%B6nigsgrab_8_-_Loculus_mit_Eingang.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Paphos_K%C3%B6nigsgrab_8_-_Loculus_mit_Eingang.jpg/1280px-Paphos_K%C3%B6nigsgrab_8_-_Loculus_mit_Eingang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1712,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Paris 75001 Rue de la Cossonnerie 20170528.jpg",
+      "description": "58579-Paris",
+      "categories": [
+        "Rue Saint-Denis (Paris)",
+        "Rue de la Cossonnerie (Paris)",
+        "Dormer windows in Paris",
+        "Uploaded by Paris 16",
+        "Gable dormers in France",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Paris photographs taken on 2017-05-28",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Doric friezes",
+        "Doric order in Paris",
+        "Photographs by Xiquinho Silva",
+        "Cour Batave"
+      ],
+      "auteur": "xiquinhosilva from Cacau",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paris_75001_Rue_de_la_Cossonnerie_20170528.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Paris_75001_Rue_de_la_Cossonnerie_20170528.jpg/1280px-Paris_75001_Rue_de_la_Cossonnerie_20170528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:MMDA-Photos - 2025-01-10 - Dickinson House -2.jpg",
+      "description": "Detail of the Dickinson House in Essex Connecticut.",
+      "categories": [
+        "Classical architecture",
+        "Essex, Connecticut",
+        "Triglyphs",
+        "Self-published work",
+        "Photos by M.M.Dwyer-Architect",
+        "Taken with Google Pixel 9",
+        "Doric order"
+      ],
+      "auteur": "MMDA-Photos",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MMDA-Photos_-_2025-01-10_-_Dickinson_House_-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/MMDA-Photos_-_2025-01-10_-_Dickinson_House_-2.jpg/1280px-MMDA-Photos_-_2025-01-10_-_Dickinson_House_-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1979,
+      "hauteur": 1979
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Kolegiata sw Wawrzynca w Zolkwi 02.jpg",
+      "description": "Костел Св.Лаврентія в Жовкві",
+      "categories": [
+        "Taken with Nikon D300",
+        "Metopes",
+        "Saint Lawrence church, Zhovkva",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2012",
+        "Cultural heritage monuments in Ukraine with known IDs",
+        "Images from Wiki Loves Monuments 2012 in Ukraine",
+        "Zhovkva photographs taken on 2011-06-12",
+        "Ukraine photographs taken on 2011-06-12"
+      ],
+      "auteur": "Сергій Криниця (Haidamac)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kolegiata_sw_Wawrzynca_w_Zolkwi_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Kolegiata_sw_Wawrzynca_w_Zolkwi_02.jpg/1280px-Kolegiata_sw_Wawrzynca_w_Zolkwi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3536,
+      "hauteur": 2300
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Museo archeologico di feisole, lastre altomedievali 01.JPG",
+      "description": "Museo archeologico di feisole, lastre altomedievali",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix P5000",
+        "License migration redundant",
+        "Self-published work",
+        "Ancient Roman inscriptions in Tuscany",
+        "Photographs of antiquities by User:Sailko - Architectural elements",
+        "Doric friezes",
+        "Reliefs in the Museo archeologico (Fiesole)"
+      ],
+      "auteur": "sailko",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Museo_archeologico_di_feisole,_lastre_altomedievali_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Museo_archeologico_di_feisole%2C_lastre_altomedievali_01.JPG/1280px-Museo_archeologico_di_feisole%2C_lastre_altomedievali_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2556,
+      "hauteur": 2436
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Tempelbauten Dorische Entwicklung.jpg",
+      "description": "Die Grafik zeigt die Entwicklung vom helladischen Megaron zum dorischen Tempel.",
+      "categories": [
+        "Self-published work",
+        "Doric order",
+        "Models of ancient Greek temples"
+      ],
+      "auteur": "Falk Werner",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tempelbauten_Dorische_Entwicklung.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tempelbauten_Dorische_Entwicklung.jpg/1280px-Tempelbauten_Dorische_Entwicklung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5970,
+      "hauteur": 3016
+    }
+  ]
+}

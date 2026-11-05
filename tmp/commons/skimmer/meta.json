@@ -1,0 +1,117 @@
+{
+  "terme": {
+    "id": "skimmer",
+    "terme": "le skimmer",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Bouche rectangulaire placée en haut de la paroi d'une piscine, qui aspire l'eau de surface vers la filtration.",
+    "priorite": 3,
+    "requetes": [
+      "pool skimmer",
+      "skimmer piscine",
+      "swimming pool skimmer opening"
+    ],
+    "incompatibles": [
+      "piscine",
+      "margelle"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A paint can and brush rest on the concrete.jpg",
+      "description": "A paint can and brush rest on the concrete near an empty swimming pool under a clear blue sky. It looks like preparations are underway for pool maintenance or renovation.",
+      "categories": [
+        "Swimming pools",
+        "Paint cans",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_paint_can_and_brush_rest_on_the_concrete.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/A_paint_can_and_brush_rest_on_the_concrete.jpg/1280px-A_paint_can_and_brush_rest_on_the_concrete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A cheerful child is splashing in a pool while sitting on a bright pink flamingo float.jpg",
+      "description": "A cheerful child is splashing in a pool while sitting on a bright pink flamingo float. Laughter fills the air as the sparkling blue water dances around. It is a joyful summer moment.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_cheerful_child_is_splashing_in_a_pool_while_sitting_on_a_bright_pink_flamingo_float.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_cheerful_child_is_splashing_in_a_pool_while_sitting_on_a_bright_pink_flamingo_float.jpg/1280px-A_cheerful_child_is_splashing_in_a_pool_while_sitting_on_a_bright_pink_flamingo_float.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5265,
+      "hauteur": 3515
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Child swimming in pool while adult prepares to assist undefined.jpg",
+      "description": "A child in pink swim gear is happily swimming in a clear blue pool, while an adult reaches out to provide assistance. It is a bright, sunny afternoon.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_swimming_in_pool_while_adult_prepares_to_assist_undefined.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Child_swimming_in_pool_while_adult_prepares_to_assist_undefined.jpg/1280px-Child_swimming_in_pool_while_adult_prepares_to_assist_undefined.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Child jumps into a pool while another child swims nearby.jpg",
+      "description": "A child in red shorts dives into a clear pool while another child swims in the background. The activity takes place on a bright, sunny day.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg/1280px-Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:42064096Վլադիմիր.jpg",
+      "description": "Vladimir Harutyunyan",
+      "categories": [
+        "CC-Zero",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Արշո",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:42064096%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/42064096%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80.jpg/1280px-42064096%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:AcF17uik98X.jpg",
+      "description": "Yaz sıcağı, kasabayı kavuruyordu. Güneş, gökyüzünde adeta bir ateş topu gibi parlıyor, insanların nefes almasını bile zorlaştırıyordu. Böyle bir günde, Elif ve en yakın arkadaşı Can, kasabanın kenarında, ormanın derinliklerinde gizli bir havuz olduğunu duymuşlardı. Havuzun suyunun hem serin hem de büyülü olduğu söyleniyordu. Kimileri, bu havuzda yüzenlerin dileklerinin gerçek olduğunu iddia ediyordu. Elif ve Can, bisikletlerine atladılar ve ormana doğru yola koyuldular. Yol uzun ve yorucuydu, ama merak ve heyecan onları motive ediyordu. Ormanın içine girdikçe, ağaçların gölgesi serin bir nefes",
+      "categories": [
+        "Swimming pools"
+      ],
+      "auteur": "Fedigolten",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AcF17uik98X.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/AcF17uik98X.jpg/1280px-AcF17uik98X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8000,
+      "hauteur": 6000
+    }
+  ]
+}

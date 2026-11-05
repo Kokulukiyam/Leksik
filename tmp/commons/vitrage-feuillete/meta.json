@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "vitrage-feuillete",
+    "terme": "le vitrage feuilleté",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Verre de sécurité fait de plusieurs feuilles collées par un film plastique, qui se fissure en toile d'araignée sans tomber.",
+    "priorite": 3,
+    "requetes": [
+      "laminated glass cracked",
+      "verre feuilleté",
+      "laminated safety glass"
+    ],
+    "categoriesCommons": [
+      "Category:Laminated glass",
+      "Category:Glass"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Shattered laminated glass in broken window in railway tram train carriage Close-up Cracks fragments visual effects patterns NORWAY Knust vindu i togvogn med laminert sikkerhetsglass sprekker småbiter lyseffekter 2019-02-11 DSC03347.jpg",
+      "description": "Close-up of shattered safety glass in the window ( windshield ) of a train carriage (railway tram), where light and reflections on the fragmented pieces and cracks create visual effects of abstract patterns and structures. When laminated glass is subjected to a strong impact, such as a collision or a heavy blow, it will shatter, but the pieces will stay held together due to the PVB ( polyvinyl butyral ) interlayer. Photo taken in Norway in 2019.",
+      "categories": [
+        "Laminated glass",
+        "Windshields",
+        "Self-published work",
+        "Broken windows in Norway",
+        "Broken safety glass"
+      ],
+      "auteur": "Wolfmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shattered_laminated_glass_in_broken_window_in_railway_tram_train_carriage_Close-up_Cracks_fragments_visual_effects_patterns_NORWAY_Knust_vindu_i_togvogn_med_laminert_sikkerhetsglass_sprekker_sm%C3%A5biter_lyseffekter_2019-02-11_DSC03347.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Shattered_laminated_glass_in_broken_window_in_railway_tram_train_carriage_Close-up_Cracks_fragments_visual_effects_patterns_NORWAY_Knust_vindu_i_togvogn_med_laminert_sikkerhetsglass_sprekker_sm%C3%A5biter_lyseffekter_2019-02-11_DSC03347.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:67 Sunflower 2.jpg",
+      "description": "Sunflower by Christopher Ries",
+      "categories": [
+        "Glass",
+        "Sculptures",
+        "Christopher Ries"
+      ],
+      "auteur": "Julien Church",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:67_Sunflower_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/67_Sunflower_2.jpg/1280px-67_Sunflower_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1500
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Shattered laminated glass in broken window in railway tram train carriage Cracks fragments visual effects patterns NORWAY Knust vindu i togvogn med laminert sikkerhetsglass sprekker småbiter lyseffekter 2019-02-11 DSC03340.jpg",
+      "description": "Shattered safety glass in the window ( windshield ) of a train carriage (railway tram), where light and reflections on the fragmented pieces and cracks create visual effects of abstract patterns and structures. When laminated glass is subjected to a strong impact, such as a collision or a heavy blow, it will shatter, but the pieces will stay held together due to the PVB ( polyvinyl butyral ) interlayer. Photo taken in Norway in 2019.",
+      "categories": [
+        "Laminated glass",
+        "Windshields",
+        "Self-published work",
+        "Broken windows in Norway",
+        "Broken safety glass"
+      ],
+      "auteur": "Wolfmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shattered_laminated_glass_in_broken_window_in_railway_tram_train_carriage_Cracks_fragments_visual_effects_patterns_NORWAY_Knust_vindu_i_togvogn_med_laminert_sikkerhetsglass_sprekker_sm%C3%A5biter_lyseffekter_2019-02-11_DSC03340.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Shattered_laminated_glass_in_broken_window_in_railway_tram_train_carriage_Cracks_fragments_visual_effects_patterns_NORWAY_Knust_vindu_i_togvogn_med_laminert_sikkerhetsglass_sprekker_sm%C3%A5biter_lyseffekter_2019-02-11_DSC03340.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:0213 Mamiya Super 23 100mm 6x9 back and ground glass (5254420457).jpg",
+      "description": "Sold r.ebay.com/sngUdU",
+      "categories": [
+        "Taken with Canon EOS-1Ds Mark III",
+        "Glass",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Files from Brian Scott Peterson Flickr stream",
+        "Mamiya Super 23"
+      ],
+      "auteur": "Zebrio from Tokyo, Japan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0213_Mamiya_Super_23_100mm_6x9_back_and_ground_glass_(5254420457).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/0213_Mamiya_Super_23_100mm_6x9_back_and_ground_glass_%285254420457%29.jpg/1280px-0213_Mamiya_Super_23_100mm_6x9_back_and_ground_glass_%285254420457%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 937
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Modern Architectural Details- brightcove Glass Dry Marker Panel System by Phil Manker (7349701020).jpg",
+      "description": "A set of new panels that create a series of custom dry marker walls that define a series of meeting areas, and workspaces for the development of new HTML code and design. These were built for the innovative website video streaming leader, Brightcove www.brightcove.com/en/ . The thirty-six panels use four custom Vanceva laminated glass colors that work with the interior design color scheme on two floors of Brightcove's new corporate headquarters at Atlantic Wharf overlooking Boston Harbor. The panels are the latest innovation in \"marker boards\", creating an exciting interior design feature thro",
+      "categories": [
+        "Laminated glass",
+        "Partition",
+        "Interior design",
+        "Whiteboards",
+        "People writing",
+        "Flickr images reviewed by FlickreviewR",
+        "Red female clothing",
+        "Blue glass"
+      ],
+      "auteur": "Phil Manker",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Modern_Architectural_Details-_brightcove_Glass_Dry_Marker_Panel_System_by_Phil_Manker_(7349701020).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Modern_Architectural_Details-_brightcove_Glass_Dry_Marker_Panel_System_by_Phil_Manker_%287349701020%29.jpg/1280px-Modern_Architectural_Details-_brightcove_Glass_Dry_Marker_Panel_System_by_Phil_Manker_%287349701020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2317,
+      "hauteur": 1508
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:0184 Mamiya Press Super 23 Extension Ring set and ground glass (5136414018).jpg",
+      "description": "0184 Mamiya Press Super 23 Extension Ring set and ground glass",
+      "categories": [
+        "Taken with Canon EOS-1Ds Mark III",
+        "Glass",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Tubes",
+        "Files from Brian Scott Peterson Flickr stream",
+        "Mamiya Super 23",
+        "Mamiya Press accessories"
+      ],
+      "auteur": "Zebrio from Tokyo, Japan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0184_Mamiya_Press_Super_23_Extension_Ring_set_and_ground_glass_(5136414018).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/0184_Mamiya_Press_Super_23_Extension_Ring_set_and_ground_glass_%285136414018%29.jpg/1280px-0184_Mamiya_Press_Super_23_Extension_Ring_set_and_ground_glass_%285136414018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    }
+  ]
+}

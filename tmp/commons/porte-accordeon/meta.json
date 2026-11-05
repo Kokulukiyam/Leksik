@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "porte-accordeon",
+    "terme": "la porte accordéon",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte faite de panneaux étroits articulés qui se replient les uns sur les autres en s'ouvrant.",
+    "priorite": 3,
+    "requetes": [
+      "folding door accordion",
+      "porte accordéon",
+      "bifold door"
+    ],
+    "incompatibles": [
+      "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Folding doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Capsule hotel capsule front.jpg",
+      "description": "Inside a capsule in a capsule hotel looking at the door to the cubby.",
+      "categories": [
+        "Taken with Nikon Coolpix P7000",
+        "Folding doors",
+        "Self-published work",
+        "Wall-mounted telephones",
+        "White telephones",
+        "Capsule hotels in Japan",
+        "Ventilation fans in hotels and restaurants"
+      ],
+      "auteur": "Douglas P. Perkins",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capsule_hotel_capsule_front.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Capsule_hotel_capsule_front.jpg/1280px-Capsule_hotel_capsule_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:087 equipment integration & plastic bumper.JPG",
+      "description": "Участок чистого помещения с пультом управления участком линии розлива",
+      "categories": [
+        "Doors",
+        "Taken with Canon PowerShot A300",
+        "Cleanrooms",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "E.gordienko",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:087_equipment_integration_%26_plastic_bumper.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/087_equipment_integration_%26_plastic_bumper.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Jingoji Kyoto Kyoto17n4592.jpg",
+      "description": "Jingo-ji in Ukyō-ku , Kyoto , Kyoto Prefecture , Japan .",
+      "categories": [
+        "GFDL",
+        "Taken with Sony NEX-5",
+        "Folding doors",
+        "License migration redundant",
+        "Self-published work",
+        "Saisenbako",
+        "Engawa in Kyoto prefecture",
+        "Kondō, Jingo-ji"
+      ],
+      "auteur": "663highland",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jingoji_Kyoto_Kyoto17n4592.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Jingoji_Kyoto_Kyoto17n4592.jpg/1280px-Jingoji_Kyoto_Kyoto17n4592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3056,
+      "hauteur": 4592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:-i---i- (38690807935).jpg",
+      "description": "",
+      "categories": [
+        "Doors",
+        "Media lacking a description",
+        "Files from Flickr with bad file names",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Thomas Woodtli",
+        "Flickr files uploaded by Nguyenhai314"
+      ],
+      "auteur": "Vinnie Cartabiano",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-i---i-_(38690807935).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/-i---i-_%2838690807935%29.jpg/1280px--i---i-_%2838690807935%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:HK Central Peel Street 源益蠔油 Yuen Yick Oyster Sauce & Shrimp Sauce Manufacturer night.JPG",
+      "description": "香港島 zh:中環 卑利街 zh:源益蠔油",
+      "categories": [
+        "Taken with Casio Exilim EX-Z60",
+        "Folding doors",
+        "Food companies of Hong Kong",
+        "Peel Street, Hong Kong",
+        "Self-published work",
+        "Hong Kong photographs taken on 2009-11-04",
+        "Chinese calligraphy of Hong Kong",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Night in Central, Hong Kong",
+        "Shop gates in Hong Kong",
+        "Yuen Yick Oyster Sauce & Shrimp Sauce Manufacturer"
+      ],
+      "auteur": "Oyssia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_Central_Peel_Street_%E6%BA%90%E7%9B%8A%E8%A0%94%E6%B2%B9_Yuen_Yick_Oyster_Sauce_%26_Shrimp_Sauce_Manufacturer_night.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/HK_Central_Peel_Street_%E6%BA%90%E7%9B%8A%E8%A0%94%E6%B2%B9_Yuen_Yick_Oyster_Sauce_%26_Shrimp_Sauce_Manufacturer_night.JPG/1280px-HK_Central_Peel_Street_%E6%BA%90%E7%9B%8A%E8%A0%94%E6%B2%B9_Yuen_Yick_Oyster_Sauce_%26_Shrimp_Sauce_Manufacturer_night.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A key is shown inserted into a lock.jpg",
+      "description": "A key is shown inserted into a lock, with a bright yellow tag attached to the keyring. The setting is well-lit and features clean, simple lines, suggesting a modern environment.",
+      "categories": [
+        "Doors",
+        "Keys",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_key_is_shown_inserted_into_a_lock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/A_key_is_shown_inserted_into_a_lock.jpg/1280px-A_key_is_shown_inserted_into_a_lock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3138,
+      "hauteur": 4700
+    }
+  ]
+}

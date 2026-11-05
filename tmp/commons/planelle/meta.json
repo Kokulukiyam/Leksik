@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "planelle",
+    "terme": "la planelle",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Mince plaquette de terre cuite ou de béton posée en rive de plancher pour masquer le nez de dalle et recevoir l'enduit.",
+    "priorite": 3,
+    "requetes": [
+      "planelle",
+      "planelle rive de dalle",
+      "clay slab edge tile"
+    ],
+    "incompatibles": [
+      "nez-de-dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Clay bricks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2009 06 09 - 6775 - Hanover - OoTS Ped Amenity Testing (3615255416).jpg",
+      "description": "Various pedestrian amenities undergoing testing at the Office of Traffic and Safety in Hanover, MD.",
+      "categories": [
+        "Maryland State Highway Administration",
+        "Pedestrians",
+        "Taken with Canon PowerShot A650 IS",
+        "Bricks",
+        "Pedestrian crossings",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Files with coordinates missing SDC location of creation",
+        "Traffic cones in Maryland",
+        "Photographs by Andrew Bossi"
+      ],
+      "auteur": "thisisbossi from Washington, DC, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2009_06_09_-_6775_-_Hanover_-_OoTS_Ped_Amenity_Testing_(3615255416).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2009_06_09_-_6775_-_Hanover_-_OoTS_Ped_Amenity_Testing_%283615255416%29.jpg/1280px-2009_06_09_-_6775_-_Hanover_-_OoTS_Ped_Amenity_Testing_%283615255416%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Production of mud bricks in Belo (1).JPG",
+      "description": "Production of mud bricks in Belo, Cameroon",
+      "categories": [
+        "Belo, Cameroon",
+        "Self-published work",
+        "Brick making in Cameroon",
+        "Mudbricks in Cameroon",
+        "Clay bricks"
+      ],
+      "auteur": "Bdx",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Production_of_mud_bricks_in_Belo_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Production_of_mud_bricks_in_Belo_%281%29.JPG/1280px-Production_of_mud_bricks_in_Belo_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2000 year old bricks.jpg",
+      "description": "जमदग्नि ऋषि के आश्रम की नीव की ईंट",
+      "categories": [
+        "Bricks",
+        "Self-published work",
+        "Taken with Vivo Y20"
+      ],
+      "auteur": "DRDEVIPRASADSINGH",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2000_year_old_bricks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2000_year_old_bricks.jpg/1280px-2000_year_old_bricks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Flaking brick.jpg",
+      "description": "A red fired brick that has washed out into a stream bed and is crumbling.",
+      "categories": [
+        "Taken with Samsung Galaxy Ace",
+        "Self-published work",
+        "Streams in Canada",
+        "Flowing water",
+        "Red bricks",
+        "Brick close-ups showing only 1 brick",
+        "Clay bricks"
+      ],
+      "auteur": "Auric",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flaking_brick.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Flaking_brick.jpg/1280px-Flaking_brick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Aarhus 2108-0922.jpg",
+      "description": "Timber framing with brick pattern, Den Gamle By, Aarhus, Denmark",
+      "categories": [
+        "Bricks",
+        "Self-published work",
+        "Timber framing in Denmark",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Mozzihh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aarhus_2108-0922.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Aarhus_2108-0922.jpg/1280px-Aarhus_2108-0922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5488,
+      "hauteur": 3662
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Charette d'eau du robinetvà Thiès.jpg",
+      "description": "Charette utilisée pour la distribution d'eau dans le quartier Cité Ouvrière de Thiès (Sénégal).",
+      "categories": [
+        "Water carriers",
+        "Thiès",
+        "Self-published work",
+        "Children of Senegal",
+        "Construction in Senegal",
+        "3 children",
+        "Taken with Doogee Homtom HT6",
+        "Donkey-drawn carts in Senegal",
+        "Children looking at viewer",
+        "Clay bricks",
+        "Water carts"
+      ],
+      "auteur": "GastelEtzwane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Charette_d%27eau_du_robinetv%C3%A0_Thi%C3%A8s.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Charette_d%27eau_du_robinetv%C3%A0_Thi%C3%A8s.jpg/1280px-Charette_d%27eau_du_robinetv%C3%A0_Thi%C3%A8s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "terme": {
+    "id": "toit-papillon",
+    "terme": "le toit papillon",
+    "categorie": "Toitures",
+    "definition": "Toit formé de deux versants inclinés vers le centre, en forme de V.",
+    "priorite": 3,
+    "requetes": [
+      "butterfly roof house",
+      "toit papillon",
+      "inverted gable roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "noue"
+    ],
+    "categoriesCommons": [
+      "Category:Butterfly roofs",
+      "Category:Roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Compressed natural gas station in Třebíč, Czech Republic.jpg",
+      "description": "Compressed natural gas station in Třebíč, Czech Republic.",
+      "categories": [
+        "CNG stations in the Czech Republic",
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "Butterfly roofs",
+        "Horka-Domky",
+        "Shops in Třebíč",
+        "License migration redundant",
+        "Hrotovická industrial zone",
+        "Hrotovická (Třebíč)",
+        "Self-published work",
+        "Buildings in Horka-Domky",
+        "Files with coordinates missing SDC location of creation",
+        "Self service fuel stations"
+      ],
+      "auteur": "Frettie",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Compressed_natural_gas_station_in_T%C5%99eb%C3%AD%C4%8D,_Czech_Republic.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Compressed_natural_gas_station_in_T%C5%99eb%C3%AD%C4%8D%2C_Czech_Republic.jpg/1280px-Compressed_natural_gas_station_in_T%C5%99eb%C3%AD%C4%8D%2C_Czech_Republic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:(1)Ritz-98.jpg",
+      "description": "The Ritz, Randwick, Sydney",
+      "categories": [
+        "Lighting",
+        "Roofs",
+        "The Ritz Cinema",
+        "Self-published work",
+        "5 people"
+      ],
+      "auteur": "Sardaka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(1)Ritz-98.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%281%29Ritz-98.jpg/1280px-%281%29Ritz-98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2456,
+      "hauteur": 3680
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gas Station (16280202675).jpg",
+      "description": "Santa Rosa, NM Route 66.",
+      "categories": [
+        "Butterfly roofs",
+        "Former gas stations in New Mexico",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Buildings in Santa Rosa, New Mexico",
+        "Abandoned Phillips 66 at 2341 U.S. Route 66, Santa Rosa, New Mexico"
+      ],
+      "auteur": "el-toro",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gas_Station_(16280202675).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Gas_Station_%2816280202675%29.jpg/1280px-Gas_Station_%2816280202675%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5091,
+      "hauteur": 3394
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:20190611 - 28 - 104 Dana (cropped).jpg",
+      "description": "Version of File:20190611 - 28 - 104 Dana.jpg cropped to a 5:3 aspect ratio & with levels adjusted",
+      "categories": [
+        "Butterfly roofs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "George Schemm House (Buffalo, New York)",
+        "June 2019 in Buffalo, New York",
+        "Photos taken by Andre Carrotflower in Buffalo, New York",
+        "Modern architecture in Buffalo and Vicinity tour, June 2019"
+      ],
+      "auteur": "Andre Carrotflower",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20190611_-_28_-_104_Dana_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/20190611_-_28_-_104_Dana_%28cropped%29.jpg/1280px-20190611_-_28_-_104_Dana_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2712,
+      "hauteur": 1627
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Former gas station Volksdorfer Weg 143 Sasel 2012 SE.jpg",
+      "description": "Vue du sud-est de l'ancienne station-service à Sasel , ville de Hamburg , Allemagne",
+      "categories": [
+        "2012 in Germany",
+        "Former petrol stations in Germany",
+        "Butterfly roofs",
+        "Volksdorfer Weg (Hamburg)",
+        "Alter Berner Weg (Hamburg)",
+        "Self-published work",
+        "Petrol stations in Hamburg",
+        "Buildings in Hamburg-Sasel",
+        "Files with coordinates missing SDC location of creation (53° N, 10° E)",
+        "Destroyed petrol stations"
+      ],
+      "auteur": "Hans G. Oberlack",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Former_gas_station_Volksdorfer_Weg_143_Sasel_2012_SE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Former_gas_station_Volksdorfer_Weg_143_Sasel_2012_SE.jpg/1280px-Former_gas_station_Volksdorfer_Weg_143_Sasel_2012_SE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2674,
+      "hauteur": 1632
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Paul A. Frey House, Cheektowaga, New York - 20230210.jpg",
+      "description": "The Paul A. Frey House, 236 East Treehaven Road, Cheektowaga, New York, February 2023. Built in 1953, the impressive High Modern design of this home, a work of local architect Sebastian Tauriello, was impressive enough to earn it a spot on the Radcliffe College Club's second annual Tour of Modern Homes later that year. It's a low-slung, sprawling structure, replete with smooth unadorned surfaces, sleek straight lines, rectilinear forms, liberal use of cantilevering (note the deep recesses fronting the garage door at left and entrance terrace at right), and - most notable of all - a butterfly r",
+      "categories": [
+        "Butterfly roofs",
+        "1950s houses in New York (state)",
+        "Built in New York (state) in 1953",
+        "Modernist houses in New York (state)",
+        "February 2023 in New York (state)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Houses in the United States built in 1953",
+        "2023 in Erie County, New York",
+        "Modernist architecture in Erie County, New York",
+        "Photos taken by Andre Carrotflower in Cheektowaga, New York",
+        "Houses in Cheektowaga, New York",
+        "Andre Carrotflower's \"Photo a Day For However Long I Can Keep It Going\" in 2023"
+      ],
+      "auteur": "Andre Carrotflower",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paul_A._Frey_House,_Cheektowaga,_New_York_-_20230210.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Paul_A._Frey_House%2C_Cheektowaga%2C_New_York_-_20230210.jpg/1280px-Paul_A._Frey_House%2C_Cheektowaga%2C_New_York_-_20230210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3765,
+      "hauteur": 2259
+    }
+  ]
+}

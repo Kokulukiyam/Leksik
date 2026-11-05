@@ -1,0 +1,53 @@
+{
+  "termId": "brique-de-terre-comprimee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Piles de blocs clairs stockés en plein air sous bâches, atelier de production en Haïti.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haïti",
+      "note": "Blocs pâles de type béton, matériau peu identifiable, scène d'atelier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rangées de blocs clairs alvéolés posés au sol sur un site de production.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haïti",
+      "note": "Ressemble à des parpaings de béton ; pas lisible comme terre comprimée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux blocs orange à emboîtement avec deux perforations, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aspect de brique de terre cuite perforée ; rien ne montre une terre crue comprimée : doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvriers autour d'une presse manuelle sous un abri bâché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haïti",
+      "note": "Scène de production, le matériau n'est pas visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bâtiment en cours de construction en blocs ocre sous toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Govardhan, Inde",
+      "note": "Peut passer pour de la brique pleine ; matériau non identifiable avec certitude."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chantier de fabrique avec tas de sable et tamis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Port-au-Prince, Haïti",
+      "note": "Aucun bloc visible."
+    }
+  ]
+}

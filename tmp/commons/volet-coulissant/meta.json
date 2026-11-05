@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "volet-coulissant",
+    "terme": "le volet coulissant",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Volet qui glisse sur un rail le long de la façade au lieu de pivoter.",
+    "priorite": 3,
+    "requetes": [
+      "sliding shutters facade",
+      "volet coulissant",
+      "sliding shutter"
+    ],
+    "incompatibles": [
+      "volet"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Gruene Plastikgiesskanne links vor Jalousie Blende 4.5 2022.jpg",
+      "description": "grüne Kunststoff-Gießkanne, 1 Liter",
+      "categories": [
+        "Window shutters",
+        "Tabletop photography",
+        "Self-published work",
+        "Green watering cans"
+      ],
+      "auteur": "VSchagow",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gruene_Plastikgiesskanne_links_vor_Jalousie_Blende_4.5_2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gruene_Plastikgiesskanne_links_vor_Jalousie_Blende_4.5_2022.jpg/1280px-Gruene_Plastikgiesskanne_links_vor_Jalousie_Blende_4.5_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5339,
+      "hauteur": 3559
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:500px photo (49722290).jpeg",
+      "description": "500px provided description: Untitled [#italy ,#building ,#details ,#windows ,#balcony ,#imagoproject ,#imagourbis]",
+      "categories": [
+        "Window shutters",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Emanuele Meschini",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(49722290).jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/500px_photo_%2849722290%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 853
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Amiens France Buildings-in-Rue-Motte-02a.jpg",
+      "description": "Amiens, France: Details of the brick houses 33 and 35 in Rue Motte",
+      "categories": [
+        "April 2014 in Picardie",
+        "Taken with Canon EOS 5D Mark III",
+        "Window shutters",
+        "Self-published work",
+        "Information field template with formatting",
+        "Rue Motte (Amiens)",
+        "Blue and red objects",
+        "Images by Cccefalon",
+        "33 (house number) in France",
+        "35 (house number) in France",
+        "Images of France by User:Cccefalon",
+        "2014 in Amiens",
+        "France photographs taken on 2014-04-20",
+        "Files with coordinates missing SDC location of creation (49° N, 2° E)",
+        "Houses in Amiens",
+        "Street lights in Amiens",
+        "Window shutters in Amiens",
+        "Images with portrait aspect ratio by User:Cccefalon",
+        "Doors in Amiens"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amiens_France_Buildings-in-Rue-Motte-02a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Amiens_France_Buildings-in-Rue-Motte-02a.jpg/1280px-Amiens_France_Buildings-in-Rue-Motte-02a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3768,
+      "hauteur": 5652
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Blue house Blue sky - panoramio.jpg",
+      "description": "Blue house Blue sky",
+      "categories": [
+        "Window shutters",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Blue facades",
+        "Photographs taken on 2011-07-22"
+      ],
+      "auteur": "LucianoZ",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_house_Blue_sky_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Blue_house_Blue_sky_-_panoramio.jpg/1280px-Blue_house_Blue_sky_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2880,
+      "hauteur": 4320
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Black Iron Shutters (5026304858).jpg",
+      "description": "Black Iron Shutters",
+      "categories": [
+        "Window shutters",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "rumpleteaser from Nagoya, Japan",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Black_Iron_Shutters_(5026304858).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Black_Iron_Shutters_%285026304858%29.jpg/1280px-Black_Iron_Shutters_%285026304858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2920,
+      "hauteur": 1696
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Balintore Castle.JPG",
+      "description": "Balintore Castle, Angus, Scotland",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A710 IS",
+        "Window shutters",
+        "Balintore Castle",
+        "License migration redundant",
+        "Self-published work",
+        "September 2008 in Scotland",
+        "United Kingdom photographs taken on 2008-09-18"
+      ],
+      "auteur": "User:Jonathan Oldenbuck",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balintore_Castle.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Balintore_Castle.JPG/1280px-Balintore_Castle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    }
+  ]
+}

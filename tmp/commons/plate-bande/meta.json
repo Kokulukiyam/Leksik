@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "plate-bande",
+    "terme": "la plate-bande",
+    "categorie": "Façade et ouvertures",
+    "definition": "Linteau droit composé de claveaux (pierres ou briques) appareillés au-dessus d'une baie.",
+    "priorite": 3,
+    "requetes": [
+      "flat arch over window brick",
+      "plate-bande claveaux",
+      "jack arch window"
+    ],
+    "incompatibles": [
+      "linteau",
+      "arc"
+    ],
+    "categoriesCommons": [
+      "Category:Jack arches",
+      "Category:Lintels"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Castello dell'Imperatore portale con leoni Prato.jpg",
+      "description": "Detail of the portal of the Castello dell'Imperatore in Prato .",
+      "categories": [
+        "GFDL",
+        "Taken with Hasselblad X1D",
+        "Jack arches",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Ablaq",
+        "Self-published work",
+        "Moroder/Prato",
+        "Photos by Moroder",
+        "Files with coordinates missing SDC location of creation",
+        "Castello dell'Imperatore (Prato) - Portal",
+        "Statues of lions in Prato"
+      ],
+      "auteur": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castello_dell%27Imperatore_portale_con_leoni_Prato.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Castello_dell%27Imperatore_portale_con_leoni_Prato.jpg/1280px-Castello_dell%27Imperatore_portale_con_leoni_Prato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8272,
+      "hauteur": 6200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fort Jesus, 2025 (59).jpg",
+      "description": "Fort Jesus , Mombasa, Kenya",
+      "categories": [
+        "Taken with Nikon D750 and AF-S VR Zoom-Nikkor 24-85mm f/3.5-4.5G ED",
+        "Lintels",
+        "Datestones",
+        "Self-published work",
+        "Images by Bahnfrend",
+        "Files with coordinates missing SDC location of creation",
+        "Museums photographed in 2025",
+        "Kenya photographs taken on 2025-08-13",
+        "Buildings in Kenya photographed in 2025",
+        "2025 in Mombasa",
+        "Exterior of Fort Jesus"
+      ],
+      "auteur": "Bahnfrend",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fort_Jesus,_2025_(59).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Fort_Jesus%2C_2025_%2859%29.jpg/1280px-Fort_Jesus%2C_2025_%2859%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cucinone di palazzo pitti, cappa con piattabanda attr. al dis. del buontalenti 00.jpg",
+      "description": "Palazzo Pitti - Cucinone",
+      "categories": [
+        "Jack arches",
+        "Self-published work",
+        "Photographs by User:Sailko",
+        "All media supported by Wikimedia CH",
+        "Images by Sailko - Supported by Wikimedia CH",
+        "Photographs of decorative arts by User:Sailko - Architectural elements - Fireplaces",
+        "Palazzo Pitti - Cucinone"
+      ],
+      "auteur": "Sailko",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cucinone_di_palazzo_pitti,_cappa_con_piattabanda_attr._al_dis._del_buontalenti_00.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Cucinone_di_palazzo_pitti%2C_cappa_con_piattabanda_attr._al_dis._del_buontalenti_00.jpg/1280px-Cucinone_di_palazzo_pitti%2C_cappa_con_piattabanda_attr._al_dis._del_buontalenti_00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4912,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Granitsturz.JPG",
+      "description": "Alter Granitsturz unbekannter Herkunft in Leisten, Mecklenburg",
+      "categories": [
+        "GFDL",
+        "Granite",
+        "Lintels",
+        "Karow (Plau am See)",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Leisten (Plau am See)",
+        "Leisten by Mehlauge"
+      ],
+      "auteur": "Mehlauge",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granitsturz.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Granitsturz.JPG/1280px-Granitsturz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Arco adintelado Ávila.jpg",
+      "description": "Ávila",
+      "categories": [
+        "Jack arches",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "2026 in the province of Ávila",
+        "Photographs taken on 2026-10-30"
+      ],
+      "auteur": "Xemenendura",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arco_adintelado_%C3%81vila.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Arco_adintelado_%C3%81vila.jpg/1280px-Arco_adintelado_%C3%81vila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Nalanda Monastery 4 ei7-07.jpg",
+      "description": "Doorway. Monastery 4, Nalanda A basic reinforcing lintel caps the doorway on the east side of the monastery.",
+      "categories": [
+        "Lintels",
+        "Self-published work",
+        "Monastery 4 of Nalanda"
+      ],
+      "auteur": "G41rn8",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nalanda_Monastery_4_ei7-07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Nalanda_Monastery_4_ei7-07.jpg/1280px-Nalanda_Monastery_4_ei7-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    }
+  ]
+}

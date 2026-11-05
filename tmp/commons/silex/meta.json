@@ -1,0 +1,161 @@
+{
+  "terme": {
+    "id": "silex",
+    "terme": "le silex",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pierre très dure noire ou grise à cassure luisante, posée en rognons ou taillée dans les murs.",
+    "priorite": 3,
+    "requetes": [
+      "flint wall",
+      "knapped flint wall",
+      "mur en silex"
+    ],
+    "categoriesCommons": [
+      "Category:Flint",
+      "Category:Flint walls",
+      "Category:Flint buildings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:No Stone Unturned. Papers in Honour of Roger Jacobi..jpg",
+      "description": "Cover of: No Stone Unturned. Papers in Honour of Roger Jacobi. Lithic Studies Society Occasional Papers 9. 2015",
+      "categories": [
+        "Archaeology",
+        "Stone tools",
+        "Flint",
+        "Self-published work",
+        "Lithic Studies Society"
+      ],
+      "auteur": "Mannikir",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:No_Stone_Unturned._Papers_in_Honour_of_Roger_Jacobi..jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/No_Stone_Unturned._Papers_in_Honour_of_Roger_Jacobi..jpg/1280px-No_Stone_Unturned._Papers_in_Honour_of_Roger_Jacobi..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2480,
+      "hauteur": 3504
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:-2022-06-24 Brick and flint gable end with tumbled brickwork, Parish church of All Saints, Edingthorpe, Norfolk.JPG",
+      "description": "Brick and flint gable end with tumbled brickwork on the east facing elevation of the parish church of All Saints within the village of Edingthorpe , Norfolk",
+      "categories": [
+        "Attribution only license",
+        "Gables in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2022-06-24",
+        "Brickwork corbels in Norfolk, England",
+        "June 2022 in Norfolk, England",
+        "Files with coordinates missing SDC location of creation (52° N, 1° E)",
+        "Brick and stone buildings in the United Kingdom",
+        "Flint walls",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Architectural elements of All Saints, Edingthorpe",
+        "Churches taken with Canon PowerShot SX430 IS",
+        "Church images by Kolforn",
+        "Churches in Norfolk, England photographed in June 2022",
+        "Tumbled bricks in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2022-06-24_Brick_and_flint_gable_end_with_tumbled_brickwork,_Parish_church_of_All_Saints,_Edingthorpe,_Norfolk.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/-2022-06-24_Brick_and_flint_gable_end_with_tumbled_brickwork%2C_Parish_church_of_All_Saints%2C_Edingthorpe%2C_Norfolk.JPG/1280px--2022-06-24_Brick_and_flint_gable_end_with_tumbled_brickwork%2C_Parish_church_of_All_Saints%2C_Edingthorpe%2C_Norfolk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Greys Court, Henley-on-Thames (6227998844).jpg",
+      "description": "19th-century outbuilding built onto 17th-century wall at Greys Court, Rotherfield Greys, Oxfordshire",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Greys Court",
+        "Flint buildings",
+        "Grade II listed buildings in Oxfordshire",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Listed buildings in England with known IDs",
+        "19th-century architecture in Oxfordshire",
+        "17th-century architecture in Oxfordshire",
+        "Hipped roofs in Oxfordshire"
+      ],
+      "auteur": "Simon Q from United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Greys_Court,_Henley-on-Thames_(6227998844).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Greys_Court%2C_Henley-on-Thames_%286227998844%29.jpg/1280px-Greys_Court%2C_Henley-on-Thames_%286227998844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Flint hagstone found on the shore of the Thames.jpg",
+      "description": "Flint hagstone found on the shore of the Thames, hung on a silk cord to be worn.",
+      "categories": [
+        "CC-Zero",
+        "Adder stones",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Flint",
+        "Self-published work",
+        "Self-published work missing SDC copyright license"
+      ],
+      "auteur": "Netherzone",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flint_hagstone_found_on_the_shore_of_the_Thames.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Flint_hagstone_found_on_the_shore_of_the_Thames.jpg/1280px-Flint_hagstone_found_on_the_shore_of_the_Thames.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2713,
+      "hauteur": 3727
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:-2022-03-18 Construction of a brick and flint house, Northrepps, England (2).JPG",
+      "description": "Construction of flint walls between brick quoins on a new building in the parish of Northrepps , Norfolk, England.",
+      "categories": [
+        "Attribution only license",
+        "Scaffolding in Norfolk, England",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "Flint buildings in Norfolk, England",
+        "Construction sites in 2022",
+        "Files with coordinates missing SDC location of creation (52° N, 1° E)",
+        "Brick and stone buildings in the United Kingdom",
+        "Flint houses in Norfolk, England",
+        "Flint as a construction material",
+        "Flint walls",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Houses in Northrepps",
+        "Brick quoins in Norfolk, England",
+        "Norfolk, England photographs taken on 2022-03-18"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2022-03-18_Construction_of_a_brick_and_flint_house,_Northrepps,_England_(2).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/-2022-03-18_Construction_of_a_brick_and_flint_house%2C_Northrepps%2C_England_%282%29.JPG/1280px--2022-03-18_Construction_of_a_brick_and_flint_house%2C_Northrepps%2C_England_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:SulhamsteadAbbots ChurchHall GableMasonry.jpg",
+      "description": "Masonry in a gable wall of the church hall at Sulhamstead Abbots, Berkshire. Above are pieces of medieval masonry found when the west window of the church nave was unblocked. Below right is a date stone for the building of the church hall in 2000.",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Flint buildings",
+        "St Mary's Church, Sulhamstead Abbots",
+        "Self-published work",
+        "Built in England in 2000",
+        "Church halls in Berkshire",
+        "Stone buildings in Berkshire",
+        "2000 architectural dates",
+        "Datestones in England",
+        "Gothic windows in England"
+      ],
+      "auteur": "Motacilla",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:SulhamsteadAbbots_ChurchHall_GableMasonry.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/SulhamsteadAbbots_ChurchHall_GableMasonry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 683
+    }
+  ]
+}

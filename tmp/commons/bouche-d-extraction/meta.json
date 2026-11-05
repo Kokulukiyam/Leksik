@@ -1,0 +1,18 @@
+{
+  "terme": {
+    "id": "bouche-d-extraction",
+    "terme": "la bouche d'extraction",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bouche ronde, souvent blanche, posée au plafond ou en haut du mur d'une pièce humide, par laquelle la ventilation aspire l'air.",
+    "priorite": 3,
+    "requetes": [
+      "extract air valve ceiling",
+      "bouche d'extraction VMC",
+      "ventilation extract valve"
+    ],
+    "incompatibles": [
+      "grille-de-ventilation"
+    ]
+  },
+  "candidats": []
+}

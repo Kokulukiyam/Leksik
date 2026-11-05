@@ -1,0 +1,120 @@
+{
+  "terme": {
+    "id": "ecran-sous-toiture",
+    "terme": "l'écran sous-toiture",
+    "categorie": "Toitures",
+    "definition": "Membrane souple tendue sous la couverture, sur les chevrons, qui arrête l'eau infiltrée et la poussière.",
+    "priorite": 3,
+    "requetes": [
+      "roofing underlayment membrane rafters",
+      "écran sous-toiture",
+      "breathable roof membrane battens"
+    ],
+    "incompatibles": [
+      "liteau"
+    ],
+    "categoriesCommons": [
+      "Category:Roof insulation"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hűtőház alapszigetelés.jpg",
+      "description": "Hűtőház alapszigetelés",
+      "categories": [
+        "Roof insulation",
+        "Self-published work"
+      ],
+      "auteur": "KissJR1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:H%C5%B1t%C5%91h%C3%A1z_alapszigetel%C3%A9s.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/H%C5%B1t%C5%91h%C3%A1z_alapszigetel%C3%A9s.jpg/1280px-H%C5%B1t%C5%91h%C3%A1z_alapszigetel%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Gumi szigetelt tető.jpg",
+      "description": "gumiszigetelés",
+      "categories": [
+        "Roof insulation",
+        "Self-published work"
+      ],
+      "auteur": "KissJR1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gumi_szigetelt_tet%C5%91.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Gumi_szigetelt_tet%C5%91.jpg/1280px-Gumi_szigetelt_tet%C5%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Hostetin veronica slama strecha.jpg",
+      "description": "Building of Centre Veronica Hostětín in Hostětín (Czech republic) - straw roof insulation",
+      "categories": [
+        "Taken with Nikon D50",
+        "Straw-bale construction",
+        "Roof insulation",
+        "Passive houses",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Pavouk",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hostetin_veronica_slama_strecha.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hostetin_veronica_slama_strecha.jpg/1280px-Hostetin_veronica_slama_strecha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2840,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Szigetelés2.jpg",
+      "description": "Szigetelés2",
+      "categories": [
+        "Roof insulation",
+        "Self-published work"
+      ],
+      "auteur": "KissJR1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Szigetel%C3%A9s2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Szigetel%C3%A9s2.jpg/1280px-Szigetel%C3%A9s2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gumi szigetelő anyag tekercs.jpg",
+      "description": "Gumi szigetelés",
+      "categories": [
+        "Roof insulation",
+        "Self-published work"
+      ],
+      "auteur": "KissJR1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gumi_szigetel%C5%91_anyag_tekercs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Gumi_szigetel%C5%91_anyag_tekercs.jpg/1280px-Gumi_szigetel%C5%91_anyag_tekercs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:NIST 0768 (6105887527).jpg",
+      "description": "Net-Zero Energy Residential Test Facility - Photo showing partial installation of exterior wall and roof insulation. Credit: NIST Disclaimer: Any mention of commercial products within NIST web pages is for information only; it does not imply recommendation or endorsement by NIST. Use of NIST Information: These World Wide Web pages are provided as a public service by the National Institute of Standards and Technology (NIST). With the exception of material marked as copyrighted, information presented on these pages is considered public information and may be distributed or copied. Use of appropr",
+      "categories": [
+        "Roof insulation",
+        "PD US NIST",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Images uploaded by Hiàn",
+        "NIST Net-Zero Energy Residential Test Facility",
+        "Files from the National Institute of Standards and Technology Flickr stream"
+      ],
+      "auteur": "National Institute of Standards and Technology",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:NIST_0768_(6105887527).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/NIST_0768_%286105887527%29.jpg/1280px-NIST_0768_%286105887527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 3240
+    }
+  ]
+}

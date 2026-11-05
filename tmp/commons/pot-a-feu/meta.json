@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "pot-a-feu",
+    "terme": "le pot à feu",
+    "categorie": "Ornement",
+    "definition": "Vase décoratif sculpté d'où sortent des flammes stylisées, posé en couronnement d'une façade ou d'un pilier.",
+    "priorite": 3,
+    "requetes": [
+      "pot à feu",
+      "flaming urn finial",
+      "urne flamme balustrade"
+    ],
+    "incompatibles": [
+      "balustrade"
+    ],
+    "categoriesCommons": [
+      "Category:Finials"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Finial of the banner of state (1762, Kremlin) by shakko 01.jpg",
+      "description": "Навершие государственного знамени. Москва, мастерская и оружейная палата Кремля, 1762. Медный сплав.",
+      "categories": [
+        "1762 works",
+        "Finials",
+        "Copper objects",
+        "Self-published work",
+        "Imperial standards of Russia",
+        "Uploaded by Shakko/Photos",
+        "Regalia in Kremlin Armoury",
+        "Coronations (Kremlin exhibition, 2013) - emperors",
+        "Uploaded by Shakko/Photos (applied arts)",
+        "Uploaded by Shakko/Photos (jewellery)",
+        "Coronation of Catherine II of Russia"
+      ],
+      "auteur": "user:shakko",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Finial_of_the_banner_of_state_(1762,_Kremlin)_by_shakko_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Finial_of_the_banner_of_state_%281762%2C_Kremlin%29_by_shakko_01.jpg/1280px-Finial_of_the_banner_of_state_%281762%2C_Kremlin%29_by_shakko_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2004,
+      "hauteur": 3427
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Gore Hall finial - Harvard University - IMG 0106.JPG",
+      "description": "Gore Hall finial, Harvard University, Cambridge, Massachusetts, USA.",
+      "categories": [
+        "Taken with Canon Digital IXUS 860 IS",
+        "Finials",
+        "Crockets",
+        "Fleurons (architecture)",
+        "Self-published work",
+        "PD-self",
+        "Files uploaded by Daderot",
+        "Gore Hall, Harvard College"
+      ],
+      "auteur": "Daderot",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gore_Hall_finial_-_Harvard_University_-_IMG_0106.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Gore_Hall_finial_-_Harvard_University_-_IMG_0106.JPG/1280px-Gore_Hall_finial_-_Harvard_University_-_IMG_0106.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cambodian finial springing from the jaws of Makara, 12th century, HAA.jpg",
+      "description": "Cambodian finial springing from the jaws of Makara, Ankor kingdom, 12th century, bronze with traces of gilding, Honolulu Academy of Arts , one of pair",
+      "categories": [
+        "CC-Zero",
+        "Finials",
+        "2011 photographs",
+        "Cambodia in the 12th century",
+        "Self-published work",
+        "Art of Cambodia in the Honolulu Museum of Art",
+        "Palanquin fittings from Cambodia"
+      ],
+      "auteur": "Hiart",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cambodian_finial_springing_from_the_jaws_of_Makara,_12th_century,_HAA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Cambodian_finial_springing_from_the_jaws_of_Makara%2C_12th_century%2C_HAA.jpg/1280px-Cambodian_finial_springing_from_the_jaws_of_Makara%2C_12th_century%2C_HAA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1470,
+      "hauteur": 3388
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chokwe scepter finial (Bode-Museum) (1).jpg",
+      "description": "Chokwe scepter finial Angola Mid-19th century Wood, brass tacks, metal Bode-Museum Acquired in 1876 from Alexander von Homeyer",
+      "categories": [
+        "Chokwe people",
+        "Finials",
+        "Sceptres",
+        "Alexander von Homeyer",
+        "Sculptures in Angola",
+        "Self-published work",
+        "African art in the Bode-Museum"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chokwe_scepter_finial_(Bode-Museum)_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Chokwe_scepter_finial_%28Bode-Museum%29_%281%29.jpg/1280px-Chokwe_scepter_finial_%28Bode-Museum%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2925,
+      "hauteur": 5384
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Brooklyn Museum 1991.174 Staff Finial.jpg",
+      "description": "Staff Finial",
+      "categories": [
+        "Media contributed by the Brooklyn Museum",
+        "Finials",
+        "Wee people",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Items with VRTS permission confirmed",
+        "WikiAfrica Brooklyn Museum",
+        "African art in the Brooklyn Museum",
+        "Template Unknown (author)",
+        "Import by User:Slick-o-bot/Brooklyn Museum"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_1991.174_Staff_Finial.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Brooklyn_Museum_1991.174_Staff_Finial.jpg/1280px-Brooklyn_Museum_1991.174_Staff_Finial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 1175
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Finial (8199177644).jpg",
+      "description": "Iron finial — Ireland.",
+      "categories": [
+        "Ironwork in Ireland",
+        "Finials",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by psyberartist"
+      ],
+      "auteur": "psyberartist",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Finial_(8199177644).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Finial_%288199177644%29.jpg/1280px-Finial_%288199177644%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 3168
+    }
+  ]
+}

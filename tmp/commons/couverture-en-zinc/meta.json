@@ -1,0 +1,171 @@
+{
+  "terme": {
+    "id": "couverture-en-zinc",
+    "terme": "la couverture en zinc",
+    "categorie": "Toitures",
+    "definition": "Couverture en feuilles de zinc assemblées par des joints relevés parallèles à la pente.",
+    "priorite": 3,
+    "requetes": [
+      "zinc roof standing seam",
+      "couverture zinc",
+      "zinc roofs Paris"
+    ],
+    "incompatibles": [
+      "toit-mansarde"
+    ],
+    "categoriesCommons": [
+      "Category:Zinc roofs",
+      "Category:Metal roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tiny des collines (DSC02129).jpg",
+      "description": "\"Tiny des collines\": tiny houses by Benoit Verlaine exposed at the Passion Robinson light habitat festival in Domaine de Chevetogne, Ciney, Belgium. The double tiny-house on the left is under construction and the right \"Demi-lune\" is complete. Both have cedar siding and a zinc roof.",
+      "categories": [
+        "Rowboats in Belgium",
+        "ISO speed rating 100",
+        "Cedar wood",
+        "Domaine provincial de Chevetogne",
+        "Self-published work",
+        "Unassessed QI candidates",
+        "F-number f/8",
+        "Lens focal length 112 mm",
+        "Round roofs",
+        "Uploaded with dtMediaWiki",
+        "Photographs by Trougnouf in 2022",
+        "Files with coordinates missing SDC location of creation (50° N, 5° E)",
+        "Zinc roofs",
+        "Tiny houses",
+        "Taken with Sony ILCE-7C and E 28-200mm F2.8-5.6 A071"
+      ],
+      "auteur": "Trougnouf (Benoit Brummer)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tiny_des_collines_(DSC02129).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tiny_des_collines_%28DSC02129%29.jpg/1280px-Tiny_des_collines_%28DSC02129%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5740,
+      "hauteur": 2897
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ernst-Happel-Stadion Dach 04.jpg",
+      "description": "Dach des denkmalgeschützten Ernst-Happel-Stadions, Sommer 2017, Wien-Leopoldstadt",
+      "categories": [
+        "Ernst-Happel-Stadion",
+        "Metal roofs",
+        "Self-published work",
+        "Cultural heritage monuments in Austria check done",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Austria photographs taken on 2017-06-18",
+        "Media from WikiDaheim 2017 in Austria/Cultural heritage monuments",
+        "Images by Niki.L",
+        "WLM 2017 Special Price Innenansichten",
+        "Uploaded via Campaign:wlm-at",
+        "Media from WikiDaheim 2017 in Austria not for prejury",
+        "Media from WikiDaheim 2017 in Austria/all"
+      ],
+      "auteur": "Niki.L",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ernst-Happel-Stadion_Dach_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ernst-Happel-Stadion_Dach_04.jpg/1280px-Ernst-Happel-Stadion_Dach_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4479,
+      "hauteur": 3062
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Père-Lachaise - Division 19 - Rouillé 09.jpg",
+      "description": "",
+      "categories": [
+        "Grave of Joseph Alexandre Rouillé",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "Welding",
+        "Roofs in Paris",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Taken with Canon EF 100mm F2.8 Macro USM",
+        "Self-published work",
+        "Artworks with Wikidata item",
+        "Files by User:Coyau",
+        "Information field template with formatting",
+        "Metal roofs in France",
+        "July 2012 in Paris",
+        "Zinc roofs"
+      ],
+      "auteur": "Coyau",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:P%C3%A8re-Lachaise_-_Division_19_-_Rouill%C3%A9_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/P%C3%A8re-Lachaise_-_Division_19_-_Rouill%C3%A9_09.jpg/1280px-P%C3%A8re-Lachaise_-_Division_19_-_Rouill%C3%A9_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Maintenance Building (49394470001).jpg",
+      "description": "A maintenance worker performs work on a gutter on the Maintenance Building at the Blue Grass Chemical Agent-Destruction Pilot Plant. The three-man crew ensures workers on the ground and in the air remain safe. Visit our website for more information. &lt;a href=\" http://www.peoacwa.army.mil \" rel=\"noreferrer nofollow\"&gt;www.peoacwa.army.mil&lt;/a&gt;",
+      "categories": [
+        "Metal roofs",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Maintenance_Building_(49394470001).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Maintenance_Building_%2849394470001%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Maintenance_Building_%2849394470001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5493,
+      "hauteur": 3662
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Defense.gov photo essay 110703-F-XXXXF-002.jpg",
+      "description": "U.S. Air Force Master Sgt. Allen Wolf slides additional roof sheeting into place at the Alkmaar Clinic in Paramaribo, Suriname, July 3, 2011. Wolf is an operations flight craftsman assigned to the 114th Civil Engineer Squadron.",
+      "categories": [
+        "Taken with Nikon D200",
+        "PD US Military",
+        "Metal roofs",
+        "Files created by the United States Air Force with known IDs",
+        "Photographs taken on 2011-07-03",
+        "Defense.gov photos requiring renaming",
+        "ID-USMil missing SDC VIRIN",
+        "Import by User:Slick-o-bot/Defense.gov Photo Essays"
+      ],
+      "auteur": "Capt. Michael Frye",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Defense.gov_photo_essay_110703-F-XXXXF-002.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Defense.gov_photo_essay_110703-F-XXXXF-002.jpg/1280px-Defense.gov_photo_essay_110703-F-XXXXF-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 2496
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Polanica-zdroj june 2014 017.JPG",
+      "description": "Zweigeschossiges Geschäfts- und Wohnhaus mit zweifarbiger Klinker-/Backsteinfassade in hellem gelblichen Farbton für die flachen Bereiche in dunklem rötlichen für den Mauersockel, die Eckpfeiler (inklusive jener des Risalits) sowie die sorgfältig ausgeführten Einfassungen sämtlicher Maueröffnungen (Eingang, Balkon, Schaufenster, Fenster). Die Mittelachse bildet ein nur geringfügig hervorspingender Eingangsrisalit mit Zwerchhaus, der wie folgt gestaltet ist: im Erdgeschoss über drei flache Stufen erreichbarer nischenartig zurückversetzter Eingangsbereich für die zentrale Haustür und die beidsei",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "Polanica-Zdrój",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Shops in Poland",
+        "Doors in Poland",
+        "Facades in Poland",
+        "Balconies in Poland",
+        "Houses in Lower Silesian Voivodeship",
+        "Clothing shops in Poland",
+        "Brick houses in Poland",
+        "Zinc roofs",
+        "Entrance doors",
+        "Porcelain shops"
+      ],
+      "auteur": "User:Piotrus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Polanica-zdroj_june_2014_017.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Polanica-zdroj_june_2014_017.JPG/1280px-Polanica-zdroj_june_2014_017.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

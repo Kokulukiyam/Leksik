@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "fonte",
+    "terme": "la fonte",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Alliage de fer coulé en moule, lourd et cassant, employé en colonnes, grilles, regards et éléments décoratifs.",
+    "priorite": 3,
+    "requetes": [
+      "cast iron columns",
+      "cast iron architecture",
+      "fonte colonne"
+    ],
+    "incompatibles": [
+      "fer-forge"
+    ],
+    "categoriesCommons": [
+      "Category:Cast iron"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ironwork (5628329881).jpg",
+      "description": "Luminance HDR 2.0.1 tonemapping parameters: Operator: Mantiuk06 Parameters: Contrast Mapping factor: 0.1 Saturation Factor: 0.8 Detail Factor: 1 PreGamma: 1",
+      "categories": [
+        "Cast iron",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in",
+        "Cemeteries in unidentified locations",
+        "Photographs by Lukas Large"
+      ],
+      "auteur": "Lukas Large from Stourbridge, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ironwork_(5628329881).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ironwork_%285628329881%29.jpg/1280px-Ironwork_%285628329881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2826,
+      "hauteur": 2207
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Rusty sash window weights.jpg",
+      "description": "Three floating rusty sash window weights of different masses against a whit background.",
+      "categories": [
+        "Cast iron",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Alexander Abair",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rusty_sash_window_weights.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Rusty_sash_window_weights.jpg/1280px-Rusty_sash_window_weights.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 6240
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Десульфурация 11.jpg",
+      "description": "Процесс десульфурации чугуна магниевой проволокой. Азовсталь.",
+      "categories": [
+        "Cast iron",
+        "Self-published work"
+      ],
+      "auteur": "Wanderer777",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B5%D1%81%D1%83%D0%BB%D1%8C%D1%84%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%94%D0%B5%D1%81%D1%83%D0%BB%D1%8C%D1%84%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F_11.jpg/1280px-%D0%94%D0%B5%D1%81%D1%83%D0%BB%D1%8C%D1%84%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3096,
+      "hauteur": 4128
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Десульфурация 3.jpg",
+      "description": "Процесс десульфурации чугуна магниевой проволокой. Азовсталь.",
+      "categories": [
+        "Cast iron",
+        "Self-published work"
+      ],
+      "auteur": "Wanderer777",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B5%D1%81%D1%83%D0%BB%D1%8C%D1%84%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%D0%94%D0%B5%D1%81%D1%83%D0%BB%D1%8C%D1%84%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F_3.jpg/1280px-%D0%94%D0%B5%D1%81%D1%83%D0%BB%D1%8C%D1%84%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3096,
+      "hauteur": 4128
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Zentralbibliothek Zürich - Ofen - 991153771709705501.jpg",
+      "description": "",
+      "categories": [
+        "Cast iron",
+        "Heating stoves",
+        "Media contributed by Zentralbibliothek Zürich",
+        "Artworks without Wikidata item",
+        "Uploaded with OpenRefine",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "Artworks with known accession number",
+        "Supported by Wikimedia CH",
+        "CC-PD-Mark",
+        "Breitinger Collection"
+      ],
+      "auteur": "[Robert Breitinger]",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zentralbibliothek_Z%C3%BCrich_-_Ofen_-_991153771709705501.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Zentralbibliothek_Z%C3%BCrich_-_Ofen_-_991153771709705501.jpg/1280px-Zentralbibliothek_Z%C3%BCrich_-_Ofen_-_991153771709705501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3746,
+      "hauteur": 4104
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Epithelial cell cast.jpg",
+      "description": "Epithelial cell casts can be seen in conditions such as acute tubular necrosis (ATN), which is often caused by ischemia (lack of blood flow) or nephrotoxic substances damaging the renal tubules. Other potential causes include glomerulonephritis, interstitial nephritis, and severe urinary tract infections.",
+      "categories": [
+        "Cast iron",
+        "Microscopy",
+        "Urine",
+        "Epithelial cells",
+        "Self-published work",
+        "Urine analysis"
+      ],
+      "auteur": "Ajay Kumar Chaurasiya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Epithelial_cell_cast.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Epithelial_cell_cast.jpg/1280px-Epithelial_cell_cast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

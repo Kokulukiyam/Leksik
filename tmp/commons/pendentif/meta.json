@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "pendentif",
+    "terme": "le pendentif",
+    "categorie": "Structure",
+    "definition": "Triangle de maçonnerie courbe qui fait passer d'un plan carré au cercle d'une coupole.",
+    "priorite": 3,
+    "requetes": [
+      "pendentive dome",
+      "pendentif coupole",
+      "pendentives"
+    ],
+    "incompatibles": [
+      "coupole"
+    ],
+    "categoriesCommons": [
+      "Category:Pendentives",
+      "Category:Domes",
+      "Category:Dome interiors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cunard Building ceiling pendentive 3.jpg",
+      "description": "View of one of the pendentives of the Great Hall of the Cunard Building",
+      "categories": [
+        "Interior of 25 Broadway",
+        "Pendentives",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Red de Leon",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cunard_Building_ceiling_pendentive_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cunard_Building_ceiling_pendentive_3.jpg/1280px-Cunard_Building_ceiling_pendentive_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fatimah Ma'sumah Shrine قم، حرم فاطمه معصومه دختر موسی ابن جعفر امام هفتم شیعیان 07.jpg",
+      "description": "Le sanctuaire de Fatima Ma’soumeh (en persan : حرم فاطمه معصومه) est situé à Qom, en Iran. Le sanctuaire compte 3 domes et 6 minarets. Le sanctuaire est une des raisons pour lesquelles Qom est une des villes les plus sacrées en Iran, et pour lesquelles de nombreuses hawzat se trouvent à Qom.",
+      "categories": [
+        "Self-published work",
+        "Dome interiors",
+        "Files with coordinates missing SDC location of creation",
+        "Fatima Masumeh Shrine in 2017",
+        "Iran photographs taken on 2017-04-15",
+        "Photographs by Mostafa Meraji",
+        "Abbas II of Persia Mausoleum"
+      ],
+      "auteur": "Mostafameraji",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fatimah_Ma%27sumah_Shrine_%D9%82%D9%85%D8%8C_%D8%AD%D8%B1%D9%85_%D9%81%D8%A7%D8%B7%D9%85%D9%87_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1_%D9%85%D9%88%D8%B3%DB%8C_%D8%A7%D8%A8%D9%86_%D8%AC%D8%B9%D9%81%D8%B1_%D8%A7%D9%85%D8%A7%D9%85_%D9%87%D9%81%D8%AA%D9%85_%D8%B4%DB%8C%D8%B9%DB%8C%D8%A7%D9%86_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Fatimah_Ma%27sumah_Shrine_%D9%82%D9%85%D8%8C_%D8%AD%D8%B1%D9%85_%D9%81%D8%A7%D8%B7%D9%85%D9%87_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1_%D9%85%D9%88%D8%B3%DB%8C_%D8%A7%D8%A8%D9%86_%D8%AC%D8%B9%D9%81%D8%B1_%D8%A7%D9%85%D8%A7%D9%85_%D9%87%D9%81%D8%AA%D9%85_%D8%B4%DB%8C%D8%B9%DB%8C%D8%A7%D9%86_07.jpg/1280px-Fatimah_Ma%27sumah_Shrine_%D9%82%D9%85%D8%8C_%D8%AD%D8%B1%D9%85_%D9%81%D8%A7%D8%B7%D9%85%D9%87_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87_%D8%AF%D8%AE%D8%AA%D8%B1_%D9%85%D9%88%D8%B3%DB%8C_%D8%A7%D8%A8%D9%86_%D8%AC%D8%B9%D9%81%D8%B1_%D8%A7%D9%85%D8%A7%D9%85_%D9%87%D9%81%D8%AA%D9%85_%D8%B4%DB%8C%D8%B9%DB%8C%D8%A7%D9%86_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2250,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Affresco Duomo Vercelli 2.jpg",
+      "description": "Sant'Onorato comunica Sant'Ambrogio morente, quarto pennacchio dipinto da sinistra.",
+      "categories": [
+        "Images with annotations",
+        "Pendentives",
+        "Bishops of the Roman Catholic Archdiocese of Vercelli",
+        "Francesco Grandi",
+        "Giuseppe Locarni",
+        "Self-published work",
+        "Frescos of Saint Ambrose in Italy",
+        "Italy photographs taken on 2025-06-25",
+        "June 2025 in Vercelli",
+        "Frescos in Vercelli",
+        "Cultural heritage monuments in Vercelli - Beni storici e artistici",
+        "Duomo (Vercelli) - Episodi della vita di Sant'Eusebio"
+      ],
+      "auteur": "Ivan Ruggiero I'd appreciate if you could mail me (ivanrugg+credit@gmail.com) if you want to use this picture out of the Wikimedia project scope. Please attribute as: Ivan Ruggiero (Wikimedia)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Affresco_Duomo_Vercelli_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Affresco_Duomo_Vercelli_2.jpg/1280px-Affresco_Duomo_Vercelli_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chatsworth dome (18503327454).jpg",
+      "description": "Chatsworth dome",
+      "categories": [
+        "Domes",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Nguyenhai314"
+      ],
+      "auteur": "Sketyl none",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chatsworth_dome_(18503327454).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Chatsworth_dome_%2818503327454%29.jpg/1280px-Chatsworth_dome_%2818503327454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4802,
+      "hauteur": 3288
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dome (5038928004).jpg",
+      "description": "Koubba Ba'adiyn - shrine dating from early 12th century. Marrakech, Morocco.",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Dome interiors",
+        "Interior of Almoravid Koubba",
+        "Files from Mike Prince stream"
+      ],
+      "auteur": "Mike Prince from Bangalore, India",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dome_(5038928004).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Dome_%285038928004%29.jpg/1280px-Dome_%285038928004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cunard Building ceiling pendentive.jpg",
+      "description": "View of one of the pendentives of the Great Hall of the Cunard Building",
+      "categories": [
+        "Interior of 25 Broadway",
+        "Pendentives",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Red de Leon",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cunard_Building_ceiling_pendentive.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Cunard_Building_ceiling_pendentive.jpg/1280px-Cunard_Building_ceiling_pendentive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

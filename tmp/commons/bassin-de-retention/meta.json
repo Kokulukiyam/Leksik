@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "bassin-de-retention",
+    "terme": "le bassin de rétention",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Grand bassin à ciel ouvert, à berges en terre ou en béton, qui stocke les eaux de pluie avant de les rejeter.",
+    "priorite": 3,
+    "requetes": [
+      "retention pond",
+      "bassin de rétention",
+      "stormwater detention basin"
+    ],
+    "categoriesCommons": [
+      "Category:Retention basins"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Suchý polder.jpg",
+      "description": "Suchý polder na Liščím potoce (přítok Jílovského potoka) u obce Modrá (okres Děčín).",
+      "categories": [
+        "Flood protection",
+        "Check dams",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Retention basins"
+      ],
+      "auteur": "Phoenix CZE",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Such%C3%BD_polder.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Such%C3%BD_polder.jpg/1280px-Such%C3%BD_polder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 2340
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Lille lomme bassin rue lompret.jpg",
+      "description": "Bassin de rétention, rue de Lompret, à Lille-Lomme.",
+      "categories": [
+        "Lomme",
+        "Retention ponds",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 2° E)"
+      ],
+      "auteur": "Velvet",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lille_lomme_bassin_rue_lompret.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Lille_lomme_bassin_rue_lompret.jpg/1280px-Lille_lomme_bassin_rue_lompret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4884,
+      "hauteur": 3082
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bassin de rétention sec - Normand Lemieux.jpg",
+      "description": "Sur le terrain du siège social de Verbom à Sherbrooke, on trouve un bassin de rétention sec. Lors de fortes pluies ou de la fonte des neiges, l'eau s'accumule dans le bassin et est tranquillement relâché à l'égout pluvial. Ce qui favorise l'infiltration sur le site et diminue les risques d’inondation en aval.",
+      "categories": [
+        "Sheet metal",
+        "Sherbrooke, Quebec",
+        "Self-published work",
+        "Retention basins"
+      ],
+      "auteur": "Normand Lemieux",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bassin_de_r%C3%A9tention_sec_-_Normand_Lemieux.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Bassin_de_r%C3%A9tention_sec_-_Normand_Lemieux.jpg/1280px-Bassin_de_r%C3%A9tention_sec_-_Normand_Lemieux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3984,
+      "hauteur": 2656
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Retention Pond at Cape Fear Academy.jpg",
+      "description": "Retention Pond at Cape Fear Academy in Wilmington, North Carolina.",
+      "categories": [
+        "Self-published work",
+        "Retention ponds in the United States",
+        "Uploads by DiscoA340",
+        "Cape Fear Academy"
+      ],
+      "auteur": "DiscoA340",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Retention_Pond_at_Cape_Fear_Academy.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Retention_Pond_at_Cape_Fear_Academy.jpg/1280px-Retention_Pond_at_Cape_Fear_Academy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20230806 111227 Rückhaltebecken Truppestraße.jpg",
+      "description": "Impressionen von einer Radfahrt in Waidmannsdorf und Viktring am 6. August 2023, nach dem Unwetter in Österreich und Slowenien 2023 .",
+      "categories": [
+        "Self-published work",
+        "Flood protection in Austria",
+        "Files with coordinates missing SDC location of creation",
+        "Austria photographs taken on 2023-08-06",
+        "August 2023 floods in Carinthia",
+        "Retention basins",
+        "Waidmannsdorf & Viktring am 6. August 2023"
+      ],
+      "auteur": "Ciciban",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20230806_111227_R%C3%BCckhaltebecken_Truppestra%C3%9Fe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/20230806_111227_R%C3%BCckhaltebecken_Truppestra%C3%9Fe.jpg/1280px-20230806_111227_R%C3%BCckhaltebecken_Truppestra%C3%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bassin de rétention des eaux pluviales à Saint-Gervais-de-Vic le 10 juin 2022 - 2.jpg",
+      "description": "Vue de Saint-Gervais-de-Vic en France .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 800D",
+        "FAL",
+        "Saint-Gervais-de-Vic",
+        "Uploaded with pattypan",
+        "License migration redundant",
+        "Self-published work",
+        "June 2022 in Sarthe",
+        "Pays de la Loire photographs taken on 2022-06-10"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bassin_de_r%C3%A9tention_des_eaux_pluviales_%C3%A0_Saint-Gervais-de-Vic_le_10_juin_2022_-_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bassin_de_r%C3%A9tention_des_eaux_pluviales_%C3%A0_Saint-Gervais-de-Vic_le_10_juin_2022_-_2.jpg/1280px-Bassin_de_r%C3%A9tention_des_eaux_pluviales_%C3%A0_Saint-Gervais-de-Vic_le_10_juin_2022_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "terme": {
+    "id": "metal-deploye",
+    "terme": "le métal déployé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Tôle incisée puis étirée qui forme un réseau de mailles en losange.",
+    "priorite": 3,
+    "requetes": [
+      "expanded metal mesh",
+      "expanded metal facade",
+      "métal déployé"
+    ],
+    "incompatibles": [
+      "tole-perforee"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Streckmetall maschine.jpg",
+      "description": "Maschine zur Herstellung von Streckmetall ca. 1900",
+      "categories": [
+        "Punching machines",
+        "Expanded metal sheet",
+        "PD Old",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Karel K.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Streckmetall_maschine.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Streckmetall_maschine.jpg/1280px-Streckmetall_maschine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1339,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Rock-Ola Capri II 2012.jpg",
+      "description": "Högtalar-galler för Rock-Ola Capri II av kromat sträckmetall",
+      "categories": [
+        "Taken with Nikon Coolpix S51",
+        "Rock-Ola",
+        "Expanded metal sheet",
+        "Self-published work",
+        "Photographs by Holger Ellgaard"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rock-Ola_Capri_II_2012.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Rock-Ola_Capri_II_2012.jpg/1280px-Rock-Ola_Capri_II_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 1434
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Streckmetallfassade, Mod. Tallin, Sennrich, Uhrenschule Grenchen.jpg",
+      "description": "Streckmetallfassade, Mod. Tallin, Sennrich, Uhrenschule Grenchen",
+      "categories": [
+        "Expanded metal sheet",
+        "Self-published work"
+      ],
+      "auteur": "Sennrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Streckmetallfassade,_Mod._Tallin,_Sennrich,_Uhrenschule_Grenchen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Streckmetallfassade%2C_Mod._Tallin%2C_Sennrich%2C_Uhrenschule_Grenchen.jpg/1280px-Streckmetallfassade%2C_Mod._Tallin%2C_Sennrich%2C_Uhrenschule_Grenchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Metall + Form.jpg",
+      "description": "+00000001_Image_Metall + Form",
+      "categories": [
+        "Expanded metal sheet",
+        "Self-published work"
+      ],
+      "auteur": "Lupus in Saxonia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Metall_%2B_Form.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Metall_%2B_Form.jpg/1280px-Metall_%2B_Form.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4252,
+      "hauteur": 3189
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Sorge Grenzmuseum.JPG",
+      "description": "Grenzmuseum Sorge: Überreste des inneren Sperrzauns",
+      "categories": [
+        "GFDL",
+        "Taken with Minolta Dimage Z1",
+        "License migration redundant",
+        "Expanded metal sheet",
+        "Border fences in Germany",
+        "Self-published work",
+        "Fence deflectors (Inner German border)",
+        "Grenzsignalzaun",
+        "Grenztor Sorge"
+      ],
+      "auteur": "Corradox",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sorge_Grenzmuseum.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sorge_Grenzmuseum.JPG/1280px-Sorge_Grenzmuseum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Streckmetall Mod. Paris Sennrich.jpg",
+      "description": "Streckmetall Mod. Paris Sennrich",
+      "categories": [
+        "Expanded metal sheet",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Sennrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Streckmetall_Mod._Paris_Sennrich.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Streckmetall_Mod._Paris_Sennrich.jpg/1280px-Streckmetall_Mod._Paris_Sennrich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

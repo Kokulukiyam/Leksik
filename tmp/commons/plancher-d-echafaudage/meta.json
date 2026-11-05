@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "plancher-d-echafaudage",
+    "terme": "le plancher d'échafaudage",
+    "categorie": "Chantier et outillage",
+    "definition": "Plateau métallique ou planches sur lesquels on marche et on travaille à chaque niveau d'un échafaudage.",
+    "priorite": 3,
+    "requetes": [
+      "scaffold deck boards",
+      "plancher d'échafaudage",
+      "scaffold platform planks"
+    ],
+    "incompatibles": [
+      "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Scaffolding"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2014 South Napa earthquake Wine Spectator offices damage.jpg",
+      "description": "Offices of the Wine Spectator magazine showing a collapsed fireplace and chimney.",
+      "categories": [
+        "CC-Zero",
+        "Scaffolding",
+        "2014 South Napa earthquake",
+        "Portes-cochères in California",
+        "September 2014 in California",
+        "Pediments in California",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2014-09-01",
+        "Building exteriors in Napa County, California",
+        "Noyes Mansion (Napa, California)",
+        "2014 in Napa, California"
+      ],
+      "auteur": "Cullen328",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014_South_Napa_earthquake_Wine_Spectator_offices_damage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/2014_South_Napa_earthquake_Wine_Spectator_offices_damage.jpg/1280px-2014_South_Napa_earthquake_Wine_Spectator_offices_damage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2356,
+      "hauteur": 1268
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2018061101 Wurzener Strasse 56 Rohbau Moto G4 2018.jpg",
+      "description": "Wurzener Straße 56. Seit Beginn der Covid-Pandemie kein Baufortschritt mehr.",
+      "categories": [
+        "Scaffolding",
+        "Wurzener Straße, Dresden",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Buildings in Pieschen",
+        "Dresden photographs taken on 2023-03-12"
+      ],
+      "auteur": "VSchagow",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg/1280px-2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2022120438 Leipziger Strasse 232 Baugeruest 2022.jpg",
+      "description": "Mietshaus in ehemals geschlossener Bebauung, nach 1900 (Mietshaus), historisierender Klinker-Werkstein-Bau mit Jugendstilelementen, mit Ladenzone, baugeschichtlich und stadtentwicklungsgeschichtlich bedeutend",
+      "categories": [
+        "Scaffolding",
+        "Renovation in Germany",
+        "Self-published work",
+        "Overhead lines in Saxony",
+        "Dresden photographs taken on 2022-12-04",
+        "Files by User:VSchagow",
+        "Samyang fisheye lenses",
+        "Leipziger Straße 232 (Trachau)"
+      ],
+      "auteur": "VSchagow",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2022120438_Leipziger_Strasse_232_Baugeruest_2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2022120438_Leipziger_Strasse_232_Baugeruest_2022.jpg/1280px-2022120438_Leipziger_Strasse_232_Baugeruest_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A building frame with scaffolding at a construction site with blue sky in background.jpg",
+      "description": "A building frame with scaffolding at a construction site with blue sky in background",
+      "categories": [
+        "Scaffolding",
+        "Buildings",
+        "Self-published work",
+        "Unidentified locations"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_building_frame_with_scaffolding_at_a_construction_site_with_blue_sky_in_background.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/A_building_frame_with_scaffolding_at_a_construction_site_with_blue_sky_in_background.jpg/1280px-A_building_frame_with_scaffolding_at_a_construction_site_with_blue_sky_in_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Andaimecefet.JPG",
+      "description": "Andaimes na conclusão da construção de um prédio para o ensino da Engenharia Civil, no campus II do Cefet-MG, em Belo Horizonte, Brasil.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-S700",
+        "Scaffolding",
+        "License migration redundant",
+        "Self-published work",
+        "Universidade Federal de Ciência e Inovação de Minas Gerais"
+      ],
+      "auteur": "Andrevruas",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Andaimecefet.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Andaimecefet.JPG/1280px-Andaimecefet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Antitank2.jpg",
+      "description": "Remains of WW2 anti tank defence at Salthouse North Norfolk England.",
+      "categories": [
+        "Scaffolding",
+        "Fortifications of World War II in the United Kingdom",
+        "Self-published work",
+        "Anti-tank scaffolding of World War II in the United Kingdom"
+      ],
+      "auteur": "Palmiped",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antitank2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Antitank2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 960
+    }
+  ]
+}

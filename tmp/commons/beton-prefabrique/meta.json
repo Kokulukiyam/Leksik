@@ -1,0 +1,164 @@
+{
+  "terme": {
+    "id": "beton-prefabrique",
+    "terme": "le béton préfabriqué",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Éléments de béton coulés en usine (panneaux, poutres, prédalles), reconnaissables en stock ou au levage, ou aux joints réguliers entre panneaux une fois posés.",
+    "priorite": 3,
+    "requetes": [
+      "precast concrete panels",
+      "precast concrete element crane",
+      "béton préfabriqué"
+    ],
+    "incompatibles": [
+      "beton",
+      "beton-brut",
+      "linteau-prefabrique",
+      "predalle"
+    ],
+    "categoriesCommons": [
+      "Category:Precast concrete",
+      "Category:Prefabricated buildings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Temporary Bypass Bridge-8 WI (8447067027).jpg",
+      "description": "As seen here, precast concrete deck panels were used in the rapid construction of the temporary bypass bridges as part of an FHWA, Highways for LIFE supported Wisconsin DOT demonstration project on use of innovative technologies on WIS 25 between Nelson, WI and Wabasha, MN. Innovations included construction phasing/bypass bridges, open pile bents, high performance concrete (HPC), precast bridge elements, and specially designed approach aprons.",
+      "categories": [
+        "PD US DOT",
+        "Precast concrete",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Transportation files uploaded by Tyler de Noche",
+        "USGov files uploaded by Tyler de Noche",
+        "Images from the Federal Highway Administration Flickr stream",
+        "Wisconsin Demonstration Project: Multiple Bridge Reconstruction on WIS 25 Across the Mississippi River",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Federal Highway Administration",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Temporary_Bypass_Bridge-8_WI_(8447067027).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Temporary_Bypass_Bridge-8_WI_%288447067027%29.jpg/1280px-Temporary_Bypass_Bridge-8_WI_%288447067027%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20051206030DR Dresden-Niedersedlitz Prohlis Abriß Sternenhäuser.jpg",
+      "description": "16.12.2005 01257 Dresden-Niedersedlitz (meist zum Neubaugebiet Prohlis gerechnet): Abriß der 1981 erbauten, baulich intakten DDR-Plattenbauten Windmühlenstraße 14, 43, 45, 47 (GMP 50.997743,13.807871) und die Kurt-Tucholsky-Straße 2 und 4 (GMP 50.997385,13.807366), wegen ihres Y-Grundrissens \"Sternhäuser \" genannt. Hier Gebäude auf GMP: 50.997743,13.807871 mit 240 Wohnungen. Die insgesamt fünf zehnstöckigen Gebäude der Sternenhaussiedlung mit zusammen 1500 Wohnungen wurden trotz Mieterprosteste bis 2011 alle abgerissen. Für den Abriss wurden 6,4 Millionen Euro Fördermittel verbraucht. Grundlag",
+      "categories": [
+        "Kurt-Tucholsky-Straße, Dresden",
+        "Windmühlenstraße, Dresden",
+        "Prefabricated buildings",
+        "Files by Jörg Blobelt",
+        "December 2005 Dresden photographs",
+        "High-rise apartment buildings in Niedersedlitz",
+        "High-rise apartment buildings in Prohlis",
+        "Plattenbau in Niedersedlitz",
+        "Plattenbau in Prohlis",
+        "Demolitions in Dresden",
+        "Demolished Plattenbau of Dresden"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20051206030DR_Dresden-Niedersedlitz_Prohlis_Abri%C3%9F_Sternenh%C3%A4user.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/20051206030DR_Dresden-Niedersedlitz_Prohlis_Abri%C3%9F_Sternenh%C3%A4user.jpg/1280px-20051206030DR_Dresden-Niedersedlitz_Prohlis_Abri%C3%9F_Sternenh%C3%A4user.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2562,
+      "hauteur": 1976
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Saga Prefectural Museum northwest porch.jpg",
+      "description": "A porch over northwest entrance of Saga Prefectural Museum .",
+      "categories": [
+        "Saga Prefectural Museum",
+        "Concrete slabs",
+        "Precast concrete",
+        "Concrete ceilings",
+        "Concrete columns",
+        "Self-published work",
+        "Japan photographs taken on 2018-08-08",
+        "Concrete buildings in Japan",
+        "Porches in Japan",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Peka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saga_Prefectural_Museum_northwest_porch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Saga_Prefectural_Museum_northwest_porch.jpg/1280px-Saga_Prefectural_Museum_northwest_porch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5448,
+      "hauteur": 3632
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:19700131500NR Dresden Stadtmodell Fucikplatz (Straßburger Platz).jpg",
+      "description": "31.01.1970 DDR 1000 Berlin: Ausstellung \"Architektur und Bildende Kunst\" im Alten Museum: Stadtmodell Dresden, Blick nach Osten über den Fucikplatz (nach 1991 Straßburger Platz). Hier kreuzen sich die Grunaer Straße nach links, die nach rechts zur Stübelallee wird. Von Süden (vorn Mitte) kommt die Lennéstraße, die nach Norden zur Güntzstraße wird. Die geplante Ausstellungshalle (GMP: 51.044300,13.754600) vorn rechts mit den 2 Flügel-Dächern wurde nie gebaut, ebensowenig das Hochhaus (GMP: 51.044900,13.756440). Nachdem nach der Wende dann 1999 auch die vorhandene, am 24.05.1970 eröffnete Ausste",
+      "categories": [
+        "Exhibition halls in Germany",
+        "Grunaer Straße, Dresden",
+        "Stübelallee, Dresden",
+        "Güntzstraße, Dresden",
+        "Straßburger Platz, Dresden",
+        "Images with annotations",
+        "Prefabricated buildings",
+        "Stadtmodell Dresden",
+        "Gläserne Manufaktur",
+        "Urban models",
+        "Residential buildings in Dresden",
+        "Urban planning in the German Democratic Republic",
+        "Files by Jörg Blobelt",
+        "Unbuilt buildings in Saxony",
+        "Tram tracks in Dresden",
+        "Files with coordinates missing SDC location of creation",
+        "January 1970 in Dresden"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19700131500NR_Dresden_Stadtmodell_Fucikplatz_(Stra%C3%9Fburger_Platz).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/19700131500NR_Dresden_Stadtmodell_Fucikplatz_%28Stra%C3%9Fburger_Platz%29.jpg/1280px-19700131500NR_Dresden_Stadtmodell_Fucikplatz_%28Stra%C3%9Fburger_Platz%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4562,
+      "hauteur": 2491
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Sidewalk in Thanjavur Tamil Nadu India.jpg",
+      "description": "This is a newly laid sidewalk near Manimandapam Thanjavur Tamil Nadu India which is very useful for pedestrians. I took this shot at noon during rainy time 27 th Nov 2024",
+      "categories": [
+        "CC-Zero",
+        "Thanjavur",
+        "Sidewalks",
+        "Precast concrete",
+        "Thanjavur district",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Sindugab",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sidewalk_in_Thanjavur_Tamil_Nadu_India.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Sidewalk_in_Thanjavur_Tamil_Nadu_India.jpg/1280px-Sidewalk_in_Thanjavur_Tamil_Nadu_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20040319250DR Dresden Fucik-Denkmal Straßburger Platz.jpg",
+      "description": "19.03.2004 01307 Dresden, Straßburger Platz: Fucik-Denkmal (GMP: 51.046322,13.755523). Die Gedenkstätte zu Ehren des tschechischen Jurnalisten und Kommunisten Julius Fucik auf dem Fucikplatz wurde am 13.09.1953 eingeweiht. Auf der Bronzetafel stehen seine mahnenden Worte \"Menschen, ich hatte euch lieb, seid wachsam!\" Am 8. September 1943 war er von den Nazis in Berlin-Plötzensee hingerichtet worden. Im Gedenken an ihn wurde 1951 in der DDR der bisherige Stübelplatz in Fucikplatz umbenannt. Nach der Wende, 1991, wurde daraus der Straßburger Platz. Hinter dem Denkmal stehen noch die 10-geschossi",
+      "categories": [
+        "Julius-Fučík-Denkmal (Dresden)",
+        "Prefabricated buildings",
+        "Residential buildings in Dresden",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "March 2004 Dresden photographs",
+        "Demolished Plattenbau of Dresden"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20040319250DR_Dresden_Fucik-Denkmal_Stra%C3%9Fburger_Platz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/20040319250DR_Dresden_Fucik-Denkmal_Stra%C3%9Fburger_Platz.jpg/1280px-20040319250DR_Dresden_Fucik-Denkmal_Stra%C3%9Fburger_Platz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2527,
+      "hauteur": 1856
+    }
+  ]
+}

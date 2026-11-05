@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "tombereau",
+    "terme": "le tombereau",
+    "categorie": "Chantier et outillage",
+    "definition": "Gros engin de terrassement à benne basculante, souvent articulé, qui transporte les déblais sur les grands chantiers.",
+    "priorite": 3,
+    "requetes": [
+      "articulated dump truck",
+      "tombereau articulé",
+      "articulated hauler"
+    ],
+    "incompatibles": [
+      "camion-benne"
+    ],
+    "categoriesCommons": [
+      "Category:Articulated dump trucks",
+      "Category:Dump trucks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:ADT EMEA Product Manager Beka Nemstsveridze.jpg",
+      "description": "ADT EMEA Product Manager Beka Nemstsveridze",
+      "categories": [
+        "Product management",
+        "Self-published work",
+        "Articulated dump trucks",
+        "Doosan machines"
+      ],
+      "auteur": "Beka.nemso",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ADT_EMEA_Product_Manager_Beka_Nemstsveridze.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/ADT_EMEA_Product_Manager_Beka_Nemstsveridze.jpg/1280px-ADT_EMEA_Product_Manager_Beka_Nemstsveridze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2025-01-06 10 49 58 A Mercer County Department of Transportation truck spreading salt and sand during a light snowfall along Mercer County Route 579 (Bear Tavern Road) in Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "A Mercer County Department of Transportation truck spreading salt and sand during a light snowfall along Mercer County Route 579 (Bear Tavern Road) in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Salt spreaders",
+        "Dump trucks",
+        "Snowplows",
+        "Self-published work",
+        "Vehicles in New Jersey",
+        "Files with coordinates missing SDC location of creation",
+        "Famartin's 2025 photos",
+        "Bear Tavern Road (Ewing Township, New Jersey)",
+        "Mercer County Department of Transportation",
+        "Famartin's January 2025 photos",
+        "Snow in Ewing Township, New Jersey on January 6, 2025"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-01-06_10_49_58_A_Mercer_County_Department_of_Transportation_truck_spreading_salt_and_sand_during_a_light_snowfall_along_Mercer_County_Route_579_(Bear_Tavern_Road)_in_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2025-01-06_10_49_58_A_Mercer_County_Department_of_Transportation_truck_spreading_salt_and_sand_during_a_light_snowfall_along_Mercer_County_Route_579_%28Bear_Tavern_Road%29_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Articulated hauler.jpg",
+      "description": "Articulated hauler",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Dump trucks in the United States",
+        "Articulated haul trucks",
+        "Articulated dump trucks"
+      ],
+      "auteur": "Wikideas1",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Articulated_hauler.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Articulated_hauler.jpg/1280px-Articulated_hauler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Évacuation neige abondante à La Rosière (février 2026).JPG",
+      "description": "Vue, en hiver après plusieurs jours de neige, de l'évacuation de l'excès de neige par camion dans la station de ski de La Rosière , en Savoie .",
+      "categories": [
+        "Dump trucks",
+        "La Rosière (Montvalezan)",
+        "Self-published work",
+        "Snow removal in France",
+        "Trucks in Savoie",
+        "Snow in Savoie in February 2026",
+        "Front end loaders",
+        "Case loaders in France"
+      ],
+      "auteur": "Florian Pépellin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%89vacuation_neige_abondante_%C3%A0_La_Rosi%C3%A8re_(f%C3%A9vrier_2026).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%C3%89vacuation_neige_abondante_%C3%A0_La_Rosi%C3%A8re_%28f%C3%A9vrier_2026%29.JPG/1280px-%C3%89vacuation_neige_abondante_%C3%A0_La_Rosi%C3%A8re_%28f%C3%A9vrier_2026%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3176,
+      "hauteur": 2392
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Building Fairs Brno 2011 (017).jpg",
+      "description": "Articulated Truck Liebherr TA 230 Litronic, Building Fairs Brno 2011",
+      "categories": [
+        "Dump trucks in the Czech Republic",
+        "Taken with Panasonic Lumix DMC-TZ5",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files by User:Sevela.p",
+        "Building Fairs Brno 2011",
+        "Files with coordinates missing SDC location of creation",
+        "White Liebherr haul trucks",
+        "Liebherr haul trucks",
+        "Articulated dump trucks"
+      ],
+      "auteur": "I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would lik",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_Fairs_Brno_2011_(017).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Building_Fairs_Brno_2011_%28017%29.jpg/1280px-Building_Fairs_Brno_2011_%28017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Iveco Daily, Nufam 2025, Rheinstetten (20250927-P1051007).jpg",
+      "description": "Iveco Daily at Nufam 2025 in Rheinstetten",
+      "categories": [
+        "GFDL",
+        "Dump trucks",
+        "License migration redundant",
+        "Self-published work",
+        "Orange vans",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Quality image candidates by User:MB-one - ready to submit",
+        "Baden-Württemberg photographs taken on 2025-09-27",
+        "Taken with Panasonic Lumix DC-G91 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Iveco Daily (2019) dump trucks",
+        "Vans at Nufam 2025"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iveco_Daily,_Nufam_2025,_Rheinstetten_(20250927-P1051007).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Iveco_Daily%2C_Nufam_2025%2C_Rheinstetten_%2820250927-P1051007%29.jpg/1280px-Iveco_Daily%2C_Nufam_2025%2C_Rheinstetten_%2820250927-P1051007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    }
+  ]
+}

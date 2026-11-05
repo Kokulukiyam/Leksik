@@ -1,0 +1,122 @@
+{
+  "terme": {
+    "id": "hublot-de-porte",
+    "terme": "le hublot de porte",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Petite ouverture vitrée, ronde ou rectangulaire, percée dans un vantail de porte.",
+    "priorite": 3,
+    "requetes": [
+      "door vision panel round",
+      "hublot porte",
+      "porthole door window"
+    ],
+    "incompatibles": [
+      "porte-vitree"
+    ],
+    "categoriesCommons": [
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A key is inserted in a door lock.jpg",
+      "description": "A key is inserted in a door lock while an LG branded appliance is visible in the background. Light reflects off the metal, showcasing the surroundings.",
+      "categories": [
+        "Doors",
+        "Keys",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_key_is_inserted_in_a_door_lock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/A_key_is_inserted_in_a_door_lock.jpg/1280px-A_key_is_inserted_in_a_door_lock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ancient Gateway (116650393).jpeg",
+      "description": "500px provided description: Ancient Gateway [#city ,#travel ,#door ,#house ,#italy ,#old ,#urban ,#architecture ,#gate ,#building ,#wooden ,#double ,#portal]",
+      "categories": [
+        "Doors",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Maurice Klabbers",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancient_Gateway_(116650393).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ancient_Gateway_%28116650393%29.jpeg/1280px-Ancient_Gateway_%28116650393%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2025-03-12 Castel Nuovo Entrance Door Left.jpg",
+      "description": "ナポリ ヌオーヴォ城",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "C1815",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg/1280px-2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A Secret Place of Queen Victoria Tallinn 9 June 2014.JPG",
+      "description": "A 'Secret Place' of Queen Victoria , Tallinn 9 June 2014",
+      "categories": [
+        "Doors",
+        "Taken with Olympus VR-340 / D-750",
+        "Self-published work",
+        "Estonia photographs taken on 2014-06-09",
+        "Queen Victoria (ship, 2007) in Tallinn"
+      ],
+      "auteur": "Pjotr Mahhonin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Secret_Place_of_Queen_Victoria_Tallinn_9_June_2014.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/A_Secret_Place_of_Queen_Victoria_Tallinn_9_June_2014.JPG/1280px-A_Secret_Place_of_Queen_Victoria_Tallinn_9_June_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A key is shown inserted into a lock.jpg",
+      "description": "A key is shown inserted into a lock, with a bright yellow tag attached to the keyring. The setting is well-lit and features clean, simple lines, suggesting a modern environment.",
+      "categories": [
+        "Doors",
+        "Keys",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_key_is_shown_inserted_into_a_lock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/A_key_is_shown_inserted_into_a_lock.jpg/1280px-A_key_is_shown_inserted_into_a_lock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3138,
+      "hauteur": 4700
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A Doorway.jpg",
+      "description": "A Doorway at Janki Temple, Janakpur, Nepal.",
+      "categories": [
+        "Doors",
+        "Temples",
+        "Self-published work",
+        "Doorways",
+        "Media needing category review as of 15 June 2020",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Doorway.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/A_Doorway.jpg/1280px-A_Doorway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    }
+  ]
+}

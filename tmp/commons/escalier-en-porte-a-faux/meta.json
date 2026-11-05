@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "escalier-en-porte-a-faux",
+    "terme": "l'escalier en porte-à-faux",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier dont les marches sont encastrées d'un seul côté dans le mur et semblent flotter.",
+    "priorite": 3,
+    "requetes": [
+      "cantilever stairs",
+      "escalier marches en porte-à-faux",
+      "floating staircase"
+    ],
+    "incompatibles": [
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "porte-a-faux"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2013 TLD ABS-580 self-propelled passenger stairs from back.jpg",
+      "description": "2013 TLD ABS-580 self-propelled passenger stairs from back",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Oleg Yunakov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013_TLD_ABS-580_self-propelled_passenger_stairs_from_back.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2013_TLD_ABS-580_self-propelled_passenger_stairs_from_back.jpg/1280px-2013_TLD_ABS-580_self-propelled_passenger_stairs_from_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2350,
+      "hauteur": 3134
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:BayombongCapitoljf9916 14.JPG",
+      "description": "Upload Wizard photos of -- Bayombong, Nueva Vizcaya [1] - Tribu Vizcayano Village - Paraiso Tribu Vizcayano [2] [3] - (an eco-tourism park aims to conserve and safeguard the Lower Magat Eco-Tourism Park (LMET) [4] Nueva Vizcaya to hold 5th Ammungan Festival, P4.8 million for the 5th Grand Ammungan Festival on May 19-24, 2013 part of the 174th founding anniversary of Nueva Vizcaya) -- Nueva Vizcaya Provincial Capitol Complex (by its builder, Governor Patricio G. Dumlao, along the national road, housing all the provincial government offices, the capitol building, an architectural ingenuity with ",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "Staircases",
+        "Self-published work",
+        "Nueva Vizcaya Provincial Capitol Complex"
+      ],
+      "auteur": "Ramon FVelasquez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BayombongCapitoljf9916_14.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/BayombongCapitoljf9916_14.JPG/1280px-BayombongCapitoljf9916_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2018-08-24 Åland by Olaf Kosinsky-2649.jpg",
+      "description": "Stairs aboard the Baltic Princess.",
+      "categories": [
+        "Stairs",
+        "Personality rights warning",
+        "Interior of Baltic Princess (ship, 2008)",
+        "Photos by User:Olaf Kosinsky in 2018",
+        "People Photos by Olaf Kosinsky",
+        "Olaf Kosinsky Aland Inseln",
+        "Olaf Kosinsky Ostsefähre"
+      ],
+      "auteur": "Olaf Kosinsky",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-08-24_%C3%85land_by_Olaf_Kosinsky-2649.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2018-08-24_%C3%85land_by_Olaf_Kosinsky-2649.jpg/1280px-2018-08-24_%C3%85land_by_Olaf_Kosinsky-2649.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bata nr. 21, staircase through glass system wall.JPG",
+      "description": "Bata_nr._21,_staircase_through_glass_system_wall.",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix J50",
+        "Staircases",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Bata Building No. 21",
+        "License migration redundant",
+        "Self-published work",
+        "Photographs by Mark Ahsmann",
+        "Glass block windows of Baťův mrakodrap"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bata_nr._21,_staircase_through_glass_system_wall.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Bata_nr._21%2C_staircase_through_glass_system_wall.JPG/1280px-Bata_nr._21%2C_staircase_through_glass_system_wall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:500px photo (33752761).jpeg",
+      "description": "500px provided description: Untitled [#stairs city]",
+      "categories": [
+        "Stairs",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Fabio Lima",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(33752761).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/500px_photo_%2833752761%29.jpeg/1280px-500px_photo_%2833752761%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1364
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Beautiful Staircase (3500222511).jpg",
+      "description": "Antebellum home with a beautiful staircase",
+      "categories": [
+        "Staircases",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Nannette Turner from Virginia Beach Va, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beautiful_Staircase_(3500222511).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Beautiful_Staircase_%283500222511%29.jpg/1280px-Beautiful_Staircase_%283500222511%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    }
+  ]
+}

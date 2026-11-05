@@ -1,0 +1,53 @@
+{
+  "termId": "enduit-gratte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond sous portique à colonnes avec décors sgraffite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hartford, États-Unis",
+      "note": "Sgraffite décoratif, pas un enduit gratté uniforme."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur d'abbaye avec sgraffite délavé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Milan, Italie",
+      "note": "Dessin, enduit dégradé, pas typique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Entrée de château Renaissance à façade en pointes de diamant sgraffitées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pardubice, Tchéquie",
+      "note": "Décor sgraffite, pas un enduit gratté."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur couvert de graffitis au feutre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Havane, Cuba",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Sgraffite figurant un château sur enduit usé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Milan, Italie",
+      "note": "Dessin gravé, pas un enduit gratté typique."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sgraffite figurant des personnages sous un arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wädenswil, Suisse",
+      "note": "Dessin gravé, pas un grain régulier."
+    }
+  ]
+}

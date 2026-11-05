@@ -1,0 +1,36 @@
+{
+  "terme": {
+    "id": "plaque-de-platre-hydrofuge",
+    "terme": "la plaque de plâtre hydrofuge",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Plaque de plâtre à carton vert, traitée contre l'humidité, posée dans les salles d'eau.",
+    "priorite": 2,
+    "requetes": [
+      "green moisture resistant drywall",
+      "plaque hydrofuge verte",
+      "green board drywall bathroom"
+    ],
+    "incompatibles": [
+      "plaque-de-platre"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Green board writting.jpg",
+      "description": "A \"green board\" can refer to a traditional green chalkboard used in schools for writing with chalk, offering a softer look than blackboards, or it can mean a type of moisture-resistant drywall (greenboard) used in construction",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Media needing categories as of 21 January 2026",
+        "All media needing categories as of 2026"
+      ],
+      "auteur": "SAHAYA RAJAN S",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Green_board_writting.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Green_board_writting.jpg/1280px-Green_board_writting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 3008
+    }
+  ]
+}

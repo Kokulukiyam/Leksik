@@ -1,0 +1,113 @@
+{
+  "terme": {
+    "id": "ruban-de-signalisation",
+    "terme": "le ruban de signalisation",
+    "categorie": "Chantier et outillage",
+    "definition": "Ruban plastique à bandes rouges et blanches, tendu entre des piquets pour délimiter une zone interdite ou dangereuse.",
+    "priorite": 3,
+    "requetes": [
+      "barrier tape red white construction",
+      "rubalise chantier",
+      "warning tape cordon"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hradčanská a okolí 0023.JPG",
+      "description": "Stavební úpravy a s nimi spojená dopravní omezení v okolí zastávky Hradčanská",
+      "categories": [
+        "Barriers in the Czech Republic",
+        "Red and white caution tape in the Czech Republic",
+        "Taken with Olympus C-8080WZ",
+        "Files by User:Jedudedek",
+        "Construction of Blanka Tunnel in Dejvice",
+        "Hradčanská (tram stops, Milady Horákové)",
+        "Hradčanská (bus terminal)"
+      ],
+      "auteur": "Matěj Baťha",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hrad%C4%8Dansk%C3%A1_a_okol%C3%AD_0023.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Hrad%C4%8Dansk%C3%A1_a_okol%C3%AD_0023.JPG/1280px-Hrad%C4%8Dansk%C3%A1_a_okol%C3%AD_0023.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:(20260726) Tiergarten 101816.jpg",
+      "description": "after the attack on CSD Berlin 2026.",
+      "categories": [
+        "Red and white caution tape in Germany",
+        "Personality rights warning",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Roy Zuo",
+        "Police operations in Berlin",
+        "2026 CSD Berlin attack"
+      ],
+      "auteur": "Roy Zuo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(20260726)_Tiergarten_101816.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%2820260726%29_Tiergarten_101816.jpg/1280px-%2820260726%29_Tiergarten_101816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Madrid Pride 2024 - High heel race - 240704 174544.jpg",
+      "description": "Drag queen Torrija Asúcar directs the crowd to stay behind the cordon tape moments before the start of the 2024 Madrid Pride High Heel Race.",
+      "categories": [
+        "Personality rights warning",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Torrija Asúcar",
+        "All media supported by Wikimedia España in 2024",
+        "Madrid Gay Pride 2024 High heel race",
+        "Madrid Gay Pride 2024 - Supported by Wikimedia España"
+      ],
+      "auteur": "Barcex",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Madrid_Pride_2024_-_High_heel_race_-_240704_174544.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Madrid_Pride_2024_-_High_heel_race_-_240704_174544.jpg/1280px-Madrid_Pride_2024_-_High_heel_race_-_240704_174544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Madrid Pride 2024 - High heel race - 240704 174557-2.jpg",
+      "description": "Drag queen Torrija Asúcar directs the crowd to stay behind the cordon tape moments before the start of the 2024 Madrid Pride High Heel Race.",
+      "categories": [
+        "Personality rights warning",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Torrija Asúcar",
+        "All media supported by Wikimedia España in 2024",
+        "Madrid Gay Pride 2024 High heel race",
+        "Madrid Gay Pride 2024 - Supported by Wikimedia España"
+      ],
+      "auteur": "Barcex",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Madrid_Pride_2024_-_High_heel_race_-_240704_174557-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Madrid_Pride_2024_-_High_heel_race_-_240704_174557-2.jpg/1280px-Madrid_Pride_2024_-_High_heel_race_-_240704_174557-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5869,
+      "hauteur": 3912
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:NASA, Partners Prepare EXCITE for Antarctic Flight (SVS15098 - Palestine July10 KH 001).jpg",
+      "description": "An open hangar door at NASA CSBF frames the Big Dipper on July 10, 2026, as the EXCITE payload faces outward. Credit: NASA/Kyle Helson Alt text: A telescope is positioned in front of an open hangar door. Image description: The EXCITE telescope peers out at the night sky from the bottom right corner of this image. The camera looks out and up at a large open hangar door to a sky dotted with stars. A line of yellow caution tape cordons off the open doorway.",
+      "categories": [
+        "PD NASA",
+        "EXCITE",
+        "United States photographs taken on 2026-07-10",
+        "NASA SVS files uploaded by OptimusPrimeBot"
+      ],
+      "auteur": "NASA's Scientific Visualization Studio - University of Maryland College Park/Jeanette Kazmierczak, Kyle Helson, eMITS/Scott Wiessinger, eMITS/Sophia Roberts",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:NASA,_Partners_Prepare_EXCITE_for_Antarctic_Flight_(SVS15098_-_Palestine_July10_KH_001).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/NASA%2C_Partners_Prepare_EXCITE_for_Antarctic_Flight_%28SVS15098_-_Palestine_July10_KH_001%29.jpg/1280px-NASA%2C_Partners_Prepare_EXCITE_for_Antarctic_Flight_%28SVS15098_-_Palestine_July10_KH_001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1366,
+      "hauteur": 2048
+    }
+  ]
+}

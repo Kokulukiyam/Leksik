@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "pene",
+    "terme": "le pêne",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Pièce mobile de la serrure qui sort du vantail pour s'engager dans la gâche.",
+    "priorite": 3,
+    "requetes": [
+      "lock bolt latch",
+      "pêne serrure",
+      "latch bolt door edge"
+    ],
+    "incompatibles": [
+      "serrure-a-encastrer"
+    ],
+    "categoriesCommons": [
+      "Category:Latches",
+      "Category:Door locks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Lock closed Arab shop (Hebron).jpg",
+      "description": "Hebron . Arab shops are welded closed by the Israeli army.",
+      "categories": [
+        "Old City of Hebron",
+        "Photographs taken on 2004-08-16",
+        "Latches"
+      ],
+      "auteur": "Picture taken by Justin McIntosh ,",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lock_closed_Arab_shop_(Hebron).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Lock_closed_Arab_shop_%28Hebron%29.jpg/1280px-Lock_closed_Arab_shop_%28Hebron%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Al Curry, Three Door Latches, c. 1938, NGA 24110.jpg",
+      "description": "",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with pattypan",
+        "Artworks without Wikidata item",
+        "Door locks",
+        "Artworks with known accession number",
+        "Images from the National Gallery of Art",
+        "Index of American Design, National Gallery of Art (Washington, D.C.)"
+      ],
+      "auteur": "Al Curry",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al_Curry,_Three_Door_Latches,_c._1938,_NGA_24110.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Al_Curry%2C_Three_Door_Latches%2C_c._1938%2C_NGA_24110.jpg/1280px-Al_Curry%2C_Three_Door_Latches%2C_c._1938%2C_NGA_24110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3210,
+      "hauteur": 4113
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Old door latches Breckenridge.jpg",
+      "description": "Old and abandoned historic building Breckenridge Colorado",
+      "categories": [
+        "CC-Zero",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Latches",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "420 Photography",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_door_latches_Breckenridge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Old_door_latches_Breckenridge.jpg/1280px-Old_door_latches_Breckenridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 971
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:ArlandaAirportToiletDoorKnob-4.jpg",
+      "description": "",
+      "categories": [
+        "Stockholm-Arlanda Airport",
+        "Media lacking a description",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Toilets in Sweden",
+        "Door handles in Sweden",
+        "2016 in Stockholm County",
+        "Toilet doors"
+      ],
+      "auteur": "Leon S.K.",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ArlandaAirportToiletDoorKnob-4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/ArlandaAirportToiletDoorKnob-4.jpg/1280px-ArlandaAirportToiletDoorKnob-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:\"YKK AP\" lock on a Japanese balcony door, showing all positions - 1.jpg",
+      "description": "zámek u dveří",
+      "categories": [
+        "CC-Zero",
+        "YKK Group",
+        "Self-published work",
+        "Door locks",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Nov 2017-Aug 2019)",
+        "Files with coordinates missing SDC location of creation",
+        "Japan photographs taken on 2018-07-31",
+        "Windows in Japan (inside)"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22YKK_AP%22_lock_on_a_Japanese_balcony_door,_showing_all_positions_-_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%22YKK_AP%22_lock_on_a_Japanese_balcony_door%2C_showing_all_positions_-_1.jpg/1280px-%22YKK_AP%22_lock_on_a_Japanese_balcony_door%2C_showing_all_positions_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:At New York City 2024 114.jpg",
+      "description": "Paddle door latch in M Social Hotel Times Square New York",
+      "categories": [
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Midtown Manhattan in 2024",
+        "Latches",
+        "New York City photographs taken on 2024-03-04",
+        "March 2024 in Manhattan, New York City",
+        "M Social Hotel Times Square New York",
+        "Hotels in Midtown Manhattan",
+        "Photos by Mike Peel using an iPhone 12 Mini",
+        "Hotel doors",
+        "Photos by Mike Peel of New York City in 2024"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_New_York_City_2024_114.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/At_New_York_City_2024_114.jpg/1280px-At_New_York_City_2024_114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

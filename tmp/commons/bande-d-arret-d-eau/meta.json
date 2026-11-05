@@ -1,0 +1,155 @@
+{
+  "terme": {
+    "id": "bande-d-arret-d-eau",
+    "terme": "la bande d'arrêt d'eau",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Bande de caoutchouc ou de PVC noyée à cheval sur une reprise de bétonnage pour empêcher l'eau de passer.",
+    "priorite": 3,
+    "requetes": [
+      "waterstop concrete joint",
+      "bande d'arrêt d'eau waterstop",
+      "PVC waterstop"
+    ],
+    "incompatibles": [
+      "reprise-de-betonnage"
+    ],
+    "categoriesCommons": [
+      "Category:Waterproofing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Roof gap stop measure (right) (1540177932).jpg",
+      "description": "First Big Rain",
+      "categories": [
+        "Waterproofing",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Peretz Partensky"
+      ],
+      "auteur": "Peretz Partensky from San Francisco, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_gap_stop_measure_(right)_(1540177932).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Roof_gap_stop_measure_%28right%29_%281540177932%29.jpg/1280px-Roof_gap_stop_measure_%28right%29_%281540177932%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:岩本町駅 Iwamotocho Sta. (55561846707).jpg",
+      "description": "",
+      "categories": [
+        "Waterproofing",
+        "Iwamotocho Station",
+        "Media lacking a description",
+        "Blue tarpaulins in Japan",
+        "Ceilings in Japan",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Flickr images missing SDC copyright status",
+        "Black and yellow caution tape",
+        "Train station escalators in Japan",
+        "Out of service in Japan",
+        "Flickr images reviewed by FlickreviewR 2",
+        "October 2026 in rail transport in Tokyo",
+        "Plastic buckets",
+        "Tokyo photographs taken on 2026-10-01",
+        "Files from nagi usano Flickr stream",
+        "Railway photographs taken on 2026-10-01"
+      ],
+      "auteur": "nagi usano",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E5%B2%A9%E6%9C%AC%E7%94%BA%E9%A7%85_Iwamotocho_Sta._(55561846707).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%E5%B2%A9%E6%9C%AC%E7%94%BA%E9%A7%85_Iwamotocho_Sta._%2855561846707%29.jpg/1280px-%E5%B2%A9%E6%9C%AC%E7%94%BA%E9%A7%85_Iwamotocho_Sta._%2855561846707%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3571,
+      "hauteur": 2381
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Clasificación relojes y resistencia al agua.jpg",
+      "description": "Tabla de clasificación y resistencia al agua (Relojes)",
+      "categories": [
+        "Waterproofing",
+        "Watches",
+        "Charts",
+        "Self-published work"
+      ],
+      "auteur": "Casiolink",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clasificaci%C3%B3n_relojes_y_resistencia_al_agua.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Clasificaci%C3%B3n_relojes_y_resistencia_al_agua.jpg/1280px-Clasificaci%C3%B3n_relojes_y_resistencia_al_agua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1571,
+      "hauteur": 683
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Natural stone.jpg",
+      "description": "Granite restoration",
+      "categories": [
+        "Waterproofing",
+        "Tiles",
+        "Granite",
+        "Flooring",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Marble sinks"
+      ],
+      "auteur": "Tile Marble Granite",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Natural_stone.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Natural_stone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1251,
+      "hauteur": 858
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Construction of the new No. 42 tunnel of Alishan Railway 2023.jpg",
+      "description": "​阿里山鐵路新建42號隧道防水膜舖設及隧道壁體混凝土澆置作業。",
+      "categories": [
+        "Waterproofing",
+        "GWOIA",
+        "Attribution only license",
+        "Rail transport construction sites in Taiwan",
+        "Pouring concrete",
+        "Template Unknown (author)",
+        "Alishan Line",
+        "Rail tunnels in Chiayi County",
+        "Interiors of rail tunnels in Taiwan"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_of_the_new_No._42_tunnel_of_Alishan_Railway_2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Construction_of_the_new_No._42_tunnel_of_Alishan_Railway_2023.jpg/1280px-Construction_of_the_new_No._42_tunnel_of_Alishan_Railway_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:岩本町駅 Iwamotocho Sta. (55562971213).jpg",
+      "description": "",
+      "categories": [
+        "Waterproofing",
+        "Iwamotocho Station",
+        "Media lacking a description",
+        "Ceilings in Japan",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Flickr images missing SDC copyright status",
+        "Black and yellow caution tape",
+        "Train station escalators in Japan",
+        "Out of service in Japan",
+        "Flickr images reviewed by FlickreviewR 2",
+        "October 2026 in rail transport in Tokyo",
+        "Tokyo photographs taken on 2026-10-01",
+        "Files from nagi usano Flickr stream",
+        "Railway photographs taken on 2026-10-01"
+      ],
+      "auteur": "nagi usano",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E5%B2%A9%E6%9C%AC%E7%94%BA%E9%A7%85_Iwamotocho_Sta._(55562971213).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%E5%B2%A9%E6%9C%AC%E7%94%BA%E9%A7%85_Iwamotocho_Sta._%2855562971213%29.jpg/1280px-%E5%B2%A9%E6%9C%AC%E7%94%BA%E9%A7%85_Iwamotocho_Sta._%2855562971213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2432
+    }
+  ]
+}

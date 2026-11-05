@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "benne-a-beton",
+    "terme": "la benne à béton",
+    "categorie": "Chantier et outillage",
+    "definition": "Seau métallique conique suspendu à la grue, à trappe en bas, qui déverse le béton dans le coffrage.",
+    "priorite": 3,
+    "requetes": [
+      "concrete bucket crane",
+      "benne à béton grue",
+      "concrete skip"
+    ],
+    "incompatibles": [
+      "grue-a-tour"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete buckets"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:\"Some of the 40 four-yard concrete buckets.\" - NARA - 294071.jpg",
+      "description": "Scope and content: Photograph from Volume Two of a series of photo albums documenting the construction of the Grand Coulee Dam and related work on the Columbia Basin Project.",
+      "categories": [
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Concrete buckets",
+        "Artworks without Wikidata item",
+        "PD USBR",
+        "Template Unknown (author)",
+        "US National Archives series: Photograph albums, compiled 1903 - 1972",
+        "US National Archives location: other",
+        "Grand Coulee Dam Concrete pour"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Some_of_the_40_four-yard_concrete_buckets.%22_-_NARA_-_294071.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%22Some_of_the_40_four-yard_concrete_buckets.%22_-_NARA_-_294071.jpg/1280px-%22Some_of_the_40_four-yard_concrete_buckets.%22_-_NARA_-_294071.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2322
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Benne à béton pour grue à Lyon, mai 2019.jpg",
+      "description": "Une benne à béton pour grue, posée sur le bord de la rue du Bocage, dans le 8e arrondissement de Lyon.",
+      "categories": [
+        "Concrete buckets",
+        "Rue du Bocage (Lyon)",
+        "Self-published work",
+        "Files by User:Sebleouf",
+        "Files with coordinates missing SDC location of creation",
+        "May 2019 in Lyon",
+        "Auvergne-Rhône-Alpes photographs taken on 2019-05-29",
+        "Construction sites in Lyon",
+        "Images of Lyon 8e arrondissement by Sebleouf"
+      ],
+      "auteur": "Sebleouf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Benne_%C3%A0_b%C3%A9ton_pour_grue_%C3%A0_Lyon,_mai_2019.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Benne_%C3%A0_b%C3%A9ton_pour_grue_%C3%A0_Lyon%2C_mai_2019.jpg/1280px-Benne_%C3%A0_b%C3%A9ton_pour_grue_%C3%A0_Lyon%2C_mai_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3016
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Betonkrankübel mit Blumen usw.jpg",
+      "description": "Krankübel",
+      "categories": [
+        "Concrete buckets",
+        "Self-published work"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betonkrank%C3%BCbel_mit_Blumen_usw.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Betonkrank%C3%BCbel_mit_Blumen_usw.jpg/1280px-Betonkrank%C3%BCbel_mit_Blumen_usw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2882
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dumping a four-yard bucket of concrete - NARA - 294150.jpg",
+      "description": "Scope and content: Photograph from Volume Two of a series of photo albums documenting the construction of the Grand Coulee Dam and related work on the Columbia Basin Project.",
+      "categories": [
+        "1935 in Washington (state)",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Concrete buckets",
+        "Artworks without Wikidata item",
+        "PD USBR",
+        "Template Unknown (author)",
+        "US National Archives series: Photograph albums, compiled 1903 - 1972",
+        "November 1935 United States photographs",
+        "US National Archives location: other",
+        "Grand Coulee Dam Concrete pour"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dumping_a_four-yard_bucket_of_concrete_-_NARA_-_294150.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Dumping_a_four-yard_bucket_of_concrete_-_NARA_-_294150.jpg/1280px-Dumping_a_four-yard_bucket_of_concrete_-_NARA_-_294150.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2391,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Loading concrete at low-level concrete mixing plant for transport to dam site. Eight-cubic yard capacity buckets are... - NARA - 293923.jpg",
+      "description": "Scope and content: Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.",
+      "categories": [
+        "Images from the National Archives and Records Administration",
+        "Electric locomotives of the United States",
+        "Media contributed by the National Archives and Records Administration",
+        "Construction vehicles",
+        "Concrete buckets",
+        "Artworks without Wikidata item",
+        "PD USBR",
+        "Template Unknown (author)",
+        "US National Archives series: Photograph albums, compiled 1903 - 1972",
+        "Black and white photographs of men at work",
+        "US National Archives location: other",
+        "Special wagons",
+        "Six Companies Inc. concrete mixing plants at Hoover Dam construction site",
+        "Industrial locomotives of the United States"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Loading_concrete_at_low-level_concrete_mixing_plant_for_transport_to_dam_site._Eight-cubic_yard_capacity_buckets_are..._-_NARA_-_293923.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Loading_concrete_at_low-level_concrete_mixing_plant_for_transport_to_dam_site._Eight-cubic_yard_capacity_buckets_are..._-_NARA_-_293923.jpg/1280px-Loading_concrete_at_low-level_concrete_mixing_plant_for_transport_to_dam_site._Eight-cubic_yard_capacity_buckets_are..._-_NARA_-_293923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2084,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Placing the mud mat in the final approach structure in Harold Interlocking. 11-13-2019 (49070775026).jpg",
+      "description": "Placing the mud mat in the final approach structure in Harold Interlocking. 11-13-2019",
+      "categories": [
+        "Concrete buckets",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/11/15"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Placing_the_mud_mat_in_the_final_approach_structure_in_Harold_Interlocking._11-13-2019_(49070775026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Placing_the_mud_mat_in_the_final_approach_structure_in_Harold_Interlocking._11-13-2019_%2849070775026%29.jpg/1280px-Placing_the_mud_mat_in_the_final_approach_structure_in_Harold_Interlocking._11-13-2019_%2849070775026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2016,
+      "hauteur": 1512
+    }
+  ]
+}

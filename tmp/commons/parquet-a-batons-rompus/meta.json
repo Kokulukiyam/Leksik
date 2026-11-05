@@ -1,0 +1,123 @@
+{
+  "terme": {
+    "id": "parquet-a-batons-rompus",
+    "terme": "le parquet à bâtons rompus",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Parquet dont les lames rectangulaires se rencontrent à angle droit en zigzag.",
+    "priorite": 3,
+    "requetes": [
+      "herringbone parquet",
+      "parquet bâtons rompus",
+      "herringbone wood floor"
+    ],
+    "incompatibles": [
+      "parquet",
+      "parquet-point-de-hongrie"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Durch Stuhlrollen eines Bürostuhls abgenutzter Parkettlack auf historischem Eichenholz-Fischgrätparkett 02.jpg",
+      "description": "Parquet varnish worn away by the casters of an office chair on historic oak herringbone parquet flooring",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 11° E)",
+        "Damaged parquet flooring",
+        "Herringbone parquet flooring"
+      ],
+      "auteur": "Kai Kemmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Durch_Stuhlrollen_eines_B%C3%BCrostuhls_abgenutzter_Parkettlack_auf_historischem_Eichenholz-Fischgr%C3%A4tparkett_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Durch_Stuhlrollen_eines_B%C3%BCrostuhls_abgenutzter_Parkettlack_auf_historischem_Eichenholz-Fischgr%C3%A4tparkett_02.jpg/1280px-Durch_Stuhlrollen_eines_B%C3%BCrostuhls_abgenutzter_Parkettlack_auf_historischem_Eichenholz-Fischgr%C3%A4tparkett_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Durch Stuhlrollen eines Bürostuhls abgenutzter Parkettlack auf historischem Eichenholz-Fischgrätparkett 01.jpg",
+      "description": "Parquet varnish worn away by the casters of an office chair on historic oak herringbone parquet flooring",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 11° E)",
+        "Damaged parquet flooring",
+        "Herringbone parquet flooring"
+      ],
+      "auteur": "Kai Kemmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Durch_Stuhlrollen_eines_B%C3%BCrostuhls_abgenutzter_Parkettlack_auf_historischem_Eichenholz-Fischgr%C3%A4tparkett_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Durch_Stuhlrollen_eines_B%C3%BCrostuhls_abgenutzter_Parkettlack_auf_historischem_Eichenholz-Fischgr%C3%A4tparkett_01.jpg/1280px-Durch_Stuhlrollen_eines_B%C3%BCrostuhls_abgenutzter_Parkettlack_auf_historischem_Eichenholz-Fischgr%C3%A4tparkett_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Oak herringbone wood floor with two stripe wenge border.jpg",
+      "description": "Oak herringbone wood floor with two stripe wenge border",
+      "categories": [
+        "Wooden flooring",
+        "Self-published work"
+      ],
+      "auteur": "Pazzo4562",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oak_herringbone_wood_floor_with_two_stripe_wenge_border.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Oak_herringbone_wood_floor_with_two_stripe_wenge_border.jpg/1280px-Oak_herringbone_wood_floor_with_two_stripe_wenge_border.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 2136
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Here be Monsters - Flickr - aesop.jpg",
+      "description": "Here be Monsters",
+      "categories": [
+        "Interior of Bristol Central Library",
+        "Photographs taken on 2005-03-24",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore",
+        "Herringbone parquet flooring"
+      ],
+      "auteur": "aesop",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Here_be_Monsters_-_Flickr_-_aesop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Here_be_Monsters_-_Flickr_-_aesop.jpg/1280px-Here_be_Monsters_-_Flickr_-_aesop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Floor patterns Rådhuset Aarhus City Hall Denmark.jpg",
+      "description": "Close-up looking down at step between two sections of floor. There are three very different and contrasting patterns, parallel to one another. Above: brown wood herringbone floor. Underneath that, in the middle: two low brown wooden steps. Below that, mosaic tiled floor with varied patterns of triangles and squares in tiny black and white. Photo (c) Ciara Ní Riain",
+      "categories": [
+        "Self-published work",
+        "Floors in Denmark",
+        "Files with coordinates missing SDC location of creation",
+        "Aarhus City Hall - interior",
+        "Architectural elements in Aarhus"
+      ],
+      "auteur": "Ciara Ní Riain",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Floor_patterns_R%C3%A5dhuset_Aarhus_City_Hall_Denmark.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Floor_patterns_R%C3%A5dhuset_Aarhus_City_Hall_Denmark.jpg/1280px-Floor_patterns_R%C3%A5dhuset_Aarhus_City_Hall_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3236,
+      "hauteur": 1820
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Parkettmuster im Handwerkerdorf beim Stadtgeburtstag München 2025 01.jpg",
+      "description": "Parquet sample in the craft village at the celebrations of the city anniversary in Munich 2025 (French herringbone parquet)",
+      "categories": [
+        "Parquet flooring in Germany",
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Self-published work",
+        "Handwerkerdorf beim Stadtgeburtstag München 2025"
+      ],
+      "auteur": "Kritzolina",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Parkettmuster_im_Handwerkerdorf_beim_Stadtgeburtstag_M%C3%BCnchen_2025_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Parkettmuster_im_Handwerkerdorf_beim_Stadtgeburtstag_M%C3%BCnchen_2025_01.jpg/1280px-Parkettmuster_im_Handwerkerdorf_beim_Stadtgeburtstag_M%C3%BCnchen_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3378,
+      "hauteur": 5067
+    }
+  ]
+}

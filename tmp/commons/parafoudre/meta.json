@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "parafoudre",
+    "terme": "le parafoudre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil modulaire du tableau électrique, souvent avec un voyant, qui protège l'installation des surtensions dues à la foudre.",
+    "priorite": 3,
+    "requetes": [
+      "surge protection device DIN rail",
+      "parafoudre",
+      "surge arrester modular"
+    ],
+    "incompatibles": [
+      "tableau-electrique",
+      "disjoncteur"
+    ],
+    "categoriesCommons": [
+      "Category:Surge protectors",
+      "Category:Circuit breakers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Protector contra sobretensiones permanentes con reconexión automática.jpg",
+      "description": "Protector contra sobretensiones permanentes con reconexión automática",
+      "categories": [
+        "Surge protectors",
+        "Self-published work",
+        "Permanentes",
+        "Reconexión",
+        "Sobretensiones"
+      ],
+      "auteur": "Toscanocontrols",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Protector_contra_sobretensiones_permanentes_con_reconexi%C3%B3n_autom%C3%A1tica.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Protector_contra_sobretensiones_permanentes_con_reconexi%C3%B3n_autom%C3%A1tica.jpg/1280px-Protector_contra_sobretensiones_permanentes_con_reconexi%C3%B3n_autom%C3%A1tica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2519,
+      "hauteur": 2975
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Circuit Breaker.jpg",
+      "description": "National 20A circuit breaker for an apartment. The main breaker is on the left, and the three small breakers are on the right.",
+      "categories": [
+        "Circuit breakers",
+        "CC-Zero",
+        "Tokyo Electric Power Company",
+        "National (brand)",
+        "Self-published work",
+        "Japanese-language signs"
+      ],
+      "auteur": "Douglas Paul Perkins",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Circuit_Breaker.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Circuit_Breaker.jpg/1280px-Circuit_Breaker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Surge pro.JPG",
+      "description": "Power strip with basic surge protection (UK style). The neon light indicates whether protection is active or not.",
+      "categories": [
+        "Power strips",
+        "Surge protectors",
+        "Taken with Fujifilm FinePix E900",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Hiya111 ( talk )",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Surge_pro.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Surge_pro.JPG/1280px-Surge_pro.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3488,
+      "hauteur": 2616
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Breaker3phase2a proc.jpg",
+      "description": "Three pole common trip breaker for supplying a three-phase device. This breaker has a 2 A rating.",
+      "categories": [
+        "Circuit breakers",
+        "Three-phase electric power",
+        "License migration completed",
+        "Self-published work",
+        "GFDL-en"
+      ],
+      "auteur": "Glogger",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Breaker3phase2a_proc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breaker3phase2a_proc.jpg/1280px-Breaker3phase2a_proc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1407,
+      "hauteur": 1587
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Spike buster-Spike suppressor-electric-wire- extension-cord.jpg",
+      "description": "Spike buster-Spike suppressor-electric wire extension cord. It may be used for home computer electric circuit தமிழ்: வீடுகளில் கணினியை அமைக்கும் போது உருவாக்கப்படும் மின்சுற்றில் இது மிகவும் பயனாகும். இதனால் ஒரு கணினியின் திறன் காக்கப்படுகிறது. அடிக்கடி மின்னோட்டத்தில் வேறுபாடு வந்தால் கணினி பாழாகும்.",
+      "categories": [
+        "Surge protectors",
+        "Self-published work",
+        "Power switches",
+        "IEC 60417-5007",
+        "IEC 60417-5008",
+        "Multi-standard sockets",
+        "Power strips with extension cord",
+        "BS 546 plugs",
+        "BS 546 sockets"
+      ],
+      "auteur": "தகவலுழவன்",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spike_buster-Spike_suppressor-electric-wire-_extension-cord.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Spike_buster-Spike_suppressor-electric-wire-_extension-cord.jpg/1280px-Spike_buster-Spike_suppressor-electric-wire-_extension-cord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2286,
+      "hauteur": 1143
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bahnhof Mainz-Mombach - Weiche vor Oberleitungsmast.jpg",
+      "description": "Eine Weiche direkt neben einen Oberleitungsmast in Mainz-Mombach",
+      "categories": [
+        "Circuit breakers",
+        "CC-Zero",
+        "Bahnhof Mainz-Mombach",
+        "Self-published work",
+        "Railway points in Rhineland-Palatinate",
+        "Rail tracks in Mainz",
+        "2026 in rail transport in Mainz",
+        "Railway photographs taken on 2026-01-30",
+        "Mainz photographs taken on 2026-01-30"
+      ],
+      "auteur": "ManuelB701",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bahnhof_Mainz-Mombach_-_Weiche_vor_Oberleitungsmast.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bahnhof_Mainz-Mombach_-_Weiche_vor_Oberleitungsmast.jpg/1280px-Bahnhof_Mainz-Mombach_-_Weiche_vor_Oberleitungsmast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

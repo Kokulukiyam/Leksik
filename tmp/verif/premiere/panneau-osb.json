@@ -1,0 +1,53 @@
+{
+  "termId": "panneau-osb",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux ouvriers posent de grands panneaux de lamelles de bois orientées devant une vitrine.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Pittsburgh, États-Unis",
+      "note": "Panneaux OSB à gros copeaux bien visibles, dominants."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Usine de panneaux avec panache de vapeur dans un paysage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue d'usine lointaine, matériau invisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bureau dont le plateau est en panneau à copeaux, ordinateur et fauteuil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "OSB présent mais sujet = bureau ; texture peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Étagères et cloisons d'un vestiaire entièrement réalisées en panneaux à copeaux.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Poznań, Pologne",
+      "note": "OSB très visible sur les montants et les fonds, aspect de copeaux net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue aérienne d'une usine de panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Usine vue du ciel, aucun matériau visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bloc de panneau OSB épais posé sur fond noir, face et tranche visibles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan net sur les lamelles orientées, parfaitement typique."
+    }
+  ]
+}

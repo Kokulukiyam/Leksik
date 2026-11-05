@@ -1,0 +1,53 @@
+{
+  "termId": "calcaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros bloc de roche claire dans une carrière, entouré d'autres blocs.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Morawica, Pologne",
+      "note": "Bloc de calcaire en carrière, net et dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur d'église en moellons ocre avec soubassement en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dresde",
+      "note": "Pierre mélangée, matière peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Angle d'un édifice en pierre de taille avec grille et boîtier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Encombré, matière peu nette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Surface rocheuse piquée de coquilles fossiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan de fossiles, pas lisible comme matériau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de pierre de taille blanche en grands blocs, avec une petite fenêtre grillagée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Matilla de los Caños, Espagne",
+      "note": "Calcaire clair poreux en appareil régulier, dominant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pierre d'un pont de chemin de fer avec panneaux et plaques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leixlip, Irlande",
+      "note": "Panneaux et textes visibles."
+    }
+  ]
+}

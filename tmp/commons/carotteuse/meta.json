@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "carotteuse",
+    "terme": "la carotteuse",
+    "categorie": "Chantier et outillage",
+    "definition": "Machine à couronne diamantée qui découpe un trou rond parfait dans le béton ou la maçonnerie.",
+    "priorite": 3,
+    "requetes": [
+      "core drill concrete",
+      "carotteuse béton",
+      "diamond core drilling"
+    ],
+    "categoriesCommons": [
+      "Category:Core drills",
+      "Category:Drilling rigs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Azione 1 carotatrice stazionaria.jpg",
+      "description": "Rig mounted core drill in action",
+      "categories": [
+        "Core drills",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Costantino Figini",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Azione_1_carotatrice_stazionaria.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Azione_1_carotatrice_stazionaria.jpg/1280px-Azione_1_carotatrice_stazionaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1370,
+      "hauteur": 882
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bohrung-wasserkunst hg.jpg",
+      "description": "Drillsite at Wasserkunst, Hannover",
+      "categories": [
+        "Boreholes in Germany",
+        "Drilling rigs",
+        "Self-published work"
+      ],
+      "auteur": "Hannes Grobe",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bohrung-wasserkunst_hg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bohrung-wasserkunst_hg.jpg/1280px-Bohrung-wasserkunst_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ceramic drills.jpg",
+      "description": "Ceramic drilling.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix S9",
+        "License migration redundant",
+        "Core drills",
+        "Hole saws",
+        "Self-published work",
+        "Ceramic techniques"
+      ],
+      "auteur": "Boatbuilder",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_drills.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Ceramic_drills.jpg/1280px-Ceramic_drills.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:277 Broadway Being Demolished 02.jpg",
+      "description": "Large parts of the old 277 Broadway / Westfield Newmarket site being demolished in 2018 before being rebuilt. Looking northwest from Highwic House hill.",
+      "categories": [
+        "CC-Zero",
+        "Drilling rigs",
+        "Self-published work",
+        "Containers in New Zealand",
+        "Files with coordinates missing SDC location of creation",
+        "New Zealand photographs taken on 2018-06-06",
+        "Westfield Newmarket",
+        "June 2018 in Auckland"
+      ],
+      "auteur": "Ingolfson",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:277_Broadway_Being_Demolished_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/277_Broadway_Being_Demolished_02.jpg/1280px-277_Broadway_Being_Demolished_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4260,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Core drill in action IMG 20201029 165313188.jpg",
+      "description": "Core drill in action in Tirupur, Tamil Nadu, India",
+      "categories": [
+        "Core drills",
+        "Self-published work",
+        "Photos by PJ",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "PJeganathan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Core_drill_in_action_IMG_20201029_165313188.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Core_drill_in_action_IMG_20201029_165313188.jpg/1280px-Core_drill_in_action_IMG_20201029_165313188.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2000-Kienzle-Dia (561).jpg",
+      "description": "Albania in 2000",
+      "categories": [
+        "Petroleum industry in Albania",
+        "Drilling rigs",
+        "2000 in Albania",
+        "Self-published work",
+        "Unidentified locations in Albania"
+      ],
+      "auteur": "Helmut Kienzle",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2000-Kienzle-Dia_(561).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2000-Kienzle-Dia_%28561%29.jpg/1280px-2000-Kienzle-Dia_%28561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1396,
+      "hauteur": 917
+    }
+  ]
+}

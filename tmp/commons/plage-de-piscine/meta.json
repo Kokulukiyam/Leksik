@@ -1,0 +1,120 @@
+{
+  "terme": {
+    "id": "plage-de-piscine",
+    "terme": "la plage de piscine",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Surface dallée ou en bois qui entoure le bassin d'une piscine.",
+    "priorite": 3,
+    "requetes": [
+      "pool deck",
+      "plage de piscine",
+      "pool deck paving"
+    ],
+    "incompatibles": [
+      "margelle"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Child swimming in pool while adult prepares to assist undefined.jpg",
+      "description": "A child in pink swim gear is happily swimming in a clear blue pool, while an adult reaches out to provide assistance. It is a bright, sunny afternoon.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_swimming_in_pool_while_adult_prepares_to_assist_undefined.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Child_swimming_in_pool_while_adult_prepares_to_assist_undefined.jpg/1280px-Child_swimming_in_pool_while_adult_prepares_to_assist_undefined.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:5e nage.jpg",
+      "description": "Illustration d’une course de 5e nage",
+      "categories": [
+        "Swimming pools",
+        "Swimming lane lines",
+        "Self-published work",
+        "People in swimming pools"
+      ],
+      "auteur": "LUCPOPOV",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5e_nage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/5e_nage.jpg/1280px-5e_nage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3437,
+      "hauteur": 1684
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A young child wearing a red shirt plays beside an inflatable pool filled with vibrant floaties.jpg",
+      "description": "A young child wearing a red shirt plays beside an inflatable pool filled with vibrant floaties. The setting is a backyard surrounded by greenery, indicating summer fun during the evening.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_young_child_wearing_a_red_shirt_plays_beside_an_inflatable_pool_filled_with_vibrant_floaties.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/A_young_child_wearing_a_red_shirt_plays_beside_an_inflatable_pool_filled_with_vibrant_floaties.jpg/1280px-A_young_child_wearing_a_red_shirt_plays_beside_an_inflatable_pool_filled_with_vibrant_floaties.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A young child stands in shallow water, enjoying the coolness of the pool while wearing a colorful swimsuit. The sunlight reflects off the water, creating a joyful atmosphere.jpg",
+      "description": "A young child stands in shallow water, enjoying the coolness of the pool while wearing a colorful swimsuit. The sunlight reflects off the water, creating a joyful atmosphere.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_young_child_stands_in_shallow_water,_enjoying_the_coolness_of_the_pool_while_wearing_a_colorful_swimsuit._The_sunlight_reflects_off_the_water,_creating_a_joyful_atmosphere.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/A_young_child_stands_in_shallow_water%2C_enjoying_the_coolness_of_the_pool_while_wearing_a_colorful_swimsuit._The_sunlight_reflects_off_the_water%2C_creating_a_joyful_atmosphere.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A person is in the water. Back view.jpg",
+      "description": "A person is in the water, facing away from the camera. Another person is swimming nearby. The scene shows a quiet indoor pool area with lights reflecting on the water.",
+      "categories": [
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_person_is_in_the_water._Back_view.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/A_person_is_in_the_water._Back_view.jpg/1280px-A_person_is_in_the_water._Back_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5085,
+      "hauteur": 3390
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:C90U7529.jpg",
+      "description": "Concordian50meterpool",
+      "categories": [
+        "GFDL",
+        "Swimming pools",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work"
+      ],
+      "auteur": "aom",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C90U7529.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/C90U7529.jpg/1280px-C90U7529.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5052,
+      "hauteur": 3368
+    }
+  ]
+}

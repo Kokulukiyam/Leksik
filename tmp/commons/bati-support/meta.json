@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "bati-support",
+    "terme": "le bâti-support",
+    "categorie": "Réseaux et équipements",
+    "definition": "Châssis métallique fixé au mur ou au sol, intégrant le réservoir de chasse, sur lequel on accroche un WC suspendu avant de l'habiller d'une cloison.",
+    "priorite": 3,
+    "requetes": [
+      "concealed toilet cistern frame installation",
+      "bâti-support WC",
+      "toilet frame Geberit installation"
+    ],
+    "incompatibles": [
+      "wc-suspendu"
+    ],
+    "categoriesCommons": [
+      "Category:Toilets"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Auschwitz concentration camp I 21.JPG",
+      "description": "Auschwitz concentration camp (I)",
+      "categories": [
+        "Toilets",
+        "Self-published work",
+        "Auschwitz I building interiors"
+      ],
+      "auteur": "Superchilum",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Auschwitz_concentration_camp_I_21.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Auschwitz_concentration_camp_I_21.JPG/1280px-Auschwitz_concentration_camp_I_21.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bellingham, WA Railroad Avenue 1.jpg",
+      "description": "Plaques noting trash content of concrete used to pave a portion of Inter Urban Trail that used to be railroad right-of-way located at the north end of Railroad Avenue.",
+      "categories": [
+        "Toilets",
+        "Recycling",
+        "Pavements",
+        "Self-published work",
+        "Trail signs",
+        "Concrete architecture in the United States"
+      ],
+      "auteur": "Oobspacer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bellingham,_WA_Railroad_Avenue_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bellingham%2C_WA_Railroad_Avenue_1.jpg/1280px-Bellingham%2C_WA_Railroad_Avenue_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2648,
+      "hauteur": 1696
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Arbeiders op het terrein van een keramiekfabriek in Bersjeba waarvan er een een , Bestanddeelnr 255-4351.jpg",
+      "description": "Collectie / Archief : Fotocollectie Van de Poll Reportage / Serie : [ onbekend ] Beschrijving : Arbeiders op het terrein van een keramiekfabriek in Bersjeba waarvan er een een wagentje duwt. langs de kant staan wasbakken en wc-potten opgestapeld Datum : 1 januari 1964 Locatie : Haifa, Israël Trefwoorden : arbeiders, fabrieken, industrie, keramiek, vervoer, wasbakken Fotograaf : Poll, Willem van de, [onbekend] Auteursrechthebbende : Nationaal Archief Materiaalsoort : Negatief (zwart/wit) Nummer archiefinventaris : bekijk toegang 2.24.14.02 Bestanddeelnummer : 255-4351",
+      "categories": [
+        "Toilets",
+        "CC-Zero",
+        "Images from Nationaal Archief",
+        "Harsa",
+        "Photographs by Willem van de Poll in Beersheba, Israel (1964)"
+      ],
+      "auteur": "Willem van de Poll",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arbeiders_op_het_terrein_van_een_keramiekfabriek_in_Bersjeba_waarvan_er_een_een_,_Bestanddeelnr_255-4351.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Arbeiders_op_het_terrein_van_een_keramiekfabriek_in_Bersjeba_waarvan_er_een_een_%2C_Bestanddeelnr_255-4351.jpg/1280px-Arbeiders_op_het_terrein_van_een_keramiekfabriek_in_Bersjeba_waarvan_er_een_een_%2C_Bestanddeelnr_255-4351.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2617,
+      "hauteur": 2655
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:At La Palma 2021 0067.jpg",
+      "description": "At La Palma 2021.",
+      "categories": [
+        "Toilets",
+        "Baths",
+        "Interior of Museo Casa Roja",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by Mike Peel using a Canon EOS 90D"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_La_Palma_2021_0067.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/At_La_Palma_2021_0067.jpg/1280px-At_La_Palma_2021_0067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4640,
+      "hauteur": 6960
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20230704 180021 toilet drain.jpg",
+      "description": "A toilet drain",
+      "categories": [
+        "Toilets",
+        "Self-published work"
+      ],
+      "auteur": "Alexios09",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20230704_180021_toilet_drain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/20230704_180021_toilet_drain.jpg/1280px-20230704_180021_toilet_drain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Arab-baths.jpg",
+      "description": "Arab Baths",
+      "categories": [
+        "Toilets",
+        "Baths",
+        "Self-published work",
+        "Hammams in Spain"
+      ],
+      "auteur": "Travel dreamer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arab-baths.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Arab-baths.jpg/1280px-Arab-baths.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 1350
+    }
+  ]
+}

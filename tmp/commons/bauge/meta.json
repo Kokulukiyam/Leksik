@@ -1,0 +1,122 @@
+{
+  "terme": {
+    "id": "bauge",
+    "terme": "la bauge",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Terre crue mêlée de paille, empilée en couches épaisses et retaillée pour former des murs massifs.",
+    "priorite": 3,
+    "requetes": [
+      "cob wall",
+      "cob house",
+      "maison en bauge"
+    ],
+    "incompatibles": [
+      "pise",
+      "banco"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cob wall, Oakham - geograph.org.uk - 2607621.jpg",
+      "description": "Cob wall, Oakham",
+      "categories": [
+        "Oakham",
+        "Cob (building material)",
+        "Images from Geograph Britain and Ireland",
+        "Mud walls in the United Kingdom"
+      ],
+      "auteur": "Michael Trolove",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cob_wall,_Oakham_-_geograph.org.uk_-_2607621.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cob_wall%2C_Oakham_-_geograph.org.uk_-_2607621.jpg/1280px-Cob_wall%2C_Oakham_-_geograph.org.uk_-_2607621.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cob built shed, Sampford Courtenay, Devon.jpg",
+      "description": "Cob built shed, Sampford Courtenay, Devon",
+      "categories": [
+        "Sampford Courtenay",
+        "Cob (building material)",
+        "Self-published work",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cob_built_shed,_Sampford_Courtenay,_Devon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cob_built_shed%2C_Sampford_Courtenay%2C_Devon.jpg/1280px-Cob_built_shed%2C_Sampford_Courtenay%2C_Devon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4420,
+      "hauteur": 3083
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cob-fireplace-TN.jpg",
+      "description": "Partially completed giant fireplace made of cob, at the Ecovillage Training Center in Summertown, Tennessee.",
+      "categories": [
+        "Taken with Olympus SP-550UZ",
+        "Sustainable architecture",
+        "Cob (building material)",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "GaylaLin",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cob-fireplace-TN.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Cob-fireplace-TN.jpg/1280px-Cob-fireplace-TN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Casa cob.jpg",
+      "description": "Small construction made of cob material",
+      "categories": [
+        "GFDL",
+        "Taken with Kodak EasyShare C743",
+        "Cob (building material)",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Rafael Arenhart",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_cob.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Casa_cob.jpg/1280px-Casa_cob.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cob House (223152759).jpeg",
+      "description": "500px provided description: Cob House [#door ,#brick ,#wall ,#arch ,#steps ,#attic ,#dungeon ,#archeological ,#cloister ,#alcove ,#masonry ,#arched]",
+      "categories": [
+        "Cob (building material)",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Maple Braier",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cob_House_(223152759).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Cob_House_%28223152759%29.jpeg/1280px-Cob_House_%28223152759%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1150
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cob wall, Hallaton - geograph.org.uk - 3412406.jpg",
+      "description": "Cob wall, Hallaton",
+      "categories": [
+        "Hallaton",
+        "Cob (building material)",
+        "Images from Geograph Britain and Ireland",
+        "Mud walls in the United Kingdom"
+      ],
+      "auteur": "Michael Trolove",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cob_wall,_Hallaton_-_geograph.org.uk_-_3412406.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cob_wall%2C_Hallaton_-_geograph.org.uk_-_3412406.jpg/1280px-Cob_wall%2C_Hallaton_-_geograph.org.uk_-_3412406.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

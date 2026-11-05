@@ -1,0 +1,53 @@
+{
+  "terme": {
+    "id": "baffle-acoustique",
+    "terme": "le baffle acoustique",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Panneau absorbant suspendu verticalement sous un plafond pour réduire la réverbération.",
+    "priorite": 3,
+    "requetes": [
+      "acoustic baffles ceiling",
+      "baffles acoustiques suspendus",
+      "hanging acoustic baffles"
+    ],
+    "incompatibles": [
+      "panneau-acoustique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Panorama of Acoustically Crafted Ceiling - Sun Studio - Memphis - Tennessee - USA.jpg",
+      "description": "Panorama of Acoustically Crafted Ceiling - Sun Studio - Memphis - Tennessee - USA",
+      "categories": [
+        "Taken with Sony DSC-HX100V",
+        "Sun Studio",
+        "Self-published work",
+        "Photographs by Adam Jones",
+        "Sound baffles on recording studios"
+      ],
+      "auteur": "Adam Jones, Ph.D.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Panorama_of_Acoustically_Crafted_Ceiling_-_Sun_Studio_-_Memphis_-_Tennessee_-_USA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Panorama_of_Acoustically_Crafted_Ceiling_-_Sun_Studio_-_Memphis_-_Tennessee_-_USA.jpg/1280px-Panorama_of_Acoustically_Crafted_Ceiling_-_Sun_Studio_-_Memphis_-_Tennessee_-_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4912,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:DSAI DGH 0713-22.jpg",
+      "description": "Detail view of the adjustable acoustic ceiling baffles",
+      "categories": [
+        "David Geffen Hall",
+        "Self-published work",
+        "Interiors of concert halls"
+      ],
+      "auteur": "Djanssen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DSAI_DGH_0713-22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/DSAI_DGH_0713-22.jpg/1280px-DSAI_DGH_0713-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 1200
+    }
+  ]
+}

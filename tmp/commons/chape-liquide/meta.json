@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "chape-liquide",
+    "terme": "la chape liquide",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Chape fluide coulée à la pompe, qui se met de niveau d'elle-même et donne une surface très lisse.",
+    "priorite": 3,
+    "requetes": [
+      "self levelling screed pouring",
+      "chape liquide",
+      "anhydrite screed"
+    ],
+    "incompatibles": [
+      "chape",
+      "ragreage"
+    ],
+    "categoriesCommons": [
+      "Category:Screeds",
+      "Category:Floor construction"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dnt poli.JPG",
+      "description": "ДНТ",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 20D",
+        "License migration redundant",
+        "Self-published work",
+        "Floor construction",
+        "People measuring with spirit level"
+      ],
+      "auteur": "Patrick69",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dnt_poli.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Dnt_poli.JPG/1280px-Dnt_poli.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2336,
+      "hauteur": 3504
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:DIEGO GARCIA (Sept 21, 2019) (5814019).jpg",
+      "description": "DIEGO GARCIA (Sept. 21, 2019) Equipment Operator 3rd Class Joseph Wilson, assigned to Naval Mobile Construction Battalion (NMCB) 4, uses screeding board to distribute and level out concrete. NMCB 4 is forward-deployed throughout the Indo-Pacific region ready to support major combat operations, humanitarian assistance and disaster relief and to provide general engineering and civil support to U.S. and joint forces. (U.S. Navy photo by Builder 3rd Class Emma R. Soflin/Released)",
+      "categories": [
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "United Kingdom photographs taken on 2019-09-21",
+        "United States Navy in 2019",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, United Kingdom (review needed)",
+        "Screeds",
+        "Screeding"
+      ],
+      "auteur": "U.S. Navy photo by [null Courtesy]",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:DIEGO_GARCIA_(Sept_21,_2019)_(5814019).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/DIEGO_GARCIA_%28Sept_21%2C_2019%29_%285814019%29.jpg/1280px-DIEGO_GARCIA_%28Sept_21%2C_2019%29_%285814019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Estrichglaettung 1.jpg",
+      "description": "Estrich-Glättung",
+      "categories": [
+        "GFDL",
+        "Taken with Medion 636Z3",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Floor construction"
+      ],
+      "auteur": "Hundehalter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Estrichglaettung_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Estrichglaettung_1.jpg/1280px-Estrichglaettung_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1584,
+      "hauteur": 1733
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:LiquidScreed.jpg",
+      "description": "Liquid Screed has been pumped over UFH pipes",
+      "categories": [
+        "Self-published work",
+        "Screeds"
+      ],
+      "auteur": "Southern Liquid Screed",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LiquidScreed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/LiquidScreed.jpg/1280px-LiquidScreed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Estrichverlegung 1.jpg",
+      "description": "Estrichverlegung",
+      "categories": [
+        "GFDL",
+        "Taken with Medion 636Z3",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Floor construction"
+      ],
+      "auteur": "Hundehalter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Estrichverlegung_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Estrichverlegung_1.jpg/1280px-Estrichverlegung_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2864,
+      "hauteur": 2152
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Estrichpumpe.jpg",
+      "description": "eine Estrichpumpe als LKW-Anhänger; Trichter zur Seite geklappt, Deckel verschlossen, der Estrich wird gerade durch den Druckschlauch zur Verbrauchsstelle gepumpt",
+      "categories": [
+        "GFDL",
+        "Taken with Medion 636Z3",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Floor construction",
+        "Screed Pumps"
+      ],
+      "auteur": "Hundehalter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Estrichpumpe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Estrichpumpe.jpg/1280px-Estrichpumpe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2864,
+      "hauteur": 2152
+    }
+  ]
+}

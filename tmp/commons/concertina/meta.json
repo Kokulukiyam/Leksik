@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "concertina",
+    "terme": "le concertina",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Rouleau de fil barbelé à lames tranchantes, déployé en spirales en haut d'un mur ou d'une clôture.",
+    "priorite": 3,
+    "requetes": [
+      "razor wire coil wall",
+      "concertina barbelé",
+      "concertina wire"
+    ],
+    "incompatibles": [
+      "fil-barbele"
+    ],
+    "categoriesCommons": [
+      "Category:Concertina wire"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Airmen maintain base security (11737198885).jpg",
+      "description": "Staff Sgt. Adam Ross performs maintenance on concertina wire Dec. 12, 2013, at Transit Center at Manas, Kyrgyzstan. Concertina wire has razor-sharp edges, placed in coils as a barrier to deter anyone trying to breach a perimeter. Ross is a 376th Expeditionary Security Forces Squadron patrolman. (U.S. Air Force photo by Senior Airman George Goslin/Released)",
+      "categories": [
+        "Transit Center at Manas",
+        "Concertina wire",
+        "PD US Air Force",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by the United States Air Force",
+        "376th Expeditionary Security Forces Squadron"
+      ],
+      "auteur": "US Air Force from USA",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Airmen_maintain_base_security_(11737198885).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Airmen_maintain_base_security_%2811737198885%29.jpg/1280px-Airmen_maintain_base_security_%2811737198885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4256,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bunkers 1. (3472675958).jpg",
+      "description": "The bunkers next to the Aussie bit of the compound.",
+      "categories": [
+        "Concertina wire",
+        "Hesco bastions",
+        "Camouflage nettings",
+        "Sandbags as fortifications",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Jersey barriers as fortifications"
+      ],
+      "auteur": "ian munroe",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bunkers_1._(3472675958).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bunkers_1._%283472675958%29.jpg/1280px-Bunkers_1._%283472675958%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 1998
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:20131207 Istanbul 119.jpg",
+      "description": "2013-02-07 in Istanbul.",
+      "categories": [
+        "Taken with Olympus XZ-2",
+        "Kadıköy",
+        "Concertina wire",
+        "Turkey photographs taken on 2013-12-07",
+        "Self-published work",
+        "December 2013 in Istanbul",
+        "Photographs by Mark Ahsmann"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20131207_Istanbul_119.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/20131207_Istanbul_119.jpg/1280px-20131207_Istanbul_119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Behind the fence - panoramio.jpg",
+      "description": "Behind the fence",
+      "categories": [
+        "Sikorsky CH-53E Super Stallion",
+        "Concertina wire",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Photographs taken on 2008-10-31",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Barbed wire fences",
+        "Bokeh photographs of vehicles",
+        "Concertina wire fences"
+      ],
+      "auteur": "Twips",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Behind_the_fence_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Behind_the_fence_-_panoramio.jpg/1280px-Behind_the_fence_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1700,
+      "hauteur": 1207
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bunkers 2. (3472674802).jpg",
+      "description": "More bunkers next to the Aussie compound.",
+      "categories": [
+        "Concertina wire",
+        "Hesco bastions",
+        "Camouflage nettings",
+        "Sandbags as fortifications",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "ian munroe",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bunkers_2._(3472674802).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bunkers_2._%283472674802%29.jpg/1280px-Bunkers_2._%283472674802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 1998
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:3rd Brigade, 82nd Airborne Division convoy seen through concertina wire.jpg",
+      "description": "ARRIVAL OF THE 3RD BDE, 82ND ABN DIV IN VIETNAM. A convoy carrying elements of the 3rd Brigade, 82nd Airborne Division, moves out to a staging area. NARA 111-CCV-618-CC46888",
+      "categories": [
+        "PD US Army",
+        "Concertina wire",
+        "Vietnam War in February 1968",
+        "3rd Brigade, 82nd Airborne Division in the Vietnam War"
+      ],
+      "auteur": "SSG Luis Dacurro",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:3rd_Brigade,_82nd_Airborne_Division_convoy_seen_through_concertina_wire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/3rd_Brigade%2C_82nd_Airborne_Division_convoy_seen_through_concertina_wire.jpg/1280px-3rd_Brigade%2C_82nd_Airborne_Division_convoy_seen_through_concertina_wire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1431,
+      "hauteur": 1117
+    }
+  ]
+}

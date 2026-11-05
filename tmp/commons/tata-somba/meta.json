@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "tata-somba",
+    "terme": "le tata somba",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Maison-forteresse en terre à étage des Somba (Betammaribé) du nord du Bénin et du Togo, aux tourelles cylindriques coiffées de toits coniques de paille.",
+    "priorite": 3,
+    "requetes": [
+      "tata somba",
+      "Koutammakou",
+      "takienta house"
+    ],
+    "incompatibles": [
+      "case",
+      "banco"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Les cases de Tata Somba à Natitingou.jpg",
+      "description": "Case de Tata Somba",
+      "categories": [
+        "CC-Zero",
+        "Natitingou",
+        "Self-published work"
+      ],
+      "auteur": "Line 1921",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Les_cases_de_Tata_Somba_%C3%A0_Natitingou.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Les_cases_de_Tata_Somba_%C3%A0_Natitingou.jpg/1280px-Les_cases_de_Tata_Somba_%C3%A0_Natitingou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Tata Somba de Nadoba.jpg",
+      "description": "Tata Somba, Château traditionnel au nord-est du Togo construite avec de la terre crue (le Banco) et des matériaux végétaux.",
+      "categories": [
+        "Koutammakou",
+        "Nadoba",
+        "Self-published work",
+        "Cultural heritage monuments in Togo",
+        "Images from Wiki Loves Monuments 2024",
+        "Mud buildings in Togo",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Uploaded via Campaign:wlm-tg",
+        "Images from Wiki Loves Monuments 2024 in Togo"
+      ],
+      "auteur": "Step may",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tata_Somba_de_Nadoba.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Tata_Somba_de_Nadoba.jpg/1280px-Tata_Somba_de_Nadoba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Tata somba, la maison traditionnelle à étage.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-GX7",
+        "Self-published work",
+        "F-number f/6.3",
+        "Images from Wiki Loves Africa 2022",
+        "Best images from Wiki Loves Africa 2022",
+        "Vernacular architecture of Benin",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Benin",
+        "Lens focal length 14 mm"
+      ],
+      "auteur": "Justin ABADJAYE",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tata_somba,_la_maison_traditionnelle_%C3%A0_%C3%A9tage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tata_somba%2C_la_maison_traditionnelle_%C3%A0_%C3%A9tage.jpg/1280px-Tata_somba%2C_la_maison_traditionnelle_%C3%A0_%C3%A9tage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1880,
+      "hauteur": 1412
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tata somba otamari.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-GX7",
+        "Self-published work",
+        "F-number f/5.6",
+        "Images from Wiki Loves Africa 2022",
+        "Vernacular architecture of Benin",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Benin",
+        "Images from Wiki Loves Africa 2022 in Benin Best Images",
+        "Lens focal length 246 mm"
+      ],
+      "auteur": "Justin ABADJAYE",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tata_somba_otamari.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Tata_somba_otamari.jpg/1280px-Tata_somba_otamari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1880,
+      "hauteur": 1412
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Tata-somba-Dorf.jpg",
+      "description": "Das Volk der Tata Somba im Norden von Benin.",
+      "categories": [
+        "Buildings in Benin",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Dominik Schwarz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tata-somba-Dorf.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Tata-somba-Dorf.jpg/1280px-Tata-somba-Dorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Tata Somba 1a.jpg",
+      "description": "Das Volk der Tata Somba im Norden von Benin.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Vernacular architecture of Benin"
+      ],
+      "auteur": "Dominik Schwarz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tata_Somba_1a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Tata_Somba_1a.jpg/1280px-Tata_Somba_1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3499,
+      "hauteur": 2332
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "terme": {
+    "id": "porte-a-tambour",
+    "terme": "la porte à tambour",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte d'entrée formée de vantaux vitrés qui tournent autour d'un axe central dans un cylindre.",
+    "priorite": 3,
+    "requetes": [
+      "incategory:\"Revolving doors\"",
+      "porte à tambour",
+      "revolving door"
+    ],
+    "incompatibles": [
+      "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Revolving doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Outside Sofia Airport 20090409 023.JPG",
+      "description": "Sofia Airport, Bulgaria",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Revolving doors",
+        "Sofia Airport doors"
+      ],
+      "auteur": "Apostoloff",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Outside_Sofia_Airport_20090409_023.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Outside_Sofia_Airport_20090409_023.JPG/1280px-Outside_Sofia_Airport_20090409_023.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 1504
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Back door of Markazi Masjid Aishmuqam Jammu and Kashmir.jpg",
+      "description": "back door of Markazi Masjid Aishmuqam Jammu and Kashmir",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Uploaded via Campaign:Heritage Lens",
+        "Heritage Lens - Iteration 6"
+      ],
+      "auteur": "Sabaaya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Back_door_of_Markazi_Masjid_Aishmuqam_Jammu_and_Kashmir.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Back_door_of_Markazi_Masjid_Aishmuqam_Jammu_and_Kashmir.jpg/1280px-Back_door_of_Markazi_Masjid_Aishmuqam_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Station Bonaventure 19.JPG",
+      "description": "Station de métro Bonaventure, Montréal",
+      "categories": [
+        "Revolving doors",
+        "Bonaventure (Montreal Metro)",
+        "Self-published work"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Station_Bonaventure_19.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Station_Bonaventure_19.JPG/1280px-Station_Bonaventure_19.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:9 фото Дверь в кабину машиниста.jpg",
+      "description": "Производство дверей и огнестойких перегородок для магистрального рельсового транспорта",
+      "categories": [
+        "Doors",
+        "Self-published work"
+      ],
+      "auteur": "Красноярские машиностроительные компоненты",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg/1280px-9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4736,
+      "hauteur": 3063
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Station Bonaventure 20.JPG",
+      "description": "Station de métro Bonaventure, Montréal",
+      "categories": [
+        "Revolving doors",
+        "Bonaventure (Montreal Metro)",
+        "Self-published work"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Station_Bonaventure_20.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Station_Bonaventure_20.JPG/1280px-Station_Bonaventure_20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:ANDRIK ↟ LANGFIELD ↟ PETRIDES 2017-03-28 (Unsplash).jpg",
+      "description": "ANDRIK ↟ LANGFIELD ↟ PETRIDES 2017-03-28",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "ANDRIK ↟ LANGFIELD ↟ PETRIDES the_alp_photography",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ANDRIK_%E2%86%9F_LANGFIELD_%E2%86%9F_PETRIDES_2017-03-28_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ANDRIK_%E2%86%9F_LANGFIELD_%E2%86%9F_PETRIDES_2017-03-28_%28Unsplash%29.jpg/1280px-ANDRIK_%E2%86%9F_LANGFIELD_%E2%86%9F_PETRIDES_2017-03-28_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3358,
+      "hauteur": 5037
+    }
+  ]
+}

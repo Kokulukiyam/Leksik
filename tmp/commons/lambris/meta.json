@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "lambris",
+    "terme": "le lambris",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Revêtement de mur ou de plafond fait de lames de bois emboîtées.",
+    "priorite": 2,
+    "requetes": [
+      "wood paneling wall",
+      "lambris bois",
+      "tongue and groove wood ceiling"
+    ],
+    "incompatibles": [
+      "boiserie",
+      "bardage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Leeds Central Library 21 February 2019 (212).JPG",
+      "description": "Interior of the former Municipal Buildings (now the Central Library), Leeds, West Yorkshire, England, built 1879-1884 to the design of George Corson. The general interior carving was executed by a team led by John Wormald Appleyard. The alabaster arch in the main entrance was made by Farmer & Brindley of London, and the reading room (now cafe) medallions were carved by Benjamin Creswick. George Wilson made the leaded clerestory windows of the original reference library, and Powell Bros made the rest of the stained glass and leaded lights. Doulton supplied the terracotta tiles in what is now (2",
+      "categories": [
+        "GFDL",
+        "Interior of Leeds Central Library",
+        "License migration redundant",
+        "Dado (architecture)",
+        "Self-published work",
+        "Staircases in England",
+        "Ceramic wall tiles"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Leeds_Central_Library_21_February_2019_(212).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Leeds_Central_Library_21_February_2019_%28212%29.JPG/1280px-Leeds_Central_Library_21_February_2019_%28212%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4232,
+      "hauteur": 3436
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Château de Valençay Escalier d'honneur.jpg",
+      "description": "Château de Valençay, Valençay (Indre, France), cage de l'escalier d'honneur ornée d'une tapisserie de la manufacture des Gobelins, réalisée vers 1734 et appartenant à une série sur les \"Nouvelles Indes\", et intitulée les deux taureaux .",
+      "categories": [
+        "Staircases in Indre",
+        "Objets monuments historiques in Indre (tapestries)",
+        "GFDL",
+        "Taken with Nikon D300",
+        "Bulls in art",
+        "Interior of the Château de Valençay",
+        "Palissy",
+        "License migration redundant",
+        "Dado (architecture)",
+        "Stair landings",
+        "Self-published work",
+        "Artworks with Wikidata item",
+        "Pictures by Croquant",
+        "Information field template with formatting",
+        "Pages with complex technique templates",
+        "Objets monuments historiques classés",
+        "Cultural heritage monument objects in France with known IDs",
+        "Artworks with Wikidata item missing genre",
+        "Palissy with PM parameter",
+        "Artworks digital representation of unknown type of work",
+        "Valencay castle (Palissy protection)",
+        "Staircases in castles",
+        "Cabochon floors"
+      ],
+      "auteur": "Croquant",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Valen%C3%A7ay_Escalier_d%27honneur.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ch%C3%A2teau_de_Valen%C3%A7ay_Escalier_d%27honneur.jpg/1280px-Ch%C3%A2teau_de_Valen%C3%A7ay_Escalier_d%27honneur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1424,
+      "hauteur": 2144
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Carved stucco, dado, Type B, from Samarra, Iraq, 9th century CE. Pergamon Museum.jpg",
+      "description": "Carved stucco, dado, from Samarra, Iraq, 9th century CE. Type B. From a private house. Pergamon Museum, Berlin, Germany.",
+      "categories": [
+        "Dado (architecture)",
+        "Self-published work",
+        "Art of Samarra in the Museum für Islamische Kunst (Berlin)"
+      ],
+      "auteur": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carved_stucco,_dado,_Type_B,_from_Samarra,_Iraq,_9th_century_CE._Pergamon_Museum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Carved_stucco%2C_dado%2C_Type_B%2C_from_Samarra%2C_Iraq%2C_9th_century_CE._Pergamon_Museum.jpg/1280px-Carved_stucco%2C_dado%2C_Type_B%2C_from_Samarra%2C_Iraq%2C_9th_century_CE._Pergamon_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5635,
+      "hauteur": 2227
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fukuoka City Akarenga Cultural Center the dado on the lobby wall Chūō-ku Fukuoka 20250909 161235.jpg",
+      "description": "Fukuoka City Akarenga Cultural Center, the dado on the lobby wall (Address: 15-30, Tenjin 1-chōme, Chūō-ku, Fukuoka City 8100001, Japan)",
+      "categories": [
+        "Dado (architecture)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Interior of Fukuoka City Akarenga Cultural Center"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fukuoka_City_Akarenga_Cultural_Center_the_dado_on_the_lobby_wall_Ch%C5%AB%C5%8D-ku_Fukuoka_20250909_161235.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Fukuoka_City_Akarenga_Cultural_Center_the_dado_on_the_lobby_wall_Ch%C5%AB%C5%8D-ku_Fukuoka_20250909_161235.jpg/1280px-Fukuoka_City_Akarenga_Cultural_Center_the_dado_on_the_lobby_wall_Ch%C5%AB%C5%8D-ku_Fukuoka_20250909_161235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2208,
+      "hauteur": 3920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20061006010DR Dresden-Johannstadt Krenkelstraße 4 Entree.jpg",
+      "description": "06.10.2006 01309 Dresden-Johannstadt. Krenkelstraße 4 (GMP: 51.043693,13.774693), erbaut um 1904. Hauseingang, Blick von innen zur Pendeltür zum Treppenhaus. Vier Frauenbildnisse an den Wänden des Entrees symbolisieren die Jahreszeiten. [DSCN11847.TIF]20061006010DR.JPG(c)Blobelt",
+      "categories": [
+        "Dado (architecture)",
+        "Files by Jörg Blobelt",
+        "Doors in Dresden",
+        "Files with coordinates missing SDC location of creation",
+        "Dresden photographs taken on 2006-10-06",
+        "Treppenhausmalerei in Krenkelstraße 4 (Dresden)"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20061006010DR_Dresden-Johannstadt_Krenkelstra%C3%9Fe_4_Entree.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/20061006010DR_Dresden-Johannstadt_Krenkelstra%C3%9Fe_4_Entree.jpg/1280px-20061006010DR_Dresden-Johannstadt_Krenkelstra%C3%9Fe_4_Entree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1612,
+      "hauteur": 2451
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chateau lesches 20150607122636 (18512023819).jpg",
+      "description": "Château de Lesches, photos prises avant la restauration du château par une association.",
+      "categories": [
+        "21st-century radiators",
+        "Dado (architecture)",
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in",
+        "Château de Lesches (2015-06-07)"
+      ],
+      "auteur": "Martial BACQUET from Châteaudun (28), France",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chateau_lesches_20150607122636_(18512023819).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Chateau_lesches_20150607122636_%2818512023819%29.jpg/1280px-Chateau_lesches_20150607122636_%2818512023819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    }
+  ]
+}

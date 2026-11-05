@@ -1,0 +1,174 @@
+{
+  "terme": {
+    "id": "barre-d-appui",
+    "terme": "la barre d'appui",
+    "categorie": "Façade et ouvertures",
+    "definition": "Barre métallique fixée en travers d'une fenêtre basse pour éviter les chutes.",
+    "priorite": 3,
+    "requetes": [
+      "window guard rail bar",
+      "barre d'appui fenêtre",
+      "window safety bar"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "balconnet"
+    ],
+    "categoriesCommons": [
+      "Category:Window railings",
+      "Category:Railings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Casa das Rosas (4264339270).jpg",
+      "description": "A Casa das Rosas é um imóvel localizado na Avenida Paulista em São Paulo. Localizado no número 37 da Avenida Paulista (no Paraíso), o casarão foi projetado pelo escritório de Francisco de Paula Ramos de Azevedo pouco antes de sua morte, tendo a construção terminada em 1935. A casa abrigaria a residência de uma de suas filhas. O imóvel foi habitado até 1986, quando sofreu desapropriação pelo governo do estado de São Paulo. Em 1991 foi então inaugurado um espaço cultural batizado de \"Casa das Rosas\". Recebeu esse nome pois possuía um dos maiores e mais belos jardins de rosas da cidade. A partir ",
+      "categories": [
+        "Taken with Sony DSC-H9",
+        "Flickr images reviewed by FlickreviewR",
+        "Window railings",
+        "Black roofs",
+        "January 2010 in São Paulo",
+        "Ridge crestings",
+        "Window shutters in Brazil",
+        "Files with coordinates missing SDC location of creation",
+        "Volutes (architecture) in Brazil",
+        "Pediments in São Paulo (state)",
+        "Brazil photographs taken on 2010-01-10",
+        "Photographs by Rodrigo Soldon",
+        "Finials in São Paulo (state)",
+        "Balconies in São Paulo",
+        "Vases in art",
+        "Diamond shapes in architecture",
+        "Parque Cultural Paulista from Avenida Paulista",
+        "Louvered shutters",
+        "Window pediments in Brazil",
+        "Facade of Casa das Rosas"
+      ],
+      "auteur": "Rodrigo Soldon from Rio de Janeiro, Brazil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_das_Rosas_(4264339270).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Casa_das_Rosas_%284264339270%29.jpg/1280px-Casa_das_Rosas_%284264339270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:36C3 on day 0 07.jpg",
+      "description": "Der 36. Chaos Communication Congress am Tag 0.",
+      "categories": [
+        "36C3",
+        "CC-Zero",
+        "Potted plants",
+        "Railings",
+        "Stacks of chairs",
+        "Self-published work",
+        "2010s rooms",
+        "Photographs by Leonhard Lenz",
+        "Signs on prismatic columns"
+      ],
+      "auteur": "Leonhard Lenz",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:36C3_on_day_0_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/36C3_on_day_0_07.jpg/1280px-36C3_on_day_0_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:French shutters.jpg",
+      "description": "French window shutters",
+      "categories": [
+        "GFDL",
+        "Taken with Sigma SD9",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Segment arch windows",
+        "Window railings",
+        "Unidentified locations in Southern France",
+        "France photographs taken on 2006-09-05",
+        "Louvered shutters in France",
+        "Open window shutters in France",
+        "Blue window shutters in France"
+      ],
+      "auteur": "Ed g2s",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:French_shutters.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/French_shutters.jpg/1280px-French_shutters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 1512
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:-i---i- (9960470346).jpg",
+      "description": "",
+      "categories": [
+        "Fonts",
+        "Media lacking a description",
+        "Railings",
+        "Files from Flickr with bad file names",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Wagner Tamanaha",
+        "Files of Chicago with bad file names"
+      ],
+      "auteur": "Wagner Tamanaha from Sao Paulo, Brazil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-i---i-_(9960470346).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/-i---i-_%289960470346%29.jpg/1280px--i---i-_%289960470346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Jerome K. Jerome (6151374634).jpg",
+      "description": "Jerome K. Jerome",
+      "categories": [
+        "Taken with Sony DSC-H1",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Window railings",
+        "Facades in London",
+        "Front fences in London",
+        "Jerome lived and wrote here (blue plaque), Chelsea"
+      ],
+      "auteur": "Simon Harriyott from Uckfield, England",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jerome_K._Jerome_(6151374634).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Jerome_K._Jerome_%286151374634%29.jpg/1280px-Jerome_K._Jerome_%286151374634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A Lagos bus on a bridge.jpg",
+      "description": "A yellow Lagos bus moving on a bridge.",
+      "categories": [
+        "Bridges in Nigeria",
+        "Lagos Island",
+        "Lagos Mainland",
+        "2019 in Nigeria",
+        "Railings",
+        "Self-published work",
+        "Yellow buses",
+        "Blue, white, yellow",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Nov 2017-Aug 2019)",
+        "February 2019 in Africa",
+        "Volkswagen LT (1st generation)",
+        "Partial views of automobiles",
+        "Objects with blue sky background",
+        "Road vehicles crossing bridges",
+        "Side views of vans",
+        "Vans facing right",
+        "Danfo"
+      ],
+      "auteur": "Geekdidi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Lagos_bus_on_a_bridge.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/A_Lagos_bus_on_a_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1080,
+      "hauteur": 765
+    }
+  ]
+}

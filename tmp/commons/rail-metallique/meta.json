@@ -1,0 +1,176 @@
+{
+  "terme": {
+    "id": "rail-metallique",
+    "terme": "le rail métallique",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Profilé en U en acier galvanisé fixé au sol et au plafond, dans lequel s'emboîtent les montants d'une cloison sèche.",
+    "priorite": 2,
+    "requetes": [
+      "metal track drywall floor",
+      "rail placo sol",
+      "steel stud track"
+    ],
+    "incompatibles": [
+      "cloison-en-plaques-de-platre"
+    ],
+    "categoriesCommons": [
+      "Category:Steel framing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Structural Steel Crane (4077355335).jpg",
+      "description": "A pilot plant workers guide a 130-ton crane as structural steel is placed on the Control and Support Building in Kentucky.",
+      "categories": [
+        "Steel framing",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Structural_Steel_Crane_(4077355335).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Structural_Steel_Crane_%284077355335%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Structural_Steel_Crane_%284077355335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Instrument Rack Room (8748466292).jpg",
+      "description": "Foundation work for an Instrument Rack Room is under way on the east side of the Supercritical Water Oxidation Processing Building at the Blue Grass Chemical Agent-Destruction Pilot Plant. The Instrument Rack Room will transfer data from the Supercritical Water Oxidation Processing Building to the Control and Support Building.",
+      "categories": [
+        "Steel framing",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Instrument_Rack_Room_(8748466292).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Instrument_Rack_Room_%288748466292%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Instrument_Rack_Room_%288748466292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Duisburg, Landschaftspark Duisburg-Nord, Sinterpark -- 2026 -- 1489.jpg",
+      "description": "Crane runway of the (now defunct) sintering plant in the Sinterpar, Landschaftspark Duisburg-Nord , Duisburg , North Rhine-Westphalia , Germany The Landschaftspark Duisburg-Nord (also known as “LaPaNo” or “LaPaDu” for short) is a landscape park covering around 180 hectares surrounding a disused steelworks in Duisburg-Meiderich. The former plant was founded in 1902 by August Thyssen as a “joint-stock company for metallurgical operations” to supply his Siemens-Martin steelworks in Bruckhausen and Styrum, and went into operation on May 16, 1903, with the firing up of blast furnace 1. In 1985, bla",
+      "categories": [
+        "Overhead cranes in Germany",
+        "Landschaftspark Duisburg-Nord",
+        "Steel framing",
+        "Sinter plants",
+        "Photographs with aspect ratio of 4:3",
+        "Self-published work",
+        "Exposure time 1/400 sec",
+        "Hedera helix on buildings",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Photographs by Dietmar Rabich/Duisburg",
+        "Photographs by Dietmar Rabich/Quality images of vehicles",
+        "Information field template with formatting",
+        "Photographs by Dietmar Rabich/Quality images of plants",
+        "ISO speed rating 640",
+        "Buildings with addresses",
+        "Flora of Duisburg",
+        "Cranes in Duisburg",
+        "Hedera helix in North Rhine-Westphalia",
+        "Changes of XRay's photographs of the recent weeks",
+        "Images by XRay (flat list)",
+        "Photographs by Dietmar Rabich/Quality images of gardens and parks",
+        "Uploaded with LrMediaWiki",
+        "F-number f/11",
+        "Museums in Germany photographed in 2026",
+        "Clouds in Duisburg",
+        "Spring 2026 in North Rhine-Westphalia",
+        "Green leaves in Germany",
+        "Vehicles in Germany photographed in 2026",
+        "Overgrown structures in Duisburg",
+        "Leaves in May",
+        "Photographs by Dietmar Rabich/Industrial photography",
+        "Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia",
+        "Photographs by Dietmar Rabich/Quality images of museums",
+        "Photographs by Dietmar Rabich/Quality images of industry buildings",
+        "Lens focal length 132 mm",
+        "Taken with Fujifilm X-E5",
+        "Photographs by Dietmar Rabich/Year/2026",
+        "Taken with Fujinon XF70-300mm F4-5.6 R LM OIS WR",
+        "Duisburg photographs taken on 2026-06-05"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duisburg,_Landschaftspark_Duisburg-Nord,_Sinterpark_--_2026_--_1489.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Sinterpark_--_2026_--_1489.jpg/1280px-Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Sinterpark_--_2026_--_1489.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6869,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:20230328.Heinz-Steyer-Stadion.-028.jpg",
+      "description": "Umbau zum Multifunktionsarena mit dem Schwerpunkt Leichtathletik bis zu 15.000 Zuschauern Platz bieten. Innerhalb des Gebäudes der Haupttribüne sind außerdem der Bau einer Fechterhalle, multifunktionale Sporträume, Fitness- und Tagungsräume, Platz für Sportmedizin, Büros der Vereine sowie Gastronomie vorgesehen. Eine Plaza als zentraler Eingangsbereich zum gesamten Sportpark Ostra ergänzt die Neubau-Umsetzung. Der bestehende Finanzierungsrahmen beläuft sich auf 37,3 Millionen Euro, wovon die Stadt Dresden 33,3 Millionen Euro trägt.",
+      "categories": [
+        "Heinz-Steyer-Stadion",
+        "Steel framing",
+        "Strabag Deutschland",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Dresden photographs taken on 2023-03-28",
+        "2023 in construction in Dresden",
+        "Photos by User:Bybbisch94/2023"
+      ],
+      "auteur": "Bybbisch94, Christian Gebhardt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20230328.Heinz-Steyer-Stadion.-028.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/20230328.Heinz-Steyer-Stadion.-028.jpg/1280px-20230328.Heinz-Steyer-Stadion.-028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 9248,
+      "hauteur": 6936
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Building new Via Rail Canada station in Belleville, Ontario 4650 (5837247570).jpg",
+      "description": "Construction continues.",
+      "categories": [
+        "Taken with Canon EOS 350D",
+        "Steel framing",
+        "Images with annotations",
+        "Flickr images reviewed by FlickreviewR",
+        "Taxis in 2011",
+        "Skyway at the Belleville Railway Station, Ontario",
+        "Files with coordinates missing SDC location of creation",
+        "Files from Robert Taylor Flickr stream",
+        "Canada photographs taken on 2011-06-15",
+        "June 2011 in Ontario",
+        "Portable toilets in Ontario",
+        "Taxis in Ontario",
+        "Construction of the VIA Rail station in Belleville, Ontario",
+        "Scissor lifts in Belleville, Ontario",
+        "Cherry pickers in Belleville, Ontario",
+        "2011 in Belleville, Ontario"
+      ],
+      "auteur": "Robert Taylor from Stirling, ON, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_new_Via_Rail_Canada_station_in_Belleville,_Ontario_4650_(5837247570).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Building_new_Via_Rail_Canada_station_in_Belleville%2C_Ontario_4650_%285837247570%29.jpg/1280px-Building_new_Via_Rail_Canada_station_in_Belleville%2C_Ontario_4650_%285837247570%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Hafenbahnhof Hamburg-Süd, Niedernfelder Ufer Nebengebäude (4).jpg",
+      "description": "Hafenbahnhof Hamburg-Süd, Niedernfelder Ufer, Nebengebäude, Kleiner Grasbrook, Fahradschuppen.",
+      "categories": [
+        "Steel framing",
+        "Cultural heritage monuments in Hamburg-Kleiner Grasbrook",
+        "Hafenbahnhof Hamburg Süd",
+        "Self-published work",
+        "Images by Pauli-Pirat/Denkmäler"
+      ],
+      "auteur": "Pauli-Pirat",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hafenbahnhof_Hamburg-S%C3%BCd,_Niedernfelder_Ufer_Nebengeb%C3%A4ude_(4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Hafenbahnhof_Hamburg-S%C3%BCd%2C_Niedernfelder_Ufer_Nebengeb%C3%A4ude_%284%29.jpg/1280px-Hafenbahnhof_Hamburg-S%C3%BCd%2C_Niedernfelder_Ufer_Nebengeb%C3%A4ude_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4504,
+      "hauteur": 3378
+    }
+  ]
+}

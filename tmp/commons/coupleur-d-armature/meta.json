@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "coupleur-d-armature",
+    "terme": "le coupleur d'armature",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Manchon d'acier fileté ou serti qui raccorde bout à bout deux barres d'armature.",
+    "priorite": 3,
+    "requetes": [
+      "rebar coupler",
+      "manchon coupleur armature",
+      "mechanical splice rebar"
+    ],
+    "incompatibles": [
+      "ferraillage"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chamsin Kehl.jpg",
+      "description": "Tramway de Strasbourg, ligne transfrontalière , chantier du pont",
+      "categories": [
+        "Bridge construction in Germany",
+        "Overcast in Germany",
+        "Beatus Rhenanus Bridge",
+        "Images with annotations",
+        "Rebar",
+        "Buildings in Kehl",
+        "Self-published work",
+        "NoFoP-France",
+        "Bridge construction in France",
+        "Construction sites in Baden-Württemberg",
+        "Construction sites in Alsace",
+        "High-rises in Ortenaukreis",
+        "2015 in bridge construction",
+        "Files with coordinates missing SDC location of creation (48° N, 7° E)",
+        "Chamsin (ship, 2000)"
+      ],
+      "auteur": "Ikar.us",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chamsin_Kehl.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Chamsin_Kehl.jpg/1280px-Chamsin_Kehl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 816
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bring reinforcements^ - geograph.org.uk - 7198904.jpg",
+      "description": "Bring reinforcements!",
+      "categories": [
+        "Rebar",
+        "Images from Geograph Britain and Ireland",
+        "Construction in Bristol",
+        "Cumberland Road, Bristol"
+      ],
+      "auteur": "Anthony O'Neil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg/1280px-Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2856,
+      "hauteur": 1960
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2026-10-08 Строительство метро Луганская (Максим Мишин) 02.jpg",
+      "description": "Москва. Кавказский бульвар. Строительство метро Луганская.",
+      "categories": [
+        "Rebar",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Mos.ru, 2026",
+        "Welders in Russia",
+        "Photographs by Maksim Mishin",
+        "Outdoor workers in Moscow",
+        "Construction of Luganskaya (Moscow Metro)",
+        "Moscow photographs taken on 2026-10-08"
+      ],
+      "auteur": "Пресс-служба мэра и правительства Москвы",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-10-08_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%9C%D0%B8%D1%88%D0%B8%D0%BD)_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2026-10-08_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%9C%D0%B8%D1%88%D0%B8%D0%BD%29_02.jpg/1280px-2026-10-08_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%9C%D0%B8%D1%88%D0%B8%D0%BD%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3240,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Angled rebar.jpg",
+      "description": "Somewhat rusty rebar bent at 90 degrees angle at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden. Photo taken on this site .",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Angled_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Angled_rebar.jpg/1280px-Angled_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3624,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:169th CES Deployment for Training 150629-Z-WT236-030.jpg",
+      "description": "U.S. Air Force Tech. Sgt. Kendall Bearden, a power pro technician from the South Carolina Air National Guard’s 169th Civil Engineer Squadron at McEntire Joint National Guard Base, S.C., carries rebar during construction for multipurpose buildings in support of a Deployment for Training in Israel, June 29, 2015. The construction project is to help S.C. PRIME BEEF Airmen maintain their civil engineering specialties. Swamp Fox civil engineers are working alongside 200th RED HORSE Squadron and U.S. Navy Seabees civil engineers during the training exercise. (South Carolina Air National Guard photo ",
+      "categories": [
+        "United States Air Force airmen",
+        "Rebar",
+        "169th Fighter Wing (South Carolina Air National Guard)",
+        "PD US National Guard",
+        "Files created by the United States National Guard with known IDs",
+        "People carrying objects",
+        "Images from DoD uploaded by Fæ",
+        "200th Rapid Engineer Deployable Heavy Operational Repair Squadron Engineers",
+        "Israel photographs taken on 2015-06-29",
+        "169th Civil Engineer Squadron (United States Air Force)"
+      ],
+      "auteur": "Tech. Sgt. Caycee Watson",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:169th_CES_Deployment_for_Training_150629-Z-WT236-030.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/169th_CES_Deployment_for_Training_150629-Z-WT236-030.jpg/1280px-169th_CES_Deployment_for_Training_150629-Z-WT236-030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Acciaio per armatura.jpg",
+      "description": "Barre d'acciaio per armatura di strutture in cemento armato, a destra il tipo attualmente in uso ad aderenza migliorata",
+      "categories": [
+        "GFDL",
+        "Rebar",
+        "License migration completed",
+        "Photographs taken on 2006-08-07"
+      ],
+      "auteur": "Mattia Campolese",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acciaio_per_armatura.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Acciaio_per_armatura.jpg/1280px-Acciaio_per_armatura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1564,
+      "hauteur": 1032
+    }
+  ]
+}

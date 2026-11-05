@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "stuc-venitien",
+    "terme": "le stuc vénitien",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Enduit décoratif à la chaux et poudre de marbre, lissé en couches fines, à reflet marbré et brillant.",
+    "priorite": 3,
+    "requetes": [
+      "venetian plaster wall",
+      "stuc vénitien",
+      "polished venetian plaster"
+    ],
+    "incompatibles": [
+      "beton-cire"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Grover-Chambers House -- Galveston.jpg",
+      "description": "All outside and interior walls are brick from Brown’s brick yard that was located on the western edge of the city. They are 16 inches thick. The exterior is covered with concrete, while the interior is of plaster of Paris, with 12-inch handmade moldings. A large drawing room or parlor is 20×40 feet. The ceilings have hexagon, plaster of Paris ornamentations: in the center of each, there is a 12 ft diameter “Sunburst” of separate handmade petals with a 2ft. rosette finishing center from which hang two brilliant (gas) crystal drop chandeliers, reflecting the lovely pier mirrors and gold cornices",
+      "categories": [
+        "Self-published work",
+        "Grover-Chambers House",
+        "2020 in Galveston",
+        "Files with coordinates missing SDC location of creation",
+        "George Washington Grover House"
+      ],
+      "auteur": "Jim Evans",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grover-Chambers_House_--_Galveston.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Grover-Chambers_House_--_Galveston.jpg/1280px-Grover-Chambers_House_--_Galveston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3488,
+      "hauteur": 2907
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Empty apartment living room.jpg",
+      "description": "Empty living room/dining room in an apartment in a 1920s apartment house, Los Angeles, California. The art deco ceiling moldings remain. The brick wall was exposed during a recent renovation; the plaster wall was torn off. The flooring is new. A Murphy bed was once behind the door on the left, but now the narrow space is used for shelving. Venetian window blinds.I processed this image in Adobe Photoshop Elements using the Poster Edges filter.",
+      "categories": [
+        "Taken with Canon PowerShot G10",
+        "Created with Adobe Photoshop Elements",
+        "Posterization",
+        "Venetian blinds",
+        "Living rooms in California",
+        "Self-published work",
+        "Apartments in the United States",
+        "Vacant rooms in the United States",
+        "Empty rooms in the United States"
+      ],
+      "auteur": "Downtowngal",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Empty_apartment_living_room.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Empty_apartment_living_room.jpg/1280px-Empty_apartment_living_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4306,
+      "hauteur": 3197
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gainsborough banner Interior of All Saints' church.jpg",
+      "description": "Pic by Jenny Grade I listed. The church (except the tower) replaces an earlier mediaeval church. The earliest mention of the church is in 1185 when it was given to the Knights Templar. It was originally dedicated to the Blessed Virgin Mary and later contained two chantry chapels with tombs of the De Burgh family surmounted by marble effigies. These appear to have been lost when the church was demolished. The original church had a chancel, nave with aisles and a clerestory, probably from the 14th century. It was not a handsome building, and in 1734 was in a very poor state, with numerous cracks",
+      "categories": [
+        "Extracted images",
+        "Files with coordinates missing SDC location of creation (53° N, 1° W)",
+        "All Saints, Gainsborough (interior)"
+      ],
+      "auteur": "Jules & Jenny from Lincoln, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gainsborough_banner_Interior_of_All_Saints%27_church.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gainsborough_banner_Interior_of_All_Saints%27_church.jpg/1280px-Gainsborough_banner_Interior_of_All_Saints%27_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 611
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:All Saints' church, Gainsborough (18193282495).jpg",
+      "description": "Grade I listed. The church (except the tower) replaces an earlier mediaeval church. The earliest mention of the church is in 1185 when it was given to the Knights Templar. It was originally dedicated to the Blessed Virgin Mary and later contained two chantry chapels with tombs of the De Burgh family surmounted by marble effigies. These appear to have been lost when the church was demolished. The original church had a chancel, nave with aisles and a clerestory, probably from the 14th century. It was not a handsome building, and in 1734 was in a very poor state, with numerous cracks, rotten timb",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (53° N, 1° W)",
+        "Exterior of All Saints', Gainsborough"
+      ],
+      "auteur": "Jules & Jenny from Lincoln, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:All_Saints%27_church,_Gainsborough_(18193282495).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/All_Saints%27_church%2C_Gainsborough_%2818193282495%29.jpg/1280px-All_Saints%27_church%2C_Gainsborough_%2818193282495%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4203,
+      "hauteur": 2928
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Interior, All Saints' church, Gainsborough (18194571821).jpg",
+      "description": "Pic by Jenny Grade I listed. The church (except the tower) replaces an earlier mediaeval church. The earliest mention of the church is in 1185 when it was given to the Knights Templar. It was originally dedicated to the Blessed Virgin Mary and later contained two chantry chapels with tombs of the De Burgh family surmounted by marble effigies. These appear to have been lost when the church was demolished. The original church had a chancel, nave with aisles and a clerestory, probably from the 14th century. It was not a handsome building, and in 1734 was in a very poor state, with numerous cracks",
+      "categories": [
+        "Images with extracted images",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (53° N, 1° W)",
+        "All Saints, Gainsborough (interior)"
+      ],
+      "auteur": "Jules & Jenny from Lincoln, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interior,_All_Saints%27_church,_Gainsborough_(18194571821).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Interior%2C_All_Saints%27_church%2C_Gainsborough_%2818194571821%29.jpg/1280px-Interior%2C_All_Saints%27_church%2C_Gainsborough_%2818194571821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Sirmione - Castello Scaligero (4890039027).jpg",
+      "description": "This is the Castello Scaligero in Sirmione. Also known as the Scaliger Castle or Scaligero Castle. Scaliger Castle is located in the Italian lakeside town of Sirmione. Sirmione is a comune and town located in the province of Brescia in the region of Lombardy. Sirmione has a beautiful historic center which is situated on top of a small peninsula that juts out into the southern portion of Lake Garda. The Scaliger Castle is consideredone of the finest examples of a medieval fortification, including a very rare fortified port. Sirmione was once known as Garda, and had been a Veronese summer resort",
+      "categories": [
+        "Sirmione",
+        "Uploads by Matlin",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sirmione_-_Castello_Scaligero_(4890039027).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sirmione_-_Castello_Scaligero_%284890039027%29.jpg/1280px-Sirmione_-_Castello_Scaligero_%284890039027%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

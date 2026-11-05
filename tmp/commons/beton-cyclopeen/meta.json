@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "beton-cyclopeen",
+    "terme": "le béton cyclopéen",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Béton dans lequel on noie de gros blocs de pierre, utilisé pour les fondations massives et les murs de soubassement.",
+    "priorite": 3,
+    "requetes": [
+      "cyclopean concrete",
+      "béton cyclopéen",
+      "rubble concrete foundation stones"
+    ],
+    "incompatibles": [
+      "fondation"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ablution block in a container (7208538316).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208538316).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Ablution_block_in_a_container_%287208538316%29.jpg/1280px-Ablution_block_in_a_container_%287208538316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:1935 - Construction worker wearing a safety belt (9134564533).jpg",
+      "description": "K-0569",
+      "categories": [
+        "Concrete",
+        "Wheeler Dam",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Men at work in Alabama"
+      ],
+      "auteur": "TVA Web Team",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1935_-_Construction_worker_wearing_a_safety_belt_(9134564533).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/1935_-_Construction_worker_wearing_a_safety_belt_%289134564533%29.jpg/1280px-1935_-_Construction_worker_wearing_a_safety_belt_%289134564533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1375,
+      "hauteur": 1086
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:500px photo (71530683).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Concrete",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Jeremy Kanter",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(71530683).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/500px_photo_%2871530683%29.jpeg/1280px-500px_photo_%2871530683%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1366
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:202412 Two Shoeprints on the concrete floor.jpg",
+      "description": "Two Shoeprints on the concrete floor",
+      "categories": [
+        "Shoeprints",
+        "Gray",
+        "Concrete",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Junyu-K",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:202412_Two_Shoeprints_on_the_concrete_floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/202412_Two_Shoeprints_on_the_concrete_floor.jpg/1280px-202412_Two_Shoeprints_on_the_concrete_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:02 Hormigón para muestras.jpg",
+      "description": "Fresh concrete in a wheelbarrow for quality control",
+      "categories": [
+        "Concrete",
+        "Self-published work",
+        "Concrete testing",
+        "Photographs taken on 2006-09-16",
+        "Wheelbarrows in unidentified countries"
+      ],
+      "auteur": "Tano4595",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:02_Hormig%C3%B3n_para_muestras.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/02_Hormig%C3%B3n_para_muestras.jpg/1280px-02_Hormig%C3%B3n_para_muestras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1932
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ablution block in a container (7208537068).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Sanitation",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208537068).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ablution_block_in_a_container_%287208537068%29.jpg/1280px-Ablution_block_in_a_container_%287208537068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    }
+  ]
+}

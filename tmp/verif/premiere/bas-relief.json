@@ -1,0 +1,58 @@
+{
+  "termId": "bas-relief",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Galerie d'Angkor Vat; deux apsaras sculptées en bas-relief sur le mur, à droite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.68,
+        "y": 0.3,
+        "largeur": 0.22,
+        "hauteur": 0.46
+      },
+      "lieu": "Angkor Vat, Cambodge",
+      "note": "Bas-relief figuré net, rectangle sur les deux apsaras."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Page de livre imprimée avec reproduction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo de livre, pas d'élément réel."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Page de livre avec planche de la stèle de Saba.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo de livre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Livre ouvert montrant une planche gravée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo de livre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panneau de pierre assyrien sculpté en faible relief : chasse au cerf.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "British Museum",
+      "note": "Bas-relief très net, occupe toute l'image; hors contexte bâti mais sans ambiguïté."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Planche gravée du XVIIIe siècle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    }
+  ]
+}

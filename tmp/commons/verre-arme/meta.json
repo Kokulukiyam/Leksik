@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "verre-arme",
+    "terme": "le verre armé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Verre dans lequel est noyé un treillis de fils métalliques visible.",
+    "priorite": 3,
+    "requetes": [
+      "wired glass",
+      "wire mesh glass",
+      "verre armé"
+    ],
+    "categoriesCommons": [
+      "Category:Glass"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:American Inkwell.jpg",
+      "description": "Blown geometric ink bottle Early American Glass",
+      "categories": [
+        "Glass",
+        "Self-published work"
+      ],
+      "auteur": "Randy Stamm",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:American_Inkwell.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/American_Inkwell.jpg/1280px-American_Inkwell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 4928
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:An elegant day (6394025973).jpg",
+      "description": "an elegant day",
+      "categories": [
+        "Hats",
+        "Glass",
+        "Files from the Embassy of the United States in Sweden Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Images uploaded by Hiàn",
+        "Crowns in art"
+      ],
+      "auteur": "US Embassy Sweden",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_elegant_day_(6394025973).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/An_elegant_day_%286394025973%29.jpg/1280px-An_elegant_day_%286394025973%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2352,
+      "hauteur": 1568
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:1971-08-13 Making of Steuben glass - Corning Glass Center - Corning, New York - A gaffer or master glass blower fashions a crystal bowl by the ancient freehand method of the Steiben Glass factory A.jpg",
+      "description": "Making of Steuben glass - Corning Glass Center - Corning, New York - A gaffer or master glass blower fashions a crystal bowl by the ancient freehand method of the Steuben Glass factory",
+      "categories": [
+        "Steuben Glass Company",
+        "Glass production",
+        "Glass",
+        "Postcards of Corning, New York",
+        "PD US no notice",
+        "Template Unknown (author)",
+        "PD-US missing SDC copyright status",
+        "Postcard collection by Charles Berman"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:1971-08-13_Making_of_Steuben_glass_-_Corning_Glass_Center_-_Corning,_New_York_-_A_gaffer_or_master_glass_blower_fashions_a_crystal_bowl_by_the_ancient_freehand_method_of_the_Steiben_Glass_factory_A.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/1971-08-13_Making_of_Steuben_glass_-_Corning_Glass_Center_-_Corning%2C_New_York_-_A_gaffer_or_master_glass_blower_fashions_a_crystal_bowl_by_the_ancient_freehand_method_of_the_Steiben_Glass_factory_A.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3253,
+      "hauteur": 2097
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:0184 Mamiya Press Super 23 Extension Ring set and ground glass (5136414018).jpg",
+      "description": "0184 Mamiya Press Super 23 Extension Ring set and ground glass",
+      "categories": [
+        "Taken with Canon EOS-1Ds Mark III",
+        "Glass",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Tubes",
+        "Files from Brian Scott Peterson Flickr stream",
+        "Mamiya Super 23",
+        "Mamiya Press accessories"
+      ],
+      "auteur": "Zebrio from Tokyo, Japan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0184_Mamiya_Press_Super_23_Extension_Ring_set_and_ground_glass_(5136414018).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/0184_Mamiya_Press_Super_23_Extension_Ring_set_and_ground_glass_%285136414018%29.jpg/1280px-0184_Mamiya_Press_Super_23_Extension_Ring_set_and_ground_glass_%285136414018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2016-366-353 Microworlds on a String (31697581216).jpg",
+      "description": "2016/366/353 Microworlds on a String",
+      "categories": [
+        "CC-Zero",
+        "Glass",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016-366-353_Microworlds_on_a_String_(31697581216).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2016-366-353_Microworlds_on_a_String_%2831697581216%29.jpg/1280px-2016-366-353_Microworlds_on_a_String_%2831697581216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1971,
+      "hauteur": 1314
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Artificial Grass - PerfectLawn Series - Balcony Makeover.jpg",
+      "description": "Artificial turf placed on a balcony with outdoor furniture",
+      "categories": [
+        "Chrysanthemum",
+        "Glass",
+        "Cutting boards",
+        "Rugs and carpets",
+        "Self-published work",
+        "Outdoor furniture",
+        "Furs in 2020"
+      ],
+      "auteur": "Darine Dronga",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Artificial_Grass_-_PerfectLawn_Series_-_Balcony_Makeover.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Artificial_Grass_-_PerfectLawn_Series_-_Balcony_Makeover.jpg/1280px-Artificial_Grass_-_PerfectLawn_Series_-_Balcony_Makeover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1620,
+      "hauteur": 2430
+    }
+  ]
+}

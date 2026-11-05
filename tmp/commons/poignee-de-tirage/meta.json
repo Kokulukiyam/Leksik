@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "poignee-de-tirage",
+    "terme": "la poignée de tirage",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Poignée fixe, souvent un tube vertical en inox, qui sert à tirer ou pousser une porte vitrée ou métallique.",
+    "priorite": 3,
+    "requetes": [
+      "pull handle glass door",
+      "poignée de tirage inox",
+      "door pull handle"
+    ],
+    "incompatibles": [
+      "poignee-de-porte"
+    ],
+    "categoriesCommons": [
+      "Category:Door handles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Barrio París-Londres.jpg",
+      "description": "Barrio París Londres, Santiago de Chile",
+      "categories": [
+        "Door handles",
+        "Barrio París-Londres",
+        "Self-published work",
+        "Images from Concurso Fotográfico Ni un barrio sin foto 2024"
+      ],
+      "auteur": "Mavebo999777666",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barrio_Par%C3%ADs-Londres.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Barrio_Par%C3%ADs-Londres.jpg/1280px-Barrio_Par%C3%ADs-Londres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4179,
+      "hauteur": 3056
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Armazém de Maria, São Carlos-SP 3.jpg",
+      "description": "Armazém de Maria",
+      "categories": [
+        "Door handles",
+        "Uploaded with pattypan",
+        "Self-published work"
+      ],
+      "auteur": "Sandra Soster",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armaz%C3%A9m_de_Maria,_S%C3%A3o_Carlos-SP_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Armaz%C3%A9m_de_Maria%2C_S%C3%A3o_Carlos-SP_3.jpg/1280px-Armaz%C3%A9m_de_Maria%2C_S%C3%A3o_Carlos-SP_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2322,
+      "hauteur": 4128
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Antique door handle in Quebec City.jpg",
+      "description": "A turned brass doorknob on an old wooden door, set in a long escutcheon plate stamped with foliage, the paint worn back to the metal around the grip. Quebec City, Quebec, Canada.",
+      "categories": [
+        "Quebec City",
+        "CC-Zero",
+        "Door handles",
+        "Self-published work",
+        "September 2024 in Quebec City",
+        "Media created with Nikon Z7ii provided by the Quebec WikiClub",
+        "Photographs of Quebec City by Wilfredor"
+      ],
+      "auteur": "Wilfredor",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_door_handle_in_Quebec_City.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Antique_door_handle_in_Quebec_City.jpg/1280px-Antique_door_handle_in_Quebec_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8256,
+      "hauteur": 5504
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2017-365-17 Might Be Opportunity (32002668640).jpg",
+      "description": "2017/365/17 Might Be Opportunity",
+      "categories": [
+        "CC-Zero",
+        "Door handles",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017-365-17_Might_Be_Opportunity_(32002668640).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2017-365-17_Might_Be_Opportunity_%2832002668640%29.jpg/1280px-2017-365-17_Might_Be_Opportunity_%2832002668640%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4338,
+      "hauteur": 2891
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2008-Korea-Gyeongju-Yangdong Village-16.jpg",
+      "description": "",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ8",
+        "Door handles",
+        "Media lacking a description",
+        "Yangdong Folk Village",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Door knockers in South Korea",
+        "2008 in Gyeongju",
+        "Files with coordinates missing SDC location of creation",
+        "Winter in Gyeongju"
+      ],
+      "auteur": "Kok Leng Yeo from Singapore, Singapore",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-Korea-Gyeongju-Yangdong_Village-16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2008-Korea-Gyeongju-Yangdong_Village-16.jpg/1280px-2008-Korea-Gyeongju-Yangdong_Village-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alūksne Lutheran church, 2013, 15.jpg",
+      "description": "This photo was taken during a Wikiexpedition set up by Wikimedia Eesti . You can see all photographs in category WMEE-LV2013 .",
+      "categories": [
+        "Taken with Pentax K20D",
+        "Door handles",
+        "Uploaded with VicuñaUploader",
+        "Interior of Lutheran church in Alūksne",
+        "WMEE-LV2013"
+      ],
+      "auteur": "WikedKentaur",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al%C5%ABksne_Lutheran_church,_2013,_15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Al%C5%ABksne_Lutheran_church%2C_2013%2C_15.jpg/1280px-Al%C5%ABksne_Lutheran_church%2C_2013%2C_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4672,
+      "hauteur": 3104
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "toiture-cintree",
+    "terme": "la toiture cintrée",
+    "categorie": "Toitures",
+    "definition": "Toiture en forme d'arc, souvent en tôle cintrée sur une charpente métallique courbe.",
+    "priorite": 3,
+    "requetes": [
+      "curved metal roof warehouse",
+      "toiture cintrée bac acier",
+      "barrel roof metal"
+    ],
+    "incompatibles": [
+      "toiture",
+      "bac-acier"
+    ],
+    "categoriesCommons": [
+      "Category:Barrel roofs",
+      "Category:Curved roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Darmstadt Bahngalerie Juni 2012.JPG",
+      "description": "Bahngalerie am Hauptbahnhof Darmstadt (Hessen, Deutschland)",
+      "categories": [
+        "Darmstadt Hauptbahnhof",
+        "Barrel roofs",
+        "Self-published work",
+        "Files by 4028mdk09"
+      ],
+      "auteur": "4028mdk09",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Darmstadt_Bahngalerie_Juni_2012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Darmstadt_Bahngalerie_Juni_2012.JPG/1280px-Darmstadt_Bahngalerie_Juni_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Auditório Simón Bolívar 02.jpg",
+      "description": "Auditório Simón Bolívar, Memorial da América Latina, São Paulo, Brasil.",
+      "categories": [
+        "Taken with Sony Ericsson F305",
+        "Ventana Negra",
+        "Memorial da América Latina",
+        "Concrete shell structures",
+        "Self-published work",
+        "PD-self",
+        "Images with extracted images",
+        "Arches in Brazil",
+        "Curved structures",
+        "Curved roofs",
+        "Auditório Simón Bolívar"
+      ],
+      "auteur": "Dornicke",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Audit%C3%B3rio_Sim%C3%B3n_Bol%C3%ADvar_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Audit%C3%B3rio_Sim%C3%B3n_Bol%C3%ADvar_02.jpg/1280px-Audit%C3%B3rio_Sim%C3%B3n_Bol%C3%ADvar_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Senlis (Oise), gymnase Yves Carlier.jpg",
+      "description": "Le gymnase du complexe sportif Yves Carlier.",
+      "categories": [
+        "Trees in Oise",
+        "Barrel roofs",
+        "Buildings in Senlis (Oise)"
+      ],
+      "auteur": "P.poschadel",
+      "licence": "CC BY-SA 2.0 fr",
+      "lien": "https://commons.wikimedia.org/wiki/File:Senlis_(Oise),_gymnase_Yves_Carlier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Senlis_%28Oise%29%2C_gymnase_Yves_Carlier.jpg/1280px-Senlis_%28Oise%29%2C_gymnase_Yves_Carlier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3664,
+      "hauteur": 2748
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Antwerpenbaan Nieuw Sloten 2021.jpg",
+      "description": "Woningen bij de Antwerpenbaan in Nieuw Sloten",
+      "categories": [
+        "Oudenaardeplantsoen",
+        "Antwerpenbaan",
+        "Self-published work",
+        "Citroën automobiles in the Netherlands",
+        "Apartment buildings in Amsterdam",
+        "Netherlands photographs taken on 2021-04-08",
+        "April 2021 in Amsterdam",
+        "Curved roofs"
+      ],
+      "auteur": "Smiley.toerist",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antwerpenbaan_Nieuw_Sloten_2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Antwerpenbaan_Nieuw_Sloten_2021.jpg/1280px-Antwerpenbaan_Nieuw_Sloten_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gudang modern terminal jamrud selatan tj perak 2015.jpg",
+      "description": "Sumber: Humas Pelindo III (Persero) Cabang Tanjung Perak www.pelindo.co.id/media/berita-pers/q/press-release-pelin...",
+      "categories": [
+        "Barrel roofs",
+        "Madura Strait",
+        "Tanjung Perak",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Ports and harbours in Surabaya"
+      ],
+      "auteur": "Hernawan Widhi from Banyuwangi, Indonesia",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gudang_modern_terminal_jamrud_selatan_tj_perak_2015.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gudang_modern_terminal_jamrud_selatan_tj_perak_2015.jpg/1280px-Gudang_modern_terminal_jamrud_selatan_tj_perak_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1296,
+      "hauteur": 864
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Igreja Nossa Senhora da Conceição Sta Cruz.jpg",
+      "description": "Igreja Nossa Senhora da Conceição, Santa Cruz, Rio de Janeiro, RJ",
+      "categories": [
+        "Taken with Sony DSC-S40",
+        "Self-published work",
+        "PD-self",
+        "Clouds in Rio de Janeiro (state)",
+        "Clouds and blue sky in Brazil",
+        "Brazil photographs taken on 2007-09-16",
+        "Curved roofs",
+        "Igreja Nossa Senhora da Conceição (Santa Cruz)"
+      ],
+      "auteur": "André Ribeiro",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Igreja_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Sta_Cruz.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Igreja_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Sta_Cruz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 960
+    }
+  ]
+}

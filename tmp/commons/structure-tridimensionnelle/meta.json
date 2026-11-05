@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "structure-tridimensionnelle",
+    "terme": "la structure tridimensionnelle",
+    "categorie": "Structure",
+    "definition": "Réseau de barres et de nœuds assemblés en pyramides, qui couvre de grandes surfaces sans appuis intermédiaires.",
+    "priorite": 3,
+    "requetes": [
+      "space frame structure",
+      "structure tridimensionnelle",
+      "spaceframe roof"
+    ],
+    "categoriesCommons": [
+      "Category:Space frames",
+      "Category:Steel structures"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Construction site near LWL library.jpg",
+      "description": "Construction site, presumably near Lewis Walpole Library in Farmington, Connecticut .",
+      "categories": [
+        "Construction sites",
+        "Taken with Nikon Coolpix S8200",
+        "Beams",
+        "Space frames",
+        "Farmington, Connecticut",
+        "Self-published work",
+        "Men at work in Connecticut",
+        "October 2015 in Connecticut",
+        "United States photographs taken on 2015-10-27",
+        "Men with hard hats",
+        "Scissor lifts in the United States",
+        "Men at work in the 2010s"
+      ],
+      "auteur": "N1500513G",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_site_near_LWL_library.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Construction_site_near_LWL_library.jpg/1280px-Construction_site_near_LWL_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ansgar Memoria, Hedeby, Busdorf (P1100641).jpg",
+      "description": "Ansgar Memoria in Hedeby",
+      "categories": [
+        "Images from Wiki Loves Earth 2020 in Germany",
+        "GFDL",
+        "Ansgar Memoria",
+        "License migration redundant",
+        "Steel structures",
+        "Self-published work",
+        "Churches in Schleswig-Holstein in art",
+        "CC-BY-SA-2.0+",
+        "Protected areas with known WDPA-ID",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Images from Wiki Loves Earth 2020, DE-SH",
+        "Images from Wiki Loves Earth 2020",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Taken with Panasonic Lumix DMC-GH1 and Panasonic Lumix G Vario HD 14-140mm F4.0-5.8 Asph Mega OIS"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ansgar_Memoria,_Hedeby,_Busdorf_(P1100641).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ansgar_Memoria%2C_Hedeby%2C_Busdorf_%28P1100641%29.jpg/1280px-Ansgar_Memoria%2C_Hedeby%2C_Busdorf_%28P1100641%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Besøk Troll 7 (30120278122).jpg",
+      "description": "Foto: Tommy Ellingsen, Norsk olje og gass",
+      "categories": [
+        "Gas flares",
+        "Steel structures",
+        "Troll A",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Norsk olje og gass Flickr stream"
+      ],
+      "auteur": "Norsk olje og gass",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bes%C3%B8k_Troll_7_(30120278122).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Bes%C3%B8k_Troll_7_%2830120278122%29.jpg/1280px-Bes%C3%B8k_Troll_7_%2830120278122%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5652,
+      "hauteur": 3768
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Scene at Southbound platform of THSR Taichung Station 01.jpg",
+      "description": "​台灣高鐵台中站南下月台。",
+      "categories": [
+        "Space frames",
+        "Self-published work",
+        "Platforms at Taichung Station (THSR)",
+        "Photographs by Tbatb taken in 2020"
+      ],
+      "auteur": "Tbatb",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Scene_at_Southbound_platform_of_THSR_Taichung_Station_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Scene_at_Southbound_platform_of_THSR_Taichung_Station_01.jpg/1280px-Scene_at_Southbound_platform_of_THSR_Taichung_Station_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:CAD 20050108.jpg",
+      "description": "CAD-Skizze, Tetraeder - Raumfachwerk",
+      "categories": [
+        "GFDL",
+        "Tetrahedron",
+        "Images with inappropriate JPEG compression",
+        "Space frames",
+        "License migration opt-out",
+        "3D line drawings",
+        "Files by btr"
+      ],
+      "auteur": "btr",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:CAD_20050108.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/CAD_20050108.jpg/1280px-CAD_20050108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3312,
+      "hauteur": 1671
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Roof structure over platforms at THSR Taichung Station 02.jpg",
+      "description": "​台灣高鐵台中站月台層頂部空間桁架結構",
+      "categories": [
+        "Space frames",
+        "Self-published work",
+        "Platforms at Taichung Station (THSR)"
+      ],
+      "auteur": "Lokseng01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_structure_over_platforms_at_THSR_Taichung_Station_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Roof_structure_over_platforms_at_THSR_Taichung_Station_02.jpg/1280px-Roof_structure_over_platforms_at_THSR_Taichung_Station_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    }
+  ]
+}

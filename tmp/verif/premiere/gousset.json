@@ -1,0 +1,58 @@
+{
+  "termId": "gousset",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chantier de station avec mur préfabriqué.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de gousset."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Structure tubulaire sombre en contre-jour avec eau qui ruisselle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gousset non identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gradins rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Nœud de pont métallique riveté : grande plaque réunissant membrure, montant et diagonales.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.26,
+        "y": 0.4,
+        "largeur": 0.59,
+        "hauteur": 0.5
+      },
+      "lieu": "",
+      "note": "Plaque qui réunit plusieurs barres en un nœud, rectangle sur la plaque ; assemblage riveté, graffiti."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Entrée de métro avec escalator.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Haye, Pays-Bas",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Garde-corps vert de passerelle avec petites équerres de nœud.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne, Autriche",
+      "note": "Goussets petits et noyés dans la ferraille, ambigu."
+    }
+  ]
+}

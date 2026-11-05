@@ -1,0 +1,124 @@
+{
+  "terme": {
+    "id": "bordurette",
+    "terme": "la bordurette",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Petite bordure en béton qui borde une allée, une pelouse ou un massif.",
+    "priorite": 3,
+    "requetes": [
+      "garden edging concrete",
+      "bordurette béton",
+      "lawn edging kerb"
+    ],
+    "incompatibles": [
+      "bordure-de-trottoir",
+      "allee"
+    ],
+    "categoriesCommons": [
+      "Category:Garden edging"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Edging, garden (AM 1998.81.119-4).jpg",
+      "description": "Decorative garden edging glazed ceramic garden edging, low relief double daisy motif on front upper edge, tapers to base with semi-circular cut-out on lower edge, chocolate brown impressed maker's label, overpainted with white paint \"N.Z. BRICK\"",
+      "categories": [
+        "Files with broken file links",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "20th century in Auckland Museum",
+        "Garden edging"
+      ],
+      "auteur": "NZ Brick Co. Ltd",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Edging,_garden_(AM_1998.81.119-4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Edging%2C_garden_%28AM_1998.81.119-4%29.jpg/1280px-Edging%2C_garden_%28AM_1998.81.119-4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1672,
+      "hauteur": 1612
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Joseph Hamblet (Bolsover to Glapwell Branch Line) (5497291651).jpg",
+      "description": "Joseph Hamblet, West Bromwich 1895. Joseph Hamblet was a true Black Country entrepreneur who progressed from humble brickmaker to brick manufacturer on the grand Victorian scale. He was born in Dudley in1819 and is recorded in the 1841 census as living in Darby End, Netherton with his wife Caroline (nee Grainger) and two children. His occupation at that time was reported simply as brickmaker. Ten years later in 1851 and obviously with an eye to business he acquired a small brickworks on part of John Edward Piercy's 'Oak House' Estate at Ireland Green, West Bromwich, near to the junction of Oak",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Blue bricks",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Images by nottsexminer",
+        "Uploads by Oxyman",
+        "Brick stamps in the United Kingdom",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)"
+      ],
+      "auteur": "nottsexminer",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Joseph_Hamblet_(Bolsover_to_Glapwell_Branch_Line)_(5497291651).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Joseph_Hamblet_%28Bolsover_to_Glapwell_Branch_Line%29_%285497291651%29.jpg/1280px-Joseph_Hamblet_%28Bolsover_to_Glapwell_Branch_Line%29_%285497291651%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Tile, edging (AM 1998.81.99-4).jpg",
+      "description": "Decorative garden edging glazed ceramic garden edging, double daisy pattern on front upper edge, tapers to base with semi-circular cut-out on lower edge, red-brown impressed maker's label on front surface, overpainted in white \"CARDER BR - PONSONBY\"",
+      "categories": [
+        "Files with broken file links",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Garden edging"
+      ],
+      "auteur": "Carder Brothers & Co",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tile,_edging_(AM_1998.81.99-4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Tile%2C_edging_%28AM_1998.81.99-4%29.jpg/1280px-Tile%2C_edging_%28AM_1998.81.99-4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 1776
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Joseph Hamblet (Seymour Junction to Elmton and Creswell Jct branch) (5961232943).jpg",
+      "description": "Found on the parapets of the old Barlborough Colliery branch line which passed over the Seymour To Elmton line just outside clowne Joseph Hamblet, West Bromwich 1895. Joseph Hamblet was a true Black Country entrepreneur who progressed from humble brickmaker to brick manufacturer on the grand Victorian scale. He was born in Dudley in1819 and is recorded in the 1841 census as living in Darby End, Netherton with his wife Caroline (nee Grainger) and two children. His occupation at that time was reported simply as brickmaker. Ten years later in 1851 and obviously with an eye to business he acquired",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Blue bricks",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Images by nottsexminer",
+        "Uploads by Oxyman",
+        "Brick stamps in the United Kingdom",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)"
+      ],
+      "auteur": "nottsexminer",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Joseph_Hamblet_(Seymour_Junction_to_Elmton_and_Creswell_Jct_branch)_(5961232943).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Joseph_Hamblet_%28Seymour_Junction_to_Elmton_and_Creswell_Jct_branch%29_%285961232943%29.jpg/1280px-Joseph_Hamblet_%28Seymour_Junction_to_Elmton_and_Creswell_Jct_branch%29_%285961232943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Tile, edging (AM 1998.81.102-4).jpg",
+      "description": "Decorative possibly Victorian garden edging glazed ceramic, possibly Victorian garden edging, cable-spiralled pattern on front upper edge and semi-circular cut-out on lower edge, dark brown Jackson Muzeum printed label adhered to front of tile with bluetack, reads- VICTORIAN GARDEN EDGING",
+      "categories": [
+        "Files with broken file links",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Garden edging"
+      ],
+      "auteur": "not researched",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tile,_edging_(AM_1998.81.102-4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Tile%2C_edging_%28AM_1998.81.102-4%29.jpg/1280px-Tile%2C_edging_%28AM_1998.81.102-4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1616,
+      "hauteur": 1420
+    }
+  ]
+}

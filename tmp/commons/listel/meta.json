@@ -1,0 +1,185 @@
+{
+  "terme": {
+    "id": "listel",
+    "terme": "le listel",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Étroite bande décorative de carreaux insérée dans une faïence murale.",
+    "priorite": 2,
+    "requetes": [
+      "tile border strip bathroom",
+      "listel faïence",
+      "decorative tile border"
+    ],
+    "incompatibles": [
+      "faience",
+      "frise"
+    ],
+    "categoriesCommons": [
+      "Category:Wall tiles",
+      "Category:Ceramic tiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Disabled toilet hand basin, Kwik-Fit, Tottenham, London, England.jpg",
+      "description": "Disabled toilet hand basin at Kwik-Fit in Tottenham, London, England. Wikimedia (2024) makes it difficult to view photos related to this image. To see its most relevant allied group, click on the helpful categories at the bottom of this page for a variety of images relevant to this one, or this uploader's Photos . Camera : Samsung Galaxy S7 Edge . Software : JPEG file lens-corrected, optimized and converted with DxO ProLabs 7 Elite .",
+      "categories": [
+        "Soap dispensers",
+        "Tottenham",
+        "Wall tiles",
+        "Self-published work",
+        "Public toilets in the London Borough of Haringey",
+        "Blue tiles",
+        "White tiles",
+        "Toilets (sanitation fixtures)",
+        "Sinks in the United Kingdom",
+        "Interiors of toilets",
+        "Accessible toilets in the United Kingdom",
+        "Acabashi photos: lavatories",
+        "2024 in the London Borough of Haringey",
+        "London photographs taken on 2024-05-24",
+        "Tiled walls in England",
+        "Photographs of London by Acabashi",
+        "London N17",
+        "White ceramics in toilets",
+        "Toilets in London",
+        "London photos taken with Samsung Galaxy S7 Edge",
+        "Hand-washing sinks in white",
+        "Kwik-Fit in London"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Disabled_toilet_hand_basin,_Kwik-Fit,_Tottenham,_London,_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Disabled_toilet_hand_basin%2C_Kwik-Fit%2C_Tottenham%2C_London%2C_England.jpg/1280px-Disabled_toilet_hand_basin%2C_Kwik-Fit%2C_Tottenham%2C_London%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2145,
+      "hauteur": 3813
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ceramic tiles 02.jpg",
+      "description": "Ceramic tiles decorating an interior wall of the Tozeur train station",
+      "categories": [
+        "Ceramic tiles",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "Houss 2020",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_tiles_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ceramic_tiles_02.jpg/1280px-Ceramic_tiles_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6144,
+      "hauteur": 8160
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Disabled toilet, Kwik-Fit, Tottenham, London, England.jpg",
+      "description": "Disabled toilet at Kwik-Fit in Tottenham, London, England. Wikimedia (2024) makes it difficult to view photos related to this image. To see its most relevant allied group, click on the helpful categories at the bottom of this page for a variety of images relevant to this one, or this uploader's Photos . Camera : Samsung Galaxy S7 Edge . Software : JPEG file lens-corrected, optimized and converted with DxO ProLabs 7 Elite .",
+      "categories": [
+        "Tottenham",
+        "Toilet seats",
+        "Wall tiles",
+        "Self-published work",
+        "Public toilets in the London Borough of Haringey",
+        "Blue tiles",
+        "White tiles",
+        "Toilets (sanitation fixtures)",
+        "Blue seats",
+        "Interiors of toilets",
+        "Accessible toilets in the United Kingdom",
+        "Acabashi photos: lavatories",
+        "2024 in the London Borough of Haringey",
+        "London photographs taken on 2024-05-11",
+        "Tiled walls in England",
+        "Photographs of London by Acabashi",
+        "London N17",
+        "Armitage Shanks",
+        "White ceramics in toilets",
+        "Toilets in London",
+        "Toilet paper dispensers",
+        "London photos taken with Samsung Galaxy S7 Edge",
+        "Kwik-Fit in London",
+        "Handrails in London"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Disabled_toilet,_Kwik-Fit,_Tottenham,_London,_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Disabled_toilet%2C_Kwik-Fit%2C_Tottenham%2C_London%2C_England.jpg/1280px-Disabled_toilet%2C_Kwik-Fit%2C_Tottenham%2C_London%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 3402
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ceramic tiles 01.jpg",
+      "description": "Ceramic tiles decorating an interior wall of the Tozeur train station",
+      "categories": [
+        "Ceramic tiles",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "Houss 2020",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_tiles_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ceramic_tiles_01.jpg/1280px-Ceramic_tiles_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8160,
+      "hauteur": 6144
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Musée national Ahmed Zabana 10.jpg",
+      "description": "Tuile de céramique ottomane au Musée national Ahmed Zabana, Oran, Algérie",
+      "categories": [
+        "Ceramic tiles",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Ahmed Zabana National Museum"
+      ],
+      "auteur": "Bernard Gagnon",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_national_Ahmed_Zabana_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mus%C3%A9e_national_Ahmed_Zabana_10.jpg/1280px-Mus%C3%A9e_national_Ahmed_Zabana_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2925,
+      "hauteur": 2925
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Costa Coffee toilet, Tottenham Hale Retail Park, Haringey.jpg",
+      "description": "Lavatory toilet at Costa Coffee in Tottenham Hale Retail Park at Tottenham Hale , in Haringey , London, England. Camera : Samsung Galaxy S7 Edge . Software : JPEG file lens-corrected, optimized and converted with DxO PhotoLab Elite , and further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Toilet seats",
+        "Toilet brushes",
+        "Wall tiles",
+        "Photographs with aspect ratio of 3:4",
+        "Self-published work",
+        "Tiled walls",
+        "2019 in the London Borough of Haringey",
+        "Brown tiles",
+        "Red tiles",
+        "Toilets (sanitation fixtures)",
+        "White seats",
+        "Interiors of toilets",
+        "Accessible toilets in the United Kingdom",
+        "Acabashi photos: lavatories",
+        "London photographs taken on 2019-10-22",
+        "Dirty toilets",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "White ceramics in toilets",
+        "Toilets in London",
+        "Litter in London",
+        "Damaged or used toilet paper",
+        "London photos taken with Samsung Galaxy S7 Edge",
+        "Costa Coffee in London",
+        "Tottenham Hale Retail Park",
+        "London N15",
+        "Sanitary bins in the United Kingdom",
+        "Handrails in London"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Costa_Coffee_toilet,_Tottenham_Hale_Retail_Park,_Haringey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Costa_Coffee_toilet%2C_Tottenham_Hale_Retail_Park%2C_Haringey.jpg/1280px-Costa_Coffee_toilet%2C_Tottenham_Hale_Retail_Park%2C_Haringey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "terme": {
+    "id": "crepissage",
+    "terme": "le crépissage",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Réfection collective, à la main, de l'enduit de banco d'une mosquée soudano-sahélienne, comme la fête annuelle de la grande mosquée de Djenné.",
+    "priorite": 3,
+    "requetes": [
+      "crépissage Djenné",
+      "Djenne mosque replastering",
+      "Great Mosque of Djenné plastering festival"
+    ],
+    "incompatibles": [
+      "mosquee-soudano-sahelienne",
+      "banco",
+      "toron"
+    ]
+  },
+  "candidats": []
+}

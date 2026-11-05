@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "pompe-de-relevage",
+    "terme": "la pompe de relevage",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pompe placée dans une petite cuve qui remonte les eaux usées d'un sous-sol jusqu'au réseau d'évacuation.",
+    "priorite": 3,
+    "requetes": [
+      "sewage lift pump",
+      "pompe de relevage",
+      "sump pump basement"
+    ],
+    "incompatibles": [
+      "pompe-immergee"
+    ],
+    "categoriesCommons": [
+      "Category:Sewage pumps",
+      "Category:Pumps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mustjõe 046.JPG",
+      "description": "Fecal pump",
+      "categories": [
+        "Deep foundations",
+        "Self-published work",
+        "PD-self",
+        "Sewage pumps",
+        "Combustion engine-powered pumps",
+        "2015 Mustjõe sewage collector repair"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mustj%C3%B5e_046.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mustj%C3%B5e_046.JPG/1280px-Mustj%C3%B5e_046.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2056
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Utility Building (12816184725).jpg",
+      "description": "The Utility Building contains intricate pipework to aid in the distribution of chilled water, steam and process chemicals during testing and operation of the Blue Grass plant.",
+      "categories": [
+        "Pumps",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Utility_Building_(12816184725).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Utility_Building_%2812816184725%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Utility_Building_%2812816184725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pumps (5729649635).jpg",
+      "description": "On this picture you can see 3 aeration pumps (white containers with black cover), they supply the storage tank and MBR tank with air. Additional there is permeate pump visible (cylindrical part). It provides a vacuum and the greywater is sucked through the membrane with 38 nm nominal pore size. (you can find notes, if you move the mouse over the picture) Photo by Katharina Löw, May 2011",
+      "categories": [
+        "Vacuum pumps",
+        "Taken with Pentax Optio W60",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sewage pumps",
+        "Greywater treatment",
+        "Aeration pumps"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pumps_(5729649635).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pumps_%285729649635%29.jpg/1280px-Pumps_%285729649635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cannerberg-Technique.jpg",
+      "description": "NATO headquarters Cannerberg - Technique",
+      "categories": [
+        "Taken with Olympus FE-5035",
+        "Pumps",
+        "NATO headquarters Cannerberg",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 5° E)",
+        "Bloksma"
+      ],
+      "auteur": "Vincent de Groot - http://www.videgro.net",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cannerberg-Technique.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cannerberg-Technique.jpg/1280px-Cannerberg-Technique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3216,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Old west Surrey (Page 30) BHL41412703.jpg",
+      "description": "Old west Surrey;",
+      "categories": [
+        "Old West Surrey (1904)",
+        "PD-old-70-expired",
+        "Images uploaded by Fæ",
+        "PD-scan (PD-old-70-expired)",
+        "Files from the Biodiversity Heritage Library",
+        "CC-PD-Mark",
+        "Sewage pumps",
+        "Hand piston water pumps with lever for one person",
+        "PD-old missing SDC copyright status",
+        "Biodiversity Heritage Library maintenance missing date"
+      ],
+      "auteur": "Jekyll, Gertrude",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_west_Surrey_(Page_30)_BHL41412703.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Old_west_Surrey_%28Page_30%29_BHL41412703.jpg/1280px-Old_west_Surrey_%28Page_30%29_BHL41412703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2215,
+      "hauteur": 3411
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Diesel pump at Vallée-Jonction rail yard.jpg",
+      "description": "Diesel pump at Vallée-Jonction rail yard",
+      "categories": [
+        "Pumps",
+        "Diesel",
+        "Vallée-Jonction rail yard",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Rusty objects in Canada",
+        "Canada photographs taken on 2022-11-06",
+        "Railway photographs taken on 2022-11-06",
+        "Photographs by Wolfy13399"
+      ],
+      "auteur": "Wolfy13399",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Diesel_pump_at_Vall%C3%A9e-Jonction_rail_yard.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Diesel_pump_at_Vall%C3%A9e-Jonction_rail_yard.jpg/1280px-Diesel_pump_at_Vall%C3%A9e-Jonction_rail_yard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2112
+    }
+  ]
+}

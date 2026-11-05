@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "trou-de-boulin",
+    "terme": "le trou de boulin",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Petit trou laissé dans un mur ancien, où s'encastraient les pièces de bois de l'échafaudage.",
+    "priorite": 3,
+    "requetes": [
+      "putlog holes",
+      "trou de boulin",
+      "putlog holes medieval wall"
+    ],
+    "categoriesCommons": [
+      "Category:Putlog holes",
+      "Category:Scaffolding",
+      "Category:Stone walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:F08.St.-Avit-Sénieur.0028.jpg",
+      "description": "Mur sud de l'église. Sont visibles les traces d'incendies et les trous (boulins) qui servaint à maintenir la charpente du cloître.",
+      "categories": [
+        "Taken with Nikon D200",
+        "GFDL-1.2",
+        "Prieuré de Saint-Avit-Sénieur",
+        "Putlog holes"
+      ],
+      "auteur": "Jochen Jahnke",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:F08.St.-Avit-S%C3%A9nieur.0028.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/F08.St.-Avit-S%C3%A9nieur.0028.jpg/1280px-F08.St.-Avit-S%C3%A9nieur.0028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:074 MS 65 F35 V.jpg",
+      "description": "",
+      "categories": [
+        "Psalm 98",
+        "Scaffolding",
+        "PD-Art (PD-old-100)",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Très Riches Heures du Duc de Berry scan 2004",
+        "CC-PD-Mark",
+        "Artworks with Wikidata item missing genre",
+        "Artworks digital representation of unknown type of work"
+      ],
+      "auteur": "Frères de Limbourg (Herman, Paul et Jean)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:074_MS_65_F35_V.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/074_MS_65_F35_V.jpg/1280px-074_MS_65_F35_V.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1684,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:360th WWII France misc 018.jpg",
+      "description": "US Army in France during WWII 1944-1945. 360th EAB Engineers. Photos by Lt. Claxton Ray 1916-1989.",
+      "categories": [
+        "PD US Army",
+        "Stone walls",
+        "Photographs by Claxton Ray",
+        "360th Engineer General Service Regiment",
+        "Photographs scanned by WayneRay"
+      ],
+      "auteur": "Claxton Ray",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:360th_WWII_France_misc_018.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/360th_WWII_France_misc_018.jpg/1280px-360th_WWII_France_misc_018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 14174,
+      "hauteur": 9448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2024-06-16 Zanzibar Stonetown 01.jpg",
+      "description": "Scaffolding on a residential building in the old town (Stonetown) of Zanzibar.",
+      "categories": [
+        "Scaffolding",
+        "Stone Town",
+        "Self-published work",
+        "Construction in Tanzania"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-06-16_Zanzibar_Stonetown_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2024-06-16_Zanzibar_Stonetown_01.jpg/1280px-2024-06-16_Zanzibar_Stonetown_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2147,
+      "hauteur": 3220
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cardiff castle - Keep 8a Innenraum Balkenlöcher.jpg",
+      "description": "Cardiff Castle ( Wales ). Keep ( 12th century ) - outer defensive walls: Putlog holes for supporting timber.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Putlog holes",
+        "Self-published work",
+        "Cardiff Castle keep"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cardiff_castle_-_Keep_8a_Innenraum_Balkenl%C3%B6cher.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Cardiff_castle_-_Keep_8a_Innenraum_Balkenl%C3%B6cher.jpg/1280px-Cardiff_castle_-_Keep_8a_Innenraum_Balkenl%C3%B6cher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Colonial Williamsburg (December, 2011) - Christmas decorations 35.JPG",
+      "description": "Williamsburg Historic District, Bounded by Francis, Waller, Nicholson, N. England, Lafayette, and Nassau Sts.",
+      "categories": [
+        "Putlog holes",
+        "Self-published work",
+        "National Register of Historic Places with known IDs",
+        "Images from Wiki Loves Monuments 2013",
+        "Images from Wiki Loves Monuments 2013 in the United States",
+        "WLM 2013 United States unreviewed",
+        "Uploaded via Campaign:wlm-us",
+        "United States photographs taken on 2011-12-18",
+        "Brick buildings in Williamsburg, Virginia",
+        "Christmas decorations at Colonial Williamsburg"
+      ],
+      "auteur": "AlbertHerring",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Colonial_Williamsburg_(December,_2011)_-_Christmas_decorations_35.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Colonial_Williamsburg_%28December%2C_2011%29_-_Christmas_decorations_35.JPG/1280px-Colonial_Williamsburg_%28December%2C_2011%29_-_Christmas_decorations_35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    }
+  ]
+}

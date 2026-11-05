@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "carreau-de-platre",
+    "terme": "le carreau de plâtre",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Bloc plein de plâtre à emboîtement, monté à la colle pour faire des cloisons intérieures lisses.",
+    "priorite": 3,
+    "requetes": [
+      "gypsum block partition",
+      "carreau de plâtre cloison",
+      "gypsum blocks wall"
+    ],
+    "incompatibles": [
+      "cloison"
+    ],
+    "categoriesCommons": [
+      "Category:Gypsum blocks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Gipswandbauplatten.JPG",
+      "description": "Construction of a non-load bearing partition wall of gypsum blocks.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Gypsum blocks",
+        "Self-published work",
+        "Partition walls"
+      ],
+      "auteur": "Franka Molitora",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gipswandbauplatten.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gipswandbauplatten.JPG/1280px-Gipswandbauplatten.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Paleo-Indian pictographs (~2100 years old) (Devil's Looking Glass, Main Cave, Mammoth Cave, Kentucky, USA) (22954666755).jpg",
+      "description": "Paleo-Indian pictographs (~2100 years old) on an upright loose slab of limestone (likely the Ste. Genevieve Limestone, Middle Mississippian) in Kentucky, USA. The dark gray to black figures shown above are prehistoric Indian charcoal drawings on a slab of limestone in Kentucky's Mammoth Cave, the longest cave on Earth. Cave passages are frequently partially to mostly filled with sediments and breakdown. Breakdown refers to relatively large slabs and block of rock that have detached from cave ceilings and walls. The rock shown above is a piece of breakdown that may have been purposefully set up",
+      "categories": [
+        "Taken with Sony HDR-PJ10",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from James St. John Flickr stream",
+        "Pictographs in Mammoth Cave"
+      ],
+      "auteur": "James St. John",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paleo-Indian_pictographs_(~2100_years_old)_(Devil%27s_Looking_Glass,_Main_Cave,_Mammoth_Cave,_Kentucky,_USA)_(22954666755).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Paleo-Indian_pictographs_%28~2100_years_old%29_%28Devil%27s_Looking_Glass%2C_Main_Cave%2C_Mammoth_Cave%2C_Kentucky%2C_USA%29_%2822954666755%29.jpg/1280px-Paleo-Indian_pictographs_%28~2100_years_old%29_%28Devil%27s_Looking_Glass%2C_Main_Cave%2C_Mammoth_Cave%2C_Kentucky%2C_USA%29_%2822954666755%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Indian pictographs (~2100 years old) (Devil's Looking Glass, Main Cave, Mammoth Cave, Kentucky, USA) 2 (38238017936).jpg",
+      "description": "Indian pictographs (~2100 years old) on upright loose slab of limestone (likely the Ste. Genevieve Limestone, Middle Mississippian) in Kentucky, USA. The dark gray to black figures shown above are prehistoric Indian charcoal drawings on a slab of limestone in Kentucky's Mammoth Cave, the longest cave on Earth. Cave passages are frequently partially to mostly filled with sediments and breakdown. Breakdown refers to relatively large slabs and block of rock that have detached from cave ceilings and walls. The rock shown above is a piece of breakdown that may have been purposefully set upright. Th",
+      "categories": [
+        "Taken with Sony HDR-PJ10",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from James St. John Flickr stream",
+        "Pictographs in Mammoth Cave"
+      ],
+      "auteur": "James St. John",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Indian_pictographs_(~2100_years_old)_(Devil%27s_Looking_Glass,_Main_Cave,_Mammoth_Cave,_Kentucky,_USA)_2_(38238017936).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Indian_pictographs_%28~2100_years_old%29_%28Devil%27s_Looking_Glass%2C_Main_Cave%2C_Mammoth_Cave%2C_Kentucky%2C_USA%29_2_%2838238017936%29.jpg/1280px-Indian_pictographs_%28~2100_years_old%29_%28Devil%27s_Looking_Glass%2C_Main_Cave%2C_Mammoth_Cave%2C_Kentucky%2C_USA%29_2_%2838238017936%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Mummy Ledge (Main Cave, Mammoth Cave, Kentucky, USA) 4.jpg",
+      "description": "Western Kentucky's Mammoth Cave is the longest known cave on Earth, with 426 mapped miles as of March 2024. Occasionally, prehistoric human bodies are found in the cave. During the 1930s, cave guides discovered the desiccated corpse of an American Indian that had been crushed under a limestone block. This was in the southeastern stretches of Main Cave, the principal trunk passage in the Mammoth Cave Ridge part of the system. It had been known that prehistoric Indians entered & used Mammoth Cave - the oldest known evidence dates to about 2170 B.C. Indian artifacts have been found as far as 12 m",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from James St. John Flickr stream",
+        "Mummy Ledge (Main Cave, Mammoth Cave, Kentucky, USA)"
+      ],
+      "auteur": "James St. John",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mummy_Ledge_(Main_Cave,_Mammoth_Cave,_Kentucky,_USA)_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Mummy_Ledge_%28Main_Cave%2C_Mammoth_Cave%2C_Kentucky%2C_USA%29_4.jpg/1280px-Mummy_Ledge_%28Main_Cave%2C_Mammoth_Cave%2C_Kentucky%2C_USA%29_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mummy Ledge (Main Cave, Mammoth Cave, Kentucky, USA) 2 (38295417171).jpg",
+      "description": "Human bodies have occasionally been found in western Kentucky's Mammoth Cave, the longest cave on Earth, with 412 mapped miles as of fall 2017. During the 1930s, cave guides discovered the desiccated corpse of an American Indian that had been crushed under a limestone block. This was in the southeastern stretches of Main Cave, the principal trunk passage in the Mammoth Cave Ridge part of the system. It had been known that prehistoric Indians entered & used Mammoth Cave - the oldest known evidence dates to about 2170 B.C. Indian artifacts have been found as far as 12 miles in. Their known activ",
+      "categories": [
+        "Taken with Sony HDR-PJ10",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from James St. John Flickr stream",
+        "Mummy Ledge (Main Cave, Mammoth Cave, Kentucky, USA)"
+      ],
+      "auteur": "James St. John",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mummy_Ledge_(Main_Cave,_Mammoth_Cave,_Kentucky,_USA)_2_(38295417171).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mummy_Ledge_%28Main_Cave%2C_Mammoth_Cave%2C_Kentucky%2C_USA%29_2_%2838295417171%29.jpg/1280px-Mummy_Ledge_%28Main_Cave%2C_Mammoth_Cave%2C_Kentucky%2C_USA%29_2_%2838295417171%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Breakdown in a giant canyon passage (Edwards Avenue, Great Onyx Cave, Flint Ridge, Mammoth Cave National Park, Kentucky, USA) (8314205890).jpg",
+      "description": "Breakdown in a giant canyon passage in Great Onyx Cave. Great Onyx Cave is located in the northern part of Flint Ridge in Mammoth Cave National Park, Kentucky, USA. It has 8 miles worth of mapped passages. Geologically, Great Onyx Cave is part of the Mammoth Cave System, but it has become erosively separated from it (although an air flow connection with the Mammoth Cave System has been identified). Great Onyx Cave is the downstream continuation of the Salt Cave section of the system. The walls of Great Onyx Cave are limestones of the Paoli Member, shales of the Bethel Member, and limestones of",
+      "categories": [
+        "Great Onyx Cave",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from James St. John Flickr stream",
+        "Breakdowns (speleology) in Kentucky"
+      ],
+      "auteur": "James St. John",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Breakdown_in_a_giant_canyon_passage_(Edwards_Avenue,_Great_Onyx_Cave,_Flint_Ridge,_Mammoth_Cave_National_Park,_Kentucky,_USA)_(8314205890).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Breakdown_in_a_giant_canyon_passage_%28Edwards_Avenue%2C_Great_Onyx_Cave%2C_Flint_Ridge%2C_Mammoth_Cave_National_Park%2C_Kentucky%2C_USA%29_%288314205890%29.jpg/1280px-Breakdown_in_a_giant_canyon_passage_%28Edwards_Avenue%2C_Great_Onyx_Cave%2C_Flint_Ridge%2C_Mammoth_Cave_National_Park%2C_Kentucky%2C_USA%29_%288314205890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    }
+  ]
+}

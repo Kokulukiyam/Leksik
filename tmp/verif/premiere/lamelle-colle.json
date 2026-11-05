@@ -1,0 +1,58 @@
+{
+  "termId": "lamelle-colle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chaîne de production avec planches de bois alignées sur un convoyeur d'usine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lamelles avant collage, produit fini non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pont en arc de bois sous lequel un pêcheur se tient, arc fait de lamelles superposées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.22,
+        "largeur": 0.9,
+        "hauteur": 0.3
+      },
+      "lieu": "Forêt Montmorency, Québec",
+      "note": "Grande poutre cintrée en lamellé-collé, strates visibles en sous-face ; rectangle sur l'arc."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond en treillis triangulé de nervures en bois sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nervures cintrées, strates non visibles : doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poutre peinte en blanc sous un plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poutre peinte, strates invisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Intérieur d'une chapelle avec charpente à chevrons et lames de bois, poteaux clairs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente complexe, bois lamellé non identifiable avec certitude."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bâtiment vitré avec passerelle de bois et nacelle élévatrice, toiture en grille de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bienne, Suisse",
+      "note": "Sujet confus, strates non lisibles."
+    }
+  ]
+}

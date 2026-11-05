@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "tronconneuse",
+    "terme": "la tronçonneuse",
+    "categorie": "Chantier et outillage",
+    "definition": "Scie à moteur dont une chaîne dentée tourne autour d'un guide, pour couper le bois.",
+    "priorite": 3,
+    "requetes": [
+      "chainsaw",
+      "tronçonneuse",
+      "incategory:\"Chainsaws\""
+    ],
+    "categoriesCommons": [
+      "Category:Chainsaws",
+      "Category:Saws"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blocco catena motosega per wiki5.jpg",
+      "description": "foto di dispositivo blocco catena per motosega",
+      "categories": [
+        "Chainsaws",
+        "Self-published work"
+      ],
+      "auteur": "Verdealberi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blocco_catena_motosega_per_wiki5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Blocco_catena_motosega_per_wiki5.jpg/1280px-Blocco_catena_motosega_per_wiki5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3858,
+      "hauteur": 1966
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:10x15 Cirkelzaagmachine van Freymeys, Wyno (fabrikant Buhen te Londen), Bestanddeelnr 256-0662.jpg",
+      "description": "Collectie / Archief : Fotocollectie Arbeidsinspectie Reportage / Serie : [ onbekend ] Beschrijving : 10x15 Cirkelzaagmachine van Freymeys, Wyno (fabrikant Buhen te Londen) Datum : februari 1950 Locatie : Groot-Brittannië, Londen Trefwoorden : cirkelzagen Fotograaf : [onbekend] Auteursrechthebbende : Nationaal Archief Materiaalsoort : Glasnegatief Nummer archiefinventaris : bekijk toegang 2.24.03 Inventarisnummer : 2274 Bestanddeelnummer : 256-0662",
+      "categories": [
+        "CC-Zero",
+        "Saws",
+        "1950 in London",
+        "Images from Nationaal Archief",
+        "Safety engineering",
+        "1950 in technology",
+        "Fotocollectie Arbeidsinspectie",
+        "Machines in London"
+      ],
+      "auteur": "Nationaal Archief",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10x15_Cirkelzaagmachine_van_Freymeys,_Wyno_(fabrikant_Buhen_te_Londen),_Bestanddeelnr_256-0662.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/10x15_Cirkelzaagmachine_van_Freymeys%2C_Wyno_%28fabrikant_Buhen_te_Londen%29%2C_Bestanddeelnr_256-0662.jpg/1280px-10x15_Cirkelzaagmachine_van_Freymeys%2C_Wyno_%28fabrikant_Buhen_te_Londen%29%2C_Bestanddeelnr_256-0662.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4058,
+      "hauteur": 2775
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:BarbourBoatBuilding-TyreSourLebanon RomanDeckert23122019.jpg",
+      "description": "A member of the Barbour family cutting boards from tree trunks with a chainsaw to build a wooden fishing boat in the harbour area of the Christian quarter in Tyre/Sour, Southern Lebanon, which is one of the few places in the Mediterranean to continue this traditional shipmaking.",
+      "categories": [
+        "Chainsaws",
+        "People of Tyre",
+        "Self-published work",
+        "Boat-building in Tyre"
+      ],
+      "auteur": "RomanDeckert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BarbourBoatBuilding-TyreSourLebanon_RomanDeckert23122019.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/BarbourBoatBuilding-TyreSourLebanon_RomanDeckert23122019.jpg/1280px-BarbourBoatBuilding-TyreSourLebanon_RomanDeckert23122019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3901,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2021-08-19 DDR-Museum Thale 136.jpg",
+      "description": "DDR-Museum Thale",
+      "categories": [
+        "CC-Zero",
+        "Saws",
+        "Einzelhandelsverkaufspreis",
+        "VEB Werkzeugkombinat Schmalkalden",
+        "DDR-Museum Thale",
+        "Handelsschlüssellistennummer",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (51° N, 11° E)",
+        "Erzeugnis- und Leistungsnomenklatur",
+        "Tools in the German Democratic Republic",
+        "Photographs by User:Stefan Kühn/Saxony-Anhalt",
+        "Thale photographs taken on 2021-08-19"
+      ],
+      "auteur": "Stefan Kühn",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021-08-19_DDR-Museum_Thale_136.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2021-08-19_DDR-Museum_Thale_136.jpg/1280px-2021-08-19_DDR-Museum_Thale_136.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Akonapason.jpg",
+      "description": "Devan otamiro",
+      "categories": [
+        "Chainsaws",
+        "Manawan",
+        "Self-published work",
+        "Atikamekw projects",
+        "Nitaskinan en photos 2017"
+      ],
+      "auteur": "Cecile169",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Akonapason.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Akonapason.jpg/1280px-Akonapason.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:16.12.15 Huddersfield 5 (23150082584).jpg",
+      "description": "16.12.15 Huddersfield",
+      "categories": [
+        "Taken with Pentax K-3",
+        "Saws",
+        "Cutlers",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Donald Judge",
+        "United Kingdom photographs taken on 2012-02-16",
+        "Shop signs in England",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)",
+        "Shops in Huddersfield"
+      ],
+      "auteur": "donald judge",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:16.12.15_Huddersfield_5_(23150082584).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/16.12.15_Huddersfield_5_%2823150082584%29.jpg/1280px-16.12.15_Huddersfield_5_%2823150082584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 2776
+    }
+  ]
+}

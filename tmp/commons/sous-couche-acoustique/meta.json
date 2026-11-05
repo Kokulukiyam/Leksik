@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "sous-couche-acoustique",
+    "terme": "la sous-couche acoustique",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Feuille de mousse ou de liège déroulée sous un parquet flottant ou un stratifié.",
+    "priorite": 3,
+    "requetes": [
+      "laminate underlayment foam",
+      "sous-couche parquet",
+      "flooring underlay"
+    ],
+    "incompatibles": [
+      "sol-stratifie"
+    ],
+    "categoriesCommons": [
+      "Category:Laminate flooring"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Laminate flooring at Wooninrichting Zuur, Oude Pekela (2018).jpg",
+      "description": "Lamitate flooring being sold at a local shop in the Groninger village of Oude Pekela.",
+      "categories": [
+        "Laminate flooring",
+        "Self-published work",
+        "Netherlands photographs taken on 2018-06-06",
+        "Files with coordinates missing SDC location of creation (53° N, 7° E)",
+        "Pergo (brand)",
+        "Shops in Oude Pekela"
+      ],
+      "auteur": "Donald Trung Quoc Don (chữ Hán: 徵國單) - Wikimedia Commons",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laminate_flooring_at_Wooninrichting_Zuur,_Oude_Pekela_(2018).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Laminate_flooring_at_Wooninrichting_Zuur%2C_Oude_Pekela_%282018%29.jpg/1280px-Laminate_flooring_at_Wooninrichting_Zuur%2C_Oude_Pekela_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3840,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:«Модульный» ламинат – ламинат, имитирующий модульный паркет. Профиль.jpg",
+      "description": "Соединительный профиль (замок) ламината с эффектом модульного паркета",
+      "categories": [
+        "Parquetry",
+        "Laminate flooring",
+        "Self-published work"
+      ],
+      "auteur": "MatthiasMueller",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C2%AB%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%C2%BB_%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B0%D1%82_%E2%80%93_%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B0%D1%82,_%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%D1%82._%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%C2%AB%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%C2%BB_%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B0%D1%82_%E2%80%93_%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B0%D1%82%2C_%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%D1%82._%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C.jpg/1280px-%C2%AB%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%C2%BB_%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B0%D1%82_%E2%80%93_%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B0%D1%82%2C_%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%D1%82._%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Fertigparkett Stiegenelement.jpg",
+      "description": "laminate flooring stair element",
+      "categories": [
+        "CC-Zero",
+        "Laminate flooring",
+        "Self-published work"
+      ],
+      "auteur": "Best Tech Nick 25",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fertigparkett_Stiegenelement.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Fertigparkett_Stiegenelement.jpg/1280px-Fertigparkett_Stiegenelement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4056,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Psion Revo PDA.jpg",
+      "description": "Psion Revo PDA made in 1999, showing the Word app in a large font, with a ruler for scale. Background is laminate flooring.",
+      "categories": [
+        "Taken with Sony Xperia Z Ultra",
+        "Laminate flooring",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Jul 2016 - Jun 2017)",
+        "Photographs taken on 2017-02-16",
+        "Rulers indicating scale",
+        "Psion Revo"
+      ],
+      "auteur": "Silas S. Brown",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Psion_Revo_PDA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Psion_Revo_PDA.jpg/1280px-Psion_Revo_PDA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1746,
+      "hauteur": 3104
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:New Kitchen (6167402372).jpg",
+      "description": "New Kitchen",
+      "categories": [
+        "Laminate flooring",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Magnus Hagdorn"
+      ],
+      "auteur": "marsupium photography",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:New_Kitchen_(6167402372).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/New_Kitchen_%286167402372%29.jpg/1280px-New_Kitchen_%286167402372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4743,
+      "hauteur": 3162
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Laminate flooring assembly layers and preparation.JPG",
+      "description": "Image demonstrate assembled laminate section, cut sections to be fitted, underlay to allow for contraction, expansion, and moisture control, and original tile floor.",
+      "categories": [
+        "Taken with Canon EOS 1100D",
+        "Laminate flooring",
+        "Self-published work"
+      ],
+      "auteur": "Wasrts",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laminate_flooring_assembly_layers_and_preparation.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Laminate_flooring_assembly_layers_and_preparation.JPG/1280px-Laminate_flooring_assembly_layers_and_preparation.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2436,
+      "hauteur": 3654
+    }
+  ]
+}

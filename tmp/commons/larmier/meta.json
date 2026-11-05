@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "larmier",
+    "terme": "le larmier",
+    "categorie": "Façade et ouvertures",
+    "definition": "Saillie ou rainure sous un appui, une corniche ou une dalle, qui fait goutter l'eau de pluie loin du mur.",
+    "priorite": 3,
+    "requetes": [
+      "drip groove underside sill",
+      "larmier façade",
+      "drip edge concrete"
+    ],
+    "incompatibles": [
+      "appui-de-fenetre",
+      "corniche"
+    ],
+    "categoriesCommons": [
+      "Category:Cornices"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ливадийский дворец 003.jpg",
+      "description": "Neoclassical portal, cornice, and facade, the Livadiya Palace in Yalta, Crimea, Ukraine.",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus C-740UZ",
+        "Livadiya palace",
+        "Architraves",
+        "Cornices",
+        "License migration redundant",
+        "Self-published work",
+        "Photos, created by Andrew Butko in Yalta",
+        "Photos, created by Andrew Butko with Olympus Camedia C-740 Ultra Zoom",
+        "Neoclassical portals",
+        "Portals in Crimea",
+        "Photos, created by Andrew Butko uncategorised by topic",
+        "Photos, created by Andrew Butko uncategorised by year"
+      ],
+      "auteur": "Andrey Butko",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D0%B2%D0%B0%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_003.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%9B%D0%B8%D0%B2%D0%B0%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_003.jpg/1280px-%D0%9B%D0%B8%D0%B2%D0%B0%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Eaves of a building in Jerusalem (6940686120).jpg",
+      "description": "Jerusalem, Ratisbonne monastery - A typical Jerusalem cornice",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ38",
+        "Buildings in Jerusalem",
+        "Eaves",
+        "Ratisbonne monastery",
+        "Cornices",
+        "Flickr images reviewed by FlickreviewR",
+        "Architectural elements in Jerusalem",
+        "Photographs by Zeev Barkan in Jerusalem"
+      ],
+      "auteur": "zeevveez from Jerusalem, Israel",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eaves_of_a_building_in_Jerusalem_(6940686120).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Eaves_of_a_building_in_Jerusalem_%286940686120%29.jpg/1280px-Eaves_of_a_building_in_Jerusalem_%286940686120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1202
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Fekete house. - 11 Széchenyi Street, Eger, 2016 Hungary.jpg",
+      "description": ": Fekete house, Cherry caffe. - 11 Széchenyi Street, Eger , Heves County , Hungary .",
+      "categories": [
+        "Cornices",
+        "Self-published work",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Window boxes in Hungary",
+        "2016 in Eger",
+        "Files with coordinates missing SDC location of creation",
+        "Striped awnings",
+        "Széchenyi Street 11, Eger (Fekete house)"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fekete_house._-_11_Sz%C3%A9chenyi_Street,_Eger,_2016_Hungary.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Fekete_house._-_11_Sz%C3%A9chenyi_Street%2C_Eger%2C_2016_Hungary.jpg/1280px-Fekete_house._-_11_Sz%C3%A9chenyi_Street%2C_Eger%2C_2016_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Band Cornice at the UP factory in Horka-Domky, Třebíč, Třebíč District.jpg",
+      "description": "Band cornice at the UP factory in Třebíč.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "UP factory (Třebíč)",
+        "Cornices",
+        "License migration redundant",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Frettie",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Band_Cornice_at_the_UP_factory_in_Horka-Domky,_T%C5%99eb%C3%AD%C4%8D,_T%C5%99eb%C3%AD%C4%8D_District.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Band_Cornice_at_the_UP_factory_in_Horka-Domky%2C_T%C5%99eb%C3%AD%C4%8D%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg/1280px-Band_Cornice_at_the_UP_factory_in_Horka-Domky%2C_T%C5%99eb%C3%AD%C4%8D%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:IglesiaAsunciónLantadilla 004.JPG",
+      "description": "Detail of the original gothic cornice at church of La Asución in Lantadilla (Palencia, Castile and León). This church is almost entirely of Gothic style, although it has some Renaissance as the presbytery and the herrerian portico, which has a sculpture in stone of the assumption of our Lady which dates from the year 1646 influence. The building consists of three naves separated by six columns, each of which is different from the others, as happens with the 10 bóbedas that exist on the roof of the ships, detail it that there is no knowledge that occurs in any other building of this type. The t",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A80",
+        "Cornices",
+        "License migration redundant",
+        "Self-published work",
+        "Photos by User:Valdavia",
+        "Church of La Asunción (Lantadilla)"
+      ],
+      "auteur": "Valdavia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:IglesiaAsunci%C3%B3nLantadilla_004.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/IglesiaAsunci%C3%B3nLantadilla_004.JPG/1280px-IglesiaAsunci%C3%B3nLantadilla_004.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Malé Žernoseky, detail kamenného domu.JPG",
+      "description": "Cette photographie a été créée dans le cadre d'une coopération photographique avec les municipalités tchèques .",
+      "categories": [
+        "Stone houses in the Czech Republic",
+        "Czech Republic photographs taken on 2010-09-05",
+        "Taken with Canon PowerShot G10",
+        "Cornices",
+        "Files by Juandev",
+        "Third year of the Czech Municipalities Photographs grant",
+        "Files with coordinates missing SDC location of creation",
+        "Družstevní (Malé Žernoseky)"
+      ],
+      "auteur": "Juan de Vojníkov",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mal%C3%A9_%C5%BDernoseky,_detail_kamenn%C3%A9ho_domu.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mal%C3%A9_%C5%BDernoseky%2C_detail_kamenn%C3%A9ho_domu.JPG/1280px-Mal%C3%A9_%C5%BDernoseky%2C_detail_kamenn%C3%A9ho_domu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4416,
+      "hauteur": 3312
+    }
+  ]
+}

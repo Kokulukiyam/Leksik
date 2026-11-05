@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "chien-assis",
+    "terme": "le chien-assis",
+    "categorie": "Toitures",
+    "definition": "Lucarne dont le toit est incliné en sens inverse de la pente du versant.",
+    "priorite": 3,
+    "requetes": [
+      "shed dormer",
+      "chien-assis lucarne",
+      "shed dormer roof"
+    ],
+    "incompatibles": [
+      "lucarne"
+    ],
+    "categoriesCommons": [
+      "Category:Dormer windows",
+      "Category:Dormers",
+      "Category:Roof windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Millennium Mansions in Gang Mills 53c.jpg",
+      "description": "Deer Crest Drive, Aurene, Painted Post; how the heck could they forget to put a window in this dormer?!",
+      "categories": [
+        "Dormers",
+        "Gang Mills, New York",
+        "Self-published work",
+        "Millennium mansions"
+      ],
+      "auteur": "Stilfehler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Millennium_Mansions_in_Gang_Mills_53c.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Millennium_Mansions_in_Gang_Mills_53c.jpg/1280px-Millennium_Mansions_in_Gang_Mills_53c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Renault Master Citybus E-Tech, Busworld Europe 2025, Brussels (20251003-P1051920).jpg",
+      "description": "Busworld Europe 2025",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Roof windows",
+        "Self-published work",
+        "Bus interiors in Belgium",
+        "CC-BY-SA-2.0+",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Battery-powered buses in Belgium",
+        "Pictures by MB-one to review",
+        "Taken with Panasonic Lumix DC-G91 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Busworld Europe 2025 (supported by WMDE)",
+        "Buses at Busworld Europe 2025",
+        "Renault Pro+ at Busworld Europe 2025",
+        "Renault Master IV buses"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Renault_Master_Citybus_E-Tech,_Busworld_Europe_2025,_Brussels_(20251003-P1051920).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Renault_Master_Citybus_E-Tech%2C_Busworld_Europe_2025%2C_Brussels_%2820251003-P1051920%29.jpg/1280px-Renault_Master_Citybus_E-Tech%2C_Busworld_Europe_2025%2C_Brussels_%2820251003-P1051920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dachgaube (Göttingen-Weende, Klostergut Weende, 2024).jpg",
+      "description": "Dachgaube (Göttingen-Weende, Klostergut Weende, 2024)",
+      "categories": [
+        "Dormer windows",
+        "Weende (Göttingen)",
+        "Self-published work"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachgaube_(G%C3%B6ttingen-Weende,_Klostergut_Weende,_2024).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Dachgaube_%28G%C3%B6ttingen-Weende%2C_Klostergut_Weende%2C_2024%29.jpg/1280px-Dachgaube_%28G%C3%B6ttingen-Weende%2C_Klostergut_Weende%2C_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Watertje, Hoorn.jpg",
+      "description": "Watertje, straat in Hoorn",
+      "categories": [
+        "Dormers",
+        "Self-published work",
+        "Streets in Hoorn, North Holland",
+        "Terraced houses in the Netherlands",
+        "Uploaded with Mobile/Android",
+        "Twin houses in Hoorn, North Holland",
+        "2026 in Hoorn, North Holland",
+        "Files with coordinates missing SDC location of creation (52° N, 5° E)",
+        "Netherlands photographs taken on 2026-05-05"
+      ],
+      "auteur": "Dqfn13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Watertje,_Hoorn.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Watertje%2C_Hoorn.jpg/1280px-Watertje%2C_Hoorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Lucarne avec travail de charpente à Lectoure.jpg",
+      "description": "Petite lucarne guitarde d'une maison située à Lectoure (Gers), XIXe siècle.",
+      "categories": [
+        "Carpentry",
+        "Lectoure",
+        "Dormer windows",
+        "Self-published work",
+        "19th-century architectural elements",
+        "Dormer windows in Gers"
+      ],
+      "auteur": "Danielclauzier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lucarne_avec_travail_de_charpente_%C3%A0_Lectoure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Lucarne_avec_travail_de_charpente_%C3%A0_Lectoure.jpg/1280px-Lucarne_avec_travail_de_charpente_%C3%A0_Lectoure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1476,
+      "hauteur": 981
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dakkapellen.jpg",
+      "description": "Dakkapellen",
+      "categories": [
+        "Dormer windows",
+        "Buildings in Willemstad, Curaçao",
+        "Self-published work",
+        "Office buildings in Curaçao"
+      ],
+      "auteur": "Jnd1998",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dakkapellen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Dakkapellen.jpg/1280px-Dakkapellen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3927,
+      "hauteur": 2933
+    }
+  ]
+}

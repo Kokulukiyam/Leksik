@@ -1,0 +1,101 @@
+{
+  "terme": {
+    "id": "carreau-imitation-bois",
+    "terme": "le carreau imitation bois",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Carreau de grès cérame en forme de lame qui reproduit le veinage du bois.",
+    "priorite": 2,
+    "requetes": [
+      "wood look porcelain tile",
+      "carrelage imitation parquet",
+      "wood effect tiles floor"
+    ],
+    "incompatibles": [
+      "carreau-de-gres-cerame",
+      "parquet",
+      "sol-stratifie"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Nave west end - St John the Evangelist Cathedral (46738149414).jpg",
+      "description": "St. John's Cathedral, Cleveland, Ohio, USA; Roman Catholic Diocese of Cleveland",
+      "categories": [
+        "Interior of Cathedral of Saint John the Evangelist (Cleveland, Ohio)",
+        "Churches in the United States photographed in 2018",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Church galleries in Ohio",
+        "September 2018 in Cleveland"
+      ],
+      "auteur": "Tim Evanson from Cleveland Heights, Ohio, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nave_west_end_-_St_John_the_Evangelist_Cathedral_(46738149414).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Nave_west_end_-_St_John_the_Evangelist_Cathedral_%2846738149414%29.jpg/1280px-Nave_west_end_-_St_John_the_Evangelist_Cathedral_%2846738149414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1719
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Carrelageparquet.jpg",
+      "description": "carrelage imitation parquet",
+      "categories": [
+        "Self-published work"
+      ],
+      "auteur": "Normandie277661",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carrelageparquet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Carrelageparquet.jpg/1280px-Carrelageparquet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 3701
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Odd Fellows Temple (1908) drum on Capitol Hill in Seattle, WA.jpg",
+      "description": "Optical illusion , \"Odd Fellows Temple (1908) drum\" Setting from Capitol Hill in Seattle, WA: Oddfellows Cafe + Bar on 1525 10th Avenue (next to the Elliott Bay Book Company and around the corner from the historic 1908 Odd Fellows Temple, on 915 E. Pine Street). See also: magic (illusion) , forced perspective , anamorphisms , and other types of optical illusions ; photograph manipulation . \"Does this image seem, real ...?\" H ere, illusion points for what may be identified as heavy \"sensory fluxes\" of how realistic and implausible a settings feels at important perceivable limits, are organized ",
+      "categories": [
+        "Optical illusions",
+        "Self-published work"
+      ],
+      "auteur": "TrevorFisher (image uploader), Radlrb33 (updated image description)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Odd_Fellows_Temple_(1908)_drum_on_Capitol_Hill_in_Seattle,_WA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Odd_Fellows_Temple_%281908%29_drum_on_Capitol_Hill_in_Seattle%2C_WA.jpg/1280px-Odd_Fellows_Temple_%281908%29_drum_on_Capitol_Hill_in_Seattle%2C_WA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2957,
+      "hauteur": 2958
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Porter County Infirmary, 1907 - Valparaiso, Indiana (19014932298).jpg",
+      "description": "New County Infirmary Date: 1907 Source Type: Postcard Publisher, Printer, Photographer: Unknown Postmark: August 7, 1907, Valparaiso, Indiana Collection: Steven R. Shook Remark: During the mid-nineteenth century, a movement was taking place in the United States and Western Europe recognizing the plight of the poor, indigent, and mentally unstable citizens. In the United States, many counties established what were often referred to as poor houses, poor farms, infirmaries, and asylums. Generally, mentally unstable individuals were also housed at these county-established residences, though most s",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Postcards of Valparaiso, Indiana",
+        "Files from Steve Shook Flickr stream",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Steve Shook from Moscow, Idaho, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Porter_County_Infirmary,_1907_-_Valparaiso,_Indiana_(19014932298).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Porter_County_Infirmary%2C_1907_-_Valparaiso%2C_Indiana_%2819014932298%29.jpg/1280px-Porter_County_Infirmary%2C_1907_-_Valparaiso%2C_Indiana_%2819014932298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2175,
+      "hauteur": 1381
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Porter County Asylum and Poor Farm, 1912 - Valparaiso, Indiana (4181359872).jpg",
+      "description": "PORTER COUNTY ASYLUM Date: 1912 Source Type: Photograph Publisher, Printer, Photographer: The Lewis Publishing Company Postmark: Not applicable Collection: Steven R. Shook Remark: During the mid-nineteenth century, a movement was taking place in the United States and Western Europe recognizing the plight of the poor, indigent, and mentally unstable citizens. In the United States, many counties established what were often referred to as poor houses, poor farms, infirmaries, and asylums. Generally, mentally unstable individuals were also housed at these county-established residences, though most",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Postcards of Valparaiso, Indiana",
+        "Files from Steve Shook Flickr stream"
+      ],
+      "auteur": "Steve Shook from Moscow, Idaho, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Porter_County_Asylum_and_Poor_Farm,_1912_-_Valparaiso,_Indiana_(4181359872).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Porter_County_Asylum_and_Poor_Farm%2C_1912_-_Valparaiso%2C_Indiana_%284181359872%29.jpg/1280px-Porter_County_Asylum_and_Poor_Farm%2C_1912_-_Valparaiso%2C_Indiana_%284181359872%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2475,
+      "hauteur": 1719
+    }
+  ]
+}

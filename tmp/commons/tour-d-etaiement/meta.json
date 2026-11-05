@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "tour-d-etaiement",
+    "terme": "la tour d'étaiement",
+    "categorie": "Chantier et outillage",
+    "definition": "Tour carrée formée de cadres métalliques empilés, qui porte de fortes charges de coffrage en hauteur.",
+    "priorite": 3,
+    "requetes": [
+      "shoring tower",
+      "tour d'étaiement",
+      "falsework tower formwork"
+    ],
+    "incompatibles": [
+      "etai"
+    ],
+    "categoriesCommons": [
+      "Category:Shoring",
+      "Category:Falsework"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chiesa della Natività della Beata Vergine Maria (Vigarano Mainarda) 03.JPG",
+      "description": "Vigarano Mainarda, chiesa della Natività della Beata Vergine Maria in fase di restauro dopo il terremoto dell'Emilia del 2012.",
+      "categories": [
+        "Shoring",
+        "Natività della Beata Vergine Maria (Vigarano Mainarda)",
+        "Self-published work",
+        "Metal scaffolding in Italy",
+        "Italy photographs taken on 2015-04-26"
+      ],
+      "auteur": "Threecharlie",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chiesa_della_Nativit%C3%A0_della_Beata_Vergine_Maria_(Vigarano_Mainarda)_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Chiesa_della_Nativit%C3%A0_della_Beata_Vergine_Maria_%28Vigarano_Mainarda%29_03.JPG/1280px-Chiesa_della_Nativit%C3%A0_della_Beata_Vergine_Maria_%28Vigarano_Mainarda%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Building the Isaakcathedral 4.JPG",
+      "description": "Building the Isaakcathedral in Sankt Petersburg",
+      "categories": [
+        "GFDL",
+        "License migration completed",
+        "Falsework",
+        "Construction of Saint Isaac's Cathedral",
+        "Stone columns",
+        "Historical images of Saint Isaac's Cathedral"
+      ],
+      "auteur": "Robert Breuer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_the_Isaakcathedral_4.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Building_the_Isaakcathedral_4.JPG/1280px-Building_the_Isaakcathedral_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2002,
+      "hauteur": 1378
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dubbele Buurt 26, zijgevel - Hoorn - 20116250 - RCE.jpg",
+      "description": "Woonhuizen D.: Dubbele Buurt 26, zijgevel",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Dubbele Buurt 26, Hoorn",
+        "Shoring",
+        "Rijksmonumenten with known IDs",
+        "Buildings with addresses",
+        "Photographs by Gerard Dukker in Hoorn (1968)"
+      ],
+      "auteur": "Gerard Dukker",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dubbele_Buurt_26,_zijgevel_-_Hoorn_-_20116250_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dubbele_Buurt_26%2C_zijgevel_-_Hoorn_-_20116250_-_RCE.jpg/1280px-Dubbele_Buurt_26%2C_zijgevel_-_Hoorn_-_20116250_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2452,
+      "hauteur": 3089
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fresno River Viaduct construction 2016b.jpg",
+      "description": "Construction of the Fresno River Viaduct in September 2016. The bridge is the first permanent structure being constructed as part of California High-Speed Rail .",
+      "categories": [
+        "Fresno River Viaduct",
+        "PD California",
+        "Falsework",
+        "Bridge construction in California",
+        "Files with coordinates missing SDC location of creation",
+        "Construction cranes in California"
+      ],
+      "auteur": "California High-Speed Rail Authority",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fresno_River_Viaduct_construction_2016b.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Fresno_River_Viaduct_construction_2016b.jpg/1280px-Fresno_River_Viaduct_construction_2016b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Castello Maniace2.jpg",
+      "description": "Scaffolding for the ongoing restoration work at Castello Maniace in Syracuse , Sicily.",
+      "categories": [
+        "Taken with Fujifilm FinePix F10",
+        "Shoring",
+        "Self-published work",
+        "Restoration of buildings in Italy",
+        "Photographs taken on 2006-10-01",
+        "Castello Maniace (Syracuse) - Interior"
+      ],
+      "auteur": "Stevage",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castello_Maniace2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Castello_Maniace2.jpg/1280px-Castello_Maniace2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 2136
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Plzeň, výstavba západního obchvatu, 2021 (233).jpg",
+      "description": "Construction of the western bypass road of Plzeň",
+      "categories": [
+        "Files by Draceane – Czechia",
+        "Uploaded with pattypan",
+        "Falsework",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C",
+        "Construction of the western bypass road of Plzeň"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plze%C5%88,_v%C3%BDstavba_z%C3%A1padn%C3%ADho_obchvatu,_2021_(233).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Plze%C5%88%2C_v%C3%BDstavba_z%C3%A1padn%C3%ADho_obchvatu%2C_2021_%28233%29.jpg/1280px-Plze%C5%88%2C_v%C3%BDstavba_z%C3%A1padn%C3%ADho_obchvatu%2C_2021_%28233%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3997,
+      "hauteur": 2664
+    }
+  ]
+}

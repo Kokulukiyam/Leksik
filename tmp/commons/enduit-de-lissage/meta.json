@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "enduit-de-lissage",
+    "terme": "l'enduit de lissage",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Enduit fin, blanc, étalé au couteau en couches minces sur un mur ou des plaques de plâtre pour obtenir une surface lisse avant peinture.",
+    "priorite": 2,
+    "requetes": [
+      "skim coat wall drywall",
+      "enduit de lissage mur",
+      "skim coating plaster wall"
+    ],
+    "incompatibles": [
+      "enduit-de-platre",
+      "bande-a-joint"
+    ],
+    "categoriesCommons": [
+      "Category:Plaster"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cambrian college fireproofing delamination 6.jpg",
+      "description": "Delaminated spray fireproofing at the metal deck, above the dropped ceiling line at Cambrian College, Greater Sudbury, Ontario , Canada . Regular patching would restore the fire-resistance rating.",
+      "categories": [
+        "Structural steel",
+        "Building code violations",
+        "Cambrian College",
+        "Plaster",
+        "Firestops",
+        "Fireproofing",
+        "Self-published work",
+        "PD-self",
+        "Damaged fireproofing"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cambrian_college_fireproofing_delamination_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Cambrian_college_fireproofing_delamination_6.jpg/1280px-Cambrian_college_fireproofing_delamination_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2529,
+      "hauteur": 1548
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cambrian college fireproofing delamination 5.jpg",
+      "description": "Delaminated spray fireproofing on the bottom of a open web steel joist, above the dropped ceiling line at Cambrian College, Greater Sudbury, Ontario , Canada . Regular patching would restore the fire-resistance rating.",
+      "categories": [
+        "Structural steel",
+        "Building code violations",
+        "Cambrian College",
+        "Plaster",
+        "Fireproofing",
+        "Open web steel joists",
+        "Self-published work",
+        "PD-self",
+        "Damaged fireproofing"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cambrian_college_fireproofing_delamination_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Cambrian_college_fireproofing_delamination_5.jpg/1280px-Cambrian_college_fireproofing_delamination_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1453,
+      "hauteur": 2587
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cambrian college homemade firestop.jpg",
+      "description": "Fireproofing applied at the wrong time, avoiding code compliance with firestops . The steel beam is also a penetrant and its transit through this wall needs to be firestopped properly, as does the HOW joint, none of which happened here, at Cambrian College, Greater Sudbury, Ontario , Canada , August 2000.",
+      "categories": [
+        "Thermal insulation",
+        "Cambrian College",
+        "Plaster",
+        "Firestops",
+        "Electrical conduit",
+        "Fireproofing",
+        "Rockwool",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cambrian_college_homemade_firestop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cambrian_college_homemade_firestop.jpg/1280px-Cambrian_college_homemade_firestop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3013,
+      "hauteur": 2650
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Essential items for first aid.jpg",
+      "description": "Gauze dressings, plasters",
+      "categories": [
+        "First aid",
+        "Plaster",
+        "Gauzes",
+        "Self-published work"
+      ],
+      "auteur": "BogTar201213",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Essential_items_for_first_aid.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Essential_items_for_first_aid.jpg/1280px-Essential_items_for_first_aid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Free books Kellogg-Hubbard Library downtown Montpelier VT June 2021.jpg",
+      "description": "Book sale at Kellogg-Hubbard Library in downtown Montpelier, Vermont.",
+      "categories": [
+        "Plaster",
+        "Self-published work",
+        "Tile flooring",
+        "Books on tables",
+        "United States photographs taken on 2021-06-01",
+        "June 2021 in Vermont",
+        "Men wearing hats in Vermont",
+        "Kellogg-Hubbard Library"
+      ],
+      "auteur": "Artaxerxes",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Free_books_Kellogg-Hubbard_Library_downtown_Montpelier_VT_June_2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Free_books_Kellogg-Hubbard_Library_downtown_Montpelier_VT_June_2021.jpg/1280px-Free_books_Kellogg-Hubbard_Library_downtown_Montpelier_VT_June_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Duke of Marlborough memorial shelter (interior) (14138492663).jpg",
+      "description": "Cliveden",
+      "categories": [
+        "Taken with Olympus E-M1",
+        "Plaster",
+        "Blenheim Pavilion, Cliveden",
+        "Flickr images reviewed by FlickreviewR",
+        "Benches in England",
+        "Empty benches in the United Kingdom",
+        "Photographs by James E. Petts"
+      ],
+      "auteur": "James Petts from London, England",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duke_of_Marlborough_memorial_shelter_(interior)_(14138492663).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Duke_of_Marlborough_memorial_shelter_%28interior%29_%2814138492663%29.jpg/1280px-Duke_of_Marlborough_memorial_shelter_%28interior%29_%2814138492663%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    }
+  ]
+}

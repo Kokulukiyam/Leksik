@@ -1,0 +1,58 @@
+{
+  "termId": "cannelure",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de pierre maya en gradins avec bas-reliefs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chichén Itzá",
+      "note": "Pas de cannelure."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruines maya avec tambours de colonnes lisses au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chichén Itzá",
+      "note": "Pas de cannelure."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Colonnes de mosquée rayées gris et blanc, l'une à décor tressé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Diyarbakır",
+      "note": "Fût tressé et non cannelé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rotonde de colonnes lisses vue de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cannelures invisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Colonne ionique en bois dont le fût est creusé de cannelures verticales.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.28,
+        "y": 0.38,
+        "largeur": 0.4,
+        "hauteur": 0.6
+      },
+      "lieu": "River House, New York",
+      "note": "Cannelures nettes; rectangle sur le fût pour exclure le chapiteau ionique."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chapiteau ionique-composite en gros plan, fût cannelé coupé en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moana Hotel, Honolulu",
+      "note": "Chapiteau dominant, cannelures trop peu visibles."
+    }
+  ]
+}

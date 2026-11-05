@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "voute-sur-croisee-d-ogives",
+    "terme": "la voûte sur croisée d'ogives",
+    "categorie": "Structure",
+    "definition": "Voûte gothique portée par deux arcs diagonaux saillants qui se croisent au sommet.",
+    "priorite": 3,
+    "requetes": [
+      "rib vault gothic",
+      "croisée d'ogives",
+      "ribbed vault ceiling"
+    ],
+    "incompatibles": [
+      "voute",
+      "cle-de-voute"
+    ],
+    "categoriesCommons": [
+      "Category:Gothic vaults",
+      "Category:Vaults"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Luxembourg Cathedrale 3 HDR.jpg",
+      "description": "Orgue de la Cathédrale Notre-Dame de Luxembourg. Image à grande gamme dynamique issue de trois clichés pris du même endroit.",
+      "categories": [
+        "Tone-mapped HDR images of churches in Luxembourg",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Gothic vaults",
+        "License migration redundant",
+        "Self-published work",
+        "Westenfelder Pipe organ of Cathédrale Notre-Dame de Luxembourg"
+      ],
+      "auteur": "Benh LIEU SONG",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Luxembourg_Cathedrale_3_HDR.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Luxembourg_Cathedrale_3_HDR.jpg/1280px-Luxembourg_Cathedrale_3_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:10 2023 Colosseum, Piazza del Colosseo, Celio, Municipio Roma I, Rome, Roma Capitale, Lazio, 00184, Italy - Photo Paolo Villa FO232122.jpg",
+      "description": "10 2023 Colosseum, Piazza del Colosseo, Celio, Municipio Roma I, Rome, Roma Capitale, Lazio, 00184, Italy - Photo Paolo Villa - Archi Arch",
+      "categories": [
+        "Vaults",
+        "Self-published work",
+        "Stones in Italy",
+        "Interior of the Colosseum - Details",
+        "Interior of the Colosseum - Panoramics"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_2023_Colosseum,_Piazza_del_Colosseo,_Celio,_Municipio_Roma_I,_Rome,_Roma_Capitale,_Lazio,_00184,_Italy_-_Photo_Paolo_Villa_FO232122.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/10_2023_Colosseum%2C_Piazza_del_Colosseo%2C_Celio%2C_Municipio_Roma_I%2C_Rome%2C_Roma_Capitale%2C_Lazio%2C_00184%2C_Italy_-_Photo_Paolo_Villa_FO232122.jpg/1280px-10_2023_Colosseum%2C_Piazza_del_Colosseo%2C_Celio%2C_Municipio_Roma_I%2C_Rome%2C_Roma_Capitale%2C_Lazio%2C_00184%2C_Italy_-_Photo_Paolo_Villa_FO232122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Christian Stöcklin (attr) Gotisches Kircheninterieur.jpg",
+      "description": "Gotisches Kircheninterieur, Öl auf Leinwand, 57 x 69 cm",
+      "categories": [
+        "Paintings of church interiors in Germany",
+        "Gothic vaults",
+        "PD-Art (PD-old-100)",
+        "Images from Dorotheum",
+        "CC-PD-Mark",
+        "Paintings of church interiors by Christian Stöcklin"
+      ],
+      "auteur": "attribué à Christian Stöcklin",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Christian_St%C3%B6cklin_(attr)_Gotisches_Kircheninterieur.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Christian_St%C3%B6cklin_%28attr%29_Gotisches_Kircheninterieur.jpg/1280px-Christian_St%C3%B6cklin_%28attr%29_Gotisches_Kircheninterieur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4960,
+      "hauteur": 4056
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - FO232095 - Architettura e mattoni - arco-volta.jpg",
+      "description": "10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - Architettura e mattoni - arco-volta",
+      "categories": [
+        "Baths of Caracalla",
+        "Vaults",
+        "Opus lateritium",
+        "Self-published work"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232095_-_Architettura_e_mattoni_-_arco-volta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/10_2023_-_Terme_%28Baths_of%29_Caracalla%2C_Arte_Romana%2C_Viale_Guido_Baccelli%2C_Rome%2C_Roma%2C_Lazio%2C_00154%2C_Italy_-_Photo_Paolo_Villa_-_FO232095_-_Architettura_e_mattoni_-_arco-volta.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Interior of a Catholic church 17th century.jpg",
+      "description": "Interieur einer katholischen Kirche, Öl auf Leinwand, 95 x 129 cm",
+      "categories": [
+        "Altar servers",
+        "Gothic vaults",
+        "Paintings of church interiors",
+        "PD-Art (PD-old-70)",
+        "PD-Art (PD-old default)",
+        "Images from Dorotheum",
+        "CC-PD-Mark",
+        "PD-Art missing SDC copyright status",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Flemish school of the 17th century",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interior_of_a_Catholic_church_17th_century.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Interior_of_a_Catholic_church_17th_century.jpg/1280px-Interior_of_a_Catholic_church_17th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4908,
+      "hauteur": 3660
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Forjado de bovedillas tabicadas en una casa serrana valenciana.jpg",
+      "description": "Ceiling of partitioned vaults in a Valencian country house.",
+      "categories": [
+        "Taken with Sony HDR-CX240",
+        "Vaults",
+        "Masonry",
+        "Bóveda tabicada",
+        "Self-published work",
+        "Tile Vault"
+      ],
+      "auteur": "Barandat",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Forjado_de_bovedillas_tabicadas_en_una_casa_serrana_valenciana.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Forjado_de_bovedillas_tabicadas_en_una_casa_serrana_valenciana.jpg/1280px-Forjado_de_bovedillas_tabicadas_en_una_casa_serrana_valenciana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3184,
+      "hauteur": 2217
+    }
+  ]
+}

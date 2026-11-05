@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "bouton-d-appel",
+    "terme": "le bouton d'appel",
+    "categorie": "Réseaux et équipements",
+    "definition": "Plaque à bouton lumineux placée sur le palier pour appeler l'ascenseur.",
+    "priorite": 3,
+    "requetes": [
+      "elevator call button",
+      "bouton d'appel ascenseur",
+      "lift call button"
+    ],
+    "incompatibles": [
+      "ascenseur"
+    ],
+    "categoriesCommons": [
+      "Category:Elevator buttons",
+      "Category:Elevators"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Elevator buttons at Santos Place lift car.jpg",
+      "description": "Elevator buttons at Santos Place lift car",
+      "categories": [
+        "Self-published work",
+        "Australia photographs taken on 2018-11-15",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Kgbo taken in 2018",
+        "November 2018 in Brisbane",
+        "Elevator buttons",
+        "Photos by User:Kgbo",
+        "Elevators in Australia",
+        "Interior of Santos Place"
+      ],
+      "auteur": "Kgbo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Elevator_buttons_at_Santos_Place_lift_car.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Elevator_buttons_at_Santos_Place_lift_car.jpg/1280px-Elevator_buttons_at_Santos_Place_lift_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2146
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Allure of the Seas, Pernon telakka, Turku, 23.10.2010 (3).JPG",
+      "description": "MS Allure of the Seas at STX Europe shipyard Turku , Finland .",
+      "categories": [
+        "Taken with Canon PowerShot S90",
+        "Elevators",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation",
+        "Aboard Allure of the Seas (ship, 2010) in 2010"
+      ],
+      "auteur": "Makele-90",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Allure_of_the_Seas,_Pernon_telakka,_Turku,_23.10.2010_(3).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Allure_of_the_Seas%2C_Pernon_telakka%2C_Turku%2C_23.10.2010_%283%29.JPG/1280px-Allure_of_the_Seas%2C_Pernon_telakka%2C_Turku%2C_23.10.2010_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Analog electronics of an elevator contorller 3.jpg",
+      "description": "Analog electronics of an elevator contorller",
+      "categories": [
+        "Elevators",
+        "Analog electronics",
+        "Self-published work",
+        "PD-self",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "booledozer",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Analog_electronics_of_an_elevator_contorller_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Analog_electronics_of_an_elevator_contorller_3.jpg/1280px-Analog_electronics_of_an_elevator_contorller_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3296,
+      "hauteur": 2472
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Al Iskandar Al Akbar Street - elevator buttons in a building.jpg",
+      "description": "elevator buttons in a building in Al Iskandar Al Akbar Street in Alexandria, Egypt",
+      "categories": [
+        "Self-published work",
+        "Elevators in Egypt",
+        "Files with coordinates missing SDC location of creation",
+        "2024 in Alexandria",
+        "Elevator buttons",
+        "Al Iskandar Al Akbar Street",
+        "Photographs by User:Marsupium"
+      ],
+      "auteur": "Marsupium",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al_Iskandar_Al_Akbar_Street_-_elevator_buttons_in_a_building.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Al_Iskandar_Al_Akbar_Street_-_elevator_buttons_in_a_building.jpg/1280px-Al_Iskandar_Al_Akbar_Street_-_elevator_buttons_in_a_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:3 elevators.jpg",
+      "description": "3 elevators in one bank",
+      "categories": [
+        "Elevators",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Atomicdragon136",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3_elevators.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/3_elevators.jpg/1280px-3_elevators.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:AUT — Bundesland Salzburg — Bezirk Zell am See — Gem. Saalbach-Hinterglemm — Saalbach — Glemmtaler Landesstraße 293 (Aufzug, Bedienfeld) 2021.jpg",
+      "description": "Hotel Gappmaier, Aufzug, Bedienfeld mit versetzten Tastern (MODUL STEP)",
+      "categories": [
+        "Taken with Huawei P30 Pro",
+        "Zigzags",
+        "Saalbach (Saalbach-Hinterglemm)",
+        "Self-published work",
+        "User:Mattes/Contributions/Topics/Transport",
+        "Austria photographs taken on 2021-08-22",
+        "Files with coordinates missing SDC location of creation",
+        "File uploads by User:Mattes (flat)",
+        "Work by Mattes 2021",
+        "User:Mattes/Contributions/Topics/Austria/Salzburg-Land",
+        "Elevator buttons",
+        "User:Mattes/Contributions/Geolocation/OK",
+        "User:Mattes/Contributions/Topics/Technology"
+      ],
+      "auteur": "Mateus2019",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AUT_%E2%80%94_Bundesland_Salzburg_%E2%80%94_Bezirk_Zell_am_See_%E2%80%94_Gem._Saalbach-Hinterglemm_%E2%80%94_Saalbach_%E2%80%94_Glemmtaler_Landesstra%C3%9Fe_293_(Aufzug,_Bedienfeld)_2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/AUT_%E2%80%94_Bundesland_Salzburg_%E2%80%94_Bezirk_Zell_am_See_%E2%80%94_Gem._Saalbach-Hinterglemm_%E2%80%94_Saalbach_%E2%80%94_Glemmtaler_Landesstra%C3%9Fe_293_%28Aufzug%2C_Bedienfeld%29_2021.jpg/1280px-AUT_%E2%80%94_Bundesland_Salzburg_%E2%80%94_Bezirk_Zell_am_See_%E2%80%94_Gem._Saalbach-Hinterglemm_%E2%80%94_Saalbach_%E2%80%94_Glemmtaler_Landesstra%C3%9Fe_293_%28Aufzug%2C_Bedienfeld%29_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    }
+  ]
+}

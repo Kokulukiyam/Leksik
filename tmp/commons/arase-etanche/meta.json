@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "arase-etanche",
+    "terme": "l'arase étanche",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Couche de mortier hydrofuge ou bande bitumineuse posée en tête du soubassement pour couper les remontées d'humidité dans le mur.",
+    "priorite": 3,
+    "requetes": [
+      "damp proof course wall",
+      "arase étanche bande bitumineuse mur",
+      "DPC brick wall membrane"
+    ],
+    "incompatibles": [
+      "soubassement",
+      "arase"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1392713 - Ipswich, Walls enclosing Jewish burial ground.jpg",
+      "description": "Walls Enclosing Jews' Burial Ground .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-pa",
+      "categories": [
+        "Masonry",
+        "Grade II listed buildings in Suffolk",
+        "Self-published work",
+        "Potential image for Wikidata item",
+        "Listed buildings in England with known IDs",
+        "Gravestones in Suffolk",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "October 2020 in Suffolk",
+        "Jewish cemeteries in England",
+        "Cemeteries in Ipswich"
+      ],
+      "auteur": "Barrymyles",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1392713_-_Ipswich,_Walls_enclosing_Jewish_burial_ground.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/1392713_-_Ipswich%2C_Walls_enclosing_Jewish_burial_ground.jpg/1280px-1392713_-_Ipswich%2C_Walls_enclosing_Jewish_burial_ground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A building constructed with Concrete Masonry blocks.jpg",
+      "description": "A building is under construction with Concrete Masonry blocks. A concrete masonry blocks is a standard size rectangular block used in building construction.",
+      "categories": [
+        "Masonry",
+        "Construction materials",
+        "Building blocks",
+        "Self-published work",
+        "Concrete buildings in India",
+        "Unidentified buildings in Kolkata"
+      ],
+      "auteur": "Salil Kumar Mukherjee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_building_constructed_with_Concrete_Masonry_blocks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/A_building_constructed_with_Concrete_Masonry_blocks.jpg/1280px-A_building_constructed_with_Concrete_Masonry_blocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2107,
+      "hauteur": 1649
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Aquincum stamped brick legionary workshop 2st cAD IMG 1098.JPG",
+      "description": "Roman brickwork from the legionary (military) workshop in Aquincum, a roman city at the Dunaube north of today's Budapest",
+      "categories": [
+        "Masonry",
+        "Self-published work",
+        "Hungary in the 2nd century",
+        "Files with coordinates missing SDC location of creation",
+        "Items from Aquincum in Budapest Historical Museum"
+      ],
+      "auteur": "Bjoertvedt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aquincum_stamped_brick_legionary_workshop_2st_cAD_IMG_1098.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Aquincum_stamped_brick_legionary_workshop_2st_cAD_IMG_1098.JPG/1280px-Aquincum_stamped_brick_legionary_workshop_2st_cAD_IMG_1098.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1404,
+      "hauteur": 906
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:België, Beringen, Sint-Theodardus-Mijn-kerk3 (cropped).jpg",
+      "description": "België, Beringen, Sint-Theodardus-Mijn-kerk",
+      "categories": [
+        "Masonry",
+        "Theodard of Maastricht Church (Beringen-Mijn)",
+        "Self-published work",
+        "Arches in Belgium",
+        "Extracted images"
+      ],
+      "auteur": "Photofantasy",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Belgi%C3%AB,_Beringen,_Sint-Theodardus-Mijn-kerk3_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Belgi%C3%AB%2C_Beringen%2C_Sint-Theodardus-Mijn-kerk3_%28cropped%29.jpg/1280px-Belgi%C3%AB%2C_Beringen%2C_Sint-Theodardus-Mijn-kerk3_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2568,
+      "hauteur": 3788
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20121026 0597 Almada & Cacilhas 10.jpg",
+      "description": "Almada & Cacilhas; 2012-10-26",
+      "categories": [
+        "Taken with Fujifilm FinePix J50",
+        "Almada",
+        "Masonry",
+        "Cacilhas",
+        "Self-published work",
+        "Rendered walls in Portugal",
+        "Photographs by Mark Ahsmann"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20121026_0597_Almada_%26_Cacilhas_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/20121026_0597_Almada_%26_Cacilhas_10.jpg/1280px-20121026_0597_Almada_%26_Cacilhas_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ba-nikolsky-2001-brickwork.jpg",
+      "description": "Brickwork of Nikolsky cathedral of Nikolsky monastery in Pereslavl.",
+      "categories": [
+        "Masonry",
+        "Self-published work",
+        "Bricks in Russia",
+        "Red bricks",
+        "Stacks of bricks",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Bakhtiyor Abdullaev",
+        "Construction of Nikolsky cathedral (Pereslavl-Zalessky)"
+      ],
+      "auteur": "Бахтиёр Абдуллаев",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ba-nikolsky-2001-brickwork.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ba-nikolsky-2001-brickwork.jpg/1280px-Ba-nikolsky-2001-brickwork.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1028
+    }
+  ]
+}

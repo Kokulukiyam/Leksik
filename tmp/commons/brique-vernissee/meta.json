@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "brique-vernissee",
+    "terme": "la brique vernissée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Brique de terre cuite revêtue d'un émail brillant et coloré.",
+    "priorite": 3,
+    "requetes": [
+      "glazed brick facade",
+      "brique vernissée",
+      "glazed bricks wall"
+    ],
+    "incompatibles": [
+      "brique"
+    ],
+    "categoriesCommons": [
+      "Category:Glazed bricks",
+      "Category:Bricks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tor aus glasierten Ziegelsteinen (Angelika Baasner-Matussek), Berlin-Adlershof, 2026-09-26, 3.jpeg",
+      "description": "Detailaufnahme der glasierten Ziegelsteinen des Tores von Angelika Baasner-Matussek, Berlin-Adlershof",
+      "categories": [
+        "CC-Zero",
+        "Glazed bricks",
+        "Self-published work",
+        "Mobile upload",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded with CommonsFinder",
+        "Tor aus glasierten Ziegelsteinen (Angelika Baasner-Matussek)"
+      ],
+      "auteur": "Nylki",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tor_aus_glasierten_Ziegelsteinen_(Angelika_Baasner-Matussek),_Berlin-Adlershof,_2026-09-26,_3.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tor_aus_glasierten_Ziegelsteinen_%28Angelika_Baasner-Matussek%29%2C_Berlin-Adlershof%2C_2026-09-26%2C_3.jpeg/1280px-Tor_aus_glasierten_Ziegelsteinen_%28Angelika_Baasner-Matussek%29%2C_Berlin-Adlershof%2C_2026-09-26%2C_3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4284,
+      "hauteur": 5712
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2009-365-306 The Old 11 - 4 Split (4070805526).jpg",
+      "description": "Is that a bowling technical term? A good poker hand? Perhaps a subtle math problem? Well... It's a block that Ace Hardware offered to replace a piece of insulating block on my wood stove that crumbled/disappeared, about 2 x 6 inches, so I have to figure out how I will do a split of the 11/4 split.",
+      "categories": [
+        "Bricks",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2009-365-306_The_Old_11_-_4_Split_(4070805526).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2009-365-306_The_Old_11_-_4_Split_%284070805526%29.jpg/1280px-2009-365-306_The_Old_11_-_4_Split_%284070805526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2376,
+      "hauteur": 1581
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Musei civici (Pavia)14.jpg",
+      "description": "Mattoni smaltati bianchi, verdi e blu, uno dei più antichi esempi europei dell'impiego di smalto stannifero, da Santa Maria del Popolo (XI-XII secolo). Musei civici (Pavia)",
+      "categories": [
+        "Glazed bricks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Pavia maiolica",
+        "12th-century art in Pavia",
+        "11th-century art in Pavia",
+        "Pottery in the Musei civici (Pavia)"
+      ],
+      "auteur": "FabioRomanoni",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Musei_civici_(Pavia)14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Musei_civici_%28Pavia%2914.jpg/1280px-Musei_civici_%28Pavia%2914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A History of Art in Chaldæa & Assyria Vol 2 - Plate 13.jpg",
+      "description": "ENAMELLED BRICK FROM NIMROUD",
+      "categories": [
+        "Bricks",
+        "Histoire de l'art dans l'antiquité (Perrot)"
+      ],
+      "auteur": "Georges Perrot and Charles Chipiez Sulpis sc. From Layard.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_History_of_Art_in_Chald%C3%A6a_%26_Assyria_Vol_2_-_Plate_13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/A_History_of_Art_in_Chald%C3%A6a_%26_Assyria_Vol_2_-_Plate_13.jpg/1280px-A_History_of_Art_in_Chald%C3%A6a_%26_Assyria_Vol_2_-_Plate_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3415,
+      "hauteur": 2347
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Detail gevel opzichterswoning met geglazuurde afzaten op de bakstenen plint en de onderdorpels van de venters - Dwingeloo - 20412362 - RCE.jpg",
+      "description": "This is an image of rijksmonumentcomplex number",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Opzichterswoning, Dwingeloo",
+        "Glazed bricks",
+        "Rijksmonumenten with known IDs",
+        "Buildings with addresses",
+        "Rijksmonumentcomplexen with known IDs",
+        "Hood moulds in the Netherlands",
+        "Plinths (architectuur) in the Netherlands",
+        "Photographs by Jan van Galen"
+      ],
+      "auteur": "Jan van Galen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detail_gevel_opzichterswoning_met_geglazuurde_afzaten_op_de_bakstenen_plint_en_de_onderdorpels_van_de_venters_-_Dwingeloo_-_20412362_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Detail_gevel_opzichterswoning_met_geglazuurde_afzaten_op_de_bakstenen_plint_en_de_onderdorpels_van_de_venters_-_Dwingeloo_-_20412362_-_RCE.jpg/1280px-Detail_gevel_opzichterswoning_met_geglazuurde_afzaten_op_de_bakstenen_plint_en_de_onderdorpels_van_de_venters_-_Dwingeloo_-_20412362_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A stamped brick at the ancient city of Babylon, bearing the name of Saddam Hussein, 1988 AD.jpg",
+      "description": "This is a photo of a monument in Iraq identified by the ID",
+      "categories": [
+        "Babylon",
+        "Saddam Hussein",
+        "Bricks",
+        "Images from Wiki Loves Monuments 2018",
+        "Self-published work",
+        "Arabic inscriptions in Iraq",
+        "Cultural heritage monuments in Iraq with known IDs",
+        "Uploaded via Campaign:wlm-iq",
+        "Images from Wiki Loves Monuments 2018 in Iraq",
+        "Images from Wiki Loves Monuments missing SDC location of creation"
+      ],
+      "auteur": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_stamped_brick_at_the_ancient_city_of_Babylon,_bearing_the_name_of_Saddam_Hussein,_1988_AD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A_stamped_brick_at_the_ancient_city_of_Babylon%2C_bearing_the_name_of_Saddam_Hussein%2C_1988_AD.jpg/1280px-A_stamped_brick_at_the_ancient_city_of_Babylon%2C_bearing_the_name_of_Saddam_Hussein%2C_1988_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1362
+    }
+  ]
+}

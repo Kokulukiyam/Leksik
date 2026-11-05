@@ -1,0 +1,179 @@
+{
+  "terme": {
+    "id": "accotement",
+    "terme": "l'accotement",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Bande non roulée, en terre ou en gravier, située entre le bord de la chaussée et le fossé.",
+    "priorite": 3,
+    "requetes": [
+      "road shoulder",
+      "accotement route",
+      "gravel road shoulder"
+    ],
+    "incompatibles": [
+      "chaussee",
+      "fosse"
+    ],
+    "categoriesCommons": [
+      "Category:Road shoulders",
+      "Category:Roadsides"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Parking area on the A27 Lewes - geograph.org.uk - 2599826.jpg",
+      "description": "Parking area on the A27 Lewes",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "September 2011 in East Sussex",
+        "Photographs by David Howard",
+        "Road shoulders",
+        "Lewes Bypass"
+      ],
+      "auteur": "David Howard",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Parking_area_on_the_A27_Lewes_-_geograph.org.uk_-_2599826.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Parking_area_on_the_A27_Lewes_-_geograph.org.uk_-_2599826.jpg/1280px-Parking_area_on_the_A27_Lewes_-_geograph.org.uk_-_2599826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Hellman's Cross, Great Canfield, Essex, England - entry from NW.JPG",
+      "description": "Road from the north-west into the hamlet of Hellmans Cross in the civil parish of Great Canfield, in Essex, England. The hamlet gets its name from 'Helmans', a late 16th-century Grade II listed house 240 yards south-east from the centre of the hamlet.",
+      "categories": [
+        "Roads in Essex",
+        "Roadsides",
+        "Hellman's Cross",
+        "Self-published work",
+        "Road signs in Essex",
+        "Number 40 in red circles",
+        "United Kingdom photographs taken on 2015-06-04",
+        "Acabashi photos: roads and paths",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Asphalt roads in England",
+        "Great Canfield in June 2015 in Essex",
+        "Trees and sky in Essex",
+        "Trees in flower in Essex",
+        "Grass in Essex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hellman%27s_Cross,_Great_Canfield,_Essex,_England_-_entry_from_NW.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hellman%27s_Cross%2C_Great_Canfield%2C_Essex%2C_England_-_entry_from_NW.JPG/1280px-Hellman%27s_Cross%2C_Great_Canfield%2C_Essex%2C_England_-_entry_from_NW.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Zeegroene zegge (macro).jpg",
+      "description": "Zeegroene zegge (Carex flacca) in de berm van de Getswerderdyk. Camera: Canon FTb QL Film: Ilford FP4 plus ISO: 100 Sluitertijd: 1/30 seconde Diafragma: f/9.5 Lens: Canon FD 50 mm 1:1.8 + Canon tussenring (extension tube) FD 25 Ontwikkelaar: Rodinal",
+      "categories": [
+        "Carex flacca",
+        "Taken with Canon FTb",
+        "Taken with Canon FD 50mm F1.8",
+        "Self-published work",
+        "Flora of Waadhoeke",
+        "Cyperaceae in the Northern Hemisphere in April",
+        "Black and white photographs of the Netherlands in the 2020s",
+        "Black and white photographs of plants in the Netherlands",
+        "2026 black and white photographs",
+        "2026 in Waadhoeke",
+        "Black and white photographs of Friesland",
+        "Road shoulders",
+        "Files with coordinates missing SDC location of creation (53° N, 5° E)",
+        "Taken on 135 film",
+        "Taken on Ilford FP4 plus",
+        "Images taken with extension tubes",
+        "Netherlands photographs taken on 2026-04-24"
+      ],
+      "auteur": "Roepers",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zeegroene_zegge_(macro).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Zeegroene_zegge_%28macro%29.jpg/1280px-Zeegroene_zegge_%28macro%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2600,
+      "hauteur": 3900
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Access road to Hatfield Park Essex England 5.jpg",
+      "description": "The access drive, with roadside verge vegetation, to Hatfield Park farm in the Hatfield Broad Oak civil parish of Essex , England. Camera : Canon PowerShot SX60 HS Software : File lens-corrected, optimized, perhaps cropped, with DxO OpticsPro 11 Elite , and likely further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Rural ways",
+        "Roadsides",
+        "Photographs with aspect ratio of 4:3",
+        "Self-published work",
+        "Trees in Essex",
+        "Driveways in Essex",
+        "Spring in Essex",
+        "Trees in the Northern Hemisphere in May",
+        "Flora of Essex in May",
+        "Plants in spring",
+        "Spring 2017 in the United Kingdom",
+        "Country lanes in Essex",
+        "Curves (road) in the United Kingdom",
+        "May 2017 in Essex",
+        "Country roads in the United Kingdom",
+        "Photographs taken on 2017-05-21",
+        "Acabashi photos: roads and paths",
+        "Dappled light and shadow in Essex",
+        "Shadows of trees in England",
+        "Verge vegetation in England",
+        "Lanes in Essex",
+        "Roadside plants in Essex",
+        "Hatfield Broad Oak photos taken with Canon PowerShot SX60 HS",
+        "Hatfield Park, Essex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Access_road_to_Hatfield_Park_Essex_England_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Access_road_to_Hatfield_Park_Essex_England_5.jpg/1280px-Access_road_to_Hatfield_Park_Essex_England_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A13 Spitsstrook.jpg",
+      "description": "De A13 in noordelijke richting inclusief geopende spitsstrook en kapot matrixbord.",
+      "categories": [
+        "Rijksweg 13",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Road shoulders"
+      ],
+      "auteur": "Marco Raaphorst",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A13_Spitsstrook.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/A13_Spitsstrook.jpg/1280px-A13_Spitsstrook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Roadside puddle on Sedgwick Lane, Nuthurst, West Sussex 01.jpg",
+      "description": "Roadside puddle after the rain, on Sedgwick Lane, at the north of the civil parish of Nuthurst in West Sussex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : RAW file lens-corrected and optimized with DxO OpticsPro 11 Elite and Viewpoint 2, and further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Ripples (water waves)",
+        "Photographs with aspect ratio of 3:2",
+        "Nuthurst",
+        "Roadsides",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Winter in West Sussex",
+        "Fallen leaves",
+        "February 2017 in West Sussex",
+        "United Kingdom photographs taken on 2017-02-27",
+        "Acabashi photos: water",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Puddles in England",
+        "After the rain in England"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roadside_puddle_on_Sedgwick_Lane,_Nuthurst,_West_Sussex_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Roadside_puddle_on_Sedgwick_Lane%2C_Nuthurst%2C_West_Sussex_01.jpg/1280px-Roadside_puddle_on_Sedgwick_Lane%2C_Nuthurst%2C_West_Sussex_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    }
+  ]
+}

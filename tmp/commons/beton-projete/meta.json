@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "beton-projete",
+    "terme": "le béton projeté",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Béton envoyé à grande vitesse par une lance sur une paroi, qui forme une surface rugueuse et bosselée.",
+    "priorite": 3,
+    "requetes": [
+      "shotcrete spraying",
+      "béton projeté",
+      "sprayed concrete wall"
+    ],
+    "categoriesCommons": [
+      "Category:Shotcrete",
+      "Category:Concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Algaida - Puig de Randa - Santuari de Gràcia 08 ies.jpg",
+      "description": "View of the Santuari de Gràcia beneath an imposing cliff of Lower to Middle Miocene bioclastic calcarenites belonging to the Randa Unit (Algaida, Mallorca). The cliff displays pronounced, predominantly horizontal sedimentary bedding and large rock overhangs formed by differential weathering. On the right, a greyish slope appears to have been extensively stabilised with shotcrete. Wire mesh and additional protective measures are used to reduce rockfall hazards and stabilise the slopes adjacent to the sanctuary.",
+      "categories": [
+        "Calcarenite",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Shotcrete",
+        "Exterior of the Santuari de Nostra Senyora de Gràcia",
+        "Falling stones protection nets",
+        "License migration redundant",
+        "Self-published work",
+        "Bedding and stratification",
+        "Spain photographs taken on 2009-03-06",
+        "Miocene rocks in Spain",
+        "Cliffs of the Balearic Islands",
+        "Geology of Mallorca",
+        "March 2009 in Mallorca"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Algaida_-_Puig_de_Randa_-_Santuari_de_Gr%C3%A0cia_08_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Algaida_-_Puig_de_Randa_-_Santuari_de_Gr%C3%A0cia_08_ies.jpg/1280px-Algaida_-_Puig_de_Randa_-_Santuari_de_Gr%C3%A0cia_08_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:500px photo (71530683).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Concrete",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Jeremy Kanter",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(71530683).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/500px_photo_%2871530683%29.jpeg/1280px-500px_photo_%2871530683%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1366
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bauarbeiten östliches Domumfeld-Kölner Dom-Spritzbeton-8289.jpg",
+      "description": "Köln: Neugestaltung östliche Domumgebung. Ein Bauarbeiter trägt Spritzbeton auf Betonstahlmatten auf",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 60D",
+        "Shotcrete",
+        "License migration redundant",
+        "Welded wire mesh",
+        "Self-published work",
+        "Information field template with formatting",
+        "2013 photographs of Cologne",
+        "Men at work in Cologne",
+        "Files with coordinates missing SDC location of creation (50° N, 6° E)",
+        "Files by User:Raymond from de.wikipedia/Cologne",
+        "Neugestaltung östliche Domumgebung"
+      ],
+      "auteur": "Raimond Spekking",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bauarbeiten_%C3%B6stliches_Domumfeld-K%C3%B6lner_Dom-Spritzbeton-8289.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bauarbeiten_%C3%B6stliches_Domumfeld-K%C3%B6lner_Dom-Spritzbeton-8289.jpg/1280px-Bauarbeiten_%C3%B6stliches_Domumfeld-K%C3%B6lner_Dom-Spritzbeton-8289.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5085,
+      "hauteur": 3390
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ablution block in a container (7208538040).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Sanitation",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208538040).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ablution_block_in_a_container_%287208538040%29.jpg/1280px-Ablution_block_in_a_container_%287208538040%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Shotcrete2008 2.jpg",
+      "description": "2nd view of shotcrete application to the Burlington Rail Tunnel inside the southern portal. Taken Oct 2008.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix 5600",
+        "Shotcrete",
+        "License migration redundant",
+        "Burlington Tunnel",
+        "Self-published work",
+        "Rail tunnel portals in the United States"
+      ],
+      "auteur": "Arminnius",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shotcrete2008_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Shotcrete2008_2.jpg/1280px-Shotcrete2008_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ablution block in a container (7208538316).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208538316).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Ablution_block_in_a_container_%287208538316%29.jpg/1280px-Ablution_block_in_a_container_%287208538316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    }
+  ]
+}

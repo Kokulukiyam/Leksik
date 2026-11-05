@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "escalier-a-double-revolution",
+    "terme": "l'escalier à double révolution",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier monumental dont deux volées symétriques partent d'un même palier ou y aboutissent.",
+    "priorite": 3,
+    "requetes": [
+      "double staircase imperial",
+      "escalier à double révolution",
+      "grand double staircase"
+    ],
+    "incompatibles": [
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois"
+    ],
+    "categoriesCommons": [
+      "Category:Imperial staircases",
+      "Category:Staircases"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Terme Berzieri, scalinata imperiale biforcata.jpg",
+      "description": "Terme Berzieri, scalinata imperiale biforcata",
+      "categories": [
+        "Imperial staircases",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Terme Berzieri - Interior",
+        "Photographs taken on 2026-02-08"
+      ],
+      "auteur": "Basilicofresco",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Terme_Berzieri,_scalinata_imperiale_biforcata.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Terme_Berzieri%2C_scalinata_imperiale_biforcata.jpg/1280px-Terme_Berzieri%2C_scalinata_imperiale_biforcata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A welcoming living room features a wooden staircase leading to an upper level.jpg",
+      "description": "A welcoming living room features a wooden staircase leading to an upper level, large windows allowing natural light, and a view of lush greenery outside.",
+      "categories": [
+        "Staircases",
+        "Interiors",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_welcoming_living_room_features_a_wooden_staircase_leading_to_an_upper_level.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/A_welcoming_living_room_features_a_wooden_staircase_leading_to_an_upper_level.jpg/1280px-A_welcoming_living_room_features_a_wooden_staircase_leading_to_an_upper_level.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3708,
+      "hauteur": 5555
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:AS-Palacio de la Junta Principal del Principado 29.jpg",
+      "description": "Día de puertas abiertas.",
+      "categories": [
+        "Imperial staircases",
+        "Self-published work",
+        "All media supported by Wikimedia España in 2016",
+        "Stairs in Asturias",
+        "Images by User:Adolfobrigido",
+        "Grand staircases in Spain",
+        "Taking photos of Oviedo, November 2016",
+        "Interior of Palacio de la Junta General del Principado de Asturias"
+      ],
+      "auteur": "Adolfobrigido",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AS-Palacio_de_la_Junta_Principal_del_Principado_29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/AS-Palacio_de_la_Junta_Principal_del_Principado_29.jpg/1280px-AS-Palacio_de_la_Junta_Principal_del_Principado_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4859,
+      "hauteur": 3239
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:BayombongCapitoljf9916 14.JPG",
+      "description": "Upload Wizard photos of -- Bayombong, Nueva Vizcaya [1] - Tribu Vizcayano Village - Paraiso Tribu Vizcayano [2] [3] - (an eco-tourism park aims to conserve and safeguard the Lower Magat Eco-Tourism Park (LMET) [4] Nueva Vizcaya to hold 5th Ammungan Festival, P4.8 million for the 5th Grand Ammungan Festival on May 19-24, 2013 part of the 174th founding anniversary of Nueva Vizcaya) -- Nueva Vizcaya Provincial Capitol Complex (by its builder, Governor Patricio G. Dumlao, along the national road, housing all the provincial government offices, the capitol building, an architectural ingenuity with ",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "Staircases",
+        "Self-published work",
+        "Nueva Vizcaya Provincial Capitol Complex"
+      ],
+      "auteur": "Ramon FVelasquez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BayombongCapitoljf9916_14.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/BayombongCapitoljf9916_14.JPG/1280px-BayombongCapitoljf9916_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Escala del palau del marqués de la Scala, València.jpg",
+      "description": "Escala del palau del marqués de la Scala, València.",
+      "categories": [
+        "Palau del Marqués de la Scala",
+        "Imperial staircases",
+        "Self-published work"
+      ],
+      "auteur": "Joanbanjo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Escala_del_palau_del_marqu%C3%A9s_de_la_Scala,_Val%C3%A8ncia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Escala_del_palau_del_marqu%C3%A9s_de_la_Scala%2C_Val%C3%A8ncia.jpg/1280px-Escala_del_palau_del_marqu%C3%A9s_de_la_Scala%2C_Val%C3%A8ncia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4539,
+      "hauteur": 3071
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alcohol-free ar.jpg",
+      "description": "Безалкогольный бар",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Staircases",
+        "Self-published work"
+      ],
+      "auteur": "Dmitry Rozhkov",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alcohol-free_ar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Alcohol-free_ar.jpg/1280px-Alcohol-free_ar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    }
+  ]
+}

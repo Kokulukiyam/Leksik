@@ -1,0 +1,166 @@
+{
+  "terme": {
+    "id": "baie-geminee",
+    "terme": "la baie géminée",
+    "categorie": "Façade et ouvertures",
+    "definition": "Paire de baies accolées, séparées par une colonnette ou un pilier mince.",
+    "priorite": 3,
+    "requetes": [
+      "mullioned twin window",
+      "baie géminée",
+      "bifora window"
+    ],
+    "incompatibles": [
+      "meneau",
+      "baie"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Doppelbogen, Szentkirályistrasse 28, 2024 Józsefváros.jpg",
+      "description": "A building of the Pázmány Péter Catholic University Faculty of Law and Political Sciences. Built to HQ of the Szent István Társulat (~~Stephen I of Hungary Association), R.C. publishing house in Romantic style with Neo-Gothic elements in 1897-98. Architect: Antal Hofhauser. Till 1945 Stephaneum Printing, till 1980s/1990s Franklin Printing. The University moved in after/around 1996. Above the the geteways 2-2 sitting bear stone statues holding 1-1 shield. In middle of the facade is a King Saint Stephen stone statue, in his left hand he holds a double cross while his right is extended blessedly.",
+      "categories": [
+        "Bifora",
+        "Self-published work",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "May 2024 in Budapest",
+        "Hungary photographs taken on 2024-05-01",
+        "Arch windows in Budapest",
+        "Szentkirályi utca 28-30, Budapest"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Doppelbogen,_Szentkir%C3%A1lyistrasse_28,_2024_J%C3%B3zsefv%C3%A1ros.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Doppelbogen%2C_Szentkir%C3%A1lyistrasse_28%2C_2024_J%C3%B3zsefv%C3%A1ros.jpg/1280px-Doppelbogen%2C_Szentkir%C3%A1lyistrasse_28%2C_2024_J%C3%B3zsefv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dubrovnik, chiesa francescana, chiostro, sala capitolare (oggi museo).JPG",
+      "description": "Franciscan Church and Monastery in Dubrovnik",
+      "categories": [
+        "Bifora",
+        "Self-published work",
+        "Photographs by User:Sailko",
+        "All media supported by Wikimedia CH",
+        "Images by Sailko - Supported by Wikimedia CH",
+        "Franciscan Church and Monastery in Dubrovnik - Cloister"
+      ],
+      "auteur": "Sailko",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dubrovnik,_chiesa_francescana,_chiostro,_sala_capitolare_(oggi_museo).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Dubrovnik%2C_chiesa_francescana%2C_chiostro%2C_sala_capitolare_%28oggi_museo%29.JPG/1280px-Dubrovnik%2C_chiesa_francescana%2C_chiostro%2C_sala_capitolare_%28oggi_museo%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:St Andrew's Church, Cambridge, c 1915-1920 (4573057946).jpg",
+      "description": "St Andrew's Anglican Church, Cambridge, New Zealand, circa 1915-1920 Reference Number: 1/2-000803-G Photographer: William Archer Price Dry plate glass negative Price Collection, Photographic Archive, Alexander Turnbull Library Find out more about this image from the Alexander Turnbull Library.",
+      "categories": [
+        "Bifora",
+        "St Andrew's church complex, Cambridge",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Gothic Revival church towers",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Black and white photographs of New Zealand",
+        "Black and white photographs of churches",
+        "Photographs by National Library NZ on The Commons",
+        "Files with coordinates missing SDC location of creation",
+        "Gothic Revival spires",
+        "Gothic Revival transepts",
+        "Photographs by William Archer Price",
+        "Trifora in England",
+        "Photographs in the National Library of New Zealand",
+        "Church spires in New Zealand"
+      ],
+      "auteur": "National Library NZ on The Commons",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:St_Andrew%27s_Church,_Cambridge,_c_1915-1920_(4573057946).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Andrew%27s_Church%2C_Cambridge%2C_c_1915-1920_%284573057946%29.jpg/1280px-St_Andrew%27s_Church%2C_Cambridge%2C_c_1915-1920_%284573057946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4704,
+      "hauteur": 6444
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Corvinus University of Budapest, west facade, Hephaestus, Rhea statues, 2016 Budapest.jpg",
+      "description": ": Corvinus University of Budapest west (main) facade in Ferencváros district, Budapest , Hungary .",
+      "categories": [
+        "Bifora",
+        "Self-published work",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "June 2016 in Budapest",
+        "Statues of Hephaestus",
+        "Sculptures of Rhea (mythology)",
+        "Corvinus University Main Building - west facade statues"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corvinus_University_of_Budapest,_west_facade,_Hephaestus,_Rhea_statues,_2016_Budapest.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Corvinus_University_of_Budapest%2C_west_facade%2C_Hephaestus%2C_Rhea_statues%2C_2016_Budapest.jpg/1280px-Corvinus_University_of_Budapest%2C_west_facade%2C_Hephaestus%2C_Rhea_statues%2C_2016_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Beynac Burg - Bifora.jpg",
+      "description": "Beynac ( Dordogne ). Castle: Gothic Bifora.",
+      "categories": [
+        "Château de Beynac",
+        "Bifora",
+        "Self-published work",
+        "Windows in Dordogne"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beynac_Burg_-_Bifora.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Beynac_Burg_-_Bifora.jpg/1280px-Beynac_Burg_-_Bifora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dayton Women's Club.jpg",
+      "description": "Front of the Dayton Women's Club , located at 225 N. Ludlow Street ( State Route 48 ) in downtown Dayton , Ohio , United States . Built in 1845, it is listed on the National Register of Historic Places .",
+      "categories": [
+        "Clubhouses in Ohio",
+        "Women's clubs in the United States",
+        "Taken with Canon PowerShot A540",
+        "Ohio State Route 48",
+        "Bifora",
+        "Second Empire architecture in Ohio",
+        "National Register of Historic Places in Dayton, Ohio",
+        "Self-published work",
+        "PD-self",
+        "Snow in Ohio",
+        "National Register of Historic Places with known IDs",
+        "Street lights in Ohio",
+        "Columns in Ohio",
+        "Houses built in Ohio in 1845",
+        "Building-centered pictures by User:Nyttend",
+        "January 2011 in Ohio",
+        "Arch windows in the United States",
+        "Files with coordinates missing SDC location of creation",
+        "Asymmetric buildings",
+        "United States photographs taken on 2011-01-23",
+        "2011 in Dayton, Ohio",
+        "National Register of Historic Places missing SDC location of creation",
+        "Mansards in the United States",
+        "Downtown Dayton, Ohio",
+        "Media supported by WikiProject Women in Red - 2018",
+        "Brick houses in Dayton, Ohio"
+      ],
+      "auteur": "Nyttend",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dayton_Women%27s_Club.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Dayton_Women%27s_Club.jpg/1280px-Dayton_Women%27s_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    }
+  ]
+}

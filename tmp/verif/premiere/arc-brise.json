@@ -1,0 +1,58 @@
+{
+  "termId": "arc-brise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond de mosquée à arcs rayés et décors calligraphiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Edirne, Turquie",
+      "note": "Arcs d'un autre type, ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte de monastère à arc brisé en pierre dans un mur blanc.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.51,
+        "largeur": 0.49,
+        "hauteur": 0.37
+      },
+      "lieu": "Tallinn, Estonie",
+      "note": "Arc brisé net, à deux courbes se rejoignant en pointe."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Marché de Noël nocturne vu sous une arche de lumières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berlin",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Voûte et coupoles de mosquée en céramique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chiraz, Iran",
+      "note": "Voûtes, pas un arc."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Arc en ruine couvert de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Courbe en plein cintre ou presque, pas pointue."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Voûte sur croisée d'ogives avec clé de voûte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte, pas un arc brisé."
+    }
+  ]
+}

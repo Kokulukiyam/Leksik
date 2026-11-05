@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "sol-en-marbre",
+    "terme": "le sol en marbre",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Sol fait de dalles de marbre polies aux veines visibles.",
+    "priorite": 2,
+    "requetes": [
+      "marble floor",
+      "sol en marbre",
+      "polished marble floor interior"
+    ],
+    "incompatibles": [
+      "carrelage",
+      "gres-cerame-poli",
+      "marbre"
+    ],
+    "categoriesCommons": [
+      "Category:Marble"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Marble (mainly CaCO3) (10974620495).jpg",
+      "description": "marble (mainly CaCO3) locality: Spain photo (c) 2013 Jan Helebrant &lt;a href=\" http://www.juhele.webnode.cz \" rel=\"nofollow\"&gt;www.juhele.webnode.cz&lt;/a&gt;",
+      "categories": [
+        "Marble",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Jan Helebrant"
+      ],
+      "auteur": "Jan Helebrant",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Marble_(mainly_CaCO3)_(10974620495).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Marble_%28mainly_CaCO3%29_%2810974620495%29.jpg/1280px-Marble_%28mainly_CaCO3%29_%2810974620495%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:KS Marble Traders.jpg",
+      "description": "KS Marble Traders Shop in Delhi",
+      "categories": [
+        "Temples",
+        "Marble",
+        "Self-published work"
+      ],
+      "auteur": "MohdAqibKhan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:KS_Marble_Traders.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/KS_Marble_Traders.jpg/1280px-KS_Marble_Traders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Graphitic marble (49149538298).jpg",
+      "description": "(public display, Limper Geology Museum, Miami University, Oxford, Ohio, USA) Marble is a crystalline-textured, calcitic, intermediate- to high-grade metamorphic rock. It forms by intense alteration of limestone. From exhibit signage: Graphitic Marble This marble contains a number of different minerals. The mineral graphite is visible as small black flakes with a shiny, metallis luster. It is derived from the metamorphism of carbon bearing material. Also visible are small gold colored pyrite crystals, dark flakes of phlogopite, and small brown/black magnetite crystals. The presence of the two m",
+      "categories": [
+        "Marble",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from James St. John Flickr stream"
+      ],
+      "auteur": "James St. John",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Graphitic_marble_(49149538298).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Graphitic_marble_%2849149538298%29.jpg/1280px-Graphitic_marble_%2849149538298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2809,
+      "hauteur": 1924
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Galala Marble.jpg",
+      "description": "Egyptian Marble Galala Slabs",
+      "categories": [
+        "Marble",
+        "Self-published work"
+      ],
+      "auteur": "Marmodesign",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Galala_Marble.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Galala_Marble.jpg/1280px-Galala_Marble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:34202 Marmor mit Spurit 1.jpg",
+      "description": "Marble with Spurrite - Merwinite Weight: 162.9 g Locality: Atakinsky massif, Podkamennaya Tunguska, Siberia, Russia",
+      "categories": [
+        "Marble",
+        "Spurrite",
+        "Self-published work",
+        "Images by J. Patrick Fischer",
+        "Minerals of Russia",
+        "Merwinite",
+        "Fotoaktion Mineralien München 2024"
+      ],
+      "auteur": "J. Patrick Fischer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:34202_Marmor_mit_Spurit_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/34202_Marmor_mit_Spurit_1.jpg/1280px-34202_Marmor_mit_Spurit_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4624,
+      "hauteur": 2604
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Calc-silicate marble.JPG",
+      "description": "Pyroxene (with cleavage) and olivine (without cleavage) in a Calc-silicate marble from Brasil. Crossed nicols image, magnification 2x (Field of view = 7mm)",
+      "categories": [
+        "Marble",
+        "Self-published work",
+        "Microscopic images of crystals",
+        "Rocks in Brazil",
+        "Petrology of Brazil",
+        "Images from European Science Photo Competition 2015 in Italy",
+        "Marble in Brazil",
+        "Metamorphic rocks in thin section",
+        "Non-photographic media from European Science Photo Competition 2015",
+        "Uploaded via Campaign:espc-it"
+      ],
+      "auteur": "Strekeisen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calc-silicate_marble.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Calc-silicate_marble.JPG/1280px-Calc-silicate_marble.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    }
+  ]
+}

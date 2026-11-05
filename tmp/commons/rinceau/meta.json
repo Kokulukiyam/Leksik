@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "rinceau",
+    "terme": "le rinceau",
+    "categorie": "Ornement",
+    "definition": "Ornement de tiges végétales ondulantes qui s'enroulent en volutes garnies de feuilles.",
+    "priorite": 3,
+    "requetes": [
+      "rinceau ornament",
+      "scrolling vine relief",
+      "rinceaux sculptés"
+    ],
+    "incompatibles": [
+      "feuille-d-acanthe",
+      "frise",
+      "bas-relief",
+      "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Ornaments"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A Full View of the Ornamentations in the Entrance of the Umayyad Mosque - Old Damascus City.jpg",
+      "description": "The vegetal ornamentations that adorn the roof of the entrance of the Great Umayyad Mosque in Old Damascus, which shows the amazing interplay of colours.",
+      "categories": [
+        "Ornaments",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-sy",
+        "Images from Wiki Loves Monuments 2020",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Syria photographs taken on 2020-03-02",
+        "Images from Wiki Loves Monuments 2020 in Syria",
+        "Western entrance to Umayyad Mosque"
+      ],
+      "auteur": "Anas Badawi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Full_View_of_the_Ornamentations_in_the_Entrance_of_the_Umayyad_Mosque_-_Old_Damascus_City.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/A_Full_View_of_the_Ornamentations_in_the_Entrance_of_the_Umayyad_Mosque_-_Old_Damascus_City.jpg/1280px-A_Full_View_of_the_Ornamentations_in_the_Entrance_of_the_Umayyad_Mosque_-_Old_Damascus_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4453,
+      "hauteur": 3299
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:0308 marokko 31.03.2014 (24778472778).jpg",
+      "description": "TELOUET: &lt;a href=\" https://de.wikipedia.org/wiki/Telouet \" rel=\"nofollow\"&gt;de.wikipedia.org/wiki/Telouet&lt;/a&gt; GLAOUI KASBAH: &lt;a href=\" https://www.tourdust.com/blog/posts/gallery---kasbah-telouet \" rel=\"nofollow\"&gt;www.tourdust.com/blog/posts/gallery---kasbah-telouet&lt;/a&gt; Kasbah of Boulaouane قصبة بولعوان",
+      "categories": [
+        "Ornaments",
+        "Interior of the Kasbah Telouet",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Decorative and applied arts of Morocco",
+        "Stucco decoration in Morocco"
+      ],
+      "auteur": "Heribert Bechen .. thanks for 2.6 mio. visits from Bergisch Gladbach, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0308_marokko_31.03.2014_(24778472778).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/0308_marokko_31.03.2014_%2824778472778%29.jpg/1280px-0308_marokko_31.03.2014_%2824778472778%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1400,
+      "hauteur": 933
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:215nice.JPG",
+      "description": "julies front door",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "Ornaments",
+        "Self-published work"
+      ],
+      "auteur": "YAHWEH",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:215nice.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/215nice.JPG/1280px-215nice.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 3056
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A Stained and Glass Window by Marechal of Metz.jpg",
+      "description": "This picture shows a large window containing a representation of the blind Tobit, guided by his wife Anna, going to meet his son, placed within an architectural composition in the Renaissance style. Taken from the book 'Masterpieces of industrial art & sculpture at the international exhibition 1862 / selected and described by J.B&gt; Waring, architect', held by the University of Edinburgh Heritage collections.",
+      "categories": [
+        "Ornaments",
+        "Images from the University of Edinburgh",
+        "Self-published work",
+        "Glass windows"
+      ],
+      "auteur": "Almarand",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Stained_and_Glass_Window_by_Marechal_of_Metz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/A_Stained_and_Glass_Window_by_Marechal_of_Metz.jpg/1280px-A_Stained_and_Glass_Window_by_Marechal_of_Metz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:3670080 سفر وزیر میراث فرهنگی، گردشگری و صنایع دستی به یزد.jpg",
+      "description": "سفر وزیر میراث فرهنگی، گردشگری و صنایع دستی به یزد",
+      "categories": [
+        "Ornaments",
+        "Facades",
+        "Buildings in Yazd",
+        "Trees in Yazd",
+        "Windows in Yazd",
+        "Files from external sources with reviewed licenses",
+        "2x5 arrays",
+        "Photos from Mehrnews.com",
+        "2021 in Yazd",
+        "Photos by Majid Dehghanizadeh for Mehr News Agency"
+      ],
+      "auteur": "Majid Dehghanizadeh",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3670080_%D8%B3%D9%81%D8%B1_%D9%88%D8%B2%DB%8C%D8%B1_%D9%85%DB%8C%D8%B1%D8%A7%D8%AB_%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C%D8%8C_%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C_%D9%88_%D8%B5%D9%86%D8%A7%DB%8C%D8%B9_%D8%AF%D8%B3%D8%AA%DB%8C_%D8%A8%D9%87_%DB%8C%D8%B2%D8%AF.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/3670080_%D8%B3%D9%81%D8%B1_%D9%88%D8%B2%DB%8C%D8%B1_%D9%85%DB%8C%D8%B1%D8%A7%D8%AB_%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C%D8%8C_%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C_%D9%88_%D8%B5%D9%86%D8%A7%DB%8C%D8%B9_%D8%AF%D8%B3%D8%AA%DB%8C_%D8%A8%D9%87_%DB%8C%D8%B2%D8%AF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1000,
+      "hauteur": 607
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:0440A7F8-6A6A-4534-ACCB-BB8FF40B.jpg",
+      "description": "هدا تطبيق يتمكن من صورة فريد وعجيبا",
+      "categories": [
+        "CC-Zero",
+        "Ornaments",
+        "Self-published work",
+        "Uploaded from Arabic Wikipedia using UploadWizard",
+        "Uploaded via Campaign:ar"
+      ],
+      "auteur": "Bousslham",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0440A7F8-6A6A-4534-ACCB-BB8FF40B.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/0440A7F8-6A6A-4534-ACCB-BB8FF40B.jpg/1280px-0440A7F8-6A6A-4534-ACCB-BB8FF40B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    }
+  ]
+}

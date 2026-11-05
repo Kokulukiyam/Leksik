@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "enduit-de-platre",
+    "terme": "l'enduit de plâtre",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Couche de plâtre étalée et lissée sur un mur ou un plafond intérieur pour obtenir une surface plane prête à peindre.",
+    "priorite": 2,
+    "requetes": [
+      "plastering interior wall gypsum",
+      "enduit plâtre mur",
+      "fresh plaster wall interior"
+    ],
+    "incompatibles": [
+      "platre"
+    ],
+    "categoriesCommons": [
+      "Category:Plaster"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:20130610 Zagreb 116.jpg",
+      "description": "2013-06-10 in Zagreb.",
+      "categories": [
+        "Taken with Olympus XZ-2",
+        "Buildings in Zagreb",
+        "Facades",
+        "Empire architecture",
+        "Plaster",
+        "Self-published work",
+        "2013 in Zagreb",
+        "Photographs by Mark Ahsmann"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20130610_Zagreb_116.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/20130610_Zagreb_116.jpg/1280px-20130610_Zagreb_116.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2976,
+      "hauteur": 3968
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Florence loewy portrait.jpg",
+      "description": "crédit photo: Théophile Boutin",
+      "categories": [
+        "Plaster",
+        "Injuries to the wrist and hand",
+        "Self-published work",
+        "Women with necklaces",
+        "Women with finger rings",
+        "Women smiling with closed mouths",
+        "Short hairstyles (female)",
+        "Medical tape",
+        "Women with hand on head",
+        "Female people in rooms",
+        "Florence Loewy"
+      ],
+      "auteur": "Floewy",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Florence_loewy_portrait.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Florence_loewy_portrait.jpg/1280px-Florence_loewy_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1772,
+      "hauteur": 2362
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Capitols, pillars and plaster work, Kennedy Monument, Ballantrae.jpg",
+      "description": "Capitols, pillars and old plaster work that once covered the whole roof and walls, Kennedy Monument, Ballantrae",
+      "categories": [
+        "Plaster",
+        "Bargany Aisle, Ballantrae",
+        "Clan Kennedy",
+        "Self-published work",
+        "February 2022 in South Ayrshire",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capitols,_pillars_and_plaster_work,_Kennedy_Monument,_Ballantrae.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Capitols%2C_pillars_and_plaster_work%2C_Kennedy_Monument%2C_Ballantrae.jpg/1280px-Capitols%2C_pillars_and_plaster_work%2C_Kennedy_Monument%2C_Ballantrae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 2752
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fireproofing delam 2.jpg",
+      "description": "Delaminated spray fireproofing at firestop at Cambrian College, Greater Sudbury, Ontario , Canada",
+      "categories": [
+        "Building code violations",
+        "Plaster",
+        "Electrical conduit",
+        "Fireproofing",
+        "Self-published work",
+        "PD-self",
+        "Pipe technology",
+        "Damaged fireproofing"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fireproofing_delam_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Fireproofing_delam_2.jpg/1280px-Fireproofing_delam_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2086,
+      "hauteur": 2765
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Fontaine 2020 Chengdong Guo.jpg",
+      "description": "white plaster model sculpture",
+      "categories": [
+        "Abstract art",
+        "Sculptures",
+        "Plaster",
+        "Self-published work",
+        "Items with VRTS permission confirmed",
+        "Derivative works on Fountain (Duchamp)"
+      ],
+      "auteur": "AlexandraHinc",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fontaine_2020_Chengdong_Guo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Fontaine_2020_Chengdong_Guo.jpg/1280px-Fontaine_2020_Chengdong_Guo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6720,
+      "hauteur": 4480
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dunpleister spuiten.jpg",
+      "description": "Projection d'un enduit fin sur une plaque de plâtre dans une maison nouvellement construite, avant la pose d'un papier peint.",
+      "categories": [
+        "Plaster",
+        "Self-published work",
+        "Men at work",
+        "Dunpleister",
+        "JPG files redacted to remove non-free embedded media"
+      ],
+      "auteur": "Afbouwslegers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dunpleister_spuiten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Dunpleister_spuiten.jpg/1280px-Dunpleister_spuiten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    }
+  ]
+}

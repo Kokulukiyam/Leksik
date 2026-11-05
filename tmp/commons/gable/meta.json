@@ -1,0 +1,164 @@
+{
+  "terme": {
+    "id": "gable",
+    "terme": "le gâble",
+    "categorie": "Ornement",
+    "definition": "Couronnement triangulaire et aigu, ajouré, qui surmonte un portail ou une baie gothique.",
+    "priorite": 3,
+    "requetes": [
+      "gable gothic portal",
+      "gothic gablet",
+      "gâble portail cathédrale"
+    ],
+    "incompatibles": [
+      "pinacle",
+      "fronton",
+      "crochet",
+      "fleuron"
+    ],
+    "categoriesCommons": [
+      "Category:Gables",
+      "Category:Gothic gables"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Frontansicht Volksbad Heidenheim Kunstmuseum 20201229.jpg",
+      "description": "Eingangsbereich des 1904 gegründeten Volksbads in Heidenheim, heute Kunstmuseum, aufgenommen vom gegenüberliegenden Parkhaus Schlossarkaden am 29. Dezember 2020",
+      "categories": [
+        "Gables",
+        "Facades",
+        "Built in 1904",
+        "Heidenheimer SB",
+        "Kunstmuseum Heidenheim",
+        "Self-published work"
+      ],
+      "auteur": "Püppen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Frontansicht_Volksbad_Heidenheim_Kunstmuseum_20201229.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Frontansicht_Volksbad_Heidenheim_Kunstmuseum_20201229.jpg/1280px-Frontansicht_Volksbad_Heidenheim_Kunstmuseum_20201229.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2969,
+      "hauteur": 3769
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Detail - Facade of the Duomo - Milan 2014.jpg",
+      "description": "Facade of the Duomo - Milan",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Self-published work",
+        "Information field template with formatting",
+        "José Luiz uploads",
+        "February 2014 in Milan",
+        "Tracery in Italy",
+        "Crockets in Italy",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2014-02-21",
+        "Duomo (Milan) - Pinnacles",
+        "Gothic gables",
+        "Duomo (Milan) - Details of the facade"
+      ],
+      "auteur": "José Luiz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detail_-_Facade_of_the_Duomo_-_Milan_2014.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Detail_-_Facade_of_the_Duomo_-_Milan_2014.jpg/1280px-Detail_-_Facade_of_the_Duomo_-_Milan_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2572,
+      "hauteur": 1696
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Empena Dupla.jpg",
+      "description": "Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, sob o azul do céu paulistano.",
+      "categories": [
+        "Taken with Sony DSC-WX9",
+        "Gables",
+        "Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2016",
+        "Uploaded via Campaign:wlm-br",
+        "Images from Wiki Loves Monuments 2016 in Brazil",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2016 in Brazil - São Paulo",
+        "Brazil photographs taken on 2015-08-10",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Obviously ineligible submissions for WLM 2016 in Brazil"
+      ],
+      "auteur": "Andre Enrico Cassettari Zanolla",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Empena_Dupla.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Empena_Dupla.jpg/1280px-Empena_Dupla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:3014 Misty Street - pic4 - Chemawa Indian School - Salem Oregon.jpg",
+      "description": "House detail — Chemawa Indian School , 3014 Misty Street, Salem, Marion County, Oregon. Built 1896; demolished 1978. Former National Register of Historic Places listing. 1977 photograph from the HABS —Historic American Buildings Survey images of Oregon . LOC card \"Frame with novelty siding, 28' (three-bay front) x 20' with 14' x 20' and 6' x 19' additions, gable and shed roofs, one story, three-bay shed roof entrance porch with balustrade and square posts, decorative trim at gable end. Built 1896; rear addition to rear of it, 1908; demolished 1978. One of two remaining structures from early pe",
+      "categories": [
+        "1977 in Oregon",
+        "PD US Government",
+        "Gables",
+        "PD US NPS",
+        "Files from the Historic American Buildings Survey",
+        "Built in Oregon in 1896",
+        "Wooden houses in Oregon",
+        "CC-PD-Mark",
+        "Black and white photographs of Oregon",
+        "Historic American Buildings Survey photographs of the Chemawa Indian School"
+      ],
+      "auteur": "Steve Viale",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:3014_Misty_Street_-_pic4_-_Chemawa_Indian_School_-_Salem_Oregon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/3014_Misty_Street_-_pic4_-_Chemawa_Indian_School_-_Salem_Oregon.jpg/1280px-3014_Misty_Street_-_pic4_-_Chemawa_Indian_School_-_Salem_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3991,
+      "hauteur": 5000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:1564Overcast in sitios, puroks and villages of Tibaguin island 68.jpg",
+      "description": "Overcast in sitios, puroks and villages of Tibaguin island 2020",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Gables",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Files with coordinates missing SDC location of creation",
+        "Overcast in sitios, puroks and villages of Tibaguin island 2020",
+        "Philippines photographs taken on 2020-11-25"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1564Overcast_in_sitios,_puroks_and_villages_of_Tibaguin_island_68.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/1564Overcast_in_sitios%2C_puroks_and_villages_of_Tibaguin_island_68.jpg/1280px-1564Overcast_in_sitios%2C_puroks_and_villages_of_Tibaguin_island_68.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20130611-DSC 9003 (9176226224) (2).jpg",
+      "description": "20130611-DSC_9003",
+      "categories": [
+        "Buildings in Guinea-Bissau",
+        "Taken with Nikon D5100",
+        "Gables",
+        "2013 in Guinea-Bissau",
+        "Nhacra",
+        "Oio Region",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Bars in Guinea-Bissau",
+        "Files from jbdodane Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Nightclubs in Guinea-Bissau"
+      ],
+      "auteur": "jbdodane",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20130611-DSC_9003_(9176226224)_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/20130611-DSC_9003_%289176226224%29_%282%29.jpg/1280px-20130611-DSC_9003_%289176226224%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    }
+  ]
+}

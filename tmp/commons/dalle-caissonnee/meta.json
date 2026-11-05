@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "dalle-caissonnee",
+    "terme": "la dalle caissonnée",
+    "categorie": "Structure",
+    "definition": "Dalle de béton dont la sous-face est creusée de caissons carrés formés par des nervures croisées.",
+    "priorite": 3,
+    "requetes": [
+      "waffle slab ceiling",
+      "dalle caissonnée",
+      "coffered concrete slab"
+    ],
+    "incompatibles": [
+      "dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Coffered ceilings",
+      "Category:Concrete ceilings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Detalle Techo Interior Casa de la Cultura Buenos Aires La Prensa.jpg",
+      "description": "Cielorraso del primer piso del edificio \"La Prensa\" (Actual Casa de la Cultura), en Avenida de Mayo, Buenos Aires",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Coffered ceilings",
+        "License migration redundant",
+        "Uniform tiling 4-8-8 (truncated square tiling)",
+        "Self-published work",
+        "Interior of Casa de la Cultura de Buenos Aires"
+      ],
+      "auteur": "I the author of this work",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detalle_Techo_Interior_Casa_de_la_Cultura_Buenos_Aires_La_Prensa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Detalle_Techo_Interior_Casa_de_la_Cultura_Buenos_Aires_La_Prensa.jpg/1280px-Detalle_Techo_Interior_Casa_de_la_Cultura_Buenos_Aires_La_Prensa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 2134
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Gummersbach - Sankt Franziskus in 02 ies.jpg",
+      "description": "Sankt Franziskus in Gummersbach",
+      "categories": [
+        "Ceiling light fixtures in Germany",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "License migration redundant",
+        "Interior of St. Franziskus (Gummersbach)",
+        "Concrete ceilings",
+        "Lighting design",
+        "Self-published work"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gummersbach_-_Sankt_Franziskus_in_02_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Gummersbach_-_Sankt_Franziskus_in_02_ies.jpg/1280px-Gummersbach_-_Sankt_Franziskus_in_02_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3882,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Helmert-Haus.Kassettendecke.P1185827.jpg",
+      "description": "Kassettendecke im Treppenhaus des Helmert-Hauses auf dem Potsdamer Telegrafenberg",
+      "categories": [
+        "Taken with Panasonic Lumix DC-G9",
+        "CC-Zero",
+        "Coffered ceilings",
+        "Self-published work",
+        "Lens focal length 10 mm",
+        "F-number f/1.7",
+        "Helmert-Haus"
+      ],
+      "auteur": "Bautsch",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Helmert-Haus.Kassettendecke.P1185827.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Helmert-Haus.Kassettendecke.P1185827.jpg/1280px-Helmert-Haus.Kassettendecke.P1185827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1797,
+      "hauteur": 1928
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Elementdecke 4.jpg",
+      "description": "precast ceiling element",
+      "categories": [
+        "Taken with HP PhotoSmart 318",
+        "Concrete ceilings",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "sarang",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Elementdecke_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Elementdecke_4.jpg/1280px-Elementdecke_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1792,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Academy of Athens Coffered Ceiling.jpg",
+      "description": "Coffered Ceiling at the Academy of Athens",
+      "categories": [
+        "Polychromy",
+        "Coffered ceilings",
+        "Self-published work",
+        "Academy of Athens Building",
+        "Decorated ceilings"
+      ],
+      "auteur": "Nikos Kitsakis",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Academy_of_Athens_Coffered_Ceiling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Academy_of_Athens_Coffered_Ceiling.jpg/1280px-Academy_of_Athens_Coffered_Ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Elementdecke.jpg",
+      "description": "precast ceiling element",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "License migration redundant",
+        "Concrete ceilings",
+        "Self-published work"
+      ],
+      "auteur": "picture taken by Störfix",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Elementdecke.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Elementdecke.jpg/1280px-Elementdecke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3437,
+      "hauteur": 1722
+    }
+  ]
+}

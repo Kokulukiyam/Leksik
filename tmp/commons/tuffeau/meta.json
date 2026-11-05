@@ -1,0 +1,164 @@
+{
+  "terme": {
+    "id": "tuffeau",
+    "terme": "le tuffeau",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Calcaire tendre très blanc du Val de Loire, taillé en blocs pour les façades et les châteaux.",
+    "priorite": 3,
+    "requetes": [
+      "tuffeau façade",
+      "tuffeau stone Loire",
+      "tufa limestone Loire chateau wall"
+    ],
+    "incompatibles": [
+      "pierre-de-taille",
+      "calcaire"
+    ],
+    "categoriesCommons": [
+      "Category:Limestone buildings in France"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cherves-Richemont 16 Château Chesnel calcaire&sable ferrugineux-2014.jpg",
+      "description": "Calcaire et sable ferrugineux, caractéristiques des murs du Château Chesnel, Cherves-Richemont, Charente, France.",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Nikon D5100",
+        "Monuments historiques inscrits",
+        "Geology of Charente",
+        "Château Chesnel",
+        "Self-published work",
+        "Information field template with formatting",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Limestone buildings in France",
+        "France photographs taken on 2014-09-21"
+      ],
+      "auteur": "JLPC",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cherves-Richemont_16_Ch%C3%A2teau_Chesnel_calcaire%26sable_ferrugineux-2014.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cherves-Richemont_16_Ch%C3%A2teau_Chesnel_calcaire%26sable_ferrugineux-2014.jpg/1280px-Cherves-Richemont_16_Ch%C3%A2teau_Chesnel_calcaire%26sable_ferrugineux-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:West Tower on the South Façade - July 2025.jpg",
+      "description": "Le château est construit en pierre de tuffeau, une pierre utilisée pour de nombreux châteaux dans cette région de France.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Exterior of Poséidon Castle"
+      ],
+      "auteur": "Chateauposeidon",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:West_Tower_on_the_South_Fa%C3%A7ade_-_July_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/West_Tower_on_the_South_Fa%C3%A7ade_-_July_2025.jpg/1280px-West_Tower_on_the_South_Fa%C3%A7ade_-_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Montsoreau (Maine-et-Loire).jpg",
+      "description": "Le village de Montsoreau connu un essor extraordinaire au début du XIXème siècle, grâce à l'exploitation de la pierre à bâtir, le tuffeau, qui donne sa blancheur aux maisons",
+      "categories": [
+        "Montsoreau",
+        "Taken with Canon PowerShot G11",
+        "Flickr images uploaded by Flickr upload bot",
+        "Limestone buildings in France",
+        "Photographs by Daniel Jolivet"
+      ],
+      "auteur": "sybarite48",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Montsoreau_(Maine-et-Loire).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montsoreau_%28Maine-et-Loire%29.jpg/1280px-Montsoreau_%28Maine-et-Loire%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Azay-le-Rideau - Façade sur cour du château avec l'escalier d'honneur à loggias, vue à travers le parc.jpg",
+      "description": "Vue sur la façade de la cour du château d'Azay-le-Rideau, édifié entre 1518 et 1527 sous la direction du trésorier royal Gilles Berthelot et de son épouse Philippe Lesbahy. La photographie met en valeur au centre l'escalier d'honneur révolutionnaire à trois niveaux avec ses loggias ouvertes. Ce chef-d'œuvre de la Première Renaissance française remplace pour la première fois les tours de vis extérieures traditionnelles du Moyen Âge par un escalier intérieur à rampes droites d'inspiration italienne. La fine sculpture du tuffeau en dentelle de pierre est richement ornée de pilastres et des emblèm",
+      "categories": [
+        "Base Mérimée",
+        "Château d'Azay-le-Rideau",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments 2026 in France"
+      ],
+      "auteur": "Rolf Kranz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Azay-le-Rideau_-_Fa%C3%A7ade_sur_cour_du_ch%C3%A2teau_avec_l%27escalier_d%27honneur_%C3%A0_loggias,_vue_%C3%A0_travers_le_parc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Azay-le-Rideau_-_Fa%C3%A7ade_sur_cour_du_ch%C3%A2teau_avec_l%27escalier_d%27honneur_%C3%A0_loggias%2C_vue_%C3%A0_travers_le_parc.jpg/1280px-Azay-le-Rideau_-_Fa%C3%A7ade_sur_cour_du_ch%C3%A2teau_avec_l%27escalier_d%27honneur_%C3%A0_loggias%2C_vue_%C3%A0_travers_le_parc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8000,
+      "hauteur": 5353
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Vitrac, Dordogne - Montfort - 06.jpg",
+      "description": "Vitrac (Dordogne, France) - Hameau de Montfort - Vue du château de Montfort à travers un portail entouré de beaux bâtiments de calcaire ocre",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Limestone buildings in France",
+        "Château de Montfort",
+        "Files by Benjism89",
+        "Nouvelle-Aquitaine photographs taken on 2024-09-19",
+        "Montfort (Vitrac)"
+      ],
+      "auteur": "Benjamin Smith",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vitrac,_Dordogne_-_Montfort_-_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Vitrac%2C_Dordogne_-_Montfort_-_06.jpg/1280px-Vitrac%2C_Dordogne_-_Montfort_-_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4087,
+      "hauteur": 6125
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Façades sud et est du château d'Azay-le-Rideau et son miroir d'eau.jpg",
+      "description": "Bâti entre 1518 et 1523 sous la direction de Gilles Berthelot, le château d'Azay-le-Rideau incarne l'un des sommets de la Première Renaissance française, mêlant traditions architecturales nationales et décors d'influence italienne. Cette perspective met magnifiquement en valeur les façades sud et est ainsi que la poivrière d'angle emblématique. Édifié sur une île de l'Indre, le château semble flotter sur l'eau. C'est au XIXe siècle, lors de l'aménagement du parc paysager romantique, que le cours de la rivière a été élargi pour donner naissance à ce célèbre miroir d'eau. Les reflets parfaits su",
+      "categories": [
+        "Base Mérimée",
+        "Château d'Azay-le-Rideau",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments 2026 in France"
+      ],
+      "auteur": "Rolf Kranz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ades_sud_et_est_du_ch%C3%A2teau_d%27Azay-le-Rideau_et_son_miroir_d%27eau.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Fa%C3%A7ades_sud_et_est_du_ch%C3%A2teau_d%27Azay-le-Rideau_et_son_miroir_d%27eau.jpg/1280px-Fa%C3%A7ades_sud_et_est_du_ch%C3%A2teau_d%27Azay-le-Rideau_et_son_miroir_d%27eau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7500,
+      "hauteur": 5005
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "terme": {
+    "id": "demi-croupe",
+    "terme": "la demi-croupe",
+    "categorie": "Toitures",
+    "definition": "Petit versant incliné qui coupe seulement le haut d'un pignon.",
+    "priorite": 3,
+    "requetes": [
+      "half hipped roof",
+      "demi-croupe toit",
+      "jerkinhead roof"
+    ],
+    "incompatibles": [
+      "croupe",
+      "pignon"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Sandomierz Rynek 1.jpg",
+      "description": "Sandomierz - Market Square",
+      "categories": [
+        "Taken with Olympus SP-500UZ",
+        "Half hipped roofs",
+        "Self-published work",
+        "Roofs in Poland",
+        "Gables in Poland",
+        "Clouds and blue sky in Poland",
+        "Restaurants in Świętokrzyskie Voivodeship",
+        "Photos by User:Andrzej O",
+        "Poland photographs taken on 2011-06-30",
+        "Sandomierz Market Square",
+        "Houses in Sandomierz"
+      ],
+      "auteur": "Andrzej O",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sandomierz_Rynek_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Sandomierz_Rynek_1.jpg/1280px-Sandomierz_Rynek_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Görtschach 10 2006.JPG",
+      "description": "Görtschach, a dispersed settlement near lake Millstatt / Carinthia / Austria / EU . The lower district consists mainly of buildings dating from the 1950s and later. Up on the hill are the old farms Pichler, Niggele and Ledl. In the background the Millstätter Alpe mountain range with Tschiernock.",
+      "categories": [
+        "Millstätter Berg",
+        "GFDL",
+        "Taken with Canon PowerShot G9",
+        "2009 in Austria",
+        "Dispersed settlements",
+        "License migration redundant",
+        "Self-published work",
+        "Files by User:Joadl",
+        "Autumn in Carinthia",
+        "Austria photographs taken on 2009-10-11",
+        "Files with coordinates missing SDC location of creation",
+        "Electricity pylons in Carinthia",
+        "Tschierwegernock",
+        "Half hipped with gablet roofs",
+        "Joadl AUST A",
+        "Görtschach (Gemeinde Millstatt)"
+      ],
+      "auteur": "Joadl",
+      "licence": "CC BY-SA 3.0 at",
+      "lien": "https://commons.wikimedia.org/wiki/File:G%C3%B6rtschach_10_2006.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/G%C3%B6rtschach_10_2006.JPG/1280px-G%C3%B6rtschach_10_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:KocaLjubelj.JPG",
+      "description": "Alpine hut at Ljubelj (Loibl) pass - border Slovenia/Austria.",
+      "categories": [
+        "Ljubelj Lodge",
+        "Files with no machine-readable source",
+        "Half hipped roofs",
+        "Self-published work",
+        "PD-self",
+        "Assumed own work",
+        "Wooden shingle roofs in Slovenia"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Žiga (étant donné la revendication de droit d’auteur).",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:KocaLjubelj.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/KocaLjubelj.JPG/1280px-KocaLjubelj.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Eisenkappel Troegern Church 2007 02.JPG",
+      "description": "Church of Troegern (Korte) in the Troegern canyon in the community Eisenkappel-Vellach , district Völkermarkt , Carinthia , Austria , European Union .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot G9",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Filialkirche hl. Kreuz, Trögern",
+        "Self-published work",
+        "Files by User:Joadl",
+        "Files with coordinates missing SDC location of creation",
+        "Half hipped with gablet roofs"
+      ],
+      "auteur": "JOADL",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eisenkappel_Troegern_Church_2007_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Eisenkappel_Troegern_Church_2007_02.JPG/1280px-Eisenkappel_Troegern_Church_2007_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Hotel Krone in Huttwil BE.jpg",
+      "description": "Huttwil, canton de Berne : Auberge Krone, construite en 1730",
+      "categories": [
+        "Shingle roofs",
+        "Half hipped roofs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Switzerland photographs taken on 2019-05-26",
+        "Gasthof Krone (Bahnhofstrasse 14, Huttwil)"
+      ],
+      "auteur": "JoachimKohler-HB",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hotel_Krone_in_Huttwil_BE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Hotel_Krone_in_Huttwil_BE.jpg/1280px-Hotel_Krone_in_Huttwil_BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3840,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Keutschach Dobein 1 vulgo KANOUTZ Keusche 30052010 12.jpg",
+      "description": "Dobein #1, farmstead \"vulgo KANOUTZ\" in the municipality Keutschach am See , district Klagenfurt Land, Carinthia, Austria",
+      "categories": [
+        "Sattnitz",
+        "GFDL",
+        "Taken with Nikon D90",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Johann Jaritz",
+        "Spring 2010 in Bezirk Klagenfurt Land",
+        "Farmhouses in Bezirk Klagenfurt Land",
+        "Forests in Bezirk Klagenfurt-Land",
+        "Yellow buildings in Carinthia",
+        "Half hipped with gablet roofs",
+        "Farmhouses in Keutschach am See"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 3.0 at",
+      "lien": "https://commons.wikimedia.org/wiki/File:Keutschach_Dobein_1_vulgo_KANOUTZ_Keusche_30052010_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Keutschach_Dobein_1_vulgo_KANOUTZ_Keusche_30052010_12.jpg/1280px-Keutschach_Dobein_1_vulgo_KANOUTZ_Keusche_30052010_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2096
+    }
+  ]
+}

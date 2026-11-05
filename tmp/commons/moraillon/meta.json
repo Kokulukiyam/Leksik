@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "moraillon",
+    "terme": "le moraillon",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Ferrure articulée à anneau qui permet de fermer une porte ou un portail avec un cadenas.",
+    "priorite": 3,
+    "requetes": [
+      "hasp and staple padlock",
+      "moraillon",
+      "hasp door"
+    ],
+    "incompatibles": [
+      "cadenas"
+    ],
+    "categoriesCommons": [
+      "Category:Hasps",
+      "Category:Padlocks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Manure hasp, Agritechnica 2023, Hanover (P1140951).jpg",
+      "description": "Exhibit at Agritechnica 2023",
+      "categories": [
+        "Liquid manure",
+        "Hasps",
+        "Self-published work",
+        "Agritechnica 2023 (supported by Wikimedia Deutschland)",
+        "Pictures by MB-one rejected"
+      ],
+      "auteur": "MB-one",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Manure_hasp,_Agritechnica_2023,_Hanover_(P1140951).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Manure_hasp%2C_Agritechnica_2023%2C_Hanover_%28P1140951%29.jpg/1280px-Manure_hasp%2C_Agritechnica_2023%2C_Hanover_%28P1140951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2813,
+      "hauteur": 3516
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Abloy padlock in Oulu.jpg",
+      "description": "Classic Abloy padlock used to close a door in Oulu (Finland).",
+      "categories": [
+        "CC-Zero",
+        "Hasps",
+        "Self-published work",
+        "Padlocks in Finland",
+        "Taken with Nokia N95",
+        "Files with coordinates missing SDC location of creation",
+        "Finland photographs taken on 2007-05-09",
+        "May 2007 in Oulu",
+        "Abloy locks",
+        "Unidentified locations in Oulu",
+        "Padlocks on doors",
+        "Doors in Oulu"
+      ],
+      "auteur": "Quim Gil",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abloy_padlock_in_Oulu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Abloy_padlock_in_Oulu.jpg/1280px-Abloy_padlock_in_Oulu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Brihatta Art Foundation 15.jpg",
+      "description": "Brihatta Art Foundation",
+      "categories": [
+        "Padlocks",
+        "Self-published work",
+        "Project Korikath-Unreviewed",
+        "Project Korikath-All images",
+        "Uploaded via Campaign:Project Korikath",
+        "Images by User:Wasiul Bahar",
+        "The Cosmopolitan Chicken Project covered by Project Korikath"
+      ],
+      "auteur": "Wasiul Bahar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brihatta_Art_Foundation_15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Brihatta_Art_Foundation_15.jpg/1280px-Brihatta_Art_Foundation_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Shed, outside storage, old wooden door, hasp, hook, code padlock, red paint, (utebod, skjul, uthus, dør, rød vegg, hengelås, haspe, dørkrok) Tønsberg, Norway 2019-08-28 DSC05588.jpg",
+      "description": "Old, wooden door on shed (outside storage), locked by hasp (hook) and code padlock. Red paint on wall. (in Norwegian: \"utebod, skjul, uthus, dør, rød vegg, hengelås, kodelås, haspe, dørkrok\"). Photo taken on August 28th in Tønsberg, Norway.",
+      "categories": [
+        "Hasps",
+        "Self-published work",
+        "Sheds in Norway",
+        "Door locks in Norway",
+        "Wooden doors in Norway",
+        "Red paint",
+        "Cabin hooks",
+        "Padlocks on doors",
+        "Metal hooks"
+      ],
+      "auteur": "Wolfmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shed,_outside_storage,_old_wooden_door,_hasp,_hook,_code_padlock,_red_paint,_(utebod,_skjul,_uthus,_d%C3%B8r,_r%C3%B8d_vegg,_hengel%C3%A5s,_haspe,_d%C3%B8rkrok)_T%C3%B8nsberg,_Norway_2019-08-28_DSC05588.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Shed%2C_outside_storage%2C_old_wooden_door%2C_hasp%2C_hook%2C_code_padlock%2C_red_paint%2C_%28utebod%2C_skjul%2C_uthus%2C_d%C3%B8r%2C_r%C3%B8d_vegg%2C_hengel%C3%A5s%2C_haspe%2C_d%C3%B8rkrok%29_T%C3%B8nsberg%2C_Norway_2019-08-28_DSC05588.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bügelschloss Profi 116.jpg",
+      "description": "Das Bügelschloss Profi 116 von Burg-Wächter",
+      "categories": [
+        "Padlocks",
+        "Burg-Wächter",
+        "Self-published work",
+        "Photographs taken on 2015-08-11"
+      ],
+      "auteur": "Talisker76",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C3%BCgelschloss_Profi_116.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/B%C3%BCgelschloss_Profi_116.jpg/1280px-B%C3%BCgelschloss_Profi_116.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3019,
+      "hauteur": 2889
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Hasp MET DP20043.jpg",
+      "description": "Cypriot; Hasp; Bronzes",
+      "categories": [
+        "CC-Zero",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Hasps",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "The Cesnola Collection",
+        "Bronze hasps at the Department of Greek and Roman Art, Metropolitan Museum of Art"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hasp_MET_DP20043.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hasp_MET_DP20043.jpg/1280px-Hasp_MET_DP20043.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1976,
+      "hauteur": 1712
+    }
+  ]
+}

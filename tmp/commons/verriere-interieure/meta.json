@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "verriere-interieure",
+    "terme": "la verrière intérieure",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Cloison vitrée à fins profilés d'acier noirs formant des carreaux, de style atelier.",
+    "priorite": 2,
+    "requetes": [
+      "interior steel glass partition atelier",
+      "verrière d'atelier intérieure",
+      "black steel frame glass wall interior"
+    ],
+    "incompatibles": [
+      "cloison-vitree"
+    ],
+    "categoriesCommons": [
+      "Category:Crittall windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Side view Marine Court - geograph.org.uk - 1751230.jpg",
+      "description": "Side view Marine Court On the seafront at St Leonards Marine Court is a ocean liner shaped art-deco building, upon completion in 1937 was the tallest block of flats in the United Kingdom, comprising some 153 flats and 3 restaurants. Though a listed building, it is in a poor state of repair and awaiting the outcome of planning enquiries. It has a number of inappropriate modern double glazed, plastic framed windows out of keeping with the original \"Crittall\" style frames St_Leonards-on-Sea",
+      "categories": [
+        "Crittall windows",
+        "Images from Geograph Britain and Ireland",
+        "Marine Court, St Leonards-on-Sea",
+        "Information field template with formatting",
+        "Images by Paul Gillett"
+      ],
+      "auteur": "Paul Gillett",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Side_view_Marine_Court_-_geograph.org.uk_-_1751230.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Side_view_Marine_Court_-_geograph.org.uk_-_1751230.jpg/1280px-Side_view_Marine_Court_-_geograph.org.uk_-_1751230.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Kluczynski Federal Building, Chicago Loop, Chicago, Illinois (11004376673).jpg",
+      "description": "The Kluczynski Federal Building is a modernist skyscraper in the downtown Chicago Loop located at 230 South Dearborn Street. The 45-story structure was designed by Ludwig Mies van der Rohe and completed in 1974 as the last portion of the new Federal Center. It is 562 feet (171 m) tall and stands on the site previously occupied by the Chicago Federal Building by the architect Henry Ives Cobb. It was named in honor of U.S. Congressman John C. Kluczynski, who represented Illinois's 5th congressional district from 1951 to 1975 after his death that year. This is one of three buildings by van der Ro",
+      "categories": [
+        "Kluczynski Federal Building",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Ken Lund"
+      ],
+      "auteur": "Ken Lund from Reno, Nevada, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kluczynski_Federal_Building,_Chicago_Loop,_Chicago,_Illinois_(11004376673).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Kluczynski_Federal_Building%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%2811004376673%29.jpg/1280px-Kluczynski_Federal_Building%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%2811004376673%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:It Was Just An Instant Shot From The Bus Window (255646547).jpeg",
+      "description": "500px provided description: Sometimes you just see something, point your camera and ... []",
+      "categories": [
+        "Crittall windows",
+        "Hotels in the City of Westminster",
+        "Bryanston Street, London",
+        "2018 in the City of Westminster",
+        "Photos imported with import-500px",
+        "London photographs taken on 2018-04-16",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)"
+      ],
+      "auteur": "Alain Borel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:It_Was_Just_An_Instant_Shot_From_The_Bus_Window_(255646547).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/It_Was_Just_An_Instant_Shot_From_The_Bus_Window_%28255646547%29.jpeg/1280px-It_Was_Just_An_Instant_Shot_From_The_Bus_Window_%28255646547%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1710,
+      "hauteur": 1140
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Kluczynski Federal Building, Chicago Loop, Chicago, Illinois (9179342135).jpg",
+      "description": "The Kluczynski Federal Building is a modernist skyscraper in the downtown Chicago Loop located at 230 South Dearborn Street. The 45-story structure was designed by Ludwig Mies van der Rohe and completed in 1974 as the last portion of the new Federal Center. It is 562 feet (171 m) tall and stands on the site previously occupied by the Chicago Federal Building by the architect Henry Ives Cobb. It was named in honor of U.S. Congressman John C. Kluczynski, who represented Illinois's 5th congressional district from 1951 to 1975 after his death that year. This is one of three buildings by van der Ro",
+      "categories": [
+        "Kluczynski Federal Building",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Ken Lund"
+      ],
+      "auteur": "Ken Lund from Reno, Nevada, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kluczynski_Federal_Building,_Chicago_Loop,_Chicago,_Illinois_(9179342135).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Kluczynski_Federal_Building%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289179342135%29.jpg/1280px-Kluczynski_Federal_Building%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289179342135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Duchess Theatre - Catherine Street, London - The Pitmen Painters (6447479293).jpg",
+      "description": "Near the Strand in London. Was here to see Crazy For You at the Novello Theatre. This is the Duchess Theatre on Catherine Street. Currently home of The Pitmen Painters. Grade II listed. Duchess Theatre, Westminster 1900/0/10311 CATHERINE STREET 07-JUL-05 Duchess Theatre II Theatre. 1928-9 to the designs of Ewen Barr for Arthur Gibbons. Interios by Marc Henri and Laverdet. Neo-Tudor style. Steel framed building clad in horizontal stone panels to street frontage; roof not seen. A low parapet runs across the entire faÎade. Three central canted bays supported on console brackets, with cast panels ",
+      "categories": [
+        "Taken with Fujifilm FinePix S1500",
+        "Crittall windows",
+        "Duchess Theatre, London",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "London photographs taken on 2011-11-26",
+        "2011 in the City of Westminster",
+        "Uploads by Oxyman",
+        "Photographs by Elliott Brown",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Theatres in the City of Westminster at night"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duchess_Theatre_-_Catherine_Street,_London_-_The_Pitmen_Painters_(6447479293).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Duchess_Theatre_-_Catherine_Street%2C_London_-_The_Pitmen_Painters_%286447479293%29.jpg/1280px-Duchess_Theatre_-_Catherine_Street%2C_London_-_The_Pitmen_Painters_%286447479293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Royal Shakespeare Theatre, Stratford-upon-Avon from across the river - DSC08980.JPG",
+      "description": "Looking across the River Avon towards the Royal Shakespeare Theatre, Stratford-upon-Avon, England.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-S950",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "River Avon, Warwickshire",
+        "Crittall windows",
+        "Royal Shakespeare Theatre",
+        "License migration redundant",
+        "Self-published work",
+        "August 2010 in Warwickshire",
+        "Photos uploaded by Rept0n1x",
+        "Stratford-upon-Avon photographs taken on 2010-08-18"
+      ],
+      "auteur": "Rept0n1x",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Royal_Shakespeare_Theatre,_Stratford-upon-Avon_from_across_the_river_-_DSC08980.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Royal_Shakespeare_Theatre%2C_Stratford-upon-Avon_from_across_the_river_-_DSC08980.JPG/1280px-Royal_Shakespeare_Theatre%2C_Stratford-upon-Avon_from_across_the_river_-_DSC08980.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

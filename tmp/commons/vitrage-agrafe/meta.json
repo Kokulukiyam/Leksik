@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "vitrage-agrafe",
+    "terme": "le vitrage agrafé",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade vitrée dont les vitres sont tenues par des fixations ponctuelles en acier (rotules, araignées) et non par des cadres.",
+    "priorite": 3,
+    "requetes": [
+      "spider glazing fittings facade",
+      "vitrage agrafé VEA",
+      "point fixed glass facade"
+    ],
+    "incompatibles": [
+      "mur-rideau"
+    ],
+    "categoriesCommons": [
+      "Category:Structural glazing",
+      "Category:Glass facades",
+      "Category:Curtain walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2023-06-07 BUGA Mannheim 001.jpg",
+      "description": "Bundesgartenschau 2023 in Mannheim (Baden-Württemberg) - An der Fassade von Mannheim Hauptbahnhof.",
+      "categories": [
+        "Clocks",
+        "Glass facades",
+        "Mannheim Hauptbahnhof",
+        "Bundesgartenschau 2023",
+        "Self-published work"
+      ],
+      "auteur": "Ahmet Düz, Dreiländer- & Oberrheinfotograf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-06-07_BUGA_Mannheim_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2023-06-07_BUGA_Mannheim_001.jpg/1280px-2023-06-07_BUGA_Mannheim_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Facade of the Galeria Krakowska 01.jpg",
+      "description": "Facade of the Galeria Krakowska facing the Plac Jana Nowaka-Jeziorańskiego",
+      "categories": [
+        "Galeria Krakowska",
+        "Curtain walls",
+        "Self-published work"
+      ],
+      "auteur": "Kritzolina",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Facade_of_the_Galeria_Krakowska_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Facade_of_the_Galeria_Krakowska_01.jpg/1280px-Facade_of_the_Galeria_Krakowska_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3195,
+      "hauteur": 4793
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Architecture (14962799899).jpg",
+      "description": "Can I use this photo? Read &lt;a href=\" https://www.flickr.com/people/fotokoci \"&gt;here&lt;/a&gt; for more informations.",
+      "categories": [
+        "CC-Zero",
+        "Glass facades",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Kostandin Minga"
+      ],
+      "auteur": "fotokoci",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Architecture_(14962799899).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Architecture_%2814962799899%29.jpg/1280px-Architecture_%2814962799899%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Curtain Wall SAS Royal Hotel.jpg",
+      "description": "Shows the fassade of the de:Radisson SAS Royal Hotel Kopenhagen",
+      "categories": [
+        "Taken with Canon PowerShot A640",
+        "Curtain walls",
+        "Hotel Royal, Copenhagen",
+        "Flickr images reviewed by FlickreviewR",
+        "Windows in Copenhagen"
+      ],
+      "auteur": "Lisa Risager from Denmark",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Curtain_Wall_SAS_Royal_Hotel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Curtain_Wall_SAS_Royal_Hotel.jpg/1280px-Curtain_Wall_SAS_Royal_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Architecture (14376757178).jpg",
+      "description": "Can I use this photo? Read &lt;a href=\" https://www.flickr.com/people/fotokoci \"&gt;here&lt;/a&gt; for more informations.",
+      "categories": [
+        "Taken with Samsung ES8",
+        "CC-Zero",
+        "Glass facades",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Kostandin Minga",
+        "Espace léopold"
+      ],
+      "auteur": "fotokoci",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Architecture_(14376757178).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Architecture_%2814376757178%29.jpg/1280px-Architecture_%2814376757178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2232,
+      "hauteur": 3968
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20100719 liege30.JPG",
+      "description": "Angle du boulevard Piercot et de l'avenue Rogier, à Liège.",
+      "categories": [
+        "Glass facades",
+        "CBC Banque & Assurance",
+        "Boulevard Piercot",
+        "Self-published work",
+        "2010 in Liège",
+        "Corner buildings in Belgium",
+        "Belgium photographs taken on 2010-07-19",
+        "Avenue Rogier (Liège)",
+        "Apartment buildings in Liège",
+        "Houses in Liège",
+        "Cafés in Liège",
+        "Oriel windows in Liège",
+        "Windows in Liège",
+        "Photos of Belgium by user Jean Housen",
+        "2010 photos by user Jean Housen",
+        "Glass walls in Liège",
+        "Loggias in Liège",
+        "Bank buildings in Liège"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20100719_liege30.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/20100719_liege30.JPG/1280px-20100719_liege30.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "epaufrure",
+    "terme": "l'épaufrure",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Éclat de béton détaché sur une arête ou une surface, laissant une cavité irrégulière.",
+    "priorite": 3,
+    "requetes": [
+      "concrete spalling edge",
+      "épaufrure béton",
+      "spalled concrete"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A2-2022.jpg",
+      "description": "Double-exposure holographic interferogram showing the deformation of the outer surface of the asphalt concrete sample during compression. Systems of parallel stripes reflect the movement of individual elements of the aggregate (crushed stone) bound by plastic asphalt. Author: Oleksandr Kesariyskyi",
+      "categories": [
+        "Concrete",
+        "Self-published work",
+        "Uploaded via Campaign:espc-ua",
+        "General category images from Wiki Science Competition in Ukraine 2022",
+        "Images from Wiki Science Competition 2022 in Ukraine"
+      ],
+      "auteur": "Algeo-2022",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A2-2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/A2-2022.jpg/1280px-A2-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1987,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2nd Floor Rod Biding in Progress.jpg",
+      "description": "11-4C 1435 CDA Cuttack, Orissa, India",
+      "categories": [
+        "Taken with Sony Ericsson W8",
+        "Concrete",
+        "Self-published work"
+      ],
+      "auteur": "BCSInfo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2nd_Floor_Rod_Biding_in_Progress.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2nd_Floor_Rod_Biding_in_Progress.jpg/1280px-2nd_Floor_Rod_Biding_in_Progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ablution block in a container (7208537910).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Sanitation",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC source of file",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208537910).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Ablution_block_in_a_container_%287208537910%29.jpg/1280px-Ablution_block_in_a_container_%287208537910%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ablution block in a container (7208538040).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Sanitation",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208538040).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Ablution_block_in_a_container_%287208538040%29.jpg/1280px-Ablution_block_in_a_container_%287208538040%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Abandoned concrete factory mechanism.jpg",
+      "description": "Un mécanisme d'engrenages (usage inconnu) vu dans une cimenterie abandonnée à Benageber, en Espagne.",
+      "categories": [
+        "Taken with Nikon D80",
+        "Benagéber",
+        "Concrete",
+        "Self-published work",
+        "Images with extracted images",
+        "Featured pictures on Wikipedia, Hebrew",
+        "Abandoned buildings in the Land of Valencia",
+        "Rusty machines",
+        "Assessment tagged pages marked as POTY candidates",
+        "Spur gears"
+      ],
+      "auteur": "Diacritica",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abandoned_concrete_factory_mechanism.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Abandoned_concrete_factory_mechanism.jpg/1280px-Abandoned_concrete_factory_mechanism.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3900,
+      "hauteur": 2613
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:3D Concrete Printer.jpg",
+      "description": "TU/e Built Environment's Rohaco 3D Concrete Printer being extensively used for Concrete Printing Research.",
+      "categories": [
+        "Construction",
+        "Concrete",
+        "3D printing",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Construction 3D printing",
+        "Files with coordinates missing SDC location of creation (51° N, 5° E)"
+      ],
+      "auteur": "Misanthropic One",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3D_Concrete_Printer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/3D_Concrete_Printer.jpg/1280px-3D_Concrete_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7728,
+      "hauteur": 4354
+    }
+  ]
+}

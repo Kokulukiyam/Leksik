@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "epingle",
+    "terme": "l'épingle",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Petite barre d'acier droite à crochets aux deux bouts, qui relie deux barres opposées d'une armature.",
+    "priorite": 3,
+    "requetes": [
+      "rebar cross tie hook",
+      "épingle armature",
+      "crosstie reinforcement"
+    ],
+    "incompatibles": [
+      "ferraillage",
+      "cadre-d-armature"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:AltbachBassersdorff-20120925ii.jpg",
+      "description": "Ausfluſs der beyden Rohre zur Durchleitung des Waſſers währender Bauarbeiten im Bette des Altbachs zů Baſſersdorf; im Vordergrunde Armirungseiſen für den Bau der Ufermauer.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FX9",
+        "Water pipes",
+        "Altbach (Glatt)",
+        "Rebar",
+        "Self-published work",
+        "Canals in the canton of Zürich",
+        "Files with coordinates missing SDC location of creation",
+        "Switzerland photographs taken on 2012-09-25",
+        "Metal pipes",
+        "Uploads by User:Abderitestatos",
+        "Construction sites in Bassersdorf"
+      ],
+      "auteur": "Abderitestatos",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AltbachBassersdorff-20120925ii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/AltbachBassersdorff-20120925ii.jpg/1280px-AltbachBassersdorff-20120925ii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Centre Point - New Oxford Street, Holborn.jpg",
+      "description": "Modern architecture in Holborn. Seen after we left the British Museum. Initially we were heading down New Oxford Street. I wasn't sure which way Tottenham Court Road Underground Station was, so ended up going via Centre Saint Giles onto High Holborn (then found our way to Holborn Underground Station). Was probably better to go there, as only had to get two tube trains back to Victoria. Centre Point seen down New Oxford Street. It's at 101–103 New Oxford Street. Built between 1961 and 1966. The current construction work is due to Crossrail. The building is Grade II listed. Centre Point and Pond",
+      "categories": [
+        "Reinforced concrete",
+        "Centre Point",
+        "London photographs taken on 2015-08-23",
+        "2015 in the London Borough of Camden",
+        "Photographs by Elliott Brown",
+        "Construction of Crossrail, London",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Printed scaffolding covers in London"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centre_Point_-_New_Oxford_Street,_Holborn.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Centre_Point_-_New_Oxford_Street%2C_Holborn.jpg/1280px-Centre_Point_-_New_Oxford_Street%2C_Holborn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3216,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A crate of bent rebar.jpg",
+      "description": "A crate of bent and somewhat rusty rebar at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden. Photo taken on this site .",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Rebar",
+        "Self-published work",
+        "August 2016 in Sweden",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Sweden photographs taken on 2016-08-06",
+        "Rusty objects in Sweden",
+        "Many objects",
+        "Bent objects",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_crate_of_bent_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/A_crate_of_bent_rebar.jpg/1280px-A_crate_of_bent_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4385,
+      "hauteur": 3005
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Armoured.jpg",
+      "description": "Ruined armoured.",
+      "categories": [
+        "Reinforced concrete",
+        "Self-published work",
+        "Files by User:R-bahn"
+      ],
+      "auteur": "R-bahn",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armoured.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Armoured.jpg/1280px-Armoured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Blue lines - Flickr - mRio.jpg",
+      "description": "Blue lines",
+      "categories": [
+        "Rebar",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2005-08-13",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "mario",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_lines_-_Flickr_-_mRio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Blue_lines_-_Flickr_-_mRio.jpg/1280px-Blue_lines_-_Flickr_-_mRio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2018-06-01 (026) Construction site at Tiefgrabenrotte in Frankenfels, Austria.jpg",
+      "description": "Construction site at Tiefgrabenrotte in Frankenfels, Austria",
+      "categories": [
+        "Reinforced concrete",
+        "Tiefgrabenrotte",
+        "Images with annotations",
+        "Wienerberger",
+        "Self-published work",
+        "Construction sites in Lower Austria",
+        "Austria photographs taken on 2018-06-01",
+        "Files by User:GT1976 in Frankenfels",
+        "Taken with Samsung Galaxy S5 Mini by User:GT1976",
+        "Files by User:GT1976 2018-06-01 Frankenfels",
+        "June 2018 in Frankenfels"
+      ],
+      "auteur": "GT1976",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-06-01_(026)_Construction_site_at_Tiefgrabenrotte_in_Frankenfels,_Austria.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2018-06-01_%28026%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg/1280px-2018-06-01_%28026%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    }
+  ]
+}

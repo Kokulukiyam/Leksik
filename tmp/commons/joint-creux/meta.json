@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "joint-creux",
+    "terme": "le joint creux",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Joint de maçonnerie en retrait du parement, qui dessine une ombre entre les briques ou les pierres.",
+    "priorite": 3,
+    "requetes": [
+      "recessed mortar joint",
+      "joint creux brique",
+      "raked joint brickwork"
+    ],
+    "incompatibles": [
+      "joint-de-maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Mortar joints",
+      "Category:Brickwork"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tuck pointing, Baker Street, London, UK. (pic22).jpg",
+      "description": "Photograph of brickwork from the west face of the building at the north-east corner of George Street and Baker Street, London, W1U 3BL.",
+      "categories": [
+        "Brickwork details",
+        "Mortar joints",
+        "Self-published work"
+      ],
+      "auteur": "Jonathanriley",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tuck_pointing,_Baker_Street,_London,_UK._(pic22).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Tuck_pointing%2C_Baker_Street%2C_London%2C_UK._%28pic22%29.jpg/1280px-Tuck_pointing%2C_Baker_Street%2C_London%2C_UK._%28pic22%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:C.M.U. Structure.jpg",
+      "description": "8\" block wall, Hollow metal door frame grouted solid, 5/8\" vertical rebar every 4' on center, Bond beam above door and last 2 top courses of wall, every block cell grouted solid giving the wall a 4 hour fire rating.",
+      "categories": [
+        "Self-published work",
+        "Brickwork"
+      ],
+      "auteur": "BRICKSTACKER",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C.M.U._Structure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/C.M.U._Structure.jpg/1280px-C.M.U._Structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Wand Freilichtmuseum Salzurg 01.JPG",
+      "description": "Freilichtmuseum Salzburg",
+      "categories": [
+        "Walls in Austria",
+        "Taken with Konica Minolta Dimage E500",
+        "Mortar joints",
+        "Self-published work",
+        "PD-self",
+        "Mesnerhaus (Freilichtmuseum Salzburg)"
+      ],
+      "auteur": "Immanuel Giel",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wand_Freilichtmuseum_Salzurg_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Wand_Freilichtmuseum_Salzurg_01.JPG/1280px-Wand_Freilichtmuseum_Salzurg_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2014 Szuszi, Meczet Yukhari Govhar Agha (04).jpg",
+      "description": "Ceci est une image d'un monument en Arménie / Nagorno-Karabakh portant le numéro ID",
+      "categories": [
+        "June 2014 in the Republic of Artsakh",
+        "Taken with Canon EOS 500D",
+        "Shahada",
+        "Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM",
+        "Uploaded with VicuñaUploader",
+        "Banna'i",
+        "Self-published work",
+        "Information field template with formatting",
+        "Cultural heritage monuments in Armenia with known IDs",
+        "Cultural heritage monuments in Azerbaijan with known IDs",
+        "Brickwork",
+        "Images by Hons084 (Halavar)",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs with polarization filter",
+        "Cultural heritage monuments in Armenia missing SDC location of creation",
+        "Cultural heritage monuments in Armenia missing SDC depicts",
+        "Minarets of Yukhari Govhar Agha Mosque",
+        "Images by User:Hons084 (Halavar) taken in 2014",
+        "Images of Nagorno-Karabakh by Hons084 (Halavar)"
+      ],
+      "auteur": "Marcin Konsek",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014_Szuszi,_Meczet_Yukhari_Govhar_Agha_(04).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2014_Szuszi%2C_Meczet_Yukhari_Govhar_Agha_%2804%29.jpg/1280px-2014_Szuszi%2C_Meczet_Yukhari_Govhar_Agha_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2694,
+      "hauteur": 4041
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Muro de ladrillo.jpg",
+      "description": "muro de ladrillo",
+      "categories": [
+        "Mortar joints",
+        "Self-published work",
+        "Brick wall textures"
+      ],
+      "auteur": "Pizarros",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Muro_de_ladrillo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Muro_de_ladrillo.jpg/1280px-Muro_de_ladrillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Benchmark, South Road Bridge.jpg",
+      "description": "Cut mark in the northwest parapet of South Road bridge near Waterloo railway station. 14.6609m ASL.",
+      "categories": [
+        "Rodhullandemu images",
+        "GFDL",
+        "License migration redundant",
+        "Brick textures",
+        "Self-published work",
+        "Black and orange objects",
+        "Brickwork",
+        "United Kingdom photographs taken on 2021-01-03",
+        "January 2021 in Merseyside",
+        "Files with coordinates missing SDC location of creation (53° N, 4° W)",
+        "Benchmarks in Waterloo, Merseyside",
+        "South Road bridge, Waterloo"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Benchmark,_South_Road_Bridge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Benchmark%2C_South_Road_Bridge.jpg/1280px-Benchmark%2C_South_Road_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3180,
+      "hauteur": 5113
+    }
+  ]
+}

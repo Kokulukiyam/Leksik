@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "pignon-a-redents",
+    "terme": "le pignon à redents",
+    "categorie": "Façade et ouvertures",
+    "definition": "Pignon dont les rampants sont découpés en gradins successifs.",
+    "priorite": 3,
+    "requetes": [
+      "stepped gable",
+      "pignon à redents",
+      "crow-stepped gable"
+    ],
+    "incompatibles": [
+      "pignon"
+    ],
+    "categoriesCommons": [
+      "Category:Stepped gables",
+      "Category:Gables"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Middelberg Station.jpg",
+      "description": "Sunny side of the station",
+      "categories": [
+        "Stepped gables",
+        "Self-published work",
+        "Gables in South Africa",
+        "Middelburg MP station"
+      ],
+      "auteur": "Derek J Moore",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Middelberg_Station.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Middelberg_Station.jpg/1280px-Middelberg_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dom zu Siena, Schaugiebel.jpg",
+      "description": "Dom zu Siena, Schaugiebel",
+      "categories": [
+        "Gables",
+        "Self-published work",
+        "Cathedral (Siena) - Facade rear"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dom_zu_Siena,_Schaugiebel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Dom_zu_Siena%2C_Schaugiebel.jpg/1280px-Dom_zu_Siena%2C_Schaugiebel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Tollington market - panoramio (1).jpg",
+      "description": "Tollington market",
+      "categories": [
+        "Tollington Market, Lahore",
+        "Stepped gables",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Pakistan photographs taken on 2003-01-01",
+        "Photos from Panoramio ID 1353998"
+      ],
+      "auteur": "franek2",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tollington_market_-_panoramio_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tollington_market_-_panoramio_%281%29.jpg/1280px-Tollington_market_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Nette Hütte (14004635721).jpg",
+      "description": "Nette Hütte",
+      "categories": [
+        "Taken with Canon PowerShot SX200 IS",
+        "Stepped gables",
+        "Fajã de Baixo (Ponta Delgada)",
+        "Flickr images reviewed by trusted users",
+        "Balconies in Portugal",
+        "Houses in the Azores",
+        "Files with coordinates missing SDC location of creation",
+        "Portugal photographs taken on 2014-02-06",
+        "Photographs by jad99"
+      ],
+      "auteur": "jad99 from Graz, Austria",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nette_H%C3%BCtte_(14004635721).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nette_H%C3%BCtte_%2814004635721%29.jpg/1280px-Nette_H%C3%BCtte_%2814004635721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Antique house architecture in Plouguerneau, Bretagne.jpg",
+      "description": "Residential Houses in Plouguerneau, Bretagne. Image title: Antique house architecture Image from Public domain images website, http://www.public-domain-image.com/full-image/architecture-public-domain-images-pictures/house-public-domain-images-pictures/antique-house-architecture.jpg.html",
+      "categories": [
+        "Gables",
+        "PD-author",
+        "Houses in Finistère",
+        "Images uploaded by Fæ",
+        "Public-domain-image.com",
+        "Public-domain-image.com (check needed)",
+        "Files with coordinates missing SDC location of creation",
+        "Buildings in Plouguerneau"
+      ],
+      "auteur": "Titus Tscharntke",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_house_architecture_in_Plouguerneau,_Bretagne.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Antique_house_architecture_in_Plouguerneau%2C_Bretagne.jpg/1280px-Antique_house_architecture_in_Plouguerneau%2C_Bretagne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Church of Saint Ignatius Loyola close-up.jpg",
+      "description": "Photo of Church of Saint Ignatius Loyola from Grove Street in Toowong, Brisbane, Queensland, Australia.",
+      "categories": [
+        "St Ignatius Church, Toowong",
+        "Taken with Fujifilm FinePix S4800",
+        "CC-Zero",
+        "Stepped gables",
+        "Self-published work",
+        "December 2014 in Brisbane",
+        "Photographs taken on 2014-12-23",
+        "Photographs by Shiftchange sponsored by Wikimedia Australia"
+      ],
+      "auteur": "Shiftchange",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Ignatius_Loyola_close-up.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Church_of_Saint_Ignatius_Loyola_close-up.jpg/1280px-Church_of_Saint_Ignatius_Loyola_close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

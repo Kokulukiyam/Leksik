@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "fenetre-de-toit",
+    "terme": "la fenêtre de toit",
+    "categorie": "Toitures",
+    "definition": "Fenêtre posée dans le plan d'un versant de toit, à la même pente que la couverture.",
+    "priorite": 3,
+    "requetes": [
+      "roof window pitched roof",
+      "fenêtre de toit",
+      "skylight window tiled roof"
+    ],
+    "incompatibles": [
+      "lucarne",
+      "lanterneau"
+    ],
+    "categoriesCommons": [
+      "Category:Roof windows",
+      "Category:Skylights"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Renault Master Citybus E-Tech, Busworld Europe 2025, Brussels (20251003-P1051920).jpg",
+      "description": "Busworld Europe 2025",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Roof windows",
+        "Self-published work",
+        "Bus interiors in Belgium",
+        "CC-BY-SA-2.0+",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Battery-powered buses in Belgium",
+        "Pictures by MB-one to review",
+        "Taken with Panasonic Lumix DC-G91 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Busworld Europe 2025 (supported by WMDE)",
+        "Buses at Busworld Europe 2025",
+        "Renault Pro+ at Busworld Europe 2025",
+        "Renault Master IV buses"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Renault_Master_Citybus_E-Tech,_Busworld_Europe_2025,_Brussels_(20251003-P1051920).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Renault_Master_Citybus_E-Tech%2C_Busworld_Europe_2025%2C_Brussels_%2820251003-P1051920%29.jpg/1280px-Renault_Master_Citybus_E-Tech%2C_Busworld_Europe_2025%2C_Brussels_%2820251003-P1051920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Skylight (17338964702).jpg",
+      "description": "Skylight",
+      "categories": [
+        "Images with borders",
+        "Skylights",
+        "Round corner rectangles",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Created with DXO OpticsPro",
+        "Unidentified architectural structures",
+        "Files from madras91 Flickr stream"
+      ],
+      "auteur": "madras91",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Skylight_(17338964702).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Skylight_%2817338964702%29.jpg/1280px-Skylight_%2817338964702%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6020,
+      "hauteur": 3936
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bad Vilbel, Frankfurter Str. 12.jpg",
+      "description": "This is a picture of the Hessian Kulturdenkmal ( cultural monument ) with the ID 4359 ( Wikidata )",
+      "categories": [
+        "Images from Wiki Loves Monuments 2013 in Germany",
+        "Taken with Samsung Omnia Pro 4 GT-B7350",
+        "Frankfurter Straße 12 (Bad Vilbel)",
+        "Self-published work",
+        "Cultural heritage monuments in Hesse with known ID",
+        "Images from Wiki Loves Monuments 2013, DE-HE",
+        "Images from Wiki Loves Monuments 2013",
+        "Uploaded via Campaign:wlm-de-he"
+      ],
+      "auteur": "Tim-Niklas Zimmer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Vilbel,_Frankfurter_Str._12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Bad_Vilbel%2C_Frankfurter_Str._12.jpg/1280px-Bad_Vilbel%2C_Frankfurter_Str._12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:NLIskylight.jpg",
+      "description": "חלון התיקרה שמעל אולמות הקריאה בספרייה הלאומית",
+      "categories": [
+        "CC-Zero",
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "Danieljl",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:NLIskylight.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/NLIskylight.jpg/1280px-NLIskylight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Edward Pease house roof detail.jpg",
+      "description": "Detail of the gable roof on the upper level of the house, \"medium pitched gable roof covered with pine shingles\", per http://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=15374&pid=0",
+      "categories": [
+        "Taken with Sony DSC-P41",
+        "Edward Pease House (Markham)",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2012",
+        "Heritage properties in Canada with known IDs",
+        "Images from Wiki Loves Monuments 2012 in Canada",
+        "September 2012 in Ontario",
+        "2012 in Markham, Ontario",
+        "Windows in Markham, Ontario",
+        "WLM 2012 Canada unreviewed"
+      ],
+      "auteur": "Oaktree b",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Edward_Pease_house_roof_detail.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Edward_Pease_house_roof_detail.jpg/1280px-Edward_Pease_house_roof_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1728,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dome skylight (50328804811).jpg",
+      "description": "View slightly cross-eyed to see it in 3D.",
+      "categories": [
+        "Skylights",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Robbie Sproule from Montreal, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dome_skylight_(50328804811).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Dome_skylight_%2850328804811%29.jpg/1280px-Dome_skylight_%2850328804811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4284,
+      "hauteur": 1834
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "terme": {
+    "id": "radiateur",
+    "terme": "le radiateur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil de chauffage fixé au mur, en fonte, en acier ou en aluminium, à éléments ou à panneau.",
+    "priorite": 3,
+    "requetes": [
+      "radiator",
+      "radiateur",
+      "incategory:\"Radiators\""
+    ],
+    "categoriesCommons": [
+      "Category:Radiators"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bécsi kapu Platz 2-4, Radiator, dekoratives Raster von Jungfer Manufaktur, 2022 Budapest.jpg",
+      "description": "Radiator with Jungfer cover. Hungarian National Archive, main (Bécsikapu) unit, interior. Planned by Samu Pecz . Builder: Hungarian State. Contractors: Peterek and Wagner company company (masonry), János Biehn company (iron forced concrete works), Schlick-Nicholson machine factory (storage steel structures), indoor works of applied art, the walls and ceilings ornamental decorations designed by Ferenc Mikola (outdoor sculptures), Ignac Langer (indoor sculptures), Zsolnay factory (ceramics of roof and facade), Miksa Róth Workshop (painted glass windows), Andor Dudits (murals), Laura Körösfői-Kri",
+      "categories": [
+        "Interior of State Archives of Hungary (Bécsikapu branch)",
+        "Radiators",
+        "Gyula Jungfer",
+        "Energy in Hungary",
+        "Self-published work",
+        "Equipment of Hungary",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Hungary photographs taken on 2022-05-15",
+        "Budapest 100 in 2022"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C3%A9csi_kapu_Platz_2-4,_Radiator,_dekoratives_Raster_von_Jungfer_Manufaktur,_2022_Budapest.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/B%C3%A9csi_kapu_Platz_2-4%2C_Radiator%2C_dekoratives_Raster_von_Jungfer_Manufaktur%2C_2022_Budapest.jpg/1280px-B%C3%A9csi_kapu_Platz_2-4%2C_Radiator%2C_dekoratives_Raster_von_Jungfer_Manufaktur%2C_2022_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Eyecatcher - Flickr - erix.jpg",
+      "description": "caught my eye",
+      "categories": [
+        "Radiators",
+        "Floor lamps",
+        "Photographs taken on 2020-01-16",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Erich Ferdinand from germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eyecatcher_-_Flickr_-_erix.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Eyecatcher_-_Flickr_-_erix.jpg/1280px-Eyecatcher_-_Flickr_-_erix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 2080
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:NMAx.0085528.jpg",
+      "description": "Foto K. W. Gullers",
+      "categories": [
+        "Images from Nordiska museet",
+        "Radiators",
+        "1955 in Sweden",
+        "Windows in Sweden",
+        "Children of Sweden",
+        "100 000 Bildminnen",
+        "Black and white photographs of building interiors in Sweden",
+        "Children kneeling",
+        "100 000 Bildminnen/K.W. Gullers",
+        "Lying humans",
+        "Photographs by K.W. Gullers"
+      ],
+      "auteur": "K. W. Gullers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:NMAx.0085528.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/NMAx.0085528.jpg/1280px-NMAx.0085528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5246,
+      "hauteur": 5463
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cushions in a Karuselli chair.jpg",
+      "description": "Karuselli rotating lounge chair by Yrjö Kukkapuro",
+      "categories": [
+        "Film posters of Germany",
+        "Swivel chairs",
+        "Radiators",
+        "Scandinavian design",
+        "Self-published work",
+        "1960s architecture in Finland",
+        "White floors",
+        "Interiors of apartment buildings in Finland",
+        "Plastic chairs in Finland",
+        "Yrjö Kukkapuro",
+        "1960s furniture",
+        "Leather armchairs"
+      ],
+      "auteur": "Kotivalo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cushions_in_a_Karuselli_chair.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cushions_in_a_Karuselli_chair.jpg/1280px-Cushions_in_a_Karuselli_chair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2969,
+      "hauteur": 2686
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bielsko-Biała, ratusz - wnętrza (zdobiony kaloryfer).jpg",
+      "description": "Decorated radiator in the town hall in Bielsko-Biała, Poland",
+      "categories": [
+        "Radiators",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Bielsko-Biała Town Hall interiors"
+      ],
+      "auteur": "Kamil Czaiński",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bielsko-Bia%C5%82a,_ratusz_-_wn%C4%99trza_(zdobiony_kaloryfer).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Bielsko-Bia%C5%82a%2C_ratusz_-_wn%C4%99trza_%28zdobiony_kaloryfer%29.jpg/1280px-Bielsko-Bia%C5%82a%2C_ratusz_-_wn%C4%99trza_%28zdobiony_kaloryfer%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Paris - Zut! - 20190503 (1).jpg",
+      "description": "Paris (Île-de-France, France) - \"Zut!\", magasin d'antiquités industrielles, 9 rue Ravignan.",
+      "categories": [
+        "Rue Ravignan (Paris)",
+        "Taken with Canon PowerShot G5 X",
+        "Radiators",
+        "Models of aircraft",
+        "Industrial style",
+        "Self-published work",
+        "Night in Paris",
+        "Ceilings in Paris",
+        "Clocks in Paris",
+        "Paris photographs taken on 2019-05-03",
+        "Antique shops in Paris",
+        "Shops in France photographed in 2019",
+        "Shops in Paris 18e arrondissement",
+        "Sepia photographs of Paris",
+        "Shops in France at night",
+        "Absence of people in Paris",
+        "Sepia photographs of Île-de-France in the 21st century",
+        "Shop interiors in 2019",
+        "Photographs by Olybrius - night",
+        "Photographs by Olybrius - 2019-05-03",
+        "Cylindrical bead curtains"
+      ],
+      "auteur": "Olybrius",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paris_-_Zut!_-_20190503_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Paris_-_Zut%21_-_20190503_%281%29.jpg/1280px-Paris_-_Zut%21_-_20190503_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4864,
+      "hauteur": 3648
+    }
+  ]
+}

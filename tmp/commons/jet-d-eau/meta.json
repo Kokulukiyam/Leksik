@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "jet-d-eau",
+    "terme": "le jet d'eau",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Profil saillant fixé au bas de l'ouvrant d'une fenêtre ou d'une porte pour rejeter l'eau de pluie vers l'extérieur.",
+    "priorite": 3,
+    "requetes": [
+      "weatherboard door bottom",
+      "jet d'eau fenêtre",
+      "door weather bar"
+    ],
+    "incompatibles": [
+      "piece-d-appui"
+    ],
+    "categoriesCommons": [
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Astonished silver - Flickr - Genista.jpg",
+      "description": "astonished silver",
+      "categories": [
+        "Doors",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2005-08-09",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Kai Schreiber from Solingen, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Astonished_silver_-_Flickr_-_Genista.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Astonished_silver_-_Flickr_-_Genista.jpg/1280px-Astonished_silver_-_Flickr_-_Genista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:5 Porta Blava02.jpg",
+      "description": "això és una prova",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Monblau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5_Porta_Blava02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/5_Porta_Blava02.jpg/1280px-5_Porta_Blava02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1912,
+      "hauteur": 1912
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:500px photo (68126493).jpeg",
+      "description": "500px provided description: 1840 [#street ,#door ,#sidewalk ,#grunge]",
+      "categories": [
+        "Doors",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Isaac Bowen",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(68126493).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/500px_photo_%2868126493%29.jpeg/1280px-500px_photo_%2868126493%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1366
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2025-03-12 Castel Nuovo Entrance Door Left.jpg",
+      "description": "ナポリ ヌオーヴォ城",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "C1815",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg/1280px-2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:ANDRIK ↟ LANGFIELD ↟ PETRIDES 2017-03-28 (Unsplash).jpg",
+      "description": "ANDRIK ↟ LANGFIELD ↟ PETRIDES 2017-03-28",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "ANDRIK ↟ LANGFIELD ↟ PETRIDES the_alp_photography",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ANDRIK_%E2%86%9F_LANGFIELD_%E2%86%9F_PETRIDES_2017-03-28_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ANDRIK_%E2%86%9F_LANGFIELD_%E2%86%9F_PETRIDES_2017-03-28_%28Unsplash%29.jpg/1280px-ANDRIK_%E2%86%9F_LANGFIELD_%E2%86%9F_PETRIDES_2017-03-28_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3358,
+      "hauteur": 5037
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:\"เปิด\" ณ รัฐสภาญี่ปุ่น 6พฤศจิกายน2552 (The Official Site of The Prime Minister of Thailand Photo by พีรพัฒน์ - Flickr - Abhisit Vejjajiva.jpg",
+      "description": "\"เปิด\" ณ รัฐสภาญี่ปุ่น 6พฤศจิกายน2552 (The Official Site of The Prime Minister of Thailand Photo by พีรพัฒน์ วิมลรังครัตน์)",
+      "categories": [
+        "Doors",
+        "Taken with Canon EOS 5D",
+        "Diet of Japan",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Peerapat Wimolrungkarat",
+        "Import by User:Slick-o-bot/Images of politicians of Thailand"
+      ],
+      "auteur": "Government of Thailand",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%22_%E0%B8%93_%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_6%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%992552_(The_Official_Site_of_The_Prime_Minister_of_Thailand_Photo_by_%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C_-_Flickr_-_Abhisit_Vejjajiva.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%22%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%22_%E0%B8%93_%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_6%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%992552_%28The_Official_Site_of_The_Prime_Minister_of_Thailand_Photo_by_%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C_-_Flickr_-_Abhisit_Vejjajiva.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5120,
+      "hauteur": 3413
+    }
+  ]
+}

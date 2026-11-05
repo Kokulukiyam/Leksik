@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "cordeau-traceur",
+    "terme": "le cordeau traceur",
+    "categorie": "Chantier et outillage",
+    "definition": "Boîtier contenant une ficelle enduite de poudre colorée, qu'on tend et fait claquer pour marquer une ligne droite.",
+    "priorite": 3,
+    "requetes": [
+      "chalk line reel",
+      "cordeau traceur",
+      "chalk line snap"
+    ],
+    "incompatibles": [
+      "cordeau"
+    ],
+    "categoriesCommons": [
+      "Category:Chalk lines"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Airmen make softball possible behind the scenes 140618-F-VU439-523.jpg",
+      "description": "Staff Sgt. Lakan Ello, 628th Force Support Squadron fitness specialist, uses a chalk dispenser to make an on-deck circle June 18, 2014, at Joint Base Charleston, S.C. New chalk lines are put down every game day to keep the field maintained for the players. (U.S. Air Force photo/Senior Airman George Goslin)",
+      "categories": [
+        "Joint Base Charleston",
+        "Chalk lines",
+        "On-deck circles",
+        "PD US Air Force",
+        "Files created by the United States Air Force with known IDs",
+        "Images from DoD uploaded by Fæ",
+        "United States photographs taken on 2014-06-18"
+      ],
+      "auteur": "Senior Airman George Goslin",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Airmen_make_softball_possible_behind_the_scenes_140618-F-VU439-523.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Airmen_make_softball_possible_behind_the_scenes_140618-F-VU439-523.jpg/1280px-Airmen_make_softball_possible_behind_the_scenes_140618-F-VU439-523.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4256,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Chalk line reel (AM 713530-4).jpg",
+      "description": "Carved wood piece with carved bowl and attached wheel that takes up the string line that passes through the bowl and out the front, through a small porcelain insert, attached to the end of the string is a piece of wood and a nail - spike, highly burnished",
+      "categories": [
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chalk_line_reel_(AM_713530-4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Chalk_line_reel_%28AM_713530-4%29.jpg/1280px-Chalk_line_reel_%28AM_713530-4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Snapping a chalk line DVIDS122569.jpg",
+      "description": "Air Force Airman 1st Class Ryan Moran, a civil engineer assigned to the 5th Civil Engineering Squadron, Base Emergency Engineering Force, embarked aboard the amphibious assault ship USS Kearsarge, snaps a chalk line on a sheet of plywood. Kearsarge is the primary platform for the Caribbean phase of the humanitarian/civic assistance mission Continuing Promise 2008, an equal-partnership mission involving the United States, Canada, the Netherlands, Brazil, France, Nicaragua, Panama, Colombia, Dominican Republic, Trinidad and Tobago and Guyana.",
+      "categories": [
+        "Files with no machine-readable author",
+        "USS Kearsarge (LHD-3)",
+        "Media lacking author information",
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Images from DoD uploaded by Fæ",
+        "Faebot identified duplicates",
+        "DVIDS files uploaded by Fæ",
+        "5th Civil Engineer Squadron"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Snapping_a_chalk_line_DVIDS122569.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Snapping_a_chalk_line_DVIDS122569.jpg/1280px-Snapping_a_chalk_line_DVIDS122569.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1528,
+      "hauteur": 2300
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Habitat for Humanity at Fremont Fair 2007 - 02.jpg",
+      "description": "Habitat For Humanity volunteers constructing a house during the 2007 Fremont Fair, Seattle, Washington. The house would later be moved to Snoqualmie Ridge in Seattle's eastern suburbs.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix P2",
+        "Habitat for Humanity International",
+        "Modern timber framing",
+        "Chalk lines",
+        "License migration redundant",
+        "Self-published work",
+        "Building construction",
+        "Fremont Fair 2007",
+        "Men with hard hats",
+        "Carpenters at work"
+      ],
+      "auteur": "Joe Mabel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Habitat_for_Humanity_at_Fremont_Fair_2007_-_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Habitat_for_Humanity_at_Fremont_Fair_2007_-_02.jpg/1280px-Habitat_for_Humanity_at_Fremont_Fair_2007_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Chalk line reel (AM 713530-1).jpg",
+      "description": "Carved wood piece with carved bowl and attached wheel that takes up the string line that passes through the bowl and out the front, through a small porcelain insert, attached to the end of the string is a piece of wood and a nail - spike, highly burnished",
+      "categories": [
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chalk_line_reel_(AM_713530-1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Chalk_line_reel_%28AM_713530-1%29.jpg/1280px-Chalk_line_reel_%28AM_713530-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:US Navy 081010-N-4515N-011 Air Force Airman 1st Class Ryan Moran snaps a chalk line on a sheet of plywood.jpg",
+      "description": "SANTO DOMINGO, Dominican Republic (Oct. 10, 2008) Air Force Airman 1st Class Ryan Moran, a civil engineer assigned to the 5th Civil Engineering Squadron, Base Emergency Engineering Force, embarked aboard the amphibious assault ship USS Kearsarge (LHD 3), snaps a chalk line on a sheet of plywood. Kearsarge is the primary platform for the Caribbean phase of the humanitarian/civic assistance mission Continuing Promise (CP) 2008, an equal-partnership mission involving the United States, Canada, the Netherlands, Brazil, France, Nicaragua, Panama, Colombia, Dominican Republic, Trinidad and Tobago an",
+      "categories": [
+        "Taken with Nikon D300",
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Faebot identified duplicates",
+        "Dominican Republic photographs taken on 2008-10-10",
+        "Continuing Promise 2008 from the Dominican Republic",
+        "United States Navy images from Santo Domingo",
+        "5th Civil Engineer Squadron"
+      ],
+      "auteur": "U.S. Navy photo by Mass Communication Specialist Seaman Apprentice Joshua Adam Nuzzo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:US_Navy_081010-N-4515N-011_Air_Force_Airman_1st_Class_Ryan_Moran_snaps_a_chalk_line_on_a_sheet_of_plywood.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Navy_081010-N-4515N-011_Air_Force_Airman_1st_Class_Ryan_Moran_snaps_a_chalk_line_on_a_sheet_of_plywood.jpg/1280px-US_Navy_081010-N-4515N-011_Air_Force_Airman_1st_Class_Ryan_Moran_snaps_a_chalk_line_on_a_sheet_of_plywood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1528,
+      "hauteur": 2300
+    }
+  ]
+}

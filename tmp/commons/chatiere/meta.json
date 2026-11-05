@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "chatiere",
+    "terme": "la chatière",
+    "categorie": "Toitures",
+    "definition": "Tuile ou pièce munie d'une ouverture grillagée qui ventile le dessous de la couverture.",
+    "priorite": 3,
+    "requetes": [
+      "roof vent tile",
+      "tuile chatière",
+      "ventilation tile roof"
+    ],
+    "incompatibles": [
+      "tuile"
+    ],
+    "categoriesCommons": [
+      "Category:Roof ventilation",
+      "Category:Roof tiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Gravity Roof Vent.jpg",
+      "description": "Gravity roof vent with multiple sets of louvers and a flat flange bead-rolled onto a collar.",
+      "categories": [
+        "Ventilation",
+        "Self-published work",
+        "Roof ventilation"
+      ],
+      "auteur": "Roofvents",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gravity_Roof_Vent.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Gravity_Roof_Vent.jpg/1280px-Gravity_Roof_Vent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2177,
+      "hauteur": 2127
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bygningsartikel Companiet - no-nb digifoto 20160128 00081 NB NS 000445L.jpg",
+      "description": "Bildet er hentet fra Nasjonalbibliotekets bildesamling. Anmerkninger til bildet var: Påskrift arkivark: Bygningsartikel Companiet Påskrift eske: Statens Brændselsstyre Eldste arkivnummer: 445 Oslo, Oslo, Oslo",
+      "categories": [
+        "Dock workers",
+        "Roof tiles",
+        "PD Norway",
+        "Transport in Oslo",
+        "Images from Nasjonalbiblioteket",
+        "Historical images of trucks in Norway",
+        "Photographs by Narve Skarpmoen",
+        "Files uploaded by Nasjonalbiblioteket-bot",
+        "Historical images of Oslo harbour"
+      ],
+      "auteur": "Narve Skarpmoen",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bygningsartikel_Companiet_-_no-nb_digifoto_20160128_00081_NB_NS_000445L.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bygningsartikel_Companiet_-_no-nb_digifoto_20160128_00081_NB_NS_000445L.jpg/1280px-Bygningsartikel_Companiet_-_no-nb_digifoto_20160128_00081_NB_NS_000445L.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7210,
+      "hauteur": 5410
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gravity Vent on Roof Curb.jpg",
+      "description": "All aluminum gravity vent curb mounted onto a roof curb.",
+      "categories": [
+        "Aluminium",
+        "Manufacturing",
+        "Roofs",
+        "Self-published work",
+        "Aluminium products",
+        "Roof ventilation"
+      ],
+      "auteur": "Roofvents",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gravity_Vent_on_Roof_Curb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Gravity_Vent_on_Roof_Curb.jpg/1280px-Gravity_Vent_on_Roof_Curb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2285,
+      "hauteur": 2179
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Garages ventilation in Tambov - 001.jpg",
+      "description": "Garages ventilation in Tambov , Russia .",
+      "categories": [
+        "Chimneys in Russia",
+        "Garages in Russia",
+        "Self-published work",
+        "Photographs by Alexander Novikov",
+        "Photographs by Alexander Novikov/Tambov",
+        "Architectural elements in Tambov",
+        "Roof ventilation"
+      ],
+      "auteur": "Alexander Novikov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Garages_ventilation_in_Tambov_-_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Garages_ventilation_in_Tambov_-_001.jpg/1280px-Garages_ventilation_in_Tambov_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4247,
+      "hauteur": 2831
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:16-04-24 taktegl PermaLiv.jpg",
+      "description": "Roof tiles of Toten, Norway.",
+      "categories": [
+        "Roof tiles",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:16-04-24_taktegl_PermaLiv.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/16-04-24_taktegl_PermaLiv.jpg/1280px-16-04-24_taktegl_PermaLiv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Building Communications and Ventilation Array, New York City 5614.jpg",
+      "description": "Close up of top of office building",
+      "categories": [
+        "Communications towers in the United States",
+        "New York City photographs taken on 2021-10-14",
+        "Self-published work",
+        "Roofs in New York City",
+        "United States photographs taken on 2021-10-14",
+        "Unidentified buildings in New York City",
+        "Ventilation in New York City",
+        "Roof ventilation"
+      ],
+      "auteur": "Paul Harrison",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_Communications_and_Ventilation_Array,_New_York_City_5614.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Building_Communications_and_Ventilation_Array%2C_New_York_City_5614.jpg/1280px-Building_Communications_and_Ventilation_Array%2C_New_York_City_5614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2495,
+      "hauteur": 3856
+    }
+  ]
+}

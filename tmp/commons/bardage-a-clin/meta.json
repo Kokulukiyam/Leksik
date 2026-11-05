@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "bardage-a-clin",
+    "terme": "le bardage à clin",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bardage de planches horizontales posées en recouvrement, chacune chevauchant celle du dessous.",
+    "priorite": 3,
+    "requetes": [
+      "clapboard siding",
+      "bardage à clin",
+      "lap siding house"
+    ],
+    "incompatibles": [
+      "bardage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dr. Cornelius and Elizabeth Harper Residence, Carroll Street, Mansion Hill, Madison, WI.jpg",
+      "description": "Built in 1898, this Queen Anne-style house at 308 North Carroll Street in Madison, Wisconsin, was designed by Conover and Porter for the public health physician Dr. Cornelius A. Harper and his wife Elizabeth (see the Property Record online ). The house features a steeply pitched side gable roof, an eyebrow dormer window, wooden clapboard siding, a front porch with a front gable featuring decorative paneled trim, decorative columns, Gothic arched trim, clapboard-clad low railings, and a clapboard-clad base, one-over-one replacement windows, a three-story front bay window with a balcony on the t",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Warren LeMay in Wisconsin",
+        "Cornelius and Elizabeth Harper Residence"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dr._Cornelius_and_Elizabeth_Harper_Residence,_Carroll_Street,_Mansion_Hill,_Madison,_WI.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Dr._Cornelius_and_Elizabeth_Harper_Residence%2C_Carroll_Street%2C_Mansion_Hill%2C_Madison%2C_WI.jpg/1280px-Dr._Cornelius_and_Elizabeth_Harper_Residence%2C_Carroll_Street%2C_Mansion_Hill%2C_Madison%2C_WI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2943,
+      "hauteur": 3925
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2013-0415-GaylordCityPark-Pavillion.jpg",
+      "description": "Pavilion, Gaylord City Park , Gaylord, Minnesota , USA.",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Gaylord City Park",
+        "Clapboards (building material)",
+        "Self-published work",
+        "National Register of Historic Places with known IDs",
+        "Built in Minnesota in 1916",
+        "Photographs taken on 2013-04-15",
+        "Asphalt shingle roofs",
+        "Files by User:Bobak"
+      ],
+      "auteur": "Bobak Ha'Eri",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-0415-GaylordCityPark-Pavillion.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2013-0415-GaylordCityPark-Pavillion.jpg/1280px-2013-0415-GaylordCityPark-Pavillion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4443,
+      "hauteur": 2962
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dr. Cornelius and Elizabeth Harper Residence, Carroll Street, Mansion Hill, Madison, WI - 52752178701.jpg",
+      "description": "Built in 1898, this Queen Anne-style house at 308 North Carroll Street in Madison, Wisconsin, was designed by Conover and Porter for the public health physician Dr. Cornelius A. Harper and his wife Elizabeth (see the Property Record online ). The house features a steeply pitched side gable roof, an eyebrow dormer window, wooden clapboard siding, a front porch with a front gable featuring decorative paneled trim, decorative columns, Gothic arched trim, clapboard-clad low railings, and a clapboard-clad base, one-over-one replacement windows, a three-story front bay window with a balcony on the t",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Warren LeMay in Wisconsin",
+        "Cornelius and Elizabeth Harper Residence"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dr._Cornelius_and_Elizabeth_Harper_Residence,_Carroll_Street,_Mansion_Hill,_Madison,_WI_-_52752178701.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Dr._Cornelius_and_Elizabeth_Harper_Residence%2C_Carroll_Street%2C_Mansion_Hill%2C_Madison%2C_WI_-_52752178701.jpg/1280px-Dr._Cornelius_and_Elizabeth_Harper_Residence%2C_Carroll_Street%2C_Mansion_Hill%2C_Madison%2C_WI_-_52752178701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2861,
+      "hauteur": 3815
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Holsen Bieren Ostkilver Juni 2009 044.jpg",
+      "description": "Maison a colombage à Bünde, arrondissement de Herford , Rhénanie-du-Nord-Westphalie , Allemagne .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 500",
+        "CC-Zero",
+        "FAL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Clapboards (building material)",
+        "Attribution only license",
+        "Black and white buildings in Germany",
+        "Self-published work",
+        "PD-self",
+        "CC-BY-3.0,2.5,2.0,1.0",
+        "Files with coordinates missing SDC location of creation (52° N, 8° E)",
+        "Square panel framing",
+        "Farmhouses in Bünde",
+        "Timber framing in Bünde"
+      ],
+      "auteur": "TUBS",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holsen_Bieren_Ostkilver_Juni_2009_044.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Holsen_Bieren_Ostkilver_Juni_2009_044.jpg/1280px-Holsen_Bieren_Ostkilver_Juni_2009_044.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Harper Residence.jpg",
+      "description": "Built in 1898, this Queen Anne-style house at 308 North Carroll Street in Madison, Wisconsin, was designed by Conover and Porter for the public health physician Dr. Cornelius A. Harper and his wife Elizabeth (see the Property Record online ). The house features a steeply pitched side gable roof, an eyebrow dormer window, wooden clapboard siding, a front porch with a front gable featuring decorative paneled trim, decorative columns, Gothic arched trim, clapboard-clad low railings, and a clapboard-clad base, one-over-one replacement windows, a three-story front bay window with a balcony on the t",
+      "categories": [
+        "Self-published work",
+        "Cornelius and Elizabeth Harper Residence"
+      ],
+      "auteur": "James Steakley",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Harper_Residence.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Harper_Residence.jpg/1280px-Harper_Residence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3010,
+      "hauteur": 3322
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ephraim Hawley House oak clapboards interior.jpg",
+      "description": "Interior view of original oak clapboards in second story knee wall of Ephraim Hawley House. The clapboards were applied directly to the framing instead of to a layer of sheathing (sheeting) boards.",
+      "categories": [
+        "Ephraim Hawley House",
+        "Clapboards (building material)",
+        "Self-published work"
+      ],
+      "auteur": "Tomticker5",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ephraim_Hawley_House_oak_clapboards_interior.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Ephraim_Hawley_House_oak_clapboards_interior.jpg/1280px-Ephraim_Hawley_House_oak_clapboards_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3088,
+      "hauteur": 2056
+    }
+  ]
+}

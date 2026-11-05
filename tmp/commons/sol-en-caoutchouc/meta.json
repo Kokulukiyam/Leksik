@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "sol-en-caoutchouc",
+    "terme": "le sol en caoutchouc",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Revêtement souple et épais en caoutchouc, souvent à pastilles en relief, posé dans les lieux à fort passage ou les salles de sport.",
+    "priorite": 3,
+    "requetes": [
+      "rubber flooring studded",
+      "sol caoutchouc",
+      "rubber floor tiles gym"
+    ],
+    "incompatibles": [
+      "sol-pvc"
+    ],
+    "categoriesCommons": [
+      "Category:Floors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Custom Showroom.jpg",
+      "description": "www.beallhardwoodfloors.com Showroom",
+      "categories": [
+        "Taken with Kodak EasyShare DX7590",
+        "Floors",
+        "Self-published work"
+      ],
+      "auteur": "Perry Beall",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Custom_Showroom.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Custom_Showroom.jpg/1280px-Custom_Showroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1932
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Butterfly picture on Floor.jpg",
+      "description": "Butterfly picture on Floor",
+      "categories": [
+        "Floors",
+        "Art of Hyderabad, India",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "India photographs taken on 2021-06-10",
+        "Mosaics of butterflies"
+      ],
+      "auteur": "Adbh266",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Butterfly_picture_on_Floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Butterfly_picture_on_Floor.jpg/1280px-Butterfly_picture_on_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cork bathroom flooring.jpg",
+      "description": "This image shows some varnished cork bathroom tiles.",
+      "categories": [
+        "Cork (material)",
+        "Taken with Canon PowerShot A80",
+        "Floors",
+        "Bathroom equipment",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "User Mike1024 on en.wikipedia",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cork_bathroom_flooring.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cork_bathroom_flooring.jpg/1280px-Cork_bathroom_flooring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2130,
+      "hauteur": 1615
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:An unfinished buildings.jpg",
+      "description": "An unfinished buildings in Macao",
+      "categories": [
+        "Buildings in Macau",
+        "Floors",
+        "Self-published work"
+      ],
+      "auteur": "Pauloleong2002",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_unfinished_buildings.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/An_unfinished_buildings.jpg/1280px-An_unfinished_buildings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2834,
+      "hauteur": 3779
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:202407 Sence of outdoor air dust covered on the smooth chiller room floor before be fully cleaning out yet.jpg",
+      "description": "BTW: Small image on the photo upper lift side is a complete real-scene after be fully cleaning out. The place has gated access control Photography date: 2024-07-29",
+      "categories": [
+        "Rooms",
+        "Chillers",
+        "Dust",
+        "Floors",
+        "Cleaning",
+        "Air pollution in Taiwan",
+        "Indoor",
+        "Particulate pollution",
+        "Self-published work",
+        "HDR images",
+        "Epoxy floors",
+        "Air conditioning in buildings",
+        "Liminal spaces in Taiwan"
+      ],
+      "auteur": "Junyu-K",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:202407_Sence_of_outdoor_air_dust_covered_on_the_smooth_chiller_room_floor_before_be_fully_cleaning_out_yet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/202407_Sence_of_outdoor_air_dust_covered_on_the_smooth_chiller_room_floor_before_be_fully_cleaning_out_yet.jpg/1280px-202407_Sence_of_outdoor_air_dust_covered_on_the_smooth_chiller_room_floor_before_be_fully_cleaning_out_yet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Betonggulv med røropplegg.JPG",
+      "description": "Betonggulv med røropplegg",
+      "categories": [
+        "Floors",
+        "Self-published work",
+        "Cement based screeds"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betonggulv_med_r%C3%B8ropplegg.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Betonggulv_med_r%C3%B8ropplegg.JPG/1280px-Betonggulv_med_r%C3%B8ropplegg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

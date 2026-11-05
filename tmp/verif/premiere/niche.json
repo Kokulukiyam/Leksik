@@ -1,0 +1,58 @@
+{
+  "termId": "niche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vieille photo noir et blanc d'un mur de brique avec arcatures à coquilles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, arcatures peu lisibles, pas de niche nette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo ancienne en sépia de la façade de Wells, quadrants de niches gothiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wells, Angleterre",
+      "note": "Photo ancienne composite, lisibilité faible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bloc de terre cuite nubien avec petite niche à lampe, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet isolé, pas un mur."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Statue de pape assise dans une grande niche cintrée de marbre, entre deux statues.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.0,
+        "largeur": 0.92,
+        "hauteur": 0.85
+      },
+      "lieu": "Basilique Saint-Pierre, Vatican",
+      "note": "Niche cintrée à statue, typique; rectangle sur la niche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne sépia de niches gothiques de Wells.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wells, Angleterre",
+      "note": "Photo ancienne, confusion avec arcatures et remplage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne sépia en quadrilobes et arcatures de Wells.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wells, Angleterre",
+      "note": "Photo ancienne composite."
+    }
+  ]
+}

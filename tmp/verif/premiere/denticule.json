@@ -1,0 +1,58 @@
+{
+  "termId": "denticule",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bordure de papier peint imprimée simulant une corniche à modillons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Papier peint imprimé, pas une photo d'architecture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Corniche en stuc sculpté à rinceaux, pièce de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nishapur",
+      "note": "Pas de denticules, décor végétal."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Papier peint à motifs de denticules et moulures imités.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Papier peint imprimé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade avec corniche portée par trois consoles à feuillages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Paz, Bolivie",
+      "note": "Ce sont des consoles/modillons, pas des denticules."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Corniche de marbre avec rang serré de petits blocs rectangulaires (denticules) au-dessus d'un rang d'oves.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.36,
+        "largeur": 1.0,
+        "hauteur": 0.4
+      },
+      "lieu": "",
+      "note": "Rang de denticules net, cadré de près; oves incompatibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chapiteaux corinthiens jaunes d'angle sous un entablement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de denticules."
+    }
+  ]
+}

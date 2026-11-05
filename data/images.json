@@ -3712,6 +3712,68 @@
     "note": "Vérification : Vitrine typique, claire, marchandises exposées derrière une grande baie vitrée. Contre-vérification : Vitrine de magasin de robes avec mannequins exposés derrière le verre, sujet évident."
   },
   {
+    "id": "terrasse-accessible-01",
+    "termId": "terrasse-accessible",
+    "fichier": "commons/terrasse-accessible-01.webp",
+    "rectangle": null,
+    "lieu": "Puebla, Mexique",
+    "source": "commons",
+    "auteur": "Rodrigo Rodríguez Fuentes",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cafeteria_del_Museo_Amparo.JPG",
+    "statut": "validée",
+    "note": "Vérification : Toiture aménagée pour séjourner, claire. Contre-vérification : Toit plat aménagé avec platelage bois, tables, chaises et jardinières : terrasse accessible sans ambiguïté."
+  },
+  {
+    "id": "terrasse-accessible-06",
+    "termId": "terrasse-accessible",
+    "fichier": "commons/terrasse-accessible-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "https://martapuig.es/jardines-en-las-alturas/",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Blog.planreforma_tdp064-terrazas-en-aticos-azoteas-5.jpg",
+    "statut": "validée",
+    "note": "Vérification : Toit-terrasse aménagé pour le séjour, clair. Contre-vérification : Toiture-terrasse en ville avec platelage, mobilier et bacs plantés : terrasse accessible claire."
+  },
+  {
+    "id": "toiture-vegetalisee-05",
+    "termId": "toiture-vegetalisee",
+    "fichier": "commons/toiture-vegetalisee-05.webp",
+    "rectangle": {
+      "x": 0.09,
+      "y": 0.66,
+      "largeur": 0.6,
+      "hauteur": 0.34
+    },
+    "lieu": "Berlin",
+    "source": "commons",
+    "auteur": "Sami Mlouhi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Berlin_-_Germany.jpg",
+    "statut": "validée",
+    "note": "Vérification : Toiture plate végétalisée nette. Contre-vérification : Rectangle sur un toit plat entièrement couvert d'herbe et de sédums : toiture végétalisée nette."
+  },
+  {
+    "id": "toiture-vegetalisee-06",
+    "termId": "toiture-vegetalisee",
+    "fichier": "commons/toiture-vegetalisee-06.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.29,
+      "largeur": 0.92,
+      "hauteur": 0.27
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Ji-Elle",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Jardin_de_Berchigranges_(2).jpg",
+    "statut": "validée",
+    "note": "Vérification : Toit planté bien visible. Contre-vérification : Rectangle sur le toit couvert de mousses et d'herbes d'une maison basse : toiture végétalisée claire."
+  },
+  {
     "id": "toit-a-deux-pans-03",
     "termId": "toit-a-deux-pans",
     "fichier": "commons/toit-a-deux-pans-03.webp",
@@ -3766,6 +3828,24 @@
     "note": "Vérification : Toit à quatre pans très lisible, sans pignon ; rectangle sur la toiture. Contre-vérification : Toit à quatre versants avec faîtage court et croupes, sans pignon, rectangle juste."
   },
   {
+    "id": "toit-conique-05",
+    "termId": "toit-conique",
+    "fichier": "commons/toit-conique-05.webp",
+    "rectangle": {
+      "x": 0.07,
+      "y": 0.1,
+      "largeur": 0.86,
+      "hauteur": 0.62
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Globetrotter19",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:M%C3%A1jus_1._park_5,_Kegeldach,_2021_Tatab%C3%A1nya-%C3%93v%C3%A1ros.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cône net, très lisible. Contre-vérification : Toit en cône couvert de bardeaux sur une tour ronde, cadré par le rectangle : toit conique sans doute."
+  },
+  {
     "id": "charpente-02",
     "termId": "charpente",
     "fichier": "commons/charpente-02.webp",
@@ -3815,6 +3895,50 @@
     "note": "Vérification : Objet clair et dominant, âme isolante bien visible ; étiquette de marque sans donner la réponse. Contre-vérification : Échantillon de panneau de couverture nervuré vert dont la tranche montre nettement l'âme en mousse entre deux tôles ; rectangle bien placé."
   },
   {
+    "id": "tuile-mecanique-03",
+    "termId": "tuile-mecanique",
+    "fichier": "commons/tuile-mecanique-03.webp",
+    "rectangle": null,
+    "lieu": "Asendorf, Allemagne",
+    "source": "commons",
+    "auteur": "Syker Fotograf",
+    "licence": "GPL",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dachpfannen_in_Asendorf_001.JPG",
+    "statut": "validée",
+    "note": "Vérification : Tuile à emboîtement nette. Contre-vérification : Tuiles à emboîtement posées au sol, nervures et rebords d'emboîtement bien visibles : tuile mécanique."
+  },
+  {
+    "id": "tuile-faitiere-05",
+    "termId": "tuile-faitiere",
+    "fichier": "commons/tuile-faitiere-05.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.3,
+      "largeur": 0.81,
+      "hauteur": 0.25
+    },
+    "lieu": "Heidelberg, Allemagne",
+    "source": "commons",
+    "auteur": "4028mdk09",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dachfirst_HD_mit_Vogel_Juli_2012.JPG",
+    "statut": "validée",
+    "note": "Vérification : Faîtières encadrées ; oiseau gênant mais élément clair. Contre-vérification : Rectangle sur les tuiles qui couvrent la ligne de faîtage, bien lisibles : tuile faîtière."
+  },
+  {
+    "id": "verriere-04",
+    "termId": "verriere",
+    "fichier": "commons/verriere-04.webp",
+    "rectangle": null,
+    "lieu": "Stanford, États-Unis",
+    "source": "commons",
+    "auteur": "BrokenSegue",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Stanford_Hospital_Atrium_Roof.jpg",
+    "statut": "validée",
+    "note": "Vérification : Verrière typique, dominante. Contre-vérification : Grande toiture vitrée sur résille métallique couvrant un atrium : verrière claire."
+  },
+  {
     "id": "descente-d-eaux-pluviales-02",
     "termId": "descente-d-eaux-pluviales",
     "fichier": "commons/descente-d-eaux-pluviales-02.webp",
@@ -3849,6 +3973,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:-2022-04-24_Gutter_downpipe,_Saint_Mary%27s,_Northrepps.JPG",
     "statut": "validée",
     "note": "Vérification : Descente verticale nette en tête de boîte à eau (terme incompatible), bien lisible une fois encadrée. Contre-vérification : Descente carrée en fonte le long d'un mur en silex, du sommet au sol ; la petite boîte à eau en tête ne domine pas le cadrage."
+  },
+  {
+    "id": "crapaudine-01",
+    "termId": "crapaudine",
+    "fichier": "commons/crapaudine-01.webp",
+    "rectangle": {
+      "x": 0.25,
+      "y": 0.58,
+      "largeur": 0.12,
+      "hauteur": 0.12
+    },
+    "lieu": "Greenfield, Wisconsin, États-Unis",
+    "source": "commons",
+    "auteur": "Aaron Volkening",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Greenfield_High_School_(Wisconsin)_roof_2012.jpg",
+    "statut": "validée",
+    "note": "Vérification : Crapaudine bien visible, encadrée de près ; petite dans l'image mais sans ambiguïté. Contre-vérification : Rectangle serré sur la grille bombée d'une évacuation de toiture-terrasse : crapaudine reconnaissable."
   },
   {
     "id": "membrane-bitumineuse-02",
@@ -3895,6 +4037,24 @@
     "note": "Vérification : Armatures en place avant coulage, barres HA ligaturées, très lisible. Contre-vérification : Armatures de voile en barres HA ligaturées en place devant le coffrage, avant coulage ; ferraillage net et dominant."
   },
   {
+    "id": "cage-d-armature-01",
+    "termId": "cage-d-armature",
+    "fichier": "commons/cage-d-armature-01.webp",
+    "rectangle": {
+      "x": 0.22,
+      "y": 0.08,
+      "largeur": 0.54,
+      "hauteur": 0.86
+    },
+    "lieu": "Cologne, Allemagne",
+    "source": "commons",
+    "auteur": "Raimond Spekking",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Arch%C3%A4ologische_Zone_K%C3%B6ln_-_Juli_2016-8310.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cages cylindriques très lisibles, encadrées. Contre-vérification : Cages d'armature cylindriques préfabriquées (pieux) stockées sur chantier, cadrées par le rectangle."
+  },
+  {
     "id": "treillis-soude-06",
     "termId": "treillis-soude",
     "fichier": "commons/treillis-soude-06.webp",
@@ -3906,6 +4066,63 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Five_rebar_nets_closeup.jpg",
     "statut": "validée",
     "note": "Vérification : Panneaux soudés à mailles régulières, typiques du treillis soudé pour dalles. Contre-vérification : Gros plan d'un panneau de treillis à mailles régulières en barres crénelées soudées posé sur du gravier ; lisible et sans ambiguïté."
+  },
+  {
+    "id": "cale-d-armature-06",
+    "termId": "cale-d-armature",
+    "fichier": "commons/cale-d-armature-06.webp",
+    "rectangle": {
+      "x": 0.4,
+      "y": 0.19,
+      "largeur": 0.14,
+      "hauteur": 0.74
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "CMMNA",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Diaphragm_wall_block.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cale en béton nette, rectangle sur la cale. Contre-vérification : Rectangle serré sur une cale en béton fixée contre une cage d'armature : cale d'armature claire."
+  },
+  {
+    "id": "corrosion-des-armatures-04",
+    "termId": "corrosion-des-armatures",
+    "fichier": "commons/corrosion-des-armatures-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Achim Hering",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Qew_bruecke_nf_beton_kaputt_34_von_46.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rouille, béton éclaté et acier à nu clairement visibles. Contre-vérification : Béton fissuré et éclaté le long de barres rouillées avec coulures de rouille : corrosion des armatures."
+  },
+  {
+    "id": "gachage-01",
+    "termId": "gachage",
+    "fichier": "commons/gachage-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Judgefloro",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2452Santa_Barbara_Baliuag,_Bulacan_18.jpg",
+    "statut": "validée",
+    "note": "Vérification : Gâchage à la main sur le sol, clair. Contre-vérification : Ouvrier préparant au sol un cratère de mortier avec seau d'eau et truelle : gâchage à la main clair."
+  },
+  {
+    "id": "gachage-06",
+    "termId": "gachage",
+    "fichier": "commons/gachage-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Judgefloro",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2452Santa_Barbara_Baliuag,_Bulacan_21.jpg",
+    "statut": "validée",
+    "note": "Vérification : Gâchage à la main, autre cadrage de la scène, lisible. Contre-vérification : Même scène vue autrement : mélange au sol de mortier et d'eau à la truelle, gâchage évident."
   },
   {
     "id": "sable-03",
@@ -3947,6 +4164,24 @@
     "note": "Vérification : Poutre béton horizontale clairement dominante. Contre-vérification : Poutre préfabriquée en béton précontraint sur son banc, élément horizontal massif et dominant, avec torons et attentes en tête secondaires."
   },
   {
+    "id": "pilier-04",
+    "termId": "pilier",
+    "fichier": "commons/pilier-04.webp",
+    "rectangle": {
+      "x": 0.42,
+      "y": 0.4,
+      "largeur": 0.15,
+      "hauteur": 0.35
+    },
+    "lieu": "Mission San Miguel, Californie",
+    "source": "commons",
+    "auteur": "Elf",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:MissionSanMiguelArches.JPG",
+    "statut": "validée",
+    "note": "Vérification : Piliers de section carrée, trapus ; le rectangle écarte les arcs. Contre-vérification : Rectangle sur un support carré massif maçonné et enduit d'une arcade : pilier sans ambiguïté."
+  },
+  {
     "id": "ossature-metallique-03",
     "termId": "ossature-metallique",
     "fichier": "commons/ossature-metallique-03.webp",
@@ -3976,6 +4211,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Steel_Frame_Commercial_Building_Under_Construction,_Ann_Arbor_Township,_Michigan.JPG",
     "statut": "validée",
     "note": "Vérification : Poteaux, poutres et diagonales apparents, bien lisible. Contre-vérification : Structure en acier de plusieurs niveaux, poteaux, poutres et contreventements visibles ; rectangle englobant toute l'ossature."
+  },
+  {
+    "id": "profile-en-h-03",
+    "termId": "profile-en-h",
+    "fichier": "commons/profile-en-h-03.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.02,
+      "largeur": 0.78,
+      "hauteur": 0.9
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Anders Lagerås",
+    "licence": "CC BY-SA 2.5",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Balk6.jpg",
+    "statut": "validée",
+    "note": "Vérification : Section en H bien visible ; le rectangle écarte les autres profilés. Contre-vérification : Section d'un profilé à ailes larges vue en bout, forme en H nette : profilé en H."
   },
   {
     "id": "porte-a-faux-05",

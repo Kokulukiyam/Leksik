@@ -1,0 +1,120 @@
+{
+  "terme": {
+    "id": "scie-sauteuse",
+    "terme": "la scie sauteuse",
+    "categorie": "Chantier et outillage",
+    "definition": "Scie électrique à main dont la lame étroite va et vient verticalement, pour les découpes courbes.",
+    "priorite": 3,
+    "requetes": [
+      "jigsaw power tool",
+      "scie sauteuse",
+      "incategory:\"Jigsaws (tool)\""
+    ],
+    "categoriesCommons": [
+      "Category:Jigsaws"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Festo-ps300eq-betrieb.jpg",
+      "description": "Stichsäge Festool PS 300 EQ im Betrieb selbst fotografiert Oxensepp 2008-01-05",
+      "categories": [
+        "Jigsaws",
+        "Taken with Minolta Dimage Xt",
+        "Festool power tools"
+      ],
+      "auteur": "Oxensepp sur Wikipédia allemand",
+      "licence": "CC BY-SA 2.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Festo-ps300eq-betrieb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Festo-ps300eq-betrieb.jpg/1280px-Festo-ps300eq-betrieb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Jigsaw Blades With Pins.jpg",
+      "description": "Лобзиковые полотна с крепёжными штифтами",
+      "categories": [
+        "Jigsaws",
+        "Dremel",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Артём В.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jigsaw_Blades_With_Pins.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Jigsaw_Blades_With_Pins.jpg/1280px-Jigsaw_Blades_With_Pins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:1990s WSL Tiger jigsaw blades made in Germany.jpg",
+      "description": "1990s jigsaw blades (“Tiger”, WSL), made in Germany. Packaging approx. 12*4.5 cm, 112 g with contents.",
+      "categories": [
+        "Products of Germany",
+        "Jigsaws",
+        "Self-published work",
+        "Photographs by R. Henrik Nilsson",
+        "Saw blades"
+      ],
+      "auteur": "R. Henrik Nilsson",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1990s_WSL_Tiger_jigsaw_blades_made_in_Germany.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/1990s_WSL_Tiger_jigsaw_blades_made_in_Germany.jpg/1280px-1990s_WSL_Tiger_jigsaw_blades_made_in_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2844,
+      "hauteur": 3464
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Items Mgraves7452.jpg",
+      "description": "Those items are what you will needs",
+      "categories": [
+        "Jigsaws",
+        "Taken with Canon PowerShot A560",
+        "Self-published work",
+        "Drone ball project by Mgraves7452"
+      ],
+      "auteur": "Mgraves7452",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Items_Mgraves7452.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Items_Mgraves7452.jpg/1280px-Items_Mgraves7452.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:DeWalt DW318 unloaded.jpg",
+      "description": "The DeWalt DW318 in its unloaded state.",
+      "categories": [
+        "Jigsaws",
+        "PD US HHS CDC NIOSH",
+        "Power tool noise and vibration tests by the National Institute for Occupational Safety and Health"
+      ],
+      "auteur": "National Institute for Occupational Safety and Health",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:DeWalt_DW318_unloaded.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/DeWalt_DW318_unloaded.jpg/1280px-DeWalt_DW318_unloaded.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 1232
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Black and Decker JS600 loaded.jpg",
+      "description": "The Black and Decker JS600 in its loaded state.",
+      "categories": [
+        "Jigsaws",
+        "PD US HHS CDC NIOSH",
+        "Black & Decker power tools",
+        "Power tool noise and vibration tests by the National Institute for Occupational Safety and Health"
+      ],
+      "auteur": "National Institute for Occupational Safety and Health",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Black_and_Decker_JS600_loaded.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Black_and_Decker_JS600_loaded.jpg/1280px-Black_and_Decker_JS600_loaded.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 1232
+    }
+  ]
+}

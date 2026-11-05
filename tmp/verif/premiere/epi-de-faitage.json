@@ -1,0 +1,53 @@
+{
+  "termId": "epi-de-faitage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Minaret à tour de pierre, petit croissant au sommet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haïfa, Israël",
+      "note": "Élément minuscule, pas un épi de faîtage."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Épi de faîtage en céramique : jockey sur cheval cabré, sur socle à feuillages, devant une façade à colombage.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Deauville, France",
+      "note": "Épi de faîtage typique normand, net et dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand ornement de granit à crochets sur un socle, devant un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Harvard, Cambridge (USA)",
+      "note": "Finial/pinacle au sol, pas sur un faîtage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lanterneau de cuivre verdi couronnant une tour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Lanterne de couronnement, pas un épi."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ornement en fer forgé à volutes sur une grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Irlande",
+      "note": "Fer de grille, pas un faîtage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Silhouette à contre-jour d'un ornement étoilé au sommet d'un pignon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contre-jour, détails invisibles; confusion possible avec pinacle."
+    }
+  ]
+}
