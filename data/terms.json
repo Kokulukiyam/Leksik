@@ -2932,6 +2932,21 @@
     ]
   },
   {
+    "id": "palmette",
+    "terme": "la palmette",
+    "definition": "Motif stylisé en éventail de feuilles de palmier, répété dans les frises et les acrotères.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "frise",
+      "bas-relief",
+      "haut-relief",
+      "rinceau",
+      "arabesque",
+      "grecque"
+    ]
+  },
+  {
     "id": "cartouche",
     "terme": "le cartouche",
     "definition": "Encadrement sculpté, souvent à bords enroulés, qui entoure une inscription, un blason ou une date sur une façade.",
@@ -2960,6 +2975,16 @@
     ]
   },
   {
+    "id": "atlante",
+    "terme": "l'atlante",
+    "definition": "Statue d'homme qui porte un entablement ou un balcon à la place d'une colonne.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "cariatide"
+    ]
+  },
+  {
     "id": "bossage",
     "terme": "le bossage",
     "definition": "Saillie volontaire de la face des pierres d'un mur, séparées par des joints creux, pour en accuser le relief.",
@@ -2980,6 +3005,54 @@
       "haut-relief",
       "frise",
       "bas-relief-d-abomey"
+    ]
+  },
+  {
+    "id": "haut-relief",
+    "terme": "le haut-relief",
+    "definition": "Sculpture qui se détache fortement du fond, les figures étant presque en ronde-bosse.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "bas-relief",
+      "frise"
+    ]
+  },
+  {
+    "id": "crochet",
+    "terme": "le crochet",
+    "definition": "Petit ornement gothique en forme de feuille recourbée, répété le long des arêtes des pinacles et des gâbles.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "pinacle",
+      "gable",
+      "fleuron"
+    ]
+  },
+  {
+    "id": "remplage",
+    "terme": "le remplage",
+    "definition": "Réseau de pierre découpée qui divise une baie gothique en compartiments garnis de vitraux.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "rosace",
+      "vitrail",
+      "meneau"
+    ]
+  },
+  {
+    "id": "gable",
+    "terme": "le gâble",
+    "definition": "Couronnement triangulaire et aigu, ajouré, qui surmonte un portail ou une baie gothique.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "pinacle",
+      "fronton",
+      "crochet",
+      "fleuron"
     ]
   },
   {
@@ -3029,6 +3102,40 @@
     ]
   },
   {
+    "id": "sgraffite",
+    "terme": "le sgraffite",
+    "definition": "Décor obtenu en grattant une couche d'enduit pour faire apparaître une couche de couleur différente dessous.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "fresque",
+      "trompe-l-oeil",
+      "arabesque"
+    ]
+  },
+  {
+    "id": "colonne-torse",
+    "terme": "la colonne torse",
+    "definition": "Colonne dont le fût est tordu en spirale, comme une vis.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "colonne",
+      "pilastre"
+    ]
+  },
+  {
+    "id": "fronton-brise",
+    "terme": "le fronton brisé",
+    "definition": "Fronton dont les rampants sont interrompus au sommet, laissant un vide central souvent occupé par un ornement.",
+    "categorie": "Ornement",
+    "priorite": 3,
+    "incompatibles": [
+      "fronton",
+      "tympan"
+    ]
+  },
+  {
     "id": "rosace-de-plafond",
     "terme": "la rosace de plafond",
     "definition": "Ornement circulaire en plâtre moulé au centre d'un plafond, souvent autour du point d'accrochage du lustre.",
@@ -3066,6 +3173,17 @@
     ]
   },
   {
+    "id": "pierre-de-laterite",
+    "terme": "la pierre de latérite",
+    "definition": "Bloc de latérite taillé, rougeâtre et alvéolé, maçonné en murs apparents.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 3,
+    "incompatibles": [
+      "laterite",
+      "moellon"
+    ]
+  },
+  {
     "id": "ronier",
     "terme": "le rônier",
     "definition": "Palmier dont le stipe, très résistant aux termites, est débité en lattes et en poutres pour la charpente.",
@@ -3073,6 +3191,25 @@
     "priorite": 2,
     "incompatibles": [
       "toron"
+    ]
+  },
+  {
+    "id": "typha",
+    "terme": "le typha",
+    "definition": "Roseau des marais du fleuve Sénégal, transformé en panneaux isolants ou en bottes pour la construction.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 3
+  },
+  {
+    "id": "tata-somba",
+    "terme": "le tata somba",
+    "definition": "Maison-forteresse en terre à étage des Somba (Betammaribé) du nord du Bénin et du Togo, aux tourelles cylindriques coiffées de toits coniques de paille.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 3,
+    "incompatibles": [
+      "case",
+      "banco",
+      "ginna"
     ]
   },
   {
@@ -3757,6 +3894,13 @@
     "priorite": 1
   },
   {
+    "id": "interrupteur",
+    "terme": "l'interrupteur",
+    "definition": "Appareil mural à bascule ou à bouton qui allume et éteint un éclairage.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
     "id": "boite-de-derivation",
     "terme": "la boîte de dérivation",
     "definition": "Boîtier à couvercle où se raccordent les fils de plusieurs circuits électriques.",
@@ -3779,6 +3923,13 @@
     "definition": "Tige métallique dressée au sommet d'un bâtiment et reliée à la terre, qui capte la foudre.",
     "categorie": "Réseaux et équipements",
     "priorite": 2
+  },
+  {
+    "id": "groupe-electrogene",
+    "terme": "le groupe électrogène",
+    "definition": "Machine formée d'un moteur et d'un alternateur, souvent dans un capot insonorisé, qui produit l'électricité en cas de coupure.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
   },
   {
     "id": "ampoule",

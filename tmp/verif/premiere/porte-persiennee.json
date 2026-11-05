@@ -1,0 +1,53 @@
+{
+  "termId": "porte-persiennee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade en pierre avec fenêtres à volets persiennés blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dubrovnik, Croatie",
+      "note": "Fenêtres/volets, pas une porte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte de bois à lames verticales alternées avec bandes claires et poignée dorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bolzano, Italie",
+      "note": "Pas de lames inclinées visibles, pas clairement persiennée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade avec fenêtres à persiennes vertes fermées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dubrovnik, Croatie",
+      "note": "Fenêtres, pas une porte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grande porte de bronze sculptée en relief.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Naples, Italie",
+      "note": "Porte sculptée, sans persienne."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Volets persiennés verts ouverts sur une façade rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gênes, Italie",
+      "note": "Volets de fenêtre, pas une porte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre aux volets blancs ouverts et géraniums.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Poreč, Croatie",
+      "note": "Volets, pas une porte."
+    }
+  ]
+}

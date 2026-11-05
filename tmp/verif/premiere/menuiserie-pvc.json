@@ -1,0 +1,53 @@
+{
+  "termId": "menuiserie-pvc",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Immeuble d'habitation derrière un arbre, photo sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau des fenêtres indiscernable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre à petits carreaux entrouverte, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadre apparemment ancien, pas PVC."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fenêtre blanche à guillotine sur mur de bardeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau indéterminé, probablement bois."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre blanche écaillée dans un mur crème.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre en bois vieillie."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fenêtres blanches dans une façade ornée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hameln, Allemagne",
+      "note": "Matériau PVC non démontrable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Quatre fenêtres à volets roulants gris sur façade carrelée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets roulants au premier plan, matériau non visible."
+    }
+  ]
+}

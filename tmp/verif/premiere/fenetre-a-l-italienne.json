@@ -1,0 +1,53 @@
+{
+  "termId": "fenetre-a-l-italienne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Jardin avec banc devant un grand immeuble à façade vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "São Paulo, Brésil",
+      "note": "Fenêtres minuscules, hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Immeuble d'habitation derrière un arbre, photo sombre avec signature.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres trop petites, sombre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fenêtre de façade à deux vantaux dont les parties hautes sont inclinées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne, Autriche",
+      "note": "Mode d'ouverture ambigu (soufflet, basculant ?), pas démontrable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre blanche à petits bois, vieillie, vue de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermée, ouverture non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cabine de kiosque en bois avec magazines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pile de livres sur un appui de fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

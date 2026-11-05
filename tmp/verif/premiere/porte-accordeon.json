@@ -1,0 +1,53 @@
+{
+  "termId": "porte-accordeon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rideau beige devant l'entrée d'une capsule d'hôtel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rideau, pas une porte accordéon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Salle blanche avec portes battantes à hublot.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portes battantes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Temple japonais, panneaux de bois ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kyoto, Japon",
+      "note": "Panneaux battants, pas un accordéon."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte coulissante métallique dans une cabane de tôle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une porte accordéon."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rideau métallique pliant de devanture avec enseigne chinoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Texte visible et confusion avec grille extensible ou rideau métallique."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Clé dans une serrure avec étiquette jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

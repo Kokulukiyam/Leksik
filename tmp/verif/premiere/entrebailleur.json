@@ -1,0 +1,53 @@
+{
+  "termId": "entrebailleur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entrebâilleur à chaîne chromé monté sur une porte en bois et son montant blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaîne de sûreté complète, claire et dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte en bois sous arc en brique avec panneau polonais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte entière, entrebâilleur absent, texte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan d'une chaîne de porte laiton sur fond clair, très saturé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage serré, couleurs peu naturelles, moins lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chaîne de sûreté inox engagée sur porte blanche.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Baden-Baden, Allemagne",
+      "note": "Entrebâilleur à chaîne accroché, très lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Portail de service d'une banque avec panneau stop.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'entrebâilleur visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chaîne de porte repeinte, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Syracuse, États-Unis",
+      "note": "Chaîne peinte en blanc, moins lisible."
+    }
+  ]
+}

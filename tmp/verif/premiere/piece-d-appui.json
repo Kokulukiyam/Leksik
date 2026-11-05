@@ -1,0 +1,53 @@
+{
+  "termId": "piece-d-appui",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Appui de fenêtre en cuivre patiné sous une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne, Autriche",
+      "note": "Montre l'appui de maçonnerie (habillage métallique), pas la traverse basse du dormant ; confusion avec l'appui."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Couloir courbe vitré d'un hôtel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade blanche avec fenêtre et appui.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Uccle, Belgique",
+      "note": "Appui de maçonnerie ; traverse du dormant non identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rebord de fenêtre poussiéreux avec débris de pot.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appui intérieur, pas une pièce d'appui."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Lampe à pétrole devant une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gotland, Suède",
+      "note": "Élément caché."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Allège avec tablette, radiateur et annotations rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Annotations, mauvais élément."
+    }
+  ]
+}

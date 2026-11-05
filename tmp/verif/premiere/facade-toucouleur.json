@@ -1,0 +1,53 @@
+{
+  "termId": "facade-toucouleur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vase en céramique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Jarre tressée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pirogue sur le fleuve.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Atelier de tailleur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bracelet de métal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Berger et moutons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

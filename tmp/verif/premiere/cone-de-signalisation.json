@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Flou, mal éclairé, cône délavé."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rue de Manille avec balises orange souples.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ce sont des balises, pas des cônes, et trop petites."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cônes alignés devant un tas de sable et une installation de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cônes petits, scène chargée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Remorque de secours ouverte avec cônes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cônes noyés dans l'équipement."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Camion-citerne de nuit avec cônes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cônes petits, camion dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Croix de pierre sur un socle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cône à peine visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux cônes orange à bande réfléchissante jaune sur un parking, devant un bâtiment.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Tornio, Finlande",
+      "note": "Cônes nets et au premier plan."
     }
   ]
 }

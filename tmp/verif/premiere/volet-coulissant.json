@@ -1,0 +1,53 @@
+{
+  "termId": "volet-coulissant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Arrosoir vert devant un store à lamelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Store intérieur, hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Angle d'immeuble italien en noir et blanc, volets battants ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "Volets battants, pas coulissants."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade de brique rouge avec volets bleus battants ouverts et lanterne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amiens, France",
+      "note": "Volets battants."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade bleue avec petites fenêtres à persiennes blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets minuscules, non coulissants."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Volet métallique noir à deux vantaux fermé sur un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vantaux battants, pas de rail visible ; doute."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Château en ruine vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Balintore, Écosse",
+      "note": "Hors sujet."
+    }
+  ]
+}

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Échafaudage en bois/bambou, pas tubulaire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tour d'échafaudage en aluminium avec un homme sur la plateforme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tour à cadres, pas à tubes et colliers ; plutôt roulant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Maison américaine avec petit échafaudage et balises.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage très petit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Silhouettes d'échafaudage et d'aciers en attente au coucher du soleil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Silhouettes confuses avec armatures."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tour d'église recouverte d'un échafaudage, diapositive ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage qui semble en perches de bois."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Échafaudage de chantier couvrant un immeuble en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Déjà validé ailleurs (03) ; même photo, un seul exemplaire retenu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Échafaudage en noir et blanc devant un mur de brique, ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image sombre, confuse."
     }
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "termId": "heurtoir",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Heurtoir en forme de hibou sur une porte bleue.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Heurtoir figuratif clair au centre de l'image."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petit heurtoir noir en forme de goutte sur porte jaune à panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Weymouth, Royaume-Uni",
+      "note": "Heurtoir petit, assez peu lisible sur téléphone."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rosace dorée avec anneau sur porte noire à panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Weymouth, Royaume-Uni",
+      "note": "Petit élément dans une grande porte, moins net."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux heurtoirs à tête de lion avec anneau sur porte en planches.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.32,
+        "largeur": 0.27,
+        "hauteur": 0.36
+      },
+      "lieu": "",
+      "note": "Heurtoir à anneau, rectangle sur celui de gauche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Anneau de fer avec pièce losangique, objet de musée sur fond blanc avec étiquette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée, étiquette, usage peu clair."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plaque en fer ajourée, objet de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet non identifiable comme heurtoir."
+    }
+  ]
+}

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Godet seul, engin non visible, taille d'engin indéterminée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pelle blanche de grande taille sur chenilles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pelle hydraulique, pas une mini-pelle."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Détail de vérin et flexibles d'une pelle jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de pelle de taille ordinaire."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Détail d'articulation d'un engin jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas identifiable à une mini-pelle."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Policiers dans le godet d'un engin vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chargeuse, sujet autre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chenilles d'un engin sur des gravats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pelle jaune sur un tas de gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pelle de taille moyenne, pas une mini-pelle."
     }
   ]
 }

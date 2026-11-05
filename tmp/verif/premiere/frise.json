@@ -5,7 +5,12 @@
       "fichier": "01.jpg",
       "vu": "Entablement de marbre blanc au-dessus d'une porte, dont la bande médiane montre une ronde de jeunes femmes en relief sur fond bleu, entre corniche et architrave, flanquée de deux consoles à volutes.",
       "verdict": "validée",
-      "rectangle": { "x": 0.08, "y": 0.385, "largeur": 0.805, "hauteur": 0.25 },
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.385,
+        "largeur": 0.805,
+        "hauteur": 0.25
+      },
       "lieu": "Lady Lever Art Gallery, Port Sunlight, Royaume-Uni",
       "note": "Frise sculptée exemplaire, bande horizontale continue ; rectangle nécessaire pour l'isoler de la corniche et des consoles voisines."
     },
@@ -48,6 +53,54 @@
       "rectangle": null,
       "lieu": "South Gate, Californie, États-Unis",
       "note": "Relief à faible contraste et panneau encadré de dessus-de-porte plutôt que bande continue le long du mur ; peu lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Page de livre avec fragments de frises en reliefs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reproduction de livre, trop petit."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade néoclassique à colonnes, fronton et inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Entablement mal cadré, confusion avec architrave/corniche."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petit mausolée à colonnes et bandeaux ornés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bandes peu lisibles, élément trop petit."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade néoclassique à fronton, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même problème que 08."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Moulure de marbre en perles et gorges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surtout une moulure, pas une frise figurée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bandeau de grecques au sommet d'une façade jaune, enseigne devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Frise coupée par le bord, enseigne et fils envahissants."
     }
   ]
 }

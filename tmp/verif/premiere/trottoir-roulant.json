@@ -1,0 +1,53 @@
+{
+  "termId": "trottoir-roulant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux trottoirs roulants dans un terminal d'aéroport avec voyageurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport de Bruxelles, Belgique",
+      "note": "Correct mais scène chargée en personnes et publicités."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Longue perspective d'un trottoir roulant sous éclairage bleu violet.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Aéroport de Taoyuan, Taïwan",
+      "note": "Trottoir roulant plat clair, au centre de l'image."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même vue du trottoir roulant sous lumière bleue, plan plus large.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport de Taoyuan, Taïwan",
+      "note": "Quasi doublon de 02, une seule validée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mécanisme ouvert d'un tapis ou escalator en maintenance.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Salt Lake City, États-Unis",
+      "note": "Mécanique en vrac, risque de confusion avec escalator."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Trottoir roulant dans un hall d'aéroport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boryspil, Ukraine",
+      "note": "Correct mais publicité visible et éclairage difficile."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Longue passerelle vitrée avec trottoir roulant et garde-corps en verre, vue frontale.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trottoir roulant très lisible, plat."
+    }
+  ]
+}

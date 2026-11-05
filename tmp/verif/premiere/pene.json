@@ -1,0 +1,53 @@
+{
+  "termId": "pene",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'un verrou rouillé à tige et crochet sur une porte peinte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hébron",
+      "note": "Verrou, pas un pêne de serrure."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessin de trois loquets de porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Penture en T sur du bois en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Breckenridge, États-Unis",
+      "note": "Penture, pas un pêne."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poignée, cylindre et têtière d'une porte grise, avec le demi-tour dans le chant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Pêne petit et peu lisible, doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poignée de fenêtre coulissante japonaise avec crochet de verrouillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Pas un pêne de serrure de porte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Loquet à palette métallique sur une porte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Loquet, pas un pêne identifiable."
+    }
+  ]
+}

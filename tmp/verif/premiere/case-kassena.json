@@ -1,0 +1,53 @@
+{
+  "termId": "case-kassena",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouverture d'une case vue de l'intérieur, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'un mur décoré de motifs géométriques peints.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Motif seul, on ne voit pas la case ; doute."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Femmes assises sous un grand arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'architecture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue sur la cour royale de Tiébélé et ses toits-terrasses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Murs non décorés visibles, trop lointain."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poteries sur une étagère de terre noircie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, pas la case."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Homme dans une cuisine de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, personne dominante."
+    }
+  ]
+}

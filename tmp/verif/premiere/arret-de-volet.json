@@ -1,0 +1,53 @@
+{
+  "termId": "arret-de-volet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade bleue avec un volet battant en planches à pentures décoratives.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ostrov, Russie",
+      "note": "Montre le volet, pas l'arrêt."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'un arrêt de volet noir fixé au mur crépi, bras en crochet sous un volet en bois.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Brand, Autriche",
+      "note": "Pièce clairement dominante, nette, maintient le volet ouvert contre la façade."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Devanture rouge à volets découpés, Cracovie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Aucun arrêt visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vieux arrêt rouillé sur mur crépi, petit et en partie caché par les fleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Differdange, Luxembourg",
+      "note": "Trop petit, peu lisible, aucun volet visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison en rondins aux volets bleus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Irkoutsk, Russie",
+      "note": "Aucun arrêt visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'un arrêt de volet noir fixé au mur sous un volet en bois ouvert contre la façade.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Brand, Autriche",
+      "note": "Pièce nette et dominante, contexte du volet visible."
+    }
+  ]
+}

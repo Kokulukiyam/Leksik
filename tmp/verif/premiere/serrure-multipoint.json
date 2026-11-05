@@ -1,0 +1,53 @@
+{
+  "termId": "serrure-multipoint",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dessin ancien de trois loquets de porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une serrure multipoint."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux cylindres de serrure en laiton sur une porte violette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de verrouillage multipoint visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Verrous rouillés à cadenas sur une porte métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Verrous, pas multipoint."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poignée de porte et têtière d'une porte grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Un seul point de fermeture visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Loquet à bouton rouillé sur du bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Loquet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Serrure à barre transversale (Panzerriegel) fixée à l'intérieur d'une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barre de renfort horizontale, pas une serrure multipoint à tringles."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "gache-electrique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte verte avec cadenas, anneaux et entrée de clé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tunisie",
+      "note": "Pas de gâche électrique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Boîtier de serrure ancienne ornementée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Andocs, Hongrie",
+      "note": "Serrure ancienne, pas de gâche électrique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Poignée et cylindre d'une porte grise avec autocollant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte médiévale ferrée avec grande serrure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Biertan, Roumanie",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Serrure d'un portillon grillagé avec boîtier gris sur le poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oude Pekela, Pays-Bas",
+      "note": "Boîtier non identifiable comme gâche électrique ; doute."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte grise à deux vantaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lviv, Ukraine",
+      "note": "Sans rapport."
+    }
+  ]
+}

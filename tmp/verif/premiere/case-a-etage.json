@@ -1,0 +1,53 @@
+{
+  "termId": "case-a-etage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Calebassier devant une case de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arbre dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Manguier devant une case de terre à étage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arbre dominant, case en partie cachée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Portrait d'une femme âgée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portrait."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue depuis un véhicule sur des cases.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, cases lointaines."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Contreforts d'un fromager.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade d'une case de terre à étage, galeries portées par des poteaux de banco.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Mlomp, Casamance, Sénégal",
+      "note": "Deux niveaux nets, bâtiment dominant."
+    }
+  ]
+}

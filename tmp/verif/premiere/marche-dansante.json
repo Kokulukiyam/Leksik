@@ -1,0 +1,53 @@
+{
+  "termId": "marche-dansante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalier droit moquetté dans un couloir, avec un petit changement de direction en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marche dansante non identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cage d'escalier rose avec volées en retour et paliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alaverdi, Arménie",
+      "note": "Pas de marches dansantes visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Balustrade en bois à poteaux tournés sur un palier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balustrade, pas de marche."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier extérieur droit en descente entre deux murs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volée droite."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chœur d'église avec marches à tapis rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kežmarok, Slovaquie",
+      "note": "Emmarchement droit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier à balustres jaunes et marches vertes avec quart tournant au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg, Allemagne",
+      "note": "Marches dansantes non distinctes."
+    }
+  ]
+}

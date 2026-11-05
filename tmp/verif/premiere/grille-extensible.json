@@ -1,0 +1,53 @@
+{
+  "termId": "grille-extensible",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'une grille métallique à croisillons articulés, fermée devant une balustrade.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Calcutta, Inde",
+      "note": "Croisillons en accordéon typiques, nets et dominants."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pelleteuse Liebherr sur remorque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nièvre, France",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rue de Lisbonne avec tramway.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo de 1908 en noir et blanc, granuleuse, de grilles ouvragées dans un hall.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cleveland, États-Unis",
+      "note": "Ancienne, granuleuse, peu lisible ; doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue de Lisbonne avec tramway.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Voiture ancienne Austin Seven.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

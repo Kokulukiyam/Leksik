@@ -1,0 +1,53 @@
+{
+  "termId": "espagnolette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Planche gravée de l'Encyclopédie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poignée et tringle d'une espagnolette en laiton sur une croisée ancienne, vue de près.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Photo nette, tige à poignée centrée, typique d'une espagnolette."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Poignée noire d'espagnolette sur une croisée, sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Versailles, France",
+      "note": "Photo sombre et moins lisible ; on préfère 02 et 06."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche gravée de l'Encyclopédie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche de modèles de serrurerie au trait.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'une espagnolette en laiton ouvragée, tige verticale et poignée à ornements, sur une fenêtre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Photo claire, élément dominant, tringle verticale et poignée caractéristiques."
+    }
+  ]
+}

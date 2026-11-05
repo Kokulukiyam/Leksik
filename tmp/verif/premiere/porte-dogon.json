@@ -1,0 +1,53 @@
+{
+  "termId": "porte-dogon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'un panneau de bois avec formes sculptées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas lisible comme porte dogon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte de bois cloutée à reliefs géométriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte de style maure possible, pas de figures dogon."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte de grenier de bois sculptée de deux rangées de personnages, accrochée sur un fond bleu de musée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Musée, Serbie",
+      "note": "Porte dogon typique, figures en relief."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan d'une porte de bois sculptée de rangées de personnages et de cavaliers.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Sangha, pays dogon, Mali",
+      "note": "Porte dogon aux figures en relief."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cour de terre avec échelle et petite porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte non sculptée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte de bois sculptée de colonnes de personnages avec loquet, sur fond turquoise.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Musée d'art africain, Belgrade, Serbie",
+      "note": "Porte dogon aux figures en relief, loquet visible."
+    }
+  ]
+}

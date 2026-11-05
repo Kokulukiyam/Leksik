@@ -1,0 +1,53 @@
+{
+  "termId": "vitrage-feuillete",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vitre de train fissurée en toile d'araignée radiale, éclats retenus en place.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Norvège",
+      "note": "Fissuration en toile d'araignée sans chute, caractéristique du feuilleté ; catégorie Commons Laminated glass."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sculpture de verre en forme de tournesol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Œuvre d'art."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pare-brise de tramway entièrement fissuré en réseau fin, éclats retenus.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Norvège",
+      "note": "Même principe que 01, un peu plus sombre mais lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Appareil photo Mamiya.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cloisons vitrées de bureau avec marqueurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrage non lisible comme feuilleté."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Appareil photo Mamiya avec bague allonge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

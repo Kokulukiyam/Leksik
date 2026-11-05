@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Appareil mixte galets/briques : les galets dominent, ambigu (moellon possible)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tour de brique rouge à toit pointu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Édifice entier, brique peu détaillée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Femme en robe rouge assise sur un muret.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet autre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de brique sombre en chevrons dans un couloir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur à appareil décoratif, moins clair qu'une façade simple ; écartée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Brique ancienne emballée dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étiquette, brique mal lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande façade de brique rouge à fenêtres, avec une passante.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Mur de brique clair et dominant, joints visibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Colonne torsadée en brique sur un socle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture en brique, pas la brique ordinaire."
     }
   ]
 }

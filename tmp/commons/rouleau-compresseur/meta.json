@@ -13,6 +13,10 @@
     "categoriesCommons": [
       "Category:Road rollers",
       "Category:Compactors"
+    ],
+    "incompatibles": [
+      "plaque-vibrante",
+      "pilonneuse"
     ]
   },
   "candidats": [
@@ -134,6 +138,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Roscheider_Hof_BW_2024-02-03_13-06-39.jpg/1280px-Roscheider_Hof_BW_2024-02-03_13-06-39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 6016
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Jätepuristin.jpg",
+      "description": "Picture of a standard Combi-model waste compactor made in Finland.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Compactors",
+        "Self-published work",
+        "Waste containers in Finland"
+      ],
+      "auteur": "WinRar9000",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:J%C3%A4tepuristin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/J%C3%A4tepuristin.jpg/1280px-J%C3%A4tepuristin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4166,
+      "hauteur": 2101
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Paid for (6497150249).jpg",
+      "description": "The parking benefit district pays off for Capitol Hill: these solar trash compactors at Eastern Market are \"Paid for by your Performance Parking Funds\"",
+      "categories": [
+        "Eastern Market",
+        "Compactors",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Solar-powered machines"
+      ],
+      "auteur": "Payton Chung from DCA, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paid_for_(6497150249).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Paid_for_%286497150249%29.jpg/1280px-Paid_for_%286497150249%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Elizabeth Berger Plaza 41 - Trash Cans.jpg",
+      "description": "Two trash cans, the left a compactor and the right a bottle recycling bin, at the corner of Trinity Place and Morris Street near the Battery Tunnel approaches in the Financial District, Manhattan.",
+      "categories": [
+        "Compactors",
+        "Self-published work",
+        "Trinity Place (Manhattan)",
+        "Files with coordinates missing SDC location of creation",
+        "Financial District, Manhattan in 2017",
+        "Umbrellas in New York City",
+        "Sorted waste containers in New York City",
+        "Sorted waste container pairs",
+        "Morris Street (Manhattan)",
+        "Underground compactors"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Elizabeth_Berger_Plaza_41_-_Trash_Cans.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Elizabeth_Berger_Plaza_41_-_Trash_Cans.jpg/1280px-Elizabeth_Berger_Plaza_41_-_Trash_Cans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:CAT CS563E - 54831937903.jpg",
+      "description": "Travaux d'aménagement d'une plateforme logistique dans la ZAC Bouxières-Lesménils. Pays : France 🇫🇷 Région : Grand Est (Lorraine) Département : Meurthe-et-Moselle (54) Ville : Lesménils (54700) Adresse : rue de Lesménils-Bouxières Construction : 2025 → 2026 Permis de construire n° PC 54 091 22 N00002 Hauteur : 16,00 m Surface de plancher : 6 145 m² Superficie du terrain : 55 879 m²",
+      "categories": [
+        "Road rollers",
+        "Photographs by Alexandre Prévot",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (48° N, 6° E)"
+      ],
+      "auteur": "Alexandre Prevot",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CAT_CS563E_-_54831937903.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/CAT_CS563E_-_54831937903.jpg/1280px-CAT_CS563E_-_54831937903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3500,
+      "hauteur": 2333
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Cangas. Galiza-15.jpg",
+      "description": "Road roller. Cangas, Galicia (Spain)",
+      "categories": [
+        "Taken with Canon EOS 5D Mark II",
+        "Road rollers",
+        "Self-published work",
+        "Vehicles in the province of Pontevedra",
+        "June 2013 in the province of Pontevedra",
+        "2013 in Cangas",
+        "Cangas de Morrazo"
+      ],
+      "auteur": "Luis Miguel Bugallo Sánchez(Lmbuga)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cangas._Galiza-15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cangas._Galiza-15.jpg/1280px-Cangas._Galiza-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4472,
+      "hauteur": 2981
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:(2019.03.08) Piscinão do Suburbano (33445562258).jpg",
+      "description": "Foto: Felipe Barros/ExLibris/PMI",
+      "categories": [
+        "Road rollers",
+        "Roadworks in Brazil",
+        "Construction machines in Brazil",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Piscinão do Suburbano (Itapevi)",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Prefeitura de Itapevi from Itapevi, Brasil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(2019.03.08)_Piscin%C3%A3o_do_Suburbano_(33445562258).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%282019.03.08%29_Piscin%C3%A3o_do_Suburbano_%2833445562258%29.jpg/1280px-%282019.03.08%29_Piscin%C3%A3o_do_Suburbano_%2833445562258%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

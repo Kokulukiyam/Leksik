@@ -1,0 +1,53 @@
+{
+  "termId": "double-vitrage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Coupe d'un profil de fenêtre bois avec triple vitrage écarté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Triple vitrage (trois verres), pas un double."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Angle d'un vitrage isolant posé seul : deux verres séparés par un intercalaire avec son joint noir visible sur le pourtour.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo nette, intercalaire et lame d'air bien visibles, exactement la définition."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vitre brisée d'une fenêtre PVC.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Sujet : vitre cassée, double vitrage non lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coupe d'un profil de fenêtre bois avec vitrage isolant en haut du cadre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrage coupé, surtout du bois ; moins clair que 02."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade avec deux fenêtres, un parasol et un chat.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cologne, Allemagne",
+      "note": "Double vitrage non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Coupe d'un profil de fenêtre bois avec vitrage isolant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrage coupé, surtout du bois ; moins clair que 02."
+    }
+  ]
+}

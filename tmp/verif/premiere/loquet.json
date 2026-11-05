@@ -1,0 +1,53 @@
+{
+  "termId": "loquet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Serrure à came en inox posée à côté d'une clé électronique, fond neutre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Serrure à came, pas un loquet à barre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Loquet à palette chromé sur une porte en bois dans un hôtel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Verrou à palette moderne, ne correspond pas à la barre pivotante dans un crochet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Portail en fer rouge avec serrure à plaque ouvragée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brésil",
+      "note": "Serrure à plaque, pas un loquet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Arrêt de placard métallique à bille, sur rocher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Taquet de placard, pas un loquet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Charnière en T sur planches de bois, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnière (penture), pas un loquet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fermeture à levier d'une porte de camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermeture de véhicule, hors sujet."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "hublot-de-porte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Clé dans une serrure devant un appareil LG.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de hublot, logo de marque."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vieille porte en bois dans un mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "Pas de hublot."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte de bronze sculptée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Naples, Italie",
+      "note": "Pas de hublot."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Flanc d'un paquebot avec hublots de navire et passerelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tallinn, Estonie",
+      "note": "Hublots de bateau, pas de porte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Clé avec porte-clé jaune dans une serrure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Passage d'un temple avec un homme qui marche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Janakpur, Népal",
+      "note": "Sans rapport."
+    }
+  ]
+}

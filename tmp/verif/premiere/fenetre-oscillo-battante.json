@@ -1,0 +1,53 @@
+{
+  "termId": "fenetre-oscillo-battante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre à deux niveaux dont un vantail est incliné et l'autre ouvert vers l'extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bergen, Norvège",
+      "note": "Ouvertures mixtes ambiguës, peut évoquer soufflet ou italienne."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre ouverte vue de l'intérieur avec peluches sur l'appui.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mode d'ouverture indéterminé."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vantail ouvert en projection avec compas, vu d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bergen, Norvège",
+      "note": "Ouverture projetée par compas, pas démontrable comme oscillo-battante."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle de classe avec petites fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres non lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade verte avec fenêtres blanches fermées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vilnius, Lituanie",
+      "note": "Mode d'ouverture non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petite fenêtre grillagée dans un mur enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

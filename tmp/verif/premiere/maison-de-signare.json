@@ -1,0 +1,53 @@
+{
+  "termId": "maison-de-signare",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ruine d'un bâtiment en banco avec piliers, Pout Diak.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une maison de signare."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plante d'agave au premier plan, Gorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de maison visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bunker abandonné dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Arbre sur une place de Gorée, maison rouge au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maison trop petite."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grand bâtiment colonial à deux niveaux de galeries, toit de tuiles, escalier à droite, Thiès.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Thiès, Sénégal",
+      "note": "Bâtiment administratif de Thiès, pas une maison de signare de Gorée ou Saint-Louis ; doute."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Baobab sur une place de Gorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gorée, Sénégal",
+      "note": "Hors sujet."
+    }
+  ]
+}

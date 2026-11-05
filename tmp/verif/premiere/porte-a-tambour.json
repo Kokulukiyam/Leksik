@@ -1,0 +1,53 @@
+{
+  "termId": "porte-a-tambour",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte à tambour d'aéroport, enceinte cylindrique vitrée avec vantaux repliés en position d'évacuation.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Aéroport de Sofia, Bulgarie",
+      "note": "Tambour vitré courbe clairement visible et dominant ; seuls petits panneaux d'avertissement, pas de réponse écrite."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petite porte turquoise dans un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte battante simple."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Entrée de station de métro avec portes à tambour, petites dans l'image.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montréal, Canada",
+      "note": "Portes trop petites, panneau de texte et plusieurs éléments."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Atelier avec cadres de portes de train.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une porte à tambour."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Personne traversant une porte à tambour, image sombre et floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montréal, Canada",
+      "note": "Flou de mouvement et sombre, peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte en bois cintrée à deux vantaux dans une façade bleue et rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte à deux vantaux, pas un tambour."
+    }
+  ]
+}

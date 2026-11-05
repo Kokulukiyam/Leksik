@@ -1,0 +1,53 @@
+{
+  "termId": "fenetre-a-guillotine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Quatre fenêtres de façade en pierre et brique, à traverse médiane.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Mécanisme à guillotine non démontrable (fixe ou à deux châssis ?)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre à trois parties dans une façade ornée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hameln, Allemagne",
+      "note": "Pas une guillotine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux grandes fenêtres de façade en brique, vues de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Charleroi, Belgique",
+      "note": "Position des châssis ambiguë, vitrage sombre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pile de livres sur un appui de fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre à peine visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo noir et blanc de deux fenêtres sur bardage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bergen, Norvège",
+      "note": "Ancienne photo noir et blanc, châssis peu lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Haute fenêtre à petits carreaux et traverse médiane, entre rideaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maison-Blanche, Washington",
+      "note": "Fenêtre à deux châssis possible mais non démontrée, rideaux, vue sombre."
+    }
+  ]
+}

@@ -1,11 +1,111 @@
 {
   "termId": "gargouille",
   "candidats": [
-    {"fichier": "01.jpg", "vu": "Animal sculpté (lion/ours) en saillie à l'angle d'une corniche romane, contre le ciel.", "verdict": "rejetée", "rectangle": null, "lieu": "Zadar, Croatie", "note": "Aucune gueule percée ni canal visible : rien ne prouve un déversoir, la description Commons parle de simple décor ; pourrait être une sculpture d'angle (chimère)."},
-    {"fichier": "02.jpg", "vu": "Façade blanche d'église vue en enfilade, avec plusieurs petites gargouilles en saillie au sommet des contreforts.", "verdict": "rejetée", "rectangle": null, "lieu": "Larnaca, Chypre", "note": "Gargouilles minuscules (moins de 10 % de la largeur), illisibles sur téléphone ; pinacles également visibles."},
-    {"fichier": "03.jpg", "vu": "Deux têtes de lion en pierre dans une vitrine de musée, avec cartels explicatifs.", "verdict": "rejetée", "rectangle": null, "lieu": "Musée national d'Afghanistan, Kaboul", "note": "Objets de musée hors contexte bâti, cartels avec texte (« Gargoyle ») qui donnent la réponse."},
-    {"fichier": "04.jpg", "vu": "Statue de griffon ailé blanche posée sur un socle devant un porche en bois.", "verdict": "rejetée", "rectangle": null, "lieu": "Valentine Mansion, Royaume-Uni", "note": "Statue décorative au sol, pas un déversoir d'eau de pluie : ce n'est pas une gargouille."},
-    {"fichier": "05.jpg", "vu": "Gargouille de pierre en forme de bête accroupie, gueule grande ouverte, saillant d'un mur gothique sous un chéneau en plomb.", "verdict": "validée", "rectangle": null, "lieu": "Rosslyn Chapel, Écosse, Royaume-Uni", "note": "Déversoir sculpté clair et dominant, gueule percée et canal visibles ; aucun autre élément concurrent."},
-    {"fichier": "06.jpg", "vu": "Bloc de pierre creusé en auge terminé par une tête animale, posé au sol dans un musée avec étiquette.", "verdict": "rejetée", "rectangle": null, "lieu": "Musée de Kırklareli, Turquie", "note": "Pièce de musée hors œuvre, étiquette « Water spout » visible qui donne la réponse."}
+    {
+      "fichier": "01.jpg",
+      "vu": "Animal sculpté (lion/ours) en saillie à l'angle d'une corniche romane, contre le ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zadar, Croatie",
+      "note": "Aucune gueule percée ni canal visible : rien ne prouve un déversoir, la description Commons parle de simple décor ; pourrait être une sculpture d'angle (chimère)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade blanche d'église vue en enfilade, avec plusieurs petites gargouilles en saillie au sommet des contreforts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Larnaca, Chypre",
+      "note": "Gargouilles minuscules (moins de 10 % de la largeur), illisibles sur téléphone ; pinacles également visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux têtes de lion en pierre dans une vitrine de musée, avec cartels explicatifs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Musée national d'Afghanistan, Kaboul",
+      "note": "Objets de musée hors contexte bâti, cartels avec texte (« Gargoyle ») qui donnent la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Statue de griffon ailé blanche posée sur un socle devant un porche en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valentine Mansion, Royaume-Uni",
+      "note": "Statue décorative au sol, pas un déversoir d'eau de pluie : ce n'est pas une gargouille."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gargouille de pierre en forme de bête accroupie, gueule grande ouverte, saillant d'un mur gothique sous un chéneau en plomb.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Rosslyn Chapel, Écosse, Royaume-Uni",
+      "note": "Déversoir sculpté clair et dominant, gueule percée et canal visibles ; aucun autre élément concurrent."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bloc de pierre creusé en auge terminé par une tête animale, posé au sol dans un musée avec étiquette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Musée de Kırklareli, Turquie",
+      "note": "Pièce de musée hors œuvre, étiquette « Water spout » visible qui donne la réponse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Statue de jardin en forme de gnome grimaçant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Statue décorative, pas un déversoir."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tête de lion en fonte vue de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de déversoir évident."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gargouille en forme de félin crachant un filet d'eau, sur un décor sculpté de façade d'église.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.25,
+        "y": 0.17,
+        "largeur": 0.46,
+        "hauteur": 0.56
+      },
+      "lieu": "Église Saint-Pierre, Caen, France",
+      "note": "Gargouille en saillie nette avec écoulement d'eau."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gargouille sculptée en saillie au sommet d'une tour de pierre devant le ciel.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.39,
+        "y": 0.42,
+        "largeur": 0.26,
+        "hauteur": 0.18
+      },
+      "lieu": "Remparts d'Aigues-Mortes, France",
+      "note": "Gargouille isolée sur le mur, rectangle serré."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Silhouette d'un oiseau sur une potence en fer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une gargouille."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bas-relief d'un personnage couché sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture décorative, pas un déversoir."
+    }
   ]
 }

@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Gloucester, Massachusetts, États-Unis",
       "note": "Meuble, pas architecture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Secrétaire-bibliothèque américain en acajou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble, pas de l'architecture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade de magasin à grands pilastres cannelés et enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pilastres colossaux bien visibles mais enseigne et cadre chargé ; écarté au profit d'une meilleure image."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros pilier de pierre abîmé d'un portique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pilier isolé, pas un pilastre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Haut meuble américain à colonnes plates.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Entrée d'une cafétéria encadrée de deux pilastres cannelés à chapiteaux corinthiens.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.13,
+        "y": 0.3,
+        "largeur": 0.14,
+        "hauteur": 0.52
+      },
+      "lieu": "Estació de França, Barcelone, Espagne",
+      "note": "Pilastres plats engagés dans le mur, avec chapiteau ; rectangle sur celui de gauche."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une porte à fronton, enfants devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pilastres peu lisibles, image ancienne."
     }
   ]
 }

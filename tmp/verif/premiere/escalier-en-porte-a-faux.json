@@ -1,0 +1,53 @@
+{
+  "termId": "escalier-en-porte-a-faux",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Passerelle d'avion mobile vue de dos sur tarmac.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier de service, hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cage d'escalier en granito, vue plongeante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier traditionnel sur limon, pas en porte-à-faux."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier métallique de bateau avec rampe chromée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de marches encastrées flottantes."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tour vitrée floue à coucher de soleil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image floue, escalier non lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grand emmarchement extérieur en pierre, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Emmarchement, pas un escalier en porte-à-faux."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier de maison ancienne avec rampe en bois, vue plongeante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier classique à limon et balustres."
+    }
+  ]
+}

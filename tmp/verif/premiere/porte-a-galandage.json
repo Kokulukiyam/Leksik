@@ -1,0 +1,58 @@
+{
+  "termId": "porte-a-galandage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Double porte en bois dont les deux vantaux coulissent et s'effacent dans l'épaisseur de la cloison, avec chambranle large.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.1,
+        "largeur": 0.56,
+        "hauteur": 0.78
+      },
+      "lieu": "Algiers Point, La Nouvelle-Orléans",
+      "note": "Porte à galandage double ouverte, vantaux à demi rentrés dans la cloison ; catégorie Commons 'Pocket doors'."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cabine bancaire vitrée de nuit avec portes automatiques coulissantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte coulissante vitrée, pas un galandage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Salon vu de face, ouverture large entre deux pièces.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galandage non visible, hypothèse seulement."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grandes portes de hangar en planches sur rails.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portes coulissantes sur rail en applique, pas à galandage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan d'une plaque de serrure ornée sur du bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de quincaillerie, ne montre pas la porte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble de bureaux et panneau vert au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

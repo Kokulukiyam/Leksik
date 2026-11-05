@@ -1864,6 +1864,24 @@
     "note": "Vérification : Panneau d'affichage de chantier avec nom du projet et intervenants, net et dominant. Contre-vérification : Grand panneau d'affichage dressé devant le chantier avec nom du projet, maître d'ouvrage et documents affichés, bien encadré."
   },
   {
+    "id": "panneau-de-chantier-12",
+    "termId": "panneau-de-chantier",
+    "fichier": "commons/panneau-de-chantier-12.webp",
+    "rectangle": {
+      "x": 0.17,
+      "y": 0.06,
+      "largeur": 0.67,
+      "hauteur": 0.47
+    },
+    "lieu": "Kisvárda, Hongrie",
+    "source": "commons",
+    "auteur": "Globetrotter19",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:UEFA_3_soccer_stadium_construction_site_board,_2017_Kisv%C3%A1rda.jpg",
+    "statut": "validée",
+    "note": "Vérification : Panneau d'information de chantier typique, net. Contre-vérification : Grand panneau de chantier avec perspective du projet, intervenants et références du permis, bien cadré devant le chantier."
+  },
+  {
     "id": "benne-a-gravats-03",
     "termId": "benne-a-gravats",
     "fichier": "commons/benne-a-gravats-03.webp",
@@ -7165,6 +7183,32 @@
     "note": "Vérification : Rectangle sur la bande d'oves, motif bien lisible. Contre-vérification : Rang d'oves alternés de petits dards sur une moulure de chapiteau, encadré par le rectangle."
   },
   {
+    "id": "palmette-01",
+    "termId": "palmette",
+    "fichier": "commons/palmette-01.webp",
+    "rectangle": null,
+    "lieu": "Amorgos, Grèce",
+    "source": "commons",
+    "auteur": "Zde",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Anthemion_with_relief,_marble,_470-460_BC,_AM_Amorgos,_180362.jpg",
+    "statut": "validée",
+    "note": "Vérification : Palmette nette et dominante. Contre-vérification : Antéfixe en marbre dont le motif dominant est une palmette en éventail sur deux volutes ; terme juste et lisible."
+  },
+  {
+    "id": "palmette-03",
+    "termId": "palmette",
+    "fichier": "commons/palmette-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Enyama sur Wikipédia anglais",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Palmette.jpg",
+    "statut": "validée",
+    "note": "Vérification : Palmette typique, très claire. Contre-vérification : Photo d'une antéfixe en terre cuite détourée : grande palmette en éventail très lisible, le motif occupe toute l'image."
+  },
+  {
     "id": "cartouche-04",
     "termId": "cartouche",
     "fichier": "commons/cartouche-04.webp",
@@ -7219,6 +7263,42 @@
     "note": "Vérification : Médaillon rond encadré avec portrait, rectangle serré. Contre-vérification : Ornement rond encadré portant une tête du Christ sculptée, rectangle serré : médaillon sans ambiguïté."
   },
   {
+    "id": "atlante-03",
+    "termId": "atlante",
+    "fichier": "commons/atlante-03.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.4,
+      "largeur": 0.8,
+      "hauteur": 0.43
+    },
+    "lieu": "Cracovie, Pologne",
+    "source": "commons",
+    "auteur": "Zygmunt Put",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tyszkiewicz_Palace,_detail-atlantes,_1882_design._Tadeusz_Stryje%C5%84ski,_2-4_Asnyka_street,_Krak%C3%B3w,_Poland.jpg",
+    "statut": "validée",
+    "note": "Vérification : Atlantes typiques, nets. Contre-vérification : Quatre figures masculines sur gaine qui portent les consoles du balcon, bien encadrées ; atlantes sans ambiguïté."
+  },
+  {
+    "id": "atlante-06",
+    "termId": "atlante",
+    "fichier": "commons/atlante-06.webp",
+    "rectangle": {
+      "x": 0.36,
+      "y": 0.45,
+      "largeur": 0.28,
+      "hauteur": 0.15
+    },
+    "lieu": "Helsinki, Finlande",
+    "source": "commons",
+    "auteur": "Statues by Robert Stigell (1852–1907) Photograph by MKFI",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Erottaja_2_Helsinki.JPG",
+    "statut": "validée",
+    "note": "Vérification : Atlantes lisibles avec rectangle, petits. Contre-vérification : Deux atlantes bras levés qui portent le balcon, exactement désignés par le rectangle et lisibles."
+  },
+  {
     "id": "bossage-01",
     "termId": "bossage",
     "fichier": "commons/bossage-01.webp",
@@ -7261,6 +7341,127 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Assyrian_hunt_of_deer.jpg",
     "statut": "validée",
     "note": "Vérification : Bas-relief très net, occupe toute l'image; hors contexte bâti mais sans ambiguïté. Contre-vérification : Panneau assyrien de chasse sculpté en faible saillie sur une dalle : bas-relief typique."
+  },
+  {
+    "id": "haut-relief-03",
+    "termId": "haut-relief",
+    "fichier": "commons/haut-relief-03.webp",
+    "rectangle": null,
+    "lieu": "Cracovie, Pologne",
+    "source": "commons",
+    "auteur": "Kgbo",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kanonicza_Street,_Krak%C3%B3w,_Poland,_2022,_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Figures presque en ronde-bosse. Contre-vérification : Plaque sculptée dont les putti et l'enfant se détachent fortement du fond, presque en ronde-bosse : haut-relief net."
+  },
+  {
+    "id": "haut-relief-04",
+    "termId": "haut-relief",
+    "fichier": "commons/haut-relief-04.webp",
+    "rectangle": {
+      "x": 0.02,
+      "y": 0.28,
+      "largeur": 0.96,
+      "hauteur": 0.55
+    },
+    "lieu": "Munich, Allemagne",
+    "source": "commons",
+    "auteur": "Yair-haklai",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dionysian_Sarcophagus,_Glyptothek,_Munich_(GL_223).jpg",
+    "statut": "validée",
+    "note": "Vérification : Haut-relief clair, cadré sur la scène. Contre-vérification : Face de sarcophage romain aux figures très saillantes, dégagées du fond ; le rectangle cadre la frise sculptée."
+  },
+  {
+    "id": "crochet-02",
+    "termId": "crochet",
+    "fichier": "commons/crochet-02.webp",
+    "rectangle": {
+      "x": 0.38,
+      "y": 0.12,
+      "largeur": 0.32,
+      "hauteur": 0.68
+    },
+    "lieu": "Valence, Espagne",
+    "source": "commons",
+    "auteur": "Joanbanjo",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Monestir_de_la_Trinitat_pinacles.JPG",
+    "statut": "validée",
+    "note": "Vérification : Crochets nets le long des arêtes du pinacle. Contre-vérification : Pinacle gothique dont les arêtes portent de nombreux crochets feuillagés recourbés, bien visibles dans le rectangle."
+  },
+  {
+    "id": "crochet-06",
+    "termId": "crochet",
+    "fichier": "commons/crochet-06.webp",
+    "rectangle": {
+      "x": 0.55,
+      "y": 0.2,
+      "largeur": 0.45,
+      "hauteur": 0.55
+    },
+    "lieu": "Kadaň, Tchéquie",
+    "source": "commons",
+    "auteur": "Palickap",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kada%C5%88,_radnice,_kraby_(1).JPG",
+    "statut": "validée",
+    "note": "Vérification : Crochets bien lisibles ; couleurs saturées mais photo réelle. Contre-vérification : Arête d'une flèche garnie de crochets en feuille recourbée bien détachés sur le ciel ; photo réelle, motif lisible."
+  },
+  {
+    "id": "remplage-04",
+    "termId": "remplage",
+    "fichier": "commons/remplage-04.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.06,
+      "largeur": 0.68,
+      "hauteur": 0.74
+    },
+    "lieu": "Londres, V&A",
+    "source": "commons",
+    "auteur": "14GTR",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gothic_window_tracery,_V%26A_London_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Réseau de pierre très clair ; pièce de musée mais baie reconstituée. Contre-vérification : Fragment de baie gothique exposé : réseau de pierre découpée en arcs trilobés et mouchettes, remplage typique."
+  },
+  {
+    "id": "remplage-05",
+    "termId": "remplage",
+    "fichier": "commons/remplage-05.webp",
+    "rectangle": {
+      "x": 0.27,
+      "y": 0.17,
+      "largeur": 0.5,
+      "hauteur": 0.42
+    },
+    "lieu": "Rakovník, Tchéquie",
+    "source": "commons",
+    "auteur": "Jan Sommer",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Rakovn%C3%ADk,_kostel_sv._Bartolom%C4%9Bje_(20221015)._Ji%C5%BEn%C3%AD_okno_z%C3%A1v%C4%9Brov%C3%A9ho_pole_presbyteria.jpg",
+    "statut": "validée",
+    "note": "Vérification : Remplage en place, encadré sur le réseau supérieur. Contre-vérification : Tête de baie gothique avec réseau de pierre en lobes garni de vitraux, exactement cadrée par le rectangle."
+  },
+  {
+    "id": "gable-02",
+    "termId": "gable",
+    "fichier": "commons/gable-02.webp",
+    "rectangle": {
+      "x": 0.4,
+      "y": 0.06,
+      "largeur": 0.23,
+      "hauteur": 0.6
+    },
+    "lieu": "Milan, Italie",
+    "source": "commons",
+    "auteur": "José Luiz",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Detail_-_Facade_of_the_Duomo_-_Milan_2014.jpg",
+    "statut": "validée",
+    "note": "Vérification : Gâble ajouré central encadré parmi plusieurs ; bon exemple gothique. Contre-vérification : Couronnement triangulaire aigu et ajouré de la cathédrale de Milan, bien désigné ; gâble sans ambiguïté."
   },
   {
     "id": "cannelure-05",
@@ -7354,6 +7555,73 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Affresco_Montebenedetto.jpg",
     "statut": "validée",
     "note": "Vérification : Fresque extérieure lisible; rectangle sur la peinture. Contre-vérification : Peinture murale ancienne sur enduit, protégée par un auvent sur un mur de pierre, rectangle bien placé : fresque."
+  },
+  {
+    "id": "sgraffite-02",
+    "termId": "sgraffite",
+    "fichier": "commons/sgraffite-02.webp",
+    "rectangle": null,
+    "lieu": "Wädenswil, Suisse",
+    "source": "commons",
+    "auteur": "Paul Haldimann († 26.5.1951)",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Paul_Haldimann_-_Sgraffito_am_Kindergarten_Gl%C3%A4rnisch.jpg",
+    "statut": "validée",
+    "note": "Vérification : Décor gratté dans l'enduit, tracé incisé caractéristique. Contre-vérification : Scène gravée dans l'enduit avec des traits d'une teinte plus sombre révélés en dessous : sgraffite typique."
+  },
+  {
+    "id": "colonne-torse-04",
+    "termId": "colonne-torse",
+    "fichier": "commons/colonne-torse-04.webp",
+    "rectangle": {
+      "x": 0.24,
+      "y": 0.1,
+      "largeur": 0.22,
+      "hauteur": 0.82
+    },
+    "lieu": "Civesio, Lombardie",
+    "source": "commons",
+    "auteur": "Giovanni Dall'Orto",
+    "licence": "CC BY-SA 2.5 it",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:0660_-_Civesio_-_Sant%27Ambrogio_-_Cappella_di_sinistra_-_Foto_di_Giovanni_Dall%27Orto,_11_luglio_2026.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fût en spirale net et dominant, encadré pour écarter l'ange et la niche. Contre-vérification : Colonne au fût en spirale bien encadrée, dominante dans le rectangle ; colonne torse sans ambiguïté."
+  },
+  {
+    "id": "fronton-brise-02",
+    "termId": "fronton-brise",
+    "fichier": "commons/fronton-brise-02.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.32,
+      "largeur": 0.78,
+      "hauteur": 0.35
+    },
+    "lieu": "Tomášov, Slovaquie",
+    "source": "commons",
+    "auteur": "TomášPolonec",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Church_in_Tom%C3%A1%C5%A1ov.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rampants interrompus nets, vide central occupé par une niche. Contre-vérification : Rampants interrompus de part et d'autre d'une niche avec statue au-dessus d'un portail : fronton brisé net."
+  },
+  {
+    "id": "fronton-brise-06",
+    "termId": "fronton-brise",
+    "fichier": "commons/fronton-brise-06.webp",
+    "rectangle": {
+      "x": 0.28,
+      "y": 0.34,
+      "largeur": 0.46,
+      "hauteur": 0.2
+    },
+    "lieu": "Cathédrale du Wawel, Cracovie",
+    "source": "commons",
+    "auteur": "Aw58",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Drzwi_wej%C5%9Bciowe_do_archikatedry_wawelskiej.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fronton brisé net, encadré ; forte perspective mais lisible. Contre-vérification : Fronton en marbre noir dont les rampants s'arrêtent avant le sommet, avec un cartouche dans le vide central."
   },
   {
     "id": "rosace-de-plafond-01",
@@ -7472,6 +7740,19 @@
     "note": "Vérification : Latérite alvéolée de Goa, bien lisible. Contre-vérification : Affleurement de latérite rouge sombre très vacuolaire en gros plan ; aucun autre terme de la liste ne convient."
   },
   {
+    "id": "pierre-de-laterite-06",
+    "termId": "pierre-de-laterite",
+    "fichier": "commons/pierre-de-laterite-06.webp",
+    "rectangle": null,
+    "lieu": "Sukhothai, Thaïlande",
+    "source": "commons",
+    "auteur": "ErwinMeier",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Laterit_03.jpg",
+    "statut": "validée",
+    "note": "Vérification : Texture alvéolée et couleur typiques ; bloc appareillé dans un mur. Contre-vérification : Bloc de latérite rougeâtre très alvéolé dans un mur, vu de près ; matériau caractéristique."
+  },
+  {
     "id": "ronier-01",
     "termId": "ronier",
     "fichier": "commons/ronier-01.webp",
@@ -7496,6 +7777,45 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Deleb_palm_trees_in_Zankan_6.jpg",
     "statut": "validée",
     "note": "Vérification : Rôniers bien lisibles. Contre-vérification : Peuplement de rôniers aux stipes droits et palmes en éventail, typique ; terme juste."
+  },
+  {
+    "id": "typha-01",
+    "termId": "typha",
+    "fichier": "commons/typha-01.webp",
+    "rectangle": null,
+    "lieu": "Siston Common, Royaume-Uni",
+    "source": "commons",
+    "auteur": "WhiteTailedEagle",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cattail_reed_in_Siston_Common.jpg",
+    "statut": "validée",
+    "note": "Vérification : Typha net et typique, épis et feuilles bien lisibles. Contre-vérification : Plant de typha avec ses épis bruns cylindriques et ses longues feuilles ; reconnaissable sans confusion."
+  },
+  {
+    "id": "typha-02",
+    "termId": "typha",
+    "fichier": "commons/typha-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Alex Abair",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Typha_domingensis_13360584.jpg",
+    "statut": "validée",
+    "note": "Vérification : Épi très reconnaissable, photo nette. Contre-vérification : Épi sec de typha sur fond de ciel avec ses tiges ; la plante est identifiable sans ambiguïté."
+  },
+  {
+    "id": "tata-somba-04",
+    "termId": "tata-somba",
+    "fichier": "commons/tata-somba-04.webp",
+    "rectangle": null,
+    "lieu": "Otammari, Bénin",
+    "source": "commons",
+    "auteur": "Justin ABADJAYE",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tata_somba_otamari.jpg",
+    "statut": "validée",
+    "note": "Vérification : Silhouette typique, claire malgré la lumière sombre. Contre-vérification : Maison-forteresse en terre aux tourelles cylindriques coiffées de toits coniques de paille : tata typique."
   },
   {
     "id": "maison-coloniale-04",
@@ -9161,6 +9481,37 @@
     "note": "Vérification : Prises claires, toutes la même réponse. Contre-vérification : Blocs de prises murales en saillie avec fiches branchées ; terme juste."
   },
   {
+    "id": "interrupteur-09",
+    "termId": "interrupteur",
+    "fichier": "commons/interrupteur-09.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.28,
+      "largeur": 0.62,
+      "hauteur": 0.32
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Amitbalani",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Antique_Light_Switch.jpg",
+    "statut": "validée",
+    "note": "Vérification : Plusieurs interrupteurs identiques cadrés ; le rectangle isole les deux du haut. Contre-vérification : Deux interrupteurs à bascule anciens sur une platine en bois, bien désignés par le rectangle, sans la prise."
+  },
+  {
+    "id": "interrupteur-12",
+    "termId": "interrupteur",
+    "fichier": "commons/interrupteur-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Siobhan Leachman",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Chevening_Flats_light_switch.jpg",
+    "statut": "validée",
+    "note": "Vérification : Interrupteurs muraux à bascule, nets et dominants. Contre-vérification : Deux interrupteurs à levier en laiton sur une platine en bois, en gros plan et dominants."
+  },
+  {
     "id": "boite-de-derivation-03",
     "termId": "boite-de-derivation",
     "fichier": "commons/boite-de-derivation-03.webp",
@@ -9203,6 +9554,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Conventional_Lightning_Rod_(46429374125).jpg",
     "statut": "validée",
     "note": "Vérification : Paratonnerre conventionnel net, conducteur de descente visible. Contre-vérification : Tige de paratonnerre à pointes au sommet d'un mât avec feuillard de descente, sur le ciel : clair."
+  },
+  {
+    "id": "groupe-electrogene-10",
+    "termId": "groupe-electrogene",
+    "fichier": "commons/groupe-electrogene-10.webp",
+    "rectangle": {
+      "x": 0.14,
+      "y": 0.47,
+      "largeur": 0.34,
+      "hauteur": 0.31
+    },
+    "lieu": "Libramont, Belgique",
+    "source": "commons",
+    "auteur": "Jean Housen",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:20150724_libramont026.JPG",
+    "statut": "validée",
+    "note": "Vérification : Groupe sous capot insonorisé clair ; rectangle sur le groupe principal. Un autocollant en anglais est petit. Contre-vérification : Groupe électrogène diesel sous capot insonorisé rouge, nettement désigné par le rectangle."
   },
   {
     "id": "ampoule-04",
@@ -9327,6 +9696,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:EU-EE-Tallinn-Kesklinn-Viru_Tunnel.JPG",
     "statut": "validée",
     "note": "Vérification : Rectangle sur la réglette de premier plan. Contre-vérification : Réglette tubulaire étanche fixée au plafond, encadrée ; terme juste."
+  },
+  {
+    "id": "reglette-07",
+    "termId": "reglette",
+    "fichier": "commons/reglette-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Dmitry G",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fluorescent_lamp_with_run_mercury.JPG",
+    "statut": "validée",
+    "note": "Vérification : Luminaire long à tubes fixé au plafond, net et dominant. Contre-vérification : Luminaire long et étroit à deux tubes fixé au plafond, qui occupe l'image : réglette typique."
   },
   {
     "id": "projecteur-05",
@@ -9854,5 +10236,23 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Kitchen_interior_design.jpg",
     "statut": "validée",
     "note": "Vérification : Plan de travail en granit lisible à droite de la cuisinière ; rectangle sur le plan. Contre-vérification : Tablette en granit posée sur les meubles bas de cuisine, bien encadrée : plan de travail."
+  },
+  {
+    "id": "plan-de-travail-08",
+    "termId": "plan-de-travail",
+    "fichier": "commons/plan-de-travail-08.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.45,
+      "largeur": 0.88,
+      "hauteur": 0.25
+    },
+    "lieu": "Algarve, Portugal",
+    "source": "commons",
+    "auteur": "Marek Ślusarczyk ( Tupungato ) Photo portfolio",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:003_Rustic_style_tiled_kitchen_sink_area_in_a_rental_apartment_in_Portugal.jpg",
+    "statut": "validée",
+    "note": "Vérification : Plan de travail net, encadré pour le distinguer de la crédence et de l'évier. Contre-vérification : Plan de travail en marbre posé sur les meubles bas, avec évier et plaques encastrés, bien cadré."
   }
 ]

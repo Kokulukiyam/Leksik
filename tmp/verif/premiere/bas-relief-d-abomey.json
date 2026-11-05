@@ -1,0 +1,53 @@
+{
+  "termId": "bas-relief-d-abomey",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Page de livre avec gravure d'un bas-relief en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reproduction imprimée, pas Abomey."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade d'Angkor Wat avec apsaras sculptées en relief.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cambodge, pas Abomey."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Relief assyrien de chasse au cerf en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Assyrie, pas Abomey."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Stèle de pierre anthropomorphe en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Statue-menhir, pas Abomey."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bas-relief de pierre au-dessus d'une horloge, hôtel de ville de Poissy.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "France, pas un bas-relief en terre d'Abomey."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Page de livre avec Vierge à l'Enfant en relief.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reproduction imprimée, pas Abomey."
+    }
+  ]
+}

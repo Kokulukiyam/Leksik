@@ -1,0 +1,53 @@
+{
+  "termId": "noyau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Noyau de cellule en microscopie 3D.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sens biologique, hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Boule de pierre à fleur de lys sur un pilastre, Rome.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Pomme de rampe extérieure, pas un noyau d'escalier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Schéma de noyau cellulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, sens biologique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pot à feu en bois sculpté posé sur un pilastre d'escalier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Château de Hautefort, France",
+      "note": "Pomme d'escalier, pas un noyau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poteau d'angle en bois à chapeau cannelé et main courante d'un escalier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bourg-la-Reine, France",
+      "note": "C'est un poteau de départ, pas le noyau central."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Schéma de noyau cellulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, sens biologique."
+    }
+  ]
+}

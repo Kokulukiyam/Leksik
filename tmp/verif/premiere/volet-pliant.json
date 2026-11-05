@@ -1,0 +1,53 @@
+{
+  "termId": "volet-pliant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Volet de bois à deux vantaux panneautés fermé sur façade en clin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Halden, Norvège",
+      "note": "Volet battant fermé, pas de feuilles articulées visibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre grillagée en pierre avec deux volets battants blancs ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brunswick, Allemagne",
+      "note": "Volets battants simples."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fenêtre grillagée jaune avec volets intérieurs décorés ouverts, palais marocain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Marrakech, Maroc",
+      "note": "Panneaux ouverts à plat, pliage non démontré."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade de brique avec volets blancs battants ouverts et balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets battants simples."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Volets de bois ouverts en contre-plongée sur façade rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Koprivchtitsa, Bulgarie",
+      "note": "Volets battants, vue difficile."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Château en ruine vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Balintore, Écosse",
+      "note": "Hors sujet."
+    }
+  ]
+}

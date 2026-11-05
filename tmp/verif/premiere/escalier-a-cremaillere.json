@@ -1,0 +1,53 @@
+{
+  "termId": "escalier-a-cremaillere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Marches d'escalier très sombres de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun limon à crémaillère visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier courbe en granito avec rampe, devant deux sièges en racines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier hélicoïdal, sièges dominants."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Passerelle d'avion mobile rouge sur un tarmac.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier de service aéroport, pas une crémaillère."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux détails de balustrade et limon en bois d'un hall.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balustrade, pas de limon en dents de scie net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Escalier métallique de bateau avec rampe chromée, panneau bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de crémaillère identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier à balustres jaunes et marches vertes dans une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg, Allemagne",
+      "note": "Limon non lisible en dents de scie."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "porte-cochere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bâtiment à passage voûté monumental, voiture au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Liberec, Tchéquie",
+      "note": "Passage voûté sans vantaux visibles, pas une porte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte-meule de pierre ronde d'une ville souterraine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kaymaklı, Turquie",
+      "note": "Porte en pierre ronde, hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Passage couvert d'une gare avec portail en bois au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kalocsa, Hongrie",
+      "note": "Portail lointain, scène chargée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte de bois à deux vantaux patinée sous un balcon en fer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dimensions non évidentes, peut passer pour une simple porte à deux vantaux ; doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue avec un porche voûté ouvert entre deux immeubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Koper, Slovénie",
+      "note": "Passage sans porte visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Atelier avec portes de train en fabrication.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

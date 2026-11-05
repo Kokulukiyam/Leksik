@@ -1,0 +1,53 @@
+{
+  "termId": "jet-d-eau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Portes métalliques inox dans une station de métro.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Jet d'eau non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vieille porte bleue écaillée à deux vantaux sous un balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bas de porte abîmé, pas de jet d'eau identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Devanture sombre en bois avec porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, aucun jet d'eau lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grande porte en bronze sculptée, ouverte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Naples, Italie",
+      "note": "Pas de jet d'eau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte en bois cintrée à deux vantaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de jet d'eau lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte d'autobus avec poignée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tokyo, Japon",
+      "note": "Sans rapport."
+    }
+  ]
+}

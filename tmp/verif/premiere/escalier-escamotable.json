@@ -1,0 +1,58 @@
+{
+  "termId": "escalier-escamotable",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Échelle en bois dans un grenier abandonné, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échelle fixe, pas escamotable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Échelle à crinoline le long d'une cheminée en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échelle à crinoline, pas escamotable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Personne descendant la passerelle d'un avion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier d'avion, hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Couloir avec trappe de plafond fermée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier replié invisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Escalier derrière un filet et un grillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, caché."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Échelle de grenier en bois dépliée par la trappe du plafond d'un couloir.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.0,
+        "largeur": 0.5,
+        "hauteur": 1.0
+      },
+      "lieu": "",
+      "note": "Escalier escamotable déployé, encadré sur toute sa hauteur."
+    }
+  ]
+}

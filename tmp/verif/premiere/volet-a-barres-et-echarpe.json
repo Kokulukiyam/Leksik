@@ -1,0 +1,53 @@
+{
+  "termId": "volet-a-barres-et-echarpe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Carte postale ancienne en noir et blanc d'une salle de château avec volets intérieurs en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Burg Gnandstein, Allemagne",
+      "note": "Noir et blanc, volet minuscule, aucune barre lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Immeuble de Singapour à volets colorés à lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Singapour",
+      "note": "Volets à lames (persiennes), pas à barres et écharpe."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Paire de volets en planches posée contre un mur, photo ancienne en noir et blanc, avec lignes diagonales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sainte-Geneviève, Missouri",
+      "note": "Pas de barres horizontales lisibles ; planches en diagonale ou écharpes ambiguës, photo en noir et blanc, doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison balkanique avec petits volets battants en bois sous les fenêtres grillagées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prizren/Gjakovë",
+      "note": "Volets petits et sans barres/écharpe identifiables."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Recadrage de la carte postale 01.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même défaut que 01."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Château écossais en ruine, fenêtres sans volets visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Balintore Castle, Écosse",
+      "note": "Aucun volet lisible."
+    }
+  ]
+}

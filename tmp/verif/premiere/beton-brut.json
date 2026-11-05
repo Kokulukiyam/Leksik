@@ -53,6 +53,54 @@
       },
       "lieu": "Fukuoka, Japon",
       "note": "Béton de décoffrage apparent avec trous de banchage caractéristiques ; rectangle pour exclure la partie gauche (lattes de bois)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Hangar et dalle de béton au pied d'une falaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton non brut de décoffrage."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur à cannelures verticales en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface striée ambiguë (bouchardé ou cannelé)."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grand mur de béton marqué par les joints de banches et les trous d'entretoises, coulé par la rouille.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Pozo Rotilio, Nerva, Huelva, Espagne",
+      "note": "Empreinte du coffrage visible (joints, trous de tiges) : béton brut de décoffrage, patiné."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chapelle blanche à toit sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton peu visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Texture crème fissurée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture sans empreinte de coffrage."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rochers sur une plage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

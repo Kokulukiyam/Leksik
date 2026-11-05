@@ -1,0 +1,53 @@
+{
+  "termId": "fenetre-pivotante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre de cabanon en bois, vantail basculant partiellement ouvert, vue sombre de l'intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Axe de pivot peu lisible, peut passer pour un soufflet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre noire dans un mur avec une mitrailleuse sur l'appui.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grande verrière en acier vert avec un vantail ouvert sur le côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Schinveld, Pays-Bas",
+      "note": "Vantail battant classique, pas pivotant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre blanche à petits carreaux sur mur en bardeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre fermée, ouverture non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Salle de musée aux grandes baies cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Genève, Suisse",
+      "note": "Mode d'ouverture non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre de salle de bains ouverte, vantail battant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dresde, Allemagne",
+      "note": "Vantail battant sur le côté."
+    }
+  ]
+}

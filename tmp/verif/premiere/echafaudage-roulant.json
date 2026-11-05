@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Enluminure, pas une photo."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tour d'échafaudage en aluminium à deux plateformes, un homme dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Roulettes non visibles : rien ne prouve qu'elle soit roulante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Silhouettes d'échafaudage et d'aciers en attente au coucher du soleil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec un échafaudage roulant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sépulture sur plateforme de perches, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un échafaudage de chantier."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Intérieur d'un échafaudage avec escalier, bâches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas roulant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Échafaudage de façade d'immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage fixe."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Coupole du Capitole en réparation, échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage fixe, petit."
     }
   ]
 }

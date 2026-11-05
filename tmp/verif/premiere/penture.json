@@ -1,0 +1,53 @@
+{
+  "termId": "penture",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bande de fer ajourée à motifs végétaux clouée sur une porte en chêne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de musée, l'œil de rotation n'est pas visible : pourrait être un simple décor ; doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Flacon de parfum en verre rouge avec monture en laiton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bande de fer ajourée clouée sur du bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même doute que 01, œil non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Charnière d'une boîte en fer-blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnière, pas une penture."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Charnière d'une boîte en fer-blanc fermée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnière, pas une penture."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Penture en fer rouillée, triangulaire, avec son œil enroulé à gauche, clouée sur une planche de bois patiné.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo nette, penture dominante, œil et bande bien lisibles."
+    }
+  ]
+}

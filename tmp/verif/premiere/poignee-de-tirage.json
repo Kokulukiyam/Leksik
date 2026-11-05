@@ -1,0 +1,53 @@
+{
+  "termId": "poignee-de-tirage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Anneau de heurtoir en fer sur plaque losange, porte verte patinée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Santiago, Chili",
+      "note": "Heurtoir à anneau, pas une poignée de tirage tubulaire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poignée verticale ouvragée en métal sombre sur plaque, devant un mur de brique, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "São Carlos, Brésil",
+      "note": "Poignée décorative peu lisible, confusion possible avec poignée de porte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bouton de porte en laiton sur longue plaque, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Québec, Canada",
+      "note": "Bouton de porte, flou."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bouton de porte en laiton poli avec verrou, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bouton de porte, pas une poignée de tirage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Anneaux de fer sur porte rouge de village coréen.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gyeongju, Corée",
+      "note": "Anneaux/heurtoirs, pas une poignée de tirage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Platine en fer forgé avec béquille et entrée de clé sur porte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alūksne, Lettonie",
+      "note": "Poignée de porte à béquille avec serrure."
+    }
+  ]
+}

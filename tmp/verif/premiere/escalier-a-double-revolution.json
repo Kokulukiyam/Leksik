@@ -1,0 +1,53 @@
+{
+  "termId": "escalier-a-double-revolution",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grand hall de marbre à colonnes, volées d'escalier visibles au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Salsomaggiore, Italie",
+      "note": "Escalier masqué par les colonnes, symétrie illisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier intérieur en bois à marches en porte-à-faux dans un salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier droit domestique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue plongeante : une volée centrale à tapis rouge monte à un palier d'où partent deux volées symétriques, balustres de marbre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Palacio de la Junta General, Oviedo, Espagne",
+      "note": "Escalier monumental à double révolution, symétrie très lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cage d'escalier à volées droites en granito, vue plongeante en diagonale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier ordinaire à volées superposées."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Escalier de palais à volées en retour, garde-corps en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valence, Espagne",
+      "note": "Volées en retour, pas deux volées symétriques d'un même palier."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Balcon et escalier sur un bar d'événement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

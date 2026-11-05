@@ -1,0 +1,63 @@
+{
+  "termId": "porte-sectionnelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte de garage rouge à lames horizontales avec portillon, derrière une borne d'incendie.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.62,
+        "y": 0.06,
+        "largeur": 0.31,
+        "hauteur": 0.35
+      },
+      "lieu": "Freepsum, Allemagne",
+      "note": "Porte sectionnelle à panneaux horizontaux visibles, encadrée pour éviter la borne d'incendie au premier plan."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rideau métallique gris à lames dans une façade en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Christchurch, Nouvelle-Zélande",
+      "note": "Rideau à enroulement, pas une porte sectionnelle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Longue porte de garage à lames en perspective, graffiti.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Queens, New York",
+      "note": "Rideau à lames enroulable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Portes de quai de chargement jaunes à hublot, avec abris d'étanchéité noirs, sur un entrepôt.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.365,
+        "y": 0.51,
+        "largeur": 0.13,
+        "hauteur": 0.35
+      },
+      "lieu": "",
+      "note": "Portes industrielles sectionnelles ; rectangle sur la porte centrale ; panneaux peu visibles, deuxième choix."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rideau métallique à lames fermé dans un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Rideau à enroulement."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cinq quais de chargement avec portes blanches sous abris noirs, très petites.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portes trop petites, panneaux illisibles."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "poteau-de-depart",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Boule de verre bleu taillé sur un départ de rampe en bois à volute.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boule seule, le poteau est masqué par la volute, risque de confusion avec la pomme ou la volute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poteau doré en bronze ouvragé au pied d'un escalier en pierre, qui reçoit la main courante en fer forgé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.14,
+        "largeur": 0.27,
+        "hauteur": 0.69
+      },
+      "lieu": "Louvre, Paris, France",
+      "note": "Poteau de départ très net, encadré."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Boule de pierre à fleur de lys sur un socle extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ornement de pierre, pas un poteau de rampe."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tas de pommes de balustre en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets en vrac, hors contexte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Escalier de jardin en briques avec deux lampadaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Murs d'échiffre et lampadaires, pas de poteau de rampe."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Lampadaire et balustrade en bord de rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Goa, Inde",
+      "note": "Hors sujet."
+    }
+  ]
+}

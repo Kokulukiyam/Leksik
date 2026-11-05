@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Pomßen, Allemagne",
       "note": "Le grand arc maçonné au premier plan domine et déborde dans tout cadrage de la voûte : doute arc / voûte ; voûte en bois."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafond en berceau lambrissé de bois peint d'une église anglaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte en bois (plafond lambrissé), pas un ouvrage de maçonnerie."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gravure de traité montrant un arc et un berceau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plafond en berceau d'une église, rythmé par des arcs doubleaux en pierre et des lunettes, vu d'en dessous.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Monastère de San Miguel de los Reyes, Valence, Espagne",
+      "note": "Voûte en berceau maçonnée claire et dominante."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Porte de chambre forte avec visiteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de voûte lisible, sujet autre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Poterne en arc entre des maisons de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre surtout un arc/porche, confusion arc/voûte."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ruine romaine en brique avec un grand vide voûté vu d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruine, vue peu lisible, voûte partiellement cachée."
     }
   ]
 }

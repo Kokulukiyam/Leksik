@@ -1,0 +1,53 @@
+{
+  "termId": "vitrage-teinte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chat sur un rebord de fenêtre en bois à petits carreaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Houtong, Taïwan",
+      "note": "Vitrage non teinté, sujet : le chat."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vitre épaisse brisée d'une cellule d'Alcatraz.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alcatraz, États-Unis",
+      "note": "Verre cassé, pas un vitrage teinté."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade vitrée en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc : teinte non appréciable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pièce vide avec fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chapelle en noir et blanc, carte postale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dresde, Allemagne",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Verrière à vitraux bleus et géométriques dans une gare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Genève, Suisse",
+      "note": "Vitrail, pas un vitrage teinté dans la masse."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "ginna",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Village en terre sous une falaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble de falaise, pas une ginna identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Falaise de Bandiagara et village au pied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop lointain."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Carte postale ancienne de villages de falaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien avec légende, trop lointain."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Toits de chaume de greniers sur un village.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Greniers et toits, pas une ginna."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne d'une cour dogon, murs de terre à niches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, façade non claire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bâtiments de terre à décor de chevrons sous la falaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Probables greniers, pas identifiable à une ginna."
+    }
+  ]
+}
