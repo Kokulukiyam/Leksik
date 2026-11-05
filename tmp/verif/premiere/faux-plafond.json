@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Cambodge",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue vers le haut d'un puits de lumière sombre dans un vieux bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond ancien, pas un faux plafond."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Coupole peinte d'une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte, pas un faux plafond."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Dôme géodésique intérieur d'une station polaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure en dôme, hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Toiture vue de l'intérieur d'une case en matériaux végétaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture, pas un faux plafond."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Voûte peinte avec clé de voûte décorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte, pas un faux plafond."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Voûte à nervures dorées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte, pas un faux plafond."
     }
   ]
 }

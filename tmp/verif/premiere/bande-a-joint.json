@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Sudbury, Canada",
       "note": "Annotations, bande invisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Photo annotée d'un tuyau traversant un mur en plaques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Textes en anglais, bande non visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan d'un plafond de plâtre projeté texturé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune bande visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gaine technique avec tuyaux et plaque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bande non visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tuyaux et conduits traversant des plaques de plâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bande non identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo annotée de pénétrations coupe-feu dans une paroi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Textes en anglais, bande peu visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Thermostat sur un mur lisse beige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune bande visible."
     }
   ]
 }

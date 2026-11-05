@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Călimănești, Roumanie",
       "note": "Câbles trop petits."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Local encombré de cartons avec des câbles colorés qui pendent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Câbles en vrac parmi d'autres objets."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sommet d'un poteau en bois flou avec des câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, câbles aériens peu lisibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Câble noir enroulé avec petit boîtier et pièce ronde.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Câble de voiture avec accessoires, pas une pose de bâtiment."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Voûte en briques d'une cave avec des fils tendus et des isolateurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Câble peu lisible, scène dominée par la voûte."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ancien câble torsadé au sol avec un petit capuchon en porcelaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut évoquer prise ou boîte de dérivation, confusion possible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Roue de la London Eye avec ses haubans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, haubans."
     }
   ]
 }

@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Soubassement extérieur, ambigu avec la plinthe."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Angle de pièce avec plinthe en carreau beige sous un mur orange, sur grand carrelage blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plinthe carrelée nette et dominante, encadrée sur toute la largeur."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Lambris de pin et corniche sous un plafond en lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lambris, pas une plinthe."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plinthe en bois-effet brillante devant un mur imitation bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contexte confus, vue rasante."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bas d'une porte avec plinthe peinte, photo en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Parvis d'église pavé de galets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Allège de fenêtre avec radiateur et cotations suédoises.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, plusieurs éléments."
     }
   ]
 }

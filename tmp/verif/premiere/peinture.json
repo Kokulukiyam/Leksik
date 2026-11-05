@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Street art."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade délabrée à fenêtres murées et graffitis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de peinture appliquée en cours."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fresque murale en forme de cœur ailé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Œuvre d'art murale, pas la peinture de finition."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mélange de pigment au broyeur sur une plaque de verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pigment, pas de la peinture murale."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Graffiti de schtroumpf sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Œuvre d'art."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bocaux de pigments en poudre sur une étagère.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pigments, hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Couloir d'un ancien bâtiment aux murs verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture non montrée de façon claire."
     }
   ]
 }

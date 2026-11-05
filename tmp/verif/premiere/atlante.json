@@ -1,0 +1,63 @@
+{
+  "termId": "atlante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Table de pierre portée par deux enfants nus accroupis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Putti, pas des atlantes virils."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Statue d'Hercule barbu vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un support d'entablement."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Balcon porté par quatre atlantes barbus aux bras levés, sur une façade.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.4,
+        "largeur": 0.8,
+        "hauteur": 0.43
+      },
+      "lieu": "Cracovie, Pologne",
+      "note": "Atlantes typiques, nets."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ange en pierre qui soutient un ciborium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ange vêtu, pas un atlante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Statue de jeune figure engainée sur façade jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Figure androgyne, risque de cariatide."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux atlantes blancs sous un oriel d'angle, façade de Helsinki.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.45,
+        "largeur": 0.28,
+        "hauteur": 0.15
+      },
+      "lieu": "Helsinki, Finlande",
+      "note": "Atlantes lisibles avec rectangle, petits."
+    }
+  ]
+}

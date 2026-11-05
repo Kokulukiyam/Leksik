@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Objet de musée isolé, pas un carrelage posé."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Angle d'évier en marbre avec carreaux décorés muraux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreaux décoratifs disparates, pas un carrelage typique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dos d'un carreau ancien jauni.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Panneau d'azulejos à motifs en croix bleus et verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreaux décoratifs, pas un carrelage typique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sol de gravier avec éclats de carreaux bleus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vitrine de fragments de carreaux médiévaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces de musée, pas un carrelage."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tuiles de rive rondes décorées sur un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

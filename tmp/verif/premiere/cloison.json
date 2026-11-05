@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Benamariel, Espagne",
       "note": "Tapia, pas une cloison."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de jardin crénelé à Vérone devant un cyprès.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur extérieur, pas une cloison."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chemin de pierres dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Muret ruiné extérieur."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur intérieur en colombage et remplissage dégradé, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colombage ancien ruiné, pas une cloison lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de pierres avec inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur extérieur en pierre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Entrée d'un jardin avec niche et fontaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Muret de briques devant des arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Muret de jardin."
     }
   ]
 }

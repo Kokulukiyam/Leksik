@@ -1,0 +1,45 @@
+{
+  "termId": "voute-nubienne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cases obus musgum en terre à nervures, avec grosse jarre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cameroun",
+      "note": "Cases en coupole, pas des voûtes nubiennes."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur de briques de terre à rangs inclinés et arc en brique, ruine au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Musée de Nubie, Assouan",
+      "note": "Rangs inclinés visibles mais voûte non lisible, vue confuse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Toits de maisons nubiennes bleues avec petite coupole et toit voûté lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nagaa Suhayl Gharb, Égypte",
+      "note": "Voûte non montrée clairement."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tombeau coiffé d'une coupole conique en terre dans le désert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "El Kurru, Soudan",
+      "note": "Coupole, pas une voûte nubienne."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade blanche et bleue d'une maison nubienne à toit ondulé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nagaa Suhayl Gharb, Égypte",
+      "note": "Voûte non visible de l'extérieur."
+    }
+  ]
+}

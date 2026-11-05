@@ -1,0 +1,53 @@
+{
+  "termId": "arabesque",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Carrelage persan en étoiles et entrelacs géométriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shiraz, Iran",
+      "note": "Décor géométrique islamique (étoiles, polygones), pas des courbes végétales : ne correspond pas à l'arabesque telle que définie."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau de pierre sculpté d'étoiles et de tresses géométriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Quartier arménien, Jérusalem",
+      "note": "Décor géométrique islamique (étoiles, polygones), pas des courbes végétales : ne correspond pas à l'arabesque telle que définie."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond peint à caissons, étoiles et rosaces polychromes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boukhara, Ouzbékistan",
+      "note": "Décor géométrique islamique (étoiles, polygones), pas des courbes végétales : ne correspond pas à l'arabesque telle que définie."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mosaïque de faïence avec bandeau calligraphique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boukhara, Ouzbékistan",
+      "note": "Calligraphie et géométrie, pas d'arabesque nette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Frontispice enluminé de manuscrit coranique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Manuscrit, pas un élément architectural."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Détail de plafond peint polychrome en étoiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boukhara, Ouzbékistan",
+      "note": "Décor géométrique islamique (étoiles, polygones), pas des courbes végétales : ne correspond pas à l'arabesque telle que définie."
+    }
+  ]
+}

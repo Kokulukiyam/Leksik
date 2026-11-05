@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Indianapolis, États-Unis",
       "note": "Aucun lanterneau discernable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Trappe triangulaire dans un tertre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Parlement de l'Indiana de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dôme, pas un lanterneau."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Oculus vitré circulaire vu de l'intérieur d'une bibliothèque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Verrière zénithale ambiguë."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Parlement de l'Indiana de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouverture zénithale d'une yourte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tündük, pas un lanterneau."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petite fenêtre en demi-lune dans une voûte à caissons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue intérieure, ambiguë."
     }
   ]
 }

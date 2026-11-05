@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de palissade."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier couché dans la benne d'un camion chargé de parpaings.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune palissade."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier en terre rouge avec tranchée, clôture grillagée légère au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clôture non pleine, peu visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo aérienne ancienne en noir et blanc d'un site de construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne vue aérienne, aucune palissade."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grues et façade bâchée sur échafaudage, de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage, pas de palissade."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Poutres métalliques et ampoule suspendue vues d'en dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune palissade."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvrier qui enduit un encadrement de porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune palissade."
     }
   ]
 }

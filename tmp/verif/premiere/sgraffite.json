@@ -1,0 +1,53 @@
+{
+  "termId": "sgraffite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fresque publicitaire d'une femme en dirndl tenant une bière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bavière, Allemagne",
+      "note": "Peinture murale, pas un sgraffite ; texte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Enduit clair gratté en lignes : arbre et trois personnages dessinés en traits incisés.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Wädenswil, Suisse",
+      "note": "Décor gratté dans l'enduit, tracé incisé caractéristique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond de loggia à décor peint écaillé, au-dessus de deux colonnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hartford, États-Unis",
+      "note": "Décor peint abîmé, technique indécise."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de nef avec traces de décor effacé sous des arcs, charpente apparente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chiaravalle, Milan",
+      "note": "Décor quasi disparu, illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bouquet de fleurs dans une corbeille, motif clair sur enduit beige, façade.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Cerdanyola del Vallès, Espagne",
+      "note": "Motif d'esgrafiat net sur façade ; peut évoquer un stuc mais titre et catégorie confirment."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur gratté de graffitis et inscriptions, branche en travers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Blanca, Guatemala",
+      "note": "Graffitis, pas un décor sgraffite."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "gable",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade de musée à pignon à volutes de style Art nouveau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Heidenheim, Allemagne",
+      "note": "Pignon à volutes, pas un gâble gothique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gâbles gothiques ajourés, hérissés de crochets et de fleurons, au sommet de la façade du Duomo.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.06,
+        "largeur": 0.23,
+        "hauteur": 0.6
+      },
+      "lieu": "Milan, Italie",
+      "note": "Gâble ajouré central encadré parmi plusieurs ; bon exemple gothique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Angle d'un pignon moderne en béton contre le ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "São Paulo, Brésil",
+      "note": "Pignon moderne, pas gothique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pignon en bois clair d'une maison américaine, photo noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Salem, Oregon",
+      "note": "Pignon ordinaire, pas un gâble."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison bleue sur l'eau avec petit pignon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Philippines",
+      "note": "Pignon vernaculaire, pas un gâble."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bâtiment crépi à pignon avec porte rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Guinée-Bissau",
+      "note": "Pignon simple, texte visible."
+    }
+  ]
+}

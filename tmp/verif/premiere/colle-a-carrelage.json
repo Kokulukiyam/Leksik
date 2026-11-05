@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sol de carreaux à motifs en écailles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colle non visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Carreaux muraux avec bande adhésive bleue et règle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de colle visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Panneau d'azulejos héraldique sur carreaux blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plafond à décor de moucharabieh à étoiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carreaux de travertin empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colle non visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau d'azulejos sur carreaux blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

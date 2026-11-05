@@ -1,0 +1,53 @@
+{
+  "termId": "grenier-sur-pilotis",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grande grange en pierre et bois à toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Żylicze, Pologne",
+      "note": "Grenier européen, pas sur pilotis."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Planche gravée de bas-reliefs égyptiens.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gizeh, Égypte",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit grenier rond en lattes de bambou sur pilotis, toit conique, sous un arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure en bambou à toit de tôle, hors contexte ouest-africain ; pilotis peu visibles ni sur l'eau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grenier à céréales en bois de Haute-Bavière, sur poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eberfing, Allemagne",
+      "note": "Grenier européen en planches, pas un grenier à mil en paille."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux grandes jarres d'osier dans un bâtiment sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paniers de stockage, pas de pilotis."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Herbes et pierres de fondation d'un grenier disparu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kagoro, Nigeria",
+      "note": "Pas de grenier visible."
+    }
+  ]
+}

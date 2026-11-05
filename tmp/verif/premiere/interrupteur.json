@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "New Delhi, Inde",
       "note": "Délabré, fils nus, doute."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Interrupteur mural sous une cage métallique blanche, sur un mur carrelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Interrupteur à peine visible derrière la cage, cadrage peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Micro-interrupteur bleu posé sur du papier millimétré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Composant électronique, pas un interrupteur mural."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Quatre interrupteurs anciens à bascule en bakélite noire sur une planche en bois, avec une prise en bas.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.28,
+        "largeur": 0.62,
+        "hauteur": 0.32
+      },
+      "lieu": "",
+      "note": "Plusieurs interrupteurs identiques cadrés ; le rectangle isole les deux du haut."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Commandes de phares d'une voiture sur un tableau de bord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Interrupteur automobile, pas mural."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vieil appareillage en noir et blanc, douille et boîtier sur un mur dégradé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée et peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux interrupteurs à levier en laiton et porcelaine sur un support en bois.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Interrupteurs muraux à bascule, nets et dominants."
     }
   ]
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "refend",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade de maison de Tournai à parements de pierre à joints en relief, ou façade enduite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bossage ou joints en relief, pas un refend net."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade de maison de Tournai à parements de pierre à joints en relief, ou façade enduite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bossage ou joints en relief, pas un refend net."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade de maison de Tournai à parements de pierre à joints en relief, ou façade enduite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bossage ou joints en relief, pas un refend net."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade de maison de Tournai à parements de pierre à joints en relief, ou façade enduite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bossage ou joints en relief, pas un refend net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade de maison de Tournai à parements de pierre à joints en relief, ou façade enduite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bossage ou joints en relief, pas un refend net."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade de maison de Tournai à parements de pierre à joints en relief, ou façade enduite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bossage ou joints en relief, pas un refend net."
+    }
+  ]
+}

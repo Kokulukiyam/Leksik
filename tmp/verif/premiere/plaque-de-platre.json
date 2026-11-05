@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "New York, États-Unis",
       "note": "Plaques secondaires derrière l'ossature, ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Photo annotée d'un plafond en plaques de plâtre avec câbles traversants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Textes en anglais, scène de défaut coupe-feu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouverture dans un mur montrant tuyaux et ossature bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque peu lisible, ossature et tuyaux dominants."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo annotée d'un tuyau traversant une plaque de plâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Textes en anglais, pénétration de tuyau."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Maison éventrée avec une pile de plaques au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaques petites et mal visibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Combles aménagés, plafonds et murs blancs lisses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surfaces finies, pas une plaque identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de carreaux de marbre posés sur plaques de ciment grises.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Support en plaques de ciment, pas de plâtre."
     }
   ]
 }

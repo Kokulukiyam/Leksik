@@ -1,11 +1,106 @@
 {
   "termId": "chaume",
   "candidats": [
-    {"fichier": "01.jpg", "vu": "Gros plan des abouts de roseaux serrés d'une couverture en chaume.", "verdict": "validée", "rectangle": null, "lieu": "Ostercappeln, Allemagne", "note": "Matériau de couverture en roseau montré plein cadre, sans ambiguïté avec un autre terme de toiture."},
-    {"fichier": "02.jpg", "vu": "Carte postale ancienne en noir et blanc d'une case au toit de chaume aux Fidji, avec légende imprimée.", "verdict": "rejetée", "rectangle": null, "lieu": "Fidji", "note": "Carte postale ancienne avec texte imprimé ; qualité faible."},
-    {"fichier": "03.jpg", "vu": "Village laotien de maisons en bambou couvertes de chaume d'herbes, sous un ciel blanc.", "verdict": "rejetée", "rectangle": null, "lieu": "Province de Luang Prabang, Laos", "note": "Lumière terne et scène d'ensemble ; d'autres candidates montrent mieux le chaume."},
-    {"fichier": "04.jpg", "vu": "Village tribal indien de huttes en terre couvertes de palmes séchées, homme accroupi au premier plan.", "verdict": "rejetée", "rectangle": null, "lieu": "Ghâts orientaux, Inde", "note": "Couverture en palmes plutôt qu'en paille ou roseau ; sens technique discutable."},
-    {"fichier": "05.jpg", "vu": "Maisonnette blanche au toit de chaume en croupe dans un jardin boisé, derrière une clôture en bois.", "verdict": "rejetée", "rectangle": null, "lieu": "", "note": "Toit assez petit et en forme de croupe : le cadre sur la toiture laisserait hésiter entre chaume et croupe."},
-    {"fichier": "06.jpg", "vu": "Surface d'un versant en chaume de paille avec rangs de ligatures et touffes de mousse.", "verdict": "validée", "rectangle": null, "lieu": "", "note": "Texture de couverture en chaume plein cadre, rangs et liens visibles ; photographie réelle."}
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan des abouts de roseaux serrés d'une couverture en chaume.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Ostercappeln, Allemagne",
+      "note": "Matériau de couverture en roseau montré plein cadre, sans ambiguïté avec un autre terme de toiture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Carte postale ancienne en noir et blanc d'une case au toit de chaume aux Fidji, avec légende imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fidji",
+      "note": "Carte postale ancienne avec texte imprimé ; qualité faible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Village laotien de maisons en bambou couvertes de chaume d'herbes, sous un ciel blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Province de Luang Prabang, Laos",
+      "note": "Lumière terne et scène d'ensemble ; d'autres candidates montrent mieux le chaume."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Village tribal indien de huttes en terre couvertes de palmes séchées, homme accroupi au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ghâts orientaux, Inde",
+      "note": "Couverture en palmes plutôt qu'en paille ou roseau ; sens technique discutable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maisonnette blanche au toit de chaume en croupe dans un jardin boisé, derrière une clôture en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit assez petit et en forme de croupe : le cadre sur la toiture laisserait hésiter entre chaume et croupe."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Surface d'un versant en chaume de paille avec rangs de ligatures et touffes de mousse.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture de couverture en chaume plein cadre, rangs et liens visibles ; photographie réelle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison à colombages couverte d'un grand toit de chaume avec lucarne cintrée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.15,
+        "largeur": 0.73,
+        "hauteur": 0.37
+      },
+      "lieu": "Groß Stresow, Rügen, Allemagne",
+      "note": "Toit de chaume dominant, encadré."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ferme gassho-zukuri dont le toit est en cours de rechaumage, avec échelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier : chaume en bottes, moins net."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pavillon de démonstration au toit de chaume avec mannequins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Représentation muséale."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tas de paille derrière une clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une couverture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Charpente de toit avec nuages en suspension.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cottage anglais au toit de chaume envahi de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaume partiellement caché, moins net."
+    }
   ]
 }

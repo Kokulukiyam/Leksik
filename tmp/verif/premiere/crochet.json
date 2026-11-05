@@ -1,0 +1,63 @@
+{
+  "termId": "crochet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur gothique en ruine avec arcatures et un petit pinacle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Crochets peu visibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pinacle gothique de style valencien dont les arêtes portent des crochets feuillus, vu en contre-plongée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.38,
+        "y": 0.12,
+        "largeur": 0.32,
+        "hauteur": 0.68
+      },
+      "lieu": "Valence, Espagne",
+      "note": "Crochets nets le long des arêtes du pinacle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vitrail gothique avec architectures peintes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrail, pas de crochets sculptés."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Portail gothique d'église avec minuscules crochets sur l'archivolte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kutná Hora, Tchéquie",
+      "note": "Crochets trop petits ; le portail domine."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Encadrements de pierre sur façade jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ráckeve, Hongrie",
+      "note": "Aucun crochet visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Flèche pyramidale vue d'en bas dont les arêtes portent des crochets en terre cuite alignés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.55,
+        "y": 0.2,
+        "largeur": 0.45,
+        "hauteur": 0.55
+      },
+      "lieu": "Kadaň, Tchéquie",
+      "note": "Crochets bien lisibles ; couleurs saturées mais photo réelle."
+    }
+  ]
+}

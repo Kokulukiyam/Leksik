@@ -1,0 +1,53 @@
+{
+  "termId": "tata-somba",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Colline rocheuse avec village lointain à toits de tôle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Natitingou, Bénin",
+      "note": "Tata somba invisible, trop lointain."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tata somba vu de côté : tourelles cylindriques en terre crépie accolées, l'une portant un couvercle de rondins.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Nadoba, Togo",
+      "note": "Forme en tourelles typique ; sans chapeaux de paille mais reconnaissable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cour d'une concession somba avec greniers coniques au premier plan et tata somba à l'arrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bénin",
+      "note": "Greniers au premier plan créent une ambiguïté."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tata somba en terre aux tourelles coiffées de chapeaux de chaume pointus, à travers la végétation.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Otammari, Bénin",
+      "note": "Silhouette typique, claire malgré la lumière sombre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Village lointain dans un paysage sec.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bénin",
+      "note": "Aucun tata somba lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petit tata somba et case à toit de tôle dans un champ, colline au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bénin",
+      "note": "Élément petit et lointain."
+    }
+  ]
+}

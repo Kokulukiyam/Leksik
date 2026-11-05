@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Panneau lisible, azulejos extérieurs."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble d'angle revêtu de carreaux verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Façade, pas de la faïence murale intérieure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vitrine de fragments de carreaux médiévaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces de musée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Salle aux murs de carreaux bleus brillants et fenêtres cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement monumental, plutôt un décor ; douteux."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poteau habillé de petits carreaux de céramique dans un centre commercial.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mosaïque sur poteau, pas de la faïence murale."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carreau ancien peint en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreau de musée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Toilettes accessibles aux murs carrelés beiges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène d'ensemble chargée, faïence non dominante."
     }
   ]
 }

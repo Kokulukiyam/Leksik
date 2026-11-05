@@ -1,0 +1,63 @@
+{
+  "termId": "remplage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fragment de remplage gothique en pierre posé sur un support noir dans une cave voûtée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Gall, Suisse",
+      "note": "Fragment muséal incomplet et peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre romane à trois baies avec verre losangé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Heiligengrabe, Allemagne",
+      "note": "Pas de remplage gothique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Intérieur de la flèche ajourée de la cathédrale d'Ulm, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ulm, Allemagne",
+      "note": "Image confuse, élément pas isolé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand remplage gothique en pierre exposé dans un musée, réseau de lancettes et de trilobes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.06,
+        "largeur": 0.68,
+        "hauteur": 0.74
+      },
+      "lieu": "Londres, V&A",
+      "note": "Réseau de pierre très clair ; pièce de musée mais baie reconstituée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fenêtre gothique d'église dont le haut est garni d'un réseau de redents et de lobes, vitraux dessous.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.27,
+        "y": 0.17,
+        "largeur": 0.5,
+        "hauteur": 0.42
+      },
+      "lieu": "Rakovník, Tchéquie",
+      "note": "Remplage en place, encadré sur le réseau supérieur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Autre vue du remplage gothique du V&A, à l'angle, fond encombré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, V&A",
+      "note": "Doublon moins lisible de la 04."
+    }
+  ]
+}

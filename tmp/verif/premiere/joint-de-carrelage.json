@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ouvriers dominants, joints non lisibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Texture numérique blanche de carreaux à joints.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture rendue, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur carrelé en travaux avec ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joint non visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Texture numérique de carreaux de granit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture rendue."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan de carreaux beige clair, joints à peine visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints peu lisibles, un joint ressemble à une arête."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Texture numérique de carreaux jaune vif.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image traitée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Angle de salle de bains avec joints noircis entre carreaux blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints sales, pourrait être un joint silicone d'angle."
     }
   ]
 }

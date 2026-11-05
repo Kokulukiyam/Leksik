@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Unité intérieure murale de climatisation sur fond bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Unité intérieure, pas extérieure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gaines souples en aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gaines, pas une unité extérieure."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ruelle de Singapour couverte de climatiseurs muraux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop de unités et trop petites ; déjà une image de ruelle retenue."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Unité intérieure murale blanche sur mur bleu avec une prise en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Unité intérieure, pas extérieure."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de brique jaune avec porte rouge et petit groupe extérieur en bas à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Unité extérieure minuscule."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Soldat qui travaille dans un caisson métallique avec des fils.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

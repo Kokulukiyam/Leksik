@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "États-Unis",
       "note": "Textes visibles (MAIN, DO NOT REMOVE), ambigu avec le tableau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Boîte en carton d'un jeu de contacts de rupteur automobile Volkswagen.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce automobile, pas un disjoncteur de tableau."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Coffret électrique gris fermé, fixé au mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Capot fermé, aucun disjoncteur visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Disjoncteur à vis type culot d'ampoule, avec bouton rouge et noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil ancien à culot, pas un disjoncteur modulaire à manette."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chantier dans un tunnel de métro, avec une petite cabine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Disjoncteur non visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Face avant d'un disjoncteur à vide industriel de grande taille avec boutons vert et rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil de tableau haute tension, pas un disjoncteur modulaire à manette."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Planche en bois portant une boîte à quatre manettes et un disjoncteur noir à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble hétérogène avec un différentiel possible, ambigu."
     }
   ]
 }

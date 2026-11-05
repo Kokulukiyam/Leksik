@@ -1,0 +1,53 @@
+{
+  "termId": "pierre-de-laterite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Affleurement de latérite rose-orangé au sol, végétation en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nigeria",
+      "note": "Roche en place, pas un bloc maçonné."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Carte géologique du Sénégal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sénégal",
+      "note": "Carte, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Graphique du profil chimique d'une latérite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Indonésie",
+      "note": "Graphique, pas une photo d'architecture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Échantillon de minerai de nickel latéritique vert et jaune en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nouvelle-Calédonie",
+      "note": "Minerai de musée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan sur une roche latéritique brun-violet avec un mille-pattes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Burkina Faso",
+      "note": "Pas maçonnée, animal au centre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bloc de latérite rougeâtre très alvéolé, en haut d'un mur.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Sukhothai, Thaïlande",
+      "note": "Texture alvéolée et couleur typiques ; bloc appareillé dans un mur."
+    }
+  ]
+}

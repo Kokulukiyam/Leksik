@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Queensland",
       "note": "Trop petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue aérienne d'un petit bâtiment avec une série de panneaux sur le toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux trop petits."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue aérienne d'une campagne espagnole.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux trop petits, aucun élément lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Femme souriante assise devant des panneaux solaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portrait, panneaux en arrière-plan."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cérémonie devant une centrale solaire, public de dos.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène dominée par les personnes."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Prairie avec une station météo et un petit panneau solaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau minuscule."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Arrière d'un bateau avec des cellules photovoltaïques sur le toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux sur un bateau, peu lisibles et incertains."
     }
   ]
 }

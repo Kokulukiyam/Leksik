@@ -2656,6 +2656,25 @@
     ]
   },
   {
+    "id": "acier",
+    "terme": "l'acier",
+    "definition": "Alliage de fer et de carbone, utilisé en profilés, en tôles et en armatures.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 1,
+    "incompatibles": [
+      "acier-galvanise",
+      "inox",
+      "acier-corten",
+      "tole-perforee",
+      "metal-deploye",
+      "tole-larmee",
+      "tole-ondulee",
+      "bardage-metallique",
+      "fer-forge",
+      "fonte"
+    ]
+  },
+  {
     "id": "acier-corten",
     "terme": "l'acier Corten",
     "definition": "Acier qui se couvre d'une rouille brun orangé stable et protectrice, laissé apparent en façade.",
@@ -3087,6 +3106,21 @@
     "priorite": 1
   },
   {
+    "id": "porte-d-entree",
+    "terme": "la porte d'entrée",
+    "definition": "Porte principale qui donne accès depuis l'extérieur à une maison ou à un logement, souvent plus robuste et décorée.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "porte",
+      "porte-vitree",
+      "porte-metallique",
+      "porte-a-panneaux",
+      "porte-a-deux-vantaux",
+      "huisserie"
+    ]
+  },
+  {
     "id": "porte-a-panneaux",
     "terme": "la porte à panneaux",
     "definition": "Porte dont le cadre en bois assemblé encadre plusieurs panneaux en creux ou en relief.",
@@ -3095,6 +3129,30 @@
     "incompatibles": [
       "porte",
       "porte-a-deux-vantaux"
+    ]
+  },
+  {
+    "id": "porte-vitree",
+    "terme": "la porte vitrée",
+    "definition": "Porte dont une grande partie du vantail est occupée par un vitrage.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "porte",
+      "porte-fenetre",
+      "porte-metallique",
+      "porte-a-panneaux",
+      "porte-a-deux-vantaux"
+    ]
+  },
+  {
+    "id": "porte-a-deux-vantaux",
+    "terme": "la porte à deux vantaux",
+    "definition": "Porte formée de deux battants qui s'ouvrent depuis le milieu de la baie.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "porte"
     ]
   },
   {
@@ -3162,6 +3220,13 @@
     "incompatibles": [
       "volet"
     ]
+  },
+  {
+    "id": "portail-metallique",
+    "terme": "le portail métallique",
+    "definition": "Grande porte extérieure en acier, pleine ou ajourée, qui ferme l'entrée d'une parcelle.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1
   },
   {
     "id": "grille-de-defense",
@@ -3240,6 +3305,16 @@
     "priorite": 2,
     "incompatibles": [
       "pene"
+    ]
+  },
+  {
+    "id": "poignee-de-porte",
+    "terme": "la poignée de porte",
+    "definition": "Levier ou poignée que l'on abaisse pour ouvrir une porte, appelée aussi béquille.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "bouton-de-porte"
     ]
   },
   {
@@ -3324,6 +3399,17 @@
     ]
   },
   {
+    "id": "escalier-en-beton",
+    "terme": "l'escalier en béton",
+    "definition": "Escalier coulé en béton armé, d'une seule pièce avec ses marches et sa paillasse.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 1,
+    "incompatibles": [
+      "escalier",
+      "paillasse"
+    ]
+  },
+  {
     "id": "escalier-metallique",
     "terme": "l'escalier métallique",
     "definition": "Escalier en acier, souvent à limons en profilés et marches en tôle ou caillebotis.",
@@ -3361,6 +3447,17 @@
     "priorite": 2,
     "incompatibles": [
       "trottoir-roulant"
+    ]
+  },
+  {
+    "id": "marche",
+    "terme": "la marche",
+    "definition": "Partie horizontale de l'escalier sur laquelle on pose le pied.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 1,
+    "incompatibles": [
+      "contremarche",
+      "nez-de-marche"
     ]
   },
   {
@@ -3418,6 +3515,13 @@
     ]
   },
   {
+    "id": "robinet",
+    "terme": "le robinet",
+    "definition": "Appareil à manette ou à tête qu'on ouvre pour faire couler l'eau d'une canalisation, monté sur un lavabo, un évier ou un mur.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
     "id": "mitigeur",
     "terme": "le mitigeur",
     "definition": "Robinet à manette unique qui règle à la fois le débit et le mélange d'eau chaude et d'eau froide.",
@@ -3451,6 +3555,17 @@
     "incompatibles": [
       "cuvette-de-wc",
       "wc-suspendu"
+    ]
+  },
+  {
+    "id": "reservoir-de-chasse",
+    "terme": "le réservoir de chasse",
+    "definition": "Réservoir d'eau en céramique ou en plastique placé derrière ou au-dessus de la cuvette, qui se vide pour la rincer.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1,
+    "incompatibles": [
+      "cuvette-de-wc",
+      "bati-support"
     ]
   },
   {
@@ -3517,6 +3632,13 @@
       "siphon",
       "siphon-de-sol"
     ]
+  },
+  {
+    "id": "siphon-de-sol",
+    "terme": "le siphon de sol",
+    "definition": "Grille posée au sol d'une douche, d'une salle d'eau ou d'une terrasse, reliée à un siphon, qui recueille l'eau qui ruisselle.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
   },
   {
     "id": "tube-en-cuivre",

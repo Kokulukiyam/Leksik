@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas une réglette claire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Réglette étanche à deux tubes fluorescents fixée sous un plafond en béton.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Luminaire long à tubes fixé au plafond, net et dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Luminaire carré à quatre tubes et grille réfléchissante, posé sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Luminaire à grille de type dalle, pas une réglette."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tunnel d'escalators de métro avec des tubes lumineux au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Réglettes minuscules dans une scène chargée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Escalators d'une station de métro sous une voûte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éclairage non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Escalators avec un voyageur de dos.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Réglette non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Réglette fluorescente fixée sous une toiture de gare routière, coupée en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éclairage nocturne à contraste fort, tube coupé par le bord."
     }
   ]
 }

@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chantier de découpe en gros plan, plan de travail peu identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plan de travail en bois d'une cuisine avec crédence blanche et ustensiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Encombré, photo étroite."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cuisine avec plan de travail en marbre rose portant évier et plaque, sous une crédence carrelée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.45,
+        "largeur": 0.88,
+        "hauteur": 0.25
+      },
+      "lieu": "Algarve, Portugal",
+      "note": "Plan de travail net, encadré pour le distinguer de la crédence et de l'évier."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cuisine professionnelle avec cuisiniers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de personnes, plan non dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plan de travail en bois avec évier et appareils.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Encombré."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Buffet de fête décoré de pâtisseries.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Épluche-légume posé sur un plan de travail en granit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet au premier plan, flou."
     }
   ]
 }

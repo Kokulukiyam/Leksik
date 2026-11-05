@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Carreaux de travertin empilés sur un sol dallé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun croisillon visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mèche de perceuse sur carreau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chantier de dalles posées sur du sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun croisillon."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade de kiosque à azulejos, enseigne Café.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Perçage de carreau, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Illustration géométrique de pavage hyperbolique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image générée, pas une photo."
     }
   ]
 }

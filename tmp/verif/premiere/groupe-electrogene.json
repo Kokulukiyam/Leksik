@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Carrabelle, États-Unis",
       "note": "Trop petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Groupe marin ouvert sur un stand de salon, capot relevé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moteur ouvert sur stand avec fond encombré, peu clair."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Moteur diesel peint en salle des machines d'un bateau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine en salle des machines, pas un groupe électrogène identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Barge dans un port avec des équipements.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Groupes non identifiables."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux groupes électrogènes diesel rouges sous capot insonorisé, devant une grande tente, sur de l'herbe.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.14,
+        "y": 0.47,
+        "largeur": 0.34,
+        "hauteur": 0.31
+      },
+      "lieu": "Libramont, Belgique",
+      "note": "Groupe sous capot insonorisé clair ; rectangle sur le groupe principal. Un autocollant en anglais est petit."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Moteur diesel vert dans une salle des machines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine navale, pas un groupe électrogène identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit alternateur bleu et noir sur un support, sur un stand.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil expérimental, ambigu."
     }
   ]
 }

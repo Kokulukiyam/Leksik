@@ -1,0 +1,58 @@
+{
+  "termId": "haut-relief",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Portail de mosquée à décor sculpté très dense.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor confus, ni haut-relief net."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fronton d'université avec groupe sculpté et inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, groupe petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plaque sculptée avec deux putti ailés tenant un blason, très saillants.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Figures presque en ronde-bosse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Face d'un sarcophage dionysiaque à figures très saillantes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.28,
+        "largeur": 0.96,
+        "hauteur": 0.55
+      },
+      "lieu": "Munich, Allemagne",
+      "note": "Haut-relief clair, cadré sur la scène."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Écrevisse en relief au-dessus d'une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Relief plutôt bas."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bande de relief très mince, peu lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop étroit."
+    }
+  ]
+}

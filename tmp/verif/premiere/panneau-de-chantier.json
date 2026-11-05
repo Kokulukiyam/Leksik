@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Panneau coupé, sans contexte."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Affiche chinoise de consignes de sécurité à pictogrammes, collée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Affiche de sécurité, pas un panneau de chantier."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier avec grue ; sur la clôture grillagée, une bâche « Notfallplan ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bâche d'urgence sur grillage, panneau trop petit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grue et chantier ; petite bâche de consignes sur la clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau trop petit et peu clair."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vitrine d'affichage de sécurité d'un chantier, texte chinois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tableau de consignes, texte, ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Panneau de bois à feuilles de consignes agrafées devant un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tableau d'affichage de sécurité, ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grand panneau blanc sur poteaux devant un chantier de stade, avec maître d'ouvrage, architecte et entreprise.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.06,
+        "largeur": 0.67,
+        "hauteur": 0.47
+      },
+      "lieu": "Kisvárda, Hongrie",
+      "note": "Panneau d'information de chantier typique, net."
     }
   ]
 }

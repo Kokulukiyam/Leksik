@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "New York, États-Unis",
       "note": "Plaques sur mur, pas le faux plafond en plaques."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Caisson blanc en plaques qui descend du plafond et cache une gaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Caisson partiel, pas un faux plafond continu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Lit capitonné devant un mur sombre avec des appliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond non visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Hall ancien à plafond orné de stucs avec lanterneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de stuc ancien."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Caisson inachevé en plaques blanches fixé sous le plafond d'un garage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Habillage de tuyaux, pas un faux plafond continu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande salle voûtée peinte vue d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond ancien décoré."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Détail d'un plafond peint voûté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond ancien décoré."
     }
   ]
 }

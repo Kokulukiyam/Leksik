@@ -1,0 +1,53 @@
+{
+  "termId": "fleuron",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gravure ornementale ancienne avec feuillages et emblèmes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée ou gravure, pas un élément d'architecture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Finial en bronze avec deux animaux et une figure humaine, sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée ou gravure, pas un élément d'architecture."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Paraphe calligraphique à la plume sur page de livre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Calligraphie, pas un fleuron architectural."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bâton de maréchal et bijoux en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée ou gravure, pas un élément d'architecture."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Finial cambodgien en bronze en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée ou gravure, pas un élément d'architecture."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Finial de sceptre chokwe en bois en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée ou gravure, pas un élément d'architecture."
+    }
+  ]
+}

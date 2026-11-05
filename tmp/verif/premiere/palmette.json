@@ -1,0 +1,53 @@
+{
+  "termId": "palmette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sommet de stèle funéraire en marbre : palmette en éventail sur volutes (anthémion).",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Amorgos, Grèce",
+      "note": "Palmette nette et dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fragment de frise en pierre dans l'herbe, motifs de palmettes usés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, ambigu avec rinceau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Palmette d'acrotère en terre cuite sur fond blanc, éventail de feuilles sur volutes.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palmette typique, très claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Stèle de Pirée avec petite palmette au sommet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palmette petite, scène sculptée dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche de motifs ornementaux imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Crête de palmettes en laiton au-dessus d'une porte, avec bas-relief.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palmettes petites, bas-relief dominant."
+    }
+  ]
+}

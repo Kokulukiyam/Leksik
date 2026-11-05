@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Texte visible, mastic coupe-feu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Calfeutrement coupe-feu rouge autour de tuyaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mastic coupe-feu, pas un joint silicone."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Outils de calfatage anciens dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Application de mastic coupe-feu dans un interstice.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mastic coupe-feu, pas un joint silicone sanitaire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Outils de calfatage de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vieil évier mural avec cordage de calfeutrement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cordon de mastic rouge autour d'une trappe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mastic coupe-feu."
     }
   ]
 }

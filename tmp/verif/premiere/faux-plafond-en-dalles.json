@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "URSS",
       "note": "Appareillage irrégulier sans ossature visible, doute."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafond industriel peint en blanc avec poutres, gaines et plaques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond industriel, pas de dalles suspendues."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Plafond à dalles claires avec un panneau perforé et un détecteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond ancien, dalles peu nettes, panneau métallique perturbant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plafond doré à panneaux en losange dans un passage couvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux décoratifs en losange, pas un faux plafond à dalles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Restaurant de centre commercial avec plafond de lames en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lames de bois, pas des dalles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Détail doré d'un plafond en tôle décorée, très rapproché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond décoratif en tôle."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plafond peint à caissons dans une chapelle, vu d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond décoré, hors sujet."
     }
   ]
 }

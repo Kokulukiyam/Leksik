@@ -1,0 +1,53 @@
+{
+  "termId": "rinceau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Voûte et plafond décorés de motifs végétaux de la mosquée des Omeyyades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor d'ensemble confus, rinceau non isolé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur en stuc couvert d'un réseau dense de motifs arabesques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arabesque plus que rinceau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vitre biseautée à motif géométrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de rinceau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Reproduction imprimée d'un vitrail dans un livre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure/reproduction, pas de rinceau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade à fenêtres en arc brisé avec décor de stuc blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor fin et petit, ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Motif géométrique répété, image retouchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée, pas de rinceau."
+    }
+  ]
+}

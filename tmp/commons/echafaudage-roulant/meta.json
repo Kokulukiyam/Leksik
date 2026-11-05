@@ -11,7 +11,9 @@
       "rolling scaffold tower wheels"
     ],
     "incompatibles": [
-      "echafaudage"
+      "echafaudage",
+      "echafaudage-en-bois",
+      "echafaudage-en-bambou"
     ],
     "categoriesCommons": [
       "Category:Scaffolding"
@@ -140,6 +142,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/074_MS_65_F35_V.jpg/1280px-074_MS_65_F35_V.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1684,
       "hauteur": 2400
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Aluminium scaffolding.jpg",
+      "description": "Aluminium scaffolding",
+      "categories": [
+        "Taken with Canon EOS 550D",
+        "Scaffolding",
+        "Self-published work"
+      ],
+      "auteur": "Harald Groven",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminium_scaffolding.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Aluminium_scaffolding.jpg/1280px-Aluminium_scaffolding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2023 (challenge No. 3 - old unpublished pics ) - Day 138 - Scaffoldiing at dusk, Nairobi, Knya 2014 - Flickr - ambabheg.jpg",
+      "description": "Scaffolding at dusk, Nairobi, Kenya 2013",
+      "categories": [
+        "Scaffolding",
+        "Sunsets of Kenya",
+        "2014 in Nairobi",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Kenya photographs taken on 2014-06-24",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore",
+        "Building construction in Kenya",
+        "Photographic silhouettes at twilight",
+        "Photographs by Forbes Johnston"
+      ],
+      "auteur": "Forbes Johnston from Winchester, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023_(challenge_No._3_-_old_unpublished_pics_)_-_Day_138_-_Scaffoldiing_at_dusk,_Nairobi,_Knya_2014_-_Flickr_-_ambabheg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2023_%28challenge_No._3_-_old_unpublished_pics_%29_-_Day_138_-_Scaffoldiing_at_dusk%2C_Nairobi%2C_Knya_2014_-_Flickr_-_ambabheg.jpg/1280px-2023_%28challenge_No._3_-_old_unpublished_pics_%29_-_Day_138_-_Scaffoldiing_at_dusk%2C_Nairobi%2C_Knya_2014_-_Flickr_-_ambabheg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:A family grave scaffold LCCN2006688436.jpg",
+      "description": "Title: A family grave scaffold Abstract/medium: 1 photographic print.",
+      "categories": [
+        "Scaffolding",
+        "Images from the Library of Congress",
+        "PD-old-70-expired",
+        "Images uploaded by Fæ",
+        "CC-PD-Mark",
+        "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_family_grave_scaffold_LCCN2006688436.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/A_family_grave_scaffold_LCCN2006688436.jpg/1280px-A_family_grave_scaffold_LCCN2006688436.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4937,
+      "hauteur": 3913
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:10 Palmer June 19, 2007 (571365354).jpg",
+      "description": "10 Palmer June 19, 2007",
+      "categories": [
+        "Taken with Olympus C-3040Z",
+        "Scaffolding",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "June 2007 in Alabama",
+        "Files from Carmichael Library (Alabama) Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Palmer Hall (University of Montevallo)"
+      ],
+      "auteur": "carmichaellibrary",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_Palmer_June_19,_2007_(571365354).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/10_Palmer_June_19%2C_2007_%28571365354%29.jpg/1280px-10_Palmer_June_19%2C_2007_%28571365354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2018061101 Wurzener Strasse 56 Rohbau Moto G4 2018.jpg",
+      "description": "Wurzener Straße 56. Seit Beginn der Covid-Pandemie kein Baufortschritt mehr.",
+      "categories": [
+        "Scaffolding",
+        "Wurzener Straße, Dresden",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Buildings in Pieschen",
+        "Dresden photographs taken on 2023-03-12"
+      ],
+      "auteur": "VSchagow",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg/1280px-2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:AOC Dome Paint Stripped and Scaffold (9257465476).jpg",
+      "description": "In late 1959 through 1960, the Capitol Dome underwent a significant repair and restoration effort and at the end of 1959 the exterior of the Dome was surrounded by scaffold. During the work, workmen using special pneumatic hammers removed paint from the iron, which was then sandblasted. Since bare iron rusts quickly it had to be treated with a red protective rust inhibiting coating within five hours of paint removal. Corroded and cracked metal was repaired or replaced where necessary, loose bolts were tightened, and missing bolts replaced. New bronze window frames were installed in the tholus ",
+      "categories": [
+        "Images of the Architect of the Capitol",
+        "Scaffolding",
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC inception",
+        "Files from US Capitol Flickr stream",
+        "Restoration of the dome of the United States Capitol",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "USCapitol",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:AOC_Dome_Paint_Stripped_and_Scaffold_(9257465476).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/AOC_Dome_Paint_Stripped_and_Scaffold_%289257465476%29.jpg/1280px-AOC_Dome_Paint_Stripped_and_Scaffold_%289257465476%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1929,
+      "hauteur": 2500
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "typha",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Massette (épis bruns cylindriques) dressée parmi de longues feuilles vertes, fond de végétation.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Siston Common, Royaume-Uni",
+      "note": "Typha net et typique, épis et feuilles bien lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Épi brun cylindrique de typha, net sur ciel bleu, avec feuilles sèches.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Épi très reconnaissable, photo nette."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Touffe de feuilles vertes dressées, sans épi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans épi, identification incertaine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Massettes dont un épi duveteux devant un étang gelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Californie",
+      "note": "Épi éclaté et décor hivernal, moins typique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tonneau à gin en céramique décoré d'un cygne et de massettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet décoré, pas la plante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Peuplement de massettes dans un champ sec.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Campo de Calatrava, Espagne",
+      "note": "Plantes petites dans un fond confus."
+    }
+  ]
+}

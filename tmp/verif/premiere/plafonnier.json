@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Auto."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafonnier de voiture sur un garnissage de toit gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éclairage automobile, pas de bâtiment."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vidéoprojecteur suspendu au plafond par un mât.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Projecteur d'image, pas un luminaire."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vidéoprojecteur suspendu avec ses câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Projecteur d'image, pas un luminaire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Faux plafond à dalles avec luminaires circulaires rouges à tubes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Luminaires encastrés, pas un plafonnier posé contre le plafond."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Dessous d'un grand réflecteur sombre sur un support.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, image peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Salle avec vidéoprojecteur descendu du plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Projecteur, pas un luminaire."
     }
   ]
 }

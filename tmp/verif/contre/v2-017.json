@@ -1,0 +1,157 @@
+[
+  {
+    "cle": "acier/10",
+    "accord": true,
+    "raison": "Panneaux de treillis soudé en acier rouillé empilés, cadrés par le rectangle : matériau acier sans ambiguïté."
+  },
+  {
+    "cle": "fer-forge/11",
+    "accord": true,
+    "raison": "Grille ornée de volutes et de rosaces dorées, typique du fer forgé, en gros plan."
+  },
+  {
+    "cle": "porte/07",
+    "accord": true,
+    "raison": "Le rectangle cadre une porte en bois à panneaux avec imposte, dans une façade de brique : porte claire."
+  },
+  {
+    "cle": "porte/12",
+    "accord": false,
+    "raison": "Porte intérieure entrouverte, mais la mise au point et le centre de l'image sont sur la béquille : la poignée de porte pourrait être la réponse."
+  },
+  {
+    "cle": "porte-d-entree/07",
+    "accord": true,
+    "raison": "Porte principale extérieure blanche à panneaux avec heurtoir et boîte aux lettres, sous auvent, bien cadrée."
+  },
+  {
+    "cle": "porte-vitree/07",
+    "accord": true,
+    "raison": "Porte à deux battants largement vitrés dans un cadre bois, cadrée par le rectangle."
+  },
+  {
+    "cle": "porte-a-deux-vantaux/12",
+    "accord": true,
+    "raison": "Porte rouge à deux battants ouvrant au milieu, cadrée exactement par le rectangle."
+  },
+  {
+    "cle": "naco/07",
+    "accord": true,
+    "raison": "Fenêtre à lames de verre horizontales pivotantes dans un cadre métallique, cadrée par le rectangle."
+  },
+  {
+    "cle": "naco/11",
+    "accord": true,
+    "raison": "Gros plan de lames de verre horizontales inclinées sur leurs supports pivotants : naco typique."
+  },
+  {
+    "cle": "portail-metallique/12",
+    "accord": true,
+    "raison": "Portail en acier à deux battants, ajouré à barreaux pointus, fermant l'entrée d'un terrain."
+  },
+  {
+    "cle": "grille-de-defense/11",
+    "accord": true,
+    "raison": "Le rectangle cadre une grille en fer forgé fixée devant une fenêtre."
+  },
+  {
+    "cle": "grille-de-defense/12",
+    "accord": true,
+    "raison": "Grille à barreaux en fer fixée devant une fenêtre aux volets fermés ; la grille domine l'image."
+  },
+  {
+    "cle": "moustiquaire/09",
+    "accord": true,
+    "raison": "Toile à mailles fines tendue devant une fenêtre, avec une mouche posée dessus : sans ambiguïté."
+  },
+  {
+    "cle": "poignee-de-porte/09",
+    "accord": true,
+    "raison": "Le rectangle cadre la béquille ancienne en fer sur une porte en bois ; entrée de serrure hors du cadre."
+  },
+  {
+    "cle": "poignee-de-porte/11",
+    "accord": true,
+    "raison": "Béquille en laiton en forme d'oiseau cadrée par le rectangle ; le cylindre est hors du cadre."
+  },
+  {
+    "cle": "cle/08",
+    "accord": true,
+    "raison": "Gros plan d'une clé métallique à panneton cranté, objet seul et dominant."
+  },
+  {
+    "cle": "escalier-en-beton/10",
+    "accord": true,
+    "raison": "Escalier monolithique en béton brut avec volées, paillasses et garde-corps pleins en béton : matériau et ouvrage évidents."
+  },
+  {
+    "cle": "marche/07",
+    "accord": true,
+    "raison": "Le rectangle cadre une seule marche en pierre d'un petit escalier extérieur."
+  },
+  {
+    "cle": "cage-d-escalier/08",
+    "accord": true,
+    "raison": "Volume fermé par des murs avec fenêtres, dans lequel l'escalier et ses paliers se développent : cage d'escalier lisible."
+  },
+  {
+    "cle": "rampe-d-escalier/09",
+    "accord": false,
+    "raison": "Le rectangle englobe toute la volée métallique, y compris le limon, très visible : limon ou volée pourraient être pris pour la réponse."
+  },
+  {
+    "cle": "main-courante/07",
+    "accord": true,
+    "raison": "Deux mains courantes tubulaires en inox au centre d'un escalier, en perspective : élément dominant."
+  },
+  {
+    "cle": "robinet/07",
+    "accord": true,
+    "raison": "Gros plan d'un robinet extérieur fixé dans un mur de brique."
+  },
+  {
+    "cle": "robinet/12",
+    "accord": true,
+    "raison": "Robinet chromé de cuisine à bec en U sur fond blanc, isolé et dominant."
+  },
+  {
+    "cle": "evier/12",
+    "accord": false,
+    "raison": "Évier inox de cuisine, mais le rectangle englobe le pied du mitigeur : le robinet ou le mitigeur pourrait être pris pour la réponse."
+  },
+  {
+    "cle": "reservoir-de-chasse/10",
+    "accord": true,
+    "raison": "Le rectangle cadre le réservoir en céramique posé derrière la cuvette."
+  },
+  {
+    "cle": "reservoir-de-chasse/11",
+    "accord": true,
+    "raison": "Réservoir de chasse haut à tirette, cadré par le rectangle au-dessus de la cuvette."
+  },
+  {
+    "cle": "pomme-de-douche/09",
+    "accord": true,
+    "raison": "Pomme de douche murale perforée projetant des jets d'eau, en gros plan."
+  },
+  {
+    "cle": "siphon-de-sol/10",
+    "accord": true,
+    "raison": "Grille ronde de siphon encastrée dans un sol carrelé, seule au centre de l'image."
+  },
+  {
+    "cle": "siphon-de-sol/12",
+    "accord": true,
+    "raison": "Siphon de sol carré dont on soulève la grille perforée, montrant la garde d'eau."
+  },
+  {
+    "cle": "compteur-d-eau/10",
+    "accord": true,
+    "raison": "Cadran de compteur d'eau avec totalisateur en m3, en gros plan."
+  },
+  {
+    "cle": "bouteille-de-gaz/10",
+    "accord": true,
+    "raison": "Bouteille de gaz métallique avec poignée et pied, seule sur fond uni."
+  }
+]

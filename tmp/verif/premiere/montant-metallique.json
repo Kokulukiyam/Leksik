@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Hambourg, Allemagne",
       "note": "Pas un montant de cloison sèche."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bâtiment ancien en briques avec raidisseurs métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure ancienne, pas de montant de cloison."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier de toiture en poutres métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente lourde, pas de montant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ossature d'un grand bâtiment métallique en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente en acier."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poutre en treillis levée par une grue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure lourde."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fosse de chantier en béton avec poteaux et échelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Poutre noire courbe couverte de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

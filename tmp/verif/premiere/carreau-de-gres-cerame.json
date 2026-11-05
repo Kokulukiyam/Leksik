@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Carreau isolé, indéterminé (faïence murale), pas du grès cérame."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Carreau ancien peint dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreau décoratif, pas du grès cérame."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vitrine de fragments de carreaux médiévaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces de musée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sol en grands carreaux sombres au pied d'une porte, avec plinthe en carreau et caniveau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grès cérame probable mais non démontrable ; plusieurs éléments, rejeté par doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Salle d'eau d'hôtel avec lavabo, carrelage blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène d'ensemble, carreau non isolé."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Seuil de porte, gros plan sur un carreau blanc aux angles arrondis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan peu lisible, carreau non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau d'azulejos décoratifs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreaux décoratifs."
     }
   ]
 }

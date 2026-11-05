@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Montevideo, Uruguay",
       "note": "Plafond secondaire, ossature illisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panneaux perforés blancs, vus de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux muraux ou de plafond, ossature invisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Plafond en grille ouverte de cellules métalliques, en contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond à grille ouverte, pas l'ossature porteuse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Étal de pommes dans un supermarché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Couloir d'école avec casiers et faux plafond en dalles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faux plafond en dalles, ossature non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Salle d'attente de gare routière avec faux plafond en dalles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature trop discrète, élément trop petit."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Faux plafond en dalles dont plusieurs sont déposées, laissant voir profilés et gaines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature visible mais mêlée aux gaines et dalles ; ambiguë avec le faux plafond en dalles."
     }
   ]
 }

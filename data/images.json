@@ -6635,6 +6635,24 @@
     "note": "Vérification : Lames composites rainurées typiques. Contre-vérification : Lames de terrasse rainurées de couleurs uniformes, aspect plastique moulé : bois composite."
   },
   {
+    "id": "acier-10",
+    "termId": "acier",
+    "fichier": "commons/acier-10.webp",
+    "rectangle": {
+      "x": 0.01,
+      "y": 0.22,
+      "largeur": 0.98,
+      "hauteur": 0.76
+    },
+    "lieu": "La Palma, Espagne",
+    "source": "commons",
+    "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:At_La_Palma_2021_1529.jpg",
+    "statut": "validée",
+    "note": "Vérification : Armatures en acier, clairement visibles, mentionnées dans la définition. Contre-vérification : Panneaux de treillis soudé en acier rouillé empilés, cadrés par le rectangle : matériau acier sans ambiguïté."
+  },
+  {
     "id": "acier-corten-02",
     "termId": "acier-corten",
     "fichier": "commons/acier-corten-02.webp",
@@ -6721,6 +6739,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Alte_Grabeinfassung_-_old_grave_border.jpg",
     "statut": "validée",
     "note": "Vérification : Barres, volutes et pointes typiques du fer forgé, plan rapproché clair. Contre-vérification : Grille ancienne à volutes et pointes en fleur de lys, en gros plan ; fer forgé typique."
+  },
+  {
+    "id": "fer-forge-11",
+    "termId": "fer-forge",
+    "fichier": "commons/fer-forge-11.webp",
+    "rectangle": null,
+    "lieu": "Bratislava, Slovaquie",
+    "source": "commons",
+    "auteur": "Lure",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bratislavskyhrad37.jpg",
+    "statut": "validée",
+    "note": "Vérification : Volutes et barres tordues nettes, remplissent tout le cadre. Contre-vérification : Grille ornée de volutes et de rosaces dorées, typique du fer forgé, en gros plan."
   },
   {
     "id": "tole-perforee-01",
@@ -7547,6 +7578,42 @@
     "note": "Vérification : Porte entière, claire, encadrée pour la distinguer de l'escalier et de l'arc. Contre-vérification : Vieille porte en bois sous arc dans une ruelle, bien cadrée ; porte sans ambiguïté parmi les termes proposés."
   },
   {
+    "id": "porte-07",
+    "termId": "porte",
+    "fichier": "commons/porte-07.webp",
+    "rectangle": {
+      "x": 0.36,
+      "y": 0.33,
+      "largeur": 0.13,
+      "hauteur": 0.43
+    },
+    "lieu": "Schwerin, Allemagne",
+    "source": "commons",
+    "auteur": "Ralf Roletschek",
+    "licence": "GFDL 1.2",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:15-10-22-Weltkulturerbe-Schwerin-RalfR-DSCF7115.jpg",
+    "statut": "validée",
+    "note": "Vérification : Porte en bois lisible, rectangle sur le vantail gauche pour lever le doute avec l'autre porte. Contre-vérification : Le rectangle cadre une porte en bois à panneaux avec imposte, dans une façade de brique : porte claire."
+  },
+  {
+    "id": "porte-d-entree-07",
+    "termId": "porte-d-entree",
+    "fichier": "commons/porte-d-entree-07.webp",
+    "rectangle": {
+      "x": 0.43,
+      "y": 0.23,
+      "largeur": 0.21,
+      "hauteur": 0.66
+    },
+    "lieu": "Royaume-Uni",
+    "source": "commons",
+    "auteur": "Timo Newton-Syms from Helsinki, Finland and Chalfont St Giles, Bucks, UK",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:New_front_door_(5220796607).jpg",
+    "statut": "validée",
+    "note": "Vérification : Porte d'entrée de logement très claire ; rectangle sur le vantail pour la distinguer des châssis latéraux. Contre-vérification : Porte principale extérieure blanche à panneaux avec heurtoir et boîte aux lettres, sous auvent, bien cadrée."
+  },
+  {
     "id": "porte-a-panneaux-01",
     "termId": "porte-a-panneaux",
     "fichier": "commons/porte-a-panneaux-01.webp",
@@ -7558,6 +7625,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Mu%C3%B1ozChurchjf9690_14.JPG",
     "statut": "validée",
     "note": "Vérification : Deux vantaux à panneaux moulurés en creux clairement visibles, cadre assemblé. Contre-vérification : Porte en bois dont le cadre assemblé encadre de nombreux panneaux moulurés, de face et dominante ; terme juste."
+  },
+  {
+    "id": "porte-vitree-07",
+    "termId": "porte-vitree",
+    "fichier": "commons/porte-vitree-07.webp",
+    "rectangle": {
+      "x": 0.125,
+      "y": 0.33,
+      "largeur": 0.7,
+      "hauteur": 0.67
+    },
+    "lieu": "WikiCon, Allemagne",
+    "source": "commons",
+    "auteur": "Manuel Schneider",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2012-08-31_WikiCon_2012_025.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grand vitrage occupant presque tout le vantail ; rectangle sur la porte. Contre-vérification : Porte à deux battants largement vitrés dans un cadre bois, cadrée par le rectangle."
+  },
+  {
+    "id": "porte-a-deux-vantaux-12",
+    "termId": "porte-a-deux-vantaux",
+    "fichier": "commons/porte-a-deux-vantaux-12.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.34,
+      "largeur": 0.36,
+      "hauteur": 0.5
+    },
+    "lieu": "États-Unis",
+    "source": "commons",
+    "auteur": "Quercus montana",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Aquia_Church_Aquia_Harbour_VA_2016_04_11_21.JPG",
+    "statut": "validée",
+    "note": "Vérification : Fente centrale nette ; rectangle sur le vantail double, pas sur l'encadrement. Contre-vérification : Porte rouge à deux battants ouvrant au milieu, cadrée exactement par le rectangle."
   },
   {
     "id": "porte-metallique-01",
@@ -7632,6 +7735,37 @@
     "note": "Vérification : Fenêtres à jalousies nettes ; rectangle sur la rangée de fenêtres, enfants en dessous. Contre-vérification : Rangée de fenêtres à lames horizontales pivotantes ouvertes dans une salle de classe, désignée par le rectangle ; naco typique."
   },
   {
+    "id": "naco-07",
+    "termId": "naco",
+    "fichier": "commons/naco-07.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.04,
+      "largeur": 0.48,
+      "hauteur": 0.64
+    },
+    "lieu": "Santa Maria, Brésil",
+    "source": "commons",
+    "auteur": "Tks4Fish",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Vote_section_for_election_(first_round)_at_Santa_Maria,_Rio_Grande_do_Sul_(20181007-190921).jpg",
+    "statut": "validée",
+    "note": "Vérification : Fenêtre à lames de verre typique, encadrée de près. Contre-vérification : Fenêtre à lames de verre horizontales pivotantes dans un cadre métallique, cadrée par le rectangle."
+  },
+  {
+    "id": "naco-11",
+    "termId": "naco",
+    "fichier": "commons/naco-11.webp",
+    "rectangle": null,
+    "lieu": "Philippines",
+    "source": "commons",
+    "auteur": "MaxixKatana",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Missing_jalousie.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lames de verre parallèles très lisibles (une lame manquante), élément dominant. Contre-vérification : Gros plan de lames de verre horizontales inclinées sur leurs supports pivotants : naco typique."
+  },
+  {
     "id": "volet-03",
     "termId": "volet",
     "fichier": "commons/volet-03.webp",
@@ -7686,6 +7820,19 @@
     "note": "Vérification : Lames horizontales et coffre bien visibles ; rectangle sur la fenêtre centrale. Contre-vérification : Volet roulant à lames baissé aux trois quarts dans une fenêtre, bien cadré ; terme juste."
   },
   {
+    "id": "portail-metallique-12",
+    "termId": "portail-metallique",
+    "fichier": "commons/portail-metallique-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "User:Darwinek",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cumal%C4%B1k%C4%B1z%C4%B1k_7123.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grand portail métallique net, bien éclairé, dominant dans l'image. Contre-vérification : Portail en acier à deux battants, ajouré à barreaux pointus, fermant l'entrée d'un terrain."
+  },
+  {
     "id": "grille-de-defense-04",
     "termId": "grille-de-defense",
     "fichier": "commons/grille-de-defense-04.webp",
@@ -7704,6 +7851,37 @@
     "note": "Vérification : Grille de défense nette et dominante, rectangle sur la grille. Contre-vérification : Photo ancienne réelle : grille à barreaux forgés fixée devant une fenêtre, bien cadrée ; terme juste."
   },
   {
+    "id": "grille-de-defense-11",
+    "termId": "grille-de-defense",
+    "fichier": "commons/grille-de-defense-11.webp",
+    "rectangle": {
+      "x": 0.7,
+      "y": 0.19,
+      "largeur": 0.27,
+      "hauteur": 0.38
+    },
+    "lieu": "Californie, États-Unis",
+    "source": "commons",
+    "auteur": "AragonChristopherR17Z",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Parks_Chapel_AME_Church,_San_Fernando_20250611_171419.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grille de fenêtre en fer forgé nette, encadrée pour la distinguer de la rampe d'escalier. Contre-vérification : Le rectangle cadre une grille en fer forgé fixée devant une fenêtre."
+  },
+  {
+    "id": "grille-de-defense-12",
+    "termId": "grille-de-defense",
+    "fichier": "commons/grille-de-defense-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "feinteriano",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:UN_PRECIOSO_BALCON_EN_SENSUNTEPEQUE_-_panoramio.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grille de défense typique, élément dominant. Contre-vérification : Grille à barreaux en fer fixée devant une fenêtre aux volets fermés ; la grille domine l'image."
+  },
+  {
     "id": "moustiquaire-06",
     "termId": "moustiquaire",
     "fichier": "commons/moustiquaire-06.webp",
@@ -7715,6 +7893,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Insect_screen_Tempe.jpg",
     "statut": "validée",
     "note": "Vérification : Maillage de moustiquaire bien visible sur toute l'image. Contre-vérification : Toile à mailles fines tendue dans le cadre d'une fenêtre, nettement visible ; terme juste."
+  },
+  {
+    "id": "moustiquaire-09",
+    "termId": "moustiquaire",
+    "fichier": "commons/moustiquaire-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Jonas Bergsten",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fly_on_insect_net_20060621_001.jpg",
+    "statut": "validée",
+    "note": "Vérification : Maille serrée de moustiquaire très lisible, élément occupant toute l'image. Contre-vérification : Toile à mailles fines tendue devant une fenêtre, avec une mouche posée dessus : sans ambiguïté."
   },
   {
     "id": "huisserie-01",
@@ -7818,6 +8009,42 @@
     "note": "Vérification : Plaque fixée sur la huisserie avec ouverture pour le pêne, au premier plan. Contre-vérification : Gâche métallique vissée dans le dormant, avec l'ouverture où s'engage le pêne, en gros plan ; terme juste."
   },
   {
+    "id": "poignee-de-porte-09",
+    "termId": "poignee-de-porte",
+    "fichier": "commons/poignee-de-porte-09.webp",
+    "rectangle": {
+      "x": 0.24,
+      "y": 0.27,
+      "largeur": 0.31,
+      "hauteur": 0.14
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "WikedKentaur",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Al%C5%ABksne_Lutheran_church,_2013,_15.jpg",
+    "statut": "validée",
+    "note": "Vérification : Béquille bien visible, rectangle sur le levier pour éviter la confusion avec la platine/serrure. Contre-vérification : Le rectangle cadre la béquille ancienne en fer sur une porte en bois ; entrée de serrure hors du cadre."
+  },
+  {
+    "id": "poignee-de-porte-11",
+    "termId": "poignee-de-porte",
+    "fichier": "commons/poignee-de-porte-11.webp",
+    "rectangle": {
+      "x": 0.41,
+      "y": 0.27,
+      "largeur": 0.36,
+      "hauteur": 0.38
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Bin im Garten",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bartholom%C3%A4uskirche_Syke-Barrien_2010_0108.JPG",
+    "statut": "validée",
+    "note": "Vérification : Levier net et dominant ; rectangle pour le distinguer du cylindre voisin. Contre-vérification : Béquille en laiton en forme d'oiseau cadrée par le rectangle ; le cylindre est hors du cadre."
+  },
+  {
     "id": "poignee-de-fenetre-02",
     "termId": "poignee-de-fenetre",
     "fichier": "commons/poignee-de-fenetre-02.webp",
@@ -7860,6 +8087,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Cheraman_Masjid,_Kodungaloor_-_%E0%B4%9A%E0%B5%87%E0%B4%B0%E0%B4%AE%E0%B4%BE%E0%B5%BB_%E0%B4%AE%E0%B4%B8%E0%B5%8D%E0%B4%9C%E0%B4%BF%E0%B4%A6%E0%B5%8D,_%E0%B4%95%E0%B5%8A%E0%B4%9F%E0%B5%81%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%82%E0%B5%BC_09.jpg",
     "statut": "validée",
     "note": "Vérification : Clés grandes, nettes et sans ambiguïté. Contre-vérification : Grosses clés anciennes à panneton cranté sur anneaux, bien encadrées ; objet évident."
+  },
+  {
+    "id": "cle-08",
+    "termId": "cle",
+    "fichier": "commons/cle-08.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "R. Henrik Nilsson",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:1970s_Mister_Minit_duplicate_key_for_Boda_locks_cut_on_Dominion_Lock_Co_B41B_blank.jpg",
+    "statut": "validée",
+    "note": "Vérification : Clé nette, dominante, tige, anneau et panneton visibles ; le texte de la marque ne donne pas la réponse. Contre-vérification : Gros plan d'une clé métallique à panneton cranté, objet seul et dominant."
   },
   {
     "id": "verrou-03",
@@ -7994,6 +8234,19 @@
     "note": "Vérification : Claire, typique. Contre-vérification : Barre antipanique métallique traversant une porte vitrée de sortie ; terme juste."
   },
   {
+    "id": "escalier-en-beton-10",
+    "termId": "escalier-en-beton",
+    "fichier": "commons/escalier-en-beton-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Fantaglobe11",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2019-08-27_Stationspleinstalling_trappenhuis_(2).jpg",
+    "statut": "validée",
+    "note": "Vérification : Béton apparent clairement visible sur marches et garde-corps, sans ambiguïté. Contre-vérification : Escalier monolithique en béton brut avec volées, paillasses et garde-corps pleins en béton : matériau et ouvrage évidents."
+  },
+  {
     "id": "escalier-metallique-01",
     "termId": "escalier-metallique",
     "fichier": "commons/escalier-metallique-01.webp",
@@ -8082,6 +8335,24 @@
     "note": "Vérification : Escalator encadré, escalier fixe écarté par le rectangle. Contre-vérification : Le rectangle désigne l'escalier mécanique, distinct de l'escalier fixe voisin laissé hors cadre ; terme juste."
   },
   {
+    "id": "marche-07",
+    "termId": "marche",
+    "fichier": "commons/marche-07.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.33,
+      "largeur": 0.84,
+      "hauteur": 0.28
+    },
+    "lieu": "Boô-Silhen, Hautes-Pyrénées, France",
+    "source": "commons",
+    "auteur": "Père Igor",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bo%C3%B4-Silhen_%C3%A9glise_Bo%C3%B4_marches.JPG",
+    "statut": "validée",
+    "note": "Vérification : Marches de pierre nettes ; rectangle sur la marche centrale pour désigner une seule marche. Contre-vérification : Le rectangle cadre une seule marche en pierre d'un petit escalier extérieur."
+  },
+  {
     "id": "cage-d-escalier-06",
     "termId": "cage-d-escalier",
     "fichier": "commons/cage-d-escalier-06.webp",
@@ -8095,6 +8366,19 @@
     "note": "Vérification : Volume clos de l'escalier bien lisible ; image entière. Contre-vérification : Vue d'ensemble d'une cage d'escalier fermée par des murs avec volées, palier et plafond ; terme le plus juste."
   },
   {
+    "id": "cage-d-escalier-08",
+    "termId": "cage-d-escalier",
+    "fichier": "commons/cage-d-escalier-08.webp",
+    "rectangle": null,
+    "lieu": "Alaverdi, Arménie",
+    "source": "commons",
+    "auteur": "Tiia Monto",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Alaverdi_-_building_interior.jpg",
+    "statut": "validée",
+    "note": "Vérification : Volume vertical fermé par ses murs, avec fenêtres, clairement une cage d'escalier ; l'état dégradé ne gêne pas. Contre-vérification : Volume fermé par des murs avec fenêtres, dans lequel l'escalier et ses paliers se développent : cage d'escalier lisible."
+  },
+  {
     "id": "main-courante-06",
     "termId": "main-courante",
     "fichier": "commons/main-courante-06.webp",
@@ -8106,6 +8390,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Co-operative_Building_(51219051019).jpg",
     "statut": "validée",
     "note": "Vérification : Barre continue nette et dominante ; supports atypiques. Contre-vérification : Tube inox continu porté par des supports sur un muret d'escalier : main courante en gros plan."
+  },
+  {
+    "id": "main-courante-07",
+    "termId": "main-courante",
+    "fichier": "commons/main-courante-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Douglas Iuri Medeiros Cabral",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Corrim%C3%A3o_(11563028335).jpg",
+    "statut": "validée",
+    "note": "Vérification : Les barres à saisir occupent tout l'axe de l'image, nettes et sans ambiguïté. Contre-vérification : Deux mains courantes tubulaires en inox au centre d'un escalier, en perspective : élément dominant."
   },
   {
     "id": "perron-03",
@@ -8186,6 +8483,32 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Elevator_door,_Red_Cross_building,_Omonia,_Athens.JPG",
     "statut": "validée",
     "note": "Vérification : Porte palière dominante et claire. Contre-vérification : Porte palière d'ascenseur ancienne avec indicateur d'étage et bouton d'appel, dominante."
+  },
+  {
+    "id": "robinet-07",
+    "termId": "robinet",
+    "fichier": "commons/robinet-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Chris Rycroft",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Faucet_and_brick_wall_(51306829106).jpg",
+    "statut": "validée",
+    "note": "Vérification : Robinet mural typique, net et dominant. Contre-vérification : Gros plan d'un robinet extérieur fixé dans un mur de brique."
+  },
+  {
+    "id": "robinet-12",
+    "termId": "robinet",
+    "fichier": "commons/robinet-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Jiri Evenhuis",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fusion_Square_-_Boiling_Water_Tap_and_Mixer_in_one_-_Jiri_Evenhuis_in_collaboration_with_Quooker_2011.jpg",
+    "statut": "validée",
+    "note": "Vérification : Robinet seul, net et isolé. Contre-vérification : Robinet chromé de cuisine à bec en U sur fond blanc, isolé et dominant."
   },
   {
     "id": "mitigeur-01",
@@ -8314,6 +8637,42 @@
     "note": "Vérification : Cuvette à la turque (type asiatique) claire, cadrée. Contre-vérification : Cuvette à la turque encastrée au sol, bien encadrée ; reconnaissable."
   },
   {
+    "id": "reservoir-de-chasse-10",
+    "termId": "reservoir-de-chasse",
+    "fichier": "commons/reservoir-de-chasse-10.webp",
+    "rectangle": {
+      "x": 0.21,
+      "y": 0.07,
+      "largeur": 0.48,
+      "hauteur": 0.2
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Acabashi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Armitage_shanks_toilet_water_closet_Tottenham_London_N15_England_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Réservoir blanc encadré, cuvette dominante sinon ; rectangle lève le doute. Contre-vérification : Le rectangle cadre le réservoir en céramique posé derrière la cuvette."
+  },
+  {
+    "id": "reservoir-de-chasse-11",
+    "termId": "reservoir-de-chasse",
+    "fichier": "commons/reservoir-de-chasse-11.webp",
+    "rectangle": {
+      "x": 0.34,
+      "y": 0.12,
+      "largeur": 0.27,
+      "hauteur": 0.15
+    },
+    "lieu": "Mundesley, Norfolk, Angleterre",
+    "source": "commons",
+    "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:-2020-01-09_Public_toilets,_Beach_Road,_Mundesley_(2).JPG",
+    "statut": "validée",
+    "note": "Vérification : Chasse haute très reconnaissable, rectangle sur le réservoir. Contre-vérification : Réservoir de chasse haut à tirette, cadré par le rectangle au-dessus de la cuvette."
+  },
+  {
     "id": "douchette-wc-03",
     "termId": "douchette-wc",
     "fichier": "commons/douchette-wc-03.webp",
@@ -8361,6 +8720,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Homeshower.JPG",
     "statut": "validée",
     "note": "Vérification : Pomme fixe nette, cadrée de près. Contre-vérification : Pomme de douche murale projetant ses jets, précisément encadrée ; terme juste."
+  },
+  {
+    "id": "pomme-de-douche-09",
+    "termId": "pomme-de-douche",
+    "fichier": "commons/pomme-de-douche-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "John Loo from Sunnyvale, USA",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Chrome_(3004182709).jpg",
+    "statut": "validée",
+    "note": "Vérification : Pomme nette, dominante, photo claire. Contre-vérification : Pomme de douche murale perforée projetant des jets d'eau, en gros plan."
   },
   {
     "id": "receveur-de-douche-05",
@@ -8441,6 +8813,32 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Br%C3%A4ddavlopp_tv%C3%A4ttst%C3%A4ll.jpg",
     "statut": "validée",
     "note": "Vérification : Rectangle sur la bonde, pas sur le trop-plein. Contre-vérification : Bonde métallique à clapet au fond d'un lavabo, nettement désignée par le rectangle."
+  },
+  {
+    "id": "siphon-de-sol-10",
+    "termId": "siphon-de-sol",
+    "fichier": "commons/siphon-de-sol-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Ser Amantio di Nicolao",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Drain_hole_in_the_office_garage.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grille de sol nette, centrée et dominante. Contre-vérification : Grille ronde de siphon encastrée dans un sol carrelé, seule au centre de l'image."
+  },
+  {
+    "id": "siphon-de-sol-12",
+    "termId": "siphon-de-sol",
+    "fichier": "commons/siphon-de-sol-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Sgconlaw",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Blocked_floor_drain.jpg",
+    "statut": "validée",
+    "note": "Vérification : Siphon de sol clair, cuisine ; grille articulée visible, un peu sale. Contre-vérification : Siphon de sol carré dont on soulève la grille perforée, montrant la garde d'eau."
   },
   {
     "id": "tube-en-cuivre-03",
@@ -8546,6 +8944,19 @@
     "note": "Vérification : Cadran net ; rectangle écarte le robinet voisin. Contre-vérification : Compteur d'eau à cadran et rouleaux chiffrés sur branchement, bien encadré ; terme juste."
   },
   {
+    "id": "compteur-d-eau-10",
+    "termId": "compteur-d-eau",
+    "fichier": "commons/compteur-d-eau-10.webp",
+    "rectangle": null,
+    "lieu": "Quezon City, Philippines",
+    "source": "commons",
+    "auteur": "Judgefloro",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:0940jfBarangays_West_Kamias_Road_Creeks_Bridges_Landmarksfvf_04.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cadran de compteur net et dominant. Contre-vérification : Cadran de compteur d'eau avec totalisateur en m3, en gros plan."
+  },
+  {
     "id": "chateau-d-eau-04",
     "termId": "chateau-d-eau",
     "fichier": "commons/chateau-d-eau-04.webp",
@@ -8647,6 +9058,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Carrefour_Market_de_Gometz-la-Ville_le_12_ao%C3%BBt_2015_-_08.jpg",
     "statut": "validée",
     "note": "Vérification : Bouteilles de butane typiques, claires ; rectangle sur le casier. Contre-vérification : Rack de bouteilles de butane Butagaz désigné par le rectangle ; bouteilles de gaz évidentes."
+  },
+  {
+    "id": "bouteille-de-gaz-10",
+    "termId": "bouteille-de-gaz",
+    "fichier": "commons/bouteille-de-gaz-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Fabienli",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bouteille_de_gaz_facon_studio.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bouteille de gaz isolée, nette et dominante. Contre-vérification : Bouteille de gaz métallique avec poignée et pied, seule sur fond uni."
   },
   {
     "id": "tableau-electrique-02",

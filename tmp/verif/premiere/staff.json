@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Amsterdam",
       "note": "Peinture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade moderne d'un ancien cinéma, parement carrelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de staff identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Élèves modelant des plaques en plâtre dans un atelier, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas du staff en ouvrage."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Peinture de l'intérieur d'une librairie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, pas une photo."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Salon moderne lambrissé de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gravure d'un frontispice.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Atelier d'élèves modelant des ornements, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Staff non clairement montré."
     }
   ]
 }

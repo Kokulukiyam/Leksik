@@ -1,0 +1,53 @@
+{
+  "termId": "feston",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dessin ancien d'un plafond, avec guirlande peinte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo de sculpture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessin aquarellé de plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Dessin de décor de plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo ancienne d'un défilé d'enfants costumés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Peinture de guirlande de fruits autour d'une Vierge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tasses en porcelaine Wedgwood ornées de guirlandes en relief.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets de vitrine, petit détail."
+    }
+  ]
+}

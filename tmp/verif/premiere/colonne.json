@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Rome, Italie",
       "note": "Reconstitution muséale (catégorie « Models of Biblioteca Ulpia ») en faux marbre, assimilable à une maquette ; dominante colorée verdâtre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ruines de Chichén Itzá dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colonnes lointaines, trop petites."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Galerie à piliers octogonaux peints en orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Piliers, pas des colonnes."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gravure de coupe du Ramesseum.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ruines abritées sous un toit de palmes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colonne non visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chapiteau ionique d'un fût à Delphes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chapiteau mis en avant, ambigu avec chapiteau."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Colonnade égyptienne sur une photographie ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, colonnade."
     }
   ]
 }

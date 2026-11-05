@@ -11,7 +11,9 @@
       "large panel wall formwork"
     ],
     "incompatibles": [
-      "coffrage"
+      "coffrage",
+      "coffrage-bois",
+      "coffrage-de-poteau"
     ]
   },
   "candidats": [
@@ -105,5 +107,7 @@
       "largeur": 2048,
       "hauteur": 1536
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

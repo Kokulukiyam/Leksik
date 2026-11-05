@@ -1,0 +1,58 @@
+{
+  "termId": "colonne-torse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Armoire baroque en bois sculpté à colonnettes torses, dans un salon de palais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble ; les colonnettes sont petites."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Décor de Nouvel An chinois avec papillon géant dans un aéroport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Pas d'architecture, colonne torse non évidente."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de pierre maya en gros appareil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chichén Itzá, Mexique",
+      "note": "Aucune colonne torse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Colonne torse en marbre rouge veiné à chapiteau corinthien dans une chapelle baroque.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.1,
+        "largeur": 0.22,
+        "hauteur": 0.82
+      },
+      "lieu": "Civesio, Lombardie",
+      "note": "Fût en spirale net et dominant, encadré pour écarter l'ange et la niche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Abside romane en moellons avec baie flanquée de colonnettes lisses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gers, France",
+      "note": "Colonnettes droites."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne sépia de sculptures de niches de Wells.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wells, Royaume-Uni",
+      "note": "Ancienne, aucune colonne torse."
+    }
+  ]
+}

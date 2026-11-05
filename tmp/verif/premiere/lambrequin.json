@@ -1,0 +1,58 @@
+{
+  "termId": "lambrequin",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vieille photo noir et blanc d'une maison de ruelle à Lisbonne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Lambrequin non visible, photo ancienne."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lucarne à planches de rive croisées découpées, photo délavée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planches de rive (pignon), pas un lambrequin d'avant-toit ; qualité faible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fenêtre dont le haut est bordé d'une bande de métal blanc découpée et festonnée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.16,
+        "y": 0.105,
+        "largeur": 0.66,
+        "hauteur": 0.15
+      },
+      "lieu": "Pepinster, Belgique",
+      "note": "Lambrequin découpé net au-dessus de la baie, bien encadré."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison américaine ancienne en noir et blanc avec planches de rive ouvragées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enfield, Massachusetts",
+      "note": "Photo d'archive avec annotations, élément petit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade d'immeuble du XIXe avec stores à bandes festonnées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bamberg, Allemagne",
+      "note": "Lambrequins des stores minuscules et confus."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison victorienne à décor de bois découpé sous le porche et en pignon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Idaho, États-Unis",
+      "note": "Trop d'ornements différents, ambigu (planche de rive, frise de porche)."
+    }
+  ]
+}

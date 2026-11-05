@@ -1,0 +1,53 @@
+{
+  "termId": "cul-de-lampe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Buste humain sur feuilles d'acanthe, sculpture de musée devant un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée, pas en place."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Console gothique à ange couché, image floue et basse résolution.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maastricht, Pays-Bas",
+      "note": "Floue, forme peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Niche avec statue et deux petites consoles à acanthes portant des bustes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Consoles petites, décor d'exposition."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cul-de-lampe gothique en pyramide renversée à pans moulurés, terminé par une tête, sous un faisceau mural.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Morston, Norfolk",
+      "note": "Forme en pyramide renversée très nette ; la tête pourrait évoquer un mascaron mais le support moulure domine."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Balcon et encorbellement moulurés d'une maison coloniale, lanterne au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Carthagène des Indes, Colombie",
+      "note": "Console/corbeau de balcon, pas un cul-de-lampe."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Console feuillagée baroque sous un cartouche doré portant un nom.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Krems, Autriche",
+      "note": "Texte visible et forme de console ambiguë."
+    }
+  ]
+}

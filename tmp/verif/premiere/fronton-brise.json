@@ -1,0 +1,63 @@
+{
+  "termId": "fronton-brise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Retable baroque doré et polychrome avec fronton cintré orné de figures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome",
+      "note": "Ensemble d'autel chargé, fronton non brisé de façon lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Portail d'église jaune dont le fronton, deux rampants séparés, laisse place à une niche avec statue d'évêque.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.32,
+        "largeur": 0.78,
+        "hauteur": 0.35
+      },
+      "lieu": "Tomášov, Slovaquie",
+      "note": "Rampants interrompus nets, vide central occupé par une niche."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pignon de brique à volutes avec horloge et dôme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Świętochłowice, Pologne",
+      "note": "Pignon, pas un fronton brisé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade de grès avec fronton triangulaire complet et croix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Villé, France",
+      "note": "Fronton entier, non brisé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Portail rouge à fronton segmentaire interrompu par une niche avec statue ; panneau AULA devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bamberg, Allemagne",
+      "note": "Panneau et texte visibles, élément petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Portail de marbre noir en contre-plongée dont le fronton à rampants s'interrompt autour d'un cartouche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.28,
+        "y": 0.34,
+        "largeur": 0.46,
+        "hauteur": 0.2
+      },
+      "lieu": "Cathédrale du Wawel, Cracovie",
+      "note": "Fronton brisé net, encadré ; forte perspective mais lisible."
+    }
+  ]
+}
