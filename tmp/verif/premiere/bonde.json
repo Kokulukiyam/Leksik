@@ -1,0 +1,58 @@
+{
+  "termId": "bonde",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mains tenant des accessoires de cuisine au-dessus d un évier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bonde non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Station de vidange de camping-cars en extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une bonde de sanitaire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan du fond d un lavabo rose avec sa bonde chromée à clapet, fente de trop-plein au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.35,
+        "y": 0.67,
+        "largeur": 0.29,
+        "hauteur": 0.31
+      },
+      "lieu": "Suède",
+      "note": "Rectangle sur la bonde, pas sur le trop-plein."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Évacuation de bains thermaux romains en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage archéologique, pas une bonde."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Siphon à bouteille blanc sous un lavabo avec tuyaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Siphon, pas la bonde."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Caniveau d herbe en bord de rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "cassette-de-climatisation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux gaines flexibles en aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gaines, pas de cassette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Couloir commercial avec diffuseurs ronds au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Diffuseurs ronds, pas une cassette carrée à quatre côtés."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Militaire réparant un groupe extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Unité extérieure, hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plafond de chambre avec grille de soufflage murale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ajaccio",
+      "note": "Pas de cassette visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Militaire devant un groupe extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chambre d'hôtel avec grille murale en hauteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Turin",
+      "note": "Grille murale, pas une cassette."
+    }
+  ]
+}

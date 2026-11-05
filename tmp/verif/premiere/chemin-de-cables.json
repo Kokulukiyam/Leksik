@@ -1,0 +1,53 @@
+{
+  "termId": "chemin-de-cables",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chemins de câbles en tôle posés au sol dans un local en chantier, étiquetés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Posés au sol, textes visibles, peu clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvriers assemblant un chemin de câbles en échelle au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes dominantes, élément partiellement caché."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Angle de mur blanc et rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chemins de câbles en treillis métallique fixés au plafond et au mur, portant des câbles orange et violets.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Support en treillis chargé de câbles, net et dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux photos de fissures avec mètre et texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte et sujet autres."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chemins de câbles très sombres sous un plafond voûté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, encombré."
+    }
+  ]
+}

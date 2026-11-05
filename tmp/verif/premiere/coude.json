@@ -1,0 +1,58 @@
+{
+  "termId": "coude",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dessin au trait de bras (geste du coude).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, sens du corps humain."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cage grillagée pleine de raccords verts en vrac derrière un grillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fouillis de pièces vues à travers un grillage, pas lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Personne aux bras croisés en pull marron.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coude du corps humain, pas de tuyauterie."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coude à 90 degrés en cuivre, à sertir, reliant deux tubes sur un mur blanc.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.22,
+        "largeur": 0.65,
+        "hauteur": 0.58
+      },
+      "lieu": "",
+      "note": "Coude de tuyauterie net et dominant, change la direction du tube."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Assortiment de raccords en cuivre (coudes, té, manchons, réduction).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plusieurs raccords possibles ; utilisée pour raccord."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Flexibles transparents raccordés à une pièce noire sur une cuve grillagée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce peu lisible, pas un coude clair."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "tube-per",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tuyaux blancs de plancher chauffant posés sur un support.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tube multicouche alu-plastique, non PER identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Boutique avec rouleaux de tuyau bleu translucide.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyau souple PVC, pas du PER."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne d une grande conduite sur camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuyau PVC blanc sortant d un conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "PVC rigide."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Perfusion sur le dos d une main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Médical."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gaine annelée bleue de drainage posée sur du sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gaine, pas un tube PER."
+    }
+  ]
+}

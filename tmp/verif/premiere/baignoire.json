@@ -1,0 +1,63 @@
+{
+  "termId": "baignoire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Baignoire d angle blanche sous combles parmi des plantes, vue sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Baignoire peu lisible, scène sombre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Urinoirs muraux dans des sanitaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Salle de bains sale avec lapins, baignoire sur la gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lapins, scène désordonnée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Baignoire ancienne sur pieds en fonte, au centre d une pièce lambrissée abandonnée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.6,
+        "largeur": 0.35,
+        "hauteur": 0.27
+      },
+      "lieu": "Château de Cahaignes, France",
+      "note": "Rectangle sur la baignoire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo noir et blanc de lavabos dans une salle de laboratoire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de baignoire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Baignoire en fonte sur pieds dans un jardin avec colonne de douche, en extérieur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.35,
+        "y": 0.66,
+        "largeur": 0.49,
+        "hauteur": 0.27
+      },
+      "lieu": "Kenya",
+      "note": "Baignoire nette, rectangle posé dessus."
+    }
+  ]
+}

@@ -53,6 +53,14 @@
       "rectangle": null,
       "lieu": "Genève, Suisse",
       "note": "Trop large et confus."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Machine à coffrage glissant (finisseuse béton) sur chantier de tramway avec ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Orléans, France",
+      "note": "Engin, pas un coffrage de dalle."
     }
   ]
 }

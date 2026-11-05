@@ -1,0 +1,53 @@
+{
+  "termId": "douche-a-l-italienne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Seau suspendu au plafond servant de douche, avec chauffe-eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Douche rudimentaire, pas une douche à l italienne."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Douche ancienne à cage de tubes avec pomme en tête.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cabine ancienne à bac."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cuvette de WC et grand seau dans un petit local carrelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une douche à l italienne."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle de douches carrelée de plain-pied, sans receveur, avec siphons de sol et plusieurs mitigeurs muraux.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Navire Amorella, Viking Line",
+      "note": "Sol carrelé continu en pente vers des siphons, sans receveur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Robinetterie ancienne en laiton dans une douche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de sol visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cabine de douche ancienne ronde en laiton et marbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cabine ancienne, sans lecture du sol."
+    }
+  ]
+}

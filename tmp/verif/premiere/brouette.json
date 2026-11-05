@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Charrette à deux roues, pas une brouette."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vendeur de calices de roselle sur un marché, derrière un étal posé sur une brouette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kaduna, Nigeria",
+      "note": "Brouette masquée par la marchandise et les personnes."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Brouette métallique à une roue chargée de pierres, seule sur une pelouse sèche devant des murs incas.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.16,
+        "y": 0.49,
+        "largeur": 0.31,
+        "hauteur": 0.27
+      },
+      "lieu": "Pérou",
+      "note": "Brouette complète et nette, isolée ; rectangle serré."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Brouette recouverte de papier aluminium remplie de bouteilles sur glace, dans une salle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détournée en bac à boissons."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Paysage d'un lac de montagne au Maroc avec gravats au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maroc",
+      "note": "Brouette non visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Remise ancienne avec banc en fonte, tondeuse, rouleau et vieille brouette en bois bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berrington Hall, Royaume-Uni",
+      "note": "Brouette ancienne noyée parmi d'autres objets."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Jardin avec pépinière de plants et abri en tôle ondulée, brouette minuscule au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brouette trop petite."
     }
   ]
 }

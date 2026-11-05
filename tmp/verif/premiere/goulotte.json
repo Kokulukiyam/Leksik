@@ -1,0 +1,53 @@
+{
+  "termId": "goulotte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvriers assemblant un chemin de câbles en échelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin de câbles, pas une goulotte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Camion-citerne sur un pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chemins de câbles en treillis le long d'un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin de câbles en treillis, pas une goulotte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chemin de câbles encombré de câbles blancs au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin de câbles, pas une goulotte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pont haubané sur un estuaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chemins de câbles en tôle sous un plafond béton, sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemins de câbles, pas une goulotte."
+    }
+  ]
+}

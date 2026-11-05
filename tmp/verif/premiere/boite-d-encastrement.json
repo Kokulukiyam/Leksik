@@ -1,0 +1,53 @@
+{
+  "termId": "boite-d-encastrement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plan et quatre photos de fils sortant d'un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montage avec plan, aucune boîte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Intérieur d'un coffret électrique avec disjoncteurs et gros câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tableau, pas une boîte d'encastrement."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Montage de quatre vues d'une boîte ronde grise avec couvercle, tenue à la main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planche composite, boîte hors du mur, ambiguë avec dérivation."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Câbles dans une armoire de centrale, avec texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, texte visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Boîte métallique ouverte et sale dans une charpente, fils brûlés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîte de dérivation en charpente, abîmée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Montage de quatre vues d'une boîte ronde grise avec couvercle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planche composite, boîte ambiguë avec dérivation."
+    }
+  ]
+}

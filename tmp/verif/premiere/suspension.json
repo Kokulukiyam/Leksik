@@ -1,0 +1,63 @@
+{
+  "termId": "suspension",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Lustre de cristal à bougies accroché au plafond sous une rosace.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Luminaire suspendu, net et dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lustre de cristal suspendu à une longue tige dans un grand salon.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.05,
+        "largeur": 0.36,
+        "hauteur": 0.46
+      },
+      "lieu": "Palacio Santos",
+      "note": "Suspension bien lisible, cadrée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Salon colonial avec fauteuils à bascule, lustre en haut de l'image.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Campeche, Mexique",
+      "note": "Lustre coupé et petit ; sujet principal : mobilier."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Luminaire rouge vu d'en dessous dans le noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ranchi, Inde",
+      "note": "Forme illisible, éclairage sombre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grand lustre de cristal pendu à une chaîne sous un plafond à caissons.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.3,
+        "largeur": 0.4,
+        "hauteur": 0.65
+      },
+      "lieu": "Quito, Équateur",
+      "note": "Suspension clairement cadrée malgré le décor chargé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Jardin avec structure métallique d'où pendent des lustres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dunham Massey",
+      "note": "Installation artistique, lustres minuscules."
+    }
+  ]
+}

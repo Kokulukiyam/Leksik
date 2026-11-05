@@ -1,0 +1,58 @@
+{
+  "termId": "rampe-d-acces",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte d'un bus bleu avec rampe d'accès rabattue à bandes rouges et blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bruxelles",
+      "note": "Rampe de bus, pas rampe d'accès de bâtiment."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Allée goudronnée longue bordée de grilles menant à une gare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cardiff, Royaume-Uni",
+      "note": "Pente à peine visible, élément pas clair."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rampe en bois à garde-corps croisillonné menant à l'entrée d'un ancien bâtiment jaune et brun, de nuit.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.56,
+        "largeur": 0.54,
+        "hauteur": 0.34
+      },
+      "lieu": "Oulu, Finlande",
+      "note": "Plan incliné d'accès nettement visible avec garde-corps ; panneau d'accessibilité sans le mot."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Voie en pente montant vers un parc de stationnement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Birmingham",
+      "note": "Rampe de voitures, pas d'accessibilité."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade d'un palais de justice vue de loin avec escalier central.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Géorgie, États-Unis",
+      "note": "Rampe trop petite pour être lue."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Marches et rampe à main courante devant un commerce, sous un portique sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prague",
+      "note": "Photo sombre, rampe partiellement lisible."
+    }
+  ]
+}

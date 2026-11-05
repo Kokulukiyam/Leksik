@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gravure, sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier lissant une dalle béton avec une grande lisseuse à long manche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Bull float, pas une taloche à main."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Marin lissant une dalle béton avec une grande lisseuse à manche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Islande",
+      "note": "Bull float, pas une taloche."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Soldat accroupi qui travaille le bord d'une dalle avec un outil à bordure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil à bordure, non identifiable comme taloche."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvrier avec une règle vibrante/lisseuse sur du béton frais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky",
+      "note": "Outil à long manche, pas une taloche."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Marins qui lissent du béton frais à la main sur un ferraillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Douala, Cameroun",
+      "note": "Outils trop petits et peu lisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvriers talochant une grande dalle avec un long manche jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky",
+      "note": "Bull float, pas une taloche à main."
     }
   ]
 }

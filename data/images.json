@@ -54,6 +54,24 @@
     "note": "Vérification : Appui saillant à rejet d'eau, élément dominant ; illustre parfaitement la définition. Contre-vérification : Gros plan d'un appui extérieur saillant en carreaux vernissés sur briques, sous une fenêtre ; il domine l'image et le rectangle le cadre bien."
   },
   {
+    "id": "appui-de-fenetre-07",
+    "termId": "appui-de-fenetre",
+    "fichier": "commons/appui-de-fenetre-07.webp",
+    "rectangle": {
+      "x": 0.16,
+      "y": 0.6,
+      "largeur": 0.6,
+      "hauteur": 0.12
+    },
+    "lieu": "Uccle (Calevoet), Belgique",
+    "source": "commons",
+    "auteur": "Stratoswift",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fen%C3%AAtre_gare_de_Calevoet_-_Larmier.jpg",
+    "statut": "validée",
+    "note": "Vérification : Appui net, saillant, bien encadrable. Contre-vérification : Tablette d'appui sombre saillante sous une fenêtre métallique, bien cadrée par le rectangle ; terme juste."
+  },
+  {
     "id": "linteau-03",
     "termId": "linteau",
     "fichier": "commons/linteau-03.webp",
@@ -1077,6 +1095,24 @@
     "note": "Vérification : Corniche de couronnement continue en haut de façade ; rectangle nécessaire pour la distinguer du bandeau d'étage visible à mi-hauteur. Contre-vérification : Façade blanche ; le rectangle cadre de près le couronnement mouluré en saillie au sommet du mur, sans englober le bandeau d'étage situé plus bas : c'est bien la corniche."
   },
   {
+    "id": "corniche-07",
+    "termId": "corniche",
+    "fichier": "commons/corniche-07.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.06,
+      "largeur": 0.86,
+      "hauteur": 0.34
+    },
+    "lieu": "Palais de Livadia, Yalta",
+    "source": "commons",
+    "auteur": "Andrey Butko",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D0%B2%D0%B0%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_003.jpg",
+    "statut": "validée",
+    "note": "Vérification : Corniche saillante moulurée nette, encadrée en partie haute. Contre-vérification : Couronnement mouluré en saillie au sommet du portique, désigné par le rectangle ; corniche lisible, aucun terme voisin proposé ne convient mieux."
+  },
+  {
     "id": "bandeau-11",
     "termId": "bandeau",
     "fichier": "commons/bandeau-11.webp",
@@ -1924,6 +1960,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg",
     "statut": "validée",
     "note": "Vérification : Échafaudage tubulaire typique, clair et dominant ; bannières sans rapport avec la réponse. Contre-vérification : Échafaudage de façade en tubes d'acier couvrant tout l'immeuble en construction ; élément dominant, aucun autre type d'échafaudage possible."
+  },
+  {
+    "id": "echelle-08",
+    "termId": "echelle",
+    "fichier": "commons/echelle-08.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.27,
+      "largeur": 0.38,
+      "hauteur": 0.45
+    },
+    "lieu": "Tarajalejo, Fuerteventura",
+    "source": "commons",
+    "auteur": "Tee Cee from Cheshire, UK",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Adjusting_The_Vertical_Hold_(36789188760).jpg",
+    "statut": "validée",
+    "note": "Vérification : Échelle nette, encadrée de près. Contre-vérification : Échelle aluminium appuyée contre une façade, bien désignée par le rectangle ; terme juste."
   },
   {
     "id": "nacelle-elevatrice-01",
@@ -5043,6 +5097,96 @@
     "note": "Vérification : Fresque extérieure lisible; rectangle sur la peinture. Contre-vérification : Peinture murale ancienne sur enduit, protégée par un auvent sur un mur de pierre, rectangle bien placé : fresque."
   },
   {
+    "id": "rosace-de-plafond-01",
+    "termId": "rosace-de-plafond",
+    "fichier": "commons/rosace-de-plafond-01.webp",
+    "rectangle": {
+      "x": 0.4,
+      "y": 0.36,
+      "largeur": 0.2,
+      "hauteur": 0.3
+    },
+    "lieu": "Carrickbeg, Irlande",
+    "source": "commons",
+    "auteur": "Andreas F. Borchert",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Carrickbeg_Saint_Francis_Church_Ceiling_2015_09_16.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rosace centrale nette, encadrée. Contre-vérification : Rosace moulée à feuilles au centre d'un plafond à nervures rayonnantes, bien cadrée ; terme juste."
+  },
+  {
+    "id": "rosace-de-plafond-03",
+    "termId": "rosace-de-plafond",
+    "fichier": "commons/rosace-de-plafond-03.webp",
+    "rectangle": {
+      "x": 0.35,
+      "y": 0.28,
+      "largeur": 0.28,
+      "hauteur": 0.46
+    },
+    "lieu": "Clonmel, Irlande",
+    "source": "commons",
+    "auteur": "Andreas F. Borchert",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Clonmel_Irishtown_St._Mary%27s_Church_of_the_Assumption_Crossing_Ceiling_2012_09_06.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rosace de plâtre moulé claire. Contre-vérification : Grande rosace circulaire dorée au centre d'un plafond orné, nettement désignée ; terme juste."
+  },
+  {
+    "id": "rosace-de-plafond-06",
+    "termId": "rosace-de-plafond",
+    "fichier": "commons/rosace-de-plafond-06.webp",
+    "rectangle": {
+      "x": 0.18,
+      "y": 0.22,
+      "largeur": 0.58,
+      "hauteur": 0.62
+    },
+    "lieu": "Bath, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Rwendland",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bath_Guildhall,_Council_chamber,_ceiling_rose.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rosace très marquée au centre du plafond. Contre-vérification : Rosace de plafond circulaire en plâtre très en relief, au centre du plafond, bien cadrée ; terme juste."
+  },
+  {
+    "id": "mosquee-soudano-sahelienne-02",
+    "termId": "mosquee-soudano-sahelienne",
+    "fichier": "commons/mosquee-soudano-sahelienne-02.webp",
+    "rectangle": {
+      "x": 0.3,
+      "y": 0,
+      "largeur": 0.45,
+      "hauteur": 0.45
+    },
+    "lieu": "Djenné, Mali",
+    "source": "commons",
+    "auteur": "Devriese",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9.jpg",
+    "statut": "validée",
+    "note": "Vérification : Exemple typique, bâtiment net. Contre-vérification : Grande mosquée de Djenné en banco avec contreforts, pinacles et torons, désignée par le rectangle ; terme juste."
+  },
+  {
+    "id": "mosquee-soudano-sahelienne-06",
+    "termId": "mosquee-soudano-sahelienne",
+    "fichier": "commons/mosquee-soudano-sahelienne-06.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0,
+      "largeur": 0.78,
+      "hauteur": 0.55
+    },
+    "lieu": "Koro, Mali",
+    "source": "commons",
+    "auteur": "Dr. Ondřej Havelka (cestovatel)",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Koro,_Mali.jpg",
+    "statut": "validée",
+    "note": "Vérification : Style soudano-sahélien évident. Contre-vérification : Mosquée en banco hérissée de torons, à pinacles et contreforts, clairement désignée ; terme juste."
+  },
+  {
     "id": "laterite-02",
     "termId": "laterite",
     "fichier": "commons/laterite-02.webp",
@@ -5067,6 +5211,58 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Laterite_Rock_Cola_Goa_Jan19_DSC06065.jpg",
     "statut": "validée",
     "note": "Vérification : Latérite alvéolée de Goa, bien lisible. Contre-vérification : Affleurement de latérite rouge sombre très vacuolaire en gros plan ; aucun autre terme de la liste ne convient."
+  },
+  {
+    "id": "ronier-01",
+    "termId": "ronier",
+    "fichier": "commons/ronier-01.webp",
+    "rectangle": null,
+    "lieu": "Zankan, Nigeria",
+    "source": "commons",
+    "auteur": "Kambai Akau",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Deleb_palm_trees_in_Zankan_3.jpg",
+    "statut": "validée",
+    "note": "Vérification : Palmiers Borassus nets, dominants. Contre-vérification : Rôniers (Borassus) à stipe élancé et feuilles en éventail dans une savane, bien lisibles ; terme juste."
+  },
+  {
+    "id": "ronier-03",
+    "termId": "ronier",
+    "fichier": "commons/ronier-03.webp",
+    "rectangle": null,
+    "lieu": "Zankan, Nigeria",
+    "source": "commons",
+    "auteur": "Kambai Akau",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Deleb_palm_trees_in_Zankan_6.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rôniers bien lisibles. Contre-vérification : Peuplement de rôniers aux stipes droits et palmes en éventail, typique ; terme juste."
+  },
+  {
+    "id": "maison-coloniale-04",
+    "termId": "maison-coloniale",
+    "fichier": "commons/maison-coloniale-04.webp",
+    "rectangle": null,
+    "lieu": "Thiès, Sénégal",
+    "source": "commons",
+    "auteur": "Ji-Elle",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Thi%C3%A8sColoniale.JPG",
+    "statut": "validée",
+    "note": "Vérification : Style colonial à galerie bien visible. Contre-vérification : Maison à étage enduite avec galeries à garde-corps métalliques et persiennes, typique de l'architecture coloniale sénégalaise ; terme juste."
+  },
+  {
+    "id": "maison-coloniale-05",
+    "termId": "maison-coloniale",
+    "fichier": "commons/maison-coloniale-05.webp",
+    "rectangle": null,
+    "lieu": "Saint-Louis, Sénégal",
+    "source": "commons",
+    "auteur": "HaguardDuNord",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Saint-Louis_-_02_Maison_coloniale.JPG",
+    "statut": "validée",
+    "note": "Vérification : Exemple typique de Saint-Louis. Contre-vérification : Maison à étage enduite d'ocre, balcons en fer forgé sur consoles et persiennes, typique du Sénégal colonial ; terme juste."
   },
   {
     "id": "minaret-03",
@@ -5121,6 +5317,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Asso,_entrata_casa_Magnocavallo.JPG",
     "statut": "validée",
     "note": "Vérification : Porte entière, claire, encadrée pour la distinguer de l'escalier et de l'arc. Contre-vérification : Vieille porte en bois sous arc dans une ruelle, bien cadrée ; porte sans ambiguïté parmi les termes proposés."
+  },
+  {
+    "id": "porte-a-panneaux-01",
+    "termId": "porte-a-panneaux",
+    "fichier": "commons/porte-a-panneaux-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Ramon FVelasquez",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Mu%C3%B1ozChurchjf9690_14.JPG",
+    "statut": "validée",
+    "note": "Vérification : Deux vantaux à panneaux moulurés en creux clairement visibles, cadre assemblé. Contre-vérification : Porte en bois dont le cadre assemblé encadre de nombreux panneaux moulurés, de face et dominante ; terme juste."
   },
   {
     "id": "porte-metallique-01",
@@ -5280,6 +5489,107 @@
     "note": "Vérification : Maillage de moustiquaire bien visible sur toute l'image. Contre-vérification : Toile à mailles fines tendue dans le cadre d'une fenêtre, nettement visible ; terme juste."
   },
   {
+    "id": "huisserie-01",
+    "termId": "huisserie",
+    "fichier": "commons/huisserie-01.webp",
+    "rectangle": {
+      "x": 0.35,
+      "y": 0.26,
+      "largeur": 0.45,
+      "hauteur": 0.49
+    },
+    "lieu": "Kelvedon Hatch, Essex, Angleterre",
+    "source": "commons",
+    "auteur": "Acabashi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kelvedon_Hall_entrance_through_garden_wall_Kelvedon_Hatch_Essex_England_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cadre de porte en bois nu, bien lisible une fois encadré. Contre-vérification : Cadre de porte en bois sans vantail dans un mur de brique, avec traces de ferrage, bien cadré ; terme juste."
+  },
+  {
+    "id": "petit-bois-05",
+    "termId": "petit-bois",
+    "fichier": "commons/petit-bois-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Stilfehler",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Windows_in_Home_Improvement_Store_25.jpg",
+    "statut": "validée",
+    "note": "Vérification : Croisée de baguettes divisant le vitrage, nette et dominante. Contre-vérification : Gros plan sur des baguettes blanches croisées divisant un vitrage en carreaux ; terme juste."
+  },
+  {
+    "id": "petit-bois-06",
+    "termId": "petit-bois",
+    "fichier": "commons/petit-bois-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "TomAlt",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Sprossenfenster_03.jpg",
+    "statut": "validée",
+    "note": "Vérification : Baguettes de bois en croix divisant le vitrage en carreaux, nettes. Contre-vérification : Gros plan sur des baguettes en bois croisées qui divisent le vitrage d'une fenêtre ; terme juste."
+  },
+  {
+    "id": "profile-aluminium-06",
+    "termId": "profile-aluminium",
+    "fichier": "commons/profile-aluminium-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "HTL-Mödchen23",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Glasscheibenmontageprofil_Alu.jpg",
+    "statut": "validée",
+    "note": "Vérification : Coupe nette montrant la section creuse extrudée. Contre-vérification : Coupe d'un profilé aluminium extrudé à chambres creuses, avec joints, vue de près ; terme juste."
+  },
+  {
+    "id": "serrure-en-applique-01",
+    "termId": "serrure-en-applique",
+    "fichier": "commons/serrure-en-applique-01.webp",
+    "rectangle": {
+      "x": 0.31,
+      "y": 0.36,
+      "largeur": 0.32,
+      "hauteur": 0.55
+    },
+    "lieu": "Drawsko, Pologne",
+    "source": "commons",
+    "auteur": "MOs810",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:MOs810_WG_2015_22_(Notecka_III)_(Church_in_Drawsko,_gm._Drawsko)_(7).JPG",
+    "statut": "validée",
+    "note": "Vérification : Boîtier en saillie sur le vantail, nettement visible. Contre-vérification : Boîtier de serrure vissé en saillie sur un vantail en bois, avec bec-de-cane, bien cadré ; terme juste."
+  },
+  {
+    "id": "serrure-en-applique-03",
+    "termId": "serrure-en-applique",
+    "fichier": "commons/serrure-en-applique-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Jucivaldo Passos",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:A_Pris%C3%A3o.jpg",
+    "statut": "validée",
+    "note": "Vérification : Boîtier saillant vissé avec entrée de clé, bien lisible. Contre-vérification : Gros plan sur un boîtier de serrure en applique avec entrée de clé, fixé en saillie ; terme juste."
+  },
+  {
+    "id": "gache-03",
+    "termId": "gache",
+    "fichier": "commons/gache-03.webp",
+    "rectangle": null,
+    "lieu": "Boda, Suède",
+    "source": "commons",
+    "auteur": "Dalruwa",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Slutbleck_Boda_nr_4014_inmonterad_i_d%C3%B6rrkarm_%C3%A5r_1981.jpg",
+    "statut": "validée",
+    "note": "Vérification : Plaque fixée sur la huisserie avec ouverture pour le pêne, au premier plan. Contre-vérification : Gâche métallique vissée dans le dormant, avec l'ouverture où s'engage le pêne, en gros plan ; terme juste."
+  },
+  {
     "id": "poignee-de-fenetre-02",
     "termId": "poignee-de-fenetre",
     "fichier": "commons/poignee-de-fenetre-02.webp",
@@ -5342,6 +5652,19 @@
     "note": "Vérification : Verrou à barre clair et dominant, rectangle sur la barre et sa poignée. Contre-vérification : Verrou forgé à tige coulissante dans ses guides, dominant dans le rectangle ; l'entrée de serrure reste hors cadre."
   },
   {
+    "id": "targette-06",
+    "termId": "targette",
+    "fichier": "commons/targette-06.webp",
+    "rectangle": null,
+    "lieu": "Lyon, France",
+    "source": "commons",
+    "auteur": "Sebleouf",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_ville_de_Lyon_-_Salon_Louis_XIII_-_Verrou_porte_(sept_2025).jpg",
+    "statut": "validée",
+    "note": "Vérification : Verrou plat sur platine manoeuvré par un bouton, au premier plan. Contre-vérification : Petit verrou plat sur platine ornée, manœuvré par un bouton, avec son crampon sur le dormant ; targette typique."
+  },
+  {
     "id": "cadenas-02",
     "termId": "cadenas",
     "fichier": "commons/cadenas-02.webp",
@@ -5373,6 +5696,164 @@
     "note": "Vérification : Tous les objets sont des cadenas, sans ambiguïté. Contre-vérification : Collection de cadenas anciens à anse en U ; sans ambiguïté."
   },
   {
+    "id": "judas-05",
+    "termId": "judas",
+    "fichier": "commons/judas-05.webp",
+    "rectangle": {
+      "x": 0.37,
+      "y": 0.03,
+      "largeur": 0.22,
+      "hauteur": 0.16
+    },
+    "lieu": "Leeds, Angleterre",
+    "source": "commons",
+    "auteur": "Andy Mabbett",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:404_hotel_room_not_found_-_2025-01-30_-_Andy_Mabbett.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lentille de judas bien visible, encadrée. Contre-vérification : Judas optique dans une porte de chambre d'hôtel, bien cadré par le rectangle ; terme juste."
+  },
+  {
+    "id": "ferme-porte-01",
+    "termId": "ferme-porte",
+    "fichier": "commons/ferme-porte-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Gausanchennai",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Door_closer_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Typique et dominant. Contre-vérification : Ferme-porte hydraulique ancien à bras articulé fixé en haut d'une porte, en gros plan ; terme juste."
+  },
+  {
+    "id": "ferme-porte-02",
+    "termId": "ferme-porte",
+    "fichier": "commons/ferme-porte-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Cavernia",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:D%C3%B8rlukker_med_arm.JPG",
+    "statut": "validée",
+    "note": "Vérification : Net, bras visible. Contre-vérification : Ferme-porte à bras articulé fixé en haut d'une porte, vu de dessous ; terme juste."
+  },
+  {
+    "id": "barre-antipanique-05",
+    "termId": "barre-antipanique",
+    "fichier": "commons/barre-antipanique-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "TESA",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Barra_antip%C3%A1nico.jpg",
+    "statut": "validée",
+    "note": "Vérification : Claire, dominante. Contre-vérification : Barre horizontale à poussée sur la largeur d'une porte de salle, nettement visible ; terme juste."
+  },
+  {
+    "id": "barre-antipanique-06",
+    "termId": "barre-antipanique",
+    "fichier": "commons/barre-antipanique-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Jonathan Clemens ( Jclemens ( talk ))",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Panic_bar.jpg",
+    "statut": "validée",
+    "note": "Vérification : Claire, typique. Contre-vérification : Barre antipanique métallique traversant une porte vitrée de sortie ; terme juste."
+  },
+  {
+    "id": "escalier-metallique-01",
+    "termId": "escalier-metallique",
+    "fichier": "commons/escalier-metallique-01.webp",
+    "rectangle": null,
+    "lieu": "Portland, États-Unis",
+    "source": "commons",
+    "auteur": "TechnoSquirrel69",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Staircase_on_SW_13th_Ave,_Portland,_Oregon,_U.S.jpg",
+    "statut": "validée",
+    "note": "Vérification : Structure et marches en acier nettement visibles. Contre-vérification : Escalier extérieur en acier galvanisé à marches métalliques et limons en profilés ; terme juste."
+  },
+  {
+    "id": "escalier-en-bois-01",
+    "termId": "escalier-en-bois",
+    "fichier": "commons/escalier-en-bois-01.webp",
+    "rectangle": null,
+    "lieu": "Valdivia, Chili",
+    "source": "commons",
+    "auteur": "Socovesa",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Casona_recuperada_por_Socovesa,_calle_General_Lagos,_Valdivia.jpg",
+    "statut": "validée",
+    "note": "Vérification : Marches, limon, rampe en bois, très clair. Contre-vérification : Escalier entièrement en bois, marches, limon et rampe à balustres ; terme juste."
+  },
+  {
+    "id": "escalier-en-bois-03",
+    "termId": "escalier-en-bois",
+    "fichier": "commons/escalier-en-bois-03.webp",
+    "rectangle": null,
+    "lieu": "Gnemern, Allemagne",
+    "source": "commons",
+    "auteur": "Jörg Blobelt",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:19870924090NR_Gnemern_(J%C3%BCrgenshagen)_Wasserschlo%C3%9F_Treppe.jpg",
+    "statut": "validée",
+    "note": "Vérification : Marches, balustres et boiseries en bois. Contre-vérification : Escaliers à marches, limons et rampes à balustres en bois dans un hall boisé ; terme juste."
+  },
+  {
+    "id": "escalier-de-secours-05",
+    "termId": "escalier-de-secours",
+    "fichier": "commons/escalier-de-secours-05.webp",
+    "rectangle": {
+      "x": 0.25,
+      "y": 0.15,
+      "largeur": 0.48,
+      "hauteur": 0.64
+    },
+    "lieu": "Oradea, Roumanie",
+    "source": "commons",
+    "auteur": "Szilas",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2025-05-03_Oradea_detail_83.jpg",
+    "statut": "validée",
+    "note": "Vérification : Escalier extérieur métallique de façade, encadré. Contre-vérification : Escalier métallique extérieur en zigzag accroché à la façade, bien cadré ; terme juste."
+  },
+  {
+    "id": "escalier-mecanique-01",
+    "termId": "escalier-mecanique",
+    "fichier": "commons/escalier-mecanique-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Thomas Leuthard from Zug, Switzerland",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:14027985019_-_Flickr_-_Thomas_Leuthard.jpg",
+    "statut": "validée",
+    "note": "Vérification : Marches mobiles évidentes. Contre-vérification : Escalier mécanique vu dans l'axe, marches rainurées et mains courantes caoutchouc ; terme juste."
+  },
+  {
+    "id": "escalier-mecanique-06",
+    "termId": "escalier-mecanique",
+    "fichier": "commons/escalier-mecanique-06.webp",
+    "rectangle": {
+      "x": 0.02,
+      "y": 0.1,
+      "largeur": 0.42,
+      "hauteur": 0.88
+    },
+    "lieu": "Francfort, Allemagne",
+    "source": "commons",
+    "auteur": "Chabe01",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Acc%C3%A8s_Gare_Hauptwache_S-Bahn_Biebergasse_-_Francfort-sur-le-Main_(DE71)_-_2025-11-29_-_10.jpg",
+    "statut": "validée",
+    "note": "Vérification : Escalator encadré, escalier fixe écarté par le rectangle. Contre-vérification : Le rectangle désigne l'escalier mécanique, distinct de l'escalier fixe voisin laissé hors cadre ; terme juste."
+  },
+  {
     "id": "cage-d-escalier-06",
     "termId": "cage-d-escalier",
     "fichier": "commons/cage-d-escalier-06.webp",
@@ -5397,6 +5878,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Co-operative_Building_(51219051019).jpg",
     "statut": "validée",
     "note": "Vérification : Barre continue nette et dominante ; supports atypiques. Contre-vérification : Tube inox continu porté par des supports sur un muret d'escalier : main courante en gros plan."
+  },
+  {
+    "id": "perron-03",
+    "termId": "perron",
+    "fichier": "commons/perron-03.webp",
+    "rectangle": {
+      "x": 0.15,
+      "y": 0.52,
+      "largeur": 0.58,
+      "hauteur": 0.4
+    },
+    "lieu": "Stara Łomnica, Pologne",
+    "source": "commons",
+    "auteur": "Jacek Halicki",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2015_Dw%C3%B3r_%C5%9Arodkowy_w_Starej_%C5%81omnicy_03.JPG",
+    "statut": "validée",
+    "note": "Vérification : Perron typique, encadré. Contre-vérification : Escalier extérieur entre murets menant à une plateforme devant la porte d'entrée, bien cadré ; perron typique."
+  },
+  {
+    "id": "perron-04",
+    "termId": "perron",
+    "fichier": "commons/perron-04.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.79,
+      "largeur": 0.56,
+      "hauteur": 0.17
+    },
+    "lieu": "Barcelone",
+    "source": "commons",
+    "auteur": "Enric",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:003_Vil%C2%B7la_Florida,_c._Muntaner_(Barcelona).jpg",
+    "statut": "validée",
+    "note": "Vérification : Perron de villa, marches encadrées. Contre-vérification : Petit escalier extérieur à quelques marches et palier devant l'entrée, désigné par le rectangle ; perron typique."
   },
   {
     "id": "mitigeur-01",

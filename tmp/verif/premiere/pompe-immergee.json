@@ -1,0 +1,58 @@
+{
+  "termId": "pompe-immergee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pompe à jet d'eau de laboratoire beige avec manomètre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe de laboratoire, pas immergée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Un ouvrier retire d'un forage une pompe cylindrique couverte de boue, avec tuyau bleu et crépine.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.43,
+        "largeur": 0.52,
+        "hauteur": 0.45
+      },
+      "lieu": "Honduras",
+      "note": "Pompe immergée cylindrique sortie d'un puits, encadrée de près."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne de pompiers avec une motopompe dans un garage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe de surface, noir et blanc."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cale sèche vide vue d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bouée jaune soulevée par une grue dans un port.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cale sèche vue de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

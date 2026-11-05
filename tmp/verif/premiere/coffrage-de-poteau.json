@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "Whittier, États-Unis",
       "note": "Panneaux de pile de pont inclinés, forme non lisible ; ambigu avec banche."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan d'un étai télescopique galvanisé posé sur un plancher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étai, pas un coffrage de poteau."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Étai métallique contre un mur de brique dans une pièce en rénovation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étai, pas un coffrage de poteau."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Étai métallique sous un plafond à solives bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étai, pas un coffrage de poteau."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pile d'étais rouges près d'un coffrage en planches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berlin",
+      "note": "Étais stockés, pas de poteau."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Sous-face d'un coffrage de dalle en bois portée par des étais rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage de dalle, pas de poteau."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pile d'étais métalliques rouillés sur un rack.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étais stockés."
     }
   ]
 }

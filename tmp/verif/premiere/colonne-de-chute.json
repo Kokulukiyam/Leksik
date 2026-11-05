@@ -1,0 +1,53 @@
+{
+  "termId": "colonne-de-chute",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Salle de machines avec grosses tuyauteries industrielles bleues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyauterie industrielle, pas une colonne de chute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vanne à volant sur une tuyauterie sous un toit en tôle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vanne."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tubes noirs isolés alignés en usine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tubes en stock, pas une colonne en place."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Machine rouillée envahie par la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grosses conduites rouillées couchées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vieux tracteur à vapeur de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

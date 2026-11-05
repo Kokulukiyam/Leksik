@@ -1,0 +1,53 @@
+{
+  "termId": "spot-encastre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Boutique de Hong Kong avec rails de spots et suspensions en osier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Spots sur rail et suspensions, pas des spots encastrés ; éclairage trop petit."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rayon de jouets sous un plafond blanc parsemé de petits points lumineux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Spots minuscules, noyés dans la scène, pas lisibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Entrée de restaurant avec panneaux publicitaires et plafond au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Sujet principal : panneaux ; spots à peine visibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Boutique de vêtements sous un plafond à lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Éclairage non lisible, scène commerciale."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Passage de centre commercial, plafond à lames avec luminaires cylindriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Luminaires en semi-saillie, petits ; confusion possible avec plafonnier/suspension."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Devanture de boutique avec petits spots au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Spots trop petits et peu nets."
+    }
+  ]
+}

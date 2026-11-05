@@ -1,0 +1,53 @@
+{
+  "termId": "extracteur-d-air",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux grands ventilateurs industriels dans un caisson d'extraction de bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Installation industrielle, confusion avec centrale de traitement d'air."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bouche ronde à ailettes au plafond, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Diffuseur et non extracteur ; image traitée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ventilateur blanc à six pales monté dans une fenêtre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Extracteur de fenêtre typique, net et dominant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rond-point et immeuble au loin (sculpture).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jerez",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Caisson d'extraction de fumée sur un toit au crépuscule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taïwan",
+      "note": "Élément petit et peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Église, petit élément sur le mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Serres",
+      "note": "Extracteur minuscule."
+    }
+  ]
+}

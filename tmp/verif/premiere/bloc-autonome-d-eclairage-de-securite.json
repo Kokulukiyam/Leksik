@@ -1,0 +1,58 @@
+{
+  "termId": "bloc-autonome-d-eclairage-de-securite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Publicité ancienne imprimée pour un éclairage de secours.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document imprimé, texte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Quai de métro avec passants flous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne",
+      "note": "Pas de BAES lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bloc de secours mural à deux lampes avec pictogramme de sortie vert.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.49,
+        "y": 0.59,
+        "largeur": 0.17,
+        "hauteur": 0.27
+      },
+      "lieu": "Shenzhen, Chine",
+      "note": "BAES typique, cadré de près ; texte chinois sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Couloir de métro avec défibrillateur et panneau de sortie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne",
+      "note": "Élément principal : défibrillateur ; panneau trop petit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Voiture de police vue d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Serbie",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hublot rond avec panneau Sortie en hébreu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jérusalem",
+      "note": "Simple panneau, texte visible, pas un BAES."
+    }
+  ]
+}

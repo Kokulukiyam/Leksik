@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Lame d'acier triangulaire, objet entier et net ; fond détouré mais photo réelle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Archéologue agenouillée qui gratte le sol avec une petite truelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Usage archéologique, outil trop petit et flou."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvrier courbé qui lisse du béton frais devant une toupie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Seattle, États-Unis",
+      "note": "Outil non identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gravure d'une truelle d'argent de cérémonie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam",
+      "note": "Gravure, truelle d'apparat."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pierre de façade sculptée figurant une truelle bleue, avec l'inscription « In de blauwe troeffel ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam",
+      "note": "Sculpture avec texte donnant la réponse."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carte de visite gravée d'un fabricant de truelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Gravure avec texte."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Truelle triangulaire à lame d'acier usée et manche en bois posée sur un enduit jaune, vue du dessus.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo réelle nette, lame triangulaire et manche coudé bien visibles."
     }
   ]
 }

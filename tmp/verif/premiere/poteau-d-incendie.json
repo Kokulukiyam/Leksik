@@ -1,0 +1,53 @@
+{
+  "termId": "poteau-d-incendie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Borne d'incendie ornée turquoise et rouge, dans une haie taillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stanley, Îles Falkland",
+      "note": "Modèle décoratif atypique, petit dans l'image."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Planche gravée de pièces de fonderie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plaque en fonte « Fire Hydrant » au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valenzuela",
+      "note": "Plaque d'hydrant souterrain avec texte, pas un poteau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rangée de panneaux rouges d'indication d'hydrants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bâle",
+      "note": "Panneaux, texte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Borne rose écaillée contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet dégradé, forme et fonction incertaines."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tampon d'hydrant au sol en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Regard au sol, pas un poteau."
+    }
+  ]
+}

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Seau accessoire et petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Photo ancienne noir et blanc d'un seau en bois dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dakota du Sud",
+      "note": "Seau en bois ancien, ni maçon ni lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Seau en cuivre ancien à anse en fer sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Turquie",
+      "note": "Seau décoratif en cuivre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Seau d'argent ancien (aspersoir) photographié en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pays-Bas",
+      "note": "Objet liturgique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Piles de seaux souples noirs dans un magasin de bricolage, avec panneau en anglais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Royaume-Uni",
+      "note": "Seaux sans anse visible, panneau lisible, contexte magasin."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Main tenant un seau blanc en plastique couvert d'inscriptions.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hawaï",
+      "note": "Seau écrit, pas de maçon."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Seaux bleus suspendus à une nacelle de laveur de vitres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contexte nettoyage, pas de maçon."
     }
   ]
 }

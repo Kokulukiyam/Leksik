@@ -1,0 +1,58 @@
+{
+  "termId": "projecteur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ruines d'un incendie, camions de pompiers et projecteurs de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Icheon, Corée",
+      "note": "Scène sombre, projecteurs éblouis."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Camions de pompiers et projecteurs au-dessus de décombres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Icheon, Corée",
+      "note": "Projecteurs surexposés, sujet confus."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mât de stade vu en contre-plongée, projecteurs minuscules en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ostrava",
+      "note": "Projecteurs trop petits et sombres."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Terrain de football de nuit avec trois lampes éblouissantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Manchester",
+      "note": "Lampes éblouies, sans forme lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Couronne de nombreux projecteurs orientables au sommet d'un mât, ciel de crépuscule.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.31,
+        "largeur": 0.66,
+        "hauteur": 0.35
+      },
+      "lieu": "",
+      "note": "Batterie de projecteurs nette et dominante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Théâtre éclairé de nuit, petits luminaires muraux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sutton",
+      "note": "Sujet : façade ; projecteurs non identifiables."
+    }
+  ]
+}

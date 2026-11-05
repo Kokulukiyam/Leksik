@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grands tubes d'acier blancs horizontaux butonnant une fouille de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Genève, Suisse",
+      "note": "Butons horizontaux, pas des étais télescopiques."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Photo noir et blanc d'une rue d'Amsterdam avec façade étayée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam",
+      "note": "Étais invisibles à l'échelle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade coloniale à La Havane dont les arcades sont étayées par des charpentes de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Havane, Cuba",
+      "note": "Étais en bois, pas métalliques."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux colonnes antiques maintenues par des haubans de tubes métalliques obliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pompéi, Italie",
+      "note": "Haubanage oblique, pas un étai télescopique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gravure ancienne d'une taverne étayée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Église en restauration avec échafaudage métallique à côté d'un clocher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vigarano Mainarda, Italie",
+      "note": "Échafaudage, étais non visibles."
     }
   ]
 }

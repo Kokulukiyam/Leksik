@@ -1,0 +1,53 @@
+{
+  "termId": "bac-a-laver",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Évier extérieur avec robinet dans un meuble en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évier de cuisine extérieur."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petit urinoir ou cuvette blanche murale sur fond de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un bac à laver."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Robinet laiton et bac de marbre dans une boutique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plan de travail décoratif, pas un bac à laver."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo noir et blanc d un petit évier dans une tente de marché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évier, élément petit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Peinture murale en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, pas une photo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Page de catalogue gravée de bacs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+[
+  {
+    "cle": "appui-de-fenetre/07",
+    "accord": true,
+    "raison": "Tablette d'appui sombre saillante sous une fenêtre métallique, bien cadrée par le rectangle ; terme juste."
+  },
+  {
+    "cle": "corniche/07",
+    "accord": true,
+    "raison": "Couronnement mouluré en saillie au sommet du portique, désigné par le rectangle ; corniche lisible, aucun terme voisin proposé ne convient mieux."
+  },
+  {
+    "cle": "corniche/09",
+    "accord": false,
+    "raison": "Le rectangle englobe la tablette d'angle et les consoles qui la portent ; « la console » est une réponse plausible."
+  },
+  {
+    "cle": "rosace-de-plafond/01",
+    "accord": true,
+    "raison": "Rosace moulée à feuilles au centre d'un plafond à nervures rayonnantes, bien cadrée ; terme juste."
+  },
+  {
+    "cle": "rosace-de-plafond/03",
+    "accord": true,
+    "raison": "Grande rosace circulaire dorée au centre d'un plafond orné, nettement désignée ; terme juste."
+  },
+  {
+    "cle": "rosace-de-plafond/06",
+    "accord": true,
+    "raison": "Rosace de plafond circulaire en plâtre très en relief, au centre du plafond, bien cadrée ; terme juste."
+  },
+  {
+    "cle": "echelle/08",
+    "accord": true,
+    "raison": "Échelle aluminium appuyée contre une façade, bien désignée par le rectangle ; terme juste."
+  },
+  {
+    "cle": "mosquee-soudano-sahelienne/02",
+    "accord": true,
+    "raison": "Grande mosquée de Djenné en banco avec contreforts, pinacles et torons, désignée par le rectangle ; terme juste."
+  },
+  {
+    "cle": "mosquee-soudano-sahelienne/06",
+    "accord": true,
+    "raison": "Mosquée en banco hérissée de torons, à pinacles et contreforts, clairement désignée ; terme juste."
+  },
+  {
+    "cle": "crinting/01",
+    "accord": false,
+    "raison": "Palissade de tiges végétales verticales (roseau, typha ou mil) plutôt que de lattes de bambou tressées ; confusion possible avec le typha."
+  },
+  {
+    "cle": "ronier/01",
+    "accord": true,
+    "raison": "Rôniers (Borassus) à stipe élancé et feuilles en éventail dans une savane, bien lisibles ; terme juste."
+  },
+  {
+    "cle": "ronier/03",
+    "accord": true,
+    "raison": "Peuplement de rôniers aux stipes droits et palmes en éventail, typique ; terme juste."
+  },
+  {
+    "cle": "maison-coloniale/04",
+    "accord": true,
+    "raison": "Maison à étage enduite avec galeries à garde-corps métalliques et persiennes, typique de l'architecture coloniale sénégalaise ; terme juste."
+  },
+  {
+    "cle": "maison-coloniale/05",
+    "accord": true,
+    "raison": "Maison à étage enduite d'ocre, balcons en fer forgé sur consoles et persiennes, typique du Sénégal colonial ; terme juste."
+  },
+  {
+    "cle": "porte-a-panneaux/01",
+    "accord": true,
+    "raison": "Porte en bois dont le cadre assemblé encadre de nombreux panneaux moulurés, de face et dominante ; terme juste."
+  },
+  {
+    "cle": "fenetre-a-la-francaise/01",
+    "accord": false,
+    "raison": "Fenêtres anglaises à petits-bois, fermées : le sens d'ouverture (probablement vers l'extérieur) n'est pas visible, pourrait être un châssis fixe."
+  },
+  {
+    "cle": "fenetre-a-la-francaise/03",
+    "accord": false,
+    "raison": "Fenêtre de pub anglais fermée, vue de l'extérieur : rien n'indique des vantaux ouvrant vers l'intérieur ; ambigu."
+  },
+  {
+    "cle": "cremone/04",
+    "accord": false,
+    "raison": "Ferrure à tige ronde baguée et poignée à levier sur support, qui ressemble plutôt à une espagnolette (présente parmi les réponses)."
+  },
+  {
+    "cle": "ouvrant/06",
+    "accord": false,
+    "raison": "Le rectangle désigne bien le châssis ouvert, mais « le vantail » est une réponse tout aussi juste pour cet élément."
+  },
+  {
+    "cle": "huisserie/01",
+    "accord": true,
+    "raison": "Cadre de porte en bois sans vantail dans un mur de brique, avec traces de ferrage, bien cadré ; terme juste."
+  },
+  {
+    "cle": "petit-bois/05",
+    "accord": true,
+    "raison": "Gros plan sur des baguettes blanches croisées divisant un vitrage en carreaux ; terme juste."
+  },
+  {
+    "cle": "petit-bois/06",
+    "accord": true,
+    "raison": "Gros plan sur des baguettes en bois croisées qui divisent le vitrage d'une fenêtre ; terme juste."
+  },
+  {
+    "cle": "profile-aluminium/06",
+    "accord": true,
+    "raison": "Coupe d'un profilé aluminium extrudé à chambres creuses, avec joints, vue de près ; terme juste."
+  },
+  {
+    "cle": "gond/01",
+    "accord": false,
+    "raison": "Le rectangle couvre une ferrure boulonnée au pilier avec collier enserrant le montant du portail : lecture possible comme charnière ou penture, pas un gond coudé scellé typique."
+  },
+  {
+    "cle": "serrure-en-applique/01",
+    "accord": true,
+    "raison": "Boîtier de serrure vissé en saillie sur un vantail en bois, avec bec-de-cane, bien cadré ; terme juste."
+  },
+  {
+    "cle": "serrure-en-applique/03",
+    "accord": true,
+    "raison": "Gros plan sur un boîtier de serrure en applique avec entrée de clé, fixé en saillie ; terme juste."
+  },
+  {
+    "cle": "gache/03",
+    "accord": true,
+    "raison": "Gâche métallique vissée dans le dormant, avec l'ouverture où s'engage le pêne, en gros plan ; terme juste."
+  },
+  {
+    "cle": "bouton-de-porte/01",
+    "accord": false,
+    "raison": "Bouton en bois isolé sur fond blanc avec étiquette de musée : rien ne montre qu'il s'agit d'un bouton de porte (meuble, tiroir possible)."
+  },
+  {
+    "cle": "bouton-de-porte/05",
+    "accord": false,
+    "raison": "Objet en laiton isolé avec étiquette, hors contexte : pourrait être une boule de rampe ou un embout ; pas lisible comme bouton de porte."
+  },
+  {
+    "cle": "targette/06",
+    "accord": true,
+    "raison": "Petit verrou plat sur platine ornée, manœuvré par un bouton, avec son crampon sur le dormant ; targette typique."
+  },
+  {
+    "cle": "judas/05",
+    "accord": true,
+    "raison": "Judas optique dans une porte de chambre d'hôtel, bien cadré par le rectangle ; terme juste."
+  },
+  {
+    "cle": "ferme-porte/01",
+    "accord": true,
+    "raison": "Ferme-porte hydraulique ancien à bras articulé fixé en haut d'une porte, en gros plan ; terme juste."
+  },
+  {
+    "cle": "ferme-porte/02",
+    "accord": true,
+    "raison": "Ferme-porte à bras articulé fixé en haut d'une porte, vu de dessous ; terme juste."
+  },
+  {
+    "cle": "barre-antipanique/05",
+    "accord": true,
+    "raison": "Barre horizontale à poussée sur la largeur d'une porte de salle, nettement visible ; terme juste."
+  },
+  {
+    "cle": "barre-antipanique/06",
+    "accord": true,
+    "raison": "Barre antipanique métallique traversant une porte vitrée de sortie ; terme juste."
+  },
+  {
+    "cle": "escalier-metallique/01",
+    "accord": true,
+    "raison": "Escalier extérieur en acier galvanisé à marches métalliques et limons en profilés ; terme juste."
+  },
+  {
+    "cle": "escalier-en-bois/01",
+    "accord": true,
+    "raison": "Escalier entièrement en bois, marches, limon et rampe à balustres ; terme juste."
+  },
+  {
+    "cle": "escalier-en-bois/03",
+    "accord": true,
+    "raison": "Escaliers à marches, limons et rampes à balustres en bois dans un hall boisé ; terme juste."
+  },
+  {
+    "cle": "escalier-de-secours/05",
+    "accord": true,
+    "raison": "Escalier métallique extérieur en zigzag accroché à la façade, bien cadré ; terme juste."
+  },
+  {
+    "cle": "escalier-mecanique/01",
+    "accord": true,
+    "raison": "Escalier mécanique vu dans l'axe, marches rainurées et mains courantes caoutchouc ; terme juste."
+  },
+  {
+    "cle": "escalier-mecanique/06",
+    "accord": true,
+    "raison": "Le rectangle désigne l'escalier mécanique, distinct de l'escalier fixe voisin laissé hors cadre ; terme juste."
+  },
+  {
+    "cle": "perron/03",
+    "accord": true,
+    "raison": "Escalier extérieur entre murets menant à une plateforme devant la porte d'entrée, bien cadré ; perron typique."
+  },
+  {
+    "cle": "perron/04",
+    "accord": true,
+    "raison": "Petit escalier extérieur à quelques marches et palier devant l'entrée, désigné par le rectangle ; perron typique."
+  }
+]

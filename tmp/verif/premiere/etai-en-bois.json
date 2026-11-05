@@ -8,6 +8,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gravure, hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande fouille de métro avec gros tubes d'acier horizontaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Butons métalliques."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tranchée avec buse béton et étrésillons rouges entre panneaux de blindage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toronto",
+      "note": "Blindage métallique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fouille avec grands tubes blancs de butonnage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Genève",
+      "note": "Métal, pas bois."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tranchée blindée avec étrésillons tubulaires rouillés et ouvrier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Métal."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bâtiment en brique en construction dont la dalle de toiture est soutenue par de nombreuses perches et bastaings en bois.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.19,
+        "largeur": 0.2,
+        "hauteur": 0.4
+      },
+      "lieu": "Pune, Inde",
+      "note": "Étais en bois bien visibles sous la dalle, rectangle sur la partie la plus lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux colonnes antiques maintenues par des haubans de tubes métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pompéi",
+      "note": "Métal, obliques."
     }
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "termId": "onduleur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Éclipse solaire totale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wyoming",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Parc solaire en panoramique, petit boîtier sous les panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paldiski",
+      "note": "Onduleur minuscule dans une scène de panoramique déformée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Onduleur solaire blanc à ailettes fixé au mur, avec plaque signalétique.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîtier mural typique, dominant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur ouvert d'un onduleur avec transformateur torique, outils au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Composants internes, désordre ; pas un onduleur reconnaissable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux boîtiers noirs sur une table reliés à des batteries par de nombreux câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montage de test confus, mélange onduleur et batteries."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Onduleur gris au mur au-dessus d'un bloc de batteries sur support.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.31,
+        "y": 0.02,
+        "largeur": 0.21,
+        "hauteur": 0.23
+      },
+      "lieu": "Kenya",
+      "note": "Rectangle sur l'onduleur à écran bleu ; les batteries restent hors cadre."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "wc-suspendu",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cabinet de WC avec cuvette sur pied, chasse à chaîne en hauteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cuvette posée au sol."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan de cuvette de WC avec siphon de sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cuvette au sol."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte de cabine WC accessible dans un train.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de cuvette visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle de bains ancienne avec cuvette et baignoire carrelées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cuvette ancienne au sol."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Local de rangement avec étagères et aspirateur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cabine de bateau avec lavabo, douche et WC qui semble suspendu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fixation au mur non certaine, scène chargée."
+    }
+  ]
+}

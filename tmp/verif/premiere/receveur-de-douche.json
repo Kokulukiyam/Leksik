@@ -1,0 +1,53 @@
+{
+  "termId": "receveur-de-douche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Baignoire/bac long blanc caché par un rideau de douche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt une baignoire, rideau."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Robinetterie murale ancienne en laiton dans une douche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de receveur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fond de douche en mosaïque dans des bains-douches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol maçonné mosaïque, plutôt douche à l italienne."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cabine de douche de sous-marin avec pomme et robinets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Receveur non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Receveur de douche carré, blanc crème, à fond antidérapant et bonde, dans un angle carrelé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Royaume-Uni",
+      "note": "Receveur clair et dominant, même s il est sale."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mitigeur et pomme de douche carrés sur mur carrelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de receveur."
+    }
+  ]
+}

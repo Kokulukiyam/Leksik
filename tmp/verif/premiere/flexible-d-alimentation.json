@@ -1,0 +1,53 @@
+{
+  "termId": "flexible-d-alimentation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Raccord de tuyau d incendie en laiton posé au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Raccord pompier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Raccord de flexible ferroviaire en fonte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériel ferroviaire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Raccord de flexible ferroviaire ouvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériel ferroviaire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Robinet de jardin avec raccord rapide et tuyau d arrosage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyau d arrosage, pas un flexible inox."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vannes et raccords d alimentation incendie rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colonne sèche, pas un flexible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Raccord de tuyauterie industriel en aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Industriel."
+    }
+  ]
+}

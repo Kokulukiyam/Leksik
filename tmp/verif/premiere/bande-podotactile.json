@@ -1,0 +1,53 @@
+{
+  "termId": "bande-podotactile",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade bleue d'un pub irlandais, bande de pavés au sol en bas à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cork, Irlande",
+      "note": "Élément minuscule."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pavage gris avec une bande jaune à barres en relief et une plaque d'égout.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Barres de guidage plutôt que plots d'éveil, plaque d'égout dominante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Quai de tramway avec bande sombre striée, liseré jaune et dalles rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zagreb",
+      "note": "Bande striée de guidage, pas de plots ; ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chemin sombre d'un parc avec bande jaune au sol et potelets verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Bande peu lisible, de nuit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan de plots bombés sur plaque à motifs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de texture sans contexte, pas une bande au sol."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rue commerçante de Hong Kong avec petit bout de bande jaune au trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Bande minuscule."
+    }
+  ]
+}

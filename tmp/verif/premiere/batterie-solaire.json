@@ -1,0 +1,63 @@
+{
+  "termId": "batterie-solaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rangée de quatre batteries à bornes rouges dans un compartiment sous un bus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.25,
+        "y": 0.48,
+        "largeur": 0.45,
+        "hauteur": 0.3
+      },
+      "lieu": "",
+      "note": "Banc de batteries clair, cadré."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Femme soulevant un couvercle en bois sur des batteries.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leh",
+      "note": "Batteries peu lisibles, personne au premier plan."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Batterie à flux vanadium avec tuyauterie blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "UNSW",
+      "note": "Équipement atypique, confusion possible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux batteries vertes, régulateur et onduleur sur un établi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wisconsin",
+      "note": "Plusieurs équipements, batteries petites."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux batteries à bornes sur un établi, régulateur de charge à côté.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.15,
+        "largeur": 0.65,
+        "hauteur": 0.75
+      },
+      "lieu": "Wisconsin",
+      "note": "Batteries dominantes, cadrées ; régulateur laissé hors cadre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Batteries et prise murale vues de près, plan de travail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wisconsin",
+      "note": "Doublon moins net de 05 ; boîtier voisin en bord de cadre."
+    }
+  ]
+}

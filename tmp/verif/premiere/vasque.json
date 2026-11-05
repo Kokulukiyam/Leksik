@@ -1,0 +1,53 @@
+{
+  "termId": "vasque",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Page de catalogue gravée de éviers industriels.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Siphon et tuyauterie sous un lavabo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas la vasque."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand bac de pierre fontaine dans un cimetière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fontaine, pas une vasque sanitaire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle de bains moderne avec baignoire, meuble double lavabo et douche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue d ensemble, vasque non dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vieux lavabo mural sale avec deux robinets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lavabo fixé au mur, pas une vasque."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Lavabo blanc avec mitigeur et flacons de CBD.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Produits au premier plan, lavabo."
+    }
+  ]
+}

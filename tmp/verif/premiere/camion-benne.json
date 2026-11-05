@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Camion rigide à benne basculante, de face, net ; le tombereau est incompatible avec le terme, donc acceptable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Porte-engins transportant un camion benne blanc sur une plateforme dans une rue urbaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Singapour",
+      "note": "Camion transporté, benne peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Camion benne américain blanc et noir à caisse basculante, vu de trois quarts.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Colorado, États-Unis",
+      "note": "Camion et caisse basculante entiers, nets, typiques."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plusieurs bennes géantes inclinées sur un terrain de latérite, sans camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bennes isolées, peu claires."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Benne relevée d'un camion qui déverse du gravier sur un chantier ferroviaire, cabine hors champ.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Camion partiellement visible ; meilleure photo disponible ailleurs."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Châssis-cabine utilitaire électrique à plateau grillagé sur un stand de salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanovre",
+      "note": "Plateau fixe, pas basculant."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit utilitaire Iveco à benne basculante levée sur un stand de salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rheinstetten",
+      "note": "Camionnette de salon, moins typique."
     }
   ]
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "diffuseur-d-air",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Serre vitrée avec ventilateur de plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montréal",
+      "note": "Pas de diffuseur."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancienne photo en noir et blanc d'une salle de cinéma avec bouches rondes au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Francisco",
+      "note": "Bouches minuscules, image ancienne."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade d'école abandonnée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Local en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Angle d'école en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sanitaires en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek",
+      "note": "Hors sujet."
+    }
+  ]
+}

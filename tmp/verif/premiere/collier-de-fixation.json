@@ -1,0 +1,58 @@
+{
+  "termId": "collier-de-fixation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux tubes verts verticaux dans un mur fixés par deux colliers métalliques à garniture noire.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.49,
+        "y": 0.39,
+        "largeur": 0.3,
+        "hauteur": 0.15
+      },
+      "lieu": "",
+      "note": "Les deux colliers sont encadrés, l'élément est clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tuyau rose aérien dans une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de collier visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Feuillard perforé qui maintient un tuyau noir sur un parpaing, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, collier peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grands supports de tuyauterie industriels gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Supports industriels, pas un collier mural."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tuyau rose sur poteaux devant une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de collier."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Galerie technique sombre avec tuyaux et personnage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène encombrée, collier non identifiable."
+    }
+  ]
+}

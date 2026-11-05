@@ -1,0 +1,53 @@
+{
+  "termId": "urinoir",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d un urinoir mural en céramique mauve clair, carrelage autour.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Gelsenkirchen, Allemagne",
+      "note": "Urinoir dominant et net."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cuvette de WC rose couverte de neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "WC, pas un urinoir."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Auge d urinoir collectif au pied d un mur carrelé, floue et sale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image floue, auge peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rangée de cuvettes anciennes dans des latrines de camp.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "WC/latrines, pas des urinoirs."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Urinoir sale avec une main tenant une bouteille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Main et bouteille parasitent."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Entrée de toilettes publiques d un bâtiment à colombages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Extérieur, aucun appareil visible."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "boite-de-derivation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Électriciens devant des tableaux dans un local technique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tableaux, pas de boîte de dérivation."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Armoire de rue sur un trottoir devant une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffret de rue, pas une boîte de dérivation."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Faux plafond ouvert montrant des conduits métalliques et trois boîtes de jonction métalliques rectangulaires.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.31,
+        "y": 0.34,
+        "largeur": 0.14,
+        "hauteur": 0.29
+      },
+      "lieu": "",
+      "note": "Rectangle sur la boîte centrale ; les étiquettes de tension ne donnent pas la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Câbles dans une armoire de centrale, avec texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, texte visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Boîtier de jonction de câbles posé dans une tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Jonction de câbles souterraine, pas une boîte de dérivation de bâtiment."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Montage de quatre vues d'une boîte ronde grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planche composite."
+    }
+  ]
+}

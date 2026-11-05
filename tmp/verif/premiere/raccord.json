@@ -1,0 +1,58 @@
+{
+  "termId": "raccord",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros tuyau courbe rouillé couvert de rouille et de dépôts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce corrodée, ni raccord clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Raccord électrosoudable noir de prise en charge sur une conduite jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Piquage en té, pourrait être pris pour un té."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Assortiment de raccords en cuivre sur fond gris : coudes, té, manchons, bouchon, réduction.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.49,
+        "y": 0.49,
+        "largeur": 0.26,
+        "hauteur": 0.26
+      },
+      "lieu": "",
+      "note": "Rectangle sur la réduction, raccord générique non ambigu (ni coude ni té)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur orange d'une conduite avec fils effilochés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tuyau métallique avec collier de serrage et jonction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu clair, flou."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grand té PVC gris à côté d'un petit té en cuivre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ce sont des tés, ambigu avec le té."
+    }
+  ]
+}

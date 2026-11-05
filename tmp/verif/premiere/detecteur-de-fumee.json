@@ -1,0 +1,58 @@
+{
+  "termId": "detecteur-de-fumee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Boîtier blanc rond sur une poutre devant des fresques d'église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Solvytchegodsk",
+      "note": "Petit, noyé dans la fresque, identité incertaine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'un détecteur de fumée rond blanc sur un panneau.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.07,
+        "largeur": 0.57,
+        "hauteur": 0.78
+      },
+      "lieu": "Japon",
+      "note": "Détecteur net et dominant, cadré ; texte japonais non révélateur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détecteur beige au plafond sous un panneau d'avertissement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Graz",
+      "note": "Panneau donne la réponse (« firedetector »)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lustre de Murano dans un salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Palais de Queluz",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Boîtier mural rectangulaire sans fil avec témoins CO.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détecteur combiné non rond, texte de marque visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier en bois, détecteurs minuscules au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou",
+      "note": "Détecteurs trop petits."
+    }
+  ]
+}

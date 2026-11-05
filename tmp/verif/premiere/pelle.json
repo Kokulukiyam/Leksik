@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sculpture d'un oiseau perché sur le manche d'une pelle géante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hampshire",
+      "note": "Sculpture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Jardinier retournant la terre avec une bêche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bêche de jardin, confusion possible, lame peu visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pelles dorées de cérémonie plantées dans le sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boston",
+      "note": "Pelle d'apparat avec inscription."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sculpture de sable en as de pique, avec deux participants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Trou creusé dans une pelouse avec un tas de terre et un manche dressé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lame à peine visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petite pelle de jardin blanche à manche vert à côté d'une corne, sur du gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gobi",
+      "note": "Petite pelle jouet/jardin, pas l'outil de chantier."
     }
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "termId": "douchette-wc",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "WC à la turque/sur pied avec douchette et flexibles au mur, petit cabinet carrelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Douchette petite, deux flexibles, ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bidet portatif ancien en tôle émaillée sur pieds pliants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bidet de musée, pas une douchette."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Douchette à main chromée sur son support et son flexible tressé au mur, à côté d un WC.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.42,
+        "y": 0.08,
+        "largeur": 0.08,
+        "hauteur": 0.3
+      },
+      "lieu": "Krasnodar, Russie",
+      "note": "Rectangle sur la douchette, bien visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle de bains d hôtel avec bidet, WC et lavabo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bidet, pas de douchette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mitigeur mural avec poignée blanche et tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas clairement une douchette WC."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bidet ancien en faïence sur piètement en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bidet de musée."
+    }
+  ]
+}

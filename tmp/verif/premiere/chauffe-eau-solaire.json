@@ -1,0 +1,53 @@
+{
+  "termId": "chauffe-eau-solaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sphères métalliques posées sur une terrasse derrière un grillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ce sont des dispositifs sphériques, pas un chauffe-eau à capteurs et ballon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Capteur plan vitré posé au sol près de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Capteur seul, sans ballon."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pose de capteurs sur une toiture avec une grue de levage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier de capteurs, pas l'ensemble ballon et capteurs."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux chauffe-eau solaires sur un toit-terrasse, très petits dans le ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petits dans l'image."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vases d'expansion rouge et blanc et ballon dans un local.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chauffe-eau solaire à tubes sous vide : ballon horizontal gris au-dessus d'un panneau de tubes incliné, devant une maison.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble ballon horizontal et capteur à tubes, net et dominant."
+    }
+  ]
+}

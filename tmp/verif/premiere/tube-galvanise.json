@@ -1,0 +1,53 @@
+{
+  "termId": "tube-galvanise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Page ancienne en noir et blanc montrant de grosses conduites en acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne de conduite forcée, pas galvanisée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo ancienne d une grande conduite sur camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Conduite rouillée, non galvanisée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Longues piles de tubes d acier noirs sur un quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Acier noir, pas galvanisé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuyaux bleutés sur un mur, image très retouchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Teintes retouchées, matière non identifiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Homme portant des tubes gris dans la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tubes petits, galvanisation non certaine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rosace de bronze avec tube de terre cuite sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

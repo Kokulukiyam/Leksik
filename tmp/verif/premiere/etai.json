@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Caroline du Nord, États-Unis",
       "note": "Pas un étai."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade d'une basilique en brique soutenue par de grandes pièces obliques (étais inclinés) avec grillage au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étais inclinés d'église, non verticaux, peu lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvrier qui découpe un tube de carton de coffrage au sol sur une chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun étai."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tranchée blindée avec ouvriers posant une canalisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blindage de tranchée, pas un étai."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sous-face d'un plancher en coffrage (poutrelles bois) portée par de nombreux étais métalliques télescopiques verticaux.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étais verticaux bien visibles et dominants, typiques ; le terme générique convient (étai métallique incompatible)."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo noir et blanc d'un pignon de brique avec une poutre oblique d'étaiement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wateringen, Pays-Bas",
+      "note": "Oblique, peu lisible, noir et blanc."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pont en reconstruction avec grande poutre treillis rouge et coffrage au-dessus d'un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Genève, Suisse",
+      "note": "Étais non lisibles, élément dominant = treillis."
     }
   ]
 }

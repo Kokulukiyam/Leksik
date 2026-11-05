@@ -1,0 +1,63 @@
+{
+  "termId": "capteur-solaire-thermique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Trois chauffe-eau solaires à tubes avec ballons sur un toit-terrasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble avec ballons, ambigu avec le chauffe-eau solaire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau noir sur un support dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau photovoltaïque."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan sur les tubes sous vide d'un capteur solaire thermique, avec le ballon blanc en haut.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.37,
+        "largeur": 1.0,
+        "hauteur": 0.63
+      },
+      "lieu": "",
+      "note": "Rectangle sur les tubes seuls, hors ballon : capteur thermique sans doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Panneaux photovoltaïques sur un toit près d'un ballon blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux photovoltaïques."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chauffe-eau solaire sur terrasse ; les tubes sous vide inclinés sont encadrés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.47,
+        "largeur": 0.75,
+        "hauteur": 0.42
+      },
+      "lieu": "",
+      "note": "Rectangle sur les tubes, sans le ballon ni les tuyaux."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Schéma en coupe d'un capteur à air avec légendes allemandes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, textes visibles."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "liaison-frigorifique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Clapet d'extraction blanc sur un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille de ventilation, hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grue hissant un équipement de climatisation le long d'un immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Singapour",
+      "note": "Pas de liaison visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pompe à chaleur grise posée dehors avec tuyaux blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gaines blanches de piscine, pas une liaison frigorifique en cuivre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chat sur un capot devant des unités extérieures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Varna",
+      "note": "Liaisons non visibles, sujet : le chat."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Dos d'une unité de climatisation avec raccords et tubes cuivre, image floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tubes courts et flous, mal éclairés, peu lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Militaire ouvrant un groupe extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

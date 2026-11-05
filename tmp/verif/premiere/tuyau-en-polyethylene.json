@@ -1,0 +1,53 @@
+{
+  "termId": "tuyau-en-polyethylene",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tas de longs tubes rigides orange posés sur une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tubes rigides orange, pas un tuyau souple noir en couronne."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pile de tubes en plastique entourés de filet sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyaux rigides en tas, pas de couronne noire identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Conduites en terre cuite antiques dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terre cuite, pas du polyéthylène."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux urinoirs muraux et leur tuyauterie blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet : urinoirs."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue sombre dans l'axe d'un tube.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible, pas de tuyau PE identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tuyau souple blanc enroulé dans un emballage avec colliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blanc, sous emballage avec texte visible : pas un tuyau PE noir."
+    }
+  ]
+}

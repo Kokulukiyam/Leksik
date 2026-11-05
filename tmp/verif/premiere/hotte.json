@@ -1,0 +1,58 @@
+{
+  "termId": "hotte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Hotte aspirante en inox au-dessus d'un plan, vue de dessous.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Milan",
+      "note": "Hotte classique, dominante et claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Colonne de fonte et sacs dans une cuisine de monastère.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alcobaça",
+      "note": "Pas de hotte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Hotte inox sous des placards de cuisine, conduit au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.13,
+        "y": 0.46,
+        "largeur": 0.7,
+        "hauteur": 0.28
+      },
+      "lieu": "Italie",
+      "note": "Hotte bien identifiable, cadrée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grande cuisine monacale à hotte-cheminée centrale sur colonnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alcobaça",
+      "note": "Confusion possible avec une cheminée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Dessous d'un caisson de hotte en bois au-dessus d'un carrelage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "Hotte partiellement visible, peu parlante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cuisine monacale avec grande hotte sur colonnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alcobaça",
+      "note": "Confusion possible avec une cheminée."
+    }
+  ]
+}

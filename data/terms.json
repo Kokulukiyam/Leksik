@@ -681,6 +681,13 @@
     ]
   },
   {
+    "id": "echelle",
+    "terme": "l'échelle",
+    "definition": "Appareil portatif formé de deux montants reliés par des barreaux, appuyé contre un ouvrage pour monter.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
+  },
+  {
     "id": "nacelle-elevatrice",
     "terme": "la nacelle élévatrice",
     "definition": "Engin muni d'un panier ou d'une plateforme élevé par un bras ou des ciseaux pour travailler en hauteur.",
@@ -2138,6 +2145,32 @@
     ]
   },
   {
+    "id": "rosace-de-plafond",
+    "terme": "la rosace de plafond",
+    "definition": "Ornement circulaire en plâtre moulé au centre d'un plafond, souvent autour du point d'accrochage du lustre.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "moulure",
+      "rosace"
+    ]
+  },
+  {
+    "id": "mosquee-soudano-sahelienne",
+    "terme": "la mosquée soudano-sahélienne",
+    "definition": "Mosquée en banco aux murs épais rythmés de contreforts et de pinacles, hérissée de torons.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 2,
+    "incompatibles": [
+      "toron",
+      "banco",
+      "crepissage",
+      "minaret",
+      "maison-coloniale",
+      "ginna"
+    ]
+  },
+  {
     "id": "laterite",
     "terme": "la latérite",
     "definition": "Terre ou roche rouge riche en fer, très répandue en Afrique de l'Ouest, utilisée en remblai, en piste ou en moellons.",
@@ -2146,6 +2179,29 @@
     "incompatibles": [
       "piste-lateritique",
       "pierre-de-laterite"
+    ]
+  },
+  {
+    "id": "ronier",
+    "terme": "le rônier",
+    "definition": "Palmier dont le stipe, très résistant aux termites, est débité en lattes et en poutres pour la charpente.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 2,
+    "incompatibles": [
+      "toron"
+    ]
+  },
+  {
+    "id": "maison-coloniale",
+    "terme": "la maison coloniale",
+    "definition": "Maison à étage enduite de couleurs, à balcon ou galerie de bois ou de fer et à persiennes, typique de Saint-Louis, de Gorée et du Plateau à Dakar.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 2,
+    "incompatibles": [
+      "maison-de-signare",
+      "balcon",
+      "persienne",
+      "ginna"
     ]
   },
   {
@@ -2164,6 +2220,17 @@
     "definition": "Ouvrage mobile, en bois, métal ou verre, qui ferme une baie de passage dans un mur ou une cloison.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1
+  },
+  {
+    "id": "porte-a-panneaux",
+    "terme": "la porte à panneaux",
+    "definition": "Porte dont le cadre en bois assemblé encadre plusieurs panneaux en creux ou en relief.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "porte",
+      "porte-a-deux-vantaux"
+    ]
   },
   {
     "id": "porte-metallique",
@@ -2253,6 +2320,64 @@
     ]
   },
   {
+    "id": "huisserie",
+    "terme": "l'huisserie",
+    "definition": "Cadre en bois ou en métal qui encadre l'ouverture d'une porte et sur lequel elle est ferrée, posé avant les enduits sur chantier.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "dormant",
+      "chambranle"
+    ]
+  },
+  {
+    "id": "petit-bois",
+    "terme": "le petit-bois",
+    "definition": "Baguette de bois ou de métal qui divise le vitrage d'une fenêtre en carreaux.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "fenetre",
+      "fenetre-a-la-francaise",
+      "fenetre-a-guillotine",
+      "porte-fenetre",
+      "chassis-fixe"
+    ]
+  },
+  {
+    "id": "profile-aluminium",
+    "terme": "le profilé aluminium",
+    "definition": "Barre d'aluminium extrudée de section creuse, utilisée pour fabriquer cadres et vantaux de menuiserie.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "menuiserie-aluminium",
+      "aluminium"
+    ]
+  },
+  {
+    "id": "serrure-en-applique",
+    "terme": "la serrure en applique",
+    "definition": "Serrure dont le boîtier est vissé en saillie sur la face intérieure du vantail.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "serrure",
+      "serrure-a-encastrer",
+      "serrure-multipoint"
+    ]
+  },
+  {
+    "id": "gache",
+    "terme": "la gâche",
+    "definition": "Pièce métallique fixée sur le dormant, dans laquelle s'engage le pêne de la serrure.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "pene"
+    ]
+  },
+  {
     "id": "poignee-de-fenetre",
     "terme": "la poignée de fenêtre",
     "definition": "Poignée fixée sur l'ouvrant qui commande le verrouillage d'une fenêtre.",
@@ -2283,6 +2408,16 @@
     ]
   },
   {
+    "id": "targette",
+    "terme": "la targette",
+    "definition": "Petit verrou plat monté sur platine, manœuvré par un bouton, qui ferme une porte ou une fenêtre de l'intérieur.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "verrou"
+    ]
+  },
+  {
     "id": "cadenas",
     "terme": "le cadenas",
     "definition": "Serrure mobile munie d'un anneau en U que l'on passe dans un moraillon ou une chaîne.",
@@ -2290,6 +2425,77 @@
     "priorite": 1,
     "incompatibles": [
       "moraillon"
+    ]
+  },
+  {
+    "id": "judas",
+    "terme": "le judas",
+    "definition": "Petite lentille optique traversant une porte d'entrée pour voir à l'extérieur sans ouvrir.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "porte-d-entree"
+    ]
+  },
+  {
+    "id": "ferme-porte",
+    "terme": "le ferme-porte",
+    "definition": "Mécanisme à bras articulé fixé en haut d'une porte, qui la referme automatiquement.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "porte-coupe-feu"
+    ]
+  },
+  {
+    "id": "barre-antipanique",
+    "terme": "la barre antipanique",
+    "definition": "Barre horizontale sur toute la largeur d'une porte de sortie, qui la déverrouille par simple poussée.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "porte-coupe-feu",
+      "porte-metallique"
+    ]
+  },
+  {
+    "id": "escalier-metallique",
+    "terme": "l'escalier métallique",
+    "definition": "Escalier en acier, souvent à limons en profilés et marches en tôle ou caillebotis.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "escalier"
+    ]
+  },
+  {
+    "id": "escalier-en-bois",
+    "terme": "l'escalier en bois",
+    "definition": "Escalier dont les marches, limons et rampe sont en bois.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "escalier"
+    ]
+  },
+  {
+    "id": "escalier-de-secours",
+    "terme": "l'escalier de secours",
+    "definition": "Escalier métallique extérieur, accroché à la façade, qui sert d'issue en cas d'incendie.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "escalier-metallique"
+    ]
+  },
+  {
+    "id": "escalier-mecanique",
+    "terme": "l'escalier mécanique",
+    "definition": "Escalier dont les marches sont entraînées par un mécanisme et défilent en continu.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "trottoir-roulant"
     ]
   },
   {
@@ -2311,6 +2517,18 @@
     "incompatibles": [
       "rampe-d-escalier",
       "barreau-de-rampe"
+    ]
+  },
+  {
+    "id": "perron",
+    "terme": "le perron",
+    "definition": "Petit escalier extérieur terminé par une plateforme, devant la porte d'entrée d'un bâtiment.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "escalier",
+      "escalier-droit",
+      "escalier-en-beton"
     ]
   },
   {

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Qom, Iran",
       "note": "Pas un coffrage."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Structure métallique en treillis vue en contre-plongée sur ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cintre métallique, pas de coffrage bois."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Homme fabriquant des chaises en bois dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Windhoek, Namibie",
+      "note": "Menuiserie, pas coffrage."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pont en construction avec cintre rouge et échafaudage de tours métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Plzeň, Tchéquie",
+      "note": "Étaiement métallique, coffrage bois non lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Homme fabriquant des chaises en bois dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Windhoek, Namibie",
+      "note": "Menuiserie, pas coffrage."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tablier de pont en construction porté par un échafaudage métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Plzeň, Tchéquie",
+      "note": "Coffrage non lisible, étaiement métallique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Maison américaine à véranda ornée de dentelles de bois blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

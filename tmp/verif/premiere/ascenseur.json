@@ -1,0 +1,53 @@
+{
+  "termId": "ascenseur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Hall d hôtel/navire avec plusieurs portes palières d ascenseur alignées de part et d autre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "AIDAprima",
+      "note": "Portes palières nettes, sans ambiguïté."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte d ascenseur au fond d un hall encombré de grilles, affiches et parapluies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément petit et noyé dans le décor."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte palière d un ascenseur ancien vert pâle avec voyant d étage, au centre de l image.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Athènes, Grèce",
+      "note": "Porte palière dominante et claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade d un immeuble de bureaux avec gaine vitrée d ascenseurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Façade, ascenseurs pas des portes palières."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte d ascenseur gris dans une cage d escalier hélicoïdal, graffitis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier très présent, risque de confusion."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cabine de monte-voitures dans l ancien tunnel de l Elbe, structure métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt monte-charge, pas de portes palières."
+    }
+  ]
+}

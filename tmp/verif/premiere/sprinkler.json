@@ -1,0 +1,53 @@
+{
+  "termId": "sprinkler",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plaque jaune « Sprinklers throughout building » griffonnée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau avec texte, pas un sprinkler."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Arrosage d'un terrain de rugby.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montevideo",
+      "note": "Arroseur de pelouse, pas un sprinkler d'incendie."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Voûte ornée de mosaïques et chapiteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Washington",
+      "note": "Pas de sprinkler visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Enfants devant un jet d'eau en brume dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brumisateur de jardin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plafond technique d'un passage souterrain, nombreux tuyaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nagoya",
+      "note": "Têtes de sprinkler minuscules, scène confuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sphères en pierre dans un square.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brooklyn",
+      "note": "Hors sujet."
+    }
+  ]
+}

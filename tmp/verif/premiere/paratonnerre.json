@@ -1,0 +1,53 @@
+{
+  "termId": "paratonnerre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tige métallique de paratonnerre à pointes, fixée en haut d'un mât avec son ruban de cuivre, sur ciel bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paratonnerre conventionnel net, conducteur de descente visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tige ornée en fer forgé au-dessus d'un fronton arrondi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt épi décoratif, doute."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Guirlandes lumineuses en tunnel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tête de paratonnerre à dispositif d'amorçage, en acier avec pointes, sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paratonnerre à dispositif d'amorçage, photo de produit claire ; marque peu visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pince de serrage galvanisée sur câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Accessoire, pas le paratonnerre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Couronnes de fil métallique sur palette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

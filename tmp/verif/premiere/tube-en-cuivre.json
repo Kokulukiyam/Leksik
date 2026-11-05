@@ -1,0 +1,53 @@
+{
+  "termId": "tube-en-cuivre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Passage de tubes de cuivre isolés dans une cloison coupe-feu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tubes noyés dans isolant, peu lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol de béton jaunâtre avec un tuyau et débris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Trois tubes de cuivre rigides traversant un mur de parpaings, joints de mastic coupe-feu à leur pied.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Grand Coulee Dam, États-Unis",
+      "note": "Tubes orangés nets et dominants."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Brasage d un tube de cuivre au chalumeau dans un étau, tube noirci par la chauffe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de brasage, tube peu lisible comme cuivre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Machines abandonnées rouillées dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Brasage d un tube de cuivre, étape de chauffe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Idem 04, mêmes réserves."
+    }
+  ]
+}

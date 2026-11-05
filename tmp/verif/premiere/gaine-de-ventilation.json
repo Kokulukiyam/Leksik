@@ -1,0 +1,53 @@
+{
+  "termId": "gaine-de-ventilation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros conduits ronds en tôle sur un toit-terrasse, au-dessus d'un bâtiment technique.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Kentucky, États-Unis",
+      "note": "Gaines circulaires de ventilation, nettes et dominantes."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Salle de classe avec conduits apparents au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Drammen",
+      "note": "Sujet principal : salle de classe ; gaines secondaires."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Conduits isolés et mousse dans un volume sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image terne, éléments confus."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier sur nacelle près de conduits calorifugés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky",
+      "note": "Scène de chantier encombrée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan sur de la tôle galvanisée marquée Bethcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture sans forme de conduit, marque visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Conduits isolés au plafond d'un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, éclairage terne."
+    }
+  ]
+}

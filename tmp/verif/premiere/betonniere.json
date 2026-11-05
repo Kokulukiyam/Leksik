@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Camion-toupie encombré d'engins voisins, ambiguïté."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan HDR très travaillé d'une couronne dentée rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible, retouchée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bétonnière à cuve inclinable sur deux roues, suspendue à une chaîne de grue devant le ciel, image fortement vignettée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Portugal",
+      "note": "Même sujet que 10 mais retouchée (vignettage) : on garde l'originale."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vieille installation de malaxage rouillée avec benne de chargement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériel industriel illisible, pas une bétonnière de chantier typique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bétonnière à cuve rotative conique, moteur et volant de basculement, sur deux roues, suspendue à une chaîne devant le ciel.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Portugal",
+      "note": "Machine entière, nette et dominante, sans autre élément ; cuve et volant bien visibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Camion toupie déversant dans une pompe à béton, avec ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-malaxeur et pompe, pas la bétonnière de chantier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cuve d'un malaxeur industriel de centrale à béton avec échelle jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prague",
+      "note": "Centrale industrielle, pas la bétonnière."
     }
   ]
 }

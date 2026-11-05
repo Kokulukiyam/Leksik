@@ -1,0 +1,53 @@
+{
+  "termId": "tube-ppr",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan de gros tubes plastiques gris empilés vus de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros tubes d adduction, PPR non identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Descente pluviale en gros plan avec écoulement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un tube PPR."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de pub abîmé par l humidité avec tuyaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Perfusion sur le dos d une main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Médical."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Machines abandonnées rouillées dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tranchée de chantier avec gaine noire annelée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gaine drainage, pas du PPR."
+    }
+  ]
+}

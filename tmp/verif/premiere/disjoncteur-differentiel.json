@@ -1,0 +1,53 @@
+{
+  "termId": "disjoncteur-differentiel",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Intérieur d'un coffret métallique avec câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de disjoncteur visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancien appareil noir à manette verte et bouton rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil ancien, rien ne prouve un différentiel moderne, sale."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tableau électrique nord-américain, disjoncteurs en rangées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Disjoncteurs ordinaires, aucun différentiel identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Boîte de coupure murale 'National' sur mur rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Interrupteur à couteau, pas un différentiel."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tableau électrique encastré ouvert avec capot.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petit, pas de différentiel identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tableau de disjoncteurs avec étiquette de circuits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Disjoncteurs ordinaires, texte visible."
+    }
+  ]
+}

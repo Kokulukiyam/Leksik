@@ -1,0 +1,53 @@
+{
+  "termId": "pompe-de-surface",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Moteur électrique bleu abandonné au pied d'un mur, vu de l'arrière avec son capot de ventilateur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "On voit surtout le moteur, corps de pompe hors champ : doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Machine rouillée à trépied dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une pompe de surface identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chevalet de pompage de pétrole sous un arc-en-ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe à pétrole, autre sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo noir et blanc ancienne d'une motopompe dans une tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, petite, peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Salle de machines historique avec turbines et alternateurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Centrale, pas une pompe de surface."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'une roue à aubes de turbine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce interne, hors sujet."
+    }
+  ]
+}

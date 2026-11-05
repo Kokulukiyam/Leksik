@@ -12,6 +12,10 @@
     ],
     "incompatibles": [
       "marteau"
+    ],
+    "categoriesCommons": [
+      "Category:Sledgehammers",
+      "Category:Hammers"
     ]
   },
   "candidats": [
@@ -152,6 +156,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Sledgehammer_with_very_flexible_handle_-_02.jpg/1280px-Sledgehammer_with_very_flexible_handle_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3400,
       "hauteur": 2600
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Flickr - keystricken - Arlo.jpg",
+      "description": "The hair makes him look kind of sinister.",
+      "categories": [
+        "Sledgehammers",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "keystricken",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flickr_-_keystricken_-_Arlo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Flickr_-_keystricken_-_Arlo.jpg/1280px-Flickr_-_keystricken_-_Arlo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Armorer's Hammer MET 12.230.2 001feb2014.jpg",
+      "description": "German or French; Armorer's hammer; Miscellaneous",
+      "categories": [
+        "CC-Zero",
+        "Hammers",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Department of Arms and Armor, Metropolitan Museum of Art",
+        "Rogers Fund - Tools and household goods"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armorer%27s_Hammer_MET_12.230.2_001feb2014.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Armorer%27s_Hammer_MET_12.230.2_001feb2014.jpg/1280px-Armorer%27s_Hammer_MET_12.230.2_001feb2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2667,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:050519-N-9851B-003 - SN Walter Stewart holds a sledgehammer in preparation to release pelican hooks.jpg",
+      "description": "Yokosuka, Japan (May 19, 2005) - Seamen Walter Stewart, from Naperville, Ill., holds a sledgehammer in preparation to release the pelican hooks from the anchor chains aboard the Arleigh Burke-class destroyer USS Fitzgerald (DDG 62) prior to getting underway. U.S. Navy photo by Photographer’s Mate 2nd Class John L. Beeman (RELEASED)",
+      "categories": [
+        "People of Naperville, Illinois",
+        "Sledgehammers",
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Photographs taken on 2005-05-19",
+        "Yokosuka Naval Base in the 2000s",
+        "Aboard USS Fitzgerald (DDG-62)"
+      ],
+      "auteur": "U.S. Navy photo by Photographer’s Mate 2nd Class John L. Beeman",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:050519-N-9851B-003_-_SN_Walter_Stewart_holds_a_sledgehammer_in_preparation_to_release_pelican_hooks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/050519-N-9851B-003_-_SN_Walter_Stewart_holds_a_sledgehammer_in_preparation_to_release_pelican_hooks.jpg/1280px-050519-N-9851B-003_-_SN_Walter_Stewart_holds_a_sledgehammer_in_preparation_to_release_pelican_hooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2302
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Armorer's Hammer MET 12.230.98 001feb2014.jpg",
+      "description": "German or French; Armorer's hammer; Miscellaneous",
+      "categories": [
+        "CC-Zero",
+        "Hammers",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Department of Arms and Armor, Metropolitan Museum of Art",
+        "Rogers Fund - Tools and household goods"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armorer%27s_Hammer_MET_12.230.98_001feb2014.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Armorer%27s_Hammer_MET_12.230.98_001feb2014.jpg/1280px-Armorer%27s_Hammer_MET_12.230.98_001feb2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3059,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Massette en Cormier et poirier 2024.jpg",
+      "description": "A mallet in cormier (brown part) and pear tree.",
+      "categories": [
+        "CC-Zero",
+        "Sledgehammers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Use of Sorbus domestica"
+      ],
+      "auteur": "Myriampied3",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Massette_en_Cormier_et_poirier_2024.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Massette_en_Cormier_et_poirier_2024.jpg/1280px-Massette_en_Cormier_et_poirier_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Broken hammer DIY.jpg",
+      "description": "A broken hammer, bent nails, and wood, hints that you may be overdoing do-it-yourself",
+      "categories": [
+        "Taken with Nikon D800",
+        "Hammers",
+        "Metal nails",
+        "Do it yourself",
+        "Self-published work",
+        "Files by User:Lorax",
+        "Broken objects",
+        "United States photographs taken on 2020-06-30"
+      ],
+      "auteur": "Lorax",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_hammer_DIY.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Broken_hammer_DIY.jpg/1280px-Broken_hammer_DIY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7040,
+      "hauteur": 4693
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }
