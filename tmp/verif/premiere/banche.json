@@ -1,0 +1,45 @@
+{
+  "termId": "banche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maquette d'éléments blancs de construction sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maquette, pas une banche."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande élévation de banches métalliques à passerelles et échelles, montées pour couler un voile, avec benne de béton à la grue.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Banches verticales sur plusieurs niveaux, claires et dominantes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand voile de béton banché derrière un chantier terrassé, coffrage bois au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Banches non visibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bâtiment circulaire en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Des Moines, États-Unis",
+      "note": "Sans coffrage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Auvent en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Des Moines, États-Unis",
+      "note": "Sans coffrage."
+    }
+  ]
+}

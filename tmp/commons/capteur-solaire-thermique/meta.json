@@ -1,0 +1,120 @@
+{
+  "terme": {
+    "id": "capteur-solaire-thermique",
+    "terme": "le capteur solaire thermique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Panneau vitré ou à tubes sous vide qui capte la chaleur du soleil pour chauffer de l'eau.",
+    "priorite": 2,
+    "requetes": [
+      "solar thermal collector",
+      "capteur solaire thermique",
+      "evacuated tube collector"
+    ],
+    "incompatibles": [
+      "panneau-photovoltaique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:CSIRO ScienceImage 10645 Solar hot water units.jpg",
+      "description": "Solar hot water units mounted on the roof of an apartment building in Rizhao, China",
+      "categories": [
+        "Taken with Nikon D100",
+        "Rizhao",
+        "Evacuated tube solar thermal collectors",
+        "Photographs from CSIRO ScienceImage",
+        "CSIRO media uploaded by User:99of9",
+        "Solar hot water panels on roofs",
+        "Webarchive template wayback links"
+      ],
+      "auteur": "division, CSIRO",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_10645_Solar_hot_water_units.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/CSIRO_ScienceImage_10645_Solar_hot_water_units.jpg/1280px-CSIRO_ScienceImage_10645_Solar_hot_water_units.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20210604 Vegetation grows under the Hybrid PV Thermal panel.jpg",
+      "description": "Vegetation grows under the Hybrid PV Thermal panel",
+      "categories": [
+        "Self-published work",
+        "AgriThermoVoltaic",
+        "Photovoltaic thermal hybrid solar collector"
+      ],
+      "auteur": "Peter Graner Solar Greenergy",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20210604_Vegetation_grows_under_the_Hybrid_PV_Thermal_panel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/20210604_Vegetation_grows_under_the_Hybrid_PV_Thermal_panel.jpg/1280px-20210604_Vegetation_grows_under_the_Hybrid_PV_Thermal_panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Photo 10-01-15 9 43 14 am.jpg",
+      "description": "Solar ETC Type Technology",
+      "categories": [
+        "Evacuated tube solar thermal collectors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Darshangetsz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Photo_10-01-15_9_43_14_am.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Photo_10-01-15_9_43_14_am.jpg/1280px-Photo_10-01-15_9_43_14_am.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Israeli Laboratory. reflective Sunray on surface.jpg",
+      "description": "Next Generation of Ultra-Hybrid Bifacial Semi Transparent PV Thermal Panel",
+      "categories": [
+        "Self-published work",
+        "Photovoltaics by country",
+        "Photovoltaic thermal hybrid solar collector"
+      ],
+      "auteur": "Peter Graner Solar Greenergy",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Israeli_Laboratory._reflective_Sunray_on_surface.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Israeli_Laboratory._reflective_Sunray_on_surface.jpg/1280px-Israeli_Laboratory._reflective_Sunray_on_surface.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Solar water heater.jpg",
+      "description": "A roof-mounted solar water heater.",
+      "categories": [
+        "Taken with Sony NEX-3",
+        "Domestic heating",
+        "Evacuated tube solar thermal collectors",
+        "Self-published work",
+        "2012 photographs of Hong Kong by Mk2010"
+      ],
+      "auteur": "Mk2010",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solar_water_heater.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Solar_water_heater.jpg/1280px-Solar_water_heater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2396,
+      "hauteur": 3600
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:4-A1 Bild Grammer PVT-Luftkollektoren.jpg",
+      "description": "Beispiel PVT-Luftkollektor",
+      "categories": [
+        "Template Unknown (author)",
+        "Photovoltaic thermal hybrid solar collector"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4-A1_Bild_Grammer_PVT-Luftkollektoren.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/4-A1_Bild_Grammer_PVT-Luftkollektoren.jpg/1280px-4-A1_Bild_Grammer_PVT-Luftkollektoren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2812,
+      "hauteur": 1758
+    }
+  ]
+}

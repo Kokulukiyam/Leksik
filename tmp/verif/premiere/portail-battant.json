@@ -1,0 +1,53 @@
+{
+  "termId": "portail-battant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Portail à deux vantaux cintré entre piliers, éclairé de nuit sous un porche à guirlandes, panneaux rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion possible avec porte à deux vantaux, éclairage de nuit, scène chargée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Route avec une enseigne en fer au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de portail."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gravure japonaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Passerelle intérieure en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Portail de cour d'école taïwanaise, vantail grillagé de travers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image basse qualité, vantail mal défini."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Arche monumentale sur route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de portail."
+    }
+  ]
+}

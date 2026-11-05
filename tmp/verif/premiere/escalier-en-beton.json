@@ -1,0 +1,58 @@
+{
+  "termId": "escalier-en-beton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Volée droite en béton à marches et garde-corps en granito, entre deux murs, dans une cage d'hôtel.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.46,
+        "largeur": 0.72,
+        "hauteur": 0.42
+      },
+      "lieu": "Itaparica, Bahia, Brésil",
+      "note": "Escalier droit en béton, bien lisible ; cadre contrôlé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petit escalier extérieur de gare avec rampes métalliques, minuscule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Altenbeken, Allemagne",
+      "note": "Trop petit, panneaux visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier moquetté sombre dans un couloir avec affiches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moquette, matériau invisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand escalier éclairé de nuit devant une aire de service, enseigne visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Qingshui, Taïwan",
+      "note": "Nuit, texte, matériau douteux."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Galerie souterraine à marches taillées dans la roche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Roppe, France",
+      "note": "Pierre, pas béton."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier intérieur à marches bois et carrelage rouge, main courante inox.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas en béton."
+    }
+  ]
+}

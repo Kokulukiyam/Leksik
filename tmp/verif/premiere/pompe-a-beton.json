@@ -1,0 +1,53 @@
+{
+  "termId": "pompe-a-beton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chantier de nuit sous la neige : camion-toupie et deux camions-pompes aux bras déployés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, États-Unis",
+      "note": "Scène chargée, plusieurs engins ; la pompe n'est pas isolée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Coulage de béton dans un tunnel, tuyau souple tenu par des ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Pompe elle-même peu identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Camion pompe blanc à flèche articulée rouge repliée, garé sous une station-service.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Philippines",
+      "note": "Camion à bras de pompe à béton clair ; le nom de société n'est pas la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand mât articulé blanc d'une pompe à béton déployé au-dessus du radier d'une fouille armée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Zurich, Suisse",
+      "note": "Flèche de pompe en action sur chantier, bien visible ; marque lisible sans donner le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue de village avec un tracteur routier blanc et, au loin, un camion-pompe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Anthisnes, Belgique",
+      "note": "Pompe trop petite et lointaine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur un tableau de commande d'une pompe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cosne, France",
+      "note": "Détail de commande, machine non lisible."
+    }
+  ]
+}

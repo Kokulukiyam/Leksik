@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "goulotte",
+    "terme": "la goulotte",
+    "categorie": "Réseaux et équipements",
+    "definition": "Profilé en plastique à couvercle fixé en surface du mur, dans lequel passent les câbles.",
+    "priorite": 2,
+    "requetes": [
+      "cable trunking",
+      "goulotte électrique",
+      "wall cable duct"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Supercritical Water Oxidation Processing Building (16608916409).jpg",
+      "description": "Blue Grass Chemical Agent-Destruction Pilot Plant electricians assemble a cable raceway in the Supercritical Water Oxidation Processing Building. The raceway will hold electrical cables under a floating floor in this facility.",
+      "categories": [
+        "Cable trays",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Raised floors",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Processing_Building_(16608916409).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Processing_Building_%2816608916409%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Processing_Building_%2816608916409%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Kenworth at Kessock Bridge resurfacing works (9060630699).jpg",
+      "description": "Swiss registered Kenworth unit with Aeschlimann asphalt tipper trailer working on the Kessock Bridge resurfacing.",
+      "categories": [
+        "Kessock Bridge",
+        "Kenworth T600",
+        "Asphalter trucks",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Files uploaded by Ultra7",
+        "Trucks in Scotland",
+        "Ultra7 temp trucks"
+      ],
+      "auteur": "Glen Wallace from Inverness, Scotland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kenworth_at_Kessock_Bridge_resurfacing_works_(9060630699).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kenworth_at_Kessock_Bridge_resurfacing_works_%289060630699%29.jpg/1280px-Kenworth_at_Kessock_Bridge_resurfacing_works_%289060630699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2884,
+      "hauteur": 1681
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cabtray 09.JPG",
+      "description": "Wire cable tray",
+      "categories": [
+        "CC-Zero",
+        "Cable trays",
+        "Self-published work"
+      ],
+      "auteur": "Leotard",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cabtray_09.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Cabtray_09.JPG/1280px-Cabtray_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cable tray with cables 20170514.jpg",
+      "description": "Chemin de câbles.",
+      "categories": [
+        "Cable ties",
+        "Taken with Panasonic Lumix DMC-G7",
+        "Cable trays",
+        "Photographs taken on 2017-05-14"
+      ],
+      "auteur": "Santeri Viinamäki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cable_tray_with_cables_20170514.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Cable_tray_with_cables_20170514.jpg/1280px-Cable_tray_with_cables_20170514.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 3448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Inverness - panoramio (25).jpg",
+      "description": "Inverness",
+      "categories": [
+        "Kessock Bridge",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "United Kingdom photographs taken on 2015-06-02",
+        "Files with coordinates missing SDC location of creation",
+        "June 2015 in Inverness",
+        "Photos from Panoramio ID 2900405"
+      ],
+      "auteur": "Tanya Dedyukhina",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Inverness_-_panoramio_(25).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Inverness_-_panoramio_%2825%29.jpg/1280px-Inverness_-_panoramio_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cabtray 07.jpg",
+      "description": "Cable trays mounted on the ceiling",
+      "categories": [
+        "CC-Zero",
+        "Cable trays",
+        "Self-published work"
+      ],
+      "auteur": "Leotard",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cabtray_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cabtray_07.jpg/1280px-Cabtray_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    }
+  ]
+}

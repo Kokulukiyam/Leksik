@@ -1,0 +1,53 @@
+{
+  "termId": "ampoule",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ampoule allumée dans une lanterne, sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre et mal lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Immense ampoule de 100 000 W dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chicago",
+      "note": "Objet atypique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ampoule nue allumée pendue au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut évoquer une suspension."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan d'une ampoule à incandescence allumée, filament visible.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Oak Hill, États-Unis",
+      "note": "Ampoule claire et dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ampoule à incandescence claire à culot à vis sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo typique, nette et sans ambiguïté."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Devanture avec enseigne et petite ampoule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amasra, Turquie",
+      "note": "Ampoule minuscule."
+    }
+  ]
+}

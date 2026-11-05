@@ -1,0 +1,53 @@
+{
+  "termId": "prise-de-courant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bloc de compteurs sous globe sur un mur de parpaings.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ce sont des compteurs, pas des prises."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bloc de compteurs avec lierre sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Compteurs, pas des prises."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan de socles de compteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Compteurs, pas des prises."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Prise murale blanche à trois alvéoles sur mur texturé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Prise nette et dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fiche multiple (adaptateur) posée sur moquette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Adaptateur mobile, pas une prise murale."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bloc de prises murales en saillie, certaines avec fiches noires.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Lillesand, Norvège",
+      "note": "Prises claires, toutes la même réponse."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "chauffe-eau-electrique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade d'une usine moderne (siège Tesy).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chumen, Bulgarie",
+      "note": "Bâtiment, pas un chauffe-eau."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petit chauffe-eau mural instantané Atmor avec bouton et deux tuyaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil instantané sans ballon : ne correspond pas à la définition (ballon cylindrique)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Groupe de personnes devant un panneau de marque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Page de publicité ancienne avec dessins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minneapolis, États-Unis",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Brûleur à gaz vu sous un chauffe-eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brûleur à gaz, pas un chauffe-eau électrique."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sculpture de jardin en zinc avec tuyaux noirs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Œuvre d'art, pas un chauffe-eau."
+    }
+  ]
+}

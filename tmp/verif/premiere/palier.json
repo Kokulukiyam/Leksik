@@ -1,0 +1,53 @@
+{
+  "termId": "palier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Volée à marches turquoise et balustres jaunes menant à une porte, palier en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg, Allemagne",
+      "note": "Palier peu visible, la volée domine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rampe d'escalier en contre-plongée dans une galerie avec tableaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de palier clair."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand escalier palais, balustrade et arc vus d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Milan, Italie",
+      "note": "Palier ambigu, mal cadré."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier en ruine courbe, sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, ruine."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Espace de vente à plusieurs niveaux avec escaliers métalliques et foule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Steinhude, Allemagne",
+      "note": "Foule, confus."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier métallique noir avec colonne rouge d'incendie, palier au bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palier non dominant, sombre."
+    }
+  ]
+}

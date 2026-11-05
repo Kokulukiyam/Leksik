@@ -1,0 +1,58 @@
+{
+  "termId": "poste-a-souder",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Groupe de soudage jaune sur remorque près de travaux de voirie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tallinn, Estonie",
+      "note": "Ressemble à un groupe électrogène ; doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bouteilles de gaz de soudage bleues et vertes dans un rack.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Bouteilles, pas le poste."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Poste à souder à arc indien en armoire métallique avec sélecteurs, prises polarité et bornes porte-électrode/masse.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.26,
+        "largeur": 0.78,
+        "hauteur": 0.53
+      },
+      "lieu": "Inde",
+      "note": "Poste net de face, rectangle exclut le panneau de dessins au-dessus."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Jeune soudeur à l'arc travaillant une pièce en fer, étincelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bamako, Mali",
+      "note": "Montre la soudure, le poste n'est pas visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Camion bleu avec remorque rouge dans une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dnipro, Ukraine",
+      "note": "Poste non identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Silhouette rouge derrière un rideau de soudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun poste visible."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "faux-plafond-en-dalles",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond de dalles blanches grisées avec luminaires fluorescents, coin d'une pièce avec store.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille peu visible, image terne."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plafond de dalles amovibles blanches 60x60 dans une ossature apparente, avec luminaires, détecteur et grille.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image typique et nette, dalles et ossature en T visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Concert dans un café.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Laneville, États-Unis",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue au-dessus d'un faux plafond, sous-face sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Russie",
+      "note": "Mal éclairée, illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Intérieur de café, plafond en haut du cadre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brattleboro, États-Unis",
+      "note": "Plafond secondaire, non dominant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plafond de dalles irrégulières dans une école de musique, luminaire en applique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "URSS",
+      "note": "Appareillage irrégulier sans ossature visible, doute."
+    }
+  ]
+}

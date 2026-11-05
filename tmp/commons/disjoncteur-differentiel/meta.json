@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "disjoncteur-differentiel",
+    "terme": "le disjoncteur différentiel",
+    "categorie": "Réseaux et équipements",
+    "definition": "Disjoncteur muni d'un bouton test, qui coupe le courant en cas de fuite vers la terre pour protéger les personnes.",
+    "priorite": 2,
+    "requetes": [
+      "residual current circuit breaker",
+      "disjoncteur différentiel",
+      "RCD test button"
+    ],
+    "incompatibles": [
+      "disjoncteur",
+      "tableau-electrique"
+    ],
+    "categoriesCommons": [
+      "Category:Circuit breakers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Circuit breaker.jpg",
+      "description": "found the circuit breaker and it wasn't hook up to anything",
+      "categories": [
+        "Circuit breakers",
+        "Self-published work",
+        "Wikiversity WikiProjects"
+      ],
+      "auteur": "Pnguyen6224",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Circuit_breaker.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Circuit_breaker.jpg/1280px-Circuit_breaker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Hlavní jistič.jpg",
+      "description": "starý hlavní třífázový jistič MEZ J1K 50 - 20 A; 500V, 50Hz, ČSN 35 4171",
+      "categories": [
+        "Circuit breakers",
+        "Self-published work",
+        "Original files by Palu"
+      ],
+      "auteur": "Palu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hlavn%C3%AD_jisti%C4%8D.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Hlavn%C3%AD_jisti%C4%8D.jpg/1280px-Hlavn%C3%AD_jisti%C4%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1932,
+      "hauteur": 2576
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:EEUU(GE)BreakerpanelInnards.jpg",
+      "description": "American fuse box. Some lacks seen on image: Corrosion on neutral wire. Neutral wire could be lined only by copper wire, but American NEC not applying this requirement at all. Corrosion on circuit breakers. American NEC not requiring stainless materials to terminals for panel products (in difference from Europe), but corronsion might cause fire hazards. It means, that every few years energy user should spend big money servicing it. Potentials on electric appliences might not be counterbalanced or ground contact might be not reliable, that is why outlet PB1J27 should be protected by Ground Faul",
+      "categories": [
+        "Circuit breakers",
+        "PD-user",
+        "Fuse boxes"
+      ],
+      "auteur": "Original téléversé par Where sur Wikipédia anglais .",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EEUU(GE)BreakerpanelInnards.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/EEUU%28GE%29BreakerpanelInnards.jpg/1280px-EEUU%28GE%29BreakerpanelInnards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1832,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Circuit breaker and a cut-out.jpg",
+      "description": "Found near the air fryer and the fridge",
+      "categories": [
+        "Circuit breakers",
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Jiafei Slay Queen",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Circuit_breaker_and_a_cut-out.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Circuit_breaker_and_a_cut-out.jpg/1280px-Circuit_breaker_and_a_cut-out.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Electrical panel and subpanel with cover removed from subpanel.jpg",
+      "description": "Electrical panel and subpanel with cover removed from subpanel. Shows a typical set of electrical service panels in a United States residential dwelling.",
+      "categories": [
+        "Circuit breakers",
+        "Self-published work",
+        "Fuse boxes"
+      ],
+      "auteur": "Gvolk",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Electrical_panel_and_subpanel_with_cover_removed_from_subpanel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Electrical_panel_and_subpanel_with_cover_removed_from_subpanel.jpg/1280px-Electrical_panel_and_subpanel_with_cover_removed_from_subpanel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2026-05-17 08 36 08 Circuit breaker panel within a house in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "Circuit breaker panel within a house in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Circuit breakers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Interiors of houses in Ewing Township, New Jersey",
+        "May 2026 in New Jersey",
+        "United States photographs taken on 2026-05-17",
+        "Famartin's 2026 photos",
+        "Famartin's May 2026 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-05-17_08_36_08_Circuit_breaker_panel_within_a_house_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2026-05-17_08_36_08_Circuit_breaker_panel_within_a_house_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-2026-05-17_08_36_08_Circuit_breaker_panel_within_a_house_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4284,
+      "hauteur": 5712
+    }
+  ]
+}

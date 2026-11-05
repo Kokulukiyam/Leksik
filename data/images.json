@@ -2530,6 +2530,45 @@
     "note": "Vérification : Dalle de couronnement en pente nette, encadrée. Contre-vérification : Chaperon en pierre en pente couronnant un mur de brique, nettement désigné."
   },
   {
+    "id": "tessons-de-verre-01",
+    "termId": "tessons-de-verre",
+    "fichier": "commons/tessons-de-verre-01.webp",
+    "rectangle": null,
+    "lieu": "Torquay, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Partonez",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Wall_topped_with_Broken_Glass,_Parsonshole_Quarry_(2).jpg",
+    "statut": "validée",
+    "note": "Vérification : Tessons nets dans le mortier, sans ambiguïté. Contre-vérification : Gros plan de tessons de bouteilles vertes scellés dans le mortier d'une crête de mur ; sans ambiguïté."
+  },
+  {
+    "id": "tessons-de-verre-02",
+    "termId": "tessons-de-verre",
+    "fichier": "commons/tessons-de-verre-02.webp",
+    "rectangle": null,
+    "lieu": "Torquay, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Partonez",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Wall_topped_with_Broken_Glass,_Parsonshole_Quarry_(1).jpg",
+    "statut": "validée",
+    "note": "Vérification : Crête de mur hérissée de tessons, très lisible. Contre-vérification : Crête de mur maçonnée hérissée de tessons de verre vert et transparent ; terme juste."
+  },
+  {
+    "id": "tessons-de-verre-05",
+    "termId": "tessons-de-verre",
+    "fichier": "commons/tessons-de-verre-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Mitch Ames",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Broken_glass_atop_wall_at_Fremantle_Prison_02.JPG",
+    "statut": "validée",
+    "note": "Vérification : Image la plus claire du principe : tessons scellés en crête de mur. Contre-vérification : Tessons de bouteilles brunes plantés dans le mortier en tête de mur ; illustration typique."
+  },
+  {
     "id": "fil-barbele-02",
     "termId": "fil-barbele",
     "fichier": "commons/fil-barbele-02.webp",
@@ -3264,5 +3303,630 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:De%C3%A1k_Ferenc_Platz_12,_Fenster,_2023_Nagykanizsa.jpg",
     "statut": "validée",
     "note": "Vérification : Lames horizontales et coffre bien visibles ; rectangle sur la fenêtre centrale. Contre-vérification : Volet roulant à lames baissé aux trois quarts dans une fenêtre, bien cadré ; terme juste."
+  },
+  {
+    "id": "grille-de-defense-04",
+    "termId": "grille-de-defense",
+    "fichier": "commons/grille-de-defense-04.webp",
+    "rectangle": {
+      "x": 0.22,
+      "y": 0.28,
+      "largeur": 0.51,
+      "hauteur": 0.58
+    },
+    "lieu": "Mission San Fernando, Los Angeles",
+    "source": "commons",
+    "auteur": "Auteur inconnu Unknown author",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Portrait_of_Father_Aquire_Liebana_looking_out_from_a_barred_window_at_Mission_San_Fernando_Rey_de_Espana,_Los_Angeles,_ca.1880-1900_(CHS-5882).jpg",
+    "statut": "validée",
+    "note": "Vérification : Grille de défense nette et dominante, rectangle sur la grille. Contre-vérification : Photo ancienne réelle : grille à barreaux forgés fixée devant une fenêtre, bien cadrée ; terme juste."
+  },
+  {
+    "id": "moustiquaire-06",
+    "termId": "moustiquaire",
+    "fichier": "commons/moustiquaire-06.webp",
+    "rectangle": null,
+    "lieu": "Tempe, Arizona",
+    "source": "commons",
+    "auteur": "Testmaskara",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Insect_screen_Tempe.jpg",
+    "statut": "validée",
+    "note": "Vérification : Maillage de moustiquaire bien visible sur toute l'image. Contre-vérification : Toile à mailles fines tendue dans le cadre d'une fenêtre, nettement visible ; terme juste."
+  },
+  {
+    "id": "poignee-de-fenetre-02",
+    "termId": "poignee-de-fenetre",
+    "fichier": "commons/poignee-de-fenetre-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Burkhard Mücke",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:St._Lukas_-_Chorwochenende_in_Kloster_Rohr_18.jpg",
+    "statut": "validée",
+    "note": "Vérification : Poignée dominante et nette, sans doute possible. Contre-vérification : Poignée forgée à volutes sur l'ouvrant d'une fenêtre, en gros plan ; terme juste."
+  },
+  {
+    "id": "poignee-de-fenetre-03",
+    "termId": "poignee-de-fenetre",
+    "fichier": "commons/poignee-de-fenetre-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Ben Skála",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Brno-J%C3%A1nsk%C3%A12-interi%C3%A9r2022d.jpg",
+    "statut": "validée",
+    "note": "Vérification : Poignées nettes et dominantes. Contre-vérification : Deux poignées de fenêtre en laiton sur les ouvrants d'une fenêtre à deux vantaux ; clair."
+  },
+  {
+    "id": "cle-05",
+    "termId": "cle",
+    "fichier": "commons/cle-05.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.3,
+      "largeur": 0.95,
+      "hauteur": 0.35
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Shijan Kaakkara",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cheraman_Masjid,_Kodungaloor_-_%E0%B4%9A%E0%B5%87%E0%B4%B0%E0%B4%AE%E0%B4%BE%E0%B5%BB_%E0%B4%AE%E0%B4%B8%E0%B5%8D%E0%B4%9C%E0%B4%BF%E0%B4%A6%E0%B5%8D,_%E0%B4%95%E0%B5%8A%E0%B4%9F%E0%B5%81%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%82%E0%B5%BC_09.jpg",
+    "statut": "validée",
+    "note": "Vérification : Clés grandes, nettes et sans ambiguïté. Contre-vérification : Grosses clés anciennes à panneton cranté sur anneaux, bien encadrées ; objet évident."
+  },
+  {
+    "id": "verrou-03",
+    "termId": "verrou",
+    "fichier": "commons/verrou-03.webp",
+    "rectangle": {
+      "x": 0.02,
+      "y": 0.08,
+      "largeur": 0.96,
+      "hauteur": 0.68
+    },
+    "lieu": "Noyers-sur-Serein, France",
+    "source": "commons",
+    "auteur": "Ibex73",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dungeon_door,_medieval_village_of_Noyers-sur-Serein_(4).jpg",
+    "statut": "validée",
+    "note": "Vérification : Verrou à barre clair et dominant, rectangle sur la barre et sa poignée. Contre-vérification : Verrou forgé à tige coulissante dans ses guides, dominant dans le rectangle ; l'entrée de serrure reste hors cadre."
+  },
+  {
+    "id": "cadenas-02",
+    "termId": "cadenas",
+    "fichier": "commons/cadenas-02.webp",
+    "rectangle": {
+      "x": 0.24,
+      "y": 0.42,
+      "largeur": 0.22,
+      "hauteur": 0.46
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "User:Nino Barbieri",
+    "licence": "CC BY-SA 2.5",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:-_Padlock_-.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cadenas net et dominant, rectangle sur le cadenas seul (le moraillon est un autre terme). Contre-vérification : Cadenas à anse en U passé dans un moraillon, précisément encadré ; terme juste."
+  },
+  {
+    "id": "cadenas-06",
+    "termId": "cadenas",
+    "fichier": "commons/cadenas-06.webp",
+    "rectangle": null,
+    "lieu": "Acre, Israël",
+    "source": "commons",
+    "auteur": "Adam Jones from Kelowna, BC, Canada",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Antique_Padlocks_-_Treasures_in_the_Wall_Museum_-_Akko_(Acre)_-_Israel.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tous les objets sont des cadenas, sans ambiguïté. Contre-vérification : Collection de cadenas anciens à anse en U ; sans ambiguïté."
+  },
+  {
+    "id": "cage-d-escalier-06",
+    "termId": "cage-d-escalier",
+    "fichier": "commons/cage-d-escalier-06.webp",
+    "rectangle": null,
+    "lieu": "Bad Harzburg, Allemagne",
+    "source": "commons",
+    "auteur": "Steffen Dietrich",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_7.jpg",
+    "statut": "validée",
+    "note": "Vérification : Volume clos de l'escalier bien lisible ; image entière. Contre-vérification : Vue d'ensemble d'une cage d'escalier fermée par des murs avec volées, palier et plafond ; terme le plus juste."
+  },
+  {
+    "id": "main-courante-06",
+    "termId": "main-courante",
+    "fichier": "commons/main-courante-06.webp",
+    "rectangle": null,
+    "lieu": "Newcastle, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Alex Liivet from Chester, United Kingdom",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Co-operative_Building_(51219051019).jpg",
+    "statut": "validée",
+    "note": "Vérification : Barre continue nette et dominante ; supports atypiques. Contre-vérification : Tube inox continu porté par des supports sur un muret d'escalier : main courante en gros plan."
+  },
+  {
+    "id": "mitigeur-01",
+    "termId": "mitigeur",
+    "fichier": "commons/mitigeur-01.webp",
+    "rectangle": {
+      "x": 0.45,
+      "y": 0.03,
+      "largeur": 0.3,
+      "hauteur": 0.43
+    },
+    "lieu": "Aéroport de Nuremberg, Allemagne",
+    "source": "commons",
+    "auteur": "Benreis",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Single_lever_tap_with_stainless_steel_sink.JPG",
+    "statut": "validée",
+    "note": "Vérification : Mitigeur monocommande net ; cadre sur le robinet. Contre-vérification : Mitigeur monocommande à manette unique sur vasque inox, bien encadré ; terme juste."
+  },
+  {
+    "id": "mitigeur-03",
+    "termId": "mitigeur",
+    "fichier": "commons/mitigeur-03.webp",
+    "rectangle": {
+      "x": 0.07,
+      "y": 0.11,
+      "largeur": 0.8,
+      "hauteur": 0.7
+    },
+    "lieu": "Californie, États-Unis",
+    "source": "commons",
+    "auteur": "Stilfehler",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Waterfall_Faucet_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Mitigeur monocommande bien visible, photo réelle. Contre-vérification : Mitigeur monocommande chromé à manette unique, cadré de près ; terme juste."
+  },
+  {
+    "id": "lavabo-01",
+    "termId": "lavabo",
+    "fichier": "commons/lavabo-01.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.17,
+      "largeur": 0.59,
+      "hauteur": 0.45
+    },
+    "lieu": "Corée du Sud",
+    "source": "commons",
+    "auteur": "Choi Kwang-mo",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2020-08-16_things_places_in_south_korea_IMG_0289.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lavabo clair (vasque acceptée, incompatible) ; cadre sur le bac. Contre-vérification : Lavabo céramique rectangulaire posé sur meuble, bien encadré ; terme juste."
+  },
+  {
+    "id": "lavabo-05",
+    "termId": "lavabo",
+    "fichier": "commons/lavabo-05.webp",
+    "rectangle": {
+      "x": 0.17,
+      "y": 0.5,
+      "largeur": 0.56,
+      "hauteur": 0.38
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Enric",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:123_Col%C3%B2nia_de_Borgony%C3%A0,_interior_d%27una_casa_obrera,_lavabo.JPG",
+    "statut": "validée",
+    "note": "Vérification : Lavabo mural classique ; cadre contrôlé sur le lavabo et son dosseret. Contre-vérification : Lavabo céramique fixé au mur avec robinet, cadré de près ; terme juste."
+  },
+  {
+    "id": "evier-06",
+    "termId": "evier",
+    "fichier": "commons/evier-06.webp",
+    "rectangle": {
+      "x": 0.06,
+      "y": 0.32,
+      "largeur": 0.86,
+      "hauteur": 0.42
+    },
+    "lieu": "Californie, États-Unis",
+    "source": "commons",
+    "auteur": "Stilfehler",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:California_Kitchen_from_1980_%E2%80%93_04.jpg",
+    "statut": "validée",
+    "note": "Vérification : Évier double bac typique ; quelques objets autour, cadre sur le bac. Contre-vérification : Évier à deux bacs encastré dans un plan de travail de cuisine ; terme juste."
+  },
+  {
+    "id": "wc-a-la-turque-03",
+    "termId": "wc-a-la-turque",
+    "fichier": "commons/wc-a-la-turque-03.webp",
+    "rectangle": {
+      "x": 0.38,
+      "y": 0.62,
+      "largeur": 0.19,
+      "hauteur": 0.19
+    },
+    "lieu": "Corée du Sud",
+    "source": "commons",
+    "auteur": "파워위키러저항러",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Antique_Korean_toilet_-_20260624_(1).jpg",
+    "statut": "validée",
+    "note": "Vérification : Cuvette accroupie au ras du sol, cadrée de près. Contre-vérification : Cuvette à la turque au ras du sol dans un WC carrelé, désignée par le rectangle ; reconnaissable."
+  },
+  {
+    "id": "wc-a-la-turque-05",
+    "termId": "wc-a-la-turque",
+    "fichier": "commons/wc-a-la-turque-05.webp",
+    "rectangle": {
+      "x": 0.37,
+      "y": 0.56,
+      "largeur": 0.2,
+      "hauteur": 0.25
+    },
+    "lieu": "Corée du Sud",
+    "source": "commons",
+    "auteur": "파워위키러저항러",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Antique_Korean_toilet_-_2026_06_14_(3).jpg",
+    "statut": "validée",
+    "note": "Vérification : Cuvette à la turque (type asiatique) claire, cadrée. Contre-vérification : Cuvette à la turque encastrée au sol, bien encadrée ; reconnaissable."
+  },
+  {
+    "id": "pomme-de-douche-04",
+    "termId": "pomme-de-douche",
+    "fichier": "commons/pomme-de-douche-04.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.08,
+      "largeur": 0.4,
+      "hauteur": 0.3
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "The27thmaine",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Homeshower.JPG",
+    "statut": "validée",
+    "note": "Vérification : Pomme fixe nette, cadrée de près. Contre-vérification : Pomme de douche murale projetant ses jets, précisément encadrée ; terme juste."
+  },
+  {
+    "id": "vanne-d-arret-06",
+    "termId": "vanne-d-arret",
+    "fichier": "commons/vanne-d-arret-06.webp",
+    "rectangle": {
+      "x": 0.43,
+      "y": 0.39,
+      "largeur": 0.5,
+      "hauteur": 0.21
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "NVgt156",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ball_valve_in_household.jpg",
+    "statut": "validée",
+    "note": "Vérification : Vanne quart de tour à poignée rouge, cadrée ; texte de marque sans gêne. Contre-vérification : Vanne quart de tour à manette rouge sur canalisation, encadrée ; terme juste."
+  },
+  {
+    "id": "compteur-d-eau-06",
+    "termId": "compteur-d-eau",
+    "fichier": "commons/compteur-d-eau-06.webp",
+    "rectangle": {
+      "x": 0.39,
+      "y": 0.35,
+      "largeur": 0.33,
+      "hauteur": 0.48
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Bijay Chaurasia",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:15mm_Metal_Valve_and_15mm_A_Class,_Krishna_Water_Meter-IMG_1064.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cadran net ; rectangle écarte le robinet voisin. Contre-vérification : Compteur d'eau à cadran et rouleaux chiffrés sur branchement, bien encadré ; terme juste."
+  },
+  {
+    "id": "chateau-d-eau-04",
+    "termId": "chateau-d-eau",
+    "fichier": "commons/chateau-d-eau-04.webp",
+    "rectangle": {
+      "x": 0.53,
+      "y": 0.17,
+      "largeur": 0.26,
+      "hauteur": 0.63
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "ETF89",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Researchstation_watertower.jpg",
+    "statut": "validée",
+    "note": "Vérification : Château d'eau classique net, cadré. Contre-vérification : Réservoir cylindrique surélevé sur poteaux avec échelle, encadré ; château d'eau évident."
+  },
+  {
+    "id": "chateau-d-eau-06",
+    "termId": "chateau-d-eau",
+    "fichier": "commons/chateau-d-eau-06.webp",
+    "rectangle": {
+      "x": 0.46,
+      "y": 0.12,
+      "largeur": 0.18,
+      "hauteur": 0.72
+    },
+    "lieu": "Saadani, Tanzanie",
+    "source": "commons",
+    "auteur": "Rasheedhrasheed",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Water_tunk_at_saadani_National_Park.jpg",
+    "statut": "validée",
+    "note": "Vérification : Château d'eau sur fût, net et dominant. Contre-vérification : Réservoir d'eau sur fût maçonné, encadré ; château d'eau évident."
+  },
+  {
+    "id": "compteur-electrique-04",
+    "termId": "compteur-electrique",
+    "fichier": "commons/compteur-electrique-04.webp",
+    "rectangle": null,
+    "lieu": "Tchécoslovaquie",
+    "source": "commons",
+    "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Petr.adamek (étant donné la revendication de droit d’auteur).",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Czech-electric-meter.jpg",
+    "statut": "validée",
+    "note": "Vérification : Compteur à cadran numérique, net et dominant. Contre-vérification : Compteur électrique électromécanique avec afficheur kWh, dominant ; terme juste."
+  },
+  {
+    "id": "compteur-electrique-06",
+    "termId": "compteur-electrique",
+    "fichier": "commons/compteur-electrique-06.webp",
+    "rectangle": {
+      "x": 0.3,
+      "y": 0.15,
+      "largeur": 0.52,
+      "hauteur": 0.3
+    },
+    "lieu": "Campeche, Mexique",
+    "source": "commons",
+    "auteur": "Ralf Roletschek",
+    "licence": "GFDL 1.2",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:15-07-15-Campeche-Stra%C3%9Fenszene-RalfR-WMA_0792.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur le compteur seul ; câbles et coffret alentour. Contre-vérification : Compteur électrique à cadrans (kilowattheures) sur façade, bien encadré ; terme juste."
+  },
+  {
+    "id": "compteur-a-prepaiement-01",
+    "termId": "compteur-a-prepaiement",
+    "fichier": "commons/compteur-a-prepaiement-01.webp",
+    "rectangle": null,
+    "lieu": "Hard, Autriche",
+    "source": "commons",
+    "auteur": "Asurnipal",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Hard-Prepaid_electric_meter_Bauer_electronic-in_Austria-01ASD.jpg",
+    "statut": "validée",
+    "note": "Vérification : Clavier de saisie bien visible, compteur prépayé. Contre-vérification : Compteur électrique à clavier numérique pour saisie de code de recharge ; terme juste."
+  },
+  {
+    "id": "prise-de-courant-04",
+    "termId": "prise-de-courant",
+    "fichier": "commons/prise-de-courant-04.webp",
+    "rectangle": null,
+    "lieu": "États-Unis",
+    "source": "commons",
+    "auteur": "Loadmaster (David R. Tribble) This image was made by Loadmaster (David R. Tribble) . Email the author: David R. Tribble Also see my personal gallery at Google Photos",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Electrical-Outlet-8830c.jpg",
+    "statut": "validée",
+    "note": "Vérification : Prise nette et dominante. Contre-vérification : Prise murale à deux trous et terre sur plaque blanche, en gros plan ; terme juste."
+  },
+  {
+    "id": "prise-de-courant-06",
+    "termId": "prise-de-courant",
+    "fichier": "commons/prise-de-courant-06.webp",
+    "rectangle": null,
+    "lieu": "Lillesand, Norvège",
+    "source": "commons",
+    "auteur": "Wolfmann",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:22_sockets_grey-painted_wall_Three_black_electric_power_cables_plugged_in,_school_building_in_Lillesand,_Norway._22_stikkontkater_p%C3%A5_gr%C3%A5malt_vegg_med_tre_svarte_str%C3%B8mkabler_(2024)_IMG_8883.jpg",
+    "statut": "validée",
+    "note": "Vérification : Prises claires, toutes la même réponse. Contre-vérification : Blocs de prises murales en saillie avec fiches branchées ; terme juste."
+  },
+  {
+    "id": "ampoule-04",
+    "termId": "ampoule",
+    "fichier": "commons/ampoule-04.webp",
+    "rectangle": null,
+    "lieu": "Oak Hill, États-Unis",
+    "source": "commons",
+    "auteur": "Famartin",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2015-05-28_22_35_13_An_incandescent_light_bulb_on_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ampoule claire et dominante. Contre-vérification : Ampoule à incandescence allumée en gros plan, filament visible ; terme juste."
+  },
+  {
+    "id": "ampoule-05",
+    "termId": "ampoule",
+    "fichier": "commons/ampoule-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Alvaradorvictorm",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:A-light-bulb-2021-08-26-15-48-29-utc.jpg",
+    "statut": "validée",
+    "note": "Vérification : Photo typique, nette et sans ambiguïté. Contre-vérification : Ampoule claire à culot à vis, photo produit nette ; terme juste."
+  },
+  {
+    "id": "applique-03",
+    "termId": "applique",
+    "fichier": "commons/applique-03.webp",
+    "rectangle": null,
+    "lieu": "Palais du Louvre, Paris",
+    "source": "commons",
+    "auteur": "Jebulon",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Applique_Louvre.jpg",
+    "statut": "validée",
+    "note": "Vérification : Applique murale claire et dominante. Contre-vérification : Applique murale en bronze à cinq bras fixée sur un mur de pierre ; terme juste."
+  },
+  {
+    "id": "applique-06",
+    "termId": "applique",
+    "fichier": "commons/applique-06.webp",
+    "rectangle": {
+      "x": 0.03,
+      "y": 0.1,
+      "largeur": 0.93,
+      "hauteur": 0.09
+    },
+    "lieu": "Cologne, Allemagne",
+    "source": "commons",
+    "auteur": "Raimond Spekking",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gerling-Viertel_-_Hildeboldplatz_20-0591.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la rangée d'appliques. Contre-vérification : Rangée d'appliques murales en coupelle éclairant vers le haut, encadrées ; terme juste."
+  },
+  {
+    "id": "reglette-02",
+    "termId": "reglette",
+    "fichier": "commons/reglette-02.webp",
+    "rectangle": {
+      "x": 0.21,
+      "y": 0.06,
+      "largeur": 0.24,
+      "hauteur": 0.15
+    },
+    "lieu": "Tallinn, Estonie",
+    "source": "commons",
+    "auteur": "Dmitry G",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:EU-EE-Tallinn-Kesklinn-Viru_Tunnel.JPG",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la réglette de premier plan. Contre-vérification : Réglette tubulaire étanche fixée au plafond, encadrée ; terme juste."
+  },
+  {
+    "id": "panneau-photovoltaique-05",
+    "termId": "panneau-photovoltaique",
+    "fichier": "commons/panneau-photovoltaique-05.webp",
+    "rectangle": null,
+    "lieu": "Berishë, Kosovo",
+    "source": "commons",
+    "auteur": "Toni007 ca",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:92.1_Capital_FM_Tower_Building.jpg",
+    "statut": "validée",
+    "note": "Vérification : Panneaux nets et dominants. Contre-vérification : Champ de panneaux photovoltaïques à cellules bien visibles ; terme juste."
+  },
+  {
+    "id": "split-02",
+    "termId": "split",
+    "fichier": "commons/split-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Solijon Solayev",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Air_conditioner_3.jpg",
+    "statut": "validée",
+    "note": "Vérification : Split clair et dominant. Contre-vérification : Unité intérieure murale blanche de climatiseur split en gros plan ; terme juste."
+  },
+  {
+    "id": "split-06",
+    "termId": "split",
+    "fichier": "commons/split-06.webp",
+    "rectangle": {
+      "x": 0.36,
+      "y": 0.03,
+      "largeur": 0.36,
+      "hauteur": 0.21
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Solijon Solayev",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Air_conditioner_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur l'unité pour lever le doute avec la prise. Contre-vérification : Unité intérieure de split fixée en haut du mur, bien encadrée ; terme juste."
+  },
+  {
+    "id": "unite-exterieure-05",
+    "termId": "unite-exterieure",
+    "fichier": "commons/unite-exterieure-05.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.44,
+      "largeur": 0.12,
+      "hauteur": 0.24
+    },
+    "lieu": "Singapour",
+    "source": "commons",
+    "auteur": "Rym DeCoster",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Air_conditioning_units_in_Singapore_(9336).jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur une unité nette à gauche. Contre-vérification : Rectangle sur un caisson à ventilateur de climatiseur fixé en façade ; terme juste."
+  },
+  {
+    "id": "ventilateur-de-plafond-04",
+    "termId": "ventilateur-de-plafond",
+    "fichier": "commons/ventilateur-de-plafond-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Muthukumaran Esakkiappan",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fan_2024.jpg",
+    "statut": "validée",
+    "note": "Vérification : Net et dominant. Contre-vérification : Ventilateur à trois pales suspendu au plafond ; terme juste."
+  },
+  {
+    "id": "ventilateur-de-plafond-06",
+    "termId": "ventilateur-de-plafond",
+    "fichier": "commons/ventilateur-de-plafond-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Hans Olav Lien",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ceiling_fan_with_lamp.jpg",
+    "statut": "validée",
+    "note": "Vérification : Net et dominant. Contre-vérification : Ventilateur de plafond à cinq pales avec kit d'éclairage ; le ventilateur domine."
+  },
+  {
+    "id": "grille-de-ventilation-03",
+    "termId": "grille-de-ventilation",
+    "fichier": "commons/grille-de-ventilation-03.webp",
+    "rectangle": null,
+    "lieu": "Boroughbridge, Angleterre",
+    "source": "commons",
+    "auteur": "Storye book",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:St_James_Boroughbridge_(127).JPG",
+    "statut": "validée",
+    "note": "Vérification : Grille de ventilation nette. Contre-vérification : Grille d'aération perforée en fonte scellée dans un mur de pierre ; terme juste."
+  },
+  {
+    "id": "grille-de-ventilation-05",
+    "termId": "grille-de-ventilation",
+    "fichier": "commons/grille-de-ventilation-05.webp",
+    "rectangle": null,
+    "lieu": "Calder Grove, Angleterre",
+    "source": "commons",
+    "auteur": "Storye book",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:St_John_Calder_Grove_036.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grille nette et dominante. Contre-vérification : Grille de ventilation à fentes scellée dans une maçonnerie ; terme juste."
   }
 ]

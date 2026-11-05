@@ -1,0 +1,58 @@
+{
+  "termId": "grille-de-defense",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Galerie voûtée d'une mission, fenêtre grillagée minuscule au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille trop petite."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Galerie de la mission, mur avec petite fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille non visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rue ensoleillée avec maisons basses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grilles trop petites."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photographie ancienne en noir et blanc d'une fenêtre cintrée défendue par une grille en fer forgé à barreaux et fleurons.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.28,
+        "largeur": 0.51,
+        "hauteur": 0.58
+      },
+      "lieu": "Mission San Fernando, Los Angeles",
+      "note": "Grille de défense nette et dominante, rectangle sur la grille."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue pavée avec une fenêtre grillagée en fer forgé sur la façade à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille trop petite sur la photo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Galerie à arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille absente."
+    }
+  ]
+}

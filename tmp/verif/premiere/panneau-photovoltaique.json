@@ -1,0 +1,53 @@
+{
+  "termId": "panneau-photovoltaique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Une femme assise devant des panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vue aérienne d'une centrale au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wisconsin",
+      "note": "Champ solaire, pas un panneau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvriers posant des panneaux sur un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ayrshire",
+      "note": "Personnes dominantes."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Paysage avec centrale lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sénégal",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Modules photovoltaïques à cellules visibles vus de près.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Berishë, Kosovo",
+      "note": "Panneaux nets et dominants."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Centrale très lointaine dans un champ.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Queensland",
+      "note": "Trop petit."
+    }
+  ]
+}

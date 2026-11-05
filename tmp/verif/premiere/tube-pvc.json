@@ -1,0 +1,53 @@
+{
+  "termId": "tube-pvc",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux urinoirs muraux avec petits tuyaux d'évacuation blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Urinoirs dominants, tuyaux secondaires."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Galerie voûtée sombre avec grosses conduites noires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Salbert, France",
+      "note": "Conduites noires, pas du PVC."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pièces de raccords en PVC gris (tés, manchons, brides) disposées au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Raccords et non tubes ; confusion avec coude/té/raccord."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pile de gros tuyaux plastiques sur un chantier, sous filets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matière non identifiable, désordre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vanne à volant sur conduite grise sous une toiture ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vanne, pas un tube PVC."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tubes de plancher chauffant multicouche posés en serpentin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tube multicouche, pas PVC."
+    }
+  ]
+}

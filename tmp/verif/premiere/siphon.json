@@ -1,0 +1,53 @@
+{
+  "termId": "siphon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chantier d'un siphon hydraulique de grande dimension dans le désert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toshka, Égypte",
+      "note": "Siphon d'ouvrage d'art, pas sanitaire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux caches chromés sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un siphon."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photographie ancienne noir et blanc de pose d'un siphon d'irrigation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Archive, pas le siphon sanitaire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Robinetterie murale chromée sur carrelage à fleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun siphon."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Conduite en béton franchissant une route sur piliers (siphon d'irrigation).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Ouvrage hydraulique, pas sanitaire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tuyaux PVC en Y sous une dalle, boueux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de siphon identifiable."
+    }
+  ]
+}

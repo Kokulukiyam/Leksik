@@ -1,0 +1,53 @@
+{
+  "termId": "groupe-electrogene",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Moteur diesel et alternateur de bord dans une salle des machines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble ancien non carrossé, doute avec moteur."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Même groupe vu de plus près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Idem."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Générateur caché derrière des bâches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kiel, Allemagne",
+      "note": "Quasi invisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros moteur diesel de station de pompage dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moteur seul."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Alternateur d'un ancien groupe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Alternateur seul."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Route avec un petit groupe au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Carrabelle, États-Unis",
+      "note": "Trop petit."
+    }
+  ]
+}

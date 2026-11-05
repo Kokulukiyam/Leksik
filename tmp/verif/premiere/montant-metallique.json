@@ -1,0 +1,53 @@
+{
+  "termId": "montant-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pylône d'acier à treillis couvert de lierre, ancienne usine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Duisburg, Allemagne",
+      "note": "Charpente lourde, pas un montant de cloison."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ossature d'acier d'un escalator dans un hall de gare en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Structure acier, pas de cloison sèche."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Charpente métallique d'un grand bâtiment avec grue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Richmond, Kentucky",
+      "note": "Structure porteuse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur de hangar à portiques métalliques avec nacelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portiques, pas de montant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poteaux métalliques rouges sans murs au sommet d'un immeuble en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Téhéran, Iran",
+      "note": "Poteaux structurels."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petit bâtiment ancien en brique à colombage métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hambourg, Allemagne",
+      "note": "Pas un montant de cloison sèche."
+    }
+  ]
+}

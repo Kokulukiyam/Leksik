@@ -1,0 +1,58 @@
+{
+  "termId": "disjoncteur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tableau électrique ouvert avec rangée de disjoncteurs, capot déposé à côté, câbles en pagaille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue d'un tableau, brouillon et sombre : ambigu avec le tableau électrique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plaque murale avec un interrupteur-disjoncteur 16A et trois prises.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "Mélange prises/interrupteur, ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit tableau en dérivation sur contreplaqué avec rangée de disjoncteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Terre-Neuve, Canada",
+      "note": "Image sombre, c'est un tableau plus qu'un disjoncteur."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Disjoncteur de branchement noir à manette sur un mur, encadré de blanc.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.16,
+        "y": 0.24,
+        "largeur": 0.46,
+        "hauteur": 0.5
+      },
+      "lieu": "Hokkaido, Japon",
+      "note": "Disjoncteur unique net ; rectangle sur l'appareil."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Disjoncteur tripolaire industriel isolé, posé de biais sur un panneau solaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Angle atypique, appareil non modulaire, lisibilité moyenne."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade de tableau américain avec rangées de disjoncteurs à manettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Textes visibles (MAIN, DO NOT REMOVE), ambigu avec le tableau."
+    }
+  ]
+}

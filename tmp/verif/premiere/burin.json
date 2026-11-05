@@ -1,0 +1,58 @@
+{
+ "termId": "burin",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Photo ancienne en noir et blanc d'une collection d'outils de cambrioleur disposés en panneau.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Fouillis d'outils, aucun burin identifiable."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Main gantée tenant une longue tige métallique au-dessus d'un évier.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Objet non identifiable comme burin."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Deux ciseaux à froid posés sur une table en bois : l'un à pointe conique, l'autre à bout plat.",
+   "verdict": "validée",
+   "rectangle": {
+    "x": 0.1,
+    "y": 0.6,
+    "largeur": 0.86,
+    "hauteur": 0.23
+   },
+   "lieu": "",
+   "note": "Burin à bout plat tranchant encadré ; l'autre est une pointe, donc rectangle nécessaire."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Petit ciseau de pierre poli, vert, avec inscription de musée.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Outil préhistorique, pas un burin de maçon."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Ciseau à froid à bout plat tranchant, revenu bleu, sur fond blanc.",
+   "verdict": "validée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Burin clair, isolé, bout plat visible."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Outil ancien corrodé et abîmé sur fond blanc.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Objet dégradé, forme douteuse."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "robinet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Filtre à café en laiton avec petit robinet, rue indienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bangalore",
+      "note": "Robinet minuscule."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vieux lavabo mural en fonte avec petit robinet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Robinet petit, confusion lavabo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Évier double sale avec mitigeur mural.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Helsinki",
+      "note": "Sale ; évier/mitigeur ambigus."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Baignoire sabot avec robinetterie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Robinet petit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Robinet extérieur vert avec panneau 'Water unfit for drinking'.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vanne à volant rouillée sur un tuyau dans les herbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leonardtown, États-Unis",
+      "note": "Ressemble à une vanne/raccord."
+    }
+  ]
+}

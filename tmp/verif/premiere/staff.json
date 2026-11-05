@@ -1,0 +1,53 @@
+{
+  "termId": "staff",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne de modèles de reliefs en plâtre à motifs floraux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Adélaïde, Australie",
+      "note": "Plâtre ornemental ancien, ambigu avec moulure ou rosace ; rien n'identifie du staff."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo ancienne d'un panneau de plâtre à rinceaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Adélaïde, Australie",
+      "note": "Même motif : ambigu, non identifiable comme staff."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gravure d'un quart de plafond voûté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Hôtel colonial en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Atherton, Australie",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Peinture d'une librairie d'Amsterdam.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Autre version de la peinture d'une librairie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam",
+      "note": "Peinture."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "colonne-de-chute",
+    "terme": "la colonne de chute",
+    "categorie": "Réseaux et équipements",
+    "definition": "Canalisation verticale qui descend les eaux usées et les eaux vannes des étages jusqu'au réseau en pied d'immeuble.",
+    "priorite": 2,
+    "requetes": [
+      "soil stack pipe building",
+      "colonne de chute",
+      "drain stack PVC"
+    ],
+    "incompatibles": [
+      "tube-pvc",
+      "descente-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Pipes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:ASU Turbo-train.jpg",
+      "description": "Kompressorstrang einer Luftzerlegungsanlage",
+      "categories": [
+        "Pipes",
+        "GFDL",
+        "Taken with Minolta Dimage 7",
+        "User-created GFDL images",
+        "License migration completed",
+        "Chemical equipment",
+        "Turbomachinery",
+        "Self-published work",
+        "Compressors (turbomachine components)"
+      ],
+      "auteur": "Sleipnir",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ASU_Turbo-train.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/ASU_Turbo-train.jpg/1280px-ASU_Turbo-train.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Artery (204477469).jpeg",
+      "description": "500px provided description: Vanne []",
+      "categories": [
+        "Pipes",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Simon Andre",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Artery_(204477469).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Artery_%28204477469%29.jpeg/1280px-Artery_%28204477469%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1356
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Arctic pipe.jpg",
+      "description": "Производство теплоизолированных труб АРКТИК",
+      "categories": [
+        "Pipes",
+        "Taken with Canon EOS 20D",
+        "Self-published work"
+      ],
+      "auteur": "Lobkovs",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arctic_pipe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Arctic_pipe.jpg/1280px-Arctic_pipe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1772,
+      "hauteur": 1181
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Abandoned Machines (16255177732).jpg",
+      "description": "The old disused Brickwork's has plenty of abandoned machines lying around outside. The bushes and grass is growing wild over the top of them",
+      "categories": [
+        "Pipes",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Brickwork's",
+        "Darkday (photographer)"
+      ],
+      "auteur": "darkday from Brisbane, Australia",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abandoned_Machines_(16255177732).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Abandoned_Machines_%2816255177732%29.jpg/1280px-Abandoned_Machines_%2816255177732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:130201-A-ON889-013 (8452464728).jpg",
+      "description": "VIRGINIA BEACH, Va. - Pipes are staged along the shoreline to be connected to the dredge line on one end and strainer on the other as sand is pumped from the ocean bottom onto the beach. This project is part of the Virginia Beach Hurricane Protection Beach Renourishment Project and is the first renourishment since the project was completed in 2001. The $143 million storm protection project in 2001 included spanning the original boardwalk, adding pump stations, seawall improvements and sand replenishment. Damage prevention has been estimated at $443 million, according to Army Corps of Engineers",
+      "categories": [
+        "Pipes",
+        "Pumping stations",
+        "Damage",
+        "United States Army Corps of Engineers",
+        "Dredging",
+        "PD US Army USACE",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr with bad file names",
+        "Files from U.S. Army Corps of Engineers Norfolk District Flickr stream with bad file names"
+      ],
+      "auteur": "U.S. Army Corps of Engineers Norfolk District from United States",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:130201-A-ON889-013_(8452464728).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/130201-A-ON889-013_%288452464728%29.jpg/1280px-130201-A-ON889-013_%288452464728%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Aethertractor at Steampunk HQ.jpg",
+      "description": "Aethertractor at Steampunk HQ",
+      "categories": [
+        "Pipes",
+        "Steampunk HQ",
+        "Self-published work",
+        "PD-self",
+        "Tractors in art",
+        "FoP-New Zealand",
+        "Files with coordinates missing SDC location of creation",
+        "Sculptures of skulls",
+        "Steampunk machines"
+      ],
+      "auteur": "Pseudopanax sur Wikipédia anglais",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aethertractor_at_Steampunk_HQ.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Aethertractor_at_Steampunk_HQ.jpg/1280px-Aethertractor_at_Steampunk_HQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3264
+    }
+  ]
+}

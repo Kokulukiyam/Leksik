@@ -1,0 +1,58 @@
+{
+  "termId": "split",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Caisson ventilé en cage, éclairé en orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Unité extérieure, pas un split intérieur."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Unité intérieure murale blanche allongée sur mur bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Split clair et dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Militaire devant un coffret électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rafraîchisseur d'air mobile.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un split."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Clapet d'aération sur un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Unité intérieure de split sur mur bleu, prise en dessous.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.03,
+        "largeur": 0.36,
+        "hauteur": 0.21
+      },
+      "lieu": "",
+      "note": "Rectangle sur l'unité pour lever le doute avec la prise."
+    }
+  ]
+}

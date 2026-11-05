@@ -1,0 +1,53 @@
+{
+  "termId": "cable-electrique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bout d'un câble de télécommunication dénudé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Câble de télécom avec porteur, pas de distribution électrique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fouillis de câbles sous un bureau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Désordonné, pas lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Câbles de connecteur de carte mère.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Informatique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Borne de béton gravée Kabel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mohács, Hongrie",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Feu tricolore et panneau devant des façades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Câble absent."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade avec fils électriques épars.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Călimănești, Roumanie",
+      "note": "Câbles trop petits."
+    }
+  ]
+}

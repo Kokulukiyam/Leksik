@@ -1,0 +1,29 @@
+{
+  "termId": "cloison-en-plaques-de-platre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux boîtiers d'encastrement électriques en plastique sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec la cloison."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rails au sol tracés au laser par un ouvrier dans un local en chantier, mur de parpaings au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Seuls les rails au sol sont posés, pas de cloison ; ambigu avec le rail métallique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Magasin de matériaux de construction vu depuis la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dunaföldvár, Hongrie",
+      "note": "Sans rapport."
+    }
+  ]
+}

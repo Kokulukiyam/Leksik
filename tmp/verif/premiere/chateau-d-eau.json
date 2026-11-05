@@ -1,0 +1,63 @@
+{
+  "termId": "chateau-d-eau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plaque commémorative gravée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jacou, France",
+      "note": "Texte, pas de château d'eau."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tour à réservoir damier rouge et blanc au loin derrière des cuves.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Accra, Ghana",
+      "note": "Trop petit, cuves voisines."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Dessin technique de tour d'usine avec légendes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanovre",
+      "note": "Plan, texte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Réservoir cylindrique en béton porté par quatre poteaux, avec échelle à crinoline.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.53,
+        "y": 0.17,
+        "largeur": 0.26,
+        "hauteur": 0.63
+      },
+      "lieu": "",
+      "note": "Château d'eau classique net, cadré."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tour octogonale en maçonnerie dans les herbes, voies ferrées derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Réservoir caché, ambiguë (tour)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tour blanche cylindrique à cuve élargie et échelle, dans la savane.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.46,
+        "y": 0.12,
+        "largeur": 0.18,
+        "hauteur": 0.72
+      },
+      "lieu": "Saadani, Tanzanie",
+      "note": "Château d'eau sur fût, net et dominant."
+    }
+  ]
+}

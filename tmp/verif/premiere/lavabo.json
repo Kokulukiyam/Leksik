@@ -1,0 +1,63 @@
+{
+  "termId": "lavabo",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vasque carrée blanche sur meuble en bois avec mitigeur, savon, verres.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.17,
+        "largeur": 0.59,
+        "hauteur": 0.45
+      },
+      "lieu": "Corée du Sud",
+      "note": "Lavabo clair (vasque acceptée, incompatible) ; cadre sur le bac."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vieux lavabo mural très sale, moisi, avec deux robinets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Très dégradé."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Salle de bain d'hôtel : plan vasque et WC, petit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rochelle Park, États-Unis",
+      "note": "Lavabo petit dans l'image."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle de bains de catalogue avec baignoire, douche, double meuble vasque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu/catalogue, éléments multiples."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Lavabo mural blanc avec dosseret en marbre, robinet, savon, miroir au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.5,
+        "largeur": 0.56,
+        "hauteur": 0.38
+      },
+      "lieu": "",
+      "note": "Lavabo mural classique ; cadre contrôlé sur le lavabo et son dosseret."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Lézard dans une cuvette de lavabo blanche vue de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Botswana",
+      "note": "Animal, pas de contexte."
+    }
+  ]
+}

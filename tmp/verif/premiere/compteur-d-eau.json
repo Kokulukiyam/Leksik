@@ -1,0 +1,58 @@
+{
+  "termId": "compteur-d-eau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Compteur d'eau vu du dessus, couvercle poussiéreux, rouleau de chiffres, sur gravats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sale, peut passer pour un compteur électrique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rangée de compteurs sur des tuyaux bleus le long d'un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et confus."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ancien cadran à aiguilles 'Meter Wasser'.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dresde",
+      "note": "Cadran proche du manomètre, texte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Borne bleue au bord d'une route, sol affaissé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New Jersey",
+      "note": "Compteur non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Même borne bleue, autre angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New Jersey",
+      "note": "Compteur non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Compteur d'eau bleu à cadran laiton et couvercle ouvert, avec un robinet à volant rouge.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.39,
+        "y": 0.35,
+        "largeur": 0.33,
+        "hauteur": 0.48
+      },
+      "lieu": "",
+      "note": "Cadran net ; rectangle écarte le robinet voisin."
+    }
+  ]
+}

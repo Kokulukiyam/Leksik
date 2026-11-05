@@ -1,0 +1,53 @@
+{
+  "termId": "grue-mobile",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une pince à grumes en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pays-Bas",
+      "note": "Noir et blanc, engin forestier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grue mobile jaune à quatre grosses roues pneumatiques, flèche repliée et crochet rouge, sur piste de terre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Selebi-Phikwe, Botswana",
+      "note": "Porteur à pneus et flèche télescopique clairs ; engin dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Engin militaire amphibie chenillé avec flèche inclinée, dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Togliatti, Russie",
+      "note": "Véhicule militaire à chenilles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grue mobile à flèche télescopique devant un immeuble, image en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, image tronquée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grue sur camion au loin posant un tablier de pont métallique sur un ruisseau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Utah, États-Unis",
+      "note": "Grue petite et partiellement cachée, scène chargée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ancienne photo noir et blanc de chantier avec grue sur camion et autre grue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prague",
+      "note": "Noir et blanc, grain, plusieurs engins."
+    }
+  ]
+}

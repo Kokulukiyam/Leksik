@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "bloc-autonome-d-eclairage-de-securite",
+    "terme": "le bloc autonome d'éclairage de sécurité",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit boîtier lumineux avec un pictogramme de sortie, qui s'allume en cas de coupure pour guider l'évacuation ; abrégé BAES.",
+    "priorite": 2,
+    "requetes": [
+      "emergency exit sign light",
+      "bloc autonome éclairage de sécurité",
+      "exit sign"
+    ],
+    "categoriesCommons": [
+      "Category:Emergency lighting",
+      "Category:Emergency exit signs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Emergency Lighting with Automatic Two-Rate Recharge, Surrette Storage Battery Co., Inc., Jefferson Avenue, Salem, Mass (91415).jpg",
+      "description": "Title: Emergency Lighting with Automatic Two-Rate Recharge, Surrette Storage Battery Co., Inc., Jefferson Avenue, Salem, Mass. Subjects: Lighting Places: Massachusetts &gt; Essex (county) &gt; Salem Notes: Title from item. Extent: 1 print (postcard) : linen texture, color ; 7 x 5 1/2 in., folded to 3 1/2 x 5 1/2 in. Accession #: 06_10_001441c",
+      "categories": [
+        "Emergency lighting",
+        "PD US no notice",
+        "Postcards of Salem, Massachusetts",
+        "1950s advertisements in the United States",
+        "Postcards of Massachusetts published by Tichnor Brothers",
+        "Advertisements on postcards of the United States"
+      ],
+      "auteur": "Teknitone Process by E. B. Thomas, Timber Lane, Hampstead, N. H.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Emergency_Lighting_with_Automatic_Two-Rate_Recharge,_Surrette_Storage_Battery_Co.,_Inc.,_Jefferson_Avenue,_Salem,_Mass_(91415).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Emergency_Lighting_with_Automatic_Two-Rate_Recharge%2C_Surrette_Storage_Battery_Co.%2C_Inc.%2C_Jefferson_Avenue%2C_Salem%2C_Mass_%2891415%29.jpg/1280px-Emergency_Lighting_with_Automatic_Two-Rate_Recharge%2C_Surrette_Storage_Battery_Co.%2C_Inc.%2C_Jefferson_Avenue%2C_Salem%2C_Mass_%2891415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4219,
+      "hauteur": 3284
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cais do Sodré (metro).jpg",
+      "description": "Cais do Sodré metro station, linha verde, Lisbon, Portugal",
+      "categories": [
+        "Photographs by Cornelius Kibelka",
+        "Flickr images uploaded by Flickr upload bot",
+        "Emergency exit signs",
+        "Lisbon Metro passengers",
+        "Estou Atrasad",
+        "Cais do Sodré (Lisbon Metro)",
+        "Lisbon metro signage"
+      ],
+      "auteur": "Cornelius / Jcornelius ( d )",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cais_do_Sodr%C3%A9_(metro).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Cais_do_Sodr%C3%A9_%28metro%29.jpg/1280px-Cais_do_Sodr%C3%A9_%28metro%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:SZ 深圳 Shenzhen 福田 Futian 石廈時代廣場 Shixia Times Square 商場 mall McDonald's Restaurant stair sign mind your head February 2024 R12S.jpg",
+      "description": "SZ 深圳 Shenzhen 福田 Futian 石廈時代廣場 Shixia Times Square 商場 mall in February 2024 消防應急照明燈具",
+      "categories": [
+        "CC-Zero",
+        "Emergency lighting",
+        "Self-published work",
+        "February 2024 in Futian District",
+        "Shenzhen photographs taken on 2024-02-06",
+        "2024 in Shixia Times Square, Shenzhen",
+        "Shixia Times Square, Shenzhen - Restaurants"
+      ],
+      "auteur": "Lanesihouemc POmeit",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E7%9F%B3%E5%BB%88%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Shixia_Times_Square_%E5%95%86%E5%A0%B4_mall_McDonald%27s_Restaurant_stair_sign_mind_your_head_February_2024_R12S.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E7%9F%B3%E5%BB%88%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Shixia_Times_Square_%E5%95%86%E5%A0%B4_mall_McDonald%27s_Restaurant_stair_sign_mind_your_head_February_2024_R12S.jpg/1280px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E7%9F%B3%E5%BB%88%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Shixia_Times_Square_%E5%95%86%E5%A0%B4_mall_McDonald%27s_Restaurant_stair_sign_mind_your_head_February_2024_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:DAE Metro Entrecampos 03.jpg",
+      "description": "Desfibrilhador Automático Externo (DAE) na estação de metro Entrecampos, Lisboa",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Emergency exit signs",
+        "Files with coordinates missing SDC location of creation",
+        "October 2024 in Lisbon",
+        "Entre Campos (Lisbon Metro)",
+        "Lisbon metro signage",
+        "AED in Lisbon Metro"
+      ],
+      "auteur": "DiogoBaptista",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DAE_Metro_Entrecampos_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/DAE_Metro_Entrecampos_03.jpg/1280px-DAE_Metro_Entrecampos_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Škoda Rapid - policijska pratnja - JZO MUP Srbije.jpg",
+      "description": "Полицијски аутомобил марке Шкода Рапид Јединице за безбеђење одређених личности и објеката Министарства унутрашњих послова Републике Србије са упаљеном светлосном сигнализацијом за возила под пратњом црвене и плаве боје.",
+      "categories": [
+        "Emergency lighting",
+        "Self-published work",
+        "Police automobiles in Serbia",
+        "Škoda automobiles in Serbia",
+        "Grey automobiles in Serbia",
+        "Škoda Rapid (2012) in police service"
+      ],
+      "auteur": "Srđan Popović",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C5%A0koda_Rapid_-_policijska_pratnja_-_JZO_MUP_Srbije.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%C5%A0koda_Rapid_-_policijska_pratnja_-_JZO_MUP_Srbije.jpg/1280px-%C5%A0koda_Rapid_-_policijska_pratnja_-_JZO_MUP_Srbije.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Exit (4934657946).jpg",
+      "description": "Pine Tree Through Round Window below the word Exit in Hebrew Mount Scopus Jerusalem Israel Jérusalem",
+      "categories": [
+        "Mount Scopus",
+        "Taken with Panasonic Lumix DMC-FZ38",
+        "Images with annotations",
+        "Emergency exits",
+        "Exit signs",
+        "Hadassah University Hospital, Mt. Scopus",
+        "Round windows in Israel",
+        "Flickr images reviewed by FlickreviewR",
+        "Emergency exit signs",
+        "Photographs by Zeev Barkan in Jerusalem"
+      ],
+      "auteur": "zeevveez from Jerusalem, Israel",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Exit_(4934657946).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Exit_%284934657946%29.jpg/1280px-Exit_%284934657946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1443,
+      "hauteur": 1088
+    }
+  ]
+}

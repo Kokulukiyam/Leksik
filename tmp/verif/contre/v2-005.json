@@ -1,0 +1,237 @@
+[
+  {
+    "cle": "tessons-de-verre/01",
+    "accord": true,
+    "raison": "Gros plan de tessons de bouteilles vertes scellés dans le mortier d'une crête de mur ; sans ambiguïté."
+  },
+  {
+    "cle": "tessons-de-verre/02",
+    "accord": true,
+    "raison": "Crête de mur maçonnée hérissée de tessons de verre vert et transparent ; terme juste."
+  },
+  {
+    "cle": "tessons-de-verre/05",
+    "accord": true,
+    "raison": "Tessons de bouteilles brunes plantés dans le mortier en tête de mur ; illustration typique."
+  },
+  {
+    "cle": "portail-metallique/05",
+    "accord": false,
+    "raison": "Le rectangle désigne un petit portillon piéton à un vantail en fer forgé, pas une grande porte de parcelle ; « porte métallique » reste plausible."
+  },
+  {
+    "cle": "grille-de-defense/04",
+    "accord": true,
+    "raison": "Photo ancienne réelle : grille à barreaux forgés fixée devant une fenêtre, bien cadrée ; terme juste."
+  },
+  {
+    "cle": "moustiquaire/06",
+    "accord": true,
+    "raison": "Toile à mailles fines tendue dans le cadre d'une fenêtre, nettement visible ; terme juste."
+  },
+  {
+    "cle": "poignee-de-fenetre/02",
+    "accord": true,
+    "raison": "Poignée forgée à volutes sur l'ouvrant d'une fenêtre, en gros plan ; terme juste."
+  },
+  {
+    "cle": "poignee-de-fenetre/03",
+    "accord": true,
+    "raison": "Deux poignées de fenêtre en laiton sur les ouvrants d'une fenêtre à deux vantaux ; clair."
+  },
+  {
+    "cle": "cle/05",
+    "accord": true,
+    "raison": "Grosses clés anciennes à panneton cranté sur anneaux, bien encadrées ; objet évident."
+  },
+  {
+    "cle": "verrou/03",
+    "accord": true,
+    "raison": "Verrou forgé à tige coulissante dans ses guides, dominant dans le rectangle ; l'entrée de serrure reste hors cadre."
+  },
+  {
+    "cle": "cadenas/02",
+    "accord": true,
+    "raison": "Cadenas à anse en U passé dans un moraillon, précisément encadré ; terme juste."
+  },
+  {
+    "cle": "cadenas/06",
+    "accord": true,
+    "raison": "Collection de cadenas anciens à anse en U ; sans ambiguïté."
+  },
+  {
+    "cle": "escalier/03",
+    "accord": false,
+    "raison": "Vue plongeante dans le vide central d'une cage avec rampes blanches dominantes ; trémie ou rampe d'escalier sont aussi plausibles."
+  },
+  {
+    "cle": "escalier-en-beton/01",
+    "accord": false,
+    "raison": "Le rectangle cadre une seule volée droite entre deux murets ; « la volée » serait une réponse aussi juste, et le béton n'est pas évident (marches en granito)."
+  },
+  {
+    "cle": "cage-d-escalier/06",
+    "accord": true,
+    "raison": "Vue d'ensemble d'une cage d'escalier fermée par des murs avec volées, palier et plafond ; terme le plus juste."
+  },
+  {
+    "cle": "rampe-d-escalier/03",
+    "accord": false,
+    "raison": "Le rectangle couvre presque toute l'image, marches comprises ; « l'escalier » ou « la volée » pourraient être répondus."
+  },
+  {
+    "cle": "main-courante/06",
+    "accord": true,
+    "raison": "Tube inox continu porté par des supports sur un muret d'escalier : main courante en gros plan."
+  },
+  {
+    "cle": "mitigeur/01",
+    "accord": true,
+    "raison": "Mitigeur monocommande à manette unique sur vasque inox, bien encadré ; terme juste."
+  },
+  {
+    "cle": "mitigeur/03",
+    "accord": true,
+    "raison": "Mitigeur monocommande chromé à manette unique, cadré de près ; terme juste."
+  },
+  {
+    "cle": "lavabo/01",
+    "accord": true,
+    "raison": "Lavabo céramique rectangulaire posé sur meuble, bien encadré ; terme juste."
+  },
+  {
+    "cle": "lavabo/05",
+    "accord": true,
+    "raison": "Lavabo céramique fixé au mur avec robinet, cadré de près ; terme juste."
+  },
+  {
+    "cle": "evier/06",
+    "accord": true,
+    "raison": "Évier à deux bacs encastré dans un plan de travail de cuisine ; terme juste."
+  },
+  {
+    "cle": "wc-a-la-turque/03",
+    "accord": true,
+    "raison": "Cuvette à la turque au ras du sol dans un WC carrelé, désignée par le rectangle ; reconnaissable."
+  },
+  {
+    "cle": "wc-a-la-turque/05",
+    "accord": true,
+    "raison": "Cuvette à la turque encastrée au sol, bien encadrée ; reconnaissable."
+  },
+  {
+    "cle": "pomme-de-douche/04",
+    "accord": true,
+    "raison": "Pomme de douche murale projetant ses jets, précisément encadrée ; terme juste."
+  },
+  {
+    "cle": "vanne-d-arret/06",
+    "accord": true,
+    "raison": "Vanne quart de tour à manette rouge sur canalisation, encadrée ; terme juste."
+  },
+  {
+    "cle": "compteur-d-eau/06",
+    "accord": true,
+    "raison": "Compteur d'eau à cadran et rouleaux chiffrés sur branchement, bien encadré ; terme juste."
+  },
+  {
+    "cle": "chateau-d-eau/04",
+    "accord": true,
+    "raison": "Réservoir cylindrique surélevé sur poteaux avec échelle, encadré ; château d'eau évident."
+  },
+  {
+    "cle": "chateau-d-eau/06",
+    "accord": true,
+    "raison": "Réservoir d'eau sur fût maçonné, encadré ; château d'eau évident."
+  },
+  {
+    "cle": "compteur-electrique/04",
+    "accord": true,
+    "raison": "Compteur électrique électromécanique avec afficheur kWh, dominant ; terme juste."
+  },
+  {
+    "cle": "compteur-electrique/06",
+    "accord": true,
+    "raison": "Compteur électrique à cadrans (kilowattheures) sur façade, bien encadré ; terme juste."
+  },
+  {
+    "cle": "compteur-a-prepaiement/01",
+    "accord": true,
+    "raison": "Compteur électrique à clavier numérique pour saisie de code de recharge ; terme juste."
+  },
+  {
+    "cle": "prise-de-courant/04",
+    "accord": true,
+    "raison": "Prise murale à deux trous et terre sur plaque blanche, en gros plan ; terme juste."
+  },
+  {
+    "cle": "prise-de-courant/06",
+    "accord": true,
+    "raison": "Blocs de prises murales en saillie avec fiches branchées ; terme juste."
+  },
+  {
+    "cle": "ampoule/04",
+    "accord": true,
+    "raison": "Ampoule à incandescence allumée en gros plan, filament visible ; terme juste."
+  },
+  {
+    "cle": "ampoule/05",
+    "accord": true,
+    "raison": "Ampoule claire à culot à vis, photo produit nette ; terme juste."
+  },
+  {
+    "cle": "applique/03",
+    "accord": true,
+    "raison": "Applique murale en bronze à cinq bras fixée sur un mur de pierre ; terme juste."
+  },
+  {
+    "cle": "applique/06",
+    "accord": true,
+    "raison": "Rangée d'appliques murales en coupelle éclairant vers le haut, encadrées ; terme juste."
+  },
+  {
+    "cle": "reglette/02",
+    "accord": true,
+    "raison": "Réglette tubulaire étanche fixée au plafond, encadrée ; terme juste."
+  },
+  {
+    "cle": "panneau-photovoltaique/05",
+    "accord": true,
+    "raison": "Champ de panneaux photovoltaïques à cellules bien visibles ; terme juste."
+  },
+  {
+    "cle": "split/02",
+    "accord": true,
+    "raison": "Unité intérieure murale blanche de climatiseur split en gros plan ; terme juste."
+  },
+  {
+    "cle": "split/06",
+    "accord": true,
+    "raison": "Unité intérieure de split fixée en haut du mur, bien encadrée ; terme juste."
+  },
+  {
+    "cle": "unite-exterieure/05",
+    "accord": true,
+    "raison": "Rectangle sur un caisson à ventilateur de climatiseur fixé en façade ; terme juste."
+  },
+  {
+    "cle": "ventilateur-de-plafond/04",
+    "accord": true,
+    "raison": "Ventilateur à trois pales suspendu au plafond ; terme juste."
+  },
+  {
+    "cle": "ventilateur-de-plafond/06",
+    "accord": true,
+    "raison": "Ventilateur de plafond à cinq pales avec kit d'éclairage ; le ventilateur domine."
+  },
+  {
+    "cle": "grille-de-ventilation/03",
+    "accord": true,
+    "raison": "Grille d'aération perforée en fonte scellée dans un mur de pierre ; terme juste."
+  },
+  {
+    "cle": "grille-de-ventilation/05",
+    "accord": true,
+    "raison": "Grille de ventilation à fentes scellée dans une maçonnerie ; terme juste."
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "termId": "cage-d-escalier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cage en brique vue d'en haut avec escalier métallique en lacets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plus proche d'une tour industrielle, ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Balustrade en bois tourné d'un palier à l'étage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de cage visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier en spirale vu d'en bas, rampe métallique et lampes art déco.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hambourg, Allemagne",
+      "note": "Peut passer pour un colimaçon."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier courbe en granit avec fauteuils en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets distrayants."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue plongeante sur un escalier de marbre à rampe en fer forgé autour d'une cabine d'ascenseur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Palacio Cabanellas",
+      "note": "Ascenseur dominant, ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cage d'escalier d'immeuble ancien : deux volées, palier, portes et plafond décoré, murs fermés.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg, Allemagne",
+      "note": "Volume clos de l'escalier bien lisible ; image entière."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "moule-a-parpaings",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros bloc de béton à tenons posé près d'un tuyau annelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prague, Tchéquie",
+      "note": "Bloc de lestage, pas un moule."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Murets en blocs de béton en construction contre une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Trimingham, Royaume-Uni",
+      "note": "Blocs montés, aucun moule."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de blocs de béton en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Trimingham, Royaume-Uni",
+      "note": "Aucun moule."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fragments gris sur un trottoir en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de parpaings le long d'une allée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Trimingham, Royaume-Uni",
+      "note": "Aucun moule."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pile de blocs de béton empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs finis, pas de moule."
+    }
+  ]
+}

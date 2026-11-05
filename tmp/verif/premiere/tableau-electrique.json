@@ -1,0 +1,58 @@
+{
+  "termId": "tableau-electrique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur d'usine ancien avec câblage apparent et petits appareillages en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Terrassa, Espagne",
+      "note": "Pas un coffret clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petit tableau électrique mural blanc à quatre manettes avec disjoncteur différentiel noir, sur planche en bois.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.29,
+        "largeur": 0.74,
+        "hauteur": 0.55
+      },
+      "lieu": "Japon",
+      "note": "Coffret regroupant disjoncteurs, lisible ; rectangle sur l'ensemble du coffret."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand tableau de distribution ancien à couteaux dans une usine textile.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Terrassa, Espagne",
+      "note": "Tableau d'époque à fusibles/couteaux, éloigné de la définition sur rails."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Disjoncteur à visser (culot Edison) sur fond clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seul un disjoncteur, pas un tableau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tableaux de distribution anciens à marbre dans une cage grillagée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Corogne, Espagne",
+      "note": "Installation ancienne, ambiguë."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Voie ferrée et mur taggé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mayence, Allemagne",
+      "note": "Sans rapport."
+    }
+  ]
+}

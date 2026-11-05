@@ -1,0 +1,53 @@
+{
+  "termId": "escalier-droit",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalier sombre en ruine, gravats sur les marches, courbe en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Délabré, sombre, courbe."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo noir et blanc d'un architecte descendant un escalier de béton à marches triangulaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier tournant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier courbe en granit avec rampe forgée et deux fauteuils en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier courbe, objets distrayants."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Sentier d'escalier en pierre dans une forêt de pins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sentier de jardin, pas architectural."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Volée droite moquettée sombre dans une cage avec affiches, palier en bas à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, encombré, palier ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur marches métalliques vertes avec flacon et figurine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets au premier plan."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "poulie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gravure ancienne de chirurgiens utilisant des cordes et des poulies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tonneau de cognac hissé à bord d'un voilier à l'aide de cordages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poulie non visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux poulies à chape métallique suspendues à une poutre par des chaînes, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, filigrane, poulies sales."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Moufles en bois à plusieurs réas, corde de chanvre et crochet, suspendus dans un atelier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Beaufort, États-Unis",
+      "note": "Poulie en bois et corde nettes, premier plan dominant ; ensemble en palan à poulies, incompatible donc acceptable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ferme enneigée en Allemagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ochtrup, Allemagne",
+      "note": "Poulie invisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux poulies en bois et fer rouillé traversées par des cordages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Réas non visibles, cordages enchevêtrés."
+    }
+  ]
+}

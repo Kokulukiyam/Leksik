@@ -1,0 +1,53 @@
+{
+  "termId": "equerre-de-macon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Équerre métallique en L à talon et lame graduée, posée sur un rocher en plein air.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équerre métallique claire et dominante ; modèle à talon, un peu petit mais lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure d'un outil d'équerrage tenu à la main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Équerre ancienne en bois peint, en L, sur fond clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équerre en bois de musée, pas métallique ; texte gravé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Équerres en bois, ciseau et crayon de charpentier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plusieurs objets, équerres en bois."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Équerre d'ébéniste à talon en bois sur un établi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équerre de menuisier, pas de maçon."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Équerre métallique à talon orange posée contre un rocher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image recadrée, pierre devant, lame coupée ; moins lisible que 01."
+    }
+  ]
+}

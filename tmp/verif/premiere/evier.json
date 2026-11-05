@@ -1,0 +1,58 @@
+{
+  "termId": "evier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan de mousse bleue dans un évier inox.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Abstrait, évier non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Page ancienne de catalogue avec gravures d'un évier de service.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Gravure, pas une photo réelle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Main lavant une fourchette sous un robinet, évier blanc en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Main dominante, évier coupé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand bac en pierre avec robinet dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne",
+      "note": "Bac à laver/fontaine, pas un évier de cuisine."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Flacons d'huile CBD posés sur un lavabo blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Produits publicitaires, lavabo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Évier de cuisine blanc à deux bacs encastré dans un plan de travail, mitigeur à douchette.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.06,
+        "y": 0.32,
+        "largeur": 0.86,
+        "hauteur": 0.42
+      },
+      "lieu": "Californie, États-Unis",
+      "note": "Évier double bac typique ; quelques objets autour, cadre sur le bac."
+    }
+  ]
+}

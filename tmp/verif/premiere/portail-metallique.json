@@ -1,0 +1,58 @@
+{
+  "termId": "portail-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Portillon piéton en fer forgé ajouré dans un mur de pierre, devant une porte à persiennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petit portillon, confusion possible avec une porte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan sur le haut d'un garde-corps ou portail en fer avec fleurs de lys dorées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail ornemental, portail non identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan sur un vantail bleu en fer forgé à volutes, entre deux piliers de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage trop serré, pourrait être une porte métallique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grillage et portail grillagé à l'entrée d'un terrain de sport, ciel dominant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Borovany, Tchéquie",
+      "note": "Portail minuscule, ciel dominant, panneaux visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Portail en fer peint gris, ajouré avec volutes et treillis, fermant une allée de briques.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.06,
+        "largeur": 0.8,
+        "hauteur": 0.78
+      },
+      "lieu": "",
+      "note": "Ouvrage métallique de clôture clairement visible, bien encadré."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Portail en grillage sur chemin boueux, flou et petit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément petit et peu lisible."
+    }
+  ]
+}

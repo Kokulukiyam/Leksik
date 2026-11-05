@@ -1,0 +1,63 @@
+{
+  "termId": "wc-a-la-turque",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "WC japonais à la turque au sol à côté d'un urinoir mural, réservoir haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Séoul, Corée",
+      "note": "Urinoir bien visible et cuvette petite : confusion possible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cabine de bateau avec cuvette à l'anglaise et douche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cuvette classique, pas un WC à la turque."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cabinet carrelé étroit avec une cuvette à la turque au sol, tuyaux PVC et seau.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.38,
+        "y": 0.62,
+        "largeur": 0.19,
+        "hauteur": 0.19
+      },
+      "lieu": "Corée du Sud",
+      "note": "Cuvette accroupie au ras du sol, cadrée de près."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux toilettes mobiles bleues en extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tsuen Wan, Hong Kong",
+      "note": "Cabines chimiques, pas une cuvette à la turque."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cabinet carrelé avec cuvette accroupie encastrée au sol, seau et robinet de chasse.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.56,
+        "largeur": 0.2,
+        "hauteur": 0.25
+      },
+      "lieu": "Corée du Sud",
+      "note": "Cuvette à la turque (type asiatique) claire, cadrée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ancienne cuvette japonaise en porcelaine bleue et blanche posée sur un trottoir, avec une pancarte manuscrite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ueno, Tokyo",
+      "note": "Objet d'antiquaire, pancarte avec texte."
+    }
+  ]
+}

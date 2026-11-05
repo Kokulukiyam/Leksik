@@ -1,0 +1,53 @@
+{
+  "termId": "scie-circulaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue sous-marine d'un pont de navire avec machines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Stand de salon avec engin chenillé orange à bras.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanovre, Allemagne",
+      "note": "Matériel agricole, pas une scie circulaire de chantier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tracteur bleu attelé à une scie à bûches circulaire verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scie à bûches agricole, lame non visible ; doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo ancienne en noir et blanc de pièces mécaniques d'une scie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces détachées, illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mini-chargeuse avec outil de coupe et ouvrier dans la poussière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin, pas une scie circulaire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Épareuse à disques orange sur stand de salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanovre, Allemagne",
+      "note": "Disques d'épareuse, pas une scie circulaire."
+    }
+  ]
+}

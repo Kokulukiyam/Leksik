@@ -58,6 +58,7 @@ const imagesCommons = [];
 const rapport = [];
 const abandonnes = [];
 const enAttente = [];
+const liensRetenus = new Set();
 const sansContre = [];
 
 for (const terme of candidats) {
@@ -76,7 +77,11 @@ for (const terme of candidats) {
     const v1 = verdicts.get(c.fichier);
     const v2 = contre.get(`${terme.id}/${nn}`);
     if (v1?.verdict === "validée" && !v2) sansContre.push(`${terme.id}/${nn}`);
-    const ok = v1?.verdict === "validée" && v2?.accord === true;
+    // Une même photo Commons n'est gardée qu'une fois (pour le premier terme qui la retient).
+    const doublon = liensRetenus.has(c.lien);
+    const ok = v1?.verdict === "validée" && v2?.accord === true && !doublon;
+    if (v1?.verdict === "validée" && v2?.accord === true && doublon) console.warn(`  ${terme.id}/${nn} : photo déjà retenue pour un autre terme, ignorée`);
+    if (ok) liensRetenus.add(c.lien);
     lignes.push({ nn, c, v1, v2, ok });
     if (!ok) continue;
     retenues++;

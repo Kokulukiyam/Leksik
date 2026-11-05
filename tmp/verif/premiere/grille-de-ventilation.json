@@ -1,0 +1,53 @@
+{
+  "termId": "grille-de-ventilation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'une grille en céramique à motifs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Grenade, Espagne",
+      "note": "Décorative, doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Terrasse avec chats et plantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Deià, Majorque",
+      "note": "Grille invisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grille ronde en fonte à rayons dans un mur de pierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Boroughbridge, Angleterre",
+      "note": "Grille de ventilation nette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lanterne murale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Monmouth",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grille de fonte à fentes encastrée dans un mur de pierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Calder Grove, Angleterre",
+      "note": "Grille nette et dominante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grille de fonte petite, poutre devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Calder Grove, Angleterre",
+      "note": "Petite et masquée."
+    }
+  ]
+}

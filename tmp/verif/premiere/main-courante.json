@@ -1,0 +1,53 @@
+{
+  "termId": "main-courante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Camion-citerne de bitume vert avec une rampe de rue au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan sur balustres et main courante en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balustres dominants, confusion rampe/barreau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier en colimaçon en pierre vu d'en haut avec main courante brune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Château du Taureau",
+      "note": "Main courante peu visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Soldat avec drapeau sur coursive à garde-corps jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bloc sanitaire en banco avec rampe orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mali",
+      "note": "Rampe d'accès, pas main courante d'escalier."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Main courante en tube d'aluminium brossé, coudée, fixée sur deux supports scellés sur un marbre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Newcastle, Royaume-Uni",
+      "note": "Barre continue nette et dominante ; supports atypiques."
+    }
+  ]
+}

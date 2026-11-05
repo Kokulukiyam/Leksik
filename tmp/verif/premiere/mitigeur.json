@@ -1,0 +1,63 @@
+{
+  "termId": "mitigeur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mitigeur chromé monotrou à levier unique sur une vasque inox, eau qui coule.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.45,
+        "y": 0.03,
+        "largeur": 0.3,
+        "hauteur": 0.43
+      },
+      "lieu": "Aéroport de Nuremberg, Allemagne",
+      "note": "Mitigeur monocommande net ; cadre sur le robinet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mitigeur de lavabo blanc avec reflet d'un second robinet dans le miroir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reflet, double robinet : confus."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mitigeur chromé carré à levier et bec cascade, posé sur un socle de magasin.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.11,
+        "largeur": 0.8,
+        "hauteur": 0.7
+      },
+      "lieu": "Californie, États-Unis",
+      "note": "Mitigeur monocommande bien visible, photo réelle."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plusieurs robinets dans un magasin, dont un mitigeur et un col de cygne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taichung",
+      "note": "Plusieurs robinets, pas clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Robinet à deux poignées transparentes avec goutte d'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mélangeur à deux commandes, pas un mitigeur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Trois mitigeurs noirs à levier doré sur fond blanc dégradé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image de catalogue/rendu probable."
+    }
+  ]
+}

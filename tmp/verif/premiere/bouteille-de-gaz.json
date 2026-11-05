@@ -1,0 +1,58 @@
+{
+  "termId": "bouteille-de-gaz",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan sur le dessus d'une bouteille de gaz de montgolfière avec robinetterie et manomètre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cylindre de montgolfière, gros plan peu typique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rack grillagé de bouteilles de butane bleues alignées sur deux niveaux, enseigne Butagaz.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.44,
+        "largeur": 0.71,
+        "hauteur": 0.42
+      },
+      "lieu": "Gometz-la-Ville, France",
+      "note": "Bouteilles de butane typiques, claires ; rectangle sur le casier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux bouteilles de gaz gainées dans la nacelle d'une montgolfière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bouteilles gainées de montgolfière, pas typiques."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rue de Palma avec un camion chargé de bouteilles orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Palma, Espagne",
+      "note": "Bouteilles trop petites dans le cadre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bouteilles jaunes d'air respirable dans un local technique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Air comprimé, pas du butane/propane."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Carte postale colorisée d'une station-service.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lebanon, Tennessee",
+      "note": "Dessin/carte postale, texte visible."
+    }
+  ]
+}

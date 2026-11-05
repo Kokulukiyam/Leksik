@@ -1,0 +1,53 @@
+{
+  "termId": "tenaille",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tenaille ancienne en acier à mâchoires arrondies, ouverte, sur fond clair.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tenaille de ferrailleur typique, claire et dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Trois pinces (universelle, coupante, plate) sur fond clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pinces électriques, pas des tenailles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plan de travail d'électronique avec pince coupante rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berlin, Allemagne",
+      "note": "Pince d'électronicien, objet secondaire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vitrine de musée d'outils anciens avec reflets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Outils minuscules et reflets."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Seau en bois avec anse et pinces au fond d'une exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tenaille non identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur d'ex-voto japonais avec motifs de tenailles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kyoto, Japon",
+      "note": "Représentations, pas de photo claire de l'outil."
+    }
+  ]
+}

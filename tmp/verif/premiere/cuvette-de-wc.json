@@ -1,0 +1,53 @@
+{
+  "termId": "cuvette-de-wc",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vieille cuvette de WC de wagon en porcelaine avec lunette en bois cassée, sale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bochum, Allemagne",
+      "note": "Ancienne, sale, atypique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "WC avec abattant électronique, panneaux d'instructions.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taichung, Taïwan",
+      "note": "Texte visible, WC japonais ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Toilettes publiques automatiques de nuit, façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Betschdorf, France",
+      "note": "Façade, pas de cuvette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur d'une cuvette vu de dessus en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "WC à réservoir avec barres d'appui bleues, tuyau, vu de dessus, cuvette sale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Sale, éléments multiples, réservoir visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Affiche orange en russe dans des toilettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kharkiv",
+      "note": "Texte, pas de cuvette."
+    }
+  ]
+}

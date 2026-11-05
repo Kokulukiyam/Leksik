@@ -1,0 +1,53 @@
+{
+  "termId": "marche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grande allée à gradins dans un parc avec balustrade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone",
+      "note": "Marche non dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier de navire en inox derrière des fleurs peintes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confus."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ruelle pavée avec barre métallique au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de marche claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Foule sur un grand escalier vu à travers une ouverture sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marche non isolée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Marchepied de pick-up rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas architectural."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne N&B d'un grand escalier de hall avec colonnes et statue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wyndmoor, Pennsylvanie",
+      "note": "Ancienne, marches petites."
+    }
+  ]
+}

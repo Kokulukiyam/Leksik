@@ -1,0 +1,63 @@
+{
+  "termId": "aiguille-vibrante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Équipe en gilets dans une tranchée avec descente de béton, un ouvrier tenant un vibreur à dos.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène chargée, vibreur peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvrière avec visière guidant un flexible vibrant dans un voile de béton coulé.",
+      "verdict": "rejetée",
+      "rectangle": {
+        "x": 0.38,
+        "y": 0.62,
+        "largeur": 0.22,
+        "hauteur": 0.3
+      },
+      "lieu": "Djibouti",
+      "note": "Aiguille en grande partie masquée par la main, scène chargée avec tuyau de pompe ; doute."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvriers sur un ferraillage dense avec flexible jaune et vibreur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aiguille trop petite et noyée dans la scène."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvriers étalant du béton frais dans un garage avec pelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune aiguille vibrante clairement visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bétonnage d'un tablier avec plusieurs ouvriers tenant des flexibles vibrants et un tuyau de pompe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fribourg, Allemagne",
+      "note": "Aiguilles petites, scène large et confuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'une militaire plongeant une aiguille vibrante, tenue par son flexible, dans du béton frais.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.37,
+        "largeur": 0.3,
+        "hauteur": 0.56
+      },
+      "lieu": "Djibouti",
+      "note": "Aiguille plongée dans le béton et flexible nets, rectangle sur l'aiguille."
+    }
+  ]
+}

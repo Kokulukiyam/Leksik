@@ -1,0 +1,53 @@
+{
+ "termId": "platoir",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Photo ancienne en noir et blanc d'une truelle et d'un marteau commémoratifs.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Truelle, pas un platoir ; image d'archive."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Photo historique en noir et blanc de personnes lors d'une pose de première pierre.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Cérémonie, outil minuscule ; pas un platoir."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Établi avec couteaux à enduire à poignée d'extrémité et une grande plaque d'acier à poignée centrale accrochée au mur.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Ambigu : couteaux à enduire au premier plan, plaque au fond peu lisible ; doute."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Truelle ancienne en métal dans une vitrine de musée.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Truelle, pas un platoir."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Façade avec enseigne de quincaillerie irlandaise.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Sans rapport, texte visible."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Truelle ancienne à manche en bois sur fond blanc.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Truelle, pas un platoir."
+  }
+ ]
+}

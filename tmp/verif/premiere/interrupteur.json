@@ -1,0 +1,53 @@
+{
+  "termId": "interrupteur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Télécommande murale à côté d'un variateur sur plaque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets multiples et ambigus."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Contacts de commande ABB posés sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Composants industriels, pas un interrupteur mural."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rangée d'interrupteurs anciens en perspective, panneaux de texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tchernogolovka, Russie",
+      "note": "Flou, texte visible, trop petit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vestige d'un évier au mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dordogne, France",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ancien régulateur et boutons en laiton sur planche de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Golra Sharif, Pakistan",
+      "note": "Régulateur de ventilateur, pas un interrupteur clair."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plaque murale avec interrupteur dégradé et fils nus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New Delhi, Inde",
+      "note": "Délabré, fils nus, doute."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "boite-d-encastrement",
+    "terme": "la boîte d'encastrement",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit boîtier rond en plastique scellé dans le mur, qui reçoit une prise ou un interrupteur.",
+    "priorite": 2,
+    "requetes": [
+      "electrical flush box wall",
+      "boîte d'encastrement",
+      "pattress box"
+    ],
+    "incompatibles": [
+      "gaine-icta"
+    ],
+    "categoriesCommons": [
+      "Category:Junction boxes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:How to install SKX junction box for memory relay switches.JPG",
+      "description": "Lining cables for memory relay push-buttons",
+      "categories": [
+        "GFDL",
+        "How-tos",
+        "Junction boxes",
+        "License migration redundant",
+        "Self-published work",
+        "Memory relay"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:How_to_install_SKX_junction_box_for_memory_relay_switches.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/How_to_install_SKX_junction_box_for_memory_relay_switches.JPG/1280px-How_to_install_SKX_junction_box_for_memory_relay_switches.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3800,
+      "hauteur": 1560
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Breakerpanel-level4-inside-view135dl.jpg",
+      "description": "Inside view of 12 position breakerpanel on Level 4. This is a picture I took of our upstairs breaker panel (the one on the top floor), in our front livingroom, which is fed by a 70A 3pole breaker in the panel that's located one floor down. I license this picture for use in Wikipedia. Red, Black, and Blue phases (the three \"hot\" or \"live\" wires) come in the bottom. Section 4, Part 36, of the electrical code, specifies the \"red-black-blue\" ordering. The white wire (neutral) goes to a neutral bar at the top of the panel. The breaker panel is mounted so it's inset, into the drywall, flush with the",
+      "categories": [
+        "License migration completed",
+        "GFDL-disclaimers",
+        "Fuse boxes"
+      ],
+      "auteur": "Original téléversé par Glogger sur Wikipédia anglais .",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Breakerpanel-level4-inside-view135dl.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Breakerpanel-level4-inside-view135dl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 756
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Junction box for drywall.JPG",
+      "description": "Junction box for drywall. There may perfectly fit thick wires, like wires for low-power lighting circuits.",
+      "categories": [
+        "GFDL",
+        "Junction boxes",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Junction_box_for_drywall.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Junction_box_for_drywall.JPG/1280px-Junction_box_for_drywall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7300,
+      "hauteur": 5480
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Unsealead3.jpg",
+      "description": "Unsealed Cable Penetration, concealed under a cabinet inside a control room in a coal fired power generating station in Pt. Tupper, Nova Scotia , Canada .",
+      "categories": [
+        "Electric cables",
+        "Building code violations",
+        "Firestops",
+        "Junction boxes",
+        "Point Tupper Generating Station",
+        "Self-published work",
+        "PD-self",
+        "No firestop at all - empty hole",
+        "Distribution cabinets"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Unsealead3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Unsealead3.jpg/1280px-Unsealead3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3340,
+      "hauteur": 2360
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Freshwater, Newfoundland (5024191584).jpg",
+      "description": "Renovating the house in Freshwater. Photo courtesy of Calvin Canning and colleagues.",
+      "categories": [
+        "Taken with LG Vantage",
+        "Junction boxes",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "September 2010 in Newfoundland and Labrador",
+        "Building interiors in Freshwater, Placentia Bay, Newfoundland and Labrador"
+      ],
+      "auteur": "Jeremy T. Hetzel from Boston, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Freshwater,_Newfoundland_(5024191584).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Freshwater%2C_Newfoundland_%285024191584%29.jpg/1280px-Freshwater%2C_Newfoundland_%285024191584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:ABB junction box for drywall.JPG",
+      "description": "ABB junction box for drywall.",
+      "categories": [
+        "GFDL",
+        "Junction boxes",
+        "License migration redundant",
+        "Self-published work",
+        "ABB products"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ABB_junction_box_for_drywall.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ABB_junction_box_for_drywall.JPG/1280px-ABB_junction_box_for_drywall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7300,
+      "hauteur": 5480
+    }
+  ]
+}

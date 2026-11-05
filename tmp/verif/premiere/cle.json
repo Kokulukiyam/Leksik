@@ -1,0 +1,58 @@
+{
+  "termId": "cle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de musée avec de nombreuses clés anciennes en fer et des outils.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène chargée, étiquette visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Trousseau de clés accroché à une porte blanche ajourée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clés petites et peu lisibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Crucifix et diplôme encadré avec une clé dorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clé décorative et petite."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Clé en métal cassée en deux sur table en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clé cassée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux grandes clés anciennes en laiton sur un anneau, posées sur une table rouge.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0,
+        "y": 0.3,
+        "largeur": 0.95,
+        "hauteur": 0.35
+      },
+      "lieu": "",
+      "note": "Clés grandes, nettes et sans ambiguïté."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Clé dans une serrure de fenêtre, logo LG visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Floue et logo visible."
+    }
+  ]
+}

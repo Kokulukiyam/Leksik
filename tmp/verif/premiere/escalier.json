@@ -1,0 +1,53 @@
+{
+  "termId": "escalier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Collage de deux photos de balustrade en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balustrade et non escalier entier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier monumental très fréquenté vu par une ouverture sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Foule dominante, vignette sombre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue plongeante en noir et blanc sur une cage d'escalier à volées carrées autour d'un jour central.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier à garde-corps net, sans ambiguïté."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier mobile d'aéroport sur camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier d'avion, pas un escalier de bâtiment."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Hall d'école avec un escalier droit à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier petit dans le cadre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Larges emmarchements de pierre en noir et blanc avec une personne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gradins, peu clair."
+    }
+  ]
+}

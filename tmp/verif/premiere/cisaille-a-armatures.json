@@ -1,0 +1,53 @@
+{
+  "termId": "cisaille-a-armatures",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan de barres d'armature droites.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lysekil, Suède",
+      "note": "Aucune cisaille."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Soudeur avec masque travaillant sur un ferraillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Soudure, pas de cisaille."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Militaire portant un faisceau de fers coudés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune cisaille."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Caisse de fers à béton pliés en U rouillés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lysekil, Suède",
+      "note": "Armatures, pas de cisaille."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue abstraite de tiges bleues rayonnantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Machine orange à cintrer des barres d'acier avec une barre pliée sur le plateau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plieuse/cintreuse, pas une cisaille."
+    }
+  ]
+}

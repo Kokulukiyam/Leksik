@@ -1,0 +1,53 @@
+{
+  "termId": "faux-plafond-en-plaques-de-platre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Faux plafond en plaques avec annotations et T-bar, câbles mal coupe-feu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sudbury, Canada",
+      "note": "Texte annoté, plafond non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan de plâtre projeté texturé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture seule, aucun faux plafond identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Peinture qui s'écaille sur un plafond à cause de l'humidité.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Désordre, pas un faux plafond typique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Combles aménagés avec plafonds blancs et fenêtres de toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond rampant, pas un faux plafond clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Faux plafond à plusieurs niveaux avec gorges lumineuses, spots et lustre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Turquie",
+      "note": "Gorge lumineuse dominante : ambigu avec ce terme voisin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvrier posant des plaques vertes sur un mur, grille de faux plafond au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Plaques sur mur, pas le faux plafond en plaques."
+    }
+  ]
+}

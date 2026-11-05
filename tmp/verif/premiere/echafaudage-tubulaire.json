@@ -1,0 +1,53 @@
+{
+  "termId": "echafaudage-tubulaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tour d'échafaudage en aluminium à plateformes, vue en contre-plongée, contre un chalet rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aluminium, tour de type roulant : ne montre pas clairement un échafaudage tubulaire d'acier de façade."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Page enluminée des Très Riches Heures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enluminure, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade d'immeuble en construction entièrement couverte d'un échafaudage de tubes métalliques à plateaux et diagonales.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Dresde, Allemagne",
+      "note": "Échafaudage tubulaire typique, clair et dominant ; bannières sans rapport avec la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Camion d'échafaudage dans une rue de Hong Kong.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Le camion domine, échafaudage non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne d'une plateforme funéraire en perches de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Perches de bois, légende visible, pas un échafaudage de chantier."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tour ancienne ceinte d'un échafaudage de perches ligaturées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage en bois/bambou, pas tubulaire."
+    }
+  ]
+}

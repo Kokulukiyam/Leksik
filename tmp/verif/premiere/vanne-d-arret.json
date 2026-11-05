@@ -1,0 +1,58 @@
+{
+  "termId": "vanne-d-arret",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'une poignée jaune de vanne à bille sur une conduite enterrée, très sale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Philippines",
+      "note": "Sale, tronqué, texte sur la poignée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vanne laiton à poignée jaune avec plaque 'DRUM DRIP' pendue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Washington",
+      "note": "Plaque de texte distrayante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grosse vanne à boisseau sphérique à brides en atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vanne industrielle, pas une vanne d'arrêt domestique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grosse vanne à bride à volant noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vanne industrielle à volant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Nœud de nombreuses vannes à volant rouges sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Collecteur incendie, trop de vannes."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux vannes à bille à poignée rouge sur une canalisation en laiton, avec filtre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.43,
+        "y": 0.39,
+        "largeur": 0.5,
+        "hauteur": 0.21
+      },
+      "lieu": "",
+      "note": "Vanne quart de tour à poignée rouge, cadrée ; texte de marque sans gêne."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "compteur-electrique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Trois anciens compteurs à courant continu posés sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets de musée posés à plat, texte d'étiquette, peu typique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Technicien en casque devant un compteur sur un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Durham, États-Unis",
+      "note": "Personne dominante, compteur petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Technicien notant un relevé près d'un compteur sur mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Durham, États-Unis",
+      "note": "Personne dominante, compteur petit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros compteur électrique gris à totalisateur kWh, fixé sur un fond bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Tchécoslovaquie",
+      "note": "Compteur à cadran numérique, net et dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Technicien relevant un compteur sur mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Durham, États-Unis",
+      "note": "Personne dominante, compteur petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Compteur à disque sous globe de verre dans un coffret gris sur mur crépi.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.15,
+        "largeur": 0.52,
+        "hauteur": 0.3
+      },
+      "lieu": "Campeche, Mexique",
+      "note": "Rectangle sur le compteur seul ; câbles et coffret alentour."
+    }
+  ]
+}

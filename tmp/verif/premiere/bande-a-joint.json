@@ -1,0 +1,58 @@
+{
+  "termId": "bande-a-joint",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Soldat enduisant au couteau les joints de plaques de plâtre d'un plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minnesota, États-Unis",
+      "note": "Le geste d'enduisage domine, la bande n'est pas visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cloison coupe-feu mal finie autour de gaines, avec légende ajoutée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sudbury, Canada",
+      "note": "Texte explicatif, bande invisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rouleau de bande à joint blanche et bande en fibre, avec couteaux à enduire sur des plaques de plâtre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.34,
+        "y": 0.06,
+        "largeur": 0.39,
+        "hauteur": 0.45
+      },
+      "lieu": "",
+      "note": "Rouleau net et dominant dans un contexte de plaques ; rectangle sur le rouleau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Faux plafond en plaques avec annotations sur la bande et l'enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sudbury, Canada",
+      "note": "Texte annoté, bande peu visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tache d'humidité sur un angle de mur en plâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ossature métallique et plaque de plâtre avec légendes de défauts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sudbury, Canada",
+      "note": "Annotations, bande invisible."
+    }
+  ]
+}

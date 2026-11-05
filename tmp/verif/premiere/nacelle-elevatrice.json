@@ -1,0 +1,58 @@
+{
+  "termId": "nacelle-elevatrice",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Nacelle articulée jaune à panier garé contre un hangar, avec cônes et matériel au premier plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.53,
+        "y": 0.22,
+        "largeur": 0.45,
+        "hauteur": 0.33
+      },
+      "lieu": "",
+      "note": "Nacelle reconnaissable avec son panier ; rectangle contrôlé, qui écarte les cônes et le matériel."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Nacelle articulée jaune sur chenilles et roues rail-route, panier levé, sur un salon.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Berlin, Allemagne",
+      "note": "Panier, bras et engin bien visibles et dominants ; version rail-route mais sans doute possible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Monteur casqué dans la nacelle d'un camion, qui travaille sur un poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oregon, États-Unis",
+      "note": "Cadrage serré, nacelle peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan du pupitre de commande d'une nacelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de commande, pas l'engin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Coque de navire en chantier ; minuscule nacelle à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rosyth, Écosse",
+      "note": "Nacelle trop petite."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Compartiment moteur diesel ouvert d'un engin orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moteur, pas l'engin."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "termId": "gorge-lumineuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ampoule nue dans un plafonnier rond écaillé, angle de boiserie rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Pétersbourg, Russie",
+      "note": "Simple luminaire, pas de gorge."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plafond blanc avec décaissés circulaires et courbes cachant une lumière chaude indirecte.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.28,
+        "largeur": 0.45,
+        "hauteur": 0.23
+      },
+      "lieu": "",
+      "note": "Décaissé rond éclairé en indirect, cadré sur le plus net."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond octogonal avec nombreux spots encastrés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Spots, pas de gorge."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plafond gris avec un décaissé circulaire et une bande courbe qui cachent une lumière chaude.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.34,
+        "y": 0.15,
+        "largeur": 0.39,
+        "hauteur": 0.42
+      },
+      "lieu": "",
+      "note": "Gorge lumineuse circulaire nette, cadrée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue plongeante d'une cage d'escalier ovale avec bandeau lumineux sur le retour du plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image tournée, lisibilité douteuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hall d'aéroport avec structures en arbres de bois et plafond à lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de gorge claire."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "rouleau-compresseur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Scan de texte imprimé ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Darjeeling, Inde",
+      "note": "Page de texte, pas de photo exploitable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Détail d'une benne compactrice et de déchets au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Compacteur à déchets, pas un rouleau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rouleau compresseur jaune à cylindre d'acier vert à l'arrière, conducteur à bord, sur chantier de voirie.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Brésil",
+      "note": "Cylindre et engin bien visibles, de profil."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poubelles et bacs de tri devant un bus scolaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue en travaux avec petit rouleau au loin, enrobé frais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dresde, Allemagne",
+      "note": "Engins trop petits."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vieille pompe immergée dans un coin de bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

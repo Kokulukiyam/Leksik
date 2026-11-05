@@ -1,0 +1,53 @@
+{
+  "termId": "mini-pelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Benne preneuse à câble au bord d'un lac de gravière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pelle à câble, pas une mini-pelle."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vue aérienne d'une grande pelle sur chenilles dans une zone de boue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brumadinho, Brésil",
+      "note": "Engin minuscule et lointain."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tractopelle militaire sur pneus, bras arrière avec godet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bulgarie",
+      "note": "Tractopelle, pas une mini-pelle."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Quatre grosses pelles hydrauliques sur un tas de gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Christchurch, Nouvelle-Zélande",
+      "note": "Grosses pelles, pas des mini-pelles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Petit engin orange sur chenilles vu de dos, conducteur sous un auvent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue arrière : ni bras, ni godet, ni lame visibles, identification incertaine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Godet d'une grande pelle dans une tranchée coulée de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Godet seul, engin non visible, taille d'engin indéterminée."
+    }
+  ]
+}

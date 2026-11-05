@@ -1,0 +1,58 @@
+{
+  "termId": "reglette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bloc de sortie de secours.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Signalétique, pas une réglette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Passage souterrain éclairé par des réglettes à tube en plafond.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.21,
+        "y": 0.06,
+        "largeur": 0.24,
+        "hauteur": 0.15
+      },
+      "lieu": "Tallinn, Estonie",
+      "note": "Rectangle sur la réglette de premier plan."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tube fluorescent sous diffuseur, image très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Capture d'écran de film.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Couloir jaune avec tubes au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tallinn, Estonie",
+      "note": "Réglettes très petites."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Dos d'un panneau d'affichage avec tubes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une réglette claire."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "pomme-de-douche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan de pomme de douche multicolore en gouttes figées, partie haute coupée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pomme tronquée par le cadre, eau dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Coupole en mosaïque d'une villa avec pomme de douche encastrée au sommet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Beaulieu-sur-Mer, France",
+      "note": "Pomme minuscule dans un décor écrasant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur carrelé avec mitigeur thermostatique, barre et douchette à main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rotterdam, Pays-Bas",
+      "note": "Douchette sur barre, confusion avec colonne de douche ; petite."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pomme de douche chromée fixée au mur projetant de l'eau.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.08,
+        "largeur": 0.4,
+        "hauteur": 0.3
+      },
+      "lieu": "",
+      "note": "Pomme fixe nette, cadrée de près."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Douche carrelée avec deux douchettes à main sur barre coulissante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baltic Princess",
+      "note": "Douchettes sur barre : confusion avec douchette / colonne."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chauffe-eau de douche électrique brésilien avec pomme blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paraty, Brésil",
+      "note": "Appareil électrique et fils apparents, ambigu."
+    }
+  ]
+}

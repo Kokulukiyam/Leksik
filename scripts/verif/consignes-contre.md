@@ -31,3 +31,5 @@ Pour chaque image :
 ```
 
 Une entrée pour chaque image du lot. Ne modifie aucun autre fichier.
+
+Fichiers temporaires éventuels : dans `tmp/verif/agents/<nom-de-ton-lot>/` uniquement (d'autres agents travaillent en même temps).

@@ -1,0 +1,53 @@
+{
+  "termId": "plafonnier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafonnier d'habitacle de voiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Auto, pas architectural."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lanterne à cage métallique sous une voûte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Corfou, Grèce",
+      "note": "Doute avec suspension ou lanterne, petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Luminaires à tubes suspendus en hauteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Munich",
+      "note": "Suspensions, pas un plafonnier."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plafonnier d'habitacle de voiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Auto."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Luminaire brisé au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brisé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plafonnier de voiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Auto."
+    }
+  ]
+}

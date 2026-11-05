@@ -1,0 +1,53 @@
+{
+  "termId": "poignee-de-porte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bouton de porte ouvragé sur plaque, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bouton et non poignée, flou."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vitrine d'objets archéologiques avec clés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Loquet à poucier en fer sur porte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "C'est un loquet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plaque de boutons de sonnette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte en bois avec heurtoir en tête de lion et petite poignée à volute.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignée secondaire, image dominée par le heurtoir."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Portail d'église gothique à anneaux de tirage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignée non lisible."
+    }
+  ]
+}

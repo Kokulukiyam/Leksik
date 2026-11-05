@@ -1,0 +1,58 @@
+{
+  "termId": "rampe-d-escalier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Soldat portant un drapeau sur la coursive d'un escalier extérieur à garde-corps jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chat blanc et noir sur une rampe devant un graffiti.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, chat."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rampe d'escalier en fer forgé vert avec main courante en laiton longeant une volée de pierre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.0,
+        "largeur": 0.93,
+        "hauteur": 0.98
+      },
+      "lieu": "Mexico, Palais national",
+      "note": "Garde-corps suivant la pente, net et dominant ; barreaux forgés de même."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier de pierre en tunnel avec main courante murale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Peñíscola, Espagne",
+      "note": "Main courante simple, pas de rampe."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan en contre-plongée sur balustres en bois et main courante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion balustre/barreau/main courante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chat sur une rampe devant un graffiti, recadré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, chat."
+    }
+  ]
+}

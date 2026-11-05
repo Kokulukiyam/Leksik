@@ -1,0 +1,53 @@
+{
+  "termId": "bulldozer",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petit bouteur jaune de collection derrière un filet orange, avec panneaux explicatifs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belvoir, Royaume-Uni",
+      "note": "Engin partiellement masqué par un filet, texte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plusieurs engins de chantier mêlés : pelles, bouteurs, chargeuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Israël",
+      "note": "Plusieurs engins, confusion possible avec la pelle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bouteur militaire sur chenilles, lame relevée poussant de la terre brune.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin sur chenilles avec large lame, net et dominant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ancienne photo noir et blanc d'un bouteur à chenilles dans une forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oregon, États-Unis",
+      "note": "Photo d'archive en noir et blanc, mention visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chantier de remblai, minuscule bouteur au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Nouvelle-Orléans",
+      "note": "Engin trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bouteur jaune à large lame face à un incendie, avec un pompier forestier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Wyoming, États-Unis",
+      "note": "Chenilles et lame bien visibles, engin dominant malgré la fumée."
+    }
+  ]
+}

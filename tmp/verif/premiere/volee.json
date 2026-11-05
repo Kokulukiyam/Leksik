@@ -1,0 +1,53 @@
+{
+  "termId": "volee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cage d'escalier rose délabrée avec volée vers un palier et fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alaverdi, Arménie",
+      "note": "Vétuste, ambigu avec cage/palier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan sombre sur des marches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lublin, Pologne",
+      "note": "Pas de volée visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier en ruine courbe, sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, ruine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escaliers métalliques de portique vus d'en bas sur ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mombasa, Kenya",
+      "note": "Industriel, plusieurs volées."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Marches avec bandeaux imprimés WikiCon sur les contremarches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wiesbaden",
+      "note": "Texte visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier courbe en granit avec fauteuils en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets distrayants."
+    }
+  ]
+}

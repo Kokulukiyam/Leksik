@@ -1,0 +1,53 @@
+{
+  "termId": "coffrage-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne en noir et blanc d'un ouvrier devant un ferraillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belchertown, États-Unis",
+      "note": "Pas de coffrage métallique, photo d'archive avec légende."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux hauts coffrages métalliques jaunes à passerelles, étayés par des béquilles, sur un chantier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux d'acier assemblés, clairs et dominants."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment circulaire en béton avec muret.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Des Moines, États-Unis",
+      "note": "Ouvrage fini, pas de coffrage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grands panneaux de coffrage métallique rouille suspendus à la grue le long d'un mur en béton.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Ain, France",
+      "note": "Coffrage d'acier réutilisable, net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Même scène que 04, à peine décalée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ain, France",
+      "note": "Doublon de 04."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Auvent en béton devant un bâtiment circulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Des Moines, États-Unis",
+      "note": "Ouvrage fini, pas de coffrage."
+    }
+  ]
+}

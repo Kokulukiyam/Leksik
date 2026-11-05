@@ -1,0 +1,53 @@
+{
+  "termId": "contremarche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalier métallique extérieur sur une tour, personnes montant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de contremarche visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petit escalier carrelé de jardin à Barcelone, lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier intérieur de galerie avec rampe, contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contremarches non lisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Trois marches de pierre usées devant un portail d'église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boô-Silhen, France",
+      "note": "Marches érodées, contremarche ambiguë."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan flou sur marche et balustrade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ruelle pavée avec barre métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "faux-plafond",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond à caissons moulurés et peints d'une salle avec lustre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond ornemental mouluré, pas un plafond suspendu démontré."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plafond à caissons en bois doré d'une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond à caissons, pas un faux plafond."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond en lames de bois et béton dans une tombe moderne vue d'en dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Vito d'Altivole, Italie",
+      "note": "Architecture, pas un faux plafond identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Page de catalogue de plafonds métalliques estampés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Catalogue imprimé, pas une photo réelle."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plafond voûté décoré d'une coupole, noir et blanc ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Négatif ancien, voûte décorée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Charpente de grange avec image thermique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cambodge",
+      "note": "Sans rapport."
+    }
+  ]
+}

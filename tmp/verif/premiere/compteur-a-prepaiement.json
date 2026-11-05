@@ -1,0 +1,29 @@
+{
+  "termId": "compteur-a-prepaiement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Compteur triphasé avec clavier numérique, afficheur et voyants.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Hard, Autriche",
+      "note": "Clavier de saisie bien visible, compteur prépayé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Compteur intelligent blanc avec afficheur, sans clavier visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Royaume-Uni",
+      "note": "Pas de clavier : ne se distingue pas d'un compteur ordinaire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rue avec poteaux électriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Îles Marshall",
+      "note": "Le compteur n'est pas visible."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "surpresseur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Moteur électrique de pompe turquoise abandonné contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moteur de pompe seul, sans réservoir : pompe de surface."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Même moteur de pompe, plan plus serré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Idem, pas un surpresseur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fillette actionnant une pompe à main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe manuelle."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Enfant remplissant un bidon à un tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de surpresseur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fillette à une pompe à main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe manuelle."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pompe à main rouge cadenassée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe manuelle."
+    }
+  ]
+}

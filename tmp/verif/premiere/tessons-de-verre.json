@@ -40,6 +40,14 @@
       "rectangle": null,
       "lieu": "",
       "note": "Image la plus claire du principe : tessons scellés en crête de mur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Crête d'un mur de brique avec quelques tessons verts à peine visibles, maison en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tessons minuscules et noyés dans la scène."
     }
   ]
 }

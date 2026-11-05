@@ -1,0 +1,53 @@
+{
+  "termId": "cintreuse-a-armatures",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Militaire portant un faisceau de fers coudés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune cintreuse visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan de barres d'acier nervurées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune machine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Barre d'acier pliée posée sur une surface claire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Résultat du cintrage, pas la cintreuse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Faisceaux de fers à béton alignés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bamberg, Allemagne",
+      "note": "Aucune cintreuse."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fers à béton tordus dans des gravats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune cintreuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvrier travaillant sur un chantier avec ferraillage au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Cintreuse non identifiable."
+    }
+  ]
+}

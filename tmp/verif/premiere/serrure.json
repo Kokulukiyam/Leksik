@@ -1,0 +1,53 @@
+{
+  "termId": "serrure",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Targette à bouton sur planches de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "C'est un verrou/targette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fermeture de fenêtre beige en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermeture de fenêtre, pas une serrure."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même fermeture de fenêtre en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Idem."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cylindre doré dans une porte verte abîmée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seul le cylindre est visible, ambigu avec le cylindre de serrure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poignée à levier chromée avec rosace sur porte grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignée de porte, serrure cachée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Poignée chromée et autocollant sur porte grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignée de porte et texte visible."
+    }
+  ]
+}

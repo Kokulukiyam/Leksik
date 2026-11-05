@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "chauffe-eau-solaire",
+    "terme": "le chauffe-eau solaire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ensemble posé en toiture formé de capteurs et d'un ballon horizontal, qui chauffe l'eau par le soleil.",
+    "priorite": 2,
+    "requetes": [
+      "solar water heater rooftop",
+      "chauffe-eau solaire",
+      "thermosiphon solar water heater"
+    ],
+    "incompatibles": [
+      "capteur-solaire-thermique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Sferasol.jpg",
+      "description": "Chauffe-eau solaire Sferasol sur l'aire de repos de Venoy sur l'autoroute A6 (Yonne).",
+      "categories": [
+        "Solar water heating",
+        "Aire de Venoy-Soleil Levant",
+        "Self-published work",
+        "PD-self",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Tangopaso",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sferasol.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Sferasol.jpg/1280px-Sferasol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dornbirn-damaged Solar water heating system-01ASD.jpg",
+      "description": "Installation de chauffage à l'eau solaire endommagée démantelée à Dornbirn, Vorarlberg, Autriche. Le système thermique solaire ce qui est utilisé pour la production d'eau chaude et le chauffage.",
+      "categories": [
+        "Solar hot water panels",
+        "Solar water heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Solar heating",
+        "Photographs by Asurnipal-Dornbirn"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-damaged_Solar_water_heating_system-01ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Dornbirn-damaged_Solar_water_heating_system-01ASD.jpg/1280px-Dornbirn-damaged_Solar_water_heating_system-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dornbirn-damaged Solar water heating system-05ASD.jpg",
+      "description": "Installation de chauffage à l'eau solaire endommagée démantelée à Dornbirn, Vorarlberg, Autriche. Le système thermique solaire ce qui est utilisé pour la production d'eau chaude et le chauffage.",
+      "categories": [
+        "Solar hot water panels",
+        "Solar water heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Solar heating",
+        "Photographs by Asurnipal-Dornbirn"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-damaged_Solar_water_heating_system-05ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Dornbirn-damaged_Solar_water_heating_system-05ASD.jpg/1280px-Dornbirn-damaged_Solar_water_heating_system-05ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Panes å solea tchåfaedje Tlita Od Hamdane.JPG",
+      "description": "Tchåfaedje cintrå å solea (Tlita Oulad Hamdane, Marok)",
+      "categories": [
+        "Taken with Nikon D40",
+        "Solar water heating",
+        "Solar energy in Morocco",
+        "Self-published work",
+        "Tlita Oulad Hamdan"
+      ],
+      "auteur": "Lucyin",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Panes_%C3%A5_solea_tch%C3%A5faedje_Tlita_Od_Hamdane.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Panes_%C3%A5_solea_tch%C3%A5faedje_Tlita_Od_Hamdane.JPG/1280px-Panes_%C3%A5_solea_tch%C3%A5faedje_Tlita_Od_Hamdane.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 1496
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Expansion vessels of solar installation.jpg",
+      "description": "Expansion vessels of solar installation",
+      "categories": [
+        "Taken with Canon EOS 30D",
+        "Plumbing",
+        "Solar water heating",
+        "Self-published work"
+      ],
+      "auteur": "Stefan Thiesen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Expansion_vessels_of_solar_installation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Expansion_vessels_of_solar_installation.jpg/1280px-Expansion_vessels_of_solar_installation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Calentador solar tubes de vacio.jpg",
+      "description": "Calentador solar de tubos de vacio - tecnologia nueva y más popular en España.",
+      "categories": [
+        "Solar water heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "PeterVauhn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calentador_solar_tubes_de_vacio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Calentador_solar_tubes_de_vacio.jpg/1280px-Calentador_solar_tubes_de_vacio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
+    }
+  ]
+}

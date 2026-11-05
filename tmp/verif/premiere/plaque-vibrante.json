@@ -1,0 +1,53 @@
+{
+  "termId": "plaque-vibrante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux plaques vibrantes réversibles orange à moteur, sur palettes, dans un salon.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Semelle, moteur et guidon bien visibles ; le nom de marque n'est pas la réponse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bus new-yorkais sortant d'un tunnel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Trois ouvriers poussant des plaques vibrantes jaunes sur un sentier d'enrobé frais.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Grand Canyon, États-Unis",
+      "note": "Trois plaques identiques à semelle, tenues à la main, nettes."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Compacteur à déchets bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Compacteur à déchets, pas une plaque."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Boîtier de contrôle de compactage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Affichage seul."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gravure japonaise de damage de pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Dessin."
+    }
+  ]
+}

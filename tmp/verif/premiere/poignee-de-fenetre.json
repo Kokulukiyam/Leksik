@@ -1,0 +1,53 @@
+{
+  "termId": "poignee-de-fenetre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux poignées dorées minuscules sur une fenêtre blanche, floues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petites et peu lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poignée de fenêtre en fer forgé à volutes sur un ouvrant blanc, vue sur un jardin.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignée dominante et nette, sans doute possible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux poignées de fenêtre en laiton sur deux vantaux en bois peint.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignées nettes et dominantes."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Levier courbe en métal terminé par une boule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce ambiguë, peut-être crémone ou espagnolette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poignée à clef sur un ouvrant PVC, prise la nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éclairage dur, fond noir, peu lisible sur téléphone."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tourniquet en fer sur un volet en bois usé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une poignée de fenêtre."
+    }
+  ]
+}

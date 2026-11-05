@@ -1,0 +1,58 @@
+{
+  "termId": "applique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Masque en bronze de théâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mariemont, Belgique",
+      "note": "Ce n'est pas un luminaire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure en noir et blanc d'une applique à cornes d'abondance.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image d'archive, pas une photo réelle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Applique ornée à cinq bras et globes lumineux sur mur de pierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Palais du Louvre, Paris",
+      "note": "Applique murale claire et dominante."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Décor de Noël dans un centre commercial.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Appliques minuscules."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Masque de satyre en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mariemont, Belgique",
+      "note": "Pas un luminaire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rangée de cinq appliques en vasque éclairant un mur de pierre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.1,
+        "largeur": 0.93,
+        "hauteur": 0.09
+      },
+      "lieu": "Cologne, Allemagne",
+      "note": "Rectangle sur la rangée d'appliques."
+    }
+  ]
+}

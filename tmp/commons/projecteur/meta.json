@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "projecteur",
+    "terme": "le projecteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Luminaire puissant orientable, à LED ou à halogène, qui éclaire une façade, une cour ou un chantier.",
+    "priorite": 2,
+    "requetes": [
+      "LED floodlight",
+      "projecteur LED",
+      "floodlight wall"
+    ],
+    "categoriesCommons": [
+      "Category:Floodlights"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2008이천 냉동창고 화재 사고34.jpg",
+      "description": "이천 냉동창고 화재 사고",
+      "categories": [
+        "Taken with Nikon D200",
+        "Floodlights",
+        "Self-published work",
+        "Metal halide light bulbs",
+        "2008 in Korea Fire Service"
+      ],
+      "auteur": "최광모",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008%EC%9D%B4%EC%B2%9C_%EB%83%89%EB%8F%99%EC%B0%BD%EA%B3%A0_%ED%99%94%EC%9E%AC_%EC%82%AC%EA%B3%A034.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2008%EC%9D%B4%EC%B2%9C_%EB%83%89%EB%8F%99%EC%B0%BD%EA%B3%A0_%ED%99%94%EC%9E%AC_%EC%82%AC%EA%B3%A034.jpg/1280px-2008%EC%9D%B4%EC%B2%9C_%EB%83%89%EB%8F%99%EC%B0%BD%EA%B3%A0_%ED%99%94%EC%9E%AC_%EC%82%AC%EA%B3%A034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2008이천 냉동창고 화재 사고35.jpg",
+      "description": "이천 냉동창고 화재 사고",
+      "categories": [
+        "Taken with Nikon D200",
+        "Floodlights",
+        "Self-published work",
+        "Daewoo/Doosan construction machines",
+        "Kia fire engines",
+        "2008 in Korea Fire Service"
+      ],
+      "auteur": "최광모",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008%EC%9D%B4%EC%B2%9C_%EB%83%89%EB%8F%99%EC%B0%BD%EA%B3%A0_%ED%99%94%EC%9E%AC_%EC%82%AC%EA%B3%A035.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2008%EC%9D%B4%EC%B2%9C_%EB%83%89%EB%8F%99%EC%B0%BD%EA%B3%A0_%ED%99%94%EC%9E%AC_%EC%82%AC%EA%B3%A035.jpg/1280px-2008%EC%9D%B4%EC%B2%9C_%EB%83%89%EB%8F%99%EC%B0%BD%EA%B3%A0_%ED%99%94%EC%9E%AC_%EC%82%AC%EA%B3%A035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bazaly Floodlights 02.JPG",
+      "description": "Floodlights at the Bazaly stadium, Ostrava, Czech Republic.",
+      "categories": [
+        "Taken with Nikon D40",
+        "Bazaly",
+        "Light towers",
+        "Floodlights"
+      ],
+      "auteur": "User:Sveter (Please credit as \"Petr Šmerkl, Wikipedia\" in case you use this outside WMF projects.)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bazaly_Floodlights_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Bazaly_Floodlights_02.JPG/1280px-Bazaly_Floodlights_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3008
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Abbey Hey F.C. vs F.C. United of Manchester 16 Nov 2016 (1).jpg",
+      "description": "Abbey Hey F.C. vs F.C. United of Manchester in a Manchester Premier Cup quarter final fixture at The Abbey Stadium on 16 November 2016",
+      "categories": [
+        "Association football in England",
+        "F.C. United of Manchester",
+        "Association football matches in England",
+        "Floodlights",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (53° N, 3° W)"
+      ],
+      "auteur": "Delusion23",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abbey_Hey_F.C._vs_F.C._United_of_Manchester_16_Nov_2016_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Abbey_Hey_F.C._vs_F.C._United_of_Manchester_16_Nov_2016_%281%29.jpg/1280px-Abbey_Hey_F.C._vs_F.C._United_of_Manchester_16_Nov_2016_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2007 10 05 06 38Lille.jpg",
+      "description": "Contrails photographiés à partir de Lambersart, près de Lille (Nord de la France) - 06h38 (l'heure est donnée en heure française, (2 heures de décalage avec l'heure solaire)",
+      "categories": [
+        "Lambersart",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "Light towers",
+        "Floodlights",
+        "License migration redundant",
+        "Self-published work",
+        "Exterior lighting in France"
+      ],
+      "auteur": "Lamiot",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2007_10_05_06_38Lille.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2007_10_05_06_38Lille.jpg/1280px-2007_10_05_06_38Lille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2361,
+      "hauteur": 1515
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2016-06-04 TheSecombe.jpg",
+      "description": "Secombe Theatre, Sutton (after Edward Bond's Dea).",
+      "categories": [
+        "Floodlights",
+        "Secombe Theatre",
+        "Flickr images reviewed by FlickreviewR",
+        "Night in the London Borough of Sutton",
+        "2016 in the London Borough of Sutton",
+        "June 2016 in London",
+        "United Kingdom photographs taken on 2016-06-04",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)"
+      ],
+      "auteur": "Ungry Young Man de Vienne , Autriche",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016-06-04_TheSecombe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2016-06-04_TheSecombe.jpg/1280px-2016-06-04_TheSecombe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2384,
+      "hauteur": 1914
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "extincteur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan sur la tête rouge d'un extincteur avec poignée et goupille, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seulement la tête, corps coupé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux extincteurs à poudre rouges posés à plat sur un sol carrelé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.33,
+        "largeur": 0.55,
+        "hauteur": 0.5
+      },
+      "lieu": "",
+      "note": "Extincteurs nets avec tuyau et poignée ; rectangle sur la paire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Extincteur rouge debout, entier, avec poignée, tuyau et collier de fixation.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image typique, dominante et claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Canon à eau monté en hauteur dans un aéroport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport de Chubu, Japon",
+      "note": "Pas un extincteur portatif."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Étiquette d'instructions d'un extincteur, sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte dominant, flou et sombre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rangée d'extincteurs rouges variés, premier plan flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Désordre, composition peu lisible."
+    }
+  ]
+}

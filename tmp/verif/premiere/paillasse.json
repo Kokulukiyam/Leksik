@@ -1,0 +1,53 @@
+{
+  "termId": "paillasse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalier extérieur de sous-sol moussu avec rampe rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brastad, Suède",
+      "note": "Sous-face non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier moquetté sombre dans un couloir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de paillasse visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Marches en pierre ocre dans un passage étroit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Roppe, France",
+      "note": "Sous-face non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier sombre de stade avec main courante, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, sous-face absente."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gradins en béton d'un théâtre de plein air avec spectateurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Antonio, États-Unis",
+      "note": "Pas un escalier à paillasse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Balustrade en bois d'un palier à l'étage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

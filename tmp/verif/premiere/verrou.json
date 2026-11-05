@@ -1,0 +1,58 @@
+{
+  "termId": "verrou",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'un heurtoir en dragon sur porte orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Heurtoir, pas un verrou."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte de cachot en bois avec un petit judas et une barre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Noyers-sur-Serein, France",
+      "note": "Verrou trop petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan d'un verrou à barre ronde en fer coulissant dans deux colliers sur une porte en bois.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.08,
+        "largeur": 0.96,
+        "hauteur": 0.68
+      },
+      "lieu": "Noyers-sur-Serein, France",
+      "note": "Verrou à barre clair et dominant, rectangle sur la barre et sa poignée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche de présentation avec de nombreux verrous et loquets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fécamp, France",
+      "note": "Collection mélangeant verrous et loquets."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poignée en fer et petite targette sur porte verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermeture ambiguë (targette ou loquet), poignée concurrente."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Barre de fermeture à levier d'une remorque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Munich, Allemagne",
+      "note": "Fermeture de véhicule, pas un verrou de menuiserie."
+    }
+  ]
+}

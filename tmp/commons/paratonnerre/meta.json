@@ -1,0 +1,118 @@
+{
+  "terme": {
+    "id": "paratonnerre",
+    "terme": "le paratonnerre",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tige métallique dressée au sommet d'un bâtiment et reliée à la terre, qui capte la foudre.",
+    "priorite": 2,
+    "requetes": [
+      "lightning rod roof",
+      "paratonnerre",
+      "lightning conductor"
+    ],
+    "categoriesCommons": [
+      "Category:Lightning rods"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Conventional Lightning Rod (46429374125).jpg",
+      "description": "Conventional lightning rod installed in my antenna farm.",
+      "categories": [
+        "Lightning rods",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Dilshan Jayakody"
+      ],
+      "auteur": "Dilshan Jayakody from Maharagama, Sri Lanka",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Conventional_Lightning_Rod_(46429374125).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Conventional_Lightning_Rod_%2846429374125%29.jpg/1280px-Conventional_Lightning_Rod_%2846429374125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1776,
+      "hauteur": 2420
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Hősök tere 4, villámhárító, 2019 Rákosliget.jpg",
+      "description": ": House. Lightning rod - 4 Hősök tere, Rákosliget neighborhood, 17th District of Budapest",
+      "categories": [
+        "Lightning rods",
+        "Self-published work",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Hungary photographs taken on 2019-12-26",
+        "December 2019 in Budapest",
+        "Hősök tere, 4 (Rákosliget)"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:H%C5%91s%C3%B6k_tere_4,_vill%C3%A1mh%C3%A1r%C3%ADt%C3%B3,_2019_R%C3%A1kosliget.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/H%C5%91s%C3%B6k_tere_4%2C_vill%C3%A1mh%C3%A1r%C3%ADt%C3%B3%2C_2019_R%C3%A1kosliget.jpg/1280px-H%C5%91s%C3%B6k_tere_4%2C_vill%C3%A1mh%C3%A1r%C3%ADt%C3%B3%2C_2019_R%C3%A1kosliget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1587,
+      "hauteur": 2115
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Light setup.jpg",
+      "description": "Serial light",
+      "categories": [
+        "Lightning rods",
+        "Self-published work",
+        "Taken with Vivo S1 Pro"
+      ],
+      "auteur": "Eshma P",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Light_setup.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Light_setup.jpg/1280px-Light_setup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8208,
+      "hauteur": 2096
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:3S60.jpg",
+      "description": "PREVECTRON 3 от Indelec",
+      "categories": [
+        "Lightning rods",
+        "Self-published work"
+      ],
+      "auteur": "Germangeorus37",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3S60.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/3S60.jpg/1280px-3S60.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3020,
+      "hauteur": 3571
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Blitzableiterklemme.jpg",
+      "description": "Blitzableiterklemme",
+      "categories": [
+        "Lightning rods",
+        "Self-published work",
+        "Clamps with screws"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blitzableiterklemme.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Blitzableiterklemme.jpg/1280px-Blitzableiterklemme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blitzschutzdraht Niro Coil.jpg",
+      "description": "Blitzableiterdraht",
+      "categories": [
+        "Lightning rods",
+        "Self-published work"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blitzschutzdraht_Niro_Coil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Blitzschutzdraht_Niro_Coil.jpg/1280px-Blitzschutzdraht_Niro_Coil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

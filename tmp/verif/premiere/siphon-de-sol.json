@@ -1,0 +1,53 @@
+{
+  "termId": "siphon-de-sol",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grille carrée de sol déplacée sur carrelage, pieds visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille de travers, sombre et sale, image peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tuyau rejetant de l'eau dans un ruisseau de montagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un siphon de sol."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grille ronde d'avaloir dans une chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Avaloir de voirie, sombre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche publicitaire avec rendus de caniveaux inox.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendus, texte chinois, caniveau et non siphon."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gravure ancienne d'un drainage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Montage de quatre photos d'un siphon de sol démonté avec grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Collage, pas une photo unique."
+    }
+  ]
+}

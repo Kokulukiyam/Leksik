@@ -1,0 +1,163 @@
+{
+  "terme": {
+    "id": "spot-encastre",
+    "terme": "le spot encastré",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petit luminaire rond logé dans le faux plafond, dont seule la collerette dépasse.",
+    "priorite": 2,
+    "requetes": [
+      "recessed downlight ceiling",
+      "spot encastré",
+      "recessed light"
+    ],
+    "incompatibles": [
+      "plafonnier"
+    ],
+    "categoriesCommons": [
+      "Category:Downlights"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:HK WTS 聯合道 Junction Road 樂富商場 Lok Fu Place mall shop December 2020 SSG 26.jpg",
+      "description": "HK WTS 聯合道 Junction Road 樂富商場 Lok Fu Place mall shop in December 2020",
+      "categories": [
+        "Floodlights",
+        "Lampshades",
+        "Self-published work",
+        "Women with bags",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Hong Kong photographs taken on 2020-12-21",
+        "2020 in Lok Fu Plaza",
+        "December 2020 in Lok Fu",
+        "Luminous shop signs in Hong Kong",
+        "Downlights",
+        "Shops in Lok Fu Plaza"
+      ],
+      "auteur": "Honsoiom Yuenha 01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E8%81%AF%E5%90%88%E9%81%93_Junction_Road_%E6%A8%82%E5%AF%8C%E5%95%86%E5%A0%B4_Lok_Fu_Place_mall_shop_December_2020_SSG_26.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/HK_WTS_%E8%81%AF%E5%90%88%E9%81%93_Junction_Road_%E6%A8%82%E5%AF%8C%E5%95%86%E5%A0%B4_Lok_Fu_Place_mall_shop_December_2020_SSG_26.jpg/1280px-HK_WTS_%E8%81%AF%E5%90%88%E9%81%93_Junction_Road_%E6%A8%82%E5%AF%8C%E5%95%86%E5%A0%B4_Lok_Fu_Place_mall_shop_December_2020_SSG_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:HK Causeway Bay SOGO East Point Centre children corner interior Aug-2012.JPG",
+      "description": "香港崇光百貨 , SOGO Department Store, East Point Centre, Causeway Bay, Hong Kong",
+      "categories": [
+        "Taken with Ricoh R10",
+        "Self-published work",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Hong Kong photographs taken on 2012-08-25",
+        "Downlights",
+        "Visitors in Causeway Bay",
+        "2012 in East Point Centre",
+        "2012 in Sogo, Causeway Bay",
+        "2012 in Sogo in Hong Kong",
+        "Interior of Sogo, Causeway Bay",
+        "Visitors in Sogo"
+      ],
+      "auteur": "Labriazctomi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_Causeway_Bay_SOGO_East_Point_Centre_children_corner_interior_Aug-2012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/HK_Causeway_Bay_SOGO_East_Point_Centre_children_corner_interior_Aug-2012.JPG/1280px-HK_Causeway_Bay_SOGO_East_Point_Centre_children_corner_interior_Aug-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:HK WTS 聯合道 Junction Road 樂富商場 Lok Fu Place mall restaurant December 2020 SSG 35.jpg",
+      "description": "HK WTS 聯合道 Junction Road 樂富商場 Lok Fu Place mall restaurant in December 2020",
+      "categories": [
+        "Self-published work",
+        "Tile flooring",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Hong Kong photographs taken on 2020-12-21",
+        "2020 in Lok Fu Plaza",
+        "December 2020 in Lok Fu",
+        "Restaurants in Lok Fu Plaza",
+        "Downlights"
+      ],
+      "auteur": "Honsoiom Yuenha 01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E8%81%AF%E5%90%88%E9%81%93_Junction_Road_%E6%A8%82%E5%AF%8C%E5%95%86%E5%A0%B4_Lok_Fu_Place_mall_restaurant_December_2020_SSG_35.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/HK_WTS_%E8%81%AF%E5%90%88%E9%81%93_Junction_Road_%E6%A8%82%E5%AF%8C%E5%95%86%E5%A0%B4_Lok_Fu_Place_mall_restaurant_December_2020_SSG_35.jpg/1280px-HK_WTS_%E8%81%AF%E5%90%88%E9%81%93_Junction_Road_%E6%A8%82%E5%AF%8C%E5%95%86%E5%A0%B4_Lok_Fu_Place_mall_restaurant_December_2020_SSG_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:HK SSP 深水埗 Sham Shui Po 富昌邨 Fu Cheong Estate 南昌薈 Nam Cheong Place mall December 2020 SS2 05.jpg",
+      "description": "HK SSP 深水埗 Sham Shui Po 富昌邨 Fu Cheong Estate 南昌薈 Nam Cheong Place mall in December 2020",
+      "categories": [
+        "Fu Cheong Shopping Centre",
+        "Fu Cheong Estate",
+        "Self-published work",
+        "Hong Kong photographs taken on 2020-12-16",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "December 2020 in Sham Shui Po",
+        "Luminous shop signs in Hong Kong",
+        "Downlights",
+        "Nam Cheong Place, Sham Shui Po 南昌薈"
+      ],
+      "auteur": "BceMckenz Marks",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_SSP_%E6%B7%B1%E6%B0%B4%E5%9F%97_Sham_Shui_Po_%E5%AF%8C%E6%98%8C%E9%82%A8_Fu_Cheong_Estate_%E5%8D%97%E6%98%8C%E8%96%88_Nam_Cheong_Place_mall_December_2020_SS2_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/HK_SSP_%E6%B7%B1%E6%B0%B4%E5%9F%97_Sham_Shui_Po_%E5%AF%8C%E6%98%8C%E9%82%A8_Fu_Cheong_Estate_%E5%8D%97%E6%98%8C%E8%96%88_Nam_Cheong_Place_mall_December_2020_SS2_05.jpg/1280px-HK_SSP_%E6%B7%B1%E6%B0%B4%E5%9F%97_Sham_Shui_Po_%E5%AF%8C%E6%98%8C%E9%82%A8_Fu_Cheong_Estate_%E5%8D%97%E6%98%8C%E8%96%88_Nam_Cheong_Place_mall_December_2020_SS2_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:HK SSP 深水埗 Sham Shui Po 富昌邨 Fu Cheong Estate 南昌薈 Nam Cheong Place mall December 2020 SS2 17.jpg",
+      "description": "HK SSP 深水埗 Sham Shui Po 富昌邨 Fu Cheong Estate 南昌薈 Nam Cheong Place mall in December 2020",
+      "categories": [
+        "Fu Cheong Shopping Centre",
+        "Fu Cheong Estate",
+        "Self-published work",
+        "Unidentified Euphorbia",
+        "Hong Kong photographs taken on 2020-12-16",
+        "Exit signs in Hong Kong",
+        "Potted plants in Hong Kong",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "December 2020 in Sham Shui Po",
+        "Downlights",
+        "Nam Cheong Place, Sham Shui Po 南昌薈"
+      ],
+      "auteur": "BceMckenz Marks",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_SSP_%E6%B7%B1%E6%B0%B4%E5%9F%97_Sham_Shui_Po_%E5%AF%8C%E6%98%8C%E9%82%A8_Fu_Cheong_Estate_%E5%8D%97%E6%98%8C%E8%96%88_Nam_Cheong_Place_mall_December_2020_SS2_17.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/HK_SSP_%E6%B7%B1%E6%B0%B4%E5%9F%97_Sham_Shui_Po_%E5%AF%8C%E6%98%8C%E9%82%A8_Fu_Cheong_Estate_%E5%8D%97%E6%98%8C%E8%96%88_Nam_Cheong_Place_mall_December_2020_SS2_17.jpg/1280px-HK_SSP_%E6%B7%B1%E6%B0%B4%E5%9F%97_Sham_Shui_Po_%E5%AF%8C%E6%98%8C%E9%82%A8_Fu_Cheong_Estate_%E5%8D%97%E6%98%8C%E8%96%88_Nam_Cheong_Place_mall_December_2020_SS2_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:HK WTS 黃大仙 Wong Tai Sin 龍翔中心 商場 Temple Mall North shop December 2020 SS2 23.jpg",
+      "description": "HK WTS 黃大仙 Wong Tai Sin 龍翔中心 商場 Temple Mall North shop in December 2020",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Hong Kong photographs taken on 2020-12-23",
+        "December 2020 in Wong Tai Sin District",
+        "Luminous shop signs in Hong Kong",
+        "Downlights",
+        "Shops in Wong Tai Sin District",
+        "70 (price tag)",
+        "Shops in Temple Mall North",
+        "2020 in Wong Tai Sin",
+        "2020 in Temple Mall North"
+      ],
+      "auteur": "LoiuaJodsoen Normaw",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BE%8D%E7%BF%94%E4%B8%AD%E5%BF%83_%E5%95%86%E5%A0%B4_Temple_Mall_North_shop_December_2020_SS2_23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BE%8D%E7%BF%94%E4%B8%AD%E5%BF%83_%E5%95%86%E5%A0%B4_Temple_Mall_North_shop_December_2020_SS2_23.jpg/1280px-HK_WTS_%E9%BB%83%E5%A4%A7%E4%BB%99_Wong_Tai_Sin_%E9%BE%8D%E7%BF%94%E4%B8%AD%E5%BF%83_%E5%95%86%E5%A0%B4_Temple_Mall_North_shop_December_2020_SS2_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    }
+  ]
+}

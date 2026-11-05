@@ -1,0 +1,53 @@
+{
+  "termId": "grue-a-tour",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grue à tour jaune au-dessus d'un bâtiment en béton en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Reykjavik, Islande",
+      "note": "Grue en contre-plongée coupée par le cadre, bâtiment qui domine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Carrefour avec barrières de chantier ; petite grue à tour au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grue trop petite."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grue à tour rouge, mât en treillis, cabine et flèche horizontale se détachant sur le ciel.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Iowa City, États-Unis",
+      "note": "Mât, flèche et cabine lisibles, image claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grue à tour rouge entière avec contre-flèche, contrepoids et flèche, sur ciel dégagé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Iowa City, États-Unis",
+      "note": "Structure complète et nette ; le panneau publicitaire est sans rapport avec la réponse."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Immeuble en construction avec grue à tour derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toronto, Canada",
+      "note": "Bâtiment dominant, texte et panneaux visibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grues sur fond de ciel bleu, dont une grue à flèche relevable rouge et jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plusieurs grues de types différents, confusion possible."
+    }
+  ]
+}

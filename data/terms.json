@@ -936,6 +936,16 @@
     ]
   },
   {
+    "id": "tessons-de-verre",
+    "terme": "les tessons de verre",
+    "definition": "Morceaux de bouteilles cassées (tessons de bouteille) scellés dans le mortier en crête de mur pour empêcher l'escalade.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "mur-de-cloture"
+    ]
+  },
+  {
     "id": "fil-barbele",
     "terme": "le fil barbelé",
     "definition": "Fil de fer torsadé garni de pointes, tendu sur une clôture ou en haut d'un mur.",
@@ -1307,5 +1317,245 @@
     "incompatibles": [
       "volet"
     ]
+  },
+  {
+    "id": "grille-de-defense",
+    "terme": "la grille de défense",
+    "definition": "Grille en barreaux ou en fer forgé fixée devant une fenêtre pour empêcher l'effraction.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "barreaudage",
+      "fenetre"
+    ]
+  },
+  {
+    "id": "moustiquaire",
+    "terme": "la moustiquaire",
+    "definition": "Toile à mailles fines tendue sur un cadre devant une fenêtre ou une porte pour arrêter les moustiques.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "fenetre"
+    ]
+  },
+  {
+    "id": "poignee-de-fenetre",
+    "terme": "la poignée de fenêtre",
+    "definition": "Poignée fixée sur l'ouvrant qui commande le verrouillage d'une fenêtre.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "cremone"
+    ]
+  },
+  {
+    "id": "cle",
+    "terme": "la clé",
+    "definition": "Petite pièce métallique dont on introduit la tige crantée dans une serrure pour l'ouvrir ou la fermer.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "cylindre-de-serrure"
+    ]
+  },
+  {
+    "id": "verrou",
+    "terme": "le verrou",
+    "definition": "Fermeture faite d'une pièce métallique coulissante que l'on pousse à la main dans une gâche.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "targette"
+    ]
+  },
+  {
+    "id": "cadenas",
+    "terme": "le cadenas",
+    "definition": "Serrure mobile munie d'un anneau en U que l'on passe dans un moraillon ou une chaîne.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "moraillon"
+    ]
+  },
+  {
+    "id": "cage-d-escalier",
+    "terme": "la cage d'escalier",
+    "definition": "Volume vertical, fermé par des murs, dans lequel se développe l'escalier d'un immeuble.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 1,
+    "incompatibles": [
+      "escalier"
+    ]
+  },
+  {
+    "id": "main-courante",
+    "terme": "la main courante",
+    "definition": "Barre continue que l'on saisit pour se tenir en montant ou descendant, posée sur la rampe ou fixée au mur.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 1,
+    "incompatibles": [
+      "rampe-d-escalier",
+      "barreau-de-rampe"
+    ]
+  },
+  {
+    "id": "mitigeur",
+    "terme": "le mitigeur",
+    "definition": "Robinet à manette unique qui règle à la fois le débit et le mélange d'eau chaude et d'eau froide.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1,
+    "incompatibles": [
+      "robinet",
+      "vanne-d-arret"
+    ]
+  },
+  {
+    "id": "lavabo",
+    "terme": "le lavabo",
+    "definition": "Cuvette fixée au mur ou posée sur un meuble, alimentée par un robinet, servant à se laver les mains et le visage.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "evier",
+    "terme": "l'évier",
+    "definition": "Bac de cuisine en inox, en céramique ou en résine, avec un ou deux bacs et souvent un égouttoir, encastré dans un plan de travail.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "wc-a-la-turque",
+    "terme": "le WC à la turque",
+    "definition": "Cuvette posée au ras du sol, avec deux repose-pieds, sur laquelle on s'accroupit.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1,
+    "incompatibles": [
+      "cuvette-de-wc",
+      "wc-suspendu"
+    ]
+  },
+  {
+    "id": "pomme-de-douche",
+    "terme": "la pomme de douche",
+    "definition": "Pièce perforée par laquelle l'eau de la douche sort en jet, fixée au mur ou au bout d'un flexible.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "vanne-d-arret",
+    "terme": "la vanne d'arrêt",
+    "definition": "Robinet à manette quart de tour, souvent rouge ou jaune, monté sur une canalisation pour couper l'eau.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1,
+    "incompatibles": [
+      "robinet"
+    ]
+  },
+  {
+    "id": "compteur-d-eau",
+    "terme": "le compteur d'eau",
+    "definition": "Appareil placé sur le branchement, à cadran et chiffres, qui mesure l'eau consommée.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "chateau-d-eau",
+    "terme": "le château d'eau",
+    "definition": "Réservoir d'eau surélevé sur un fût ou des poteaux, qui alimente un réseau par gravité.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "compteur-electrique",
+    "terme": "le compteur électrique",
+    "definition": "Appareil qui mesure l'électricité consommée, avec un afficheur, installé à l'entrée du logement.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "compteur-a-prepaiement",
+    "terme": "le compteur à prépaiement",
+    "definition": "Compteur électrique à clavier où l'on saisit le code d'une recharge achetée à l'avance ; au Sénégal, le compteur Woyofal.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1,
+    "incompatibles": [
+      "compteur-electrique"
+    ]
+  },
+  {
+    "id": "prise-de-courant",
+    "terme": "la prise de courant",
+    "definition": "Socle mural à deux trous, avec ou sans broche de terre, où l'on branche un appareil électrique.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "ampoule",
+    "terme": "l'ampoule",
+    "definition": "Lampe en verre ou en plastique qu'on visse ou enfiche dans une douille pour éclairer.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1,
+    "incompatibles": [
+      "suspension",
+      "applique"
+    ]
+  },
+  {
+    "id": "applique",
+    "terme": "l'applique",
+    "definition": "Luminaire fixé au mur.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "reglette",
+    "terme": "la réglette",
+    "definition": "Luminaire long et étroit à tube fluorescent ou LED, fixé au plafond ou au mur.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1,
+    "incompatibles": [
+      "plafonnier",
+      "spot-encastre"
+    ]
+  },
+  {
+    "id": "panneau-photovoltaique",
+    "terme": "le panneau photovoltaïque",
+    "definition": "Panneau plat bleu sombre ou noir, à cellules visibles, qui produit de l'électricité à partir du soleil.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "split",
+    "terme": "le split",
+    "definition": "Climatiseur dont l'unité intérieure, un boîtier blanc allongé, est fixée en haut du mur et reliée à une unité extérieure.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1,
+    "incompatibles": [
+      "unite-exterieure"
+    ]
+  },
+  {
+    "id": "unite-exterieure",
+    "terme": "l'unité extérieure",
+    "definition": "Caisson à ventilateur du climatiseur installé dehors, sur une façade, un toit ou au sol.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "ventilateur-de-plafond",
+    "terme": "le ventilateur de plafond",
+    "definition": "Appareil à pales tournantes suspendu au plafond qui brasse l'air.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "grille-de-ventilation",
+    "terme": "la grille de ventilation",
+    "definition": "Grille à lames ou perforée posée sur un mur ou une porte, qui laisse passer l'air.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
   }
 ]

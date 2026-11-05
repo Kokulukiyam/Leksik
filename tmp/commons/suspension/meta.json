@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "suspension",
+    "terme": "la suspension",
+    "categorie": "Réseaux et équipements",
+    "definition": "Luminaire accroché au plafond par un fil, une chaîne ou une tige.",
+    "priorite": 2,
+    "requetes": [
+      "pendant light",
+      "suspension luminaire",
+      "pendant lamp"
+    ],
+    "categoriesCommons": [
+      "Category:Chandeliers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chandelier of crystal.jpg",
+      "description": "One of the mansion's crystal chandeliers.",
+      "categories": [
+        "Chandeliers",
+        "Self-published work"
+      ],
+      "auteur": "Caterpillar84",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chandelier_of_crystal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Chandelier_of_crystal.jpg/1280px-Chandelier_of_crystal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Comedor de verano - Palacio Santos02.jpg",
+      "description": "Comedor de verano del Palacio Santos",
+      "categories": [
+        "Chandeliers",
+        "Self-published work",
+        "Interiors of Palacio Santos"
+      ],
+      "auteur": "JacobinoWunsh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Comedor_de_verano_-_Palacio_Santos02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Comedor_de_verano_-_Palacio_Santos02.jpg/1280px-Comedor_de_verano_-_Palacio_Santos02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2089,
+      "hauteur": 3726
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Campeche - Kaufmannshaus 4.jpg",
+      "description": "San Francisco de Campeche. Salon in an old merchant house.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "Salons",
+        "Chandeliers",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Chairs in Mexico",
+        "2008 in San Francisco de Campeche",
+        "Building interiors in Campeche",
+        "Museums in Mexico photographed in 2008",
+        "Centro Cultural Casa Numero 6"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Campeche_-_Kaufmannshaus_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Campeche_-_Kaufmannshaus_4.jpg/1280px-Campeche_-_Kaufmannshaus_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chandelier, viewed from below 20150405.jpg",
+      "description": "Tribal Chandelier of Ranchi, India",
+      "categories": [
+        "Chandeliers",
+        "Self-published work"
+      ],
+      "auteur": "Zishan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chandelier,_viewed_from_below_20150405.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Chandelier%2C_viewed_from_below_20150405.jpg/1280px-Chandelier%2C_viewed_from_below_20150405.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Antiguo Círculo Militar, Quito 05.jpg",
+      "description": "Antiguo Círculo Militar, Quito.",
+      "categories": [
+        "Chandeliers",
+        "Neoclassical architecture",
+        "Centro Histórico, Quito",
+        "Francisco Durini",
+        "Neoclassical buildings",
+        "Self-published work",
+        "Palaces in Quito",
+        "Buildings in the Historic Center of Quito"
+      ],
+      "auteur": "Ranoutofusername",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antiguo_C%C3%ADrculo_Militar,_Quito_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Antiguo_C%C3%ADrculo_Militar%2C_Quito_05.jpg/1280px-Antiguo_C%C3%ADrculo_Militar%2C_Quito_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5712,
+      "hauteur": 4284
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:At Dunham Massey 2023 22.jpg",
+      "description": "",
+      "categories": [
+        "Chandeliers",
+        "Media lacking a description",
+        "Uploaded with LrMediaWiki",
+        "Photos by Mike Peel using a Canon EOS 90D",
+        "Dunham Massey Hall gardens"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_Dunham_Massey_2023_22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/At_Dunham_Massey_2023_22.jpg/1280px-At_Dunham_Massey_2023_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4640,
+      "hauteur": 6960
+    }
+  ]
+}

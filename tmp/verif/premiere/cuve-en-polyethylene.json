@@ -1,0 +1,53 @@
+{
+  "termId": "cuve-en-polyethylene",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Page de catalogue ancien avec gravures de réservoirs en fonte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Dessin, fonte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande cuve cylindrique en acier rouillé peinte en rouge avec logo UE.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Havane",
+      "note": "Cuve métallique, panneaux."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Réservoir sphérique rouge sur support métallique au sommet d'un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sphérique, matière incertaine, sombre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pompe à béton sur chenilles avec petite cuve blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cosne, France",
+      "note": "Engin de chantier."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Réservoir sur tour métallique dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Beit Eshel, Israël",
+      "note": "Reconstitution, petit, pas polyéthylène."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pompe à béton sur chenilles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cosne, France",
+      "note": "Engin de chantier."
+    }
+  ]
+}

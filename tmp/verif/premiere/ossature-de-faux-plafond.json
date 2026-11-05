@@ -1,0 +1,53 @@
+{
+  "termId": "ossature-de-faux-plafond",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Salle de classe avec faux plafond à dalles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Manille, Philippines",
+      "note": "Ossature non visible comme sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvriers sur nacelles dans un plafond ouvert très encombré de gaines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Réseaux dominants, ossature peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond vitré lumineux à grille dorée dans un hall de bibliothèque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ottawa, Canada",
+      "note": "Plafond fini décoratif, ossature peu distincte des panneaux."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier sur nacelle posant des panneaux de plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Ossature non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvrier près d'un plafond en plaques violettes enduites.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Plaques, pas l'ossature."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bibliothèque avec faux plafond à dalles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montevideo, Uruguay",
+      "note": "Plafond secondaire, ossature illisible."
+    }
+  ]
+}

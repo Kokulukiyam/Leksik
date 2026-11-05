@@ -1,0 +1,53 @@
+{
+  "termId": "portail-coulissant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entrée d'une enceinte avec portail lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail trop petit, mode de fonctionnement indécidable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pilier en brique et portail bas dans un mur de parpaings.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail non lisible, pas clairement coulissant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Entrée décorée de guirlandes la nuit, portail à deux vantaux de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail battant, pas coulissant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Arche monumentale sur une route, sans portail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de portail coulissant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cour d'école au Kerala, portail ajouré au fond, petit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail trop petit, rien ne prouve qu'il coulisse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rue de village avec arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de portail visible."
+    }
+  ]
+}

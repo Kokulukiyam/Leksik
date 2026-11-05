@@ -1,0 +1,58 @@
+{
+  "termId": "unite-exterieure",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Caisson ventilé en cage la nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'une grille de ventilateur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Burdwan, Inde",
+      "note": "Pourrait être un extracteur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chat sur un capot, unités au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Varna, Bulgarie",
+      "note": "Chat dominant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pompe à chaleur de piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un climatiseur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ruelle avec nombreuses unités extérieures fixées aux façades.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.44,
+        "largeur": 0.12,
+        "hauteur": 0.24
+      },
+      "lieu": "Singapour",
+      "note": "Rectangle sur une unité nette à gauche."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Clapet d'aération sur brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

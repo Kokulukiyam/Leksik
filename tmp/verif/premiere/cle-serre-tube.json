@@ -1,0 +1,53 @@
+{
+ "termId": "cle-serre-tube",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Main tenant une clé à cliquet sur un appareil de sport extérieur.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Clé à cliquet, pas une clé serre-tube."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Clé serre-tube rouge à mâchoires dentées réglables, posée à plat sur du béton.",
+   "verdict": "validée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Clé serre-tube typique, nette et dominante ; la marque gravée ne donne pas la réponse."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Clé-manivelle à douille sur fond blanc.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Clé à manivelle d'instrument, pas une clé serre-tube."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Clé serre-tube suédoise à poignée rouge posée sur une pierre, image en bandeau.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Suède",
+   "note": "Modèle atypique à mâchoire coudée, bandeau étroit ; moins parlant que 02."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Clés de lit et lances de pompiers exposées dans un musée.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "San Francisco, États-Unis",
+   "note": "Clés de lit, pas des clés serre-tube."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Trois clés serre-tube anciennes sur du béton, avec un crayon.",
+   "verdict": "validée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Clés serre-tube classiques ; les trois objets sont des clés serre-tube, donc sans ambiguïté."
+  }
+ ]
+}

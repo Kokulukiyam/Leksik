@@ -1,0 +1,53 @@
+{
+ "termId": "spatule-crantee",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Façade avec enseigne de quincaillerie irlandaise.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Tralee, Irlande",
+   "note": "Sans rapport, texte visible."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Photo historique en noir et blanc de personnes lors d'une pose de première pierre.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Aucune spatule crantée."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Truelle commémorative encadrée au mur d'une exposition.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Manille, Philippines",
+   "note": "Truelle de cérémonie, texte visible."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Meuleuse aiguisant une truelle sur une souche, étincelles.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Truelle, pas une spatule crantée."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Platoir à éponge vert posé sur un tissu rouge.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Platoir à jointer en mousse, pas de bord denté."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Petite truelle d'archéologue posée dans une fouille.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Oregon, États-Unis",
+   "note": "Truelle, pas une spatule crantée."
+  }
+ ]
+}

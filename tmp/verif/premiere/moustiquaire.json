@@ -1,0 +1,53 @@
+{
+  "termId": "moustiquaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Voiture ancienne rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Personne accrochant une moustiquaire de lit bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moustiquaire de lit, pas de fenêtre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mailles très fines floues sur un paysage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre avec store vénitien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de moustiquaire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Enfant à la fenêtre d'une cabane avec rideau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de moustiquaire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre dont la toile à mailles fines en grille serrée tend l'ouvrant, vue sur un parking.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Tempe, Arizona",
+      "note": "Maillage de moustiquaire bien visible sur toute l'image."
+    }
+  ]
+}

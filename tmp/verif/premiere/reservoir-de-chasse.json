@@ -1,0 +1,53 @@
+{
+  "termId": "reservoir-de-chasse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "WC à l'anglaise dans une cabine turquoise, réservoir caché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Aucun réservoir visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cuvette sans abattant dans un cabinet jaune, levier de chasse au mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Pas de réservoir visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Trois urinoirs muraux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Urinoirs, pas de réservoir."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux urinoirs sur panneau sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Urinoirs."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Toilettes PMR avec lavabo, cuvette suspendue, plaque de commande murale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Réservoir encastré invisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cuvette sale vue de dessus, abattant ouvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Aucun réservoir."
+    }
+  ]
+}

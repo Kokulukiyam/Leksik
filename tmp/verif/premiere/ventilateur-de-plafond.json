@@ -1,0 +1,53 @@
+{
+  "termId": "ventilateur-de-plafond",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Nef d'église avec petits ventilateurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belize City",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ventilateur de plafond avec lustre en rotation, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou de rotation."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rendu 3D d'un ventilateur industriel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu 3D."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ventilateur de plafond à trois pales brunes sur plafond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Net et dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Salle de classe avec ventilateurs lointains.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kaduna, Nigeria",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ventilateur de plafond à cinq pales avec bloc lumineux.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Net et dominant."
+    }
+  ]
+}

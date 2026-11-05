@@ -1,0 +1,53 @@
+{
+  "termId": "cylindre-de-serrure",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plaque de serrure ouvragée avec trou de clé et poignée à levier sur porte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Serrure et poignée, pas un cylindre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tracteur tondeuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ferrures clouetées en relief.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Joueur de cricket.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte en bois avec heurtoir en tête de lion, entrée de clé, panneau écrit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de cylindre net et texte visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Joueur de cricket.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

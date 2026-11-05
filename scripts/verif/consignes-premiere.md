@@ -72,3 +72,9 @@ Ouvre les fichiers produits avec l'outil Read pour les regarder.
 - `rectangle` : `null` si l'élément occupe clairement l'image entière ou si l'image est rejetée.
 - `lieu` : facultatif, d'après le titre ou la description Commons (ville, pays), sinon `""`.
 - Ne modifie aucun autre fichier du projet.
+
+## Fichiers temporaires
+
+Plusieurs agents travaillent en même temps : si tu écris des scripts ou fichiers temporaires, mets-les dans un dossier
+à toi, `tmp/verif/agents/<nom-de-ton-lot>/` (jamais dans un dossier partagé ni sous un nom générique). Écris chaque
+`tmp/verif/premiere/<id>.json` dès qu'un terme est fini, et vérifie à la fin qu'ils existent tous.

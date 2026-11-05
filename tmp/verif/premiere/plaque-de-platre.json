@@ -1,0 +1,53 @@
+{
+  "termId": "plaque-de-platre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier sur échelle devant une cloison en cours : ossature métallique, laine minérale, isolant alu et plaque violette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Ossature et plaques mélangées, plaque peu visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Surface murale lisse beige uniforme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rien n'identifie une plaque de plâtre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand mur de hall couvert de plaques grises en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Richmond, Kentucky",
+      "note": "Plaques peu lisibles, échelle confuse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plafond ancien en stuc très ornementé d'un hall.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne, Autriche",
+      "note": "Stuc, pas une plaque de plâtre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvrier près de montants métalliques galvanisés avec boîtier électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Richmond, Kentucky",
+      "note": "Montre l'ossature, pas la plaque."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvriers accroupis dans un couloir à ossature métallique avec plaques violettes et vertes au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Plaques secondaires derrière l'ossature, ambigu."
+    }
+  ]
+}

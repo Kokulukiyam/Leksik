@@ -1,0 +1,58 @@
+{
+  "termId": "cadenas",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tas de cadenas sombres et sales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image confuse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cadenas en laiton passé dans un moraillon sur une porte en bois.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.42,
+        "largeur": 0.22,
+        "hauteur": 0.46
+      },
+      "lieu": "",
+      "note": "Cadenas net et dominant, rectangle sur le cadenas seul (le moraillon est un autre terme)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vitrine de serrures anciennes avec étiquette écrite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tamil Nadu, Inde",
+      "note": "Texte visible, éléments peu clairs."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Personne avec une chaîne de ceinture cadenassée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadenas minuscule."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Garde-corps d'un belvédère couvert de cadenas d'amour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mount Gambier, Australie",
+      "note": "Cadenas petits."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Planche de cadenas anciens aux anses en U et à trou de clé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Acre, Israël",
+      "note": "Tous les objets sont des cadenas, sans ambiguïté."
+    }
+  ]
+}

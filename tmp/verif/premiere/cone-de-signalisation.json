@@ -1,0 +1,58 @@
+{
+  "termId": "cone-de-signalisation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cône orange décoré en tête de dinosaure, dans un sous-bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Smārde, Lettonie",
+      "note": "Cône détourné, fantaisiste."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Avenue urbaine avec balises flexibles orange et blanches le long d'une piste cyclable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Makati, Philippines",
+      "note": "Balises souples, pas des cônes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Marines en exercice dans la neige, un cône orange et blanc à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Setermoen, Norvège",
+      "note": "Cône secondaire, scène d'arrestation distrayante."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Route de chantier avec ouvriers, camion et plusieurs cônes orange à bandes blanches ; un cône au premier plan à droite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.72,
+        "y": 0.81,
+        "largeur": 0.09,
+        "hauteur": 0.18
+      },
+      "lieu": "Pérou",
+      "note": "Cône net au premier plan, rectangle contrôlé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panorama déformé pris à travers une vitre, parking et arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cône lisible, image déformée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cône orange flou sur l'herbe, de nuit, en mouvement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, mal éclairé, cône délavé."
+    }
+  ]
+}

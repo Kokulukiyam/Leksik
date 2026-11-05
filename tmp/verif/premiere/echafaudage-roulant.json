@@ -1,0 +1,53 @@
+{
+  "termId": "echafaudage-roulant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tour ancienne ceinte d'échafaudage de perches ligaturées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zanzibar",
+      "note": "Échafaudage en perches, pas une tour roulante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Clocher en rénovation entièrement entouré d'échafaudage tubulaire, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Constance, Allemagne",
+      "note": "Échafaudage fixe de grande hauteur, pas une tour sur roulettes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mosquée avec échafaudage de perches en façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Surabaya, Indonésie",
+      "note": "Échafaudage fixe, non roulant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade de magasin enveloppée d'un échafaudage tubulaire, passants au pied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Göteborg, Suède",
+      "note": "Échafaudage fixe, pas de roulettes visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Page enluminée médiévale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enluminure, pas une photo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Page enluminée médiévale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enluminure, pas une photo."
+    }
+  ]
+}
