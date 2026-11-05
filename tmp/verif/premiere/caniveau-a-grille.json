@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de grille."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Une chute d'eau en cascade dans un canal dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un caniveau à grille."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rejet d'eau de refroidissement d'une centrale dans un bassin avec damier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Une buse de brique à ciel ouvert sortant d'un talus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un caniveau à grille."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un déversoir de pierres dans des thermes antiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Un cours d'eau de montagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Une zone inondée avec cordes et poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de caniveau à grille visible."
     }
   ]
 }

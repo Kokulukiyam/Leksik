@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Harnais pour bébé, texte visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Un ouvrier sur une échelle contre une ossature bois, harnais jaune à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Harnais partiellement caché, sujet dilué."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Un charpentier martelant sur une ossature bois, sangles de harnais jaunes visibles sur le torse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Harnais visible mais petit et partiellement masqué par une pièce de bois."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toiture-terrasse avec un point d'ancrage et des panneaux solaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Point d'ancrage ou ligne de vie, pas de harnais."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Autre vue de la toiture avec ancrages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancrages seuls, pas de harnais."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Un harnais d'entraînement pour enfant (snowboard) avec laisse rétractable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Harnais pour enfant, pas un harnais de sécurité de chantier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Un marin en combinaison bleue portant un harnais à sangles rouges et ceinture bleue, mousqueton et longe jaune accrochés à une vergue.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.2,
+        "largeur": 0.8,
+        "hauteur": 0.78
+      },
+      "lieu": "Atlantique, USS Constitution",
+      "note": "Harnais antichute et longe clairement visibles, malgré le contexte maritime."
     }
   ]
 }

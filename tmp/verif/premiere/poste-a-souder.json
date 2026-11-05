@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Aucun poste visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Boîtier orange d un poste à souder inverter posé sur tôle, sans câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans pince ni câbles, logo de marque ; pourrait passer pour tout boîtier."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Robot de soudure à l arc dans une usine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Robot industriel, pas un poste de chantier."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Poste à souder MIG bordeaux avec poignée, dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poste MIG (pas à électrode), horodatage et nom visibles, lieu sombre."
     }
   ]
 }

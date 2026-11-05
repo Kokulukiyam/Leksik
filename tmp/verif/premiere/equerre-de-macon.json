@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Image recadrée, pierre devant, lame coupée ; moins lisible que 01."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur d atelier avec outils anciens accrochés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outils multiples, pas d équerre dominante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Équerres et fausse équerre en bois anciennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équerres en bois de menuisier, pas de maçon."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mains traçant des lettres au crayon le long d une équerre jaune graduée sur de la pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équerre partiellement cadrée, mains au premier plan, outil de traçage."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Outils anciens de charpentier accrochés au mur d un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équerre petite, outils multiples."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Équerres et fausse équerre noires en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outils de menuisier, pas de maçon."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Équerre métallique à talon noir sur pierre sombre, éclairée au flash.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image sombre, éblouie, peu lisible."
     }
   ]
 }

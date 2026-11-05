@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Trop sombre, confusion avec galerie ou loggia."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rez-de-chaussée d'un bâtiment jaune ouvert par trois grands arcs en plein cintre sur piliers.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.45,
+        "largeur": 0.89,
+        "hauteur": 0.33
+      },
+      "lieu": "Máriapócs, Hongrie",
+      "note": "Suite d'arcs sur piliers en façade, très lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Arche gonflable bleue de compétition de parapente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Arc pointu monumental d'une mosquée vu depuis le sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Un seul arc, pas une suite."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Galerie de piliers et d'arcs en pierre successifs, vue en enfilade.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Suite d'arcs en pierre portés par des piliers, nette."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de pierre percé de quelques arcs aveugles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs partiels dans un rempart, peu net."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Immeuble d'angle à tourelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcades marginales."
     }
   ]
 }

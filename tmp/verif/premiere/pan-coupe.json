@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Laval, France",
       "note": "Trop loin, angle peu lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble d'angle gris et rose à Cape Town dont l'entrée semble sur un angle oblique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pan coupé possible mais petit et ambigu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Boulevard de Toulon avec immeuble arrondi à balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Angle arrondi, pas un pan coupé net."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Immeuble de pierre à Göteborg en angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Angle pas assez lisible, doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Immeuble haussmannien d'angle à Grenoble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Angle franc visible, pas un pan coupé."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immeuble d'angle ornementé à Francfort.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Angle peu lisible, doute."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Hôtel à balcons filants et angle à pans multiples.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Angle à ressauts, ambigu."
     }
   ]
 }

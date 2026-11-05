@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Peinture, matière peu claire, cadrage douteux."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Balcon ovale à garde-corps vert sous des statues Art nouveau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps petit au milieu d'une façade chargée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Clôture en fer forgé ancienne couverte de mousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clôture de tombe, pas un garde-corps."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Balcon d'un hôtel particulier à garde-corps en métal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps petit et lointain."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grille de fenêtre en fer forgé à volutes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille de fenêtre, pas un garde-corps."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Garde-corps de balcon en fer forgé à volutes avec un écu central, devant une fenêtre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.22,
+        "largeur": 1.0,
+        "hauteur": 0.5
+      },
+      "lieu": "Bratislava, Slovaquie",
+      "note": "Garde-corps ornemental net et dominant ; rectangle sur le fer forgé."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Statue d'homme accoudée à un garde-corps de fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Statue dominante, doute."
     }
   ]
 }

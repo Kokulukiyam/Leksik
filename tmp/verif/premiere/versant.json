@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Versants non lisibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Aile en pierre de l'ancien hôpital de Buffalo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Versants peu lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux tours à flèches et pignon, façade en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flèches et pignon, versant ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tour et façade de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Versant non distinct."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Aile en pierre avec pignon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pignon dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment en brique abandonné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit non visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grand pignon de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pignon, pas un versant."
     }
   ]
 }

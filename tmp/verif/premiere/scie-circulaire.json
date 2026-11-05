@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Hanovre, Allemagne",
       "note": "Disques d'épareuse, pas une scie circulaire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ancienne photo en noir et blanc d'un jeune ouvrier à une scie circulaire d'atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo historique, scie de scierie, peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vieille machine de scierie rouillée avec lame circulaire, dans un hangar.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine ancienne peu lisible, pas une scie circulaire portative ou de table typique."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Une scie circulaire électrique portative posée au sol sur du carton, devant des tréteaux de chantier.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.5,
+        "y": 0.69,
+        "largeur": 0.3,
+        "hauteur": 0.25
+      },
+      "lieu": "Kitchen installation IKEA",
+      "note": "Scie circulaire portative nette et reconnaissable, encadrée de près."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Une meuleuse-scie à lame rouge montée sur un skateboard, au milieu d'une foule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détournement humoristique, scène confuse."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Page d'archive manuscrite avec un petit schéma de protection de cirkelzaag.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document d'archive, pas une photo de l'objet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dessin au trait d'ouvriers autour d'une scie circulaire de table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
     }
   ]
 }

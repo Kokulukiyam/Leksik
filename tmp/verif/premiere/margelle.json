@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de margelle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Scène de piscine avec baigneurs ou enfant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Margelle non montrée ou non isolable (baigneurs, éclaboussures)."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Scène de piscine avec baigneurs ou enfant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Margelle non montrée ou non isolable (baigneurs, éclaboussures)."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Scène de piscine avec baigneurs ou enfant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Margelle non montrée ou non isolable (baigneurs, éclaboussures)."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Piscine résidentielle avec baigneurs, large bordure claire tout autour et transats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bordure large type plage de piscine, impossible à encadrer sans doute."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Scène de piscine avec baigneurs ou enfant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Margelle non montrée ou non isolable (baigneurs, éclaboussures)."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Scène de piscine avec baigneurs ou enfant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Margelle non montrée ou non isolable (baigneurs, éclaboussures)."
     }
   ]
 }

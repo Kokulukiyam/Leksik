@@ -53,6 +53,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Abri sommaire, pas une pergola."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pergola en lames de bois clair sur un jardin engazonné, avec allée de dalles au milieu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.07,
+        "largeur": 0.43,
+        "hauteur": 0.88
+      },
+      "lieu": "Pakistan",
+      "note": "Pergola en bois de poteaux et poutres ajourées, nette et dominante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Jardin avec murets en pierre, statues d'oiseaux et colonnes au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pergola lointaine et peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Treillage blanc au-dessus d'un massif de tulipes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treillage de fond, tulipes dominantes, doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arches en galets dans un jardin avec allée dallée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs en maçonnerie, pas une pergola."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petit pavillon en briques à porte cintrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petit pavillon, pas une pergola."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Large structure à poteaux de bois couverte de bougainvilliers, abritant des bancs.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.45,
+        "largeur": 0.95,
+        "hauteur": 0.5
+      },
+      "lieu": "",
+      "note": "Couvert léger de poteaux et poutres ajourés couvert de bougainvillée ; structure lisible sous la végétation."
     }
   ]
 }

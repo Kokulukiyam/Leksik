@@ -1,0 +1,53 @@
+{
+  "termId": "bac-acier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maisons en bois de Maramureș, petites tôles ondulées en clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de bac acier clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Église à toiture en tôle à joint debout gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joint debout, pas bac acier à grandes ondes trapézoïdales."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chalet en rondins en construction, tôle bleue à petites ondulations.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tôle ondulée fine, pas bac acier."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    }
+  ]
+}

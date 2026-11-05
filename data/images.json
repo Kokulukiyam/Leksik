@@ -2415,6 +2415,32 @@
     "note": "Vérification : Cylindre et engin bien visibles, de profil. Contre-vérification : Compacteur monocylindre avec gros cylindre d'acier à l'avant, en action sur le sol ; terme juste."
   },
   {
+    "id": "rouleau-compresseur-10",
+    "termId": "rouleau-compresseur",
+    "fichier": "commons/rouleau-compresseur-10.webp",
+    "rectangle": null,
+    "lieu": "Lesménils, France",
+    "source": "commons",
+    "auteur": "Alexandre Prevot",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:CAT_CS563E_-_54831937903.jpg",
+    "statut": "validée",
+    "note": "Vérification : Engin typique, net et dominant ; cylindre d'acier bien visible. Contre-vérification : Compacteur monocylindre avec gros cylindre d'acier à l'avant, sujet dominant sur un chantier : rouleau compresseur sans ambiguïté."
+  },
+  {
+    "id": "rouleau-compresseur-11",
+    "termId": "rouleau-compresseur",
+    "fichier": "commons/rouleau-compresseur-11.webp",
+    "rectangle": null,
+    "lieu": "Cangas, Espagne",
+    "source": "commons",
+    "auteur": "Luis Miguel Bugallo Sánchez(Lmbuga)",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cangas._Galiza-15.jpg",
+    "statut": "validée",
+    "note": "Vérification : Engin complet et lisible, cylindre visible. Contre-vérification : Vue latérale d'un compacteur à cylindre d'acier avant, clairement un rouleau compresseur ; la pelle en arrière-plan est marginale."
+  },
+  {
     "id": "plaque-vibrante-01",
     "termId": "plaque-vibrante",
     "fichier": "commons/plaque-vibrante-01.webp",
@@ -9482,6 +9508,32 @@
     "note": "Vérification : Rectangle sur la douchette, bien visible. Contre-vérification : Douchette hygiénique à gâchette sur son support à côté de la cuvette, bien désignée par le rectangle."
   },
   {
+    "id": "bidet-05",
+    "termId": "bidet",
+    "fichier": "commons/bidet-05.webp",
+    "rectangle": null,
+    "lieu": "Breuil-Cervinia, Italie",
+    "source": "commons",
+    "auteur": "Tiia Monto",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bidet_in_Italy_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bidet moderne net et dominant ; forme basse allongée sans abattant, sans doute possible. Contre-vérification : Bidet en céramique au sol avec robinetterie, vue rapprochée, forme typique non confondable avec un lavabo ou un WC."
+  },
+  {
+    "id": "bidet-06",
+    "termId": "bidet",
+    "fichier": "commons/bidet-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Basan1980 sur Wikipédia allemand",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bidet_weiss.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bidet moderne clair, entièrement visible. Contre-vérification : Bidet suspendu en céramique avec mitigeur à jet orientable, forme oblongue typique, clairement identifiable."
+  },
+  {
     "id": "urinoir-01",
     "termId": "urinoir",
     "fichier": "commons/urinoir-01.webp",
@@ -9663,6 +9715,32 @@
     "note": "Vérification : Coude de tuyauterie net et dominant, change la direction du tube. Contre-vérification : Coude à 90° en cuivre à sertir sur une canalisation, bien cadré par le rectangle."
   },
   {
+    "id": "te-01",
+    "termId": "te",
+    "fichier": "commons/te-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Mini.fb",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:T%C3%A9s_de_plomberie.jpg",
+    "statut": "validée",
+    "note": "Vérification : Raccords en T nets et dominants, forme indiscutable. Contre-vérification : Deux raccords en T posés à plat (PVC gris et cuivre), forme de té parfaitement lisible."
+  },
+  {
+    "id": "te-02",
+    "termId": "te",
+    "fichier": "commons/te-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Ghasemimoshref",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gas_pipe_tee.jpg",
+    "statut": "validée",
+    "note": "Vérification : Té de tuyauterie net ; inscriptions sans rapport avec la réponse. Contre-vérification : Té en acier à souder en gros plan, forme en T avec piquage de dérivation bien visible."
+  },
+  {
     "id": "raccord-03",
     "termId": "raccord",
     "fichier": "commons/raccord-03.webp",
@@ -9715,6 +9793,37 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Ball_valve_in_household.jpg",
     "statut": "validée",
     "note": "Vérification : Vanne quart de tour à poignée rouge, cadrée ; texte de marque sans gêne. Contre-vérification : Vanne quart de tour à manette rouge sur canalisation, encadrée ; terme juste."
+  },
+  {
+    "id": "manometre-04",
+    "termId": "manometre",
+    "fichier": "commons/manometre-04.webp",
+    "rectangle": {
+      "x": 0.62,
+      "y": 0.27,
+      "largeur": 0.24,
+      "hauteur": 0.36
+    },
+    "lieu": "Dexheim, Allemagne",
+    "source": "commons",
+    "auteur": "Fernost",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:AB-BLDG-6555013.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cadran à aiguille clairement encadré ; inscription allemande discrète. Contre-vérification : Rectangle cadrant exactement un cadran à aiguille gradué en mbar raccordé à une canalisation : manomètre."
+  },
+  {
+    "id": "manometre-06",
+    "termId": "manometre",
+    "fichier": "commons/manometre-06.webp",
+    "rectangle": null,
+    "lieu": "Rapperswil, Suisse",
+    "source": "commons",
+    "auteur": "Roland zh",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dampfschiff_Stadt_Rapperswil_-_Schiffsmotor_2011-05-01_18-12-00.JPG",
+    "statut": "validée",
+    "note": "Vérification : Trois manomètres nets et dominants, sans ambiguïté. Contre-vérification : Trois cadrans à aiguille montés sur canalisations avec robinets et lyres, manomètres dominants en haut de l'image."
   },
   {
     "id": "compteur-d-eau-06",
@@ -9831,6 +9940,78 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Solar_water_heater.jpg",
     "statut": "validée",
     "note": "Vérification : Rectangle sur les tubes, sans le ballon ni les tuyaux. Contre-vérification : Rectangle sur le capteur à tubes sous vide, le ballon au-dessus restant essentiellement hors du cadre."
+  },
+  {
+    "id": "groupe-de-securite-02",
+    "termId": "groupe-de-securite",
+    "fichier": "commons/groupe-de-securite-02.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.27,
+      "largeur": 0.64,
+      "hauteur": 0.55
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Prométhée",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Groupe_de_s%C3%A9curit%C3%A9.jpg",
+    "statut": "validée",
+    "note": "Vérification : Exemple typique, rectangle sur le groupe. Contre-vérification : Rectangle sur l'organe en laiton à soupape (molette rouge, robinet, entonnoir blanc) sous un cumulus : groupe de sécurité typique."
+  },
+  {
+    "id": "radiateur-05",
+    "termId": "radiateur",
+    "fichier": "commons/radiateur-05.webp",
+    "rectangle": {
+      "x": 0.17,
+      "y": 0.43,
+      "largeur": 0.72,
+      "hauteur": 0.45
+    },
+    "lieu": "Bielsko-Biała, Pologne",
+    "source": "commons",
+    "auteur": "Kamil Czaiński",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bielsko-Bia%C5%82a,_ratusz_-_wn%C4%99trza_(zdobiony_kaloryfer).jpg",
+    "statut": "validée",
+    "note": "Vérification : Radiateur à éléments net et dominant. Contre-vérification : Rectangle cadrant exactement un radiateur à éléments en fonte ouvragée, sans ambiguïté."
+  },
+  {
+    "id": "plancher-chauffant-03",
+    "termId": "plancher-chauffant",
+    "fichier": "commons/plancher-chauffant-03.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.5,
+      "largeur": 1,
+      "hauteur": 0.5
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Inconnu",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Col%C2%B7lector_terra_radiant_i_tubs.JPG",
+    "statut": "validée",
+    "note": "Vérification : Tubes en serpentin sur isolant, rectangle sur le réseau (pas le collecteur). Contre-vérification : Rectangle sur les tubes rouges en serpentin sur plaque isolante à plots, avant chape ; le collecteur reste au-dessus du cadre."
+  },
+  {
+    "id": "plancher-chauffant-06",
+    "termId": "plancher-chauffant",
+    "fichier": "commons/plancher-chauffant-06.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.5,
+      "largeur": 0.75,
+      "hauteur": 0.45
+    },
+    "lieu": "Dornbirn, Autriche",
+    "source": "commons",
+    "auteur": "Asurnipal",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dornbirn-Ebnit-underfloor_heating-system-03ASD.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tubes en serpentin sur isolant avant chape, rectangle sur le réseau. Contre-vérification : Rectangle sur tubes blancs posés en boucles sur panneau isolant à plots noirs, pendant la pose : plancher chauffant avant chape."
   },
   {
     "id": "bouteille-de-gaz-02",
@@ -10045,6 +10226,19 @@
     "note": "Vérification : Groupe sous capot insonorisé clair ; rectangle sur le groupe principal. Un autocollant en anglais est petit. Contre-vérification : Groupe électrogène diesel sous capot insonorisé rouge, nettement désigné par le rectangle."
   },
   {
+    "id": "poste-de-transformation-04",
+    "termId": "poste-de-transformation",
+    "fichier": "commons/poste-de-transformation-04.webp",
+    "rectangle": null,
+    "lieu": "Zagreb, Croatie",
+    "source": "commons",
+    "auteur": "Mnalis",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Graffiti_on_power_substation_at_trg_dt._Franje_Tu%C4%91mana,_Zagreb.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cabine de poste de transformation claire et dominante. Contre-vérification : Cabine basse à portes et persiennes de ventilation, isolée sur une pelouse : poste de transformation de quartier typique malgré la peinture décorative."
+  },
+  {
     "id": "ampoule-04",
     "termId": "ampoule",
     "fichier": "commons/ampoule-04.webp",
@@ -10200,6 +10394,19 @@
     "note": "Vérification : Batterie de projecteurs nette et dominante. Contre-vérification : Couronne de projecteurs orientables au sommet d'un mât d'éclairage, bien désignée par le rectangle."
   },
   {
+    "id": "lampadaire-solaire-01",
+    "termId": "lampadaire-solaire",
+    "fichier": "commons/lampadaire-solaire-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Yoann213",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lampadaire_solaire_IMEXLAMP.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lampadaire solaire typique et dominant. Contre-vérification : Mât d'éclairage complet avec luminaire et panneau photovoltaïque au sommet, sujet unique et dominant : lampadaire solaire."
+  },
+  {
     "id": "bloc-autonome-d-eclairage-de-securite-03",
     "termId": "bloc-autonome-d-eclairage-de-securite",
     "fichier": "commons/bloc-autonome-d-eclairage-de-securite-03.webp",
@@ -10278,6 +10485,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Kabus_000246_171296_516068_4578_(36775938376).jpg",
     "statut": "validée",
     "note": "Vérification : Batteries dominantes, cadrées ; régulateur laissé hors cadre. Contre-vérification : Deux batteries à décharge profonde reliées à un régulateur solaire, bien cadrées par le rectangle."
+  },
+  {
+    "id": "regulateur-de-charge-02",
+    "termId": "regulateur-de-charge",
+    "fichier": "commons/regulateur-de-charge-02.webp",
+    "rectangle": {
+      "x": 0.16,
+      "y": 0.25,
+      "largeur": 0.6,
+      "hauteur": 0.5
+    },
+    "lieu": "Wisconsin, États-Unis",
+    "source": "commons",
+    "auteur": "Photo by Cody Kabus. – U.S. Department of Energy from United States",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kabus_000245_171295_516064_4578_(36775931446).jpg",
+    "statut": "validée",
+    "note": "Vérification : Régulateur net et dominant, rectangle sur le boîtier ; libellé discret. Contre-vérification : Rectangle sur un petit boîtier à écran marqué « Solar charge controller » avec bornes de câbles : régulateur de charge sans ambiguïté."
   },
   {
     "id": "split-02",
@@ -10407,6 +10632,42 @@
     "note": "Vérification : Gaines circulaires de ventilation, nettes et dominantes. Contre-vérification : Grosses gaines rondes en tôle à brides reliées à un caisson de traitement d'air sur une toiture technique : gaines de ventilation dominantes."
   },
   {
+    "id": "centrale-de-traitement-d-air-04",
+    "termId": "centrale-de-traitement-d-air",
+    "fichier": "commons/centrale-de-traitement-d-air-04.webp",
+    "rectangle": {
+      "x": 0.03,
+      "y": 0.6,
+      "largeur": 0.92,
+      "hauteur": 0.35
+    },
+    "lieu": "Brisbane, Australie",
+    "source": "commons",
+    "auteur": "Kgbo",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Air_handling_units_in_large_commercial_building,_Brisbane_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Caisson modulaire bleu net, rectangle sur la centrale (pas les gaines). Contre-vérification : Rectangle sur un grand caisson modulaire bleu à panneaux, raccordé aux gaines au-dessus : centrale de traitement d'air."
+  },
+  {
+    "id": "centrale-de-traitement-d-air-06",
+    "termId": "centrale-de-traitement-d-air",
+    "fichier": "commons/centrale-de-traitement-d-air-06.webp",
+    "rectangle": {
+      "x": 0.17,
+      "y": 0.18,
+      "largeur": 0.72,
+      "hauteur": 0.68
+    },
+    "lieu": "Baden, Suisse",
+    "source": "commons",
+    "auteur": "Dominique.bugmann",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Waermerueckgewinnung_KSBA.JPG",
+    "statut": "validée",
+    "note": "Vérification : Centrale typique et nette, rectangle sur le caisson. Contre-vérification : Rectangle sur une centrale modulaire à portes de visite, hublots et manomètres de filtres : centrale de traitement d'air typique."
+  },
+  {
     "id": "hotte-01",
     "termId": "hotte",
     "fichier": "commons/hotte-01.webp",
@@ -10523,6 +10784,50 @@
     "note": "Vérification : Rouleau net et dominant dans un contexte de plaques ; rectangle sur le rouleau. Contre-vérification : Rouleau de bande à joint posé sur des plaques de plâtre, désigné par le rectangle parmi les couteaux à enduire ; juste."
   },
   {
+    "id": "pare-vapeur-01",
+    "termId": "pare-vapeur",
+    "fichier": "commons/pare-vapeur-01.webp",
+    "rectangle": null,
+    "lieu": "Norvège",
+    "source": "commons",
+    "auteur": "Øyvind Holmstad",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dampbrems_1.JPG",
+    "statut": "validée",
+    "note": "Vérification : Membrane de pare/frein-vapeur côté intérieur, nette ; marque seule en texte. Contre-vérification : Membrane plastique (Intello) tendue côté intérieur d'un mur de comble, sujet dominant : pare-vapeur."
+  },
+  {
+    "id": "pare-vapeur-04",
+    "termId": "pare-vapeur",
+    "fichier": "commons/pare-vapeur-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Ampack",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dampfbremse.jpg",
+    "statut": "validée",
+    "note": "Vérification : Film pare-vapeur posé côté intérieur, clairement lisible. Contre-vérification : Membrane Ampatex DB 90 tendue sous l'isolant du rampant et maintenue par des liteaux, sujet dominant : pare-vapeur."
+  },
+  {
+    "id": "mousse-polyurethane-projetee-03",
+    "termId": "mousse-polyurethane-projetee",
+    "fichier": "commons/mousse-polyurethane-projetee-03.webp",
+    "rectangle": {
+      "x": 0.02,
+      "y": 0.25,
+      "largeur": 0.96,
+      "hauteur": 0.21
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Jeskola26",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Professional_spray_foam_application.jpg",
+    "statut": "validée",
+    "note": "Vérification : Mousse jaunâtre irrégulière sur les solives, projection visible ; rectangle sur la mousse pour écarter l'isolant réfléchissant des murs. Contre-vérification : Rectangle sur le plafond de vide sanitaire couvert de mousse jaunâtre irrégulière entre solives, opérateur en train de projeter : mousse polyuréthane projetée."
+  },
+  {
     "id": "faux-plafond-en-dalles-02",
     "termId": "faux-plafond-en-dalles",
     "fichier": "commons/faux-plafond-en-dalles-02.webp",
@@ -10583,6 +10888,32 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Polished_Porcelain_Floor_Tiling.jpg",
     "statut": "validée",
     "note": "Vérification : Grands carreaux à surface polie brillante visiblement réfléchissante ; sol dominant, photo claire. Contre-vérification : Sol en grands carreaux gris à surface brillante qui reflète la lumière : grès cérame poli."
+  },
+  {
+    "id": "carreau-hexagonal-03",
+    "termId": "carreau-hexagonal",
+    "fichier": "commons/carreau-hexagonal-03.webp",
+    "rectangle": null,
+    "lieu": "Moscou, Russie",
+    "source": "commons",
+    "auteur": "Retired electrician",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2026-05-27_%D0%A6%D0%A2%D0%98_%D0%A4%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0_-_%D1%81%D0%BA%D0%BB%D0%B0%D0%B4_-_%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B0_%D0%BF%D0%BE%D0%BB%D0%B0_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Hexagones très nets, posés en nid d'abeilles. Contre-vérification : Sol de carreaux à six côtés à motif en relief, posés en nid d'abeilles et remplissant l'image : carreau hexagonal."
+  },
+  {
+    "id": "carreau-hexagonal-04",
+    "termId": "carreau-hexagonal",
+    "fichier": "commons/carreau-hexagonal-04.webp",
+    "rectangle": null,
+    "lieu": "Epping, Essex, Angleterre",
+    "source": "commons",
+    "auteur": "Acabashi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Copped_Hall_Stables_wall_tiles,_Epping,_Essex,_England_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Hexagones évidents et dominants. Contre-vérification : Carreaux émaillés verts hexagonaux posés en nid d'abeilles, forme parfaitement lisible : carreau hexagonal."
   },
   {
     "id": "plinthe-03",
@@ -10655,6 +10986,68 @@
     "note": "Vérification : Revêtement de lames de bois assemblées, net et plein cadre. Contre-vérification : Parquet mosaïque en chêne avec cabochons de bois exotique ; clairement un parquet."
   },
   {
+    "id": "parquet-a-batons-rompus-01",
+    "termId": "parquet-a-batons-rompus",
+    "fichier": "commons/parquet-a-batons-rompus-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Kai Kemmann",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Durch_Stuhlrollen_eines_B%C3%BCrostuhls_abgenutzter_Parkettlack_auf_historischem_Eichenholz-Fischgr%C3%A4tparkett_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Motif net, bouts carrés ; usure du vernis visible mais motif dominant. Contre-vérification : Parquet à lames rectangulaires posées à angle droit en zigzag couvrant l'essentiel de l'image : bâtons rompus, malgré la tache et le fauteuil."
+  },
+  {
+    "id": "parquet-a-batons-rompus-03",
+    "termId": "parquet-a-batons-rompus",
+    "fichier": "commons/parquet-a-batons-rompus-03.webp",
+    "rectangle": {
+      "x": 0.3,
+      "y": 0.45,
+      "largeur": 0.7,
+      "hauteur": 0.55
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Pazzo4562",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Oak_herringbone_wood_floor_with_two_stripe_wenge_border.jpg",
+    "statut": "validée",
+    "note": "Vérification : Motif reconnaissable ; rectangle sur le sol pour écarter les meubles. Contre-vérification : Rectangle sur un parquet chêne clair en bâtons rompus (lames à bouts droits en zigzag), motif bien lisible autour du tapis."
+  },
+  {
+    "id": "parquet-point-de-hongrie-01",
+    "termId": "parquet-point-de-hongrie",
+    "fichier": "commons/parquet-point-de-hongrie-01.webp",
+    "rectangle": null,
+    "lieu": "Paris, France",
+    "source": "commons",
+    "auteur": "Mini.fb",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Parquet_motif_point_de_Hongrie.jpg",
+    "statut": "validée",
+    "note": "Vérification : Point de Hongrie net, remplit l'image ; teinte sombre un peu inégale. Contre-vérification : Lames coupées en biais formant des chevrons alignés en pointe, plein cadre : point de Hongrie sans ambiguïté."
+  },
+  {
+    "id": "sous-couche-acoustique-05",
+    "termId": "sous-couche-acoustique",
+    "fichier": "commons/sous-couche-acoustique-05.webp",
+    "rectangle": {
+      "x": 0.5,
+      "y": 0.3,
+      "largeur": 0.5,
+      "hauteur": 0.7
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "marsupium photography",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:New_Kitchen_(6167402372).jpg",
+    "statut": "validée",
+    "note": "Vérification : Sous-couche claire, nette, à encadrer car le stratifié est aussi visible. Contre-vérification : Rectangle sur la feuille de mousse blanche déroulée au sol à côté du stratifié en cours de pose : sous-couche acoustique."
+  },
+  {
     "id": "moquette-03",
     "termId": "moquette",
     "fichier": "commons/moquette-03.webp",
@@ -10671,6 +11064,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Teppichboden.JPG",
     "statut": "validée",
     "note": "Vérification : Moquette bien visible, rectangle sur la partie de sol. Contre-vérification : Couloir d'hôtel couvert d'une moquette bleue à motifs posée de mur à mur, rectangle sur le sol ; terme juste."
+  },
+  {
+    "id": "plancher-technique-05",
+    "termId": "plancher-technique",
+    "fichier": "commons/plancher-technique-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Jonathan Lamb",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Detail-under-raised-floor.jpg",
+    "statut": "validée",
+    "note": "Vérification : Vérin, traverses et câbles, très explicite. Contre-vérification : Dalles amovibles soulevées sur vérin métallique, câbles passant dessous : plancher technique typique."
   },
   {
     "id": "papier-peint-04",

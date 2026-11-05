@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Arcade ou portique, doute."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poteau de bois et galerie couverte le long d'un mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galerie, peut passer pour véranda."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Portail voûté d'une église saxonne avec marches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail en retrait plutôt que porche, ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cadre de portail en pierre sculptée ouvert sur la verdure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail seul, pas un porche couvert."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petit porche à fronton triangulaire et arc en plein cintre, accolé à une église.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.52,
+        "y": 0.31,
+        "largeur": 0.3,
+        "hauteur": 0.64
+      },
+      "lieu": "Ziębice, Pologne",
+      "note": "Porche d'église clair ; rectangle sur la partie porche."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Portail gothique de Bourges en photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail d'une cathédrale, photo ancienne virée sépia."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade d'une maison avec avancée couverte à poteaux carrés, garde-corps bas et escalier rouge devant la porte.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Bathsheba, Barbade",
+      "note": "Espace couvert devant l'entrée, formant abri avant la porte."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plutôt auvent ou porche."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Quai de gare avec auvent de métal sur poteaux fins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Auvent de quai de gare, ambigu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Marches en pierre moussues au pied de poteaux blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de marches, véranda non montrée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vieille bâtisse avec avant-toit de tuiles derrière un arbre nu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Immeuble ancien avec loggias et balcons en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcons en bois, pas une véranda."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Galerie couverte en bois vue sous le toit, mosquée au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galerie ambiguë avec porche d'arcade."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Galerie couverte ouverte à colonnes cannelées blanches, sol carrelé et garde-corps ajouré, adossée à un temple.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Paramaribo, Suriname",
+      "note": "Galerie couverte ouverte portée par des poteaux, adossée au bâtiment."
     }
   ]
 }

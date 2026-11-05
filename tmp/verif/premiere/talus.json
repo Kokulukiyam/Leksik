@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pente peu claire, hiver."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rendu 3D coloré de couches géologiques et d'une digue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu 3D, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Versant montagneux boisé avec fleurs, éboulis rocheux au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pente naturelle de montagne, pas un talus aménagé ; non lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Promenade en bord de mer avec statue de deux personnes assises sur un muret.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le talus n'est pas le sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Végétation dense en sous-bois avec une maison au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de talus identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Rendu 3D de couches colorées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu 3D, pas une photo."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une maison sur une pelouse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne photo, talus non identifiable."
     }
   ]
 }

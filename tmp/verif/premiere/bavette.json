@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Bavette de boucherie, hors sujet architectural."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pièce de viande (bavette de bœuf) dans une assiette ou sur une planche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, aucun rapport avec l'architecture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pièce de viande (bavette de bœuf) dans une assiette ou sur une planche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, aucun rapport avec l'architecture."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pièce de viande (bavette de bœuf) dans une assiette ou sur une planche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, aucun rapport avec l'architecture."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pièce de viande (bavette de bœuf) dans une assiette ou sur une planche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, aucun rapport avec l'architecture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pièce de viande (bavette de bœuf) dans une assiette ou sur une planche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, aucun rapport avec l'architecture."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pièce de viande (bavette de bœuf) dans une assiette ou sur une planche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, aucun rapport avec l'architecture."
     }
   ]
 }

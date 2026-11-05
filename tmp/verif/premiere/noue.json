@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Noue non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panorama urbain de Brisbane depuis un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Panorama urbain de Brisbane depuis un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Panorama de la vallée de Yosemite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet (vallée)."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Verrière dans un centre commercial.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Charpente ancienne à colombages vue d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noue non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Brume sur une vallée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet (vallée)."
     }
   ]
 }

@@ -53,6 +53,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Confusion avec dôme et flèche."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison des éléphants à toits coniques et coupole.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toits coniques peu lisibles, ensemble de coupoles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tiny houses au bord d'un étang.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tiny houses au bord d'un étang.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tourelle ronde blanche coiffée d'un toit conique en tuiles écailles avec pointe métallique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.12,
+        "largeur": 0.64,
+        "hauteur": 0.52
+      },
+      "lieu": "",
+      "note": "Toit conique net sur tour circulaire, dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ange doré sur un dôme en cuivre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dôme, non un toit conique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pavillon circulaire en pierre coiffé d'un grand toit conique blanc.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.54,
+        "y": 0.03,
+        "largeur": 0.44,
+        "hauteur": 0.4
+      },
+      "lieu": "Kenya",
+      "note": "Toit conique très lisible, rectangle sur le cône."
     }
   ]
 }

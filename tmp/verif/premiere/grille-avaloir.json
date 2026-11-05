@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rien de net."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Un regard préfabriqué en béton posé dans une tranchée, avec une grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage de chantier, grille non lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Un trottoir de parking avec une bouche d'avaloir dans la bordure, petite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Avaloir très petit, sujet dilué."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Une grille d'avaloir en fonte à barres ondulées, posée dans le caniveau au pied de la bordure, avec son capot en fonte.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.39,
+        "y": 0.38,
+        "largeur": 0.39,
+        "hauteur": 0.5
+      },
+      "lieu": "Avezzano, Italie",
+      "note": "Grille en fonte nette dans le caniveau, encadrée de près."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un militaire nettoie à l'eau une zone de béton avec un camion jaune, la grille est en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille petite, scène dominée par la personne et le camion."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Une plaque de fonte carrée sur un trottoir, marquée « Applause ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque pleine avec texte, pas une grille."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Un caniveau à grille en fonte encastré dans un sol dallé, en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Caniveau à grille linéaire plutôt que grille avaloir."
     }
   ]
 }

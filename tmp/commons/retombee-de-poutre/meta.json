@@ -12,7 +12,142 @@
     ],
     "incompatibles": [
       "poutre"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete beams",
+      "Category:Beams",
+      "Category:Concrete ceilings"
     ]
   },
-  "candidats": []
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Iveco Stralis HD 420 2009.jpg",
+      "description": "Iveco Stralis HD 420 2009",
+      "categories": [
+        "Taken with Canon PowerShot A630",
+        "Iveco Stralis",
+        "Flickr images reviewed by trusted users",
+        "Files uploaded from Flickr by Jacopo Werther",
+        "Ruta 5 (Chile) in Maule Region",
+        "Trucks in Chile",
+        "Photographs by order 242",
+        "Files with coordinates missing SDC location of creation",
+        "Chile photographs taken on 2010-09-28",
+        "Iveco Stralis semi-trailer tractors",
+        "Concrete beams",
+        "Long vehicles",
+        "Pole trailers"
+      ],
+      "auteur": "order_242 from Chile",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iveco_Stralis_HD_420_2009.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Iveco_Stralis_HD_420_2009.jpg/1280px-Iveco_Stralis_HD_420_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:\" 13 - ITALIAN automotive engineering - Alfa Romeo 4C chassis - monocoque carbon fiber - aluminum platform (architecture) DxO 03.jpg",
+      "description": "Il telaio della Alfa Romeo 4C, supercar italiana ad alte prestazioni: Monoscocca in fibra di carbonio con telaio in alluminio",
+      "categories": [
+        "Taken with Sony SLT-A57",
+        "Beams",
+        "Flickr images uploaded by Flickr upload bot",
+        "Alfa Romeo 4C carbon fiber chassis",
+        "Welds",
+        "Aluminum structures",
+        "Coupling systems",
+        "Photographs by sakamoto.yuki",
+        "Alfa Romeo at IAA 2013"
+      ],
+      "auteur": "youkeys",
+      "licence": "CC BY 2.0 it",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22_13_-_ITALIAN_automotive_engineering_-_Alfa_Romeo_4C_chassis_-_monocoque_carbon_fiber_-_aluminum_platform_(architecture)_DxO_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%22_13_-_ITALIAN_automotive_engineering_-_Alfa_Romeo_4C_chassis_-_monocoque_carbon_fiber_-_aluminum_platform_%28architecture%29_DxO_03.jpg/1280px-%22_13_-_ITALIAN_automotive_engineering_-_Alfa_Romeo_4C_chassis_-_monocoque_carbon_fiber_-_aluminum_platform_%28architecture%29_DxO_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4912,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dalle nervurée et demi dalle pleine avant bétonnage avec poutres.jpg",
+      "description": "Vue sur un plancher en dalle nervurée 16+5 avec les poutres support",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Concrete ceilings",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files by User:Dyolf77",
+        "Photographs by User:Dyolf77",
+        "Masonry in Tunisia",
+        "Ceramic ceilings"
+      ],
+      "auteur": "Habib M’henni",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dalle_nervur%C3%A9e_et_demi_dalle_pleine_avant_b%C3%A9tonnage_avec_poutres.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Dalle_nervur%C3%A9e_et_demi_dalle_pleine_avant_b%C3%A9tonnage_avec_poutres.jpg/1280px-Dalle_nervur%C3%A9e_et_demi_dalle_pleine_avant_b%C3%A9tonnage_avec_poutres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4640,
+      "hauteur": 3080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Verkeersongeval, NL-HlmNHA 5400464587.JPG",
+      "description": "Collectie Collectie Fotoburo de Boer Inventarisnummer NL-HlmNHA_5400464587 Beschrijving Verkeersongeval Fotonummer NL-HlmNHA_5400464587 Documenttype Historieprenten, tekeningen en foto's Vervaardiger Boer, Cees de (1918-1985) Naam object Rijksweg Land Nederland Provincie Noord-Holland Gemeente Velsen Plaats IJmuiden Begindatum 1985 Einddatum 1985 Techniek Foto Plaatsing gb38",
+      "categories": [
+        "CC-Zero",
+        "IJmuiden",
+        "FTF Trucks",
+        "Images from fotoburo de Boer",
+        "Photographs by Cees de Boer",
+        "1985 in Haarlem",
+        "2 cranes (machines)",
+        "Flatbed step frame semi-trailer trucks",
+        "Eight-wheeled trucks",
+        "Heavy haulage semi-trailer tractors",
+        "Concrete beams",
+        "Truck accidents in Haarlem"
+      ],
+      "auteur": "Boer, Cees de (1918-1985)",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Verkeersongeval,_NL-HlmNHA_5400464587.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Verkeersongeval%2C_NL-HlmNHA_5400464587.JPG/1280px-Verkeersongeval%2C_NL-HlmNHA_5400464587.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2582,
+      "hauteur": 1895
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bassoues 2018 08.jpg",
+      "description": "Poutre et poutrelles dans le donjon du château de Bassoues.",
+      "categories": [
+        "July 2018 in Gers",
+        "Beams",
+        "Château de Bassoues",
+        "Self-published work"
+      ],
+      "auteur": "F123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bassoues_2018_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Bassoues_2018_08.jpg/1280px-Bassoues_2018_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3672,
+      "hauteur": 4896
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Elementdecke 4.jpg",
+      "description": "precast ceiling element",
+      "categories": [
+        "Taken with HP PhotoSmart 318",
+        "Concrete ceilings",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "sarang",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Elementdecke_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Elementdecke_4.jpg/1280px-Elementdecke_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1792,
+      "hauteur": 1200
+    }
+  ]
 }

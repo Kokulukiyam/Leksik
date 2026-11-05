@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Trop petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade blanche d'un club avec toit d'ardoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arêtier non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Planche gravée de charpente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, rejeté."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Église en brique, tours à couronnement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arêtier non lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Maison américaine à toit en pavillon, lucarne et porche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arêtiers petits et sombres, ambigus."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Piano à queue dans une pièce.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Manoir de Bletchley Park à toitures multiples.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble confus."
     }
   ]
 }

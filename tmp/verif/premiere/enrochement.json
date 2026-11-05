@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Enrochement trop petit à l'arrière-plan."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros blocs de béton cubiques battus par une vague, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs de béton, pas de roche."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Une plage de sable, avec en haut à droite un talus de dune protégé par de gros blocs de roche angulaires empilés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.5,
+        "y": 0.26,
+        "largeur": 0.5,
+        "hauteur": 0.28
+      },
+      "lieu": "Irlande",
+      "note": "Gros blocs de roche en protection de dune, encadrés ; la bouée orange est hors du cadre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Un moulin et un petit barrage sur une rivière fleurie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un chameau sur une plage avec des personnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Un sentier goudronné avec rambarde le long d'un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Blocs de béton cubiques sous les vagues, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs de béton, pas de roche."
     }
   ]
 }

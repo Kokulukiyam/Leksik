@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Amsterdam, Pays-Bas",
       "note": "Rampe trop petite, arbre dominant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rampe en tubes rouges devant un bâtiment, personnes devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, doublon de 09."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rampe d'escalier en fer forgé avec main courante en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fer forgé, main courante."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rampe en tubes métalliques orange sur une rampe de béton devant un mur ocre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.56,
+        "y": 0.5,
+        "largeur": 0.35,
+        "hauteur": 0.38
+      },
+      "lieu": "Mali",
+      "note": "Garde-corps simple de poteaux et lisses horizontales ; rectangle sur la barrière."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plage avec barrière de bois au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barrière trop petite, plage dominante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Main courante en fer forgé sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Main courante ornementale."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Carte postale ancienne du barrage de Malter.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carte postale ancienne."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Kyoto, Japon",
       "note": "Représentations, pas de photo claire de l'outil."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Outils anciens en noir et blanc dont une petite tenaille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tenaille minuscule parmi d autres outils."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux vues de pinces universelles anciennes sur fond sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pinces, pas des tenailles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vitrine de musée avec outils anciens dont une tenaille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets multiples, tenaille non dominante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cisaille ancienne à manche en anneaux, sur fond clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cisaille, pas une tenaille."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pince à plier à mâchoire plate, ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pince de ferblantier, pas une tenaille."
     }
   ]
 }

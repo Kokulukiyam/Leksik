@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Toit à deux pans."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Abri de jardin en bois en cours de construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Abri isolé, non adossé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Feuilles d'eucalyptus floues devant un kiosque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ancienne photographie d'une cabane de fortune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne photo, hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arrière de bâtiments en ville avec petites toitures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appentis petits et ambigus."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cabane en bois à toit à deux pans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit à deux pans, pas un appentis."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Baignoire sous une toiture de tôle sur poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas adossé à un mur."
     }
   ]
 }

@@ -13,7 +13,143 @@
     "incompatibles": [
       "ferraillage",
       "amorce-de-poteau"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
     ]
   },
-  "candidats": []
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Baustahlmaschine.JPG",
+      "description": "Maschine zum Biegen von Baustahl",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Supported by Wikimedia Deutschland",
+        "Fotoprojekt Bauma 2016 (supported by Wikimedia Deutschland)"
+      ],
+      "auteur": "Mailtosap",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baustahlmaschine.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Baustahlmaschine.JPG/1280px-Baustahlmaschine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2018-06-01 (026) Construction site at Tiefgrabenrotte in Frankenfels, Austria.jpg",
+      "description": "Construction site at Tiefgrabenrotte in Frankenfels, Austria",
+      "categories": [
+        "Reinforced concrete",
+        "Tiefgrabenrotte",
+        "Images with annotations",
+        "Wienerberger",
+        "Self-published work",
+        "Construction sites in Lower Austria",
+        "Austria photographs taken on 2018-06-01",
+        "Files by User:GT1976 in Frankenfels",
+        "Taken with Samsung Galaxy S5 Mini by User:GT1976",
+        "Files by User:GT1976 2018-06-01 Frankenfels",
+        "June 2018 in Frankenfels"
+      ],
+      "auteur": "GT1976",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-06-01_(026)_Construction_site_at_Tiefgrabenrotte_in_Frankenfels,_Austria.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2018-06-01_%28026%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg/1280px-2018-06-01_%28026%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chandrashila temple.jpg",
+      "description": "Chandrashila is summit of the Tungnath . It literally means \"Moon Rock\". It is located at a height of about 4,000 metres (13,000 ft) above sea level. This peak provides a spectacular view of Himalayas,especially Nandadevi, Trisul, Kedar Peak, Bandarpunch and Chaukhamba peaks. There are various legends associated with this place. According to one of the popular legend, this is the place where Lord Rama meditated after defeating the demon-king Ravana. This is image of small temple of shiv at Chandrashila last end of peak .",
+      "categories": [
+        "Chandrashila",
+        "Rebar",
+        "Self-published work",
+        "Images from Wiki Loves Earth 2016 in India",
+        "Photographs of religious flags",
+        "Lingas in India",
+        "Uploaded via Campaign:wle-in",
+        "Images from Wiki Loves Earth 2016",
+        "India photographs taken on 2016-04-18",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Photographs of Hindu flags",
+        "Rock balancing in India"
+      ],
+      "auteur": "Rahul upreti",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chandrashila_temple.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Chandrashila_temple.jpg/1280px-Chandrashila_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2018-06-01 (027) Construction site at Tiefgrabenrotte in Frankenfels, Austria.jpg",
+      "description": "Construction site at Tiefgrabenrotte in Frankenfels, Austria",
+      "categories": [
+        "Reinforced concrete",
+        "Tiefgrabenrotte",
+        "Images with annotations",
+        "Wienerberger",
+        "Self-published work",
+        "Construction sites in Lower Austria",
+        "Austria photographs taken on 2018-06-01",
+        "Files by User:GT1976 in Frankenfels",
+        "Taken with Samsung Galaxy S5 Mini by User:GT1976",
+        "Files by User:GT1976 2018-06-01 Frankenfels",
+        "June 2018 in Frankenfels"
+      ],
+      "auteur": "GT1976",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-06-01_(027)_Construction_site_at_Tiefgrabenrotte_in_Frankenfels,_Austria.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2018-06-01_%28027%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg/1280px-2018-06-01_%28027%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A work in progress with STP steel Epoxy coated steel.jpg",
+      "description": "A work in progress with STP steel Epoxy coated steel",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "People at work in India",
+        "Images from Wiki Loves Earth 2017 in India",
+        "Uploaded via Campaign:wle-in",
+        "Images from Wiki Loves Earth 2017",
+        "India photographs taken on 2017-04-03",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation"
+      ],
+      "auteur": "Kishoregaru",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_work_in_progress_with_STP_steel_Epoxy_coated_steel.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/A_work_in_progress_with_STP_steel_Epoxy_coated_steel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1135,
+      "hauteur": 638
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Amboise 06.JPG",
+      "description": "Aciers apparents sur le bâtiment de l'hôtel de ville.",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Nikon Coolpix P310",
+        "Carbonatation",
+        "Town hall of Amboise",
+        "Self-published work"
+      ],
+      "auteur": "Abujoy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amboise_06.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Amboise_06.JPG/1280px-Amboise_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
 }

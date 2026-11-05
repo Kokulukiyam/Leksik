@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Lisbonne",
       "note": "Intérieur."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de pierre avec guirlande sculptée et dé couronné d'une urne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Muret décoré, pas un mur de bâtiment aveugle."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de clôture en brique couronné de feuillage au bord d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de clôture, non un mur aveugle de bâtiment."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur une pierre rousse et une traverse en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de pierre avec une inscription gravée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil de pierre avec inscription."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Muret en pierres sèches dans un verger.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Muret, hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de brique en noir et blanc le long d'une ruelle, vue en fuite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de clôture en perspective, ambigu."
     }
   ]
 }

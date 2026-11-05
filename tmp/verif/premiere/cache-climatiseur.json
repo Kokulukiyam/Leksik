@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Aucun cache-climatiseur."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gaines flexibles métalliques de climatisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dos d'une unité intérieure avec tuyaux de cuivre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Militaire intervenant sur un groupe extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Unité de climatisation murale avec tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Unité intérieure murale sur fond bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Unité intérieure de climatiseur, floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache."
     }
   ]
 }

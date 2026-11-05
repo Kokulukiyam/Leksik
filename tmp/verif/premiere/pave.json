@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pavés de pierre bien visibles et dominants ; image un peu sombre et saturée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Une boutique voûtée sur un sol de galets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galets, pas des pavés taillés, sujet dilué."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Entrée d'un musée avec une chaussée de pavés au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pavés trop peu visibles, sujet principal ailleurs ; panneau avec texte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Une galerie voûtée avec un sol de galets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galets, pas des pavés."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un sol de pavés irréguliers avec rails et flaques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pavés usés et mêlés à des rails et dalles, trop confus."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Un sentier de pierres dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galets, pas des pavés."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Une rue pavée avec deux silhouettes, image verdie et retouchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée."
     }
   ]
 }

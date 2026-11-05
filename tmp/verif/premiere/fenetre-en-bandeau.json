@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Clichy, France",
       "note": "Fenêtres multiples de formes diverses, ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Théâtre moderne avec longue bande vitrée oblique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bande vitrée en biais, petite, doute."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grappe de fenêtres sur façade, aspect pixelisé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres individuelles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade en béton d'un bâtiment artisanal avec une longue bande horizontale de fenêtres blanches.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.265,
+        "y": 0.435,
+        "largeur": 0.475,
+        "hauteur": 0.1
+      },
+      "lieu": "Petit-Lancy, Genève",
+      "note": "Fenêtres juxtaposées en bandeau continu ; rectangle sur la bande."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtre ancienne éclairée la nuit à côté d'une lanterne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre unique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment moderne à volumes superposés avec bandes vitrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres moins lisibles, arbres devant."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade carrelée avec quatre fenêtres à volets séparées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres séparées, pas en bandeau."
     }
   ]
 }

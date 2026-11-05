@@ -48,6 +48,38 @@
       "rectangle": null,
       "lieu": "Smethwick, Royaume-Uni",
       "note": "Aucun brise-soleil."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade courbe vitrée à ailettes de verre verticales, sous la neige, image très retravaillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu HDR sombre, ailettes peu lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bâtiment à façade courbe colorée en hiver, image retravaillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brise-soleil peu lisibles, retouches."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Hôtel en brique avec bow-windows.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Peinture de paysage chinoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, hors sujet."
     }
   ]
 }

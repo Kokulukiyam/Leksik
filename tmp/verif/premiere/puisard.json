@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas un puisard."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Planche manuscrite d'ancienne pompe de cale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue plongeante dans un puits sec en briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Puits, pas identifiable comme puisard."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Planche ancienne de pompes de cale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Une petite chapelle en rondins avec un panneau « Dry well ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Puits d'un autre sens, texte, hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Planche ancienne de pompe de cale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Planche ancienne de tuyaux de pompe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, hors sujet."
     }
   ]
 }

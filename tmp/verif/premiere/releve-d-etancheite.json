@@ -1,0 +1,53 @@
+{
+  "termId": "releve-d-etancheite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    }
+  ]
+}

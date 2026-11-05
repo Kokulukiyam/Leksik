@@ -1,58 +1,106 @@
 {
- "termId": "coupe-carreau",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Coupe-carreau manuel bleu à rail posé au sol sur un carrelage, vue recadrée.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Bosnie-Herzégovine",
-   "note": "Machine coupée par le cadre et couchée, peu lisible."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Carreau de pavement médiéval représentant une figure assise.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Carreau décoré, pas un outil."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Coupe-carreau manuel à rail et molette, avec poignée rouge, sur fond blanc, et sa mallette.",
-   "verdict": "validée",
-   "rectangle": {
-    "x": 0.07,
-    "y": 0.31,
-    "largeur": 0.88,
-    "hauteur": 0.62
-   },
-   "lieu": "",
-   "note": "Machine entière, nette et typique ; rectangle exclut la mallette."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Coupe géologique d'un talus de terre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Pecquencourt, France",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Rayeur à manche rouge posé entre deux carreaux cassés.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Simple rayeur, pas un coupe-carreau à rail."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Coupe géologique d'un talus de terre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Pecquencourt, France",
-   "note": "Sans rapport."
-  }
- ]
+  "termId": "coupe-carreau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Coupe-carreau manuel bleu à rail posé au sol sur un carrelage, vue recadrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bosnie-Herzégovine",
+      "note": "Machine coupée par le cadre et couchée, peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Carreau de pavement médiéval représentant une figure assise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreau décoré, pas un outil."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Coupe-carreau manuel à rail et molette, avec poignée rouge, sur fond blanc, et sa mallette.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.31,
+        "largeur": 0.88,
+        "hauteur": 0.62
+      },
+      "lieu": "",
+      "note": "Machine entière, nette et typique ; rectangle exclut la mallette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coupe géologique d'un talus de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pecquencourt, France",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rayeur à manche rouge posé entre deux carreaux cassés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Simple rayeur, pas un coupe-carreau à rail."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Coupe géologique d'un talus de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pecquencourt, France",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Un gobelet en argent gravé sur fond gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet (Pierre Carreau orfèvre)."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Un coupe-carreau manuel à rail, molette et poignée rouge, sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coupe-carreau manuel typique, net et dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Une table de découpe à eau pour carreaux, sur fond blanc (rendu produit).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scie à carreaux électrique, pas l'appareil à rail et molette ; image de type catalogue."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Outils de carreleur en vrac sur un sol en terre cuite : coupe-carreau rouge, taloches, truelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plusieurs outils, le coupe-carreau est petit et en partie caché."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Trois coupe-carreaux à plateau de bois de tailles différentes sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Modèle atypique, trois appareils ; moins clair que le coupe-carreau classique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Débris de la navette Challenger hissés depuis un navire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
 }

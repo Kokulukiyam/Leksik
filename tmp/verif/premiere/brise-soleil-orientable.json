@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Intérieur, pas un brise-soleil orientable de façade."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Homme de dos devant un store vénitien intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Store d'intérieur, pas un brise-soleil extérieur."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fenêtre d'une façade crépie fermée par un store extérieur à lames orientables presque fermées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.09,
+        "y": 0.07,
+        "largeur": 0.83,
+        "hauteur": 0.69
+      },
+      "lieu": "Bad Rappenau (Bonfeld), Allemagne",
+      "note": "Store extérieur à lames orientables (jalousie extérieure), net et dominant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Coin de café avec stores vénitiens intérieurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Stores d'intérieur, scène d'ambiance."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Store vénitien en bois dans une pièce lambrissée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Store d'intérieur."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan flou sur des lames de store et ses cordons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, intérieur."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Scientifiques en blouse devant une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

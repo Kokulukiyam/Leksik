@@ -1,9 +1,9 @@
 {
   "terme": {
     "id": "poutrelle",
-    "terme": "la poutrelle précontrainte",
+    "terme": "la poutrelle",
     "categorie": "Gros œuvre et maçonnerie",
-    "definition": "Petite poutre préfabriquée en béton, posée à intervalles réguliers d'un appui à l'autre pour porter les hourdis d'un plancher.",
+    "definition": "Petite poutre préfabriquée en béton armé ou précontraint, posée à intervalles réguliers d'un appui à l'autre pour porter les hourdis d'un plancher.",
     "priorite": 1,
     "requetes": [
       "precast concrete joist beam and block",
@@ -13,7 +13,135 @@
     "incompatibles": [
       "hourdis",
       "plancher-a-corps-creux"
+    ],
+    "categoriesCommons": [
+      "Category:Precast concrete",
+      "Category:Concrete beams"
     ]
   },
-  "candidats": []
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Precast concrete manholes.jpg",
+      "description": "These are assorted sizes of precast concrete manholes, stored for a UG sewer project at Tamilnadu, India. I took this shot at 7.15 AM in bright sun light. Seeing all sizes of manholes for different applications in one place is funny.",
+      "categories": [
+        "CC-Zero",
+        "Manholes",
+        "Precast concrete",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Precast concrete manholes"
+      ],
+      "auteur": "Sindugab",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Precast_concrete_manholes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Precast_concrete_manholes.jpg/1280px-Precast_concrete_manholes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3667,
+      "hauteur": 2063
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:CYII (1930-1932) 42.2.jpg",
+      "description": "Obras del Cuarto Depósito del Canal de Isabel II: la arquería de ladrillo ya terminada y vigas de hormigón armado para la cubierta. Madrid",
+      "categories": [
+        "Madrid in the 1930s",
+        "Template Unknown (author)",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "People in Madrid in the 1930s",
+        "People for scale",
+        "Concrete beams",
+        "Cuarto depósito del Canal de Isabel II",
+        "Construction sites in Madrid",
+        "Canal de Isabel II in the 1930s"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CYII_(1930-1932)_42.2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CYII_%281930-1932%29_42.2.jpg/1280px-CYII_%281930-1932%29_42.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2314,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Precast Elements display stall in erode 2.jpg",
+      "description": "Precast Elements display stall",
+      "categories": [
+        "Precast concrete",
+        "Self-published work",
+        "Precast concrete manholes",
+        "Precast concrete element walls"
+      ],
+      "auteur": "Balu Digital Marketing Analyst",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Precast_Elements_display_stall_in_erode_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Precast_Elements_display_stall_in_erode_2.jpg/1280px-Precast_Elements_display_stall_in_erode_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 2576
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:CYII (1930-1932) 43.jpg",
+      "description": "Obras del Cuarto Depósito del Canal de Isabel II: colocación de las vigas de hormigón armado de la cubierta. . Madrid",
+      "categories": [
+        "Madrid in the 1930s",
+        "Template Unknown (author)",
+        "Gantry cranes in Spain",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "Men at work in the Community of Madrid",
+        "Concrete beams",
+        "Cuarto depósito del Canal de Isabel II",
+        "Construction sites in Madrid",
+        "Canal de Isabel II in the 1930s"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CYII_(1930-1932)_43.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/CYII_%281930-1932%29_43.jpg/1280px-CYII_%281930-1932%29_43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2518,
+      "hauteur": 3821
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Seattle - Our Lady of the Lake - interior 35 - arch detail showing seam.jpg",
+      "description": "Detail of precast concrete arch and stained glass window, Our Lady of the Lake (Roman Catholic church), Wedgwood, Seattle, Washington, U.S. Seams between portions of the arch are visible here.",
+      "categories": [
+        "GFDL",
+        "Precast concrete",
+        "License migration redundant",
+        "Stained-glass windows in Washington (state)",
+        "Self-published work",
+        "Churches in the United States photographed in 2016",
+        "September 2016 in Seattle",
+        "United States photographs taken on 2016-09-10",
+        "Concrete arches",
+        "Our Lady of the Lake (Seattle) - interior"
+      ],
+      "auteur": "Joe Mabel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seattle_-_Our_Lady_of_the_Lake_-_interior_35_-_arch_detail_showing_seam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Seattle_-_Our_Lady_of_the_Lake_-_interior_35_-_arch_detail_showing_seam.jpg/1280px-Seattle_-_Our_Lady_of_the_Lake_-_interior_35_-_arch_detail_showing_seam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Строительство Мичуринской развязки МКАД (июль 2014) (03).jpeg",
+      "description": "Открытие движения по новой эстакаде Мичуринской развязки. С. Собянин, М. Хуснуллин",
+      "categories": [
+        "Stroi.mos.ru",
+        "Uploaded with VicuñaUploader",
+        "July 2014 in Moscow",
+        "Concrete beams",
+        "Reconstruction of Michurinskaya interchange (Moscow)"
+      ],
+      "auteur": "stroi.mos.ru",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%80%D0%B0%D0%B7%D0%B2%D1%8F%D0%B7%D0%BA%D0%B8_%D0%9C%D0%9A%D0%90%D0%94_(%D0%B8%D1%8E%D0%BB%D1%8C_2014)_(03).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%80%D0%B0%D0%B7%D0%B2%D1%8F%D0%B7%D0%BA%D0%B8_%D0%9C%D0%9A%D0%90%D0%94_%28%D0%B8%D1%8E%D0%BB%D1%8C_2014%29_%2803%29.jpeg/1280px-%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%9C%D0%B8%D1%87%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%80%D0%B0%D0%B7%D0%B2%D1%8F%D0%B7%D0%BA%D0%B8_%D0%9C%D0%9A%D0%90%D0%94_%28%D0%B8%D1%8E%D0%BB%D1%8C_2014%29_%2803%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1065
+    }
+  ]
 }

@@ -11,7 +11,8 @@
       "rubber grout float tiles"
     ],
     "incompatibles": [
-      "taloche"
+      "taloche",
+      "spatule-crantee"
     ]
   },
   "candidats": []

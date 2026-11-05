@@ -53,6 +53,59 @@
       },
       "lieu": "Cannes, France",
       "note": "Store en toile déployé, net ; rectangle sur le store de gauche (deux stores visibles)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Photographie ancienne de tables à l'ombre d'une toile tendue sous un arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne photo, toile improvisée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Voilier au mouillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grand store autoportant vert au-dessus d'une terrasse, image de catalogue proche du rendu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure autoportante type voile/parasol, pas un store banne de façade."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ancienne photographie d'un bâtiment à arcades en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ombrières en membrane tendue sur un parking, texte incrusté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ombrières, texte visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ruelle animée couverte de stores bannes rayés rouge et jaune dépliés sur bras articulés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0,
+        "largeur": 0.68,
+        "hauteur": 0.59
+      },
+      "lieu": "Jiufen, Taïwan",
+      "note": "Stores bannes dépliés, bras articulés visibles, dominants."
     }
   ]
 }

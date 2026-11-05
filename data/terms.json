@@ -3913,6 +3913,13 @@
     ]
   },
   {
+    "id": "bidet",
+    "terme": "le bidet",
+    "definition": "Appareil sanitaire bas en céramique, sur lequel on s'assoit à califourchon pour la toilette intime.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3
+  },
+  {
     "id": "urinoir",
     "terme": "l'urinoir",
     "definition": "Appareil sanitaire mural en céramique ou en inox, utilisé debout par les hommes, courant dans les sanitaires publics.",
@@ -3991,6 +3998,16 @@
     ]
   },
   {
+    "id": "te",
+    "terme": "le té",
+    "definition": "Raccord de tuyauterie en forme de T qui crée une dérivation sur une canalisation.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3,
+    "incompatibles": [
+      "raccord"
+    ]
+  },
+  {
     "id": "raccord",
     "terme": "le raccord",
     "definition": "Pièce qui relie deux tuyaux entre eux ou un tuyau à un appareil : manchon, réduction, union…",
@@ -4013,6 +4030,13 @@
     "incompatibles": [
       "robinet"
     ]
+  },
+  {
+    "id": "manometre",
+    "terme": "le manomètre",
+    "definition": "Cadran à aiguille qui indique la pression dans une canalisation, une pompe ou un réservoir.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3
   },
   {
     "id": "compteur-d-eau",
@@ -4049,6 +4073,30 @@
     "incompatibles": [
       "panneau-photovoltaique"
     ]
+  },
+  {
+    "id": "groupe-de-securite",
+    "terme": "le groupe de sécurité",
+    "definition": "Organe en laiton à soupape, monté sur l'arrivée d'eau froide d'un chauffe-eau, qui évacue la surpression.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3,
+    "incompatibles": [
+      "chauffe-eau-electrique"
+    ]
+  },
+  {
+    "id": "radiateur",
+    "terme": "le radiateur",
+    "definition": "Appareil de chauffage fixé au mur, en fonte, en acier ou en aluminium, à éléments ou à panneau.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3
+  },
+  {
+    "id": "plancher-chauffant",
+    "terme": "le plancher chauffant",
+    "definition": "Réseau de tubes souples posés en serpentin sur un isolant avant le coulage de la chape.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3
   },
   {
     "id": "bouteille-de-gaz",
@@ -4127,6 +4175,13 @@
     "priorite": 1
   },
   {
+    "id": "poste-de-transformation",
+    "terme": "le poste de transformation",
+    "definition": "Local ou cabine abritant le transformateur qui abaisse la tension du réseau pour alimenter un bâtiment ou un quartier.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3
+  },
+  {
     "id": "ampoule",
     "terme": "l'ampoule",
     "definition": "Lampe en verre ou en plastique qu'on visse ou enfiche dans une douille pour éclairer.",
@@ -4173,6 +4228,16 @@
     "priorite": 2
   },
   {
+    "id": "lampadaire-solaire",
+    "terme": "le lampadaire solaire",
+    "definition": "Mât d'éclairage extérieur portant un luminaire et un panneau photovoltaïque qui le rend autonome.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3,
+    "incompatibles": [
+      "panneau-photovoltaique"
+    ]
+  },
+  {
     "id": "bloc-autonome-d-eclairage-de-securite",
     "terme": "le bloc autonome d'éclairage de sécurité",
     "definition": "Petit boîtier lumineux avec un pictogramme de sortie, qui s'allume en cas de coupure pour guider l'évacuation ; abrégé BAES.",
@@ -4201,6 +4266,17 @@
     "priorite": 2,
     "incompatibles": [
       "onduleur"
+    ]
+  },
+  {
+    "id": "regulateur-de-charge",
+    "terme": "le régulateur de charge",
+    "definition": "Petit boîtier électronique qui contrôle la charge des batteries par les panneaux solaires.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3,
+    "incompatibles": [
+      "onduleur",
+      "batterie-solaire"
     ]
   },
   {
@@ -4252,6 +4328,16 @@
     "priorite": 2
   },
   {
+    "id": "centrale-de-traitement-d-air",
+    "terme": "la centrale de traitement d'air",
+    "definition": "Grand caisson métallique qui filtre, refroidit ou chauffe et souffle l'air vers les gaines d'un bâtiment.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 3,
+    "incompatibles": [
+      "gaine-de-ventilation"
+    ]
+  },
+  {
     "id": "hotte",
     "terme": "la hotte",
     "definition": "Appareil placé au-dessus de la cuisinière qui aspire les fumées et les odeurs de cuisson.",
@@ -4297,6 +4383,25 @@
     ]
   },
   {
+    "id": "pare-vapeur",
+    "terme": "le pare-vapeur",
+    "definition": "Film plastique tendu côté intérieur d'un isolant pour empêcher la vapeur d'eau d'y pénétrer.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 3,
+    "incompatibles": [
+      "laine-de-verre",
+      "film-polyethylene",
+      "isolant-mince-reflechissant"
+    ]
+  },
+  {
+    "id": "mousse-polyurethane-projetee",
+    "terme": "la mousse polyuréthane projetée",
+    "definition": "Isolant pulvérisé qui gonfle en une mousse jaunâtre irrégulière collée au support.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 3
+  },
+  {
     "id": "faux-plafond-en-dalles",
     "terme": "le faux plafond en dalles",
     "definition": "Faux plafond fait de dalles amovibles, souvent de 60 × 60 cm, posées dans une ossature apparente.",
@@ -4333,6 +4438,17 @@
     ]
   },
   {
+    "id": "carreau-hexagonal",
+    "terme": "le carreau hexagonal",
+    "definition": "Carreau de sol ou de mur à six côtés, posé en nid d'abeilles.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 3,
+    "incompatibles": [
+      "carrelage",
+      "tomette"
+    ]
+  },
+  {
     "id": "plinthe",
     "terme": "la plinthe",
     "definition": "Bande de carrelage, de bois ou de PVC posée au bas d'un mur, contre le sol, pour le protéger.",
@@ -4357,11 +4473,49 @@
     "priorite": 2
   },
   {
+    "id": "parquet-a-batons-rompus",
+    "terme": "le parquet à bâtons rompus",
+    "definition": "Parquet dont les lames rectangulaires se rencontrent à angle droit en zigzag.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 3,
+    "incompatibles": [
+      "parquet",
+      "parquet-point-de-hongrie"
+    ]
+  },
+  {
+    "id": "parquet-point-de-hongrie",
+    "terme": "le parquet en point de Hongrie",
+    "definition": "Parquet dont les lames, coupées en biais, forment des chevrons alignés en pointe.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 3,
+    "incompatibles": [
+      "parquet"
+    ]
+  },
+  {
+    "id": "sous-couche-acoustique",
+    "terme": "la sous-couche acoustique",
+    "definition": "Feuille de mousse ou de liège déroulée sous un parquet flottant ou un stratifié.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 3,
+    "incompatibles": [
+      "sol-stratifie"
+    ]
+  },
+  {
     "id": "moquette",
     "terme": "la moquette",
     "definition": "Revêtement de sol textile fixé d'un mur à l'autre.",
     "categorie": "Second œuvre et finitions",
     "priorite": 2
+  },
+  {
+    "id": "plancher-technique",
+    "terme": "le plancher technique",
+    "definition": "Plancher fait de dalles amovibles posées sur des vérins, qui laisse passer les câbles dessous ; courant dans les salles informatiques.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 3
   },
   {
     "id": "papier-peint",

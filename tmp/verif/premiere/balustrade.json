@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "Salvador de Bahia, Brésil",
       "note": "Rangée de balustres surmontée d'une tablette, nette."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Balustrade sculptée très ornée dans un chœur d'église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image étroite et peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Escalier monumental à balustres de marbre avec statue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène chargée par la statue."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Balustrade en pierre blanche à balustres tournés devant une porte-fenêtre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.16,
+        "largeur": 0.76,
+        "hauteur": 0.4
+      },
+      "lieu": "Hong Kong",
+      "note": "Rangée de balustres entre appui et tablette, nette ; rectangle sur la balustrade."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Garde-corps de pont en bois jaune sur une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps plein en bois, pas de balustres."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vieille photo d'une porte d'entrée voûtée de mission.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne photo noir et blanc, grille de porte."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Balustres tournés en pierre dégradés devant la mer, avec lisse de couronnement.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.13,
+        "largeur": 0.45,
+        "hauteur": 0.8
+      },
+      "lieu": "São Tomé",
+      "note": "Balustres tournés très nets ; rectangle sur les trois balustres."
     }
   ]
 }

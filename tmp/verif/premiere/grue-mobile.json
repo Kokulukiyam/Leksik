@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Prague",
       "note": "Noir et blanc, grain, plusieurs engins."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier grimpant sur la flèche treillis d une grue à tour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grue à tour, pas mobile."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rendu ou photo détourée d un camion à flèche blanche déployée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flèche de pompe/engin, image trop artificielle."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grue sur camion jaune dans la neige, couleurs fortement bleutées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couleurs retouchées, engin petit."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
     }
   ]
 }

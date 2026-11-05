@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Objet de musée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Corbeau sculpté d'un visage, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de musée, pas un encorbellement."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Corbeau sculpté romain en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Corbeau en forme de visage grimaçant sous un arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Un corbeau, pas un encorbellement."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux têtes sculptées en corbeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Corbeaux, pas un encorbellement."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade au Caire avec petits corbeaux sculptés sous un balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doute avec corbeau, encorbellement non lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Corbeau sculpté à buste humain en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée."
     }
   ]
 }

@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Mur de clôture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Des murs de soutènement en blocs de béton à bossages, étagés en terrasses, retenant des talus herbeux devant un bâtiment.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.2,
+        "largeur": 0.67,
+        "hauteur": 0.21
+      },
+      "lieu": "Parkersburg, Virginie-Occidentale",
+      "note": "Murs de soutènement étagés nets ; le mur supérieur est encadré."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Un mur en cours de construction le long d'une autoroute, coffrages en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier, mur inachevé et flou."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Un bâtiment à arcades au bord d'une route avec un petit mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur secondaire, sujet dilué."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Une fenêtre noire dans un mur ocre avec une arme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ancienne photographie d'un mur de pierre avec ossements empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Un mur de soutènement en pierre sèche appareillée, bordant une route de montagne et retenant le talus boisé, avec des drapeaux de prière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.48,
+        "largeur": 0.65,
+        "hauteur": 0.15
+      },
+      "lieu": "Bhoutan",
+      "note": "Mur de pierre qui retient clairement le talus au-dessus de la route ; encadré."
     }
   ]
 }

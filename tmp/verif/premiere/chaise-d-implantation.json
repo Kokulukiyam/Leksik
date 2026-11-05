@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Trois personnes posant avec du matériel GPS topographique sur un site antique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chaise d'implantation."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Une borne de pierre dans la végétation (station de triangulation).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Borne géodésique, pas une chaise d'implantation."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Un étudiant visant dans un théodolite sur trépied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Théodolite, pas une chaise d'implantation."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Les mêmes personnes posant avec du matériel GPS sur le site antique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chaise d'implantation."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Des saules et roseaux orangés au bord d'une eau, avec un piquet fin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune chaise d'implantation visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo ancienne en noir et blanc de deux hommes avec un instrument sur trépied au bord d'un canal en cours de construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Instrument de topographie, pas de chaise d'implantation."
     }
   ]
 }

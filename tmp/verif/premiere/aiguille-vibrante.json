@@ -58,6 +58,64 @@
       },
       "lieu": "Djibouti",
       "note": "Aiguille plongée dans le béton et flexible nets, rectangle sur l'aiguille."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier en bottes jaunes tenant une aiguille vibrante dont la tête touche le béton frais, sur un ferraillage, enrouleur-convertisseur derrière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.45,
+        "y": 0.1,
+        "largeur": 0.2,
+        "hauteur": 0.82
+      },
+      "lieu": "",
+      "note": "Tête d aiguille et flexible nets au contact du béton ; rectangle sur l aiguille."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Soldat à visière plongeant un flexible vibrant dans le béton d un coffrage, aciers en attente.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.5,
+        "y": 0.4,
+        "largeur": 0.25,
+        "hauteur": 0.45
+      },
+      "lieu": "Djibouti",
+      "note": "Aiguille vibrante en cours de vibrage ; plongée dans le béton, flexible lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Même photo que 02, ouvrière à visière avec flexible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doublon de 02, aiguille masquée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvriers vibrant du béton sur une dalle avec vibreur à dos.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vibreur à dos, scène chargée, aiguille peu visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvriers avec vibreur à dos et goulotte de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aiguille non lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
     }
   ]
 }

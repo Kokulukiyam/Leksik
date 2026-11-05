@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ressemble à un ruisseau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Un chemin de gravier longeant un champ de blé et des marguerites.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun fossé visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Une dépression boisée couverte de trèfles dans une forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fossé peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "De l'eau de drainage tombant d'une paroi de terre dans un fossé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail peu lisible, plutôt une cascade."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un cours d'eau gelé qui serpente entre des prairies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt un ruisseau."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Un fossé étroit et sombre entre des bouleaux, le long d'une route goudronnée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fossé peu visible, noyé dans les arbres, trop sombre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Un bras de rivière entouré de végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rivière, pas un fossé."
     }
   ]
 }

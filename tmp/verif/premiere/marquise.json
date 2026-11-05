@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Casquette béton, pas vitrée ni métallique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Foule assise sous un grand auvent de toile lors d'une fête.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tente, pas une marquise."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Jardin avec bambous et couvert de toile.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couvert de jardin, pas une marquise."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petit abri en bois en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Abri en bois, pas une marquise."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Passage couvert de tissu vers le Temple d'Or.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dais de tissu, pas une marquise."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Marché couvert sous une halle, avec verrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Halle intérieure, pas une marquise."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Danseuses sous une tente décorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tente, pas une marquise."
     }
   ]
 }

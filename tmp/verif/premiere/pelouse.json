@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Macro, pas une pelouse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble moderne en gradins avec gazon aux bordures béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bâtiment dominant, pelouse secondaire."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan flou d'herbe avec pissenlits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan d'herbe, pas une pelouse aménagée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Château dans un parc avec une grande pelouse tondue au premier plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.68,
+        "largeur": 1.0,
+        "hauteur": 0.32
+      },
+      "lieu": "Château de Pourtalès, Strasbourg",
+      "note": "Vaste pelouse tondue, nette ; rectangle sur le gazon pour écarter le château."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Jardinier arrosant un gazon au tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image centrée sur l'arrosage et flou."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gazon en plaques avec arroseurs sous un arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaques et arrosage, doute sur la lisibilité."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Graminées cueillies sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Herbes isolées, pas une pelouse."
     }
   ]
 }

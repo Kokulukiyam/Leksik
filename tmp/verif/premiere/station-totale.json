@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Théodolite ancien en musée, pas une station totale."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gravure ancienne d'une tente d'expédition avec un théodolite sur trépied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Un géomètre regardant dans un théodolite optique devant une pyramide, image bleutée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Théodolite ancien, image teintée, pas une station totale."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Un technicien accroupi près d'une antenne GNSS sur un trépied jaune, dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Antenne GPS, pas une station totale."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un homme avec un trépied devant une voiture en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil peu lisible, photo ancienne."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Une vitrine de musée avec des instruments de géodésie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrine, instruments peu lisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Planche gravée d'instruments de géodésie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur d'enceinte avec grandes arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcades en maçonnerie, pas des baies cintrées nettes."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dôme de coquillages en arcs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une baie."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Escalier dans un couloir de tôle ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une baie cintrée claire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tunnel d'arceaux de végétation sur neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arceaux de jardin, pas une baie."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Arche en briques couverte de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arche seule, pas une baie."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Arceau de végétation sur allée de jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arceau végétal, pas une baie."
     }
   ]
 }

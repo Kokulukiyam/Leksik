@@ -9,6 +9,11 @@
       "corrugated electrical conduit",
       "gaine ICTA",
       "flexible conduit in concrete slab"
+    ],
+    "incompatibles": [
+      "cable-electrique",
+      "goulotte",
+      "chemin-de-cables"
     ]
   },
   "candidats": []

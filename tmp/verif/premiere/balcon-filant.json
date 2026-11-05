@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas une façade."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cadre de fenêtre avec feuillage derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ni balcon filant ni lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade de deux immeubles avec petits balcons séparés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcons individuels, pas filants."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade en rose avec fenêtres en bandeau à encorbellement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de balcon filant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petit balcon de bois entre deux maisons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcon individuel."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mairie à façade symétrique avec petits balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcons ponctuels, lointains."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pieds sur un sol de verre au-dessus du vide.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un balcon filant."
     }
   ]
 }

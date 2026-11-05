@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Grille."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Un avaloir à grille et regard en béton dans la pelouse (Dresde).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Avaloir, pas un canal."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Un petit canal bétonné étroit entre deux talus herbeux, près d'une autoroute.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rigole étroite, pas un large canal d'eaux pluviales."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Un regard préfabriqué en béton dans une tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un homme curant un caniveau encombré de déchets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue partielle, personne dominante, canal peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Un tampon d'égout dont le béton est brisé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tampon, pas un canal."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Un pont routier avec un caniveau à grille au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Caniveau à grille, pas un canal."
     }
   ]
 }

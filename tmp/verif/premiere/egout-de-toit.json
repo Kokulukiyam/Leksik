@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ambigu avec avant-toit et rive."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Véranda en bois face à un paysage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dessous d'un auvent de bois flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Coq en cuivre sur un pignon, gouttière et lucarne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble confus."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grange en bois à toit en croupe et large débord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Croupe et avant-toit dominants, ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Détail d'arcatures sculptées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ferme bernoise à grand toit à croupe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble, égout non lisible."
     }
   ]
 }

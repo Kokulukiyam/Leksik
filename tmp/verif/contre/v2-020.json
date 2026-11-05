@@ -1,0 +1,162 @@
+[
+  {
+    "cle": "rouleau-compresseur/10",
+    "accord": true,
+    "raison": "Compacteur monocylindre avec gros cylindre d'acier à l'avant, sujet dominant sur un chantier : rouleau compresseur sans ambiguïté."
+  },
+  {
+    "cle": "rouleau-compresseur/11",
+    "accord": true,
+    "raison": "Vue latérale d'un compacteur à cylindre d'acier avant, clairement un rouleau compresseur ; la pelle en arrière-plan est marginale."
+  },
+  {
+    "cle": "bidet/05",
+    "accord": true,
+    "raison": "Bidet en céramique au sol avec robinetterie, vue rapprochée, forme typique non confondable avec un lavabo ou un WC."
+  },
+  {
+    "cle": "bidet/06",
+    "accord": true,
+    "raison": "Bidet suspendu en céramique avec mitigeur à jet orientable, forme oblongue typique, clairement identifiable."
+  },
+  {
+    "cle": "te/01",
+    "accord": true,
+    "raison": "Deux raccords en T posés à plat (PVC gris et cuivre), forme de té parfaitement lisible."
+  },
+  {
+    "cle": "te/02",
+    "accord": true,
+    "raison": "Té en acier à souder en gros plan, forme en T avec piquage de dérivation bien visible."
+  },
+  {
+    "cle": "manometre/04",
+    "accord": true,
+    "raison": "Rectangle cadrant exactement un cadran à aiguille gradué en mbar raccordé à une canalisation : manomètre."
+  },
+  {
+    "cle": "manometre/06",
+    "accord": true,
+    "raison": "Trois cadrans à aiguille montés sur canalisations avec robinets et lyres, manomètres dominants en haut de l'image."
+  },
+  {
+    "cle": "chauffe-eau-instantane/06",
+    "accord": false,
+    "raison": "Ancien appareil mural émaillé marqué « 5 Lt » : peu typique, rien ne prouve l'absence de réservoir, confusion possible avec un petit chauffe-eau électrique à accumulation."
+  },
+  {
+    "cle": "groupe-de-securite/02",
+    "accord": true,
+    "raison": "Rectangle sur l'organe en laiton à soupape (molette rouge, robinet, entonnoir blanc) sous un cumulus : groupe de sécurité typique."
+  },
+  {
+    "cle": "radiateur/05",
+    "accord": true,
+    "raison": "Rectangle cadrant exactement un radiateur à éléments en fonte ouvragée, sans ambiguïté."
+  },
+  {
+    "cle": "plancher-chauffant/03",
+    "accord": true,
+    "raison": "Rectangle sur les tubes rouges en serpentin sur plaque isolante à plots, avant chape ; le collecteur reste au-dessus du cadre."
+  },
+  {
+    "cle": "plancher-chauffant/06",
+    "accord": true,
+    "raison": "Rectangle sur tubes blancs posés en boucles sur panneau isolant à plots noirs, pendant la pose : plancher chauffant avant chape."
+  },
+  {
+    "cle": "detendeur/04",
+    "accord": false,
+    "raison": "Détendeur sur bouteille, mais le rectangle est dominé par deux grands cadrans à aiguille : « le manomètre » serait une réponse raisonnable."
+  },
+  {
+    "cle": "detendeur/06",
+    "accord": false,
+    "raison": "Détendeur à deux cadrans sur bouteille d'azote ; les manomètres occupent la moitié du rectangle, confusion plausible avec « le manomètre »."
+  },
+  {
+    "cle": "poste-de-transformation/04",
+    "accord": true,
+    "raison": "Cabine basse à portes et persiennes de ventilation, isolée sur une pelouse : poste de transformation de quartier typique malgré la peinture décorative."
+  },
+  {
+    "cle": "lampadaire-solaire/01",
+    "accord": true,
+    "raison": "Mât d'éclairage complet avec luminaire et panneau photovoltaïque au sommet, sujet unique et dominant : lampadaire solaire."
+  },
+  {
+    "cle": "regulateur-de-charge/02",
+    "accord": true,
+    "raison": "Rectangle sur un petit boîtier à écran marqué « Solar charge controller » avec bornes de câbles : régulateur de charge sans ambiguïté."
+  },
+  {
+    "cle": "centrale-de-traitement-d-air/04",
+    "accord": true,
+    "raison": "Rectangle sur un grand caisson modulaire bleu à panneaux, raccordé aux gaines au-dessus : centrale de traitement d'air."
+  },
+  {
+    "cle": "centrale-de-traitement-d-air/06",
+    "accord": true,
+    "raison": "Rectangle sur une centrale modulaire à portes de visite, hublots et manomètres de filtres : centrale de traitement d'air typique."
+  },
+  {
+    "cle": "bouton-d-appel/05",
+    "accord": false,
+    "raison": "Plaque désignée minuscule dans un vaste palier, boutons illisibles sur téléphone ; l'autre plaque d'appel non encadrée brouille la lecture."
+  },
+  {
+    "cle": "pare-vapeur/01",
+    "accord": true,
+    "raison": "Membrane plastique (Intello) tendue côté intérieur d'un mur de comble, sujet dominant : pare-vapeur."
+  },
+  {
+    "cle": "pare-vapeur/04",
+    "accord": true,
+    "raison": "Membrane Ampatex DB 90 tendue sous l'isolant du rampant et maintenue par des liteaux, sujet dominant : pare-vapeur."
+  },
+  {
+    "cle": "mousse-polyurethane-projetee/03",
+    "accord": true,
+    "raison": "Rectangle sur le plafond de vide sanitaire couvert de mousse jaunâtre irrégulière entre solives, opérateur en train de projeter : mousse polyuréthane projetée."
+  },
+  {
+    "cle": "carreau-hexagonal/03",
+    "accord": true,
+    "raison": "Sol de carreaux à six côtés à motif en relief, posés en nid d'abeilles et remplissant l'image : carreau hexagonal."
+  },
+  {
+    "cle": "carreau-hexagonal/04",
+    "accord": true,
+    "raison": "Carreaux émaillés verts hexagonaux posés en nid d'abeilles, forme parfaitement lisible : carreau hexagonal."
+  },
+  {
+    "cle": "beton-poli/01",
+    "accord": false,
+    "raison": "Sol lisse et brillant à granulats apparents : sans contexte, se confond facilement avec un granito (terrazzo), qui figure parmi les réponses."
+  },
+  {
+    "cle": "parquet-a-batons-rompus/01",
+    "accord": true,
+    "raison": "Parquet à lames rectangulaires posées à angle droit en zigzag couvrant l'essentiel de l'image : bâtons rompus, malgré la tache et le fauteuil."
+  },
+  {
+    "cle": "parquet-a-batons-rompus/03",
+    "accord": true,
+    "raison": "Rectangle sur un parquet chêne clair en bâtons rompus (lames à bouts droits en zigzag), motif bien lisible autour du tapis."
+  },
+  {
+    "cle": "parquet-point-de-hongrie/01",
+    "accord": true,
+    "raison": "Lames coupées en biais formant des chevrons alignés en pointe, plein cadre : point de Hongrie sans ambiguïté."
+  },
+  {
+    "cle": "sous-couche-acoustique/05",
+    "accord": true,
+    "raison": "Rectangle sur la feuille de mousse blanche déroulée au sol à côté du stratifié en cours de pose : sous-couche acoustique."
+  },
+  {
+    "cle": "plancher-technique/05",
+    "accord": true,
+    "raison": "Dalles amovibles soulevées sur vérin métallique, câbles passant dessous : plancher technique typique."
+  }
+]

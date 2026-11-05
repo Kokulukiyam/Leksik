@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Toit plat bordé d'un parapet blanc avec herbes sèches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravillons non identifiables."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Passerelle à lames blanches en contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Abribus au toit plat.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Carport à toiture végétalisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture végétalisée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carport à toiture végétalisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture végétalisée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Antennes de téléphonie mobile sur un toit-terrasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement non lisible."
     }
   ]
 }

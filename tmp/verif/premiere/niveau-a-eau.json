@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Niveau à bulle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fontaine de pierre en cours de réparation au milieu d'une fouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Un vieux niveau à bulle en bois sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveau à bulle, pas un niveau à eau (tuyau transparent)."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fontaine de pierre entourée de barrières de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un vieux niveau à bulle en bois sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveau à bulle, pas un niveau à eau."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Niveaux à bulle jaunes et récepteur de laser rotatif sur un poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveaux à bulle, pas un niveau à eau."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Une bulle de savon gelée sur une branche de sapin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

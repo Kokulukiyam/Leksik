@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rive non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison de Charleston à pignon, arbres devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mairie de Dannemois à pignon aux rives en ciment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive visible mais petite et mêlée à d'autres éléments."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maison à bardage blanc de Charleston.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chapelle en brique à toit à deux pans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Remise en brique dont le pignon est bordé de rives de toit débordantes à planches blanches.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.04,
+        "largeur": 0.42,
+        "hauteur": 0.3
+      },
+      "lieu": "Charleston, États-Unis",
+      "note": "Rive du pignon gauche, bord incliné bien visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grand pignon blanc dont le toit déborde en rive avec planche de rive et sous-face.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.07,
+        "largeur": 0.38,
+        "hauteur": 0.4
+      },
+      "lieu": "Frølichbyen, Norvège",
+      "note": "Rive gauche du pignon bien visible."
     }
   ]
 }

@@ -1,58 +1,74 @@
 {
- "termId": "regle-de-macon",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Ouvrier en casque dressant du béton frais avec une planche en bois sur un chantier.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Règle en grande partie cachée, bois peu lisible, scène chargée."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Maçon qui tire une longue règle sur un enduit frais contre un mur.",
-   "verdict": "validée",
-   "rectangle": {
-    "x": 0.3,
-    "y": 0.18,
-    "largeur": 0.58,
-    "hauteur": 0.47
-   },
-   "lieu": "",
-   "note": "Règle tirée sur l'enduit, rectangle sur la barre."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Monument en pierre à Aix-en-Provence sous des platanes.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Aix-en-Provence, France",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Chape liquide lisse dans une pièce vitrée.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Aucune règle visible."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Règle en bois ancienne gravée sur un tissu.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Concord, États-Unis",
-   "note": "Règle de musée en bois, pas une règle de maçon en aluminium ; texte gravé."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Panneau d'information devant un portail en pierre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Aix-en-Provence, France",
-   "note": "Sans rapport."
-  }
- ]
+  "termId": "regle-de-macon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier en casque dressant du béton frais avec une planche en bois sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Règle en grande partie cachée, bois peu lisible, scène chargée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maçon qui tire une longue règle sur un enduit frais contre un mur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.18,
+        "largeur": 0.58,
+        "hauteur": 0.47
+      },
+      "lieu": "",
+      "note": "Règle tirée sur l'enduit, rectangle sur la barre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Monument en pierre à Aix-en-Provence sous des platanes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aix-en-Provence, France",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chape liquide lisse dans une pièce vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune règle visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Règle en bois ancienne gravée sur un tissu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Concord, États-Unis",
+      "note": "Règle de musée en bois, pas une règle de maçon en aluminium ; texte gravé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneau d'information devant un portail en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aix-en-Provence, France",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Non examinée en détail (hors sujet d'après le titre et la planche).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    }
+  ]
 }
