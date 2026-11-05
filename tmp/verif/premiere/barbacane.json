@@ -1,0 +1,63 @@
+{
+  "termId": "barbacane",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Glacier et route de montagne, petit mur de soutènement au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Passu, Pakistan",
+      "note": "Aucune barbacane lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur peint longeant une route, orifices non identifiables.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ózd, Hongrie",
+      "note": "Barbacane non visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Route de montagne avec murs de pierre sèche, au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bhoutan",
+      "note": "Aucune barbacane distincte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de soutènement clair en blocs, percé de petits orifices avec tuyau à intervalles réguliers.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.87,
+        "y": 0.6,
+        "largeur": 0.06,
+        "hauteur": 0.1
+      },
+      "lieu": "",
+      "note": "Barbacanes nettes ; rectangle sur une seule pour lever le doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rivière avec muret bleu au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Meycauayan, Philippines",
+      "note": "Pas de barbacane."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de béton avec tuyau saillant d'où s'écoule de l'eau.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.45,
+        "y": 0.3,
+        "largeur": 0.12,
+        "hauteur": 0.09
+      },
+      "lieu": "",
+      "note": "Tuyau de drainage évacuant l'eau du mur ; rectangle sur le tuyau (les blocs sombres peuvent distraire)."
+    }
+  ]
+}

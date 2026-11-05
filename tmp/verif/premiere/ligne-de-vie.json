@@ -1,0 +1,53 @@
+{
+  "termId": "ligne-de-vie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Base de chantier de métro avec portique et voussoirs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de ligne de vie."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bungalows de chantier et panneau d'accueil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de ligne de vie."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Voie ferrée en bord de mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Objet « Ligne de Vie » et cartes postales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Voie ferrée au coucher du soleil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Oiseaux sur un fil électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "terre-plein-central",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Avenue de Berlin avec bande pavée centrale vers la Colonne de la Victoire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terre-plein valide mais rectangle englobe route et voiture ; doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande rue avec terre-plein central enherbé, bordé de bandes jaunes, séparant les deux sens.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Canandaigua, États-Unis",
+      "note": "Terre-plein central très clair."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Route avec bande plantée de copeaux et bordures en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour un îlot ; piste cyclable et trottoir distraient."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bande fleurie entre deux voies de tramway.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plate-forme de tram, ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bande herbeuse étroite le long d'une rue avec voitures garées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, contre-jour."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bande herbeuse avec un bus au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, contre-jour."
+    }
+  ]
+}

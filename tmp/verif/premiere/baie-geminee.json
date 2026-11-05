@@ -1,0 +1,63 @@
+{
+  "termId": "baie-geminee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux baies à arc brisé accolées sur une colonnette dans un encadrement unique, mur de brique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.13,
+        "largeur": 0.63,
+        "hauteur": 0.5
+      },
+      "lieu": "",
+      "note": "Baie géminée claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cloître intérieur avec deux paires de baies en arc brisé et une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène chargée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ancienne photo noir et blanc d'une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cambridge",
+      "note": "Ancienne photo, élément minuscule."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade avec balcon à balustrade, statues et fenêtres jumelées à arcs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop d'éléments concurrents."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de pierre avec deux paires de baies à arc trilobé séparées par colonnette.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.19,
+        "largeur": 0.33,
+        "hauteur": 0.58
+      },
+      "lieu": "",
+      "note": "Paire de baies sur colonnette, encadrée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison victorienne avec fenêtres cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dayton, États-Unis",
+      "note": "Élément trop petit."
+    }
+  ]
+}

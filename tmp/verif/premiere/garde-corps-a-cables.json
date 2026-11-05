@@ -1,0 +1,53 @@
+{
+  "termId": "garde-corps-a-cables",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plage avec une barrière en bois au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps en bois, pas à câbles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Détail noir et blanc d'escalier métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de câbles visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Garde-corps de pont à lisses tubulaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lisses, pas câbles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Véranda en bois avec croisillons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps en bois."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rampe métallique à barreaux verticaux, foule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barreaudage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rampe d'escalier à lisses horizontales derrière un arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lisses, pas câbles."
+    }
+  ]
+}

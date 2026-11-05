@@ -1,0 +1,53 @@
+{
+  "termId": "store-a-l-italienne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Lueurs de couleur à travers des fentes, quasi noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lithographie ancienne d'une noce avec toile tendue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ségovie",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne noir et blanc d'un édifice classique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dublin",
+      "note": "Aucun store."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Café avec store banne en toile.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Store banne, pas à l'italienne."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux fenêtres fermées par des stores extérieurs à lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brise-soleil à lames, pas store en toile à bras."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade d'hôtel tropicale avec balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun store visible."
+    }
+  ]
+}

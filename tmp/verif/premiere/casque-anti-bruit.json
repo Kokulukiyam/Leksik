@@ -1,0 +1,53 @@
+{
+  "termId": "casque-anti-bruit",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rangée de six casques anti-bruit à coquilles de couleurs différentes sur une étagère.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet net, dominant, sans ambiguïté."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Casque anti-bruit vert à arceau noir sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet isolé, net et typique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rayon de magasin avec truelles et quelques protections.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casque minuscule, parmi d'autres outils."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Silhouette d'une militaire avec casque anti-bruit lisant une tablette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casque trop petit et à contre-jour."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Garçon de dos tirant au fusil avec un casque bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casque partiel, sujet principal autre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Portrait d'une femme portant des cache-oreilles en fourrure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cache-oreilles de mode, pas un casque anti-bruit."
+    }
+  ]
+}

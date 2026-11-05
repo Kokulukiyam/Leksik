@@ -1,0 +1,58 @@
+{
+  "termId": "facade-ventilee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Morceau de cuivre ancien de coque de navire en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Schéma 3D en coupe d'une façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu 3D."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan de soudure sur tube.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Panneaux gris fixés sur ossature, un panneau manquant laissant voir l'isolant et les fixations.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Onex, Suisse",
+      "note": "Principe de la façade ventilée bien lisible (parement, rail, isolant)."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chantier : plaques de pierre agrafées sur isolant noir, échafaudage.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.32,
+        "y": 0.32,
+        "largeur": 0.68,
+        "hauteur": 0.4
+      },
+      "lieu": "",
+      "note": "Pose de parement en pierre sur ossature ; encombré par l'échafaudage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chantier : isolant en laine minérale et bardage métallique blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt un bardage ; lecture moins claire."
+    }
+  ]
+}

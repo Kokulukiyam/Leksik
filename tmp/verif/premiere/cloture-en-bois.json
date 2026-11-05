@@ -1,0 +1,63 @@
+{
+  "termId": "cloture-en-bois",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne de femmes et enfants derrière une barrière de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet = personnes, ancien."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rue avec un mur de clôture au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clôture non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Clôture de lattes de bois grises à poteaux et traverse, devant une maison.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0,
+        "y": 0.52,
+        "largeur": 1,
+        "hauteur": 0.48
+      },
+      "lieu": "",
+      "note": "Clôture à piquets de bois claire ; rectangle sur la clôture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Clôture de perches de bois posées sur poteaux, devant un décor de mesa.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0,
+        "y": 0.48,
+        "largeur": 1,
+        "hauteur": 0.23
+      },
+      "lieu": "",
+      "note": "Clôture de rondins en bois lisible, rectangle sur la clôture."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Enfants accoudés à une barrière en planches, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet = enfants."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rue avec motard devant une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

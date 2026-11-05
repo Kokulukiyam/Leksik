@@ -1,0 +1,53 @@
+{
+  "termId": "treillage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Roses sur un treillage derrière un cimetière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treillage peu visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tunnel de branches en arceaux fleuris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un treillage mural."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Arbres palissés en arceaux, tulipes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Jardin avec haies taillées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rosier grimpant sur un mur de brique avec quelques lattes de treillage visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treillage presque masqué par les fleurs."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chaumière avec petit treillis et plantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treillage peu lisible."
+    }
+  ]
+}

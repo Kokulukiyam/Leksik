@@ -1,0 +1,53 @@
+{
+  "termId": "ebrasement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade de rue avec oriel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ébrasement non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pan de mur en moellons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'ébrasement."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Clocher au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre à fort ébrasement intérieur dans une ruine, réduite à une fente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut aussi se lire comme meurtrière : doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade en grès avec baies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ébrasement non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fente étroite dans un mur de moellons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt meurtrière."
+    }
+  ]
+}

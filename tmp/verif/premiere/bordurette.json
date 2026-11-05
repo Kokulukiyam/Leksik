@@ -1,0 +1,45 @@
+{
+  "termId": "bordurette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Élément de bordure de jardin victorien en céramique brune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreau décoratif en grès, pas une bordurette béton ; non lisible comme telle."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'un élément marqué Joseph Hamblet 1895.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément estampillé, texte, contexte peu clair."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Élément de bordure de jardin victorien en céramique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Idem 01."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan d'un élément estampillé Joseph Hamblet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte, contexte peu clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Élément de bordure victorien avec étiquette « Victorian garden edging ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte donnant la réponse, objet de musée."
+    }
+  ]
+}

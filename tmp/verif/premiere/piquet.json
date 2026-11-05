@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Aucun piquet visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafond de planches avec lattes et enduit.",
+      "verdict": "rejetée",
+      "note": "Aucun piquet identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bulldozer sur une plage.",
+      "verdict": "rejetée",
+      "note": "Sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gravure technique de coffrage.",
+      "verdict": "rejetée",
+      "note": "Dessin.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur à colombage avec torchis et lattes verticales.",
+      "verdict": "rejetée",
+      "note": "Staken de remplissage, pas des piquets.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bulldozer sur une plage.",
+      "verdict": "rejetée",
+      "note": "Sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Marché au Bénin, homme endormi près d'un étal.",
+      "verdict": "rejetée",
+      "note": "Aucun piquet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

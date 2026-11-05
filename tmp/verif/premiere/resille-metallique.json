@@ -1,0 +1,53 @@
+{
+  "termId": "resille-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Immeuble de nuit enveloppé d'un écran métallique, fenêtres éclairées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Los Angeles",
+      "note": "Perforation illisible, confusion avec façade ventilée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bardage métallique nervuré d'un entrepôt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hof, Allemagne",
+      "note": "Bardage, pas une résille."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Immeuble dont la façade est couverte de panneaux métalliques à volets mobiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Los Angeles",
+      "note": "Perforation peu visible, confusion avec façade ventilée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Immeuble mixte avec panneaux colorés et verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Madison, États-Unis",
+      "note": "Pas de résille claire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur en acier corten avec arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chicago",
+      "note": "Pas de résille."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Clôture verte devant un bâtiment métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chicago",
+      "note": "Hors sujet."
+    }
+  ]
+}

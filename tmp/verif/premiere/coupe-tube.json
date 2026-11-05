@@ -1,0 +1,53 @@
+{
+  "termId": "coupe-tube",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Outils de plomberie PEX numérotés (pince à sertir, raccords, coupe-tube à lame).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coupe-tube à lame de type ciseaux, pas à molette ; planche multi-objets, doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvrier devant une machine à fileter sur pied avec un tube.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine à fileter, pas un coupe-tube."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux ouvriers coupant un profilé sur un établi à scie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un coupe-tube."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Outils de calfatage de joint au plomb sur fonte (étoupe, matoirs).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Autres outils."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Soudeur meulant avec étincelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un coupe-tube."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux ouvriers portant un tube près d'une filière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil non identifiable comme coupe-tube."
+    }
+  ]
+}

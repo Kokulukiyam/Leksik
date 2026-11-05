@@ -651,6 +651,16 @@
     ]
   },
   {
+    "id": "goulotte-a-gravats",
+    "terme": "la goulotte à gravats",
+    "definition": "Conduit formé de tronçons emboîtés suspendus le long d'une façade, qui fait descendre les gravats des étages vers une benne.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "benne-a-gravats"
+    ]
+  },
+  {
     "id": "cone-de-signalisation",
     "terme": "le cône de signalisation",
     "definition": "Cône en plastique orange à bandes blanches réfléchissantes, posé au sol pour baliser une zone de travaux.",
@@ -788,6 +798,16 @@
     "priorite": 2
   },
   {
+    "id": "niveleuse",
+    "terme": "la niveleuse",
+    "definition": "Engin long à six roues, avec une lame placée sous le châssis, qui règle la surface des plateformes et des routes.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "bulldozer"
+    ]
+  },
+  {
     "id": "rouleau-compresseur",
     "terme": "le rouleau compresseur",
     "definition": "Engin dont une ou plusieurs roues sont de lourds cylindres d'acier, qui compacte le sol ou l'enrobé.",
@@ -817,6 +837,16 @@
     "incompatibles": [
       "tombereau",
       "dumper"
+    ]
+  },
+  {
+    "id": "tombereau",
+    "terme": "le tombereau",
+    "definition": "Gros engin de terrassement à benne basculante, souvent articulé, qui transporte les déblais sur les grands chantiers.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "camion-benne"
     ]
   },
   {
@@ -852,6 +882,16 @@
     "definition": "Grue montée sur un camion ou un porteur à pneus, à flèche télescopique, stabilisée par des béquilles.",
     "categorie": "Chantier et outillage",
     "priorite": 2
+  },
+  {
+    "id": "palan",
+    "terme": "le palan",
+    "definition": "Appareil de levage à chaîne, manuel ou électrique, accroché en hauteur pour soulever une charge lourde.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "poulie"
+    ]
   },
   {
     "id": "truelle",
@@ -1004,6 +1044,16 @@
     "definition": "Grosse clé à mâchoires dentées réglables, qui serre et tourne les tubes et raccords filetés.",
     "categorie": "Chantier et outillage",
     "priorite": 2
+  },
+  {
+    "id": "casque-de-chantier",
+    "terme": "le casque de chantier",
+    "definition": "Casque rigide en plastique coloré qui protège la tête des chocs et des chutes d'objets.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1,
+    "incompatibles": [
+      "casque-anti-bruit"
+    ]
   },
   {
     "id": "gilet-haute-visibilite",
@@ -3023,6 +3073,37 @@
     "definition": "Bande de carrelage, de bois ou de PVC posée au bas d'un mur, contre le sol, pour le protéger.",
     "categorie": "Second œuvre et finitions",
     "priorite": 1
+  },
+  {
+    "id": "granito",
+    "terme": "le granito",
+    "definition": "Sol coulé ou en carreaux fait d'éclats de marbre noyés dans un ciment puis poncé, appelé aussi terrazzo ; fréquent dans les anciens immeubles de Dakar.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 2,
+    "incompatibles": [
+      "sol-en-marbre"
+    ]
+  },
+  {
+    "id": "parquet",
+    "terme": "le parquet",
+    "definition": "Revêtement de sol en lames de bois assemblées.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 2
+  },
+  {
+    "id": "moquette",
+    "terme": "la moquette",
+    "definition": "Revêtement de sol textile fixé d'un mur à l'autre.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 2
+  },
+  {
+    "id": "papier-peint",
+    "terme": "le papier peint",
+    "definition": "Revêtement mural en rouleaux de papier ou de vinyle imprimé, collé au mur.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 2
   },
   {
     "id": "plan-de-travail",

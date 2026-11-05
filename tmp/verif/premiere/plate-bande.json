@@ -1,0 +1,53 @@
+{
+  "termId": "plate-bande",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Portail en arc brisé de pierre polychrome.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc, pas une plate-bande."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte en arc surmontée d'une plaque inscrite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc, texte visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grande cheminée de cuisine à manteau en pierre à claveaux en arc de décharge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une baie, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bloc de pierre allongé posé dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Linteau isolé, monolithe."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte cintrée surmontée d'un linteau droit à claveaux en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouverture cintrée : confusion avec baie cintrée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Passage dans un mur de brique avec linteau en pierre monolithe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Linteau monolithique, pas de claveaux."
+    }
+  ]
+}

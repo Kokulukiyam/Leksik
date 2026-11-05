@@ -1,0 +1,53 @@
+{
+  "termId": "panneau-d-allege",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panorama de La Défense avec tours.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toitures métalliques courbes d'un bâtiment de Gehry.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Los Angeles",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Longue façade vitrée au-dessus d'un soubassement sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Allèges non identifiables."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tours à bandes de verre et d'allèges contre un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur-rideau vitré avec inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, panneaux absents."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tour à fenêtres turquoise et cadres en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un mur-rideau lisible."
+    }
+  ]
+}

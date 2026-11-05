@@ -1,0 +1,53 @@
+{
+  "termId": "piscine-a-debordement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bassin bleu vide avec échelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun bord débordant ni goulotte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Enfant près d'une piscine gonflable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Piscine gonflable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Homme devant un bassin sportif couvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bassin à skimmers/goulottes, pas de débordement visible ; portrait."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Enfant avec lunettes au bord d'un bassin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de débordement."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Épreuve photographique ancienne d'un baigneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo claire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Jambes d'enfant dans l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan sans rapport."
+    }
+  ]
+}

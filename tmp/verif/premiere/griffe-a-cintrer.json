@@ -1,0 +1,53 @@
+{
+  "termId": "griffe-a-cintrer",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue du Rhin avec un pont en construction.",
+      "verdict": "rejetée",
+      "note": "Sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Soldat portant un fagot de barres d'acier à béton pliées.",
+      "verdict": "rejetée",
+      "note": "Pas de griffe visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux gros plans de barres d'armature scellées.",
+      "verdict": "rejetée",
+      "note": "Sans griffe.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Faisceau de barres d'armature sur gravier.",
+      "verdict": "rejetée",
+      "note": "Sans griffe.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Amas de fers tordus sur un site de démolition.",
+      "verdict": "rejetée",
+      "note": "Sans griffe.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cintreuses électriques à armatures sur un stand.",
+      "verdict": "rejetée",
+      "note": "Cintreuse, pas griffe à cintrer.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

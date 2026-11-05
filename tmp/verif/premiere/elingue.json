@@ -1,0 +1,53 @@
+{
+  "termId": "elingue",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Exercice de secouristes déplaçant une dalle de béton sur des cales en bois.",
+      "verdict": "rejetée",
+      "note": "Aucune élingue visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruelle de Leeds avec une structure métallique et une rue.",
+      "verdict": "rejetée",
+      "note": "Sans rapport avec une élingue.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux hommes sur un talus rocheux avec des cordes.",
+      "verdict": "rejetée",
+      "note": "Cordes d'alpinisme, pas d'élingue.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Nacelle élévatrice orange devant un échafaudage.",
+      "verdict": "rejetée",
+      "note": "Montre une nacelle, pas une élingue.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvriers posant une vanne métallique suspendue par une sangle jaune.",
+      "verdict": "rejetée",
+      "note": "Élingue peu visible, élément trop petit et ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne de boulangers militaires portant des pains.",
+      "verdict": "rejetée",
+      "note": "Sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

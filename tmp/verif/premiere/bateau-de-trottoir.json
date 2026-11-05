@@ -1,0 +1,53 @@
+{
+  "termId": "bateau-de-trottoir",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bordure de trottoir abaissée au sol, ombres d'un photographe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade en brique avec rampe d'accès.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rampe, pas un bateau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Passage vélo enneigé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Neige cache l'élément."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rampe d'accès à un bâtiment en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rampe, pas un bateau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Passage piéton avec bordure abaissée, potelets orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément petit et encombré ; doute."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rampe d'un bus à plancher bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

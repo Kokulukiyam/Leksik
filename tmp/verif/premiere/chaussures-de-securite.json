@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Image désordonnée, chaussure dépecée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Botte de travail Caterpillar jaune posée de profil sur un carton.",
+      "verdict": "rejetée",
+      "note": "Aucune preuve visible d'une coque de protection ; peut passer pour une simple chaussure montante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Paire de bottines Blundstone à élastiques posées sur l'herbe.",
+      "verdict": "rejetée",
+      "note": "Bottines élastiquées, pas des chaussures de sécurité typiques.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pied chaussé d'une botte jaune dans un salon.",
+      "verdict": "rejetée",
+      "note": "Chaussure portée, contexte domestique, coque non visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux chaussures de sécurité noires Elten S3 (une montante, une basse) avec un chausse-pied en inox.",
+      "verdict": "validée",
+      "note": "Coques de bout renforcées visibles, semelles épaisses ; le chausse-pied gêne un peu mais reste secondaire.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Paire de bottes en cuir marron lacées, de face.",
+      "verdict": "rejetée",
+      "note": "Aucune indication de coque de sécurité.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cirage d'une botte en cuir vernie orange.",
+      "verdict": "rejetée",
+      "note": "Botte de mode, non sécurité.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

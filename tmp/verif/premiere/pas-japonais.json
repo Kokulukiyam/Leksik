@@ -1,0 +1,58 @@
+{
+  "termId": "pas-japonais",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Montage avant/après de dalles d'ardoise dans un gazon synthétique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montage de deux photos, gazon artificiel."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Piste cyclable et piétonne goudronnée dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Allée, pas des pas japonais."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Allée dallée continue d'un jardin botanique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Allée continue."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Dalles rondes espacées formant un cheminement dans la pelouse d'un parc.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.56,
+        "y": 0.6,
+        "largeur": 0.36,
+        "hauteur": 0.4
+      },
+      "lieu": "Lodi Garden, New Delhi, Inde",
+      "note": "Dalles isolées posées dans le gazon, bien lisibles ; rectangle sur le cheminement."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chemin béton dans un jardin en automne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Allée continue."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier de pierre naturel en sous-bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier, pas des pas japonais."
+    }
+  ]
+}

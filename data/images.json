@@ -1895,6 +1895,55 @@
     "note": "Vérification : Bennes ouvertes typiques, claires ; l'inscription BIG BAG est une marque, sans lien avec la réponse. Contre-vérification : Rangée de bennes métalliques ouvertes orange (bennes à chaîne) ; l'objet est dominant et sans ambiguïté."
   },
   {
+    "id": "goulotte-a-gravats-01",
+    "termId": "goulotte-a-gravats",
+    "fichier": "commons/goulotte-a-gravats-01.webp",
+    "rectangle": {
+      "x": 0.26,
+      "y": 0.05,
+      "largeur": 0.4,
+      "hauteur": 0.93
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Hcwood",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:CHUTES_-_Construction_Plastic_Trash_Chute.jpg",
+    "statut": "validée",
+    "note": "Vérification : Goulotte nette, rectangle sur le tube. Contre-vérification : Longue goulotte noire en tronçons emboîtés suspendue le long d'une façade, bien cadrée par le rectangle ; terme juste."
+  },
+  {
+    "id": "goulotte-a-gravats-02",
+    "termId": "goulotte-a-gravats",
+    "fichier": "commons/goulotte-a-gravats-02.webp",
+    "rectangle": {
+      "x": 0.5,
+      "y": 0.16,
+      "largeur": 0.18,
+      "hauteur": 0.62
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Teodor605",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Rubbish_chute_Oslo_2020-04-04_14.44.19.jpg",
+    "statut": "validée",
+    "note": "Vérification : Goulotte visible et lisible, rectangle serré. Contre-vérification : Goulotte grise en tronçons descendant le long des balcons d'un immeuble en chantier vers une benne, rectangle bien placé."
+  },
+  {
+    "id": "goulotte-a-gravats-04",
+    "termId": "goulotte-a-gravats",
+    "fichier": "commons/goulotte-a-gravats-04.webp",
+    "rectangle": null,
+    "lieu": "Mouscron, Belgique",
+    "source": "commons",
+    "auteur": "Jamain",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Construction_rubbish_chute_J1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Image claire, goulotte dominante. Contre-vérification : Gros plan d'une goulotte bleue à tronçons emboîtés accrochée à une fenêtre, gravats en bas ; sans ambiguïté."
+  },
+  {
     "id": "cone-de-signalisation-04",
     "termId": "cone-de-signalisation",
     "fichier": "commons/cone-de-signalisation-04.webp",
@@ -2203,6 +2252,32 @@
     "note": "Vérification : Chenilles et lame bien visibles, engin dominant malgré la fumée. Contre-vérification : Bulldozer Caterpillar sur chenilles, large lame au premier plan ; sans ambiguïté."
   },
   {
+    "id": "niveleuse-02",
+    "termId": "niveleuse",
+    "fichier": "commons/niveleuse-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Draceane",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:D35,_DOD_Opatovice%E2%80%93%C4%8Casy,_2021-09-11_(11).jpg",
+    "statut": "validée",
+    "note": "Vérification : Niveleuse claire et dominante. Contre-vérification : Niveleuse orange à six roues avec lame sous le châssis et lame frontale, bien visible ; terme juste."
+  },
+  {
+    "id": "niveleuse-04",
+    "termId": "niveleuse",
+    "fichier": "commons/niveleuse-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Draceane",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:D7,_Chlum%C4%8Dany,_zkapacitn%C4%9Bn%C3%AD,_stavba_(149).jpg",
+    "statut": "validée",
+    "note": "Vérification : Niveleuse typique, nette. Contre-vérification : Niveleuse en travail sur une plateforme de grave, lame centrale sous le châssis visible ; sans ambiguïté."
+  },
+  {
     "id": "rouleau-compresseur-03",
     "termId": "rouleau-compresseur",
     "fichier": "commons/rouleau-compresseur-03.webp",
@@ -2266,6 +2341,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Peterbilt_330_dump_with_dirt_tub_dump_body.JPG",
     "statut": "validée",
     "note": "Vérification : Camion et caisse basculante entiers, nets, typiques. Contre-vérification : Camion-benne routier avec caisse basculante, vu de trois quarts, dominant l'image."
+  },
+  {
+    "id": "tombereau-05",
+    "termId": "tombereau",
+    "fichier": "commons/tombereau-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would lik",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Building_Fairs_Brno_2011_(017).jpg",
+    "statut": "validée",
+    "note": "Vérification : Tombereau articulé net et dominant. Contre-vérification : Tombereau articulé Liebherr TA 230 à benne basculante vu de profil ; terme juste."
   },
   {
     "id": "camion-toupie-01",
@@ -2344,6 +2432,37 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Crane_Vehicle_in_Industrial_Side,_Selibe-Phikwe.jpg",
     "statut": "validée",
     "note": "Vérification : Porteur à pneus et flèche télescopique clairs ; engin dominant. Contre-vérification : Grue automotrice sur pneus avec flèche télescopique repliée, crochet et béquilles ; grue mobile reconnaissable."
+  },
+  {
+    "id": "palan-02",
+    "termId": "palan",
+    "fichier": "commons/palan-02.webp",
+    "rectangle": {
+      "x": 0.4,
+      "y": 0.17,
+      "largeur": 0.14,
+      "hauteur": 0.62
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Uiuc123",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Aluminum_Gantry_Crane.jpg",
+    "statut": "validée",
+    "note": "Vérification : Palan à chaîne manuel net, rectangle sur le palan. Contre-vérification : Palan à chaîne rouge accroché à un chariot sur un portique, rectangle bien serré ; terme juste."
+  },
+  {
+    "id": "palan-03",
+    "termId": "palan",
+    "fichier": "commons/palan-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Carl Stahl GmbH",
+    "licence": "CC BY-SA 3.0 de",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Carl_Stahl_Hebelzug_Flaschenzug.jpg",
+    "statut": "validée",
+    "note": "Vérification : Palans clairement identifiables, étiquette technique sans lien avec la réponse. Contre-vérification : Photo produit de palans à levier et à chaîne avec crochets et chaînes ; clairement des palans."
   },
   {
     "id": "truelle-06",
@@ -2432,6 +2551,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Pickaxe.jpg",
     "statut": "validée",
     "note": "Vérification : Outil net, dominant, sans ambiguïté. Contre-vérification : Pioche à fer pointu et plat monté perpendiculairement sur le manche, nette."
+  },
+  {
+    "id": "pioche-08",
+    "termId": "pioche",
+    "fichier": "commons/pioche-08.webp",
+    "rectangle": "",
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Stemonitis",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cutter_mattock.jpg",
+    "statut": "validée",
+    "note": "Vérification : Outil clair et dominant, deux lames plates sur manche, conforme à la définition. Contre-vérification : Gros plan d'une tête de pioche (pointe et panne plate) emmanchée perpendiculairement ; terme juste."
   },
   {
     "id": "marteau-02",
@@ -2628,6 +2760,24 @@
     "note": "Vérification : Disqueuse et disque bien visibles ; le rectangle isole l'outil. Contre-vérification : Rectangle bien placé sur une meuleuse d'angle en train de couper du métal, gerbe d'étincelles."
   },
   {
+    "id": "disqueuse-11",
+    "termId": "disqueuse",
+    "fichier": "commons/disqueuse-11.webp",
+    "rectangle": {
+      "x": 0.38,
+      "y": 0.32,
+      "largeur": 0.17,
+      "hauteur": 0.26
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Frank Vincentz",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:B%C3%B6rger_-_Up%27n_Riegen_-_Heimathof_-_Zehntscheune_03_ies.jpg",
+    "statut": "validée",
+    "note": "Vérification : Outil net et identifiable ; rectangle sur la disqueuse car autres outils présents. Contre-vérification : Disqueuse avec disque visible posée sur une palette de chantier, bien désignée par le rectangle ; lisible."
+  },
+  {
     "id": "poste-a-souder-03",
     "termId": "poste-a-souder",
     "fichier": "commons/poste-a-souder-03.webp",
@@ -2657,6 +2807,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Makita_18v_electric_drill_(1).jpg",
     "statut": "validée",
     "note": "Vérification : Outil net, dominant, mandrin et poignée visibles. Contre-vérification : Perceuse-visseuse sans fil avec mandrin, claire et dominante."
+  },
+  {
+    "id": "perceuse-09",
+    "termId": "perceuse",
+    "fichier": "commons/perceuse-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "R. Henrik Nilsson",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Circa_1950_Van_Dorn_quarter_inch_Special_Drill_type_HB_2000_RPM_made_in_Harmondsworth_England_view_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Perceuse à main nette et dominante, mandrin visible. Contre-vérification : Perceuse électrique ancienne en métal avec mandrin à clé, poignée pistolet ; terme juste."
   },
   {
     "id": "marteau-piqueur-05",
@@ -2734,6 +2897,19 @@
     "note": "Vérification : Tournevis classique à manche, entièrement visible. Pointe petite et photo modeste mais sans doute possible. Contre-vérification : Tournevis à manche plastique et tige métallique, net et seul sur l'image."
   },
   {
+    "id": "tournevis-07",
+    "termId": "tournevis",
+    "fichier": "commons/tournevis-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Elkouriomar",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:09_CacciaviteTaglionero.JPG",
+    "statut": "validée",
+    "note": "Vérification : Outil net, entier, dominant, fond uni. Contre-vérification : Tournevis plat à manche noir isolé sur fond bois ; sans ambiguïté."
+  },
+  {
     "id": "coupe-carreau-03",
     "termId": "coupe-carreau",
     "fichier": "commons/coupe-carreau-03.webp",
@@ -2776,6 +2952,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Pipe_Wrench.jpg",
     "statut": "validée",
     "note": "Vérification : Clés serre-tube classiques ; les trois objets sont des clés serre-tube, donc sans ambiguïté. Contre-vérification : Trois clés serre-tube anciennes à mâchoires dentées ; sans ambiguïté."
+  },
+  {
+    "id": "casque-de-chantier-09",
+    "termId": "casque-de-chantier",
+    "fichier": "commons/casque-de-chantier-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Norbert Pietsch Enpi48",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:UVEX_Schutzhelm_mit_techn._Daten_1993.jpg",
+    "statut": "validée",
+    "note": "Vérification : Casque net et dominant ; logo mais pas de réponse écrite. Contre-vérification : Casque de chantier blanc en plastique vu de profil (avec encart du marquage EN 397) ; terme juste."
   },
   {
     "id": "gilet-haute-visibilite-01",
@@ -7166,6 +7355,94 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Coin_de_mur_-_2025-03-01.jpg",
     "statut": "validée",
     "note": "Vérification : Plinthe en gros plan, bas du mur au contact du sol ; rectangle sur la plinthe (le quart-de-rond est dessous). Contre-vérification : Plinthe en bois peinte en bas du mur contre le parquet, en gros plan et bien encadrée."
+  },
+  {
+    "id": "granito-01",
+    "termId": "granito",
+    "fichier": "commons/granito-01.webp",
+    "rectangle": null,
+    "lieu": "Regina, Saskatchewan, Canada",
+    "source": "commons",
+    "auteur": "Sandra Cohen-Rose and Colin Rose from Montreal, Canada",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Canadian_Legion_No._001,_Regina,_Saskatchewan_(531017835).jpg",
+    "statut": "validée",
+    "note": "Vérification : Éclats de marbre noyés dans un liant, surface poncée et polie : typiquement un granito, sans joints de carreaux. Contre-vérification : Sol en granito à éclats de marbre avec rosace colorée incrustée ; caractéristique."
+  },
+  {
+    "id": "granito-04",
+    "termId": "granito",
+    "fichier": "commons/granito-04.webp",
+    "rectangle": null,
+    "lieu": "Venise, Italie",
+    "source": "commons",
+    "auteur": "Abxbay",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Terrazzo_ca_favretto.JPG",
+    "statut": "validée",
+    "note": "Vérification : Sol en granito clair et net, éclats bien visibles, occupe toute l'image. Contre-vérification : Couloir au sol en granito poli à éclats de marbre multicolores ; terme juste."
+  },
+  {
+    "id": "parquet-04",
+    "termId": "parquet",
+    "fichier": "commons/parquet-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Robert Fischbacher163",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Franz%C3%B6sisches_fischgr%C3%A4t_route_66_antik_fischbacher_living.jpg",
+    "statut": "validée",
+    "note": "Vérification : Parquet clair et dominant ; variantes (point de Hongrie, bâtons rompus) incompatibles. Contre-vérification : Lames de bois en point de Hongrie ; le générique parquet est juste, les termes plus précis sont retirés des choix."
+  },
+  {
+    "id": "parquet-06",
+    "termId": "parquet",
+    "fichier": "commons/parquet-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Пищулин Антон Сергеевич",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Art-parket-asp.jpg",
+    "statut": "validée",
+    "note": "Vérification : Revêtement de lames de bois assemblées, net et plein cadre. Contre-vérification : Parquet mosaïque en chêne avec cabochons de bois exotique ; clairement un parquet."
+  },
+  {
+    "id": "moquette-03",
+    "termId": "moquette",
+    "fichier": "commons/moquette-03.webp",
+    "rectangle": {
+      "x": 0.02,
+      "y": 0.5,
+      "largeur": 0.96,
+      "hauteur": 0.48
+    },
+    "lieu": "Bad Schallerbach, Autriche",
+    "source": "commons",
+    "auteur": "Michael Fleischhacker",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Teppichboden.JPG",
+    "statut": "validée",
+    "note": "Vérification : Moquette bien visible, rectangle sur la partie de sol. Contre-vérification : Couloir d'hôtel couvert d'une moquette bleue à motifs posée de mur à mur, rectangle sur le sol ; terme juste."
+  },
+  {
+    "id": "papier-peint-04",
+    "termId": "papier-peint",
+    "fichier": "commons/papier-peint-04.webp",
+    "rectangle": {
+      "x": 0.07,
+      "y": 0,
+      "largeur": 0.8,
+      "hauteur": 0.88
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Eduardo",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:4769494160_wallpaper.jpg",
+    "statut": "validée",
+    "note": "Vérification : Papier peint à motif net et dominant, rectangle pour exclure le cadre. Contre-vérification : Mur tapissé d'un papier peint à grands motifs floraux, rectangle sur le motif ; terme juste."
   },
   {
     "id": "plan-de-travail-01",

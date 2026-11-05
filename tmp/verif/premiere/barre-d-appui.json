@@ -1,0 +1,53 @@
+{
+  "termId": "barre-d-appui",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Lucarne à balcon en fer forgé ouvragé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps en fer forgé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rampes intérieures à lisses horizontales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps à lisses."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte-fenêtre cintrée entre volets bleus avec garde-corps à barreaux ondulés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps à barreaudage, pas une simple barre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rampe d'entrée de métro ornée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chicago",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Immeuble de brique, fenêtres avec petits garde-corps minuscules.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Camionnette jaune derrière un parapet à lisses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

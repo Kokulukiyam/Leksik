@@ -1,0 +1,53 @@
+{
+  "termId": "bassin-de-retention",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrage de pierre en travers d'un ruisseau en sous-bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas clairement un bassin."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bassin à ciel ouvert aux parois de béton, rempli d'eau, avec ouvrage de vidange.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Lille-Lomme, France",
+      "note": "Bassin de rétention en béton, lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grande pelouse devant un bâtiment industriel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bassin sec invisible, rien ne le montre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Étang avec tête de buses en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour un étang ou une mare ; doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plan d'eau dans une dépression herbeuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mare/retenue peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Dépression enherbée plantée, maisons au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noue ou bassin sec ambigu."
+    }
+  ]
+}

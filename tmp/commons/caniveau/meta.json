@@ -3,7 +3,7 @@
     "id": "caniveau",
     "terme": "le caniveau",
     "categorie": "Extérieurs et voirie",
-    "definition": "Rigole en béton ou en pierre au pied de la bordure, qui conduit l'eau de pluie de la chaussée vers les avaloirs.",
+    "definition": "Rigole ou canal maçonné le long de la chaussée, au pied de la bordure, ouvert ou couvert de dallettes, qui conduit l'eau de pluie vers les avaloirs.",
     "priorite": 1,
     "requetes": [
       "street gutter",
@@ -13,6 +13,10 @@
     "incompatibles": [
       "fosse",
       "canal-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Drains",
+      "Category:Storm drains"
     ]
   },
   "candidats": [
@@ -145,6 +149,132 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Stop_sign_on_sidewalk_at_Post_Street_and_South_San_Pedro_Street%2C_San_Jose%2C_California.jpg/1280px-Stop_sign_on_sidewalk_at_Post_Street_and_South_San_Pedro_Street%2C_San_Jose%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3024,
       "hauteur": 4032
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Andreu ledoux bcn-2009 142.jpg",
+      "description": "Textures de Barcelona",
+      "categories": [
+        "Drains",
+        "Self-published work",
+        "Pavements in Barcelona"
+      ],
+      "auteur": "Andreuledoux",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Andreu_ledoux_bcn-2009_142.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Andreu_ledoux_bcn-2009_142.jpg/1280px-Andreu_ledoux_bcn-2009_142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Drain cover.jpg",
+      "description": "",
+      "categories": [
+        "Taken with Ricoh Caplio R1V",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "2005 World Trade Organization Ministerial Conference",
+        "Wanchai Tower",
+        "Media missing infobox template",
+        "Storm drains",
+        "Drainage pits"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drain_cover.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Drain_cover.jpg/1280px-Drain_cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1527,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Dhabihah ذبح اسلامی گوسفند 20.jpg",
+      "description": "La dhabiha est la méthode d'abattage rituel des animaux prescrite par la loi islamique. Elle s'applique à tous les animaux à l'exception des poissons et fruits de mer, . Le terme dhabiha est souvent utilisé erronément comme synonyme de halal, mais utilisés conjointement (dhabīḥah halal), les mots décrivent toute pièce de viande permise par la loi islamique.",
+      "categories": [
+        "Goats",
+        "Blood",
+        "Goat meat",
+        "Crimson",
+        "Slaughtering",
+        "Drains",
+        "Animal sacrifice",
+        "Goat based food",
+        "Self-published work",
+        "Goat slaughtering",
+        "Photographs by Mostafa Meraji",
+        "Dhabiha",
+        "Butchery",
+        "Dead goats",
+        "Blood in religion",
+        "Mammal blood",
+        "Animal blood"
+      ],
+      "auteur": "Mostafameraji",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dhabihah_%D8%B0%D8%A8%D8%AD_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%DA%AF%D9%88%D8%B3%D9%81%D9%86%D8%AF_20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dhabihah_%D8%B0%D8%A8%D8%AD_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%DA%AF%D9%88%D8%B3%D9%81%D9%86%D8%AF_20.jpg/1280px-Dhabihah_%D8%B0%D8%A8%D8%AD_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%DA%AF%D9%88%D8%B3%D9%81%D9%86%D8%AF_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Circular storm drain (52030327073).jpg",
+      "description": "In Chicago Women's Park & Garden, South Indiana Avenue, Chicago, IL",
+      "categories": [
+        "Storm drains",
+        "Flickr images reviewed by FlickreviewR 2",
+        "March 2022 in Chicago",
+        "Drainage pits",
+        "Photographs by Chris Rycroft"
+      ],
+      "auteur": "Chris Rycroft from Cambridge, Massachusetts, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Circular_storm_drain_(52030327073).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Circular_storm_drain_%2852030327073%29.jpg/1280px-Circular_storm_drain_%2852030327073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4052,
+      "hauteur": 4052
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bergbach (27548167311).jpg",
+      "description": "Bergbach",
+      "categories": [
+        "Drains",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Lukas Plewnia"
+      ],
+      "auteur": "Lukas Plewnia from Winterthur, Schweiz",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bergbach_(27548167311).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Bergbach_%2827548167311%29.jpg/1280px-Bergbach_%2827548167311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2006 05 26 - Elmhirst Pkwy at Cedar La 03.JPG",
+      "description": "Cedar Lane (& storm drain) at Elmhirst Parkway, Bethesda, MD, USA",
+      "categories": [
+        "Taken with Canon PowerShot A95",
+        "Self-published work",
+        "Storm drains",
+        "Streets in Montgomery County, Maryland",
+        "Files with coordinates missing SDC location of creation",
+        "2006 in Bethesda, Maryland",
+        "Bus stop signs in Maryland",
+        "Four lane roads in Maryland",
+        "Ride On bus stops in Montgomery County, Maryland"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2006_05_26_-_Elmhirst_Pkwy_at_Cedar_La_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2006_05_26_-_Elmhirst_Pkwy_at_Cedar_La_03.JPG/1280px-2006_05_26_-_Elmhirst_Pkwy_at_Cedar_La_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

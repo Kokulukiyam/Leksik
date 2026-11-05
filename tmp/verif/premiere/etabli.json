@@ -1,0 +1,53 @@
+{
+  "termId": "etabli",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Établi encombré avec plexiglas, colle chaude et pièces en bois.",
+      "verdict": "rejetée",
+      "note": "Désordre, étau absent, plan de travail peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Atelier de snowboards avec skis alignés et un homme de dos.",
+      "verdict": "rejetée",
+      "note": "Établi spécialisé, noyé dans le décor.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Établi de cordonnier ancien avec tiroirs et outils exposés dans un musée.",
+      "verdict": "rejetée",
+      "note": "Établi très spécialisé, plateau encombré d'outils, sans étau.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plan de travail en bois avec pot de colle et pièces de bois.",
+      "verdict": "rejetée",
+      "note": "Établi à peine visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Table de travail de bottier en musée avec outils de cuir.",
+      "verdict": "rejetée",
+      "note": "Table d'exposition encombrée, panneau et photo.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur d'atelier avec silhouettes d'outils et un tube.",
+      "verdict": "rejetée",
+      "note": "Aucun établi.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "tronconneuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tronçonneuse Echo rouge et noire, chaîne et guide visibles, posée sur un billot devant du panneau OSB.",
+      "verdict": "validée",
+      "note": "Tronçonneuse à moteur thermique, claire, nette et dominante.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Scie radiale ancienne en noir et blanc dans un atelier.",
+      "verdict": "rejetée",
+      "note": "Scie à lame circulaire, pas une tronçonneuse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rue au Liban avec des hommes débitant des planches de troncs.",
+      "verdict": "rejetée",
+      "note": "Outil trop petit, scène chargée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Scie égoïne rouge suspendue avec d'autres outils dans un musée.",
+      "verdict": "rejetée",
+      "note": "Scie à main.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Homme sur une plateforme dans les arbres tenant un outil.",
+      "verdict": "rejetée",
+      "note": "Outil peu lisible, petit.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Enseigne de fabricant de scies sur une devanture.",
+      "verdict": "rejetée",
+      "note": "Texte et enseigne, aucune tronçonneuse.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

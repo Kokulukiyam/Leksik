@@ -11,7 +11,12 @@
       "incategory:\"Sidewalks\""
     ],
     "incompatibles": [
-      "bordure-de-trottoir"
+      "bordure-de-trottoir",
+      "allee"
+    ],
+    "categoriesCommons": [
+      "Category:Sidewalks",
+      "Category:Pavements"
     ]
   },
   "candidats": [
@@ -371,6 +376,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Church_of_St_George_-_Kyustendil.jpg/1280px-Church_of_St_George_-_Kyustendil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3244,
       "hauteur": 2300
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A sidewalk obstructed by a building in Mt. Vernon.jpg",
+      "description": "A sidewalk obstructed by a building in Mt. Vernon",
+      "categories": [
+        "Sidewalks",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2026-05-14"
+      ],
+      "auteur": "Darklinkxxxx",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_sidewalk_obstructed_by_a_building_in_Mt._Vernon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/A_sidewalk_obstructed_by_a_building_in_Mt._Vernon.jpg/1280px-A_sidewalk_obstructed_by_a_building_in_Mt._Vernon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 1816
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2016-07-31 Botanischer Garten Tübingen 052.jpg",
+      "description": "Der Neue Botanische Garten der Universität Tübingen.",
+      "categories": [
+        "Paths in Germany",
+        "Pavements",
+        "Neuer Botanischer Garten Tübingen",
+        "Self-published work"
+      ],
+      "auteur": "Yeerge",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016-07-31_Botanischer_Garten_T%C3%BCbingen_052.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/2016-07-31_Botanischer_Garten_T%C3%BCbingen_052.jpg/1280px-2016-07-31_Botanischer_Garten_T%C3%BCbingen_052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Billy goat ??.jpg",
+      "description": "Billy goat",
+      "categories": [
+        "Sidewalks",
+        "Billy goats",
+        "Self-published work"
+      ],
+      "auteur": "Tarasna0922",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Billy_goat_%3F%3F.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Billy_goat_%3F%3F.jpg/1280px-Billy_goat_%3F%3F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3452,
+      "hauteur": 2134
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:\"Софіївка\" радує 04.jpg",
+      "description": "« Софіївка », Уманський район, м. Умань",
+      "categories": [
+        "Pavements",
+        "Self-published work",
+        "Natural heritage sites in Ukraine with known IDs",
+        "Images from Wiki Loves Earth 2020 in Ukraine",
+        "Uploaded via Campaign:wle-ua",
+        "Files with coordinates missing SDC location of creation",
+        "Ukraine photographs taken on 2012-06-07",
+        "Images from Wiki Loves Earth 2020",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Bodies of water in Hrekiv lis",
+        "Wiki Loves Earth Ukraine 2020 - Quantity"
+      ],
+      "auteur": "Світлана Мінич",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22%D0%A1%D0%BE%D1%84%D1%96%D1%97%D0%B2%D0%BA%D0%B0%22_%D1%80%D0%B0%D0%B4%D1%83%D1%94_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%22%D0%A1%D0%BE%D1%84%D1%96%D1%97%D0%B2%D0%BA%D0%B0%22_%D1%80%D0%B0%D0%B4%D1%83%D1%94_04.jpg/1280px-%22%D0%A1%D0%BE%D1%84%D1%96%D1%97%D0%B2%D0%BA%D0%B0%22_%D1%80%D0%B0%D0%B4%D1%83%D1%94_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Blue-white sidewalk.JPG",
+      "description": "שולי מדרכה צבועים בכחול-לבן, לציון חניה בתשלום",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus FE-360 / X-875 / C-570",
+        "Sidewalks",
+        "License migration redundant",
+        "Self-published work",
+        "Parked automobiles (single)"
+      ],
+      "auteur": "דוד שי",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue-white_sidewalk.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Blue-white_sidewalk.JPG/1280px-Blue-white_sidewalk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1364
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:(Jardín Botánico de Quito) pic bb8a7.JPG",
+      "description": "Jardín Botánico de Quito",
+      "categories": [
+        "Taken with Sony DSC-WX70",
+        "Pavements",
+        "Self-published work",
+        "Ecuador photographs taken on 2016-03-24",
+        "Curved paths",
+        "Jardín Botánico de Quito (walking trails)"
+      ],
+      "auteur": "David Adam Kess",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(Jard%C3%ADn_Bot%C3%A1nico_de_Quito)_pic_bb8a7.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%28Jard%C3%ADn_Bot%C3%A1nico_de_Quito%29_pic_bb8a7.JPG/1280px-%28Jard%C3%ADn_Bot%C3%A1nico_de_Quito%29_pic_bb8a7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

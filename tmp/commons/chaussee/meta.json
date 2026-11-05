@@ -12,6 +12,9 @@
     ],
     "incompatibles": [
       "enrobe"
+    ],
+    "categoriesCommons": [
+      "Category:Roads"
     ]
   },
   "candidats": [
@@ -147,6 +150,131 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Dual_Carriageway-1320402%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg/1280px-Dual_Carriageway-1320402%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4896,
       "hauteur": 3672
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A parked police car Gate 7 during JMISU Protest, Jamia Millia Islamia.jpg",
+      "description": "A parked police car Gate 7 during JMISU Protest, Jamia Millia Islamia",
+      "categories": [
+        "Roads",
+        "Police vehicles",
+        "Jamia Millia Islamia",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license"
+      ],
+      "auteur": "Muntaqibah",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_parked_police_car_Gate_7_during_JMISU_Protest,_Jamia_Millia_Islamia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/A_parked_police_car_Gate_7_during_JMISU_Protest%2C_Jamia_Millia_Islamia.jpg/1280px-A_parked_police_car_Gate_7_during_JMISU_Protest%2C_Jamia_Millia_Islamia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A Dog looking up.jpg",
+      "description": "A Dog looking up",
+      "categories": [
+        "Dogs",
+        "Roads",
+        "Grass",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "Tyap language related media"
+      ],
+      "auteur": "Favour Shichet",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Dog_looking_up.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/A_Dog_looking_up.jpg/1280px-A_Dog_looking_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:4th Street Charlottesville.jpg",
+      "description": "4th Street Charlottesville at night.",
+      "categories": [
+        "Virginia in the 2020s",
+        "Roads",
+        "Signs",
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license"
+      ],
+      "auteur": "Punker1999",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4th_Street_Charlottesville.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/4th_Street_Charlottesville.jpg/1280px-4th_Street_Charlottesville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Dual Carriageway-1320386, Wainuiomata, Wellington, New Zealand.jpg",
+      "description": "Dual carriageway going down the hill to Wainuiomata from Lower Hutt.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ80 / TZ81 / TZ85 / ZS60",
+        "Tree lines",
+        "Light and shadow",
+        "Self-published work",
+        "Automobile rear lights",
+        "Blue, brown, white signs",
+        "Crash barrier traffic medians",
+        "Lamp posts in New Zealand",
+        "Perspective views of streets",
+        "Road markings in New Zealand",
+        "Double-torch post lights",
+        "Dual carriageways",
+        "Rows of utility poles",
+        "Roundabouts in New Zealand",
+        "Arrow road markings",
+        "Left turn road signs in New Zealand",
+        "Left turn lane road signs",
+        "New Zealand photographs taken on 2025-04-11",
+        "Remembrance Poppies in public art"
+      ],
+      "auteur": "Wainuio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dual_Carriageway-1320386,_Wainuiomata,_Wellington,_New_Zealand.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Dual_Carriageway-1320386%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg/1280px-Dual_Carriageway-1320386%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:IMN2022.jpg",
+      "description": "La Marta nevada 2022",
+      "categories": [
+        "Roads",
+        "Self-published work"
+      ],
+      "auteur": "RodBerlanga",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:IMN2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/IMN2022.jpg/1280px-IMN2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Autoroute principale à Bouaké.jpg",
+      "description": "Bitume, voiture et moto",
+      "categories": [
+        "Roads",
+        "Self-published work"
+      ],
+      "auteur": "K. Rehoboth",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Autoroute_principale_%C3%A0_Bouak%C3%A9.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Autoroute_principale_%C3%A0_Bouak%C3%A9.jpg/1280px-Autoroute_principale_%C3%A0_Bouak%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "pare-vue",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Clôture de ganivelles en bord de falaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clôture, pas un pare-vue de balcon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Clôture de barbelés en zone militaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Clôture en bois, photo très retouchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, image dénaturée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bâtiment noir et blanc, moto sur route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grillage rigide devant un clocher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Arbre dans la brume derrière une clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

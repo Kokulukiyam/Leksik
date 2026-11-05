@@ -1,0 +1,53 @@
+{
+  "termId": "cour-anglaise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade en pierre avec fine tranchée le long du mur, climatiseurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fukuoka, Japon",
+      "note": "Tranchée peu lisible, pas clairement une cour anglaise."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vue plongeante sur un fossé étroit le long d'un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fukuoka, Japon",
+      "note": "Ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte noire en pierre rouge, fleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boston, États-Unis",
+      "note": "Pas de cour anglaise."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Abri de pique-nique à structure métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Abri de pique-nique à structure métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rue de maisons en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Nouvelle-Orléans, États-Unis",
+      "note": "Hors sujet."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "vitrage-agrafe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grande baie de gare avec horloge, banderole.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mannheim",
+      "note": "Menuiserie classique, texte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade de verre tenue par fixations ponctuelles à pattes et rotules, sans cadres.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Vitrage agrafé évident."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tour à murs-rideaux à montants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur-rideau à ossature."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur-rideau d'hôtel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Copenhague",
+      "note": "Mur-rideau à profilés."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tour vitrée en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fixations illisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Carrefour avec immeuble de verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Liège",
+      "note": "Trop petit."
+    }
+  ]
+}

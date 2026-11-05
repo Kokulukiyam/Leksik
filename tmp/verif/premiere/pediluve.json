@@ -1,0 +1,53 @@
+{
+  "termId": "pediluve",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Nageur vu du dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Enfant sautant au bord d'un bassin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Enfant plongeant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Enfant avec lunettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bâtiment et portail, centre nautique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bassin vide avec échelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve."
+    }
+  ]
+}

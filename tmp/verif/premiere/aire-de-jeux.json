@@ -1,0 +1,53 @@
+{
+  "termId": "aire-de-jeux",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Aire de jeux en copeaux avec toboggans et structures en bois, table de pique-nique devant.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aire de jeux claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Jeu à ressort en forme de flamant rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cagliari, Italie",
+      "note": "Un seul jeu, pas l'aire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Enfant sur un toboggan rouge, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop serré."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Aire de jeux thématique colorée avec fontaine, voiture et train.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor de parc d'attractions, moins typique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Balançoires et jeux à ressort sur dallage, clôture colorée, en ville.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aire de jeux de quartier évidente."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Enfants jouant sur des planches dans un bidonville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Makoko",
+      "note": "Pas une aire de jeux aménagée."
+    }
+  ]
+}

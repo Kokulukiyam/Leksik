@@ -1,0 +1,53 @@
+{
+  "termId": "larmier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Corniche d'un portique néoclassique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Corniche, larmier non isolé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Angle de corniche à consoles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Corniche/modillons."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade avec appuis et jardinières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Larmier non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Corniche à modillons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion avec corniche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Corniche gothique en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion avec corniche."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de pierre et brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Larmier non lisible."
+    }
+  ]
+}

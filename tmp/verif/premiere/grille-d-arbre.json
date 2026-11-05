@@ -1,0 +1,58 @@
+{
+  "termId": "grille-d-arbre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entrée d'immeuble, arbre au pied duquel une grille est à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Grille trop petite."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pommier entouré d'une clôture métallique dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Madison, États-Unis",
+      "note": "Protection d'arbre, pas grille d'arbre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grille en fonte carrée à motif circulaire au pied d'un arbre, trottoir pavé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.28,
+        "y": 0.6,
+        "largeur": 0.6,
+        "hauteur": 0.32
+      },
+      "lieu": "Helsinki, Finlande",
+      "note": "Grille d'arbre typique et claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Jeune arbre en pot dans une cage de barreaux métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bratislava",
+      "note": "Cage de protection, pas grille."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plaque métallique au sol découpée en ancre, envahie d'herbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne",
+      "note": "Vue ambiguë, sans arbre visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Arbre sur place pavée, protection métallique minuscule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fukuoka, Japon",
+      "note": "Grille invisible."
+    }
+  ]
+}

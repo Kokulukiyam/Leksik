@@ -1,0 +1,117 @@
+[
+  {
+    "cle": "goulotte-a-gravats/01",
+    "accord": true,
+    "raison": "Longue goulotte noire en tronçons emboîtés suspendue le long d'une façade, bien cadrée par le rectangle ; terme juste."
+  },
+  {
+    "cle": "goulotte-a-gravats/02",
+    "accord": true,
+    "raison": "Goulotte grise en tronçons descendant le long des balcons d'un immeuble en chantier vers une benne, rectangle bien placé."
+  },
+  {
+    "cle": "goulotte-a-gravats/04",
+    "accord": true,
+    "raison": "Gros plan d'une goulotte bleue à tronçons emboîtés accrochée à une fenêtre, gravats en bas ; sans ambiguïté."
+  },
+  {
+    "cle": "tour-d-etaiement/06",
+    "accord": false,
+    "raison": "Forêt dense de tours modulaires sous le coffrage d'un tablier de pont ; lu comme un échafaudage tubulaire, les tours individuelles ne se distinguent pas et le rectangle englobe aussi le coffrage."
+  },
+  {
+    "cle": "niveleuse/02",
+    "accord": true,
+    "raison": "Niveleuse orange à six roues avec lame sous le châssis et lame frontale, bien visible ; terme juste."
+  },
+  {
+    "cle": "niveleuse/04",
+    "accord": true,
+    "raison": "Niveleuse en travail sur une plateforme de grave, lame centrale sous le châssis visible ; sans ambiguïté."
+  },
+  {
+    "cle": "tombereau/05",
+    "accord": true,
+    "raison": "Tombereau articulé Liebherr TA 230 à benne basculante vu de profil ; terme juste."
+  },
+  {
+    "cle": "chariot-telescopique/01",
+    "accord": false,
+    "raison": "Chariot télescopique équipé d'un crochet de levage et non de fourches, en partie masqué par une voiture de course dans le rectangle ; grue mobile plausible."
+  },
+  {
+    "cle": "foreuse-de-pieux/03",
+    "accord": false,
+    "raison": "Engin sur chenilles à haut mât mais équipé d'une tête vibrante (vibrofonceur), aucune tarière visible ; ne correspond pas à la définition."
+  },
+  {
+    "cle": "foreuse-de-pieux/04",
+    "accord": false,
+    "raison": "Engin à mât télescopique ABI avec vibrofonceur, sans tarière visible ; plutôt une machine de battage que la foreuse de la définition."
+  },
+  {
+    "cle": "palan/02",
+    "accord": true,
+    "raison": "Palan à chaîne rouge accroché à un chariot sur un portique, rectangle bien serré ; terme juste."
+  },
+  {
+    "cle": "palan/03",
+    "accord": true,
+    "raison": "Photo produit de palans à levier et à chaîne avec crochets et chaînes ; clairement des palans."
+  },
+  {
+    "cle": "pioche/08",
+    "accord": true,
+    "raison": "Gros plan d'une tête de pioche (pointe et panne plate) emmanchée perpendiculairement ; terme juste."
+  },
+  {
+    "cle": "disqueuse/11",
+    "accord": true,
+    "raison": "Disqueuse avec disque visible posée sur une palette de chantier, bien désignée par le rectangle ; lisible."
+  },
+  {
+    "cle": "perceuse/09",
+    "accord": true,
+    "raison": "Perceuse électrique ancienne en métal avec mandrin à clé, poignée pistolet ; terme juste."
+  },
+  {
+    "cle": "tournevis/07",
+    "accord": true,
+    "raison": "Tournevis plat à manche noir isolé sur fond bois ; sans ambiguïté."
+  },
+  {
+    "cle": "casque-de-chantier/09",
+    "accord": true,
+    "raison": "Casque de chantier blanc en plastique vu de profil (avec encart du marquage EN 397) ; terme juste."
+  },
+  {
+    "cle": "granito/01",
+    "accord": true,
+    "raison": "Sol en granito à éclats de marbre avec rosace colorée incrustée ; caractéristique."
+  },
+  {
+    "cle": "granito/04",
+    "accord": true,
+    "raison": "Couloir au sol en granito poli à éclats de marbre multicolores ; terme juste."
+  },
+  {
+    "cle": "parquet/04",
+    "accord": true,
+    "raison": "Lames de bois en point de Hongrie ; le générique parquet est juste, les termes plus précis sont retirés des choix."
+  },
+  {
+    "cle": "parquet/06",
+    "accord": true,
+    "raison": "Parquet mosaïque en chêne avec cabochons de bois exotique ; clairement un parquet."
+  },
+  {
+    "cle": "moquette/03",
+    "accord": true,
+    "raison": "Couloir d'hôtel couvert d'une moquette bleue à motifs posée de mur à mur, rectangle sur le sol ; terme juste."
+  },
+  {
+    "cle": "papier-peint/04",
+    "accord": true,
+    "raison": "Mur tapissé d'un papier peint à grands motifs floraux, rectangle sur le motif ; terme juste."
+  }
+]

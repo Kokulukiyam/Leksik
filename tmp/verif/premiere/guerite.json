@@ -1,0 +1,58 @@
+{
+  "termId": "guerite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Page de livre avec gravure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruine militaire envahie de végétation avec canon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bolama, Guinée-Bissau",
+      "note": "Pas de guérite claire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte avec rideau et marches en terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une guérite."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ancienne photo noir et blanc d'un soldat devant une guérite rayée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, grain fort, élément en partie masqué."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poste d'accès en adobe avec barrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bâtiment de contrôle, pas guérite."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux guérites de garde devant une porte de palais, un garde dans celle de droite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.795,
+        "y": 0.39,
+        "largeur": 0.2,
+        "hauteur": 0.43
+      },
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Guérites évidentes ; rectangle sur celle de droite."
+    }
+  ]
+}

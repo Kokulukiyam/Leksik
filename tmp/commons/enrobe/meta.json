@@ -11,7 +11,12 @@
       "asphalt surface"
     ],
     "incompatibles": [
-      "chaussee"
+      "chaussee",
+      "marquage-au-sol"
+    ],
+    "categoriesCommons": [
+      "Category:Asphalt",
+      "Category:Road surfaces"
     ]
   },
   "candidats": [
@@ -148,6 +153,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_19.jpg/1280px-0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4608,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:2020-08-18 08 57 21 Black caterpillar with yellow-orange stripes crawling on Apple Barrel Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "description": "Black caterpillar with yellow-orange stripes crawling on Apple Barrel Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia",
+      "categories": [
+        "Asphalt",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Unidentified caterpillars of the United States",
+        "August 2020 in Virginia",
+        "United States photographs taken on 2020-08-18",
+        "Unidentified caterpillars to be classified by family",
+        "Animals in Franklin Farm, Virginia",
+        "Apple Barrel Court (Franklin Farm, Virginia)",
+        "Famartin's 2020 photos",
+        "Famartin's August 2020 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2020-08-18_08_57_21_Black_caterpillar_with_yellow-orange_stripes_crawling_on_Apple_Barrel_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2020-08-18_08_57_21_Black_caterpillar_with_yellow-orange_stripes_crawling_on_Apple_Barrel_Court_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Surface-rock-gravel-schwende-schweiz.jpg",
+      "description": "Surface-rock-gravel-schwende-schweiz",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Road surfaces"
+      ],
+      "auteur": "Mcliquid",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Surface-rock-gravel-schwende-schweiz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Surface-rock-gravel-schwende-schweiz.jpg/1280px-Surface-rock-gravel-schwende-schweiz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Asfaltomläggning 2025.jpg",
+      "description": "Asfaltomläggning på innergård till Serafimersjukhuset, Hantverkargatan 2, i centrala Stockholm sommaren 2025.",
+      "categories": [
+        "Asphalt",
+        "Self-published work"
+      ],
+      "auteur": "Frankie Fouganthin",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Asfaltoml%C3%A4ggning_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Asfaltoml%C3%A4ggning_2025.jpg/1280px-Asfaltoml%C3%A4ggning_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5190,
+      "hauteur": 3566
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Surface-asphalt-compacted-gravel-mix-valldavia.jpg",
+      "description": "Surface-asphalt-compacted-gravel-mix-valldavia",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Road surfaces"
+      ],
+      "auteur": "Mcliquid",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Surface-asphalt-compacted-gravel-mix-valldavia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Surface-asphalt-compacted-gravel-mix-valldavia.jpg/1280px-Surface-asphalt-compacted-gravel-mix-valldavia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2026-10-06 13 38 02 A fresh layer of sealcoat being applied to an asphalt driveway along Seven Oaks Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "A fresh layer of sealcoat being applied to an asphalt driveway along Seven Oaks Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Asphalt",
+        "Sealcoat",
+        "Self-published work",
+        "Roadworks in New Jersey",
+        "Files with coordinates missing SDC location of creation",
+        "People in New Jersey",
+        "Famartin's temp category",
+        "Driveways in Ewing Township, New Jersey",
+        "October 2026 in New Jersey",
+        "United States photographs taken on 2026-10-06",
+        "Famartin's 2026 photos",
+        "Famartin's October 2026 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-10-06_13_38_02_A_fresh_layer_of_sealcoat_being_applied_to_an_asphalt_driveway_along_Seven_Oaks_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2026-10-06_13_38_02_A_fresh_layer_of_sealcoat_being_applied_to_an_asphalt_driveway_along_Seven_Oaks_Lane_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Surface-unhewn-cobblestone-peratallada-road-2.jpg",
+      "description": "Surface-unhewn-cobblestone-peratallada-road-2",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Road surfaces"
+      ],
+      "auteur": "Mcliquid",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Surface-unhewn-cobblestone-peratallada-road-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Surface-unhewn-cobblestone-peratallada-road-2.jpg/1280px-Surface-unhewn-cobblestone-peratallada-road-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

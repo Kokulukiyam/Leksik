@@ -1,0 +1,58 @@
+{
+  "termId": "baie-d-angle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Noir et blanc d'Habitat 67, blocs de béton empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montréal, Canada",
+      "note": "Trop de fenêtres, angles ambigus."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande verrière à vitraux dont le bas est coupé en biais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une baie d'angle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maisons de pierre bretonnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de baie d'angle."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre triple sur façade crépie avec cartouche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hameln, Allemagne",
+      "note": "Fenêtre plane."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bâtiment en brique dont une fenêtre se retourne sur l'angle.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.28,
+        "y": 0.33,
+        "largeur": 0.17,
+        "hauteur": 0.17
+      },
+      "lieu": "Cambridge (Massachusetts), États-Unis",
+      "note": "Baie d'angle nette, encadrée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre à petits-bois carrés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre plane."
+    }
+  ]
+}

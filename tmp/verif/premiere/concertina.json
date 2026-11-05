@@ -1,0 +1,53 @@
+{
+  "termId": "concertina",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Un militaire manipule des spires de fil à lames déployées devant un grillage.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fil à lames en spirales clairement visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Murs de gabions HESCO et sacs de sable, fil à lames au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Concertina petit et secondaire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Spires de fil à lames détachées sur le ciel, branches et train au fond.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Istanbul, Turquie",
+      "note": "Spires de fil à lames nettes et dominantes."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fil à lames et barbelé avec un hélicoptère au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mélange de barbelé et de concertina ; moins net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Murs de gabions HESCO et sacs de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de concertina visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Convoi vu à travers une spire floue de fil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, ancien, peu lisible."
+    }
+  ]
+}

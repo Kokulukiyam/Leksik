@@ -1,0 +1,53 @@
+{
+  "termId": "benne-a-beton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Quatre bennes cylindriques en aluminium sur un wagon plat.",
+      "verdict": "rejetée",
+      "note": "Photo ancienne en noir et blanc, bennes de forme atypique, texte visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Benne à béton renversée au bord d'une rue, sale de béton.",
+      "verdict": "rejetée",
+      "note": "Posée de travers, forme peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Benne à béton conique rouillée avec volant de trappe, posée près d'armatures.",
+      "verdict": "validée",
+      "note": "Seau conique à trappe, anneau de suspension, très lisible.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Benne cylindrique suspendue au crochet de grue, ouvriers autour.",
+      "verdict": "rejetée",
+      "note": "Photo ancienne en noir et blanc.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Intérieur d'une centrale à béton avec locomotive, ancien cliché.",
+      "verdict": "rejetée",
+      "note": "Benne non lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Benne à béton conique suspendue à la grue au-dessus d'un coulage, ouvriers en gilets.",
+      "verdict": "validée",
+      "note": "Benne suspendue au crochet avec trappe en bas, claire et dominante.",
+      "lieu": "Harold Interlocking, New York",
+      "rectangle": null
+    }
+  ]
+}

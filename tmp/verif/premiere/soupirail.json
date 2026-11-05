@@ -1,0 +1,58 @@
+{
+  "termId": "soupirail",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Soubassement de brique avec petits arcs au ras du sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nikiszowiec, Katowice",
+      "note": "Ouvertures peu lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux ouvertures bouchées/planches en bas d'un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nikiszowiec, Katowice",
+      "note": "Ouvertures condamnées, ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Immeuble de brique avec porche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nikiszowiec, Katowice",
+      "note": "Élément trop petit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre vue de l'intérieur, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Falda, Argentine",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Petite ouverture grillagée en fer au ras du trottoir dans un soubassement en pierre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.31,
+        "y": 0.34,
+        "largeur": 0.38,
+        "hauteur": 0.26
+      },
+      "lieu": "Korçë, Albanie",
+      "note": "Soupirail grillagé typique, encadré."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Niche de brique voûtée vue de l'intérieur avec petit jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Münster, Allemagne",
+      "note": "Lecture incertaine."
+    }
+  ]
+}

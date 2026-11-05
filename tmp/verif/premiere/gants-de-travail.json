@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gants de protection manuelle nets et dominants (modèle forestier mais gants de travail en cuir)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Paire de gants en cuir clair usagés posée à plat.",
+      "verdict": "validée",
+      "note": "Gants de travail en cuir typiques, bien visibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mains gantées de latex nettoyant un fauteuil dentaire.",
+      "verdict": "rejetée",
+      "note": "Gants médicaux jetables.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cale d'un cargo avec ouvriers et cartons de bananes.",
+      "verdict": "rejetée",
+      "note": "Gants non visibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Main gantée tenant un panneau de manifestation.",
+      "verdict": "rejetée",
+      "note": "Texte visible, manifestation.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Paire de gants en cuir sales posée sur fond bleu clair.",
+      "verdict": "validée",
+      "note": "Gants de travail en cuir, nets et dominants.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Main avec gant tactique militaire à coque.",
+      "verdict": "rejetée",
+      "note": "Gant militaire, contexte armé.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

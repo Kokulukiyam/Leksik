@@ -1,0 +1,53 @@
+{
+  "termId": "meurtriere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de pierre avec une porte basse grillagée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de fente verticale."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fente verticale étroite à base ronde dans un mur de pierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Galartza, Pays basque",
+      "note": "Meurtrière claire, plein cadre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue aérienne d'un chemin de ronde avec une ouverture en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouverture en éventail, pas une fente."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rempart avec ouvertures carrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Embrasures, pas meurtrières."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan d'une fente verticale à orbe circulaire dans un mur d'appareil.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Montauban-de-Bretagne, France",
+      "note": "Meurtrière à ouverture ronde, nette."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouverture en croix dans un mur blanchi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cahir, Irlande",
+      "note": "Ouverture cruciforme, moins typique ; gardée en réserve."
+    }
+  ]
+}

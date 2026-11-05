@@ -1,0 +1,53 @@
+{
+  "termId": "chalumeau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Instrument à anche de type chalumeau (clarinette ancienne) en bois.",
+      "verdict": "rejetée",
+      "note": "Instrument de musique, sens différent.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lampe à souder ancienne à pétrole en laiton.",
+      "verdict": "rejetée",
+      "note": "Lampe à souder à pétrole, pas un chalumeau à bouteille de gaz.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Lampe à souder ancienne à pétrole, vue de côté.",
+      "verdict": "rejetée",
+      "note": "Idem, objet ancien.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Instruments à anche chalumeaux sur velours.",
+      "verdict": "rejetée",
+      "note": "Instruments de musique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvriers de nuit posant un marquage routier thermoplastique au chalumeau.",
+      "verdict": "rejetée",
+      "note": "Chalumeau peu visible, scène de nuit.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Instrument à anche chalumeau vu de dessous.",
+      "verdict": "rejetée",
+      "note": "Instrument de musique.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

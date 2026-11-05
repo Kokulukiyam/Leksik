@@ -1,0 +1,53 @@
+{
+  "termId": "talocheuse-mecanique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Talocheuse mécanique à moteur thermique rouge et manche, posée sur une dalle de béton.",
+      "verdict": "validée",
+      "note": "Machine entière, pales protégées par l'anneau, claire.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Stand de salon avec plusieurs machines de chantier dont des talocheuses.",
+      "verdict": "rejetée",
+      "note": "Image chargée, plusieurs machines.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan sur une talocheuse à anneau et moteur Honda sur béton.",
+      "verdict": "validée",
+      "note": "Machine dominante, anneau de protection net.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Talocheuse mécanique rouge à long manche sur une dalle.",
+      "verdict": "validée",
+      "note": "Machine isolée et nette.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvriers guidant une talocheuse sur une dalle fraîche.",
+      "verdict": "rejetée",
+      "note": "Plusieurs personnes, moins nette ; limite de 3 validées atteinte.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Lisseuse autoportée jaune à siège dans un atelier.",
+      "verdict": "rejetée",
+      "note": "Machine autoportée, pas la talocheuse guidée à la main, décor encombré.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

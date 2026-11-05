@@ -1,0 +1,53 @@
+{
+  "termId": "carotteuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier perçant un mur avec une carotteuse sur support, couronne diamantée rouge.",
+      "verdict": "validée",
+      "note": "Couronne et machine bien visibles, usage typique.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Foreuse sur chenilles bleue sur un talus avec deux ouvriers.",
+      "verdict": "rejetée",
+      "note": "Foreuse de sondage, pas une carotteuse à béton.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mallette de scies-cloches diamantées.",
+      "verdict": "rejetée",
+      "note": "Scies-cloches pour perceuse, pas la machine carotteuse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand chantier de démolition avec engins.",
+      "verdict": "rejetée",
+      "note": "Sans carotteuse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvrier actionnant une carotteuse fixée au mur dans une pièce.",
+      "verdict": "validée",
+      "note": "Machine à couronne en action sur un mur, lisible.",
+      "lieu": "Tirupur, Tamil Nadu, Inde",
+      "rectangle": null
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvriers en rouge sur un chantier de forage pétrolier.",
+      "verdict": "rejetée",
+      "note": "Tubes de forage, pas une carotteuse.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

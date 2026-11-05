@@ -1,0 +1,53 @@
+{
+  "termId": "balconnet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Balcons vitrés d'un immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Loggias/balcons vitrés."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Balcons d'immeuble avec drapeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcons à dalle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Terrasse en bois couverte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un balconnet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plafond coloré de temple.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Petit balcon à garde-corps en fer forgé avec dalle saillante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut se lire comme balcon ou garde-corps en fer forgé : doute."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade carrelée avec fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de balconnet."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "plage-de-piscine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Enfant nageant, adulte au bord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plage non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bassin de natation vu du dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de plage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Enfant près d'une piscine gonflable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Piscine gonflable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Jambes d'enfant dans l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Baigneuse au bord d'un bassin, goulotte en caniveau au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre plutôt la goulotte et la margelle."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bassin de 50 m couvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plage non dominante."
+    }
+  ]
+}

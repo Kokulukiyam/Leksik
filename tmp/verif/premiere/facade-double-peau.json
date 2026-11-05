@@ -1,0 +1,53 @@
+{
+  "termId": "facade-double-peau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bâtiment vitré tropical derrière la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Simple vitrage, pas de double peau."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade à lames métalliques horizontales denses (Berlaymont).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut se lire comme résille/brise-soleil ; double peau non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Angle d'immeuble en mur-rideau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur-rideau simple."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Immeuble à panneaux métalliques perforés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt résille métallique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Hall vitré d'un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, double peau non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Carrefour avec façade vitrée sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément non lisible."
+    }
+  ]
+}

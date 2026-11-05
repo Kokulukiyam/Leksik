@@ -1,0 +1,58 @@
+{
+  "termId": "scie-sauteuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Scie sauteuse Festool en action, lame verticale découpant une planche.",
+      "verdict": "validée",
+      "note": "Semelle, lame verticale et corps de l'outil visibles ; usage typique.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lames de scie sauteuse sous blister.",
+      "verdict": "rejetée",
+      "note": "Lames seules, texte.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Boîte de lames Tiger posée sur un rocher.",
+      "verdict": "rejetée",
+      "note": "Lames seules.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Scie sauteuse Black & Decker rouge posée sur un petit établi avec serre-joints.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.15,
+        "largeur": 0.41,
+        "hauteur": 0.62
+      },
+      "note": "Rectangle sur la scie pour la distinguer des serre-joints et du parpaing.",
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Scie sauteuse DeWalt jaune de profil sur fond sombre.",
+      "verdict": "validée",
+      "note": "Outil isolé, net, dominant ; seule la date incrustée est parasite.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Scie sauteuse rouge équipée de capteurs sur un établi d'essai.",
+      "verdict": "rejetée",
+      "note": "Montage expérimental, ruban et câbles.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

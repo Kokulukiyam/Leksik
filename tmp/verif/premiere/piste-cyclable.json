@@ -1,0 +1,53 @@
+{
+  "termId": "piste-cyclable",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Route avec ligne de bande cyclable et bordure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bande peu marquée, pas lisible comme piste."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Carrefour avec panneau de priorité aux vélos.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de piste visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Piste cyclable rouge et passage piéton, ciel nuageux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit, lointain."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Carte de cartographie de l'infrastructure cyclable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chemin goudronné longeant un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin quelconque."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pictogramme de vélo sur piste bleue, avec un rickshaw garé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Véhicule masque l'élément, texte et pictogramme."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "cordeau-traceur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Employé de terrain de softball traçant une ligne à la craie avec un chariot.",
+      "verdict": "rejetée",
+      "note": "Traceuse à roues, pas un cordeau.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancien boîtier de bois sculpté avec ficelle, photographié sur fond blanc.",
+      "verdict": "rejetée",
+      "note": "Objet de musée en bois, peu reconnaissable comme cordeau traceur.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Soldat penché sur une planche, avec poussière de craie.",
+      "verdict": "rejetée",
+      "note": "Cordeau non visible, flou.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Volontaires construisant une ossature bois.",
+      "verdict": "rejetée",
+      "note": "Cordeau non identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ancien boîtier de bois sculpté avec ficelle, fond blanc.",
+      "verdict": "rejetée",
+      "note": "Même objet de musée, ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Soldat penché sur du contreplaqué.",
+      "verdict": "rejetée",
+      "note": "Cordeau non visible.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

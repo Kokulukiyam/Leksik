@@ -1,0 +1,58 @@
+{
+  "termId": "dalle-engazonnee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pente herbeuse du Machu Picchu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dispositif non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux canards sur un sol herbeux ajouré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalles peu lisibles, sujet = canards."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan d'éléments de béton à alvéoles losangées où poussent des plantes, sur un talus.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle alvéolée en béton végétalisée, claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Parking de dalles béton alvéolées où pousse l'herbe, devant un bâtiment industriel.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0,
+        "y": 0.6,
+        "largeur": 1,
+        "hauteur": 0.4
+      },
+      "lieu": "Bochum, Allemagne",
+      "note": "Surface de dalles alvéolées engazonnées bien visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan d'un sol herbeux avec alvéoles à peine visibles et une bordure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Alvéoles peu lisibles, herbe dominante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grille plastique noire à alvéoles, presque vide.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour des plateaux de semis ; doute."
+    }
+  ]
+}

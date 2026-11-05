@@ -1,0 +1,58 @@
+{
+  "termId": "echelle-de-piscine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Enfant sur une bouée flamant dans une piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'échelle."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Piscine résidentielle avec baigneurs, transats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échelle trop petite."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Piscine hors-sol dans un hall d'exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Friedrichshafen",
+      "note": "Pas d'échelle lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Enfant nageant, éclaboussures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'échelle."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Main courante inox d'un escalier d'accès à l'eau, nageur plus loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier avec rampes, pas une échelle."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Haut d'une échelle en tubes d'inox recourbés fixée au bord d'un bassin bleu vide.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.16,
+        "y": 0.38,
+        "largeur": 0.62,
+        "hauteur": 0.62
+      },
+      "lieu": "",
+      "note": "Échelle de piscine nette au premier plan."
+    }
+  ]
+}

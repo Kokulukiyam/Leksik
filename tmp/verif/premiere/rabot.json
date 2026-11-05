@@ -1,0 +1,53 @@
+{
+  "termId": "rabot",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Paire de rabots en bois à fût courbe sur un établi.",
+      "verdict": "rejetée",
+      "note": "Rabots atypiques de charron, vus de dessus, peu lisibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rabot à sole métallique et poignées orange en plastique sur un plan de travail.",
+      "verdict": "rejetée",
+      "note": "Modèle atypique à double poignée, pourrait faire douter.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de musée couvert d'outils de menuiserie anciens.",
+      "verdict": "rejetée",
+      "note": "Nombreux outils, rien d'isolé.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rabot à sole métallique et poignées orange, de face.",
+      "verdict": "rejetée",
+      "note": "Modèle atypique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rabot en bois à fût et fer incliné, sur fond blanc.",
+      "verdict": "validée",
+      "note": "Rabot en bois classique, isolé et net.",
+      "lieu": "",
+      "rectangle": null
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ancien rabot en bois avec fer et poignée, sur carton.",
+      "verdict": "validée",
+      "note": "Rabot en bois à moulure, bien visible, fer et fût identifiables.",
+      "lieu": "",
+      "rectangle": null
+    }
+  ]
+}

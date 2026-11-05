@@ -1,0 +1,53 @@
+{
+  "termId": "skimmer",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bassin vide, pot de peinture sur la margelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun skimmer visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Enfant sur une bouée flamant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de skimmer."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Enfant nageant, adulte au bord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de skimmer."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Enfant plongeant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de skimmer."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Portrait devant un bassin sportif.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de skimmer."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vue aérienne d'un jardin avec piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Skimmer invisible."
+    }
+  ]
+}

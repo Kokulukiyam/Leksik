@@ -1,0 +1,63 @@
+{
+  "termId": "chaine-d-angle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bâtiment rose de rue, angle à peine marqué.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Villach, Autriche",
+      "note": "Chaînage peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Angle d'un palais en pierre avec gros blocs à bossages alternés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.5,
+        "y": 0.0,
+        "largeur": 0.5,
+        "hauteur": 0.97
+      },
+      "lieu": "La Valette, Malte",
+      "note": "Chaîne d'angle nette, encadrée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Immeuble en brique rouge à angles harmonisés blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petit, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Angle d'un mur crépi avec blocs de pierre apparents en chaîne, tête sculptée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.15,
+        "largeur": 0.22,
+        "hauteur": 0.83
+      },
+      "lieu": "",
+      "note": "Chaîne d'angle en pierre claire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Place avec bâtiment blanc à chaîne d'angle de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Carthagène, Colombie",
+      "note": "Trop petit, image retouchée (ciel)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de chapelle avec large bande de pierre effilée à l'angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ressemble à un contrefort ou pilastre."
+    }
+  ]
+}

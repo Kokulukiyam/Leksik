@@ -1,0 +1,53 @@
+{
+  "termId": "regle-vibrante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne de chantier routier, machine à coffrage glissant H. Vatter sur armatures.",
+      "verdict": "rejetée",
+      "note": "Archive noir et blanc, texte visible, règle non identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Planche d'archives avec deux petites photos d'ouvriers sur un pont.",
+      "verdict": "rejetée",
+      "note": "Document d'archive, texte, trop petit.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chantier routier ancien avec poutre vibrante sur rails.",
+      "verdict": "rejetée",
+      "note": "Noir et blanc, règle peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche d'archives avec deux petites photos de bétonnage.",
+      "verdict": "rejetée",
+      "note": "Document d'archive, texte.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Militaires assemblant une poutre treillis verte au sol.",
+      "verdict": "rejetée",
+      "note": "Règle en montage, vibreur non visible, ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Coulage d'un barrage, ouvriers et règle sur le béton frais.",
+      "verdict": "rejetée",
+      "note": "Noir et blanc, règle petite.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

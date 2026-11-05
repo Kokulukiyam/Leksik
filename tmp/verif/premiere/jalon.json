@@ -1,0 +1,53 @@
+{
+  "termId": "jalon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vitrine de musée d'instruments de géodésie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de jalon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dioptre avec boussole en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Instrument de laiton ancien sur trépied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Trois géomètres dont un tient une canne à GPS jaune dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Canne GNSS, pas un jalon à bandes rouges et blanches."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panneau de commande d'un géodimètre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Station totale sur trépied avec faisceau vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Station totale, pas un jalon."
+    }
+  ]
+}

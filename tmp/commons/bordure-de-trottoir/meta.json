@@ -12,6 +12,9 @@
     ],
     "incompatibles": [
       "caniveau"
+    ],
+    "categoriesCommons": [
+      "Category:Kerbs"
     ]
   },
   "candidats": [
@@ -125,6 +128,118 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_association_Orthotricho-Grimmietum%2C_growing_on_a_curb.jpg/1280px-The_association_Orthotricho-Grimmietum%2C_growing_on_a_curb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4032,
       "hauteur": 3024
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:BS Strassenbegleitgruen.JPG",
+      "description": "Colorful blossoming weeds on a kerb in Brunswick, Germany",
+      "categories": [
+        "Weeds in Germany",
+        "Kerbs",
+        "Self-published work",
+        "Unidentified Trifolium",
+        "Unidentified Fabaceae",
+        "Flora of Braunschweig",
+        "Files with coordinates missing SDC location of creation (52° N, 10° E)",
+        "Unidentified Hypericum",
+        "Guntherstraße (Braunschweig)"
+      ],
+      "auteur": "TeWeBs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BS_Strassenbegleitgruen.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/BS_Strassenbegleitgruen.JPG/1280px-BS_Strassenbegleitgruen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4352,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Road to Tous - Mashhad 12.jpg",
+      "description": "Road to Tous - Mashhad",
+      "categories": [
+        "CC-Zero",
+        "Buildings in Mashhad",
+        "Streets in Mashhad",
+        "Automobiles in Mashhad",
+        "Roadworks in Mashhad",
+        "Kerbs",
+        "Self-published work",
+        "May 2013 in Mashhad",
+        "Asphalt roads"
+      ],
+      "auteur": "Sonia Sevilla",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Road_to_Tous_-_Mashhad_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Road_to_Tous_-_Mashhad_12.jpg/1280px-Road_to_Tous_-_Mashhad_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 991
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Lignes Et Courbe (64709695).jpeg",
+      "description": "500px provided description: Marseille - France. [#50mm ,#france ,#marseille ,#mer ,#eau ,#2014 ,#Canon ,#550D ,#Minolta]",
+      "categories": [
+        "Kerbs",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Mathieu Dupouy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lignes_Et_Courbe_(64709695).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Lignes_Et_Courbe_%2864709695%29.jpeg/1280px-Lignes_Et_Courbe_%2864709695%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1388,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Lowered kerb.jpg",
+      "description": "Lowered kerb at a zebra crossing in Bern, Switzerland",
+      "categories": [
+        "CC-Zero",
+        "Kerbs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Sidewalks in Bern",
+        "Yellow zebra crossings"
+      ],
+      "auteur": "SelfishSeahorse",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lowered_kerb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lowered_kerb.jpg/1280px-Lowered_kerb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Curb in the street (23394444552).jpg",
+      "description": "What would the world look like if we took a completely different perspective? Copyright free photos daily",
+      "categories": [
+        "CC-Zero",
+        "Kerbs",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "StockyPics",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Curb_in_the_street_(23394444552).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Curb_in_the_street_%2823394444552%29.jpg/1280px-Curb_in_the_street_%2823394444552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Schrammbord-schnitt.jpg",
+      "description": "Schrammbord, Schrammbord-Schnitt, Betonschnitt, Betonschneiden.",
+      "categories": [
+        "Concrete saws",
+        "Kerbs",
+        "Self-published work"
+      ],
+      "auteur": "Gnude",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schrammbord-schnitt.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Schrammbord-schnitt.jpg/1280px-Schrammbord-schnitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }
