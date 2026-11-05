@@ -12,6 +12,10 @@
     ],
     "categoriesCommons": [
       "Category:Skylights"
+    ],
+    "incompatibles": [
+      "fenetre-de-toit",
+      "plaque-translucide"
     ]
   },
   "candidats": [
@@ -120,6 +124,113 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_%282%29.jpg/1280px-Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5472,
       "hauteur": 3648
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Dome skylight (50328804811).jpg",
+      "description": "View slightly cross-eyed to see it in 3D.",
+      "categories": [
+        "Skylights",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Robbie Sproule from Montreal, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dome_skylight_(50328804811).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Dome_skylight_%2850328804811%29.jpg/1280px-Dome_skylight_%2850328804811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4284,
+      "hauteur": 1834
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Glass-roofed interior courtyard of the Rijksmuseum Amsterdam (3).jpg",
+      "description": "Cour intérieure sous verrière du Rijksmuseum Amsterdam, septembre 2024",
+      "categories": [
+        "Self-published work",
+        "Rijksmuseum Amsterdam - Atrium",
+        "Rijksmuseum Amsterdam in 2024",
+        "Transparent roofs in Amsterdam",
+        "Architecture of the Rijksmuseum Amsterdam"
+      ],
+      "auteur": "Ibex73",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_%283%29.jpg/1280px-Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Skylight (17338964702).jpg",
+      "description": "Skylight",
+      "categories": [
+        "Images with borders",
+        "Skylights",
+        "Round corner rectangles",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Created with DXO OpticsPro",
+        "Unidentified architectural structures",
+        "Files from madras91 Flickr stream"
+      ],
+      "auteur": "madras91",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Skylight_(17338964702).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Skylight_%2817338964702%29.jpg/1280px-Skylight_%2817338964702%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6020,
+      "hauteur": 3936
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Glass-roofed interior courtyard of the Rijksmuseum Amsterdam (1).jpg",
+      "description": "Cour intérieure sous verrière du Rijksmuseum Amsterdam, septembre 2024",
+      "categories": [
+        "Self-published work",
+        "Rijksmuseum Amsterdam - Atrium",
+        "Rijksmuseum Amsterdam in 2024",
+        "Transparent roofs in Amsterdam",
+        "Architecture of the Rijksmuseum Amsterdam"
+      ],
+      "auteur": "Ibex73",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_%281%29.jpg/1280px-Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:NLIskylight.jpg",
+      "description": "חלון התיקרה שמעל אולמות הקריאה בספרייה הלאומית",
+      "categories": [
+        "CC-Zero",
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "Danieljl",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:NLIskylight.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/NLIskylight.jpg/1280px-NLIskylight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Detail of atrium roof at Ford Foundation.jpg",
+      "description": "Detail of the structure supporting the glass panes of the atrium at the Ford Foundation building.",
+      "categories": [
+        "Self-published work",
+        "Ford Foundation Atrium",
+        "Uploaded via Campaign:OHNY",
+        "Open House New York Weekend 2015 in Manhattan between 34th and 59th Streets"
+      ],
+      "auteur": "Mark Funk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detail_of_atrium_roof_at_Ford_Foundation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Detail_of_atrium_roof_at_Ford_Foundation.jpg/1280px-Detail_of_atrium_roof_at_Ford_Foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5178,
+      "hauteur": 3452
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

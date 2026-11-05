@@ -1,0 +1,53 @@
+{
+  "termId": "pompe-de-relevage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fosse bétonnée avec palplanches et tuyau noir sur un terrain en travaux.",
+      "verdict": "rejetée",
+      "note": "Pompe invisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Salle de pompes industrielles avec grosse tuyauterie.",
+      "verdict": "rejetée",
+      "note": "Pompes industrielles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Trois petits compresseurs d'aération blancs reliés à des tuyaux.",
+      "verdict": "rejetée",
+      "note": "Pompes d'aération, pas de relevage.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuyauterie blanche et rouge avec manomètre dans un local sombre.",
+      "verdict": "rejetée",
+      "note": "Illisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Page de livre ancien avec photo d'une pompe à eau.",
+      "verdict": "rejetée",
+      "note": "Page imprimée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Armoire rouillée contenant une pompe et un dévidoir de tuyau.",
+      "verdict": "rejetée",
+      "note": "Pompe à diesel, pas de relevage.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

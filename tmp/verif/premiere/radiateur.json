@@ -1,0 +1,58 @@
+{
+  "termId": "radiateur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Meuble cache-radiateur ancien en fonte ajourée devant un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Le radiateur est caché par l'habillage."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Radiateur blanc à éléments en partie masqué par un abat-jour de lampadaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément partiellement caché, lampe dominante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne en noir et blanc d'enfants jouant devant une fenêtre avec radiateur dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Suède",
+      "note": "Radiateur secondaire, image ancienne peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fauteuil design avec coussins devant un petit radiateur panneau blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Radiateur caché derrière le fauteuil."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Radiateur en fonte à éléments décorés dans une niche sous une tablette de pierre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.43,
+        "largeur": 0.72,
+        "hauteur": 0.45
+      },
+      "lieu": "Bielsko-Biała, Pologne",
+      "note": "Radiateur à éléments net et dominant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pièce d'antiquités industrielles avec horloges, petit radiateur en fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Radiateur trop petit."
+    }
+  ]
+}

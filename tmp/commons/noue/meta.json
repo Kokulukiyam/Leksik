@@ -9,6 +9,9 @@
       "roof valley",
       "noue toiture",
       "valley flashing roof"
+    ],
+    "incompatibles": [
+      "aretier"
     ]
   },
   "candidats": [
@@ -128,6 +131,119 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Brisbane_skyline_from_Valley_Centre_carpark_roof%2C_Fortitude_Valley_DSCF2290.jpg/1280px-Brisbane_skyline_from_Valley_Centre_carpark_roof%2C_Fortitude_Valley_DSCF2290.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3264,
       "hauteur": 2448
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Brisbane skyline from Valley Centre carpark roof, Fortitude Valley DSCF2289.jpg",
+      "description": "Fortitude Valley (also known simply as \"The Valley\") is an inner suburb of the City of Brisbane , the state capital of Queensland , Australia.",
+      "categories": [
+        "Self-published work",
+        "Views of Brisbane CBD",
+        "Views of Fortitude Valley, Queensland"
+      ],
+      "auteur": "John Robert McPherson",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brisbane_skyline_from_Valley_Centre_carpark_roof,_Fortitude_Valley_DSCF2289.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Brisbane_skyline_from_Valley_Centre_carpark_roof%2C_Fortitude_Valley_DSCF2289.jpg/1280px-Brisbane_skyline_from_Valley_Centre_carpark_roof%2C_Fortitude_Valley_DSCF2289.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Brisbane skyline from Valley Centre carpark roof, Fortitude Valley DSCF2287.jpg",
+      "description": "Fortitude Valley (also known simply as \"The Valley\") is an inner suburb of the City of Brisbane , the state capital of Queensland , Australia.",
+      "categories": [
+        "Self-published work",
+        "Views of Brisbane CBD",
+        "Views of Fortitude Valley, Queensland"
+      ],
+      "auteur": "John Robert McPherson",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brisbane_skyline_from_Valley_Centre_carpark_roof,_Fortitude_Valley_DSCF2287.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Brisbane_skyline_from_Valley_Centre_carpark_roof%2C_Fortitude_Valley_DSCF2287.jpg/1280px-Brisbane_skyline_from_Valley_Centre_carpark_roof%2C_Fortitude_Valley_DSCF2287.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Panoramic Overview from Glacier Point over Yosemite Valley 2013 Alternative.jpg",
+      "description": "High resolution panoramic overview over Yosemite Valley photographed vom Glacier Point",
+      "categories": [
+        "Views from Glacier Point",
+        "Yosemite Valley",
+        "Taken with Nikon D7000",
+        "Granite",
+        "U-shaped valleys in California",
+        "Self-published work",
+        "Large images",
+        "Featured pictures by Tuxyso",
+        "Selection WikiCon 2013",
+        "Information field template with formatting",
+        "Images by Tuxyso",
+        "Images of USA by Tuxyso",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of Yosemite National Park",
+        "United States photographs taken on 2013-09-16",
+        "Panoramics in Yosemite National Park",
+        "Batholiths in the United States",
+        "Mesozoic felsic plutonic rocks in California"
+      ],
+      "auteur": "Tuxyso",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Panoramic_Overview_from_Glacier_Point_over_Yosemite_Valley_2013_Alternative.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Panoramic_Overview_from_Glacier_Point_over_Yosemite_Valley_2013_Alternative.jpg/1280px-Panoramic_Overview_from_Glacier_Point_over_Yosemite_Valley_2013_Alternative.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 18485,
+      "hauteur": 8150
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Sun Roof in Crabtree Valley Mall.jpg",
+      "description": "Sun Roof in Crabtree Valley Mall in Raleigh, North Carolina.",
+      "categories": [
+        "Crabtree Valley Mall",
+        "Self-published work",
+        "Roofs in the United States",
+        "Uploads by DiscoA340"
+      ],
+      "auteur": "DiscoA340",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sun_Roof_in_Crabtree_Valley_Mall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sun_Roof_in_Crabtree_Valley_Mall.jpg/1280px-Sun_Roof_in_Crabtree_Valley_Mall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Flatford, Valley Farm roof - geograph.org.uk - 7932949.jpg",
+      "description": "Flatford: Valley Farm roof",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Valley Farmhouse, East Bergholt"
+      ],
+      "auteur": "Michael Garlick",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flatford,_Valley_Farm_roof_-_geograph.org.uk_-_7932949.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Flatford%2C_Valley_Farm_roof_-_geograph.org.uk_-_7932949.jpg/1280px-Flatford%2C_Valley_Farm_roof_-_geograph.org.uk_-_7932949.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8256,
+      "hauteur": 5504
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Morning mist across the Lune Valley from Hutton Roof Crag - geograph.org.uk - 2306085.jpg",
+      "description": "Morning mist across the Lune Valley from Hutton Roof Crag",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Hutton Roof, Kirkby Lonsdale",
+        "Valley fog"
+      ],
+      "auteur": "Heather Johnson",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Morning_mist_across_the_Lune_Valley_from_Hutton_Roof_Crag_-_geograph.org.uk_-_2306085.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Morning_mist_across_the_Lune_Valley_from_Hutton_Roof_Crag_-_geograph.org.uk_-_2306085.jpg/1280px-Morning_mist_across_the_Lune_Valley_from_Hutton_Roof_Crag_-_geograph.org.uk_-_2306085.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

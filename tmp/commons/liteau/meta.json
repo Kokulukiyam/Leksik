@@ -4,7 +4,7 @@
     "terme": "le liteau",
     "categorie": "Toitures",
     "definition": "Tasseau de bois cloué horizontalement sur les chevrons, sur lequel s'accrochent les tuiles.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "roof battens",
       "liteaux toiture",
@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "chevron",
-      "ecran-sous-toiture"
+      "ecran-sous-toiture",
+      "volige"
     ]
   },
   "candidats": [
@@ -136,6 +137,148 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/00486_couvreur.jpg/1280px-00486_couvreur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2048,
       "hauteur": 1536
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Haus+Turm+Lattung.JPG",
+      "description": "der alte Dachstuhl ist repariert, Dämmplatten über den Sparren verlegt und die Dachlatten aufgebracht.",
+      "categories": [
+        "GFDL",
+        "License migration completed",
+        "Roof batten",
+        "Self-published work"
+      ],
+      "auteur": "Metzner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Haus%2BTurm%2BLattung.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Haus%2BTurm%2BLattung.JPG/1280px-Haus%2BTurm%2BLattung.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1916,
+      "hauteur": 2603
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Lob Korenskie-rodniki-22.jpg",
+      "description": "Прибивание обрешетки. Родовое экопоселение «Кореньские родники».",
+      "categories": [
+        "Taken with Canon EOS 400D",
+        "Roof batten",
+        "Self-published work",
+        "Log cabins in Russia",
+        "Files by Лобачев Владимир",
+        "Carpenters using hammers",
+        "Toloka in Korenskie rodniki"
+      ],
+      "auteur": "Лобачев Владимир",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lob_Korenskie-rodniki-22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Lob_Korenskie-rodniki-22.jpg/1280px-Lob_Korenskie-rodniki-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Dekarz.JPG",
+      "description": "A roofer in Gdańsk (Poland).",
+      "categories": [
+        "CC-Zero",
+        "Roof tiles",
+        "Roofers",
+        "Roof batten",
+        "Self-published work",
+        "Dormer windows in Poland",
+        "2011 in Gdańsk",
+        "Windows in Gdańsk"
+      ],
+      "auteur": "Artur Andrzej",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dekarz.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Dekarz.JPG/1280px-Dekarz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4224,
+      "hauteur": 2811
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:PowerShed build (DSC07396).jpg",
+      "description": "PowerShed build: gutten is on as well as three roof panels",
+      "categories": [
+        "Wall studs",
+        "ISO speed rating 100",
+        "Oriented strand boards",
+        "Roof batten",
+        "Screw piles",
+        "Self-published work",
+        "F-number f/8",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Lens focal length 28 mm",
+        "Ladders in Belgium",
+        "Uploaded with dtMediaWiki",
+        "Shed roofs",
+        "Corrugated steel roofs",
+        "Photographs by Trougnouf in 2026",
+        "Taken with Sony ILCE-7C and E 28-200mm F2.8-5.6 A071",
+        "Timber preservation",
+        "PowerShed",
+        "Steel rain gutters"
+      ],
+      "auteur": "Trougnouf (Benoit Brummer)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PowerShed_build_(DSC07396).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/PowerShed_build_%28DSC07396%29.jpg/1280px-PowerShed_build_%28DSC07396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5924,
+      "hauteur": 3970
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:PowerShed build (DSC07390).jpg",
+      "description": "PowerShed build: counter-battens and battens are installed",
+      "categories": [
+        "Wall studs",
+        "ISO speed rating 100",
+        "Oriented strand boards",
+        "Roof batten",
+        "Screw piles",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Lens focal length 20 mm",
+        "F-number f/11",
+        "Uploaded with dtMediaWiki",
+        "Shed roofs",
+        "Photographs by Trougnouf in 2026",
+        "Timber preservation",
+        "Taken with Sony ILCE-7C and E 20mm F2.8 F050",
+        "PowerShed"
+      ],
+      "auteur": "Trougnouf (Benoit Brummer)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PowerShed_build_(DSC07390).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/PowerShed_build_%28DSC07390%29.jpg/1280px-PowerShed_build_%28DSC07390%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5879,
+      "hauteur": 3906
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Dulgheri pe acoperis.jpg",
+      "description": "carpenter on the roof",
+      "categories": [
+        "Taken with Nikon Coolpix L21",
+        "Roof batten",
+        "Self-published work",
+        "Men at work",
+        "Men standing on roofs",
+        "Carpenters at work"
+      ],
+      "auteur": "HectorBalzac",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dulgheri_pe_acoperis.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Dulgheri_pe_acoperis.jpg/1280px-Dulgheri_pe_acoperis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

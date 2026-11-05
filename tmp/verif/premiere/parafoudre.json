@@ -1,0 +1,53 @@
+{
+  "termId": "parafoudre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Module modulaire sur rail DIN, protecteur de surtension avec voyant d'état et deux manettes rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Protecteur de surtensions permanentes à reconnexion, ressemble à un disjoncteur, pas un parafoudre de foudre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petit tableau électrique mural japonais avec disjoncteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tableau et disjoncteurs, pas de parafoudre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Multiprise britannique blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Multiprise, pas un module de tableau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Disjoncteur tripolaire noir sur panneau solaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Disjoncteur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Multiprise parasurtenseur indienne en détourage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Multiprise, pas un module de tableau ; texte visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Voie ferrée avec aiguillage près d'un mât.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mayence, Allemagne",
+      "note": "Sans rapport."
+    }
+  ]
+}

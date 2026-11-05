@@ -1,0 +1,53 @@
+{
+  "termId": "pare-vapeur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Film blanc translucide Intello agrafé sur les parois d'un comble en bois.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Norvège",
+      "note": "Membrane de pare/frein-vapeur côté intérieur, nette ; marque seule en texte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Même film Intello posé le long du mur avec un panneau de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doublon de 01, plus encombré."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Immeuble en construction à Helsinki.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Helsinki, Finlande",
+      "note": "Pare-vapeur non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Membrane jaune Ampatex DB 90 tendue sous les chevrons d'un comble, contre-lattée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Film pare-vapeur posé côté intérieur, clairement lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo noir et blanc d'un tuyau calorifugé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Feuille d'aluminium brillante agrafée sous des chevrons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Finlande",
+      "note": "Peut passer pour un isolant mince réfléchissant : confusion."
+    }
+  ]
+}

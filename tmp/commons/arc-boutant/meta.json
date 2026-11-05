@@ -7,6 +7,20 @@
     "requetes": [
       "deepcat:\"Flying buttresses\"",
       "flying buttresses cathedral"
+    ],
+    "requetes2": [
+      "flying buttress gothic",
+      "arcs-boutants cathédrale",
+      "flying buttresses Notre-Dame"
+    ],
+    "incompatibles": [
+      "arc",
+      "contrefort"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Flying buttresses",
+      "Category:Buttresses"
     ]
   },
   "candidats": [
@@ -169,6 +183,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Tours_-_Tours_-_Cath%C3%A9drale_Saint-Gatien_-_Exterior_-_18.jpg/1280px-Tours_-_Tours_-_Cath%C3%A9drale_Saint-Gatien_-_Exterior_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3965,
       "hauteur": 6416
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Saint Martin church.jpg",
+      "description": "flying buttresses",
+      "categories": [
+        "Taken with iPhone 4",
+        "Flying buttresses",
+        "Self-published work"
+      ],
+      "auteur": "Supercat44",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saint_Martin_church.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Saint_Martin_church.jpg/1280px-Saint_Martin_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:西門紅樓扶壁.jpg",
+      "description": "​西門紅樓扶壁。",
+      "categories": [
+        "Buttresses",
+        "Red House Theater",
+        "Self-published work",
+        "2023 photographs of Taipei"
+      ],
+      "auteur": "氏子",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E6%89%B6%E5%A3%81.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E6%89%B6%E5%A3%81.jpg/1280px-%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E6%89%B6%E5%A3%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2584,
+      "hauteur": 4592
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Strebewerk-2.jpg",
+      "description": "Querschnitt der Kathedrale von Reims. Quelle: Wilhelm Lübke, Max Semrau: Grundriß der Kunstgeschichte. Paul Neff Verlag, Esslingen, 14. Auflage 1908. Public Domain",
+      "categories": [
+        "Gothic architecture",
+        "Flying buttresses",
+        "PD Old",
+        "CC-PD-Mark",
+        "Plans of Reims Cathedral",
+        "PD-old missing SDC copyright status",
+        "Drawings of buttresses"
+      ],
+      "auteur": "Original téléversé par Rainer Zenz sur Wikipédia allemand .",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Strebewerk-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Strebewerk-2.jpg/1280px-Strebewerk-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3078,
+      "hauteur": 3513
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:臺南女中建築欣賞 - panoramio (1).jpg",
+      "description": "臺南女中建築欣賞",
+      "categories": [
+        "Buttresses",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Taiwan photographs taken on 2012-06-09",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "2012 photographs of Tainan",
+        "Former Tainan Prefectural Tainan First Girls' High School Main Building"
+      ],
+      "auteur": "338km",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%281%29.jpg/1280px-%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Gill Engravings 1929 088 760.jpg",
+      "description": "Flying Buttresses. Engraving by Eric Gill. Published in Engravings by Eric Gill (1929)",
+      "categories": [
+        "Flying buttresses",
+        "PD-old-75-expired",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "Engravings by Eric Gill (1929)"
+      ],
+      "auteur": "Eric Gill",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gill_Engravings_1929_088_760.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gill_Engravings_1929_088_760.jpg/1280px-Gill_Engravings_1929_088_760.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2590,
+      "hauteur": 3506
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Attached prop of Ichimura Memorial Gymnasium.jpg",
+      "description": "A long attached prop of Ichimura Memorial Gymnasium. It built as a pair of buttresses on both sides of the building, and it serves as rain gutter.",
+      "categories": [
+        "Rain gutters",
+        "Ichimura Memorial Gymnasium",
+        "Buttresses",
+        "Self-published work",
+        "Outside stairs in Saga prefecture",
+        "Files with coordinates missing SDC location of creation",
+        "Outdoor concrete stairs in Japan"
+      ],
+      "auteur": "Peka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Attached_prop_of_Ichimura_Memorial_Gymnasium.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Attached_prop_of_Ichimura_Memorial_Gymnasium.jpg/1280px-Attached_prop_of_Ichimura_Memorial_Gymnasium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3880,
+      "hauteur": 2910
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

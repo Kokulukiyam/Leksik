@@ -1,0 +1,53 @@
+{
+  "termId": "carreau-hexagonal",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sol de supermarché en carreaux hexagonaux blancs, encombré de décorations et étals.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol visible mais encombré, hexagones peu lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Étal de fruits et légumes dans un supermarché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol à peine visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan sur un sol de carreaux hexagonaux à décor en relief rayonnant et rosace.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Hexagones très nets, posés en nid d'abeilles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de carreaux hexagonaux émaillés vert pâle, posés en nid d'abeilles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Epping, Essex, Angleterre",
+      "note": "Hexagones évidents et dominants."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Carreau hexagonal isolé en céramique à décor bleu et blanc (musée).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée isolé, pas un carrelage posé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Carreau hexagonal gris isolé sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet isolé abîmé."
+    }
+  ]
+}

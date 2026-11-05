@@ -1,0 +1,53 @@
+{
+  "termId": "piquet-de-terre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Voie ferrée de montagne avec signal, vue depuis un train.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gothard, Suisse",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Perches de mise à la terre ferroviaires rouges et blanches contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Holzkirchen, Allemagne",
+      "note": "Perche de mise à la terre de caténaire, pas un piquet enfoncé dans le sol."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Câbles de mise à la terre fixés sur un rail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cologne, Allemagne",
+      "note": "Mise à la terre sur rail, pas un piquet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Garniture de mise à la terre ferroviaire dans un sac rouge, panneau Bahn-Notfall.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mureck, Autriche",
+      "note": "Équipement ferroviaire, texte visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Lignes aériennes avec câbles de mise à la terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Finlande",
+      "note": "Sans rapport avec un piquet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvriers dans un tunnel ferroviaire de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gothard, Suisse",
+      "note": "Sans rapport."
+    }
+  ]
+}

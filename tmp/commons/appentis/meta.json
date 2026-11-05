@@ -118,6 +118,116 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Alesund_Sunnmore_museum_2024_03.jpg/1280px-Alesund_Sunnmore_museum_2024_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3888,
       "hauteur": 5184
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Blokhut van Rodejong.JPG",
+      "description": "Blokhut",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot S2 IS",
+        "Sheds",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "This file was made by Robert de Jong and should be credited as Photo: Robert de Jong . If you make use of this picture outside of the Wiki community, a message on my user talk would be appreciated. If",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blokhut_van_Rodejong.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Blokhut_van_Rodejong.JPG/1280px-Blokhut_van_Rodejong.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Abha park shed.JPG",
+      "description": "A park shed",
+      "categories": [
+        "Taken with Sony DSC-H3",
+        "Sheds",
+        "Self-published work",
+        "Parks in unidentified countries"
+      ],
+      "auteur": "Fauzan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abha_park_shed.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Abha_park_shed.JPG/1280px-Abha_park_shed.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Den første Dag i Vaarsmien - no-nb digifoto 20160630 00067 bldsa SVpos 0011.jpg",
+      "description": "Bildet er hentet fra Nasjonalbibliotekets bildesamling. Anmerkninger til bildet var: Tittel hentet fra bildetekst i Nyt Land / Otto Sverdrup, vol. I, s. 121",
+      "categories": [
+        "Blacksmiths",
+        "Sheds",
+        "PD Norway",
+        "Norwegian Arctic Expedition (1898-1902)",
+        "Template Unknown (author)",
+        "Images from Nasjonalbiblioteket",
+        "Photographs by unidentified photographer from Norway",
+        "Files uploaded by Nasjonalbiblioteket-bot"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Den_f%C3%B8rste_Dag_i_Vaarsmien_-_no-nb_digifoto_20160630_00067_bldsa_SVpos_0011.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Den_f%C3%B8rste_Dag_i_Vaarsmien_-_no-nb_digifoto_20160630_00067_bldsa_SVpos_0011.jpg/1280px-Den_f%C3%B8rste_Dag_i_Vaarsmien_-_no-nb_digifoto_20160630_00067_bldsa_SVpos_0011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7210,
+      "hauteur": 5410
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:02014 pakamera.JPG",
+      "description": "pakamera",
+      "categories": [
+        "Sheds",
+        "Self-published work",
+        "Poland photographs taken on 2014-06-05"
+      ],
+      "auteur": "Silar",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:02014_pakamera.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/02014_pakamera.JPG/1280px-02014_pakamera.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 4928
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Exit - Flickr - peganum.jpg",
+      "description": "What it looks like to leave Brighton Plants",
+      "categories": [
+        "Sheds",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Steve Law",
+        "Files uploaded by Josve05a (peganum)"
+      ],
+      "auteur": "peganum from Small Dole, England",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Exit_-_Flickr_-_peganum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Exit_-_Flickr_-_peganum.jpg/1280px-Exit_-_Flickr_-_peganum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:DSC3206-2 (24489028063).jpg",
+      "description": "This image or file is a work of a United States Department of Agriculture employee, taken or made as part of that person's official duties. As a work of the U.S. federal government , the image is in the public domain .",
+      "categories": [
+        "Sheds",
+        "PD USDA",
+        "PD USDA NRCS Gallery in Texas",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files uploaded by MechQuester"
+      ],
+      "auteur": "USDA NRCS Texas",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:DSC3206-2_(24489028063).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/DSC3206-2_%2824489028063%29.jpg/1280px-DSC3206-2_%2824489028063%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4217,
+      "hauteur": 2806
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

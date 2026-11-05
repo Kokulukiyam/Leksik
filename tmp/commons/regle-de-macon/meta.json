@@ -13,6 +13,9 @@
     "categoriesCommons": [
       "Category:Screeds",
       "Category:Straightedges"
+    ],
+    "incompatibles": [
+      "aiguille-vibrante"
     ]
   },
   "candidats": [
@@ -121,6 +124,49 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Monument_de_Joseph_Sec_Potelet_d%27information_et_entr%C3%A9e_du_jardin.JPG/1280px-Monument_de_Joseph_Sec_Potelet_d%27information_et_entr%C3%A9e_du_jardin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2448,
       "hauteur": 3264
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Boîte, J434.jpg",
+      "description": "Auteur(s): Anonyme Date de production: Entre 1740 et 1760 Datation en siècle: 18e siècle Type(s) d'objet(s): Arts décoratifs, Orfèvrerie, argenterie, Emaillerie, Temps modernes Dénomination(s): Boîte Matériaux et techniques: Cuivre, Email (technique métal), Métal, Dorure Lieu(x) d'exécution / réalisation: Allemagne Dimensions - Oeuvre: Hauteur : 4.5 cm Diamètre : 8.5 cm Poids (type dimension) : 145.6 g Description: Boîte ronde en cuivre, avec bâte en forme de balustre et couvercle bombé, émaillée en plein. Email opaque partiellement doré et argenté sur cuivre. Monture en métal doré. Couvercle ",
+      "categories": [
+        "CC-Zero",
+        "Collections of the Musée Cognacq-Jay",
+        "Images from Paris Musées"
+      ],
+      "auteur": "Anonyme Unknown author",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bo%C3%AEte,_J434.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bo%C3%AEte%2C_J434.jpg/1280px-Bo%C3%AEte%2C_J434.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4620,
+      "hauteur": 3425
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Band van bruinkarmijn marokijn en ingelegd zwart marokijn-KONB12-6M5.jpeg",
+      "description": "Inhoud: La lire maçonne, ou recueil de chansons des francs-maçons ... Nouvelle edition, Revuë ... A La Haye, Chez R. van Laak, 1787. 12m0 + Regle maçonnique ... Seconde édition. Se trouve à La Haye, Chez I. van Cleef, 6797 [=1797]. 12mo.",
+      "categories": [
+        "Taken with Mamiya ZD",
+        "Files with no machine-readable author",
+        "Media contributed by Koninklijke Bibliotheek",
+        "PD-old-70-expired",
+        "Artworks without Wikidata item",
+        "Gilded books",
+        "Unsupported object",
+        "PD-Art (PD-old-70-expired)",
+        "Artworks with known accession number",
+        "CC-PD-Mark",
+        "GWToolset Batch Upload",
+        "Bookbindings from Koninklijke Bibliotheek"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Band_van_bruinkarmijn_marokijn_en_ingelegd_zwart_marokijn-KONB12-6M5.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Band_van_bruinkarmijn_marokijn_en_ingelegd_zwart_marokijn-KONB12-6M5.jpeg/1280px-Band_van_bruinkarmijn_marokijn_en_ingelegd_zwart_marokijn-KONB12-6M5.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1758
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

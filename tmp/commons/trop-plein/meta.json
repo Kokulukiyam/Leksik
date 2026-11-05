@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "gargouille-de-terrasse",
-      "acrotere"
+      "acrotere",
+      "crapaudine"
     ],
     "categoriesCommons": [
       "Category:Scuppers"
@@ -113,5 +114,7 @@
       "largeur": 2560,
       "hauteur": 1920
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

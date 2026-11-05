@@ -1,0 +1,53 @@
+{
+  "termId": "plaque-de-platre-coupe-feu",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cabane enveloppée de feuille d'aluminium contre un incendie de forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Page manuscrite de comptes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade sous échafaudage avec bande de laine de roche coupe-feu (flèches rouges).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Isolant, pas de plaque de plâtre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre vitrée avec serrures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Affiche imprimée de consignes anti-feu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Citernes souples orange de lutte contre incendie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Géorgie, USA",
+      "note": "Hors sujet."
+    }
+  ]
+}

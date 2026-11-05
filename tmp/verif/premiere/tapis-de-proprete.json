@@ -1,0 +1,53 @@
+{
+  "termId": "tapis-de-proprete",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Paillassons en fibre de coco présentés en rayon de magasin avec étiquettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Produit en vente, pas un tapis encastré à une entrée ; étiquettes visibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Salle de château avec nattes et coussins rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrière tissant un tapis de fibres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Atelier, pas un tapis de propreté posé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tressage de rotin en chevrons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Entrée de tribunal avec seuil à mosaïque portant le texte Worth County.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seuil mosaïque, texte visible, pas un tapis."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Entrée vitrée d'hôtel de nuit avec petit tapis noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tapis minuscule et à peine lisible."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "manometre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Manomètre rond à cadran blanc gradué en bar, bien net, sur fond sombre.",
+      "verdict": "rejetée",
+      "note": "Excellent sujet mais le cadran porte le mot MANOMETRO, qui donne la réponse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tuyau transparent enroulé sur un plancher.",
+      "verdict": "rejetée",
+      "note": "Pas un manomètre à cadran.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Écran de voiture affichant la pression des pneus.",
+      "verdict": "rejetée",
+      "note": "Affichage numérique avec texte.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Manomètre à lunette en laiton fixé au mur, avec robinet de raccordement.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.62,
+        "y": 0.27,
+        "largeur": 0.24,
+        "hauteur": 0.36
+      },
+      "lieu": "Dexheim, Allemagne",
+      "note": "Cadran à aiguille clairement encadré ; inscription allemande discrète."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cadran ancien rouillé d'un indicateur de bateau avec volant.",
+      "verdict": "rejetée",
+      "note": "Objet de musée, pas un manomètre net.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Trois manomètres à cadran en laiton avec siphons en spirale au-dessus d'une machine à vapeur.",
+      "verdict": "validée",
+      "lieu": "Rapperswil, Suisse",
+      "note": "Trois manomètres nets et dominants, sans ambiguïté.",
+      "rectangle": null
+    }
+  ]
+}

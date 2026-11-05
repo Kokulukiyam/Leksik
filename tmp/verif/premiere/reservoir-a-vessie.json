@@ -1,0 +1,53 @@
+{
+  "termId": "reservoir-a-vessie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Homme en gilet lisant la plaque d'un grand moteur d'induction bleu-gris.",
+      "verdict": "rejetée",
+      "note": "Moteur, pas un réservoir.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fillette actionnant une pompe à main sur un puits.",
+      "verdict": "rejetée",
+      "note": "Pompe à main.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fillette en jaune actionnant une pompe à main.",
+      "verdict": "rejetée",
+      "note": "Pompe à main.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Enfant remplissant un bidon à un robinet public.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ancienne pompe à main marron sur un socle.",
+      "verdict": "rejetée",
+      "note": "Pompe à main.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fillette en jaune près d'une pompe à main.",
+      "verdict": "rejetée",
+      "note": "Pompe à main.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

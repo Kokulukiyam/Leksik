@@ -66,5 +66,7 @@
       "largeur": 1500,
       "hauteur": 1009
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

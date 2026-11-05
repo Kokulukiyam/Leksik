@@ -1,0 +1,63 @@
+{
+  "termId": "plancher-chauffant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Collecteur de chauffage au sol avec débitmètres et étiquettes Variotherm.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Collecteur, pas le réseau de tubes ; texte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Film chauffant électrique noir avec inscriptions.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Film électrique, pas des tubes ; texte visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tubes rouges en serpentin sur isolant à plots devant un collecteur dans une niche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.5,
+        "largeur": 1.0,
+        "hauteur": 0.5
+      },
+      "lieu": "",
+      "note": "Tubes en serpentin sur isolant, rectangle sur le réseau (pas le collecteur)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvriers coulant une chape liquide sur un plancher chauffant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dornbirn, Autriche",
+      "note": "Tubes noyés, scène de coulage, peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chape recouvrant en partie des tubes sur isolant, vue de dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tubes en grande partie masqués par la chape."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvrier posant un tube blanc sur isolant noir à plots.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.5,
+        "largeur": 0.75,
+        "hauteur": 0.45
+      },
+      "lieu": "Dornbirn, Autriche",
+      "note": "Tubes en serpentin sur isolant avant chape, rectangle sur le réseau."
+    }
+  ]
+}

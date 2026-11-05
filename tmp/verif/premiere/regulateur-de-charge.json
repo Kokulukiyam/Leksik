@@ -1,0 +1,58 @@
+{
+  "termId": "regulateur-de-charge",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Boîtier noir de régulateur solaire H-Tronic avec bornes vertes et voyants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte Solar-Laderegler grand et visible, donne la réponse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Régulateur de charge solaire bleu et noir à écran LCD fixé sur un plateau en bois, câbles raccordés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.16,
+        "y": 0.25,
+        "largeur": 0.6,
+        "hauteur": 0.5
+      },
+      "lieu": "Wisconsin, États-Unis",
+      "note": "Régulateur net et dominant, rectangle sur le boîtier ; libellé discret."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Installation avec deux batteries vertes, onduleur et petit régulateur à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wisconsin, États-Unis",
+      "note": "Régulateur trop petit, batteries dominantes."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Boîtier noir Solar/Battery node avec nombreuses inscriptions.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîtier ambigu, texte abondant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux grosses batteries vertes, petit régulateur à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wisconsin, États-Unis",
+      "note": "Batteries dominantes."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Onduleur Growatt blanc mural.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Onduleur, incompatible."
+    }
+  ]
+}

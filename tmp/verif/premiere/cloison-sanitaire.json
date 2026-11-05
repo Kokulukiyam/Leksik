@@ -1,0 +1,53 @@
+{
+  "termId": "cloison-sanitaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entrée d'un bloc sanitaire public marqué MEN.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chicago, USA",
+      "note": "Aucune cloison de cabine visible ; texte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte rouge de toilettes pour personnes handicapées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Singapour",
+      "note": "Pas de cloison de cabines."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Couloir de toilettes publiques décoré de fresques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Diego, USA",
+      "note": "Cloisons non lisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur courbe et rampe d'un bloc sanitaire public.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maipú, Chili",
+      "note": "Extérieur, pas de cloison."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Toilette publique autonome en façade, de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Betschdorf, France",
+      "note": "Extérieur, pas de cloison."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Latrines romaines en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Philippes, Grèce",
+      "note": "Ruine, hors sujet."
+    }
+  ]
+}

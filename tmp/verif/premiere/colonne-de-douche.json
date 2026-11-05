@@ -1,0 +1,53 @@
+{
+  "termId": "colonne-de-douche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cabine de douche en pierre avec deux barres de douche à douchette et mitigeurs, distributeurs de savon.",
+      "verdict": "rejetée",
+      "note": "Barres de douche petites dans l'image, pas de grande pomme de tête ; distributeurs de savon distrayants.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'une pomme de douche et de gouttes d'eau.",
+      "verdict": "rejetée",
+      "note": "Pomme de douche seule.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Douche rustique avec seau suspendu et chauffe-eau mural.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pomme de douche chromée ronde sur bras mural, jet d'eau.",
+      "verdict": "rejetée",
+      "note": "Pomme de douche seule.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "WC à la turque et seau rose dans une salle d'eau carrelée.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Barre de douche avec douchette sur support, mitigeur mural en bas et étagères d'angle.",
+      "verdict": "rejetée",
+      "note": "Simple barre à douchette, pas de grande pomme de tête : confusion possible avec pomme de douche ou mitigeur.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

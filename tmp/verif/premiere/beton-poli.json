@@ -1,0 +1,53 @@
+{
+  "termId": "beton-poli",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sol en béton poli lisse et brillant, granulats fins visibles, joint de retrait.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface poncée brillante occupant toute l'image."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Treillis d'armatures sur film plastique avant coulage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas du béton poli."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand local avec dalle lisse et machine à lisser conduite par un ouvrier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface peu lisible, machine dominante, doute avec béton ciré ou résine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Béton ancien à gros granulats apparents, trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface brute, non polie."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue de dessus d'un ouvrier avec une lisseuse sur dalle fraîche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle en cours de travail, pas fini."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bloc sanitaire en conteneur avec une personne dans l'embrasure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol à peine visible."
+    }
+  ]
+}

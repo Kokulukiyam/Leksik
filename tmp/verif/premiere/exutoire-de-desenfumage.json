@@ -1,0 +1,53 @@
+{
+  "termId": "exutoire-de-desenfumage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Puits de ventilation de tunnel vu de la base.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Melbourne, Australie",
+      "note": "Puits de tunnel, pas un exutoire d'escalier ou de toiture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Paroi de pierre avec une cavité et un câble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bakou",
+      "note": "Aucun exutoire lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Stand de grillades de rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ruine du temple de Vesta, Rome.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ruine du temple de Vesta, Rome.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Remorque à chevaux blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

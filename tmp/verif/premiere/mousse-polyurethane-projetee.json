@@ -1,0 +1,58 @@
+{
+  "termId": "mousse-polyurethane-projetee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Place d'une ville espagnole à arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Briviesca, Espagne",
+      "note": "Mousse non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau d'aile de navette spatiale percé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrier en combinaison projetant de la mousse sur les solives d'un vide sanitaire.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.25,
+        "largeur": 0.96,
+        "hauteur": 0.21
+      },
+      "lieu": "",
+      "note": "Mousse jaunâtre irrégulière sur les solives, projection visible ; rectangle sur la mousse pour écarter l'isolant réfléchissant des murs."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Portrait ancien d'un homme tenant un bloc de mousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo historique, pas une mise en oeuvre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cabane de montagne à toit de chaume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Autriche",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvrier sur nacelle projetant un isolant blanc au plafond d'une gare en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, USA",
+      "note": "Aspect floconneux blanc, plutôt fibre/cellulose projetée ; incertain."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "plancher-technique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chemins de câbles métalliques étiquetés assemblés dans le sol d'un local en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Caniveaux, pas un plancher technique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol de lames de bois sombre en perspective.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet ordinaire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrière contrôlant le niveau dans une trappe de plancher surélevé, ventouse de levage à côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher technique visible mais personne dominante, élément peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Local technique au sol lisse couvert de poussière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un plancher technique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue sous un plancher technique : dalles blanches sur ossature métallique, vérin et faisceaux de câbles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vérin, traverses et câbles, très explicite."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Enfant assise sur un parquet devant une machine à écrire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

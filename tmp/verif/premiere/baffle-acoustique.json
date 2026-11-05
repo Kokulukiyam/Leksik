@@ -1,0 +1,21 @@
+{
+  "termId": "baffle-acoustique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panorama du plafond acoustique d'un studio d'enregistrement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Memphis, USA",
+      "note": "Dalles de plafond collées, pas de panneaux suspendus verticaux."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Détail de surface alvéolée de plafond acoustique d'une salle de concert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, USA",
+      "note": "Panneaux alvéolés réglables sur surface continue, ne montre pas de baffles suspendus lisibles."
+    }
+  ]
+}

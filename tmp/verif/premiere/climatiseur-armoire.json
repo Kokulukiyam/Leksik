@@ -1,0 +1,53 @@
+{
+  "termId": "climatiseur-armoire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ventilateur grillagé d'une unité extérieure en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Burdwan, Inde",
+      "note": "Groupe extérieur, pas une armoire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gaines flexibles aluminium en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gaines, pas un climatiseur armoire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Split mural blanc sur un mur bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Split, incompatible et pas une armoire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Caisson ventilé éclairé de nuit sur une façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, pas une armoire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Unité extérieure sur support en façade vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Groupe extérieur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Militaire intervenant sur un groupe de climatisation extérieur avec coffret électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Afghanistan",
+      "note": "Groupe extérieur, pas une armoire verticale intérieure."
+    }
+  ]
+}

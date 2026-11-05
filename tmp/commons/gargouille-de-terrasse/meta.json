@@ -12,8 +12,126 @@
     ],
     "incompatibles": [
       "gargouille",
-      "acrotere"
+      "acrotere",
+      "crapaudine"
+    ],
+    "categoriesCommons": [
+      "Category:Scuppers",
+      "Category:Gargoyles"
     ]
   },
-  "candidats": []
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Vyborg Castle - Zeughaus - Underwater archeology - p25.jpg",
+      "description": "Экспозиция \"Подводная археология\" в Цейхгаузе - Шпигат свинцовый (отверстие в палубе или фальшборте судна для удаления воды за борт) с линейного корабля \"Ловиса Ульрика\" - Швеция. Сер. XVIII в.",
+      "categories": [
+        "Scuppers",
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation",
+        "2026 in Vyborg",
+        "Lovisa Ulrika (ship, 1745)",
+        "Underwater archeology: an exhibition at the Vyborg Castle Museum"
+      ],
+      "auteur": "Александр Сигачёв",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vyborg_Castle_-_Zeughaus_-_Underwater_archeology_-_p25.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Vyborg_Castle_-_Zeughaus_-_Underwater_archeology_-_p25.jpg/1280px-Vyborg_Castle_-_Zeughaus_-_Underwater_archeology_-_p25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3947,
+      "hauteur": 1826
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2.2.17 Dubrovnik 3 Gargoyles 07 (31218288944).jpg",
+      "description": "2.1.17 Dubrovnik Gargoyles",
+      "categories": [
+        "Gargoyles",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Donald Judge",
+        "Files with coordinates missing SDC location of creation",
+        "Croatia photographs taken on 2017-01-02"
+      ],
+      "auteur": "donald judge",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2.2.17_Dubrovnik_3_Gargoyles_07_(31218288944).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2.2.17_Dubrovnik_3_Gargoyles_07_%2831218288944%29.jpg/1280px-2.2.17_Dubrovnik_3_Gargoyles_07_%2831218288944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Scuppers.jpg",
+      "description": "Photograph of scuppers, taken by Sim (Myself) primarily to add to the article on Scuppers. No rights reserved.",
+      "categories": [
+        "Scuppers",
+        "Taken with Canon PowerShot A460",
+        "PD-user",
+        "Sailing ship elements"
+      ],
+      "auteur": "Sim sur Wikipédia anglais",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Scuppers.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Scuppers.jpg/1280px-Scuppers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Gargoyle Statue - panoramio.jpg",
+      "description": "Gargoyle Statue",
+      "categories": [
+        "Gargoyles",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Statues in Madison, Wisconsin",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2016-03-14",
+        "Photos from Panoramio ID 2184098"
+      ],
+      "auteur": "Corey Coyle",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gargoyle_Statue_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Gargoyle_Statue_-_panoramio.jpg/1280px-Gargoyle_Statue_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Earthship scupper.JPG",
+      "description": "Scupper for Earthship roof catchment",
+      "categories": [
+        "Scuppers",
+        "Taken with Sony DSLR-A390",
+        "Earthships",
+        "Self-published work"
+      ],
+      "auteur": "Amzi Smith",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Earthship_scupper.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Earthship_scupper.JPG/1280px-Earthship_scupper.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 2576
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Gargoyle... (4321255097).jpg",
+      "description": "Lurking in the dark corners of the Maritime Museum.",
+      "categories": [
+        "Gargoyles",
+        "Maritime museums",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "Catherine from Australia",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gargoyle..._(4321255097).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Gargoyle..._%284321255097%29.jpg/1280px-Gargoyle..._%284321255097%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    }
+  ]
 }

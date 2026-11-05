@@ -1,0 +1,53 @@
+{
+  "termId": "liege",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Figurine d'épée dans la pierre posée sur un sol moucheté orangé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol à peine identifiable, objet dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plaque métallique à plots ronds sur sol à Copenhague.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas du liège."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Hall d'entrée d'un musée avec porte vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Sol lisse gris-blanc laqué, présenté comme liège verni.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grain du liège non visible, non identifiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Petit carrelage en octogones noir et blanc avec bordure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sol en octogones blancs et losanges rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

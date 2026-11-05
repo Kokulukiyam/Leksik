@@ -1,0 +1,29 @@
+{
+  "termId": "dalle-de-moquette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Annonce de journal imprimée pour un cinéma.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Détail d'un tableau de Holbein (peinture).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, pas une photo de moquette."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détail d'un tableau de Holbein (peinture).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, pas une photo de moquette."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "parquet-a-batons-rompus",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Parquet de chêne en lames rectangulaires à bouts droits posées en zigzag (bâtons rompus), vernis usé par un fauteuil.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Motif net, bouts carrés ; usure du vernis visible mais motif dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Même parquet usé par roulettes, cadrage plus serré avec le fauteuil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doublon de 01, usure plus gênante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Séjour avec parquet en chêne clair à bâtons rompus, lames à bouts droits.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.45,
+        "largeur": 0.7,
+        "hauteur": 0.55
+      },
+      "lieu": "",
+      "note": "Motif reconnaissable ; rectangle sur le sol pour écarter les meubles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Couloir sombre de bibliothèque, parquet à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Marches en bois avec bande de parquet à chevrons au sommet et mosaïque en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet marginal."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan de parquet en chêne à lames coupées en biais formant des chevrons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coupes obliques : c'est un point de Hongrie, pas des bâtons rompus."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "termId": "plaque-de-platre-perforee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Viaduc béton d'une gare surélevée en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Apalit, Philippines",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Viaduc béton d'une gare surélevée en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Apalit, Philippines",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Structure métallique et façade de gare en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Apalit, Philippines",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chantier de gare avec viaduc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Apalit, Philippines",
+      "note": "Hors sujet."
+    }
+  ]
+}

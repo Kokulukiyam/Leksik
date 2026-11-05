@@ -1,0 +1,53 @@
+{
+  "termId": "carreau-metro",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vitrine de carreaux anciens décorés dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas des carreaux métro."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toilettes accessibles aux murs de carreaux blancs avec bande bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreaux peu lisibles, scène dominée par les sanitaires."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Panneau de carreaux peints d'oiseaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor peint, pas un carreau métro."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur enduit avec une partie en plaquettes imitation brique en cours de pose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un carreau métro blanc."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de carreaux de faïence décorés bleu, vert et jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faïence décorative, pas métro."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hall de station avec panneaux décoratifs sur murs en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

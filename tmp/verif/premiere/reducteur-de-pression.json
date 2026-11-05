@@ -1,0 +1,53 @@
+{
+  "termId": "reducteur-de-pression",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo noir et blanc d'un mur avec détendeurs et boîtier électrique.",
+      "verdict": "rejetée",
+      "note": "Petit, noir et blanc, peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vanne en laiton avec étiquette 'DRUM DRIP'.",
+      "verdict": "rejetée",
+      "note": "Vanne, texte visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux grosses vannes à opercule rouillées dans une chambre.",
+      "verdict": "rejetée",
+      "note": "Vannes, pas un réducteur.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Détendeurs et tuyauteries sur un mur en noir et blanc, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "note": "Illisible et ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Volant vert d'une vanne, gros plan.",
+      "verdict": "rejetée",
+      "note": "Vanne.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Carte électronique.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

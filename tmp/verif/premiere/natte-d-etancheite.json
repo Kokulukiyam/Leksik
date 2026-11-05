@@ -1,0 +1,53 @@
+{
+  "termId": "natte-d-etancheite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bas de mur recouvert de contreplaqué avec membrane noire sur dalle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Membrane noire, pas une natte d'étanchéité sous carrelage."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tunnel en construction avec membrane d'étanchéité sur la voûte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étanchéité de tunnel, pas une natte sous carrelage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tableau de résistance à l'eau des montres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalator de station avec panneau annonçant une fuite d'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Carnets jaunes résistants à l'eau sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalator de station avec zone protégée par du plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

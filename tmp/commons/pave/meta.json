@@ -11,7 +11,8 @@
       "incategory:\"Cobblestones\""
     ],
     "incompatibles": [
-      "pave-autobloquant"
+      "pave-autobloquant",
+      "allee"
     ],
     "categoriesCommons": [
       "Category:Cobblestones",
@@ -148,6 +149,137 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_way_-_Flickr_-_TheAlieness_GiselaGiardino%C2%B2%C2%B3.jpg/1280px-The_way_-_Flickr_-_TheAlieness_GiselaGiardino%C2%B2%C2%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1600,
       "hauteur": 1200
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:20130606 Mostar 079.jpg",
+      "description": "Shop in Mostar.",
+      "categories": [
+        "Taken with Olympus XZ-2",
+        "Old Bridge Area of the Old City of Mostar",
+        "Self-published work",
+        "Cobblestones",
+        "Shops in Bosnia and Herzegovina",
+        "Open doors",
+        "2013 in Mostar",
+        "Photographs by Mark Ahsmann"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20130606_Mostar_079.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/20130606_Mostar_079.jpg/1280px-20130606_Mostar_079.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2976,
+      "hauteur": 3968
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Entrance gate of the Museum of Philippine Social History - 1.jpg",
+      "description": "Le Roux Culinary Academy - NY Café Avenue - Jollibee (Santo Rosario, Angeles City, Pampanga) PAMINTUAN mansion in Angeles City 2017 Version of the Restored - 1890 Old Pamintuan Residence Angeles City , Pampanga , served as the seat of government of the First Philippine Republic under General Emilio Aguinaldo from May to July 1899 and the central headquarters for Major General Arthur MacArthur, Jr. , used to serve as municipal hall of Angeles and later the Central Bank of the Philippines in Central Luzon. Currently the Museum of Philippine Social History Barangay Santo Rosario Poblacion 15°8'8\"",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Museum of Philippine Social History",
+        "Pamintuan Mansion",
+        "Cobblestone streets",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Wrought iron gates in the Philippines",
+        "Files with coordinates missing SDC location of creation",
+        "Philippines photographs taken on 2017-12-14",
+        "Buildings in the Philippines photographed in 2017",
+        "Mansyong Pamintuan historical marker"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Entrance_gate_of_the_Museum_of_Philippine_Social_History_-_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Entrance_gate_of_the_Museum_of_Philippine_Social_History_-_1.jpg/1280px-Entrance_gate_of_the_Museum_of_Philippine_Social_History_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:S. Antonio Abate - panoramio (1).jpg",
+      "description": "S. Antonio Abate",
+      "categories": [
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Cobblestones",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Cloisters in Sardinia",
+        "Sant'Antonio Abate (Orosei)",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2012-07-16",
+        "Media needing category review as of 21 January 2017",
+        "Photos from Panoramio ID 861544"
+      ],
+      "auteur": "trolvag",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:S._Antonio_Abate_-_panoramio_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/S._Antonio_Abate_-_panoramio_%281%29.jpg/1280px-S._Antonio_Abate_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2912,
+      "hauteur": 1890
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Gdansk stara obrotnica 2.jpg",
+      "description": "Gdańsk - remains of a railway turntable in Chmielna str.",
+      "categories": [
+        "Taken with Olympus SP-500UZ",
+        "Rail transport in Gdańsk",
+        "History of rail transport",
+        "Chmielna Street in Gdańsk",
+        "Cobblestone streets",
+        "Self-published work",
+        "Rail transport turntables in Poland",
+        "2010 in Gdańsk",
+        "Abandoned rail tracks in Poland",
+        "Photos by User:Andrzej O",
+        "Poland photographs taken on 2010-11-13",
+        "Sett-paved streets",
+        "Cobblestone roads in Gdańsk"
+      ],
+      "auteur": "Andrzej Otrębski",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gdansk_stara_obrotnica_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Gdansk_stara_obrotnica_2.jpg/1280px-Gdansk_stara_obrotnica_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Sendero antioqueño la quiebra sto domingo-cisneros.JPG",
+      "description": "sendero de la quiebra antioquia",
+      "categories": [
+        "Taken with Samsung ST500",
+        "Images with watermarks",
+        "Self-published work",
+        "Cobblestones"
+      ],
+      "auteur": "Jimze65",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sendero_antioque%C3%B1o_la_quiebra_sto_domingo-cisneros.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Sendero_antioque%C3%B1o_la_quiebra_sto_domingo-cisneros.JPG/1280px-Sendero_antioque%C3%B1o_la_quiebra_sto_domingo-cisneros.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1152
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Cobbles PK-F-06.025, PK-F-57.2334.jpg",
+      "description": "Title: \\\"Cobbles\\\" PK-F-06.025 Author/creator: Pant, Jan van der (1884-1939) Shelfmark: PK-F-06.025 Note: Etiket op achterzijde passepartout: Tentoonstelling Z.A.F.V. Zwolle (Holland) januari 1926. Language: No linguistic content Country: No place, unknown, or undetermined Published: [Tussen 1911 en 1926] Persistent URL: https://hdl.handle.net/1887.1/item:1895044 Published (digital): Universitaire Bibliotheken Leiden, Extent: scan",
+      "categories": [
+        "Cobblestone streets",
+        "Unknown date",
+        "Photography (Print Room), Leiden University Library",
+        "Photographs by John Vanderpant"
+      ],
+      "auteur": "Pant, Jan van der (1884-1939)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cobbles_PK-F-06.025,_PK-F-57.2334.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Cobbles_PK-F-06.025%2C_PK-F-57.2334.jpg/1280px-Cobbles_PK-F-06.025%2C_PK-F-57.2334.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1476,
+      "hauteur": 1136
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

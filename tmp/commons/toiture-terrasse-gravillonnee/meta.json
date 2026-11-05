@@ -11,7 +11,10 @@
       "gravel flat roof"
     ],
     "incompatibles": [
-      "toiture-terrasse"
+      "toiture-terrasse",
+      "toiture-vegetalisee",
+      "membrane-bitumineuse",
+      "terrasse-accessible"
     ],
     "categoriesCommons": [
       "Category:Flat roofs"
@@ -148,6 +151,146 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bushaltestelle_L%C3%B6derburg_Dorfplatz.JPG/1280px-Bushaltestelle_L%C3%B6derburg_Dorfplatz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2560,
       "hauteur": 1920
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Archangelos077.JPG",
+      "description": "Archangelos (Rhodes).",
+      "categories": [
+        "Flat roofs",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Archangelos (Rhodes)",
+        "License migration redundant",
+        "Self-published work",
+        "2009 in Rhodes",
+        "May 2009 Greece photographs",
+        "Roofs in Rhodes"
+      ],
+      "auteur": "User:Piotrus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Archangelos077.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Archangelos077.JPG/1280px-Archangelos077.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Brise Soleil.jpg",
+      "description": "Azotea del Centro Cultural de la Ciencia.",
+      "categories": [
+        "Flat roofs",
+        "Self-published work",
+        "Roofs in Argentina",
+        "December 2016 in Buenos Aires",
+        "Files from Open Foto Buenos Aires 2016",
+        "December 2016 Argentina photographs",
+        "Argentina photographs taken on 2016-12-04",
+        "Centro Cultural de la Ciencia (C3)",
+        "Brise soleils in Argentina"
+      ],
+      "auteur": "Pedro d'El Rey",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brise_Soleil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Brise_Soleil.jpg/1280px-Brise_Soleil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bledzew bushalte.jpg",
+      "description": "De centrale bushalte in Bledzew",
+      "categories": [
+        "Flat roofs",
+        "Monopitch roofs",
+        "Bledzew",
+        "Self-published work",
+        "Bus shelters in Poland"
+      ],
+      "auteur": "Joost van Os",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bledzew_bushalte.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bledzew_bushalte.jpg/1280px-Bledzew_bushalte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1568,
+      "hauteur": 1168
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Begrünter Carport im Hang in Tauberbischofsheim 3.jpg",
+      "description": "Begrünter Carport im Hang in Tauberbischofsheim",
+      "categories": [
+        "Flat roofs",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Images by Triplec85",
+        "Photographs taken on 2021-09-11",
+        "Carports in Tauberbischofsheim (Tauberbischofsheim)",
+        "Tauberbischofsheim photographs taken on 2021-09-11",
+        "Green roofs (sustainability) in Tauberbischofsheim"
+      ],
+      "auteur": "Triplec85",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_3.jpg/1280px-Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Begrünter Carport im Hang in Tauberbischofsheim 6.jpg",
+      "description": "Begrünter Carport im Hang in Tauberbischofsheim",
+      "categories": [
+        "Flat roofs",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Images by Triplec85",
+        "Photographs taken on 2021-09-11",
+        "Carports in Tauberbischofsheim (Tauberbischofsheim)",
+        "Tauberbischofsheim photographs taken on 2021-09-11",
+        "Green roofs (sustainability) in Tauberbischofsheim"
+      ],
+      "auteur": "Triplec85",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_6.jpg/1280px-Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Fitting cellular network mobile phone antenna mounts.jpg",
+      "description": "Fitting cellular network mobile phone antenna mounts in Haringey , London , England. Wikimedia (2025) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Tottenham , this uploader's Buildings in London photos , and 'categories' at the bottom of the page. This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name number and/or time marking. Camera : Canon PowerShot SX60 HS Software : DxO PhotoLab 7 Elite .",
+      "categories": [
+        "Flat roofs",
+        "Working at height",
+        "Self-published work",
+        "Construction sites in London",
+        "Railings in the London Borough of Haringey",
+        "2025 in the London Borough of Haringey",
+        "May 2025 in London",
+        "London photographs taken on 2025-05-20",
+        "Men at work in London",
+        "Spring in the London Borough of Haringey",
+        "Photographs of London by Acabashi",
+        "London N17",
+        "Men at work in the 2020s",
+        "Buildings in the London Borough of Haringey photographed in 2025",
+        "London buildings photos taken with Canon PowerShot SX60 HS",
+        "Construction at Broadwater Farm Estate",
+        "Moira Close, Tottenham",
+        "High-visibility clothing in London",
+        "Mobile phone base stations in London",
+        "Acabashi photos: buildings in Haringey"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fitting_cellular_network_mobile_phone_antenna_mounts.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Fitting_cellular_network_mobile_phone_antenna_mounts.jpg/1280px-Fitting_cellular_network_mobile_phone_antenna_mounts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4442,
+      "hauteur": 3332
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "lampadaire-solaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mât blanc incurvé portant un luminaire et un petit panneau photovoltaïque, sur une pelouse.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lampadaire solaire typique et dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Planche de luminaires de rue démontés et numérotés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un lampadaire solaire, légendes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mât avec panneau solaire et éolienne, petit luminaire peu visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pisary, Pologne",
+      "note": "Éolienne en plus, luminaire quasi invisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lampadaire en fonte sur un trottoir dallé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Astana, Kazakhstan",
+      "note": "Pas de panneau solaire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poteau avec petits panneaux solaires en haut, ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ukraine",
+      "note": "Élément trop petit et peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Lampadaire ancien à lanterne devant un paysage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shkodër, Albanie",
+      "note": "Pas de panneau solaire."
+    }
+  ]
+}

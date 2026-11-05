@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "appui-de-fenetre",
-      "allege"
+      "allege",
+      "larmier"
     ]
   },
   "candidats": [
@@ -125,6 +126,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Flank_steak_%28bavette%29_with_creamy_peppercorn_sauce%2C_challots_and_chili_in_a_Paris_bistro.jpg/1280px-Flank_steak_%28bavette%29_with_creamy_peppercorn_sauce%2C_challots_and_chili_in_a_Paris_bistro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2921,
       "hauteur": 3429
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Mamma Tanino's - November 2024 - Sarah Stierch 07.jpg",
+      "description": "Flank steak with pepper sauce, arugula, potatoes and vegetables at Mamma Tanino's, Sonoma, California",
+      "categories": [
+        "CC-Zero",
+        "Flank steaks",
+        "November 2024 in California",
+        "Self-published work",
+        "United States photographs taken on 2024-11-08",
+        "Files with coordinates missing SDC location of creation",
+        "Food photos by Sarah Stierch",
+        "2024 in Sonoma, California",
+        "Mamma Tanino's"
+      ],
+      "auteur": "Missvain",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mamma_Tanino%27s_-_November_2024_-_Sarah_Stierch_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mamma_Tanino%27s_-_November_2024_-_Sarah_Stierch_07.jpg/1280px-Mamma_Tanino%27s_-_November_2024_-_Sarah_Stierch_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Flank steak (Sapore).jpg",
+      "description": "corn horseradish",
+      "categories": [
+        "Flank steaks",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Stu Spivack",
+        "Sapore (restaurant)",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "stu_spivack",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flank_steak_(Sapore).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Flank_steak_%28Sapore%29.jpg/1280px-Flank_steak_%28Sapore%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Flank-Turnip-Bonito2 (8332452141).jpg",
+      "description": "Turnip Wrapped Flank Steak button mushrooms, jalapeno",
+      "categories": [
+        "Taken with Canon EOS 300D",
+        "Flank steaks",
+        "Flickr images reviewed by FlickreviewR",
+        "Turnip-based food",
+        "H. Alexander Talbot - Ideas in Food"
+      ],
+      "auteur": "H. Alexander Talbot",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flank-Turnip-Bonito2_(8332452141).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Flank-Turnip-Bonito2_%288332452141%29.jpg/1280px-Flank-Turnip-Bonito2_%288332452141%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2526,
+      "hauteur": 1714
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Grilled flank steak.jpg",
+      "description": "Marinated grilled flank steak, partially sliced, on a wooden cutting board",
+      "categories": [
+        "Flank steaks",
+        "Beef slices",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Wooden cutting boards with food"
+      ],
+      "auteur": "Wikiuser100",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grilled_flank_steak.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Grilled_flank_steak.jpg/1280px-Grilled_flank_steak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2824,
+      "hauteur": 1983
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Flank Steak piece of meat.jpg",
+      "description": "In Deutschland gekauftes, aus Uruguay stammendes rohes Stück Flank Steak nach dem Auspacken. Gewicht 653 g. Dicke ca. 2 cm (Spitze) bis ca 3 cm am breiten Ende.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Flank steaks",
+        "Self-published work"
+      ],
+      "auteur": "Bortz60",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flank_Steak_piece_of_meat.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Flank_Steak_piece_of_meat.jpg/1280px-Flank_Steak_piece_of_meat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3925,
+      "hauteur": 2202
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Flank Steak-Broccoli Stems (8330631551).jpg",
+      "description": "Flank Steak Broccoli Stems",
+      "categories": [
+        "Taken with Canon EOS 300D",
+        "Flank steaks",
+        "Flickr images reviewed by FlickreviewR",
+        "Stems as food",
+        "H. Alexander Talbot - Ideas in Food"
+      ],
+      "auteur": "H. Alexander Talbot",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flank_Steak-Broccoli_Stems_(8330631551).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Flank_Steak-Broccoli_Stems_%288330631551%29.jpg/1280px-Flank_Steak-Broccoli_Stems_%288330631551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

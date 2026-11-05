@@ -4,14 +4,15 @@
     "terme": "le chevron",
     "categorie": "Toitures",
     "definition": "Pièce de bois inclinée suivant la pente du toit, posée sur les pannes, qui reçoit les liteaux ou voliges.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "roof rafters",
       "chevrons toiture",
       "exposed rafters"
     ],
     "incompatibles": [
-      "charpente"
+      "charpente",
+      "panne"
     ]
   },
   "candidats": [
@@ -112,6 +113,126 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/-Roof_Rafters_P9070524.jpg/1280px--Roof_Rafters_P9070524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2304,
       "hauteur": 3072
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Standard Oil Gas Station in Atlanta, Georgia.jpg",
+      "description": "Standard Oil Gas Station in Atlanta, Georgia",
+      "categories": [
+        "Chevron",
+        "Self-published work",
+        "Standard Oil of California"
+      ],
+      "auteur": "Jjazz76",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Standard_Oil_Gas_Station_in_Atlanta,_Georgia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Standard_Oil_Gas_Station_in_Atlanta%2C_Georgia.jpg/1280px-Standard_Oil_Gas_Station_in_Atlanta%2C_Georgia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3056,
+      "hauteur": 3056
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Dwelling, Roof-Rafters - NARA - 87201199.jpg",
+      "description": "",
+      "categories": [
+        "Lighthouses in South Carolina",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "PD US Coast Guard",
+        "Template Unknown (author)",
+        "US National Archives series: Lighthouse Plans and Maps",
+        "US National Archives location: other",
+        "Documents relating to the United States Bureau of Lighthouses"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dwelling,_Roof-Rafters_-_NARA_-_87201199.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Dwelling%2C_Roof-Rafters_-_NARA_-_87201199.jpg/1280px-Dwelling%2C_Roof-Rafters_-_NARA_-_87201199.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5764,
+      "hauteur": 6896
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Dwelling, Roof-Rafters - NARA - 87201197.jpg",
+      "description": "",
+      "categories": [
+        "Lighthouses in South Carolina",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "PD US Coast Guard",
+        "Template Unknown (author)",
+        "US National Archives series: Lighthouse Plans and Maps",
+        "US National Archives location: other",
+        "Documents relating to the United States Bureau of Lighthouses"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dwelling,_Roof-Rafters_-_NARA_-_87201197.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Dwelling%2C_Roof-Rafters_-_NARA_-_87201197.jpg/1280px-Dwelling%2C_Roof-Rafters_-_NARA_-_87201197.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5660,
+      "hauteur": 7981
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Tōchō-ji Rokkaku-dō the fan rafters on the SSW side 2-4 Gokushomachi Hakata-ku Fukuoka 20240125.jpg",
+      "description": "Tōchō-ji Rokkaku-dō, the fan rafters on the south-southwest side (Address: 2-4, Gokushomachi, Hakata-ku, Fukuoka City 812-0037, Japan)",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Rokkaku-dō, Tōchō-ji",
+        "Fan rafters",
+        "Nokiura"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:T%C5%8Dch%C5%8D-ji_Rokkaku-d%C5%8D_the_fan_rafters_on_the_SSW_side_2-4_Gokushomachi_Hakata-ku_Fukuoka_20240125.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/T%C5%8Dch%C5%8D-ji_Rokkaku-d%C5%8D_the_fan_rafters_on_the_SSW_side_2-4_Gokushomachi_Hakata-ku_Fukuoka_20240125.jpg/1280px-T%C5%8Dch%C5%8D-ji_Rokkaku-d%C5%8D_the_fan_rafters_on_the_SSW_side_2-4_Gokushomachi_Hakata-ku_Fukuoka_20240125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:The Vyne roof under restoration (interior).jpg",
+      "description": "View across the South-Eastern roof of The Vyne while under restoration showing the scaffolding and interior of the roof canopy . Since The Vyne, which dates back to 1520, is a listed building, the scaffolding may not be fixed to the walls (though it may rest against the walls).",
+      "categories": [
+        "The Vyne",
+        "Images with annotations",
+        "Roof construction",
+        "Plaster and lath",
+        "Pages using gallery with unknown parameters",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Scaffolding in Hampshire",
+        "May 2017 in Hampshire",
+        "Temporary roof covers"
+      ],
+      "auteur": "Martinvl",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Vyne_roof_under_restoration_(interior).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Vyne_roof_under_restoration_%28interior%29.jpg/1280px-The_Vyne_roof_under_restoration_%28interior%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4317,
+      "hauteur": 3450
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Roof overhang 4248.jpg",
+      "description": "Alderton school",
+      "categories": [
+        "Alderton School",
+        "Self-published work",
+        "Roof overhangs",
+        "Alderton School Image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_overhang_4248.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Roof_overhang_4248.jpg/1280px-Roof_overhang_4248.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4608
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

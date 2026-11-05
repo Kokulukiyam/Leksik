@@ -1,0 +1,53 @@
+{
+  "termId": "linoleum",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cabine de toilettes accessible au sol gris uni.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau du sol non identifiable comme linoléum."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol d'ardoise en damier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre, pas du linoléum."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Publicité imprimée Linoleum y Lincrusta.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, texte donnant la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Sol de terre craquelée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche d'échantillon imprimée de linoléum en mosaïque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document illustré, pas une photo de sol posé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Enfant assise sur un parquet devant une machine à écrire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

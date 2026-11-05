@@ -11,7 +11,8 @@
       "concrete column stub rebar"
     ],
     "incompatibles": [
-      "armature-en-attente"
+      "armature-en-attente",
+      "cage-d-armature"
     ],
     "categoriesCommons": [
       "Category:Rebar",
@@ -130,6 +131,145 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg/1280px-Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4290,
       "hauteur": 3235
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Chamsin Kehl.jpg",
+      "description": "Tramway de Strasbourg, ligne transfrontalière , chantier du pont",
+      "categories": [
+        "Bridge construction in Germany",
+        "Overcast in Germany",
+        "Beatus Rhenanus Bridge",
+        "Images with annotations",
+        "Rebar",
+        "Buildings in Kehl",
+        "Self-published work",
+        "NoFoP-France",
+        "Bridge construction in France",
+        "Construction sites in Baden-Württemberg",
+        "Construction sites in Alsace",
+        "High-rises in Ortenaukreis",
+        "2015 in bridge construction",
+        "Files with coordinates missing SDC location of creation (48° N, 7° E)",
+        "Chamsin (ship, 2000)"
+      ],
+      "auteur": "Ikar.us",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chamsin_Kehl.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Chamsin_Kehl.jpg/1280px-Chamsin_Kehl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 816
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 22.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_22.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:A bunch of rebar.jpg",
+      "description": "Closeup of straight rebar at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Retouched pictures",
+        "Rebar",
+        "Decomposed granite",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Bundles",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden",
+        "Reused images by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_bunch_of_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_bunch_of_rebar.jpg/1280px-A_bunch_of_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4512,
+      "hauteur": 3504
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 07.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:A crate of bent rebar.jpg",
+      "description": "A crate of bent and somewhat rusty rebar at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden. Photo taken on this site .",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Rebar",
+        "Self-published work",
+        "August 2016 in Sweden",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Sweden photographs taken on 2016-08-06",
+        "Rusty objects in Sweden",
+        "Many objects",
+        "Bent objects",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_crate_of_bent_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/A_crate_of_bent_rebar.jpg/1280px-A_crate_of_bent_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4385,
+      "hauteur": 3005
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Abstandshalter Beton Bewehrung.JPG",
+      "description": "Abstandhalter an der Bewehrung in Stahlbeton (Allerdings ist die Bewehrung in der neutralen Faser wahrscheinlich recht sinnfrei...)",
+      "categories": [
+        "Reinforced concrete"
+      ],
+      "auteur": "Cschirp",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abstandshalter_Beton_Bewehrung.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Abstandshalter_Beton_Bewehrung.JPG/1280px-Abstandshalter_Beton_Bewehrung.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1898,
+      "hauteur": 1804
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

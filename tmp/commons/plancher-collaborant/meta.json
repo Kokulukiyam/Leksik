@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "ossature-metallique",
-      "bac-acier"
+      "bac-acier",
+      "dalle"
     ]
   },
   "candidats": [
@@ -75,6 +76,26 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/LawrenceScarpa_Cherokee_007780-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "largeur": 1024,
       "hauteur": 769
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:LawrenceScarpa Cherokee 8268.jpg",
+      "description": "Cherokee Mixed-Use Lofts is an urban infill, mixed-use, market-rate housing project. The building is inspired by the series of paintings by the British artist Patrick Hughes titled, “Prospectivity”, whose paintings appear to be ever changing and physically moving while being viewed. At Cherokee the main architectural feature of this project is the building’s owner-controlled operable double façade system. By allowing the occupant to adjust, at will, the operable screens of the building façade, the facade is virtually redesigned “live” from within the space, reflecting the occupants of the buil",
+      "categories": [
+        "Lawrence Scarpa",
+        "Apartment buildings in Los Angeles",
+        "Self-published work",
+        "Buildings by Angela Brooks",
+        "Double-skin facades"
+      ],
+      "auteur": "Calderoliver",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LawrenceScarpa_Cherokee_8268.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/LawrenceScarpa_Cherokee_8268.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 786
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

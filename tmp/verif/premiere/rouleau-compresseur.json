@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Conteneur compacteur de déchets bleu Europress.",
+      "verdict": "rejetée",
+      "note": "Compacteur à déchets, pas un rouleau compresseur.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan d'une poubelle compacteuse solaire.",
+      "verdict": "rejetée",
+      "note": "Poubelle compactrice, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poubelle compacteuse et bac de recyclage dans la rue.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rouleau compresseur blanc à cylindre lisse avant et pneus arrière, sur un chantier de plateforme.",
+      "verdict": "validée",
+      "lieu": "Lesménils, France",
+      "note": "Engin typique, net et dominant ; cylindre d'acier bien visible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vieux rouleau compresseur bleu de profil, cylindre avant et gros pneus, sur un chantier urbain.",
+      "verdict": "validée",
+      "lieu": "Cangas, Espagne",
+      "note": "Engin complet et lisible, cylindre visible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rouleau compresseur jaune et vert compactant un sol, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "lieu": "Itapevi, Brésil",
+      "note": "Bon sujet mais quasi doublon de la 03 déjà validée ; plafond de 3 atteint avec 03, 10, 11.",
+      "rectangle": null
     }
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "termId": "sous-couche-acoustique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Magasin de revêtements stratifiés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de sous-couche."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dalle de stratifié à décor marqueté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de sous-couche."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tranche d'une lame de stratifié.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de sous-couche."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ordinateur de poche posé sur un sol stratifié.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mousse blanche déroulée au sol à côté de lames de stratifié déjà posées, dans une cuisine en travaux.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.5,
+        "y": 0.3,
+        "largeur": 0.5,
+        "hauteur": 0.7
+      },
+      "lieu": "",
+      "note": "Sous-couche claire, nette, à encadrer car le stratifié est aussi visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pièce en chantier avec une bande de film blanc et quelques lames posées, ouvrier assis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sous-couche en mince bande, scène dominée par la personne."
+    }
+  ]
+}

@@ -12,6 +12,10 @@
     ],
     "categoriesCommons": [
       "Category:Circular saws"
+    ],
+    "incompatibles": [
+      "scie-sauteuse",
+      "tronconneuse"
     ]
   },
   "candidats": [
@@ -129,6 +133,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ferri_saw%2C_Agritechnica_2023%2C_Hanover_%28P1150069%29.jpg/1280px-Ferri_saw%2C_Agritechnica_2023%2C_Hanover_%28P1150069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3456,
       "hauteur": 4320
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Boy working at double circular saws. N.Y. Dimension Supply Co. Evansville, Ind. - NARA - 523095.jpg",
+      "description": "",
+      "categories": [
+        "PD US Government",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Circular saws",
+        "Artworks without Wikidata item",
+        "CC-PD-Mark",
+        "Child labor in Indiana",
+        "US National Archives series: National Child Labor Committee Photographs taken by Lewis Hine, compiled ca. 1912 - ca. 1912, documenting the period 1908 - 1912",
+        "NARA-Author with ARC: F",
+        "Evansville, Indiana in the 20th-century"
+      ],
+      "auteur": "Lewis Wickes Hine",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boy_working_at_double_circular_saws._N.Y._Dimension_Supply_Co._Evansville,_Ind._-_NARA_-_523095.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Boy_working_at_double_circular_saws._N.Y._Dimension_Supply_Co._Evansville%2C_Ind._-_NARA_-_523095.jpg/1280px-Boy_working_at_double_circular_saws._N.Y._Dimension_Supply_Co._Evansville%2C_Ind._-_NARA_-_523095.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2134
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Circular saw woodworking.JPG",
+      "description": "A older type from Circular saw oft used on sawmills. Torklyvsåg med matarverk.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D5000",
+        "Circular saws",
+        "License migration redundant",
+        "Self-published work",
+        "Sawmill parts"
+      ],
+      "auteur": "Boatbuilder",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Circular_saw_woodworking.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Circular_saw_woodworking.JPG/1280px-Circular_saw_woodworking.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Circular Saw Ready to Cut a Filler Panel.jpg",
+      "description": "For the installation of a 47\" corner cabinet (Ikea's kitchen cabinet system \"Sektion\") the custom cutting of a \"filler\" panel is necessary.",
+      "categories": [
+        "Circular saws",
+        "Self-published work",
+        "IKEA kitchen installation"
+      ],
+      "auteur": "Stilfehler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Circular_Saw_Ready_to_Cut_a_Filler_Panel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Circular_Saw_Ready_to_Cut_a_Filler_Panel.jpg/1280px-Circular_Saw_Ready_to_Cut_a_Filler_Panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Artopia 2009 - power tool racing 05.jpg",
+      "description": "Power tool racer incorporating circular saw and skateboard. Artopia street fair, Georgetown, Seattle, Washington.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix P50",
+        "Skateboards",
+        "Circular saws",
+        "License migration redundant",
+        "Self-published work",
+        "Power tool racing",
+        "Artopia 2009"
+      ],
+      "auteur": "Joe Mabel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Artopia_2009_-_power_tool_racing_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Artopia_2009_-_power_tool_racing_05.jpg/1280px-Artopia_2009_-_power_tool_racing_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Beschutting van een naar boven komende (afkort)cirkelzaag (volgens tekening H16…, Bestanddeelnr 256-4477.jpg",
+      "description": "Collectie / Archief : Fotocollectie Arbeidsinspectie Reportage / Serie : [ onbekend ] Beschrijving : Beschutting van een naar boven komende (afkort)cirkelzaag (volgens tekening H16 van het 6de district) door middel van een om een horizontaal scharnier op- en neerklappende kap met geleden zijvakken (verouderd) Datum : ongedateerd Trefwoorden : beveiliging, houtbewerkingsmachines, houtindustrie, tekeningen, zaagmachines Fotograaf : [onbekend] Auteursrechthebbende : Nationaal Archief Materiaalsoort : Foto (zwart/wit) Nummer archiefinventaris : bekijk toegang 2.24.03 Inventarisnummer : 2081 Bestan",
+      "categories": [
+        "CC-Zero",
+        "Images from Nationaal Archief",
+        "Circular saws",
+        "Unknown date",
+        "Fotocollectie Arbeidsinspectie"
+      ],
+      "auteur": "[onbekend]",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beschutting_van_een_naar_boven_komende_(afkort)cirkelzaag_(volgens_tekening_H16%E2%80%A6,_Bestanddeelnr_256-4477.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Beschutting_van_een_naar_boven_komende_%28afkort%29cirkelzaag_%28volgens_tekening_H16%E2%80%A6%2C_Bestanddeelnr_256-4477.jpg/1280px-Beschutting_van_een_naar_boven_komende_%28afkort%29cirkelzaag_%28volgens_tekening_H16%E2%80%A6%2C_Bestanddeelnr_256-4477.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 3524
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:9x12 Waarschuwing tegen het gevaar van het werken met cirkelzaag, Bestanddeelnr 256-1208.jpg",
+      "description": "Collectie / Archief : Fotocollectie Arbeidsinspectie Reportage / Serie : [ onbekend ] Beschrijving : 9x12 Waarschuwing tegen het gevaar van het werken met cirkelzaag Datum : ongedateerd Trefwoorden : affiches, cirkelzagen, gevaren Fotograaf : [onbekend] Auteursrechthebbende : Nationaal Archief Materiaalsoort : Glasnegatief Nummer archiefinventaris : bekijk toegang 2.24.03 Inventarisnummer : 2267 Bestanddeelnummer : 256-1208",
+      "categories": [
+        "CC-Zero",
+        "Images from Nationaal Archief",
+        "Circular saws",
+        "Unknown date",
+        "Fotocollectie Arbeidsinspectie"
+      ],
+      "auteur": "Nationaal Archief",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:9x12_Waarschuwing_tegen_het_gevaar_van_het_werken_met_cirkelzaag,_Bestanddeelnr_256-1208.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/9x12_Waarschuwing_tegen_het_gevaar_van_het_werken_met_cirkelzaag%2C_Bestanddeelnr_256-1208.jpg/1280px-9x12_Waarschuwing_tegen_het_gevaar_van_het_werken_met_cirkelzaag%2C_Bestanddeelnr_256-1208.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3202,
+      "hauteur": 2575
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "robinet-d-incendie-arme",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Camion-citerne feux de forêts ancien rouge avec dévidoir de tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Véhicule, pas un RIA mural."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pompiers déroulant des tuyaux plats sur une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intervention, pas un RIA."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chariot dévidoir hippomobile de 1870 en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Long Island, États-Unis",
+      "note": "Objet ancien de musée, pas un RIA."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo noir et blanc d'un homme lançant un jet de lance devant une épave d'avion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Russie",
+      "note": "Scène de tournage, pas un RIA."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Dévidoir rouge avec tuyau plat enroulé et vanne rouge sur une cloison de navire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Russie",
+      "note": "Tuyau plat de bord, non semi-rigide ; texte cyrillique visible ; doute avec un RIA de bâtiment."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Camion-citerne feux de forêts GMC avec dévidoir sur le toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Véhicule, pas un RIA mural."
+    }
+  ]
+}

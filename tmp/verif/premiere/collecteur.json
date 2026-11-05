@@ -1,0 +1,53 @@
+{
+  "termId": "collecteur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan sur l'embout chromé fileté d'un manifold de plongée.",
+      "verdict": "rejetée",
+      "note": "Équipement de plongée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros collecteur rose d'incendie à seize vannes rayonnantes fixé sur un mur.",
+      "verdict": "rejetée",
+      "note": "Colonne sèche/raccordement incendie, pas la nourrice de distribution d'eau sanitaire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détail d'une machine à vapeur ancienne avec tuyaux.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuyauterie d'évacuation en fonte et cuivre dans des solives de bois.",
+      "verdict": "rejetée",
+      "note": "Évacuation, pas un collecteur de distribution.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Manifold de plongée en T chromé avec molette noire sur moquette.",
+      "verdict": "rejetée",
+      "note": "Équipement de plongée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petit raccord en T en laiton sur moquette.",
+      "verdict": "rejetée",
+      "note": "Raccord de plongée, pas un collecteur de plomberie.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "isolant-mince-reflechissant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Affiche illustrée américaine sur l'isolation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin et texte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade sous échafaudage avec mosaïque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne, Autriche",
+      "note": "Isolant non visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Intérieur d'avion avec isolant argenté matelassé autour des hublots.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Avion, pas du bâtiment."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Isolation de façade en laine minérale avec bandes de composite aluminium autour d'une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bytom, Pologne",
+      "note": "Aluminium en bandes sur laine de roche : lisibilité insuffisante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tas de flocons de laine de mouton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Isolant en vrac, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble en construction à Helsinki.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Helsinki, Finlande",
+      "note": "Hors sujet."
+    }
+  ]
+}

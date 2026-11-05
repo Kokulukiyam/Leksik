@@ -4,11 +4,15 @@
     "terme": "le joint de dilatation",
     "categorie": "Structure",
     "definition": "Coupure qui traverse un bâtiment de haut en bas et sépare deux blocs pour qu'ils se dilatent librement.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "building expansion joint",
       "joint de dilatation",
       "expansion joint facade"
+    ],
+    "categoriesCommons": [
+      "Category:Expansion joints",
+      "Category:Bridge expansion joints"
     ]
   },
   "candidats": [
@@ -126,6 +130,119 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/EXPANSION_JOINTS_IN_THE_HPF_HIGH_PRESSURE_FACILITY_-_NARA_-_17424787.jpg/1280px-EXPANSION_JOINTS_IN_THE_HPF_HIGH_PRESSURE_FACILITY_-_NARA_-_17424787.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6183,
       "hauteur": 4823
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Rheinbrücke-Bendorf2.jpg",
+      "description": "Rheinbrücke Bendorf, Übergangskonstruktion in Brückenmitte",
+      "categories": [
+        "Taken with Canon EOS 5D Mark II",
+        "Bendorfer Brücke",
+        "Bridge expansion joints",
+        "Files with coordinates missing SDC location of creation (50° N, 7° E)"
+      ],
+      "auteur": "Störfix",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rheinbr%C3%BCcke-Bendorf2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rheinbr%C3%BCcke-Bendorf2.jpg/1280px-Rheinbr%C3%BCcke-Bendorf2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5110,
+      "hauteur": 3407
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Pavelló de vidre, Lleida 06.jpg",
+      "description": "Vista del Pavelló de Vidre de Lleida, situat als Camps Elisis. Imatge presa durant l'arquitectour Lleida 2018",
+      "categories": [
+        "Expansion joints",
+        "Self-published work",
+        "Pavelló de Vidre"
+      ],
+      "auteur": "ESM",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pavell%C3%B3_de_vidre,_Lleida_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Pavell%C3%B3_de_vidre%2C_Lleida_06.jpg/1280px-Pavell%C3%B3_de_vidre%2C_Lleida_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Pose joint de chaussee.JPG",
+      "description": "Pose d'un joint de chaussée, de typo cantilever à peigne.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "License migration redundant",
+        "Bridge expansion joints",
+        "Self-published work"
+      ],
+      "auteur": "Roulex_45",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pose_joint_de_chaussee.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Pose_joint_de_chaussee.JPG/1280px-Pose_joint_de_chaussee.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1288
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Earthquake joint on Transbay Transit Center roof, August 2018.JPG",
+      "description": "An earthquake joint - one of several which allow the structure to move as multiple sections during a major earthquake - visible on the roof of the Transbay Transit Center in August 2018",
+      "categories": [
+        "GFDL",
+        "Expansion joints",
+        "License migration redundant",
+        "August 2018 in California",
+        "Self-published work",
+        "Photographs by User:Pi.1415926535",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2018-08-12",
+        "Earthquake engineering in California",
+        "Roof garden on the Transbay Transit Center",
+        "Transbay Transit Center in 2018"
+      ],
+      "auteur": "Pi.1415926535",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Earthquake_joint_on_Transbay_Transit_Center_roof,_August_2018.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Earthquake_joint_on_Transbay_Transit_Center_roof%2C_August_2018.JPG/1280px-Earthquake_joint_on_Transbay_Transit_Center_roof%2C_August_2018.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Dilatationsfog räcke.jpg",
+      "description": "Dilatationsfog i ett räcke",
+      "categories": [
+        "Taken with Nikon Coolpix S51",
+        "Bridge expansion joints",
+        "Self-published work",
+        "Unidentified locations in Sweden",
+        "Photographs by Holger Ellgaard"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dilatationsfog_r%C3%A4cke.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Dilatationsfog_r%C3%A4cke.jpg/1280px-Dilatationsfog_r%C3%A4cke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3260,
+      "hauteur": 2385
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ausgleichsknie (Z-Bogen) Leitung an Mühlkanalbrücke Marburg 2016-03-25.JPG",
+      "description": "Ausgleichsknie (Z-Bogen, a Expansion joint ) zur Reduzierunng von Spannungsrissen an einer Leitung an der Mühlkanalbrücke in Marburg.",
+      "categories": [
+        "Bridges in Marburg",
+        "Expansion joints",
+        "Self-published work",
+        "Marburg photographs taken on 2016-03-25"
+      ],
+      "auteur": "LudwigSebastianMicheler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ausgleichsknie_(Z-Bogen)_Leitung_an_M%C3%BChlkanalbr%C3%BCcke_Marburg_2016-03-25.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ausgleichsknie_%28Z-Bogen%29_Leitung_an_M%C3%BChlkanalbr%C3%BCcke_Marburg_2016-03-25.JPG/1280px-Ausgleichsknie_%28Z-Bogen%29_Leitung_an_M%C3%BChlkanalbr%C3%BCcke_Marburg_2016-03-25.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

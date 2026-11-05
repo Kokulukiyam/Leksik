@@ -4,7 +4,7 @@
     "terme": "le store banne",
     "categorie": "Façade et ouvertures",
     "definition": "Store en toile qui se déroule en avant d'une façade, porté par des bras articulés.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "retractable awning terrace",
       "store banne",
@@ -12,6 +12,9 @@
     ],
     "incompatibles": [
       "auvent"
+    ],
+    "categoriesCommons": [
+      "Category:Awnings"
     ]
   },
   "candidats": [
@@ -145,6 +148,136 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Rue_Hoche%2C_Cannes_%2820260619-IMG_3774%29.jpg/1280px-Rue_Hoche%2C_Cannes_%2820260619-IMG_3774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6000,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:1975 070 1161 400 rgb V750161 (18385424471).jpg",
+      "description": "Marble Falls, Texas. Breakfast table, Austin academy summer camp.",
+      "categories": [
+        "Trestle tables",
+        "Awnings",
+        "Camps",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Black and white photographs in the Texas State Archives",
+        "Images from the Texas State Library and Archives Commission Flickr stream with bad file names"
+      ],
+      "auteur": "Texas State Archives from Austin, Texas, USA",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:1975_070_1161_400_rgb_V750161_(18385424471).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/1975_070_1161_400_rgb_V750161_%2818385424471%29.jpg/1280px-1975_070_1161_400_rgb_V750161_%2818385424471%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2963,
+      "hauteur": 1941
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Sailing boat with breakwater in the background, Port of Evdilos, Ikaria, Greece julesvernex2.jpg",
+      "description": "Sailing boat with breakwater in the background, Port of Evdilos, Ikaria, Greece",
+      "categories": [
+        "Retouched pictures",
+        "Awnings",
+        "Evdilos",
+        "Digitally manipulated photographs",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Julesvernex2",
+        "2024 in Ikaria",
+        "Taken with Fujifilm X-H2S",
+        "PPL3 images by Julesvernex2",
+        "Favourite images by Julesvernex2",
+        "Boats in Ikaria",
+        "Fujifilm XF 18mm f1.4 R LM WR (X-mount) images by Julesvernex2",
+        "Greece images by Julesvernex2",
+        "Images with Content Credentials by Julesvernex2",
+        "Taken with Fujinon XF18mm F1.4 R LM WR"
+      ],
+      "auteur": "Jules Verne Times Two",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sailing_boat_with_breakwater_in_the_background,_Port_of_Evdilos,_Ikaria,_Greece_julesvernex2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Sailing_boat_with_breakwater_in_the_background%2C_Port_of_Evdilos%2C_Ikaria%2C_Greece_julesvernex2.jpg/1280px-Sailing_boat_with_breakwater_in_the_background%2C_Port_of_Evdilos%2C_Ikaria%2C_Greece_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3956,
+      "hauteur": 5934
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Markilux planet.jpg",
+      "description": "Markisenschirm planet - Eine Kombination aus Markise und Sonnenschirm",
+      "categories": [
+        "Awnings",
+        "Self-published work",
+        "Green textiles"
+      ],
+      "auteur": "Schmitz-Werke Online",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Markilux_planet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Markilux_planet.jpg/1280px-Markilux_planet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3949,
+      "hauteur": 2633
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Collection- A. D. White Architectural Photographs, Cornell University Library (3678155201).jpg",
+      "description": "Collection : A. D. White Architectural Photographs, Cornell University Library Accession Number: 15/5/3090.00230 Title : Window detail Publisher: Bates, Kimball & Guild Photograph date: ca. 1893-ca. 1920 Location : North and Central America: United States; Massachusetts, Boston Materials : gelatin silver print Image: 6 1/4 x 8 1/8 in.; 15.875 x 20.6375 cm Provenance : Transfer from the College of Architecture, Art and Planning Persistent URI : http://hdl.handle.net/1813.001/5sdc There are no known U.S. copyright restrictions on this image. The digital file is owned by the Cornell University Li",
+      "categories": [
+        "Advertisements",
+        "Awnings",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Files with coordinates missing SDC location of creation",
+        "Unidentified advertisements",
+        "Corbel tables",
+        "Collection A. D. White Architectural Photographs",
+        "Skylights from outside"
+      ],
+      "auteur": "Cornell University Library",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Collection-_A._D._White_Architectural_Photographs,_Cornell_University_Library_(3678155201).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Collection-_A._D._White_Architectural_Photographs%2C_Cornell_University_Library_%283678155201%29.jpg/1280px-Collection-_A._D._White_Architectural_Photographs%2C_Cornell_University_Library_%283678155201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 1173
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:PVC, PVDF, PTFE car-parking-shade -shelter.jpg",
+      "description": "PVC, PVDF, PTFE membrane structures for car-parking-shade -shelter",
+      "categories": [
+        "Images with watermarks",
+        "Awnings",
+        "Car parks",
+        "Membrane structures",
+        "Polyvinylidene fluoride",
+        "Self-published work",
+        "Cities in unidentified countries"
+      ],
+      "auteur": "ETFE.CUSHION",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PVC,_PVDF,_PTFE_car-parking-shade_-shelter.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/PVC%2C_PVDF%2C_PTFE_car-parking-shade_-shelter.jpg/1280px-PVC%2C_PVDF%2C_PTFE_car-parking-shade_-shelter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1452,
+      "hauteur": 1090
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Jiufen (23672902943).jpg",
+      "description": "Jiufen",
+      "categories": [
+        "Awnings",
+        "Jiufen Old Street",
+        "Taiwan photographs taken on 2015-10-18",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Laika ac",
+        "Files with coordinates missing SDC location of creation",
+        "2015 photographs of New Taipei"
+      ],
+      "auteur": "Laika ac from UK",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jiufen_(23672902943).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jiufen_%2823672902943%29.jpg/1280px-Jiufen_%2823672902943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3133,
+      "hauteur": 4181
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

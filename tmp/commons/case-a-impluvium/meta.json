@@ -3,12 +3,23 @@
     "id": "case-a-impluvium",
     "terme": "la case à impluvium",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Grande habitation diola de Casamance dont le toit en entonnoir recueille l'eau de pluie au centre.",
+    "definition": "Grande habitation diola circulaire de Casamance, en banco, dont le toit en entonnoir recueille l'eau de pluie dans un bassin au centre de la cour intérieure.",
     "requetes": [
       "case à impluvium",
       "impluvium Casamance",
       "Enampore"
-    ]
+    ],
+    "requetes2": [
+      "case à impluvium Casamance",
+      "impluvium house Senegal",
+      "Enampor impluvium"
+    ],
+    "incompatibles": [
+      "case",
+      "tata-somba",
+      "ginna"
+    ],
+    "priorite": 3
   },
   "candidats": [
     {
@@ -139,6 +150,116 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Enampor-Impluvium2.jpg/1280px-Enampor-Impluvium2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2937,
       "hauteur": 2181
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:EnamporGrapefruit2.JPG",
+      "description": "Pamplemousses à Enampor (Casamance, Sénégal)",
+      "categories": [
+        "Citrus Paradisi group",
+        "Taken with Nikon Coolpix S500",
+        "Enampor",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EnamporGrapefruit2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/EnamporGrapefruit2.JPG/1280px-EnamporGrapefruit2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:EnamporToiture.JPG",
+      "description": "Charpente en bois de rônier (résistant aux termites) dans une case à impluvium à Enampor (Casamance, Sénégal)",
+      "categories": [
+        "Taken with Nikon Coolpix S500",
+        "Carpentry",
+        "Enampor",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EnamporToiture.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/EnamporToiture.JPG/1280px-EnamporToiture.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:EnamporCampement2.JPG",
+      "description": "Accès aux chambres dans la case à impluvium du campement villageois intégré d'Enampor (Casamance, Sénégal)",
+      "categories": [
+        "Taken with Nikon Coolpix S500",
+        "Enampor",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EnamporCampement2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/EnamporCampement2.JPG/1280px-EnamporCampement2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Enampor-Louches.jpg",
+      "description": "Louches en bois pour la consommation du vin de palme (Campement villageois d'Enampor, Casamance, Sénégal)",
+      "categories": [
+        "Taken with Nikon Coolpix S500",
+        "Palm wine",
+        "Diola",
+        "Ladles",
+        "Enampor",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Enampor-Louches.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Enampor-Louches.jpg/1280px-Enampor-Louches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:EnamporGrapefruit1.JPG",
+      "description": "Pamplemoussier à Enampor (Casamance, Sénégal)",
+      "categories": [
+        "Citrus Paradisi group",
+        "Taken with Nikon Coolpix S500",
+        "Enampor",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EnamporGrapefruit1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/EnamporGrapefruit1.JPG/1280px-EnamporGrapefruit1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:EnamporCampementVillageois.JPG",
+      "description": "Campement villageois intégré d'Enampor (Casamance, Sénégal)",
+      "categories": [
+        "Taken with Nikon Coolpix S500",
+        "Enampor",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EnamporCampementVillageois.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/EnamporCampementVillageois.JPG/1280px-EnamporCampementVillageois.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2084,
+      "hauteur": 1520
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

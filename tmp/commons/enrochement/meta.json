@@ -11,7 +11,9 @@
       "rock armour shore"
     ],
     "incompatibles": [
-      "talus"
+      "talus",
+      "gabion",
+      "mur-de-soutenement"
     ],
     "categoriesCommons": [
       "Category:Riprap",
@@ -221,6 +223,170 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Dwaraka_and_around_-_during_Dwaraka_DWARASPDB_2015_%28283%29.jpg/1280px-Dwaraka_and_around_-_during_Dwaraka_DWARASPDB_2015_%28283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:De zee met zeewering bij IJmuiden, Bestanddeelnr 189-0886.jpg",
+      "description": "Collectie / Archief : Fotocollectie Van de Poll Reportage / Serie : Reportage Noord-Holland Beschrijving : De zee met zeewering bij IJmuiden Datum : 1933 Locatie : IJmuiden, Noord-Holland, Noordzee Trefwoorden : zeeën Fotograaf : Poll, Willem van de, [onbekend] Auteursrechthebbende : Nationaal Archief Materiaalsoort : Glasnegatief Nummer archiefinventaris : bekijk toegang 2.24.14.02 Bestanddeelnummer : 189-0886",
+      "categories": [
+        "CC-Zero",
+        "Images from Nationaal Archief",
+        "Riprap",
+        "Photographs by Willem van de Poll in IJmuiden (1933)",
+        "Skipped Images from Nationaal Archief"
+      ],
+      "auteur": "Willem van de Poll",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:De_zee_met_zeewering_bij_IJmuiden,_Bestanddeelnr_189-0886.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/De_zee_met_zeewering_bij_IJmuiden%2C_Bestanddeelnr_189-0886.jpg/1280px-De_zee_met_zeewering_bij_IJmuiden%2C_Bestanddeelnr_189-0886.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2067,
+      "hauteur": 2739
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Lifebuoy-1020670, Dingle Peninsula, Co. Kerry, Ireland.jpg",
+      "description": "Lifebuoy on a beach, near Tralee Bay, with the mountain of Caherconree in the background.",
+      "categories": [
+        "Swimming in Ireland",
+        "Glacial erratics in Ireland",
+        "Emergency preparations in Ireland",
+        "Sand in Ireland",
+        "Tourist signs in the Republic of Ireland",
+        "Clouds and blue sky in Ireland",
+        "Vegetated dunes in Ireland",
+        "Yellow objects in Ireland",
+        "Caherconree",
+        "Sea rescue",
+        "Views from west",
+        "Dingle Way",
+        "Open water swimming",
+        "Slieve Mish Mountains",
+        "Tralee Bay",
+        "Lifebuoys in Ireland",
+        "February 2023 in Ireland",
+        "Old Red Sandstone in Ireland",
+        "Self-published work",
+        "Republic of Ireland photographs taken on 2023-02-25",
+        "Beaches in spring",
+        "Orange and yellow objects",
+        "Orange lifebuoys",
+        "Coastal dunes of Ireland",
+        "Intertidal boulder fields in Ireland",
+        "Spring in County Kerry",
+        "Footprints on sand",
+        "Rock beaches in the Republic of Ireland",
+        "2023 in County Kerry",
+        "Calamagrostis arenaria (habitat)",
+        "White clouds with blue sky background",
+        "JPG photos",
+        "Pentagonal objects",
+        "Light and shadow in nature",
+        "Clusters of glacial erratics",
+        "Beaches at low tide",
+        "Erosion at dunes",
+        "Lifebuoy signs",
+        "Rock armour",
+        "Old Red Sandstone boulders",
+        "Shadows of landforms",
+        "Striped ropes",
+        "Yellow plastic containers",
+        "Aughacasla Strand"
+      ],
+      "auteur": "Mucklagh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lifebuoy-1020670,_Dingle_Peninsula,_Co._Kerry,_Ireland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lifebuoy-1020670%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg/1280px-Lifebuoy-1020670%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Gundelfingen an der Donau - Münzmühle ab 1621 und 18-19.JH.JPG",
+      "description": "Gundelfingen an der Donau - Münzmühle ab 1621 und 18-19.",
+      "categories": [
+        "GFDL",
+        "Münzmühle (Gundelfingen an der Donau)",
+        "Brenz River",
+        "Embankments",
+        "License migration redundant",
+        "Cultural heritage monuments in Gundelfingen an der Donau",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Weirs in Bavaria"
+      ],
+      "auteur": "Franzfoto",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gundelfingen_an_der_Donau_-_M%C3%BCnzm%C3%BChle_ab_1621_und_18-19.JH.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Gundelfingen_an_der_Donau_-_M%C3%BCnzm%C3%BChle_ab_1621_und_18-19.JH.JPG/1280px-Gundelfingen_an_der_Donau_-_M%C3%BCnzm%C3%BChle_ab_1621_und_18-19.JH.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Dwaraka and around - during Dwaraka DWARASPDB 2015 (274).jpg",
+      "description": "Photos from Gujarat Vivekananda 2015",
+      "categories": [
+        "Uploaded with pattypan",
+        "Riprap",
+        "Self-published work",
+        "Dogs in Gujarat",
+        "Gomti River (Gujarat)",
+        "People of Dwarka",
+        "Camels in Dwarka",
+        "Animals of Dwarka"
+      ],
+      "auteur": "Vinayaraj",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dwaraka_and_around_-_during_Dwaraka_DWARASPDB_2015_(274).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Dwaraka_and_around_-_during_Dwaraka_DWARASPDB_2015_%28274%29.jpg/1280px-Dwaraka_and_around_-_during_Dwaraka_DWARASPDB_2015_%28274%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:High Quality Paths In Underwood Walmsley I.jpg",
+      "description": "Riverside railing at Underwood Park in Auckland , New Zealand . The agressively channelised stream to the left of the great new walk- and cycleway is what later becomes Oakley Creek .",
+      "categories": [
+        "Embankments",
+        "Oakley Creek",
+        "Self-published work",
+        "PD-self",
+        "Railings in New Zealand",
+        "Files with coordinates missing SDC location of creation",
+        "January 2011 New Zealand photographs",
+        "Waterbody railings",
+        "Photos taken by Ingolfson",
+        "Paths in Auckland Region",
+        "Bikeways in Auckland",
+        "January 2011 in Auckland",
+        "Underwood Park, Auckland"
+      ],
+      "auteur": "Ingolfson",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:High_Quality_Paths_In_Underwood_Walmsley_I.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/High_Quality_Paths_In_Underwood_Walmsley_I.jpg/1280px-High_Quality_Paths_In_Underwood_Walmsley_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:De zee met zeewering in IJmuiden, Bestanddeelnr 189-0890.jpg",
+      "description": "Collectie / Archief : Fotocollectie Van de Poll Reportage / Serie : Reportage Noord-Holland Beschrijving : De zee met zeewering in IJmuiden Datum : 1933 Locatie : IJmuiden, Noord-Holland, Noordzee Trefwoorden : zeeën Fotograaf : Poll, Willem van de, [onbekend] Auteursrechthebbende : Nationaal Archief Materiaalsoort : Glasnegatief Nummer archiefinventaris : bekijk toegang 2.24.14.02 Bestanddeelnummer : 189-0890",
+      "categories": [
+        "CC-Zero",
+        "Images from Nationaal Archief",
+        "Riprap",
+        "Photographs by Willem van de Poll in IJmuiden (1933)",
+        "Skipped Images from Nationaal Archief"
+      ],
+      "auteur": "Willem van de Poll",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:De_zee_met_zeewering_in_IJmuiden,_Bestanddeelnr_189-0890.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/De_zee_met_zeewering_in_IJmuiden%2C_Bestanddeelnr_189-0890.jpg/1280px-De_zee_met_zeewering_in_IJmuiden%2C_Bestanddeelnr_189-0890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2760,
+      "hauteur": 2073
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -11,7 +11,10 @@
       "valley gutter between roofs"
     ],
     "incompatibles": [
-      "gouttiere"
+      "gouttiere",
+      "boite-a-eau",
+      "descente-d-eaux-pluviales",
+      "egout-de-toit"
     ],
     "categoriesCommons": [
       "Category:Box gutters",
@@ -148,6 +151,129 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Miniature_Canyon_%28109912639%29.jpeg/1280px-Miniature_Canyon_%28109912639%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1440,
       "hauteur": 2048
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Werkzaamheden op dak - 's-Graveland - 20396502 - RCE.jpg",
+      "description": "Trompenburg: Werkzaamheden op dak",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Box gutters",
+        "Rijksmonumenten with known IDs",
+        "Buildings with addresses",
+        "Photographs by Ton van der Wal",
+        "Roofs in the Netherlands (structural systems)",
+        "Restoration of De Trompenburgh"
+      ],
+      "auteur": "A. J. van der Wal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Werkzaamheden_op_dak_-_%27s-Graveland_-_20396502_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Werkzaamheden_op_dak_-_%27s-Graveland_-_20396502_-_RCE.jpg/1280px-Werkzaamheden_op_dak_-_%27s-Graveland_-_20396502_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 3060
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Construction waste, Zichyújfalu 003.jpg",
+      "description": "Construction waste near Zichy Mansion in Zichyújfalu , Hungary.",
+      "categories": [
+        "Rain gutters",
+        "Zichy mansion in Zichyújfalu",
+        "Self-published work",
+        "Construction debris",
+        "Files with coordinates missing SDC location of creation",
+        "Waste in Zichyújfalu"
+      ],
+      "auteur": "四代目火影",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_waste,_Zichy%C3%BAjfalu_003.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Construction_waste%2C_Zichy%C3%BAjfalu_003.jpg/1280px-Construction_waste%2C_Zichy%C3%BAjfalu_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Iyke Medical and Superstore 02.jpg",
+      "description": "a pharmacy in Tudun Wada Narayi Kaduna",
+      "categories": [
+        "CC-Zero",
+        "Burglaries",
+        "Satellite dishes",
+        "Self-published work",
+        "Gutters",
+        "Tyap Wikimedians Celebrate Wikidata @13 with Training and Data-a-thon"
+      ],
+      "auteur": "Iciro Iciro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iyke_Medical_and_Superstore_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Iyke_Medical_and_Superstore_02.jpg/1280px-Iyke_Medical_and_Superstore_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Commercial Box Gutter.jpeg",
+      "description": "Installation of a commercial box gutter in South Florida.",
+      "categories": [
+        "Taken with Kodak EasyShare C875",
+        "Box gutters",
+        "Self-published work",
+        "Uploaded with en.wp upload wizard",
+        "Roof plumbing",
+        "Roofing gutters"
+      ],
+      "auteur": "Ethoseo",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Commercial_Box_Gutter.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Commercial_Box_Gutter.jpeg/1280px-Commercial_Box_Gutter.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Attached prop of Ichimura Memorial Gymnasium.jpg",
+      "description": "A long attached prop of Ichimura Memorial Gymnasium. It built as a pair of buttresses on both sides of the building, and it serves as rain gutter.",
+      "categories": [
+        "Rain gutters",
+        "Ichimura Memorial Gymnasium",
+        "Buttresses",
+        "Self-published work",
+        "Outside stairs in Saga prefecture",
+        "Files with coordinates missing SDC location of creation",
+        "Outdoor concrete stairs in Japan"
+      ],
+      "auteur": "Peka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Attached_prop_of_Ichimura_Memorial_Gymnasium.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Attached_prop_of_Ichimura_Memorial_Gymnasium.jpg/1280px-Attached_prop_of_Ichimura_Memorial_Gymnasium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3880,
+      "hauteur": 2910
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A gutter full of weed.jpg",
+      "description": "A gutter full of weed in Arewa House, Kaduna.",
+      "categories": [
+        "Flora of Nigeria",
+        "Self-published work",
+        "Gutters",
+        "Uploaded via Campaign:wle-ng",
+        "Images from Wiki Loves Earth 2024",
+        "Images from Wiki Loves Earth 2024 in Nigeria",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Images from Wiki Loves Earth 2024 Human Rights and Environment Special Nomination",
+        "Open sewers in Nigeria",
+        "Images from Wiki Loves Earth 2024 in the Hausa community"
+      ],
+      "auteur": "Halima Waziri",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_gutter_full_of_weed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/A_gutter_full_of_weed.jpg/1280px-A_gutter_full_of_weed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

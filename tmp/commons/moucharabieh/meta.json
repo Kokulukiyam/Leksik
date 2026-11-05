@@ -3,10 +3,18 @@
     "id": "moucharabieh",
     "terme": "le moucharabieh",
     "categorie": "Façade et ouvertures",
-    "definition": "Grillage de bois tourné à motifs, placé devant une fenêtre, qui permet de voir sans être vu.",
+    "definition": "Treillis de bois tourné, souvent en saillie devant une fenêtre, qui permet de voir sans être vu, typique de l'architecture arabe.",
     "requetes": [
       "incategory:\"Mashrabiya\"",
       "mashrabiya"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Mashrabiya"
+    ],
+    "incompatibles": [
+      "brise-soleil",
+      "treillage"
     ]
   },
   "candidats": [
@@ -125,6 +133,134 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Masjid_Imam_Bukhari.JPG/1280px-Masjid_Imam_Bukhari.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2304,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Arab School MET DP805928.jpg",
+      "description": "Drawing; Drawings",
+      "categories": [
+        "CC-Zero",
+        "John Frederick Lewis",
+        "Mashrabiya",
+        "Classes",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Anonymous Gift to the Metropolitan Museum of Art",
+        "Watercolor paintings in the Metropolitan Museum of Art",
+        "Paintings by John Frederick Lewis, date missing"
+      ],
+      "auteur": "John Frederick Lewis",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arab_School_MET_DP805928.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Arab_School_MET_DP805928.jpg/1280px-Arab_School_MET_DP805928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3670,
+      "hauteur": 2251
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Moucharabiehs 1.jpg",
+      "description": "Paris, musée du Louvre, département des Arts de l'Islam, legs de la baronne Marie Delort de Gléon, 1912, et Paris, musée du Louvre, département des Arts de l'Islam, dépôt du musée des Arts décoratifs, Paris, don baron Edmond James de Rothschild, 1920",
+      "categories": [
+        "Louvre Museum - Room 185",
+        "Decorative arts",
+        "Mashrabiya"
+      ],
+      "auteur": "Delphine Montagne",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moucharabiehs_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Moucharabiehs_1.jpg/1280px-Moucharabiehs_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:जहांगीर महल के किसी आंतरिक हिस्से का चित्र.jpg",
+      "description": "Ceci est une photo du monument archéologique indien ( ASI ) portant le numéro",
+      "categories": [
+        "Mashrabiya",
+        "Jahangir Mahal, Orchha",
+        "Images from Wiki Loves Monuments 2018",
+        "Self-published work",
+        "ASI monuments with known IDs",
+        "Uploaded via Campaign:wlm-in",
+        "Images from Wiki Loves Monuments 2018 in India",
+        "India photographs taken on 2016-06-19",
+        "Files from competitions organized by West Bengal Wikimedians User Group",
+        "Images from WLM 2018 India under review by Montage tool"
+      ],
+      "auteur": "Harsh Purwar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E0%A4%9C%E0%A4%B9%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%B0_%E0%A4%AE%E0%A4%B9%E0%A4%B2_%E0%A4%95%E0%A5%87_%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%80_%E0%A4%86%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%BF%E0%A4%95_%E0%A4%B9%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A5%87_%E0%A4%95%E0%A4%BE_%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%E0%A4%9C%E0%A4%B9%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%B0_%E0%A4%AE%E0%A4%B9%E0%A4%B2_%E0%A4%95%E0%A5%87_%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%80_%E0%A4%86%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%BF%E0%A4%95_%E0%A4%B9%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A5%87_%E0%A4%95%E0%A4%BE_%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0.jpg/1280px-%E0%A4%9C%E0%A4%B9%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%B0_%E0%A4%AE%E0%A4%B9%E0%A4%B2_%E0%A4%95%E0%A5%87_%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%80_%E0%A4%86%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%BF%E0%A4%95_%E0%A4%B9%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A5%87_%E0%A4%95%E0%A4%BE_%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Al-Shafi’i Endowment, Historic Jeddah, Saudi Arabia (2026).jpg",
+      "description": "Le Waqf Al-Shafi'i dans la ville historique de Djeddah (2026)",
+      "categories": [
+        "Old Jeddah",
+        "Mashrabiya",
+        "Endowment House",
+        "Template Unknown (author)",
+        "Mashrabiya in Saudi Arabia",
+        "2026 in Jeddah",
+        "Photos from Saudi Photos platform"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al-Shafi%E2%80%99i_Endowment,_Historic_Jeddah,_Saudi_Arabia_(2026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Al-Shafi%E2%80%99i_Endowment%2C_Historic_Jeddah%2C_Saudi_Arabia_%282026%29.jpg/1280px-Al-Shafi%E2%80%99i_Endowment%2C_Historic_Jeddah%2C_Saudi_Arabia_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4012,
+      "hauteur": 4520
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Birmingham Museum & Art Gallery - Industrial Gallery - Gift Shop sculpture - Mashrabiya (7103434457).jpg",
+      "description": "Parts of the Museum & Art Gallery I didn't take last time. Now on a Sunday, no school group upstairs! The Industrial Gallery. This is in the gift shop. It is a Mashrabiya Mashrabiya or Shanasheel (Arabic: مشربية or شناشيل‎) is the Arabic term given to a type of projecting oriel window enclosed with carved wood latticework located on the second storey of a building or higher, often lined with stained glass. The mashrabiy (sometimes shanshool or rushan) is an element of traditional Arabic architecture used since the middle ages up to the mid-20th century. It is mostly used on the street side of ",
+      "categories": [
+        "Mashrabiya",
+        "Collections of the Birmingham Museum and Art Gallery",
+        "Photographs by Elliott Brown",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Birmingham_Museum_%26_Art_Gallery_-_Industrial_Gallery_-_Gift_Shop_sculpture_-_Mashrabiya_(7103434457).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Birmingham_Museum_%26_Art_Gallery_-_Industrial_Gallery_-_Gift_Shop_sculpture_-_Mashrabiya_%287103434457%29.jpg/1280px-Birmingham_Museum_%26_Art_Gallery_-_Industrial_Gallery_-_Gift_Shop_sculpture_-_Mashrabiya_%287103434457%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:ابنیه متصل به کاخ مرمر-کاخ گلستان-39.jpg",
+      "description": "Ceci est une image d'un monument en Iran identifié ID",
+      "categories": [
+        "Mashrabiya",
+        "Emarat-e Badgir",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2016",
+        "Cultural heritage monuments in Iran with known IDs",
+        "Uploaded via Campaign:wlm-ir",
+        "Images from Wiki Loves Monuments 2016 in Iran",
+        "Images from Wiki Loves Monuments in Tehran",
+        "Golestan Palace in 2016",
+        "Iran photographs taken on 2016-07-10",
+        "Sub or new category needed (WikiProject Iran)",
+        "Stained-glass windows of Golestan Palace"
+      ],
+      "auteur": "Mrezazadehkhadem",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D8%A7%D8%A8%D9%86%DB%8C%D9%87_%D9%85%D8%AA%D8%B5%D9%84_%D8%A8%D9%87_%DA%A9%D8%A7%D8%AE_%D9%85%D8%B1%D9%85%D8%B1-%DA%A9%D8%A7%D8%AE_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-39.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/%D8%A7%D8%A8%D9%86%DB%8C%D9%87_%D9%85%D8%AA%D8%B5%D9%84_%D8%A8%D9%87_%DA%A9%D8%A7%D8%AE_%D9%85%D8%B1%D9%85%D8%B1-%DA%A9%D8%A7%D8%AE_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-39.jpg/1280px-%D8%A7%D8%A8%D9%86%DB%8C%D9%87_%D9%85%D8%AA%D8%B5%D9%84_%D8%A8%D9%87_%DA%A9%D8%A7%D8%AE_%D9%85%D8%B1%D9%85%D8%B1-%DA%A9%D8%A7%D8%AE_%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2809,
+      "hauteur": 2937
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

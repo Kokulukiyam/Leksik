@@ -1,0 +1,53 @@
+{
+  "termId": "tube-multicouche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros tubes noirs en polyéthylène empilés.",
+      "verdict": "rejetée",
+      "note": "Gros tubes PE, pas un multicouche.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tubes noirs préisolés en usine.",
+      "verdict": "rejetée",
+      "note": "Tubes de réseau, pas un multicouche.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Quatre tubes rouges vus par l'extrémité.",
+      "verdict": "rejetée",
+      "note": "Matériau non identifiable comme multicouche.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuyau de descente d'eau gelée contre un mur.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Raccords PVC gris (tés, brides) disposés au sol.",
+      "verdict": "rejetée",
+      "note": "Raccords PVC, pas un tube multicouche.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tunnel piéton en tôle ondulée.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

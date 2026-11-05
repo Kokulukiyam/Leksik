@@ -11,7 +11,8 @@
       "standard hook rebar"
     ],
     "incompatibles": [
-      "ferraillage"
+      "ferraillage",
+      "etrier"
     ],
     "categoriesCommons": [
       "Category:Rebar",
@@ -133,6 +134,138 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Bewehrungsstahl_Boden_Trogbauwerk.jpg/1280px-Bewehrungsstahl_Boden_Trogbauwerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5184,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Calculator for reinforced concrete, a multipurpose slide rule, 1920s - Science Museum, London - DSC05616.jpg",
+      "description": "Exhibit in the Science Museum, London, UK.",
+      "categories": [
+        "Reinforced concrete",
+        "CC-Zero",
+        "Self-published work",
+        "Computing exhibits in the Science Museum, London",
+        "Specialized slide rules"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calculator_for_reinforced_concrete,_a_multipurpose_slide_rule,_1920s_-_Science_Museum,_London_-_DSC05616.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg/1280px-Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4290,
+      "hauteur": 3235
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chandrashila temple.jpg",
+      "description": "Chandrashila is summit of the Tungnath . It literally means \"Moon Rock\". It is located at a height of about 4,000 metres (13,000 ft) above sea level. This peak provides a spectacular view of Himalayas,especially Nandadevi, Trisul, Kedar Peak, Bandarpunch and Chaukhamba peaks. There are various legends associated with this place. According to one of the popular legend, this is the place where Lord Rama meditated after defeating the demon-king Ravana. This is image of small temple of shiv at Chandrashila last end of peak .",
+      "categories": [
+        "Chandrashila",
+        "Rebar",
+        "Self-published work",
+        "Images from Wiki Loves Earth 2016 in India",
+        "Photographs of religious flags",
+        "Lingas in India",
+        "Uploaded via Campaign:wle-in",
+        "Images from Wiki Loves Earth 2016",
+        "India photographs taken on 2016-04-18",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Photographs of Hindu flags",
+        "Rock balancing in India"
+      ],
+      "auteur": "Rahul upreti",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chandrashila_temple.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Chandrashila_temple.jpg/1280px-Chandrashila_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:CEDEX - Exposición temporal - Hormigón armado en España 1893-1936 - Foto Juan Gimeno - 2010-04-23 1029 IMG 5150.jpg",
+      "description": "Fotografía: Juan Gimeno Ramallo Hormigón armado en España 1893-1936 Exposición temporal en la Sala Zuazo Arquerías Nuevos Ministerios Paseo de la Castellana 67, 28046 Madrid. Del 28 de enero al 25 de abril de 2010 ORGANIZACIÓN Ministerio de Fomento Centro de Estudios y Experimentación de Obras Públicas (CEDEX) Centro de Estudios Históricos de Obras Públicas y Urbanismo (CEHOPU) Ministro de Fomento José Blanco Secretario de Estado de planificación e infraestructuras Víctor Morlán Director del CEDEX Mariano Navas COMISARIADO Pedro Feduchi y Amaya Sáenz COMITÉ CIÉNTIFICO Joaquín Antuña, Antonio B",
+      "categories": [
+        "Reinforced concrete",
+        "Exhibitions",
+        "Arquerías de Nuevos Ministerios",
+        "Self-published work",
+        "Colorful signs",
+        "Not-inlined horizontal writing",
+        "Files with coordinates missing SDC location of creation",
+        "Engineering exhibitions",
+        "Temporary exhibitions at the Arquerías de Nuevos Ministerios",
+        "Hormigón armado en España 1893-1936"
+      ],
+      "auteur": "Juan Gimeno Ramallo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1029_IMG_5150.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1029_IMG_5150.jpg/1280px-CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1029_IMG_5150.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4007,
+      "hauteur": 2482
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Baustahl - construction steel.jpg",
+      "description": "für den monatlichen Wettbewerb",
+      "categories": [
+        "Rebar",
+        "Self-published work"
+      ],
+      "auteur": "E preininger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baustahl_-_construction_steel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Baustahl_-_construction_steel.jpg/1280px-Baustahl_-_construction_steel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4008,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:CEDEX - Exposición temporal - Hormigón armado en España 1893-1936 - Foto Juan Gimeno - 2010-04-23 1105 IMG 5219.jpg",
+      "description": "Fotografía: Juan Gimeno Ramallo Hormigón armado en España 1893-1936 Exposición temporal en la Sala Zuazo Arquerías Nuevos Ministerios Paseo de la Castellana 67, 28046 Madrid. Del 28 de enero al 25 de abril de 2010 ORGANIZACIÓN Ministerio de Fomento Centro de Estudios y Experimentación de Obras Públicas (CEDEX) Centro de Estudios Históricos de Obras Públicas y Urbanismo (CEHOPU) Ministro de Fomento José Blanco Secretario de Estado de planificación e infraestructuras Víctor Morlán Director del CEDEX Mariano Navas COMISARIADO Pedro Feduchi y Amaya Sáenz COMITÉ CIÉNTIFICO Joaquín Antuña, Antonio B",
+      "categories": [
+        "Reinforced concrete",
+        "Exhibitions",
+        "Arquerías de Nuevos Ministerios",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Engineering exhibitions",
+        "Temporary exhibitions at the Arquerías de Nuevos Ministerios",
+        "Hormigón armado en España 1893-1936"
+      ],
+      "auteur": "Juan Gimeno Ramallo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1105_IMG_5219.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1105_IMG_5219.jpg/1280px-CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1105_IMG_5219.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2831,
+      "hauteur": 4225
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A bunch of rebar up close.jpg",
+      "description": "Closeup of straight rebar at a construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Rebar",
+        "Linear perspective",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Featured pictures of Lysekil Municipality",
+        "Featured pictures of objects in Sweden",
+        "Featured pictures taken with compact digital camera",
+        "Rusty construction materials",
+        "Images by W.carter, my own favorites",
+        "Abandoned granite quarry of Rixö, Sweden",
+        "Reused images by W.carter",
+        "Featured pictures by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_bunch_of_rebar_up_close.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/A_bunch_of_rebar_up_close.jpg/1280px-A_bunch_of_rebar_up_close.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3171,
+      "hauteur": 1953
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

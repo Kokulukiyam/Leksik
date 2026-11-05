@@ -124,6 +124,108 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Antalya_-_Dachziegel.jpg/1280px-Antalya_-_Dachziegel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1600,
       "hauteur": 1200
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Ceramicthairooftileskjfmartin.JPG",
+      "description": "Brightly coloured traditional Thai roof tiles, Bangkok, Thailand",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Roof tiles",
+        "Self-published work",
+        "Roofs in Thailand",
+        "Temple architecture of Thailand"
+      ],
+      "auteur": "Kjfmartin",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramicthairooftileskjfmartin.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ceramicthairooftileskjfmartin.JPG/1280px-Ceramicthairooftileskjfmartin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Ceramidi.jpg",
+      "description": "",
+      "categories": [
+        "Taken with HP PhotoSmart R507",
+        "Roof tiles",
+        "Media lacking a description",
+        "License migration completed",
+        "GFDL-en"
+      ],
+      "auteur": "Original téléversé par 4gbtione sur Wikipédia italien .",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramidi.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Ceramidi.jpg/1280px-Ceramidi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Dakpan achterzijde - Unknown - 20317991 - RCE.jpg",
+      "description": "Diversen: dakpan achterzijde",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Roof tiles",
+        "Photographs by A.H.C. Schollen"
+      ],
+      "auteur": "Ton Schollen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dakpan_achterzijde_-_Unknown_-_20317991_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Dakpan_achterzijde_-_Unknown_-_20317991_-_RCE.jpg/1280px-Dakpan_achterzijde_-_Unknown_-_20317991_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3054,
+      "hauteur": 3066
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Dachpfannen in Asendorf 003.JPG",
+      "description": "spanische Dachpfannen",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "GPL",
+        "Roof tiles"
+      ],
+      "auteur": "Syker Fotograf",
+      "licence": "GPL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannen_in_Asendorf_003.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Dachpfannen_in_Asendorf_003.JPG/1280px-Dachpfannen_in_Asendorf_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Dachpfannenprofil produktion.jpg",
+      "description": "Dachpfannenprofil das aus der Rollformanlage kommt",
+      "categories": [
+        "Roof tiles",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "HNB Nordbleche GmbH",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannenprofil_produktion.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Dachpfannenprofil_produktion.jpg/1280px-Dachpfannenprofil_produktion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:BesserKircheD2a.jpg",
+      "description": "Besser Kirke attic stairs bells vaults - roof tiles",
+      "categories": [
+        "CC-Zero",
+        "Roof tiles",
+        "Self-published work",
+        "Besser Kirke attic stairs bells vaults"
+      ],
+      "auteur": "Christoph Rieder",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BesserKircheD2a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/BesserKircheD2a.jpg/1280px-BesserKircheD2a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2271,
+      "hauteur": 1702
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

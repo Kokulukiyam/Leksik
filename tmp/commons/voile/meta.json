@@ -4,7 +4,7 @@
     "terme": "le voile",
     "categorie": "Structure",
     "definition": "Mur porteur en béton armé, coulé entre des banches.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "reinforced concrete shear wall",
       "voile béton armé",
@@ -12,6 +12,10 @@
     ],
     "incompatibles": [
       "mur-porteur"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete walls",
+      "Category:Reinforced concrete"
     ]
   },
   "candidats": [
@@ -134,6 +138,131 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Trump_Towers%2C_NYC_%2818780647148%29.jpg/1280px-Trump_Towers%2C_NYC_%2818780647148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4592,
       "hauteur": 1918
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:2025-02-09 Wall with broken glass at Titsian Tabidze 1st Lane.jpg",
+      "description": "Wall with broken glass as an anti-climb measure at Titsian Tabidze 1st Lane in Tbilisi",
+      "categories": [
+        "Broken glass",
+        "Self-published work",
+        "Concrete walls",
+        "Taken on missing SDC inception",
+        "Files with coordinates missing SDC location of creation",
+        "Anti-climb",
+        "2025 in Tbilisi",
+        "Walls in Georgia (country)",
+        "Georgia (country) photographs taken on 2025-02-09",
+        "Taken with Samsung Galaxy A06",
+        "Photographs by Yuri Samoylov taken on 2025-02-09",
+        "Titsian Tabidze 1st Lane, Tbilisi"
+      ],
+      "auteur": "Yuri Samoylov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-02-09_Wall_with_broken_glass_at_Titsian_Tabidze_1st_Lane.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-02-09_Wall_with_broken_glass_at_Titsian_Tabidze_1st_Lane.jpg/1280px-2025-02-09_Wall_with_broken_glass_at_Titsian_Tabidze_1st_Lane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2720,
+      "hauteur": 1645
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Amboise 06.JPG",
+      "description": "Aciers apparents sur le bâtiment de l'hôtel de ville.",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Nikon Coolpix P310",
+        "Carbonatation",
+        "Town hall of Amboise",
+        "Self-published work"
+      ],
+      "auteur": "Abujoy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amboise_06.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Amboise_06.JPG/1280px-Amboise_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Embossed concrete wall.jpg",
+      "description": "Concrete wall with concrete reliefs and embossed textures. Located outside Union Station , Downtown Los Angeles, California.",
+      "categories": [
+        "Taken with Canon PowerShot G10",
+        "Union Station (Los Angeles)",
+        "Walls in California",
+        "Self-published work",
+        "Concrete textures",
+        "Concrete walls",
+        "Decorated walls",
+        "Concrete reliefs in the United States"
+      ],
+      "auteur": "Downtowngal",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Embossed_concrete_wall.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Embossed_concrete_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1260,
+      "hauteur": 754
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Armatura plinto ponte.jpg",
+      "description": "Getto in alveo fluviale del plinto di fondazione di un ponte ferroviario",
+      "categories": [
+        "Reinforced concrete",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Logudro",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armatura_plinto_ponte.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Armatura_plinto_ponte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Gold Creek Dam un-reinforced concrete stepped spillway.jpg",
+      "description": "The Gold Creek Dam is an earth-fill embankment dam with an un-gated spillway across the Gold Creek that is located in the South East region of Queensland, Australia. Also known as Gold Creek Reservoir or Gold Creek Reserve. This is the un-reinforced concrete stepped spillway, the first in the world.",
+      "categories": [
+        "Gold Creek Dam",
+        "Self-published work",
+        "Concrete walls",
+        "Trees in Queensland",
+        "Spillways in Australia",
+        "Standing men in Australia",
+        "Looking up"
+      ],
+      "auteur": "JulieMay54",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gold_Creek_Dam_un-reinforced_concrete_stepped_spillway.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Gold_Creek_Dam_un-reinforced_concrete_stepped_spillway.jpg/1280px-Gold_Creek_Dam_un-reinforced_concrete_stepped_spillway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 900
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 06.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "Formwork",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_06.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

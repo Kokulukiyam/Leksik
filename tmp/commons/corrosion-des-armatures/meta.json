@@ -94,6 +94,47 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Qew_bruecke_nf_beton_kaputt_34_von_46.jpg/1280px-Qew_bruecke_nf_beton_kaputt_34_von_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4608,
       "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Qew bruecke nf beton kaputt 33 von 46.jpg",
+      "description": "This is one of a series of 46 pictures, which compares two bridges. The first bridge, (pictures 1 – 45) is part of the Canadian freeway QEW (Queen Elizabeth Way), crossing a river and “Oakwood Drive” in Niagara Falls, Ontario, Canada. The second bridge (picture 46) crosses a canal inside the City of Amsterdam, Netherlands. The structural steel and concrete of the Canadian bridge are in a state of corrosion. The bridge is rotting. The Dutch bridge is unharmed. The Canadian bridge has already had restoration work done on it. However, the restoration work has apparently not eliminated the causes ",
+      "categories": [
+        "Reinforced concrete",
+        "Retouched pictures",
+        "Self-published work",
+        "Queen Elizabeth Way bridge over the Welland River",
+        "2012 in Niagara Falls, Ontario",
+        "July 2012 in Ontario",
+        "Concrete restoration"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Qew_bruecke_nf_beton_kaputt_33_von_46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Qew_bruecke_nf_beton_kaputt_33_von_46.jpg/1280px-Qew_bruecke_nf_beton_kaputt_33_von_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Qew bruecke nf beton kaputt 23 von 46.jpg",
+      "description": "This is one of a series of 46 pictures, which compares two bridges. The first bridge, (pictures 1 – 45) is part of the Canadian freeway QEW (Queen Elizabeth Way), crossing a river and “Oakwood Drive” in Niagara Falls, Ontario, Canada. The second bridge (picture 46) crosses a canal inside the City of Amsterdam, Netherlands. The structural steel and concrete of the Canadian bridge are in a state of corrosion. The bridge is rotting. The Dutch bridge is unharmed. The Canadian bridge has already had restoration work done on it. However, the restoration work has apparently not eliminated the causes ",
+      "categories": [
+        "Reinforced concrete",
+        "Self-published work",
+        "Queen Elizabeth Way bridge over the Welland River",
+        "2012 in Niagara Falls, Ontario",
+        "July 2012 in Ontario",
+        "Concrete restoration"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Qew_bruecke_nf_beton_kaputt_23_von_46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Qew_bruecke_nf_beton_kaputt_23_von_46.jpg/1280px-Qew_bruecke_nf_beton_kaputt_23_von_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2758
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

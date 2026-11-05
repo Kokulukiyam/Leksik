@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Cosne, France",
       "note": "Détail de commande, machine non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bras bleu de pompe à béton déployé derrière une clôture de chantier, sur fond de charpente métallique.",
+      "verdict": "rejetée",
+      "note": "Engin partiellement caché, petit ; inscription 'Concrete Pump' lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Badauds regardant un bétonnage de pont avec bras de pompes au loin.",
+      "verdict": "rejetée",
+      "note": "Pompes trop petites, personnes au premier plan.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Camion pompe à béton blanc, flèche repliée, vu de l'arrière sur terrain vague.",
+      "verdict": "rejetée",
+      "lieu": "Koweït",
+      "note": "Inscription 'Concrete Pump' visible qui donne la réponse ; photo médiocre ; deux validées déjà.",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Compartiment moteur ouvert avec flexibles hydrauliques.",
+      "verdict": "rejetée",
+      "note": "Détail mécanique non identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bras bleu de pompe à béton au loin au-dessus d'un tablier de pont en coffrage.",
+      "verdict": "rejetée",
+      "note": "Engin trop petit et lointain.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trémie et tuyauterie d'une pompe à béton alimentée par une toupie.",
+      "verdict": "rejetée",
+      "note": "Détail de trémie confus, pas l'engin.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

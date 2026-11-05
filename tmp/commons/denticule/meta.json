@@ -13,7 +13,9 @@
     "incompatibles": [
       "corniche",
       "modillon",
-      "moulure"
+      "moulure",
+      "bandeau",
+      "chapiteau-ionique"
     ],
     "categoriesCommons": [
       "Category:Dentils",
@@ -154,6 +156,149 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Bamondas_mukherjee_house.jpg/1280px-Bamondas_mukherjee_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4325,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Border (possibly France), 1840 (CH 18559229-2).jpg",
+      "description": "Simulation of a cornice resting upon medallions, with ogee and bead-and-reel mouldings below. The soffit of the cornice, and the medallions, are rendered in perspective, as seen from below. Printed in browns, yellow, white and red. Browns, yellow, white and red.",
+      "categories": [
+        "1840 works",
+        "Dentils",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "Artworks with known accession number",
+        "Template Unknown (artist)",
+        "CC-PD-Mark",
+        "Artworks of France in the Cooper–Hewitt, Smithsonian Design Museum",
+        "Wallcoverings in the Cooper–Hewitt, Smithsonian Design Museum",
+        "Neoclassical wallpapers",
+        "1840s wallpapers",
+        "Border (wallpaper)"
+      ],
+      "auteur": "Artiste inconnu Unknown artist",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Border_(possibly_France),_1840_(CH_18559229-2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Border_%28possibly_France%29%2C_1840_%28CH_18559229-2%29.jpg/1280px-Border_%28possibly_France%29%2C_1840_%28CH_18559229-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4095,
+      "hauteur": 1352
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Band Cornice at the UP factory in Horka-Domky, Třebíč, Třebíč District.jpg",
+      "description": "Band cornice at the UP factory in Třebíč.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "UP factory (Třebíč)",
+        "Cornices",
+        "License migration redundant",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Frettie",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Band_Cornice_at_the_UP_factory_in_Horka-Domky,_T%C5%99eb%C3%AD%C4%8D,_T%C5%99eb%C3%AD%C4%8D_District.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Band_Cornice_at_the_UP_factory_in_Horka-Domky%2C_T%C5%99eb%C3%AD%C4%8D%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg/1280px-Band_Cornice_at_the_UP_factory_in_Horka-Domky%2C_T%C5%99eb%C3%AD%C4%8D%2C_T%C5%99eb%C3%AD%C4%8D_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Tandsnitt 2005.jpg",
+      "description": "\"Tandsnitt\" på en byggnad vid Huvudsta gård i Solna, Sverige.",
+      "categories": [
+        "Taken with Konica Minolta Dimage X50",
+        "Huvudsta gård",
+        "Dentils",
+        "Self-published work",
+        "2005 in Solna",
+        "2005 photographs",
+        "Photographs by Holger Ellgaard",
+        "Bare trees in Stockholm"
+      ],
+      "auteur": "Holger Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tandsnitt_2005.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tandsnitt_2005.jpg/1280px-Tandsnitt_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1814,
+      "hauteur": 1112
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:IglesiaAsunciónLantadilla 004.JPG",
+      "description": "Detail of the original gothic cornice at church of La Asución in Lantadilla (Palencia, Castile and León). This church is almost entirely of Gothic style, although it has some Renaissance as the presbytery and the herrerian portico, which has a sculpture in stone of the assumption of our Lady which dates from the year 1646 influence. The building consists of three naves separated by six columns, each of which is different from the others, as happens with the 10 bóbedas that exist on the roof of the ships, detail it that there is no knowledge that occurs in any other building of this type. The t",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A80",
+        "Cornices",
+        "License migration redundant",
+        "Self-published work",
+        "Photos by User:Valdavia",
+        "Church of La Asunción (Lantadilla)"
+      ],
+      "auteur": "Valdavia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:IglesiaAsunci%C3%B3nLantadilla_004.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/IglesiaAsunci%C3%B3nLantadilla_004.JPG/1280px-IglesiaAsunci%C3%B3nLantadilla_004.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Stroud Subscription Rooms portico view 01b.jpg",
+      "description": "View south-west towards The Butts from the portico of Stroud Subscription Rooms at Stroud , Gloucestershire , England. Camera : Canon EOS 6D Mark II with Canon EF 24-105mm F4L IS USM lens. Software : RAW file lens-corrected, optimized and downsized with DxO PhotoLab 4 Elite , and Adobe Photoshop CS2 . Default has been sorted to time when taken, to maintain sequence in a large group of allied photos showing progression.",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Corner stones",
+        "Views from roofs",
+        "Images with annotations",
+        "Dentils",
+        "Subscription Rooms, Stroud, Gloucestershire",
+        "Self-published work",
+        "Summer in Gloucestershire",
+        "Buildings in the United Kingdom photographed in 2021",
+        "July 2021 in Gloucestershire",
+        "United Kingdom photographs taken on 2021-07-05",
+        "Files with coordinates missing SDC location of creation (51° N, 3° W)",
+        "Acabashi photos: buildings in Gloucestershire",
+        "Clouds in Gloucestershire"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stroud_Subscription_Rooms_portico_view_01b.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Stroud_Subscription_Rooms_portico_view_01b.jpg/1280px-Stroud_Subscription_Rooms_portico_view_01b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5347,
+      "hauteur": 3008
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ливадийский дворец 003.jpg",
+      "description": "Neoclassical portal, cornice, and facade, the Livadiya Palace in Yalta, Crimea, Ukraine.",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus C-740UZ",
+        "Livadiya palace",
+        "Architraves",
+        "Cornices",
+        "License migration redundant",
+        "Self-published work",
+        "Photos, created by Andrew Butko in Yalta",
+        "Photos, created by Andrew Butko with Olympus Camedia C-740 Ultra Zoom",
+        "Neoclassical portals",
+        "Portals in Crimea",
+        "Photos, created by Andrew Butko uncategorised by topic",
+        "Photos, created by Andrew Butko uncategorised by year"
+      ],
+      "auteur": "Andrey Butko",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D0%B2%D0%B0%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_003.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%9B%D0%B8%D0%B2%D0%B0%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_003.jpg/1280px-%D0%9B%D0%B8%D0%B2%D0%B0%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

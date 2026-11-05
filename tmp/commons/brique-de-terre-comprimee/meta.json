@@ -12,7 +12,9 @@
     ],
     "incompatibles": [
       "brique",
-      "banco"
+      "banco",
+      "pise",
+      "bauge"
     ],
     "categoriesCommons": [
       "Category:Compressed earth blocks"
@@ -113,6 +115,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Production_de_BTC_%C3%A0_Port_au_Prince_%282%29.jpg/1280px-Production_de_BTC_%C3%A0_Port_au_Prince_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4288,
       "hauteur": 3216
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Production de BTC à Port au Prince (1).jpg",
+      "description": "Fabrique de CSEB( compressed stabilized Earth Block) en utilisant une presse manuelle",
+      "categories": [
+        "Compressed earth blocks",
+        "Self-published work"
+      ],
+      "auteur": "ProjetQuisqueya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Production_de_BTC_%C3%A0_Port_au_Prince_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Production_de_BTC_%C3%A0_Port_au_Prince_%281%29.jpg/1280px-Production_de_BTC_%C3%A0_Port_au_Prince_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Cebhomes.jpg",
+      "description": "This is a picture I took while building a CEB project in Midland Texas August 2006. The first house walls were up and the second was in progress. We were using the local Chalk/decomposed limestone subsoil of the area without modification except hydration. signed--Dan Powell",
+      "categories": [
+        "Taken with Olympus C-700UZ",
+        "Midland, Texas",
+        "Files with no machine-readable source",
+        "Houses in Texas",
+        "Compressed earth blocks",
+        "Self-published work",
+        "PD-self",
+        "Assumed own work",
+        "Building construction in the United States",
+        "August 2006 in Texas",
+        "United States photographs taken on 2006-07-27",
+        "Limestone (building material)"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Kr58uc~commonswiki (étant donné la revendication de droit d’auteur).",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cebhomes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Cebhomes.jpg/1280px-Cebhomes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Tool to make Compressed Stabilized Earth Blocks in Govardhan Ecovillage.JPG",
+      "description": "Tool to make Compressed Stabilized Earth Blocks in Govardhan Ecovillage",
+      "categories": [
+        "Taken with Canon PowerShot A495",
+        "Rammed earth",
+        "Govardhan Ecovillage",
+        "Self-published work"
+      ],
+      "auteur": "Tdas14",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tool_to_make_Compressed_Stabilized_Earth_Blocks_in_Govardhan_Ecovillage.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Tool_to_make_Compressed_Stabilized_Earth_Blocks_in_Govardhan_Ecovillage.JPG/1280px-Tool_to_make_Compressed_Stabilized_Earth_Blocks_in_Govardhan_Ecovillage.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Reunion familliale dans une concession bamiléké au Cameroun.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Bamileke",
+        "Self-published work",
+        "Families of Cameroon",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Cameroon"
+      ],
+      "auteur": "Mndetatsin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Reunion_familliale_dans_une_concession_bamil%C3%A9k%C3%A9_au_Cameroun.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Reunion_familliale_dans_une_concession_bamil%C3%A9k%C3%A9_au_Cameroun.jpg/1280px-Reunion_familliale_dans_une_concession_bamil%C3%A9k%C3%A9_au_Cameroun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Une maison en brique de terre.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "West Region, Cameroon",
+        "Self-published work",
+        "Houses in Cameroon",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Cameroon",
+        "Brick houses",
+        "Mudbricks in Cameroon",
+        "Homes in Cameroon"
+      ],
+      "auteur": "Mndetatsin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Une_maison_en_brique_de_terre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Une_maison_en_brique_de_terre.jpg/1280px-Une_maison_en_brique_de_terre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2nd CEB, Charlie Co.jpg",
+      "description": "2nd CEB, Charlie Co",
+      "categories": [
+        "Self-published work",
+        "2nd CEB, Charlie Co"
+      ],
+      "auteur": "Jjletcavage",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2nd_CEB,_Charlie_Co.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/2nd_CEB%2C_Charlie_Co.jpg/1280px-2nd_CEB%2C_Charlie_Co.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1786,
+      "hauteur": 1850
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

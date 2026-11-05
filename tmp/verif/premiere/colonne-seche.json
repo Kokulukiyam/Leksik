@@ -1,0 +1,53 @@
+{
+  "termId": "colonne-seche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Trappe métallique blanche portant 'Ús exclusiu bombers' dans une façade à Barcelone.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Prise cachée derrière une porte, aucune prise visible ; texte donnant la réponse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessin technique d'une clé pour bouches d'incendie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Trois raccords de pompiers en façade avec plaques 'COLONNE SECHE 2/3/4'.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lille, France",
+      "note": "Plaques affichant le terme : texte donnant la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bouche d'incendie sur pied (hydrant) en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hydrant/poteau d'incendie, pas une colonne sèche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plaque murale japonaise avec six raccords de pompiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Raccords d'alimentation de sprinklers, texte japonais, ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hydrant rouge dans l'herbe à Bucarest.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bucarest, Roumanie",
+      "note": "Poteau d'incendie, terme incompatible."
+    }
+  ]
+}

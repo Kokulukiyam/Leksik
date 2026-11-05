@@ -7,6 +7,16 @@
     "requetes": [
       "deepcat:\"Pinnacles\"",
       "gothic pinnacles"
+    ],
+    "requetes2": [
+      "gothic pinnacle buttress",
+      "pinacles gothiques",
+      "pinnacle crockets cathedral"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Pinnacles",
+      "Category:Pinnacles in France"
     ]
   },
   "candidats": [
@@ -178,6 +188,126 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Site_des_Orgues_016.jpg/1280px-Site_des_Orgues_016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5680,
       "hauteur": 3928
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Meeqvse skola.jpg",
+      "description": "მეექვსე საავტორო სკოლის შენობის ფრაგმენტი",
+      "categories": [
+        "Pinnacles",
+        "Self-published work",
+        "Building ornaments in Georgia (country)",
+        "2019 in Tbilisi",
+        "Buildings in Georgia (country) photographed in 2019",
+        "Georgia (country) photographs taken on 2019-04-13",
+        "Architectural elements in Tbilisi",
+        "Former Ananov's Finishing School building"
+      ],
+      "auteur": "Farsmanqveli",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Meeqvse_skola.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Meeqvse_skola.jpg/1280px-Meeqvse_skola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bordeaux Cathedrale St Andre gargouilles.jpg",
+      "description": "Gargoyles of Saint-André Cathedral in Bordeaux, France.",
+      "categories": [
+        "Taken with Canon EOS 20D",
+        "Exterior of Cathédrale Saint-André de Bordeaux",
+        "Pinnacles in France",
+        "Gargoyles in Bordeaux",
+        "January 2005 in Bordeaux"
+      ],
+      "auteur": "Olivier Aumage",
+      "licence": "CC BY-SA 2.0 fr",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bordeaux_Cathedrale_St_Andre_gargouilles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bordeaux_Cathedrale_St_Andre_gargouilles.jpg/1280px-Bordeaux_Cathedrale_St_Andre_gargouilles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2336,
+      "hauteur": 3504
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:013 Le Tréhou Clocher et pinacle église paroissiale.JPG",
+      "description": "Le Tréhou : clocher et pinacle de l'église paroissiale Sainte-Pitère",
+      "categories": [
+        "Église paroissiale Sainte-Pitère du Tréhou",
+        "Taken with Panasonic Lumix DMC-TZ7",
+        "Pinnacles",
+        "Self-published work",
+        "Church towers in Finistère"
+      ],
+      "auteur": "Moreau.henri",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:013_Le_Tr%C3%A9hou_Clocher_et_pinacle_%C3%A9glise_paroissiale.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/013_Le_Tr%C3%A9hou_Clocher_et_pinacle_%C3%A9glise_paroissiale.JPG/1280px-013_Le_Tr%C3%A9hou_Clocher_et_pinacle_%C3%A9glise_paroissiale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bourg-en-Bresse - Monastère de Brou - Église Saint-Nicolas-de-Tolentin - Clocher - Grand pinacle.JPG",
+      "description": "Clocher : grand pinacle.",
+      "categories": [
+        "CC-Zero",
+        "Pinnacles in France",
+        "Self-published work",
+        "Auvergne-Rhône-Alpes photographs taken on 2022-08-08",
+        "Uploaded with PyCommonist",
+        "Church tower of église Saint-Nicolas-de-Tolentin de Brou",
+        "August 2022 in Bourg-en-Bresse"
+      ],
+      "auteur": "Romainbehar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bourg-en-Bresse_-_Monast%C3%A8re_de_Brou_-_%C3%89glise_Saint-Nicolas-de-Tolentin_-_Clocher_-_Grand_pinacle.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bourg-en-Bresse_-_Monast%C3%A8re_de_Brou_-_%C3%89glise_Saint-Nicolas-de-Tolentin_-_Clocher_-_Grand_pinacle.JPG/1280px-Bourg-en-Bresse_-_Monast%C3%A8re_de_Brou_-_%C3%89glise_Saint-Nicolas-de-Tolentin_-_Clocher_-_Grand_pinacle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Pinnacles of Matthias Church, 2016 Budapest.jpg",
+      "description": ": Pinnacles of Matthias Church . - Várnegyed neighbourhood, Budapest District I .",
+      "categories": [
+        "Pinnacles",
+        "Self-published work",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Sculptures in Budapest District I",
+        "Files with coordinates missing SDC location of creation",
+        "February 2016 in Budapest",
+        "Roofs of Matthias Church, Budapest",
+        "Sculptures of stars"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pinnacles_of_Matthias_Church,_2016_Budapest.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pinnacles_of_Matthias_Church%2C_2016_Budapest.jpg/1280px-Pinnacles_of_Matthias_Church%2C_2016_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bourg-en-Bresse - Monastère de Brou - Église Saint-Nicolas-de-Tolentin - Façade nord - Pinacle animalier gauche.JPG",
+      "description": "Façade nord : pinacle animalier gauche.",
+      "categories": [
+        "CC-Zero",
+        "Pinnacles in France",
+        "Self-published work",
+        "Auvergne-Rhône-Alpes photographs taken on 2022-08-08",
+        "Uploaded with PyCommonist",
+        "Exterior of église Saint-Nicolas-de-Tolentin de Brou - North façade",
+        "August 2022 in Bourg-en-Bresse"
+      ],
+      "auteur": "Romainbehar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bourg-en-Bresse_-_Monast%C3%A8re_de_Brou_-_%C3%89glise_Saint-Nicolas-de-Tolentin_-_Fa%C3%A7ade_nord_-_Pinacle_animalier_gauche.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Bourg-en-Bresse_-_Monast%C3%A8re_de_Brou_-_%C3%89glise_Saint-Nicolas-de-Tolentin_-_Fa%C3%A7ade_nord_-_Pinacle_animalier_gauche.JPG/1280px-Bourg-en-Bresse_-_Monast%C3%A8re_de_Brou_-_%C3%89glise_Saint-Nicolas-de-Tolentin_-_Fa%C3%A7ade_nord_-_Pinacle_animalier_gauche.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

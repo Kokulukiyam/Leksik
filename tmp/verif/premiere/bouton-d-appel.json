@@ -1,0 +1,58 @@
+{
+  "termId": "bouton-d-appel",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tableau de boutons de cabine d'ascenseur (étages 1 à 37).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Australie",
+      "note": "Boutons de cabine, pas le bouton d'appel de palier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gaine vitrée d'ascenseurs dans un atrium de paquebot.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Turku, Finlande",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Armoire électrique bleue de commande d'ascenseur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ancienne plaque métallique à boutons noirs, avec plaque gravée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alexandrie, Égypte",
+      "note": "Panneau de cabine, texte visible, ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Palier de trois ascenseurs avec plaque de boutons d'appel à côté d'une porte.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.685,
+        "y": 0.32,
+        "largeur": 0.055,
+        "hauteur": 0.14
+      },
+      "lieu": "",
+      "note": "Plaque d'appel de palier bien encadrée ; assez petite."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneau de commande de cabine à boutons décalés avec Braille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saalbach, Autriche",
+      "note": "Panneau de cabine, pas de palier."
+    }
+  ]
+}

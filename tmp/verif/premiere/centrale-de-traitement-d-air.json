@@ -1,0 +1,63 @@
+{
+  "termId": "centrale-de-traitement-d-air",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne sépia d'une tour de ventilation en brique avec un groupe de personnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zurich, Suisse",
+      "note": "Ancienne photo, tour et non un caisson de traitement d'air."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grand caisson inox extérieur avec cheminée et conduits, bungalows autour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, États-Unis",
+      "note": "Caisson industriel extérieur, moins typique et peu clair."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même caisson inox extérieur vu de côté avec cheminée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, États-Unis",
+      "note": "Même doute que 02."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Local technique avec caisson bleu de centrale de traitement d'air sous un réseau de gaines isolées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.6,
+        "largeur": 0.92,
+        "hauteur": 0.35
+      },
+      "lieu": "Brisbane, Australie",
+      "note": "Caisson modulaire bleu net, rectangle sur la centrale (pas les gaines)."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Même local technique avec caisson bleu, plan plus large.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brisbane, Australie",
+      "note": "Même scène que 04, une seule photo gardée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grande centrale de traitement d'air modulaire turquoise à portes de visite et hublots dans un local technique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.18,
+        "largeur": 0.72,
+        "hauteur": 0.68
+      },
+      "lieu": "Baden, Suisse",
+      "note": "Centrale typique et nette, rectangle sur le caisson."
+    }
+  ]
+}

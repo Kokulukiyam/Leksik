@@ -12,7 +12,12 @@
     ],
     "incompatibles": [
       "balcon",
-      "garde-corps"
+      "garde-corps",
+      "garde-corps-vitre",
+      "garde-corps-a-barreaudage",
+      "garde-corps-maconne",
+      "garde-corps-a-lisses",
+      "garde-corps-a-cables"
     ],
     "categoriesCommons": [
       "Category:Balconies",
@@ -148,6 +153,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Baitul_Mokarram_Mosque_112.jpg/1280px-Baitul_Mokarram_Mosque_112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4624,
       "hauteur": 3468
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Balcony visuals.jpg",
+      "description": "A beautiful view from the balcony makes it a pleasant morning...",
+      "categories": [
+        "Balconies",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "DEEPAN RAJA .M",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_visuals.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Balcony_visuals.jpg/1280px-Balcony_visuals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Louhans (71) Arcades 038.jpg",
+      "description": "Arkaden in Louhans im Département Saône-et-Loire in der Region Bourgogne-Franche-Comté in Frankreich",
+      "categories": [
+        "Arcades de Louhans",
+        "Self-published work",
+        "Window shutters in France",
+        "Balconies in France",
+        "August 2021 in Saône-et-Loire",
+        "Bourgogne-Franche-Comté photographs taken on 2021-08-31",
+        "Closed window shutters in France",
+        "Files by User:GFreihalter/Frankreich 2021",
+        "Files by User:GFreihalter/Bourgogne-Franche-Comté"
+      ],
+      "auteur": "GFreihalter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Louhans_(71)_Arcades_038.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Louhans_%2871%29_Arcades_038.jpg/1280px-Louhans_%2871%29_Arcades_038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 4896
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Acre Balcony - panoramio.jpg",
+      "description": "Acre Balcony",
+      "categories": [
+        "Balconies",
+        "Old City of Acre",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Photos from Panoramio ID 328581"
+      ],
+      "auteur": "ekeidar",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acre_Balcony_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Acre_Balcony_-_panoramio.jpg/1280px-Acre_Balcony_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Balcony between two houses under a roof.jpg",
+      "description": "Balcony between two houses under a roof in Schrobenhausen, Germany",
+      "categories": [
+        "Taken with Sony ILCE-7R",
+        "Balconies",
+        "Self-published work",
+        "Pictures by Tobias \"ToMar\" Maier",
+        "Taken with Zeiss Batis 85mm F1.8",
+        "Stammtisch Augsburg 2023-05-20"
+      ],
+      "auteur": "Tobias ToMar Maier",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_between_two_houses_under_a_roof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Balcony_between_two_houses_under_a_roof.jpg/1280px-Balcony_between_two_houses_under_a_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7313,
+      "hauteur": 4881
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Saint-Fargeau-Ponthierry-Mairie-IMG 4427.jpg",
+      "description": "Hôtel de ville de Saint-Fargeau-Ponthierry, Saint-Fargeau-Ponthierry, Seine-et-Marne, France",
+      "categories": [
+        "Taken with Canon EOS 60D",
+        "Balconies in France",
+        "Files uploaded by Poudou99",
+        "Arch windows in France",
+        "France photographs taken on 2012-06-09",
+        "Sloped windows in France",
+        "Ancien hôtel de ville de Saint-Fargeau-Ponthierry"
+      ],
+      "auteur": "Poudou99",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saint-Fargeau-Ponthierry-Mairie-IMG_4427.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Saint-Fargeau-Ponthierry-Mairie-IMG_4427.jpg/1280px-Saint-Fargeau-Ponthierry-Mairie-IMG_4427.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4535,
+      "hauteur": 3023
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Abyss - Flickr - Stiller Beobachter (1).jpg",
+      "description": "abyss",
+      "categories": [
+        "Balconies",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Stiller Beobachter",
+        "Human legs and feet"
+      ],
+      "auteur": "Stiller Beobachter from Ansbach, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abyss_-_Flickr_-_Stiller_Beobachter_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Abyss_-_Flickr_-_Stiller_Beobachter_%281%29.jpg/1280px-Abyss_-_Flickr_-_Stiller_Beobachter_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4898,
+      "hauteur": 3265
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -4,14 +4,19 @@
     "terme": "le mur porteur",
     "categorie": "Structure",
     "definition": "Mur qui porte les planchers ou la toiture et transmet leurs charges aux fondations.",
-    "priorite": 1,
+    "priorite": 2,
     "requetes": [
       "load bearing wall",
       "mur porteur",
       "bearing wall masonry"
     ],
     "incompatibles": [
-      "mur-de-refend"
+      "voile",
+      "mur-de-remplissage",
+      "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Walls"
     ]
   },
   "candidats": [
@@ -144,6 +149,133 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Woodman_Point_tin_and_iron_building%2C_curved_top_plate.jpg/1280px-Woodman_Point_tin_and_iron_building%2C_curved_top_plate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A moss covered bricks on basement.jpg",
+      "description": "A moss covered bricks on basement, Pervomaisk, Ukarine",
+      "categories": [
+        "CC-Zero",
+        "Walls",
+        "Self-published work",
+        "Unidentified moss on surfaces",
+        "Taken with Tecno Spark Go 2022"
+      ],
+      "auteur": "VladimirWorkspace",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_moss_covered_bricks_on_basement.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/A_moss_covered_bricks_on_basement.jpg/1280px-A_moss_covered_bricks_on_basement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 1872
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2013-08-20 (explore 6-20-20) - Flickr - Vigil Photography.jpg",
+      "description": "This was taken at a monastery in northeastern Iowa with a IR-modified Nikon D5100.",
+      "categories": [
+        "Walls",
+        "August 2013 in Iowa",
+        "Photographs taken on 2013-08-20",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore",
+        "Pinus strobus (historical images)",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Vigil Photography",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-08-20_(explore_6-20-20)_-_Flickr_-_Vigil_Photography.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2013-08-20_%28explore_6-20-20%29_-_Flickr_-_Vigil_Photography.jpg/1280px-2013-08-20_%28explore_6-20-20%29_-_Flickr_-_Vigil_Photography.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4152,
+      "hauteur": 2992
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:An old wall.JPG",
+      "description": "a part of a wall of an old house in Lucerne/Switzerland",
+      "categories": [
+        "Taken with Nikon D50",
+        "Walls",
+        "Pictures taken by Simon Koopmann"
+      ],
+      "auteur": "Simon Koopmann",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_old_wall.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/An_old_wall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1214,
+      "hauteur": 1821
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:20151021 EST TEKE5 (22191778528).jpg",
+      "description": "NATO photos by Siim Teder Baltic Battalion Lithuanian team soldiers await in position during City Battle Exercise, Trident Juncture 15 at San Gregorio training area, Spain, October 20, 2015.",
+      "categories": [
+        "Windows",
+        "Walls",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by the Allied Joint Force Command Brunssum",
+        "Images uploaded by Revent from Flickr",
+        "Images uploaded by Revent (cleanup)",
+        "Lithuanian military at Trident Juncture 2015",
+        "FN MAG in Lithuanian service",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Allied Joint Force Command Brunssum",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20151021_EST_TEKE5_(22191778528).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/20151021_EST_TEKE5_%2822191778528%29.jpg/1280px-20151021_EST_TEKE5_%2822191778528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4333,
+      "hauteur": 2889
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2018-02-13 (622) Overgrown wall at Bahnhof Mauthausen.jpg",
+      "description": "Overgrown wall at Bahnhof Mauthausen",
+      "categories": [
+        "Walls",
+        "Bahnhof Mauthausen",
+        "Self-published work",
+        "Media from WikiDaheim in Austria check done",
+        "Taken with Canon PowerShot SX50 HS by User:GT1976",
+        "Austria photographs taken on 2018-02-13",
+        "February 2018 in Upper Austria",
+        "Media from WikiDaheim 2018 in Austria/Unspecified",
+        "February 2018 in rail transport in Austria",
+        "Uploaded via Campaign:WikiDaheim-at",
+        "Media from WikiDaheim 2018 in Austria/all",
+        "Files by User:GT1976 2018-02-13 Bahnhof Mauthausen",
+        "Files by User:GT1976 in Mauthausen"
+      ],
+      "auteur": "GT1976",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-02-13_(622)_Overgrown_wall_at_Bahnhof_Mauthausen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2018-02-13_%28622%29_Overgrown_wall_at_Bahnhof_Mauthausen.jpg/1280px-2018-02-13_%28622%29_Overgrown_wall_at_Bahnhof_Mauthausen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:- panoramio (3661).jpg",
+      "description": "",
+      "categories": [
+        "Walls",
+        "Media lacking a description",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "San Marino photographs taken on 2011-06-13",
+        "Images from Panoramio with bad file names",
+        "Photos from Panoramio ID 3491726",
+        "Signs in San Marino (city)"
+      ],
+      "auteur": "roadmap",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_(3661).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/-_panoramio_%283661%29.jpg/1280px--_panoramio_%283661%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

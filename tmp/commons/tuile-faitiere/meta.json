@@ -12,7 +12,10 @@
     ],
     "incompatibles": [
       "faitage",
-      "tuile"
+      "tuile",
+      "tuile-canal",
+      "tuile-mecanique",
+      "tuile-plate"
     ],
     "categoriesCommons": [
       "Category:Ridge tiles",
@@ -153,6 +156,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Tiles91.JPG/1280px-Tiles91.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1536,
       "hauteur": 2048
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Turmfalke weiblich auf Dachfirst.JPG",
+      "description": "Toiture couverte de tuiles avec tuile chatiere historique et faucon (falco tinnunculus) sur le faîtage, église St. Peter und Paul, Laupheim, Baden-Württemberg, Allemagne.",
+      "categories": [
+        "Roof tiles in Germany",
+        "Ridge tiles",
+        "Self-published work",
+        "Files by 4028mdk09",
+        "Aves in left lateral aspect",
+        "Falco tinnunculus (in wider habitat)",
+        "Falco tinnunculus (female)"
+      ],
+      "auteur": "4028mdk09",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Turmfalke_weiblich_auf_Dachfirst.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Turmfalke_weiblich_auf_Dachfirst.JPG/1280px-Turmfalke_weiblich_auf_Dachfirst.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Dachpfannen in Asendorf 002.JPG",
+      "description": "spanische Dachpfannen",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "GPL",
+        "Roof tiles"
+      ],
+      "auteur": "Syker Fotograf",
+      "licence": "GPL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannen_in_Asendorf_002.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Dachpfannen_in_Asendorf_002.JPG/1280px-Dachpfannen_in_Asendorf_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Skifertak.jpg",
+      "description": "Slate roof on old house in Rosendal, Norway. My own photograph, Kjetil Lenes.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D70s",
+        "Buildings in Kvinnherad",
+        "Files with no machine-readable source",
+        "Rosendal, Norway",
+        "License migration redundant",
+        "Roof ridges",
+        "Self-published work",
+        "Assumed own work",
+        "Slate roofs in Norway",
+        "Norway photographs taken on 2006-09-03"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Ekko (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Skifertak.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Skifertak.jpg/1280px-Skifertak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Türkentaube.jpg",
+      "description": "Türkentaube (Streptopelia decaocto), fotografiert in Heidelberg (Baden-Württemberg, Deutschland)",
+      "categories": [
+        "Roof tiles in Germany",
+        "Ridge tiles",
+        "Self-published work",
+        "Files by 4028mdk09",
+        "Aves in left lateral aspect",
+        "Streptopelia decaocto (distant views)"
+      ],
+      "auteur": "4028mdk09",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:T%C3%BCrkentaube.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/T%C3%BCrkentaube.jpg/1280px-T%C3%BCrkentaube.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Antalya - Dachziegel.jpg",
+      "description": "Antalya ( Turkey ). Broken roof tiles.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "Roof tiles",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Photographs taken on 2010-04-02",
+        "Views from high of the Old Town, Antalya"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antalya_-_Dachziegel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Antalya_-_Dachziegel.jpg/1280px-Antalya_-_Dachziegel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Citadelle de Quebec 402.JPG",
+      "description": "L'ancienne caponière, autrement appelé bâtiment 46, Citadelle de Québec",
+      "categories": [
+        "Taken with Nikon Coolpix S3500",
+        "Roof ridges",
+        "Building 46 (Citadelle of Quebec)",
+        "Self-published work",
+        "July 2014 in Quebec City",
+        "Roofs in Quebec City"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_402.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Citadelle_de_Quebec_402.JPG/1280px-Citadelle_de_Quebec_402.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -13,7 +13,9 @@
     "incompatibles": [
       "cartouche",
       "bas-relief",
-      "haut-relief"
+      "haut-relief",
+      "frise",
+      "feston"
     ],
     "categoriesCommons": [
       "Category:Medallions (architecture)",
@@ -157,6 +159,139 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/La_cath%C3%A9drale_Saint-Pierre_de_Maillezais_%289%29.jpg/1280px-La_cath%C3%A9drale_Saint-Pierre_de_Maillezais_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3483,
       "hauteur": 3241
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Joseph Black plaque by James Tassie, Hunterian Museum, Glasgow.jpg",
+      "description": "plaque of Joseph Black (1728-1799)",
+      "categories": [
+        "Joseph Black",
+        "James Tassie",
+        "Artworks without Wikidata item",
+        "Medallions (architecture)",
+        "Self-published work",
+        "18th-century relief portraits of men",
+        "18th-century profile portraits of men, facing left"
+      ],
+      "auteur": "James Tassie",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Joseph_Black_plaque_by_James_Tassie,_Hunterian_Museum,_Glasgow.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Joseph_Black_plaque_by_James_Tassie%2C_Hunterian_Museum%2C_Glasgow.jpg/1280px-Joseph_Black_plaque_by_James_Tassie%2C_Hunterian_Museum%2C_Glasgow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2056,
+      "hauteur": 3088
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Eberndorf Kirchplatz 1 Augustinerchorherrenstift äußeres Tor Christusmonogramm 31082017 5459.jpg",
+      "description": "Medallion with Chi Rho at the overdoor of the exterior portal of the monastery of Augustinian Canons on Kirchplatz #1, market town Eberndorf , district Völkermarkt, Carinthia , Austria , European Union",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Stift Eberndorf",
+        "Medallions (architecture)",
+        "Self-published work",
+        "Images by Johann Jaritz",
+        "Portals in Carinthia",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Austria photographs taken on 2017-08-31",
+        "Overdoors in Carinthia",
+        "IHS in Austria",
+        "Summer 2017 in Bezirk Völkermarkt",
+        "Rustication (architecture) in Carinthia",
+        "Broken pediments in Carinthia"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eberndorf_Kirchplatz_1_Augustinerchorherrenstift_%C3%A4u%C3%9Feres_Tor_Christusmonogramm_31082017_5459.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Eberndorf_Kirchplatz_1_Augustinerchorherrenstift_%C3%A4u%C3%9Feres_Tor_Christusmonogramm_31082017_5459.jpg/1280px-Eberndorf_Kirchplatz_1_Augustinerchorherrenstift_%C3%A4u%C3%9Feres_Tor_Christusmonogramm_31082017_5459.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3245,
+      "hauteur": 4928
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:IDENTIFICATION The World's Military, Naval And Air Uniforms, Insignia And Flags 1943 WORLD AIRCRAFT WING AND TAIL MARKINGS Afghanistan-France etc - WW2 (Google-digitized) Public domain (No known copyright ).jpg",
+      "description": "Book illustration from Identification of The World's Military, Naval and Air Uniforms, Insignia and Flags 1943 Cropped version of scanned page showing a book plate with colour drawings of aviation insignia (aircraft markings on wings, fuselage, tail, rudder), from an American handbook on foreign military uniforms and insignia designed for intelligence officers, published by The Military Service Publishing Company (The Telegraph Press), Harrisburg, Pennsylvania during World War II; first edition 1943, second printing, April 1943; scanned original from University of Michigan, digitized by Google",
+      "categories": [
+        "Roundels",
+        "Military aircraft of World War II",
+        "Flag charts",
+        "Cross of Lorraine during World War II",
+        "Aircraft recognition in World War II",
+        "Fin flashes by country",
+        "Roundels on aircraft",
+        "Identification of The World's Military, Naval and Air Uniforms, Insignia and Flags 1943"
+      ],
+      "auteur": "Unknown author (name of designer not provided; illustrator not credited); The Military Service Publishing Company (The Telegraph Press), Harrisburg, Pennsylvania, The United States of America; Digital",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:IDENTIFICATION_The_World%27s_Military,_Naval_And_Air_Uniforms,_Insignia_And_Flags_1943_WORLD_AIRCRAFT_WING_AND_TAIL_MARKINGS_Afghanistan-France_etc_-_WW2_(Google-digitized)_Public_domain_(No_known_copyright_).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/IDENTIFICATION_The_World%27s_Military%2C_Naval_And_Air_Uniforms%2C_Insignia_And_Flags_1943_WORLD_AIRCRAFT_WING_AND_TAIL_MARKINGS_Afghanistan-France_etc_-_WW2_%28Google-digitized%29_Public_domain_%28No_known_copyright_%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1345,
+      "hauteur": 1793
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Lightroom IVVeg1JS69.jpg",
+      "description": "This medallion appears on the Northern Ohio Traction & Light building, 42 N High Street, Akron, Ohio. It appears the torch has been turned upside down at some point.",
+      "categories": [
+        "Buildings in Akron, Ohio",
+        "Medallions (architecture)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Reliefs of torches"
+      ],
+      "auteur": "Dean Philips",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lightroom_IVVeg1JS69.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lightroom_IVVeg1JS69.jpg/1280px-Lightroom_IVVeg1JS69.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1941,
+      "hauteur": 1725
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Feldkirchen Hauptplatz 2 Akanthusstuckfeld Madonnenmedaillon um 1700 28062016 3487.jpg",
+      "description": "Madonna medaillon (around 1700) at the acanthus stucco area at the portal`s overdoor on Hauptplatz #2, city Feldkirchen , district Feldkirchen, Carinthia , Austria , EU",
+      "categories": [
+        "Acanthus ornaments",
+        "Hauptplatz 2, Feldkirchen",
+        "Medallions (architecture)",
+        "Self-published work",
+        "Images by Johann Jaritz",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Overdoors in Carinthia",
+        "Cartouches in Carinthia",
+        "FoP-Austria",
+        "Summer 2016 in Bezirk Feldkirchen",
+        "Reliefs of Madonna and Child in Carinthia",
+        "Austria photographs taken on 2016-06-28",
+        "Ogees in Carinthia",
+        "Art of Feldkirchen in Kärnten"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Feldkirchen_Hauptplatz_2_Akanthusstuckfeld_Madonnenmedaillon_um_1700_28062016_3487.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Feldkirchen_Hauptplatz_2_Akanthusstuckfeld_Madonnenmedaillon_um_1700_28062016_3487.jpg/1280px-Feldkirchen_Hauptplatz_2_Akanthusstuckfeld_Madonnenmedaillon_um_1700_28062016_3487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3280
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Medallion of James Gregory, SNPG.jpg",
+      "description": "Medallion of James Gregory, SNPG",
+      "categories": [
+        "James Gregory (physician)",
+        "Medallions (architecture)",
+        "Self-published work",
+        "18th-century profile portraits of men, facing left",
+        "Portraits of physicians"
+      ],
+      "auteur": "Stephencdickson",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Medallion_of_James_Gregory,_SNPG.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Medallion_of_James_Gregory%2C_SNPG.jpg/1280px-Medallion_of_James_Gregory%2C_SNPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2056,
+      "hauteur": 3088
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

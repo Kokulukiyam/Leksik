@@ -1,0 +1,53 @@
+{
+  "termId": "sol-en-caoutchouc",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Parquet en chêne clair avec frises dans un showroom.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bois, pas du caoutchouc."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mosaïque de papillon en carreaux cassés au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sol de salle de bains en liège verni.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Liège, pas du caoutchouc."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Immeuble en construction abandonné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Local technique avec sol lisse couvert de poussière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau non identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Dalle de béton avec gaines rouges dans une ossature bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

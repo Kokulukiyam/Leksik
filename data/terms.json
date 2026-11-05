@@ -3213,6 +3213,30 @@
     ]
   },
   {
+    "id": "porte-dogon",
+    "terme": "la porte dogon",
+    "definition": "Petite porte de bois sculptée de figures en relief qui ferme un grenier ou une maison en pays dogon.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 3,
+    "incompatibles": [
+      "grenier-dogon",
+      "ginna"
+    ]
+  },
+  {
+    "id": "case-a-etage",
+    "terme": "la case à étage",
+    "definition": "Grande habitation diola en banco à deux niveaux, aux murs épais et au toit de chaume, typique de Mlomp en Casamance.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 3,
+    "incompatibles": [
+      "case-a-impluvium",
+      "banco",
+      "tata-somba",
+      "ginna"
+    ]
+  },
+  {
     "id": "maison-coloniale",
     "terme": "la maison coloniale",
     "definition": "Maison à étage enduite de couleurs, à balcon ou galerie de bois ou de fer et à persiennes, typique de Saint-Louis, de Gorée et du Plateau à Dakar.",
@@ -3293,6 +3317,16 @@
     ]
   },
   {
+    "id": "porte-a-tambour",
+    "terme": "la porte à tambour",
+    "definition": "Porte d'entrée formée de vantaux vitrés qui tournent autour d'un axe central dans un cylindre.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "porte"
+    ]
+  },
+  {
     "id": "porte-metallique",
     "terme": "la porte métallique",
     "definition": "Porte en tôle d'acier sur cadre en tubes ou profilés, très utilisée pour les entrées et locaux techniques.",
@@ -3302,6 +3336,18 @@
       "porte",
       "porte-a-panneaux",
       "porte-a-deux-vantaux"
+    ]
+  },
+  {
+    "id": "porte-sectionnelle",
+    "terme": "la porte sectionnelle",
+    "definition": "Porte de garage ou de hangar faite de panneaux horizontaux articulés qui remontent sur des rails au plafond.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "porte-metallique",
+      "porte-a-panneaux",
+      "porte-automatique"
     ]
   },
   {
@@ -3359,6 +3405,27 @@
     ]
   },
   {
+    "id": "arret-de-volet",
+    "terme": "l'arrêt de volet",
+    "definition": "Pièce métallique fixée au mur qui maintient un volet battant ouvert contre la façade.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "volet-battant"
+    ]
+  },
+  {
+    "id": "espagnolette",
+    "terme": "l'espagnolette",
+    "definition": "Tige métallique verticale manœuvrée par une poignée, dont les crochets aux extrémités ferment une fenêtre ou des volets.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "cremone",
+      "poignee-de-fenetre"
+    ]
+  },
+  {
     "id": "portail-metallique",
     "terme": "le portail métallique",
     "definition": "Grande porte extérieure en acier, pleine ou ajourée, qui ferme l'entrée d'une parcelle.",
@@ -3374,6 +3441,17 @@
     "incompatibles": [
       "barreaudage",
       "fenetre"
+    ]
+  },
+  {
+    "id": "grille-extensible",
+    "terme": "la grille extensible",
+    "definition": "Grille métallique articulée en croisillons qui se replie en accordéon sur le côté d'une porte ou d'une vitrine.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "rideau-metallique",
+      "grille-de-defense"
     ]
   },
   {
@@ -3420,6 +3498,38 @@
     "incompatibles": [
       "menuiserie-aluminium",
       "aluminium"
+    ]
+  },
+  {
+    "id": "double-vitrage",
+    "terme": "le double vitrage",
+    "definition": "Vitrage fait de deux verres séparés par une lame d'air ou de gaz, avec un intercalaire visible sur le pourtour.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "fenetre",
+      "fenetre-a-guillotine",
+      "fenetre-a-l-italienne",
+      "fenetre-a-la-francaise",
+      "fenetre-a-soufflet",
+      "fenetre-coulissante",
+      "fenetre-oscillo-battante",
+      "fenetre-pivotante",
+      "porte-vitree",
+      "porte-fenetre",
+      "chassis-fixe",
+      "vitrage-feuillete",
+      "vitrage-teinte"
+    ]
+  },
+  {
+    "id": "penture",
+    "terme": "la penture",
+    "definition": "Longue bande de fer fixée sur un volet ou une porte, dont l'œil tourne sur un gond.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "gond"
     ]
   },
   {
@@ -3505,6 +3615,26 @@
     ]
   },
   {
+    "id": "moraillon",
+    "terme": "le moraillon",
+    "definition": "Ferrure articulée à anneau qui permet de fermer une porte ou un portail avec un cadenas.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "cadenas"
+    ]
+  },
+  {
+    "id": "entrebailleur",
+    "terme": "l'entrebâilleur",
+    "definition": "Chaîne ou bras métallique qui limite l'ouverture d'une porte pour voir qui se présente.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "porte-d-entree"
+    ]
+  },
+  {
     "id": "judas",
     "terme": "le judas",
     "definition": "Petite lentille optique traversant une porte d'entrée pour voir à l'extérieur sans ouvrir.",
@@ -3533,6 +3663,29 @@
     "incompatibles": [
       "porte-coupe-feu",
       "porte-metallique"
+    ]
+  },
+  {
+    "id": "heurtoir",
+    "terme": "le heurtoir",
+    "definition": "Anneau ou marteau métallique fixé sur une porte d'entrée, que l'on frappe pour s'annoncer.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 3,
+    "incompatibles": [
+      "porte-d-entree"
+    ]
+  },
+  {
+    "id": "escalier-a-double-revolution",
+    "terme": "l'escalier à double révolution",
+    "definition": "Escalier monumental dont deux volées symétriques partent d'un même palier ou y aboutissent.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 3,
+    "incompatibles": [
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois"
     ]
   },
   {
@@ -3577,6 +3730,28 @@
     ]
   },
   {
+    "id": "escalier-escamotable",
+    "terme": "l'escalier escamotable",
+    "definition": "Escalier pliant ou télescopique qui se replie dans une trappe au plafond pour accéder aux combles.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 3,
+    "incompatibles": [
+      "echelle-de-meunier",
+      "escalier-en-bois",
+      "escalier-droit"
+    ]
+  },
+  {
+    "id": "echelle-a-crinoline",
+    "terme": "l'échelle à crinoline",
+    "definition": "Échelle fixe verticale entourée d'arceaux métalliques qui protègent des chutes, pour l'accès aux toitures et cuves.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 3,
+    "incompatibles": [
+      "echelle"
+    ]
+  },
+  {
     "id": "escalier-mecanique",
     "terme": "l'escalier mécanique",
     "definition": "Escalier dont les marches sont entraînées par un mécanisme et défilent en continu.",
@@ -3584,6 +3759,16 @@
     "priorite": 2,
     "incompatibles": [
       "trottoir-roulant"
+    ]
+  },
+  {
+    "id": "trottoir-roulant",
+    "terme": "le trottoir roulant",
+    "definition": "Tapis mécanique plat ou légèrement incliné qui transporte les piétons, notamment dans les aéroports.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 3,
+    "incompatibles": [
+      "escalier-mecanique"
     ]
   },
   {
@@ -3616,6 +3801,16 @@
     "incompatibles": [
       "rampe-d-escalier",
       "barreau-de-rampe"
+    ]
+  },
+  {
+    "id": "poteau-de-depart",
+    "terme": "le poteau de départ",
+    "definition": "Poteau plus massif qui marque le bas d'une rampe d'escalier et en reçoit la main courante.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 3,
+    "incompatibles": [
+      "rampe-d-escalier"
     ]
   },
   {

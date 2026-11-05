@@ -1,0 +1,53 @@
+{
+  "termId": "plafond-tendu",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond peint orné de fleurs et d'un frise d'angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "Plafond peint."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plafond étoilé violet lumineux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond à fibres optiques, toile non identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Charpente en bois et image thermique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cambodge",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Dessous d'un toit conique en bambou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cameroun",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue en contre-plongée d'un lanterneau en béton et bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Vito d'Altivole, Italie",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plafond à caissons moulurés et peintures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond en staff, pas tendu."
+    }
+  ]
+}

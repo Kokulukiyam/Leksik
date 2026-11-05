@@ -7,6 +7,16 @@
     "requetes": [
       "incategory:\"Buttresses\"",
       "buttress church wall"
+    ],
+    "requetes2": [
+      "buttresses gothic church exterior",
+      "contreforts église",
+      "stepped buttress"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Buttresses",
+      "Category:Buttresses in France"
     ]
   },
   "candidats": [
@@ -136,6 +146,148 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%283%29.jpg/1280px-%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3072,
       "hauteur": 2304
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:臺南女中建築欣賞 - panoramio (1).jpg",
+      "description": "臺南女中建築欣賞",
+      "categories": [
+        "Buttresses",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Taiwan photographs taken on 2012-06-09",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "2012 photographs of Tainan",
+        "Former Tainan Prefectural Tainan First Girls' High School Main Building"
+      ],
+      "auteur": "338km",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%281%29.jpg/1280px-%E8%87%BA%E5%8D%97%E5%A5%B3%E4%B8%AD%E5%BB%BA%E7%AF%89%E6%AC%A3%E8%B3%9E_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chapelle Saint-Gilles de Pons.JPG",
+      "description": "Chapelle Saint-Gilles de Pons (Musée archéologique)",
+      "categories": [
+        "Base Mérimée",
+        "GFDL",
+        "Chapelle Saint-Gilles (Pons)",
+        "License migration redundant",
+        "Self-published work",
+        "Buttresses in France",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Arch windows in France",
+        "France photographs taken on 2010-09-18"
+      ],
+      "auteur": "Cobber17",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chapelle_Saint-Gilles_de_Pons.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Chapelle_Saint-Gilles_de_Pons.JPG/1280px-Chapelle_Saint-Gilles_de_Pons.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Strebepfeiler, Abdachung (Celle, Stadtpfarrkirche St. Marien, 2018-shift).jpg",
+      "description": "Strebepfeiler, Abdachung (Celle, Stadtpfarrkirche St. Marien, 2018-shift)",
+      "categories": [
+        "Buttresses",
+        "Celle (Germany)",
+        "Self-published work"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Strebepfeiler,_Abdachung_(Celle,_Stadtpfarrkirche_St._Marien,_2018-shift).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Strebepfeiler%2C_Abdachung_%28Celle%2C_Stadtpfarrkirche_St._Marien%2C_2018-shift%29.jpg/1280px-Strebepfeiler%2C_Abdachung_%28Celle%2C_Stadtpfarrkirche_St._Marien%2C_2018-shift%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1332,
+      "hauteur": 1822
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Chapelle Notre-Dame-des-Bois de Villers-sous-Chalamont - revers.jpg",
+      "description": "Chapelle Notre-Dame-des-Bois de Villers-sous-Chalamont",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Sony DSLR-A900",
+        "Chapelle Notre-Dame-des-Bois de Villers-sous-Chalamont",
+        "Self-published work",
+        "Buttresses in France",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2012",
+        "Cultural heritage monuments in France with known IDs",
+        "Images from Wiki Loves Monuments 2012 in France",
+        "Mérimée without type parameter",
+        "France photographs taken on 2012-09-17",
+        "Files by Ludovic Péron/Doubs",
+        "Files by Ludovic Péron/WLMFR2012"
+      ],
+      "auteur": "Ludovic Péron",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame-des-Bois_de_Villers-sous-Chalamont_-_revers.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Chapelle_Notre-Dame-des-Bois_de_Villers-sous-Chalamont_-_revers.jpg/1280px-Chapelle_Notre-Dame-des-Bois_de_Villers-sous-Chalamont_-_revers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:菁寮國小禮堂.jpg",
+      "description": "​菁寮國小禮堂為政府遷台初期建築，建於1951年2月，延續有日據時期學習吸收歐美建築工藝特徵，為磚木造和風式建築，亦為巴西利卡式的矩形集會空間，屬一層樓大跨距空間結構。",
+      "categories": [
+        "Buttresses",
+        "Historic buildings (historic monuments) in Tainan",
+        "Taiwan photographs taken on 2021-03-28",
+        "Images from Wiki Loves Monuments 2021 in Taiwan",
+        "Drainage pits in Taiwan",
+        "School auditoria in Taiwan",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-tw",
+        "2021 photographs of Tainan",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2021",
+        "Buildings of Tainan Municipal Jingliao Elementary School"
+      ],
+      "auteur": "大三可",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E8%8F%81%E5%AF%AE%E5%9C%8B%E5%B0%8F%E7%A6%AE%E5%A0%82.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%E8%8F%81%E5%AF%AE%E5%9C%8B%E5%B0%8F%E7%A6%AE%E5%A0%82.jpg/1280px-%E8%8F%81%E5%AF%AE%E5%9C%8B%E5%B0%8F%E7%A6%AE%E5%A0%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5631,
+      "hauteur": 3676
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Chapelle Notre-Dame-des-Bois de Villers-sous-Chalamont - revers (2).jpg",
+      "description": "Chapelle Notre-Dame-des-Bois de Villers-sous-Chalamont",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Sony DSLR-A900",
+        "Chapelle Notre-Dame-des-Bois de Villers-sous-Chalamont",
+        "Self-published work",
+        "Buttresses in France",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2012",
+        "Cultural heritage monuments in France with known IDs",
+        "Images from Wiki Loves Monuments 2012 in France",
+        "Tiled roofs in Doubs",
+        "Mérimée without type parameter",
+        "France photographs taken on 2012-09-17",
+        "Files by Ludovic Péron/Doubs",
+        "Files by Ludovic Péron/WLMFR2012"
+      ],
+      "auteur": "Ludovic Péron",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame-des-Bois_de_Villers-sous-Chalamont_-_revers_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Chapelle_Notre-Dame-des-Bois_de_Villers-sous-Chalamont_-_revers_%282%29.jpg/1280px-Chapelle_Notre-Dame-des-Bois_de_Villers-sous-Chalamont_-_revers_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

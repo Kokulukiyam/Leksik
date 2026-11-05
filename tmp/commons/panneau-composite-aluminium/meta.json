@@ -33,5 +33,7 @@
       "largeur": 3993,
       "hauteur": 3993
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

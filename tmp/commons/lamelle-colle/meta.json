@@ -125,6 +125,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Swatch-Bienne-34-entretrien.jpg/1280px-Swatch-Bienne-34-entretrien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3648,
       "hauteur": 4472
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:LeimbinderNagelung.jpg",
+      "description": "Timber Profile with 180 Nails",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix A900",
+        "Glued laminated timber",
+        "License migration redundant",
+        "Self-published work",
+        "Roof girders",
+        "Nailing"
+      ],
+      "auteur": "StromBer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LeimbinderNagelung.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/LeimbinderNagelung.jpg/1280px-LeimbinderNagelung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Glued laminated timber house.jpg",
+      "description": "Дом из клеёного бруса",
+      "categories": [
+        "Glued laminated timber",
+        "Timber construction",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Дмитрий Кошелев",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Glued_laminated_timber_house.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Glued_laminated_timber_house.jpg/1280px-Glued_laminated_timber_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Laminated wood.jpg",
+      "description": "Laminated wood",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix F30",
+        "Glued laminated timber",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Laminated wood"
+      ],
+      "auteur": "Travail personnel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laminated_wood.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Laminated_wood.jpg/1280px-Laminated_wood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 2136
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Skiboli detail 1.JPG",
+      "description": "Detalj av fasade mot vest. Lekkasje",
+      "categories": [
+        "Taken with iPhone 4",
+        "Glued laminated timber",
+        "Interior of Skiboli",
+        "Self-published work",
+        "January 2013 in Trondheim",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Kjersti Lie",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Skiboli_detail_1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Skiboli_detail_1.JPG/1280px-Skiboli_detail_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Swatch-Bienne-35-entretrien.jpg",
+      "description": "Entretien de la toiture du bâtiment Swatch à Bienne. Traitement du bois.",
+      "categories": [
+        "Headquarters of Swatch, Biel/Bienne",
+        "Glued laminated timber",
+        "Self-published work",
+        "Carpentry in Switzerland",
+        "Men at work in Switzerland",
+        "Aerial work platforms in Switzerland"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Swatch-Bienne-35-entretrien.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Swatch-Bienne-35-entretrien.jpg/1280px-Swatch-Bienne-35-entretrien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 1476
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Stade soccer TELUS-ULaval.jpg",
+      "description": "Stade intérieur TELUS-Université Laval lors d'un match de football (femmes) du Rouge et Or contre les Carabins . La toiture courbe à ossature de bois lamellé-collé est supportée par 13 arches à inertie variable.",
+      "categories": [
+        "Taken with Canon EOS 40D",
+        "Stade TELUS-Université Laval",
+        "Glued laminated timber",
+        "Self-published work"
+      ],
+      "auteur": "Cephas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stade_soccer_TELUS-ULaval.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Stade_soccer_TELUS-ULaval.jpg/1280px-Stade_soccer_TELUS-ULaval.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "bati-support",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rangée de cuvettes de WC anciennes au sol dans des latrines de musée.",
+      "verdict": "rejetée",
+      "note": "Pas de bâti-support.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plaques métalliques sur un trottoir, texte sur des toilettes recyclées.",
+      "verdict": "rejetée",
+      "note": "Hors sujet, texte.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo noir et blanc d'une usine de céramique sanitaire avec pièces empilées.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle de bains ancienne carrelée avec baignoire en zinc et cuvette.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bonde de sol carrelé vue de dessus.",
+      "verdict": "rejetée",
+      "note": "Siphon de sol, pas un bâti-support.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plafond à ouvertures en étoiles vu d'en dessous.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

@@ -13,6 +13,9 @@
     "categoriesCommons": [
       "Category:Roadside ditches",
       "Category:Ditches"
+    ],
+    "incompatibles": [
+      "avaloir"
     ]
   },
   "candidats": [
@@ -139,6 +142,135 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Biotope_Lake_of_Gargazzone_-_Photo_by_Giovanni_Ussi_-_Lake_and_surrounding_vegetation_%28101%29_07.jpg/1280px-Biotope_Lake_of_Gargazzone_-_Photo_by_Giovanni_Ussi_-_Lake_and_surrounding_vegetation_%28101%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2448,
       "hauteur": 3264
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Gransted.jpg",
+      "description": "Udsyn over markerne og engene i midten af Himmerigskov. Set fra Gransted i Juli måned.",
+      "categories": [
+        "Himmerigskov",
+        "Self-published work",
+        "Countryside in Denmark",
+        "Gravel roads in Denmark",
+        "Denmark photographs taken on 2014-07-10",
+        "Wild flowers in Denmark",
+        "Roadside ditches"
+      ],
+      "auteur": "RhinoMind",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gransted.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gransted.jpg/1280px-Gransted.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1440
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chapelholm March Dyke.JPG",
+      "description": "The ditch and earth dyke in Chapelholm Woods near Fergushill in North Ayrshire, Scotland.",
+      "categories": [
+        "Taken with Nikon Coolpix 4600",
+        "Ditches",
+        "Forests in Scotland",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Rosser1954 Roger Griffith",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chapelholm_March_Dyke.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chapelholm_March_Dyke.JPG/1280px-Chapelholm_March_Dyke.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1712,
+      "hauteur": 2288
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Small waterfall in Gåseberg.jpg",
+      "description": "Drainage water from a forested area dripping into a ditch at Gåseberg, Lysekil Municipality , Sweden.",
+      "categories": [
+        "Heden, Lysekils kommun",
+        "Self-published work",
+        "Images by W.carter",
+        "Granite in Sweden",
+        "Files with coordinates missing SDC location of creation",
+        "Falling water droplets",
+        "Roadside ditches",
+        "Nature of Lysekil Municipality"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Small_waterfall_in_G%C3%A5seberg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Small_waterfall_in_G%C3%A5seberg.jpg/1280px-Small_waterfall_in_G%C3%A5seberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4864,
+      "hauteur": 2972
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bastauwiesen2.JPG",
+      "description": "Der Wesernebenfluss Bastau im Naturschutzgebiet Bastauwiesen im Kreis Minden-Lübbecke in Nordrhein-Westfalen . Die Bastau nimmt zahlreiche Gräben auf, die zur Entwässerung der moorigen Landschaft angelegt wurden.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A720 IS",
+        "Ditches",
+        "License migration completed",
+        "Naturschutzgebiet Bastauwiesen",
+        "Self-published work",
+        "Confluences in North Rhine-Westphalia",
+        "Files with coordinates missing SDC location of creation (52° N, 8° E)"
+      ],
+      "auteur": "Ingo2802",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bastauwiesen2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Bastauwiesen2.JPG/1280px-Bastauwiesen2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bürmoos - Zehmemoos - Grundlose Straße Motiv - 2021 02 05-1.jpg",
+      "description": "Bürmoos (Bezirk Salzburg-Umgebung): Birken und Entwässerungsgraben an der Grundlosen Straße im Ortsteil Zehmemoos",
+      "categories": [
+        "Photographs of Bezirk Salzburg-Umgebung by Eweht",
+        "Self-published work",
+        "Unidentified Betula",
+        "Trees in Salzburg (state)",
+        "Betula in February",
+        "Betula in Austria",
+        "Nature of Bürmoos",
+        "Blue hour in Salzburg (state)",
+        "Austria photographs taken on 2021-02-05",
+        "2021 in Bürmoos",
+        "Grundlose Straße, Bürmoos",
+        "February 2021 in Salzburg (state)",
+        "Roadside ditches",
+        "Night in Bürmoos"
+      ],
+      "auteur": "Eweht",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C3%BCrmoos_-_Zehmemoos_-_Grundlose_Stra%C3%9Fe_Motiv_-_2021_02_05-1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/B%C3%BCrmoos_-_Zehmemoos_-_Grundlose_Stra%C3%9Fe_Motiv_-_2021_02_05-1.jpg/1280px-B%C3%BCrmoos_-_Zehmemoos_-_Grundlose_Stra%C3%9Fe_Motiv_-_2021_02_05-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Canfield Island 1.jpg",
+      "description": "Narrow arm of the West Branch Susquehanna River (artificially dug in the late nineteenth century) separating Canfield Island from the mainland in Riverfront Park, Loyalsock Township, Lycoming County, Pennsylvania, USA",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A400",
+        "Ditches",
+        "Canfield Island",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work"
+      ],
+      "auteur": "Ruhrfisch ( talk )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Canfield_Island_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Canfield_Island_1.jpg/1280px-Canfield_Island_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

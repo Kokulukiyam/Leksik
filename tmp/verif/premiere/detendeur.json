@@ -1,0 +1,63 @@
+{
+  "termId": "detendeur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Circuit imprimé de laboratoire avec composants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux grandes bouteilles de gaz GPL contre un mur, avec une inverseuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Corée",
+      "note": "Bouteilles dominantes, détendeur petit et peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détendeur industriel sur un support orange dans une installation de tuyauterie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Installation complexe, élément peu isolé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Détendeur à deux manomètres bleus vissé sur une bouteille d'azote.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.0,
+        "largeur": 0.5,
+        "hauteur": 0.55
+      },
+      "lieu": "",
+      "note": "Détendeur clair sur bouteille, rectangle sur le détendeur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo noir et blanc d'un détendeur endommagé sur une paroi carrelée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne image peu lisible, élément petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Détendeur à deux manomètres et molette jaune vissé sur une bouteille de gaz.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.22,
+        "largeur": 0.42,
+        "hauteur": 0.45
+      },
+      "lieu": "",
+      "note": "Détendeur net sur bouteille, rectangle sur le détendeur."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "faux-plafond-a-lames-metalliques",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ossature et dalles d'un faux plafond de gare en chantier avec isolant projeté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, USA",
+      "note": "Faux plafond en dalles, pas à lames."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Guirlandes lumineuses de Noël dans une rue de Londres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond d'entrée à panneaux triangulaires et quelques lames en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fukuoka, Japon",
+      "note": "Panneaux triangulaires, lames à peine visibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade de théâtre de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tunnel en tôle ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un faux plafond."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plafond industriel rouillé à grilles dans un couloir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Rochelle, France",
+      "note": "Dégradé, pas de lames clipsées lisibles."
+    }
+  ]
+}

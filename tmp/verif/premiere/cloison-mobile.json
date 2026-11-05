@@ -1,0 +1,53 @@
+{
+  "termId": "cloison-mobile",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Box de bureau à cloisons basses tissu dans un espace de coworking.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Portland, USA",
+      "note": "Cloisons de bureau fixes, pas de panneaux coulissants."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Écrans séparateurs d'urinoirs dans des toilettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chine",
+      "note": "Séparateurs d'urinoirs, pas une cloison mobile."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chambre de réveil hospitalière avec un paravent à roulettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ravensburg, Allemagne",
+      "note": "Paravent médical, pas une cloison coulissante sur rail."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gravure de dictionnaire avec texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Lits d'hôpital avec paravents rideaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gunzenhausen, Allemagne",
+      "note": "Paravents, pas une cloison sur rail."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bâtiment à façade blanche au bord d'un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maidstone, Royaume-Uni",
+      "note": "Hors sujet."
+    }
+  ]
+}

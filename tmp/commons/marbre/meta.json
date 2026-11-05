@@ -3,12 +3,19 @@
     "id": "marbre",
     "terme": "le marbre",
     "categorie": "Matériaux et revêtements",
-    "definition": "Pierre calcaire cristalline, souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.",
-    "priorite": 1,
+    "definition": "Roche métamorphique issue du calcaire, cristalline et souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.",
+    "priorite": 2,
     "requetes": [
       "white marble veined slab",
       "marble cladding wall",
       "marbre veiné"
+    ],
+    "categoriesCommons": [
+      "Category:Marble",
+      "Category:Marble walls"
+    ],
+    "incompatibles": [
+      "pierre-de-taille"
     ]
   },
   "candidats": [
@@ -128,6 +135,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Golden_salon_%28ladies%27_room%29_-_Marble-clad_fireplace%2C_latter_half_of_the_19th_century%2C_wall_clock_above_fireplace_%28September_2026%29_02.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3008,
       "hauteur": 4016
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:New 3-storey San Ildefonso Municipal Hall Complex October 23 2026 Anyatam Pan-Philippine Highway 08.jpg",
+      "description": "Modern expansive extensive municipal grounds (children's playground distinct interactive dancing fountain - helipad - 4W4R+2H5 Bridge Maharlika Highway Old Cagayan Valley Road Asian Highway 26)",
+      "categories": [
+        "Garden plants",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Yellow marble",
+        "Marble walls",
+        "San Ildefonso Town Hall"
+      ],
+      "auteur": "P1898",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:New_3-storey_San_Ildefonso_Municipal_Hall_Complex_October_23_2026_Anyatam_Pan-Philippine_Highway_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/New_3-storey_San_Ildefonso_Municipal_Hall_Complex_October_23_2026_Anyatam_Pan-Philippine_Highway_08.jpg/1280px-New_3-storey_San_Ildefonso_Municipal_Hall_Complex_October_23_2026_Anyatam_Pan-Philippine_Highway_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Galala Marble.jpg",
+      "description": "Egyptian Marble Galala Slabs",
+      "categories": [
+        "Marble",
+        "Self-published work"
+      ],
+      "auteur": "Marmodesign",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Galala_Marble.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Galala_Marble.jpg/1280px-Galala_Marble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Christopher Columbus High School Chapel DSC02743.JPG",
+      "description": "Christopher Columbus High School Chapel",
+      "categories": [
+        "Taken with Sony DSC-T10",
+        "Christopher Columbus High School",
+        "Self-published work",
+        "PD-self",
+        "Corridors in the United States",
+        "Marble walls",
+        "Wooden doors in the United States"
+      ],
+      "auteur": "Nancy Heise",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Christopher_Columbus_High_School_Chapel_DSC02743.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Christopher_Columbus_High_School_Chapel_DSC02743.JPG/1280px-Christopher_Columbus_High_School_Chapel_DSC02743.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:34202 Marmor mit Spurit 1.jpg",
+      "description": "Marble with Spurrite - Merwinite Weight: 162.9 g Locality: Atakinsky massif, Podkamennaya Tunguska, Siberia, Russia",
+      "categories": [
+        "Marble",
+        "Spurrite",
+        "Self-published work",
+        "Images by J. Patrick Fischer",
+        "Minerals of Russia",
+        "Merwinite",
+        "Fotoaktion Mineralien München 2024"
+      ],
+      "auteur": "J. Patrick Fischer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:34202_Marmor_mit_Spurit_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/34202_Marmor_mit_Spurit_1.jpg/1280px-34202_Marmor_mit_Spurit_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4624,
+      "hauteur": 2604
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:NY Marble Cemetery wall with vault tablets.jpg",
+      "description": "The New York Marble Cemetery, with its entrance at 41 Second Avenue between 2nd and 3rd Streets in the East Village neighborhood of Manhattan, New York City, was founded in 1830 and was the first non-sectarian cemetery in the city. (Source: Guide to NYC Landmarks (4th ed.)) The Cemetery is generally open to the public on the fourth Sunay of the month from April to October, and on other days throughout the year. (Source: New York Marble Cemetary website ) This picture was taken on May 1, 2011.",
+      "categories": [
+        "GFDL",
+        "New York Marble Cemetery",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "New York City photographs taken on 2011-05-01",
+        "Images by Beyond My Ken/Below",
+        "Marble walls",
+        "Files with coordinates missing SDC location of creation",
+        "2011 in the East Village, Manhattan",
+        "Cemeteries in the United States photographed in 2011",
+        "Cemetery walls in the United States",
+        "May 2011 in Manhattan, New York City"
+      ],
+      "auteur": "Beyond My Ken",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:NY_Marble_Cemetery_wall_with_vault_tablets.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/NY_Marble_Cemetery_wall_with_vault_tablets.jpg/1280px-NY_Marble_Cemetery_wall_with_vault_tablets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Dolomitized marble in marble (Gouverneur Marble, Mesoproterozoic, ~1.1 Ga; Route 11 roadcut north of Antwerp, New York State, USA) 6.jpg",
+      "description": "Marble & dolomitized marble in the Precambrian of New York State, USA. Marble is a crystalline-textured metamorphic rock composed of calcite (CaCO3 - calcium carbonate). It bubbles in acid and does not scratch glass. Marble forms by the metamorphism of limestone, a common biogenic sedimentary rock. The outcrop seen here is composed of whitish marble that is graphitic and phlogopitic. Some incorporated calc-silicate rock clasts having reaction rims are present. The brownish rock with black staining at the right in this photo is dolomitized marble. That is not the same as dolomitic marble, which",
+      "categories": [
+        "Marble",
+        "Precambrian geology of New York (state)",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Dolomitized marble in marble (Gouverneur Marble, Mesoproterozoic; near Antwerp, New York State)"
+      ],
+      "auteur": "James St. John",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dolomitized_marble_in_marble_(Gouverneur_Marble,_Mesoproterozoic,_~1.1_Ga;_Route_11_roadcut_north_of_Antwerp,_New_York_State,_USA)_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Dolomitized_marble_in_marble_%28Gouverneur_Marble%2C_Mesoproterozoic%2C_~1.1_Ga%3B_Route_11_roadcut_north_of_Antwerp%2C_New_York_State%2C_USA%29_6.jpg/1280px-Dolomitized_marble_in_marble_%28Gouverneur_Marble%2C_Mesoproterozoic%2C_~1.1_Ga%3B_Route_11_roadcut_north_of_Antwerp%2C_New_York_State%2C_USA%29_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

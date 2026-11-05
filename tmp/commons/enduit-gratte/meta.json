@@ -11,7 +11,8 @@
       "scraped finish render facade"
     ],
     "incompatibles": [
-      "enduit"
+      "enduit",
+      "enduit-taloche"
     ],
     "categoriesCommons": [
       "Category:Sgraffito"
@@ -155,6 +156,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Paul_Haldimann_-_Sgraffito_am_Kindergarten_Gl%C3%A4rnisch.jpg/1280px-Paul_Haldimann_-_Sgraffito_am_Kindergarten_Gl%C3%A4rnisch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2999,
       "hauteur": 3217
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Carrara, piazza xviii aprile, studi d'arte nicoli, 01.jpg",
+      "description": "Piazza XXVII Aprile (Carrara)",
+      "categories": [
+        "Sgraffito",
+        "Self-published work",
+        "Photographs by User:Sailko",
+        "All media supported by Wikimedia CH",
+        "Images by Sailko - Supported by Wikimedia CH",
+        "Piazza XXVII Aprile (Carrara)",
+        "Laboratori artistici Nicoli"
+      ],
+      "auteur": "Sailko",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carrara,_piazza_xviii_aprile,_studi_d%27arte_nicoli,_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Carrara%2C_piazza_xviii_aprile%2C_studi_d%27arte_nicoli%2C_01.jpg/1280px-Carrara%2C_piazza_xviii_aprile%2C_studi_d%27arte_nicoli%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4049,
+      "hauteur": 5619
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Daniel Cox - Graffito in Bayerbach bei Ergoldsbach (DEU).jpg",
+      "description": "Graffito in Bayerbach bei Ergoldsbach (DEU)",
+      "categories": [
+        "Bavaria",
+        "Sgraffito",
+        "Bayerbach bei Ergoldsbach",
+        "Dirndl",
+        "Self-published work"
+      ],
+      "auteur": "Daniel Cox",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Daniel_Cox_-_Graffito_in_Bayerbach_bei_Ergoldsbach_(DEU).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Daniel_Cox_-_Graffito_in_Bayerbach_bei_Ergoldsbach_%28DEU%29.jpg/1280px-Daniel_Cox_-_Graffito_in_Bayerbach_bei_Ergoldsbach_%28DEU%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Gryf lev cp144.jpg",
+      "description": "Souboj gryfa se lvem, transfer sgrafita z domu č.p. 144",
+      "categories": [
+        "Sgraffito",
+        "Neumannova 144 (Prachatice)",
+        "Self-published work",
+        "Art in Prachatice"
+      ],
+      "auteur": "RobKuta",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gryf_lev_cp144.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Gryf_lev_cp144.jpg/1280px-Gryf_lev_cp144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3474,
+      "hauteur": 2737
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Kiel Landtagsprojekt Schleswig-Holstein by-RaBoe-201.jpg",
+      "description": "Kiel, Bilder wärend des Landtagsprojekt Schleswig-Holstein 2013",
+      "categories": [
+        "Sgraffito",
+        "GFDL",
+        "Taken with Nikon D90",
+        "Pietà",
+        "License migration redundant",
+        "Supported by Wikimedia Deutschland",
+        "Information field template with formatting",
+        "Sgraffito in Schleswig-Holstein",
+        "Images by RaBoe",
+        "Landtagsprojekt Schleswig-Holstein 2013",
+        "Reliefs in Kiel",
+        "Murals in Kiel",
+        "Christian sculptures in Kiel",
+        "Gedenkhalle (Rathaus Kiel)",
+        "Werner Lange (painter)"
+      ],
+      "auteur": "© Ra Boe / Wikipedia",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kiel_Landtagsprojekt_Schleswig-Holstein_by-RaBoe-201.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kiel_Landtagsprojekt_Schleswig-Holstein_by-RaBoe-201.jpg/1280px-Kiel_Landtagsprojekt_Schleswig-Holstein_by-RaBoe-201.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2600,
+      "hauteur": 1727
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Antytramwaj na Wrzeszczu, Gdańsk.jpg",
+      "description": "Protest antytramwajowy przy ul. Klonowej w Gdańsku.",
+      "categories": [
+        "Sgraffito",
+        "Demonstrations and protests in Poland",
+        "Trams in Gdańsk",
+        "Klonowa Street in Gdańsk",
+        "Self-published work",
+        "Modernism in Poland"
+      ],
+      "auteur": "MOs810",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antytramwaj_na_Wrzeszczu,_Gda%C5%84sk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Antytramwaj_na_Wrzeszczu%2C_Gda%C5%84sk.jpg/1280px-Antytramwaj_na_Wrzeszczu%2C_Gda%C5%84sk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Jánská 4 sgrafitta.jpg",
+      "description": "Kremlovský dům, Jánská čp. 315/III, č. o. 2ː sgrafitta na fasádě",
+      "categories": [
+        "Sgraffito",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Kremlovský dům"
+      ],
+      "auteur": "Dobroš",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:J%C3%A1nsk%C3%A1_4_sgrafitta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/J%C3%A1nsk%C3%A1_4_sgrafitta.jpg/1280px-J%C3%A1nsk%C3%A1_4_sgrafitta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3970,
+      "hauteur": 2978
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

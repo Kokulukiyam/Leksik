@@ -1,0 +1,53 @@
+{
+  "termId": "tomette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panneau de façade en pierre avec losange et fond rougeâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une tomette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Étal de fruits et légumes de supermarché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Panneau de façade en pierre cadré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une tomette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuile antique en terre cuite peinte dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une tomette de sol."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Sol de carreaux hexagonaux gris à relief en rosace.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de terre cuite rouge ; illustre le carreau hexagonal (déjà utilisée)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tas de petits carreaux de céramique colorés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vrac, pas posés en sol."
+    }
+  ]
+}

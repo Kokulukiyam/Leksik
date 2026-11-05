@@ -7,6 +7,19 @@
     "requetes": [
       "deepcat:\"Modillions\"",
       "modillions cornice"
+    ],
+    "requetes2": [
+      "modillions classical cornice",
+      "modillons corniche",
+      "modillion cornice detail"
+    ],
+    "incompatibles": [
+      "corniche"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Corbels",
+      "Category:Corbel tables"
     ]
   },
   "candidats": [
@@ -137,6 +150,165 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Intercession_Cathedral%2C_apse_medallion%2C_2020-04-13.jpg/1280px-Intercession_Cathedral%2C_apse_medallion%2C_2020-04-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5024,
       "hauteur": 3349
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:LBSaulnyHardwareNewOrleans.jpg",
+      "description": "906 Bourbon Street, New Orleans, Louisiana, 1937 or 1938. Window and door of \"L. B. Saulny Hardware Paints Oils\" store.",
+      "categories": [
+        "PD US",
+        "Corbels",
+        "Buckets",
+        "New Orleans in the 1930s",
+        "Commerce in the 1930s",
+        "Photographs by Frances Benjamin Johnston",
+        "PD-US missing SDC copyright status",
+        "Hardware stores in New Orleans",
+        "Shop signs in the French Quarter",
+        "Shop windows in the French Quarter",
+        "900 block of Bourbon Street, French Quarter",
+        "Black and white photographs of the French Quarter",
+        "Carnegie Survey of the Architecture of the South"
+      ],
+      "auteur": "Frances Benjamin Johnston",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:LBSaulnyHardwareNewOrleans.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/LBSaulnyHardwareNewOrleans.jpg/1280px-LBSaulnyHardwareNewOrleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3763,
+      "hauteur": 4754
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Collection- A. D. White Architectural Photographs, Cornell University Library (3678155201).jpg",
+      "description": "Collection : A. D. White Architectural Photographs, Cornell University Library Accession Number: 15/5/3090.00230 Title : Window detail Publisher: Bates, Kimball & Guild Photograph date: ca. 1893-ca. 1920 Location : North and Central America: United States; Massachusetts, Boston Materials : gelatin silver print Image: 6 1/4 x 8 1/8 in.; 15.875 x 20.6375 cm Provenance : Transfer from the College of Architecture, Art and Planning Persistent URI : http://hdl.handle.net/1813.001/5sdc There are no known U.S. copyright restrictions on this image. The digital file is owned by the Cornell University Li",
+      "categories": [
+        "Advertisements",
+        "Awnings",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Files with coordinates missing SDC location of creation",
+        "Unidentified advertisements",
+        "Corbel tables",
+        "Collection A. D. White Architectural Photographs",
+        "Skylights from outside"
+      ],
+      "auteur": "Cornell University Library",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Collection-_A._D._White_Architectural_Photographs,_Cornell_University_Library_(3678155201).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Collection-_A._D._White_Architectural_Photographs%2C_Cornell_University_Library_%283678155201%29.jpg/1280px-Collection-_A._D._White_Architectural_Photographs%2C_Cornell_University_Library_%283678155201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 1173
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Corbel with Human Bust and Acanthus Leaves MET DP369469.jpg",
+      "description": "Corbel; Sculpture",
+      "categories": [
+        "CC-Zero",
+        "Corbels",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Department of Islamic Art, Metropolitan Museum of Art",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Acanthus leaves in art",
+        "Rogers Fund - Sculptures",
+        "Architectural sculptures in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_DP369469.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_DP369469.jpg/1280px-Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_DP369469.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3421,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Al Jarina mosque P1040600.JPG",
+      "description": "Al Jarina mosque, Downtown, Haifa",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ8",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Round windows in Israel",
+        "Bottom views of buildings",
+        "Corbel tables",
+        "Balconies in Haifa",
+        "Al Jarina mosque and Sail Tower",
+        "Elef Milim - Downtown, Haifa",
+        "Al Jarina mosque clock tower",
+        "Al Jarina mosque in 2011"
+      ],
+      "auteur": "Deror_avi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al_Jarina_mosque_P1040600.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Al_Jarina_mosque_P1040600.JPG/1280px-Al_Jarina_mosque_P1040600.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Cairo downtown building detail DSCF2034.jpg",
+      "description": "Detail of corbels along a building in downtown Cairo.",
+      "categories": [
+        "Corbels",
+        "Downtown Cairo",
+        "Self-published work",
+        "Architectural elements in Cairo"
+      ],
+      "auteur": "R Prazeres",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cairo_downtown_building_detail_DSCF2034.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Cairo_downtown_building_detail_DSCF2034.jpg/1280px-Cairo_downtown_building_detail_DSCF2034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2250,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:BANESA QYTETARE SHKODRANE.jpg",
+      "description": "Ceci est une image d'un monument en Albanie, numéro :",
+      "categories": [
+        "Images from Wiki Loves Monuments 2018",
+        "Self-published work",
+        "Balconies in Albania",
+        "Bicycles in Albania",
+        "Men wearing yellow shorts",
+        "Mercedes-Benz automobiles in Albania",
+        "Nominated pictures for Wiki Loves Monuments International",
+        "Sidewalk cafés in Albania",
+        "Potted plants in Albania",
+        "June 2018 Albania photographs",
+        "Cultural heritage monuments in Albania with unknown IDs",
+        "Uploaded via Campaign:wlm-al",
+        "Corner buildings in Albania",
+        "Flower boxes in Albania",
+        "Files with coordinates missing SDC location of creation",
+        "Street photography in Albania",
+        "Images from Wiki Loves Monuments 2018 in Albania",
+        "Clouds and blue sky in Albania",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Women cycling",
+        "Streets in Shkodër",
+        "Striped awnings",
+        "Women calling with mobile phones",
+        "Corbel tables",
+        "Cultural heritage monuments in Shkodër County",
+        "Images from Wiki Loves Monuments 2018 European Special Award",
+        "Gjuhadol",
+        "Cycling in Shkodër"
+      ],
+      "auteur": "Sali Jonuzi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BANESA_QYTETARE_SHKODRANE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/BANESA_QYTETARE_SHKODRANE.jpg/1280px-BANESA_QYTETARE_SHKODRANE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5670,
+      "hauteur": 4016
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

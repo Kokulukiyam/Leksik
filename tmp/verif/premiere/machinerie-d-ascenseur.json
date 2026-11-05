@@ -1,0 +1,53 @@
+{
+  "termId": "machinerie-d-ascenseur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gaine vitrée d'ascenseurs dans un atrium de paquebot, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Turku, Finlande",
+      "note": "Gaine, pas de machinerie."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cabine d'ascenseur en bois vue de dessus dans la gaine métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hambourg, Allemagne",
+      "note": "Cabine et gaine, pas de moteur ni de treuil."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Armoire de commande électrique bleue d'ascenseur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armoire de commande, pas le moteur/treuil ; ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Armoire de commande électrique bleue d'ascenseur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armoire de commande, pas le moteur/treuil."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte d'ascenseur inox avec inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte palière, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cabine d'ascenseur dans une gaine à structure métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hambourg, Allemagne",
+      "note": "Cabine, pas de machinerie."
+    }
+  ]
+}

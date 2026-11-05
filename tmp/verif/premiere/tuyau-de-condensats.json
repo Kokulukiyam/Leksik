@@ -1,0 +1,53 @@
+{
+  "termId": "tuyau-de-condensats",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade de brique avec porte rouge, compteurs et petit groupe de climatisation à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyau de condensats non identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Descente d'eau pluviale en cuivre le long d'un mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oberoderwitz, Allemagne",
+      "note": "Descente d'eaux pluviales, pas un tuyau de condensats."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Split mural blanc sur un mur bleu avec câble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Split incompatible, aucun tuyau visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuyau gris oblique devant deux fenêtres rouges d'une façade abîmée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Origine du tuyau incertaine, pas de climatiseur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue aérienne de groupes extérieurs de climatisation sur un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Istanbul, Turquie",
+      "note": "Aucun tuyau de condensats lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Descente d'eau noire fuyant et projetant de l'eau de nuit au-dessus d'une grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Descente pluviale en fuite, pas un tuyau de condensats."
+    }
+  ]
+}

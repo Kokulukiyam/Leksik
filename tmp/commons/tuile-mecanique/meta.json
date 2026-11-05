@@ -121,6 +121,104 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Bajouca%2C_Portugal_%28105504374%29.jpg/1280px-Bajouca%2C_Portugal_%28105504374%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3008,
       "hauteur": 2000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A Roof Tile Tunnel.jpg",
+      "description": "There are 3 pieces of a broken roof tile making a tunnel.",
+      "categories": [
+        "Roof tiles",
+        "Self-published work"
+      ],
+      "auteur": "Herc2002",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Roof_Tile_Tunnel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_Roof_Tile_Tunnel.jpg/1280px-A_Roof_Tile_Tunnel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Church of the Nativity of the Virgin Mary in Wielowieś (12).jpg",
+      "description": "Kościół Narodzenia NMP w Wielowsi. Dachówka (fragm.) odpadła z mauzoleum von Scholzów.",
+      "categories": [
+        "Roof tiles",
+        "Self-published work",
+        "Church of the Nativity of the Virgin Mary in Wielowieś"
+      ],
+      "auteur": "MOs810",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_the_Nativity_of_the_Virgin_Mary_in_Wielowie%C5%9B_(12).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Church_of_the_Nativity_of_the_Virgin_Mary_in_Wielowie%C5%9B_%2812%29.jpg/1280px-Church_of_the_Nativity_of_the_Virgin_Mary_in_Wielowie%C5%9B_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1952,
+      "hauteur": 1324
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Dachpfannenprofil anbringen.jpeg",
+      "description": "Dachpfannenprofil Nordblech Klassik auf Nebengebäude decken",
+      "categories": [
+        "Roof tiles",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "HNB Nordbleche GmbH",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannenprofil_anbringen.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Dachpfannenprofil_anbringen.jpeg/1280px-Dachpfannenprofil_anbringen.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:BesserKircheD2a.jpg",
+      "description": "Besser Kirke attic stairs bells vaults - roof tiles",
+      "categories": [
+        "CC-Zero",
+        "Roof tiles",
+        "Self-published work",
+        "Besser Kirke attic stairs bells vaults"
+      ],
+      "auteur": "Christoph Rieder",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BesserKircheD2a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/BesserKircheD2a.jpg/1280px-BesserKircheD2a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2271,
+      "hauteur": 1702
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Castle, Silves (20518366418).jpg",
+      "description": "Castle, Silves",
+      "categories": [
+        "Roof tiles",
+        "Flickr images reviewed by FlickreviewR",
+        "Roofs in Portugal",
+        "Alcáçova de Silves"
+      ],
+      "auteur": "Paul Wilkinson from London, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castle,_Silves_(20518366418).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Castle%2C_Silves_%2820518366418%29.jpg/1280px-Castle%2C_Silves_%2820518366418%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Dachpfannen in Asendorf 003.JPG",
+      "description": "spanische Dachpfannen",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "GPL",
+        "Roof tiles"
+      ],
+      "auteur": "Syker Fotograf",
+      "licence": "GPL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannen_in_Asendorf_003.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Dachpfannen_in_Asendorf_003.JPG/1280px-Dachpfannen_in_Asendorf_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

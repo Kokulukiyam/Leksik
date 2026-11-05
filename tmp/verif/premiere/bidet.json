@@ -1,0 +1,53 @@
+{
+  "termId": "bidet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chaise de toilette ancienne en bois marqueté avec cuvette, dans un cabinet de château.",
+      "verdict": "rejetée",
+      "note": "Meuble ancien, pas un bidet sanitaire moderne reconnaissable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Peinture d'une femme assise près d'un bidet.",
+      "verdict": "rejetée",
+      "note": "Peinture.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bidet ancien en faïence décorée en forme de haricot, sur fond neutre.",
+      "verdict": "rejetée",
+      "note": "Objet de musée, pourrait passer pour une cuvette ou un plat.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bidet ancien en faïence monté sur un support en bois.",
+      "verdict": "rejetée",
+      "note": "Objet ancien, ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bidet en céramique blanche posé au sol, robinet chromé à croisillons laissant couler un jet dans la cuvette, murs carrelés.",
+      "verdict": "validée",
+      "lieu": "Breuil-Cervinia, Italie",
+      "note": "Bidet moderne net et dominant ; forme basse allongée sans abattant, sans doute possible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bidet suspendu blanc avec mitigeur chromé à bec orientable, bonde et robinet d'arrêt, sur carrelage noir.",
+      "verdict": "validée",
+      "note": "Bidet moderne clair, entièrement visible.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

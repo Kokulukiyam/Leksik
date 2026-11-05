@@ -1,0 +1,53 @@
+{
+  "termId": "climatiseur-de-fenetre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dos d'un appareil blanc flou avec tuyaux cuivre et raccords électriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, type d'appareil incertain (plutôt split)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grille d'extraction blanche à lamelles sur un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bouche de ventilation, pas un climatiseur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Refroidisseur d'air évaporatif sur pied avec ventilateur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rafraîchisseur mobile, pas un climatiseur de fenêtre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Militaire câblant un coffret électrique d'un groupe de climatisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Afghanistan",
+      "note": "Sans rapport net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ruelle avec nombreux groupes extérieurs de climatisation sur les murs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Singapour",
+      "note": "Unités extérieures, pas des monoblocs de fenêtre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Caisson ventilé grillagé éclairé de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, pas identifiable."
+    }
+  ]
+}

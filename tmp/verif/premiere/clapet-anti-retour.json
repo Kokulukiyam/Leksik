@@ -1,0 +1,53 @@
+{
+  "termId": "clapet-anti-retour",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Berge boisée d'un canal avec une petite sortie au loin.",
+      "verdict": "rejetée",
+      "note": "Clapet invisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Robinet à bille PVC vert à manette jaune sur un tuyau.",
+      "verdict": "rejetée",
+      "note": "Vanne d'arrêt, pas un clapet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue intérieure d'un clapet industriel à disque basculant.",
+      "verdict": "rejetée",
+      "note": "Vue interne industrielle, illisible pour un clapet de bâtiment.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poteau d'incendie rouge au pied d'un arbre.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Disque d'un clapet à tuyère posé sur des planches.",
+      "verdict": "rejetée",
+      "note": "Pièce isolée peu identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tête de borne à clé carrée marquée OUVERT/OPEN.",
+      "verdict": "rejetée",
+      "note": "Borne ou vanne, pas un clapet.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

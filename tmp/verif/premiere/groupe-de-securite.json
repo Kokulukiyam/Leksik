@@ -1,0 +1,58 @@
+{
+  "termId": "groupe-de-securite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Couvercle rouge d'une soupape murale dans un bunker, avec inscription allemande Überdruckventil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Plougonvelin, France",
+      "note": "Pas un groupe de sécurité ; texte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Groupe de sécurité en laiton avec soupape, poignée rouge et entonnoir blanc sous un chauffe-eau, raccordé en cuivre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.27,
+        "largeur": 0.64,
+        "hauteur": 0.55
+      },
+      "lieu": "",
+      "note": "Exemple typique, rectangle sur le groupe."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux grosses soupapes de sûreté industrielles sur palette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cologne, Allemagne",
+      "note": "Soupape industrielle, pas un groupe de sécurité."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vanne gaz sur un mur avec panneau valvola metano.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "Vanne de gaz, panneau visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Manomètre et soupape en laiton sur un autoclave ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équipement de chaudière ancienne, pas un groupe de sécurité."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Soupape de cafetière sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de cafetière."
+    }
+  ]
+}

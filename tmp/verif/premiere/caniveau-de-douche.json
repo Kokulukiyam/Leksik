@@ -1,0 +1,53 @@
+{
+  "termId": "caniveau-de-douche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sol carrelé de sanitaires avec une petite bonde ronde.",
+      "verdict": "rejetée",
+      "note": "Siphon de sol rond, pas un caniveau.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chèvre égorgée sur un caniveau à barres lors d'un abattage rituel.",
+      "verdict": "rejetée",
+      "note": "Hors sujet, image choquante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Douche vitrée en granit avec un caniveau fin à grille inox en L au pied de la paroi.",
+      "verdict": "rejetée",
+      "note": "Caniveau bien réel mais très fin, en L, partiellement derrière le verre, filigrane de copyright : rectangle impossible à bien cadrer, doute.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Déversoir en escalier dans un canal gelé.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche publicitaire avec rendus 3D de caniveaux de douche et texte chinois.",
+      "verdict": "rejetée",
+      "note": "Rendus et texte, pas une photo.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Évacuation en pierres d'un bain thermal romain.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "panneau-acoustique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond d'un terminal de bus avec grandes coques métalliques sous verrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un panneau acoustique identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade en béton couverte de vigne vierge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maquette de laboratoire transparente en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un panneau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plafond de vélodrome avec voiles tendus blanches entre panneaux d'OSB et poutres bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambigu : voiles tendues, pas un panneau acoustique clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Appareil de laboratoire en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Détail de coques métalliques sous verrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Non identifiable comme panneau acoustique."
+    }
+  ]
+}

@@ -109,6 +109,116 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Dampbrems_3.JPG/1280px-Dampbrems_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5184,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Aluminum foil sauna vapor barrier.jpg",
+      "description": "Alumiinipaperia saunan eristeenä.",
+      "categories": [
+        "Taken with Canon PowerShot A3100 IS",
+        "Aluminium foil",
+        "Vapor barriers",
+        "Saunas",
+        "Photographs taken on 2016-06-15"
+      ],
+      "auteur": "Santeri Viinamäki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminum_foil_sauna_vapor_barrier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Aluminum_foil_sauna_vapor_barrier.jpg/1280px-Aluminum_foil_sauna_vapor_barrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Dampfbremse mit Klebestreifen Modellaufbau.jpg",
+      "description": "Dampfbremse mit Klebestreifen",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "HTL-Mödchen23",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampfbremse_mit_Klebestreifen_Modellaufbau.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Dampfbremse_mit_Klebestreifen_Modellaufbau.jpg/1280px-Dampfbremse_mit_Klebestreifen_Modellaufbau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4068,
+      "hauteur": 2672
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Dampbrems 2.JPG",
+      "description": "Intello dampbrems fra Hunton. Sd 0,25 - Sd 25.",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampbrems_2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Dampbrems_2.JPG/1280px-Dampbrems_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:20260219 162053 Plastic sheeting under driveway.jpg",
+      "description": "Plastic sheeting under driveway",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Gayest Frogs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20260219_162053_Plastic_sheeting_under_driveway.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/20260219_162053_Plastic_sheeting_under_driveway.jpg/1280px-20260219_162053_Plastic_sheeting_under_driveway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:PowerShed build (DSC07547).jpg",
+      "description": "PowerShed build: wood stove is installed",
+      "categories": [
+        "Plywood",
+        "Vapor barriers",
+        "ISO speed rating 100",
+        "Self-published work",
+        "F-number f/8",
+        "Lens focal length 20 mm",
+        "Uploaded with dtMediaWiki",
+        "Photographs by Trougnouf in 2026",
+        "Wood burning heating stoves",
+        "Taken with Sony ILCE-7C and E 20mm F2.8 F050",
+        "PowerShed",
+        "Plywood flooring"
+      ],
+      "auteur": "Trougnouf (Benoit Brummer)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PowerShed_build_(DSC07547).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/PowerShed_build_%28DSC07547%29.jpg/1280px-PowerShed_build_%28DSC07547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3955,
+      "hauteur": 6001
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Georgia-Pacific ForceField moisture barrier sheathing.jpg",
+      "description": "moisture barrier sheathing with flashing tape",
+      "categories": [
+        "CC-Zero",
+        "Vapor barriers",
+        "Construction materials",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2024-08-12"
+      ],
+      "auteur": "Wikideas1",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Georgia-Pacific_ForceField_moisture_barrier_sheathing.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Georgia-Pacific_ForceField_moisture_barrier_sheathing.jpg/1280px-Georgia-Pacific_ForceField_moisture_barrier_sheathing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 1858
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

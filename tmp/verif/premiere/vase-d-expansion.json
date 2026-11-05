@@ -1,0 +1,53 @@
+{
+  "termId": "vase-d-expansion",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petit réservoir blanc Watts fixé au mur sur une tuyauterie cuivre de chauffe-eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étiquette lisible Potable Water Expansion Tank : donne la réponse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Schéma scientifique sur le système lymphatique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo du sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Figure scientifique de cellules de souris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo du sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Réservoir blanc Watts en gros plan sous une tuyauterie cuivre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wyoming, États-Unis",
+      "note": "Étiquette Potable Water Expansion Tank visible : donne la réponse."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panorama de port avec aéroport au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boston, États-Unis",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Coupe d'un vase à vessie bleu et rouge posé sur un bureau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coupe, rendu peu clair et orienté vessie."
+    }
+  ]
+}

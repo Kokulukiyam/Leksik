@@ -1,0 +1,187 @@
+[
+  {
+    "cle": "voute/09",
+    "accord": true,
+    "raison": "Photo réelle d'un plafond de nef en berceau à pénétrations, rythmé d'arcs doubleaux : la voûte couvre tout le cadre et domine nettement."
+  },
+  {
+    "cle": "pilastre/11",
+    "accord": true,
+    "raison": "Pilastre cannelé à chapiteau corinthien engagé dans le mur, bien cadré par le rectangle ; aucune ambiguïté avec une colonne."
+  },
+  {
+    "cle": "gargouille/09",
+    "accord": true,
+    "raison": "Gargouille animale en saillie dont la gueule crache l'eau de pluie, bien encadrée ; fonction de déversoir visible."
+  },
+  {
+    "cle": "gargouille/10",
+    "accord": true,
+    "raison": "Gargouille sculptée en saillie au sommet d'une tour, isolée sur le ciel et bien cadrée ; lisible."
+  },
+  {
+    "cle": "brique/11",
+    "accord": true,
+    "raison": "Façade entièrement en appareil de briques rouges avec joints visibles ; le matériau domine nettement malgré les encadrements en pierre."
+  },
+  {
+    "cle": "beton-brut/09",
+    "accord": true,
+    "raison": "Mur en béton laissé apparent avec empreinte des planches de coffrage, joints de banches et trous de tiges ; béton brut évident."
+  },
+  {
+    "cle": "cone-de-signalisation/12",
+    "accord": true,
+    "raison": "Deux cônes de signalisation orange à bande réfléchissante posés sur une chaussée, au premier plan et bien lisibles."
+  },
+  {
+    "cle": "porte-dogon/03",
+    "accord": true,
+    "raison": "Porte dogon en bois sculptée de rangées de figures en relief, avec ses tenons de pivot visibles ; objet entier et dominant."
+  },
+  {
+    "cle": "porte-dogon/04",
+    "accord": false,
+    "raison": "Gros plan sur des panneaux de bois sculptés de personnages et cavaliers : la porte elle-même (forme, pivot, serrure) n'est pas visible, on peut y voir un simple bas-relief."
+  },
+  {
+    "cle": "porte-dogon/06",
+    "accord": true,
+    "raison": "Porte dogon entière sculptée de figures, avec sa serrure en bois et son tenon de pivot ; sans ambiguïté."
+  },
+  {
+    "cle": "case-a-etage/06",
+    "accord": true,
+    "raison": "Grande habitation en banco à deux niveaux, aux piliers et murs de terre épais, avec galerie ; caractéristique de la case à étage (toit en tôle ici mais le type reste reconnaissable)."
+  },
+  {
+    "cle": "porte-a-galandage/01",
+    "accord": false,
+    "raison": "Paire de portes coulissantes à panneaux rentrant dans la cloison ; mais ce sont deux vantaux, donc « la porte à deux vantaux », proposée comme mauvaise réponse, serait aussi juste."
+  },
+  {
+    "cle": "porte-a-tambour/01",
+    "accord": true,
+    "raison": "Porte tambour vue de près : cylindre vitré et vantaux vitrés rayonnant autour de l'axe central, clairement lisible."
+  },
+  {
+    "cle": "porte-sectionnelle/01",
+    "accord": true,
+    "raison": "Porte de garage rouge à panneaux horizontaux avec portillon intégré, bien désignée par le rectangle malgré la borne à incendie au premier plan."
+  },
+  {
+    "cle": "porte-sectionnelle/04",
+    "accord": true,
+    "raison": "Porte de quai à panneaux horizontaux articulés avec hublot, bien encadrée ; typique d'une porte sectionnelle industrielle."
+  },
+  {
+    "cle": "arret-de-volet/02",
+    "accord": true,
+    "raison": "Arrêt de volet à bascule scellé dans le mur, en gros plan ; élément unique et dominant."
+  },
+  {
+    "cle": "arret-de-volet/06",
+    "accord": true,
+    "raison": "Arrêt de volet scellé dans le mur et retenant le bas d'un volet battant ouvert ; fonction bien visible."
+  },
+  {
+    "cle": "espagnolette/02",
+    "accord": true,
+    "raison": "Poignée en lyre d'espagnolette sur le montant d'une fenêtre à petits-bois avec son support ; ferrure caractéristique et dominante."
+  },
+  {
+    "cle": "espagnolette/06",
+    "accord": true,
+    "raison": "Espagnolette ouvragée en laiton : tige verticale et poignée bien visibles ; sans ambiguïté."
+  },
+  {
+    "cle": "grille-extensible/01",
+    "accord": true,
+    "raison": "Grille extensible à croisillons articulés au premier plan, en contre-jour, devant une balustrade ; le système en accordéon est lisible."
+  },
+  {
+    "cle": "double-vitrage/02",
+    "accord": true,
+    "raison": "Coin d'un double vitrage : deux verres séparés par un intercalaire perforé et un joint de scellement, très lisible."
+  },
+  {
+    "cle": "vitrage-feuillete/01",
+    "accord": false,
+    "raison": "Verre brisé en multitude de petits fragments réguliers : faciès typique du verre trempé, pas de la toile d'araignée du feuilleté ; rien ne montre le film."
+  },
+  {
+    "cle": "vitrage-feuillete/03",
+    "accord": false,
+    "raison": "Verre fracturé en fins granulés autour d'un impact : faciès de verre trempé plus que de feuilleté ; identification non fiable pour un architecte."
+  },
+  {
+    "cle": "penture/06",
+    "accord": true,
+    "raison": "Longue bande de fer rouillée clouée sur une porte en planches, avec son nœud d'articulation ; penture bien visible et dominante."
+  },
+  {
+    "cle": "moraillon/02",
+    "accord": true,
+    "raison": "Moraillon forgé passé sur son crampon et fermé par un cadenas, bien cadré par le rectangle."
+  },
+  {
+    "cle": "moraillon/04",
+    "accord": true,
+    "raison": "Moraillon plat fermé par un cadenas à code sur une porte à deux vantaux, bien encadré ; le crochet au-dessus est hors du rectangle."
+  },
+  {
+    "cle": "entrebailleur/01",
+    "accord": true,
+    "raison": "Entrebâilleur à chaîne et coulisse fixé sur la porte et le dormant, en gros plan ; sans ambiguïté."
+  },
+  {
+    "cle": "entrebailleur/04",
+    "accord": true,
+    "raison": "Entrebâilleur à chaîne ancien entre porte et huisserie, en gros plan ; très lisible."
+  },
+  {
+    "cle": "heurtoir/01",
+    "accord": true,
+    "raison": "Heurtoir en forme de chouette avec anneau mobile fixé sur une porte, isolé et dominant."
+  },
+  {
+    "cle": "heurtoir/04",
+    "accord": true,
+    "raison": "Heurtoir à mufle de lion et anneau sur une porte en bois, bien encadré par le rectangle."
+  },
+  {
+    "cle": "escalier-a-double-revolution/03",
+    "accord": true,
+    "raison": "Escalier monumental en marbre : une volée centrale aboutit à un palier d'où partent deux volées symétriques ; vue d'ensemble claire."
+  },
+  {
+    "cle": "escalier-escamotable/06",
+    "accord": true,
+    "raison": "Escalier escamotable en bois déplié depuis une trappe au plafond, avec ses ferrures, bien encadré."
+  },
+  {
+    "cle": "echelle-a-crinoline/01",
+    "accord": true,
+    "raison": "Échelle fixe verticale vue d'en bas avec ses arceaux de protection en crinoline ; sans ambiguïté."
+  },
+  {
+    "cle": "echelle-a-crinoline/04",
+    "accord": true,
+    "raison": "Échelle fixe en aluminium sur façade avec crinoline et palier de repos, bien désignée par le rectangle."
+  },
+  {
+    "cle": "trottoir-roulant/02",
+    "accord": true,
+    "raison": "Long tapis roulant plat dans un couloir d'aéroport, en perspective axiale ; très lisible."
+  },
+  {
+    "cle": "trottoir-roulant/06",
+    "accord": true,
+    "raison": "Trottoir roulant plat avec ses mains courantes dans une passerelle vitrée, vu depuis l'entrée ; sans ambiguïté."
+  },
+  {
+    "cle": "poteau-de-depart/02",
+    "accord": true,
+    "raison": "Poteau de départ massif doré et sculpté au bas d'une rampe en fer forgé, recevant la main courante ; bien encadré."
+  }
+]

@@ -12,7 +12,125 @@
     ],
     "incompatibles": [
       "dallage"
+    ],
+    "categoriesCommons": [
+      "Category:Gravel",
+      "Category:Crushed stone"
     ]
   },
-  "candidats": []
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Auenrenaturierung Chly Rhy, Bauarbeiten für neuen Trockenstandort.JPG",
+      "description": "Das Bild zeigt die Stelle, an der ein neuer Trockenstandort entstehen soll. Die Arbeiten finden im Rahmen des Auenrenaturierungs-Projekts \"Chly Rhy\" in Rietheim statt. Etwas oberhalb der Bildmitte sieht man die Kantonsstrasse und die Bahnlinie, darunter einen ehemaligen Bunker auf dem eine neue Beobachtungsplattform geschaffen wurde. Im Hintergrund ist der Laubberg zu sehen.",
+      "categories": [
+        "Gravel",
+        "Repurposed buildings",
+        "Chly Rhy",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Joris Egger",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Auenrenaturierung_Chly_Rhy,_Bauarbeiten_f%C3%BCr_neuen_Trockenstandort.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Auenrenaturierung_Chly_Rhy%2C_Bauarbeiten_f%C3%BCr_neuen_Trockenstandort.JPG/1280px-Auenrenaturierung_Chly_Rhy%2C_Bauarbeiten_f%C3%BCr_neuen_Trockenstandort.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Park in Świerklaniec, Industriada 2014 pic24.JPG",
+      "description": "Schotterproben zur Auswahl einer geeigneten Wegbefestigung im Schlosspark von Schloss Neudeck",
+      "categories": [
+        "Taken with Canon PowerShot SX100 IS",
+        "Park in Świerklaniec",
+        "Crushed stone",
+        "Self-published work",
+        "Industriada 2014"
+      ],
+      "auteur": "WikiAnika",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Park_in_%C5%9Awierklaniec,_Industriada_2014_pic24.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Park_in_%C5%9Awierklaniec%2C_Industriada_2014_pic24.JPG/1280px-Park_in_%C5%9Awierklaniec%2C_Industriada_2014_pic24.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:20160928Hockenheim2.jpg",
+      "description": "Vom Regen ausgewaschene Steine am Messplatz in Hockenheim",
+      "categories": [
+        "CC-Zero",
+        "Gravel",
+        "Self-published work",
+        "Hockenheim photographs taken on 2016-09-28",
+        "Nature of Hockenheim in September 2016",
+        "Files with coordinates missing SDC location of creation (49° N, 8° E)"
+      ],
+      "auteur": "AnRo0002",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20160928Hockenheim2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/20160928Hockenheim2.jpg/1280px-20160928Hockenheim2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dortmund - PW-Haldenweg - Halde Hympendahl + Hochofenwerk 01 ies.jpg",
+      "description": "Halde Hympendahl vor der Hochofenanlage in Dortmund",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Crushed stone",
+        "Self-published work",
+        "Photographs taken on 2013-09-27",
+        "Hochofenanlage Hoesch Phoenix-West",
+        "Halde Hympendahl"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dortmund_-_PW-Haldenweg_-_Halde_Hympendahl_%2B_Hochofenwerk_01_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Dortmund_-_PW-Haldenweg_-_Halde_Hympendahl_%2B_Hochofenwerk_01_ies.jpg/1280px-Dortmund_-_PW-Haldenweg_-_Halde_Hympendahl_%2B_Hochofenwerk_01_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:- panoramio (294).jpg",
+      "description": "Template:Mos",
+      "categories": [
+        "Gravel",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2011-09-02",
+        "Images from Panoramio with bad file names"
+      ],
+      "auteur": "sevimaltnbag@gmail.c…",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_(294).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/-_panoramio_%28294%29.jpg/1280px--_panoramio_%28294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dortmund - PW-Haldenweg - Halde Hympendahl 07 ies.jpg",
+      "description": "Halde Hympendahl in Dortmund",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Crushed stone",
+        "Self-published work",
+        "Photographs taken on 2013-09-27",
+        "Halde Hympendahl"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dortmund_-_PW-Haldenweg_-_Halde_Hympendahl_07_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Dortmund_-_PW-Haldenweg_-_Halde_Hympendahl_07_ies.jpg/1280px-Dortmund_-_PW-Haldenweg_-_Halde_Hympendahl_07_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    }
+  ]
 }

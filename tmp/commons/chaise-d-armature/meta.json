@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "ferraillage",
-      "ferraillage-de-dalle"
+      "ferraillage-de-dalle",
+      "cale-d-armature"
     ],
     "categoriesCommons": [
       "Category:Rebar",
@@ -139,6 +140,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_30.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5184,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bewehrungsstahl Boden Trogbauwerk.jpg",
+      "description": "Standort zwischen Margarete-Kubicka-Brücke und Mathilde-Rathenau-Brücke",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Bundesautobahn 100 (Berlin-Neukölln)"
+      ],
+      "auteur": "FellTiger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bewehrungsstahl_Boden_Trogbauwerk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Bewehrungsstahl_Boden_Trogbauwerk.jpg/1280px-Bewehrungsstahl_Boden_Trogbauwerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Adeguamento AV-AC, tratto Cancello - Frasso Telesino (2020) 2.jpg",
+      "description": "Lavori di adeguamento della ferrovia Napoli - Foggia agli standard di AV / AC, qui in costruzione nel tratto tra Valle di Maddaloni (CE) e Sant'Agata de' Goti (BN)",
+      "categories": [
+        "Taburno Camposauro",
+        "Reinforced concrete",
+        "CC-Zero",
+        "Naples–Foggia railway",
+        "Construction sites in 2020",
+        "Columns in Italy",
+        "Images with annotations",
+        "Structures under construction",
+        "Self-published work",
+        "Maintenance of way",
+        "Views from trains in Italy",
+        "2020 in Campania",
+        "Rail transport construction sites in Italy",
+        "Concrete pillars",
+        "Monti di Durazzano"
+      ],
+      "auteur": "VallVit",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adeguamento_AV-AC,_tratto_Cancello_-_Frasso_Telesino_(2020)_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Adeguamento_AV-AC%2C_tratto_Cancello_-_Frasso_Telesino_%282020%29_2.jpg/1280px-Adeguamento_AV-AC%2C_tratto_Cancello_-_Frasso_Telesino_%282020%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Blue lines - Flickr - mRio.jpg",
+      "description": "Blue lines",
+      "categories": [
+        "Rebar",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2005-08-13",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "mario",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_lines_-_Flickr_-_mRio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Blue_lines_-_Flickr_-_mRio.jpg/1280px-Blue_lines_-_Flickr_-_mRio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Baustahlmaschine.JPG",
+      "description": "Maschine zum Biegen von Baustahl",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Supported by Wikimedia Deutschland",
+        "Fotoprojekt Bauma 2016 (supported by Wikimedia Deutschland)"
+      ],
+      "auteur": "Mailtosap",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baustahlmaschine.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Baustahlmaschine.JPG/1280px-Baustahlmaschine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Aluminum Formwork.JPG",
+      "description": "Multi-store concrete construction in Mexico using aluminum concrete formwork.",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Olympus u1030SW / S-1030SW",
+        "License migration redundant",
+        "Self-published work",
+        "Aluminium industry in Mexico"
+      ],
+      "auteur": "WTF Formwork http://www.wallties.com",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminum_Formwork.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Aluminum_Formwork.JPG/1280px-Aluminum_Formwork.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2892,
+      "hauteur": 2580
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:ArianRebar.jpg",
+      "description": "Manufactured products: rebar",
+      "categories": [
+        "Rebar",
+        "Self-published work"
+      ],
+      "auteur": "Sadeghpa80",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ArianRebar.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/ArianRebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1231,
+      "hauteur": 714
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

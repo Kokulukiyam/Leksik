@@ -3,11 +3,25 @@
     "id": "grenier-dogon",
     "terme": "le grenier dogon",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Petit bâtiment en banco, coiffé d'un toit conique de paille, qui sert à stocker le mil.",
+    "definition": "Petit bâtiment en banco de plan carré ou rond, coiffé d'un chapeau conique de paille, qui sert à stocker le mil dans les villages des falaises de Bandiagara.",
     "requetes": [
       "Dogon granary",
       "grenier dogon",
       "Dogon granaries"
+    ],
+    "requetes2": [
+      "Dogon granary Bandiagara",
+      "greniers Dogon falaise",
+      "granaries Dogon village"
+    ],
+    "priorite": 3,
+    "incompatibles": [
+      "banco"
+    ],
+    "categoriesCommons": [
+      "Category:Dogon granaries",
+      "Category:Granaries in Mali",
+      "Category:Granaries"
     ]
   },
   "candidats": [
@@ -133,6 +147,118 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Barn_decoration%2C_Dogon_people_01.jpg/1280px-Barn_decoration%2C_Dogon_people_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1553,
       "hauteur": 3009
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Музеј афричке уметности - врата амбара, Догон.jpg",
+      "description": "Музеј афричке уметности - врата амбара, Догон",
+      "categories": [
+        "Self-published work",
+        "Collections of the Museum of African Art (Belgrade)",
+        "Dogon granaries",
+        "Dogon doors",
+        "Projekat Kulturno nasleđe Srbije 2021",
+        "Dogon collection in the Museum of African art in Belgrade"
+      ],
+      "auteur": "DjordjeMarkovic",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D0%B0%D1%84%D1%80%D0%B8%D1%87%D0%BA%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_-_%D0%B2%D1%80%D0%B0%D1%82%D0%B0_%D0%B0%D0%BC%D0%B1%D0%B0%D1%80%D0%B0,_%D0%94%D0%BE%D0%B3%D0%BE%D0%BD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D0%B0%D1%84%D1%80%D0%B8%D1%87%D0%BA%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_-_%D0%B2%D1%80%D0%B0%D1%82%D0%B0_%D0%B0%D0%BC%D0%B1%D0%B0%D1%80%D0%B0%2C_%D0%94%D0%BE%D0%B3%D0%BE%D0%BD.jpg/1280px-%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D0%B0%D1%84%D1%80%D0%B8%D1%87%D0%BA%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_-_%D0%B2%D1%80%D0%B0%D1%82%D0%B0_%D0%B0%D0%BC%D0%B1%D0%B0%D1%80%D0%B0%2C_%D0%94%D0%BE%D0%B3%D0%BE%D0%BD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3710,
+      "hauteur": 5564
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Dwa spichlerze - Yougo-Na - 001237s.jpg",
+      "description": "",
+      "categories": [
+        "1977 in Mali",
+        "Images from Józef Burszta Digital Archives",
+        "Yougo-Na",
+        "Granaries in Mali"
+      ],
+      "auteur": "Ryszard Vorbrich",
+      "licence": "CC BY-SA 3.0 pl",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dwa_spichlerze_-_Yougo-Na_-_001237s.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Dwa_spichlerze_-_Yougo-Na_-_001237s.jpg/1280px-Dwa_spichlerze_-_Yougo-Na_-_001237s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1293
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Granary foundation stones 2.jpg",
+      "description": "Foundation stones on which once stood the granaries of the legend, Katangwan Mungwob, as narrated, Uza, Kpak, Kagoro, Nigeria",
+      "categories": [
+        "Kagoro",
+        "Grass",
+        "Granaries",
+        "Foundation stones",
+        "Self-published work",
+        "Photowalk in Nok, Zangon Kataf, Kafanchan, Kagoro and Godogodo/Kagoro",
+        "Tyap Wikimedians User Group in 2022",
+        "Photowalk in Nok, Zangon Kataf, Kafanchan, Kagoro and Godogodo"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granary_foundation_stones_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Granary_foundation_stones_2.jpg/1280px-Granary_foundation_stones_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Gliniane spichlerze w wiosce - wieś Songhaj - 001206s.jpg",
+      "description": "",
+      "categories": [
+        "Songhai people",
+        "1976 in Mali",
+        "Images from Józef Burszta Digital Archives",
+        "Granaries in Mali",
+        "Clay granaries"
+      ],
+      "auteur": "Ryszard Vorbrich",
+      "licence": "CC BY-SA 3.0 pl",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gliniane_spichlerze_w_wiosce_-_wie%C5%9B_Songhaj_-_001206s.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Gliniane_spichlerze_w_wiosce_-_wie%C5%9B_Songhaj_-_001206s.jpg/1280px-Gliniane_spichlerze_w_wiosce_-_wie%C5%9B_Songhaj_-_001206s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1294
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Spichlerz 1856 Żylicze.jpg",
+      "description": "Pozostałość po zespole folwarcznym. Obiekt wpisany do rejestru zabytków, nr rej.:751 z 21.02.1991",
+      "categories": [
+        "Granaries",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Maria Weronika Kmoch",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spichlerz_1856_%C5%BBylicze.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Spichlerz_1856_%C5%BBylicze.jpg/1280px-Spichlerz_1856_%C5%BBylicze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 1746
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Mali1974-038 hg.jpg",
+      "description": "Mud buildings with flat roofs and thatched roof granaries — Dogon, Mali.",
+      "categories": [
+        "Thatched roof granaries",
+        "Dogon architecture",
+        "Thatched roofs in Mali",
+        "Scanned with Nikon Super Coolscan 4000 ED",
+        "Dogon granaries",
+        "Mali & Dogon 1974 photos by H. Grobe"
+      ],
+      "auteur": "H. Grobe",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mali1974-038_hg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Mali1974-038_hg.jpg/1280px-Mali1974-038_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3597,
+      "hauteur": 2263
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

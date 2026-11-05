@@ -12,7 +12,10 @@
     ],
     "incompatibles": [
       "caniveau",
-      "grille-avaloir"
+      "grille-avaloir",
+      "canal-d-eaux-pluviales",
+      "fosse",
+      "avaloir"
     ],
     "categoriesCommons": [
       "Category:Drains"
@@ -126,6 +129,128 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Drain-Santa-Elena-Entrance-Right.jpg/1280px-Drain-Santa-Elena-Entrance-Right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2296,
       "hauteur": 4080
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Blaen Bran Drainage Channel.jpg",
+      "description": "In the community woodland, the drainage channel from the disused Blaen Bran Reservoir.",
+      "categories": [
+        "Ditches in Wales",
+        "Torfaen",
+        "Drains",
+        "Self-published work",
+        "Blaen-Bran Community Woodland",
+        "Blaen Bran reservoir"
+      ],
+      "auteur": "WelshDave",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blaen_Bran_Drainage_Channel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Blaen_Bran_Drainage_Channel.jpg/1280px-Blaen_Bran_Drainage_Channel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Clinton power station run off.jpg",
+      "description": "Clinton nuclear generating station coolant run off, Illinois, USA",
+      "categories": [
+        "Taken with Canon EOS 5D",
+        "Cooling",
+        "Drains",
+        "DeWitt County, Illinois",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2008-01-21",
+        "Files by User:Dschwen"
+      ],
+      "auteur": "Daniel Schwen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clinton_power_station_run_off.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Clinton_power_station_run_off.jpg/1280px-Clinton_power_station_run_off.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4368,
+      "hauteur": 2912
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:A brick built land drain - geograph.org.uk - 1045460.jpg",
+      "description": "A brick built land drain",
+      "categories": [
+        "Drains",
+        "Peasenhall",
+        "Images from Geograph Britain and Ireland",
+        "Images by Adrian Cable",
+        "United Kingdom photographs taken on 2008-11-14"
+      ],
+      "auteur": "Adrian Cable",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_brick_built_land_drain_-_geograph.org.uk_-_1045460.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/A_brick_built_land_drain_-_geograph.org.uk_-_1045460.jpg/1280px-A_brick_built_land_drain_-_geograph.org.uk_-_1045460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Desaugadoiro dos baños ao aire libre de Aquis Querquennis. Baños de Bande. Bande. Galiza.jpg",
+      "description": "Drain of the thermae of Aquis Querquennis, Baños de Bande, Bande, Galicia (Spain).",
+      "categories": [
+        "Drains",
+        "Self-published work",
+        "Ancient Roman thermae of Aquis Querquennis"
+      ],
+      "auteur": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Desaugadoiro_dos_ba%C3%B1os_ao_aire_libre_de_Aquis_Querquennis._Ba%C3%B1os_de_Bande._Bande._Galiza.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Desaugadoiro_dos_ba%C3%B1os_ao_aire_libre_de_Aquis_Querquennis._Ba%C3%B1os_de_Bande._Bande._Galiza.jpg/1280px-Desaugadoiro_dos_ba%C3%B1os_ao_aire_libre_de_Aquis_Querquennis._Ba%C3%B1os_de_Bande._Bande._Galiza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4705,
+      "hauteur": 3137
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bergbach (27011969563).jpg",
+      "description": "Bergbach",
+      "categories": [
+        "Drains",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Lukas Plewnia"
+      ],
+      "auteur": "Lukas Plewnia from Winterthur, Schweiz",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bergbach_(27011969563).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bergbach_%2827011969563%29.jpg/1280px-Bergbach_%2827011969563%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Calhoun Lake Hilda drain.jpg",
+      "description": "Closeup of drain on Lake Hilda Blountstown, Florida at the partially-flooded dam/Sherry Avenue bridge.",
+      "categories": [
+        "Dams in Florida",
+        "GFDL",
+        "Drains",
+        "License migration redundant",
+        "Flooded roads in Florida",
+        "December 2020 in Florida",
+        "Bridges in the United States photographed in 2020",
+        "Self-published work",
+        "Guardrails in Calhoun County, Florida",
+        "Lake Hilda",
+        "United States photographs taken on 2020-12-22",
+        "Road bridges in Calhoun County, Florida",
+        "Images by The Bushranger taken with Panasonic Lumix DMC-FZ18",
+        "Flooded bridges",
+        "Streets in Blountstown, Florida",
+        "2020 in Blountstown, Florida"
+      ],
+      "auteur": "The Bushranger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calhoun_Lake_Hilda_drain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Calhoun_Lake_Hilda_drain.jpg/1280px-Calhoun_Lake_Hilda_drain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

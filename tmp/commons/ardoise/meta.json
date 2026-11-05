@@ -3,10 +3,20 @@
     "id": "ardoise",
     "terme": "l'ardoise",
     "categorie": "Matériaux et revêtements",
-    "definition": "Pierre fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
+    "definition": "Roche schisteuse fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
     "requetes": [
       "incategory:\"Slate roofs\"",
       "slate roof"
+    ],
+    "requetes2": [
+      "slate roof close-up",
+      "toit en ardoise",
+      "slate roofing tiles house"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Slate roofs",
+      "Category:Slate"
     ]
   },
   "candidats": [
@@ -127,6 +137,126 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Epl312_7241665.jpg/1280px-Epl312_7241665.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3024,
       "hauteur": 4032
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:230 Oberon Street Coogee NSW.jpg",
+      "description": "Federation house at 230 Oberon Street Coogee NSW showing rare example of a slate patterned roof. The front gable roofing is also patterned. House is not heritage-protected and front windows have been altered.",
+      "categories": [
+        "Slate roofs",
+        "Federation architecture in Australia",
+        "Self-published work",
+        "April 2013 in New South Wales",
+        "Roofs in New South Wales",
+        "Federation houses in Coogee, New South Wales"
+      ],
+      "auteur": "Ruwoltj",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:230_Oberon_Street_Coogee_NSW.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/230_Oberon_Street_Coogee_NSW.jpg/1280px-230_Oberon_Street_Coogee_NSW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1438
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Acunta, 03, sestup, 20240707 145644.jpg",
+      "description": "Descending from the Atsunta Pass",
+      "categories": [
+        "Veronica telephiifolia",
+        "Slate",
+        "Uploaded with pattypan",
+        "Atsunta pass",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Draceane – Georgia",
+        "Georgia (country) photographs taken on 2024-07-07",
+        "Wild flowers in Georgia (country)",
+        "Taken with Samsung Galaxy A23 5G"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acunta,_03,_sestup,_20240707_145644.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Acunta%2C_03%2C_sestup%2C_20240707_145644.jpg/1280px-Acunta%2C_03%2C_sestup%2C_20240707_145644.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3060
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Acunta, 02, v sedle, 2024 (18).jpg",
+      "description": "Atsunta Pass",
+      "categories": [
+        "Slate",
+        "Uploaded with pattypan",
+        "Atsunta pass",
+        "Atsunta Range",
+        "Mountains with clouds in Georgia (country)",
+        "Files by Draceane – Georgia",
+        "Taken with Canon EOS 90D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C",
+        "Georgia (country) photographs taken on 2024-07-07"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acunta,_02,_v_sedle,_2024_(18).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Acunta%2C_02%2C_v_sedle%2C_2024_%2818%29.jpg/1280px-Acunta%2C_02%2C_v_sedle%2C_2024_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6960,
+      "hauteur": 4640
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bulgaria Shiroka laka.jpg",
+      "description": "View from Shiroka Laka",
+      "categories": [
+        "Slate roofs",
+        "Shiroka Laka",
+        "Self-published work",
+        "Roofs in Bulgaria"
+      ],
+      "auteur": "Rumensz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bulgaria_Shiroka_laka.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bulgaria_Shiroka_laka.jpg/1280px-Bulgaria_Shiroka_laka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Acunta, 01, výstup do sedla, 20240707 130140.jpg",
+      "description": "Ascending to the Atsunta Pass",
+      "categories": [
+        "Slate",
+        "Uploaded with pattypan",
+        "Atsunta pass",
+        "Atsunta Range",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Draceane – Georgia",
+        "Georgia (country) photographs taken on 2024-07-07",
+        "Taken with Samsung Galaxy A23 5G"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acunta,_01,_v%C3%BDstup_do_sedla,_20240707_130140.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Acunta%2C_01%2C_v%C3%BDstup_do_sedla%2C_20240707_130140.jpg/1280px-Acunta%2C_01%2C_v%C3%BDstup_do_sedla%2C_20240707_130140.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3060
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Golino San Giorgio campanile 060415.jpg",
+      "description": "Tower of San Giorgio church in Golino.",
+      "categories": [
+        "Slate roofs",
+        "San Giorgio (Golino)",
+        "Self-published work",
+        "Church towers in Switzerland",
+        "Stone church towers"
+      ],
+      "auteur": "NAC",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Golino_San_Giorgio_campanile_060415.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Golino_San_Giorgio_campanile_060415.jpg/1280px-Golino_San_Giorgio_campanile_060415.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1365,
+      "hauteur": 2048
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

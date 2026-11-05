@@ -127,6 +127,106 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Anton_Nowak_-_Gasthaus_in_Salona_an_der_Stra%C3%9Fe_nach_Glisse_-_3225_-_%C3%96sterreichische_Galerie_Belvedere.jpg/1280px-Anton_Nowak_-_Gasthaus_in_Salona_an_der_Stra%C3%9Fe_nach_Glisse_-_3225_-_%C3%96sterreichische_Galerie_Belvedere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3508,
       "hauteur": 2468
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Solin 20200509 03.jpg",
+      "description": "Solin, Croatia",
+      "categories": [
+        "Solin",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Argo Navis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solin_20200509_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Solin_20200509_03.jpg/1280px-Solin_20200509_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3096,
+      "hauteur": 4128
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Predmestie Splitu - panoramio.jpg",
+      "description": "Predmestie Splitu",
+      "categories": [
+        "Taken with Panasonic NV-GS320",
+        "Solin",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Croatia photographs taken on 2008-07-23"
+      ],
+      "auteur": "Joseph McDzedo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Predmestie_Splitu_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Predmestie_Splitu_-_panoramio.jpg/1280px-Predmestie_Splitu_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1152
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Solin ulice.jpg",
+      "description": "Město Solin u Splitu",
+      "categories": [
+        "Solin",
+        "Self-published work"
+      ],
+      "auteur": "VitVit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solin_ulice.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Solin_ulice.jpg/1280px-Solin_ulice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4984,
+      "hauteur": 2733
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Hory od Solinu.jpg",
+      "description": "Město Solin u Splitu",
+      "categories": [
+        "Solin",
+        "Self-published work"
+      ],
+      "auteur": "VitVit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hory_od_Solinu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hory_od_Solinu.jpg/1280px-Hory_od_Solinu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Solin, Croatia 20250111 02.jpg",
+      "description": "Solin, Croatia",
+      "categories": [
+        "Solin",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Argo Navis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solin,_Croatia_20250111_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Solin%2C_Croatia_20250111_02.jpg/1280px-Solin%2C_Croatia_20250111_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Solin památník 2000.jpg",
+      "description": "Město Solin u Splitu",
+      "categories": [
+        "Solin",
+        "Self-published work",
+        "Churches in Solin"
+      ],
+      "auteur": "VitVit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solin_pam%C3%A1tn%C3%ADk_2000.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Solin_pam%C3%A1tn%C3%ADk_2000.jpg/1280px-Solin_pam%C3%A1tn%C3%ADk_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4620,
+      "hauteur": 3022
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

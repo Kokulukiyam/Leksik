@@ -11,7 +11,8 @@
       "anchor rods foundation"
     ],
     "incompatibles": [
-      "platine"
+      "platine",
+      "assemblage-boulonne"
     ],
     "categoriesCommons": [
       "Category:Anchor bolts",
@@ -128,6 +129,128 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Piastra_di_ancoraggio_a_muro.jpg/1280px-Piastra_di_ancoraggio_a_muro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4096,
       "hauteur": 3072
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Concrete Foundation Scabbling.jpg",
+      "description": "Closeup of worker beginning to scabble a concrete foundation in preparation for grouting underneath a frame for a pump skid.",
+      "categories": [
+        "Taken with Canon Digital IXUS 70",
+        "Concrete",
+        "Foundations (architecture)",
+        "Anchor bolts",
+        "Playa del Rey, Los Angeles",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "CheMechanical",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_Foundation_Scabbling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Concrete_Foundation_Scabbling.jpg/1280px-Concrete_Foundation_Scabbling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Banjo bolts.jpg",
+      "description": "A pair of banjo bolts , used on automotive brake unions.",
+      "categories": [
+        "GFDL",
+        "Taken with Pentax Optio P70",
+        "Fittings",
+        "Bolts",
+        "License migration redundant",
+        "Self-published work",
+        "Hydraulical connectors",
+        "Brake parts"
+      ],
+      "auteur": "Alison Cassidy",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banjo_bolts.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Banjo_bolts.jpg/1280px-Banjo_bolts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2247,
+      "hauteur": 1685
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Concrete Foundation Scabbling Closeup.jpg",
+      "description": "Closeup of scabbled concrete during the process of preparing a foundation for grout installation.",
+      "categories": [
+        "Taken with Canon Digital IXUS 70",
+        "Concrete",
+        "Foundations (architecture)",
+        "Anchor bolts",
+        "Playa del Rey, Los Angeles",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "CheMechanical",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_Foundation_Scabbling_Closeup.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Concrete_Foundation_Scabbling_Closeup.jpg/1280px-Concrete_Foundation_Scabbling_Closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Adlikon-Ossingen - Thurbrücke 2011-09-26 13-56-50.JPG",
+      "description": "Thurbrücke in Adlikon - Ossingen ( Suisse )",
+      "categories": [
+        "Taken with Nikon D90",
+        "Rust",
+        "Thurbrücke Ossingen",
+        "Bolts",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Switzerland photographs taken on 2011-09-26",
+        "Photographs by Roland Fischer"
+      ],
+      "auteur": "Roland zh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adlikon-Ossingen_-_Thurbr%C3%BCcke_2011-09-26_13-56-50.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Adlikon-Ossingen_-_Thurbr%C3%BCcke_2011-09-26_13-56-50.JPG/1280px-Adlikon-Ossingen_-_Thurbr%C3%BCcke_2011-09-26_13-56-50.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Calculo de anclajes.jpg",
+      "description": "Calculo de anclajes: proximidad de los bordes y distancia más corta",
+      "categories": [
+        "Anchor bolts",
+        "Self-published work",
+        "Media needing category review as of 16 June 2015"
+      ],
+      "auteur": "Glwikies",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calculo_de_anclajes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Calculo_de_anclajes.jpg/1280px-Calculo_de_anclajes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1578,
+      "hauteur": 612
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bolds in the box.jpg",
+      "description": "Bolts in the box",
+      "categories": [
+        "Czech Republic photographs taken on 2011-08-23",
+        "Taken with Panasonic Lumix DMC-TZ5",
+        "Nuts (hardware)",
+        "Bolts",
+        "Carriage bolts",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files by User:Sevela.p",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would lik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bolds_in_the_box.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bolds_in_the_box.jpg/1280px-Bolds_in_the_box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3441,
+      "hauteur": 1912
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

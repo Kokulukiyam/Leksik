@@ -1,0 +1,53 @@
+{
+  "termId": "carreau-de-platre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cloison lisse blanche et rose à bas vert, en blocs de plâtre, dressée dans un local en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints de carreaux peu lisibles, paraît une cloison en plaques de plâtre (hydrofuge en bas) : confusion possible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pictogrammes sombres sur dalle calcaire en grotte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, USA",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pictogrammes sur dalle calcaire en grotte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, USA",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rochers et blocs calcaires en grotte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, USA",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bloc de roche cerclé de feuillards en grotte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, USA",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Éboulement dans une galerie de grotte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, USA",
+      "note": "Hors sujet."
+    }
+  ]
+}

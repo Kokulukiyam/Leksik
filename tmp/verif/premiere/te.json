@@ -1,0 +1,53 @@
+{
+  "termId": "te",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux tés posés sur des briques : un grand en PVC gris et un petit en cuivre.",
+      "verdict": "validée",
+      "note": "Raccords en T nets et dominants, forme indiscutable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Té en acier noir à souder, vu en biais sur un plan clair.",
+      "verdict": "validée",
+      "note": "Té de tuyauterie net ; inscriptions sans rapport avec la réponse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue intérieure orange d'une canalisation avec un piquage.",
+      "verdict": "rejetée",
+      "note": "Intérieur de tuyau, illisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Té de prise en charge électrosoudé sur un tuyau PE jaune.",
+      "verdict": "rejetée",
+      "note": "Collier de piquage avec bouchon, ambigu avec un raccord ou un collier.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue de l'intérieur d'un raccord avec clé de coupe.",
+      "verdict": "rejetée",
+      "note": "Illisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tas de tés et coudes en acier dans un atelier, avec filigrane d'entreprise.",
+      "verdict": "rejetée",
+      "note": "Texte superposé, mélange de raccords.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}

@@ -12,6 +12,9 @@
     ],
     "categoriesCommons": [
       "Category:Bamboo"
+    ],
+    "incompatibles": [
+      "rondin"
     ]
   },
   "candidats": [
@@ -119,6 +122,121 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2342_-_bamboo_-_Alain_Van_den_Hende_17072342_Licence_CC_BY-SA-4.0.jpg/1280px-2342_-_bamboo_-_Alain_Van_den_Hende_17072342_Licence_CC_BY-SA-4.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3456,
       "hauteur": 4608
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:2350 - bamboo - Alain Van den Hende 17072350 Licence CC BY-SA-4.0.jpg",
+      "description": "Pied de chaume de bambo",
+      "categories": [
+        "Bamboo",
+        "Self-published work",
+        "Bambooworks",
+        "Bamboo gardens",
+        "Bamboo forests"
+      ],
+      "auteur": "Alain Van den Hende",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2350_-_bamboo_-_Alain_Van_den_Hende_17072350_Licence_CC_BY-SA-4.0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/2350_-_bamboo_-_Alain_Van_den_Hende_17072350_Licence_CC_BY-SA-4.0.jpg/1280px-2350_-_bamboo_-_Alain_Van_den_Hende_17072350_Licence_CC_BY-SA-4.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A bambo farmer.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Taken with Tecno WX3",
+        "Bamboo",
+        "Road transport in Nigeria",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2017",
+        "Men at work in Nigeria",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2017 in Nigeria",
+        "Nigeria photographs taken on 2017-10-16"
+      ],
+      "auteur": "Eboysmart61",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_bambo_farmer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/A_bambo_farmer.jpg/1280px-A_bambo_farmer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Alieanlikebambooroot.jpg",
+      "description": "Bamboo Root as like as Aliean",
+      "categories": [
+        "Bamboo",
+        "Roots",
+        "Self-published work",
+        "Photographs taken on 2016-03-11",
+        "Photo challenge/2016 - March - Faces in objects"
+      ],
+      "auteur": "Yogwis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alieanlikebambooroot.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Alieanlikebambooroot.jpg/1280px-Alieanlikebambooroot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1755,
+      "hauteur": 2780
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Among the Bamboo (8722902518).jpg",
+      "description": "Stone Dam lookout, Wai Koa Loop Trail",
+      "categories": [
+        "Bamboo",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flora of Kauai",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Among_the_Bamboo_(8722902518).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Among_the_Bamboo_%288722902518%29.jpg/1280px-Among_the_Bamboo_%288722902518%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2339 - bamboo - Alain Van den Hende 17072339 Licence CC BY-SA-4.0.jpg",
+      "description": "bambou, pied de chaume. Coupe verticale - cloison",
+      "categories": [
+        "Bamboo",
+        "Self-published work",
+        "Bamboo gardens",
+        "Bamboo forests"
+      ],
+      "auteur": "Alain Van den Hende",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2339_-_bamboo_-_Alain_Van_den_Hende_17072339_Licence_CC_BY-SA-4.0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2339_-_bamboo_-_Alain_Van_den_Hende_17072339_Licence_CC_BY-SA-4.0.jpg/1280px-2339_-_bamboo_-_Alain_Van_den_Hende_17072339_Licence_CC_BY-SA-4.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2018 Ikenobō Autumn Tanabata Exhibition 52.jpg",
+      "description": "Jiyūka free style arrangement by a professor, 2018 Ikenobō Autumn Tanabata Exhibition, Takashimaya Kyoto. Used material is pine and bamboo.",
+      "categories": [
+        "CC-Zero",
+        "Bamboo",
+        "Self-published work",
+        "Jiyūka",
+        "Pinus (branches)",
+        "2018 Ikenobō Autumn Tanabata Exhibition, Takashimaya Kyoto"
+      ],
+      "auteur": "Gryffindor",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018_Ikenob%C5%8D_Autumn_Tanabata_Exhibition_52.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2018_Ikenob%C5%8D_Autumn_Tanabata_Exhibition_52.jpg/1280px-2018_Ikenob%C5%8D_Autumn_Tanabata_Exhibition_52.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1672,
+      "hauteur": 1254
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

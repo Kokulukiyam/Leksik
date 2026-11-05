@@ -894,6 +894,19 @@
     "note": "Vérification : Voûte en berceau en brique, couvrante et dominante ; rectangle sur la partie haute pour écarter les arcs des fenêtres. Contre-vérification : Salle couverte d'une voûte en berceau en briques ; le rectangle désigne la surface courbe du plafond, qui domine nettement et se lit comme une voûte et non comme un simple arc."
   },
   {
+    "id": "voute-09",
+    "termId": "voute",
+    "fichier": "commons/voute-09.webp",
+    "rectangle": null,
+    "lieu": "Monastère de San Miguel de los Reyes, Valence, Espagne",
+    "source": "commons",
+    "auteur": "Dorieo",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:B%C3%B3veda_de_ca%C3%B1%C3%B3n_de_de_la_iglesia_del_monasterio_de_San_Miguel_de_los_Reyes_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Voûte en berceau maçonnée claire et dominante. Contre-vérification : Photo réelle d'un plafond de nef en berceau à pénétrations, rythmé d'arcs doubleaux : la voûte couvre tout le cadre et domine nettement."
+  },
+  {
     "id": "cle-de-voute-03",
     "termId": "cle-de-voute",
     "fichier": "commons/cle-de-voute-03.webp",
@@ -1234,6 +1247,24 @@
     "note": "Vérification : Pilastre cannelé engagé dans le mur, base et chapiteau visibles ; rectangle pour exclure fenêtre et consoles. Contre-vérification : Pilastre cannelé engagé dans la façade, avec base et chapiteau ; le rectangle l'encadre exactement, et son voisin identique ne change pas la réponse."
   },
   {
+    "id": "pilastre-11",
+    "termId": "pilastre",
+    "fichier": "commons/pilastre-11.webp",
+    "rectangle": {
+      "x": 0.13,
+      "y": 0.3,
+      "largeur": 0.14,
+      "hauteur": 0.52
+    },
+    "lieu": "Estació de França, Barcelone, Espagne",
+    "source": "commons",
+    "auteur": "JLVwiki",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lesena.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pilastres plats engagés dans le mur, avec chapiteau ; rectangle sur celui de gauche. Contre-vérification : Pilastre cannelé à chapiteau corinthien engagé dans le mur, bien cadré par le rectangle ; aucune ambiguïté avec une colonne."
+  },
+  {
     "id": "gargouille-05",
     "termId": "gargouille",
     "fichier": "commons/gargouille-05.webp",
@@ -1245,6 +1276,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Gargoyle_(50366866391).jpg",
     "statut": "validée",
     "note": "Vérification : Déversoir sculpté clair et dominant, gueule percée et canal visibles ; aucun autre élément concurrent. Contre-vérification : Gargouille gothique sculptée en animal, gueule ouverte servant de déversoir, en forte saillie sur le mur ; dominante et claire."
+  },
+  {
+    "id": "gargouille-09",
+    "termId": "gargouille",
+    "fichier": "commons/gargouille-09.webp",
+    "rectangle": {
+      "x": 0.25,
+      "y": 0.17,
+      "largeur": 0.46,
+      "hauteur": 0.56
+    },
+    "lieu": "Église Saint-Pierre, Caen, France",
+    "source": "commons",
+    "auteur": "Aymeric B. from Maisons-Alfort, France",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gargouille_(8405158270).jpg",
+    "statut": "validée",
+    "note": "Vérification : Gargouille en saillie nette avec écoulement d'eau. Contre-vérification : Gargouille animale en saillie dont la gueule crache l'eau de pluie, bien encadrée ; fonction de déversoir visible."
+  },
+  {
+    "id": "gargouille-10",
+    "termId": "gargouille",
+    "fichier": "commons/gargouille-10.webp",
+    "rectangle": {
+      "x": 0.39,
+      "y": 0.42,
+      "largeur": 0.26,
+      "hauteur": 0.18
+    },
+    "lieu": "Remparts d'Aigues-Mortes, France",
+    "source": "commons",
+    "auteur": "Andy Hay",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Aigues_Mortes_gargoyle_(223691329).jpg",
+    "statut": "validée",
+    "note": "Vérification : Gargouille isolée sur le mur, rectangle serré. Contre-vérification : Gargouille sculptée en saillie au sommet d'une tour, isolée sur le ciel et bien cadrée ; lisible."
   },
   {
     "id": "balustre-04",
@@ -1428,6 +1495,19 @@
     "note": "Vérification : Briques cuites nettes et dominantes, texture et appareillage sans ambiguïté. Contre-vérification : Gros plan net d'une maçonnerie de briques de terre cuite avec joints de mortier, matériau sans ambiguïté."
   },
   {
+    "id": "brique-11",
+    "termId": "brique",
+    "fichier": "commons/brique-11.webp",
+    "rectangle": null,
+    "lieu": "Amsterdam, Pays-Bas",
+    "source": "commons",
+    "auteur": "Boris Thaser from Augsburg, Germany",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:207_366_-_Dreiecke_Triangles_(28089308283).jpg",
+    "statut": "validée",
+    "note": "Vérification : Mur de brique clair et dominant, joints visibles. Contre-vérification : Façade entièrement en appareil de briques rouges avec joints visibles ; le matériau domine nettement malgré les encadrements en pierre."
+  },
+  {
     "id": "parpaing-05",
     "termId": "parpaing",
     "fichier": "commons/parpaing-05.webp",
@@ -1545,6 +1625,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Belgique_-_Louvain-la-Neuve_-_Place_des_Sciences_-_29.jpg",
     "statut": "validée",
     "note": "Vérification : Exemple type de béton brut avec la trace des planches de coffrage. Contre-vérification : Mur de béton portant nettement l'empreinte verticale des planches de coffrage et les bavures aux joints : béton brut de décoffrage typique."
+  },
+  {
+    "id": "beton-brut-09",
+    "termId": "beton-brut",
+    "fichier": "commons/beton-brut-09.webp",
+    "rectangle": null,
+    "lieu": "Pozo Rotilio, Nerva, Huelva, Espagne",
+    "source": "commons",
+    "auteur": "LBM1948",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Minas_de_Riotinto,_Pozo_Rotilio_3.jpg",
+    "statut": "validée",
+    "note": "Vérification : Empreinte du coffrage visible (joints, trous de tiges) : béton brut de décoffrage, patiné. Contre-vérification : Mur en béton laissé apparent avec empreinte des planches de coffrage, joints de banches et trous de tiges ; béton brut évident."
   },
   {
     "id": "tuile-02",
@@ -1978,6 +2071,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:TRABAJOS_DE_LIMPIEZA_EN_LA_COSTA_VERDE_-_52833216798.jpg",
     "statut": "validée",
     "note": "Vérification : Cône net au premier plan, rectangle contrôlé. Contre-vérification : Le rectangle cadre de près un cône orange à bande blanche posé sur la chaussée ; lisible et sans ambiguïté."
+  },
+  {
+    "id": "cone-de-signalisation-12",
+    "termId": "cone-de-signalisation",
+    "fichier": "commons/cone-de-signalisation-12.webp",
+    "rectangle": null,
+    "lieu": "Tornio, Finlande",
+    "source": "commons",
+    "auteur": "Mikko J. Putkonen (Methem)",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Koivuletontie_2_in_Tornio_20240607_001.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cônes nets et au premier plan. Contre-vérification : Deux cônes de signalisation orange à bande réfléchissante posés sur une chaussée, au premier plan et bien lisibles."
   },
   {
     "id": "echafaudage-02",
@@ -6321,19 +6427,6 @@
     "note": "Vérification : Rectangle sur la dalle estampée. Contre-vérification : Ouvriers estampant une dalle de béton frais avec des matrices imitant des dalles : béton imprimé clairement encadré."
   },
   {
-    "id": "brique-pleine-02",
-    "termId": "brique-pleine",
-    "fichier": "commons/brique-pleine-02.webp",
-    "rectangle": null,
-    "lieu": "Amsterdam, Pays-Bas",
-    "source": "commons",
-    "auteur": "Boris Thaser from Augsburg, Germany",
-    "licence": "CC BY 2.0",
-    "lienSource": "https://commons.wikimedia.org/wiki/File:207_366_-_Dreiecke_Triangles_(28089308283).jpg",
-    "statut": "validée",
-    "note": "Vérification : Mur de briques de terre cuite apparentes, appareil net et dominant. Contre-vérification : Façade entière en briques de terre cuite apparentes, appareil net : brique pleine juste."
-  },
-  {
     "id": "brique-pleine-06",
     "termId": "brique-pleine",
     "fichier": "commons/brique-pleine-06.webp",
@@ -7818,6 +7911,45 @@
     "note": "Vérification : Silhouette typique, claire malgré la lumière sombre. Contre-vérification : Maison-forteresse en terre aux tourelles cylindriques coiffées de toits coniques de paille : tata typique."
   },
   {
+    "id": "porte-dogon-03",
+    "termId": "porte-dogon",
+    "fichier": "commons/porte-dogon-03.webp",
+    "rectangle": null,
+    "lieu": "Musée, Serbie",
+    "source": "commons",
+    "auteur": "Mickey Mystique",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Barn_door,_Dogon_people,_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Porte dogon typique, figures en relief. Contre-vérification : Porte dogon en bois sculptée de rangées de figures en relief, avec ses tenons de pivot visibles ; objet entier et dominant."
+  },
+  {
+    "id": "porte-dogon-06",
+    "termId": "porte-dogon",
+    "fichier": "commons/porte-dogon-06.webp",
+    "rectangle": null,
+    "lieu": "Musée d'art africain, Belgrade, Serbie",
+    "source": "commons",
+    "auteur": "Filip Popovic",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D0%B7%D0%B5%D1%98_%D0%B0%D1%84%D1%80%D0%B8%D1%87%D0%BA%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_37.jpg",
+    "statut": "validée",
+    "note": "Vérification : Porte dogon aux figures en relief, loquet visible. Contre-vérification : Porte dogon entière sculptée de figures, avec sa serrure en bois et son tenon de pivot ; sans ambiguïté."
+  },
+  {
+    "id": "case-a-etage-06",
+    "termId": "case-a-etage",
+    "fichier": "commons/case-a-etage-06.webp",
+    "rectangle": null,
+    "lieu": "Mlomp, Casamance, Sénégal",
+    "source": "commons",
+    "auteur": "Ji-Elle",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Mlomp-MaisonEtages2.JPG",
+    "statut": "validée",
+    "note": "Vérification : Deux niveaux nets, bâtiment dominant. Contre-vérification : Grande habitation en banco à deux niveaux, aux piliers et murs de terre épais, avec galerie ; caractéristique de la case à étage (toit en tôle ici mais le type reste reconnaissable)."
+  },
+  {
     "id": "maison-coloniale-04",
     "termId": "maison-coloniale",
     "fichier": "commons/maison-coloniale-04.webp",
@@ -7983,6 +8115,19 @@
     "note": "Vérification : Fente centrale nette ; rectangle sur le vantail double, pas sur l'encadrement. Contre-vérification : Porte rouge à deux battants ouvrant au milieu, cadrée exactement par le rectangle."
   },
   {
+    "id": "porte-a-tambour-01",
+    "termId": "porte-a-tambour",
+    "fichier": "commons/porte-a-tambour-01.webp",
+    "rectangle": null,
+    "lieu": "Aéroport de Sofia, Bulgarie",
+    "source": "commons",
+    "auteur": "Apostoloff",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Outside_Sofia_Airport_20090409_023.JPG",
+    "statut": "validée",
+    "note": "Vérification : Tambour vitré courbe clairement visible et dominant ; seuls petits panneaux d'avertissement, pas de réponse écrite. Contre-vérification : Porte tambour vue de près : cylindre vitré et vantaux vitrés rayonnant autour de l'axe central, clairement lisible."
+  },
+  {
     "id": "porte-metallique-01",
     "termId": "porte-metallique",
     "fichier": "commons/porte-metallique-01.webp",
@@ -7999,6 +8144,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Bafra_kent_konseyi.JPG",
     "statut": "validée",
     "note": "Vérification : Tôle d'acier évidente ; rectangle sur la porte. Enseigne sans lien avec la réponse. Contre-vérification : Porte en tôle emboutie sur cadre acier avec grille haute, bien cadrée ; porte métallique évidente."
+  },
+  {
+    "id": "porte-sectionnelle-01",
+    "termId": "porte-sectionnelle",
+    "fichier": "commons/porte-sectionnelle-01.webp",
+    "rectangle": {
+      "x": 0.62,
+      "y": 0.06,
+      "largeur": 0.31,
+      "hauteur": 0.35
+    },
+    "lieu": "Freepsum, Allemagne",
+    "source": "commons",
+    "auteur": "Friedhelm Dröge",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Freepsum_fd_1.JPG",
+    "statut": "validée",
+    "note": "Vérification : Porte sectionnelle à panneaux horizontaux visibles, encadrée pour éviter la borne d'incendie au premier plan. Contre-vérification : Porte de garage rouge à panneaux horizontaux avec portillon intégré, bien désignée par le rectangle malgré la borne à incendie au premier plan."
+  },
+  {
+    "id": "porte-sectionnelle-04",
+    "termId": "porte-sectionnelle",
+    "fichier": "commons/porte-sectionnelle-04.webp",
+    "rectangle": {
+      "x": 0.365,
+      "y": 0.51,
+      "largeur": 0.13,
+      "hauteur": 0.35
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Davidbbcc",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Porte_sectionnelle.jpg",
+    "statut": "validée",
+    "note": "Vérification : Portes industrielles sectionnelles ; rectangle sur la porte centrale ; panneaux peu visibles, deuxième choix. Contre-vérification : Porte de quai à panneaux horizontaux articulés avec hublot, bien encadrée ; typique d'une porte sectionnelle industrielle."
   },
   {
     "id": "fenetre-01",
@@ -8140,6 +8321,58 @@
     "note": "Vérification : Lames horizontales et coffre bien visibles ; rectangle sur la fenêtre centrale. Contre-vérification : Volet roulant à lames baissé aux trois quarts dans une fenêtre, bien cadré ; terme juste."
   },
   {
+    "id": "arret-de-volet-02",
+    "termId": "arret-de-volet",
+    "fichier": "commons/arret-de-volet-02.webp",
+    "rectangle": null,
+    "lieu": "Brand, Autriche",
+    "source": "commons",
+    "auteur": "Asurnipal",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Brand-alpine_pasture_Unter_Brueggele-Shutter_dog-02ASD.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pièce clairement dominante, nette, maintient le volet ouvert contre la façade. Contre-vérification : Arrêt de volet à bascule scellé dans le mur, en gros plan ; élément unique et dominant."
+  },
+  {
+    "id": "arret-de-volet-06",
+    "termId": "arret-de-volet",
+    "fichier": "commons/arret-de-volet-06.webp",
+    "rectangle": null,
+    "lieu": "Brand, Autriche",
+    "source": "commons",
+    "auteur": "Asurnipal",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Brand-alpine_pasture_Unter_Brueggele-Shutter_dog-01ASD.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pièce nette et dominante, contexte du volet visible. Contre-vérification : Arrêt de volet scellé dans le mur et retenant le bas d'un volet battant ouvert ; fonction bien visible."
+  },
+  {
+    "id": "espagnolette-02",
+    "termId": "espagnolette",
+    "fichier": "commons/espagnolette-02.webp",
+    "rectangle": null,
+    "lieu": "Paris, France",
+    "source": "commons",
+    "auteur": "Moonik",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_Royale_de_l%27H%C3%B4tel_de_Bourvallais_011.JPG",
+    "statut": "validée",
+    "note": "Vérification : Photo nette, tige à poignée centrée, typique d'une espagnolette. Contre-vérification : Poignée en lyre d'espagnolette sur le montant d'une fenêtre à petits-bois avec son support ; ferrure caractéristique et dominante."
+  },
+  {
+    "id": "espagnolette-06",
+    "termId": "espagnolette",
+    "fichier": "commons/espagnolette-06.webp",
+    "rectangle": null,
+    "lieu": "Paris, France",
+    "source": "commons",
+    "auteur": "Department of State. Office of the Undersecretary for Management. Bureau of Overseas Buildings Operations. (2001)",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Espagnolette_in_a_office_in_Paris_5e03e4dd6d835f205346bc123f1022b4.jpg",
+    "statut": "validée",
+    "note": "Vérification : Photo claire, élément dominant, tringle verticale et poignée caractéristiques. Contre-vérification : Espagnolette ouvragée en laiton : tige verticale et poignée bien visibles ; sans ambiguïté."
+  },
+  {
     "id": "portail-metallique-12",
     "termId": "portail-metallique",
     "fichier": "commons/portail-metallique-12.webp",
@@ -8200,6 +8433,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:UN_PRECIOSO_BALCON_EN_SENSUNTEPEQUE_-_panoramio.jpg",
     "statut": "validée",
     "note": "Vérification : Grille de défense typique, élément dominant. Contre-vérification : Grille à barreaux en fer fixée devant une fenêtre aux volets fermés ; la grille domine l'image."
+  },
+  {
+    "id": "grille-extensible-01",
+    "termId": "grille-extensible",
+    "fichier": "commons/grille-extensible-01.webp",
+    "rectangle": null,
+    "lieu": "Calcutta, Inde",
+    "source": "commons",
+    "auteur": "Salil Kumar Mukherjee",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Peeping_through_a_collapsible_gate.jpg",
+    "statut": "validée",
+    "note": "Vérification : Croisillons en accordéon typiques, nets et dominants. Contre-vérification : Grille extensible à croisillons articulés au premier plan, en contre-jour, devant une balustrade ; le système en accordéon est lisible."
   },
   {
     "id": "moustiquaire-06",
@@ -8283,6 +8529,32 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Glasscheibenmontageprofil_Alu.jpg",
     "statut": "validée",
     "note": "Vérification : Coupe nette montrant la section creuse extrudée. Contre-vérification : Coupe d'un profilé aluminium extrudé à chambres creuses, avec joints, vue de près ; terme juste."
+  },
+  {
+    "id": "double-vitrage-02",
+    "termId": "double-vitrage",
+    "fichier": "commons/double-vitrage-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "HTL-Mödchen23",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Eck_einer_Isolierglasscheibe_ohne_Fenster.jpg",
+    "statut": "validée",
+    "note": "Vérification : Photo nette, intercalaire et lame d'air bien visibles, exactement la définition. Contre-vérification : Coin d'un double vitrage : deux verres séparés par un intercalaire perforé et un joint de scellement, très lisible."
+  },
+  {
+    "id": "penture-06",
+    "termId": "penture",
+    "fichier": "commons/penture-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "C. E. Price",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Weathered_barn_wood.jpg",
+    "statut": "validée",
+    "note": "Vérification : Photo nette, penture dominante, œil et bande bien lisibles. Contre-vérification : Longue bande de fer rouillée clouée sur une porte en planches, avec son nœud d'articulation ; penture bien visible et dominante."
   },
   {
     "id": "serrure-en-applique-01",
@@ -8484,6 +8756,68 @@
     "note": "Vérification : Tous les objets sont des cadenas, sans ambiguïté. Contre-vérification : Collection de cadenas anciens à anse en U ; sans ambiguïté."
   },
   {
+    "id": "moraillon-02",
+    "termId": "moraillon",
+    "fichier": "commons/moraillon-02.webp",
+    "rectangle": {
+      "x": 0.28,
+      "y": 0.19,
+      "largeur": 0.52,
+      "hauteur": 0.5
+    },
+    "lieu": "Oulu, Finlande",
+    "source": "commons",
+    "auteur": "Quim Gil",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Abloy_padlock_in_Oulu.jpg",
+    "statut": "validée",
+    "note": "Vérification : Moraillon clair, rectangle sur la bande, l'œil et le piton. Contre-vérification : Moraillon forgé passé sur son crampon et fermé par un cadenas, bien cadré par le rectangle."
+  },
+  {
+    "id": "moraillon-04",
+    "termId": "moraillon",
+    "fichier": "commons/moraillon-04.webp",
+    "rectangle": {
+      "x": 0.29,
+      "y": 0.56,
+      "largeur": 0.55,
+      "hauteur": 0.2
+    },
+    "lieu": "Tønsberg, Norvège",
+    "source": "commons",
+    "auteur": "Wolfmann",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Shed,_outside_storage,_old_wooden_door,_hasp,_hook,_code_padlock,_red_paint,_(utebod,_skjul,_uthus,_d%C3%B8r,_r%C3%B8d_vegg,_hengel%C3%A5s,_haspe,_d%C3%B8rkrok)_T%C3%B8nsberg,_Norway_2019-08-28_DSC05588.jpg",
+    "statut": "validée",
+    "note": "Vérification : Moraillon plat encadré, distinct du crochet et du cadenas. Contre-vérification : Moraillon plat fermé par un cadenas à code sur une porte à deux vantaux, bien encadré ; le crochet au-dessus est hors du rectangle."
+  },
+  {
+    "id": "entrebailleur-01",
+    "termId": "entrebailleur",
+    "fichier": "commons/entrebailleur-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Santeri Viinamäki",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Door_chain.JPG",
+    "statut": "validée",
+    "note": "Vérification : Chaîne de sûreté complète, claire et dominante. Contre-vérification : Entrebâilleur à chaîne et coulisse fixé sur la porte et le dormant, en gros plan ; sans ambiguïté."
+  },
+  {
+    "id": "entrebailleur-04",
+    "termId": "entrebailleur",
+    "fichier": "commons/entrebailleur-04.webp",
+    "rectangle": null,
+    "lieu": "Baden-Baden, Allemagne",
+    "source": "commons",
+    "auteur": "Photographie : Frank C. Müller , Baden-Baden",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tuerkette_01_(fcm).jpg",
+    "statut": "validée",
+    "note": "Vérification : Entrebâilleur à chaîne accroché, très lisible. Contre-vérification : Entrebâilleur à chaîne ancien entre porte et huisserie, en gros plan ; très lisible."
+  },
+  {
     "id": "judas-05",
     "termId": "judas",
     "fichier": "commons/judas-05.webp",
@@ -8552,6 +8886,50 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Panic_bar.jpg",
     "statut": "validée",
     "note": "Vérification : Claire, typique. Contre-vérification : Barre antipanique métallique traversant une porte vitrée de sortie ; terme juste."
+  },
+  {
+    "id": "heurtoir-01",
+    "termId": "heurtoir",
+    "fichier": "commons/heurtoir-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "René Hourdry",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Heurtoir_-_Animal_-_Hibou.jpg",
+    "statut": "validée",
+    "note": "Vérification : Heurtoir figuratif clair au centre de l'image. Contre-vérification : Heurtoir en forme de chouette avec anneau mobile fixé sur une porte, isolé et dominant."
+  },
+  {
+    "id": "heurtoir-04",
+    "termId": "heurtoir",
+    "fichier": "commons/heurtoir-04.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.32,
+      "largeur": 0.27,
+      "hauteur": 0.36
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "bachmont",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:El_juego_de_la_(in)diferencia_the_play_of_(in)difference_(5055120400).jpg",
+    "statut": "validée",
+    "note": "Vérification : Heurtoir à anneau, rectangle sur celui de gauche. Contre-vérification : Heurtoir à mufle de lion et anneau sur une porte en bois, bien encadré par le rectangle."
+  },
+  {
+    "id": "escalier-a-double-revolution-03",
+    "termId": "escalier-a-double-revolution",
+    "fichier": "commons/escalier-a-double-revolution-03.webp",
+    "rectangle": null,
+    "lieu": "Palacio de la Junta General, Oviedo, Espagne",
+    "source": "commons",
+    "auteur": "Adolfobrigido",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:AS-Palacio_de_la_Junta_Principal_del_Principado_29.jpg",
+    "statut": "validée",
+    "note": "Vérification : Escalier monumental à double révolution, symétrie très lisible. Contre-vérification : Escalier monumental en marbre : une volée centrale aboutit à un palier d'où partent deux volées symétriques ; vue d'ensemble claire."
   },
   {
     "id": "escalier-en-beton-10",
@@ -8624,6 +9002,55 @@
     "note": "Vérification : Escalier extérieur métallique de façade, encadré. Contre-vérification : Escalier métallique extérieur en zigzag accroché à la façade, bien cadré ; terme juste."
   },
   {
+    "id": "escalier-escamotable-06",
+    "termId": "escalier-escamotable",
+    "fichier": "commons/escalier-escamotable-06.webp",
+    "rectangle": {
+      "x": 0.22,
+      "y": 0,
+      "largeur": 0.5,
+      "hauteur": 1
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Kborer ( talk ) ( Uploads )",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Attic_ladder_open.jpg",
+    "statut": "validée",
+    "note": "Vérification : Escalier escamotable déployé, encadré sur toute sa hauteur. Contre-vérification : Escalier escamotable en bois déplié depuis une trappe au plafond, avec ses ferrures, bien encadré."
+  },
+  {
+    "id": "echelle-a-crinoline-01",
+    "termId": "echelle-a-crinoline",
+    "fichier": "commons/echelle-a-crinoline-01.webp",
+    "rectangle": null,
+    "lieu": "Devil's Gate Dam, Pasadena, États-Unis",
+    "source": "commons",
+    "auteur": "Levi Clancy",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Devil%27s_Gate_Dam,_Altadena_and_Pasadena_area,_Los_Angeles,_California_18.jpg",
+    "statut": "validée",
+    "note": "Vérification : Échelle à crinoline claire, arceaux dominants. Contre-vérification : Échelle fixe verticale vue d'en bas avec ses arceaux de protection en crinoline ; sans ambiguïté."
+  },
+  {
+    "id": "echelle-a-crinoline-04",
+    "termId": "echelle-a-crinoline",
+    "fichier": "commons/echelle-a-crinoline-04.webp",
+    "rectangle": {
+      "x": 0.25,
+      "y": 0.02,
+      "largeur": 0.45,
+      "hauteur": 0.96
+    },
+    "lieu": "Lyon, France",
+    "source": "commons",
+    "auteur": "Sebleouf",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lyon_3e_-_%C3%89chelle_%C3%A0_crinoline,_rue_Lamartine_(avril_2019).jpg",
+    "statut": "validée",
+    "note": "Vérification : Échelle à crinoline nette, encadrée de près. Contre-vérification : Échelle fixe en aluminium sur façade avec crinoline et palier de repos, bien désignée par le rectangle."
+  },
+  {
     "id": "escalier-mecanique-01",
     "termId": "escalier-mecanique",
     "fichier": "commons/escalier-mecanique-01.webp",
@@ -8653,6 +9080,32 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Acc%C3%A8s_Gare_Hauptwache_S-Bahn_Biebergasse_-_Francfort-sur-le-Main_(DE71)_-_2025-11-29_-_10.jpg",
     "statut": "validée",
     "note": "Vérification : Escalator encadré, escalier fixe écarté par le rectangle. Contre-vérification : Le rectangle désigne l'escalier mécanique, distinct de l'escalier fixe voisin laissé hors cadre ; terme juste."
+  },
+  {
+    "id": "trottoir-roulant-02",
+    "termId": "trottoir-roulant",
+    "fichier": "commons/trottoir-roulant-02.webp",
+    "rectangle": null,
+    "lieu": "Aéroport de Taoyuan, Taïwan",
+    "source": "commons",
+    "auteur": "Suyash.dwivedi",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Airport_Moving_Walkway_at_Taoyuan_airport.jpg",
+    "statut": "validée",
+    "note": "Vérification : Trottoir roulant plat clair, au centre de l'image. Contre-vérification : Long tapis roulant plat dans un couloir d'aéroport, en perspective axiale ; très lisible."
+  },
+  {
+    "id": "trottoir-roulant-06",
+    "termId": "trottoir-roulant",
+    "fichier": "commons/trottoir-roulant-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "4300streetcar",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Moving_walkway_on_International_Arrivals_Facility_Pedestrian_Walkway_May_2026.jpg",
+    "statut": "validée",
+    "note": "Vérification : Trottoir roulant très lisible, plat. Contre-vérification : Trottoir roulant plat avec ses mains courantes dans une passerelle vitrée, vu depuis l'entrée ; sans ambiguïté."
   },
   {
     "id": "marche-07",
@@ -8723,6 +9176,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Corrim%C3%A3o_(11563028335).jpg",
     "statut": "validée",
     "note": "Vérification : Les barres à saisir occupent tout l'axe de l'image, nettes et sans ambiguïté. Contre-vérification : Deux mains courantes tubulaires en inox au centre d'un escalier, en perspective : élément dominant."
+  },
+  {
+    "id": "poteau-de-depart-02",
+    "termId": "poteau-de-depart",
+    "fichier": "commons/poteau-de-depart-02.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.14,
+      "largeur": 0.27,
+      "hauteur": 0.69
+    },
+    "lieu": "Louvre, Paris, France",
+    "source": "commons",
+    "auteur": "Neoclassicism Enthusiast",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Escalier_du_ministre_(Louvre)_(02).jpg",
+    "statut": "validée",
+    "note": "Vérification : Poteau de départ très net, encadré. Contre-vérification : Poteau de départ massif doré et sculpté au bas d'une rampe en fer forgé, recevant la main courante ; bien encadré."
   },
   {
     "id": "perron-03",

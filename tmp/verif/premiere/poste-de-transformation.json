@@ -1,0 +1,53 @@
+{
+  "termId": "poste-de-transformation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grand poste électrique extérieur à l'air libre avec portiques et clôture, ouvrier au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ibiúna, Brésil",
+      "note": "Poste extérieur de grande taille, pas une cabine ; ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Armoire verte de distribution à portes avec étiquette haute tension.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maisonnais-sur-Tardoire, France",
+      "note": "Armoire de livraison, pas un local ; texte visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit bâtiment en brique avec pylônes et clôture sur un campus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Provo, États-Unis",
+      "note": "Poste entouré de pylônes, bâtiment peu net."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cabine de transformation maçonnée bleue peinte d'une rose des vents, aérée de grilles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Zagreb, Croatie",
+      "note": "Cabine de poste de transformation claire et dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poste électrique à l'air libre derrière un grillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bangladesh",
+      "note": "Poste extérieur, peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bâtiment rose flou avec panneau Indoor Sub Station.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hyderabad, Inde",
+      "note": "Flou, panneau donne la réponse."
+    }
+  ]
+}

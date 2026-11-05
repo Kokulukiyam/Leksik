@@ -1,0 +1,53 @@
+{
+  "termId": "chauffe-eau-instantane",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cabine de douche avec petit appareil blanc mural au-dessus de la douchette.",
+      "verdict": "rejetée",
+      "note": "Appareil petit et mal identifiable, vue grand angle.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chauffe-eau à gaz Paloma derrière des barreaux, panneau d'avertissements en japonais.",
+      "verdict": "rejetée",
+      "note": "Barreaux devant l'appareil, beaucoup de texte.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Appareil mural à gaz blanc avec tableau de commande, manomètre et conduit.",
+      "verdict": "rejetée",
+      "note": "Ressemble à une chaudière murale, ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Appareil mural blanc dans un local technique avec tuyaux.",
+      "verdict": "rejetée",
+      "note": "Chaudière à gaz, ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Caisson blanc mural avec conduit d'évacuation en façade.",
+      "verdict": "rejetée",
+      "note": "Chaudière murale, ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ancien chauffe-eau à gaz instantané émaillé blanc, fixé au mur, avec robinetterie en bas.",
+      "verdict": "validée",
+      "note": "Petit appareil mural sans réservoir, net et dominant ; marque Merker discrète.",
+      "rectangle": null,
+      "lieu": ""
+    }
+  ]
+}
