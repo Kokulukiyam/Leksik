@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "cale-d-armature",
+    "terme": "la cale d'armature",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Petite pièce en béton ou en plastique placée sous ou contre les armatures pour les tenir à distance du coffrage et garantir l'enrobage.",
+    "priorite": 2,
+    "requetes": [
+      "rebar spacer",
+      "cale béton armature",
+      "concrete spacer blocks"
+    ],
+    "incompatibles": [
+      "ferraillage"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar spacers",
+      "Category:Rebar",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Spacers on Lining elements.jpg",
+      "description": "Spacers on Lining elements for a TBM tunnel.",
+      "categories": [
+        "Self-published work",
+        "Rebar spacers"
+      ],
+      "auteur": "CMMNA",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spacers_on_Lining_elements.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Spacers_on_Lining_elements.jpg/1280px-Spacers_on_Lining_elements.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1301,
+      "hauteur": 1555
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2026-07-07 Строительство велопешеходного моста в парк Фили 08.jpg",
+      "description": "Осмотр строящегося велопешеходного моста через Москву-реку в сторону парка «Фили»",
+      "categories": [
+        "Rebar",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Construction workers in Russia",
+        "Mos.ru, 2026",
+        "Photographs by Vladimir Novikov",
+        "Outdoor workers in Moscow",
+        "Moscow photographs taken on 2026-07-07",
+        "Construction of Fili Park footbridge"
+      ],
+      "auteur": "Владимир Новиков, пресс-служба мэра и правительства Москвы",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-07-07_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%BA_%D0%A4%D0%B8%D0%BB%D0%B8_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2026-07-07_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%BA_%D0%A4%D0%B8%D0%BB%D0%B8_08.jpg/1280px-2026-07-07_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%BA_%D0%A4%D0%B8%D0%BB%D0%B8_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6192,
+      "hauteur": 4128
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Calculator for reinforced concrete, a multipurpose slide rule, 1920s - Science Museum, London - DSC05616.jpg",
+      "description": "Exhibit in the Science Museum, London, UK.",
+      "categories": [
+        "Reinforced concrete",
+        "CC-Zero",
+        "Self-published work",
+        "Computing exhibits in the Science Museum, London",
+        "Specialized slide rules"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calculator_for_reinforced_concrete,_a_multipurpose_slide_rule,_1920s_-_Science_Museum,_London_-_DSC05616.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg/1280px-Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4290,
+      "hauteur": 3235
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Barangays Iba Este and Palimbang Calumpit 05.jpg",
+      "description": "Concrete block spacers Steel casing pipes Girders in the Philippines used in Widening of Labangan Bridge 1 is located in Barangays Palimbang and Iba Este, Calumpit along Manila North Road or MacArthur Highway.",
+      "categories": [
+        "Taken with Canon PowerShot SX620 HS",
+        "Rebar supports",
+        "Welded wire mesh",
+        "Self-published work",
+        "Rebar spacers",
+        "Philippines photographs taken on 2022-02-03",
+        "Girders in the Philippines",
+        "Post tensioning"
+      ],
+      "auteur": "FBenjr123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barangays_Iba_Este_and_Palimbang_Calumpit_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Barangays_Iba_Este_and_Palimbang_Calumpit_05.jpg/1280px-Barangays_Iba_Este_and_Palimbang_Calumpit_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bulky railway bridge over the underpass at Tikkurila railway station in Vantaa, Finland, 2022.jpg",
+      "description": "Hakkilan rataan kuuluva teräsbetoninen alikäytäväsilta Tikkurilan aseman pohjoisen alikäytävän luona.",
+      "categories": [
+        "Railway bridges in Finland",
+        "Reinforced concrete",
+        "Bridges in Vantaa",
+        "Tikkurila–Hakkila railway",
+        "Tikkurila railway station",
+        "Bridges in Finland photographed in 2022",
+        "Self-published work",
+        "April 2022 in Vantaa",
+        "Concrete bridges in Finland",
+        "Files with coordinates missing SDC location of creation",
+        "Finland photographs taken on 2022-04-09",
+        "Taken with Samsung Galaxy S21 Ultra 5G"
+      ],
+      "auteur": "Coen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bulky_railway_bridge_over_the_underpass_at_Tikkurila_railway_station_in_Vantaa,_Finland,_2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bulky_railway_bridge_over_the_underpass_at_Tikkurila_railway_station_in_Vantaa%2C_Finland%2C_2022.jpg/1280px-Bulky_railway_bridge_over_the_underpass_at_Tikkurila_railway_station_in_Vantaa%2C_Finland%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 12000,
+      "hauteur": 9000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Diaphragm wall block.jpg",
+      "description": "Diaphragm wall block on rebar for a Diaphragm wall",
+      "categories": [
+        "Self-published work",
+        "Rebar spacers"
+      ],
+      "auteur": "CMMNA",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Diaphragm_wall_block.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Diaphragm_wall_block.jpg/1280px-Diaphragm_wall_block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

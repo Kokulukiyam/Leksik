@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "fosse",
+    "terme": "le fossé",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Tranchée en terre creusée le long d'une route ou d'un terrain pour recueillir et évacuer l'eau.",
+    "priorite": 2,
+    "requetes": [
+      "roadside ditch",
+      "fossé",
+      "drainage ditch"
+    ],
+    "categoriesCommons": [
+      "Category:Roadside ditches",
+      "Category:Ditches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Straßengraben in Melsdorf.jpg",
+      "description": "Roadside ditch in Melsdorf",
+      "categories": [
+        "Self-published work",
+        "Christian Alexander Tietgen",
+        "Roadside ditches",
+        "Streets in Melsdorf",
+        "Buildings in Melsdorf"
+      ],
+      "auteur": "Christian Alexander Tietgen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stra%C3%9Fengraben_in_Melsdorf.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Stra%C3%9Fengraben_in_Melsdorf.jpg/1280px-Stra%C3%9Fengraben_in_Melsdorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ditch at Coombe Hill Nature Reserve.jpg",
+      "description": "ditch at Coombe Hill Nature Reserve",
+      "categories": [
+        "CC-Zero",
+        "Ditches",
+        "Coombe Hill Canal",
+        "Self-published work",
+        "On OSM",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (51° N, 3° W)",
+        "Photographs taken on 2024-08-17"
+      ],
+      "auteur": "DIaNyf8q",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ditch_at_Coombe_Hill_Nature_Reserve.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Ditch_at_Coombe_Hill_Nature_Reserve.jpg/1280px-Ditch_at_Coombe_Hill_Nature_Reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Wabash and Erie Canal near Antwerp.jpg",
+      "description": "Looking eastward along the former path of the Wabash and Erie Canal from the intersection of County Road 180 and Township Road 51 east of Antwerp in southeastern Carryall Township , Paulding County , Ohio , United States .",
+      "categories": [
+        "Wabash and Erie Canal",
+        "Taken with Canon PowerShot A540",
+        "Carryall Township, Paulding County, Ohio",
+        "Self-published work",
+        "PD-self",
+        "Scenery pictures by User:Nyttend",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2010-07-31",
+        "Verges (roads)",
+        "Roadside ditches"
+      ],
+      "auteur": "Nyttend",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wabash_and_Erie_Canal_near_Antwerp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Wabash_and_Erie_Canal_near_Antwerp.jpg/1280px-Wabash_and_Erie_Canal_near_Antwerp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Compuerta and historic acequia (c5cab24d-3c05-4f91-81f2-b1a8a17445cd).JPG",
+      "description": "shallow brick-lined rectangular structure with narrow neck at one end The compuerta acted as a check dam and holding area for water. Follow the line of the compuerta and trail beyond to see the original route of the acequia. Keywords: acequia; compuerta; irrigation; colonization; agriculture; water",
+      "categories": [
+        "Ditches",
+        "PD US NPS",
+        "Images from NPGallery to check",
+        "Photographs taken on 2020-08-22",
+        "Images from NPGallery",
+        "Tumacácori Acequia"
+      ],
+      "auteur": "NPS Photo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Compuerta_and_historic_acequia_(c5cab24d-3c05-4f91-81f2-b1a8a17445cd).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Compuerta_and_historic_acequia_%28c5cab24d-3c05-4f91-81f2-b1a8a17445cd%29.JPG/1280px-Compuerta_and_historic_acequia_%28c5cab24d-3c05-4f91-81f2-b1a8a17445cd%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Sóller - Coll de Sóller - Euphorbia pithyusa 01 ies.jpg",
+      "description": "Euphorbia pithyusa growing in the roadside ditch at Coll de Sóller in Sóller , Mallorca",
+      "categories": [
+        "Euphorbia pithyusa",
+        "Coll de Sóller",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "License migration redundant",
+        "Self-published work",
+        "Roadside ditches"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:S%C3%B3ller_-_Coll_de_S%C3%B3ller_-_Euphorbia_pithyusa_01_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/S%C3%B3ller_-_Coll_de_S%C3%B3ller_-_Euphorbia_pithyusa_01_ies.jpg/1280px-S%C3%B3ller_-_Coll_de_S%C3%B3ller_-_Euphorbia_pithyusa_01_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Biotope Lake of Gargazzone - Photo by Giovanni Ussi - Lake and surrounding vegetation (101) 07.jpg",
+      "description": "Biotope, lake of Gargazzone. Lake and surrounding vegetation. The Laghetto di Gargazzone biotope is a protected natural area of ​​Trentino-Alto Adige. The photo is by Giovanni Ussi.",
+      "categories": [
+        "Ditches",
+        "Biotopo Laghetto di Gargazzone",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2020-06-14",
+        "Images from Wiki Loves Earth 2020",
+        "Images from Wiki Loves Earth 2020 in Italy",
+        "Images from Wiki Loves Earth 2020 in Italy - Trentino-South Tyrol",
+        "Uploaded via Campaign:wle-it",
+        "Images from Wiki Loves Earth missing SDC location of creation"
+      ],
+      "auteur": "Giovanni Ussi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Biotope_Lake_of_Gargazzone_-_Photo_by_Giovanni_Ussi_-_Lake_and_surrounding_vegetation_(101)_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Biotope_Lake_of_Gargazzone_-_Photo_by_Giovanni_Ussi_-_Lake_and_surrounding_vegetation_%28101%29_07.jpg/1280px-Biotope_Lake_of_Gargazzone_-_Photo_by_Giovanni_Ussi_-_Lake_and_surrounding_vegetation_%28101%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    }
+  ]
+}

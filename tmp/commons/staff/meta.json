@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "staff",
+    "terme": "le staff",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Plâtre armé de fibres, coulé en plaques ou en moulures, très employé au Sénégal pour les faux plafonds et corniches décoratives.",
+    "priorite": 1,
+    "requetes": [
+      "staff plaster ceiling decorative",
+      "plafond en staff",
+      "fibrous plaster ceiling"
+    ],
+    "incompatibles": [
+      "corniche",
+      "faux-plafond",
+      "platre",
+      "rosace-de-plafond",
+      "moulure",
+      "faux-plafond-en-plaques-de-platre"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Adelaide School of Arts, Annual Exhibition 1911 - Designs in fibrous plaster for ceiling - embossed(GN02216).jpg",
+      "description": "The Adelaide School of Arts was set up in 1909 when the SA Education Department took over the School of Design previously managed by the Board of Governors of the Public Library, Art Gallery and Museum. It continued in the same location, namely the Jubilee Exhibition Building on North Terrace. It was reorganised in 1916 as the South Australian School of Arts and Crafts. (Register, 1 July 1909, p5; https://en.wikipedia.org/wiki/South_Australian_School_of_Design ). The School held an exhibition of work each year open to the public. GN02209-2219 show work in various categories including needlewor",
+      "categories": [
+        "CC-Zero",
+        "Uploaded by Htsa",
+        "Adelaide School of Arts"
+      ],
+      "auteur": "State Government Photographer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adelaide_School_of_Arts,_Annual_Exhibition_1911_-_Designs_in_fibrous_plaster_for_ceiling_-_embossed(GN02216).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Adelaide_School_of_Arts%2C_Annual_Exhibition_1911_-_Designs_in_fibrous_plaster_for_ceiling_-_embossed%28GN02216%29.jpg/1280px-Adelaide_School_of_Arts%2C_Annual_Exhibition_1911_-_Designs_in_fibrous_plaster_for_ceiling_-_embossed%28GN02216%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Adelaide School of Arts, Annual Exhibition 1911 - Designs in fibrous plaster for ceiling - embossed(GN02213A).jpg",
+      "description": "The Adelaide School of Arts was set up in 1909 when the SA Education Department took over the School of Design previously managed by the Board of Governors of the Public Library, Art Gallery and Museum. It continued in the same location, namely the Jubilee Exhibition Building on North Terrace. It was reorganised in 1916 as the South Australian School of Arts and Crafts. (Register, 1 July 1909, p5; South Australian School of Design ). The School held an exhibition of work each year open to the public. GN02209-2219 show work in various categories including needlework, clay modelling, wood carvin",
+      "categories": [
+        "CC-Zero",
+        "Uploaded by Htsa",
+        "Adelaide School of Arts"
+      ],
+      "auteur": "State Government Photographer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adelaide_School_of_Arts,_Annual_Exhibition_1911_-_Designs_in_fibrous_plaster_for_ceiling_-_embossed(GN02213A).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Adelaide_School_of_Arts%2C_Annual_Exhibition_1911_-_Designs_in_fibrous_plaster_for_ceiling_-_embossed%28GN02213A%29.jpg/1280px-Adelaide_School_of_Arts%2C_Annual_Exhibition_1911_-_Designs_in_fibrous_plaster_for_ceiling_-_embossed%28GN02213A%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bound Print, Quarter of a Ceiling, Livre de Portion de Plafonds en Vousures (Book of Portions of Vaulted Ceilings), 18th century (CH 18238863).jpg",
+      "description": "View of a quarter of a vaulted ceiling. At lower left corner, a fountain with a seabird creature sitting upon a vase, water spewing from its beak. Plants and a dolphin surround the fountain. Along left edge, various decorative scenes including a reclining female nude figure and Poseidon with a trident above horses. Along right edge, a figure sitting beneath a tree against an architectural fragment of a wall, a man holding a staff beneath a rocaille arch made up of sea creature forms, and a view of two ships at sea; in the nearest ship, a figure holds a swath of drapery, using it as a sail. At ",
+      "categories": [
+        "Artworks of Germany in the Cooper–Hewitt, Smithsonian Design Museum",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "Artworks with known accession number",
+        "CC-PD-Mark",
+        "Bound prints in the Cooper–Hewitt, Smithsonian Design Museum"
+      ],
+      "auteur": "Engraved by François de Cuvilliés the younger",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bound_Print,_Quarter_of_a_Ceiling,_Livre_de_Portion_de_Plafonds_en_Vousures_(Book_of_Portions_of_Vaulted_Ceilings),_18th_century_(CH_18238863).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Bound_Print%2C_Quarter_of_a_Ceiling%2C_Livre_de_Portion_de_Plafonds_en_Vousures_%28Book_of_Portions_of_Vaulted_Ceilings%29%2C_18th_century_%28CH_18238863%29.jpg/1280px-Bound_Print%2C_Quarter_of_a_Ceiling%2C_Livre_de_Portion_de_Plafonds_en_Vousures_%28Book_of_Portions_of_Vaulted_Ceilings%29%2C_18th_century_%28CH_18238863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3152
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Grand Hotel - Atherton.jpg",
+      "description": "Atherton's Grand Hotel A color scheme of creams and browns, beige and the palest of blues setting off spacious rooms and giving wide stairways of Queensland woods a deeper background; that is one of the first impressions as one walks into the new Grand Hotel at Atherton. The commodious lounge is very cool and the keynote of the furnishings is simplicity. The ceiling of fibrous plaster is ornamented with a pattern of grape vines and fruit - fitting tribute to Bacchus. ... A reinforced concrete building of modern design, the Grand Hotel will also cater for the tourist trade as well as for visito",
+      "categories": [
+        "Hotels in Queensland",
+        "PDMark-owner",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Queensland State Archives Flickr stream"
+      ],
+      "auteur": "Queensland State Archives",
+      "licence": "PDM-owner",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grand_Hotel_-_Atherton.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Grand_Hotel_-_Atherton.jpg/1280px-Grand_Hotel_-_Atherton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 1909
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:De winkel van boekhandelaar Pieter Meijer Warnars op de Vijgendam in Amsterdam De winkel van boekhandelaar Pieter Meijer Warnars (1792-1869) op de Vijgendam in Amsterdam, SK-A-662.jpg",
+      "description": "Identificatie Titel(s): De winkel van boekhandelaar Pieter Meijer Warnars op de Vijgendam in Amsterdam. De winkel van boekhandelaar Pieter Meijer Warnars (1792-1869) op de Vijgendam in Amsterdam Objecttype: schilderij Objectnummer: SK-A-662 Opschriften / Merken: signatuur en datum, midden boven: ‘I: Jelgerhuis Rzn 1820’ Omschrijving: Interieur van de winkel van boekhandelaar Pieter Meijer Warnars op de Vijgendam te Amsterdam. Links een klant aan de balie waarachter twee winkelbediendes staan. Op de vloer liggen enkele riemen ongebruikt papier. Links tegen de balie en rechts tegen de lambriseri",
+      "categories": [
+        "CC-Zero",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "1820 oil on canvas paintings",
+        "Interiors of shops in art",
+        "Artworks with Wikidata item missing author",
+        "Shop staff in the Netherlands",
+        "Vijgendam, Amsterdam",
+        "Artworks digital representation of 2D work",
+        "Booksellers in art",
+        "Paintings by Johannes Jelgerhuis in the Rijksmuseum Amsterdam"
+      ],
+      "auteur": "Johannes Rienksz Jelgerhuis",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:De_winkel_van_boekhandelaar_Pieter_Meijer_Warnars_op_de_Vijgendam_in_Amsterdam_De_winkel_van_boekhandelaar_Pieter_Meijer_Warnars_(1792-1869)_op_de_Vijgendam_in_Amsterdam,_SK-A-662.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/De_winkel_van_boekhandelaar_Pieter_Meijer_Warnars_op_de_Vijgendam_in_Amsterdam_De_winkel_van_boekhandelaar_Pieter_Meijer_Warnars_%281792-1869%29_op_de_Vijgendam_in_Amsterdam%2C_SK-A-662.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6202,
+      "hauteur": 5130
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:De winkel van boekhandelaar Pieter Meijer Warnars op de Vijgendam in Amsterdam De winkel van boekhandelaar Pieter Meijer Warnars (1792-1869) op de Vijgendam in Amsterdam, SK-A-662FXD.jpg",
+      "description": "Identificatie Titel(s): De winkel van boekhandelaar Pieter Meijer Warnars op de Vijgendam in AmsterdamDe winkel van boekhandelaar Pieter Meijer Warnars (1792-1869) op de Vijgendam in Amsterdam Objecttype: schilderij Objectnummer: SK-A-662 Opschriften / Merken: signatuur en datum, midden boven: ‘I: Jelgerhuis Rzn 1820’ Omschrijving: Interieur van de winkel van boekhandelaar Pieter Meijer Warnars op de Vijgendam te Amsterdam. Links een klant aan de balie waarachter twee winkelbediendes staan. Op de vloer liggen enkele riemen ongebruikt papier. Links tegen de balie en rechts tegen de lambrisering",
+      "categories": [
+        "CC-Zero",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Derivative versions",
+        "1820 oil on canvas paintings",
+        "Interiors of shops in art",
+        "Artworks with Wikidata item missing author",
+        "Shop staff in the Netherlands",
+        "Artworks main subject 2D work",
+        "Vijgendam, Amsterdam",
+        "Booksellers in art",
+        "Paintings by Johannes Jelgerhuis in the Rijksmuseum Amsterdam"
+      ],
+      "auteur": "Johannes Rienksz Jelgerhuis",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:De_winkel_van_boekhandelaar_Pieter_Meijer_Warnars_op_de_Vijgendam_in_Amsterdam_De_winkel_van_boekhandelaar_Pieter_Meijer_Warnars_(1792-1869)_op_de_Vijgendam_in_Amsterdam,_SK-A-662FXD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/De_winkel_van_boekhandelaar_Pieter_Meijer_Warnars_op_de_Vijgendam_in_Amsterdam_De_winkel_van_boekhandelaar_Pieter_Meijer_Warnars_%281792-1869%29_op_de_Vijgendam_in_Amsterdam%2C_SK-A-662FXD.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6202,
+      "hauteur": 5130
+    }
+  ]
+}

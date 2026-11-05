@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "station-totale",
+    "terme": "la station totale",
+    "categorie": "Chantier et outillage",
+    "definition": "Appareil de topographie sur trépied, à lunette pivotante et écran, qui mesure angles et distances pour implanter.",
+    "priorite": 2,
+    "requetes": [
+      "total station surveying",
+      "station totale",
+      "incategory:\"Total stations\""
+    ],
+    "incompatibles": [
+      "mire"
+    ],
+    "categoriesCommons": [
+      "Category:Surveying instruments"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chvalšiny, muzeum, zeměměřické přístroje (1).jpg",
+      "description": "Zeměměřické nástroje užívané při výstavbě Schwarzenberského plavebního kanálu, vystavené ve chvalšinském muzeu.",
+      "categories": [
+        "Taken with Canon EOS 600D",
+        "Surveying instruments",
+        "Museum in Chvalšiny",
+        "Uploaded with VicuñaUploader",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Jan Polák",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chval%C5%A1iny,_muzeum,_zem%C4%9Bm%C4%9B%C5%99ick%C3%A9_p%C5%99%C3%ADstroje_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Chval%C5%A1iny%2C_muzeum%2C_zem%C4%9Bm%C4%9B%C5%99ick%C3%A9_p%C5%99%C3%ADstroje_%281%29.jpg/1280px-Chval%C5%A1iny%2C_muzeum%2C_zem%C4%9Bm%C4%9B%C5%99ick%C3%A9_p%C5%99%C3%ADstroje_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dividing Engine Lansing Michigan.jpg",
+      "description": "Photo of dividing engine at Michigan Museum of Surveying, Lansing, MI, USA",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 50",
+        "Museums in Michigan",
+        "Surveying instruments",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Dividing engines",
+        "Self-published work"
+      ],
+      "auteur": "Jessamyn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dividing_Engine_Lansing_Michigan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Dividing_Engine_Lansing_Michigan.jpg/1280px-Dividing_Engine_Lansing_Michigan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2449,
+      "hauteur": 1716
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Brújula de agrimensor s.XVIII (M.A.N. Madrid) 01.jpg",
+      "description": "A surveyor compass .",
+      "categories": [
+        "GFDL",
+        "Taken with CEC DV",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Surveying instruments",
+        "License migration redundant",
+        "Artworks without Wikidata item",
+        "Self-published work",
+        "Artworks with known accession number",
+        "Pages with complex technique templates",
+        "Files with coordinates missing SDC location of creation",
+        "18th-century works in the Museo Arqueológico Nacional de España",
+        "Files by User:Zaqarbal",
+        "History of surveying"
+      ],
+      "auteur": "Rostriaga craft firm.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Br%C3%BAjula_de_agrimensor_s.XVIII_(M.A.N._Madrid)_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Br%C3%BAjula_de_agrimensor_s.XVIII_%28M.A.N._Madrid%29_01.jpg/1280px-Br%C3%BAjula_de_agrimensor_s.XVIII_%28M.A.N._Madrid%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1932,
+      "hauteur": 2018
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Geodeziisto en Ĉajanda minejo 07.jpg",
+      "description": "Geodeziisto en Ĉajanda minejo. Lenska distrikto, Jakutio, Rusio.",
+      "categories": [
+        "Sakha people",
+        "Surveying instruments",
+        "Levelling",
+        "Chayanda field",
+        "Self-published work",
+        "Men at work in Russia",
+        "Surveyors from Russia",
+        "Geodesists from Russia",
+        "Standing men in Russia",
+        "Hard hats in Russia",
+        "Work clothing in Russia",
+        "Sakha Republic photographs taken on 2021-08-27",
+        "Blue and gray overalls",
+        "Men with hard hats",
+        "Men wearing white hard hats",
+        "Geodesists at work"
+      ],
+      "auteur": "RG72",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Geodeziisto_en_%C4%88ajanda_minejo_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Geodeziisto_en_%C4%88ajanda_minejo_07.jpg/1280px-Geodeziisto_en_%C4%88ajanda_minejo_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Active total station on a construction site.jpg",
+      "description": "A tripod-mounted total station operating with a visible green guide light on a cleared construction site under an overcast sky. Photograph by HR Surveyors .",
+      "categories": [
+        "Surveying",
+        "Surveying instruments",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Tachymeters (survey)"
+      ],
+      "auteur": "Cvstr",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Active_total_station_on_a_construction_site.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Active_total_station_on_a_construction_site.jpg/1280px-Active_total_station_on_a_construction_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 3780
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:CACUNAHDisplay07.JPG",
+      "description": "Instrument for surveying by Dietgen on display at the UNAH Center for Art and Culture",
+      "categories": [
+        "Taken with Nikon D60",
+        "Surveying instruments",
+        "Centro de Arte y Cultura de la UNAH",
+        "Self-published work"
+      ],
+      "auteur": "Thelmadatter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CACUNAHDisplay07.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/CACUNAHDisplay07.JPG/1280px-CACUNAHDisplay07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    }
+  ]
+}

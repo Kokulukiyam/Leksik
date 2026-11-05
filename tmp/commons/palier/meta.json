@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "palier",
+    "terme": "le palier",
+    "categorie": "Escaliers et circulations",
+    "definition": "Plateforme horizontale placée au départ, à l'arrivée ou entre deux volées d'un escalier.",
+    "priorite": 1,
+    "requetes": [
+      "stair landing",
+      "palier escalier",
+      "staircase landing"
+    ],
+    "incompatibles": [
+      "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Stair landings",
+      "Category:Staircases",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 8.jpg",
+      "description": "Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 8",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "June 2024 in Lower Saxony",
+        "Amsbergstraße 27 (Bad Harzburg)"
+      ],
+      "auteur": "Steffen Dietrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_8.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_8.jpg/1280px-Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:0663 joanna szostak 2o13.JPG",
+      "description": "joanna szostak 2013",
+      "categories": [
+        "Taken with Nikon D5100",
+        "Stairs",
+        "Self-published work",
+        "June 2013 in Sanok",
+        "Joanna Szostak"
+      ],
+      "auteur": "Silar",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0663_joanna_szostak_2o13.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/0663_joanna_szostak_2o13.JPG/1280px-0663_joanna_szostak_2o13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4388,
+      "hauteur": 2987
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:1708 - Milano - Ex palazzo del Senato - Scalone d'ingresso - Foto Giovanni Dall'Orto - 24-Sept-2007.jpg",
+      "description": "The monumental staircase of the so-called \"Palazzo del Senato\" in Milan, Italy, by architect Francesco Maria Richini . It was built in 1608. Picture by Giovanni Dall'Orto , September 24 2007.",
+      "categories": [
+        "Taken with Canon EOS 300D",
+        "Attribution only license",
+        "Stair landings",
+        "Self-published work",
+        "Palazzo del Senato (Milan) - Staircase",
+        "Photographs taken on 2007-09-24"
+      ],
+      "auteur": "G.dallorto",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:1708_-_Milano_-_Ex_palazzo_del_Senato_-_Scalone_d%27ingresso_-_Foto_Giovanni_Dall%27Orto_-_24-Sept-2007.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/1708_-_Milano_-_Ex_palazzo_del_Senato_-_Scalone_d%27ingresso_-_Foto_Giovanni_Dall%27Orto_-_24-Sept-2007.jpg/1280px-1708_-_Milano_-_Ex_palazzo_del_Senato_-_Scalone_d%27ingresso_-_Foto_Giovanni_Dall%27Orto_-_24-Sept-2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1360,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A small Sismo.jpg",
+      "description": "there will always be a new day...",
+      "categories": [
+        "Taken with Nikon F2",
+        "Death",
+        "1990 in Brazil",
+        "Staircases",
+        "Analog photography",
+        "Earthquakes of 1990",
+        "Hand-colored photographs",
+        "Self-published work",
+        "Unidentified buildings in Brazil",
+        "Windows (interior views)"
+      ],
+      "auteur": "Sérgio Valle Duarte .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neut",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_small_Sismo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/A_small_Sismo.jpg/1280px-A_small_Sismo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2240,
+      "hauteur": 3600
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2022-10-30 Tag der offenen Tür in der Leinenfabrik Steinhude.jpg",
+      "description": "In der zu einem Verkaufs- und Präsentationsraum auf mehreren Ebenen einer der historischen Hallen der Leinenfabrik Steinhude schauen sich Besucher treppauf und Treppen die aus Leinen gewebten Produkte der Firma Seegers & Sohn an ...",
+      "categories": [
+        "Stairs",
+        "Linen (flax)",
+        "Self-published work",
+        "Shops in Lower Saxony",
+        "Uploaded with Mobile/Android",
+        "Lower Saxony photographs taken on 2022-10-30",
+        "Files with coordinates missing SDC location of creation (52° N, 9° E)",
+        "Leinenfabrik Steinhude"
+      ],
+      "auteur": "Bernd Schwabe in Hannover",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2022-10-30_Tag_der_offenen_T%C3%BCr_in_der_Leinenfabrik_Steinhude.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/2022-10-30_Tag_der_offenen_T%C3%BCr_in_der_Leinenfabrik_Steinhude.jpg/1280px-2022-10-30_Tag_der_offenen_T%C3%BCr_in_der_Leinenfabrik_Steinhude.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2252,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:DirtyStairWellWithFireWaterLine.jpg",
+      "description": "Stair landing with fire emergency water supply line",
+      "categories": [
+        "Taken with Canon PowerShot A400",
+        "Fire protection",
+        "Stair landings",
+        "Self-published work"
+      ],
+      "auteur": "Raould",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DirtyStairWellWithFireWaterLine.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/DirtyStairWellWithFireWaterLine.jpg/1280px-DirtyStairWellWithFireWaterLine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

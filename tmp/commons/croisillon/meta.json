@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "croisillon",
+    "terme": "le croisillon",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Petite croix en plastique placée entre les carreaux pendant la pose pour garder des joints réguliers.",
+    "priorite": 1,
+    "requetes": [
+      "tile spacers crosses",
+      "croisillons carrelage",
+      "tile spacers"
+    ],
+    "incompatibles": [
+      "carrelage"
+    ],
+    "categoriesCommons": [
+      "Category:Tiling"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Isfahan 1210599 nevit.jpg",
+      "description": "Photographs from Isfahan, Iran",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Nevit Dilmen"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Isfahan_1210599_nevit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Isfahan_1210599_nevit.jpg/1280px-Isfahan_1210599_nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Delitzscher-Str.126-Vestibül.jpg",
+      "description": "Vestibül Delitzscher Str.126",
+      "categories": [
+        "GFDL",
+        "Tiling",
+        "License migration redundant",
+        "Cultural heritage monuments in Eutritzsch",
+        "Delitzscher Straße (Leipzig)",
+        "Self-published work"
+      ],
+      "auteur": "Norbert Dobberow",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Delitzscher-Str.126-Vestib%C3%BCl.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Delitzscher-Str.126-Vestib%C3%BCl.jpg/1280px-Delitzscher-Str.126-Vestib%C3%BCl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2228,
+      "hauteur": 3112
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Centro Arqueológico de la Almoina 06.jpg",
+      "description": "La Almoina archaeological museum, Valencia.",
+      "categories": [
+        "Tiling",
+        "Self-published work",
+        "Floor tiles in the Land of Valencia",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by Simon Burchell",
+        "Termes romanes de Valentia"
+      ],
+      "auteur": "Simon Burchell",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centro_Arqueol%C3%B3gico_de_la_Almoina_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Centro_Arqueol%C3%B3gico_de_la_Almoina_06.jpg/1280px-Centro_Arqueol%C3%B3gico_de_la_Almoina_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Construction tiles1.JPG",
+      "description": "τοποθέτηση πλακιδίων σε μπάνιο",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W125",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Tony Esopi",
+        "Construction tiles"
+      ],
+      "auteur": "Tony Esopi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_tiles1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Construction_tiles1.JPG/1280px-Construction_tiles1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Construction tiles7.JPG",
+      "description": "τοποθέτηση πλακιδίων σε δάπεδο - εξωτερικό χώρο",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W125",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Tony Esopi",
+        "Construction tiles"
+      ],
+      "auteur": "Tony Esopi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_tiles7.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Construction_tiles7.JPG/1280px-Construction_tiles7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Isfahan 1210043 nevit.jpg",
+      "description": "Photographs from Isfahan, Iran",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Nevit Dilmen",
+        "Tiles in Isfahan"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Isfahan_1210043_nevit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Isfahan_1210043_nevit.jpg/1280px-Isfahan_1210043_nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    }
+  ]
+}

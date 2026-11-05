@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "brise-soleil-horizontal",
+    "terme": "le brise-soleil horizontal",
+    "categorie": "Façade et ouvertures",
+    "definition": "Brise-soleil fait de lames ou dalles horizontales fixes en saillie au-dessus ou devant les baies.",
+    "priorite": 2,
+    "requetes": [
+      "horizontal sunshade louvres facade",
+      "brise-soleil horizontal",
+      "horizontal sun breaker concrete"
+    ],
+    "incompatibles": [
+      "brise-soleil"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:3 Faculty Of Pharmacy Sports and Assembly Hall Arial View.jpg",
+      "description": "The assembly of buildings found at the current Faculty of Pharmacy was originally built for the German School in Addis Abeba. Construction of the building started in 1957 and was completed in 1961. It was officially opened in 1966 during a visit by the late Emperor Haile Selassie I. The Sports hall and the Assembly hall stand oriented with their front facade to the south. To shade this functions which demand ambient day light and high interaction between the inside and the outside, the southern face of the building is composed of, a double façade system. A curtain wall shaded by horizontal con",
+      "categories": [
+        "Postmodern architecture in Ethiopia",
+        "Gymnasiums",
+        "Brise soleils",
+        "German international schools",
+        "Concrete structures",
+        "Addis Ababa University",
+        "Self-published work",
+        "Addis Ababa in the 1960s",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_Arial_View.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/3_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_Arial_View.jpg/1280px-3_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_Arial_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1293,
+      "hauteur": 857
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:6 Faculty Of Pharmacy Sports and Assembly Hall Rear Elevation.jpg",
+      "description": "The assembly of buildings found at the current Faculty of Pharmacy was originally built for the German School in Addis Abeba. Construction of the building started in 1957 and was completed in 1961. It was officially opened in 1966 during a visit by the late Emperor Haile Selassie I. The Sports hall and the Assembly hall stand oriented with their front facade to the south. To shade this functions which demand ambient day light and high interaction between the inside and the outside, the southern face of the building is composed of, a double façade system. A curtain wall shaded by horizontal con",
+      "categories": [
+        "Postmodern architecture in Ethiopia",
+        "Facades",
+        "Gymnasiums",
+        "Brise soleils",
+        "German international schools",
+        "Concrete structures",
+        "Addis Ababa University",
+        "Self-published work",
+        "Addis Ababa in the 1960s",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:6_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_Rear_Elevation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/6_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_Rear_Elevation.jpg/1280px-6_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_Rear_Elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2 Faculty Of Pharmacy Sports and Assembly Hall View from East to West.jpg",
+      "description": "The assembly of buildings found at the current Faculty of Pharmacy was originally built for the German School in Addis Abeba. Construction of the building started in 1957 and was completed in 1961. It was officially opened in 1966 during a visit by the late Emperor Haile Selassie I. The Sports hall and the Assembly hall stand oriented with their front facade to the south. To shade this functions which demand ambient day light and high interaction between the inside and the outside, the southern face of the building is composed of, a double façade system. A curtain wall shaded by horizontal con",
+      "categories": [
+        "Postmodern architecture in Ethiopia",
+        "Facades",
+        "Gymnasiums",
+        "Brise soleils",
+        "German international schools",
+        "Concrete structures",
+        "Addis Ababa University",
+        "Self-published work",
+        "Addis Ababa in the 1960s",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_View_from_East_to_West.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_View_from_East_to_West.jpg/1280px-2_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_View_from_East_to_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4988,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:1 Faculty Of Pharmacy Sports and Assembly Hall View from SW to NE.jpg",
+      "description": "The assembly of buildings found at the current Faculty of Pharmacy was originally built for the German School in Addis Abeba. Construction of the building started in 1957 and was completed in 1961. It was officially opened in 1966 during a visit by the late Emperor Haile Selassie I. The Sports hall and the Assembly hall stand oriented with their front facade to the south. To shade this functions which demand ambient day light and high interaction between the inside and the outside, the southern face of the building is composed of, a double façade system. A curtain wall shaded by horizontal con",
+      "categories": [
+        "Postmodern architecture in Ethiopia",
+        "Facades",
+        "Gymnasiums",
+        "Brise soleils",
+        "German international schools",
+        "Concrete structures",
+        "Addis Ababa University",
+        "Self-published work",
+        "Addis Ababa in the 1960s",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_View_from_SW_to_NE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/1_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_View_from_SW_to_NE.jpg/1280px-1_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_View_from_SW_to_NE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4888,
+      "hauteur": 3363
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:4 Faculty Of Pharmacy Sports and Assembly Hall façade pattern.jpg",
+      "description": "The assembly of buildings found at the current Faculty of Pharmacy was originally built for the German School in Addis Abeba. Construction of the building started in 1957 and was completed in 1961. It was officially opened in 1966 during a visit by the late Emperor Haile Selassie I. The Sports hall and the Assembly hall stand oriented with their front facade to the south. To shade this functions which demand ambient day light and high interaction between the inside and the outside, the southern face of the building is composed of, a double façade system. A curtain wall shaded by horizontal con",
+      "categories": [
+        "Postmodern architecture in Ethiopia",
+        "Facades",
+        "Gymnasiums",
+        "Brise soleils",
+        "German international schools",
+        "Concrete structures",
+        "Addis Ababa University",
+        "Self-published work",
+        "Addis Ababa in the 1960s",
+        "Concrete pillars",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_fa%C3%A7ade_pattern.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/4_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_fa%C3%A7ade_pattern.jpg/1280px-4_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_fa%C3%A7ade_pattern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2817,
+      "hauteur": 1646
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:5 Faculty Of Pharmacy Sports and Assembly Hall Connection Close Up.jpg",
+      "description": "The assembly of buildings found at the current Faculty of Pharmacy was originally built for the German School in Addis Abeba. Construction of the building started in 1957 and was completed in 1961. It was officially opened in 1966 during a visit by the late Emperor Haile Selassie I. The Sports hall and the Assembly hall stand oriented with their front facade to the south. To shade this functions which demand ambient day light and high interaction between the inside and the outside, the southern face of the building is composed of, a double façade system. A curtain wall shaded by horizontal con",
+      "categories": [
+        "Postmodern architecture in Ethiopia",
+        "Facades",
+        "Gymnasiums",
+        "Brise soleils",
+        "German international schools",
+        "Concrete structures",
+        "Addis Ababa University",
+        "Self-published work",
+        "Addis Ababa in the 1960s",
+        "Concrete pillars",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_Connection_Close_Up.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/5_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_Connection_Close_Up.jpg/1280px-5_Faculty_Of_Pharmacy_Sports_and_Assembly_Hall_Connection_Close_Up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2306,
+      "hauteur": 2882
+    }
+  ]
+}

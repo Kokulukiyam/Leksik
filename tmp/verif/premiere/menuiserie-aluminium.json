@@ -1,0 +1,53 @@
+{
+  "termId": "menuiserie-aluminium",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Couloir d'immeuble avec baies à carreaux et panneau numéroté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Panneau dominant, matériau non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vue de la rue à travers une grande vitre avec partie coulissante et peluches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés aluminium non évidents, objets au premier plan."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan sur un appui de fenêtre en bois écaillé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alvor, Portugal",
+      "note": "Bois, pas aluminium."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade en brique à fenêtres à petits-bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau non identifiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouverture brute dans un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de menuiserie."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre blanche à petits-bois dans un bardage en bardeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lake Geneva, Wisconsin",
+      "note": "Matériau non identifiable."
+    }
+  ]
+}

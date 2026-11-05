@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "cle-serre-tube",
+    "terme": "la clé serre-tube",
+    "categorie": "Chantier et outillage",
+    "definition": "Grosse clé à mâchoires dentées réglables, qui serre et tourne les tubes et raccords filetés.",
+    "priorite": 2,
+    "requetes": [
+      "pipe wrench",
+      "clé serre-tube",
+      "stillson wrench"
+    ],
+    "categoriesCommons": [
+      "Category:Pipe wrenches",
+      "Category:Wrenches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A person holds a ratchet wrench.jpg",
+      "description": "A person holds a ratchet wrench while tightening bolts on colorful outdoor gym equipment. The setting features a sunny garden with green grass, showcasing fitness and maintenance activities.",
+      "categories": [
+        "Swings",
+        "Wrenches",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_person_holds_a_ratchet_wrench.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/A_person_holds_a_ratchet_wrench.jpg/1280px-A_person_holds_a_ratchet_wrench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ridgid 10\" pipe wrench.jpg",
+      "description": "A Ridgid 10\" pipe wrench .",
+      "categories": [
+        "GFDL",
+        "Taken with iPhone 5",
+        "RIDGID",
+        "Pipe wrenches",
+        "License migration redundant",
+        "Tools manufactured in the United States",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "J.C. Fields ( Talk ) ( Uploads )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ridgid_10%22_pipe_wrench.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Ridgid_10%22_pipe_wrench.jpg/1280px-Ridgid_10%22_pipe_wrench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1400,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:CleManivelleMocidade2.JPG",
+      "description": "Clé-manivelle pour instruments de percussions de samba",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix 4300",
+        "Wrenches",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Samba music instruments"
+      ],
+      "auteur": "Alno",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CleManivelleMocidade2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/CleManivelleMocidade2.JPG/1280px-CleManivelleMocidade2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:1970s Bahco 141 pipe wrench made in Sweden.jpg",
+      "description": "1970s Bahco 141 pipe wrench made in Sweden. Ca 28*4.5*2 cm when closed. Ca 645 gr.",
+      "categories": [
+        "Products of Sweden",
+        "Bahco",
+        "Pipe wrenches",
+        "Self-published work",
+        "Photographs by R. Henrik Nilsson"
+      ],
+      "auteur": "R. Henrik Nilsson",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1970s_Bahco_141_pipe_wrench_made_in_Sweden.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/1970s_Bahco_141_pipe_wrench_made_in_Sweden.jpg/1280px-1970s_Bahco_141_pipe_wrench_made_in_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3784,
+      "hauteur": 927
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bed keys - San Francisco Fire Department Museum, San Francisco, CA - PXL 20230825 205529360.jpg",
+      "description": "Exhibit in the San Francisco Fire Department Museum - San Francisco, California, USA.",
+      "categories": [
+        "CC-Zero",
+        "Wrenches",
+        "Self-published work",
+        "San Francisco Fire Department Museum"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bed_keys_-_San_Francisco_Fire_Department_Museum,_San_Francisco,_CA_-_PXL_20230825_205529360.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bed_keys_-_San_Francisco_Fire_Department_Museum%2C_San_Francisco%2C_CA_-_PXL_20230825_205529360.jpg/1280px-Bed_keys_-_San_Francisco_Fire_Department_Museum%2C_San_Francisco%2C_CA_-_PXL_20230825_205529360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2268
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Pipe Wrench.jpg",
+      "description": "Pipe wrenches",
+      "categories": [
+        "PD-user",
+        "Pipe wrenches",
+        "Uploads by vssun"
+      ],
+      "auteur": "Jayess",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pipe_Wrench.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pipe_Wrench.jpg/1280px-Pipe_Wrench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2464,
+      "hauteur": 1572
+    }
+  ]
+}

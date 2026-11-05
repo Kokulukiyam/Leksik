@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "talus",
+    "terme": "le talus",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Terrain en pente, naturel ou remblayé, qui raccorde deux niveaux de sol.",
+    "priorite": 2,
+    "requetes": [
+      "embankment slope grass",
+      "talus",
+      "road embankment slope"
+    ],
+    "categoriesCommons": [
+      "Category:Embankments",
+      "Category:Slopes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Donau-Hochwasserschutzdamm, Védgátstrasse, 2026 Halásztelek.jpg",
+      "description": "Danube flood protection embankment. Part of the blue Way of Mary pilgrimage/walking way - Photo taken from close to Kisgyár Street and Védgát Street corner, Halásztelek , Pest County , Hungary .",
+      "categories": [
+        "Embankments",
+        "Self-published work",
+        "Earthworks in Hungary",
+        "Flood protection in Hungary",
+        "Barriers in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "The way of Mary in Hungary",
+        "February 2026 Hungary photographs",
+        "Védgát utca, Halásztelek"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Donau-Hochwasserschutzdamm,_V%C3%A9dg%C3%A1tstrasse,_2026_Hal%C3%A1sztelek.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Donau-Hochwasserschutzdamm%2C_V%C3%A9dg%C3%A1tstrasse%2C_2026_Hal%C3%A1sztelek.jpg/1280px-Donau-Hochwasserschutzdamm%2C_V%C3%A9dg%C3%A1tstrasse%2C_2026_Hal%C3%A1sztelek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:CazCazorlaG3.jpg",
+      "description": "Gasse in Cazorla",
+      "categories": [
+        "Uploaded with VicuñaUploader",
+        "Slopes",
+        "Alleys in Andalusia",
+        "Files by Ziegler175",
+        "Conjunto histórico-artístico de la ciudad de Cazorla y sus alrededores"
+      ],
+      "auteur": "Ziegler175",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CazCazorlaG3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/CazCazorlaG3.jpg/1280px-CazCazorlaG3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A noite.jpg",
+      "description": "È Parece que vai chover",
+      "categories": [
+        "Embankments",
+        "Self-published work",
+        "Black and white photographs of clouds",
+        "Uploaded via Campaign:wle-br",
+        "Images from Wiki Loves Earth 2016 in Brazil",
+        "Images from Wiki Loves Earth 2016",
+        "Brazil photographs taken on 2013-03-10",
+        "2013 black and white photographs",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Unidentified rivers"
+      ],
+      "auteur": "Rogon236",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_noite.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/A_noite.jpg/1280px-A_noite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Belleville Villa Ribot.jpg",
+      "description": "Villa Ribot dans de quartier de Paris : Belleville (France)",
+      "categories": [
+        "Villa Alexandre-Ribot (Paris)",
+        "GFDL",
+        "Taken with Nikon D700",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Belleville, Paris",
+        "License migration redundant",
+        "Slopes",
+        "Self-published work",
+        "Wrought iron fences in France",
+        "Iron fences"
+      ],
+      "auteur": "Triboulet = Piero d'Houin",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Belleville_Villa_Ribot.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Belleville_Villa_Ribot.jpg/1280px-Belleville_Villa_Ribot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4256,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dollardpolders.jpg",
+      "description": "Embankments in the Dollart Bay",
+      "categories": [
+        "History of Groningen (province)",
+        "Embankments",
+        "Maps of Oldambt",
+        "Self-published work",
+        "Items with VRTS permission confirmed",
+        "Maps of the Dollard",
+        "Maps of the history of East Frisia"
+      ],
+      "auteur": "Otto S. Knottnerus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dollardpolders.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Dollardpolders.jpg/1280px-Dollardpolders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1498,
+      "hauteur": 1454
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Botanischen Garten der Universität Zürich - panoramio (11).jpg",
+      "description": "Botanischen Garten der Universität Zürich",
+      "categories": [
+        "Pavements",
+        "Garden paths",
+        "Slopes",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Switzerland photographs taken on 2013-02-28",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Photos from Panoramio ID 1286122",
+        "Views of the Botanischer Garten Zürich"
+      ],
+      "auteur": "Patrick Nouhailler's…",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Botanischen_Garten_der_Universit%C3%A4t_Z%C3%BCrich_-_panoramio_(11).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Botanischen_Garten_der_Universit%C3%A4t_Z%C3%BCrich_-_panoramio_%2811%29.jpg/1280px-Botanischen_Garten_der_Universit%C3%A4t_Z%C3%BCrich_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    }
+  ]
+}

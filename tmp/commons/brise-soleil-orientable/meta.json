@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "brise-soleil-orientable",
+    "terme": "le brise-soleil orientable",
+    "categorie": "Façade et ouvertures",
+    "definition": "Store extérieur à lames métalliques orientables qui se relèvent et se baissent devant une baie.",
+    "priorite": 2,
+    "requetes": [
+      "external venetian blinds facade",
+      "brise-soleil orientable BSO",
+      "exterior aluminium louvre blinds"
+    ],
+    "incompatibles": [
+      "brise-soleil",
+      "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Venetian blinds"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2014-365-29 Venetian Sunrise (12217916476).jpg",
+      "description": "Morning golden hour lights up the blinds. Let the light in",
+      "categories": [
+        "Venetian blinds",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014-365-29_Venetian_Sunrise_(12217916476).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/2014-365-29_Venetian_Sunrise_%2812217916476%29.jpg/1280px-2014-365-29_Venetian_Sunrise_%2812217916476%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5158,
+      "hauteur": 3439
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:CemeteryAlvor (15).jpg",
+      "description": "Cemetery memorial through its Venetian blinds in Alvor, Portimão, Portugal. Cemetery May 2016",
+      "categories": [
+        "Artificial flowers",
+        "Venetian blinds",
+        "Self-published work",
+        "Cemetery in Alvor"
+      ],
+      "auteur": "Notafly",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CemeteryAlvor_(15).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/CemeteryAlvor_%2815%29.jpg/1280px-CemeteryAlvor_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2008-02-18 Nice view from my bed in Tainan.jpg",
+      "description": "window view of a bedroom in Tainan",
+      "categories": [
+        "Venetian blinds",
+        "Taiwan photographs taken on 2008-02-18",
+        "Arecaceae in Taiwan",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Windows in Tainan"
+      ],
+      "auteur": "Pascal Terjan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-02-18_Nice_view_from_my_bed_in_Tainan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2008-02-18_Nice_view_from_my_bed_in_Tainan.jpg/1280px-2008-02-18_Nice_view_from_my_bed_in_Tainan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 1880
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Close window 2013-06-02 10-28.jpg",
+      "description": "Close window",
+      "categories": [
+        "Venetian blinds",
+        "Self-published work",
+        "Uploaded with Mobile/Web",
+        "Mobile uploads lacking EXIF data for camera"
+      ],
+      "auteur": "User:Renepartida",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Close_window_2013-06-02_10-28.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Close_window_2013-06-02_10-28.jpg/1280px-Close_window_2013-06-02_10-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Blinds by DesignerMadsen.jpg",
+      "description": "Billede af persienner taget fra en skæv vinkel",
+      "categories": [
+        "Venetian blinds",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Denmark photographs taken on 2023-05-14"
+      ],
+      "auteur": "Kent Madsen",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blinds_by_DesignerMadsen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Blinds_by_DesignerMadsen.jpg/1280px-Blinds_by_DesignerMadsen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:. - Flickr - chaps1.jpg",
+      "description": "",
+      "categories": [
+        "Media lacking a description",
+        "Venetian blinds",
+        "United Kingdom photographs taken on 2009-06-27",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore",
+        "Files with coordinates missing SDC location of creation (52° N, 1° E)"
+      ],
+      "auteur": "chaps1",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:._-_Flickr_-_chaps1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/._-_Flickr_-_chaps1.jpg/1280px-._-_Flickr_-_chaps1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3581,
+      "hauteur": 3581
+    }
+  ]
+}

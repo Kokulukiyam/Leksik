@@ -1,0 +1,118 @@
+{
+  "terme": {
+    "id": "barreaudage",
+    "terme": "le barreaudage",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Ensemble de barreaux métalliques parallèles qui ferment une ouverture ou forment une grille.",
+    "priorite": 2,
+    "requetes": [
+      "iron bars window",
+      "barreaudage",
+      "metal bars"
+    ],
+    "incompatibles": [
+      "grille-de-defense"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Citadelle de Quebec 216.JPG",
+      "description": "Le bâtiment no 10 dans la citadelle de Québec, aussi désigné sou le nom de l'ancienne Prison militaire et de l'annexe du musée a été cronstruit en 1842. Il a été classé édifice fédéral du patrimoine en 1993.",
+      "categories": [
+        "Taken with Nikon Coolpix S3500",
+        "Building 10 (Citadelle of Quebec)",
+        "Self-published work"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_216.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Citadelle_de_Quebec_216.JPG/1280px-Citadelle_de_Quebec_216.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:9 Monash Street, Gladesville 008.jpg",
+      "description": "historic building in Gladesville, New South Wales",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (34° S, 151° E)",
+        "1-9 Monash Street, Gladesville"
+      ],
+      "auteur": "Chris.sherlock2",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:9_Monash_Street,_Gladesville_008.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/9_Monash_Street%2C_Gladesville_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Citadelle de Quebec 090.jpg",
+      "description": "Citadelle de Québec",
+      "categories": [
+        "Taken with Canon PowerShot A3100 IS",
+        "Building 10 (Citadelle of Quebec)",
+        "Self-published work"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_090.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Citadelle_de_Quebec_090.jpg/1280px-Citadelle_de_Quebec_090.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:9 Monash Street, Gladesville 006.jpg",
+      "description": "historic building in Gladesville, New South Wales",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (34° S, 151° E)",
+        "1-9 Monash Street, Gladesville"
+      ],
+      "auteur": "Chris.sherlock2",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:9_Monash_Street,_Gladesville_006.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/9_Monash_Street%2C_Gladesville_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Citadelle de Quebec 092.jpg",
+      "description": "Citadelle de Québec",
+      "categories": [
+        "Taken with Canon PowerShot A3100 IS",
+        "Building 10 (Citadelle of Quebec)",
+        "Self-published work",
+        "Barrel vaults in Canada",
+        "May 2013 in Quebec City",
+        "Windows in Quebec City"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_092.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Citadelle_de_Quebec_092.jpg/1280px-Citadelle_de_Quebec_092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Citadelle de Quebec 086.jpg",
+      "description": "Citadelle de Québec",
+      "categories": [
+        "Taken with Canon PowerShot A3100 IS",
+        "Building 10 (Citadelle of Quebec)",
+        "Self-published work"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_086.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Citadelle_de_Quebec_086.jpg/1280px-Citadelle_de_Quebec_086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "colle-a-carrelage",
+    "terme": "la colle à carrelage",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Mortier-colle en poudre, vendu en sacs, étalé au peigne cranté pour coller les carreaux.",
+    "priorite": 1,
+    "requetes": [
+      "tile adhesive notched trowel",
+      "mortier colle carrelage",
+      "thinset mortar tiles"
+    ],
+    "incompatibles": [
+      "carrelage"
+    ],
+    "categoriesCommons": [
+      "Category:Tiling"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bathroom splash back.jpg",
+      "description": "Splashback in a small bathroom renovation project in Wellington.",
+      "categories": [
+        "Bathrooms",
+        "Plumbing",
+        "Tiling",
+        "Self-published work"
+      ],
+      "auteur": "Smtzzz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bathroom_splash_back.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bathroom_splash_back.jpg/1280px-Bathroom_splash_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Isfahan 1210600 nevit.jpg",
+      "description": "Photographs from Isfahan, Iran",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Wallpaper group diagrams",
+        "Tiling",
+        "Islamic geometric patterns",
+        "License migration redundant",
+        "Self-published work",
+        "Nevit Dilmen",
+        "Art in Isfahan"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Isfahan_1210600_nevit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Isfahan_1210600_nevit.jpg/1280px-Isfahan_1210600_nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Isfahan 1210599 nevit.jpg",
+      "description": "Photographs from Isfahan, Iran",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Nevit Dilmen"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Isfahan_1210599_nevit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Isfahan_1210599_nevit.jpg/1280px-Isfahan_1210599_nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Construction tiles8.JPG",
+      "description": "τοποθέτηση πλακιδίων σε δάπεδο",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W125",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Tiling",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Tony Esopi",
+        "Construction tiles",
+        "Photographs taken on 2011-04-11"
+      ],
+      "auteur": "Tony Esopi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_tiles8.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Construction_tiles8.JPG/1280px-Construction_tiles8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Continued installation of marble wall tiles in the future LIRR passenger concourse. (CM014B, 1-24-2019) (33031029798).jpg",
+      "description": "Continued installation of marble wall tiles in the future LIRR passenger concourse. (CM014B, 1-24-2019)",
+      "categories": [
+        "Tiling",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/01/25"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Continued_installation_of_marble_wall_tiles_in_the_future_LIRR_passenger_concourse._(CM014B,_1-24-2019)_(33031029798).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Continued_installation_of_marble_wall_tiles_in_the_future_LIRR_passenger_concourse._%28CM014B%2C_1-24-2019%29_%2833031029798%29.jpg/1280px-Continued_installation_of_marble_wall_tiles_in_the_future_LIRR_passenger_concourse._%28CM014B%2C_1-24-2019%29_%2833031029798%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Handyman photos Fix Barber Wilson diverter valve 12.JPG",
+      "description": "I am using a tiling drill bit to make a new hole for the valve stem to come through. I drill through the tile and then the cement backer board beneath it. The grey duct tape is to prevent chipping. Background: This is image 12 of a repair project to fix a shower/tub diverter valve made by Barber Wilsons & Co Ltd. The handle which was supposed to divert water to the shower but it did not work; a plastic piece inside was broken. Unfortunately, since this valve could not be fixed from the front, it required a major operation to open up the back and replace pipes. I ended up replacing the defectiv",
+      "categories": [
+        "Plumbing",
+        "CC-Zero",
+        "Tiling",
+        "Self-published work",
+        "Handyman photos by tom sulcer"
+      ],
+      "auteur": "Tomwsulcer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Handyman_photos_Fix_Barber_Wilson_diverter_valve_12.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Handyman_photos_Fix_Barber_Wilson_diverter_valve_12.JPG/1280px-Handyman_photos_Fix_Barber_Wilson_diverter_valve_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1335,
+      "hauteur": 852
+    }
+  ]
+}

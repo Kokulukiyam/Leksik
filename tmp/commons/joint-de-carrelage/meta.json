@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "joint-de-carrelage",
+    "terme": "le joint de carrelage",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Mince bande de mortier coloré qui remplit l'espace entre deux carreaux.",
+    "priorite": 1,
+    "requetes": [
+      "tile grout lines",
+      "joint de carrelage",
+      "grouting tiles"
+    ],
+    "incompatibles": [
+      "carrelage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:REFERENCE granite tile 04 (Amal Kumar via Poly Haven).jpg",
+      "description": "Texture of a granite footpath. Length: 2 meters. Sampling: 4096 px/m.",
+      "categories": [
+        "CC-Zero",
+        "Files uploaded by PantheraLeo1359531",
+        "Files from Poly Haven (flat list)",
+        "Files uploaded with OpenRefine by PantheraLeo1359531",
+        "Granite Tile 04 (Poly Haven)"
+      ],
+      "auteur": "Amal Kumar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:REFERENCE_granite_tile_04_(Amal_Kumar_via_Poly_Haven).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/REFERENCE_granite_tile_04_%28Amal_Kumar_via_Poly_Haven%29.jpg/1280px-REFERENCE_granite_tile_04_%28Amal_Kumar_via_Poly_Haven%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 900
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Grouting tiles in a future public restroom in the LIRR Concourse. 10-31-2019 (48996884053).jpg",
+      "description": "Grouting tiles in a future public restroom in the LIRR Concourse. 10-31-2019",
+      "categories": [
+        "Construction tiles",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/11/01"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grouting_tiles_in_a_future_public_restroom_in_the_LIRR_Concourse._10-31-2019_(48996884053).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Grouting_tiles_in_a_future_public_restroom_in_the_LIRR_Concourse._10-31-2019_%2848996884053%29.jpg/1280px-Grouting_tiles_in_a_future_public_restroom_in_the_LIRR_Concourse._10-31-2019_%2848996884053%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Granite tile 04 rough 8k (Amal Kumar via Poly Haven).jpg",
+      "description": "Texture of a granite footpath. Length: 2 meters. Sampling: 4096 px/m.",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with OpenRefine",
+        "Files uploaded by PantheraLeo1359531",
+        "Files from Poly Haven (flat list)",
+        "Files uploaded with OpenRefine by PantheraLeo1359531",
+        "Granite Tile 04 (Poly Haven)"
+      ],
+      "auteur": "Amal Kumar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granite_tile_04_rough_8k_(Amal_Kumar_via_Poly_Haven).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Granite_tile_04_rough_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg/1280px-Granite_tile_04_rough_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8192,
+      "hauteur": 8192
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tiling in kitchen above stove and countertop.jpg",
+      "description": "Tiling is a do-it-yourself project. First attach a board to hold the second to the bottom row of tiles. Put the first row of tiles above this. Work upwards (tiles won't slink down because of their weight, since the board is holding them up). Last, remove the board, and put in the lowest row of tiles.",
+      "categories": [
+        "Tiles",
+        "Grouting",
+        "Self-published work",
+        "PD-self",
+        "Handyman photos by tom sulcer"
+      ],
+      "auteur": "Tomwsulcer",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tiling_in_kitchen_above_stove_and_countertop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Tiling_in_kitchen_above_stove_and_countertop.jpg/1280px-Tiling_in_kitchen_above_stove_and_countertop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3472,
+      "hauteur": 2604
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Granite tile 04 diff 8k (Amal Kumar via Poly Haven).jpg",
+      "description": "Texture of a granite footpath. Length: 2 meters. Sampling: 4096 px/m.",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with OpenRefine",
+        "Files uploaded by PantheraLeo1359531",
+        "Files from Poly Haven (flat list)",
+        "Files uploaded with OpenRefine by PantheraLeo1359531",
+        "Granite Tile 04 (Poly Haven)"
+      ],
+      "auteur": "Amal Kumar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granite_tile_04_diff_8k_(Amal_Kumar_via_Poly_Haven).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Granite_tile_04_diff_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg/1280px-Granite_tile_04_diff_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8192,
+      "hauteur": 8192
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Grouting tile finishes along the 44th Street passenger corridor of the future LIRR concourse. (CM014B, 01-03-2019) (31660454047).jpg",
+      "description": "Grouting tile finishes along the 44th Street passenger corridor of the future LIRR concourse. (CM014B, 01-03-2019)",
+      "categories": [
+        "Tilers",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/01/04"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grouting_tile_finishes_along_the_44th_Street_passenger_corridor_of_the_future_LIRR_concourse._(CM014B,_01-03-2019)_(31660454047).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Grouting_tile_finishes_along_the_44th_Street_passenger_corridor_of_the_future_LIRR_concourse._%28CM014B%2C_01-03-2019%29_%2831660454047%29.jpg/1280px-Grouting_tile_finishes_along_the_44th_Street_passenger_corridor_of_the_future_LIRR_concourse._%28CM014B%2C_01-03-2019%29_%2831660454047%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

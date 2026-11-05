@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "bardage-metallique",
+    "terme": "le bardage métallique",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Revêtement de façade en tôles ou cassettes métalliques nervurées, typique des bâtiments industriels.",
+    "priorite": 2,
+    "requetes": [
+      "metal cladding facade",
+      "bardage métallique",
+      "steel cladding industrial building"
+    ],
+    "incompatibles": [
+      "bardage",
+      "tole-ondulee",
+      "panneau-sandwich",
+      "bac-acier"
+    ],
+    "categoriesCommons": [
+      "Category:Metal facades"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Pole (16041011846).jpg",
+      "description": "pole",
+      "categories": [
+        "Blue walls",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Metal facades",
+        "Photographs by Dean Hochman"
+      ],
+      "auteur": "Dean Hochman from Overland Park, Kansas, U.S.",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pole_(16041011846).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Pole_%2816041011846%29.jpg/1280px-Pole_%2816041011846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2436,
+      "hauteur": 1601
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fassadenverkleidung einer Turnhalle.jpg",
+      "description": "Ce revêtement de façade métallique se trouve dans le gymnase nouvellement construit en 2023 de l'école Ernst-Pinker à Leipzig Anger-Crottendorf. On y voit une découpe de la façade est sur le trottoir de la Herbartstraße.",
+      "categories": [
+        "Taken with Nikon D750",
+        "Rainscreen cladding",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Leipzig photographs taken on 2023-03-24",
+        "Sheet metal shingles",
+        "Photographs by Augustgeyler",
+        "Turnhalle (Ernst-Pinkert-Schule Leipzig)"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fassadenverkleidung_einer_Turnhalle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Fassadenverkleidung_einer_Turnhalle.jpg/1280px-Fassadenverkleidung_einer_Turnhalle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6001,
+      "hauteur": 3977
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Moscow, Foriver buildings embankment works (May 2025) 05.jpg",
+      "description": "Moscow, Foriver buildings, construction of the embankment and adjacent Foriver Residences site",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Foriver (residential complex)",
+        "Moscow photographs taken on 2025-05-23",
+        "Metal facades",
+        "Photographs by Retired electrician/newconstruction",
+        "Views from Paveletskaya Embankment"
+      ],
+      "auteur": "Retired electrician",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow,_Foriver_buildings_embankment_works_(May_2025)_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Moscow%2C_Foriver_buildings_embankment_works_%28May_2025%29_05.jpg/1280px-Moscow%2C_Foriver_buildings_embankment_works_%28May_2025%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Blockheizkraftwerk Leipzig Möckern – Nordfassade.jpg",
+      "description": "The combined heat and power plant (CHP) in Leipzig Möckern was commissioned by the Leipziger Stadtwerke on Wednesday, 24 March 2021. In the same year another CHP of this type went into operation in the district of Lausen. The design of the facade cladding made of metal by the architectural office thoma architekten won the German Facade Award 2022 for suspended ventilated facades. The German Fassadenpreis is an architectural prize awarded annually by Brillux since 1991.",
+      "categories": [
+        "Taken with Nikon D750",
+        "Retouched pictures",
+        "Rainscreen cladding",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Leipzig photographs taken on 2023-04-08",
+        "Files with Assessments template missing SDC Commons valued image assessment",
+        "Photographs by Augustgeyler",
+        "Blockheizkraftwerk Leipzig Nord-West"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade.jpg/1280px-Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4669,
+      "hauteur": 3668
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden julesvernex2-4.jpg",
+      "description": "Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden",
+      "categories": [
+        "Taken with Fujifilm X-T3",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Julesvernex2",
+        "Sweden images by Julesvernex2",
+        "PPL1 images by Julesvernex2",
+        "Metal facades",
+        "Buildings in Segeltorp",
+        "Architecture images by Julesvernex2",
+        "Abstract(ish) images by Julesvernex2",
+        "Fujifilm XF 70-300mm f4-5.6 R LM OIS WR (X-mount) images by Julesvernex2",
+        "Taken with Fujinon XF70-300mm F4-5.6 R LM OIS WR"
+      ],
+      "auteur": "Jules Verne Times Two",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership,_Stockholm,_Sweden_julesvernex2-4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-4.jpg/1280px-Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4757,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bike and cladding Træ Sydhavnen Træ office block Southern Harbour Aarhus Denmark.jpg",
+      "description": "Focus on a bike parked, free-standing, on path in front of a section of facade. The facade is wooden casing and picturesquely worn metal cladding. Low greenery in a flower bed borders where the foundation meets the path. This is Træ building at Jægergårdsgade and Kalkværksvej at Sydhavnen - the Southern Harbour quarter, Aarhus, Denmark. It is 20 storeys and 78 metres high. At the time of construction: Denmark's tallest wooden building. Concrete and glass are also used and lots of the material is reused or recycled. It is in three sections. The cladding is very striking, sort of tiled or patchw",
+      "categories": [
+        "Self-published work",
+        "Parked bicycles in Denmark",
+        "Files with coordinates missing SDC location of creation",
+        "Træ (Aarhus)",
+        "Architectural elements in Aarhus"
+      ],
+      "auteur": "Ciara Ní Riain",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bike_and_cladding_Tr%C3%A6_Sydhavnen_Tr%C3%A6_office_block_Southern_Harbour_Aarhus_Denmark.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Bike_and_cladding_Tr%C3%A6_Sydhavnen_Tr%C3%A6_office_block_Southern_Harbour_Aarhus_Denmark.jpg/1280px-Bike_and_cladding_Tr%C3%A6_Sydhavnen_Tr%C3%A6_office_block_Southern_Harbour_Aarhus_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 2296
+    }
+  ]
+}

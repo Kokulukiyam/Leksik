@@ -1,0 +1,53 @@
+{
+  "termId": "beton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Enduit dégradé en forme de visage avec planchette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas lisible comme béton."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur à assises horizontales couvert de mousse et de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut se lire comme maçonnerie."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Surface grise avec texte rouge incrusté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte incrusté."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur en blocs de béton à parement rustique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parpaings, pas du béton coulé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur peint orange en angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enduit peint."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de parpaings en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parpaings."
+    }
+  ]
+}

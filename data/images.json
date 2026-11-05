@@ -2662,6 +2662,24 @@
     "note": "Vérification : Remplissage en verre feuilleté à profilé ; le chat est secondaire, rectangle sur le verre. Contre-vérification : Garde-corps à panneaux de verre dans un cadre, bien cadré par le rectangle ; le chat ne prête pas à confusion de terme."
   },
   {
+    "id": "store-banne-06",
+    "termId": "store-banne",
+    "fichier": "commons/store-banne-06.webp",
+    "rectangle": {
+      "x": 0.09,
+      "y": 0.19,
+      "largeur": 0.52,
+      "hauteur": 0.24
+    },
+    "lieu": "Cannes, France",
+    "source": "commons",
+    "auteur": "Matti Blume",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Rue_Hoche,_Cannes_(20260619-IMG_3774).jpg",
+    "statut": "validée",
+    "note": "Vérification : Store en toile déployé, net ; rectangle sur le store de gauche (deux stores visibles). Contre-vérification : Store en toile déroulé au-dessus d'une terrasse de café, bien cadré par le rectangle ; terme juste."
+  },
+  {
     "id": "vitrine-05",
     "termId": "vitrine",
     "fichier": "commons/vitrine-05.webp",
@@ -2758,5 +2776,493 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Roof_Timbers_-_geograph.org.uk_-_1740919.jpg",
     "statut": "validée",
     "note": "Vérification : Ossature de toit en bois lisible et dominante. Contre-vérification : Ossature de bois apparente vue de dessous (entraits, arbalétriers, chevrons), la charpente dans son ensemble."
+  },
+  {
+    "id": "liteau-02",
+    "termId": "liteau",
+    "fichier": "commons/liteau-02.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.6,
+      "largeur": 0.99,
+      "hauteur": 0.1
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Friedrich Haag",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Unfertige_Dinge_003_2022_10_26.jpg",
+    "statut": "validée",
+    "note": "Vérification : Liteaux horizontaux très lisibles ; rectangle sur une rangée. Contre-vérification : Toiture en chantier : le rectangle isole un liteau horizontal posé sur contre-lattes, tuile accrochée à côté ; terme juste."
+  },
+  {
+    "id": "panneau-sandwich-01",
+    "termId": "panneau-sandwich",
+    "fichier": "commons/panneau-sandwich-01.webp",
+    "rectangle": {
+      "x": 0.31,
+      "y": 0.15,
+      "largeur": 0.5,
+      "hauteur": 0.82
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Ladhari maher",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Panneau_sandwich.jpg",
+    "statut": "validée",
+    "note": "Vérification : Objet clair et dominant, âme isolante bien visible ; étiquette de marque sans donner la réponse. Contre-vérification : Échantillon de panneau de couverture nervuré vert dont la tranche montre nettement l'âme en mousse entre deux tôles ; rectangle bien placé."
+  },
+  {
+    "id": "descente-d-eaux-pluviales-02",
+    "termId": "descente-d-eaux-pluviales",
+    "fichier": "commons/descente-d-eaux-pluviales-02.webp",
+    "rectangle": {
+      "x": 0.16,
+      "y": 0.07,
+      "largeur": 0.37,
+      "hauteur": 0.8
+    },
+    "lieu": "Trimingham, Norfolk, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:-2023-01-29_Rainwater_downpipe,_Trimingham,_Norfolk.JPG",
+    "statut": "validée",
+    "note": "Vérification : Descente verticale claire et dominante, cadrée de près. Contre-vérification : Tuyau vertical noir fixé sur le bardage, du coude sous la gouttière jusqu'au sol ; élément dominant et sans ambiguïté."
+  },
+  {
+    "id": "descente-d-eaux-pluviales-05",
+    "termId": "descente-d-eaux-pluviales",
+    "fichier": "commons/descente-d-eaux-pluviales-05.webp",
+    "rectangle": {
+      "x": 0.45,
+      "y": 0.09,
+      "largeur": 0.14,
+      "hauteur": 0.9
+    },
+    "lieu": "Northrepps, Norfolk, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:-2022-04-24_Gutter_downpipe,_Saint_Mary%27s,_Northrepps.JPG",
+    "statut": "validée",
+    "note": "Vérification : Descente verticale nette en tête de boîte à eau (terme incompatible), bien lisible une fois encadrée. Contre-vérification : Descente carrée en fonte le long d'un mur en silex, du sommet au sol ; la petite boîte à eau en tête ne domine pas le cadrage."
+  },
+  {
+    "id": "membrane-bitumineuse-02",
+    "termId": "membrane-bitumineuse",
+    "fichier": "commons/membrane-bitumineuse-02.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.36,
+      "largeur": 1,
+      "hauteur": 0.64
+    },
+    "lieu": "Égaléo, Grèce",
+    "source": "commons",
+    "auteur": "Μάριος-Μητσόγλου",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Roof_waterproofing_system_application_by_Monotica_Athens.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lés et joints soudés clairement visibles, typique ; rectangle sur la surface de membrane pour éviter la confusion avec relevés/acrotères. Contre-vérification : Toiture-terrasse couverte de lés de membrane bitumineuse autoprotégée aux recouvrements soudés bien visibles ; rectangle sur la membrane."
+  },
+  {
+    "id": "tranchee-de-fondation-01",
+    "termId": "tranchee-de-fondation",
+    "fichier": "commons/tranchee-de-fondation-01.webp",
+    "rectangle": null,
+    "lieu": "Angleterre, Royaume-Uni",
+    "source": "commons",
+    "auteur": "David P Howard",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Foundation_trench_-_geograph.org.uk_-_4381504.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tranchée longue et étroite en plein sol, typique d'une tranchée de fondation ; dominante dans l'image. Contre-vérification : Tranchée longue et étroite creusée selon le tracé d'un mur, fond bétonné avec un peu d'armature ; la tranchée est clairement le sujet."
+  },
+  {
+    "id": "ferraillage-02",
+    "termId": "ferraillage",
+    "fichier": "commons/ferraillage-02.webp",
+    "rectangle": null,
+    "lieu": "États-Unis",
+    "source": "commons",
+    "auteur": "MTA Capital Construction Mega Projects",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Installation_of_rebar_reinforcement_at_335_Madison_parking_level._(CM014B,_4-24-2018)_(42149187742).jpg",
+    "statut": "validée",
+    "note": "Vérification : Armatures en place avant coulage, barres HA ligaturées, très lisible. Contre-vérification : Armatures de voile en barres HA ligaturées en place devant le coffrage, avant coulage ; ferraillage net et dominant."
+  },
+  {
+    "id": "treillis-soude-06",
+    "termId": "treillis-soude",
+    "fichier": "commons/treillis-soude-06.webp",
+    "rectangle": null,
+    "lieu": "Rixö, Suède",
+    "source": "commons",
+    "auteur": "W.carter",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Five_rebar_nets_closeup.jpg",
+    "statut": "validée",
+    "note": "Vérification : Panneaux soudés à mailles régulières, typiques du treillis soudé pour dalles. Contre-vérification : Gros plan d'un panneau de treillis à mailles régulières en barres crénelées soudées posé sur du gravier ; lisible et sans ambiguïté."
+  },
+  {
+    "id": "sable-03",
+    "termId": "sable",
+    "fichier": "commons/sable-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Confidence24",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:A_heap_of_sharp_sand.jpg",
+    "statut": "validée",
+    "note": "Vérification : Matière granulaire fine remplissant l'image ; ne peut être pris pour gravier ou ciment. Contre-vérification : Tas de sable fin sur un chantier devant un mur en parpaings ; matériau clairement reconnaissable."
+  },
+  {
+    "id": "sable-06",
+    "termId": "sable",
+    "fichier": "commons/sable-06.webp",
+    "rectangle": null,
+    "lieu": "État d'Anambra, Nigeria",
+    "source": "commons",
+    "auteur": "Johnnybam",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Pile_of_Sand_for_Building_in_Anambra_State.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tas de sable net et dominant, matière reconnaissable. Contre-vérification : Gros tas de sable fin occupant toute l'image ; identification évidente."
+  },
+  {
+    "id": "poutre-03",
+    "termId": "poutre",
+    "fichier": "commons/poutre-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Designer Mario Kleff",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:16000_PSI_Concrete_Beam_Post-Tensioned.jpg",
+    "statut": "validée",
+    "note": "Vérification : Poutre béton horizontale clairement dominante. Contre-vérification : Poutre préfabriquée en béton précontraint sur son banc, élément horizontal massif et dominant, avec torons et attentes en tête secondaires."
+  },
+  {
+    "id": "ossature-metallique-03",
+    "termId": "ossature-metallique",
+    "fichier": "commons/ossature-metallique-03.webp",
+    "rectangle": null,
+    "lieu": "Lieu inconnu",
+    "source": "commons",
+    "auteur": "Wikideas1",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Steel_frame_structure.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ossature d'acier complète, claire et dominante. Contre-vérification : Vue aérienne d'un bâtiment dont toute la structure porteuse en profilés d'acier (poteaux, poutres, pannes) est montée à nu."
+  },
+  {
+    "id": "ossature-metallique-05",
+    "termId": "ossature-metallique",
+    "fichier": "commons/ossature-metallique-05.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.16,
+      "largeur": 0.75,
+      "hauteur": 0.67
+    },
+    "lieu": "Ann Arbor Township, Michigan, États-Unis",
+    "source": "commons",
+    "auteur": "Dwight Burdette",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Steel_Frame_Commercial_Building_Under_Construction,_Ann_Arbor_Township,_Michigan.JPG",
+    "statut": "validée",
+    "note": "Vérification : Poteaux, poutres et diagonales apparents, bien lisible. Contre-vérification : Structure en acier de plusieurs niveaux, poteaux, poutres et contreventements visibles ; rectangle englobant toute l'ossature."
+  },
+  {
+    "id": "porte-a-faux-05",
+    "termId": "porte-a-faux",
+    "fichier": "commons/porte-a-faux-05.webp",
+    "rectangle": {
+      "x": 0.3,
+      "y": 0.27,
+      "largeur": 0.44,
+      "hauteur": 0.4
+    },
+    "lieu": "Staten Island, New York",
+    "source": "commons",
+    "auteur": "Tdorante10",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Empire_Outlets_SI_td_(2022-06-19)_020.jpg",
+    "statut": "validée",
+    "note": "Vérification : Volume en surplomb sans appui du côté libre. Contre-vérification : Volume de bâtiment largement en saillie au-dessus du rez-de-chaussée sans appui sous l'extrémité, bien désigné ; porte-à-faux évident."
+  },
+  {
+    "id": "arc-en-plein-cintre-02",
+    "termId": "arc-en-plein-cintre",
+    "fichier": "commons/arc-en-plein-cintre-02.webp",
+    "rectangle": null,
+    "lieu": "Dodone, Grèce",
+    "source": "commons",
+    "auteur": "User:.Koen",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dodona_Theatre_4.jpg",
+    "statut": "validée",
+    "note": "Vérification : Demi-cercle parfait, clairement lisible. Contre-vérification : Arc de pierre clavé en demi-cercle dominant toute la photo ; plein cintre net."
+  },
+  {
+    "id": "bois-01",
+    "termId": "bois",
+    "fichier": "commons/bois-01.webp",
+    "rectangle": null,
+    "lieu": "La Clusaz, France",
+    "source": "commons",
+    "auteur": "David r jenkins",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Stack_of_wooden_planks_-_close-up_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Planches de bois nettes, sans ambiguïté. Contre-vérification : Pile de planches de sapin sciées en gros plan ; matériau bois évident."
+  },
+  {
+    "id": "bois-04",
+    "termId": "bois",
+    "fichier": "commons/bois-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Alex Jones alexjones",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Stacked_wood_planks_(Unsplash).jpg",
+    "statut": "validée",
+    "note": "Vérification : Planches de bois en pile, lisible. Contre-vérification : Empilement de planches de bois brut vues en bout ; bois sans ambiguïté."
+  },
+  {
+    "id": "contreplaque-06",
+    "termId": "contreplaque",
+    "fichier": "commons/contreplaque-06.webp",
+    "rectangle": null,
+    "lieu": "Gare de Zwolle, Pays-Bas",
+    "source": "commons",
+    "auteur": "Joost Markerink from Zwolle, The Netherlands",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:47194198881_-_Flickr_-_joostmarkerink.jpg",
+    "statut": "validée",
+    "note": "Vérification : Panneaux de contreplaqué lisibles ; rampe rouge au premier plan. Contre-vérification : Grands panneaux de contreplaqué de pin (veinage déroulé, tampons FSC) dominant l'image ; reconnaissable, aucun voisin plausible."
+  },
+  {
+    "id": "fer-forge-01",
+    "termId": "fer-forge",
+    "fichier": "commons/fer-forge-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Frank Lehmann",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Alte_Grabeinfassung_-_old_grave_border.jpg",
+    "statut": "validée",
+    "note": "Vérification : Barres, volutes et pointes typiques du fer forgé, plan rapproché clair. Contre-vérification : Grille ancienne à volutes et pointes en fleur de lys, en gros plan ; fer forgé typique."
+  },
+  {
+    "id": "laterite-02",
+    "termId": "laterite",
+    "fichier": "commons/laterite-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Eloquenttheory",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Laterite_stone_during_rainy_season_03.jpg",
+    "statut": "validée",
+    "note": "Vérification : Latérite typique, rouge, vacuolaire, plan rapproché. Contre-vérification : Bloc de roche rouge-orangé ferrugineuse et alvéolée en affleurement ; latérite crédible et dominante."
+  },
+  {
+    "id": "laterite-04",
+    "termId": "laterite",
+    "fichier": "commons/laterite-04.webp",
+    "rectangle": null,
+    "lieu": "Cola, Goa, Inde",
+    "source": "commons",
+    "auteur": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk pa",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Laterite_Rock_Cola_Goa_Jan19_DSC06065.jpg",
+    "statut": "validée",
+    "note": "Vérification : Latérite alvéolée de Goa, bien lisible. Contre-vérification : Affleurement de latérite rouge sombre très vacuolaire en gros plan ; aucun autre terme de la liste ne convient."
+  },
+  {
+    "id": "minaret-03",
+    "termId": "minaret",
+    "fichier": "commons/minaret-03.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.14,
+      "largeur": 0.32,
+      "hauteur": 0.68
+    },
+    "lieu": "Seria, Brunei",
+    "source": "commons",
+    "auteur": "Yu Chu Chin",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Pekan_Seria_Mosque_minaret_(DSCF033).jpg",
+    "statut": "validée",
+    "note": "Vérification : Tour de mosquée élancée et dominante, encadrée sur la tour. Contre-vérification : Tour blanche à balcons et haut-parleurs sur une mosquée, de nuit, bien cadrée ; minaret évident."
+  },
+  {
+    "id": "minaret-04",
+    "termId": "minaret",
+    "fichier": "commons/minaret-04.webp",
+    "rectangle": {
+      "x": 0.48,
+      "y": 0.06,
+      "largeur": 0.2,
+      "hauteur": 0.62
+    },
+    "lieu": "Côte d'Ivoire",
+    "source": "commons",
+    "auteur": "Rc1959",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_en_C%C3%B4te_d%27Ivoire.1991.jpg",
+    "statut": "validée",
+    "note": "Vérification : Plusieurs minarets bien reconnaissables, rectangle sur le plus haut. Contre-vérification : Haute tour à étages d'une mosquée, désignée par le rectangle parmi d'autres minarets ; terme juste."
+  },
+  {
+    "id": "porte-05",
+    "termId": "porte",
+    "fichier": "commons/porte-05.webp",
+    "rectangle": {
+      "x": 0.38,
+      "y": 0.08,
+      "largeur": 0.33,
+      "hauteur": 0.54
+    },
+    "lieu": "Asso, Italie",
+    "source": "commons",
+    "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Dacxjo~commonswiki (étant donné la revendication de droit d’auteur).",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Asso,_entrata_casa_Magnocavallo.JPG",
+    "statut": "validée",
+    "note": "Vérification : Porte entière, claire, encadrée pour la distinguer de l'escalier et de l'arc. Contre-vérification : Vieille porte en bois sous arc dans une ruelle, bien cadrée ; porte sans ambiguïté parmi les termes proposés."
+  },
+  {
+    "id": "porte-metallique-01",
+    "termId": "porte-metallique",
+    "fichier": "commons/porte-metallique-01.webp",
+    "rectangle": {
+      "x": 0.39,
+      "y": 0.27,
+      "largeur": 0.22,
+      "hauteur": 0.52
+    },
+    "lieu": "Bafra, Turquie",
+    "source": "commons",
+    "auteur": "Vikiçizer",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bafra_kent_konseyi.JPG",
+    "statut": "validée",
+    "note": "Vérification : Tôle d'acier évidente ; rectangle sur la porte. Enseigne sans lien avec la réponse. Contre-vérification : Porte en tôle emboutie sur cadre acier avec grille haute, bien cadrée ; porte métallique évidente."
+  },
+  {
+    "id": "fenetre-01",
+    "termId": "fenetre",
+    "fichier": "commons/fenetre-01.webp",
+    "rectangle": {
+      "x": 0.3,
+      "y": 0.05,
+      "largeur": 0.52,
+      "hauteur": 0.8
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Jonathunder",
+    "licence": "GFDL 1.2",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2windows.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fenêtre claire et typique ; rectangle sur la fenêtre. Contre-vérification : Fenêtre double dans un mur de brique, bien cadrée ; fenêtre sans ambiguïté parmi les termes proposés."
+  },
+  {
+    "id": "fenetre-05",
+    "termId": "fenetre",
+    "fichier": "commons/fenetre-05.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0,
+      "largeur": 0.55,
+      "hauteur": 0.92
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Elektroll",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:500px_photo_(105270455).jpeg",
+    "statut": "validée",
+    "note": "Vérification : Fenêtre nette ; rectangle sur le châssis. Contre-vérification : Fenêtre bois à petits carreaux avec imposte, rectangle précis ; terme juste."
+  },
+  {
+    "id": "naco-06",
+    "termId": "naco",
+    "fichier": "commons/naco-06.webp",
+    "rectangle": {
+      "x": 0.04,
+      "y": 0,
+      "largeur": 0.7,
+      "hauteur": 0.43
+    },
+    "lieu": "Porto Alegre, Brésil",
+    "source": "commons",
+    "auteur": "Ricardo Giusti/PMPA",
+    "licence": "Attribution",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:IBPA_7409_-_Prefeito_Nelson_Marchezan_J%C3%BAnior_e_sec_de_educa%C3%A7%C3%A3o_Adriano_-_2017-08-16_-_Ricardo_Giusti-PMPA.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fenêtres à jalousies nettes ; rectangle sur la rangée de fenêtres, enfants en dessous. Contre-vérification : Rangée de fenêtres à lames horizontales pivotantes ouvertes dans une salle de classe, désignée par le rectangle ; naco typique."
+  },
+  {
+    "id": "volet-03",
+    "termId": "volet",
+    "fichier": "commons/volet-03.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.3,
+      "largeur": 0.85,
+      "hauteur": 0.62
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Mia Medaković-Topalović",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:6_Drama.jpg",
+    "statut": "validée",
+    "note": "Vérification : Volets nets, matériau et ferrures visibles ; rectangle sur la fenêtre du bas. Contre-vérification : Deux volets en bois entrouverts devant une fenêtre, en gros plan ; volet sans ambiguïté parmi la liste."
+  },
+  {
+    "id": "volet-battant-01",
+    "termId": "volet-battant",
+    "fichier": "commons/volet-battant-01.webp",
+    "rectangle": {
+      "x": 0.15,
+      "y": 0.4,
+      "largeur": 0.3,
+      "hauteur": 0.34
+    },
+    "lieu": "Amsterdam, Pays-Bas",
+    "source": "commons",
+    "auteur": "Steve Collis from Melbourne, Australia",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Houses_(8313912980).jpg",
+    "statut": "validée",
+    "note": "Vérification : Volets pleins à un vantail sur gonds, très lisibles ; rectangle sur une travée. Contre-vérification : Volets battants rouges ouverts sur gonds de part et d'autre des fenêtres, rectangle sur un étage ; terme juste."
+  },
+  {
+    "id": "volet-roulant-06",
+    "termId": "volet-roulant",
+    "fichier": "commons/volet-roulant-06.webp",
+    "rectangle": {
+      "x": 0.36,
+      "y": 0.35,
+      "largeur": 0.24,
+      "hauteur": 0.3
+    },
+    "lieu": "Nagykanizsa, Hongrie",
+    "source": "commons",
+    "auteur": "Globetrotter19",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:De%C3%A1k_Ferenc_Platz_12,_Fenster,_2023_Nagykanizsa.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lames horizontales et coffre bien visibles ; rectangle sur la fenêtre centrale. Contre-vérification : Volet roulant à lames baissé aux trois quarts dans une fenêtre, bien cadré ; terme juste."
   }
 ]

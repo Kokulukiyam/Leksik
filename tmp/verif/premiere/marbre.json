@@ -1,0 +1,58 @@
+{
+  "termId": "marbre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Meuble ancien à deux portes surmonté d'une pendule, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marbre non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pierre rose vif surmontée de marbre blanc veiné, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matière peu identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Salle d'attente en gravure noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne reproduction."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pendule dorée au mur, plateau de marbre veiné en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marbre en bas du cadre, pendule dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plan d'église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cheminée en marbre blanc veiné de bleu-noir, avec pendules.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.48,
+        "largeur": 0.6,
+        "hauteur": 0.5
+      },
+      "lieu": "",
+      "note": "Veines typiques du marbre, matière dominante ; rectangle sur la cheminée."
+    }
+  ]
+}

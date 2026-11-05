@@ -1,0 +1,164 @@
+{
+  "terme": {
+    "id": "cylindre-de-serrure",
+    "terme": "le cylindre de serrure",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Pièce de la serrure dans laquelle on introduit la clé, aussi appelée barillet.",
+    "priorite": 1,
+    "requetes": [
+      "lock cylinder",
+      "cylindre serrure barillet",
+      "euro cylinder lock"
+    ],
+    "incompatibles": [
+      "serrure"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Altena - Kirchstraße - Reformierte Kirche 04 ies.jpg",
+      "description": "Reformierte Kirche in Altena",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Escutcheon plates",
+        "License migration redundant",
+        "Reformierte Kirche (Altena)",
+        "Self-published work",
+        "Door handles in Märkischer Kreis"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Altena_-_Kirchstra%C3%9Fe_-_Reformierte_Kirche_04_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Altena_-_Kirchstra%C3%9Fe_-_Reformierte_Kirche_04_ies.jpg/1280px-Altena_-_Kirchstra%C3%9Fe_-_Reformierte_Kirche_04_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Holtwhites Trinibis Cricket Club Solis H26 compact tractor with topper mower-roller attachment 01.jpg",
+      "description": "Solis H26 compact tractor with topper mower-roller attachment at Holtwhites Trinibis Cricket Club , in Enfield, London. The Solis H26 is a 26 HP compact tractor typically used for small-scale farming, landscaping, and municipal work. It has a Mitsubishi 3-cylinder diesel engine, 2-range hydrostatic transmission (HST), and 4WD with differential lock. Standard equipment includes power steering, wet disc brakes, a 600 kg lift capacity (optional 775 kg), rear and mid PTOs, and a ROPS frame. Optional additions include a heated cabin, front loader, front PTO/linkage, and various tyre types. It is co",
+      "categories": [
+        "Cricket grounds in London",
+        "Transport in the London Borough of Enfield",
+        "Tractor mowers",
+        "Solis tractors",
+        "Self-published work",
+        "Vehicles facing left",
+        "Side views of vehicles",
+        "Tractors in London",
+        "Agricultural vehicles in London",
+        "Blue land vehicles in the United Kingdom",
+        "Vehicles in the London Borough of Enfield",
+        "Acabashi photos: cricket in London",
+        "Fences in the London Borough of Enfield",
+        "2025 in the London Borough of Enfield",
+        "Spring 2025 in the United Kingdom",
+        "May 2025 in London",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Agricultural tools in England",
+        "England photographs taken on 2025-05-29",
+        "Acabashi photos: land vehicles",
+        "Agricultural machines in London",
+        "Wooden fences in London",
+        "Vehicles on grass",
+        "London cricket photos taken with Canon PowerShot SX60 HS",
+        "Solis H26",
+        "Holtwhites Trinibis Cricket Club",
+        "International Tractors Limited"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holtwhites_Trinibis_Cricket_Club_Solis_H26_compact_tractor_with_topper_mower-roller_attachment_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Holtwhites_Trinibis_Cricket_Club_Solis_H26_compact_tractor_with_topper_mower-roller_attachment_01.jpg/1280px-Holtwhites_Trinibis_Cricket_Club_Solis_H26_compact_tractor_with_topper_mower-roller_attachment_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Drzwi wawelskie.jpg",
+      "description": "pl Drzwi wejściowe do katedry na Wawelu en Cathedral door ( Wawel )",
+      "categories": [
+        "GFDL",
+        "Taken with Pentagram Photon 41",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Metal doors",
+        "Files with no machine-readable source",
+        "Escutcheon plates",
+        "License migration redundant",
+        "Self-published work",
+        "Door of the Wawel Cathedral",
+        "Assumed own work",
+        "Gothic doors",
+        "Doors in Kraków",
+        "Photographs taken on 2001-05-20",
+        "Black doors in Poland",
+        "Casimir III of Poland monogram",
+        "Symbols of Kraków"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Cancre (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drzwi_wawelskie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Drzwi_wawelskie.jpg/1280px-Drzwi_wawelskie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Holtwhites Trinibis CC v East Herts Cavaliers CC at Enfield, London 176.jpg",
+      "description": "The first innings of a public friendly timed cricket match on Thursday, 29 May 2025, between Holtwhites Trinibis Cricket Club Libraries (batting), and East Herts Cavaliers Cricket Club , at Holtwhites Sports and Social Club , in Chase Side , Enfield , London, England. Result: Holtwhites Trinibis 262/5 declared off 38 overs; East Herts Cavaliers 143 all out off 41.5 overs. Wikimedia (2025) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Holtwhites Trinibis Cricket Club , East Herts Cavaliers Cricket Club , Minor cricket",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Cricket batting in London",
+        "Solis H26",
+        "Holtwhites Trinibis Cricket Club v East Herts Cavaliers Cricket Club May 2025"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holtwhites_Trinibis_CC_v_East_Herts_Cavaliers_CC_at_Enfield,_London_176.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Holtwhites_Trinibis_CC_v_East_Herts_Cavaliers_CC_at_Enfield%2C_London_176.jpg/1280px-Holtwhites_Trinibis_CC_v_East_Herts_Cavaliers_CC_at_Enfield%2C_London_176.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4233,
+      "hauteur": 3175
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Eingangsportal St Peter Heppenheim Nahaufnahme Türklinke.JPG",
+      "description": "Nahaufnahme der Türklinke am Eingangsportal der katholischen Pfarrkirche St. Peter in Heppenheim mit maximalem Zoom (Hessen, Deutschland)",
+      "categories": [
+        "Taken with Fujifilm FinePix HS10",
+        "Escutcheon plates",
+        "Self-published work",
+        "Files by 4028mdk09",
+        "Decorative hinges in Hesse",
+        "Door handles in Hesse",
+        "Interior of St. Peter (Heppenheim)"
+      ],
+      "auteur": "4028mdk09",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eingangsportal_St_Peter_Heppenheim_Nahaufnahme_T%C3%BCrklinke.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Eingangsportal_St_Peter_Heppenheim_Nahaufnahme_T%C3%BCrklinke.JPG/1280px-Eingangsportal_St_Peter_Heppenheim_Nahaufnahme_T%C3%BCrklinke.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Holtwhites Trinibis CC v East Herts Cavaliers CC at Enfield, London 175.jpg",
+      "description": "The first innings of a public friendly timed cricket match on Thursday, 29 May 2025, between Holtwhites Trinibis Cricket Club Libraries (batting), and East Herts Cavaliers Cricket Club , at Holtwhites Sports and Social Club , in Chase Side , Enfield , London, England. Result: Holtwhites Trinibis 262/5 declared off 38 overs; East Herts Cavaliers 143 all out off 41.5 overs. Wikimedia (2025) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Holtwhites Trinibis Cricket Club , East Herts Cavaliers Cricket Club , Minor cricket",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Cricket batting in London",
+        "Solis H26",
+        "Holtwhites Trinibis Cricket Club v East Herts Cavaliers Cricket Club May 2025"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holtwhites_Trinibis_CC_v_East_Herts_Cavaliers_CC_at_Enfield,_London_175.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Holtwhites_Trinibis_CC_v_East_Herts_Cavaliers_CC_at_Enfield%2C_London_175.jpg/1280px-Holtwhites_Trinibis_CC_v_East_Herts_Cavaliers_CC_at_Enfield%2C_London_175.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4247,
+      "hauteur": 3185
+    }
+  ]
+}

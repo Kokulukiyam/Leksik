@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "tableau-electrique",
+    "terme": "le tableau électrique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Coffret qui regroupe les disjoncteurs et protections d'une installation électrique sur des rails.",
+    "priorite": 1,
+    "requetes": [
+      "electrical panel breakers",
+      "tableau électrique",
+      "distribution board"
+    ],
+    "categoriesCommons": [
+      "Category:Distribution boards",
+      "Category:Circuit breakers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:153 Vapor Aymerich, Amat i Jover, quadre elèctric.jpg",
+      "description": "Fàbrica Aymerich, Amat i Jover (Terrassa)",
+      "categories": [
+        "Electric cables",
+        "Taken with Canon Digital IXUS 970 IS",
+        "Distribution boards",
+        "Vapor Aymerich, Amat i Jover",
+        "Self-published work",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Spain photographs taken on 2012-12-08",
+        "Images from Wiki Loves Monuments 2013",
+        "Images from Wiki Loves Monuments 2013 in Spain",
+        "Files with coordinates missing SDC location of creation",
+        "All media supported by Wikimedia España in 2013",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts"
+      ],
+      "auteur": "Enfo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:153_Vapor_Aymerich,_Amat_i_Jover,_quadre_el%C3%A8ctric.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/153_Vapor_Aymerich%2C_Amat_i_Jover%2C_quadre_el%C3%A8ctric.jpg/1280px-153_Vapor_Aymerich%2C_Amat_i_Jover%2C_quadre_el%C3%A8ctric.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Circuit breaker in Toju-shoin.jpg",
+      "description": "藤樹書院にある配線用遮断器（2020年6月撮影）",
+      "categories": [
+        "Circuit breakers",
+        "National (brand)",
+        "Toju shoin",
+        "Self-published work"
+      ],
+      "auteur": "運動会プロテインパワー",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Circuit_breaker_in_Toju-shoin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Circuit_breaker_in_Toju-shoin.jpg/1280px-Circuit_breaker_in_Toju-shoin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Catalonia Terrassa mNATEC QuadreElectric Detall.jpg",
+      "description": "Distribution board detail from the textile factory, at the mNATECT , Terrassa , ( Catalunya ).",
+      "categories": [
+        "GFDL",
+        "Distribution boards",
+        "Vapor Aymerich, Amat i Jover",
+        "License migration redundant",
+        "Self-published work",
+        "Friviere",
+        "Files with coordinates missing SDC location of creation",
+        "Friviere Museus"
+      ],
+      "auteur": "Friviere",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Catalonia_Terrassa_mNATEC_QuadreElectric_Detall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Catalonia_Terrassa_mNATEC_QuadreElectric_Detall.jpg/1280px-Catalonia_Terrassa_mNATEC_QuadreElectric_Detall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bezpiecznik automatyczny.jpg",
+      "description": "Screw-in circuit breaker, automatic overcurrent circuit breaker, automatic fuse, self-resetting fuse",
+      "categories": [
+        "Circuit breakers",
+        "Edison screw",
+        "E27 Edison screw",
+        "2009 in Poznań",
+        "Self-published work",
+        "PD-self",
+        "Poland photographs taken on 2009-12-10",
+        "Photos by Koefbac"
+      ],
+      "auteur": "Koefbac",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bezpiecznik_automatyczny.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bezpiecznik_automatyczny.jpg/1280px-Bezpiecznik_automatyczny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dentro de la Batería B-8 del Monte San Pedro - Cuadro eléctrico en la sala de motores (43356419444).jpg",
+      "description": "Interior de la antigua Batería B-8 del Monte San Pedro, en La Coruña (Galicia, España)",
+      "categories": [
+        "Distribution boards",
+        "Monte de San Pedro, A Coruña",
+        "Files from Contando Estrelas Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Contando Estrelas from Vigo, España / Spain",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dentro_de_la_Bater%C3%ADa_B-8_del_Monte_San_Pedro_-_Cuadro_el%C3%A9ctrico_en_la_sala_de_motores_(43356419444).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Dentro_de_la_Bater%C3%ADa_B-8_del_Monte_San_Pedro_-_Cuadro_el%C3%A9ctrico_en_la_sala_de_motores_%2843356419444%29.jpg/1280px-Dentro_de_la_Bater%C3%ADa_B-8_del_Monte_San_Pedro_-_Cuadro_el%C3%A9ctrico_en_la_sala_de_motores_%2843356419444%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bahnhof Mainz-Mombach - Weiche vor Oberleitungsmast.jpg",
+      "description": "Eine Weiche direkt neben einen Oberleitungsmast in Mainz-Mombach",
+      "categories": [
+        "Circuit breakers",
+        "CC-Zero",
+        "Bahnhof Mainz-Mombach",
+        "Self-published work",
+        "Railway points in Rhineland-Palatinate",
+        "Rail tracks in Mainz",
+        "2026 in rail transport in Mainz",
+        "Railway photographs taken on 2026-01-30",
+        "Mainz photographs taken on 2026-01-30"
+      ],
+      "auteur": "ManuelB701",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bahnhof_Mainz-Mombach_-_Weiche_vor_Oberleitungsmast.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bahnhof_Mainz-Mombach_-_Weiche_vor_Oberleitungsmast.jpg/1280px-Bahnhof_Mainz-Mombach_-_Weiche_vor_Oberleitungsmast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

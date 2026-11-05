@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "potelet",
+    "terme": "le potelet",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Petit poteau fixé au bord du trottoir pour empêcher les voitures d'y stationner.",
+    "priorite": 2,
+    "requetes": [
+      "bollard sidewalk",
+      "potelet",
+      "incategory:\"Bollards\""
+    ],
+    "incompatibles": [
+      "trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Bollards"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bollard with graffiti at Huntington station.jpg",
+      "description": "Huntington, Virginia",
+      "categories": [
+        "Huntington (WMATA station)",
+        "Bollards",
+        "Self-published work",
+        "Graffiti in Virginia",
+        "Traffic bollards in Virginia",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2025-03-06"
+      ],
+      "auteur": "Ser Amantio di Nicolao",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bollard_with_graffiti_at_Huntington_station.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bollard_with_graffiti_at_Huntington_station.jpg/1280px-Bollard_with_graffiti_at_Huntington_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6120,
+      "hauteur": 8160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bollard Flickr 22 May 2020.jpg",
+      "description": "Mountain",
+      "categories": [
+        "Yellow",
+        "Bollards",
+        "Traffic bollards",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Tim Green",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bollard_Flickr_22_May_2020.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bollard_Flickr_22_May_2020.jpg/1280px-Bollard_Flickr_22_May_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2985,
+      "hauteur": 4179
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A Teignmouth bollard - geograph.org.uk - 7738417.jpg",
+      "description": "A Teignmouth bollard",
+      "categories": [
+        "Bollards",
+        "Teignmouth",
+        "Images from Geograph Britain and Ireland"
+      ],
+      "auteur": "Neil Owen",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Teignmouth_bollard_-_geograph.org.uk_-_7738417.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/A_Teignmouth_bollard_-_geograph.org.uk_-_7738417.jpg/1280px-A_Teignmouth_bollard_-_geograph.org.uk_-_7738417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bollard (50516754031).jpg",
+      "description": "Bollard",
+      "categories": [
+        "Bollards",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Jalan Salemba"
+      ],
+      "auteur": "Anindra Pratama",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bollard_(50516754031).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bollard_%2850516754031%29.jpg/1280px-Bollard_%2850516754031%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bollard d'amarrage Vieux Port La Rochelle.jpg",
+      "description": "Bitte d'amarrage, chaînes rouillées, Vieux-Port de La Rochelle, Charente-Maritime.",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "CC-Zero",
+        "Vieux-Port de La Rochelle",
+        "Bollards",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "France photographs taken on 2011-08-13",
+        "Mooring bollards in France",
+        "Rusty chains"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bollard_d%27amarrage_Vieux_Port_La_Rochelle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bollard_d%27amarrage_Vieux_Port_La_Rochelle.jpg/1280px-Bollard_d%27amarrage_Vieux_Port_La_Rochelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2008,
+      "hauteur": 3077
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bollard on Perrin's Lane, Hampstead, November 2021.jpg",
+      "description": "Bollards on Perrin's Lane, Hampstead Ceci est une image d'un bâtiment classé (Angleterre et Pays de Galles) portant le numéro 1139054 .",
+      "categories": [
+        "Grade II listed buildings in the London Borough of Camden",
+        "Bollards",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Traffic bollards in the London Borough of Camden",
+        "Perrin's Lane",
+        "Photographs by No Swan So Fine/London",
+        "Grade II listed bollards in London",
+        "Buildings in Hampstead photographed in 2021",
+        "Hampstead photographs taken on 2021-11-05"
+      ],
+      "auteur": "No Swan So Fine",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bollard_on_Perrin%27s_Lane,_Hampstead,_November_2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Bollard_on_Perrin%27s_Lane%2C_Hampstead%2C_November_2021.jpg/1280px-Bollard_on_Perrin%27s_Lane%2C_Hampstead%2C_November_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

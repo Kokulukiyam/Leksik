@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "grille-de-ventilation",
+    "terme": "la grille de ventilation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Grille à lames ou perforée posée sur un mur ou une porte, qui laisse passer l'air.",
+    "priorite": 1,
+    "requetes": [
+      "ventilation grille wall",
+      "grille d'aération",
+      "air vent grille"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ceramic ventilation grille.jpg",
+      "description": "Ceramic ventilation grille found in the exterior wall of a home in the Albaicin neighbourhood of Granada, Spain",
+      "categories": [
+        "CC-Zero",
+        "Pottery",
+        "Ventilation in architecture",
+        "Grilles (architecture)",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Spain photographs taken on 2026-02-17",
+        "Streets of Albaicín"
+      ],
+      "auteur": "GiveMeMollusks",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_ventilation_grille.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ceramic_ventilation_grille.jpg/1280px-Ceramic_ventilation_grille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3536,
+      "hauteur": 3492
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:32 Gats al c. Ramon Llull (Deià).jpg",
+      "description": "Gats al c. Ramon Llull (Deià)",
+      "categories": [
+        "Es Porxo",
+        "Self-published work",
+        "Images with extracted images",
+        "Ventilation grids",
+        "Cats of the Balearic Islands",
+        "Grilles (architecture) in Spain",
+        "2 cats (aside)",
+        "Cats on walls",
+        "Streets in Deià",
+        "Air Bricks"
+      ],
+      "auteur": "Enric",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:32_Gats_al_c._Ramon_Llull_(Dei%C3%A0).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/32_Gats_al_c._Ramon_Llull_%28Dei%C3%A0%29.jpg/1280px-32_Gats_al_c._Ramon_Llull_%28Dei%C3%A0%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:St James Boroughbridge (127).JPG",
+      "description": "Church of St James, Boroughbridge, North Yorkshire, England. Designed by Mallinson & Healey, consecrated in 1852. The church contains Romanesque carvings in the vestry wall, and stone carving by Robert Mawer throughout. Showing iron ventilator on exterior of church.",
+      "categories": [
+        "Ventilation in architecture",
+        "Self-published work",
+        "Grilles (architecture) in the United Kingdom",
+        "St James' Church, Boroughbridge"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St_James_Boroughbridge_(127).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/St_James_Boroughbridge_%28127%29.JPG/1280px-St_James_Boroughbridge_%28127%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3808,
+      "hauteur": 2996
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Savoy Theatre - Church Street, Monmouth - lantern (18535373294).jpg",
+      "description": "A look around Monmouth in Monmouthshire - the county town of the county. Square-shaped metal lantern, Savoy Theatre facade on Church street in Monmouth, Wales. The shops on Church Street in Monmouth. The Savoy Theatre is at the end of this street. The Savoy Theatre. Grade II* listed building. &lt;a href=\" http://www.britishlistedbuildings.co.uk/wa-2812-savoy-theatre-and-monmouth-music-box-monmo#.VYx9c0aC8Xw \" rel=\"nofollow\"&gt;Savoy Theatre and Monmouth Music Box, Monmouth&lt;/a&gt; Location In the street leading north-east out of the town square in the centre of Monmouth, Wales. History A pro",
+      "categories": [
+        "Savoy Theatre, Monmouth",
+        "Brackets (lighting device components)",
+        "Metal lanterns",
+        "Photographs by Elliott Brown",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Square-shaped lanterns",
+        "Files with coordinates missing SDC location of creation (51° N, 3° W)",
+        "Exterior wall lanterns in England",
+        "Lanterns in Wales"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Savoy_Theatre_-_Church_Street,_Monmouth_-_lantern_(18535373294).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Savoy_Theatre_-_Church_Street%2C_Monmouth_-_lantern_%2818535373294%29.jpg/1280px-Savoy_Theatre_-_Church_Street%2C_Monmouth_-_lantern_%2818535373294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3216,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:St John Calder Grove 036.jpg",
+      "description": "Church of St John the Divine, Calder Grove, Wakefield, West Yorkshire, England. Designed in 1892 by William Swinden Barber. Showing underfloor ventilation grille near west end of south wall.",
+      "categories": [
+        "St John the Divine Church, Calder Grove",
+        "Taken with Panasonic Lumix DMC-TZ9",
+        "Self-published work"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St_John_Calder_Grove_036.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/St_John_Calder_Grove_036.jpg/1280px-St_John_Calder_Grove_036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:St John Calder Grove 032.jpg",
+      "description": "Church of St John the Divine, Calder Grove, Wakefield, West Yorkshire, England. Designed in 1892 by William Swinden Barber. Showing underfloor ventilation grille in south wall, next to vestry.",
+      "categories": [
+        "St John the Divine Church, Calder Grove",
+        "Taken with Panasonic Lumix DMC-TZ9",
+        "Self-published work"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St_John_Calder_Grove_032.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/St_John_Calder_Grove_032.jpg/1280px-St_John_Calder_Grove_032.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    }
+  ]
+}

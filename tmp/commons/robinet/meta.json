@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "robinet",
+    "terme": "le robinet",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil à manette ou à tête qu'on ouvre pour faire couler l'eau d'une canalisation, monté sur un lavabo, un évier ou un mur.",
+    "priorite": 1,
+    "requetes": [
+      "water tap faucet",
+      "robinet eau",
+      "tap"
+    ],
+    "categoriesCommons": [
+      "Category:Taps",
+      "Category:Water taps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Coffee filter of Bangalore.jpg",
+      "description": "குளம்பி வடிப்பான்",
+      "categories": [
+        "Coffee filters",
+        "Taps",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Thamizhpparithi Maari",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coffee_filter_of_Bangalore.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Coffee_filter_of_Bangalore.jpg/1280px-Coffee_filter_of_Bangalore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2006-02-16 wash-basin.jpg",
+      "description": "Un vieux lavabo. Image prise le 16 février 2006 par Roger McLassus.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot G5",
+        "Water taps",
+        "Hand washing",
+        "License migration redundant",
+        "Self-published work",
+        "Hand-washing sinks",
+        "Photographs taken on 2006-02-16"
+      ],
+      "auteur": "Roger McLassus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2006-02-16_wash-basin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2006-02-16_wash-basin.jpg/1280px-2006-02-16_wash-basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dirty sink at Kaapelitehdas.jpg",
+      "description": "A dirty metal sink and faucet at the Kaapelitehdas cultural centre in Ruoholahti, Helsinki, Finland. The sink has become dirty from years of use for washing away artistic paints.",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus E-M1",
+        "Taps",
+        "Dirtiness",
+        "License migration redundant",
+        "Self-published work",
+        "Finland photographs taken on 2024-03-09",
+        "Metal sinks",
+        "Interior of the Cable Factory"
+      ],
+      "auteur": "JIP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dirty_sink_at_Kaapelitehdas.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dirty_sink_at_Kaapelitehdas.jpg/1280px-Dirty_sink_at_Kaapelitehdas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Baignoire sabot.JPG",
+      "description": "Baignoire sabot française du début des années 1960 toujours en service en 2008",
+      "categories": [
+        "Bathtubs",
+        "GFDL",
+        "Water taps",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Traumrune"
+      ],
+      "auteur": "Traumrune",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baignoire_sabot.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Baignoire_sabot.JPG/1280px-Baignoire_sabot.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2344,
+      "hauteur": 3440
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cemetery faucet unfit for drinking.jpg",
+      "description": "An outside water faucet (elsewhere called a tap) with a sign that says \"Water unfit for drinking\". Blurry background.",
+      "categories": [
+        "CC-Zero",
+        "Taps",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license"
+      ],
+      "auteur": "MikeBurnsPhotos",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cemetery_faucet_unfit_for_drinking.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cemetery_faucet_unfit_for_drinking.jpg/1280px-Cemetery_faucet_unfit_for_drinking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:8N4V0886.jpg",
+      "description": "A water tap near the shore of Breton Bay in Leonardtown, Maryland, seat of the St. Mary's County government, in the spring of 2009. Photo by Chris Jantsch",
+      "categories": [
+        "Photos taken with Kodak DCS 760",
+        "Water taps",
+        "Leonardtown, Maryland",
+        "Self-published work",
+        "Photo challenge/2016 - October - Water Supply Infrastructure"
+      ],
+      "auteur": "Chris.jantsch",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:8N4V0886.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/8N4V0886.jpg/1280px-8N4V0886.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3024
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "terme": {
+    "id": "corrosion-des-armatures",
+    "terme": "la corrosion des armatures",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Rouille des barres d'acier qui gonflent, font éclater le béton et apparaissent à nu, fréquente en bord de mer.",
+    "priorite": 2,
+    "requetes": [
+      "concrete spalling exposed rusted rebar",
+      "corrosion armatures béton éclaté",
+      "rebar corrosion"
+    ],
+    "incompatibles": [
+      "epaufrure"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Qew bruecke nf beton kaputt 46 von 46.jpg",
+      "description": "This is one of a series of 46 pictures, which compares two bridges. The first bridge, (pictures 1 – 45) is part of the Canadian freeway QEW (Queen Elizabeth Way), crossing a river and “Oakwood Drive” in Niagara Falls, Ontario, Canada. The second bridge (picture 46) crosses the river Amstel inside the City of Amsterdam, Netherlands. The structural steel and concrete of the Canadian bridge are in a state of corrosion. The bridge is rotting. The Dutch bridge is unharmed. The Canadian bridge has already had restoration work done on it. However, the restoration work has apparently not eliminated th",
+      "categories": [
+        "Reinforced concrete",
+        "Brug 350, Torontobrug",
+        "Self-published work",
+        "Undersides of bridges in the Netherlands",
+        "Queen Elizabeth Way bridge over the Welland River",
+        "Netherlands photographs taken on 2012-07-13",
+        "July 2012 in Amsterdam",
+        "Concrete restoration"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Qew_bruecke_nf_beton_kaputt_46_von_46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Qew_bruecke_nf_beton_kaputt_46_von_46.jpg/1280px-Qew_bruecke_nf_beton_kaputt_46_von_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:SagradaFamiliaRoof2.jpg",
+      "description": "Rebars of Sagrada Familia roof in construction Note rust and corrosion of rebar and different materials used for the rebar in different areas",
+      "categories": [
+        "Reinforced concrete",
+        "Structural engineering",
+        "Self-published work",
+        "Construction of the Sagrada Família in 2009",
+        "Spain photographs taken on 2009-12-12",
+        "Christ Tower of the Sagrada Família"
+      ],
+      "auteur": "Etan J. Tal",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:SagradaFamiliaRoof2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SagradaFamiliaRoof2.jpg/1280px-SagradaFamiliaRoof2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Homeless squatters, going largely unnoticed, under an expressway on ramp, near Simcoe Street, 2023 05 28 (52933984861).jpg",
+      "description": "Homeless squatters, going largely unnoticed, under an expressway on ramp, near Simcoe Street. That white paint is not grafitti. Rebar corrosion, due to winter salt, represents a constant maintenance nightmare. Although years were spent patching visible scars in the concrete, due to corrosion, less than a decade ago, city workers have used white paint to mark new scars. What does it mean when a homeless person has their own e-bike?",
+      "categories": [
+        "CC-Zero",
+        "May 2023 in Toronto",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Simcoe Street, Toronto",
+        "Gardiner Expressway, on or off ramps",
+        "Photographs by Geo Swan, 2023",
+        "Homelessness in Toronto, 2023"
+      ],
+      "auteur": "Geo Swan from Toronto, Canada",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Homeless_squatters,_going_largely_unnoticed,_under_an_expressway_on_ramp,_near_Simcoe_Street,_2023_05_28_(52933984861).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Homeless_squatters%2C_going_largely_unnoticed%2C_under_an_expressway_on_ramp%2C_near_Simcoe_Street%2C_2023_05_28_%2852933984861%29.jpg/1280px-Homeless_squatters%2C_going_largely_unnoticed%2C_under_an_expressway_on_ramp%2C_near_Simcoe_Street%2C_2023_05_28_%2852933984861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Qew bruecke nf beton kaputt 34 von 46.jpg",
+      "description": "This is one of a series of 46 pictures, which compares two bridges. The first bridge, (pictures 1 – 45) is part of the Canadian freeway QEW (Queen Elizabeth Way), crossing a river and “Oakwood Drive” in Niagara Falls, Ontario, Canada. The second bridge (picture 46) crosses a canal inside the City of Amsterdam, Netherlands. The structural steel and concrete of the Canadian bridge are in a state of corrosion. The bridge is rotting. The Dutch bridge is unharmed. The Canadian bridge has already had restoration work done on it. However, the restoration work has apparently not eliminated the causes ",
+      "categories": [
+        "Reinforced concrete",
+        "Self-published work",
+        "Queen Elizabeth Way bridge over the Welland River",
+        "2012 in Niagara Falls, Ontario",
+        "July 2012 in Ontario",
+        "Concrete restoration"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Qew_bruecke_nf_beton_kaputt_34_von_46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Qew_bruecke_nf_beton_kaputt_34_von_46.jpg/1280px-Qew_bruecke_nf_beton_kaputt_34_von_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    }
+  ]
+}

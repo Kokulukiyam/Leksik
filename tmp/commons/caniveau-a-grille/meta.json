@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "caniveau-a-grille",
+    "terme": "le caniveau à grille",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Canal étroit en béton ou en polymère encastré dans le sol et recouvert d'une grille, qui recueille l'eau sur sa longueur.",
+    "priorite": 2,
+    "requetes": [
+      "channel drain grate",
+      "caniveau à grille",
+      "trench drain"
+    ],
+    "incompatibles": [
+      "caniveau",
+      "grille-avaloir"
+    ],
+    "categoriesCommons": [
+      "Category:Drains"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:166-23.PJ--Profile of proposed drain--Nicholson, PA (f082f9c8-480f-4a36-ba19-8445be05aef6).jpg",
+      "description": "166-23.PJ--Profile of proposed drain--Nicholson, PA Keywords: drain; Railroads; (NPS Focus Subject Thesaurus)",
+      "categories": [
+        "Drains",
+        "PD US expired",
+        "Template Unknown (author)",
+        "Images from NPGallery",
+        "Architectural drawings of the Delaware, Lackawanna and Western Railroad"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:166-23.PJ--Profile_of_proposed_drain--Nicholson,_PA_(f082f9c8-480f-4a36-ba19-8445be05aef6).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/166-23.PJ--Profile_of_proposed_drain--Nicholson%2C_PA_%28f082f9c8-480f-4a36-ba19-8445be05aef6%29.jpg/1280px-166-23.PJ--Profile_of_proposed_drain--Nicholson%2C_PA_%28f082f9c8-480f-4a36-ba19-8445be05aef6%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5715,
+      "hauteur": 1905
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A drain making the best of a rock Wellcome L0060573.jpg",
+      "description": "A drain making the best of a rock General Collections Keywords: Drainage, Sanitary; Sanitation",
+      "categories": [
+        "Files with no machine-readable author",
+        "Drains",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images (check needed)",
+        "Files from Wellcome Images"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_drain_making_the_best_of_a_rock_Wellcome_L0060573.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/A_drain_making_the_best_of_a_rock_Wellcome_L0060573.jpg/1280px-A_drain_making_the_best_of_a_rock_Wellcome_L0060573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6606,
+      "hauteur": 4112
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bella Vista Street Drains.jpg",
+      "description": "Bella Vista Street Drains",
+      "categories": [
+        "CC-Zero",
+        "Drains",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Irvias",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bella_Vista_Street_Drains.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bella_Vista_Street_Drains.jpg/1280px-Bella_Vista_Street_Drains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1828,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bergbach (27548167311).jpg",
+      "description": "Bergbach",
+      "categories": [
+        "Drains",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Lukas Plewnia"
+      ],
+      "auteur": "Lukas Plewnia from Winterthur, Schweiz",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bergbach_(27548167311).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Bergbach_%2827548167311%29.jpg/1280px-Bergbach_%2827548167311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Carmen Street Drains Santa Elena.jpg",
+      "description": "Carmen Street Drains Santa Elena",
+      "categories": [
+        "CC-Zero",
+        "Drains",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Irvias",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carmen_Street_Drains_Santa_Elena.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Carmen_Street_Drains_Santa_Elena.jpg/1280px-Carmen_Street_Drains_Santa_Elena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Drain-Santa-Elena-Entrance-Right.jpg",
+      "description": "Drain",
+      "categories": [
+        "CC-Zero",
+        "Drains",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Irvias",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drain-Santa-Elena-Entrance-Right.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Drain-Santa-Elena-Entrance-Right.jpg/1280px-Drain-Santa-Elena-Entrance-Right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2296,
+      "hauteur": 4080
+    }
+  ]
+}

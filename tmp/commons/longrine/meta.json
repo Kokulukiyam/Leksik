@@ -1,0 +1,76 @@
+{
+  "terme": {
+    "id": "longrine",
+    "terme": "la longrine",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Poutre en béton armé posée au niveau des fondations, qui relie les semelles entre elles et porte les murs du rez-de-chaussée.",
+    "priorite": 1,
+    "requetes": [
+      "grade beam rebar construction",
+      "longrine béton armé fondation",
+      "ground beam formwork"
+    ],
+    "incompatibles": [
+      "fondation",
+      "semelle-isolee",
+      "chainage-horizontal"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Seabees deployed with Naval Mobile Construction Battalion 5's Detail Marshall Islands start on Ennibur Evacuation Center project site (5889137).jpg",
+      "description": "191031-N-PG340-1006 ENNIBUR, Marshall Islands (Oct. 31, 2019) Steelworker Constructionman Kyle Sprenkle (left), from Albany, Oregon, deployed with Naval Mobile Construction Battalion (NMCB) 5’s Detail Marshall Islands, ties one of many rebar grade beams with a local policeman for Ennibur Island for the pre-fabrication phase of the Ennibur Evacuation Center. The evacuation center will serve as the island’s disaster preparedness building for the local community. NMCB-5 is deployed across the Indo-Pacific region conducting high-quality construction to support U.S. and partner nations to strengthe",
+      "categories": [
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Marshall Islands photographs taken on 2019-10-31",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, Marshall Islands (review needed)"
+      ],
+      "auteur": "U.S. Navy photo by Petty Officer 2nd Class Stephane Belcher",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seabees_deployed_with_Naval_Mobile_Construction_Battalion_5%27s_Detail_Marshall_Islands_start_on_Ennibur_Evacuation_Center_project_site_(5889137).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Seabees_deployed_with_Naval_Mobile_Construction_Battalion_5%27s_Detail_Marshall_Islands_start_on_Ennibur_Evacuation_Center_project_site_%285889137%29.jpg/1280px-Seabees_deployed_with_Naval_Mobile_Construction_Battalion_5%27s_Detail_Marshall_Islands_start_on_Ennibur_Evacuation_Center_project_site_%285889137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2362,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Raft-lightened-uboot.jpg",
+      "description": "Among the various foundation types, rafts are one of the most well known. They are used above all in ground conditions with little bearing capacity, or with poor quality soil, large thicknesses must be used which increases the construction cost. Thanks to the use of U-Boot Beton® lightened rafts can be created with the same performance but at a considerably lower cost. Once drown in the concrete casting, U-Boot Beton® forms the structure just like two full slabs, with a variable thickness, connected by a perpendicular beam gridwork to form a bidirectional static honeycomb plate. For this concr",
+      "categories": [
+        "Self-published work",
+        "Architectural cutaways",
+        "English-language diagrams",
+        "U-Boot Beton formwork"
+      ],
+      "auteur": "Daliform Group",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Raft-lightened-uboot.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Raft-lightened-uboot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1178,
+      "hauteur": 914
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Seabees deployed with Naval Mobile Construction Battalion 5's Detail Marshall Islands continue work on the Ennibur Evacuation Center project (5952847).jpg",
+      "description": "191118-N-ES865-1002 ENNIBUR, Marshall Islands (Nov. 20, 2019) Equipment Operator Constructionman Manuel Mendez Correa, from Memphis, Tennessee, deployed with Naval Mobile Construction Battalion (NMCB) 5’s Detail Marshall Islands, bends rebar stirrups for the prefabrication of the reinforced steel grade beams. NMCB-5 is deployed across the Indo-Pacific region conducting high-quality construction to support U.S. and partner nations to strengthen partnerships, deter aggression, and enable expeditionary logistics and naval power projection. (U.S. Navy photo by Construction Electrician 3rd Class Ch",
+      "categories": [
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Marshall Islands photographs taken on 2019-11-16",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, Marshall Islands (review needed)"
+      ],
+      "auteur": "U.S. Navy photo by [null Courtesy]",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seabees_deployed_with_Naval_Mobile_Construction_Battalion_5%27s_Detail_Marshall_Islands_continue_work_on_the_Ennibur_Evacuation_Center_project_(5952847).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Seabees_deployed_with_Naval_Mobile_Construction_Battalion_5%27s_Detail_Marshall_Islands_continue_work_on_the_Ennibur_Evacuation_Center_project_%285952847%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 853
+    }
+  ]
+}

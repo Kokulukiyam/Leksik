@@ -1,0 +1,118 @@
+{
+  "terme": {
+    "id": "niveau-laser",
+    "terme": "le niveau laser",
+    "categorie": "Chantier et outillage",
+    "definition": "Appareil qui projette des lignes ou un plan laser horizontal et vertical pour donner niveaux et aplombs.",
+    "priorite": 2,
+    "requetes": [
+      "line laser level",
+      "niveau laser",
+      "rotary laser level"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Rotordiodelaser.jpg",
+      "description": "The laser level is placed in a specific level and sends out a laser beam. By using a staff you can \"receive\" this beam and tell if you need to go lower or higher to reach the correct level.",
+      "categories": [
+        "Taken with Olympus FE-370 / X-880 / C-575",
+        "Rotating lasers",
+        "Attribution only license"
+      ],
+      "auteur": "User:EPO",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rotordiodelaser.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Rotordiodelaser.jpg/1280px-Rotordiodelaser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Concrete workers J1.jpg",
+      "description": "Bétonneurs au travail sur un chantier en Belgique.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ38",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Rotating lasers",
+        "Concrete workers",
+        "Self-published work",
+        "Remote controls for cranes"
+      ],
+      "auteur": "Jamain",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_workers_J1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Concrete_workers_J1.jpg/1280px-Concrete_workers_J1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3852,
+      "hauteur": 2765
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Magnetic spirit levels and receiver of a rotary laser level.jpg",
+      "description": "Magnetwasserwaagen und Empfänger eines Rotationslasers",
+      "categories": [
+        "CC-Zero",
+        "Spirit levels",
+        "Rotating lasers",
+        "Self-published work"
+      ],
+      "auteur": "HobbyAstronaut",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Magnetic_spirit_levels_and_receiver_of_a_rotary_laser_level.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Magnetic_spirit_levels_and_receiver_of_a_rotary_laser_level.jpg/1280px-Magnetic_spirit_levels_and_receiver_of_a_rotary_laser_level.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2244,
+      "hauteur": 3845
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Antarctic Robot -a.jpg",
+      "description": "Antarctica: Surveyor Robot Spectra Precision Laserplane",
+      "categories": [
+        "Taken with Canon Digital IXUS 80 IS",
+        "Rotating lasers",
+        "Science in Antarctica",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs of Antarctica by Eli Duke"
+      ],
+      "auteur": "Eli Duke",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antarctic_Robot_-a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Antarctic_Robot_-a.jpg/1280px-Antarctic_Robot_-a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Niwelator laserowy NL540.jpg",
+      "description": "Niwelator laserowy Nivel System NL540",
+      "categories": [
+        "Rotating lasers",
+        "Self-published work"
+      ],
+      "auteur": "Pokarwr",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Niwelator_laserowy_NL540.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Niwelator_laserowy_NL540.jpg/1280px-Niwelator_laserowy_NL540.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Lazerinis nivelyras.jpg",
+      "description": "Lazerinis nivelyras",
+      "categories": [
+        "Rotating lasers",
+        "Self-published work"
+      ],
+      "auteur": "Petras33",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lazerinis_nivelyras.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Lazerinis_nivelyras.jpg/1280px-Lazerinis_nivelyras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

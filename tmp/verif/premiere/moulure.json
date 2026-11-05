@@ -1,0 +1,58 @@
+{
+  "termId": "moulure",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond d'une salle à manger orné de filets de moulures blancs en panneaux autour d'un lustre, corniche à denticules à droite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.42,
+        "y": 0.0,
+        "largeur": 0.58,
+        "hauteur": 0.5
+      },
+      "lieu": "",
+      "note": "Moulures plâtre de plafond, rectangle sur le plafond mouluré."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pots d'argile en cours de moulage posés au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moulage de poterie, sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond à décor de stuc rocaille et cartouche mouluré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion avec cartouche, rinceau et rosace."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur à caissons en relief dans une bibliothèque, bassin au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux, pas des moulures lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Frise antique à oves, palmettes et feuilles sculptées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion avec ove, frise, palmette."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Planche de profils de moulures d'un catalogue ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure et texte."
+    }
+  ]
+}

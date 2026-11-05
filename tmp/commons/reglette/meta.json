@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "reglette",
+    "terme": "la réglette",
+    "categorie": "Réseaux et équipements",
+    "definition": "Luminaire long et étroit à tube fluorescent ou LED, fixé au plafond ou au mur.",
+    "priorite": 1,
+    "requetes": [
+      "fluorescent tube light fixture",
+      "réglette LED",
+      "batten light"
+    ],
+    "incompatibles": [
+      "plafonnier"
+    ],
+    "categoriesCommons": [
+      "Category:Fluorescent lamps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Emergency exit light.jpg",
+      "description": "Emergency light with an emergency exit pictogram",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix L3",
+        "Fluorescent lamps",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Luminous emergency exit signs",
+        "Green exit signs",
+        "White on green signs",
+        "Green and white rectangular signs",
+        "European Council Directive Exit Signs"
+      ],
+      "auteur": "Erik1980",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Emergency_exit_light.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Emergency_exit_light.jpg/1280px-Emergency_exit_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:EU-EE-Tallinn-Kesklinn-Viru Tunnel.JPG",
+      "description": "Tunnel between \"Tallinn Tradehouse\" and \"Viru tradecenter\"",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Fluorescent lamps",
+        "Self-published work",
+        "PD-self",
+        "Files with coordinates missing SDC location of creation",
+        "Estonia photographs taken on 2010-07-24",
+        "July 2010 in Tallinn",
+        "Laikmaa tunnel"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EU-EE-Tallinn-Kesklinn-Viru_Tunnel.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/EU-EE-Tallinn-Kesklinn-Viru_Tunnel.JPG/1280px-EU-EE-Tallinn-Kesklinn-Viru_Tunnel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Luz fluorescente.jpg",
+      "description": "Luz fluorescente",
+      "categories": [
+        "Fluorescent lamps",
+        "Self-published work"
+      ],
+      "auteur": "Elduendesuarez",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Luz_fluorescente.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Luz_fluorescente.jpg/1280px-Luz_fluorescente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:The apartment trailer jack lemmon.JPG",
+      "description": "Screenshot of Jack Lemmon as C.C. Baxter in the trailer for the film The Apartment",
+      "categories": [
+        "Jack Lemmon",
+        "Fluorescent lamps",
+        "PD US no notice",
+        "Office workers in the United States",
+        "People with calculators",
+        "The Apartment (trailer screenshots)",
+        "Ceilings in art"
+      ],
+      "auteur": "Billy Wilder / United Artists / Mirish Corporation",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_apartment_trailer_jack_lemmon.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/The_apartment_trailer_jack_lemmon.JPG/1280px-The_apartment_trailer_jack_lemmon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 820
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:EU-EE-Tallinn-Kesklinn-Tunnel near Viru.JPG",
+      "description": "Tunnel near Viru in Tallinn",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Fluorescent lamps",
+        "Self-published work",
+        "PD-self",
+        "Files with coordinates missing SDC location of creation",
+        "Estonia photographs taken on 2010-07-24",
+        "July 2010 in Tallinn",
+        "Laikmaa tunnel"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:EU-EE-Tallinn-Kesklinn-Tunnel_near_Viru.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/EU-EE-Tallinn-Kesklinn-Tunnel_near_Viru.JPG/1280px-EU-EE-Tallinn-Kesklinn-Tunnel_near_Viru.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fluorescent lamp with reactive ballasts.JPG",
+      "description": "Quite big fluorescent lamp",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Fluorescent lamps",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fluorescent_lamp_with_reactive_ballasts.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Fluorescent_lamp_with_reactive_ballasts.JPG/1280px-Fluorescent_lamp_with_reactive_ballasts.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    }
+  ]
+}

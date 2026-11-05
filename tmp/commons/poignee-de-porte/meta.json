@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "poignee-de-porte",
+    "terme": "la poignée de porte",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Levier ou poignée que l'on abaisse pour ouvrir une porte, appelée aussi béquille.",
+    "priorite": 1,
+    "requetes": [
+      "door handle lever",
+      "poignée de porte",
+      "lever door handle"
+    ],
+    "incompatibles": [
+      "bouton-de-porte"
+    ],
+    "categoriesCommons": [
+      "Category:Door handles",
+      "Category:Door furniture"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Antique door handle in Quebec City.jpg",
+      "description": "A turned brass doorknob on an old wooden door, set in a long escutcheon plate stamped with foliage, the paint worn back to the metal around the grip. Quebec City, Quebec, Canada.",
+      "categories": [
+        "Quebec City",
+        "CC-Zero",
+        "Door handles",
+        "Self-published work",
+        "September 2024 in Quebec City",
+        "Media created with Nikon Z7ii provided by the Quebec WikiClub",
+        "Photographs of Quebec City by Wilfredor"
+      ],
+      "auteur": "Wilfredor",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_door_handle_in_Quebec_City.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Antique_door_handle_in_Quebec_City.jpg/1280px-Antique_door_handle_in_Quebec_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8256,
+      "hauteur": 5504
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2015-Heerlen, Thermenmuseum, sleutels, etc.jpg",
+      "description": "Door parts (stone with hole for turning rod, keys, door furnishings), excavated mainly in 1940-41 at the site of the former Roman baths in Heerlen, now in the permanent archaeological collection of the Thermenmuseum, Heerlen, Limburg, the Netherlands.",
+      "categories": [
+        "Excavations Roman bathhouse (Heerlen)",
+        "Door furniture",
+        "Self-published work",
+        "Ancient Roman buildings in the Netherlands",
+        "Collections of Thermenmuseum (Heerlen)"
+      ],
+      "auteur": "Kleon3",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2015-Heerlen,_Thermenmuseum,_sleutels,_etc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2015-Heerlen%2C_Thermenmuseum%2C_sleutels%2C_etc.jpg/1280px-2015-Heerlen%2C_Thermenmuseum%2C_sleutels%2C_etc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1682
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cattaro, museo marittimo, maniglia 02.JPG",
+      "description": "Maritime Museum of Montenegro in Kotor",
+      "categories": [
+        "Door handles",
+        "Maritime Museum of Montenegro in Kotor",
+        "Self-published work",
+        "Photographs by User:Sailko",
+        "All media supported by Wikimedia CH",
+        "Images by Sailko - Supported by Wikimedia CH",
+        "Photographs of decorative arts by User:Sailko - Metalware - Door handles and knockers"
+      ],
+      "auteur": "Sailko",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cattaro,_museo_marittimo,_maniglia_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Cattaro%2C_museo_marittimo%2C_maniglia_02.JPG/1280px-Cattaro%2C_museo_marittimo%2C_maniglia_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2644,
+      "hauteur": 2108
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:EdinburghDoorBellKnobs.jpg",
+      "description": "Old door bell pull knobs in Edinburgh , United Kingdom . It is unclear whether bells were rung by wire & pulleys, or by electrical connection.",
+      "categories": [
+        "Bell ringers",
+        "GFDL",
+        "Door furniture",
+        "License migration redundant",
+        "Self-published work",
+        "Knob and tube wiring"
+      ],
+      "auteur": "Etan J. Tal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EdinburghDoorBellKnobs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/EdinburghDoorBellKnobs.jpg/1280px-EdinburghDoorBellKnobs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3080,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bolzano 1-67 (9710441838).jpg",
+      "description": "Bolzano",
+      "categories": [
+        "Taken with Canon PowerShot SX240 HS",
+        "Door handles",
+        "Bolzano",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)"
+      ],
+      "auteur": "Doug Knuth from Woodstock, IL",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bolzano_1-67_(9710441838).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Bolzano_1-67_%289710441838%29.jpg/1280px-Bolzano_1-67_%289710441838%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Friesach Stadtgrabengasse 5 Ordenskirche hl. Nikolaus W-Portal 13092017 1061.jpg",
+      "description": "Western portal of the order church Saint Nicholas on Stadtgrabengasse #5, municipality Friesach , district Sankt Veit an der Glan, Carinthia , Austria , EU",
+      "categories": [
+        "Door furniture",
+        "Exterior of Dominikanerkirche, Friesach",
+        "Self-published work",
+        "Images by Johann Jaritz",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Church portals in Carinthia",
+        "Door handles in Carinthia",
+        "Reliefs of Madonna and Child in Carinthia",
+        "19th-century reliefs in Carinthia",
+        "Gothic Revival tympanums in Carinthia",
+        "Door knockers in Carinthia",
+        "Austria photographs taken on 2017-09-13",
+        "Relief of Our Lady of the Rosary in Friesach",
+        "Reliefs in Friesach",
+        "Summer 2017 in Bezirk St. Veit"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Friesach_Stadtgrabengasse_5_Ordenskirche_hl._Nikolaus_W-Portal_13092017_1061.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Friesach_Stadtgrabengasse_5_Ordenskirche_hl._Nikolaus_W-Portal_13092017_1061.jpg/1280px-Friesach_Stadtgrabengasse_5_Ordenskirche_hl._Nikolaus_W-Portal_13092017_1061.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4116,
+      "hauteur": 6479
+    }
+  ]
+}

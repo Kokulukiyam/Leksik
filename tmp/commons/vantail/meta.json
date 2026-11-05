@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "vantail",
+    "terme": "le vantail",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Battant d'une porte, d'une fenêtre ou d'un volet ; une porte double a deux vantaux.",
+    "priorite": 2,
+    "requetes": [
+      "door leaf open",
+      "vantail porte",
+      "door leaf"
+    ],
+    "incompatibles": [
+      "ouvrant"
+    ],
+    "categoriesCommons": [
+      "Category:Doors",
+      "Category:Wooden doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A key is shown inserted into a lock.jpg",
+      "description": "A key is shown inserted into a lock, with a bright yellow tag attached to the keyring. The setting is well-lit and features clean, simple lines, suggesting a modern environment.",
+      "categories": [
+        "Doors",
+        "Keys",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_key_is_shown_inserted_into_a_lock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/A_key_is_shown_inserted_into_a_lock.jpg/1280px-A_key_is_shown_inserted_into_a_lock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3138,
+      "hauteur": 4700
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2016 Rangun, Kheng Hock Keong (05).jpg",
+      "description": "Red door. Kheng Hock Keong . Yangon , Myanmar.",
+      "categories": [
+        "Taken with Canon EOS 6D and Canon EF 16-35mm F4L IS USM",
+        "Wooden doors",
+        "Kheng Hock Keong, Yangon",
+        "Uploaded with VicuñaUploader",
+        "Doors in Myanmar",
+        "Myanmar photographs taken on 2016-11-19",
+        "Self-published work",
+        "Information field template with formatting",
+        "Red doors",
+        "Images by Hons084 (Halavar)",
+        "2016 in Yangon",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Hons084 (Halavar) taken in 2016",
+        "Images of Myanmar by Hons084 (Halavar)"
+      ],
+      "auteur": "Marcin Konsek",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_Rangun,_Kheng_Hock_Keong_(05).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2016_Rangun%2C_Kheng_Hock_Keong_%2805%29.jpg/1280px-2016_Rangun%2C_Kheng_Hock_Keong_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4642,
+      "hauteur": 3337
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:\"เปิด\" ณ รัฐสภาญี่ปุ่น 6พฤศจิกายน2552 (The Official Site of The Prime Minister of Thailand Photo by พีรพัฒน์ - Flickr - Abhisit Vejjajiva.jpg",
+      "description": "\"เปิด\" ณ รัฐสภาญี่ปุ่น 6พฤศจิกายน2552 (The Official Site of The Prime Minister of Thailand Photo by พีรพัฒน์ วิมลรังครัตน์)",
+      "categories": [
+        "Doors",
+        "Taken with Canon EOS 5D",
+        "Diet of Japan",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Peerapat Wimolrungkarat",
+        "Import by User:Slick-o-bot/Images of politicians of Thailand"
+      ],
+      "auteur": "Government of Thailand",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%22_%E0%B8%93_%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_6%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%992552_(The_Official_Site_of_The_Prime_Minister_of_Thailand_Photo_by_%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C_-_Flickr_-_Abhisit_Vejjajiva.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%22%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%22_%E0%B8%93_%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_6%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%992552_%28The_Official_Site_of_The_Prime_Minister_of_Thailand_Photo_by_%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C_-_Flickr_-_Abhisit_Vejjajiva.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5120,
+      "hauteur": 3413
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:20240227 Gritznerstraße 8, Durlach - 8530.jpg",
+      "description": "Gritznerstraße 8, Durlach. Postamt. zweigeschossiger neobarocker Massivbau mit Mansardwalmdach, an Längsseite Risalitbau als Portikus gestaltet, umlaufende Kollossalpilaster aus Putz, um 1915 (Architekt und Bauherr unbekannt). Geschützt nach § 2 Denkmalschutzgesetz Baden-Württemberg",
+      "categories": [
+        "20th-century portals",
+        "Wooden doors",
+        "Self-published work",
+        "Portals in Baden-Württemberg",
+        "Doors in Karlsruhe",
+        "Files with coordinates missing SDC location of creation (48° N, 8° E)",
+        "Gritznerstraße 8 (Durlach)",
+        "Taken with Sony ILCE-6000 and Walimex 12mm F2.0"
+      ],
+      "auteur": "Zinnmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20240227_Gritznerstra%C3%9Fe_8,_Durlach_-_8530.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20240227_Gritznerstra%C3%9Fe_8%2C_Durlach_-_8530.jpg/1280px-20240227_Gritznerstra%C3%9Fe_8%2C_Durlach_-_8530.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2953,
+      "hauteur": 4429
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Astonished silver - Flickr - Genista.jpg",
+      "description": "astonished silver",
+      "categories": [
+        "Doors",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2005-08-09",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Kai Schreiber from Solingen, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Astonished_silver_-_Flickr_-_Genista.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Astonished_silver_-_Flickr_-_Genista.jpg/1280px-Astonished_silver_-_Flickr_-_Genista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2025-03-12 Castel Nuovo Entrance Door Left.jpg",
+      "description": "ナポリ ヌオーヴォ城",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "C1815",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg/1280px-2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    }
+  ]
+}

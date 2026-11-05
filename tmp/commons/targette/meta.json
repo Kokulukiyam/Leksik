@@ -1,0 +1,155 @@
+{
+  "terme": {
+    "id": "targette",
+    "terme": "la targette",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Petit verrou plat monté sur platine, manœuvré par un bouton, qui ferme une porte ou une fenêtre de l'intérieur.",
+    "priorite": 2,
+    "requetes": [
+      "tower bolt",
+      "targette",
+      "barrel bolt small door"
+    ],
+    "incompatibles": [
+      "verrou"
+    ],
+    "categoriesCommons": [
+      "Category:Door bolts"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dungeon door, medieval village of Noyers-sur-Serein (5).jpg",
+      "description": "Porte d'un cachot dans la cours de la Mairie de Noyers-sur-Serein",
+      "categories": [
+        "Town hall of Noyers-sur-Serein",
+        "Door bolts",
+        "Self-published work",
+        "Door locks in France",
+        "Wooden doors in Yonne",
+        "Former prisons in Yonne",
+        "Prison cells in France"
+      ],
+      "auteur": "Ibex73",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dungeon_door,_medieval_village_of_Noyers-sur-Serein_(5).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Dungeon_door%2C_medieval_village_of_Noyers-sur-Serein_%285%29.jpg/1280px-Dungeon_door%2C_medieval_village_of_Noyers-sur-Serein_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 2752
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dungeon door, medieval village of Noyers-sur-Serein (2).jpg",
+      "description": "Porte d'un cachot dans la cours de la Mairie de Noyers-sur-Serein",
+      "categories": [
+        "Town hall of Noyers-sur-Serein",
+        "Door bolts",
+        "Self-published work",
+        "Door locks in France",
+        "Wooden doors in Yonne",
+        "Former prisons in Yonne",
+        "Prison cells in France"
+      ],
+      "auteur": "Ibex73",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dungeon_door,_medieval_village_of_Noyers-sur-Serein_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dungeon_door%2C_medieval_village_of_Noyers-sur-Serein_%282%29.jpg/1280px-Dungeon_door%2C_medieval_village_of_Noyers-sur-Serein_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2731,
+      "hauteur": 4491
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Door bolts Medina Sfax.jpg",
+      "description": "Ce sont des serrures énormes médiévales (surtout des serrures à coulisse) utilisées dans les portes d'entrée (porte principale) des maisons antiques de la Médina de Sfax. Ces serrures sont exposées au Musée de la Casbah de Sfax.",
+      "categories": [
+        "Door bolts",
+        "Self-published work",
+        "Doors of the medina of Sfax",
+        "Images from MedinaPedia Sfax",
+        "Kasbah Museum of Sfax"
+      ],
+      "auteur": "Csisc",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_bolts_Medina_Sfax.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Door_bolts_Medina_Sfax.jpg/1280px-Door_bolts_Medina_Sfax.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bhaghbhairab Temple Kritipur-IMG 3889.jpg",
+      "description": "Bhaghbhairab temple and its wooden door luck sculptures.",
+      "categories": [
+        "Door bolts",
+        "Bagh Bhairab Temple",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2016",
+        "Uploaded via Campaign:wlm-np",
+        "Images from Wiki Loves Monuments 2016 in Nepal",
+        "Nepal photographs taken on 2016-09-20",
+        "Padlocks in Nepal",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation"
+      ],
+      "auteur": "Bijaya2043",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bhaghbhairab_Temple_Kritipur-IMG_3889.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Bhaghbhairab_Temple_Kritipur-IMG_3889.jpg/1280px-Bhaghbhairab_Temple_Kritipur-IMG_3889.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Balingen-Friedrichstrasse-Stadtkirche-S58-107590.jpg",
+      "description": "Balingen : Stadtkirche",
+      "categories": [
+        "Images from Wiki Loves Monuments 2012 in Germany",
+        "Taken with Ricoh CX1",
+        "Door bolts",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2012",
+        "Door handles in Baden-Württemberg",
+        "Images from Wiki Loves Monuments 2012, DE-BW",
+        "1598 architectural dates",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Files with coordinates missing SDC location of creation (48° N, 8° E)",
+        "Files by User:Rainer Halama/WLM2012",
+        "Archiv der Heiligenvogtei Balingen"
+      ],
+      "auteur": "Rainer Halama",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balingen-Friedrichstrasse-Stadtkirche-S58-107590.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Balingen-Friedrichstrasse-Stadtkirche-S58-107590.jpg/1280px-Balingen-Friedrichstrasse-Stadtkirche-S58-107590.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Hôtel de ville de Lyon - Salon Louis XIII - Verrou porte (sept 2025).jpg",
+      "description": "Verrou de porte dans le salon Louis XIII de l'hôtel de ville de Lyon.",
+      "categories": [
+        "Base Mérimée",
+        "Monuments historiques classés",
+        "Door bolts",
+        "Self-published work",
+        "Files by User:Sebleouf",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Salon Louis XIII (hôtel de ville de Lyon)",
+        "Images of Lyon 1er arrondissement by Sebleouf",
+        "Cabale lyonnaise @ Hôtel de ville de Lyon 2025"
+      ],
+      "auteur": "Sebleouf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_ville_de_Lyon_-_Salon_Louis_XIII_-_Verrou_porte_(sept_2025).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/H%C3%B4tel_de_ville_de_Lyon_-_Salon_Louis_XIII_-_Verrou_porte_%28sept_2025%29.jpg/1280px-H%C3%B4tel_de_ville_de_Lyon_-_Salon_Louis_XIII_-_Verrou_porte_%28sept_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1901,
+      "hauteur": 2521
+    }
+  ]
+}

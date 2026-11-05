@@ -1,0 +1,161 @@
+{
+  "terme": {
+    "id": "ferraillage-de-dalle",
+    "terme": "le ferraillage de dalle",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Nappe de barres d'acier croisées posée sur les coffrages ou les poutrelles avant le coulage d'une dalle.",
+    "priorite": 2,
+    "requetes": [
+      "slab reinforcement rebar mesh before pour",
+      "ferraillage dalle",
+      "rebar slab deck"
+    ],
+    "incompatibles": [
+      "ferraillage",
+      "treillis-soude"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A crate of bent rebar.jpg",
+      "description": "A crate of bent and somewhat rusty rebar at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden. Photo taken on this site .",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Rebar",
+        "Self-published work",
+        "August 2016 in Sweden",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Sweden photographs taken on 2016-08-06",
+        "Rusty objects in Sweden",
+        "Many objects",
+        "Bent objects",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_crate_of_bent_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/A_crate_of_bent_rebar.jpg/1280px-A_crate_of_bent_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4385,
+      "hauteur": 3005
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bulky railway bridge over the underpass at Tikkurila railway station in Vantaa, Finland, 2022.jpg",
+      "description": "Hakkilan rataan kuuluva teräsbetoninen alikäytäväsilta Tikkurilan aseman pohjoisen alikäytävän luona.",
+      "categories": [
+        "Railway bridges in Finland",
+        "Reinforced concrete",
+        "Bridges in Vantaa",
+        "Tikkurila–Hakkila railway",
+        "Tikkurila railway station",
+        "Bridges in Finland photographed in 2022",
+        "Self-published work",
+        "April 2022 in Vantaa",
+        "Concrete bridges in Finland",
+        "Files with coordinates missing SDC location of creation",
+        "Finland photographs taken on 2022-04-09",
+        "Taken with Samsung Galaxy S21 Ultra 5G"
+      ],
+      "auteur": "Coen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bulky_railway_bridge_over_the_underpass_at_Tikkurila_railway_station_in_Vantaa,_Finland,_2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bulky_railway_bridge_over_the_underpass_at_Tikkurila_railway_station_in_Vantaa%2C_Finland%2C_2022.jpg/1280px-Bulky_railway_bridge_over_the_underpass_at_Tikkurila_railway_station_in_Vantaa%2C_Finland%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 12000,
+      "hauteur": 9000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A bunch of rebar up close.jpg",
+      "description": "Closeup of straight rebar at a construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Rebar",
+        "Linear perspective",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Featured pictures of Lysekil Municipality",
+        "Featured pictures of objects in Sweden",
+        "Featured pictures taken with compact digital camera",
+        "Rusty construction materials",
+        "Images by W.carter, my own favorites",
+        "Abandoned granite quarry of Rixö, Sweden",
+        "Reused images by W.carter",
+        "Featured pictures by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_bunch_of_rebar_up_close.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/A_bunch_of_rebar_up_close.jpg/1280px-A_bunch_of_rebar_up_close.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3171,
+      "hauteur": 1953
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:CEDEX - Exposición temporal - Hormigón armado en España 1893-1936 - Foto Juan Gimeno - 2010-04-23 1105 IMG 5219.jpg",
+      "description": "Fotografía: Juan Gimeno Ramallo Hormigón armado en España 1893-1936 Exposición temporal en la Sala Zuazo Arquerías Nuevos Ministerios Paseo de la Castellana 67, 28046 Madrid. Del 28 de enero al 25 de abril de 2010 ORGANIZACIÓN Ministerio de Fomento Centro de Estudios y Experimentación de Obras Públicas (CEDEX) Centro de Estudios Históricos de Obras Públicas y Urbanismo (CEHOPU) Ministro de Fomento José Blanco Secretario de Estado de planificación e infraestructuras Víctor Morlán Director del CEDEX Mariano Navas COMISARIADO Pedro Feduchi y Amaya Sáenz COMITÉ CIÉNTIFICO Joaquín Antuña, Antonio B",
+      "categories": [
+        "Reinforced concrete",
+        "Exhibitions",
+        "Arquerías de Nuevos Ministerios",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Engineering exhibitions",
+        "Temporary exhibitions at the Arquerías de Nuevos Ministerios",
+        "Hormigón armado en España 1893-1936"
+      ],
+      "auteur": "Juan Gimeno Ramallo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1105_IMG_5219.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1105_IMG_5219.jpg/1280px-CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1105_IMG_5219.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2831,
+      "hauteur": 4225
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Angled rebar.jpg",
+      "description": "Somewhat rusty rebar bent at 90 degrees angle at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden. Photo taken on this site .",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Angled_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Angled_rebar.jpg/1280px-Angled_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3624,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Aluminum Formwork.JPG",
+      "description": "Multi-store concrete construction in Mexico using aluminum concrete formwork.",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Olympus u1030SW / S-1030SW",
+        "License migration redundant",
+        "Self-published work",
+        "Aluminium industry in Mexico"
+      ],
+      "auteur": "WTF Formwork http://www.wallties.com",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminum_Formwork.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Aluminum_Formwork.JPG/1280px-Aluminum_Formwork.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2892,
+      "hauteur": 2580
+    }
+  ]
+}

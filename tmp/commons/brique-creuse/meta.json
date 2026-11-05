@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "brique-creuse",
+    "terme": "la brique creuse",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Brique de terre cuite percée d'alvéoles parallèles, plus grande et plus légère que la brique pleine.",
+    "priorite": 2,
+    "requetes": [
+      "hollow clay brick wall",
+      "brique creuse terre cuite",
+      "hollow clay blocks"
+    ],
+    "incompatibles": [
+      "brique"
+    ],
+    "categoriesCommons": [
+      "Category:Clay bricks",
+      "Category:Bricks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:LSR Pharao - Lehmziegel Tutmoses.jpg",
+      "description": "Rosenheim ( Upper Bavaria ). Lokschuppen exhibition centre - \"Pharao\" exhibition ( 2017 ): Clay brick from Theben-West with cartouche of Thutmoses III, New Kingdom, 18th dynasty ( 1479 - 1425 BC )",
+      "categories": [
+        "Mudbricks",
+        "Self-published work",
+        "Cartouches of Thutmosis III",
+        "Clay bricks",
+        "Museums of the University of Aberdeen - Ancient Egyptian collections",
+        "Ancient Egyptian brick making",
+        "\"Pharao\" exhibition (2017)"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LSR_Pharao_-_Lehmziegel_Tutmoses.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/LSR_Pharao_-_Lehmziegel_Tutmoses.jpg/1280px-LSR_Pharao_-_Lehmziegel_Tutmoses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3644,
+      "hauteur": 2060
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2018-07-15 Ziegelei Lage (Lippe) 04.jpg",
+      "description": "Ziegeleimuseum Lage (Lippe) in Nordrhein-Westfalen, LWL-Industriemuseum. Gebrannte Ziegel",
+      "categories": [
+        "Brick making in Germany",
+        "Bricks",
+        "Ring kilns",
+        "Ziegelei Lage",
+        "Wikipedia Hannover 2021 Contributions"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-07-15_Ziegelei_Lage_%28Lippe%29_04.jpg/1280px-2018-07-15_Ziegelei_Lage_%28Lippe%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Grundriss Töpferofen Frechen.jpg",
+      "description": "Floor plan of a pottery stove (stove furnace of the Peter Thomer at Kirchenhofe from 1868) from the 19th century in Frechen , miniaturized, pedestrian zone Atoniterstraße Date: August 3, 2015",
+      "categories": [
+        "Bricks in Germany",
+        "GFDL",
+        "Location possible",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Brown bricks",
+        "North Rhine-Westphalia photographs taken on 2015-08-03",
+        "Clay bricks",
+        "Frechen stoneware"
+      ],
+      "auteur": "Tohma",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grundriss_T%C3%B6pferofen_Frechen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Grundriss_T%C3%B6pferofen_Frechen.jpg/1280px-Grundriss_T%C3%B6pferofen_Frechen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2024 Glen-Gery’s Architect Collaboration Program Winning Brick Designs.jpg",
+      "description": "Winner brick designs of Glen-Gery Corporation's inaugural 2024 Architect Collaboration Program—“The Weaver” by Colin Rupp, “Facet Brick” by Justin Bright, and “Trigon Brick” by Brittany Macomber.",
+      "categories": [
+        "Bricks",
+        "Self-published work"
+      ],
+      "auteur": "Silver Dovelet",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024_Glen-Gery%E2%80%99s_Architect_Collaboration_Program_Winning_Brick_Designs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2024_Glen-Gery%E2%80%99s_Architect_Collaboration_Program_Winning_Brick_Designs.jpg/1280px-2024_Glen-Gery%E2%80%99s_Architect_Collaboration_Program_Winning_Brick_Designs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1960,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Charette d'eau du robinetvà Thiès.jpg",
+      "description": "Charette utilisée pour la distribution d'eau dans le quartier Cité Ouvrière de Thiès (Sénégal).",
+      "categories": [
+        "Water carriers",
+        "Thiès",
+        "Self-published work",
+        "Children of Senegal",
+        "Construction in Senegal",
+        "3 children",
+        "Taken with Doogee Homtom HT6",
+        "Donkey-drawn carts in Senegal",
+        "Children looking at viewer",
+        "Clay bricks",
+        "Water carts"
+      ],
+      "auteur": "GastelEtzwane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Charette_d%27eau_du_robinetv%C3%A0_Thi%C3%A8s.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Charette_d%27eau_du_robinetv%C3%A0_Thi%C3%A8s.jpg/1280px-Charette_d%27eau_du_robinetv%C3%A0_Thi%C3%A8s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2018-07-15 Ziegelei Lage (Lippe) 36.jpg",
+      "description": "Ziegeleimuseum Lage (Lippe) in Nordrhein-Westfalen, LWL-Industriemuseum. Gebrannte Lochziegel.",
+      "categories": [
+        "Bricks",
+        "Ring kilns",
+        "Ziegelei Lage"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-07-15_Ziegelei_Lage_(Lippe)_36.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2018-07-15_Ziegelei_Lage_%28Lippe%29_36.jpg/1280px-2018-07-15_Ziegelei_Lage_%28Lippe%29_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    }
+  ]
+}

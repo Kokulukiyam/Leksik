@@ -1,0 +1,58 @@
+{
+  "termId": "liteau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dessous de tuiles posées sur des liteaux, vu depuis un escalier couvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue en sous-face peu claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toiture en chantier : écran rouge, contre-liteaux, liteaux horizontaux, une tuile posée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.6,
+        "largeur": 0.99,
+        "hauteur": 0.1
+      },
+      "lieu": "",
+      "note": "Liteaux horizontaux très lisibles ; rectangle sur une rangée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Village avec un toit en chantier au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément invisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Toiture de ferme en brique en cours de réfection, liteaux clairsemés sur écran sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et peu net, inscriptions sur l'écran."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Même toiture de ferme, plus éloignée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Couvreur sur un toit avec lattis de liteaux et chevrons, tuiles en pose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Réseau de lattes dans les deux sens, ambigu."
+    }
+  ]
+}

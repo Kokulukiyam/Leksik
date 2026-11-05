@@ -1,0 +1,160 @@
+{
+  "terme": {
+    "id": "enduit-gratte",
+    "terme": "l'enduit gratté",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Enduit dont la surface, grattée avant durcissement, présente un grain fin et régulier.",
+    "priorite": 2,
+    "requetes": [
+      "scraped render",
+      "enduit gratté",
+      "scraped finish render facade"
+    ],
+    "incompatibles": [
+      "enduit"
+    ],
+    "categoriesCommons": [
+      "Category:Sgraffito"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:MMDA-Photos - 2020-05-03 - Hartford Tribune Building Sgraffito.jpg",
+      "description": "Sgraffito and Columns at the Hartford Times Building, Hartford, Connecticut, USA.",
+      "categories": [
+        "Sgraffito",
+        "Hartford Times Building",
+        "Self-published work",
+        "Photos by M.M.Dwyer-Architect"
+      ],
+      "auteur": "M.M.Dwyer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MMDA-Photos_-_2020-05-03_-_Hartford_Tribune_Building_Sgraffito.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/MMDA-Photos_-_2020-05-03_-_Hartford_Tribune_Building_Sgraffito.jpg/1280px-MMDA-Photos_-_2020-05-03_-_Hartford_Tribune_Building_Sgraffito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3001,
+      "hauteur": 2905
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Milano - Chiesa dell'abbazia di Chiaravalle - 2023-09-14 16-48-37 028.jpg",
+      "description": "Seguage di Donato Bramante: Graffiti con viste di Milano , anteriori al 1521. Si trovano nella Sala capitolare dell'Abbazia di Chiaravalle.",
+      "categories": [
+        "Sgraffito",
+        "Donato Bramante",
+        "Self-published work",
+        "Historical images of Milan",
+        "Cultural heritage monuments in Italy with known IDs",
+        "Ancient graffiti in Italy",
+        "Images from Wiki Loves Monuments 2023",
+        "Images from Wiki Loves Monuments 2023 in Italy",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2023 in Italy - Lombardy",
+        "Images from Wiki Loves Monuments 2023 in Italy - religious buildings",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Italy missing SDC location of creation",
+        "Cultural heritage monuments in Italy missing SDC depicts",
+        "Renaissance art in Milan",
+        "Files uploaded via webapp Wiki Loves Monuments Italia - mobile version in 2023",
+        "Images from Wiki Loves Monuments 2023 in Italy - Lombardy - religious buildings",
+        "Abbazia di Chiaravalle (Milan) - Chapter room"
+      ],
+      "auteur": "Viaggiamocela",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Milano_-_Chiesa_dell%27abbazia_di_Chiaravalle_-_2023-09-14_16-48-37_028.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Milano_-_Chiesa_dell%27abbazia_di_Chiaravalle_-_2023-09-14_16-48-37_028.jpg/1280px-Milano_-_Chiesa_dell%27abbazia_di_Chiaravalle_-_2023-09-14_16-48-37_028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pardubice - Zámek Pardubice, Castle enlarged by Vilém z Perštejna - View SSW on the Castle Entrance - Renaissance architecture.jpg",
+      "description": "Pardubice - Zámek Pardubice, Castle enlarged by Vilém z Perštejna - View SSW on the Castle Entrance - Renaissance architecture",
+      "categories": [
+        "March 2011 Czech Republic photographs",
+        "Sgraffito",
+        "Pardubice Castle",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Gate of Pardubice Castle"
+      ],
+      "auteur": "Txllxt TxllxT",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pardubice_-_Z%C3%A1mek_Pardubice,_Castle_enlarged_by_Vil%C3%A9m_z_Per%C5%A1tejna_-_View_SSW_on_the_Castle_Entrance_-_Renaissance_architecture.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Pardubice_-_Z%C3%A1mek_Pardubice%2C_Castle_enlarged_by_Vil%C3%A9m_z_Per%C5%A1tejna_-_View_SSW_on_the_Castle_Entrance_-_Renaissance_architecture.jpg/1280px-Pardubice_-_Z%C3%A1mek_Pardubice%2C_Castle_enlarged_by_Vil%C3%A9m_z_Per%C5%A1tejna_-_View_SSW_on_the_Castle_Entrance_-_Renaissance_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4026,
+      "hauteur": 6040
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Havanna - Bodeguita del Medio 2 Sgrafitti.jpg",
+      "description": "Havanna ( Kuba ). La Bodeguita del Medio - Sgrafitti",
+      "categories": [
+        "Sgraffito",
+        "Bodeguita del medio",
+        "Self-published work"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Havanna_-_Bodeguita_del_Medio_2_Sgrafitti.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Havanna_-_Bodeguita_del_Medio_2_Sgrafitti.jpg/1280px-Havanna_-_Bodeguita_del_Medio_2_Sgrafitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Milano - Chiesa dell'abbazia di Chiaravalle - 2023-09-14 16-48-37 029.jpg",
+      "description": "Seguage di Donato Bramante: Graffito con vista del Castello Sforzesco , com'era prima dell'esplosione della \"Torre del Filarete\" nel 1521. Si trova nella Sala capitolare dell'Abbazia di Chiaravalle.",
+      "categories": [
+        "Sgraffito",
+        "Donato Bramante",
+        "Castello Sforzesco (Milan) - Filarete Tower",
+        "Self-published work",
+        "Cultural heritage monuments in Italy with known IDs",
+        "Ancient graffiti in Italy",
+        "Images from Wiki Loves Monuments 2023",
+        "Images from Wiki Loves Monuments 2023 in Italy",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2023 in Italy - Lombardy",
+        "Images from Wiki Loves Monuments 2023 in Italy - religious buildings",
+        "1521 in Milan",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Italy missing SDC location of creation",
+        "Cultural heritage monuments in Italy missing SDC depicts",
+        "Historical images of Castello Sforzesco (Milan)",
+        "Renaissance art in Milan",
+        "Files uploaded via webapp Wiki Loves Monuments Italia - mobile version in 2023",
+        "Images from Wiki Loves Monuments 2023 in Italy - Lombardy - religious buildings",
+        "Abbazia di Chiaravalle (Milan) - Chapter room"
+      ],
+      "auteur": "Viaggiamocela",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Milano_-_Chiesa_dell%27abbazia_di_Chiaravalle_-_2023-09-14_16-48-37_029.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Milano_-_Chiesa_dell%27abbazia_di_Chiaravalle_-_2023-09-14_16-48-37_029.jpg/1280px-Milano_-_Chiesa_dell%27abbazia_di_Chiaravalle_-_2023-09-14_16-48-37_029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Paul Haldimann - Sgraffito am Kindergarten Glärnisch.jpg",
+      "description": "Sgraffito am Kindergarten Glärnisch in Wädenswil von Paul Haldimann (17.5.1893 - 26.5.1951), geschaffen 1950, abgebrochen 2019",
+      "categories": [
+        "Sgraffito",
+        "Wädenswil",
+        "Paul Haldimann",
+        "PD-Art (PD-old-70)",
+        "CC-PD-Mark",
+        "PD-Art missing SDC copyright status",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Paul Haldimann († 26.5.1951)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paul_Haldimann_-_Sgraffito_am_Kindergarten_Gl%C3%A4rnisch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Paul_Haldimann_-_Sgraffito_am_Kindergarten_Gl%C3%A4rnisch.jpg/1280px-Paul_Haldimann_-_Sgraffito_am_Kindergarten_Gl%C3%A4rnisch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2999,
+      "hauteur": 3217
+    }
+  ]
+}

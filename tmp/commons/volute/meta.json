@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "volute",
+    "terme": "la volute",
+    "categorie": "Ornement",
+    "definition": "Ornement enroulé en spirale, typique du chapiteau ionique et des consoles.",
+    "priorite": 2,
+    "requetes": [
+      "ionic volute",
+      "volute scroll ornament",
+      "volute"
+    ],
+    "incompatibles": [
+      "chapiteau-ionique",
+      "console",
+      "chapiteau"
+    ],
+    "categoriesCommons": [
+      "Category:Volutes",
+      "Category:Ionic capitals"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cap de violoncel amb forma de voluta.jpg",
+      "description": "Head of a cello with volute form.",
+      "categories": [
+        "Volutes",
+        "Cellos",
+        "Self-published work"
+      ],
+      "auteur": "Sara Guastevi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cap_de_violoncel_amb_forma_de_voluta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Cap_de_violoncel_amb_forma_de_voluta.jpg/1280px-Cap_de_violoncel_amb_forma_de_voluta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3647,
+      "hauteur": 3219
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fairmontstatecolumn.JPG",
+      "description": "Fairmont State University - Fairmont, WV",
+      "categories": [
+        "Taken with Olympus u1010 / S-1010",
+        "Fairmont State University",
+        "Self-published work",
+        "Ionic capitals"
+      ],
+      "auteur": "Jodyperry",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fairmontstatecolumn.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Fairmontstatecolumn.JPG/1280px-Fairmontstatecolumn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3137,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Crosse 12ème siècle Musée de Laon 030208.jpg",
+      "description": "",
+      "categories": [
+        "Volutes",
+        "Taken with Sony DSC-H5",
+        "Croziers",
+        "Guérin (chancellor of France)",
+        "Artworks without Wikidata item",
+        "Self-published work",
+        "PD-self",
+        "Base Joconde",
+        "Pages using Template:Technique with deprecated term",
+        "12th-century Christian art",
+        "Collection médiévale du Musée d'art et d'archéologie de Senlis"
+      ],
+      "auteur": "Atelier limousin",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crosse_12%C3%A8me_si%C3%A8cle_Mus%C3%A9e_de_Laon_030208.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Crosse_12%C3%A8me_si%C3%A8cle_Mus%C3%A9e_de_Laon_030208.jpg/1280px-Crosse_12%C3%A8me_si%C3%A8cle_Mus%C3%A9e_de_Laon_030208.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1488,
+      "hauteur": 1984
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Church of the Theotokos of Kazan (Yaropolets) 08.jpg",
+      "description": "Храм Казанской иконы Божией Матери в селе Ярополец",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A650 IS",
+        "Church of the Theotokos of Kazan (Yaropolets)",
+        "License migration redundant",
+        "Self-published work",
+        "Ionic capitals"
+      ],
+      "auteur": "Lodo27 from Moscow, Russia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_the_Theotokos_of_Kazan_(Yaropolets)_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Church_of_the_Theotokos_of_Kazan_%28Yaropolets%29_08.jpg/1280px-Church_of_the_Theotokos_of_Kazan_%28Yaropolets%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2663,
+      "hauteur": 1997
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Crosiere of arcbishop Heinrich of Finstingen.jpg",
+      "description": "",
+      "categories": [
+        "Volutes",
+        "Croziers",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Domschatz, Trier",
+        "13th-century bronzes in Germany",
+        "License migration redundant",
+        "Media missing infobox template",
+        "GFDL-1.3+",
+        "Limoges croziers"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crosiere_of_arcbishop_Heinrich_of_Finstingen.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Crosiere_of_arcbishop_Heinrich_of_Finstingen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1223,
+      "hauteur": 2395
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Kloster Rüti - Stadtmuseum Rapperswil - Krummstab und Mitra.jpg",
+      "description": "'Stadtmuseum Rapperswil', Rapperswil-Jona , 'Klosterschatz', former Premonstratensian Monastery Rüti (ZH) (1525)",
+      "categories": [
+        "Volutes",
+        "GFDL",
+        "Taken with Canon Digital IXUS 60",
+        "Croziers",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Rüti Abbey",
+        "13th-century bronzes in Germany",
+        "License migration redundant",
+        "Self-published work",
+        "Roman Catholic mitres",
+        "2008 in Rapperswil-Jona",
+        "Switzerland photographs taken on 2008-04-25",
+        "Photographs by Roland Fischer",
+        "Medieval Catholic mitres",
+        "Limoges croziers",
+        "Collections of Stadtmuseum Rapperswil"
+      ],
+      "auteur": "Roland zh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kloster_R%C3%BCti_-_Stadtmuseum_Rapperswil_-_Krummstab_und_Mitra.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_R%C3%BCti_-_Stadtmuseum_Rapperswil_-_Krummstab_und_Mitra.jpg/1280px-Kloster_R%C3%BCti_-_Stadtmuseum_Rapperswil_-_Krummstab_und_Mitra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1640,
+      "hauteur": 1230
+    }
+  ]
+}

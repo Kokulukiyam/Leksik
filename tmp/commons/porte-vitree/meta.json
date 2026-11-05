@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "porte-vitree",
+    "terme": "la porte vitrée",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte dont une grande partie du vantail est occupée par un vitrage.",
+    "priorite": 1,
+    "requetes": [
+      "glazed door",
+      "porte vitrée",
+      "glass panel door"
+    ],
+    "incompatibles": [
+      "porte",
+      "porte-fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Glass doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Andrássy Straße 14, Eingang, 2021 Terézváros.jpg",
+      "description": "Former Kreische Tenement Building (aka Kreische Palace) Three-storey eclectic building. Two storey building built in 1863. Planned by Miklós Ybl Built to the Izabella Street (nearby) salami factory owner and grain retailer/trader Antal Kreische and his wife Terez Glatz. In 1876 (or before) extended and remodelled to a three storey building according plans of József Paulheim and Lőrinc Brunhuber (the owners waer still Mr and Mrs. Kreische) Architectural sculptures made by Jakab Kauser with cooperation of the Scalmanini and Assocation marble mining company from Triest. The elevators/lifts made/b",
+      "categories": [
+        "Bulgarian Cultural Institute, Budapest",
+        "Glass doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Doors in Budapest",
+        "Andrássy út, 14 (Budapest)",
+        "2021 Car-Free Weekend in Andrássy út, Budapest"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Andr%C3%A1ssy_Stra%C3%9Fe_14,_Eingang,_2021_Ter%C3%A9zv%C3%A1ros.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Andr%C3%A1ssy_Stra%C3%9Fe_14%2C_Eingang%2C_2021_Ter%C3%A9zv%C3%A1ros.jpg/1280px-Andr%C3%A1ssy_Stra%C3%9Fe_14%2C_Eingang%2C_2021_Ter%C3%A9zv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1552,
+      "hauteur": 2069
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:5 Porta Blava02.jpg",
+      "description": "això és una prova",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Monblau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5_Porta_Blava02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/5_Porta_Blava02.jpg/1280px-5_Porta_Blava02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1912,
+      "hauteur": 1912
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:CLEO ROGERS MEMORIAL LIBRARY - NARA - 546493.jpg",
+      "description": "",
+      "categories": [
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "PD US EPA",
+        "Exterior of the Cleo Rogers Memorial Library",
+        "Artworks without Wikidata item",
+        "Glass doors",
+        "Stair ramps",
+        "May 1973 in Indiana",
+        "US National Archives series: DOCUMERICA: The Environmental Protection Agency's Program to Photographically Document Subjects of Environmental Concern, compiled 1972 - 1977",
+        "1973 in Columbus, Indiana",
+        "Walking women in Columbus, Indiana",
+        "DOCUMERICA photographs of Indiana",
+        "DOCUMERICA photographs by Declan Haun",
+        "Outside stairs in Columbus, Indiana"
+      ],
+      "auteur": "Declan Haun",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CLEO_ROGERS_MEMORIAL_LIBRARY_-_NARA_-_546493.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/CLEO_ROGERS_MEMORIAL_LIBRARY_-_NARA_-_546493.jpg/1280px-CLEO_ROGERS_MEMORIAL_LIBRARY_-_NARA_-_546493.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2005,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ancient Gateway (116650393).jpeg",
+      "description": "500px provided description: Ancient Gateway [#city ,#travel ,#door ,#house ,#italy ,#old ,#urban ,#architecture ,#gate ,#building ,#wooden ,#double ,#portal]",
+      "categories": [
+        "Doors",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Maurice Klabbers",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancient_Gateway_(116650393).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ancient_Gateway_%28116650393%29.jpeg/1280px-Ancient_Gateway_%28116650393%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2021 — Erste Julireise Mateus2019 — Batch (350).jpg",
+      "description": "Hotel Gitschberg in Südtirol: Begehbarer Weinkühlschrank, davor ein Stehtisch für Mitarbeiter mit einem aufgeschlagenem Buch sowie darüber ein eingeschalteter Tabletcomputer.",
+      "categories": [
+        "Wine racks",
+        "Tablet computers",
+        "Refrigerators",
+        "Glass doors",
+        "Hotel Gitschberg",
+        "Files with coordinates missing SDC location of creation",
+        "Many objects",
+        "Italy photographs taken on 2021-07-23",
+        "User:Mattes/Contributions/Topics/Italy/Trentino-Südtirol",
+        "User:Mattes/Contributions/Geolocation/OK",
+        "User:Mattes/Contributions/Topics/Technology"
+      ],
+      "auteur": "Mateus2019",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021_%E2%80%94_Erste_Julireise_Mateus2019_%E2%80%94_Batch_(350).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2021_%E2%80%94_Erste_Julireise_Mateus2019_%E2%80%94_Batch_%28350%29.jpg/1280px-2021_%E2%80%94_Erste_Julireise_Mateus2019_%E2%80%94_Batch_%28350%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5120,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Art Abstrait 03.jpg",
+      "description": "Art Abstrait",
+      "categories": [
+        "Abstract art",
+        "Doors",
+        "Montblanc (Hérault)",
+        "Self-published work",
+        "Photographs by Selmoval - DefiPhotosCommons"
+      ],
+      "auteur": "Selmoval",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Art_Abstrait_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Art_Abstrait_03.jpg/1280px-Art_Abstrait_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2432,
+      "hauteur": 3648
+    }
+  ]
+}

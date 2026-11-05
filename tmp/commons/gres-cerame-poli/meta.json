@@ -1,0 +1,35 @@
+{
+  "terme": {
+    "id": "gres-cerame-poli",
+    "terme": "le grès cérame poli",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Carreau de grès cérame à surface polie et brillante qui reflète la lumière, souvent appelé carreau poli à Dakar.",
+    "priorite": 1,
+    "requetes": [
+      "polished porcelain tile floor glossy",
+      "carrelage poli brillant",
+      "polished porcelain floor tiles"
+    ],
+    "incompatibles": [
+      "carreau-de-gres-cerame",
+      "carrelage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Polished Porcelain Floor Tiling.jpg",
+      "description": "Modern polished porcelain floor tiles in a large format.",
+      "categories": [
+        "Self-published work",
+        "Floor tiles in the United Kingdom"
+      ],
+      "auteur": "ColumbD",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Polished_Porcelain_Floor_Tiling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Polished_Porcelain_Floor_Tiling.jpg/1280px-Polished_Porcelain_Floor_Tiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

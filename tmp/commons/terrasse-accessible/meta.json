@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "terrasse-accessible",
+    "terme": "la terrasse accessible",
+    "categorie": "Toitures",
+    "definition": "Toiture-terrasse aménagée pour circuler et séjourner, avec revêtement de sol et garde-corps.",
+    "priorite": 2,
+    "requetes": [
+      "rooftop terrace",
+      "terrasse accessible toit",
+      "roof terrace paving railing"
+    ],
+    "incompatibles": [
+      "toiture-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Roof terraces",
+      "Category:Terraces",
+      "Category:Roof gardens"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cafeteria del Museo Amparo.JPG",
+      "description": "Cafetería del Museo Amparo con vista a las cúpulas y torres de la catedral de la ciudad de Puebla",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Roof terraces",
+        "Images with annotations",
+        "Self-published work",
+        "Puebla de Zaragoza"
+      ],
+      "auteur": "Rodrigo Rodríguez Fuentes",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cafeteria_del_Museo_Amparo.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cafeteria_del_Museo_Amparo.JPG/1280px-Cafeteria_del_Museo_Amparo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:منظر عام لمدينة شبام كوكبان والسهول المحيطة من الأعلى General view of Shibam Kawkaban city and surrounding plains from above.jpg",
+      "description": "An aerial view showing the positioning of the historic city of Shibam Kawkaban amidst the vast plains and agricultural terraces in Mahwit",
+      "categories": [
+        "Shibam",
+        "Terraces",
+        "Self-published work",
+        "Landscapes of Yemen",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Images from Wiki Loves Earth missing SDC source of file",
+        "Images from Wiki Loves Earth missing SDC creator",
+        "Images from Wiki Loves Earth missing SDC inception",
+        "Images from Wiki Loves Earth missing SDC participant in",
+        "Images from Wiki Loves Earth 2026",
+        "Images from Wiki Loves Earth 2026 in Yemen",
+        "Uploaded via Campaign:wle-ye",
+        "Unreviewed Images from Wiki Loves Earth 2026 in Yemen"
+      ],
+      "auteur": "Ayah Alakwaa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%86%D8%B8%D8%B1_%D8%B9%D8%A7%D9%85_%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%B4%D8%A8%D8%A7%D9%85_%D9%83%D9%88%D9%83%D8%A8%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D8%B3%D9%87%D9%88%D9%84_%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89_General_view_of_Shibam_Kawkaban_city_and_surrounding_plains_from_above.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%D9%85%D9%86%D8%B8%D8%B1_%D8%B9%D8%A7%D9%85_%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%B4%D8%A8%D8%A7%D9%85_%D9%83%D9%88%D9%83%D8%A8%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D8%B3%D9%87%D9%88%D9%84_%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89_General_view_of_Shibam_Kawkaban_city_and_surrounding_plains_from_above.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cugir-multi-function-roof2.jpg",
+      "description": "A single-layer (no tiles behind), roof garden from Cugir, Romania",
+      "categories": [
+        "Roof gardens",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Moltean",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cugir-multi-function-roof2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cugir-multi-function-roof2.jpg/1280px-Cugir-multi-function-roof2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Krasnoyarsk embankment, Roof terrace 2, Russia.jpg",
+      "description": "The Krasnoyarsk embankment along the Yenisey River. Roof terrace. Krasnoyarsk, Russia.",
+      "categories": [
+        "Modernist architecture in Russia",
+        "Photos by Vyacheslav Argenberg",
+        "Krasnoyarsk",
+        "Roof terraces",
+        "Self-published work",
+        "August 2016 in Krasnoyarsk Krai",
+        "Clouds and blue sky in Krasnoyarsk Krai",
+        "Photos by Vyacheslav Argenberg in Russia",
+        "Photos by Vyacheslav Argenberg in 2016"
+      ],
+      "auteur": "Vyacheslav Argenberg",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Krasnoyarsk_embankment,_Roof_terrace_2,_Russia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Krasnoyarsk_embankment%2C_Roof_terrace_2%2C_Russia.jpg/1280px-Krasnoyarsk_embankment%2C_Roof_terrace_2%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Hobart BatteryPoint 056 2020.jpg",
+      "description": "St George's Terrace in Battery Point with a view to kunanyi, nipaluna / Hobart",
+      "categories": [
+        "Hobart, Tasmania",
+        "Battery Point, Tasmania",
+        "Terraces",
+        "Filigree",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Cottages in Tasmania"
+      ],
+      "auteur": "Owen Allen",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hobart_BatteryPoint_056_2020.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Hobart_BatteryPoint_056_2020.jpg/1280px-Hobart_BatteryPoint_056_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blog.planreforma tdp064-terrazas-en-aticos-azoteas-5.jpg",
+      "description": "Fuente: architecturaldigest.",
+      "categories": [
+        "Roof gardens"
+      ],
+      "auteur": "https://martapuig.es/jardines-en-las-alturas/",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blog.planreforma_tdp064-terrazas-en-aticos-azoteas-5.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Blog.planreforma_tdp064-terrazas-en-aticos-azoteas-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 900,
+      "hauteur": 600
+    }
+  ]
+}

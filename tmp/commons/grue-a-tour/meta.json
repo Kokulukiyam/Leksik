@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "grue-a-tour",
+    "terme": "la grue à tour",
+    "categorie": "Chantier et outillage",
+    "definition": "Grue fixe formée d'un haut mât en treillis et d'une flèche horizontale qui pivote au-dessus du chantier.",
+    "priorite": 2,
+    "requetes": [
+      "tower crane construction",
+      "grue à tour",
+      "incategory:\"Tower cranes\""
+    ],
+    "categoriesCommons": [
+      "Category:Tower cranes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Byggarbetsplats i Reykjavik 2009-01-27.jpg",
+      "description": "Byggarbetsplats i Reykjavik 2009-01-27",
+      "categories": [
+        "Taken with Nikon D700",
+        "Tower cranes",
+        "Buildings in Reykjavík",
+        "Sæbraut",
+        "Building construction in Iceland",
+        "Building sites",
+        "Concrete buildings in Iceland",
+        "Images from norden.org uploaded by Fæ",
+        "Construction work in Iceland",
+        "Iceland photographs taken on 2009-01-27",
+        "Photographs by Johannes Jansson"
+      ],
+      "auteur": "Johannes Jansson",
+      "licence": "CC BY 2.5 dk",
+      "lien": "https://commons.wikimedia.org/wiki/File:Byggarbetsplats_i_Reykjavik_2009-01-27.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Byggarbetsplats_i_Reykjavik_2009-01-27.jpg/1280px-Byggarbetsplats_i_Reykjavik_2009-01-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4256,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Baustellenabsperrung mit Warnleuchten.JPG",
+      "description": "Baustellenabsperrung mit Warnleuchten",
+      "categories": [
+        "Tower cranes",
+        "Road traffic control",
+        "Self-published work",
+        "PD-self",
+        "Arcomet cranes"
+      ],
+      "auteur": "noebse",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baustellenabsperrung_mit_Warnleuchten.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Baustellenabsperrung_mit_Warnleuchten.JPG/1280px-Baustellenabsperrung_mit_Warnleuchten.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2024 06 27 ConstructionSite SK 0002.jpg",
+      "description": "A construction worker operates a tower crane in Iowa City, IA on June 28, 2024.",
+      "categories": [
+        "CC-Zero",
+        "Tower cranes",
+        "Self-published work"
+      ],
+      "auteur": "Shuntaro Kawasaki",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024_06_27_ConstructionSite_SK_0002.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/2024_06_27_ConstructionSite_SK_0002.jpg/1280px-2024_06_27_ConstructionSite_SK_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3265,
+      "hauteur": 2259
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2024 06 27 ConstructionSite SK 0001.jpg",
+      "description": "A construction worker operates a tower crane in Iowa City, IA on June 28, 2024.",
+      "categories": [
+        "CC-Zero",
+        "Tower cranes",
+        "Self-published work"
+      ],
+      "auteur": "Shuntaro Kawasaki",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024_06_27_ConstructionSite_SK_0001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2024_06_27_ConstructionSite_SK_0001.jpg/1280px-2024_06_27_ConstructionSite_SK_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3185,
+      "hauteur": 1903
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Archives of ontario at yorku Jan 2008 construction.jpg",
+      "description": "Archives of Ontario under construction at York University (Keele Campus).",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 70",
+        "Tower cranes",
+        "License migration redundant",
+        "Self-published work",
+        "January 2008 in Toronto",
+        "Canada photographs taken on 2008-01-09",
+        "Construction in Toronto in 2008",
+        "Construction of Archives of Ontario and York Research Tower"
+      ],
+      "auteur": "Theonlysilentbob",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Archives_of_ontario_at_yorku_Jan_2008_construction.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Archives_of_ontario_at_yorku_Jan_2008_construction.jpg/1280px-Archives_of_ontario_at_yorku_Jan_2008_construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Construction cranes building cranes working cranes - Flickr - Joost J. Bakker IJmuiden.jpg",
+      "description": "construction cranes building cranes working cranes",
+      "categories": [
+        "Construction",
+        "Tower cranes",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Joost J. Bakker",
+        "Files uploaded by Kobac",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Joost J. Bakker",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_cranes_building_cranes_working_cranes_-_Flickr_-_Joost_J._Bakker_IJmuiden.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Construction_cranes_building_cranes_working_cranes_-_Flickr_-_Joost_J._Bakker_IJmuiden.jpg/1280px-Construction_cranes_building_cranes_working_cranes_-_Flickr_-_Joost_J._Bakker_IJmuiden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 5616
+    }
+  ]
+}

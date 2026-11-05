@@ -1,0 +1,58 @@
+{
+  "termId": "porte-a-faux",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bâtiment grec avec balcon en encorbellement arrondi et enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, plutôt balcon/encorbellement."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tour vitrée dont des étages débordent de chaque côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Débord peu lisible, reflets."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maison dans les bois, volume masqué par les feuillages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément caché."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grande marquise rouge en saillie sur l'auditorium Ibirapuera.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut se lire comme auvent/marquise."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Volume vitré d'un centre commercial qui surplombe largement l'entrée sur un côté.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.27,
+        "largeur": 0.44,
+        "hauteur": 0.4
+      },
+      "lieu": "Staten Island, New York",
+      "note": "Volume en surplomb sans appui du côté libre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Enseigne en fer forgé sur potence devant une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

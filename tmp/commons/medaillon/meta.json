@@ -1,0 +1,162 @@
+{
+  "terme": {
+    "id": "medaillon",
+    "terme": "le médaillon",
+    "categorie": "Ornement",
+    "definition": "Ornement rond ou ovale, encadré, qui porte un portrait ou un motif sculpté.",
+    "priorite": 2,
+    "requetes": [
+      "medallion facade relief",
+      "portrait medallion building",
+      "médaillon façade"
+    ],
+    "incompatibles": [
+      "cartouche",
+      "bas-relief",
+      "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Medallions (architecture)",
+      "Category:Roundels"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2018臺北植物園早田文藏紀念碑.jpg",
+      "description": "2018 Statue de Bunzō Hayata au Jardin Botanique de Taïpei",
+      "categories": [
+        "Bunzō Hayata",
+        "Taipei Botanical Garden",
+        "Medallions (architecture)",
+        "Taiwan photographs taken on 2018-01-03",
+        "Self-published work",
+        "Medallions with portraits",
+        "Photographs by Taiwankengo",
+        "2018 photographs of Taipei",
+        "Steles in Taipei"
+      ],
+      "auteur": "Taiwankengo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018%E8%87%BA%E5%8C%97%E6%A4%8D%E7%89%A9%E5%9C%92%E6%97%A9%E7%94%B0%E6%96%87%E8%97%8F%E7%B4%80%E5%BF%B5%E7%A2%91.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2018%E8%87%BA%E5%8C%97%E6%A4%8D%E7%89%A9%E5%9C%92%E6%97%A9%E7%94%B0%E6%96%87%E8%97%8F%E7%B4%80%E5%BF%B5%E7%A2%91.jpg/1280px-2018%E8%87%BA%E5%8C%97%E6%A4%8D%E7%89%A9%E5%9C%92%E6%97%A9%E7%94%B0%E6%96%87%E8%97%8F%E7%B4%80%E5%BF%B5%E7%A2%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:WW2 Aircraft Insignia Newsmap Vol 2 No 22 1943-09-20 US Government National Archives NARA Unrestricted Public domain 26-nm-2-22-overseas 002.jpg",
+      "description": "National Archives (NARA) Still Picture Identifier: 26-nm-2-22b overseas. Aircraft Insignia. World War II Era \"Newsmap\" - Volume 2, Number 22 (Overseas Edition), 9/20/1943; The obverse shows the Newsmap (Overseas Edition) for the week of September 9 to September 16. The reverse shows Aircraft Insignia (roundels, cockades, etc. on wings and rudders), and some aircrafts. American poster/chart. See also Former insignia of national air forces and en:List of aircraft of World War II . Unrestricted access and use.",
+      "categories": [
+        "World War II posters from the United States",
+        "PD US Government",
+        "Roundels",
+        "Images from the National Archives and Records Administration",
+        "Military aircraft of World War II",
+        "Fin flashes",
+        "Images with extracted images",
+        "CC-PD-Mark",
+        "France (text)",
+        "20th-century flag charts of the world",
+        "World War II aviation posters",
+        "United States (text)",
+        "Aircraft on posters",
+        "Aircraft recognition in World War II",
+        "Yugoslavia (text)",
+        "Cuba (text)",
+        "Roundels on aircraft"
+      ],
+      "auteur": "Jack Coggins (old US Govermental information is Public Domain)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:WW2_Aircraft_Insignia_Newsmap_Vol_2_No_22_1943-09-20_US_Government_National_Archives_NARA_Unrestricted_Public_domain_26-nm-2-22-overseas_002.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/WW2_Aircraft_Insignia_Newsmap_Vol_2_No_22_1943-09-20_US_Government_National_Archives_NARA_Unrestricted_Public_domain_26-nm-2-22-overseas_002.jpg/1280px-WW2_Aircraft_Insignia_Newsmap_Vol_2_No_22_1943-09-20_US_Government_National_Archives_NARA_Unrestricted_Public_domain_26-nm-2-22-overseas_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 9365,
+      "hauteur": 7004
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Eberndorf Kirchplatz 1 Augustinerchorherrenstift äußeres Tor Sprenggiebel mit Christusmonogramm 31082017 0584.jpg",
+      "description": "Medallion with Chi Rho at the overdoor of the exterior portal of the monastery of Augustinian Canons on Kirchplatz #1, market town Eberndorf , district Völkermarkt, Carinthia , Austria , European Union",
+      "categories": [
+        "Stift Eberndorf",
+        "Medallions (architecture)",
+        "Self-published work",
+        "Images by Johann Jaritz",
+        "Portals in Carinthia",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Austria photographs taken on 2017-08-31",
+        "Overdoors in Carinthia",
+        "IHS in Austria",
+        "Summer 2017 in Bezirk Völkermarkt",
+        "Rustication (architecture) in Carinthia",
+        "Broken pediments in Carinthia"
+      ],
+      "auteur": "Johann Jaritz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eberndorf_Kirchplatz_1_Augustinerchorherrenstift_%C3%A4u%C3%9Feres_Tor_Sprenggiebel_mit_Christusmonogramm_31082017_0584.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Eberndorf_Kirchplatz_1_Augustinerchorherrenstift_%C3%A4u%C3%9Feres_Tor_Sprenggiebel_mit_Christusmonogramm_31082017_0584.jpg/1280px-Eberndorf_Kirchplatz_1_Augustinerchorherrenstift_%C3%A4u%C3%9Feres_Tor_Sprenggiebel_mit_Christusmonogramm_31082017_0584.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4218,
+      "hauteur": 3201
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:DIK887ORK23.jpg",
+      "description": "Italienske Kapellet",
+      "categories": [
+        "Roundels",
+        "Italian Chapel",
+        "Self-published work"
+      ],
+      "auteur": "Bingar1234",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DIK887ORK23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/DIK887ORK23.jpg/1280px-DIK887ORK23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Medallion head of Thomas Thomson in Dean Cemetery.JPG",
+      "description": "Medallion head of Thomas Thomson in Dean Cemetery",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Dean Cemetery",
+        "Medallions (architecture)",
+        "Self-published work"
+      ],
+      "auteur": "Stephencdickson",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Medallion_head_of_Thomas_Thomson_in_Dean_Cemetery.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Medallion_head_of_Thomas_Thomson_in_Dean_Cemetery.JPG/1280px-Medallion_head_of_Thomas_Thomson_in_Dean_Cemetery.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3088,
+      "hauteur": 2056
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:La cathédrale Saint-Pierre de Maillezais (9).jpg",
+      "description": "Vestige architectural d'un médaillon (vers 1540) de la cathédrale Saint-Pierre de Maillezais Vendée Pays de la Loire .- France",
+      "categories": [
+        "Base Mérimée",
+        "Monuments historiques classés",
+        "Medallions (architecture)",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2015",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2015 in France",
+        "Cultural heritage monuments in France with known IDs",
+        "Uploaded via Campaign:wlm-fr",
+        "Dpt de la Vendée, by PIERRE ANDRE LECLERCQ",
+        "Files by User:Pierre André Leclercq",
+        "Photographs by Pierre André Leclercq /Wiki Loves Monuments/2015",
+        "Pays de la Loire photographs taken on 2013-09-10",
+        "Architectural elements (Abbatiale-cathédrale Saint-Pierre de Maillezais)"
+      ],
+      "auteur": "PIERRE ANDRE LECLERCQ",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_cath%C3%A9drale_Saint-Pierre_de_Maillezais_(9).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/La_cath%C3%A9drale_Saint-Pierre_de_Maillezais_%289%29.jpg/1280px-La_cath%C3%A9drale_Saint-Pierre_de_Maillezais_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3483,
+      "hauteur": 3241
+    }
+  ]
+}

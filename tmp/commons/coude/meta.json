@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "coude",
+    "terme": "le coude",
+    "categorie": "Réseaux et équipements",
+    "definition": "Raccord de tuyauterie qui change la direction d'une canalisation, le plus souvent à 45 ou 90 degrés.",
+    "priorite": 2,
+    "requetes": [
+      "pipe elbow fitting",
+      "coude PVC",
+      "PVC elbow"
+    ],
+    "incompatibles": [
+      "raccord"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Khutning Saapa - gesture of making elbow - one of the Hakchaang Saapa (Laipou Khutthek) group of gestures of creating human body - in Lai Haraoba classical dance & music ritualistic performances.jpg",
+      "description": "Khutning Saapa / Khuning Saaba - gesture of making elbow - one of the Hakchaang Saapa / Hakchang Sapa / Hakchaang Saaba / Hakchang Saba / Hakchaang Shaapa / Hakchang Shapa / Hakchaang Shaaba / Hakchang Shaba (Laipou Khutthek / Laibou Khutthek) group of gestures of creating human body - in Lai Haraoba classical dance & music ritualistic performances - It is a gesture (Khut-thek) of classical Meitei dance forms (Meitei Jagoi); In Meiteilon, alias Meitei or Meetei or Manipuri or Kanglei or Meithei language, the word \"Khut-thek\" (or Khutthek or Khuthek) means hand gesture. Here, \"khut\" means hand ",
+      "categories": [
+        "Elbows",
+        "CC-Zero",
+        "Women in art",
+        "Dancers in art",
+        "Dance in art of India",
+        "Drawings of hands",
+        "Lai Haraoba",
+        "Meitei Jagoi Khutthek (double hand gestures)",
+        "Maibi",
+        "Maibi Jagoi"
+      ],
+      "auteur": "Kullachandra Singh, Ngariyambam",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Khutning_Saapa_-_gesture_of_making_elbow_-_one_of_the_Hakchaang_Saapa_(Laipou_Khutthek)_group_of_gestures_of_creating_human_body_-_in_Lai_Haraoba_classical_dance_%26_music_ritualistic_performances.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Khutning_Saapa_-_gesture_of_making_elbow_-_one_of_the_Hakchaang_Saapa_%28Laipou_Khutthek%29_group_of_gestures_of_creating_human_body_-_in_Lai_Haraoba_classical_dance_%26_music_ritualistic_performances.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Green 5 inch elbow pipes 2023 03 18 JM.jpg",
+      "description": "Green 5 inch elbow pipe fittings",
+      "categories": [
+        "Self-published work",
+        "Green pipes",
+        "Elbow pipe fittings",
+        "5 inches",
+        "Photos taken by Johannes Maximilian in Münster"
+      ],
+      "auteur": "Johannes Maximilian",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Green_5_inch_elbow_pipes_2023_03_18_JM.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Green_5_inch_elbow_pipes_2023_03_18_JM.jpg/1280px-Green_5_inch_elbow_pipes_2023_03_18_JM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6117,
+      "hauteur": 4078
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Move at five and ten.jpg",
+      "description": "When this move is used at five: the upper hand leads the dircetion for the next player ten: the lower hand leads the direction for the next player",
+      "categories": [
+        "Elbows",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Unidentified sports",
+        "Headlessness in photography"
+      ],
+      "auteur": "Fabi Fluhrer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Move_at_five_and_ten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Move_at_five_and_ten.jpg/1280px-Move_at_five_and_ten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Copper-press-fitting.JPG",
+      "description": "copper pipes joint with press fitting elbow, diameter 15mm",
+      "categories": [
+        "Press fittings",
+        "Elbow pipe fittings"
+      ],
+      "auteur": "Cschirp",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Copper-press-fitting.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Copper-press-fitting.JPG/1280px-Copper-press-fitting.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2326,
+      "hauteur": 2486
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Kupferfittings 4062.jpg",
+      "description": "Raccords en cuivre pour plomberie : coude à 45° femelle-femelle, T égal, raccord ; bouchon, coude à 90° femelle-femelle, réducteur, coude à 45° mâle-femelle.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Plumbing",
+        "License migration completed",
+        "Files by User:Torsten Bätge",
+        "Files with derivative versions",
+        "Solder fittings",
+        "Elbow pipe fittings"
+      ],
+      "auteur": "Torsten Bätge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kupferfittings_4062.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kupferfittings_4062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 800
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Raccord de la garde hydraulique.jpg",
+      "description": "La garde hydraulique consiste en un raccord de 2 tuyaux via un coude en té. C'est à ce niveau du l'on visualise, avec les graduations préalablement faite, la pression à l'intérieur du système..",
+      "categories": [
+        "Self-published work",
+        "Elbow pipe fittings"
+      ],
+      "auteur": "Rieul Techer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Raccord_de_la_garde_hydraulique.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Raccord_de_la_garde_hydraulique.jpg/1280px-Raccord_de_la_garde_hydraulique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    }
+  ]
+}

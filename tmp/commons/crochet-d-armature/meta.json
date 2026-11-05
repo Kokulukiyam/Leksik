@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "crochet-d-armature",
+    "terme": "le crochet d'armature",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Extrémité recourbée d'une barre d'acier qui améliore son ancrage dans le béton.",
+    "priorite": 2,
+    "requetes": [
+      "rebar hook bend",
+      "crochet armature",
+      "standard hook rebar"
+    ],
+    "incompatibles": [
+      "ferraillage"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Armoured.jpg",
+      "description": "Ruined armoured.",
+      "categories": [
+        "Reinforced concrete",
+        "Self-published work",
+        "Files by User:R-bahn"
+      ],
+      "auteur": "R-bahn",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armoured.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Armoured.jpg/1280px-Armoured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Blue lines - Flickr - mRio.jpg",
+      "description": "Blue lines",
+      "categories": [
+        "Rebar",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2005-08-13",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "mario",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_lines_-_Flickr_-_mRio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Blue_lines_-_Flickr_-_mRio.jpg/1280px-Blue_lines_-_Flickr_-_mRio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 23.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_23.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bring reinforcements^ - geograph.org.uk - 7198904.jpg",
+      "description": "Bring reinforcements!",
+      "categories": [
+        "Rebar",
+        "Images from Geograph Britain and Ireland",
+        "Construction in Bristol",
+        "Cumberland Road, Bristol"
+      ],
+      "auteur": "Anthony O'Neil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg/1280px-Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2856,
+      "hauteur": 1960
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2018-06-01 (026) Construction site at Tiefgrabenrotte in Frankenfels, Austria.jpg",
+      "description": "Construction site at Tiefgrabenrotte in Frankenfels, Austria",
+      "categories": [
+        "Reinforced concrete",
+        "Tiefgrabenrotte",
+        "Images with annotations",
+        "Wienerberger",
+        "Self-published work",
+        "Construction sites in Lower Austria",
+        "Austria photographs taken on 2018-06-01",
+        "Files by User:GT1976 in Frankenfels",
+        "Taken with Samsung Galaxy S5 Mini by User:GT1976",
+        "Files by User:GT1976 2018-06-01 Frankenfels",
+        "June 2018 in Frankenfels"
+      ],
+      "auteur": "GT1976",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-06-01_(026)_Construction_site_at_Tiefgrabenrotte_in_Frankenfels,_Austria.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2018-06-01_%28026%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg/1280px-2018-06-01_%28026%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bewehrungsstahl Boden Trogbauwerk.jpg",
+      "description": "Standort zwischen Margarete-Kubicka-Brücke und Mathilde-Rathenau-Brücke",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Bundesautobahn 100 (Berlin-Neukölln)"
+      ],
+      "auteur": "FellTiger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bewehrungsstahl_Boden_Trogbauwerk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Bewehrungsstahl_Boden_Trogbauwerk.jpg/1280px-Bewehrungsstahl_Boden_Trogbauwerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

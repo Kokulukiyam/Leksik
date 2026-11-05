@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "aretier",
+    "terme": "l'arêtier",
+    "categorie": "Toitures",
+    "definition": "Arête saillante inclinée formée par la rencontre de deux versants, sur un toit à croupes.",
+    "priorite": 2,
+    "requetes": [
+      "hip ridge roof tiles",
+      "arêtier toiture",
+      "roof hip line"
+    ],
+    "incompatibles": [
+      "croupe"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Church Street memorial Broadstairs St Peters Kent England 2.jpg",
+      "description": "First World War memorial in the churchyard of St Peter's Church at St Peter's in the civil parish of Broadstairs and St Peter's in Kent , England. Software : RAW file lens-corrected, optimized and converted to JPEG with DxO OpticsPro 10 Elite , and likely further optimized and/or cropped and/or spun with Adobe Photoshop CS2 .",
+      "categories": [
+        "Broadstairs WWI Memorial Cross and Tablet",
+        "Ridge tiles",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Summer in Kent",
+        "Hipped roofs in the United Kingdom",
+        "Tiled roofs in Kent",
+        "August 2015 in Kent",
+        "Churches in Kent photographed in 2015",
+        "Photographs taken on 2015-08-14",
+        "Acabashi photos: plaques and signs",
+        "2015 in Broadstairs",
+        "Files with coordinates missing SDC location of creation (51° N, 1° E)",
+        "Red clay roof tiles",
+        "Coping stones",
+        "Images from Kent"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_Street_memorial_Broadstairs_St_Peters_Kent_England_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Church_Street_memorial_Broadstairs_St_Peters_Kent_England_2.jpg/1280px-Church_Street_memorial_Broadstairs_St_Peters_Kent_England_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Casinha de prazer tradicional, Porto Santo - 2021-10-09 - DSC00605.jpg",
+      "description": "Casinha de prazer tradicional, Porto Santo",
+      "categories": [
+        "Self-published work",
+        "Hipped roofs in Portugal",
+        "Roof ridges in Portugal",
+        "Images from Wiki Loves Folklore 2023",
+        "Files with coordinates missing SDC location of creation",
+        "Photos taken by DarwIn",
+        "Historicist architecture in Madeira",
+        "2021 in Porto Santo",
+        "Images from Wiki Loves Folklore 2023 in Portugal",
+        "Cornices in Madeira",
+        "Tiled roofs in Madeira",
+        "Green doors in Madeira",
+        "Quoins (architecture) in Madeira",
+        "Pinnacles in Madeira",
+        "Marseilles roof tiles",
+        "Eave finials in Madeira",
+        "Images from Wiki Loves Folklore 2023 to check",
+        "Uploaded via Campaign:wlf 2023",
+        "Casinhas de prazer",
+        "Vernacular architecture of Porto Santo"
+      ],
+      "auteur": "Paulo SP/ Wikimedia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casinha_de_prazer_tradicional,_Porto_Santo_-_2021-10-09_-_DSC00605.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Casinha_de_prazer_tradicional%2C_Porto_Santo_-_2021-10-09_-_DSC00605.jpg/1280px-Casinha_de_prazer_tradicional%2C_Porto_Santo_-_2021-10-09_-_DSC00605.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:真庆观 紫微殿 檐.jpg",
+      "description": "Ziwei Palace is a single eave structure, with the hip and gable roof covered with yellow glazed tiles. In the middle of the roof is a gem tower with two Chiweis on both ends. The upward turning eaves splitting into two seperate ridges with beastlike figures on top.",
+      "categories": [
+        "Self-published work",
+        "Ziwei Hall, Zhenqing Taoist Temple"
+      ],
+      "auteur": "Cangminzho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E7%9C%9F%E5%BA%86%E8%A7%82_%E7%B4%AB%E5%BE%AE%E6%AE%BF_%E6%AA%90.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%E7%9C%9F%E5%BA%86%E8%A7%82_%E7%B4%AB%E5%BE%AE%E6%AE%BF_%E6%AA%90.jpg/1280px-%E7%9C%9F%E5%BA%86%E8%A7%82_%E7%B4%AB%E5%BE%AE%E6%AE%BF_%E6%AA%90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7952,
+      "hauteur": 5304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Birmingham City University - Westbourne Road, Edgbaston - City South Campus - Lodge (7817027524).jpg",
+      "description": "Going down Westbourne Road in Edgbaston. This is the City South Campus of Birmingham City University in Edgbaston. Also known as Westbourne Campus. I once went here when it was the UCE, in the previous building (when I was in my last years of Primary School for a day - can't recall why we went here though). Before the UCE, it was the Birmingham Polytechnic Campus in Edgbaston. Lodge near the University. Grade II listed. Lodge to City of Birmingham Polytechnic Men's Hostels, Birmingham WESTBOURNE ROAD 1. 5104 Edgbaston B15 Lodge to the City of Birmingham Polytechnic Men's Hostels SP 0585 NW 39/",
+      "categories": [
+        "Taken with Fujifilm FinePix S2980",
+        "Edgbaston",
+        "Birmingham City University",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "John Henry Chamberlain",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)",
+        "Cross gables"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Birmingham_City_University_-_Westbourne_Road,_Edgbaston_-_City_South_Campus_-_Lodge_(7817027524).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Birmingham_City_University_-_Westbourne_Road%2C_Edgbaston_-_City_South_Campus_-_Lodge_%287817027524%29.jpg/1280px-Birmingham_City_University_-_Westbourne_Road%2C_Edgbaston_-_City_South_Campus_-_Lodge_%287817027524%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:3 & 4 Lindum Terrace, Lincoln.jpg",
+      "description": "3 & 4 Lindum Terrace, Lincoln. c.1850",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (53° N, 1° W)",
+        "Houses in Lincoln, England"
+      ],
+      "auteur": "Tyssil",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3_%26_4_Lindum_Terrace,_Lincoln.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/3_%26_4_Lindum_Terrace%2C_Lincoln.jpg/1280px-3_%26_4_Lindum_Terrace%2C_Lincoln.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2351,
+      "hauteur": 3135
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Klein Noordijk Wilp -01.jpg",
+      "description": "Klein Noordijk estate: plastered square building with basement, two floors and an attic under a flat hipped roof coverde with muffled Old Dutch tiles. The centre bay of the front on the west side, facing the HW Iordensweg has a pointed gable extended just below the roof ridge and a gable roof with air springs with a profiled shelf, crowned by a gable sign. Nationally listed heritage.",
+      "categories": [
+        "Klein Noordijk",
+        "Self-published work",
+        "Rijksmonumenten with known IDs",
+        "2011 in Voorst, Gelderland"
+      ],
+      "auteur": "MarcoSwart",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Klein_Noordijk_Wilp_-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Klein_Noordijk_Wilp_-01.jpg/1280px-Klein_Noordijk_Wilp_-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    }
+  ]
+}

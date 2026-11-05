@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "raccord",
+    "terme": "le raccord",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce qui relie deux tuyaux entre eux ou un tuyau à un appareil : manchon, réduction, union…",
+    "priorite": 2,
+    "requetes": [
+      "pipe fitting",
+      "raccord plomberie",
+      "plumbing fittings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Faltenrohrbogen-1.jpg",
+      "description": "Faltenrohrbogen einer Fernwärmeleitung aus den 1950er bzw. 1960er Jahren auf einer Baustelle in Dresden",
+      "categories": [
+        "Self-published work",
+        "Pipe construction",
+        "Plumbing equipment in Germany",
+        "Elbow pipe fittings",
+        "Photos by SchiDD/2017"
+      ],
+      "auteur": "SchiDD",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Faltenrohrbogen-1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Faltenrohrbogen-1.jpg/1280px-Faltenrohrbogen-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Tapping tee on PE pipe, saddle mount, clamped and elektrofusion welded.jpg",
+      "description": "Elektrofusion tee fitting for gas cutting a hole into main line",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Tee fittings",
+        "Electrofusion welding"
+      ],
+      "auteur": "PalmölCroissant299",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tapping_tee_on_PE_pipe,_saddle_mount,_clamped_and_elektrofusion_welded.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_clamped_and_elektrofusion_welded.jpg/1280px-Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_clamped_and_elektrofusion_welded.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 2676
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Kupferfittings 4062.jpg",
+      "description": "Raccords en cuivre pour plomberie : coude à 45° femelle-femelle, T égal, raccord ; bouchon, coude à 90° femelle-femelle, réducteur, coude à 45° mâle-femelle.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Plumbing",
+        "License migration completed",
+        "Files by User:Torsten Bätge",
+        "Files with derivative versions",
+        "Solder fittings",
+        "Elbow pipe fittings"
+      ],
+      "auteur": "Torsten Bätge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kupferfittings_4062.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kupferfittings_4062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 800
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Tapping tee on PE pipe, saddle mount, halfway cut.jpg",
+      "description": "Elektrofusion tee fitting for gas cutting a hole into main line, detail",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Tee fittings",
+        "Electrofusion welding"
+      ],
+      "auteur": "PalmölCroissant299",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tapping_tee_on_PE_pipe,_saddle_mount,_halfway_cut.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_halfway_cut.jpg/1280px-Tapping_tee_on_PE_pipe%2C_saddle_mount%2C_halfway_cut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1964,
+      "hauteur": 1484
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Al-ofenrohr.jpg",
+      "description": "Aluminisiertes Ofenrohr, an der Stelle der höchsten Betriebstemperatur zeigt sich die chemische Reaktion von Eisen (Stahl) mit Aluminium.",
+      "categories": [
+        "Taken with iPhone 4S",
+        "PD-user",
+        "Stovepipes",
+        "Metal pipes",
+        "Aluminium objects",
+        "Elbow pipe fittings"
+      ],
+      "auteur": "Poc sur Wikipédia allemand",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al-ofenrohr.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Al-ofenrohr.jpg/1280px-Al-ofenrohr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Tés de plomberie.jpg",
+      "description": "Tés de plomberie, à gauche en cuivre, à droite en PVC.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Polyvinyl chloride pipes",
+        "Tee fittings"
+      ],
+      "auteur": "Mini.fb",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:T%C3%A9s_de_plomberie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/T%C3%A9s_de_plomberie.jpg/1280px-T%C3%A9s_de_plomberie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

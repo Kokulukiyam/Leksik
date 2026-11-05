@@ -1,0 +1,189 @@
+{
+  "terme": {
+    "id": "acier",
+    "terme": "l'acier",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Alliage de fer et de carbone, utilisé en profilés, en tôles et en armatures.",
+    "priorite": 1,
+    "requetes": [
+      "steel beams stack",
+      "steel profiles",
+      "structural steel sections"
+    ],
+    "incompatibles": [
+      "acier-galvanise",
+      "inox",
+      "acier-corten",
+      "tole-perforee",
+      "metal-deploye",
+      "tole-larmee",
+      "tole-ondulee",
+      "bardage-metallique",
+      "fer-forge",
+      "fonte"
+    ],
+    "categoriesCommons": [
+      "Category:Steel",
+      "Category:Structural steel",
+      "Category:Steel beams"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Arame, Acervo do Museu Paulista da USP (6).jpg",
+      "description": "Fronha em cambraia de linho, com bordados, ponto à jour e babados.Segundo o livro do tombo: \"fronha de cambraia de linho, branca, com aplicação de bordado. 36 x 57 cm. doação da Sra. Maria Carolina Soares Guimarães\"",
+      "categories": [
+        "Steel",
+        "NeuroMat's partnership with Museu Paulista USP",
+        "Wires",
+        "Files with no machine-readable author",
+        "Uploaded with pattypan",
+        "Santos Dumont Collection",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Items with VRTS permission confirmed",
+        "Pages with complex technique templates",
+        "Artworks with Wikidata item missing genre",
+        "Brass objects",
+        "Artworks digital representation of unknown type of work",
+        "Arame (2) (Santos Dumont Collection)"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arame,_Acervo_do_Museu_Paulista_da_USP_(6).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Arame%2C_Acervo_do_Museu_Paulista_da_USP_%286%29.jpg/1280px-Arame%2C_Acervo_do_Museu_Paulista_da_USP_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A rope on a newly constructed support for preassure tanks 2.jpg",
+      "description": "A rope on a newly constructed support, made from I-beams, for preassure tanks at West Pipe Welding, Gåseberg, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Structural steel",
+        "CC-Zero",
+        "Steel-profiles",
+        "Ropes",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "West Pipe Welding AB",
+        "Steel beams"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_rope_on_a_newly_constructed_support_for_preassure_tanks_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/A_rope_on_a_newly_constructed_support_for_preassure_tanks_2.jpg/1280px-A_rope_on_a_newly_constructed_support_for_preassure_tanks_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4183,
+      "hauteur": 3082
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A wedge on a newly constructed support for preassure tanks 2.jpg",
+      "description": "A rusty metal wedge on a newly constructed support, made from I-beams, for preassure tanks at West Pipe Welding, Gåseberg, Lysekil Municipality, Sweden. Wedges are used at welding workshops when assembling and joining parts, by fixating or lining up different parts of the structure.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Structural steel",
+        "CC-Zero",
+        "Steel-profiles",
+        "Wedges",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "West Pipe Welding AB",
+        "Steel beams"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_wedge_on_a_newly_constructed_support_for_preassure_tanks_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/A_wedge_on_a_newly_constructed_support_for_preassure_tanks_2.jpg/1280px-A_wedge_on_a_newly_constructed_support_for_preassure_tanks_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4328,
+      "hauteur": 2435
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Arame, Acervo do Museu Paulista da USP (4).jpg",
+      "description": "Instrumento de bancada mecânica. Arame flexível.Pertenceu à Alberto Santos Dumont (1873-1932).",
+      "categories": [
+        "Steel",
+        "NeuroMat's partnership with Museu Paulista USP",
+        "Wires",
+        "Arame (1) (Santos Dumont Collection)",
+        "Files with no machine-readable author",
+        "Uploaded with pattypan",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Items with VRTS permission confirmed",
+        "Pages with complex technique templates",
+        "Artworks with Wikidata item missing genre",
+        "Artworks digital representation of unknown type of work"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arame,_Acervo_do_Museu_Paulista_da_USP_(4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Arame%2C_Acervo_do_Museu_Paulista_da_USP_%284%29.jpg/1280px-Arame%2C_Acervo_do_Museu_Paulista_da_USP_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2022 CMP Midtown 勤美之森 construction progress 03.jpg",
+      "description": "CMP Midtown under construction in Taichung",
+      "categories": [
+        "Structural steel",
+        "Self-published work",
+        "Building construction in Taichung",
+        "CMP Midtown"
+      ],
+      "auteur": "SSJF01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2022_CMP_Midtown_%E5%8B%A4%E7%BE%8E%E4%B9%8B%E6%A3%AE_construction_progress_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2022_CMP_Midtown_%E5%8B%A4%E7%BE%8E%E4%B9%8B%E6%A3%AE_construction_progress_03.jpg/1280px-2022_CMP_Midtown_%E5%8B%A4%E7%BE%8E%E4%B9%8B%E6%A3%AE_construction_progress_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dülmen, ehem. Diskothek \"Fantasy\" -- 2020 -- 0183.jpg",
+      "description": "Former discotheque “Fantasy” in Dülmen , North Rhine-Westphalia , Germany",
+      "categories": [
+        "Large waste containers in Germany",
+        "Buildings in Germany photographed in 2020",
+        "Photographs with aspect ratio of 3:2",
+        "Taken with Canon PowerShot G7 X Mark III",
+        "Self-published work",
+        "ISO speed rating 125",
+        "Exposure time 1/640 sec",
+        "Photographs by Dietmar Rabich/Dülmen",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Information field template with formatting",
+        "Photographs by Dietmar Rabich/Quality images of buildings",
+        "F-number f/8",
+        "Demolished buildings in Kreis Coesfeld",
+        "Construction debris",
+        "Buildings with addresses",
+        "Green containers",
+        "Images by XRay (flat list)",
+        "Uploaded with LrMediaWiki",
+        "Construction sites in Dülmen",
+        "Dülmen photographs taken on 2020-02-07",
+        "Photographs by Dietmar Rabich/Architectural photography",
+        "Steel beams",
+        "Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia",
+        "Abandoned places in Dülmen",
+        "Photographs by Dietmar Rabich/Quality images of construction sites",
+        "Photographs by Dietmar Rabich/Year/2020",
+        "Lens focal length 27.386 mm"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_ehem._Diskothek_%22Fantasy%22_--_2020_--_0183.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/D%C3%BClmen%2C_ehem._Diskothek_%22Fantasy%22_--_2020_--_0183.jpg/1280px-D%C3%BClmen%2C_ehem._Diskothek_%22Fantasy%22_--_2020_--_0183.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    }
+  ]
+}

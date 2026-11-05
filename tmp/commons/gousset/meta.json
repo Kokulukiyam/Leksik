@@ -1,0 +1,151 @@
+{
+  "terme": {
+    "id": "gousset",
+    "terme": "le gousset",
+    "categorie": "Structure",
+    "definition": "Plaque d'acier qui réunit plusieurs barres en un même nœud d'une ferme ou d'un contreventement.",
+    "priorite": 2,
+    "requetes": [
+      "gusset plate",
+      "gousset",
+      "gusset plate truss"
+    ],
+    "incompatibles": [
+      "assemblage-boulonne"
+    ],
+    "categoriesCommons": [
+      "Category:Gusset plates",
+      "Category:Steel structures"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Installation of lower-level pre-cast concrete wall which will form the passenger platform in the West Cavern Terminal. (CM007, 10-03-2017) (37501664042).jpg",
+      "description": "Installation of lower-level pre-cast concrete wall which will form the passenger platform in the West Cavern Terminal. (CM007, 10-03-2017)",
+      "categories": [
+        "Taken with Ricoh WG-30",
+        "Gusset plates",
+        "Webbing slings",
+        "Precast concrete elements",
+        "Flickr images reviewed by FlickreviewR 2",
+        "East Side Access construction/2017/10",
+        "Construction of Grand Central Madison",
+        "Flickr files uploaded by Epicgenius"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Installation_of_lower-level_pre-cast_concrete_wall_which_will_form_the_passenger_platform_in_the_West_Cavern_Terminal._(CM007,_10-03-2017)_(37501664042).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Installation_of_lower-level_pre-cast_concrete_wall_which_will_form_the_passenger_platform_in_the_West_Cavern_Terminal._%28CM007%2C_10-03-2017%29_%2837501664042%29.jpg/1280px-Installation_of_lower-level_pre-cast_concrete_wall_which_will_form_the_passenger_platform_in_the_West_Cavern_Terminal._%28CM007%2C_10-03-2017%29_%2837501664042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cutting & Lifting docking pile guide after pilling (3467346026).jpg",
+      "description": "Installation Subsea Template in Su Tu Vang Oil Field",
+      "categories": [
+        "Steel structures",
+        "Flickr images reviewed by FlickreviewR",
+        "Petroleum production in Vietnam"
+      ],
+      "auteur": "Vodka Hanoi",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cutting_%26_Lifting_docking_pile_guide_after_pilling_(3467346026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Cutting_%26_Lifting_docking_pile_guide_after_pilling_%283467346026%29.jpg/1280px-Cutting_%26_Lifting_docking_pile_guide_after_pilling_%283467346026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Forma y fondo; arte conceptual sin concepto. (3370269937).jpg",
+      "description": "Forma y fondo; arte conceptual sin concepto.",
+      "categories": [
+        "Steel structures",
+        "Flickr images reviewed by FlickreviewR",
+        "Red lines",
+        "Photographs by Carlos Adampol Galindo",
+        "Corona del Pedregal de Mathias Goeritz",
+        "Photographs of horizontal lines"
+      ],
+      "auteur": "Carlos Adampol Galindo from DF, México",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Forma_y_fondo;_arte_conceptual_sin_concepto._(3370269937).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Forma_y_fondo%3B_arte_conceptual_sin_concepto._%283370269937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 853
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hubbrücke (Magdeburg).Ostteil.Tragwerk.Detail.1.ajb.jpg",
+      "description": "Historische Hubbrücke über die Elbe in Magdeburg - Träger im Ostteil.",
+      "categories": [
+        "Images from Wiki Loves Monuments 2014 in Germany",
+        "Taken with Nikon D5000",
+        "Hubbrücke Magdeburg",
+        "Gusset plates",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Information field template with formatting",
+        "Images from Wiki Loves Monuments 2014",
+        "2014 in Magdeburg",
+        "Images by Ajepbah",
+        "Images from Wiki Loves Monuments 2014, DE-ST",
+        "Riveted bridges",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Files with coordinates missing SDC location of creation (52° N, 11° E)"
+      ],
+      "auteur": "Ajepbah",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hubbr%C3%BCcke_(Magdeburg).Ostteil.Tragwerk.Detail.1.ajb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hubbr%C3%BCcke_%28Magdeburg%29.Ostteil.Tragwerk.Detail.1.ajb.jpg/1280px-Hubbr%C3%BCcke_%28Magdeburg%29.Ostteil.Tragwerk.Detail.1.ajb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Entrance with escalator to the metro-tube in The Hague, Beatrix-kwartier; high resolution image by FotoDutch, June 2013.jpg",
+      "description": "a close-up photo of the entrance with escalator to the metro-tube-overhead of The Hague: the stop is here Beatrix-kwartier, close to Central Station The Hague, high resolution image by FotoDutch, June 2013",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-GF3",
+        "Reflections",
+        "RandstadRail",
+        "Modernist architecture",
+        "Light scattering",
+        "Concrete columns",
+        "Steel structures",
+        "Concrete architectural elements",
+        "Self-published work",
+        "Entrance stairs",
+        "2013 photographs by Fons Heijnsbroek",
+        "Steel constructions",
+        "Escalators (parallel aside)",
+        "Beatrixkwartier tram stop"
+      ],
+      "auteur": "Fons Heijnsbroek",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Entrance_with_escalator_to_the_metro-tube_in_The_Hague,_Beatrix-kwartier;_high_resolution_image_by_FotoDutch,_June_2013.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Entrance_with_escalator_to_the_metro-tube_in_The_Hague%2C_Beatrix-kwartier%3B_high_resolution_image_by_FotoDutch%2C_June_2013.jpg/1280px-Entrance_with_escalator_to_the_metro-tube_in_The_Hague%2C_Beatrix-kwartier%3B_high_resolution_image_by_FotoDutch%2C_June_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Liesing Seybelsteg Verbindungsplatte 3.jpg",
+      "description": "Gelände der ehemaligen Schleppbahn im Osten von Liesing im Süden Wiens.",
+      "categories": [
+        "Gusset plates",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Seybel-Steg"
+      ],
+      "auteur": "Josef Moser",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Liesing_Seybelsteg_Verbindungsplatte_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Liesing_Seybelsteg_Verbindungsplatte_3.jpg/1280px-Liesing_Seybelsteg_Verbindungsplatte_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    }
+  ]
+}

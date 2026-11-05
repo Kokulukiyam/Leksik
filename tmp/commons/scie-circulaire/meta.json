@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "scie-circulaire",
+    "terme": "la scie circulaire",
+    "categorie": "Chantier et outillage",
+    "definition": "Scie électrique à lame ronde dentée, portative ou sur table, pour débiter le bois et les panneaux.",
+    "priorite": 2,
+    "requetes": [
+      "circular saw",
+      "scie circulaire",
+      "incategory:\"Circular saws\""
+    ],
+    "categoriesCommons": [
+      "Category:Circular saws"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:An underwater view of fuel and oil escaping from the decks of the Ehime Maru, after an remotely operated hydraulic circular saw was used to cut hole in the boats fuel deck - DPLA - 762ae7d5565bca7313daac4427e2838d.jpeg",
+      "description": "The original finding aid described this photograph as: Country: Pacific Ocean (POC) Scene Camera Operator: Unknown Release Status: Released to Public",
+      "categories": [
+        "PD US Military",
+        "Media contributed by the National Archives and Records Administration",
+        "Media contributed by the Digital Public Library of America",
+        "Leaking",
+        "Circular saws",
+        "Ehime Maru (ship, 1996)",
+        "Artworks without Wikidata item",
+        "Media contributed by National Archives at College Park - Still Pictures",
+        "US National Archives series: Combined Military Service Digital Photographic Files, 1982 - 2007"
+      ],
+      "auteur": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_underwater_view_of_fuel_and_oil_escaping_from_the_decks_of_the_Ehime_Maru,_after_an_remotely_operated_hydraulic_circular_saw_was_used_to_cut_hole_in_the_boats_fuel_deck_-_DPLA_-_762ae7d5565bca7313daac4427e2838d.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/An_underwater_view_of_fuel_and_oil_escaping_from_the_decks_of_the_Ehime_Maru%2C_after_an_remotely_operated_hydraulic_circular_saw_was_used_to_cut_hole_in_the_boats_fuel_deck_-_DPLA_-_762ae7d5565bca7313daac4427e2838d.jpeg/1280px-thumbnail.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Agritechnica 2023, Hanover (P1150073).jpg",
+      "description": "Exhibit at Agritechnica 2023",
+      "categories": [
+        "Unmanned vehicles",
+        "Tracked vehicles",
+        "Circular saws",
+        "Self-published work",
+        "Agritechnica 2023 (supported by Wikimedia Deutschland)",
+        "De minimis without reason"
+      ],
+      "auteur": "MB-one",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Agritechnica_2023,_Hanover_(P1150073).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Agritechnica_2023%2C_Hanover_%28P1150073%29.jpg/1280px-Agritechnica_2023%2C_Hanover_%28P1150073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ford 3000 (1).jpg",
+      "description": "Ford 3000 tractor, produced 1965 to 1975",
+      "categories": [
+        "Circular saws",
+        "Ford 3000",
+        "Power take-offs",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Joost J. Bakker"
+      ],
+      "auteur": "Joost J. Bakker from IJmuiden",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ford_3000_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ford_3000_%281%29.jpg/1280px-Ford_3000_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Circular saw guide, Woods and Forests Department(GN13113).jpg",
+      "description": "",
+      "categories": [
+        "CC-Zero",
+        "Circular saws",
+        "Uploaded by Htsa"
+      ],
+      "auteur": "South Australian government photographer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Circular_saw_guide,_Woods_and_Forests_Department(GN13113).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Circular_saw_guide%2C_Woods_and_Forests_Department%28GN13113%29.jpg/1280px-Circular_saw_guide%2C_Woods_and_Forests_Department%28GN13113%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:30th CES integrates with Navy Seabees, Marine Engineers (7307176).jpeg",
+      "description": "A U.S. Marine Corps engineer assigned to Marine Wing Support Squadron 372 guides a saw operator during Operation Turning Point on Vandenberg Space Force Base, Calif., June 14, 2022. Operation Turning Point focused on the accelerated process of building advanced bases, and involved exercises that included simulated airfield attacks, followed by rapid airfield repair, or RADR. (U.S. Space Force photo by Airman 1st Class Ryan Quijas)",
+      "categories": [
+        "Caterpillar vehicles",
+        "Circular saws",
+        "Marine Wing Support Squadron 372",
+        "Files created by the United States Air Force with known IDs",
+        "Taken on missing SDC inception",
+        "Photographs taken on 2022-06-14",
+        "PD US Space Force",
+        "Vandenberg Space Force Base in 2022",
+        "DVIDS files uploaded by OptimusPrimeBot"
+      ],
+      "auteur": "U.S. Space Force photo by Airman 1st Class Ryan Quijas",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:30th_CES_integrates_with_Navy_Seabees,_Marine_Engineers_(7307176).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/30th_CES_integrates_with_Navy_Seabees%2C_Marine_Engineers_%287307176%29.jpeg/1280px-30th_CES_integrates_with_Navy_Seabees%2C_Marine_Engineers_%287307176%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3588,
+      "hauteur": 5186
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ferri saw, Agritechnica 2023, Hanover (P1150069).jpg",
+      "description": "Exhibit at Agritechnica 2023",
+      "categories": [
+        "Circular saws",
+        "Self-published work",
+        "Agritechnica 2023 (supported by Wikimedia Deutschland)",
+        "Quality image candidates by User:MB-one - ready to submit",
+        "Ferri Srl"
+      ],
+      "auteur": "MB-one",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ferri_saw,_Agritechnica_2023,_Hanover_(P1150069).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ferri_saw%2C_Agritechnica_2023%2C_Hanover_%28P1150069%29.jpg/1280px-Ferri_saw%2C_Agritechnica_2023%2C_Hanover_%28P1150069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4320
+    }
+  ]
+}

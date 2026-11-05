@@ -1,0 +1,70 @@
+{
+  "terme": {
+    "id": "radier",
+    "terme": "le radier",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Dalle épaisse en béton armé qui couvre toute l'emprise d'un bâtiment et sert de fondation générale.",
+    "priorite": 2,
+    "requetes": [
+      "raft foundation rebar construction",
+      "radier général béton armé",
+      "mat foundation concrete pour"
+    ],
+    "incompatibles": [
+      "fondation",
+      "dallage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:US Navy 050215-N-2385R-042 Steel Worker 3rd Class Mat Martin, assigned to Naval Mobile Construction Battalion Four Zero (NMCB-40), Detachment Sasebo, operates a mechanized hand tamper to compact the gravel over a foundation.jpg",
+      "description": "Sasebo, Japan (Feb. 15, 2005) - Steel Worker 3rd Class Mat Martin, assigned to Naval Mobile Construction Battalion Four Zero (NMCB-40), Detachment Sasebo, operates a mechanized hand tamper to compact the gravel over a foundation before concrete is poured. The Seabees of NMCB-40 are constructing a pre-engineered building for a fire station in Sakibe Training Area. NMCB-40 is on a regularly scheduled deployment from their homeport in Port Hueneme, Calif. They are scheduled to conduct various upgrades to existing facilities and facility installation projects on board U.S. Fleet Activities, Sasebo",
+      "categories": [
+        "Taken with Nikon D100",
+        "Naval Mobile Construction Battalion 40",
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Photographs taken on 2005-02-15",
+        "United States Fleet Activities Sasebo in the 2000s"
+      ],
+      "auteur": "U.S. Navy photo by Photographer’s Mate 3rd Class Yesenia Rosas",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:US_Navy_050215-N-2385R-042_Steel_Worker_3rd_Class_Mat_Martin,_assigned_to_Naval_Mobile_Construction_Battalion_Four_Zero_(NMCB-40),_Detachment_Sasebo,_operates_a_mechanized_hand_tamper_to_compact_the_gravel_over_a_foundation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/US_Navy_050215-N-2385R-042_Steel_Worker_3rd_Class_Mat_Martin%2C_assigned_to_Naval_Mobile_Construction_Battalion_Four_Zero_%28NMCB-40%29%2C_Detachment_Sasebo%2C_operates_a_mechanized_hand_tamper_to_compact_the_gravel_over_a_foundation.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3008
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:3-1 IMG 5857.jpg",
+      "description": "Mat foundation concrete pour May 2016",
+      "categories": [
+        "TRX",
+        "Self-published work"
+      ],
+      "auteur": "Cycl5168",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3-1_IMG_5857.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/3-1_IMG_5857.jpg/1280px-3-1_IMG_5857.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:August 17, 1999 Izmit earthquake Adapazari (3).jpg",
+      "description": "The bottom of a mat foundation of a tipped building (right side of photograph). This type of foundation is made by pouring concrete over a mat of pebbles. The soil has failed due to liquefaction. Sakarya is to the east of Izmit, north of Arifiye, and west of Duzce. The provincial capital of Sakarya is Adapazari.",
+      "categories": [
+        "PD US NOAA",
+        "Damage of the 1999 İzmit earthquake"
+      ],
+      "auteur": "NOAA National Geophysical Data Center",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:August_17,_1999_Izmit_earthquake_Adapazari_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/August_17%2C_1999_Izmit_earthquake_Adapazari_%283%29.jpg/1280px-August_17%2C_1999_Izmit_earthquake_Adapazari_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1009
+    }
+  ]
+}

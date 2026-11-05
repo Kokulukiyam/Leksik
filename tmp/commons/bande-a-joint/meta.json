@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "bande-a-joint",
+    "terme": "la bande à joint",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Bande de papier ou de fibre noyée dans l'enduit pour masquer et renforcer la jonction entre deux plaques de plâtre.",
+    "priorite": 1,
+    "requetes": [
+      "drywall joint tape mud",
+      "bande à joint placo",
+      "drywall taping"
+    ],
+    "incompatibles": [
+      "plaque-de-platre"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:180726-Z-IL540-1128 (30058183198).jpg",
+      "description": "U.S. Air Force Staff Sgt. Jorden Heinecke, 133rd Civil Engineer Squadron Structures shop, tapes and muds drywall seams within a transportable modular home in Gallup, N.M., July 26, 2018. The homes are being constructed for Navajo Veterans as part of joint Innovative Readiness Training program led by the Naval Mobile Construction Battalion 22 in partnership with the Southwest Indian Foundation.. (U.S. Air National Guard photo by Tech. Sgt. Austen R. Adriaens)",
+      "categories": [
+        "PD US Army",
+        "Minnesota Army National Guard",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by the Minnesota National Guard",
+        "USGov files uploaded by Tyler de Noche with bad file names"
+      ],
+      "auteur": "Minnesota National Guard from St Paul, MN, USA",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:180726-Z-IL540-1128_(30058183198).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/180726-Z-IL540-1128_%2830058183198%29.jpg/1280px-180726-Z-IL540-1128_%2830058183198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4284,
+      "hauteur": 3060
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Drywall reality.jpg",
+      "description": "Drywall assembly required to have a fire-resistance rating, defeated by on site reality with absent firestops , mud and tape.",
+      "categories": [
+        "Building code violations",
+        "Firestops",
+        "Fire dampers",
+        "Drywalls",
+        "Self-published work",
+        "PD-self",
+        "Homemade firestops",
+        "Compromised drywall"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drywall_reality.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Drywall_reality.jpg/1280px-Drywall_reality.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1854,
+      "hauteur": 2408
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Drywall and tools.jpg",
+      "description": "Various sized cuts of 1/2 inch drywall with tools for maintenance and installation",
+      "categories": [
+        "Drywalls",
+        "Self-published work"
+      ],
+      "auteur": "Timothyjosephwood",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drywall_and_tools.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Drywall_and_tools.jpg/1280px-Drywall_and_tools.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2951,
+      "hauteur": 2138
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Drywall firestop problem4.jpg",
+      "description": "Finished, painted, fire-resistance rated drywall assembly. A common deficiency: Lift ceiling tiles and find electrical and mechanical service penetrations without a firestop .",
+      "categories": [
+        "Building code violations",
+        "Firestops",
+        "Drywalls",
+        "Self-published work",
+        "PD-self",
+        "No firestop at all - empty hole",
+        "Compromised drywall"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drywall_firestop_problem4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Drywall_firestop_problem4.jpg/1280px-Drywall_firestop_problem4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3482,
+      "hauteur": 2312
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Drywall splotch.jpg",
+      "description": "Reaction of drywall boards and finishes to a small water leak.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix L110",
+        "Drywalls",
+        "License migration redundant",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Compromised drywall"
+      ],
+      "auteur": "Herbert Blenstein",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drywall_splotch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Drywall_splotch.jpg/1280px-Drywall_splotch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Drywall firestop problem3.jpg",
+      "description": "A code violation waiting to happen: In this case, penetrants have been punched and burned through a drywall assembly required to have a fire-resistance rating. The integrity of the drywall has been seriously compromised at the through-penetration and will be fixed with nothing but drywall mud, whereas a solidly framed opening could have been spared out and sealed in a manner preserving bounding by a speciality firestop subcontractor. Details of this nature illustrate the difference between drywall testing and certification and the compromises made in the field, which would have a very difficul",
+      "categories": [
+        "Plumbing",
+        "Building code violations",
+        "Firestops",
+        "Drywalls",
+        "Self-published work",
+        "PD-self",
+        "Firestop specification problem: Broken workscope",
+        "Compromised drywall"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drywall_firestop_problem3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Drywall_firestop_problem3.jpg/1280px-Drywall_firestop_problem3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2348,
+      "hauteur": 3544
+    }
+  ]
+}

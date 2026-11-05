@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "tirant",
+    "terme": "le tirant",
+    "categorie": "Structure",
+    "definition": "Barre ou câble tendu qui retient deux parties d'un ouvrage, par exemple entre les naissances d'un arc.",
+    "priorite": 2,
+    "requetes": [
+      "tie rod arch",
+      "tirant métallique",
+      "iron tie rod"
+    ],
+    "incompatibles": [
+      "ancre"
+    ],
+    "categoriesCommons": [
+      "Category:Arches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Balat simetri.jpg",
+      "description": "balat simetri",
+      "categories": [
+        "Arches",
+        "Unidentified locations in Turkey",
+        "Self-published work"
+      ],
+      "auteur": "Kivircikkedi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balat_simetri.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Balat_simetri.jpg/1280px-Balat_simetri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:500px photo (66487003).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Arches",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Corentin Monmasson",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(66487003).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/500px_photo_%2866487003%29.jpeg/1280px-500px_photo_%2866487003%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:500px photo (66486993).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Arches",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Corentin Monmasson",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(66486993).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/500px_photo_%2866486993%29.jpeg/1280px-500px_photo_%2866486993%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1366,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Black-and-white-building-house-way (24243548291).jpg",
+      "description": "black-and-white-building-house-way",
+      "categories": [
+        "CC-Zero",
+        "Arches",
+        "Barred windows",
+        "Buildings in unidentified countries",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "www.Pixel.la Free Stock Photos",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Black-and-white-building-house-way_(24243548291).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Black-and-white-building-house-way_%2824243548291%29.jpg/1280px-Black-and-white-building-house-way_%2824243548291%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Airlock Avshalom Cave Exit.jpg",
+      "description": "מנעל אוויר ב מערת הנטיפים (שורק) הנמצא ביציאה, ומווסת את הלחות. ניתן להבחין ב ספרינקלרים בתקרה.",
+      "categories": [
+        "Arches",
+        "Exits",
+        "Self-published work",
+        "Center-parted stairs",
+        "Right-angled positioning",
+        "Striped walls"
+      ],
+      "auteur": "Eliran t",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Airlock_Avshalom_Cave_Exit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Airlock_Avshalom_Cave_Exit.jpg/1280px-Airlock_Avshalom_Cave_Exit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Arco del Salvador (Hellín).jpg",
+      "description": "Arco del Salvador, elemento histórico situado en el casco antiguo de Hellín, en la provincia de Albacete, Castilla-La Mancha.",
+      "categories": [
+        "CC-Zero",
+        "Arches",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Conjunto histórico artístico de Hellín",
+        "Culture of Hellín",
+        "Spain photographs taken on 2026-09-02"
+      ],
+      "auteur": "Hetemacaba",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arco_del_Salvador_(Hell%C3%ADn).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Arco_del_Salvador_%28Hell%C3%ADn%29.jpg/1280px-Arco_del_Salvador_%28Hell%C3%ADn%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    }
+  ]
+}

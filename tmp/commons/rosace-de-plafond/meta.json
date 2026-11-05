@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "rosace-de-plafond",
+    "terme": "la rosace de plafond",
+    "categorie": "Ornement",
+    "definition": "Ornement circulaire en plâtre moulé au centre d'un plafond, souvent autour du point d'accrochage du lustre.",
+    "priorite": 2,
+    "requetes": [
+      "ceiling rose plaster",
+      "ceiling medallion",
+      "rosace de plafond"
+    ],
+    "incompatibles": [
+      "moulure"
+    ],
+    "categoriesCommons": [
+      "Category:Ceiling roses"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Carrickbeg Saint Francis Church Ceiling 2015 09 16.jpg",
+      "description": "Ceiling at the crossing with a plaster rose.",
+      "categories": [
+        "Church ceilings in Ireland",
+        "GFDL",
+        "Saint Francis Church, Carrickbeg",
+        "Ceiling roses",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Photographs by Andreas F. Borchert",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Andreas F. Borchert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carrickbeg_Saint_Francis_Church_Ceiling_2015_09_16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Carrickbeg_Saint_Francis_Church_Ceiling_2015_09_16.jpg/1280px-Carrickbeg_Saint_Francis_Church_Ceiling_2015_09_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2014 Grumbtsche Villa - Treppenhaus 04.JPG",
+      "description": "Decke des Treppenhauses der Grumbtschen Villa in Dresden, Leipziger Vorstadt; Blick vom Obergeschoss",
+      "categories": [
+        "Grumbtsche Villa",
+        "Ceiling roses",
+        "Self-published work",
+        "Photographs by User:Derbrauni",
+        "Staircases in Dresden",
+        "Dresden photographs taken on 2014-02-08"
+      ],
+      "auteur": "Derbrauni",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014_Grumbtsche_Villa_-_Treppenhaus_04.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2014_Grumbtsche_Villa_-_Treppenhaus_04.JPG/1280px-2014_Grumbtsche_Villa_-_Treppenhaus_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Clonmel Irishtown St. Mary's Church of the Assumption Crossing Ceiling 2012 09 06.jpg",
+      "description": "Plastered ceiling of the crossing.",
+      "categories": [
+        "Church ceilings in Ireland",
+        "GFDL",
+        "Taken with Canon EOS 30D",
+        "Ceiling roses",
+        "License migration redundant",
+        "Interior of St. Mary's Church of the Assumption, Clonmel",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Photographs by Andreas F. Borchert"
+      ],
+      "auteur": "Andreas F. Borchert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clonmel_Irishtown_St._Mary%27s_Church_of_the_Assumption_Crossing_Ceiling_2012_09_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Clonmel_Irishtown_St._Mary%27s_Church_of_the_Assumption_Crossing_Ceiling_2012_09_06.jpg/1280px-Clonmel_Irishtown_St._Mary%27s_Church_of_the_Assumption_Crossing_Ceiling_2012_09_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ghriba3.jpg",
+      "description": "Vue intérieure de la synagogue de la Ghriba sur l'île de Djerba.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W130",
+        "Interior of El Ghriba Synagogue (Djerba)",
+        "Ceiling roses",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Ceilings in Tunisia"
+      ],
+      "auteur": "Hegor",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ghriba3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Ghriba3.jpg/1280px-Ghriba3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ceiling rose in the Lodge Room, Liskeard Masonic Hall, Cornwall - September 2026.jpg",
+      "description": "Ceiling rose in the Lodge Room, Liskeard Masonic Hall, Cornwall - September 2026",
+      "categories": [
+        "Ceiling roses",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Images by Mutney",
+        "Files with coordinates missing SDC location of creation (50° N, 5° W)",
+        "September 2026 in Cornwall",
+        "England photographs taken on 2026-09-12",
+        "2026 images by Mutney",
+        "Lodge room, Liskeard Masonic Hall"
+      ],
+      "auteur": "Mutney",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_rose_in_the_Lodge_Room,_Liskeard_Masonic_Hall,_Cornwall_-_September_2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ceiling_rose_in_the_Lodge_Room%2C_Liskeard_Masonic_Hall%2C_Cornwall_-_September_2026.jpg/1280px-Ceiling_rose_in_the_Lodge_Room%2C_Liskeard_Masonic_Hall%2C_Cornwall_-_September_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3062,
+      "hauteur": 2198
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bath Guildhall, Council chamber, ceiling rose.jpg",
+      "description": "Ceiling rose in the Council chamber, Bath Guildhall.",
+      "categories": [
+        "Ceiling roses",
+        "Guildhall, Bath",
+        "Self-published work",
+        "Ceilings in Somerset",
+        "Interiors of town halls in England",
+        "Building interiors in Bath, Somerset"
+      ],
+      "auteur": "Rwendland",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bath_Guildhall,_Council_chamber,_ceiling_rose.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bath_Guildhall%2C_Council_chamber%2C_ceiling_rose.jpg/1280px-Bath_Guildhall%2C_Council_chamber%2C_ceiling_rose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    }
+  ]
+}

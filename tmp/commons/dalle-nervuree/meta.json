@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "dalle-nervuree",
+    "terme": "la dalle nervurée",
+    "categorie": "Structure",
+    "definition": "Dalle de béton dont la sous-face montre des nervures parallèles régulièrement espacées.",
+    "priorite": 2,
+    "requetes": [
+      "ribbed slab concrete underside",
+      "dalle nervurée",
+      "one way joist slab"
+    ],
+    "incompatibles": [
+      "dalle",
+      "dalle-caissonnee"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs",
+      "Category:Concrete ceilings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:City of London Cemetery Alvin Brown grave cross concrete ledger slab 1.jpg",
+      "description": "Alvin Brown (died 2019 age 87) grave wooden cross and concrete ledger stone slab base in the City of London Cemetery , Aldersbrook Road, Newham , England. Mobile device view : Wikimedia (June 2020) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on City of London Cemetery and Crematorium , and this uploader's Photos . You can add a click-through 'categories' button to the very bottom of photo-pages you view by going to settings... three-bar icon top left. Desktop view : Wikimedia (June 2020) makes it difficult to immediat",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Graves in London",
+        "Concrete slabs",
+        "Self-published work",
+        "Gravestones in London",
+        "London photographs taken on 2020-05-20",
+        "Wooden crosses in the United Kingdom",
+        "Dappled light and shadow in London",
+        "Monuments and memorials in the City of London Cemetery",
+        "Acabashi photos: City of London Cemetery and Crematorium",
+        "London photos taken with Canon EOS 6D Mark II",
+        "Spring in the London Borough of Newham",
+        "May 2020 at the City of London Cemetery and Crematorium"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:City_of_London_Cemetery_Alvin_Brown_grave_cross_concrete_ledger_slab_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/City_of_London_Cemetery_Alvin_Brown_grave_cross_concrete_ledger_slab_1.jpg/1280px-City_of_London_Cemetery_Alvin_Brown_grave_cross_concrete_ledger_slab_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3472,
+      "hauteur": 5208
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Castelo de São Jorge DSC 0065 (17293633411).jpg",
+      "description": "DSC_0065",
+      "categories": [
+        "Concrete ceilings",
+        "Flickr images reviewed by FlickreviewR",
+        "Paço Real da Alcáçova"
+      ],
+      "auteur": "kenward",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castelo_de_S%C3%A3o_Jorge_DSC_0065_(17293633411).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Castelo_de_S%C3%A3o_Jorge_DSC_0065_%2817293633411%29.jpg/1280px-Castelo_de_S%C3%A3o_Jorge_DSC_0065_%2817293633411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Copped Hall kitchen walled garden, compost bin, Essex, England 1.jpg",
+      "description": "A compost heap bin at the northwest of the walled garden, called 'The Kitchen Garden', 390 yards (360 m) northwest from Copped Hall , aka Copt Hall or Copthall, a Grade II listed country house , 1.5 miles (2 km) west from the town of Epping , Essex , England. The house and its ancillary buildings are within the civil parish of Epping Upland , with the larger part of the gardens to the west, in Waltham Abbey . The present mid-18th-century Georgian hall replaced an earlier Elizabethan hall by Sir Thomas Heneage . It was destroyed by fire in 1917, with it and its gardens suffering further 20th-ce",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Compost",
+        "Compost bins",
+        "Concrete slabs",
+        "Photographs with aspect ratio of 5:4",
+        "Self-published work",
+        "Winter in Essex",
+        "Waste management in England",
+        "Winter 2018-2019 in the United Kingdom",
+        "February 2019 in Essex",
+        "Acabashi photos: Copped Hall",
+        "Acabashi photos: detritus",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "England photographs taken on 2019-02-17",
+        "Copped Hall walled kitchen garden",
+        "Concrete panels"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Copped_Hall_kitchen_walled_garden,_compost_bin,_Essex,_England_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Copped_Hall_kitchen_walled_garden%2C_compost_bin%2C_Essex%2C_England_1.jpg/1280px-Copped_Hall_kitchen_walled_garden%2C_compost_bin%2C_Essex%2C_England_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3328
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Gummersbach - Sankt Franziskus in 02 ies.jpg",
+      "description": "Sankt Franziskus in Gummersbach",
+      "categories": [
+        "Ceiling light fixtures in Germany",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "License migration redundant",
+        "Interior of St. Franziskus (Gummersbach)",
+        "Concrete ceilings",
+        "Lighting design",
+        "Self-published work"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gummersbach_-_Sankt_Franziskus_in_02_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Gummersbach_-_Sankt_Franziskus_in_02_ies.jpg/1280px-Gummersbach_-_Sankt_Franziskus_in_02_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3882,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:19870724030NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße 51-55/ Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Links: Faserbeton-Wetterschale der IHS Cottbus, rechts Schaumbetonaußenwandplatte der IHS Cottbus. [R19870724A07.jpg]19870724030NR.JPG(c)Blobelt",
+      "categories": [
+        "Facades in Germany",
+        "WBS 70",
+        "Concrete slabs",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Concrete panels",
+        "Flächige Feinkornbetonelemente"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2434,
+      "hauteur": 2996
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Elementdecke 2.jpg",
+      "description": "precast ceiling element",
+      "categories": [
+        "Taken with HP PhotoSmart 318",
+        "Concrete ceilings",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "sarang",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Elementdecke_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Elementdecke_2.jpg/1280px-Elementdecke_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1792,
+      "hauteur": 1200
+    }
+  ]
+}

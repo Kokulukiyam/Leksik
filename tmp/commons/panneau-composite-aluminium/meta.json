@@ -1,0 +1,37 @@
+{
+  "terme": {
+    "id": "panneau-composite-aluminium",
+    "terme": "le panneau composite aluminium",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Panneau plan et lisse de deux feuilles d'aluminium laquées collées sur une âme, posé en cassettes sur les façades.",
+    "priorite": 2,
+    "requetes": [
+      "aluminium composite panel facade",
+      "ACM cladding building",
+      "panneau composite aluminium façade"
+    ],
+    "incompatibles": [
+      "bardage",
+      "aluminium"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Arne jacobsen, NOVO factories, copenhagen 1966-1969 (4753283616).jpg",
+      "description": "NOVO industri, factories, copenhagen, denmark 1966-1969. architect: arne jacobsen, 1902-1971. the factories show extreme minimalism by jacobsen with long facades of identical aluminium sandwich panels. the lower lamps in front of the facade were originally designed by jacobsen for rødovre town hall square. not his most interesting design, but still a lot better than the replacement you see in rødovre today. here at NOVO, the level of maintenance and the survival of original details all add up to an exceptionally complete image of industrial architecture in the 20th century. more jacobsen.",
+      "categories": [
+        "Buildings by Arne Jacobsen",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Aluminium composite materials"
+      ],
+      "auteur": "seier+seier",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arne_jacobsen,_NOVO_factories,_copenhagen_1966-1969_(4753283616).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Arne_jacobsen%2C_NOVO_factories%2C_copenhagen_1966-1969_%284753283616%29.jpg/1280px-Arne_jacobsen%2C_NOVO_factories%2C_copenhagen_1966-1969_%284753283616%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3993,
+      "hauteur": 3993
+    }
+  ]
+}

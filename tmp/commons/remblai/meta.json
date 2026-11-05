@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "remblai",
+    "terme": "le remblai",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Terre ou matériau rapporté et compacté pour combler une fouille, rehausser un terrain ou remplir l'intérieur des fondations.",
+    "priorite": 2,
+    "requetes": [
+      "backfill soil foundation construction",
+      "remblai compacté fondation",
+      "backfilling trench"
+    ],
+    "categoriesCommons": [
+      "Category:Embankments",
+      "Category:Earthworks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Deich6.jpg",
+      "description": "Deich6",
+      "categories": [
+        "Copyrighted free use",
+        "Embankments"
+      ],
+      "auteur": "de:Benutzer:Ralf Roletschek",
+      "licence": "Copyrighted free use",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deich6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Deich6.jpg/1280px-Deich6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2832,
+      "hauteur": 1575
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Manchas vermelhas de argila em parede.jpg",
+      "description": "Manchas de argila na base das paredes de construções são comuns em áreas com solo argiloso. Quanto mais vermelhas forem as manchas, maior deve ser o conteúdo de óxido de ferro no solo. A hematita costuma ser o óxido de ferro predominante nestes casos.",
+      "categories": [
+        "CC-Zero",
+        "Walls",
+        "Earthworks",
+        "Iron oxides",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil photographs taken on 2022-05-15"
+      ],
+      "auteur": "Prof. Dr. Alessandro Samuel-Rosa",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Manchas_vermelhas_de_argila_em_parede.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Manchas_vermelhas_de_argila_em_parede.jpg/1280px-Manchas_vermelhas_de_argila_em_parede.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Burgos 1990 12.jpg",
+      "description": "People sitting at El Espolón promenade, on the right embankment of Arlanzón River. Burgos, Castile and León, Spain",
+      "categories": [
+        "Embankments",
+        "Paseo del Espolón",
+        "Self-published work",
+        "Stone walls in Castile and León",
+        "Photographs by LBM1948",
+        "1990 in Burgos",
+        "Salix babylonica in Spain",
+        "Ashlar work in Spain",
+        "Limestone (building material)",
+        "People in Burgos"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Burgos_1990_12.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Burgos_1990_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1044,
+      "hauteur": 693
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Excavator dumping dirt close-up 03.jpg",
+      "description": "A close-up of a digger dropping dirt",
+      "categories": [
+        "Excavators",
+        "Earthworks",
+        "Excavator buckets",
+        "Self-published work",
+        "Falling objects",
+        "Images by Panamitsu"
+      ],
+      "auteur": "Panamitsu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Excavator_dumping_dirt_close-up_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Excavator_dumping_dirt_close-up_03.jpg/1280px-Excavator_dumping_dirt_close-up_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bratislava Danube Embankment R01.jpg",
+      "description": "Bratislava (Slovaquie) : quai du Danube Rázusovo nábrežie",
+      "categories": [
+        "Taken with Nikon D90",
+        "Embankments",
+        "Self-published work",
+        "Images by MJJR",
+        "Files with coordinates missing SDC location of creation",
+        "Danube in Bratislava in 2010",
+        "Most SNP"
+      ],
+      "auteur": "Marc Ryckaert ( MJJR )",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bratislava_Danube_Embankment_R01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Bratislava_Danube_Embankment_R01.jpg/1280px-Bratislava_Danube_Embankment_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3088,
+      "hauteur": 2106
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Flugpiste Bach mit Bulldozerfahrer.jpg",
+      "description": "Sachkhere (Georgia) September 2003 klamurke.com/Soziales/sachkhere.htm (auf Deutsch; in German) en español: klamurke.com/Soziales/sachkhere_es.htm",
+      "categories": [
+        "Earthworks",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Georgia (country) photographs taken on 2003-08-20",
+        "Raymond Zoller's photos",
+        "Sachkhere Airfield"
+      ],
+      "auteur": "Raymond Zoller from Tbilisi, Georgia",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flugpiste_Bach_mit_Bulldozerfahrer.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Flugpiste_Bach_mit_Bulldozerfahrer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    }
+  ]
+}

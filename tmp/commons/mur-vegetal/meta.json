@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "mur-vegetal",
+    "terme": "le mur végétal",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade ou mur couvert de plantes cultivées sur un support vertical, avec arrosage intégré.",
+    "priorite": 2,
+    "requetes": [
+      "green wall facade",
+      "mur végétal",
+      "incategory:\"Green walls\""
+    ],
+    "incompatibles": [
+      "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Vertical gardens"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Caixa Forum Living Wall Madrid, as it appeared in 2008..jpg",
+      "description": "The Caixa Forum Living Wall, Madrid, Spain, belonging to the Caixa Forum Museum. Image from 2008. Designed by Patrick Blanc and completed in 2007, it is a vertical garden made up of between 15,000-17,000 plants.",
+      "categories": [
+        "Self-published work",
+        "Vertical gardens",
+        "CaixaForum Madrid vertical garden"
+      ],
+      "auteur": "Wikijanieo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caixa_Forum_Living_Wall_Madrid,_as_it_appeared_in_2008..jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Caixa_Forum_Living_Wall_Madrid%2C_as_it_appeared_in_2008..jpg/1280px-Caixa_Forum_Living_Wall_Madrid%2C_as_it_appeared_in_2008..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fuga verde.jpg",
+      "description": "Sitio : Edificio de oficinas Metro Office 1",
+      "categories": [
+        "Buenos Aires",
+        "Self-published work",
+        "Vertical gardens",
+        "Files from Open Foto Buenos Aires 2016",
+        "Argentina photographs taken on 2015-11-01"
+      ],
+      "auteur": "Flor Cabaleiro",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fuga_verde.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Fuga_verde.jpg/1280px-Fuga_verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Capel Manor College Gardens Vertical wall garden 02.jpg",
+      "description": "Vertical wall garden at Capel Manor College and Gardens , Bulls Cross , Enfield , London , England. Camera : Canon EOS 6D Mark II with Canon EF 24-105mm F4L IS USM lens. Software : DxO ProLab 7 Elite .",
+      "categories": [
+        "Capel Manor College and Gardens",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Vertical gardens",
+        "Plants in the London Borough of Enfield",
+        "Flora of London in February",
+        "Plants in winter",
+        "2025 in the London Borough of Enfield",
+        "Winter 2024-2025 in England",
+        "February 2025 in London",
+        "England photographs taken on 2025-02-25",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "Acabashi photos:Capel Manor Gardens",
+        "London photos taken with Canon EOS 6D Mark II",
+        "Winter of 2024-2025 in London",
+        "Gardens photographed in 2025",
+        "Green walls (sustainability) in London"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capel_Manor_College_Gardens_Vertical_wall_garden_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Capel_Manor_College_Gardens_Vertical_wall_garden_02.jpg/1280px-Capel_Manor_College_Gardens_Vertical_wall_garden_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6188,
+      "hauteur": 3481
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fraisse-sur-Agout jardin vertical.JPG",
+      "description": "Fraisse-sur-Agout ( Hérault ) - jardin vertical.",
+      "categories": [
+        "Taken with Canon EOS 350D",
+        "Fraisse-sur-Agout",
+        "Gardens in Hérault",
+        "Self-published work",
+        "Vertical gardens",
+        "Images by User:Fagairolles 34",
+        "August 2008 in Hérault",
+        "Green walls (sustainability) in France",
+        "Files with coordinates missing SDC location of creation",
+        "France photographs taken on 2008-08-13"
+      ],
+      "auteur": "Fagairolles 34",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fraisse-sur-Agout_jardin_vertical.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Fraisse-sur-Agout_jardin_vertical.JPG/1280px-Fraisse-sur-Agout_jardin_vertical.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Art Gro.jpg",
+      "description": "озеленение",
+      "categories": [
+        "Self-published work",
+        "Vertical gardens"
+      ],
+      "auteur": "Furosya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Art_Gro.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Art_Gro.jpg/1280px-Art_Gro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3555,
+      "hauteur": 2514
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A living wall on the side of the public toilets - geograph.org.uk - 7794581.jpg",
+      "description": "A living wall on the side of the public toilets",
+      "categories": [
+        "Henley-on-Thames",
+        "Images from Geograph Britain and Ireland",
+        "Vertical gardens",
+        "Green walls (sustainability) in England"
+      ],
+      "auteur": "Steve Daniels",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_living_wall_on_the_side_of_the_public_toilets_-_geograph.org.uk_-_7794581.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/A_living_wall_on_the_side_of_the_public_toilets_-_geograph.org.uk_-_7794581.jpg/1280px-A_living_wall_on_the_side_of_the_public_toilets_-_geograph.org.uk_-_7794581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    }
+  ]
+}

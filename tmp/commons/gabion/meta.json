@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "gabion",
+    "terme": "le gabion",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Cage en grillage d'acier remplie de pierres, empilée pour former murs et soutènements.",
+    "priorite": 2,
+    "requetes": [
+      "gabion wall",
+      "gabion",
+      "incategory:\"Gabions\""
+    ],
+    "incompatibles": [
+      "mur-de-soutenement"
+    ],
+    "categoriesCommons": [
+      "Category:Gabions"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Gabione 2011-by-RaBoe-02.jpg",
+      "description": "mix",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D90",
+        "Gabions",
+        "License migration redundant",
+        "Self-published work",
+        "Images by RaBoe",
+        "User:Raboe001/Skillshare",
+        "Sindelfingen Haus & Energie 2012"
+      ],
+      "auteur": "© Ra Boe / Wikipedia - Pour créer facilement l'attribution requis pour votre utilisation, cliquer sur ce bouton! Ce fichier est disponible selon les termes de la licence Creative Commons Attribution –",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gabione_2011-by-RaBoe-02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Gabione_2011-by-RaBoe-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1111,
+      "hauteur": 738
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Gabions overgrown with vegetation.jpg",
+      "description": "Een schanskorf gebruikt als vooroeververdediging langs de Overijsselsche Vecht, Lange Kampen - Hardenberg, milieuvriendelijke oever. Plasberm verdedigd met schanskorven. Hoogte schanskorf op stuwpeil. Aangelegd in 1986, de foto is van 1990",
+      "categories": [
+        "Gabions",
+        "Gabions in the Netherlands",
+        "Files with coordinates missing SDC location of creation (52° N, 6° E)"
+      ],
+      "auteur": "G.J. Verkade",
+      "licence": "CC BY 3.0 nl",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gabions_overgrown_with_vegetation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Gabions_overgrown_with_vegetation.jpg/1280px-Gabions_overgrown_with_vegetation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5444,
+      "hauteur": 3649
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gabioun 01.jpg",
+      "description": "Eng Gabioun mat sortéierter Front - 15. Mee 2008.",
+      "categories": [
+        "Gabions",
+        "Self-published work",
+        "Files tagged CC-by-sa-old"
+      ],
+      "auteur": "PlayMistyForMe sur Wikipédia luxembourgeois",
+      "licence": "CC BY-SA 1.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gabioun_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Gabioun_01.jpg/1280px-Gabioun_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1686,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dzelzceļa uzbēruma neaizpildītie gabioni.jpg",
+      "description": "Dzelzceļa uzbēruma neaizpildītie gabioni",
+      "categories": [
+        "Gabions",
+        "Self-published work",
+        "2009 in rail transport in Latvia",
+        "Latvia photographs taken on 2009-12-10"
+      ],
+      "auteur": "Dzelzceļnieks",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dzelzce%C4%BCa_uzb%C4%93ruma_neaizpild%C4%ABtie_gabioni.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dzelzce%C4%BCa_uzb%C4%93ruma_neaizpild%C4%ABtie_gabioni.jpg/1280px-Dzelzce%C4%BCa_uzb%C4%93ruma_neaizpild%C4%ABtie_gabioni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Manantial rocoso.jpg",
+      "description": "Manantial cerca al municipio de Fomeque - Cundinamarca",
+      "categories": [
+        "Rivers of Colombia",
+        "Gabions",
+        "Fómeque",
+        "Self-published work",
+        "Landscapes of Colombia",
+        "Uploaded via Campaign:wikivacaciones2016",
+        "Wikivacaciones 2016"
+      ],
+      "auteur": "J.J.P. Santiago",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Manantial_rocoso.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Manantial_rocoso.jpg/1280px-Manantial_rocoso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ogrodzenie gabionowe progress.jpg",
+      "description": "Ogrodzenie gabionowe Progress",
+      "categories": [
+        "Gabions"
+      ],
+      "auteur": "Progress Architektura",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ogrodzenie_gabionowe_progress.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ogrodzenie_gabionowe_progress.jpg/1280px-Ogrodzenie_gabionowe_progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1477
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "tuile-mecanique",
+    "terme": "la tuile mécanique",
+    "categorie": "Toitures",
+    "definition": "Tuile moulée à emboîtement, munie de nervures et de tenons qui s'accrochent aux liteaux.",
+    "priorite": 2,
+    "requetes": [
+      "interlocking clay roof tiles",
+      "tuile mécanique",
+      "Marseille roof tiles"
+    ],
+    "incompatibles": [
+      "tuile"
+    ],
+    "categoriesCommons": [
+      "Category:Roof tiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Coping - Flickr - peganum.jpg",
+      "description": "coping",
+      "categories": [
+        "Roof tiles",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Steve Law",
+        "Files uploaded by Josve05a (peganum)"
+      ],
+      "auteur": "peganum from Small Dole, England",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coping_-_Flickr_-_peganum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Coping_-_Flickr_-_peganum.jpg/1280px-Coping_-_Flickr_-_peganum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dachpfannenprofil montiert.jpeg",
+      "description": "Dachpfannenblech Nordblech Klassik mit farbigen Edelstahlschrauben montiert",
+      "categories": [
+        "Roof tiles",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "HNB Nordbleche GmbH",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannenprofil_montiert.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Dachpfannenprofil_montiert.jpeg/1280px-Dachpfannenprofil_montiert.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1836
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dachpfannen in Asendorf 001.JPG",
+      "description": "spanische Dachpfannen",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "GPL",
+        "Roof tiles"
+      ],
+      "auteur": "Syker Fotograf",
+      "licence": "GPL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachpfannen_in_Asendorf_001.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Dachpfannen_in_Asendorf_001.JPG/1280px-Dachpfannen_in_Asendorf_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bygningsartikel Companiet - no-nb digifoto 20160128 00081 NB NS 000445L.jpg",
+      "description": "Bildet er hentet fra Nasjonalbibliotekets bildesamling. Anmerkninger til bildet var: Påskrift arkivark: Bygningsartikel Companiet Påskrift eske: Statens Brændselsstyre Eldste arkivnummer: 445 Oslo, Oslo, Oslo",
+      "categories": [
+        "Dock workers",
+        "Roof tiles",
+        "PD Norway",
+        "Transport in Oslo",
+        "Images from Nasjonalbiblioteket",
+        "Historical images of trucks in Norway",
+        "Photographs by Narve Skarpmoen",
+        "Files uploaded by Nasjonalbiblioteket-bot",
+        "Historical images of Oslo harbour"
+      ],
+      "auteur": "Narve Skarpmoen",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bygningsartikel_Companiet_-_no-nb_digifoto_20160128_00081_NB_NS_000445L.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bygningsartikel_Companiet_-_no-nb_digifoto_20160128_00081_NB_NS_000445L.jpg/1280px-Bygningsartikel_Companiet_-_no-nb_digifoto_20160128_00081_NB_NS_000445L.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7210,
+      "hauteur": 5410
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Clay Roof Slats (3232142388).jpg",
+      "description": "Clay Roof Slats",
+      "categories": [
+        "Roof tiles",
+        "February 2007 in Cuba",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Chris McBrien from Barrie, ON, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clay_Roof_Slats_(3232142388).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Clay_Roof_Slats_%283232142388%29.jpg/1280px-Clay_Roof_Slats_%283232142388%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2631,
+      "hauteur": 1752
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bajouca, Portugal (105504374).jpg",
+      "description": "Bajouca, Portugal [2006]",
+      "categories": [
+        "Taken with Nikon D50",
+        "Roof tiles",
+        "Bajouca",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Rosino"
+      ],
+      "auteur": "Rosino",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bajouca,_Portugal_(105504374).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Bajouca%2C_Portugal_%28105504374%29.jpg/1280px-Bajouca%2C_Portugal_%28105504374%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "lavabo",
+    "terme": "le lavabo",
+    "categorie": "Réseaux et équipements",
+    "definition": "Cuvette fixée au mur ou posée sur un meuble, alimentée par un robinet, servant à se laver les mains et le visage.",
+    "priorite": 1,
+    "requetes": [
+      "washbasin bathroom",
+      "lavabo salle de bain",
+      "sink bathroom ceramic"
+    ],
+    "categoriesCommons": [
+      "Category:Bathroom sinks",
+      "Category:Sinks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2020-08-16 things places in south korea IMG 0289.jpg",
+      "description": "Unidentified places in South Korea",
+      "categories": [
+        "CC-Zero",
+        "FAL",
+        "Self-published work",
+        "Bathroom sinks",
+        "Bathrooms in South Korea",
+        "Files with coordinates missing SDC location of creation",
+        "18 August 2020 Uploads by Choi Kwangmo"
+      ],
+      "auteur": "Choi Kwang-mo",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2020-08-16_things_places_in_south_korea_IMG_0289.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2020-08-16_things_places_in_south_korea_IMG_0289.jpg/1280px-2020-08-16_things_places_in_south_korea_IMG_0289.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:-i---i- (46736614501).jpg",
+      "description": "",
+      "categories": [
+        "Sinks",
+        "Media lacking a description",
+        "Files from Flickr with bad file names",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Thomas Woodtli",
+        "Uploads by Matlin with bad file names",
+        "Photos uploaded from Flickr by Matlin (needing check) with bad file names"
+      ],
+      "auteur": "Thomas Woodtli from Zürich, Switzerland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-i---i-_(46736614501).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/-i---i-_%2846736614501%29.jpg/1280px--i---i-_%2846736614501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2020-09-24 21 06 04 A bathroom sink and toilet in a room with a single king-size bed at the Ramada by Wyndham Rochelle Park in Rochelle Park Township, Bergen County, New Jersey.jpg",
+      "description": "A bathroom sink and toilet in a room with a single king-size bed at the Ramada by Wyndham Rochelle Park in Rochelle Park Township, Bergen County, New Jersey",
+      "categories": [
+        "Self-published work",
+        "Bathroom sinks",
+        "September 2020 in New Jersey",
+        "Bathrooms in New Jersey",
+        "United States photographs taken on 2020-09-24",
+        "Hotel bathrooms",
+        "Famartin's 2020 photos",
+        "Famartin's September 2020 photos",
+        "Ramada by Wyndham Rochelle Park Near Paramus"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2020-09-24_21_06_04_A_bathroom_sink_and_toilet_in_a_room_with_a_single_king-size_bed_at_the_Ramada_by_Wyndham_Rochelle_Park_in_Rochelle_Park_Township,_Bergen_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2020-09-24_21_06_04_A_bathroom_sink_and_toilet_in_a_room_with_a_single_king-size_bed_at_the_Ramada_by_Wyndham_Rochelle_Park_in_Rochelle_Park_Township%2C_Bergen_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chrome concept.JPG",
+      "description": "All the equipment is united by a elliptical shape.",
+      "categories": [
+        "Sinks",
+        "Showers",
+        "Bathroom equipment",
+        "Self-published work",
+        "Bathroom furniture"
+      ],
+      "auteur": "Juliros",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chrome_concept.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Chrome_concept.JPG/1280px-Chrome_concept.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 800
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:123 Colònia de Borgonyà, interior d'una casa obrera, lavabo.JPG",
+      "description": "Cette image a été versée dans le cadre de Wiki Loves Monuments 2015 .",
+      "categories": [
+        "Borgonyà",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2015",
+        "Bathroom sinks",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Bathrooms in Catalonia",
+        "Images from Wiki Loves Monuments 2015 in Spain",
+        "Images from Wiki Loves Monuments 2015 in Spain - Semifinalists",
+        "All media supported by Wikimedia España in 2015",
+        "Spain photographs taken on 2015-09-20",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts",
+        "Images of monuments of Spain with existing photographs WLM 2015",
+        "Images from Wiki Loves Monuments 2015 in Spain, reviewed"
+      ],
+      "auteur": "Enric",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:123_Col%C3%B2nia_de_Borgony%C3%A0,_interior_d%27una_casa_obrera,_lavabo.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/123_Col%C3%B2nia_de_Borgony%C3%A0%2C_interior_d%27una_casa_obrera%2C_lavabo.JPG/1280px-123_Col%C3%B2nia_de_Borgony%C3%A0%2C_interior_d%27una_casa_obrera%2C_lavabo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:AHI Treasures of Southern Africa C 256 (666088714).jpg",
+      "description": "Lizard in the only sink in the women's bathroom, at the entrance to Chobe National Park, Botswana, Africa.",
+      "categories": [
+        "Lizards",
+        "Taken with Canon Digital IXUS 60",
+        "Sinks",
+        "2007 in Africa",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files uploaded by Orizan",
+        "Reptiles of Chobe National Park",
+        "Photographs by Joe Ross"
+      ],
+      "auteur": "Joe Ross from Lansing, Michigan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AHI_Treasures_of_Southern_Africa_C_256_(666088714).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/AHI_Treasures_of_Southern_Africa_C_256_%28666088714%29.jpg/1280px-AHI_Treasures_of_Southern_Africa_C_256_%28666088714%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    }
+  ]
+}

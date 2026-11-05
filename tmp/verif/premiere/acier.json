@@ -1,0 +1,53 @@
+{
+  "termId": "acier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Câble métallique et pièce d'atelier sur fond blanc (objet de musée).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée, pas une illustration architecturale."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Corde enroulée sur une poutre en I galvanisée, au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La corde domine ; acier galvanisé, doute."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cale rouillée posée sur des profilés galvanisés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Acier galvanisé et cale rouillée, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fil métallique enroulé sur fond blanc (objet de musée).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une image architecturale."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chantier urbain avec échafaudages, arbres et voitures au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Acier non identifiable, trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ancienne discothèque en démolition, gravats et benne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Acier non lisible, image sans rapport clair."
+    }
+  ]
+}

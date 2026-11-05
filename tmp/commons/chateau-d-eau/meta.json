@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "chateau-d-eau",
+    "terme": "le château d'eau",
+    "categorie": "Réseaux et équipements",
+    "definition": "Réservoir d'eau surélevé sur un fût ou des poteaux, qui alimente un réseau par gravité.",
+    "priorite": 1,
+    "requetes": [
+      "water tower",
+      "château d'eau",
+      "incategory:\"Water towers\""
+    ],
+    "categoriesCommons": [
+      "Category:Water towers",
+      "Category:Water towers in Africa"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ancien château d'eau plaque commémorative 1931.jpg",
+      "description": "cette plaque commémore 1/ la fourniture d'eau à la commune par le propriétaire du château et son puits 2/ les 19 personnes qui ont souscrit l'emprunt de la commune pour bâtir cet édifice, et qui ont été remboursés à partir de 1932",
+      "categories": [
+        "Water towers",
+        "Jacou",
+        "Self-published work"
+      ],
+      "auteur": "Olive34830",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancien_ch%C3%A2teau_d%27eau_plaque_comm%C3%A9morative_1931.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ancien_ch%C3%A2teau_d%27eau_plaque_comm%C3%A9morative_1931.jpg/1280px-Ancien_ch%C3%A2teau_d%27eau_plaque_comm%C3%A9morative_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4446,
+      "hauteur": 1521
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Airport, Ayawaso West (P1100131).jpg",
+      "description": "Blick über den Kotoka-Flughafen, Accra, mit gelblich verfärbtem Himmel im Harmattan",
+      "categories": [
+        "GFDL",
+        "Kotoka International Airport",
+        "License migration redundant",
+        "Self-published work",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Ghana photographs taken on 2023-02-08",
+        "Airport fuel tanks",
+        "Harmattan in Ghana",
+        "Water towers in Africa",
+        "Taken with Panasonic Lumix DMC-G5 and Panasonic Lumix G Vario HD 14-140mm F4.0-5.8 Asph Mega OIS",
+        "2023 photographs of Greater Accra Region"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Airport,_Ayawaso_West_(P1100131).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Airport%2C_Ayawaso_West_%28P1100131%29.jpg/1280px-Airport%2C_Ayawaso_West_%28P1100131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Contiwerk-hannover-25 hg.jpg",
+      "description": "ehemaliges Fabrikgebäude/-gelände der Continental AG in Hannover-Limmer, Zeichnung des Wasserturms",
+      "categories": [
+        "Water towers",
+        "Self-published work",
+        "Continental AG Limmer (Hannover)"
+      ],
+      "auteur": "Hannes Grobe",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Contiwerk-hannover-25_hg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Contiwerk-hannover-25_hg.jpg/1280px-Contiwerk-hannover-25_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2337,
+      "hauteur": 4294
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Researchstation watertower.jpg",
+      "description": "Watertower of the Researchstation",
+      "categories": [
+        "Comoé National Park",
+        "Self-published work",
+        "Water towers in Africa"
+      ],
+      "auteur": "ETF89",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Researchstation_watertower.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Researchstation_watertower.jpg/1280px-Researchstation_watertower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Buzdyak.jpg",
+      "description": "Водонапорная башня",
+      "categories": [
+        "Water towers",
+        "Self-published work"
+      ],
+      "auteur": "Буздяки",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Buzdyak.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Buzdyak.jpg/1280px-Buzdyak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Water tunk at saadani National Park.jpg",
+      "description": "Water tunk at saadani National Park",
+      "categories": [
+        "Saadani National Park",
+        "Water in Tanzania",
+        "Self-published work",
+        "Images from Wiki Loves Earth 2021",
+        "Images from Wiki Loves Earth 2021 in Tanzania",
+        "Uploaded via Campaign:wle-tz",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Water towers in Africa"
+      ],
+      "auteur": "Rasheedhrasheed",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Water_tunk_at_saadani_National_Park.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Water_tunk_at_saadani_National_Park.jpg/1280px-Water_tunk_at_saadani_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7360,
+      "hauteur": 4912
+    }
+  ]
+}

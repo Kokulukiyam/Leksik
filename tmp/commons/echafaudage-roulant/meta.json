@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "echafaudage-roulant",
+    "terme": "l'échafaudage roulant",
+    "categorie": "Chantier et outillage",
+    "definition": "Tour d'échafaudage légère, montée sur roulettes à frein, qu'on déplace le long du travail.",
+    "priorite": 2,
+    "requetes": [
+      "mobile scaffold tower",
+      "échafaudage roulant",
+      "rolling scaffold tower wheels"
+    ],
+    "incompatibles": [
+      "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Scaffolding"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2024-06-16 Zanzibar Stonetown 01.jpg",
+      "description": "Scaffolding on a residential building in the old town (Stonetown) of Zanzibar.",
+      "categories": [
+        "Scaffolding",
+        "Stone Town",
+        "Self-published work",
+        "Construction in Tanzania"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-06-16_Zanzibar_Stonetown_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2024-06-16_Zanzibar_Stonetown_01.jpg/1280px-2024-06-16_Zanzibar_Stonetown_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2147,
+      "hauteur": 3220
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Archiv 1006 001.jpg",
+      "description": "Pfarrkirche St. Gebhard in Konstanz während der Renovierung 1961",
+      "categories": [
+        "Scanned with SF Scanner",
+        "Scaffolding",
+        "Gebhard of Constance Church (Konstanz)",
+        "Self-published work"
+      ],
+      "auteur": "Andreas Fecker",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Archiv_1006_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Archiv_1006_001.jpg/1280px-Archiv_1006_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2461,
+      "hauteur": 3802
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:- panoramio (2657).jpg",
+      "description": "As-Sa'adah Mosque in Keputih, Surabaya, Indonesia",
+      "categories": [
+        "Taken with OEM Unknown",
+        "Scaffolding",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2010-12-29",
+        "Images from Panoramio with bad file names",
+        "As-Sa'adah Mosque"
+      ],
+      "auteur": "sulos",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_(2657).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/-_panoramio_%282657%29.jpg/1280px--_panoramio_%282657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Arkaden (15368859575).jpg",
+      "description": "Topshop Arkaden in Gothenburg, Sweden",
+      "categories": [
+        "Scaffolding",
+        "Södra Hamngatan",
+        "Topshop",
+        "Flickr images reviewed by FlickreviewR",
+        "Sweden photographs taken on 2014-09-12",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Tony Webster"
+      ],
+      "auteur": "Tony Webster from Portland, Oregon, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arkaden_(15368859575).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Arkaden_%2815368859575%29.jpg/1280px-Arkaden_%2815368859575%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:102 MS 65 F49 V.jpg",
+      "description": "",
+      "categories": [
+        "Scaffolding",
+        "Pages with non-numeric formatnum arguments",
+        "Psalm 122",
+        "Winches",
+        "PD-Art (PD-old-100)",
+        "Construction cranes",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Tools in art",
+        "Très Riches Heures du Duc de Berry scan 2004",
+        "CC-PD-Mark",
+        "Artworks with Wikidata item missing genre",
+        "Artworks digital representation of unknown type of work"
+      ],
+      "auteur": "Frères de Limbourg (Herman, Paul et Jean)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:102_MS_65_F49_V.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/102_MS_65_F49_V.jpg/1280px-102_MS_65_F49_V.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1684,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:074 MS 65 F35 V.jpg",
+      "description": "",
+      "categories": [
+        "Psalm 98",
+        "Scaffolding",
+        "PD-Art (PD-old-100)",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Très Riches Heures du Duc de Berry scan 2004",
+        "CC-PD-Mark",
+        "Artworks with Wikidata item missing genre",
+        "Artworks digital representation of unknown type of work"
+      ],
+      "auteur": "Frères de Limbourg (Herman, Paul et Jean)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:074_MS_65_F35_V.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/074_MS_65_F35_V.jpg/1280px-074_MS_65_F35_V.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1684,
+      "hauteur": 2400
+    }
+  ]
+}

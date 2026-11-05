@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "perron",
+    "terme": "le perron",
+    "categorie": "Escaliers et circulations",
+    "definition": "Petit escalier extérieur terminé par une plateforme, devant la porte d'entrée d'un bâtiment.",
+    "priorite": 2,
+    "requetes": [
+      "front steps entrance",
+      "perron",
+      "entrance stoop steps"
+    ],
+    "incompatibles": [
+      "escalier",
+      "escalier-droit",
+      "escalier-en-beton"
+    ],
+    "categoriesCommons": [
+      "Category:Entrance stairs",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:20100925 petra240.JPG",
+      "description": "Musée archéologique de Pétra : vue de l'entrée.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Entrance stairs",
+        "Outside stairs in Jordan",
+        "September 2010 in Jordan",
+        "2010 in Petra",
+        "Jordan photographs taken on 2010-09-25",
+        "Outdoor benches",
+        "2010 photos by user Jean Housen",
+        "Photos of Jordan by user Jean Housen",
+        "Stairs in Petra",
+        "Petra Archaeological Museum"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20100925_petra240.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/20100925_petra240.JPG/1280px-20100925_petra240.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A stair of a subway entrance(32181776522).jpg",
+      "description": "A stair of a subway entrance",
+      "categories": [
+        "Stairs",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Guido Flickr stream"
+      ],
+      "auteur": "Guido from Berlin",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_stair_of_a_subway_entrance(32181776522).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/A_stair_of_a_subway_entrance%2832181776522%29.jpg/1280px-A_stair_of_a_subway_entrance%2832181776522%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2423,
+      "hauteur": 1298
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2015 Dwór Środkowy w Starej Łomnicy 03.JPG",
+      "description": "Middle Manor in Stara Łomnica",
+      "categories": [
+        "Middle Manor in Stara Łomnica",
+        "Taken with AF-S DX Nikkor 18-140 f/3.5-5.6G ED VR",
+        "Self-published work",
+        "Entrance stairs",
+        "Renaissance portals in Poland",
+        "Cultural heritage monuments in Poland with known IDs",
+        "Outside stairs in Poland",
+        "Brown doors",
+        "Wooden doors in Poland",
+        "Doors in Lower Silesian Voivodeship",
+        "Images by Jacek Halicki",
+        "Uploaded via Campaign:wlm-pl",
+        "Wikigrant WG 2015-37",
+        "Files with coordinates missing SDC location of creation",
+        "Poland photographs taken on 2015-08-26",
+        "Cultural heritage monuments in Poland missing SDC location of creation"
+      ],
+      "auteur": "Jacek Halicki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2015_Dw%C3%B3r_%C5%9Arodkowy_w_Starej_%C5%81omnicy_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2015_Dw%C3%B3r_%C5%9Arodkowy_w_Starej_%C5%81omnicy_03.JPG/1280px-2015_Dw%C3%B3r_%C5%9Arodkowy_w_Starej_%C5%81omnicy_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2408,
+      "hauteur": 2888
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:003 Vil·la Florida, c. Muntaner (Barcelona).jpg",
+      "description": "Vil·la Florida, c. Muntaner (Barcelona)",
+      "categories": [
+        "Vil·la Florida",
+        "Self-published work",
+        "Entrance stairs",
+        "Balconies in Barcelona",
+        "Portals in Barcelona",
+        "Outside stairs in Barcelona"
+      ],
+      "auteur": "Enric",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:003_Vil%C2%B7la_Florida,_c._Muntaner_(Barcelona).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/003_Vil%C2%B7la_Florida%2C_c._Muntaner_%28Barcelona%29.jpg/1280px-003_Vil%C2%B7la_Florida%2C_c._Muntaner_%28Barcelona%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3312,
+      "hauteur": 4416
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2015-365-69 Keeping The Parallels (16756249196).jpg",
+      "description": "Light is very consistent...",
+      "categories": [
+        "CC-Zero",
+        "Stairs",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine",
+        "Files with coordinates missing SDC location of creation",
+        "Shadows of railings"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2015-365-69_Keeping_The_Parallels_(16756249196).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2015-365-69_Keeping_The_Parallels_%2816756249196%29.jpg/1280px-2015-365-69_Keeping_The_Parallels_%2816756249196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Agriturismo La Grotta del Montecchino - panoramio - Emanuela Meme Giudic….jpg",
+      "description": "Agriturismo La Grotta del Montecchino",
+      "categories": [
+        "Sant'Andrea a Montecchio (Siena)",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Entrance stairs",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Empty stairs",
+        "Stairs in Siena",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2005-10-22"
+      ],
+      "auteur": "Emanuela Meme Giudic…",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Agriturismo_La_Grotta_del_Montecchino_-_panoramio_-_Emanuela_Meme_Giudic%E2%80%A6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Agriturismo_La_Grotta_del_Montecchino_-_panoramio_-_Emanuela_Meme_Giudic%E2%80%A6.jpg/1280px-Agriturismo_La_Grotta_del_Montecchino_-_panoramio_-_Emanuela_Meme_Giudic%E2%80%A6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    }
+  ]
+}

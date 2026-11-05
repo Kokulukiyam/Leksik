@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "chapiteau-corinthien",
+    "terme": "le chapiteau corinthien",
+    "categorie": "Ornement",
+    "definition": "Chapiteau en forme de corbeille garnie de rangs de feuilles d'acanthe et de petites volutes aux angles.",
+    "priorite": 2,
+    "requetes": [
+      "incategory:\"Corinthian capitals\"",
+      "corinthian capital",
+      "chapiteau corinthien"
+    ],
+    "incompatibles": [
+      "chapiteau",
+      "feuille-d-acanthe"
+    ],
+    "categoriesCommons": [
+      "Category:Corinthian capitals",
+      "Category:Corinthian order",
+      "Category:Capitals (architecture)"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:0788 - Athens - Akadimia - Neoclassical street-lamp - Photo by Giovanni Dall'Orto, Nov 11 2009.jpg",
+      "description": "A neoclassical streetlamp in front of the Academy of Athens . Picture by Giovanni Dall'Orto , November 11 2009.",
+      "categories": [
+        "Taken with Canon EOS 1000D",
+        "Attribution only license",
+        "Self-published work",
+        "Corinthian capitals",
+        "Academy of Athens - Streetlamps",
+        "Capitals (architecture) in Athens",
+        "2009 in Athens",
+        "November 2009 Greece photographs"
+      ],
+      "auteur": "Giovanni Dall'Orto .",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:0788_-_Athens_-_Akadimia_-_Neoclassical_street-lamp_-_Photo_by_Giovanni_Dall%27Orto,_Nov_11_2009.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/0788_-_Athens_-_Akadimia_-_Neoclassical_street-lamp_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_11_2009.jpg/1280px-0788_-_Athens_-_Akadimia_-_Neoclassical_street-lamp_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_11_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 1880
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Square ornate acanthus leaf Corinthian capital at the Ancient Agora of Athens on 21 February 2019.jpg",
+      "description": "Square ornate acanthus leaf Corinthian capital at the Ancient Agora of Athens.",
+      "categories": [
+        "CC-Zero",
+        "Ancient Agora of Athens",
+        "Self-published work",
+        "Corinthian order",
+        "Corinthian capitals in Athens"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Square_ornate_acanthus_leaf_Corinthian_capital_at_the_Ancient_Agora_of_Athens_on_21_February_2019.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Square_ornate_acanthus_leaf_Corinthian_capital_at_the_Ancient_Agora_of_Athens_on_21_February_2019.jpg/1280px-Square_ornate_acanthus_leaf_Corinthian_capital_at_the_Ancient_Agora_of_Athens_on_21_February_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5980,
+      "hauteur": 3987
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Sechs romanische Kapitelle fm812420.jpg",
+      "description": "Sechs romanische Kapitelle",
+      "categories": [
+        "Capitals (architecture)",
+        "Images from Bildindex der Kunst und Architektur",
+        "Uploaded with OpenRefine",
+        "PD-old-100-expired",
+        "CC-PD-Mark",
+        "Photographs from Bildindex der Kunst und Architektur by Ludwig Bickell",
+        "Photographs of unidentified locations by Ludwig Bickell"
+      ],
+      "auteur": "Ludwig Bickell",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sechs_romanische_Kapitelle_fm812420.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Sechs_romanische_Kapitelle_fm812420.jpg/1280px-Sechs_romanische_Kapitelle_fm812420.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6288,
+      "hauteur": 8494
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Corinthian capital detail, Glencairn Monument, St Maurs-Glencairn Church, Kilmaurs, East Ayrshire.jpg",
+      "description": "Corinthian capital detail, Glencairn Monument, St Maurs-Glencairn Church, Kilmaurs, East Ayrshire. This is the first capital on the right hand side of the monument.",
+      "categories": [
+        "Mausoleums in Scotland",
+        "Glencairn Aisle",
+        "Self-published work",
+        "Corinthian capitals",
+        "June 2021 in Scotland",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corinthian_capital_detail,_Glencairn_Monument,_St_Maurs-Glencairn_Church,_Kilmaurs,_East_Ayrshire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Corinthian_capital_detail%2C_Glencairn_Monument%2C_St_Maurs-Glencairn_Church%2C_Kilmaurs%2C_East_Ayrshire.jpg/1280px-Corinthian_capital_detail%2C_Glencairn_Monument%2C_St_Maurs-Glencairn_Church%2C_Kilmaurs%2C_East_Ayrshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3956,
+      "hauteur": 2711
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:奇美博物館正門.jpg",
+      "description": "​奇美博物館正門。",
+      "categories": [
+        "Chi Mei Museum",
+        "Domes in Taiwan",
+        "Porticos in Taiwan",
+        "Self-published work",
+        "Corinthian order",
+        "Photographs of Tainan by User:Ericliu1912"
+      ],
+      "auteur": "Ericliu1912",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E5%A5%87%E7%BE%8E%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%AD%A3%E9%96%80.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%E5%A5%87%E7%BE%8E%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%AD%A3%E9%96%80.jpg/1280px-%E5%A5%87%E7%BE%8E%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%AD%A3%E9%96%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Photograph of two capitals Cuypershuis 0687a (003).jpg",
+      "description": "Foto van twee kapitelen. Links met wijnranken, rechts met acanthusbladeren. Afkomstig uit een verzamelmap met 41 foto's van producten uit de Kunstwerkplaatsen Cuypers & Co. (Cuypershuis, inventarisnummer 0687a).",
+      "categories": [
+        "Capitals (architecture)",
+        "Artworks without Wikidata item",
+        "PD Old",
+        "Artworks with known accession number",
+        "CC-PD-Mark",
+        "Template Unknown (unspecified)",
+        "PD-old missing SDC copyright status",
+        "Template Unknown (other)",
+        "Photographs in the Cuypershuis"
+      ],
+      "auteur": "Anonyme Unknown author (photographe)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Photograph_of_two_capitals_Cuypershuis_0687a_(003).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Photograph_of_two_capitals_Cuypershuis_0687a_%28003%29.jpg/1280px-Photograph_of_two_capitals_Cuypershuis_0687a_%28003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2828,
+      "hauteur": 2089
+    }
+  ]
+}

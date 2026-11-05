@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "plaque-vibrante",
+    "terme": "la plaque vibrante",
+    "categorie": "Chantier et outillage",
+    "definition": "Machine à main posée sur une semelle d'acier vibrante, qu'on pousse pour compacter un remblai ou des pavés.",
+    "priorite": 2,
+    "requetes": [
+      "plate compactor",
+      "plaque vibrante",
+      "vibratory plate compactor"
+    ],
+    "incompatibles": [
+      "pilonneuse"
+    ],
+    "categoriesCommons": [
+      "Category:Plate compactors",
+      "Category:Compactors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hitachi, Reversible Vibratory Plate ZV-PR Series (ZV350PR-De, ZV350PR-G,).jpg",
+      "description": "Reversible Vibratory Plate \"ZV-PR Series\"(ZV350PR-De, ZV350PR-G,) manufactured by Hitachi Construction Machinery Camino Co., Ltd. Good Design Award 2012 .",
+      "categories": [
+        "Plate compactors",
+        "Self-published work",
+        "Hitachi construction machines"
+      ],
+      "auteur": "Mj-bird",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hitachi,_Reversible_Vibratory_Plate_ZV-PR_Series_(ZV350PR-De,_ZV350PR-G,).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Hitachi%2C_Reversible_Vibratory_Plate_ZV-PR_Series_%28ZV350PR-De%2C_ZV350PR-G%2C%29.jpg/1280px-Hitachi%2C_Reversible_Vibratory_Plate_ZV-PR_Series_%28ZV350PR-De%2C_ZV350PR-G%2C%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Elizabeth Berger Plaza 10.jpg",
+      "description": "A Midtown Manhattan-bound X28 express bus exiting the Brooklyn Battery Tunnel at Berger Plaza (Trinity Place and Edgar Street) in the Financial District, Manhattan. On the side of the bus is an ad for the 4:44 album by Jay-Z , identical to the album cover art.",
+      "categories": [
+        "Taken with Sony DSC-W830",
+        "Elizabeth H. Berger Plaza",
+        "Compactors",
+        "New York City photographs taken on 2017-08-01",
+        "Self-published work",
+        "Number 2473 on buses",
+        "Trinity Place (Manhattan)",
+        "Buses in the Financial District of Manhattan",
+        "MTA Regional Bus Operations in 2017",
+        "No standing signs",
+        "Files with coordinates missing SDC location of creation",
+        "Prevost X3-45 coaches of MTA Regional Bus Operations",
+        "X28 (New York City bus)",
+        "Financial District, Manhattan in 2017",
+        "2017 Manhattan photographs by Tdorante10",
+        "Trash cans in New York City",
+        "August 2017 in Manhattan, New York City",
+        "Road signs in Manhattan, New York City",
+        "Advertisements on buses in New York City",
+        "Sorted waste container pairs",
+        "4:44"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Elizabeth_Berger_Plaza_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Elizabeth_Berger_Plaza_10.jpg/1280px-Elizabeth_Berger_Plaza_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Grand Canyon National Park Greenway Trail Construction 0348 (7304510732).jpg",
+      "description": "Date: May 22, 2012 NPS Photo by Kristen M. Caldon. . The Greenway Trail System, as outlined in the park’s 1995 General Management Plan, is a system of multi-use, accessible trails throughout the park that encourages non-motorized modes of travel, complementing the South Rim Visitor Transportation Plan, which includes seasonal shuttle bus service to and from Tusayan.. . Greenway III consists of an 8-foot wide compacted soil surface area for pedestrians and bicyclists, with an adjacent 2- to 3-foot wide gravel path for equestrian use. Eventually, the compacted soil surface will be replaced with ",
+      "categories": [
+        "Plate compactors",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Grand Canyon NPS Flickr stream",
+        "Construction of the Hermit Road Greenway Trail"
+      ],
+      "auteur": "Grand Canyon National Park",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_National_Park_Greenway_Trail_Construction_0348_(7304510732).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Grand_Canyon_National_Park_Greenway_Trail_Construction_0348_%287304510732%29.jpg/1280px-Grand_Canyon_National_Park_Greenway_Trail_Construction_0348_%287304510732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Jätepuristin.jpg",
+      "description": "Picture of a standard Combi-model waste compactor made in Finland.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Compactors",
+        "Self-published work",
+        "Waste containers in Finland"
+      ],
+      "auteur": "WinRar9000",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:J%C3%A4tepuristin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/J%C3%A4tepuristin.jpg/1280px-J%C3%A4tepuristin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4166,
+      "hauteur": 2101
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:COMPATROL 2-0 Display .jpg",
+      "description": "Display der Verdichtungskontrolle COMPATROL 2.0",
+      "categories": [
+        "Plate compactors",
+        "Self-published work"
+      ],
+      "auteur": "WeberMT-Raabe",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:COMPATROL_2-0_Display_.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/COMPATROL_2-0_Display_.jpg/1280px-COMPATROL_2-0_Display_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5173,
+      "hauteur": 2061
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:PSM V28 D664 Pounding down foundation stones.jpg",
+      "description": "Pounding down foundation stones of a Japanese house 19th century",
+      "categories": [
+        "Japan in the 1880s",
+        "Compactors",
+        "PD Old",
+        "Images created or edited with IrfanView",
+        "Foundations drawings",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "House construction in Japan",
+        "Dodai-ishi",
+        "PD-old missing SDC copyright status",
+        "Japanese Homes and Their Surroundings (1885 book), images reprinted in Popular Science Monthly"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:PSM_V28_D664_Pounding_down_foundation_stones.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/PSM_V28_D664_Pounding_down_foundation_stones.jpg/1280px-PSM_V28_D664_Pounding_down_foundation_stones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1488,
+      "hauteur": 1264
+    }
+  ]
+}

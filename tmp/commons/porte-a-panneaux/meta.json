@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "porte-a-panneaux",
+    "terme": "la porte à panneaux",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte dont le cadre en bois assemblé encadre plusieurs panneaux en creux ou en relief.",
+    "priorite": 2,
+    "requetes": [
+      "panelled door wood",
+      "porte à panneaux bois",
+      "raised panel door"
+    ],
+    "incompatibles": [
+      "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Panel doors",
+      "Category:Wooden doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:MuñozChurchjf9690 14.JPG",
+      "description": "Saint Sebastian Parish Church of Muñoz, Science City of Muñoz 3119 Nueva Ecija Parish Priest: Fr. Renato R. Santos Jr. Titular: St. Sebastian, Martyr Vicariate of St. Dominic Vicar Forane:Fr. Bonifacio P. Flores [1] San Sebastian cathedral (Science City of Muñoz) Coordinates: 15°42'54\"N 120°54'14\"E [2] [3] [4] It belongs to the Roman Catholic Diocese of San Jose in the Philippines [5] Saint Sebastian (died c. 288) was an early Christian saint and martyr. It is said that he was killed during the Roman emperor Diocletian's persecution of Christians. He is commonly depicted in art and literature ",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "Sliding doors",
+        "Self-published work",
+        "Panel doors",
+        "Saint Sebastian Parish Church of Muñoz"
+      ],
+      "auteur": "Ramon FVelasquez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mu%C3%B1ozChurchjf9690_14.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Mu%C3%B1ozChurchjf9690_14.JPG/1280px-Mu%C3%B1ozChurchjf9690_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:22122012-P1000885 (8337438822).jpg",
+      "description": "22122012-P1000885.jpg Puertas de Buenos Aires",
+      "categories": [
+        "Wooden doors",
+        "Arches in Argentina",
+        "2 doors",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Doors in Buenos Aires",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "@mrtngrsbch",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:22122012-P1000885_(8337438822).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/22122012-P1000885_%288337438822%29.jpg/1280px-22122012-P1000885_%288337438822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ancient Gateway (116650393).jpeg",
+      "description": "500px provided description: Ancient Gateway [#city ,#travel ,#door ,#house ,#italy ,#old ,#urban ,#architecture ,#gate ,#building ,#wooden ,#double ,#portal]",
+      "categories": [
+        "Doors",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Maurice Klabbers",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancient_Gateway_(116650393).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ancient_Gateway_%28116650393%29.jpeg/1280px-Ancient_Gateway_%28116650393%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Wenngarns slott, interiör, 2015b, dörrspegel.jpg",
+      "description": "Dörrspegel på Wenngarns slott. Slottsherren Magnus Gabriel De la Gardies och hans maka Maria Eufrosynes namnchiffer är målade på dörrana.",
+      "categories": [
+        "Magnus Gabriel De la Gardie",
+        "Maria Eufrosyne of Palatinate-Zweibrücken",
+        "Self-published work",
+        "Interior of Venngarns slott",
+        "Panel doors"
+      ],
+      "auteur": "Bysmon",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wenngarns_slott,_interi%C3%B6r,_2015b,_d%C3%B6rrspegel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Wenngarns_slott%2C_interi%C3%B6r%2C_2015b%2C_d%C3%B6rrspegel.jpg/1280px-Wenngarns_slott%2C_interi%C3%B6r%2C_2015b%2C_d%C3%B6rrspegel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20240227 Gritznerstraße 8, Durlach - 8530.jpg",
+      "description": "Gritznerstraße 8, Durlach. Postamt. zweigeschossiger neobarocker Massivbau mit Mansardwalmdach, an Längsseite Risalitbau als Portikus gestaltet, umlaufende Kollossalpilaster aus Putz, um 1915 (Architekt und Bauherr unbekannt). Geschützt nach § 2 Denkmalschutzgesetz Baden-Württemberg",
+      "categories": [
+        "20th-century portals",
+        "Wooden doors",
+        "Self-published work",
+        "Portals in Baden-Württemberg",
+        "Doors in Karlsruhe",
+        "Files with coordinates missing SDC location of creation (48° N, 8° E)",
+        "Gritznerstraße 8 (Durlach)",
+        "Taken with Sony ILCE-6000 and Walimex 12mm F2.0"
+      ],
+      "auteur": "Zinnmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20240227_Gritznerstra%C3%9Fe_8,_Durlach_-_8530.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/20240227_Gritznerstra%C3%9Fe_8%2C_Durlach_-_8530.jpg/1280px-20240227_Gritznerstra%C3%9Fe_8%2C_Durlach_-_8530.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2953,
+      "hauteur": 4429
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A person is opening a door to enter a room with soft lighting and wooden floor at home.jpg",
+      "description": "A person stands in a doorway, beginning to open a door to a room. The room has soft lighting and a wooden floor. A feeling of entering a new space is present.",
+      "categories": [
+        "Doors",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg/1280px-A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3885,
+      "hauteur": 5827
+    }
+  ]
+}

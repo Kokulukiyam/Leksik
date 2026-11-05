@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "enduit-tyrolien",
+    "terme": "l'enduit tyrolien",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Enduit projeté à la machine qui laisse une surface rugueuse de petites aspérités, très répandu sur les façades.",
+    "priorite": 1,
+    "requetes": [
+      "tyrolean render",
+      "tyrolienne façade",
+      "roughcast render wall texture"
+    ],
+    "incompatibles": [
+      "enduit"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Lüftlmalerei - panoramio (1).jpg",
+      "description": "Lüftlmalerei",
+      "categories": [
+        "Lüftlmalerei",
+        "Fleschützen",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Incorrect Exif date",
+        "Files with coordinates missing SDC location of creation",
+        "Photos from Panoramio ID 969909"
+      ],
+      "auteur": "Richard Mayer",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%C3%BCftlmalerei_-_panoramio_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/L%C3%BCftlmalerei_-_panoramio_%281%29.jpg/1280px-L%C3%BCftlmalerei_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2120
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Lüftlmalerei - panoramio.jpg",
+      "description": "Lüftlmalerei",
+      "categories": [
+        "Lüftlmalerei",
+        "Former Mesnerhaus, Vils (Tirol)",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Austria photographs taken on 2011-10-03",
+        "Photos from Panoramio ID 969909"
+      ],
+      "auteur": "Richard Mayer",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%C3%BCftlmalerei_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/L%C3%BCftlmalerei_-_panoramio.jpg/1280px-L%C3%BCftlmalerei_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Lüftlmalerei im Biergarten - panoramio.jpg",
+      "description": "Lüftlmalerei im Biergarten",
+      "categories": [
+        "Brauhaus (Simmerberg)",
+        "Paintings of couples",
+        "Lüftlmalerei",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Umbrellas in art",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Trompe l'oeil in Bavaria",
+        "Files with coordinates missing SDC location of creation",
+        "Weiler-Simmerberg photographs taken on 2011-08-05",
+        "Photos from Panoramio ID 969909"
+      ],
+      "auteur": "Richard Mayer",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%C3%BCftlmalerei_im_Biergarten_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/L%C3%BCftlmalerei_im_Biergarten_-_panoramio.jpg/1280px-L%C3%BCftlmalerei_im_Biergarten_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2120
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Lüftlmalerei.JPG",
+      "description": "Lüftlmalerei über dem Eingang einer ehemaligen Bäckerei. Feldkirchen in Kärnten",
+      "categories": [
+        "Lüftlmalerei",
+        "Structures in Feldkirchen, Carinthia",
+        "Self-published work",
+        "Murals in Carinthia"
+      ],
+      "auteur": "Rollroboter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%C3%BCftlmalerei.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/L%C3%BCftlmalerei.JPG/1280px-L%C3%BCftlmalerei.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2890,
+      "hauteur": 1892
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Lüftlmalerei von H.Zeller 1995 - panoramio.jpg",
+      "description": "Lüftlmalerei von H.Zeller 1995",
+      "categories": [
+        "Germany photographs taken on 2012-01-07",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Murals in Kempten (Allgäu)",
+        "Files with coordinates missing SDC location of creation",
+        "Photos from Panoramio ID 969909"
+      ],
+      "auteur": "Richard Mayer",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%C3%BCftlmalerei_von_H.Zeller_1995_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/L%C3%BCftlmalerei_von_H.Zeller_1995_-_panoramio.jpg/1280px-L%C3%BCftlmalerei_von_H.Zeller_1995_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2238,
+      "hauteur": 1833
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:19750524220UR Ziegenrück Rathaus Lüftelmalerei.jpg",
+      "description": "24.05.1975 DDR 6557 [07924] Ziegenrück, Markt 6: Rathaus aus dem 16. Jahrhundert mit Wappenstein von 1577. Giebelwand verziert mit später aufgebrachter Lüftelmalerei. [U19750522K03D28.TIF]19750524220UR.JPG(c)Blobelt",
+      "categories": [
+        "Germany photographs taken on 1975-05-24",
+        "Files by Jörg Blobelt",
+        "Lüftlmalerei in Thuringia",
+        "May 1975 in Thuringia",
+        "Rathaus Ziegenrück"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19750524220UR_Ziegenr%C3%BCck_Rathaus_L%C3%BCftelmalerei.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/19750524220UR_Ziegenr%C3%BCck_Rathaus_L%C3%BCftelmalerei.jpg/1280px-19750524220UR_Ziegenr%C3%BCck_Rathaus_L%C3%BCftelmalerei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2088,
+      "hauteur": 3536
+    }
+  ]
+}

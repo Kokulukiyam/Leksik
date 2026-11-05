@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "escalier-metallique",
+    "terme": "l'escalier métallique",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier en acier, souvent à limons en profilés et marches en tôle ou caillebotis.",
+    "priorite": 2,
+    "requetes": [
+      "steel staircase",
+      "escalier métallique",
+      "metal stairs"
+    ],
+    "incompatibles": [
+      "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Metal staircases",
+      "Category:Staircases"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Staircase on SW 13th Ave, Portland, Oregon, U.S.jpg",
+      "description": "A metal staircase from SW 13th Ave to SW College St",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Metal staircases",
+        "Public staircases in Portland, Oregon"
+      ],
+      "auteur": "TechnoSquirrel69",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Staircase_on_SW_13th_Ave,_Portland,_Oregon,_U.S.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Staircase_on_SW_13th_Ave%2C_Portland%2C_Oregon%2C_U.S.jpg/1280px-Staircase_on_SW_13th_Ave%2C_Portland%2C_Oregon%2C_U.S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2252,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2024 Kežmarok New Lutheran Church interior (1).jpg",
+      "description": "Nový evangelický kostel v Kežmaroku. Interiér. Pohled na oltářní část.",
+      "categories": [
+        "CC-Zero",
+        "Staircases",
+        "Self-published work",
+        "Lutheran altars in Slovakia",
+        "Evangelic church in Kežmarok-interior"
+      ],
+      "auteur": "Qasinka",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024_Ke%C5%BEmarok_New_Lutheran_Church_interior_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2024_Ke%C5%BEmarok_New_Lutheran_Church_interior_%281%29.jpg/1280px-2024_Ke%C5%BEmarok_New_Lutheran_Church_interior_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2176,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Trap Bild letz.jpg",
+      "description": "Trap",
+      "categories": [
+        "Self-published work",
+        "Metal staircases"
+      ],
+      "auteur": "MoreCapablePir",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Trap_Bild_letz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Trap_Bild_letz.jpg/1280px-Trap_Bild_letz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:African Human wooden Seats.jpg",
+      "description": "Ceci est une image du genre Musique et Danse de :",
+      "categories": [
+        "Staircases",
+        "Calabar",
+        "Self-published work",
+        "Crafts of Nigeria",
+        "Images from Wiki Loves Africa 2016",
+        "Images from Wiki Loves Africa 2016 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2016 in Nigeria",
+        "Nigeria photographs taken on 2016-12-29",
+        "Wooden chairs"
+      ],
+      "auteur": "Charles. Utibemfon Charles",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:African_Human_wooden_Seats.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/African_Human_wooden_Seats.jpg/1280px-African_Human_wooden_Seats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Escaleras de la Virgen de la Paz.JPG",
+      "description": "Vertigo en la Virgen de la Paz.",
+      "categories": [
+        "Taken with Canon PowerShot SX500 IS",
+        "Monumento a la Virgen de la Paz",
+        "Self-published work",
+        "Wikiviajes por Venezuela 2014",
+        "Metal staircases",
+        "Images from Wikiviajes por Venezuela 2014"
+      ],
+      "auteur": "José Luis Valero",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Escaleras_de_la_Virgen_de_la_Paz.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Escaleras_de_la_Virgen_de_la_Paz.JPG/1280px-Escaleras_de_la_Virgen_de_la_Paz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A staircase to first floor.jpg",
+      "description": "this is a staircase that connects to the first floor on the outside separated from the ground floor",
+      "categories": [
+        "Buildings in Kenya",
+        "Staircases",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 in Kenya",
+        "Stairs in Kenya"
+      ],
+      "auteur": "Latif2022",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_staircase_to_first_floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/A_staircase_to_first_floor.jpg/1280px-A_staircase_to_first_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    }
+  ]
+}

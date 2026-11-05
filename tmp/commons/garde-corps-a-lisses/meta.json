@@ -1,0 +1,160 @@
+{
+  "terme": {
+    "id": "garde-corps-a-lisses",
+    "terme": "le garde-corps à lisses",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps métallique dont le remplissage est fait de barres horizontales parallèles.",
+    "priorite": 2,
+    "requetes": [
+      "horizontal bar railing terrace",
+      "garde-corps lisses horizontales",
+      "horizontal rail balustrade"
+    ],
+    "incompatibles": [
+      "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Handrails",
+      "Category:Railings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cat and street art (Unsplash).jpg",
+      "description": "Dan Gold 2017-05-30",
+      "categories": [
+        "CC-Zero",
+        "Street art",
+        "Handrails",
+        "Images uploaded by Fæ",
+        "Images with extracted images",
+        "Green-eyed cats",
+        "Images from Unsplash",
+        "Bokeh photographs of cats",
+        "Long-haired black and white cats"
+      ],
+      "auteur": "Dan Gold danielcgold",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cat_and_street_art_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Cat_and_street_art_%28Unsplash%29.jpg/1280px-Cat_and_street_art_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2016 366 308 Railings (30649478672).jpg",
+      "description": "2016/366/308 Railings",
+      "categories": [
+        "Railings",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Edna Winti",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_366_308_Railings_(30649478672).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2016_366_308_Railings_%2830649478672%29.jpg/1280px-2016_366_308_Railings_%2830649478672%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2788,
+      "hauteur": 2218
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cat and street art (Unsplash) 2017; (cropped 2025).jpg",
+      "description": "Dan Gold 2017-05-30",
+      "categories": [
+        "CC-Zero",
+        "Street art",
+        "Handrails",
+        "Images uploaded by Fæ",
+        "Extracted images",
+        "Green-eyed cats",
+        "Images from Unsplash",
+        "Bokeh photographs of cats",
+        "Long-haired black and white cats"
+      ],
+      "auteur": "Dan Gold danielcgold",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cat_and_street_art_(Unsplash)_2017;_(cropped_2025).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cat_and_street_art_%28Unsplash%29_2017%3B_%28cropped_2025%29.jpg/1280px-Cat_and_street_art_%28Unsplash%29_2017%3B_%28cropped_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3376,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A photo of tree shadows on paving stones of the Plantage-kade; Amsterdam center, in spring of 2013.jpg",
+      "description": "APhoto of a street view over the canal Entrepotdok with tree shadows on paving stones of the Plantage-kade in Amsterdam center, in spring of 2013. On the background the canal Nieuwe Herengracht with 18th century facades of mansions. Free photo by Fons Heijnsbroek",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ5",
+        "Entrepotdok, Amsterdam",
+        "Railings",
+        "Self-published work",
+        "Street lights in the Netherlands",
+        "Netherlands photographs taken on 2013-04-16",
+        "Shadows of trees in the Netherlands",
+        "Spring in Amsterdam",
+        "Houses in Amsterdam-Centrum",
+        "Photographs by Fons Heijnsbroek in Amsterdam (2013)",
+        "Light and shadow in Amsterdam",
+        "House facades in Amsterdam",
+        "Pavements in Amsterdam",
+        "Plantagekade, Amsterdam",
+        "Plantage neighbourhood of Amsterdam, in photos by Fons Heijnsbroek"
+      ],
+      "auteur": "Fons Heijnsbroek",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_photo_of_tree_shadows_on_paving_stones_of_the_Plantage-kade;_Amsterdam_center,_in_spring_of_2013.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/A_photo_of_tree_shadows_on_paving_stones_of_the_Plantage-kade%3B_Amsterdam_center%2C_in_spring_of_2013.jpg/1280px-A_photo_of_tree_shadows_on_paving_stones_of_the_Plantage-kade%3B_Amsterdam_center%2C_in_spring_of_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Co-operative Building (51219050164).jpg",
+      "description": "Superb worker figurines support the handrails of the former Newcastle co-op department store, now a Premier Inn.",
+      "categories": [
+        "CC-Zero",
+        "Handrails",
+        "Co-operative building, Newgate Street, Newcastle upon Tyne",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Alex Liivet from Chester, United Kingdom",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Co-operative_Building_(51219050164).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Co-operative_Building_%2851219050164%29.jpg/1280px-Co-operative_Building_%2851219050164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3200,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A photo of a urban tree and a view over de Zeeburgerdijk and Celebesstraat; Amsterdam Oost- FotoDutch, April 2013.jpg",
+      "description": "a photo of an urban tree and a view from the old dike along the street Zeeburgerdijk and the Celebesstraat in de Indische buurt,vAmsterdam Oost; free photo in high resolutions by Fons Heijnsbroek, April 2013.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ5",
+        "CC-Zero",
+        "Created with Adobe Photoshop Elements",
+        "Celebesstraat, Amsterdam",
+        "Zeeburgerdijk, Amsterdam",
+        "Railings",
+        "Roadsides",
+        "PD-Netherlands",
+        "Self-published work",
+        "Street trees in the Netherlands",
+        "Tree trunks in the Netherlands",
+        "Netherlands photographs taken on 2013-04-19",
+        "April 2013 in Amsterdam",
+        "Trees in Amsterdam",
+        "Brick pavements",
+        "Photographs by Fons Heijnsbroek in Amsterdam (2013)",
+        "Pavements in Amsterdam",
+        "Close-up photographs of Amsterdam",
+        "Sidewalks in Amsterdam",
+        "Indische Buurt neighbourhood of Amsterdam, in photos by Fons Heijnsbroek"
+      ],
+      "auteur": "Fons Heijnsbroek",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_photo_of_a_urban_tree_and_a_view_over_de_Zeeburgerdijk_and_Celebesstraat;_Amsterdam_Oost-_FotoDutch,_April_2013.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/A_photo_of_a_urban_tree_and_a_view_over_de_Zeeburgerdijk_and_Celebesstraat%3B_Amsterdam_Oost-_FotoDutch%2C_April_2013.jpg/1280px-A_photo_of_a_urban_tree_and_a_view_over_de_Zeeburgerdijk_and_Celebesstraat%3B_Amsterdam_Oost-_FotoDutch%2C_April_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
+    }
+  ]
+}

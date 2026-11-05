@@ -1,0 +1,118 @@
+{
+  "terme": {
+    "id": "brique-de-terre-comprimee",
+    "terme": "la brique de terre comprimée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bloc de terre crue légèrement stabilisée, compacté à la presse, aux arêtes nettes ; on dit couramment BTC.",
+    "priorite": 2,
+    "requetes": [
+      "compressed earth block",
+      "brique de terre comprimée",
+      "compressed earth blocks wall Africa"
+    ],
+    "incompatibles": [
+      "brique",
+      "banco"
+    ],
+    "categoriesCommons": [
+      "Category:Compressed earth blocks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1000JOBS-DSCF0717.jpg",
+      "description": "Production de CSEB (Compressed Stabilized Earth Block) en Haiti par l'ONG 1000 JOBS",
+      "categories": [
+        "Compressed earth blocks",
+        "Self-published work"
+      ],
+      "auteur": "ProjetQuisqueya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1000JOBS-DSCF0717.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/1000JOBS-DSCF0717.jpg/1280px-1000JOBS-DSCF0717.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Production de BTC.jpg",
+      "description": "Atelier de production organisé par ONG 1000Jobs -Haïti",
+      "categories": [
+        "Compressed earth blocks",
+        "Self-published work"
+      ],
+      "auteur": "ProjetQuisqueya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Production_de_BTC.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Production_de_BTC.jpg/1280px-Production_de_BTC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Interlocking compressed earth block sample.jpg",
+      "description": "نمای نزدیک از یک نمونه آجر پازلی (Interlocking Brick) که با استفاده از فشار مکانیکی و بدون نیاز به پخت در کوره تولید شده است. این محصول به عنوان مصالح ساختمانی مدرن و دوستدار محیط زیست در پروژه‌های عمرانی کاربرد دارد.",
+      "categories": [
+        "Bricks",
+        "Construction materials",
+        "Self-published work",
+        "Interlocking bricks"
+      ],
+      "auteur": "Mahdi0008",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interlocking_compressed_earth_block_sample.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Interlocking_compressed_earth_block_sample.jpg/1280px-Interlocking_compressed_earth_block_sample.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1400,
+      "hauteur": 1050
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:1000JOBS-DSCF0723.jpg",
+      "description": "Atelier de production de CSEB en Haïti",
+      "categories": [
+        "Compressed earth blocks",
+        "Self-published work",
+        "Construction in Haiti"
+      ],
+      "auteur": "ProjetQuisqueya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1000JOBS-DSCF0723.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/1000JOBS-DSCF0723.jpg/1280px-1000JOBS-DSCF0723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Compressed Stabilized Earth Block construction in Govardhan Ecovillage.JPG",
+      "description": "Compressed Stabilized Earth Block construction in Govardhan Ecovillage",
+      "categories": [
+        "Taken with Canon PowerShot A495",
+        "Govardhan Ecovillage",
+        "Self-published work",
+        "Rammed earth buildings"
+      ],
+      "auteur": "Tdas14",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Compressed_Stabilized_Earth_Block_construction_in_Govardhan_Ecovillage.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Compressed_Stabilized_Earth_Block_construction_in_Govardhan_Ecovillage.JPG/1280px-Compressed_Stabilized_Earth_Block_construction_in_Govardhan_Ecovillage.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Production de BTC à Port au Prince (2).jpg",
+      "description": "Fabrique de CSEB( compressed stabilized Earth Block) en utilisant une presse manuelle",
+      "categories": [
+        "Compressed earth blocks",
+        "Self-published work"
+      ],
+      "auteur": "ProjetQuisqueya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Production_de_BTC_%C3%A0_Port_au_Prince_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Production_de_BTC_%C3%A0_Port_au_Prince_%282%29.jpg/1280px-Production_de_BTC_%C3%A0_Port_au_Prince_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    }
+  ]
+}

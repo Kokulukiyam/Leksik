@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "edicule",
+    "terme": "l'édicule",
+    "categorie": "Toitures",
+    "definition": "Petite construction qui émerge d'une toiture-terrasse, abritant la sortie d'escalier ou des équipements.",
+    "priorite": 2,
+    "requetes": [
+      "rooftop stair enclosure",
+      "édicule toiture terrasse",
+      "rooftop structure flat roof"
+    ],
+    "incompatibles": [
+      "toiture-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Rooftop structures",
+      "Category:Roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:University of Pretoria.jpg",
+      "description": "Beuty of University of Pretoria",
+      "categories": [
+        "University of Pretoria",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Rooftop structures"
+      ],
+      "auteur": "Hlalithwa",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:University_of_Pretoria.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/University_of_Pretoria.jpg/1280px-University_of_Pretoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:(1)Ritz-98.jpg",
+      "description": "The Ritz, Randwick, Sydney",
+      "categories": [
+        "Lighting",
+        "Roofs",
+        "The Ritz Cinema",
+        "Self-published work",
+        "5 people"
+      ],
+      "auteur": "Sardaka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(1)Ritz-98.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%281%29Ritz-98.jpg/1280px-%281%29Ritz-98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2456,
+      "hauteur": 3680
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:DFC 0167 An old building facade with a large rooftop sign in Thai script against a blue sky framed by green foliage in the foreground.jpg",
+      "description": "This photo shows an old building with what appears to be Thai script signage on top. The sign is mounted on a metal framework above a weathered concrete structure with a flat roof. The building has a somewhat aged appearance with visible wear on its white walls. In the foreground, there are lush green tropical plants with some white flowers visible on the left side. The scene is set against a blue sky with scattered white clouds, suggesting it was taken during daytime in Thailand or another Southeast Asian country. The architecture has a utilitarian, possibly mid-20th century style that was co",
+      "categories": [
+        "Pattaya",
+        "Chonburi Province",
+        "Na Kluea",
+        "Bang Lamung District",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Nong Pla Lai"
+      ],
+      "auteur": "PattayaPatrol",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DFC_0167_An_old_building_facade_with_a_large_rooftop_sign_in_Thai_script_against_a_blue_sky_framed_by_green_foliage_in_the_foreground.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/DFC_0167_An_old_building_facade_with_a_large_rooftop_sign_in_Thai_script_against_a_blue_sky_framed_by_green_foliage_in_the_foreground.jpg/1280px-DFC_0167_An_old_building_facade_with_a_large_rooftop_sign_in_Thai_script_against_a_blue_sky_framed_by_green_foliage_in_the_foreground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5568,
+      "hauteur": 3712
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:695 East Main Street, Stamford, CT, roof clock 2024-07-20.jpg",
+      "description": "695 East Main Street, Stamford, CT, roof clock",
+      "categories": [
+        "Self-published work",
+        "Clocks in Connecticut",
+        "Files with coordinates missing SDC location of creation",
+        "Rooftop structures",
+        "695 East Main Street, Stamford, Connecticut"
+      ],
+      "auteur": "Xnatedawgx",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:695_East_Main_Street,_Stamford,_CT,_roof_clock_2024-07-20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/695_East_Main_Street%2C_Stamford%2C_CT%2C_roof_clock_2024-07-20.jpg/1280px-695_East_Main_Street%2C_Stamford%2C_CT%2C_roof_clock_2024-07-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3358,
+      "hauteur": 2293
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Neustadt an der Donau, St. Laurentius -- 2026 -- 4155.jpg",
+      "description": "St Laurentius Church towering above the rooftops of the city, Neustadt an der Donau , Bavaria , Germany",
+      "categories": [
+        "St. Laurentius (Neustadt an der Donau)",
+        "Neustadt an der Donau",
+        "Photographs with aspect ratio of 3:1",
+        "Self-published work",
+        "ISO speed rating 250",
+        "Information field template with formatting",
+        "Roofs in Bavaria",
+        "F-number f/8",
+        "Churches in Germany photographed in 2026",
+        "Time 06:36",
+        "FoP-Germany",
+        "Buildings with addresses",
+        "Lens focal length 23 mm",
+        "Cultural heritage monuments in Bavaria with known IDs",
+        "Changes of XRay's photographs of the recent weeks",
+        "Images by XRay (flat list)",
+        "Uploaded with LrMediaWiki",
+        "Clouds and blue sky in Lower Bavaria",
+        "Exposure time 1/210 sec",
+        "Clouds in Germany in September 2026",
+        "Church clocks in Landkreis Kelheim",
+        "Photographs by Dietmar Rabich/Architectural photography/Religious buildings",
+        "Clocks by time 06:00 to 06:59 in Germany",
+        "Taken with Fujifilm X-E5",
+        "Bavaria photographs taken on 2026-09-24",
+        "Photographs by Dietmar Rabich/Year/2026",
+        "Taken with Fujinon XF23mm F2.8 R WR",
+        "Photographs by Dietmar Rabich/Neustadt an der Donau"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Neustadt_an_der_Donau,_St._Laurentius_--_2026_--_4155.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Neustadt_an_der_Donau%2C_St._Laurentius_--_2026_--_4155.jpg/1280px-Neustadt_an_der_Donau%2C_St._Laurentius_--_2026_--_4155.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6582,
+      "hauteur": 2194
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Haltestelle JKU Universitaet 1.jpg",
+      "description": "Linz: Die Haltestelle JKU | Universität der Linien 1 und 2 in Dornach-Auhof nahe dem Campus der Johannes-Kepler-Universität . Das obeliskartige Bauwerk links ist eine Imbissbude. Blick von der Altenberger Straße",
+      "categories": [
+        "Dornach-Auhof",
+        "Self-published work",
+        "Austria photographs taken on 2023-06-27",
+        "June 2023 in Linz",
+        "2023 in tram transport in Linz",
+        "Tram stops in Linz",
+        "Rooftop structures",
+        "Sausage stands in Linz"
+      ],
+      "auteur": "Christoph Waghubinger ( Lewenstein )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Haltestelle_JKU_Universitaet_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Haltestelle_JKU_Universitaet_1.jpg/1280px-Haltestelle_JKU_Universitaet_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7020,
+      "hauteur": 4680
+    }
+  ]
+}

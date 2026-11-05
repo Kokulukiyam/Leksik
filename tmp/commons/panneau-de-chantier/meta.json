@@ -1,0 +1,171 @@
+{
+  "terme": {
+    "id": "panneau-de-chantier",
+    "terme": "le panneau de chantier",
+    "categorie": "Chantier et outillage",
+    "definition": "Grand panneau d'affichage dressé à l'entrée d'un chantier, qui présente le projet, le permis de construire et les intervenants.",
+    "priorite": 2,
+    "requetes": [
+      "construction site sign board",
+      "panneau de chantier permis de construire",
+      "construction project signboard"
+    ],
+    "incompatibles": [
+      "palissade-de-chantier"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Browary Warszawskie complex under construction, 31.jpg",
+      "description": "Browary Warszawskie complex under construction",
+      "categories": [
+        "Self-published work",
+        "Files by Wistula",
+        "Information board construction site safety",
+        "April 2020 in Warsaw",
+        "Laboratorium (Browary Warszawskie)",
+        "Browary Warszawskie complex (under construction)",
+        "Apartamenty przy Warzelni"
+      ],
+      "auteur": "Wistula",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Browary_Warszawskie_complex_under_construction,_31.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Browary_Warszawskie_complex_under_construction%2C_31.jpg/1280px-Browary_Warszawskie_complex_under_construction%2C_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Wenxin Road sidewalk construction sign 20180606.jpg",
+      "description": "​中山醫學大學附設醫院口腔醫學門診部大門對面，臺中捷運烏日文心北屯線文心路沿線人行道拓寬工程告示牌，臺中市政府建設局建置。",
+      "categories": [
+        "Taichung Metro Green Line",
+        "Chung Shan Medical University Hospital",
+        "Construction signs in Taiwan",
+        "Self-published work",
+        "2018 photographs of Taichung",
+        "Construction project signs",
+        "Construction Bureau of Taichung City Government"
+      ],
+      "auteur": "Dquai",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wenxin_Road_sidewalk_construction_sign_20180606.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Wenxin_Road_sidewalk_construction_sign_20180606.jpg/1280px-Wenxin_Road_sidewalk_construction_sign_20180606.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4208,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bonn, Regierungsviertel, Baustelle -- 2017 -- 2119.jpg",
+      "description": "Construction site of the “Bula Zone” of the 2017 United Nations Climate Change Conference in the former government district, Bonn , North Rhine-Westphalia , Germany",
+      "categories": [
+        "Bilingual English-German signs in Germany",
+        "No entry signs in Germany",
+        "Taken with Canon EOS 70D",
+        "Photographs with aspect ratio of 3:2",
+        "Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM",
+        "ISO speed rating 100",
+        "Uploaded with VicuñaUploader",
+        "Fence signs in Germany",
+        "Self-published work",
+        "Objects with inscriptions in German needing translation",
+        "Exposure time 1/400 sec",
+        "F-number f/6.3",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Information field template with formatting",
+        "Fences in Bonn",
+        "2017 United Nations Climate Change Conference (Bula-Zone)",
+        "Information board construction site safety",
+        "Security signs",
+        "Photographs by Dietmar Rabich/Bonn",
+        "Construction sites in Bonn",
+        "Images by XRay (flat list)",
+        "Banners in Bonn",
+        "Construction site fences in Bonn",
+        "Metal fences in North Rhine-Westphalia",
+        "Photographs by Dietmar Rabich/Quality images of signs",
+        "Bonn photographs taken on 2017-08-20",
+        "Lens focal length 29 mm",
+        "Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia",
+        "Photographs by Dietmar Rabich/Quality images of construction sites",
+        "Photographs by Dietmar Rabich/Quality images of fences",
+        "Photographs by Dietmar Rabich/Year/2017"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bonn,_Regierungsviertel,_Baustelle_--_2017_--_2119.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bonn%2C_Regierungsviertel%2C_Baustelle_--_2017_--_2119.jpg/1280px-Bonn%2C_Regierungsviertel%2C_Baustelle_--_2017_--_2119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5281,
+      "hauteur": 3521
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:TRTS Xinyi Line Sectional Contract CR580C construction sign 20201001.jpg",
+      "description": "​臺北都會區大眾捷運系統信義線東延段CR580C區段標工程告示牌，臺北市政府捷運工程局建置。",
+      "categories": [
+        "Department of Rapid Transit Systems, Taipei City Government",
+        "Taiwan photographs taken on 2020-10-01",
+        "Construction signs in Taiwan",
+        "Self-published work",
+        "2020 photographs of Taipei",
+        "Construction of the Taipei Metro Xinyi Line"
+      ],
+      "auteur": "Alika113",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TRTS_Xinyi_Line_Sectional_Contract_CR580C_construction_sign_20201001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/TRTS_Xinyi_Line_Sectional_Contract_CR580C_construction_sign_20201001.jpg/1280px-TRTS_Xinyi_Line_Sectional_Contract_CR580C_construction_sign_20201001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dornbirn-Heron-building site-cranes-warning signs-02ASD.jpg",
+      "description": "Site de construction de la société Heron à Dornbirn, Vorarlberg, Autriche. Grues de construction, danger et informations d'avertissement, sécurité du site de la construction d'informations.",
+      "categories": [
+        "Heron (Company)",
+        "Self-published work",
+        "German-language signs in Austria",
+        "April 2021 in Vorarlberg",
+        "Construction cranes in Austria",
+        "Austria photographs taken on 2021-04-19",
+        "Information board construction site safety",
+        "Security signs",
+        "April 2021 in construction in Austria",
+        "Metal fences in Austria",
+        "Construction site fences in Austria",
+        "Road signs in Vorarlberg",
+        "Construction sites in Vorarlberg",
+        "Files with coordinates missing SDC location of creation",
+        "2021 in construction in Vorarlberg",
+        "Photographs by Asurnipal-Dornbirn",
+        "Wolff 7534 clear"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-Heron-building_site-cranes-warning_signs-02ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Dornbirn-Heron-building_site-cranes-warning_signs-02ASD.jpg/1280px-Dornbirn-Heron-building_site-cranes-warning_signs-02ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2009-08-27 information board at a building construction site in Taipei.jpg",
+      "description": "information board at a building construction site in Taipei",
+      "categories": [
+        "Taiwan photographs taken on 2009-08-27",
+        "Building construction sites in Taiwan",
+        "Construction signs in Taiwan",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2009 photographs of Taipei",
+        "Information boards in Taipei"
+      ],
+      "auteur": "Michell Zappa",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2009-08-27_information_board_at_a_building_construction_site_in_Taipei.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/2009-08-27_information_board_at_a_building_construction_site_in_Taipei.jpg/1280px-2009-08-27_information_board_at_a_building_construction_site_in_Taipei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2016,
+      "hauteur": 1344
+    }
+  ]
+}

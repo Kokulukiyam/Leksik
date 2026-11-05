@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "barre-antipanique",
+    "terme": "la barre antipanique",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Barre horizontale sur toute la largeur d'une porte de sortie, qui la déverrouille par simple poussée.",
+    "priorite": 2,
+    "requetes": [
+      "panic bar door",
+      "barre antipanique",
+      "push bar emergency exit"
+    ],
+    "incompatibles": [
+      "porte-coupe-feu"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Barra antipánico universal 1910.jpg",
+      "description": "Barra antipánico universal 1910.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Push bars",
+        "Self-published work"
+      ],
+      "auteur": "TESA",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barra_antip%C3%A1nico_universal_1910.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Barra_antip%C3%A1nico_universal_1910.jpg/1280px-Barra_antip%C3%A1nico_universal_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2677,
+      "hauteur": 1309
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Set of Crash Bar Doors.jpg",
+      "description": "A set of doors in a US school fitted with push bars (aka. panic or crash bars) and upper Pullman latches.",
+      "categories": [
+        "Taken with Google Pixel",
+        "Push bars",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Scott Brody",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Set_of_Crash_Bar_Doors.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Set_of_Crash_Bar_Doors.jpg/1280px-Set_of_Crash_Bar_Doors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2720,
+      "hauteur": 2720
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:3442 709 Türsäule.jpg",
+      "description": "",
+      "categories": [
+        "Second class train interiors in Germany",
+        "LED displays on trains in Germany",
+        "FAL",
+        "Images with annotations",
+        "Media lacking a description",
+        "Push bars",
+        "Uploaded with VicuñaUploader",
+        "Train emergency brakes",
+        "Self-published work",
+        "Emergency signal buttons",
+        "Waste containers in trains",
+        "Train interiors of DBAG Class 442",
+        "Liquid crystal displays in trains",
+        "Emergency brake handles",
+        "Railway station indicators",
+        "Emergency door unlock",
+        "DBAG Class 3442"
+      ],
+      "auteur": "User:nenntmichruhigip on Wikimedia Commons",
+      "licence": "FAL",
+      "lien": "https://commons.wikimedia.org/wiki/File:3442_709_T%C3%BCrs%C3%A4ule.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/3442_709_T%C3%BCrs%C3%A4ule.jpg/1280px-3442_709_T%C3%BCrs%C3%A4ule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Pointless panic bar - Photo A Day 7 29 2009 (3774519428).jpg",
+      "description": "I'm not sure why this panic bar was installed. It has no latch and is permanently fixed in the \"unlocked\" mode.",
+      "categories": [
+        "Door furniture",
+        "2009 in Seattle",
+        "Doors in Washington (state)",
+        "Building interiors in Washington (state)",
+        "July 2009 in Washington (state)",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Buildings on the University of Washington Seattle campus"
+      ],
+      "auteur": "Atomic Taco from Seattle, WA, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pointless_panic_bar_-_Photo_A_Day_7_29_2009_(3774519428).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Pointless_panic_bar_-_Photo_A_Day_7_29_2009_%283774519428%29.jpg/1280px-Pointless_panic_bar_-_Photo_A_Day_7_29_2009_%283774519428%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Barra antipánico.jpg",
+      "description": "Barra antipánico instalada en un puerta.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Push bars",
+        "Self-published work"
+      ],
+      "auteur": "TESA",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barra_antip%C3%A1nico.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Barra_antip%C3%A1nico.jpg/1280px-Barra_antip%C3%A1nico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3898,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Panic bar.jpg",
+      "description": "Typical \"panic bar\" hardware for emergency egress.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix S51",
+        "License migration redundant",
+        "Push bars",
+        "Self-published work"
+      ],
+      "auteur": "Jonathan Clemens ( Jclemens ( talk ))",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Panic_bar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Panic_bar.jpg/1280px-Panic_bar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2382,
+      "hauteur": 1929
+    }
+  ]
+}

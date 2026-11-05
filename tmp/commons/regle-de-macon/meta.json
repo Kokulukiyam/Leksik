@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "regle-de-macon",
+    "terme": "la règle de maçon",
+    "categorie": "Chantier et outillage",
+    "definition": "Longue barre droite en aluminium, qu'on tire sur une chape ou un enduit frais pour le dresser.",
+    "priorite": 2,
+    "requetes": [
+      "screed rule aluminium",
+      "règle de maçon",
+      "straightedge plastering"
+    ],
+    "categoriesCommons": [
+      "Category:Screeds",
+      "Category:Straightedges"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:DIEGO GARCIA (Sept 21, 2019) (5814019).jpg",
+      "description": "DIEGO GARCIA (Sept. 21, 2019) Equipment Operator 3rd Class Joseph Wilson, assigned to Naval Mobile Construction Battalion (NMCB) 4, uses screeding board to distribute and level out concrete. NMCB 4 is forward-deployed throughout the Indo-Pacific region ready to support major combat operations, humanitarian assistance and disaster relief and to provide general engineering and civil support to U.S. and joint forces. (U.S. Navy photo by Builder 3rd Class Emma R. Soflin/Released)",
+      "categories": [
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "United Kingdom photographs taken on 2019-09-21",
+        "United States Navy in 2019",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, United Kingdom (review needed)",
+        "Screeds",
+        "Screeding"
+      ],
+      "auteur": "U.S. Navy photo by [null Courtesy]",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:DIEGO_GARCIA_(Sept_21,_2019)_(5814019).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/DIEGO_GARCIA_%28Sept_21%2C_2019%29_%285814019%29.jpg/1280px-DIEGO_GARCIA_%28Sept_21%2C_2019%29_%285814019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Uso típico del renglón en Albañileria.jpg",
+      "description": "Ejemplo de uso de dos regles para alizar una pared.",
+      "categories": [
+        "Masonry",
+        "Straightedges",
+        "Self-published work"
+      ],
+      "auteur": "Edtag",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Uso_t%C3%ADpico_del_rengl%C3%B3n_en_Alba%C3%B1ileria.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Uso_t%C3%ADpico_del_rengl%C3%B3n_en_Alba%C3%B1ileria.jpg/1280px-Uso_t%C3%ADpico_del_rengl%C3%B3n_en_Alba%C3%B1ileria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Monument de Joseph Sec vue générale.JPG",
+      "description": "Monument de Joseph Sec , 8 avenue Pasteur, Aix-en-Provence, France. Rare exemple d’architecture Révolutionnaire, ce cénotaphe fut édifié en 1792. Ses statues, ses médaillons et ses nombreuses inscriptions peuvent se lire de différentes manières. Les thèmes la Révolution de 1789, la liberté et l’égalité y dominent. La Loi issue de la Raison et des Lumières est placée au sommet, au-dessus de Moïse et des Dix Commandements, dont elle hérite et qu’elle dépasse. L’Europe, à sa gauche, la désigne aux Peuples comme leur unique règle, alors que l’Afrique esclave, à sa droite, demande sa protection pou",
+      "categories": [
+        "Monument de Joseph Sec",
+        "Self-published work",
+        "Photographs 2012 by Le Passant"
+      ],
+      "auteur": "Le Passant",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Monument_de_Joseph_Sec_vue_g%C3%A9n%C3%A9rale.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Monument_de_Joseph_Sec_vue_g%C3%A9n%C3%A9rale.JPG/1280px-Monument_de_Joseph_Sec_vue_g%C3%A9n%C3%A9rale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2722,
+      "hauteur": 2326
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:LiquidScreed.jpg",
+      "description": "Liquid Screed has been pumped over UFH pipes",
+      "categories": [
+        "Self-published work",
+        "Screeds"
+      ],
+      "auteur": "Southern Liquid Screed",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LiquidScreed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/LiquidScreed.jpg/1280px-LiquidScreed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Straight-edge owned by Henry David Thoreau, c. 1830 - Concord Museum - Concord, MA - DSC05642.JPG",
+      "description": "Exhibit in the Concord Museum, Concord, Massachusetts, USA.",
+      "categories": [
+        "CC-Zero",
+        "Author died more than 100 years ago public domain images",
+        "Straightedges",
+        "Self-published work",
+        "CC-PD-Mark",
+        "Files uploaded by Daderot",
+        "Henry David Thoreau exhibits in the Concord Museum"
+      ],
+      "auteur": "Daderot",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Straight-edge_owned_by_Henry_David_Thoreau,_c._1830_-_Concord_Museum_-_Concord,_MA_-_DSC05642.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Straight-edge_owned_by_Henry_David_Thoreau%2C_c._1830_-_Concord_Museum_-_Concord%2C_MA_-_DSC05642.JPG/1280px-Straight-edge_owned_by_Henry_David_Thoreau%2C_c._1830_-_Concord_Museum_-_Concord%2C_MA_-_DSC05642.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4842,
+      "hauteur": 2421
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Monument de Joseph Sec Potelet d'information et entrée du jardin.JPG",
+      "description": "Monument de Joseph Sec , 8 avenue Pasteur, Aix-en-Provence, France. Rare exemple d’architecture Révolutionnaire, ce cénotaphe fut édifié en 1792. Ses statues, ses médaillons et ses nombreuses inscriptions peuvent se lire de différentes manières. Les thèmes la Révolution de 1789, la liberté et l’égalité y dominent. La Loi issue de la Raison et des Lumières est placée au sommet, au-dessus de Moïse et des Dix Commandements, dont elle hérite et qu’elle dépasse. L’Europe, à sa gauche, la désigne aux Peuples comme leur unique règle, alors que l’Afrique esclave, à sa droite, demande sa protection pou",
+      "categories": [
+        "Monument de Joseph Sec",
+        "Self-published work",
+        "Potelets \"Histoire de la cité d'Aix-en-Provence\"",
+        "Photographs 2013 by Le Passant"
+      ],
+      "auteur": "Le Passant",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Monument_de_Joseph_Sec_Potelet_d%27information_et_entr%C3%A9e_du_jardin.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Monument_de_Joseph_Sec_Potelet_d%27information_et_entr%C3%A9e_du_jardin.JPG/1280px-Monument_de_Joseph_Sec_Potelet_d%27information_et_entr%C3%A9e_du_jardin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    }
+  ]
+}

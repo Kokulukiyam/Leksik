@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "mur-de-soutenement",
+    "terme": "le mur de soutènement",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Mur, maçonné ou en béton armé, qui retient les terres d'un talus ou d'un terrain en pente, le sol étant plus haut d'un côté que de l'autre.",
+    "priorite": 2,
+    "requetes": [
+      "retaining wall",
+      "mur de soutènement",
+      "incategory:\"Retaining walls\""
+    ],
+    "incompatibles": [
+      "barbacane"
+    ],
+    "categoriesCommons": [
+      "Category:Retaining walls",
+      "Category:Walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Passu Glacier (cones).jpg",
+      "description": "The most photographed place of Passu. pass glacier on top.",
+      "categories": [
+        "Passu Sar",
+        "Batura Muztagh",
+        "Passu Glacier",
+        "Images with annotations",
+        "Retaining walls",
+        "Self-published work",
+        "Curves (road)",
+        "Uploaded via Campaign:wle-pk",
+        "Images from Wiki Loves Earth 2017 in Pakistan",
+        "Images from Wiki Loves Earth 2017",
+        "Clouds and blue sky in Pakistan",
+        "Pakistan photographs taken on 2016-08-01",
+        "WLE 2016 Pakistan unreviewed",
+        "Snow in Pakistan in August",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Mountains of Pakistan with annotations"
+      ],
+      "auteur": "Ali Gorssi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Passu_Glacier_(cones).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Passu_Glacier_%28cones%29.jpg/1280px-Passu_Glacier_%28cones%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5312,
+      "hauteur": 2988
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:500px photo (49717854).jpeg",
+      "description": "500px provided description: Untitled [#italy ,#black and white ,#photo ,#brick ,#wall ,#photographer ,#imagoproject ,#landiona]",
+      "categories": [
+        "Walls",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Emanuele Meschini",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(49717854).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/500px_photo_%2849717854%29.jpeg/1280px-500px_photo_%2849717854%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1365,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Anglers on the old Grand Canal, Beijing.jpg",
+      "description": "Anglers looking for fish in the waters of the former Grand Canal in Beijing's Shichahai neighborhood.",
+      "categories": [
+        "Fishermen from China",
+        "Spring in China",
+        "GFDL",
+        "Shichahai",
+        "Dongcheng District, Beijing",
+        "Retaining walls",
+        "License migration redundant",
+        "Self-published work",
+        "Men crouching",
+        "Men smoking cigarettes",
+        "Canals in Beijing"
+      ],
+      "auteur": "Daniel Case",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anglers_on_the_old_Grand_Canal,_Beijing.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anglers_on_the_old_Grand_Canal%2C_Beijing.jpg/1280px-Anglers_on_the_old_Grand_Canal%2C_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4104,
+      "hauteur": 3156
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2011 tapia adobe.jpg",
+      "description": "Tapia de adobe en la localidad de Benamariel (León-España). Las tapias de Adobe eran construcciones frecuentes para delimitar huertos y espacios rurales.",
+      "categories": [
+        "Walls",
+        "Self-published work",
+        "Unidentified plants (low quality)",
+        "Adobe in Spain"
+      ],
+      "auteur": "Jlbarrallo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2011_tapia_adobe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2011_tapia_adobe.jpg/1280px-2011_tapia_adobe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2248
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dawlish - CrossCountry 43366-43378 passing the sea wall works.jpg",
+      "description": "Engineers are installing another panel in the new sea wall at Dawlish as a CrossCountry High Speed Train passes on its way to Plymouth. Power car 43366 is on the front with 43378 at the back.",
+      "categories": [
+        "GFDL",
+        "Retaining walls",
+        "License migration redundant",
+        "Self-published work",
+        "Trains on the South Devon Railway sea wall in Dawlish",
+        "British Rail Class 43s on the South Devon Main Line",
+        "March 2020 in Devon",
+        "United Kingdom photographs taken on 2020-03-14",
+        "Railway photographs taken on 2020-03-14",
+        "British Rail Class 43 43166 (43366)",
+        "Railway photographs by Geof Sheppard",
+        "British Rail Class 43s in CrossCountry livery",
+        "Trains of CrossCountry on the South Devon Main Line",
+        "British Rail Class 43s of CrossCountry",
+        "2020 on the South Devon Railway sea wall"
+      ],
+      "auteur": "Geof Sheppard",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dawlish_-_CrossCountry_43366-43378_passing_the_sea_wall_works.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Dawlish_-_CrossCountry_43366-43378_passing_the_sea_wall_works.jpg/1280px-Dawlish_-_CrossCountry_43366-43378_passing_the_sea_wall_works.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1366,
+      "hauteur": 820
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:17 Abbotsford Road, Willowbush, Boundary Walls.jpg",
+      "description": "17 Abbotsford Road, Willowbush, Boundary Walls (architectural structure in Scottish Borders, Scotland, UK)",
+      "categories": [
+        "Walls",
+        "Listed buildings in the Scottish Borders",
+        "Buildings in Galashiels",
+        "Self-published work",
+        "Scotland photographs taken on 2021-08-19",
+        "Uploaded with Mobile/Android",
+        "August 2021 in the Scottish Borders"
+      ],
+      "auteur": "Victuallers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:17_Abbotsford_Road,_Willowbush,_Boundary_Walls.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/17_Abbotsford_Road%2C_Willowbush%2C_Boundary_Walls.jpg/1280px-17_Abbotsford_Road%2C_Willowbush%2C_Boundary_Walls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    }
+  ]
+}

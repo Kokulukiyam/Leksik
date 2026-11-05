@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "chapiteau-ionique",
+    "terme": "le chapiteau ionique",
+    "categorie": "Ornement",
+    "definition": "Chapiteau orné de deux grandes volutes enroulées de part et d'autre.",
+    "priorite": 2,
+    "requetes": [
+      "incategory:\"Ionic capitals\"",
+      "ionic capital",
+      "chapiteau ionique"
+    ],
+    "incompatibles": [
+      "chapiteau",
+      "volute"
+    ],
+    "categoriesCommons": [
+      "Category:Ionic capitals",
+      "Category:Ionic order",
+      "Category:Capitals (architecture)"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ajuntament de Barcelona - 019.jpg",
+      "description": "Ajuntament de Barcelona - Façana neoclàssica.",
+      "categories": [
+        "Taken with Olympus E-510",
+        "Self-published work",
+        "PD-self",
+        "Ionic capitals",
+        "Files with coordinates missing SDC location of creation",
+        "Columns in Barcelona",
+        "Ionic columns in Catalonia",
+        "Clocks in Barcelona",
+        "Neoclassical facade of Ajuntament de Barcelona",
+        "Friezes in Barcelona",
+        "Tympanums in Barcelona"
+      ],
+      "auteur": "Mutari 17:12, 18 November 2007 (UTC)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ajuntament_de_Barcelona_-_019.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ajuntament_de_Barcelona_-_019.jpg/1280px-Ajuntament_de_Barcelona_-_019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1115
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ionic polychromy Die Baukunst der Griechen.jpg",
+      "description": "Ionic polychromy Die Baukunst der Griechen",
+      "categories": [
+        "PD-old-70-expired",
+        "Ionic order",
+        "CC-PD-Mark"
+      ],
+      "auteur": "Durm, Josef Wilhelm, 1837-1919",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ionic_polychromy_Die_Baukunst_der_Griechen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Ionic_polychromy_Die_Baukunst_der_Griechen.jpg/1280px-Ionic_polychromy_Die_Baukunst_der_Griechen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2488,
+      "hauteur": 4115
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Kapitell fm812421.jpg",
+      "description": "Kapitell",
+      "categories": [
+        "Capitals (architecture)",
+        "Images from Bildindex der Kunst und Architektur",
+        "Uploaded with OpenRefine",
+        "PD-old-100-expired",
+        "CC-PD-Mark",
+        "Photographs from Bildindex der Kunst und Architektur by Ludwig Bickell",
+        "Photographs of unidentified locations by Ludwig Bickell"
+      ],
+      "auteur": "Ludwig Bickell",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kapitell_fm812421.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kapitell_fm812421.jpg/1280px-Kapitell_fm812421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6336,
+      "hauteur": 8434
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fairmontstatecolumn.JPG",
+      "description": "Fairmont State University - Fairmont, WV",
+      "categories": [
+        "Taken with Olympus u1010 / S-1010",
+        "Fairmont State University",
+        "Self-published work",
+        "Ionic capitals"
+      ],
+      "auteur": "Jodyperry",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fairmontstatecolumn.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Fairmontstatecolumn.JPG/1280px-Fairmontstatecolumn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3137,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:02 2020 Grecia photo Paolo Villa FO199975 (Olimpia parco archeologico - palestra - colonna ordine ionico - gym - ionic order column).jpg",
+      "description": "02 2020 Grecia photo Paolo Villa (Olimpia parco archeologico - palestra - ordine ionico ) 02 2020 Greece photo Paolo Villa (Olympia archaeological park - gym - ionic order) PAOLO VILLA VERONA ITALY (first edition commons.wikimedia.org)",
+      "categories": [
+        "Ionic order",
+        "Self-published work",
+        "Ionic columns in Greece",
+        "Columns in Olympia",
+        "Palaestra at Olympia, east side"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:02_2020_Grecia_photo_Paolo_Villa_FO199975_(Olimpia_parco_archeologico_-_palestra_-_colonna_ordine_ionico_-_gym_-_ionic_order_column).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/02_2020_Grecia_photo_Paolo_Villa_FO199975_%28Olimpia_parco_archeologico_-_palestra_-_colonna_ordine_ionico_-_gym_-_ionic_order_column%29.jpg/1280px-02_2020_Grecia_photo_Paolo_Villa_FO199975_%28Olimpia_parco_archeologico_-_palestra_-_colonna_ordine_ionico_-_gym_-_ionic_order_column%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 4928
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Menara doa.jpg",
+      "description": "objek wisata rohani Inconnu Unknown",
+      "categories": [
+        "Churches in Indonesia",
+        "Portals",
+        "Capitals (architecture)",
+        "Pilasters",
+        "Friezes",
+        "Pointed arches",
+        "Self-published work",
+        "Doors in Indonesia",
+        "Template Unknown (unspecified)"
+      ],
+      "auteur": "Rexson Agape Hutajulu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Menara_doa.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Menara_doa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1108,
+      "hauteur": 1477
+    }
+  ]
+}

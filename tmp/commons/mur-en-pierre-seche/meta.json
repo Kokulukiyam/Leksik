@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "mur-en-pierre-seche",
+    "terme": "le mur en pierre sèche",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Mur fait de pierres empilées et calées entre elles, sans aucun mortier.",
+    "priorite": 2,
+    "requetes": [
+      "dry stone wall",
+      "mur en pierre sèche",
+      "drystone wall"
+    ],
+    "incompatibles": [
+      "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Dry stone walls",
+      "Category:Stone walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ponta do Sol - Trockenmauer.JPG",
+      "description": "Ponta do Sol-Trockenmauer",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Dry stone walls"
+      ],
+      "auteur": "Franzfoto",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ponta_do_Sol_-_Trockenmauer.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Ponta_do_Sol_-_Trockenmauer.JPG/1280px-Ponta_do_Sol_-_Trockenmauer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A Kenya (10).jpg",
+      "description": "Ceci est une image du genre Musique et Danse de :",
+      "categories": [
+        "Bathtubs",
+        "Stone walls",
+        "Houses in Kenya",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2016",
+        "Images from Wiki Loves Africa 2016 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2016 without categories",
+        "Images from Wiki Loves Africa 2016 in Kenya",
+        "Outdoor showers",
+        "Outdoor baths"
+      ],
+      "auteur": "Olashxs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Kenya_(10).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_Kenya_%2810%29.jpg/1280px-A_Kenya_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bedouin children outside a tent in the Egyptian desert.jpg",
+      "description": "Bedouin children in the Egyptian desert",
+      "categories": [
+        "GFDL",
+        "Deserts",
+        "Bedouins in Egypt",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Children of Egypt",
+        "Self-published work",
+        "Dry stone walls",
+        "Bedouin tents"
+      ],
+      "auteur": "Peter van der Sluijs",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bedouin_children_outside_a_tent_in_the_Egyptian_desert.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Bedouin_children_outside_a_tent_in_the_Egyptian_desert.jpg/1280px-Bedouin_children_outside_a_tent_in_the_Egyptian_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1215
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:4332 - Thun - View from Hotel Emmental.JPG",
+      "description": "View from Hotel Emmental, Thun , Switzerland",
+      "categories": [
+        "Taken with Canon PowerShot A640",
+        "Defensive walls",
+        "Stone walls",
+        "Streets in Thun",
+        "Self-published work",
+        "City walls in Switzerland",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:4332_-_Thun_-_View_from_Hotel_Emmental.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/4332_-_Thun_-_View_from_Hotel_Emmental.JPG/1280px-4332_-_Thun_-_View_from_Hotel_Emmental.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Indonesia - Bali (27112352100).jpg",
+      "description": "Indonesia - Bali",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Dry stone walls",
+        "Flickr images reviewed by FlickreviewR",
+        "Unidentified locations in Bali",
+        "Photographs by Klim Levene"
+      ],
+      "auteur": "Visions of Domino",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Indonesia_-_Bali_(27112352100).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Indonesia_-_Bali_%2827112352100%29.jpg/1280px-Indonesia_-_Bali_%2827112352100%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1667
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:- panoramio (1689).jpg",
+      "description": "Dirt road in unidentified country",
+      "categories": [
+        "Stone walls",
+        "Dirt roads",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Streets in unidentified countries",
+        "Images from Panoramio with bad file names"
+      ],
+      "auteur": "M Asif",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_(1689).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/-_panoramio_%281689%29.jpg/1280px--_panoramio_%281689%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    }
+  ]
+}

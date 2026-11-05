@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "saignee",
+    "terme": "la saignée",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Rainure creusée dans un mur ou une dalle pour y encastrer une gaine ou un tuyau.",
+    "priorite": 2,
+    "requetes": [
+      "wall chasing conduit groove",
+      "saignée mur gaine",
+      "chased wall electrical"
+    ],
+    "incompatibles": [
+      "gaine-icta"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Brice Scientific Hall (13959904589).jpg",
+      "description": "Persistent URL: digital.lib.miamioh.edu/cdm/ref/collection/postcards/id/6297 Subject (TGM): Universities colleges; Buildings; Brickwork; Ohio--Oxford",
+      "categories": [
+        "Masonry",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Files from Miami University Libraries - Digital Collections",
+        "Bowden Postcard Collection",
+        "Postcards of Oxford, Ohio"
+      ],
+      "auteur": "Miami U. Libraries - Digital Collections",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brice_Scientific_Hall_(13959904589).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Brice_Scientific_Hall_%2813959904589%29.jpg/1280px-Brice_Scientific_Hall_%2813959904589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3202,
+      "hauteur": 2125
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Brick work P7100076.jpg",
+      "description": "Brick work in Laclede's Landing, St. Louis, Missouri.",
+      "categories": [
+        "Masonry",
+        "Laclede's Landing, St. Louis",
+        "Self-published work",
+        "Laclede's Landing Image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_work_P7100076.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Brick_work_P7100076.jpg/1280px-Brick_work_P7100076.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2019 Mission San Juan Capistrano arcade brickwork.jpg",
+      "description": "The Mission San Juan Capistrano is a former Spanish mission founded in 1776 in colonial Las Californias by Spanish Catholic missionaries of the Franciscan Order. Named for Saint John of Capistrano, the Spanish Colonial Baroque style church was located in the Alta California province of the Viceroyalty of New Spain . Today, it is located at 26801 Ortega Highway in San Juan Capistrano , Orange County, California. The Mission was secularized by the Mexican government in 1833, and returned to the Roman Catholic Church by the American government in 1865. The mission was damaged over the years on a ",
+      "categories": [
+        "GFDL",
+        "Masonry",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Arcades and archways of Mission San Juan Capistrano",
+        "Images by Beyond My Ken/Other/Orange County"
+      ],
+      "auteur": "Beyond My Ken",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2019_Mission_San_Juan_Capistrano_arcade_brickwork.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2019_Mission_San_Juan_Capistrano_arcade_brickwork.jpg/1280px-2019_Mission_San_Juan_Capistrano_arcade_brickwork.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Alhamra Arts Council.jpg",
+      "description": "Ceci est une une image d'un monument du Pakistan identifié par le numéro",
+      "categories": [
+        "Alhamra Art Centre",
+        "Masonry",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2016",
+        "Brick structures",
+        "Cultural heritage monuments in Pakistan with known IDs",
+        "Uploaded via Campaign:wlm-pk",
+        "WLM 2014 Pakistan unreviewed",
+        "Images from Wiki Loves Monuments 2016 in Pakistan",
+        "Files with coordinates missing SDC location of creation",
+        "Pakistan photographs taken on 2016-09-04",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Pakistan missing SDC location of creation",
+        "Cultural heritage monuments in Pakistan missing SDC depicts"
+      ],
+      "auteur": "Hashem Nazar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alhamra_Arts_Council.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Alhamra_Arts_Council.jpg/1280px-Alhamra_Arts_Council.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3059,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:1392713 - Ipswich, Walls enclosing Jewish burial ground.jpg",
+      "description": "Walls Enclosing Jews' Burial Ground .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-pa",
+      "categories": [
+        "Masonry",
+        "Grade II listed buildings in Suffolk",
+        "Self-published work",
+        "Potential image for Wikidata item",
+        "Listed buildings in England with known IDs",
+        "Gravestones in Suffolk",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "October 2020 in Suffolk",
+        "Jewish cemeteries in England",
+        "Cemeteries in Ipswich"
+      ],
+      "auteur": "Barrymyles",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1392713_-_Ipswich,_Walls_enclosing_Jewish_burial_ground.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/1392713_-_Ipswich%2C_Walls_enclosing_Jewish_burial_ground.jpg/1280px-1392713_-_Ipswich%2C_Walls_enclosing_Jewish_burial_ground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A brick wall destroyed by erosion from dampness.jpg",
+      "description": "Кирпичная стена, разрушенная эрозией от сырости",
+      "categories": [
+        "Masonry",
+        "Self-published work",
+        "Taken with BQ Mobile Choice"
+      ],
+      "auteur": "Алёна Синичкина",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_brick_wall_destroyed_by_erosion_from_dampness.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/A_brick_wall_destroyed_by_erosion_from_dampness.jpg/1280px-A_brick_wall_destroyed_by_erosion_from_dampness.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    }
+  ]
+}

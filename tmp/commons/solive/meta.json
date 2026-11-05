@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "solive",
+    "terme": "la solive",
+    "categorie": "Structure",
+    "definition": "Pièce de bois posée en série parallèle entre deux murs ou poutres pour porter un plancher.",
+    "priorite": 2,
+    "requetes": [
+      "wooden floor joists",
+      "solives plancher bois",
+      "timber joists"
+    ],
+    "incompatibles": [
+      "chevetre"
+    ],
+    "categoriesCommons": [
+      "Category:Joists",
+      "Category:Wooden beams"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Defense.gov News Photo 090710-N-0535P-025.jpg",
+      "description": "U.S. Navy Petty Officer 2nd Class Mehgan Rodriguez works on a deck for a house being built with the Pacific Missile Range Facility and Habitat for Humanity in Hanapepe, Hawaii, on July 10, 2009.",
+      "categories": [
+        "Taken with Nikon D2X",
+        "Joists",
+        "Women in the United States Navy",
+        "PD US Navy",
+        "Images with extracted images",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Females looking down",
+        "Photographs taken on 2009-07-10",
+        "Carpenters in the United States",
+        "Faebot identified duplicates",
+        "Defense.gov news media for July 2009",
+        "Import by User:Slick-o-bot/Defense.gov News Photos"
+      ],
+      "auteur": "Petty Officer 2nd Class Jay C. Pugh, U.S. Navy",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_090710-N-0535P-025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Defense.gov_News_Photo_090710-N-0535P-025.jpg/1280px-Defense.gov_News_Photo_090710-N-0535P-025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2100,
+      "hauteur": 1410
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:St Mary's church Ellingham Norfolk (3989236158).jpg",
+      "description": "Floor of the ringing chamber in the west tower of St Mary's parish church, Ellingham, Norfolk, seen from below",
+      "categories": [
+        "Wooden beams",
+        "14th-century church towers in Norfolk, England",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Floors in England",
+        "St Mary's, Ellingham, Norfolk (interior)",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "David from Colorado Springs, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_church_Ellingham_Norfolk_(3989236158).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/St_Mary%27s_church_Ellingham_Norfolk_%283989236158%29.jpg/1280px-St_Mary%27s_church_Ellingham_Norfolk_%283989236158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1398,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Floor Joists with Railroad Boxcar Numbers (9000979286).jpg",
+      "description": "Basement of the Stony Point Bed and Breakfast in Tyrone, Pennsylvania. Built in 1920. The original Owner ran the Tyrone district of the Pennsylvania Railroad and his men built the house for him (on their time off?) from dismantled boxcars. These are numbers from the old boxcars.",
+      "categories": [
+        "Rail transport in Pennsylvania",
+        "Joists",
+        "Tyrone, Pennsylvania",
+        "Buildings in Blair County, Pennsylvania",
+        "History of Blair County, Pennsylvania",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Built in Pennsylvania in 1920",
+        "Files with coordinates missing SDC location of creation",
+        "Repurposed rail vehicles",
+        "Photographs by David Brossard",
+        "Floors in Pennsylvania"
+      ],
+      "auteur": "David Brossard",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Floor_Joists_with_Railroad_Boxcar_Numbers_(9000979286).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Floor_Joists_with_Railroad_Boxcar_Numbers_%289000979286%29.jpg/1280px-Floor_Joists_with_Railroad_Boxcar_Numbers_%289000979286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5258,
+      "hauteur": 3505
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:049 Masia Freixa (Terrassa), embigat del sostre.jpg",
+      "description": "Masia Freixa (Terrassa), embigat del sostre",
+      "categories": [
+        "Wooden beams",
+        "Self-published work",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Uploaded via Campaign:wlm-es-cat",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts",
+        "Images from Wiki Loves Monuments 2026",
+        "All media supported by Wikimedia España in 2026",
+        "Images from Wiki Loves Monuments 2026 in Spain",
+        "Interior of Masia Freixa"
+      ],
+      "auteur": "Enric",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:049_Masia_Freixa_(Terrassa),_embigat_del_sostre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/049_Masia_Freixa_%28Terrassa%29%2C_embigat_del_sostre.jpg/1280px-049_Masia_Freixa_%28Terrassa%29%2C_embigat_del_sostre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Freshwater, Newfoundland (4978149898).jpg",
+      "description": "Renovating the house in Freshwater. Photo courtesy of Calvin Canning and colleagues.",
+      "categories": [
+        "Joists",
+        "Files with coordinates missing SDC location of creation",
+        "Canada photographs taken on 2009-09-17",
+        "Flickr images reviewed by FlickreviewR 2",
+        "September 2009 in Newfoundland and Labrador",
+        "Building interiors in Freshwater, Placentia Bay, Newfoundland and Labrador"
+      ],
+      "auteur": "Jeremy T. Hetzel from Boston, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Freshwater,_Newfoundland_(4978149898).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Freshwater%2C_Newfoundland_%284978149898%29.jpg/1280px-Freshwater%2C_Newfoundland_%284978149898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Freshwater, Newfoundland (4978148596).jpg",
+      "description": "Renovating the house in Freshwater. Photo courtesy of Calvin Canning and colleagues.",
+      "categories": [
+        "Joists",
+        "Files with coordinates missing SDC location of creation",
+        "Canada photographs taken on 2009-09-17",
+        "Flickr images reviewed by FlickreviewR 2",
+        "September 2009 in Newfoundland and Labrador",
+        "Building interiors in Freshwater, Placentia Bay, Newfoundland and Labrador"
+      ],
+      "auteur": "Jeremy T. Hetzel from Boston, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Freshwater,_Newfoundland_(4978148596).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Freshwater%2C_Newfoundland_%284978148596%29.jpg/1280px-Freshwater%2C_Newfoundland_%284978148596%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

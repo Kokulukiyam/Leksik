@@ -1,0 +1,53 @@
+{
+  "termId": "porte-vitree",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte vitrée à double battant sous un arc, derrière une grille roulante, dans une façade en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Vitrage sombre masqué par une grille et une plaque : lecture douteuse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vieille porte en bois bleu écaillé sous un balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte pleine en bois, pas de vitrage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Femme montant des marches vers un bâtiment en brique à grande baie vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, porte non lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vieille porte en bois dans un mur en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte pleine."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Intérieur de bar avec cave à vin vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de porte vitrée identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cadres de portes en bois posés dans un jardin (installation).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Installation sans vitrage."
+    }
+  ]
+}

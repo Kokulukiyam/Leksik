@@ -1,0 +1,124 @@
+{
+  "terme": {
+    "id": "bambou",
+    "terme": "le bambou",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Grande tige creuse et nouée d'une graminée, employée en structure légère, en échafaudage ou en revêtement.",
+    "priorite": 2,
+    "requetes": [
+      "bamboo construction",
+      "bamboo building structure",
+      "construction en bambou"
+    ],
+    "categoriesCommons": [
+      "Category:Bamboo"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:20180526-160249bamboo.jpg",
+      "description": "",
+      "categories": [
+        "Trees in Vietnam",
+        "Bamboo",
+        "Media lacking a description",
+        "Self-published work",
+        "Unidentified plants in Vietnam",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Boom Jayson",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20180526-160249bamboo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/20180526-160249bamboo.jpg/1280px-20180526-160249bamboo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Along the Path of Philosophy in Kyoto (2634903901).jpg",
+      "description": "Along the Path of Philosophy in Kyoto Tone-mapped image (using Dynamic Photo HDR) from a single camera shot",
+      "categories": [
+        "Bamboo",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Kimon Berlin"
+      ],
+      "auteur": "KimonBerlin",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Along_the_Path_of_Philosophy_in_Kyoto_(2634903901).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Along_the_Path_of_Philosophy_in_Kyoto_%282634903901%29.jpg/1280px-Along_the_Path_of_Philosophy_in_Kyoto_%282634903901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3522,
+      "hauteur": 2348
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Arboretum Trsteno 07.jpg",
+      "description": "Bamboo Collection in Trsteno arboretum, Croatia",
+      "categories": [
+        "Bamboo",
+        "Arboretum Trsteno",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Viki bibliotekar materijal 2017"
+      ],
+      "auteur": "BuhaM",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arboretum_Trsteno_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Arboretum_Trsteno_07.jpg/1280px-Arboretum_Trsteno_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3738,
+      "hauteur": 5062
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2337 - bamboo - Alain Van den Hende 17072337 Licence CC BY-SA-4.0.jpg",
+      "description": "bambou, pied de chaume. Coupe verticale - cloison",
+      "categories": [
+        "Bamboo",
+        "Self-published work",
+        "Bamboo gardens",
+        "Bamboo forests"
+      ],
+      "auteur": "Alain Van den Hende",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2337_-_bamboo_-_Alain_Van_den_Hende_17072337_Licence_CC_BY-SA-4.0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2337_-_bamboo_-_Alain_Van_den_Hende_17072337_Licence_CC_BY-SA-4.0.jpg/1280px-2337_-_bamboo_-_Alain_Van_den_Hende_17072337_Licence_CC_BY-SA-4.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:84712 실패용 죽편에 낙(송학문)을 놓는다 국가무형 낙죽장 2007 전남 순천.jpg",
+      "description": "낙죽장 (烙竹匠) Nakjukjang (Bamboo Pyrography)",
+      "categories": [
+        "Bamboo",
+        "Art of Korea",
+        "Pyrography",
+        "KOGL Type 1"
+      ],
+      "auteur": "Cultural Heritage Administration",
+      "licence": "KOGL Type 1",
+      "lien": "https://commons.wikimedia.org/wiki/File:84712_%EC%8B%A4%ED%8C%A8%EC%9A%A9_%EC%A3%BD%ED%8E%B8%EC%97%90_%EB%82%99(%EC%86%A1%ED%95%99%EB%AC%B8)%EC%9D%84_%EB%86%93%EB%8A%94%EB%8B%A4_%EA%B5%AD%EA%B0%80%EB%AC%B4%ED%98%95_%EB%82%99%EC%A3%BD%EC%9E%A5_2007_%EC%A0%84%EB%82%A8_%EC%88%9C%EC%B2%9C.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/84712_%EC%8B%A4%ED%8C%A8%EC%9A%A9_%EC%A3%BD%ED%8E%B8%EC%97%90_%EB%82%99%28%EC%86%A1%ED%95%99%EB%AC%B8%29%EC%9D%84_%EB%86%93%EB%8A%94%EB%8B%A4_%EA%B5%AD%EA%B0%80%EB%AC%B4%ED%98%95_%EB%82%99%EC%A3%BD%EC%9E%A5_2007_%EC%A0%84%EB%82%A8_%EC%88%9C%EC%B2%9C.jpg/1280px-84712_%EC%8B%A4%ED%8C%A8%EC%9A%A9_%EC%A3%BD%ED%8E%B8%EC%97%90_%EB%82%99%28%EC%86%A1%ED%95%99%EB%AC%B8%29%EC%9D%84_%EB%86%93%EB%8A%94%EB%8B%A4_%EA%B5%AD%EA%B0%80%EB%AC%B4%ED%98%95_%EB%82%99%EC%A3%BD%EC%9E%A5_2007_%EC%A0%84%EB%82%A8_%EC%88%9C%EC%B2%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4942,
+      "hauteur": 3295
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2342 - bamboo - Alain Van den Hende 17072342 Licence CC BY-SA-4.0.jpg",
+      "description": "bambou, pied de chaume. Coupe verticale - cloison",
+      "categories": [
+        "Bamboo",
+        "Self-published work",
+        "Bamboo gardens",
+        "Bamboo forests"
+      ],
+      "auteur": "Alain Van den Hende",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2342_-_bamboo_-_Alain_Van_den_Hende_17072342_Licence_CC_BY-SA-4.0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2342_-_bamboo_-_Alain_Van_den_Hende_17072342_Licence_CC_BY-SA-4.0.jpg/1280px-2342_-_bamboo_-_Alain_Van_den_Hende_17072342_Licence_CC_BY-SA-4.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    }
+  ]
+}

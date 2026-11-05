@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "trompe-l-oeil",
+    "terme": "le trompe-l'œil",
+    "categorie": "Ornement",
+    "definition": "Peinture murale qui imite un décor en relief, des fenêtres ou une perspective pour tromper la vue.",
+    "priorite": 2,
+    "requetes": [
+      "trompe l'oeil facade",
+      "trompe-l'œil façade peinte",
+      "painted facade illusion"
+    ],
+    "incompatibles": [
+      "fresque"
+    ],
+    "categoriesCommons": [
+      "Category:Murals"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:\"Early U.S. Post Village\" by Margaret Covey Chisholm (cropped).jpg",
+      "description": "\"Early U.S. Post Village\" by Margaret Covey Chisholm",
+      "categories": [
+        "PD US Government",
+        "Murals",
+        "Extracted images",
+        "CC-PD-Mark"
+      ],
+      "auteur": "National Archives",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Early_U.S._Post_Village%22_by_Margaret_Covey_Chisholm_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/%22Early_U.S._Post_Village%22_by_Margaret_Covey_Chisholm_%28cropped%29.jpg/1280px-%22Early_U.S._Post_Village%22_by_Margaret_Covey_Chisholm_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5629,
+      "hauteur": 3048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:\"Great Smokies and Tennessee Farm\" by Charles Child (cropped).jpg",
+      "description": "\"Great Smokies and Tennessee Farm\" by Charles Child",
+      "categories": [
+        "PD US Government",
+        "Murals",
+        "Extracted images",
+        "CC-PD-Mark"
+      ],
+      "auteur": "National Archives",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Great_Smokies_and_Tennessee_Farm%22_by_Charles_Child_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/%22Great_Smokies_and_Tennessee_Farm%22_by_Charles_Child_%28cropped%29.jpg/1280px-%22Great_Smokies_and_Tennessee_Farm%22_by_Charles_Child_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5359,
+      "hauteur": 2475
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:\"I Love Jamia\" mural at Proctor's Office building, JMI.jpg",
+      "description": "\"I Love Jamia\" mural at Proctor's Office building, Jamia Millia Islamia",
+      "categories": [
+        "Murals",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Clicks Jamia",
+        "Uploaded via Campaign:wcj-sep2025"
+      ],
+      "auteur": "Tamjeed Ahmed",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22I_Love_Jamia%22_mural_at_Proctor%27s_Office_building,_JMI.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%22I_Love_Jamia%22_mural_at_Proctor%27s_Office_building%2C_JMI.jpg/1280px-%22I_Love_Jamia%22_mural_at_Proctor%27s_Office_building%2C_JMI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:\"Autumn\" by Marouerite Zorach.jpg",
+      "description": "\"Autumn\" by Marouerite Zorach",
+      "categories": [
+        "PD US Government",
+        "Murals",
+        "Images with extracted images",
+        "CC-PD-Mark"
+      ],
+      "auteur": "National Archives",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Autumn%22_by_Marouerite_Zorach.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%22Autumn%22_by_Marouerite_Zorach.jpg/1280px-%22Autumn%22_by_Marouerite_Zorach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6964,
+      "hauteur": 5431
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:\"Farm and Factory\" by Horace Day.jpg",
+      "description": "\"Farm and Factory\" by Horace Day",
+      "categories": [
+        "PD US Government",
+        "Murals",
+        "Images with extracted images",
+        "CC-PD-Mark"
+      ],
+      "auteur": "National Archives",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Farm_and_Factory%22_by_Horace_Day.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%22Farm_and_Factory%22_by_Horace_Day.jpg/1280px-%22Farm_and_Factory%22_by_Horace_Day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6964,
+      "hauteur": 5431
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:\"Local Industries\" by Paul Ninas.jpg",
+      "description": "\"Local Industries\" by Paul Ninas",
+      "categories": [
+        "PD US Government",
+        "Murals",
+        "Images with extracted images",
+        "CC-PD-Mark"
+      ],
+      "auteur": "National Archives",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Local_Industries%22_by_Paul_Ninas.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%22Local_Industries%22_by_Paul_Ninas.jpg/1280px-%22Local_Industries%22_by_Paul_Ninas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6964,
+      "hauteur": 5431
+    }
+  ]
+}

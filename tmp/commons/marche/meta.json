@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "marche",
+    "terme": "la marche",
+    "categorie": "Escaliers et circulations",
+    "definition": "Partie horizontale de l'escalier sur laquelle on pose le pied.",
+    "priorite": 1,
+    "requetes": [
+      "stair treads",
+      "marches d'escalier",
+      "stair step"
+    ],
+    "incompatibles": [
+      "contremarche",
+      "nez-de-marche"
+    ],
+    "categoriesCommons": [
+      "Category:Steps",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Barcelona - Montjuïc - Escales (Steps) next to Montjuïc Cascades - View NNW.jpg",
+      "description": "Barcelona - Montjuïc - Escales (Steps) next to Montjuïc Cascades - View NNW",
+      "categories": [
+        "Montjuïc",
+        "Escales, mirador i escultures la Terra, l'Aigua i Dones",
+        "Barcelona in the 2010s",
+        "Steps",
+        "Self-published work",
+        "Spring in Catalonia",
+        "May 2011 Spain photographs",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Txllxt TxllxT",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Montju%C3%AFc_-_Escales_(Steps)_next_to_Montju%C3%AFc_Cascades_-_View_NNW.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Barcelona_-_Montju%C3%AFc_-_Escales_%28Steps%29_next_to_Montju%C3%AFc_Cascades_-_View_NNW.jpg/1280px-Barcelona_-_Montju%C3%AFc_-_Escales_%28Steps%29_next_to_Montju%C3%AFc_Cascades_-_View_NNW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5800,
+      "hauteur": 3866
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2018-08-24 Åland by Olaf Kosinsky-2649.jpg",
+      "description": "Stairs aboard the Baltic Princess.",
+      "categories": [
+        "Stairs",
+        "Personality rights warning",
+        "Interior of Baltic Princess (ship, 2008)",
+        "Photos by User:Olaf Kosinsky in 2018",
+        "People Photos by Olaf Kosinsky",
+        "Olaf Kosinsky Aland Inseln",
+        "Olaf Kosinsky Ostsefähre"
+      ],
+      "auteur": "Olaf Kosinsky",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018-08-24_%C3%85land_by_Olaf_Kosinsky-2649.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2018-08-24_%C3%85land_by_Olaf_Kosinsky-2649.jpg/1280px-2018-08-24_%C3%85land_by_Olaf_Kosinsky-2649.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A Few Steps (137047421).jpeg",
+      "description": "500px provided description: A Few Steps [#city ,#architecture ,#building ,#stairs ,#steps]",
+      "categories": [
+        "Steps",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "J Carlos",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Few_Steps_(137047421).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Few_Steps_%28137047421%29.jpeg/1280px-A_Few_Steps_%28137047421%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1362,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:500px photo (20669909).jpeg",
+      "description": "500px provided description: OLYMPUS DIGITAL CAMERA []",
+      "categories": [
+        "Stairs",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Brian Yap",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(20669909).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/500px_photo_%2820669909%29.jpeg/1280px-500px_photo_%2820669909%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:AMPResearchBEDSTEP.jpg",
+      "description": "Hero SHot of AMP Research BEDSTEP®",
+      "categories": [
+        "GFDL",
+        "Automobile parts",
+        "Steps",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with en.wp upload wizard"
+      ],
+      "auteur": "Ampresearch",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AMPResearchBEDSTEP.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/AMPResearchBEDSTEP.jpg/1280px-AMPResearchBEDSTEP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4200,
+      "hauteur": 2835
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:\"Whitemarsh Hall,\" Edward Townsend Stotesbury house, Wyndmoor, Pennsylvania. Interior LCCN2004677224.jpg",
+      "description": "Title: \"Whitemarsh Hall,\" Edward Townsend Stotesbury house, Wyndmoor, Pennsylvania. Interior Abstract/medium: 1 photographic print.",
+      "categories": [
+        "Stairs",
+        "Images from the Library of Congress",
+        "PD-old-70-expired",
+        "Images uploaded by Fæ",
+        "CC-PD-Mark",
+        "Photographs by Frances Benjamin Johnston"
+      ],
+      "auteur": "Johnston, Frances Benjamin, 1864-1952, photographer",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Whitemarsh_Hall,%22_Edward_Townsend_Stotesbury_house,_Wyndmoor,_Pennsylvania._Interior_LCCN2004677224.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%22Whitemarsh_Hall%2C%22_Edward_Townsend_Stotesbury_house%2C_Wyndmoor%2C_Pennsylvania._Interior_LCCN2004677224.jpg/1280px-%22Whitemarsh_Hall%2C%22_Edward_Townsend_Stotesbury_house%2C_Wyndmoor%2C_Pennsylvania._Interior_LCCN2004677224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 1286
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "porte-automatique",
+    "terme": "la porte automatique",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte vitrée, le plus souvent coulissante, qui s'ouvre seule à l'approche d'une personne grâce à un détecteur.",
+    "priorite": 2,
+    "requetes": [
+      "automatic sliding door shop entrance",
+      "porte automatique",
+      "automatic door"
+    ],
+    "incompatibles": [
+      "porte-coulissante",
+      "porte-vitree"
+    ],
+    "categoriesCommons": [
+      "Category:Automatic doors",
+      "Category:Sliding doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Biedronka przy ul. Zagrodniki 8.jpg",
+      "description": "Biedronka przy ul. Zagrodniki 8 (kwiecień 2024)",
+      "categories": [
+        "Automatic doors",
+        "Sympatyczna (Retkinia)",
+        "Self-published work",
+        "April 2024 in Łódź",
+        "Doors in Łódź",
+        "Shop signs in Łódź",
+        "Biedronka in Łódź"
+      ],
+      "auteur": "Mafo",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Biedronka_przy_ul._Zagrodniki_8.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Biedronka_przy_ul._Zagrodniki_8.jpg/1280px-Biedronka_przy_ul._Zagrodniki_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2871,
+      "hauteur": 3020
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Barca de Alba 06.jpg",
+      "description": "Detail of the derelict [c.1985] train station, on the former Porto / Salamanca railway . Barca d'Alva, Figueira de Castelo Rodrigo, Guarda, Portugal",
+      "categories": [
+        "Sliding doors",
+        "Barca d'Alva train station",
+        "Self-published work",
+        "Portugal photographs taken on 2014-04-03",
+        "Railway photographs taken on 2014-04-03",
+        "Photographs by LBM1948"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barca_de_Alba_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Barca_de_Alba_06.jpg/1280px-Barca_de_Alba_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3920,
+      "hauteur": 2724
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A person is opening a door to enter a room with soft lighting and wooden floor at home.jpg",
+      "description": "A person stands in a doorway, beginning to open a door to a room. The room has soft lighting and a wooden floor. A feeling of entering a new space is present.",
+      "categories": [
+        "Doors",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg/1280px-A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3885,
+      "hauteur": 5827
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ostrava-Svinov, pokladna RegioJet.jpg",
+      "description": "Ostrava -Svinov, Moravian-Silesian Region , the Czech Republic . Train station Ostrava-Svinov. Ticket counter of RegioJet.",
+      "categories": [
+        "Czech Republic photographs taken on 2012-04-16",
+        "Taken with Kodak EasyShare Z8612 IS",
+        "Automatic doors",
+        "Ostrava-Svinov (train station)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Doors in Ostrava-City District",
+        "Ticket counters of RegioJet"
+      ],
+      "auteur": "ŠJů ( cs:ŠJů )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ostrava-Svinov,_pokladna_RegioJet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ostrava-Svinov%2C_pokladna_RegioJet.jpg/1280px-Ostrava-Svinov%2C_pokladna_RegioJet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:HK Mongkok Soy Street 聖公會諸聖中學 Evening metal gate door.JPG",
+      "description": "旺角 聖公會 zh-yue:諸聖中學",
+      "categories": [
+        "Sculptures of fish",
+        "GFDL",
+        "Taken with Casio Exilim EX-Z60",
+        "FAL",
+        "Sliding doors",
+        "Soy Street",
+        "All Saints' Middle School",
+        "License migration redundant",
+        "Self-published work",
+        "Entrances in Hong Kong",
+        "Chinese calligraphy of Hong Kong",
+        "Iron gates in Hong Kong",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Hong Kong photographs taken on 2009-04-08",
+        "Anchors in art",
+        "Crowns in art",
+        "Evening in Yau Tsim Mong District"
+      ],
+      "auteur": "Hwangdamch",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_Mongkok_Soy_Street_%E8%81%96%E5%85%AC%E6%9C%83%E8%AB%B8%E8%81%96%E4%B8%AD%E5%AD%B8_Evening_metal_gate_door.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/HK_Mongkok_Soy_Street_%E8%81%96%E5%85%AC%E6%9C%83%E8%AB%B8%E8%81%96%E4%B8%AD%E5%AD%B8_Evening_metal_gate_door.JPG/1280px-HK_Mongkok_Soy_Street_%E8%81%96%E5%85%AC%E6%9C%83%E8%AB%B8%E8%81%96%E4%B8%AD%E5%AD%B8_Evening_metal_gate_door.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:9 фото Дверь в кабину машиниста.jpg",
+      "description": "Производство дверей и огнестойких перегородок для магистрального рельсового транспорта",
+      "categories": [
+        "Doors",
+        "Self-published work"
+      ],
+      "auteur": "Красноярские машиностроительные компоненты",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg/1280px-9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4736,
+      "hauteur": 3063
+    }
+  ]
+}

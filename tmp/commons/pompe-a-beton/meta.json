@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "pompe-a-beton",
+    "terme": "la pompe à béton",
+    "categorie": "Chantier et outillage",
+    "definition": "Engin, le plus souvent un camion à long bras articulé déplié au-dessus du chantier, qui refoule le béton dans un tuyau jusqu'au point de coulage.",
+    "priorite": 2,
+    "requetes": [
+      "concrete pump truck boom",
+      "pompe à béton",
+      "concrete boom pump"
+    ],
+    "incompatibles": [
+      "camion-toupie"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete pump trucks",
+      "Category:Concrete pumps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Munitions Demilitarization Building (5388074596).jpg",
+      "description": "Construction craft workers completed a key Munitions Demilitarization Building first-level, concrete blast wall placement. The placement opens a pathway for future elevated horizontal concrete placements on a portion of the explosive containment area roof.",
+      "categories": [
+        "Concrete mixer trucks",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Concrete pump trucks",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Eight-wheeled trucks",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_(5388074596).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_%285388074596%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_%285388074596%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Concrete placement for track installation in the west cavern. (CM007, 10-31-2018) (30742924087).jpg",
+      "description": "Concrete placement for track installation in the west cavern. (CM007, 10-31-2018)",
+      "categories": [
+        "Concrete pumps",
+        "Flickr images reviewed by FlickreviewR 2",
+        "East Side Access construction/2018/11/02",
+        "Concrete mixer train cars",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access tunnels",
+        "Tie block rail construction"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_placement_for_track_installation_in_the_west_cavern._(CM007,_10-31-2018)_(30742924087).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Concrete_placement_for_track_installation_in_the_west_cavern._%28CM007%2C_10-31-2018%29_%2830742924087%29.jpg/1280px-Concrete_placement_for_track_installation_in_the_west_cavern._%28CM007%2C_10-31-2018%29_%2830742924087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5312,
+      "hauteur": 2988
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Concrete pump trucks (photos; 2023-08-25) E911a 01.jpg",
+      "description": "Concrete pump trucks",
+      "categories": [
+        "Self-published work",
+        "Concrete pump trucks",
+        "Philippines photographs taken on 2023-08-25",
+        "Photographs by E911a"
+      ],
+      "auteur": "E911a",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_pump_trucks_(photos;_2023-08-25)_E911a_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Concrete_pump_trucks_%28photos%3B_2023-08-25%29_E911a_01.jpg/1280px-Concrete_pump_trucks_%28photos%3B_2023-08-25%29_E911a_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Betonpump.jpg",
+      "description": "Concrete pump, used to build the en:Prime Tower (Zürich)",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-T77",
+        "Concrete pumps",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Audriusa",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betonpump.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Betonpump.jpg/1280px-Betonpump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3304,
+      "hauteur": 1456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20170402 anthisnes100.jpg",
+      "description": "Vue du village de Anthisnes (province de Liège, en Belgique).",
+      "categories": [
+        "Peugeot 207",
+        "Mercedes-Benz Arocs",
+        "Self-published work",
+        "DAF vehicles in Belgium",
+        "Concrete pump trucks",
+        "Concrete pump trucks in Belgium",
+        "Mercedes-Benz vehicles in Belgium",
+        "2017 in Anthisnes",
+        "Belgium photographs taken on 2017-04-02",
+        "White Mercedes-Benz trucks",
+        "White DAF trucks",
+        "DAF XF semi-trailer tractors",
+        "Photos of Belgium by user Jean Housen",
+        "DAF XF (2013)",
+        "2017 photos by user Jean Housen",
+        "Rue du Centre (Anthisnes)",
+        "Trucks in Anthisnes"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20170402_anthisnes100.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/20170402_anthisnes100.jpg/1280px-20170402_anthisnes100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Aldi, Cosne, concrete pump (6) - dashboard.jpg",
+      "description": "Tableau de bord d'une pompe à béton Schwing. Machine utilisée pour la construction (au même endroit) d'un supermarché Aldi plus vaste. Cosne-Cours-sur-Loire, Nièvre, France.",
+      "categories": [
+        "Concrete pumps",
+        "Schwing Stetter (Memmingen)",
+        "Self-published work",
+        "Pictures by Cjp24"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aldi,_Cosne,_concrete_pump_(6)_-_dashboard.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Aldi%2C_Cosne%2C_concrete_pump_%286%29_-_dashboard.jpg/1280px-Aldi%2C_Cosne%2C_concrete_pump_%286%29_-_dashboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

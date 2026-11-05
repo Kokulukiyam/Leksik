@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "plan-de-travail",
+    "terme": "le plan de travail",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Tablette horizontale de cuisine en granit, bois, stratifié ou carrelage, posée sur les meubles bas.",
+    "priorite": 1,
+    "requetes": [
+      "kitchen countertop granite",
+      "plan de travail cuisine",
+      "kitchen worktop"
+    ],
+    "categoriesCommons": [
+      "Category:Countertops",
+      "Category:Kitchens"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Kitchen interior design.jpg",
+      "description": "Kitchen Interiors from Eddie Rider Designs",
+      "categories": [
+        "Taken with Sony DSC-P52",
+        "Gas stoves",
+        "PD-user",
+        "Countertops",
+        "Backsplashes"
+      ],
+      "auteur": "EddieRider sur Wikipédia anglais",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kitchen_interior_design.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Kitchen_interior_design.jpg/1280px-Kitchen_interior_design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1360
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Child's hand holding a spoon over a plate while preparing food in a kitchen.jpg",
+      "description": "A child holds a spoon above a plate as adults prepare food in the kitchen. The setting shows family cooking together during the day, creating a lively atmosphere.",
+      "categories": [
+        "Children",
+        "Spoons",
+        "Kitchens",
+        "Self-published work",
+        "Close-up photography"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child%27s_hand_holding_a_spoon_over_a_plate_while_preparing_food_in_a_kitchen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Child%27s_hand_holding_a_spoon_over_a_plate_while_preparing_food_in_a_kitchen.jpg/1280px-Child%27s_hand_holding_a_spoon_over_a_plate_while_preparing_food_in_a_kitchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Laminate Kitchen Countertop Beige.jpg",
+      "description": "Laminate Kitchen Countertop Beige",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Laminate kitchen counters",
+        "Countertops"
+      ],
+      "auteur": "Kurtkaiser",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laminate_Kitchen_Countertop_Beige.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Laminate_Kitchen_Countertop_Beige.jpg/1280px-Laminate_Kitchen_Countertop_Beige.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3011
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Casa Museo María Elena Walsh 24.jpg",
+      "description": "Museo María Elena Walsh se encuentra en la localidad de Villa Sarmiento, dentro del partido de Tres de Febrero, en la Provincia de Buenos Aires.",
+      "categories": [
+        "Kitchens",
+        "Casa Museo María Elena Walsh",
+        "Self-published work"
+      ],
+      "auteur": "Sergio Moises Panei Pitrau",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Museo_Mar%C3%ADa_Elena_Walsh_24.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Casa_Museo_Mar%C3%ADa_Elena_Walsh_24.jpg/1280px-Casa_Museo_Mar%C3%ADa_Elena_Walsh_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3772,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Chef prepares fresh ingredients by chopping red vegetables.jpg",
+      "description": "A skilled chef chops vibrant red vegetables on a wooden cutting board. The warm kitchen atmosphere adds to the inviting culinary experience at that moment.",
+      "categories": [
+        "Kitchens",
+        "Food preparation",
+        "Self-published work",
+        "Fresh vegetables"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chef_prepares_fresh_ingredients_by_chopping_red_vegetables.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Chef_prepares_fresh_ingredients_by_chopping_red_vegetables.jpg/1280px-Chef_prepares_fresh_ingredients_by_chopping_red_vegetables.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Kitchen renovation 9a measuring prior to cutting laminate countertop board.JPG",
+      "description": "Kitchen renovation project. Here I am preparing to cut a 12\" wide section of laminate countertop from the 4' wide board. I added thick black tape for the purpose of preventing chips from happening (in case the circular saw blade caught one piece which tore off another). Sometimes, when accuracy is paramount, I begin the tape measure not from the end, but from the 10\" mark, so instead of 12\" out, I look for 22\"; the reason is sometimes the end clip of a tape measure can be off by a fraction of an inch.",
+      "categories": [
+        "Taken with Sony DSC-W530",
+        "CC-Zero",
+        "Retractable tape measures",
+        "Self-published work",
+        "Laminated wood",
+        "Handyman photos by tom sulcer",
+        "Countertops",
+        "Kitchen installation"
+      ],
+      "auteur": "Tomwsulcer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kitchen_renovation_9a_measuring_prior_to_cutting_laminate_countertop_board.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kitchen_renovation_9a_measuring_prior_to_cutting_laminate_countertop_board.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 937,
+      "hauteur": 894
+    }
+  ]
+}

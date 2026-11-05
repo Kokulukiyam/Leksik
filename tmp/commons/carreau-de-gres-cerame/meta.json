@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "carreau-de-gres-cerame",
+    "terme": "le carreau de grès cérame",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Carreau très dur et peu poreux en argile cuite à haute température, le plus posé aujourd'hui au sol.",
+    "priorite": 1,
+    "requetes": [
+      "porcelain tile floor",
+      "carreau grès cérame",
+      "porcelain stoneware tiles"
+    ],
+    "incompatibles": [
+      "carrelage",
+      "faience"
+    ],
+    "categoriesCommons": [
+      "Category:Ceramic tiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bird paintings in Gyumri.jpg",
+      "description": "Bird paintings in Gyumri",
+      "categories": [
+        "Ceramic tiles",
+        "CC-Zero",
+        "Self-published work",
+        "Illustrations of birds",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Armenia photographs taken on 2026-06-12"
+      ],
+      "auteur": "Maximden",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bird_paintings_in_Gyumri.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bird_paintings_in_Gyumri.jpg/1280px-Bird_paintings_in_Gyumri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Polished Porcelain Floor Tiling.jpg",
+      "description": "Modern polished porcelain floor tiles in a large format.",
+      "categories": [
+        "Self-published work",
+        "Floor tiles in the United Kingdom"
+      ],
+      "auteur": "ColumbD",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Polished_Porcelain_Floor_Tiling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Polished_Porcelain_Floor_Tiling.jpg/1280px-Polished_Porcelain_Floor_Tiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ceramic tiles 02.jpg",
+      "description": "Ceramic tiles decorating an interior wall of the Tozeur train station",
+      "categories": [
+        "Ceramic tiles",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "Houss 2020",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_tiles_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ceramic_tiles_02.jpg/1280px-Ceramic_tiles_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6144,
+      "hauteur": 8160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bucharest Municipal Museum - ceramic pipes, etc.jpg",
+      "description": "18th- or 19th-century \"oriental\" (that's from the wall text and is of course very ambiguous; Turkish? Slightly farther east?) pipes; Bucharest Municipal Museum, Suțu Palace, Bucharest, Romania. In background, a fragment of a green enameled tile representing a mounted Turk with a saber in his right hand, discovered in the Curta Veche (Old Court), Bucharest.",
+      "categories": [
+        "Taken with Nikon D5200",
+        "Ceramic tiles",
+        "18th-century ceramics",
+        "Ceramic pipes",
+        "Self-published work",
+        "Ceramics in Romania",
+        "19th-century ceramics",
+        "Collections of the Suțu museum",
+        "September 2024 in Bucharest",
+        "Romania photographs taken on 2024-09-20",
+        "Pipes in museums"
+      ],
+      "auteur": "Joe Mabel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bucharest_Municipal_Museum_-_ceramic_pipes,_etc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Bucharest_Municipal_Museum_-_ceramic_pipes%2C_etc.jpg/1280px-Bucharest_Municipal_Museum_-_ceramic_pipes%2C_etc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Yildiz Porcelain Factory 01.jpg",
+      "description": "Yıldız Porcelain and Tile Factory complex within the grounds of Yıldız Park in Istanbul , Turkey .",
+      "categories": [
+        "Taken with Canon PowerShot S80",
+        "Yıldız Park",
+        "Yıldız Porcelain Factory",
+        "Self-published work",
+        "PD-self",
+        "Floor tiles factories"
+      ],
+      "auteur": "Chapultepec",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Yildiz_Porcelain_Factory_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Yildiz_Porcelain_Factory_01.jpg/1280px-Yildiz_Porcelain_Factory_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ceramic wall tile cream.jpg",
+      "description": "Cream-colored ceramic wall tile. Used to decorate a restroom.",
+      "categories": [
+        "Ceramic tiles",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2024-07-11"
+      ],
+      "auteur": "Epolk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_wall_tile_cream.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Ceramic_wall_tile_cream.jpg/1280px-Ceramic_wall_tile_cream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2204,
+      "hauteur": 2085
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "croix-de-saint-andre",
+    "terme": "la croix de Saint-André",
+    "categorie": "Structure",
+    "definition": "Paire de barres croisées en X entre deux poteaux, qui contrevente une ossature.",
+    "priorite": 2,
+    "requetes": [
+      "X bracing steel",
+      "croix de Saint-André",
+      "cross bracing X"
+    ],
+    "incompatibles": [
+      "contreventement"
+    ],
+    "categoriesCommons": [
+      "Category:Saint Andrew's crosses"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Holy Trinity Church in Crockham Hill 2.jpg",
+      "description": "Window in Holy Trinity parish church, Crockham Hill, Kent, with stained glass representing Saint Andrew (left) and Saint Jerome (right)",
+      "categories": [
+        "Taken with Canon EOS 400D",
+        "Saint Andrew's crosses",
+        "Flickr images reviewed by FlickreviewR",
+        "Christian saints on stained-glass windows in England",
+        "Crosses on stained-glass windows",
+        "Saint Jerome on stained-glass windows",
+        "Tracery in England",
+        "Saint Andrew on stained-glass windows in England",
+        "Holy Trinity Church in Crockham Hill (stained glass)"
+      ],
+      "auteur": "Glen",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Church_in_Crockham_Hill_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Holy_Trinity_Church_in_Crockham_Hill_2.jpg/1280px-Holy_Trinity_Church_in_Crockham_Hill_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1789,
+      "hauteur": 3377
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Hainhofen St. Stephanus Andreas 73.JPG",
+      "description": "Katholische Pfarrkirche St. Stephanus in Hainhofen ( Neusäß ), Deckengemälde im Langhaus, Medaillon mit Darstellung des Apostels Andreas mit Andreaskreuz (vermutlich um 1850/60), Stuck von 1719 (um 1910 ergänzt)",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ7",
+        "Saint Andrew's crosses",
+        "Self-published work",
+        "Frescos of Saint Andrew",
+        "Files by User:GFreihalter/Bayern 2010",
+        "Ceiling paintings in St. Stephanus (Hainhofen)",
+        "Files by User:GFreihalter/Neusäß"
+      ],
+      "auteur": "GFreihalter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hainhofen_St._Stephanus_Andreas_73.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Hainhofen_St._Stephanus_Andreas_73.JPG/1280px-Hainhofen_St._Stephanus_Andreas_73.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2520,
+      "hauteur": 3776
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Lalibela-Beta Maryam (11).jpg",
+      "description": "Eglise Beta Maryam à Lalibela (Ethiopie)",
+      "categories": [
+        "Biete Mariam",
+        "Saint Andrew's crosses",
+        "Self-published work"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lalibela-Beta_Maryam_(11).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lalibela-Beta_Maryam_%2811%29.jpg/1280px-Lalibela-Beta_Maryam_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3240,
+      "hauteur": 4320
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Andreaskruis, Heerde.jpg",
+      "description": "Andreaskruis, Heerde",
+      "categories": [
+        "Heerde",
+        "Warning crosses",
+        "Saint Andrew's crosses",
+        "Self-published work"
+      ],
+      "auteur": "MaartenHoedeman",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Andreaskruis,_Heerde.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Andreaskruis%2C_Heerde.jpg/1280px-Andreaskruis%2C_Heerde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Altenberger Dom711.JPG",
+      "description": "Ausschnitt des Westfensters des Altenberger Dom. Untere Reihe dritte Figur von links: hl. Andreas mit Andreaskreuz (siehe Uwe Gast, Daniel Parello, Hartmut Scholz: Der Altenberger Dom (Monumente der Glasmalerei 2), Schnell & Steiner, Regensburg 2008, S. 54, ISBN 978-3-7954-1960-8 )",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ7",
+        "Saint Andrew's crosses",
+        "Self-published work",
+        "Crosses on stained-glass windows",
+        "Saint Andrew on stained-glass windows in Germany",
+        "West window of Altenberger Dom",
+        "Files by User:GFreihalter/Deutschland 2010",
+        "Files by User:GFreihalter/Nordrhein-Westfalen"
+      ],
+      "auteur": "Reinhardhauke",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Altenberger_Dom711.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Altenberger_Dom711.JPG/1280px-Altenberger_Dom711.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2520,
+      "hauteur": 3776
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Francisco de zurbaran e bottega, apostoli, 1633, andrea.jpg",
+      "description": "",
+      "categories": [
+        "The Twelve Apostles by Francisco de Zurbarán",
+        "Pages with non-numeric formatnum arguments",
+        "Saint Andrew's crosses",
+        "Self-published work",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Images with extracted images",
+        "Artworks with accession number from Wikidata",
+        "All media supported by Wikimedia CH",
+        "17th-century paintings of Saint Andrew",
+        "Images by Sailko - Supported by Wikimedia CH",
+        "Photographs of paintings by User:Sailko",
+        "Artworks digital representation of 2D work",
+        "Framed religious paintings"
+      ],
+      "auteur": "Sailko",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Francisco_de_zurbaran_e_bottega,_apostoli,_1633,_andrea.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Francisco_de_zurbaran_e_bottega%2C_apostoli%2C_1633%2C_andrea.jpg/1280px-Francisco_de_zurbaran_e_bottega%2C_apostoli%2C_1633%2C_andrea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1512,
+      "hauteur": 2717
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "terme": {
+    "id": "flexible-d-alimentation",
+    "terme": "le flexible d'alimentation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau souple gainé de tresse inox qui relie un robinet ou un réservoir de chasse au robinet d'arrêt.",
+    "priorite": 2,
+    "requetes": [
+      "braided flexible hose tap connector",
+      "flexible inox robinet",
+      "tap connector hose"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hose Coupling.JPG",
+      "description": "Side view of a 1.5 inch to 2.5 inch adapter.",
+      "categories": [
+        "Taken with Kodak EasyShare P850",
+        "Firefighting equipment",
+        "Hose connectors",
+        "Seals (mechanical)",
+        "License migration completed",
+        "Self-published work",
+        "GFDL-en"
+      ],
+      "auteur": "Derek Eiland",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hose_Coupling.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hose_Coupling.JPG/1280px-Hose_Coupling.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Japanese Railway Rolling Stock hose coupling 3 consolidated.jpg",
+      "description": "日本の鉄道車両のホース連結器 連結状態を斜め上から見る",
+      "categories": [
+        "Self-published work",
+        "Rolling stock coupling systems of Japan",
+        "Train pipe"
+      ],
+      "auteur": "SEMISAYAMASHI",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Japanese_Railway_Rolling_Stock_hose_coupling_3_consolidated.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Japanese_Railway_Rolling_Stock_hose_coupling_3_consolidated.jpg/1280px-Japanese_Railway_Rolling_Stock_hose_coupling_3_consolidated.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Japanese Railway Rolling Stock hose coupling 1 before.jpg",
+      "description": "日本の鉄道車両のホース連結器を斜め上から見る",
+      "categories": [
+        "Self-published work",
+        "Rolling stock coupling systems of Japan",
+        "Train pipe"
+      ],
+      "auteur": "SEMISAYAMASHI",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Japanese_Railway_Rolling_Stock_hose_coupling_1_before.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Japanese_Railway_Rolling_Stock_hose_coupling_1_before.jpg/1280px-Japanese_Railway_Rolling_Stock_hose_coupling_1_before.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Picture of a Garden Tap.jpg",
+      "description": "This represents a tap connected to a garden hose. This is used to water plants.",
+      "categories": [
+        "Garden hoses",
+        "Self-published work"
+      ],
+      "auteur": "AnIrish..Leprechaun",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Picture_of_a_Garden_Tap.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Picture_of_a_Garden_Tap.jpg/1280px-Picture_of_a_Garden_Tap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cologne Germany Fire-Water-Supply-01.jpg",
+      "description": "Cologne, Germany: Hose couplings with rotary valves at a fire water supply",
+      "categories": [
+        "Taken with Canon EOS 5D Mark III",
+        "Water supply",
+        "Storz connectors",
+        "Firefighting equipment",
+        "Standpipes (firefighting)",
+        "Rotary valves",
+        "Self-published work",
+        "Information field template with formatting",
+        "Images by Cccefalon",
+        "Images with portrait aspect ratio by User:Cccefalon",
+        "Images of objects by User:Cccefalon"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Fire-Water-Supply-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Cologne_Germany_Fire-Water-Supply-01.jpg/1280px-Cologne_Germany_Fire-Water-Supply-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2087,
+      "hauteur": 3237
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:TW Coupling TankWagenkoppeling2.jpg",
+      "description": "TW Coupling - Tankwagen hose coupling",
+      "categories": [
+        "Hose connectors",
+        "Self-published work"
+      ],
+      "auteur": "Eebie",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TW_Coupling_TankWagenkoppeling2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/TW_Coupling_TankWagenkoppeling2.jpg/1280px-TW_Coupling_TankWagenkoppeling2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2176,
+      "hauteur": 1692
+    }
+  ]
+}

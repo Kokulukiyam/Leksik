@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "garde-corps-en-fer-forge",
+    "terme": "le garde-corps en fer forgé",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps en fers forgés et assemblés en volutes ou motifs décoratifs.",
+    "priorite": 2,
+    "requetes": [
+      "wrought iron balcony railing",
+      "garde-corps fer forgé",
+      "ornamental iron balcony"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "garde-corps-a-barreaudage",
+      "balcon",
+      "fer-forge"
+    ],
+    "categoriesCommons": [
+      "Category:Wrought iron railings",
+      "Category:Wrought iron balconies",
+      "Category:Wrought iron"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Balustrade en fer forgé de l'hôtel particulier Lalique.JPG",
+      "description": "Balustrade en fer forgé de l'hôtel particulier Lalique",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ100",
+        "CC-Zero",
+        "Hôtel Lalique",
+        "Self-published work",
+        "Wrought iron railings",
+        "Windows in Paris",
+        "Railings in Île-de-France",
+        "Window railings in Paris",
+        "Window railings in France",
+        "Undeleted in 2020"
+      ],
+      "auteur": "Dinkum",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balustrade_en_fer_forg%C3%A9_de_l%27h%C3%B4tel_particulier_Lalique.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Balustrade_en_fer_forg%C3%A9_de_l%27h%C3%B4tel_particulier_Lalique.JPG/1280px-Balustrade_en_fer_forg%C3%A9_de_l%27h%C3%B4tel_particulier_Lalique.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 3240
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Calle Larios 3, Málaga 07.jpg",
+      "description": "Larios 3",
+      "categories": [
+        "Calle Larios 3, Málaga",
+        "Taken with Canon PowerShot A2300",
+        "Self-published work",
+        "Wrought iron balconies",
+        "Balconies in calle Larios"
+      ],
+      "auteur": "Tyk",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calle_Larios_3,_M%C3%A1laga_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Calle_Larios_3%2C_M%C3%A1laga_07.jpg/1280px-Calle_Larios_3%2C_M%C3%A1laga_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Artisan dans l'atelier de ferronnerie, Ankazobe Ambohimanambola, Antananarivo.jpg",
+      "description": "Artisan dans son atelier de ferronnerie en train de créer un zébu décoratif à Ankazobe Ambohimanambola, Antananarivo.",
+      "categories": [
+        "Wrought iron",
+        "Self-published work",
+        "Art in Madagascar",
+        "Handicrafts of Madagascar",
+        "Blacksmiths in Madagascar",
+        "Ambohimanambola (Analamanga)"
+      ],
+      "auteur": "Anai171",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Artisan_dans_l%27atelier_de_ferronnerie,_Ankazobe_Ambohimanambola,_Antananarivo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Artisan_dans_l%27atelier_de_ferronnerie%2C_Ankazobe_Ambohimanambola%2C_Antananarivo.jpg/1280px-Artisan_dans_l%27atelier_de_ferronnerie%2C_Ankazobe_Ambohimanambola%2C_Antananarivo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2165,
+      "hauteur": 2008
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bellagio biblioteka 1.jpg",
+      "description": "Bellagio - library",
+      "categories": [
+        "Taken with Olympus SP-500UZ",
+        "Self-published work",
+        "Wrought iron railings",
+        "Photos by User:Andrzej O",
+        "Italy photographs taken on 2010-03-29",
+        "Libraries in Bellagio",
+        "Culture of Bellagio"
+      ],
+      "auteur": "Andrzej Otrębski",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bellagio_biblioteka_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Bellagio_biblioteka_1.jpg/1280px-Bellagio_biblioteka_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Balkon auf Lipari.JPG",
+      "description": "Ein mit Blumen geschmückter Balkon auf der Liparirischen Insel Lipari.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FX60",
+        "Buildings in Lipari",
+        "Aeolian architecture",
+        "Self-published work",
+        "Balconies in Sicily",
+        "Wrought iron balconies"
+      ],
+      "auteur": "Rosa-Maria Rinkl",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balkon_auf_Lipari.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Balkon_auf_Lipari.JPG/1280px-Balkon_auf_Lipari.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:14 rue des Clercs 5.JPG",
+      "description": "Cour intérieure, XIII° siècle",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Wrought iron",
+        "Maisons 12-18 rue des Clercs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Yannig38",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:14_rue_des_Clercs_5.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/14_rue_des_Clercs_5.JPG/1280px-14_rue_des_Clercs_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2304
+    }
+  ]
+}

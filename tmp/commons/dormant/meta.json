@@ -1,0 +1,173 @@
+{
+  "terme": {
+    "id": "dormant",
+    "terme": "le dormant",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Cadre fixe d'une porte ou d'une fenêtre, scellé ou fixé dans la maçonnerie, qui reçoit les parties ouvrantes.",
+    "priorite": 2,
+    "requetes": [
+      "window frame installation",
+      "dormant fenêtre",
+      "window frame outer"
+    ],
+    "incompatibles": [
+      "huisserie"
+    ],
+    "categoriesCommons": [
+      "Category:Window frames",
+      "Category:Door frames"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Picture by Edmir Silvestre (21938905686).jpg",
+      "description": "",
+      "categories": [
+        "Lanterns",
+        "Window frames",
+        "Media lacking a description",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Edmir Silvestre",
+        "Unidentified locations in Pamplona"
+      ],
+      "auteur": "Edmir Silvestre from Rio de Janeiro-RJ, Brasil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Picture_by_Edmir_Silvestre_(21938905686).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Picture_by_Edmir_Silvestre_%2821938905686%29.jpg/1280px-Picture_by_Edmir_Silvestre_%2821938905686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3076,
+      "hauteur": 3564
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Castle Hill, Medieval window and door frames, Buda Royal Palace.JPG",
+      "description": "Középkori ablak és ajtókeretek, Budavári Királyi Palota keleti udvarában",
+      "categories": [
+        "Blind windows",
+        "Door frames",
+        "Self-published work",
+        "Exterior of the Budapest Historical Museum (Buda Castle)",
+        "March 2015 in Budapest",
+        "Medieval windows",
+        "South Yards of Buda Castle"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castle_Hill,_Medieval_window_and_door_frames,_Buda_Royal_Palace.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Castle_Hill%2C_Medieval_window_and_door_frames%2C_Buda_Royal_Palace.JPG/1280px-Castle_Hill%2C_Medieval_window_and_door_frames%2C_Buda_Royal_Palace.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Odolena Voda, sídliště (059).jpg",
+      "description": "Sídliště v Odoleně Vodě.",
+      "categories": [
+        "Window frames",
+        "Uploaded with VicuñaUploader",
+        "Files by Juandev",
+        "Files with coordinates missing SDC location of creation",
+        "Ošklivá architektura",
+        "Housing estate in Odolena Voda"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Odolena_Voda,_s%C3%ADdli%C5%A1t%C4%9B_(059).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Odolena_Voda%2C_s%C3%ADdli%C5%A1t%C4%9B_%28059%29.jpg/1280px-Odolena_Voda%2C_s%C3%ADdli%C5%A1t%C4%9B_%28059%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6960,
+      "hauteur": 4640
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Center Family Meeting Room Shaker Village at Pleasant Hill, Kentucky.JPG",
+      "description": "Shaker Village at Pleasant Hill, Kentucky, is the largest and most elaborate of the Shaker-restored museums and visitor centers across the eastern United States. Many of the major, original buildings are restored for tours with exhibits in many rooms. The Center Family Dwelling is regarded as one of two masterpiece architectural gems in the village. (The other top gem is the main meeting house across the street from this building.) This second-floor meeting room is a space for the Center Family Shakers to worship by dancing and singing. This is the same room photographed on several visits by t",
+      "categories": [
+        "Museums about religion in the United States",
+        "CC-Zero",
+        "Door frames",
+        "Museums in Kentucky",
+        "Pleasant Hill, Kentucky",
+        "Self-published work",
+        "Buildings of religious function on the National Register of Historic Places in Kentucky"
+      ],
+      "auteur": "Author: DavidCrumm",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Center_Family_Meeting_Room_Shaker_Village_at_Pleasant_Hill,_Kentucky.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Center_Family_Meeting_Room_Shaker_Village_at_Pleasant_Hill%2C_Kentucky.JPG/1280px-Center_Family_Meeting_Room_Shaker_Village_at_Pleasant_Hill%2C_Kentucky.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Neustadt an der Donau, ehemaliges Geschäft -- 2026 -- 4154 (bw 2).jpg",
+      "description": "Former “Karl Menzinger, Interior Design” store, Neustadt an der Donau , Bavaria , Germany",
+      "categories": [
+        "Broken windows in Germany",
+        "Black and white photographs of Germany in the 2020s",
+        "Window frames",
+        "Images with intentional borders",
+        "Buildings in Neustadt an der Donau",
+        "ISO speed rating 800",
+        "Photographs with aspect ratio of 13:5",
+        "Self-published work",
+        "Objects with inscriptions in German needing translation",
+        "Information field template with formatting",
+        "Ruins in Bavaria",
+        "Shop signs in Bavaria",
+        "F-number f/8",
+        "Buildings with addresses",
+        "Lens focal length 23 mm",
+        "Former shops in Bavaria",
+        "Exposure time 1/90 sec",
+        "Windows in Landkreis Kelheim",
+        "Changes of XRay's photographs of the recent weeks",
+        "Images by XRay (flat list)",
+        "Uploaded with LrMediaWiki",
+        "4 windows",
+        "Black and white photographs of buildings in Bavaria",
+        "2026 black and white photographs",
+        "1 (house number) in Bavaria",
+        "Shops in Germany photographed in 2026",
+        "Photographs by Dietmar Rabich/Black-and-white photography",
+        "Shops in Lower Bavaria",
+        "Black and white photographs of shops",
+        "Painted signs",
+        "Black and white photographs of windows",
+        "Taken with Fujifilm X-E5",
+        "Bavaria photographs taken on 2026-09-24",
+        "Photographs by Dietmar Rabich/Year/2026",
+        "Taken with Fujinon XF23mm F2.8 R WR",
+        "Signs on buildings in Germany",
+        "Black and white photographs of ruins in Germany",
+        "Photographs by Dietmar Rabich/Architectural photography/Commerce buildings",
+        "Photographs by Dietmar Rabich/Architectural photography/Ruins",
+        "Photographs by Dietmar Rabich/Neustadt an der Donau"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Neustadt_an_der_Donau,_ehemaliges_Gesch%C3%A4ft_--_2026_--_4154_(bw_2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Neustadt_an_der_Donau%2C_ehemaliges_Gesch%C3%A4ft_--_2026_--_4154_%28bw_2%29.jpg/1280px-Neustadt_an_der_Donau%2C_ehemaliges_Gesch%C3%A4ft_--_2026_--_4154_%28bw_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6128,
+      "hauteur": 2367
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Installation of door frames for the transformer room of the Biltmore Room connection located at Grand Central’s express level. (CM014B, 11-29-2018) (31180259417).jpg",
+      "description": "Installation of door frames for the transformer room of the Biltmore Room connection located at Grand Central’s express level. (CM014B, 11-29-2018)",
+      "categories": [
+        "Door frames",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Construction of Grand Central Madison",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2018/11/30"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Installation_of_door_frames_for_the_transformer_room_of_the_Biltmore_Room_connection_located_at_Grand_Central%E2%80%99s_express_level._(CM014B,_11-29-2018)_(31180259417).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Installation_of_door_frames_for_the_transformer_room_of_the_Biltmore_Room_connection_located_at_Grand_Central%E2%80%99s_express_level._%28CM014B%2C_11-29-2018%29_%2831180259417%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

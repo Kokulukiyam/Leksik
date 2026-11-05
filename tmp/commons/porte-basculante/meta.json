@@ -1,0 +1,165 @@
+{
+  "terme": {
+    "id": "porte-basculante",
+    "terme": "la porte basculante",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte de garage d'un seul panneau qui pivote vers le haut pour se loger sous le plafond.",
+    "priorite": 2,
+    "requetes": [
+      "up and over garage door",
+      "porte de garage basculante",
+      "garage door"
+    ],
+    "incompatibles": [
+      "porte-sectionnelle"
+    ],
+    "categoriesCommons": [
+      "Category:Garage doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Back door to Christchurch Art Gallery, Christchurch, New Zealand.jpg",
+      "description": "Back door to Christchurch Art Gallery, Christchurch, New Zealand",
+      "categories": [
+        "Garage doors",
+        "Christchurch Art Gallery",
+        "Self-published work",
+        "Supported by Wikimedia Deutschland",
+        "Images by User:Podzemnik",
+        "Files with coordinates missing SDC location of creation",
+        "Images of New Zealand by User:Podzemnik",
+        "New Zealand photographs taken on 2020-02-13",
+        "Images by User:Podzemnik (supported by Wikimedia Germany)",
+        "Doors in Christchurch"
+      ],
+      "auteur": "Michal Klajban",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Back_door_to_Christchurch_Art_Gallery,_Christchurch,_New_Zealand.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Back_door_to_Christchurch_Art_Gallery%2C_Christchurch%2C_New_Zealand.jpg/1280px-Back_door_to_Christchurch_Art_Gallery%2C_Christchurch%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5278,
+      "hauteur": 3260
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Akersteeg, Edam.jpg",
+      "description": "Akersteeg",
+      "categories": [
+        "Garage doors",
+        "Self-published work",
+        "Taken on missing SDC inception",
+        "Uploaded with Mobile/Android",
+        "2026 in Edam-Volendam",
+        "Files with coordinates missing SDC location of creation (52° N, 5° E)",
+        "Street signs in North Holland",
+        "Streets in Edam",
+        "North Holland photographs taken on 2026-04-28"
+      ],
+      "auteur": "Dqfn13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Akersteeg,_Edam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Akersteeg%2C_Edam.jpg/1280px-Akersteeg%2C_Edam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bruselas, varios 08.jpg",
+      "description": "Garage door. Brussels, Belgium",
+      "categories": [
+        "Taken with Nikon D300",
+        "Garage doors",
+        "Photographs with aspect ratio of 3:2",
+        "Self-published work",
+        "Tow-away signs",
+        "Photographs by LBM1948",
+        "Peep windows"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bruselas,_varios_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bruselas%2C_varios_08.jpg/1280px-Bruselas%2C_varios_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4028,
+      "hauteur": 2720
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:50th St IND 8th Av 01.jpg",
+      "description": "A closed entrance/exit to the 50th Street station of the IND Eighth Avenue Line , at the southeast corner of 8th Avenue and West 52nd Street. The exit (via the left garage door) led to the Uptown/Queens platforms. The door to the right was recently a Santander bank. Both doors are located within \"The Ellington\", an apartment building at 260 West 52nd Street.",
+      "categories": [
+        "Taken with Sony DSC-W830",
+        "50th Street (IND Eighth Avenue Line)",
+        "52nd Street (Manhattan)",
+        "Garage doors",
+        "New York City photographs taken on 2017-09-17",
+        "Self-published work",
+        "New York City Subway entrances in Manhattan",
+        "Apartment buildings in Midtown Manhattan",
+        "Files with coordinates missing SDC location of creation",
+        "Railway photographs taken on 2017-09-17",
+        "2017 Manhattan photographs by Tdorante10",
+        "2017 New York City Subway photographs by Tdorante10",
+        "Midtown Manhattan in 2017",
+        "Door roller shutters",
+        "New York City Subway entrances inside buildings",
+        "Closed New York City Subway entrances",
+        "Santander Bank, N. A. in New York City",
+        "New York City Subway entrance globes (1980s style)",
+        "New York City Subway in September 2017"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:50th_St_IND_8th_Av_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/50th_St_IND_8th_Av_01.jpg/1280px-50th_St_IND_8th_Av_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:164th St Goethals 32.jpg",
+      "description": "A garage for Queens Hospital Center at Goethals Avenue and Parsons Boulevard in Jamaica, Queens.",
+      "categories": [
+        "Taken with Sony DSC-W830",
+        "Garage doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2017-07-29",
+        "2017 Queens photographs by Tdorante10",
+        "2017 in Jamaica, Queens",
+        "July 2017 in Queens, New York City",
+        "Queens Hospital Center storage garage"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:164th_St_Goethals_32.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/164th_St_Goethals_32.jpg/1280px-164th_St_Goethals_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Darlington municipal building.jpg",
+      "description": "Municipal building in Darlington , Pennsylvania , United States , located on the western side of Morris Street between Third and Fourth Streets.",
+      "categories": [
+        "Taken with Canon PowerShot A540",
+        "Garage doors",
+        "Darlington, Pennsylvania",
+        "Self-published work",
+        "PD-self",
+        "Town halls in Pennsylvania",
+        "Brick buildings in Pennsylvania",
+        "Built in Pennsylvania in 1926",
+        "Building-centered pictures by User:Nyttend",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2009-04-16"
+      ],
+      "auteur": "Nyttend",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Darlington_municipal_building.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Darlington_municipal_building.jpg/1280px-Darlington_municipal_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    }
+  ]
+}

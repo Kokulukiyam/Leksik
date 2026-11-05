@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "fibrociment",
+    "terme": "le fibrociment",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Matériau de ciment et de fibres, gris clair, moulé en plaques ondulées ou planes.",
+    "priorite": 2,
+    "requetes": [
+      "fibre cement corrugated sheet",
+      "asbestos cement roof",
+      "fibrociment toiture"
+    ],
+    "incompatibles": [
+      "tole-ondulee"
+    ],
+    "categoriesCommons": [
+      "Category:Asbestos cement",
+      "Category:Fibre cement"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Асбестоцементаня труба f003.jpg",
+      "description": "Кусок асбестоцементной трубы. Место излома, видны включения асбестовых волокон",
+      "categories": [
+        "CC-Zero",
+        "Asbestos cement",
+        "Self-published work",
+        "Asbestos pipes"
+      ],
+      "auteur": "Ural-66",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%81%D0%B1%D0%B5%D1%81%D1%82%D0%BE%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BD%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%B0_f003.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%D0%90%D1%81%D0%B1%D0%B5%D1%81%D1%82%D0%BE%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BD%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%B0_f003.jpg/1280px-%D0%90%D1%81%D0%B1%D0%B5%D1%81%D1%82%D0%BE%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BD%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%B0_f003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 3240
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Faserzement (asbestfrei)-5825.jpg",
+      "description": "Fibre cement, without asbestos, Germany",
+      "categories": [
+        "Uploaded with VicuñaUploader",
+        "Fibre cement",
+        "Self-published work"
+      ],
+      "auteur": "DKrieger",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Faserzement_(asbestfrei)-5825.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Faserzement_%28asbestfrei%29-5825.jpg/1280px-Faserzement_%28asbestfrei%29-5825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2796,
+      "hauteur": 1779
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Асбестоцементаня труба f004.jpg",
+      "description": "Столбик из вкопанной асбестоцементной трубы",
+      "categories": [
+        "CC-Zero",
+        "Asbestos cement",
+        "Self-published work",
+        "Asbestos pipes"
+      ],
+      "auteur": "Ural-66",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%81%D0%B1%D0%B5%D1%81%D1%82%D0%BE%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BD%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%B0_f004.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%D0%90%D1%81%D0%B1%D0%B5%D1%81%D1%82%D0%BE%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BD%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%B0_f004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 958,
+      "hauteur": 1278
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:1934-02 OBRAS P03.jpg",
+      "description": "Anuncio de la marca \"Rocalla\", de materiales de fibrocemento. Con fábrica en Castelldefels (Barcelona, Cataluña, España)",
+      "categories": [
+        "Companies based in Barcelona",
+        "Castelldefels",
+        "Defunct companies of Spain",
+        "Fibre cement",
+        "Construction materials in Spain",
+        "Template Unknown (author)",
+        "1934 advertisements in Spain",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "Carrer Canuda",
+        "Construction materials advertising",
+        "5-digit telephone numbers in Spain",
+        "Obras. Revista de la construcción"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:1934-02_OBRAS_P03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/1934-02_OBRAS_P03.jpg/1280px-1934-02_OBRAS_P03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2297,
+      "hauteur": 2881
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Asbestvezels in monsterzakje.jpg",
+      "description": "Monster van losgebonden \"lage dichtheid isolatieplaat\" met duidelijk zichtbare asbestvezels (30-60% Amosiet/bruin asbest)",
+      "categories": [
+        "CC-Zero",
+        "Asbestos",
+        "Asbestos cement",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2023-10-03"
+      ],
+      "auteur": "Micschk",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Asbestvezels_in_monsterzakje.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Asbestvezels_in_monsterzakje.jpg/1280px-Asbestvezels_in_monsterzakje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1372,
+      "hauteur": 1372
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fiber Cement cladding on Mercury Tower.jpg",
+      "description": "The Mercury Tower (skyscraper in Malta) has been designed by Zaha Hadid architects. The picture shows complex exterior cladding made from fiber cement panels.",
+      "categories": [
+        "Mercury Towers",
+        "Construction materials",
+        "Fibre cement",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Malta photographs taken on 2025-01-04"
+      ],
+      "auteur": "Marcin Floryan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fiber_Cement_cladding_on_Mercury_Tower.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Fiber_Cement_cladding_on_Mercury_Tower.jpg/1280px-Fiber_Cement_cladding_on_Mercury_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    }
+  ]
+}

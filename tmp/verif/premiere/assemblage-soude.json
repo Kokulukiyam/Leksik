@@ -1,0 +1,53 @@
+{
+  "termId": "assemblage-soude",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux coudes de tuyau en acier posés sur le sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'assemblage soudé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Soudeur à genoux avec étincelles sur un plancher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cordon non visible, scène de soudage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Poutres de pont en acier avec goujons connecteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Goujons, pas de cordon visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poutre d'acier hérissée de goujons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Goujons, pas un assemblage soudé lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche ancienne imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Soudeur dans l'obscurité avec arc lumineux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cordon non visible, image sombre."
+    }
+  ]
+}

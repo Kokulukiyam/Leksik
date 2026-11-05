@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "baignoire",
+    "terme": "la baignoire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Grande cuve sanitaire en acrylique, en fonte ou en acier dans laquelle on prend un bain.",
+    "priorite": 2,
+    "requetes": [
+      "bathtub",
+      "baignoire",
+      "bath tub bathroom"
+    ],
+    "categoriesCommons": [
+      "Category:Bathtubs",
+      "Category:Bathrooms"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bathroom palm trees.jpg",
+      "description": "Baderaum mit Palmen",
+      "categories": [
+        "Bathtubs",
+        "Bathrooms",
+        "Self-published work",
+        "Potted Arecaceae"
+      ],
+      "auteur": "Aliens-birthday",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bathroom_palm_trees.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bathroom_palm_trees.jpg/1280px-Bathroom_palm_trees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 1746
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A end door and stalls at a bathroom at a local peter pan's play area.jpg",
+      "description": "If you were wondering, yes, you can go into that little dark spot, but I wouldn't recommend doing that",
+      "categories": [
+        "Bathrooms",
+        "CC-Zero",
+        "Liminal spaces",
+        "Self-published work",
+        "Interior doors",
+        "Men's toilets"
+      ],
+      "auteur": "AguyfromacityinNL",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_end_door_and_stalls_at_a_bathroom_at_a_local_peter_pan%27s_play_area.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/A_end_door_and_stalls_at_a_bathroom_at_a_local_peter_pan%27s_play_area.jpg/1280px-A_end_door_and_stalls_at_a_bathroom_at_a_local_peter_pan%27s_play_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Animal-hoarding-of-rabbits.jpg",
+      "description": "Syndrome de Noé .",
+      "categories": [
+        "Bathrooms",
+        "Pet rabbits",
+        "Animal hoarding",
+        "Photographs taken on 2012-02-08",
+        "Unidentified interiors"
+      ],
+      "auteur": "Stefan Körner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Animal-hoarding-of-rabbits.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Animal-hoarding-of-rabbits.jpg/1280px-Animal-hoarding-of-rabbits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2739,
+      "hauteur": 1483
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bath Room (96377061).jpeg",
+      "description": "500px provided description: A bath... Castle of Monkeys [#bath ,#urbex ,#bathtub ,#chateau des singes ,#castle of monkeys]",
+      "categories": [
+        "Bathtubs",
+        "Château de Cahaignes",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Raphaël Bacco",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bath_Room_(96377061).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Bath_Room_%2896377061%29.jpeg/1280px-Bath_Room_%2896377061%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1259
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A washroom or operating room in the Physiological Laboratory Wellcome L0022529.jpg",
+      "description": "A washroom or operating room in the Physiological Laboratory either at the Institute of Experimental Medicine or at the Imperial Military Medical Academy, St Petersburg. Iconographic Collections Keywords: Ivan Petrovich Pavlov",
+      "categories": [
+        "Bathrooms",
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images",
+        "Imperial Military Medical Academy St. Petersburg"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_washroom_or_operating_room_in_the_Physiological_Laboratory_Wellcome_L0022529.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/A_washroom_or_operating_room_in_the_Physiological_Laboratory_Wellcome_L0022529.jpg/1280px-A_washroom_or_operating_room_in_the_Physiological_Laboratory_Wellcome_L0022529.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1553,
+      "hauteur": 1185
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A Kenya (10).jpg",
+      "description": "Ceci est une image du genre Musique et Danse de :",
+      "categories": [
+        "Bathtubs",
+        "Stone walls",
+        "Houses in Kenya",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2016",
+        "Images from Wiki Loves Africa 2016 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2016 without categories",
+        "Images from Wiki Loves Africa 2016 in Kenya",
+        "Outdoor showers",
+        "Outdoor baths"
+      ],
+      "auteur": "Olashxs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Kenya_(10).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_Kenya_%2810%29.jpg/1280px-A_Kenya_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    }
+  ]
+}

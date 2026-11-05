@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "brique-pleine",
+    "terme": "la brique pleine",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Brique de terre cuite massive, sans alvéoles, souvent laissée apparente.",
+    "priorite": 2,
+    "requetes": [
+      "solid clay brick",
+      "brique pleine",
+      "solid brick stack"
+    ],
+    "incompatibles": [
+      "brique"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Brick walls",
+      "Category:Brickwork"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2014-365-255 Together We Contain the Abyss (15198692206).jpg",
+      "description": "2014/365",
+      "categories": [
+        "Bricks",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014-365-255_Together_We_Contain_the_Abyss_(15198692206).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2014-365-255_Together_We_Contain_the_Abyss_%2815198692206%29.jpg/1280px-2014-365-255_Together_We_Contain_the_Abyss_%2815198692206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4878,
+      "hauteur": 3252
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:207 366 - Dreiecke Triangles (28089308283).jpg",
+      "description": "One year, two perspectives. This image is part of a 365(+1) project, my friend &lt;a href=\" https://www.flickr.com/photos/tiloschaffrik \"&gt;Tilo&lt;/a&gt; and I are working on. If you want to see more, check out our website &lt;a href=\" http://zweisichtig.de/ \" rel=\"nofollow\"&gt;zweisichtig.de&lt;/a&gt;.",
+      "categories": [
+        "Brick walls",
+        "Flickr images reviewed by FlickreviewR 2",
+        "MH2024",
+        "Boris Thaser (photographer)"
+      ],
+      "auteur": "Boris Thaser from Augsburg, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:207_366_-_Dreiecke_Triangles_(28089308283).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/207_366_-_Dreiecke_Triangles_%2828089308283%29.jpg/1280px-207_366_-_Dreiecke_Triangles_%2828089308283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4886,
+      "hauteur": 3183
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:GRASS (HDR) - Flickr - radiant guy.jpg",
+      "description": "GRASS [HDR]",
+      "categories": [
+        "Brickwork",
+        "Photographs taken on 2007-04-29",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "radiant guy from Den Haag, The Netherlands",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:GRASS_(HDR)_-_Flickr_-_radiant_guy.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/GRASS_%28HDR%29_-_Flickr_-_radiant_guy.jpg/1280px-GRASS_%28HDR%29_-_Flickr_-_radiant_guy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2000 year old bricks.jpg",
+      "description": "जमदग्नि ऋषि के आश्रम की नीव की ईंट",
+      "categories": [
+        "Bricks",
+        "Self-published work",
+        "Taken with Vivo Y20"
+      ],
+      "auteur": "DRDEVIPRASADSINGH",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2000_year_old_bricks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2000_year_old_bricks.jpg/1280px-2000_year_old_bricks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ali sabih iraq.jpg",
+      "description": "رجل يعمل في نقل البضائع يلفت النظر بنقل كيس اصفر اللون بسرعة ليصل الى التاجر ومن خلفه باب ازرق قديم تناغم لوني بين ثلاث الوان الاصفر الازرق والبني المصفر للجدار",
+      "categories": [
+        "Brick walls",
+        "Self-published work",
+        "Turquoise doors",
+        "People with wheelbarrows"
+      ],
+      "auteur": "Alisabih",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ali_sabih_iraq.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ali_sabih_iraq.jpg/1280px-Ali_sabih_iraq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3411,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Brick wall 20210114 135050.jpg",
+      "description": "Barnstar on brick wall with round top window reflecting b&w tree branches",
+      "categories": [
+        "Star anchors",
+        "Rundbogenstil architecture",
+        "Self-published work",
+        "Brickwork",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "CaptJayRuffins",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_wall_20210114_135050.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Brick_wall_20210114_135050.jpg/1280px-Brick_wall_20210114_135050.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

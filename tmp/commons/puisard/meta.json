@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "puisard",
+    "terme": "le puisard",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Puits maçonné à fond perméable, couvert d'une dalle, dans lequel les eaux s'infiltrent dans le sol.",
+    "priorite": 2,
+    "requetes": [
+      "soakaway pit",
+      "puisard",
+      "soak pit"
+    ],
+    "incompatibles": [
+      "fosse-septique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Pompes de cale en bois XVIIIè siècle.jpg",
+      "description": "Pompes de cale en bois XVIIIè siècle. Image extraite de Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine. Pr[emie]re partie par Deslongchamps l'ainé, lieutenant des vaisseaux du Roy et du port de Brest en 1763. Plans des hunes, des barres d'hunes, chuquets, barres de peroquet et autres pièces concernant la construction de la mature des vaisseaux 1767 . Manuscrit numérisé de la bibliothèque municipale de Brest, France.",
+      "categories": [
+        "Bilge wells",
+        "Shipbuilding",
+        "Author died more than 100 years ago public domain images",
+        "Views in technical drawings",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine"
+      ],
+      "auteur": "Louis-Jean Montier Deslongchamps (1721-1782)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pompes_de_cale_en_bois_XVIII%C3%A8_si%C3%A8cle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pompes_de_cale_en_bois_XVIII%C3%A8_si%C3%A8cle.jpg/1280px-Pompes_de_cale_en_bois_XVIII%C3%A8_si%C3%A8cle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3687,
+      "hauteur": 5122
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Soldek012.JPG",
+      "description": "Museal ship S/S Sołdek in Gdańsk, Poland",
+      "categories": [
+        "Bilge wells",
+        "Taken with Sony DSC-W170",
+        "Wikiekspedycja 2010",
+        "Engine room of Sołdek (ship, 1949)",
+        "Uchwała Zarządu WMPL UZ 2010-16",
+        "Uchwała Zarządu WMPL UZ 2010-3"
+      ],
+      "auteur": "Ciacho5",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Soldek012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Soldek012.JPG/1280px-Soldek012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pompes de cale Bayeux montées début XVIIIè siècle.jpg",
+      "description": "Pompes de cale Bayeux montées, début XVIIIè siècle. Image extraite de Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine. Pr[emie]re partie par Deslongchamps l'ainé, lieutenant des vaisseaux du Roy et du port de Brest en 1763. Plans des hunes, des barres d'hunes, chuquets, barres de peroquet et autres pièces concernant la construction de la mature des vaisseaux 1767 . Manuscrit numérisé de la bibliothèque municipale de Brest, France.",
+      "categories": [
+        "Bilge wells",
+        "Shipbuilding",
+        "Author died more than 100 years ago public domain images",
+        "Views in technical drawings",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine"
+      ],
+      "auteur": "Louis-Jean Montier Deslongchamps (1721-1782)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pompes_de_cale_Bayeux_mont%C3%A9es_d%C3%A9but_XVIII%C3%A8_si%C3%A8cle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Pompes_de_cale_Bayeux_mont%C3%A9es_d%C3%A9but_XVIII%C3%A8_si%C3%A8cle.jpg/1280px-Pompes_de_cale_Bayeux_mont%C3%A9es_d%C3%A9but_XVIII%C3%A8_si%C3%A8cle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3687,
+      "hauteur": 5122
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Soldek011.JPG",
+      "description": "Museal ship S/S Sołdek in Gdańsk, Poland",
+      "categories": [
+        "Bilge wells",
+        "Taken with Sony DSC-W170",
+        "Interior of Sołdek (ship, 1949)",
+        "Wikiekspedycja 2010",
+        "Uchwała Zarządu WMPL UZ 2010-16",
+        "Uchwała Zarządu WMPL UZ 2010-3"
+      ],
+      "auteur": "Ciacho5",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Soldek011.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Soldek011.JPG/1280px-Soldek011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Pompes de cale Bayeux montées début XVIIIè siècle 1.jpg",
+      "description": "Pompes de Bayeux montées, début XVIIIè siècle. Image extraite de Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine. Pr[emie]re partie par Deslongchamps l'ainé, lieutenant des vaisseaux du Roy et du port de Brest en 1763. Plans des hunes, des barres d'hunes, chuquets, barres de peroquet et autres pièces concernant la construction de la mature des vaisseaux 1767 . Manuscrit numérisé de la bibliothèque municipale de Brest, France.",
+      "categories": [
+        "Bilge wells",
+        "Shipbuilding",
+        "Author died more than 100 years ago public domain images",
+        "Views in technical drawings",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "Recueil de toutes sortes de machines, d'outils, et d'ustensiles en usages pour la construction et carenne des vaisseaux, et de tout ce qui a raport à leurs armements dans un arsenal de marine"
+      ],
+      "auteur": "Louis-Jean Montier Deslongchamps (1721-1782)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pompes_de_cale_Bayeux_mont%C3%A9es_d%C3%A9but_XVIII%C3%A8_si%C3%A8cle_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Pompes_de_cale_Bayeux_mont%C3%A9es_d%C3%A9but_XVIII%C3%A8_si%C3%A8cle_1.jpg/1280px-Pompes_de_cale_Bayeux_mont%C3%A9es_d%C3%A9but_XVIII%C3%A8_si%C3%A8cle_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3715,
+      "hauteur": 5122
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bilge well.jpg",
+      "description": "Puisard de cale (navire)",
+      "categories": [
+        "Bilge wells",
+        "GFDL",
+        "Taken with Fujifilm FinePix A303",
+        "License migration redundant",
+        "Self-published work",
+        "Photographs taken on 2003-09-23"
+      ],
+      "auteur": "Clipper",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bilge_well.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bilge_well.jpg/1280px-Bilge_well.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    }
+  ]
+}

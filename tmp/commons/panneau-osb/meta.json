@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "panneau-osb",
+    "terme": "le panneau OSB",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Panneau de grandes lamelles de bois orientées et collées, reconnaissable à son aspect de copeaux.",
+    "priorite": 2,
+    "requetes": [
+      "OSB board",
+      "oriented strand board texture",
+      "panneau OSB"
+    ],
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Pittsburgh G-20 closed.jpg",
+      "description": "The men are working their time to put wood on the glass wall, few blocks away from convention center. 2 more days left till G-20 summit",
+      "categories": [
+        "Taken with Canon Digital IXUS 970 IS",
+        "Ladders",
+        "2009 G-20 Pittsburgh summit",
+        "Oriented strand boards",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Males in rooms",
+        "Men wearing blue jeans in Pennsylvania",
+        "Cordless screwdrivers",
+        "Men wearing T-shirts",
+        "Screw guns",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2009-09-22",
+        "2 men in the United States",
+        "Standing men in Pennsylvania",
+        "Men with baseball caps",
+        "People wearing belts",
+        "Files from David P. Fulmer Flickr stream"
+      ],
+      "auteur": "daveynin from United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pittsburgh_G-20_closed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Pittsburgh_G-20_closed.jpg/1280px-Pittsburgh_G-20_closed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Chipboard factory, Tornagrain - geograph.org.uk - 7454907.jpg",
+      "description": "Chipboard factory, Tornagrain",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "West Fraser Factory, Morayhill"
+      ],
+      "auteur": "Mike Pennington",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chipboard_factory,_Tornagrain_-_geograph.org.uk_-_7454907.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Chipboard_factory%2C_Tornagrain_-_geograph.org.uk_-_7454907.jpg/1280px-Chipboard_factory%2C_Tornagrain_-_geograph.org.uk_-_7454907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1068
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Desk.jpg",
+      "description": "i built this desk, and modeled it off the Blue Dot Chicago Desk. The oriented strand board top was an idea that stemmed from a discussion with Paul Stockamore.",
+      "categories": [
+        "Taken with Canon Digital IXUS 400",
+        "IMac G5",
+        "Table lamps",
+        "Oriented strand boards",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Black chairs",
+        "Wooden furniture",
+        "Objects at corners"
+      ],
+      "auteur": "Jordan Fischer from Chicago",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Desk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Desk.jpg/1280px-Desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Podzielnia, Poznań, Polska.jpg",
+      "description": "Podzielnia, Poznań, Polska",
+      "categories": [
+        "Poznań",
+        "Zero waste",
+        "Freeshops",
+        "Oriented strand boards",
+        "Giveboxes",
+        "Clothing storage"
+      ],
+      "auteur": "Anna Kaczmarek",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Podzielnia,_Pozna%C5%84,_Polska.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Podzielnia%2C_Pozna%C5%84%2C_Polska.jpg/1280px-Podzielnia%2C_Pozna%C5%84%2C_Polska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Norbord Factory, Inverness - geograph.org.uk - 5356698.jpg",
+      "description": "Norbord Factory, Inverness",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Aerial photographs of Highland council area",
+        "West Fraser Factory, Morayhill"
+      ],
+      "auteur": "Andrew Tryon",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Norbord_Factory,_Inverness_-_geograph.org.uk_-_5356698.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Norbord_Factory%2C_Inverness_-_geograph.org.uk_-_5356698.jpg/1280px-Norbord_Factory%2C_Inverness_-_geograph.org.uk_-_5356698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2814,
+      "hauteur": 1876
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:OSB Eurostrand 2009.jpg",
+      "description": "OSB Eurostrand",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 40D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Oriented strand boards",
+        "Self-published work",
+        "Objects with black background"
+      ],
+      "auteur": "Elke Wetzig ( elya )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:OSB_Eurostrand_2009.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/OSB_Eurostrand_2009.jpg/1280px-OSB_Eurostrand_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 1729
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "terme": {
+    "id": "reservation",
+    "terme": "la réservation",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Ouverture ou passage laissé volontairement dans un mur ou une dalle en béton pour un futur réseau ou équipement.",
+    "priorite": 2,
+    "requetes": [
+      "concrete wall opening sleeve pipe penetration",
+      "réservation dalle béton",
+      "slab penetration sleeve"
+    ],
+    "incompatibles": [
+      "tremie"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete walls",
+      "Category:Concrete construction"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Muro de concreto (11057626453).jpg",
+      "description": "Muro de concreto",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Concrete walls",
+        "Photographs by Douglas Iuri Medeiros Cabral"
+      ],
+      "auteur": "Douglas Iuri Medeiros Cabral",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Muro_de_concreto_(11057626453).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Muro_de_concreto_%2811057626453%29.jpg/1280px-Muro_de_concreto_%2811057626453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2672
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ready for concrete.jpg",
+      "description": "Radon/methane membrane, steel re-enforcement with edge thickener and peckafill type shutter.",
+      "categories": [
+        "Self-published work",
+        "Construction sites in the United Kingdom",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (53° N, 4° W)",
+        "Concrete construction"
+      ],
+      "auteur": "Bugsybanana",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ready_for_concrete.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Ready_for_concrete.jpg/1280px-Ready_for_concrete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:BC856 HUI-1217.jpg",
+      "description": "Foto uit de collectie Huizinga van het NIOD. Betonnen muur in de grotendeels gesloopte Stadhouderslaan, aangelegd als onderdeel van de 'Atlantikwall'. Menno Huizinga was onderdeel van de Ondergedoken Camera en maakte illegaal foto’s tijdens de bezetting. Dit deed hij hoofdzakelijk in zijn woonplaats Den Haag.",
+      "categories": [
+        "Media from Netwerk Oorlogsbronnen",
+        "Stadhouderslaan, The Hague",
+        "Author died more than 70 years ago public domain images",
+        "Media from NIOD",
+        "Uploaded with pattypan",
+        "Concrete walls",
+        "Unknown date",
+        "CC-PD-Mark",
+        "Photographs by Menno Huizinga",
+        "Preparations in The Hague for the Atlantic Wall"
+      ],
+      "auteur": "Menno Huizinga",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:BC856_HUI-1217.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/BC856_HUI-1217.jpg/1280px-BC856_HUI-1217.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3544,
+      "hauteur": 2437
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Residential reconstruction with zero greenery.jpg",
+      "description": "Residential reconstruction with zero greenery",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "House construction in Japan",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Yakumo, Meguro",
+        "Tokyo photographs taken on 2024-11-04",
+        "Concrete construction",
+        "Construction sites in Tokyo in the 2020s",
+        "Single Pipe Barricade"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Residential_reconstruction_with_zero_greenery.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Residential_reconstruction_with_zero_greenery.jpg/1280px-Residential_reconstruction_with_zero_greenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Constructions and scaffolding at the Oosterdokseiland, Amsterdam-Centrum.jpg",
+      "description": "Photo of the constructions sites including high building-cranes and large scaffolding on Oosterdokseiland for the new building of the municipal library of Amsterdam city free photo was made in Autumn of 2006.",
+      "categories": [
+        "Work clothing",
+        "Taken with Panasonic Lumix DMC-FZ50",
+        "CC-Zero",
+        "Construction workers",
+        "Created with Adobe Photoshop Elements",
+        "Construction equipment",
+        "Openbare Bibliotheek Amsterdam - Centrale bibliotheek",
+        "Construction materials",
+        "Overcast in the Netherlands",
+        "PD-Netherlands",
+        "Self-published work",
+        "Concrete walls",
+        "Cranes in the Netherlands",
+        "Metal structures",
+        "Concrete casting",
+        "Construction cranes in the Netherlands",
+        "Metal scaffolding in the Netherlands",
+        "Construction excavations",
+        "Netherlands photographs taken on 2006-10-24",
+        "Autumn in Amsterdam",
+        "Clouds in Amsterdam",
+        "Construction site Oosterdokseiland, Amsterdam",
+        "Water reflections in Amsterdam",
+        "People at work in Amsterdam",
+        "Photographs by Fons Heijnsbroek in Amsterdam (2006)",
+        "Oosterdokseiland constructions Amsterdam, in photos by Fons Heijnsbroek"
+      ],
+      "auteur": "Fons Heijnsbroek",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Constructions_and_scaffolding_at_the_Oosterdokseiland,_Amsterdam-Centrum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Constructions_and_scaffolding_at_the_Oosterdokseiland%2C_Amsterdam-Centrum.jpg/1280px-Constructions_and_scaffolding_at_the_Oosterdokseiland%2C_Amsterdam-Centrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Post tensioned concrete slab on cellular beams.jpg",
+      "description": "Mario Kleff's Wandeegroup (Thailand) Company Limited is about to complete the first residential complex with a steel frame construction and a post-tensioned concrete slab with a span of 24.00 x 27.00 meters.",
+      "categories": [
+        "Self-published work",
+        "Construction in Thailand",
+        "Files with coordinates missing SDC location of creation",
+        "Long-span techniques in residential architecture",
+        "Buildings in Pattaya",
+        "Architectural designs by Mario Kleff",
+        "Concrete construction"
+      ],
+      "auteur": "Meow2021",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Post_tensioned_concrete_slab_on_cellular_beams.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Post_tensioned_concrete_slab_on_cellular_beams.jpg/1280px-Post_tensioned_concrete_slab_on_cellular_beams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

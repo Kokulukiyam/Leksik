@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "moule-a-parpaings",
+    "terme": "le moule à parpaings",
+    "categorie": "Chantier et outillage",
+    "definition": "Moule métallique, souvent à levier, dans lequel on serre le béton maigre pour fabriquer des blocs sur place.",
+    "priorite": 2,
+    "requetes": [
+      "concrete block mould manual",
+      "moule à parpaings",
+      "block making machine manual Africa"
+    ],
+    "incompatibles": [
+      "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete blocks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Betonárna TBG Metrostav, Praha – Rohanský ostrov, 2018 (04).jpg",
+      "description": "Concrete plant of TBG Metrostav on the Rohanský ostrov (Rohan Island), Prague",
+      "categories": [
+        "Czech Republic photographs taken on 2018-05-15",
+        "Uploaded with pattypan",
+        "Concrete blocks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "May 2018 in Prague",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C",
+        "Concrete plant of TBG Metrostav in Karlín",
+        "Files by Draceane – Prague"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beton%C3%A1rna_TBG_Metrostav,_Praha_%E2%80%93_Rohansk%C3%BD_ostrov,_2018_(04).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Beton%C3%A1rna_TBG_Metrostav%2C_Praha_%E2%80%93_Rohansk%C3%BD_ostrov%2C_2018_%2804%29.jpg/1280px-Beton%C3%A1rna_TBG_Metrostav%2C_Praha_%E2%80%93_Rohansk%C3%BD_ostrov%2C_2018_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:-2021-01-22 Cavity wall construction, Trimingham, Norfolk (4).JPG",
+      "description": "Construction of a cavity wall in aerated concrete blocks to the inside and concrete blocks for the outer skin. Located on a construction site in the village of Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Cavity walls",
+        "Attribution only license",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2021-01-22",
+        "January 2021 in Norfolk, England",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham",
+        "Aerated concrete block",
+        "Concrete block walls in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2021-01-22_Cavity_wall_construction,_Trimingham,_Norfolk_(4).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/-2021-01-22_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%284%29.JPG/1280px--2021-01-22_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%284%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:-2021-01-22 Cavity wall construction, Trimingham, Norfolk (1).JPG",
+      "description": "Construction of a cavity wall in aerated concrete blocks to the inside and concrete blocks for the outer skin. Located on a construction site in the village of Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Cavity walls",
+        "Attribution only license",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2021-01-22",
+        "January 2021 in Norfolk, England",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham",
+        "Aerated concrete block",
+        "Concrete block walls in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2021-01-22_Cavity_wall_construction,_Trimingham,_Norfolk_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/-2021-01-22_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%281%29.JPG/1280px--2021-01-22_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Broken Cinder Block.jpg",
+      "description": "Broken Cinder Block",
+      "categories": [
+        "Concrete blocks",
+        "Self-published work",
+        "Taken with Motorola Moto G 5G (2022)"
+      ],
+      "auteur": "Robert Gill",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_Cinder_Block.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Broken_Cinder_Block.jpg/1280px-Broken_Cinder_Block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:-2021-01-23 Concrete Block wall, Trimingham, Norfolk.JPG",
+      "description": "Construction of a wall with concrete blocks. Located on a construction site in the village of Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Attribution only license",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2021-01-23",
+        "January 2021 in Norfolk, England",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham",
+        "Concrete block walls in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2021-01-23_Concrete_Block_wall,_Trimingham,_Norfolk.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/-2021-01-23_Concrete_Block_wall%2C_Trimingham%2C_Norfolk.JPG/1280px--2021-01-23_Concrete_Block_wall%2C_Trimingham%2C_Norfolk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Batako.jpg",
+      "description": "Batako sawijining bahan kanggo gawe wangunan arupa omah, tembok, pager, gudhang, kandhang, lsp. Saiki uwong-uwong luwih seneng migunakake batako tinimbang bata abang, sebab bisa luwih ngirit semen",
+      "categories": [
+        "Construction materials in Indonesia",
+        "Concrete blocks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Dandung Adityo Argo Prasetyo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Batako.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Batako.jpg/1280px-Batako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    }
+  ]
+}

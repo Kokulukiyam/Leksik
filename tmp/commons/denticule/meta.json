@@ -1,0 +1,159 @@
+{
+  "terme": {
+    "id": "denticule",
+    "terme": "le denticule",
+    "categorie": "Ornement",
+    "definition": "Petit bloc rectangulaire répété en rang serré sous une corniche, comme une rangée de dents.",
+    "priorite": 2,
+    "requetes": [
+      "dentils cornice",
+      "dentil molding",
+      "denticules corniche"
+    ],
+    "incompatibles": [
+      "corniche",
+      "modillon",
+      "moulure"
+    ],
+    "categoriesCommons": [
+      "Category:Dentils",
+      "Category:Cornices"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Border (possibly France), 1840 (CH 18559229).jpg",
+      "description": "Simulation of a cornice resting upon medallions, with ogee and bead-and-reel mouldings below. The soffit of the cornice, and the medallions, are rendered in perspective, as seen from below. Printed in browns, yellow, white and red. Browns, yellow, white and red.",
+      "categories": [
+        "1840 works",
+        "Dentils",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "Artworks with known accession number",
+        "Template Unknown (artist)",
+        "CC-PD-Mark",
+        "Artworks of France in the Cooper–Hewitt, Smithsonian Design Museum",
+        "Wallcoverings in the Cooper–Hewitt, Smithsonian Design Museum",
+        "Neoclassical wallpapers",
+        "1840s wallpapers",
+        "Border (wallpaper)"
+      ],
+      "auteur": "Artiste inconnu Unknown artist",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Border_(possibly_France),_1840_(CH_18559229).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Border_%28possibly_France%29%2C_1840_%28CH_18559229%29.jpg/1280px-Border_%28possibly_France%29%2C_1840_%28CH_18559229%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 1225
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cornice plaster MET 40-170-267.jpg",
+      "description": "Corniche à décor de fleurons. Stuc sculpté et peint, Xe siècle (?), Nishapur. Metropolitan Museum of Art (MET 40.170.267).",
+      "categories": [
+        "Taken with Nikon D70",
+        "Cornices",
+        "Art of Nishapur",
+        "Self-published work",
+        "PD-self",
+        "Islamic plaster sculpture",
+        "Plant-scroll ornament",
+        "Iranian sculptures in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Jastrow",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cornice_plaster_MET_40-170-267.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cornice_plaster_MET_40-170-267.jpg/1280px-Cornice_plaster_MET_40-170-267.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2820,
+      "hauteur": 800
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Border (USA), 1904–15 (CH 18475243-2).jpg",
+      "description": "Imitation architectural dentilling and molding in shades of green on maroon with metallic gold highlights.",
+      "categories": [
+        "PD-old-70-expired",
+        "Dentils",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "PD-Art (PD-old-70-expired)",
+        "Artworks with known accession number",
+        "Template Unknown (artist)",
+        "CC-PD-Mark",
+        "Artworks of the United States in the Cooper–Hewitt, Smithsonian Design Museum",
+        "Wallcoverings in the Cooper–Hewitt, Smithsonian Design Museum",
+        "1900s wallpapers",
+        "Neoclassical wallpapers",
+        "Border (wallpaper)"
+      ],
+      "auteur": "Artiste inconnu Unknown artist",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Border_(USA),_1904%E2%80%9315_(CH_18475243-2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Border_%28USA%29%2C_1904%E2%80%9315_%28CH_18475243-2%29.jpg/1280px-Border_%28USA%29%2C_1904%E2%80%9315_%28CH_18475243-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3513
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Detalle de ventana y cornizas de la Gobernación de La Paz.JPG",
+      "description": "Cette image montre le monument protégé portant le numéro L/00-087 en Bolivie.",
+      "categories": [
+        "Taken with iPod touch",
+        "Cornices",
+        "Self-published work",
+        "Architectural elements in Bolivia",
+        "Images from Wiki Loves Monuments 2013",
+        "Cultural heritage monuments in Bolivia with known IDs",
+        "Images from Wiki Loves Monuments 2013 in Bolivia",
+        "Uploaded via Campaign:wlm-bo",
+        "Bolivia photographs taken on 2013-09-29",
+        "Gobernación del Departamento de La Paz"
+      ],
+      "auteur": "Camilo Quiroga L.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detalle_de_ventana_y_cornizas_de_la_Gobernaci%C3%B3n_de_La_Paz.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Detalle_de_ventana_y_cornizas_de_la_Gobernaci%C3%B3n_de_La_Paz.JPG/1280px-Detalle_de_ventana_y_cornizas_de_la_Gobernaci%C3%B3n_de_La_Paz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dentil with egg - Cleveland Museum of Art (28347462781).jpg",
+      "description": "dentil with egg - Cleveland Museum of Art",
+      "categories": [
+        "Exterior of the Cleveland Museum of Art",
+        "Dentils",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Tim Evanson"
+      ],
+      "auteur": "Tim Evanson from Cleveland Heights, Ohio, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dentil_with_egg_-_Cleveland_Museum_of_Art_(28347462781).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Dentil_with_egg_-_Cleveland_Museum_of_Art_%2828347462781%29.jpg/1280px-Dentil_with_egg_-_Cleveland_Museum_of_Art_%2828347462781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 981
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bamondas mukherjee house.jpg",
+      "description": "pankha decorations in the bamondas mukherjee house",
+      "categories": [
+        "Bamondas Mookerjee Kali Mandir",
+        "Cornices",
+        "Self-published work",
+        "Capitals (architecture) in India",
+        "Corinthian columns in Kolkata",
+        "Wikipedia Takes Kolkata VI-Relevant",
+        "Pankha decorations"
+      ],
+      "auteur": "ProbuddhoG.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bamondas_mukherjee_house.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Bamondas_mukherjee_house.jpg/1280px-Bamondas_mukherjee_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4325,
+      "hauteur": 4000
+    }
+  ]
+}

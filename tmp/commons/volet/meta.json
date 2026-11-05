@@ -1,0 +1,159 @@
+{
+  "terme": {
+    "id": "volet",
+    "terme": "le volet",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Panneau mobile placé devant une fenêtre pour la protéger, l'occulter ou la sécuriser.",
+    "priorite": 1,
+    "requetes": [
+      "window shutters",
+      "volets fenêtre",
+      "shutters"
+    ],
+    "incompatibles": [
+      "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters",
+      "Category:Shutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Два окна на главную улицу. Дом Алешиной. Петрозаводск, Шуйская улица, 14..JPG",
+      "description": "Дом жилой постройки 1879 года. ФОТОГРАФИЯ: СЕНТЯБРЬ 2012 ГОДА.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-LS1",
+        "Window shutters",
+        "Cultural heritage monuments in Petrozavodsk",
+        "Carved wooden windows in Russia",
+        "Self-published work",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Images from Wiki Loves Monuments 2012",
+        "Images from Wiki Loves Monuments 2012 in Russia",
+        "Russia photographs taken on 2012-09-29",
+        "2012 in Petrozavodsk",
+        "Wooden houses in Petrozavodsk",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC depicts",
+        "Russian heritage ID 1000039000"
+      ],
+      "auteur": "Galina Gorbacheva",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B2%D0%B0_%D0%BE%D0%BA%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%83%D1%8E_%D1%83%D0%BB%D0%B8%D1%86%D1%83._%D0%94%D0%BE%D0%BC_%D0%90%D0%BB%D0%B5%D1%88%D0%B8%D0%BD%D0%BE%D0%B9._%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA,_%D0%A8%D1%83%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0,_14..JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%D0%94%D0%B2%D0%B0_%D0%BE%D0%BA%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%83%D1%8E_%D1%83%D0%BB%D0%B8%D1%86%D1%83._%D0%94%D0%BE%D0%BC_%D0%90%D0%BB%D0%B5%D1%88%D0%B8%D0%BD%D0%BE%D0%B9._%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%2C_%D0%A8%D1%83%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C_14..JPG/1280px-%D0%94%D0%B2%D0%B0_%D0%BE%D0%BA%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%83%D1%8E_%D1%83%D0%BB%D0%B8%D1%86%D1%83._%D0%94%D0%BE%D0%BC_%D0%90%D0%BB%D0%B5%D1%88%D0%B8%D0%BD%D0%BE%D0%B9._%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%2C_%D0%A8%D1%83%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C_14..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1697,
+      "hauteur": 982
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:HK Sai Ying Pun Eastern Street shop gate First Street Aug-2012.JPG",
+      "description": "en , Hong Kong",
+      "categories": [
+        "Taken with Ricoh R10",
+        "Shutters",
+        "First Street, Hong Kong",
+        "Self-published work",
+        "August 2012 in Central and Western District",
+        "August 2012 in Sai Ying Pun",
+        "Hong Kong photographs taken on 2012-08-19",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Shop gates in Hong Kong",
+        "Shops in First Street, Hong Kong",
+        "Hing Yip Building",
+        "2012 in Eastern Street, Hong Kong",
+        "August 2012 in First Street, Hong Kong"
+      ],
+      "auteur": "Bubble36288",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_Sai_Ying_Pun_Eastern_Street_shop_gate_First_Street_Aug-2012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/HK_Sai_Ying_Pun_Eastern_Street_shop_gate_First_Street_Aug-2012.JPG/1280px-HK_Sai_Ying_Pun_Eastern_Street_shop_gate_First_Street_Aug-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:6 Drama.jpg",
+      "description": "Drama",
+      "categories": [
+        "Window shutters",
+        "Items with VRTS permission confirmed",
+        "Photographs by Mia Medaković-Topalović"
+      ],
+      "auteur": "Mia Medaković-Topalović",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:6_Drama.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/6_Drama.jpg/1280px-6_Drama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8940,
+      "hauteur": 6554
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Jenssætra skodder.jpg",
+      "description": "window shutters on old farmhouse",
+      "categories": [
+        "Window shutters",
+        "Totenåsen",
+        "Self-published work",
+        "Mountain pastures in Norway"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jenss%C3%A6tra_skodder.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Jenss%C3%A6tra_skodder.jpg/1280px-Jenss%C3%A6tra_skodder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Emin Gjiku Complex 01.jpg",
+      "description": "Emin Gjiku Complex",
+      "categories": [
+        "Shutters",
+        "Self-published work",
+        "Emin Gjiku Complex"
+      ],
+      "auteur": "Sonia Budini",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Emin_Gjiku_Complex_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Emin_Gjiku_Complex_01.jpg/1280px-Emin_Gjiku_Complex_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bahia Palace sunlit window.jpg",
+      "description": "Sunlight illuminating an ornate yellow metal window grille at Bahia Palace in Marrakech, Morocco, surrounded by painted wooden shutters and traditional geometric floor tiles",
+      "categories": [
+        "Zellij",
+        "Window shutters",
+        "Cultural heritage monuments in Morocco",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "Tiles in Morocco",
+        "Uploaded via Campaign:wlm-ma",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC copyright license",
+        "Images from Wiki Loves Monuments missing SDC copyright status",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments 2026 in Morocco"
+      ],
+      "auteur": "SafiaMens",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bahia_Palace_sunlit_window.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Bahia_Palace_sunlit_window.jpg/1280px-Bahia_Palace_sunlit_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3738,
+      "hauteur": 4986
+    }
+  ]
+}

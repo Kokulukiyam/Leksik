@@ -1,0 +1,166 @@
+{
+  "terme": {
+    "id": "huisserie",
+    "terme": "l'huisserie",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Cadre en bois ou en métal qui encadre l'ouverture d'une porte et sur lequel elle est ferrée, posé avant les enduits sur chantier.",
+    "priorite": 2,
+    "requetes": [
+      "steel door frame installed wall",
+      "huisserie métallique",
+      "door frame"
+    ],
+    "incompatibles": [
+      "dormant",
+      "chambranle"
+    ],
+    "categoriesCommons": [
+      "Category:Door frames"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Kelvedon Hall entrance through garden wall Kelvedon Hatch Essex England 02.jpg",
+      "description": "Entrance through a garden wall at Kelvedon Hall in Kelvedon Hatch, Essex, England. Wikimedia (2026) makes it difficult to view photos related to this image. To see its most relevant allied photo groups, click on the categories at the bottom of this page, or this uploader's Photos . This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name, number and/or time marking. Camera : Canon EOS 6D Mark II . Software : file lens-corrected and optimized with DxO PhotoLab 9 Elite .",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Door frames",
+        "Kelvedon Hall",
+        "Self-published work",
+        "Spring in Essex",
+        "Gardens and parks in the United Kingdom",
+        "Flora of Essex in April",
+        "Brick walls in Essex",
+        "Brick walls in Flemish bond in the United Kingdom",
+        "Acabashi photos: parks and gardens in Essex",
+        "2-step stairs",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Garden walls in England",
+        "Entrances in Essex",
+        "Garden paths in Essex",
+        "England photographs taken on 2026-04-18",
+        "April 2026 in Essex",
+        "Gardens photographed in 2026"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kelvedon_Hall_entrance_through_garden_wall_Kelvedon_Hatch_Essex_England_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Kelvedon_Hall_entrance_through_garden_wall_Kelvedon_Hatch_Essex_England_02.jpg/1280px-Kelvedon_Hall_entrance_through_garden_wall_Kelvedon_Hatch_Essex_England_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 6240
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Igreja de Nossa Senhora da Conceição de Paraty Mirim 7379.jpg",
+      "description": "Detail of granite door frame, Igreja de Nossa Senhora da Conceição de Paraty Mirim, Paraty, Rio de Janeiro, Brazil.",
+      "categories": [
+        "Taken with Canon EOS 750D",
+        "Door frames",
+        "Igreja de Nossa Senhora da Conceição de Paraty Mirim",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil images by Paul R. Burley",
+        "Brazil photographs taken on 2017-10-15",
+        "Granite in architecture"
+      ],
+      "auteur": "Paul R. Burley",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_de_Paraty_Mirim_7379.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Igreja_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_de_Paraty_Mirim_7379.jpg/1280px-Igreja_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_de_Paraty_Mirim_7379.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dvorac Ingus, Hajdukovo 09.jpg",
+      "description": "Dvorac Ingus u Hajdukovu, Srbiji. Fotografisano zahvaljujući projektu Dvorci Srbije u organizaciji Color Media Communications.",
+      "categories": [
+        "Door frames",
+        "Items with VRTS permission confirmed",
+        "Serbia photographs taken on 2021-09-16",
+        "Content donations by Castles of Serbia",
+        "Dvorac Ingus (Hajdukovo)"
+      ],
+      "auteur": "Mladen Sekulić",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dvorac_Ingus,_Hajdukovo_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dvorac_Ingus%2C_Hajdukovo_09.jpg/1280px-Dvorac_Ingus%2C_Hajdukovo_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2008,
+      "hauteur": 3008
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Drzwi-porta-drzwi-luxmed-krakow-aleja-pokoju-18c.jpg",
+      "description": "Drzwi marki Porta Drzwi, LUXMED Aleja Pokoju 18c, Kraków",
+      "categories": [
+        "Door handles",
+        "Door frames",
+        "Pokoju Alley in Kraków",
+        "Self-published work",
+        "White doors",
+        "Doors in Kraków",
+        "Interior doors",
+        "Files with coordinates missing SDC location of creation",
+        "Hinged doors",
+        "Porta KMI Poland",
+        "LUX MED in Kraków"
+      ],
+      "auteur": "Kedziorek1998d",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drzwi-porta-drzwi-luxmed-krakow-aleja-pokoju-18c.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Drzwi-porta-drzwi-luxmed-krakow-aleja-pokoju-18c.jpg/1280px-Drzwi-porta-drzwi-luxmed-krakow-aleja-pokoju-18c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4094,
+      "hauteur": 5459
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Framing out rooms in the back of house area of the future LIRR passenger concourse. (CM014B, 11-15-2018) (32041139588).jpg",
+      "description": "Framing out rooms in the back of house area of the future LIRR passenger concourse. (CM014B, 11-15-2018)",
+      "categories": [
+        "Door frames",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "East Side Access construction/2018/11/16",
+        "Flickr files uploaded by Epicgenius",
+        "Construction of LIRR Concourse (Grand Central Terminal)"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Framing_out_rooms_in_the_back_of_house_area_of_the_future_LIRR_passenger_concourse._(CM014B,_11-15-2018)_(32041139588).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Framing_out_rooms_in_the_back_of_house_area_of_the_future_LIRR_passenger_concourse._%28CM014B%2C_11-15-2018%29_%2832041139588%29.jpg/1280px-Framing_out_rooms_in_the_back_of_house_area_of_the_future_LIRR_passenger_concourse._%28CM014B%2C_11-15-2018%29_%2832041139588%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:LangfordOxon StMatthew NormanDoorway.JPG",
+      "description": "Norman north doorway, circa AD 1200, at the Church of England parish church of St Matthew, Langford, Oxfordshire.",
+      "categories": [
+        "Taken with Nikon D70s",
+        "Door frames",
+        "St Matthew's Church, Langford",
+        "Self-published work",
+        "Gothic church portals in the United Kingdom",
+        "Wooden doors in Oxfordshire",
+        "November 2010 in Oxfordshire",
+        "Church doors in Oxfordshire",
+        "Churches in Oxfordshire photographed in 2010",
+        "Engaged columns in Oxfordshire",
+        "Norman arches in England",
+        "United Kingdom photographs taken on 2010-11-07",
+        "Arches in Oxfordshire",
+        "Files with coordinates missing SDC location of creation (51° N, 2° W)",
+        "Decorative hinges in England",
+        "Semi-circular arches in England",
+        "Church portals in England"
+      ],
+      "auteur": "Motacilla",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LangfordOxon_StMatthew_NormanDoorway.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/LangfordOxon_StMatthew_NormanDoorway.JPG/1280px-LangfordOxon_StMatthew_NormanDoorway.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1950,
+      "hauteur": 2730
+    }
+  ]
+}

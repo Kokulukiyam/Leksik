@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "nacelle-elevatrice",
+    "terme": "la nacelle élévatrice",
+    "categorie": "Chantier et outillage",
+    "definition": "Engin muni d'un panier ou d'une plateforme élevé par un bras ou des ciseaux pour travailler en hauteur.",
+    "priorite": 2,
+    "requetes": [
+      "aerial work platform",
+      "nacelle élévatrice",
+      "boom lift cherry picker"
+    ],
+    "categoriesCommons": [
+      "Category:Aerial work platforms",
+      "Category:Cherry pickers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Equipement intervention de l'entreprise CRYO'géni.jpg",
+      "description": "Matériels d'intervention chez CRYO'géni",
+      "categories": [
+        "Coolers (containers)",
+        "Aerial work platforms",
+        "Dry ice blasting",
+        "Self-published work",
+        "Machines in France"
+      ],
+      "auteur": "Dawars333",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Equipement_intervention_de_l%27entreprise_CRYO%27g%C3%A9ni.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Equipement_intervention_de_l%27entreprise_CRYO%27g%C3%A9ni.jpg/1280px-Equipement_intervention_de_l%27entreprise_CRYO%27g%C3%A9ni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:InnoTrans 2024, Berlin (P1200542).jpg",
+      "description": "InnoTrans 2024 in Berlin",
+      "categories": [
+        "GFDL",
+        "Aerial work platforms",
+        "License migration redundant",
+        "Self-published work",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "ZAGRO Bahn- und Baumaschinen GmbH",
+        "InnoTrans 2024 (supported by WMDE)",
+        "Pictures by MB-one to review",
+        "Taken with Panasonic Lumix DMC-G5 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Road-rail vehicles at InnoTrans 2024"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:InnoTrans_2024,_Berlin_(P1200542).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/InnoTrans_2024%2C_Berlin_%28P1200542%29.jpg/1280px-InnoTrans_2024%2C_Berlin_%28P1200542%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:130411-Z-TK422-1269 (8641452654) (6).jpg",
+      "description": "Work crews from JIMCO Electrical Contracting of Lebanon, Ore., remove one of three transformers from a utility pole at Camp Withycombe in Clackamas, Ore., April 11. Crews also removed the old Camp Withycombe guard shack via flatbed truck. Oregon State Defense Force Brig Gen. James B. Thayer, former Oregon Governors Ted Kulongoski and Vic Atiyeh, Oregon Department of Veterans Affairs Director Cameron Smith, President of Emmert International Terry Emmert, Miss Oregon Nichole Meade, and John, Jim and Mike Thayer, were on hand for the event that featured a tour of the Oregon Military Museum constr",
+      "categories": [
+        "Taken with Nikon D800",
+        "Camp Withycombe",
+        "Pole-mounted transformers",
+        "Cherry pickers",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Maintenance of overhead power lines",
+        "Files from Oregon National Guard Flickr stream"
+      ],
+      "auteur": "oregonmildep from Salem, Oregon, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:130411-Z-TK422-1269_(8641452654)_(6).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/130411-Z-TK422-1269_%288641452654%29_%286%29.jpg/1280px-130411-Z-TK422-1269_%288641452654%29_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 3600
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Scatola comandi.JPG",
+      "description": "‍",
+      "categories": [
+        "Taken with Sony DSC-T3",
+        "Aerial work platforms",
+        "Human–machine interaction",
+        "Self-published work"
+      ],
+      "auteur": "Pasolini",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Scatola_comandi.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Scatola_comandi.JPG/1280px-Scatola_comandi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Construction of the HMS Queen Elizabeth. MOD 45157306.jpg",
+      "description": "Construction continues on the HMS Queen Elizabeth, at Rosyth Dockyard in Scotland. Workers are seen here painting the exterior of the carrier. HMS Queen Elizabeth is the largest aircraft carrier ever to be built for the Royal Navy, weighing a hefty 65,000 tonnes. She measures 283m from bow to stern and is 70m wide: her flight deck alone is just under four acres in length. She will have a crew of 680, with room for a further 900 personnel from embarked squadrons or Royal Marine Commando units. Merlin helicopters will operate in the Anti-Submarine Warfare (ASW) and Airborne Early Warning (AEW) r",
+      "categories": [
+        "Taken with Nikon D4",
+        "OGL v1.0",
+        "Cherry pickers",
+        "Images from MoD uploaded by Fæ",
+        "Content media by years - Supported by Wikimedia UK - 2014",
+        "Files uploaded with WMUK Apple Mac Mini",
+        "Images from Defence Imagery",
+        "Construction of HMS Queen Elizabeth (R08)"
+      ],
+      "auteur": "Andrew Linnett",
+      "licence": "OGL v1.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_of_the_HMS_Queen_Elizabeth._MOD_45157306.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Construction_of_the_HMS_Queen_Elizabeth._MOD_45157306.jpg/1280px-Construction_of_the_HMS_Queen_Elizabeth._MOD_45157306.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Motorpompa.JPG",
+      "description": "‍",
+      "categories": [
+        "Taken with Sony DSC-T3",
+        "Aerial work platforms",
+        "Self-published work"
+      ],
+      "auteur": "Pasolini",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Motorpompa.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Motorpompa.JPG/1280px-Motorpompa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    }
+  ]
+}

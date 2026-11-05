@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "portail-metallique",
+    "terme": "le portail métallique",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Grande porte extérieure en acier, pleine ou ajourée, qui ferme l'entrée d'une parcelle.",
+    "priorite": 1,
+    "requetes": [
+      "metal gate house",
+      "portail métallique",
+      "steel gate"
+    ],
+    "categoriesCommons": [
+      "Category:Metal gates",
+      "Category:Gates",
+      "Category:Iron gates"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A stylish metal gate of a house.jpg",
+      "description": "שער מתכת מסוגנן של בית",
+      "categories": [
+        "Self-published work",
+        "Metal gates"
+      ],
+      "auteur": "DoronDoron",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_stylish_metal_gate_of_a_house.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/A_stylish_metal_gate_of_a_house.jpg/1280px-A_stylish_metal_gate_of_a_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:... the gate (50496740987).jpg",
+      "description": "... the gate",
+      "categories": [
+        "Gates",
+        "Photographs by Dinesh Valke",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Dinesh Valke from Thane, India",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:..._the_gate_(50496740987).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/..._the_gate_%2850496740987%29.jpg/1280px-..._the_gate_%2850496740987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:And i want it painted blue (313754044).jpg",
+      "description": "and i want it painted blue",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Iron gates",
+        "Flickr images missing SDC creator",
+        "Blue doors",
+        "Photos by Darwin Bell"
+      ],
+      "auteur": "darwin Bell from San Francisco, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:And_i_want_it_painted_blue_(313754044).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/And_i_want_it_painted_blue_%28313754044%29.jpg/1280px-And_i_want_it_painted_blue_%28313754044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1091
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:1Borovany 01.jpg",
+      "description": "Borovany (České Budějovice District)",
+      "categories": [
+        "Mediagrant:Wikiexpedice Jih",
+        "Gates in České Budějovice District",
+        "Trocnovská (Borovany)",
+        "Self-published work",
+        "Metal gates",
+        "Metal fences",
+        "Mediagrant 2018",
+        "Association football venues in České Budějovice District"
+      ],
+      "auteur": "This image is a work by Wikipedia and Wikimedia Commons user KKDAII . When reusing, please credit me as: Kristýna Kysilková / Wikimedia Commons. I would appreciate being notified if you use my work ou",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1Borovany_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/1Borovany_01.jpg/1280px-1Borovany_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:71 Cannon - gate.jpg",
+      "description": "71 Cannon Street, Charleston, South Carolina - gate",
+      "categories": [
+        "Gates",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cannon Street, Charleston, South Carolina",
+        "Cannonborough-Elliotborough"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:71_Cannon_-_gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/71_Cannon_-_gate.jpg/1280px-71_Cannon_-_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1493,
+      "hauteur": 2670
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Běleč (Liteň), dvůr.jpg",
+      "description": "Yard in Běleč village (Liteň municipality, Beroun District, Czech Republic.",
+      "categories": [
+        "Czech Republic photographs taken on 2013-03-23",
+        "Taken with Canon PowerShot G10",
+        "Bělečský potok (Svinařský potok tributary)",
+        "Běleč (Liteň)",
+        "Mediagrant",
+        "Mediagrant:Foto českých obcí",
+        "Uploaded with VicuñaUploader",
+        "Files by Juandev",
+        "Iron gates",
+        "Files with coordinates missing SDC location of creation",
+        "Gates in Beroun District"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C4%9Ble%C4%8D_(Lite%C5%88),_dv%C5%AFr.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/B%C4%9Ble%C4%8D_%28Lite%C5%88%29%2C_dv%C5%AFr.jpg/1280px-B%C4%9Ble%C4%8D_%28Lite%C5%88%29%2C_dv%C5%AFr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3559,
+      "hauteur": 2586
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "pelouse",
+    "terme": "la pelouse",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Surface plantée de gazon court et entretenu.",
+    "priorite": 2,
+    "requetes": [
+      "lawn",
+      "pelouse",
+      "incategory:\"Lawns\""
+    ],
+    "categoriesCommons": [
+      "Category:Lawns",
+      "Category:Grass"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:... loosing prime (2898366019).jpg",
+      "description": "... loosing prime",
+      "categories": [
+        "Lawns",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Dinesh Valke",
+        "Unidentified Eriocaulon",
+        "Flowers of Kaas Plateau"
+      ],
+      "auteur": "Dinesh Valke from Thane, India",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:..._loosing_prime_(2898366019).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/..._loosing_prime_%282898366019%29.jpg/1280px-..._loosing_prime_%282898366019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Grasses in one lawn 16july.jpg",
+      "description": "Various types of grass picked 16 July 2019 in a wild lawn around a house in Rundvik on the northern coast of Ångermanland, Sweden. The infructescence of a redcurrant ( Ribes rubrum ) is included as a size reference.",
+      "categories": [
+        "Ribes rubrum",
+        "Lawns",
+        "Grass",
+        "Rundvik",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Jlandin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grasses_in_one_lawn_16july.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Grasses_in_one_lawn_16july.jpg/1280px-Grasses_in_one_lawn_16july.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6464,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Arrosage des pelouses.jpg",
+      "description": "Arrosage des pelouses dans le parc des Bastions, à Genève, en Suisse.",
+      "categories": [
+        "Lawns",
+        "Parc des Bastions",
+        "Self-published work"
+      ],
+      "auteur": "Deniev Dagun",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arrosage_des_pelouses.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Arrosage_des_pelouses.jpg/1280px-Arrosage_des_pelouses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Da Bin Da Bleib (67820011).jpeg",
+      "description": "500px provided description: Da Bin Da Bleib [#nature ,#germany ,#58]",
+      "categories": [
+        "Grass",
+        "Poles (objects)",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "58 Photos",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Da_Bin_Da_Bleib_(67820011).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Da_Bin_Da_Bleib_%2867820011%29.jpeg/1280px-Da_Bin_Da_Bleib_%2867820011%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1505
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Banga Plaza td (2019-12-17) 02.jpg",
+      "description": "The large lawn at the south end of the Banga Municipal Park, commonly called \"The Plaza\", between Quezon Avenue and Roxas Street in Banga, South Cotabato, Philippines.",
+      "categories": [
+        "Lawns",
+        "Taken with Sony DSC-RX100",
+        "Self-published work",
+        "Grass in the Philippines",
+        "Files with coordinates missing SDC location of creation",
+        "December 2019 in the Philippines",
+        "Philippines photographs taken on 2019-12-17",
+        "2019 Philippines photographs by Tdorante10",
+        "Banga Municipal Park"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banga_Plaza_td_(2019-12-17)_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Banga_Plaza_td_%282019-12-17%29_02.jpg/1280px-Banga_Plaza_td_%282019-12-17%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Depth of Field (8693568483).jpg",
+      "description": "Photographed in Showa Kinen Park, Tachikawa, Tokyo, Japan. 立川の昭和記念公園にて。 [ Nikon D4, Nikon Ai AF Micro-Nikkor 200mm f/4D IF-ED, f/4.2, 1/125sec, ISO100 ]",
+      "categories": [
+        "Taken with Nikon D4",
+        "Grass",
+        "Showa Commemorative National Government Park",
+        "Flickr images reviewed by FlickreviewR",
+        "Unidentified Taraxacum",
+        "Files uploaded by The Photographer from Flickr",
+        "Files uploaded by The Photographer needing category checks",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Takashi Hososhima from Tokyo, Japan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Depth_of_Field_(8693568483).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Depth_of_Field_%288693568483%29.jpg/1280px-Depth_of_Field_%288693568483%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3280
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "voile",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Essai d'écrasement de blocs de béton sous presse, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un voile."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chantier d'un mur en béton coulé contre banches, ouvriers au pied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de soutènement de fouille, petit et peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plan d'arc en béton armé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Immeuble de bureaux en noir et blanc, façade avec panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne photo, élément non identifiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison-bulle en béton couverte de lichen.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coque, pas un voile."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Carrefour de New York.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

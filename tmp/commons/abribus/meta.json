@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "abribus",
+    "terme": "l'abribus",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Abri couvert, souvent vitré et muni d'un banc, installé à un arrêt de bus.",
+    "priorite": 2,
+    "requetes": [
+      "bus shelter",
+      "abribus",
+      "incategory:\"Bus shelters\""
+    ],
+    "categoriesCommons": [
+      "Category:Bus shelters",
+      "Category:Bus stops"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Italy July 2023 13 58 53 916000.jpeg",
+      "description": "Italy",
+      "categories": [
+        "Bus shelters",
+        "Camerino",
+        "Self-published work",
+        "Bus stops in Italy",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Robot8A",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Italy_July_2023_13_58_53_916000.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Italy_July_2023_13_58_53_916000.jpeg/1280px-Italy_July_2023_13_58_53_916000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bus bay Shilparamam.jpg",
+      "description": "Bus bay Shilparamam",
+      "categories": [
+        "CC-Zero",
+        "Bus stops",
+        "Shilparamam",
+        "Bus bays",
+        "Self-published work",
+        "Bus stops in Telangana",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "India photographs taken on 2025-11-08"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bus_bay_Shilparamam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Bus_bay_Shilparamam.jpg/1280px-Bus_bay_Shilparamam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:VNU-HCM university of social sciences and humanities 3.jpg",
+      "description": "VNU-HCM university of social sciences and humanities",
+      "categories": [
+        "CC-Zero",
+        "Bus shelters",
+        "Ho Chi Minh City University of Social Sciences and Humanities",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Bus stops photographed in 2023",
+        "Vietnam photographs taken on 2023-07-05",
+        "Saigon, Ho Chi Minh City"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:VNU-HCM_university_of_social_sciences_and_humanities_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/VNU-HCM_university_of_social_sciences_and_humanities_3.jpg/1280px-VNU-HCM_university_of_social_sciences_and_humanities_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bus stop Vrbani.jpg",
+      "description": "Bus stop at Vrbani in Zagreb, with roof and metal bench. Acrylic sheets on 3 sides protect from wind and weather, and also double as a backrest for the bench",
+      "categories": [
+        "Benches",
+        "Bus stops",
+        "Vrbani",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2026-01-06"
+      ],
+      "auteur": "Mnalis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bus_stop_Vrbani.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bus_stop_Vrbani.jpg/1280px-Bus_stop_Vrbani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Italy July 2023 13 59 00 452000 (cropped).jpeg",
+      "description": "Italy",
+      "categories": [
+        "Bus shelters",
+        "Camerino",
+        "Self-published work",
+        "Extracted images",
+        "Bus stops in Italy",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Robot8A",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Italy_July_2023_13_59_00_452000_(cropped).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Italy_July_2023_13_59_00_452000_%28cropped%29.jpeg/1280px-Italy_July_2023_13_59_00_452000_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2752,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chung Chi Teaching Blocks bus stop 05-05-2015(3).jpg",
+      "description": "​這張照片在中文大學拍攝。",
+      "categories": [
+        "Bus stops",
+        "Self-published work"
+      ],
+      "auteur": "LN9267",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chung_Chi_Teaching_Blocks_bus_stop_05-05-2015(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Chung_Chi_Teaching_Blocks_bus_stop_05-05-2015%283%29.jpg/1280px-Chung_Chi_Teaching_Blocks_bus_stop_05-05-2015%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    }
+  ]
+}

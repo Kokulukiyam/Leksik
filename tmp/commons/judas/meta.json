@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "judas",
+    "terme": "le judas",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Petite lentille optique traversant une porte d'entrée pour voir à l'extérieur sans ouvrir.",
+    "priorite": 2,
+    "requetes": [
+      "door peephole",
+      "judas porte",
+      "peephole"
+    ],
+    "incompatibles": [
+      "porte-d-entree"
+    ],
+    "categoriesCommons": [
+      "Category:Peepholes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Camera view from pipe hole (04).jpg",
+      "description": "Camera view from pipe hole",
+      "categories": [
+        "Peepholes",
+        "Self-published work",
+        "Information field template with formatting"
+      ],
+      "auteur": "Moheen Reeyad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Camera_view_from_pipe_hole_(04).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Camera_view_from_pipe_hole_%2804%29.jpg/1280px-Camera_view_from_pipe_hole_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4600,
+      "hauteur": 3059
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cimetière de Saint-Symphorien-de-Lay - Chapelle, judas croix pattée (juin 2023).jpg",
+      "description": "Judas grillagé, en forme de croix pattée, sur la porte de la chapelle du cimetière de Saint-Symphorien-de-Lay (Loire, France).",
+      "categories": [
+        "Cross pattée",
+        "Peepholes",
+        "Cemetery of Saint-Symphorien-de-Lay",
+        "Self-published work",
+        "Files by User:Sebleouf",
+        "Files with coordinates missing SDC location of creation",
+        "Images of Saint-Symphorien-de-Lay by Sebleouf"
+      ],
+      "auteur": "Sebleouf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cimeti%C3%A8re_de_Saint-Symphorien-de-Lay_-_Chapelle,_judas_croix_patt%C3%A9e_(juin_2023).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Cimeti%C3%A8re_de_Saint-Symphorien-de-Lay_-_Chapelle%2C_judas_croix_patt%C3%A9e_%28juin_2023%29.jpg/1280px-Cimeti%C3%A8re_de_Saint-Symphorien-de-Lay_-_Chapelle%2C_judas_croix_patt%C3%A9e_%28juin_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cell 102 at Stasi Prison.jpg",
+      "description": "Door of cell 102 at the Berlin-Hohenschönhausen Memorial, the site of the main political prison of the former East German Communist Ministry of State Security, the Stasi.",
+      "categories": [
+        "102 (number)",
+        "Peepholes",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Closed doors in Berlin",
+        "Prison doors",
+        "Gedenkstätte Berlin-Hohenschönhausen - prison doors"
+      ],
+      "auteur": "Sue Gardner",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cell_102_at_Stasi_Prison.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Cell_102_at_Stasi_Prison.jpg/1280px-Cell_102_at_Stasi_Prison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Camera view from pipe hole (07).jpg",
+      "description": "Camera view from pipe hole",
+      "categories": [
+        "Peepholes",
+        "Self-published work",
+        "Information field template with formatting"
+      ],
+      "auteur": "Moheen Reeyad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Camera_view_from_pipe_hole_(07).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Camera_view_from_pipe_hole_%2807%29.jpg/1280px-Camera_view_from_pipe_hole_%2807%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4600,
+      "hauteur": 3059
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:404 hotel room not found - 2025-01-30 - Andy Mabbett.jpg",
+      "description": "Sign on room number 404, at the Premier Inn Leeds City Centre (Leeds Arena) hotel.",
+      "categories": [
+        "Premier Inn",
+        "Peepholes",
+        "Taken with OnePlus Nord",
+        "Self-published work",
+        "Images by Andy Mabbett",
+        "Taken on missing SDC inception",
+        "Uploaded with Mobile/Android",
+        "Items numbered 404",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)",
+        "United Kingdom photographs taken on 2026-01-30",
+        "Hotel room numbers"
+      ],
+      "auteur": "Andy Mabbett",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:404_hotel_room_not_found_-_2025-01-30_-_Andy_Mabbett.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/404_hotel_room_not_found_-_2025-01-30_-_Andy_Mabbett.jpg/1280px-404_hotel_room_not_found_-_2025-01-30_-_Andy_Mabbett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cellule du quartier d'isolement de la prison Jacques-Cartier, à travers le judas, Rennes, France.jpg",
+      "description": "Cellule du quartier d'isolement de la prison Jacques-Cartier de Rennes (France), à travers le judas.",
+      "categories": [
+        "Taken with Canon EOS 60D",
+        "Solitary confinement",
+        "Interior of Jacques-Cartier Prison",
+        "Peepholes",
+        "Taken with Canon TS-E 17 mm F4L",
+        "Media supported by Wikimedia France",
+        "Images supported by Wikimedia France - Fañch",
+        "Files with coordinates missing SDC location of creation",
+        "Prison cells in France",
+        "Files by EdouardHue",
+        "Bretagne photographs taken on 2013-04-04"
+      ],
+      "auteur": "Édouard Hue ( User:EdouardHue )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cellule_du_quartier_d%27isolement_de_la_prison_Jacques-Cartier,_%C3%A0_travers_le_judas,_Rennes,_France.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Cellule_du_quartier_d%27isolement_de_la_prison_Jacques-Cartier%2C_%C3%A0_travers_le_judas%2C_Rennes%2C_France.jpg/1280px-Cellule_du_quartier_d%27isolement_de_la_prison_Jacques-Cartier%2C_%C3%A0_travers_le_judas%2C_Rennes%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2504,
+      "hauteur": 1669
+    }
+  ]
+}

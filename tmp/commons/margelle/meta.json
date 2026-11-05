@@ -1,0 +1,118 @@
+{
+  "terme": {
+    "id": "margelle",
+    "terme": "la margelle",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Rebord en pierre, béton ou carrelage qui couronne le bord du bassin d'une piscine.",
+    "priorite": 2,
+    "requetes": [
+      "pool coping",
+      "margelle piscine",
+      "swimming pool coping stone"
+    ],
+    "incompatibles": [
+      "piscine"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:An inflatable swimming pool invites relaxation in a backyard setting, with a blue hose artistically draped over the edge.jpg",
+      "description": "An inflatable swimming pool invites relaxation in a backyard setting, with a blue hose artistically draped over the edge. The sun shines brightly, creating a cheerful atmosphere.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_inflatable_swimming_pool_invites_relaxation_in_a_backyard_setting,_with_a_blue_hose_artistically_draped_over_the_edge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/An_inflatable_swimming_pool_invites_relaxation_in_a_backyard_setting%2C_with_a_blue_hose_artistically_draped_over_the_edge.jpg/1280px-An_inflatable_swimming_pool_invites_relaxation_in_a_backyard_setting%2C_with_a_blue_hose_artistically_draped_over_the_edge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A paint can and brush rest on the concrete.jpg",
+      "description": "A paint can and brush rest on the concrete near an empty swimming pool under a clear blue sky. It looks like preparations are underway for pool maintenance or renovation.",
+      "categories": [
+        "Swimming pools",
+        "Paint cans",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_paint_can_and_brush_rest_on_the_concrete.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/A_paint_can_and_brush_rest_on_the_concrete.jpg/1280px-A_paint_can_and_brush_rest_on_the_concrete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A vibrant blue swimming pool features white metal ladders against a clear sky.jpg",
+      "description": "A vibrant blue swimming pool features white metal ladders against a clear sky. The pool appears empty, suggesting it may be prepped for summer fun and relaxation soon.",
+      "categories": [
+        "Ladders",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg/1280px-A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:5e nage.jpg",
+      "description": "Illustration d’une course de 5e nage",
+      "categories": [
+        "Swimming pools",
+        "Swimming lane lines",
+        "Self-published work",
+        "People in swimming pools"
+      ],
+      "auteur": "LUCPOPOV",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5e_nage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/5e_nage.jpg/1280px-5e_nage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3437,
+      "hauteur": 1684
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A person is in the water. Back view.jpg",
+      "description": "A person is in the water, facing away from the camera. Another person is swimming nearby. The scene shows a quiet indoor pool area with lights reflecting on the water.",
+      "categories": [
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_person_is_in_the_water._Back_view.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/A_person_is_in_the_water._Back_view.jpg/1280px-A_person_is_in_the_water._Back_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5085,
+      "hauteur": 3390
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A cheerful child is splashing in a pool while sitting on a bright pink flamingo float.jpg",
+      "description": "A cheerful child is splashing in a pool while sitting on a bright pink flamingo float. Laughter fills the air as the sparkling blue water dances around. It is a joyful summer moment.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_cheerful_child_is_splashing_in_a_pool_while_sitting_on_a_bright_pink_flamingo_float.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_cheerful_child_is_splashing_in_a_pool_while_sitting_on_a_bright_pink_flamingo_float.jpg/1280px-A_cheerful_child_is_splashing_in_a_pool_while_sitting_on_a_bright_pink_flamingo_float.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5265,
+      "hauteur": 3515
+    }
+  ]
+}

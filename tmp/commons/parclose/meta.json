@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "parclose",
+    "terme": "la parclose",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Baguette fixée sur le cadre qui maintient le vitrage en place.",
+    "priorite": 2,
+    "requetes": [
+      "glazing bead window",
+      "parclose",
+      "glazing bead"
+    ],
+    "categoriesCommons": [
+      "Category:Windows",
+      "Category:Window frames"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A small, inviting corner features a wooden table with two chairs beside a large window.jpg",
+      "description": "A small, inviting corner features a wooden table with two chairs beside a large window",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Wooden tables"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_small,_inviting_corner_features_a_wooden_table_with_two_chairs_beside_a_large_window.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/A_small%2C_inviting_corner_features_a_wooden_table_with_two_chairs_beside_a_large_window.jpg/1280px-A_small%2C_inviting_corner_features_a_wooden_table_with_two_chairs_beside_a_large_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 6240
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fensteröffnung einer Dreifachwand Ecke, 2.jpg",
+      "description": "Fenster in Doppelwandplatte/ Dreifachwand",
+      "categories": [
+        "Window frames",
+        "Self-published work",
+        "Precast sandwich wall elements"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fenster%C3%B6ffnung_einer_Dreifachwand_Ecke,_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Fenster%C3%B6ffnung_einer_Dreifachwand_Ecke%2C_2.jpg/1280px-Fenster%C3%B6ffnung_einer_Dreifachwand_Ecke%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:8646741175 Jpg (175373039).jpeg",
+      "description": "500px provided description: 8646741175 Jpg []",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Chad Ajamian",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:8646741175_Jpg_(175373039).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/8646741175_Jpg_%28175373039%29.jpeg/1280px-8646741175_Jpg_%28175373039%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 811
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Schaap Schooltuin 6.jpg",
+      "description": "Houten vogels in in het raamkozen van het oude leslokaal van de Schaap Schooltuin aan de Heggerankweg in Amsterdam Noord.",
+      "categories": [
+        "Window frames",
+        "Floradorp",
+        "Self-published work",
+        "Sculptures of birds in the Netherlands",
+        "School gardens in the Netherlands",
+        "Files with coordinates missing SDC location of creation (52° N, 4° E)"
+      ],
+      "auteur": "Frank Markesteijn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schaap_Schooltuin_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Schaap_Schooltuin_6.jpg/1280px-Schaap_Schooltuin_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5874,
+      "hauteur": 3574
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:- panoramio - jonathan exon (2).jpg",
+      "description": "",
+      "categories": [
+        "Windows",
+        "Media lacking a description",
+        "Lighting with sodium-vapor lamps",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2008-11-24",
+        "Images from Panoramio with bad file names",
+        "Street lights in unidentified locations"
+      ],
+      "auteur": "jonathan exon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_-_jonathan_exon_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/-_panoramio_-_jonathan_exon_%282%29.jpg/1280px--_panoramio_-_jonathan_exon_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4304,
+      "hauteur": 2852
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Odolena Voda, sídliště (058).jpg",
+      "description": "Sídliště v Odoleně Vodě.",
+      "categories": [
+        "Window frames",
+        "Uploaded with VicuñaUploader",
+        "Files by Juandev",
+        "Files with coordinates missing SDC location of creation",
+        "Ošklivá architektura",
+        "Housing estate in Odolena Voda"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Odolena_Voda,_s%C3%ADdli%C5%A1t%C4%9B_(058).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Odolena_Voda%2C_s%C3%ADdli%C5%A1t%C4%9B_%28058%29.jpg/1280px-Odolena_Voda%2C_s%C3%ADdli%C5%A1t%C4%9B_%28058%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6960,
+      "hauteur": 4640
+    }
+  ]
+}

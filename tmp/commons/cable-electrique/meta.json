@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "cable-electrique",
+    "terme": "le câble électrique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ensemble de fils conducteurs isolés réunis sous une gaine, posé pour distribuer l'électricité.",
+    "priorite": 1,
+    "requetes": [
+      "electrical cable",
+      "câble électrique",
+      "electric wires"
+    ],
+    "categoriesCommons": [
+      "Category:Cables"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Aera memporta kablo.jpg",
+      "description": "Aera_memporta_kablo",
+      "categories": [
+        "Cables",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Original téléversé par Crosstor sur Wikipédia espéranto .",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aera_memporta_kablo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Aera_memporta_kablo.jpg/1280px-Aera_memporta_kablo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:247 Home Rescue wiring electrical emergency.jpg",
+      "description": "Wiring underneath an office desk",
+      "categories": [
+        "Electrical devices",
+        "CC-Zero",
+        "Cables",
+        "Extension cords",
+        "Self-published work"
+      ],
+      "auteur": "247homerescue",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:247_Home_Rescue_wiring_electrical_emergency.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/247_Home_Rescue_wiring_electrical_emergency.jpg/1280px-247_Home_Rescue_wiring_electrical_emergency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 1746
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Asus 6-Pin ARGB Gen2 Header Cable.jpg",
+      "description": "6-pin Addressable Gen2 ARGB header cable included with Asus Z690 Maximus Extreme motherboard. It splits into two 3-pin addressable gen2 male header plugs. It is apparently a proprietary cable.",
+      "categories": [
+        "CC-Zero",
+        "Cables",
+        "Self-published work"
+      ],
+      "auteur": "ThioJoe",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Asus_6-Pin_ARGB_Gen2_Header_Cable.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Asus_6-Pin_ARGB_Gen2_Header_Cable.jpg/1280px-Asus_6-Pin_ARGB_Gen2_Header_Cable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bahnhof, MÁV Kabel, 2024 Mohács.jpg",
+      "description": "Mohács railway station. History: The station was established by the Pécs-Mohács railway, the Danube Steam Shipping Company in 1857. The opening took place on May 2, 1857, but at that time the railway was opened only for coal transport. The railway line to Pécs was implemented with the aim that the coal extracted from Mecsek is transported by rail until now, and here at Mohács it is transhipped to a ship at the port. That is why the station was built directly on the bank of the Danube. The line was opened in July 1857 for other freight, but not until 24 April 1859. - Indóház Street, Budapesti S",
+      "categories": [
+        "Cables",
+        "Self-published work",
+        "Electricity in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "July 2024 Hungary photographs",
+        "Mohács railway station",
+        "Concrete covers",
+        "2024 in Mohács"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bahnhof,_M%C3%81V_Kabel,_2024_Moh%C3%A1cs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bahnhof%2C_M%C3%81V_Kabel%2C_2024_Moh%C3%A1cs.jpg/1280px-Bahnhof%2C_M%C3%81V_Kabel%2C_2024_Moh%C3%A1cs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:(Flashback) Colors (3557570630).jpg",
+      "description": "Green light, Blue zone and Red bricks. Lower Manhattan - NYC - Taken in Dec 2005",
+      "categories": [
+        "Lower Manhattan",
+        "Potter Building (Manhattan)",
+        "41 Park Row New York Times Building",
+        "Cables",
+        "Images with annotations",
+        "Traffic signals in Manhattan, New York City",
+        "Flickr images reviewed by FlickreviewR 2",
+        "United States photographs taken on 2005-12-15",
+        "Red brick buildings in the United States",
+        "December 2005 in Manhattan, New York City",
+        "Road signs in Manhattan, New York City",
+        "No parking signs in New York City",
+        "Files uploaded from Flickr by DarwIn to be reviewed"
+      ],
+      "auteur": "Diego Torres Silvestre from Sao Paulo, Brazil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(Flashback)_Colors_(3557570630).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%28Flashback%29_Colors_%283557570630%29.jpg/1280px-%28Flashback%29_Colors_%283557570630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1680,
+      "hauteur": 1260
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2019 Ansamblu urban Calimanesti 03.jpg",
+      "description": ".mw-parser-output .monument-istoric{width:400px;max-width:100%;margin:1px;padding:2px;background-color:#800000;color:#fff;text-align:initial;font-size:0.75em;line-height:1.1em}.mw-parser-output .monument-istoric td:first-child{width:26px;height:26px}.mw-parser-output .monument-istoric a{color:yellow}.mw-parser-output .monument-istoric-code a{color:inherit} Ceci est une photo d’un historic monument en județul Vâlcea , portant le numéro VL-II-a-B-09700 .",
+      "categories": [
+        "Cables",
+        "Self-published work",
+        "Cultural heritage monuments in Romania with known IDs",
+        "Uploaded via Campaign:wlm-ro",
+        "Romania photographs taken on 2019-08-21",
+        "Images from Wiki Loves Monuments 2020",
+        "Images from Wiki Loves Monuments 2020 in Romania",
+        "Buildings in Călimănești",
+        "Historical monuments in Călimănești"
+      ],
+      "auteur": "Leontin l",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2019_Ansamblu_urban_Calimanesti_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2019_Ansamblu_urban_Calimanesti_03.jpg/1280px-2019_Ansamblu_urban_Calimanesti_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2268
+    }
+  ]
+}

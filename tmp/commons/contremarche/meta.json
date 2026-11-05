@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "contremarche",
+    "terme": "la contremarche",
+    "categorie": "Escaliers et circulations",
+    "definition": "Face verticale qui ferme l'espace entre deux marches successives.",
+    "priorite": 1,
+    "requetes": [
+      "stair riser",
+      "contremarche escalier",
+      "risers stairs"
+    ],
+    "incompatibles": [
+      "marche"
+    ],
+    "categoriesCommons": [
+      "Category:Stairs",
+      "Category:Steps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:9-11 Memorial Stair Climb (6368352).jpg",
+      "description": "U.S. Air Force Airmen from the 435th Construction and Training Squadron climb stairs during a 9/11 memorial event at Ramstein Air Base, Germany, Sept. 11, 2020. The annual event honors the 343 firefighters that lost their lives during 9/11. (U.S. Air Force photo by Staff Sgt. Jourdan Barrons)",
+      "categories": [
+        "Germany photographs taken on 2020-09-11",
+        "Stairs",
+        "PD US Air Force",
+        "Files created by the United States Air Force with known IDs",
+        "Patriot Day 2020",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Military firefighters of the United States"
+      ],
+      "auteur": "U.S. Air Force photo by Staff Sgt. Jourdan Barrons",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:9-11_Memorial_Stair_Climb_(6368352).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/9-11_Memorial_Stair_Climb_%286368352%29.jpg/1280px-9-11_Memorial_Stair_Climb_%286368352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5343,
+      "hauteur": 3562
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Barcelona - Montjuïc - Avinguda dels Montanyans - View NNE towards Sagrada Família.jpg",
+      "description": "Barcelona - Montjuïc - Avinguda dels Montanyans - View NNE towards Sagrada Família",
+      "categories": [
+        "Montjuïc",
+        "Barcelona in the 2010s",
+        "Steps",
+        "Self-published work",
+        "Spring in Catalonia",
+        "Trees in Catalonia",
+        "May 2011 Spain photographs",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Txllxt TxllxT",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Montju%C3%AFc_-_Avinguda_dels_Montanyans_-_View_NNE_towards_Sagrada_Fam%C3%ADlia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Barcelona_-_Montju%C3%AFc_-_Avinguda_dels_Montanyans_-_View_NNE_towards_Sagrada_Fam%C3%ADlia.jpg/1280px-Barcelona_-_Montju%C3%AFc_-_Avinguda_dels_Montanyans_-_View_NNE_towards_Sagrada_Fam%C3%ADlia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6064,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:0663 joanna szostak 2o13.JPG",
+      "description": "joanna szostak 2013",
+      "categories": [
+        "Taken with Nikon D5100",
+        "Stairs",
+        "Self-published work",
+        "June 2013 in Sanok",
+        "Joanna Szostak"
+      ],
+      "auteur": "Silar",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0663_joanna_szostak_2o13.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/0663_joanna_szostak_2o13.JPG/1280px-0663_joanna_szostak_2o13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4388,
+      "hauteur": 2987
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Boô-Silhen église Boô marches.JPG",
+      "description": "Les marches menant au portail, église Saint-Barthélémy de Boô, Boô-Silhen, Hautes-Pyrénées, France.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "Église Saint-Barthélémy de Boô",
+        "Steps",
+        "Self-published work",
+        "Grave crosses in Hautes-Pyrénées",
+        "Outside stairs in Hautes-Pyrénées"
+      ],
+      "auteur": "Père Igor",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bo%C3%B4-Silhen_%C3%A9glise_Bo%C3%B4_marches.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bo%C3%B4-Silhen_%C3%A9glise_Bo%C3%B4_marches.JPG/1280px-Bo%C3%B4-Silhen_%C3%A9glise_Bo%C3%B4_marches.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:500px photo (39215046).jpeg",
+      "description": "500px provided description: Untitled [#escaleras]",
+      "categories": [
+        "Stairs",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Rosa Elena Méndez Meza",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(39215046).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/500px_photo_%2839215046%29.jpeg/1280px-500px_photo_%2839215046%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1360
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A Few Steps (137047421).jpeg",
+      "description": "500px provided description: A Few Steps [#city ,#architecture ,#building ,#stairs ,#steps]",
+      "categories": [
+        "Steps",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "J Carlos",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Few_Steps_(137047421).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Few_Steps_%28137047421%29.jpeg/1280px-A_Few_Steps_%28137047421%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1362,
+      "hauteur": 2048
+    }
+  ]
+}

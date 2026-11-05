@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "cremone",
+    "terme": "la crémone",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Ferrure de fermeture de fenêtre dont la poignée fait coulisser deux tringles qui s'engagent en haut et en bas du dormant.",
+    "priorite": 2,
+    "requetes": [
+      "crémone fenêtre",
+      "cremone bolt",
+      "window cremone bolt handle"
+    ],
+    "incompatibles": [
+      "poignee-de-fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Espagnolettes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Espagnolette (Diderot, Encyclopedie, Tafelbd.IX, 1771, Tf. XXXVI).jpg",
+      "description": "Espagnolette (Diderot, Encyclopedie, Tafelbd.IX, 1771, Tf. XXXVI)",
+      "categories": [
+        "Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers",
+        "Author died more than 70 years ago public domain images",
+        "1771 illustrations",
+        "Espagnolettes",
+        "CC-PD-Mark"
+      ],
+      "auteur": "Diderot, D'Alembert und Jaucourt (Lexikonherausgeber, 1751-1772).",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Espagnolette_(Diderot,_Encyclopedie,_Tafelbd.IX,_1771,_Tf._XXXVI).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Espagnolette_%28Diderot%2C_Encyclopedie%2C_Tafelbd.IX%2C_1771%2C_Tf._XXXVI%29.jpg/1280px-Espagnolette_%28Diderot%2C_Encyclopedie%2C_Tafelbd.IX%2C_1771%2C_Tf._XXXVI%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4578,
+      "hauteur": 6461
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Paris, mairie du 10e arrdt, salle des fêtes, poignée de fenêtre 01.jpg",
+      "description": "poignée de fenêtre de la salle des fêtes de la mairie du 10e arrondissement de Paris.",
+      "categories": [
+        "Taken with Canon EOS 600D",
+        "Fluctuat nec mergitur",
+        "Taken with Canon EF 28mm F1.8",
+        "Self-published work",
+        "Files by User:Coyau",
+        "Information field template with formatting",
+        "Reception hall of Town hall of Paris 10e arrondissement",
+        "Crémones",
+        "Coats of arms of Paris in decorative arts",
+        "Reliefs of coats of arms of Paris in Paris",
+        "Window handles in Paris"
+      ],
+      "auteur": "Coyau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paris,_mairie_du_10e_arrdt,_salle_des_f%C3%AAtes,_poign%C3%A9e_de_fen%C3%AAtre_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Paris%2C_mairie_du_10e_arrdt%2C_salle_des_f%C3%AAtes%2C_poign%C3%A9e_de_fen%C3%AAtre_01.jpg/1280px-Paris%2C_mairie_du_10e_arrdt%2C_salle_des_f%C3%AAtes%2C_poign%C3%A9e_de_fen%C3%AAtre_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3059,
+      "hauteur": 4588
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Espagnolette (Diderot, Encyclopedie, Tafelbd.IX, 1771, Tf. XXXIV).jpg",
+      "description": "Espagnolette (Diderot, Encyclopedie, Tafelbd.IX, 1771, Tf. XXXIV)",
+      "categories": [
+        "Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers",
+        "Author died more than 70 years ago public domain images",
+        "1771 illustrations",
+        "Espagnolettes",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Diderot, D'Alembert und Jaucourt (Lexikonherausgeber, 1751-1772).",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Espagnolette_(Diderot,_Encyclopedie,_Tafelbd.IX,_1771,_Tf._XXXIV).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Espagnolette_%28Diderot%2C_Encyclopedie%2C_Tafelbd.IX%2C_1771%2C_Tf._XXXIV%29.jpg/1280px-Espagnolette_%28Diderot%2C_Encyclopedie%2C_Tafelbd.IX%2C_1771%2C_Tf._XXXIV%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4578,
+      "hauteur": 6425
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Espagnolette in a office in Paris 5e03e4dd6d835f205346bc123f1022b4.jpg",
+      "description": "The original finding aid described this item as: Caption: Interior Property Number: X 4004",
+      "categories": [
+        "PD US",
+        "Media contributed by the National Archives and Records Administration",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Espagnolettes",
+        "Media contributed by National Archives at College Park - Still Pictures",
+        "US National Archives series: Photographs Related to Embassies, Consulates, and Other Overseas Buildings, ca. 1945 - ca. 2006"
+      ],
+      "auteur": "Department of State. Office of the Undersecretary for Management. Bureau of Overseas Buildings Operations. (2001)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Espagnolette_in_a_office_in_Paris_5e03e4dd6d835f205346bc123f1022b4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Espagnolette_in_a_office_in_Paris_5e03e4dd6d835f205346bc123f1022b4.jpg/1280px-Espagnolette_in_a_office_in_Paris_5e03e4dd6d835f205346bc123f1022b4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1597
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bury - Modèles de serrurerie - planche 51.jpg",
+      "description": "L’espagnolette placée au milieu de cette planche, et entourée de ses détails gravés sur une grande échelle, est tirée de la galerie d’Apollon au Louvre, et paraît avoir été exécutée sous Louis XIV, Elle est d’une richesse, d’un style d’ornement, d’un précieux de travail dont les exemples sont rares. Aucune de ses parties n’a été négligée, et jusqu’aux fiches de la croisée, aux agrafes des volets, tout porte un caractère de grandeur et de noblesse qui fait honneur à l’artiste qui en a donné le dessin, à l’homme habile qui l’a rendu avec autant de perfection. La poignée du verroux de la grande p",
+      "categories": [
+        "Espagnolettes",
+        "PD-scan (PD-US-expired)",
+        "Large images",
+        "PD US expired",
+        "PD-US missing SDC copyright status",
+        "Bury - Modèles de serrurerie"
+      ],
+      "auteur": "exemples gravés géométriquement par MM. Normand, Hibon, Thierry, Olivier, etc.,",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bury_-_Mod%C3%A8les_de_serrurerie_-_planche_51.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Bury_-_Mod%C3%A8les_de_serrurerie_-_planche_51.jpg/1280px-Bury_-_Mod%C3%A8les_de_serrurerie_-_planche_51.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6666,
+      "hauteur": 10142
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bury - Modèles de serrurerie - planche 50.jpg",
+      "description": "L’espagnolette de l’une des croisées du Louvre, dont cette planche donne la masse et tous les détails dessinés sur une grande échelle, n’a pas besoin d’être décrite minutieusement pour être bien sentie. Il nous suffira de dire que ses ornemens sont de bon choix, bien rendus, et que l’embasse mérite principalement de fixer l’attention. La fiche gravée à côté, appartient à la même croisée. Les deux boutons qui sont au-dessous, et dont l’un est orné d’une tête de Minerve, sont également tirés du Louvre. Tous ces ouvrages sont modernes.",
+      "categories": [
+        "Espagnolettes",
+        "PD-scan (PD-US-expired)",
+        "Large images",
+        "PD US expired",
+        "PD-US missing SDC copyright status",
+        "Bury - Modèles de serrurerie"
+      ],
+      "auteur": "exemples gravés géométriquement par MM. Normand, Hibon, Thierry, Olivier, etc.,",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bury_-_Mod%C3%A8les_de_serrurerie_-_planche_50.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Bury_-_Mod%C3%A8les_de_serrurerie_-_planche_50.jpg/1280px-Bury_-_Mod%C3%A8les_de_serrurerie_-_planche_50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6896,
+      "hauteur": 10482
+    }
+  ]
+}

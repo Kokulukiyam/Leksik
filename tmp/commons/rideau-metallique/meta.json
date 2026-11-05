@@ -1,0 +1,159 @@
+{
+  "terme": {
+    "id": "rideau-metallique",
+    "terme": "le rideau métallique",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fermeture de devanture faite de lames d'acier qui s'enroulent dans un coffre au-dessus de l'ouverture.",
+    "priorite": 1,
+    "requetes": [
+      "roller shutter shop closed",
+      "rideau métallique magasin",
+      "shop shutter"
+    ],
+    "incompatibles": [
+      "volet-roulant"
+    ],
+    "categoriesCommons": [
+      "Category:Roller shutters",
+      "Category:Shutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cornerhouse. Window with a head relief. - 74, Váci Street, Budapest District V, Hungary (Szerb St. cnr).JPG",
+      "description": "Sarokház részlet, pilaszteres ablak épületdíszekkel. Háromemeletes sarokház a sarokrészen kétemeletes zárt erkéllyel és kávézóval. A Váci utca felőli homlokzaton Gubitz András emléktábla az egykori Gubitz mezőgazdasági gépgyár emlékére. Az 5/2020. (I.30.) számú önkormányzati rendelet alapján kerületi egyedi védett érték. Azonosító nem ismert. - Magyarország , Budapest V. kerület , Belváros , Váci utca 74 (Szerb utca 1.) helyrajzi szám: 23949",
+      "categories": [
+        "Roller shutters",
+        "Self-published work",
+        "July 2015 in Budapest",
+        "Pediments in Budapest",
+        "Pilasters in Budapest",
+        "Váci utca 74",
+        "Window shutters in Budapest"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cornerhouse._Window_with_a_head_relief._-_74,_V%C3%A1ci_Street,_Budapest_District_V,_Hungary_(Szerb_St._cnr).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Cornerhouse._Window_with_a_head_relief._-_74%2C_V%C3%A1ci_Street%2C_Budapest_District_V%2C_Hungary_%28Szerb_St._cnr%29.JPG/1280px-Cornerhouse._Window_with_a_head_relief._-_74%2C_V%C3%A1ci_Street%2C_Budapest_District_V%2C_Hungary_%28Szerb_St._cnr%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Singapore building with coloured shutters-3 (5918151070).jpg",
+      "description": "Singapore building with coloured shutters",
+      "categories": [
+        "Shutters",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Media needing category review as of 2 October 2018",
+        "Photographs by Sheba Also",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Sheba_Also 43,000 photos",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Singapore_building_with_coloured_shutters-3_(5918151070).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Singapore_building_with_coloured_shutters-3_%285918151070%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 1880
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Mount Wellington Fire Station, Panmure.jpg",
+      "description": "The fire station in Mount Wellington / Panmure , suburbs of Auckland City , New Zealand .",
+      "categories": [
+        "2008 photographs of New Zealand",
+        "Panmure, New Zealand",
+        "Roller shutters",
+        "Self-published work",
+        "PD-self",
+        "2008 in Auckland",
+        "Files with coordinates missing SDC location of creation",
+        "Photos taken by Ingolfson",
+        "Fire stations in Auckland"
+      ],
+      "auteur": "Ingolfson",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mount_Wellington_Fire_Station,_Panmure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Mount_Wellington_Fire_Station%2C_Panmure.jpg/1280px-Mount_Wellington_Fire_Station%2C_Panmure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Дом купца Семендяева - адресная табличка, ул.25-го Октября 25 Остров, Сентябрь 2022г.jpg",
+      "description": "Усадьба Семендяева Ф.В.: улица 25-го Октября, 25 / улица Рымара, 1, Остров, Островский район, Псковская область",
+      "categories": [
+        "Shutters",
+        "Self-published work",
+        "Street signs in Russia",
+        "White street signs in Russia",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Uploaded via Campaign:wlm-ru",
+        "Buildings in Ostrov (Pskov Oblast)",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC depicts",
+        "Images from Wiki Loves Monuments 2022",
+        "Images from Wiki Loves Monuments 2022 in Russia",
+        "Russian heritage ID 6000000664",
+        "25 Oktyabrya Street, 25 (Ostrov)"
+      ],
+      "auteur": "Alandislands",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%B4%D1%8F%D0%B5%D0%B2%D0%B0_-_%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0,_%D1%83%D0%BB.25-%D0%B3%D0%BE_%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_25_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2,_%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2022%D0%B3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%94%D0%BE%D0%BC_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%B4%D1%8F%D0%B5%D0%B2%D0%B0_-_%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0%2C_%D1%83%D0%BB.25-%D0%B3%D0%BE_%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_25_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%2C_%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2022%D0%B3.jpg/1280px-%D0%94%D0%BE%D0%BC_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%B4%D1%8F%D0%B5%D0%B2%D0%B0_-_%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%87%D0%BA%D0%B0%2C_%D1%83%D0%BB.25-%D0%B3%D0%BE_%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_25_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%2C_%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2022%D0%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2947,
+      "hauteur": 3929
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Дом купца Семендяева - дверь и ставни, ул.25-го Октября 25 Остров, Сентябрь 2022г.jpg",
+      "description": "Усадьба Семендяева Ф.В.: улица 25-го Октября, 25 / улица Рымара, 1, Остров, Островский район, Псковская область",
+      "categories": [
+        "Shutters",
+        "Self-published work",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Uploaded via Campaign:wlm-ru",
+        "Buildings in Ostrov (Pskov Oblast)",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "Cultural heritage monuments in Russia missing SDC depicts",
+        "Images from Wiki Loves Monuments 2022",
+        "Images from Wiki Loves Monuments 2022 in Russia",
+        "Russian heritage ID 6000000664",
+        "25 Oktyabrya Street, 25 (Ostrov)"
+      ],
+      "auteur": "Alandislands",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%B4%D1%8F%D0%B5%D0%B2%D0%B0_-_%D0%B4%D0%B2%D0%B5%D1%80%D1%8C_%D0%B8_%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8,_%D1%83%D0%BB.25-%D0%B3%D0%BE_%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_25_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2,_%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2022%D0%B3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%D0%94%D0%BE%D0%BC_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%B4%D1%8F%D0%B5%D0%B2%D0%B0_-_%D0%B4%D0%B2%D0%B5%D1%80%D1%8C_%D0%B8_%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%2C_%D1%83%D0%BB.25-%D0%B3%D0%BE_%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_25_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%2C_%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2022%D0%B3.jpg/1280px-%D0%94%D0%BE%D0%BC_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%B4%D1%8F%D0%B5%D0%B2%D0%B0_-_%D0%B4%D0%B2%D0%B5%D1%80%D1%8C_%D0%B8_%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%2C_%D1%83%D0%BB.25-%D0%B3%D0%BE_%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_25_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%2C_%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C_2022%D0%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3929,
+      "hauteur": 2947
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Lechnerplatz 2A, Rollladen, 2023 Szeged.jpg",
+      "description": "Former Raffay House. A brick facade, mezzanine floor, Art Nouveau, listed, dwelling house. Planned by Pál Kottay, local architect and the builder, László Raffay. Mr. László Raffay was a teacher of the ~'State Vocational School of Wood and Metal Industry'. Since 1940s the house owned by Tábith family. In 1990 Tibor Tábi, an educator of the Szeged University, left the building to the Piarist Order. The teaching order remodelled to a student accomodation. Since 1992, the building has been home to the ~Sándor Sík Piarist University Dormitory, which accommodates 24 students. Built in 1902-1903. A s",
+      "categories": [
+        "Roller shutters",
+        "Raffay-ház",
+        "Self-published work",
+        "August 2023 Hungary photographs",
+        "Window shutters in Hungary",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "2023 in Szeged",
+        "Windows in Szeged"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lechnerplatz_2A,_Rollladen,_2023_Szeged.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Lechnerplatz_2A%2C_Rollladen%2C_2023_Szeged.jpg/1280px-Lechnerplatz_2A%2C_Rollladen%2C_2023_Szeged.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1873,
+      "hauteur": 1404
+    }
+  ]
+}

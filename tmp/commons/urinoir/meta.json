@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "urinoir",
+    "terme": "l'urinoir",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil sanitaire mural en céramique ou en inox, utilisé debout par les hommes, courant dans les sanitaires publics.",
+    "priorite": 2,
+    "requetes": [
+      "urinal",
+      "urinoir",
+      "urinals public toilet"
+    ],
+    "categoriesCommons": [
+      "Category:Urinals",
+      "Category:Toilets"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:FC Schalke 04 Urinal.jpg",
+      "description": "",
+      "categories": [
+        "Urinals",
+        "GFDL",
+        "FC Schalke 04",
+        "Media lacking a description",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Serdelll",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FC_Schalke_04_Urinal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/FC_Schalke_04_Urinal.jpg/1280px-FC_Schalke_04_Urinal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Because nothing says \"Winter\"... - Flickr - DDFic.jpg",
+      "description": "...quite like a 50's pinky-peach toilet covered in snow. And I think the seat on *our* toilet is cold in the mornings!",
+      "categories": [
+        "Toilets",
+        "Kettering, Ohio",
+        "Snow in Ohio",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2007-02-14",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Tina Lawson from Kettering, OH, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Because_nothing_says_%22Winter%22..._-_Flickr_-_DDFic.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Because_nothing_says_%22Winter%22..._-_Flickr_-_DDFic.jpg/1280px-Because_nothing_says_%22Winter%22..._-_Flickr_-_DDFic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:CLHSUrinal.jpg",
+      "description": "This is a urinal in Chung Ling High School, Penang, Malaysia.",
+      "categories": [
+        "Urinals",
+        "Chung Ling High School (National Type)",
+        "Self-published work",
+        "Taken with Sony Ericsson W700",
+        "Malaysia photographs taken on 2006-09-25"
+      ],
+      "auteur": "Eng Aun",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:CLHSUrinal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/CLHSUrinal.jpg/1280px-CLHSUrinal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Auschwitz concentration camp I 21.JPG",
+      "description": "Auschwitz concentration camp (I)",
+      "categories": [
+        "Toilets",
+        "Self-published work",
+        "Auschwitz I building interiors"
+      ],
+      "auteur": "Superchilum",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Auschwitz_concentration_camp_I_21.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Auschwitz_concentration_camp_I_21.JPG/1280px-Auschwitz_concentration_camp_I_21.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cleaning the urinal - Nettoyage de l´urinoir (4535663126).jpg",
+      "description": "After use the urinal is cleaned with a little amount of water",
+      "categories": [
+        "Urinals",
+        "Taken with Pentax Optio M30",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Latrines in Ouagadougou"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cleaning_the_urinal_-_Nettoyage_de_l%C2%B4urinoir_(4535663126).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Cleaning_the_urinal_-_Nettoyage_de_l%C2%B4urinoir_%284535663126%29.jpg/1280px-Cleaning_the_urinal_-_Nettoyage_de_l%C2%B4urinoir_%284535663126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Betschdorf Toilets.jpg",
+      "description": "Eingang zu öffentlichen Toiletten in Betschdorf",
+      "categories": [
+        "Toilets",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation (48° N, 7° E)"
+      ],
+      "auteur": "Emilius123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betschdorf_Toilets.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Betschdorf_Toilets.jpg/1280px-Betschdorf_Toilets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

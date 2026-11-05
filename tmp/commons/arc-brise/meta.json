@@ -1,0 +1,156 @@
+{
+  "terme": {
+    "id": "arc-brise",
+    "terme": "l'arc brisé",
+    "categorie": "Structure",
+    "definition": "Arc formé de deux portions de cercle qui se rejoignent en pointe au sommet.",
+    "priorite": 2,
+    "requetes": [
+      "pointed arch gothic",
+      "arc brisé",
+      "ogival arch"
+    ],
+    "incompatibles": [
+      "arc"
+    ],
+    "categoriesCommons": [
+      "Category:Pointed arches",
+      "Category:Gothic arches",
+      "Category:Arches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Edirne Selimiye Mosque Ceiling in 2006 2418.jpg",
+      "description": "One of pictures paying attention to structure of the ceiling.",
+      "categories": [
+        "Pointed arches",
+        "Arches in Turkey",
+        "Self-published work",
+        "Islamic arches",
+        "Domes and ceiling of Selimiye Mosque"
+      ],
+      "auteur": "Dosseman",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Edirne_Selimiye_Mosque_Ceiling_in_2006_2418.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Edirne_Selimiye_Mosque_Ceiling_in_2006_2418.jpg/1280px-Edirne_Selimiye_Mosque_Ceiling_in_2006_2418.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cathedral of Saint Peter and Saint Paul (7950195286).jpg",
+      "description": "Church of St. Peter and St. Paul in Tallinn",
+      "categories": [
+        "Gothic arches",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Views through arches in Europe",
+        "September 2012 in Tallinn",
+        "Gates in Tallinn",
+        "Photographs by Guillaume Speurt",
+        "Views through arched gates",
+        "Courtyard of Sts. Peter and Paul Cathedral in Tallinn"
+      ],
+      "auteur": "Guillaume Speurt",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cathedral_of_Saint_Peter_and_Saint_Paul_(7950195286).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cathedral_of_Saint_Peter_and_Saint_Paul_%287950195286%29.jpg/1280px-Cathedral_of_Saint_Peter_and_Saint_Paul_%287950195286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2314,
+      "hauteur": 3383
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Christmas market Schloss Charlottenburg Berlin-Charlottenburg 2025-12-17 04.jpg",
+      "description": "Christmas market Schloss Charlottenburg in Berlin-Charlottenburg at night.",
+      "categories": [
+        "CC-Zero",
+        "Crowds",
+        "Christmas markets",
+        "Arches",
+        "Christmas lights",
+        "Night photography",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Leonhard Lenz",
+        "Christmas 2025 in Berlin",
+        "Weihnachtsmarkt Schloss Charlottenburg",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Germany",
+        "Images from Wiki Loves Folklore 2026, DE-BE"
+      ],
+      "auteur": "Leonhard Lenz",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Christmas_market_Schloss_Charlottenburg_Berlin-Charlottenburg_2025-12-17_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Christmas_market_Schloss_Charlottenburg_Berlin-Charlottenburg_2025-12-17_04.jpg/1280px-Christmas_market_Schloss_Charlottenburg_Berlin-Charlottenburg_2025-12-17_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8144,
+      "hauteur": 5424
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Colored roof of Nasir Al-Molk Mosque in Shiraz.jpg",
+      "description": "Ceci est une image d'un monument en Iran identifié ID",
+      "categories": [
+        "Domes in Iran",
+        "Pointed arches",
+        "Soffits (architecture)",
+        "Arabesque (art)",
+        "Self-published work",
+        "Cultural heritage monuments in Iran with known IDs",
+        "Uploaded via Campaign:wlm-ir",
+        "Images from Wiki Loves Monuments in Shiraz",
+        "Nasir-ol-Molk Mosque in 2018",
+        "Iran photographs taken on 2018-11-23",
+        "Images from Wiki Loves Monuments 2020",
+        "Images from Wiki Loves Monuments 2020 in Iran",
+        "Winter prayer hall ceiling of Nasir-ol-Molk Mosque",
+        "Pink architecture",
+        "Symmetry impressions of ceilings",
+        "Karbandi"
+      ],
+      "auteur": "Yare zaman2000",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Colored_roof_of_Nasir_Al-Molk_Mosque_in_Shiraz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Colored_roof_of_Nasir_Al-Molk_Mosque_in_Shiraz.jpg/1280px-Colored_roof_of_Nasir_Al-Molk_Mosque_in_Shiraz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3562
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:500px photo (66486993).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Arches",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Corentin Monmasson",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(66486993).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/500px_photo_%2866486993%29.jpeg/1280px-500px_photo_%2866486993%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1366,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:KinderlehrkircheSchlusstein01.jpg",
+      "description": "Schlußstein im Kreuzrippengewölbe mit dem Antoniter-T.",
+      "categories": [
+        "Quadripartite cross-ribbed vaults in Germany",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Pointed arches",
+        "License migration redundant",
+        "Self-published work",
+        "Bosses of Kinderlehrkirche (Memmingen)"
+      ],
+      "auteur": "Johannes Böckh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:KinderlehrkircheSchlusstein01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/KinderlehrkircheSchlusstein01.jpg/1280px-KinderlehrkircheSchlusstein01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
+    }
+  ]
+}

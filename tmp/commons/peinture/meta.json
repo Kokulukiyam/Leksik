@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "peinture",
+    "terme": "la peinture",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Couche colorée appliquée au rouleau ou au pinceau sur un mur ou un plafond.",
+    "priorite": 1,
+    "requetes": [
+      "painting interior wall roller",
+      "peinture mur intérieur",
+      "incategory:\"Painted walls\""
+    ],
+    "categoriesCommons": [
+      "Category:Paint",
+      "Category:Painted walls",
+      "Category:House painting"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:At the beach. Am Strand. (46825250684).jpg",
+      "description": "At the beach. Am Strand.",
+      "categories": [
+        "Paint",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (51° N, 7° E)",
+        "Files from wwwuppertal Flickr stream"
+      ],
+      "auteur": "wwwuppertal",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_the_beach._Am_Strand._(46825250684).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/At_the_beach._Am_Strand._%2846825250684%29.jpg/1280px-At_the_beach._Am_Strand._%2846825250684%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Azules by Noble, Gramos & Boker (Detalles).jpg",
+      "description": "Murales sobre Av. Héroes de Nacozari para el Festival Cultural El Refugio",
+      "categories": [
+        "CC-Zero",
+        "Graffiti",
+        "Murals",
+        "Self-published work",
+        "Painted walls",
+        "Murals by location",
+        "Murals in Puebla",
+        "Puebla de Zaragoza",
+        "Files with coordinates missing SDC location of creation",
+        "Murals in Puebla (city)"
+      ],
+      "auteur": "Milhojas 72",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Azules_by_Noble,_Gramos_%26_Boker_(Detalles).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Azules_by_Noble%2C_Gramos_%26_Boker_%28Detalles%29.jpg/1280px-Azules_by_Noble%2C_Gramos_%26_Boker_%28Detalles%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Abziehlack auf Stahlblech.jpg",
+      "description": "Auf einem Stahlblech applizierter Abziehlack",
+      "categories": [
+        "Paint",
+        "Self-published work"
+      ],
+      "auteur": "MaBaOsna",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abziehlack_auf_Stahlblech.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Abziehlack_auf_Stahlblech.jpg/1280px-Abziehlack_auf_Stahlblech.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2023-03-11 Hans Riegel jun Wandgemaelde Bonn IMG 1475a.JPEG",
+      "description": "Deutschland, Bonn , Nordstadt, Kaiser-Karl-Ring 63/Ecke Vorgebirgsstraße: Wandgemälde: Hans Riegel jun. ; Künstler: Hendrik Beikirch .",
+      "categories": [
+        "Taken with iPhone SE (2nd generation)",
+        "Wandgemälde Hans Riegel jun. (Bonn)",
+        "Self-published work",
+        "2023 in Bonn",
+        "Painted walls",
+        "Files by User:Sir James from de.wikipedia",
+        "Information field template with formatting",
+        "North Rhine-Westphalia photographs taken on 2023-03-11",
+        "Files with coordinates missing SDC location of creation (50° N, 7° E)"
+      ],
+      "auteur": "Sir James",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-03-11_Hans_Riegel_jun_Wandgemaelde_Bonn_IMG_1475a.JPEG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2023-03-11_Hans_Riegel_jun_Wandgemaelde_Bonn_IMG_1475a.JPEG/1280px-2023-03-11_Hans_Riegel_jun_Wandgemaelde_Bonn_IMG_1475a.JPEG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1349,
+      "hauteur": 1992
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Airmail Remix (4191274196).jpg",
+      "description": "Airmail Remix / Marianne des Français",
+      "categories": [
+        "Design",
+        "Paint",
+        "Flickr images reviewed by FlickreviewR",
+        "Files uploaded by The Photographer from Flickr",
+        "Files uploaded by The Photographer needing category checks",
+        "Files from geishaboy500 (THOR) Flickr stream",
+        "Inkblots",
+        "Marianne stamps of France on covers and postcards"
+      ],
+      "auteur": "THOR",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Airmail_Remix_(4191274196).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Airmail_Remix_%284191274196%29.jpg/1280px-Airmail_Remix_%284191274196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2070,
+      "hauteur": 1379
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Barrio del artista.jpg",
+      "description": "Se encuentra en el centro de Puebla",
+      "categories": [
+        "Graffiti",
+        "Murals",
+        "Self-published work",
+        "Painted walls",
+        "Murals by location",
+        "Murals in Puebla",
+        "Puebla de Zaragoza"
+      ],
+      "auteur": "Amorosa raiz",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barrio_del_artista.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Barrio_del_artista.jpg/1280px-Barrio_del_artista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1620,
+      "hauteur": 1080
+    }
+  ]
+}

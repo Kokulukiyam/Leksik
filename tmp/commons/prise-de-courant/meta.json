@@ -1,0 +1,121 @@
+{
+  "terme": {
+    "id": "prise-de-courant",
+    "terme": "la prise de courant",
+    "categorie": "Réseaux et équipements",
+    "definition": "Socle mural à deux trous, avec ou sans broche de terre, où l'on branche un appareil électrique.",
+    "priorite": 1,
+    "requetes": [
+      "electrical outlet wall socket",
+      "prise de courant",
+      "power socket"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Wall-mounted electrical sockets at the abandoned Circle Factory Outlet Center.jpg",
+      "description": "Four wall-mounted electrical sockets at the abandoned Circle Factory Outlet Center",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Circle Factory Outlet Center"
+      ],
+      "auteur": "ForeverFlying",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wall-mounted_electrical_sockets_at_the_abandoned_Circle_Factory_Outlet_Center.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Wall-mounted_electrical_sockets_at_the_abandoned_Circle_Factory_Outlet_Center.jpg/1280px-Wall-mounted_electrical_sockets_at_the_abandoned_Circle_Factory_Outlet_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6144,
+      "hauteur": 8160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Wall-mounted electrical sockets with vines at the abandoned Circle Factory Outlet Center.jpg",
+      "description": "Four wall-mounted electrical sockets at the abandoned Circle Factory Outlet Center, with vines growing around the console",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Circle Factory Outlet Center"
+      ],
+      "auteur": "ForeverFlying",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wall-mounted_electrical_sockets_with_vines_at_the_abandoned_Circle_Factory_Outlet_Center.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Wall-mounted_electrical_sockets_with_vines_at_the_abandoned_Circle_Factory_Outlet_Center.jpg/1280px-Wall-mounted_electrical_sockets_with_vines_at_the_abandoned_Circle_Factory_Outlet_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Close-up view of the wall-mounted electrical sockets at the abandoned Circle Factory Outlet Center.jpg",
+      "description": "Two wall-mounted electrical sockets at the abandoned Circle Factory Outlet Center",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Circle Factory Outlet Center"
+      ],
+      "auteur": "ForeverFlying",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Close-up_view_of_the_wall-mounted_electrical_sockets_at_the_abandoned_Circle_Factory_Outlet_Center.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Close-up_view_of_the_wall-mounted_electrical_sockets_at_the_abandoned_Circle_Factory_Outlet_Center.jpg/1280px-Close-up_view_of_the_wall-mounted_electrical_sockets_at_the_abandoned_Circle_Factory_Outlet_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Electrical-Outlet-8830c.jpg",
+      "description": "North American NEMA 5-20RA three-prong electrical grounded power wall socket (120V 20A). T-slot for neutral pin allows use of 15-ampere rated NEMA 5-15 plugs in the 20 ampere outlet.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-H2",
+        "Retouched pictures",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Loadmaster",
+        "NEMA 5–20R",
+        "White electrical devices"
+      ],
+      "auteur": "Loadmaster (David R. Tribble) This image was made by Loadmaster (David R. Tribble) . Email the author: David R. Tribble Also see my personal gallery at Google Photos",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Electrical-Outlet-8830c.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Electrical-Outlet-8830c.jpg/1280px-Electrical-Outlet-8830c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1872,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mains.plug+sockets.JPG",
+      "description": "European mains plug + 3 sockets. Not allowed anymore due to the risk to built up excessive forces to the wall outlet which may result in permanent damaging of it.",
+      "categories": [
+        "Taken with Canon PowerShot A510",
+        "PD-user",
+        "Socket splitters",
+        "Mains adaptors",
+        "Forbidden electrical items",
+        "C-type sockets"
+      ],
+      "auteur": "Julo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mains.plug%2Bsockets.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mains.plug%2Bsockets.JPG/1280px-Mains.plug%2Bsockets.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:22 sockets grey-painted wall Three black electric power cables plugged in, school building in Lillesand, Norway. 22 stikkontkater på gråmalt vegg med tre svarte strømkabler (2024) IMG 8883.jpg",
+      "description": "In total, 22 electrical sockets on a gray-painted wall in a school building in Lillesand , Norway, with three black electric power cables (charging cords for floor polishers) plugged in. AC power plugs and sockets connect devices to mains electricity to supply them with electrical power. A plug is the connector attached to an electrically-operated device, often via a cable. A socket (also known as a receptacle or outlet) is fixed in place, often on the internal walls of buildings, and is connected to an AC electrical circuit. Inserting (\"plugging in\") the plug into the socket allows the device",
+      "categories": [
+        "Electric cables",
+        "Electrical sockets",
+        "Self-published work",
+        "Norway photographs taken on 2024-03-06"
+      ],
+      "auteur": "Wolfmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:22_sockets_grey-painted_wall_Three_black_electric_power_cables_plugged_in,_school_building_in_Lillesand,_Norway._22_stikkontkater_p%C3%A5_gr%C3%A5malt_vegg_med_tre_svarte_str%C3%B8mkabler_(2024)_IMG_8883.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/22_sockets_grey-painted_wall_Three_black_electric_power_cables_plugged_in%2C_school_building_in_Lillesand%2C_Norway._22_stikkontkater_p%C3%A5_gr%C3%A5malt_vegg_med_tre_svarte_str%C3%B8mkabler_%282024%29_IMG_8883.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2988,
+      "hauteur": 3962
+    }
+  ]
+}

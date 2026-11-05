@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "profile-aluminium",
+    "terme": "le profilé aluminium",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Barre d'aluminium extrudée de section creuse, utilisée pour fabriquer cadres et vantaux de menuiserie.",
+    "priorite": 2,
+    "requetes": [
+      "aluminium profiles extrusion",
+      "profilés aluminium menuiserie",
+      "aluminium extrusion profile"
+    ],
+    "incompatibles": [
+      "menuiserie-aluminium",
+      "aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Aluminium profiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Aluprofil und Dichtlippe Gewächshaus Eck.jpg",
+      "description": "Aluprofil und Dichtlippe eines kleinen Gewächshauses",
+      "categories": [
+        "Seals (mechanical)",
+        "Self-published work",
+        "Aluminium profiles",
+        "Metal greenhouses"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluprofil_und_Dichtlippe_Gew%C3%A4chshaus_Eck.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Aluprofil_und_Dichtlippe_Gew%C3%A4chshaus_Eck.jpg/1280px-Aluprofil_und_Dichtlippe_Gew%C3%A4chshaus_Eck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Single Extrusion Panel.jpg",
+      "description": "One of Knest 's products",
+      "categories": [
+        "Self-published work",
+        "Aluminium profiles"
+      ],
+      "auteur": "AstridMitch",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Single_Extrusion_Panel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Single_Extrusion_Panel.jpg/1280px-Single_Extrusion_Panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2547,
+      "hauteur": 1910
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Aluprofil für Werbetafel Kunststoff2.jpg",
+      "description": "Aluprofil für Werbetafel",
+      "categories": [
+        "Advertising boards",
+        "Self-published work",
+        "Aluminium profiles"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluprofil_f%C3%BCr_Werbetafel_Kunststoff2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Aluprofil_f%C3%BCr_Werbetafel_Kunststoff2.jpg/1280px-Aluprofil_f%C3%BCr_Werbetafel_Kunststoff2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:HTML research (9067213357).jpg",
+      "description": "Ted Besmann works in the Surface Processing and Mechanics Synthesis lab at HTML.",
+      "categories": [
+        "Oak Ridge National Laboratory",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Aluminium profiles"
+      ],
+      "auteur": "Oak Ridge National Laboratory",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HTML_research_(9067213357).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/HTML_research_%289067213357%29.jpg/1280px-HTML_research_%289067213357%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2 komponenten einfachdosierer auf portal.jpg",
+      "description": "",
+      "categories": [
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Linear guidings",
+        "Handling robots",
+        "Cable drag chains",
+        "Resin casting",
+        "Media missing infobox template",
+        "Handling systems",
+        "Aluminium profiles"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2_komponenten_einfachdosierer_auf_portal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2_komponenten_einfachdosierer_auf_portal.jpg/1280px-2_komponenten_einfachdosierer_auf_portal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4064,
+      "hauteur": 2704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Glasscheibenmontageprofil Alu.jpg",
+      "description": "Glasscheibenmontageprofil",
+      "categories": [
+        "Self-published work",
+        "Glass fastening",
+        "Aluminium profiles"
+      ],
+      "auteur": "HTL-Mödchen23",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Glasscheibenmontageprofil_Alu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Glasscheibenmontageprofil_Alu.jpg/1280px-Glasscheibenmontageprofil_Alu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4156,
+      "hauteur": 1760
+    }
+  ]
+}

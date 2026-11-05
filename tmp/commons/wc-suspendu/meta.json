@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "wc-suspendu",
+    "terme": "le WC suspendu",
+    "categorie": "Réseaux et équipements",
+    "definition": "Cuvette de WC fixée au mur sans pied, le réservoir étant caché dans un bâti-support derrière la cloison.",
+    "priorite": 2,
+    "requetes": [
+      "wall hung toilet",
+      "WC suspendu",
+      "wall mounted toilet bathroom"
+    ],
+    "incompatibles": [
+      "cuvette-de-wc"
+    ],
+    "categoriesCommons": [
+      "Category:Toilets"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A surviving Trough.jpg",
+      "description": "Another Trough Cistern that can be found in Plymouth, Devon. Here the chain is longer than normal and the pipes have been boxed in.",
+      "categories": [
+        "Toilets",
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Flushing trough"
+      ],
+      "auteur": "Smoogie7",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_surviving_Trough.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/A_surviving_Trough.jpg/1280px-A_surviving_Trough.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3240,
+      "hauteur": 4320
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:-42 drain.jpg",
+      "description": "drain",
+      "categories": [
+        "Toilets",
+        "Self-published work",
+        "Floor drains"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-42_drain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/-42_drain.jpg/1280px--42_drain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8341,
+      "hauteur": 6645
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Accessible toilet ÖBB Cityjet.jpeg",
+      "description": "Accessible toilet ÖBB Cityjet",
+      "categories": [
+        "Toilets",
+        "ÖBB Cityjet",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Robot8A",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Accessible_toilet_%C3%96BB_Cityjet.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Accessible_toilet_%C3%96BB_Cityjet.jpeg/1280px-Accessible_toilet_%C3%96BB_Cityjet.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:At La Palma 2021 0067.jpg",
+      "description": "At La Palma 2021.",
+      "categories": [
+        "Toilets",
+        "Baths",
+        "Interior of Museo Casa Roja",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by Mike Peel using a Canon EOS 90D"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_La_Palma_2021_0067.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/At_La_Palma_2021_0067.jpg/1280px-At_La_Palma_2021_0067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4640,
+      "hauteur": 6960
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20230709 141259 Restroom as storage.jpg",
+      "description": "Restroom as storage. Safeway, Federal Way, Washington",
+      "categories": [
+        "Toilets",
+        "Self-published work",
+        "Culture of Federal Way, Washington",
+        "Files with coordinates missing SDC location of creation",
+        "Safeway stores in Washington (state)"
+      ],
+      "auteur": "Gayest Frogs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20230709_141259_Restroom_as_storage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/20230709_141259_Restroom_as_storage.jpg/1280px-20230709_141259_Restroom_as_storage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Baltic Princess, WC C4-cabin, 20220827, bild 4.jpg",
+      "description": "Toaletten på C4-hytt ombord på Baltic Princess den 27 augusti 2022.",
+      "categories": [
+        "Toilets",
+        "Interior of Baltic Princess (ship, 2008)",
+        "Self-published work",
+        "Ship cabins"
+      ],
+      "auteur": "AleWi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baltic_Princess,_WC_C4-cabin,_20220827,_bild_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Baltic_Princess%2C_WC_C4-cabin%2C_20220827%2C_bild_4.jpg/1280px-Baltic_Princess%2C_WC_C4-cabin%2C_20220827%2C_bild_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    }
+  ]
+}

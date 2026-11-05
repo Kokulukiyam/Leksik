@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "receveur-de-douche",
+    "terme": "le receveur de douche",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bac plat en céramique, en résine ou en acrylique posé au sol de la douche, qui recueille l'eau et la dirige vers la bonde.",
+    "priorite": 2,
+    "requetes": [
+      "shower tray",
+      "receveur de douche",
+      "shower base"
+    ],
+    "categoriesCommons": [
+      "Category:Shower trays",
+      "Category:Showers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Shower base.jpg",
+      "description": "一隻典型嘅阿卡力企缸同埋一幅浴簾",
+      "categories": [
+        "Shower curtains",
+        "Self-published work",
+        "Taken with Nokia 8.1 / X7",
+        "Shower trays"
+      ],
+      "auteur": "汩汩银泉",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shower_base.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Shower_base.jpg/1280px-Shower_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3022,
+      "hauteur": 4030
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Antique shower taps - Casa Loma.jpg",
+      "description": "Casa Loma, Toronto, Ontario, Canada",
+      "categories": [
+        "Taken with Canon PowerShot S95",
+        "Showers",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Thomas Quine",
+        "Bathroom of Henry Pellatt, Casa Loma"
+      ],
+      "auteur": "Thomas Quine",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_shower_taps_-_Casa_Loma.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Antique_shower_taps_-_Casa_Loma.jpg/1280px-Antique_shower_taps_-_Casa_Loma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Laval - bains-douches 18.jpg",
+      "description": "Bains-douches municipaux de Laval (Mayenne, France) : mosaïque dans la douche",
+      "categories": [
+        "Base Mérimée",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments with different SDC participant in",
+        "Bains-douches de Laval (mosaïques)",
+        "Images from Wiki Loves Monuments 2026 in France",
+        "Shower trays",
+        "European Heritage Days 2026 in Mayenne"
+      ],
+      "auteur": "Fab5669",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laval_-_bains-douches_18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Laval_-_bains-douches_18.jpg/1280px-Laval_-_bains-douches_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Becuna 14.JPG",
+      "description": "USS Becuna (SS-319)",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "Showers",
+        "Submarine heads",
+        "Sanitary facilities on the USS Becuna (SS-319)"
+      ],
+      "auteur": "User:Piotrus",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Becuna_14.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Becuna_14.JPG/1280px-Becuna_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Slipper Baths - disused shower tray at Walsall Gala Baths 9-4-15.JPG",
+      "description": "Walsall Gala Baths",
+      "categories": [
+        "Self-published work",
+        "April 2015 in the West Midlands (county)",
+        "Gala Baths, Walsall",
+        "Shower trays"
+      ],
+      "auteur": "KateGoodall",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Slipper_Baths_-_disused_shower_tray_at_Walsall_Gala_Baths_9-4-15.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Slipper_Baths_-_disused_shower_tray_at_Walsall_Gala_Baths_9-4-15.JPG/1280px-Slipper_Baths_-_disused_shower_tray_at_Walsall_Gala_Baths_9-4-15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:ASC Leiden - Rwanda 2021 - 092 - Shower - Kigali.jpg",
+      "description": "Douche.",
+      "categories": [
+        "Showers",
+        "Images from the African Studies Centre (Leiden)",
+        "Uploaded with pattypan",
+        "Self-published work",
+        "Items with VRTS permission confirmed",
+        "Bathrooms in Rwanda",
+        "Rwanda 2021 (African Studies Centre Leiden)",
+        "Images donated by Gerard van de Bruinhorst"
+      ],
+      "auteur": "Gerard C. van de Bruinhorst",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Rwanda_2021_-_092_-_Shower_-_Kigali.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ASC_Leiden_-_Rwanda_2021_-_092_-_Shower_-_Kigali.jpg/1280px-ASC_Leiden_-_Rwanda_2021_-_092_-_Shower_-_Kigali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    }
+  ]
+}

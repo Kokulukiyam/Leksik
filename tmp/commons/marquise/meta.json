@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "marquise",
+    "terme": "la marquise",
+    "categorie": "Façade et ouvertures",
+    "definition": "Petit auvent vitré à structure métallique au-dessus d'une porte d'entrée.",
+    "priorite": 2,
+    "requetes": [
+      "glass marquise over entrance door",
+      "marquise verre entrée",
+      "wrought iron glass canopy door"
+    ],
+    "incompatibles": [
+      "auvent"
+    ],
+    "categoriesCommons": [
+      "Category:Canopies"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A side profile of troupes under the canopy in the stadium at SK Fest 2024 01.jpg",
+      "description": "A side profile of troupes under the canopy on the day of the grand finale of the second edition of the Southern Kaduna Festival (SK Fest) 2024 held in the Kafanchan Township stadium, Takau, Kafanchan, central (Middle Belt) Nigeria.",
+      "categories": [
+        "Crowds",
+        "Canopies",
+        "Self-published work",
+        "Images from Wiki Loves Folklore 2025",
+        "Images from Wiki Loves Folklore 2025 in Nigeria",
+        "Wiki Loves Folklore 2025 in the Tyap Community",
+        "Uploaded via Campaign:wlf-ng-2025",
+        "Images taken by Kambai Akau",
+        "Images from Wiki Loves Folklore 2025 to check",
+        "Ham people",
+        "SK Fest 2024",
+        "Gwong people",
+        "Gwandara people",
+        "Avono people",
+        "Adun people"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_side_profile_of_troupes_under_the_canopy_in_the_stadium_at_SK_Fest_2024_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/A_side_profile_of_troupes_under_the_canopy_in_the_stadium_at_SK_Fest_2024_01.jpg/1280px-A_side_profile_of_troupes_under_the_canopy_in_the_stadium_at_SK_Fest_2024_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Big Fishing Boat-01+ (255997069).jpg",
+      "description": "Just launched for a day out",
+      "categories": [
+        "Motorboats",
+        "Canopies",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Mercury outboard motors",
+        "Photographs by Sheba Also",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Sheba_Also 43,000 photos",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Big_Fishing_Boat-01%2B_(255997069).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Big_Fishing_Boat-01%2B_%28255997069%29.jpg/1280px-Big_Fishing_Boat-01%2B_%28255997069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1067
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2023-01-18 A canopy made from car at 22 Pekini Avenue.jpg",
+      "description": "A clothes shop entrance at 22 Pekini Avenue, Tbilisi, with a canopy made from half of a car attached to the building wall",
+      "categories": [
+        "Novelty architecture",
+        "Canopies",
+        "ZAZ-965 Zaporozhets",
+        "Self-published work",
+        "Three-quarter views of automobiles",
+        "Clothing shops in Georgia (country)",
+        "Taken on missing SDC inception",
+        "Buildings in Georgia (country) photographed in 2023",
+        "Files with coordinates missing SDC location of creation",
+        "Number 1995 on vehicle registration plates",
+        "2023 in Tbilisi",
+        "Georgia (country) photographs taken on 2023-01-18",
+        "Pekini Avenue, Tbilisi",
+        "Shop entrances",
+        "Automobiles in Tbilisi",
+        "Repurposed automobiles",
+        "Entrances in Tbilisi",
+        "Photographs by Yuri Samoylov taken in 2023"
+      ],
+      "auteur": "Yuri Samoylov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-01-18_A_canopy_made_from_car_at_22_Pekini_Avenue.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2023-01-18_A_canopy_made_from_car_at_22_Pekini_Avenue.jpg/1280px-2023-01-18_A_canopy_made_from_car_at_22_Pekini_Avenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3002,
+      "hauteur": 4003
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Abri près de Pierrefort.jpg",
+      "description": "Abri près de Pierrefort",
+      "categories": [
+        "CC-Zero",
+        "Canopies",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2026-02-23"
+      ],
+      "auteur": "Werner Wanderfreund",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abri_pr%C3%A8s_de_Pierrefort.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Abri_pr%C3%A8s_de_Pierrefort.jpg/1280px-Abri_pr%C3%A8s_de_Pierrefort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A place to watch the sun setting-1 (32477955555).jpg",
+      "description": "A place to watch the sun setting - Scarborough",
+      "categories": [
+        "Canopies",
+        "Scarborough, Western Australia",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Photographs by Sheba Also",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Picnic tables in Australia",
+        "Metal picnic tables",
+        "Sunsets of Perth, Western Australia"
+      ],
+      "auteur": "Sheba_Also 43,000 photos",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_place_to_watch_the_sun_setting-1_(32477955555).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/A_place_to_watch_the_sun_setting-1_%2832477955555%29.jpg/1280px-A_place_to_watch_the_sun_setting-1_%2832477955555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2384,
+      "hauteur": 1503
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:08791jfSacred Heart Jesus Parish Shrine Science Munoz Ecijafvf 41.JPG",
+      "description": "Better version, blue sky and fair weather, Sacred Heart of Jesus Parish Church and Shrine , Barangay Bantug , Muñoz , Nueva Ecija (along the Maharlika Highway , Maharlika Highway (Cagayan Valley Road, Talavera-Santo Domingo-Quezon-Science City of Muñoz, Nueva Ecija section) or the Pan-Philippine Highway , also known as the Maharlika \"Nobility/freeman\" Highway or Asian Highway 26).",
+      "categories": [
+        "Canopies",
+        "Self-published work",
+        "PD-self",
+        "Sacred Heart of Jesus Parish Church and Shrine (Bantug, Science City of Muñoz, Nueva Ecija)"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:08791jfSacred_Heart_Jesus_Parish_Shrine_Science_Munoz_Ecijafvf_41.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/08791jfSacred_Heart_Jesus_Parish_Shrine_Science_Munoz_Ecijafvf_41.JPG/1280px-08791jfSacred_Heart_Jesus_Parish_Shrine_Science_Munoz_Ecijafvf_41.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

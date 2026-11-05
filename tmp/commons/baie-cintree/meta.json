@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "baie-cintree",
+    "terme": "la baie cintrée",
+    "categorie": "Façade et ouvertures",
+    "definition": "Baie dont la partie haute est en forme d'arc plutôt que droite.",
+    "priorite": 2,
+    "requetes": [
+      "arched window opening facade",
+      "baie cintrée",
+      "round arched window"
+    ],
+    "incompatibles": [
+      "arc",
+      "baie"
+    ],
+    "categoriesCommons": [
+      "Category:Arches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:500px photo (66487003).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Arches",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Corentin Monmasson",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(66487003).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/500px_photo_%2866487003%29.jpeg/1280px-500px_photo_%2866487003%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Tbilisi 2026. New Year Village.jpg",
+      "description": "Tbilisi 2026. New Year Village",
+      "categories": [
+        "New Year celebrations in Georgia",
+        "Clocks",
+        "Christmas markets",
+        "Arches",
+        "Cityscapes",
+        "Self-published work",
+        "New Year celebrations in Tbilisi",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Georgia",
+        "Images from Wiki Loves Folklore 2026 to check",
+        "Uploaded via Campaign:wlf 2026",
+        "Outdoor events"
+      ],
+      "auteur": "Eka Samkharadze",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tbilisi_2026._New_Year_Village.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tbilisi_2026._New_Year_Village.jpg/1280px-Tbilisi_2026._New_Year_Village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1446,
+      "hauteur": 1979
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A (79843191).jpeg",
+      "description": "500px provided description: A []",
+      "categories": [
+        "Arches",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Diego Astrada",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_(79843191).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/A_%2879843191%29.jpeg/1280px-A_%2879843191%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1422,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Arco del Salvador (Hellín) (72670).jpg",
+      "description": "Arco del Salvador, elemento histórico situado en el casco antiguo de Hellín, en la provincia de Albacete, Castilla-La Mancha.",
+      "categories": [
+        "CC-Zero",
+        "Arches",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Conjunto histórico artístico de Hellín",
+        "Culture of Hellín",
+        "Spain photographs taken on 2026-09-02"
+      ],
+      "auteur": "Hetemacaba",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arco_del_Salvador_(Hell%C3%ADn)_(72670).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Arco_del_Salvador_%28Hell%C3%ADn%29_%2872670%29.jpg/1280px-Arco_del_Salvador_%28Hell%C3%ADn%29_%2872670%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Black-and-white-building-house-way (24243548291).jpg",
+      "description": "black-and-white-building-house-way",
+      "categories": [
+        "CC-Zero",
+        "Arches",
+        "Barred windows",
+        "Buildings in unidentified countries",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "www.Pixel.la Free Stock Photos",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Black-and-white-building-house-way_(24243548291).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Black-and-white-building-house-way_%2824243548291%29.jpg/1280px-Black-and-white-building-house-way_%2824243548291%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:4º Campeonato Mundial de Paraglider.jpg",
+      "description": "Minha família visitando o Pico do Gavião no dia do 4º Campeonato Mundial de Paraglider. Foi uma experiência inesquecível! De lá pode-se avistar lindas paisagens e as pequenas cidades do sul de Minas Gerais.",
+      "categories": [
+        "Mountains of Brazil",
+        "Arches",
+        "Paragliding World Cup",
+        "Pico do Gavião",
+        "Self-published work",
+        "Tourists in Brazil",
+        "Paragliding in Minas Gerais",
+        "Brazil photographs taken on 2017-09-09",
+        "September 2017 in sports in Brazil",
+        "2017 in paragliding in Brazil",
+        "September 2017 in Minas Gerais",
+        "Paragliding events"
+      ],
+      "auteur": "Monica Maia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4%C2%BA_Campeonato_Mundial_de_Paraglider.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/4%C2%BA_Campeonato_Mundial_de_Paraglider.jpg/1280px-4%C2%BA_Campeonato_Mundial_de_Paraglider.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

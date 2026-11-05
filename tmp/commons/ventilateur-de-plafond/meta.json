@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "ventilateur-de-plafond",
+    "terme": "le ventilateur de plafond",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil à pales tournantes suspendu au plafond qui brasse l'air.",
+    "priorite": 1,
+    "requetes": [
+      "ceiling fan",
+      "ventilateur de plafond",
+      "ceiling fan room"
+    ],
+    "categoriesCommons": [
+      "Category:Ceiling fans"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:St. John's Cathedral, Belize City1.jpg",
+      "description": "2006 in Belize City",
+      "categories": [
+        "Ceiling fans",
+        "St. John's Cathedral, Belize City",
+        "Churches photographed in 2006",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2006 in Belize City"
+      ],
+      "auteur": "madmack66",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St._John%27s_Cathedral,_Belize_City1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/St._John%27s_Cathedral%2C_Belize_City1.jpg/1280px-St._John%27s_Cathedral%2C_Belize_City1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1333
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ceiling Fan Mid-Spin.jpg",
+      "description": "A ceiling fan captured mid-spin.",
+      "categories": [
+        "Self-published work",
+        "Ceiling fans with spinning blades",
+        "United States photographs taken on 2017-09-30",
+        "September 2017 in Las Vegas",
+        "Ceiling fans in the United States",
+        "Ceiling fans with five blades"
+      ],
+      "auteur": "Noah Wulf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_Fan_Mid-Spin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ceiling_Fan_Mid-Spin.jpg/1280px-Ceiling_Fan_Mid-Spin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Industrie-Deckenventilator.jpg",
+      "description": "Industrie-Deckenventilator zur Warmluftrückführung in hohen Hallen",
+      "categories": [
+        "Ceiling fans",
+        "GFDL",
+        "Taken with Konica Minolta Dimage A200",
+        "Destratification fans",
+        "License migration redundant",
+        "Self-published work",
+        "Ventilation fans for industrial buildings"
+      ],
+      "auteur": "Günter Fenne, eigene Arbeit",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Industrie-Deckenventilator.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Industrie-Deckenventilator.jpg/1280px-Industrie-Deckenventilator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3168,
+      "hauteur": 1894
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fan 2024.jpg",
+      "description": "Fan Image",
+      "categories": [
+        "Ceiling fans",
+        "Self-published work",
+        "Taken with Vivo V21G",
+        "Electric fans in black"
+      ],
+      "auteur": "Muthukumaran Esakkiappan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fan_2024.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Fan_2024.jpg/1280px-Fan_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A classroom in the Faculty of Architecture, FUASK.jpg",
+      "description": "A classroom in the Faculty of Architecture, FUASK",
+      "categories": [
+        "Ceiling fans",
+        "Windows",
+        "Seats",
+        "Classrooms",
+        "Self-published work",
+        "Images taken by Kambai Akau",
+        "Federal University of Applied Sciences Kachia"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_classroom_in_the_Faculty_of_Architecture,_FUASK.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg/1280px-A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7200,
+      "hauteur": 4800
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ceiling fan with lamp.jpg",
+      "description": "A ceiling fan with lamp",
+      "categories": [
+        "Self-published work",
+        "Ceiling fans with five blades",
+        "Ceiling fans with light"
+      ],
+      "auteur": "Hans Olav Lien",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_fan_with_lamp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Ceiling_fan_with_lamp.jpg/1280px-Ceiling_fan_with_lamp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 2294
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "terme": {
+    "id": "beton-cellulaire",
+    "terme": "le béton cellulaire",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Béton léger, blanc et très poreux, vendu en gros blocs réguliers faciles à scier.",
+    "priorite": 2,
+    "requetes": [
+      "aerated concrete blocks",
+      "autoclaved aerated concrete wall",
+      "béton cellulaire"
+    ],
+    "incompatibles": [
+      "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Autoclaved aerated concrete",
+      "Category:Concrete blocks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:БлокиЯчеистыйБетон.jpg",
+      "description": "Blocks of autoclaved aerated concrete",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus X-300 / D-565Z / C-450Z",
+        "Thermal insulation",
+        "Autoclaved aerated concrete",
+        "License migration redundant",
+        "Self-published work",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Фирма \"Силикон-Инновация\", город Новосибирск",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D0%AF%D1%87%D0%B5%D0%B8%D1%81%D1%82%D1%8B%D0%B9%D0%91%D0%B5%D1%82%D0%BE%D0%BD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D0%AF%D1%87%D0%B5%D0%B8%D1%81%D1%82%D1%8B%D0%B9%D0%91%D0%B5%D1%82%D0%BE%D0%BD.jpg/1280px-%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D0%AF%D1%87%D0%B5%D0%B8%D1%81%D1%82%D1%8B%D0%B9%D0%91%D0%B5%D1%82%D0%BE%D0%BD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Betonblokken bij nieuwbouwwoningen aan de van Heuven Goedhartlaan, Utrecht, augustus 2019.jpg",
+      "description": "Special concrete blocks near newly-built houses, van Heuven Goedhartlaan, Utrecht, August 2019.",
+      "categories": [
+        "Kanaleneiland",
+        "Concrete blocks",
+        "Self-published work",
+        "Photographs by Hans Muller"
+      ],
+      "auteur": "Hansmuller",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betonblokken_bij_nieuwbouwwoningen_aan_de_van_Heuven_Goedhartlaan,_Utrecht,_augustus_2019.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Betonblokken_bij_nieuwbouwwoningen_aan_de_van_Heuven_Goedhartlaan%2C_Utrecht%2C_augustus_2019.jpg/1280px-Betonblokken_bij_nieuwbouwwoningen_aan_de_van_Heuven_Goedhartlaan%2C_Utrecht%2C_augustus_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Molln Volksschule Wandrelief.jpg",
+      "description": "Molln: Wandrelief an der Volksschule",
+      "categories": [
+        "Autoclaved aerated concrete",
+        "Volksschule Molln",
+        "Self-published work",
+        "Images uploaded by Geolina163",
+        "Supported by Wikimedia Österreich in 2024",
+        "GLAM on Tour Von Brummeisen und Trümpnern",
+        "Sculptures in Molln",
+        "Molln photographs taken on 2024-07-27",
+        "GLAM on Tour Von Brummeisen und Trümpnern - Wiki Takes Molln",
+        "Austria by Geolina"
+      ],
+      "auteur": "Geolina163",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Molln_Volksschule_Wandrelief.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Molln_Volksschule_Wandrelief.jpg/1280px-Molln_Volksschule_Wandrelief.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4864,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:-2021-01-23 Concrete Block wall, Trimingham, Norfolk.JPG",
+      "description": "Construction of a wall with concrete blocks. Located on a construction site in the village of Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Attribution only license",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2021-01-23",
+        "January 2021 in Norfolk, England",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham",
+        "Concrete block walls in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2021-01-23_Concrete_Block_wall,_Trimingham,_Norfolk.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/-2021-01-23_Concrete_Block_wall%2C_Trimingham%2C_Norfolk.JPG/1280px--2021-01-23_Concrete_Block_wall%2C_Trimingham%2C_Norfolk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Laterite AAC Block Building Coorg Feb24 A7C 09393.jpg",
+      "description": "Building in a coffee estate made of laterite bricks and Autoclaved aerated concrete (AAC) blocks, Balamuri, Coorg, Karnataka, India",
+      "categories": [
+        "Taken with Sony ILCE-7C",
+        "Autoclaved aerated concrete",
+        "Buildings in Kodagu district",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Tagooty",
+        "Kodagu coffee plantations",
+        "Images by User:Tagooty/India",
+        "Laterite bricks",
+        "Buildings in Madikeri"
+      ],
+      "auteur": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk pa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laterite_AAC_Block_Building_Coorg_Feb24_A7C_09393.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Laterite_AAC_Block_Building_Coorg_Feb24_A7C_09393.jpg/1280px-Laterite_AAC_Block_Building_Coorg_Feb24_A7C_09393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5535,
+      "hauteur": 3690
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:-2021-01-22 Cavity wall construction, Trimingham, Norfolk (1).JPG",
+      "description": "Construction of a cavity wall in aerated concrete blocks to the inside and concrete blocks for the outer skin. Located on a construction site in the village of Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Cavity walls",
+        "Attribution only license",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2021-01-22",
+        "January 2021 in Norfolk, England",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham",
+        "Aerated concrete block",
+        "Concrete block walls in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2021-01-22_Cavity_wall_construction,_Trimingham,_Norfolk_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/-2021-01-22_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%281%29.JPG/1280px--2021-01-22_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "poste-a-souder",
+    "terme": "le poste à souder",
+    "categorie": "Chantier et outillage",
+    "definition": "Appareil électrique relié par câbles à une pince porte-électrode, qui fond le métal pour assembler des pièces d'acier.",
+    "priorite": 2,
+    "requetes": [
+      "arc welding machine",
+      "poste à souder",
+      "welding inverter"
+    ],
+    "categoriesCommons": [
+      "Category:Welding machines",
+      "Category:Arc welding"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2014 tram tracks replacement in Tallinn 076.JPG",
+      "description": "Welding station in Tallinn , Estonia",
+      "categories": [
+        "Diesel generators",
+        "Arc welding",
+        "Kitseküla",
+        "Self-published work",
+        "PD-self",
+        "Generator trailers",
+        "Welding machines",
+        "Replacement of tram tracks in Tallinn (2014)"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014_tram_tracks_replacement_in_Tallinn_076.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/2014_tram_tracks_replacement_in_Tallinn_076.JPG/1280px-2014_tram_tracks_replacement_in_Tallinn_076.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Gas cylinders used in arc welding.jpg",
+      "description": "Chez un ferronnier en France, bouteilles de gaz de protection en soudage à l'arc électrique (Arcal MAG d'Air liquide) (N° ONU : 1956), fût bleu, ogive verte, mélange Ar + CO 2 .",
+      "categories": [
+        "Argon",
+        "Arc welding",
+        "Air Liquide",
+        "Gas cylinders",
+        "Self-published work",
+        "Pictures by Cjp24",
+        "Blue and green objects",
+        "Welding equipment"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gas_cylinders_used_in_arc_welding.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Gas_cylinders_used_in_arc_welding.jpg/1280px-Gas_cylinders_used_in_arc_welding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3801,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Welding Machine 001.jpg",
+      "description": "Welding Machine",
+      "categories": [
+        "Welding",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2021-12-14",
+        "Welding machines"
+      ],
+      "auteur": "Shreya.Bhopal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Welding_Machine_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Welding_Machine_001.jpg/1280px-Welding_Machine_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2604,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bamako Welder (48003285183).jpg",
+      "description": "A young man welding items in the Recycling Market in Bamako, Mali. This area is home to hundreds of blacksmiths and metalworkers who break down old metal items and refashion them into new things.",
+      "categories": [
+        "People of Mali",
+        "Arc welding",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Mark Fischer/FischerFotos"
+      ],
+      "auteur": "Mark Fischer",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bamako_Welder_(48003285183).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bamako_Welder_%2848003285183%29.jpg/1280px-Bamako_Welder_%2848003285183%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Old equipment. Dnipro.jpg",
+      "description": "Old equipment",
+      "categories": [
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Generator trailers",
+        "2025 in Dnipro",
+        "Ukraine photographs taken on 2025-08-15",
+        "AMUR (UAmZ) trucks in Ukraine",
+        "Compressed natural gas-powered trucks",
+        "Welding machines"
+      ],
+      "auteur": "Alex Blokha",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_equipment._Dnipro.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Old_equipment._Dnipro.jpg/1280px-Old_equipment._Dnipro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1841,
+      "hauteur": 696
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Hammering out the problem (11594193975).jpg",
+      "description": "Master Sgt. Tim Thornton walks toward arc welding protection drapes with a sledge hammer Aug. 7, 2013, at Joint Base Charleston, S.C. The red drapes protect individuals not wearing a welding shield from the intense light emitted during welding. Thornton is a 437th Maintenance Squadron aircraft metals shop NCO in charge. (U.S. Air Force photo bySenior Airman Dennis Sloan/Released)",
+      "categories": [
+        "Arc welding",
+        "Joint Base Charleston",
+        "Eye protection",
+        "PD US Air Force",
+        "Flickr images reviewed by FlickreviewR",
+        "Red curtains",
+        "Photographs by the United States Air Force"
+      ],
+      "auteur": "US Air Force from USA",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hammering_out_the_problem_(11594193975).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Hammering_out_the_problem_%2811594193975%29.jpg/1280px-Hammering_out_the_problem_%2811594193975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6919,
+      "hauteur": 4912
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "enduit",
+    "terme": "l'enduit",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Couche de mortier appliquée sur un mur pour le protéger et l'aplanir.",
+    "priorite": 1,
+    "requetes": [
+      "rendered wall",
+      "plastered wall exterior",
+      "enduit façade"
+    ],
+    "incompatibles": [
+      "beton",
+      "gobetis"
+    ],
+    "categoriesCommons": [
+      "Category:Plaster"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bezettingswerken is gelijk aan pleister, gips, stukadoor dit wil zeggen uivoeren van deze werken- Niet terug gevonden op wikipedia? Raar? 2013-12-08 02-45.jpg",
+      "description": "Bezettingswerken is gelijk aan pleister, gips, stukadoor dit wil zeggen uivoeren van deze werken. Niet terug gevonden op wikipedia? Raar?",
+      "categories": [
+        "Plaster",
+        "Self-published work",
+        "Uploaded with Mobile/Web",
+        "Mobile uploads lacking EXIF data for camera"
+      ],
+      "auteur": "User:Bezettingswerken abverlinden",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bezettingswerken_is_gelijk_aan_pleister,_gips,_stukadoor_dit_wil_zeggen_uivoeren_van_deze_werken-_Niet_terug_gevonden_op_wikipedia%3F_Raar%3F_2013-12-08_02-45.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bezettingswerken_is_gelijk_aan_pleister%2C_gips%2C_stukadoor_dit_wil_zeggen_uivoeren_van_deze_werken-_Niet_terug_gevonden_op_wikipedia%3F_Raar%3F_2013-12-08_02-45.jpg/1280px-Bezettingswerken_is_gelijk_aan_pleister%2C_gips%2C_stukadoor_dit_wil_zeggen_uivoeren_van_deze_werken-_Niet_terug_gevonden_op_wikipedia%3F_Raar%3F_2013-12-08_02-45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3180,
+      "hauteur": 2385
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cambrian college fireproofing delamination 6.jpg",
+      "description": "Delaminated spray fireproofing at the metal deck, above the dropped ceiling line at Cambrian College, Greater Sudbury, Ontario , Canada . Regular patching would restore the fire-resistance rating.",
+      "categories": [
+        "Structural steel",
+        "Building code violations",
+        "Cambrian College",
+        "Plaster",
+        "Firestops",
+        "Fireproofing",
+        "Self-published work",
+        "PD-self",
+        "Damaged fireproofing"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cambrian_college_fireproofing_delamination_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Cambrian_college_fireproofing_delamination_6.jpg/1280px-Cambrian_college_fireproofing_delamination_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2529,
+      "hauteur": 1548
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Adhesive plaster.jpg",
+      "description": "Plâtre adhésif utilisé pour coller un carrelage s'étant détaché.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "FAL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Plaster",
+        "License migration redundant",
+        "Self-published work",
+        "Plaster textures"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adhesive_plaster.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Adhesive_plaster.jpg/1280px-Adhesive_plaster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1916,
+      "hauteur": 1984
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cisterna za izdelavo fasade.jpg",
+      "description": "Cisterna za izdelavo fasade",
+      "categories": [
+        "Plaster",
+        "Križe, Tržič",
+        "Baumit",
+        "Self-published work",
+        "Construction in Slovenia",
+        "Silos in Slovenia",
+        "Cement silos",
+        "Interchangeable silos"
+      ],
+      "auteur": "MZaplotnik",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cisterna_za_izdelavo_fasade.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Cisterna_za_izdelavo_fasade.jpg/1280px-Cisterna_za_izdelavo_fasade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3101,
+      "hauteur": 4210
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20130610 Zagreb 116.jpg",
+      "description": "2013-06-10 in Zagreb.",
+      "categories": [
+        "Taken with Olympus XZ-2",
+        "Buildings in Zagreb",
+        "Facades",
+        "Empire architecture",
+        "Plaster",
+        "Self-published work",
+        "2013 in Zagreb",
+        "Photographs by Mark Ahsmann"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20130610_Zagreb_116.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/20130610_Zagreb_116.jpg/1280px-20130610_Zagreb_116.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2976,
+      "hauteur": 3968
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Duke of Marlborough memorial shelter (interior) (14138492663).jpg",
+      "description": "Cliveden",
+      "categories": [
+        "Taken with Olympus E-M1",
+        "Plaster",
+        "Blenheim Pavilion, Cliveden",
+        "Flickr images reviewed by FlickreviewR",
+        "Benches in England",
+        "Empty benches in the United Kingdom",
+        "Photographs by James E. Petts"
+      ],
+      "auteur": "James Petts from London, England",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duke_of_Marlborough_memorial_shelter_(interior)_(14138492663).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Duke_of_Marlborough_memorial_shelter_%28interior%29_%2814138492663%29.jpg/1280px-Duke_of_Marlborough_memorial_shelter_%28interior%29_%2814138492663%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    }
+  ]
+}

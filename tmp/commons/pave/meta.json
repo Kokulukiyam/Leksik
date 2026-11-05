@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "pave",
+    "terme": "le pavé",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Bloc de pierre taillée, souvent cubique, juxtaposé à d'autres pour revêtir une rue ou une place.",
+    "priorite": 2,
+    "requetes": [
+      "cobblestone street",
+      "pavé de granit",
+      "incategory:\"Cobblestones\""
+    ],
+    "incompatibles": [
+      "pave-autobloquant"
+    ],
+    "categoriesCommons": [
+      "Category:Cobblestones",
+      "Category:Cobblestone streets"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:5ton limit.jpg",
+      "description": "Weight limit sign",
+      "categories": [
+        "Taken with Sony DSC-P72",
+        "Cobblestones",
+        "English-language signs",
+        "White letter signs",
+        "Photographs taken on 2005-07-11",
+        "Blue and white rectangular signs",
+        "Files tagged CC-by-sa-old",
+        "White on blue signs",
+        "Weight limitation"
+      ],
+      "auteur": "Gordon Joly",
+      "licence": "CC BY-SA 1.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5ton_limit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/5ton_limit.jpg/1280px-5ton_limit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Gdansk stara obrotnica 1.jpg",
+      "description": "Gdańsk - remains of a railway turntable in Chmielna str.",
+      "categories": [
+        "Taken with Olympus SP-500UZ",
+        "Rail transport in Gdańsk",
+        "Chmielna Street in Gdańsk",
+        "Cobblestone streets",
+        "Self-published work",
+        "Rail transport turntables in Poland",
+        "2010 in Gdańsk",
+        "Abandoned rail tracks in Poland",
+        "Photos by User:Andrzej O",
+        "Poland photographs taken on 2010-11-13",
+        "Sett-paved streets",
+        "Cobblestone roads in Gdańsk"
+      ],
+      "auteur": "Andrzej Otrębski",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gdansk_stara_obrotnica_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Gdansk_stara_obrotnica_1.jpg/1280px-Gdansk_stara_obrotnica_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Old Dilijan, Sharambeyan Street, view from the gate into the street, April 2026.jpg",
+      "description": "The \"Old Dilijan\" area on Sharambeyan Street, here with a view from the gate into the street, April 2026.",
+      "categories": [
+        "CC-Zero",
+        "Cobblestone streets",
+        "Self-published work",
+        "Sharambeyan Street in Dilijan"
+      ],
+      "auteur": "Textfabrikant",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_Dilijan,_Sharambeyan_Street,_view_from_the_gate_into_the_street,_April_2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Old_Dilijan%2C_Sharambeyan_Street%2C_view_from_the_gate_into_the_street%2C_April_2026.jpg/1280px-Old_Dilijan%2C_Sharambeyan_Street%2C_view_from_the_gate_into_the_street%2C_April_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Lumang Gapan, Gapan City, Nueva Ecija, April 2023 (3).jpg",
+      "description": "Lumang Gapan, Gapan City, Nueva Ecija, April 2023 (3)",
+      "categories": [
+        "Cobblestone streets",
+        "Self-published work",
+        "Lamp posts in the Philippines",
+        "Buildings in the Philippines photographed in 2023",
+        "Black Mitsubishi station wagons",
+        "Black automobiles in the Philippines",
+        "Photographs by User:Ralffralff",
+        "Philippines photographs taken on 2023-04-08",
+        "Mitsubishi Xpander (2021)",
+        "Philippine Panorama Project/Roads & Transportation",
+        "Philippine Panorama Project/Ancestral Houses",
+        "Lumang Gapan (\"Little Vigan\")",
+        "Philippine Panorama Project/Gapan City, Nueva Ecija"
+      ],
+      "auteur": "Ralff Nestor Nacor",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lumang_Gapan,_Gapan_City,_Nueva_Ecija,_April_2023_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Lumang_Gapan%2C_Gapan_City%2C_Nueva_Ecija%2C_April_2023_%283%29.jpg/1280px-Lumang_Gapan%2C_Gapan_City%2C_Nueva_Ecija%2C_April_2023_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:- Snow covered cobblestone pavement -.jpg",
+      "description": "Snow covered cobblestone pavement",
+      "categories": [
+        "GFDL",
+        "Sett (paving)",
+        "License migration redundant",
+        "Self-published work",
+        "Cobblestones",
+        "Photos by User:Nino Barbieri",
+        "Snowy roads",
+        "Porphyry floors"
+      ],
+      "auteur": "User:Nino Barbieri",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_Snow_covered_cobblestone_pavement_-.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/-_Snow_covered_cobblestone_pavement_-.jpg/1280px--_Snow_covered_cobblestone_pavement_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:The way - Flickr - TheAlieness GiselaGiardino²³.jpg",
+      "description": "Love.",
+      "categories": [
+        "Cobblestones",
+        "Photographs taken on 2005-04-19",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Gisela Giardino from Buenos Aires, Argentina",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_way_-_Flickr_-_TheAlieness_GiselaGiardino%C2%B2%C2%B3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_way_-_Flickr_-_TheAlieness_GiselaGiardino%C2%B2%C2%B3.jpg/1280px-The_way_-_Flickr_-_TheAlieness_GiselaGiardino%C2%B2%C2%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "basalte",
+    "terme": "le basalte",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Roche volcanique très sombre, gris foncé à noire, dure et à grain fin, employée en moellons et en pavés.",
+    "priorite": 2,
+    "requetes": [
+      "basalt stone wall",
+      "basalt masonry",
+      "mur en basalte"
+    ],
+    "incompatibles": [
+      "moellon"
+    ],
+    "categoriesCommons": [
+      "Category:Basalt"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Amygdaloidal basalt 2.jpg",
+      "description": "Amygdaloidal basalt is a vesicular basalt that has had the original vesicles (gas bubbles in lava) subsequently filled with secondary minerals. Stratigraphy: unrecorded (but possibly eroded from the Portage Lake Volcanic Series, Bergland Group, middle Keweenawan Supergroup, upper Mesoproterozoic, 1.093 to 1.097 Ga) Locality: water-worn clast from an unrecorded site (but possibly from the shoreline of Lake Superior)",
+      "categories": [
+        "Basalt",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Amygdaloidal basalt"
+      ],
+      "auteur": "James St. John",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amygdaloidal_basalt_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Amygdaloidal_basalt_2.jpg/1280px-Amygdaloidal_basalt_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2324,
+      "hauteur": 1734
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Basalt boulder, Balcreuchan Port, South Ayrshire.jpg",
+      "description": "Basalt boulder from the dyke, Balcreuchan Port, South Ayrshire.",
+      "categories": [
+        "Basalt",
+        "Balcreuchan Port",
+        "Self-published work",
+        "Scotland photographs taken on 2020-09-23",
+        "September 2020 in South Ayrshire",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Basalt_boulder,_Balcreuchan_Port,_South_Ayrshire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Basalt_boulder%2C_Balcreuchan_Port%2C_South_Ayrshire.jpg/1280px-Basalt_boulder%2C_Balcreuchan_Port%2C_South_Ayrshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3786,
+      "hauteur": 2685
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Basalat 1.jpg",
+      "description": "basalt from Cala Fuili Dorgali",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A530",
+        "Basalt",
+        "Volcanism of Italy",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Rocks in Sardinia",
+        "Vesicles (geology)",
+        "Nature of Dorgali"
+      ],
+      "auteur": "Daniel Ventura",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Basalat_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Basalat_1.jpg/1280px-Basalat_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Badascony basaltorgeln.jpg",
+      "description": "Die Basaltorgeln des Berges Badascony",
+      "categories": [
+        "Badacsony (mountain)",
+        "Balaton-Felvidék National Park",
+        "Taken with Fujifilm FinePix S5700",
+        "CC-Zero",
+        "Basalt",
+        "Geography of Veszprém County",
+        "Self-published work"
+      ],
+      "auteur": "BeOCeKa",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Badascony_basaltorgeln.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Badascony_basaltorgeln.jpg/1280px-Badascony_basaltorgeln.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Aegirin Augit LPL.jpg",
+      "description": "Augit -Kristall mit Kernzone von Aegirin-Augit und Randzone von Titanaugit (Varietät von Augit) in Basalt als Dünnschliff",
+      "categories": [
+        "Basalt",
+        "Augite",
+        "Clinopyroxene",
+        "Self-published work",
+        "Aegirine-augite",
+        "Igneous rocks in thin section"
+      ],
+      "auteur": "Ringwoodit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aegirin_Augit_LPL.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Aegirin_Augit_LPL.jpg/1280px-Aegirin_Augit_LPL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1654,
+      "hauteur": 1103
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Atlantic Puffin Latrabjarg Iceland 03.jpg",
+      "description": "Atlantic Puffin at Látrabjarg, Iceland",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A75",
+        "Basalt",
+        "License migration redundant",
+        "Self-published work",
+        "Files by User:Aconcagua",
+        "Fratercula arctica in Iceland",
+        "Birds at Látrabjarg"
+      ],
+      "auteur": "Aconcagua",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_Latrabjarg_Iceland_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Atlantic_Puffin_Latrabjarg_Iceland_03.jpg/1280px-Atlantic_Puffin_Latrabjarg_Iceland_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

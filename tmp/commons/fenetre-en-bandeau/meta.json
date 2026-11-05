@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "fenetre-en-bandeau",
+    "terme": "la fenêtre en bandeau",
+    "categorie": "Façade et ouvertures",
+    "definition": "Fenêtre horizontale très allongée qui court sur une grande partie de la façade.",
+    "priorite": 2,
+    "requetes": [
+      "ribbon window modernist facade",
+      "fenêtre en bandeau",
+      "strip windows building"
+    ],
+    "incompatibles": [
+      "baie"
+    ],
+    "categoriesCommons": [
+      "Category:Ribbon windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bâtiment artisanal Louis-Hubert porte 19-21.jpg",
+      "description": "Bâtiment artisanal au 2 chemin Louis-Hubert, Petit-Lancy, canton de Genève. Durant la première étape des travaux « Small City ». Portes 19 à 21, façade ouest.",
+      "categories": [
+        "Self-published work",
+        "Petit-Lancy, bâtiment artisanal Louis-Hubert",
+        "Ribbon windows",
+        "Stairs in Lancy"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C3%A2timent_artisanal_Louis-Hubert_porte_19-21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/B%C3%A2timent_artisanal_Louis-Hubert_porte_19-21.jpg/1280px-B%C3%A2timent_artisanal_Louis-Hubert_porte_19-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A classroom in the Faculty of Architecture, FUASK.jpg",
+      "description": "A classroom in the Faculty of Architecture, FUASK",
+      "categories": [
+        "Ceiling fans",
+        "Windows",
+        "Seats",
+        "Classrooms",
+        "Self-published work",
+        "Images taken by Kambai Akau",
+        "Federal University of Applied Sciences Kachia"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_classroom_in_the_Faculty_of_Architecture,_FUASK.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg/1280px-A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7200,
+      "hauteur": 4800
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:500px photo (247983863).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Nuno Borges",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(247983863).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/500px_photo_%28247983863%29.jpeg/1280px-500px_photo_%28247983863%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Farquharson Life Sciences Building York University.jpg",
+      "description": "The Farquharson Life Sciences building at York University",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 70",
+        "License migration redundant",
+        "Self-published work",
+        "Trees in Toronto",
+        "Ribbon windows",
+        "Buildings of York University"
+      ],
+      "auteur": "Theonlysilentbob",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Farquharson_Life_Sciences_Building_York_University.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Farquharson_Life_Sciences_Building_York_University.jpg/1280px-Farquharson_Life_Sciences_Building_York_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2windows.jpg",
+      "description": "Windows in a brick wall",
+      "categories": [
+        "Taken with Canon EOS 350D",
+        "GFDL-1.2",
+        "Windows"
+      ],
+      "auteur": "Jonathunder",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:2windows.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2windows.jpg/1280px-2windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Clichy-92-rue Olof Palme-A02.JPG",
+      "description": "Clichy (Hauts-de-Seine, France) ; rue Olof Palme.",
+      "categories": [
+        "Taken with Olympus E-520",
+        "Self-published work",
+        "Office buildings in Clichy",
+        "Corner buildings in Île-de-France",
+        "Ribbon windows"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clichy-92-rue_Olof_Palme-A02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Clichy-92-rue_Olof_Palme-A02.JPG/1280px-Clichy-92-rue_Olof_Palme-A02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "terme": {
+    "id": "fenetre",
+    "terme": "la fenêtre",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Ouvrage vitré, fixe ou ouvrant, qui ferme une baie pour donner du jour et de l'air.",
+    "priorite": 1,
+    "requetes": [
+      "window frame glass",
+      "fenêtre",
+      "window"
+    ],
+    "categoriesCommons": [
+      "Category:Windows",
+      "Category:Window frames"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2windows.jpg",
+      "description": "Windows in a brick wall",
+      "categories": [
+        "Taken with Canon EOS 350D",
+        "GFDL-1.2",
+        "Windows"
+      ],
+      "auteur": "Jonathunder",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:2windows.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2windows.jpg/1280px-2windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Christmas tree St. Johnsbury Athenaeum St. Johnsbury VT December 2016.jpg",
+      "description": "Decorated, lighted Christmas tree on second floor of St. Johnsbury Athenaeum in St. Johnsbury, Vermont.",
+      "categories": [
+        "Window frames",
+        "St. Johnsbury Athenaeum",
+        "Self-published work",
+        "Christmas trees in Vermont",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Jul 2016 - Jun 2017)",
+        "Files with coordinates missing SDC location of creation",
+        "December 2016 in Vermont",
+        "United States photographs taken on 2016-12-08"
+      ],
+      "auteur": "Artaxerxes",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Christmas_tree_St._Johnsbury_Athenaeum_St._Johnsbury_VT_December_2016.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Christmas_tree_St._Johnsbury_Athenaeum_St._Johnsbury_VT_December_2016.jpg/1280px-Christmas_tree_St._Johnsbury_Athenaeum_St._Johnsbury_VT_December_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A window is covered with plastic wrap.jpg",
+      "description": "A window is covered with plastic wrap while undergoing renovation in a home. The plastic protects the area from dust and debris as work is being done.",
+      "categories": [
+        "Windows",
+        "Renovation",
+        "Self-published work",
+        "Plastic wrap"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_window_is_covered_with_plastic_wrap.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_window_is_covered_with_plastic_wrap.jpg/1280px-A_window_is_covered_with_plastic_wrap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Neustadt an der Donau, ehemaliges Geschäft -- 2026 -- 4154 (bw).jpg",
+      "description": "Former “Karl Menzinger, Interior Design” store, Neustadt an der Donau , Bavaria , Germany",
+      "categories": [
+        "Broken windows in Germany",
+        "Black and white photographs of Germany in the 2020s",
+        "Window frames",
+        "Buildings in Neustadt an der Donau",
+        "ISO speed rating 800",
+        "Photographs with aspect ratio of 13:5",
+        "Self-published work",
+        "Objects with inscriptions in German needing translation",
+        "Information field template with formatting",
+        "Ruins in Bavaria",
+        "Shop signs in Bavaria",
+        "F-number f/8",
+        "Buildings with addresses",
+        "Lens focal length 23 mm",
+        "Former shops in Bavaria",
+        "Exposure time 1/90 sec",
+        "Windows in Landkreis Kelheim",
+        "Changes of XRay's photographs of the recent weeks",
+        "Images by XRay (flat list)",
+        "Uploaded with LrMediaWiki",
+        "4 windows",
+        "Black and white photographs of buildings in Bavaria",
+        "2026 black and white photographs",
+        "1 (house number) in Bavaria",
+        "Shops in Germany photographed in 2026",
+        "Photographs by Dietmar Rabich/Black-and-white photography",
+        "Shops in Lower Bavaria",
+        "Black and white photographs of shops",
+        "Painted signs",
+        "Black and white photographs of windows",
+        "Taken with Fujifilm X-E5",
+        "Bavaria photographs taken on 2026-09-24",
+        "Photographs by Dietmar Rabich/Year/2026",
+        "Taken with Fujinon XF23mm F2.8 R WR",
+        "Signs on buildings in Germany",
+        "Black and white photographs of ruins in Germany",
+        "Photographs by Dietmar Rabich/Architectural photography/Commerce buildings",
+        "Photographs by Dietmar Rabich/Architectural photography/Ruins",
+        "Photographs by Dietmar Rabich/Neustadt an der Donau"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Neustadt_an_der_Donau,_ehemaliges_Gesch%C3%A4ft_--_2026_--_4154_(bw).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Neustadt_an_der_Donau%2C_ehemaliges_Gesch%C3%A4ft_--_2026_--_4154_%28bw%29.jpg/1280px-Neustadt_an_der_Donau%2C_ehemaliges_Gesch%C3%A4ft_--_2026_--_4154_%28bw%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6128,
+      "hauteur": 2367
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:500px photo (105270455).jpeg",
+      "description": "500px provided description: Img 0840 Jpg [#building ,#haus ,#h?tte]",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Elektroll",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(105270455).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/500px_photo_%28105270455%29.jpeg/1280px-500px_photo_%28105270455%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1364,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Frame - 17c - Palace of Tsar Alexey Romanov.jpg",
+      "description": "Frame and crown. North Russia, end of the XVII c. Wood, tin, isinglass; carpentry, casting, colouring, gilding, mounting. Palace of Tsar Alexey Romanov.",
+      "categories": [
+        "CC-Zero",
+        "Window frames",
+        "Self-published work",
+        "Culture of the Tsardom of Russia",
+        "Objects in Palace of Tsar Alexey Romanov"
+      ],
+      "auteur": "Лапоть",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Frame_-_17c_-_Palace_of_Tsar_Alexey_Romanov.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Frame_-_17c_-_Palace_of_Tsar_Alexey_Romanov.jpg/1280px-Frame_-_17c_-_Palace_of_Tsar_Alexey_Romanov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3142,
+      "hauteur": 4348
+    }
+  ]
+}

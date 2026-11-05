@@ -1,0 +1,121 @@
+{
+  "terme": {
+    "id": "gachage",
+    "terme": "le gâchage",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Mélange du ciment, du sable et de l'eau, à la pelle sur le sol ou dans une bétonnière, pour obtenir mortier ou béton.",
+    "priorite": 2,
+    "requetes": [
+      "mixing concrete by hand shovel",
+      "gâchage mortier",
+      "hand mixing mortar ground"
+    ],
+    "incompatibles": [
+      "mortier",
+      "betonniere"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2452Santa Barbara Baliuag, Bulacan 18.jpg",
+      "description": "Santa Barbara Baliuag, Bulacan Concrete hand mixing of cement and sand in stonemasons' construction and maintenance",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Concrete hand mixing",
+        "Files with coordinates missing SDC location of creation",
+        "Philippines photographs taken on 2020-12-18"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2452Santa_Barbara_Baliuag,_Bulacan_18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2452Santa_Barbara_Baliuag%2C_Bulacan_18.jpg/1280px-2452Santa_Barbara_Baliuag%2C_Bulacan_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Hasidim in New York watching construction.jpg",
+      "description": "Pictured during one of my regular jaunts through Williamsburg. I actually stopped to watch some firemen training and when I turned around I saw this unbelievable juxtaposition of life. The boys with the black hats were on their way to temple which was just down the street, the boys working with the shovels were mixing concrete by hand, and laying bricks outside a Jewish building. The picture was taken on a Saturday. I am intrigued about what they found so interesting; working on a saturday, the turbans , the manual labour..... we shall never know.",
+      "categories": [],
+      "auteur": "Seamus Murray",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hasidim_in_New_York_watching_construction.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hasidim_in_New_York_watching_construction.jpg/1280px-Hasidim_in_New_York_watching_construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2700,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Soviet 100mm Mortar.jpg",
+      "description": "The brand-new Museum of the Vietnamese Armed Forces is a stunning new building on a huge site about 5 km west of Hanoi city centre. I hired a taxi for the day for around US$50 to do this and the Airforce and B-52 Victory museums, as there is currently no public transport option to reach all three. Currently (April 2025) only the ground floor is open. There will be three more floors of display galleries above and a top-floor restaurant. Right now, tourist facilities are limited to a small cafe at the gate and no shop! However, the ground floor galleries are simply superb. The left side is devot",
+      "categories": [
+        "Vietnam Military History Museum",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Steve Knight Flickr stream"
+      ],
+      "auteur": "kitmasterbloke",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Soviet_100mm_Mortar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soviet_100mm_Mortar.jpg/1280px-Soviet_100mm_Mortar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3336,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chinese 120mm K55 Mortar.jpg",
+      "description": "The brand-new Museum of the Vietnamese Armed Forces is a stunning new building on a huge site about 5 km west of Hanoi city centre. I hired a taxi for the day for around US$50 to do this and the Airforce and B-52 Victory museums, as there is currently no public transport option to reach all three. Currently (April 2025) only the ground floor is open. There will be three more floors of display galleries above and a top-floor restaurant. Right now, tourist facilities are limited to a small cafe at the gate and no shop! However, the ground floor galleries are simply superb. The left side is devot",
+      "categories": [
+        "Vietnam Military History Museum",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Steve Knight Flickr stream"
+      ],
+      "auteur": "kitmasterbloke",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chinese_120mm_K55_Mortar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Chinese_120mm_K55_Mortar.jpg/1280px-Chinese_120mm_K55_Mortar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4068,
+      "hauteur": 3450
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Residential Elevator in a Modern UAE Building.jpg",
+      "description": "Karsar Elevator & Escalator LLC is a UAE-based vertical transportation company offering elevator and escalator installation, maintenance, repair, modernization, and technical solutions for residential and commercial buildings",
+      "categories": [
+        "Self-published work",
+        "Concrete hand mixing"
+      ],
+      "auteur": "Karsarelevator",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Residential_Elevator_in_a_Modern_UAE_Building.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Residential_Elevator_in_a_Modern_UAE_Building.jpg/1280px-Residential_Elevator_in_a_Modern_UAE_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1672,
+      "hauteur": 941
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2452Santa Barbara Baliuag, Bulacan 21.jpg",
+      "description": "Santa Barbara Baliuag, Bulacan Concrete hand mixing of cement and sand in stonemasons' construction and maintenance",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Concrete hand mixing",
+        "Files with coordinates missing SDC location of creation",
+        "Philippines photographs taken on 2020-12-18"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2452Santa_Barbara_Baliuag,_Bulacan_21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2452Santa_Barbara_Baliuag%2C_Bulacan_21.jpg/1280px-2452Santa_Barbara_Baliuag%2C_Bulacan_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

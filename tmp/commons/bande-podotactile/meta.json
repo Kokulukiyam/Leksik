@@ -1,0 +1,169 @@
+{
+  "terme": {
+    "id": "bande-podotactile",
+    "terme": "la bande podotactile",
+    "categorie": "Escaliers et circulations",
+    "definition": "Bande à plots en relief posée au sol en haut des escaliers pour avertir les personnes malvoyantes.",
+    "priorite": 2,
+    "requetes": [
+      "tactile paving stairs",
+      "bande podotactile",
+      "tactile warning strip stairs"
+    ],
+    "incompatibles": [
+      "marche"
+    ],
+    "categoriesCommons": [
+      "Category:Tactile paving",
+      "Category:Tactile paving in Japan"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Pub Sign-1010084, Cork City, Ireland.jpg",
+      "description": "Bilingual English-Irish language pub sign.",
+      "categories": [
+        "Lanterns in Ireland",
+        "Barrels in Ireland",
+        "Tactile paving",
+        "Inn signs",
+        "Hexagonal lanterns",
+        "Harp of Ireland",
+        "Guinness advertising",
+        "Bilingual English-Irish signs in Ireland",
+        "Beer barrels in the Republic of Ireland",
+        "Name signs in Ireland",
+        "Self-published work",
+        "Electric lanterns",
+        "Raised pedestrian crossings",
+        "Black, blue, white",
+        "Window reflections",
+        "Wooden outdoor benches",
+        "Exterior wall lanterns",
+        "Black and white rectangular signs",
+        "Black awnings",
+        "White letters with black background",
+        "Republic of Ireland photographs taken on 2022-12-20",
+        "Buildings with blue sky background",
+        "Round tables in cafés",
+        "2022 in Cork",
+        "Photographs of signs of Ireland",
+        "Black and white in color photography",
+        "Vintage signs in Ireland",
+        "Wooden beer barrels",
+        "Metal outdoor chairs",
+        "Metal outdoor tables",
+        "Wrought iron lanterns",
+        "Wooden outdoor tables",
+        "Restaurant name signs",
+        "Textile awnings",
+        "Unmarked pedestrian crossings",
+        "Awnings in County Cork",
+        "Insular I",
+        "Murphy's inn signs",
+        "Wall mounted signs in Ireland"
+      ],
+      "auteur": "Mucklagh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pub_Sign-1010084,_Cork_City,_Ireland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Pub_Sign-1010084%2C_Cork_City%2C_Ireland.jpg/1280px-Pub_Sign-1010084%2C_Cork_City%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Manhole cover 20240729 140001.jpg",
+      "description": "A manhole cover in Japan. When the road surface was re-tiled, the surface of the manhole cover was not updated.",
+      "categories": [
+        "Self-published work",
+        "Manhole covers in Japan",
+        "Tactile paving in Japan"
+      ],
+      "auteur": "Ka23 13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Manhole_cover_20240729_140001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Manhole_cover_20240729_140001.jpg/1280px-Manhole_cover_20240729_140001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2056
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Tactile paving on railway station in Zagreb.jpg",
+      "description": "tactile paving on railway station in Zagreb",
+      "categories": [
+        "Tactile paving",
+        "Train station platforms",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2023-10-25"
+      ],
+      "auteur": "Mnalis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tactile_paving_on_railway_station_in_Zagreb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Tactile_paving_on_railway_station_in_Zagreb.jpg/1280px-Tactile_paving_on_railway_station_in_Zagreb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:点字ブロック vs ラバーポール (15387574602).jpg",
+      "description": "ガイドポスト",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Rubber poles in Japan",
+        "Tactile paving in Japan",
+        "Parking meters in Japan",
+        "Green objects in Japan",
+        "Green and white stripes",
+        "Concrete walls in Japan",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "erizof",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E7%82%B9%E5%AD%97%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF_vs_%E3%83%A9%E3%83%90%E3%83%BC%E3%83%9D%E3%83%BC%E3%83%AB_(15387574602).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/%E7%82%B9%E5%AD%97%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF_vs_%E3%83%A9%E3%83%90%E3%83%BC%E3%83%9D%E3%83%BC%E3%83%AB_%2815387574602%29.jpg/1280px-%E7%82%B9%E5%AD%97%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF_vs_%E3%83%A9%E3%83%90%E3%83%BC%E3%83%9D%E3%83%BC%E3%83%AB_%2815387574602%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1368
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Tactile Paving Closeup.jpg",
+      "description": "نمای نزدیک از بافت کفپوش",
+      "categories": [
+        "Tactile paving",
+        "Self-published work"
+      ],
+      "auteur": "KavehN",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tactile_Paving_Closeup.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Tactile_Paving_Closeup.jpg/1280px-Tactile_Paving_Closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1500
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:HK ALC 鴨脷洲 Ap Lei Chau 大街 Main Street January 2021 SS2 130.jpg",
+      "description": "HK ALC 鴨脷洲 Ap Lei Chau 大街 Main Street in January 2021",
+      "categories": [
+        "Tactile paving",
+        "Self-published work",
+        "Blue and purple",
+        "Files with coordinates missing SDC location of creation",
+        "Hong Kong photographs taken on 2021-01-27",
+        "January 2021 in Ap Lei Chau",
+        "Corrugated fiberboard cartons",
+        "2021 in Main Street, Ap Lei Chau",
+        "Red plastic chairs"
+      ],
+      "auteur": "Hoypiwoo Summ",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E5%A4%A7%E8%A1%97_Main_Street_January_2021_SS2_130.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E5%A4%A7%E8%A1%97_Main_Street_January_2021_SS2_130.jpg/1280px-HK_ALC_%E9%B4%A8%E8%84%B7%E6%B4%B2_Ap_Lei_Chau_%E5%A4%A7%E8%A1%97_Main_Street_January_2021_SS2_130.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    }
+  ]
+}

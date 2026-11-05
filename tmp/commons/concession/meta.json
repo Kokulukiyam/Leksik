@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "concession",
+    "terme": "la concession",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Ensemble de cases ou de bâtiments d'une même famille, groupés autour d'une cour et clos par un mur ou une palissade.",
+    "priorite": 2,
+    "requetes": [
+      "family compound Senegal village",
+      "concession village Sénégal",
+      "African compound aerial view"
+    ],
+    "incompatibles": [
+      "case",
+      "crinting"
+    ],
+    "categoriesCommons": [
+      "Category:Villages in Senegal"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Concession sérère traditionnelle à Ndiandiaye.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Culture of Senegal",
+        "World Heritage Sites in Senegal",
+        "Thiès Region",
+        "Self-published work",
+        "Uploaded via Campaign:wlafrica",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check",
+        "Images from Wiki Loves Africa 2026 without categories",
+        "Ndiandiaye"
+      ],
+      "auteur": "CelmaKoumba",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concession_s%C3%A9r%C3%A8re_traditionnelle_%C3%A0_Ndiandiaye.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Concession_s%C3%A9r%C3%A8re_traditionnelle_%C3%A0_Ndiandiaye.jpg/1280px-Concession_s%C3%A9r%C3%A8re_traditionnelle_%C3%A0_Ndiandiaye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Псоралея смолистая (Смолистый клевер) - Bituminaria bituminosa - Arabian pea (Pitch trefoil) - Asphaltklee (28431286415).jpg",
+      "description": "Distribution - South Europe, Crimea, West Syria, Cyprus, Caucasia, Sinai, North Africa, perennial Mediterranean herb species of Fabaceae family. It is easily recognizable by the characteristic smell of bitumen from its leaves, they has strong tar-like characteristic aroma. The aerial parts of Bituminaria bituminosa contains biologically active compounds (pterocarpans bitucarpin A and B) that can be clinically important antineoplastic natural drugs. Распространение - Южная Европа, Крым, Западная Сирия, Кипр, Кавказ, Синай, Северная Африка. Многолетнее средиземноморское травянистое растение семе",
+      "categories": [
+        "Bituminaria bituminosa",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Katya from Moscow, Russia",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%81%D0%BE%D1%80%D0%B0%D0%BB%D0%B5%D1%8F_%D1%81%D0%BC%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%8F_(%D0%A1%D0%BC%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B%D0%B9_%D0%BA%D0%BB%D0%B5%D0%B2%D0%B5%D1%80)_-_Bituminaria_bituminosa_-_Arabian_pea_(Pitch_trefoil)_-_Asphaltklee_(28431286415).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%D0%9F%D1%81%D0%BE%D1%80%D0%B0%D0%BB%D0%B5%D1%8F_%D1%81%D0%BC%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%28%D0%A1%D0%BC%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B%D0%B9_%D0%BA%D0%BB%D0%B5%D0%B2%D0%B5%D1%80%29_-_Bituminaria_bituminosa_-_Arabian_pea_%28Pitch_trefoil%29_-_Asphaltklee_%2828431286415%29.jpg/1280px-%D0%9F%D1%81%D0%BE%D1%80%D0%B0%D0%BB%D0%B5%D1%8F_%D1%81%D0%BC%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%28%D0%A1%D0%BC%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B%D0%B9_%D0%BA%D0%BB%D0%B5%D0%B2%D0%B5%D1%80%29_-_Bituminaria_bituminosa_-_Arabian_pea_%28Pitch_trefoil%29_-_Asphaltklee_%2828431286415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2800,
+      "hauteur": 2177
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Famille de menuiserie traditionnelle au village.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Villages in Senegal",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Uploaded via Campaign:wlafrica",
+        "Carpenters in Senegal",
+        "Images from Wiki Loves Africa 2022 in Senegal",
+        "Images from Wiki Loves Africa 2022 in Thiès Region",
+        "Keur Modou Ndiaye"
+      ],
+      "auteur": "Deyonro23",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Famille_de_menuiserie_traditionnelle_au_village.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Famille_de_menuiserie_traditionnelle_au_village.jpg/1280px-Famille_de_menuiserie_traditionnelle_au_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4554,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Scène de voyage.jpg",
+      "description": "Ceci est une image en rapport avec le thème \" Afrique et Transport \" en/au : Sénégal",
+      "categories": [
+        "Transport in Senegal",
+        "Villages in Senegal",
+        "Images from Wiki Loves Africa 2020",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2020 to check",
+        "Uploaded via Campaign:wlafrica",
+        "White automobiles in Senegal",
+        "Maintenance for Wiki Loves Africa 2020",
+        "Images from Wiki Loves Africa 2020 in Senegal",
+        "Taken with Orange Rise 55"
+      ],
+      "auteur": "Eliotbadou",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sc%C3%A8ne_de_voyage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sc%C3%A8ne_de_voyage.jpg/1280px-Sc%C3%A8ne_de_voyage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Village cotier dans le Parc National de la Langue de Barbarie (PNLB) 01.jpg",
+      "description": "Village cotier dans le Parc National de la Langue de Barbarie (PNLB)",
+      "categories": [
+        "Foresters",
+        "Protected areas of Senegal",
+        "Villages in Senegal",
+        "Self-published work",
+        "Uploaded via Campaign:wle-sn",
+        "Images from Wiki Loves Earth 2024",
+        "Images from Wiki Loves Earth 2024 in Senegal",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Antenna towers in Senegal",
+        "Images from Wiki Loves Earth missing SDC inception"
+      ],
+      "auteur": "6artphotographie",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Village_cotier_dans_le_Parc_National_de_la_Langue_de_Barbarie_(PNLB)_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Village_cotier_dans_le_Parc_National_de_la_Langue_de_Barbarie_%28PNLB%29_01.jpg/1280px-Village_cotier_dans_le_Parc_National_de_la_Langue_de_Barbarie_%28PNLB%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Assiette expo Lyon 1894.jpg",
+      "description": "Souvenir de l'exposition coloniale de Lyon 1894",
+      "categories": [
+        "Villages in Senegal",
+        "Exposition Universelle et Coloniale de Lyon (1894)",
+        "Self-published work",
+        "Taken with Ulefone Power Armor 14"
+      ],
+      "auteur": "KIRIKOO69",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Assiette_expo_Lyon_1894.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Assiette_expo_Lyon_1894.jpg/1280px-Assiette_expo_Lyon_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5120,
+      "hauteur": 3840
+    }
+  ]
+}

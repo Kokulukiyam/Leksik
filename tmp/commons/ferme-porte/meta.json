@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "ferme-porte",
+    "terme": "le ferme-porte",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Mécanisme à bras articulé fixé en haut d'une porte, qui la referme automatiquement.",
+    "priorite": 2,
+    "requetes": [
+      "door closer",
+      "ferme-porte",
+      "overhead door closer"
+    ],
+    "incompatibles": [
+      "porte-coupe-feu"
+    ],
+    "categoriesCommons": [
+      "Category:Door closers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Door closer 1.jpg",
+      "description": "The view of door closer",
+      "categories": [
+        "Door closers",
+        "Self-published work"
+      ],
+      "auteur": "Gausanchennai",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_closer_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Door_closer_1.jpg/1280px-Door_closer_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dørlukker med arm.JPG",
+      "description": "Door closer",
+      "categories": [
+        "Door closers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by User:Cavernia/Locks"
+      ],
+      "auteur": "Cavernia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D%C3%B8rlukker_med_arm.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/D%C3%B8rlukker_med_arm.JPG/1280px-D%C3%B8rlukker_med_arm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gneisenaustraße 1 im Zooviertel von Hannover.jpg",
+      "description": "In dem um die Wende zum 20. Jahrhundert errichteten, später denkmalgeschützten Mehrfamilien-Wohnhaus Gneisenaustraße 1, Teil eines unter Schutz gestellten Bau-Ensembles im Zooviertel von Hannover, findet sich ein von der Firma Johann Detjens in Hannover plakettierter Türschließer der Marke B.K.S. ...",
+      "categories": [
+        "Door closers",
+        "BKS",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (52° N, 9° E)",
+        "Photographs taken on 2026-04-16",
+        "Gneisenaustraße 1 (Hannover)",
+        "Johann Detjens (Hannover)"
+      ],
+      "auteur": "Bernd Schwabe",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gneisenaustra%C3%9Fe_1_im_Zooviertel_von_Hannover.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Gneisenaustra%C3%9Fe_1_im_Zooviertel_von_Hannover.jpg/1280px-Gneisenaustra%C3%9Fe_1_im_Zooviertel_von_Hannover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2252,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Grenoble - le Blount.jpg",
+      "description": "Plaque publicitaire Yale sur une porte d'entrée équipée d'un groom à Grenoble .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 450D",
+        "Door closers",
+        "Buildings in Grenoble",
+        "Yale Lock Company",
+        "License migration redundant",
+        "Taken with Canon EF-S 18-55mm F3.5-5.6 IS",
+        "Self-published work",
+        "Advertisements in France",
+        "Files with coordinates missing SDC location of creation",
+        "Plaques in Grenoble",
+        "Photos by Eusebius - Grenoble"
+      ],
+      "auteur": "Eusebius",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grenoble_-_le_Blount.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Grenoble_-_le_Blount.jpg/1280px-Grenoble_-_le_Blount.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2333,
+      "hauteur": 3500
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A door closer by Dorma in the UK.jpg",
+      "description": "​Dorma門弓器。",
+      "categories": [
+        "Door closers",
+        "Dorma (company)",
+        "Self-published work",
+        "Photographs by Tbatb taken in 2019"
+      ],
+      "auteur": "Tbatb",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_door_closer_by_Dorma_in_the_UK.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/A_door_closer_by_Dorma_in_the_UK.jpg/1280px-A_door_closer_by_Dorma_in_the_UK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Automatic door closer.jpg",
+      "description": "Automatischer Türschließer",
+      "categories": [
+        "Taken with Canon Digital IXUS 80 IS",
+        "Door closers",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Stefan . Original uploader was StefanPohl sur Wikipédia allemand",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Automatic_door_closer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Automatic_door_closer.jpg/1280px-Automatic_door_closer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

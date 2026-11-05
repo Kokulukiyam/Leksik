@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "ampoule",
+    "terme": "l'ampoule",
+    "categorie": "Réseaux et équipements",
+    "definition": "Lampe en verre ou en plastique qu'on visse ou enfiche dans une douille pour éclairer.",
+    "priorite": 1,
+    "requetes": [
+      "light bulb",
+      "ampoule",
+      "LED bulb"
+    ],
+    "categoriesCommons": [
+      "Category:Light bulbs",
+      "Category:Incandescent light bulbs",
+      "Category:LED lamps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:As The Night Comes Streets Start To Light Up (63301697).jpeg",
+      "description": "500px provided description: As The Night Comes Streets Start To Light Up [#people ,#street ,#night ,#light ,#shadow ,#lamp ,#warm ,#old town ,#nightfall ,#casco antiguo ,#casc antic ,#Barcelona]",
+      "categories": [
+        "Light bulbs",
+        "Photos imported with import-500px",
+        "Night in Barcelona"
+      ],
+      "auteur": "Mvlogs96",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:As_The_Night_Comes_Streets_Start_To_Light_Up_(63301697).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/As_The_Night_Comes_Streets_Start_To_Light_Up_%2863301697%29.jpeg/1280px-As_The_Night_Comes_Streets_Start_To_Light_Up_%2863301697%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1361
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:100,000 Watt Light Bulb, Westinghouse Electric, c. 1930 - Museum of Science and Industry (Chicago) - DSC06442.JPG",
+      "description": "Exhibit in the Museum of Science and Industry, Chicago, Illinois, USA. Photography was permitted in the museum without restriction.",
+      "categories": [
+        "Incandescent light bulbs",
+        "Taken with Sony DSC-RX100 III",
+        "CC-Zero",
+        "Self-published work",
+        "Files uploaded by Daderot",
+        "Westinghouse products",
+        "Light bulbs in the Museum of Science and Industry (Chicago)",
+        "100000 W light bulbs"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:100,000_Watt_Light_Bulb,_Westinghouse_Electric,_c._1930_-_Museum_of_Science_and_Industry_(Chicago)_-_DSC06442.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/100%2C000_Watt_Light_Bulb%2C_Westinghouse_Electric%2C_c._1930_-_Museum_of_Science_and_Industry_%28Chicago%29_-_DSC06442.JPG/1280px-100%2C000_Watt_Light_Bulb%2C_Westinghouse_Electric%2C_c._1930_-_Museum_of_Science_and_Industry_%28Chicago%29_-_DSC06442.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2940,
+      "hauteur": 5225
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ampoule (51479799449).jpg",
+      "description": "Ampoule",
+      "categories": [
+        "Light bulbs",
+        "Uploads by Matlin",
+        "Files from Guilhem Vellut Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Guilhem Vellut from Annecy, France",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ampoule_(51479799449).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Ampoule_%2851479799449%29.jpg/1280px-Ampoule_%2851479799449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2015-05-28 22 35 13 An incandescent light bulb on Tranquility Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "description": "An incandescent light bulb on Tranquility Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia",
+      "categories": [
+        "Incandescent light bulbs",
+        "Franklin Farm, Virginia",
+        "Self-published work",
+        "May 2015 in Virginia",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2015-05-28",
+        "Famartin's 2015 photos",
+        "Famartin's May 2015 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2015-05-28_22_35_13_An_incandescent_light_bulb_on_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2015-05-28_22_35_13_An_incandescent_light_bulb_on_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg/1280px-2015-05-28_22_35_13_An_incandescent_light_bulb_on_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A-light-bulb-2021-08-26-15-48-29-utc.jpg",
+      "description": "Rectorado UNEY",
+      "categories": [
+        "Light bulbs",
+        "Self-published work"
+      ],
+      "auteur": "Alvaradorvictorm",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A-light-bulb-2021-08-26-15-48-29-utc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/A-light-bulb-2021-08-26-15-48-29-utc.jpg/1280px-A-light-bulb-2021-08-26-15-48-29-utc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 5616
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Amasra 1260674 nevit.jpg",
+      "description": "Photographs from Amasra",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Light bulbs",
+        "License migration not eligible",
+        "Amasra",
+        "Markets in Turkey",
+        "Shop signs in Turkey",
+        "Turkish-language signs in Turkey",
+        "Self-published work",
+        "Nevit Dilmen"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amasra_1260674_nevit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Amasra_1260674_nevit.jpg/1280px-Amasra_1260674_nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    }
+  ]
+}

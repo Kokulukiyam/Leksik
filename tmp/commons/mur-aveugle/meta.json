@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "mur-aveugle",
+    "terme": "le mur aveugle",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade ou pan de mur entièrement dépourvu d'ouverture.",
+    "priorite": 2,
+    "requetes": [
+      "blank wall building windowless",
+      "mur aveugle",
+      "windowless facade"
+    ],
+    "incompatibles": [
+      "facade",
+      "pignon"
+    ],
+    "categoriesCommons": [
+      "Category:Walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Agra Fort 20180908 142859.jpg",
+      "description": "Agra Fort",
+      "categories": [
+        "Khas Mahal (Agra Fort)",
+        "Walls",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Vengolis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Agra_Fort_20180908_142859.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Agra_Fort_20180908_142859.jpg/1280px-Agra_Fort_20180908_142859.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4048,
+      "hauteur": 3036
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A. B. Chase piano on the wall.jpg",
+      "description": "My great aunt and and uncle gave me this 100+ year old piano. It fits perfectly on this wall. — Chad R. Johnson",
+      "categories": [
+        "Taken with iPhone 5",
+        "Walls",
+        "Living rooms",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Files with coordinates missing SDC location of creation",
+        "A. B. Chase Organ Co.",
+        "Upright pianos by A. B. Chase Organ Co."
+      ],
+      "auteur": "Chad Johnson from Lake Linden, MI, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A._B._Chase_piano_on_the_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/A._B._Chase_piano_on_the_wall.jpg/1280px-A._B._Chase_piano_on_the_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A wall of flowerpots.jpg",
+      "description": "On my way back home and the pots on the wall of a bakery",
+      "categories": [
+        "Taken with Huawei Ascend G600",
+        "Walls",
+        "Flowerpots",
+        "Self-published work"
+      ],
+      "auteur": "Zendegibehtar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_wall_of_flowerpots.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/A_wall_of_flowerpots.jpg/1280px-A_wall_of_flowerpots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:20151021 EST TEKE5 (22191778528).jpg",
+      "description": "NATO photos by Siim Teder Baltic Battalion Lithuanian team soldiers await in position during City Battle Exercise, Trident Juncture 15 at San Gregorio training area, Spain, October 20, 2015.",
+      "categories": [
+        "Windows",
+        "Walls",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by the Allied Joint Force Command Brunssum",
+        "Images uploaded by Revent from Flickr",
+        "Images uploaded by Revent (cleanup)",
+        "Lithuanian military at Trident Juncture 2015",
+        "FN MAG in Lithuanian service",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Allied Joint Force Command Brunssum",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20151021_EST_TEKE5_(22191778528).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/20151021_EST_TEKE5_%2822191778528%29.jpg/1280px-20151021_EST_TEKE5_%2822191778528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4333,
+      "hauteur": 2889
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A wall of sheep's bones, Vaðbrekka. (4558870014).jpg",
+      "description": "Collection : Icelandic and Faroese Photographs of Frederick W.W. Howell, Cornell University Library Title : A wall of sheep's bones, Vaðbrekka. Date : ca. 1900 Place : Jökulsá á Dal (Iceland) Medium : collodion print Repository : Fiske Icelandic Collection, Rare & Manuscript Collections, Cornell University Library Accession : 1923.4.27 Description : A wall of sheep's bones, Vaðbrekka (Jökulsá á Brú. E. Iceland). URL : cidc.library.cornell.edu/howell/intro.asp Persistent URI: hdl.handle.net/1813.001/629n There are no known U.S. copyright restrictions on this image. The digital file is owned by ",
+      "categories": [
+        "Walls",
+        "Bones",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Files with coordinates missing SDC location of creation",
+        "Sheep products",
+        "Objects made of bone",
+        "Cannonbones",
+        "Historical images of Iceland from Cornell University Library (1900s)",
+        "Icelandic and Faroese photographs of Frederick W. W. Howell",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Cornell University Library",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_wall_of_sheep%27s_bones,_Va%C3%B0brekka._(4558870014).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/A_wall_of_sheep%27s_bones%2C_Va%C3%B0brekka._%284558870014%29.jpg/1280px-A_wall_of_sheep%27s_bones%2C_Va%C3%B0brekka._%284558870014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 1250
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alcantara - 3 (131829497).jpg",
+      "description": "My Favorite Disco In Lisbon.",
+      "categories": [
+        "Walls",
+        "Chairs",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Interiors of nightclubs",
+        "Files with coordinates missing SDC location of creation",
+        "Stairs in Lisbon",
+        "Nightclubs in Lisbon",
+        "Files from Ricardo Liberato Flickr stream",
+        "Alcântara (Lisbon)"
+      ],
+      "auteur": "Ricardo Liberato",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alcantara_-_3_(131829497).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Alcantara_-_3_%28131829497%29.jpg/1280px-Alcantara_-_3_%28131829497%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4368,
+      "hauteur": 2912
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "ossature-de-faux-plafond",
+    "terme": "l'ossature de faux plafond",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Réseau de profilés métalliques suspendus qui porte les dalles ou les plaques d'un faux plafond.",
+    "priorite": 1,
+    "requetes": [
+      "suspended ceiling grid",
+      "ossature faux plafond",
+      "ceiling T-bar grid installation"
+    ],
+    "incompatibles": [
+      "faux-plafond"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Andrew Classroom De La Salle University.jpeg",
+      "description": "Typical classroom in Br. Andrew Gonzales Hall",
+      "categories": [
+        "Br. Andrew Gonzalez Hall",
+        "Taken with Canon EOS 40D",
+        "Dropped ceilings",
+        "Attribution only license"
+      ],
+      "auteur": "Malate269",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:Andrew_Classroom_De_La_Salle_University.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Andrew_Classroom_De_La_Salle_University.jpeg/1280px-Andrew_Classroom_De_La_Salle_University.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Carpenters installing ceiling hangers in the future ticketing area of the LIRR Concourse. 09-18-2019 (48766107381).jpg",
+      "description": "Carpenters installing ceiling hangers in the future ticketing area of the LIRR Concourse. 09-18-2019",
+      "categories": [
+        "Dropped ceilings",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "Telescopic vertical lifting platforms",
+        "East Side Access construction/2019/09/20"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpenters_installing_ceiling_hangers_in_the_future_ticketing_area_of_the_LIRR_Concourse._09-18-2019_(48766107381).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Carpenters_installing_ceiling_hangers_in_the_future_ticketing_area_of_the_LIRR_Concourse._09-18-2019_%2848766107381%29.jpg/1280px-Carpenters_installing_ceiling_hangers_in_the_future_ticketing_area_of_the_LIRR_Concourse._09-18-2019_%2848766107381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2016 366 48 Golden (25070127606).jpg",
+      "description": "Foyer, Library and Archives Canada",
+      "categories": [
+        "Dropped ceilings",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Glass ceilings"
+      ],
+      "auteur": "Edna Winti",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_366_48_Golden_(25070127606).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2016_366_48_Golden_%2825070127606%29.jpg/1280px-2016_366_48_Golden_%2825070127606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4807,
+      "hauteur": 3302
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Carpenters continue installation of ceiling panels at the 47th Street node of the future LIRR Concourse. (CM014B, 10-31-2019) (49033699013).jpg",
+      "description": "Carpenters continue installation of ceiling panels at the 47th Street node of the future LIRR Concourse. (CM014B, 10-31-2019)",
+      "categories": [
+        "Dropped ceilings",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/11/08"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carpenters_continue_installation_of_ceiling_panels_at_the_47th_Street_node_of_the_future_LIRR_Concourse._(CM014B,_10-31-2019)_(49033699013).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Carpenters_continue_installation_of_ceiling_panels_at_the_47th_Street_node_of_the_future_LIRR_Concourse._%28CM014B%2C_10-31-2019%29_%2849033699013%29.jpg/1280px-Carpenters_continue_installation_of_ceiling_panels_at_the_47th_Street_node_of_the_future_LIRR_Concourse._%28CM014B%2C_10-31-2019%29_%2849033699013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ceiling installation in the future restrooms of the LIRR passenger concourse. 08-26-2019 (48647824142).jpg",
+      "description": "Ceiling installation in the future restrooms of the LIRR passenger concourse. 08-26-2019",
+      "categories": [
+        "Dropped ceilings",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/08/30"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_installation_in_the_future_restrooms_of_the_LIRR_passenger_concourse._08-26-2019_(48647824142).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ceiling_installation_in_the_future_restrooms_of_the_LIRR_passenger_concourse._08-26-2019_%2848647824142%29.jpg/1280px-Ceiling_installation_in_the_future_restrooms_of_the_LIRR_passenger_concourse._08-26-2019_%2848647824142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Biblioteca Universidad de Montevideo, Uy.2.jpg",
+      "description": "Library Universidad de Montevideo, Uy.2",
+      "categories": [
+        "Dropped ceilings",
+        "Universidad de Montevideo",
+        "Self-published work",
+        "University libraries in Uruguay",
+        "Libraries photographed in 2020",
+        "Interiors of libraries in Uruguay",
+        "Images from No library without a photograph in Spain",
+        "Images from No library without a photograph",
+        "All media supported by Wikimedia España in 2021",
+        "Images from No library without a photograph in Spain uploaded in 2021",
+        "Uploaded via Campaign:nbsf"
+      ],
+      "auteur": "Biblioteca Universidad de Montevideo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Biblioteca_Universidad_de_Montevideo,_Uy.2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Biblioteca_Universidad_de_Montevideo%2C_Uy.2.jpg/1280px-Biblioteca_Universidad_de_Montevideo%2C_Uy.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "terme": {
+    "id": "main-courante",
+    "terme": "la main courante",
+    "categorie": "Escaliers et circulations",
+    "definition": "Barre continue que l'on saisit pour se tenir en montant ou descendant, posée sur la rampe ou fixée au mur.",
+    "priorite": 1,
+    "requetes": [
+      "handrail stairs",
+      "main courante escalier",
+      "wall mounted handrail"
+    ],
+    "incompatibles": [
+      "rampe-d-escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Handrails",
+      "Category:Stair railings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Camion-citerne de bitume (5763399536).jpg",
+      "description": "Renault Midliner M160. Le bitume est transporté à chaud, pour rester liquide et être applicable.",
+      "categories": [
+        "Taken with Pentax Optio 50",
+        "Renault Midliner",
+        "Handrails",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Pictures by Cjp24",
+        "Trucks in Nièvre",
+        "Files with coordinates missing SDC location of creation",
+        "France photographs taken on 2011-05-26",
+        "Renault trucks in France",
+        "Green Renault trucks",
+        "Asphalter trucks in France",
+        "Transport in Donzy"
+      ],
+      "auteur": "Jean-Pierre from Cosne-Cours-sur-Loire (Nièvre, Burgundy region), France",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Camion-citerne_de_bitume_(5763399536).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Camion-citerne_de_bitume_%285763399536%29.jpg/1280px-Camion-citerne_de_bitume_%285763399536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2144,
+      "hauteur": 1568
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:WWW WE DSC01967 (14111846321).jpg",
+      "description": "",
+      "categories": [
+        "Christ Church (Lancaster)",
+        "Media lacking a description",
+        "Stair railings",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Railings in Virginia",
+        "Wooden railings",
+        "Pulpits in Virginia",
+        "Women's Wellness Weekends (Westmoreland State Park)",
+        "Photographs by Virginia State Parks with bad file names"
+      ],
+      "auteur": "vastateparksstaff",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:WWW_WE_DSC01967_(14111846321).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/WWW_WE_DSC01967_%2814111846321%29.jpg/1280px-WWW_WE_DSC01967_%2814111846321%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chateau du Taureau 45.JPG",
+      "description": "Escalier en colimaçon à noyaux central.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot S50",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Château du Taureau",
+        "Spiral stairs with spindel",
+        "Handrails",
+        "License migration redundant",
+        "Self-published work",
+        "Spiral stairs in France",
+        "Files by User:Thesupermat",
+        "Staircases in Finistère"
+      ],
+      "auteur": "Thesupermat",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chateau_du_Taureau_45.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Chateau_du_Taureau_45.JPG/1280px-Chateau_du_Taureau_45.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:160910-F-oc707-402 (29034647524).jpg",
+      "description": "U.S. Air Force Senior Master Sgt. Michael Ross, 592nd Special Operations Maintenance Squadron, carries an American flag up a flight of stairs during a 9/11 Memorial Stair Climb event held at Duke Field, Fla., Sept. 10, 2016. The 24-hour climb began at 8:46 a.m. with the 919th Special Operations Wing commander walking the flag up the outside stairwell of the base’s billeting facility. Wing Airmen took turns walking the flag up and down the stairwell the entire day until it was delivered to a firefighter and security forces color guard at 8:46 a.m. the next morning for a 9/11 Remembrance ceremon",
+      "categories": [
+        "Color guards",
+        "Stair railings",
+        "Stairs in Florida",
+        "September 2016 in Florida",
+        "Duke Field",
+        "PD US Air Force",
+        "Flickr images reviewed by trusted users",
+        "Railings in the United States",
+        "Patriot Day 2016",
+        "Files from Flickr with bad file names",
+        "Photographs by Defense Video and Imagery Distribution System",
+        "United States photographs taken on 2016-09-10",
+        "Photographs by the United States Department of Defense with bad file names",
+        "2016 at Eglin Air Force Base",
+        "Files uploaded by Reguyla with bad file names"
+      ],
+      "auteur": "U.S. Department of Defense Current Photos Samuel King/919th Special Operations Wing",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:160910-F-oc707-402_(29034647524).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/160910-F-oc707-402_%2829034647524%29.jpg/1280px-160910-F-oc707-402_%2829034647524%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 1821
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Accessible toiletblock with ramp and handrail (6253937658).jpg",
+      "description": "Accessible toilet example from Mali Photo by: Hugues Nouvellet - Handicap International For more information please visit: &lt;a href=\" http://drt.handicap-international.fr/nc/fr/accueil/accueil.html \" rel=\"nofollow\"&gt;drt.handicap-international.fr/nc/fr/accueil/accueil.html&lt;/a&gt; &lt;a href=\" http://www.makingitwork-crpd.org/ \" rel=\"nofollow\"&gt;www.makingitwork-crpd.org/&lt;/a&gt; &lt;a href=\" http://www.making-prsp-inclusive.org/fr/accueil.html \" rel=\"nofollow\"&gt;www.making-prsp-inclusive.org/fr/accueil.html&lt;/a&gt;",
+      "categories": [
+        "Taken with Canon EOS 550D",
+        "Handrails",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Disability handrails",
+        "Accessible toilets in Mali",
+        "Photographs by Hugues Nouvellet - Handicap International"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Accessible_toiletblock_with_ramp_and_handrail_(6253937658).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Accessible_toiletblock_with_ramp_and_handrail_%286253937658%29.jpg/1280px-Accessible_toiletblock_with_ramp_and_handrail_%286253937658%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Co-operative Building (51219051019).jpg",
+      "description": "Superb worker figurines support the handrails of the former Newcastle co-op department store, now a Premier Inn.",
+      "categories": [
+        "CC-Zero",
+        "Handrails",
+        "Co-operative building, Newgate Street, Newcastle upon Tyne",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC inception",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Alex Liivet from Chester, United Kingdom",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Co-operative_Building_(51219051019).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Co-operative_Building_%2851219051019%29.jpg/1280px-Co-operative_Building_%2851219051019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1800
+    }
+  ]
+}

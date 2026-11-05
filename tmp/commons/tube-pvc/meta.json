@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "tube-pvc",
+    "terme": "le tube PVC",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau rigide en plastique gris ou blanc utilisé pour l'évacuation des eaux usées et parfois pour l'alimentation en eau.",
+    "priorite": 1,
+    "requetes": [
+      "PVC pipe",
+      "tube PVC évacuation",
+      "PVC pipes construction"
+    ],
+    "incompatibles": [
+      "descente-d-eaux-pluviales"
+    ],
+    "categoriesCommons": [
+      "Category:Plastic pipes",
+      "Category:Pipes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:City of London Cemetery and Crematorium Traditional Crematorium lavatory urinals 01.jpg",
+      "description": "Permissive lavatory block 'Armitage Shanks' brand urinals for visiting public at the Traditional Crematorium East Chapel in the City of London Cemetery , Aldersbrook Road, Newham , England. Camera : Canon EOS 6D Mark II with Canon EF 24-105mm F4L IS USM lens. Software : RAW file lens-corrected, optimized and converted with DxO OpticsPro 11 Elite , and further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Plastic pipes",
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Efflorescence",
+        "Photographs with aspect ratio of 3:2",
+        "Self-published work",
+        "Wall deteriorations",
+        "Peeling paint",
+        "Walls in London",
+        "May 2018 in London",
+        "2018 in the London Borough of Newham",
+        "Toilets (sanitation fixtures)",
+        "Interiors of toilets",
+        "London photographs taken on 2018-05-07",
+        "Acabashi photos: lavatories",
+        "Public urinals",
+        "Lavatories in the City of London Cemetery",
+        "Groups of 2 arranged side by side",
+        "Acabashi photos: City of London Cemetery and Crematorium",
+        "East Chapel, City of London Cemetery",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Rendered walls in England",
+        "Men's toilets",
+        "Urinals in London",
+        "Armitage Shanks",
+        "White ceramics in toilets",
+        "Toilets in London",
+        "Water leakage",
+        "Walls damaged by water"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:City_of_London_Cemetery_and_Crematorium_Traditional_Crematorium_lavatory_urinals_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/City_of_London_Cemetery_and_Crematorium_Traditional_Crematorium_lavatory_urinals_01.jpg/1280px-City_of_London_Cemetery_and_Crematorium_Traditional_Crematorium_lavatory_urinals_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5000,
+      "hauteur": 3333
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:14-48-41-ouv-g.jpg",
+      "description": "Ce fichier a été téléversé avec Commonist . Dans le grand couloir. Salbert hill fortifications. Old NATO station (lightpainting).",
+      "categories": [
+        "Pipes",
+        "Taken with Nikon Coolpix P7000",
+        "Uploaded with Commonist",
+        "Photos by ComputerHotline",
+        "Files with coordinates missing SDC location of creation",
+        "Great underground corridor (Ouvrage \"G\")"
+      ],
+      "auteur": "Thomas Bresson",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:14-48-41-ouv-g.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/14-48-41-ouv-g.jpg/1280px-14-48-41-ouv-g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3508,
+      "hauteur": 2656
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Kształtki hydrauliczne.jpg",
+      "description": "Ekspozycja kształtek hydraulicznych z PCV. Skan z diapozytywu barwnego.",
+      "categories": [
+        "Plastic pipes",
+        "CC-Zero",
+        "Self-published work",
+        "Hydraulical connectors"
+      ],
+      "auteur": "Tomasz Zugaj",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kszta%C5%82tki_hydrauliczne.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kszta%C5%82tki_hydrauliczne.jpg/1280px-Kszta%C5%82tki_hydrauliczne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3131,
+      "hauteur": 2361
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Abandoned plastic woven mesh pipes.jpg",
+      "description": "Abandoned plastic woven mesh pipes",
+      "categories": [
+        "Plastic pipes",
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Fumikas Sagisavas",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abandoned_plastic_woven_mesh_pipes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Abandoned_plastic_woven_mesh_pipes.jpg/1280px-Abandoned_plastic_woven_mesh_pipes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Artery (204477469).jpeg",
+      "description": "500px provided description: Vanne []",
+      "categories": [
+        "Pipes",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Simon Andre",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Artery_(204477469).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Artery_%28204477469%29.jpeg/1280px-Artery_%28204477469%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1356
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Floorheating pipes.jpg",
+      "description": "Floorheating pipes. The Pipes are made of an aluminium-plastic-combination.",
+      "categories": [
+        "Plastic pipes",
+        "Underfloor heating",
+        "Self-published work",
+        "Pipes (transport)",
+        "Aluminium objects"
+      ],
+      "auteur": "Ralph Oesker",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Floorheating_pipes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Floorheating_pipes.jpg/1280px-Floorheating_pipes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    }
+  ]
+}

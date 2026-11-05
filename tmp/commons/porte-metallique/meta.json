@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "porte-metallique",
+    "terme": "la porte métallique",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte en tôle d'acier sur cadre en tubes ou profilés, très utilisée pour les entrées et locaux techniques.",
+    "priorite": 1,
+    "requetes": [
+      "steel door metal",
+      "porte métallique tôle",
+      "metal door"
+    ],
+    "incompatibles": [
+      "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Metal doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bafra kent konseyi.JPG",
+      "description": "Bafra'dan çeşitli görüntüler",
+      "categories": [
+        "Metal doors",
+        "Bafra",
+        "Dogs of Turkey",
+        "Doors in Turkey",
+        "Self-published work",
+        "2 dogs",
+        "Animals of Samsun Province",
+        "Photographs taken by User:Vikiçizer",
+        "Animal photographs by Vikiçizer"
+      ],
+      "auteur": "Vikiçizer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bafra_kent_konseyi.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Bafra_kent_konseyi.JPG/1280px-Bafra_kent_konseyi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:500px photo (68126493).jpeg",
+      "description": "500px provided description: 1840 [#street ,#door ,#sidewalk ,#grunge]",
+      "categories": [
+        "Doors",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Isaac Bowen",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(68126493).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/500px_photo_%2868126493%29.jpeg/1280px-500px_photo_%2868126493%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1366
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Brown metal door in Plaka on 11-28-2023.jpg",
+      "description": "Brown metal door in Plaka.",
+      "categories": [
+        "Metal doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Doors in Athens"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brown_metal_door_in_Plaka_on_11-28-2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Brown_metal_door_in_Plaka_on_11-28-2023.jpg/1280px-Brown_metal_door_in_Plaka_on_11-28-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ancient Gateway (116650393).jpeg",
+      "description": "500px provided description: Ancient Gateway [#city ,#travel ,#door ,#house ,#italy ,#old ,#urban ,#architecture ,#gate ,#building ,#wooden ,#double ,#portal]",
+      "categories": [
+        "Doors",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Maurice Klabbers",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancient_Gateway_(116650393).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ancient_Gateway_%28116650393%29.jpeg/1280px-Ancient_Gateway_%28116650393%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Black metal door in Athens on 12-10-2023.jpg",
+      "description": "Black metal door in Athens.",
+      "categories": [
+        "Metal doors",
+        "Self-published work",
+        "Vandalism in Greece",
+        "Black doors",
+        "Files with coordinates missing SDC location of creation",
+        "Doors in Athens"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Black_metal_door_in_Athens_on_12-10-2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Black_metal_door_in_Athens_on_12-10-2023.jpg/1280px-Black_metal_door_in_Athens_on_12-10-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A person is opening a door to enter a room with soft lighting and wooden floor at home.jpg",
+      "description": "A person stands in a doorway, beginning to open a door to a room. The room has soft lighting and a wooden floor. A feeling of entering a new space is present.",
+      "categories": [
+        "Doors",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg/1280px-A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3885,
+      "hauteur": 5827
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "lit-de-mortier",
+    "terme": "le lit de mortier",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Couche de mortier étalée sur un rang de blocs ou de briques pour poser le rang suivant.",
+    "priorite": 2,
+    "requetes": [
+      "bed of mortar block laying",
+      "lit de mortier",
+      "mortar bed bricklaying"
+    ],
+    "incompatibles": [
+      "mortier",
+      "joint-de-maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Mortar",
+      "Category:Masonry"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A big mortar 01.jpg",
+      "description": "A big Mortar for pounding in Nigeria",
+      "categories": [
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Mortar",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation",
+        "Mentor Me!/2026/Stream 1/Images by mentees"
+      ],
+      "auteur": "Danjuma Anthony",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_big_mortar_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_big_mortar_01.jpg/1280px-A_big_mortar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2580,
+      "hauteur": 1872
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2013, 19th Century Los Angeles Masonry - panoramio.jpg",
+      "description": "2013, 19th Century Los Angeles Masonry",
+      "categories": [
+        "Masonry",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "November 2013 in Los Angeles",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2013-11-19",
+        "Saint James Park, Los Angeles"
+      ],
+      "auteur": "Chris English",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013,_19th_Century_Los_Angeles_Masonry_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2013%2C_19th_Century_Los_Angeles_Masonry_-_panoramio.jpg/1280px-2013%2C_19th_Century_Los_Angeles_Masonry_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Mortar September 2025.jpg",
+      "description": "An old mortar at a village",
+      "categories": [
+        "Cultural heritage monuments in Ghana",
+        "Mortar",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-gh",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in Ghana"
+      ],
+      "auteur": "Knowledge and philosophy",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mortar_September_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Mortar_September_2025.jpg/1280px-Mortar_September_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:20121026 0597 Almada & Cacilhas 10.jpg",
+      "description": "Almada & Cacilhas; 2012-10-26",
+      "categories": [
+        "Taken with Fujifilm FinePix J50",
+        "Almada",
+        "Masonry",
+        "Cacilhas",
+        "Self-published work",
+        "Rendered walls in Portugal",
+        "Photographs by Mark Ahsmann"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20121026_0597_Almada_%26_Cacilhas_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/20121026_0597_Almada_%26_Cacilhas_10.jpg/1280px-20121026_0597_Almada_%26_Cacilhas_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A big mortar.jpg",
+      "description": "A big Mortar for pounding in Nigeria",
+      "categories": [
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Mortar",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation",
+        "Mentor Me!/2026/Stream 1/Images by mentees"
+      ],
+      "auteur": "Danjuma Anthony",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_big_mortar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/A_big_mortar.jpg/1280px-A_big_mortar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2351,
+      "hauteur": 1872
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:\"Quiet Corner,\" John Wesley Baxter house, Dublin and Hill Roads, Greenwich, Connecticut. LOC 7352168816.jpg",
+      "description": "Johnston, Frances Benjamin,, 1864-1952,, photographer. [\"Quiet Corner,\" John Wesley Baxter house, Dublin and Hill Roads, Greenwich, Connecticut. Macaws on terrace in summer] [1920] 1 photograph : glass lantern slide, hand-colored ; 3.25 x 4 in. Notes: Site History. House Architecture: Benjamin William Morris for William Clyde Fitch, completed circa December 1903, with later additions by John Wesley Baxter. Other: The house on seven acres was built for playwright William Clyde Fitch (1865-1909) and inherited by John Wesley Baxter from his father Abram Couch Baxter in 1915. Today: House and gard",
+      "categories": [
+        "Images from the Library of Congress",
+        "Masonry",
+        "Greenwich, Connecticut",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images from Library of Congress",
+        "Files from Flickr's 'The Commons'",
+        "Photographs by Frances Benjamin Johnston",
+        "Sculptures of parrots",
+        "Psittacidae with other species",
+        "Unidentified Ara (captive)",
+        "Garden and historic house lecture series in the Frances Benjamin Johnston Collection (Library of Congress)",
+        "Quiet Corner"
+      ],
+      "auteur": "The Library of Congress",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Quiet_Corner,%22_John_Wesley_Baxter_house,_Dublin_and_Hill_Roads,_Greenwich,_Connecticut._LOC_7352168816.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%22Quiet_Corner%2C%22_John_Wesley_Baxter_house%2C_Dublin_and_Hill_Roads%2C_Greenwich%2C_Connecticut._LOC_7352168816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 841
+    }
+  ]
+}

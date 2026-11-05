@@ -1,0 +1,161 @@
+{
+  "terme": {
+    "id": "toit-conique",
+    "terme": "le toit conique",
+    "categorie": "Toitures",
+    "definition": "Toit en forme de cône qui couvre un bâtiment ou une tour de plan circulaire.",
+    "priorite": 2,
+    "requetes": [
+      "conical roof round hut",
+      "toit conique",
+      "conical tower roof"
+    ],
+    "incompatibles": [
+      "toiture",
+      "case",
+      "chaume"
+    ],
+    "categoriesCommons": [
+      "Category:Cone roofs",
+      "Category:Round roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Melbourne Central Shopping Centre Coop's Shot Tower.jpg",
+      "description": "Coop's Shot Tower",
+      "categories": [
+        "Taken with Canon EOS-1D X",
+        "Cone roofs",
+        "Coop's Shot Tower",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "John Torcasio",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Melbourne_Central_Shopping_Centre_Coop%27s_Shot_Tower.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Melbourne_Central_Shopping_Centre_Coop%27s_Shot_Tower.jpg/1280px-Melbourne_Central_Shopping_Centre_Coop%27s_Shot_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1533,
+      "hauteur": 1022
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Domaine provincial de Chevetogne (DSC02047).jpg",
+      "description": "Body of water in Domaine provincial de Chevetogne, surrounded with tiny houses during the \"Passion Robinson\" festival (Ciney, Belgium)",
+      "categories": [
+        "Lakes of Belgium",
+        "ISO speed rating 100",
+        "Cedar wood",
+        "Domaine provincial de Chevetogne",
+        "Self-published work",
+        "Unassessed QI candidates",
+        "F-number f/10",
+        "Lens focal length 30 mm",
+        "Round roofs",
+        "Uploaded with dtMediaWiki",
+        "Photographs by Trougnouf in 2022",
+        "Files with coordinates missing SDC location of creation (50° N, 5° E)",
+        "Zinc roofs",
+        "Tiny houses",
+        "Taken with Sony ILCE-7C and E 28-200mm F2.8-5.6 A071"
+      ],
+      "auteur": "Trougnouf (Benoit Brummer)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Domaine_provincial_de_Chevetogne_(DSC02047).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Domaine_provincial_de_Chevetogne_%28DSC02047%29.jpg/1280px-Domaine_provincial_de_Chevetogne_%28DSC02047%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6017,
+      "hauteur": 3987
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Red Bull Headquarters 1 (DFdB).JPG",
+      "description": "Le siège social de Red Bull à Fuschl am See (Autriche), dessiné par le sculpteur autrichien Jos Pirkner.",
+      "categories": [
+        "Taken with Nikon D80",
+        "Cone roofs",
+        "Jos Pirkner",
+        "Office buildings in Austria",
+        "Self-published work",
+        "Red Bull Headquarters",
+        "Water reflections of structures in Austria",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Dein Freund der Baum",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Red_Bull_Headquarters_1_(DFdB).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Red_Bull_Headquarters_1_%28DFdB%29.JPG/1280px-Red_Bull_Headquarters_1_%28DFdB%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3819,
+      "hauteur": 2557
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hatvan railway station, underpass, 2017 Hatvan.jpg",
+      "description": "Hatvan railway station, underpass. - Hatvan , Heves County , Hungary .",
+      "categories": [
+        "Hatvan railway station",
+        "Self-published work",
+        "Roofs in Hungary",
+        "Train station underpasses in Hungary",
+        "2017 in rail transport in Hungary",
+        "May 2017 Hungary photographs",
+        "Files with coordinates missing SDC location of creation",
+        "Round roofs",
+        "2017 in Hatvan"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hatvan_railway_station,_underpass,_2017_Hatvan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Hatvan_railway_station%2C_underpass%2C_2017_Hatvan.jpg/1280px-Hatvan_railway_station%2C_underpass%2C_2017_Hatvan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Május 1. park 5, Kegeldach, 2021 Tatabánya-Óváros.jpg",
+      "description": "Roman Catholic Saint Stephen parish Tatabánya-Óváros - 5 Május 1. park beyond the fence, Óváros neighborhood, Tatabánya , Komárom-Esztergom County , Hungary",
+      "categories": [
+        "Cone roofs",
+        "Self-published work",
+        "Roofs in Hungary",
+        "August 2021 Hungary photographs",
+        "Files with coordinates missing SDC location of creation",
+        "2021 in Tatabánya",
+        "Tatabánya–Óváros Plébánia"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:M%C3%A1jus_1._park_5,_Kegeldach,_2021_Tatab%C3%A1nya-%C3%93v%C3%A1ros.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/M%C3%A1jus_1._park_5%2C_Kegeldach%2C_2021_Tatab%C3%A1nya-%C3%93v%C3%A1ros.jpg/1280px-M%C3%A1jus_1._park_5%2C_Kegeldach%2C_2021_Tatab%C3%A1nya-%C3%93v%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Nürnberg - Dach einer alten Litfaßsäule.jpg",
+      "description": "Alte Litfaßsäule, Detail",
+      "categories": [
+        "Roofs in Germany",
+        "Handwerkerhof Nürnberg",
+        "Taken with Fujifilm FinePix S5700",
+        "Self-published work",
+        "PD-self",
+        "Green roofs (color)",
+        "FoP-Germany",
+        "User:Mattes/Contributions/Topics/Germany/Nürnberg",
+        "Work by Mattes 2011",
+        "Round roofs",
+        "File uploads by User:Mattes (flat)",
+        "User:Mattes/Contributions/Topics/Buildings and structures",
+        "Files with coordinates missing SDC location of creation (49° N, 11° E)",
+        "Litfaßsäule Bahnhofsplatz (Nürnberg)"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:N%C3%BCrnberg_-_Dach_einer_alten_Litfa%C3%9Fs%C3%A4ule.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/N%C3%BCrnberg_-_Dach_einer_alten_Litfa%C3%9Fs%C3%A4ule.jpg/1280px-N%C3%BCrnberg_-_Dach_einer_alten_Litfa%C3%9Fs%C3%A4ule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    }
+  ]
+}

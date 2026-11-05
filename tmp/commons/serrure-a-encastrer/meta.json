@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "serrure-a-encastrer",
+    "terme": "la serrure à encastrer",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Serrure logée dans une mortaise taillée dans le chant du vantail, dont on ne voit que la têtière.",
+    "priorite": 2,
+    "requetes": [
+      "mortise lock",
+      "serrure à encastrer",
+      "mortice lock door edge"
+    ],
+    "incompatibles": [
+      "serrure"
+    ],
+    "categoriesCommons": [
+      "Category:Door locks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chevening Flats cupboard latch2.jpg",
+      "description": "Chevening Flats cupboard latch",
+      "categories": [
+        "CC-Zero",
+        "Chevening Flats",
+        "Self-published work",
+        "Door locks",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Siobhan Leachman",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chevening_Flats_cupboard_latch2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Chevening_Flats_cupboard_latch2.jpg/1280px-Chevening_Flats_cupboard_latch2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:ArlandaAirportToiletDoorKnob-1.jpg",
+      "description": "",
+      "categories": [
+        "Stockholm-Arlanda Airport",
+        "Media lacking a description",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Toilets in Sweden",
+        "Door handles in Sweden",
+        "2016 in Stockholm County",
+        "Toilet doors"
+      ],
+      "auteur": "Leon S.K.",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ArlandaAirportToiletDoorKnob-1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ArlandaAirportToiletDoorKnob-1.jpg/1280px-ArlandaAirportToiletDoorKnob-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:\"YKK AP\" lock on a Japanese balcony door, showing all positions - 3.jpg",
+      "description": "Zámek dvří",
+      "categories": [
+        "CC-Zero",
+        "YKK Group",
+        "Self-published work",
+        "Door locks",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Nov 2017-Aug 2019)",
+        "Files with coordinates missing SDC location of creation",
+        "Japan photographs taken on 2018-07-31"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22YKK_AP%22_lock_on_a_Japanese_balcony_door,_showing_all_positions_-_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%22YKK_AP%22_lock_on_a_Japanese_balcony_door%2C_showing_all_positions_-_3.jpg/1280px-%22YKK_AP%22_lock_on_a_Japanese_balcony_door%2C_showing_all_positions_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Balkenschloss Montage.jpg",
+      "description": "Montage eines Panzerschlosses (Querriegelschloss), erster Montageschritt: Schloßdurchführung erstellt und den Grundträger montiert.",
+      "categories": [
+        "Self-published work",
+        "Door locks"
+      ],
+      "auteur": "Miriam Denk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balkenschloss_Montage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Balkenschloss_Montage.jpg/1280px-Balkenschloss_Montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:ArlandaAirportToiletDoorKnob-2.jpg",
+      "description": "",
+      "categories": [
+        "Stockholm-Arlanda Airport",
+        "Media lacking a description",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Toilets in Sweden",
+        "Door handles in Sweden",
+        "2016 in Stockholm County",
+        "Toilet doors"
+      ],
+      "auteur": "Leon S.K.",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ArlandaAirportToiletDoorKnob-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/ArlandaAirportToiletDoorKnob-2.jpg/1280px-ArlandaAirportToiletDoorKnob-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Casemate museum Kornwerderzand, Afsluitdijk (9788118406).jpg",
+      "description": "This was one of the few places that held out against the German invaders in may 1940. Its occupants only surrendered after the Germans bombed Rotterdam on the 14th of may and The Netherlands capitulated on the 15th of may 1940. Nikon D300 with Tokina 11-16 mm 2.8",
+      "categories": [
+        "Taken with Nikon D300",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Door handles in the Netherlands",
+        "Casemates in Kornwerderzand",
+        "Riveted structures",
+        "Photographs by Jeffrey Pardoen",
+        "Iron doors"
+      ],
+      "auteur": "Archangel12",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casemate_museum_Kornwerderzand,_Afsluitdijk_(9788118406).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Casemate_museum_Kornwerderzand%2C_Afsluitdijk_%289788118406%29.jpg/1280px-Casemate_museum_Kornwerderzand%2C_Afsluitdijk_%289788118406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2068,
+      "hauteur": 1374
+    }
+  ]
+}

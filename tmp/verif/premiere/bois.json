@@ -1,0 +1,53 @@
+{
+  "termId": "bois",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan sur la tranche de planches de bois clair empilées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "La Clusaz, France",
+      "note": "Planches de bois nettes, sans ambiguïté."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Scie, équerre et mètre posés sur des bois, couleurs saturées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée, outils au premier plan."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Clous dans un bol sur une planche, couleurs saturées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Les clous dominent."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pile dense de planches de bois brut.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planches de bois en pile, lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vendeurs devant des perches et planches dans une cour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène avec personnes, bois en fond."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne noir et blanc de chantier de sciage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, peu lisible."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "coursive",
+    "terme": "la coursive",
+    "categorie": "Façade et ouvertures",
+    "definition": "Galerie extérieure ouverte, le long d'une façade, qui dessert les logements d'un même étage.",
+    "priorite": 2,
+    "requetes": [
+      "external access gallery apartment block",
+      "coursive immeuble",
+      "deck access housing walkway"
+    ],
+    "incompatibles": [
+      "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Access balconies",
+      "Category:Walkways"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Sabourin-balcon.jpg",
+      "description": "",
+      "categories": [
+        "Taken with Canon PowerShot S45",
+        "FAL",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Hôpital Sabourin",
+        "Access balconies",
+        "Media missing infobox template",
+        "Balconies in Puy-de-Dôme",
+        "Files in need of review (sources)"
+      ],
+      "auteur": "Inconnu",
+      "licence": "FAL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sabourin-balcon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sabourin-balcon.jpg/1280px-Sabourin-balcon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A Winding Path, Buckeye Lake, O. (12840513045).jpg",
+      "description": "Persistent URL: contentdm.lib.muohio.edu//cdm/ref/collection/postcards/id... Subject (TGM): Lakes and ponds; Parks; Walkways;",
+      "categories": [
+        "Walkways",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Bowden Postcard Collection",
+        "Postcards of Buckeye Lake, Ohio"
+      ],
+      "auteur": "Miami University Libraries - Digital Collections",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Winding_Path,_Buckeye_Lake,_O._(12840513045).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/A_Winding_Path%2C_Buckeye_Lake%2C_O._%2812840513045%29.jpg/1280px-A_Winding_Path%2C_Buckeye_Lake%2C_O._%2812840513045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3286,
+      "hauteur": 2065
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pasaje Dáguer. Cartagena. Colombia..jpg",
+      "description": "Ceci est une photo d' un monument colombien portant le numéro",
+      "categories": [
+        "Access balconies",
+        "Sector Antiguo de la ciudad de Cartagena de Indias",
+        "Self-published work",
+        "National monuments in Colombia with known IDs",
+        "Images from Wiki Loves Monuments 2012",
+        "Images from Wiki Loves Monuments 2012 in Colombia",
+        "Taken with Nokia N8",
+        "Buildings in Cartagena, Colombia"
+      ],
+      "auteur": "Kamilokardona",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pasaje_D%C3%A1guer._Cartagena._Colombia..jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Pasaje_D%C3%A1guer._Cartagena._Colombia..jpg/1280px-Pasaje_D%C3%A1guer._Cartagena._Colombia..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:At Lanzarote 2022 198.jpg",
+      "description": "At Lanzarote 2022.",
+      "categories": [
+        "Walkways",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by Mike Peel using an iPhone 12 Mini",
+        "Lava fields in Lanzarote",
+        "Viewpoint of Centro de Visitantes de Mancha Blanca"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_Lanzarote_2022_198.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/At_Lanzarote_2022_198.jpg/1280px-At_Lanzarote_2022_198.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A Green Walkway in Botanical Garden Hyderabad Telangana.jpg",
+      "description": "A green walkway in botanical garden of Hyderabad situated in the middle of busy Hitec city.",
+      "categories": [
+        "Walkways",
+        "Self-published work",
+        "Flora of the Kotla Vijayabhaskara Reddy Botanical Garden"
+      ],
+      "auteur": "Rk20july",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Green_Walkway_in_Botanical_Garden_Hyderabad_Telangana.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/A_Green_Walkway_in_Botanical_Garden_Hyderabad_Telangana.jpg/1280px-A_Green_Walkway_in_Botanical_Garden_Hyderabad_Telangana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2937
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2008-08-19 Duke Tower Hotel and Condominiums.jpg",
+      "description": "Duke Tower Hotel and Condominiums in Durham, North Carolina .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Access balconies",
+        "License migration redundant",
+        "Apartment buildings in North Carolina",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Perspective views in the United States",
+        "Self-published work",
+        "Residential buildings in Durham, North Carolina",
+        "Files with coordinates missing SDC location of creation",
+        "Files by User:Specious"
+      ],
+      "auteur": "Ildar Sagdejev ( Specious )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-08-19_Duke_Tower_Hotel_and_Condominiums.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2008-08-19_Duke_Tower_Hotel_and_Condominiums.jpg/1280px-2008-08-19_Duke_Tower_Hotel_and_Condominiums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "bloc-plein",
+    "terme": "le bloc plein",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Bloc de béton moulé sans alvéoles, plus lourd que le parpaing creux, utilisé en soubassement ou pour les murs très chargés.",
+    "priorite": 2,
+    "requetes": [
+      "solid concrete block",
+      "bloc béton plein",
+      "solid concrete blocks stack"
+    ],
+    "incompatibles": [
+      "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete blocks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Camille Cinder Block Debris.jpg",
+      "description": "The aftermath of Hurricane Camille.",
+      "categories": [
+        "Gulfport, Mississippi",
+        "Concrete blocks",
+        "PD US NOAA",
+        "Effects of Hurricane Camille in Mississippi (state)"
+      ],
+      "auteur": "NOAA",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Camille_Cinder_Block_Debris.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Camille_Cinder_Block_Debris.jpg/1280px-Camille_Cinder_Block_Debris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1804,
+      "hauteur": 1188
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Batako.jpg",
+      "description": "Batako sawijining bahan kanggo gawe wangunan arupa omah, tembok, pager, gudhang, kandhang, lsp. Saiki uwong-uwong luwih seneng migunakake batako tinimbang bata abang, sebab bisa luwih ngirit semen",
+      "categories": [
+        "Construction materials in Indonesia",
+        "Concrete blocks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Dandung Adityo Argo Prasetyo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Batako.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Batako.jpg/1280px-Batako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:-2019-11-29 Block & Beam floor blocks, Trimingham.JPG",
+      "description": "Packs of concrete blocks which are used in the construction of a suspended Beam & Block Floor. These have been delivered to a property in Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Attribution only license",
+        "Images by Kolforn",
+        "November 2019 in Norfolk, England",
+        "United Kingdom photographs taken on 2019-11-29",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2019-11-29_Block_%26_Beam_floor_blocks,_Trimingham.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/-2019-11-29_Block_%26_Beam_floor_blocks%2C_Trimingham.JPG/1280px--2019-11-29_Block_%26_Beam_floor_blocks%2C_Trimingham.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:500px photo (188688289).jpeg",
+      "description": "500px provided description: Untitled [#culture ,#Japan ,#Okinawa]",
+      "categories": [
+        "Kilns in Japan",
+        "Concrete blocks",
+        "Ryukyuan pottery",
+        "Black and white photographs of buildings",
+        "Taken on missing SDC inception",
+        "Black and white photographs of Japan in the 2010s",
+        "December 2015 in Okinawa prefecture",
+        "Photographs taken on 2015-12-10",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names",
+        "Corrugated steel in Japan"
+      ],
+      "auteur": "Chi King",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(188688289).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/500px_photo_%28188688289%29.jpeg/1280px-500px_photo_%28188688289%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1461
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2010-05-08 Feuerwehrhausumbau Weißenburg (1).jpg",
+      "description": "Feuerwehrhausumbau Weißenburg",
+      "categories": [
+        "Images with annotations",
+        "Heating pipelines",
+        "Concrete blocks",
+        "Sawhorses",
+        "Winches",
+        "Self-published work",
+        "Hose towers in Austria",
+        "Austria photographs taken on 2010-05-08",
+        "Lintels in Lower Austria",
+        "Files by User:GT1976 in Frankenfels",
+        "2010 in Frankenfels",
+        "Hilti rotary hammers",
+        "Files by User:GT1976 Fire station Weißenburg",
+        "Feuerwehrhausumbau Weißenburg",
+        "Files by User:GT1976 2010-05-08 Feuerwehrhausumbau Weißenburg"
+      ],
+      "auteur": "Ing. Günter Tuder, A-3213 Frankenfels",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2010-05-08_Feuerwehrhausumbau_Wei%C3%9Fenburg_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2010-05-08_Feuerwehrhausumbau_Wei%C3%9Fenburg_%281%29.jpg/1280px-2010-05-08_Feuerwehrhausumbau_Wei%C3%9Fenburg_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Acaiaca, Brazil (1323340095).jpg",
+      "description": "Acaiaca, Brazil",
+      "categories": [
+        "Acaiaca",
+        "Concrete blocks",
+        "Carts in Brazil",
+        "Farms in Minas Gerais",
+        "2007 in Minas Gerais",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Brazil photographs taken on 2007-09-02",
+        "Flickr images missing SDC published in",
+        "Files with coordinates missing SDC location of creation (21° S, 44° W)"
+      ],
+      "auteur": "Benjamin Thompson from Orlando, FL, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acaiaca,_Brazil_(1323340095).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Acaiaca%2C_Brazil_%281323340095%29.jpg/1280px-Acaiaca%2C_Brazil_%281323340095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    }
+  ]
+}

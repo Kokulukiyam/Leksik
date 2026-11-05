@@ -1,0 +1,53 @@
+{
+  "termId": "porte-fenetre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan sur une porte verte vitrée avec poignée et mention AUTO DOOR.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, porte automatique, pas une porte-fenêtre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte en bois à deux vantaux dans une arche en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte pleine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Planches de bois avec chaîne et cadenas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de porte-fenêtre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade en pierre avec portes bleues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jérusalem",
+      "note": "Portes pleines."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte en bois dans un mur en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte pleine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Atelier de fabrication de portes de train.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de porte-fenêtre."
+    }
+  ]
+}

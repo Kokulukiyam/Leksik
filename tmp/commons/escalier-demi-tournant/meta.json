@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "escalier-demi-tournant",
+    "terme": "l'escalier demi-tournant",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier dont deux volées parallèles montent en sens opposés, reliées par un palier ou des marches tournantes.",
+    "priorite": 2,
+    "requetes": [
+      "U-shaped staircase landing",
+      "escalier demi-tournant",
+      "half turn stairs"
+    ],
+    "incompatibles": [
+      "escalier",
+      "palier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Accès Gare Hauptwache S-Bahn Biebergasse - Francfort-sur-le-Main (DE71) - 2025-11-29 - 5.jpg",
+      "description": "Accès à la gare Hauptwache de la S-Bahn, Biebergasse, Francfort-sur-le-Main.",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 8° E)",
+        "Images by Chabe01 taken with iPhone 16 Pro",
+        "Images of rapid transit by Chabe01",
+        "Images of Frankfurt am Main by Chabe01",
+        "Frankfurt am Main photographs taken on 2025-11-29",
+        "Entrances to Bahnhof Frankfurt (Main) Hauptwache"
+      ],
+      "auteur": "Chabe01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acc%C3%A8s_Gare_Hauptwache_S-Bahn_Biebergasse_-_Francfort-sur-le-Main_(DE71)_-_2025-11-29_-_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Acc%C3%A8s_Gare_Hauptwache_S-Bahn_Biebergasse_-_Francfort-sur-le-Main_%28DE71%29_-_2025-11-29_-_5.jpg/1280px-Acc%C3%A8s_Gare_Hauptwache_S-Bahn_Biebergasse_-_Francfort-sur-le-Main_%28DE71%29_-_2025-11-29_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:BALUSTRADA 075.jpg",
+      "description": "Poręcz schodowa",
+      "categories": [
+        "Taken with Nikon D300",
+        "CC-Zero",
+        "Staircases",
+        "Self-published work",
+        "Curved stairs",
+        "Stair handrails",
+        "Metal handrails"
+      ],
+      "auteur": "Eskatt",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BALUSTRADA_075.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/BALUSTRADA_075.jpg/1280px-BALUSTRADA_075.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:102 University Ave--Palo Alto, CA-Designed by Joseph Bellomo Architects 2014-05-20 21-12.jpg",
+      "description": "102 University Ave. Palo Alto, CA Designed by Joseph Bellomo Architects",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Uploaded with Mobile/Web",
+        "Stairs viewed from above"
+      ],
+      "auteur": "User:Intheknow214",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:102_University_Ave--Palo_Alto,_CA-Designed_by_Joseph_Bellomo_Architects_2014-05-20_21-12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/102_University_Ave--Palo_Alto%2C_CA-Designed_by_Joseph_Bellomo_Architects_2014-05-20_21-12.jpg/1280px-102_University_Ave--Palo_Alto%2C_CA-Designed_by_Joseph_Bellomo_Architects_2014-05-20_21-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Atelier bow wow, four boxes gallery, krabbesholm højskole, skive, denmark 2009 (6253236104).jpg",
+      "description": "four boxes gallery, krabbesholm højskole, skive, denmark 2009. architects: atelier bow-wow, yoshiharu tsukamoto and momoyo kaijima, tokyo. the elegant, ultra-light staircases from atelier bow-wow's japanese houses did not quite survive the translation into danish, but the result remains photogenic.",
+      "categories": [
+        "Staircases",
+        "Stairs in Denmark",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "seier+seier",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atelier_bow_wow,_four_boxes_gallery,_krabbesholm_h%C3%B8jskole,_skive,_denmark_2009_(6253236104).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Atelier_bow_wow%2C_four_boxes_gallery%2C_krabbesholm_h%C3%B8jskole%2C_skive%2C_denmark_2009_%286253236104%29.jpg/1280px-Atelier_bow_wow%2C_four_boxes_gallery%2C_krabbesholm_h%C3%B8jskole%2C_skive%2C_denmark_2009_%286253236104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2944,
+      "hauteur": 4245
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:500px photo (52208392).jpeg",
+      "description": "500px provided description: Untitled [#street]",
+      "categories": [
+        "Stairs",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Carlos Mauricio",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(52208392).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/500px_photo_%2852208392%29.jpeg/1280px-500px_photo_%2852208392%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1325,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:09 Point De Fuite - Vanishing Point 02.jpg",
+      "description": "Défi Challenge",
+      "categories": [
+        "Staircases",
+        "Self-published work"
+      ],
+      "auteur": "Moonlander1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:09_Point_De_Fuite_-_Vanishing_Point_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/09_Point_De_Fuite_-_Vanishing_Point_02.jpg/1280px-09_Point_De_Fuite_-_Vanishing_Point_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "canal-d-eaux-pluviales",
+    "terme": "le canal d'eaux pluviales",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Large canal à ciel ouvert en béton qui traverse un quartier pour évacuer les eaux de pluie, comme on en voit à Dakar.",
+    "priorite": 2,
+    "requetes": [
+      "open storm drain canal concrete",
+      "canal d'évacuation des eaux pluviales Dakar",
+      "open drainage channel city"
+    ],
+    "incompatibles": [
+      "fosse"
+    ],
+    "categoriesCommons": [
+      "Category:Storm drains",
+      "Category:Drainage canals"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:66 inch pipe installation.jpg",
+      "description": "60\" and 66\" pipe installation in Los Mochis, Mexico. Pipe specifications: Ultraflo profile, polymerized and galvanized metal pipe. This picture illustrates some of the installation procedures such as backfill and compaction.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 50D",
+        "License migration redundant",
+        "Pipelines in North America",
+        "Self-published work",
+        "Construction in Mexico",
+        "Storm drains",
+        "Pipelines under construction",
+        "Metal pipes",
+        "Caterpillar 330C"
+      ],
+      "auteur": "Tomas Castelazo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:66_inch_pipe_installation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/66_inch_pipe_installation.jpg/1280px-66_inch_pipe_installation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4691,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Drainage ditch and listed house, Naphegy Street, 2017 Budaörs.jpg",
+      "description": ": Drainage ditch and listed house. - Naphegy Street, Budaörs , Pest County .",
+      "categories": [
+        "Drainage canals",
+        "Self-published work",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "April 2017 Hungary photographs",
+        "Files with coordinates missing SDC location of creation",
+        "Naphegy utca, 1 (Budaörs)",
+        "Canals in Pest County"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drainage_ditch_and_listed_house,_Naphegy_Street,_2017_Buda%C3%B6rs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Drainage_ditch_and_listed_house%2C_Naphegy_Street%2C_2017_Buda%C3%B6rs.jpg/1280px-Drainage_ditch_and_listed_house%2C_Naphegy_Street%2C_2017_Buda%C3%B6rs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Drainage channel workers.jpg",
+      "description": "Image title: Drainage channel workers Image from Public domain images website, http://www.public-domain-image.com/full-image/people-public-domain-images-pictures/male-men-public-domain-images-pictures/drainage-channel-workers.jpg.html",
+      "categories": [
+        "PD US FWS",
+        "Drainage canals",
+        "Images uploaded by Fæ",
+        "Public-domain-image.com"
+      ],
+      "auteur": "U.S. Fish and Wildlife Service",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drainage_channel_workers.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Drainage_channel_workers.jpg/1280px-Drainage_channel_workers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1512,
+      "hauteur": 1011
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fashion-storm-drain.jpg",
+      "description": "A storm drain in downtown Cleveland, Ohio, near Playhouse Square, featuring the words \"Street Fashion Step by Step\" and including illustrations of buttons, scissors, and other sewing implements, and marked \"Mark E Howard\".",
+      "categories": [
+        "Playhouse Square District",
+        "Self-published work",
+        "Storm drains"
+      ],
+      "auteur": "Sumanah",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fashion-storm-drain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Fashion-storm-drain.jpg/1280px-Fashion-storm-drain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2988,
+      "hauteur": 3416
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:LLanyrafon Lake Drainage.jpg",
+      "description": "Ducks on the drainage channel from the boating lake at Llanyrafon near Cwmbran, Wales.",
+      "categories": [
+        "Ditches in Wales",
+        "Drainage canals",
+        "Self-published work",
+        "Anas platyrhynchos (female and male eclipse)",
+        "Cwmbran boating lake"
+      ],
+      "auteur": "WelshDave",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LLanyrafon_Lake_Drainage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/LLanyrafon_Lake_Drainage.jpg/1280px-LLanyrafon_Lake_Drainage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Fishing port of Goyave - Drainage (Sewer Grid).jpg",
+      "description": "Drainage des eaux de ruissellement du port de pêche de Goyave",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Storm drains",
+        "Manhole covers in Guadeloupe",
+        "Files with coordinates missing SDC location of creation",
+        "Image by Filo gèn'",
+        "Drainage pits",
+        "EN 124",
+        "Fishing port of Goyave"
+      ],
+      "auteur": "Filo gèn'",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fishing_port_of_Goyave_-_Drainage_(Sewer_Grid).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Fishing_port_of_Goyave_-_Drainage_%28Sewer_Grid%29.jpg/1280px-Fishing_port_of_Goyave_-_Drainage_%28Sewer_Grid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1534
+    }
+  ]
+}

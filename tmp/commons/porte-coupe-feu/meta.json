@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "porte-coupe-feu",
+    "terme": "la porte coupe-feu",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte qui résiste au feu pendant une durée donnée, munie d'un ferme-porte et souvent d'une plaque signalétique.",
+    "priorite": 2,
+    "requetes": [
+      "fire door sign",
+      "porte coupe-feu",
+      "fire door"
+    ],
+    "incompatibles": [
+      "porte",
+      "porte-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Fire doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fire door label.jpg",
+      "description": "Fire door rating label on a door at the New Carrollton Metro station parking garage.",
+      "categories": [
+        "New Carrollton station",
+        "Fire doors",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Ben Schumin"
+      ],
+      "auteur": "Ben Schumin",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_door_label.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Fire_door_label.jpg/1280px-Fire_door_label.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2892,
+      "hauteur": 1496
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A circular door at Kaymakli Underground City.jpg",
+      "description": "A circular door at Kaymakli Underground City",
+      "categories": [
+        "Doors",
+        "Underground City of Kaymaklı",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Slyronit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_circular_door_at_Kaymakli_Underground_City.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/A_circular_door_at_Kaymakli_Underground_City.jpg/1280px-A_circular_door_at_Kaymakli_Underground_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Art K-s Daimyō The fire door on the 5th floor Daimyō 1-chōme Chūō-ku Fukuoka 20250630.jpg",
+      "description": "Art K's Daimyō: The fire door on the fifth floor (Address: 8-34, Daimyō 1-chōme, Chūō-ku, Fukuoka-shi 8100041, Japan)",
+      "categories": [
+        "Fire doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Art K's Daimyō"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Art_K-s_Daimy%C5%8D_The_fire_door_on_the_5th_floor_Daimy%C5%8D_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250630.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Art_K-s_Daimy%C5%8D_The_fire_door_on_the_5th_floor_Daimy%C5%8D_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250630.jpg/1280px-Art_K-s_Daimy%C5%8D_The_fire_door_on_the_5th_floor_Daimy%C5%8D_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250630.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:5 Porta Blava02.jpg",
+      "description": "això és una prova",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Monblau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5_Porta_Blava02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/5_Porta_Blava02.jpg/1280px-5_Porta_Blava02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1912,
+      "hauteur": 1912
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cff installation.jpg",
+      "description": "DurySystems Type CFF Commercial 3 Hour Fire Door Frame being installed in a fire test sample construction.",
+      "categories": [
+        "GFDL",
+        "Fire doors",
+        "Fire testing",
+        "License migration redundant",
+        "Self-published work",
+        "DuraSystems Barriers Inc.",
+        "Fire door in 4h Durasteel wall"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cff_installation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Cff_installation.jpg/1280px-Cff_installation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2467,
+      "hauteur": 3503
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20260114 The Door.jpg",
+      "description": "Дверь в магазине.",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2026-01-14"
+      ],
+      "auteur": "Sergey A. Demidov / Sergey A. Demidov",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20260114_The_Door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/20260114_The_Door.jpg/1280px-20260114_The_Door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2252,
+      "hauteur": 4000
+    }
+  ]
+}

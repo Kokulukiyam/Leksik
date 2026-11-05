@@ -1,0 +1,177 @@
+{
+  "terme": {
+    "id": "brise-soleil-vertical",
+    "terme": "le brise-soleil vertical",
+    "categorie": "Façade et ouvertures",
+    "definition": "Brise-soleil fait de lames ou ailettes verticales fixes, placées devant la façade pour couper le soleil rasant.",
+    "priorite": 2,
+    "requetes": [
+      "vertical fins sun shading facade",
+      "brise-soleil vertical lames",
+      "vertical louvres building"
+    ],
+    "incompatibles": [
+      "brise-soleil"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Paris, Louvre, Hommes illustres (Gabriel, Pautre) -- 2014 -- 1533.jpg",
+      "description": "Hommes illustres (ici : Ange-Jacques Gabriel et Jean Le Pautre ) dans la cour intérieure, Louvre , Paris , France",
+      "categories": [
+        "Photographs by Dietmar Rabich/Quality images of France",
+        "Base Mérimée",
+        "Taken with Canon EOS 70D",
+        "Monuments historiques inscrits",
+        "Photographs with aspect ratio of 3:2",
+        "Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM",
+        "Frontispieces (architecture)",
+        "Self-published work",
+        "Photographs by Dietmar Rabich/Symmetry impressions",
+        "Objects with inscriptions in French needing translation",
+        "ISO speed rating 160",
+        "Exposure time 1/60 sec",
+        "F-number f/7.1",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Information field template with formatting",
+        "Paris photographs taken on 2014-07-09",
+        "Closed windows in France",
+        "Palais du Louvre in 2014",
+        "Statue of Ange-Jacques Gabriel (Hommes illustres)",
+        "Statue of Jean Le Pautre (Hommes illustres)",
+        "Windows of the Palais du Louvre",
+        "Mérimée with PA parameter",
+        "2014 photographs of Paris",
+        "Cultural heritage monuments in France with known IDs",
+        "Buildings with addresses",
+        "Lens focal length 55 mm",
+        "Photographs by Dietmar Rabich/Quality images of castles",
+        "Changes of XRay's photographs of the recent weeks",
+        "Images by XRay (flat list)",
+        "Photographs by Dietmar Rabich/France",
+        "Photographs by Dietmar Rabich/Medium exposure",
+        "Vertical symmetry impressions",
+        "Symmetry impressions of building details",
+        "Photographs by Dietmar Rabich/Architectural photography",
+        "Window pediments in Paris",
+        "Cross windows in Paris",
+        "Muntin windows in Paris",
+        "Photographs by Dietmar Rabich/Quality images of statues",
+        "Photographs by Dietmar Rabich/Quality images of World Heritage Sites",
+        "Photographs by Dietmar Rabich/Quality images of windows",
+        "Photographs by Dietmar Rabich/Year/2014"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paris,_Louvre,_Hommes_illustres_(Gabriel,_Pautre)_--_2014_--_1533.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Paris%2C_Louvre%2C_Hommes_illustres_%28Gabriel%2C_Pautre%29_--_2014_--_1533.jpg/1280px-Paris%2C_Louvre%2C_Hommes_illustres_%28Gabriel%2C_Pautre%29_--_2014_--_1533.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4801,
+      "hauteur": 3201
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Louvre Room 700.jpg",
+      "description": "",
+      "categories": [
+        "Louvre Museum - Room 700",
+        "Artworks without Wikidata item",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Panoramics of interiors of buildings in Paris",
+        "Vertical panoramic photographs in Paris",
+        "Ceilings of the Palais du Louvre"
+      ],
+      "auteur": "APK",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Louvre_Room_700.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Louvre_Room_700.jpg/1280px-Louvre_Room_700.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3190,
+      "hauteur": 7886
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Palais du Louvre, escalier Henri II, voûte 01.jpg",
+      "description": "Voûte en berceau de l'escalier Henri II.",
+      "categories": [
+        "Escalier Henri II (Louvre)",
+        "Taken with Canon EOS 600D",
+        "Taken with Canon EF 28mm F1.8",
+        "Self-published work",
+        "Created with Hugin",
+        "Artworks with Wikidata item",
+        "Files by User:Coyau",
+        "Information field template with formatting",
+        "Stitched panoramics in Paris",
+        "Artworks with Wikidata item missing genre",
+        "Panoramics of interiors of buildings in Paris",
+        "Vertical panoramic photographs in Paris",
+        "Wikipedia takes the Louvre/0"
+      ],
+      "auteur": "Coyau",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Palais_du_Louvre,_escalier_Henri_II,_vo%C3%BBte_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Palais_du_Louvre%2C_escalier_Henri_II%2C_vo%C3%BBte_01.jpg/1280px-Palais_du_Louvre%2C_escalier_Henri_II%2C_vo%C3%BBte_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5000,
+      "hauteur": 8060
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Museum Brandhorst June 2014 01.JPG",
+      "description": "Museum Brandhorst , Munich . The building with its long, two-storey, rectangular structure and multi-coloured facade composed of 36,000 vertical ceramic louvres in 23 different coloured glazes was created by architects Sauerbruch Hutton and is located next to the Pinakothek der Moderne in the city's Kunstareal .",
+      "categories": [
+        "Taken with Canon EOS 5D Mark III",
+        "Museum Brandhorst",
+        "Taken with Canon EF 17-40mm F4L USM",
+        "Self-published work",
+        "Featured Pictures by Martin Falbisoner",
+        "Featured pictures of Munich",
+        "Munich photographs taken on 2014-06-07",
+        "Blue sky in Bavaria",
+        "Files with coordinates missing SDC location of creation (48° N, 11° E)"
+      ],
+      "auteur": "Martin Falbisoner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Museum_Brandhorst_June_2014_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Museum_Brandhorst_June_2014_01.JPG/1280px-Museum_Brandhorst_June_2014_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3340,
+      "hauteur": 2492
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Museum Brandhorst June 2014 02.JPG",
+      "description": "The Museum Brandhorst was opened in Munich on May 21, 2009. It displays about 200 exhibits from the collection of modern art of the heirs of the Henkel trust, Udo Fritz-Hermann and Anette Brandhorst. The building with its long, two-storey, rectangular structure and multi-coloured facade composed of 36,000 vertical ceramic louvres in 23 different coloured glazes was created by architects Sauerbruch Hutton and is located next to the Pinakothek der Moderne in the Kunstareal . The building has three exhibition areas which are connected by stairs.",
+      "categories": [
+        "High-tech architecture in Germany",
+        "Museum Brandhorst",
+        "Self-published work",
+        "Munich photographs taken on 2014-06-07",
+        "Blue sky in Bavaria",
+        "Files with coordinates missing SDC location of creation (48° N, 11° E)"
+      ],
+      "auteur": "Martin Falbisoner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Museum_Brandhorst_June_2014_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Museum_Brandhorst_June_2014_02.JPG/1280px-Museum_Brandhorst_June_2014_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3523,
+      "hauteur": 2797
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Brasshouse Lane, Smethwick - Smethwick New Pumping House (38343824431).jpg",
+      "description": "Another look at the Smethwick New Pumping House from Brasshouse Lane, Smethwick. Between the Birmingham Canal Navigations new main line (left) and old main line (right). Smethwick New Pumping House now houses the &lt;a href=\" https://en.wikipedia.org/wiki/Galton_Valley_Canal_Heritage_Centre \" rel=\"noreferrer nofollow\"&gt;Galton Valley Canal Heritage Centre&lt;/a&gt;. It is Grade II listed. &lt;a href=\" http://www.britishlistedbuildings.co.uk/en-219213-smethwick-new-pumping-house-approximatel \" rel=\"noreferrer nofollow\"&gt;Smethwick New Pumping House Approximately 50 Metres North West of Brassh",
+      "categories": [
+        "Buildings in Wolverhampton",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brasshouse_Lane,_Smethwick_-_Smethwick_New_Pumping_House_(38343824431).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Brasshouse_Lane%2C_Smethwick_-_Smethwick_New_Pumping_House_%2838343824431%29.jpg/1280px-Brasshouse_Lane%2C_Smethwick_-_Smethwick_New_Pumping_House_%2838343824431%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

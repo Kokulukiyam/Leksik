@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "joint-de-fractionnement",
+    "terme": "le joint de fractionnement",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Trait scié ou rainure tracée dans un dallage ou une chape pour découper la surface en panneaux et maîtriser la fissuration.",
+    "priorite": 2,
+    "requetes": [
+      "saw cut control joint concrete slab",
+      "joint de fractionnement dallage",
+      "control joints concrete floor"
+    ],
+    "incompatibles": [
+      "dallage",
+      "chape"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Durch Wurzeln einer Pappel zerstörte Betonplatten eines Innenhofes, Köln-Wahnheide.jpg",
+      "description": "Concrete slabs destroyed by tree roots",
+      "categories": [
+        "Concrete slabs",
+        "Self-published work"
+      ],
+      "auteur": "Gordito1869",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Durch_Wurzeln_einer_Pappel_zerst%C3%B6rte_Betonplatten_eines_Innenhofes,_K%C3%B6ln-Wahnheide.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Durch_Wurzeln_einer_Pappel_zerst%C3%B6rte_Betonplatten_eines_Innenhofes%2C_K%C3%B6ln-Wahnheide.jpg/1280px-Durch_Wurzeln_einer_Pappel_zerst%C3%B6rte_Betonplatten_eines_Innenhofes%2C_K%C3%B6ln-Wahnheide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2856
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cemento stampato.jpg",
+      "description": "pavimento in cemento stampato",
+      "categories": [
+        "Concrete slabs",
+        "Self-published work"
+      ],
+      "auteur": "Cemento stampato",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cemento_stampato.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Cemento_stampato.jpg/1280px-Cemento_stampato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5312,
+      "hauteur": 2988
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Commonwealth Avenue Bridge, August 7, 2017 (35622268293).jpg",
+      "description": "MassDOT has announced that crews will return I-90 (the Massachusetts Turnpike) in Boston to its normal configuration of four lanes of traffic in each direction by 5 a.m., Monday, August 7, almost three weeks faster than originally scheduled as part of the Commonwealth Avenue Bridge Project. The schedule for completing the remaining construction work and the other travel impacts remain unchanged; crews are on schedule, and as detailed below, impacts to travel along Commonwealth Avenue and local roadways, as wells as service impacts to the MBTA’s Green Line B-Branch and bus routes are expected t",
+      "categories": [
+        "Concrete slabs",
+        "PD-MAGov",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from the MassDOT flickr stream needing curation",
+        "Commonwealth Avenue bridge replacement, 2017-2018"
+      ],
+      "auteur": "MassDOT",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Commonwealth_Avenue_Bridge,_August_7,_2017_(35622268293).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Commonwealth_Avenue_Bridge%2C_August_7%2C_2017_%2835622268293%29.jpg/1280px-Commonwealth_Avenue_Bridge%2C_August_7%2C_2017_%2835622268293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1720,
+      "hauteur": 1147
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:19870724020NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße / Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Hier: WBS 70 Plattenbau Außenwandentwicklung. [R19870724A05.jpg]19870724020NR.JPG(c)Blobelt",
+      "categories": [
+        "Facades in Germany",
+        "WBS 70",
+        "Concrete slabs",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Concrete panels",
+        "Concrete architectural elements in the German Democratic Republic"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724020NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/19870724020NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724020NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2840
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Coulage de la dalle béton d'une maison individuelle (MAISON CMI).jpg",
+      "description": "Coulage de la dalle en béton d'une maison individuelle en Centre-Val de Loire : camion toupie équipé d'une goulotte devant les murs de soubassement.",
+      "categories": [
+        "Concrete slabs",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Pouring concrete",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "House construction in France"
+      ],
+      "auteur": "MAISON CMI",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coulage_de_la_dalle_b%C3%A9ton_d%27une_maison_individuelle_(MAISON_CMI).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Coulage_de_la_dalle_b%C3%A9ton_d%27une_maison_individuelle_%28MAISON_CMI%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 31.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "Concrete slabs",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_31.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_31.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

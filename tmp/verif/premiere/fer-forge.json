@@ -1,0 +1,58 @@
+{
+  "termId": "fer-forge",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grille ancienne de clôture funéraire en fer, avec pointes de lance, croix fleuronnées et volutes, couverte de mousse.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres, volutes et pointes typiques du fer forgé, plan rapproché clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade de chapelle en brique devant laquelle se dresse un portail à deux battants en fer, avec volutes et frise basse.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.25,
+        "y": 0.52,
+        "largeur": 0.52,
+        "hauteur": 0.45
+      },
+      "lieu": "Auby, France",
+      "note": "Portail ouvragé en fer forgé, encadré pour lever l'ambiguïté avec la façade."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maison italianate en noir et blanc avec porche à dentelle de fer et clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, fer trop petit, vieille photo."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue sur un château à travers un vitrail en losanges plombés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plomb et verre, pas du fer forgé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Portail ancien à deux battants noirs devant un portail d'église en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fer peu visible, portail simple."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Lit d'hôpital blanc sur fond vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

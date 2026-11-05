@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "bulldozer",
+    "terme": "le bulldozer",
+    "categorie": "Chantier et outillage",
+    "definition": "Engin sur chenilles muni à l'avant d'une large lame qui pousse et étale la terre.",
+    "priorite": 2,
+    "requetes": [
+      "bulldozer",
+      "bouteur",
+      "incategory:\"Bulldozers\""
+    ],
+    "categoriesCommons": [
+      "Category:Bulldozers",
+      "Category:Caterpillar bulldozers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Aveling-Barford Calfdozer at Belvoir 2008.jpg",
+      "description": "An Aveling-Barford Calfdozer compact bulldozer at Belvoir Castle Steam Festival 2008, England",
+      "categories": [
+        "Bulldozers",
+        "Files from external sources with reviewed licenses",
+        "Self-published work",
+        "Files by BulldozerD11",
+        "Aveling-Barford vehicles"
+      ],
+      "auteur": "BulldozerD11",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aveling-Barford_Calfdozer_at_Belvoir_2008.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Aveling-Barford_Calfdozer_at_Belvoir_2008.jpg/1280px-Aveling-Barford_Calfdozer_at_Belvoir_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bulldozers2012-Shoam 0057a.jpg",
+      "description": "Bulldozers and other heavy equipment park near the Baraket quarry, Israel",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ50",
+        "Self-published work",
+        "Construction vehicles in Israel",
+        "Caterpillar bulldozers",
+        "JCB excavators"
+      ],
+      "auteur": "MathKnight",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bulldozers2012-Shoam_0057a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Bulldozers2012-Shoam_0057a.jpg/1280px-Bulldozers2012-Shoam_0057a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 1844
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Building the defenses (5496570).jpg",
+      "description": "A U.S. Army Soldier with Apache Troop Res, 2nd Cavalry Regiment digs defense obstacles with a D6 dozer on June 16, 2019, during Operation Saber Guardian 19, at Cincu, Romania. The engineers spent the day building defensive obstacles in preparation for a force-on-force training exercise against the Romania army. Saber Guardian 2019 is an exercise co-led by Romanian Land Forces and U.S. Army Europe, taking place from June 3-24, to enhance joint and combined interoperability across a variety of mission sets between Bulgaria, Hungary, Romania, the U.S. NATO allies and Partnership for Peace Nations",
+      "categories": [
+        "PD US Army",
+        "Bulldozers",
+        "Files created by the United States Army with known IDs",
+        "Romania photographs taken on 2019-06-16",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, Romania (review needed)",
+        "Military engineering vehicles of the United States",
+        "Saber Guardian 2019"
+      ],
+      "auteur": "U.S. Army 412TEC by Maj. Thomas Piernicky",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_the_defenses_(5496570).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Building_the_defenses_%285496570%29.jpg/1280px-Building_the_defenses_%285496570%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:279851-ccc-building-road-ochnf-1933 21851204208 o (50428825582).jpg",
+      "description": "ECW Camp Rock Creek (Ranger) July 20. Road construction, Wolf Creek Road. Pushing trees over with Caterpillar 75. Driver W. R. Coontz.",
+      "categories": [
+        "1933 in Oregon",
+        "Ochoco National Forest",
+        "PD USDA",
+        "Flickr images missing SDC creator",
+        "Men at work in Oregon",
+        "Black and white photographs of Oregon",
+        "Roadworks in Oregon",
+        "People with machines",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Caterpillar bulldozers",
+        "United States photographs taken on 2020-10-06",
+        "Files from U.S. Department of Agriculture Flickr stream",
+        "U.S. Department of Agriculture Flickr files uploaded by OptimusPrimeBot",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "USDAgov",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:279851-ccc-building-road-ochnf-1933_21851204208_o_(50428825582).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/279851-ccc-building-road-ochnf-1933_21851204208_o_%2850428825582%29.jpg/1280px-279851-ccc-building-road-ochnf-1933_21851204208_o_%2850428825582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1352,
+      "hauteur": 1112
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:14Dec05Low9JourdnICanalBulldozerN.jpg",
+      "description": "New Orleans after Hurricane Katrina . Lower 9th Ward flood devastated residential neighborhood; Bulldozer working on fill in Industrial Canal levee breach looking north towards Florida Avenue Bridge.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 50",
+        "Bulldozers",
+        "Industrial Canal",
+        "Florida Avenue Bridge",
+        "License migration opt-out",
+        "Self-published work",
+        "December 2005 in the Lower 9th Ward of New Orleans"
+      ],
+      "auteur": "Infrogmation",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:14Dec05Low9JourdnICanalBulldozerN.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/14Dec05Low9JourdnICanalBulldozerN.jpg/1280px-14Dec05Low9JourdnICanalBulldozerN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20180930 FS BTNF CJC DozerOperations RooseveltFire 1.jpg",
+      "description": "On the Roosevelt Fire; the dozer boss and dozer operator discuss their next move after cutting a fire break in front of the oncoming fire. Roosevelt Fire, Bridger-Teton National Forest. Forest Service photo by Chris J. Colt",
+      "categories": [
+        "PD US USDA FS",
+        "Forest fires",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Caterpillar bulldozers",
+        "Files from the U.S. Forest Service Intermountain Region Flickr stream",
+        "Roosevelt Fire (2018)"
+      ],
+      "auteur": "Intermountain Forest Service, USDA Region 4 Photography",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:20180930_FS_BTNF_CJC_DozerOperations_RooseveltFire_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/20180930_FS_BTNF_CJC_DozerOperations_RooseveltFire_1.jpg/1280px-20180930_FS_BTNF_CJC_DozerOperations_RooseveltFire_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

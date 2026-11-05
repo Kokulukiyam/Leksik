@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "douche-a-l-italienne",
+    "terme": "la douche à l'italienne",
+    "categorie": "Réseaux et équipements",
+    "definition": "Douche de plain-pied sans receveur, dont le sol carrelé est en légère pente vers un siphon ou un caniveau.",
+    "priorite": 2,
+    "requetes": [
+      "walk-in shower tiled floor",
+      "douche à l'italienne",
+      "curbless shower"
+    ],
+    "incompatibles": [
+      "receveur-de-douche",
+      "siphon-de-sol"
+    ],
+    "categoriesCommons": [
+      "Category:Showers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:0005 Casa de Santos Dumont.JPG",
+      "description": "Santos Dumont's House : Shower and domestic boiler",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix AV150",
+        "Showers",
+        "License migration redundant",
+        "Self-published work",
+        "Domestic boilers",
+        "Brazil photographs taken on 2011-05-21",
+        "Interior of Museu Casa de Santos Dumont"
+      ],
+      "auteur": "Eugenio Hansen, OFS",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0005_Casa_de_Santos_Dumont.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/0005_Casa_de_Santos_Dumont.JPG/1280px-0005_Casa_de_Santos_Dumont.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3216,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Casa Loma PC210022.JPG",
+      "description": "A bathroom in Casa Loma",
+      "categories": [
+        "Taken with Olympus X-550 / D-545Z / C-480Z",
+        "Showers",
+        "Attribution only license",
+        "Bathroom of Henry Pellatt, Casa Loma"
+      ],
+      "auteur": "Deror avi",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Loma_PC210022.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Casa_Loma_PC210022.JPG/1280px-Casa_Loma_PC210022.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1712,
+      "hauteur": 2288
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Banaue Philippines Combined-toilet-and-shower-01.jpg",
+      "description": "Banaue, Philippines: Typical combined toilet and shower room in the Philippines, sometimes also referred as \"elephant shower\"",
+      "categories": [
+        "Taken with Sony DSLR-A700",
+        "Showers",
+        "Banaue",
+        "Self-published work",
+        "Information field template with formatting",
+        "Toilets in the Philippines",
+        "Images by Cccefalon",
+        "Files with coordinates missing SDC location of creation",
+        "Bathrooms in the 2000s",
+        "Philippines photographs taken on 2008-11-08",
+        "Toilets in the 2000s",
+        "Images of the Philippines by User:Cccefalon"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Combined-toilet-and-shower-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Banaue_Philippines_Combined-toilet-and-shower-01.jpg/1280px-Banaue_Philippines_Combined-toilet-and-shower-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3161,
+      "hauteur": 2443
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Amorella 20220526 - Viking Line - 20220527 - 11.jpg",
+      "description": "Viking Line-fartyget Amorella, den 27 maj 2022. Duschar hos herrarna i Sauna",
+      "categories": [
+        "Showers",
+        "Self-published work",
+        "Interior of Amorella (ship, 1988)"
+      ],
+      "auteur": "AleWi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amorella_20220526_-_Viking_Line_-_20220527_-_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Amorella_20220526_-_Viking_Line_-_20220527_-_11.jpg/1280px-Amorella_20220526_-_Viking_Line_-_20220527_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Antique shower taps - Casa Loma.jpg",
+      "description": "Casa Loma, Toronto, Ontario, Canada",
+      "categories": [
+        "Taken with Canon PowerShot S95",
+        "Showers",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Thomas Quine",
+        "Bathroom of Henry Pellatt, Casa Loma"
+      ],
+      "auteur": "Thomas Quine",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_shower_taps_-_Casa_Loma.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Antique_shower_taps_-_Casa_Loma.jpg/1280px-Antique_shower_taps_-_Casa_Loma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Casa Loma, Toronto Laslovarga20.JPG",
+      "description": "Casa Loma, Toronto",
+      "categories": [
+        "Taken with Nikon Coolpix L110",
+        "Showers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Bathroom of Henry Pellatt, Casa Loma"
+      ],
+      "auteur": "Laslovarga",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Loma,_Toronto_Laslovarga20.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Casa_Loma%2C_Toronto_Laslovarga20.JPG/1280px-Casa_Loma%2C_Toronto_Laslovarga20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    }
+  ]
+}

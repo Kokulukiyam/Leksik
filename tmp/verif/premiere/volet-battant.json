@@ -1,0 +1,63 @@
+{
+  "termId": "volet-battant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade en brique à Amsterdam dont tous les volets pleins rouges sont ouverts, rabattus contre le mur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.4,
+        "largeur": 0.3,
+        "hauteur": 0.34
+      },
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Volets pleins à un vantail sur gonds, très lisibles ; rectangle sur une travée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Devanture polonaise avec grands volets rouges ouverts, enseigne et panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets utilisés comme présentoirs, texte visible, peu clair."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade en brique rouge avec volets bleus à lames, fenêtre en haut et porte-fenêtre en bas.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.58,
+        "y": 0.6,
+        "largeur": 0.21,
+        "hauteur": 0.4
+      },
+      "lieu": "Amiens, France",
+      "note": "Volets battants à deux vantaux fermés sur la baie basse ; rectangle sur la paire du bas."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan de lames horizontales peintes d'un rideau métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rideau métallique, pas un volet battant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade en brique avec balcons et volets blancs persiennés ouverts de part et d'autre de la fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Correct mais image chargée (balcon) ; mieux vaut les deux autres."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux panneaux de bois sombre posés contre un mur de pierre, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volet déposé, pas en situation, image noir et blanc."
+    }
+  ]
+}

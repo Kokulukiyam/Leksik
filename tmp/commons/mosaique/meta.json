@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "mosaique",
+    "terme": "la mosaïque",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Revêtement fait de petits fragments de pierre, de céramique ou de verre assemblés.",
+    "priorite": 2,
+    "requetes": [
+      "mosaic wall",
+      "mosaic floor",
+      "mosaïque"
+    ],
+    "incompatibles": [
+      "mosaique-de-pate-de-verre"
+    ],
+    "categoriesCommons": [
+      "Category:Mosaics",
+      "Category:Mosaic floors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mosaïque de grains au Cameroun.jpg",
+      "description": "mosaïque de grains au Cameroun",
+      "categories": [
+        "Mosaics",
+        "Self-published work",
+        "Art from Cameroon",
+        "Mosaïque de grains"
+      ],
+      "auteur": "Zephyr tido",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mosa%C3%AFque_de_grains_au_Cameroun.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Mosa%C3%AFque_de_grains_au_Cameroun.jpg/1280px-Mosa%C3%AFque_de_grains_au_Cameroun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Lechova mosaic floor2.jpg",
+      "description": "Lechova mosaic floor",
+      "categories": [
+        "Kryoneri Korinthias",
+        "Attribution only license",
+        "Mosaic floors",
+        "Art in Sikyona"
+      ],
+      "auteur": "DiGi (Gikas Dimitris) Γκίκας Δημήτριος",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lechova_mosaic_floor2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Lechova_mosaic_floor2.jpg/1280px-Lechova_mosaic_floor2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1328
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:From the Brockhaus and Efron Encyclopedic Dictionary (4683183807).jpg",
+      "description": "Image from the Brockhaus and Efron Encyclopedic Dictionary, published in Russia,1890-1907. Most images best viewed in the original (largest) size. The book copyright has expired, so these images are in the public domain.",
+      "categories": [
+        "Ornaments",
+        "Mosaics",
+        "Images from Brockhaus and Efron Encyclopedic Dictionary",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Vase (ornament)"
+      ],
+      "auteur": "Double-M",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:From_the_Brockhaus_and_Efron_Encyclopedic_Dictionary_(4683183807).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/From_the_Brockhaus_and_Efron_Encyclopedic_Dictionary_%284683183807%29.jpg/1280px-From_the_Brockhaus_and_Efron_Encyclopedic_Dictionary_%284683183807%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1642,
+      "hauteur": 2682
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Budapest, Gellért fürdő, folyosó, 2.jpg",
+      "description": "Budapest, Gellért fürdő, folyosó",
+      "categories": [
+        "Szt. Gellért Gyógyfürdő es Uszoda",
+        "Self-published work",
+        "September 2016 in Budapest",
+        "Hungary photographs taken on 2016-09-24",
+        "Mosaic floors",
+        "Mosaics in Budapest"
+      ],
+      "auteur": "Christo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Budapest,_Gell%C3%A9rt_f%C3%BCrd%C5%91,_folyos%C3%B3,_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Budapest%2C_Gell%C3%A9rt_f%C3%BCrd%C5%91%2C_folyos%C3%B3%2C_2.jpg/1280px-Budapest%2C_Gell%C3%A9rt_f%C3%BCrd%C5%91%2C_folyos%C3%B3%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mosaïque de grains tyrocam.jpg",
+      "description": "Mosaïque de grains tyrocam",
+      "categories": [
+        "Mosaics",
+        "Self-published work",
+        "Art from Cameroon",
+        "Mosaïque de grains tyrocam"
+      ],
+      "auteur": "Zephyr tido",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mosa%C3%AFque_de_grains_tyrocam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Mosa%C3%AFque_de_grains_tyrocam.jpg/1280px-Mosa%C3%AFque_de_grains_tyrocam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:093 Teatre Principal, pl. Maragall 2 (Terrassa), restes de mosaic al terra del vestíbul.jpg",
+      "description": "Teatre Principal, pl. Maragall 2 (Terrassa), restes de mosaic al terra del vestíbul",
+      "categories": [
+        "Self-published work",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Uploaded via Campaign:wlm-es-cat",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Mosaic floors",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts",
+        "Images from Wiki Loves Monuments 2026",
+        "All media supported by Wikimedia España in 2026",
+        "Images from Wiki Loves Monuments 2026 in Spain",
+        "Interior of Teatre Principal (Terrassa)"
+      ],
+      "auteur": "Enric",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:093_Teatre_Principal,_pl._Maragall_2_(Terrassa),_restes_de_mosaic_al_terra_del_vest%C3%ADbul.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/093_Teatre_Principal%2C_pl._Maragall_2_%28Terrassa%29%2C_restes_de_mosaic_al_terra_del_vest%C3%ADbul.jpg/1280px-093_Teatre_Principal%2C_pl._Maragall_2_%28Terrassa%29%2C_restes_de_mosaic_al_terra_del_vest%C3%ADbul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "cloison",
+    "terme": "la cloison",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Mur intérieur mince et non porteur qui sépare deux pièces.",
+    "priorite": 1,
+    "requetes": [
+      "interior partition wall construction",
+      "cloison intérieure",
+      "incategory:\"Partition walls\""
+    ],
+    "categoriesCommons": [
+      "Category:Partition walls",
+      "Category:Walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1993-1994-Giardino Giusti (Verona)-testo e photo Paolo Villa-nB08 Cortile-Statua di Apollo - scultura Arte Manierista - parete di rampicanti - Kodak EktachromeElite 100 5045 EB 100.jpg",
+      "description": "1993-1994-Giardino Giusti (Verona)-text and photo Paolo Villa-nB08 Courtyard-Statue of Apollo - sculpture Mannerist Art - wall of climbers - Kodak EktachromeElite 100 5045 EB 100",
+      "categories": [
+        "Walls in Italy",
+        "Taken with Olympus OM-1",
+        "Taken with Olympus OM Zuiko 50mm f/1.8",
+        "Created with Vuescan",
+        "Walled gardens",
+        "Images with annotations",
+        "Sculptures in Verona",
+        "Self-published work",
+        "Items with VRTS permission confirmed",
+        "Italian MiBAC disclaimer warning",
+        "16th-century statues in Italy",
+        "Zona B: Vedute dal cortile (view from courtyard)-Creating Images from: GIARDINO GIUSTI (Verona), Tesi di Diploma di Paolo Villa, A.A. 1993-94",
+        "Scanned with Nikon Coolscan V ED",
+        "Statues of Apollo in Italy",
+        "Files with coordinates missing SDC location of creation",
+        "Rendered walls in Italy",
+        "Exedrae in Italy",
+        "Renaissance niches in Italy",
+        "Mannerist niches in Italy",
+        "Contrapposto in sculptures",
+        "Cokin gradual ND filters",
+        "Adolescent boys in Italy in art",
+        "Mannerist statues in Verona",
+        "Mannerist sculptures in Verona",
+        "Partition walls",
+        "Renaissance sculptures in Verona",
+        "Rusty walls",
+        "Niches in Verona",
+        "History of gardens in Verona",
+        "Giardino Giusti Palace (Verona) photographed in 1994",
+        "Palazzo Giusti del Giardino (Verona) - Corte d'onore",
+        "Photographs taken on Kodak EKTACHROME ELITE 100 5045 EB",
+        "Giardino Giusti (Verona) - Statues"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1993-1994-Giardino_Giusti_(Verona)-testo_e_photo_Paolo_Villa-nB08_Cortile-Statua_di_Apollo_-_scultura_Arte_Manierista_-_parete_di_rampicanti_-_Kodak_EktachromeElite_100_5045_EB_100.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1993-1994-Giardino_Giusti_%28Verona%29-testo_e_photo_Paolo_Villa-nB08_Cortile-Statua_di_Apollo_-_scultura_Arte_Manierista_-_parete_di_rampicanti_-_Kodak_EktachromeElite_100_5045_EB_100.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5684
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A wall of flowerpots.jpg",
+      "description": "On my way back home and the pots on the wall of a bakery",
+      "categories": [
+        "Taken with Huawei Ascend G600",
+        "Walls",
+        "Flowerpots",
+        "Self-published work"
+      ],
+      "auteur": "Zendegibehtar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_wall_of_flowerpots.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/A_wall_of_flowerpots.jpg/1280px-A_wall_of_flowerpots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gipswandbauplatten.JPG",
+      "description": "Construction of a non-load bearing partition wall of gypsum blocks.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Gypsum blocks",
+        "Self-published work",
+        "Partition walls"
+      ],
+      "auteur": "Franka Molitora",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gipswandbauplatten.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gipswandbauplatten.JPG/1280px-Gipswandbauplatten.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A black fort.jpg",
+      "description": "Its just an abandoned place on earth whom we call a fort because it was built by our predecessors but we fail to maintain this beauty over a period of time, So what left is just a place with standing walls and bunch of people call this as a photo shoot place.",
+      "categories": [
+        "Walls",
+        "Alleys",
+        "Entrances",
+        "Self-published work",
+        "Photographic silhouettes of people",
+        "Uploaded via Campaign:wlm-in",
+        "Out of scope images from Wiki Loves Monuments 2018"
+      ],
+      "auteur": "Rupeshpatil12293",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_black_fort.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/A_black_fort.jpg/1280px-A_black_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:176 Nile Street dining area kitchen.jpg",
+      "description": "176 Nile Street dining area kitchen",
+      "categories": [
+        "CC-Zero",
+        "Dining tables",
+        "176 Nile Street, Nelson",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Partition walls"
+      ],
+      "auteur": "Siobhan Leachman",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:176_Nile_Street_dining_area_kitchen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/176_Nile_Street_dining_area_kitchen.jpg/1280px-176_Nile_Street_dining_area_kitchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2011 tapia adobe.jpg",
+      "description": "Tapia de adobe en la localidad de Benamariel (León-España). Las tapias de Adobe eran construcciones frecuentes para delimitar huertos y espacios rurales.",
+      "categories": [
+        "Walls",
+        "Self-published work",
+        "Unidentified plants (low quality)",
+        "Adobe in Spain"
+      ],
+      "auteur": "Jlbarrallo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2011_tapia_adobe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2011_tapia_adobe.jpg/1280px-2011_tapia_adobe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2248
+    }
+  ]
+}

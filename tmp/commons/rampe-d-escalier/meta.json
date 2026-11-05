@@ -1,0 +1,161 @@
+{
+  "terme": {
+    "id": "rampe-d-escalier",
+    "terme": "la rampe d'escalier",
+    "categorie": "Escaliers et circulations",
+    "definition": "Garde-corps qui suit l'inclinaison de l'escalier le long de ses volées.",
+    "priorite": 1,
+    "requetes": [
+      "stair railing",
+      "rampe d'escalier",
+      "staircase balustrade"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "main-courante",
+      "barreau-de-rampe"
+    ],
+    "categoriesCommons": [
+      "Category:Stair railings",
+      "Category:Handrails"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:160910-F-oc707-402 (29034647524).jpg",
+      "description": "U.S. Air Force Senior Master Sgt. Michael Ross, 592nd Special Operations Maintenance Squadron, carries an American flag up a flight of stairs during a 9/11 Memorial Stair Climb event held at Duke Field, Fla., Sept. 10, 2016. The 24-hour climb began at 8:46 a.m. with the 919th Special Operations Wing commander walking the flag up the outside stairwell of the base’s billeting facility. Wing Airmen took turns walking the flag up and down the stairwell the entire day until it was delivered to a firefighter and security forces color guard at 8:46 a.m. the next morning for a 9/11 Remembrance ceremon",
+      "categories": [
+        "Color guards",
+        "Stair railings",
+        "Stairs in Florida",
+        "September 2016 in Florida",
+        "Duke Field",
+        "PD US Air Force",
+        "Flickr images reviewed by trusted users",
+        "Railings in the United States",
+        "Patriot Day 2016",
+        "Files from Flickr with bad file names",
+        "Photographs by Defense Video and Imagery Distribution System",
+        "United States photographs taken on 2016-09-10",
+        "Photographs by the United States Department of Defense with bad file names",
+        "2016 at Eglin Air Force Base",
+        "Files uploaded by Reguyla with bad file names"
+      ],
+      "auteur": "U.S. Department of Defense Current Photos Samuel King/919th Special Operations Wing",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:160910-F-oc707-402_(29034647524).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/160910-F-oc707-402_%2829034647524%29.jpg/1280px-160910-F-oc707-402_%2829034647524%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 1821
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cat and street art (Unsplash).jpg",
+      "description": "Dan Gold 2017-05-30",
+      "categories": [
+        "CC-Zero",
+        "Street art",
+        "Handrails",
+        "Images uploaded by Fæ",
+        "Images with extracted images",
+        "Green-eyed cats",
+        "Images from Unsplash",
+        "Bokeh photographs of cats",
+        "Long-haired black and white cats"
+      ],
+      "auteur": "Dan Gold danielcgold",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cat_and_street_art_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Cat_and_street_art_%28Unsplash%29.jpg/1280px-Cat_and_street_art_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Baranda - Escalinata de la Emperatriz Carlota.jpg",
+      "description": "Handrail of the staircase of the Empress Carlota. It is located in the National Palace in Mexico City.",
+      "categories": [
+        "Interior of the National Palace (Mexico)",
+        "Stair railings",
+        "Staircases in Mexico",
+        "Metal railings in Mexico",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "J Mndz",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baranda_-_Escalinata_de_la_Emperatriz_Carlota.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Baranda_-_Escalinata_de_la_Emperatriz_Carlota.jpg/1280px-Baranda_-_Escalinata_de_la_Emperatriz_Carlota.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Castillo de Peñíscola 97.jpg",
+      "description": "Peniscola Castle. Valencian Community, Spain.",
+      "categories": [
+        "Interior of Peniscola Castle",
+        "Handrails",
+        "Self-published work",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts",
+        "Stone stairs in the Land of Valencia",
+        "Photos by Simon Burchell"
+      ],
+      "auteur": "Simon Burchell",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castillo_de_Pe%C3%B1%C3%ADscola_97.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Castillo_de_Pe%C3%B1%C3%ADscola_97.jpg/1280px-Castillo_de_Pe%C3%B1%C3%ADscola_97.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:WWW WE DSC01967 (14111846321).jpg",
+      "description": "",
+      "categories": [
+        "Christ Church (Lancaster)",
+        "Media lacking a description",
+        "Stair railings",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Railings in Virginia",
+        "Wooden railings",
+        "Pulpits in Virginia",
+        "Women's Wellness Weekends (Westmoreland State Park)",
+        "Photographs by Virginia State Parks with bad file names"
+      ],
+      "auteur": "vastateparksstaff",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:WWW_WE_DSC01967_(14111846321).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/WWW_WE_DSC01967_%2814111846321%29.jpg/1280px-WWW_WE_DSC01967_%2814111846321%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cat and street art (Unsplash) (2017; cropped 2024).jpg",
+      "description": "Dan Gold 2017-05-30",
+      "categories": [
+        "CC-Zero",
+        "Street art",
+        "Handrails",
+        "Images uploaded by Fæ",
+        "Extracted images",
+        "Green-eyed cats",
+        "Images from Unsplash",
+        "Bokeh photographs of cats",
+        "Long-haired black and white cats",
+        "Black and white cat portraits"
+      ],
+      "auteur": "Dan Gold danielcgold",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cat_and_street_art_(Unsplash)_(2017;_cropped_2024).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Cat_and_street_art_%28Unsplash%29_%282017%3B_cropped_2024%29.jpg/1280px-Cat_and_street_art_%28Unsplash%29_%282017%3B_cropped_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2880,
+      "hauteur": 2881
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "aluminium",
+    "terme": "l'aluminium",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Métal léger gris clair, employé en profilés de menuiserie, en tôles et en panneaux de façade.",
+    "priorite": 1,
+    "requetes": [
+      "aluminium profiles",
+      "aluminum extrusion profiles",
+      "profilés aluminium"
+    ],
+    "incompatibles": [
+      "inox",
+      "acier-galvanise",
+      "menuiserie-aluminium",
+      "profile-aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Aluminium",
+      "Category:Aluminium profiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2021080601 Victorinox Alox Swiss Army 1, geschlossen 2021.jpg",
+      "description": "Victorinox Alox Swiss Army 1, geschlossen, Gravurseite mit Wunschgravur",
+      "categories": [
+        "Aluminium",
+        "Tabletop photography",
+        "Self-published work",
+        "Knives on white background",
+        "Tools on white background",
+        "Dresden photographs taken on 2021-08-06",
+        "Files by User:VSchagow",
+        "Victorinox Swiss Army knives with silver metal scales"
+      ],
+      "auteur": "VSchagow",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021080601_Victorinox_Alox_Swiss_Army_1,_geschlossen_2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2021080601_Victorinox_Alox_Swiss_Army_1%2C_geschlossen_2021.jpg/1280px-2021080601_Victorinox_Alox_Swiss_Army_1%2C_geschlossen_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:HTML research (9067213357).jpg",
+      "description": "Ted Besmann works in the Surface Processing and Mechanics Synthesis lab at HTML.",
+      "categories": [
+        "Oak Ridge National Laboratory",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Aluminium profiles"
+      ],
+      "auteur": "Oak Ridge National Laboratory",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HTML_research_(9067213357).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/HTML_research_%289067213357%29.jpg/1280px-HTML_research_%289067213357%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:20 kV cables manufactured by General Cable (6).jpg",
+      "description": "Étiquette concernant des câbles électriques de 12/20 kV (moyenne tension), triphasés (phase I, phase II, phase III), isolés avec de l'Hersatene, enroulés sur une bobine en bois, fabriqués par General Cable, à Ménétréol-sous-Sancerre ( Cher , France).",
+      "categories": [
+        "Aluminium",
+        "Barcode",
+        "Images with annotations",
+        "Ménétréol-sous-Sancerre",
+        "General Cable",
+        "High-voltage cables",
+        "Self-published work",
+        "French text",
+        "Pictures by Cjp24",
+        "Stickers in France",
+        "Manufacturing tablets of industrial devices for producing, converting or storing electrical energy"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20_kV_cables_manufactured_by_General_Cable_(6).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/20_kV_cables_manufactured_by_General_Cable_%286%29.jpg/1280px-20_kV_cables_manufactured_by_General_Cable_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Aluprofil für Werbetafel Kunststoff2.jpg",
+      "description": "Aluprofil für Werbetafel",
+      "categories": [
+        "Advertising boards",
+        "Self-published work",
+        "Aluminium profiles"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluprofil_f%C3%BCr_Werbetafel_Kunststoff2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Aluprofil_f%C3%BCr_Werbetafel_Kunststoff2.jpg/1280px-Aluprofil_f%C3%BCr_Werbetafel_Kunststoff2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20 kV cables manufactured by General Cable (5).jpg",
+      "description": "Câbles gris d'alimentation souterrains Hersatene (isolant TR XLPE , à base de polyéthylène réticulé ), à conducteur en aluminium, pour réseau de distribution à 20 kV ( HTA , moyenne tension), pour courant triphasé (marquage : « phase I » ou « phase II » ou « phase III » sur chaque câble), enroulés sur une bobine, fabriqués par General Cable . Photo prise à Ménétréol-sous-Sancerre ( Cher , France).",
+      "categories": [
+        "Aluminium",
+        "Images with annotations",
+        "Ménétréol-sous-Sancerre",
+        "General Cable",
+        "Three-phase electrifications",
+        "Cross-linked polyethylene",
+        "High-voltage cables",
+        "Self-published work",
+        "Gray objects",
+        "Pictures by Cjp24",
+        "Underground power lines in France"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20_kV_cables_manufactured_by_General_Cable_(5).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/20_kV_cables_manufactured_by_General_Cable_%285%29.jpg/1280px-20_kV_cables_manufactured_by_General_Cable_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Aluprofil für Werbetafel Kunststoff1.jpg",
+      "description": "Aluprofil für Werbetafel",
+      "categories": [
+        "Self-published work",
+        "Aluminium profiles"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluprofil_f%C3%BCr_Werbetafel_Kunststoff1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aluprofil_f%C3%BCr_Werbetafel_Kunststoff1.jpg/1280px-Aluprofil_f%C3%BCr_Werbetafel_Kunststoff1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

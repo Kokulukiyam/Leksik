@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "claveau",
+    "terme": "le claveau",
+    "categorie": "Structure",
+    "definition": "Pierre ou brique taillée en coin qui forme avec les autres la courbe d'un arc ou d'une voûte ; on dit aussi voussoir.",
+    "priorite": 2,
+    "requetes": [
+      "voussoir arch stones",
+      "claveau arc",
+      "arch voussoirs"
+    ],
+    "incompatibles": [
+      "arc",
+      "cle-de-voute"
+    ],
+    "categoriesCommons": [
+      "Category:Voussoirs",
+      "Category:Arches",
+      "Category:Stone arches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Litovel Neciz (7441).jpg",
+      "description": "Ce média traite du monument culturel protégé en République Tchèque portant le numéro",
+      "categories": [
+        "Self-published work",
+        "Bridge over Nečíz under the Litovel town hall",
+        "Cultural monuments in the Czech Republic with known IDs",
+        "Uploaded via Campaign:wlm-cz",
+        "Pictures taken during WikiMěsto Litovel",
+        "Voussoirs"
+      ],
+      "auteur": "Gampe",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Litovel_Neciz_(7441).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Litovel_Neciz_%287441%29.jpg/1280px-Litovel_Neciz_%287441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2667
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Tbilisi 2026. New Year Village.jpg",
+      "description": "Tbilisi 2026. New Year Village",
+      "categories": [
+        "New Year celebrations in Georgia",
+        "Clocks",
+        "Christmas markets",
+        "Arches",
+        "Cityscapes",
+        "Self-published work",
+        "New Year celebrations in Tbilisi",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Georgia",
+        "Images from Wiki Loves Folklore 2026 to check",
+        "Uploaded via Campaign:wlf 2026",
+        "Outdoor events"
+      ],
+      "auteur": "Eka Samkharadze",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tbilisi_2026._New_Year_Village.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tbilisi_2026._New_Year_Village.jpg/1280px-Tbilisi_2026._New_Year_Village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1446,
+      "hauteur": 1979
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Arch-1015559, Dingle Peninsula, Co. Kerry, Ireland.jpg",
+      "description": "Romanesque door arch at Annagh Church.",
+      "categories": [
+        "Annagh Church, Tralee",
+        "Old Red Sandstone buildings in Ireland",
+        "Self-published work",
+        "Romanesque arches",
+        "Stone arches",
+        "Buildings with blue sky background",
+        "Blue sky background in Ireland",
+        "Light and shadow in architecture",
+        "Republic of Ireland photographs taken on 2026-04-29",
+        "April 2026 in County Kerry"
+      ],
+      "auteur": "Maoileann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arch-1015559,_Dingle_Peninsula,_Co._Kerry,_Ireland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Arch-1015559%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg/1280px-Arch-1015559%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Kirkgate Market Bradford carvings (6).jpg",
+      "description": "Carved work by Charles Mawer, salvaged from Kirkgate Market, Bradford in 1973 by Bradford City Council. The market was designed by Lockwood & Mawson, completed 1872, demolished 1973. In 2014 seven carved stones and an iron lamp base were rescued from storage by a local action group. They were placed on p Showing a voussoir from the main entrance arch of the market.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Kirkgate Market Bradford, carvings",
+        "Voussoirs"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kirkgate_Market_Bradford_carvings_(6).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kirkgate_Market_Bradford_carvings_%286%29.jpg/1280px-Kirkgate_Market_Bradford_carvings_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2512,
+      "hauteur": 2980
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ancienne-église-Saint-Martin-entre-les-églises-Poitiers.jpg",
+      "description": "Vestiges de l'église Saint-Martin-entre-les-églises, impasse Saint-Jean, à Poitiers. Cette église du XIXe siècle marquait l'emplacement d'une autre du même nom beaucoup plus ancienne.",
+      "categories": [
+        "Église Saint-Martin-entre-les-deux-églises de Poitiers",
+        "Self-published work",
+        "Gates in Vienne",
+        "19th-century architectural elements",
+        "Stone arches"
+      ],
+      "auteur": "Danielclauzier",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancienne-%C3%A9glise-Saint-Martin-entre-les-%C3%A9glises-Poitiers.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ancienne-%C3%A9glise-Saint-Martin-entre-les-%C3%A9glises-Poitiers.jpg/1280px-Ancienne-%C3%A9glise-Saint-Martin-entre-les-%C3%A9glises-Poitiers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1417,
+      "hauteur": 941
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bruxelles, moulage d'un voussoir d'une archivolte de l'église de Glons, KIK-IRPA b143507.jpg",
+      "description": "Moulage d'un voussoir de l'Arc de Glons, une archivolte mérovingien de l'église de Glons, dans les collections des Musées Royaux d'Art et d'Histoire, Bruxelles.",
+      "categories": [
+        "1953 in Brussels",
+        "Voussoirs",
+        "Paster casts of Arch of Glons and foundation stones"
+      ],
+      "auteur": "unknown photographer, KIK-IRPA",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bruxelles,_moulage_d%27un_voussoir_d%27une_archivolte_de_l%27%C3%A9glise_de_Glons,_KIK-IRPA_b143507.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bruxelles%2C_moulage_d%27un_voussoir_d%27une_archivolte_de_l%27%C3%A9glise_de_Glons%2C_KIK-IRPA_b143507.jpg/1280px-Bruxelles%2C_moulage_d%27un_voussoir_d%27une_archivolte_de_l%27%C3%A9glise_de_Glons%2C_KIK-IRPA_b143507.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2901,
+      "hauteur": 2319
+    }
+  ]
+}

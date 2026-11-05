@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "groupe-electrogene",
+    "terme": "le groupe électrogène",
+    "categorie": "Réseaux et équipements",
+    "definition": "Machine formée d'un moteur et d'un alternateur, souvent dans un capot insonorisé, qui produit l'électricité en cas de coupure.",
+    "priorite": 1,
+    "requetes": [
+      "diesel generator",
+      "groupe électrogène",
+      "generator set"
+    ],
+    "categoriesCommons": [
+      "Category:Diesel generators"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Agregat SW266.53..JPG",
+      "description": "Zespół prądotwórczy SW266/53 o mocy 45 kvA, napięciu 400/50Hz, składający się z prądnicy Elmor GCPf84c/7 o mocy 36 kW (45 kvA), synchronicznej, samowzbudnej i silnika wysokoprężnego Andoria ZE266/53 o mocy 36,8 kW (50 KM) przy 1500 obr/min.",
+      "categories": [
+        "Taken with Sony DSC-H1",
+        "Diesel generators",
+        "Engine rooms",
+        "ORP Iskra (ship, 1982)",
+        "Self-published work",
+        "PD-self",
+        "Andoria diesel engines"
+      ],
+      "auteur": "Żeglarz",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Agregat_SW266.53..JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Agregat_SW266.53..JPG/1280px-Agregat_SW266.53..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Agregat SW266.53.JPG",
+      "description": "Zespół prądotwórczy SW266/53 o mocy 45 kvA, napięciu 400/50Hz, składający się z prądnicy Elmor GCPf84c/7 o mocy 36 kW (45 kvA), synchronicznej, samowzbudnej i silnika wysokoprężnego Andoria ZE266/53 o mocy 36,8 kW (50 KM) przy 1500 obr/min.",
+      "categories": [
+        "Taken with Sony DSC-H1",
+        "Diesel generators",
+        "Engine rooms",
+        "ORP Iskra (ship, 1982)",
+        "Self-published work",
+        "PD-self",
+        "Andoria diesel engines"
+      ],
+      "auteur": "Żeglarz",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Agregat_SW266.53.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Agregat_SW266.53.JPG/1280px-Agregat_SW266.53.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2019-10-03 - TDE - Dieselgenerator und ProCom Tetra Antennen.jpg",
+      "description": "Mobile Dieselgeneratoren auf dem Tag der deutschen Einheit 2019 in Kiel mit ProCom (Amphenol) Tetra Antennen.",
+      "categories": [
+        "Diesel generators",
+        "Amphenol",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "TETRA digital network",
+        "2019 Tag der deutschen Einheit (Kiel)"
+      ],
+      "auteur": "Fabian Horst",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2019-10-03_-_TDE_-_Dieselgenerator_und_ProCom_Tetra_Antennen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2019-10-03_-_TDE_-_Dieselgenerator_und_ProCom_Tetra_Antennen.jpg/1280px-2019-10-03_-_TDE_-_Dieselgenerator_und_ProCom_Tetra_Antennen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3044,
+      "hauteur": 1892
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Allen 3S47, Hall 5.jpg",
+      "description": "Allen three-cylinder S47 diesel engine, originally one of three from Leatherhead pumping station Now on display at the Internal Fire museum.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ10",
+        "Diesel generators",
+        "Stationary engines",
+        "Straight-3 engines",
+        "Internal Fire museum",
+        "Self-published work",
+        "Photographs by Andy Dingley",
+        "Diesel pumping engines",
+        "Allen engines"
+      ],
+      "auteur": "Andy Dingley",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Allen_3S47,_Hall_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Allen_3S47%2C_Hall_5.jpg/1280px-Allen_3S47%2C_Hall_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Alternator from Allen generating set, ex-Malvern.jpg",
+      "description": "Mather & Platt 260kVA 440V three-phase alternator, with separate exciter (above). Part of the ex- RSRE Malvern Allen 8S30 diesel generating set. Now on display at the Internal Fire museum.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ10",
+        "Alternators",
+        "Diesel generators",
+        "Internal Fire museum",
+        "Mather & Platt",
+        "Self-published work",
+        "Photographs by Andy Dingley"
+      ],
+      "auteur": "Andy Dingley",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alternator_from_Allen_generating_set,_ex-Malvern.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Alternator_from_Allen_generating_set%2C_ex-Malvern.jpg/1280px-Alternator_from_Allen_generating_set%2C_ex-Malvern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Airport Road at US98, Carrabelle.jpg",
+      "description": "Airport Road at its intersection with U.S. Route 98 in Carrabelle, Florida . This was formerly a northern segment of County Road 376 , but is no longer signed or listed on FDOT route maps.",
+      "categories": [
+        "GFDL",
+        "Diesel generators",
+        "License migration redundant",
+        "Stop signs in Florida",
+        "Automobiles in Florida",
+        "Self-published work",
+        "Road signs in Franklin County, Florida",
+        "Views from automobiles in Franklin County, Florida",
+        "Signs in Franklin County, Florida",
+        "Files with coordinates missing SDC location of creation",
+        "April 2025 in Florida",
+        "United States photographs taken on 2025-04-23",
+        "Red octagonal stop signs in the United States",
+        "Pole-mounted transformers in Florida",
+        "Wooden utility poles in Florida",
+        "April 2025 in road transport in the United States",
+        "Red fire hydrants in Florida",
+        "Images by The Bushranger taken with Panasonic Lumix DMC-FZ18",
+        "Photographs of red octagonal stop signs",
+        "2025 in Carrabelle, Florida",
+        "Streets in Carrabelle, Florida"
+      ],
+      "auteur": "The Bushranger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Airport_Road_at_US98,_Carrabelle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Airport_Road_at_US98%2C_Carrabelle.jpg/1280px-Airport_Road_at_US98%2C_Carrabelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "cage-d-escalier",
+    "terme": "la cage d'escalier",
+    "categorie": "Escaliers et circulations",
+    "definition": "Volume vertical, fermé par des murs, dans lequel se développe l'escalier d'un immeuble.",
+    "priorite": 1,
+    "requetes": [
+      "stairwell apartment building",
+      "cage d'escalier",
+      "stairwell"
+    ],
+    "incompatibles": [
+      "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Stairwells",
+      "Category:Staircases"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:500px photo (34531760).jpeg",
+      "description": "500px provided description: Untitled [#stair]",
+      "categories": [
+        "Stairwells",
+        "Metal stairs",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names",
+        "Metal staircases"
+      ],
+      "auteur": "Fabio Lima",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(34531760).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/500px_photo_%2834531760%29.jpeg/1280px-500px_photo_%2834531760%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1364
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Balustrade Upstairs Southgate-Lewis House 1980.jpg",
+      "description": "The stairway balustrade of the Southgate-Lewis House was constructed by the renowned builder Robert C. Lambie and has been referred to as \"one of the finest staircases in all of Austin.\" This photograph shows the balustrade and the landing at the top of the staircase on the second floor directly after the house was saved from demolition, restored and preserved, circa 1980.",
+      "categories": [
+        "Woodworking",
+        "Staircases",
+        "Balustrades",
+        "Southgate-Lewis House",
+        "Self-published work",
+        "Woodwork"
+      ],
+      "auteur": "DGAAustin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg/1280px-Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4500,
+      "hauteur": 3155
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Brahmskontor (Hamburg-Neustadt).Johannes-Brahms-Platz 1.Treppenhaus.5.29190.ajb.jpg",
+      "description": "Treppenhaus Johannes-Brahms-Platz 1 des Brahmskontors in Hamburg-Neustadt.",
+      "categories": [
+        "Images from Wiki Loves Monuments 2016 in Germany",
+        "Stairwells",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Information field template with formatting",
+        "Staircases in Hamburg",
+        "Clockwise spiral stairs",
+        "Images from Wiki Loves Monuments 2016",
+        "Images by Ajepbah",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Files with coordinates missing SDC location of creation (53° N, 9° E)",
+        "Images from Wiki Loves Monuments 2016, DE-HH",
+        "Brahms Kontor (interior)"
+      ],
+      "auteur": "Ajepbah",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brahmskontor_(Hamburg-Neustadt).Johannes-Brahms-Platz_1.Treppenhaus.5.29190.ajb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Brahmskontor_%28Hamburg-Neustadt%29.Johannes-Brahms-Platz_1.Treppenhaus.5.29190.ajb.jpg/1280px-Brahmskontor_%28Hamburg-Neustadt%29.Johannes-Brahms-Platz_1.Treppenhaus.5.29190.ajb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3317,
+      "hauteur": 4146
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:African Human wooden Seats.jpg",
+      "description": "Ceci est une image du genre Musique et Danse de :",
+      "categories": [
+        "Staircases",
+        "Calabar",
+        "Self-published work",
+        "Crafts of Nigeria",
+        "Images from Wiki Loves Africa 2016",
+        "Images from Wiki Loves Africa 2016 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2016 in Nigeria",
+        "Nigeria photographs taken on 2016-12-29",
+        "Wooden chairs"
+      ],
+      "auteur": "Charles. Utibemfon Charles",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:African_Human_wooden_Seats.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/African_Human_wooden_Seats.jpg/1280px-African_Human_wooden_Seats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Staircase Palacio Cabanellas 20180514 230123.jpg",
+      "description": "Open house",
+      "categories": [
+        "Palacio Cabanellas",
+        "Stairwells",
+        "Elevator shafts",
+        "Self-published work"
+      ],
+      "auteur": "BraianM2200",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Staircase_Palacio_Cabanellas_20180514_230123.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Staircase_Palacio_Cabanellas_20180514_230123.jpg/1280px-Staircase_Palacio_Cabanellas_20180514_230123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1568,
+      "hauteur": 1046
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 7.jpg",
+      "description": "Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 7",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "June 2024 in Lower Saxony",
+        "Amsbergstraße 27 (Bad Harzburg)"
+      ],
+      "auteur": "Steffen Dietrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_7.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_7.jpg/1280px-Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    }
+  ]
+}

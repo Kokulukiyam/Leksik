@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "verre-depoli",
+    "terme": "le verre dépoli",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Verre rendu translucide par une surface mate qui laisse passer la lumière mais pas la vue.",
+    "priorite": 2,
+    "requetes": [
+      "frosted glass window",
+      "verre dépoli",
+      "frosted glass door"
+    ],
+    "incompatibles": [
+      "verre-imprime"
+    ],
+    "categoriesCommons": [
+      "Category:Frosted glass",
+      "Category:Glass"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Historické sklo (018) (cropped).jpg",
+      "description": "Historické sklo v muzeu v Sušici. Okres Klatovy, Česká republika.",
+      "categories": [
+        "Muzeum Šumavy Sušice",
+        "Mediagrant",
+        "Frosted glass",
+        "Uploaded with VicuñaUploader",
+        "Extracted images",
+        "Mediagrant:Odborná fotografie/Historie šumavského sklářství",
+        "Files by Art Jarka",
+        "Photos by Art Jarka"
+      ],
+      "auteur": "Art Jarka",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Historick%C3%A9_sklo_(018)_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Historick%C3%A9_sklo_%28018%29_%28cropped%29.jpg/1280px-Historick%C3%A9_sklo_%28018%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1355,
+      "hauteur": 1373
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:6930DavidPatchen.blownglass.murrine.zanfiricocane.jpg",
+      "description": "\"Ellipse\" sculpture by David Patchen. Blown glass; murrine, zanfirico cane",
+      "categories": [
+        "Glass",
+        "Sculptures",
+        "Glass art",
+        "Glass sculptures",
+        "Blown glass",
+        "Murrine",
+        "Canework",
+        "Self-published work",
+        "Art glass",
+        "Murrini"
+      ],
+      "auteur": "Davidpatchen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:6930DavidPatchen.blownglass.murrine.zanfiricocane.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/6930DavidPatchen.blownglass.murrine.zanfiricocane.jpg/1280px-6930DavidPatchen.blownglass.murrine.zanfiricocane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:拝島駅、ケンタッキーフライドチキン店内 - panoramio.jpg",
+      "description": "拝島駅、ケンタッキーフライドチキン店内",
+      "categories": [
+        "Frosted glass",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "February 2012 in Tokyo",
+        "Restaurants photographed in 2012",
+        "Red furniture in Japan",
+        "Files with coordinates missing SDC location of creation",
+        "2012 advertisements in Tokyo",
+        "Japan photographs taken on 2012-02-07",
+        "Window counters in Japan",
+        "KFC restaurants in Tokyo",
+        "Lunch counters in Japan",
+        "Fixed stools",
+        "Ceiling air conditioners",
+        "Partition furniture in Japan",
+        "Baby chairs",
+        "Western Tokyo in the 2010s"
+      ],
+      "auteur": "moonwalker76",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E6%8B%9D%E5%B3%B6%E9%A7%85%E3%80%81%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%81%E3%82%AD%E3%83%B3%E5%BA%97%E5%86%85_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%E6%8B%9D%E5%B3%B6%E9%A7%85%E3%80%81%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%81%E3%82%AD%E3%83%B3%E5%BA%97%E5%86%85_-_panoramio.jpg/1280px-%E6%8B%9D%E5%B3%B6%E9%A7%85%E3%80%81%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%81%E3%82%AD%E3%83%B3%E5%BA%97%E5%86%85_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:0184 Mamiya Press Super 23 Extension Ring set and ground glass (5136414018).jpg",
+      "description": "0184 Mamiya Press Super 23 Extension Ring set and ground glass",
+      "categories": [
+        "Taken with Canon EOS-1Ds Mark III",
+        "Glass",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Tubes",
+        "Files from Brian Scott Peterson Flickr stream",
+        "Mamiya Super 23",
+        "Mamiya Press accessories"
+      ],
+      "auteur": "Zebrio from Tokyo, Japan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0184_Mamiya_Press_Super_23_Extension_Ring_set_and_ground_glass_(5136414018).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/0184_Mamiya_Press_Super_23_Extension_Ring_set_and_ground_glass_%285136414018%29.jpg/1280px-0184_Mamiya_Press_Super_23_Extension_Ring_set_and_ground_glass_%285136414018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:City of London Cemetery Columbarium internal glass door detail 2.jpg",
+      "description": "Pattern frosted internal glass door detail of the Catacomb columbarium in the City of London Cemetery , Aldersbrook Road, Newham , England. Mobile device view : Wikimedia (June 2020) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on City of London Cemetery and Crematorium , and this uploader's Photos . You can add a click-through 'categories' button to the very bottom of photo-pages you view by going to settings... three-bar icon top left. Desktop view : Wikimedia (June 2020) makes it difficult to immediately view the he",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Catacomb columbarium, City of London Cemetery",
+        "Frosted glass",
+        "Self-published work",
+        "United Kingdom photographs taken on 2020-04-23",
+        "April 2020 at the City of London Cemetery and Crematorium",
+        "Acabashi photos: City of London Cemetery and Crematorium",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "London photos taken with Canon EOS 6D Mark II"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:City_of_London_Cemetery_Columbarium_internal_glass_door_detail_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/City_of_London_Cemetery_Columbarium_internal_glass_door_detail_2.jpg/1280px-City_of_London_Cemetery_Columbarium_internal_glass_door_detail_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:0183 Mamiya Universal Super 23 Focussing Hood Model P (5135811695).jpg",
+      "description": "0183 Mamiya Universal Super 23 Focussing Hood Model P",
+      "categories": [
+        "Taken with Canon EOS-1Ds Mark III",
+        "Glass",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Files from Brian Scott Peterson Flickr stream",
+        "Mamiya Press accessories"
+      ],
+      "auteur": "Zebrio from Tokyo, Japan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0183_Mamiya_Universal_Super_23_Focussing_Hood_Model_P_(5135811695).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/0183_Mamiya_Universal_Super_23_Focussing_Hood_Model_P_%285135811695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1000,
+      "hauteur": 1500
+    }
+  ]
+}

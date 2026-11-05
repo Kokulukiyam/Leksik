@@ -1,0 +1,163 @@
+{
+  "terme": {
+    "id": "poutre-treillis",
+    "terme": "la poutre treillis",
+    "categorie": "Structure",
+    "definition": "Poutre faite de deux membrures reliées par des barres disposées en triangles.",
+    "priorite": 2,
+    "requetes": [
+      "steel truss girder",
+      "poutre treillis",
+      "lattice girder"
+    ],
+    "incompatibles": [
+      "ferme-metallique",
+      "ferme",
+      "structure-tridimensionnelle"
+    ],
+    "categoriesCommons": [
+      "Category:Trusses"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:111th St IRT td (2019-08-07) 05.jpg",
+      "description": "Looking at the flying express track from the Manhattan-bound platform of the 111th Street IRT Flushing Line station, above Roosevelt Avenue and 111th Street in Corona, Queens. Express tracks like these were frequently found on the former IRT elevated in Manhattan. This one facilitates the two yard tracks from the nearby Corona Yard.",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "7 (New York City Subway service)",
+        "R188 (New York City Subway car)",
+        "Trusses",
+        "Self-published work",
+        "New York City Subway trains at stations",
+        "New York City Subway in August 2019",
+        "New York City Subway station platforms in Queens",
+        "Files with coordinates missing SDC location of creation",
+        "Number 7584 on rail vehicles",
+        "Number 7585 on rail vehicles",
+        "Railway photographs taken on 2019-08-07",
+        "2019 Queens photographs by Tdorante10",
+        "2019 New York City Subway photographs by Tdorante10",
+        "2019 in Corona, Queens",
+        "August 2019 in Queens, New York City",
+        "111th Street express track",
+        "Photographs by Tdorante10 taken on 2019-08-07"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:111th_St_IRT_td_(2019-08-07)_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/111th_St_IRT_td_%282019-08-07%29_05.jpg/1280px-111th_St_IRT_td_%282019-08-07%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bathurst Bridge, Toronto, April 2014.jpg",
+      "description": "Photo noir et blanc prise du pont de la rue Bathurst, regardant vers l'est le long du corridor ferroviaire vers le centre-ville de Toronto.",
+      "categories": [
+        "Taken with Canon EOS 1100D",
+        "Sir Isaac Brock Bridge",
+        "Trusses",
+        "Flickr images verified by UploadWizard",
+        "Black and white photographs of Canada in the 2010s",
+        "April 2014 in Toronto",
+        "Canada photographs taken on 2014-04-19",
+        "April 2014 in Ontario",
+        "Black and white photographs of Toronto"
+      ],
+      "auteur": "mark.watmough",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bathurst_Bridge,_Toronto,_April_2014.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bathurst_Bridge%2C_Toronto%2C_April_2014.jpg/1280px-Bathurst_Bridge%2C_Toronto%2C_April_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4248,
+      "hauteur": 2828
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Advertisement for tresses sold by 'The Widow Barnet'. Wellcome M0015860.jpg",
+      "description": "Advertisement for tresses sold by 'The Widow Barnet', London Wellcome Images Keywords: Advertisements; Trusses",
+      "categories": [
+        "Files with no machine-readable author",
+        "Trusses",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images (check needed)",
+        "Files from Wellcome Images",
+        "Advertising in print media"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Advertisement_for_tresses_sold_by_%27The_Widow_Barnet%27._Wellcome_M0015860.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Advertisement_for_tresses_sold_by_%27The_Widow_Barnet%27._Wellcome_M0015860.jpg/1280px-Advertisement_for_tresses_sold_by_%27The_Widow_Barnet%27._Wellcome_M0015860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2663,
+      "hauteur": 3964
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Balkenköpfe (Göttingen-Geismar, 2024)(8).jpg",
+      "description": "Balkenköpfe (Göttingen-Geismar, Hauptstraße, 2024)",
+      "categories": [
+        "Trusses",
+        "Self-published work",
+        "Balkenköpfe"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balkenk%C3%B6pfe_(G%C3%B6ttingen-Geismar,_2024)(8).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Balkenk%C3%B6pfe_%28G%C3%B6ttingen-Geismar%2C_2024%29%288%29.jpg/1280px-Balkenk%C3%B6pfe_%28G%C3%B6ttingen-Geismar%2C_2024%29%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1572
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Aluminium box trussing at Hatfield Broad Oak, Essex, England 3.jpg",
+      "description": "Aluminium box trussing sections which, when together, is usually used as a temporary hanging system for lights and sound equipment, typically for stage, theatre and music performance, taken in a workshop at Hatfield Broad Oak , Essex , England. Mobile device view : Wikimedia (at August 2019) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Hatfield Broad Oak and this uploader's Various photos. Desktop view : Wikimedia (at August 2019) makes it difficult to immediately view the helpful category links where you can find i",
+      "categories": [
+        "Taken with Samsung Galaxy S7 Edge",
+        "Trusses",
+        "Self-published work",
+        "Summer in Essex",
+        "Summer 2018 in the United Kingdom",
+        "September 2018 in Essex",
+        "United Kingdom photographs taken on 2018-09-19",
+        "Acabashi photos: various",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Workshops in England",
+        "Cluttered interiors",
+        "Stage lighting fixtures",
+        "Hatfield Park, Essex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminium_box_trussing_at_Hatfield_Broad_Oak,_Essex,_England_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Aluminium_box_trussing_at_Hatfield_Broad_Oak%2C_Essex%2C_England_3.jpg/1280px-Aluminium_box_trussing_at_Hatfield_Broad_Oak%2C_Essex%2C_England_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2466,
+      "hauteur": 3698
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:'Comfort for Invalids' advice page Wellcome L0040536.jpg",
+      "description": "Advice on comfort for invalides from The Lancet March 22nd, 1856. Shows various beds, chairs and wheelchairs to make a invalid's life easier and more comfortable. General Collections Keywords: Advertisements; Invalid; Disabled Persons; Advertisement; Wheelchairs; Trusses",
+      "categories": [
+        "Files with no machine-readable author",
+        "Trusses",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images (check needed)",
+        "1856 advertisements",
+        "Files from Wellcome Images",
+        "Historical wheelchairs",
+        "Advertising in print media",
+        "Advertising for mobility devices",
+        "Disability in the 19th century"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Comfort_for_Invalids%27_advice_page_Wellcome_L0040536.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%27Comfort_for_Invalids%27_advice_page_Wellcome_L0040536.jpg/1280px-%27Comfort_for_Invalids%27_advice_page_Wellcome_L0040536.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2716,
+      "hauteur": 3906
+    }
+  ]
+}

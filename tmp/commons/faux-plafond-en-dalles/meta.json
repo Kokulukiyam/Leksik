@@ -1,0 +1,167 @@
+{
+  "terme": {
+    "id": "faux-plafond-en-dalles",
+    "terme": "le faux plafond en dalles",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Faux plafond fait de dalles amovibles, souvent de 60 × 60 cm, posées dans une ossature apparente.",
+    "priorite": 1,
+    "requetes": [
+      "drop ceiling tiles grid",
+      "faux plafond dalles 60x60",
+      "acoustic ceiling tiles office"
+    ],
+    "incompatibles": [
+      "faux-plafond",
+      "ossature-de-faux-plafond"
+    ],
+    "categoriesCommons": [
+      "Category:Ceiling tiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:CEILING TILE AND DOOR FACES - NARA - 17427062.jpg",
+      "description": "Scope and content: The original finding aid described this as: Capture Date: 2/5/1975 Photographer: DONALD HUEBLER Keywords: Larsen Scan Location Building No: 23",
+      "categories": [
+        "PD NASA",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "Template Unknown (author)",
+        "Engine Research Building",
+        "US National Archives series: Photographs Relating to Agency Activities, Facilities and Personnel",
+        "US National Archives location: other",
+        "Photographs by Donald Huebler",
+        "Ceiling tiles"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CEILING_TILE_AND_DOOR_FACES_-_NARA_-_17427062.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/CEILING_TILE_AND_DOOR_FACES_-_NARA_-_17427062.jpg/1280px-CEILING_TILE_AND_DOOR_FACES_-_NARA_-_17427062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6072,
+      "hauteur": 4865
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Suspended-ceiling-0a.jpg",
+      "description": "Suspended (aka dropped) ceiling.",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "License migration redundant",
+        "Dropped ceilings",
+        "Self-published work",
+        "Fluorescent lighting",
+        "Fire detector"
+      ],
+      "auteur": "Adamantios",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Suspended-ceiling-0a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Suspended-ceiling-0a.jpg/1280px-Suspended-ceiling-0a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2450,
+      "hauteur": 1940
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:The Justin Trawick Group Purple Fiddle Laneville WV January 2010.jpg",
+      "description": "The Justin Trawick Group playing the Purple Fiddle in Laneville, West Virginia on January 9, 2010. www.trailvoice.com/washington-dc/parks-trails/white-grass...",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ5",
+        "Tenor saxophones",
+        "Stage monitors",
+        "Stage lighting",
+        "Musical groups from Virginia",
+        "Male drummers from the United States",
+        "Men wearing tartan shirts",
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC creator",
+        "Men playing electric guitars",
+        "Music performances in West Virginia",
+        "Men wearing jeans",
+        "Musical groups in 2010",
+        "Bassists with double basses",
+        "January 2010 in West Virginia",
+        "People with drum-kits",
+        "Files with coordinates missing SDC location of creation",
+        "Musicians from the United States in 2010",
+        "United States photographs taken on 2010-01-09",
+        "Bookcases in the United States",
+        "Men playing acoustic guitars",
+        "Singing men in the United States",
+        "Men looking down in the United States",
+        "Men with microphones in the United States",
+        "The Purple Fiddle",
+        "People with saxophones in the United States",
+        "Wooden bookcases",
+        "Violins in art",
+        "2010s drum-kits",
+        "Ceiling tiles",
+        "Flickr images missing SDC published in",
+        "Musicians on stage in West Virginia"
+      ],
+      "auteur": "TrailVoice",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Justin_Trawick_Group_Purple_Fiddle_Laneville_WV_January_2010.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/The_Justin_Trawick_Group_Purple_Fiddle_Laneville_WV_January_2010.jpg/1280px-The_Justin_Trawick_Group_Purple_Fiddle_Laneville_WV_January_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3712,
+      "hauteur": 2088
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dropped ceiling (inside), Russia.jpg",
+      "description": "За подвесным потолком",
+      "categories": [
+        "CC-Zero",
+        "Dropped ceilings",
+        "Self-published work"
+      ],
+      "auteur": "Georg Pik",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dropped_ceiling_(inside),_Russia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dropped_ceiling_%28inside%29%2C_Russia.jpg/1280px-Dropped_ceiling_%28inside%29%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3088,
+      "hauteur": 3088
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Interior The Works Café 118 Main Street downtown Brattleboro VT November 2023.jpg",
+      "description": "Interior of The Works Café at 118 Main Street in downtown Brattleboro, Vermont.",
+      "categories": [
+        "Brattleboro Downtown Historic District",
+        "People of Brattleboro, Vermont",
+        "Works of art",
+        "Self-published work",
+        "November 2023 in Vermont",
+        "United States photographs taken on 2023-11-02",
+        "Files with coordinates missing SDC location of creation",
+        "Interiors of cafés",
+        "Ceiling tiles",
+        "Wooden flooring in the United States",
+        "The Works Café (Brattleboro, Vermont)"
+      ],
+      "auteur": "Artaxerxes",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Interior_The_Works_Caf%C3%A9_118_Main_Street_downtown_Brattleboro_VT_November_2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Interior_The_Works_Caf%C3%A9_118_Main_Street_downtown_Brattleboro_VT_November_2023.jpg/1280px-Interior_The_Works_Caf%C3%A9_118_Main_Street_downtown_Brattleboro_VT_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dropped ceiling (USSR, 1980s) (01).jpg",
+      "description": "Подвесные потолки в музыкальной школе. Конец 80х - начало 90х годов.",
+      "categories": [
+        "CC-Zero",
+        "Dropped ceilings",
+        "Self-published work"
+      ],
+      "auteur": "Georg Pik",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dropped_ceiling_(USSR,_1980s)_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Dropped_ceiling_%28USSR%2C_1980s%29_%2801%29.jpg/1280px-Dropped_ceiling_%28USSR%2C_1980s%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2852,
+      "hauteur": 2852
+    }
+  ]
+}

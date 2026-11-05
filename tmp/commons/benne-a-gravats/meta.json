@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "benne-a-gravats",
+    "terme": "la benne à gravats",
+    "categorie": "Chantier et outillage",
+    "definition": "Grand caisson métallique ouvert, déposé par camion, dans lequel on jette les déchets et gravats du chantier.",
+    "priorite": 2,
+    "requetes": [
+      "skip container construction waste",
+      "benne à gravats",
+      "construction debris skip"
+    ],
+    "incompatibles": [
+      "camion-benne"
+    ],
+    "categoriesCommons": [
+      "Category:Skips (containers)",
+      "Category:Waste containers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bécs 584 (8135508253).jpg",
+      "description": "Bécs 584",
+      "categories": [
+        "Taken with Nikon Coolpix 4200",
+        "Skips (containers)",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by János Korom",
+        "Beer bottles (green glass)",
+        "Unidentified locations in Vienna",
+        "Files uploaded by Tokfo through bots"
+      ],
+      "auteur": "János Korom Dr. from Wien, Austria",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C3%A9cs_584_(8135508253).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/B%C3%A9cs_584_%288135508253%29.jpg/1280px-B%C3%A9cs_584_%288135508253%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1610,
+      "hauteur": 1193
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20240312 Yau Oi Est Trash Bin (1).jpg",
+      "description": "​位於香港屯門友愛邨的垃圾桶",
+      "categories": [
+        "Waste containers",
+        "Self-published work"
+      ],
+      "auteur": "Oscar Wai",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20240312_Yau_Oi_Est_Trash_Bin_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/20240312_Yau_Oi_Est_Trash_Bin_%281%29.jpg/1280px-20240312_Yau_Oi_Est_Trash_Bin_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Mellieha, Malta - panoramio (446).jpg",
+      "description": "Mellieha, Malta",
+      "categories": [
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Skips (containers)",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Malta photographs taken on 2015-02-10",
+        "Dawret il-Mellieħa",
+        "Photos from Panoramio ID 5853092",
+        "Roadworks in Mellieħa"
+      ],
+      "auteur": "Alan C. Bonnici",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mellieha,_Malta_-_panoramio_(446).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Mellieha%2C_Malta_-_panoramio_%28446%29.jpg/1280px-Mellieha%2C_Malta_-_panoramio_%28446%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2624,
+      "hauteur": 1968
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2021-06-08 21-07-06 - Fontainebleau - Village de la Faisanderie.jpg",
+      "description": "Village de la Faisanderie depuis la rue de Canada, à Fontainebleau.",
+      "categories": [
+        "Waste containers",
+        "Village de la Faisanderie",
+        "Self-published work",
+        "Waste containers in Seine-et-Marne",
+        "Images of Fontainebleau by Baidax",
+        "Images by Baidax taken with SM-G973F"
+      ],
+      "auteur": "Baidax",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021-06-08_21-07-06_-_Fontainebleau_-_Village_de_la_Faisanderie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2021-06-08_21-07-06_-_Fontainebleau_-_Village_de_la_Faisanderie.jpg/1280px-2021-06-08_21-07-06_-_Fontainebleau_-_Village_de_la_Faisanderie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Rosersbergs industriområde 02.jpg",
+      "description": "Rosersbergs industriområde",
+      "categories": [
+        "Skips (containers)",
+        "Self-published work",
+        "Images by i99pema",
+        "Files with coordinates missing SDC location of creation",
+        "Rosersbergs industriområde"
+      ],
+      "auteur": "I99pema",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rosersbergs_industriomr%C3%A5de_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Rosersbergs_industriomr%C3%A5de_02.jpg/1280px-Rosersbergs_industriomr%C3%A5de_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20210928 Brandstiftung Abfalleimer 01.jpg",
+      "description": "Arson/incendiary/vandalism: litter bin in a public park. Nordpark, Gladbeck (North Rhine-Westphalia), Germany.",
+      "categories": [
+        "Waste containers",
+        "Arsons",
+        "Self-published work",
+        "Nordpark Gladbeck"
+      ],
+      "auteur": "Ziko van Dijk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20210928_Brandstiftung_Abfalleimer_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/20210928_Brandstiftung_Abfalleimer_01.jpg/1280px-20210928_Brandstiftung_Abfalleimer_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2268
+    }
+  ]
+}

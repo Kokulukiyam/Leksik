@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "moulure",
+    "terme": "la moulure",
+    "categorie": "Ornement",
+    "definition": "Ornement en relief, de profil constant, qui court le long d'un mur, d'un plafond ou d'un encadrement.",
+    "priorite": 1,
+    "requetes": [
+      "moulding plaster ceiling",
+      "architectural molding",
+      "moulure"
+    ],
+    "incompatibles": [
+      "corniche",
+      "bandeau"
+    ],
+    "categoriesCommons": [
+      "Category:Moldings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Decorative Ceiling Trim Work.JPG",
+      "description": "Ceiling trim design in one of the modern homes. Decorative molding creations like this one are very popular form of interior decorating.",
+      "categories": [
+        "Taken with Canon Digital IXUS 75",
+        "Moldings",
+        "Self-published work",
+        "Interior architectural elements"
+      ],
+      "auteur": "Home trim moldings",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Decorative_Ceiling_Trim_Work.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Decorative_Ceiling_Trim_Work.JPG/1280px-Decorative_Ceiling_Trim_Work.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Clay pot workshop 20220916120442.jpg",
+      "description": "Molding of a clay pot",
+      "categories": [
+        "Clay",
+        "Moldings",
+        "Clay pot cooking",
+        "Self-published work",
+        "Clay pots"
+      ],
+      "auteur": "Philtom12",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clay_pot_workshop_20220916120442.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Clay_pot_workshop_20220916120442.jpg/1280px-Clay_pot_workshop_20220916120442.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dyrekcja Kolei w Gdańsku.JPG",
+      "description": "Dyrekcja Kolei w Gdańsku, sufit hallu / Witraż w Hallu",
+      "categories": [
+        "Taken with Sony DSC-H9",
+        "Moldings",
+        "Self-published work",
+        "Ceilings in Poland",
+        "Building ornaments in Gdańsk"
+      ],
+      "auteur": "JGorska",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dyrekcja_Kolei_w_Gda%C5%84sku.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dyrekcja_Kolei_w_Gda%C5%84sku.JPG/1280px-Dyrekcja_Kolei_w_Gda%C5%84sku.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2176
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bibliothek Luxemburg.JPG",
+      "description": "Bibliothek, Luxemburg",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Concrete",
+        "Moldings",
+        "License migration redundant",
+        "Bibliothèque municipale de la Ville de Luxembourg",
+        "Self-published work"
+      ],
+      "auteur": "Reckli",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bibliothek_Luxemburg.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Bibliothek_Luxemburg.JPG/1280px-Bibliothek_Luxemburg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Aula Absidata in Palestrina 17.JPG",
+      "description": "Sanctuary of Fortuna Primigenia and The National Archeological Museum Of Palestrina",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D80",
+        "Sanctuary of Fortuna Primigenia in Palestrina (Praeneste)",
+        "Moldings",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Egg and dart",
+        "Wikigita Roma - Palestrina 26 giugno 2011",
+        "Self-published work",
+        "Italy photographs taken on 2011-06-26",
+        "Ancient Roman Ionic architraves",
+        "Ancient Roman architraves in Palestrina"
+      ],
+      "auteur": "Camelia.boban",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aula_Absidata_in_Palestrina_17.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Aula_Absidata_in_Palestrina_17.JPG/1280px-Aula_Absidata_in_Palestrina_17.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Findlay and Co. -Findlay and Co's illustrated catalogue. Mouldings (models) 10-15. (1874). (21479605699).jpg",
+      "description": "Shows designs for mouldings. Quantity: 1 b&w photo-mechanical print(s) on page of sales catalogue.. Physical Description: Engraving on page 277 x 205 mm. Findlay & Co. :Findlay and Co's illustrated catalogue. Mouldings [models] 10-15. [1874].. Findlay & Co. :Findlay and Co's illustrated catalogue of cottages, doors, sashes, mouldings, architraves, and every description of furnishings for building purposes. Steam saw and planing mills, Stuart Castle & Cumberland Streets, Dunedin, N.Z. [1874]. Ref: Eph-B-BUILDING-SUPPLIES-1874-01-18. Alexander Turnbull Library, Wellington, New Zealand. natlib.go",
+      "categories": [
+        "Moldings",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Photographs by National Library NZ on The Commons"
+      ],
+      "auteur": "National Library NZ on The Commons",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Findlay_and_Co._-Findlay_and_Co%27s_illustrated_catalogue._Mouldings_(models)_10-15._(1874)._(21479605699).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Findlay_and_Co._-Findlay_and_Co%27s_illustrated_catalogue._Mouldings_%28models%29_10-15._%281874%29._%2821479605699%29.jpg/1280px-Findlay_and_Co._-Findlay_and_Co%27s_illustrated_catalogue._Mouldings_%28models%29_10-15._%281874%29._%2821479605699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2151,
+      "hauteur": 3164
+    }
+  ]
+}

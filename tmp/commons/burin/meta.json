@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "burin",
+    "terme": "le burin",
+    "categorie": "Chantier et outillage",
+    "definition": "Barre d'acier à bout plat et tranchant, frappée au marteau pour tailler ou démolir la maçonnerie.",
+    "priorite": 2,
+    "requetes": [
+      "cold chisel",
+      "burin",
+      "masonry chisel"
+    ],
+    "incompatibles": [
+      "masse"
+    ],
+    "categoriesCommons": [
+      "Category:Cold chisels",
+      "Category:Chisels"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Police Chief William Desmond's collection of burglars' tools and criminal curios displayed at the 1904 World's Fair.jpg",
+      "description": "Title: Police Chief William Desmond's collection of burglars' tools and criminal curios displayed at the 1904 World's Fair.",
+      "categories": [
+        "Hand-powered drills",
+        "Derringers",
+        "Door breaching",
+        "Brass knuckles",
+        "Webley revolvers",
+        "Colt Single Action Army",
+        "Lock picks",
+        "PD-Art (PD-US-expired)",
+        "Cold chisels",
+        "Images uploaded by Fæ",
+        "Baton (law enforcement)",
+        "Skeleton keys",
+        "Burglaries",
+        "Knolling",
+        "PD US expired",
+        "PD-Art missing SDC copyright status",
+        "PD-US missing SDC copyright status",
+        "Unidentified revolvers",
+        "Louisiana Purchase Exposition items in the collections of the Missouri History Museum"
+      ],
+      "auteur": "Byrnes Photographic Company",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Police_Chief_William_Desmond%27s_collection_of_burglars%27_tools_and_criminal_curios_displayed_at_the_1904_World%27s_Fair.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Police_Chief_William_Desmond%27s_collection_of_burglars%27_tools_and_criminal_curios_displayed_at_the_1904_World%27s_Fair.jpg/1280px-Police_Chief_William_Desmond%27s_collection_of_burglars%27_tools_and_criminal_curios_displayed_at_the_1904_World%27s_Fair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2719,
+      "hauteur": 1958
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dubai-20110717-00042.jpg",
+      "description": "Anaana",
+      "categories": [
+        "Taken with BlackBerry 9700",
+        "Cleaning",
+        "Chisels",
+        "Blurred images",
+        "Images of low quality",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Disposable gloves"
+      ],
+      "auteur": "غريب",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dubai-20110717-00042.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Dubai-20110717-00042.jpg/1280px-Dubai-20110717-00042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:ColdChisels.jpg",
+      "description": "Photograph taken by Glenn McKechnie on the 24th March 2005. Side view and top view of two metal working cold chisels. Both have mushroom heads developing (peening of metal where the hammer strikes the chisel).",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Files with no machine-readable source",
+        "License migration redundant",
+        "Cold chisels",
+        "Self-published work",
+        "Assumed own work"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Graibeard (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ColdChisels.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/ColdChisels.jpg/1280px-ColdChisels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1758,
+      "hauteur": 681
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chisel (AM 1933.379-9).jpg",
+      "description": "Chisel. Complete. Blade straight, bevel chin well defined. Poll end rounded and ground. Width middle 12 mm, thickness middle 6 mm. Pounamu, Arahura source.",
+      "categories": [
+        "Chisels",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Unknown date",
+        "Template Unknown (author)",
+        "Images from Auckland Museum marked with cultural permissions"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chisel_(AM_1933.379-9).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Chisel_%28AM_1933.379-9%29.jpg/1280px-Chisel_%28AM_1933.379-9%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Differentially tempered chisel.jpg",
+      "description": "A cold chisel that has been frist quenched, and then differentially tempered. The blue shaft is tempered to a very springy hardness, but the edge is tempered at a very high hardness, as indicated by the tempering colors. This was done by evenly heating the entire tool, with a small propane torch, to around 350 degrees F, and then redirecting the heat to the rear end of the chisel, brushing the flame evenly across the shaft. until it turned a deep blue color. The residual heat conducted quicky to the cutting edge, so the entire tool was quenched when the edge turned the proper color. (The blue ",
+      "categories": [
+        "CC-Zero",
+        "Chisels",
+        "Self-published work",
+        "Temper colors"
+      ],
+      "auteur": "Zaereth",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Differentially_tempered_chisel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Differentially_tempered_chisel.jpg/1280px-Differentially_tempered_chisel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3481,
+      "hauteur": 865
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Beitel - L1ZFL - 60012112 - RCE.jpg",
+      "description": "breeuwijzer / beitel Objectnummer: [MA]ZL1-29 Materiaal: Onbekend",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Chisels",
+        "Template Unknown (author)",
+        "Images of shipwrecks from the Rijksdienst voor het Cultureel Erfgoed",
+        "Maritime archaeology in the Netherlands",
+        "Shipwreck L1ZFL"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beitel_-_L1ZFL_-_60012112_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Beitel_-_L1ZFL_-_60012112_-_RCE.jpg/1280px-Beitel_-_L1ZFL_-_60012112_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    }
+  ]
+}

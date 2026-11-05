@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "tube-galvanise",
+    "terme": "le tube galvanisé",
+    "categorie": "Réseaux et équipements",
+    "definition": "Tuyau en acier recouvert de zinc, gris mat, fileté aux extrémités, pour l'eau ou la protection incendie.",
+    "priorite": 2,
+    "requetes": [
+      "galvanized steel pipe",
+      "tube acier galvanisé",
+      "galvanized pipe plumbing"
+    ],
+    "categoriesCommons": [
+      "Category:Steel pipes",
+      "Category:Pipes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:CYII (1930-1932) 12.jpg",
+      "description": "Nueva tubería de acero en el Sifón de El Morenillo. El Molar / El Vellón (Madrid)",
+      "categories": [
+        "Steel pipes",
+        "Template Unknown (author)",
+        "Water pipes in Spain",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "History of El Vellón",
+        "Sifón de El Morenillo",
+        "Canal de Isabel II in the 1930s"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CYII_(1930-1932)_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/CYII_%281930-1932%29_12.jpg/1280px-CYII_%281930-1932%29_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2399,
+      "hauteur": 3733
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Arbeiders bij een vrachtwagen met daarop een buis die van de wagen zal worden ge, Bestanddeelnr 255-4757.jpg",
+      "description": "Collectie / Archief : Fotocollectie Van de Poll Reportage / Serie : [ onbekend ] Beschrijving : Arbeiders bij een vrachtwagen met daarop een buis die van de wagen zal worden gerold en die gebruikt zal worden bij een bevloeiingsproject in de Negevwoestijn Datum : 1 januari 1960 Locatie : Israël, Negev Trefwoorden : bevloeiingswerken, buizen Fotograaf : Poll, Willem van de, [onbekend] Auteursrechthebbende : Nationaal Archief Materiaalsoort : Negatief (zwart/wit) Nummer archiefinventaris : bekijk toegang 2.24.14.02 Bestanddeelnummer : 255-4757",
+      "categories": [
+        "Pipes",
+        "CC-Zero",
+        "Images from Nationaal Archief",
+        "Trucks in Israel",
+        "Photographs by Willem van de Poll in Israel (1960)",
+        "Construction of National Water Carrier of Israel",
+        "Photographs by Willem van de Poll in the Negev, Israel"
+      ],
+      "auteur": "Willem van de Poll",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arbeiders_bij_een_vrachtwagen_met_daarop_een_buis_die_van_de_wagen_zal_worden_ge,_Bestanddeelnr_255-4757.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Arbeiders_bij_een_vrachtwagen_met_daarop_een_buis_die_van_de_wagen_zal_worden_ge%2C_Bestanddeelnr_255-4757.jpg/1280px-Arbeiders_bij_een_vrachtwagen_met_daarop_een_buis_die_van_de_wagen_zal_worden_ge%2C_Bestanddeelnr_255-4757.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2629,
+      "hauteur": 2646
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Isoplus fernwärme Technik Rohrlager am Bahnhof sankt Aegyd am Neuwalde Ende April 2022.jpg",
+      "description": "Steel",
+      "categories": [
+        "Bahnhof St. Aegyd am Neuwalde",
+        "Steel pipes",
+        "Self-published work",
+        "Isoplus Austria"
+      ],
+      "auteur": "AlexHauss2608",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Isoplus_fernw%C3%A4rme_Technik_Rohrlager_am_Bahnhof_sankt_Aegyd_am_Neuwalde_Ende_April_2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Isoplus_fernw%C3%A4rme_Technik_Rohrlager_am_Bahnhof_sankt_Aegyd_am_Neuwalde_Ende_April_2022.jpg/1280px-Isoplus_fernw%C3%A4rme_Technik_Rohrlager_am_Bahnhof_sankt_Aegyd_am_Neuwalde_Ende_April_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2268
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:- Flickr - Edna Winti (2).jpg",
+      "description": "Potrubí na zdi domu",
+      "categories": [
+        "Pipes",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs taken on 2019-07-26",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore",
+        "Architectural elements in Vancouver"
+      ],
+      "auteur": "Edna Winti",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_Flickr_-_Edna_Winti_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/-_Flickr_-_Edna_Winti_%282%29.jpg/1280px--_Flickr_-_Edna_Winti_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3609,
+      "hauteur": 2886
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2134Poblacion Baliuag Bustos Proper 29.jpg",
+      "description": "Poblacion Baliuag Bustos Proper",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Steel pipes",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Files with coordinates missing SDC location of creation",
+        "Men at work in Bulacan",
+        "Philippines photographs taken on 2021-02-12"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2134Poblacion_Baliuag_Bustos_Proper_29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2134Poblacion_Baliuag_Bustos_Proper_29.jpg/1280px-2134Poblacion_Baliuag_Bustos_Proper_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:16 Strada Dimitrie Racoviță, Bucharest (01).jpg",
+      "description": "16 Strada Dimitrie Racoviță, Bucharest",
+      "categories": [
+        "Pipes",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "September 2022 in Bucharest",
+        "Strada Dimitrie Racoviță, 16",
+        "Art Nouveau reliefs in Bucharest"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:16_Strada_Dimitrie_Racovi%C8%9B%C4%83,_Bucharest_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/16_Strada_Dimitrie_Racovi%C8%9B%C4%83%2C_Bucharest_%2801%29.jpg/1280px-16_Strada_Dimitrie_Racovi%C8%9B%C4%83%2C_Bucharest_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2772,
+      "hauteur": 2862
+    }
+  ]
+}

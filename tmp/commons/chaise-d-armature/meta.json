@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "chaise-d-armature",
+    "terme": "la chaise d'armature",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Support en acier plié ou en plastique qui tient la nappe supérieure d'armatures d'une dalle à la bonne hauteur.",
+    "priorite": 2,
+    "requetes": [
+      "rebar chair",
+      "chaise armature dalle",
+      "rebar support chair slab"
+    ],
+    "incompatibles": [
+      "ferraillage",
+      "ferraillage-de-dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Angled rebar.jpg",
+      "description": "Somewhat rusty rebar bent at 90 degrees angle at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden. Photo taken on this site .",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Angled_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Angled_rebar.jpg/1280px-Angled_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3624,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Amboise 06.JPG",
+      "description": "Aciers apparents sur le bâtiment de l'hôtel de ville.",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Nikon Coolpix P310",
+        "Carbonatation",
+        "Town hall of Amboise",
+        "Self-published work"
+      ],
+      "auteur": "Abujoy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amboise_06.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Amboise_06.JPG/1280px-Amboise_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Antica barra acciaio.jpg",
+      "description": "Vecchia barra d'acciaio utilizzata un tempo in travi in cemento armato",
+      "categories": [
+        "GFDL",
+        "Taken with HP PhotoSmart R707",
+        "Rebar",
+        "License migration completed"
+      ],
+      "auteur": "Mattia Campolese (me) utente:matsoftware",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antica_barra_acciaio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Antica_barra_acciaio.jpg/1280px-Antica_barra_acciaio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Calculator for reinforced concrete, a multipurpose slide rule, 1920s - Science Museum, London - DSC05616.jpg",
+      "description": "Exhibit in the Science Museum, London, UK.",
+      "categories": [
+        "Reinforced concrete",
+        "CC-Zero",
+        "Self-published work",
+        "Computing exhibits in the Science Museum, London",
+        "Specialized slide rules"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calculator_for_reinforced_concrete,_a_multipurpose_slide_rule,_1920s_-_Science_Museum,_London_-_DSC05616.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg/1280px-Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4290,
+      "hauteur": 3235
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A bunch of rebar.jpg",
+      "description": "Closeup of straight rebar at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Retouched pictures",
+        "Rebar",
+        "Decomposed granite",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Bundles",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden",
+        "Reused images by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_bunch_of_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_bunch_of_rebar.jpg/1280px-A_bunch_of_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4512,
+      "hauteur": 3504
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 30.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_30.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_30.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

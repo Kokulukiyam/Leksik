@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "tremie",
+    "terme": "la trémie",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Grande ouverture laissée dans un plancher pour le passage d'un escalier, d'un ascenseur ou d'une gaine.",
+    "priorite": 2,
+    "requetes": [
+      "floor opening concrete slab stairwell",
+      "trémie plancher",
+      "slab opening construction"
+    ],
+    "incompatibles": [
+      "reservation"
+    ],
+    "categoriesCommons": [
+      "Category:Floor openings",
+      "Category:Concrete slabs",
+      "Category:Concrete construction"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Room in Kotor Fortress.jpg",
+      "description": "Abandoned room in the Castle of St. John in Kotor (Montenegro)",
+      "categories": [
+        "Castle of St. John in Kotor",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Holes in the ground",
+        "Floor openings",
+        "Holes in roofs"
+      ],
+      "auteur": "Palaeontolawgist",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Room_in_Kotor_Fortress.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Room_in_Kotor_Fortress.jpg/1280px-Room_in_Kotor_Fortress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5712,
+      "hauteur": 4284
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bardejov, 2022 (55).jpg",
+      "description": "Bardejov",
+      "categories": [
+        "Bardejov",
+        "City walls in Bardejov",
+        "Concrete slabs",
+        "Uploaded with pattypan",
+        "Concrete columns",
+        "Slovakia photographs taken on 2022-07-04",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Draceane – Slovakia",
+        "Taken with Canon EOS 90D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C",
+        "Renesančná bašta (Bardejov)"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bardejov,_2022_(55).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bardejov%2C_2022_%2855%29.jpg/1280px-Bardejov%2C_2022_%2855%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4640,
+      "hauteur": 6960
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Residential reconstruction with zero greenery.jpg",
+      "description": "Residential reconstruction with zero greenery",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "House construction in Japan",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Yakumo, Meguro",
+        "Tokyo photographs taken on 2024-11-04",
+        "Concrete construction",
+        "Construction sites in Tokyo in the 2020s",
+        "Single Pipe Barricade"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Residential_reconstruction_with_zero_greenery.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Residential_reconstruction_with_zero_greenery.jpg/1280px-Residential_reconstruction_with_zero_greenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:CNMS Lobby (12507609194).jpg",
+      "description": "Center for Nanophase Materials Sciences",
+      "categories": [
+        "Oak Ridge National Laboratory",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Floor openings"
+      ],
+      "auteur": "Oak Ridge National Laboratory",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CNMS_Lobby_(12507609194).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/CNMS_Lobby_%2812507609194%29.jpg/1280px-CNMS_Lobby_%2812507609194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 960
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:19870724010NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße / Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Hier: WBS 70 Plattenbau Außenwandentwicklung. [R19870724A03.jpg]19870724010NR.JPG(c)Blobelt",
+      "categories": [
+        "WBS 70",
+        "Concrete slabs",
+        "Mandoline (luminaire)",
+        "Facades in Berlin",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Concrete panels",
+        "Concrete architectural elements in the German Democratic Republic"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724010NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/19870724010NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724010NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ready for concrete.jpg",
+      "description": "Radon/methane membrane, steel re-enforcement with edge thickener and peckafill type shutter.",
+      "categories": [
+        "Self-published work",
+        "Construction sites in the United Kingdom",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (53° N, 4° W)",
+        "Concrete construction"
+      ],
+      "auteur": "Bugsybanana",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ready_for_concrete.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Ready_for_concrete.jpg/1280px-Ready_for_concrete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "voute-en-berceau",
+    "terme": "la voûte en berceau",
+    "categorie": "Structure",
+    "definition": "Voûte de section en demi-cercle, prolongée en ligne droite comme un demi-cylindre.",
+    "priorite": 2,
+    "requetes": [
+      "barrel vault",
+      "voûte en berceau",
+      "barrel vault ceiling"
+    ],
+    "incompatibles": [
+      "voute",
+      "voute-nubienne"
+    ],
+    "categoriesCommons": [
+      "Category:Barrel vaults",
+      "Category:Vaults"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ancient Roman vault of Apollonia, Albania 01.jpg",
+      "description": "Ancient Roman vault of Apollonia, Albania.",
+      "categories": [
+        "Apollonia (Albania)",
+        "Barrel vaults",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Carole Raddato",
+        "Albania photographs taken on 2016-07-03"
+      ],
+      "auteur": "Carole Raddato from Frankfurt, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_vault_of_Apollonia,_Albania_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ancient_Roman_vault_of_Apollonia%2C_Albania_01.jpg/1280px-Ancient_Roman_vault_of_Apollonia%2C_Albania_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Homenaje a Eladio Dieste monumento Salto 02.jpg",
+      "description": "Homenaje de la ciudad uruguaya de Salto al ingeniero Eladio Dieste, monumento denominado Puerta de la sabiduría y conocido por los lugareños como \"La gaviota\".",
+      "categories": [
+        "GFDL",
+        "Taken with Kodak EasyShare V550",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Vaults",
+        "Files with no machine-readable source",
+        "Eladio Dieste",
+        "License migration redundant",
+        "Salto, Uruguay",
+        "Self-published work",
+        "Assumed own work",
+        "November 2005 in Uruguay",
+        "Photographs taken on 2005-11-09",
+        "Monuments and memorials in Salto Department"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Tano4595 (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Homenaje_a_Eladio_Dieste_monumento_Salto_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Homenaje_a_Eladio_Dieste_monumento_Salto_02.jpg/1280px-Homenaje_a_Eladio_Dieste_monumento_Salto_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1716
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Boveda de cañon Teatro Modesto Omiste.jpg",
+      "description": "Detalle de la boveda de Cañón del Teatro Modesto Omiste",
+      "categories": [
+        "CC-Zero",
+        "Barrel vaults",
+        "Self-published work",
+        "Ceilings in Bolivia",
+        "Teatro Modesto Omiste",
+        "Interiors of theaters in Bolivia"
+      ],
+      "auteur": "CareJesi",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boveda_de_ca%C3%B1on_Teatro_Modesto_Omiste.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Boveda_de_ca%C3%B1on_Teatro_Modesto_Omiste.jpg/1280px-Boveda_de_ca%C3%B1on_Teatro_Modesto_Omiste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1932,
+      "hauteur": 2576
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - FO232095 - Architettura e mattoni - arco-volta.jpg",
+      "description": "10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - Architettura e mattoni - arco-volta",
+      "categories": [
+        "Baths of Caracalla",
+        "Vaults",
+        "Opus lateritium",
+        "Self-published work"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232095_-_Architettura_e_mattoni_-_arco-volta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/10_2023_-_Terme_%28Baths_of%29_Caracalla%2C_Arte_Romana%2C_Viale_Guido_Baccelli%2C_Rome%2C_Roma%2C_Lazio%2C_00154%2C_Italy_-_Photo_Paolo_Villa_-_FO232095_-_Architettura_e_mattoni_-_arco-volta.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:C15 barrel vaulted roof (geograph 7674746).jpg",
+      "description": "C15 barrel vaulted roof. The beautiful church of St Michael in Myddfai contains many interesting features including this 15th century plaster-panelled barrel roof. The longitudinal ribs are missing here in the south nave but are visible elsewhere. Festive decorations are on the pews alongside the aisle.",
+      "categories": [
+        "St Michael's Church, Myddfai",
+        "Barrel vaults",
+        "Images from Geograph Britain and Ireland",
+        "Naves in Wales",
+        "Information field template with formatting",
+        "December 2023 in Carmarthenshire",
+        "Interiors of churches in Carmarthenshire",
+        "Images by Alan Hughes"
+      ],
+      "auteur": "Alan Hughes",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C15_barrel_vaulted_roof_(geograph_7674746).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/C15_barrel_vaulted_roof_%28geograph_7674746%29.jpg/1280px-C15_barrel_vaulted_roof_%28geograph_7674746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bóvedas del embalse del Jándula.jpg",
+      "description": "Bóvedas expresionistas de sección mixta (Medio punto y herradura inferior y semi-conopial superior) de hormigón ciclópeo y encofrado perdido de sillares de granito en el embalse del Jándula, en Andújar (1931, Jaén)",
+      "categories": [
+        "Vaults",
+        "Expressionist architecture",
+        "Concrete shell structures",
+        "Concrete structures",
+        "Stone structures",
+        "Architectural structures",
+        "Stone roofs",
+        "Ogee roofs"
+      ],
+      "auteur": "Glorialoppez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C3%B3vedas_del_embalse_del_J%C3%A1ndula.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/B%C3%B3vedas_del_embalse_del_J%C3%A1ndula.jpg/1280px-B%C3%B3vedas_del_embalse_del_J%C3%A1ndula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2384,
+      "hauteur": 1621
+    }
+  ]
+}

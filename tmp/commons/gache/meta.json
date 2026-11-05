@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "gache",
+    "terme": "la gâche",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Pièce métallique fixée sur le dormant, dans laquelle s'engage le pêne de la serrure.",
+    "priorite": 2,
+    "requetes": [
+      "strike plate door",
+      "gâche serrure",
+      "door strike plate"
+    ],
+    "incompatibles": [
+      "pene"
+    ],
+    "categoriesCommons": [
+      "Category:Strike plates",
+      "Category:Door locks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Schließblech 01 (fcm).jpg",
+      "description": "Bildinhalt: Links eine leicht geöffnete Tür mit Türgriff, rechts die metallene Türzarge dazu mit integriertem Schließblech und seinen zwei Löchern für die Falle und den Riegel. Aufnahmeort: Frankfurt am Main, Deutschland",
+      "categories": [
+        "Germany photographs taken on 2019-02-22",
+        "Taken with Canon EOS 600D",
+        "Self-published work",
+        "Images by Frank C. Müller",
+        "Strike plates",
+        "Iron door handles"
+      ],
+      "auteur": "Photographie : Frank C. Müller , Frankfurt am Main",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schlie%C3%9Fblech_01_(fcm).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Schlie%C3%9Fblech_01_%28fcm%29.jpg/1280px-Schlie%C3%9Fblech_01_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2814,
+      "hauteur": 4044
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:ArlandaAirportToiletDoorKnob-2.jpg",
+      "description": "",
+      "categories": [
+        "Stockholm-Arlanda Airport",
+        "Media lacking a description",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Toilets in Sweden",
+        "Door handles in Sweden",
+        "2016 in Stockholm County",
+        "Toilet doors"
+      ],
+      "auteur": "Leon S.K.",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ArlandaAirportToiletDoorKnob-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/ArlandaAirportToiletDoorKnob-2.jpg/1280px-ArlandaAirportToiletDoorKnob-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Slutbleck Boda nr 4014 inmonterad i dörrkarm år 1981.jpg",
+      "description": "Installed in door frame for front door in 1981.Two screws on the left edge are screwed in at a 90 degree angle towards the inner edge of the frame as reinforcement of the hole for the lock body's locking bolt (s).",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Strike plates"
+      ],
+      "auteur": "Dalruwa",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Slutbleck_Boda_nr_4014_inmonterad_i_d%C3%B6rrkarm_%C3%A5r_1981.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Slutbleck_Boda_nr_4014_inmonterad_i_d%C3%B6rrkarm_%C3%A5r_1981.jpg/1280px-Slutbleck_Boda_nr_4014_inmonterad_i_d%C3%B6rrkarm_%C3%A5r_1981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1851,
+      "hauteur": 3959
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:B&G Hekwerk door lock, Oude Pekela (2020) 02.jpg",
+      "description": "A door lock manufactured by B&G Hekwerk in the Groninger village of Oude Pekela, Veenkoloniën.",
+      "categories": [
+        "Self-published work",
+        "Door locks",
+        "2020 in Oude Pekela",
+        "Files with coordinates missing SDC location of creation (53° N, 7° E)"
+      ],
+      "auteur": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject N",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%26G_Hekwerk_door_lock,_Oude_Pekela_(2020)_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/B%26G_Hekwerk_door_lock%2C_Oude_Pekela_%282020%29_02.jpg/1280px-B%26G_Hekwerk_door_lock%2C_Oude_Pekela_%282020%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4864,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:\"YKK AP\" lock on a Japanese balcony door, showing all positions - 1.jpg",
+      "description": "zámek u dveří",
+      "categories": [
+        "CC-Zero",
+        "YKK Group",
+        "Self-published work",
+        "Door locks",
+        "Uploaded with Mobile/Android",
+        "Uploaded with Mobile/Android (Nov 2017-Aug 2019)",
+        "Files with coordinates missing SDC location of creation",
+        "Japan photographs taken on 2018-07-31",
+        "Windows in Japan (inside)"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22YKK_AP%22_lock_on_a_Japanese_balcony_door,_showing_all_positions_-_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%22YKK_AP%22_lock_on_a_Japanese_balcony_door%2C_showing_all_positions_-_1.jpg/1280px-%22YKK_AP%22_lock_on_a_Japanese_balcony_door%2C_showing_all_positions_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Balkenschloss Montage 3.jpg",
+      "description": "Montage eines Panzerschlosses (Querriegelschloss), dritter Montageschritt: die Abdeckung montiert, fertig gestellt",
+      "categories": [
+        "Self-published work",
+        "Door locks"
+      ],
+      "auteur": "Miriam Denk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balkenschloss_Montage_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Balkenschloss_Montage_3.jpg/1280px-Balkenschloss_Montage_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

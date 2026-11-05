@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "serrure-en-applique",
+    "terme": "la serrure en applique",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Serrure dont le boîtier est vissé en saillie sur la face intérieure du vantail.",
+    "priorite": 2,
+    "requetes": [
+      "rim lock door",
+      "serrure en applique",
+      "rim lock"
+    ],
+    "incompatibles": [
+      "serrure"
+    ],
+    "categoriesCommons": [
+      "Category:Rim locks",
+      "Category:Door locks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:MOs810 WG 2015 22 (Notecka III) (Church in Drawsko, gm. Drawsko) (7).JPG",
+      "description": "Kościół Najśw. Serca Pana Jezusa w Drawsku wraz z otoczeniem.",
+      "categories": [
+        "Sacred Heart church in Drawsko",
+        "Self-published work",
+        "Rim locks",
+        "Wikigrant WG 2015-22"
+      ],
+      "auteur": "MOs810",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MOs810_WG_2015_22_(Notecka_III)_(Church_in_Drawsko,_gm._Drawsko)_(7).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/MOs810_WG_2015_22_%28Notecka_III%29_%28Church_in_Drawsko%2C_gm._Drawsko%29_%287%29.JPG/1280px-MOs810_WG_2015_22_%28Notecka_III%29_%28Church_in_Drawsko%2C_gm._Drawsko%29_%287%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1360
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:B&G Hekwerk door lock, Oude Pekela (2020) 02.jpg",
+      "description": "A door lock manufactured by B&G Hekwerk in the Groninger village of Oude Pekela, Veenkoloniën.",
+      "categories": [
+        "Self-published work",
+        "Door locks",
+        "2020 in Oude Pekela",
+        "Files with coordinates missing SDC location of creation (53° N, 7° E)"
+      ],
+      "auteur": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject N",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%26G_Hekwerk_door_lock,_Oude_Pekela_(2020)_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/B%26G_Hekwerk_door_lock%2C_Oude_Pekela_%282020%29_02.jpg/1280px-B%26G_Hekwerk_door_lock%2C_Oude_Pekela_%282020%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4864,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A Prisão.jpg",
+      "description": "Aymores - Lauro de Souza Lima",
+      "categories": [
+        "Self-published work",
+        "Rim locks",
+        "Images from Wiki Loves Earth 2014 in Brazil",
+        "Images from Wiki Loves Earth 2014",
+        "Uploaded via Campaign:wle-br",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil photographs taken on 2013-10-06",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation"
+      ],
+      "auteur": "Jucivaldo Passos",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Pris%C3%A3o.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/A_Pris%C3%A3o.jpg/1280px-A_Pris%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1576,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:ArlandaAirportToiletDoorKnob-2.jpg",
+      "description": "",
+      "categories": [
+        "Stockholm-Arlanda Airport",
+        "Media lacking a description",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Toilets in Sweden",
+        "Door handles in Sweden",
+        "2016 in Stockholm County",
+        "Toilet doors"
+      ],
+      "auteur": "Leon S.K.",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ArlandaAirportToiletDoorKnob-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/ArlandaAirportToiletDoorKnob-2.jpg/1280px-ArlandaAirportToiletDoorKnob-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Jania rim lock construction details P04.jpg",
+      "description": "Construction details of Jania rim door lock.",
+      "categories": [
+        "Self-published work",
+        "Rim locks",
+        "Jania locks"
+      ],
+      "auteur": "Fallaner",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jania_rim_lock_construction_details_P04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Jania_rim_lock_construction_details_P04.jpg/1280px-Jania_rim_lock_construction_details_P04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cerradura puerta.jpg",
+      "description": "Cerradura puerta",
+      "categories": [
+        "Self-published work",
+        "Door locks"
+      ],
+      "auteur": "Elduendesuarez",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cerradura_puerta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cerradura_puerta.jpg/1280px-Cerradura_puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1827,
+      "hauteur": 1142
+    }
+  ]
+}

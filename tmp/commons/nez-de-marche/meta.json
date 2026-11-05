@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "nez-de-marche",
+    "terme": "le nez de marche",
+    "categorie": "Escaliers et circulations",
+    "definition": "Bord avant de la marche, souvent arrondi ou garni d'un profilé antidérapant.",
+    "priorite": 2,
+    "requetes": [
+      "stair nosing",
+      "nez de marche",
+      "anti slip stair nosing"
+    ],
+    "incompatibles": [
+      "marche"
+    ],
+    "categoriesCommons": [
+      "Category:Stairs",
+      "Category:Steps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1978 Pierre Debeaux Villa Pradier 1.jpg",
+      "description": "Architect Pierre Debeaux descending the stairs of villa Pradier",
+      "categories": [
+        "Stairs",
+        "Concrete",
+        "Pierre Debeaux",
+        "Self-published work",
+        "Male architects from France"
+      ],
+      "auteur": "IndicibleEspace",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1978_Pierre_Debeaux_Villa_Pradier_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1978_Pierre_Debeaux_Villa_Pradier_1.jpg/1280px-1978_Pierre_Debeaux_Villa_Pradier_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1865,
+      "hauteur": 2686
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Barcelona - Montjuïc - Passeig de Santa Madrona - View ESE towards Palau Nacional 1929.jpg",
+      "description": "Barcelona - Montjuïc - Passeig de Santa Madrona - View ESE towards Palau Nacional 1929",
+      "categories": [
+        "Montjuïc",
+        "Barcelona in the 2010s",
+        "Palau Nacional (Barcelona)",
+        "Steps",
+        "Self-published work",
+        "Spring in Catalonia",
+        "May 2011 Spain photographs",
+        "Files with coordinates missing SDC location of creation",
+        "1929 works in Catalonia"
+      ],
+      "auteur": "Txllxt TxllxT",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Montju%C3%AFc_-_Passeig_de_Santa_Madrona_-_View_ESE_towards_Palau_Nacional_1929.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Barcelona_-_Montju%C3%AFc_-_Passeig_de_Santa_Madrona_-_View_ESE_towards_Palau_Nacional_1929.jpg/1280px-Barcelona_-_Montju%C3%AFc_-_Passeig_de_Santa_Madrona_-_View_ESE_towards_Palau_Nacional_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3918,
+      "hauteur": 5878
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:500px photo (39215046).jpeg",
+      "description": "500px provided description: Untitled [#escaleras]",
+      "categories": [
+        "Stairs",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Rosa Elena Méndez Meza",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(39215046).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/500px_photo_%2839215046%29.jpeg/1280px-500px_photo_%2839215046%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1360
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A11656 29 (509904395).jpg",
+      "description": "[1] [2]",
+      "categories": [
+        "Police officers of China",
+        "Steps",
+        "Police handling traffic in China",
+        "Flickr images reviewed by FlickreviewR",
+        "Snow in Beijing",
+        "Traffic signals in Beijing"
+      ],
+      "auteur": "oskar karlin",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A11656_29_(509904395).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/A11656_29_%28509904395%29.jpg/1280px-A11656_29_%28509904395%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2055,
+      "hauteur": 1381
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2024-10-05 WikiCon 2024 021.jpg",
+      "description": "WikiCon 2024 in Wiesbaden - Hier endet das WikiCon-Bereich.",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Interior of Altes Gericht (Wiesbaden)",
+        "WikiCon 2024/Location"
+      ],
+      "auteur": "Ahmet Düz, Dreiländer- & Oberrheinfotograf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-10-05_WikiCon_2024_021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2024-10-05_WikiCon_2024_021.jpg/1280px-2024-10-05_WikiCon_2024_021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Barcelona - Montjuïc - Below Mirador del Palau Nacional - View West.jpg",
+      "description": "Barcelona - Montjuïc - Below Mirador del Palau Nacional - View West",
+      "categories": [
+        "Montjuïc",
+        "Barcelona in the 2010s",
+        "Steps",
+        "Self-published work",
+        "Spring in Catalonia",
+        "Trees in Catalonia",
+        "May 2011 Spain photographs",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Txllxt TxllxT",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Montju%C3%AFc_-_Below_Mirador_del_Palau_Nacional_-_View_West.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Barcelona_-_Montju%C3%AFc_-_Below_Mirador_del_Palau_Nacional_-_View_West.jpg/1280px-Barcelona_-_Montju%C3%AFc_-_Below_Mirador_del_Palau_Nacional_-_View_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5847,
+      "hauteur": 3898
+    }
+  ]
+}

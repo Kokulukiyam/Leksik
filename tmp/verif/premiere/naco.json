@@ -1,0 +1,58 @@
+{
+  "termId": "naco",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre à petits-bois en bois blanche, en pied de façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre ordinaire, pas à lames."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mascotte enlaçant un enfant, fenêtre haute à lames au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ponta Grossa, Brésil",
+      "note": "Fenêtre à lames secondaire, mascotte dominante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade en brique avec grandes fenêtres à petits-bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de lames."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre lumineuse dans une pièce sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Femmes devant une porte et des vitres à lames de verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Porto Alegre",
+      "note": "Personnes dominantes, lames partielles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Salle de classe dont les grandes fenêtres sont à lames horizontales pivotantes à cadre bleu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.0,
+        "largeur": 0.7,
+        "hauteur": 0.43
+      },
+      "lieu": "Porto Alegre, Brésil",
+      "note": "Fenêtres à jalousies nettes ; rectangle sur la rangée de fenêtres, enfants en dessous."
+    }
+  ]
+}

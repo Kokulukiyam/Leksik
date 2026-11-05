@@ -1,0 +1,45 @@
+{
+  "termId": "tessons-de-verre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan de tessons de bouteille vert sombre scellés dans le mortier au sommet d'un mur.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Torquay, Royaume-Uni",
+      "note": "Tessons nets dans le mortier, sans ambiguïté."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tessons de bouteille noirs et verts scellés en crête d'un mur de pierre, mer en arrière-plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Torquay, Royaume-Uni",
+      "note": "Crête de mur hérissée de tessons, très lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur enduit avec une fine ligne de tessons à peine visible, façade et échafaudage derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tessons trop petits et peu lisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Crête de mur de pierre en diagonale garnie de tessons de bouteille ambrés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Valable mais redondante avec 05 (meilleure)."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tessons de bouteille ambrés dressés sur le sommet d'un mur de pierre, ciel bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image la plus claire du principe : tessons scellés en crête de mur."
+    }
+  ]
+}

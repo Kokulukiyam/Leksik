@@ -1,0 +1,172 @@
+{
+  "terme": {
+    "id": "escalier-quart-tournant",
+    "terme": "l'escalier quart tournant",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier qui change de direction à angle droit, par un palier ou des marches tournantes.",
+    "priorite": 2,
+    "requetes": [
+      "L-shaped staircase",
+      "escalier quart tournant",
+      "quarter turn stairs"
+    ],
+    "incompatibles": [
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Alaverdi - building interior.jpg",
+      "description": "Apartment building interior in Alaverdi, Armenia.",
+      "categories": [
+        "Building interiors in Armenia",
+        "Taken with Sony DSC-RX100 III",
+        "Staircases",
+        "Alaverdi",
+        "Uploaded with VicuñaUploader",
+        "Apartment buildings in Armenia",
+        "Pink walls",
+        "Armenia photographs taken on 2018-05-10"
+      ],
+      "auteur": "Tiia Monto",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alaverdi_-_building_interior.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alaverdi_-_building_interior.jpg/1280px-Alaverdi_-_building_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2121,
+      "hauteur": 3182
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:9-11 Memorial Stair Climb (6368352).jpg",
+      "description": "U.S. Air Force Airmen from the 435th Construction and Training Squadron climb stairs during a 9/11 memorial event at Ramstein Air Base, Germany, Sept. 11, 2020. The annual event honors the 343 firefighters that lost their lives during 9/11. (U.S. Air Force photo by Staff Sgt. Jourdan Barrons)",
+      "categories": [
+        "Germany photographs taken on 2020-09-11",
+        "Stairs",
+        "PD US Air Force",
+        "Files created by the United States Air Force with known IDs",
+        "Patriot Day 2020",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Military firefighters of the United States"
+      ],
+      "auteur": "U.S. Air Force photo by Staff Sgt. Jourdan Barrons",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:9-11_Memorial_Stair_Climb_(6368352).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/9-11_Memorial_Stair_Climb_%286368352%29.jpg/1280px-9-11_Memorial_Stair_Climb_%286368352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5343,
+      "hauteur": 3562
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:11-12-Südkreuz.jpg",
+      "description": "Railway station Berlin Südkreuz , upper level, tracks 11 & 12 (eastbound).",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Files by User:FkMohr/Verkehr",
+        "Files with coordinates missing SDC location of creation",
+        "Berlin photographs taken on 2016-12-15",
+        "Bahnhof Berlin Südkreuz (ringline upperfloor)",
+        "Interior of Bahnhof Berlin Südkreuz"
+      ],
+      "auteur": "FkMohr",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:11-12-S%C3%BCdkreuz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/11-12-S%C3%BCdkreuz.jpg/1280px-11-12-S%C3%BCdkreuz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1934,
+      "hauteur": 1088
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Atelier bow wow, four boxes gallery, krabbesholm højskole, skive, denmark 2009 (6253236104).jpg",
+      "description": "four boxes gallery, krabbesholm højskole, skive, denmark 2009. architects: atelier bow-wow, yoshiharu tsukamoto and momoyo kaijima, tokyo. the elegant, ultra-light staircases from atelier bow-wow's japanese houses did not quite survive the translation into danish, but the result remains photogenic.",
+      "categories": [
+        "Staircases",
+        "Stairs in Denmark",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "seier+seier",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atelier_bow_wow,_four_boxes_gallery,_krabbesholm_h%C3%B8jskole,_skive,_denmark_2009_(6253236104).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Atelier_bow_wow%2C_four_boxes_gallery%2C_krabbesholm_h%C3%B8jskole%2C_skive%2C_denmark_2009_%286253236104%29.jpg/1280px-Atelier_bow_wow%2C_four_boxes_gallery%2C_krabbesholm_h%C3%B8jskole%2C_skive%2C_denmark_2009_%286253236104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2944,
+      "hauteur": 4245
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:500px photo (139746191).jpeg",
+      "description": "500px provided description: OLYMPUS DIGITAL CAMERA []",
+      "categories": [
+        "Stairs",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names",
+        "Photographs by Martin Kopta"
+      ],
+      "auteur": "Martin Kopta",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(139746191).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/500px_photo_%28139746191%29.jpeg/1280px-500px_photo_%28139746191%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Aulario La Bomba, Campus de Cádiz 2.jpg",
+      "description": "Aulario La Bomba, Campus de Cádiz",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus X-3 / C-60Z",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Staircases",
+        "License migration redundant",
+        "Self-published work",
+        "F-number f/5.6",
+        "ISO speed rating 64",
+        "Images by User:Emijrp taken in the 2000s",
+        "Images by User:Emijrp taken in the 21st century",
+        "Images of Andalusia by User:Emijrp",
+        "Images of Cádiz by User:Emijrp",
+        "Images of Spain by User:Emijrp",
+        "Images of the province of Cádiz by User:Emijrp",
+        "Lens focal length 7.8 mm",
+        "Images by User:Emijrp by topic",
+        "Images by User:Emijrp taken in 2009",
+        "Images by User:Emijrp taken in May",
+        "Images by User:Emijrp taken with Olympus X-3 / C-60Z",
+        "Images of buildings by User:Emijrp",
+        "Exposure time 1/80 sec",
+        "Images of Cádiz by User:Emijrp taken in 2009",
+        "Images of Spain by User:Emijrp taken in 2009",
+        "Stairs in the province of Cádiz",
+        "Photographs taken on 2009-05-05",
+        "Building interiors in the province of Cádiz",
+        "Files with coordinates missing SDC location of creation",
+        "Edificio Constitución de 1812",
+        "Spain photographs taken on 2009-05-05",
+        "Images by User:Emijrp with coordinates",
+        "Images by User:Emijrp without P180",
+        "Images of Andalusia by User:Emijrp taken in 2009",
+        "Images of the province of Cádiz by User:Emijrp taken in 2009",
+        "Pages using the EasyTimeline extension",
+        "Images by User:Emijrp",
+        "Images of architectural elements by User:Emijrp",
+        "Images of stairs by User:Emijrp"
+      ],
+      "auteur": "Emilio J. Rodríguez Posada",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aulario_La_Bomba,_Campus_de_C%C3%A1diz_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Aulario_La_Bomba%2C_Campus_de_C%C3%A1diz_2.jpg/1280px-Aulario_La_Bomba%2C_Campus_de_C%C3%A1diz_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    }
+  ]
+}

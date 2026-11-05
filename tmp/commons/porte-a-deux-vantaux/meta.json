@@ -1,0 +1,151 @@
+{
+  "terme": {
+    "id": "porte-a-deux-vantaux",
+    "terme": "la porte à deux vantaux",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte formée de deux battants qui s'ouvrent depuis le milieu de la baie.",
+    "priorite": 1,
+    "requetes": [
+      "double door wooden",
+      "porte double vantaux",
+      "double leaf door"
+    ],
+    "incompatibles": [
+      "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Double doors",
+      "Category:Wooden doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ansamblu Biertan 18.jpg",
+      "description": "Ansamblul bisericii evanghelice",
+      "categories": [
+        "Images from Wiki Loves Monuments 2019 in Romania",
+        "Images from Wiki Loves Monuments 2019",
+        "Self-published work",
+        "Wooden doors in Romania",
+        "Cultural heritage monuments in Romania with known IDs",
+        "Uploaded via Campaign:wlm-ro",
+        "Panel doors in Romania",
+        "Double doors",
+        "Doors of Lutheran church in Biertan, Sibiu"
+      ],
+      "auteur": "Nicubunu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ansamblu_Biertan_18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ansamblu_Biertan_18.jpg/1280px-Ansamblu_Biertan_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2976,
+      "hauteur": 3525
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2016 Rangun, Katedra Najświętszej Maryi Panny (18).jpg",
+      "description": "St. Mary's Cathedral . Yangon , Myanmar.",
+      "categories": [
+        "Wooden doors",
+        "Saint Mary Cathedral (Yangon)",
+        "Uploaded with VicuñaUploader",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Myanmar photographs taken on 2016-11-17",
+        "Self-published work",
+        "Church doors",
+        "Information field template with formatting",
+        "Images by Hons084 (Halavar)",
+        "2016 in Yangon",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Hons084 (Halavar) taken in 2016",
+        "Images of Myanmar by Hons084 (Halavar)"
+      ],
+      "auteur": "Marcin Konsek",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_Rangun,_Katedra_Naj%C5%9Bwi%C4%99tszej_Maryi_Panny_(18).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2016_Rangun%2C_Katedra_Naj%C5%9Bwi%C4%99tszej_Maryi_Panny_%2818%29.jpg/1280px-2016_Rangun%2C_Katedra_Naj%C5%9Bwi%C4%99tszej_Maryi_Panny_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4880,
+      "hauteur": 3354
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:087 equipment integration & plastic bumper.JPG",
+      "description": "Участок чистого помещения с пультом управления участком линии розлива",
+      "categories": [
+        "Doors",
+        "Taken with Canon PowerShot A300",
+        "Cleanrooms",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "E.gordienko",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:087_equipment_integration_%26_plastic_bumper.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/087_equipment_integration_%26_plastic_bumper.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2021-01-09-Weststrasse-4-Benrath.-Foto-14.jpg",
+      "description": "No. 4 Weststrasse in Benrath (Düsseldorf).",
+      "categories": [
+        "Wooden fences in Germany",
+        "White doors in Germany",
+        "Closed doors in Germany",
+        "Self-published work",
+        "Buildings covered with climbing plants",
+        "Düsseldorf photographs taken on 2021-01-09",
+        "Double doors",
+        "January 2021 in Benrath",
+        "Files with coordinates missing SDC location of creation (51° N, 6° E)",
+        "Weststrasse 4 (Benrath)"
+      ],
+      "auteur": "Velopilger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021-01-09-Weststrasse-4-Benrath.-Foto-14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2021-01-09-Weststrasse-4-Benrath.-Foto-14.jpg/1280px-2021-01-09-Weststrasse-4-Benrath.-Foto-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Architecture of an old wooden house in kargil Bazaar,1.jpg",
+      "description": "An old wooden house showcasing traditional architecture in Kargil Bazaar, Ladakh, India.",
+      "categories": [
+        "Wooden doors",
+        "Kargil district",
+        "Self-published work",
+        "Wiki Loves Himalayas",
+        "Uploads by Rajani Gairshail",
+        "Wooden Houses in Kargil Bazaar",
+        "Kargil Bazaar",
+        "Wooden Houses in India"
+      ],
+      "auteur": "Rajani Gairshail",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Architecture_of_an_old_wooden_house_in_kargil_Bazaar,1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Architecture_of_an_old_wooden_house_in_kargil_Bazaar%2C1.jpg/1280px-Architecture_of_an_old_wooden_house_in_kargil_Bazaar%2C1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Back door of Markazi Masjid Aishmuqam Jammu and Kashmir.jpg",
+      "description": "back door of Markazi Masjid Aishmuqam Jammu and Kashmir",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Uploaded via Campaign:Heritage Lens",
+        "Heritage Lens - Iteration 6"
+      ],
+      "auteur": "Sabaaya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Back_door_of_Markazi_Masjid_Aishmuqam_Jammu_and_Kashmir.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Back_door_of_Markazi_Masjid_Aishmuqam_Jammu_and_Kashmir.jpg/1280px-Back_door_of_Markazi_Masjid_Aishmuqam_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 4000
+    }
+  ]
+}

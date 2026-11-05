@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "petit-bois",
+    "terme": "le petit-bois",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Baguette de bois ou de métal qui divise le vitrage d'une fenêtre en carreaux.",
+    "priorite": 2,
+    "requetes": [
+      "window muntins",
+      "petits-bois fenêtre",
+      "glazing bars window panes"
+    ],
+    "incompatibles": [
+      "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Muntins",
+      "Category:Windows",
+      "Category:Window frames"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fort Tryon, New York, NY, USA - panoramio (14).jpg",
+      "description": "Fort George, New York, NY, USA",
+      "categories": [
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Muntins",
+        "New York City photographs taken on 2013-08-04",
+        "Fort Tryon Park in 2013",
+        "August 2013 in Manhattan, New York City",
+        "Views across the Hudson River",
+        "Photos from Panoramio ID 7158",
+        "Views of New Jersey from Fort Tryon Park"
+      ],
+      "auteur": "kajikawa",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fort_Tryon,_New_York,_NY,_USA_-_panoramio_(14).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fort_Tryon%2C_New_York%2C_NY%2C_USA_-_panoramio_%2814%29.jpg/1280px-Fort_Tryon%2C_New_York%2C_NY%2C_USA_-_panoramio_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A small, inviting corner features a wooden table with two chairs beside a large window.jpg",
+      "description": "A small, inviting corner features a wooden table with two chairs beside a large window",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Wooden tables"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_small,_inviting_corner_features_a_wooden_table_with_two_chairs_beside_a_large_window.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/A_small%2C_inviting_corner_features_a_wooden_table_with_two_chairs_beside_a_large_window.jpg/1280px-A_small%2C_inviting_corner_features_a_wooden_table_with_two_chairs_beside_a_large_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 6240
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ptuj - Murkova 2 - okno in vogalni stolpič.jpg",
+      "description": "Ptuj (14)",
+      "categories": [
+        "Taken with Nikon D90",
+        "Window frames",
+        "Buildings in Ptuj",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by János Korom",
+        "Turrets (architecture) in Slovenia",
+        "SpomenikSVN warning",
+        "Neo-Renaissance facades in Slovenia",
+        "Windows in Ptuj"
+      ],
+      "auteur": "János Korom Dr. from Wien, Austria",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ptuj_-_Murkova_2_-_okno_in_vogalni_stolpi%C4%8D.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Ptuj_-_Murkova_2_-_okno_in_vogalni_stolpi%C4%8D.jpg/1280px-Ptuj_-_Murkova_2_-_okno_in_vogalni_stolpi%C4%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1584,
+      "hauteur": 1058
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Contemporary American Window with Muntins 01.jpg",
+      "description": "muntins are mounted between the glass",
+      "categories": [
+        "Self-published work",
+        "Windows in the United States",
+        "Muntins"
+      ],
+      "auteur": "Stilfehler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Contemporary_American_Window_with_Muntins_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Contemporary_American_Window_with_Muntins_01.jpg/1280px-Contemporary_American_Window_with_Muntins_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Windows in Home Improvement Store 25.jpg",
+      "description": "double hung window, material: vinyl; detail",
+      "categories": [
+        "Self-published work",
+        "Windows in the United States",
+        "Muntins",
+        "Double-hung windows"
+      ],
+      "auteur": "Stilfehler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Windows_in_Home_Improvement_Store_25.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Windows_in_Home_Improvement_Store_25.jpg/1280px-Windows_in_Home_Improvement_Store_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Sprossenfenster 03.jpg",
+      "description": "Lattice window with timber frame showing Thermal bridging",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D40",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Thermal bridges",
+        "Self-published work",
+        "Muntins",
+        "Condensation on windows"
+      ],
+      "auteur": "TomAlt",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sprossenfenster_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Sprossenfenster_03.jpg/1280px-Sprossenfenster_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    }
+  ]
+}

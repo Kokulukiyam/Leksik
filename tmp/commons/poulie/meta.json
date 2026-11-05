@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "poulie",
+    "terme": "la poulie",
+    "categorie": "Chantier et outillage",
+    "definition": "Roue à gorge suspendue en hauteur, sur laquelle passe une corde pour hisser seaux et matériaux à la main.",
+    "priorite": 2,
+    "requetes": [
+      "pulley construction bucket",
+      "poulie chantier",
+      "gin wheel"
+    ],
+    "categoriesCommons": [
+      "Category:Pulleys",
+      "Category:Block and tackle"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A surgeon and two assistants using pulleys and ropes to aid Wellcome V0016762.jpg",
+      "description": "A surgeon and two assistants using pulleys and ropes to aid traction for manipulating the body of a male patient. Woodcut, 1575. Iconographic Collections Keywords: Anatomy; pulleys; SURGERY; icv; spinal adjustment",
+      "categories": [
+        "Pulleys",
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images (check needed)",
+        "Files from Wellcome Images",
+        "Surgery in the Wellcome Collection",
+        "Woodcut illustrations in the Wellcome Collection"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_surgeon_and_two_assistants_using_pulleys_and_ropes_to_aid_Wellcome_V0016762.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/A_surgeon_and_two_assistants_using_pulleys_and_ropes_to_aid_Wellcome_V0016762.jpg/1280px-A_surgeon_and_two_assistants_using_pulleys_and_ropes_to_aid_Wellcome_V0016762.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5520,
+      "hauteur": 3105
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Chargement de fûts de Cognac à bord du voilier De Gallant (24).JPG",
+      "description": "Chargement de 10 fûts scellés de Cognac Camus VSOP vieux de quatre ans à bord du voilier de commerce « De Gallant » à destination de la Barbade («Caribbean Expedition 2018»). Le chargement est effectué à l’ancienne, avec un palan attaché à un mât et des élingues de levage. La Rochelle, Charente-Maritime, France.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Sling gears",
+        "Block and tackle",
+        "Self-published work",
+        "Call of De Gallant sailing ship at La Rochelle (2018) : Loading of Cognac barrels"
+      ],
+      "auteur": "Jean-Pierre Bazard Jpbazard",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chargement_de_f%C3%BBts_de_Cognac_%C3%A0_bord_du_voilier_De_Gallant_(24).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Chargement_de_f%C3%BBts_de_Cognac_%C3%A0_bord_du_voilier_De_Gallant_%2824%29.JPG/1280px-Chargement_de_f%C3%BBts_de_Cognac_%C3%A0_bord_du_voilier_De_Gallant_%2824%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4912,
+      "hauteur": 7360
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:500px photo (29726191).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Pulleys",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "B Konti",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(29726191).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/500px_photo_%2829726191%29.jpeg/1280px-500px_photo_%2829726191%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1371
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Beaufort - Harvey W. Smith Watercraft Center - 2013-06 - 3.JPG",
+      "description": "Block and tackle at Harvey W. Smith Watercraft Center at Beaufort, North Carolina .",
+      "categories": [
+        "Taken with Nikon D80",
+        "Pulleys",
+        "Blocks (sailing)",
+        "Block and tackle",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Jarek Tuszyński from 2013",
+        "Harvey W. Smith Watercraft Center"
+      ],
+      "auteur": "Jarek Tuszyński",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beaufort_-_Harvey_W._Smith_Watercraft_Center_-_2013-06_-_3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Beaufort_-_Harvey_W._Smith_Watercraft_Center_-_2013-06_-_3.JPG/1280px-Beaufort_-_Harvey_W._Smith_Watercraft_Center_-_2013-06_-_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bauernhof2inLangenhorstBild3.JPG",
+      "description": "Bauernhof Ochtrup-Langenhorst, NRW, Germany",
+      "categories": [
+        "Taken with Kodak EasyShare LS743",
+        "Pulleys",
+        "Langenhorst",
+        "Self-published work",
+        "Farmhouses in Kreis Steinfurt",
+        "2013 in Ochtrup",
+        "Netzhering"
+      ],
+      "auteur": "Netzhering",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bauernhof2inLangenhorstBild3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bauernhof2inLangenhorstBild3.JPG/1280px-Bauernhof2inLangenhorstBild3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:APX - Baukran 02 ies.jpg",
+      "description": "Reconstructed Roman tower crane in the APX",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Pulleys",
+        "License migration redundant",
+        "Self-published work",
+        "Reconstructed Roman tower crane (APX)"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:APX_-_Baukran_02_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/APX_-_Baukran_02_ies.jpg/1280px-APX_-_Baukran_02_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    }
+  ]
+}

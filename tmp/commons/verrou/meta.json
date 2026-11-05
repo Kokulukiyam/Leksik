@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "verrou",
+    "terme": "le verrou",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fermeture faite d'une pièce métallique coulissante que l'on pousse à la main dans une gâche.",
+    "priorite": 1,
+    "requetes": [
+      "door bolt",
+      "verrou porte",
+      "barrel bolt"
+    ],
+    "incompatibles": [
+      "targette"
+    ],
+    "categoriesCommons": [
+      "Category:Door bolts"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Latch - Flickr - Stewart Black.jpg",
+      "description": "The We're Here group visit Catches Latches .",
+      "categories": [
+        "Door bolts",
+        "Photographs taken on 2017-01-03",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore",
+        "Photographs by Stewart Black"
+      ],
+      "auteur": "Stewart Black",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Latch_-_Flickr_-_Stewart_Black.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Latch_-_Flickr_-_Stewart_Black.jpg/1280px-Latch_-_Flickr_-_Stewart_Black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4191,
+      "hauteur": 2794
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dungeon door, medieval village of Noyers-sur-Serein (1).jpg",
+      "description": "Porte d'un cachot dans la cours de la Mairie de Noyers-sur-Serein",
+      "categories": [
+        "Town hall of Noyers-sur-Serein",
+        "Door bolts",
+        "Self-published work",
+        "Door locks in France",
+        "Wooden doors in Yonne",
+        "Former prisons in Yonne",
+        "Files with coordinates missing SDC location of creation",
+        "Prison cells in France"
+      ],
+      "auteur": "Ibex73",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dungeon_door,_medieval_village_of_Noyers-sur-Serein_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Dungeon_door%2C_medieval_village_of_Noyers-sur-Serein_%281%29.jpg/1280px-Dungeon_door%2C_medieval_village_of_Noyers-sur-Serein_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2752,
+      "hauteur": 4896
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dungeon door, medieval village of Noyers-sur-Serein (4).jpg",
+      "description": "Porte d'un cachot dans la cours de la Mairie de Noyers-sur-Serein",
+      "categories": [
+        "Town hall of Noyers-sur-Serein",
+        "Door bolts",
+        "Self-published work",
+        "Door locks in France",
+        "Wooden doors in Yonne",
+        "Former prisons in Yonne",
+        "Prison cells in France"
+      ],
+      "auteur": "Ibex73",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dungeon_door,_medieval_village_of_Noyers-sur-Serein_(4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Dungeon_door%2C_medieval_village_of_Noyers-sur-Serein_%284%29.jpg/1280px-Dungeon_door%2C_medieval_village_of_Noyers-sur-Serein_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2375,
+      "hauteur": 2369
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fécamp - Palais Bénédictine - collection de verrous.jpg",
+      "description": "Fécamp - Palais Bénédictine",
+      "categories": [
+        "CC-Zero",
+        "Door bolts",
+        "Self-published work",
+        "Collections of Palais Bénédictine of Fécamp"
+      ],
+      "auteur": "Renhour48",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%A9camp_-_Palais_B%C3%A9n%C3%A9dictine_-_collection_de_verrous.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/F%C3%A9camp_-_Palais_B%C3%A9n%C3%A9dictine_-_collection_de_verrous.jpg/1280px-F%C3%A9camp_-_Palais_B%C3%A9n%C3%A9dictine_-_collection_de_verrous.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4701,
+      "hauteur": 3351
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Griffe 002 2015 09 20.jpg",
+      "description": "Handle and door latch on an exterior door Objet : Poignée Titre Poignée Objet : Verrou Titre Verrou Entité cartographiable: Porte Titre Porte Nature de l’élément entité cartographiable Partie de maison , véhicule et tramway",
+      "categories": [
+        "Green doors in Germany",
+        "Taken with Canon EOS 7D",
+        "Retouched pictures",
+        "Handles",
+        "User custom license tags",
+        "Door bolts",
+        "Taken with Canon EF-S 10-22mm F3.5-4.5 USM",
+        "Self-published work",
+        "Information field template with formatting",
+        "Wooden doors in Rhineland-Palatinate",
+        "Uploaded with LrMediaWiki",
+        "Images by F. Riedelio",
+        "Rhineland-Palatinate photographs taken on 2015-09-20"
+      ],
+      "auteur": "Friedrich Haag",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Griffe_002_2015_09_20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Griffe_002_2015_09_20.jpg/1280px-Griffe_002_2015_09_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2707,
+      "hauteur": 3851
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Handle with lock on a car trailer.jpg",
+      "description": "Door bolt an handle with lock on a car trailer in Munich",
+      "categories": [
+        "Locks in Germany",
+        "Handles",
+        "Door bolts",
+        "Self-published work",
+        "White trailers",
+        "Automobile trailers in Munich"
+      ],
+      "auteur": "Kritzolina",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Handle_with_lock_on_a_car_trailer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Handle_with_lock_on_a_car_trailer.jpg/1280px-Handle_with_lock_on_a_car_trailer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    }
+  ]
+}

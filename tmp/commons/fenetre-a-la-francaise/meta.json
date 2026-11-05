@@ -1,0 +1,161 @@
+{
+  "terme": {
+    "id": "fenetre-a-la-francaise",
+    "terme": "la fenêtre à la française",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fenêtre dont les vantaux pivotent sur un côté vertical et s'ouvrent vers l'intérieur.",
+    "priorite": 2,
+    "requetes": [
+      "casement window open inward",
+      "fenêtre à la française ouverte",
+      "casement window"
+    ],
+    "incompatibles": [
+      "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Casement windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:'Haunted window' of The Black Horse Inn, Nuthurst, West Sussex 2.jpg",
+      "description": "Upstairs window of the Black Horse Inn public house , one of Sussex's most haunted pubs, on Nuthurst Street in Nuthurst , West Sussex , England. In this window at the front of the building is often seen the ghostly face of a young woman who is believed met an untimely death, local knowledge stating she was one of the pub's serving maids or female occupants of the cottages before they were converted as part of today's inn. The Black Horse is also haunted by a local murderer who drank here and moves items across a table (see 'Haunted table' of The Black Horse Inn ); by the ghost of 'Nuthurst Ned",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Casement windows",
+        "Black Horse Inn, Nuthurst",
+        "Self-published work",
+        "Summer in West Sussex",
+        "Windows in West Sussex",
+        "August 2019 in West Sussex",
+        "Brick walls in West Sussex",
+        "Summer 2019 in the United Kingdom",
+        "Acabashi photos: public houses",
+        "United Kingdom photographs taken on 2019-08-11",
+        "Acabashi photos: buildings in West Sussex",
+        "Brick walls in Flemish bond in the United Kingdom",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Haunted_window%27_of_The_Black_Horse_Inn,_Nuthurst,_West_Sussex_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%27Haunted_window%27_of_The_Black_Horse_Inn%2C_Nuthurst%2C_West_Sussex_2.jpg/1280px-%27Haunted_window%27_of_The_Black_Horse_Inn%2C_Nuthurst%2C_West_Sussex_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5832,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:500px photo (22803999).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Jim Hawkins",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(22803999).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/500px_photo_%2822803999%29.jpeg/1280px-500px_photo_%2822803999%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1365,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bar window of Black Horse Inn, Nuthurst, West Sussex.jpg",
+      "description": "Looking through the bar window of The Black Horse Inn public house , one of Sussex's most haunted pubs, on Nuthurst Street in Nuthurst , West Sussex , England, part of the 17th-century Black Horse Cottages Grade II listed buildings . The Black Horse Inn is reputedly haunted by a local murderer who drank here (see 'Haunted table' of The Black Horse Inn ). Over the years, local people have observed pints of beer and other objects sliding without human agency across the table seen just inside the window at the left. Regulars have it that this was the table at which, many years ago, regularly sat ",
+      "categories": [
+        "Casement windows",
+        "Black Horse Inn, Nuthurst",
+        "Images with annotations",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Photographs with aspect ratio of 5:4",
+        "Self-published work",
+        "Night in West Sussex",
+        "Listed buildings in England with known IDs",
+        "Windows in West Sussex",
+        "Lighting in England",
+        "Acabashi photos: public houses",
+        "February 2017 in West Sussex",
+        "Views into windows",
+        "Views through glass",
+        "England photographs taken on 2017-02-27",
+        "Red brick buildings in West Sussex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bar_window_of_Black_Horse_Inn,_Nuthurst,_West_Sussex.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bar_window_of_Black_Horse_Inn%2C_Nuthurst%2C_West_Sussex.jpg/1280px-Bar_window_of_Black_Horse_Inn%2C_Nuthurst%2C_West_Sussex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A window is covered with plastic wrap.jpg",
+      "description": "A window is covered with plastic wrap while undergoing renovation in a home. The plastic protects the area from dust and debris as work is being done.",
+      "categories": [
+        "Windows",
+        "Renovation",
+        "Self-published work",
+        "Plastic wrap"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_window_is_covered_with_plastic_wrap.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_window_is_covered_with_plastic_wrap.jpg/1280px-A_window_is_covered_with_plastic_wrap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Building demolition in Tottenham London 03 B+W.jpg",
+      "description": "Building demolition in Tottenham , Haringey , London, England. Camera : Samsung Galaxy S7 Edge . Software : JPEG file lens-corrected, optimized and converted with DxO ProLabs 7 Elite .",
+      "categories": [
+        "Buildings in the London Borough of Haringey",
+        "Casement windows",
+        "Tottenham",
+        "Broadwater Farm Estate",
+        "Self-published work",
+        "Building sites",
+        "Demolitions in London",
+        "Building demolition in the United Kingdom",
+        "Construction sites in London",
+        "Winter 2023-2024 in London",
+        "Balconies in London",
+        "London photographs taken on 2024-01-26",
+        "London N17",
+        "London photos taken with Samsung Galaxy S7 Edge",
+        "Buildings in the London Borough of Haringey photographed in 2024",
+        "Construction at Broadwater Farm Estate",
+        "Willan Road, Tottenham",
+        "Acabashi photos: buildings in Haringey"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_demolition_in_Tottenham_London_03_B%2BW.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Building_demolition_in_Tottenham_London_03_B%2BW.jpg/1280px-Building_demolition_in_Tottenham_London_03_B%2BW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3573,
+      "hauteur": 1579
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2013-365-205 Window Reflection Collage (9364454403).jpg",
+      "description": "Just a straight on photo, no post edits",
+      "categories": [
+        "CC-Zero",
+        "Windows",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-365-205_Window_Reflection_Collage_(9364454403).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2013-365-205_Window_Reflection_Collage_%289364454403%29.jpg/1280px-2013-365-205_Window_Reflection_Collage_%289364454403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "balcon-filant",
+    "terme": "le balcon filant",
+    "categorie": "Façade et ouvertures",
+    "definition": "Balcon continu qui court sur toute la longueur d'une façade, devant plusieurs baies.",
+    "priorite": 2,
+    "requetes": [
+      "continuous balcony Haussmann building",
+      "balcon filant",
+      "long continuous balcony facade"
+    ],
+    "incompatibles": [
+      "balcon",
+      "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Balconies",
+      "Category:Balconies in France"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Balkon - panoramio - ucsendre.jpg",
+      "description": "Balkon",
+      "categories": [
+        "Balconies",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photos from Panoramio ID 205798"
+      ],
+      "auteur": "ucsendre",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balkon_-_panoramio_-_ucsendre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Balkon_-_panoramio_-_ucsendre.jpg/1280px-Balkon_-_panoramio_-_ucsendre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1728,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:BalcónCeramica.jpg",
+      "description": "Balcón de Cerámica",
+      "categories": [
+        "Taken with Olympus SZ-14",
+        "Balconies",
+        "Self-published work",
+        "Ceramic reliefs"
+      ],
+      "auteur": "Victor Muñoz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balc%C3%B3nCeramica.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Balc%C3%B3nCeramica.jpg/1280px-Balc%C3%B3nCeramica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Saint-Barthélemy — Gustavia — Small shop.JPG",
+      "description": "Small shop (photos and clothing)",
+      "categories": [
+        "Buildings in Saint-Barthélemy",
+        "Shops in Saint-Barthélemy",
+        "Taken with Sony Ericsson W810",
+        "Location possible",
+        "Gustavia (Saint-Barthélemy)",
+        "Balconies in France",
+        "User:Mattes/Contributions/Topics/The Americas/Saint-Barthélemy",
+        "File uploads by User:Mattes (flat)",
+        "User:Mattes/Contributions/Topics/Buildings and structures",
+        "Work by Mattes 2015"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "CC BY 2.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saint-Barth%C3%A9lemy_%E2%80%94_Gustavia_%E2%80%94_Small_shop.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Saint-Barth%C3%A9lemy_%E2%80%94_Gustavia_%E2%80%94_Small_shop.JPG/1280px-Saint-Barth%C3%A9lemy_%E2%80%94_Gustavia_%E2%80%94_Small_shop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 1224
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Balcony view Gaiety theatre shimla.jpg",
+      "description": "Gaiety theatre shimla",
+      "categories": [
+        "Himachal Pradesh",
+        "Balconies",
+        "Mall Road, Shimla",
+        "Self-published work",
+        "Gaiety Theatres",
+        "Wiki Loves Himalayas",
+        "Uploads by Yogender Mohan"
+      ],
+      "auteur": "Madhrakangri",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_view_Gaiety_theatre_shimla.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Balcony_view_Gaiety_theatre_shimla.jpg/1280px-Balcony_view_Gaiety_theatre_shimla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Arras, Cariatides place de l'ancien Rivage.jpg",
+      "description": "Maison au portail décoré et les cariatides qui l'entourent 9 place de l'ancien Rivage d'Arras.",
+      "categories": [
+        "Base Mérimée",
+        "GFDL",
+        "License migration redundant",
+        "Uploaded with VicuñaUploader",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Maison, 9 place de l'Ancien-Rivage (Arras)",
+        "Balconies in France",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Dpt du Pas-de-Calais by PIERRE ANDRE LECLERCQ",
+        "Files by User:Pierre André Leclercq",
+        "Blue doors in France",
+        "Hauts-de-France photographs taken on 2019-03-21",
+        "Caryatids in Nord-Pas-de-Calais"
+      ],
+      "auteur": "Pierre André Leclercq",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arras,_Cariatides_place_de_l%27ancien_Rivage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Arras%2C_Cariatides_place_de_l%27ancien_Rivage.jpg/1280px-Arras%2C_Cariatides_place_de_l%27ancien_Rivage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3491,
+      "hauteur": 4896
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Baitul Mokarram Mosque 112.jpg",
+      "description": "National Mosque of Bangladesh",
+      "categories": [
+        "Balconies",
+        "Self-published work",
+        "Mosque interiors",
+        "Project Korikath-All images",
+        "People praying",
+        "Muslim men",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Bangladesh",
+        "Uploaded via Campaign:wlf bd 2026",
+        "Islamic prayer"
+      ],
+      "auteur": "Frameofashik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baitul_Mokarram_Mosque_112.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Baitul_Mokarram_Mosque_112.jpg/1280px-Baitul_Mokarram_Mosque_112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4624,
+      "hauteur": 3468
+    }
+  ]
+}

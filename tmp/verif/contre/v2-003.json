@@ -1,0 +1,19 @@
+[
+  { "cle": "panneau-sandwich/01", "accord": true, "raison": "Échantillon de panneau de couverture nervuré vert dont la tranche montre nettement l'âme en mousse entre deux tôles ; rectangle bien placé." },
+  { "cle": "descente-d-eaux-pluviales/02", "accord": true, "raison": "Tuyau vertical noir fixé sur le bardage, du coude sous la gouttière jusqu'au sol ; élément dominant et sans ambiguïté." },
+  { "cle": "descente-d-eaux-pluviales/05", "accord": true, "raison": "Descente carrée en fonte le long d'un mur en silex, du sommet au sol ; la petite boîte à eau en tête ne domine pas le cadrage." },
+  { "cle": "membrane-bitumineuse/02", "accord": true, "raison": "Toiture-terrasse couverte de lés de membrane bitumineuse autoprotégée aux recouvrements soudés bien visibles ; rectangle sur la membrane." },
+  { "cle": "fouille/02", "accord": false, "raison": "Photo d'archive en noir et blanc d'un grand chantier où les palplanches et poutres de blindage sont très présentes : confusion possible avec palplanche ou blindage de fouille, lecture difficile sur téléphone." },
+  { "cle": "tranchee-de-fondation/01", "accord": true, "raison": "Tranchée longue et étroite creusée selon le tracé d'un mur, fond bétonné avec un peu d'armature ; la tranchée est clairement le sujet." },
+  { "cle": "betonnage/01", "accord": false, "raison": "Ouvriers qui tirent au râteau du béton déjà déversé sur une dalle, sans pompe, goulotte ni coulage visible : « le béton frais » ou « le dallage » seraient tout aussi plausibles." },
+  { "cle": "ferraillage/02", "accord": true, "raison": "Armatures de voile en barres HA ligaturées en place devant le coffrage, avant coulage ; ferraillage net et dominant." },
+  { "cle": "ferraillage/06", "accord": false, "raison": "Grand chantier où le ferraillage de radier/dalle occupe la moitié de l'image à côté des voiles : « le ferraillage de dalle » serait aussi une bonne réponse." },
+  { "cle": "treillis-soude/06", "accord": true, "raison": "Gros plan d'un panneau de treillis à mailles régulières en barres crénelées soudées posé sur du gravier ; lisible et sans ambiguïté." },
+  { "cle": "joint-de-maconnerie/02", "accord": false, "raison": "Le rectangle désigne un joint horizontal de briques, qui est exactement « le lit de mortier », autre terme proposé : ambiguïté." },
+  { "cle": "joint-de-maconnerie/06", "accord": false, "raison": "Le rectangle désigne un joint horizontal (lit) d'un mur de briques : « le lit de mortier » serait aussi juste ; rectangle fin, peu lisible sur téléphone." },
+  { "cle": "sable/03", "accord": true, "raison": "Tas de sable fin sur un chantier devant un mur en parpaings ; matériau clairement reconnaissable." },
+  { "cle": "sable/06", "accord": true, "raison": "Gros tas de sable fin occupant toute l'image ; identification évidente." },
+  { "cle": "poutre/03", "accord": true, "raison": "Poutre préfabriquée en béton précontraint sur son banc, élément horizontal massif et dominant, avec torons et attentes en tête secondaires." },
+  { "cle": "ossature-metallique/03", "accord": true, "raison": "Vue aérienne d'un bâtiment dont toute la structure porteuse en profilés d'acier (poteaux, poutres, pannes) est montée à nu." },
+  { "cle": "ossature-metallique/05", "accord": true, "raison": "Structure en acier de plusieurs niveaux, poteaux, poutres et contreventements visibles ; rectangle englobant toute l'ossature." }
+]

@@ -1,0 +1,58 @@
+{
+  "termId": "store-banne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Catamaran de course sous voiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Échoppe de rue avec petite bâche bleue en auvent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Auvent de fortune, trop petit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Panorama de forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Hôtel avec balcons et petit auvent sous enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Store peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue de village russe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun store."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Café en angle de rue avec store gris déployé à bavolet jaune au-dessus de la terrasse.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.09,
+        "y": 0.19,
+        "largeur": 0.52,
+        "hauteur": 0.24
+      },
+      "lieu": "Cannes, France",
+      "note": "Store en toile déployé, net ; rectangle sur le store de gauche (deux stores visibles)."
+    }
+  ]
+}

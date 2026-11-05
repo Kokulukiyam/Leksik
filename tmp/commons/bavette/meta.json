@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "bavette",
+    "terme": "la bavette",
+    "categorie": "Façade et ouvertures",
+    "definition": "Tôle pliée posée sur l'appui d'une fenêtre, débordant du mur pour rejeter l'eau de pluie.",
+    "priorite": 2,
+    "requetes": [
+      "aluminium window sill flashing",
+      "bavette appui de fenêtre",
+      "metal window sill cover"
+    ],
+    "incompatibles": [
+      "appui-de-fenetre",
+      "allege"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Grilled Flank Steak at Steak House, Lize Paradise Walk (20211004175727).jpg",
+      "description": "CNY 288 for this 235g serving.",
+      "categories": [
+        "China photographs taken on 2021-10-04",
+        "Flank steaks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "October 2021 in Beijing",
+        "Foreign cuisines in Beijing"
+      ],
+      "auteur": "N509FZ",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grilled_Flank_Steak_at_Steak_House,_Lize_Paradise_Walk_(20211004175727).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Grilled_Flank_Steak_at_Steak_House%2C_Lize_Paradise_Walk_%2820211004175727%29.jpg/1280px-Grilled_Flank_Steak_at_Steak_House%2C_Lize_Paradise_Walk_%2820211004175727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2688
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Flank steaks dry age.jpg",
+      "description": "Flank steaks dry age",
+      "categories": [
+        "Beef",
+        "Flank steaks",
+        "Self-published work",
+        "Meat processing"
+      ],
+      "auteur": "Pannet",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flank_steaks_dry_age.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Flank_steaks_dry_age.jpg/1280px-Flank_steaks_dry_age.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4756,
+      "hauteur": 4637
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Scottish Bavette - Flat Iron 2025-05-12.jpg",
+      "description": "Scottish Bavette",
+      "categories": [
+        "CC-Zero",
+        "Flank steaks",
+        "Self-published work",
+        "2025 in the Royal Borough of Kensington and Chelsea",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)",
+        "London photographs taken on 2025-05-12",
+        "Beef steaks of the United Kingdom",
+        "Food in the United Kingdom photographed in 2025",
+        "Flat Iron, Kensington, London"
+      ],
+      "auteur": "Andy Li",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Scottish_Bavette_-_Flat_Iron_2025-05-12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Scottish_Bavette_-_Flat_Iron_2025-05-12.jpg/1280px-Scottish_Bavette_-_Flat_Iron_2025-05-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8160,
+      "hauteur": 6144
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Flank Steak piese of meat other side..jpg",
+      "description": "Andere Seite. In Deutschland gekauftes, aus Uruguay stammendes rohes Stück Flank Steak nach dem Auspacken. Gewicht 653 g. Dicke ca. 2 cm (Spitze) bis ca 3 cm am breiten Ende",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Flank steaks",
+        "Self-published work"
+      ],
+      "auteur": "Bortz60",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flank_Steak_piese_of_meat_other_side..jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Flank_Steak_piese_of_meat_other_side..jpg/1280px-Flank_Steak_piese_of_meat_other_side..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4005,
+      "hauteur": 2055
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Vaca frita at cuba nyc.jpg",
+      "description": "Vaca Frita Cuban dish",
+      "categories": [
+        "Taken with Canon EOS 5D Mark II",
+        "Cuisine of Cuba",
+        "Flank steaks",
+        "Flickr images verified by UploadWizard",
+        "Photographs by Anthony Quintano"
+      ],
+      "auteur": "Anthony Quintano",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vaca_frita_at_cuba_nyc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Vaca_frita_at_cuba_nyc.jpg/1280px-Vaca_frita_at_cuba_nyc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3141,
+      "hauteur": 2587
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Flank steak (bavette) with creamy peppercorn sauce, challots and chili in a Paris bistro.jpg",
+      "description": "Flank steak (bavette) with creamy peppercorn sauce, chopped shallots, herbs and chili in a Paris bistro",
+      "categories": [
+        "Flank steaks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)"
+      ],
+      "auteur": "Hammunculs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flank_steak_(bavette)_with_creamy_peppercorn_sauce,_challots_and_chili_in_a_Paris_bistro.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Flank_steak_%28bavette%29_with_creamy_peppercorn_sauce%2C_challots_and_chili_in_a_Paris_bistro.jpg/1280px-Flank_steak_%28bavette%29_with_creamy_peppercorn_sauce%2C_challots_and_chili_in_a_Paris_bistro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2921,
+      "hauteur": 3429
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "porte-de-placard",
+    "terme": "la porte de placard",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte battante ou coulissante qui ferme un placard ou un dressing.",
+    "priorite": 2,
+    "requetes": [
+      "closet door sliding wardrobe",
+      "porte de placard",
+      "closet doors"
+    ],
+    "incompatibles": [
+      "porte",
+      "placard"
+    ],
+    "categoriesCommons": [
+      "Category:Wardrobes",
+      "Category:Sliding doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Furniture made by students of technical school in Waterford Ireland 1910s (6666235323).jpg",
+      "description": "You will all have to forgive this group's rather wooden poses! This is the fruits of the labour of students at a technical school in Waterford. Couldn't resist it on a number of grounds. Firstly, it wins the most unusual group photographed in a field category. Secondly, I had hoped that we'd be able to catch a glimpse of the photographer in one on the mirrors, but that was not to be... Date: 9 January 1916 NLI Ref.: P_WP_2642",
+      "categories": [
+        "Furniture in Ireland",
+        "Ireland in the 1910s",
+        "Furniture making",
+        "Mirrors",
+        "Wardrobes",
+        "Cabinets",
+        "History of County Waterford",
+        "Dressers",
+        "Education in County Waterford",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Images from the National Library of Ireland",
+        "Files from Flickr's 'The Commons'",
+        "1910s furniture",
+        "Black and white photographs of doors",
+        "Images from the National Library of Ireland Poole Collection"
+      ],
+      "auteur": "National Library of Ireland on The Commons",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Furniture_made_by_students_of_technical_school_in_Waterford_Ireland_1910s_(6666235323).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Furniture_made_by_students_of_technical_school_in_Waterford_Ireland_1910s_%286666235323%29.jpg/1280px-Furniture_made_by_students_of_technical_school_in_Waterford_Ireland_1910s_%286666235323%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2481,
+      "hauteur": 1890
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bozen 1 (152).JPG",
+      "description": "Bolzano - Porta scorrevole automatica in vetro (tecnica).",
+      "categories": [
+        "Taken with Sony DSC-HX5VN",
+        "Sliding doors",
+        "Bolzano",
+        "Self-published work",
+        "PD-self",
+        "Uploaded with Commonist",
+        "User:Mattes/Contributions/Topics/Italy/Bozen-Bolzano",
+        "Work by Mattes 2011",
+        "User:Mattes/Contributions/Topics/Technology",
+        "Files of Bolzano with bad file names"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bozen_1_(152).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bozen_1_%28152%29.JPG/1280px-Bozen_1_%28152%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:\"เปิด\" ณ รัฐสภาญี่ปุ่น 6พฤศจิกายน2552 (The Official Site of The Prime Minister of Thailand Photo by พีรพัฒน์ - Flickr - Abhisit Vejjajiva.jpg",
+      "description": "\"เปิด\" ณ รัฐสภาญี่ปุ่น 6พฤศจิกายน2552 (The Official Site of The Prime Minister of Thailand Photo by พีรพัฒน์ วิมลรังครัตน์)",
+      "categories": [
+        "Doors",
+        "Taken with Canon EOS 5D",
+        "Diet of Japan",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Peerapat Wimolrungkarat",
+        "Import by User:Slick-o-bot/Images of politicians of Thailand"
+      ],
+      "auteur": "Government of Thailand",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%22_%E0%B8%93_%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_6%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%992552_(The_Official_Site_of_The_Prime_Minister_of_Thailand_Photo_by_%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C_-_Flickr_-_Abhisit_Vejjajiva.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%22%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%22_%E0%B8%93_%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_6%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%992552_%28The_Official_Site_of_The_Prime_Minister_of_Thailand_Photo_by_%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C_-_Flickr_-_Abhisit_Vejjajiva.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5120,
+      "hauteur": 3413
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Buecherschrank mit Sitzbanktruhe.jpg",
+      "description": "Mit Kreidefarbe neu teilübermalter Bücherschrank mit Sitzbanktruhe und zwei Bunt-Bleiglas-Schranktüren in Form zweier übergroßen stilisierten Blumen, unten die Inschrift „UEB AUG UND HAND FUERS VATERLAND“ gesehen in der Oberstraße in Hannover bei Elfie und Ignaz - das Vintage-Institut ...",
+      "categories": [
+        "Wardrobes",
+        "Chests",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (52° N, 9° E)",
+        "Photographs taken on 2024-08-22",
+        "Elfie & Ignaz",
+        "Stained glass furniture"
+      ],
+      "auteur": "Bernd Schwabe in Hannover",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Buecherschrank_mit_Sitzbanktruhe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Buecherschrank_mit_Sitzbanktruhe.jpg/1280px-Buecherschrank_mit_Sitzbanktruhe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2252,
+      "hauteur": 3784
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:02170jfSacred Heart Jesus Parish Science City Munoz Ecijafvf 09.JPG",
+      "description": "Sacred Heart of Jesus Parish Church and Shrine , Barangay Bantug , Muñoz , Nueva Ecija (along the Maharlika Highway , Maharlika Highway (Cagayan Valley Road, Talavera-Santo Domingo-Quezon-Science City of Muñoz, Nueva Ecija section) or the Pan-Philippine Highway , also known as the Maharlika \"Nobility/freeman\" Highway or Asian Highway 26).",
+      "categories": [
+        "Sliding doors",
+        "Self-published work",
+        "PD-self",
+        "Sacred Heart of Jesus Parish Church and Shrine (Bantug, Science City of Muñoz, Nueva Ecija)"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:02170jfSacred_Heart_Jesus_Parish_Science_City_Munoz_Ecijafvf_09.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/02170jfSacred_Heart_Jesus_Parish_Science_City_Munoz_Ecijafvf_09.JPG/1280px-02170jfSacred_Heart_Jesus_Parish_Science_City_Munoz_Ecijafvf_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A person is opening a door to enter a room with soft lighting and wooden floor at home.jpg",
+      "description": "A person stands in a doorway, beginning to open a door to a room. The room has soft lighting and a wooden floor. A feeling of entering a new space is present.",
+      "categories": [
+        "Doors",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg/1280px-A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3885,
+      "hauteur": 5827
+    }
+  ]
+}

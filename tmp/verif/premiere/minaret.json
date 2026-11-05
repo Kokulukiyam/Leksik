@@ -1,0 +1,63 @@
+{
+  "termId": "minaret",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mosquée basse en bord de route, avec une petite tourelle à fils électriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Minaret petit et peu clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Angle d'un mur en banco à toron et porte en métal rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur en banco, pas de minaret net."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Minaret blanc à balcons à balustres et coupole verte, de nuit sur fond noir.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.14,
+        "largeur": 0.32,
+        "hauteur": 0.68
+      },
+      "lieu": "Seria, Brunei",
+      "note": "Tour de mosquée élancée et dominante, encadrée sur la tour."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mosquée à minarets à étages crénelés surmontés de croissants, rue en premier plan, noir et blanc.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.48,
+        "y": 0.06,
+        "largeur": 0.2,
+        "hauteur": 0.62
+      },
+      "lieu": "Côte d'Ivoire",
+      "note": "Plusieurs minarets bien reconnaissables, rectangle sur le plus haut."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tour d'horloge à toits de pagode.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tour d'horloge, pas un minaret clair."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Silhouette d'un minaret pointu à la tombée de la nuit, avec un lampadaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, détails invisibles."
+    }
+  ]
+}

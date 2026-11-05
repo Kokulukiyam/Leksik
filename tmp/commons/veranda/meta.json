@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "veranda",
+    "terme": "la véranda",
+    "categorie": "Façade et ouvertures",
+    "definition": "Galerie couverte, ouverte ou vitrée, adossée à une façade et portée par des poteaux.",
+    "priorite": 2,
+    "requetes": [
+      "veranda house columns",
+      "véranda maison",
+      "colonial house veranda Africa"
+    ],
+    "incompatibles": [
+      "porche"
+    ],
+    "categoriesCommons": [
+      "Category:Verandas",
+      "Category:Porches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:011 Verandah (23118252899).jpg",
+      "description": "011 Verandah, Chandra Naya, Jakarta, Java",
+      "categories": [
+        "Candra Naya",
+        "Verandas",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "Photo Dharma from Sadao, Thailand",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:011_Verandah_(23118252899).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/011_Verandah_%2823118252899%29.jpg/1280px-011_Verandah_%2823118252899%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20230610 Boukhara353.jpg",
+      "description": "Vue de Boukhara, en Ouzbékistan.",
+      "categories": [
+        "Tok-i-Telpak Furushon",
+        "Porches",
+        "Self-published work",
+        "Uzbekistan photographs taken on 2023-06-10",
+        "2023 in Bukhara",
+        "Columns in Bukhara",
+        "2023 photos by user Jean Housen",
+        "Photos of Uzbekistan by user Jean Housen"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20230610_Boukhara353.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/20230610_Boukhara353.jpg/1280px-20230610_Boukhara353.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chinese Eastern Railway- Views of Accommodations and Surrounding Area at the Djalantoun Health-Station (14043544540).jpg",
+      "description": "Title: [Chinese Eastern Railway: Views of Accommodations and Surrounding Area at the Djalantoun Health-Station] Creator: Unknown Date: ca. 1903-1919 Place: Zhalantun, Hulunber, Inner Mongolia Autonomous Region, People's Republic of China; Yalu River, People's Republic of China Part Of: http://digitalcollections.smu.edu/cdm/search/collection/eaa/searchterm/ag1987.0662x/field/all/mode/exact Description: This photograph is part of an album, Views of the Chinese Eastern Railway, which contains 42 photographic prints. The Chinese Eastern Railway, also known as the Trans-Manchurian line of the Trans",
+      "categories": [
+        "Zhalantun Railway Station",
+        "Chinese Eastern Railway",
+        "Bungalows",
+        "Porches",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Views of the Chinese Eastern Railway"
+      ],
+      "auteur": "SMU Central University Libraries",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chinese_Eastern_Railway-_Views_of_Accommodations_and_Surrounding_Area_at_the_Djalantoun_Health-Station_(14043544540).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Chinese_Eastern_Railway-_Views_of_Accommodations_and_Surrounding_Area_at_the_Djalantoun_Health-Station_%2814043544540%29.jpg/1280px-Chinese_Eastern_Railway-_Views_of_Accommodations_and_Surrounding_Area_at_the_Djalantoun_Health-Station_%2814043544540%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2296
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2 Tone HOUSE (25117816387).jpg",
+      "description": "Sep 20, 2017 at 17:43, Osaka 柏原市",
+      "categories": [
+        "Jeans",
+        "Taken with Nikon 1 J5",
+        "Taken with 1 Nikkor VR 6.7-13mm f/3.5-5.6",
+        "Fraction 1/2",
+        "Bicycles in Japan",
+        "Verandas",
+        "Laundry in Japan",
+        "White buildings in Japan",
+        "Brown buildings in Japan",
+        "Bicolor objects in Japan",
+        "Brown with white",
+        "Symmetry impressions of buildings",
+        "Photographs by Takato Marui",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "m-louis .® from Osaka, Japan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2_Tone_HOUSE_(25117816387).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2_Tone_HOUSE_%2825117816387%29.jpg/1280px-2_Tone_HOUSE_%2825117816387%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5568,
+      "hauteur": 3712
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Gorozikako elizako lorioa eta ataria.jpg",
+      "description": "Gorozika elizako lorioa. Muxika. Bizkaia.",
+      "categories": [
+        "Gorozika (Muxika)",
+        "Porches",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Gorkaazk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gorozikako_elizako_lorioa_eta_ataria.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gorozikako_elizako_lorioa_eta_ataria.jpg/1280px-Gorozikako_elizako_lorioa_eta_ataria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2 Tekhnichna Street, Lviv (01).jpg",
+      "description": "Вхід до колишньої вілли архітектора Альфреда Каменобродського на вулиці Технічній, 2 у Львові. Навесні 2012 року дерев'яні елементи знищено.",
+      "categories": [
+        "Alfred Kamienobrodzki",
+        "Verandas",
+        "Self-published work",
+        "Built in Ukraine in 1881",
+        "Wrought iron in Lviv",
+        "2 Iryna Farion Street, Lviv",
+        "Rebuilt buildings in Lviv",
+        "Destroyed architectural elements in Lviv"
+      ],
+      "auteur": "Aeou",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2_Tekhnichna_Street,_Lviv_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2_Tekhnichna_Street%2C_Lviv_%2801%29.jpg/1280px-2_Tekhnichna_Street%2C_Lviv_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "feuille-d-acanthe",
+    "terme": "la feuille d'acanthe",
+    "categorie": "Ornement",
+    "definition": "Motif sculpté de larges feuilles découpées et recourbées, qui garnit notamment le chapiteau corinthien.",
+    "priorite": 2,
+    "requetes": [
+      "acanthus leaves carving",
+      "acanthus ornament",
+      "feuille d'acanthe"
+    ],
+    "incompatibles": [
+      "chapiteau-corinthien",
+      "chapiteau",
+      "rinceau"
+    ],
+    "categoriesCommons": [
+      "Category:Acanthus leaves",
+      "Category:Acanthus ornaments",
+      "Category:Corinthian capitals"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:02 10 2024 Photo Paolo Villa-Napoli-mann-Museo Archeologico-FO232584bis-Arte Romana-illusione prospettica-nero-Tempio di Iside-Pompei-(8539)-bocciolo di fiore-con foglie della pianta acanto.jpg",
+      "description": "02 10 2024 Photo Paolo Villa-Napoli-mann-Museo Archeologico-FO232584bis-Arte Romana-illusione prospettica-nero-Tempio di Iside-Pompei-(8539)-bocciolo di fiore-con foglie della pianta acanto",
+      "categories": [
+        "Acanthus ornaments",
+        "Images with annotations",
+        "Immature flowers",
+        "Self-published work",
+        "Extracted images",
+        "Files with coordinates missing SDC location of creation",
+        "Ancient Roman acanthuses",
+        "Acanthus leaves in art",
+        "Frescos from the Portico of the Isis Temple of Pompeii (Naples)",
+        "Acanthus ornaments in Naples"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232584bis-Arte_Romana-illusione_prospettica-nero-Tempio_di_Iside-Pompei-(8539)-bocciolo_di_fiore-con_foglie_della_pianta_acanto.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232584bis-Arte_Romana-illusione_prospettica-nero-Tempio_di_Iside-Pompei-%288539%29-bocciolo_di_fiore-con_foglie_della_pianta_acanto.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Corinthian capital detail, Glencairn Monument, St Maurs-Glencairn Church, Kilmaurs, East Ayrshire.jpg",
+      "description": "Corinthian capital detail, Glencairn Monument, St Maurs-Glencairn Church, Kilmaurs, East Ayrshire. This is the first capital on the right hand side of the monument.",
+      "categories": [
+        "Mausoleums in Scotland",
+        "Glencairn Aisle",
+        "Self-published work",
+        "Corinthian capitals",
+        "June 2021 in Scotland",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corinthian_capital_detail,_Glencairn_Monument,_St_Maurs-Glencairn_Church,_Kilmaurs,_East_Ayrshire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Corinthian_capital_detail%2C_Glencairn_Monument%2C_St_Maurs-Glencairn_Church%2C_Kilmaurs%2C_East_Ayrshire.jpg/1280px-Corinthian_capital_detail%2C_Glencairn_Monument%2C_St_Maurs-Glencairn_Church%2C_Kilmaurs%2C_East_Ayrshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3956,
+      "hauteur": 2711
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Campiglia Marittima Pieve di San Giovanni northern portal ornaments 2012-08-26.jpg",
+      "description": "Pieve of St. John's (it. Pieve di San Giovanni ) (Campiglia Marittima): ornaments of the northern portal.",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Acanthus ornaments",
+        "Self-published work",
+        "Friezes in Italy",
+        "Church portals in Tuscany",
+        "San Giovanni (Campiglia Marittima) - Left portal"
+      ],
+      "auteur": "LepoRello",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Campiglia_Marittima_Pieve_di_San_Giovanni_northern_portal_ornaments_2012-08-26.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Campiglia_Marittima_Pieve_di_San_Giovanni_northern_portal_ornaments_2012-08-26.jpg/1280px-Campiglia_Marittima_Pieve_di_San_Giovanni_northern_portal_ornaments_2012-08-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3458,
+      "hauteur": 1945
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Karlsbad - Mühlbrunnkolonnade 4a Kapitell.jpg",
+      "description": "Ce média traite du monument culturel protégé en République Tchèque portant le numéro",
+      "categories": [
+        "Mlýnská kolonáda",
+        "Self-published work",
+        "Corinthian capitals",
+        "Cultural monuments in the Czech Republic with known IDs",
+        "Uploaded via Campaign:wlm-cz",
+        "Pillars in Karlovy Vary"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Karlsbad_-_M%C3%BChlbrunnkolonnade_4a_Kapitell.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Karlsbad_-_M%C3%BChlbrunnkolonnade_4a_Kapitell.jpg/1280px-Karlsbad_-_M%C3%BChlbrunnkolonnade_4a_Kapitell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:BLW Manuscript Book of Hours, about 1480.jpg",
+      "description": "Manuscript Book of Hours About 1480 Belgium, Bruges Folios 103v & 104 Vespers with The Massacre of The Innocents in Marmion Style, with borders in Fitzwilliam 268 Style The Simon Marmion Book of Hours Left page shows King Herod ordering his soldiers to kill the first born, with one soldier in the foreground killing the baby of a woman who pleads for its life. Through the doorway onto the courtyard beyond is another soldier doing the same thing. Page on right of gothic style text with illuminated initial letter D with large golden flower device in gold on black. Borders of both pages with decor",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Simon Marmion",
+        "Acanthus ornaments",
+        "Manuscripts in the Victoria and Albert Museum",
+        "Vespers",
+        "15th-century books of hours",
+        "15th-century illuminated manuscripts from Flanders",
+        "Miniatures of the Massacre of the Innocents",
+        "Britain Loves Wikipedia at the Victoria and Albert Museum",
+        "Salting Bequest, Victoria and Albert Museum"
+      ],
+      "auteur": "Valerie McGlinchey",
+      "licence": "CC BY-SA 2.0 uk",
+      "lien": "https://commons.wikimedia.org/wiki/File:BLW_Manuscript_Book_of_Hours,_about_1480.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/BLW_Manuscript_Book_of_Hours%2C_about_1480.jpg/1280px-BLW_Manuscript_Book_of_Hours%2C_about_1480.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3729,
+      "hauteur": 2653
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:58, Bulevardul Lascăr Catargiu, Bucharest (Romania) 19.jpg",
+      "description": "58, Bulevardul Lascăr Catargiu, Bucharest (Romania)",
+      "categories": [
+        "Acanthus ornaments",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Metal fences in Bucharest",
+        "Bulevardul Lascăr Catargiu, 58"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:58,_Bulevardul_Lasc%C4%83r_Catargiu,_Bucharest_(Romania)_19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/58%2C_Bulevardul_Lasc%C4%83r_Catargiu%2C_Bucharest_%28Romania%29_19.jpg/1280px-58%2C_Bulevardul_Lasc%C4%83r_Catargiu%2C_Bucharest_%28Romania%29_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2095,
+      "hauteur": 1879
+    }
+  ]
+}

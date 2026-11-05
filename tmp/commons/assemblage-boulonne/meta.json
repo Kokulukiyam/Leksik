@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "assemblage-boulonne",
+    "terme": "l'assemblage boulonné",
+    "categorie": "Structure",
+    "definition": "Liaison de pièces métalliques par des boulons serrés à travers des plaques ou des ailes de profilés.",
+    "priorite": 2,
+    "requetes": [
+      "bolted steel connection",
+      "assemblage boulonné",
+      "steel beam bolted joint"
+    ],
+    "incompatibles": [
+      "gousset",
+      "platine"
+    ],
+    "categoriesCommons": [
+      "Category:Bolted joints",
+      "Category:Bolts"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:4 105 Bolt (141611125).jpeg",
+      "description": "500px provided description: 4 105 Bolt [#industry ,#gray ,#grey ,#105mm ,#metal ,#bolt ,#shipping ,#contrainer]",
+      "categories": [
+        "Bolts",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Matthew Bellemare",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4_105_Bolt_(141611125).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/4_105_Bolt_%28141611125%29.jpeg/1280px-4_105_Bolt_%28141611125%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bolts 20-08-21 039.jpg",
+      "description": "Bolted Joints of Dunn's Bridge over the Kankakee River",
+      "categories": [
+        "Bolted joints",
+        "Self-published work",
+        "Details of Dunns Bridge",
+        "Details of Dunns Bridge image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bolts_20-08-21_039.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolts_20-08-21_039.jpg/1280px-Bolts_20-08-21_039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bolt (rendered dwg model).jpg",
+      "description": "Bolt (rendered dwg model)",
+      "categories": [
+        "CC-Zero",
+        "Bolts",
+        "Self-published work",
+        "Drawings of bolt screws"
+      ],
+      "auteur": "Andrew Pertsev",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bolt_(rendered_dwg_model).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Bolt_%28rendered_dwg_model%29.jpg/1280px-Bolt_%28rendered_dwg_model%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bolted joint bridge.jpg",
+      "description": "en:Bolted joint utilised in construction of a bridge.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 50D",
+        "Hardware",
+        "Steel objects",
+        "License migration redundant",
+        "Bolted joints",
+        "Self-published work"
+      ],
+      "auteur": "Thermos",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bolted_joint_bridge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Bolted_joint_bridge.jpg/1280px-Bolted_joint_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4490,
+      "hauteur": 2992
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Adlikon-Ossingen - Thurbrücke 2011-09-26 14-02-10.jpg",
+      "description": "Thurbrücke in Adlikon - Ossingen ( Suisse )",
+      "categories": [
+        "Taken with Nikon D90",
+        "Thurbrücke Ossingen",
+        "Bolts",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Switzerland photographs taken on 2011-09-26",
+        "Photographs by Roland Fischer"
+      ],
+      "auteur": "Roland zh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adlikon-Ossingen_-_Thurbr%C3%BCcke_2011-09-26_14-02-10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Adlikon-Ossingen_-_Thurbr%C3%BCcke_2011-09-26_14-02-10.jpg/1280px-Adlikon-Ossingen_-_Thurbr%C3%BCcke_2011-09-26_14-02-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4148,
+      "hauteur": 2766
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alfa Romeo 4C chassis DxO 10 zoomed.jpg",
+      "description": "Focusing on bolted joints of File:\" 13 - ITALIAN automotive engineering - Alfa Romeo 4C chassis - monocoque carbon fiber - aluminum platform (architecture) DxO 10.jpg",
+      "categories": [
+        "Bolted joints",
+        "Alfa Romeo 4C carbon fiber chassis"
+      ],
+      "auteur": "s.yuki",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_4C_chassis_DxO_10_zoomed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Alfa_Romeo_4C_chassis_DxO_10_zoomed.jpg/1280px-Alfa_Romeo_4C_chassis_DxO_10_zoomed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1795,
+      "hauteur": 1197
+    }
+  ]
+}

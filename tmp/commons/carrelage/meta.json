@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "carrelage",
+    "terme": "le carrelage",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Revêtement de sol ou de mur fait de carreaux de céramique ou de pierre collés et séparés par des joints.",
+    "priorite": 1,
+    "requetes": [
+      "tiled floor",
+      "carrelage sol",
+      "incategory:\"Tiled floors\""
+    ],
+    "categoriesCommons": [
+      "Category:Tiles",
+      "Category:Ceramic tiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:-i---i- (9943034166).jpg",
+      "description": "A copy of the newspaper \"O Estado de S. Paulo\" on a table",
+      "categories": [
+        "O Estado de S. Paulo",
+        "Tiles",
+        "Files from Flickr with bad file names",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Brazil photographs taken on 2013-09-20",
+        "Photographs by Wagner Tamanaha"
+      ],
+      "auteur": "Wagner Tamanaha from Sao Paulo, Brazil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-i---i-_(9943034166).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/-i---i-_%289943034166%29.jpg/1280px--i---i-_%289943034166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bird paintings in Gyumri.jpg",
+      "description": "Bird paintings in Gyumri",
+      "categories": [
+        "Ceramic tiles",
+        "CC-Zero",
+        "Self-published work",
+        "Illustrations of birds",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Armenia photographs taken on 2026-06-12"
+      ],
+      "auteur": "Maximden",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bird_paintings_in_Gyumri.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bird_paintings_in_Gyumri.jpg/1280px-Bird_paintings_in_Gyumri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Arabic Calligraphy (4783714452).jpg",
+      "description": "Medersa el-Attarine",
+      "categories": [
+        "Kufic style",
+        "Tiles",
+        "Al-Attarine Madrasa",
+        "Flickr images reviewed by FlickreviewR",
+        "Zellij in Morocco",
+        "Files from Mike Prince stream",
+        "Arabic calligraphy in tiles"
+      ],
+      "auteur": "Mike Prince from Bangalore, India",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arabic_Calligraphy_(4783714452).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Arabic_Calligraphy_%284783714452%29.jpg/1280px-Arabic_Calligraphy_%284783714452%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1210
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ceramic wall tile cream.jpg",
+      "description": "Cream-colored ceramic wall tile. Used to decorate a restroom.",
+      "categories": [
+        "Ceramic tiles",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2024-07-11"
+      ],
+      "auteur": "Epolk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_wall_tile_cream.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Ceramic_wall_tile_cream.jpg/1280px-Ceramic_wall_tile_cream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2204,
+      "hauteur": 2085
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bibi Khanum Mosque, Samarkand (4934022223).jpg",
+      "description": "Bibi Khanum Mosque, Samarkand",
+      "categories": [
+        "Tiles",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Bibi-Khanym Mosque in 2010",
+        "Bibi-Khanum Mosque - General view"
+      ],
+      "auteur": "Fulvio Spada from Torino, Italy",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bibi_Khanum_Mosque,_Samarkand_(4934022223).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Bibi_Khanum_Mosque%2C_Samarkand_%284934022223%29.jpg/1280px-Bibi_Khanum_Mosque%2C_Samarkand_%284934022223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1971,
+      "hauteur": 2628
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Musée national Ahmed Zabana 10.jpg",
+      "description": "Tuile de céramique ottomane au Musée national Ahmed Zabana, Oran, Algérie",
+      "categories": [
+        "Ceramic tiles",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Ahmed Zabana National Museum"
+      ],
+      "auteur": "Bernard Gagnon",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_national_Ahmed_Zabana_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mus%C3%A9e_national_Ahmed_Zabana_10.jpg/1280px-Mus%C3%A9e_national_Ahmed_Zabana_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2925,
+      "hauteur": 2925
+    }
+  ]
+}

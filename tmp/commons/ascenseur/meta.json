@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "ascenseur",
+    "terme": "l'ascenseur",
+    "categorie": "Escaliers et circulations",
+    "definition": "Cabine qui se déplace verticalement pour transporter des personnes d'un étage à l'autre, vue par ses portes palières.",
+    "priorite": 2,
+    "requetes": [
+      "elevator doors lobby",
+      "ascenseur",
+      "lift doors"
+    ],
+    "incompatibles": [
+      "bouton-d-appel",
+      "monte-charge"
+    ],
+    "categoriesCommons": [
+      "Category:Elevators",
+      "Category:Elevator doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:AIDAprima-aufzuege.JPG",
+      "description": "Aufzüge AIDAprima",
+      "categories": [
+        "Elevators",
+        "Self-published work",
+        "Interiors of AIDAprima (ship, 2016)"
+      ],
+      "auteur": "Balou46",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AIDAprima-aufzuege.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/AIDAprima-aufzuege.JPG/1280px-AIDAprima-aufzuege.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Accessible elevator and Ji-chung Non-profit Preschool 20230416.jpg",
+      "description": "​臺北市立永吉國民中學新建教學大樓一樓，無障礙電梯、 臺北市吉中非營利幼兒園（委託台北基督教女青年會辦理） 。",
+      "categories": [
+        "Taken with Nikon Coolpix A",
+        "CC-Zero",
+        "Elevator doors",
+        "Taipei Municipal Yong-Ji Junior High School",
+        "Taiwan photographs taken on 2023-04-16",
+        "Umbrellas in Taiwan",
+        "Private kindergarten in Taiwan",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2023 photographs of Taipei",
+        "Flickr files uploaded by Solomon203 in 2023",
+        "Elevators in Taipei",
+        "玄史生 files uploaded by Solomon203 from Flickr",
+        "YWCA in Taiwan"
+      ],
+      "auteur": "玄史生",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Accessible_elevator_and_Ji-chung_Non-profit_Preschool_20230416.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Accessible_elevator_and_Ji-chung_Non-profit_Preschool_20230416.jpg/1280px-Accessible_elevator_and_Ji-chung_Non-profit_Preschool_20230416.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Elevator door, Red Cross building, Omonia, Athens.JPG",
+      "description": "Elevator in Red Cross building, 3rd September, Omonia, Athens",
+      "categories": [
+        "International Red Cross and Red Crescent Movement",
+        "Elevator doors",
+        "Self-published work",
+        "2016 in Athens",
+        "Greece photographs taken on 2016-02-21",
+        "Elevators in Athens"
+      ],
+      "auteur": "SucreRouge",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Elevator_door,_Red_Cross_building,_Omonia,_Athens.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Elevator_door%2C_Red_Cross_building%2C_Omonia%2C_Athens.JPG/1280px-Elevator_door%2C_Red_Cross_building%2C_Omonia%2C_Athens.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2672,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2026. Fachada e ascensores do edificio Oficinas Paxonal. Rúa do Restollal 32, Santiago de Compostela.jpg",
+      "description": "Façade and lifts of the Paxonal Offices building. 32 Restollal Street, Santiago de Compostela, Galicia (Spain).",
+      "categories": [
+        "Elevators",
+        "Buildings in Santiago de Compostela",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Rúa do Restollal"
+      ],
+      "auteur": "Luis Miguel Bugallo Sánchez",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026._Fachada_e_ascensores_do_edificio_Oficinas_Paxonal._R%C3%BAa_do_Restollal_32,_Santiago_de_Compostela.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2026._Fachada_e_ascensores_do_edificio_Oficinas_Paxonal._R%C3%BAa_do_Restollal_32%2C_Santiago_de_Compostela.jpg/1280px-2026._Fachada_e_ascensores_do_edificio_Oficinas_Paxonal._R%C3%BAa_do_Restollal_32%2C_Santiago_de_Compostela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4233,
+      "hauteur": 6350
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:25 Strada C. A. Rosetti, Bucharest (07).jpg",
+      "description": "25 Strada C. A. Rosetti, Bucharest",
+      "categories": [
+        "CC-Zero",
+        "Elevator doors",
+        "Self-published work",
+        "Building interiors in Bucharest",
+        "Files with coordinates missing SDC location of creation",
+        "April 2023 in Bucharest",
+        "Gray doors in Bucharest",
+        "Closed doors in Bucharest",
+        "Metal doors in Bucharest",
+        "Elevators in Bucharest",
+        "Strada C. A. Rosetti 25, Bucharest"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:25_Strada_C._A._Rosetti,_Bucharest_(07).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/25_Strada_C._A._Rosetti%2C_Bucharest_%2807%29.jpg/1280px-25_Strada_C._A._Rosetti%2C_Bucharest_%2807%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2550,
+      "hauteur": 4055
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alter Elbtunnel Car Elevators (15910816422).jpg",
+      "description": "Licensing: flickr@tonywebster.com",
+      "categories": [
+        "Elevators",
+        "Flickr images reviewed by FlickreviewR",
+        "Hamburg photographs taken on 2014-09-17",
+        "Files with coordinates missing SDC location of creation (53° N, 9° E)",
+        "Alter Elbtunnel elevators",
+        "Photographs by Tony Webster"
+      ],
+      "auteur": "Tony Webster from Portland, Oregon, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alter_Elbtunnel_Car_Elevators_(15910816422).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Alter_Elbtunnel_Car_Elevators_%2815910816422%29.jpg/1280px-Alter_Elbtunnel_Car_Elevators_%2815910816422%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
+    }
+  ]
+}

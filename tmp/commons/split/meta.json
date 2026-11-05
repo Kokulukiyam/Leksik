@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "split",
+    "terme": "le split",
+    "categorie": "Réseaux et équipements",
+    "definition": "Climatiseur dont l'unité intérieure, un boîtier blanc allongé, est fixée en haut du mur et reliée à une unité extérieure.",
+    "priorite": 1,
+    "requetes": [
+      "split air conditioner indoor unit",
+      "climatiseur split",
+      "wall mounted air conditioner"
+    ],
+    "incompatibles": [
+      "unite-exterieure"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Air conditioner 14.jpg",
+      "description": "Portrait of an air conditioner at sepia tone",
+      "categories": [
+        "Taken with Motorola Moto E (first generation)",
+        "Air conditioners",
+        "Sepia photographs",
+        "Self-published work"
+      ],
+      "auteur": "Dibyendutwipzbiswas",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioner_14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Air_conditioner_14.jpg/1280px-Air_conditioner_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Air conditioner 3.jpg",
+      "description": "SITRONIC air conditioner",
+      "categories": [
+        "Air conditioners",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2025-01-17"
+      ],
+      "auteur": "Solijon Solayev",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioner_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Air_conditioner_3.jpg/1280px-Air_conditioner_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:'Everybody knows who Sgt. Parker is' 130718-Z-RK751-005.jpg",
+      "description": "U.S. Army Sgt. Richard Parker, a plumber and carpenter, assigned to the 859th Engineer Company, Mississippi Army National Guard works on a 5-kilowatt air conditioning unit at Forward Operating Base Fenty in Nangarhar province, Afghanistan, July 18, 2013. Parker and his team have spent more than 936 man-hours fixing 238 air conditioning units. (U.S. Army National Guard photo by Staff Sgt. Jerry Saslav/Released) Unit: 129th Mobile Public Affairs Detachment DVIDS Tags: Soldier; Bagram Airfield; Nangarhar Province; Combat; Engineers; Coalition Forces; Fort Campbell; Army Soldier; Bagram; FORSCOM; ",
+      "categories": [
+        "Air conditioners",
+        "Forward Operating Base Fenty",
+        "PD US National Guard",
+        "Files created by the United States National Guard with known IDs",
+        "Images from DoD uploaded by Fæ",
+        "Afghanistan photographs taken on 2013-07-18",
+        "859th Engineer Company (United States)",
+        "July 2012 in Nangarhar"
+      ],
+      "auteur": "Staff Sgt. Jerry Saslav",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-005.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-005.jpg/1280px-%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3805,
+      "hauteur": 2532
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:AIR CONDITIONER.jpg",
+      "description": "Aircon nag himo og bugnaw nga hangin",
+      "categories": [
+        "Air conditioners",
+        "Self-published work"
+      ],
+      "auteur": "SHEM1230046",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AIR_CONDITIONER.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/AIR_CONDITIONER.jpg/1280px-AIR_CONDITIONER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Abluftklappe außen am Haus bei kontrollierter Hausbelüftung Kontrollierte Wohnraumlüftung IMG5231.JPG",
+      "description": "Lüftungsklappe außen an einem Einfamilienhaus, Abluftklappe der Zwangsbelüftung",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Air conditioners",
+        "Exhaust fan shutters"
+      ],
+      "auteur": "Politikaner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abluftklappe_au%C3%9Fen_am_Haus_bei_kontrollierter_Hausbel%C3%BCftung_Kontrollierte_Wohnrauml%C3%BCftung_IMG5231.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abluftklappe_au%C3%9Fen_am_Haus_bei_kontrollierter_Hausbel%C3%BCftung_Kontrollierte_Wohnrauml%C3%BCftung_IMG5231.JPG/1280px-Abluftklappe_au%C3%9Fen_am_Haus_bei_kontrollierter_Hausbel%C3%BCftung_Kontrollierte_Wohnrauml%C3%BCftung_IMG5231.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Air conditioner 2.jpg",
+      "description": "SITRONIC air conditioner",
+      "categories": [
+        "Air conditioners",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2025-01-17"
+      ],
+      "auteur": "Solijon Solayev",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioner_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Air_conditioner_2.jpg/1280px-Air_conditioner_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "vitrail",
+    "terme": "le vitrail",
+    "categorie": "Ornement",
+    "definition": "Composition de verres colorés assemblés par des plombs, qui garnit une baie.",
+    "priorite": 2,
+    "requetes": [
+      "incategory:\"Stained glass windows\"",
+      "stained glass window",
+      "vitrail église"
+    ],
+    "incompatibles": [
+      "rosace",
+      "remplage"
+    ],
+    "categoriesCommons": [
+      "Category:Stained glass"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1894 Bleiglasfenster mit Doppeladler-Wappen etc., ehemalige Druckerei Gebrüder Höltje, Escherstraße 22 in Hannover (50285).jpg",
+      "description": "Detail des mit der Jahreszahl 1894 sowie mit eingesetztem Doppeladler-Wappen und Buchdrucker-Utensilien versehenen Bleiglasfensters (ohne Künstlersignatur) im Druckhaus der ehemaligen Druckerei Gebrüder Höltje , Escherstraße 22 in Hannover ...",
+      "categories": [
+        "Stained glass",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (52° N, 9° E)",
+        "Germany photographs taken on 2025-07-07",
+        "Escherstraße 22 (Hannover)"
+      ],
+      "auteur": "Bernd Schwabe",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1894_Bleiglasfenster_mit_Doppeladler-Wappen_etc.,_ehemalige_Druckerei_Gebr%C3%BCder_H%C3%B6ltje,_Escherstra%C3%9Fe_22_in_Hannover_(50285).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/1894_Bleiglasfenster_mit_Doppeladler-Wappen_etc.%2C_ehemalige_Druckerei_Gebr%C3%BCder_H%C3%B6ltje%2C_Escherstra%C3%9Fe_22_in_Hannover_%2850285%29.jpg/1280px-1894_Bleiglasfenster_mit_Doppeladler-Wappen_etc.%2C_ehemalige_Druckerei_Gebr%C3%BCder_H%C3%B6ltje%2C_Escherstra%C3%9Fe_22_in_Hannover_%2850285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2226,
+      "hauteur": 3934
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Blackletter stained glass (9720636187).jpg",
+      "description": "Leipzig 2012",
+      "categories": [
+        "Stained glass",
+        "1576",
+        "Photographs by Thomas Quine",
+        "Flickr images reviewed by FlickreviewR 2",
+        "February 2012 in Leipzig"
+      ],
+      "auteur": "Thomas Quine",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blackletter_stained_glass_(9720636187).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Blackletter_stained_glass_%289720636187%29.jpg/1280px-Blackletter_stained_glass_%289720636187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Carlos Manuel Rodriguez Santiago stained glass window.jpg",
+      "description": "Stained glass window depicting Carlos Manuel Rodriguez Santiago. Located at Parroquia Nuestra Señora del Perpetuo Socorro in Miramar, San Juan, Puerto Rico.",
+      "categories": [
+        "People of Puerto Rico",
+        "Stained glass",
+        "Beatified people",
+        "Self-published work",
+        "Images with extracted images",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Google Pixel 5a"
+      ],
+      "auteur": "Jmoliver",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carlos_Manuel_Rodriguez_Santiago_stained_glass_window.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Carlos_Manuel_Rodriguez_Santiago_stained_glass_window.jpg/1280px-Carlos_Manuel_Rodriguez_Santiago_stained_glass_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1807,
+      "hauteur": 2812
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2026-05-16 St. Vincenz Schöningen 1420558.jpg",
+      "description": "Fenster und Jahreszahl \"Anno 1695\" an der Westwand der St. Vinzenz Kirche in Schöningen",
+      "categories": [
+        "1695",
+        "Stained glass",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (52° N, 10° E)"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-05-16_St._Vincenz_Sch%C3%B6ningen_1420558.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2026-05-16_St._Vincenz_Sch%C3%B6ningen_1420558.jpg/1280px-2026-05-16_St._Vincenz_Sch%C3%B6ningen_1420558.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2807,
+      "hauteur": 3824
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:03 M Roga-Skąpska Warszawa Op. Bo. Fragment-L.jpg",
+      "description": "Maria Roga-Skąpska, witraż po lewej stronie w prezbiterium (fragment), kościół Opatrzności Bożej, Warszawa",
+      "categories": [
+        "Stained glass",
+        "Self-published work"
+      ],
+      "auteur": "Łukasz Skąpski",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:03_M_Roga-Sk%C4%85pska_Warszawa_Op._Bo._Fragment-L.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/03_M_Roga-Sk%C4%85pska_Warszawa_Op._Bo._Fragment-L.jpg/1280px-03_M_Roga-Sk%C4%85pska_Warszawa_Op._Bo._Fragment-L.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3882,
+      "hauteur": 5517
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:03 Maria Roga-Skąpska Bystrzyca.jpg",
+      "description": "Maria Roga-Skąpska, witraż w kościele św. Franciszka z Asyżu w Bystrzycy",
+      "categories": [
+        "Stained glass",
+        "Self-published work"
+      ],
+      "auteur": "Łukasz Skąpski",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:03_Maria_Roga-Sk%C4%85pska_Bystrzyca.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/03_Maria_Roga-Sk%C4%85pska_Bystrzyca.jpg/1280px-03_Maria_Roga-Sk%C4%85pska_Bystrzyca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1662,
+      "hauteur": 2294
+    }
+  ]
+}

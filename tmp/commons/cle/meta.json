@@ -1,0 +1,124 @@
+{
+  "terme": {
+    "id": "cle",
+    "terme": "la clé",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Petite pièce métallique dont on introduit la tige crantée dans une serrure pour l'ouvrir ou la fermer.",
+    "priorite": 1,
+    "requetes": [
+      "door key",
+      "clé de porte",
+      "keys"
+    ],
+    "incompatibles": [
+      "cylindre-de-serrure"
+    ],
+    "categoriesCommons": [
+      "Category:Keys"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Castelldans - Museu del Pagès - Antic Molí D'oli - 2014.12.06 - 0036.jpg",
+      "description": "Castelldans - Museu del Pagès - Antic Molí D'oli - 2014.12.06",
+      "categories": [
+        "Keys",
+        "Museu del Pagès",
+        "Self-published work"
+      ],
+      "auteur": "RAMON FLIX PERE",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castelldans_-_Museu_del_Pag%C3%A8s_-_Antic_Mol%C3%AD_D%27oli_-_2014.12.06_-_0036.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Castelldans_-_Museu_del_Pag%C3%A8s_-_Antic_Mol%C3%AD_D%27oli_-_2014.12.06_-_0036.jpg/1280px-Castelldans_-_Museu_del_Pag%C3%A8s_-_Antic_Mol%C3%AD_D%27oli_-_2014.12.06_-_0036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:An alternative to a padlock - geograph.org.uk - 7455681.jpg",
+      "description": "An alternative to a padlock",
+      "categories": [
+        "Keys",
+        "Images from Geograph Britain and Ireland",
+        "Lendal Bridge",
+        "April 2023 in York",
+        "Images by Bob Harvey",
+        "York photographs taken on 2023-04-09"
+      ],
+      "auteur": "Bob Harvey",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_alternative_to_a_padlock_-_geograph.org.uk_-_7455681.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/An_alternative_to_a_padlock_-_geograph.org.uk_-_7455681.jpg/1280px-An_alternative_to_a_padlock_-_geograph.org.uk_-_7455681.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4164,
+      "hauteur": 6252
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:02125jfNuestra Señora de los Remedios Parish Sibul Springs, San Miguel, Bulacanfvf 06.jpg",
+      "description": "Parokya ng Nuestra Señora delos Remedios Fr. Jose Rodolfo C. Colendrino, Solemnly Dedicated on April 24, 2014 the 100th Anniversary of the Parish Church and Belfry on April 24, 2016, Construction on 1957, as Chapel Began in September 28, 1914 Barangay Sibul Springs 15°10'14\"N 121°3'42\"E, beside Biak-na-Bato , San Miguel, Bulacan ; along the Sibul Springs-Biak-na-Bato, San Miguel, Bulacan National Road interconnecting with and from the Salangan-Santa Rita Bata-Santa Rita Matanda-San Juan-Tibagan-Pulong Bayabas-Pacalag, San Miguel-Buhol na Mangga, San Ildefonso, Bulacan National Road (accessed a",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Keys",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Files with coordinates missing SDC location of creation",
+        "Interior of the Nuestra Señora de los Remedios Parish Church in Sibul Springs, San Miguel, Bulacan"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:02125jfNuestra_Se%C3%B1ora_de_los_Remedios_Parish_Sibul_Springs,_San_Miguel,_Bulacanfvf_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/02125jfNuestra_Se%C3%B1ora_de_los_Remedios_Parish_Sibul_Springs%2C_San_Miguel%2C_Bulacanfvf_06.jpg/1280px-02125jfNuestra_Se%C3%B1ora_de_los_Remedios_Parish_Sibul_Springs%2C_San_Miguel%2C_Bulacanfvf_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Broken key IMG 7122.JPG",
+      "description": "\"Když to nejde silou, půjde to větší silou!\"",
+      "categories": [
+        "CC-Zero",
+        "Keys"
+      ],
+      "auteur": "01x07x2022000",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_key_IMG_7122.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Broken_key_IMG_7122.JPG/1280px-Broken_key_IMG_7122.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cheraman Masjid, Kodungaloor - ചേരമാൻ മസ്ജിദ്, കൊടുങ്ങല്ലൂർ 09.jpg",
+      "description": "Cheraman Masjid, Kodungaloor - ചേരമാൻ മസ്ജിദ്, കൊടുങ്ങല്ലൂർ, Museum - മ്യുസിയം",
+      "categories": [
+        "Cheraman Juma Masjid",
+        "Keys",
+        "Self-published work"
+      ],
+      "auteur": "Shijan Kaakkara",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cheraman_Masjid,_Kodungaloor_-_%E0%B4%9A%E0%B5%87%E0%B4%B0%E0%B4%AE%E0%B4%BE%E0%B5%BB_%E0%B4%AE%E0%B4%B8%E0%B5%8D%E0%B4%9C%E0%B4%BF%E0%B4%A6%E0%B5%8D,_%E0%B4%95%E0%B5%8A%E0%B4%9F%E0%B5%81%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%82%E0%B5%BC_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Cheraman_Masjid%2C_Kodungaloor_-_%E0%B4%9A%E0%B5%87%E0%B4%B0%E0%B4%AE%E0%B4%BE%E0%B5%BB_%E0%B4%AE%E0%B4%B8%E0%B5%8D%E0%B4%9C%E0%B4%BF%E0%B4%A6%E0%B5%8D%2C_%E0%B4%95%E0%B5%8A%E0%B4%9F%E0%B5%81%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%82%E0%B5%BC_09.jpg/1280px-Cheraman_Masjid%2C_Kodungaloor_-_%E0%B4%9A%E0%B5%87%E0%B4%B0%E0%B4%AE%E0%B4%BE%E0%B5%BB_%E0%B4%AE%E0%B4%B8%E0%B5%8D%E0%B4%9C%E0%B4%BF%E0%B4%A6%E0%B5%8D%2C_%E0%B4%95%E0%B5%8A%E0%B4%9F%E0%B5%81%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%82%E0%B5%BC_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A key is inserted in a door lock.jpg",
+      "description": "A key is inserted in a door lock while an LG branded appliance is visible in the background. Light reflects off the metal, showcasing the surroundings.",
+      "categories": [
+        "Doors",
+        "Keys",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_key_is_inserted_in_a_door_lock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/A_key_is_inserted_in_a_door_lock.jpg/1280px-A_key_is_inserted_in_a_door_lock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    }
+  ]
+}

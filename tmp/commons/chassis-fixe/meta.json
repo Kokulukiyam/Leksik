@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "chassis-fixe",
+    "terme": "le châssis fixe",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Partie vitrée d'une menuiserie qui ne s'ouvre pas.",
+    "priorite": 2,
+    "requetes": [
+      "fixed window glazing",
+      "châssis fixe vitré",
+      "fixed pane window"
+    ],
+    "incompatibles": [
+      "fenetre",
+      "imposte"
+    ],
+    "categoriesCommons": [
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:20150613 Glass DSC02867 BW PtrQs.jpg",
+      "description": "Ribbed glass",
+      "categories": [
+        "Taken with Sony DSLR-A900",
+        "Windows",
+        "Self-published work",
+        "Files by User:PtrQs",
+        "Glass textures",
+        "No QIC by usr:PtrQs",
+        "Photographs taken with Minolta AF 85mm F1.4 G"
+      ],
+      "auteur": "PtrQs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20150613_Glass_DSC02867_BW_PtrQs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/20150613_Glass_DSC02867_BW_PtrQs.jpg/1280px-20150613_Glass_DSC02867_BW_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 6048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A window at the White House in Washington, D.C.jpg",
+      "description": "A window at the White House in Washington, D.C.",
+      "categories": [
+        "Windows",
+        "Interior of the White House",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Harrison Keely",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_window_at_the_White_House_in_Washington,_D.C.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/A_window_at_the_White_House_in_Washington%2C_D.C.jpg/1280px-A_window_at_the_White_House_in_Washington%2C_D.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3010,
+      "hauteur": 4014
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A Cloud On My Window (67445771).jpeg",
+      "description": "500px provided description: A beautiful house in Anafiwtika,Athens...Seems like this cute building has just escape from a fairytale. [#flower ,#greece ,#window ,#tree ,#wall ,#cloud ,#colourful ,#athens ,#anafiwtika]",
+      "categories": [
+        "Windows",
+        "Files with coordinates missing SDC location of creation",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Yiannis Magkas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Cloud_On_My_Window_(67445771).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/A_Cloud_On_My_Window_%2867445771%29.jpeg/1280px-A_Cloud_On_My_Window_%2867445771%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:- panoramio - jonathan exon (2).jpg",
+      "description": "",
+      "categories": [
+        "Windows",
+        "Media lacking a description",
+        "Lighting with sodium-vapor lamps",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2008-11-24",
+        "Images from Panoramio with bad file names",
+        "Street lights in unidentified locations"
+      ],
+      "auteur": "jonathan exon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_-_jonathan_exon_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/-_panoramio_-_jonathan_exon_%282%29.jpg/1280px--_panoramio_-_jonathan_exon_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4304,
+      "hauteur": 2852
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:500px photo (247983863).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Nuno Borges",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(247983863).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/500px_photo_%28247983863%29.jpeg/1280px-500px_photo_%28247983863%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:24 Windows (92455263).jpeg",
+      "description": "500px provided description: 24 Windows [#windows]",
+      "categories": [
+        "Windows",
+        "Images with watermarks",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Francesca Capochiani",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:24_Windows_(92455263).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/24_Windows_%2892455263%29.jpeg/1280px-24_Windows_%2892455263%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1530
+    }
+  ]
+}

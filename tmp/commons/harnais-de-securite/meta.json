@@ -1,0 +1,127 @@
+{
+  "terme": {
+    "id": "harnais-de-securite",
+    "terme": "le harnais de sécurité",
+    "categorie": "Chantier et outillage",
+    "definition": "Ensemble de sangles serrées autour du corps, relié par une longe à un point d'ancrage contre les chutes.",
+    "priorite": 2,
+    "requetes": [
+      "fall arrest harness",
+      "harnais de sécurité",
+      "safety harness worker height"
+    ],
+    "incompatibles": [
+      "ligne-de-vie"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Safety Harness.jpg",
+      "description": "Safety Harness",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Fall arrest systems"
+      ],
+      "auteur": "SafetyEdition",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Safety_Harness.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Safety_Harness.jpg/1280px-Safety_Harness.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Diving safety harness with weight pocketsPA268045.jpg",
+      "description": "Back and side of a jacket style diver's safety harness, showing removable weight pockets, bailout cylinder straps, and webbing strength members with heavy duty D-rings",
+      "categories": [
+        "Commercial diving",
+        "Diving weighting system",
+        "Underwater diving safety equipment",
+        "Self-published work",
+        "Underwater diving harness"
+      ],
+      "auteur": "Peter Southwood",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Diving_safety_harness_with_weight_pocketsPA268045.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Diving_safety_harness_with_weight_pocketsPA268045.jpg/1280px-Diving_safety_harness_with_weight_pocketsPA268045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Residential construction fall arrest (9256410594).jpg",
+      "description": "Residential construction workers use a fall arrest system",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC creator",
+        "Building construction sites in Arizona",
+        "Fall protection harnesses",
+        "PD US HHS CDC NIOSH",
+        "National Institute for Occupational Safety and Health photographs",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "National Institute for Occupational Safety and Health (NIOSH) from USA",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Residential_construction_fall_arrest_(9256410594).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Residential_construction_fall_arrest_%289256410594%29.jpg/1280px-Residential_construction_fall_arrest_%289256410594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Residential construction fall arrest (9253628909).jpg",
+      "description": "Residential construction workers use a fall arrest system",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC creator",
+        "Building construction sites in Arizona",
+        "Fall protection harnesses",
+        "PD US HHS CDC NIOSH",
+        "National Institute for Occupational Safety and Health photographs",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "National Institute for Occupational Safety and Health (NIOSH) from USA",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Residential_construction_fall_arrest_(9253628909).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Residential_construction_fall_arrest_%289253628909%29.jpg/1280px-Residential_construction_fall_arrest_%289253628909%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Vintage Child Harness and Reins (1970s).jpg",
+      "description": "Image is of a child safety harness and walking reins from 1974. The item was manufactured and sold in the United Kingdom by Mothercare plc., being marketed under the title \"Clasp-fast Harness\". The harness was a child safety product designed for use by those between birth and four years of age. The item is made from polypropylene webbing in a navy blue colour, with metal fittings. The front piece features the Mothercare plc. logo. The walking rein, which would be held by the parent as the child wore the harness while walking is about 90cm in length.",
+      "categories": [
+        "Child safety harnesses",
+        "Mothercare",
+        "Child safety",
+        "Self-published work",
+        "Vintage objects"
+      ],
+      "auteur": "Heron5110",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vintage_Child_Harness_and_Reins_(1970s).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Vintage_Child_Harness_and_Reins_%281970s%29.jpg/1280px-Vintage_Child_Harness_and_Reins_%281970s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4496
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Baby harness and reins.jpg",
+      "description": "A baby harness and reins in package.",
+      "categories": [
+        "Child safety harnesses",
+        "Photographs by Cory Doctorow",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Cory Doctorow (Flickr)",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baby_harness_and_reins.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Baby_harness_and_reins.jpg/1280px-Baby_harness_and_reins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

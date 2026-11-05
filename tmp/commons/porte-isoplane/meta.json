@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "porte-isoplane",
+    "terme": "la porte isoplane",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte intérieure lisse et légère, faite de deux parements minces collés sur un cadre en bois garni d'une âme alvéolaire.",
+    "priorite": 2,
+    "requetes": [
+      "flush door interior",
+      "porte isoplane",
+      "plain flush door"
+    ],
+    "incompatibles": [
+      "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Interior doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Door Opening Motor.jpg",
+      "description": "The attendance program sends a code to the Arduino that activates the motor in the picture. The motor then spins the spool and draws in the string attached to the door-handle. The handle is held for 7 seconds and then let go.",
+      "categories": [
+        "Self-published work",
+        "Interior doors",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Mohjee259",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_Opening_Motor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Door_Opening_Motor.jpg/1280px-Door_Opening_Motor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A plant stem door.jpg",
+      "description": "Wildlife in the hoods",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Cornelius Agordome",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_plant_stem_door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/A_plant_stem_door.jpg/1280px-A_plant_stem_door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dom Uphagena - 147.JPG",
+      "description": "Gdańsk. Dom Uphagena",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Uphagen's House",
+        "License migration redundant",
+        "Self-published work",
+        "Overdoors in Poland",
+        "Interior doors"
+      ],
+      "auteur": "Piotrus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dom_Uphagena_-_147.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Dom_Uphagena_-_147.JPG/1280px-Dom_Uphagena_-_147.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Astonished silver - Flickr - Genista.jpg",
+      "description": "astonished silver",
+      "categories": [
+        "Doors",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2005-08-09",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Kai Schreiber from Solingen, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Astonished_silver_-_Flickr_-_Genista.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Astonished_silver_-_Flickr_-_Genista.jpg/1280px-Astonished_silver_-_Flickr_-_Genista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Frederiksberg Slot interiør (2).jpg",
+      "description": "Frederiksberg Slot interiør",
+      "categories": [
+        "Self-published work",
+        "Doors in Denmark",
+        "Lunettes in Denmark",
+        "Interior doors",
+        "Frederiksberg Slot interiør"
+      ],
+      "auteur": "Thomas Dahlstrøm Nielsen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Frederiksberg_Slot_interi%C3%B8r_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Frederiksberg_Slot_interi%C3%B8r_%282%29.jpg/1280px-Frederiksberg_Slot_interi%C3%B8r_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A key is inserted in a door lock.jpg",
+      "description": "A key is inserted in a door lock while an LG branded appliance is visible in the background. Light reflects off the metal, showcasing the surroundings.",
+      "categories": [
+        "Doors",
+        "Keys",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_key_is_inserted_in_a_door_lock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/A_key_is_inserted_in_a_door_lock.jpg/1280px-A_key_is_inserted_in_a_door_lock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    }
+  ]
+}

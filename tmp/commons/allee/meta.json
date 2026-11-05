@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "allee",
+    "terme": "l'allée",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Chemin aménagé d'un jardin ou d'une parcelle, en gravier, dalles ou pavés.",
+    "priorite": 2,
+    "requetes": [
+      "garden path",
+      "allée de jardin",
+      "gravel garden path"
+    ],
+    "categoriesCommons": [
+      "Category:Garden paths",
+      "Category:Footpaths",
+      "Category:Alleys"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:'Cherry Lane' in Aston Norwood Gardens with overhanging cherry blossoms.jpg",
+      "description": "Path in Aston Norwood Gardens with overhanging cherry blossoms",
+      "categories": [
+        "Prunus × yedoensis",
+        "Garden paths",
+        "Aston Norwood Gardens",
+        "Self-published work",
+        "PD-self",
+        "New Zealand photographs taken on 2022-09-16",
+        "Files with coordinates missing SDC location of creation",
+        "Prunus in flower in New Zealand",
+        "Taken with Fujifilm X-H2S"
+      ],
+      "auteur": "Pseudopanax sur Wikipédia anglais",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Cherry_Lane%27_in_Aston_Norwood_Gardens_with_overhanging_cherry_blossoms.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%27Cherry_Lane%27_in_Aston_Norwood_Gardens_with_overhanging_cherry_blossoms.jpg/1280px-%27Cherry_Lane%27_in_Aston_Norwood_Gardens_with_overhanging_cherry_blossoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 6240
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Let's explore.jpg",
+      "description": "Analamazaotra Park",
+      "categories": [
+        "Explorers",
+        "Walking",
+        "Andasibe",
+        "Self-published work",
+        "Footpaths",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Analamazaotra National Park",
+        "Photographs taken on 2025-09-03"
+      ],
+      "auteur": "IrmaA2",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Let%27s_explore.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Let%27s_explore.jpg/1280px-Let%27s_explore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1505,
+      "hauteur": 1901
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Alley, lazarevo 1.jpg",
+      "description": "Тhe alley in the settlement",
+      "categories": [
+        "Alleys",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Media lacking author information",
+        "Self-published work",
+        "Images without source",
+        "Taken with Xiaomi Redmi 9A"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alley,_lazarevo_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Alley%2C_lazarevo_1.jpg/1280px-Alley%2C_lazarevo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Footpath in the hilly slopes of the Kakching Garden, Kangleipak 01.jpg",
+      "description": "Footpath in the hilly slopes of the Kakching Garden, Kangleipak (Manipur)",
+      "categories": [
+        "CC-Zero",
+        "Kakching Garden",
+        "Self-published work",
+        "Footpaths"
+      ],
+      "auteur": "Haoreima",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Footpath_in_the_hilly_slopes_of_the_Kakching_Garden,_Kangleipak_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Footpath_in_the_hilly_slopes_of_the_Kakching_Garden%2C_Kangleipak_01.jpg/1280px-Footpath_in_the_hilly_slopes_of_the_Kakching_Garden%2C_Kangleipak_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2992,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Allee in Oelsnitz. Erzgebirgskreis, Sachsen 2H1A8859WI.jpg",
+      "description": "Allee in Oelsnitz. Erzgebirgskreis, Sachsen.",
+      "categories": [
+        "Alleys",
+        "Self-published work",
+        "Nature of Oelsnitz/Erzgeb.",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Kora27",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Allee_in_Oelsnitz._Erzgebirgskreis,_Sachsen_2H1A8859WI.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Allee_in_Oelsnitz._Erzgebirgskreis%2C_Sachsen_2H1A8859WI.jpg/1280px-Allee_in_Oelsnitz._Erzgebirgskreis%2C_Sachsen_2H1A8859WI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 3345
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2014 Suchum, Ogród botaniczny (27).jpg",
+      "description": "Bamboo ( Bambuseae ) walkway. Botanical garden . Sukhumi , Abkhazia .",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Garden paths",
+        "Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM",
+        "Uploaded with VicuñaUploader",
+        "Self-published work",
+        "Information field template with formatting",
+        "Unidentified Bambuseae",
+        "Images by Hons084 (Halavar)",
+        "Photographs with polarization filter",
+        "2014 in Sukhumi",
+        "Dappled light and shadow in Georgia (country)",
+        "Images by User:Hons084 (Halavar) taken in 2014",
+        "Images of Abkhazia by Hons084 (Halavar)",
+        "Sukhimi botanical garden"
+      ],
+      "auteur": "Hons084",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014_Suchum,_Ogr%C3%B3d_botaniczny_(27).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2014_Suchum%2C_Ogr%C3%B3d_botaniczny_%2827%29.jpg/1280px-2014_Suchum%2C_Ogr%C3%B3d_botaniczny_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4373,
+      "hauteur": 2910
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "terme": {
+    "id": "portillon",
+    "terme": "le portillon",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Petite porte de clôture réservée aux piétons, souvent à côté du portail.",
+    "priorite": 2,
+    "requetes": [
+      "garden gate small",
+      "portillon",
+      "pedestrian gate"
+    ],
+    "incompatibles": [
+      "portail-metallique",
+      "portail-battant"
+    ],
+    "categoriesCommons": [
+      "Category:Wicket gates",
+      "Category:Garden gates",
+      "Category:Gates"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chamunda Devi Temple 01.JPG",
+      "description": "The Main entrance to the temple shrine - on the left, the prasad (offerings) shop",
+      "categories": [
+        "Taken with Sony DSC-S2100",
+        "Wicket gates",
+        "Images with annotations",
+        "Self-published work",
+        "Gates in Himachal Pradesh",
+        "Images from Wiki Loves Monuments 2012 in India",
+        "Images from Wiki Loves Monuments 2012",
+        "ASI monuments with known IDs",
+        "Metal gates in India",
+        "Arches in Himachal Pradesh",
+        "India photographs taken on 2012-09-29",
+        "Arch gates",
+        "Segmental arches in India",
+        "Shri Chamunda Devi Mandir",
+        "Double gates"
+      ],
+      "auteur": "Ashish3724",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chamunda_Devi_Temple_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Chamunda_Devi_Temple_01.JPG/1280px-Chamunda_Devi_Temple_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Courtyard access west steps to garden Parham House, West Sussex, England.jpg",
+      "description": "Stone steps between brick walls with metal handrail and gate to the Pleasure Ground at the west of the courtyard of Parham House , in West Sussex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : file lens-corrected and optimized with DxO OpticsPro 10 Elite and Viewpoint 2, and further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Garden gates",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Photographs with aspect ratio of 2:3",
+        "Self-published work",
+        "Gates in West Sussex",
+        "Pavement stairs",
+        "Listed buildings in England with known IDs",
+        "Stairs in West Sussex",
+        "Summer in West Sussex",
+        "Stone walls in West Sussex",
+        "Flora of West Sussex in July",
+        "Brick walls in West Sussex",
+        "Summer 2016 in the United Kingdom",
+        "Outdoor stone stairs",
+        "Acabashi photos: fences, gates and walls",
+        "Outside stairs in England",
+        "Wrought iron gates in England",
+        "Garden and park stairs in England",
+        "Handrails in England",
+        "Metal handrails in England",
+        "Steps in England",
+        "Metal gates in England",
+        "Parham House",
+        "Exterior stair handrails in the United Kingdom",
+        "Coping stones",
+        "Gateways in West Sussex",
+        "Acabashi photos:Parham House gardens",
+        "Parham, West Sussex photographs taken on 2016-07-20"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Courtyard_access_west_steps_to_garden_Parham_House,_West_Sussex,_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Courtyard_access_west_steps_to_garden_Parham_House%2C_West_Sussex%2C_England.jpg/1280px-Courtyard_access_west_steps_to_garden_Parham_House%2C_West_Sussex%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A different shot of two fenced neighboring houses along Kuomboka Dr road.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Gates",
+        "Kitwe",
+        "Roads in Zambia",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Uploaded via Campaign:wlafrica",
+        "Residential buildings in Zambia",
+        "March 2022 in Zambia",
+        "Images from Wiki Loves Africa 2022 in Zambia"
+      ],
+      "auteur": "Olympian Xeus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_different_shot_of_two_fenced_neighboring_houses_along_Kuomboka_Dr_road.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/A_different_shot_of_two_fenced_neighboring_houses_along_Kuomboka_Dr_road.jpg/1280px-A_different_shot_of_two_fenced_neighboring_houses_along_Kuomboka_Dr_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Sanjo station wicket.jpg",
+      "description": "JR East Sanjo Station ticket gate",
+      "categories": [
+        "Taken with Sony DSC-HX7V",
+        "Wicket gates",
+        "Sanjō Station (Niigata)",
+        "Self-published work"
+      ],
+      "auteur": "Altomarina",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sanjo_station_wicket.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Sanjo_station_wicket.jpg/1280px-Sanjo_station_wicket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Abraham Baldwin Agricultural College, Baldwin Memorial Gardens entrance.jpg",
+      "description": "Abraham Baldwin Agricultural College, Tifton, Tift County, Georgia",
+      "categories": [
+        "Garden gates",
+        "Abraham Baldwin Agricultural College",
+        "Gardens in Georgia (U.S. state)",
+        "Self-published work",
+        "Gates in Georgia (U.S. state)",
+        "Educational institutions in the United States photographed in 2017",
+        "Files with coordinates missing SDC location of creation",
+        "August 2017 in Georgia (U.S. state)",
+        "United States photographs taken on 2017-08-12",
+        "2017 Georgia (U.S. state) photos by Mjrmtg taken with Canon EOS 700D",
+        "2017 in Tifton, Georgia"
+      ],
+      "auteur": "Michael Rivera",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abraham_Baldwin_Agricultural_College,_Baldwin_Memorial_Gardens_entrance.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Abraham_Baldwin_Agricultural_College%2C_Baldwin_Memorial_Gardens_entrance.jpg/1280px-Abraham_Baldwin_Agricultural_College%2C_Baldwin_Memorial_Gardens_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A concrete block fenced house along Kuomboka Dr road.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Gates",
+        "Fences",
+        "Kitwe",
+        "Residential buildings in Africa",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Zambia"
+      ],
+      "auteur": "Olympian Xeus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_concrete_block_fenced_house_along_Kuomboka_Dr_road.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/A_concrete_block_fenced_house_along_Kuomboka_Dr_road.jpg/1280px-A_concrete_block_fenced_house_along_Kuomboka_Dr_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    }
+  ]
+}

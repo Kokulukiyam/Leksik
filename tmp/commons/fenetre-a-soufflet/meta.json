@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "fenetre-a-soufflet",
+    "terme": "la fenêtre à soufflet",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fenêtre dont le vantail pivote autour de son côté bas et s'ouvre vers l'intérieur par le haut.",
+    "priorite": 2,
+    "requetes": [
+      "hopper window open",
+      "fenêtre à soufflet",
+      "bottom hung window open"
+    ],
+    "incompatibles": [
+      "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Hopper windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Red hopper windows with blue tiled piers in between.JPG",
+      "description": "Red hopper windows with blue tiled piers in between.",
+      "categories": [
+        "Taken with Canon PowerShot S95",
+        "Victorian Heritage Register",
+        "South Melbourne, Victoria",
+        "Self-published work",
+        "Red windows",
+        "Windows in Victoria, Australia",
+        "Hopper windows"
+      ],
+      "auteur": "Macrobertson",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Red_hopper_windows_with_blue_tiled_piers_in_between.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Red_hopper_windows_with_blue_tiled_piers_in_between.JPG/1280px-Red_hopper_windows_with_blue_tiled_piers_in_between.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2432
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A classroom in the Faculty of Architecture, FUASK.jpg",
+      "description": "A classroom in the Faculty of Architecture, FUASK",
+      "categories": [
+        "Ceiling fans",
+        "Windows",
+        "Seats",
+        "Classrooms",
+        "Self-published work",
+        "Images taken by Kambai Akau",
+        "Federal University of Applied Sciences Kachia"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_classroom_in_the_Faculty_of_Architecture,_FUASK.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg/1280px-A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7200,
+      "hauteur": 4800
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Meierhof Viehofen 05.JPG",
+      "description": "Ehem. Meierhof des Schlosses Viehhofen",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "Meierhof (Viehofen)",
+        "Self-published work",
+        "Cultural heritage monuments in Austria check done",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Windows in Lower Austria",
+        "Images from Wiki Loves Monuments 2014",
+        "Images from Wiki Loves Monuments 2014 in Austria",
+        "Uploaded via Campaign:wlm-at",
+        "Images from Wiki Loves Monuments 2014 in Austria selected for jury (remove me if image should not take part in the competition)",
+        "Austria photographs taken on 2014-09-20",
+        "Hopper windows"
+      ],
+      "auteur": "AleXXw",
+      "licence": "CC BY-SA 3.0 at",
+      "lien": "https://commons.wikimedia.org/wiki/File:Meierhof_Viehofen_05.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Meierhof_Viehofen_05.JPG/1280px-Meierhof_Viehofen_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4354,
+      "hauteur": 2899
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2025-03-09 Hameln Deisterstraße 17 1090755.jpg",
+      "description": "Blick von Osten auf ein Fenster im Treppenhaus des Wohn- und Geschäftshauses Deisterstraße 17 in Hameln",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-de-ni",
+        "Cultural heritage monuments in Lower Saxony with known IDs",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025 in Germany",
+        "Images from Wiki Loves Monuments 2025",
+        "Deisterstraße (Hameln)",
+        "Images from Wiki Loves Monuments 2025, DE-NI",
+        "Cultural heritage monuments in Lower Saxony missing SDC location of creation"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090755.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090755.jpg/1280px-2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2672,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Thallern 4977.JPG",
+      "description": "Freigut Thallern in Gumpoldskirchen, Niederösterreich",
+      "categories": [
+        "Freigut Thallern",
+        "Self-published work",
+        "Files by User:Karl Gruber",
+        "Cultural heritage monuments in Austria check done",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Windows in Lower Austria",
+        "Window shutters in Austria",
+        "Hopper windows"
+      ],
+      "auteur": "User:Karl Gruber",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Thallern_4977.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Thallern_4977.JPG/1280px-Thallern_4977.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:500px photo (105270455).jpeg",
+      "description": "500px provided description: Img 0840 Jpg [#building ,#haus ,#h?tte]",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Elektroll",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(105270455).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/500px_photo_%28105270455%29.jpeg/1280px-500px_photo_%28105270455%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1364,
+      "hauteur": 2048
+    }
+  ]
+}

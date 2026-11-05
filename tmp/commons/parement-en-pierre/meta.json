@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "parement-en-pierre",
+    "terme": "le parement en pierre",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Revêtement de façade en plaques ou moellons de pierre collés ou agrafés devant un mur porteur.",
+    "priorite": 2,
+    "requetes": [
+      "stone veneer facade",
+      "parement pierre façade",
+      "stone cladding wall"
+    ],
+    "incompatibles": [
+      "moellon",
+      "pierre-de-taille",
+      "pierre-reconstituee"
+    ],
+    "categoriesCommons": [
+      "Category:Stone veneer",
+      "Category:Stone walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:StoneVeneer.jpg",
+      "description": "Installation of stone veneer",
+      "categories": [
+        "Taken with Canon PowerShot A610",
+        "Stone veneer",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "Chris Breeze",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:StoneVeneer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/StoneVeneer.jpg/1280px-StoneVeneer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A Stone House With a Stone Wall.jpg",
+      "description": "This house in Lamu has been redesigned with modern stone architecture which is appealing to the residents.",
+      "categories": [
+        "Stone buildings",
+        "Stone walls",
+        "Houses in Kenya",
+        "Self-published work",
+        "Walls in Kenya",
+        "Buildings in Lamu"
+      ],
+      "auteur": "Naima Idris",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Stone_House_With_a_Stone_Wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/A_Stone_House_With_a_Stone_Wall.jpg/1280px-A_Stone_House_With_a_Stone_Wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:- panoramio (1689).jpg",
+      "description": "Dirt road in unidentified country",
+      "categories": [
+        "Stone walls",
+        "Dirt roads",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Streets in unidentified countries",
+        "Images from Panoramio with bad file names"
+      ],
+      "auteur": "M Asif",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_(1689).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/-_panoramio_%281689%29.jpg/1280px--_panoramio_%281689%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2011-365-224 Who Left the Front Door Open? (6037727584).jpg",
+      "description": "There are so many photogenic old barns and silos along highway 16 between Edmonton and Saskatoon....",
+      "categories": [
+        "Stone walls",
+        "Canadian Prairies",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2011-365-224_Who_Left_the_Front_Door_Open%3F_(6037727584).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2011-365-224_Who_Left_the_Front_Door_Open%3F_%286037727584%29.jpg/1280px-2011-365-224_Who_Left_the_Front_Door_Open%3F_%286037727584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:RusticSandstoneMasonry4895.jpg",
+      "description": "Sandstone block veneer masonry at the Sedona, Arizona Public Library. Selection and placement of stones of appropriate color and size requires a high order of skill. Note also that mortar is hidden to give the appearance of dry-set masonry.. Image by User:Leonard G.",
+      "categories": [
+        "Mortar joints",
+        "Stone veneer",
+        "Sandstone wall textures",
+        "Sedona Public Library"
+      ],
+      "auteur": "Original téléversé par Leonard G. sur Wikipédia anglais .",
+      "licence": "CC SA 1.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:RusticSandstoneMasonry4895.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/RusticSandstoneMasonry4895.jpg/1280px-RusticSandstoneMasonry4895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1970,
+      "hauteur": 1480
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:EarthAnatomy Thin Stone Stack.JPG",
+      "description": "EarthAnatomy Thin Stone Stack",
+      "categories": [
+        "Stone veneer",
+        "Self-published work"
+      ],
+      "auteur": "Mwojteck",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EarthAnatomy_Thin_Stone_Stack.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/EarthAnatomy_Thin_Stone_Stack.JPG/1280px-EarthAnatomy_Thin_Stone_Stack.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1298,
+      "hauteur": 1094
+    }
+  ]
+}

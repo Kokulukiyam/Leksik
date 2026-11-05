@@ -1,0 +1,124 @@
+{
+  "terme": {
+    "id": "fresque",
+    "terme": "la fresque",
+    "categorie": "Ornement",
+    "definition": "Grande peinture murale, à l'origine exécutée sur enduit frais, en intérieur ou sur une façade.",
+    "priorite": 2,
+    "requetes": [
+      "mural painting wall",
+      "fresque murale",
+      "street mural Dakar"
+    ],
+    "incompatibles": [
+      "trompe-l-oeil"
+    ],
+    "categoriesCommons": [
+      "Category:Frescos"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1974-02-28-c06.jpg",
+      "description": "Il salottino al centro della parte Est, piano terra. La porta d’ingresso a doppia anta aveva vetri smerigliati con lo stemma di famiglia",
+      "categories": [
+        "Frescos",
+        "Self-published work"
+      ],
+      "auteur": "Ganisario",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1974-02-28-c06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/1974-02-28-c06.jpg/1280px-1974-02-28-c06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2408,
+      "hauteur": 3044
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Affresco Gianfranco Vitali.jpg",
+      "description": "Affresco Gianfranco Vitali",
+      "categories": [
+        "Frescos",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2026-07-11"
+      ],
+      "auteur": "Alorenzi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Affresco_Gianfranco_Vitali.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Affresco_Gianfranco_Vitali.jpg/1280px-Affresco_Gianfranco_Vitali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:20240505 092246 Angeli portacroce.jpg",
+      "description": "Crossbearing Angels",
+      "categories": [
+        "Frescos",
+        "Self-published work",
+        "Italy photographs taken on 2024-05-05",
+        "Guglielmo Guglielmini"
+      ],
+      "auteur": "Giorgio Vincenzo Alberto Brandolini",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20240505_092246_Angeli_portacroce.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/20240505_092246_Angeli_portacroce.jpg/1280px-20240505_092246_Angeli_portacroce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3060
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Affresco che sovrasta la porta dell'oratorio di San Vitale a crevola.jpg",
+      "description": "L'affresco rappresenta la battaglia del 1487",
+      "categories": [
+        "Frescos",
+        "Self-published work"
+      ],
+      "auteur": "Ferroni Giorgio 1967",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Affresco_che_sovrasta_la_porta_dell%27oratorio_di_San_Vitale_a_crevola.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Affresco_che_sovrasta_la_porta_dell%27oratorio_di_San_Vitale_a_crevola.jpg/1280px-Affresco_che_sovrasta_la_porta_dell%27oratorio_di_San_Vitale_a_crevola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1787,
+      "hauteur": 2337
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Affresco della chiesa di Cuasso al Piano.jpg",
+      "description": "Affresco centrale della chiesa di Sant'Antonio Abate in Cuasso al Piano",
+      "categories": [
+        "Frescos",
+        "Self-published work",
+        "Sant'Antonio Abate (Cuasso al Piano, Cuasso al Monte)"
+      ],
+      "auteur": "IWriteWikiLol",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Affresco_della_chiesa_di_Cuasso_al_Piano.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Affresco_della_chiesa_di_Cuasso_al_Piano.jpg/1280px-Affresco_della_chiesa_di_Cuasso_al_Piano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Affresco Montebenedetto.jpg",
+      "description": "Affresco esterno della Certosa di Montebenedetto",
+      "categories": [
+        "Certosa di Montebenedetto",
+        "Frescos",
+        "Villar Focchiardo",
+        "Self-published work",
+        "On OSM",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2023-09-17"
+      ],
+      "auteur": "Martj9",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Affresco_Montebenedetto.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Affresco_Montebenedetto.jpg/1280px-Affresco_Montebenedetto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    }
+  ]
+}

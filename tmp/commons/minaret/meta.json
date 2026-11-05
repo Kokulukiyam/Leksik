@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "minaret",
+    "terme": "le minaret",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Tour élancée d'une mosquée, d'où est lancé l'appel à la prière.",
+    "priorite": 1,
+    "requetes": [
+      "incategory:\"Minarets\"",
+      "mosque minaret Dakar",
+      "minaret Senegal"
+    ],
+    "incompatibles": [
+      "mosquee-soudano-sahelienne"
+    ],
+    "categoriesCommons": [
+      "Category:Minarets",
+      "Category:Minarets in Mali"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mosquee en rdc mombele limete.jpg",
+      "description": "Mosque in Limete, Kinshasa, DRC",
+      "categories": [
+        "Mosques in the Democratic Republic of the Congo",
+        "Minarets",
+        "Limete (Kinshasa)",
+        "Self-published work",
+        "Buildings in Kinshasa"
+      ],
+      "auteur": "Max.kit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mosquee_en_rdc_mombele_limete.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Mosquee_en_rdc_mombele_limete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 960
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Great Mosque of Djenné 2.jpg",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Great Mosque of Djenné",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "License migration completed",
+        "Media missing infobox template",
+        "Minarets in Mali"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Djenn%C3%A9_2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Great_Mosque_of_Djenn%C3%A9_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Pekan Seria Mosque minaret (DSCF033).jpg",
+      "description": "Pekan Seria Mosque minaret on 31 December 2025.",
+      "categories": [
+        "Minarets",
+        "Pekan Seria Mosque",
+        "Brunei photographs taken on 2025-12-31"
+      ],
+      "auteur": "Yu Chu Chin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pekan_Seria_Mosque_minaret_(DSCF033).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Pekan_Seria_Mosque_minaret_%28DSCF033%29.jpg/1280px-Pekan_Seria_Mosque_minaret_%28DSCF033%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3317,
+      "hauteur": 4975
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Mosquée en Côte d'Ivoire.1991.jpg",
+      "description": "Mosquée en Côte d'Ivoire.1991",
+      "categories": [
+        "Mosques in Ivory Coast",
+        "Minarets",
+        "Architectural elements of mosques",
+        "Self-published work"
+      ],
+      "auteur": "Rc1959",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_en_C%C3%B4te_d%27Ivoire.1991.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mosqu%C3%A9e_en_C%C3%B4te_d%27Ivoire.1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 673
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dongguan Mosque 2024 (10).jpg",
+      "description": "Clock at Dongguan Mosque",
+      "categories": [
+        "Clock towers in China",
+        "CC-Zero",
+        "Minarets",
+        "Dongguan Mosque",
+        "Architectural elements of mosques",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Huawei Mate 60 Pro"
+      ],
+      "auteur": "STW932",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dongguan_Mosque_2024_(10).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Dongguan_Mosque_2024_%2810%29.jpg/1280px-Dongguan_Mosque_2024_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:One of the things that I liked the most was to capture people form the street while they were doing what they where doing.jpg",
+      "description": "",
+      "categories": [
+        "Minarets",
+        "Media lacking a description",
+        "Self-published work",
+        "Cities in unidentified countries",
+        "Images from Wiki Loves Earth 2016 in Iraq",
+        "Images from Wiki Loves Earth 2016",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Uploaded via Campaign:wle-iq"
+      ],
+      "auteur": "Moahmmad adil",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:One_of_the_things_that_I_liked_the_most_was_to_capture_people_form_the_street_while_they_were_doing_what_they_where_doing.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/One_of_the_things_that_I_liked_the_most_was_to_capture_people_form_the_street_while_they_were_doing_what_they_where_doing.jpg/1280px-One_of_the_things_that_I_liked_the_most_was_to_capture_people_form_the_street_while_they_were_doing_what_they_where_doing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4889,
+      "hauteur": 3041
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "arc-en-plein-cintre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre à imposte cintrée avec volets verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Baie cintrée avec menuiserie : lecture plus fenêtre qu'arc."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Arc en pierre à claveaux formant un demi-cercle complet, théâtre antique en arrière-plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Dodone, Grèce",
+      "note": "Demi-cercle parfait, clairement lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Médaillon sculpté en bas-relief.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lanterneau avec trois petites baies cintrées sous un grand auvent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs trop petits et masqués par le toit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pavillon avec petites fenêtres cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs trop petits."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pavillon avec petites fenêtres cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs trop petits."
+    }
+  ]
+}

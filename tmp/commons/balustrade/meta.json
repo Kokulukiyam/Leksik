@@ -1,0 +1,167 @@
+{
+  "terme": {
+    "id": "balustrade",
+    "terme": "la balustrade",
+    "categorie": "Façade et ouvertures",
+    "definition": "Garde-corps formé d'une rangée de balustres surmontée d'une tablette.",
+    "priorite": 2,
+    "requetes": [
+      "stone balustrade terrace",
+      "balustrade balcon",
+      "concrete balustrade"
+    ],
+    "incompatibles": [
+      "balustre",
+      "garde-corps"
+    ],
+    "categoriesCommons": [
+      "Category:Balustrades",
+      "Category:Balusters",
+      "Category:Stone balustrades"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:El Templo - Flickr - dgorrz.jpg",
+      "description": "El Templo",
+      "categories": [
+        "Balustrades",
+        "Light and shadow",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs taken on 2019-04-11",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Diego Robayo",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:El_Templo_-_Flickr_-_dgorrz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/El_Templo_-_Flickr_-_dgorrz.jpg/1280px-El_Templo_-_Flickr_-_dgorrz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fontainebleau Château Hufeisentreppe 9527.jpg",
+      "description": "Schloss Fontainebleau in Fontainebleau im Département Seine-et-Marne in der Region Île-de-France (Frankreich), Hufeisentreppe, Baluster mit Hermesstab",
+      "categories": [
+        "Taken with Fujifilm X-E1",
+        "Balusters",
+        "Self-published work",
+        "Caduceus in France",
+        "Ball finials in France",
+        "Stone spheres in France",
+        "Escalier du Fer-à-cheval",
+        "Files by User:GFreihalter/Île-de-France 2014",
+        "Files by User:GFreihalter/Château de Fontainebleau"
+      ],
+      "auteur": "GFreihalter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fontainebleau_Ch%C3%A2teau_Hufeisentreppe_9527.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Fontainebleau_Ch%C3%A2teau_Hufeisentreppe_9527.jpg/1280px-Fontainebleau_Ch%C3%A2teau_Hufeisentreppe_9527.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3166,
+      "hauteur": 4749
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Будинок, у якому жив Байдебура П. А., відомий український письменник.jpg",
+      "description": "Будинок, у якому жив Байдебура П. А., відомий український письменник. Донецьк, вул. Артема, 127",
+      "categories": [
+        "Taken with Canon Digital IXUS 140",
+        "127 Artema Street, Donetsk",
+        "Self-published work",
+        "Stone balustrades",
+        "October 2015 in Donetsk Oblast",
+        "Images from Wiki Loves Monuments 2016",
+        "Cultural heritage monuments in Ukraine with known IDs",
+        "Buildings in Ukraine photographed in 2015",
+        "Columns in Donetsk",
+        "Uploaded via Campaign:wlm-ua",
+        "Images from Wiki Loves Monuments 2016 in Ukraine",
+        "Files with coordinates missing SDC location of creation",
+        "Ukraine photographs taken on 2015-10-17",
+        "Blue sky in Donetsk",
+        "Air conditioners in Donetsk",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Wrought iron balconies in Donetsk",
+        "Cultural heritage monuments in Ukraine missing SDC location of creation",
+        "Cultural heritage monuments in Ukraine missing SDC depicts",
+        "Food (text)",
+        "Window balusters",
+        "Window pedestals"
+      ],
+      "auteur": "Жерминаль",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA,_%D1%83_%D1%8F%D0%BA%D0%BE%D0%BC%D1%83_%D0%B6%D0%B8%D0%B2_%D0%91%D0%B0%D0%B9%D0%B4%D0%B5%D0%B1%D1%83%D1%80%D0%B0_%D0%9F._%D0%90.,_%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%2C_%D1%83_%D1%8F%D0%BA%D0%BE%D0%BC%D1%83_%D0%B6%D0%B8%D0%B2_%D0%91%D0%B0%D0%B9%D0%B4%D0%B5%D0%B1%D1%83%D1%80%D0%B0_%D0%9F._%D0%90.%2C_%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA.jpg/1280px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%2C_%D1%83_%D1%8F%D0%BA%D0%BE%D0%BC%D1%83_%D0%B6%D0%B8%D0%B2_%D0%91%D0%B0%D0%B9%D0%B4%D0%B5%D0%B1%D1%83%D1%80%D0%B0_%D0%9F._%D0%90.%2C_%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4224,
+      "hauteur": 2883
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Beautiful Caye Caulker Belize (21206001619).jpg",
+      "description": "beautiful Caye Caulker Belize",
+      "categories": [
+        "Hotels in Belize",
+        "Taken with Nikon Coolpix P340",
+        "Balustrades",
+        "2015 photographs of Belize",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Belize photographs taken on 2015-07-17",
+        "Buildings in Caye Caulker",
+        "Files from dronepicr Flickr stream",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "dronepicr",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beautiful_Caye_Caulker_Belize_(21206001619).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Beautiful_Caye_Caulker_Belize_%2821206001619%29.jpg/1280px-Beautiful_Caye_Caulker_Belize_%2821206001619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Baluster als Möbelfuß (F. S. Meyer, 1888, Taf. 142).jpg",
+      "description": "Baluster als Möbelfuß (F. S. Meyer, 1888, Taf. 142)",
+      "categories": [
+        "Furniture",
+        "Author died more than 70 years ago public domain images",
+        "Balusters",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "Table legs"
+      ],
+      "auteur": "Franz Sales Meyer (1849-1927)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baluster_als_M%C3%B6belfu%C3%9F_(F._S._Meyer,_1888,_Taf._142).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Baluster_als_M%C3%B6belfu%C3%9F_%28F._S._Meyer%2C_1888%2C_Taf._142%29.jpg/1280px-Baluster_als_M%C3%B6belfu%C3%9F_%28F._S._Meyer%2C_1888%2C_Taf._142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1383,
+      "hauteur": 2208
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Igreja de Nossa Senhora do Carmo Salvador Bahia Balustrade 2019-0322.jpg",
+      "description": "Balustrade, Nossa Senhora da Conceição da Praia Church (Church of Our Lady of the Conception of Praia), Salvador, Bahia, Brazil.",
+      "categories": [
+        "Nossa Senhora da Conceição da Praia Church (Salvador)",
+        "Taken with Canon EOS 6D Mark II",
+        "Stairs",
+        "Stone balustrades",
+        "Cultural heritage monuments in Brazil with known IDs",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil images by Paul R. Burley",
+        "Balustrades in Bahia",
+        "Brazil photographs taken on 2019-03-16"
+      ],
+      "auteur": "Paul R. Burley",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_do_Carmo_Salvador_Bahia_Balustrade_2019-0322.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Igreja_de_Nossa_Senhora_do_Carmo_Salvador_Bahia_Balustrade_2019-0322.jpg/1280px-Igreja_de_Nossa_Senhora_do_Carmo_Salvador_Bahia_Balustrade_2019-0322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5611,
+      "hauteur": 3741
+    }
+  ]
+}

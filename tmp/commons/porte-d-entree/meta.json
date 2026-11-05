@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "porte-d-entree",
+    "terme": "la porte d'entrée",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte principale qui donne accès depuis l'extérieur à une maison ou à un logement, souvent plus robuste et décorée.",
+    "priorite": 1,
+    "requetes": [
+      "porte d'entrée maison",
+      "house front door",
+      "front door entrance"
+    ],
+    "incompatibles": [
+      "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Front doors",
+      "Category:Entrance doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dubňany, domovní znamení, slunce.jpg",
+      "description": "Dubňany in Hodonín District, Czech Republic. 15th April Square - the modern city center. House signs.",
+      "categories": [
+        "Wooden doors in the Czech Republic",
+        "GFDL",
+        "Taken with Canon PowerShot SX200 IS",
+        "License migration redundant",
+        "Self-published work",
+        "Third year of the Czech Municipalities Photographs grant",
+        "Door steps",
+        "Files with coordinates missing SDC location of creation",
+        "Front doors",
+        "Files by User:palickap",
+        "Náměstí 15. dubna",
+        "Doors in Dubňany",
+        "House signs in Hodonín District"
+      ],
+      "auteur": "palickap",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dub%C5%88any,_domovn%C3%AD_znamen%C3%AD,_slunce.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Dub%C5%88any%2C_domovn%C3%AD_znamen%C3%AD%2C_slunce.jpg/1280px-Dub%C5%88any%2C_domovn%C3%AD_znamen%C3%AD%2C_slunce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Akershus ytre festning rk 163311 IMG 3995 armeens depot 1832.JPG",
+      "description": "Armeens depot, lengst nordøst på Akershus festningsområde, Oslo",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Self-published work",
+        "Cultural heritage monuments in Norway with known IDs",
+        "Doors in Norway",
+        "Keystones in Norway",
+        "Images from Wiki Loves Monuments 2014",
+        "Images from Wiki Loves Monuments 2014 in Norway",
+        "Uploaded via Campaign:wlm-no",
+        "Norway photographs taken on 2014-08-16",
+        "Entrance doors",
+        "Armeens depot, Akershus fortress",
+        "Portals in Oslo"
+      ],
+      "auteur": "Bjoertvedt",
+      "licence": "CC BY-SA 3.0 no",
+      "lien": "https://commons.wikimedia.org/wiki/File:Akershus_ytre_festning_rk_163311_IMG_3995_armeens_depot_1832.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Akershus_ytre_festning_rk_163311_IMG_3995_armeens_depot_1832.JPG/1280px-Akershus_ytre_festning_rk_163311_IMG_3995_armeens_depot_1832.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:ANDRIK ↟ LANGFIELD ↟ PETRIDES 2017-03-28 (Unsplash).jpg",
+      "description": "ANDRIK ↟ LANGFIELD ↟ PETRIDES 2017-03-28",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "ANDRIK ↟ LANGFIELD ↟ PETRIDES the_alp_photography",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ANDRIK_%E2%86%9F_LANGFIELD_%E2%86%9F_PETRIDES_2017-03-28_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ANDRIK_%E2%86%9F_LANGFIELD_%E2%86%9F_PETRIDES_2017-03-28_%28Unsplash%29.jpg/1280px-ANDRIK_%E2%86%9F_LANGFIELD_%E2%86%9F_PETRIDES_2017-03-28_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3358,
+      "hauteur": 5037
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Quebec ville 00001 05.jpg",
+      "description": "Quebec city",
+      "categories": [
+        "Houses in Quebec City",
+        "CC-Zero",
+        "Self-published work",
+        "Front doors",
+        "Doors by Wilfredor",
+        "Images of Canada by User:Wilfredor",
+        "Old Houses of Quebec by Wilfredor"
+      ],
+      "auteur": "Wilfredo Rafael Rodriguez Hernandez",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Quebec_ville_00001_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Quebec_ville_00001_05.jpg/1280px-Quebec_ville_00001_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3428,
+      "hauteur": 4147
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:De kier ingang.jpg",
+      "description": "de kier ingang",
+      "categories": [
+        "Kier (surname)",
+        "Self-published work",
+        "Entrance doors"
+      ],
+      "auteur": "Johanna Rübenkamp",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:De_kier_ingang.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/De_kier_ingang.jpg/1280px-De_kier_ingang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Abhimanya Doors.jpg",
+      "description": "Abhimanya Doors Dubai wood",
+      "categories": [
+        "Doors",
+        "Self-published work"
+      ],
+      "auteur": "Dilip4545",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abhimanya_Doors.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Abhimanya_Doors.jpg/1280px-Abhimanya_Doors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8064,
+      "hauteur": 6048
+    }
+  ]
+}

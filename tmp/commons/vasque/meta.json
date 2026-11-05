@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "vasque",
+    "terme": "la vasque",
+    "categorie": "Réseaux et équipements",
+    "definition": "Lavabo en forme de bol posé sur un plan ou encastré dans un meuble, sans fixation murale apparente.",
+    "priorite": 2,
+    "requetes": [
+      "vessel sink countertop",
+      "vasque à poser",
+      "countertop basin bathroom"
+    ],
+    "incompatibles": [
+      "lavabo"
+    ],
+    "categoriesCommons": [
+      "Category:Sinks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Imperial' Porcelain Slop Sinks (NYPL b15260162-487581).jpg",
+      "description": "Imperial' Porcelain Slop Sinks.",
+      "categories": [
+        "Sinks",
+        "Wash tubs",
+        "Images uploaded by Fæ",
+        "PD-scan (PD-US-expired)",
+        "PD US expired",
+        "Images from the New York Public Library",
+        "NYPL Science, Industry and Business Library: General Collection",
+        "PD-US missing SDC copyright status",
+        "Catalogue G Illustrating the Plumbing and Sanitary Department of the J.L. Mott Iron Works"
+      ],
+      "auteur": "Scan by NYPL",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Imperial%27_Porcelain_Slop_Sinks_(NYPL_b15260162-487581).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Imperial%27_Porcelain_Slop_Sinks_%28NYPL_b15260162-487581%29.jpg/1280px-Imperial%27_Porcelain_Slop_Sinks_%28NYPL_b15260162-487581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3853,
+      "hauteur": 4202
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:247 Home Rescue plumbing.jpg",
+      "description": "The plumbing and pipework underneath a bathroom sink",
+      "categories": [
+        "Plumbing",
+        "CC-Zero",
+        "Sinks",
+        "Self-published work",
+        "Pipe technology"
+      ],
+      "auteur": "247homerescue",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:247_Home_Rescue_plumbing.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/247_Home_Rescue_plumbing.jpg/1280px-247_Home_Rescue_plumbing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1746,
+      "hauteur": 3104
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:AachenOstfriedhof 9366.jpg",
+      "description": "Water sink on Ostfriedhof of Aachen , Germany",
+      "categories": [
+        "Taken with Canon PowerShot A620",
+        "Sinks",
+        "Ostfriedhof (Aachen)",
+        "Self-published work",
+        "Images uploaded by Túrelio",
+        "Information field template with formatting",
+        "Photos by Túrelio with creditline"
+      ],
+      "auteur": "Túrelio",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:AachenOstfriedhof_9366.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/AachenOstfriedhof_9366.jpg/1280px-AachenOstfriedhof_9366.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2955,
+      "hauteur": 2215
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chrome concept.JPG",
+      "description": "All the equipment is united by a elliptical shape.",
+      "categories": [
+        "Sinks",
+        "Showers",
+        "Bathroom equipment",
+        "Self-published work",
+        "Bathroom furniture"
+      ],
+      "auteur": "Juliros",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chrome_concept.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Chrome_concept.JPG/1280px-Chrome_concept.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 800
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:-i---i- (46736614501).jpg",
+      "description": "",
+      "categories": [
+        "Sinks",
+        "Media lacking a description",
+        "Files from Flickr with bad file names",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Thomas Woodtli",
+        "Uploads by Matlin with bad file names",
+        "Photos uploaded from Flickr by Matlin (needing check) with bad file names"
+      ],
+      "auteur": "Thomas Woodtli from Zürich, Switzerland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-i---i-_(46736614501).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/-i---i-_%2846736614501%29.jpg/1280px--i---i-_%2846736614501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:CBD Oil by Evopure.jpg",
+      "description": "CBD oil for anxiety, sleep, pain, inflammation, and concentration. Please say thank you by linking back to evopure.co.uk on your post. Thank you.",
+      "categories": [
+        "Sinks",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Cannabidiol oil",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Evopure",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CBD_Oil_by_Evopure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/CBD_Oil_by_Evopure.jpg/1280px-CBD_Oil_by_Evopure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4903,
+      "hauteur": 2245
+    }
+  ]
+}

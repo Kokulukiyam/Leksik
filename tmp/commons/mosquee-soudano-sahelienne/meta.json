@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "mosquee-soudano-sahelienne",
+    "terme": "la mosquée soudano-sahélienne",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Mosquée en banco aux murs épais rythmés de contreforts et de pinacles, hérissée de torons.",
+    "priorite": 2,
+    "requetes": [
+      "Great Mosque of Djenné",
+      "sudano-sahelian mosque",
+      "mosquée en banco Mali"
+    ],
+    "incompatibles": [
+      "toron",
+      "banco",
+      "crepissage",
+      "minaret"
+    ],
+    "categoriesCommons": [
+      "Category:Mosques in Mali",
+      "Category:Great Mosque of Djenné"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Sangha 1990.jpg",
+      "description": "Mosquée à Sangha, Mali, 1990",
+      "categories": [
+        "Mosques in Mali",
+        "Mali in the 1990s",
+        "Sangha",
+        "Self-published work",
+        "Mud buildings in Mali",
+        "Files with coordinates missing SDC location of creation",
+        "Mosques photographed in 1990"
+      ],
+      "auteur": "Albert Backer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sangha_1990.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sangha_1990.jpg/1280px-Sangha_1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2348,
+      "hauteur": 1321
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Djenné.jpg",
+      "description": "Djenné street market and the Great Mosque of Djenné — Mali.",
+      "categories": [
+        "Great Mosque of Djenné",
+        "2003 in Mali",
+        "Street markets",
+        "Items with VRTS permission confirmed",
+        "Files with derivative versions",
+        "Files with coordinates missing SDC location of creation",
+        "Markets in Djenné"
+      ],
+      "auteur": "Devriese",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Djenn%C3%A9.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Djenn%C3%A9.jpg/1280px-Djenn%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 1024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:MosqueMaliCommunalMaintenance.jpg",
+      "description": "Communal mosque maintenance in Mali, Africa",
+      "categories": [
+        "Mosques in Mali"
+      ],
+      "auteur": "Francis Kéré",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MosqueMaliCommunalMaintenance.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/MosqueMaliCommunalMaintenance.jpg/1280px-MosqueMaliCommunalMaintenance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1322,
+      "hauteur": 738
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:BamakoDjenné 02.JPG",
+      "description": "Maquette de la Grande mosquée de Djenné au musée National de Bamako (Mali)",
+      "categories": [
+        "Taken with Olympus SP-510UZ",
+        "Great Mosque of Djenné",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Collections of the Musée national du Mali"
+      ],
+      "auteur": "BluesyPete",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BamakoDjenn%C3%A9_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/BamakoDjenn%C3%A9_02.JPG/1280px-BamakoDjenn%C3%A9_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Grand Mosque, Djenne (6863109).jpg",
+      "description": "yet another view from inside the market",
+      "categories": [
+        "Great Mosque of Djenné",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Flickr images missing SDC creator",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by upyernoz"
+      ],
+      "auteur": "upyernoz from Haverford, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grand_Mosque,_Djenne_(6863109).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Grand_Mosque%2C_Djenne_%286863109%29.jpg/1280px-Grand_Mosque%2C_Djenne_%286863109%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2840,
+      "hauteur": 1804
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Koro, Mali.jpg",
+      "description": "City of Koro in Mali, West Africa",
+      "categories": [
+        "Mosques in Mali",
+        "Groups of people",
+        "Self-published work",
+        "Mud buildings in Mali",
+        "Files with coordinates missing SDC location of creation",
+        "Koro, Mali"
+      ],
+      "auteur": "Dr. Ondřej Havelka (cestovatel)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Koro,_Mali.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Koro%2C_Mali.jpg/1280px-Koro%2C_Mali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1316
+    }
+  ]
+}

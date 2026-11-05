@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "fenetre-coulissante",
+    "terme": "la fenêtre coulissante",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fenêtre dont les vantaux glissent horizontalement l'un devant l'autre sur des rails, très courante en aluminium.",
+    "priorite": 1,
+    "requetes": [
+      "sliding window aluminium",
+      "fenêtre coulissante aluminium",
+      "sliding window"
+    ],
+    "incompatibles": [
+      "fenetre"
+    ],
+    "categoriesCommons": [
+      "Category:Sliding windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:窓とベンチ (2885923411).jpg",
+      "description": "窓とベンチ",
+      "categories": [
+        "Public transport timetables of Japan",
+        "White walls",
+        "Wooden benches in Japan",
+        "Waiting rooms in Japan",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Windows in Japan (inside)",
+        "Wooden walls in Japan",
+        "Sliding windows"
+      ],
+      "auteur": "minato kaidou from hiroshima Japan",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E7%AA%93%E3%81%A8%E3%83%99%E3%83%B3%E3%83%81_(2885923411).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%E7%AA%93%E3%81%A8%E3%83%99%E3%83%B3%E3%83%81_%282885923411%29.jpg/1280px-%E7%AA%93%E3%81%A8%E3%83%99%E3%83%B3%E3%83%81_%282885923411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A portal.jpg",
+      "description": "a window",
+      "categories": [
+        "Windows",
+        "Self-published work"
+      ],
+      "auteur": "Llgilpin03",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_portal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/A_portal.jpg/1280px-A_portal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Epee fencer Aris Koutsouflakis.jpg",
+      "description": "Epee fencer Aris Koutsouflakis. Athenaikos fencing club. Athens, Greece.",
+      "categories": [
+        "Fencing in Greece",
+        "Épée fencers",
+        "Self-published work",
+        "Athenaikos Fencing Club",
+        "Sliding windows"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Epee_fencer_Aris_Koutsouflakis.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Epee_fencer_Aris_Koutsouflakis.jpg/1280px-Epee_fencer_Aris_Koutsouflakis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4370,
+      "hauteur": 2961
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A small, inviting corner features a wooden table with two chairs beside a large window.jpg",
+      "description": "A small, inviting corner features a wooden table with two chairs beside a large window",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Wooden tables"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_small,_inviting_corner_features_a_wooden_table_with_two_chairs_beside_a_large_window.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/A_small%2C_inviting_corner_features_a_wooden_table_with_two_chairs_beside_a_large_window.jpg/1280px-A_small%2C_inviting_corner_features_a_wooden_table_with_two_chairs_beside_a_large_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 6240
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Empty apartment room with extension cord.jpg",
+      "description": "Photograph of a small empty room in an apartment unit. The floor is hardwood and the walls are white plaster. One window with an AC unit attached lets in sunlight. A black bag is left on a part of the structure on the left. The AC unit is plugged in via an extension cord strewn across the floor.",
+      "categories": [
+        "Taken with Nexus 5",
+        "Apartment buildings in Manhattan",
+        "New York City photographs taken on 2018-08-08",
+        "Self-published work",
+        "Sunlight in the United States",
+        "Black windows",
+        "Glass windows",
+        "Windows in Manhattan, New York City",
+        "Files uploaded by aismallard",
+        "Photographs by aismallard",
+        "August 2018 in Manhattan, New York City",
+        "Interiors of apartment buildings in New York City",
+        "Wooden flooring in the United States",
+        "Sliding windows",
+        "Vacant rooms in the United States"
+      ],
+      "auteur": "aismallard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Empty_apartment_room_with_extension_cord.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Empty_apartment_room_with_extension_cord.jpg/1280px-Empty_apartment_room_with_extension_cord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A window to the outside.jpg",
+      "description": "A window In my school",
+      "categories": [
+        "Windows",
+        "Self-published work"
+      ],
+      "auteur": "Monsieur_mahdi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_window_to_the_outside.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/A_window_to_the_outside.jpg/1280px-A_window_to_the_outside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3903,
+      "hauteur": 3947
+    }
+  ]
+}

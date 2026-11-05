@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "disjoncteur",
+    "terme": "le disjoncteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil modulaire à manette, monté sur rail dans le tableau, qui coupe un circuit en cas de surcharge ou de court-circuit.",
+    "priorite": 1,
+    "requetes": [
+      "circuit breaker modular",
+      "disjoncteur",
+      "miniature circuit breaker"
+    ],
+    "incompatibles": [
+      "tableau-electrique"
+    ],
+    "categoriesCommons": [
+      "Category:Circuit breakers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Electrical panel and subpanel with cover removed from subpanel.jpg",
+      "description": "Electrical panel and subpanel with cover removed from subpanel. Shows a typical set of electrical service panels in a United States residential dwelling.",
+      "categories": [
+        "Circuit breakers",
+        "Self-published work",
+        "Fuse boxes"
+      ],
+      "auteur": "Gvolk",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Electrical_panel_and_subpanel_with_cover_removed_from_subpanel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Electrical_panel_and_subpanel_with_cover_removed_from_subpanel.jpg/1280px-Electrical_panel_and_subpanel_with_cover_removed_from_subpanel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:BTicino Magic electrical installation modern configuration.jpg",
+      "description": "Domestic electrical installation retaining the original BTicino Magic plate, support and modules. An additional Rosi Emilia panel contains three Schuko sockets. The original BTicino Magic double-pole switch has been replaced by a 16 A miniature circuit breaker.",
+      "categories": [
+        "Circuit breakers",
+        "Taken with Canon PowerShot SX430 IS",
+        "BTicino",
+        "Self-published work",
+        "P 40 sockets",
+        "Push button light switches",
+        "Photographs taken on 2026-09-10"
+      ],
+      "auteur": "Carnby",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BTicino_Magic_electrical_installation_modern_configuration.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/BTicino_Magic_electrical_installation_modern_configuration.jpg/1280px-BTicino_Magic_electrical_installation_modern_configuration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4659,
+      "hauteur": 3455
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Newfoundland and Nova Scotia 2011 (5877523160).jpg",
+      "description": "Stab-Lok circuit breaker.",
+      "categories": [
+        "Circuit breakers",
+        "Freshwater, Placentia Bay, Newfoundland and Labrador",
+        "Flickr images reviewed by FlickreviewR 2",
+        "June 2011 in Newfoundland and Labrador"
+      ],
+      "auteur": "Jeremy T. Hetzel from Boston, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Newfoundland_and_Nova_Scotia_2011_(5877523160).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Newfoundland_and_Nova_Scotia_2011_%285877523160%29.jpg/1280px-Newfoundland_and_Nova_Scotia_2011_%285877523160%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Hepco service breaker 60A.jpg",
+      "description": "北海道計器工業（現在の北海電工）製の契約用安全ブレーカー",
+      "categories": [
+        "Circuit breakers",
+        "Hokkaido Electric Power Company",
+        "Self-published work"
+      ],
+      "auteur": "Emesh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hepco_service_breaker_60A.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Hepco_service_breaker_60A.jpg/1280px-Hepco_service_breaker_60A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2688,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Breaker3phase2a proc.jpg",
+      "description": "Three pole common trip breaker for supplying a three-phase device. This breaker has a 2 A rating.",
+      "categories": [
+        "Circuit breakers",
+        "Three-phase electric power",
+        "License migration completed",
+        "Self-published work",
+        "GFDL-en"
+      ],
+      "auteur": "Glogger",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Breaker3phase2a_proc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breaker3phase2a_proc.jpg/1280px-Breaker3phase2a_proc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1407,
+      "hauteur": 1587
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:OpenClosedPanelboardEEUU(GE)CloseupTop.jpg",
+      "description": "Several circuit breakers in an electric panel",
+      "categories": [
+        "Circuit breakers",
+        "PD-user",
+        "Distribution boards"
+      ],
+      "auteur": "Where sur Wikipédia anglais",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:OpenClosedPanelboardEEUU(GE)CloseupTop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/OpenClosedPanelboardEEUU%28GE%29CloseupTop.jpg/1280px-OpenClosedPanelboardEEUU%28GE%29CloseupTop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1582,
+      "hauteur": 1704
+    }
+  ]
+}

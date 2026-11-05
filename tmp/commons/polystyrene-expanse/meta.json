@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "polystyrene-expanse",
+    "terme": "le polystyrène expansé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Isolant blanc et léger fait de billes collées, vendu en plaques.",
+    "priorite": 2,
+    "requetes": [
+      "expanded polystyrene insulation boards",
+      "EPS insulation",
+      "polystyrène expansé"
+    ],
+    "categoriesCommons": [
+      "Category:Expanded polystyrene",
+      "Category:Thermal insulation"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Model lifting Styrofoam log - DPLA - 2c9e291ab0f81e375f2a12a1a75beb6c (cropped and retouched).jpg",
+      "description": "View of a female model lifting a log of Dow Chemical Company Styrofoam over her head to demonstrate the product's buoyant and lightweight properties. Several stacks of Styrofoam logs are visible in the background. Invented in 1941 by researchers in Dow's Chemical Physics Lab, \"Styrofoam\" properly refers to the Dow Chemical Company’s trademarked brand of closed-cell extruded polystyrene foam commonly used for thermal insulation and craft applications.",
+      "categories": [
+        "Dow Chemical Company",
+        "Media contributed by PA Digital",
+        "Media contributed by the Digital Public Library of America",
+        "Expanded polystyrene",
+        "Artworks without Wikidata item",
+        "Media contributed by Science History Institute",
+        "Extracted images",
+        "1949 advertisements in the United States",
+        "Digital Public Library of America files missing required SDC statements",
+        "No known copyright",
+        "Digital Public Library of America files missing creator",
+        "Women in advertisements",
+        "Files by JayCubby"
+      ],
+      "auteur": "Dow Chemical Company",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Model_lifting_Styrofoam_log_-_DPLA_-_2c9e291ab0f81e375f2a12a1a75beb6c_(cropped_and_retouched).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Model_lifting_Styrofoam_log_-_DPLA_-_2c9e291ab0f81e375f2a12a1a75beb6c_%28cropped_and_retouched%29.jpg/1280px-Model_lifting_Styrofoam_log_-_DPLA_-_2c9e291ab0f81e375f2a12a1a75beb6c_%28cropped_and_retouched%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3737,
+      "hauteur": 2912
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bad Windsheim - Fränkisches Freilandmuseum, Hausisolierung 12.JPG",
+      "description": "Bad Windsheim - Fränkisches Freilandmuseum, Hausisolierung12",
+      "categories": [
+        "Wattle and daub in Germany",
+        "GFDL",
+        "Open air museums in Bavaria",
+        "Thermal insulation",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Fränkisches Freilandmuseum Bad Windsheim"
+      ],
+      "auteur": "Franzfoto",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Windsheim_-_Fr%C3%A4nkisches_Freilandmuseum,_Hausisolierung_12.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bad_Windsheim_-_Fr%C3%A4nkisches_Freilandmuseum%2C_Hausisolierung_12.JPG/1280px-Bad_Windsheim_-_Fr%C3%A4nkisches_Freilandmuseum%2C_Hausisolierung_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Fremont Solstice Parade 2007 - Hokusai wave 02.jpg",
+      "description": "Anti-styrofoam contingent in the 2007 Summer Solstice Parade, Fremont Fair, Seattle, Washington themed partly on Katsuchika Hokusai's famous \"Behind the Great Wave at Kanagawa\" (神奈川沖波裏), from 36 Views of Mount Fuji. Note the waste-styrofoam headgear and the dead animals under the wave.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix P2",
+        "License migration redundant",
+        "Expanded polystyrene",
+        "Self-published work",
+        "Summer Solstice Parade and Pageant 2007"
+      ],
+      "auteur": "Joe Mabel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fremont_Solstice_Parade_2007_-_Hokusai_wave_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Fremont_Solstice_Parade_2007_-_Hokusai_wave_02.jpg/1280px-Fremont_Solstice_Parade_2007_-_Hokusai_wave_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Aluminum building insulation.jpg",
+      "description": "알루미늄 보온",
+      "categories": [
+        "Thermal insulation",
+        "Self-published work"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminum_building_insulation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Aluminum_building_insulation.jpg/1280px-Aluminum_building_insulation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8362,
+      "hauteur": 6645
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:M125 H30.jpg",
+      "description": "Block de coffrage isolant en Néopor.",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus C-8080WZ",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Formwork",
+        "License migration redundant",
+        "Expanded polystyrene",
+        "Self-published work"
+      ],
+      "auteur": "Zoneverte34",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:M125_H30.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/M125_H30.jpg/1280px-M125_H30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2572,
+      "hauteur": 1563
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bohumín-Záblatí, polozateplený dům Bezručova 80.jpg",
+      "description": "80 Bezručova Street in Bohumín-Záblatí, a house with a partial thermal insulation",
+      "categories": [
+        "Built in the Czech Republic in 1914",
+        "Bezručova (Bohumín)",
+        "Thermal insulation",
+        "Záblatí (Bohumín)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Kamil Czaiński",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bohum%C3%ADn-Z%C3%A1blat%C3%AD,_polozateplen%C3%BD_d%C5%AFm_Bezru%C4%8Dova_80.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Bohum%C3%ADn-Z%C3%A1blat%C3%AD%2C_polozateplen%C3%BD_d%C5%AFm_Bezru%C4%8Dova_80.jpg/1280px-Bohum%C3%ADn-Z%C3%A1blat%C3%AD%2C_polozateplen%C3%BD_d%C5%AFm_Bezru%C4%8Dova_80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8000,
+      "hauteur": 6000
+    }
+  ]
+}

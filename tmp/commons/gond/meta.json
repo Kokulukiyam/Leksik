@@ -1,0 +1,180 @@
+{
+  "terme": {
+    "id": "gond",
+    "terme": "le gond",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Pièce métallique coudée scellée dans le mur ou le pilier, sur laquelle pivote un volet ou un portail.",
+    "priorite": 2,
+    "requetes": [
+      "gate hinge pin",
+      "gond volet",
+      "pintle hinge"
+    ],
+    "incompatibles": [
+      "penture"
+    ],
+    "categoriesCommons": [
+      "Category:Gate hinges",
+      "Category:Hinges"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bow Hill gate hinge for Upper Hardres Court in Upper Hardres Kent England.jpg",
+      "description": "Hinge to the gates of Upper Hardres Court on Bow Hill in Upper Hardres village in Kent , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : RAW file lens-corrected, optimized, perhaps cropped, and converted to JPEG with DxO OpticsPro 11 Elite , and likely further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Upper Hardres",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Photographs with aspect ratio of 2:3",
+        "Self-published work",
+        "Gates in Kent",
+        "Summer in Kent",
+        "Red bricks",
+        "Blue gates",
+        "Brick walls in Kent",
+        "August 2016 in Kent",
+        "Summer 2016 in the United Kingdom",
+        "Metal gates in Kent",
+        "Gate hinges",
+        "United Kingdom photographs taken on 2016-08-10",
+        "Gate piers in Kent",
+        "Acabashi photos: fences, gates and walls",
+        "Files with coordinates missing SDC location of creation (51° N, 1° E)",
+        "Wrought iron gates in England",
+        "Close-up photographs of architectural structures",
+        "Gates with gilding",
+        "Gateposts in Kent",
+        "Images from Kent"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bow_Hill_gate_hinge_for_Upper_Hardres_Court_in_Upper_Hardres_Kent_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bow_Hill_gate_hinge_for_Upper_Hardres_Court_in_Upper_Hardres_Kent_England.jpg/1280px-Bow_Hill_gate_hinge_for_Upper_Hardres_Court_in_Upper_Hardres_Kent_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cast iron church gate hinge at Monkton Kent England.jpg",
+      "description": "A partly rusted hinge to the lichen covered cast iron gate of the churchyard of St Mary Magdalene's Church, in Monkton, Kent , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : RAW file lens-corrected, optimized, perhaps cropped, and converted to JPEG with DxO OpticsPro 11 Elite , and likely further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Photographs with aspect ratio of 2:3",
+        "St Mary Magdalene's Church, Monkton, Kent",
+        "Self-published work",
+        "Gates in Kent",
+        "Summer in Kent",
+        "Church gates in the United Kingdom",
+        "Black gates",
+        "Fence and gate finials",
+        "Lichens in England",
+        "August 2016 in Kent",
+        "Summer 2016 in the United Kingdom",
+        "Metal gates in Kent",
+        "Photographs taken on 2016-08-08",
+        "Gate hinges",
+        "Gate piers in Kent",
+        "Acabashi photos: fences, gates and walls",
+        "Files with coordinates missing SDC location of creation (51° N, 1° E)",
+        "Iron gates in England",
+        "Finials in England",
+        "Rusty gates",
+        "Gateposts in Kent",
+        "Images from Kent"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cast_iron_church_gate_hinge_at_Monkton_Kent_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cast_iron_church_gate_hinge_at_Monkton_Kent_England.jpg/1280px-Cast_iron_church_gate_hinge_at_Monkton_Kent_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chorgestühl-Efferen-Darstellung-St-Mariä-Geburt.JPG",
+      "description": "Hürth-Efferen: Chorgestühl mit Darstellung St. Mariä-Geburt. Scharnier und Wange",
+      "categories": [
+        "Hinges",
+        "GFDL",
+        "Taken with Canon EOS 450D",
+        "St. Mariä Geburt (Efferen)",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "HOWI - Horsch, Willy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chorgest%C3%BChl-Efferen-Darstellung-St-Mari%C3%A4-Geburt.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Chorgest%C3%BChl-Efferen-Darstellung-St-Mari%C3%A4-Geburt.JPG/1280px-Chorgest%C3%BChl-Efferen-Darstellung-St-Mari%C3%A4-Geburt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4145,
+      "hauteur": 1972
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Gate hinge and post at Chillenden Kent England.jpg",
+      "description": "A gate hinge and gate post against a rose hedge at Chillenden , in the civil parish of Goodnestone in the Dover District of Kent , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : RAW file lens-corrected, optimized, perhaps cropped, and converted to JPEG with DxO OpticsPro 11 Elite , and likely further optimized with Adobe Photoshop CS2 .",
+      "categories": [
+        "Chillenden",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Gates in Kent",
+        "Summer in Kent",
+        "Hedges in Kent",
+        "August 2016 in Kent",
+        "Summer 2016 in the United Kingdom",
+        "Photographs taken on 2016-08-07",
+        "Gate hinges",
+        "Acabashi photos: fences, gates and walls",
+        "Files with coordinates missing SDC location of creation (51° N, 1° E)",
+        "Entrances in Kent",
+        "Wooden gates in Kent",
+        "Gateposts in Kent"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gate_hinge_and_post_at_Chillenden_Kent_England.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Gate_hinge_and_post_at_Chillenden_Kent_England.jpg/1280px-Gate_hinge_and_post_at_Chillenden_Kent_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:ALUMINUM CONTINUOUS GEARED HINGE.jpg",
+      "description": "Design and origin of the aluminum continuous geared hinge.",
+      "categories": [
+        "English language",
+        "Hinges",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Austin R. Baer Hingeinventor",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:ALUMINUM_CONTINUOUS_GEARED_HINGE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/ALUMINUM_CONTINUOUS_GEARED_HINGE.jpg/1280px-ALUMINUM_CONTINUOUS_GEARED_HINGE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1338,
+      "hauteur": 932
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bevestiging van het hekwerk aan de pijlers, detail - Gronsveld - 20354748 - RCE.jpg",
+      "description": "This is an image of rijksmonumentcomplex number",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Kasteel Rijckholt",
+        "Castle gates in the Netherlands",
+        "Buildings with addresses",
+        "Rijksmonumentcomplexen with known IDs",
+        "Gate hinges",
+        "2004 in Eijsden-Margraten",
+        "Photographs by Kris Roderburg",
+        "Gates in Eijsden-Margraten"
+      ],
+      "auteur": "Kris Roderburg",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bevestiging_van_het_hekwerk_aan_de_pijlers,_detail_-_Gronsveld_-_20354748_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bevestiging_van_het_hekwerk_aan_de_pijlers%2C_detail_-_Gronsveld_-_20354748_-_RCE.jpg/1280px-Bevestiging_van_het_hekwerk_aan_de_pijlers%2C_detail_-_Gronsveld_-_20354748_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 3060
+    }
+  ]
+}

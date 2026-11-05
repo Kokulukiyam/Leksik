@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "portail-battant",
+    "terme": "le portail battant",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Portail à un ou deux vantaux qui pivotent sur des gonds fixés aux piliers.",
+    "priorite": 1,
+    "requetes": [
+      "swing gate double",
+      "portail battant deux vantaux",
+      "metal swing gate"
+    ],
+    "incompatibles": [
+      "portail-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Gates"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:25th anniversary, main gate jcpsc.jpg",
+      "description": "Celebrating 25th anniversary",
+      "categories": [
+        "CC-Zero",
+        "Gates",
+        "Self-published work"
+      ],
+      "auteur": "Ikramulalamchowdhury",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:25th_anniversary,_main_gate_jcpsc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/25th_anniversary%2C_main_gate_jcpsc.jpg/1280px-25th_anniversary%2C_main_gate_jcpsc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 958
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:09253jfMaharlika Road Nueva Ecija Bantug Science Cityfvf 16.JPG",
+      "description": "Barangay Bantug , beside Sapang Cawayan , Maragol , and Villa Nati , Muñoz , Nueva Ecija (Interconnecting with and accessed from and along the Maharlika Highway , Maharlika Highway (Cagayan Valley Road, Talavera-Santo Domingo-Quezon-Science City of Muñoz, Nueva Ecija section) or the Pan-Philippine Highway , also known as the Maharlika \"Nobility/freeman\" Highway or Asian Highway 26).",
+      "categories": [
+        "Gates",
+        "Self-published work",
+        "PD-self",
+        "Bantug, Sapang Cawayan, Maragol and Villa Nati, Science City of Muñoz, Nueva Ecija Road"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:09253jfMaharlika_Road_Nueva_Ecija_Bantug_Science_Cityfvf_16.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/09253jfMaharlika_Road_Nueva_Ecija_Bantug_Science_Cityfvf_16.JPG/1280px-09253jfMaharlika_Road_Nueva_Ecija_Bantug_Science_Cityfvf_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A Mirror of Competing Beauties of the Green Houses LACMA M.80.219.9 (4 of 4).jpg",
+      "description": "Japan, 1776 Alternate Title: Seiro bijin awase sugata kagami; volume= Ingai (supplement). Books Color woodblock print book Gift of Caroline and Jarred Morse (M.80.219.9) Japanese Art with a library seal “Shobikan toshokan” aka Shobikan Library on the lower right.",
+      "categories": [
+        "Woodcuts",
+        "Gates",
+        "Yoshiwara",
+        "Bales",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from LACMA uploaded by Fæ",
+        "Public domain images from the Los Angeles County Museum of Art",
+        "Images from LACMA uploaded by Fæ (check needed)",
+        "Fire extinguisher icons",
+        "A Mirror of Competing Beauties of the Green Houses, LACMA"
+      ],
+      "auteur": "Katsukawa Shunshō (Japan, 1726-1792), Kitao Shigemasa (Japan, 1739-1820)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Mirror_of_Competing_Beauties_of_the_Green_Houses_LACMA_M.80.219.9_(4_of_4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/A_Mirror_of_Competing_Beauties_of_the_Green_Houses_LACMA_M.80.219.9_%284_of_4%29.jpg/1280px-A_Mirror_of_Competing_Beauties_of_the_Green_Houses_LACMA_M.80.219.9_%284_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1445,
+      "hauteur": 2100
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:-i---i- (6623644379).jpg",
+      "description": "Kodak TRI-X 400TX @200 Ilfosol 3 1:9 5mins 30 @20°C",
+      "categories": [
+        "Gates",
+        "Files from Flickr with bad file names",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)",
+        "Photographs by Andrew Basterfield"
+      ],
+      "auteur": "Andrew Basterfield",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-i---i-_(6623644379).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/-i---i-_%286623644379%29.jpg/1280px--i---i-_%286623644379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2885,
+      "hauteur": 2885
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:1970door.jpg",
+      "description": "The school gate of Da'an Elementary School in Tianzhong Township, Changhua County, in the 1970s.",
+      "categories": [
+        "Gates",
+        "Retouched pictures",
+        "Tianzhong Township, Changhua",
+        "Self-published work",
+        "Files with secondary images in the file history"
+      ],
+      "auteur": "liuklee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1970door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1970door.jpg/1280px-1970door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1590,
+      "hauteur": 956
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A Ganduje Gate.jpg",
+      "description": "Abdullahi Umar Ganduje gate in Dawakin Tofa, main entrance to Dawakin Tofa town from Dawaki-Dawanau road. This gate is dedicated to honour former Governor of Kano State Abdullahi Umar Ganduje.",
+      "categories": [
+        "Gates",
+        "Kano State",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Xiaomi Redmi 12"
+      ],
+      "auteur": "Gwanki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Ganduje_Gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/A_Ganduje_Gate.jpg/1280px-A_Ganduje_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2385,
+      "hauteur": 2079
+    }
+  ]
+}

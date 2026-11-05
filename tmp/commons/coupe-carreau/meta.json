@@ -1,0 +1,114 @@
+{
+  "terme": {
+    "id": "coupe-carreau",
+    "terme": "le coupe-carreau",
+    "categorie": "Chantier et outillage",
+    "definition": "Appareil à rail et molette qui raye puis casse net les carreaux en ligne droite.",
+    "priorite": 2,
+    "requetes": [
+      "manual tile cutter",
+      "coupe-carreau",
+      "tile cutter"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Manual tile cutter - Bosnia and Herzegovina (2026).jpg",
+      "description": "Manual tile cutter in Bosnia and Herzegovina (2026)",
+      "categories": [
+        "Self-published work",
+        "Construction tools",
+        "Tools in Bosnia and Herzegovina",
+        "2026 in Bosnia and Herzegovina",
+        "Photographs by Bosancica by MK"
+      ],
+      "auteur": "Minja Klarić",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Manual_tile_cutter_-_Bosnia_and_Herzegovina_(2026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Manual_tile_cutter_-_Bosnia_and_Herzegovina_%282026%29.jpg/1280px-Manual_tile_cutter_-_Bosnia_and_Herzegovina_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2284,
+      "hauteur": 1409
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Carreau de pavement représentant l'Église assise, une coupe à la main (bgw19 0105).jpg",
+      "description": "tableau",
+      "categories": [
+        "Allegories of religion",
+        "Self-published work",
+        "Base Regards"
+      ],
+      "auteur": "Pyb",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carreau_de_pavement_repr%C3%A9sentant_l%27%C3%89glise_assise,_une_coupe_%C3%A0_la_main_(bgw19_0105).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Carreau_de_pavement_repr%C3%A9sentant_l%27%C3%89glise_assise%2C_une_coupe_%C3%A0_la_main_%28bgw19_0105%29.jpg/1280px-Carreau_de_pavement_repr%C3%A9sentant_l%27%C3%89glise_assise%2C_une_coupe_%C3%A0_la_main_%28bgw19_0105%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4693,
+      "hauteur": 4655
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:RUBI TX Tille Cutter.jpg",
+      "description": "RUBI TX-N 2014 model of manual tile cutter for ceramic and porcelain tiles.",
+      "categories": [
+        "Hand tools",
+        "Self-published work"
+      ],
+      "auteur": "Germans Boada, S.A.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:RUBI_TX_Tille_Cutter.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/RUBI_TX_Tille_Cutter.jpg/1280px-RUBI_TX_Tille_Cutter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4991,
+      "hauteur": 3434
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Pecquencourt - Fosse Barrois, coupe géologique (A).JPG",
+      "description": "Coupe géologique sur le carreau de la Fosse Barrois de la Compagnie des mines d'Aniche à Pecquencourt , Nord , Nord-Pas-de-Calais , France .",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FX37",
+        "PD-user",
+        "Fosse Barrois"
+      ],
+      "auteur": "JÄNNICK Jérémy",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pecquencourt_-_Fosse_Barrois,_coupe_g%C3%A9ologique_(A).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Pecquencourt_-_Fosse_Barrois%2C_coupe_g%C3%A9ologique_%28A%29.JPG/1280px-Pecquencourt_-_Fosse_Barrois%2C_coupe_g%C3%A9ologique_%28A%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cut-ceramic-tile 2.jpg",
+      "description": "Simple cutter used to cut ceramic tile",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Ceramic tile cutter",
+        "Self-published work"
+      ],
+      "auteur": "wdwd",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cut-ceramic-tile_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Cut-ceramic-tile_2.jpg/1280px-Cut-ceramic-tile_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2732,
+      "hauteur": 1816
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Pecquencourt - Fosse Barrois, coupe géologique (B).JPG",
+      "description": "Coupe géologique sur le carreau de la Fosse Barrois de la Compagnie des mines d'Aniche à Pecquencourt , Nord , Nord-Pas-de-Calais , France .",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FX37",
+        "PD-user",
+        "Fosse Barrois"
+      ],
+      "auteur": "JÄNNICK Jérémy",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pecquencourt_-_Fosse_Barrois,_coupe_g%C3%A9ologique_(B).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pecquencourt_-_Fosse_Barrois%2C_coupe_g%C3%A9ologique_%28B%29.JPG/1280px-Pecquencourt_-_Fosse_Barrois%2C_coupe_g%C3%A9ologique_%28B%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

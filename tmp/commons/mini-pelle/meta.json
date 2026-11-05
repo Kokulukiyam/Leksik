@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "mini-pelle",
+    "terme": "la mini-pelle",
+    "categorie": "Chantier et outillage",
+    "definition": "Petite pelle hydraulique sur chenilles, avec une lame à l'avant, pour les terrassements en espace réduit.",
+    "priorite": 2,
+    "requetes": [
+      "mini excavator",
+      "mini-pelle",
+      "compact excavator"
+    ],
+    "incompatibles": [
+      "pelle-hydraulique"
+    ],
+    "categoriesCommons": [
+      "Category:Excavators"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Baggersee mit Bagger.jpg",
+      "description": "Baggersee, local lake",
+      "categories": [
+        "Lakes",
+        "Excavators",
+        "Self-published work"
+      ],
+      "auteur": "DanielLehermeier",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baggersee_mit_Bagger.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Baggersee_mit_Bagger.jpg/1280px-Baggersee_mit_Bagger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 3240
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Brumadinho, Minas Gerais (47021722972).jpg",
+      "description": "Catástrofe socioambiental provocada pelo rompimento de barragem da mineradora Vale em Brumadinho (MG) Foto: Felipe Werneck/Ibama Mais informações: &lt;a href=\" https://www.ibama.gov.br/noticias/730-2019/1881-rompimento-de-barragem-da-vale-em-brumadinho-mg-destruiu-269-84-hectares \" rel=\"noreferrer nofollow\"&gt;Rompimento de barragem da Vale em Brumadinho (MG) destruiu 269,84 hectares&lt;/a&gt; &lt;a href=\" https://www.ibama.gov.br/noticias/730-2019/1879-ibama-multa-vale-em-r-250-milhoes-por-catastrofe-em-brumadinho-mg \" rel=\"noreferrer nofollow\"&gt;Ibama multa Vale em R$ 250 milhões por catást",
+      "categories": [
+        "Brumadinho dam disaster",
+        "Excavators",
+        "Aerial photographs of Minas Gerais",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by IBAMA"
+      ],
+      "auteur": "Ibama from Brasil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brumadinho,_Minas_Gerais_(47021722972).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Brumadinho%2C_Minas_Gerais_%2847021722972%29.jpg/1280px-Brumadinho%2C_Minas_Gerais_%2847021722972%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bulgarian Engineers Supporting U S Infantry (5456601).jpg",
+      "description": "A Bulgarian horizontal engineer Soldier uses a Bulgarian military excavator truck to construct a Bradley Infantry Fighting vehicle firing position in support of the U.S. Army’s 1-16 Infantry Company leading up to the STRIKE BACK 19 live fire exercise at Novo Selo Training Area, Bulgaria. STRIKE BACK 19 is a multinational exercise hosted by the Bulgarian Armed Forces at Novo Selo Training Area, Bulgaria, from June 6-20, 2019. STRIKE BACK 19 is designed to increase capabilities and interoperabilities with Bulgarian, Albanian, Greek, North Macedonian and U.S. Troops. (U.S. Army Photo by Lt. Col. ",
+      "categories": [
+        "Taken with Huawei Mate SE",
+        "Excavators",
+        "Military vehicles of Bulgaria",
+        "PD US National Guard",
+        "Files created by the United States National Guard with known IDs",
+        "Bulgaria photographs taken on 2019-06-08",
+        "Military trenchers",
+        "Military excavators",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Excavator trucks",
+        "Strike Back 2019"
+      ],
+      "auteur": "U.S. Army 126PAOC by Lt. Col. Savannah Halleaux",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bulgarian_Engineers_Supporting_U_S_Infantry_(5456601).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Bulgarian_Engineers_Supporting_U_S_Infantry_%285456601%29.jpg/1280px-Bulgarian_Engineers_Supporting_U_S_Infantry_%285456601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Christchurch, city centre, New Zealand (23).JPG",
+      "description": "Christchurch Central City, New Zealand",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ38",
+        "Excavators",
+        "Christchurch Central City",
+        "Self-published work",
+        "Images by User:Podzemnik",
+        "Files with coordinates missing SDC location of creation",
+        "New Zealand photographs taken on 2015-01-01",
+        "Images of New Zealand by User:Podzemnik"
+      ],
+      "auteur": "Michal Klajban",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Christchurch,_city_centre,_New_Zealand_(23).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Christchurch%2C_city_centre%2C_New_Zealand_%2823%29.JPG/1280px-Christchurch%2C_city_centre%2C_New_Zealand_%2823%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3877,
+      "hauteur": 2330
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Back view of an old operator driving excavator. (51632006049).jpg",
+      "description": "Back view of an old operator driving excavator.",
+      "categories": [
+        "Excavators",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Men driving",
+        "Photographs by Nenad Stojkovic",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Nenad Stojkovic",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Back_view_of_an_old_operator_driving_excavator._(51632006049).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Back_view_of_an_old_operator_driving_excavator._%2851632006049%29.jpg/1280px-Back_view_of_an_old_operator_driving_excavator._%2851632006049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3617,
+      "hauteur": 5418
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Builder and excavator.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Excavators",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Nigeria photographs taken on 2021-07-18",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Nigeria",
+        "Building construction in Nigeria",
+        "Men at work in the 2020s",
+        "Anasskoko best pictures",
+        "NCPUG Wiki Loves Africa 2022",
+        "NCPUG Best Images",
+        "NCPUG Building construction"
+      ],
+      "auteur": "Anasskoko",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Builder_and_excavator.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Builder_and_excavator.jpg/1280px-Builder_and_excavator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 3949
+    }
+  ]
+}

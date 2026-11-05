@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "arase",
+    "terme": "l'arase",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Dernier rang d'un mur, mis de niveau pour recevoir un plancher, un chaînage ou une charpente.",
+    "priorite": 2,
+    "requetes": [
+      "top of block wall level course",
+      "arase de mur",
+      "wall plate level masonry top"
+    ],
+    "incompatibles": [
+      "assise"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry",
+      "Category:Concrete block walls",
+      "Category:Brick walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ba-nikolsky-2001-brickwork.jpg",
+      "description": "Brickwork of Nikolsky cathedral of Nikolsky monastery in Pereslavl.",
+      "categories": [
+        "Masonry",
+        "Self-published work",
+        "Bricks in Russia",
+        "Red bricks",
+        "Stacks of bricks",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Bakhtiyor Abdullaev",
+        "Construction of Nikolsky cathedral (Pereslavl-Zalessky)"
+      ],
+      "auteur": "Бахтиёр Абдуллаев",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ba-nikolsky-2001-brickwork.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ba-nikolsky-2001-brickwork.jpg/1280px-Ba-nikolsky-2001-brickwork.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1028
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ha, t'es beau !.jpg",
+      "description": "Atego 1828 au travail sur chantier démolition à côté de chez moi, gyrophares allumés. D'une longueur de 8,2 m pour une masse à vide de 10 t tout rond, attestées par la plaque de tare & surface, ses 2 essieux permettent un PTAC de 19 t (une majoration est tolérée selon type de ralentisseur équipant le véhicule, dans la limite de 500 kg). Le calcul de la charge utile est donc élémentaire: 19 - 10, soit 9 t ! De quoi évacuer pas mal de gravats... Autres configurations répandues en benne TP porteur: 3 essieux - 26 t 4 essieux - 32 t",
+      "categories": [
+        "Demolitions in Nouvelle-Aquitaine",
+        "Eiffage",
+        "Self-published work",
+        "White Mercedes-Benz trucks",
+        "Yellow rotary beacon lights",
+        "Dump rigid trucks in France",
+        "Rusty trucks",
+        "Six-wheeled rigid trucks",
+        "Concrete block walls",
+        "Mercedes-Benz Atego 1828"
+      ],
+      "auteur": "Dacia 1410 Sport",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ha,_t%27es_beau_!.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ha%2C_t%27es_beau_%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 988,
+      "hauteur": 660
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Barbería y Salón, San Antonio Pajonal.jpg",
+      "description": "Barbería y Salón en San Antonio Pajonal en julio, 2019",
+      "categories": [
+        "Brick walls",
+        "Self-published work",
+        "Orange buildings",
+        "Barber shops in El Salvador",
+        "July 2019 in San Antonio Pajonal",
+        "Concrete framing"
+      ],
+      "auteur": "Christopher Arthur Aragon",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barber%C3%ADa_y_Sal%C3%B3n,_San_Antonio_Pajonal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Barber%C3%ADa_y_Sal%C3%B3n%2C_San_Antonio_Pajonal.jpg/1280px-Barber%C3%ADa_y_Sal%C3%B3n%2C_San_Antonio_Pajonal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Apoyo de escalera de bóveda tabicada sobre viga brochal en una casa serrana valenciana.jpg",
+      "description": "Support of a Tile vault staircase on a beam in a Valencian country house.",
+      "categories": [
+        "Taken with Sony HDR-CX240",
+        "Vaults",
+        "Masonry",
+        "Bóveda tabicada",
+        "Self-published work",
+        "Tile vault"
+      ],
+      "auteur": "Barandat",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apoyo_de_escalera_de_b%C3%B3veda_tabicada_sobre_viga_brochal_en_una_casa_serrana_valenciana.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Apoyo_de_escalera_de_b%C3%B3veda_tabicada_sobre_viga_brochal_en_una_casa_serrana_valenciana.jpg/1280px-Apoyo_de_escalera_de_b%C3%B3veda_tabicada_sobre_viga_brochal_en_una_casa_serrana_valenciana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Continued construction of CMU walls in the back of house area of the future LIRR concourse. 10-09-2019 (48882438317).jpg",
+      "description": "Continued construction of CMU walls in the back of house area of the future LIRR concourse. 10-09-2019",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Concrete block walls",
+        "Masons at work",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/10/11"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Continued_construction_of_CMU_walls_in_the_back_of_house_area_of_the_future_LIRR_concourse._10-09-2019_(48882438317).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Continued_construction_of_CMU_walls_in_the_back_of_house_area_of_the_future_LIRR_concourse._10-09-2019_%2848882438317%29.jpg/1280px-Continued_construction_of_CMU_walls_in_the_back_of_house_area_of_the_future_LIRR_concourse._10-09-2019_%2848882438317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A cracked wall.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Buildings in South Sudan",
+        "Brick walls",
+        "Self-published work",
+        "Walls in South Sudan",
+        "Images from Wiki Loves Africa 2022",
+        "Brick walls in South Sudan",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in South Sudan"
+      ],
+      "auteur": "Kabang Bladina Gideon",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_cracked_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/A_cracked_wall.jpg/1280px-A_cracked_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

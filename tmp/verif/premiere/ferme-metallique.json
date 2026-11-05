@@ -1,0 +1,53 @@
+{
+  "termId": "ferme-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Atrium d'université avec verrière sur structure métallique, vue de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure de toit trop lointaine et noyée dans l'atrium."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toiture de gare en treillis tubulaire d'acier rouge, trains en dessous.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Gare de Zaandam, Pays-Bas",
+      "note": "Barres d'acier assemblées en triangles qui portent la couverture ; structure spatiale tubulaire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plan d'ingénieur de fermes métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche imprimée ancienne de bibliothèque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure/imprimé, hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne en noir et blanc de poteaux et poutres en acier en atelier, légende visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de ferme claire ; légende visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plan d'ingénieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    }
+  ]
+}

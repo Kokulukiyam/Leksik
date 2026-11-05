@@ -1,0 +1,124 @@
+{
+  "terme": {
+    "id": "limon",
+    "terme": "le limon",
+    "categorie": "Escaliers et circulations",
+    "definition": "Pièce rampante, en bois, métal ou béton, qui porte les marches sur le côté de l'escalier.",
+    "priorite": 2,
+    "requetes": [
+      "stair stringer",
+      "limon escalier",
+      "staircase stringer"
+    ],
+    "incompatibles": [
+      "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:3rd staircase.jpg",
+      "description": "Carpet installation with border",
+      "categories": [
+        "Staircases",
+        "Stairs with carpets",
+        "Self-published work",
+        "Unidentified houses",
+        "Rugs and carpets in brown"
+      ],
+      "auteur": "AIVOP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3rd_staircase.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/3rd_staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:102 University Ave--Palo Alto, CA-Designed by Joseph Bellomo Architects 2014-05-20 21-21.jpg",
+      "description": "102 University Ave. Palo Alto, CA Designed by Joseph Bellomo Architects",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Uploaded with Mobile/Web"
+      ],
+      "auteur": "User:Intheknow214",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:102_University_Ave--Palo_Alto,_CA-Designed_by_Joseph_Bellomo_Architects_2014-05-20_21-21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/102_University_Ave--Palo_Alto%2C_CA-Designed_by_Joseph_Bellomo_Architects_2014-05-20_21-21.jpg/1280px-102_University_Ave--Palo_Alto%2C_CA-Designed_by_Joseph_Bellomo_Architects_2014-05-20_21-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:AusstellungTrendpool2021.jpg",
+      "description": "Ausstellung in der Firma Trendpool 2021",
+      "categories": [
+        "Staircases",
+        "Self-published work"
+      ],
+      "auteur": "Prof-Dr-Now",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AusstellungTrendpool2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/AusstellungTrendpool2021.jpg/1280px-AusstellungTrendpool2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2024-10-05 WikiCon 2024 021.jpg",
+      "description": "WikiCon 2024 in Wiesbaden - Hier endet das WikiCon-Bereich.",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Interior of Altes Gericht (Wiesbaden)",
+        "WikiCon 2024/Location"
+      ],
+      "auteur": "Ahmet Düz, Dreiländer- & Oberrheinfotograf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-10-05_WikiCon_2024_021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2024-10-05_WikiCon_2024_021.jpg/1280px-2024-10-05_WikiCon_2024_021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Balustrade Southgate-Lewis House 1980.jpg",
+      "description": "The hand-turned balustrade in the main entry foyer of the Southgate-Lewis is said to be: \"one of the finest staircases in all of Austin.\" There is no doubt that it is a finely crafted beautiful work of art. Remarkably, more than one century after it was constructed, it stout, firm, and strong. R.C. Lambie was well known for his finely woodwork and this is perhaps one of his best examples.",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "Grand staircases",
+        "Woodwork"
+      ],
+      "auteur": "DGAAustin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balustrade_Southgate-Lewis_House_1980.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Balustrade_Southgate-Lewis_House_1980.jpg/1280px-Balustrade_Southgate-Lewis_House_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 6316
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:4 Place des Vosges, Hôtel Regnouart, départ d'escalier, 4ème arrondissement, Paris, PH23381.jpg",
+      "description": "Auteur(s): Lansiaux, Charles Joseph Antoine (Aniche, 09–03–1855 - Paris, après 06–04–1939), photographe Date de production: Entre 1916 et 1922 Type(s) d'objet(s): Photographie, Arts graphiques Dénomination(s): Photographie Matériaux et techniques: Tirage au gélatino-bromure d’argent Dimensions - Oeuvre: Hauteur : 17.7 cm Largeur : 23.3 cm Description: Tirage placé sur montage ancien (format 32,2 x 50 cm) grâce à un système d'encoches avec PH23380 Marques, inscriptions, poinçons: Inscription concernant le titre - Au verso de l'image, à droite, manuscrit à l'encre violette : \"DIRECTION DE L'EXTE",
+      "categories": [
+        "Place des Vosges (Paris)",
+        "CC-Zero",
+        "Stairs",
+        "Images from Paris Musées",
+        "Photographs by Charles Lansiaux in the Musée Carnavalet"
+      ],
+      "auteur": "Lansiaux, Charles Joseph Antoine (Aniche, 09–03–1855 - Paris, après 06–04–1939), photographe",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4_Place_des_Vosges,_H%C3%B4tel_Regnouart,_d%C3%A9part_d%27escalier,_4%C3%A8me_arrondissement,_Paris,_PH23381.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/4_Place_des_Vosges%2C_H%C3%B4tel_Regnouart%2C_d%C3%A9part_d%27escalier%2C_4%C3%A8me_arrondissement%2C_Paris%2C_PH23381.jpg/1280px-4_Place_des_Vosges%2C_H%C3%B4tel_Regnouart%2C_d%C3%A9part_d%27escalier%2C_4%C3%A8me_arrondissement%2C_Paris%2C_PH23381.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4580,
+      "hauteur": 3443
+    }
+  ]
+}

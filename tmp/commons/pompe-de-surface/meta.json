@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "pompe-de-surface",
+    "terme": "la pompe de surface",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pompe électrique posée au sol qui aspire l'eau d'une cuve ou d'une bâche et la refoule dans le réseau.",
+    "priorite": 2,
+    "requetes": [
+      "centrifugal water pump electric",
+      "pompe de surface",
+      "surface water pump"
+    ],
+    "categoriesCommons": [
+      "Category:Water pumps",
+      "Category:Centrifugal pumps",
+      "Category:Pumps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Abandoned electric water pump-IMG 1056.jpg",
+      "description": "Abandoned electric water pump",
+      "categories": [
+        "Water pumps",
+        "2021 photographs of Nepal",
+        "Photos by Bijay chaurasia",
+        "Photographs taken on 2021-08-23",
+        "Blue machines"
+      ],
+      "auteur": "Bijay Chaurasia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abandoned_electric_water_pump-IMG_1056.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Abandoned_electric_water_pump-IMG_1056.jpg/1280px-Abandoned_electric_water_pump-IMG_1056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4488,
+      "hauteur": 3590
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bubeneč, turbína.jpg",
+      "description": "Bubeneč , Prague , the Czech Republic . Central Wastewater Treatment Plant and Ecotechnical Museum. Some turbine.",
+      "categories": [
+        "Centrifugal pumps",
+        "Museum Stará čistírna",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "cs:ŠJů",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bubene%C4%8D,_turb%C3%ADna.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bubene%C4%8D%2C_turb%C3%ADna.jpg/1280px-Bubene%C4%8D%2C_turb%C3%ADna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Atbaşıpompa.jpg",
+      "description": "",
+      "categories": [
+        "PD-user",
+        "Pumps",
+        "Media lacking a description",
+        "Rainbows in Turkey"
+      ],
+      "auteur": "Enerjiparki sur Wikipédia turc",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atba%C5%9F%C4%B1pompa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Atba%C5%9F%C4%B1pompa.jpg/1280px-Atba%C5%9F%C4%B1pompa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Afgraving met waterpomp bij de plantage San Juan van Harry Maal op Curaçao, Bestanddeelnr 252-7531.jpg",
+      "description": "Collectie / Archief : Fotocollectie Van de Poll Reportage / Serie : Reis naar Suriname en de Nederlandse Antillen Beschrijving : Afgraving met waterpomp bij de plantage San Juan van Harry Maal op Curaçao Annotatie : De plantage San Juan (Klein Sint Joris) is nog steeds in familiebezit Datum : 1947 Locatie : Curaçao Trefwoorden : plantages, pompen, rotsen Fotograaf : Poll, Willem van de, [onbekend] Auteursrechthebbende : Nationaal Archief Materiaalsoort : Negatief (zwart/wit) Nummer archiefinventaris : bekijk toegang 2.24.14.02 Bestanddeelnummer : 252-7531",
+      "categories": [
+        "Water pumps",
+        "CC-Zero",
+        "Images from Nationaal Archief",
+        "Combustion engine-powered pumps",
+        "Photographs by Willem van de Poll in Curaçao (1947)",
+        "Plantage San Juan"
+      ],
+      "auteur": "Willem van de Poll",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Afgraving_met_waterpomp_bij_de_plantage_San_Juan_van_Harry_Maal_op_Cura%C3%A7ao,_Bestanddeelnr_252-7531.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Afgraving_met_waterpomp_bij_de_plantage_San_Juan_van_Harry_Maal_op_Cura%C3%A7ao%2C_Bestanddeelnr_252-7531.jpg/1280px-Afgraving_met_waterpomp_bij_de_plantage_San_Juan_van_Harry_Maal_op_Cura%C3%A7ao%2C_Bestanddeelnr_252-7531.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2622,
+      "hauteur": 2566
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Altes Pumpwerk 2013-Maschinenhalle-01.jpg",
+      "description": "Hauptpumpwerk I, Maschinenhaus in Bremen, Bayernstraße 129",
+      "categories": [
+        "Images from Wiki Loves Monuments 2013 in Germany",
+        "Centrifugal pumps",
+        "Pumphouses in Bremen (state)",
+        "Cultural heritage monuments in Findorff (Bremen)",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2013",
+        "Images from Wiki Loves Monuments 2013, DE-HB",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Files with coordinates missing SDC location of creation (53° N, 8° E)",
+        "Electric pumps",
+        "Images containing text not available in image description",
+        "Bremer Express-Upload"
+      ],
+      "auteur": "Godewind ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Altes_Pumpwerk_2013-Maschinenhalle-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Altes_Pumpwerk_2013-Maschinenhalle-01.jpg/1280px-Altes_Pumpwerk_2013-Maschinenhalle-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1576
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Close-up of a Regenerative Turbine Pump Impeller inside of a T51 Series pump from MTH Pumps.jpg",
+      "description": "This is a close up of the inner workings of an MTH T51 Series Regenerative Turbine Pump. Fluid is introduced from the inlet side (Right) as the impeller rotates clockwise. The fluid is pushed in a helical pattern split between both sides of the impeller. As it spins through the fluid path (water channel) it increases pressure until it hits the water stop and exits out of the discharge side of the pump (Left) at a much higher pressure, but only moderate to low flows.",
+      "categories": [
+        "Pumps",
+        "Self-published work"
+      ],
+      "auteur": "MTHPumps",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_Regenerative_Turbine_Pump_Impeller_inside_of_a_T51_Series_pump_from_MTH_Pumps.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Close-up_of_a_Regenerative_Turbine_Pump_Impeller_inside_of_a_T51_Series_pump_from_MTH_Pumps.jpg/1280px-Close-up_of_a_Regenerative_Turbine_Pump_Impeller_inside_of_a_T51_Series_pump_from_MTH_Pumps.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    }
+  ]
+}

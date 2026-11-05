@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "bac-a-laver",
+    "terme": "le bac à laver",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bac profond en béton, en céramique ou en résine, souvent posé dans une buanderie ou une cour, servant à laver le linge à la main.",
+    "priorite": 2,
+    "requetes": [
+      "concrete laundry sink",
+      "bac à laver",
+      "utility sink laundry tub"
+    ],
+    "incompatibles": [
+      "evier"
+    ],
+    "categoriesCommons": [
+      "Category:Sinks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cottages in the Berkeley Biogarden 49.jpg",
+      "description": "Pictures and views from the cottages of a Berkeley Biogarden",
+      "categories": [
+        "Sinks",
+        "Self-published work",
+        "Taken by Burkhard Muecke",
+        "Cottages in the Berkeley Biogarden"
+      ],
+      "auteur": "Burkhard Mücke",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cottages_in_the_Berkeley_Biogarden_49.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Cottages_in_the_Berkeley_Biogarden_49.jpg/1280px-Cottages_in_the_Berkeley_Biogarden_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Annika (30) (5013760747).jpg",
+      "description": "Switzerland - Ecosan ARA. Tessin",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FX55",
+        "Sinks",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Unidentified locations in the canton of Ticino",
+        "Toilets in Switzerland"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Annika_(30)_(5013760747).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Annika_%2830%29_%285013760747%29.jpg/1280px-Annika_%2830%29_%285013760747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1840
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2014-03-136 buly def rvb bd.jpg",
+      "description": "Details - Boutique L'Officine Universelle Buly 1803",
+      "categories": [
+        "Sinks",
+        "Self-published work"
+      ],
+      "auteur": "Ritatad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014-03-136_buly_def_rvb_bd.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2014-03-136_buly_def_rvb_bd.jpg/1280px-2014-03-136_buly_def_rvb_bd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1526,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2005-11-05 - London - Covent Garden - Food Lovers Fairs - Wash up Area (4887817659).jpg",
+      "description": "Black and white",
+      "categories": [
+        "Taken with Canon PowerShot A95",
+        "Sinks",
+        "Covent Garden",
+        "Flickr images reviewed by trusted users",
+        "Buildings with addresses",
+        "C. G. P. Grey Images",
+        "Black and white photographs of London in the 2000s",
+        "London photographs taken on 2005-11-05",
+        "Files with coordinates missing SDC location of creation (51° N, 1° W)"
+      ],
+      "auteur": "CGP Grey",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2005-11-05_-_London_-_Covent_Garden_-_Food_Lovers_Fairs_-_Wash_up_Area_(4887817659).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2005-11-05_-_London_-_Covent_Garden_-_Food_Lovers_Fairs_-_Wash_up_Area_%284887817659%29.jpg/1280px-2005-11-05_-_London_-_Covent_Garden_-_Food_Lovers_Fairs_-_Wash_up_Area_%284887817659%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2529,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:\"Child with food\", 1961 - NARA - 558847.jpg",
+      "description": "General notes: Section of mural in Children's Hospital",
+      "categories": [
+        "Art of the United States",
+        "PD US Government",
+        "Sinks",
+        "Murals",
+        "1961 paintings",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Children's hospitals in the United States",
+        "Harmon Foundation",
+        "Artworks without Wikidata item",
+        "Washing in art",
+        "CC-PD-Mark",
+        "US National Archives series: Artworks by Negro Artists, compiled 1922 - 1967",
+        "Children eating in art"
+      ],
+      "auteur": "Miranda Burney-Nichol",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Child_with_food%22,_1961_-_NARA_-_558847.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%22Child_with_food%22%2C_1961_-_NARA_-_558847.jpg/1280px-%22Child_with_food%22%2C_1961_-_NARA_-_558847.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2526,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Slop Hoppers and Sinks (NYPL b15260162-487507).jpg",
+      "description": "Slop Hoppers and Sinks.",
+      "categories": [
+        "Sinks",
+        "Images uploaded by Fæ",
+        "PD-scan (PD-US-expired)",
+        "PD US expired",
+        "Images from the New York Public Library",
+        "NYPL Science, Industry and Business Library: General Collection",
+        "PD-US missing SDC copyright status",
+        "Catalogue G Illustrating the Plumbing and Sanitary Department of the J.L. Mott Iron Works",
+        "Slop hopper sinks"
+      ],
+      "auteur": "Scan by NYPL",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Slop_Hoppers_and_Sinks_(NYPL_b15260162-487507).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Slop_Hoppers_and_Sinks_%28NYPL_b15260162-487507%29.jpg/1280px-Slop_Hoppers_and_Sinks_%28NYPL_b15260162-487507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3853,
+      "hauteur": 4202
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "platine",
+    "terme": "la platine",
+    "categorie": "Structure",
+    "definition": "Plaque d'acier soudée au pied d'un poteau métallique et boulonnée sur son massif en béton.",
+    "priorite": 2,
+    "requetes": [
+      "steel column base plate anchor bolts",
+      "platine pied de poteau",
+      "base plate"
+    ],
+    "incompatibles": [
+      "tige-d-ancrage",
+      "poteau-metallique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Platinum in hot aqua regia.jpg",
+      "description": "Platinum sheet reacts with warm aqua regia",
+      "categories": [
+        "Platinum",
+        "Chemical reactions",
+        "Aqua regia",
+        "Self-published work"
+      ],
+      "auteur": "范皓程",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Platinum_in_hot_aqua_regia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Platinum_in_hot_aqua_regia.jpg/1280px-Platinum_in_hot_aqua_regia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Piece of chocolate cake on a white plate decorated with chocolate sauce.jpg",
+      "description": "Part de gâteau au chocolat, saupoudrée de poudre de cacao , sur une assiette blanche décorée de sauce au chocolat. Mots-clé Pixabay :Gâteau, Pièce, Plaque, Dessert, Pâtisserie, Sweet.",
+      "categories": [
+        "CC-Zero",
+        "Chocolate sauce",
+        "Featured pictures on Wikipedia, Persian",
+        "Chocolate shavings",
+        "Featured pictures of food",
+        "Featured pictures on Wikipedia, Bengali",
+        "Images from Pixabay",
+        "Photographs taken on 2017-01-11",
+        "1 sliced cake on plates",
+        "Featured photographs in the public domain",
+        "Food on white plates",
+        "Cocoa powder as garnish",
+        "Chocolate-based pastries",
+        "Black, brown, cream, white"
+      ],
+      "auteur": "Daria Yakovleva Minor edits made by Subsidiary account",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/1280px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5536,
+      "hauteur": 3766
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Muséum de Nantes - 040 - Minerai de platine (Bushveldt, Afrique du Sud).jpg",
+      "description": "Minerai de platine, en provenance de Bushveldt (Afrique du Sud), au Muséum de Nantes",
+      "categories": [
+        "Platinum",
+        "Bushveld Igneous Complex",
+        "Self-published work",
+        "Minerals of South Africa",
+        "Files with coordinates missing SDC location of creation",
+        "Files by User:Koreller/Muséum de Nantes",
+        "Muséum d'histoire naturelle de Nantes - minerals"
+      ],
+      "auteur": "Koreller",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9um_de_Nantes_-_040_-_Minerai_de_platine_(Bushveldt,_Afrique_du_Sud).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Mus%C3%A9um_de_Nantes_-_040_-_Minerai_de_platine_%28Bushveldt%2C_Afrique_du_Sud%29.jpg/1280px-Mus%C3%A9um_de_Nantes_-_040_-_Minerai_de_platine_%28Bushveldt%2C_Afrique_du_Sud%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2320,
+      "hauteur": 3512
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:1973 Base Ontario License Plate LVK-827.jpg",
+      "description": "An Ontario License Plate on the 1973 base. Numbered LVK-827. 1980 validation sticker in bottom right.",
+      "categories": [
+        "License plates of Ontario",
+        "1970s license plates",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Jerry \"Woody\"",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1973_Base_Ontario_License_Plate_LVK-827.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1973_Base_Ontario_License_Plate_LVK-827.jpg/1280px-1973_Base_Ontario_License_Plate_LVK-827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2660,
+      "hauteur": 1391
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Climt style nanofilm.jpg",
+      "description": "Oxidized Al nanofilm (about 30nm thickness). The film was obtained using electron beam evaporation method on the NaCl substrate. The image captured via optical microscope at x300 magnification during ivestigations of the oxidation processes. The centers of oxidation of aluminum are clearly visible in the image.",
+      "categories": [
+        "Aluminium",
+        "Platinum",
+        "Abstract art",
+        "Self-published work",
+        "Microscopy images from Wiki Science Competition 2017",
+        "Images from Wiki Science Competition 2017 in Russia",
+        "Colors in the arts",
+        "Metal textures",
+        "Uploaded via Campaign:wsc-ru"
+      ],
+      "auteur": "Moiseenko_E_T",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Climt_style_nanofilm.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Climt_style_nanofilm.jpg/1280px-Climt_style_nanofilm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Kansas License Plate Base 2007-2018 (045 BKR).jpg",
+      "description": "Kansas License Plate Base 2007-2018",
+      "categories": [
+        "Self-published work",
+        "License plates of Kansas",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Stowellg",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kansas_License_Plate_Base_2007-2018_(045_BKR).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Kansas_License_Plate_Base_2007-2018_%28045_BKR%29.jpg/1280px-Kansas_License_Plate_Base_2007-2018_%28045_BKR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3637,
+      "hauteur": 1827
+    }
+  ]
+}

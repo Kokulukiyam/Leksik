@@ -1,0 +1,63 @@
+{
+  "termId": "volet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux fenêtres à encadrement sculpté d'un mur en rondins, flanquées de volets battants à panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Petrozavodsk",
+      "note": "Volets nombreux entourant deux fenêtres, rectangle ambigu ; 03 et 04 préférables."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Devanture de rue fermée par un rideau métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Rideau métallique, pas un volet au sens du jeu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Volets en bois bleu-vert à deux battants ouverts sur une façade en pierre vue d'en bas.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.3,
+        "largeur": 0.85,
+        "hauteur": 0.62
+      },
+      "lieu": "",
+      "note": "Volets nets, matériau et ferrures visibles ; rectangle sur la fenêtre du bas."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre fermée par deux volets en planches blanches sur un mur en rondins sous la neige.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.26,
+        "largeur": 0.52,
+        "hauteur": 0.5
+      },
+      "lieu": "",
+      "note": "Volets pleins fermés, charnières et targette visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison traditionnelle à étage en encorbellement avec fenêtres à volets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gjirokastër",
+      "note": "Volets trop petits."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre de palais avec grille jaune et deux volets peints ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Marrakech",
+      "note": "Grille ornée dominante, lecture ambiguë."
+    }
+  ]
+}

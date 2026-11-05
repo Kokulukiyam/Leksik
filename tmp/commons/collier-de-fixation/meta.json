@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "collier-de-fixation",
+    "terme": "le collier de fixation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bride en métal ou en plastique vissée au mur qui maintient un tuyau.",
+    "priorite": 2,
+    "requetes": [
+      "pipe clamp wall",
+      "collier de fixation tuyau",
+      "pipe clip bracket"
+    ],
+    "categoriesCommons": [
+      "Category:Pipe clamps",
+      "Category:Pipe supports"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Green plastic pipes.JPG",
+      "description": "welded polyethylene pipes",
+      "categories": [
+        "Plastic pipes",
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Self-published work",
+        "PD-self",
+        "Green pipes",
+        "Pipe clamps",
+        "Plastic pressure piping systems in buildings"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Green_plastic_pipes.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Green_plastic_pipes.JPG/1280px-Green_plastic_pipes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Revaler Straße Pink Pipes (15349385156).jpg",
+      "description": "Berlin, Germany",
+      "categories": [
+        "Concert posters of Germany",
+        "Germany photographs taken on 2014-09-21",
+        "Pipe supports",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Street signs in Berlin-Friedrichshain",
+        "Street lights in Berlin-Friedrichshain",
+        "Photographs by Tony Webster",
+        "Pipeline bridges in Berlin",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Tony Webster from Portland, Oregon, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Revaler_Stra%C3%9Fe_Pink_Pipes_(15349385156).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Revaler_Stra%C3%9Fe_Pink_Pipes_%2815349385156%29.jpg/1280px-Revaler_Stra%C3%9Fe_Pink_Pipes_%2815349385156%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Rør festet til lecablokker-2.JPG",
+      "description": "Rør festet til lecablokker.",
+      "categories": [
+        "Plastic pipes",
+        "Taken with Canon EOS 550D",
+        "CC-Zero",
+        "Autoclaved aerated concrete",
+        "Self-published work",
+        "Pipe clamps"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:R%C3%B8r_festet_til_lecablokker-2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/R%C3%B8r_festet_til_lecablokker-2.JPG/1280px-R%C3%B8r_festet_til_lecablokker-2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cylinder pipe guide.jpg",
+      "description": "Cylinder pipe guides (Spider Guides) manufactured by Piping Technology & Products, Inc.",
+      "categories": [
+        "Pipe supports",
+        "Self-published work"
+      ],
+      "auteur": "Piping Technology.",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cylinder_pipe_guide.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Cylinder_pipe_guide.jpg/1280px-Cylinder_pipe_guide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Oberirdische Versorgungsleitungen Mannheim August 2012.JPG",
+      "description": "Versorgungsleitungen in Mannheim (Baden-Württemberg, Deutschland)",
+      "categories": [
+        "Konkordienkirche Mannheim",
+        "Mannheim-Innenstadt",
+        "Pipe supports",
+        "Self-published work",
+        "Files by 4028mdk09",
+        "Metal pipes",
+        "Pipeline bridges in Baden-Württemberg"
+      ],
+      "auteur": "4028mdk09",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oberirdische_Versorgungsleitungen_Mannheim_August_2012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Oberirdische_Versorgungsleitungen_Mannheim_August_2012.JPG/1280px-Oberirdische_Versorgungsleitungen_Mannheim_August_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Layout and installation of conduits for power and control wires for a power substation in Queens. (49363966572).jpg",
+      "description": "Layout and installation of conduits for power and control wires for a power substation in Queens.",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Pipe clamps",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2020/01/10"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Layout_and_installation_of_conduits_for_power_and_control_wires_for_a_power_substation_in_Queens._(49363966572).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Layout_and_installation_of_conduits_for_power_and_control_wires_for_a_power_substation_in_Queens._%2849363966572%29.jpg/1280px-Layout_and_installation_of_conduits_for_power_and_control_wires_for_a_power_substation_in_Queens._%2849363966572%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

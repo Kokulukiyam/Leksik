@@ -1,0 +1,109 @@
+{
+  "terme": {
+    "id": "banche",
+    "terme": "la banche",
+    "categorie": "Chantier et outillage",
+    "definition": "Grand panneau de coffrage métallique vertical, stabilisé par des béquilles, qui sert à couler les voiles de béton.",
+    "priorite": 2,
+    "requetes": [
+      "wall formwork panels crane",
+      "banche coffrage voile",
+      "large panel wall formwork"
+    ],
+    "incompatibles": [
+      "coffrage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:穆埃特之城構件.jpg",
+      "description": "Cité de la Muette was a testing ground for architecture in the Parisian auburbs of Drancy, attempting to draw inspiration from the car industry and using the newest planning concepts and construction techniques. It was the highest skyscraper in Paris at the time. To create this satellite town, many components were prefabricated in factories and assembled on site. This reduced the use of large amounts of scaffolding and formwork required by traditional concrete construction and made it possible to assemble the lightweight exterior wall panels with carefully-designed joints without needing crane",
+      "categories": [
+        "CC-Zero",
+        "Cité de la Muette",
+        "National Taiwan Museum Railway Department Park",
+        "Self-published work",
+        "2024 photographs of Taipei"
+      ],
+      "auteur": "氏子",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E7%A9%86%E5%9F%83%E7%89%B9%E4%B9%8B%E5%9F%8E%E6%A7%8B%E4%BB%B6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/%E7%A9%86%E5%9F%83%E7%89%B9%E4%B9%8B%E5%9F%8E%E6%A7%8B%E4%BB%B6.jpg/1280px-%E7%A9%86%E5%9F%83%E7%89%B9%E4%B9%8B%E5%9F%8E%E6%A7%8B%E4%BB%B6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Banches B8000.JPG",
+      "description": "Coffrage d'un voile à l'aide de banches B8000 Outinord",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-LX1",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Formwork",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Janexfr",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banches_B8000.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Banches_B8000.JPG/1280px-Banches_B8000.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2160,
+      "hauteur": 2880
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:View of the foundation work for the Flight path Walkway with the Visitor Center walls in the background (8e5336e4-155d-451f-678d-128c944db3d1).JPG",
+      "description": "Looking up at the Visitor Center Complex In this view you are looking roughly west up from the edge of the bowl and the beginning of the Memorial Groves. The large yellow-orange panel on the left wall is a mold. Concrete formwork",
+      "categories": [
+        "PD US NPS",
+        "Photographs taken on 2014-08-11",
+        "Images from NPGallery",
+        "Construction, Flight 93 National Memorial Visitor Center"
+      ],
+      "auteur": "National Park Service",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:View_of_the_foundation_work_for_the_Flight_path_Walkway_with_the_Visitor_Center_walls_in_the_background_(8e5336e4-155d-451f-678d-128c944db3d1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/View_of_the_foundation_work_for_the_Flight_path_Walkway_with_the_Visitor_Center_walls_in_the_background_%288e5336e4-155d-451f-678d-128c944db3d1%29.JPG/1280px-View_of_the_foundation_work_for_the_Flight_path_Walkway_with_the_Visitor_Center_walls_in_the_background_%288e5336e4-155d-451f-678d-128c944db3d1%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:FEMA - 22422 - Photograph by Tom Hurd taken on 07-24-2004 in Iowa.jpg",
+      "description": "Des Moines, Iowa, July 24, 2004 -- This tornado shelter for 400 campers at the Iowa State Fairgrounds outside Des Moines was completed in 2003. The 5,200 square-foot shelter is 100 feet long by 71 feet wide. When not in use as an emergency shelter, the large multi-purpose building is used by both the fairground staff and campers for restrooms, showers, a laundry area, offices, and meeting space. The shelter, funded through a $600,000 grant from FEMA's Hazard Mitigation Grant Program with the Iowa State Fair funding the remaining $150,000. In June 1998, a storm with winds in excess of 100 miles",
+      "categories": [
+        "Taken with Pentax Optio 33L",
+        "PD US FEMA",
+        "Tornado shelters",
+        "Images from FEMA, category Tornado",
+        "Images from FEMA, category Mitigation"
+      ],
+      "auteur": "Tom Hurd",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:FEMA_-_22422_-_Photograph_by_Tom_Hurd_taken_on_07-24-2004_in_Iowa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/FEMA_-_22422_-_Photograph_by_Tom_Hurd_taken_on_07-24-2004_in_Iowa.jpg/1280px-FEMA_-_22422_-_Photograph_by_Tom_Hurd_taken_on_07-24-2004_in_Iowa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:FEMA - 22421 - Photograph by Iowa Homeland Security and Emergency Management Division taken on 07-28-2004 in Iowa.jpg",
+      "description": "Des Moines, Iowa, July 24, 2004 -- This tornado shelter for 400 campers at the Iowa State Fairgrounds outside Des Moines was completed in 2003. The 5,200 square-foot shelter is 100 feet long by 71 feet wide. When not in use as an emergency shelter, the large multi-purpose building is used by both the fairground staff and campers for restrooms, showers, a laundry area, offices, and meeting space. The shelter, funded through a $600,000 grant from FEMA's Hazard Mitigation Grant Program with the Iowa State Fair funding the remaining $150,000. In June 1998, a storm with winds in excess of 100 miles",
+      "categories": [
+        "Taken with Pentax Optio 33L",
+        "PD US FEMA",
+        "Tornado shelters",
+        "Images from FEMA, category Tornado",
+        "Images from FEMA, category Mitigation"
+      ],
+      "auteur": "Iowa Homeland Security and Emergency Management Division",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:FEMA_-_22421_-_Photograph_by_Iowa_Homeland_Security_and_Emergency_Management_Division_taken_on_07-28-2004_in_Iowa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/FEMA_-_22421_-_Photograph_by_Iowa_Homeland_Security_and_Emergency_Management_Division_taken_on_07-28-2004_in_Iowa.jpg/1280px-FEMA_-_22421_-_Photograph_by_Iowa_Homeland_Security_and_Emergency_Management_Division_taken_on_07-28-2004_in_Iowa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

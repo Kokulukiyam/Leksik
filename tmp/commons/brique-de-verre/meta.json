@@ -1,0 +1,151 @@
+{
+  "terme": {
+    "id": "brique-de-verre",
+    "terme": "la brique de verre",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bloc creux de verre moulé, translucide, maçonné pour former une paroi qui laisse passer la lumière.",
+    "priorite": 2,
+    "requetes": [
+      "glass block wall",
+      "brique de verre",
+      "glass bricks"
+    ],
+    "categoriesCommons": [
+      "Category:Glass blocks",
+      "Category:Glass block walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Anexo 1 da Reitoria (Campus Central, UFRGS, Porto Alegre, Brasil) 2.jpg",
+      "description": "Anexo 1 da Reitoria (Campus Central, UFRGS, Porto Alegre, Brasil)",
+      "categories": [
+        "Glass blocks",
+        "Self-published work",
+        "Brazil photographs taken on 2026-09-24",
+        "Anexo 1 da Reitoria (Campus Central, UFRGS, Porto Alegre, Brasil)"
+      ],
+      "auteur": "Eugenio Hansen, OFS",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anexo_1_da_Reitoria_(Campus_Central,_UFRGS,_Porto_Alegre,_Brasil)_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Anexo_1_da_Reitoria_%28Campus_Central%2C_UFRGS%2C_Porto_Alegre%2C_Brasil%29_2.jpg/1280px-Anexo_1_da_Reitoria_%28Campus_Central%2C_UFRGS%2C_Porto_Alegre%2C_Brasil%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:(20250308) Würzburg 10.jpg",
+      "description": "Würzburg",
+      "categories": [
+        "Glass blocks in Germany",
+        "Self-published work",
+        "2025 in Würzburg",
+        "Glass block walls",
+        "Files with coordinates missing SDC location of creation (49° N, 9° E)",
+        "Files by Roy Zuo"
+      ],
+      "auteur": "Roy Zuo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(20250308)_W%C3%BCrzburg_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%2820250308%29_W%C3%BCrzburg_10.jpg/1280px-%2820250308%29_W%C3%BCrzburg_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Anexo 1 da Reitoria (Campus Central, UFRGS, Porto Alegre, Brasil) 1.jpg",
+      "description": "Anexo 1 da Reitoria (Campus Central, UFRGS, Porto Alegre, Brasil)",
+      "categories": [
+        "Glass blocks",
+        "Self-published work",
+        "Brazil photographs taken on 2026-09-24",
+        "Anexo 1 da Reitoria (Campus Central, UFRGS, Porto Alegre, Brasil)"
+      ],
+      "auteur": "Eugenio Hansen, OFS",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anexo_1_da_Reitoria_(Campus_Central,_UFRGS,_Porto_Alegre,_Brasil)_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Anexo_1_da_Reitoria_%28Campus_Central%2C_UFRGS%2C_Porto_Alegre%2C_Brasil%29_1.jpg/1280px-Anexo_1_da_Reitoria_%28Campus_Central%2C_UFRGS%2C_Porto_Alegre%2C_Brasil%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:AUT — Tirol — Innsbruck — ... (Gebäude mit vielen Glasbausteinen) Mattes 2021-10-03.jpg",
+      "description": "Gebäude mit vielen Glasbausteinen",
+      "categories": [
+        "Taken with Huawei P30 Pro",
+        "Pradl (Innsbruck)",
+        "Self-published work",
+        "Austria photographs taken on 2021-10-03",
+        "Taken on missing SDC inception",
+        "Glass facades in Austria",
+        "Buildings in Innsbruck",
+        "FoP-Austria",
+        "Glass block walls",
+        "Files with coordinates missing SDC location of creation",
+        "File uploads by User:Mattes (flat)",
+        "HDR images by User:Mattes",
+        "User:Mattes/Contributions/Topics/Buildings and structures",
+        "Work by Mattes 2021",
+        "User:Mattes/Contributions/Geolocation/OK",
+        "User:Mattes/Contributions/Topics/Austria/Tiroler Mittelland"
+      ],
+      "auteur": "Photographe: User:Mateus2019",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AUT_%E2%80%94_Tirol_%E2%80%94_Innsbruck_%E2%80%94_..._(Geb%C3%A4ude_mit_vielen_Glasbausteinen)_Mattes_2021-10-03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/AUT_%E2%80%94_Tirol_%E2%80%94_Innsbruck_%E2%80%94_..._%28Geb%C3%A4ude_mit_vielen_Glasbausteinen%29_Mattes_2021-10-03.jpg/1280px-AUT_%E2%80%94_Tirol_%E2%80%94_Innsbruck_%E2%80%94_..._%28Geb%C3%A4ude_mit_vielen_Glasbausteinen%29_Mattes_2021-10-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3026,
+      "hauteur": 1552
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Chevreuse Glass Blocks 2.jpg",
+      "description": "Briques de verre situé Chemin de la Butte des Vignes à Chevreuse en France",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Glass blocks",
+        "License migration redundant",
+        "Self-published work",
+        "Buildings in Chevreuse"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chevreuse_Glass_Blocks_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Chevreuse_Glass_Blocks_2.jpg/1280px-Chevreuse_Glass_Blocks_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Beach 105th St Seaside td 21 - Station house.jpg",
+      "description": "The entrance to the station house of the Beach 105th Street–Seaside subway station, on the south side of the Rockaway Freeway between Beach 105th Street and Beach 106th Street in Seaside / Rockaway Park, Queens.",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Beach 105th Street (IND Rockaway Line)",
+        "Rockaway Park, Queens",
+        "Rockaway Freeway",
+        "Self-published work",
+        "New York City Subway in June 2018",
+        "Glass block walls",
+        "Green doors in the United States",
+        "Files with coordinates missing SDC location of creation",
+        "Railway photographs taken on 2018-06-20",
+        "2018 Queens photographs by Tdorante10",
+        "2018 New York City Subway photographs by Tdorante10",
+        "2018 in Rockaway, Queens",
+        "June 2018 in Queens, New York City",
+        "Photographs by Tdorante10 taken on 2018-06-20",
+        "New York City Subway station houses in Queens"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beach_105th_St_Seaside_td_21_-_Station_house.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Beach_105th_St_Seaside_td_21_-_Station_house.jpg/1280px-Beach_105th_St_Seaside_td_21_-_Station_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    }
+  ]
+}

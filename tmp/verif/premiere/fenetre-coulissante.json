@@ -1,0 +1,53 @@
+{
+  "termId": "fenetre-coulissante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre blanche à petits carreaux dans une salle d'attente en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coulissement non démontrable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vue depuis un intérieur sur la rue avec une partie basse vitrée à rail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Type de fenêtre ambigu, objets au premier plan."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escrimeur dans une salle avec fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes",
+      "note": "Fenêtre secondaire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coin salle à manger avec grande fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre fixe ou à battants, non coulissante visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pièce vide avec fenêtre et climatiseur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Type non lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre lumineuse dans une pièce sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contre-jour, illisible."
+    }
+  ]
+}

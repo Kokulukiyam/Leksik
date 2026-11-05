@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "amorce-de-poteau",
+    "terme": "l'amorce de poteau",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Départ de poteau en béton déjà coulé sur une faible hauteur, d'où sortent les armatures du poteau à venir.",
+    "priorite": 2,
+    "requetes": [
+      "column kicker starter bars",
+      "amorce de poteau",
+      "concrete column stub rebar"
+    ],
+    "incompatibles": [
+      "armature-en-attente"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2026-07-07 Строительство велопешеходного моста в парк Фили 08.jpg",
+      "description": "Осмотр строящегося велопешеходного моста через Москву-реку в сторону парка «Фили»",
+      "categories": [
+        "Rebar",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Construction workers in Russia",
+        "Mos.ru, 2026",
+        "Photographs by Vladimir Novikov",
+        "Outdoor workers in Moscow",
+        "Moscow photographs taken on 2026-07-07",
+        "Construction of Fili Park footbridge"
+      ],
+      "auteur": "Владимир Новиков, пресс-служба мэра и правительства Москвы",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-07-07_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%BA_%D0%A4%D0%B8%D0%BB%D0%B8_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2026-07-07_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%BA_%D0%A4%D0%B8%D0%BB%D0%B8_08.jpg/1280px-2026-07-07_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%BA_%D0%A4%D0%B8%D0%BB%D0%B8_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6192,
+      "hauteur": 4128
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Concrete wall cracking as its steel reinforcing cracks and swells 9061v.jpg",
+      "description": "Photograph taken in grounds of Newton Park Technical High School, Port Elizabeth, South Africa",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Canon PowerShot A650 IS",
+        "Self-published work",
+        "Corroded objects"
+      ],
+      "auteur": "JonRichfield",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_wall_cracking_as_its_steel_reinforcing_cracks_and_swells_9061v.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Concrete_wall_cracking_as_its_steel_reinforcing_cracks_and_swells_9061v.jpg/1280px-Concrete_wall_cracking_as_its_steel_reinforcing_cracks_and_swells_9061v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Constructiondebris.jpg",
+      "description": "Twisted rebar in construction debris",
+      "categories": [
+        "CC-Zero",
+        "Rebar",
+        "Self-published work",
+        "Construction debris"
+      ],
+      "auteur": "Clump",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Constructiondebris.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Constructiondebris.jpg/1280px-Constructiondebris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 23.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_23.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Betonstahl1.jpg",
+      "description": "Betonstahl BST 500",
+      "categories": [
+        "Taken with Konica Revio KD-500Z",
+        "Rebar"
+      ],
+      "auteur": "Störfix sur Wikipédia allemand",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Betonstahl1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Betonstahl1.jpg/1280px-Betonstahl1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Calculator for reinforced concrete, a multipurpose slide rule, 1920s - Science Museum, London - DSC05616.jpg",
+      "description": "Exhibit in the Science Museum, London, UK.",
+      "categories": [
+        "Reinforced concrete",
+        "CC-Zero",
+        "Self-published work",
+        "Computing exhibits in the Science Museum, London",
+        "Specialized slide rules"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calculator_for_reinforced_concrete,_a_multipurpose_slide_rule,_1920s_-_Science_Museum,_London_-_DSC05616.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg/1280px-Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4290,
+      "hauteur": 3235
+    }
+  ]
+}

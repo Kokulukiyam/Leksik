@@ -1,0 +1,189 @@
+{
+  "terme": {
+    "id": "cartouche",
+    "terme": "le cartouche",
+    "categorie": "Ornement",
+    "definition": "Encadrement sculpté, souvent à bords enroulés, qui entoure une inscription, un blason ou une date sur une façade.",
+    "priorite": 2,
+    "requetes": [
+      "cartouche facade",
+      "baroque cartouche",
+      "cartouche sculpté"
+    ],
+    "incompatibles": [
+      "medaillon",
+      "bas-relief",
+      "haut-relief"
+    ],
+    "categoriesCommons": [
+      "Category:Cartouches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cimetière juif St Remy by Malost.JPG",
+      "description": "Cimetière des juifs (Saint-Remy-de-Provence, Bouches-du-Rhône) Lieu de la prise de vue 43° 46′ 46″ N, 4° 49′ 44″ E Voir cet endroit et d’autres images sur : OpenStreetMap 43.779444; 4.828889 inscription en hébreu : לֹא-אָמוּת כִּי-אֶחְיֶה וַאֲסַפֵּר מַעֲשֵׂי יָהּ Je ne mourrai pas, je vivrai, Et je raconterai les oeuvres de l'Eternel. (Psaume 118:17)",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix S1500",
+        "Cartouches",
+        "Lychgates",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Cimetière juif de Saint-Rémy-de-Provence",
+        "License migration redundant",
+        "Self-published work",
+        "Wrought iron in France",
+        "Cemetery gates in Bouches-du-Rhône",
+        "Hebrew writing",
+        "Buildings in France photographed in 2010",
+        "Star of David on Jewish cemetery gates",
+        "December 2010 France photographs",
+        "Files with coordinates missing SDC location of creation",
+        "Psalms in Hebrew",
+        "Files by User:Malost",
+        "Monuments and memorials referencing Psalm 118:17"
+      ],
+      "auteur": "Malost",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cimeti%C3%A8re_juif_St_Remy_by_Malost.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cimeti%C3%A8re_juif_St_Remy_by_Malost.JPG/1280px-Cimeti%C3%A8re_juif_St_Remy_by_Malost.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Egyptian Hieroglyphs.jpg",
+      "description": "Colourful Egyptian hieroglyphic symbols carved on the pillars of Karnak temples in Luxor, Egypt.",
+      "categories": [
+        "Karnak temple complex",
+        "Cartouches",
+        "Egyptian hieroglyphs",
+        "Hieroglyphs of Egypt",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2023 in Egypt",
+        "Images from Wiki Loves Monuments 2023",
+        "Uploaded via Campaign:wlm-eg",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation"
+      ],
+      "auteur": "Sandy Gamal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Egyptian_Hieroglyphs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Egyptian_Hieroglyphs.jpg/1280px-Egyptian_Hieroglyphs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5898,
+      "hauteur": 3932
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2021 — Zweite Julireise Mateus2019 Batch (52).jpg",
+      "description": "Karte des südlichen Sternenhimmels, Holzschnitt, koloriert, Jahresangabe unten rechts.",
+      "categories": [
+        "Taken with Huawei P30 Pro",
+        "Sea monsters",
+        "Cartouches",
+        "Uploaded with VicuñaUploader",
+        "The Southern Hemisphere of the celestial globe by Albrecht Dürer",
+        "PD Old",
+        "Template:artwork possible",
+        "User:Mattes/Contributions/Topics/Germany/Nürnberg",
+        "CC-PD-Mark",
+        "User:Mattes/Contributions/Topics/Arts",
+        "Colored engravings",
+        "File uploads by User:Mattes (flat)",
+        "HDR images by User:Mattes",
+        "Work by Mattes 2021",
+        "Bavaria photographs taken on 2021-07-26",
+        "Files with coordinates missing SDC location of creation (49° N, 11° E)",
+        "User:Mattes/Contributions/Geolocation/OK",
+        "User:Mattes/Contributions/Topics/Cartography",
+        "Prints by Albrecht Dürer in the Albrecht-Dürer-Haus"
+      ],
+      "auteur": "Mateus2019",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021_%E2%80%94_Zweite_Julireise_Mateus2019_Batch_(52).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2021_%E2%80%94_Zweite_Julireise_Mateus2019_Batch_%2852%29.jpg/1280px-2021_%E2%80%94_Zweite_Julireise_Mateus2019_Batch_%2852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3469,
+      "hauteur": 3343
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:GreatHaseley StPeter MonumentWhistler.JPG",
+      "description": "Church of England parish church of St Peter, Great Haseley, Oxfordshire: monument to John & Elizabeth Whistler, died 1720 & 1729.",
+      "categories": [
+        "Taken with Nikon D70s",
+        "Cartouches",
+        "Self-published work",
+        "Reliefs of putti in the United Kingdom",
+        "Wall mounted church monuments in Oxfordshire",
+        "1720s church monuments",
+        "Baroque church monuments in England",
+        "St Peter's Church, Great Haseley (interior)"
+      ],
+      "auteur": "Motacilla",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:GreatHaseley_StPeter_MonumentWhistler.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/GreatHaseley_StPeter_MonumentWhistler.JPG/1280px-GreatHaseley_StPeter_MonumentWhistler.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1900,
+      "hauteur": 2850
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Maratta Cartouche with Barberini coat of arms.jpg",
+      "description": "",
+      "categories": [
+        "Cartouches",
+        "Coats of arms of the House of Barberini",
+        "Artworks without Wikidata item",
+        "PD-Art (PD-old-100)",
+        "Artworks with known accession number",
+        "Tapestry cartoons",
+        "Pages with complex technique templates",
+        "CC-PD-Mark",
+        "PD-Art missing SDC copyright status",
+        "PD-old missing SDC copyright status",
+        "Palazzo Barberini (Rome) - Interior",
+        "Drawings by Carlo Maratta in the National Museum in Warsaw"
+      ],
+      "auteur": "Carlo Maratta",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Maratta_Cartouche_with_Barberini_coat_of_arms.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Maratta_Cartouche_with_Barberini_coat_of_arms.jpg/1280px-Maratta_Cartouche_with_Barberini_coat_of_arms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2468,
+      "hauteur": 2096
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Gaming Pfarrkirche08.jpg",
+      "description": "Pfarrkirche hl. Philipp uns Jakob, Gaming, Niederösterreich - Chronogramm am Altar in der Marienkapelle „Schutz und Schatz der Sinder“ (1711) Ce document montre le monument protégé portant ObjektID 17402 en Autriche. ( Commons , de , Wikidata )",
+      "categories": [
+        "Pfarrkirche Gaming",
+        "GFDL",
+        "Cartouches",
+        "License migration redundant",
+        "Sculptures of angels",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2015",
+        "Images from Wiki Loves Monuments 2015 in Austria",
+        "Altars in Lower Austria",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Black, gold, red",
+        "Photographs taken on 2015-09-11",
+        "Austria photographs taken on 2015-09-11",
+        "Mixed case in Roman numeral chronograms",
+        "Plaques referencing 1711 in Austria",
+        "Chronograms in writing in Lower Austria",
+        "Two-color text in Roman numeral chronograms",
+        "Mixed Blackletter and Roman",
+        "Photos by User:BSonne/NÖ/Bezirk Scheibbs",
+        "DDDCCVVI (numeral)"
+      ],
+      "auteur": "BSonne",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gaming_Pfarrkirche08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Gaming_Pfarrkirche08.jpg/1280px-Gaming_Pfarrkirche08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

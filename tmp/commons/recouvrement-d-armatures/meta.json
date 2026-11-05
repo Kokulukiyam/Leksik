@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "recouvrement-d-armatures",
+    "terme": "le recouvrement d'armatures",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Zone où deux barres d'acier se chevauchent sur une certaine longueur pour assurer la continuité de l'armature.",
+    "priorite": 2,
+    "requetes": [
+      "rebar lap splice",
+      "recouvrement armatures",
+      "lapped reinforcement bars"
+    ],
+    "incompatibles": [
+      "ferraillage",
+      "armature-en-attente"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A bunch of rebar.jpg",
+      "description": "Closeup of straight rebar at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Retouched pictures",
+        "Rebar",
+        "Decomposed granite",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Bundles",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden",
+        "Reused images by W.carter"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_bunch_of_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_bunch_of_rebar.jpg/1280px-A_bunch_of_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4512,
+      "hauteur": 3504
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Aluminum Formwork.JPG",
+      "description": "Multi-store concrete construction in Mexico using aluminum concrete formwork.",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Olympus u1030SW / S-1030SW",
+        "License migration redundant",
+        "Self-published work",
+        "Aluminium industry in Mexico"
+      ],
+      "auteur": "WTF Formwork http://www.wallties.com",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminum_Formwork.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Aluminum_Formwork.JPG/1280px-Aluminum_Formwork.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2892,
+      "hauteur": 2580
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Batterie de Crisbecq - Détail sur le béton armé.JPG",
+      "description": "fr:batterie de Crisbecq , 2012",
+      "categories": [
+        "Reinforced concrete",
+        "Crisbecq Battery",
+        "Self-published work",
+        "Uploaded by user Xfigpower",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Xfigpower",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Batterie_de_Crisbecq_-_D%C3%A9tail_sur_le_b%C3%A9ton_arm%C3%A9.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Batterie_de_Crisbecq_-_D%C3%A9tail_sur_le_b%C3%A9ton_arm%C3%A9.JPG/1280px-Batterie_de_Crisbecq_-_D%C3%A9tail_sur_le_b%C3%A9ton_arm%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Baustahlmaschine.JPG",
+      "description": "Maschine zum Biegen von Baustahl",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Supported by Wikimedia Deutschland",
+        "Fotoprojekt Bauma 2016 (supported by Wikimedia Deutschland)"
+      ],
+      "auteur": "Mailtosap",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baustahlmaschine.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Baustahlmaschine.JPG/1280px-Baustahlmaschine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Calculator for reinforced concrete, a multipurpose slide rule, 1920s - Science Museum, London - DSC05616.jpg",
+      "description": "Exhibit in the Science Museum, London, UK.",
+      "categories": [
+        "Reinforced concrete",
+        "CC-Zero",
+        "Self-published work",
+        "Computing exhibits in the Science Museum, London",
+        "Specialized slide rules"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Calculator_for_reinforced_concrete,_a_multipurpose_slide_rule,_1920s_-_Science_Museum,_London_-_DSC05616.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg/1280px-Calculator_for_reinforced_concrete%2C_a_multipurpose_slide_rule%2C_1920s_-_Science_Museum%2C_London_-_DSC05616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4290,
+      "hauteur": 3235
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blue lines - Flickr - mRio.jpg",
+      "description": "Blue lines",
+      "categories": [
+        "Rebar",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2005-08-13",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "mario",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_lines_-_Flickr_-_mRio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Blue_lines_-_Flickr_-_mRio.jpg/1280px-Blue_lines_-_Flickr_-_mRio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    }
+  ]
+}

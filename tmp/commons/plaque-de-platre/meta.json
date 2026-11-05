@@ -1,0 +1,123 @@
+{
+  "terme": {
+    "id": "plaque-de-platre",
+    "terme": "la plaque de plâtre",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Panneau plat de plâtre pris entre deux feuilles de carton, appelé couramment placo ou BA13, vissé sur ossature pour cloisons, doublages et plafonds.",
+    "priorite": 1,
+    "requetes": [
+      "drywall sheets stacked",
+      "plaque de plâtre BA13",
+      "incategory:\"Drywall\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Building out rooms in the back of house area of the LIRR passenger concourse. (CM014B, 02-28-2019) (32308162587).jpg",
+      "description": "Building out rooms in the back of house area of the LIRR passenger concourse. (CM014B, 02-28-2019)",
+      "categories": [
+        "Drywalls",
+        "New York City photographs taken on 2019-02-28",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/03/01"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_out_rooms_in_the_back_of_house_area_of_the_LIRR_passenger_concourse._(CM014B,_02-28-2019)_(32308162587).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Building_out_rooms_in_the_back_of_house_area_of_the_LIRR_passenger_concourse._%28CM014B%2C_02-28-2019%29_%2832308162587%29.jpg/1280px-Building_out_rooms_in_the_back_of_house_area_of_the_LIRR_passenger_concourse._%28CM014B%2C_02-28-2019%29_%2832308162587%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dry wall.jpg",
+      "description": "drywall",
+      "categories": [
+        "Drywalls",
+        "Self-published work"
+      ],
+      "auteur": "MrBeastRapper",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dry_wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dry_wall.jpg/1280px-Dry_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Supercritical Water Oxidation Processing Building (15038867434).jpg",
+      "description": "Sheet rock now frames the interior walls of the Supercritical Water Oxidation (SCWO) Processing Building at the Blue Grass Chemical Agent-Destruction Pilot Plant. SCWO is the secondary process that will be used to treat the by-product of chemical agent neutralization, hydrolysate.",
+      "categories": [
+        "Drywalls",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Processing_Building_(15038867434).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Processing_Building_%2815038867434%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Processing_Building_%2815038867434%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Burger King in Vienna.jpg",
+      "description": "Burger King in Vienna",
+      "categories": [
+        "Drywalls",
+        "Annagasse, Vienna",
+        "St. Annahof, Vienna",
+        "Self-published work",
+        "Plasterwork ceilings in Austria",
+        "Burger King restaurants in Vienna",
+        "Vienna photographs taken on 2021-08-30",
+        "Burger King in 2021"
+      ],
+      "auteur": "בר",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Burger_King_in_Vienna.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Burger_King_in_Vienna.jpg/1280px-Burger_King_in_Vienna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3021,
+      "hauteur": 2630
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Control and Support Building (5878258186).jpg",
+      "description": "With 700 workers now in Richmond, Ky., the Blue Grass Chemical-Agent Destruction Pilot Plant has maintained more than a 50 percent local hire rate.",
+      "categories": [
+        "Drywalls",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_(5878258186).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%285878258186%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%285878258186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Building out rooms in the back of house area of the future LIRR passenger concourse. (CM014B, 1-30-2019) (39985877053).jpg",
+      "description": "Building out rooms in the back of house area of the future LIRR passenger concourse. (CM014B, 1-30-2019)",
+      "categories": [
+        "Drywalls",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "Construction of LIRR Concourse (Grand Central Terminal)",
+        "East Side Access construction/2019/02/01"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_out_rooms_in_the_back_of_house_area_of_the_future_LIRR_passenger_concourse._(CM014B,_1-30-2019)_(39985877053).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Building_out_rooms_in_the_back_of_house_area_of_the_future_LIRR_passenger_concourse._%28CM014B%2C_1-30-2019%29_%2839985877053%29.jpg/1280px-Building_out_rooms_in_the_back_of_house_area_of_the_future_LIRR_passenger_concourse._%28CM014B%2C_1-30-2019%29_%2839985877053%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

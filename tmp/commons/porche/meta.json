@@ -1,0 +1,164 @@
+{
+  "terme": {
+    "id": "porche",
+    "terme": "le porche",
+    "categorie": "Façade et ouvertures",
+    "definition": "Espace couvert devant l'entrée d'un bâtiment, formant abri avant la porte.",
+    "priorite": 2,
+    "requetes": [
+      "entrance porch building",
+      "porche d'entrée",
+      "church porch entrance"
+    ],
+    "categoriesCommons": [
+      "Category:Porches",
+      "Category:Church porches",
+      "Category:Porches in France"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Classic Picket Fence.JPG",
+      "description": "Classic picket fence in need of some painting and maintenance.",
+      "categories": [
+        "GFDL",
+        "Taken with Kodak EasyShare Z1275",
+        "Porches",
+        "License migration redundant",
+        "Self-published work",
+        "White picket fences",
+        "Picket fences in unidentified countries"
+      ],
+      "auteur": "TriviaKing ( talk )DWS-Montag Zen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Classic_Picket_Fence.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Classic_Picket_Fence.JPG/1280px-Classic_Picket_Fence.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2523,
+      "hauteur": 2127
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Iglesia de Colo - pórtico.JPG",
+      "description": "Ceci est une image d'un monument national du Chili :",
+      "categories": [
+        "Taken with Canon PowerShot SX40 HS",
+        "Iglesia de Colo",
+        "Church porches",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2012",
+        "Images from Wiki Loves Monuments 2012 in Chile",
+        "National monuments in Chile with known IDs",
+        "Chile photographs taken on 2012-07-14"
+      ],
+      "auteur": "Lin linao",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Colo_-_p%C3%B3rtico.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Iglesia_de_Colo_-_p%C3%B3rtico.JPG/1280px-Iglesia_de_Colo_-_p%C3%B3rtico.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 1880
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Durningen StsPierrePaul 04.JPG",
+      "description": "Alsace, Bas-Rhin, Église Saints-Pierre-et-Paul de Durningen Cet édifice est répertorié dans la base Mérimée , base de données sur le patrimoine architectural français du ministère de la Culture , sous la référence IA67005502 . brezhoneg ∙ català ∙ Deutsch ∙ English ∙ español ∙ Esperanto ∙ euskara ∙ français ∙ italiano ∙ magyar ∙ Nederlands ∙ português do Brasil ∙ português ∙ română ∙ sicilianu ∙ slovenščina ∙ suomi ∙ svenska ∙ Ελληνικά ∙ беларуская (тарашкевіца) ∙ кыргызча ∙ македонски ∙ русский ∙ українська ∙ ไทย ∙ বাংলা ∙ 中文 ∙ +/−",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Sony DSC-HX5V",
+        "Monuments à l’inventaire",
+        "Église Saints-Pierre-et-Paul, Durningen",
+        "Self-published work",
+        "Porches in France",
+        "Mérimée with IA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Oculi in Bas-Rhin",
+        "France photographs taken on 2012-09-09",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Files with coordinates missing SDC location of creation (48° N, 7° E)",
+        "Photographs of Durningen by Ralph Hammann",
+        "Church portals in Durningen"
+      ],
+      "auteur": "© Ralph Hammann - Wikimedia Commons",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Durningen_StsPierrePaul_04.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Durningen_StsPierrePaul_04.JPG/1280px-Durningen_StsPierrePaul_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2734,
+      "hauteur": 3607
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:20230610 Boukhara348.jpg",
+      "description": "Vue de Boukhara, en Ouzbékistan.",
+      "categories": [
+        "Tok-i-Telpak Furushon",
+        "Porches",
+        "Self-published work",
+        "Uzbekistan photographs taken on 2023-06-10",
+        "2023 in Bukhara",
+        "Columns in Bukhara",
+        "Shops in Bukhara",
+        "2023 photos by user Jean Housen",
+        "Photos of Uzbekistan by user Jean Housen"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20230610_Boukhara348.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/20230610_Boukhara348.jpg/1280px-20230610_Boukhara348.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:CAMPANARIO DE IGLESIA EL CALVARIO, SENSUNTEPEQUE - panoramio.jpg",
+      "description": "Campanario de Iglesia El Calvario en Sensuntepeque",
+      "categories": [
+        "Church porches",
+        "Porch towers",
+        "Clock towers in El Salvador",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Sensuntepeque",
+        "Bell towers in El Salvador",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Porticos in El Salvador",
+        "Files with coordinates missing SDC location of creation",
+        "El Salvador photographs taken on 2013-10-20",
+        "Buildings in Cabañas Department",
+        "Photos from Panoramio ID 4573163",
+        "Churches in the Roman Catholic Diocese of San Vicente"
+      ],
+      "auteur": "feinteriano",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CAMPANARIO_DE_IGLESIA_EL_CALVARIO,_SENSUNTEPEQUE_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/CAMPANARIO_DE_IGLESIA_EL_CALVARIO%2C_SENSUNTEPEQUE_-_panoramio.jpg/1280px-CAMPANARIO_DE_IGLESIA_EL_CALVARIO%2C_SENSUNTEPEQUE_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Folie Saint-James - 04.JPG",
+      "description": "La Folie Saint-James à Neuilly-sur-Seine en France.",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Sony DSC-RX100 II",
+        "Folie Saint-James",
+        "Self-published work",
+        "Porches in France",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2014 in France",
+        "Images from Wiki Loves Monuments 2014",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "France photographs taken on 2014-07-02"
+      ],
+      "auteur": "NemesisIII",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Folie_Saint-James_-_04.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Folie_Saint-James_-_04.JPG/1280px-Folie_Saint-James_-_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    }
+  ]
+}

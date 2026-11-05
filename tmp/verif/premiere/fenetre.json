@@ -1,0 +1,63 @@
+{
+  "termId": "fenetre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre à deux châssis vitrés avec stores, dans un mur en brique, appui en brique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.05,
+        "largeur": 0.52,
+        "hauteur": 0.8
+      },
+      "lieu": "",
+      "note": "Fenêtre claire et typique ; rectangle sur la fenêtre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sapin de Noël décoré devant une fenêtre cintrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vermont",
+      "note": "Fenêtre masquée par le sapin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fenêtre couverte de film plastique pendant des travaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre dissimulée par le film."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade en noir et blanc avec quatre petites fenêtres et enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Neustadt an der Donau",
+      "note": "Texte visible, image noir et blanc, fenêtres petites."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fenêtre ancienne blanche à deux vantaux et imposte, avec encadrement en bois.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.0,
+        "largeur": 0.55,
+        "hauteur": 0.92
+      },
+      "lieu": "",
+      "note": "Fenêtre nette ; rectangle sur le châssis."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cadre doré ornementé sur fond rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadre de musée, pas une fenêtre."
+    }
+  ]
+}

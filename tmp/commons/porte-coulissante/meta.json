@@ -1,0 +1,145 @@
+{
+  "terme": {
+    "id": "porte-coulissante",
+    "terme": "la porte coulissante",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte dont le vantail glisse latéralement sur un rail, parallèlement au mur.",
+    "priorite": 2,
+    "requetes": [
+      "sliding door interior rail",
+      "porte coulissante",
+      "sliding door"
+    ],
+    "incompatibles": [
+      "porte"
+    ],
+    "categoriesCommons": [
+      "Category:Sliding doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Entrance to Hotel Ambasador Premium in Łódź 1.jpg",
+      "description": "Entrance to Hotel Ambasador Premium in Łódź (april 2024)",
+      "categories": [
+        "Sliding doors",
+        "Self-published work",
+        "Doormats",
+        "Hotel entrances in Poland",
+        "Hotel Ambasador Centrum in Łódź",
+        "April 2024 in Łódź",
+        "Night in Łódź",
+        "Empty rooms",
+        "Doors in Łódź"
+      ],
+      "auteur": "Mafo",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Entrance_to_Hotel_Ambasador_Premium_in_%C5%81%C3%B3d%C5%BA_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Entrance_to_Hotel_Ambasador_Premium_in_%C5%81%C3%B3d%C5%BA_1.jpg/1280px-Entrance_to_Hotel_Ambasador_Premium_in_%C5%81%C3%B3d%C5%BA_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2951,
+      "hauteur": 2999
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:All knots and bells.jpg",
+      "description": "All knots and bells at door front",
+      "categories": [
+        "Doors",
+        "Knots",
+        "Bells",
+        "Pan Chang knots",
+        "Self-published work"
+      ],
+      "auteur": "Sneha G Gupta",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:All_knots_and_bells.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/All_knots_and_bells.jpg/1280px-All_knots_and_bells.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:CitaroC2Motorturm1.jpg",
+      "description": "Motorturm eines MB Citaro C2",
+      "categories": [
+        "Sliding doors",
+        "Self-published work",
+        "Mercedes-Benz Citaro C2 (12 m)"
+      ],
+      "auteur": "Patrick Seidler, Benutzer:Paettchen@DE-Wikipedia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CitaroC2Motorturm1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/CitaroC2Motorturm1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 960,
+      "hauteur": 1280
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A Doorway.jpg",
+      "description": "A Doorway at Janki Temple, Janakpur, Nepal.",
+      "categories": [
+        "Doors",
+        "Temples",
+        "Self-published work",
+        "Doorways",
+        "Media needing category review as of 15 June 2020",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Doorway.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/A_Doorway.jpg/1280px-A_Doorway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:HK 屯門 Tuen Mun night 屯門鄉事會路 Heung Sze Wui Road shop bank branch 24-hours ATM automatic service machine July 2016 DSC.jpg",
+      "description": "HK 屯門 Tuen Mun night zh:屯門鄉事會路 shop in July 2016",
+      "categories": [
+        "Taken with Sony DSC-WX350",
+        "Sliding doors",
+        "Crime prevention",
+        "OCBC Bank (Hong Kong)",
+        "Self-published work",
+        "Hong Kong photographs taken on 2016-07-21",
+        "Glass doors in Hong Kong",
+        "Automatic teller machines in Hong Kong",
+        "Customers in Hong Kong",
+        "Self service in Hong Kong",
+        "Bank branches in Hong Kong",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Women standing indoors",
+        "Night in Tuen Mun Heung Sze Wui Road",
+        "July 2016 in Tuen Mun Heung Sze Wui Road",
+        "Shops in Tuen Mun Heung Sze Wui Road",
+        "24/7 shops"
+      ],
+      "auteur": "Ho Mandkonay",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_%E5%B1%AF%E9%96%80_Tuen_Mun_night_%E5%B1%AF%E9%96%80%E9%84%89%E4%BA%8B%E6%9C%83%E8%B7%AF_Heung_Sze_Wui_Road_shop_bank_branch_24-hours_ATM_automatic_service_machine_July_2016_DSC.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/HK_%E5%B1%AF%E9%96%80_Tuen_Mun_night_%E5%B1%AF%E9%96%80%E9%84%89%E4%BA%8B%E6%9C%83%E8%B7%AF_Heung_Sze_Wui_Road_shop_bank_branch_24-hours_ATM_automatic_service_machine_July_2016_DSC.jpg/1280px-HK_%E5%B1%AF%E9%96%80_Tuen_Mun_night_%E5%B1%AF%E9%96%80%E9%84%89%E4%BA%8B%E6%9C%83%E8%B7%AF_Heung_Sze_Wui_Road_shop_bank_branch_24-hours_ATM_automatic_service_machine_July_2016_DSC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:23 1-2-Fuji Reala pushed 2 stops (5826165749).jpg",
+      "description": "23 1/2-Fuji Reala pushed 2 stops",
+      "categories": [
+        "Doors",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Darren Stone",
+        "Fractional house numbers"
+      ],
+      "auteur": "DARREN ST0NE",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:23_1-2-Fuji_Reala_pushed_2_stops_(5826165749).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/23_1-2-Fuji_Reala_pushed_2_stops_%285826165749%29.jpg/1280px-23_1-2-Fuji_Reala_pushed_2_stops_%285826165749%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "terme": {
+    "id": "encorbellement",
+    "terme": "l'encorbellement",
+    "categorie": "Façade et ouvertures",
+    "definition": "Partie de construction en saillie sur le nu d'un mur, portée en porte-à-faux par des consoles ou des corbeaux.",
+    "priorite": 2,
+    "requetes": [
+      "corbelled upper floor overhang",
+      "encorbellement façade",
+      "jettied building"
+    ],
+    "incompatibles": [
+      "oriel",
+      "corbeau"
+    ],
+    "categoriesCommons": [
+      "Category:Corbels"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Green Man, inv.nr. 9414.jpg",
+      "description": "Hoekkraagsteen in kalksteen met een voorstelling van 'de Groene Man', ofwel 'the Green Man'. De hoekige staart heeft een prismatisch profiel met tussenin halfrond profiel. Er is mogelijks een steenhouwersteken in de vorm van een 'V' op de zijde van de staart aangebracht.",
+      "categories": [
+        "Middle Ages",
+        "Archaeology",
+        "Stone sculptures",
+        "Corbels",
+        "Ten Duinen",
+        "Self-published work"
+      ],
+      "auteur": "Abbey Museum of the Dunes",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Green_Man,_inv.nr._9414.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Green_Man%2C_inv.nr._9414.jpg/1280px-Green_Man%2C_inv.nr._9414.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2545,
+      "hauteur": 3187
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:French - Fragment of a Console Depicting Lai d'Aristotle - Walters 27268.jpg",
+      "description": "This fragment of a console depicts a scene from the \"Lai d'Aristotle\" in the Cathedral of St. Jean in Lyon. The piece is said to have been acquired by a soldier who got it from a burned church. The piece is possibly from the Cathedral at Lyon.",
+      "categories": [
+        "GFDL",
+        "Corbels",
+        "Author died more than 100 years ago public domain images",
+        "License migration redundant",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Items with VRTS permission confirmed",
+        "Media contributed by the Walters Art Museum",
+        "Media contributed by the Walters Art Museum: needs category review",
+        "CC-PD-Mark",
+        "Art of France in the Walters Art Museum",
+        "Medieval art in the Walters Art Museum",
+        "Media contributed by the Walters Art Museum without wikidata item"
+      ],
+      "auteur": "Anonyme ( France ) Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:French_-_Fragment_of_a_Console_Depicting_Lai_d%27Aristotle_-_Walters_27268.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/French_-_Fragment_of_a_Console_Depicting_Lai_d%27Aristotle_-_Walters_27268.jpg/1280px-French_-_Fragment_of_a_Console_Depicting_Lai_d%27Aristotle_-_Walters_27268.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1453,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Console with Nike BM GR1805.7-3.229.jpg",
+      "description": "",
+      "categories": [
+        "Taken with Nikon D300s",
+        "Corbels",
+        "Taken with Sigma 17-50mm F2.8 EX DC OS HSM",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "Self-published work",
+        "Artworks with known accession number",
+        "Room 77, British Museum",
+        "Information field template with formatting",
+        "CC-PD-Mark",
+        "Statues of Nike",
+        "Townley Collection"
+      ],
+      "auteur": "Marie-Lan Nguyen",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Console_with_Nike_BM_GR1805.7-3.229.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Console_with_Nike_BM_GR1805.7-3.229.jpg/1280px-Console_with_Nike_BM_GR1805.7-3.229.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1722,
+      "hauteur": 4013
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:El Centro, Cartagena, Bolivar, Colombia - panoramio (2).jpg",
+      "description": "El Centro, Cartagena, Bolivar, Colombia",
+      "categories": [
+        "Corbels",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Colombia photographs taken on 2014-03-04",
+        "Green balconies",
+        "Wooden balconies in Colombia",
+        "Balconies in Cartagena (Colombia)",
+        "Plaza de los Coches",
+        "Photos from Panoramio ID 156183"
+      ],
+      "auteur": "diego_cue",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:El_Centro,_Cartagena,_Bolivar,_Colombia_-_panoramio_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/El_Centro%2C_Cartagena%2C_Bolivar%2C_Colombia_-_panoramio_%282%29.jpg/1280px-El_Centro%2C_Cartagena%2C_Bolivar%2C_Colombia_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Balcón republicano, sector amurallado.JPG",
+      "description": "Ceci est une photo d' un monument colombien portant le numéro",
+      "categories": [
+        "Taken with Canon PowerShot SX40 HS",
+        "Corbels",
+        "Sector Antiguo de la ciudad de Cartagena de Indias",
+        "Self-published work",
+        "National monuments in Colombia with known IDs",
+        "Images from Wiki Loves Monuments 2013",
+        "Images from Wiki Loves Monuments 2013 in Colombia",
+        "Uploaded via Campaign:wlm-co",
+        "Exterior lanterns in Colombia",
+        "Architectural elements in Cartagena (Colombia)"
+      ],
+      "auteur": "Picore12",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balc%C3%B3n_republicano,_sector_amurallado.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Balc%C3%B3n_republicano%2C_sector_amurallado.JPG/1280px-Balc%C3%B3n_republicano%2C_sector_amurallado.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Modillons-Rue des Frères-Musée archéologique de Strasbourg.jpg",
+      "description": "Modillons à décor de rosace et d'aigle Strasbourg, rue des Frères, IIIe s. après JC Musée archéologique de Strasbourg",
+      "categories": [
+        "Corbels",
+        "Self-published work",
+        "Archaeological finds from Grande Île, Strasbourg",
+        "Argentoratum in Musée archéologique de Strasbourg",
+        "Ancient Roman antiquities collections of Musée archéologique de Strasbourg",
+        "Rue des Frères (Strasbourg)"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Modillons-Rue_des_Fr%C3%A8res-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Modillons-Rue_des_Fr%C3%A8res-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg/1280px-Modillons-Rue_des_Fr%C3%A8res-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2906,
+      "hauteur": 1579
+    }
+  ]
+}

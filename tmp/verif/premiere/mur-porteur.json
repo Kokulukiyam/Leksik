@@ -1,0 +1,53 @@
+{
+  "termId": "mur-porteur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maquette d'une ville fortifiée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maquette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lithographie d'un port.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Toiture courbe et façade du musée Kiasma vue d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur porteur non identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Schéma isométrique mur, longrine et pieux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison à colombage en restauration sur échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature bois, pas mur porteur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Charpente en bois sous tôle ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

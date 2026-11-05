@@ -1,0 +1,53 @@
+{
+  "termId": "contreplaque",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chaise en bois moulé en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble ; contreplaqué non montré."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Intérieur avec colonnes et lit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grille d'égout posée sur des panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La grille domine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Surface sculptée aux couches de bois visibles en courbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Œuvre abstraite, lecture topographique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cadre de bois sur tréteaux avec panneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas centré sur le panneau."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grands panneaux de contreplaqué clairs à nœuds et étiquettes FSC en clôture de chantier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Gare de Zwolle, Pays-Bas",
+      "note": "Panneaux de contreplaqué lisibles ; rampe rouge au premier plan."
+    }
+  ]
+}

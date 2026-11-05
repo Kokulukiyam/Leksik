@@ -1,0 +1,63 @@
+{
+  "termId": "porte-d-entree",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entrée d'immeuble jaune à porte brune vitrée sous un auvent cintré décoré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte petite, immeuble collectif."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dépôt militaire à façade blanche et haute porte grise à deux battants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bâtiment public avec texte visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte cintrée à deux battants dans un encadrement de pierre sur mur bleu et rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nature de l'entrée incertaine (maison ou autre)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte d'entrée noire de maison à vitrage et ses deux jours latéraux, couronne de Noël, escalier de béton.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.12,
+        "largeur": 0.5,
+        "hauteur": 0.58
+      },
+      "lieu": "Québec, Canada",
+      "note": "Porte principale de maison, lisible ; encadrée pour écarter la poubelle et le perron."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte blanche à panneaux avec oculus grillagé, sonnette et fenêtre voisine, en façade de brique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.02,
+        "largeur": 0.28,
+        "hauteur": 0.96
+      },
+      "lieu": "Belgique",
+      "note": "Porte principale de maison de ville, encadrée sur le vantail."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Stand de salon avec échantillons de portes et enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte et stand."
+    }
+  ]
+}

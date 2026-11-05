@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "pilier",
+    "terme": "le pilier",
+    "categorie": "Structure",
+    "definition": "Support vertical massif en maçonnerie ou en béton, de section carrée ou polygonale, plus trapu qu'un poteau.",
+    "priorite": 2,
+    "requetes": [
+      "masonry pier pillar",
+      "pilier maçonnerie",
+      "stone pillar"
+    ],
+    "incompatibles": [
+      "poteau",
+      "colonne",
+      "pilier-de-portail"
+    ],
+    "categoriesCommons": [
+      "Category:Pillars",
+      "Category:Piers (architecture)"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chennai (5583779683).jpg",
+      "description": "Chennai Inftrastucture is Getting Better and Better day by day",
+      "categories": [
+        "Pillars",
+        "Flickr images reviewed by FlickreviewR",
+        "Bridge construction in India",
+        "Taken with Nokia E7-00",
+        "Chennai Metro construction",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Balaji Photography - 3,000,000 Views and Growing from Chennai, India",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chennai_(5583779683).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Chennai_%285583779683%29.jpg/1280px-Chennai_%285583779683%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1832
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Abbey church, interior, rectangular pier in Bélapátfalva, 2016 Hungary.jpg",
+      "description": ": Our Lady Cistercian abbey church, interior. rectangular pier. - Bélapátfalva , Heves County , Hungary .",
+      "categories": [
+        "Interior of Bélapátfalva Abbey church",
+        "Piers (architecture)",
+        "Self-published work",
+        "Church elements in Hungary",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "August 2016 Hungary photographs",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abbey_church,_interior,_rectangular_pier_in_B%C3%A9lap%C3%A1tfalva,_2016_Hungary.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Abbey_church%2C_interior%2C_rectangular_pier_in_B%C3%A9lap%C3%A1tfalva%2C_2016_Hungary.jpg/1280px-Abbey_church%2C_interior%2C_rectangular_pier_in_B%C3%A9lap%C3%A1tfalva%2C_2016_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Biblioteca delle oblate 03 terrazza.JPG",
+      "description": "Biblioteca delle oblate 03 terrazza",
+      "categories": [
+        "Pillars",
+        "Pavements (architecture)",
+        "Self-published work",
+        "PD-self",
+        "Complesso delle Oblate - Main cloister"
+      ],
+      "auteur": "sailko",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Biblioteca_delle_oblate_03_terrazza.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Biblioteca_delle_oblate_03_terrazza.JPG/1280px-Biblioteca_delle_oblate_03_terrazza.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:MissionSanMiguelArches.JPG",
+      "description": "w:Mission San Miguel famous varying-sized arches",
+      "categories": [
+        "GFDL",
+        "Piers (architecture)",
+        "Mission San Miguel Arcángel",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Columns in California",
+        "Arcades in California",
+        "Arches in California",
+        "Self-published work"
+      ],
+      "auteur": "Elf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MissionSanMiguelArches.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/MissionSanMiguelArches.JPG/1280px-MissionSanMiguelArches.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1360
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Clevelandart 1938.14.jpg",
+      "description": "The central motif of this temple pillar is a pot, out of which vegetal forms exuberantly emerge, indicating bounty and abundance. The pot itself is decorated with lotus petals, leaves, and a band of pearls. The overflowing pot is a pervasive symbol in India to reference the prosperity and productivity that will result from worship and prayers at the holy site. It also symbolizes the auspiciousness and beauty of the created world.",
+      "categories": [
+        "CC-Zero",
+        "Files with no machine-readable author",
+        "Pillars",
+        "Uploaded with pattypan",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Cleveland Museum of Art",
+        "Jain sculptures in the Cleveland Museum of Art",
+        "Edward L. Whittemore Fund"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clevelandart_1938.14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Clevelandart_1938.14.jpg/1280px-Clevelandart_1938.14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1939,
+      "hauteur": 3400
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Box Girders - Blue Line (Line 4) of Delhi Metro - 2.jpg",
+      "description": "This is a picture of the box girders and piers of the Blue Line (Line 4) of Delhi Metro near the Karkardooma metro station.",
+      "categories": [
+        "Piers (architecture)",
+        "Delhi Metro",
+        "Box girders",
+        "Blue Line (Delhi Metro)",
+        "Self-published work"
+      ],
+      "auteur": "Kool Nerd 123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Box_Girders_-_Blue_Line_(Line_4)_of_Delhi_Metro_-_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Box_Girders_-_Blue_Line_%28Line_4%29_of_Delhi_Metro_-_2.jpg/1280px-Box_Girders_-_Blue_Line_%28Line_4%29_of_Delhi_Metro_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2418,
+      "hauteur": 1988
+    }
+  ]
+}

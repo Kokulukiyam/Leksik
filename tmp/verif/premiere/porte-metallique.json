@@ -1,0 +1,58 @@
+{
+  "termId": "porte-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte grise en tôle emboutie à motifs en pointes de diamant, avec imposte grillagée, au bas d'un mur ; deux chiens devant.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.39,
+        "y": 0.27,
+        "largeur": 0.22,
+        "hauteur": 0.52
+      },
+      "lieu": "Bafra, Turquie",
+      "note": "Tôle d'acier évidente ; rectangle sur la porte. Enseigne sans lien avec la réponse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Devanture ancienne en bois sombre avec porte vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte en bois."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte à deux vantaux en fer forgé ajouré, vernie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferronnerie ajourée, pas une porte en tôle."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vieille porte en bois dans un mur en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bois."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Portail en fer forgé entre deux piliers en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes",
+      "note": "Portail ajouré, pas une porte en tôle."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte blanche intérieure entrouverte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte intérieure peinte, matériau non identifiable."
+    }
+  ]
+}

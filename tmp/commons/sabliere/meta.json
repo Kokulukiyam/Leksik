@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "sabliere",
+    "terme": "la sablière",
+    "categorie": "Toitures",
+    "definition": "Pièce de bois horizontale posée au sommet du mur, sur laquelle reposent le bas des chevrons.",
+    "priorite": 2,
+    "requetes": [
+      "wall plate rafters",
+      "sablière charpente",
+      "timber wall plate roof"
+    ],
+    "incompatibles": [
+      "chevron",
+      "charpente"
+    ],
+    "categoriesCommons": [
+      "Category:Timber framing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Esterházy Road and Tompa Mihály Street corner, 2020 Pápa.jpg",
+      "description": "Villa like building former tobacco factory built in 1892 or 1895 (or before). Part of a listed building comlpex. A building proposed for 'local level individual monument' title. - Esterházy Road and Tompa Mihály Street, Pápa , Veszprém County , Hungary .",
+      "categories": [
+        "Timber framing",
+        "Self-published work",
+        "Villas in Hungary",
+        "1890s architecture in Hungary",
+        "July 2020 Hungary photographs",
+        "Former factories in Hungary",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Tobacco factories in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "Esterházy út, Pápa",
+        "Cultural heritage monuments in Pápa",
+        "Buildings in Pápa",
+        "2020 in Pápa",
+        "Tompa Mihály utca, Pápa"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Esterh%C3%A1zy_Road_and_Tompa_Mih%C3%A1ly_Street_corner,_2020_P%C3%A1pa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Esterh%C3%A1zy_Road_and_Tompa_Mih%C3%A1ly_Street_corner%2C_2020_P%C3%A1pa.jpg/1280px-Esterh%C3%A1zy_Road_and_Tompa_Mih%C3%A1ly_Street_corner%2C_2020_P%C3%A1pa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1666,
+      "hauteur": 1821
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ackerhof Stöckheim 2 von 2.jpg",
+      "description": "Am Kirchenbring 6",
+      "categories": [
+        "Timber framing",
+        "Stöckheim-Leiferde",
+        "Self-published work"
+      ],
+      "auteur": "JuliusCeaser13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ackerhof_St%C3%B6ckheim_2_von_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Ackerhof_St%C3%B6ckheim_2_von_2.jpg/1280px-Ackerhof_St%C3%B6ckheim_2_von_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Füllhölzer (Göttingen Weender Str 30 2024).jpg",
+      "description": "Füllhölzer (Göttingen Weender Str 30 2024)",
+      "categories": [
+        "Timber framed houses in Germany",
+        "Timber framing",
+        "Self-published work",
+        "Rats-Apotheke"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%BCllh%C3%B6lzer_(G%C3%B6ttingen_Weender_Str_30_2024).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/F%C3%BCllh%C3%B6lzer_%28G%C3%B6ttingen_Weender_Str_30_2024%29.jpg/1280px-F%C3%BCllh%C3%B6lzer_%28G%C3%B6ttingen_Weender_Str_30_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Faszerkezet, Lónyai utca 54, 2017 Ferencváros.jpg",
+      "description": ": H shaped dwelling building. - 54 Lónyai Street, Ferencváros district, Budapest , Hungary .",
+      "categories": [
+        "Timber framing",
+        "Wooden buildings",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "July 2017 in Budapest",
+        "Windows in Budapest",
+        "Lónyay Street 54, Budapest"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Faszerkezet,_L%C3%B3nyai_utca_54,_2017_Ferencv%C3%A1ros.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Faszerkezet%2C_L%C3%B3nyai_utca_54%2C_2017_Ferencv%C3%A1ros.jpg/1280px-Faszerkezet%2C_L%C3%B3nyai_utca_54%2C_2017_Ferencv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Agroferretería, San Antonio Pajonal.jpg",
+      "description": "Vista hacia el suroeste entre las Calles Bendición de Dios y Pasaje Número 2; Agroferretería Merlos, San Antonio Pajonal, El Salvador. Tomada en julio de 2019.",
+      "categories": [
+        "Timber framing",
+        "Self-published work",
+        "Agricultural supply shops in El Salvador",
+        "July 2019 in San Antonio Pajonal",
+        "Concrete framing"
+      ],
+      "auteur": "Christopher Arturo Aragón Vides",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Agroferreter%C3%ADa,_San_Antonio_Pajonal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Agroferreter%C3%ADa%2C_San_Antonio_Pajonal.jpg/1280px-Agroferreter%C3%ADa%2C_San_Antonio_Pajonal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20170404 AltSchwanheim14.jpg",
+      "description": "Fachwerkhaus auf Alt Schwanheim (Frankfurt am Main)",
+      "categories": [
+        "Timber framing",
+        "Cultural heritage monuments in Frankfurt-Schwanheim",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Bernhard Stuck",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:20170404_AltSchwanheim14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/20170404_AltSchwanheim14.jpg/1280px-20170404_AltSchwanheim14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    }
+  ]
+}

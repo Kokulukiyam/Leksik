@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "pergola",
+    "terme": "la pergola",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Structure de poteaux et de poutres ajourées qui forme un couvert léger au-dessus d'une terrasse ou d'une allée.",
+    "priorite": 2,
+    "requetes": [
+      "pergola garden",
+      "pergola",
+      "incategory:\"Pergolas\""
+    ],
+    "categoriesCommons": [
+      "Category:Pergolas",
+      "Category:Garden structures"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Creepy House - Jardin d'Essai - El Hamma-Algiers.JPG",
+      "description": "Une maison qui a servi d'habitation en plein milieu du Jardin d'Essai.",
+      "categories": [
+        "Taken with Nikon Coolpix S550",
+        "Test Garden of Hamma",
+        "Garden structures",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2013",
+        "Cultural heritage monuments in Algeria with known IDs",
+        "Images from Wiki Loves Monuments 2013 in Algeria",
+        "Uploaded via Campaign:wlm-dz",
+        "Algeria photographs taken on 2010-12-10",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation"
+      ],
+      "auteur": "Tissem66",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Creepy_House_-_Jardin_d%27Essai_-_El_Hamma-Algiers.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Creepy_House_-_Jardin_d%27Essai_-_El_Hamma-Algiers.JPG/1280px-Creepy_House_-_Jardin_d%27Essai_-_El_Hamma-Algiers.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20150508최광모DSC09893.JPG",
+      "description": "본인은 아래 작품의 저작권자로서, 이 저작물을 'CC0 1.0 보편적 퍼블릭 도메인 기증' 저작권으로 배포합니다. 이에 따라, 본인은 법이 정한 범위 내에서 저작인접권을 포함해 저작권법에 따라 전세계적으로 해당 저작물에 대해 본인이 갖는 일체의 권리를 포기함으로써 저작물을 퍼블릭 도메인으로 공개하였습니다. 본인의 허락을 구하지 않아도 이 저작물을 상업적인 목적을 포함 모든 목적으로 복사, 수정, 배포, 실연하실 수 있습니다. 2015년 5월 8일. 최광모.",
+      "categories": [
+        "CC-Zero",
+        "Pergolas",
+        "Self-published work",
+        "Files of gardens with bad file names",
+        "Curved benches",
+        "Fountains in Seoul",
+        "Gardens in unidentified countries",
+        "Tiered fountains"
+      ],
+      "auteur": "최광모",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20150508%EC%B5%9C%EA%B4%91%EB%AA%A8DSC09893.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/20150508%EC%B5%9C%EA%B4%91%EB%AA%A8DSC09893.JPG/1280px-20150508%EC%B5%9C%EA%B4%91%EB%AA%A8DSC09893.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Château de Kéranno, jardin.jpg",
+      "description": "Château de Kéranno à Grâces, dans le jardin, 17ème et 18ème siècle",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Garden structures",
+        "Château de Kéranno",
+        "Self-published work",
+        "Unidentified Hydrangea"
+      ],
+      "auteur": "Sapcal22",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_K%C3%A9ranno,_jardin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Ch%C3%A2teau_de_K%C3%A9ranno%2C_jardin.jpg/1280px-Ch%C3%A2teau_de_K%C3%A9ranno%2C_jardin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cocina (pergola).jpg",
+      "description": "Pérgola",
+      "categories": [
+        "Pergolas",
+        "Self-published work"
+      ],
+      "auteur": "Rowinsg",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cocina_(pergola).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Cocina_%28pergola%29.jpg/1280px-Cocina_%28pergola%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:MMDA-Photos - 2013-04-09 - Garden Gate.jpg",
+      "description": "A photo of a garden gate in Southampton, New York, designed by architect Michael Dwyer.",
+      "categories": [
+        "Architecture of New York (state)",
+        "Landscape architecture",
+        "Town of Southampton, New York",
+        "Garden structures",
+        "Gates in New York (state)",
+        "Self-published work",
+        "Michael Middleton Dwyer",
+        "Photos by M.M.Dwyer-Architect"
+      ],
+      "auteur": "MMDA-Photos",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MMDA-Photos_-_2013-04-09_-_Garden_Gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/MMDA-Photos_-_2013-04-09_-_Garden_Gate.jpg/1280px-MMDA-Photos_-_2013-04-09_-_Garden_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2121,
+      "hauteur": 1514
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chemehuevi Indian man sleeping in his sleeping shelter in the field, ca.1900 (CHS-3527).jpg",
+      "description": "Chemehuevi Indian man sleeping in his sleeping shelter in the field, ca.1900 Photograph of a Chemehuevi Indian man sleeping in his sleeping shelter in the field, ca.1900. An arched pergola constructed of branches provides shade for the man laying on the raised stick and branch platform on which he sleeps with a blanket for a pillow, while tending his fields. Call number : CHS-3527 Photographer : .mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:border-box;font-size:95%;text-align:start;color:inherit}.mw-parser-output .commons-creator-table>tbody>tr{vertical-align:top",
+      "categories": [
+        "20th-century Native American architecture in the United States",
+        "PD US",
+        "Pergolas",
+        "Chemehuevi",
+        "Glass plate negatives",
+        "Photographs taken by Charles C. Pierce",
+        "Sleeping men",
+        "California Historical Society Collection, 1860-1960",
+        "Images from USC Digital Library uploaded by Fæ"
+      ],
+      "auteur": "C. C. Pierce",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chemehuevi_Indian_man_sleeping_in_his_sleeping_shelter_in_the_field,_ca.1900_(CHS-3527).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Chemehuevi_Indian_man_sleeping_in_his_sleeping_shelter_in_the_field%2C_ca.1900_%28CHS-3527%29.jpg/1280px-Chemehuevi_Indian_man_sleeping_in_his_sleeping_shelter_in_the_field%2C_ca.1900_%28CHS-3527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5050,
+      "hauteur": 3863
+    }
+  ]
+}

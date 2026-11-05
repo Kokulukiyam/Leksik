@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "profile-en-h",
+    "terme": "le profilé en H",
+    "categorie": "Structure",
+    "definition": "Barre d'acier dont la section a la forme d'un H, à ailes larges, comme les HEA et HEB, employée surtout en poteau.",
+    "priorite": 2,
+    "requetes": [
+      "H beam steel column",
+      "profilé HEA HEB",
+      "wide flange steel"
+    ],
+    "incompatibles": [
+      "profile-en-i"
+    ],
+    "categoriesCommons": [
+      "Category:H-beams",
+      "Category:Steel beams"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Detail van H-profiel van het dak van de gashouder - Dedemsvaart - 20422502 - RCE.jpg",
+      "description": "Gashouder: Detail van H-profiel van het dak van de gashouder",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Gashouder, Dedemsvaart",
+        "Rijksmonumenten with known IDs",
+        "Buildings with addresses",
+        "Netherlands photographs taken on 2008-08-21",
+        "Photographs by Paul van Galen",
+        "H-beams"
+      ],
+      "auteur": "P. van Galen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detail_van_H-profiel_van_het_dak_van_de_gashouder_-_Dedemsvaart_-_20422502_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Detail_van_H-profiel_van_het_dak_van_de_gashouder_-_Dedemsvaart_-_20422502_-_RCE.jpg/1280px-Detail_van_H-profiel_van_het_dak_van_de_gashouder_-_Dedemsvaart_-_20422502_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2912,
+      "hauteur": 4368
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Aldi, Cosne (08).jpg",
+      "description": "Excavatrice Komatsu PC 210NLC et foreuse de pieux de fondation sur chenilles Soilmec SR-30. Construction (au même endroit) d'un supermarché Aldi plus vaste. Cosne-Cours-sur-Loire, Nièvre, France.",
+      "categories": [
+        "Self-published work",
+        "Pictures by Cjp24",
+        "Foundations in France",
+        "Komatsu vehicles in France",
+        "Steel beams",
+        "Steel-profile storage",
+        "Komatsu PC210",
+        "Soilmec SR-30",
+        "Excavators in Cosne-Cours-sur-Loire",
+        "ALDI supermarket in Cosne-Cours-sur-Loire (construction)"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aldi,_Cosne_(08).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Aldi%2C_Cosne_%2808%29.jpg/1280px-Aldi%2C_Cosne_%2808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Balk6.jpg",
+      "description": "H-profil kapad med skärbrännare",
+      "categories": [
+        "Self-published work",
+        "Rusty objects in Sweden",
+        "Steel-profile storage",
+        "Rusty construction materials",
+        "H-beams"
+      ],
+      "auteur": "Anders Lagerås",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balk6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Balk6.jpg/1280px-Balk6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1324,
+      "hauteur": 1120
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Aldi, Cosne (5).jpg",
+      "description": "Après démolition totale de l'ancien Aldi, construction (au même endroit) d'un supermarché Aldi plus vaste. Cosne-Cours-sur-Loire (France).",
+      "categories": [
+        "Concrete pumps",
+        "Schwing Stetter (Memmingen)",
+        "Self-published work",
+        "Front views of trucks",
+        "Foundations in France",
+        "White Scania trucks",
+        "Flatbed single height semi-trailer trucks",
+        "Steel beams",
+        "Steel-profile storage",
+        "Scania R-series semi-trailer tractors",
+        "Soilmec SR-30",
+        "Trucks in Cosne-Cours-sur-Loire",
+        "Scania R490",
+        "ALDI supermarket in Cosne-Cours-sur-Loire (construction)"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aldi,_Cosne_(5).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Aldi%2C_Cosne_%285%29.jpg/1280px-Aldi%2C_Cosne_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Early Thos. W. Ward Steel Girder.jpg",
+      "description": "An image showing a steel girder above an opening forming part of a bay window in a Sheffield house. The steel is marked Thos. W. Ward, a Sheffield based steel and engineering business established in the 1800s.",
+      "categories": [
+        "Thos W Ward Limited",
+        "Self-published work",
+        "Steel beams"
+      ],
+      "auteur": "Tim Alston",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Early_Thos._W._Ward_Steel_Girder.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Early_Thos._W._Ward_Steel_Girder.jpg/1280px-Early_Thos._W._Ward_Steel_Girder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7360,
+      "hauteur": 4912
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bridge - Noord-Amerika - Bison - View along the iron support H-beam with wooden beams as truss.jpg",
+      "description": "Bridge - Noord-Amerika - Bison - View along the iron support H-beam with wooden beams as truss",
+      "categories": [
+        "Bison enclosure (Diergaarde Blijdorp)",
+        "Self-published work",
+        "Netherlands photographs taken on 2022-05-13",
+        "2022 at Diergaarde Blijdorp",
+        "Bridges in Rotterdam photographed in 2022",
+        "Bridges in Diergaarde Blijdorp",
+        "H-beams"
+      ],
+      "auteur": "AgainErick",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bridge_-_Noord-Amerika_-_Bison_-_View_along_the_iron_support_H-beam_with_wooden_beams_as_truss.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bridge_-_Noord-Amerika_-_Bison_-_View_along_the_iron_support_H-beam_with_wooden_beams_as_truss.jpg/1280px-Bridge_-_Noord-Amerika_-_Bison_-_View_along_the_iron_support_H-beam_with_wooden_beams_as_truss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 2920
+    }
+  ]
+}

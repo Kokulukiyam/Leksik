@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "barreau-de-rampe",
+    "terme": "le barreau de rampe",
+    "categorie": "Escaliers et circulations",
+    "definition": "Tige verticale, répétée en série, qui remplit l'espace entre la main courante et les marches.",
+    "priorite": 2,
+    "requetes": [
+      "stair balusters spindles",
+      "barreaux rampe escalier",
+      "stair spindles"
+    ],
+    "incompatibles": [
+      "rampe-d-escalier",
+      "balustre",
+      "garde-corps-a-barreaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Balusters",
+      "Category:Stair railings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Domnumero 59 en Havano.jpg",
+      "description": "Domnumero 59. Havano, Kubo.",
+      "categories": [
+        "Balusters",
+        "Self-published work",
+        "2015 in Havana",
+        "59 (house number)",
+        "November 2015 in Cuba",
+        "House numbers in Havana"
+      ],
+      "auteur": "RG72",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Domnumero_59_en_Havano.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Domnumero_59_en_Havano.jpg/1280px-Domnumero_59_en_Havano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Stair railing at Winchester Mystery House.jpg",
+      "description": "Stair railing at Winchester Mystery House",
+      "categories": [
+        "Stair railings",
+        "Self-published work",
+        "Interior of Winchester Mystery House"
+      ],
+      "auteur": "Sgerbic",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stair_railing_at_Winchester_Mystery_House.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Stair_railing_at_Winchester_Mystery_House.jpg/1280px-Stair_railing_at_Winchester_Mystery_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3064,
+      "hauteur": 4592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Door of the Mission San Juan Bautista, 1903 (CHS-4099).jpg",
+      "description": "Door of the Mission San Juan Bautista, 1903 Photograph of the door of the Mission San Juan Bautista, 1903. A series of balusters is visible through the arched entryway. The floor is cobbled. Part of a small wooden table is visible at left. Call number : CHS-4099 Photographer : .mw-parser-output .commons-creator-table{background-color:#f0f0ff;box-sizing:border-box;font-size:95%;text-align:start;color:inherit}.mw-parser-output .commons-creator-table>tbody>tr{vertical-align:top}.mw-parser-output .commons-creator-table>tbody>tr>th{background-color:var(--background-color-neutral,#e0e0ee);font-weigh",
+      "categories": [
+        "1903 in California",
+        "PD US",
+        "Mission San Juan Bautista",
+        "Balusters",
+        "Glass plate negatives",
+        "Photographs taken by Charles C. Pierce",
+        "California Historical Society Collection, 1860-1960",
+        "Images from USC Digital Library uploaded by Fæ"
+      ],
+      "auteur": "C. C. Pierce",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_of_the_Mission_San_Juan_Bautista,_1903_(CHS-4099).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Door_of_the_Mission_San_Juan_Bautista%2C_1903_%28CHS-4099%29.jpg/1280px-Door_of_the_Mission_San_Juan_Bautista%2C_1903_%28CHS-4099%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3749,
+      "hauteur": 5023
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cables in focus - Cedar Mill, Oregon.JPG",
+      "description": "Cables in Cedar Mill",
+      "categories": [
+        "Cedar Mill, Oregon",
+        "Stair railings",
+        "Self-published work",
+        "February 2016 in Oregon",
+        "Bokeh photographs of objects"
+      ],
+      "auteur": "M.O. Stevens",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cables_in_focus_-_Cedar_Mill,_Oregon.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Cables_in_focus_-_Cedar_Mill%2C_Oregon.JPG/1280px-Cables_in_focus_-_Cedar_Mill%2C_Oregon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1997,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Essaouira Harbor - panoramio (47).jpg",
+      "description": "Essaouira Harbor",
+      "categories": [
+        "Essaouira",
+        "Balusters",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Potted plants in Morocco",
+        "Dogs of Morocco",
+        "Morocco photographs taken on 2014-02-25",
+        "Chairs up",
+        "Photos from Panoramio ID 1286122",
+        "Wooden railings in Morocco"
+      ],
+      "auteur": "Patrick Nouhailler's…",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Essaouira_Harbor_-_panoramio_(47).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Essaouira_Harbor_-_panoramio_%2847%29.jpg/1280px-Essaouira_Harbor_-_panoramio_%2847%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:DSC 4135 (2).jpg",
+      "description": "Terrace With Statues To West Front Of Chatsworth House .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-sta",
+      "categories": [
+        "Balusters",
+        "Self-published work",
+        "West front of Chatsworth House",
+        "Potential image for Wikidata item",
+        "Listed buildings in England with known IDs",
+        "Images from Wiki Loves Monuments 2017",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "Images from Wiki Loves Monuments 2017 in England",
+        "Images from Wiki Loves Monuments 2017 in the United Kingdom",
+        "England photographs taken on 2017-07-13",
+        "Files of England with bad file names",
+        "WLM-UK 2017 unfiltered 09-29"
+      ],
+      "auteur": "R ferroni2000",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DSC_4135_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/DSC_4135_%282%29.jpg/1280px-DSC_4135_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3008
+    }
+  ]
+}

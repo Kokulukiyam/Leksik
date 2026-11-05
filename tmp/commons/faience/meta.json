@@ -1,0 +1,165 @@
+{
+  "terme": {
+    "id": "faience",
+    "terme": "la faïence",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Carreaux de céramique émaillée collés sur les murs de cuisines et salles de bains.",
+    "priorite": 1,
+    "requetes": [
+      "bathroom wall tiles",
+      "faïence salle de bain",
+      "ceramic wall tiles"
+    ],
+    "incompatibles": [
+      "carrelage"
+    ],
+    "categoriesCommons": [
+      "Category:Wall tiles",
+      "Category:Ceramic tiles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:One of those moments... (14471959561).jpg",
+      "description": "One of those moments...",
+      "categories": [
+        "Floor tiles",
+        "Wall tiles",
+        "Tiled walls",
+        "Flickr images reviewed by FlickreviewR",
+        "Grooming cats",
+        "Boys wearing striped shirts",
+        "People on steps",
+        "Boys wearing jeans",
+        "Photographs by Christopher Michel",
+        "Photographs taken on 2007-11-03",
+        "Left empty photos of animals",
+        "Left empty photos of people",
+        "Boys wearing purple trousers",
+        "Boys with cats",
+        "Purple denim clothing",
+        "People sitting on the ground outdoors",
+        "People with white cats",
+        "Sitting with legs folded sideways"
+      ],
+      "auteur": "Christopher Michel",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:One_of_those_moments..._(14471959561).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/One_of_those_moments..._%2814471959561%29.jpg/1280px-One_of_those_moments..._%2814471959561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1599,
+      "hauteur": 1128
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2017 Puebla earthquake damage in house 3.jpg",
+      "description": "The shower was slightly damaged after the 2017 Puebla earthquake.",
+      "categories": [
+        "Showers",
+        "Shower heads",
+        "Wall tiles",
+        "Self-published work",
+        "Bathrooms in Mexico",
+        "2017 Puebla earthquake in Mexico City"
+      ],
+      "auteur": "Ericamack1986",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017_Puebla_earthquake_damage_in_house_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/2017_Puebla_earthquake_damage_in_house_3.jpg/1280px-2017_Puebla_earthquake_damage_in_house_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ceramic tiles 02.jpg",
+      "description": "Ceramic tiles decorating an interior wall of the Tozeur train station",
+      "categories": [
+        "Ceramic tiles",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "Houss 2020",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_tiles_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ceramic_tiles_02.jpg/1280px-Ceramic_tiles_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6144,
+      "hauteur": 8160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ceramic wall tile cream.jpg",
+      "description": "Cream-colored ceramic wall tile. Used to decorate a restroom.",
+      "categories": [
+        "Ceramic tiles",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2024-07-11"
+      ],
+      "auteur": "Epolk",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_wall_tile_cream.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Ceramic_wall_tile_cream.jpg/1280px-Ceramic_wall_tile_cream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2204,
+      "hauteur": 2085
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Lisboa - Estação do Cais do Sodré (26906284336).jpg",
+      "description": "Lisboa - Estação do Cais do Sodré",
+      "categories": [
+        "Cais do Sodré train station",
+        "Wall tiles",
+        "Uploads by ww2censor",
+        "Balconies in Portugal",
+        "Floor tiles in Portugal",
+        "2016 in rail transport in Portugal",
+        "Files with coordinates missing SDC location of creation",
+        "Portugal photographs taken on 2016-04-12",
+        "April 2016 in Lisbon",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Sepia photographs of Portugal in the 21st century",
+        "Black and white photographs of Lisbon in the 2010s",
+        "Sepia photographs of Lisbon",
+        "Photographs by Olybrius - 2016-04-12",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Anicius Olybrius",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lisboa_-_Esta%C3%A7%C3%A3o_do_Cais_do_Sodr%C3%A9_(26906284336).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Lisboa_-_Esta%C3%A7%C3%A3o_do_Cais_do_Sodr%C3%A9_%2826906284336%29.jpg/1280px-Lisboa_-_Esta%C3%A7%C3%A3o_do_Cais_do_Sodr%C3%A9_%2826906284336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Lisboa - Patio Junqueira 200 (30918850163).jpg",
+      "description": "Lisboa - Patio Junqueira 200",
+      "categories": [
+        "Lettering",
+        "Housing in Portugal",
+        "Rua da Junqueira",
+        "Wall tiles",
+        "Uploads by ww2censor",
+        "Warehouses in Portugal",
+        "Files with coordinates missing SDC location of creation",
+        "April 2016 in Lisbon",
+        "Portugal photographs taken on 2016-04-09",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Square photos of Portugal",
+        "For rent signs in Portugal",
+        "Signs in Lisbon",
+        "Azulejo facades in Lisbon",
+        "Derelict buildings in Lisbon",
+        "Photographs by Olybrius - 2016-04-09",
+        "Damaged azulejos in Portugal",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Anicius Olybrius",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lisboa_-_Patio_Junqueira_200_(30918850163).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Lisboa_-_Patio_Junqueira_200_%2830918850163%29.jpg/1280px-Lisboa_-_Patio_Junqueira_200_%2830918850163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 2736
+    }
+  ]
+}

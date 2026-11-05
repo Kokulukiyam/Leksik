@@ -1,0 +1,80 @@
+{
+  "terme": {
+    "id": "plancher-collaborant",
+    "terme": "le plancher collaborant",
+    "categorie": "Structure",
+    "definition": "Plancher fait d'une tôle d'acier nervurée servant de coffrage et sur laquelle on coule une dalle de béton.",
+    "priorite": 2,
+    "requetes": [
+      "composite steel deck floor",
+      "plancher collaborant bac acier",
+      "metal decking concrete slab"
+    ],
+    "incompatibles": [
+      "ossature-metallique",
+      "bac-acier"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Multi-Level-Stack-Parking-in-NYC.jpg",
+      "description": "Multi level car parking manufactures in chennai , Tamilnadu India",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ41",
+        "CC-Zero",
+        "Jeep Wrangler (TJ)",
+        "Chrysler 300 (2011)",
+        "Self-published work",
+        "Commons:Potd (en)",
+        "Images by EStar engoneers /IN",
+        "Manufactures in chennai , Tamilnadu India",
+        "Multi Level car Parking in india",
+        "Ambiguous location in EXIF"
+      ],
+      "auteur": "Rajesh Natraj",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Multi-Level-Stack-Parking-in-NYC.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Multi-Level-Stack-Parking-in-NYC.jpg/1280px-Multi-Level-Stack-Parking-in-NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Struc steel.jpg",
+      "description": "Structural steel in construction : A primed steel beam is holding up the floor above, which consists of a metal deck (Q-Deck), upon which a concrete slab has been poured. The masonry wall to the right stops short of the deck and is joined to the deck with a firestop system, consisting of stuffed rockwool and silicone caulking, in a manner consistent with the bounding requirements of passive fire protection . Once the firestopping is complete, fireproofing of the beam and the deck may follow.",
+      "categories": [
+        "Fireproofing",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Ahering@cogeco.ca",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Struc_steel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Struc_steel.jpg/1280px-Struc_steel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1574,
+      "hauteur": 2362
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:LawrenceScarpa Cherokee 007780-2.jpg",
+      "description": "Cherokee Mixed-Use Lofts is an urban infill, mixed-use, market-rate housing project. The building is inspired by the series of paintings by the British artist Patrick Hughes titled, “Prospectivity”, whose paintings appear to be ever changing and physically moving while being viewed. At Cherokee the main architectural feature of this project is the building’s owner-controlled operable double façade system. By allowing the occupant to adjust, at will, the operable screens of the building façade, the facade is virtually redesigned “live” from within the space, reflecting the occupants of the buil",
+      "categories": [
+        "Sustainable architecture",
+        "Lawrence Scarpa",
+        "Apartment buildings in Los Angeles",
+        "Stucco buildings in California",
+        "Self-published work",
+        "Gray buildings",
+        "Buildings by Angela Brooks",
+        "Double-skin facades"
+      ],
+      "auteur": "Calderoliver",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LawrenceScarpa_Cherokee_007780-2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/LawrenceScarpa_Cherokee_007780-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 769
+    }
+  ]
+}

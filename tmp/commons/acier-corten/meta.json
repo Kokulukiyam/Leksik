@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "acier-corten",
+    "terme": "l'acier Corten",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Acier qui se couvre d'une rouille brun orangé stable et protectrice, laissé apparent en façade.",
+    "priorite": 2,
+    "requetes": [
+      "corten steel facade",
+      "weathering steel cladding",
+      "acier corten"
+    ],
+    "incompatibles": [
+      "acier"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Loop by Matias di Carlo.jpg",
+      "description": "Bucle , escultura abstracta de acero corten, de formas geométricas inclinadas que crean una figura abierta tipo portal, en el Muelle Uno, paseo de la Farola, Málaga, España. Obra de Matias Di Carlo. La escultura formaba parte de la exposición temporal realizada en 2023 en el Muelle Uno, titulada In Continuum . [1]",
+      "categories": [
+        "COR-TEN-Steel",
+        "Paseo de la Farola, Málaga",
+        "Self-published work",
+        "FoP-Spain",
+        "Sculptures in Málaga",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by User:Dcapillae",
+        "2026 in Málaga"
+      ],
+      "auteur": "Daniel Capilla",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Loop_by_Matias_di_Carlo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Loop_by_Matias_di_Carlo.jpg/1280px-Loop_by_Matias_di_Carlo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Nachbildung der Mikwe .jpg",
+      "description": "Eine „inverse“ Treppe aus Cortenstahl verfremdet die Situation und weist die Rekonstruktion der Mikwe als Denkmal aus",
+      "categories": [
+        "COR-TEN-Steel",
+        "Mikvaot",
+        "Self-published work"
+      ],
+      "auteur": "User91719",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nachbildung_der_Mikwe_.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Nachbildung_der_Mikwe_.jpg/1280px-Nachbildung_der_Mikwe_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2704,
+      "hauteur": 4056
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Rust-AH-2022.jpg",
+      "description": "Texture of a sheet of Cor-Ten after being exposed to the elements for 5 years. The rust can form unevenly based on the composition of the metal.",
+      "categories": [
+        "COR-TEN-Steel",
+        "Caulking",
+        "Self-published work"
+      ],
+      "auteur": "AndrewHenkelman",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rust-AH-2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Rust-AH-2022.jpg/1280px-Rust-AH-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6720,
+      "hauteur": 4480
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Erwan Hesry 2016 (Unsplash).jpg",
+      "description": "Erwan Hesry 2016",
+      "categories": [
+        "CC-Zero",
+        "COR-TEN-Steel",
+        "Shipping containers",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "2x2 arrays",
+        "Blue, brown, green, orange"
+      ],
+      "auteur": "Erwan Hesry erwanhesry",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Erwan_Hesry_2016_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Erwan_Hesry_2016_%28Unsplash%29.jpg/1280px-Erwan_Hesry_2016_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5977,
+      "hauteur": 3985
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Doorsteek verfraaid met cortenstaalpilaren (38655126551).jpg",
+      "description": "Photo by urban planner Nanda Sluijsmans",
+      "categories": [
+        "COR-TEN-Steel",
+        "Photographs by Nanda Sluijsmans",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Nanda Sluijsmans from Den Haag, Nederland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Doorsteek_verfraaid_met_cortenstaalpilaren_(38655126551).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Doorsteek_verfraaid_met_cortenstaalpilaren_%2838655126551%29.jpg/1280px-Doorsteek_verfraaid_met_cortenstaalpilaren_%2838655126551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2023 Amsterdam, KNSM-eiland, Surinamekade (40).jpg",
+      "description": "Stelconplaten, cortenstalen plantenbakken en kadehekken op de Surinamekade langs het IJ, KNSM-eiland, Oostelijk Havengebied, Amsterdam.",
+      "categories": [
+        "COR-TEN-Steel",
+        "Surinamekade, Amsterdam",
+        "Stelcon paving slabs",
+        "Self-published work",
+        "August 2023 in Amsterdam",
+        "Netherlands photographs taken on 2023-08-07",
+        "Files with coordinates missing SDC location of creation (52° N, 4° E)",
+        "Railings in Amsterdam"
+      ],
+      "auteur": "Kleon3",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023_Amsterdam,_KNSM-eiland,_Surinamekade_(40).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2023_Amsterdam%2C_KNSM-eiland%2C_Surinamekade_%2840%29.jpg/1280px-2023_Amsterdam%2C_KNSM-eiland%2C_Surinamekade_%2840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3772,
+      "hauteur": 2268
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "egout-de-toit",
+    "terme": "l'égout de toit",
+    "categorie": "Toitures",
+    "definition": "Bord inférieur d'un versant, d'où l'eau de pluie s'écoule vers la gouttière.",
+    "priorite": 2,
+    "requetes": [
+      "roof eaves edge tiles gutter",
+      "égout de toiture",
+      "eaves of roof"
+    ],
+    "incompatibles": [
+      "gouttiere",
+      "avant-toit"
+    ],
+    "categoriesCommons": [
+      "Category:Eaves",
+      "Category:Roof overhangs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Carving Wightwick Manor 2 (3916740002).jpg",
+      "description": "Carving Wightwick Manor 2",
+      "categories": [
+        "Taken with Canon EOS 50D",
+        "Eaves",
+        "Wightwick Manor",
+        "Sculptures in the West Midlands (county)",
+        "September 2009 in Wolverhampton",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Architectural elements in the West Midlands (county)",
+        "United Kingdom photographs taken on 2009-09-13",
+        "Photographs by Tony Hisgett",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)"
+      ],
+      "auteur": "Tony Hisgett from Birmingham, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carving_Wightwick_Manor_2_(3916740002).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Carving_Wightwick_Manor_2_%283916740002%29.jpg/1280px-Carving_Wightwick_Manor_2_%283916740002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3630,
+      "hauteur": 2418
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Roof overhang 4248.jpg",
+      "description": "Alderton school",
+      "categories": [
+        "Alderton School",
+        "Self-published work",
+        "Roof overhangs",
+        "Alderton School Image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_overhang_4248.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Roof_overhang_4248.jpg/1280px-Roof_overhang_4248.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Botosana wooden church Sv. RO (12).JPG",
+      "description": "Botosana wooden church, Suceava county, Ro.",
+      "categories": [
+        "GFDL",
+        "Eaves",
+        "License migration redundant",
+        "Log cabin corner joints",
+        "Wooden church in Botoșana, Suceava",
+        "Self-published work"
+      ],
+      "auteur": "Dan.chent",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Botosana_wooden_church_Sv._RO_(12).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Botosana_wooden_church_Sv._RO_%2812%29.JPG/1280px-Botosana_wooden_church_Sv._RO_%2812%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Labrang-Gisela-Brantl-32.JPG",
+      "description": "Labrang Monastery (Tibetan: བླ་བྲང་བཀྲ་ཤིས་འཁྱིལ་ Wylie: bla-brang bkra-shis-'khyil; Chinese: 拉卜楞寺 Pinyin: Lābǔlèngsì) is one of the six great monasteries of the Geluk (Yellow Hat) school of Tibetan Buddhism. Labrang is located in Xiahe County in Gansu province, in the traditional Tibetan area of Amdo.",
+      "categories": [
+        "Reliefs in China",
+        "Taken with Panasonic Lumix DMC-FS6",
+        "Eaves in China",
+        "Labrang Monastery",
+        "Self-published work",
+        "Roof overhangs"
+      ],
+      "auteur": "Immanuel Giel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Labrang-Gisela-Brantl-32.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Labrang-Gisela-Brantl-32.JPG/1280px-Labrang-Gisela-Brantl-32.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Beyoğlu-Istanbu - panoramio.jpg",
+      "description": "Beyoğlu/Istanbul",
+      "categories": [
+        "Beyoğlu (Tünel)",
+        "Eaves",
+        "Arçelik",
+        "Şahkulu",
+        "Buildings in Beyoğlu",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Turkey photographs taken on 2015-04-05",
+        "Panoramio images reviewed by trusted users",
+        "April 2015 in Istanbul",
+        "Air conditioners in Turkey",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Split type air conditioners - condenser near window",
+        "Photos from Panoramio ID 596286"
+      ],
+      "auteur": "qwesy qwesy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beyo%C4%9Flu-Istanbu_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Beyo%C4%9Flu-Istanbu_-_panoramio.jpg/1280px-Beyo%C4%9Flu-Istanbu_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bemalte Giebelüberstände in der Rathausgasse in Aarau.jpg",
+      "description": "Aarau: Bemalte Giebelüberstände in der Rathausgasse (10).",
+      "categories": [
+        "Self-published work",
+        "Switzerland photographs taken on 2017-11-04",
+        "2017 in Aarau",
+        "Rathausgasse (Aarau)",
+        "Cornices in Aarau",
+        "Paintings in Aarau",
+        "Roof overhangs",
+        "Gables in Aarau",
+        "Timber framing in Aarau",
+        "Volutes (architecture) in Aarau"
+      ],
+      "auteur": "JoachimKohler-HB",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bemalte_Giebel%C3%BCberst%C3%A4nde_in_der_Rathausgasse_in_Aarau.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bemalte_Giebel%C3%BCberst%C3%A4nde_in_der_Rathausgasse_in_Aarau.jpg/1280px-Bemalte_Giebel%C3%BCberst%C3%A4nde_in_der_Rathausgasse_in_Aarau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4200,
+      "hauteur": 3150
+    }
+  ]
+}

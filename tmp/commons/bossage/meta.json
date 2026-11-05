@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "bossage",
+    "terme": "le bossage",
+    "categorie": "Ornement",
+    "definition": "Saillie volontaire de la face des pierres d'un mur, séparées par des joints creux, pour en accuser le relief.",
+    "priorite": 2,
+    "requetes": [
+      "rustication stone",
+      "rusticated masonry",
+      "bossage façade"
+    ],
+    "incompatibles": [
+      "refend",
+      "pierre-de-taille"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2007.2.17 Zvíkov a kameny 011.jpg",
+      "description": "Castle Zvíkov, South Bohemia region",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Bossage",
+        "License migration redundant",
+        "Self-published work",
+        "Files by User:Chmee2",
+        "Hlízová věž"
+      ],
+      "auteur": "Chmee2",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2007.2.17_Zv%C3%ADkov_a_kameny_011.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2007.2.17_Zv%C3%ADkov_a_kameny_011.jpg/1280px-2007.2.17_Zv%C3%ADkov_a_kameny_011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Slavonice Hauptplatz - Sgrafitto-Häuser 2.jpg",
+      "description": "Slavonice ( Czech Republic ). Main square: House showing bossage in sgrafitto.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Bossage",
+        "License migration redundant",
+        "Náměstí Míru 479 (Slavonice)",
+        "Self-published work",
+        "Trompe l'oeils of architectural elements",
+        "Sgraffito in Slavonice"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Slavonice_Hauptplatz_-_Sgrafitto-H%C3%A4user_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Slavonice_Hauptplatz_-_Sgrafitto-H%C3%A4user_2.jpg/1280px-Slavonice_Hauptplatz_-_Sgrafitto-H%C3%A4user_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1712,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Boniowanie kamienicy Gartsztajnów 02.jpg",
+      "description": "Wola, Kamienica Gartsztajnów",
+      "categories": [
+        "Gartsztajn Tenement House",
+        "Bossage",
+        "Self-published work",
+        "Images by User:Panek/Wola",
+        "Files with coordinates missing SDC location of creation",
+        "September 2026 in Warsaw",
+        "Damaged plaster"
+      ],
+      "auteur": "Panek",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boniowanie_kamienicy_Gartsztajn%C3%B3w_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Boniowanie_kamienicy_Gartsztajn%C3%B3w_02.jpg/1280px-Boniowanie_kamienicy_Gartsztajn%C3%B3w_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bossierung (Göttingen, Bürgerstraße 64, 2024).jpg",
+      "description": "Bossierung (Göttingen, Bürgerstraße 64, 2024)",
+      "categories": [
+        "Bossage",
+        "Self-published work",
+        "Bürgerstraße (Göttingen)"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bossierung_(G%C3%B6ttingen,_B%C3%BCrgerstra%C3%9Fe_64,_2024).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Bossierung_%28G%C3%B6ttingen%2C_B%C3%BCrgerstra%C3%9Fe_64%2C_2024%29.jpg/1280px-Bossierung_%28G%C3%B6ttingen%2C_B%C3%BCrgerstra%C3%9Fe_64%2C_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:(1)Central clock tower-3a.jpg",
+      "description": "Central railway station, Sydney, detail of clock tower",
+      "categories": [
+        "Bossage",
+        "Self-published work",
+        "Central railway station, Sydney (clock tower)"
+      ],
+      "auteur": "Sardaka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(1)Central_clock_tower-3a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%281%29Central_clock_tower-3a.jpg/1280px-%281%29Central_clock_tower-3a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3179,
+      "hauteur": 2392
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bossage angle jardin 02.JPG",
+      "description": "Palais du Luxembourg Angle, bossage, côté jardin 2005 Source: Clio20",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ20",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Files with no machine-readable source",
+        "Bossage",
+        "License migration redundant",
+        "Self-published work",
+        "Assumed own work",
+        "Photographs taken on 2005-07-25",
+        "Details of Luxembourg Palace"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Clio20 (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bossage_angle_jardin_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Bossage_angle_jardin_02.JPG/1280px-Bossage_angle_jardin_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    }
+  ]
+}

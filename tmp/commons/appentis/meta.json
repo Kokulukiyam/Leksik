@@ -1,0 +1,123 @@
+{
+  "terme": {
+    "id": "appentis",
+    "terme": "l'appentis",
+    "categorie": "Toitures",
+    "definition": "Petit bâtiment ou auvent à un seul versant, adossé à un mur plus haut.",
+    "priorite": 2,
+    "requetes": [
+      "lean-to shed against wall",
+      "appentis",
+      "lean-to roof"
+    ],
+    "incompatibles": [
+      "toit-monopente",
+      "auvent"
+    ],
+    "categoriesCommons": [
+      "Category:Sheds"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Alesund Sunnmore museum 2024 02.jpg",
+      "description": "Ålesund Sunnmøre Museum.",
+      "categories": [
+        "Sheds",
+        "Wooden buildings in Norway",
+        "Self-published work",
+        "Sod roofs in Norway",
+        "Buildings in Sunnmøre Museum"
+      ],
+      "auteur": "Ad Meskens You are free to use this picture for any purpose as long as you credit its author, Ad Meskens . Example: © Ad Meskens / Wikimedia Commons If you use this work outside of the Wikimedia proje",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alesund_Sunnmore_museum_2024_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Alesund_Sunnmore_museum_2024_02.jpg/1280px-Alesund_Sunnmore_museum_2024_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4895,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Barn on a hill.jpg",
+      "description": "Image title: Barn on a hill Image from Public domain images website, http://www.public-domain-image.com/full-image/nature-landscapes-public-domain-images-pictures/hill-public-domain-images-pictures/barn-on-a-hill.jpg.html",
+      "categories": [
+        "PD-author",
+        "Sheds",
+        "Images uploaded by Fæ",
+        "Uploads by Fæ with linkrot",
+        "Public-domain-image.com",
+        "Public-domain-image.com (check needed)"
+      ],
+      "auteur": "C. E. Price",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barn_on_a_hill.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Barn_on_a_hill.jpg/1280px-Barn_on_a_hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:An old shed in a town.jpg",
+      "description": "An old dilapidated shed in a town in northern Greece.",
+      "categories": [
+        "Sheds",
+        "Self-published work"
+      ],
+      "auteur": "Annatsach",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_old_shed_in_a_town.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/An_old_shed_in_a_town.jpg/1280px-An_old_shed_in_a_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ekrobotics CUSTOM MOVE OUTDOOR AGV.jpg",
+      "description": "Die Grafik zeigt ein neues Fahrerloses Transportfahrzeug (FTF) für den Außenbereich. Das FTF ist mit Rollenförderern und einem Rolltor ausgestattet, um das Transportgut vor Witterungsbedingungen zu schützen.",
+      "categories": [
+        "Sheds",
+        "Self-published work"
+      ],
+      "auteur": "Timmo at ek robotics GmbH",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ekrobotics_CUSTOM_MOVE_OUTDOOR_AGV.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ekrobotics_CUSTOM_MOVE_OUTDOOR_AGV.jpg/1280px-Ekrobotics_CUSTOM_MOVE_OUTDOOR_AGV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4850,
+      "hauteur": 3450
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Binstoredoorsclosed.jpg",
+      "description": "bin store",
+      "categories": [
+        "Sheds",
+        "Self-published work"
+      ],
+      "auteur": "Patrickstead",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Binstoredoorsclosed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Binstoredoorsclosed.jpg/1280px-Binstoredoorsclosed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alesund Sunnmore museum 2024 03.jpg",
+      "description": "Ålesund Sunnmøre Museum.",
+      "categories": [
+        "Sheds",
+        "Wooden buildings in Norway",
+        "Self-published work",
+        "Sod roofs in Norway",
+        "Buildings in Sunnmøre Museum"
+      ],
+      "auteur": "Ad Meskens You are free to use this picture for any purpose as long as you credit its author, Ad Meskens . Example: © Ad Meskens / Wikimedia Commons If you use this work outside of the Wikimedia proje",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alesund_Sunnmore_museum_2024_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Alesund_Sunnmore_museum_2024_03.jpg/1280px-Alesund_Sunnmore_museum_2024_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 5184
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "toiture-terrasse-gravillonnee",
+    "terme": "la toiture-terrasse gravillonnée",
+    "categorie": "Toitures",
+    "definition": "Toiture-terrasse dont l'étanchéité est protégée par une couche de gravillons.",
+    "priorite": 2,
+    "requetes": [
+      "gravel ballast flat roof",
+      "toiture terrasse gravillons",
+      "gravel flat roof"
+    ],
+    "incompatibles": [
+      "toiture-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Flat roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Centro Warwick roof equipment.jpg",
+      "description": "Equipment on top of the Centro Warwick shopping centre in Warwick, Western Australia, including air conditioners and extractor fans for the various shops, and the centrepiece.",
+      "categories": [
+        "Flat roofs",
+        "Taken with Canon PowerShot SX150 IS",
+        "Air handling units",
+        "Roof mounted exhaust fans",
+        "Self-published work",
+        "Warwick Grove Shopping Centre",
+        "Photographs by Orderinchaos"
+      ],
+      "auteur": "User:Orderinchaos",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centro_Warwick_roof_equipment.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Centro_Warwick_roof_equipment.jpg/1280px-Centro_Warwick_roof_equipment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:20230317.Dresden.Neue Mensa Bergstraße.-017.jpg",
+      "description": "Dresden.Neue Mensa Bergstraße: Die Neue Mensa im Dresdner Stadtteil Räcknitz ist ein Mensa-Gebäude für die Technische Universität Dresden, sie wird vom Studentenwerk Dresden betrieben. Das Gebäude steht an der Bergstraße 51. Nach der Renovierung der „Alten Mensa“ 2007 wurde auch der Name Mensa Bergstraße geführt.",
+      "categories": [
+        "Flat roofs",
+        "Self-published work",
+        "Plastic roofs",
+        "Files with coordinates missing SDC location of creation",
+        "Dresden photographs taken on 2023-03-17",
+        "Photos by User:Bybbisch94/2023",
+        "Sanierung Neue Mensa, Dresden",
+        "Stainless steel fences"
+      ],
+      "auteur": "Bybbisch94, Christian Gebhardt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20230317.Dresden.Neue_Mensa_Bergstra%C3%9Fe.-017.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/20230317.Dresden.Neue_Mensa_Bergstra%C3%9Fe.-017.jpg/1280px-20230317.Dresden.Neue_Mensa_Bergstra%C3%9Fe.-017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 9039,
+      "hauteur": 6779
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Begrünter Carport im Hang in Tauberbischofsheim.jpg",
+      "description": "Begrünter Carport im Hang in Tauberbischofsheim",
+      "categories": [
+        "Flat roofs",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Images by Triplec85",
+        "Photographs taken on 2021-09-11",
+        "Carports in Tauberbischofsheim (Tauberbischofsheim)",
+        "Tauberbischofsheim photographs taken on 2021-09-11",
+        "Green roofs (sustainability) in Tauberbischofsheim"
+      ],
+      "auteur": "Triplec85",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim.jpg/1280px-Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cellular network mobile phone antenna mount Haringey London.jpg",
+      "description": "Cellular network mobile phone antenna mount in Haringey , London , England. Wikimedia (2025) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Tottenham , this uploader's Buildings in London photos , and 'categories' at the bottom of the page. This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name number and/or time marking. Camera : Canon PowerShot SX60 HS Software : DxO PhotoLab 7 Elite .",
+      "categories": [
+        "Flat roofs",
+        "Self-published work",
+        "Construction sites in London",
+        "Railings in the London Borough of Haringey",
+        "2025 in the London Borough of Haringey",
+        "May 2025 in London",
+        "London photographs taken on 2025-05-20",
+        "Spring in the London Borough of Haringey",
+        "Photographs of London by Acabashi",
+        "London N17",
+        "Buildings in the London Borough of Haringey photographed in 2025",
+        "London buildings photos taken with Canon PowerShot SX60 HS",
+        "Construction at Broadwater Farm Estate",
+        "Moira Close, Tottenham",
+        "Mobile phone base stations in London",
+        "Acabashi photos: buildings in Haringey"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cellular_network_mobile_phone_antenna_mount_Haringey_London.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cellular_network_mobile_phone_antenna_mount_Haringey_London.jpg/1280px-Cellular_network_mobile_phone_antenna_mount_Haringey_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4338,
+      "hauteur": 3253
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Begrünter Carport im Hang in Tauberbischofsheim 4.jpg",
+      "description": "Begrünter Carport im Hang in Tauberbischofsheim",
+      "categories": [
+        "Flat roofs",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Images by Triplec85",
+        "Photographs taken on 2021-09-11",
+        "Carports in Tauberbischofsheim (Tauberbischofsheim)",
+        "Tauberbischofsheim photographs taken on 2021-09-11",
+        "Green roofs (sustainability) in Tauberbischofsheim"
+      ],
+      "auteur": "Triplec85",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_4.jpg/1280px-Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bushaltestelle Löderburg Dorfplatz.JPG",
+      "description": "BuLöDo",
+      "categories": [
+        "Flat roofs",
+        "Taken with Panasonic Lumix DMC-FS6",
+        "Löderburg",
+        "Self-published work",
+        "Bus shelters in Saxony-Anhalt",
+        "Bus stops in Salzlandkreis"
+      ],
+      "auteur": "Rico-U",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bushaltestelle_L%C3%B6derburg_Dorfplatz.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bushaltestelle_L%C3%B6derburg_Dorfplatz.JPG/1280px-Bushaltestelle_L%C3%B6derburg_Dorfplatz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    }
+  ]
+}

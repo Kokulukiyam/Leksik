@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "pan-coupe",
+    "terme": "le pan coupé",
+    "categorie": "Façade et ouvertures",
+    "definition": "Angle d'un bâtiment remplacé par une façade oblique, typiquement à un carrefour.",
+    "priorite": 2,
+    "requetes": [
+      "chamfered building corner street",
+      "immeuble pan coupé",
+      "cut corner building intersection"
+    ],
+    "incompatibles": [
+      "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Corner buildings",
+      "Category:Corner buildings in France"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Nis 0530.jpg",
+      "description": "Post office building in Nis, new part, Serbia",
+      "categories": [
+        "Buildings in Niš",
+        "Corner buildings",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Vožda Karađorđa Street (Niš)"
+      ],
+      "auteur": "Intermedichbo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nis_0530.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Nis_0530.jpg/1280px-Nis_0530.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3758,
+      "hauteur": 1922
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Châlons-en-Champagne L'évêché.JPG",
+      "description": "Châlons-en-Champagne L'évêché",
+      "categories": [
+        "Buildings in Châlons-en-Champagne",
+        "Self-published work",
+        "Corner buildings in France"
+      ],
+      "auteur": "Aimelaime~commonswiki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2lons-en-Champagne_L%27%C3%A9v%C3%AAch%C3%A9.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ch%C3%A2lons-en-Champagne_L%27%C3%A9v%C3%AAch%C3%A9.JPG/1280px-Ch%C3%A2lons-en-Champagne_L%27%C3%A9v%C3%AAch%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:MelvL P5090188 (5703430101).jpg",
+      "description": "P5090188",
+      "categories": [
+        "Corner buildings",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Melv L - MACASR"
+      ],
+      "auteur": "Melv_L - MACASR",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MelvL_P5090188_(5703430101).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/MelvL_P5090188_%285703430101%29.jpg/1280px-MelvL_P5090188_%285703430101%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Galeries Lafayette (Nantes).jpg",
+      "description": "Galeries Lafayette (Nantes)",
+      "categories": [
+        "Attribution only license",
+        "Self-published work",
+        "Curved buildings in France",
+        "Corner buildings in France",
+        "Files with coordinates missing SDC location of creation",
+        "Galeries Lafayette (Nantes)",
+        "2017 in nantes"
+      ],
+      "auteur": "Avi1111 dr. avishai teicher",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Galeries_Lafayette_(Nantes).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Galeries_Lafayette_%28Nantes%29.jpg/1280px-Galeries_Lafayette_%28Nantes%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:102 O'Connell Street in North Adelaide (028A1118).jpg",
+      "description": "102 O'Connell Street in North Adelaide.",
+      "categories": [
+        "Pizzerias in Australia",
+        "Corner buildings",
+        "Self-published work",
+        "Buildings in North Adelaide",
+        "Australia photographs taken on 2026-09-12",
+        "O'Connell Street, North Adelaide"
+      ],
+      "auteur": "Yu Chu Chin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:102_O%27Connell_Street_in_North_Adelaide_(028A1118).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/102_O%27Connell_Street_in_North_Adelaide_%28028A1118%29.jpg/1280px-102_O%27Connell_Street_in_North_Adelaide_%28028A1118%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6960,
+      "hauteur": 4640
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Laval-FR-53-gare-05.JPG",
+      "description": "Laval (Mayenne, France) ; les hôtels vus depuis le terrasse de la gare",
+      "categories": [
+        "Taken with Olympus E-520",
+        "Gare de Laval",
+        "Self-published work",
+        "Corner buildings in France",
+        "Files with coordinates missing SDC location of creation",
+        "2013 in Laval",
+        "Place de la Gare (Laval)"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laval-FR-53-gare-05.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Laval-FR-53-gare-05.JPG/1280px-Laval-FR-53-gare-05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 1687
+    }
+  ]
+}

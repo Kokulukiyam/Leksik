@@ -1,0 +1,120 @@
+{
+  "terme": {
+    "id": "panneau-photovoltaique",
+    "terme": "le panneau photovoltaïque",
+    "categorie": "Réseaux et équipements",
+    "definition": "Panneau plat bleu sombre ou noir, à cellules visibles, qui produit de l'électricité à partir du soleil.",
+    "priorite": 1,
+    "requetes": [
+      "solar panels rooftop",
+      "panneau photovoltaïque",
+      "photovoltaic panel"
+    ],
+    "categoriesCommons": [
+      "Category:Solar panels",
+      "Category:Photovoltaic power stations"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Carla solar panels 1.jpg",
+      "description": "Carla Denyer with solar panels",
+      "categories": [
+        "CC-Zero",
+        "Solar panels",
+        "Carla Denyer",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Bristol Green Party",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carla_solar_panels_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Carla_solar_panels_1.jpg/1280px-Carla_solar_panels_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2678
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Blue Prairie Solar Black River Falls, Wisconsin.jpg",
+      "description": "Blue Prairie Solar Black River Falls, Wisconsin",
+      "categories": [
+        "Taken with DJI FC7303",
+        "CC-Zero",
+        "Photovoltaic power stations",
+        "Black River Falls, Wisconsin",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Wikideas1",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Prairie_Solar_Black_River_Falls,_Wisconsin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Blue_Prairie_Solar_Black_River_Falls%2C_Wisconsin.jpg/1280px-Blue_Prairie_Solar_Black_River_Falls%2C_Wisconsin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ayrshire wiki.jpg",
+      "description": "Workers fitting solar panels on a roof",
+      "categories": [
+        "Solar panels",
+        "Self-published work"
+      ],
+      "auteur": "Alex Gill Marley",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ayrshire_wiki.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ayrshire_wiki.jpg/1280px-Ayrshire_wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1512,
+      "hauteur": 2016
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Champ de panneaux solaires au Sénégal 04.jpg",
+      "description": "Champ de panneaux solaires au Sénégal",
+      "categories": [
+        "Photovoltaic power stations",
+        "Self-published work"
+      ],
+      "auteur": "Fawaz.tairou",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Champ_de_panneaux_solaires_au_S%C3%A9n%C3%A9gal_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Champ_de_panneaux_solaires_au_S%C3%A9n%C3%A9gal_04.jpg/1280px-Champ_de_panneaux_solaires_au_S%C3%A9n%C3%A9gal_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:92.1 Capital FM Tower Building.jpg",
+      "description": "The 10KW solar panels at the transmitter site. Berishë, Kosovo.",
+      "categories": [
+        "Kosovo",
+        "Solar panels",
+        "Self-published work"
+      ],
+      "auteur": "Toni007 ca",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:92.1_Capital_FM_Tower_Building.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/92.1_Capital_FM_Tower_Building.jpg/1280px-92.1_Capital_FM_Tower_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Hughenden, capital of the Shire of Flinders, rural Queensland, Australia 21.jpg",
+      "description": "Hughenden Solar Farm, as seen from the junction of Winton Road and Disraeli Street. Picture taken shortly before dusk.",
+      "categories": [
+        "CC-Zero",
+        "Photovoltaic power stations",
+        "Shire of Flinders",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ridiculopathy",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hughenden,_capital_of_the_Shire_of_Flinders,_rural_Queensland,_Australia_21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Hughenden%2C_capital_of_the_Shire_of_Flinders%2C_rural_Queensland%2C_Australia_21.jpg/1280px-Hughenden%2C_capital_of_the_Shire_of_Flinders%2C_rural_Queensland%2C_Australia_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 2005
+    }
+  ]
+}

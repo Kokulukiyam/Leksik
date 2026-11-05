@@ -1,0 +1,157 @@
+{
+  "terme": {
+    "id": "escalier-en-beton",
+    "terme": "l'escalier en béton",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier coulé en béton armé, d'une seule pièce avec ses marches et sa paillasse.",
+    "priorite": 1,
+    "requetes": [
+      "concrete staircase construction",
+      "escalier en béton armé",
+      "concrete stairs"
+    ],
+    "incompatibles": [
+      "escalier",
+      "paillasse"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete staircases",
+      "Category:Concrete stairs",
+      "Category:Staircases"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hotel Icaraí Itaparica Bahia Second Floor 2018-0006.jpg",
+      "description": "Second floor, Hotel Icaraí, Itaparica, Bahia, Brazil",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II",
+        "Hotel Icaraí",
+        "Interiors of hotels in Brazil",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil images by Paul R. Burley",
+        "Photographs taken on 2018-10-05",
+        "Staircases in Bahia",
+        "Concrete staircases"
+      ],
+      "auteur": "Paul R. Burley",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hotel_Icara%C3%AD_Itaparica_Bahia_Second_Floor_2018-0006.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Hotel_Icara%C3%AD_Itaparica_Bahia_Second_Floor_2018-0006.jpg/1280px-Hotel_Icara%C3%AD_Itaparica_Bahia_Second_Floor_2018-0006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3779,
+      "hauteur": 5668
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2008-12-26 Altenbeken 17.JPG",
+      "description": "Entrance to the station Altenbeken , Germany",
+      "categories": [
+        "December 2008 in Germany",
+        "Exterior stair railings in Germany",
+        "Concrete stairs",
+        "Bahnhof Altenbeken",
+        "Self-published work",
+        "Photos by R. Engelhardt (Altenbeken)",
+        "Metal railings in North Rhine-Westphalia",
+        "Outside stairs in North Rhine-Westphalia",
+        "2008 in Altenbeken",
+        "Winter in Altenbeken",
+        "Photographs taken on 2008-12-26",
+        "Winter 2008-2009 in Kreis Paderborn",
+        "Files with coordinates missing SDC location of creation (51° N, 8° E)"
+      ],
+      "auteur": "R-E-AL ( talk | contribs | Gallery ) (German Wikipedia)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-12-26_Altenbeken_17.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2008-12-26_Altenbeken_17.JPG/1280px-2008-12-26_Altenbeken_17.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:3rd staircase.jpg",
+      "description": "Carpet installation with border",
+      "categories": [
+        "Staircases",
+        "Stairs with carpets",
+        "Self-published work",
+        "Unidentified houses",
+        "Rugs and carpets in brown"
+      ],
+      "auteur": "AIVOP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3rd_staircase.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/3rd_staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Qingshui Service Area, 2026 (01).jpg",
+      "description": "Qingshui Service Area",
+      "categories": [
+        "Qingshui Service Area",
+        "Self-published work",
+        "Images by Bahnfrend",
+        "Files with coordinates missing SDC location of creation",
+        "2026 photographs of Taichung",
+        "2026 in transport in Taiwan",
+        "Taken with Samsung Galaxy A14 5G",
+        "Concrete staircases",
+        "Illuminated buildings in Taichung",
+        "Covered staircases",
+        "Taiwan photographs taken on 2026-05-18",
+        "May 2026 in road transport",
+        "Buildings in Taiwan photographed in 2026"
+      ],
+      "auteur": "Bahnfrend",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Qingshui_Service_Area,_2026_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Qingshui_Service_Area%2C_2026_%2801%29.jpg/1280px-Qingshui_Service_Area%2C_2026_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:17-37-57-fort-de-roppe.jpg",
+      "description": "Ce fichier a été téléversé avec Commonist . Escalier montant vers la casemate de Bourges. Roppe fortifications.",
+      "categories": [
+        "Taken with Nikon D300",
+        "Concrete stairs",
+        "Uploaded with Commonist",
+        "Photos by ComputerHotline",
+        "Files with coordinates missing SDC location of creation",
+        "Underground galleries in the fort de Roppe",
+        "Subterranean stairs in fort de Roppe"
+      ],
+      "auteur": "Thomas Bresson",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:17-37-57-fort-de-roppe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/17-37-57-fort-de-roppe.jpg/1280px-17-37-57-fort-de-roppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2742,
+      "hauteur": 4202
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:BALUSTRADA 075.jpg",
+      "description": "Poręcz schodowa",
+      "categories": [
+        "Taken with Nikon D300",
+        "CC-Zero",
+        "Staircases",
+        "Self-published work",
+        "Curved stairs",
+        "Stair handrails",
+        "Metal handrails"
+      ],
+      "auteur": "Eskatt",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BALUSTRADA_075.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/BALUSTRADA_075.jpg/1280px-BALUSTRADA_075.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "volee",
+    "terme": "la volée",
+    "categorie": "Escaliers et circulations",
+    "definition": "Suite ininterrompue de marches entre deux paliers.",
+    "priorite": 1,
+    "requetes": [
+      "flight of stairs",
+      "volée d'escalier",
+      "stair flight"
+    ],
+    "incompatibles": [
+      "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Alaverdi - building interior.jpg",
+      "description": "Apartment building interior in Alaverdi, Armenia.",
+      "categories": [
+        "Building interiors in Armenia",
+        "Taken with Sony DSC-RX100 III",
+        "Staircases",
+        "Alaverdi",
+        "Uploaded with VicuñaUploader",
+        "Apartment buildings in Armenia",
+        "Pink walls",
+        "Armenia photographs taken on 2018-05-10"
+      ],
+      "auteur": "Tiia Monto",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alaverdi_-_building_interior.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alaverdi_-_building_interior.jpg/1280px-Alaverdi_-_building_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2121,
+      "hauteur": 3182
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2016 Lublin; Multi-family high-rise building, stairs.jpg",
+      "description": "2016 Lublin; Multi-family high-rise building, stairs",
+      "categories": [
+        "Stairs",
+        "Lublin",
+        "High-rises",
+        "Self-published work"
+      ],
+      "auteur": "BogTar201213",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_Lublin;_Multi-family_high-rise_building,_stairs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2016_Lublin%3B_Multi-family_high-rise_building%2C_stairs.jpg/1280px-2016_Lublin%3B_Multi-family_high-rise_building%2C_stairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1826,
+      "hauteur": 3022
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A small Sismo.jpg",
+      "description": "there will always be a new day...",
+      "categories": [
+        "Taken with Nikon F2",
+        "Death",
+        "1990 in Brazil",
+        "Staircases",
+        "Analog photography",
+        "Earthquakes of 1990",
+        "Hand-colored photographs",
+        "Self-published work",
+        "Unidentified buildings in Brazil",
+        "Windows (interior views)"
+      ],
+      "auteur": "Sérgio Valle Duarte .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neut",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_small_Sismo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/A_small_Sismo.jpg/1280px-A_small_Sismo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2240,
+      "hauteur": 3600
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2015 07 31 Mombasa Port JPEG RESIZED 0031.jpg",
+      "description": "KENYA, Mombasa: Photograph taken by the Kenyan Ministry of East African Affairs, Commerce and Tourism (MEAACT) 31 July shows a general view of stairs leading up to the cabin of a container crane inside Mombasa Port on Kenya's Indian Ocean coast. MANDATORY CREDIT: MEAACT PHOTO / STUART PRICE.",
+      "categories": [
+        "Stairs",
+        "Port of Mombasa",
+        "Metal stairs",
+        "Flickr images reviewed by FlickreviewR 2",
+        "PD-author-FlickrPDM",
+        "Stairs in Kenya",
+        "Files from MEAACT Kenya Flickr stream"
+      ],
+      "auteur": "Ministry of East African Affairs, Commerce & Touri",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:2015_07_31_Mombasa_Port_JPEG_RESIZED_0031.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2015_07_31_Mombasa_Port_JPEG_RESIZED_0031.jpg/1280px-2015_07_31_Mombasa_Port_JPEG_RESIZED_0031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3840,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2024-10-05 WikiCon 2024 021.jpg",
+      "description": "WikiCon 2024 in Wiesbaden - Hier endet das WikiCon-Bereich.",
+      "categories": [
+        "Stairs",
+        "Self-published work",
+        "Interior of Altes Gericht (Wiesbaden)",
+        "WikiCon 2024/Location"
+      ],
+      "auteur": "Ahmet Düz, Dreiländer- & Oberrheinfotograf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-10-05_WikiCon_2024_021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2024-10-05_WikiCon_2024_021.jpg/1280px-2024-10-05_WikiCon_2024_021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:African Human wooden Seats.jpg",
+      "description": "Ceci est une image du genre Musique et Danse de :",
+      "categories": [
+        "Staircases",
+        "Calabar",
+        "Self-published work",
+        "Crafts of Nigeria",
+        "Images from Wiki Loves Africa 2016",
+        "Images from Wiki Loves Africa 2016 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2016 in Nigeria",
+        "Nigeria photographs taken on 2016-12-29",
+        "Wooden chairs"
+      ],
+      "auteur": "Charles. Utibemfon Charles",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:African_Human_wooden_Seats.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/African_Human_wooden_Seats.jpg/1280px-African_Human_wooden_Seats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    }
+  ]
+}

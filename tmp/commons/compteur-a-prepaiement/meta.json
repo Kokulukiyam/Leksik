@@ -1,0 +1,72 @@
+{
+  "terme": {
+    "id": "compteur-a-prepaiement",
+    "terme": "le compteur à prépaiement",
+    "categorie": "Réseaux et équipements",
+    "definition": "Compteur électrique à clavier où l'on saisit le code d'une recharge achetée à l'avance ; au Sénégal, le compteur Woyofal.",
+    "priorite": 1,
+    "requetes": [
+      "prepaid electricity meter keypad",
+      "compteur prépayé",
+      "prepayment meter"
+    ],
+    "incompatibles": [
+      "compteur-electrique"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Hard-Prepaid electric meter Bauer electronic-in Austria-01ASD.jpg",
+      "description": "Compteur prépayé pour courant triphasé de Bauer Electronic. Photographié à Hard, dans le Vorarlberg, en Autriche. Après paiement, un code est émis sur une machine, avec lequel le compteur électrique est alors activé pour une quantité d'énergie payée.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Electronic electricity meters",
+        "Photographs by Asurnipal-Hard"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hard-Prepaid_electric_meter_Bauer_electronic-in_Austria-01ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Hard-Prepaid_electric_meter_Bauer_electronic-in_Austria-01ASD.jpg/1280px-Hard-Prepaid_electric_meter_Bauer_electronic-in_Austria-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2348,
+      "hauteur": 4006
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Smart prepayment meter.jpg",
+      "description": "This is a smart electricity meter in an apartment in the UK. It is a prepayment meter that can be topped up using a plastic key or with a mobile phone app. The key slot is on the underside of the device, and so is not visible on the photograph. The device was installed in 2023.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Electricity meters with liquid crystal displays",
+        "Taken with Oppo Reno15 F 5G"
+      ],
+      "auteur": "SpicyPhoto",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Smart_prepayment_meter.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Smart_prepayment_meter.jpg/1280px-Smart_prepayment_meter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Marshalls electricity (10703510886).jpg",
+      "description": "Australia is working to improve energy efficiency and distribution in the Marshall Islands. Australian aid is funding prepay meters to assist customers with budgeting their electricity usage, an energy specialist to work with the Ministry of Resources and Development, and volunteers to build staff skills and improve operations at the Marshall Islands’ utilities companies. Photo: Erin Magee, AusAID For a high resolution copy of this photo, please contact photolibrary@ausaid.gov.au",
+      "categories": [
+        "Utility poles",
+        "Photographs by the Australian Department of Foreign Affairs and Trade",
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC creator",
+        "Streets in the Marshall Islands",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Photo: Erin Magee, AusAID – Department of Foreign Affairs and Trade",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Marshalls_electricity_(10703510886).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Marshalls_electricity_%2810703510886%29.jpg/1280px-Marshalls_electricity_%2810703510886%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2283,
+      "hauteur": 1631
+    }
+  ]
+}

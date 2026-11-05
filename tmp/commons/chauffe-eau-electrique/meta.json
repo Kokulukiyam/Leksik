@@ -1,0 +1,123 @@
+{
+  "terme": {
+    "id": "chauffe-eau-electrique",
+    "terme": "le chauffe-eau électrique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ballon cylindrique blanc, vertical ou horizontal, qui chauffe et stocke l'eau chaude par une résistance électrique ; appelé aussi cumulus.",
+    "priorite": 1,
+    "requetes": [
+      "electric water heater",
+      "chauffe-eau électrique",
+      "hot water cylinder"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:TESY1-Shumen.jpg",
+      "description": "Заводът на TESY в гр. Шумен, България",
+      "categories": [
+        "Buildings in Shumen",
+        "Tesy",
+        "Self-published work"
+      ],
+      "auteur": "Alex G Grigorov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TESY1-Shumen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/TESY1-Shumen.jpg/1280px-TESY1-Shumen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Atmor.jpg",
+      "description": "מחמם מים מידי אטמור",
+      "categories": [
+        "Home appliances",
+        "Water heating devices",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "דוד שי",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atmor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Atmor.jpg/1280px-Atmor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3076,
+      "hauteur": 2095
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:TESY Board of Directors.jpg",
+      "description": "Борд на директорите на ТЕСИ ООД. Отляво надясно: Емануил Тотев-Търговски Директор, Цветомир Цанков - Директор Производствена Дивизия, Жечко Кюркчиев - Съосновател и управител, Таня Пейчинова - Директор човешки ресурси, Христо Славов - Директор Продуктово Развитие и Качество, Александър Теодосиев - Финансов Директор",
+      "categories": [
+        "Tesy",
+        "Self-published work"
+      ],
+      "auteur": "Alex G Grigorov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TESY_Board_of_Directors.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/TESY_Board_of_Directors.jpg/1280px-TESY_Board_of_Directors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2667
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Greater Minneapolis, July, 1952, Volume 3, Number 10 - DPLA - dc227a681413cf1f63a83cb10aabb5cd (page 5).jpg",
+      "description": "",
+      "categories": [
+        "PD US",
+        "Files with no machine-readable author",
+        "Media contributed by the Digital Public Library of America",
+        "Water heating devices",
+        "Artworks without Wikidata item",
+        "Digital Public Library of America files missing required SDC statements",
+        "PD-US missing SDC copyright status",
+        "Digital Public Library of America files missing creator",
+        "Media contributed by the Minnesota Digital Library",
+        "Media contributed by Hennepin County Library"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Greater_Minneapolis,_July,_1952,_Volume_3,_Number_10_-_DPLA_-_dc227a681413cf1f63a83cb10aabb5cd_(page_5).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Greater_Minneapolis%2C_July%2C_1952%2C_Volume_3%2C_Number_10_-_DPLA_-_dc227a681413cf1f63a83cb10aabb5cd_%28page_5%29.jpg/1280px-Greater_Minneapolis%2C_July%2C_1952%2C_Volume_3%2C_Number_10_-_DPLA_-_dc227a681413cf1f63a83cb10aabb5cd_%28page_5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2550,
+      "hauteur": 3300
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Burner assembly of a water heater.jpg",
+      "description": "Burner assembly of a water heater. The assembly include manifold tube, burner and pilot bracket that connects pilot tube and the thermocouple. See notes in the description page of the Wikimedia Commons for the locations of those components.",
+      "categories": [
+        "Images with annotations",
+        "Thermocouples",
+        "Water heating devices",
+        "Self-published work",
+        "Gas burners"
+      ],
+      "auteur": "Z22",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Burner_assembly_of_a_water_heater.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Burner_assembly_of_a_water_heater.jpg/1280px-Burner_assembly_of_a_water_heater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3037,
+      "hauteur": 1918
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chauffe-eau techno-solaire avec capteur d'ondes supra-cosmiques intégré (5951635181).jpg",
+      "description": "Jardin Zen et Zinc, Été 2011",
+      "categories": [
+        "Water heating devices",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Zinc objects",
+        "Files from Consulat de la Boirie Flickr stream"
+      ],
+      "auteur": "Consulat de la Boirie",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chauffe-eau_techno-solaire_avec_capteur_d%27ondes_supra-cosmiques_int%C3%A9gr%C3%A9_(5951635181).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Chauffe-eau_techno-solaire_avec_capteur_d%27ondes_supra-cosmiques_int%C3%A9gr%C3%A9_%285951635181%29.jpg/1280px-Chauffe-eau_techno-solaire_avec_capteur_d%27ondes_supra-cosmiques_int%C3%A9gr%C3%A9_%285951635181%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "verriere",
+    "terme": "la verrière",
+    "categorie": "Toitures",
+    "definition": "Toiture vitrée sur ossature métallique qui couvre une cour, un hall ou un passage.",
+    "priorite": 2,
+    "requetes": [
+      "glass roof atrium",
+      "verrière toiture",
+      "iron glass roof"
+    ],
+    "categoriesCommons": [
+      "Category:Skylights"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tündük (çadır bacası).jpg",
+      "description": "Tündük (çadır bacası)",
+      "categories": [
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "Buzancar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:T%C3%BCnd%C3%BCk_(%C3%A7ad%C4%B1r_bacas%C4%B1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/T%C3%BCnd%C3%BCk_%28%C3%A7ad%C4%B1r_bacas%C4%B1%29.jpg/1280px-T%C3%BCnd%C3%BCk_%28%C3%A7ad%C4%B1r_bacas%C4%B1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Rijksmuseum atrium glass roof seen from below in Amsterdam.jpg",
+      "description": "Toit en verre de l' atrium du Rijksmuseum vu de dessous à Amsterdam , aux Pays-Bas .",
+      "categories": [
+        "Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM",
+        "Self-published work",
+        "Rijksmuseum Amsterdam - Atrium",
+        "Rectangular objects",
+        "4-fold dihedral symmetry",
+        "Photographs by Basile Morin",
+        "Files with coordinates missing SDC location of creation (52° N, 4° E)",
+        "Symmetry impressions of ceilings",
+        "Views from below",
+        "Transparent roofs in Amsterdam",
+        "Horizontal rectangles"
+      ],
+      "auteur": "Basile Morin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_atrium_glass_roof_seen_from_below_in_Amsterdam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Rijksmuseum_atrium_glass_roof_seen_from_below_in_Amsterdam.jpg/1280px-Rijksmuseum_atrium_glass_roof_seen_from_below_in_Amsterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6467,
+      "hauteur": 4311
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:PROXY.jpg",
+      "description": "PROXY seen from the Moon",
+      "categories": [
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "SADTrance",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PROXY.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/PROXY.jpg/1280px-PROXY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1381,
+      "hauteur": 1841
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Stanford Hospital Atrium Roof.jpg",
+      "description": "the glass roof above the main atrium in the Stanford Hospital",
+      "categories": [
+        "Self-published work",
+        "Atriums in California",
+        "Files with coordinates missing SDC location of creation",
+        "Hospitals in the United States photographed in 2025",
+        "Stanford Hospital"
+      ],
+      "auteur": "BrokenSegue",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stanford_Hospital_Atrium_Roof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Stanford_Hospital_Atrium_Roof.jpg/1280px-Stanford_Hospital_Atrium_Roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 1848
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Skylight of the Cuvilliés Theater in Münchner Residenz.jpg",
+      "description": "Skylight of the Cuvilliés Theater in Münchner Residenz",
+      "categories": [
+        "Cuvilliés-Theater",
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "AuHaidhausen",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Skylight_of_the_Cuvilli%C3%A9s_Theater_in_M%C3%BCnchner_Residenz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Skylight_of_the_Cuvilli%C3%A9s_Theater_in_M%C3%BCnchner_Residenz.jpg/1280px-Skylight_of_the_Cuvilli%C3%A9s_Theater_in_M%C3%BCnchner_Residenz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7685,
+      "hauteur": 5872
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Glass-roofed interior courtyard of the Rijksmuseum Amsterdam (2).jpg",
+      "description": "Cour intérieure sous verrière du Rijksmuseum Amsterdam, septembre 2024",
+      "categories": [
+        "Self-published work",
+        "Rijksmuseum Amsterdam - Atrium",
+        "Rijksmuseum Amsterdam in 2024",
+        "Transparent roofs in Amsterdam",
+        "Architecture of the Rijksmuseum Amsterdam"
+      ],
+      "auteur": "Ibex73",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_%282%29.jpg/1280px-Glass-roofed_interior_courtyard_of_the_Rijksmuseum_Amsterdam_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    }
+  ]
+}

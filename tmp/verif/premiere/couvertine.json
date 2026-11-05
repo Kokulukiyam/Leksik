@@ -1,0 +1,53 @@
+{
+  "termId": "couvertine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue d'ensemble de bâtiment ou de quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couvertine non visible ou trop petite."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vue d'ensemble de bâtiment ou de quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couvertine non visible ou trop petite."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue d'ensemble de bâtiment ou de quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couvertine non visible ou trop petite."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue d'ensemble de bâtiment ou de quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couvertine non visible ou trop petite."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue d'ensemble de bâtiment ou de quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couvertine non visible ou trop petite."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vue d'ensemble de bâtiment ou de quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couvertine non visible ou trop petite."
+    }
+  ]
+}

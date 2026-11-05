@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "toiture-vegetalisee",
+    "terme": "la toiture végétalisée",
+    "categorie": "Toitures",
+    "definition": "Toiture recouverte d'un substrat planté (sédums, herbes, arbustes) au-dessus de l'étanchéité.",
+    "priorite": 2,
+    "requetes": [
+      "green roof sedum",
+      "toiture végétalisée",
+      "incategory:\"Green roofs\""
+    ],
+    "incompatibles": [
+      "toiture-terrasse",
+      "toiture"
+    ],
+    "categoriesCommons": [
+      "Category:Sod roofs",
+      "Category:Roof gardens"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Casa awa.jpg",
+      "description": "esta imagen representa nuestro modelo de construcción etnica",
+      "categories": [
+        "Sod roofs",
+        "Awá",
+        "Self-published work",
+        "Stilt houses in Ecuador",
+        "Taken with Avvio 792"
+      ],
+      "auteur": "Edisson canticus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_awa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Casa_awa.jpg/1280px-Casa_awa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Buddha Sound Hybrid Lotus From My Garden.jpg",
+      "description": "বুদ্ধ সৌন্দর্য্য পদ্ম",
+      "categories": [
+        "Nelumbo (cultivars)",
+        "Gardeners",
+        "Roof gardens",
+        "Self-published work"
+      ],
+      "auteur": "Dipta's World",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Buddha_Sound_Hybrid_Lotus_From_My_Garden.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Buddha_Sound_Hybrid_Lotus_From_My_Garden.jpg/1280px-Buddha_Sound_Hybrid_Lotus_From_My_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Liepu iela 7 (Valmiera).jpg",
+      "description": "Liepu iela 7, Valmiera",
+      "categories": [
+        "Sod roofs",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Latvia photographs taken on 2008-10-28",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "7 (house number) in Latvia",
+        "Buildings in Valmiera",
+        "Files with coordinates missing SDC location of creation",
+        "Photos from Panoramio ID 118437",
+        "Liepu iela (Valmiera)"
+      ],
+      "auteur": "Ivars Indāns",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Liepu_iela_7_(Valmiera).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Liepu_iela_7_%28Valmiera%29.jpg/1280px-Liepu_iela_7_%28Valmiera%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Horta no terraço (16393222363).jpg",
+      "description": "edifício Planalto, Centro, São Paulo/SP.",
+      "categories": [
+        "Roof gardens",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Wagner Tamanaha"
+      ],
+      "auteur": "Wagner Tamanaha from Sao Paulo, Brazil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Horta_no_terra%C3%A7o_(16393222363).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Horta_no_terra%C3%A7o_%2816393222363%29.jpg/1280px-Horta_no_terra%C3%A7o_%2816393222363%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Berlin - Germany.jpg",
+      "description": "Berlin, Germany",
+      "categories": [
+        "Buildings in Germany photographed in 2018",
+        "Sod roofs",
+        "Self-published work",
+        "Skylines of Berlin",
+        "Roofs in Berlin",
+        "Hermannstraße (Berlin-Neukölln)"
+      ],
+      "auteur": "Sami Mlouhi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Berlin_-_Germany.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Berlin_-_Germany.jpg/1280px-Berlin_-_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Jardin de Berchigranges (2).jpg",
+      "description": "Jardin de Berchigranges (Granges-sur-Vologne, Vosges) : toiture végétalisée",
+      "categories": [
+        "Jardin de Berchigranges",
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Sod roofs",
+        "Self-published work"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jardin_de_Berchigranges_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Jardin_de_Berchigranges_%282%29.jpg/1280px-Jardin_de_Berchigranges_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    }
+  ]
+}

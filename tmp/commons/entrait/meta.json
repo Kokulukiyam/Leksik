@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "entrait",
+    "terme": "l'entrait",
+    "categorie": "Toitures",
+    "definition": "Poutre horizontale à la base d'une ferme, qui relie les pieds des arbalétriers.",
+    "priorite": 2,
+    "requetes": [
+      "tie beam roof truss",
+      "entrait ferme",
+      "king post truss tie beam"
+    ],
+    "incompatibles": [
+      "ferme",
+      "arbaletrier"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dachstuhl Mansardgiebeldach2.jpg",
+      "description": "WWWWWWWWWWW",
+      "categories": [
+        "Mansards",
+        "Roof trusses",
+        "Self-published work"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachstuhl_Mansardgiebeldach2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Dachstuhl_Mansardgiebeldach2.jpg/1280px-Dachstuhl_Mansardgiebeldach2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Förbindelselgången August 2025 01.jpg",
+      "description": "Förbindelselgången was built in 1912 connecting different parts of Stockholm's slaughterhouse, Sweden. When it was built, it was one of the world's most modern slaughterhouses and meat-packing districts. Today, the building is protected as a cultural heritage site.",
+      "categories": [
+        "Travel trailers",
+        "Roof trusses",
+        "Images recorded with pixel shifting",
+        "Self-published work",
+        "F-number f/8",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Taken with Fujifilm GFX 50S II",
+        "August 2025 in Stockholm",
+        "Enskede slakthus",
+        "Taken with Fujifilm GF 30mm f/3,5 R WR"
+      ],
+      "auteur": "ArildV",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelselg%C3%A5ngen_August_2025_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/F%C3%B6rbindelselg%C3%A5ngen_August_2025_01.jpg/1280px-F%C3%B6rbindelselg%C3%A5ngen_August_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 16189,
+      "hauteur": 10118
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Septem Mària Museum (Adria, Italy) 05.jpg",
+      "description": "Adria, Septem Mària Museum.",
+      "categories": [
+        "Septem Mària Museum (Adria, Italy)",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Italy",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2021-08-16",
+        "Wooden ceilings in Veneto",
+        "Taken with Xiaomi Redmi Note 10 5G"
+      ],
+      "auteur": "Threecharlie",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Septem_M%C3%A0ria_Museum_(Adria,_Italy)_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Septem_M%C3%A0ria_Museum_%28Adria%2C_Italy%29_05.jpg/1280px-Septem_M%C3%A0ria_Museum_%28Adria%2C_Italy%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 1792
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Nürnberger Altstadt bei Nacht DSCF2852.JPG",
+      "description": "Nürnberger Altstadt bei Nacht, Henkersteg",
+      "categories": [
+        "Taken with Fujifilm FinePix S9600",
+        "GFDL-1.2",
+        "Roof trusses",
+        "Self-published work",
+        "Night in Nuremberg",
+        "Henkersteg (Nürnberg)"
+      ],
+      "auteur": "Johann H. Addicks - addicks@gmx.net",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:N%C3%BCrnberger_Altstadt_bei_Nacht_DSCF2852.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/N%C3%BCrnberger_Altstadt_bei_Nacht_DSCF2852.JPG/1280px-N%C3%BCrnberger_Altstadt_bei_Nacht_DSCF2852.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3488,
+      "hauteur": 2616
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Förbindelsehallen, 2010a.jpg",
+      "description": "Slakthusområdet, Förbindelsehallen",
+      "categories": [
+        "Taken with Nikon Coolpix S51",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Interiors of factories in Stockholm",
+        "Photographs by Holger Ellgaard",
+        "Enskede slakthus"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelsehallen,_2010a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/F%C3%B6rbindelsehallen%2C_2010a.jpg/1280px-F%C3%B6rbindelsehallen%2C_2010a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2979,
+      "hauteur": 2139
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Förbindelselgången June 2025 01.jpg",
+      "description": "Förbindelselgången was built in 1912 connecting different part of Stockholm's slaughterhouse.",
+      "categories": [
+        "Images with annotations",
+        "Roof trusses",
+        "Images recorded with pixel shifting",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Taken with Fujifilm GFX 50S II",
+        "Enskede slakthus",
+        "Taken with Mamiya Sekor 55mm F2.8",
+        "Stockholm photographs taken on 2025-06-20"
+      ],
+      "auteur": "ArildV",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelselg%C3%A5ngen_June_2025_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/F%C3%B6rbindelselg%C3%A5ngen_June_2025_01.jpg/1280px-F%C3%B6rbindelselg%C3%A5ngen_June_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 12546,
+      "hauteur": 9410
+    }
+  ]
+}

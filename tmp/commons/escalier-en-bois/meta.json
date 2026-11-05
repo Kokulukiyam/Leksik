@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "escalier-en-bois",
+    "terme": "l'escalier en bois",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier dont les marches, limons et rampe sont en bois.",
+    "priorite": 2,
+    "requetes": [
+      "wooden staircase",
+      "escalier en bois",
+      "timber stairs"
+    ],
+    "incompatibles": [
+      "escalier"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden staircases",
+      "Category:Wooden stairs",
+      "Category:Staircases"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Casona recuperada por Socovesa, calle General Lagos, Valdivia.jpg",
+      "description": "Casona Calle General Lagos, Valdivia",
+      "categories": [
+        "Taken with Canon EOS 20D",
+        "Wooden stairs",
+        "Calle General Pedro Lagos",
+        "Self-published work",
+        "PD-self",
+        "Wooden stairs in Chile"
+      ],
+      "auteur": "Socovesa",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casona_recuperada_por_Socovesa,_calle_General_Lagos,_Valdivia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Casona_recuperada_por_Socovesa%2C_calle_General_Lagos%2C_Valdivia.jpg/1280px-Casona_recuperada_por_Socovesa%2C_calle_General_Lagos%2C_Valdivia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6.jpg",
+      "description": "Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "June 2024 in Lower Saxony",
+        "Amsbergstraße 27 (Bad Harzburg)"
+      ],
+      "auteur": "Steffen Dietrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg/1280px-Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:19870924090NR Gnemern (Jürgenshagen) Wasserschloß Treppe.jpg",
+      "description": "24.09.1987 DDR 2621 [18246] Gnemern (Jürgenshagen): Wasserschloß (GMP: 53.931812,11.832747), Schloßstraße. Das Herrenhaus in Gnemern ließ Fürst Borwin I. um 1218-1223 als Wasserburg zum Schutze des Landhandelsweges zwischen Rostock und Wismar erbauen. Besitzer waren die Adelsfamilien de Gnemare, Preen, Finecke, Reventlow, Vieregge und Oertzen. 1676 abgebrannt. Neubau des Gutshauses 1682-1685. Von 1661 bis 1945 befand es sich im Besitz der Freiherren von Meerheimb. Innen Ende des 19. Jh. im historistischen Stil ausgestattet. In der DDR-Zeit wurde das Wasserschloß ab 1981 saniert und gemeinnützi",
+      "categories": [
+        "Moats in Germany",
+        "Manor houses in Landkreis Rostock",
+        "Wooden staircases",
+        "Staircases in Mecklenburg-Vorpommern",
+        "1987 in Mecklenburg-Vorpommern",
+        "Files by Jörg Blobelt",
+        "Rittergüter in Mecklenburg-Vorpommern",
+        "Files with coordinates missing SDC location of creation (53° N, 11° E)",
+        "Staircases in castles",
+        "Gutshaus Gnemern"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870924090NR_Gnemern_(J%C3%BCrgenshagen)_Wasserschlo%C3%9F_Treppe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/19870924090NR_Gnemern_%28J%C3%BCrgenshagen%29_Wasserschlo%C3%9F_Treppe.jpg/1280px-19870924090NR_Gnemern_%28J%C3%BCrgenshagen%29_Wasserschlo%C3%9F_Treppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2589,
+      "hauteur": 2992
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ekte hussopp trapp.jpg",
+      "description": "Ekte hussopp i trapp",
+      "categories": [
+        "Serpula lacrymans",
+        "Copyrighted free use",
+        "Wooden stairs",
+        "Stairs with carpets"
+      ],
+      "auteur": "Mycoteam AS",
+      "licence": "Copyrighted free use",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ekte_hussopp_trapp.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ekte_hussopp_trapp.jpg/1280px-Ekte_hussopp_trapp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1712,
+      "hauteur": 1368
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Beautiful Staircase (3500222511).jpg",
+      "description": "Antebellum home with a beautiful staircase",
+      "categories": [
+        "Staircases",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Nannette Turner from Virginia Beach Va, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beautiful_Staircase_(3500222511).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Beautiful_Staircase_%283500222511%29.jpg/1280px-Beautiful_Staircase_%283500222511%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Malbork Castle 2023 090.jpg",
+      "description": "Malbork Castle is a 13th-century Teutonic castle and fortress located in the town of Malbork , Poland. It is the largest castle in the world measured by land area and is a classic example of a medieval fortress which on its completion in 1406 was the world's largest brick castle. UNESCO designated the \"Castle of the Teutonic Order in Malbork\" and the Malbork Castle Museum a World Heritage Site in December 1997. The Scotch Mist Gallery contains many photographs of historic buildings, monuments and memorials of Poland.",
+      "categories": [
+        "Castle in Malbork",
+        "Self-published work",
+        "Wooden staircases",
+        "Unassessed QI candidates",
+        "Files with coordinates missing SDC location of creation",
+        "September 2023 in Pomeranian Voivodeship"
+      ],
+      "auteur": "Scotch Mist",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Malbork_Castle_2023_090.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Malbork_Castle_2023_090.jpg/1280px-Malbork_Castle_2023_090.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4512
+    }
+  ]
+}

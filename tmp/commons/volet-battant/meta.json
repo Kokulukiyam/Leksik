@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "volet-battant",
+    "terme": "le volet battant",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Volet à un ou deux vantaux qui pivotent sur des gonds fixés au mur ou au tableau.",
+    "priorite": 1,
+    "requetes": [
+      "hinged shutters open",
+      "volets battants",
+      "wooden shutters"
+    ],
+    "incompatibles": [
+      "volet",
+      "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Window shutters",
+      "Category:Shutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Houses (8313912980).jpg",
+      "description": "Houses",
+      "categories": [
+        "Taken with Nikon D800",
+        "Houses",
+        "Window shutters",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs taken on 2012-09-21",
+        "Files from Steve Collis Flickr stream"
+      ],
+      "auteur": "Steve Collis from Melbourne, Australia",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Houses_(8313912980).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Houses_%288313912980%29.jpg/1280px-Houses_%288313912980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1472
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Kazimierz Buildings 06.JPG",
+      "description": "Colourful building decoration in the Kazimierz District of Cracow (Kraków), Poland. The Scotch Mist Gallery contains many photographs of historic buildings, monuments and memorials of Poland.",
+      "categories": [
+        "Shutters",
+        "Kazimierz",
+        "Self-published work",
+        "Restaurants in Kraków",
+        "Restaurants photographed in 2015",
+        "July 2015 in Kraków"
+      ],
+      "auteur": "Scotch Mist",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kazimierz_Buildings_06.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Kazimierz_Buildings_06.JPG/1280px-Kazimierz_Buildings_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Amiens France Buildings-in-Rue-Motte-02a.jpg",
+      "description": "Amiens, France: Details of the brick houses 33 and 35 in Rue Motte",
+      "categories": [
+        "April 2014 in Picardie",
+        "Taken with Canon EOS 5D Mark III",
+        "Window shutters",
+        "Self-published work",
+        "Information field template with formatting",
+        "Rue Motte (Amiens)",
+        "Blue and red objects",
+        "Images by Cccefalon",
+        "33 (house number) in France",
+        "35 (house number) in France",
+        "Images of France by User:Cccefalon",
+        "2014 in Amiens",
+        "France photographs taken on 2014-04-20",
+        "Files with coordinates missing SDC location of creation (49° N, 2° E)",
+        "Houses in Amiens",
+        "Street lights in Amiens",
+        "Window shutters in Amiens",
+        "Images with portrait aspect ratio by User:Cccefalon",
+        "Doors in Amiens"
+      ],
+      "auteur": "CEphoto, Uwe Aranas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amiens_France_Buildings-in-Rue-Motte-02a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Amiens_France_Buildings-in-Rue-Motte-02a.jpg/1280px-Amiens_France_Buildings-in-Rue-Motte-02a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3768,
+      "hauteur": 5652
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Roller shutter detail at YMCA, Dublin (48139385781).jpg",
+      "description": "Painted detail on roller shutter at YMCA, Dublin",
+      "categories": [
+        "Shutters",
+        "Uploads by ww2censor",
+        "2019 in Dublin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "YMCA Dublin"
+      ],
+      "auteur": "Metro Centric",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roller_shutter_detail_at_YMCA,_Dublin_(48139385781).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Roller_shutter_detail_at_YMCA%2C_Dublin_%2848139385781%29.jpg/1280px-Roller_shutter_detail_at_YMCA%2C_Dublin_%2848139385781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Brick building with shutters (Unsplash).jpg",
+      "description": "mvp 2016-03-15",
+      "categories": [
+        "CC-Zero",
+        "Window shutters",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "mvp mvp",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_building_with_shutters_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Brick_building_with_shutters_%28Unsplash%29.jpg/1280px-Brick_building_with_shutters_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3357,
+      "hauteur": 5128
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Indian Trading Post--Original Shutters--Ste Genevieve MO.jpg",
+      "description": "The original shutters of the Indian Trading Post in Ste. Geneviève, Missouri ; photographed in 1952. *The trading post was built by French Traders in 1784 to trade with the indians in New France.",
+      "categories": [
+        "Images from the Library of Congress",
+        "Window shutters",
+        "Historic American Buildings Survey of Missouri",
+        "PD US NPS",
+        "Files from the Historic American Buildings Survey",
+        "Doors in Missouri",
+        "Template Unknown (author)",
+        "Black and white photographs of Missouri",
+        "Indian Trading Post (Ste. Genevieve, Missouri)"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Indian_Trading_Post--Original_Shutters--Ste_Genevieve_MO.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Indian_Trading_Post--Original_Shutters--Ste_Genevieve_MO.jpg/1280px-Indian_Trading_Post--Original_Shutters--Ste_Genevieve_MO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3597,
+      "hauteur": 4615
+    }
+  ]
+}

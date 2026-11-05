@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "charniere",
+    "terme": "la charnière",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Ferrure articulée faite de deux lames reliées par un axe, qui permet à un vantail de pivoter.",
+    "priorite": 2,
+    "requetes": [
+      "butt hinge",
+      "charnière porte",
+      "door hinge"
+    ],
+    "incompatibles": [
+      "paumelle"
+    ],
+    "categoriesCommons": [
+      "Category:Hinges"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blechdose für Bonbons SWF 04 (fcm).jpg",
+      "description": "Bildinhalt: Blechdose für Bonbons mit Laschenscharnieren, aufgeklappt. Close-Up eines der Laschenscharniere Aufnahmeort: Frankfurt am Main, Deutschland",
+      "categories": [
+        "Hinges",
+        "Taken with Canon EOS 600D",
+        "Self-published work",
+        "Images by Frank C. Müller",
+        "Sweets tins",
+        "Photographs taken on 2015-08-31"
+      ],
+      "auteur": "Photographie : Frank C. Müller , Frankfurt am Main",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blechdose_f%C3%BCr_Bonbons_SWF_04_(fcm).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Blechdose_f%C3%BCr_Bonbons_SWF_04_%28fcm%29.jpg/1280px-Blechdose_f%C3%BCr_Bonbons_SWF_04_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:ALUMINUM CONTINUOUS GEARED HINGE.jpg",
+      "description": "Design and origin of the aluminum continuous geared hinge.",
+      "categories": [
+        "English language",
+        "Hinges",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Austin R. Baer Hingeinventor",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:ALUMINUM_CONTINUOUS_GEARED_HINGE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/ALUMINUM_CONTINUOUS_GEARED_HINGE.jpg/1280px-ALUMINUM_CONTINUOUS_GEARED_HINGE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1338,
+      "hauteur": 932
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Butt Hinge annotated.jpg",
+      "description": "This is an annotated copy of the file Hinge3P.jpg uploaded by Audrius Meskauskas. Apart from illustrating a butt hinge, it illustrates a revolute joint.",
+      "categories": [
+        "Hinges",
+        "Self-published work",
+        "Revolute joints"
+      ],
+      "auteur": "JonRichfield",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Butt_Hinge_annotated.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Butt_Hinge_annotated.jpg/1280px-Butt_Hinge_annotated.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1340,
+      "hauteur": 860
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Blechdose für Bonbons SWF 03 (fcm).jpg",
+      "description": "Bildinhalt: Weiße Blechdose für Bonbons mit Laschenscharnieren, aufgeklappt, auf grauem Hintergrund Aufnahmeort: Frankfurt am Main, Deutschland",
+      "categories": [
+        "Hinges",
+        "Taken with Canon EOS 600D",
+        "Self-published work",
+        "Images by Frank C. Müller",
+        "Sweets tins",
+        "Photographs taken on 2015-08-31"
+      ],
+      "auteur": "Photographie : Frank C. Müller , Frankfurt am Main",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blechdose_f%C3%BCr_Bonbons_SWF_03_(fcm).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Blechdose_f%C3%BCr_Bonbons_SWF_03_%28fcm%29.jpg/1280px-Blechdose_f%C3%BCr_Bonbons_SWF_03_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:CharniereRouillee.JPG",
+      "description": "Charnière rouillée (par le sel de la mer)",
+      "categories": [
+        "Hinges",
+        "Taken with Nikon D80",
+        "Rust",
+        "Self-published work"
+      ],
+      "auteur": "Eric Magnan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CharniereRouillee.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/CharniereRouillee.JPG/1280px-CharniereRouillee.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blind hinge.JPG",
+      "description": "Blind hinge",
+      "categories": [
+        "Hinges",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "HandigeHarry",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blind_hinge.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Blind_hinge.JPG/1280px-Blind_hinge.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1308,
+      "hauteur": 1924
+    }
+  ]
+}

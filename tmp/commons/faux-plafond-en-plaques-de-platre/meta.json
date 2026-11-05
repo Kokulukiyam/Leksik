@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "faux-plafond-en-plaques-de-platre",
+    "terme": "le faux plafond en plaques de plâtre",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Faux plafond continu et lisse fait de plaques de plâtre vissées sur une ossature cachée.",
+    "priorite": 1,
+    "requetes": [
+      "plasterboard ceiling installation",
+      "faux plafond placo",
+      "drywall ceiling"
+    ],
+    "incompatibles": [
+      "faux-plafond",
+      "plaque-de-platre"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Drywall firestop problem4.jpg",
+      "description": "Finished, painted, fire-resistance rated drywall assembly. A common deficiency: Lift ceiling tiles and find electrical and mechanical service penetrations without a firestop .",
+      "categories": [
+        "Building code violations",
+        "Firestops",
+        "Drywalls",
+        "Self-published work",
+        "PD-self",
+        "No firestop at all - empty hole",
+        "Compromised drywall"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drywall_firestop_problem4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Drywall_firestop_problem4.jpg/1280px-Drywall_firestop_problem4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3482,
+      "hauteur": 2312
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Drywall-4221R.jpg",
+      "description": "Textured drywall ceiling.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-H2",
+        "Drywalls",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Loadmaster",
+        "Wall textures"
+      ],
+      "auteur": "Loadmaster (David R. Tribble) This image was made by Loadmaster (David R. Tribble) . Email the author: David R. Tribble Also see my personal gallery at Google Photos",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drywall-4221R.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Drywall-4221R.jpg/1280px-Drywall-4221R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ceiling sheetrock damaged by water so paint was peeling.jpg",
+      "description": "Most likely moisture, possibly from a vaporizer, caused the paint to peel off of a sheetrocked ceiling.",
+      "categories": [
+        "Taken with Sony DSC-W530",
+        "CC-Zero",
+        "Drywalls",
+        "Self-published work",
+        "Ceilings damaged by water",
+        "Compromised drywall"
+      ],
+      "auteur": "Tomwsulcer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_sheetrock_damaged_by_water_so_paint_was_peeling.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ceiling_sheetrock_damaged_by_water_so_paint_was_peeling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 931,
+      "hauteur": 678
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ceiling-and-windows-in-an-attic-apartment.jpg",
+      "description": "White ceilings and Velux windows in an apartment built in the attic.",
+      "categories": [
+        "Ceilings",
+        "Penthouses",
+        "Drywalls",
+        "Self-published work",
+        "Velux sloped windows"
+      ],
+      "auteur": "Kotivalo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling-and-windows-in-an-attic-apartment.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ceiling-and-windows-in-an-attic-apartment.jpg/1280px-Ceiling-and-windows-in-an-attic-apartment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2490,
+      "hauteur": 1619
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Led spotlu kademeli Alçıpan asma tavan uygulama.jpg",
+      "description": "LED spotlight tiered drywall suspended ceiling application",
+      "categories": [
+        "Dropped ceilings",
+        "Self-published work",
+        "Drywall"
+      ],
+      "auteur": "Zekeriyya güneş GNSdekor®",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Led_spotlu_kademeli_Al%C3%A7%C4%B1pan_asma_tavan_uygulama.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Led_spotlu_kademeli_Al%C3%A7%C4%B1pan_asma_tavan_uygulama.jpg/1280px-Led_spotlu_kademeli_Al%C3%A7%C4%B1pan_asma_tavan_uygulama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1334,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Running wall molding for a suspended ceiling grid in the back of house area in the LIRR concourse. 04-25-2019 (33830512818).jpg",
+      "description": "Running wall molding for a suspended ceiling grid in the back of house area in the LIRR concourse. 04-25-2019",
+      "categories": [
+        "Drywalls",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/04/26"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Running_wall_molding_for_a_suspended_ceiling_grid_in_the_back_of_house_area_in_the_LIRR_concourse._04-25-2019_(33830512818).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Running_wall_molding_for_a_suspended_ceiling_grid_in_the_back_of_house_area_in_the_LIRR_concourse._04-25-2019_%2833830512818%29.jpg/1280px-Running_wall_molding_for_a_suspended_ceiling_grid_in_the_back_of_house_area_in_the_LIRR_concourse._04-25-2019_%2833830512818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

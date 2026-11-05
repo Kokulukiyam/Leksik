@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "madrier",
+    "terme": "le madrier",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Pièce de bois de sciage épaisse et large, utilisée en charpente, en coffrage ou en platelage.",
+    "priorite": 2,
+    "requetes": [
+      "timber baulk",
+      "madrier bois",
+      "thick wooden planks stack"
+    ],
+    "incompatibles": [
+      "bois"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden beams",
+      "Category:Planks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Conagher's Farm in Co. Antrim (9361801265).jpg",
+      "description": "Apparently this was the ancestral home of William McKinley, 25th US President? The rafters were used for storage. Date: 1890s? NLI Ref.: L_CAB_02181",
+      "categories": [
+        "Ireland in the 1890s",
+        "Flat irons",
+        "William McKinley",
+        "Settlements",
+        "Wooden beams",
+        "Ballymoney",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Images from the National Library of Ireland",
+        "Supported by Wikimedia UK",
+        "Files from Flickr's 'The Commons'",
+        "Farmhouses in Northern Ireland",
+        "Interiors of houses in the United Kingdom",
+        "Chairs in the United Kingdom",
+        "Black and white photographs of Northern Ireland",
+        "Content media by years - Supported by Wikimedia UK - 2014",
+        "Files with coordinates missing SDC location of creation",
+        "Fireplaces in Northern Ireland",
+        "Wooden stools",
+        "Historic houses in County Antrim"
+      ],
+      "auteur": "Robert French",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Conagher%27s_Farm_in_Co._Antrim_(9361801265).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Conagher%27s_Farm_in_Co._Antrim_%289361801265%29.jpg/1280px-Conagher%27s_Farm_in_Co._Antrim_%289361801265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1652
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Plank with medicine ball.JPG",
+      "description": "Medicine ball plank",
+      "categories": [
+        "Medicine balls",
+        "Planks",
+        "Self-published work"
+      ],
+      "auteur": "Jgcastor",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plank_with_medicine_ball.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Plank_with_medicine_ball.JPG/1280px-Plank_with_medicine_ball.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 900
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Holzbalken.jpg",
+      "description": "holzbalken",
+      "categories": [
+        "Wooden beams",
+        "Self-published work",
+        "Uploaded with Mobile/Android"
+      ],
+      "auteur": "Wertsache",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Holzbalken.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Holzbalken.jpg/1280px-Holzbalken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Woman doing push-up on wooden terrace near lake.jpg",
+      "description": "Women exercising.",
+      "categories": [
+        "Planks",
+        "Women exercising",
+        "Young women wearing crop tops",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Nenad Stojkovic"
+      ],
+      "auteur": "Nenad Stojkovic",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Woman_doing_push-up_on_wooden_terrace_near_lake.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Woman_doing_push-up_on_wooden_terrace_near_lake.jpg/1280px-Woman_doing_push-up_on_wooden_terrace_near_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Fragment van een strijkbalk, afkomstig uit boerderij \"De Hoeve\" te Huissen. - Unknown - 20317047 - RCE.jpg",
+      "description": "DIVERSEN: fragment van een strijkbalk, afkomstig uit boerderij \"De Hoeve\" te Huissen.",
+      "categories": [
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Wooden beams",
+        "Hoeve 18, Huissen",
+        "Photographs by A.H.C. Schollen",
+        "Strijkbalken in Nederland"
+      ],
+      "auteur": "Ton Schollen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fragment_van_een_strijkbalk,_afkomstig_uit_boerderij_%22De_Hoeve%22_te_Huissen._-_Unknown_-_20317047_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Fragment_van_een_strijkbalk%2C_afkomstig_uit_boerderij_%22De_Hoeve%22_te_Huissen._-_Unknown_-_20317047_-_RCE.jpg/1280px-Fragment_van_een_strijkbalk%2C_afkomstig_uit_boerderij_%22De_Hoeve%22_te_Huissen._-_Unknown_-_20317047_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3415,
+      "hauteur": 2244
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:USMC-120510-M-GR773-054.jpg",
+      "description": "Recruits of Company A \"war cry\" while in the plank position aboard Marine Corps Recruit Depot San Diego May 10. Recruits \"war cry\" to help keep their motivation high during their physical training sessions.",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "PD US Military",
+        "United States Marine Corps",
+        "Planks",
+        "Files created by the United States Marine Corps with known IDs",
+        "Import by User:Slick-o-bot/Marines.mil images",
+        "Photographs taken on 2012-05-10",
+        "Marines.mil photos requiring renaming"
+      ],
+      "auteur": "Cpl. Eric Quintanillla",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:USMC-120510-M-GR773-054.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/USMC-120510-M-GR773-054.jpg/1280px-USMC-120510-M-GR773-054.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

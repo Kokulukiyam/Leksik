@@ -1,0 +1,58 @@
+{
+  "termId": "porte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vieille porte en planches à fortes pentures et poignée de fer, dans un mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pentures et ferrures dominantes : confusion avec penture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan sur une porte rouge à panneaux avec numéro, serrure et fente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail serrure et numéro, porte non lisible en entier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maison de bois et pierre en ruine avec une petite porte à l'étage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte petite et ambiguë."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand vantail de porte sculptée de bas-reliefs entrouvert dans une arcade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bas-reliefs dominants, vantail seul, doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte ancienne en bois à deux battants sous un arc en pierre, au sommet d'escaliers.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.38,
+        "y": 0.08,
+        "largeur": 0.33,
+        "hauteur": 0.54
+      },
+      "lieu": "Asso, Italie",
+      "note": "Porte entière, claire, encadrée pour la distinguer de l'escalier et de l'arc."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte à lames verticales brillantes avec poignée, de très près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan abstrait, pas lisible."
+    }
+  ]
+}

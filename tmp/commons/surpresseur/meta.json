@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "surpresseur",
+    "terme": "le surpresseur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Groupe formé d'une pompe et d'un réservoir sous pression qui augmente la pression de l'eau dans le bâtiment.",
+    "priorite": 1,
+    "requetes": [
+      "booster pump pressure tank",
+      "surpresseur eau",
+      "water pressure booster pump"
+    ],
+    "incompatibles": [
+      "pompe-de-surface",
+      "reservoir-a-vessie",
+      "manometre"
+    ],
+    "categoriesCommons": [
+      "Category:Water pumps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Abandoned electric water pump-IMG 1059.jpg",
+      "description": "Abandoned electric water pump",
+      "categories": [
+        "Water pumps",
+        "Photos by Bijay chaurasia"
+      ],
+      "auteur": "Bijay Chaurasia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abandoned_electric_water_pump-IMG_1059.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Abandoned_electric_water_pump-IMG_1059.jpg/1280px-Abandoned_electric_water_pump-IMG_1059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3920
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Abandoned electric water pump-IMG 1056.jpg",
+      "description": "Abandoned electric water pump",
+      "categories": [
+        "Water pumps",
+        "2021 photographs of Nepal",
+        "Photos by Bijay chaurasia",
+        "Photographs taken on 2021-08-23",
+        "Blue machines"
+      ],
+      "auteur": "Bijay Chaurasia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abandoned_electric_water_pump-IMG_1056.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Abandoned_electric_water_pump-IMG_1056.jpg/1280px-Abandoned_electric_water_pump-IMG_1056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4488,
+      "hauteur": 3590
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A young girl fetching water on a hand-operated water pump 02.jpg",
+      "description": "A young girl fetching water on a hand-operated water pump",
+      "categories": [
+        "Water pumps",
+        "Self-published work",
+        "AWC 2026 In Nigeria",
+        "AWC 2026 in the Tyap Community"
+      ],
+      "auteur": "Danjuma Anthony",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_young_girl_fetching_water_on_a_hand-operated_water_pump_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/A_young_girl_fetching_water_on_a_hand-operated_water_pump_02.jpg/1280px-A_young_girl_fetching_water_on_a_hand-operated_water_pump_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:3. Saving lives - now and in the future (9065226097).jpg",
+      "description": "When disaster strikes, we are there. We help people caught up in natural disasters and conflict - typically by providing clean water, food and sanitation in disaster zones. As far as we can, we strive to ensure that civilians are protected too. We also seek to reduce the risk to poor people of future disasters by continuing to work with them long after the immediate crisis is over, and through long-term efforts to build people's resilience to shocks. Building resilience is about helping people thrive and realise their ambitions despite the threat of crises such as drought, war or rising food p",
+      "categories": [
+        "Children of the Democratic Republic of the Congo",
+        "Water pumps",
+        "Taken with Canon EOS-1Ds Mark II",
+        "Oxfam",
+        "Flickr images reviewed by FlickreviewR",
+        "Images from Oxfam East Africa",
+        "Images from Oxfam East Africa need checking",
+        "Jerrycans in Africa",
+        "Mugunga camp"
+      ],
+      "auteur": "Oxfam East Africa",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3._Saving_lives_-_now_and_in_the_future_(9065226097).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/3._Saving_lives_-_now_and_in_the_future_%289065226097%29.jpg/1280px-3._Saving_lives_-_now_and_in_the_future_%289065226097%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4992,
+      "hauteur": 3328
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A girl using hand operating pump to fetch water 02.jpg",
+      "description": "A girl using hand operating pump to fetch water",
+      "categories": [
+        "Water pumps",
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "AWC 2026 in the Tyap Community"
+      ],
+      "auteur": "Holiness Istifanus",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_girl_using_hand_operating_pump_to_fetch_water_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/A_girl_using_hand_operating_pump_to_fetch_water_02.jpg/1280px-A_girl_using_hand_operating_pump_to_fetch_water_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2010-365-141 Don't Pump the Red Pump! (4628466124).jpg",
+      "description": "You can't, it's locked.",
+      "categories": [
+        "Water pumps",
+        "Hand piston well pumps",
+        "Padlocks",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2010-365-141_Don%27t_Pump_the_Red_Pump!_(4628466124).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2010-365-141_Don%27t_Pump_the_Red_Pump%21_%284628466124%29.jpg/1280px-2010-365-141_Don%27t_Pump_the_Red_Pump%21_%284628466124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2170,
+      "hauteur": 1444
+    }
+  ]
+}

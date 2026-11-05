@@ -1,0 +1,53 @@
+{
+  "termId": "enduit-tyrolien",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade avec peinture murale (Lüftlmalerei).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La peinture domine, l'enduit n'est pas lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maison alpine décorée de peintures murales, volets en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La peinture domine, l'enduit n'est pas lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade avec peinture murale (Lüftlmalerei).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La peinture domine, l'enduit n'est pas lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Peinture murale avec inscription au-dessus d'une porte cintrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La peinture domine, l'enduit n'est pas lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade avec peinture murale (Lüftlmalerei).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La peinture domine, l'enduit n'est pas lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pignon d'un hôtel de ville ancien orné de peintures, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La peinture domine, l'enduit n'est pas lisible."
+    }
+  ]
+}

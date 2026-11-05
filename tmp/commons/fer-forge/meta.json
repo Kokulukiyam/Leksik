@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "fer-forge",
+    "terme": "le fer forgé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Fer travaillé à chaud au marteau en barres tordues, volutes et pointes, pour grilles, balcons et rampes.",
+    "priorite": 1,
+    "requetes": [
+      "wrought iron railing",
+      "wrought iron gate",
+      "fer forgé"
+    ],
+    "incompatibles": [
+      "fonte",
+      "garde-corps",
+      "garde-corps-en-fer-forge"
+    ],
+    "categoriesCommons": [
+      "Category:Wrought iron",
+      "Category:Wrought iron gates",
+      "Category:Ironwork"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Alte Grabeinfassung - old grave border.jpg",
+      "description": "Alte Grabeinfassung - old grave border",
+      "categories": [
+        "Wrought iron",
+        "Self-published work",
+        "Frank Lehmann"
+      ],
+      "auteur": "Frank Lehmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alte_Grabeinfassung_-_old_grave_border.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Alte_Grabeinfassung_-_old_grave_border.jpg/1280px-Alte_Grabeinfassung_-_old_grave_border.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4652,
+      "hauteur": 3101
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Eglise saint joseph auby 2009 (2).JPG",
+      "description": "Eglise Saint Joseph Auby",
+      "categories": [
+        "Taken with Pentax Optio 330GS",
+        "CC-Zero",
+        "Église Saint-Joseph d'Auby",
+        "Wrought iron gates",
+        "Self-published work"
+      ],
+      "auteur": "HUOT Jean-Louis",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eglise_saint_joseph_auby_2009_(2).JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Eglise_saint_joseph_auby_2009_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:106 West Clay Street (6029601403).jpg",
+      "description": "Address/Title : 106 West Clay Street Photographer : Zehmer, John G. (John Granderson), 1942- Original Description (from Book) : This good Italianate house has a fine cast iron porch with its room cresting and a cast iron porch. The stone key stones in the segmental arches over the windows are unusual. City/Location : Richmond (Va.) Date of photograph : ca. 1978 Map URL : maps.google.com/maps?q=37.547883,+-77.441172+(106%20West%... Original Publication : Zehmer, John G., and Robert P. Winthrop. 1978. The Jackson Ward historic district. Richmond: Dept. of Planning and Community Development. Righ",
+      "categories": [
+        "Ironwork",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Porches in Virginia",
+        "Brick houses in Richmond, Virginia",
+        "Files with coordinates missing SDC location of creation",
+        "Iron-lace galleries in Virginia",
+        "Photos of Jackson Ward by John G. Zehmer Jr."
+      ],
+      "auteur": "VCU Libraries from Richmond, VA, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:106_West_Clay_Street_(6029601403).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/106_West_Clay_Street_%286029601403%29.jpg/1280px-106_West_Clay_Street_%286029601403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2702,
+      "hauteur": 4002
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Arundel Castle 1.JPG",
+      "description": "Ceci est une image d'un bâtiment classé (Angleterre et Pays de Galles) portant le numéro 1371308 .",
+      "categories": [
+        "Taken with Canon EOS 350D",
+        "Arundel Castle",
+        "Wrought iron",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Images from Wiki Loves Monuments 2013",
+        "Images from Wiki Loves Monuments 2013 in the United Kingdom",
+        "Images from Wiki Loves Monuments 2013 in England",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "United Kingdom photographs taken on 2011-08-13",
+        "WLM-UK 2013 unfiltered 09-23"
+      ],
+      "auteur": "Africanchild",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arundel_Castle_1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Arundel_Castle_1.JPG/1280px-Arundel_Castle_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bourcq-FR-08-église Saint-Nicolas-05.jpg",
+      "description": "Bourcq-Haut (Ardennes, France), l'église Saint-Nicolas",
+      "categories": [
+        "Église Saint-Nicolas, Bourcq",
+        "Taken with Olympus E-520",
+        "Wrought iron gates",
+        "Self-published work",
+        "Church portals in France"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bourcq-FR-08-%C3%A9glise_Saint-Nicolas-05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bourcq-FR-08-%C3%A9glise_Saint-Nicolas-05.jpg/1280px-Bourcq-FR-08-%C3%A9glise_Saint-Nicolas-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Arte en fierro - panoramio - Audolina Ines Menese… (7).jpg",
+      "description": "arte en fierro",
+      "categories": [
+        "Ironwork",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2006-01-01"
+      ],
+      "auteur": "Audolina Ines Menese…",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arte_en_fierro_-_panoramio_-_Audolina_Ines_Menese%E2%80%A6_(7).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Arte_en_fierro_-_panoramio_-_Audolina_Ines_Menese%E2%80%A6_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 922,
+      "hauteur": 692
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "acier-galvanise",
+    "terme": "l'acier galvanisé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Acier recouvert de zinc, d'aspect gris argenté mat, souvent pailleté, qui le protège de la rouille.",
+    "priorite": 2,
+    "requetes": [
+      "galvanized steel",
+      "hot dip galvanized steel surface",
+      "acier galvanisé"
+    ],
+    "incompatibles": [
+      "acier"
+    ],
+    "categoriesCommons": [
+      "Category:Galvanization",
+      "Category:Hot-dip galvanizing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Galvanizing crane operator.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Chemical plants",
+        "Hot-dip galvanizing",
+        "Self-published work",
+        "Factories in South Africa",
+        "Images from Wiki Loves Africa 2017",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Files with coordinates missing SDC location of creation",
+        "Remote controls for cranes",
+        "Images from Wiki Loves Africa 2017 in South Africa"
+      ],
+      "auteur": "Babalon246",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Galvanizing_crane_operator.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Galvanizing_crane_operator.jpg/1280px-Galvanizing_crane_operator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2976,
+      "hauteur": 3968
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Die Gartenlaube (1892) b 030 1.jpg",
+      "description": "no caption",
+      "categories": [
+        "Galvanization",
+        "History of electrical engineering",
+        "PD-old-80-expired",
+        "Gartenlaube (1892)",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "various",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Die_Gartenlaube_(1892)_b_030_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Die_Gartenlaube_%281892%29_b_030_1.jpg/1280px-Die_Gartenlaube_%281892%29_b_030_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1730,
+      "hauteur": 1083
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:The Hot Dip Galvanizing Process with workers.jpg",
+      "description": "The Hot Dip Galvanizing Process with workers",
+      "categories": [
+        "Hot-dip galvanizing",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Government of the Autonomous Province of Vojvodina",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Hot_Dip_Galvanizing_Process_with_workers.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/The_Hot_Dip_Galvanizing_Process_with_workers.jpg/1280px-The_Hot_Dip_Galvanizing_Process_with_workers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3851,
+      "hauteur": 2567
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Оцинковка изделие.JPG",
+      "description": "",
+      "categories": [
+        "Taken with Canon PowerShot A630",
+        "Galvanization",
+        "Media lacking a description"
+      ],
+      "auteur": "Vizu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9E%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D0%B5.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%D0%9E%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D0%B5.JPG/1280px-%D0%9E%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D0%B5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1832
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Hot-dip galvanization process.jpg",
+      "description": "​Hot-dip galvanization process",
+      "categories": [
+        "Hot-dip galvanizing",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "jimpg2_2015",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hot-dip_galvanization_process.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hot-dip_galvanization_process.jpg/1280px-Hot-dip_galvanization_process.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2368,
+      "hauteur": 1586
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Industries of War - Barbed Wire - MAUFACTURING BARBED WIRE. Galvanizing shop where wire is galvanized. Pittsburgh Steel Co., Monessen, Pennsylvania - NARA - 31486007.jpg",
+      "description": "Scope and content: Photographer: PITTSBURGH STEEL CO.",
+      "categories": [
+        "PD US Military",
+        "Galvanization",
+        "Monessen, Pennsylvania",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "US National Archives series: American Unofficial Collection of World War I Photographs",
+        "Template Unknown (author)",
+        "Barbed wire in World War I",
+        "US National Archives location: other",
+        "Pittsburg Steel Company",
+        "Barbed wire production in the United States in World War I"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Industries_of_War_-_Barbed_Wire_-_MAUFACTURING_BARBED_WIRE._Galvanizing_shop_where_wire_is_galvanized._Pittsburgh_Steel_Co.,_Monessen,_Pennsylvania_-_NARA_-_31486007.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Industries_of_War_-_Barbed_Wire_-_MAUFACTURING_BARBED_WIRE._Galvanizing_shop_where_wire_is_galvanized._Pittsburgh_Steel_Co.%2C_Monessen%2C_Pennsylvania_-_NARA_-_31486007.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 9032,
+      "hauteur": 6263
+    }
+  ]
+}

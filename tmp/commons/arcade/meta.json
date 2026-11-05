@@ -1,0 +1,146 @@
+{
+  "terme": {
+    "id": "arcade",
+    "terme": "l'arcade",
+    "categorie": "Façade et ouvertures",
+    "definition": "Suite d'arcs portés par des piliers ou des colonnes qui bordent une façade et forment un passage couvert.",
+    "priorite": 2,
+    "requetes": [
+      "arcade street building",
+      "arcades rue",
+      "covered arcade colonnade shops"
+    ],
+    "incompatibles": [
+      "arc",
+      "colonne"
+    ],
+    "categoriesCommons": [
+      "Category:Arcades",
+      "Category:Arches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A Colonnade, Partly Ruined, with Figures MET DT3176.jpg",
+      "description": "Drawing; Drawings",
+      "categories": [
+        "CC-Zero",
+        "Arcades",
+        "Giacomo Guardi",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Drawings in the Robert Lehman Collection (Metropolitan Museum of Art)",
+        "Drawings by Francesco Guardi in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Giacomo Guardi / Francesco Guardi",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Colonnade,_Partly_Ruined,_with_Figures_MET_DT3176.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/A_Colonnade%2C_Partly_Ruined%2C_with_Figures_MET_DT3176.jpg/1280px-A_Colonnade%2C_Partly_Ruined%2C_with_Figures_MET_DT3176.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2488,
+      "hauteur": 3722
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Arches leading to Aleksis Kiven katu on a snowy evening in February 2025.jpg",
+      "description": "Arches leading to the street Aleksis Kiven katu in Vallila, Helsinki, Finland on a snowy evening in February 2025.",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus E-M1",
+        "Arches",
+        "License migration redundant",
+        "Harju, Helsinki",
+        "Aleksis Kiven katu",
+        "Self-published work",
+        "February 2025 in Helsinki",
+        "Snow in Helsinki",
+        "Evening in Helsinki"
+      ],
+      "auteur": "JIP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arches_leading_to_Aleksis_Kiven_katu_on_a_snowy_evening_in_February_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Arches_leading_to_Aleksis_Kiven_katu_on_a_snowy_evening_in_February_2025.jpg/1280px-Arches_leading_to_Aleksis_Kiven_katu_on_a_snowy_evening_in_February_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Arcades Cinquantenaire.jpg",
+      "description": "Monument érigé à Bruxelles à l'initiative du roi Léopold II, en commémoration du cinquantième anniversaire de l'indépendance de la Belgique.",
+      "categories": [
+        "Arcades",
+        "Cinquantenaire Museum",
+        "Self-published work",
+        "Large images"
+      ],
+      "auteur": "Aurélien L'Hoost",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arcades_Cinquantenaire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Arcades_Cinquantenaire.jpg/1280px-Arcades_Cinquantenaire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 23298,
+      "hauteur": 4545
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Christmas market Schloss Charlottenburg Berlin-Charlottenburg 2025-12-17 04.jpg",
+      "description": "Christmas market Schloss Charlottenburg in Berlin-Charlottenburg at night.",
+      "categories": [
+        "CC-Zero",
+        "Crowds",
+        "Christmas markets",
+        "Arches",
+        "Christmas lights",
+        "Night photography",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Leonhard Lenz",
+        "Christmas 2025 in Berlin",
+        "Weihnachtsmarkt Schloss Charlottenburg",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Germany",
+        "Images from Wiki Loves Folklore 2026, DE-BE"
+      ],
+      "auteur": "Leonhard Lenz",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Christmas_market_Schloss_Charlottenburg_Berlin-Charlottenburg_2025-12-17_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Christmas_market_Schloss_Charlottenburg_Berlin-Charlottenburg_2025-12-17_04.jpg/1280px-Christmas_market_Schloss_Charlottenburg_Berlin-Charlottenburg_2025-12-17_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8144,
+      "hauteur": 5424
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Arcade (9336323206).jpg",
+      "description": "A victorian arcade in okeampton - Devon",
+      "categories": [
+        "Arcades",
+        "Okehampton",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files uploaded by Ltn12345/Flickr/December 2021"
+      ],
+      "auteur": "oatsy40",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arcade_(9336323206).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Arcade_%289336323206%29.jpg/1280px-Arcade_%289336323206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Arches passage.jpg",
+      "description": "Arches gives different feel",
+      "categories": [
+        "Kuwait",
+        "Arches",
+        "Self-published work"
+      ],
+      "auteur": "Aabbou",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arches_passage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Arches_passage.jpg/1280px-Arches_passage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4381,
+      "hauteur": 6070
+    }
+  ]
+}

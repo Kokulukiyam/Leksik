@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "tuile-faitiere",
+    "terme": "la tuile faîtière",
+    "categorie": "Toitures",
+    "definition": "Tuile arrondie ou en angle qui recouvre la ligne de faîtage.",
+    "priorite": 2,
+    "requetes": [
+      "ridge tiles roof",
+      "tuile faîtière",
+      "ridge cap tiles"
+    ],
+    "incompatibles": [
+      "faitage",
+      "tuile"
+    ],
+    "categoriesCommons": [
+      "Category:Ridge tiles",
+      "Category:Roof tiles",
+      "Category:Roof ridges"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Kaputtes Scheuendach.JPG",
+      "description": "Kaputtes Scheunendach, fotografiert in Ladenburg (Baden-Württemberg, Deutschland)",
+      "categories": [
+        "Biberschwanz roofs in Germany",
+        "Ladenburg",
+        "Ridge tiles",
+        "Self-published work",
+        "Files by 4028mdk09",
+        "Tiled roofs in Rhein-Neckar-Kreis",
+        "Damaged roofs in Germany",
+        "Blue sky in Rhein-Neckar-Kreis"
+      ],
+      "auteur": "4028mdk09",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kaputtes_Scheuendach.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Kaputtes_Scheuendach.JPG/1280px-Kaputtes_Scheuendach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dachziegel-Pillichsdorf.jpg",
+      "description": "Roof tile of church St. Martin in Pillichsdorf / Austria; gothic about 1340; 41,5 x 19,5 1,9 cm (Nasenhöhe 3,5 cm)",
+      "categories": [
+        "GFDL",
+        "Roof tiles",
+        "Pillichsdorf",
+        "Pfarrkirche Pillichsdorf",
+        "License migration redundant",
+        "Self-published work",
+        "Roof tiles in Austria"
+      ],
+      "auteur": "Plutho",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachziegel-Pillichsdorf.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Dachziegel-Pillichsdorf.jpg/1280px-Dachziegel-Pillichsdorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1491,
+      "hauteur": 3110
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Paris 75018 Montmartre roofs 02.jpg",
+      "description": "Street View from Paris",
+      "categories": [
+        "Taken with Sony DSC-W50",
+        "Roofs in Paris",
+        "Roof ridges",
+        "Self-published work",
+        "November 2006 in Paris",
+        "Eiffel Tower from Montmartre",
+        "Roof hatches"
+      ],
+      "auteur": "Vania Teofilo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paris_75018_Montmartre_roofs_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Paris_75018_Montmartre_roofs_02.jpg/1280px-Paris_75018_Montmartre_roofs_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Vieux Logis à Fontainebleau le 12 septembre 2014 - 7.jpg",
+      "description": "Cette image a été versée dans le cadre de Wiki Loves Monuments 2014 .",
+      "categories": [
+        "Base Mérimée",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "Monuments historiques inscrits",
+        "License migration redundant",
+        "Ridge tiles",
+        "Vieux Logis",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Weather vanes in France",
+        "Ceramics in France",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2014 in France",
+        "Finials in France",
+        "Images from Wiki Loves Monuments 2014",
+        "Cultural heritage monuments in France with known IDs",
+        "Perching birds in art",
+        "Sculptures of birds in France",
+        "France photographs taken on 2014-09-12"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vieux_Logis_%C3%A0_Fontainebleau_le_12_septembre_2014_-_7.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Vieux_Logis_%C3%A0_Fontainebleau_le_12_septembre_2014_-_7.jpg/1280px-Vieux_Logis_%C3%A0_Fontainebleau_le_12_septembre_2014_-_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dachfirst HD mit Vogel Juli 2012.JPG",
+      "description": "Junger Star (Sturnus vulgaris) auf Dachfirst in Heidelberg (Baden-Württemberg, Deutschland)",
+      "categories": [
+        "Roof ridges",
+        "Self-published work",
+        "Sturnus vulgaris (juvenile)",
+        "Files by 4028mdk09",
+        "Lichens on roofs",
+        "Birds on roofs"
+      ],
+      "auteur": "4028mdk09",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachfirst_HD_mit_Vogel_Juli_2012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Dachfirst_HD_mit_Vogel_Juli_2012.JPG/1280px-Dachfirst_HD_mit_Vogel_Juli_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Tiles91.JPG",
+      "description": "Faîtage ventilé en tuiles canal sur closoir souple.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A75",
+        "Tiled roofs",
+        "License migration redundant",
+        "Roof ridges",
+        "Ridge tiles",
+        "Self-published work"
+      ],
+      "auteur": "Patrick.charpiat",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tiles91.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Tiles91.JPG/1280px-Tiles91.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    }
+  ]
+}

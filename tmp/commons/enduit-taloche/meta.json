@@ -1,0 +1,144 @@
+{
+  "terme": {
+    "id": "enduit-taloche",
+    "terme": "l'enduit taloché",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Enduit lissé à la taloche, plan, au grain fin avec de légères traces circulaires.",
+    "priorite": 2,
+    "requetes": [
+      "floated render",
+      "enduit taloché",
+      "smooth render wall"
+    ],
+    "incompatibles": [
+      "enduit"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Image of mouches volantes as rendered by the eye model.jpg",
+      "description": "A mouches volantes model as rendered by the model eye when it is placed inside its pupil.",
+      "categories": [
+        "Floaters",
+        "Self-published work"
+      ],
+      "auteur": "User:M.Wassmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Image_of_mouches_volantes_as_rendered_by_the_eye_model.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Image_of_mouches_volantes_as_rendered_by_the_eye_model.jpg/1280px-Image_of_mouches_volantes_as_rendered_by_the_eye_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3100,
+      "hauteur": 2067
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Меморіальна дошка П.Г.Сластіону.jpg",
+      "description": "Ceci est une photo d'un monument en Ukraine , numéro : 53-109-0046",
+      "categories": [
+        "Composition (Visual arts)",
+        "Distortion",
+        "Commemorative plaque to Opanas Slastion on Myrhorod Local Museum",
+        "Self-published work",
+        "Images with extracted images",
+        "Images from Wiki Loves Monuments 2017",
+        "Cultural heritage monuments in Ukraine with known IDs",
+        "Uploaded via Campaign:wlm-ua",
+        "Rendered walls in Ukraine",
+        "Museums in Ukraine photographed in 2017",
+        "Images from Wiki Loves Monuments 2017 in Ukraine",
+        "August 2017 in Poltava Oblast",
+        "Ukraine photographs taken on 2017-08-22",
+        "Tilting",
+        "Sculptures in Ukraine photographed in 2017",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Ukraine missing SDC location of creation",
+        "Smooth stone portraits",
+        "Perspective Distortion in Photography"
+      ],
+      "auteur": "Olga Loboda 0806",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B4%D0%BE%D1%88%D0%BA%D0%B0_%D0%9F.%D0%93.%D0%A1%D0%BB%D0%B0%D1%81%D1%82%D1%96%D0%BE%D0%BD%D1%83.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B4%D0%BE%D1%88%D0%BA%D0%B0_%D0%9F.%D0%93.%D0%A1%D0%BB%D0%B0%D1%81%D1%82%D1%96%D0%BE%D0%BD%D1%83.jpg/1280px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B4%D0%BE%D1%88%D0%BA%D0%B0_%D0%9F.%D0%93.%D0%A1%D0%BB%D0%B0%D1%81%D1%82%D1%96%D0%BE%D0%BD%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Mouche volantes model 1.jpg",
+      "description": "Model of mouches volantes which against a bright background renders similar to the actual appearance of the symptoms when they are focused properly. The similarity is limited to the basic shape, bright center and dark border of the structures. As a significant difference the original floaters are much more evenly shaped. The perfect circles and the trails all have the same diameter and width respectively. Furthermore circles can be seen inside the trails.",
+      "categories": [
+        "Floaters",
+        "Self-published work"
+      ],
+      "auteur": "User:M.Wassmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mouche_volantes_model_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mouche_volantes_model_1.jpg/1280px-Mouche_volantes_model_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3101,
+      "hauteur": 2067
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Меморіальна дошка П.Г.Сластіону (cropped).jpg",
+      "description": "Ceci est une photo d'un monument en Ukraine , numéro : 53-109-0046",
+      "categories": [
+        "Composition (Visual arts)",
+        "Distortion",
+        "Commemorative plaque to Opanas Slastion on Myrhorod Local Museum",
+        "Self-published work",
+        "Extracted images",
+        "Images from Wiki Loves Monuments 2017",
+        "Cultural heritage monuments in Ukraine with known IDs",
+        "Uploaded via Campaign:wlm-ua",
+        "Rendered walls in Ukraine",
+        "Museums in Ukraine photographed in 2017",
+        "Images from Wiki Loves Monuments 2017 in Ukraine",
+        "August 2017 in Poltava Oblast",
+        "Ukraine photographs taken on 2017-08-22",
+        "Tilting",
+        "Sculptures in Ukraine photographed in 2017",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Ukraine missing SDC location of creation",
+        "Smooth stone portraits",
+        "Perspective Distortion in Photography"
+      ],
+      "auteur": "Olga Loboda 0806",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B4%D0%BE%D1%88%D0%BA%D0%B0_%D0%9F.%D0%93.%D0%A1%D0%BB%D0%B0%D1%81%D1%82%D1%96%D0%BE%D0%BD%D1%83_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B4%D0%BE%D1%88%D0%BA%D0%B0_%D0%9F.%D0%93.%D0%A1%D0%BB%D0%B0%D1%81%D1%82%D1%96%D0%BE%D0%BD%D1%83_%28cropped%29.jpg/1280px-%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B4%D0%BE%D1%88%D0%BA%D0%B0_%D0%9F.%D0%93.%D0%A1%D0%BB%D0%B0%D1%81%D1%82%D1%96%D0%BE%D0%BD%D1%83_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3803,
+      "hauteur": 1927
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mouche volantes model 2 lateral.jpg",
+      "description": "Second model of mouches volantes which against a bright background renders similar to the actual appearance of the symptoms when they are focused properly. This photo shows the model from a lateral viewpoint.",
+      "categories": [
+        "Floaters",
+        "Self-published work"
+      ],
+      "auteur": "User:M.Wassmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mouche_volantes_model_2_lateral.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mouche_volantes_model_2_lateral.jpg/1280px-Mouche_volantes_model_2_lateral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2021.12.24-12.26 800pcs 璀璨敦煌系列：第257窟-鹿王本生局部圖 Mogao Grottoes Cave 257 Main Chamber West Wall (1) (51776320643).jpg",
+      "description": "TOi，2021.06，No.12624 Original from Dunhuang size: 70x26 cm Made in China &lt;a href=\" http://icecore.pixnet.net/blog/post/47744310 \" rel=\"noreferrer nofollow\"&gt;icecore.pixnet.net/blog/post/47744310&lt;/a&gt; &lt;a href=\" https://www.e-dunhuang.com/cave/10.0001/0001.0001.0257 \" rel=\"noreferrer nofollow\"&gt;www.e-dunhuang.com/cave/10.0001/0001.0001.0257&lt;/a&gt; 莫高窟 第257窟 九色鹿本生 主室 西壁 时代：北魏(公元368年-534年) 该窟建于北魏统一河西后。原为人字披中心塔柱窟，因东壁塌毁，仅存人字披少部及塔柱。整窟平面呈方形，窟顶前部为汉式人字披顶，西披画供养天人持莲花，脊枋存部分平棋图案；后部为平棋顶，仅东南角存斗四平棋图案两方，其中一方中央表现莲池中裸体童子游泳，外侧四角表现四身飞天，边沿以忍冬装饰。 后部中央有中心塔柱连接窟顶与地面，塔柱四面开龛，东向面开圆券形主龛，龛内塑倚坐弥勒说法像（眼、鼻、手已损毁",
+      "categories": [
+        "Jigsaw puzzles",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Cave 257, Mogao Caves"
+      ],
+      "auteur": "Grace Hwu from Taiwan",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021.12.24-12.26_800pcs_%E7%92%80%E7%92%A8%E6%95%A6%E7%85%8C%E7%B3%BB%E5%88%97%EF%BC%9A%E7%AC%AC257%E7%AA%9F-%E9%B9%BF%E7%8E%8B%E6%9C%AC%E7%94%9F%E5%B1%80%E9%83%A8%E5%9C%96_Mogao_Grottoes_Cave_257_Main_Chamber_West_Wall_(1)_(51776320643).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/2021.12.24-12.26_800pcs_%E7%92%80%E7%92%A8%E6%95%A6%E7%85%8C%E7%B3%BB%E5%88%97%EF%BC%9A%E7%AC%AC257%E7%AA%9F-%E9%B9%BF%E7%8E%8B%E6%9C%AC%E7%94%9F%E5%B1%80%E9%83%A8%E5%9C%96_Mogao_Grottoes_Cave_257_Main_Chamber_West_Wall_%281%29_%2851776320643%29.jpg/1280px-2021.12.24-12.26_800pcs_%E7%92%80%E7%92%A8%E6%95%A6%E7%85%8C%E7%B3%BB%E5%88%97%EF%BC%9A%E7%AC%AC257%E7%AA%9F-%E9%B9%BF%E7%8E%8B%E6%9C%AC%E7%94%9F%E5%B1%80%E9%83%A8%E5%9C%96_Mogao_Grottoes_Cave_257_Main_Chamber_West_Wall_%281%29_%2851776320643%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5552,
+      "hauteur": 2136
+    }
+  ]
+}

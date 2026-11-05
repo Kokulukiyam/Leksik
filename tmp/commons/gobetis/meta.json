@@ -1,0 +1,18 @@
+{
+  "terme": {
+    "id": "gobetis",
+    "terme": "le gobetis",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Première couche de mortier liquide jetée à la truelle sur un mur, qui laisse une surface rugueuse et granuleuse pour accrocher l'enduit.",
+    "priorite": 2,
+    "requetes": [
+      "scratch coat render wall",
+      "gobetis mur",
+      "spatterdash render"
+    ],
+    "incompatibles": [
+      "enduit"
+    ]
+  },
+  "candidats": []
+}

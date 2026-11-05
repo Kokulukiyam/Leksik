@@ -1,0 +1,125 @@
+{
+  "terme": {
+    "id": "mitigeur",
+    "terme": "le mitigeur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Robinet à manette unique qui règle à la fois le débit et le mélange d'eau chaude et d'eau froide.",
+    "priorite": 1,
+    "requetes": [
+      "single lever mixer tap",
+      "mitigeur lavabo",
+      "mixer faucet"
+    ],
+    "incompatibles": [
+      "robinet"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Single lever tap with stainless steel sink.JPG",
+      "description": "Single lever tap with stainless steel sink at Nuremberg Airport",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-WX220",
+        "Single handle mixer taps",
+        "License migration redundant",
+        "Self-published work",
+        "Bathroom sinks",
+        "Images by Benreis",
+        "2015 at Nuremberg Airport",
+        "Water flowing from taps",
+        "Toilets in airports"
+      ],
+      "auteur": "Benreis",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Single_lever_tap_with_stainless_steel_sink.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Single_lever_tap_with_stainless_steel_sink.JPG/1280px-Single_lever_tap_with_stainless_steel_sink.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Robinet mitigeur.jpg",
+      "description": "Robinet mitigeur, bonde, et trop plein dans un lavabo. La tige à l'arrière du robinet, visible dans le miroir, commande la position de la bonde en bas de l'image.",
+      "categories": [
+        "Taken with Fujifilm FinePix A160",
+        "Single handle mixer taps",
+        "Files with no machine-readable source",
+        "Self-published work",
+        "Assumed own work",
+        "Bathroom sinks",
+        "Photographs taken on 2010-02-26"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Comte0 (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Robinet_mitigeur.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Robinet_mitigeur.jpg/1280px-Robinet_mitigeur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2748,
+      "hauteur": 3664
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Waterfall Faucet 1.jpg",
+      "description": "Seen in an upscale store in California",
+      "categories": [
+        "CC-Zero",
+        "Single handle mixer taps",
+        "Self-published work"
+      ],
+      "auteur": "Stilfehler",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Waterfall_Faucet_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Waterfall_Faucet_1.jpg/1280px-Waterfall_Faucet_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Kitchen faucets in Taichung.jpg",
+      "description": "​廚房用龍頭，臺中。",
+      "categories": [
+        "Single handle mixer taps",
+        "Self-published work"
+      ],
+      "auteur": "Dquai",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kitchen_faucets_in_Taichung.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Kitchen_faucets_in_Taichung.jpg/1280px-Kitchen_faucets_in_Taichung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2368,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dripping Faucet.JPG",
+      "description": "A photo of water dripping from a faucet. Always a good idea when temperatures get too low. It helps avoid busted pipes.",
+      "categories": [
+        "Taken with Kodak EasyShare Z740",
+        "Water droplets",
+        "Self-published work",
+        "Dual handle mixer taps"
+      ],
+      "auteur": "Angelsharum",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dripping_Faucet.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Dripping_Faucet.JPG/1280px-Dripping_Faucet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1716
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Self-photograph.Jaquar.Laguna.jpg",
+      "description": "Set of faucets from Laguna Collection by Jaquar Group. This is a self photographed image of the products of the firm, which was shooted by me. It will be useful for the readers for their knowledge.",
+      "categories": [
+        "Single handle mixer taps",
+        "Self-published work"
+      ],
+      "auteur": "Spreadwhitelight",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Self-photograph.Jaquar.Laguna.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Self-photograph.Jaquar.Laguna.jpg/1280px-Self-photograph.Jaquar.Laguna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3389,
+      "hauteur": 3687
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "extincteur",
+    "terme": "l'extincteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bouteille rouge sous pression, munie d'une poignée et d'un tuyau, qui projette un produit pour éteindre un début de feu.",
+    "priorite": 1,
+    "requetes": [
+      "fire extinguisher",
+      "extincteur",
+      "incategory:\"Fire extinguishers\""
+    ],
+    "categoriesCommons": [
+      "Category:Fire extinguishers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Extincteur - 4.jpg",
+      "description": "Extincteur rouge.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "Fire extinguishers",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Tools on white background",
+        "Red fire extinguishers"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Extincteur_-_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Extincteur_-_4.jpg/1280px-Extincteur_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3282,
+      "hauteur": 2774
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dry powder extinguisher.jpg",
+      "description": "Dry powder extinguisher",
+      "categories": [
+        "CC-Zero",
+        "Fire extinguishers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (53° N, 4° W)"
+      ],
+      "auteur": "Eunosfire986",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dry_powder_extinguisher.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Dry_powder_extinguisher.jpg/1280px-Dry_powder_extinguisher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4284,
+      "hauteur": 5712
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Fire extinguisher 2.jpg",
+      "description": "Typical, all purpose fire extinguisher.",
+      "categories": [
+        "Taken with iPad",
+        "Fire extinguishers",
+        "Self-published work",
+        "Uploaded with Mobile/iOS",
+        "Photographs taken on 2013-09-30",
+        "Red fire extinguishers"
+      ],
+      "auteur": "User:connortk",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_extinguisher_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Fire_extinguisher_2.jpg/1280px-Fire_extinguisher_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fire extinguisher at Chubu Airport (91981).jpg",
+      "description": "Fire extinguisher at Chubu Airport",
+      "categories": [
+        "CC-Zero",
+        "Fire extinguishers",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Japan photographs taken on 2025-05-07",
+        "Interior of Chubu International Airport Terminal 1"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_extinguisher_at_Chubu_Airport_(91981).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Fire_extinguisher_at_Chubu_Airport_%2891981%29.jpg/1280px-Fire_extinguisher_at_Chubu_Airport_%2891981%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Etiqueta de un extintor de polvo.jpg",
+      "description": "Instruccions of a fire extinguiser",
+      "categories": [
+        "Fire extinguishers",
+        "Self-published work"
+      ],
+      "auteur": "Soyunalien",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Etiqueta_de_un_extintor_de_polvo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Etiqueta_de_un_extintor_de_polvo.jpg/1280px-Etiqueta_de_un_extintor_de_polvo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 900
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Extinguishers with cubs IMG 4847.JPG",
+      "description": "Troubeau d'extincteurs protégeant leurs petits",
+      "categories": [
+        "Taken with Canon PowerShot G10",
+        "CeCILL",
+        "Fire extinguishers",
+        "Self-published work",
+        "Photographs taken on 2011-06-08"
+      ],
+      "auteur": "Rama",
+      "licence": "CC BY-SA 2.0 fr",
+      "lien": "https://commons.wikimedia.org/wiki/File:Extinguishers_with_cubs_IMG_4847.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Extinguishers_with_cubs_IMG_4847.JPG/1280px-Extinguishers_with_cubs_IMG_4847.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4416,
+      "hauteur": 2944
+    }
+  ]
+}

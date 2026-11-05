@@ -1,0 +1,179 @@
+{
+  "terme": {
+    "id": "devanture",
+    "terme": "la devanture",
+    "categorie": "Façade et ouvertures",
+    "definition": "Façade d'une boutique au rez-de-chaussée, avec sa vitrine, son entrée et son bandeau d'enseigne.",
+    "priorite": 2,
+    "requetes": [
+      "shopfront facade",
+      "devanture boutique",
+      "traditional shop front"
+    ],
+    "incompatibles": [
+      "vitrine",
+      "rideau-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Shopfronts",
+      "Category:Shopfronts in France"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Barranquilla déco 2.jpg",
+      "description": "Barranquilla déco building",
+      "categories": [
+        "Taken with Canon PowerShot A610",
+        "2007 in Colombia",
+        "Buildings in Barranquilla",
+        "Shopfronts",
+        "Self-published work",
+        "PD-self",
+        "Graffiti in Colombia",
+        "Facades in Colombia",
+        "Photographs taken on 2007-08-17",
+        "Clouds and blue sky in Colombia",
+        "Art Deco architecture in Barranquilla"
+      ],
+      "auteur": "Jdvillalobos",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barranquilla_d%C3%A9co_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Barranquilla_d%C3%A9co_2.jpg/1280px-Barranquilla_d%C3%A9co_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Donnemarie-Dontilly Épicerie 001.jpg",
+      "description": "Ancienne épicerie rue Cottereau à Donnemarie-Dontilly dans le département de Seine-et-Marne (Île-de-France, France).",
+      "categories": [
+        "Buildings in Donnemarie-Dontilly",
+        "Self-published work",
+        "July 2017 in Seine-et-Marne",
+        "Grocery stores in Seine-et-Marne",
+        "Former shops in Seine-et-Marne",
+        "Ghost signs in Seine-et-Marne",
+        "Derelict buildings in Seine-et-Marne",
+        "Food shops in Seine-et-Marne",
+        "Île-de-France photographs taken on 2017-07-17",
+        "Shop signs in Seine-et-Marne",
+        "Shopfronts in France",
+        "Former grocery stores in France",
+        "Files by User:GFreihalter/Île-de-France 2017",
+        "Haberdashery shops in France",
+        "Files by User:GFreihalter/Donnemarie-Dontilly",
+        "Rue Cottereau (Donnemarie-Dontilly)"
+      ],
+      "auteur": "GFreihalter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Donnemarie-Dontilly_%C3%89picerie_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Donnemarie-Dontilly_%C3%89picerie_001.jpg/1280px-Donnemarie-Dontilly_%C3%89picerie_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:AKIBA Storefront - Antwerp-Central - 12-12-2023.jpg",
+      "description": "A \"Japanese grocery\" store in Antwerpen, Belgium. It is located at the Antwerp-Central train station. Gachapon capsule vending machines are on the front.",
+      "categories": [
+        "Antwerp Central Station",
+        "Shopfronts",
+        "Hatsune Miku",
+        "Self-published work",
+        "Belgium photographs taken on 2023-12-12",
+        "Glass doors in Belgium",
+        "FoP-Belgium",
+        "Closed doors in Belgium",
+        "Files with coordinates missing SDC location of creation (51° N, 4° E)",
+        "Vending machines in Antwerp",
+        "Capsule toys vending machines"
+      ],
+      "auteur": "Le Sharkoïste",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AKIBA_Storefront_-_Antwerp-Central_-_12-12-2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/AKIBA_Storefront_-_Antwerp-Central_-_12-12-2023.jpg/1280px-AKIBA_Storefront_-_Antwerp-Central_-_12-12-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Depot -8 LACMA M.2008.40.1279.jpg",
+      "description": "France, 1850 circa, printed 1850 circa Photographs Albumen print Image: 8 1/4 x 6 in.; Mount: 12 x 9 in.; Mat: 20 x 16 in. The Marjorie and Leonard Vernon Collection, gift of The Annenberg Foundation, acquired from Carol Vernon and Robert Turbin (M.2008.40.1279) Photography",
+      "categories": [
+        "Unidentified locations in Nord (French department)",
+        "Taken with Canon EOS 5D Mark II",
+        "1850s photographs of France",
+        "Artworks without Wikidata item",
+        "Alphonse Le Blondel",
+        "Artworks with known accession number",
+        "Shop signs in France",
+        "Images from LACMA uploaded by Fæ",
+        "Public domain images from the Los Angeles County Museum of Art",
+        "Images from LACMA uploaded by Fæ (check needed)",
+        "Albumen prints in the Los Angeles County Museum of Art",
+        "Shopfronts in France",
+        "Sepia photographs of France in the 19th century",
+        "Shops in the 1850s",
+        "Files with coordinates missing SDC location of creation (50° N, 3° E)"
+      ],
+      "auteur": "A. Le Blondel (France, active 19th century)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Depot_-8_LACMA_M.2008.40.1279.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Depot_-8_LACMA_M.2008.40.1279.jpg/1280px-Depot_-8_LACMA_M.2008.40.1279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1561,
+      "hauteur": 2100
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bike store.jpg",
+      "description": "Bikes on Wheels storefront in Toronto",
+      "categories": [
+        "CC-Zero",
+        "Shopfronts",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "WikiConference North America 2023 Culture Crawl - Kensington Market"
+      ],
+      "auteur": "LingLass",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bike_store.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bike_store.jpg/1280px-Bike_store.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Lille Eté2016 Maison Meert.jpg",
+      "description": "La patisserie Meert à Lille Nord en 2016 Cet édifice est classé au titre des monuments historiques de la France . Il est répertorié dans la base Mérimée , base de données sur le patrimoine architectural français du ministère de la Culture , sous la référence PA00107672 . brezhoneg ∙ català ∙ Deutsch ∙ English ∙ español ∙ Esperanto ∙ euskara ∙ français ∙ italiano ∙ magyar ∙ Nederlands ∙ português do Brasil ∙ português ∙ română ∙ sicilianu ∙ slovenščina ∙ suomi ∙ svenska ∙ Ελληνικά ∙ беларуская (тарашкевіца) ∙ кыргызча ∙ македонски ∙ русский ∙ українська ∙ ไทย ∙ বাংলা ∙ 中文 ∙ +/−",
+      "categories": [
+        "2016 in Nord",
+        "Base Mérimée",
+        "Monuments historiques classés",
+        "Maison Meert",
+        "Self-published work",
+        "Images from Été des Régions 2016",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "2016 in Lille",
+        "Dpt du Nord by PIERRE ANDRE LECLERCQ",
+        "Files by User:Pierre André Leclercq",
+        "Uploaded via Campaign:Été des régions 2016",
+        "Food carts in France",
+        "Shopfronts in France",
+        "M.H. de Lille, by PIERRE ANDRE LECLERCQ",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Hauts-de-France photographs taken on 2016-07-12",
+        "Files with coordinates missing SDC location of creation (50° N, 3° E)"
+      ],
+      "auteur": "Pierre André Leclercq",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lille_Et%C3%A92016_Maison_Meert.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Lille_Et%C3%A92016_Maison_Meert.jpg/1280px-Lille_Et%C3%A92016_Maison_Meert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3564,
+      "hauteur": 2936
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "tremie-d-escalier",
+    "terme": "la trémie d'escalier",
+    "categorie": "Escaliers et circulations",
+    "definition": "Ouverture laissée dans un plancher pour le passage d'un escalier.",
+    "priorite": 2,
+    "requetes": [
+      "stair opening floor slab",
+      "trémie escalier",
+      "floor opening stairs construction"
+    ],
+    "incompatibles": [
+      "cage-d-escalier",
+      "tremie"
+    ],
+    "categoriesCommons": [
+      "Category:Stairwells",
+      "Category:Staircases",
+      "Category:Floor openings"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Brahmskontor (Hamburg-Neustadt).Johannes-Brahms-Platz 1.Treppenhaus.6.29190.ajb.jpg",
+      "description": "Stairwell Johannes-Brahms-Platz 1 of Brahms Kontor office building in Hamburg.",
+      "categories": [
+        "Images from Wiki Loves Monuments 2016 in Germany",
+        "Stairwells",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Information field template with formatting",
+        "Staircases in Hamburg",
+        "Clockwise spiral stairs",
+        "Images from Wiki Loves Monuments 2016",
+        "Images by Ajepbah",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Files with coordinates missing SDC location of creation (53° N, 9° E)",
+        "Images from Wiki Loves Monuments 2016, DE-HH",
+        "Brahms Kontor (interior)"
+      ],
+      "auteur": "Ajepbah",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brahmskontor_(Hamburg-Neustadt).Johannes-Brahms-Platz_1.Treppenhaus.6.29190.ajb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Brahmskontor_%28Hamburg-Neustadt%29.Johannes-Brahms-Platz_1.Treppenhaus.6.29190.ajb.jpg/1280px-Brahmskontor_%28Hamburg-Neustadt%29.Johannes-Brahms-Platz_1.Treppenhaus.6.29190.ajb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3281,
+      "hauteur": 4922
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:African Human wooden Seats.jpg",
+      "description": "Ceci est une image du genre Musique et Danse de :",
+      "categories": [
+        "Staircases",
+        "Calabar",
+        "Self-published work",
+        "Crafts of Nigeria",
+        "Images from Wiki Loves Africa 2016",
+        "Images from Wiki Loves Africa 2016 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2016 in Nigeria",
+        "Nigeria photographs taken on 2016-12-29",
+        "Wooden chairs"
+      ],
+      "auteur": "Charles. Utibemfon Charles",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:African_Human_wooden_Seats.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/African_Human_wooden_Seats.jpg/1280px-African_Human_wooden_Seats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ritz Hotel, December 2015 02.jpg",
+      "description": "Ritz Hotel, December 2015",
+      "categories": [
+        "String lights",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Images from Wiki Loves Monuments 2016",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "Images from Wiki Loves Monuments 2016 in the United Kingdom",
+        "Images from Wiki Loves Monuments 2016 in England",
+        "London photographs taken on 2015-12-23",
+        "Ring-shaped fences",
+        "Skylights in London",
+        "Photographs by Edward Hands",
+        "Floor openings",
+        "The Ritz London interiors",
+        "WLM-UK 2014 unfiltered 09-25"
+      ],
+      "auteur": "Edwardx",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ritz_Hotel,_December_2015_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ritz_Hotel%2C_December_2015_02.jpg/1280px-Ritz_Hotel%2C_December_2015_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Desvaneciendo.jpg",
+      "description": "Sitio : edificio de rentas Bencich",
+      "categories": [
+        "Stairwells",
+        "Self-published work",
+        "Staircases in Argentina",
+        "Files from Open Foto Buenos Aires 2016",
+        "Argentina photographs taken on 2016-12-03",
+        "Interior of Edificio Bencich (Diagonal Norte)"
+      ],
+      "auteur": "Judyeri",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Desvaneciendo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Desvaneciendo.jpg/1280px-Desvaneciendo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3508,
+      "hauteur": 4677
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:AusstellungTrendpool2021.jpg",
+      "description": "Ausstellung in der Firma Trendpool 2021",
+      "categories": [
+        "Staircases",
+        "Self-published work"
+      ],
+      "auteur": "Prof-Dr-Now",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AusstellungTrendpool2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/AusstellungTrendpool2021.jpg/1280px-AusstellungTrendpool2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:CNMS Lobby (12507609194).jpg",
+      "description": "Center for Nanophase Materials Sciences",
+      "categories": [
+        "Oak Ridge National Laboratory",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Floor openings"
+      ],
+      "auteur": "Oak Ridge National Laboratory",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CNMS_Lobby_(12507609194).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/CNMS_Lobby_%2812507609194%29.jpg/1280px-CNMS_Lobby_%2812507609194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 960
+    }
+  ]
+}

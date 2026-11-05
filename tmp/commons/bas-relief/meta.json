@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "bas-relief",
+    "terme": "le bas-relief",
+    "categorie": "Ornement",
+    "definition": "Sculpture qui se détache peu du fond auquel elle reste attachée.",
+    "priorite": 2,
+    "requetes": [
+      "bas-relief facade",
+      "low relief sculpture wall",
+      "bas-relief"
+    ],
+    "incompatibles": [
+      "haut-relief",
+      "frise",
+      "bas-relief-d-abomey"
+    ],
+    "categoriesCommons": [
+      "Category:Bas-reliefs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Angkor Wat, details - Angkor1134.jpg",
+      "description": "A gallery wall of Angkor Wat decorated with carved balustraded windows and apsara relief figures set into a niche.",
+      "categories": [
+        "Apsarasa",
+        "Angkor Wat",
+        "CC-Zero",
+        "Bas-reliefs",
+        "Khmer architecture",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "lumoplank",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Angkor_Wat,_details_-_Angkor1134.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Angkor_Wat%2C_details_-_Angkor1134.jpg/1280px-Angkor_Wat%2C_details_-_Angkor1134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5020,
+      "hauteur": 3346
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bas-reliëf aan de gevel van de Notre-Dame te Parijs Basrelief der Notre-Dame-Kirche in Paris (titel op object), RP-F-2001-7-509-91.jpg",
+      "description": "Identificatie Titel(s): Bas-reliëf aan de gevel van de Notre-Dame te Parijs. Basrelief der Notre-Dame-Kirche in Paris (titel op object) Objecttype: fotomechanische afdruk bladzijde Objectnummer: RP-F-2001-7-509-91 Opschriften / Merken: nummer, recto, gedrukt: ‘Fig. 119.’opschrift, recto, gedrukt: ‘Druck nach (...) Bosange 1842.’ Vervaardiging Vervaardiger: fotograaf: Hippolyte Fizeau (vermeld op object), clichémaker: anoniem Plaats vervaardiging: Parijs Datering: ca. 1900 - in of voor 1905 Materiaal: papier Techniek: autotypie Afmetingen: prent: h 89 mm × b 93 mm Toelichting Prent op pagina 37",
+      "categories": [
+        "CC-Zero",
+        "Bas-reliefs",
+        "Book pages in the Rijksmuseum Amsterdam",
+        "Autotypes in the Rijksmuseum Amsterdam",
+        "Geschichte der Photographie (1905)"
+      ],
+      "auteur": "Rijksmuseum",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bas-reli%C3%ABf_aan_de_gevel_van_de_Notre-Dame_te_Parijs_Basrelief_der_Notre-Dame-Kirche_in_Paris_(titel_op_object),_RP-F-2001-7-509-91.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bas-reli%C3%ABf_aan_de_gevel_van_de_Notre-Dame_te_Parijs_Basrelief_der_Notre-Dame-Kirche_in_Paris_%28titel_op_object%29%2C_RP-F-2001-7-509-91.jpg/1280px-Bas-reli%C3%ABf_aan_de_gevel_van_de_Notre-Dame_te_Parijs_Basrelief_der_Notre-Dame-Kirche_in_Paris_%28titel_op_object%29%2C_RP-F-2001-7-509-91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6698,
+      "hauteur": 4710
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bas-reliëf (vermoedelijk) op de Stèle van Saba'a Stèle de Saba, Arabie (titel op object), RP-F-2001-7-495B-1.jpg",
+      "description": "Identificatie Titel(s): Bas-reliëf (vermoedelijk) op de Stèle van Saba'a. Stèle de Saba, Arabie (titel op object) Objecttype: fotomechanische afdruk bladzijde Objectnummer: RP-F-2001-7-495. B-1 Vervaardiging Vervaardiger: fotograaf: anoniem, clichémaker: anoniem, drukker: Lemercier & Cie. (vermeld op object) Plaats vervaardiging: Parijs Datering: ca. 1871 - in of voor 1876 Materiaal: papier Techniek: heliogravure Afmetingen: prent: h 167 mm × b 63 mm Toelichting Prent tegenover pagina 308. Onderwerp Wat: upright gravestonesculpture (+ relief ~ sculpture) Verwerving en rechten Credit line: Aank",
+      "categories": [
+        "CC-Zero",
+        "Bas-reliefs",
+        "Book pages in the Rijksmuseum Amsterdam",
+        "Photogravures in the Rijksmuseum Amsterdam",
+        "Lemercier & Cie."
+      ],
+      "auteur": "Rijksmuseum",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bas-reli%C3%ABf_(vermoedelijk)_op_de_St%C3%A8le_van_Saba%27a_St%C3%A8le_de_Saba,_Arabie_(titel_op_object),_RP-F-2001-7-495B-1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bas-reli%C3%ABf_%28vermoedelijk%29_op_de_St%C3%A8le_van_Saba%27a_St%C3%A8le_de_Saba%2C_Arabie_%28titel_op_object%29%2C_RP-F-2001-7-495B-1.jpg/1280px-Bas-reli%C3%ABf_%28vermoedelijk%29_op_de_St%C3%A8le_van_Saba%27a_St%C3%A8le_de_Saba%2C_Arabie_%28titel_op_object%29%2C_RP-F-2001-7-495B-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5448,
+      "hauteur": 4192
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bas-reliëf in steen, voorstellende een dansend paar Le prince de Bavière et la jolie fille d'Augsbourg bas-relief (titel op object) Sculpture sur pierre (serietitel), RP-F-2001-7-192A-26.jpg",
+      "description": "Identificatie Titel(s): Bas-reliëf in steen, voorstellende een dansend paar. Le prince de Bavière et la jolie fille d'Augsbourg bas-relief (titel op object). Sculpture sur pierre (serietitel) Objecttype: fotomechanische afdruk bladzijde Objectnummer: RP-F-2001-7-192. A-26 Vervaardiging Vervaardiger: fotograaf: Berthier (vermeld op object), prentmaker: Joseph-Rose Lemercier (vermeld op object), prentmaker: Frédéric Sorrieu (vermeld op object) Plaats vervaardiging: Parijs Datering: ca. 1859 - in of voor 1864 Materiaal: papier Techniek: procedé Poitevin Afmetingen: prent: h 165 mm × b 110 mm Onde",
+      "categories": [
+        "CC-Zero",
+        "Bas-reliefs",
+        "Book pages in the Rijksmuseum Amsterdam",
+        "Histoire des arts industriels (RP-F-2001-7-192A)"
+      ],
+      "auteur": "Rijksmuseum",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bas-reli%C3%ABf_in_steen,_voorstellende_een_dansend_paar_Le_prince_de_Bavi%C3%A8re_et_la_jolie_fille_d%27Augsbourg_bas-relief_(titel_op_object)_Sculpture_sur_pierre_(serietitel),_RP-F-2001-7-192A-26.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bas-reli%C3%ABf_in_steen%2C_voorstellende_een_dansend_paar_Le_prince_de_Bavi%C3%A8re_et_la_jolie_fille_d%27Augsbourg_bas-relief_%28titel_op_object%29_Sculpture_sur_pierre_%28serietitel%29%2C_RP-F-2001-7-192A-26.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8004,
+      "hauteur": 4812
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Assyrian hunt of deer.jpg",
+      "description": "Assyrian hunt of deer. 645-635 BCE. British Museum",
+      "categories": [
+        "Deer hunting",
+        "Bas-reliefs",
+        "Reliefs from Assyria",
+        "Self-published work"
+      ],
+      "auteur": "Sanjar Alimov (maxergon.com)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Assyrian_hunt_of_deer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Assyrian_hunt_of_deer.jpg/1280px-Assyrian_hunt_of_deer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3936,
+      "hauteur": 1956
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Acta Eruditorum - I bassorilievi, 1708 – BEIC 13371326.jpg",
+      "description": "Illustration",
+      "categories": [
+        "Files with no machine-readable author",
+        "Media from BEIC",
+        "Bas-reliefs",
+        "Archaeological illustrations",
+        "Uploaded with pattypan",
+        "PD-old-100-expired",
+        "1708 engravings",
+        "CC-PD-Mark",
+        "Acta Eruditorum - Archaeology",
+        "Acta Eruditorum - Architecture",
+        "Scientific journals of Germany, 1708"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_I_bassorilievi,_1708_%E2%80%93_BEIC_13371326.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Acta_Eruditorum_-_I_bassorilievi%2C_1708_%E2%80%93_BEIC_13371326.jpg/1280px-Acta_Eruditorum_-_I_bassorilievi%2C_1708_%E2%80%93_BEIC_13371326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4005,
+      "hauteur": 2874
+    }
+  ]
+}

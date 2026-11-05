@@ -1,0 +1,167 @@
+{
+  "terme": {
+    "id": "tole-perforee",
+    "terme": "la tôle perforée",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Tôle percée de trous réguliers, employée en habillage, en garde-corps ou en brise-vue.",
+    "priorite": 2,
+    "requetes": [
+      "perforated metal facade",
+      "perforated metal sheet",
+      "tôle perforée"
+    ],
+    "incompatibles": [
+      "metal-deploye"
+    ],
+    "categoriesCommons": [
+      "Category:Metal facades"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bicycle-1110894, Wainuiomata, Wellington, New Zealand.jpg",
+      "description": "Shadow of a bicycle image on a cycle-lane created by sunlight leading out of Wainuiomata .",
+      "categories": [
+        "Wainuiomata",
+        "Light and shadow",
+        "Taken with Leica DG Vario-Elmar 100-400mm",
+        "Self-published work",
+        "New Zealand photographs taken on 2023-11-10",
+        "November 2023 in road transport",
+        "Photographs taken on 2023-11-10",
+        "White bicycles",
+        "Bicycle pictograms",
+        "FoP-New Zealand",
+        "White on green signs",
+        "Shadows of bicycles",
+        "Reflections of bicycles",
+        "JPG photos",
+        "Bicycles on facades",
+        "Shadows of signs",
+        "Cycle lane road markings in New Zealand",
+        "Shadows of railings",
+        "Perforated metal sheets",
+        "Bikeway signs in New Zealand",
+        "Shadows of fences",
+        "Cycle-picto-corridors",
+        "Cycle lane signs in New Zealand",
+        "White dots on black",
+        "2023 in Lower Hutt City"
+      ],
+      "auteur": "Wainuio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bicycle-1110894,_Wainuiomata,_Wellington,_New_Zealand.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bicycle-1110894%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg/1280px-Bicycle-1110894%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Moscow, Foriver buildings block 1 (May 2025) 01.jpg",
+      "description": "Moscow, Foriver buildings, construction of the embankment and adjacent Foriver Residences site",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Foriver (residential complex)",
+        "Moscow photographs taken on 2025-05-23",
+        "Metal facades",
+        "Photographs by Retired electrician/newconstruction"
+      ],
+      "auteur": "Retired electrician",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow,_Foriver_buildings_block_1_(May_2025)_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Moscow%2C_Foriver_buildings_block_1_%28May_2025%29_01.jpg/1280px-Moscow%2C_Foriver_buildings_block_1_%28May_2025%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3395,
+      "hauteur": 5094
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Detail of the San Francisco Federal Building.jpg",
+      "description": "The San Francisco United States Federal Building is a building designed by Thom Mayne of Morphosis, having a juxtaposition of gray concrete walls, perforated metal panels, and custom, faceted wood ceilings.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Facades in San Francisco",
+        "San Francisco Federal Building"
+      ],
+      "auteur": "Dllu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detail_of_the_San_Francisco_Federal_Building.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Detail_of_the_San_Francisco_Federal_Building.jpg/1280px-Detail_of_the_San_Francisco_Federal_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5795,
+      "hauteur": 5079
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden julesvernex2-2.jpg",
+      "description": "Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden",
+      "categories": [
+        "Taken with Fujifilm X-T3",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Julesvernex2",
+        "Sweden images by Julesvernex2",
+        "PPL1 images by Julesvernex2",
+        "Metal facades",
+        "Buildings in Segeltorp",
+        "Architecture images by Julesvernex2",
+        "Abstract(ish) images by Julesvernex2",
+        "Panorama images by Julesvernex2",
+        "Fujifilm XF 70-300mm f4-5.6 R LM OIS WR (X-mount) images by Julesvernex2",
+        "Taken with Fujinon XF70-300mm F4-5.6 R LM OIS WR"
+      ],
+      "auteur": "Jules Verne Times Two",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership,_Stockholm,_Sweden_julesvernex2-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-2.jpg/1280px-Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5632,
+      "hauteur": 5300
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Moscow, Foriver buildings embankment works (May 2025) 05.jpg",
+      "description": "Moscow, Foriver buildings, construction of the embankment and adjacent Foriver Residences site",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Foriver (residential complex)",
+        "Moscow photographs taken on 2025-05-23",
+        "Metal facades",
+        "Photographs by Retired electrician/newconstruction",
+        "Views from Paveletskaya Embankment"
+      ],
+      "auteur": "Retired electrician",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow,_Foriver_buildings_embankment_works_(May_2025)_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Moscow%2C_Foriver_buildings_embankment_works_%28May_2025%29_05.jpg/1280px-Moscow%2C_Foriver_buildings_embankment_works_%28May_2025%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden julesvernex2-4.jpg",
+      "description": "Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden",
+      "categories": [
+        "Taken with Fujifilm X-T3",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Julesvernex2",
+        "Sweden images by Julesvernex2",
+        "PPL1 images by Julesvernex2",
+        "Metal facades",
+        "Buildings in Segeltorp",
+        "Architecture images by Julesvernex2",
+        "Abstract(ish) images by Julesvernex2",
+        "Fujifilm XF 70-300mm f4-5.6 R LM OIS WR (X-mount) images by Julesvernex2",
+        "Taken with Fujinon XF70-300mm F4-5.6 R LM OIS WR"
+      ],
+      "auteur": "Jules Verne Times Two",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership,_Stockholm,_Sweden_julesvernex2-4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-4.jpg/1280px-Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4757,
+      "hauteur": 4160
+    }
+  ]
+}

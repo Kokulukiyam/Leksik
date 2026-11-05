@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "chaise-d-implantation",
+    "terme": "la chaise d'implantation",
+    "categorie": "Chantier et outillage",
+    "definition": "Planche horizontale clouée sur deux piquets, hors de la fouille, où l'on fixe les cordeaux qui matérialisent les axes.",
+    "priorite": 2,
+    "requetes": [
+      "batter boards",
+      "chaise d'implantation",
+      "batter board string line foundation"
+    ],
+    "incompatibles": [
+      "cordeau",
+      "piquet"
+    ],
+    "categoriesCommons": [
+      "Category:Surveying"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Altötting-Stiftspfarrkirche-Lochmarke.jpg",
+      "description": "Historische Lochmarke zur Angabe der Höhe über dem Meeresspiegel an der Stiftspfarrkirche in Altötting.",
+      "categories": [
+        "Surveying",
+        "Altötting",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ulrich Kulle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alt%C3%B6tting-Stiftspfarrkirche-Lochmarke.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Alt%C3%B6tting-Stiftspfarrkirche-Lochmarke.jpg/1280px-Alt%C3%B6tting-Stiftspfarrkirche-Lochmarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1366
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Arlington, WA - Metron.jpg",
+      "description": "Building on the east side of N. Olympic Ave., Arlington, Washington, USA. Designed by the partnership of Earl Morrison and Van Salisbury Stimson of Seattle, originally built for the Ancient Order of United Workmen in 1926, The building now houses the surveying firm Metron & Associates Inc.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix P50",
+        "Surveying",
+        "License migration completed",
+        "Ancient Order of United Workmen",
+        "Built in Washington (state) in 1926",
+        "Self-published work",
+        "Buildings by Earl W. Morrison",
+        "Buildings in Arlington, Washington"
+      ],
+      "auteur": "Joe Mabel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arlington,_WA_-_Metron.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Arlington%2C_WA_-_Metron.jpg/1280px-Arlington%2C_WA_-_Metron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:99-Surveying For The Panama Railroad in 1850.jpg",
+      "description": "The name of the illustration is the same as the caption in this book about Panama and it's History (c) 1916.",
+      "categories": [
+        "PD US",
+        "Panama in the 1850s",
+        "Surveying",
+        "Panama Railroad",
+        "Panama in art",
+        "Panama, Past and Present (1916)",
+        "PD-US missing SDC copyright status"
+      ],
+      "auteur": "Farnham Bishop",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:99-Surveying_For_The_Panama_Railroad_in_1850.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/99-Surveying_For_The_Panama_Railroad_in_1850.jpg/1280px-99-Surveying_For_The_Panama_Railroad_in_1850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1389,
+      "hauteur": 1096
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:20140831 Wilkie Sugarloaf Triangulation station 02.jpg",
+      "description": "Wilkie Sugar Loaf is a Canadian peak in the Cape Breton Highlands near the community of Sugar Loaf in the province of Nova Scotia. Wilkie Sugar Loaf is a forested pyramid rising from the shore of Aspy Bay, 10 kilometres (6.2 mi) north of the Cabot Trail. There are few stand-alone mountaintops in Nova Scotia, but one of these is Wilkie Sugar Loaf, climbing to more than 400 metres/yards above sea level in less than 1.5 kilometres (0.93 mi). This peak belongs to the North Mountain range of hills bordering the Aspy Fault but has been separated from the rest of the ridge by the deep ravines cut by ",
+      "categories": [
+        "Wilkie Sugar Loaf",
+        "Surveying",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ken Heaton",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20140831_Wilkie_Sugarloaf_Triangulation_station_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/20140831_Wilkie_Sugarloaf_Triangulation_station_02.jpg/1280px-20140831_Wilkie_Sugarloaf_Triangulation_station_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ameen is surveying the field in East Champaran, Bihar (cropped).jpg",
+      "description": "Ameen is surveying the field in East Champaran, Bihar",
+      "categories": [
+        "Bihar",
+        "Fields",
+        "Surveying",
+        "Raxaul",
+        "East Champaran district",
+        "Self-published work",
+        "Extracted images",
+        "Pictures taken by Saddam19",
+        "Photos by saddam19 in 2026"
+      ],
+      "auteur": "Saddam19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ameen_is_surveying_the_field_in_East_Champaran,_Bihar_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Ameen_is_surveying_the_field_in_East_Champaran%2C_Bihar_%28cropped%29.jpg/1280px-Ameen_is_surveying_the_field_in_East_Champaran%2C_Bihar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 9190,
+      "hauteur": 4230
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20140831 Wilkie Sugarloaf Triangulation station 04.jpg",
+      "description": "Wilkie Sugar Loaf is a Canadian peak in the Cape Breton Highlands near the community of Sugar Loaf in the province of Nova Scotia. Wilkie Sugar Loaf is a forested pyramid rising from the shore of Aspy Bay, 10 kilometres (6.2 mi) north of the Cabot Trail. There are few stand-alone mountaintops in Nova Scotia, but one of these is Wilkie Sugar Loaf, climbing to more than 400 metres/yards above sea level in less than 1.5 kilometres (0.93 mi). This peak belongs to the North Mountain range of hills bordering the Aspy Fault but has been separated from the rest of the ridge by the deep ravines cut by ",
+      "categories": [
+        "Wilkie Sugar Loaf",
+        "Surveying",
+        "Hiking trails in Nova Scotia",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ken Heaton",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20140831_Wilkie_Sugarloaf_Triangulation_station_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/20140831_Wilkie_Sugarloaf_Triangulation_station_04.jpg/1280px-20140831_Wilkie_Sugarloaf_Triangulation_station_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
+    }
+  ]
+}

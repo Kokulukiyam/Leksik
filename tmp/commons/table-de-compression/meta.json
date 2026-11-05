@@ -1,0 +1,162 @@
+{
+  "terme": {
+    "id": "table-de-compression",
+    "terme": "la table de compression",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Couche de béton armé d'un treillis, coulée sur les hourdis et les poutrelles pour solidariser le plancher.",
+    "priorite": 2,
+    "requetes": [
+      "concrete topping beam and block floor",
+      "dalle de compression hourdis",
+      "structural topping slab pour"
+    ],
+    "incompatibles": [
+      "hourdis",
+      "plancher-a-corps-creux",
+      "treillis-soude"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:19870724030NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße 51-55/ Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Links: Faserbeton-Wetterschale der IHS Cottbus, rechts Schaumbetonaußenwandplatte der IHS Cottbus. [R19870724A07.jpg]19870724030NR.JPG(c)Blobelt",
+      "categories": [
+        "Facades in Germany",
+        "WBS 70",
+        "Concrete slabs",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Concrete panels",
+        "Flächige Feinkornbetonelemente"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2434,
+      "hauteur": 2996
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:19870724025NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße / Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Hier: WBS 70 Plattenbau Außenwandentwicklung. Erkerelemet vom VEB Wohnungsbaukombinat Berlin. [R19870724A06.jpg]19870724025NR.JPG(c)Blobelt",
+      "categories": [
+        "Facades in Germany",
+        "WBS 70",
+        "Concrete slabs",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Windows in the German Democratic Republic",
+        "Concrete panels",
+        "VEB Wohnungsbaukombinat Berlin"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724025NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/19870724025NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724025NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3637,
+      "hauteur": 3188
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:19870724010NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße / Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Hier: WBS 70 Plattenbau Außenwandentwicklung. [R19870724A03.jpg]19870724010NR.JPG(c)Blobelt",
+      "categories": [
+        "WBS 70",
+        "Concrete slabs",
+        "Mandoline (luminaire)",
+        "Facades in Berlin",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Concrete panels",
+        "Concrete architectural elements in the German Democratic Republic"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724010NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/19870724010NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724010NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cemento stampato.jpg",
+      "description": "pavimento in cemento stampato",
+      "categories": [
+        "Concrete slabs",
+        "Self-published work"
+      ],
+      "auteur": "Cemento stampato",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cemento_stampato.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Cemento_stampato.jpg/1280px-Cemento_stampato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5312,
+      "hauteur": 2988
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bonded post-tension.JPG",
+      "description": "Bonded post-tension",
+      "categories": [
+        "Taken with iPhone (original)",
+        "Concrete slabs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Elie Malti",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bonded_post-tension.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bonded_post-tension.JPG/1280px-Bonded_post-tension.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Copped Hall kitchen walled garden, compost bin, Essex, England 1.jpg",
+      "description": "A compost heap bin at the northwest of the walled garden, called 'The Kitchen Garden', 390 yards (360 m) northwest from Copped Hall , aka Copt Hall or Copthall, a Grade II listed country house , 1.5 miles (2 km) west from the town of Epping , Essex , England. The house and its ancillary buildings are within the civil parish of Epping Upland , with the larger part of the gardens to the west, in Waltham Abbey . The present mid-18th-century Georgian hall replaced an earlier Elizabethan hall by Sir Thomas Heneage . It was destroyed by fire in 1917, with it and its gardens suffering further 20th-ce",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II and Canon EF 24-105mm F4L IS USM",
+        "Compost",
+        "Compost bins",
+        "Concrete slabs",
+        "Photographs with aspect ratio of 5:4",
+        "Self-published work",
+        "Winter in Essex",
+        "Waste management in England",
+        "Winter 2018-2019 in the United Kingdom",
+        "February 2019 in Essex",
+        "Acabashi photos: Copped Hall",
+        "Acabashi photos: detritus",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "England photographs taken on 2019-02-17",
+        "Copped Hall walled kitchen garden",
+        "Concrete panels"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Copped_Hall_kitchen_walled_garden,_compost_bin,_Essex,_England_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Copped_Hall_kitchen_walled_garden%2C_compost_bin%2C_Essex%2C_England_1.jpg/1280px-Copped_Hall_kitchen_walled_garden%2C_compost_bin%2C_Essex%2C_England_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3328
+    }
+  ]
+}

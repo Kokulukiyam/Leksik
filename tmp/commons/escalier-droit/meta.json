@@ -1,0 +1,143 @@
+{
+  "terme": {
+    "id": "escalier-droit",
+    "terme": "l'escalier droit",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier dont toutes les marches se suivent en ligne droite, sans changement de direction.",
+    "priorite": 1,
+    "requetes": [
+      "straight staircase",
+      "escalier droit",
+      "straight flight stairs"
+    ],
+    "incompatibles": [
+      "escalier",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours",
+      "volee"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases",
+      "Category:Stairs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A small Sismo.jpg",
+      "description": "there will always be a new day...",
+      "categories": [
+        "Taken with Nikon F2",
+        "Death",
+        "1990 in Brazil",
+        "Staircases",
+        "Analog photography",
+        "Earthquakes of 1990",
+        "Hand-colored photographs",
+        "Self-published work",
+        "Unidentified buildings in Brazil",
+        "Windows (interior views)"
+      ],
+      "auteur": "Sérgio Valle Duarte .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neut",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_small_Sismo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/A_small_Sismo.jpg/1280px-A_small_Sismo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2240,
+      "hauteur": 3600
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:1978 Pierre Debeaux Villa Pradier 1.jpg",
+      "description": "Architect Pierre Debeaux descending the stairs of villa Pradier",
+      "categories": [
+        "Stairs",
+        "Concrete",
+        "Pierre Debeaux",
+        "Self-published work",
+        "Male architects from France"
+      ],
+      "auteur": "IndicibleEspace",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1978_Pierre_Debeaux_Villa_Pradier_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1978_Pierre_Debeaux_Villa_Pradier_1.jpg/1280px-1978_Pierre_Debeaux_Villa_Pradier_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1865,
+      "hauteur": 2686
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:African Human wooden Seats.jpg",
+      "description": "Ceci est une image du genre Musique et Danse de :",
+      "categories": [
+        "Staircases",
+        "Calabar",
+        "Self-published work",
+        "Crafts of Nigeria",
+        "Images from Wiki Loves Africa 2016",
+        "Images from Wiki Loves Africa 2016 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2016 in Nigeria",
+        "Nigeria photographs taken on 2016-12-29",
+        "Wooden chairs"
+      ],
+      "auteur": "Charles. Utibemfon Charles",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:African_Human_wooden_Seats.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/African_Human_wooden_Seats.jpg/1280px-African_Human_wooden_Seats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:500px photo (52208392).jpeg",
+      "description": "500px provided description: Untitled [#street]",
+      "categories": [
+        "Stairs",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Carlos Mauricio",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(52208392).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/500px_photo_%2852208392%29.jpeg/1280px-500px_photo_%2852208392%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1325,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:3rd staircase.jpg",
+      "description": "Carpet installation with border",
+      "categories": [
+        "Staircases",
+        "Stairs with carpets",
+        "Self-published work",
+        "Unidentified houses",
+        "Rugs and carpets in brown"
+      ],
+      "auteur": "AIVOP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3rd_staircase.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/3rd_staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2013-365-361 Waiting on Eternity (11598807523).jpg",
+      "description": "Making a still life from knickknacks on the bathroom...",
+      "categories": [
+        "Stairs",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-365-361_Waiting_on_Eternity_(11598807523).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2013-365-361_Waiting_on_Eternity_%2811598807523%29.jpg/1280px-2013-365-361_Waiting_on_Eternity_%2811598807523%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5124,
+      "hauteur": 3416
+    }
+  ]
+}

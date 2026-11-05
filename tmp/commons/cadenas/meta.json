@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "cadenas",
+    "terme": "le cadenas",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Serrure mobile munie d'un anneau en U que l'on passe dans un moraillon ou une chaîne.",
+    "priorite": 1,
+    "requetes": [
+      "padlock",
+      "cadenas",
+      "padlock gate"
+    ],
+    "incompatibles": [
+      "moraillon"
+    ],
+    "categoriesCommons": [
+      "Category:Padlocks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:500px photo (20337669).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Padlocks",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Dave Kroondyk",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(20337669).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/500px_photo_%2820337669%29.jpeg/1280px-500px_photo_%2820337669%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:- Padlock -.jpg",
+      "description": "Padlock",
+      "categories": [
+        "Wooden doors",
+        "Padlocks",
+        "Self-published work",
+        "Photos by User:Nino Barbieri",
+        "Brown impressions",
+        "Brass objects"
+      ],
+      "auteur": "User:Nino Barbieri",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_Padlock_-.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/-_Padlock_-.jpg/1280px--_Padlock_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:.lock-traditional-Tamil Nadu.jpg",
+      "description": "tanjore",
+      "categories": [
+        "Tamil culture",
+        "Images of low quality",
+        "Padlocks",
+        "Self-published work",
+        "TamilWiki Media Contest",
+        "Taken with Nokia X2-00"
+      ],
+      "auteur": "Googlesuresh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:.lock-traditional-Tamil_Nadu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/.lock-traditional-Tamil_Nadu.jpg/1280px-.lock-traditional-Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Belly chain lock.jpg",
+      "description": "A padlock secures the belly chain behind the inmate's back.",
+      "categories": [
+        "Prisoner uniforms",
+        "Padlocks",
+        "Belly chain restraints",
+        "Self-published work",
+        "People in handcuffs"
+      ],
+      "auteur": "Rainerzufall1234",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Belly_chain_lock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Belly_chain_lock.jpg/1280px-Belly_chain_lock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3026,
+      "hauteur": 3328
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Blue Lake, Mount Gambier, South Australia - padlocks on lookout, November 2023 - 01.jpg",
+      "description": "Blue Lake, Mount Gambier, South Australia - padlocks on lookout, November 2023",
+      "categories": [
+        "Padlocks",
+        "Blue Lake, South Australia",
+        "Self-published work",
+        "November 2023 in South Australia",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Chuq",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Lake,_Mount_Gambier,_South_Australia_-_padlocks_on_lookout,_November_2023_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Blue_Lake%2C_Mount_Gambier%2C_South_Australia_-_padlocks_on_lookout%2C_November_2023_-_01.jpg/1280px-Blue_Lake%2C_Mount_Gambier%2C_South_Australia_-_padlocks_on_lookout%2C_November_2023_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Antique Padlocks - Treasures in the Wall Museum - Akko (Acre) - Israel.jpg",
+      "description": "Antique Padlocks - Treasures in the Wall Museum - Akko (Acre) - Israel",
+      "categories": [
+        "Taken with Sony DSC-HX1",
+        "Padlocks",
+        "Treasures in the Walls Museum, Acre, Israel",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Adam Jones",
+        "Uploaded by user Geagea"
+      ],
+      "auteur": "Adam Jones from Kelowna, BC, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_Padlocks_-_Treasures_in_the_Wall_Museum_-_Akko_(Acre)_-_Israel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Antique_Padlocks_-_Treasures_in_the_Wall_Museum_-_Akko_%28Acre%29_-_Israel.jpg/1280px-Antique_Padlocks_-_Treasures_in_the_Wall_Museum_-_Akko_%28Acre%29_-_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    }
+  ]
+}

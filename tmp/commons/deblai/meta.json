@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "deblai",
+    "terme": "le déblai",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Terre extraite lors du terrassement, déposée en tas au bord des fouilles ou évacuée du chantier.",
+    "priorite": 2,
+    "requetes": [
+      "excavated soil pile construction site",
+      "déblai terrassement",
+      "spoil heap excavation"
+    ],
+    "incompatibles": [
+      "fouille",
+      "remblai"
+    ],
+    "categoriesCommons": [
+      "Category:Earthworks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Excavator dumping dirt close-up 03.jpg",
+      "description": "A close-up of a digger dropping dirt",
+      "categories": [
+        "Excavators",
+        "Earthworks",
+        "Excavator buckets",
+        "Self-published work",
+        "Falling objects",
+        "Images by Panamitsu"
+      ],
+      "auteur": "Panamitsu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Excavator_dumping_dirt_close-up_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Excavator_dumping_dirt_close-up_03.jpg/1280px-Excavator_dumping_dirt_close-up_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Excavator dumping dirt close-up 01.jpg",
+      "description": "A close-up of a digger dropping dirt",
+      "categories": [
+        "Excavators",
+        "Earthworks",
+        "Excavator buckets",
+        "Self-published work",
+        "Falling objects",
+        "Images by Panamitsu"
+      ],
+      "auteur": "Panamitsu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Excavator_dumping_dirt_close-up_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Excavator_dumping_dirt_close-up_01.jpg/1280px-Excavator_dumping_dirt_close-up_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:MNR Complesso imperiale di Termini - foto degli scavi 1947-49a P1120564.jpg",
+      "description": "Roma, Palazzo Massimo alle Terme, foto degli scavi del 1947 sul piazzale della Stazione Termini.",
+      "categories": [
+        "Earthworks",
+        "Complesso imperiale di Roma Termini",
+        "Self-published work",
+        "1947 in Rome",
+        "1947 photographs of Italy",
+        "Historical images of Roma Termini railway station"
+      ],
+      "auteur": "Lalupa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MNR_Complesso_imperiale_di_Termini_-_foto_degli_scavi_1947-49a_P1120564.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/MNR_Complesso_imperiale_di_Termini_-_foto_degli_scavi_1947-49a_P1120564.jpg/1280px-MNR_Complesso_imperiale_di_Termini_-_foto_degli_scavi_1947-49a_P1120564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2490,
+      "hauteur": 2453
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:60A Clearing road construction - USACE-p15141coll5-897.jpeg",
+      "description": "[Clearing and grading forest area; Construction of the Inter-American Highway in Central America.]",
+      "categories": [
+        "Files with no machine-readable author",
+        "Earthworks",
+        "Central America in the 1940s",
+        "Cuttings (transport infrastructure)",
+        "Uploaded with OpenRefine",
+        "PD US Army USACE",
+        "Images from USACE, Photographs collection",
+        "Construction of the Pan-American Highway"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:60A_Clearing_road_construction_-_USACE-p15141coll5-897.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/60A_Clearing_road_construction_-_USACE-p15141coll5-897.jpeg/1280px-60A_Clearing_road_construction_-_USACE-p15141coll5-897.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5763,
+      "hauteur": 4595
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Geofoam bridge overpass.jpg",
+      "description": "Geofoam bridge overpass near Montreal Québec",
+      "categories": [
+        "Foam",
+        "Construction techniques",
+        "Earthworks",
+        "Self-published work",
+        "Overpasses",
+        "November 2017 Canada photographs"
+      ],
+      "auteur": "Simon Mer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Geofoam_bridge_overpass.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Geofoam_bridge_overpass.jpg/1280px-Geofoam_bridge_overpass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:M. Šejn Sluneční hora, 2014, Public Domain.jpg",
+      "description": "M. Šejn Sluneční hora, 2014, Public Domain",
+      "categories": [
+        "Land art",
+        "Earthworks",
+        "Olomouc District",
+        "Miloš Šejn",
+        "Self-published work",
+        "2014 photographs",
+        "Umělecké dílo"
+      ],
+      "auteur": "Bohemiaerosa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:M._%C5%A0ejn_Slune%C4%8Dn%C3%AD_hora,_2014,_Public_Domain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/M._%C5%A0ejn_Slune%C4%8Dn%C3%AD_hora%2C_2014%2C_Public_Domain.jpg/1280px-M._%C5%A0ejn_Slune%C4%8Dn%C3%AD_hora%2C_2014%2C_Public_Domain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1536
+    }
+  ]
+}

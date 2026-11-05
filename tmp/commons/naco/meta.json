@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "naco",
+    "terme": "le naco",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Fenêtre faite de lames horizontales parallèles, en verre ou en aluminium, qui pivotent ensemble grâce à un levier latéral ; appelée naco en Afrique de l'Ouest et fenêtre à jalousies en France.",
+    "priorite": 1,
+    "requetes": [
+      "louvre window glass",
+      "jalousie window glass louvres",
+      "naco fenêtre"
+    ],
+    "incompatibles": [
+      "fenetre",
+      "persienne",
+      "menuiserie-aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Jalousie windows",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:500px photo (105270455).jpeg",
+      "description": "500px provided description: Img 0840 Jpg [#building ,#haus ,#h?tte]",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Elektroll",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(105270455).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/500px_photo_%28105270455%29.jpeg/1280px-500px_photo_%28105270455%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1364,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:IBPA 16584 - SMS no Dia D da Campanha Nacional de vacinação contra poliomielite e sarampo - 2018-09-15 - Cristine Rochol-PMPA.jpg",
+      "description": "SMS no Dia D da Campanha Nacional de vacinação contra poliomielite e sarampo. Local: US Ponta Grossa. Estr. Retiro da Ponta Grossa, 3022 - Ponta Grossa (Na foto: Crianças foram recebidas pela Maria Gotinha.) Publicado em 15 de setembro de 2018 #Saúde #Vacinação #Unidade de Saúde Ponta Grossa #Unidade de Saúde #Dia D de Vacinação #Criança",
+      "categories": [
+        "Jalousie windows",
+        "Attribution only license",
+        "Society of Porto Alegre",
+        "Children of Brazil in 2018",
+        "Files by Agência Porto Alegre",
+        "Secretaria Municipal de Saúde (Porto Alegre)",
+        "2018 events in Porto Alegre",
+        "Uploaded with Catrapilha",
+        "Maria Gotinha",
+        "Dia D de Vacinação",
+        "Unidade de Saúde Ponta Grossa"
+      ],
+      "auteur": "Cristine Rochol/ PMPA",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:IBPA_16584_-_SMS_no_Dia_D_da_Campanha_Nacional_de_vacina%C3%A7%C3%A3o_contra_poliomielite_e_sarampo_-_2018-09-15_-_Cristine_Rochol-PMPA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/IBPA_16584_-_SMS_no_Dia_D_da_Campanha_Nacional_de_vacina%C3%A7%C3%A3o_contra_poliomielite_e_sarampo_-_2018-09-15_-_Cristine_Rochol-PMPA.jpg/1280px-IBPA_16584_-_SMS_no_Dia_D_da_Campanha_Nacional_de_vacina%C3%A7%C3%A3o_contra_poliomielite_e_sarampo_-_2018-09-15_-_Cristine_Rochol-PMPA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2480,
+      "hauteur": 1653
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:500px photo (22803989).jpeg",
+      "description": "500px provided description: Some of my work. For photographs of people with personality and passion, email engage@jimhawkins.co.uk []",
+      "categories": [
+        "Brick buildings",
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Jim Hawkins",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(22803989).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/500px_photo_%2822803989%29.jpeg/1280px-500px_photo_%2822803989%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A window to the outside.jpg",
+      "description": "A window In my school",
+      "categories": [
+        "Windows",
+        "Self-published work"
+      ],
+      "auteur": "Monsieur_mahdi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_window_to_the_outside.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/A_window_to_the_outside.jpg/1280px-A_window_to_the_outside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3903,
+      "hauteur": 3947
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:IBPA 22806 - O secretário Adriano Naves de Brito visitou, na tarde - 2019-02-08 - Manoelle Duarte-SMED PMPA.jpg",
+      "description": "Porto Alegre, RS 07/02/2019: O secretário Adriano Naves de Brito visitou, na tarde desta quinta-feira (7), a Emef Grande Oriente. Foto: Manoelle Duarte/SMED PMPA Publicado em 8 de fevereiro de 2019 #Educação #Secretaria Municipal de Educação (SMED) #Escola Municipal de Ensino Fundamental (Emef) Grande Oriente #Secretário Municipal de Educação Adriano Naves de Brito",
+      "categories": [
+        "Jalousie windows",
+        "Education in Porto Alegre",
+        "Attribution only license",
+        "Photographs taken on 2019-02-08",
+        "February 2019 in Porto Alegre",
+        "Files by Agência Porto Alegre",
+        "Uploaded with Catrapilha",
+        "Secretaria Municipal de Educação (Porto Alegre)",
+        "Adriano Naves de Brito"
+      ],
+      "auteur": "Manoelle Duarte/SMED PMPA",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:IBPA_22806_-_O_secret%C3%A1rio_Adriano_Naves_de_Brito_visitou,_na_tarde_-_2019-02-08_-_Manoelle_Duarte-SMED_PMPA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/IBPA_22806_-_O_secret%C3%A1rio_Adriano_Naves_de_Brito_visitou%2C_na_tarde_-_2019-02-08_-_Manoelle_Duarte-SMED_PMPA.jpg/1280px-IBPA_22806_-_O_secret%C3%A1rio_Adriano_Naves_de_Brito_visitou%2C_na_tarde_-_2019-02-08_-_Manoelle_Duarte-SMED_PMPA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:IBPA 7409 - Prefeito Nelson Marchezan Júnior e sec de educação Adriano - 2017-08-16 - Ricardo Giusti-PMPA.jpg",
+      "description": "Prefeito Nelson Marchezan Júnior e sec de educação Adriano Naves de Brito visitam Escola de Educação Infantil Paulo Freire Local: Restinga Publicado em 16 de agosto de 2017 #Executivo #Visita #Bairro Restinga #Prefeito #Criança #Aluno #Educação Infantil",
+      "categories": [
+        "Nelson Marchezan Júnior",
+        "Jalousie windows",
+        "Education in Porto Alegre",
+        "Attribution only license",
+        "Students in Brazil",
+        "Society of Porto Alegre",
+        "Children of Brazil in 2017",
+        "Files by Agência Porto Alegre",
+        "2017 events in Porto Alegre",
+        "Uploaded with Catrapilha",
+        "Educating children",
+        "Official visits involving the Municipality of Porto Alegre",
+        "Adriano Naves de Brito",
+        "Events involving the Municipality of Porto Alegre",
+        "E. M. E. I. Paulo Freire"
+      ],
+      "auteur": "Ricardo Giusti/PMPA",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:IBPA_7409_-_Prefeito_Nelson_Marchezan_J%C3%BAnior_e_sec_de_educa%C3%A7%C3%A3o_Adriano_-_2017-08-16_-_Ricardo_Giusti-PMPA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/IBPA_7409_-_Prefeito_Nelson_Marchezan_J%C3%BAnior_e_sec_de_educa%C3%A7%C3%A3o_Adriano_-_2017-08-16_-_Ricardo_Giusti-PMPA.jpg/1280px-IBPA_7409_-_Prefeito_Nelson_Marchezan_J%C3%BAnior_e_sec_de_educa%C3%A7%C3%A3o_Adriano_-_2017-08-16_-_Ricardo_Giusti-PMPA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2480,
+      "hauteur": 1653
+    }
+  ]
+}

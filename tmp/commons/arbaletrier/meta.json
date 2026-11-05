@@ -1,0 +1,163 @@
+{
+  "terme": {
+    "id": "arbaletrier",
+    "terme": "l'arbalétrier",
+    "categorie": "Toitures",
+    "definition": "Pièce inclinée d'une ferme, qui monte de l'entrait jusqu'au faîtage et porte les pannes.",
+    "priorite": 2,
+    "requetes": [
+      "principal rafter truss",
+      "arbalétrier ferme",
+      "truss rafter timber"
+    ],
+    "incompatibles": [
+      "ferme"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Förbindelselgången June 2025 03.jpg",
+      "description": "Förbindelselgången was built in 1912 connecting different parts of Stockholm's slaughterhouse, Sweden. When it was built, it was one of the world's most modern slaughterhouses and meat-packing districts. Today, the building is protected as a cultural heritage site. The photo was taken on a cloudy day with low contrast, using a normal lens to create a realistic image without exposure fusion or wide-angle distortion.",
+      "categories": [
+        "Liminal spaces",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Featured pictures of Stockholm",
+        "Featured pictures by Arild Vågen",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Featured pictures of building interiors",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of industry buildings",
+        "Taken with Fujifilm GFX 50S II",
+        "June 2025 in Stockholm",
+        "Enskede slakthus",
+        "Taken with Mamiya Sekor 55mm F2.8",
+        "Stockholm photographs taken on 2025-06-20"
+      ],
+      "auteur": "ArildV",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelselg%C3%A5ngen_June_2025_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/F%C3%B6rbindelselg%C3%A5ngen_June_2025_03.jpg/1280px-F%C3%B6rbindelselg%C3%A5ngen_June_2025_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6230,
+      "hauteur": 4673
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Sigulda, 2015 (18).jpg",
+      "description": "Sigulda",
+      "categories": [
+        "Sigulda Castle ruins",
+        "Uploaded with pattypan",
+        "Roof trusses",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Draceane – Latvia",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sigulda,_2015_(18).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sigulda%2C_2015_%2818%29.jpg/1280px-Sigulda%2C_2015_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Förbindelselgången June 2025 04.jpg",
+      "description": "Förbindelselgången was built in 1912 to connect different parts of Stockholm's slaughterhouse, Sweden. When it was built, it was one of the world's most modern slaughterhouses and meat-packing districts. Today, the building is protected as a cultural heritage site.",
+      "categories": [
+        "Liminal spaces",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Fujifilm GFX 50S II",
+        "June 2025 in Stockholm",
+        "Enskede slakthus",
+        "Taken with Mamiya Sekor 55mm F2.8",
+        "Stockholm photographs taken on 2025-06-20"
+      ],
+      "auteur": "ArildV",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelselg%C3%A5ngen_June_2025_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/F%C3%B6rbindelselg%C3%A5ngen_June_2025_04.jpg/1280px-F%C3%B6rbindelselg%C3%A5ngen_June_2025_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6925,
+      "hauteur": 5194
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Förbindelsehallen, 2010a.jpg",
+      "description": "Slakthusområdet, Förbindelsehallen",
+      "categories": [
+        "Taken with Nikon Coolpix S51",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Interiors of factories in Stockholm",
+        "Photographs by Holger Ellgaard",
+        "Enskede slakthus"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelsehallen,_2010a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/F%C3%B6rbindelsehallen%2C_2010a.jpg/1280px-F%C3%B6rbindelsehallen%2C_2010a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2979,
+      "hauteur": 2139
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Sigulda, 2015 (28).jpg",
+      "description": "Sigulda",
+      "categories": [
+        "Elevators",
+        "Sigulda Castle ruins",
+        "Uploaded with pattypan",
+        "Roof trusses",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Draceane – Latvia",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sigulda,_2015_(28).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Sigulda%2C_2015_%2828%29.jpg/1280px-Sigulda%2C_2015_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:La Ligua autobuses.jpg",
+      "description": "Autobusový terminál v La Lize, VP, Chile (2019)",
+      "categories": [
+        "Bus stations in Chile",
+        "La Ligua",
+        "Roof trusses",
+        "Self-published work",
+        "Signs in Chile",
+        "Street vendors in Chile",
+        "Unidentified buses in Chile",
+        "Bus transport in Chile",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Draceane – Chile",
+        "Chile photographs taken on 2019-01-21",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C",
+        "Files by Draceane (non-standard naming)"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_Ligua_autobuses.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/La_Ligua_autobuses.jpg/1280px-La_Ligua_autobuses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "terme": {
+    "id": "mur-en-moellons",
+    "terme": "le mur en moellons",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Mur fait de pierres brutes ou grossièrement équarries liées au mortier.",
+    "priorite": 2,
+    "requetes": [
+      "rubble stone wall",
+      "mur en moellons",
+      "stone rubble masonry"
+    ],
+    "incompatibles": [
+      "moellon",
+      "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Stone walls",
+      "Category:Masonry"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:353g.jpg",
+      "description": "Ceci est une photo d'un monument en Israël, identifié sous le numéro",
+      "categories": [
+        "Walls in Israel",
+        "Taken with Canon EOS 400D",
+        "Stone walls",
+        "Self-published work",
+        "Portals in Israel",
+        "Heritage sites in Israel with known IDs",
+        "Khirbet Yarda",
+        "Files with coordinates missing SDC location of creation",
+        "Heritage sites in Israel missing SDC location of creation",
+        "Heritage sites in Israel missing SDC depicts"
+      ],
+      "auteur": "Talyalavi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:353g.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/353g.jpg/1280px-353g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 2920
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bossenmauerwerk.jpg",
+      "description": "Bossenmauerwerk",
+      "categories": [
+        "Copyrighted free use",
+        "Walls",
+        "Masonry",
+        "Media needing category review as of 10 August 2016"
+      ],
+      "auteur": "Reiner Flassig",
+      "licence": "Copyrighted free use",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bossenmauerwerk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bossenmauerwerk.jpg/1280px-Bossenmauerwerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2830,
+      "hauteur": 1697
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2011-365-224 Who Left the Front Door Open? (6037727584).jpg",
+      "description": "There are so many photogenic old barns and silos along highway 16 between Edmonton and Saskatoon....",
+      "categories": [
+        "Stone walls",
+        "Canadian Prairies",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2011-365-224_Who_Left_the_Front_Door_Open%3F_(6037727584).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2011-365-224_Who_Left_the_Front_Door_Open%3F_%286037727584%29.jpg/1280px-2011-365-224_Who_Left_the_Front_Door_Open%3F_%286037727584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Brick work P7100077.jpg",
+      "description": "Brick work in Laclede's Landing, St. Louis, Missouri.",
+      "categories": [
+        "Masonry",
+        "Laclede's Landing, St. Louis",
+        "Self-published work",
+        "Laclede's Landing Image by CLight"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_work_P7100077.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Brick_work_P7100077.jpg/1280px-Brick_work_P7100077.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2019-07-08 - Appareillage de briques et de galets.jpg",
+      "description": "Appareillage de briques et de galets",
+      "categories": [
+        "Stone walls",
+        "Brick walls",
+        "Self-published work",
+        "Images by Paul.schrepfer"
+      ],
+      "auteur": "Paul.schrepfer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2019-07-08_-_Appareillage_de_briques_et_de_galets.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/2019-07-08_-_Appareillage_de_briques_et_de_galets.jpg/1280px-2019-07-08_-_Appareillage_de_briques_et_de_galets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Arca, O Pedrouzo avenida de Lugo 6 xardín 3.jpg",
+      "description": "Valado dun xardín privado no número 6 da avenida de Lugo (farmacia Pazos) no Pedrouzo, cunha piña decorativa sobre un pedestal",
+      "categories": [
+        "Way of Saint James in the province of A Coruña",
+        "O Pedrouzo, Arca, O Pino",
+        "Stone walls",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "2020 in O Pino"
+      ],
+      "auteur": "Castelao",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arca,_O_Pedrouzo_avenida_de_Lugo_6_xard%C3%ADn_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Arca%2C_O_Pedrouzo_avenida_de_Lugo_6_xard%C3%ADn_3.jpg/1280px-Arca%2C_O_Pedrouzo_avenida_de_Lugo_6_xard%C3%ADn_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    }
+  ]
+}

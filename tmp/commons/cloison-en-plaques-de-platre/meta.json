@@ -1,0 +1,73 @@
+{
+  "terme": {
+    "id": "cloison-en-plaques-de-platre",
+    "terme": "la cloison en plaques de plâtre",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Cloison sèche faite de plaques de plâtre vissées de part et d'autre d'une ossature métallique.",
+    "priorite": 1,
+    "requetes": [
+      "drywall partition metal studs",
+      "cloison placo",
+      "drywall partition"
+    ],
+    "incompatibles": [
+      "cloison",
+      "plaque-de-platre"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blochets électriques à encastrer.jpg",
+      "description": "Deux blochets (boîtiers) électriques en plastique à encastrer : celui de gauche (gris) est à sceller avec du mortier et est destiné aux murs en dur (brique, béton), celui de droite (orange) est pour les cloisons en plaques de plâtre (Placo, Gyproc, etc.). Ces blochets sont destinés à recevoir un appareillage électrique encastrable (interrupteur, prise), ou servir à un simple raccord électrique.",
+      "categories": [
+        "Self-published work",
+        "Objects made of plastic"
+      ],
+      "auteur": "Reptilien.19831209BE1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blochets_%C3%A9lectriques_%C3%A0_encastrer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Blochets_%C3%A9lectriques_%C3%A0_encastrer.jpg/1280px-Blochets_%C3%A9lectriques_%C3%A0_encastrer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Laying of partition tracks in the future LIRR passenger service offices (CM014B, 2 21 2018) (39727883224).jpg",
+      "description": "Laying of partition tracks in the future LIRR passenger service offices (CM014B, 2/21/2018)",
+      "categories": [
+        "Drywalls",
+        "Flickr images reviewed by FlickreviewR 2",
+        "East Side Access construction/2018/02",
+        "Construction of Grand Central Madison",
+        "Flickr files uploaded by Epicgenius"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laying_of_partition_tracks_in_the_future_LIRR_passenger_service_offices_(CM014B,_2_21_2018)_(39727883224).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Laying_of_partition_tracks_in_the_future_LIRR_passenger_service_offices_%28CM014B%2C_2_21_2018%29_%2839727883224%29.jpg/1280px-Laying_of_partition_tracks_in_the_future_LIRR_passenger_service_offices_%28CM014B%2C_2_21_2018%29_%2839727883224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2016,
+      "hauteur": 1512
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Baumaterialhandel, Füzesstrasse, 2025 Dunaföldvár.jpg",
+      "description": "Barta Ép-Ker construction material retail site. Concrete products, core block, column formwork element, basement wall block, partition wall, formwork blocks, reinforcing steel, decorative coverings, decorative stones, Indoor and outdoor wall coverings, parquet, paneling, OSB masonry elements, small and large bricks, paints, stains, thinner, impregnator, lintel, concrete beam, ceiling beam, ceramic core block Drywall, screws, drywall, accessories, Profiles Chimney systems, tiling, screws, nails, sanders, brush, roller, Adhesive tape, tools, Protective foil, protective paper Work safety Foam sea",
+      "categories": [
+        "Construction materials in Hungary",
+        "Self-published work",
+        "Retail in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "August 2025 Hungary photographs",
+        "2025 in Dunaföldvár",
+        "Füzes sor, Dunaföldvár"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baumaterialhandel,_F%C3%BCzesstrasse,_2025_Dunaf%C3%B6ldv%C3%A1r.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Baumaterialhandel%2C_F%C3%BCzesstrasse%2C_2025_Dunaf%C3%B6ldv%C3%A1r.jpg/1280px-Baumaterialhandel%2C_F%C3%BCzesstrasse%2C_2025_Dunaf%C3%B6ldv%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    }
+  ]
+}

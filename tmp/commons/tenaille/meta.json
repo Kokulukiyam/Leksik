@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "tenaille",
+    "terme": "la tenaille",
+    "categorie": "Chantier et outillage",
+    "definition": "Pince à mâchoires arrondies et coupantes, qui sert au ferrailleur à serrer et couper le fil de ligature.",
+    "priorite": 2,
+    "requetes": [
+      "tower pincers",
+      "tenaille",
+      "rebar tying pliers"
+    ],
+    "categoriesCommons": [
+      "Category:Pincers",
+      "Category:Pliers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tool-zange hg.jpg",
+      "description": "Kneifzange aus den 1950er Jahren",
+      "categories": [
+        "Pincers",
+        "Self-published work"
+      ],
+      "auteur": "Hannes Grobe",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tool-zange_hg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Tool-zange_hg.jpg/1280px-Tool-zange_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4562,
+      "hauteur": 3040
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Alicates (tipos).jpg",
+      "description": "Alicate universal, de corte, de puntas planas",
+      "categories": [
+        "Pliers",
+        "Self-published work"
+      ],
+      "auteur": "RaquelRendo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alicates_(tipos).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Alicates_%28tipos%29.jpg/1280px-Alicates_%28tipos%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5312,
+      "hauteur": 2988
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Maker Faire, Berlin (BL7C0176).jpg",
+      "description": "Maker Faire Berlin 2018, FEZ Wuhlheide",
+      "categories": [
+        "Taken with Canon EOS 5D Mark III and Canon EF 24-105mm F4L IS USM",
+        "Pincers",
+        "Hand tools",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Maker Faire Berlin 2018",
+        "Berlin photographs taken on 2018-05-26",
+        "Pictures by MB-one rejected",
+        "Fidget spinners production"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Maker_Faire,_Berlin_(BL7C0176).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Maker_Faire%2C_Berlin_%28BL7C0176%29.jpg/1280px-Maker_Faire%2C_Berlin_%28BL7C0176%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3840,
+      "hauteur": 5760
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Ausstellung, Metallwerkzeuge, Pávastrasse 39, 2026 Ferencváros.jpg",
+      "description": "Adobe brick mold (wood), Tir filter, sheet metal plier, sheet metal cutter. Casted brass bell. Copper mixing bowl reenforced with tin - Synagogue Gallery level. “The Path of Memory—Narratives and Traces of the Roma Holocaust” is a temporary exhibition at the Holocaust Memorial Center. - About the Synagogue : in 1909, Géza Belatini Braun—who is also credited with the “invention” of Hubertus liqueur—donated the plot of land for the construction of a synagogue for the Jewish community of Ferencváros. The synagogue, with its Oriental-style main façadeand a capacity of 1,700 people, was built after",
+      "categories": [
+        "Pliers",
+        "Cutting tools",
+        "Self-published work",
+        "Bells in Hungary",
+        "Taken on missing SDC inception",
+        "Tools of Hungary",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Exhibitions in Budapest",
+        "Páva Street Synagogue-interior",
+        "Hungary photographs taken on 2026-05-10",
+        "Budapest 100 in 2026"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ausstellung,_Metallwerkzeuge,_P%C3%A1vastrasse_39,_2026_Ferencv%C3%A1ros.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Ausstellung%2C_Metallwerkzeuge%2C_P%C3%A1vastrasse_39%2C_2026_Ferencv%C3%A1ros.jpg/1280px-Ausstellung%2C_Metallwerkzeuge%2C_P%C3%A1vastrasse_39%2C_2026_Ferencv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ushat SPMZ.jpg",
+      "description": "Бочка, клещи. Архангельская губ., 19 - 1-я пол. 20 в.",
+      "categories": [
+        "CC-Zero",
+        "Pincers",
+        "Self-published work",
+        "Barrels in Russia",
+        "Russian peasant domestic objects",
+        "Tools in Museum of Sergiev Posad"
+      ],
+      "auteur": "Лапоть",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ushat_SPMZ.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Ushat_SPMZ.jpg/1280px-Ushat_SPMZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1544,
+      "hauteur": 1930
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:SyakuzouJi KuginukiEma.jpg",
+      "description": "Japon - Kyoto - le temple de \"Jizo-tenaille\" (en japonais kugi-nuki), qui retire les clous, les épines et les échardes. Autrefois, il y eut un commerçant de Kyoto qui souffrait de douleurs aux mains. Comme aucun médecin n'était capable de le soulager, il entreprit une retraite de prières adressées au Bodhisattva Jizo. Le dernier jour, Jizo lui apparut en rêve et lui révéla que son mal était d'origine karmique, causé par une action commise dans une existence précédente où il s'était livré à des activités de vaudou consistant à piquer des figurines avec des épingles. Toutefois, grâce à sa dévoti",
+      "categories": [
+        "GFDL",
+        "Pincers",
+        "License migration redundant",
+        "Self-published work",
+        "Shakuzō-ji"
+      ],
+      "auteur": "PlusMinus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:SyakuzouJi_KuginukiEma.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/SyakuzouJi_KuginukiEma.jpg/1280px-SyakuzouJi_KuginukiEma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1544,
+      "hauteur": 1441
+    }
+  ]
+}

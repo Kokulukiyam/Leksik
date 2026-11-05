@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "paumelle",
+    "terme": "la paumelle",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Ferrure de rotation en deux parties emboîtées sur un axe, l'une fixée au dormant et l'autre au vantail.",
+    "priorite": 1,
+    "requetes": [
+      "lift off hinge door",
+      "paumelle porte",
+      "paumelle"
+    ],
+    "incompatibles": [
+      "charniere",
+      "gond"
+    ],
+    "categoriesCommons": [
+      "Category:Door hinges",
+      "Category:Hinges"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Brompton3.jpeg",
+      "description": "",
+      "categories": [
+        "Hinges",
+        "Taken with Nikon Coolpix 4600",
+        "Copyrighted free use",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Brompton bicycles",
+        "Media missing infobox template"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Copyrighted free use",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brompton3.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Brompton3.jpeg/1280px-Brompton3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Door Hinge MET 216811.jpg",
+      "description": "Door hinge; Metal",
+      "categories": [
+        "CC-Zero",
+        "Door hinges",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "18th-century metalwork",
+        "Metalwork in the Metropolitan Museum of Art",
+        "Architectural elements in the Metropolitan Museum of Art (American Decorative Arts)"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_Hinge_MET_216811.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Door_Hinge_MET_216811.jpg/1280px-Door_Hinge_MET_216811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2624,
+      "hauteur": 1984
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chorgestühl-Efferen-Darstellung-St-Mariä-Geburt.JPG",
+      "description": "Hürth-Efferen: Chorgestühl mit Darstellung St. Mariä-Geburt. Scharnier und Wange",
+      "categories": [
+        "Hinges",
+        "GFDL",
+        "Taken with Canon EOS 450D",
+        "St. Mariä Geburt (Efferen)",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "HOWI - Horsch, Willy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chorgest%C3%BChl-Efferen-Darstellung-St-Mari%C3%A4-Geburt.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Chorgest%C3%BChl-Efferen-Darstellung-St-Mari%C3%A4-Geburt.JPG/1280px-Chorgest%C3%BChl-Efferen-Darstellung-St-Mari%C3%A4-Geburt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4145,
+      "hauteur": 1972
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Corn crib corner view.jpg",
+      "description": "Corner view showing notch detail and horse shoe door hinge on one of the two corn cribs at the Mountain Farm Museum, adjacent to the Oconaluftee Visitor Center in the Great Smoky Mountains National Park, North Carolina.",
+      "categories": [
+        "Corn Crib (Mountain Farm Museum)",
+        "GFDL",
+        "Taken with Nikon D50",
+        "Agricultural buildings in the United States",
+        "Door hinges",
+        "License migration redundant",
+        "Log cabin corner joints",
+        "Self-published work",
+        "Hinges in the United States",
+        "Plank houses (log type)"
+      ],
+      "auteur": "Galen Parks Smith",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corn_crib_corner_view.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Corn_crib_corner_view.jpg/1280px-Corn_crib_corner_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1953,
+      "hauteur": 2997
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bozen 2 (26).jpg",
+      "description": "Bozen-Bolzano Hbf —",
+      "categories": [
+        "Hinges",
+        "Taken with Sony DSC-HX5VN",
+        "Bolzano train station",
+        "Self-published work",
+        "PD-self",
+        "Uploaded with Commonist",
+        "User:Mattes/Contributions/Topics/Italy/Bozen-Bolzano",
+        "Work by Mattes 2011",
+        "Files with coordinates missing SDC location of creation",
+        "File uploads by User:Mattes (flat)",
+        "User:Mattes/Contributions/Topics/Technology",
+        "Files of Bolzano with bad file names"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bozen_2_(26).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bozen_2_%2826%29.jpg/1280px-Bozen_2_%2826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Adnet - Pfarrkirche Adnet - Tür 2.jpg",
+      "description": "Detail der Eingangstür zur Pfarrkirche Adnet, Bezirk Hallein, Land Salzburg",
+      "categories": [
+        "Door hinges",
+        "Pfarrkirche Adnet",
+        "Self-published work",
+        "Doors in Salzburg (state)",
+        "Decorative hinges in Austria",
+        "Photographs of Bezirk Hallein by Eweht"
+      ],
+      "auteur": "Eweht",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adnet_-_Pfarrkirche_Adnet_-_T%C3%BCr_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Adnet_-_Pfarrkirche_Adnet_-_T%C3%BCr_2.jpg/1280px-Adnet_-_Pfarrkirche_Adnet_-_T%C3%BCr_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4877,
+      "hauteur": 3251
+    }
+  ]
+}

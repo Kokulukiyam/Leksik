@@ -1,0 +1,155 @@
+{
+  "terme": {
+    "id": "compteur-electrique",
+    "terme": "le compteur électrique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil qui mesure l'électricité consommée, avec un afficheur, installé à l'entrée du logement.",
+    "priorite": 1,
+    "requetes": [
+      "electricity meter",
+      "compteur électrique",
+      "incategory:\"Electricity meters\""
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:DC electric meters STIA, before 1945.jpg",
+      "description": "Liczniki prądu stałego STIA, 10 A, 225 V, przed 1945, na tabliczce napis Zoppot",
+      "categories": [
+        "Electricity meters (kWh)",
+        "Self-published work"
+      ],
+      "auteur": "LukaszKatlewa",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DC_electric_meters_STIA,_before_1945.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/DC_electric_meters_STIA%2C_before_1945.jpg/1280px-DC_electric_meters_STIA%2C_before_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:2008-08-12 Technician disconnecting electricity for nonpayment.jpg",
+      "description": "A Duke Energy technician disconnecting electricity at a residence due to nonpayment in Durham, North Carolina .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Personality rights warning",
+        "Duke Energy",
+        "Electricity meters (kWh)",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Culture of Durham, North Carolina",
+        "Self-published work",
+        "Men at work in North Carolina",
+        "August 2008 in North Carolina",
+        "Files with coordinates missing SDC location of creation",
+        "Durham, North Carolina in the 2000s",
+        "United States photographs taken on 2008-08-12",
+        "1 man in the United States",
+        "Standing men in North Carolina",
+        "Men of the United States in 2008",
+        "Men facing right and looking right in the United States",
+        "Men at work in the 2000s",
+        "Files by User:Specious"
+      ],
+      "auteur": "Ildar Sagdejev ( Specious )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-08-12_Technician_disconnecting_electricity_for_nonpayment.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2008-08-12_Technician_disconnecting_electricity_for_nonpayment.jpg/1280px-2008-08-12_Technician_disconnecting_electricity_for_nonpayment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2548,
+      "hauteur": 3822
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2008-08-12 Technician preparing to disconnect electricity at a residence.jpg",
+      "description": "A Duke Energy technician preparing to disconnect electricity at a residence in Durham, North Carolina .",
+      "categories": [
+        "Workers",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Personality rights warning",
+        "Duke Energy",
+        "Electricity meters (kWh)",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Culture of Durham, North Carolina",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Durham, North Carolina in the 2000s",
+        "Files by User:Specious"
+      ],
+      "auteur": "Ildar Sagdejev ( Specious )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-08-12_Technician_preparing_to_disconnect_electricity_at_a_residence.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2008-08-12_Technician_preparing_to_disconnect_electricity_at_a_residence.jpg/1280px-2008-08-12_Technician_preparing_to_disconnect_electricity_at_a_residence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Czech-electric-meter.jpg",
+      "description": "Czech electric meter. Photo taken by Petr.adamek (petr.adamek(at)bilysklep.cz) in September 2005.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ10",
+        "Files with no machine-readable source",
+        "Electricity meters (kWh)",
+        "Tamper-evident seals",
+        "Self-published work",
+        "PD-self",
+        "Assumed own work",
+        "Photographs taken on 2005-09-13"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Petr.adamek (étant donné la revendication de droit d’auteur).",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Czech-electric-meter.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Czech-electric-meter.jpg/1280px-Czech-electric-meter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1728,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2008-08-12 Technician reading electricity meter at a residence.jpg",
+      "description": "A Duke Energy technician reading an electricity meter at a residence in Durham, North Carolina .",
+      "categories": [
+        "Workers",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "Personality rights warning",
+        "Duke Energy",
+        "Electricity meters (kWh)",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Files by User:Specious"
+      ],
+      "auteur": "Ildar Sagdejev ( Specious )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-08-12_Technician_reading_electricity_meter_at_a_residence.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2008-08-12_Technician_reading_electricity_meter_at_a_residence.jpg/1280px-2008-08-12_Technician_reading_electricity_meter_at_a_residence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:15-07-15-Campeche-Straßenszene-RalfR-WMA 0792.jpg",
+      "description": "Electric meter in Campeche, Yucatan, Mexico",
+      "categories": [
+        "GFDL-1.2",
+        "Electricity meters (kWh)",
+        "Images by Ralf Roletschek/x",
+        "Supported by Wikimedia Österreich in 2015",
+        "Street furniture in Campeche",
+        "2015 in San Francisco de Campeche",
+        "Supported by Wikimedia Österreich/Wikimania 2015 Mexico/Ralf Roletschek"
+      ],
+      "auteur": "Ralf Roletschek",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:15-07-15-Campeche-Stra%C3%9Fenszene-RalfR-WMA_0792.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/15-07-15-Campeche-Stra%C3%9Fenszene-RalfR-WMA_0792.jpg/1280px-15-07-15-Campeche-Stra%C3%9Fenszene-RalfR-WMA_0792.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    }
+  ]
+}

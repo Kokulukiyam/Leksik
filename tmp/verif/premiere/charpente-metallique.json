@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Minneapolis, États-Unis",
       "note": "Silo béton ; aucune charpente métallique visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pylône treillis d'un pont suspendu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une charpente de toit."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pièce tubulaire sombre en contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture/élément isolé, illisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Structure métallique industrielle abandonnée envahie par la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruine, pas une charpente de toit."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan de marches rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chantier avec ossature d'acier en tour et grue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature verticale, pas une charpente de toit."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade à treillis blanc décoratif.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Habillage de façade."
     }
   ]
 }

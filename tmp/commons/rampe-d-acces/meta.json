@@ -1,0 +1,159 @@
+{
+  "terme": {
+    "id": "rampe-d-acces",
+    "terme": "la rampe d'accès",
+    "categorie": "Escaliers et circulations",
+    "definition": "Plan incliné qui permet aux fauteuils roulants et poussettes de franchir une différence de niveau.",
+    "priorite": 2,
+    "requetes": [
+      "wheelchair ramp",
+      "rampe d'accès PMR",
+      "accessibility ramp"
+    ],
+    "incompatibles": [
+      "bateau-de-trottoir"
+    ],
+    "categoriesCommons": [
+      "Category:Wheelchair ramps",
+      "Category:Ramps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dancer bus, Busworld Europe 2023, Brussels (P1140249).jpg",
+      "description": "Dancer bus at Busworld Europe 2023",
+      "categories": [
+        "GFDL",
+        "Wheelchair ramps",
+        "License migration redundant",
+        "Dancer buses",
+        "Busworld Europe 2023 (supported by Wikimedia Deutschland)",
+        "Self-published work",
+        "Full-size buses in Belgium",
+        "CC-BY-SA-2.0+",
+        "Pictures by MB-one rejected",
+        "Bus sliding-plug doors"
+      ],
+      "auteur": "MB-one",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dancer_bus,_Busworld_Europe_2023,_Brussels_(P1140249).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dancer_bus%2C_Busworld_Europe_2023%2C_Brussels_%28P1140249%29.jpg/1280px-Dancer_bus%2C_Busworld_Europe_2023%2C_Brussels_%28P1140249%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:CardiffBay-lookingnorth-01.jpg",
+      "description": "Looking north along from the present western entrance to Cardiff Bay railway station . The platform seen here is the only one currently in use, a disused and abandonded one and very overgrown goods yard are to the right of the tall fence. Behind the camera is the station building - now also very disused.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ20",
+        "Cardiff Bay railway station",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Ramps",
+        "Self-published work",
+        "May 2006 in Cardiff",
+        "Railway station platforms in Wales",
+        "Railway photographs by Chris McKenna"
+      ],
+      "auteur": "Chris McKenna ( Thryduulf )",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CardiffBay-lookingnorth-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/CardiffBay-lookingnorth-01.jpg/1280px-CardiffBay-lookingnorth-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Asemakatu 5 Oulu 20201212 03.jpg",
+      "description": "Porches of the former Kirkkotori primary school in Oulu.",
+      "categories": [
+        "Taken with Canon EOS 6D",
+        "CC-Zero",
+        "Wheelchair ramps",
+        "Self-published work",
+        "Photographs by Estormiz",
+        "Accessibility in Finland",
+        "December 2020 in Oulu",
+        "Finland photographs taken on 2020-12-12",
+        "Porches in Oulu",
+        "Asemakatu 5, Oulu",
+        "Buildings in Oulu at night"
+      ],
+      "auteur": "Estormiz",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Asemakatu_5_Oulu_20201212_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Asemakatu_5_Oulu_20201212_03.jpg/1280px-Asemakatu_5_Oulu_20201212_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2669
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Birmingham New Street Station from Queens Drive - Ramp to upper car park (4387813087).jpg",
+      "description": "This is the ramp to the upper car park. Possibly for The Pallasades.",
+      "categories": [
+        "Taken with Fujifilm FinePix S1500",
+        "Ramps",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Car parks in the West Midlands (county)",
+        "February 2010 in Birmingham",
+        "Uploads by Oxyman",
+        "Photographs by Elliott Brown",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)",
+        "Birmingham New Street railway station (1967-2015)"
+      ],
+      "auteur": "Elliott Brown from Birmingham, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Birmingham_New_Street_Station_from_Queens_Drive_-_Ramp_to_upper_car_park_(4387813087).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Birmingham_New_Street_Station_from_Queens_Drive_-_Ramp_to_upper_car_park_%284387813087%29.jpg/1280px-Birmingham_New_Street_Station_from_Queens_Drive_-_Ramp_to_upper_car_park_%284387813087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Mitchell County Courthouse (South face).JPG",
+      "description": "Camilla, Mitchell County, Georgia",
+      "categories": [
+        "Wheelchair ramps",
+        "Self-published work",
+        "January 2013 in Georgia (U.S. state)",
+        "Lamp posts in Georgia (U.S. state)",
+        "Mitchell County Courthouse (Georgia)",
+        "Outside stairs in Georgia (U.S. state)",
+        "Sidewalks in Georgia (U.S. state)",
+        "Buildings in the United States photographed in 2013",
+        "United States photographs taken on 2013-01-27",
+        "2013 Georgia (U.S. state) photos by Mjrmtg taken with Sony DSC-S700",
+        "2013 in Camilla, Georgia"
+      ],
+      "auteur": "Michael Rivera",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mitchell_County_Courthouse_(South_face).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Mitchell_County_Courthouse_%28South_face%29.JPG/1280px-Mitchell_County_Courthouse_%28South_face%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Brandlova 2, podloubí u Hviezdoslavovy, schody a rampy před Tescem.jpg",
+      "description": "Prague - Chodov , Czechia . Brandlova 1640/2.",
+      "categories": [
+        "Pedestrian ramps in Czechia",
+        "Ramps",
+        "Czech Republic photographs taken on 2016-11-10",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Outside stairs in Chodov (Prague)",
+        "Arcades in Prague",
+        "Brandlova 2 - 6 (obchodní centrum)",
+        "Passages in Chodov (Prague)"
+      ],
+      "auteur": "ŠJů",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brandlova_2,_podloub%C3%AD_u_Hviezdoslavovy,_schody_a_rampy_p%C5%99ed_Tescem.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Brandlova_2%2C_podloub%C3%AD_u_Hviezdoslavovy%2C_schody_a_rampy_p%C5%99ed_Tescem.jpg/1280px-Brandlova_2%2C_podloub%C3%AD_u_Hviezdoslavovy%2C_schody_a_rampy_p%C5%99ed_Tescem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    }
+  ]
+}

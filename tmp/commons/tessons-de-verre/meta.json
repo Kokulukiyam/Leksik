@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "tessons-de-verre",
+    "terme": "les tessons de verre",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Morceaux de bouteilles cassées (tessons de bouteille) scellés dans le mortier en crête de mur pour empêcher l'escalade.",
+    "priorite": 1,
+    "requetes": [
+      "broken glass wall top",
+      "tessons de bouteille sur mur",
+      "glass shards on wall security"
+    ],
+    "incompatibles": [
+      "mur-de-cloture"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Wall topped with Broken Glass, Parsonshole Quarry (2).jpg",
+      "description": "A wall topped with broken glass, at the top of a drop at Parsonshole Quarry, on the coast of Torquay, Devon.",
+      "categories": [
+        "Broken glass bottles",
+        "Self-published work",
+        "August 2017 in Devon",
+        "Files with coordinates missing SDC location of creation (50° N, 4° W)",
+        "Walls in Torquay",
+        "Photographs by Partonez"
+      ],
+      "auteur": "Partonez",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wall_topped_with_Broken_Glass,_Parsonshole_Quarry_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wall_topped_with_Broken_Glass%2C_Parsonshole_Quarry_%282%29.jpg/1280px-Wall_topped_with_Broken_Glass%2C_Parsonshole_Quarry_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Wall topped with Broken Glass, Parsonshole Quarry (1).jpg",
+      "description": "A wall topped with broken glass, at the top of a drop at Parsonshole Quarry, on the coast of Torquay, Devon.",
+      "categories": [
+        "Broken glass bottles",
+        "Self-published work",
+        "April 2018 in Devon",
+        "Files with coordinates missing SDC location of creation (50° N, 4° W)",
+        "Walls in Torquay",
+        "Photographs by Partonez"
+      ],
+      "auteur": "Partonez",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wall_topped_with_Broken_Glass,_Parsonshole_Quarry_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Wall_topped_with_Broken_Glass%2C_Parsonshole_Quarry_%281%29.jpg/1280px-Wall_topped_with_Broken_Glass%2C_Parsonshole_Quarry_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Broken glass attached to top of wall (18813162865).jpg",
+      "description": "Barcelona in 2015",
+      "categories": [
+        "May 2015 in Barcelona",
+        "Spain photographs taken on 2015-05-30",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Eric Fischer"
+      ],
+      "auteur": "Eric Fischer",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_glass_attached_to_top_of_wall_(18813162865).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Broken_glass_attached_to_top_of_wall_%2818813162865%29.jpg/1280px-Broken_glass_attached_to_top_of_wall_%2818813162865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Broken glass atop wall at Fremantle Prison 01.JPG",
+      "description": "Broken glass cemented to the top of a wall at Fremantle Prison",
+      "categories": [
+        "Fremantle Prison",
+        "Broken glass",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Anti-climb"
+      ],
+      "auteur": "Mitch Ames",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_glass_atop_wall_at_Fremantle_Prison_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Broken_glass_atop_wall_at_Fremantle_Prison_01.JPG/1280px-Broken_glass_atop_wall_at_Fremantle_Prison_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Broken glass atop wall at Fremantle Prison 02.JPG",
+      "description": "Broken glass cemented to the top of a wall at Fremantle Prison",
+      "categories": [
+        "Fremantle Prison",
+        "Broken glass",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Anti-climb"
+      ],
+      "auteur": "Mitch Ames",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_glass_atop_wall_at_Fremantle_Prison_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Broken_glass_atop_wall_at_Fremantle_Prison_02.JPG/1280px-Broken_glass_atop_wall_at_Fremantle_Prison_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Broken-glass-topped garden wall, Frenchman Street, New Orleans, Louisiana, USA.jpg",
+      "description": "Frenchmen Street, Marigny, New Orleans",
+      "categories": [
+        "Photographs by Cory Doctorow",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Walls in New Orleans",
+        "Frenchmen Street, Marigny",
+        "January 2024 in Faubourg Marigny"
+      ],
+      "auteur": "Cory Doctorow",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken-glass-topped_garden_wall,_Frenchman_Street,_New_Orleans,_Louisiana,_USA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Broken-glass-topped_garden_wall%2C_Frenchman_Street%2C_New_Orleans%2C_Louisiana%2C_USA.jpg/1280px-Broken-glass-topped_garden_wall%2C_Frenchman_Street%2C_New_Orleans%2C_Louisiana%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    }
+  ]
+}

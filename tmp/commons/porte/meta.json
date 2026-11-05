@@ -1,0 +1,154 @@
+{
+  "terme": {
+    "id": "porte",
+    "terme": "la porte",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Ouvrage mobile, en bois, métal ou verre, qui ferme une baie de passage dans un mur ou une cloison.",
+    "priorite": 1,
+    "requetes": [
+      "porte intérieure bois fermée",
+      "wooden door closed",
+      "door"
+    ],
+    "categoriesCommons": [
+      "Category:Wooden doors",
+      "Category:Doors"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2026-09-05 Sigwardskirche Idensen 1470718.jpg",
+      "description": "Alte Holztür in der Sigwardskirche Idensen",
+      "categories": [
+        "Wooden doors",
+        "Interior of Sigwardskirche Idensen",
+        "Self-published work",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Uploaded via Campaign:wlm-de-ni",
+        "Cultural heritage monuments in Lower Saxony with known IDs",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC copyright license",
+        "Images from Wiki Loves Monuments missing SDC copyright status",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Images from Wiki Loves Monuments 2026 in Germany",
+        "Images from Wiki Loves Monuments 2026",
+        "Cultural heritage monuments in Lower Saxony missing SDC depicts",
+        "Cultural heritage monuments in Lower Saxony missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2026 in Germany not for prejury",
+        "Images from Wiki Loves Monuments 2026, DE-NI"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-09-05_Sigwardskirche_Idensen_1470718.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2026-09-05_Sigwardskirche_Idensen_1470718.jpg/1280px-2026-09-05_Sigwardskirche_Idensen_1470718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:23 1-2-Fuji Reala pushed 2 stops (5826165749).jpg",
+      "description": "23 1/2-Fuji Reala pushed 2 stops",
+      "categories": [
+        "Doors",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Darren Stone",
+        "Fractional house numbers"
+      ],
+      "auteur": "DARREN ST0NE",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:23_1-2-Fuji_Reala_pushed_2_stops_(5826165749).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/23_1-2-Fuji_Reala_pushed_2_stops_%285826165749%29.jpg/1280px-23_1-2-Fuji_Reala_pushed_2_stops_%285826165749%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Architecture of an old wooden house in kargil Bazaar,1.jpg",
+      "description": "An old wooden house showcasing traditional architecture in Kargil Bazaar, Ladakh, India.",
+      "categories": [
+        "Wooden doors",
+        "Kargil district",
+        "Self-published work",
+        "Wiki Loves Himalayas",
+        "Uploads by Rajani Gairshail",
+        "Wooden Houses in Kargil Bazaar",
+        "Kargil Bazaar",
+        "Wooden Houses in India"
+      ],
+      "auteur": "Rajani Gairshail",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Architecture_of_an_old_wooden_house_in_kargil_Bazaar,1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Architecture_of_an_old_wooden_house_in_kargil_Bazaar%2C1.jpg/1280px-Architecture_of_an_old_wooden_house_in_kargil_Bazaar%2C1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2025-03-12 Castel Nuovo Entrance Door Right.jpg",
+      "description": "ナポリ ヌオーヴォ城",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "C1815",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-12_Castel_Nuovo_Entrance_Door_Right.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2025-03-12_Castel_Nuovo_Entrance_Door_Right.jpg/1280px-2025-03-12_Castel_Nuovo_Entrance_Door_Right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Asso, entrata casa Magnocavallo.JPG",
+      "description": "entrata della casa Magnocavallo, ad Asso (CO), famiglia preservata dalla peste nell'epidemia del 1574",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix 4600",
+        "CC-BY-SA-2.5,2.0,1.0",
+        "Wooden doors",
+        "Files with no machine-readable source",
+        "License migration redundant",
+        "Self-published work",
+        "Pavement stairs",
+        "Assumed own work",
+        "Stairs in Lombardy",
+        "Arch doors in Italy",
+        "Photographs taken on 2006-04-02",
+        "Asso (comune, Italy)",
+        "Private outside stairs in Italy"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Dacxjo~commonswiki (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Asso,_entrata_casa_Magnocavallo.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Asso%2C_entrata_casa_Magnocavallo.JPG/1280px-Asso%2C_entrata_casa_Magnocavallo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1712,
+      "hauteur": 2288
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:20140814 BozenBolzanoSuedTirol DoorDetail DSC02169 PtrQs.jpg",
+      "description": "Details of a door in Bolzano, South Tyrol/Italy",
+      "categories": [
+        "Doors",
+        "Taken with Sony DSLR-A900",
+        "Self-published work",
+        "Files by User:PtrQs",
+        "Photographs taken with Minolta AF 17-35mm F3.5",
+        "No QIC by usr:PtrQs"
+      ],
+      "auteur": "PtrQs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20140814_BozenBolzanoSuedTirol_DoorDetail_DSC02169_PtrQs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/20140814_BozenBolzanoSuedTirol_DoorDetail_DSC02169_PtrQs.jpg/1280px-20140814_BozenBolzanoSuedTirol_DoorDetail_DSC02169_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3741,
+      "hauteur": 5612
+    }
+  ]
+}

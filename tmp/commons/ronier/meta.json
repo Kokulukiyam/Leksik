@@ -1,0 +1,151 @@
+{
+  "terme": {
+    "id": "ronier",
+    "terme": "le rônier",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Palmier dont le stipe, très résistant aux termites, est débité en lattes et en poutres pour la charpente.",
+    "priorite": 2,
+    "requetes": [
+      "borassus palm",
+      "rônier Sénégal",
+      "Borassus aethiopum"
+    ],
+    "incompatibles": [
+      "toron"
+    ],
+    "categoriesCommons": [
+      "Category:Borassus aethiopum",
+      "Category:Borassus"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Deleb palm trees in Zankan 3.jpg",
+      "description": "Deleb (African Fan) palm trees on a large field in Zankan, along the Kafanchan-Jos road during the cold harmattan dry season, in Zankan-Manchok, Kaduna Sate, Nigeria.",
+      "categories": [
+        "Borassus aethiopum",
+        "Kaura LGA",
+        "Images from Wiki Loves Africa 2023 by Tyap Wikimedians Community",
+        "Manchok",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2023",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2023 to check",
+        "Images from Wiki Loves Africa 2023 in Nigeria"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deleb_palm_trees_in_Zankan_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Deleb_palm_trees_in_Zankan_3.jpg/1280px-Deleb_palm_trees_in_Zankan_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Racines de ronier.jpg",
+      "description": "tubercules, jeunes racines de graine de ronier",
+      "categories": [
+        "Borassus",
+        "Togo",
+        "Roots",
+        "Tubers",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2024-11-01"
+      ],
+      "auteur": "Hermannkass",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Racines_de_ronier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Racines_de_ronier.jpg/1280px-Racines_de_ronier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Deleb palm trees in Zankan 6.jpg",
+      "description": "Deleb (African Fan) palm trees on a large field in Zankan, along the Kafanchan-Jos road during the cold harmattan dry season, Zankan-Manchok, Kaduna Sate, Nigeria.",
+      "categories": [
+        "Borassus aethiopum",
+        "Ponds",
+        "Images from Wiki Loves Africa 2023 by Tyap Wikimedians Community",
+        "Manchok",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2023",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2023 to check",
+        "Images from Wiki Loves Africa 2023 in Nigeria"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deleb_palm_trees_in_Zankan_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Deleb_palm_trees_in_Zankan_6.jpg/1280px-Deleb_palm_trees_in_Zankan_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Rônier 06.jpg",
+      "description": "Le rônier est un abre fruitier de la famille des Borassus",
+      "categories": [
+        "Borassus",
+        "Flora of Togo",
+        "Self-published work",
+        "Uploaded via Campaign:wle-tg",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Images from Wiki Loves Earth 2025",
+        "Images from Wiki Loves Earth 2025 in Togo"
+      ],
+      "auteur": "Koutre991",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:R%C3%B4nier_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/R%C3%B4nier_06.jpg/1280px-R%C3%B4nier_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 1872
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Deleb trees in Zankan.jpg",
+      "description": "Deleb trees in Zankan during the cold harmattan dry season, near Manchok, Kaduna Sate, Nigeria.",
+      "categories": [
+        "Borassus aethiopum",
+        "Kaura LGA",
+        "Images from Wiki Loves Africa 2023 by Tyap Wikimedians Community",
+        "Manchok",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2023",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2023 to check",
+        "Images from Wiki Loves Africa 2023 in Nigeria"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deleb_trees_in_Zankan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Deleb_trees_in_Zankan.jpg/1280px-Deleb_trees_in_Zankan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Racines de ronier 2.jpg",
+      "description": "tubercules, jeunes racines de graine de ronier",
+      "categories": [
+        "Borassus",
+        "Togo",
+        "Roots",
+        "Tubers",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2024-11-01"
+      ],
+      "auteur": "Hermannkass",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Racines_de_ronier_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Racines_de_ronier_2.jpg/1280px-Racines_de_ronier_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 4032
+    }
+  ]
+}

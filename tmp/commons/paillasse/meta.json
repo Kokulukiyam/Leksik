@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "paillasse",
+    "terme": "la paillasse",
+    "categorie": "Escaliers et circulations",
+    "definition": "Dalle inclinée en béton armé qui porte les marches d'un escalier, visible en sous-face.",
+    "priorite": 1,
+    "requetes": [
+      "concrete stair soffit",
+      "paillasse escalier béton",
+      "concrete staircase underside"
+    ],
+    "incompatibles": [
+      "escalier-en-beton"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete stairs",
+      "Category:Staircases"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Basement venue in Brastad 2.jpg",
+      "description": "Stairs and entrance to a small basement venue in Brastad, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Concrete stairs",
+        "Taken with Canon EOS 600D and Canon EF-S 18-55mm f/3.5-5.6 IS II",
+        "Self-published work",
+        "Outside stairs in Sweden",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Metal handrails",
+        "Buildings in Brastad"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Basement_venue_in_Brastad_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Basement_venue_in_Brastad_2.jpg/1280px-Basement_venue_in_Brastad_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4959,
+      "hauteur": 3306
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:3rd staircase.jpg",
+      "description": "Carpet installation with border",
+      "categories": [
+        "Staircases",
+        "Stairs with carpets",
+        "Self-published work",
+        "Unidentified houses",
+        "Rugs and carpets in brown"
+      ],
+      "auteur": "AIVOP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3rd_staircase.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/3rd_staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:17-15-16-fort-de-roppe.jpg",
+      "description": "Ce fichier a été téléversé avec Commonist . Détail de l'escalier en colimaçon accédant à la tourelle de mitrailleuse Nord-Est. Roppe fortifications.",
+      "categories": [
+        "Taken with Nikon D300",
+        "Concrete stairs",
+        "Uploaded with Commonist",
+        "Photos by ComputerHotline",
+        "Unassessed QI candidates",
+        "Files with coordinates missing SDC location of creation",
+        "Underground galleries in the fort de Roppe",
+        "Subterranean stairs in fort de Roppe"
+      ],
+      "auteur": "Thomas Bresson",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:17-15-16-fort-de-roppe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/17-15-16-fort-de-roppe.jpg/1280px-17-15-16-fort-de-roppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4068,
+      "hauteur": 2438
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:500px photo (240739247).jpeg",
+      "description": "500px provided description: Untitled [#light ,#black and white ,#sepia ,#stairs ,#grain ,#gym ,#stadium ,#tytoalbatraoz]",
+      "categories": [
+        "Staircases",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Tyto Albatraoz",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(240739247).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/500px_photo_%28240739247%29.jpeg/1280px-500px_photo_%28240739247%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Arneson theater (2).JPG",
+      "description": "Arneson River Theater, built 1939.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-H3",
+        "Concrete stairs",
+        "Arneson River Theater",
+        "License migration redundant",
+        "Self-published work",
+        "Outside stairs in Texas"
+      ],
+      "auteur": "Zereshk",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arneson_theater_(2).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Arneson_theater_%282%29.JPG/1280px-Arneson_theater_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3190,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Balustrade Upstairs Southgate-Lewis House 1980.jpg",
+      "description": "The stairway balustrade of the Southgate-Lewis House was constructed by the renowned builder Robert C. Lambie and has been referred to as \"one of the finest staircases in all of Austin.\" This photograph shows the balustrade and the landing at the top of the staircase on the second floor directly after the house was saved from demolition, restored and preserved, circa 1980.",
+      "categories": [
+        "Woodworking",
+        "Staircases",
+        "Balustrades",
+        "Southgate-Lewis House",
+        "Self-published work",
+        "Woodwork"
+      ],
+      "auteur": "DGAAustin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg/1280px-Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4500,
+      "hauteur": 3155
+    }
+  ]
+}

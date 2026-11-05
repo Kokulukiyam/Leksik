@@ -1,0 +1,167 @@
+{
+  "terme": {
+    "id": "montant-metallique",
+    "terme": "le montant métallique",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Profilé vertical en tôle d'acier galvanisé, en forme de C, qui forme l'ossature d'une cloison sèche.",
+    "priorite": 1,
+    "requetes": [
+      "metal stud framing drywall",
+      "montants métalliques cloison",
+      "steel stud wall framing"
+    ],
+    "incompatibles": [
+      "rail-metallique",
+      "cloison-en-plaques-de-platre"
+    ],
+    "categoriesCommons": [
+      "Category:Steel framing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Duisburg, Landschaftspark Duisburg-Nord, Sinterpark -- 2026 -- 1487.jpg",
+      "description": "Crane runway of the (now defunct) sintering plant in the Sinterpar, Landschaftspark Duisburg-Nord , Duisburg , North Rhine-Westphalia , Germany The Landschaftspark Duisburg-Nord (also known as “LaPaNo” or “LaPaDu” for short) is a landscape park covering around 180 hectares surrounding a disused steelworks in Duisburg-Meiderich. The former plant was founded in 1902 by August Thyssen as a “joint-stock company for metallurgical operations” to supply his Siemens-Martin steelworks in Bruckhausen and Styrum, and went into operation on May 16, 1903, with the firing up of blast furnace 1. In 1985, bla",
+      "categories": [
+        "Overhead cranes in Germany",
+        "Landschaftspark Duisburg-Nord",
+        "Steel framing",
+        "Sinter plants",
+        "Photographs with aspect ratio of 4:3",
+        "Self-published work",
+        "ISO speed rating 250",
+        "Hedera helix on buildings",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Photographs by Dietmar Rabich/Duisburg",
+        "Photographs by Dietmar Rabich/Quality images of vehicles",
+        "Information field template with formatting",
+        "Photographs by Dietmar Rabich/Quality images of plants",
+        "Exposure time 1/550 sec",
+        "Buildings with addresses",
+        "Flora of Duisburg",
+        "Cranes in Duisburg",
+        "Hedera helix in North Rhine-Westphalia",
+        "Changes of XRay's photographs of the recent weeks",
+        "Images by XRay (flat list)",
+        "Photographs by Dietmar Rabich/Quality images of gardens and parks",
+        "Uploaded with LrMediaWiki",
+        "F-number f/11",
+        "Museums in Germany photographed in 2026",
+        "Lens focal length 70 mm",
+        "Spring 2026 in North Rhine-Westphalia",
+        "Clouds and blue sky in Duisburg",
+        "Green leaves in Germany",
+        "Vehicles in Germany photographed in 2026",
+        "Clouds in Germany in 2026",
+        "Overgrown structures in Duisburg",
+        "Leaves in May",
+        "Photographs by Dietmar Rabich/Industrial photography",
+        "Structures with clouds and blue sky background",
+        "Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia",
+        "Photographs by Dietmar Rabich/Quality images of museums",
+        "Photographs by Dietmar Rabich/Quality images of industry buildings",
+        "Taken with Fujifilm X-E5",
+        "Photographs by Dietmar Rabich/Year/2026",
+        "Taken with Fujinon XF70-300mm F4-5.6 R LM OIS WR",
+        "Duisburg photographs taken on 2026-06-05"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duisburg,_Landschaftspark_Duisburg-Nord,_Sinterpark_--_2026_--_1487.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Sinterpark_--_2026_--_1487.jpg/1280px-Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Sinterpark_--_2026_--_1487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6869,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:ESA Progress Photos - Concourse and Terminal (32277105657).jpg",
+      "description": "Steel support frame for a passenger escalator between the mezzanine and upper level.",
+      "categories": [
+        "Steel framing",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "Construction of LIRR Concourse (Grand Central Terminal)",
+        "East Side Access construction/2019/02"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ESA_Progress_Photos_-_Concourse_and_Terminal_(32277105657).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/ESA_Progress_Photos_-_Concourse_and_Terminal_%2832277105657%29.jpg/1280px-ESA_Progress_Photos_-_Concourse_and_Terminal_%2832277105657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1331
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destriction Pilot Plant Supercritical Water Oxidation Process Building (8498540114).jpg",
+      "description": "Blue Grass Chemical Agent-Destruction Pilot Plant craft workers have installed two sides of the Super Critical Water Oxidation Process Building’s exterior. This building will house the SCWO reactors in which agent and energetic hydrolysates will be subjected to very high temperatures and pressures to destroy their organic content.",
+      "categories": [
+        "Steel framing",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Link-Belt Construction Equipment Cranes",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destriction_Pilot_Plant_Supercritical_Water_Oxidation_Process_Building_(8498540114).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Blue_Grass_Chemical_Agent-Destriction_Pilot_Plant_Supercritical_Water_Oxidation_Process_Building_%288498540114%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destriction_Pilot_Plant_Supercritical_Water_Oxidation_Process_Building_%288498540114%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant SDC 2000 Personnel Support Facility (50111163568).jpg",
+      "description": "Equipment used to install the panel roofing sits in the Personnel Support Facility at the Static Detonation Chamber 2000 site at the Blue Grass Chemical Agent-Destruction Pilot Plant. Visit our website for more information. &lt;a href=\" http://www.peoacwa.army.mil \" rel=\"noreferrer nofollow\"&gt;www.peoacwa.army.mil&lt;/a&gt;",
+      "categories": [
+        "Steel framing",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_SDC_2000_Personnel_Support_Facility_(50111163568).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_SDC_2000_Personnel_Support_Facility_%2850111163568%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_SDC_2000_Personnel_Support_Facility_%2850111163568%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2687,
+      "hauteur": 2015
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Flickr - Hamed Saber - Iron Age.jpg",
+      "description": "There's no more south balcony view. The technology will bury us. I hate this new damn bulding which grows exactly in front of my south balcony :( Other shots from my balcony: www.flickr.com/photos/hamed/sets/72157594171624912/detail/ Added to flickr explore (interestingness) page of 29 September 2006.",
+      "categories": [
+        "Taken with Sony DSC-H1",
+        "Buildings in Tehran",
+        "Steel framing",
+        "Flickr images reviewed by trusted users",
+        "Photographs by Hamed Saber",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Hamed Saber from Tehran, Iran",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flickr_-_Hamed_Saber_-_Iron_Age.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Flickr_-_Hamed_Saber_-_Iron_Age.jpg/1280px-Flickr_-_Hamed_Saber_-_Iron_Age.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Hafenbahnhof Hamburg-Süd, Niedernfelder Ufer Nebengebäude (4).jpg",
+      "description": "Hafenbahnhof Hamburg-Süd, Niedernfelder Ufer, Nebengebäude, Kleiner Grasbrook, Fahradschuppen.",
+      "categories": [
+        "Steel framing",
+        "Cultural heritage monuments in Hamburg-Kleiner Grasbrook",
+        "Hafenbahnhof Hamburg Süd",
+        "Self-published work",
+        "Images by Pauli-Pirat/Denkmäler"
+      ],
+      "auteur": "Pauli-Pirat",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hafenbahnhof_Hamburg-S%C3%BCd,_Niedernfelder_Ufer_Nebengeb%C3%A4ude_(4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Hafenbahnhof_Hamburg-S%C3%BCd%2C_Niedernfelder_Ufer_Nebengeb%C3%A4ude_%284%29.jpg/1280px-Hafenbahnhof_Hamburg-S%C3%BCd%2C_Niedernfelder_Ufer_Nebengeb%C3%A4ude_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4504,
+      "hauteur": 3378
+    }
+  ]
+}

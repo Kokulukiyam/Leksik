@@ -1,0 +1,53 @@
+{
+  "termId": "enduit",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Combles aménagés aux murs et rampants blancs enduits, fenêtre à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plâtre peint intérieur, confusion avec plâtre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Projection ignifuge jaune sous un plafond métallique, avec légende.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un enduit de mortier, texte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Surface de plâtre blanc striée de traces d'accroche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Support dégradé, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Silo à mortier de marque devant une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte de marque, silo et non enduit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade d'immeuble entièrement revêtue d'un enduit gris rugueux, avec fenêtres, volets et petits reliefs.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Zagreb, Croatie",
+      "note": "Enduit de façade dominant, en pleine surface."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Intérieur d'un abri à colonnes et voûtes peintes en jaune, avec un monument.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur peint, enduit non lisible."
+    }
+  ]
+}

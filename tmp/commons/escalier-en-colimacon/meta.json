@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "escalier-en-colimacon",
+    "terme": "l'escalier en colimaçon",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier hélicoïdal dont les marches tournent autour d'un poteau central.",
+    "priorite": 2,
+    "requetes": [
+      "incategory:\"Spiral staircases\"",
+      "escalier en colimaçon",
+      "spiral staircase"
+    ],
+    "incompatibles": [
+      "escalier",
+      "noyau",
+      "escalier-en-beton",
+      "escalier-metallique",
+      "escalier-en-bois",
+      "escalier-de-secours"
+    ],
+    "categoriesCommons": [
+      "Category:Staircases"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:A small Sismo.jpg",
+      "description": "there will always be a new day...",
+      "categories": [
+        "Taken with Nikon F2",
+        "Death",
+        "1990 in Brazil",
+        "Staircases",
+        "Analog photography",
+        "Earthquakes of 1990",
+        "Hand-colored photographs",
+        "Self-published work",
+        "Unidentified buildings in Brazil",
+        "Windows (interior views)"
+      ],
+      "auteur": "Sérgio Valle Duarte .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neut",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_small_Sismo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/A_small_Sismo.jpg/1280px-A_small_Sismo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2240,
+      "hauteur": 3600
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 5.jpg",
+      "description": "Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 5",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "June 2024 in Lower Saxony",
+        "Amsbergstraße 27 (Bad Harzburg)"
+      ],
+      "auteur": "Steffen Dietrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_5.jpg/1280px-Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:13th floor looking down - staircase modern high rise.jpg",
+      "description": "view into a staircase of a modern high-rise from the 13th floor",
+      "categories": [
+        "Staircases",
+        "Spiral stairs",
+        "Prefabricated buildings",
+        "Self-published work"
+      ],
+      "auteur": "Virtual-Pano",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:13th_floor_looking_down_-_staircase_modern_high_rise.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/13th_floor_looking_down_-_staircase_modern_high_rise.jpg/1280px-13th_floor_looking_down_-_staircase_modern_high_rise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4964,
+      "hauteur": 3347
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:3rd staircase.jpg",
+      "description": "Carpet installation with border",
+      "categories": [
+        "Staircases",
+        "Stairs with carpets",
+        "Self-published work",
+        "Unidentified houses",
+        "Rugs and carpets in brown"
+      ],
+      "auteur": "AIVOP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3rd_staircase.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/3rd_staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6.jpg",
+      "description": "Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "June 2024 in Lower Saxony",
+        "Amsbergstraße 27 (Bad Harzburg)"
+      ],
+      "auteur": "Steffen Dietrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg/1280px-Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alaverdi - building interior.jpg",
+      "description": "Apartment building interior in Alaverdi, Armenia.",
+      "categories": [
+        "Building interiors in Armenia",
+        "Taken with Sony DSC-RX100 III",
+        "Staircases",
+        "Alaverdi",
+        "Uploaded with VicuñaUploader",
+        "Apartment buildings in Armenia",
+        "Pink walls",
+        "Armenia photographs taken on 2018-05-10"
+      ],
+      "auteur": "Tiia Monto",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alaverdi_-_building_interior.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alaverdi_-_building_interior.jpg/1280px-Alaverdi_-_building_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2121,
+      "hauteur": 3182
+    }
+  ]
+}

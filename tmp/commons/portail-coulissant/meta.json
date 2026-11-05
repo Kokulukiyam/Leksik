@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "portail-coulissant",
+    "terme": "le portail coulissant",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Portail d'un seul vantail qui glisse latéralement le long de la clôture, sur un rail au sol.",
+    "priorite": 1,
+    "requetes": [
+      "sliding gate",
+      "portail coulissant",
+      "sliding gate rail"
+    ],
+    "incompatibles": [
+      "portail-metallique",
+      "rail-de-portail"
+    ],
+    "categoriesCommons": [
+      "Category:Gates"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:37002-School gate.jpg",
+      "description": "School",
+      "categories": [
+        "CC-Zero",
+        "Gates",
+        "Self-published work"
+      ],
+      "auteur": "N S Sunitha",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:37002-School_gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/37002-School_gate.jpg/1280px-37002-School_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A concrete block fenced house along Kuomboka Dr road.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Gates",
+        "Fences",
+        "Kitwe",
+        "Residential buildings in Africa",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Zambia"
+      ],
+      "auteur": "Olympian Xeus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_concrete_block_fenced_house_along_Kuomboka_Dr_road.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/A_concrete_block_fenced_house_along_Kuomboka_Dr_road.jpg/1280px-A_concrete_block_fenced_house_along_Kuomboka_Dr_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:25th anniversary, main gate jcpsc.jpg",
+      "description": "Celebrating 25th anniversary",
+      "categories": [
+        "CC-Zero",
+        "Gates",
+        "Self-published work"
+      ],
+      "auteur": "Ikramulalamchowdhury",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:25th_anniversary,_main_gate_jcpsc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/25th_anniversary%2C_main_gate_jcpsc.jpg/1280px-25th_anniversary%2C_main_gate_jcpsc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 958
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A Ganduje Gate.jpg",
+      "description": "Abdullahi Umar Ganduje gate in Dawakin Tofa, main entrance to Dawakin Tofa town from Dawaki-Dawanau road. This gate is dedicated to honour former Governor of Kano State Abdullahi Umar Ganduje.",
+      "categories": [
+        "Gates",
+        "Kano State",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Xiaomi Redmi 12"
+      ],
+      "auteur": "Gwanki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Ganduje_Gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/A_Ganduje_Gate.jpg/1280px-A_Ganduje_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2385,
+      "hauteur": 2079
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:12324 pptsalps gate.jpg",
+      "description": "My School",
+      "categories": [
+        "Gates",
+        "Self-published work"
+      ],
+      "auteur": "NKraseena",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:12324_pptsalps_gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/12324_pptsalps_gate.jpg/1280px-12324_pptsalps_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A different shot of two fenced neighboring houses along Kuomboka Dr road.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Gates",
+        "Kitwe",
+        "Roads in Zambia",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Uploaded via Campaign:wlafrica",
+        "Residential buildings in Zambia",
+        "March 2022 in Zambia",
+        "Images from Wiki Loves Africa 2022 in Zambia"
+      ],
+      "auteur": "Olympian Xeus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_different_shot_of_two_fenced_neighboring_houses_along_Kuomboka_Dr_road.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/A_different_shot_of_two_fenced_neighboring_houses_along_Kuomboka_Dr_road.jpg/1280px-A_different_shot_of_two_fenced_neighboring_houses_along_Kuomboka_Dr_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    }
+  ]
+}

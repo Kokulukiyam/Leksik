@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "escalier-mecanique",
+    "terme": "l'escalier mécanique",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier dont les marches sont entraînées par un mécanisme et défilent en continu.",
+    "priorite": 2,
+    "requetes": [
+      "incategory:\"Escalators\"",
+      "escalator shopping mall",
+      "escalier mécanique"
+    ],
+    "incompatibles": [
+      "trottoir-roulant"
+    ],
+    "categoriesCommons": [
+      "Category:Escalators",
+      "Category:Escalators in Japan"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:14027985019 - Flickr - Thomas Leuthard.jpg",
+      "description": "",
+      "categories": [
+        "Escalators",
+        "Media lacking a description",
+        "Photographs taken on 2014-05-11",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Thomas Leuthard from Zug, Switzerland",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:14027985019_-_Flickr_-_Thomas_Leuthard.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/14027985019_-_Flickr_-_Thomas_Leuthard.jpg/1280px-14027985019_-_Flickr_-_Thomas_Leuthard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4473,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:AUTO WALK in CAINZ HOME Higashi-Osaka.JPG",
+      "description": "カインズホーム東大阪店でのオートウォーク式エスカレーター",
+      "categories": [
+        "CC-Zero",
+        "With trademark",
+        "Midoridenka",
+        "Cainz",
+        "Self-published work",
+        "Moving sidewalks in Japan",
+        "Escalators in Japan",
+        "January 2012 in Osaka prefecture",
+        "Japan photographs taken on 2012-01-26",
+        "Interiors of shops in Ōsaka prefecture"
+      ],
+      "auteur": "Tokumeigakarinoaoshima",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AUTO_WALK_in_CAINZ_HOME_Higashi-Osaka.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/AUTO_WALK_in_CAINZ_HOME_Higashi-Osaka.JPG/1280px-AUTO_WALK_in_CAINZ_HOME_Higashi-Osaka.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:-127 - Explore (26764748902).jpg",
+      "description": "Explore 06/05/2016",
+      "categories": [
+        "Escalators",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photos transferred by User:Jeff G. from Flickr",
+        "Photographs by Rodrigo Paredes",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Rodrigo Paredes from Ciudad Autónoma de Buenos Aires, Argentina",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-127_-_Explore_(26764748902).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/-127_-_Explore_%2826764748902%29.jpg/1280px--127_-_Explore_%2826764748902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1962,
+      "hauteur": 1962
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:3Fと4Fをつなぐトラベレーターエスカレーター.jpg",
+      "description": "3Fと4Fをつなぐトラベレーターエスカレーター。ビビット南船橋。",
+      "categories": [
+        "Self-published work",
+        "Escalators in Japan",
+        "Japan photographs taken on 2024-10-02",
+        "October 2024 in Chiba prefecture",
+        "LaLaport Tokyo-Bay North Gate"
+      ],
+      "auteur": "Souka Kinmei",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3F%E3%81%A84F%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%83%88%E3%83%A9%E3%83%99%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/3F%E3%81%A84F%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%83%88%E3%83%A9%E3%83%99%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC.jpg/1280px-3F%E3%81%A84F%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%83%88%E3%83%A9%E3%83%99%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 2025
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Budapest, M3 metró, Deák Ferenc tér, mozgólépcső, 10.jpg",
+      "description": "Budapest, M3 metró, Deák Ferenc tér, mozgólépcső",
+      "categories": [
+        "CC-Zero",
+        "Escalators",
+        "Self-published work",
+        "Deák Ferenc tér M3 metro station"
+      ],
+      "auteur": "Christo",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Budapest,_M3_metr%C3%B3,_De%C3%A1k_Ferenc_t%C3%A9r,_mozg%C3%B3l%C3%A9pcs%C5%91,_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_M3_metr%C3%B3%2C_De%C3%A1k_Ferenc_t%C3%A9r%2C_mozg%C3%B3l%C3%A9pcs%C5%91%2C_10.jpg/1280px-Budapest%2C_M3_metr%C3%B3%2C_De%C3%A1k_Ferenc_t%C3%A9r%2C_mozg%C3%B3l%C3%A9pcs%C5%91%2C_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Accès Gare Hauptwache S-Bahn Biebergasse - Francfort-sur-le-Main (DE71) - 2025-11-29 - 10.jpg",
+      "description": "Accès à la gare Hauptwache de la S-Bahn, Biebergasse, Francfort-sur-le-Main.",
+      "categories": [
+        "Escalators",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 8° E)",
+        "Images by Chabe01 taken with iPhone 16 Pro",
+        "Images of rapid transit by Chabe01",
+        "Images of Frankfurt am Main by Chabe01",
+        "Frankfurt am Main photographs taken on 2025-11-29",
+        "Entrances to Bahnhof Frankfurt (Main) Hauptwache"
+      ],
+      "auteur": "Chabe01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acc%C3%A8s_Gare_Hauptwache_S-Bahn_Biebergasse_-_Francfort-sur-le-Main_(DE71)_-_2025-11-29_-_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Acc%C3%A8s_Gare_Hauptwache_S-Bahn_Biebergasse_-_Francfort-sur-le-Main_%28DE71%29_-_2025-11-29_-_10.jpg/1280px-Acc%C3%A8s_Gare_Hauptwache_S-Bahn_Biebergasse_-_Francfort-sur-le-Main_%28DE71%29_-_2025-11-29_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5712,
+      "hauteur": 4284
+    }
+  ]
+}

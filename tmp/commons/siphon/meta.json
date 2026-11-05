@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "siphon",
+    "terme": "le siphon",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pièce coudée ou en forme de bouteille placée sous un appareil sanitaire, qui garde une garde d'eau pour bloquer les odeurs de l'égout.",
+    "priorite": 1,
+    "requetes": [
+      "sink trap P-trap",
+      "siphon lavabo",
+      "bottle trap under sink"
+    ],
+    "categoriesCommons": [
+      "Category:Siphons",
+      "Category:Plumbing"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Toshka syphon construction site.jpg",
+      "description": "Construction site of the syphon that delivers water from the New Valley Governorate project under the toshka spillway in Egypt.",
+      "categories": [
+        "Construction sites",
+        "GFDL",
+        "Taken with Canon EOS 350D",
+        "Siphons",
+        "License migration redundant",
+        "Self-published work",
+        "Spillways in Egypt",
+        "Photographs taken on 2010-11-04",
+        "Toshka canal"
+      ],
+      "auteur": "Stefflheffl",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Toshka_syphon_construction_site.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Toshka_syphon_construction_site.jpg/1280px-Toshka_syphon_construction_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Abdeckungen P1550400.jpg",
+      "description": "Abdeckungen von Elementen der Trinkwasserleitung",
+      "categories": [
+        "GFDL",
+        "Plumbing",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Itu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abdeckungen_P1550400.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Abdeckungen_P1550400.jpg/1280px-Abdeckungen_P1550400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:La Jolla Reservation. Laying Siphon ^1 - NARA - 298609.jpg",
+      "description": "Scope and content: Reports contain information on irrigation issues for a variety of Indian Agencies under the control of the Portland Area Office including agencies in Idaho, Oregon, Washington, California, Utah, and Arizona.",
+      "categories": [
+        "PD US Government",
+        "Construction in the United States",
+        "1920 in the United States",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Siphons",
+        "Indian reservations in the United States",
+        "Artworks without Wikidata item",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "US National Archives series: Reports on Irrigation Matters, compiled ca. 1901 - ca. 1944",
+        "US National Archives location: other"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_Jolla_Reservation._Laying_Siphon_%5E1_-_NARA_-_298609.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/La_Jolla_Reservation._Laying_Siphon_%5E1_-_NARA_-_298609.jpg/1280px-La_Jolla_Reservation._Laying_Siphon_%5E1_-_NARA_-_298609.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2314,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A hidden face.jpg",
+      "description": "A hidden face found by sunshinecity, which she named 'Bert'. The picture was taken in March 2007.",
+      "categories": [
+        "Taken with Canon Digital IXUS 60",
+        "Plumbing",
+        "Azulejos",
+        "Flickr images reviewed by FlickreviewR",
+        "Flowers on ceramic",
+        "Hidden faces in objects or places",
+        "Reflected photographers in polished metals",
+        "Images with multiple independent reflections of the photographer"
+      ],
+      "auteur": "sunshinecity from Italy",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_hidden_face.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/A_hidden_face.jpg/1280px-A_hidden_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:安積疏水 水路橋とサイフォン式水路.jpg",
+      "description": "安積疏水 水路橋と道路下を超えるサイフォン式水路",
+      "categories": [
+        "Siphons",
+        "Asaka Canal",
+        "History of Koriyama",
+        "Self-published work"
+      ],
+      "auteur": "Sugikats",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E5%AE%89%E7%A9%8D%E7%96%8F%E6%B0%B4_%E6%B0%B4%E8%B7%AF%E6%A9%8B%E3%81%A8%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%E5%BC%8F%E6%B0%B4%E8%B7%AF.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%E5%AE%89%E7%A9%8D%E7%96%8F%E6%B0%B4_%E6%B0%B4%E8%B7%AF%E6%A9%8B%E3%81%A8%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%E5%BC%8F%E6%B0%B4%E8%B7%AF.jpg/1280px-%E5%AE%89%E7%A9%8D%E7%96%8F%E6%B0%B4_%E6%B0%B4%E8%B7%AF%E6%A9%8B%E3%81%A8%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%E5%BC%8F%E6%B0%B4%E8%B7%AF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 1377
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:4. Urine pipe to temporary storge tanker (7092684527).jpg",
+      "description": "Photo by Solomon Kore, Apr. 2012",
+      "categories": [
+        "Taken with Sony DSC-T10",
+        "Plumbing",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4._Urine_pipe_to_temporary_storge_tanker_(7092684527).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/4._Urine_pipe_to_temporary_storge_tanker_%287092684527%29.jpg/1280px-4._Urine_pipe_to_temporary_storge_tanker_%287092684527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    }
+  ]
+}

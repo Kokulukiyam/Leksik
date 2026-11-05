@@ -1,0 +1,58 @@
+{
+  "termId": "volet-roulant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Devanture de commerce avec rideau métallique peint d'une fresque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rideau de boutique peint, enseigne visible, pas un volet roulant de fenêtre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre marocaine avec grille dorée et volets de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun volet roulant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Prise murale et boîtier blanc sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison bulgare avec volets de bois battants ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets battants."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Quai de chargement avec portes sectionnelles blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portes sectionnelles, pas volet roulant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade ocre avec fenêtre au volet roulant blanc baissé, coffre visible en haut.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.35,
+        "largeur": 0.24,
+        "hauteur": 0.3
+      },
+      "lieu": "Nagykanizsa, Hongrie",
+      "note": "Lames horizontales et coffre bien visibles ; rectangle sur la fenêtre centrale."
+    }
+  ]
+}

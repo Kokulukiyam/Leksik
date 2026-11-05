@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "vanne-d-arret",
+    "terme": "la vanne d'arrêt",
+    "categorie": "Réseaux et équipements",
+    "definition": "Robinet à manette quart de tour, souvent rouge ou jaune, monté sur une canalisation pour couper l'eau.",
+    "priorite": 1,
+    "requetes": [
+      "ball valve lever",
+      "vanne quart de tour",
+      "shut-off valve pipe"
+    ],
+    "incompatibles": [
+      "robinet"
+    ],
+    "categoriesCommons": [
+      "Category:Ball valves",
+      "Category:Valves"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:0819San Ildefonso-San Rafael bypass road 07.jpg",
+      "description": "San Ildefonso-San Rafael bypass road",
+      "categories": [
+        "Ball valves",
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by JFVelasquez Floro",
+        "Philippines photographs taken on 2021-05-02"
+      ],
+      "auteur": "JFVelasquez Floro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0819San_Ildefonso-San_Rafael_bypass_road_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/0819San_Ildefonso-San_Rafael_bypass_road_07.jpg/1280px-0819San_Ildefonso-San_Rafael_bypass_road_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:\"Drum Drip\" sign on a valve in a garage.jpg",
+      "description": "Capitol Hill, Washington, DC",
+      "categories": [
+        "Capitol Hill, Washington, D.C.",
+        "Valves",
+        "Self-published work",
+        "Signs in Washington, D.C.",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2025-06-03"
+      ],
+      "auteur": "Ser Amantio di Nicolao",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Drum_Drip%22_sign_on_a_valve_in_a_garage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/%22Drum_Drip%22_sign_on_a_valve_in_a_garage.jpg/1280px-%22Drum_Drip%22_sign_on_a_valve_in_a_garage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8160,
+      "hauteur": 6120
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ball-valve--The-Alloy-Valve-Stockist-A105N.JPG",
+      "description": "Ball valves .",
+      "categories": [
+        "Taken with Sony DSC-T10",
+        "Ball valves",
+        "Items with VRTS permission confirmed",
+        "Carbon steel valves"
+      ],
+      "auteur": "Heather Smith",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ball-valve--The-Alloy-Valve-Stockist-A105N.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Ball-valve--The-Alloy-Valve-Stockist-A105N.JPG/1280px-Ball-valve--The-Alloy-Valve-Stockist-A105N.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1530,
+      "hauteur": 1224
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Alloy-20-valve--The-Alloy-Valve-Stockist-ball-valve.jpg",
+      "description": "Alloy 20 valves .",
+      "categories": [
+        "Taken with Canon PowerShot S50",
+        "Ball valves",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Heather Smith",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alloy-20-valve--The-Alloy-Valve-Stockist-ball-valve.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Alloy-20-valve--The-Alloy-Valve-Stockist-ball-valve.jpg/1280px-Alloy-20-valve--The-Alloy-Valve-Stockist-ball-valve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:16 fire hose hook-up.jpg",
+      "description": "this hookup could supply 16 fire hoses- check the size of the pipe the manifold is bolted to! DSC_0918",
+      "categories": [
+        "Taken with Nikon D40x",
+        "Valves",
+        "Groups of 16",
+        "Manifolds",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Bill Abbott"
+      ],
+      "auteur": "Bill Abbott",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:16_fire_hose_hook-up.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/16_fire_hose_hook-up.jpg/1280px-16_fire_hose_hook-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ball valve in household.jpg",
+      "description": "Ball valves application",
+      "categories": [
+        "Ball valves",
+        "Self-published work"
+      ],
+      "auteur": "NVgt156",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ball_valve_in_household.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Ball_valve_in_household.jpg/1280px-Ball_valve_in_household.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

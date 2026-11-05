@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "interrupteur",
+    "terme": "l'interrupteur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil mural à bascule ou à bouton qui allume et éteint un éclairage.",
+    "priorite": 1,
+    "requetes": [
+      "light switch wall",
+      "interrupteur",
+      "wall switch"
+    ],
+    "categoriesCommons": [
+      "Category:Light switches",
+      "Category:Electric switches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dimmer switch with RF-based lighting control.jpg",
+      "description": "Dimmer switch with RF-based lighting control",
+      "categories": [
+        "Taken with iPhone 5C",
+        "Light switches",
+        "Lighting dimmers",
+        "Self-published work",
+        "Uploaded with Mobile/iOS",
+        "Photographs taken on 2014-09-06",
+        "Radio control units",
+        "Wireless switch"
+      ],
+      "auteur": "z22",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dimmer_switch_with_RF-based_lighting_control.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Dimmer_switch_with_RF-based_lighting_control.jpg/1280px-Dimmer_switch_with_RF-based_lighting_control.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:ABB MCB-xx.JPG",
+      "description": "ABB control switches",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Electric switches",
+        "License migration redundant",
+        "Self-published work",
+        "ABB products"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ABB_MCB-xx.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/ABB_MCB-xx.JPG/1280px-ABB_MCB-xx.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chernogolovka Military-Technical Museum 2013.01.06 57.jpg",
+      "description": "Chernogolovka Military-Technical Museum 2013.01.06",
+      "categories": [
+        "State Military Technical Museum (Chernogolovka)",
+        "Light switches",
+        "Self-published work"
+      ],
+      "auteur": "Msgevans00",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chernogolovka_Military-Technical_Museum_2013.01.06_57.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chernogolovka_Military-Technical_Museum_2013.01.06_57.jpg/1280px-Chernogolovka_Military-Technical_Museum_2013.01.06_57.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4912,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dordogne ancien-lavabo.jpg",
+      "description": "Vestiges d'un évier dans un bâtiment abandonné, Dordogne, France.",
+      "categories": [
+        "Caulking",
+        "Light switches",
+        "Self-published work",
+        "Information field template with formatting",
+        "Sinks in France",
+        "Images by Traumrune"
+      ],
+      "auteur": "Traumrune",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dordogne_ancien-lavabo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Dordogne_ancien-lavabo.jpg/1280px-Dordogne_ancien-lavabo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3692,
+      "hauteur": 2452
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:1870's electric switch and fan regulator - Golra Sharif Railway Museum.jpg",
+      "description": "1870's electric switch and fan regulator, Golra Sharif Railway Museum",
+      "categories": [
+        "Electric switches",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2011-04-03",
+        "Ceiling fan regulators",
+        "Golra Sharif Railway Museum (interior)"
+      ],
+      "auteur": "Sohail Aziz",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1870%27s_electric_switch_and_fan_regulator_-_Golra_Sharif_Railway_Museum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1870%27s_electric_switch_and_fan_regulator_-_Golra_Sharif_Railway_Museum.jpg/1280px-1870%27s_electric_switch_and_fan_regulator_-_Golra_Sharif_Railway_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:0227 New Delhi - Anand Niketan - E85 2006-02-09 12-18-53 (10542449195).jpg",
+      "description": "0227 New Delhi - Anand Niketan - E85 2006-02-09 12-18-53",
+      "categories": [
+        "Light switches",
+        "2006 in New Delhi",
+        "Flickr images reviewed by FlickreviewR 2",
+        "India photographs taken on 2006-02-09",
+        "Photographs of India by Klaus Nahr"
+      ],
+      "auteur": "Klaus Nahr from Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0227_New_Delhi_-_Anand_Niketan_-_E85_2006-02-09_12-18-53_(10542449195).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/0227_New_Delhi_-_Anand_Niketan_-_E85_2006-02-09_12-18-53_%2810542449195%29.jpg/1280px-0227_New_Delhi_-_Anand_Niketan_-_E85_2006-02-09_12-18-53_%2810542449195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 1728
+    }
+  ]
+}

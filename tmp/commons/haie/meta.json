@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "haie",
+    "terme": "la haie",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Rangée d'arbustes plantés serrés et taillés, qui forme une clôture végétale.",
+    "priorite": 2,
+    "requetes": [
+      "hedge garden",
+      "haie taillée",
+      "incategory:\"Hedges\""
+    ],
+    "categoriesCommons": [
+      "Category:Hedges"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cidade de Curitiba - Brazil by Augusto Janiski Junior - Flickr - AUGUSTO JANISKI JUNIOR (2).jpg",
+      "description": "Cidade de Curitiba - Brazil by Augusto Janiski Junior",
+      "categories": [
+        "Taken with Sony DSC-HX1",
+        "Hedges",
+        "Images with watermarks",
+        "Flickr images reviewed by FlickreviewR",
+        "Greenhouse of the Jardim Botânico de Curitiba",
+        "French garden of the Jardim Botânico de Curitiba",
+        "Import by User:Slick-o-bot/Curitiba"
+      ],
+      "auteur": "AUGUSTO JANISKI JUNIOR from Curitiba, Brasil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cidade_de_Curitiba_-_Brazil_by_Augusto_Janiski_Junior_-_Flickr_-_AUGUSTO_JANISKI_JUNIOR_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cidade_de_Curitiba_-_Brazil_by_Augusto_Janiski_Junior_-_Flickr_-_AUGUSTO_JANISKI_JUNIOR_%282%29.jpg/1280px-Cidade_de_Curitiba_-_Brazil_by_Augusto_Janiski_Junior_-_Flickr_-_AUGUSTO_JANISKI_JUNIOR_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Clôture.jpg",
+      "description": "Clôture en cèdre",
+      "categories": [
+        "CC-Zero",
+        "Hedges",
+        "Flora of Burundi",
+        "Self-published work"
+      ],
+      "auteur": "NIHEREWENIMANA Richard",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cl%C3%B4ture.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cl%C3%B4ture.jpg/1280px-Cl%C3%B4ture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Aircraft 0269 (7731040060).jpg",
+      "description": "DSC_0269",
+      "categories": [
+        "Hedges",
+        "Mississauga",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Bell Canada telephone booths",
+        "Approach lights",
+        "Photographs by Aseem Swarup Johri",
+        "Flickr images missing SDC published in",
+        "Images uploaded by Hiàn with bad file names"
+      ],
+      "auteur": "Lord of the Wings© from Toronto, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aircraft_0269_(7731040060).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Aircraft_0269_%287731040060%29.jpg/1280px-Aircraft_0269_%287731040060%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Boxwood parterre garden and yellow facade of Palácio Stephens, Museu do Vidro, Marinha Grande, Portugal julesvernex2.jpg",
+      "description": "Boxwood parterre garden and yellow facade of Palácio Stephens, Museu do Vidro, Marinha Grande, Portugal",
+      "categories": [
+        "Gardens in Portugal",
+        "Buxus",
+        "Retouched pictures",
+        "Hedges",
+        "Parterres",
+        "Sash windows",
+        "Taken with Sony ILCE-7RM5",
+        "Windows in Portugal",
+        "Digitally manipulated photographs",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Julesvernex2",
+        "May 2024 in Portugal",
+        "SRGB images",
+        "Museu do Vidro da Marinha Grande",
+        "Portugal images by Julesvernex2",
+        "PPL3 images by Julesvernex2",
+        "Architecture images by Julesvernex2",
+        "Taken with Sony FE 35mm F1.4 GM",
+        "Images with Content Credentials by Julesvernex2"
+      ],
+      "auteur": "Jules Verne Times Two",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boxwood_parterre_garden_and_yellow_facade_of_Pal%C3%A1cio_Stephens,_Museu_do_Vidro,_Marinha_Grande,_Portugal_julesvernex2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Boxwood_parterre_garden_and_yellow_facade_of_Pal%C3%A1cio_Stephens%2C_Museu_do_Vidro%2C_Marinha_Grande%2C_Portugal_julesvernex2.jpg/1280px-Boxwood_parterre_garden_and_yellow_facade_of_Pal%C3%A1cio_Stephens%2C_Museu_do_Vidro%2C_Marinha_Grande%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6336,
+      "hauteur": 9504
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:At Berrington Hall 2022 142.jpg",
+      "description": "At Berrington Hall 2022.",
+      "categories": [
+        "Arches",
+        "Hedges",
+        "Unidentified Jasminum",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)",
+        "Unidentified white climbing Rosa cultivars",
+        "Unidentified Clematis cultivars",
+        "Photos by Mike Peel using a Canon EOS 90D",
+        "Berrington Hall gardens"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_Berrington_Hall_2022_142.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/At_Berrington_Hall_2022_142.jpg/1280px-At_Berrington_Hall_2022_142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6749,
+      "hauteur": 4499
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Cars parked in Arewa House.jpg",
+      "description": "Arewa House is a center for historical research and documentation, Ahmadu Bello University in Zaria",
+      "categories": [
+        "Hedges",
+        "Kaduna State",
+        "Arewa House",
+        "Self-published work",
+        "Unidentified Arecaceae",
+        "Unidentified Angiosperms"
+      ],
+      "auteur": "Zmu'az4Z",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cars_parked_in_Arewa_House.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cars_parked_in_Arewa_House.jpg/1280px-Cars_parked_in_Arewa_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    }
+  ]
+}

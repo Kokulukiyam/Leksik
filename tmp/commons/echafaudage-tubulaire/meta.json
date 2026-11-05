@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "echafaudage-tubulaire",
+    "terme": "l'échafaudage tubulaire",
+    "categorie": "Chantier et outillage",
+    "definition": "Échafaudage fait de tubes d'acier assemblés par des colliers, adaptable à toutes les formes d'ouvrage.",
+    "priorite": 2,
+    "requetes": [
+      "tube and clamp scaffolding",
+      "échafaudage tubulaire colliers",
+      "tube and coupler scaffold"
+    ],
+    "incompatibles": [
+      "echafaudage"
+    ],
+    "categoriesCommons": [
+      "Category:Scaffolding"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Aluminium scaffolding.jpg",
+      "description": "Aluminium scaffolding",
+      "categories": [
+        "Taken with Canon EOS 550D",
+        "Scaffolding",
+        "Self-published work"
+      ],
+      "auteur": "Harald Groven",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminium_scaffolding.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Aluminium_scaffolding.jpg/1280px-Aluminium_scaffolding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:102 MS 65 F49 V.jpg",
+      "description": "",
+      "categories": [
+        "Scaffolding",
+        "Pages with non-numeric formatnum arguments",
+        "Psalm 122",
+        "Winches",
+        "PD-Art (PD-old-100)",
+        "Construction cranes",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "Tools in art",
+        "Très Riches Heures du Duc de Berry scan 2004",
+        "CC-PD-Mark",
+        "Artworks with Wikidata item missing genre",
+        "Artworks digital representation of unknown type of work"
+      ],
+      "auteur": "Frères de Limbourg (Herman, Paul et Jean)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:102_MS_65_F49_V.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/102_MS_65_F49_V.jpg/1280px-102_MS_65_F49_V.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1684,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2018061101 Wurzener Strasse 56 Rohbau Moto G4 2018.jpg",
+      "description": "Wurzener Straße 56. Seit Beginn der Covid-Pandemie kein Baufortschritt mehr.",
+      "categories": [
+        "Scaffolding",
+        "Wurzener Straße, Dresden",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Buildings in Pieschen",
+        "Dresden photographs taken on 2023-03-12"
+      ],
+      "auteur": "VSchagow",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg/1280px-2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A White Scaffolding Truck and Mahjong School.jpg",
+      "description": "A White Scaffolding Truck is stop at near the Mahjong School in Mong Kok",
+      "categories": [
+        "Scaffolding",
+        "Mong Kok",
+        "Self-published work",
+        "Trucks in Hong Kong",
+        "Taken with Panasonic Lumix DC-G100/G110"
+      ],
+      "auteur": "Peachyeung316",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_White_Scaffolding_Truck_and_Mahjong_School.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/A_White_Scaffolding_Truck_and_Mahjong_School.jpg/1280px-A_White_Scaffolding_Truck_and_Mahjong_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 2920
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A family grave scaffold LCCN2006688436.jpg",
+      "description": "Title: A family grave scaffold Abstract/medium: 1 photographic print.",
+      "categories": [
+        "Scaffolding",
+        "Images from the Library of Congress",
+        "PD-old-70-expired",
+        "Images uploaded by Fæ",
+        "CC-PD-Mark",
+        "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+        "PD-old missing SDC copyright status"
+      ],
+      "auteur": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_family_grave_scaffold_LCCN2006688436.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/A_family_grave_scaffold_LCCN2006688436.jpg/1280px-A_family_grave_scaffold_LCCN2006688436.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4937,
+      "hauteur": 3913
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2024-06-16 Zanzibar Stonetown 01.jpg",
+      "description": "Scaffolding on a residential building in the old town (Stonetown) of Zanzibar.",
+      "categories": [
+        "Scaffolding",
+        "Stone Town",
+        "Self-published work",
+        "Construction in Tanzania"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-06-16_Zanzibar_Stonetown_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2024-06-16_Zanzibar_Stonetown_01.jpg/1280px-2024-06-16_Zanzibar_Stonetown_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2147,
+      "hauteur": 3220
+    }
+  ]
+}

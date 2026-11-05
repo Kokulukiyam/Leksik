@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "poignee-de-fenetre",
+    "terme": "la poignée de fenêtre",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Poignée fixée sur l'ouvrant qui commande le verrouillage d'une fenêtre.",
+    "priorite": 1,
+    "requetes": [
+      "window handle",
+      "poignée de fenêtre",
+      "window lever handle"
+    ],
+    "incompatibles": [
+      "cremone"
+    ],
+    "categoriesCommons": [
+      "Category:Window handles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Semmelweis-Frauenklinik interior 08.jpg",
+      "description": "Innenansicht der ehemaligen Semmelweis-Frauenklinik, Haus 4, mit kultureller Zwischennutzung. Detailansichten. Fenstergriffe.",
+      "categories": [
+        "Semmelweis-Frauenklinik",
+        "Window handles",
+        "Self-published work",
+        "Images by Herzi Pinki",
+        "Windows in Vienna",
+        "Supported by Wikimedia Österreich in 2026",
+        "Media from WikiDaheim 2026 in Austria needing check",
+        "Uploaded via Campaign:WikiDaheim-at-wd",
+        "Vienna photographs taken on 2025-05-22",
+        "Media from WikiDaheim 2026 in Austria/all",
+        "Media from WikiDaheim 2026 in Austria/Wikidata",
+        "Wikipedianische KulTour/Semmelweis-Frauenklinik 2025"
+      ],
+      "auteur": "Herzi Pinki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Semmelweis-Frauenklinik_interior_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Semmelweis-Frauenklinik_interior_08.jpg/1280px-Semmelweis-Frauenklinik_interior_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3672,
+      "hauteur": 5848
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:St. Lukas - Chorwochenende in Kloster Rohr 18.jpg",
+      "description": "Kloster-Innenräume, Proberäumlichkeiten und Gästebeherbergung im Kloster Rohr in Niederbayern",
+      "categories": [
+        "Kloster Rohr (Bayern)",
+        "Window handles",
+        "Self-published work",
+        "Taken by Burkhard Muecke",
+        "Files with coordinates missing SDC location of creation (48° N, 11° E)",
+        "2024-02-24 Chorprobenräume und Unterbringung im Kloster Rohr"
+      ],
+      "auteur": "Burkhard Mücke",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:St._Lukas_-_Chorwochenende_in_Kloster_Rohr_18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/St._Lukas_-_Chorwochenende_in_Kloster_Rohr_18.jpg/1280px-St._Lukas_-_Chorwochenende_in_Kloster_Rohr_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3921,
+      "hauteur": 5800
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Brno-Jánská2-interiér2022d.jpg",
+      "description": "Brno, Jánská 2, interiér",
+      "categories": [
+        "Window handles",
+        "Jánská 2 (Brno)",
+        "Self-published work"
+      ],
+      "auteur": "Ben Skála",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brno-J%C3%A1nsk%C3%A12-interi%C3%A9r2022d.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Brno-J%C3%A1nsk%C3%A12-interi%C3%A9r2022d.jpg/1280px-Brno-J%C3%A1nsk%C3%A12-interi%C3%A9r2022d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Window catch in Haus Wittgenstein.jpg",
+      "description": "A window catch in Haus Wittgenstein in Vienna",
+      "categories": [
+        "Haus Wittgenstein",
+        "Window handles",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Maxronnersjo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Window_catch_in_Haus_Wittgenstein.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Window_catch_in_Haus_Wittgenstein.jpg/1280px-Window_catch_in_Haus_Wittgenstein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2978,
+      "hauteur": 3973
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Rew13k04-089 window handle.JPG",
+      "description": "A typical modern lockable window handle",
+      "categories": [
+        "Taken with Canon PowerShot A620",
+        "Window handles",
+        "Self-published work"
+      ],
+      "auteur": "Roly Williams",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rew13k04-089_window_handle.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Rew13k04-089_window_handle.JPG/1280px-Rew13k04-089_window_handle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Beginenhaus Kempten (Foto Hilarmont) (3).JPG",
+      "description": "Historischer Fensterverschluss im Beginenhaus, Kempten",
+      "categories": [
+        "Images from Wiki Loves Monuments 2015 in Germany",
+        "Beginenhaus Kempten",
+        "Window handles",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2015",
+        "Images from Wiki Loves Monuments 2015, DE-BY",
+        "Uploaded via Campaign:wlm-de-by",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation"
+      ],
+      "auteur": "Hilarmont",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beginenhaus_Kempten_(Foto_Hilarmont)_(3).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Beginenhaus_Kempten_%28Foto_Hilarmont%29_%283%29.JPG/1280px-Beginenhaus_Kempten_%28Foto_Hilarmont%29_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3035,
+      "hauteur": 3019
+    }
+  ]
+}

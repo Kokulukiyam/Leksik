@@ -1,0 +1,152 @@
+{
+  "terme": {
+    "id": "epi-de-faitage",
+    "terme": "l'épi de faîtage",
+    "categorie": "Ornement",
+    "definition": "Ornement de terre cuite, de zinc ou de plomb qui se dresse à l'extrémité ou au sommet d'un faîtage.",
+    "priorite": 2,
+    "requetes": [
+      "roof finial",
+      "épi de faîtage",
+      "finial roof ridge"
+    ],
+    "incompatibles": [
+      "faitage"
+    ],
+    "categoriesCommons": [
+      "Category:Roof finials",
+      "Category:Finials"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Al-Jarina Mosque, Haifa 3.JPG",
+      "description": "Al-Jarina Mosque, Haifa. Was built in the 18th century. The tower was built in 1898/9 in Downtown Haifa מסגד אל-ג'רינה בעיר התחתית בחיפה. המסגד נבנה במאה ה-18 המסגד נבנה בשנה 1898/9 בעיר התחתית בחיפה",
+      "categories": [
+        "Taken with Canon PowerShot S2 IS",
+        "Roof finials",
+        "Round windows in Israel",
+        "Clouds and blue sky in Israel",
+        "Windows in Haifa",
+        "Al Jarina mosque clock tower",
+        "Al Jarina mosque in 2011"
+      ],
+      "auteur": "Hanay",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al-Jarina_Mosque,_Haifa_3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Al-Jarina_Mosque%2C_Haifa_3.JPG/1280px-Al-Jarina_Mosque%2C_Haifa_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Deauville-Hôtel Normandy-Jockey-20120915.jpg",
+      "description": "Épi de faîtage: Cheval monté.",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Canon EOS 450D",
+        "Normandy Barrière",
+        "Monuments à l’inventaire",
+        "Roof finials",
+        "Self-published work",
+        "Mérimée with IA parameter",
+        "Finials in Calvados",
+        "Cultural heritage monuments in France with known IDs",
+        "France photographs taken on 2012-09-15",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Files with coordinates missing SDC location of creation (49° N, 0° E)",
+        "Épis de faîtage (Gentil & Bourdet)"
+      ],
+      "auteur": "Daniel VILLAFRUELA .",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deauville-H%C3%B4tel_Normandy-Jockey-20120915.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Deauville-H%C3%B4tel_Normandy-Jockey-20120915.jpg/1280px-Deauville-H%C3%B4tel_Normandy-Jockey-20120915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Gore Hall finial - Harvard University - IMG 0106.JPG",
+      "description": "Gore Hall finial, Harvard University, Cambridge, Massachusetts, USA.",
+      "categories": [
+        "Taken with Canon Digital IXUS 860 IS",
+        "Finials",
+        "Crockets",
+        "Fleurons (architecture)",
+        "Self-published work",
+        "PD-self",
+        "Files uploaded by Daderot",
+        "Gore Hall, Harvard College"
+      ],
+      "auteur": "Daderot",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gore_Hall_finial_-_Harvard_University_-_IMG_0106.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Gore_Hall_finial_-_Harvard_University_-_IMG_0106.JPG/1280px-Gore_Hall_finial_-_Harvard_University_-_IMG_0106.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Con Ed Building top from 3rd Ave.jpg",
+      "description": "The \"Tower of Light\" atop the tower of the Consolidated Edison Company Building (originally the Consolidated Gas Company Building) at 4 Irving Place at East 14th Street in Manhattan, New York City, as seen from Third Avenue below 14th Street. The building was erected in 1915 (architect: Henry J. Hardenbergh) on the site of the Academy of Music, New York's third opera house. (The name then went to a movie house across the street, which later became The Palladium, and then was torn down for a New York University dormitory.) The tower was added in 1926 (architect: Warren & Wetmore). The \"Tower of",
+      "categories": [
+        "GFDL",
+        "Consolidated Edison Company Building",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Roof finials",
+        "Self-published work",
+        "New York City photographs taken on 2010-08-05",
+        "Files with coordinates missing SDC location of creation",
+        "Images by Beyond My Ken/Between",
+        "August 2010 in Manhattan, New York City",
+        "2010 in Gramercy, Manhattan"
+      ],
+      "auteur": "Beyond My Ken",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Con_Ed_Building_top_from_3rd_Ave.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Con_Ed_Building_top_from_3rd_Ave.jpg/1280px-Con_Ed_Building_top_from_3rd_Ave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1604,
+      "hauteur": 1322
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Finial (8199177644).jpg",
+      "description": "Iron finial — Ireland.",
+      "categories": [
+        "Ironwork in Ireland",
+        "Finials",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by psyberartist"
+      ],
+      "auteur": "psyberartist",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Finial_(8199177644).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Finial_%288199177644%29.jpg/1280px-Finial_%288199177644%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Epis2.jpg",
+      "description": "",
+      "categories": [
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Amblie",
+        "Media missing infobox template",
+        "Roof finials",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Epis2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Epis2.jpg/1280px-Epis2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1932
+    }
+  ]
+}

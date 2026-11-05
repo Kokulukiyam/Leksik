@@ -1,0 +1,121 @@
+{
+  "terme": {
+    "id": "siphon-de-sol",
+    "terme": "le siphon de sol",
+    "categorie": "Réseaux et équipements",
+    "definition": "Grille posée au sol d'une douche, d'une salle d'eau ou d'une terrasse, reliée à un siphon, qui recueille l'eau qui ruisselle.",
+    "priorite": 1,
+    "requetes": [
+      "floor drain bathroom",
+      "siphon de sol",
+      "floor drain grate"
+    ],
+    "categoriesCommons": [
+      "Category:Floor drains",
+      "Category:Drains"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Caca.jpg",
+      "description": "A drain.",
+      "categories": [
+        "Drain covers",
+        "Self-published work",
+        "Floor drains",
+        "Taken with Nokia 311"
+      ],
+      "auteur": "Maaximomarquez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caca.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Caca.jpg/1280px-Caca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bergbach (27548167311).jpg",
+      "description": "Bergbach",
+      "categories": [
+        "Drains",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Lukas Plewnia"
+      ],
+      "auteur": "Lukas Plewnia from Winterthur, Schweiz",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bergbach_(27548167311).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Bergbach_%2827548167311%29.jpg/1280px-Bergbach_%2827548167311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Coladera Botada.jpg",
+      "description": "es una coladera con bache volteada por el agua",
+      "categories": [
+        "Drains",
+        "Self-published work"
+      ],
+      "auteur": "Señor Cobaya",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coladera_Botada.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Coladera_Botada.jpg/1280px-Coladera_Botada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2252,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Set Basicflow.jpg",
+      "description": "Floor drain",
+      "categories": [
+        "Self-published work",
+        "Floor drains"
+      ],
+      "auteur": "Alinaciao",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Set_Basicflow.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Set_Basicflow.jpg/1280px-Set_Basicflow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2480,
+      "hauteur": 3508
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A drain making the best of a rock Wellcome L0060573.jpg",
+      "description": "A drain making the best of a rock General Collections Keywords: Drainage, Sanitary; Sanitation",
+      "categories": [
+        "Files with no machine-readable author",
+        "Drains",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images (check needed)",
+        "Files from Wellcome Images"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_drain_making_the_best_of_a_rock_Wellcome_L0060573.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/A_drain_making_the_best_of_a_rock_Wellcome_L0060573.jpg/1280px-A_drain_making_the_best_of_a_rock_Wellcome_L0060573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6606,
+      "hauteur": 4112
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Drain cover with trap.jpg",
+      "description": "Pictures showing two traps located underneath a drain cover. The centre image shows a few insects stuck to the underside of the cover. The cover functions as a trap by blocking the back flow of gasses using the trapped water and any positive pressure in the pipe will cause the cover to come out.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Drain covers",
+        "Self-published work",
+        "Floor drains"
+      ],
+      "auteur": "KLLvr283 (talk) Original uploader was KLLvr283 at en.wikipedia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drain_cover_with_trap.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Drain_cover_with_trap.jpg/1280px-Drain_cover_with_trap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3072
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "porte-a-deux-vantaux",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux portes en bois séparées, chacune sous son arc, dans un portail sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Biertan, Roumanie",
+      "note": "Deux portes distinctes, pas une porte à deux vantaux."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grand portail d'église à deux arcs avec ferrures et une statue devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Yangon, Myanmar",
+      "note": "Statue masquant le milieu, doute entre deux portes et quatre vantaux."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Salle blanche avec portes métalliques dont une porte à hublot.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte à un seul vantail."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte blanche à deux vantaux surmontée de grilles dans un encadrement de lierre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.42,
+        "y": 0.3,
+        "largeur": 0.32,
+        "hauteur": 0.65
+      },
+      "lieu": "Benrath, Düsseldorf",
+      "note": "Deux battants nets, joint central visible, poignée au milieu ; rectangle sur la porte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vieille maison en bois délabrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kargil, Ladakh",
+      "note": "Porte illisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte turquoise à un seul battant dans un mur en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Un seul vantail."
+    }
+  ]
+}

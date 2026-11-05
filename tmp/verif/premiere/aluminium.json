@@ -1,0 +1,53 @@
+{
+  "termId": "aluminium",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Couteau suisse à plaquette aluminium gaufrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet, pas d'architecture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chercheur devant un montage de laboratoire à éclairage bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Étiquette de câbles électriques sur planches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte, sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan sur un profilé tubulaire gris avec un trou, devant un panneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Métal gris indéterminé, pourrait être du profilé ou de l'acier."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Touret de câbles gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Câbles plastique, sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur une cornière métallique avec un embout isolant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Métal non identifiable avec certitude."
+    }
+  ]
+}

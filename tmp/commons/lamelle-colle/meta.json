@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "lamelle-colle",
+    "terme": "le lamellé-collé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Bois formé de lamelles collées entre elles, en poutres de grande portée dont la tranche montre les strates.",
+    "priorite": 2,
+    "requetes": [
+      "glued laminated timber beams",
+      "glulam structure",
+      "lamellé-collé"
+    ],
+    "incompatibles": [
+      "bois"
+    ],
+    "categoriesCommons": [
+      "Category:Glued laminated timber"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fabriek hekospanten.jpg",
+      "description": "Glued laminated timber production",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot S40",
+        "Glued laminated timber",
+        "Ede, Netherlands",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Hekolambert",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fabriek_hekospanten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Fabriek_hekospanten.jpg/1280px-Fabriek_hekospanten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Wood bridge Montmorency 02.jpg",
+      "description": "Pont en bois dans la Forêt Montmorency qui enjambe la Rivière Montmorency , Québec, Canada. Construit à l'aide de 12 poutres arquées en bois lamellé-collé . La longueur totale du pont est près de 44 m avec une portée libre de près de 33 m à la base des poutres et une largeur hors tout de 4,8 m. Surcharge routière: 63,7 tonnes.",
+      "categories": [
+        "Rivière Montmorency",
+        "Glued laminated timber",
+        "Forêt Montmorency",
+        "Wooden arch bridges",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "hebdromadaires",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wood_bridge_Montmorency_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Wood_bridge_Montmorency_02.jpg/1280px-Wood_bridge_Montmorency_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Onex-StMartin-intérieur-11.jpg",
+      "description": "Intérieur de l'église Saint-Martin à Onex, commune du canton de Genève. Plafond en bois, de plus de 22 mètres de diamètre.",
+      "categories": [
+        "Glued laminated timber",
+        "Self-published work",
+        "Church ceilings in Switzerland",
+        "Coffered church ceilings in Switzerland",
+        "Interior of Saint-Martin (Onex)",
+        "Geodesic domes in Switzerland"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Onex-StMartin-int%C3%A9rieur-11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Onex-StMartin-int%C3%A9rieur-11.jpg/1280px-Onex-StMartin-int%C3%A9rieur-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4805,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Limtredragere i tak.jpg",
+      "description": "Limtredragere i tak.",
+      "categories": [
+        "Taken with Canon EOS 550D",
+        "Glued laminated timber",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Limtredragere_i_tak.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Limtredragere_i_tak.jpg/1280px-Limtredragere_i_tak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Lokameru.jpg",
+      "description": "The interior of Lokameru Sunsetfalls wedding chapel using glulam.",
+      "categories": [
+        "Glued laminated timber",
+        "Self-published work"
+      ],
+      "auteur": "Yofangga",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lokameru.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lokameru.jpg/1280px-Lokameru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1333
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Swatch-Bienne-34-entretrien.jpg",
+      "description": "Entretien de la toiture du bâtiment Swatch à Bienne. Traitement du bois.",
+      "categories": [
+        "Glued laminated timber",
+        "Self-published work",
+        "Carpentry in Switzerland",
+        "Men at work in Switzerland",
+        "Aerial work platforms in Switzerland",
+        "Headquarters of Swatch, Biel/Bienne, footbridge"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Swatch-Bienne-34-entretrien.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Swatch-Bienne-34-entretrien.jpg/1280px-Swatch-Bienne-34-entretrien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 4472
+    }
+  ]
+}

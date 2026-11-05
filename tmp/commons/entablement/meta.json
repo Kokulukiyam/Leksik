@@ -1,0 +1,147 @@
+{
+  "terme": {
+    "id": "entablement",
+    "terme": "l'entablement",
+    "categorie": "Ornement",
+    "definition": "Couronnement horizontal porté par les colonnes, formé de l'architrave, de la frise et de la corniche.",
+    "priorite": 2,
+    "requetes": [
+      "entablature temple",
+      "classical entablature",
+      "entablement"
+    ],
+    "incompatibles": [
+      "architrave",
+      "frise",
+      "corniche",
+      "triglyphe",
+      "metope"
+    ],
+    "categoriesCommons": [
+      "Category:Entablatures"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Arlington Memorial Amphitheater entrance 2011.jpg",
+      "description": "Entrance to Arlington Memorial Amphitheater in Arlington National Cemetery .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 450D",
+        "License migration redundant",
+        "Entablatures",
+        "Self-published work",
+        "Pediments in Virginia",
+        "Files with coordinates missing SDC location of creation",
+        "MCMXV (numeral)",
+        "Arlington Memorial Amphitheater in 2011",
+        "Bilingual English-Latin signs in the United States",
+        "Dulce et decorum est pro patria mori",
+        "Arlington National Cemetery in May 2011"
+      ],
+      "auteur": "Wknight94 talk",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arlington_Memorial_Amphitheater_entrance_2011.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Arlington_Memorial_Amphitheater_entrance_2011.jpg/1280px-Arlington_Memorial_Amphitheater_entrance_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Entaulament del la nau de la catedral de Sogorb.JPG",
+      "description": "Entaulament del la nau de la catedral de Sogorb.",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Entablatures",
+        "Self-published work",
+        "Church of the Segorbe Cathedral"
+      ],
+      "auteur": "Joanbanjo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Entaulament_del_la_nau_de_la_catedral_de_Sogorb.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Entaulament_del_la_nau_de_la_catedral_de_Sogorb.JPG/1280px-Entaulament_del_la_nau_de_la_catedral_de_Sogorb.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4434,
+      "hauteur": 3071
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Igreja de Nossa Senhora da Palma Salvador High Altar 2018-0612.jpg",
+      "description": "Entablature above Corinthian column of high altar, Igreja e Convento de Nossa Senhora da Palma, Salvador, Bahia, Brazil.",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II",
+        "Entablatures",
+        "Corinthian capitals in Brazil",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil images by Paul R. Burley",
+        "Photographs taken on 2018-09-29",
+        "Interior of Igreja de Nossa Senhora da Palma"
+      ],
+      "auteur": "Paul R. Burley",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_da_Palma_Salvador_High_Altar_2018-0612.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Igreja_de_Nossa_Senhora_da_Palma_Salvador_High_Altar_2018-0612.jpg/1280px-Igreja_de_Nossa_Senhora_da_Palma_Salvador_High_Altar_2018-0612.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3758,
+      "hauteur": 5637
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Igreja de Nossa Senhora da Palma Salvador High Altar 2018-0613.jpg",
+      "description": "Entablature above Corinthian column of high altar, Igreja e Convento de Nossa Senhora da Palma, Salvador, Bahia, Brazil.",
+      "categories": [
+        "Taken with Canon EOS 6D Mark II",
+        "Entablatures",
+        "Corinthian capitals in Brazil",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil images by Paul R. Burley",
+        "Photographs taken on 2018-09-29",
+        "Interior of Igreja de Nossa Senhora da Palma"
+      ],
+      "auteur": "Paul R. Burley",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_da_Palma_Salvador_High_Altar_2018-0613.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Igreja_de_Nossa_Senhora_da_Palma_Salvador_High_Altar_2018-0613.jpg/1280px-Igreja_de_Nossa_Senhora_da_Palma_Salvador_High_Altar_2018-0613.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3666,
+      "hauteur": 5499
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Colonne corinthienne et médaillons - façade de l'ancien musée-bibliothèque de Grenoble 03.jpg",
+      "description": "colonne corinthienne et médaillons de Pierre Lescot et Lesueur sur la façade de l'ancien musée-bibliothèque de Grenoble",
+      "categories": [
+        "Eustache Le Sueur",
+        "Pierre Lescot",
+        "Entablatures",
+        "Self-published work",
+        "Corinthian capitals in France",
+        "Ancien musée-bibliothèque de Grenoble - Facade"
+      ],
+      "auteur": "Patafisik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Colonne_corinthienne_et_m%C3%A9daillons_-_fa%C3%A7ade_de_l%27ancien_mus%C3%A9e-biblioth%C3%A8que_de_Grenoble_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Colonne_corinthienne_et_m%C3%A9daillons_-_fa%C3%A7ade_de_l%27ancien_mus%C3%A9e-biblioth%C3%A8que_de_Grenoble_03.jpg/1280px-Colonne_corinthienne_et_m%C3%A9daillons_-_fa%C3%A7ade_de_l%27ancien_mus%C3%A9e-biblioth%C3%A8que_de_Grenoble_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2022,
+      "hauteur": 1236
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Backside of a pediment and entablature (Gate of Athena Archegetis) on February 26, 2022.jpg",
+      "description": "Backside of the entablature of the Gate of Athena Archegetis in the Roman Agora of Athens.",
+      "categories": [
+        "Entablatures",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Gate of the Roman Agora (Athens)",
+        "Ancient Roman pediments in Greece"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Backside_of_a_pediment_and_entablature_(Gate_of_Athena_Archegetis)_on_February_26,_2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Backside_of_a_pediment_and_entablature_%28Gate_of_Athena_Archegetis%29_on_February_26%2C_2022.jpg/1280px-Backside_of_a_pediment_and_entablature_%28Gate_of_Athena_Archegetis%29_on_February_26%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5828,
+      "hauteur": 3886
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "escalier-de-secours",
+    "terme": "l'escalier de secours",
+    "categorie": "Escaliers et circulations",
+    "definition": "Escalier métallique extérieur, accroché à la façade, qui sert d'issue en cas d'incendie.",
+    "priorite": 2,
+    "requetes": [
+      "fire escape stairs building",
+      "escalier de secours",
+      "incategory:\"Fire escapes\""
+    ],
+    "incompatibles": [
+      "escalier-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Fire escapes"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Clusterflunk stock photo. (23697914594).jpg",
+      "description": "Startup Stock Photos",
+      "categories": [
+        "Taken with Canon EOS 6D",
+        "CC-Zero",
+        "Fire escapes",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs taken on 2014-08-24",
+        "People with iPhones",
+        "Relaxation in humans",
+        "Females sitting outdoors"
+      ],
+      "auteur": "www.Pixel.la Free Stock Photos",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clusterflunk_stock_photo._(23697914594).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Clusterflunk_stock_photo._%2823697914594%29.jpg/1280px-Clusterflunk_stock_photo._%2823697914594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Emergency escape (22149991826).jpg",
+      "description": "2015 October Holidays",
+      "categories": [
+        "Fire escapes",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Magnus Hagdorn"
+      ],
+      "auteur": "marsupium photography",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Emergency_escape_(22149991826).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Emergency_escape_%2822149991826%29.jpg/1280px-Emergency_escape_%2822149991826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Building-fire-escape-fire-ladder (24029990520).jpg",
+      "description": "building-fire-escape-fire-ladder",
+      "categories": [
+        "CC-Zero",
+        "Fire escapes",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "www.Pixel.la Free Stock Photos",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building-fire-escape-fire-ladder_(24029990520).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Building-fire-escape-fire-ladder_%2824029990520%29.jpg/1280px-Building-fire-escape-fire-ladder_%2824029990520%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Fire Fighting Appliances Gilbert 1969 Plate 36.jpg",
+      "description": "Wivell's fire escapes 1827-1835. 36 Plate from Fire fighting appliances , the descriptive catalogue of the collection in the Science Museum, London.",
+      "categories": [
+        "Fire escapes",
+        "Abraham Wivell",
+        "UK Government artistic works",
+        "Fire Fighting Appliances (1969)"
+      ],
+      "auteur": "Gilbert, K.R. (Keith Reginald) 1915-1973",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_Fighting_Appliances_Gilbert_1969_Plate_36.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Fire_Fighting_Appliances_Gilbert_1969_Plate_36.jpg/1280px-Fire_Fighting_Appliances_Gilbert_1969_Plate_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3020,
+      "hauteur": 2189
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2025-05-03 Oradea detail 83.jpg",
+      "description": "Nagyváradi részlet",
+      "categories": [
+        "Fire escapes",
+        "Oradea State Theatre",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Romania photographs taken on 2025-05-03"
+      ],
+      "auteur": "Szilas",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-05-03_Oradea_detail_83.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2025-05-03_Oradea_detail_83.jpg/1280px-2025-05-03_Oradea_detail_83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Oder-Spree-Kanal in Eisenhüttenstadt 2025 002.jpg",
+      "description": "Schild Fluchttreppe am Family Bowling Fährstraße 18 B in Eisenhüttenstadt am Oder-Spree-Kanal",
+      "categories": [
+        "Warning signs in Germany",
+        "Fire escapes",
+        "Eisenhüttenstadt",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Sebastian Wallroth",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oder-Spree-Kanal_in_Eisenh%C3%BCttenstadt_2025_002.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Oder-Spree-Kanal_in_Eisenh%C3%BCttenstadt_2025_002.jpg/1280px-Oder-Spree-Kanal_in_Eisenh%C3%BCttenstadt_2025_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

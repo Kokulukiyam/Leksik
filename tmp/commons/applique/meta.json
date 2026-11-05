@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "applique",
+    "terme": "l'applique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Luminaire fixé au mur.",
+    "priorite": 1,
+    "requetes": [
+      "wall light sconce",
+      "applique murale",
+      "wall lamp"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mariemont lamp sater.JPG",
+      "description": "",
+      "categories": [
+        "Files with no machine-readable author",
+        "Sconces",
+        "Artworks without Wikidata item",
+        "Self-published work",
+        "Artworks with known accession number",
+        "1st-century bronzes",
+        "1st-century art in Belgium",
+        "Files with coordinates missing SDC location of creation (50° N, 4° E)",
+        "Satyrs in ancient Greek sculpture",
+        "Greek and Roman theater masks in 1st century AD",
+        "Bronze Greek and Roman theater masks",
+        "Ancient Roman bronzes in the Musée de Mariemont"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mariemont_lamp_sater.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mariemont_lamp_sater.JPG/1280px-Mariemont_lamp_sater.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1572,
+      "hauteur": 1965
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Wall light (candelabre appliqué) MET 5229.jpg",
+      "description": "French; Wall light; Woodwork-Furniture",
+      "categories": [
+        "CC-Zero",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Department of European Sculpture and Decorative Arts, Metropolitan Museum of Art",
+        "Images from Metropolitan Museum of Art",
+        "Sconces (interior lighting fixtures)",
+        "GWToolset Batch Upload",
+        "Gift of J. Pierpont Morgan"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wall_light_(candelabre_appliqu%C3%A9)_MET_5229.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Wall_light_%28candelabre_appliqu%C3%A9%29_MET_5229.jpg/1280px-Wall_light_%28candelabre_appliqu%C3%A9%29_MET_5229.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3273
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Applique Louvre.jpg",
+      "description": "Une applique d'époque Napoléon III, Palais du Louvre, Aile Richelieu, escalier vers les appartements impériaux.",
+      "categories": [
+        "Taken with Sony DSLR-A550",
+        "CC-Zero",
+        "Self-published work",
+        "Sconces (interior lighting fixtures)",
+        "19th-century works in France",
+        "Second Empire style furniture",
+        "Glass lampshades",
+        "Interior light fixtures in Paris",
+        "France photographs taken on 2012-04-01",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Unidentified locations in the Louvre"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Applique_Louvre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Applique_Louvre.jpg/1280px-Applique_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3003,
+      "hauteur": 2401
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:HK TST 尖沙咀 Tsim Sha Tsui 彌敦道 132 Nathan Road 美麗華商場 MiraPlace December 2020 SS2 14.jpg",
+      "description": "HK TST 尖沙咀 Tsim Sha Tsui 彌敦道 132 Nathan Road 美麗華商場 MiraPlace in December 2020",
+      "categories": [
+        "Sconces",
+        "Self-published work",
+        "Boys wearing hoodies",
+        "Files with coordinates missing SDC location of creation",
+        "December 2020 in Tsim Sha Tsui",
+        "Hong Kong photographs taken on 2020-12-29",
+        "Mira Place 1",
+        "2020 in MiraPlace",
+        "2020 in Miramar Shopping Centre"
+      ],
+      "auteur": "MingUsuam Kimz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_TST_%E5%B0%96%E6%B2%99%E5%92%80_Tsim_Sha_Tsui_%E5%BD%8C%E6%95%A6%E9%81%93_132_Nathan_Road_%E7%BE%8E%E9%BA%97%E8%8F%AF%E5%95%86%E5%A0%B4_MiraPlace_December_2020_SS2_14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HK_TST_%E5%B0%96%E6%B2%99%E5%92%80_Tsim_Sha_Tsui_%E5%BD%8C%E6%95%A6%E9%81%93_132_Nathan_Road_%E7%BE%8E%E9%BA%97%E8%8F%AF%E5%95%86%E5%A0%B4_MiraPlace_December_2020_SS2_14.jpg/1280px-HK_TST_%E5%B0%96%E6%B2%99%E5%92%80_Tsim_Sha_Tsui_%E5%BD%8C%E6%95%A6%E9%81%93_132_Nathan_Road_%E7%BE%8E%E9%BA%97%E8%8F%AF%E5%95%86%E5%A0%B4_MiraPlace_December_2020_SS2_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Applique en forme de masque de théatre (Satyre).jpg",
+      "description": "Musée royal de Mariemont à Morlanwelz",
+      "categories": [
+        "Sconces",
+        "Self-published work",
+        "1st-century bronzes",
+        "1st-century art in Belgium",
+        "Images from Wiki Loves Art Belgium in 2016",
+        "Images from Wiki Loves Art Belgium in 2016 - Musée de Mariemont",
+        "Uploaded via Campaign:wla-be",
+        "Satyrs in ancient Greek sculpture",
+        "Greek and Roman theater masks in 1st century AD",
+        "Bronze Greek and Roman theater masks",
+        "Ancient Roman bronzes in the Musée de Mariemont"
+      ],
+      "auteur": "Flévaris",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Applique_en_forme_de_masque_de_th%C3%A9atre_(Satyre).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Applique_en_forme_de_masque_de_th%C3%A9atre_%28Satyre%29.jpg/1280px-Applique_en_forme_de_masque_de_th%C3%A9atre_%28Satyre%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2844,
+      "hauteur": 3940
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Gerling-Viertel - Hildeboldplatz 20-0591.jpg",
+      "description": "Denkmalgeschütztes Bürogebäude, ehemals Gerling-Versicherungen, Hildeboldplatz, Köln. Wandleuchten",
+      "categories": [
+        "Taken with Canon EOS 60D",
+        "Sconces",
+        "Groups of 5",
+        "Self-published work",
+        "Information field template with formatting",
+        "Exterior wall lanterns",
+        "Buildings with addresses",
+        "2012 photographs of Cologne",
+        "Lighting in Cologne",
+        "Files with coordinates missing SDC location of creation (50° N, 6° E)",
+        "Files by User:Raymond from de.wikipedia/Gerling-Viertel",
+        "Hildeboldplatz 20 (Gerling-Viertel)"
+      ],
+      "auteur": "Raimond Spekking",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gerling-Viertel_-_Hildeboldplatz_20-0591.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Gerling-Viertel_-_Hildeboldplatz_20-0591.jpg/1280px-Gerling-Viertel_-_Hildeboldplatz_20-0591.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3104,
+      "hauteur": 3770
+    }
+  ]
+}

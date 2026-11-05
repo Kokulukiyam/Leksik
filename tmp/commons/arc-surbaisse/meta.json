@@ -1,0 +1,171 @@
+{
+  "terme": {
+    "id": "arc-surbaisse",
+    "terme": "l'arc surbaissé",
+    "categorie": "Structure",
+    "definition": "Arc moins haut que la moitié de sa largeur, à la courbe aplatie.",
+    "priorite": 2,
+    "requetes": [
+      "segmental arch",
+      "arc surbaissé",
+      "depressed arch"
+    ],
+    "incompatibles": [
+      "arc"
+    ],
+    "categoriesCommons": [
+      "Category:Segmental arches",
+      "Category:Arches",
+      "Category:Brick arches"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Can Muset (Castellolí) - 07.JPG",
+      "description": "Can Muset (Castellolí)",
+      "categories": [
+        "Taken with Sony DSC-HX20V",
+        "Segmental arches",
+        "Can Muset (Castellolí)",
+        "Self-published work",
+        "Arches in Catalonia",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Images from Wiki Loves Monuments 2013",
+        "Portals in Anoia",
+        "Images from Wiki Loves Monuments 2013 in Spain",
+        "Uploaded via Campaign:wlm-es-cat",
+        "Files with coordinates missing SDC location of creation",
+        "All media supported by Wikimedia España in 2013",
+        "Spain photographs taken on 2013-08-31",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts"
+      ],
+      "auteur": "Jordiferrer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Can_Muset_(Castellol%C3%AD)_-_07.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Can_Muset_%28Castellol%C3%AD%29_-_07.JPG/1280px-Can_Muset_%28Castellol%C3%AD%29_-_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Arco del Salvador (Hellín) (72670).jpg",
+      "description": "Arco del Salvador, elemento histórico situado en el casco antiguo de Hellín, en la provincia de Albacete, Castilla-La Mancha.",
+      "categories": [
+        "CC-Zero",
+        "Arches",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Conjunto histórico artístico de Hellín",
+        "Culture of Hellín",
+        "Spain photographs taken on 2026-09-02"
+      ],
+      "auteur": "Hetemacaba",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arco_del_Salvador_(Hell%C3%ADn)_(72670).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Arco_del_Salvador_%28Hell%C3%ADn%29_%2872670%29.jpg/1280px-Arco_del_Salvador_%28Hell%C3%ADn%29_%2872670%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Aarhus Universitet, bygning detaljer Maj 2019.jpg",
+      "description": "Aarhus Universitet, bygning detaljer Maj 2019",
+      "categories": [
+        "Self-published work",
+        "Brick arches",
+        "Colonnades in Denmark",
+        "Tile pavements (outdoor)",
+        "Hovedbygningen (Århus Universitet)",
+        "Brick pillars"
+      ],
+      "auteur": "Kenny Arne Lang Antonsen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aarhus_Universitet,_bygning_detaljer_Maj_2019.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Aarhus_Universitet%2C_bygning_detaljer_Maj_2019.jpg/1280px-Aarhus_Universitet%2C_bygning_detaljer_Maj_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:029 Jardins de Ca n'Altimira, pont i escalinata.jpg",
+      "description": "Ca n'Altimira (Barcelona)",
+      "categories": [
+        "Jardins de Ca n'Altimira",
+        "Taken with Canon Digital IXUS 970 IS",
+        "Segmental arches",
+        "Self-published work",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Images from Wiki Loves Monuments 2012",
+        "Images from Wiki Loves Monuments 2012 in Spain",
+        "All media supported by Wikimedia España in 2012",
+        "Spain photographs taken on 2012-08-20",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts",
+        "Garden and park stairs in Barcelona"
+      ],
+      "auteur": "Enfo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:029_Jardins_de_Ca_n%27Altimira,_pont_i_escalinata.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/029_Jardins_de_Ca_n%27Altimira%2C_pont_i_escalinata.jpg/1280px-029_Jardins_de_Ca_n%27Altimira%2C_pont_i_escalinata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Arches passage.jpg",
+      "description": "Arches gives different feel",
+      "categories": [
+        "Kuwait",
+        "Arches",
+        "Self-published work"
+      ],
+      "auteur": "Aabbou",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arches_passage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Arches_passage.jpg/1280px-Arches_passage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4381,
+      "hauteur": 6070
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Batterie de Bois d'Arcy - Centre national de la cinématographie 2012 75.jpg",
+      "description": "Cette image a été versée dans le cadre de Wiki Loves Monuments 2012 .",
+      "categories": [
+        "Base Mérimée",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "Monuments historiques inscrits",
+        "License migration redundant",
+        "Segmental arches",
+        "Batterie de Bois-d'Arcy",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2012",
+        "Cultural heritage monuments in France with known IDs",
+        "Images from Wiki Loves Monuments 2012 in France",
+        "France photographs taken on 2012-09-15",
+        "Hanging flower baskets",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Batterie_de_Bois_d%27Arcy_-_Centre_national_de_la_cin%C3%A9matographie_2012_75.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Batterie_de_Bois_d%27Arcy_-_Centre_national_de_la_cin%C3%A9matographie_2012_75.jpg/1280px-Batterie_de_Bois_d%27Arcy_-_Centre_national_de_la_cin%C3%A9matographie_2012_75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "menuiserie-aluminium",
+    "terme": "la menuiserie aluminium",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Porte ou fenêtre dont le cadre et les vantaux sont faits de profilés en aluminium, souvent coulissants.",
+    "priorite": 1,
+    "requetes": [
+      "aluminium window frame",
+      "menuiserie aluminium",
+      "aluminum windows"
+    ],
+    "incompatibles": [
+      "fenetre",
+      "fenetre-coulissante",
+      "chassis-fixe",
+      "porte-vitree",
+      "aluminium"
+    ],
+    "categoriesCommons": [
+      "Category:Window frames",
+      "Category:Windows"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:HK Kwun Tong Sau Mau Ping 安泰邨 On Tai Estate April 2019 SSG 46.jpg",
+      "description": "HK Kwun Tong zh:安泰邨 On Tai Estate in April 2019",
+      "categories": [
+        "Window frames",
+        "Self-published work",
+        "Number 6 on objects",
+        "Hong Kong photographs taken on 2019-04-21",
+        "April 2019 in Kwun Tong District",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Long benches",
+        "April 2019 in On Tai Estate"
+      ],
+      "auteur": "SpisLL lwujbbn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_Kwun_Tong_Sau_Mau_Ping_%E5%AE%89%E6%B3%B0%E9%82%A8_On_Tai_Estate_April_2019_SSG_46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/HK_Kwun_Tong_Sau_Mau_Ping_%E5%AE%89%E6%B3%B0%E9%82%A8_On_Tai_Estate_April_2019_SSG_46.jpg/1280px-HK_Kwun_Tong_Sau_Mau_Ping_%E5%AE%89%E6%B3%B0%E9%82%A8_On_Tai_Estate_April_2019_SSG_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A portal.jpg",
+      "description": "a window",
+      "categories": [
+        "Windows",
+        "Self-published work"
+      ],
+      "auteur": "Llgilpin03",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_portal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/A_portal.jpg/1280px-A_portal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1296
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:AlvorAlgarveMay2016 (24).jpg",
+      "description": "Alvor, Algarve, Portugal May 2016",
+      "categories": [
+        "Window frames",
+        "Painted wood",
+        "Self-published work",
+        "Unassessed QI candidates",
+        "Alvor (freguesia)",
+        "Pastel-colored buildings",
+        "Paint defect"
+      ],
+      "auteur": "Notafly",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AlvorAlgarveMay2016_(24).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/AlvorAlgarveMay2016_%2824%29.jpg/1280px-AlvorAlgarveMay2016_%2824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2232
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:500px photo (22803989).jpeg",
+      "description": "500px provided description: Some of my work. For photographs of people with personality and passion, email engage@jimhawkins.co.uk []",
+      "categories": [
+        "Brick buildings",
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Jim Hawkins",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(22803989).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/500px_photo_%2822803989%29.jpeg/1280px-500px_photo_%2822803989%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Fensteröffnung einer Dreifachwand Ecke, 2.jpg",
+      "description": "Fenster in Doppelwandplatte/ Dreifachwand",
+      "categories": [
+        "Window frames",
+        "Self-published work",
+        "Precast sandwich wall elements"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fenster%C3%B6ffnung_einer_Dreifachwand_Ecke,_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Fenster%C3%B6ffnung_einer_Dreifachwand_Ecke%2C_2.jpg/1280px-Fenster%C3%B6ffnung_einer_Dreifachwand_Ecke%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A View (48281304).jpeg",
+      "description": "500px provided description: Lake Geneva, WI [#winter ,#window ,#brown ,#shingles ,#Wisconsin ,#Lake Geneva ,#Historic ,#lakeshore path]",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Treena Nicole",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_View_(48281304).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/A_View_%2848281304%29.jpeg/1280px-A_View_%2848281304%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1454,
+      "hauteur": 2048
+    }
+  ]
+}

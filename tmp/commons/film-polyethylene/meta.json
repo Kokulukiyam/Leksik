@@ -1,0 +1,114 @@
+{
+  "terme": {
+    "id": "film-polyethylene",
+    "terme": "le film polyéthylène",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Feuille de plastique, souvent appelée polyane, étalée sous un dallage ou un radier pour faire barrière à l'humidité du sol.",
+    "priorite": 2,
+    "requetes": [
+      "polyethylene vapour barrier under slab",
+      "film polyane dallage",
+      "plastic membrane concrete slab rebar"
+    ],
+    "incompatibles": [
+      "dallage",
+      "herisson",
+      "pare-vapeur"
+    ],
+    "categoriesCommons": [
+      "Category:Vapor barriers"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dampbrems 5.JPG",
+      "description": "Intello dampbrems fra Hunton. Sd 0,25 - Sd 25.",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampbrems_5.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Dampbrems_5.JPG/1280px-Dampbrems_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dampbrems 6.JPG",
+      "description": "Intello dampbrems fra Hunton. Sd 0,25 - Sd 25.",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampbrems_6.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Dampbrems_6.JPG/1280px-Dampbrems_6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Dampbrems 4.JPG",
+      "description": "Intello dampbrems fra Hunton. Sd 0,25 - Sd 25.",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampbrems_4.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Dampbrems_4.JPG/1280px-Dampbrems_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Dampbrems 7.JPG",
+      "description": "Intello dampbrems fra Hunton. Sd 0,25 - Sd 25.",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampbrems_7.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Dampbrems_7.JPG/1280px-Dampbrems_7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Dampfbremse.jpg",
+      "description": "Verlegte Dampfbremse im Neubau",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Ampack",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampfbremse.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Dampfbremse.jpg/1280px-Dampfbremse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Dampbrems 3.JPG",
+      "description": "Intello dampbrems fra Hunton. Sd 0,25 - Sd 25.",
+      "categories": [
+        "Vapor barriers",
+        "Self-published work"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dampbrems_3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Dampbrems_3.JPG/1280px-Dampbrems_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

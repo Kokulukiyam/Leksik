@@ -1,0 +1,142 @@
+{
+  "terme": {
+    "id": "pompe-immergee",
+    "terme": "la pompe immergée",
+    "categorie": "Réseaux et équipements",
+    "definition": "Pompe cylindrique étroite descendue dans un forage ou une cuve, qui fonctionne sous l'eau.",
+    "priorite": 2,
+    "requetes": [
+      "submersible pump borehole",
+      "pompe immergée",
+      "submersible water pump"
+    ],
+    "categoriesCommons": [
+      "Category:Submersible pumps",
+      "Category:Pumps"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Equipement de laboratoire pour la filtration sous vide - Pompes (Ifremer 00778-89010).jpg",
+      "description": "Pompe jet d'eau",
+      "categories": [
+        "Pumps",
+        "Files from Océanothèque uploaded by OptimusPrimeBot",
+        "Laboratory equipment in France"
+      ],
+      "auteur": "Stephane Lesbats (IFREMER, Pôle Images, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané, France)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Equipement_de_laboratoire_pour_la_filtration_sous_vide_-_Pompes_(Ifremer_00778-89010).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Equipement_de_laboratoire_pour_la_filtration_sous_vide_-_Pompes_%28Ifremer_00778-89010%29.jpg/1280px-Equipement_de_laboratoire_pour_la_filtration_sous_vide_-_Pompes_%28Ifremer_00778-89010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4256,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:150629-F-LP903-777 (19394040030).jpg",
+      "description": "Staff Sgt. Michael Rickman, an 823rd Expeditionary RED HORSE Squadron pavements and construction equipment operator, removes a pickup pump to clean it at a well site June 29, 2015, in Honduras. The well is one of multiple projects taking place in Honduras as part of New Horizons, an annual humanitarian assistance exercise. (U.S. Air Force photo/Capt. David J. Murphy)",
+      "categories": [
+        "Buildings in Honduras",
+        "Taken with Nikon D4",
+        "Submersible pumps",
+        "PD US Air Force",
+        "Flickr images reviewed by FlickreviewR",
+        "Files created by the United States Air Force with known IDs",
+        "Flickr images missing SDC creator",
+        "Photographs taken on 2015-07-10",
+        "823rd Rapid Engineer Deployable Heavy Operational Repair Squadron Engineers",
+        "Photographs by the United States Air Force with bad file names",
+        "New Horizons 2015",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "US Air Force from USA",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:150629-F-LP903-777_(19394040030).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/150629-F-LP903-777_%2819394040030%29.jpg/1280px-150629-F-LP903-777_%2819394040030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3280,
+      "hauteur": 4928
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Firefighter, pump, motorcycle, hooker-ladder Fortepan 70515.jpg",
+      "description": "Tags: firefighter, pump, motorcycle, hooker-ladder",
+      "categories": [
+        "Pumps",
+        "Images from Fortepan",
+        "Firefighting in Hungary",
+        "Images uploaded by Fæ",
+        "Pétfürdő",
+        "Vintage motorcycles",
+        "1940 photographs of Hungary",
+        "Firefighting ladders",
+        "Black and white photographs of motorcycles"
+      ],
+      "auteur": "FOTO:Fortepan — ID 70515 : Adományozó/Donor: Veszprém Megyei Levéltár/Kozelka Tivadar.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Firefighter,_pump,_motorcycle,_hooker-ladder_Fortepan_70515.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Firefighter%2C_pump%2C_motorcycle%2C_hooker-ladder_Fortepan_70515.jpg/1280px-Firefighter%2C_pump%2C_motorcycle%2C_hooker-ladder_Fortepan_70515.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5640,
+      "hauteur": 3907
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Schwabenheim Schleuse leer.jpg",
+      "description": "Schleuse Schwabenheim , leere rechte Kammer",
+      "categories": [
+        "Submersible pumps",
+        "Schleuse Schwabenheim",
+        "Self-published work",
+        "Scaffolding stairs",
+        "Metal scaffolds on wheels",
+        "Files with coordinates missing SDC location of creation (49° N, 8° E)",
+        "Lock (water transport) maintenance"
+      ],
+      "auteur": "Ikar.us",
+      "licence": "CC BY 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schwabenheim_Schleuse_leer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Schwabenheim_Schleuse_leer.jpg/1280px-Schwabenheim_Schleuse_leer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 3936
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Atmocean pump .jpg",
+      "description": "Single Atmocean pump being deployed in Ilo, Perú 2015",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Pumps",
+        "Wave power",
+        "Marine engineering",
+        "Marine energy",
+        "Desalination",
+        "Self-published work"
+      ],
+      "auteur": "Chrisbioworld",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atmocean_pump_.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Atmocean_pump_.jpg/1280px-Atmocean_pump_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Schwabenheim Schleuse Boden.jpg",
+      "description": "Schleuse Schwabenheim , Boden unter dem Stemmtor",
+      "categories": [
+        "Submersible pumps",
+        "Schleuse Schwabenheim",
+        "Self-published work",
+        "Lock (water transport) maintenance",
+        "Mitre gates in Germany"
+      ],
+      "auteur": "Ikar.us",
+      "licence": "CC BY 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schwabenheim_Schleuse_Boden.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Schwabenheim_Schleuse_Boden.jpg/1280px-Schwabenheim_Schleuse_Boden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2784
+    }
+  ]
+}

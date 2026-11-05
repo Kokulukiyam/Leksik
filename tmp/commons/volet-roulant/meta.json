@@ -1,0 +1,155 @@
+{
+  "terme": {
+    "id": "volet-roulant",
+    "terme": "le volet roulant",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Volet fait de lames horizontales articulées qui s'enroulent dans un coffre au-dessus de la fenêtre.",
+    "priorite": 1,
+    "requetes": [
+      "roller shutter window",
+      "volet roulant",
+      "rolling shutter"
+    ],
+    "incompatibles": [
+      "volet"
+    ],
+    "categoriesCommons": [
+      "Category:Roller shutters",
+      "Category:Window shutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Painted shutters, Bethel Street, Brighouse - geograph.org.uk - 6354482.jpg",
+      "description": "Painted shutters, Bethel Street, Brighouse",
+      "categories": [
+        "Roller shutters",
+        "Images from Geograph Britain and Ireland",
+        "Shops in Brighouse",
+        "Bethel Street, Brighouse"
+      ],
+      "auteur": "Humphrey Bolton",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Painted_shutters,_Bethel_Street,_Brighouse_-_geograph.org.uk_-_6354482.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Painted_shutters%2C_Bethel_Street%2C_Brighouse_-_geograph.org.uk_-_6354482.jpg/1280px-Painted_shutters%2C_Bethel_Street%2C_Brighouse_-_geograph.org.uk_-_6354482.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1501
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bahia Palace sunlit window.jpg",
+      "description": "Sunlight illuminating an ornate yellow metal window grille at Bahia Palace in Marrakech, Morocco, surrounded by painted wooden shutters and traditional geometric floor tiles",
+      "categories": [
+        "Zellij",
+        "Window shutters",
+        "Cultural heritage monuments in Morocco",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "Tiles in Morocco",
+        "Uploaded via Campaign:wlm-ma",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC copyright license",
+        "Images from Wiki Loves Monuments missing SDC copyright status",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments 2026 in Morocco"
+      ],
+      "auteur": "SafiaMens",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bahia_Palace_sunlit_window.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Bahia_Palace_sunlit_window.jpg/1280px-Bahia_Palace_sunlit_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3738,
+      "hauteur": 4986
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Deutsche Telekom, IFA 2018, Berlin (P1070263).jpg",
+      "description": "Deutsche Telekom, Internationale Funkausstellung 2018, Berlin",
+      "categories": [
+        "Germany photographs taken on 2018-09-02",
+        "Roller shutters",
+        "Internationale Funkausstellung 2018",
+        "Mains sockets",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Berlin photographs taken on 2018-09-02",
+        "Pictures by MB-one rejected",
+        "F-number f/1.6",
+        "Deutsche Telekom advertising",
+        "Lens focal length 25 mm",
+        "Taken with Panasonic DMC-GH1 and LEICA DG SUMMILUX 25/F1.4"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deutsche_Telekom,_IFA_2018,_Berlin_(P1070263).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsche_Telekom%2C_IFA_2018%2C_Berlin_%28P1070263%29.jpg/1280px-Deutsche_Telekom%2C_IFA_2018%2C_Berlin_%28P1070263%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Kableshkov House-6.JPG",
+      "description": "Maison Kableshkov, à Koprivchtitsa (Bulgarie).",
+      "categories": [
+        "Taken with Nikon Coolpix 4600",
+        "Kableshkov House",
+        "Window shutters",
+        "Self-published work",
+        "PD-self",
+        "Photos by TwoWings (PD-self)"
+      ],
+      "auteur": "TwoWings",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kableshkov_House-6.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kableshkov_House-6.JPG/1280px-Kableshkov_House-6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Oversliding door.jpg",
+      "description": "オーバースライディングドア",
+      "categories": [
+        "Doors",
+        "Roller shutters",
+        "Self-published work"
+      ],
+      "auteur": "Project Kei",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oversliding_door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Oversliding_door.jpg/1280px-Oversliding_door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3840,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Deák Ferenc Platz 12, Fenster, 2023 Nagykanizsa.jpg",
+      "description": "One storey, local grade listed, corner building. There is a cafe shop. Plaque on its: ~\"Bajer House is a building of local importance. The house of confectioner Vince Bajer. It was built in 1903 in Art Nouveau style. The elegant Bajer confectionery operated on the corner area, then the famous Makovitzky and Geranium confectionery // The memorial plaque was erected in 2004: Vodafone Hungary Rt.\" - 12 Deák Ferenc Square, Nagykanizsa , Zala County , Hungary .",
+      "categories": [
+        "Roller shutters",
+        "Self-published work",
+        "May 2023 Hungary photographs",
+        "Window shutters in Hungary",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "1903 architectural dates in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "MCMIII (numeral)",
+        "Deák tér 12 (Nagykanizsa)",
+        "2023 in Nagykanizsa"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:De%C3%A1k_Ferenc_Platz_12,_Fenster,_2023_Nagykanizsa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/De%C3%A1k_Ferenc_Platz_12%2C_Fenster%2C_2023_Nagykanizsa.jpg/1280px-De%C3%A1k_Ferenc_Platz_12%2C_Fenster%2C_2023_Nagykanizsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    }
+  ]
+}

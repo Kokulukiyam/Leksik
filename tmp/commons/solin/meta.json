@@ -1,0 +1,132 @@
+{
+  "terme": {
+    "id": "solin",
+    "terme": "le solin",
+    "categorie": "Toitures",
+    "definition": "Bande de mortier ou de métal qui assure l'étanchéité à la jonction d'une couverture et d'un mur ou d'une souche.",
+    "priorite": 2,
+    "requetes": [
+      "roof flashing chimney wall",
+      "solin toiture",
+      "lead flashing wall roof"
+    ],
+    "incompatibles": [
+      "souche-de-cheminee"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Dalmatian barbed wire fence.jpg",
+      "description": "Barbed wire fence between gardens and walking trail in Solin ( Split-Dalmatia County , Croatia )",
+      "categories": [
+        "Solin",
+        "Self-published work",
+        "Barbed wire fences"
+      ],
+      "auteur": "Maasaak",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dalmatian_barbed_wire_fence.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dalmatian_barbed_wire_fence.jpg/1280px-Dalmatian_barbed_wire_fence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Solin, Croatia 20250111 10.jpg",
+      "description": "Solin, Croatia",
+      "categories": [
+        "Solin",
+        "Klis",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Argo Navis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solin,_Croatia_20250111_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Solin%2C_Croatia_20250111_10.jpg/1280px-Solin%2C_Croatia_20250111_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Tusculum Garden, Solin (HR) - panoramio.jpg",
+      "description": "Tusculum Garden, Solin (HR)",
+      "categories": [
+        "Solin",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Media needing category review as of 17 December 2016",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Croatia photographs taken on 2011-09-13"
+      ],
+      "auteur": "Michael Newman",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tusculum_Garden,_Solin_(HR)_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Tusculum_Garden%2C_Solin_%28HR%29_-_panoramio.jpg/1280px-Tusculum_Garden%2C_Solin_%28HR%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:HR-Solin-Split-Blick.jpg",
+      "description": "Solin: Blick nach Split",
+      "categories": [
+        "Solin",
+        "Self-published work",
+        "Photos by SchiDD/2017"
+      ],
+      "auteur": "SchiDD",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HR-Solin-Split-Blick.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/HR-Solin-Split-Blick.jpg/1280px-HR-Solin-Split-Blick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2936,
+      "hauteur": 1957
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cemex Plant, Solin Croatia near Split 1684.jpg",
+      "description": "Cemex Plant, Solin, Croatia near Split",
+      "categories": [
+        "Solin",
+        "CEMEX",
+        "Self-published work"
+      ],
+      "auteur": "Paul Harrison",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cemex_Plant,_Solin_Croatia_near_Split_1684.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Cemex_Plant%2C_Solin_Croatia_near_Split_1684.jpg/1280px-Cemex_Plant%2C_Solin_Croatia_near_Split_1684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5757,
+      "hauteur": 3838
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Anton Nowak - Gasthaus in Salona an der Straße nach Glisse - 3225 - Österreichische Galerie Belvedere.jpg",
+      "description": "",
+      "categories": [
+        "1894 in Croatia",
+        "Solin",
+        "PD-Art (PD-old-auto-expired)",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "1894 paintings from Austria",
+        "PD-old-80-expired",
+        "CC-PD-Mark",
+        "1894 paintings in Austria",
+        "Artworks with accession number from Wikidata",
+        "Taverns in art",
+        "Artworks with Wikidata item missing genre",
+        "Artworks digital representation of 2D work",
+        "19th-century landscape paintings in the Österreichische Galerie Belvedere",
+        "Paintings by Anton Nowak in the Österreichische Galerie Belvedere"
+      ],
+      "auteur": "Anton Nowak",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anton_Nowak_-_Gasthaus_in_Salona_an_der_Stra%C3%9Fe_nach_Glisse_-_3225_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Anton_Nowak_-_Gasthaus_in_Salona_an_der_Stra%C3%9Fe_nach_Glisse_-_3225_-_%C3%96sterreichische_Galerie_Belvedere.jpg/1280px-Anton_Nowak_-_Gasthaus_in_Salona_an_der_Stra%C3%9Fe_nach_Glisse_-_3225_-_%C3%96sterreichische_Galerie_Belvedere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3508,
+      "hauteur": 2468
+    }
+  ]
+}

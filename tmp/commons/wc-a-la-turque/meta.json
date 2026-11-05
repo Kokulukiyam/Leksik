@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "wc-a-la-turque",
+    "terme": "le WC à la turque",
+    "categorie": "Réseaux et équipements",
+    "definition": "Cuvette posée au ras du sol, avec deux repose-pieds, sur laquelle on s'accroupit.",
+    "priorite": 1,
+    "requetes": [
+      "squat toilet",
+      "toilettes à la turque",
+      "squatting toilet ceramic"
+    ],
+    "incompatibles": [
+      "cuvette-de-wc"
+    ],
+    "categoriesCommons": [
+      "Category:Squat toilets",
+      "Category:Toilets"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:August 2007, toilets in restaurant in Seoul.jpg",
+      "description": "August 2007, toilets in restaurant in Seoul",
+      "categories": [
+        "Squat toilets",
+        "CC-Zero",
+        "Self-published work",
+        "Toilets in South Korea",
+        "August 2007 in Seoul",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2007-08-22",
+        "Restaurants in Seoul"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:August_2007,_toilets_in_restaurant_in_Seoul.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/August_2007%2C_toilets_in_restaurant_in_Seoul.jpg/1280px-August_2007%2C_toilets_in_restaurant_in_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Baltic Princess, WC C4-cabin, 20220827, bild 4.jpg",
+      "description": "Toaletten på C4-hytt ombord på Baltic Princess den 27 augusti 2022.",
+      "categories": [
+        "Toilets",
+        "Interior of Baltic Princess (ship, 2008)",
+        "Self-published work",
+        "Ship cabins"
+      ],
+      "auteur": "AleWi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baltic_Princess,_WC_C4-cabin,_20220827,_bild_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Baltic_Princess%2C_WC_C4-cabin%2C_20220827%2C_bild_4.jpg/1280px-Baltic_Princess%2C_WC_C4-cabin%2C_20220827%2C_bild_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Antique Korean toilet - 20260624 (1).jpg",
+      "description": "상가 화장실의 화변기",
+      "categories": [
+        "Squat toilets",
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Toilets in South Korea",
+        "Self-published work missing SDC copyright license",
+        "Taken with Samsung Galaxy Wide8"
+      ],
+      "auteur": "파워위키러저항러",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_Korean_toilet_-_20260624_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Antique_Korean_toilet_-_20260624_%281%29.jpg/1280px-Antique_Korean_toilet_-_20260624_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Blue Colored Moblie Toilet in the road.jpg",
+      "description": "ISS Mobile Toilet on the outdoor place in Tsuen Wan",
+      "categories": [
+        "Toilets",
+        "Blue",
+        "Self-published work",
+        "Mobile toilets",
+        "Taken with Panasonic Lumix DC-G100/G110"
+      ],
+      "auteur": "Peachyeung316",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Colored_Moblie_Toilet_in_the_road.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Blue_Colored_Moblie_Toilet_in_the_road.jpg/1280px-Blue_Colored_Moblie_Toilet_in_the_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Antique Korean toilet - 2026 06 14 (3).jpg",
+      "description": "상가 화장실의 화변기",
+      "categories": [
+        "Squat toilets",
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Toilets in South Korea",
+        "Self-published work missing SDC copyright license",
+        "Taken with Samsung Galaxy Wide8"
+      ],
+      "auteur": "파워위키러저항러",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_Korean_toilet_-_2026_06_14_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Antique_Korean_toilet_-_2026_06_14_%283%29.jpg/1280px-Antique_Korean_toilet_-_2026_06_14_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3060
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Antique Japanese toilet for sale in Ueno with English sign - 2024 July 29.jpeg",
+      "description": "和式トイレ (Japanese style toilet)",
+      "categories": [
+        "Squat toilets",
+        "Self-published work",
+        "Japanese squat toilets",
+        "History of toilets"
+      ],
+      "auteur": "Nesnad",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_Japanese_toilet_for_sale_in_Ueno_with_English_sign_-_2024_July_29.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Antique_Japanese_toilet_for_sale_in_Ueno_with_English_sign_-_2024_July_29.jpeg/1280px-Antique_Japanese_toilet_for_sale_in_Ueno_with_English_sign_-_2024_July_29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

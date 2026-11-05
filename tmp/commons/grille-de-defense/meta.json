@@ -1,0 +1,149 @@
+{
+  "terme": {
+    "id": "grille-de-defense",
+    "terme": "la grille de défense",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Grille en barreaux ou en fer forgé fixée devant une fenêtre pour empêcher l'effraction.",
+    "priorite": 1,
+    "requetes": [
+      "window security bars",
+      "grille de défense fenêtre",
+      "window grille iron"
+    ],
+    "incompatibles": [
+      "barreaudage",
+      "fenetre"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Corridor at Mission San Fernando Rey de Espana.jpg",
+      "description": "Exterior Corridor at en:Mission San Fernando Rey de España . Photographed and uploaded by user:Geographer",
+      "categories": [
+        "Taken with Canon PowerShot A710 IS",
+        "Arcades in California",
+        "Mission San Fernando Rey de España Convento",
+        "Barred windows in California"
+      ],
+      "auteur": "Original téléversé par Geographer sur Wikipédia anglais .",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corridor_at_Mission_San_Fernando_Rey_de_Espana.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Corridor_at_Mission_San_Fernando_Rey_de_Espana.jpg/1280px-Corridor_at_Mission_San_Fernando_Rey_de_Espana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Exterior Corridor at San Fernando Rey de Espana.jpg",
+      "description": "",
+      "categories": [
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Media missing infobox template",
+        "Arcades in California",
+        "Mission San Fernando Rey de España Convento",
+        "Mission San Fernando Rey de España in 2004",
+        "Barred windows in California"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Exterior_Corridor_at_San_Fernando_Rey_de_Espana.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Exterior_Corridor_at_San_Fernando_Rey_de_Espana.jpg/1280px-Exterior_Corridor_at_San_Fernando_Rey_de_Espana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1524,
+      "hauteur": 2032
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Atardecer en un rincon de Suchitoto - panoramio.jpg",
+      "description": "Atardecer en un rincon de Suchitoto",
+      "categories": [
+        "Suchitoto",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Adobe buildings in El Salvador",
+        "Barred windows in El Salvador",
+        "Photos from Panoramio",
+        "Tiled roofs in El Salvador",
+        "White buildings in El Salvador",
+        "Files with coordinates missing SDC location of creation",
+        "Cobblestone streets in El Salvador",
+        "El Salvador photographs taken on 2007-03-23",
+        "Photos from Panoramio ID 223276"
+      ],
+      "auteur": "Daniel chavez castro",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atardecer_en_un_rincon_de_Suchitoto_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Atardecer_en_un_rincon_de_Suchitoto_-_panoramio.jpg/1280px-Atardecer_en_un_rincon_de_Suchitoto_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Portrait of Father Aquire Liebana looking out from a barred window at Mission San Fernando Rey de Espana, Los Angeles, ca.1880-1900 (CHS-5882).jpg",
+      "description": "Portrait of Father Aquire Liebana looking out from a barred window at Mission San Fernando Rey de Espana, Los Angeles, ca.1880-1900 Photographic portrait of Father Aquire Liebana looking out from a barred window at Mission San Fernando Rey de España , Los Angeles, ca.1880-1900. He is resting his chin on the knuckles of his right hand with his index finger pressed into his cheek. In his other hand he holds a Spanish newspaper, \"La Union Catolica\". He has on spectacles, dark clothing and the light-colored cuffs of his shirt is showing. Call number : CHS-5882 Filename : CHS-5882 Coverage date : c",
+      "categories": [
+        "PD US",
+        "Los Angeles in the 1880s",
+        "Glass plate negatives",
+        "Wrought iron in the United States",
+        "Template Unknown (author)",
+        "California Historical Society Collection, 1860-1960",
+        "Images from USC Digital Library uploaded by Fæ",
+        "Grilles (architecture) in the United States",
+        "PD-US missing SDC copyright status",
+        "Mission San Fernando Rey de España Convento",
+        "Barred windows in California"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Portrait_of_Father_Aquire_Liebana_looking_out_from_a_barred_window_at_Mission_San_Fernando_Rey_de_Espana,_Los_Angeles,_ca.1880-1900_(CHS-5882).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Portrait_of_Father_Aquire_Liebana_looking_out_from_a_barred_window_at_Mission_San_Fernando_Rey_de_Espana%2C_Los_Angeles%2C_ca.1880-1900_%28CHS-5882%29.jpg/1280px-Portrait_of_Father_Aquire_Liebana_looking_out_from_a_barred_window_at_Mission_San_Fernando_Rey_de_Espana%2C_Los_Angeles%2C_ca.1880-1900_%28CHS-5882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4529,
+      "hauteur": 5601
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Suchitoto, El Salvador - panoramio (52).jpg",
+      "description": "Suchitoto, El Salvador",
+      "categories": [
+        "Suchitoto",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Parks in El Salvador",
+        "Panoramio images reviewed by trusted users",
+        "Barred windows in El Salvador",
+        "Photos from Panoramio",
+        "Media needing category review as of 31 March 2017",
+        "Files with coordinates missing SDC location of creation",
+        "El Salvador photographs taken on 2014-04-12",
+        "Cobblestone streets in El Salvador"
+      ],
+      "auteur": "PABLO NUÑEZ",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Suchitoto,_El_Salvador_-_panoramio_(52).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Suchitoto%2C_El_Salvador_-_panoramio_%2852%29.jpg/1280px-Suchitoto%2C_El_Salvador_-_panoramio_%2852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:San Fernando Mission, Convento South Portico, 2013 - panoramio.jpg",
+      "description": "San Fernando Mission, Convento South Portico, 2013",
+      "categories": [
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2013-05-15",
+        "Mission San Fernando Rey de España Convento",
+        "Barred windows in California"
+      ],
+      "auteur": "Chris English",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:San_Fernando_Mission,_Convento_South_Portico,_2013_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/San_Fernando_Mission%2C_Convento_South_Portico%2C_2013_-_panoramio.jpg/1280px-San_Fernando_Mission%2C_Convento_South_Portico%2C_2013_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3240,
+      "hauteur": 4320
+    }
+  ]
+}

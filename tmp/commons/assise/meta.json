@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "assise",
+    "terme": "l'assise",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Rang horizontal de briques, de blocs ou de pierres d'un mur.",
+    "priorite": 2,
+    "requetes": [
+      "masonry course row of blocks",
+      "assise maçonnerie",
+      "brick course wall"
+    ],
+    "incompatibles": [
+      "maconnerie",
+      "joint-de-maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry",
+      "Category:Brick walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ba-nikolsky-2001-cathedral-corner.jpg",
+      "description": "Brickwork of Nikolsky cathedral of Nikolsky monastery in Pereslavl.",
+      "categories": [
+        "Masonry",
+        "Self-published work",
+        "Bricks in Russia",
+        "Red bricks",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Bakhtiyor Abdullaev",
+        "Construction of Nikolsky cathedral (Pereslavl-Zalessky)"
+      ],
+      "auteur": "Бахтиёр Абдуллаев",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ba-nikolsky-2001-cathedral-corner.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ba-nikolsky-2001-cathedral-corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1074,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Abstract Pattern.jpg",
+      "description": "Pattern in some random house",
+      "categories": [
+        "Windows",
+        "Brick walls",
+        "Self-published work",
+        "Uploaded via Campaign:wle-de-mv",
+        "Ineligible submissions for Wiki Loves Earth 2018 in Germany"
+      ],
+      "auteur": "arghyabiswas70",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abstract_Pattern.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Abstract_Pattern.jpg/1280px-Abstract_Pattern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8852,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Brice Scientific Hall (13959904589).jpg",
+      "description": "Persistent URL: digital.lib.miamioh.edu/cdm/ref/collection/postcards/id/6297 Subject (TGM): Universities colleges; Buildings; Brickwork; Ohio--Oxford",
+      "categories": [
+        "Masonry",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Files from Miami University Libraries - Digital Collections",
+        "Bowden Postcard Collection",
+        "Postcards of Oxford, Ohio"
+      ],
+      "auteur": "Miami U. Libraries - Digital Collections",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brice_Scientific_Hall_(13959904589).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Brice_Scientific_Hall_%2813959904589%29.jpg/1280px-Brice_Scientific_Hall_%2813959904589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3202,
+      "hauteur": 2125
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:21 weeks (10433573134).jpg",
+      "description": "REALLY DEFINITELY feeling kicks now! I can feel Niblet kicking my hand when I put my hand on my belly. It's amazing. This week she kicked so hard she startled me! And when I realized what had happened, I burst out laughing. All day, every day, I walk around feeling like I'm carrying a miracle around. Or magic. I guess it feels more like magic. :-) The urge to nest is kicking in full gear, but the Baby Bar is in a month, so I've got to put the urge on ice until that's done. Niblet now weighs about three-quarters of a pound and is approximately 10 1⁄2 inches long. She's begun her main project fo",
+      "categories": [
+        "Brick walls",
+        "Pregnant women",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Pretty Poo Eater from Los Angeles, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:21_weeks_(10433573134).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/21_weeks_%2810433573134%29.jpg/1280px-21_weeks_%2810433573134%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bricks-and-mortar.jpg",
+      "description": "Yellow bricks (made of blue clay ) in a construction using mortar .",
+      "categories": [
+        "Masonry",
+        "Self-published work"
+      ],
+      "auteur": "Sten Porse",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bricks-and-mortar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Bricks-and-mortar.jpg/1280px-Bricks-and-mortar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1360,
+      "hauteur": 882
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ansamblu Biertan 05.jpg",
+      "description": "Ansamblul bisericii evanghelice",
+      "categories": [
+        "Brick walls",
+        "Images from Wiki Loves Monuments 2019 in Romania",
+        "Images from Wiki Loves Monuments 2019",
+        "Self-published work",
+        "Church towers in Romania",
+        "Cultural heritage monuments in Romania with known IDs",
+        "Buttresses in Romania",
+        "Uploaded via Campaign:wlm-ro",
+        "Lutheran church in Biertan, Sibiu",
+        "Octagonal church towers",
+        "Brick blind arches"
+      ],
+      "auteur": "Nicubunu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ansamblu_Biertan_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Ansamblu_Biertan_05.jpg/1280px-Ansamblu_Biertan_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7232,
+      "hauteur": 3072
+    }
+  ]
+}

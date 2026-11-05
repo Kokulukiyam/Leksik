@@ -1,0 +1,140 @@
+{
+  "terme": {
+    "id": "reprise-de-betonnage",
+    "terme": "la reprise de bétonnage",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Ligne visible où un béton nouveau a été coulé contre un béton déjà durci.",
+    "priorite": 2,
+    "requetes": [
+      "construction joint concrete",
+      "reprise de bétonnage",
+      "cold joint concrete wall"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete",
+      "Category:Concrete construction"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:2023-08-04 10 57 06 One-month old cement sidewalk next to 63 year old cement sidewalk along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "One-month old cement sidewalk next to 63 year old cement sidewalk along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Concrete",
+        "Self-published work",
+        "August 2023 in New Jersey",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2023-08-04",
+        "Sidewalks in Ewing Township, New Jersey",
+        "Lochatong Road (Ewing Township, New Jersey)",
+        "Famartin's 2023 photos",
+        "Famartin's August 2023 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-08-04_10_57_06_One-month_old_cement_sidewalk_next_to_63_year_old_cement_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2023-08-04_10_57_06_One-month_old_cement_sidewalk_next_to_63_year_old_cement_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Residential reconstruction with zero greenery.jpg",
+      "description": "Residential reconstruction with zero greenery",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "House construction in Japan",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Yakumo, Meguro",
+        "Tokyo photographs taken on 2024-11-04",
+        "Concrete construction",
+        "Construction sites in Tokyo in the 2020s",
+        "Single Pipe Barricade"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Residential_reconstruction_with_zero_greenery.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Residential_reconstruction_with_zero_greenery.jpg/1280px-Residential_reconstruction_with_zero_greenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:10-СТРУКТУРА-БЕТОНА-2.jpg",
+      "description": "It's concrete! In the photo the structure of high-strength concrete SISTROM. Cement stone white around the particles of sand. The strength of cement stone up to 150 MPa. The strength of the contact cement with sand is higher than the strength of the sand grains, so the grain of sand is cut by the destruction of the concrete. Even if the sand particles are granite or quartz. It is known that the sand contains large amounts of minerals. Thus we can study the structure of minerals or ancient shellfish (that are seen in the photo) using cement SISTROM.",
+      "categories": [
+        "Concrete",
+        "Self-published work",
+        "Images from European Science Photo Competition 2015 in Russia",
+        "Microscopy images from European Science Photo Competition 2015",
+        "Uploaded via Campaign:espc-ru"
+      ],
+      "auteur": "Ivan SISTROM",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10-%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A2%D0%A3%D0%A0%D0%90-%D0%91%D0%95%D0%A2%D0%9E%D0%9D%D0%90-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/10-%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A2%D0%A3%D0%A0%D0%90-%D0%91%D0%95%D0%A2%D0%9E%D0%9D%D0%90-2.jpg/1280px-10-%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A2%D0%A3%D0%A0%D0%90-%D0%91%D0%95%D0%A2%D0%9E%D0%9D%D0%90-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2653,
+      "hauteur": 2231
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Het vlechtwerk is gereed voor het storten van beton F57663.jpeg",
+      "description": "Het vlechtwerk is gereed voor het storten van beton",
+      "categories": [
+        "Uploaded with pattypan",
+        "Concrete in the Netherlands",
+        "Images from Fotopersbureau Gelderland",
+        "Concrete construction"
+      ],
+      "auteur": "J.F.M. Trum, Fotopersbureau Gelderland",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Het_vlechtwerk_is_gereed_voor_het_storten_van_beton_F57663.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Het_vlechtwerk_is_gereed_voor_het_storten_van_beton_F57663.jpeg/1280px-Het_vlechtwerk_is_gereed_voor_het_storten_van_beton_F57663.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2607,
+      "hauteur": 1901
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ablution block in a container (7208537720).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Sanitation",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208537720).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ablution_block_in_a_container_%287208537720%29.jpg/1280px-Ablution_block_in_a_container_%287208537720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Post tensioned concrete slab on cellular beams.jpg",
+      "description": "Mario Kleff's Wandeegroup (Thailand) Company Limited is about to complete the first residential complex with a steel frame construction and a post-tensioned concrete slab with a span of 24.00 x 27.00 meters.",
+      "categories": [
+        "Self-published work",
+        "Construction in Thailand",
+        "Files with coordinates missing SDC location of creation",
+        "Long-span techniques in residential architecture",
+        "Buildings in Pattaya",
+        "Architectural designs by Mario Kleff",
+        "Concrete construction"
+      ],
+      "auteur": "Meow2021",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Post_tensioned_concrete_slab_on_cellular_beams.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Post_tensioned_concrete_slab_on_cellular_beams.jpg/1280px-Post_tensioned_concrete_slab_on_cellular_beams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

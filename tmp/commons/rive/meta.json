@@ -1,0 +1,160 @@
+{
+  "terme": {
+    "id": "rive",
+    "terme": "la rive",
+    "categorie": "Toitures",
+    "definition": "Bord latéral incliné d'un versant, à la jonction avec le pignon.",
+    "priorite": 2,
+    "requetes": [
+      "roof verge gable edge",
+      "rive de toiture",
+      "verge tiles gable"
+    ],
+    "incompatibles": [
+      "pignon"
+    ],
+    "categoriesCommons": [
+      "Category:Barge boards",
+      "Category:Gable roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:61 Bogard.jpg",
+      "description": "61 Bogard Street, Charleston, South Carolina",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Wooden houses in Charleston, South Carolina",
+        "Gable roofs in Charleston, South Carolina",
+        "2-story porches",
+        "Two-story houses in the United States",
+        "Cannonborough-Elliotborough",
+        "Bogard Street, Charleston, South Carolina",
+        "Barge boards"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:61_Bogard.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/61_Bogard.jpg/1280px-61_Bogard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2222,
+      "hauteur": 2301
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Binnendoor 4 Blaricum.jpg",
+      "description": "Ceci est une photographie du rijksmonument numéro 9587",
+      "categories": [
+        "Gable roofs",
+        "Self-published work",
+        "Rijksmonumenten with known IDs",
+        "Uploaded via Campaign:wlm-nl",
+        "Rijksmonumenten missing SDC location of creation",
+        "Rijksmonumenten missing SDC depicts",
+        "Files with coordinates missing SDC location of creation (52° N, 5° E)"
+      ],
+      "auteur": "Peter adrichem",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Binnendoor_4_Blaricum.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Binnendoor_4_Blaricum.jpg/1280px-Binnendoor_4_Blaricum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Langton's barge boards.jpg",
+      "description": "This object is indexed in the National Inventory of Architectural Heritage of Ireland under the registration number 12000169 Geographic information system of the National Monuments Service: Historic Environment Viewer – Main record .",
+      "categories": [
+        "Cultural heritage monuments in Ireland",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-ie",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in Ireland",
+        "Objects of County Kilkenny recorded in the National Inventory of Architecture of Ireland with known IDs",
+        "Barge boards",
+        "70 John Street, Kilkenny"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Langton%27s_barge_boards.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Langton%27s_barge_boards.jpg/1280px-Langton%27s_barge_boards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2484,
+      "hauteur": 1923
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Capilla Nuestra Señora del Perpetuo Socorro (2).JPG",
+      "description": "Capilla Nuestra Señora del Perpetuo Socorro en Cariló, partido de Pinamar, provincia de Buenos Aires, Argentina. Diseñada por Alberto Vivot e inaugurada en 1985.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot SX500 IS",
+        "Churches built in 1985",
+        "Gable roofs",
+        "License migration redundant",
+        "Self-published work",
+        "September 2014 Argentina photographs",
+        "Built in Argentina in 1985",
+        "Brick churches in Argentina",
+        "Photographs taken on 2014-09-27",
+        "Files with coordinates missing SDC location of creation",
+        "Churches in Argentina photographed in 2014",
+        "Churches in the Roman Catholic Diocese of Mar del Plata",
+        "Our Lady of Perpetual Help chapels",
+        "Buildings in Cariló",
+        "Roman Catholic chapels in Buenos Aires Province",
+        "2014 in Pinamar Partido"
+      ],
+      "auteur": "Dario Alpern",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capilla_Nuestra_Se%C3%B1ora_del_Perpetuo_Socorro_(2).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Capilla_Nuestra_Se%C3%B1ora_del_Perpetuo_Socorro_%282%29.JPG/1280px-Capilla_Nuestra_Se%C3%B1ora_del_Perpetuo_Socorro_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:77 Nassau.JPG",
+      "description": "77 Nassau Street, Charleston, South Carolina",
+      "categories": [
+        "Taken with Nikon Coolpix S3300",
+        "Charleston single house",
+        "Self-published work",
+        "Wooden houses in Charleston, South Carolina",
+        "Gable roofs in Charleston, South Carolina",
+        "Nassau Street, Charleston, South Carolina",
+        "Eastside",
+        "2-story porches",
+        "Two-story houses in the United States",
+        "Barge boards"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:77_Nassau.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/77_Nassau.JPG/1280px-77_Nassau.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Charleston, South Carolina March 2013 - 212.jpg",
+      "description": "Charleston, South Carolina",
+      "categories": [
+        "Gable roofs",
+        "Flickr images reviewed by FlickreviewR 2",
+        "March 2013 in Charleston, South Carolina",
+        "Wooden houses in Charleston, South Carolina",
+        "2-story porches"
+      ],
+      "auteur": "Dougtone",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Charleston,_South_Carolina_March_2013_-_212.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Charleston%2C_South_Carolina_March_2013_-_212.jpg/1280px-Charleston%2C_South_Carolina_March_2013_-_212.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    }
+  ]
+}

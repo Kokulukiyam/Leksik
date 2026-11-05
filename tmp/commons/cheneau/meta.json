@@ -1,0 +1,153 @@
+{
+  "terme": {
+    "id": "cheneau",
+    "terme": "le chéneau",
+    "categorie": "Toitures",
+    "definition": "Canal encaissé en pied de versant ou entre deux toits, qui recueille l'eau de pluie, intégré à la construction.",
+    "priorite": 2,
+    "requetes": [
+      "box gutter roof",
+      "chéneau toiture",
+      "valley gutter between roofs"
+    ],
+    "incompatibles": [
+      "gouttiere"
+    ],
+    "categoriesCommons": [
+      "Category:Box gutters",
+      "Category:Rain gutters",
+      "Category:Gutters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:HK Shau Kei Wan Hong Kong Art School view 譚公廟 Tam Kung Temple 02 Chinese roof April-2012.JPG",
+      "description": "Tam Kung Temple, Shau Kei Wan, Hong Kong",
+      "categories": [
+        "Taken with Ricoh R10",
+        "Tam Kung Temple, Shau Kei Wan",
+        "Box gutters",
+        "Self-published work",
+        "Chinese temple roofs in Hong Kong",
+        "April 2012 in Eastern District, Hong Kong",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Hong Kong photographs taken on 2012-04-18",
+        "Green roofs (color) in China",
+        "Ridge caps",
+        "Incense coils in Hong Kong",
+        "2012 in Tam Kung Temple, Shau Kei Wan"
+      ],
+      "auteur": "HimdFuyeut",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_Shau_Kei_Wan_Hong_Kong_Art_School_view_%E8%AD%9A%E5%85%AC%E5%BB%9F_Tam_Kung_Temple_02_Chinese_roof_April-2012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/HK_Shau_Kei_Wan_Hong_Kong_Art_School_view_%E8%AD%9A%E5%85%AC%E5%BB%9F_Tam_Kung_Temple_02_Chinese_roof_April-2012.JPG/1280px-HK_Shau_Kei_Wan_Hong_Kong_Art_School_view_%E8%AD%9A%E5%85%AC%E5%BB%9F_Tam_Kung_Temple_02_Chinese_roof_April-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bucarest, san nicola, 03.JPG",
+      "description": "Entry portal of St. Nicholas Russian Church ( Biserica Sfântul Nicolae ) — in central Bucharest , Romania. Built in 1909 by the Tzar as a Russian Orthodox church. Later resanctified as a Romanian Orthodox church. Designed in the Russian Revival style by Imperial Russian architect Mikhail Preobrazhensky in 1909.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot G12",
+        "Rain gutters",
+        "License migration redundant",
+        "Saint Nicholas Church - Ghica (Bucharest)",
+        "Self-published work",
+        "Arches in Romania",
+        "Photographs by User:Sailko",
+        "Church portals in Romania",
+        "Cultural heritage monuments in Romania with known IDs",
+        "Brown doors in Bucharest",
+        "Golden awnings in Bucharest",
+        "Wooden doors in Bucharest",
+        "Church doors in Bucharest",
+        "Open doors in Bucharest"
+      ],
+      "auteur": "sailko",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bucarest,_san_nicola,_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bucarest%2C_san_nicola%2C_03.JPG/1280px-Bucarest%2C_san_nicola%2C_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Iyke Medical and Superstore 01.jpg",
+      "description": "a pharmacy in Tudun Wada Narayi Kaduna",
+      "categories": [
+        "CC-Zero",
+        "Burglaries",
+        "Satellite dishes",
+        "Self-published work",
+        "Gutters",
+        "Tyap Wikimedians Celebrate Wikidata @13 with Training and Data-a-thon"
+      ],
+      "auteur": "Iciro Iciro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iyke_Medical_and_Superstore_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Iyke_Medical_and_Superstore_01.jpg/1280px-Iyke_Medical_and_Superstore_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Gargoyle on the roof 2 - geograph.org.uk - 1670070.jpg",
+      "description": "Gargoyle on the roof 2 View of the one of the gargoyles on the roof section of St Agatha's.",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Box gutters",
+        "Leader heads",
+        "Information field template with formatting",
+        "Images by Bill Nicholls",
+        "United Kingdom photographs taken on 2010-01-01"
+      ],
+      "auteur": "Bill Nicholls",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gargoyle_on_the_roof_2_-_geograph.org.uk_-_1670070.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Gargoyle_on_the_roof_2_-_geograph.org.uk_-_1670070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Chernel Straße 6, Regenrinne, 2021 Kőszeg.jpg",
+      "description": "2000-es években Polgármesteri hivatal irodái és OMVH (Országos Műemlékvédelmi Hivatal) vendégház. ún. Szegedy-ház, középkori várfalra épült kora barokk, 17. sz. Átalakítva a 18-19. sz.-ban. Homlokzatán késő reneszánsz kváderes díszítés. azonosító: 9029, törzsszám: 7820 - Vas megye , Kőszeg , Chernel utca 6., helyrajzi szám: 1841 Ce document montre le monument en Hongrie dont l’identifiant est 9029 Position de l'objet 47° 23′ 20,4″ N, 16° 32′ 21,01″ E Voir cet endroit et d’autres images sur : OpenStreetMap 47.389000; 16.539169",
+      "categories": [
+        "Rain gutters",
+        "Self-published work",
+        "Waste management in Hungary",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "July 2021 Hungary photographs",
+        "Files with coordinates missing SDC location of creation",
+        "Windows in Kőszeg",
+        "2021 in Kőszeg",
+        "Chernel utca 6 (Kőszeg)"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chernel_Stra%C3%9Fe_6,_Regenrinne,_2021_K%C5%91szeg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Chernel_Stra%C3%9Fe_6%2C_Regenrinne%2C_2021_K%C5%91szeg.jpg/1280px-Chernel_Stra%C3%9Fe_6%2C_Regenrinne%2C_2021_K%C5%91szeg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Miniature Canyon (109912639).jpeg",
+      "description": "500px provided description: Miniature Canyon [#water ,#macro ,#rock ,#orange ,#canyon ,#miniature]",
+      "categories": [
+        "Canyons",
+        "Gutters",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Viktor Rutberg",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Miniature_Canyon_(109912639).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Miniature_Canyon_%28109912639%29.jpeg/1280px-Miniature_Canyon_%28109912639%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 2048
+    }
+  ]
+}

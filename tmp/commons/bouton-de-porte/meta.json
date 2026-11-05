@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "bouton-de-porte",
+    "terme": "le bouton de porte",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Poignée ronde que l'on tourne ou que l'on tire pour manœuvrer une porte.",
+    "priorite": 2,
+    "requetes": [
+      "door knob",
+      "bouton de porte",
+      "doorknob"
+    ],
+    "incompatibles": [
+      "poignee-de-porte"
+    ],
+    "categoriesCommons": [
+      "Category:Doorknobs",
+      "Category:Door handles"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Door knob (AM 645455-2).jpg",
+      "description": "Wooden door knob, stained dark brown, with screw",
+      "categories": [
+        "Doorknobs",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Unknown date",
+        "Template Unknown (author)",
+        "Wooden door handles"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_knob_(AM_645455-2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Door_knob_%28AM_645455-2%29.jpg/1280px-Door_knob_%28AM_645455-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Applique à tête de lion, Pydna (Louvre, Ma 706).jpg",
+      "description": "Applique à tête de lion. Fin du IVe siècle avant J.-C. Tombe macédonienne, tumulus de Korinos, Pydna. Bronze. D.: 15,8 cm. Heurtoir de la porte Ma 706. Mission Heuzey et Daumet, 1863. Br 4387.",
+      "categories": [
+        "Louvre Museum - Room 341",
+        "Door handles",
+        "Musée du Louvre:Inventory/Ma",
+        "Musée du Louvre:Inventory/Br",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Carole Raddato",
+        "Necropolises of Pydna",
+        "Lion heads with rings",
+        "Oilons in art"
+      ],
+      "auteur": "Carole Raddato from FRANKFURT, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Applique_%C3%A0_t%C3%AAte_de_lion,_Pydna_(Louvre,_Ma_706).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Applique_%C3%A0_t%C3%AAte_de_lion%2C_Pydna_%28Louvre%2C_Ma_706%29.jpg/1280px-Applique_%C3%A0_t%C3%AAte_de_lion%2C_Pydna_%28Louvre%2C_Ma_706%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Door knob (AM 645541-1).jpg",
+      "description": "Round metal door knob, with two rings around middle",
+      "categories": [
+        "Doorknobs",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Unknown date",
+        "Template Unknown (author)"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_knob_(AM_645541-1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Door_knob_%28AM_645541-1%29.jpg/1280px-Door_knob_%28AM_645541-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A Frontier Christmas 2016 (30821485464).jpg",
+      "description": "Scenes from the 2016 A Frontier Christmas at Martin's Station at Wilderness Road State Park.",
+      "categories": [
+        "Door handles",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Doors in Virginia",
+        "Christmas lights in the United States",
+        "Photographs by Virginia State Parks",
+        "Wooden doors in the United States",
+        "Exterior wall lanterns in the United States",
+        "Frontier Christmas 2016 at Martin's Station"
+      ],
+      "auteur": "vastateparksstaff",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Frontier_Christmas_2016_(30821485464).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/A_Frontier_Christmas_2016_%2830821485464%29.jpg/1280px-A_Frontier_Christmas_2016_%2830821485464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Door knob (AM 645541-2).jpg",
+      "description": "Round metal door knob, with two rings around middle",
+      "categories": [
+        "Doorknobs",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Unknown date",
+        "Template Unknown (author)"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Door_knob_(AM_645541-2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Door_knob_%28AM_645541-2%29.jpg/1280px-Door_knob_%28AM_645541-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:A doorknob made of metal.jpg",
+      "description": "doorknob",
+      "categories": [
+        "CC-Zero",
+        "Door handles",
+        "Self-published work"
+      ],
+      "auteur": "Knites",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_doorknob_made_of_metal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/A_doorknob_made_of_metal.jpg/1280px-A_doorknob_made_of_metal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    }
+  ]
+}

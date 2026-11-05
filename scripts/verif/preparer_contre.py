@@ -59,7 +59,9 @@ def main(filtre, lot=None):
                 img = dessiner_cadre(img, r["x"], r["y"], r["largeur"], r["hauteur"])
             chemin = IMG / f"{t['id']}-{nn}.jpg"
             img.save(chemin, quality=88)
-            voisins = [x["terme"] for x in TERMES if x["categorie"] == t["categorie"] and x["id"] != t["id"]]
+            # Mauvaises réponses possibles : la catégorie, sans les termes incompatibles (jamais proposés avec lui).
+            inc = set(t.get("incompatibles", [])) | {x["id"] for x in TERMES if t["id"] in x.get("incompatibles", [])}
+            voisins = [x["terme"] for x in TERMES if x["categorie"] == t["categorie"] and x["id"] != t["id"] and x["id"] not in inc]
             lots.setdefault(t["categorie"], []).append(
                 {
                     "cle": f"{t['id']}/{nn}",

@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "cage-d-armature",
+    "terme": "la cage d'armature",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Assemblage préparé de barres longitudinales tenues par des cadres, destiné à un poteau, une poutre ou un pieu.",
+    "priorite": 2,
+    "requetes": [
+      "rebar cage",
+      "cage d'armature poteau",
+      "reinforcement cage column"
+    ],
+    "incompatibles": [
+      "ferraillage",
+      "cadre-d-armature"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar cages",
+      "Category:Rebar",
+      "Category:Reinforced concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Archäologische Zone Köln - Juli 2016-8310.jpg",
+      "description": "Archäologische Zone Köln - Juli 2016. Pfahlgründungen für den Neubau Foto: vorbereitete Bewehrungskörbe",
+      "categories": [
+        "Archäologische Zone Köln",
+        "Self-published work",
+        "Information field template with formatting",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation (50° N, 6° E)",
+        "Files by User:Raymond from de.wikipedia/Cologne",
+        "Rebar cages"
+      ],
+      "auteur": "Raimond Spekking",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arch%C3%A4ologische_Zone_K%C3%B6ln_-_Juli_2016-8310.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Arch%C3%A4ologische_Zone_K%C3%B6ln_-_Juli_2016-8310.jpg/1280px-Arch%C3%A4ologische_Zone_K%C3%B6ln_-_Juli_2016-8310.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Antica barra acciaio.jpg",
+      "description": "Vecchia barra d'acciaio utilizzata un tempo in travi in cemento armato",
+      "categories": [
+        "GFDL",
+        "Taken with HP PhotoSmart R707",
+        "Rebar",
+        "License migration completed"
+      ],
+      "auteur": "Mattia Campolese (me) utente:matsoftware",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antica_barra_acciaio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Antica_barra_acciaio.jpg/1280px-Antica_barra_acciaio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 23.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_23.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Aluminum Formwork.JPG",
+      "description": "Multi-store concrete construction in Mexico using aluminum concrete formwork.",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Olympus u1030SW / S-1030SW",
+        "License migration redundant",
+        "Self-published work",
+        "Aluminium industry in Mexico"
+      ],
+      "auteur": "WTF Formwork http://www.wallties.com",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminum_Formwork.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Aluminum_Formwork.JPG/1280px-Aluminum_Formwork.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2892,
+      "hauteur": 2580
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Kossuth Lajos tér, a metró építési területe, háttérben a Kossuth híd. Fortepan 91415.jpg",
+      "description": "Reinforced concrete decompression chamber's rebar cage/wrap under construction. These chambers usually used in Budapest subway construction. This one is located in Downtown, Kossuth square. At back the temporaraly Kossuth Bridge can be see.",
+      "categories": [
+        "Reinforced concrete",
+        "Kossuth Bridge, Budapest",
+        "Images from Fortepan",
+        "Decompression chambers",
+        "Images uploaded by Fæ",
+        "1951 in construction",
+        "Men at work in Hungary",
+        "1951 in Budapest",
+        "Rebar cages",
+        "Metro construction in Budapest",
+        "Historical images of Kossuth Lajos tér (Lipótváros)"
+      ],
+      "auteur": "FOTO:Fortepan — ID 91415 : Adományozó/Donor: UVATERV.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kossuth_Lajos_t%C3%A9r,_a_metr%C3%B3_%C3%A9p%C3%ADt%C3%A9si_ter%C3%BClete,_h%C3%A1tt%C3%A9rben_a_Kossuth_h%C3%ADd._Fortepan_91415.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Kossuth_Lajos_t%C3%A9r%2C_a_metr%C3%B3_%C3%A9p%C3%ADt%C3%A9si_ter%C3%BClete%2C_h%C3%A1tt%C3%A9rben_a_Kossuth_h%C3%ADd._Fortepan_91415.jpg/1280px-Kossuth_Lajos_t%C3%A9r%2C_a_metr%C3%B3_%C3%A9p%C3%ADt%C3%A9si_ter%C3%BClete%2C_h%C3%A1tt%C3%A9rben_a_Kossuth_h%C3%ADd._Fortepan_91415.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5313,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Base-foundation.jpg",
+      "description": "construcción en las afuera de Barquisimeto, Lara Venezuela Construction in the outside of Barquisimeto, Venezuela",
+      "categories": [
+        "Taken with Canon EOS 350D",
+        "Shallow foundations",
+        "Construction in Venezuela",
+        "Self-published work",
+        "PD-self",
+        "Rebar cages",
+        "Buildings in Barquisimeto"
+      ],
+      "auteur": "Rolf Obermaier",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Base-foundation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Base-foundation.jpg/1280px-Base-foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    }
+  ]
+}

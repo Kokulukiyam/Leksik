@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "beton-frais",
+    "terme": "le béton frais",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Béton qui vient d'être coulé, encore humide et malléable, de couleur gris foncé.",
+    "priorite": 2,
+    "requetes": [
+      "fresh concrete pouring",
+      "béton frais coulage",
+      "wet concrete slab"
+    ],
+    "incompatibles": [
+      "betonnage",
+      "beton"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:15 cm-Würfel zur Bestimmung der einaxialen Druckfestigkeit.jpg",
+      "description": "Preparation of a cube-shaped specimen for the measurement of uniaxial compressive strength.",
+      "categories": [
+        "Concrete",
+        "Self-published work"
+      ],
+      "auteur": "Hans-Joachim Engelhardt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:15_cm-W%C3%BCrfel_zur_Bestimmung_der_einaxialen_Druckfestigkeit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/15_cm-W%C3%BCrfel_zur_Bestimmung_der_einaxialen_Druckfestigkeit.jpg/1280px-15_cm-W%C3%BCrfel_zur_Bestimmung_der_einaxialen_Druckfestigkeit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2182,
+      "hauteur": 1443
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ablution block in a container (7208538316).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208538316).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Ablution_block_in_a_container_%287208538316%29.jpg/1280px-Ablution_block_in_a_container_%287208538316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ablution block in a container (7208537068).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Sanitation",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208537068).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ablution_block_in_a_container_%287208537068%29.jpg/1280px-Ablution_block_in_a_container_%287208537068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:02 Hormigón para muestras.jpg",
+      "description": "Fresh concrete in a wheelbarrow for quality control",
+      "categories": [
+        "Concrete",
+        "Self-published work",
+        "Concrete testing",
+        "Photographs taken on 2006-09-16",
+        "Wheelbarrows in unidentified countries"
+      ],
+      "auteur": "Tano4595",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:02_Hormig%C3%B3n_para_muestras.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/02_Hormig%C3%B3n_para_muestras.jpg/1280px-02_Hormig%C3%B3n_para_muestras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1932
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:2023-08-04 10 57 06 One-month old cement sidewalk next to 63 year old cement sidewalk along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "One-month old cement sidewalk next to 63 year old cement sidewalk along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Concrete",
+        "Self-published work",
+        "August 2023 in New Jersey",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2023-08-04",
+        "Sidewalks in Ewing Township, New Jersey",
+        "Lochatong Road (Ewing Township, New Jersey)",
+        "Famartin's 2023 photos",
+        "Famartin's August 2023 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-08-04_10_57_06_One-month_old_cement_sidewalk_next_to_63_year_old_cement_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2023-08-04_10_57_06_One-month_old_cement_sidewalk_next_to_63_year_old_cement_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2nd Floor Rod Biding in Progress.jpg",
+      "description": "11-4C 1435 CDA Cuttack, Orissa, India",
+      "categories": [
+        "Taken with Sony Ericsson W8",
+        "Concrete",
+        "Self-published work"
+      ],
+      "auteur": "BCSInfo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2nd_Floor_Rod_Biding_in_Progress.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2nd_Floor_Rod_Biding_in_Progress.jpg/1280px-2nd_Floor_Rod_Biding_in_Progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "terme": {
+    "id": "maison-coloniale",
+    "terme": "la maison coloniale",
+    "categorie": "Afrique de l'Ouest",
+    "definition": "Maison à étage enduite de couleurs, à balcon ou galerie de bois ou de fer et à persiennes, typique de Saint-Louis, de Gorée et du Plateau à Dakar.",
+    "priorite": 2,
+    "requetes": [
+      "Saint-Louis Senegal colonial architecture",
+      "Gorée island houses",
+      "maison coloniale Saint-Louis"
+    ],
+    "incompatibles": [
+      "maison-de-signare",
+      "balcon",
+      "persienne"
+    ],
+    "categoriesCommons": [
+      "Category:Colonial architecture in Senegal"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Un ancien Bâtiment à Pout Diak 01.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Colonial architecture in Senegal",
+        "Self-published work",
+        "Uploaded via Campaign:wlafrica",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check",
+        "Pout Diak"
+      ],
+      "auteur": "Kalamuh 045",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Un_ancien_B%C3%A2timent_%C3%A0_Pout_Diak_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Un_ancien_B%C3%A2timent_%C3%A0_Pout_Diak_01.jpg/1280px-Un_ancien_B%C3%A2timent_%C3%A0_Pout_Diak_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Dakar Palais du Gouvernement Général.jpg",
+      "description": "The French colonial government palace in Dakar. Is rebuilt as presidential palace.",
+      "categories": [
+        "Colonial architecture in Senegal",
+        "French West Africa",
+        "Military parades",
+        "Palais de la République (Sénégal)",
+        "PD Old",
+        "CC-PD-Mark",
+        "Dakar in the 1920s",
+        "Postcards of Dakar",
+        "Streets in Dakar",
+        "PD-old missing SDC copyright status",
+        "Postcards published by François-Edmond Fortier"
+      ],
+      "auteur": "François-Edmond Fortier (1862-1928)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dakar_Palais_du_Gouvernement_G%C3%A9n%C3%A9ral.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dakar_Palais_du_Gouvernement_G%C3%A9n%C3%A9ral.jpg/1280px-Dakar_Palais_du_Gouvernement_G%C3%A9n%C3%A9ral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3283,
+      "hauteur": 2074
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Un ancien Bâtiment à Pout Diak 06.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Colonial architecture in Senegal",
+        "Self-published work",
+        "Uploaded via Campaign:wlafrica",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check",
+        "Pout Diak"
+      ],
+      "auteur": "Kalamuh 045",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Un_ancien_B%C3%A2timent_%C3%A0_Pout_Diak_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Un_ancien_B%C3%A2timent_%C3%A0_Pout_Diak_06.jpg/1280px-Un_ancien_B%C3%A2timent_%C3%A0_Pout_Diak_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:ThièsColoniale.JPG",
+      "description": "Maison coloniale à Thiès (Sénégal)",
+      "categories": [
+        "Colonial architecture in Senegal",
+        "Taken with Nikon Coolpix S500",
+        "Thiès",
+        "Self-published work",
+        "PD-self",
+        "Houses in Senegal",
+        "January 2008 in Senegal"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Thi%C3%A8sColoniale.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Thi%C3%A8sColoniale.JPG/1280px-Thi%C3%A8sColoniale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Saint-Louis - 02 Maison coloniale.JPG",
+      "description": "Ce document a été réalisé avec l’appareil photo Canon PowerShot SX230 HS mis à disposition des photographes par Wikimédia France .",
+      "categories": [
+        "Colonial architecture in Senegal",
+        "Buildings in Saint-Louis (Senegal)",
+        "Self-published work",
+        "Media supported by Wikimedia France",
+        "Images supported by Wikimedia France - Canon PowerShot SX230 HS",
+        "January 2013 in Senegal",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "HaguardDuNord",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saint-Louis_-_02_Maison_coloniale.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Saint-Louis_-_02_Maison_coloniale.JPG/1280px-Saint-Louis_-_02_Maison_coloniale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Saint-Louis, Senegal.jpg",
+      "description": "Ụlọ dị na Senegal",
+      "categories": [
+        "Colonial architecture in Senegal",
+        "Taken with Nikon 1 J1",
+        "Buildings in Saint-Louis (Senegal)",
+        "French colonial architecture",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2014",
+        "Uploaded via Campaign:wlafrica"
+      ],
+      "auteur": "Alweaver2",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saint-Louis,_Senegal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Saint-Louis%2C_Senegal.jpg/1280px-Saint-Louis%2C_Senegal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1936,
+      "hauteur": 1296
+    }
+  ]
+}

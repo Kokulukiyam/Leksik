@@ -1,0 +1,53 @@
+{
+  "termId": "joint-de-dilatation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Hall de station au Japon avec portes vitrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joint invisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Joint de dilatation de rail en voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joint de rail, pas de bâtiment."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Joint de dilatation de pont posé sur le tablier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage d'art, pas bâtiment."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Joints de dilatation sur trottoir et chaussée d'un pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage d'art, pas bâtiment."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Soufflet de dilatation d'une installation, photo ancienne en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyauterie industrielle, texte visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Même soufflet, gros plan noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyauterie industrielle."
+    }
+  ]
+}

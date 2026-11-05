@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "coffrage-metallique",
+    "terme": "le coffrage métallique",
+    "categorie": "Chantier et outillage",
+    "definition": "Coffrage fait de panneaux d'acier réutilisables, assemblés par clavettes ou serrages.",
+    "priorite": 2,
+    "requetes": [
+      "steel formwork panels",
+      "coffrage métallique",
+      "metal formwork"
+    ],
+    "incompatibles": [
+      "coffrage",
+      "banche"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Contract No. 56, Administration Buildings, Main Dam, Belchertown, reinforcing steel and distribution cabinet 2, west wall of patrol building , Belchertown, Mass., Oct. 11, 1937 - DPLA - 5acf86bfbf70dbdd1b66c9465f44a15a.jpg",
+      "description": "Title supplied by cataloger. Print in album volume MDWSC, Contract 56, Administration Buildings, Volume 1, Chief Engineer set Typed on back: Showing reinforcing steel and plywood panels used for concrete forms on hangar, boathouse wall. Rear of distribution cabinet No. 2. Massachusetts Metropolitan District Commission; Massachusetts Department of Conservation and Recreation",
+      "categories": [
+        "PD US",
+        "Media contributed by the Digital Public Library of America",
+        "Media contributed by Massachusetts Archives",
+        "Media contributed by Digital Commonwealth",
+        "Files from the Massachusetts Water Resources Authority",
+        "Photographs by Stuart D. Pike"
+      ],
+      "auteur": "Massachusetts. Metropolitan District Water Supply Commission, Pike, Stuart D., 1910-1978",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Contract_No._56,_Administration_Buildings,_Main_Dam,_Belchertown,_reinforcing_steel_and_distribution_cabinet_2,_west_wall_of_patrol_building_,_Belchertown,_Mass.,_Oct._11,_1937_-_DPLA_-_5acf86bfbf70dbdd1b66c9465f44a15a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Contract_No._56%2C_Administration_Buildings%2C_Main_Dam%2C_Belchertown%2C_reinforcing_steel_and_distribution_cabinet_2%2C_west_wall_of_patrol_building_%2C_Belchertown%2C_Mass.%2C_Oct._11%2C_1937_-_DPLA_-_5acf86bfbf70dbdd1b66c9465f44a15a.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3903,
+      "hauteur": 2439
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Coffrage métallique Maxi-Form - Cotub coffrage jaune.jpg",
+      "description": "Banche de fabrication suisse - Cotub - résistance à 100kN/m2 constant pour un béton de type 4.1",
+      "categories": [
+        "Construction",
+        "Self-published work"
+      ],
+      "auteur": "Loïc",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coffrage_m%C3%A9tallique_Maxi-Form_-_Cotub_coffrage_jaune.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Coffrage_m%C3%A9tallique_Maxi-Form_-_Cotub_coffrage_jaune.jpg/1280px-Coffrage_m%C3%A9tallique_Maxi-Form_-_Cotub_coffrage_jaune.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2058,
+      "hauteur": 3060
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:FEMA - 22422 - Photograph by Tom Hurd taken on 07-24-2004 in Iowa.jpg",
+      "description": "Des Moines, Iowa, July 24, 2004 -- This tornado shelter for 400 campers at the Iowa State Fairgrounds outside Des Moines was completed in 2003. The 5,200 square-foot shelter is 100 feet long by 71 feet wide. When not in use as an emergency shelter, the large multi-purpose building is used by both the fairground staff and campers for restrooms, showers, a laundry area, offices, and meeting space. The shelter, funded through a $600,000 grant from FEMA's Hazard Mitigation Grant Program with the Iowa State Fair funding the remaining $150,000. In June 1998, a storm with winds in excess of 100 miles",
+      "categories": [
+        "Taken with Pentax Optio 33L",
+        "PD US FEMA",
+        "Tornado shelters",
+        "Images from FEMA, category Tornado",
+        "Images from FEMA, category Mitigation"
+      ],
+      "auteur": "Tom Hurd",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:FEMA_-_22422_-_Photograph_by_Tom_Hurd_taken_on_07-24-2004_in_Iowa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/FEMA_-_22422_-_Photograph_by_Tom_Hurd_taken_on_07-24-2004_in_Iowa.jpg/1280px-FEMA_-_22422_-_Photograph_by_Tom_Hurd_taken_on_07-24-2004_in_Iowa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Coffrages métalliques (103).jpg",
+      "description": "Coffrage d'un mur en béton",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "Construction in Ain",
+        "People at work in Ain",
+        "Images by Classiccardinal"
+      ],
+      "auteur": "Cocollector",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coffrages_m%C3%A9talliques_(103).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Coffrages_m%C3%A9talliques_%28103%29.jpg/1280px-Coffrages_m%C3%A9talliques_%28103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 2752
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Coffrages métalliques (104).jpg",
+      "description": "Coffrage d'un mur en béton",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "Construction in Ain",
+        "People at work in Ain",
+        "Images by Classiccardinal"
+      ],
+      "auteur": "Cocollector",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coffrages_m%C3%A9talliques_(104).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Coffrages_m%C3%A9talliques_%28104%29.jpg/1280px-Coffrages_m%C3%A9talliques_%28104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 2752
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:FEMA - 22421 - Photograph by Iowa Homeland Security and Emergency Management Division taken on 07-28-2004 in Iowa.jpg",
+      "description": "Des Moines, Iowa, July 24, 2004 -- This tornado shelter for 400 campers at the Iowa State Fairgrounds outside Des Moines was completed in 2003. The 5,200 square-foot shelter is 100 feet long by 71 feet wide. When not in use as an emergency shelter, the large multi-purpose building is used by both the fairground staff and campers for restrooms, showers, a laundry area, offices, and meeting space. The shelter, funded through a $600,000 grant from FEMA's Hazard Mitigation Grant Program with the Iowa State Fair funding the remaining $150,000. In June 1998, a storm with winds in excess of 100 miles",
+      "categories": [
+        "Taken with Pentax Optio 33L",
+        "PD US FEMA",
+        "Tornado shelters",
+        "Images from FEMA, category Tornado",
+        "Images from FEMA, category Mitigation"
+      ],
+      "auteur": "Iowa Homeland Security and Emergency Management Division",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:FEMA_-_22421_-_Photograph_by_Iowa_Homeland_Security_and_Emergency_Management_Division_taken_on_07-28-2004_in_Iowa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/FEMA_-_22421_-_Photograph_by_Iowa_Homeland_Security_and_Emergency_Management_Division_taken_on_07-28-2004_in_Iowa.jpg/1280px-FEMA_-_22421_-_Photograph_by_Iowa_Homeland_Security_and_Emergency_Management_Division_taken_on_07-28-2004_in_Iowa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

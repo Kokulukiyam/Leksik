@@ -1,0 +1,128 @@
+{
+  "terme": {
+    "id": "niveau-a-eau",
+    "terme": "le niveau à eau",
+    "categorie": "Chantier et outillage",
+    "definition": "Long tuyau transparent rempli d'eau dont les deux bouts donnent le même niveau, pour reporter un trait d'une pièce à l'autre.",
+    "priorite": 2,
+    "requetes": [
+      "water level tube",
+      "niveau à eau tuyau",
+      "hose level"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Brunnen Türmlischulhaus 08.jpg",
+      "description": "Brunnen Türmlischulhaus nach der Reparatur 2018, im Hintergrund links Gebäude Türmlischulhaus Neufeldstrasse 20.",
+      "categories": [
+        "Brunnen Türmlischulhaus (Schulhausbrunnen)",
+        "Self-published work"
+      ],
+      "auteur": "AnBuKu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brunnen_T%C3%BCrmlischulhaus_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Brunnen_T%C3%BCrmlischulhaus_08.jpg/1280px-Brunnen_T%C3%BCrmlischulhaus_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4300,
+      "hauteur": 2861
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Waterpass.jpg",
+      "description": "Spirit level. Level is an instrument designed to indicate whether a surface is horizontal (level) or vertical (plumb).",
+      "categories": [
+        "Spirit levels",
+        "Self-published work",
+        "Photographs by Dmitry Makeev",
+        "Images of Russia by Dmitry Makeev",
+        "Photographs by Dmitry Makeev taken in 2019"
+      ],
+      "auteur": "Dmitry Makeev",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Waterpass.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Waterpass.jpg/1280px-Waterpass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Brunnen Türmlischulhaus 12.jpg",
+      "description": "Brunnen Türmlischulhaus nach der Reparatur 2018.",
+      "categories": [
+        "Brunnen Türmlischulhaus (Schulhausbrunnen)",
+        "Self-published work"
+      ],
+      "auteur": "AnBuKu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brunnen_T%C3%BCrmlischulhaus_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Brunnen_T%C3%BCrmlischulhaus_12.jpg/1280px-Brunnen_T%C3%BCrmlischulhaus_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4200,
+      "hauteur": 2795
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Reflection in a soap bubble edit.jpg",
+      "description": "Réflections sur une bulle de savon .",
+      "categories": [
+        "GFDL",
+        "Iridescence",
+        "Soap bubbles",
+        "Reflections",
+        "License migration completed",
+        "Commons featured desktop backgrounds",
+        "Files with derivative versions",
+        "Featured pictures on Wikipedia, Croatian",
+        "Featured pictures on Wikipedia, Persian",
+        "Featured pictures on Wikipedia, Spanish",
+        "Featured pictures on Wikipedia, Turkish",
+        "Featured pictures on Wikipedia, Vietnamese",
+        "Featured pictures on Wikipedia, Arabic",
+        "Picture of week on the Persian Wikipedia",
+        "Pictures of the Year/2008 (finalist)"
+      ],
+      "auteur": "Brocken Inaglory . The image was edited by user:Alvesgaspar",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Reflection_in_a_soap_bubble_edit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Reflection_in_a_soap_bubble_edit.jpg/1280px-Reflection_in_a_soap_bubble_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2364,
+      "hauteur": 1744
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cube Spirit Level (6018813911).jpg",
+      "description": "Cube Spirit Level",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Spirit levels",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "United Kingdom photographs taken on 2011-08-07",
+        "Photographs by Tony Hisgett",
+        "Files with coordinates missing SDC location of creation (52° N, 2° W)"
+      ],
+      "auteur": "Tony Hisgett from Birmingham, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cube_Spirit_Level_(6018813911).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Cube_Spirit_Level_%286018813911%29.jpg/1280px-Cube_Spirit_Level_%286018813911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2333,
+      "hauteur": 1792
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Spirit level 20200524.jpg",
+      "description": "Spirit level on a compact camera",
+      "categories": [
+        "Spirit levels",
+        "Panasonic Lumix DMC-LX3",
+        "Self-published work",
+        "Japan photographs taken on 2020-05-23"
+      ],
+      "auteur": "Ka23 13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spirit_level_20200524.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Spirit_level_20200524.jpg/1280px-Spirit_level_20200524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 2592
+    }
+  ]
+}

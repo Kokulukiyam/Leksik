@@ -1,0 +1,139 @@
+{
+  "terme": {
+    "id": "grille-avaloir",
+    "terme": "la grille avaloir",
+    "categorie": "Extérieurs et voirie",
+    "definition": "Grille en fonte posée dans le caniveau ou la chaussée, au-dessus d'un avaloir, qui laisse passer l'eau.",
+    "priorite": 2,
+    "requetes": [
+      "storm drain grate",
+      "grille avaloir fonte",
+      "gully grate"
+    ],
+    "categoriesCommons": [
+      "Category:Storm drains"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:114 inch pipe installation.jpg",
+      "description": "114\" pipe installation. Pipe: 114\" aluminized type 2. Flow: 25 cubic meters/second. This is a storm drain in Guasave, Mexico.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 20D",
+        "Guasave Municipality",
+        "License migration redundant",
+        "Self-published work",
+        "Storm drains",
+        "Construction sites in Mexico",
+        "Pipelines under construction"
+      ],
+      "auteur": "Tomas Castelazo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:114_inch_pipe_installation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/114_inch_pipe_installation.jpg/1280px-114_inch_pipe_installation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3380,
+      "hauteur": 2100
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bro på tian (8941163584).jpg",
+      "description": "Bro på tian",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Sewers",
+        "Storm drains",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Fredrik Alpstedt"
+      ],
+      "auteur": "Fredrik Alpstedt",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bro_p%C3%A5_tian_(8941163584).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bro_p%C3%A5_tian_%288941163584%29.jpg/1280px-Bro_p%C3%A5_tian_%288941163584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1333
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:A puddle after rain on a damaged asphalt surface, a storm drain grate on.jpg",
+      "description": "Poland; A puddle after rain on a damaged asphalt surface, a storm drain grate on.",
+      "categories": [
+        "Asphalt",
+        "Puddles",
+        "Self-published work",
+        "Storm drains",
+        "Water reflections of clouds"
+      ],
+      "auteur": "Tarasna0922",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_puddle_after_rain_on_a_damaged_asphalt_surface,_a_storm_drain_grate_on.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/A_puddle_after_rain_on_a_damaged_asphalt_surface%2C_a_storm_drain_grate_on.jpg/1280px-A_puddle_after_rain_on_a_damaged_asphalt_surface%2C_a_storm_drain_grate_on.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2781,
+      "hauteur": 1567
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2006 05 26 - Elmhirst Pkwy at Cedar La 03.JPG",
+      "description": "Cedar Lane (& storm drain) at Elmhirst Parkway, Bethesda, MD, USA",
+      "categories": [
+        "Taken with Canon PowerShot A95",
+        "Self-published work",
+        "Storm drains",
+        "Streets in Montgomery County, Maryland",
+        "Files with coordinates missing SDC location of creation",
+        "2006 in Bethesda, Maryland",
+        "Bus stop signs in Maryland",
+        "Four lane roads in Maryland",
+        "Ride On bus stops in Montgomery County, Maryland"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2006_05_26_-_Elmhirst_Pkwy_at_Cedar_La_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2006_05_26_-_Elmhirst_Pkwy_at_Cedar_La_03.JPG/1280px-2006_05_26_-_Elmhirst_Pkwy_at_Cedar_La_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bocadelobo.JPG",
+      "description": "Boca de Lobo aberta em uma rua do bairro Carmo (Belo Horizonte), um risco para os carros e os pedestres.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-S700",
+        "License migration redundant",
+        "Self-published work",
+        "Storm drains",
+        "Drainage pits in Brazil"
+      ],
+      "auteur": "Andrevruas",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bocadelobo.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Bocadelobo.JPG/1280px-Bocadelobo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Buštěhrad (0089).jpg",
+      "description": "Buštěhrad. Okres Kladno, Česká republika.",
+      "categories": [
+        "Czech Republic photographs taken on 2017-05-18",
+        "Mediagrant",
+        "Mediagrant:Foto českých obcí",
+        "Pražská (Buštěhrad)",
+        "Uploaded with VicuñaUploader",
+        "Storm drains",
+        "Files by Juandev",
+        "Files by Juandev to be sorted",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bu%C5%A1t%C4%9Bhrad_(0089).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bu%C5%A1t%C4%9Bhrad_%280089%29.jpg/1280px-Bu%C5%A1t%C4%9Bhrad_%280089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4416,
+      "hauteur": 3312
+    }
+  ]
+}

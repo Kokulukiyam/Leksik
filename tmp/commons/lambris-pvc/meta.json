@@ -1,0 +1,45 @@
+{
+  "terme": {
+    "id": "lambris-pvc",
+    "terme": "le lambris PVC",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Lames de plastique emboîtées, souvent blanches, fixées en plafond ou en mur ; courant au Sénégal sous les toitures.",
+    "priorite": 1,
+    "requetes": [
+      "PVC ceiling panels",
+      "lambris PVC plafond",
+      "plastic ceiling planks"
+    ],
+    "incompatibles": [
+      "lambris",
+      "faux-plafond"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:BLW Royal Mail Morris LDO 360cf van.jpg",
+      "description": "Royal Mail Morris LDO 360cf van. Painted red with black wings and bumpers. Liveried 'ROYAL/MAIL' with crown and EIIR on both rear side panels. Slide opening driver and passengers doors and double outward opening rear doors. Inside rear has row of four bench-like seats on each side and semi-transparent ceiling. Separated from cab by sliding door with small grill. Single black upholstered PVC driver's seat and black upholstered PVC bench on passengers side. Roof level registration number plates at front and rear. Split windscreen with wipers fixed below. Round headlights and fog lights. Side mou",
+      "categories": [
+        "Morris LD",
+        "Front views of trucks",
+        "Number 228 on vehicles",
+        "1972 trucks",
+        "Britain Loves Wikipedia at The British Postal Museum & Archive",
+        "February 2010 photographs",
+        "Black and red trucks",
+        "1972 Morris vehicles",
+        "Photos by Mike Peel using a Canon EOS 400D",
+        "Royal Mail vans",
+        "Collections of the British Postal Museum & Archive",
+        "Red Morris trucks"
+      ],
+      "auteur": "Mike Peel",
+      "licence": "CC BY-SA 2.0 uk",
+      "lien": "https://commons.wikimedia.org/wiki/File:BLW_Royal_Mail_Morris_LDO_360cf_van.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/BLW_Royal_Mail_Morris_LDO_360cf_van.jpg/1280px-BLW_Royal_Mail_Morris_LDO_360cf_van.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
+    }
+  ]
+}

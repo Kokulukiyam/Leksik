@@ -1,0 +1,136 @@
+{
+  "terme": {
+    "id": "cannelure",
+    "terme": "la cannelure",
+    "categorie": "Ornement",
+    "definition": "Rainure verticale creusée en série sur le fût d'une colonne ou d'un pilastre.",
+    "priorite": 2,
+    "requetes": [
+      "fluted column",
+      "column fluting",
+      "cannelures colonne"
+    ],
+    "incompatibles": [
+      "colonne",
+      "pilastre"
+    ],
+    "categoriesCommons": [
+      "Category:Fluted columns",
+      "Category:Columns"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Chichén Itzá columnas 2025 22.jpg",
+      "description": "Chichén Itzá columnas 2025",
+      "categories": [
+        "CC-Zero",
+        "Chichén Itzá",
+        "Columns",
+        "Self-published work"
+      ],
+      "auteur": "Álvaro de la Paz Franco",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_columnas_2025_22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Chich%C3%A9n_Itz%C3%A1_columnas_2025_22.jpg/1280px-Chich%C3%A9n_Itz%C3%A1_columnas_2025_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Chichén Itzá columnas 2025 42.jpg",
+      "description": "Chichén Itzá columnas 2025",
+      "categories": [
+        "CC-Zero",
+        "Chichén Itzá",
+        "Columns",
+        "Self-published work"
+      ],
+      "auteur": "Álvaro de la Paz Franco",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_columnas_2025_42.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Chich%C3%A9n_Itz%C3%A1_columnas_2025_42.jpg/1280px-Chich%C3%A9n_Itz%C3%A1_columnas_2025_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Diyarbakır Behram Pasha Mosque 2926 in 2005.jpg",
+      "description": "I was surprised I did not have pictures of the interior from a 2005 visit, then found a restoration had been going on. I seemingly managed to get a glimpse, though.",
+      "categories": [
+        "Knot columns",
+        "Fluted columns",
+        "Behram Pasha Mosque",
+        "Columns in Turkey",
+        "Self-published work"
+      ],
+      "auteur": "Dosseman",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Diyarbak%C4%B1r_Behram_Pasha_Mosque_2926_in_2005.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Diyarbak%C4%B1r_Behram_Pasha_Mosque_2926_in_2005.jpg/1280px-Diyarbak%C4%B1r_Behram_Pasha_Mosque_2926_in_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3008
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:- panoramio (1890).jpg",
+      "description": "Rotunda columns",
+      "categories": [
+        "Columns",
+        "Rotundas",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Images from Panoramio with bad file names",
+        "Minar park, Arbil"
+      ],
+      "auteur": "Diyar Hussein (‫ديار…",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_(1890).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/-_panoramio_%281890%29.jpg/1280px--_panoramio_%281890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:MMDA-Photos - 2014-11-20 - Pine Column -5.jpg",
+      "description": "Fluted, Ionic column in the River House apartment building, New York City, designed by architect Michael Middleton Dwyer, part of an alteration completed in 2003.",
+      "categories": [
+        "Architecture of New York City",
+        "Architecture of the United States",
+        "Classical architecture",
+        "Fluted columns",
+        "Self-published work",
+        "Ionic columns",
+        "Photos by M.M.Dwyer-Architect"
+      ],
+      "auteur": "MMDA-Photos",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MMDA-Photos_-_2014-11-20_-_Pine_Column_-5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/MMDA-Photos_-_2014-11-20_-_Pine_Column_-5.jpg/1280px-MMDA-Photos_-_2014-11-20_-_Pine_Column_-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1908,
+      "hauteur": 2672
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Moana-Hotel-column-capital.JPG",
+      "description": "Capital of Ionic columns on front portico, Moana Hotel, Waikiki, Honolulu, Hawaii",
+      "categories": [
+        "Taken with Olympus FE-280 / X-820 / C-520",
+        "Moana Hotel",
+        "Fluted columns",
+        "Self-published work",
+        "PD-self",
+        "Columns in Hawaii",
+        "Ionic capitals in the United States"
+      ],
+      "auteur": "Joel Bradshaw",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moana-Hotel-column-capital.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Moana-Hotel-column-capital.JPG/1280px-Moana-Hotel-column-capital.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    }
+  ]
+}

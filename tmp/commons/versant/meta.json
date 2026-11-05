@@ -1,0 +1,131 @@
+{
+  "terme": {
+    "id": "versant",
+    "terme": "le versant",
+    "categorie": "Toitures",
+    "definition": "Chacune des surfaces planes inclinées qui forment un toit, aussi appelée pan.",
+    "priorite": 2,
+    "requetes": [
+      "roof slope pitched roof tiles",
+      "versant de toit",
+      "pan de toiture"
+    ],
+    "incompatibles": [
+      "toiture"
+    ],
+    "categoriesCommons": [
+      "Category:Roofs"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:(1)Ritz-98.jpg",
+      "description": "The Ritz, Randwick, Sydney",
+      "categories": [
+        "Lighting",
+        "Roofs",
+        "The Ritz Cinema",
+        "Self-published work",
+        "5 people"
+      ],
+      "auteur": "Sardaka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(1)Ritz-98.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%281%29Ritz-98.jpg/1280px-%281%29Ritz-98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2456,
+      "hauteur": 3680
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Flechten und Moos auf Acrylglas-Dachziegeln (Braas Frankfurter Pfanne) nach ca. 20 Jahren, Geleitstraße 4, 99423 Weimar 02.jpg",
+      "description": "Plasticolous lichen and moss on acrylic roof tiles (Braas Frankfurter Pfanne) approximately 20 years after installation, located on the fully sun-exposed western slope of a roof—otherwise covered with GDR-era concrete roof tiles—with a pitch of approximately 30°; Geleitstraße 4, Old Town, 99423 Weimar.",
+      "categories": [
+        "Self-published work",
+        "Lichens of Thuringia",
+        "Files with coordinates missing SDC location of creation (50° N, 11° E)",
+        "Unidentified moss on roofs",
+        "Lichens on plastic",
+        "Moss on plastic"
+      ],
+      "auteur": "Kai Kemmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flechten_und_Moos_auf_Acrylglas-Dachziegeln_(Braas_Frankfurter_Pfanne)_nach_ca._20_Jahren,_Geleitstra%C3%9Fe_4,_99423_Weimar_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Flechten_und_Moos_auf_Acrylglas-Dachziegeln_%28Braas_Frankfurter_Pfanne%29_nach_ca._20_Jahren%2C_Geleitstra%C3%9Fe_4%2C_99423_Weimar_02.jpg/1280px-Flechten_und_Moos_auf_Acrylglas-Dachziegeln_%28Braas_Frankfurter_Pfanne%29_nach_ca._20_Jahren%2C_Geleitstra%C3%9Fe_4%2C_99423_Weimar_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2860,
+      "hauteur": 3814
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Flechten und Moos auf Acrylglas-Dachziegeln (Braas Frankfurter Pfanne) nach ca. 20 Jahren, Geleitstraße 4, 99423 Weimar 01.jpg",
+      "description": "Plasticolous lichen and moss on acrylic roof tiles (Braas Frankfurter Pfanne) approximately 20 years after installation, located on the fully sun-exposed western slope of a roof—otherwise covered with GDR-era concrete roof tiles—with a pitch of approximately 30°; Geleitstraße 4, Old Town, 99423 Weimar.",
+      "categories": [
+        "Self-published work",
+        "Lichens of Thuringia",
+        "Files with coordinates missing SDC location of creation (50° N, 11° E)",
+        "Unidentified moss on roofs",
+        "Lichens on plastic",
+        "Moss on plastic"
+      ],
+      "auteur": "Kai Kemmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flechten_und_Moos_auf_Acrylglas-Dachziegeln_(Braas_Frankfurter_Pfanne)_nach_ca._20_Jahren,_Geleitstra%C3%9Fe_4,_99423_Weimar_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Flechten_und_Moos_auf_Acrylglas-Dachziegeln_%28Braas_Frankfurter_Pfanne%29_nach_ca._20_Jahren%2C_Geleitstra%C3%9Fe_4%2C_99423_Weimar_01.jpg/1280px-Flechten_und_Moos_auf_Acrylglas-Dachziegeln_%28Braas_Frankfurter_Pfanne%29_nach_ca._20_Jahren%2C_Geleitstra%C3%9Fe_4%2C_99423_Weimar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Flechten auf Acrylglas-Dachziegeln (Braas Frankfurter Pfanne) nach ca. 20 Jahren, Geleitstraße 4, 99423 Weimar 03.jpg",
+      "description": "Plasticolous lichen on acrylic roof tiles (Braas Frankfurter Pfanne) approximately 20 years after installation, located on the fully sun-exposed western slope of a roof—otherwise covered with GDR-era concrete roof tiles—with a pitch of approximately 30°; Geleitstraße 4, Old Town, 99423 Weimar.",
+      "categories": [
+        "Self-published work",
+        "Lichens of Thuringia",
+        "Files with coordinates missing SDC location of creation (50° N, 11° E)",
+        "Lichens on plastic"
+      ],
+      "auteur": "Kai Kemmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flechten_auf_Acrylglas-Dachziegeln_(Braas_Frankfurter_Pfanne)_nach_ca._20_Jahren,_Geleitstra%C3%9Fe_4,_99423_Weimar_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Flechten_auf_Acrylglas-Dachziegeln_%28Braas_Frankfurter_Pfanne%29_nach_ca._20_Jahren%2C_Geleitstra%C3%9Fe_4%2C_99423_Weimar_03.jpg/1280px-Flechten_auf_Acrylglas-Dachziegeln_%28Braas_Frankfurter_Pfanne%29_nach_ca._20_Jahren%2C_Geleitstra%C3%9Fe_4%2C_99423_Weimar_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Well House at Creevytenant, Ballynahinch.jpg",
+      "description": "The following text description is from https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=2165&js=false \"A one-storey/ single bay well house which contains valve to regulate flow of water in Mourne conduit, over which it is positioned. Orientated north - south in middle of field south of Brae Rd. Pitched natural slate roof with terracotta ridge tiles and raised chamfered concrete verges. Ogee cast-iron gutters. Walls of roughly squared random rubble Silurian masonry over a raised base course. Yellow brick trimming to roof verges, quoins (stepped), window/ door heads (of flat segmen",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "May 2021 in County Down"
+      ],
+      "auteur": "Mark83",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Well_House_at_Creevytenant,_Ballynahinch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Well_House_at_Creevytenant%2C_Ballynahinch.jpg/1280px-Well_House_at_Creevytenant%2C_Ballynahinch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3364,
+      "hauteur": 2579
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Middle East Wing, Old Buffalo State Hospital, Richardson Olmsted Complex, Forest, Buffalo, NY - 52595084677.jpg",
+      "description": "Built in 1870, this Richardsonian Romanesque-style former psychiatric hospital was designed by Henry Hobson Richardson to serve the population of the rapidly growing urban areas in Western New York with more advanced mental health treatment. Sitting among a large park-like campus designed by Frederick Law Olmsted and Calvert Vaux, the rusticated Medina red sandstone and brick structures of the hospital are laid out primarily according to the Kirkbride plan. The the largest commission by footprint and square footage designed by Richardson during his storied and significant career, being one of ",
+      "categories": [
+        "H.H. Richardson Complex",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "United States photographs taken on 2022-07-31",
+        "July 2022 in Buffalo, New York",
+        "Hospitals in the United States photographed in 2022"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Middle_East_Wing,_Old_Buffalo_State_Hospital,_Richardson_Olmsted_Complex,_Forest,_Buffalo,_NY_-_52595084677.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Middle_East_Wing%2C_Old_Buffalo_State_Hospital%2C_Richardson_Olmsted_Complex%2C_Forest%2C_Buffalo%2C_NY_-_52595084677.jpg/1280px-Middle_East_Wing%2C_Old_Buffalo_State_Hospital%2C_Richardson_Olmsted_Complex%2C_Forest%2C_Buffalo%2C_NY_-_52595084677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2777,
+      "hauteur": 3703
+    }
+  ]
+}

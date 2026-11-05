@@ -1,0 +1,133 @@
+{
+  "terme": {
+    "id": "tige-d-ancrage",
+    "terme": "la tige d'ancrage",
+    "categorie": "Structure",
+    "definition": "Tige filetée scellée dans le béton, qui dépasse pour fixer la platine d'un poteau métallique.",
+    "priorite": 2,
+    "requetes": [
+      "anchor bolts concrete",
+      "tiges d'ancrage",
+      "anchor rods foundation"
+    ],
+    "incompatibles": [
+      "platine"
+    ],
+    "categoriesCommons": [
+      "Category:Anchor bolts",
+      "Category:Bolts"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bolt seals.jpg",
+      "description": "bolt seal model name queenseal at https://www.americanseals.com/product/bolt-seal-model-queenseal-high-security/",
+      "categories": [
+        "Bolts",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Bolt seals"
+      ],
+      "auteur": "Americansealsinc",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bolt_seals.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bolt_seals.jpg/1280px-Bolt_seals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:I-Träger feuerverzinkt mit Hängeloch.jpg",
+      "description": "Hot-dip galvanized steel beam with hanging hole",
+      "categories": [
+        "Anchor bolts",
+        "Self-published work",
+        "I-beams",
+        "Steel-profile storage",
+        "Hot-dip galvanized objects"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:I-Tr%C3%A4ger_feuerverzinkt_mit_H%C3%A4ngeloch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/I-Tr%C3%A4ger_feuerverzinkt_mit_H%C3%A4ngeloch.jpg/1280px-I-Tr%C3%A4ger_feuerverzinkt_mit_H%C3%A4ngeloch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Assortment of bolts and screws and other parts.jpg",
+      "description": "Assortment of bolts and screws and other parts and washers etc...",
+      "categories": [
+        "Screws",
+        "Bolts",
+        "Self-published work",
+        "Wikiversity projects at Howard Community College - Rubberband gun"
+      ],
+      "auteur": "Aqazi1411",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Assortment_of_bolts_and_screws_and_other_parts.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Assortment_of_bolts_and_screws_and_other_parts.jpg/1280px-Assortment_of_bolts_and_screws_and_other_parts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Aneka Macam Mur dan Baut.jpg",
+      "description": "Baut (Bolt) merupakan suatu batang atau tabung yang membentuk alur heliks atau tangga spiral pada permukaannya dan mur (Nut) adalah pasangannya. Fungsi utama baut dan mur adalah menggabungkan beberapa komponen sehingga tergabung menjadi satu bagian yang memiliki sifat tidak permanen",
+      "categories": [
+        "Nuts (hardware)",
+        "Bolts",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Images from WikiKaleidoskop",
+        "Selected by WK21-09 committee phase 1",
+        "Uploaded via Campaign:wmid-wikikaleidoskop-2021"
+      ],
+      "auteur": "Herusutimbul",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aneka_Macam_Mur_dan_Baut.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Aneka_Macam_Mur_dan_Baut.jpg/1280px-Aneka_Macam_Mur_dan_Baut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3002,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Fischer Bolzenanker FBN II 12 80.jpg",
+      "description": "fischer Bolzenanker FBN II 12/80",
+      "categories": [
+        "CC-Zero",
+        "Anchor bolts",
+        "Self-published work"
+      ],
+      "auteur": "HobbyAstronaut",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fischer_Bolzenanker_FBN_II_12_80.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Fischer_Bolzenanker_FBN_II_12_80.jpg/1280px-Fischer_Bolzenanker_FBN_II_12_80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 807
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Piastra di ancoraggio a muro.jpg",
+      "description": "Anchor plate wall\", piastra di ancoraggio antica. Particolare in via Roma, centro storico albenganese",
+      "categories": [
+        "Anchor bolts",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Wall anchors in Liguria",
+        "Via Roma (Albenga)",
+        "Italy photographs taken on 2025-10-28",
+        "October 2025 in Liguria",
+        "Architectural elements in Albenga"
+      ],
+      "auteur": "Al*from*Lig",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Piastra_di_ancoraggio_a_muro.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Piastra_di_ancoraggio_a_muro.jpg/1280px-Piastra_di_ancoraggio_a_muro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3072
+    }
+  ]
+}

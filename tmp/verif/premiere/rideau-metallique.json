@@ -1,0 +1,53 @@
+{
+  "termId": "rideau-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre à volet roulant fermé dans une façade ornée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest",
+      "note": "Volet roulant de fenêtre, pas un rideau de devanture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade colorée rouge à fenêtres persiennées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Singapour",
+      "note": "Pas de rideau métallique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Caserne de pompiers avec portes de garage vitrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Auckland",
+      "note": "Portes sectionnelles vitrées."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade bleue avec volets en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ostrov, Russie",
+      "note": "Volets en bois."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade bleue avec porte et volets en tôle et bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ostrov, Russie",
+      "note": "Pas de rideau à lames."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux ouvertures à volets de bois à lames horizontales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Szeged",
+      "note": "Lames en bois, pas un rideau en acier."
+    }
+  ]
+}

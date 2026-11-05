@@ -1,0 +1,15 @@
+{
+  "terme": {
+    "id": "gaine-icta",
+    "terme": "la gaine ICTA",
+    "categorie": "Réseaux et équipements",
+    "definition": "Conduit annelé souple, gris ou orange, posé dans les murs et les dalles avant coulage pour y passer les fils électriques.",
+    "priorite": 1,
+    "requetes": [
+      "corrugated electrical conduit",
+      "gaine ICTA",
+      "flexible conduit in concrete slab"
+    ]
+  },
+  "candidats": []
+}

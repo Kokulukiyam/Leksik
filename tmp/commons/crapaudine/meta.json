@@ -1,0 +1,57 @@
+{
+  "terme": {
+    "id": "crapaudine",
+    "terme": "la crapaudine",
+    "categorie": "Toitures",
+    "definition": "Grille bombée posée sur l'orifice d'évacuation d'une terrasse ou d'une gouttière pour arrêter les feuilles.",
+    "priorite": 2,
+    "requetes": [
+      "roof drain dome strainer",
+      "crapaudine terrasse",
+      "flat roof outlet grate"
+    ],
+    "incompatibles": [
+      "toiture-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Roof drainage"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Greenfield High School (Wisconsin) roof 2012.jpg",
+      "description": "Roof drains at Greenfield (WI) High School. September 2012.",
+      "categories": [
+        "September 2012 in Wisconsin",
+        "Roof drainage",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Greenfield High School (Wisconsin)",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Aaron Volkening",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Greenfield_High_School_(Wisconsin)_roof_2012.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Greenfield_High_School_%28Wisconsin%29_roof_2012.jpg/1280px-Greenfield_High_School_%28Wisconsin%29_roof_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1996,
+      "hauteur": 1332
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Face (712295170).jpg",
+      "description": "Transitional corner detail handles two issues is the base of valley where a tremendous volume of water will be flashing off and is a visual break between the wall shingles to the right (which cover a small portion of the lower \"skirt roof \") and the thicker Cedar shingles of the roof system to the left.",
+      "categories": [
+        "Shingles",
+        "Copper roofs",
+        "Roof drainage",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Ctd 2005",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Face_(712295170).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Face_%28712295170%29.jpg/1280px-Face_%28712295170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    }
+  ]
+}

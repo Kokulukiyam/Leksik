@@ -1,0 +1,29 @@
+{
+  "termId": "longrine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux ouvriers ligaturent une cage d'armature.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures, pas de longrine identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Schéma de fondations (radier, pieux) avec annotations.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin/schéma, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrier cintrant une barre d'acier crénelée sur un établi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de longrine."
+    }
+  ]
+}

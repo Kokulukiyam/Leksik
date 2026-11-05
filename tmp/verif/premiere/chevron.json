@@ -1,0 +1,53 @@
+{
+  "termId": "chevron",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Trois pièces de bois blanchies, verticales, au-dessus d'un mur de brique et d'une surface bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sens et position illisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Voûte en bois peinte et dorée d'une église, nervures rayonnantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente décorée en voûte, pas des chevrons."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Charpente de pont couvert vue d'en dessous, floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, mélange de pièces."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poteaux de bois dressés contre un mur de planches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas des chevrons."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Charpente de pont couvert avec pièces inclinées et liteaux, contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chevrons confondables avec liteaux ou ferme, image peu nette."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cabane en rondins avec bouts de chevrons ronds en débord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments trop petits."
+    }
+  ]
+}

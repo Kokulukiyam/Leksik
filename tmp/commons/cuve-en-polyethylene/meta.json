@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "cuve-en-polyethylene",
+    "terme": "la cuve en polyéthylène",
+    "categorie": "Réseaux et équipements",
+    "definition": "Réservoir d'eau en plastique moulé, souvent noir, bleu ou blanc, posé au sol ou sur une terrasse pour stocker l'eau.",
+    "priorite": 1,
+    "requetes": [
+      "plastic water tank rooftop",
+      "polyethylene water storage tank",
+      "citerne eau plastique"
+    ],
+    "categoriesCommons": [
+      "Category:Water tanks"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Mott's Sectional Cast Iron Water Tanks (NYPL b15260162-487547).jpg",
+      "description": "Mott's Sectional Cast Iron Water Tanks.",
+      "categories": [
+        "Water tanks",
+        "Images uploaded by Fæ",
+        "PD-scan (PD-US-expired)",
+        "PD US expired",
+        "Images from the New York Public Library",
+        "Media needing category review as of 2 November 2016",
+        "NYPL Science, Industry and Business Library: General Collection",
+        "PD-US missing SDC copyright status",
+        "Catalogue G Illustrating the Plumbing and Sanitary Department of the J.L. Mott Iron Works"
+      ],
+      "auteur": "Scan by NYPL",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mott%27s_Sectional_Cast_Iron_Water_Tanks_(NYPL_b15260162-487547).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Mott%27s_Sectional_Cast_Iron_Water_Tanks_%28NYPL_b15260162-487547%29.jpg/1280px-Mott%27s_Sectional_Cast_Iron_Water_Tanks_%28NYPL_b15260162-487547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3808,
+      "hauteur": 4208
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:AJM 006 Vivero Alamar.JPG",
+      "description": "Water tank at the Organopónico Vivero Alamar in Havana, party financed by the European Union and the German Welthungerhilfe.",
+      "categories": [
+        "Taken with Fujifilm FinePix F40fd",
+        "Welthungerhilfe",
+        "Water tanks",
+        "Supported by Wikimedia Österreich",
+        "Items with VRTS permission confirmed",
+        "Vivero Alamar"
+      ],
+      "auteur": "Arnoud Joris Maaswinkel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AJM_006_Vivero_Alamar.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/AJM_006_Vivero_Alamar.JPG/1280px-AJM_006_Vivero_Alamar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3296,
+      "hauteur": 2472
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:-55wiki.jpg",
+      "description": "Water tank in apartment",
+      "categories": [
+        "Water tanks",
+        "Self-published work"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-55wiki.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/-55wiki.jpg/1280px--55wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6645,
+      "hauteur": 8384
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Aldi, Cosne, concrete pump (4).jpg",
+      "description": "Pompe à béton Schwing, utilisée pour la construction (au même endroit) d'un supermarché Aldi plus vaste. Cosne-Cours-sur-Loire, Nièvre, France.",
+      "categories": [
+        "Concrete pumps",
+        "Schwing Stetter (Memmingen)",
+        "Water tanks",
+        "Self-published work",
+        "Pictures by Cjp24",
+        "ALDI supermarket in Cosne-Cours-sur-Loire (construction)"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aldi,_Cosne,_concrete_pump_(4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Aldi%2C_Cosne%2C_concrete_pump_%284%29.jpg/1280px-Aldi%2C_Cosne%2C_concrete_pump_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Beit Eshel water tank.jpg",
+      "description": "שיחזור מיכל המים של בית אשל",
+      "categories": [
+        "Water towers in Israel",
+        "Water tanks",
+        "Beit Eshel",
+        "Self-published work"
+      ],
+      "auteur": "PMATAS",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beit_Eshel_water_tank.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Beit_Eshel_water_tank.jpg/1280px-Beit_Eshel_water_tank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Aldi, Cosne, concrete pump (3).jpg",
+      "description": "Pompe à béton Schwing, utilisée pour la construction (au même endroit) d'un supermarché Aldi plus vaste. Cosne-Cours-sur-Loire, Nièvre, France.",
+      "categories": [
+        "Concrete pumps",
+        "Schwing Stetter (Memmingen)",
+        "Water tanks",
+        "Self-published work",
+        "Pictures by Cjp24",
+        "ALDI supermarket in Cosne-Cours-sur-Loire (construction)"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aldi,_Cosne,_concrete_pump_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Aldi%2C_Cosne%2C_concrete_pump_%283%29.jpg/1280px-Aldi%2C_Cosne%2C_concrete_pump_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    }
+  ]
+}

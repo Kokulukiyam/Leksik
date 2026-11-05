@@ -1,0 +1,163 @@
+{
+  "terme": {
+    "id": "beton-desactive",
+    "terme": "le béton désactivé",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Béton dont on a éliminé la laitance en surface pour faire apparaître les graviers.",
+    "priorite": 2,
+    "requetes": [
+      "exposed aggregate concrete",
+      "béton désactivé",
+      "washed concrete surface"
+    ],
+    "incompatibles": [
+      "beton"
+    ],
+    "categoriesCommons": [
+      "Category:Exposed aggregate concrete",
+      "Category:Concrete pavements",
+      "Category:Concrete"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Waschbetonplatte.jpg",
+      "description": "flagstone of washed-out concrete",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Exposed aggregate concrete",
+        "Self-published work",
+        "Unassessed QI candidates"
+      ],
+      "auteur": "Elke Wetzig ( Elya )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Waschbetonplatte.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Waschbetonplatte.jpg/1280px-Waschbetonplatte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1126
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Berencsfalu, 20191020 161306.jpg",
+      "description": "Berencsfalu , r.k. templom",
+      "categories": [
+        "Self-published work",
+        "Pavements in Slovakia",
+        "Churches in Slovakia photographed in 2019",
+        "October 2019 in Slovakia",
+        "Concrete pavements",
+        "Photos by User:Pe-Jo",
+        "Saint Nicholas church, Prenčov"
+      ],
+      "auteur": "Pe-Jo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Berencsfalu,_20191020_161306.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Berencsfalu%2C_20191020_161306.jpg/1280px-Berencsfalu%2C_20191020_161306.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ablution block in a container (7208537910).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Sanitation",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC source of file",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208537910).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Ablution_block_in_a_container_%287208537910%29.jpg/1280px-Ablution_block_in_a_container_%287208537910%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Steine 20171013 112425.jpg",
+      "description": "Exposed aggregate concrete",
+      "categories": [
+        "Exposed aggregate concrete",
+        "Self-published work"
+      ],
+      "auteur": "Peter.stillhard",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Steine_20171013_112425.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Steine_20171013_112425.jpg/1280px-Steine_20171013_112425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2988,
+      "hauteur": 5312
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Wanstead & Snaresbrook CC pavilion clubhouse, Wanstead, London 02.jpg",
+      "description": "The pavilion clubhouse of Wanstead & Snaresbrook Cricket Club taken during a June 2019 public Sunday match between Wanstead & Snaresbrook Cricket Club and Harrow Weald Cricket Club at Wanstead , Redbridge , London, England. Mobile device view : Wikimedia (as at June 2019) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Wanstead & Snaresbrook Cricket Club , Harrow Weald Cricket Club , Minor cricket clubs of London , and this uploader's Cricket photos . You can add a click-through 'categories' button to the very bottom o",
+      "categories": [
+        "Self-published work",
+        "Brick buildings in London",
+        "Slatted benches",
+        "Clubhouses in London",
+        "Benches in the London Borough of Redbridge",
+        "Buildings in the United Kingdom photographed in 2019",
+        "2019 in the London Borough of Redbridge",
+        "Spring 2019 in the United Kingdom",
+        "June 2019 in London",
+        "United Kingdom photographs taken on 2019-06-23",
+        "Acabashi photos: buildings in London",
+        "Wanstead & Snaresbrook Cricket Club",
+        "Empty benches in the United Kingdom",
+        "Wooden outdoor benches in the United Kingdom",
+        "Acabashi photos: sight screens",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Pavements in London",
+        "Concrete pavements",
+        "Brick walls in stretcher bond",
+        "Open doors in London",
+        "Sight screens in London",
+        "Hanging baskets in London",
+        "Cricket pavilions in the London Borough of Redbridge",
+        "London buildings photos taken with Canon PowerShot SX60 HS",
+        "Spring in the London Borough of Redbridge"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wanstead_%26_Snaresbrook_CC_pavilion_clubhouse,_Wanstead,_London_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Wanstead_%26_Snaresbrook_CC_pavilion_clubhouse%2C_Wanstead%2C_London_02.jpg/1280px-Wanstead_%26_Snaresbrook_CC_pavilion_clubhouse%2C_Wanstead%2C_London_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Abandoned concrete factory mechanism.jpg",
+      "description": "Un mécanisme d'engrenages (usage inconnu) vu dans une cimenterie abandonnée à Benageber, en Espagne.",
+      "categories": [
+        "Taken with Nikon D80",
+        "Benagéber",
+        "Concrete",
+        "Self-published work",
+        "Images with extracted images",
+        "Featured pictures on Wikipedia, Hebrew",
+        "Abandoned buildings in the Land of Valencia",
+        "Rusty machines",
+        "Assessment tagged pages marked as POTY candidates",
+        "Spur gears"
+      ],
+      "auteur": "Diacritica",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abandoned_concrete_factory_mechanism.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Abandoned_concrete_factory_mechanism.jpg/1280px-Abandoned_concrete_factory_mechanism.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3900,
+      "hauteur": 2613
+    }
+  ]
+}

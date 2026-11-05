@@ -1,0 +1,119 @@
+{
+  "terme": {
+    "id": "plaquette-de-parement",
+    "terme": "la plaquette de parement",
+    "categorie": "Matériaux et revêtements",
+    "definition": "Mince plaquette de terre cuite ou de pierre collée sur un mur pour imiter une maçonnerie apparente.",
+    "priorite": 2,
+    "requetes": [
+      "brick slips wall",
+      "plaquette de parement",
+      "brick veneer tiles"
+    ],
+    "incompatibles": [
+      "brique",
+      "parement-en-pierre",
+      "brique-pleine"
+    ],
+    "categoriesCommons": [
+      "Category:Stone veneer"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:StoneVeneer.jpg",
+      "description": "Installation of stone veneer",
+      "categories": [
+        "Taken with Canon PowerShot A610",
+        "Stone veneer",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "Chris Breeze",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:StoneVeneer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/StoneVeneer.jpg/1280px-StoneVeneer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:EarthAnatomy Cross Section Thin Stone.JPG",
+      "description": "EarthAnatomy Cross Section Thin Stone",
+      "categories": [
+        "Stone veneer",
+        "Self-published work"
+      ],
+      "auteur": "Mwojteck",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EarthAnatomy_Cross_Section_Thin_Stone.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/EarthAnatomy_Cross_Section_Thin_Stone.JPG/1280px-EarthAnatomy_Cross_Section_Thin_Stone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 1024
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Decorative stone cladding.jpg",
+      "description": "Image title: Decorative stone cladding Image from Public domain images website, http://www.public-domain-image.com/full-image/textures-and-patterns-public-domain-images-pictures/rock-stone-texture-public-domain-images-pictures/decorative-stone-cladding.jpg.html",
+      "categories": [
+        "PD-author",
+        "Images uploaded by Fæ",
+        "Stone veneer",
+        "Stone textures",
+        "Public-domain-image.com",
+        "Public-domain-image.com (check needed)"
+      ],
+      "auteur": "Titus Tscharntke",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Decorative_stone_cladding.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Decorative_stone_cladding.jpg/1280px-Decorative_stone_cladding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Earth Anatomy Basalt 05052011.jpg",
+      "description": "Earth Anatomy Basalt 05052011",
+      "categories": [
+        "Stone veneer",
+        "Self-published work"
+      ],
+      "auteur": "Mwojteck",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Earth_Anatomy_Basalt_05052011.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Earth_Anatomy_Basalt_05052011.jpg/1280px-Earth_Anatomy_Basalt_05052011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1534,
+      "hauteur": 747
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:EarthAnatomy Thin Stone Stack.JPG",
+      "description": "EarthAnatomy Thin Stone Stack",
+      "categories": [
+        "Stone veneer",
+        "Self-published work"
+      ],
+      "auteur": "Mwojteck",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:EarthAnatomy_Thin_Stone_Stack.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/EarthAnatomy_Thin_Stone_Stack.JPG/1280px-EarthAnatomy_Thin_Stone_Stack.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1298,
+      "hauteur": 1094
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Approx 700 sqft of Earth Anatomy 2.5mm thin natural stone veneer.jpg",
+      "description": "Approx 700 sqft of Earth Anatomy 2.5mm thin natural stone veneer",
+      "categories": [
+        "Stone veneer",
+        "Self-published work"
+      ],
+      "auteur": "Mwojteck",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Approx_700_sqft_of_Earth_Anatomy_2.5mm_thin_natural_stone_veneer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Approx_700_sqft_of_Earth_Anatomy_2.5mm_thin_natural_stone_veneer.jpg/1280px-Approx_700_sqft_of_Earth_Anatomy_2.5mm_thin_natural_stone_veneer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1373,
+      "hauteur": 823
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "terme": {
+    "id": "douchette-wc",
+    "terme": "la douchette WC",
+    "categorie": "Réseaux et équipements",
+    "definition": "Petite douchette à main reliée à un flexible près de la cuvette, servant à la toilette intime, très répandue au Sénégal.",
+    "priorite": 2,
+    "requetes": [
+      "bidet shower sprayer toilet",
+      "hand held bidet sprayer",
+      "shattaf"
+    ],
+    "incompatibles": [
+      "cuvette-de-wc"
+    ],
+    "categoriesCommons": [
+      "Category:Bidet showers",
+      "Category:Bidets"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Tunisko, Sousse, Jinene hotel - room 127 (03).jpg",
+      "description": "Toaleta (s bidetovou hadicí) ve společné koupelně příslušející k pokoji číslo 127 v Jinene hotelu v tuniském Sousse.",
+      "categories": [
+        "Bidet showers",
+        "Taken with Olympus SP-320",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Hotel bathrooms in Tunisia",
+        "Hotel toilets",
+        "Hôtel Royal Jinene"
+      ],
+      "auteur": "Jan Polák",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tunisko,_Sousse,_Jinene_hotel_-_room_127_(03).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Tunisko%2C_Sousse%2C_Jinene_hotel_-_room_127_%2803%29.jpg/1280px-Tunisko%2C_Sousse%2C_Jinene_hotel_-_room_127_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Bidet portatil año 1910.jpg",
+      "description": "Portable Bidet 1910",
+      "categories": [
+        "GFDL",
+        "Bidets",
+        "License migration redundant",
+        "Self-published work",
+        "Interior of Palacio de Aguas Corrientes, Buenos Aires"
+      ],
+      "auteur": "Roberto Fiadone",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bidet_portatil_a%C3%B1o_1910.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Bidet_portatil_a%C3%B1o_1910.jpg/1280px-Bidet_portatil_a%C3%B1o_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 1899
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bidet shower greek style.jpg",
+      "description": "Bidet shower setup in more affluent homes. User can gently rinse their anal in the soothing atmosphere of greek ornaments.",
+      "categories": [
+        "Bidet showers",
+        "Krasnodar Krai",
+        "Self-published work",
+        "Toilets in Russia",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Karyev",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bidet_shower_greek_style.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Bidet_shower_greek_style.jpg/1280px-Bidet_shower_greek_style.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Bathroom in suite at Semiramis InterContinental Hotel Cairo.JPG",
+      "description": "Bathroom in suite at Semiramis InterContinental Hotel Cairo",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus C-8080WZ",
+        "Bidets",
+        "License migration redundant",
+        "Semiramis InterContinental Cairo",
+        "Self-published work",
+        "Hotel toilets"
+      ],
+      "auteur": "Daniel Mayer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bathroom_in_suite_at_Semiramis_InterContinental_Hotel_Cairo.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bathroom_in_suite_at_Semiramis_InterContinental_Hotel_Cairo.JPG/1280px-Bathroom_in_suite_at_Semiramis_InterContinental_Hotel_Cairo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bidet shower (Tuscany).jpg",
+      "description": "A bidet shower in Tuscany",
+      "categories": [
+        "Bidet showers",
+        "Self-published work",
+        "Taken with Nokia N95",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Carnby",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bidet_shower_(Tuscany).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Bidet_shower_%28Tuscany%29.jpg/1280px-Bidet_shower_%28Tuscany%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:232 Bidet süddeutsch c1770.jpg",
+      "description": "Bidet, Rüsterholz(?) und Fayence, süddeutsch um 1770; Höhe 49 cm, Breite 55 cm, Tiefe 35 cm; Privatbesitz Ausstellung \"Das stille Örtchen – Tabu und Reinlichkeit bey Hofe\" der Staatlichen Schlösser und Gärten Baden-Württemberg, Bad Schussenried",
+      "categories": [
+        "Faience of Germany",
+        "Bidets",
+        "Self-published work",
+        "PD-self",
+        "Das stille Örtchen (exhibition)"
+      ],
+      "auteur": "AustinTowers",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:232_Bidet_s%C3%BCddeutsch_c1770.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/232_Bidet_s%C3%BCddeutsch_c1770.jpg/1280px-232_Bidet_s%C3%BCddeutsch_c1770.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2440,
+      "hauteur": 3564
+    }
+  ]
+}

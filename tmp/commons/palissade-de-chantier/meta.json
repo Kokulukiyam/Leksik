@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "palissade-de-chantier",
+    "terme": "la palissade de chantier",
+    "categorie": "Chantier et outillage",
+    "definition": "Clôture pleine provisoire, en tôle ou en panneaux, qui entoure un chantier et le sépare de la voie publique.",
+    "priorite": 2,
+    "requetes": [
+      "construction site hoarding",
+      "palissade de chantier",
+      "construction fence corrugated sheet"
+    ],
+    "categoriesCommons": [
+      "Category:Construction sites"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bauboom Alte Landstrasse 154 158 Küsnacht mit Freihof.jpg",
+      "description": "Building boom Alte Landstrasse 154 158 Küsnacht with Freihof",
+      "categories": [
+        "Construction sites",
+        "CC-Zero",
+        "Küsnacht ZH",
+        "Self-published work",
+        "Alte Landstrasse (Küsnacht ZH)",
+        "Oberwachtstrasse (Küsnacht ZH)"
+      ],
+      "auteur": "Saxifraga mutata",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bauboom_Alte_Landstrasse_154_158_K%C3%BCsnacht_mit_Freihof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bauboom_Alte_Landstrasse_154_158_K%C3%BCsnacht_mit_Freihof.jpg/1280px-Bauboom_Alte_Landstrasse_154_158_K%C3%BCsnacht_mit_Freihof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:A modern building under construction.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Construction sites",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Unfinished buildings in Ghana",
+        "Images from Wiki Loves Africa 2022 in Ghana",
+        "Buildings in the Greater Accra Region",
+        "Unidentified locations in the Greater Accra Region"
+      ],
+      "auteur": "Kwameghana",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_modern_building_under_construction.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/A_modern_building_under_construction.jpg/1280px-A_modern_building_under_construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5276,
+      "hauteur": 3918
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:B8n Baustelle PA185576.JPG",
+      "description": "B8n Baustelle",
+      "categories": [
+        "Construction sites",
+        "Taken with Olympus E-620",
+        "Self-published work"
+      ],
+      "auteur": "Foto-dus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B8n_Baustelle_PA185576.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/B8n_Baustelle_PA185576.JPG/1280px-B8n_Baustelle_PA185576.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A construction worker plastering a house 03.jpg",
+      "description": "A construction worker plastering a house",
+      "categories": [
+        "Construction sites",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "Chabie10",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_construction_worker_plastering_a_house_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/A_construction_worker_plastering_a_house_03.jpg/1280px-A_construction_worker_plastering_a_house_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 1918
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Apollo converter station under construction 07.jpg",
+      "description": "Steel structure assembly during construction of the Apollo HVDC power station. Photo from late 1973, scanned in January 2020.",
+      "categories": [
+        "Electricity pylons in South Africa",
+        "Construction sites",
+        "Construction workers",
+        "Cahora Bassa (HVDC)",
+        "High-voltage overhead power lines",
+        "HVDC converter stations",
+        "HVDC power lines",
+        "Self-published work",
+        "Construction in South Africa"
+      ],
+      "auteur": "Herbert Hönigsperger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apollo_converter_station_under_construction_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Apollo_converter_station_under_construction_07.jpg/1280px-Apollo_converter_station_under_construction_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1400,
+      "hauteur": 2100
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:-37 Construction.jpg",
+      "description": "Construction",
+      "categories": [
+        "Construction sites",
+        "Self-published work",
+        "Large images"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-37_Construction.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/-37_Construction.jpg/1280px--37_Construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 12528,
+      "hauteur": 9967
+    }
+  ]
+}

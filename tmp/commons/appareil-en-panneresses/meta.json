@@ -1,0 +1,158 @@
+{
+  "terme": {
+    "id": "appareil-en-panneresses",
+    "terme": "l'appareil en panneresses",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Disposition des briques ou des blocs tous posés en longueur, chaque rang décalé d'une demi-longueur sur le précédent.",
+    "priorite": 2,
+    "requetes": [
+      "running bond brick wall",
+      "appareil en panneresses",
+      "stretcher bond brickwork"
+    ],
+    "incompatibles": [
+      "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Stretcher bond",
+      "Category:Brick walls"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Businesses, Maclay Ave, San Fernando 20250611 171912.jpg",
+      "description": "View at Maclay Avenue in San Fernando, California, in June, 2025.",
+      "categories": [
+        "Self-published work",
+        "Grey Chevrolet SUVs",
+        "Ginkgo biloba in the United States",
+        "Stretcher bond",
+        "Chevrolet Tahoe (GMT820)",
+        "Brick buildings in Los Angeles County, California",
+        "Taken with Samsung Galaxy S23 Ultra",
+        "United States photographs taken on 2025-06-11",
+        "Monk and nun roofs in California",
+        "Maclay Avenue",
+        "Streets in San Fernando, California",
+        "2025 in San Fernando, California",
+        "Stack bond",
+        "Shops in San Fernando, California"
+      ],
+      "auteur": "AragonChristopherR17Z",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Businesses,_Maclay_Ave,_San_Fernando_20250611_171912.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Businesses%2C_Maclay_Ave%2C_San_Fernando_20250611_171912.jpg/1280px-Businesses%2C_Maclay_Ave%2C_San_Fernando_20250611_171912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Ansamblu Biertan 06.jpg",
+      "description": "Ansamblul bisericii evanghelice",
+      "categories": [
+        "Brick walls",
+        "Images from Wiki Loves Monuments 2019 in Romania",
+        "Images from Wiki Loves Monuments 2019",
+        "Self-published work",
+        "Church towers in Romania",
+        "Cultural heritage monuments in Romania with known IDs",
+        "Buttresses in Romania",
+        "Uploaded via Campaign:wlm-ro",
+        "Lutheran church in Biertan, Sibiu",
+        "Octagonal church towers",
+        "Brick blind arches"
+      ],
+      "auteur": "Nicubunu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ansamblu_Biertan_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Ansamblu_Biertan_06.jpg/1280px-Ansamblu_Biertan_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7575,
+      "hauteur": 2624
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Avenida El Paraíso, San Antonio Pajonal.jpg",
+      "description": "Vista al noroeste sobre la Avenida El Paraíso en el Barrio Santa Catalina, San Antonio Pajonal, julio 2019.",
+      "categories": [
+        "Brick walls",
+        "Streets in El Salvador",
+        "Self-published work",
+        "Green buildings",
+        "Eave brackets",
+        "July 2019 in San Antonio Pajonal",
+        "Concrete framing"
+      ],
+      "auteur": "Christopher Arthur Aragon",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Avenida_El_Para%C3%ADso,_San_Antonio_Pajonal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Avenida_El_Para%C3%ADso%2C_San_Antonio_Pajonal.jpg/1280px-Avenida_El_Para%C3%ADso%2C_San_Antonio_Pajonal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3376
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:- ON (25665544424).jpg",
+      "description": "Used at www.britishcouncil.org/voices-magazine/five-fun-activitie...",
+      "categories": [
+        "Devonport, Tasmania",
+        "Colons",
+        "Brick walls",
+        "Prepositions",
+        "Flickr images reviewed by FlickreviewR",
+        "Signs in Tasmania",
+        "Photographs by Michael Coghlan",
+        "Files with coordinates missing SDC location of creation",
+        "English-language words",
+        "On (text)",
+        "Black and red text",
+        "Leading punctuation"
+      ],
+      "auteur": "Michael Coghlan from Adelaide, Australia",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_ON_(25665544424).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/-_ON_%2825665544424%29.jpg/1280px--_ON_%2825665544424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1426,
+      "hauteur": 946
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Brick wall 4.jpg",
+      "description": "The brick wall",
+      "categories": [
+        "Brick walls",
+        "Self-published work"
+      ],
+      "auteur": "gausanchennai",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_wall_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Brick_wall_4.jpg/1280px-Brick_wall_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Ansamblu Biertan 05.jpg",
+      "description": "Ansamblul bisericii evanghelice",
+      "categories": [
+        "Brick walls",
+        "Images from Wiki Loves Monuments 2019 in Romania",
+        "Images from Wiki Loves Monuments 2019",
+        "Self-published work",
+        "Church towers in Romania",
+        "Cultural heritage monuments in Romania with known IDs",
+        "Buttresses in Romania",
+        "Uploaded via Campaign:wlm-ro",
+        "Lutheran church in Biertan, Sibiu",
+        "Octagonal church towers",
+        "Brick blind arches"
+      ],
+      "auteur": "Nicubunu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ansamblu_Biertan_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Ansamblu_Biertan_05.jpg/1280px-Ansamblu_Biertan_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7232,
+      "hauteur": 3072
+    }
+  ]
+}

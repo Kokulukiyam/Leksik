@@ -1,0 +1,156 @@
+{
+  "terme": {
+    "id": "paumelle-a-souder",
+    "terme": "la paumelle à souder",
+    "categorie": "Menuiserie et serrurerie",
+    "definition": "Paumelle cylindrique en acier, sans ailes percées, soudée directement sur les portes et portails métalliques.",
+    "priorite": 2,
+    "requetes": [
+      "weld on hinge",
+      "paumelle à souder",
+      "bullet hinge weld"
+    ],
+    "incompatibles": [
+      "paumelle"
+    ],
+    "categoriesCommons": [
+      "Category:Door hinges",
+      "Category:Hinges"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Bryant Barn Door.jpg",
+      "description": "William Cullen Bryant Homestead, Cummington",
+      "categories": [
+        "Taken with Nikon Coolpix P7700",
+        "Door hinges",
+        "William Cullen Bryant Homestead",
+        "Self-published work",
+        "National Register of Historic Places with known IDs",
+        "Images from Wikipedia Summer of Monuments",
+        "Barn doors",
+        "Unreviewed submissions from Wikipedia Summer of Monuments",
+        "Uploaded via Campaign:wsm"
+      ],
+      "auteur": "Robert W. Salthouse",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bryant_Barn_Door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bryant_Barn_Door.jpg/1280px-Bryant_Barn_Door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Catalonia Badalona MuseuDeBadalona Polleguera4.JPG",
+      "description": "Polleguera de bronze d'una de les portes de la ciutat romana de Baetulo, que donava entrada pel SE des de la Via Augusta, trobada al clos de la Torre. Es conserva al Museu de Badalona, Badalona , Barcelonès , ( Catalunya ).",
+      "categories": [
+        "Hinges",
+        "GFDL",
+        "Blurred images",
+        "Via Augusta",
+        "License migration redundant",
+        "Self-published work",
+        "Friviere",
+        "Ancient Roman bronzes in Catalonia",
+        "Files with coordinates missing SDC location of creation",
+        "Friviere Museus",
+        "Taken with Arkofoto SD-318",
+        "Collections of the Museu de Badalona"
+      ],
+      "auteur": "Friviere",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Catalonia_Badalona_MuseuDeBadalona_Polleguera4.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Catalonia_Badalona_MuseuDeBadalona_Polleguera4.JPG/1280px-Catalonia_Badalona_MuseuDeBadalona_Polleguera4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Bundwerkstadl.JPG",
+      "description": "farm stable in upper Austria (Haigermoos)",
+      "categories": [
+        "Taken with Pentax K100D",
+        "CC-Zero",
+        "Door hinges",
+        "Bundwerk",
+        "Self-published work",
+        "Wooden nails",
+        "Austria photographs taken on 2010-07-31",
+        "July 2010 in Upper Austria",
+        "Buildings in Haigermoos",
+        "2010 in Haigermoos",
+        "Pictures taken by Werner100359 in July 2010"
+      ],
+      "auteur": "Werner100359",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bundwerkstadl.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Bundwerkstadl.JPG/1280px-Bundwerkstadl.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Catalonia Badalona MuseuDeBadalona Polleguera3.JPG",
+      "description": "Polleguera de bronze d'una de les portes de la ciutat romana de Baetulo, que donava entrada pel SE des de la Via Augusta, trobada al clos de la Torre. Es conserva al Museu de Badalona, Badalona , Barcelonès , ( Catalunya ).",
+      "categories": [
+        "Hinges",
+        "GFDL",
+        "Blurred images",
+        "Via Augusta",
+        "License migration redundant",
+        "Self-published work",
+        "Friviere",
+        "Ancient Roman bronzes in Catalonia",
+        "Files with coordinates missing SDC location of creation",
+        "Friviere Museus",
+        "Taken with Arkofoto SD-318",
+        "Collections of the Museu de Badalona"
+      ],
+      "auteur": "Friviere",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Catalonia_Badalona_MuseuDeBadalona_Polleguera3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Catalonia_Badalona_MuseuDeBadalona_Polleguera3.JPG/1280px-Catalonia_Badalona_MuseuDeBadalona_Polleguera3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Charnières énormes medina sfax.jpg",
+      "description": "Ce sont d'énormes pentures, gonds et crapaudines médiévales utilisés dans les portes d'entrée des maisons antiques de la Médina de Sfax. l'ensembleest exposées au Musée de la Casbah de Sfax.",
+      "categories": [
+        "Door hinges",
+        "Self-published work",
+        "Doors of the medina of Sfax",
+        "Images from MedinaPedia Sfax",
+        "Kasbah Museum of Sfax"
+      ],
+      "auteur": "Csisc",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Charni%C3%A8res_%C3%A9normes_medina_sfax.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Charni%C3%A8res_%C3%A9normes_medina_sfax.jpg/1280px-Charni%C3%A8res_%C3%A9normes_medina_sfax.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blechdose für Bonbons SWF 03 (fcm).jpg",
+      "description": "Bildinhalt: Weiße Blechdose für Bonbons mit Laschenscharnieren, aufgeklappt, auf grauem Hintergrund Aufnahmeort: Frankfurt am Main, Deutschland",
+      "categories": [
+        "Hinges",
+        "Taken with Canon EOS 600D",
+        "Self-published work",
+        "Images by Frank C. Müller",
+        "Sweets tins",
+        "Photographs taken on 2015-08-31"
+      ],
+      "auteur": "Photographie : Frank C. Müller , Frankfurt am Main",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blechdose_f%C3%BCr_Bonbons_SWF_03_(fcm).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Blechdose_f%C3%BCr_Bonbons_SWF_03_%28fcm%29.jpg/1280px-Blechdose_f%C3%BCr_Bonbons_SWF_03_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    }
+  ]
+}

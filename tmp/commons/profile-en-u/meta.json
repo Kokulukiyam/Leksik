@@ -1,0 +1,148 @@
+{
+  "terme": {
+    "id": "profile-en-u",
+    "terme": "le profilé en U",
+    "categorie": "Structure",
+    "definition": "Barre d'acier dont la section a la forme d'un U, comme les UPN.",
+    "priorite": 2,
+    "requetes": [
+      "steel channel section",
+      "profilé UPN",
+      "C channel steel"
+    ],
+    "incompatibles": [
+      "profile-en-i"
+    ],
+    "categoriesCommons": [
+      "Category:Steel beams"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:1930 ARQUITECTURA 41.jpg",
+      "description": "Anuncio de la empresa \"Torras\" de construcciones metálicas. Barcelona (Cataluña, España) Pone como ejemplo de sus obras, la cubierta de la estación de ferrocarril de Portbou",
+      "categories": [
+        "Companies based in Barcelona",
+        "Torras (surname)",
+        "Ronda de Sant Pere",
+        "Template Unknown (author)",
+        "1930 advertisements in Spain",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "Steel beams",
+        "Metal vaults",
+        "Historical images of Portbou train station",
+        "Arquitectura, 1930"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:1930_ARQUITECTURA_41.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/1930_ARQUITECTURA_41.jpg/1280px-1930_ARQUITECTURA_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4149,
+      "hauteur": 5523
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:(20260320) Leipzig 19.jpg",
+      "description": "Steel and wood beams visible at the exposed bottom of a balcony of Merseburger Straße 90, Leipzig, built in 1904.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Balconies in Leipzig",
+        "Files by Roy Zuo",
+        "Steel beams",
+        "Leipzig photographs taken on 2026-03-20",
+        "Merseburger Straße 90 (Leipzig)"
+      ],
+      "auteur": "Roy Zuo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(20260320)_Leipzig_19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/%2820260320%29_Leipzig_19.jpg/1280px-%2820260320%29_Leipzig_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Erecting steel beams to underpin the 39th Street Bridge in preparation of a load transfer. The bridge will be supported by the walls of the new approach structure. 07-03-2019 (48266281777).jpg",
+      "description": "Erecting steel beams to underpin the 39th Street Bridge in preparation of a load transfer. The bridge will be supported by the walls of the new approach structure. 07-03-2019",
+      "categories": [
+        "Structural steel",
+        "Temporary structures",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Steel beams",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access at Harold Interlocking",
+        "East Side Access construction/2019/07/12"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Erecting_steel_beams_to_underpin_the_39th_Street_Bridge_in_preparation_of_a_load_transfer._The_bridge_will_be_supported_by_the_walls_of_the_new_approach_structure._07-03-2019_(48266281777).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Erecting_steel_beams_to_underpin_the_39th_Street_Bridge_in_preparation_of_a_load_transfer._The_bridge_will_be_supported_by_the_walls_of_the_new_approach_structure._07-03-2019_%2848266281777%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1512,
+      "hauteur": 2016
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:2021-Lausanne-Flon-travaux-05.jpg",
+      "description": "Chantier à la gare Lausanne-Flon : grue, pose de poutrelles d'acier, ouvriers en orange.",
+      "categories": [
+        "Self-published work",
+        "High-visibility orange",
+        "Men at work in the canton of Vaud",
+        "Construction works at Lausanne-Flon (railway)",
+        "Steel beams"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021-Lausanne-Flon-travaux-05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2021-Lausanne-Flon-travaux-05.jpg/1280px-2021-Lausanne-Flon-travaux-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:A wedge on a newly constructed support for preassure tanks 2.jpg",
+      "description": "A rusty metal wedge on a newly constructed support, made from I-beams, for preassure tanks at West Pipe Welding, Gåseberg, Lysekil Municipality, Sweden. Wedges are used at welding workshops when assembling and joining parts, by fixating or lining up different parts of the structure.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Structural steel",
+        "CC-Zero",
+        "Steel-profiles",
+        "Wedges",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "West Pipe Welding AB",
+        "Steel beams"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_wedge_on_a_newly_constructed_support_for_preassure_tanks_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/A_wedge_on_a_newly_constructed_support_for_preassure_tanks_2.jpg/1280px-A_wedge_on_a_newly_constructed_support_for_preassure_tanks_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4328,
+      "hauteur": 2435
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Future Wisconsin History Center.jpg",
+      "description": "The Wisconsin History Center is under construction. The building consists of mostly exposed steel beams.",
+      "categories": [
+        "Self-published work",
+        "Building construction sites in Wisconsin",
+        "Construction in Madison, Wisconsin",
+        "Cherry pickers in the United States",
+        "Files with coordinates missing SDC location of creation",
+        "Steel beams",
+        "Wisconsin History Center"
+      ],
+      "auteur": "Mxn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Future_Wisconsin_History_Center.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Future_Wisconsin_History_Center.jpg/1280px-Future_Wisconsin_History_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

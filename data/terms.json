@@ -929,6 +929,16 @@
     ]
   },
   {
+    "id": "store-banne",
+    "terme": "le store banne",
+    "definition": "Store en toile qui se déroule en avant d'une façade, porté par des bras articulés.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "auvent"
+    ]
+  },
+  {
     "id": "vitrine",
     "terme": "la vitrine",
     "definition": "Grande baie vitrée d'un commerce au rez-de-chaussée, derrière laquelle sont exposées les marchandises.",
@@ -969,6 +979,245 @@
     "priorite": 1,
     "incompatibles": [
       "ferme"
+    ]
+  },
+  {
+    "id": "liteau",
+    "terme": "le liteau",
+    "definition": "Tasseau de bois cloué horizontalement sur les chevrons, sur lequel s'accrochent les tuiles.",
+    "categorie": "Toitures",
+    "priorite": 2,
+    "incompatibles": [
+      "chevron",
+      "ecran-sous-toiture"
+    ]
+  },
+  {
+    "id": "panneau-sandwich",
+    "terme": "le panneau sandwich",
+    "definition": "Panneau de couverture fait de deux tôles nervurées enfermant une âme isolante en mousse ou en laine minérale.",
+    "categorie": "Toitures",
+    "priorite": 1,
+    "incompatibles": [
+      "bac-acier"
+    ]
+  },
+  {
+    "id": "descente-d-eaux-pluviales",
+    "terme": "la descente d'eaux pluviales",
+    "definition": "Tuyau vertical fixé sur la façade qui conduit l'eau du toit jusqu'au sol ou au réseau.",
+    "categorie": "Toitures",
+    "priorite": 1,
+    "incompatibles": [
+      "gouttiere"
+    ]
+  },
+  {
+    "id": "membrane-bitumineuse",
+    "terme": "la membrane bitumineuse",
+    "definition": "Feuille d'étanchéité en bitume armé, posée en lés soudés au chalumeau sur une toiture-terrasse.",
+    "categorie": "Toitures",
+    "priorite": 1,
+    "incompatibles": [
+      "toiture-terrasse",
+      "releve-d-etancheite"
+    ]
+  },
+  {
+    "id": "tranchee-de-fondation",
+    "terme": "la tranchée de fondation",
+    "definition": "Fouille longue et étroite creusée selon le tracé des murs pour recevoir les semelles filantes.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 1,
+    "incompatibles": [
+      "fouille"
+    ]
+  },
+  {
+    "id": "ferraillage",
+    "terme": "le ferraillage",
+    "definition": "Ensemble des barres d'acier assemblées en place avant le coulage, qui formeront les armatures d'un ouvrage en béton armé.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 1
+  },
+  {
+    "id": "treillis-soude",
+    "terme": "le treillis soudé",
+    "definition": "Grillage de barres d'acier soudées en mailles carrées ou rectangulaires, livré en panneaux, posé dans les dalles et les dallages.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 1,
+    "incompatibles": [
+      "ferraillage"
+    ]
+  },
+  {
+    "id": "sable",
+    "terme": "le sable",
+    "definition": "Granulat fin livré en tas sur le chantier, mélangé au ciment pour le mortier et le béton.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 1
+  },
+  {
+    "id": "poutre",
+    "terme": "la poutre",
+    "definition": "Élément porteur horizontal qui franchit un espace entre deux appuis et porte un plancher ou une toiture.",
+    "categorie": "Structure",
+    "priorite": 1,
+    "incompatibles": [
+      "retombee-de-poutre"
+    ]
+  },
+  {
+    "id": "ossature-metallique",
+    "terme": "l'ossature métallique",
+    "definition": "Structure porteuse faite de profilés d'acier assemblés : poteaux, poutres et contreventements.",
+    "categorie": "Structure",
+    "priorite": 1,
+    "incompatibles": [
+      "poteau-metallique",
+      "profile-en-i",
+      "profile-en-h",
+      "charpente-metallique"
+    ]
+  },
+  {
+    "id": "porte-a-faux",
+    "terme": "le porte-à-faux",
+    "definition": "Partie d'ouvrage qui dépasse de ses appuis et n'est soutenue que d'un côté.",
+    "categorie": "Structure",
+    "priorite": 1,
+    "incompatibles": [
+      "encorbellement",
+      "balcon",
+      "casquette"
+    ]
+  },
+  {
+    "id": "arc-en-plein-cintre",
+    "terme": "l'arc en plein cintre",
+    "definition": "Arc dont la courbe forme un demi-cercle complet.",
+    "categorie": "Structure",
+    "priorite": 1,
+    "incompatibles": [
+      "arc",
+      "baie-cintree"
+    ]
+  },
+  {
+    "id": "bois",
+    "terme": "le bois",
+    "definition": "Matériau issu du tronc des arbres, débité en pièces ou en planches, utilisé en structure, menuiserie et revêtement.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 1
+  },
+  {
+    "id": "contreplaque",
+    "terme": "le contreplaqué",
+    "definition": "Panneau formé de fines feuilles de bois collées à fil croisé, dont la tranche montre les couches.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 1,
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "fer-forge",
+    "terme": "le fer forgé",
+    "definition": "Fer travaillé à chaud au marteau en barres tordues, volutes et pointes, pour grilles, balcons et rampes.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 1,
+    "incompatibles": [
+      "fonte",
+      "garde-corps",
+      "garde-corps-en-fer-forge"
+    ]
+  },
+  {
+    "id": "laterite",
+    "terme": "la latérite",
+    "definition": "Terre ou roche rouge riche en fer, très répandue en Afrique de l'Ouest, utilisée en remblai, en piste ou en moellons.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 1,
+    "incompatibles": [
+      "piste-lateritique",
+      "pierre-de-laterite"
+    ]
+  },
+  {
+    "id": "minaret",
+    "terme": "le minaret",
+    "definition": "Tour élancée d'une mosquée, d'où est lancé l'appel à la prière.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 1,
+    "incompatibles": [
+      "mosquee-soudano-sahelienne"
+    ]
+  },
+  {
+    "id": "porte",
+    "terme": "la porte",
+    "definition": "Ouvrage mobile, en bois, métal ou verre, qui ferme une baie de passage dans un mur ou une cloison.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1
+  },
+  {
+    "id": "porte-metallique",
+    "terme": "la porte métallique",
+    "definition": "Porte en tôle d'acier sur cadre en tubes ou profilés, très utilisée pour les entrées et locaux techniques.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "porte"
+    ]
+  },
+  {
+    "id": "fenetre",
+    "terme": "la fenêtre",
+    "definition": "Ouvrage vitré, fixe ou ouvrant, qui ferme une baie pour donner du jour et de l'air.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1
+  },
+  {
+    "id": "naco",
+    "terme": "le naco",
+    "definition": "Fenêtre faite de lames horizontales parallèles, en verre ou en aluminium, qui pivotent ensemble grâce à un levier latéral ; appelée naco en Afrique de l'Ouest et fenêtre à jalousies en France.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "fenetre",
+      "persienne",
+      "menuiserie-aluminium"
+    ]
+  },
+  {
+    "id": "volet",
+    "terme": "le volet",
+    "definition": "Panneau mobile placé devant une fenêtre pour la protéger, l'occulter ou la sécuriser.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "persienne"
+    ]
+  },
+  {
+    "id": "volet-battant",
+    "terme": "le volet battant",
+    "definition": "Volet à un ou deux vantaux qui pivotent sur des gonds fixés au mur ou au tableau.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "volet",
+      "persienne"
+    ]
+  },
+  {
+    "id": "volet-roulant",
+    "terme": "le volet roulant",
+    "definition": "Volet fait de lames horizontales articulées qui s'enroulent dans un coffre au-dessus de la fenêtre.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 1,
+    "incompatibles": [
+      "volet"
     ]
   }
 ]

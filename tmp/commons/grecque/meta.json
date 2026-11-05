@@ -1,0 +1,151 @@
+{
+  "terme": {
+    "id": "grecque",
+    "terme": "la grecque",
+    "categorie": "Ornement",
+    "definition": "Frise de lignes brisées à angles droits, formant un méandre continu.",
+    "priorite": 2,
+    "requetes": [
+      "greek key meander",
+      "greek fret pattern",
+      "frise grecque"
+    ],
+    "incompatibles": [
+      "frise"
+    ],
+    "categoriesCommons": [
+      "Category:Greek key"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Essen Werden - Basilika - Krypta 05 ies.jpg",
+      "description": "Krypta der Basilika Sankt Ludgerus, Kloster Werden, Essen -Werden",
+      "categories": [
+        "Greek key",
+        "GFDL",
+        "Taken with Canon EOS 400D",
+        "License migration redundant",
+        "Self-published work",
+        "Mosaics in North Rhine-Westphalia",
+        "Crypt of St. Ludgerus (Werden)"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Essen_Werden_-_Basilika_-_Krypta_05_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Essen_Werden_-_Basilika_-_Krypta_05_ies.jpg/1280px-Essen_Werden_-_Basilika_-_Krypta_05_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cimetière St Amour Jura 2.jpg",
+      "description": "Cimetière de Saint-Amour, Jura.",
+      "categories": [
+        "Cemetery gates in Jura (department)",
+        "October 2017 in Jura (department)",
+        "Greek key",
+        "Cemetery of Saint-Amour (Jura)",
+        "Self-published work",
+        "Bourgogne-Franche-Comté photographs taken on 2017-10-25",
+        "Images by Chabe01 taken with Canon EOS 1200D",
+        "Images of Saint-Amour (Jura) by Chabe01"
+      ],
+      "auteur": "Chabe01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cimeti%C3%A8re_St_Amour_Jura_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Cimeti%C3%A8re_St_Amour_Jura_2.jpg/1280px-Cimeti%C3%A8re_St_Amour_Jura_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Border (France), 1850–70 (CH 18480197-2).jpg",
+      "description": "Narrow border containing a continuous Greek key motif. Printed in tan, darker tan, burgundy flock and metallic gold. This object is in two pieces, joined on the verso by gummed glassine.",
+      "categories": [
+        "Greek key",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "Artworks with known accession number",
+        "Template Unknown (artist)",
+        "CC-PD-Mark",
+        "Artworks of France in the Cooper–Hewitt, Smithsonian Design Museum",
+        "Wallcoverings in the Cooper–Hewitt, Smithsonian Design Museum",
+        "1850s wallpapers",
+        "Border (wallpaper)"
+      ],
+      "auteur": "Artiste inconnu Unknown artist",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Border_(France),_1850%E2%80%9370_(CH_18480197-2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Border_%28France%29%2C_1850%E2%80%9370_%28CH_18480197-2%29.jpg/1280px-Border_%28France%29%2C_1850%E2%80%9370_%28CH_18480197-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 1455
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Duomo Fidenza torre destra.jpg",
+      "description": "Duomo di Fidenza (provincia di Parma, Italy): bassorilievo con scene varie, situato sulla torre campanaria di destra. XII secolo.",
+      "categories": [
+        "Greek key",
+        "Self-published work",
+        "PD-self",
+        "Sculptures of the Fidenza Cathedral"
+      ],
+      "auteur": "Clop",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duomo_Fidenza_torre_destra.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Duomo_Fidenza_torre_destra.jpg/1280px-Duomo_Fidenza_torre_destra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3376,
+      "hauteur": 908
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Border (France), 1850–70 (CH 18480197).jpg",
+      "description": "Narrow border containing a continuous Greek key motif. Printed in tan, darker tan, burgundy flock and metallic gold. This object is in two pieces, joined on the verso by gummed glassine.",
+      "categories": [
+        "Greek key",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-100-expired)",
+        "Artworks with known accession number",
+        "Template Unknown (artist)",
+        "CC-PD-Mark",
+        "Artworks of France in the Cooper–Hewitt, Smithsonian Design Museum",
+        "Wallcoverings in the Cooper–Hewitt, Smithsonian Design Museum",
+        "1850s wallpapers",
+        "Border (wallpaper)"
+      ],
+      "auteur": "Artiste inconnu Unknown artist",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Border_(France),_1850%E2%80%9370_(CH_18480197).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Border_%28France%29%2C_1850%E2%80%9370_%28CH_18480197%29.jpg/1280px-Border_%28France%29%2C_1850%E2%80%9370_%28CH_18480197%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 1162
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Duomo di fidenza, sculture sulla torre dx, scene di discordia e lussuria.JPG",
+      "description": "Duomo di fidenza, sculture sulla torre dx, scene di discordia e lussuria",
+      "categories": [
+        "Greek key",
+        "GFDL",
+        "Taken with Nikon Coolpix P5000",
+        "License migration redundant",
+        "Self-published work",
+        "Photographs of sculptures by User:Sailko",
+        "Personifications of lust",
+        "Sculptures of the Fidenza Cathedral"
+      ],
+      "auteur": "sailko",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Duomo_di_fidenza,_sculture_sulla_torre_dx,_scene_di_discordia_e_lussuria.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Duomo_di_fidenza%2C_sculture_sulla_torre_dx%2C_scene_di_discordia_e_lussuria.JPG/1280px-Duomo_di_fidenza%2C_sculture_sulla_torre_dx%2C_scene_di_discordia_e_lussuria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1026
+    }
+  ]
+}

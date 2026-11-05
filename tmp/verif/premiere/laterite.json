@@ -1,0 +1,53 @@
+{
+  "termId": "laterite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Roche brune agglomérée avec un mille-pattes rouge dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aspect trop ambigu, animal en vedette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros blocs de roche rouge-orangé alvéolée, entre falaise et herbes.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Latérite typique, rouge, vacuolaire, plan rapproché."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Minerai de nickel latéritique en vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon de musée, pas de latérite de construction."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros bloc de latérite rouge violacé criblé de cavités, en bord de mer.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Cola, Goa, Inde",
+      "note": "Latérite alvéolée de Goa, bien lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Paroi rouge de latérite surmontée de végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moins net que 02 et 04, peut évoquer grès ou terre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Aquarelle de falaises rouges sur la mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    }
+  ]
+}
