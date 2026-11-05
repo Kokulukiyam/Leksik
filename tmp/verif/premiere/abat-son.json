@@ -1,0 +1,53 @@
+{
+  "termId": "abat-son",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtres de villa à volets persiennés ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pörtschach, Autriche",
+      "note": "Volets de fenêtre, pas un clocher."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre en bow-window avec volets persiennés verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pörtschach, Autriche",
+      "note": "Volets, pas des abat-son."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Persienne latérale d'une rame de train orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Grille de train, pas un clocher."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre de fort avec volets à lames ouverts sur la mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Elmina, Ghana",
+      "note": "Volets de fenêtre, pas un clocher."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade peinte décrépie avec volets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Funchal, Portugal",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtres d'une villa en bois avec volets persiennés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pörtschach, Autriche",
+      "note": "Volets, pas des abat-son."
+    }
+  ]
+}

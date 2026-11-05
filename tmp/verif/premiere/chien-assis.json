@@ -1,0 +1,53 @@
+{
+  "termId": "chien-assis",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pignon triangulaire factice sur toit, pas un chien-assis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Pignon triangulaire factice sur toit, pas un chien-assis."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toit de bus, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Toit de bus, sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Lucarnes à croupe sur toit en tuiles, pas de chien-assis net.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Lucarnes à croupe sur toit en tuiles, pas de chien-assis net."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lucarnes à toit plat (dakkapel), pas un chien-assis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Lucarnes à toit plat (dakkapel), pas un chien-assis."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Lucarne ronde (capucine), pas un chien-assis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Lucarne ronde (capucine), pas un chien-assis."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison coloniale à lucarnes à fronton, pas de chien-assis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Maison coloniale à lucarnes à fronton, pas de chien-assis."
+    }
+  ]
+}

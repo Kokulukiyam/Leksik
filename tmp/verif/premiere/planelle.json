@@ -1,0 +1,53 @@
+{
+ "termId": "planelle",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Passage piéton avec dalles podotactiles rouges sur la chaussée.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Hanover, USA",
+   "note": "Sans rapport."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Briques de terre crue séchant en tas.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Belo, Cameroun",
+   "note": "Briques de terre, pas une planelle."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Brique antique d'un musée sous ficelle avec étiquette.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Inde",
+   "note": "Texte visible, objet sans rapport."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Fragments de brique cuite dans un lit de rivière.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Sans rapport."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Colombage avec remplissage de briques en chevrons.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Aarhus, Danemark",
+   "note": "Sans rapport."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Charrette d'eau devant des piles de briques de terre.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Thiès, Sénégal",
+   "note": "Sans rapport."
+  }
+ ]
+}

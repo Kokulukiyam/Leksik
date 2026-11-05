@@ -1,0 +1,53 @@
+{
+  "termId": "mitre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Souches de cheminées avec mitrons, pas de mitre nette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Souches de cheminées avec mitrons, pas de mitre nette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Boîtier de chauffage, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Boîtier de chauffage, sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Souche de cheminée avec antennes, mitre absente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Souche de cheminée avec antennes, mitre absente."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Toits de Paris, trop petit pour distinguer les mitres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Toits de Paris, trop petit pour distinguer les mitres."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cheminée d'usine, pas une mitre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Cheminée d'usine, pas une mitre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mitron en terre cuite posé sur fond blanc, terme voisin (mitron) et pas en situation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Mitron en terre cuite posé sur fond blanc, terme voisin (mitron) et pas en situation."
+    }
+  ]
+}

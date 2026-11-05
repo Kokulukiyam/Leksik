@@ -1,0 +1,53 @@
+{
+  "termId": "vide-sanitaire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Trappe d'accès en planches blanchies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Une trappe seule, pas de vide visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maison en bois rouge surélevée sur un soubassement de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kållekärr",
+      "note": "Vide non visible, ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Dessin aquarellé de coupe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coffrages plastiques noirs (type igloo) avec armatures dans un local.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vide non visible, pourrait passer pour un radier ou une dalle."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche en bois avec triskèle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rangées de coffrages plastiques en arche sous un treillis d'armatures, grand sous-sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vide ventilé en construction, mais contexte ambigu (dalle sur coffrage perdu) : doute."
+    }
+  ]
+}

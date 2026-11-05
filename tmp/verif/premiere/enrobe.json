@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Montre du bitume, pas un enrobé."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chenille rayée sur un revêtement bitumineux, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fairfax, États-Unis",
+      "note": "Sujet principal : la chenille."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chemin de roche et de gravier concassé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Schwende, Suisse",
+      "note": "Pas d'enrobé."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cour en cours de réfection, couche bitumineuse bleutée et dalle de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Aspect confus, enrobé non net."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chemin de terre et de gravier compacté dans un bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valldavià, Espagne",
+      "note": "Pas d'enrobé."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Homme appliquant un produit sur une allée de garage bitumée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ewing, États-Unis",
+      "note": "Scellant, surface sombre peu lisible ; personnage dominant."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sol de pierres irrégulières non taillées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Peratallada, Espagne",
+      "note": "Pavage de pierre, pas d'enrobé."
     }
   ]
 }

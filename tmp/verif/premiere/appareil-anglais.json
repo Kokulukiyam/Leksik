@@ -1,0 +1,53 @@
+{
+ "termId": "appareil-anglais",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Gros plan d'un mur de briques anciennes où rangs de longues panneresses et rangs de boutisses alternent.",
+   "verdict": "validée",
+   "rectangle": null,
+   "lieu": "Burgum, Pays-Bas",
+   "note": "Alternance nette d'un rang de panneresses et d'un rang de boutisses, appareil anglais lisible malgré l'usure."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Parement de briques sombres graffitées.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Rangs de panneresses uniquement."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Mur de briques courbe au-dessus d'un pavage, avec bandeau de pierre.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Roosendaal, Pays-Bas",
+   "note": "Appareil trop petit et peu lisible pour trancher."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Façade en brique avec fenêtres et passante.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Appareil trop petit, distinction impossible."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Soubassement de brique sous une vitrine portant un panneau.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Castlecomer, Irlande",
+   "note": "Texte visible, zone de brique petite."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Voiture Alfa Romeo devant un mur de brique.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Sans rapport."
+  }
+ ]
+}

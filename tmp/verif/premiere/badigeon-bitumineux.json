@@ -1,0 +1,53 @@
+{
+  "termId": "badigeon-bitumineux",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier soudant au chalumeau une membrane bitumineuse sur un bord de dalle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zell am See",
+      "note": "Membrane soudée, pas un badigeon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau manuscrit près d'un escalator.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tokyo",
+      "note": "Hors sujet, texte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Morceaux de bitume naturel sur fond vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mer Morte",
+      "note": "Bitume brut, pas appliqué sur mur."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Logo d'entreprise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Logo."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pose au chalumeau d'un rouleau de bitume sur dalle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zell am See",
+      "note": "Membrane, pas un badigeon."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur habillé de contreplaqué avec membrane de toiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de badigeon noir visible."
+    }
+  ]
+}

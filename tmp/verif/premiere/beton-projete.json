@@ -1,0 +1,58 @@
+{
+  "termId": "beton-projete",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Falaise et mur de soutènement au bord d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Randa, Majorque",
+      "note": "Pas de béton projeté identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur et gradins en béton banché sous mousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton banché."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrier projetant du béton sur une paroi de fouille, surface rugueuse et bosselée avec ancrages.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.38,
+        "y": 0.0,
+        "largeur": 0.62,
+        "hauteur": 0.66
+      },
+      "lieu": "Cologne, Allemagne",
+      "note": "Application de béton projeté et surface typique visibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Évier et robinets contre conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Équipe projetant du béton dans un tunnel ferroviaire, bâche et vapeur masquent la scène.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Burlington",
+      "note": "Projection peu lisible, doute."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Conteneurs bleus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

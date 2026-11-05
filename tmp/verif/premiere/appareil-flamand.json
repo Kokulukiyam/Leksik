@@ -1,0 +1,53 @@
+{
+ "termId": "appareil-flamand",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Parement de briques avec des boutisses cerclées de rouge.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "USA",
+   "note": "Image annotée (ellipses dessinées), pas une photo brute."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Voiture Alfa Romeo devant un mur de brique.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Sans rapport."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Mur de brique irrégulier, gros plan.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Detroit, USA",
+   "note": "Briques en panneresses surtout, appareil flamand non net."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Ruine en brique avec une baie.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Appareil irrégulier, non démonstratif."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Parement de briques avec boutisses cerclées à l'encre.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Kentucky, USA",
+   "note": "Image annotée (ellipses dessinées)."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Petit ouvrage en brique sur une pelouse devant des bâtiments.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Szekszárd, Hongrie",
+   "note": "Appareil non lisible."
+  }
+ ]
+}

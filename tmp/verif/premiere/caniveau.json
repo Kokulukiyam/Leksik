@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cuvette bétonnée moussue avec une petite grille d'évacuation, vue de dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Pas un caniveau le long d'une chaussée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Canal étroit recouvert d'une grille métallique dans un sol dallé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illustre le caniveau à grille, terme voisin."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Animal égorgé sur une grille de sol, sang.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image choquante et hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grille d'avaloir circulaire en fonte dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chicago, États-Unis",
+      "note": "Avaloir, pas un caniveau."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tuyau déversant de l'eau dans un talus rocheux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un caniveau."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Route bordée d'un trottoir avec bouche d'égout, caniveau à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bethesda, États-Unis",
+      "note": "Élément trop petit et ambigu."
     }
   ]
 }

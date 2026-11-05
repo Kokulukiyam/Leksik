@@ -1,0 +1,58 @@
+{
+  "termId": "avant-corps",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade d'immeuble blanc avec plusieurs pans coupés en bow-windows et balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oslo, Norvège",
+      "note": "Confusion possible avec l'oriel et le balcon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure du temple de Philae.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Philae, Égypte",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade en brique d'une école, avec un corps de bâtiment d'angle en saillie sur toute la hauteur, couronné d'un pignon.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.12,
+        "largeur": 0.45,
+        "hauteur": 0.86
+      },
+      "lieu": "Copenhague, Danemark",
+      "note": "Risalit d'angle sur toute la hauteur, rectangle vérifié."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Carte postale en mosaïque de vignettes de Bad Elster.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Elster, Allemagne",
+      "note": "Montage de cartes postales."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade verte de café-pâtisserie avec léger ressaut central.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Falkenstein, Allemagne",
+      "note": "Saillie trop faible, enseigne visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Carte postale colorisée d'un jardin japonais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, carte postale ancienne."
+    }
+  ]
+}

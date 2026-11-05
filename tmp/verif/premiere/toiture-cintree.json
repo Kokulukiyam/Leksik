@@ -1,0 +1,58 @@
+{
+  "termId": "toiture-cintree",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gare vitrée dont la toiture en arc de cercle sur ossature métallique dépasse en avant-toit.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.01,
+        "largeur": 0.5,
+        "hauteur": 0.32
+      },
+      "lieu": "Darmstadt, Allemagne",
+      "note": "Toiture cintrée nette, rectangle vérifié."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Auditorium à voile de béton ondulé en arcs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "São Paulo, Brésil",
+      "note": "Voile de béton, plutôt coque/voûte que toiture cintrée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gymnase à toiture en berceau de tôle ondulée, largement masqué par des arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Senlis, France",
+      "note": "Arbres masquent la majeure partie du toit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maisons blanches en rangée avec toit courbe en rive.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Courbure peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Hangar portuaire à toiture arquée, lointain derrière un remorqueur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tanjung Perak, Indonésie",
+      "note": "Trop petit et masqué."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Église à grande voûte parabolique à nervures jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rio de Janeiro, Brésil",
+      "note": "Structure en arc évoquant une voûte, pas une toiture en tôle."
+    }
+  ]
+}

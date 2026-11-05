@@ -1,0 +1,63 @@
+{
+  "termId": "demi-croupe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Place de marché avec maisons à toits de tuiles variés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sandomierz, Pologne",
+      "note": "Demi-croupes non évidentes, scène trop large."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Prairie et village au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Görtschach, Autriche",
+      "note": "Toits minuscules."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Refuge de montagne en bois, toit de bardeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Col du Ljubelj, Slovénie",
+      "note": "Demi-croupe douteuse, fortement masquée par la perspective."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison alpine à pignon en bois dont le sommet est coupé par un petit pan incliné, devant une église.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.55,
+        "y": 0.18,
+        "largeur": 0.35,
+        "hauteur": 0.2
+      },
+      "lieu": "Eisenkappel, Autriche",
+      "note": "Petit versant coupant le haut du pignon, rectangle vérifié."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Auberge bernoise à grand toit de tuiles dont le pignon est coiffé d'un large pan incliné.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.58,
+        "y": 0.0,
+        "largeur": 0.35,
+        "hauteur": 0.36
+      },
+      "lieu": "Huttwil, Suisse",
+      "note": "Pan incliné au sommet du pignon ; rectangle vérifié."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux fermes lointaines devant une forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Keutschach, Autriche",
+      "note": "Trop petit."
+    }
+  ]
+}

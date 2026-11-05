@@ -1,0 +1,53 @@
+{
+  "termId": "fermette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dessin d'une ferme à entrait retroussé, pas une photo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Dessin d'une ferme à entrait retroussé, pas une photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plafond peint d'une salle gothique, charpente apparente non industrielle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Plafond peint d'une salle gothique, charpente apparente non industrielle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Structure métallique de métro, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Structure métallique de métro, sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Charpente bois ancienne à pannes, pas une fermette industrialisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Charpente bois ancienne à pannes, pas une fermette industrialisée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Salle gothique à charpente lambrissée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Salle gothique à charpente lambrissée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Halle à fermes métalliques treillis, pas des fermettes à connecteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Halle à fermes métalliques treillis, pas des fermettes à connecteurs."
+    }
+  ]
+}

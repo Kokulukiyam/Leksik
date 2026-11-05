@@ -1,0 +1,53 @@
+{
+  "termId": "paroi-moulee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de quai en pierre le long d'une rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Übigau",
+      "note": "Maçonnerie de pierre, pas paroi moulée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur de soutènement orné d'une fresque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ózd",
+      "note": "Pas de béton moulé en tranchée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porche en bois avec murs de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Macédoine",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Murs de soutènement en blocs bétonnés en gradins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Virginie-Occidentale",
+      "note": "Blocs préfabriqués, pas paroi moulée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de pierre avec plaque d'école.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Texte visible, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pêcheurs au bord d'un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pékin",
+      "note": "Hors sujet."
+    }
+  ]
+}

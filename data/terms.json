@@ -894,6 +894,16 @@
     ]
   },
   {
+    "id": "benne-a-beton",
+    "terme": "la benne à béton",
+    "definition": "Seau métallique conique suspendu à la grue, à trappe en bas, qui déverse le béton dans le coffrage.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "grue-a-tour"
+    ]
+  },
+  {
     "id": "truelle",
     "terme": "la truelle",
     "definition": "Outil à lame d'acier plate, triangulaire ou arrondie, et à manche coudé, pour prendre, étaler et lisser le mortier.",
@@ -966,6 +976,16 @@
     "priorite": 1
   },
   {
+    "id": "talocheuse-mecanique",
+    "terme": "la talocheuse mécanique",
+    "definition": "Machine à pales tournantes guidée par un long manche, qui lisse la surface d'une dalle de béton frais.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "taloche"
+    ]
+  },
+  {
     "id": "aiguille-vibrante",
     "terme": "l'aiguille vibrante",
     "definition": "Tige métallique vibrante au bout d'un flexible, plongée dans le béton frais pour en chasser l'air.",
@@ -1001,6 +1021,23 @@
     "priorite": 2
   },
   {
+    "id": "scie-sauteuse",
+    "terme": "la scie sauteuse",
+    "definition": "Scie électrique à main dont la lame étroite va et vient verticalement, pour les découpes courbes.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "tronconneuse"
+    ]
+  },
+  {
+    "id": "tronconneuse",
+    "terme": "la tronçonneuse",
+    "definition": "Scie à moteur dont une chaîne dentée tourne autour d'un guide, pour couper le bois.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3
+  },
+  {
     "id": "perceuse",
     "terme": "la perceuse",
     "definition": "Outil électrique à main qui fait tourner un foret pour percer des trous.",
@@ -1016,6 +1053,20 @@
     "definition": "Lourd outil pneumatique ou électrique qui frappe un pic sur le béton ou la chaussée pour les briser.",
     "categorie": "Chantier et outillage",
     "priorite": 2
+  },
+  {
+    "id": "carotteuse",
+    "terme": "la carotteuse",
+    "definition": "Machine à couronne diamantée qui découpe un trou rond parfait dans le béton ou la maçonnerie.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3
+  },
+  {
+    "id": "rabot",
+    "terme": "le rabot",
+    "definition": "Outil à lame tranchante réglable dans un fût, poussé sur le bois pour l'aplanir.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3
   },
   {
     "id": "metre-ruban",
@@ -1075,6 +1126,13 @@
     "definition": "Gants en cuir, en tissu enduit ou en caoutchouc, qui protègent les mains des coupures, du ciment et des frottements.",
     "categorie": "Chantier et outillage",
     "priorite": 1
+  },
+  {
+    "id": "casque-anti-bruit",
+    "terme": "le casque anti-bruit",
+    "definition": "Paire de coquilles reliées par un arceau, qui couvrent les oreilles contre le bruit des machines.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3
   },
   {
     "id": "station-totale",
@@ -1137,6 +1195,29 @@
     ]
   },
   {
+    "id": "dalle-engazonnee",
+    "terme": "la dalle engazonnée",
+    "definition": "Dalle en béton ou plastique ajourée d'alvéoles où pousse le gazon, pour un parking perméable.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3,
+    "incompatibles": [
+      "pelouse",
+      "allee"
+    ]
+  },
+  {
+    "id": "pas-japonais",
+    "terme": "les pas japonais",
+    "definition": "Dalles espacées posées dans la pelouse ou le gravier, sur lesquelles on marche pas à pas.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3,
+    "incompatibles": [
+      "allee",
+      "pelouse",
+      "dalle-engazonnee"
+    ]
+  },
+  {
     "id": "allee",
     "terme": "l'allée",
     "definition": "Chemin aménagé d'un jardin ou d'une parcelle, en gravier, dalles ou pavés.",
@@ -1177,6 +1258,13 @@
     "priorite": 2
   },
   {
+    "id": "bassin-de-retention",
+    "terme": "le bassin de rétention",
+    "definition": "Grand bassin à ciel ouvert, à berges en terre ou en béton, qui stocke les eaux de pluie avant de les rejeter.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3
+  },
+  {
     "id": "dos-d-ane",
     "terme": "le dos-d'âne",
     "definition": "Bosse aménagée en travers de la chaussée pour obliger les véhicules à ralentir.",
@@ -1209,6 +1297,17 @@
     "priorite": 1,
     "incompatibles": [
       "chaussee"
+    ]
+  },
+  {
+    "id": "terre-plein-central",
+    "terme": "le terre-plein central",
+    "definition": "Bande surélevée, plantée ou bétonnée, qui sépare les deux sens de circulation d'une route.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3,
+    "incompatibles": [
+      "bordure-de-trottoir",
+      "trottoir"
     ]
   },
   {
@@ -1304,6 +1403,17 @@
     ]
   },
   {
+    "id": "concertina",
+    "terme": "le concertina",
+    "definition": "Rouleau de fil barbelé à lames tranchantes, déployé en spirales en haut d'un mur ou d'une clôture.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3,
+    "incompatibles": [
+      "fil-barbele",
+      "cloture-grillagee"
+    ]
+  },
+  {
     "id": "cloture-grillagee",
     "terme": "la clôture grillagée",
     "definition": "Clôture faite d'un grillage métallique tendu entre des poteaux.",
@@ -1316,11 +1426,31 @@
     ]
   },
   {
+    "id": "cloture-en-bois",
+    "terme": "la clôture en bois",
+    "definition": "Clôture faite de planches, de lattes ou de piquets de bois fixés à des poteaux.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3,
+    "incompatibles": [
+      "cloture-grillagee",
+      "mur-de-cloture",
+      "muret",
+      "haie"
+    ]
+  },
+  {
     "id": "haie",
     "terme": "la haie",
     "definition": "Rangée d'arbustes plantés serrés et taillés, qui forme une clôture végétale.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2
+  },
+  {
+    "id": "barbacane",
+    "terme": "la barbacane",
+    "definition": "Petit trou ou tuyau traversant le bas d'un mur de soutènement, par où s'écoule l'eau des terres retenues.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3
   },
   {
     "id": "gabion",
@@ -1341,11 +1471,38 @@
     "priorite": 2
   },
   {
+    "id": "grille-d-arbre",
+    "terme": "la grille d'arbre",
+    "definition": "Grille métallique posée au sol autour du pied d'un arbre planté dans un trottoir ou une place.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3,
+    "incompatibles": [
+      "trottoir"
+    ]
+  },
+  {
     "id": "pelouse",
     "terme": "la pelouse",
     "definition": "Surface plantée de gazon court et entretenu.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2
+  },
+  {
+    "id": "aire-de-jeux",
+    "terme": "l'aire de jeux",
+    "definition": "Espace extérieur équipé de toboggans, balançoires et jeux pour enfants, sur un sol amortissant.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3
+  },
+  {
+    "id": "guerite",
+    "terme": "la guérite",
+    "definition": "Petit abri maçonné ou préfabriqué placé à l'entrée d'une propriété ou d'un site, où se tient le gardien.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3,
+    "incompatibles": [
+      "pilier-de-portail"
+    ]
   },
   {
     "id": "piscine",
@@ -1357,6 +1514,18 @@
       "margelle",
       "plage-de-piscine",
       "pediluve"
+    ]
+  },
+  {
+    "id": "echelle-de-piscine",
+    "terme": "l'échelle de piscine",
+    "definition": "Échelle en tubes d'inox recourbés, fixée au bord du bassin, pour entrer et sortir de l'eau.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 3,
+    "incompatibles": [
+      "piscine",
+      "margelle",
+      "plage-de-piscine"
     ]
   },
   {
@@ -1378,11 +1547,58 @@
     ]
   },
   {
+    "id": "facade-ventilee",
+    "terme": "la façade ventilée",
+    "definition": "Façade dont le parement extérieur (panneaux, plaques, lames) est fixé sur une ossature à distance du mur, avec une lame d'air derrière.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "facade",
+      "bardage",
+      "panneau-composite-aluminium",
+      "facade-double-peau",
+      "mur-rideau"
+    ]
+  },
+  {
     "id": "porche",
     "terme": "le porche",
     "definition": "Espace couvert devant l'entrée d'un bâtiment, formant abri avant la porte.",
     "categorie": "Façade et ouvertures",
     "priorite": 2
+  },
+  {
+    "id": "chaine-d-angle",
+    "terme": "la chaîne d'angle",
+    "definition": "Assemblage vertical de pierres ou de briques alternées qui renforce et marque l'angle d'un mur.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "pierre-de-taille"
+    ]
+  },
+  {
+    "id": "baie-geminee",
+    "terme": "la baie géminée",
+    "definition": "Paire de baies accolées, séparées par une colonnette ou un pilier mince.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "meneau",
+      "baie",
+      "baie-cintree"
+    ]
+  },
+  {
+    "id": "baie-d-angle",
+    "terme": "la baie d'angle",
+    "definition": "Fenêtre qui se retourne sur l'angle du bâtiment, sans poteau ni mur à l'angle.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "fenetre-en-bandeau",
+      "baie"
+    ]
   },
   {
     "id": "fenetre-en-bandeau",
@@ -1393,6 +1609,20 @@
     "incompatibles": [
       "baie"
     ]
+  },
+  {
+    "id": "meurtriere",
+    "terme": "la meurtrière",
+    "definition": "Ouverture verticale très étroite dans un mur épais, à l'origine pour tirer à l'abri.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3
+  },
+  {
+    "id": "soupirail",
+    "terme": "le soupirail",
+    "definition": "Petite ouverture au ras du sol, souvent grillagée, qui éclaire et aère une cave.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3
   },
   {
     "id": "garde-corps-vitre",

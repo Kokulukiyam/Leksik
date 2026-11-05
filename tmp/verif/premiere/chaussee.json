@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chaussée petite, panneau et paysage dominants."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Camion de police au premier plan et route de nuit avec un motard.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Delhi, Inde",
+      "note": "Véhicule dominant, chaussée peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chien debout sur un sol de terre craquelée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet hors thème."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rue la nuit avec trottoir devant des vitrines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Charlottesville, États-Unis",
+      "note": "Montre surtout le trottoir; chaussée hors champ."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Route à deux voies descendant vers une vallée, vue plongeante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wainuiomata, Nouvelle-Zélande",
+      "note": "Chaussée petite et lointaine."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chemin de montagne enneigé au coucher du soleil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin, pas une chaussée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Large avenue goudronnée à deux sens avec marquage axial, circulation et lampadaires.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.55,
+        "largeur": 0.65,
+        "hauteur": 0.45
+      },
+      "lieu": "Bouaké, Côte d'Ivoire",
+      "note": "Chaussée claire, rectangle vérifié sur la partie roulée."
     }
   ]
 }

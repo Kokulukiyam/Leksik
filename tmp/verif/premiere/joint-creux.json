@@ -1,0 +1,53 @@
+{
+ "termId": "joint-creux",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Briques sombres avec joints blancs fins à plat (tuck pointing).",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Londres",
+   "note": "Joints blancs filants en relief ou à fleur, pas en retrait."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Mur de parpaings dans un local.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Joints non lisibles."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Mur de pierres brutes aux joints de mortier blanc piqués de trous.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Salzbourg, Autriche",
+   "note": "Joints en relief irrégulier, pas un joint creux."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Minaret de brique avec décor.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Chouchi",
+   "note": "Joints invisibles."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Briques orangées entourées d'un mortier épais.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Briques en retrait dans un mortier saillant : l'inverse du joint creux."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Parement de briques rouges et bleues avec joints fins sombres.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Saint-Louis, USA",
+   "note": "Profondeur du joint indécise, parement vieilli."
+  }
+ ]
+}

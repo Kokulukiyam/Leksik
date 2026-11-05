@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plutôt bordurette de massif."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bordure de séparation envahie de fleurs sauvages au bord d'une route courbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brunswick, Allemagne",
+      "note": "Bordure d'îlot masquée par la végétation, pas un trottoir clair."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Route courbe avec bordure bétonnée d'un séparateur central et ligne blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mashhad, Iran",
+      "note": "Plutôt terre-plein central, bordure petite et lointaine."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Dalle de trottoir en noir et blanc, bord vu de très près, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Marseille, France",
+      "note": "Image peu lisible, traitée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bordure abaissée en petits pavés au passage piéton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berne, Suisse",
+      "note": "Évoque le bateau de trottoir; bordure petite."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vue rasante d'une bordure en béton séparant un trottoir pavé de la chaussée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.38,
+        "largeur": 0.6,
+        "hauteur": 0.62
+      },
+      "lieu": "Pays-Bas",
+      "note": "Bloc de bordure net et dominant, rectangle vérifié."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Découpe de béton par une scie au pied d'une bordure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier confuse."
     }
   ]
 }

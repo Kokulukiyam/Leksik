@@ -1,0 +1,53 @@
+{
+  "termId": "ecran-sous-toiture",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Isolation de chambre froide, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Isolation de chambre froide, sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toiture-terrasse en membrane, pas un écran sous-toiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Toiture-terrasse en membrane, pas un écran sous-toiture."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Isolation en paille, pas d'écran lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Isolation en paille, pas d'écran lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pose de bardeaux autour d'une fenêtre de toit, pas d'écran.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Pose de bardeaux autour d'une fenêtre de toit, pas d'écran."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rouleau de membrane EPDM de toiture plate.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Rouleau de membrane EPDM de toiture plate."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison en chantier, trop petit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Maison en chantier, trop petit."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "panne-faitiere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Détail de charpente ancienne en noir et blanc, pannes non identifiables avec certitude.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Détail de charpente ancienne en noir et blanc, pannes non identifiables avec certitude."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Charpente avec pannes et chevrons, la panne faîtière n'est pas clairement isolée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Charpente avec pannes et chevrons, la panne faîtière n'est pas clairement isolée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Halle ouverte vue de loin, pannes non lisibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Halle ouverte vue de loin, pannes non lisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison à colombages, charpente invisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Maison à colombages, charpente invisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison à colombages, charpente invisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Maison à colombages, charpente invisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chalet, avant-toit seulement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Chalet, avant-toit seulement."
+    }
+  ]
+}

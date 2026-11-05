@@ -1,0 +1,58 @@
+{
+  "termId": "jardiniere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade en bois jaune avec fenêtres brunes, jardinières en bois fleuries fixées sous les fenêtres sur consoles.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.32,
+        "y": 0.71,
+        "largeur": 0.3,
+        "hauteur": 0.26
+      },
+      "lieu": "Côte des Érables, Canada",
+      "note": "Jardinière en saillie sous la baie, rectangle vérifié."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bruyère en bac derrière une pierre tombale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sankt Pölten, Autriche",
+      "note": "Pas intégrée à une façade."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gravure ancienne d'un planteur du Suriname.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, hors sujet (planteur)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bac en terre cuite d'herbes aromatiques sur un rebord de fenêtre, vu de l'intérieur, contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contre-jour, bac posé sur l'appui, façade non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bac en bois avec un banc de cinéma abîmé sur un trottoir pavé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Arnhem, Pays-Bas",
+      "note": "Installation d'art de rue, pas une jardinière de façade."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Charrette décorative en bois fleurie de soucis devant un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tallinn, Estonie",
+      "note": "Objet posé au sol, pas une jardinière de façade."
+    }
+  ]
+}

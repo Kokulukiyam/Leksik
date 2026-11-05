@@ -1,0 +1,53 @@
+{
+  "termId": "volige",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sous-face de toit en planches jointives sur chevrons, mais plancher/lambris ambigu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Sous-face de toit en planches jointives sur chevrons, mais plancher/lambris ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chantier de fondations béton, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Chantier de fondations béton, sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chantier béton, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Chantier béton, sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coffrage de pont, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Coffrage de pont, sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Coffrage mural, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Coffrage mural, sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Coffrage de poteaux, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Coffrage de poteaux, sans rapport."
+    }
+  ]
+}

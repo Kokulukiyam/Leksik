@@ -1,0 +1,53 @@
+{
+  "termId": "dalle-sur-plots",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Enseigne sur toit, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Enseigne sur toit, sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Terrasse en toit, plots et dalles non visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Terrasse en toit, plots et dalles non visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Terrasse ancienne en noir et blanc, revêtement non lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Terrasse ancienne en noir et blanc, revêtement non lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Terrasse balustrade lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Terrasse balustrade lointaine."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cour et terrasse lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Cour et terrasse lointaine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Toits de Paris, rien de lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Toits de Paris, rien de lisible."
+    }
+  ]
+}

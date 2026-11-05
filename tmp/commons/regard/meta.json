@@ -11,7 +11,11 @@
       "inspection chamber drain"
     ],
     "incompatibles": [
-      "tampon-de-regard"
+      "tampon-de-regard",
+      "puisard"
+    ],
+    "categoriesCommons": [
+      "Category:Manholes"
     ]
   },
   "candidats": [
@@ -154,6 +158,124 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/03._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG/1280px-03._Regard_de_Visite_-_Aqueduc_du_Gier_-_Mornant%2C_Parking_des_Bruy%C3%A8res.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4272,
       "hauteur": 2848
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Chittenden Avenue extension manhole at 340 Cabrini Blvd.jpg",
+      "description": "A freestanding manhole behind 340 Cabrini Boulevard in the Hudson Heights neighborhood of Upper Manhattan, New York City, along the route where an extension to Chittenden Avenue was intended to run. See File:Chittenden Avenue extension manholes.png",
+      "categories": [
+        "GFDL",
+        "Manholes",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "November 2020 in Manhattan, New York City",
+        "Chittenden Avenue (Manhattan)",
+        "Images by Beyond My Ken/Upper"
+      ],
+      "auteur": "Beyond My Ken",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chittenden_Avenue_extension_manhole_at_340_Cabrini_Blvd.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Chittenden_Avenue_extension_manhole_at_340_Cabrini_Blvd.jpg/1280px-Chittenden_Avenue_extension_manhole_at_340_Cabrini_Blvd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2849,
+      "hauteur": 2754
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Access chamber - photo 02.jpg",
+      "description": "telecommunication access chamber, Kościuszki Street, Włocławek, Poland",
+      "categories": [
+        "Manholes",
+        "Self-published work",
+        "Settlement infrastructure in Włocławek",
+        "Ulica Kościuszki, Włocławek"
+      ],
+      "auteur": "Jamzewsizazamcze Publikacja dozwolona pod warunkiem wskazania autora zdjęcia – np. przez oznaczenie (podpisanie) zdjęcia napisem „ fot. Jamzewsizazamcze / Wikipedia ”.",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Access_chamber_-_photo_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Access_chamber_-_photo_02.jpg/1280px-Access_chamber_-_photo_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:A glimpse inside the manhole (6833014166).jpg",
+      "description": "Kenya - Use of a Gulper in Kibera for mechanised pit emptying",
+      "categories": [
+        "Manholes",
+        "Kibera",
+        "Protective equipment",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in Kenya",
+        "Pit emptying"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_glimpse_inside_the_manhole_(6833014166).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/A_glimpse_inside_the_manhole_%286833014166%29.jpg/1280px-A_glimpse_inside_the_manhole_%286833014166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4320,
+      "hauteur": 3240
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:DN 2000 mit GfK-Gerinne mit Eiprofil.jpg",
+      "description": "DN 2000 mit GfK-Gerinne mit Eiprofil mit einem Höhenversatz von einem Meter",
+      "categories": [
+        "Manholes",
+        "Self-published work"
+      ],
+      "auteur": "MinT0007",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DN_2000_mit_GfK-Gerinne_mit_Eiprofil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/DN_2000_mit_GfK-Gerinne_mit_Eiprofil.jpg/1280px-DN_2000_mit_GfK-Gerinne_mit_Eiprofil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Belgická (Praha), rekonstrukce (016).jpg",
+      "description": "Reconstruction of Belgická Street in 2016. Prague, Czech Republic.",
+      "categories": [
+        "Czech Republic photographs taken on 2016-05-16",
+        "Manholes",
+        "Holes",
+        "Uploaded with VicuñaUploader",
+        "Files by Juandev",
+        "Files with coordinates missing SDC location of creation",
+        "Unidentified soils",
+        "Reconstruction of Belgická (Prague) in 2016",
+        "Cross sections of soils"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Belgick%C3%A1_(Praha),_rekonstrukce_(016).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Belgick%C3%A1_%28Praha%29%2C_rekonstrukce_%28016%29.jpg/1280px-Belgick%C3%A1_%28Praha%29%2C_rekonstrukce_%28016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2160,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bandicoot Robot - Converting manhole to robohole.jpg",
+      "description": "This picture symbollically shows the purpose of Bandicoot robot which it eliminates manual scavenging by converting manhole to robohole.",
+      "categories": [
+        "Manholes",
+        "Sketches",
+        "Self-published work",
+        "Robots in art",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Vivo Y21L"
+      ],
+      "auteur": "Prince mamman",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bandicoot_Robot_-_Converting_manhole_to_robohole.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Bandicoot_Robot_-_Converting_manhole_to_robohole.jpg/1280px-Bandicoot_Robot_-_Converting_manhole_to_robohole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2374,
+      "hauteur": 864
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

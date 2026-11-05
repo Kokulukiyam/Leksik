@@ -1,0 +1,53 @@
+{
+  "termId": "couverture-en-zinc",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petites maisons à toit cintré, matériau incertain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Petites maisons à toit cintré, matériau incertain."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sous-face de toiture cintrée en tôle, pas du zinc à joints debout.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Sous-face de toiture cintrée en tôle, pas du zinc à joints debout."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détail de tôle sans contexte de couverture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Détail de tôle sans contexte de couverture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier sur nacelle, couverture en tôle sans joint debout lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Ouvrier sur nacelle, couverture en tôle sans joint debout lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pose de tôle nervurée blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Pose de tôle nervurée blanche."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble avec toits sombres, zinc non démontrable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Immeuble avec toits sombres, zinc non démontrable."
+    }
+  ]
+}

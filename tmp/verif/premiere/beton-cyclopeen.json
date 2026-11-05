@@ -1,0 +1,53 @@
+{
+  "termId": "beton-cyclopeen",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Conteneur bleu avec évier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo ancienne en noir et blanc d'un ouvrier sur un barrage en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wheeler Dam",
+      "note": "Pas de gros blocs noyés visibles, image ancienne."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur et gradins en béton banché sous mousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton banché, pas cyclopéen."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Traces de chaussures sur sol en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Béton frais dans une brouette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton ordinaire, pas de gros blocs."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Homme assis près d'un conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

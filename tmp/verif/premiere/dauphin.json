@@ -1,0 +1,53 @@
+{
+  "termId": "dauphin",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Balcon colonial, sans dauphin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Balcon colonial, sans dauphin."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poisson de cuivre sur descente, forme de dauphin décoratif mais placé en haut de descente : ambigu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Poisson de cuivre sur descente, forme de dauphin décoratif mais placé en haut de descente : ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chéneau de rue, sans dauphin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Chéneau de rue, sans dauphin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur et toit, sans dauphin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Mur et toit, sans dauphin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gravure, pas une photo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Gravure, pas une photo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Descente en pointe de bâtiment moderne, pas un dauphin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Descente en pointe de bâtiment moderne, pas un dauphin."
+    }
+  ]
+}

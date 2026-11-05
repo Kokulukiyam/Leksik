@@ -1,0 +1,63 @@
+{
+  "termId": "pignon-a-redents",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pignon en pierre sombre et bandeaux blancs, rampants découpés en gradins, avec une fenêtre au centre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.04,
+        "largeur": 0.83,
+        "hauteur": 0.52
+      },
+      "lieu": "",
+      "note": "Gradins nets sur les deux rampants, rectangle vérifié."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cathédrale gothique rayée de marbre, flèches et pinacles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sienne, Italie",
+      "note": "Pignons triangulaires, pas à redents."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand bâtiment ocre avec pignon à gradins, œil-de-bœuf et galerie à toit de tuiles.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.58,
+        "y": 0.06,
+        "largeur": 0.34,
+        "hauteur": 0.45
+      },
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Pignon à redents bien lisible, rectangle vérifié."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison blanche et verte avec deux pignons à gradins et balcons arrondis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Valable mais deux pignons et balcons dominants ; non retenue (2 meilleures déjà)."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison bretonne avec lucarnes à pignons triangulaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Plouguerneau, France",
+      "note": "Pignons à rampants lisses."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Église en brique avec tour et pignon à gradins en partie masqué.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brisbane, Australie",
+      "note": "Gradins petits, vue confuse."
+    }
+  ]
+}

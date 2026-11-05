@@ -1,0 +1,53 @@
+{
+  "termId": "blindage-de-fouille",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Clocher et église étayée par échafaudage après séisme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vigarano Mainarda",
+      "note": "Étaiement de bâtiment, pas de fouille."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Veaux sur une pente herbeuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Géorgie",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Colonnes antiques étayées par des tiges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pompéi",
+      "note": "Étaiement de colonne."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Soldats dans une tranchée militaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranchée militaire, pas de blindage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gravure d'une taverne étayée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne de femmes soldats dans une tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France 1918",
+      "note": "Tranchée militaire sans blindage."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "bardeau-bitume",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sous-face de toit en bois, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Sous-face de toit en bois, sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toit vert en tôle ou caoutchouc, vu du dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Toit vert en tôle ou caoutchouc, vu du dessus."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Carte postale ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Carte postale ancienne."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bardeaux de bois (cèdre), pas du bitume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Bardeaux de bois (cèdre), pas du bitume."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bardeau en bois et en métal posés sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Bardeau en bois et en métal posés sur une table."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Auberge à toit en tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Auberge à toit en tuiles."
+    }
+  ]
+}

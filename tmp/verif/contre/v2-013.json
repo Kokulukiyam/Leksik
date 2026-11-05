@@ -1,0 +1,227 @@
+[
+  {
+    "cle": "benne-a-beton/03",
+    "accord": true,
+    "raison": "Benne à béton conique orange avec trappe et volant de commande, posée sur chantier : objet net et dominant."
+  },
+  {
+    "cle": "benne-a-beton/06",
+    "accord": true,
+    "raison": "Benne à béton suspendue au câble de grue en train de déverser le béton : illustration typique et claire."
+  },
+  {
+    "cle": "talocheuse-mecanique/01",
+    "accord": true,
+    "raison": "Talocheuse mécanique (hélicoptère) à moteur et anneau de protection sur dalle fraîche, manche visible : sans ambiguïté."
+  },
+  {
+    "cle": "talocheuse-mecanique/03",
+    "accord": true,
+    "raison": "Talocheuse mécanique en action sur béton frais, pales et anneau bien visibles, opérateur au manche."
+  },
+  {
+    "cle": "talocheuse-mecanique/04",
+    "accord": true,
+    "raison": "Talocheuse mécanique rouge à long manche posée sur une dalle, pales visibles : objet dominant et clair."
+  },
+  {
+    "cle": "scie-sauteuse/01",
+    "accord": true,
+    "raison": "Gros plan d'une scie sauteuse en coupe, semelle et lame étroite verticale bien visibles : sans ambiguïté."
+  },
+  {
+    "cle": "scie-sauteuse/04",
+    "accord": true,
+    "raison": "Rectangle bien ajusté sur une scie sauteuse Black & Decker (semelle, porte-lame), les serre-joints voisins restent hors du cadre."
+  },
+  {
+    "cle": "scie-sauteuse/05",
+    "accord": true,
+    "raison": "Scie sauteuse DeWalt de profil sur fond neutre, semelle et carter de lame typiques : objet dominant."
+  },
+  {
+    "cle": "tronconneuse/01",
+    "accord": true,
+    "raison": "Tronçonneuse thermique avec guide et chaîne dentée bien visibles, posée sur une souche : illustration nette."
+  },
+  {
+    "cle": "carotteuse/01",
+    "accord": true,
+    "raison": "Carotteuse sur colonne fixée au mur, couronne diamantée cylindrique en perçage du mur : sans ambiguïté."
+  },
+  {
+    "cle": "carotteuse/05",
+    "accord": true,
+    "raison": "Carotteuse sur bâti fixé au mur avec grosse couronne cylindrique, opérateur au travail : machine clairement identifiable."
+  },
+  {
+    "cle": "rabot/05",
+    "accord": true,
+    "raison": "Rabot de menuisier en bois de profil, fût, coin et lumière de lame visibles : outil clairement identifiable."
+  },
+  {
+    "cle": "rabot/06",
+    "accord": true,
+    "raison": "Rabot ancien en bois à poignée avant et coin de lame : forme typique du rabot, aucun autre outil de la liste possible."
+  },
+  {
+    "cle": "chaussures-de-securite/10",
+    "accord": true,
+    "raison": "Paire de chaussures de sécurité Elten (embout renforcé, semelle crantée), le chausse-pied ne prête pas à confusion avec un terme de la liste."
+  },
+  {
+    "cle": "gants-de-travail/07",
+    "accord": true,
+    "raison": "Paire de gants de travail en cuir usés posés à plat : objet dominant et sans ambiguïté."
+  },
+  {
+    "cle": "gants-de-travail/11",
+    "accord": true,
+    "raison": "Paire de gants de travail en cuir Kinco sur fond clair : illustration nette du terme."
+  },
+  {
+    "cle": "casque-anti-bruit/01",
+    "accord": true,
+    "raison": "Rangée de casques anti-bruit Peltor/3M (coquilles et arceaux) sur une étagère : sans ambiguïté."
+  },
+  {
+    "cle": "casque-anti-bruit/02",
+    "accord": true,
+    "raison": "Casque anti-bruit Husqvarna isolé sur fond blanc, coquilles et arceau bien visibles."
+  },
+  {
+    "cle": "dalle-engazonnee/03",
+    "accord": true,
+    "raison": "Gros plan de dalles en béton ajourées d'alvéoles végétalisées : l'élément dalle engazonnée est dominant et sans équivalent dans la liste."
+  },
+  {
+    "cle": "dalle-engazonnee/04",
+    "accord": true,
+    "raison": "Rectangle sur un sol de dalles béton alvéolées où pousse l'herbe, devant un parking : illustration claire."
+  },
+  {
+    "cle": "pas-japonais/04",
+    "accord": true,
+    "raison": "Rectangle bien placé sur une file de dalles rondes espacées posées dans la pelouse : pas japonais typiques."
+  },
+  {
+    "cle": "bassin-de-retention/02",
+    "accord": true,
+    "raison": "Bassin à ciel ouvert à parois béton fermé aux extrémités, avec panneau risque de noyade : bassin de rétention lisible."
+  },
+  {
+    "cle": "terre-plein-central/02",
+    "accord": true,
+    "raison": "Bande engazonnée surélevée séparant les deux sens de circulation d'une avenue, dans l'axe de la photo : sans ambiguïté."
+  },
+  {
+    "cle": "concertina/01",
+    "accord": true,
+    "raison": "Rouleaux de fil à lames tranchantes en spirales devant une clôture, lames bien visibles : concertina et non simple barbelé."
+  },
+  {
+    "cle": "concertina/03",
+    "accord": true,
+    "raison": "Spirales de ruban à lames déployées en haut d'une clôture, nettes sur le ciel : concertina clairement identifiable."
+  },
+  {
+    "cle": "cloture-en-bois/03",
+    "accord": true,
+    "raison": "Rectangle sur une clôture de lattes de bois clouées sur une lisse et des poteaux, au premier plan : sans ambiguïté."
+  },
+  {
+    "cle": "cloture-en-bois/04",
+    "accord": true,
+    "raison": "Rectangle sur une clôture rustique en rondins de bois tenus par des poteaux : clôture en bois nette."
+  },
+  {
+    "cle": "barbacane/04",
+    "accord": true,
+    "raison": "Rectangle serré sur un trou d'évacuation en pied de mur de soutènement, parmi d'autres barbacanes identiques : terme juste."
+  },
+  {
+    "cle": "barbacane/06",
+    "accord": true,
+    "raison": "Rectangle sur un tuyau traversant un mur de soutènement en béton d'où s'écoule l'eau : barbacane typique, bien cadrée."
+  },
+  {
+    "cle": "grille-d-arbre/03",
+    "accord": true,
+    "raison": "Rectangle sur la grille métallique ajourée posée au pied d'un arbre de trottoir pavé : sans ambiguïté."
+  },
+  {
+    "cle": "aire-de-jeux/01",
+    "accord": true,
+    "raison": "Espace avec toboggans et structures de jeu sur copeaux amortissants, clôturé : aire de jeux claire."
+  },
+  {
+    "cle": "aire-de-jeux/05",
+    "accord": true,
+    "raison": "Balançoires, jeux à ressort et barrière colorée sur sol amortissant dans un square : aire de jeux évidente."
+  },
+  {
+    "cle": "guerite/06",
+    "accord": true,
+    "raison": "Rectangle sur une guérite de sentinelle occupée par un garde, à l'entrée d'un palais : terme juste et bien cadré."
+  },
+  {
+    "cle": "echelle-de-piscine/06",
+    "accord": true,
+    "raison": "Rectangle sur les montants en tube inox recourbés d'une échelle au bord d'un bassin : échelle de piscine reconnaissable."
+  },
+  {
+    "cle": "facade-ventilee/04",
+    "accord": true,
+    "raison": "Panneau de parement manquant révélant l'ossature, l'isolant et la grille de ventilation derrière la lame d'air : façade ventilée explicite."
+  },
+  {
+    "cle": "facade-ventilee/05",
+    "accord": true,
+    "raison": "Rectangle sur des plaques de pierre fixées par agrafes à distance de l'isolant, chantier en cours : principe de façade ventilée lisible."
+  },
+  {
+    "cle": "chaine-d-angle/02",
+    "accord": true,
+    "raison": "Rectangle sur l'angle d'un bâtiment à blocs de pierre alternés en harpe : chaîne d'angle sans ambiguïté."
+  },
+  {
+    "cle": "chaine-d-angle/04",
+    "accord": true,
+    "raison": "Rectangle sur une chaîne d'angle en pierres alternées sur mur enduit, bien cadrée ; le petit filigrane de l'appareil photo ne gêne pas."
+  },
+  {
+    "cle": "baie-geminee/01",
+    "accord": true,
+    "raison": "Rectangle sur deux baies en arc brisé accolées séparées par une colonnette à chapiteau : baie géminée exemplaire."
+  },
+  {
+    "cle": "baie-geminee/05",
+    "accord": true,
+    "raison": "Rectangle sur une paire de baies trilobées séparées par une colonnette, la seconde paire restant hors cadre : sans ambiguïté."
+  },
+  {
+    "cle": "baie-d-angle/05",
+    "accord": true,
+    "raison": "Rectangle sur une fenêtre qui se retourne sur l'angle d'un bâtiment en brique, sans trumeau à l'angle : baie d'angle lisible."
+  },
+  {
+    "cle": "meurtriere/02",
+    "accord": true,
+    "raison": "Fente verticale très étroite à orifice rond dans un mur de pierre épais : meurtrière (type canonnière) bien visible."
+  },
+  {
+    "cle": "meurtriere/05",
+    "accord": true,
+    "raison": "Gros plan d'une fente de tir verticale à orifice circulaire dans un appareil de pierre : meurtrière sans ambiguïté."
+  },
+  {
+    "cle": "soupirail/05",
+    "accord": true,
+    "raison": "Rectangle sur une ouverture grillagée au ras du trottoir dans le soubassement, éclairant une cave : soupirail typique."
+  },
+  {
+    "cle": "vitrage-agrafe/02",
+    "accord": false,
+    "raison": "Façade vitrée où dominent de nombreuses lames blanches horizontales en saillie, lisibles comme brise-soleil horizontal ; les fixations ponctuelles du vitrage agrafé ne sont pas discernables."
+  }
+]

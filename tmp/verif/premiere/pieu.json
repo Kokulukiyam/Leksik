@@ -1,0 +1,53 @@
+{
+  "termId": "pieu",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Balles d'ensilage blanches empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Holma, Suède",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grand plan d'eau avec quelques poteaux, bâtiments au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haparanda",
+      "note": "Pas de pieu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Balles d'ensilage blanches empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Holma, Suède",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fouille inondée avec poteaux au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haparanda",
+      "note": "Pieux non lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vélos BMX garés dans une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Osaka",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grande fouille avec palplanches rouillées, armatures en attente et petits plots de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam",
+      "note": "Palplanches au premier plan, pas de tête de pieu claire."
+    }
+  ]
+}

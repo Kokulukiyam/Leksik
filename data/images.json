@@ -2465,6 +2465,32 @@
     "note": "Vérification : Palans clairement identifiables, étiquette technique sans lien avec la réponse. Contre-vérification : Photo produit de palans à levier et à chaîne avec crochets et chaînes ; clairement des palans."
   },
   {
+    "id": "benne-a-beton-03",
+    "termId": "benne-a-beton",
+    "fichier": "commons/benne-a-beton-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Leo Miregalitheo",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Betonkrank%C3%BCbel_mit_Blumen_usw.jpg",
+    "statut": "validée",
+    "note": "Vérification : Seau conique à trappe, anneau de suspension, très lisible. Contre-vérification : Benne à béton conique orange avec trappe et volant de commande, posée sur chantier : objet net et dominant."
+  },
+  {
+    "id": "benne-a-beton-06",
+    "termId": "benne-a-beton",
+    "fichier": "commons/benne-a-beton-06.webp",
+    "rectangle": null,
+    "lieu": "Harold Interlocking, New York",
+    "source": "commons",
+    "auteur": "MTA Capital Construction Mega Projects",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Placing_the_mud_mat_in_the_final_approach_structure_in_Harold_Interlocking._11-13-2019_(49070775026).jpg",
+    "statut": "validée",
+    "note": "Vérification : Benne suspendue au crochet avec trappe en bas, claire et dominante. Contre-vérification : Benne à béton suspendue au câble de grue en train de déverser le béton : illustration typique et claire."
+  },
+  {
     "id": "truelle-06",
     "termId": "truelle",
     "fichier": "commons/truelle-06.webp",
@@ -2698,6 +2724,45 @@
     "note": "Vérification : Usage maçon évident, élément dominant. Contre-vérification : Plomb suspendu à une ficelle devant un mur de briques, usage évident."
   },
   {
+    "id": "talocheuse-mecanique-01",
+    "termId": "talocheuse-mecanique",
+    "fichier": "commons/talocheuse-mecanique-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Fumikas Sagisavas",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Hand-push_electric_concrete_trowel.jpg",
+    "statut": "validée",
+    "note": "Vérification : Machine entière, pales protégées par l'anneau, claire. Contre-vérification : Talocheuse mécanique (hélicoptère) à moteur et anneau de protection sur dalle fraîche, manche visible : sans ambiguïté."
+  },
+  {
+    "id": "talocheuse-mecanique-03",
+    "termId": "talocheuse-mecanique",
+    "fichier": "commons/talocheuse-mecanique-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Jamain",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Concrete_polishing_machine_J1.JPG",
+    "statut": "validée",
+    "note": "Vérification : Machine dominante, anneau de protection net. Contre-vérification : Talocheuse mécanique en action sur béton frais, pales et anneau bien visibles, opérateur au manche."
+  },
+  {
+    "id": "talocheuse-mecanique-04",
+    "termId": "talocheuse-mecanique",
+    "fichier": "commons/talocheuse-mecanique-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Inconnu",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Zacieraczka_do_betonu.JPG",
+    "statut": "validée",
+    "note": "Vérification : Machine isolée et nette. Contre-vérification : Talocheuse mécanique rouge à long manche posée sur une dalle, pales visibles : objet dominant et clair."
+  },
+  {
     "id": "aiguille-vibrante-06",
     "termId": "aiguille-vibrante",
     "fichier": "commons/aiguille-vibrante-06.webp",
@@ -2796,6 +2861,63 @@
     "note": "Vérification : Poste net de face, rectangle exclut le panneau de dessins au-dessus. Contre-vérification : Poste à souder Electra (bornes porte-électrode et masse, réglage d'ampérage) bien cadré ; terme juste."
   },
   {
+    "id": "scie-sauteuse-01",
+    "termId": "scie-sauteuse",
+    "fichier": "commons/scie-sauteuse-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Oxensepp sur Wikipédia allemand",
+    "licence": "CC BY-SA 2.0 de",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Festo-ps300eq-betrieb.jpg",
+    "statut": "validée",
+    "note": "Vérification : Semelle, lame verticale et corps de l'outil visibles ; usage typique. Contre-vérification : Gros plan d'une scie sauteuse en coupe, semelle et lame étroite verticale bien visibles : sans ambiguïté."
+  },
+  {
+    "id": "scie-sauteuse-04",
+    "termId": "scie-sauteuse",
+    "fichier": "commons/scie-sauteuse-04.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.15,
+      "largeur": 0.41,
+      "hauteur": 0.62
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Mgraves7452",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Items_Mgraves7452.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la scie pour la distinguer des serre-joints et du parpaing. Contre-vérification : Rectangle bien ajusté sur une scie sauteuse Black & Decker (semelle, porte-lame), les serre-joints voisins restent hors du cadre."
+  },
+  {
+    "id": "scie-sauteuse-05",
+    "termId": "scie-sauteuse",
+    "fichier": "commons/scie-sauteuse-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "National Institute for Occupational Safety and Health",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:DeWalt_DW318_unloaded.jpg",
+    "statut": "validée",
+    "note": "Vérification : Outil isolé, net, dominant ; seule la date incrustée est parasite. Contre-vérification : Scie sauteuse DeWalt de profil sur fond neutre, semelle et carter de lame typiques : objet dominant."
+  },
+  {
+    "id": "tronconneuse-01",
+    "termId": "tronconneuse",
+    "fichier": "commons/tronconneuse-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Verdealberi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Blocco_catena_motosega_per_wiki5.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tronçonneuse à moteur thermique, claire, nette et dominante. Contre-vérification : Tronçonneuse thermique avec guide et chaîne dentée bien visibles, posée sur une souche : illustration nette."
+  },
+  {
     "id": "perceuse-04",
     "termId": "perceuse",
     "fichier": "commons/perceuse-04.webp",
@@ -2856,6 +2978,58 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:2013_Construction_Day_-_Busted_(8777584898).jpg",
     "statut": "validée",
     "note": "Vérification : Marteau-piqueur pneumatique clair, flexible d'air visible ; rectangle sur l'outil. Contre-vérification : Marteau-piqueur pneumatique avec flexible d'air, pic sur des blocs de béton, bien cadré ; juste."
+  },
+  {
+    "id": "carotteuse-01",
+    "termId": "carotteuse",
+    "fichier": "commons/carotteuse-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Costantino Figini",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Azione_1_carotatrice_stazionaria.jpg",
+    "statut": "validée",
+    "note": "Vérification : Couronne et machine bien visibles, usage typique. Contre-vérification : Carotteuse sur colonne fixée au mur, couronne diamantée cylindrique en perçage du mur : sans ambiguïté."
+  },
+  {
+    "id": "carotteuse-05",
+    "termId": "carotteuse",
+    "fichier": "commons/carotteuse-05.webp",
+    "rectangle": null,
+    "lieu": "Tirupur, Tamil Nadu, Inde",
+    "source": "commons",
+    "auteur": "PJeganathan",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Core_drill_in_action_IMG_20201029_165313188.jpg",
+    "statut": "validée",
+    "note": "Vérification : Machine à couronne en action sur un mur, lisible. Contre-vérification : Carotteuse sur bâti fixé au mur avec grosse couronne cylindrique, opérateur au travail : machine clairement identifiable."
+  },
+  {
+    "id": "rabot-05",
+    "termId": "rabot",
+    "fichier": "commons/rabot-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Superbass",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2016-07-17-Holzhobel-5997.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rabot en bois classique, isolé et net. Contre-vérification : Rabot de menuisier en bois de profil, fût, coin et lumière de lame visibles : outil clairement identifiable."
+  },
+  {
+    "id": "rabot-06",
+    "termId": "rabot",
+    "fichier": "commons/rabot-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Monsatorum",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2022-11-02_10_Hobel.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rabot en bois à moulure, bien visible, fer et fût identifiables. Contre-vérification : Rabot ancien en bois à poignée avant et coin de lame : forme typique du rabot, aucun autre outil de la liste possible."
   },
   {
     "id": "metre-ruban-01",
@@ -2993,6 +3167,19 @@
     "note": "Vérification : Chaussure de sécurité montante à embout, nette sur fond clair. Contre-vérification : Chaussures montantes à coque renforcée et semelle crantée de sécurité, claires."
   },
   {
+    "id": "chaussures-de-securite-10",
+    "termId": "chaussures-de-securite",
+    "fichier": "commons/chaussures-de-securite-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Francis Flinch",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Heavy_duty_long_stainless_steel_shoehorn_and_ISO_203452004_compliant_S3_safety_shoe_and_boot.jpg",
+    "statut": "validée",
+    "note": "Vérification : Coques de bout renforcées visibles, semelles épaisses ; le chausse-pied gêne un peu mais reste secondaire. Contre-vérification : Paire de chaussures de sécurité Elten (embout renforcé, semelle crantée), le chausse-pied ne prête pas à confusion avec un terme de la liste."
+  },
+  {
     "id": "gants-de-travail-06",
     "termId": "gants-de-travail",
     "fichier": "commons/gants-de-travail-06.webp",
@@ -3004,6 +3191,58 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Chainsaw_gloves.JPG",
     "statut": "validée",
     "note": "Vérification : Gants de protection manuelle nets et dominants (modèle forestier mais gants de travail en cuir). Contre-vérification : Paire de gants de travail en cuir et tissu, claire et dominante."
+  },
+  {
+    "id": "gants-de-travail-07",
+    "termId": "gants-de-travail",
+    "fichier": "commons/gants-de-travail-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "el cajon yacht club",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cowhide_leather_gloves_P1000271.jpg",
+    "statut": "validée",
+    "note": "Vérification : Gants de travail en cuir typiques, bien visibles. Contre-vérification : Paire de gants de travail en cuir usés posés à plat : objet dominant et sans ambiguïté."
+  },
+  {
+    "id": "gants-de-travail-11",
+    "termId": "gants-de-travail",
+    "fichier": "commons/gants-de-travail-11.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "el cajon yacht club",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gloves_-_39166200954.jpg",
+    "statut": "validée",
+    "note": "Vérification : Gants de travail en cuir, nets et dominants. Contre-vérification : Paire de gants de travail en cuir Kinco sur fond clair : illustration nette du terme."
+  },
+  {
+    "id": "casque-anti-bruit-01",
+    "termId": "casque-anti-bruit",
+    "fichier": "commons/casque-anti-bruit-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "JiriMatejicek",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Peltor_earmuffs.jpg",
+    "statut": "validée",
+    "note": "Vérification : Objet net, dominant, sans ambiguïté. Contre-vérification : Rangée de casques anti-bruit Peltor/3M (coquilles et arceaux) sur une étagère : sans ambiguïté."
+  },
+  {
+    "id": "casque-anti-bruit-02",
+    "termId": "casque-anti-bruit",
+    "fichier": "commons/casque-anti-bruit-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Canon 70-200mm f/2.8 L",
+    "licence": "GFDL 1.2",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ear_muff_white_bg.jpg",
+    "statut": "validée",
+    "note": "Vérification : Objet isolé, net et typique. Contre-vérification : Casque anti-bruit Husqvarna isolé sur fond blanc, coquilles et arceau bien visibles."
   },
   {
     "id": "station-totale-05",
@@ -3121,6 +3360,55 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:The_way_-_Flickr_-_TheAlieness_GiselaGiardino%C2%B2%C2%B3.jpg",
     "statut": "validée",
     "note": "Vérification : Pavés de pierre bien visibles et dominants ; image un peu sombre et saturée. Contre-vérification : Revêtement de pavés de granit cubiques juxtaposés, en gros plan : le pavé, clairement distinct du pavé autobloquant."
+  },
+  {
+    "id": "dalle-engazonnee-03",
+    "termId": "dalle-engazonnee",
+    "fichier": "commons/dalle-engazonnee-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Cliffscherer",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Rasengitterstein_Boeschung.jpg",
+    "statut": "validée",
+    "note": "Vérification : Dalle alvéolée en béton végétalisée, claire. Contre-vérification : Gros plan de dalles en béton ajourées d'alvéoles végétalisées : l'élément dalle engazonnée est dominant et sans équivalent dans la liste."
+  },
+  {
+    "id": "dalle-engazonnee-04",
+    "termId": "dalle-engazonnee",
+    "fichier": "commons/dalle-engazonnee-04.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.6,
+      "largeur": 1,
+      "hauteur": 0.4
+    },
+    "lieu": "Bochum, Allemagne",
+    "source": "commons",
+    "auteur": "Frank Vincentz",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob%2BHauptfeuerwache%2BArnold_01_ies.jpg",
+    "statut": "validée",
+    "note": "Vérification : Surface de dalles alvéolées engazonnées bien visible. Contre-vérification : Rectangle sur un sol de dalles béton alvéolées où pousse l'herbe, devant un parking : illustration claire."
+  },
+  {
+    "id": "pas-japonais-04",
+    "termId": "pas-japonais",
+    "fichier": "commons/pas-japonais-04.webp",
+    "rectangle": {
+      "x": 0.56,
+      "y": 0.6,
+      "largeur": 0.36,
+      "hauteur": 0.4
+    },
+    "lieu": "Lodi Garden, New Delhi, Inde",
+    "source": "commons",
+    "auteur": "Daderot",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lodi_Garden_-_dawn_3_Sep_2010-1.JPG",
+    "statut": "validée",
+    "note": "Vérification : Dalles isolées posées dans le gazon, bien lisibles ; rectangle sur le cheminement. Contre-vérification : Rectangle bien placé sur une file de dalles rondes espacées posées dans la pelouse : pas japonais typiques."
   },
   {
     "id": "allee-01",
@@ -3250,6 +3538,19 @@
     "note": "Vérification : Tuyaux béton cylindriques évidents ; photo ancienne en noir et blanc. Contre-vérification : Photo réelle d'un énorme tuyau cylindrique en béton avec un ouvrier à l'intérieur pour l'échelle : buse béton lisible."
   },
   {
+    "id": "bassin-de-retention-02",
+    "termId": "bassin-de-retention",
+    "fichier": "commons/bassin-de-retention-02.webp",
+    "rectangle": null,
+    "lieu": "Lille-Lomme, France",
+    "source": "commons",
+    "auteur": "Velvet",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lille_lomme_bassin_rue_lompret.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bassin de rétention en béton, lisible. Contre-vérification : Bassin à ciel ouvert à parois béton fermé aux extrémités, avec panneau risque de noyade : bassin de rétention lisible."
+  },
+  {
     "id": "dos-d-ane-05",
     "termId": "dos-d-ane",
     "fichier": "commons/dos-d-ane-05.webp",
@@ -3315,6 +3616,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Amboy_(California,_USA),_Hist._Route_66_--_2012_--_1.jpg",
     "statut": "validée",
     "note": "Vérification : Marquage au sol clair (ligne axiale, rive et signes peints), plein cadre. Contre-vérification : Lignes jaunes et blanches et logos Route 66 peints sur la chaussée, le marquage est le sujet évident."
+  },
+  {
+    "id": "terre-plein-central-02",
+    "termId": "terre-plein-central",
+    "fichier": "commons/terre-plein-central-02.webp",
+    "rectangle": null,
+    "lieu": "Canandaigua, États-Unis",
+    "source": "commons",
+    "auteur": "Daniel Case",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Downtown_Canandaigua,_NY.jpg",
+    "statut": "validée",
+    "note": "Vérification : Terre-plein central très clair. Contre-vérification : Bande engazonnée surélevée séparant les deux sens de circulation d'une avenue, dans l'axe de la photo : sans ambiguïté."
   },
   {
     "id": "potelet-03",
@@ -3576,6 +3890,32 @@
     "note": "Vérification : Torsade et pointes bien visibles. Contre-vérification : Gros plan d'un nœud de barbelé torsadé avec ses pointes, givré, très lisible."
   },
   {
+    "id": "concertina-01",
+    "termId": "concertina",
+    "fichier": "commons/concertina-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "US Air Force from USA",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Airmen_maintain_base_security_(11737198885).jpg",
+    "statut": "validée",
+    "note": "Vérification : Fil à lames en spirales clairement visible. Contre-vérification : Rouleaux de fil à lames tranchantes en spirales devant une clôture, lames bien visibles : concertina et non simple barbelé."
+  },
+  {
+    "id": "concertina-03",
+    "termId": "concertina",
+    "fichier": "commons/concertina-03.webp",
+    "rectangle": null,
+    "lieu": "Istanbul, Turquie",
+    "source": "commons",
+    "auteur": "Mark Ahsmann",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:20131207_Istanbul_119.jpg",
+    "statut": "validée",
+    "note": "Vérification : Spires de fil à lames nettes et dominantes. Contre-vérification : Spirales de ruban à lames déployées en haut d'une clôture, nettes sur le ciel : concertina clairement identifiable."
+  },
+  {
     "id": "cloture-grillagee-05",
     "termId": "cloture-grillagee",
     "fichier": "commons/cloture-grillagee-05.webp",
@@ -3587,6 +3927,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:20200408_newspaper_chain-link_fence.jpg",
     "statut": "validée",
     "note": "Vérification : Grillage, poteau et fil tendeur nets ; le journal est secondaire. Contre-vérification : Grillage simple torsion tendu entre poteaux, sujet dominant malgré un journal accroché."
+  },
+  {
+    "id": "cloture-en-bois-03",
+    "termId": "cloture-en-bois",
+    "fichier": "commons/cloture-en-bois-03.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.52,
+      "largeur": 1,
+      "hauteur": 0.48
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Guglisa",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:A_Nice_House_Of_The_Tree.jpg",
+    "statut": "validée",
+    "note": "Vérification : Clôture à piquets de bois claire ; rectangle sur la clôture. Contre-vérification : Rectangle sur une clôture de lattes de bois clouées sur une lisse et des poteaux, au premier plan : sans ambiguïté."
+  },
+  {
+    "id": "cloture-en-bois-04",
+    "termId": "cloture-en-bois",
+    "fichier": "commons/cloture-en-bois-04.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.48,
+      "largeur": 1,
+      "hauteur": 0.23
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Erik Koblence",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:500px_photo_(168191751).jpeg",
+    "statut": "validée",
+    "note": "Vérification : Clôture de rondins en bois lisible, rectangle sur la clôture. Contre-vérification : Rectangle sur une clôture rustique en rondins de bois tenus par des poteaux : clôture en bois nette."
   },
   {
     "id": "haie-03",
@@ -3623,6 +3999,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Cars_parked_in_Arewa_House.jpg",
     "statut": "validée",
     "note": "Vérification : Haie taillée nette, bien encadrée. Contre-vérification : Haie basse d'arbustes taillés serrés le long d'un parking, dominante dans le rectangle."
+  },
+  {
+    "id": "barbacane-04",
+    "termId": "barbacane",
+    "fichier": "commons/barbacane-04.webp",
+    "rectangle": {
+      "x": 0.87,
+      "y": 0.6,
+      "largeur": 0.06,
+      "hauteur": 0.1
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Bertbau",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:BW-Fertigteilankerwand.jpg",
+    "statut": "validée",
+    "note": "Vérification : Barbacanes nettes ; rectangle sur une seule pour lever le doute. Contre-vérification : Rectangle serré sur un trou d'évacuation en pied de mur de soutènement, parmi d'autres barbacanes identiques : terme juste."
+  },
+  {
+    "id": "barbacane-06",
+    "termId": "barbacane",
+    "fichier": "commons/barbacane-06.webp",
+    "rectangle": {
+      "x": 0.45,
+      "y": 0.3,
+      "largeur": 0.12,
+      "hauteur": 0.09
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Eurico Zimbres",
+    "licence": "CC BY-SA 2.5",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Concrete_wall_drainage.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tuyau de drainage évacuant l'eau du mur ; rectangle sur le tuyau (les blocs sombres peuvent distraire). Contre-vérification : Rectangle sur un tuyau traversant un mur de soutènement en béton d'où s'écoule l'eau : barbacane typique, bien cadrée."
   },
   {
     "id": "gabion-03",
@@ -3674,6 +4086,24 @@
     "note": "Vérification : Structure à poteaux et poutres couverte de glycine; rectangle sur la pergola. Contre-vérification : Structure de poteaux et poutres couverte de glycine au-dessus d'une terrasse avec tables : pergola dominante dans le rectangle."
   },
   {
+    "id": "grille-d-arbre-03",
+    "termId": "grille-d-arbre",
+    "fichier": "commons/grille-d-arbre-03.webp",
+    "rectangle": {
+      "x": 0.28,
+      "y": 0.6,
+      "largeur": 0.6,
+      "hauteur": 0.32
+    },
+    "lieu": "Helsinki, Finlande",
+    "source": "commons",
+    "auteur": "Eric Fischer",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Metal_tree_support_(42111428122).jpg",
+    "statut": "validée",
+    "note": "Vérification : Grille d'arbre typique et claire. Contre-vérification : Rectangle sur la grille métallique ajourée posée au pied d'un arbre de trottoir pavé : sans ambiguïté."
+  },
+  {
     "id": "pelouse-05",
     "termId": "pelouse",
     "fichier": "commons/pelouse-05.webp",
@@ -3690,6 +4120,50 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Banga_Plaza_td_(2019-12-17)_02.jpg",
     "statut": "validée",
     "note": "Vérification : Gazon ras net au premier plan; rectangle sur la pelouse. Contre-vérification : Grande surface de gazon court tondu occupant le rectangle : pelouse."
+  },
+  {
+    "id": "aire-de-jeux-01",
+    "termId": "aire-de-jeux",
+    "fichier": "commons/aire-de-jeux-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Rept0n1x",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Benkid77_Picnic_Bench_280605.JPG",
+    "statut": "validée",
+    "note": "Vérification : Aire de jeux claire. Contre-vérification : Espace avec toboggans et structures de jeu sur copeaux amortissants, clôturé : aire de jeux claire."
+  },
+  {
+    "id": "aire-de-jeux-05",
+    "termId": "aire-de-jeux",
+    "fichier": "commons/aire-de-jeux-05.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Jusotil_1943",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:C150317_(33456177375).jpg",
+    "statut": "validée",
+    "note": "Vérification : Aire de jeux de quartier évidente. Contre-vérification : Balançoires, jeux à ressort et barrière colorée sur sol amortissant dans un square : aire de jeux évidente."
+  },
+  {
+    "id": "guerite-06",
+    "termId": "guerite",
+    "fichier": "commons/guerite-06.webp",
+    "rectangle": {
+      "x": 0.795,
+      "y": 0.39,
+      "largeur": 0.2,
+      "hauteur": 0.43
+    },
+    "lieu": "Londres, Royaume-Uni",
+    "source": "commons",
+    "auteur": "Ricardo Costa",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:500px_photo_(119283685).jpeg",
+    "statut": "validée",
+    "note": "Vérification : Guérites évidentes ; rectangle sur celle de droite. Contre-vérification : Rectangle sur une guérite de sentinelle occupée par un garde, à l'entrée d'un palais : terme juste et bien cadré."
   },
   {
     "id": "piscine-01",
@@ -3716,6 +4190,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Swimming_pool,_Tran_Le_Xuan_Villa_01.jpg",
     "statut": "validée",
     "note": "Vérification : Piscine nettement lisible. Contre-vérification : Bassin rectangulaire carrelé avec échelles et plage, vue d'ensemble claire."
+  },
+  {
+    "id": "echelle-de-piscine-06",
+    "termId": "echelle-de-piscine",
+    "fichier": "commons/echelle-de-piscine-06.webp",
+    "rectangle": {
+      "x": 0.16,
+      "y": 0.38,
+      "largeur": 0.62,
+      "hauteur": 0.62
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Shixart1985",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg",
+    "statut": "validée",
+    "note": "Vérification : Échelle de piscine nette au premier plan. Contre-vérification : Rectangle sur les montants en tube inox recourbés d'une échelle au bord d'un bassin : échelle de piscine reconnaissable."
   },
   {
     "id": "facade-06",
@@ -3767,6 +4259,37 @@
     "note": "Vérification : Exemple typique et net de mur-rideau ; rectangle sur la trame vitrée centrale. Contre-vérification : Même mur-rideau du Hallidie Building en vue frontale, la grille vitrée occupe le rectangle."
   },
   {
+    "id": "facade-ventilee-04",
+    "termId": "facade-ventilee",
+    "fichier": "commons/facade-ventilee-04.webp",
+    "rectangle": null,
+    "lieu": "Onex, Suisse",
+    "source": "commons",
+    "auteur": "MHM55",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:ComteG%C3%A9raud-11-b.jpg",
+    "statut": "validée",
+    "note": "Vérification : Principe de la façade ventilée bien lisible (parement, rail, isolant). Contre-vérification : Panneau de parement manquant révélant l'ossature, l'isolant et la grille de ventilation derrière la lame d'air : façade ventilée explicite."
+  },
+  {
+    "id": "facade-ventilee-05",
+    "termId": "facade-ventilee",
+    "fichier": "commons/facade-ventilee-05.webp",
+    "rectangle": {
+      "x": 0.32,
+      "y": 0.32,
+      "largeur": 0.68,
+      "hauteur": 0.4
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "J.Stiegler",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Montage_der_ventilierbaren_Fassade.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pose de parement en pierre sur ossature ; encombré par l'échafaudage. Contre-vérification : Rectangle sur des plaques de pierre fixées par agrafes à distance de l'isolant, chantier en cours : principe de façade ventilée lisible."
+  },
+  {
     "id": "porche-03",
     "termId": "porche",
     "fichier": "commons/porche-03.webp",
@@ -3785,6 +4308,96 @@
     "note": "Vérification : Espace couvert devant la porte, net. Contre-vérification : Petit abri couvert sur poteaux de bois devant une porte d'entrée, formant espace avant la porte : porche."
   },
   {
+    "id": "chaine-d-angle-02",
+    "termId": "chaine-d-angle",
+    "fichier": "commons/chaine-d-angle-02.webp",
+    "rectangle": {
+      "x": 0.5,
+      "y": 0,
+      "largeur": 0.5,
+      "hauteur": 0.97
+    },
+    "lieu": "La Valette, Malte",
+    "source": "commons",
+    "auteur": "Continentaleurope",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Grandmaster_Palace_as_seen_from_outside_18.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chaîne d'angle nette, encadrée. Contre-vérification : Rectangle sur l'angle d'un bâtiment à blocs de pierre alternés en harpe : chaîne d'angle sans ambiguïté."
+  },
+  {
+    "id": "chaine-d-angle-04",
+    "termId": "chaine-d-angle",
+    "fichier": "commons/chaine-d-angle-04.webp",
+    "rectangle": {
+      "x": 0.37,
+      "y": 0.15,
+      "largeur": 0.22,
+      "hauteur": 0.83
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "ElektraLu",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lebende_Steine.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chaîne d'angle en pierre claire. Contre-vérification : Rectangle sur une chaîne d'angle en pierres alternées sur mur enduit, bien cadrée ; le petit filigrane de l'appareil photo ne gêne pas."
+  },
+  {
+    "id": "baie-geminee-01",
+    "termId": "baie-geminee",
+    "fichier": "commons/baie-geminee-01.webp",
+    "rectangle": {
+      "x": 0.17,
+      "y": 0.13,
+      "largeur": 0.63,
+      "hauteur": 0.5
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Globetrotter19",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Doppelbogen,_Szentkir%C3%A1lyistrasse_28,_2024_J%C3%B3zsefv%C3%A1ros.jpg",
+    "statut": "validée",
+    "note": "Vérification : Baie géminée claire. Contre-vérification : Rectangle sur deux baies en arc brisé accolées séparées par une colonnette à chapiteau : baie géminée exemplaire."
+  },
+  {
+    "id": "baie-geminee-05",
+    "termId": "baie-geminee",
+    "fichier": "commons/baie-geminee-05.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.19,
+      "largeur": 0.33,
+      "hauteur": 0.58
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Wolfgang Sauber",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Beynac_Burg_-_Bifora.jpg",
+    "statut": "validée",
+    "note": "Vérification : Paire de baies sur colonnette, encadrée. Contre-vérification : Rectangle sur une paire de baies trilobées séparées par une colonnette, la seconde paire restant hors cadre : sans ambiguïté."
+  },
+  {
+    "id": "baie-d-angle-05",
+    "termId": "baie-d-angle",
+    "fichier": "commons/baie-d-angle-05.webp",
+    "rectangle": {
+      "x": 0.28,
+      "y": 0.33,
+      "largeur": 0.17,
+      "hauteur": 0.17
+    },
+    "lieu": "Cambridge (Massachusetts), États-Unis",
+    "source": "commons",
+    "auteur": "Daderot",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Rowland_Institute_at_Harvard_-_Cambridge,_MA_-_DSC05665.JPG",
+    "statut": "validée",
+    "note": "Vérification : Baie d'angle nette, encadrée. Contre-vérification : Rectangle sur une fenêtre qui se retourne sur l'angle d'un bâtiment en brique, sans trumeau à l'angle : baie d'angle lisible."
+  },
+  {
     "id": "fenetre-en-bandeau-01",
     "termId": "fenetre-en-bandeau",
     "fichier": "commons/fenetre-en-bandeau-01.webp",
@@ -3801,6 +4414,50 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:B%C3%A2timent_artisanal_Louis-Hubert_porte_19-21.jpg",
     "statut": "validée",
     "note": "Vérification : Bande vitrée très allongée, encadrée sur la partie nette. Contre-vérification : Bande horizontale continue de vitrages courant sur la façade en béton, bien encadrée : fenêtre en bandeau."
+  },
+  {
+    "id": "meurtriere-02",
+    "termId": "meurtriere",
+    "fichier": "commons/meurtriere-02.webp",
+    "rectangle": null,
+    "lieu": "Galartza, Pays basque",
+    "source": "commons",
+    "auteur": "Gipuzkoako Foru Aldundia",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Galartza_24069_1987_1038921.jpg",
+    "statut": "validée",
+    "note": "Vérification : Meurtrière claire, plein cadre. Contre-vérification : Fente verticale très étroite à orifice rond dans un mur de pierre épais : meurtrière (type canonnière) bien visible."
+  },
+  {
+    "id": "meurtriere-05",
+    "termId": "meurtriere",
+    "fichier": "commons/meurtriere-05.webp",
+    "rectangle": null,
+    "lieu": "Montauban-de-Bretagne, France",
+    "source": "commons",
+    "auteur": "Mike Finn from Worcester, United Kingdom",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Le_ch%C3%A2teau_de_Montauban-de-Bretagne_(48631473736).jpg",
+    "statut": "validée",
+    "note": "Vérification : Meurtrière à ouverture ronde, nette. Contre-vérification : Gros plan d'une fente de tir verticale à orifice circulaire dans un appareil de pierre : meurtrière sans ambiguïté."
+  },
+  {
+    "id": "soupirail-05",
+    "termId": "soupirail",
+    "fichier": "commons/soupirail-05.webp",
+    "rectangle": {
+      "x": 0.31,
+      "y": 0.34,
+      "largeur": 0.38,
+      "hauteur": 0.26
+    },
+    "lieu": "Korçë, Albanie",
+    "source": "commons",
+    "auteur": "CHwB Albania employee",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dritare_sopraluce_n%C3%AB_Banes%C3%ABn_n%C3%AB_Kor%C3%A7%C3%AB.jpg",
+    "statut": "validée",
+    "note": "Vérification : Soupirail grillagé typique, encadré. Contre-vérification : Rectangle sur une ouverture grillagée au ras du trottoir dans le soubassement, éclairant une cave : soupirail typique."
   },
   {
     "id": "garde-corps-vitre-01",

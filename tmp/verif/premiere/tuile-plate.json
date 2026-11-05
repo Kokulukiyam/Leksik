@@ -1,0 +1,53 @@
+{
+  "termId": "tuile-plate",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tuile antique peinte en pierre, pas une tuile plate.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Tuile antique peinte en pierre, pas une tuile plate."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tuile profilée métallique en production.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Tuile profilée métallique en production."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade à colombages, toit trop petit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Façade à colombages, toit trop petit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuile antique peinte en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Tuile antique peinte en pierre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pose de tuiles profilées mécaniques ou métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Pose de tuiles profilées mécaniques ou métalliques."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo en noir et blanc d'une tuile ancienne à emboîtement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Photo en noir et blanc d'une tuile ancienne à emboîtement."
+    }
+  ]
+}

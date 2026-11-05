@@ -1,0 +1,53 @@
+{
+  "termId": "rond-lisse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Barres d'acier et d'aluminium carrées et plates sur un établi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de rond."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bottes de barres d'acier crénelées (haute adhérence) coudées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bristol",
+      "note": "Barres nervurées, contraire du rond lisse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux barres sortant du béton : une lisse à gauche, une nervurée à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Comparaison ambiguë, deux types dans la même image."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier sur un mur portant une barre, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barre non lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fers à béton nervurés tordus dans des gravats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres nervurées."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Poutrelles métalliques alignées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés, pas des ronds."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+ "termId": "panneresse",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Deux parements de briques, rouge et beige, avec briques longues et courtes alternées par rang.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Rheinfelden, Suisse",
+   "note": "Mélange de grandes et petites faces (panneresses et boutisses), ambigu entre panneresse, boutisse et appareil."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Façade en brique d'une maison coloniale avec porte en arc.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Talisay, Philippines",
+   "note": "Brique trop petite, pas lisible."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Briques crues sur claies de séchage dans une briqueterie.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Lage, Allemagne",
+   "note": "Sans appareil, pas une panneresse en place."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Vigne vierge rouge sur un mur de brique.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Élément caché."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Rue bordée d'un bâtiment en brique rouge, arbres.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Hanovre",
+   "note": "Vue trop lointaine."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Façade en brique avec fenêtres et passante.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Appareil trop petit pour isoler une panneresse."
+  }
+ ]
+}

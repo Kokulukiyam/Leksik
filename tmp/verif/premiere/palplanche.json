@@ -1,0 +1,58 @@
+{
+  "termId": "palplanche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grue soulevant une pièce au bord d'une rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palplanches non visibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chantier en bord de canal asséché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig",
+      "note": "Palplanches non lisibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bassin de port avec batardeau, immeubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig",
+      "note": "Palplanches non lisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Batardeau bordé de boudins blancs sur un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig",
+      "note": "Palplanches non lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Batardeau à palplanches au fond d'un canal, petite et en partie masqué.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig",
+      "note": "Trop petit, partiellement couvert."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rideau de palplanches en acier ondulé rouillé le long d'un canal.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.4,
+        "largeur": 0.62,
+        "hauteur": 0.27
+      },
+      "lieu": "La Nouvelle-Orléans, États-Unis",
+      "note": "Profilés ondulés emboîtés clairement visibles, photo nette."
+    }
+  ]
+}

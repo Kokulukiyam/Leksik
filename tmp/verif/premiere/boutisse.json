@@ -1,0 +1,53 @@
+{
+ "termId": "boutisse",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Mur de brique couvert de graffitis et d'une affichette avec texte.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Texte visible, briques mal lisibles."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Long mur de brique sur soubassement de pierre.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Haselünne, Allemagne",
+   "note": "Boutisses non repérables."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Voiture endommagée par des chutes de briques après un séisme.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Ferrare, Italie",
+   "note": "Sans rapport."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Parement de briques sombres graffitées, vu de face.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Briques posées en panneresses, pas de boutisse."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Tas de gravats de briques et de sable.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Hockenheim",
+   "note": "Sans rapport."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Mur de brique ancien moussu avec corniche.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Portland, USA",
+   "note": "Peu lisible, boutisses non identifiables."
+  }
+ ]
+}

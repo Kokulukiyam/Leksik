@@ -1,0 +1,53 @@
+{
+  "termId": "epaufrure",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Interférogramme holographique rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo de béton."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Treillis d'armature sur film plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cuttack",
+      "note": "Pas d'épaufrure."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sol d'un conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Évier et robinets contre conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Engrenages rouillés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Benagéber",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Imprimante 3D béton dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

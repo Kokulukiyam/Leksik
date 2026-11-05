@@ -1,0 +1,63 @@
+{
+  "termId": "toit-mansarde",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Auvent lumineux d'un cinéma, plafond décoré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sydney, Australie",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Aquarelle d'une maison à toit mansardé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pavillon central de pierre couronné d'un toit mansardé d'ardoise avec œils-de-bœuf et groupe sculpté.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.1,
+        "largeur": 1.0,
+        "hauteur": 0.4
+      },
+      "lieu": "Paris, France",
+      "note": "Brisis d'ardoise et terrasson plat, toit bien lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Toit incendié, lucarnes et charpente détruite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Toit détruit, forme illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pavillon de façade classique à haut toit mansardé d'ardoise, œils-de-bœuf et lanterneau.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.14,
+        "largeur": 0.8,
+        "hauteur": 0.28
+      },
+      "lieu": "Paris, France",
+      "note": "Brisis raide et sommet aplati nets, rectangle vérifié."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rangée de lucarnes sur un comble brisé en zinc et ardoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Toit vu de côté, forme d'ensemble moins claire que les autres."
+    }
+  ]
+}

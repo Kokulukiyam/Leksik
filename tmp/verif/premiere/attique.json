@@ -1,0 +1,53 @@
+{
+  "termId": "attique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Groupe sculpté couronnant un mur d'acrotère devant le ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Piran, Slovénie",
+      "note": "Couronnement sculpté, pas un dernier étage en retrait."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Couronnement sculpté d'une façade d'église entre deux tours.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pápa, Hongrie",
+      "note": "Pas un étage d'attique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Corniche et balustrade en haut d'un bâtiment avec aigles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Iserlohn, Allemagne",
+      "note": "Balustrade (attika au sens allemand), pas un étage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade classique avec fronton et grand toit d'ardoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Pas d'étage d'attique net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Parapet décoré au-dessus d'une enseigne de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Várpalota, Hongrie",
+      "note": "Enseigne visible, parapet seul."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur d'attique avec blason de ville, au sommet d'une façade jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kalocsa, Hongrie",
+      "note": "Mur d'acrotère décoratif, pas un étage en retrait."
+    }
+  ]
+}

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Trottoir étroit longeant un mur de tôle ondulée taggé, au bord d'une avenue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mt. Vernon, États-Unis",
+      "note": "Trottoir petit, caché par le mur, peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Allée dallée dans un jardin botanique, végétation dense.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tübingen, Allemagne",
+      "note": "Allée de jardin, pas un trottoir."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Dalles de béton envahies de végétation, vue rapprochée du sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de contexte de rue, rien d'identifiable comme trottoir."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Allée pavée courbe en bord de pelouse dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ouman, Ukraine",
+      "note": "Allée de parc, pas un trottoir."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Trottoir dallé rose devant une boutique, bordure peinte en bleu et blanc, voiture garée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.54,
+        "largeur": 0.58,
+        "hauteur": 0.27
+      },
+      "lieu": "Israël",
+      "note": "Trottoir clairement encadré, entre façade et chaussée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sentier en dalles hexagonales dans un jardin botanique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Quito, Équateur",
+      "note": "Sentier de jardin, pas un trottoir."
     }
   ]
 }

@@ -13,6 +13,10 @@
     "incompatibles": [
       "grille-avaloir",
       "caniveau"
+    ],
+    "categoriesCommons": [
+      "Category:Storm drains",
+      "Category:Drains"
     ]
   },
   "candidats": [
@@ -121,6 +125,119 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Panorama_depuis_le_belv%C3%A9d%C3%A8re_du_Mont_des_Avaloirs.jpg/1280px-Panorama_depuis_le_belv%C3%A9d%C3%A8re_du_Mont_des_Avaloirs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 10000,
       "hauteur": 2880
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Cleveland applause storm drain.jpg",
+      "description": "A storm drain in Cleveland, Ohio, near Playhouse Square, featuring the word \"Applause\" and illustrations of people's faces and of hands clapping, and marked \"Mark E Howard\".",
+      "categories": [
+        "Playhouse Square District",
+        "Self-published work",
+        "Storm drains"
+      ],
+      "auteur": "Sumanah",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cleveland_applause_storm_drain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cleveland_applause_storm_drain.jpg/1280px-Cleveland_applause_storm_drain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5312,
+      "hauteur": 2988
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Carillo-Puerto-Avenue-Needed-Drain-Santa-Elena.jpg",
+      "description": "Carillo Puerto Avenue Drain Santa Elena",
+      "categories": [
+        "CC-Zero",
+        "Drains",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with LG Stylo 6"
+      ],
+      "auteur": "Irvias",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carillo-Puerto-Avenue-Needed-Drain-Santa-Elena.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Carillo-Puerto-Avenue-Needed-Drain-Santa-Elena.jpg/1280px-Carillo-Puerto-Avenue-Needed-Drain-Santa-Elena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1828,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Concrete cover (12730589).jpg",
+      "description": "funny face! This is a cover of sewage.",
+      "categories": [
+        "Taken with Ricoh Caplio GX",
+        "Storm drains",
+        "Flickr images reviewed by FlickreviewR",
+        "Hidden faces in objects or places",
+        "Streethole covers in Japan",
+        "Objects made of concrete"
+      ],
+      "auteur": "OpenCage",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_cover_(12730589).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Concrete_cover_%2812730589%29.jpg/1280px-Concrete_cover_%2812730589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bergbach (27521762772).jpg",
+      "description": "Bergbach",
+      "categories": [
+        "Drains",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Lukas Plewnia"
+      ],
+      "auteur": "Lukas Plewnia from Winterthur, Schweiz",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bergbach_(27521762772).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bergbach_%2827521762772%29.jpg/1280px-Bergbach_%2827521762772%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2006 05 26 - Elmhirst Pkwy at Cedar La 03.JPG",
+      "description": "Cedar Lane (& storm drain) at Elmhirst Parkway, Bethesda, MD, USA",
+      "categories": [
+        "Taken with Canon PowerShot A95",
+        "Self-published work",
+        "Storm drains",
+        "Streets in Montgomery County, Maryland",
+        "Files with coordinates missing SDC location of creation",
+        "2006 in Bethesda, Maryland",
+        "Bus stop signs in Maryland",
+        "Four lane roads in Maryland",
+        "Ride On bus stops in Montgomery County, Maryland"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2006_05_26_-_Elmhirst_Pkwy_at_Cedar_La_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2006_05_26_-_Elmhirst_Pkwy_at_Cedar_La_03.JPG/1280px-2006_05_26_-_Elmhirst_Pkwy_at_Cedar_La_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Carillo-Puerto-Avenue-Drain-Santa-Elena.jpg",
+      "description": "Carillo Puerto Avenue Drain",
+      "categories": [
+        "CC-Zero",
+        "Drains",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Irvias",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carillo-Puerto-Avenue-Drain-Santa-Elena.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Carillo-Puerto-Avenue-Drain-Santa-Elena.jpg/1280px-Carillo-Puerto-Avenue-Drain-Santa-Elena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2296,
+      "hauteur": 4080
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

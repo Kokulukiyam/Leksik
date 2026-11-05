@@ -1,0 +1,53 @@
+{
+  "termId": "toit-en-pavillon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Verrière pyramidale à armature métallique couvrant une cour intérieure, vue plongeante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Verrière polygonale vue de dessus, pas un toit en pavillon net."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maison de brique à toit d'ardoise en partie masquée par les arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Thornton Hough, Royaume-Uni",
+      "note": "Toit peu visible, probablement à faîtage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pavillon de garde blanc coiffé d'un toit d'ardoise à quatre pans avec grande cheminée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Netherton, Royaume-Uni",
+      "note": "Un court faîtage semble subsister sous la cheminée, versants non convergents en un point : doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grange en colombage avec toit à deux versants et pignon de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dülmen, Allemagne",
+      "note": "Toit à deux versants."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grange en colombage dans la brume, toit à deux versants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dülmen, Allemagne",
+      "note": "Toit à deux versants."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petite maison en ruine vue en contre-plongée, toit de tuiles à pans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alsterweiler, Allemagne",
+      "note": "Sommet du toit mal visible, végétation envahissante."
+    }
+  ]
+}

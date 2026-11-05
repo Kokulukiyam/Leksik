@@ -1,0 +1,53 @@
+{
+  "termId": "plot-de-beton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gravure ancienne de ferme avec clôture blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image d'archive, pas de plot visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Piles de viaduc autoroutier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Opatovice, Tchéquie",
+      "note": "Piles de pont, pas plots."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chantier de pont avec bâche noire sur coffrages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Massachusetts",
+      "note": "Pas de plot lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Balustrade en pierre devant un cimetière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Arlington",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pile de viaduc avec socle en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Opatovice",
+      "note": "Pile de pont."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pont à piles en V sous tablier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam",
+      "note": "Hors sujet."
+    }
+  ]
+}

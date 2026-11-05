@@ -1,0 +1,53 @@
+{
+ "termId": "bloc-en-u",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Parpaings creux empilés dans une cour, village avec toits en tôle.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Parpaings empilés, pas de bloc en U visible."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Passage dans un mur de briques surmonté d'un linteau de pierre.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Nalanda, Inde",
+   "note": "Sans bloc en U."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Bâtiment rural et charrette, murs en blocs.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Acaiaca, Brésil",
+   "note": "Sans rapport."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Entrée d'une grotte avec encadrement en pierre.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Mottola, Italie",
+   "note": "Sans rapport."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Pile de parpaings devant un bâtiment en briques, deux ouvriers.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Parpaings creux standards, pas de bloc en U identifiable."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Linteau de pierre sculpté d'une synagogue antique.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Chorazin, Israël",
+   "note": "Pierre sculptée, sans rapport."
+  }
+ ]
+}

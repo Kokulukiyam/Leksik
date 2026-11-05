@@ -1,0 +1,53 @@
+{
+  "termId": "poincon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Combles avec poteaux verticaux, entre poinçon et poteaux de ferme à pannes : ambigu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Combles avec poteaux verticaux, entre poinçon et poteaux de ferme à pannes : ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Halle métallique, sans poinçon lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Halle métallique, sans poinçon lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Charpente en roseau et rondins, poinçon non identifiable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Charpente en roseau et rondins, poinçon non identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Image retouchée, charpente floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Image retouchée, charpente floue."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grange avec porche, poinçon non visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Grange avec porche, poinçon non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Charpente peinte sans poinçon central visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Charpente peinte sans poinçon central visible."
+    }
+  ]
+}

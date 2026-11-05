@@ -1,0 +1,53 @@
+{
+  "termId": "coupleur-d-armature",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panorama d'un chantier de pont sur le Rhin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kehl",
+      "note": "Coupleur non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bottes de barres nervurées pliées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bristol",
+      "note": "Pas de coupleur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrier assemblant des armatures sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou",
+      "note": "Pas de coupleur identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Barres d'armature coudées à 90 degrés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lysekil",
+      "note": "Pas de coupleur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Militaire portant des barres d'acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de coupleur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux barres sortant du béton, lisse et nervurée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de coupleur."
+    }
+  ]
+}

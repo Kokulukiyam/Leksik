@@ -1,0 +1,53 @@
+{
+  "termId": "boite-a-eau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rue en pente, aucune boîte à eau lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Rue en pente, aucune boîte à eau lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poisson décoratif en cuivre en haut de descente, ambigu avec dauphin ou gargouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Poisson décoratif en cuivre en haut de descente, ambigu avec dauphin ou gargouille."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chéneau en demi-rond sans boîte à eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Chéneau en demi-rond sans boîte à eau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur et toit, sans boîte à eau visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Mur et toit, sans boîte à eau visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poisson décoratif en cuivre, ambigu entre boîte à eau, dauphin et gargouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Poisson décoratif en cuivre, ambigu entre boîte à eau, dauphin et gargouille."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gargouille de forme animale sous un chéneau, pas une boîte à eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Gargouille de forme animale sous un chéneau, pas une boîte à eau."
+    }
+  ]
+}

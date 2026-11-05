@@ -1,0 +1,53 @@
+{
+  "termId": "chatiere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ventilateur statique de toiture, pas une chatière de couverture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Ventilateur statique de toiture, pas une chatière de couverture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Quai ancien avec tuiles, sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Quai ancien avec tuiles, sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ventilateur statique sur costière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Ventilateur statique sur costière."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Conduits de ventilation sur toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Conduits de ventilation sur toit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Toiture en tuiles avec petit trou, pas de chatière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Toiture en tuiles avec petit trou, pas de chatière."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Antennes sur gratte-ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée : Antennes sur gratte-ciel."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+ "termId": "appareil-en-epi",
+ "candidats": [
+  {
+   "fichier": "01.jpg",
+   "vu": "Mur de pierres plates dont certaines sont inclinées en épi, mêlées à un appareil irrégulier.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Rabós, Espagne",
+   "note": "Épi partiel, noyé dans un appareil irrégulier."
+  },
+  {
+   "fichier": "02.jpg",
+   "vu": "Gros plan d'un mur de pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre.",
+   "verdict": "validée",
+   "rectangle": null,
+   "lieu": "",
+   "note": "Épi (opus spicatum) net et dominant, plein cadre."
+  },
+  {
+   "fichier": "03.jpg",
+   "vu": "Long mur de moellons avec un épi peu visible, lierre.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Königsbach, Allemagne",
+   "note": "Épi non lisible à cette distance."
+  },
+  {
+   "fichier": "04.jpg",
+   "vu": "Mur de pierres de taille avec deux inserts de briques posées en épi.",
+   "verdict": "validée",
+   "rectangle": {
+    "x": 0.11,
+    "y": 0.29,
+    "largeur": 0.34,
+    "hauteur": 0.3
+   },
+   "lieu": "Gaète, Italie",
+   "note": "Rectangle sur l'insert de gauche, briques en arête de poisson bien visibles."
+  },
+  {
+   "fichier": "05.jpg",
+   "vu": "Façade en brique d'un couvent, vue lointaine.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Cork, Irlande",
+   "note": "Épi hypothétique, invisible."
+  },
+  {
+   "fichier": "06.jpg",
+   "vu": "Mur de pierres avec petits inserts de briques en épi près d'une porte.",
+   "verdict": "rejetée",
+   "rectangle": null,
+   "lieu": "Gaète, Italie",
+   "note": "Inserts trop petits et abîmés ; la photo 04 est meilleure."
+  }
+ ]
+}

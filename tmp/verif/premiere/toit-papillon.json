@@ -1,0 +1,58 @@
+{
+  "termId": "toit-papillon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Auvent de station GNV en demi-voûte et toit solaire incliné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Třebíč, Tchéquie",
+      "note": "Pans non en V net."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Auvent d'un cinéma, plafond décoré et ampoules.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sydney, Australie",
+      "note": "Vu de dessous, forme de toit invisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ancienne station-service dont l'auvent est un toit papillon en V, deux pans inclinés vers le centre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.32,
+        "largeur": 1.0,
+        "hauteur": 0.25
+      },
+      "lieu": "Santa Rosa, Nouveau-Mexique, États-Unis",
+      "note": "Forme en V très lisible, rectangle vérifié."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison basse des années 50 à toit plat léger, masquée par des arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Forme du toit peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ancienne station-service au fond d'une rue arborée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hambourg, Allemagne",
+      "note": "Trop petit, branches."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison moderniste à toit en V peu visible entre les branches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cheektowaga, États-Unis",
+      "note": "Forme en V ambiguë, branches devant."
+    }
+  ]
+}
