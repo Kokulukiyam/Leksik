@@ -1,0 +1,53 @@
+{
+  "termId": "lit-de-mortier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mortier (pilon) en bois dans le sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mortier à piler, faux sens."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rue de Los Angeles avec immeubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mortier à piler en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faux sens."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur ancien dont l'enduit s'effrite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de lit de mortier lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mortier à piler en bois dans le sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faux sens."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Diapositive colorisée d'un jardin avec perroquets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

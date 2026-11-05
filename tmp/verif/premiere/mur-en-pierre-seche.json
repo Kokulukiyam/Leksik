@@ -1,0 +1,53 @@
+{
+  "termId": "mur-en-pierre-seche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan sur un mur de pierres volcaniques empilées et calées, sans aucun mortier visible.",
+      "verdict": "validée",
+      "rectangle": "",
+      "lieu": "Ponta do Sol, Madère",
+      "note": "Mur en pierre sèche typique, plein cadre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Baignoire en fonte devant un muret de pierres, tente à côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Baignoire dominante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Muret de pierres plates empilées dans le désert, enfants et tissus devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur en partie masqué par des personnes et un mât ; rejeté dans le doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue sur une ville depuis un balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de galets couverts de mousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galets réguliers, jointoiement douteux, aspect trompeur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Route en terre longée d'un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de briques."
+    }
+  ]
+}

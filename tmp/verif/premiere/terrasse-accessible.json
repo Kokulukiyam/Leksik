@@ -1,0 +1,53 @@
+{
+  "termId": "terrasse-accessible",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Terrasse sur toit avec tables, chaises, bacs plantés et platelage bois, vue sur la cathédrale.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Puebla, Mexique",
+      "note": "Toiture aménagée pour séjourner, claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vue aérienne d'une ville et de terrasses agricoles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun rapport avec une toiture."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Toit de cabane planté, derrière une clôture et des fleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture végétalisée, pas une terrasse accessible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vaste esplanade dallée en granit devant un bâtiment vitré, avec banc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas sûr qu'il s'agisse d'une toiture, garde-corps peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rue en pente avec barrière blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Terrasse sur toit avec platelage, canapés, plantes en pots et haie, immeubles en brique autour.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit-terrasse aménagé pour le séjour, clair."
+    }
+  ]
+}

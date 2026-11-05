@@ -1,0 +1,58 @@
+{
+  "termId": "palissade-de-chantier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rue longée de barrières grillagées et d'une bâche, grue au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barrières grillagées, pas une clôture pleine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Immeuble en construction derrière une longue clôture pleine en tôle ondulée turquoise.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.74,
+        "largeur": 1.0,
+        "hauteur": 0.17
+      },
+      "lieu": "Afrique (bâtiment en chantier)",
+      "note": "Clôture pleine en tôle qui sépare le chantier de la voie ; rectangle sur la clôture."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tuyaux en béton posés de nuit sur un terrain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de palissade."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier lissant un mur à l'intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pylône métallique avec ouvriers dans un poste électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de palissade."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Échafaudage dans une fouille avec sacs de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de palissade."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "aretier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Monument aux morts avec petit toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'arêtier net."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petit pavillon dont le toit de tuiles canal à quatre pans porte un arêtier couvert de tuiles, avec épi.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.29,
+        "largeur": 0.2,
+        "hauteur": 0.28
+      },
+      "lieu": "Porto Santo, Madère",
+      "note": "Rectangle sur l'arêtier gauche, de l'épi à l'angle de l'égout."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Toit chinois à angles relevés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arêtiers courbes, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Loge à pans-de-bois et grand toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arêtier peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison victorienne en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arêtier non lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Villa au fond d'un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit."
+    }
+  ]
+}

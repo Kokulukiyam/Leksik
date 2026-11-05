@@ -1,0 +1,58 @@
+{
+  "termId": "brise-soleil-horizontal",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Noir et blanc, passants, brise-soleil en fond et sculpture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brise-soleil secondaire, image sombre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Côté d'un bâtiment envahi de végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lames cachées."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade verte à lames horizontales de béton sur poteaux, sculpture au premier plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.43,
+        "y": 0.0,
+        "largeur": 0.57,
+        "hauteur": 0.82
+      },
+      "lieu": "Faculty of Pharmacy, Addis-Abeba, Éthiopie",
+      "note": "Lames horizontales fixes en saillie devant les baies, rectangle sur la façade."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue en plongée du bâtiment à brise-soleil vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et lointain."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Détail noir et blanc de lames horizontales sur poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image sombre, lisibilité faible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur un poteau et deux lames horizontales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail ambigu, trop rapproché."
+    }
+  ]
+}

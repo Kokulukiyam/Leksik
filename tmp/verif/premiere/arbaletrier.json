@@ -1,0 +1,53 @@
+{
+  "termId": "arbaletrier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Halle industrielle à fermes métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Métal, ambiguë."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Charpente d'un pont couvert en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces ambiguës."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Halle industrielle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambiguë."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Halle industrielle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambiguë."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pont couvert en bois avec ascenseur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambiguë."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gare routière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

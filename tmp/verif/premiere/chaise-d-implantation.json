@@ -1,0 +1,53 @@
+{
+  "termId": "chaise-d-implantation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plaque de repère de nivellement rouillée scellée dans un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Immeuble d'angle d'un cabinet de géomètres dans une rue américaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gravure d'arpenteurs dans la jungle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Borne de pierre dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Champ moissonné avec un géomètre au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pierre de repère près d'un sentier en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    }
+  ]
+}

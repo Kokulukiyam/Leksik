@@ -1,0 +1,53 @@
+{
+  "termId": "saignee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Carte postale ancienne d'un bâtiment en briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans saignée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fenêtre dans un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans saignée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Oculus entouré de briques disposées en rayons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans saignée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Murs de briques vus d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans saignée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cimetière entouré de murs de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans saignée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Angle de mur en briques dégradé sous la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans saignée."
+    }
+  ]
+}

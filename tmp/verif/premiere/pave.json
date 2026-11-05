@@ -1,0 +1,53 @@
+{
+  "termId": "pave",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Panneau de limite de poids sur un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, pas de pavé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chaussée de pavés très dégradée avec rails de plaque tournante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pavés en mauvais état mêlés à rails et enrobé, peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ruelle étroite dallée de pierres irrégulières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dallage irrégulier, pas des pavés."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Place avec voiture et maisons, pavés au sol en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pavés pas dominants."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pavés en grande partie recouverts de neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Neige, lecture douteuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sol entièrement couvert de pavés de pierre carrés rouges et gris.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pavés de pierre bien visibles et dominants ; image un peu sombre et saturée."
+    }
+  ]
+}

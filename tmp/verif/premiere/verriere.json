@@ -1,0 +1,53 @@
+{
+  "termId": "verriere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Intérieur d'une yourte, ouverture sommitale (tündük) vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une verrière."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toit vitré sur ossature métallique d'un atrium vu de dessous.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Verrière sur ossature métallique ; vue graphique mais claire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Image sombre quasi abstraite de branches vues à travers une vitre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grande verrière à résille métallique en losanges couvrant un atrium d'hôpital.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Stanford, États-Unis",
+      "note": "Verrière typique, dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Voûte décorée avec petite baie en demi-cercle vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Munich, Allemagne",
+      "note": "Baie ou lunette, pas une verrière."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cour intérieure sous verrière avec grand volume suspendu et brise-soleil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Verrière noyée dans d'autres éléments ; moins claire que 02/04."
+    }
+  ]
+}

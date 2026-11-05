@@ -1,0 +1,58 @@
+{
+  "termId": "brique-creuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Brique ancienne avec empreinte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brique pleine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Séchoir à briques sur claies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Alvéoles non visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pavage de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Briques exposées sur socles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques pleines."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Charrette âne devant des blocs de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Brique de terre cuite à nombreuses alvéoles posée sur d'autres briques.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.23,
+        "y": 0.04,
+        "largeur": 0.7,
+        "hauteur": 0.49
+      },
+      "lieu": "",
+      "note": "Alvéoles parallèles nettement visibles ; rectangle sur la brique du dessus."
+    }
+  ]
+}

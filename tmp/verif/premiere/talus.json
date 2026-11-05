@@ -1,0 +1,53 @@
+{
+  "termId": "talus",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chemin de crête sur une digue avec barrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Digue, talus non montré."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruelle blanche andalouse en pente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un talus."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vallée urbaine de nuit en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de villa avec grille en ruelle pavée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Carte historique de polders.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pente de jardin botanique avec escalier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pente peu claire, hiver."
+    }
+  ]
+}

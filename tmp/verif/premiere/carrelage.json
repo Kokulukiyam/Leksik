@@ -1,0 +1,53 @@
+{
+  "termId": "carrelage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Un journal posé sur une table, carrelage mural flou en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le carrelage n'est pas le sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Quatre carreaux peints d'oiseaux encastrés dans une façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau décoratif de carreaux peints, pas un carrelage typique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détail de calligraphie arabe noire en relief sur pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas du carrelage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Un seul carreau crème sur fond de ciment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Un carreau isolé : ne montre pas un revêtement carrelé avec joints, ambigu avec faïence."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pilastre de mosaïque émaillée d'une mosquée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor de mosaïque architecturale, pas un carrelage courant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Un carreau ancien de céramique peinte sous vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée isolé, pas un carrelage posé."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "faience",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Un enfant et un chat assis sur un seuil devant un mur de carreaux noirs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le mur carrelé n'est pas le sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Angle de douche carrelé de carreaux beige mats fissurés avec rideau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreaux ternes et fissurés, aspect indécis."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de carreaux émaillés à motifs bleus et verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Azulejos décoratifs, pas la faïence de cuisine ou salle de bains."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Un seul carreau crème.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreau isolé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Hall d'une gare à panneaux d'azulejos et sol en marbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Azulejos monumentaux, scène trop large."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade couverte d'azulejos avec une affiche immobilière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau lisible, azulejos extérieurs."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "brise-soleil-vertical",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre du Louvre avec statues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris",
+      "note": "Aucun brise-soleil."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Verrière de galerie du Louvre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris",
+      "note": "Pas un brise-soleil."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Voûte d'escalier décorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris",
+      "note": "Pas un brise-soleil."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade en baguettes verticales de céramique colorées sous ciel bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Munich, Allemagne",
+      "note": "Lames verticales fixes devant la façade, claires."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Musée Brandhorst entièrement habillé de baguettes de céramique verticales colorées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Munich, Allemagne",
+      "note": "Lames verticales fixes, façade dominante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Station de pompage au bord d'un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Smethwick, Royaume-Uni",
+      "note": "Aucun brise-soleil."
+    }
+  ]
+}

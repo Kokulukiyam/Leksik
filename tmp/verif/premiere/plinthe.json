@@ -1,0 +1,63 @@
+{
+  "termId": "plinthe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Parquet chêne éclairé avec le pied d'un meuble en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de plinthe murale claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade avec porte ancienne en bois écaillé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plinthe non montrée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Angle de mur avec une plinthe blanche moulurée posée sur un parquet stratifié, gros plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.42,
+        "largeur": 0.56,
+        "hauteur": 0.48
+      },
+      "lieu": "",
+      "note": "Plinthe en gros plan, bas du mur au contact du sol ; rectangle sur la plinthe (le quart-de-rond est dessous)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plinthe métallique arrondie contre un chambranle, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, plinthe peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plinthe grise en crépi de granulats au pied d'un mur dans une cage d'escalier, sur sol en terrazzo.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.38,
+        "largeur": 0.48,
+        "hauteur": 0.62
+      },
+      "lieu": "",
+      "note": "Bande de plinthe nette entre mur et sol ; rectangle sur la bande."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Soubassement en pierre de parement sous un mur crépi, sur pavés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Soubassement extérieur, ambigu avec la plinthe."
+    }
+  ]
+}

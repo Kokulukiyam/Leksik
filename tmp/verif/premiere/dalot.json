@@ -1,0 +1,58 @@
+{
+  "termId": "dalot",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Route bétonnée avec palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Route avec palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot non visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit pont posé sur plusieurs ouvertures rectangulaires en béton, au-dessus d'un fossé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage plus proche d'un pont, moins lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Route nationale avec habitations.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Élément de dalot béton rectangulaire posé en tranchée sur un chantier.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.09,
+        "y": 0.48,
+        "largeur": 0.37,
+        "hauteur": 0.3
+      },
+      "lieu": "A14, Royaume-Uni",
+      "note": "Section rectangulaire nette, rectangle sur l'ouvrage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Section de dalot en béton, rectangulaire à angles biseautés, posée sur un chantier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Louisville, États-Unis",
+      "note": "Dalot rectangulaire net et dominant."
+    }
+  ]
+}

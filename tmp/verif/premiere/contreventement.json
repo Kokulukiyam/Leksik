@@ -1,0 +1,53 @@
+{
+  "termId": "contreventement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une ossature métallique en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature dense, contreventement non désigné ; document ancien avec cartouche."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rue de village après une tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Hangar détruit par une tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Hangar détruit par une tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ossature en profilés légers sur un bâtiment, ouvrier sur une échelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de barres diagonales nettes ; pas de contreventement."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier en béton et structure métallique, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de contreventement lisible."
+    }
+  ]
+}

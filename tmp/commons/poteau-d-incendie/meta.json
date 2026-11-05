@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "poteau-d-incendie",
+    "terme": "le poteau d'incendie",
+    "categorie": "Réseaux et équipements",
+    "definition": "Borne rouge en fonte posée au bord de la voie, munie de prises où les pompiers raccordent leurs tuyaux.",
+    "priorite": 2,
+    "requetes": [
+      "fire hydrant",
+      "poteau incendie",
+      "incategory:\"Fire hydrants\""
+    ],
+    "categoriesCommons": [
+      "Category:Fire hydrants"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Fire Hydrant Stanley Falkland Islands.jpg",
+      "description": "Falkland Islands",
+      "categories": [
+        "Fire hydrants",
+        "Stanley, Falkland Islands",
+        "2019 in the Falkland Islands",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from amanderson2 Flickr stream",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "amanderson2",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_Hydrant_Stanley_Falkland_Islands.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Fire_Hydrant_Stanley_Falkland_Islands.jpg/1280px-Fire_Hydrant_Stanley_Falkland_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Fire Plugs Page 31 Pascal Iron Works (1861).jpg",
+      "description": "Fire Plugs, Gas and Water Stops, Cases, Page 31, Pascal Iron Works, Morris, Tasker & Co's Illustrated Catalogue, Fourth Edition, 1861",
+      "categories": [
+        "Fire hydrants",
+        "PD US expired",
+        "PD-US missing SDC copyright status"
+      ],
+      "auteur": "Morris, Tasker & Co.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_Plugs_Page_31_Pascal_Iron_Works_(1861).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Fire_Plugs_Page_31_Pascal_Iron_Works_%281861%29.jpg/1280px-Fire_Plugs_Page_31_Pascal_Iron_Works_%281861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3203,
+      "hauteur": 4105
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:City of Valenzuela Metro Manila 13.jpg",
+      "description": "City of Valenzuela Metro Manila Fire hydrants in the Philippines",
+      "categories": [
+        "Fire hydrants",
+        "Self-published work",
+        "Fire hydrants in the Philippines",
+        "Hydrant covers"
+      ],
+      "auteur": "SwarmCheng",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:City_of_Valenzuela_Metro_Manila_13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/City_of_Valenzuela_Metro_Manila_13.jpg/1280px-City_of_Valenzuela_Metro_Manila_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5183,
+      "hauteur": 3592
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Basel 2012-10-14 Batch (51).JPG",
+      "description": "Schilder zu Unterflur-Hydranten.",
+      "categories": [
+        "Fire hydrants",
+        "Location not applicable",
+        "Feuerwehrmuseum Basel",
+        "Uploaded with Commonist",
+        "User:Mattes/Contributions/Topics/banners, coat of arms, flags, logos, seals and signs",
+        "Red signs",
+        "Switzerland photographs taken on 2012-10-14",
+        "User:Mattes/Contributions/Topics/Switzerland/Basel BS",
+        "Water pipeline signs in Switzerland",
+        "Rectangular signs in Switzerland",
+        "Signs in Basel",
+        "Sub-terrain hydrants"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Basel_2012-10-14_Batch_(51).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Basel_2012-10-14_Batch_%2851%29.JPG/1280px-Basel_2012-10-14_Batch_%2851%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3550,
+      "hauteur": 726
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Borne incendie.jpg",
+      "description": "Borne incendie",
+      "categories": [
+        "Fire hydrants",
+        "Self-published work",
+        "On OSM",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2023-10-24"
+      ],
+      "auteur": "Allmania24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Borne_incendie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Borne_incendie.jpg/1280px-Borne_incendie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5952,
+      "hauteur": 5952
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Brandkraan hydrant.jpg",
+      "description": "Brandkraan",
+      "categories": [
+        "Fire hydrants",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Glynne Hather",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brandkraan_hydrant.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Brandkraan_hydrant.jpg/1280px-Brandkraan_hydrant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2493,
+      "hauteur": 1566
+    }
+  ]
+}

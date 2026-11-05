@@ -1,0 +1,53 @@
+{
+  "termId": "profile-en-u",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Annonce publicitaire ancienne avec dessin de charpente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document imprimé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessous d'un balcon avec poutres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Section non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chantier avec poteaux d'acier et nacelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés en H ou I, pas en U."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pose de poutrelles d'acier sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Section non lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cale rouillée sur un support en poutrelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de profilé en U net."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chantier de charpente métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop large."
+    }
+  ]
+}

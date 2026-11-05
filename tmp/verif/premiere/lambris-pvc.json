@@ -1,0 +1,13 @@
+{
+  "termId": "lambris-pvc",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Une camionnette Royal Mail rouge d'époque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun lambris PVC, hors sujet."
+    }
+  ]
+}

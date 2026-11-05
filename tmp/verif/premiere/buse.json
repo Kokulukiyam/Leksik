@@ -1,0 +1,53 @@
+{
+  "termId": "buse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros tuyau cylindrique en béton posé dans une tranchée en bordure de rizière.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Philippines",
+      "note": "Buse béton claire et dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sortie d'une buse dans un talus herbeux au-dessus d'un ruisseau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Buse petite, cachée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photographie ancienne en noir et blanc d'une conduite en construction avec ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Conduite forcée ancienne, pas une buse de voirie."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier debout dans un énorme tuyau de béton, d'autres tuyaux derrière, en noir et blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Pays-Bas",
+      "note": "Tuyaux béton cylindriques évidents ; photo ancienne en noir et blanc."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Même tuyau béton en tranchée que 01, autre angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doublon de la scène de 01, une seule retenue."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bout de tuyau moussu avec eau vive.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage trop serré."
+    }
+  ]
+}

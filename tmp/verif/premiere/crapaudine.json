@@ -1,0 +1,26 @@
+{
+  "termId": "crapaudine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Toiture-terrasse d'un lycée avec une évacuation d'eaux pluviales coiffée d'une grille bombée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.25,
+        "y": 0.58,
+        "largeur": 0.12,
+        "hauteur": 0.12
+      },
+      "lieu": "Greenfield, Wisconsin, États-Unis",
+      "note": "Crapaudine bien visible, encadrée de près ; petite dans l'image mais sans ambiguïté."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Angle de couverture en cuivre avec noue et soudures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de crapaudine."
+    }
+  ]
+}

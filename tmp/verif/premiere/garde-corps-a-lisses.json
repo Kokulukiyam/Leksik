@@ -1,0 +1,53 @@
+{
+  "termId": "garde-corps-a-lisses",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chat sur une rambarde devant un graffiti.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet = chat, rambarde floue."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Noir et blanc, main courante et escalier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rambardes en diagonale, pas lisible comme garde-corps à lisses."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chat sur une rambarde devant un graffiti (recadrage).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même défaut."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Quai d'Amsterdam avec garde-corps à lisses au loin, pavés au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Garde-corps trop petit et lointain."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Main courante d'escalier avec figurines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Newcastle, Royaume-Uni",
+      "note": "Main courante, pas un garde-corps à lisses."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Arbre au premier plan, rampe d'escalier en arrière-plan à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Rampe trop petite, arbre dominant."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "panneau-de-chantier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grand panneau rouge d'information de chantier d'un promoteur, posé sur le trottoir devant le chantier.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.31,
+        "largeur": 0.45,
+        "hauteur": 0.48
+      },
+      "lieu": "Varsovie, Pologne",
+      "note": "Panneau d'affichage de chantier avec nom du projet et intervenants, net et dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux panneaux, l'un vert d'information de chantier, l'autre rose, rognés sur les bords.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau coupé et deux panneaux, rectangle peu sûr."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâche de consignes de sécurité sur une clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Consignes de sécurité, pas un panneau de chantier."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan rogné d'un panneau vert d'information.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau coupé, sans contexte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grues rouges sur un chantier avec barrières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau absent."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'un panneau vert à texte chinois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau coupé, sans contexte."
+    }
+  ]
+}

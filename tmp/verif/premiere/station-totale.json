@@ -1,0 +1,53 @@
+{
+  "termId": "station-totale",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vitrine de musée avec instruments anciens d'arpentage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Instruments anciens en vitrine, trop ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Machine à diviser dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine de musée, pas une station totale."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Boussole d'arpenteur ancienne dans un cadre en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boussole, pas une station totale."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Opérateur casqué derrière un niveau numérique sur trépied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil de type niveau numérique (catégorie Levelling), texte cyrillique visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Station totale sur trépied vue de face, sur un chantier dégagé, avec faisceau vert.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Station totale nette, dominante, typique."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Théodolite ancien orange posé sur une table de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Théodolite ancien en musée, pas une station totale."
+    }
+  ]
+}

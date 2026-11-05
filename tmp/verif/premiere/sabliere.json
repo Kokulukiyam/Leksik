@@ -1,0 +1,53 @@
+{
+  "termId": "sabliere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bâtiment à toit d'ardoise en rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sablière non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cour pavée avec maisons à colombages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sablière non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Angle d'une maison à colombages avec poutres sculptées sous le toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces sculptées, ambiguës avec corbeaux et poutre de plancher."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pignon en bois d'une villa.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Non lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bâtiment à toit de tuiles et appentis en tôle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Non lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison à colombages rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sablière non isolable."
+    }
+  ]
+}

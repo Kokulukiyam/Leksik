@@ -1,0 +1,53 @@
+{
+  "termId": "puisard",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Planche dessinée de pompes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Crépine rouillée dans une cuve.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un puisard."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Planche dessinée de pompes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuyaux et trappe dans un local.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un puisard."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Page manuscrite de pompes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fond de cuve rouillé avec tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un puisard."
+    }
+  ]
+}

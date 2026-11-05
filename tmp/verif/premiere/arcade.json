@@ -1,0 +1,53 @@
+{
+  "termId": "arcade",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dessin de colonnade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tonnelles de végétation sous la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Helsinki",
+      "note": "Pas une arcade."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Panorama du Cinquantenaire avec colonnades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bruxelles",
+      "note": "Image trop petite et très étirée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Arches illuminées d'un marché de Noël.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berlin",
+      "note": "Décor végétal."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Galerie marchande victorienne sous verrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Okehampton, Royaume-Uni",
+      "note": "Passage couvert, pas des arcs sur façade."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Galerie à arcs le long d'un mur, sombre et abandonnée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, confusion avec galerie ou loggia."
+    }
+  ]
+}

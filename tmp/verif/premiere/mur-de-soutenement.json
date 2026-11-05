@@ -1,0 +1,53 @@
+{
+  "termId": "mur-de-soutenement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Route de montagne avec un mur de pierre en bord à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur trop petit, sens incertain."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur de briques en noir et blanc le long d'une ruelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de clôture, pas de soutènement."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Quai maçonné d'un bassin en parc avec pêcheurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de berge/quai, soutènement non net."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur couvert de vigne autour d'une cour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rôle de soutènement non démontré."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chantier de mur de protection littoral près d'une voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage de protection côtière en chantier."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de pierre le long d'un trottoir avec porte verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de clôture."
+    }
+  ]
+}

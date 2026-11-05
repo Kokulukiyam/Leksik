@@ -1,0 +1,53 @@
+{
+  "termId": "chaise-d-armature",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Barres coudées rouillées empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chaise."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade de brique avec aciers apparents sur un bandeau béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Corrosion, pas chaise."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ancienne barre d'acier dans du béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Règle à calcul circulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Faisceau de barres liées sur gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chaise."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chantier de dalle vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaises illisibles."
+    }
+  ]
+}

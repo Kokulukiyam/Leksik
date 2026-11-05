@@ -1,0 +1,58 @@
+{
+  "termId": "devanture",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Magasins de tissus avec enseignes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barranquilla, Colombie",
+      "note": "Textes d'enseignes, ensemble confus."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancienne boutique à enseigne peinte, porte et volets.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Donnemarie-Dontilly, France",
+      "note": "Devanture ancienne complète avec bandeau d'enseigne."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Boutique moderne avec vitrines et machines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Anvers, Belgique",
+      "note": "Surtout vitrine, texte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photographie ancienne de rue marchande.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, lisibilité faible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Devanture partielle de vélo avec graffiti.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toronto",
+      "note": "Coupée, enseigne lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Devanture de pâtisserie à décor de ferronnerie et marbre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.52,
+        "largeur": 0.9,
+        "hauteur": 0.43
+      },
+      "lieu": "Lille, France",
+      "note": "Devanture complète avec vitrines, entrée et bandeau."
+    }
+  ]
+}

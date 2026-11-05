@@ -1,0 +1,58 @@
+{
+  "termId": "toit-conique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dôme conique en verre et acier au-dessus d'une tour en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Verrière, ambiguë."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Étang entouré d'arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment à toiture pyramidale vitrée au bord d'un bassin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pyramide polygonale, pas un cône."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Abri de gare à voûte verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tour ronde jaune coiffée d'un toit conique en bardeaux rouges avec croix.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.1,
+        "largeur": 0.86,
+        "hauteur": 0.62
+      },
+      "lieu": "",
+      "note": "Cône net, très lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tour de rempart à toit pointu et colonne Morris à dôme au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion avec dôme et flèche."
+    }
+  ]
+}

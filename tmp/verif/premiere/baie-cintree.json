@@ -1,0 +1,53 @@
+{
+  "termId": "baie-cintree",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Arc de pierre en ruine couvert de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc isolé, pas une baie."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Marché de Noël devant un immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouverture étroite à arc dans un mur épais, de côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, niche ou meurtrière."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Passage à arc brisé entre deux bâtiments.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc brisé, passage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fenêtre à barreaux rectangulaire et arcs de ruelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre droite."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Arche gonflable de course.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

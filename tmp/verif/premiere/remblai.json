@@ -1,0 +1,53 @@
+{
+  "termId": "remblai",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rendu 3D de couches de terrain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image de synthèse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pelouse devant un bâtiment, traces d'argile rouge au pied du mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun remblai."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Haut mur de pierre sous un saule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de soutènement, pas un remblai."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Godet d'une pelle déversant de la terre sur un tas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terre déversée, ambiguë avec déblai."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Quai aménagé le long du Danube.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bratislava, Slovaquie",
+      "note": "Quai, remblai non montré."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hommes au bord d'un canal dans la campagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sachkhere, Géorgie",
+      "note": "Personnes au premier plan, remblai non évident."
+    }
+  ]
+}

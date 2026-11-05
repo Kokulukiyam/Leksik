@@ -1,0 +1,58 @@
+{
+  "termId": "mur-vegetal",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Immense mur végétal à côté du CaixaForum.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.45,
+        "y": 0.0,
+        "largeur": 0.55,
+        "hauteur": 0.95
+      },
+      "lieu": "Madrid, Espagne",
+      "note": "Mur végétal célèbre, encadré à droite."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Couloir vitré avec plantes à l'horizontale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue ambiguë."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détail d'un mur de plantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans contexte, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pots suspendus sur un mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fraisse-sur-Agout, France",
+      "note": "Pots, plutôt jardinière ; panneau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panneau de mousse sur un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tableau de mousse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade de brique couverte de poches de culture plantées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur végétal modulaire, net."
+    }
+  ]
+}

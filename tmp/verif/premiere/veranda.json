@@ -1,0 +1,53 @@
+{
+  "termId": "veranda",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Galerie couverte chinoise sur poteaux, hors façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas adossée à une façade, style particulier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Galerie à colonnes en bois sculpté devant un bâtiment en brique, enseigne visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doute entre galerie, porche et auvent."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Album de photos anciennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade japonaise avec balcons et structures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confus."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Galerie sur poteaux de bois le long d'un mur de pierre, à contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, doute."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petit auvent sur poteaux avec escalier devant une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt auvent ou porche."
+    }
+  ]
+}

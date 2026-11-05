@@ -1,0 +1,126 @@
+{
+  "terme": {
+    "id": "hotte",
+    "terme": "la hotte",
+    "categorie": "Réseaux et équipements",
+    "definition": "Appareil placé au-dessus de la cuisinière qui aspire les fumées et les odeurs de cuisson.",
+    "priorite": 2,
+    "requetes": [
+      "kitchen hood",
+      "hotte de cuisine",
+      "range hood"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Cappa d'aspirazione Ariston.jpg",
+      "description": "Vecchia cappa d'aspirazione Ariston a casa di una mia zia a Milano.",
+      "categories": [
+        "Exhaust hoods",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Ariston products"
+      ],
+      "auteur": "Air fans",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cappa_d%27aspirazione_Ariston.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Cappa_d%27aspirazione_Ariston.jpg/1280px-Cappa_d%27aspirazione_Ariston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Cozinha.Kitchen.jpg",
+      "description": "Mosteiro de Alcobaça",
+      "categories": [
+        "Taken with Fujifilm FinePix S5500",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2011",
+        "Reviewed images from Wiki Loves Monuments 2011 in Portugal",
+        "Images from Wiki Loves Monuments 2011 in Portugal",
+        "IGESPAR with known IDs",
+        "Cozinha, Mosteiro de Alcobaça",
+        "SIPA with known IDs",
+        "WLM-PT with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Columns of cooker hood and chimney in Alcobaça Monastery kitchen"
+      ],
+      "auteur": "Maria da Luz Moreira",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cozinha.Kitchen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Cozinha.Kitchen.jpg/1280px-Cozinha.Kitchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Cappa di aspirazione 2.jpg",
+      "description": "Cappa di aspirazione della cucina di casa",
+      "categories": [
+        "Exhaust hoods",
+        "Self-published work"
+      ],
+      "auteur": "Antonio Mette",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cappa_di_aspirazione_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Cappa_di_aspirazione_2.jpg/1280px-Cappa_di_aspirazione_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Cocina del Monasterio de Alcobaça.jpg",
+      "description": "Cocina monacal. Esta cocina disfrutaba de agua corriente.",
+      "categories": [
+        "Self-published work",
+        "Cozinha, Mosteiro de Alcobaça",
+        "Columns of cooker hood and chimney in Alcobaça Monastery kitchen"
+      ],
+      "auteur": "José Luis Filpo Cabana",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cocina_del_Monasterio_de_Alcoba%C3%A7a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cocina_del_Monasterio_de_Alcoba%C3%A7a.jpg/1280px-Cocina_del_Monasterio_de_Alcoba%C3%A7a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4172,
+      "hauteur": 2346
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Cappa cucina.jpg",
+      "description": "Cappa di aspirazione a casa di amici.",
+      "categories": [
+        "Exhaust hoods",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Air fans",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cappa_cucina.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Cappa_cucina.jpg/1280px-Cappa_cucina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Alcobaça, Mosteiro de Alcobaça, cozinha (4).jpg",
+      "description": "Alcobaca Monastry kitchen",
+      "categories": [
+        "Taken with Olympus E-PL1",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Cozinha, Mosteiro de Alcobaça",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Paul Barker Hemings",
+        "Photographs by Paul Barker Hemings (Portugal)",
+        "Columns of cooker hood and chimney in Alcobaça Monastery kitchen"
+      ],
+      "auteur": "paul Barker Hemings from seregno, 85",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alcoba%C3%A7a,_Mosteiro_de_Alcoba%C3%A7a,_cozinha_(4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Alcoba%C3%A7a%2C_Mosteiro_de_Alcoba%C3%A7a%2C_cozinha_%284%29.jpg/1280px-Alcoba%C3%A7a%2C_Mosteiro_de_Alcoba%C3%A7a%2C_cozinha_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3679,
+      "hauteur": 2759
+    }
+  ]
+}

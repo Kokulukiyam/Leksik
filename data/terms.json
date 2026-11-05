@@ -624,6 +624,40 @@
     ]
   },
   {
+    "id": "palissade-de-chantier",
+    "terme": "la palissade de chantier",
+    "definition": "Clôture pleine provisoire, en tôle ou en panneaux, qui entoure un chantier et le sépare de la voie publique.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
+  },
+  {
+    "id": "panneau-de-chantier",
+    "terme": "le panneau de chantier",
+    "definition": "Grand panneau d'affichage dressé à l'entrée d'un chantier, qui présente le projet, le permis de construire et les intervenants.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "palissade-de-chantier"
+    ]
+  },
+  {
+    "id": "benne-a-gravats",
+    "terme": "la benne à gravats",
+    "definition": "Grand caisson métallique ouvert, déposé par camion, dans lequel on jette les déchets et gravats du chantier.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "camion-benne"
+    ]
+  },
+  {
+    "id": "cone-de-signalisation",
+    "terme": "le cône de signalisation",
+    "definition": "Cône en plastique orange à bandes blanches réfléchissantes, posé au sol pour baliser une zone de travaux.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
+  },
+  {
     "id": "echafaudage",
     "terme": "l'échafaudage",
     "definition": "Structure provisoire de montants, traverses et planchers dressée contre un ouvrage pour permettre de travailler en hauteur.",
@@ -634,6 +668,26 @@
     ]
   },
   {
+    "id": "echafaudage-tubulaire",
+    "terme": "l'échafaudage tubulaire",
+    "definition": "Échafaudage fait de tubes d'acier assemblés par des colliers, adaptable à toutes les formes d'ouvrage.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "echafaudage",
+      "echafaudage-roulant",
+      "echafaudage-en-bois",
+      "echafaudage-en-bambou"
+    ]
+  },
+  {
+    "id": "nacelle-elevatrice",
+    "terme": "la nacelle élévatrice",
+    "definition": "Engin muni d'un panier ou d'une plateforme élevé par un bras ou des ciseaux pour travailler en hauteur.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
+  },
+  {
     "id": "coffrage",
     "terme": "le coffrage",
     "definition": "Moule provisoire, en bois ou en métal, dans lequel on coule le béton pour lui donner sa forme.",
@@ -642,6 +696,30 @@
     "incompatibles": [
       "coffrage-bois",
       "coffrage-metallique"
+    ]
+  },
+  {
+    "id": "coffrage-metallique",
+    "terme": "le coffrage métallique",
+    "definition": "Coffrage fait de panneaux d'acier réutilisables, assemblés par clavettes ou serrages.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "coffrage",
+      "banche",
+      "coffrage-de-dalle"
+    ]
+  },
+  {
+    "id": "banche",
+    "terme": "la banche",
+    "definition": "Grand panneau de coffrage métallique vertical, stabilisé par des béquilles, qui sert à couler les voiles de béton.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "coffrage",
+      "coffrage-bois",
+      "coffrage-de-poteau"
     ]
   },
   {
@@ -678,6 +756,34 @@
     ]
   },
   {
+    "id": "bulldozer",
+    "terme": "le bulldozer",
+    "definition": "Engin sur chenilles muni à l'avant d'une large lame qui pousse et étale la terre.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
+  },
+  {
+    "id": "rouleau-compresseur",
+    "terme": "le rouleau compresseur",
+    "definition": "Engin dont une ou plusieurs roues sont de lourds cylindres d'acier, qui compacte le sol ou l'enrobé.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "plaque-vibrante",
+      "pilonneuse"
+    ]
+  },
+  {
+    "id": "plaque-vibrante",
+    "terme": "la plaque vibrante",
+    "definition": "Machine à main posée sur une semelle d'acier vibrante, qu'on pousse pour compacter un remblai ou des pavés.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "pilonneuse"
+    ]
+  },
+  {
     "id": "camion-benne",
     "terme": "le camion-benne",
     "definition": "Camion dont la caisse basculante déverse sable, gravier ou déblais.",
@@ -697,6 +803,30 @@
     "incompatibles": [
       "pompe-a-beton"
     ]
+  },
+  {
+    "id": "pompe-a-beton",
+    "terme": "la pompe à béton",
+    "definition": "Engin, le plus souvent un camion à long bras articulé déplié au-dessus du chantier, qui refoule le béton dans un tuyau jusqu'au point de coulage.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "camion-toupie"
+    ]
+  },
+  {
+    "id": "grue-a-tour",
+    "terme": "la grue à tour",
+    "definition": "Grue fixe formée d'un haut mât en treillis et d'une flèche horizontale qui pivote au-dessus du chantier.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
+  },
+  {
+    "id": "grue-mobile",
+    "terme": "la grue mobile",
+    "definition": "Grue montée sur un camion ou un porteur à pneus, à flèche télescopique, stabilisée par des béquilles.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
   },
   {
     "id": "truelle",
@@ -737,6 +867,26 @@
     "priorite": 1
   },
   {
+    "id": "burin",
+    "terme": "le burin",
+    "definition": "Barre d'acier à bout plat et tranchant, frappée au marteau pour tailler ou démolir la maçonnerie.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "masse"
+    ]
+  },
+  {
+    "id": "regle-de-macon",
+    "terme": "la règle de maçon",
+    "definition": "Longue barre droite en aluminium, qu'on tire sur une chape ou un enduit frais pour le dresser.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "aiguille-vibrante"
+    ]
+  },
+  {
     "id": "niveau-a-bulle",
     "terme": "le niveau à bulle",
     "definition": "Barre droite munie de fioles où une bulle d'air indique si une surface est horizontale ou verticale.",
@@ -749,6 +899,20 @@
     "definition": "Poids métallique suspendu au bout d'une ficelle, qui donne la verticale pour monter un mur droit.",
     "categorie": "Chantier et outillage",
     "priorite": 1
+  },
+  {
+    "id": "aiguille-vibrante",
+    "terme": "l'aiguille vibrante",
+    "definition": "Tige métallique vibrante au bout d'un flexible, plongée dans le béton frais pour en chasser l'air.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
+  },
+  {
+    "id": "tenaille",
+    "terme": "la tenaille",
+    "definition": "Pince à mâchoires arrondies et coupantes, qui sert au ferrailleur à serrer et couper le fil de ligature.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
   },
   {
     "id": "fil-a-ligaturer",
@@ -765,6 +929,13 @@
     "priorite": 1
   },
   {
+    "id": "poste-a-souder",
+    "terme": "le poste à souder",
+    "definition": "Appareil électrique relié par câbles à une pince porte-électrode, qui fond le métal pour assembler des pièces d'acier.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
+  },
+  {
     "id": "perceuse",
     "terme": "la perceuse",
     "definition": "Outil électrique à main qui fait tourner un foret pour percer des trous.",
@@ -773,6 +944,13 @@
     "incompatibles": [
       "carotteuse"
     ]
+  },
+  {
+    "id": "marteau-piqueur",
+    "terme": "le marteau-piqueur",
+    "definition": "Lourd outil pneumatique ou électrique qui frappe un pic sur le béton ou la chaussée pour les briser.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
   },
   {
     "id": "metre-ruban",
@@ -787,6 +965,20 @@
     "definition": "Outil à manche et tige métallique dont le bout plat ou cruciforme serre les vis.",
     "categorie": "Chantier et outillage",
     "priorite": 1
+  },
+  {
+    "id": "coupe-carreau",
+    "terme": "le coupe-carreau",
+    "definition": "Appareil à rail et molette qui raye puis casse net les carreaux en ligne droite.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
+  },
+  {
+    "id": "cle-serre-tube",
+    "terme": "la clé serre-tube",
+    "definition": "Grosse clé à mâchoires dentées réglables, qui serre et tourne les tubes et raccords filetés.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
   },
   {
     "id": "gilet-haute-visibilite",
@@ -808,6 +1000,23 @@
     "definition": "Gants en cuir, en tissu enduit ou en caoutchouc, qui protègent les mains des coupures, du ciment et des frottements.",
     "categorie": "Chantier et outillage",
     "priorite": 1
+  },
+  {
+    "id": "station-totale",
+    "terme": "la station totale",
+    "definition": "Appareil de topographie sur trépied, à lunette pivotante et écran, qui mesure angles et distances pour implanter.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "mire"
+    ]
+  },
+  {
+    "id": "niveau-laser",
+    "terme": "le niveau laser",
+    "definition": "Appareil qui projette des lignes ou un plan laser horizontal et vertical pour donner niveaux et aplombs.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2
   },
   {
     "id": "bordure-de-trottoir",
@@ -842,11 +1051,55 @@
     ]
   },
   {
+    "id": "pave",
+    "terme": "le pavé",
+    "definition": "Bloc de pierre taillée, souvent cubique, juxtaposé à d'autres pour revêtir une rue ou une place.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2,
+    "incompatibles": [
+      "pave-autobloquant",
+      "allee"
+    ]
+  },
+  {
+    "id": "allee",
+    "terme": "l'allée",
+    "definition": "Chemin aménagé d'un jardin ou d'une parcelle, en gravier, dalles ou pavés.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2
+  },
+  {
     "id": "tampon-de-regard",
     "terme": "le tampon de regard",
     "definition": "Couvercle rond ou carré, en fonte ou en béton, qui ferme un regard au niveau du sol.",
     "categorie": "Extérieurs et voirie",
     "priorite": 1
+  },
+  {
+    "id": "grille-avaloir",
+    "terme": "la grille avaloir",
+    "definition": "Grille en fonte posée dans le caniveau ou la chaussée, au-dessus d'un avaloir, qui laisse passer l'eau.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2
+  },
+  {
+    "id": "dalot",
+    "terme": "le dalot",
+    "definition": "Ouvrage rectangulaire en béton qui fait passer l'eau sous une route.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2,
+    "incompatibles": [
+      "buse",
+      "canal-d-eaux-pluviales",
+      "caniveau"
+    ]
+  },
+  {
+    "id": "buse",
+    "terme": "la buse",
+    "definition": "Gros tuyau cylindrique en béton qui fait passer l'eau sous une voie ou une entrée de parcelle.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2
   },
   {
     "id": "dos-d-ane",
@@ -884,6 +1137,16 @@
     ]
   },
   {
+    "id": "potelet",
+    "terme": "le potelet",
+    "definition": "Petit poteau fixé au bord du trottoir pour empêcher les voitures d'y stationner.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2,
+    "incompatibles": [
+      "trottoir"
+    ]
+  },
+  {
     "id": "lampadaire",
     "terme": "le lampadaire",
     "definition": "Haut mât portant un ou plusieurs luminaires qui éclairent la rue.",
@@ -899,6 +1162,16 @@
     "definition": "Plaque métallique à symboles, fixée sur un poteau, qui donne une indication ou une obligation aux usagers de la route.",
     "categorie": "Extérieurs et voirie",
     "priorite": 1
+  },
+  {
+    "id": "abribus",
+    "terme": "l'abribus",
+    "definition": "Abri couvert, souvent vitré et muni d'un banc, installé à un arrêt de bus.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2,
+    "incompatibles": [
+      "pergola"
+    ]
   },
   {
     "id": "mur-de-cloture",
@@ -968,6 +1241,38 @@
     ]
   },
   {
+    "id": "haie",
+    "terme": "la haie",
+    "definition": "Rangée d'arbustes plantés serrés et taillés, qui forme une clôture végétale.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2
+  },
+  {
+    "id": "gabion",
+    "terme": "le gabion",
+    "definition": "Cage en grillage d'acier remplie de pierres, empilée pour former murs et soutènements.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2,
+    "incompatibles": [
+      "mur-de-soutenement",
+      "talus"
+    ]
+  },
+  {
+    "id": "pergola",
+    "terme": "la pergola",
+    "definition": "Structure de poteaux et de poutres ajourées qui forme un couvert léger au-dessus d'une terrasse ou d'une allée.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2
+  },
+  {
+    "id": "pelouse",
+    "terme": "la pelouse",
+    "definition": "Surface plantée de gazon court et entretenu.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2
+  },
+  {
     "id": "piscine",
     "terme": "la piscine",
     "definition": "Bassin artificiel étanche, revêtu de carrelage, de liner ou d'enduit, aménagé pour la baignade.",
@@ -998,6 +1303,23 @@
     ]
   },
   {
+    "id": "porche",
+    "terme": "le porche",
+    "definition": "Espace couvert devant l'entrée d'un bâtiment, formant abri avant la porte.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2
+  },
+  {
+    "id": "fenetre-en-bandeau",
+    "terme": "la fenêtre en bandeau",
+    "definition": "Fenêtre horizontale très allongée qui court sur une grande partie de la façade.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "baie"
+    ]
+  },
+  {
     "id": "garde-corps-vitre",
     "terme": "le garde-corps vitré",
     "definition": "Garde-corps dont le remplissage est un panneau de verre feuilleté, tenu par des pinces, un profilé ou des montants.",
@@ -1009,6 +1331,33 @@
     ]
   },
   {
+    "id": "garde-corps-en-fer-forge",
+    "terme": "le garde-corps en fer forgé",
+    "definition": "Garde-corps en fers forgés et assemblés en volutes ou motifs décoratifs.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "garde-corps",
+      "garde-corps-a-barreaudage",
+      "balcon",
+      "fer-forge"
+    ]
+  },
+  {
+    "id": "balustrade",
+    "terme": "la balustrade",
+    "definition": "Garde-corps formé d'une rangée de balustres surmontée d'une tablette.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "balustre",
+      "garde-corps",
+      "garde-corps-maconne",
+      "garde-corps-a-barreaudage",
+      "balcon"
+    ]
+  },
+  {
     "id": "store-banne",
     "terme": "le store banne",
     "definition": "Store en toile qui se déroule en avant d'une façade, porté par des bras articulés.",
@@ -1016,6 +1365,49 @@
     "priorite": 2,
     "incompatibles": [
       "auvent"
+    ]
+  },
+  {
+    "id": "voile-d-ombrage",
+    "terme": "la voile d'ombrage",
+    "definition": "Toile tendue entre des mâts ou des points d'ancrage pour ombrager une terrasse ou une cour.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "store-banne"
+    ]
+  },
+  {
+    "id": "mur-vegetal",
+    "terme": "le mur végétal",
+    "definition": "Façade ou mur couvert de plantes cultivées sur un support vertical, avec arrosage intégré.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "facade"
+    ]
+  },
+  {
+    "id": "coursive",
+    "terme": "la coursive",
+    "definition": "Galerie extérieure ouverte, le long d'une façade, qui dessert les logements d'un même étage.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "garde-corps",
+      "balcon-filant"
+    ]
+  },
+  {
+    "id": "devanture",
+    "terme": "la devanture",
+    "definition": "Façade d'une boutique au rez-de-chaussée, avec sa vitrine, son entrée et son bandeau d'enseigne.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "vitrine",
+      "rideau-metallique",
+      "store-banne"
     ]
   },
   {
@@ -1468,6 +1860,20 @@
     "priorite": 1
   },
   {
+    "id": "bouteille-de-gaz",
+    "terme": "la bouteille de gaz",
+    "definition": "Bouteille métallique de butane ou de propane qui alimente une cuisinière ou un réchaud.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "tableau-electrique",
+    "terme": "le tableau électrique",
+    "definition": "Coffret qui regroupe les disjoncteurs et protections d'une installation électrique sur des rails.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
     "id": "compteur-electrique",
     "terme": "le compteur électrique",
     "definition": "Appareil qui mesure l'électricité consommée, avec un afficheur, installé à l'entrée du logement.",
@@ -1556,6 +1962,80 @@
     "terme": "la grille de ventilation",
     "definition": "Grille à lames ou perforée posée sur un mur ou une porte, qui laisse passer l'air.",
     "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "extincteur",
+    "terme": "l'extincteur",
+    "definition": "Bouteille rouge sous pression, munie d'une poignée et d'un tuyau, qui projette un produit pour éteindre un début de feu.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 1
+  },
+  {
+    "id": "cloison",
+    "terme": "la cloison",
+    "definition": "Mur intérieur mince et non porteur qui sépare deux pièces.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 1
+  },
+  {
+    "id": "bande-a-joint",
+    "terme": "la bande à joint",
+    "definition": "Bande de papier ou de fibre noyée dans l'enduit pour masquer et renforcer la jonction entre deux plaques de plâtre.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 1,
+    "incompatibles": [
+      "plaque-de-platre"
+    ]
+  },
+  {
+    "id": "faux-plafond-en-dalles",
+    "terme": "le faux plafond en dalles",
+    "definition": "Faux plafond fait de dalles amovibles, souvent de 60 × 60 cm, posées dans une ossature apparente.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 1,
+    "incompatibles": [
+      "faux-plafond",
+      "ossature-de-faux-plafond",
+      "faux-plafond-a-lames-metalliques",
+      "panneau-acoustique"
+    ]
+  },
+  {
+    "id": "gorge-lumineuse",
+    "terme": "la gorge lumineuse",
+    "definition": "Rebord ou décaissé du faux plafond qui cache une source lumineuse éclairant le plafond de façon indirecte.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 1,
+    "incompatibles": [
+      "faux-plafond",
+      "staff",
+      "faux-plafond-en-plaques-de-platre"
+    ]
+  },
+  {
+    "id": "gres-cerame-poli",
+    "terme": "le grès cérame poli",
+    "definition": "Carreau de grès cérame à surface polie et brillante qui reflète la lumière, souvent appelé carreau poli à Dakar.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 1,
+    "incompatibles": [
+      "carreau-de-gres-cerame",
+      "carrelage"
+    ]
+  },
+  {
+    "id": "plinthe",
+    "terme": "la plinthe",
+    "definition": "Bande de carrelage, de bois ou de PVC posée au bas d'un mur, contre le sol, pour le protéger.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 1
+  },
+  {
+    "id": "plan-de-travail",
+    "terme": "le plan de travail",
+    "definition": "Tablette horizontale de cuisine en granit, bois, stratifié ou carrelage, posée sur les meubles bas.",
+    "categorie": "Second œuvre et finitions",
     "priorite": 1
   }
 ]

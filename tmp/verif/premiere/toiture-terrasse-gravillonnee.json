@@ -1,0 +1,53 @@
+{
+  "termId": "toiture-terrasse-gravillonnee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Toiture en tôle ondulée avec extracteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de gravillons."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toiture-terrasse à membrane grise, acrotère, façade béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Membrane, pas de gravillons."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit bâtiment à toit plat enherbé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture végétalisée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Toiture-terrasse avec antennes et garde-corps, revêtement dégradé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravillons non visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bâtiment avec toit plat végétalisé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture végétalisée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Abribus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

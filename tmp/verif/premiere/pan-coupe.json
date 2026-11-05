@@ -1,0 +1,53 @@
+{
+  "termId": "pan-coupe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bâtiment d'angle avec poste, angle poste de Nis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Niš, Serbie",
+      "note": "Angle non clairement coupé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bâtiment d'angle à entrée en avancée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Châlons-en-Champagne, France",
+      "note": "Angle en avant-corps, pas un pan coupé net."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Immeubles d'angle arrondis à Hong Kong.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Angle arrondi, foule."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand magasin à angle courbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nantes, France",
+      "note": "Angle arrondi, enseigne visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bâtiment d'angle avec enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Adélaïde, Australie",
+      "note": "Enseigne, angle non net."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hôtels au coin d'une rue, vus de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Laval, France",
+      "note": "Trop loin, angle peu lisible."
+    }
+  ]
+}

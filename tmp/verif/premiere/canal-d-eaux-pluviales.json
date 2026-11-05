@@ -1,0 +1,53 @@
+{
+  "termId": "canal-d-eaux-pluviales",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pose de buses métalliques en tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Buses."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Large canal en béton à ciel ouvert aux berges maçonnées, avec seuils, traversant une rue de village.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Budaörs, Hongrie",
+      "note": "Canal bétonné large et clair ; les buses au fond ne dominent pas."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux hommes au bord d'un canal de drainage en terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plaque de fonte décorée sur un trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque de fonte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Canal d'agrément avec canards et seuils.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cours d'eau ornemental."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grille d'avaloir envahie par les plantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille."
+    }
+  ]
+}

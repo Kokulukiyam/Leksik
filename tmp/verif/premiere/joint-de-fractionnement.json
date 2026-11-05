@@ -1,0 +1,53 @@
+{
+  "termId": "joint-de-fractionnement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dalles de béton soulevées par des racines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fissure et désordre, pas un joint de fractionnement."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol en béton imprimé façon pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Motif décoratif, pas de joints sciés."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chantier de pont, dalles en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de joint lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Panneau de façade préfabriqué, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Camion toupie, chantier de dalle de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans joint visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chantier avec armatures et coffrage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans joint visible."
+    }
+  ]
+}

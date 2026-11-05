@@ -1,0 +1,58 @@
+{
+  "termId": "potelet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Poteau jaune sur socle dans un parking couvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poteau de parking sur socle, moins typique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Borne jaune avec yeux collés sur gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Autocollants, peu sérieux."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Potelet bleu décoré de poissons et d'un blason au milieu d'une chaussée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Teignmouth, Royaume-Uni",
+      "note": "Potelet de voirie net et dominant ; autocollant de texte sans rapport avec la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Borne métallique carrée sur un trottoir au bord d'une avenue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Forme atypique, ambiguë."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bitte d'amarrage avec chaînes sur un quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bitte d'amarrage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Potelet de fonte noir au coin d'un bâtiment blanc, au bord du trottoir.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.48,
+        "largeur": 0.12,
+        "hauteur": 0.34
+      },
+      "lieu": "Hampstead, Londres",
+      "note": "Potelet classique, rectangle sur lui pour écarter la grille d'avaloir et le bâtiment."
+    }
+  ]
+}

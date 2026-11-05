@@ -1,0 +1,141 @@
+{
+  "terme": {
+    "id": "onduleur",
+    "terme": "l'onduleur",
+    "categorie": "Réseaux et équipements",
+    "definition": "Boîtier électronique mural qui transforme le courant continu des panneaux solaires ou des batteries en courant alternatif.",
+    "priorite": 2,
+    "requetes": [
+      "solar inverter",
+      "onduleur solaire",
+      "inverter wall mounted"
+    ],
+    "categoriesCommons": [
+      "Category:Inverters"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Total Solar Eclipse 8-21-17.jpg",
+      "description": "L' éclipse solaire du 21 août 2017 vue depuis le Wyoming (États-Unis). Cette photographie utilise la technique du bracketing pour faire apparaître à la fois la couronne solaire et la surface de la Lune , illuminée par le clair de Terre .",
+      "categories": [
+        "Taken with Canon EOS 5D Mark IV",
+        "Solar corona",
+        "Featured pictures of Wyoming",
+        "New moon",
+        "Earthshine",
+        "Self-published work",
+        "Featured pictures on Wikipedia, English",
+        "Items with VRTS permission confirmed",
+        "Picture of week on the Czech Wikipedia",
+        "Featured pictures on Wikipedia, Persian",
+        "Featured pictures on Wikipedia, Spanish",
+        "Files with coordinates missing SDC location of creation",
+        "General category images from Wiki Science Competition 2017",
+        "Solar eclipse of 2017 August 21 in Wyoming",
+        "Images from Wiki Science Competition 2017 in the United States",
+        "National finalists for the General category from Wiki Science Competition 2017",
+        "General category images from Wiki Science Competition 2017 in the United States",
+        "Uploaded via Campaign:wsc-us",
+        "Featured pictures of solar eclipses",
+        "Featured pictures on Wikipedia, Arabic",
+        "Pictures of the Year/2018 (finalist)",
+        "Featured pictures by others nominated by Rhododendrites",
+        "Featured pictures from Wiki Science Competition 2017",
+        "Astronomical composite images"
+      ],
+      "auteur": "Michael S Adler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Total_Solar_Eclipse_8-21-17.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Total_Solar_Eclipse_8-21-17.jpg/1280px-Total_Solar_Eclipse_8-21-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4236,
+      "hauteur": 5648
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Solar park inverter and mounts.jpg",
+      "description": "Paldiski Solar Park uses 17 inverters to convert the direct current produced by solar panels into alternating current for household use, 16 of which have a capacity of 50 kW and one has 10 kW.[br]One of the main components of a solar park are its mounting structures - these seemingly simple metal parts have been carefully designed to ensure their stability in strong winds, their corrosion resistance and frost heave prevention capability. It is also essential that the installation of mounting structures is as quick and easy as possible - this is an important component in optimising the cost of ",
+      "categories": [
+        "Solar cell panels",
+        "Solar energy",
+        "360° panoramas",
+        "Self-published work",
+        "Large images",
+        "Photographs by Lauri Veerde"
+      ],
+      "auteur": "Lauri Veerde",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solar_park_inverter_and_mounts.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Solar_park_inverter_and_mounts.jpg/1280px-Solar_park_inverter_and_mounts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 16856,
+      "hauteur": 8428
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Growatt MOD 4000TL3-X inverter data sheet.jpg",
+      "description": "Data sheet of the inverter Growatt MOD 4000TL3-X.",
+      "categories": [
+        "Solar inverter panels",
+        "Growatt inverters"
+      ],
+      "auteur": "Zátonyi Sándor, (ifj.) Fizped",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Growatt_MOD_4000TL3-X_inverter_data_sheet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Growatt_MOD_4000TL3-X_inverter_data_sheet.jpg/1280px-Growatt_MOD_4000TL3-X_inverter_data_sheet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Inverter Voltage Transformer Coil.jpg",
+      "description": "Copper Coil Transformer inside 3,500-watt photo voltaic inverter. This coil weighs 40 kilograms (88 pounds). Newer inverters have a lightweight solid state transformer (SST) instead of heavy copper transformer coils.",
+      "categories": [
+        "Solar inverter panels",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "BambuFlute",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Inverter_Voltage_Transformer_Coil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Inverter_Voltage_Transformer_Coil.jpg/1280px-Inverter_Voltage_Transformer_Coil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Inverter battery - Loom Solar.jpg",
+      "description": "Inverter battery by Loom Solar",
+      "categories": [
+        "DC/AC inverters",
+        "Self-published work"
+      ],
+      "auteur": "Pihu5432",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Inverter_battery_-_Loom_Solar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Inverter_battery_-_Loom_Solar.jpg/1280px-Inverter_battery_-_Loom_Solar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Solar Installation in Kenya.jpg",
+      "description": "Solar Installation In Kenya",
+      "categories": [
+        "Solar inverter panels",
+        "Self-published work",
+        "Solar energy in Kenya",
+        "Objects at corners",
+        "Solar batteries in Kenya",
+        "Solar company in Kenya",
+        "Solar installation in Kenya"
+      ],
+      "auteur": "PowerAfricaSolar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solar_Installation_in_Kenya.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Solar_Installation_in_Kenya.jpg/1280px-Solar_Installation_in_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    }
+  ]
+}

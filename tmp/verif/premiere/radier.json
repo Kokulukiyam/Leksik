@@ -1,0 +1,29 @@
+{
+  "termId": "radier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Soldat compactant du gravier avec une dame vibrante dans une fouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Compactage, pas de radier visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vaste chantier de nuit pendant le coulage d'un radier, pompes à béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Malaisie",
+      "note": "Radier trop lointain et illisible, vue de nuit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Dessous d'une fondation de type radier d'un immeuble basculé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Adapazari, Turquie",
+      "note": "Photo ambiguë et peu lisible, radier non évident."
+    }
+  ]
+}

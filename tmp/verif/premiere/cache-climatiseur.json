@@ -1,0 +1,53 @@
+{
+  "termId": "cache-climatiseur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Climatiseur ou personne, sans cache.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache-climatiseur."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Climatiseur ou personne, sans cache.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache-climatiseur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Climatiseur ou personne, sans cache.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache-climatiseur."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Climatiseur ou personne, sans cache.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache-climatiseur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Climatiseur ou personne, sans cache.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache-climatiseur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Climatiseur ou personne, sans cache.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun cache-climatiseur."
+    }
+  ]
+}

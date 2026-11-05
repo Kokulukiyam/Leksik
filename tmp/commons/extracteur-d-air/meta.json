@@ -1,0 +1,138 @@
+{
+  "terme": {
+    "id": "extracteur-d-air",
+    "terme": "l'extracteur d'air",
+    "categorie": "Réseaux et équipements",
+    "definition": "Ventilateur fixé dans un mur, une fenêtre ou un conduit, qui rejette l'air vicié d'une cuisine ou d'une salle d'eau.",
+    "priorite": 2,
+    "requetes": [
+      "exhaust fan wall",
+      "extracteur d'air",
+      "bathroom extractor fan"
+    ],
+    "incompatibles": [
+      "grille-de-ventilation"
+    ],
+    "categoriesCommons": [
+      "Category:Exhaust fans",
+      "Category:Ventilation fans"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:HVAC Ventilation Exhaust.jpg",
+      "description": "A huge double HVAC exhaust of an office building.",
+      "categories": [
+        "Taken with Canon EOS 550D",
+        "Air conditioners",
+        "Self-published work",
+        "2 objects",
+        "Air conditioner fans with spinning blades",
+        "Gray ventilation fans",
+        "Belt-driven fans",
+        "Exhaust fans",
+        "Air conditioner fans with four blades",
+        "HVACR components"
+      ],
+      "auteur": "PictorialEvidence",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HVAC_Ventilation_Exhaust.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/HVAC_Ventilation_Exhaust.jpg/1280px-HVAC_Ventilation_Exhaust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:101 series M'100-810 ventilation fan.jpg",
+      "description": "Ventilation fan on the ceiling of the low roof part of MoHa 100-810 (intermediate motor car) of East Japan Railway Company 101 series EMU. The photo was taken at Bentenbashi rail depot.",
+      "categories": [
+        "CC-Zero",
+        "Ventilation fans",
+        "Self-published work",
+        "JNR 101 in canary yellow livery",
+        "Train electric fans"
+      ],
+      "auteur": "Shellparakeet",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:101_series_M%27100-810_ventilation_fan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/101_series_M%27100-810_ventilation_fan.jpg/1280px-101_series_M%27100-810_ventilation_fan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2859,
+      "hauteur": 1872
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:HK KTD Sau Mau Ping 安泰邨 On Tai Estate 抽氣扇 white window mount ventilating fans January 2023 Px3 02.jpg",
+      "description": "HK KTD Sau Mau Ping 安泰邨 On Tai Estate zh:排氣扇 white window mount ventilating fans in January 2023",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Ventilation fans in Hong Kong",
+        "White ventilation fans",
+        "January 2023 in Sau Mau Ping",
+        "Fans with six blades",
+        "Exhaust fans",
+        "2023 in On Tai Estate"
+      ],
+      "auteur": "BaINSCHAUW Lamidou",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_KTD_Sau_Mau_Ping_%E5%AE%89%E6%B3%B0%E9%82%A8_On_Tai_Estate_%E6%8A%BD%E6%B0%A3%E6%89%87_white_window_mount_ventilating_fans_January_2023_Px3_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/HK_KTD_Sau_Mau_Ping_%E5%AE%89%E6%B3%B0%E9%82%A8_On_Tai_Estate_%E6%8A%BD%E6%B0%A3%E6%89%87_white_window_mount_ventilating_fans_January_2023_Px3_02.jpg/1280px-HK_KTD_Sau_Mau_Ping_%E5%AE%89%E6%B3%B0%E9%82%A8_On_Tai_Estate_%E6%8A%BD%E6%B0%A3%E6%89%87_white_window_mount_ventilating_fans_January_2023_Px3_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Abanico-Andaluz-Fernando Toro-Jerez-IMG 20220226 182734.jpg",
+      "description": "Escultura Abanico Andaluz de Fernando Toro, rotonda de Jacaranda en Jerez de la Frontera (España)",
+      "categories": [
+        "Ventilation fans",
+        "Self-published work",
+        "Monuments and memorials in Jerez de la Frontera",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "El Pantera",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abanico-Andaluz-Fernando_Toro-Jerez-IMG_20220226_182734.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Abanico-Andaluz-Fernando_Toro-Jerez-IMG_20220226_182734.jpg/1280px-Abanico-Andaluz-Fernando_Toro-Jerez-IMG_20220226_182734.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:20240917 在量販超市頂樓的排煙風機與黃昏時天際線.jpg",
+      "description": "A centrifugal smoke exhaust fan of Blue yellow Color with dusk skyline on the rooftop of hypermarket",
+      "categories": [
+        "Exhaust fan shutters",
+        "Roofs in Taiwan",
+        "Empty parking lots in Taiwan",
+        "Self-published work",
+        "Blue and yellow objects",
+        "Skylines of New Taipei",
+        "Exhaust fans"
+      ],
+      "auteur": "Junyu-K",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20240917_%E5%9C%A8%E9%87%8F%E8%B2%A9%E8%B6%85%E5%B8%82%E9%A0%82%E6%A8%93%E7%9A%84%E6%8E%92%E7%85%99%E9%A2%A8%E6%A9%9F%E8%88%87%E9%BB%83%E6%98%8F%E6%99%82%E5%A4%A9%E9%9A%9B%E7%B7%9A.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/20240917_%E5%9C%A8%E9%87%8F%E8%B2%A9%E8%B6%85%E5%B8%82%E9%A0%82%E6%A8%93%E7%9A%84%E6%8E%92%E7%85%99%E9%A2%A8%E6%A9%9F%E8%88%87%E9%BB%83%E6%98%8F%E6%99%82%E5%A4%A9%E9%9A%9B%E7%B7%9A.jpg/1280px-20240917_%E5%9C%A8%E9%87%8F%E8%B2%A9%E8%B6%85%E5%B8%82%E9%A0%82%E6%A8%93%E7%9A%84%E6%8E%92%E7%85%99%E9%A2%A8%E6%A9%9F%E8%88%87%E9%BB%83%E6%98%8F%E6%99%82%E5%A4%A9%E9%9A%9B%E7%B7%9A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Saints Cosmas and Damian Church, Serres 46.jpg",
+      "description": "Saints Cosmas and Damian Church, Serres",
+      "categories": [
+        "Ventilation fans",
+        "Saints Cosmas and Damian Church, Serres",
+        "Self-published work"
+      ],
+      "auteur": "Мико",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saints_Cosmas_and_Damian_Church,_Serres_46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Saints_Cosmas_and_Damian_Church%2C_Serres_46.jpg/1280px-Saints_Cosmas_and_Damian_Church%2C_Serres_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    }
+  ]
+}

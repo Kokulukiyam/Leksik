@@ -1,0 +1,129 @@
+{
+  "terme": {
+    "id": "diffuseur-d-air",
+    "terme": "le diffuseur d'air",
+    "categorie": "Réseaux et équipements",
+    "definition": "Bouche à ailettes, carrée ou ronde, posée dans le faux plafond, qui souffle l'air climatisé ou neuf.",
+    "priorite": 2,
+    "requetes": [
+      "ceiling air diffuser",
+      "diffuseur d'air plafond",
+      "square ceiling diffuser"
+    ],
+    "incompatibles": [
+      "grille-de-ventilation",
+      "bouche-d-extraction"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Westmount Public Library by Rodrigo Tetsuo Argenton (04).jpg",
+      "description": "alt: Photograph of the interior of a greenhouse, taken from a slightly elevated angle. Lush green plants, including banana trees and other tropical foliage, fill the space. A brick pathway winds through the greenery, leading to a stone and glass structure with arched doorways visible in the background. The greenhouse's curved glass roof and metal framework allow soft, diffused light to fill the interior. Wooden benches are placed among the plants, offering places to rest and enjoy the scenery. Several ceiling fans are visible, likely helping to circulate air and maintain a comfortable temperat",
+      "categories": [
+        "Self-published work",
+        "Westmount Park Conservatory"
+      ],
+      "auteur": "Rodrigo.Argenton",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Westmount_Public_Library_by_Rodrigo_Tetsuo_Argenton_(04).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Westmount_Public_Library_by_Rodrigo_Tetsuo_Argenton_%2804%29.jpg/1280px-Westmount_Public_Library_by_Rodrigo_Tetsuo_Argenton_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:U. S. Army Motion Picture Theatre, at the Presidio, San Francisco.jpg",
+      "description": "U. S. Army Motion Picture Theatre at the Presidio Identifier : architectenginee16847sanf ( find matches ) Title : Architect and engineer Year : 1905 ( 1900s ) Authors : Subjects : Architecture Architecture Architecture Building Publisher : San Francisco : Architect and Engineer, Inc Contributing Library : San Francisco Public Library Digitizing Sponsor : San Francisco Public Library View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Te",
+      "categories": [
+        "Presidio Theatre (Presidio of San Francisco)",
+        "1947 in San Francisco",
+        "Anemostats",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Presidio of San Francisco before 1995",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Seating rows",
+        "San Francisco files needing cleanup",
+        "Seats in the United States",
+        "Architect and engineer (1947)"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:U._S._Army_Motion_Picture_Theatre,_at_the_Presidio,_San_Francisco.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/U._S._Army_Motion_Picture_Theatre%2C_at_the_Presidio%2C_San_Francisco.jpg/1280px-U._S._Army_Motion_Picture_Theatre%2C_at_the_Presidio%2C_San_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2356,
+      "hauteur": 1814
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Log Cabin Association Elementary School, Barkers Creek, NC (46649144171).jpg",
+      "description": "This is the old Log Cabin Association Consolidated School, located atop a knoll overlooking US 74-441 at the community of Barker’s Creek, near Dillsboro, North Carolina. The building was one of three elementary schools constructed between 1949 and 1952, which consolidated the last remaining rural wood-frame one-room and two-room schools in the county, with the other two schools, with similar designs, being located at the communities Addie (Scott’s Creek Township) and Argura/Sols Creek (Canada Township). The Log Cabin School was the first to be built, with construction starting in 1949 due to t",
+      "categories": [
+        "CC-Zero",
+        "Files from Warren LeMay Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Barker's Creek, North Carolina",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Warren LeMay from Cincinnati, OH, United States",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Log_Cabin_Association_Elementary_School,_Barkers_Creek,_NC_(46649144171).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Log_Cabin_Association_Elementary_School%2C_Barkers_Creek%2C_NC_%2846649144171%29.jpg/1280px-Log_Cabin_Association_Elementary_School%2C_Barkers_Creek%2C_NC_%2846649144171%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Storage Shed, Log Cabin Association Elementary School, Barkers Creek, NC (45734205735).jpg",
+      "description": "This is the old Log Cabin Association Consolidated School, located atop a knoll overlooking US 74-441 at the community of Barker’s Creek, near Dillsboro, North Carolina. The building was one of three elementary schools constructed between 1949 and 1952, which consolidated the last remaining rural wood-frame one-room and two-room schools in the county, with the other two schools, with similar designs, being located at the communities Addie (Scott’s Creek Township) and Argura/Sols Creek (Canada Township). The Log Cabin School was the first to be built, with construction starting in 1949 due to t",
+      "categories": [
+        "CC-Zero",
+        "Files from Warren LeMay Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Barker's Creek, North Carolina"
+      ],
+      "auteur": "Warren LeMay from Cincinnati, OH, United States",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Storage_Shed,_Log_Cabin_Association_Elementary_School,_Barkers_Creek,_NC_(45734205735).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Storage_Shed%2C_Log_Cabin_Association_Elementary_School%2C_Barkers_Creek%2C_NC_%2845734205735%29.jpg/1280px-Storage_Shed%2C_Log_Cabin_Association_Elementary_School%2C_Barkers_Creek%2C_NC_%2845734205735%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Log Cabin Association Elementary School, Barkers Creek, NC (45734204145).jpg",
+      "description": "This is the old Log Cabin Association Consolidated School, located atop a knoll overlooking US 74-441 at the community of Barker’s Creek, near Dillsboro, North Carolina. The building was one of three elementary schools constructed between 1949 and 1952, which consolidated the last remaining rural wood-frame one-room and two-room schools in the county, with the other two schools, with similar designs, being located at the communities Addie (Scott’s Creek Township) and Argura/Sols Creek (Canada Township). The Log Cabin School was the first to be built, with construction starting in 1949 due to t",
+      "categories": [
+        "CC-Zero",
+        "Files from Warren LeMay Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Barker's Creek, North Carolina"
+      ],
+      "auteur": "Warren LeMay from Cincinnati, OH, United States",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Log_Cabin_Association_Elementary_School,_Barkers_Creek,_NC_(45734204145).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Log_Cabin_Association_Elementary_School%2C_Barkers_Creek%2C_NC_%2845734204145%29.jpg/1280px-Log_Cabin_Association_Elementary_School%2C_Barkers_Creek%2C_NC_%2845734204145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Bathroom, Log Cabin Association Elementary School, Barkers Creek, NC (45734226305).jpg",
+      "description": "This is the old Log Cabin Association Consolidated School, located atop a knoll overlooking US 74-441 at the community of Barker’s Creek, near Dillsboro, North Carolina. The building was one of three elementary schools constructed between 1949 and 1952, which consolidated the last remaining rural wood-frame one-room and two-room schools in the county, with the other two schools, with similar designs, being located at the communities Addie (Scott’s Creek Township) and Argura/Sols Creek (Canada Township). The Log Cabin School was the first to be built, with construction starting in 1949 due to t",
+      "categories": [
+        "CC-Zero",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Warren LeMay in North Carolina",
+        "Barker's Creek, North Carolina"
+      ],
+      "auteur": "Warren LeMay from Cincinnati, OH, United States",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bathroom,_Log_Cabin_Association_Elementary_School,_Barkers_Creek,_NC_(45734226305).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Bathroom%2C_Log_Cabin_Association_Elementary_School%2C_Barkers_Creek%2C_NC_%2845734226305%29.jpg/1280px-Bathroom%2C_Log_Cabin_Association_Elementary_School%2C_Barkers_Creek%2C_NC_%2845734226305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    }
+  ]
+}

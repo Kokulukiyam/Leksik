@@ -1,0 +1,53 @@
+{
+  "termId": "abribus",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Abri vitré à toit végétalisé avec banc, au bord d'une route.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "Abribus clair et dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Intérieur d'une gare routière aux murs peints.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur de gare, pas un abribus."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Abribus à toit bleu avec plan du réseau et banc sur un trottoir.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Hô Chi Minh-Ville, Viêt Nam",
+      "note": "Abribus complet et typique ; personne en bord de cadre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Abri avec banc et panneau, sous la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image peu lisible, neige et reflets."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Même abri vitré que 01, vu de plus près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doublon de 01."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Poteau d'arrêt de bus avec panneau rond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poteau, pas un abri."
+    }
+  ]
+}

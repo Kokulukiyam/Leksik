@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "liaison-frigorifique",
+    "terme": "la liaison frigorifique",
+    "categorie": "Réseaux et équipements",
+    "definition": "Paire de tubes en cuivre isolés de mousse qui relie l'unité intérieure à l'unité extérieure d'un climatiseur.",
+    "priorite": 2,
+    "requetes": [
+      "air conditioner copper line set insulation",
+      "liaison frigorifique",
+      "refrigerant pipes insulated"
+    ],
+    "incompatibles": [
+      "split",
+      "unite-exterieure",
+      "tube-en-cuivre"
+    ],
+    "categoriesCommons": [
+      "Category:Air conditioners"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Abluftklappe außen am Haus bei kontrollierter Hausbelüftung Kontrollierte Wohnraumlüftung IMG5231.JPG",
+      "description": "Lüftungsklappe außen an einem Einfamilienhaus, Abluftklappe der Zwangsbelüftung",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Air conditioners",
+        "Exhaust fan shutters"
+      ],
+      "auteur": "Politikaner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abluftklappe_au%C3%9Fen_am_Haus_bei_kontrollierter_Hausbel%C3%BCftung_Kontrollierte_Wohnrauml%C3%BCftung_IMG5231.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Abluftklappe_au%C3%9Fen_am_Haus_bei_kontrollierter_Hausbel%C3%BCftung_Kontrollierte_Wohnrauml%C3%BCftung_IMG5231.JPG/1280px-Abluftklappe_au%C3%9Fen_am_Haus_bei_kontrollierter_Hausbel%C3%BCftung_Kontrollierte_Wohnrauml%C3%BCftung_IMG5231.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Air Conditioning Equipment Move-In to high building.jpg",
+      "description": "Air Conditioning Equipment Move-In to high building in Singapore",
+      "categories": [
+        "Taken with Canon EOS 600D",
+        "Air conditioners",
+        "Self-published work",
+        "June 2012 Singapore photographs"
+      ],
+      "auteur": "RudolfSimon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_Conditioning_Equipment_Move-In_to_high_building.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Air_Conditioning_Equipment_Move-In_to_high_building.jpg/1280px-Air_Conditioning_Equipment_Move-In_to_high_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 3788
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Air conditioning unit placed outside a building on a warm day.jpg",
+      "description": "An air conditioning unit sits on a wooden surface in a backyard. It is connected with hoses and surrounded by grass and a garden. The sun shines in the background.",
+      "categories": [
+        "Air conditioners",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioning_unit_placed_outside_a_building_on_a_warm_day.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Air_conditioning_unit_placed_outside_a_building_on_a_warm_day.jpg/1280px-Air_conditioning_unit_placed_outside_a_building_on_a_warm_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:A feral cat in Varna, December, 2018-6.jpg",
+      "description": "A feral cat in Varna, December, 2018",
+      "categories": [
+        "Air conditioners",
+        "Self-published work",
+        "1 cat",
+        "Files with coordinates missing SDC location of creation",
+        "Bulgaria photographs taken on 2018-12-22",
+        "Cats by user:Alexkom000",
+        "Cats on automobiles",
+        "Feral cats in Varna",
+        "Varna by user:Alexkom000"
+      ],
+      "auteur": "Alexey Komarov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_feral_cat_in_Varna,_December,_2018-6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/A_feral_cat_in_Varna%2C_December%2C_2018-6.jpg/1280px-A_feral_cat_in_Varna%2C_December%2C_2018-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5967,
+      "hauteur": 3978
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Air conditioning unit installed indoors with copper pipes and electrical connections visible from the rear side in a modern space.jpg",
+      "description": "An air conditioning unit is mounted on a wall, showcasing its rear side. Copper pipes and electrical connections are visible, suggesting ongoing cooling functionality.",
+      "categories": [
+        "Air conditioners",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Air_conditioning_unit_installed_indoors_with_copper_pipes_and_electrical_connections_visible_from_the_rear_side_in_a_modern_space.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Air_conditioning_unit_installed_indoors_with_copper_pipes_and_electrical_connections_visible_from_the_rear_side_in_a_modern_space.jpg/1280px-Air_conditioning_unit_installed_indoors_with_copper_pipes_and_electrical_connections_visible_from_the_rear_side_in_a_modern_space.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:'Everybody knows who Sgt. Parker is' 130718-Z-RK751-005.jpg",
+      "description": "U.S. Army Sgt. Richard Parker, a plumber and carpenter, assigned to the 859th Engineer Company, Mississippi Army National Guard works on a 5-kilowatt air conditioning unit at Forward Operating Base Fenty in Nangarhar province, Afghanistan, July 18, 2013. Parker and his team have spent more than 936 man-hours fixing 238 air conditioning units. (U.S. Army National Guard photo by Staff Sgt. Jerry Saslav/Released) Unit: 129th Mobile Public Affairs Detachment DVIDS Tags: Soldier; Bagram Airfield; Nangarhar Province; Combat; Engineers; Coalition Forces; Fort Campbell; Army Soldier; Bagram; FORSCOM; ",
+      "categories": [
+        "Air conditioners",
+        "Forward Operating Base Fenty",
+        "PD US National Guard",
+        "Files created by the United States National Guard with known IDs",
+        "Images from DoD uploaded by Fæ",
+        "Afghanistan photographs taken on 2013-07-18",
+        "859th Engineer Company (United States)",
+        "July 2012 in Nangarhar"
+      ],
+      "auteur": "Staff Sgt. Jerry Saslav",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-005.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-005.jpg/1280px-%27Everybody_knows_who_Sgt._Parker_is%27_130718-Z-RK751-005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3805,
+      "hauteur": 2532
+    }
+  ]
+}

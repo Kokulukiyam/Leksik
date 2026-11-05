@@ -1,0 +1,53 @@
+{
+  "termId": "reservation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Balustres en béton contre le ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ferraillage de dalle sur chantier avec poteau métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de réservation lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne noir et blanc avec règle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade avec ouvrier posant un revêtement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grand chantier avec grues et échafaudages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Planchers d'immeuble en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Réservations non identifiables."
+    }
+  ]
+}

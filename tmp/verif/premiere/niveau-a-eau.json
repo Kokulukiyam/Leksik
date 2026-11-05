@@ -1,0 +1,53 @@
+{
+  "termId": "niveau-a-eau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fontaine en pierre dans une cour d'école.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Niveaux à bulle jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveaux à bulle, pas un niveau à eau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fontaine en pierre avec bassin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bulle de savon reflétant des arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cube à plusieurs fioles de niveau à bulle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fioles à bulle, pas un tuyau d'eau."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Niveau à bulle sur un appareil photo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveau à bulle."
+    }
+  ]
+}

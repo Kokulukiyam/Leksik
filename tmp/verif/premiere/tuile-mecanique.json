@@ -1,0 +1,53 @@
+{
+  "termId": "tuile-mecanique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tas de tuiles anciennes diverses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mélange, tuiles canal incluses."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plaque de tôle imitation tuile rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Métal, pas une tuile mécanique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Trois tuiles à emboîtement en terre cuite posées au sol, avec nervures.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Asendorf, Allemagne",
+      "note": "Tuile à emboîtement nette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo ancienne en noir et blanc de déchargement de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo claire du produit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pile de tuiles canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuiles canal."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'une tuile avec inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible."
+    }
+  ]
+}

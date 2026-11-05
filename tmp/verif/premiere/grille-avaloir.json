@@ -1,0 +1,58 @@
+{
+  "termId": "grille-avaloir",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pose de gros tuyaux métalliques dans une tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Buses, pas une grille."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Entrée de buse dans un talus de pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Buse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grille en fonte rectangulaire d'avaloir posée dans l'enrobé, à côté d'une flaque.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.19,
+        "largeur": 0.33,
+        "hauteur": 0.32
+      },
+      "lieu": "Pologne",
+      "note": "Grille bien visible, rectangle sur la grille pour écarter la flaque."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Route avec trottoir et un tampon rond au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bouche de loup avec grille arrachée et inclinée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille déplacée, avaloir ouvert, ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Terrain en pente avec bordure, dalle et pavés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rien de net."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "marquise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tentes de réception avec assistance.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tentes."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bateau à bimini turquoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bimini de bateau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vieille voiture rose fixée sur une façade au-dessus d'une boutique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Petit abri en bois en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Abri, pas de marquise."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Abri pique-nique à toit courbe sur poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Abri indépendant, pas une marquise."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Large dalle de couvrement saillante au-dessus de portes en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casquette béton, pas vitrée ni métallique."
+    }
+  ]
+}

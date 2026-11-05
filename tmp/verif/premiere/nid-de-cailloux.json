@@ -1,0 +1,53 @@
+{
+  "termId": "nid-de-cailloux",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tuyau PVC blanc contre un conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ventilation circulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bottes dans du béton frais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Trottoir ancien à granulats apparents.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Usure de surface, pas un nid de cailloux."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux bétons côte à côte, un neuf et un ancien à granulats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Usure, pas un défaut de coulage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Nappe de treillis sur film plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

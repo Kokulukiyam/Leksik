@@ -1,0 +1,53 @@
+{
+  "termId": "allee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Allée de gravier bordée de pierres sous des cerisiers en fleurs dans un jardin.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Aston Norwood Gardens",
+      "note": "Allée de jardin évidente et dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Randonneur sur un chemin devant un panneau de parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne et panneau avec texte, sujet flou."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chemin goudronné le long d'une route bordée d'arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour trottoir ou piste cyclable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier de terre dans un jardin en pente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt des marches."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Route bordée d'arbres d'automne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaussée, pas une allée de jardin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Allée de gravier traversant un tunnel de bambous dans un jardin botanique.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Soukhoumi, Abkhazie",
+      "note": "Allée de jardin nette et centrale."
+    }
+  ]
+}

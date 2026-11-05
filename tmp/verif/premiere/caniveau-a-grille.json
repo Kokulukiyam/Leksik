@@ -1,0 +1,53 @@
+{
+  "termId": "caniveau-a-grille",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Profil dessiné d'un drain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure d'un drain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fossé en béton usé le long d'une route avec herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de grille."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Eau jaillissant d'un tuyau dans les rochers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bord de route herbeux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fossé de terre avec seuil béton le long d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de grille."
+    }
+  ]
+}

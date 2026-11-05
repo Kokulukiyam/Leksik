@@ -1,0 +1,53 @@
+{
+  "termId": "noue",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ruisseau encaissé entre arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Butte rocheuse et cavalier dans un désert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fossé avec ruisseau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Toit-terrasse avec local technique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de noue."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gratte-ciel et fond d'un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Toitures métalliques d'usines vues d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noue non identifiable."
+    }
+  ]
+}

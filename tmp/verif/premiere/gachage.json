@@ -1,0 +1,53 @@
+{
+  "termId": "gachage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Un homme accroupi mélange avec une truelle ciment et sable au sol, cratère d'eau au centre du tas, seau bleu à côté.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gâchage à la main sur le sol, clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvriers à la pelle autour d'un tas de matériau, passants au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène confuse, action peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mortier militaire exposé dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faux sens."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mortier militaire en extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faux sens."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ascenseur et escalator dans un hall.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Le même ouvrier vu de dos mélange le tas de sable et ciment à la truelle, seau bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gâchage à la main, autre cadrage de la scène, lisible."
+    }
+  ]
+}

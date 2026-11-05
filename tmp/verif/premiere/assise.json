@@ -1,0 +1,53 @@
+{
+  "termId": "assise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Briques en rangs sur un dôme en construction, vue plongeante avec coupoles dorées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plan confus, l'assise n'est pas isolable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur de briques avec une fenêtre au cadre rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La fenêtre domine ; rang non désigné sans ambiguïté."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Carte postale ancienne en noir et blanc d'un bâtiment universitaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien, élément illisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Femme enceinte devant l'entrée d'un immeuble en briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan d'un joint épais de mortier entre des briques jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre plutôt le joint ou le lit de mortier ; confusion avec les termes voisins."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tour et mur en briques en ruine, vue grand angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop large, assise non lisible."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "ligature",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Soldat portant un fagot de barres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de ligature."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chantier avec maisons et palettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Barres rouillées coudées empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune ligature visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chantier de fondation en pays chaud avec poteaux ferraillés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fils de ligature illisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chantier de dalle avec ferraillage vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ligatures illisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux barres isolées sur un mur en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

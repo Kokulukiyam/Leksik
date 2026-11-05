@@ -1,0 +1,53 @@
+{
+  "termId": "balustrade",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ombres sur des lames verticales, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une balustrade."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pilastre à boule et balustrade ajourée de château, forte ombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fontainebleau, France",
+      "note": "Partiellement dans l'ombre, balustres peu lisibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade d'immeuble avec balcons à garde-corps métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Donetsk",
+      "note": "Garde-corps métalliques minuscules."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Muret rouge à balustres jaunes devant une enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Caye Caulker, Belize",
+      "note": "Enseigne avec texte, muret rouge peu typique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche de dessin de balustres de meubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier de pierre avec balustrade à balustres et tablette, pots à feu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Salvador de Bahia, Brésil",
+      "note": "Rangée de balustres surmontée d'une tablette, nette."
+    }
+  ]
+}

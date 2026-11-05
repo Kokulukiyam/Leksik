@@ -1,0 +1,58 @@
+{
+  "termId": "tuile-faitiere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Toit de grange en tuiles plates abîmé, sans faîtière visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ladenburg, Allemagne",
+      "note": "Tuiles plates, pas de faîtière."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Une tuile plate médiévale isolée sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pillichsdorf, Autriche",
+      "note": "Tuile plate, pas une faîtière."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Toits de zinc parisiens avec cheminées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Aucune faîtière identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Épi de faîtage en céramique bleue avec oiseau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fontainebleau, France",
+      "note": "Épi de faîtage, pas la tuile faîtière."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rang de tuiles faîtières lichenées au sommet d'un toit en tuiles mécaniques, un oiseau posé dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.3,
+        "largeur": 0.81,
+        "hauteur": 0.25
+      },
+      "lieu": "Heidelberg, Allemagne",
+      "note": "Faîtières encadrées ; oiseau gênant mais élément clair."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur une tuile faîtière demi-ronde du faîtage, posée sur closoir.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faîtière typique et dominante."
+    }
+  ]
+}

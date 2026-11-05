@@ -1,0 +1,63 @@
+{
+  "termId": "voile-d-ombrage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Place couverte de voiles tendues sur câbles et mâts.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.05,
+        "largeur": 0.78,
+        "hauteur": 0.3
+      },
+      "lieu": "Békásmegyer, Budapest",
+      "note": "Voiles tendues bien visibles, rectangle sur les toiles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Trois voiles sombres sur mâts devant un bâtiment en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Voiles sombres vues en contre-jour, structures plus proches de l'ombrière."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Voiles sombres au loin derrière une grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Trop loin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cour avec voiles beiges et banc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dubaï",
+      "note": "Voiles coupées, peu lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Voiles triangulaires tendues sur mâts et haubans au-dessus d'un ponton.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.22,
+        "largeur": 0.85,
+        "hauteur": 0.4
+      },
+      "lieu": "Grömitz, Allemagne",
+      "note": "Voiles d'ombrage typiques, très claires."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Voile verte au-dessus d'un jardin devant une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Claremont, Australie",
+      "note": "Voile petite et coupée."
+    }
+  ]
+}

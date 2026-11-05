@@ -1,0 +1,53 @@
+{
+  "termId": "poutre-treillis",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Viaduc métallique de métro aérien à entretoises et croix de Saint-André.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contreventements et treillis mêlés, ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pont métallique en noir et blanc vu de l'intérieur, grandes croix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Diagonales et contreventement mêlés, pas une poutre claire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Annonce imprimée ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document imprimé, sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade à colombage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colombage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poutre treillis en aluminium d'éclairage de scène, atelier encombré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage coupé et fouillis ; rejetée dans le doute."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Page de revue ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document imprimé."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "edicule",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Terrasse en hauteur avec panorama, un volume bardé sombre à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pretoria, Afrique du Sud",
+      "note": "Édicule non identifiable, volume coupé et ambigu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Marquise éclairée d'un cinéma.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sydney, Australie",
+      "note": "Pas un édicule de toiture."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade ancienne avec grande enseigne thaï sur le toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enseigne, pas un édicule."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tour d'horloge coiffant un immeuble de bureaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stamford, États-Unis",
+      "note": "Tour/lanterne d'horloge ambiguë, partiellement masquée par les arbres."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Clocher d'église au-dessus des toits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Neustadt an der Donau, Allemagne",
+      "note": "Clocher, pas un édicule."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Stèle signalétique d'arrêt de tramway.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Linz, Autriche",
+      "note": "Pas un édicule de toiture."
+    }
+  ]
+}

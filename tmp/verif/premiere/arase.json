@@ -1,0 +1,53 @@
+{
+  "termId": "arase",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Briques empilées autour d'un dôme en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'arase identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Camion benne devant un chantier de démolition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade d'un salon de coiffure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur blanc avec voûte et poutre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'arase."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de parpaings monté sous échafaudage, un ouvrier au travail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Haut du mur non net, encombré ; l'arase reste une hypothèse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Haut d'un mur de briques et mortier fissuré, en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sommet irrégulier, pas un rang mis de niveau."
+    }
+  ]
+}

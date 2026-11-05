@@ -1,0 +1,53 @@
+{
+  "termId": "coursive",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Longue galerie extérieure desservant des portes de chambres, garde-corps rouge.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galerie ouverte desservant des logements, claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Carte postale ancienne d'un chemin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de coursive."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Galeries sur cour intérieure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cartagène, Colombie",
+      "note": "Galeries d'un passage couvert, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Passerelle en bois sur lave.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lanzarote",
+      "note": "Pas un bâtiment."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chemin forestier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hyderabad",
+      "note": "Pas de coursive."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Longue coursive extérieure d'un bâtiment à portes, garde-corps noir.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Durham, États-Unis",
+      "note": "Galerie ouverte desservant les chambres, claire."
+    }
+  ]
+}

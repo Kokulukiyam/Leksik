@@ -1,0 +1,58 @@
+{
+  "termId": "fenetre-en-bandeau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade de béton avec une bande continue de fenêtres horizontales au premier étage, voitures au premier plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.23,
+        "largeur": 0.58,
+        "hauteur": 0.2
+      },
+      "lieu": "Petit-Lancy, Genève, Suisse",
+      "note": "Bande vitrée très allongée, encadrée sur la partie nette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Salle de cours avec bancs et petites fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, fenêtres isolées."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur crépi avec une petite fenêtre grillagée et un cordon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre isolée, pas de bandeau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bâtiment universitaire à bandes de fenêtres, masqué par des arbres et un panneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop caché, bandes peu lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fenêtre double dans un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre classique, pas en bandeau."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble de bureaux d'angle arrondi avec fenêtres variées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Clichy, France",
+      "note": "Fenêtres multiples de formes diverses, ambigu."
+    }
+  ]
+}

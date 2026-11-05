@@ -1,0 +1,53 @@
+{
+  "termId": "egout-de-toit",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pignon de bois sculpté avec tête, rive de toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pignon et rive, pas l'égout."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dessous de toit avec gouttière et descente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion avec gouttière et avant-toit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Débord de toit en bois sur maison en rondins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Avant-toit, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Auvent en bois sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Avant-toit décoratif."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade d'immeuble, corniche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pignon à pans-de-bois et toit débordant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambigu avec avant-toit et rive."
+    }
+  ]
+}

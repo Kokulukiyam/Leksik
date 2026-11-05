@@ -1,0 +1,45 @@
+{
+  "termId": "trop-plein",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cage d'escalier en béton avec petites ouvertures en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun trop-plein identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Deux goulottes d'évacuation (scuppers) au pied d'un toit en tôle, entourées de pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évacuations normales d'une toiture, pas un trop-plein dans un acrotère."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Dalot en plomb de navire exposé en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet naval, pas un trop-plein."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche de bois d'un navire avec orifice d'écoulement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot de navire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Coque blanche de navire avec dalot et taquets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot de navire."
+    }
+  ]
+}

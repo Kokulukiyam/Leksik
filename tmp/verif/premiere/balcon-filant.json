@@ -1,0 +1,53 @@
+{
+  "termId": "balcon-filant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Balcon d'angle fleuri sur façade baroque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcon isolé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade en céramique avec baie arrondie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de balcon."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maison créole à étage avec balcon couvert sur poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt véranda ou balcon couvert."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle de théâtre avec balcons incurvés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Balcon à ferronnerie sur une porte cochère.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcon isolé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vue de haut d'une mosquée avec galerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une façade."
+    }
+  ]
+}

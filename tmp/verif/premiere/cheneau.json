@@ -1,0 +1,53 @@
+{
+  "termId": "cheneau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Toit chinois à tuiles vertes vu d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun chéneau clairement identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Portail richement décoré d'une église, descente d'eau sur le côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chéneau visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Devanture de boutique avec grille et enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gargouille et boîte à eau sous une bordure de toit en ardoise et métal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre une boîte à eau/gargouille ; chéneau pas dominant ni sans ambiguïté."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Boîte à eau et descente d'eaux pluviales sur un mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîte à eau/descente, pas un chéneau."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'une rigole de pierre ou de bois avec mousse et eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contexte indéterminé, trop ambigu."
+    }
+  ]
+}

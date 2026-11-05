@@ -1,0 +1,53 @@
+{
+  "termId": "peinture",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur blanc fissuré et piqué de moisissures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dégradation, pas de la peinture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fresque murale bleue de visages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Street art, pas la peinture de bâtiment."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plaque bleue translucide sur papier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Portrait en noir et blanc peint sur un pignon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fresque artistique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Feuille de papier avec taches de peinture et timbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Création artistique, pas la peinture de bâtiment."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur rouge avec fresque d'oiseau coloré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Street art."
+    }
+  ]
+}

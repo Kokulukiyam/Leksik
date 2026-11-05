@@ -1,0 +1,53 @@
+{
+  "termId": "deblai",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Godet d'une pelle déversant de la terre sur un tas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terre déversée, ambiguë avec remblai ; gros plan sans contexte de fouille."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Godet d'une pelle déversant de la terre sur un tas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même ambiguïté avec remblai."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ancienne photo noir et blanc d'un chantier de fouilles sous une halle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Ancienne photo en noir et blanc, peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ancienne photo noir et blanc d'un terrassement de route en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne N&B, déblai de tranchée routière mais peu fiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Remblai en blocs de géomousse près d'un viaduc en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montréal, Canada",
+      "note": "Remblai allégé, pas un déblai."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tertre herbeux conique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Butte, pas un déblai."
+    }
+  ]
+}

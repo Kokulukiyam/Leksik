@@ -1,0 +1,37 @@
+{
+  "termId": "corrosion-des-armatures",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pont en béton au-dessus d'une rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune corrosion visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chantier de la Sagrada Familia avec armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures de chantier, corrosion non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Dessous d'une bretelle avec personnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Armatures rouillées apparaissant à nu sous le béton éclaté et fissuré d'une poutre de pont.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rouille, béton éclaté et acier à nu clairement visibles."
+    }
+  ]
+}

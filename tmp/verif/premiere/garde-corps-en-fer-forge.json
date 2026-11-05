@@ -1,0 +1,63 @@
+{
+  "termId": "garde-corps-en-fer-forge",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Trois garde-corps en fer forgé à motifs de branchages devant des portes-fenêtres.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.36,
+        "largeur": 0.95,
+        "hauteur": 0.38
+      },
+      "lieu": "Hôtel Lalique, Paris",
+      "note": "Ferronnerie ornementale nette et dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade avec balconnet à garde-corps en fer et fenêtre à persiennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Málaga, Espagne",
+      "note": "Garde-corps petit, en haut de l'image."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Artisan soudant une sculpture métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Madagascar",
+      "note": "Atelier, pas de garde-corps."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Balustrade en pierre d'un jardin et grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bellagio, Italie",
+      "note": "Balustrade en pierre, pas en fer forgé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Balcon à garde-corps en fer forgé à barreaux galbés et volutes, plantes en pots.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.42,
+        "largeur": 0.78,
+        "hauteur": 0.28
+      },
+      "lieu": "Lipari, Italie",
+      "note": "Barreaux galbés et volutes en fer forgé, bien lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Garde-corps vert peint avec volutes devant un panneau de verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, matière peu claire, cadrage douteux."
+    }
+  ]
+}

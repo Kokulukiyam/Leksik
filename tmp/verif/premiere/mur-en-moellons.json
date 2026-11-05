@@ -1,0 +1,53 @@
+{
+  "termId": "mur-en-moellons",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de pierres de taille assez régulières avec une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierres équarries en assises, pas des moellons bruts."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade en pierre à bossage, fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre de taille à bossage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ruine de mur en pierres et mortier devant une cabane, herbes flous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, partiel."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de briques avec baie cintrée et soubassement en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de galets avec bandes de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galets et briques, pas moellons."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Balustrade en béton devant un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

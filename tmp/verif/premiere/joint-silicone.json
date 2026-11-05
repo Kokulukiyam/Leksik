@@ -1,0 +1,53 @@
+{
+  "termId": "joint-silicone",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tuyaux métalliques traversant un sol, coulée rouge de mastic coupe-feu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mastic intumescent, pas un joint silicone."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Doigt montrant un joint de mastic entre deux panneaux de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mastic de façade, matière non identifiable comme silicone."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrier appliquant du mastic au pistolet sur une dalle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "L'ouvrier est le sujet, mastic extérieur."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Une main tenant un flacon de produit anti-crevaison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tuyaux de passage avec calfeutrement coupe-feu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mastic coupe-feu, peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Joint bleu coupe-feu entre dalle et mur en parpaings avec texte annoté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, mastic coupe-feu."
+    }
+  ]
+}

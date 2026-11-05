@@ -1,0 +1,53 @@
+{
+  "termId": "versant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Auvent de cinéma illuminé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lichens sur une surface plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Lichens sur une surface plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lichens sur une surface plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Petit édifice en pierre envahi de végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Versants non lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bâtiment en brique avec tours.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Versants non lisibles."
+    }
+  ]
+}

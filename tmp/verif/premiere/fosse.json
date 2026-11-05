@@ -1,0 +1,53 @@
+{
+  "termId": "fosse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Route avec bâtiment ; le fossé se devine à peine en bas de l'image.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fossé peu visible, sujet dilué."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cours d'eau couvert de lentilles d'eau sous un saule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt un ruisseau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Large dépression herbeuse dans un paysage agricole.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancien canal, peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bassin de brique avec eau et végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne acequia, pas un fossé routier."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Talus fleuri au bord de la route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fossé non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Étroit cours d'eau entre roseaux et talus avec un petit seuil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ressemble à un ruisseau."
+    }
+  ]
+}

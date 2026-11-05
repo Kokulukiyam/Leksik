@@ -1,0 +1,53 @@
+{
+  "termId": "niveau-laser",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Niveau laser rotatif sur trépied, petit au fond d'un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil trop petit dans l'image."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvriers avec une benne à béton ; un niveau laser minuscule sur trépied au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil trop petit, autre sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Niveaux à bulle magnétiques et récepteur de laser contre un tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveaux à bulle dominants, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Niveau laser rotatif jaune Laserplane en gros plan sur son trépied.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Antarctique",
+      "note": "Niveau laser rotatif net et dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Niveau laser rotatif Nivel System sur trépied, sur un chantier de gravier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveau laser clair, centré, typique."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Niveau laser rotatif noir et orange sur trépied, fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil net sur fond neutre."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "colle-a-carrelage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Salle de bains avec crédence en carreaux blancs et vasque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carrelage fini, pas de colle visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Détail de mosaïque d'étoiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détail de mosaïque d'étoiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pièce en travaux, sol carrelé, petit sac de colle au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sac minuscule en arrière-plan, illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvrier posant des dalles de marbre sur un mur, seaux et sac de produit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colle non identifiable, scène trop chargée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'un foret traversant un carreau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

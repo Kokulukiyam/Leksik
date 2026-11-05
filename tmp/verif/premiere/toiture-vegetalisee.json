@@ -1,0 +1,63 @@
+{
+  "termId": "toiture-vegetalisee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cabane en bois dans la brume, toit avec quelques herbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Végétalisation anecdotique, toit de chaume."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fleur de lotus en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maison dont le toit de tuiles est couvert de mousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mousse sur tuiles, pas un substrat planté."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Terrasse en béton avec pots de plantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terrasse, pas de toiture végétalisée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Toit-terrasse d'un bâtiment recouvert de végétation, avec lanterneaux, au milieu des immeubles.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.09,
+        "y": 0.66,
+        "largeur": 0.6,
+        "hauteur": 0.34
+      },
+      "lieu": "Berlin",
+      "note": "Toiture plate végétalisée nette."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petite maison en pierre dont le toit est couvert d'herbes, de mousse et de plantes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.29,
+        "largeur": 0.92,
+        "hauteur": 0.27
+      },
+      "lieu": "",
+      "note": "Toit planté bien visible."
+    }
+  ]
+}

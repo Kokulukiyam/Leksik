@@ -1,0 +1,53 @@
+{
+  "termId": "enrochement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de gabions en bord de tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gabion, pas enrochement."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plage avec rocher couvert d'algues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'ouvrage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Peinture d'une avenue avec tramway.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Digue de blocs dont certains peints en doré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs peints (oeuvre d'art), image altérée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rivage de pierres plates sous un ciel nuageux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rivage naturel, pas clairement un ouvrage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chameau sur la plage, enrochement au fond en bande étroite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enrochement trop petit à l'arrière-plan."
+    }
+  ]
+}

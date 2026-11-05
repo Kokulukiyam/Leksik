@@ -1,0 +1,58 @@
+{
+  "termId": "profile-en-h",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cornière rivetée sur la paroi d'un gazomètre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un profilé en H."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chantier avec pelle et profilés au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés lointains."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan sur l'extrémité d'un profilé en H rouillé, ailes larges ; rectangle sur le profilé, d'autres poutrelles à l'arrière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.02,
+        "largeur": 0.78,
+        "hauteur": 0.9
+      },
+      "lieu": "",
+      "note": "Section en H bien visible ; le rectangle écarte les autres profilés."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Camion et profilés au sol sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés petits et mêlés."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poutre métallique sous un plancher, ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Section non lisible, inscription visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Charpente et pièces de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bois."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "croisillon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Détail de mosaïque d'étoiles blanches sur fond brun.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vestibule avec porte en bois et sol à damier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun croisillon visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sol de petits carreaux en écailles verdâtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun croisillon visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salle de bains en cours de carrelage avec receveur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun croisillon n'est distinguable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Terrasse carrelée en cours de pose avec seau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun croisillon n'est visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Niche de mosaïque géométrique turquoise et bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

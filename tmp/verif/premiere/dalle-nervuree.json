@@ -1,0 +1,53 @@
+{
+  "termId": "dalle-nervuree",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dalle de tombe en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sous-face de plancher en bois avec une poutre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bois, pas une dalle en béton."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tas de compost dans un bac.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plafond en béton à caissons carrés avec tubes rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nervures croisées : dalle caissonnée, pas nervures parallèles ; doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panneau préfabriqué en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Dalles préfabriquées empilées avec armatures de treillis en attente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prédalles, pas des nervures."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "porche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Clôture à piquets blancs devant une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un porche."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Galerie à arcs et balustrade devant une église de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambigu avec galerie, arcade ou véranda."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porche en bois à toit de tuiles devant la porte d'une église.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.25,
+        "largeur": 0.82,
+        "hauteur": 0.7
+      },
+      "lieu": "Alsace, France",
+      "note": "Espace couvert devant la porte, net."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rue marchande bordée de galeries de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galerie, pas porche."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Clocher d'église vert vu en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clocher."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Portique à voûtes sculptées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcade ou portique, doute."
+    }
+  ]
+}

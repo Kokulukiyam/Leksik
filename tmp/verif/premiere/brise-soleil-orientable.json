@@ -1,0 +1,53 @@
+{
+  "termId": "brise-soleil-orientable",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Store vénitien intérieur ou gros plan de lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, pas un brise-soleil orientable de façade."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Store vénitien intérieur ou gros plan de lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, pas un brise-soleil orientable de façade."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Store vénitien intérieur ou gros plan de lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, pas un brise-soleil orientable de façade."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Store vénitien intérieur ou gros plan de lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, pas un brise-soleil orientable de façade."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Store vénitien intérieur ou gros plan de lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, pas un brise-soleil orientable de façade."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Store vénitien intérieur ou gros plan de lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, pas un brise-soleil orientable de façade."
+    }
+  ]
+}

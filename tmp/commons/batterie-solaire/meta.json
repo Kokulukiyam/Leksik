@@ -1,0 +1,137 @@
+{
+  "terme": {
+    "id": "batterie-solaire",
+    "terme": "la batterie solaire",
+    "categorie": "Réseaux et équipements",
+    "definition": "Batterie de stockage, souvent en rangée ou en armoire, qui garde l'électricité produite par les panneaux.",
+    "priorite": 2,
+    "requetes": [
+      "solar battery bank",
+      "batterie solaire",
+      "battery storage solar"
+    ],
+    "incompatibles": [
+      "onduleur"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Ecological Bus Project, Solar battery bank below.jpg",
+      "description": "Ecological Bus project is a 1997 Bus turned into a mobile demonstration of sustainable living. Its engine runs on waste vegetable oil, its interior is powered with solar energy and the bus is equipped with rainwater harvesting, composting toilet and room for a family of four. www.artofculturalevolution.org",
+      "categories": [
+        "Self-published work",
+        "Solar-powered buses"
+      ],
+      "auteur": "ArtofCulturalEvolution",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ecological_Bus_Project,_Solar_battery_bank_below.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ecological_Bus_Project%2C_Solar_battery_bank_below.jpg/1280px-Ecological_Bus_Project%2C_Solar_battery_bank_below.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1552
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Power backup for solar panels near Leh (4337361606).jpg",
+      "description": "Power backup for solar panels near Leh",
+      "categories": [
+        "Taken with Nikon D40x",
+        "Solar energy in India",
+        "SECMOL",
+        "Flickr images reviewed by FlickreviewR",
+        "2009 in Leh",
+        "Files with coordinates missing SDC location of creation",
+        "India photographs taken on 2009-07-18",
+        "Battery banks"
+      ],
+      "auteur": "Kiran Jonnalagadda from Bangalore, India",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Power_backup_for_solar_panels_near_Leh_(4337361606).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Power_backup_for_solar_panels_near_Leh_%284337361606%29.jpg/1280px-Power_backup_for_solar_panels_near_Leh_%284337361606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Vanadium Redox flow battery.jpg",
+      "description": "A Vanadium Redox flow battery located at the University of New South Wales (UNSW Australia), in Randwick, NSW. This particular one is located at the Randwick campus, rather than the main campus. Practical Vanadium Redox batteries were invented at UNSW by Professor Maria Skyllas-Kazacos. This particular battery is a part of an integrated grid-tie system in conjunction with a solar array and wind turbine, but it is currently out of use. Not shown are the electrolyte tanks and pumps, which are below the cell stack.",
+      "categories": [
+        "Power supplies",
+        "Renewable energy",
+        "Vanadium redox batteries",
+        "Self-published work",
+        "Battery banks",
+        "Files with coordinates missing SDC location of creation (34° S, 151° E)"
+      ],
+      "auteur": "Radiotrefoil",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vanadium_Redox_flow_battery.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Vanadium_Redox_flow_battery.jpg/1280px-Vanadium_Redox_flow_battery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1776,
+      "hauteur": 1332
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Kabus 000244 171294 516060 4578 (36775931686).jpg",
+      "description": "A garden/home solar cell panel installation in Wisconsin. – Solar charge controller (left), deep cycle batteries (center), and inverter (right).",
+      "categories": [
+        "Interstate Batteries",
+        "Solar inverter panels",
+        "Solar power in Wisconsin",
+        "Solar charge controllers",
+        "PD US DOE",
+        "Photographs by the U.S. Department of Energy",
+        "Flickr images reviewed by FlickreviewR 2",
+        "USGov files uploaded by Tyler de Noche",
+        "Hit Me With Your Sunshot"
+      ],
+      "auteur": "Photo by Cody Kabus. – U.S. Department of Energy from United States",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kabus_000244_171294_516060_4578_(36775931686).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Kabus_000244_171294_516060_4578_%2836775931686%29.jpg/1280px-Kabus_000244_171294_516060_4578_%2836775931686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1440
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Kabus 000246 171296 516068 4578 (36775938376).jpg",
+      "description": "A garden/home solar cell panel installation in Wisconsin. – Solar charge controller (left) and deep cycle batteries.",
+      "categories": [
+        "Interstate Batteries",
+        "Solar power in Wisconsin",
+        "Solar charge controllers",
+        "PD US DOE",
+        "Photographs by the U.S. Department of Energy",
+        "Flickr images reviewed by FlickreviewR 2",
+        "USGov files uploaded by Tyler de Noche",
+        "Hit Me With Your Sunshot"
+      ],
+      "auteur": "Photo by Cody Kabus. – U.S. Department of Energy from United States",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kabus_000246_171296_516068_4578_(36775938376).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Kabus_000246_171296_516068_4578_%2836775938376%29.jpg/1280px-Kabus_000246_171296_516068_4578_%2836775938376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1440
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Kabus 000083 171297 516086 4578 (36715283896).jpg",
+      "description": "A garden/home solar cell panel installation in Wisconsin. – This battery bank, which is hooked up in series, runs to a 100 amp DC breaker to prevent overloading when the energy from the batteries is transferred to the inverter.",
+      "categories": [
+        "Interstate Batteries",
+        "Solar power in Wisconsin",
+        "PD US DOE",
+        "Photographs by the U.S. Department of Energy",
+        "Flickr images reviewed by FlickreviewR 2",
+        "USGov files uploaded by Tyler de Noche",
+        "Hit Me With Your Sunshot"
+      ],
+      "auteur": "Photo by Cody Kabus. – U.S. Department of Energy from United States",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kabus_000083_171297_516086_4578_(36715283896).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kabus_000083_171297_516086_4578_%2836715283896%29.jpg/1280px-Kabus_000083_171297_516086_4578_%2836715283896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1440
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "plan-de-travail",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cuisine à placards en bois avec plan de travail en granit clair devant une crédence en pierre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.52,
+        "y": 0.58,
+        "largeur": 0.46,
+        "hauteur": 0.18
+      },
+      "lieu": "",
+      "note": "Plan de travail en granit lisible à droite de la cuisinière ; rectangle sur le plan."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Main d'enfant tenant une cuillère au-dessus d'une assiette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Texture beige moucheté d'un échantillon de stratifié.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface sans contexte, indécidable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coin cuisine ancien mauve avec vitrine et évier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plan de travail petit et peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mains hachant des légumes sur une planche à découper.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plateau de stratifié façon marbre au mètre ruban, avec sciure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier de découpe en gros plan, plan de travail peu identifiable."
+    }
+  ]
+}

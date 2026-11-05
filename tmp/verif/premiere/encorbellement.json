@@ -1,0 +1,53 @@
+{
+  "termId": "encorbellement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sculpture en pierre, tête.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sculpture ancienne en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Console sculptée en marbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Console, pas encorbellement."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Balcons sur consoles à Carthagène.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcons, ambigu avec balcon filant ou corbeau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Balcon sur corbeau et arcade avec lampadaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pièces de pierre sculptées sur socle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée."
+    }
+  ]
+}

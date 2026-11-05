@@ -1,0 +1,53 @@
+{
+  "termId": "joint-de-carrelage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Allée dallée en granit gris vue en perspective.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalles extérieures, joints fins peu lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvrier agenouillé frottant un mur de dalles de marbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le joint n'est pas visible, c'est l'ouvrier le sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Texture numérique de dalles grises (rendu Poly Haven).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture de rendu, pas une photo d'ouvrage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Crédence de cuisine en carreaux bleus avec joints clairs bien visibles, au-dessus d'une cuisinière.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints crème épais et nets entre les carreaux ; réponse claire (carrelage et croisillon incompatibles)."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Texture numérique de carreaux bruns (rendu Poly Haven).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture de rendu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux ouvriers sur escabeaux nettoyant un mur carrelé au tampon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvriers dominants, joints non lisibles."
+    }
+  ]
+}

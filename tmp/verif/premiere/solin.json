@@ -1,0 +1,53 @@
+{
+  "termId": "solin",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grillage rouillé devant un paysage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme (ville de Solin, Croatie)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vieille voiture jaune envahie de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme (ville de Solin, Croatie)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Haie taillée et muret de pierre sèche dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme (ville de Solin, Croatie)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Paysage de végétation avec ville au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme (ville de Solin, Croatie)."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue aérienne d'une cimenterie et d'une ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme (ville de Solin, Croatie)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Peinture à l'huile d'un paysage avec arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme (ville de Solin, Croatie)."
+    }
+  ]
+}

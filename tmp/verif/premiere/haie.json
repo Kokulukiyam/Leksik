@@ -1,0 +1,63 @@
+{
+  "termId": "haie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Haie taillée en V dans un jardin botanique avec filtre vignette et filigrane.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée (cadre, filigrane)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande haie de conifères non taillée le long d'un chemin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Haie négligée, peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Haie basse taillée de buissons feuillus devant un parking, sur du paillis rouge.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.62,
+        "largeur": 0.95,
+        "hauteur": 0.26
+      },
+      "lieu": "Amérique du Nord",
+      "note": "Haie nette; rectangle sur la haie."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Parterres de buis taillés devant une façade jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Topiaire de parterre, pas une haie claire."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Passage voûté fleuri entre deux haies basses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arche et plantes grimpantes détournent l'attention."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Haie taillée le long d'une allée de stationnement avec bordure peinte.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.52,
+        "largeur": 0.6,
+        "hauteur": 0.4
+      },
+      "lieu": "Nigeria",
+      "note": "Haie taillée nette, bien encadrée."
+    }
+  ]
+}

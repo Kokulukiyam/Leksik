@@ -1,0 +1,53 @@
+{
+  "termId": "tuile-canal",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tuile en plomb sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas en terre cuite."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pose de panneaux métalliques imitation tuile.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une tuile canal."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Trois morceaux de tuile cassée formant un tunnel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fragments, ressemble à une faîtière."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fragment de tuile émaillée rouge dans une main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Toit de tuiles anciennes sous un ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tas de tuiles cassées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Débris."
+    }
+  ]
+}

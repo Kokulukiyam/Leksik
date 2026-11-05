@@ -1,0 +1,53 @@
+{
+  "termId": "rive",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maison à étages avec galerie, pignon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maison en brique avec toit de chaume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux lucarnes sur toit d'ardoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Église en brique à toit de tuiles et pignons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive trop petite et ambiguë avec pignon."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison en bois bleue à galerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive non lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maisons à galeries à Charleston.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive non lisible."
+    }
+  ]
+}

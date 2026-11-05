@@ -1,0 +1,53 @@
+{
+  "termId": "crochet-d-armature",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Barre d'acier rouillée sortant d'un bloc de béton éclaté dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun crochet visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan de barres crénelées vues en bout, sur fond bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun crochet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cadres d'armature dressés sur une base en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadres et attentes, pas de crochet net."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tas de barres d'acier courbées en U.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Courbes en U, pas de crochet d'ancrage net ; confusion avec cadres, épingles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chantier de maisons avec terre et palettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Réseau dense de ferraillage vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Crochets illisibles."
+    }
+  ]
+}

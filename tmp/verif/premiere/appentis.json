@@ -1,0 +1,53 @@
+{
+  "termId": "appentis",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Abri en bois ouvert, toit de tourbe à deux pans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Deux versants, pas un appentis."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cabane en bois isolée en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Isolée, non adossée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Remise en tôle devant un mur d'immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit monopente mais adossement incertain, doute avec toit monopente."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Caisson blanc de robotique sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Cour avec abris de jardin, outils.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hangars à bateaux à toit à deux pans au bord de l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit à deux pans."
+    }
+  ]
+}

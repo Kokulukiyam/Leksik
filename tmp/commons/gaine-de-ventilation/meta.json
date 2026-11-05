@@ -1,0 +1,130 @@
+{
+  "terme": {
+    "id": "gaine-de-ventilation",
+    "terme": "la gaine de ventilation",
+    "categorie": "Réseaux et équipements",
+    "definition": "Conduit en tôle, rond ou rectangulaire, ou en aluminium souple, qui transporte l'air.",
+    "priorite": 2,
+    "requetes": [
+      "ventilation ductwork",
+      "gaine de ventilation",
+      "air duct galvanized"
+    ],
+    "categoriesCommons": [
+      "Category:Ductwork"
+    ]
+  },
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Control and Support Building (7514300488).jpg",
+      "description": "Work continues on the installation of the ventilation supply and return ductwork atop the Control and Support Building. The ventilation system will provide clean air throughout the Control and Support Building and Munitions Demilitarization Building during Blue Grass Chemical Agent-Destruction Pilot Plant operations.",
+      "categories": [
+        "Ductwork",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_(7514300488).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%287514300488%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%287514300488%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:Akademiet Drammen klasserom3.JPG",
+      "description": "Et av klasserommene på Akademiet.",
+      "categories": [
+        "Taken with Nikon D100",
+        "Interactive whiteboards",
+        "Ductwork",
+        "Interior of Akademiet Drammen",
+        "Self-published work",
+        "School classrooms",
+        "Classrooms in Norway",
+        "Norway photographs taken on 2013-11-02",
+        "November 2013 in Drammen",
+        "Images by Petter Ulleland"
+      ],
+      "auteur": "Peulle",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Akademiet_Drammen_klasserom3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Akademiet_Drammen_klasserom3.JPG/1280px-Akademiet_Drammen_klasserom3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:Ducting and polyurethane foam.jpg",
+      "description": "Insulated ducting and exposed polyurethane foam.",
+      "categories": [
+        "GFDL",
+        "Ductwork",
+        "Polyurethane foam",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ducting_and_polyurethane_foam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Ducting_and_polyurethane_foam.jpg/1280px-Ducting_and_polyurethane_foam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Control and Support Building (7256271456).jpg",
+      "description": "A Blue Grass Chemical Agent-Destruction Pilot Plant worker wraps heating, ventilation and air conditioning ducts with insulation in the Control and Support Building. The Control and Support Building houses multiple air handlers that will supply inlet air to the plant cascade ventilation system.",
+      "categories": [
+        "Ductwork",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_(7256271456).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%287256271456%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%287256271456%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Bethcon duct.jpg",
+      "description": "BETHLEHEM STEEL - BETHCON HVAC ducting found in a residential house built in Buffalo, New York (Bethcon trademark expired 2004)",
+      "categories": [
+        "Ductwork",
+        "Bethlehem Steel",
+        "Self-published work",
+        "Steel products"
+      ],
+      "auteur": "Fortunate4now",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bethcon_duct.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bethcon_duct.jpg/1280px-Bethcon_duct.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3377,
+      "hauteur": 1978
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Construction jury rigs galore.jpg",
+      "description": "HVAC Ducting must have been there before the wall was built.",
+      "categories": [
+        "GFDL",
+        "Thermal insulation",
+        "Ductwork",
+        "Polyurethane foam",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_jury_rigs_galore.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Construction_jury_rigs_galore.jpg/1280px-Construction_jury_rigs_galore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    }
+  ]
+}

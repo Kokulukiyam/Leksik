@@ -1,0 +1,58 @@
+{
+  "termId": "pilier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Viaduc en construction, grue et piles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pile de pont, image trop confuse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pilier d'église romane au chapiteau, retombée d'arcs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte et arcs dominent, confusion avec colonne ou faisceau de colonnes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Galerie couverte à piliers sous charpente apparente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Piliers nombreux et peu nets ; doute."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Galerie d'arcades dont les arcs reposent sur des piliers massifs carrés en maçonnerie enduite blanche ; rectangle sur un pilier.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.42,
+        "y": 0.4,
+        "largeur": 0.15,
+        "hauteur": 0.35
+      },
+      "lieu": "Mission San Miguel, Californie",
+      "note": "Piliers de section carrée, trapus ; le rectangle écarte les arcs."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pilier sculpté en pierre exposé en musée sur fond sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pilier ornemental de musée, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Viaduc de métro, pile circulaire sous le tablier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pile circulaire, confusion avec colonne."
+    }
+  ]
+}

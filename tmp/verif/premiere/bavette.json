@@ -1,0 +1,53 @@
+{
+  "termId": "bavette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Viande de boeuf (pièce de bavette) ou plat cuisiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, hors sujet architectural."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Viande de boeuf (pièce de bavette) ou plat cuisiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, hors sujet architectural."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Viande de boeuf (pièce de bavette) ou plat cuisiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, hors sujet architectural."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Viande de boeuf (pièce de bavette) ou plat cuisiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, hors sujet architectural."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Viande de boeuf (pièce de bavette) ou plat cuisiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, hors sujet architectural."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Viande de boeuf (pièce de bavette) ou plat cuisiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bavette de boucherie, hors sujet architectural."
+    }
+  ]
+}

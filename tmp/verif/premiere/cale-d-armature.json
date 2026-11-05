@@ -1,0 +1,58 @@
+{
+  "termId": "cale-d-armature",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cages d'armatures avec petits plots blancs en plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cales trop petites et dispersées ; pas de cadrage net."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chantier de pont avec échafaudages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Règle à calcul circulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cage d'armatures le long d'une route avec tubes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cales non visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pont en béton au-dessus d'un passage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cale en béton grise fixée contre une cage d'armatures, au chantier de paroi moulée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.19,
+        "largeur": 0.14,
+        "hauteur": 0.74
+      },
+      "lieu": "",
+      "note": "Cale en béton nette, rectangle sur la cale."
+    }
+  ]
+}

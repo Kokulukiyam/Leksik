@@ -1,0 +1,53 @@
+{
+  "termId": "tremie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pièce abandonnée d'un fort, avec dalle partielle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trémie non claire."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tour crénelée avec planchers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade avec ouvrier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Hall avec ouverture ronde au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouverture de plafond ronde, doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Module préfabriqué en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ferraillage de dalle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

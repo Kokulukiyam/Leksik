@@ -1,0 +1,58 @@
+{
+  "termId": "harnais-de-securite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier casqué vu de dos portant un harnais antichute bleu avec longe et anneau dorsal.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.25,
+        "largeur": 0.46,
+        "hauteur": 0.56
+      },
+      "lieu": "",
+      "note": "Harnais antichute net et dominant, anneau dorsal et longe visibles ; rectangle sur le harnais."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gilet de plongée orange à poches de lest.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Harnais de plongée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Charpente d'une maison en bois avec ouvriers au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Harnais non visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier sur ossature bois levant une ferme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Harnais non distinguable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Harnais de marche pour enfant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Harnais pour enfant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Emballage d'un harnais pour bébé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Harnais pour bébé, texte visible."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "reprise-de-betonnage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Trottoir neuf en béton lisse contre un vieux trottoir à granulats apparents.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joint entre deux trottoirs d'âges différents, pas une reprise de bétonnage lisible ; doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade d'un bâtiment en chantier avec un ouvrier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan de béton à granulats colorés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de reprise."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ancienne photo noir et blanc de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo exploitable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ventilation circulaire dans un plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble en construction avec planchers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de reprise lisible."
+    }
+  ]
+}

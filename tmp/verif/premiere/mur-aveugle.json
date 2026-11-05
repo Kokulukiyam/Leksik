@@ -1,0 +1,53 @@
+{
+  "termId": "mur-aveugle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Terrasse et mur de marbre à Agra.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Agra, Inde",
+      "note": "Ouvertures présentes."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Piano devant un papier peint.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur blanc texturé avec seaux et jardinières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments décoratifs, ambigu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur ocre avec une fenêtre et une arme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouverture présente."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne de mur d'os.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Islande",
+      "note": "Ancienne, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Boîte de nuit intérieure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne",
+      "note": "Intérieur."
+    }
+  ]
+}

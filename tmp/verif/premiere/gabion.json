@@ -1,0 +1,58 @@
+{
+  "termId": "gabion",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gabions remplis de bûches sur un stand de salon, panneau avec texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Remplissage atypique, texte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Berge herbeuse au bord de l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de gabion."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grande cage grillagée remplie de blocs de pierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gabion typique, net et dominant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tranchée avec matelas gabion déroulé le long d'une voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier confus."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ruisseau avec blocs et gabions en bordure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surexposée, gabions peu lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Clôture alternant panneaux de gabion et lames métalliques, de nuit.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.43,
+        "y": 0.12,
+        "largeur": 0.32,
+        "hauteur": 0.88
+      },
+      "lieu": "",
+      "note": "Panneau gabion encadré, net."
+    }
+  ]
+}

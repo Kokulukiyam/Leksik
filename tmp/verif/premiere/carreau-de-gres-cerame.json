@@ -1,0 +1,53 @@
+{
+  "termId": "carreau-de-gres-cerame",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Carreaux peints d'oiseaux encastrés dans une façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreaux décoratifs peints, pas du grès cérame."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol de pièce vide en grands carreaux gris brillants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo retenue pour « grès cérame poli » (une photo, un seul terme) ; le terme-ci reste ambigu avec le poli."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de carreaux émaillés à motifs colorés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreaux décoratifs émaillés, pas du grès cérame."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pipes en terre cuite sous vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bâtiment en brique d'une manufacture de porcelaine avec arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Un seul carreau crème sur fond de ciment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreau isolé, indéterminé (faïence murale), pas du grès cérame."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "amorce-de-poteau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Armatures en attente sur un chantier de pont avec échafaudages et ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène trop chargée ; poteau non identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Dalle de béton fissurée par une armature rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éclatement, pas une amorce."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Barres tordues dans des gravats de démolition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravats, pas une amorce."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cages de cadres sortant d'un massif de béton coffré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pourrait aussi illustrer semelle isolée ou armature en attente ; doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan d'une barre crénelée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Règle à calcul circulaire pour béton armé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée."
+    }
+  ]
+}

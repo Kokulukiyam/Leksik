@@ -1,0 +1,53 @@
+{
+  "termId": "margelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Piscine gonflable blanche et bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Piscine gonflable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bord de piscine bleue avec pot de peinture et tournevis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rebord peu distinct, objets parasites."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bassin de piscine avec échelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Margelle pas dominante."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bassin de natation avec lignes d'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Margelle absente."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Femme dans un bassin intérieur, bord en mosaïque et caniveau à grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bord à débordement, ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Enfant sur une bouée flamant dans une piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de margelle."
+    }
+  ]
+}

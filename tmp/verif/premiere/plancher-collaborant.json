@@ -1,0 +1,29 @@
+{
+  "termId": "plancher-collaborant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Parking mécanique à étages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poutre en I et tôle sous plancher, annotée à la main avec légendes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Textes et flèches sur l'image, tôle non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade d'un immeuble de logements.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "appareil-en-panneresses",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Devanture de commerce avec voiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur de fortification en brique, panorama.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rue avec maisons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de briques blanchi portant un texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte et peinture."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur peint en rouge imitant la brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faux appareil peint."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de fortification en brique, panorama.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil non lisible."
+    }
+  ]
+}

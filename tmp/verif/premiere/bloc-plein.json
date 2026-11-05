@@ -1,0 +1,53 @@
+{
+  "termId": "bloc-plein",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Décombres de blocs de béton creux après un ouragan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs creux."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Blocs empilés en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Alvéoles possibles ; plein non démontrable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Palettes de blocs gris sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs de plancher, plein non démontrable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Noir et blanc de parpaings devant un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas plein."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chantier d'intérieur avec ouverture percée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ferme avec mur en blocs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plein non démontrable."
+    }
+  ]
+}

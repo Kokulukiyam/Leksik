@@ -1,0 +1,58 @@
+{
+  "termId": "pelouse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'herbes et de fleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan, pas une pelouse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Herbes sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Herbier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pelouse sous un arbre avec arrosage en contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contre-jour, lisibilité faible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Prairie avec poteau et traitement stylisé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prairie, image retouchée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vaste pelouse tondue devant des arbres et un hangar.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.6,
+        "largeur": 1.0,
+        "hauteur": 0.4
+      },
+      "lieu": "",
+      "note": "Gazon ras net au premier plan; rectangle sur la pelouse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'herbe avec pissenlit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Macro, pas une pelouse."
+    }
+  ]
+}

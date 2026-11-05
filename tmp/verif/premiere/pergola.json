@@ -1,0 +1,58 @@
+{
+  "termId": "pergola",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Balcon bois ouvragé à l'étage d'une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une pergola."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pergola de glycine sur poteaux blancs autour d'une fontaine.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.1,
+        "largeur": 1.0,
+        "hauteur": 0.5
+      },
+      "lieu": "Corée/Japon",
+      "note": "Structure à poteaux et poutres couverte de glycine; rectangle sur la pergola."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de jardin en pierre en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une pergola."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Terrasse couverte avec cuisine extérieure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couvert peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Portail de jardin double entre deux piles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Abri de branchages en arc, photographie ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Abri sommaire, pas une pergola."
+    }
+  ]
+}
