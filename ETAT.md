@@ -40,11 +40,15 @@ chances de croiser sur un chantier (génériques et précis) ; parties toujours 
 
 ## Journal des lots
 
-Première vérification (agents Sonnet, 10 termes par lot) : p-001 à p-008 faits, p-009 à p-012 lancés.
-Contre-vérification (modèle principal) : v2-001 fait (27/29), v2-002 lancé (48 images).
-Pour savoir quoi faire : `python3 scripts/avancement.py` ; un terme « à vérifier (1re) » qui n'est dans aucun lot
-lancé est à reprendre (un agent interrompu laisse un JSON incomplet : il est compté « à vérifier »).
-Termes sans aucune candidate Commons (à retenter avec d'autres requêtes à la fin) : voir `python3 scripts/avancement.py`.
+- Première vérification (agents Sonnet) : p-001 à p-016 faits (10 termes par lot), p-017 à p-020 lancés (15 termes).
+- Contre-vérification (modèle principal) : v2-001 à v2-004 faits.
+- 5 nov. : passe « critères croisés » (539 paires incompatibles, `scripts/verif/consignes-axes.md`) appliquée.
+- Recherche Commons par catégories vérifiées depuis le 4 nov. 23 h ; les termes téléchargés avant (environ 210)
+  ont eu la recherche plein texte : seconde passe à faire pour ceux qui ont moins de 2 images
+  (`node scripts/commons.mjs --suite --categories <ids>`, puis 1re vérification des nouvelles candidates seulement).
+- Limite d'utilisation Claude atteinte deux fois : reprendre les agents interrompus avec SendMessage, ou relancer
+  le lot (un JSON incomplet est compté « à vérifier »).
+- Pour savoir quoi faire : `python3 scripts/avancement.py`.
 
 ## Rappels
 

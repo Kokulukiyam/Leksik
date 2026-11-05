@@ -1,0 +1,659 @@
+[
+ {
+  "id": "arc-de-decharge",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "arc-en-plein-cintre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "ossature-en-beton-arme",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pilotis",
+   "portique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "ossature-metallique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "ferme-metallique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tige-d-ancrage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "assemblage-boulonne"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "profile-en-i",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "poutre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "profile-en-h",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "poutre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "poteau-metallique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "profile-en-i"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "coque-en-beton",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "coupole"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "poutre-de-rive",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "retombee-de-poutre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "poutre",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "solive"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "poutre-vierendeel",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "ferme-metallique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "hauban",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tirant"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pilier",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pilotis"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "colonne",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pilotis"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "plancher-collaborant",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "dalle"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "maconnerie",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "appareil-cyclopeen",
+   "appareil-reticule",
+   "opus-incertum"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "appareil-cyclopeen",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "opus-incertum"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "mur-en-pierre-seche",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "mur-en-moellons"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "joint-creux",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "lit-de-mortier"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bloc-a-bancher",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bloc-en-u"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bloc-plein",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bloc-a-bancher"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bloc-en-u",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bloc-plein",
+   "linteau-coule-en-place",
+   "chainage-vertical"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "epingle",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "etrier"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cage-d-armature",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "etrier",
+   "epingle"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "chaise-d-armature",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cale-d-armature"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "ferraillage-de-dalle",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cale-d-armature",
+   "fer-a-beton"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "fer-a-beton",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "treillis-soude",
+   "armature-en-attente",
+   "ligature"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "amorce-de-poteau",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cage-d-armature"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "coupleur-d-armature",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "recouvrement-d-armatures"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "crochet-d-armature",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "etrier"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "beton-projete",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "betonnage"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "plot-de-beton",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "semelle-isolee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "longrine",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "semelle-filante"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "blindage-de-fouille",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "palplanche",
+   "paroi-berlinoise"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "paroi-moulee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "palplanche",
+   "paroi-berlinoise"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "trou-de-boulin",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "reservation"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "linteau-coule-en-place",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "linteau-prefabrique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "ciment",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "mortier"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "mortier",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "joint-de-maconnerie"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "beton-brut",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "beton-desactive"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "beton-imprime",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "beton-matrice"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tole-larmee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "acier-galvanise"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "acier-corten",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bardage-metallique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bardage-a-clin",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bois-brule",
+   "bardeau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bardage-metallique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "panneau-composite-aluminium",
+   "acier-galvanise"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "contreplaque",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "panneau-osb"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bambou",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "rondin"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "moellon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pierre-de-taille"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "calcaire",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "marbre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "meuliere",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "silex"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "silex",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "galet"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tuffeau",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "travertin"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "marbre",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pierre-de-taille"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "travertin",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pierre-de-taille"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "torchis",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bauge"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "brique-de-terre-comprimee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pise",
+   "bauge"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "brique-pleine",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "brique-creuse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "brique-vernissee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "brique-pleine",
+   "brique-creuse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "verre-arme",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "verre-imprime"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "zellige",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "mosaique-de-pate-de-verre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "enduit-gratte",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "enduit-taloche"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "carrelage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "carreau-metro",
+   "carreau-imitation-bois"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "carreau-de-ciment",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tomette"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "carreau-grand-format",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "gres-cerame-poli",
+   "carreau-imitation-bois"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "carreau-imitation-bois",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "gres-cerame-poli"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "carreau-de-gres-cerame",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "carreau-hexagonal"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "carreau-metro",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "credence"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "joint-de-carrelage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "croisillon"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "beton-cire",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "sol-en-resine"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "linoleum",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "sol-en-caoutchouc"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cloison-mobile",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cloison-vitree"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "plaque-de-platre",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "enduit-de-lissage"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "faux-plafond-en-dalles",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "faux-plafond-a-lames-metalliques",
+   "panneau-acoustique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "gorge-lumineuse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "faux-plafond-en-plaques-de-platre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "trappe-de-visite",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "faux-plafond-en-plaques-de-platre",
+   "faux-plafond-en-dalles"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "ossature-de-faux-plafond",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "faux-plafond-a-lames-metalliques",
+   "faux-plafond-en-plaques-de-platre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "boiserie",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "lambris-pvc"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pare-vapeur",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "isolant-mince-reflechissant"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "croisillon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cale-autonivelante"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "_bilan",
+  "action": "bilan",
+  "raison": "Paires ajoutées (une par paire, relation symétrique) : Structure 16; Gros œuvre et maçonnerie 34; Matériaux et revêtements 26; Second œuvre et finitions 23"
+ }
+]

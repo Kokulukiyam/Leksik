@@ -11,7 +11,10 @@
     "terme": "l'appui de fenêtre",
     "definition": "Tablette horizontale qui termine le bas d'une baie au-dessus de l'allège, souvent saillante et inclinée pour rejeter l'eau de pluie.",
     "categorie": "Façade et ouvertures",
-    "priorite": 1
+    "priorite": 1,
+    "incompatibles": [
+      "allege"
+    ]
   },
   {
     "id": "linteau",
@@ -41,7 +44,8 @@
     "categorie": "Façade et ouvertures",
     "priorite": 2,
     "incompatibles": [
-      "trumeau"
+      "trumeau",
+      "linteau"
     ]
   },
   {
@@ -72,7 +76,9 @@
     "priorite": 1,
     "incompatibles": [
       "garde-corps",
-      "balustre"
+      "balustre",
+      "garde-corps-a-cables",
+      "garde-corps-a-lisses"
     ]
   },
   {
@@ -87,7 +93,10 @@
     "terme": "la persienne",
     "definition": "Volet extérieur à lames inclinées qui laisse passer l'air tout en arrêtant le soleil.",
     "categorie": "Menuiserie et serrurerie",
-    "priorite": 1
+    "priorite": 1,
+    "incompatibles": [
+      "volet-coulissant"
+    ]
   },
   {
     "id": "oriel",
@@ -121,7 +130,9 @@
     "priorite": 1,
     "incompatibles": [
       "brise-soleil",
-      "moucharabieh"
+      "moucharabieh",
+      "brise-soleil-vertical",
+      "treillage"
     ]
   },
   {
@@ -136,7 +147,11 @@
     "terme": "le moucharabieh",
     "definition": "Treillis de bois tourné, souvent en saillie devant une fenêtre, qui permet de voir sans être vu, typique de l'architecture arabe.",
     "categorie": "Façade et ouvertures",
-    "priorite": 3
+    "priorite": 3,
+    "incompatibles": [
+      "brise-soleil",
+      "treillage"
+    ]
   },
   {
     "id": "lucarne",
@@ -161,7 +176,11 @@
     "terme": "la gouttière",
     "definition": "Canal fixé au bas d'un toit qui recueille les eaux de pluie.",
     "categorie": "Toitures",
-    "priorite": 1
+    "priorite": 1,
+    "incompatibles": [
+      "boite-a-eau",
+      "dauphin"
+    ]
   },
   {
     "id": "faitage",
@@ -189,7 +208,10 @@
     "terme": "le shed",
     "definition": "Toiture en dents de scie dont un versant de chaque dent est vitré pour éclairer l'intérieur, typique des bâtiments industriels.",
     "categorie": "Toitures",
-    "priorite": 3
+    "priorite": 3,
+    "incompatibles": [
+      "toit-monopente"
+    ]
   },
   {
     "id": "fleche",
@@ -206,7 +228,8 @@
     "priorite": 2,
     "incompatibles": [
       "exutoire-de-desenfumage",
-      "verriere"
+      "verriere",
+      "plaque-translucide"
     ]
   },
   {
@@ -217,7 +240,8 @@
     "priorite": 2,
     "incompatibles": [
       "chapiteau",
-      "pilastre"
+      "pilastre",
+      "pilotis"
     ]
   },
   {
@@ -314,7 +338,13 @@
     "terme": "la corniche",
     "definition": "Couronnement en saillie, généralement mouluré, qui termine le haut d'un mur ou d'une façade.",
     "categorie": "Ornement",
-    "priorite": 1
+    "priorite": 1,
+    "incompatibles": [
+      "triglyphe",
+      "metope",
+      "frise",
+      "chapiteau-ionique"
+    ]
   },
   {
     "id": "bandeau",
@@ -323,7 +353,8 @@
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
-      "corniche"
+      "corniche",
+      "chapiteau-ionique"
     ]
   },
   {
@@ -402,7 +433,11 @@
     "priorite": 3,
     "incompatibles": [
       "bas-relief",
-      "haut-relief"
+      "haut-relief",
+      "cartouche",
+      "medaillon",
+      "frise",
+      "feston"
     ]
   },
   {
@@ -462,7 +497,8 @@
     "priorite": 2,
     "incompatibles": [
       "mur-en-moellons",
-      "opus-incertum"
+      "opus-incertum",
+      "pierre-de-taille"
     ]
   },
   {
@@ -470,7 +506,10 @@
     "terme": "le béton brut",
     "definition": "Béton laissé apparent tel qu'il sort du coffrage, dont il garde l'empreinte.",
     "categorie": "Matériaux et revêtements",
-    "priorite": 2
+    "priorite": 2,
+    "incompatibles": [
+      "beton-desactive"
+    ]
   },
   {
     "id": "tuile",
@@ -511,7 +550,8 @@
     "priorite": 2,
     "incompatibles": [
       "carrelage",
-      "carreau-hexagonal"
+      "carreau-hexagonal",
+      "tomette"
     ]
   },
   {
@@ -556,7 +596,10 @@
     "terme": "le toguna",
     "definition": "Abri de palabres du pays dogon, au toit très épais de couches de tiges de mil posé sur des piliers bas, souvent sculptés, qui empêchent de se tenir debout.",
     "categorie": "Afrique de l'Ouest",
-    "priorite": 3
+    "priorite": 3,
+    "incompatibles": [
+      "paillote"
+    ]
   },
   {
     "id": "grenier-dogon",
@@ -575,7 +618,9 @@
     "categorie": "Afrique de l'Ouest",
     "priorite": 3,
     "incompatibles": [
-      "case"
+      "case",
+      "tata-somba",
+      "ginna"
     ]
   },
   {
@@ -618,7 +663,8 @@
     "categorie": "Chantier et outillage",
     "priorite": 1,
     "incompatibles": [
-      "mini-pelle"
+      "mini-pelle",
+      "tractopelle"
     ]
   },
   {
@@ -626,7 +672,10 @@
     "terme": "la tractopelle",
     "definition": "Engin sur pneus portant un godet de chargement à l'avant et un bras de pelle à l'arrière.",
     "categorie": "Chantier et outillage",
-    "priorite": 1
+    "priorite": 1,
+    "incompatibles": [
+      "mini-pelle"
+    ]
   },
   {
     "id": "camion-benne",
@@ -635,7 +684,8 @@
     "categorie": "Chantier et outillage",
     "priorite": 1,
     "incompatibles": [
-      "tombereau"
+      "tombereau",
+      "dumper"
     ]
   },
   {
@@ -653,7 +703,10 @@
     "terme": "la truelle",
     "definition": "Outil à lame d'acier plate, triangulaire ou arrondie, et à manche coudé, pour prendre, étaler et lisser le mortier.",
     "categorie": "Chantier et outillage",
-    "priorite": 1
+    "priorite": 1,
+    "incompatibles": [
+      "platoir"
+    ]
   },
   {
     "id": "brouette",
@@ -716,7 +769,10 @@
     "terme": "la perceuse",
     "definition": "Outil électrique à main qui fait tourner un foret pour percer des trous.",
     "categorie": "Chantier et outillage",
-    "priorite": 1
+    "priorite": 1,
+    "incompatibles": [
+      "carotteuse"
+    ]
   },
   {
     "id": "metre-ruban",
@@ -781,7 +837,8 @@
     "priorite": 1,
     "incompatibles": [
       "pave",
-      "trottoir"
+      "trottoir",
+      "allee"
     ]
   },
   {
@@ -799,7 +856,9 @@
     "priorite": 1,
     "incompatibles": [
       "passage-pieton",
-      "chaussee"
+      "chaussee",
+      "enrobe",
+      "marquage-au-sol"
     ]
   },
   {
@@ -810,7 +869,8 @@
     "priorite": 1,
     "incompatibles": [
       "marquage-au-sol",
-      "chaussee"
+      "chaussee",
+      "enrobe"
     ]
   },
   {
@@ -848,7 +908,8 @@
     "priorite": 1,
     "incompatibles": [
       "pilier-de-portail",
-      "chaperon"
+      "chaperon",
+      "haie"
     ]
   },
   {
@@ -858,7 +919,9 @@
     "categorie": "Extérieurs et voirie",
     "priorite": 1,
     "incompatibles": [
-      "mur-de-cloture"
+      "mur-de-cloture",
+      "cloture-grillagee",
+      "cloture-en-bois"
     ]
   },
   {
@@ -868,7 +931,8 @@
     "categorie": "Extérieurs et voirie",
     "priorite": 1,
     "incompatibles": [
-      "mur-de-cloture"
+      "mur-de-cloture",
+      "muret"
     ]
   },
   {
@@ -886,7 +950,12 @@
     "terme": "la clôture grillagée",
     "definition": "Clôture faite d'un grillage métallique tendu entre des poteaux.",
     "categorie": "Extérieurs et voirie",
-    "priorite": 1
+    "priorite": 1,
+    "incompatibles": [
+      "mur-de-cloture",
+      "muret",
+      "haie"
+    ]
   },
   {
     "id": "piscine",
@@ -896,7 +965,8 @@
     "priorite": 1,
     "incompatibles": [
       "margelle",
-      "plage-de-piscine"
+      "plage-de-piscine",
+      "pediluve"
     ]
   },
   {
@@ -955,7 +1025,9 @@
       "toiture",
       "pignon",
       "faitage",
-      "versant"
+      "versant",
+      "demi-croupe",
+      "toit-mansarde"
     ]
   },
   {
@@ -968,7 +1040,9 @@
       "toiture",
       "croupe",
       "aretier",
-      "versant"
+      "versant",
+      "demi-croupe",
+      "toit-mansarde"
     ]
   },
   {
@@ -978,7 +1052,10 @@
     "categorie": "Toitures",
     "priorite": 1,
     "incompatibles": [
-      "ferme"
+      "ferme",
+      "arbaletrier",
+      "entrait",
+      "poincon"
     ]
   },
   {
@@ -989,7 +1066,8 @@
     "priorite": 2,
     "incompatibles": [
       "chevron",
-      "ecran-sous-toiture"
+      "ecran-sous-toiture",
+      "volige"
     ]
   },
   {
@@ -999,7 +1077,8 @@
     "categorie": "Toitures",
     "priorite": 1,
     "incompatibles": [
-      "bac-acier"
+      "bac-acier",
+      "plaque-translucide"
     ]
   },
   {
@@ -1064,7 +1143,8 @@
     "categorie": "Structure",
     "priorite": 1,
     "incompatibles": [
-      "retombee-de-poutre"
+      "retombee-de-poutre",
+      "solive"
     ]
   },
   {
@@ -1077,7 +1157,8 @@
       "poteau-metallique",
       "profile-en-i",
       "profile-en-h",
-      "charpente-metallique"
+      "charpente-metallique",
+      "ferme-metallique"
     ]
   },
   {
@@ -1117,7 +1198,8 @@
     "categorie": "Matériaux et revêtements",
     "priorite": 1,
     "incompatibles": [
-      "bois"
+      "bois",
+      "panneau-osb"
     ]
   },
   {
@@ -1167,7 +1249,9 @@
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
-      "porte"
+      "porte",
+      "porte-a-panneaux",
+      "porte-a-deux-vantaux"
     ]
   },
   {
@@ -1175,7 +1259,11 @@
     "terme": "la fenêtre",
     "definition": "Ouvrage vitré, fixe ou ouvrant, qui ferme une baie pour donner du jour et de l'air.",
     "categorie": "Menuiserie et serrurerie",
-    "priorite": 1
+    "priorite": 1,
+    "incompatibles": [
+      "ouvrant",
+      "huisserie"
+    ]
   },
   {
     "id": "naco",

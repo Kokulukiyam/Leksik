@@ -1,0 +1,927 @@
+[
+ {
+  "id": "porte-d-entree",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-vitree",
+   "porte-metallique",
+   "porte-a-panneaux",
+   "porte-a-deux-vantaux",
+   "huisserie"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-vitree",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-metallique",
+   "porte-a-panneaux",
+   "porte-a-deux-vantaux"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-metallique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-a-panneaux",
+   "porte-a-deux-vantaux"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-a-panneaux",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-a-deux-vantaux"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-cochere",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-d-entree",
+   "porte-a-panneaux",
+   "porte-metallique",
+   "porte-vitree",
+   "portail-battant"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-isoplane",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-d-entree",
+   "porte-metallique",
+   "porte-a-deux-vantaux",
+   "porte-coupe-feu",
+   "porte-vitree"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-persiennee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-d-entree",
+   "porte-a-deux-vantaux",
+   "porte-a-panneaux"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-coupe-feu",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-vitree",
+   "porte-a-deux-vantaux"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-fenetre",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-a-deux-vantaux",
+   "porte-coulissante",
+   "porte-metallique",
+   "porte-d-entree"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-coulissante",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-vitree",
+   "porte-metallique",
+   "porte-de-placard"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-automatique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-a-tambour",
+   "porte-metallique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-a-galandage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-vitree",
+   "porte-de-placard",
+   "porte-automatique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-de-placard",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-a-panneaux",
+   "porte-isoplane",
+   "porte-accordeon",
+   "porte-persiennee",
+   "porte-a-deux-vantaux"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-sectionnelle",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-metallique",
+   "porte-a-panneaux",
+   "porte-automatique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-basculante",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-metallique",
+   "porte-a-panneaux"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "portail-battant",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "portail-coulissant"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "portail-coulissant",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "portillon"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "fenetre-a-l-italienne",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fenetre-a-soufflet",
+   "fenetre-oscillo-battante",
+   "fenetre-pivotante"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "fenetre-pivotante",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fenetre-a-la-francaise",
+   "fenetre-a-soufflet"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "fenetre-coulissante",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fenetre-a-guillotine"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "menuiserie-pvc",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fenetre-a-guillotine",
+   "fenetre-a-l-italienne",
+   "fenetre-a-la-francaise",
+   "fenetre-a-soufflet",
+   "fenetre-coulissante",
+   "fenetre-pivotante",
+   "chassis-fixe",
+   "porte-fenetre",
+   "porte-vitree",
+   "petit-bois"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "menuiserie-aluminium",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fenetre-a-guillotine",
+   "fenetre-a-l-italienne",
+   "fenetre-a-la-francaise",
+   "fenetre-a-soufflet",
+   "fenetre-oscillo-battante",
+   "fenetre-pivotante",
+   "porte-fenetre",
+   "petit-bois"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "double-vitrage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fenetre-a-guillotine",
+   "fenetre-a-l-italienne",
+   "fenetre-a-la-francaise",
+   "fenetre-a-soufflet",
+   "fenetre-coulissante",
+   "fenetre-oscillo-battante",
+   "fenetre-pivotante",
+   "porte-vitree",
+   "porte-fenetre",
+   "chassis-fixe",
+   "vitrage-feuillete",
+   "vitrage-teinte"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "vitrage-feuillete",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "vitrage-teinte"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "petit-bois",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fenetre-a-la-francaise",
+   "fenetre-a-guillotine",
+   "porte-fenetre",
+   "chassis-fixe"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "fenetre",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "ouvrant",
+   "huisserie"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "persienne",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "volet-coulissant"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "volet-pliant",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "volet-battant"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "volet-coulissant",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "volet-pliant"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "rideau-metallique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "coffre-de-volet-roulant"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "serrure-en-applique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "serrure-a-encastrer",
+   "serrure-multipoint"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "loquet",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "targette"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "poignee-de-tirage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bouton-de-porte"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "charniere",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "gond",
+   "penture"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "paumelle",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "penture"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "paumelle-a-souder",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "charniere",
+   "gond"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "barre-antipanique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-metallique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "grille-extensible",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "grille-de-defense"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "hublot-de-porte",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "porte-coupe-feu",
+   "porte-isoplane"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "escalier-a-cremaillere",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "escalier-droit",
+   "escalier-demi-tournant",
+   "escalier-quart-tournant",
+   "escalier-en-porte-a-faux",
+   "escalier-de-secours"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "escalier-en-porte-a-faux",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "escalier-droit",
+   "escalier-demi-tournant",
+   "escalier-quart-tournant",
+   "escalier-en-colimacon",
+   "escalier-a-double-revolution"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "escalier-demi-tournant",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "escalier-quart-tournant",
+   "escalier-a-double-revolution"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "escalier-escamotable",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "escalier-droit"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "echelle-de-meunier",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "escalier-droit"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "contremarche",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "nez-de-marche"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "limon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "paillasse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "palier",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "volee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "paillasse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "volee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "main-courante",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "barreau-de-rampe"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "garde-corps-a-cables",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "garde-corps-a-lisses"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "balustrade",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "garde-corps-maconne",
+   "garde-corps-a-barreaudage",
+   "balcon"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "balcon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "garde-corps-a-cables",
+   "garde-corps-a-lisses"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "balconnet",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "garde-corps-en-fer-forge",
+   "garde-corps-a-barreaudage"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "balcon-filant",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "garde-corps-vitre",
+   "garde-corps-a-barreaudage",
+   "garde-corps-maconne",
+   "garde-corps-a-lisses",
+   "garde-corps-a-cables"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "coursive",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "balcon-filant"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pare-vue",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "claustra",
+   "garde-corps-vitre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "baie-geminee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "baie-cintree"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "arcade",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "baie-cintree"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "marquise",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "store-banne",
+   "porche"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "casquette",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "marquise"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "brise-soleil-orientable",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "brise-soleil-horizontal",
+   "brise-soleil-vertical"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "claustra",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "brise-soleil-vertical",
+   "treillage"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "moucharabieh",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "brise-soleil",
+   "treillage"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "chambranle",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "linteau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "piedroit",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "linteau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "encadrement-de-baie",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "piedroit",
+   "tableau-de-baie"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tableau-de-baie",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "ebrasement"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "appui-de-fenetre",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "allege"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bavette",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "larmier"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "facade-ventilee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "facade-double-peau",
+   "mur-rideau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "facade-double-peau",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "vitrage-agrafe"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "devanture",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "store-banne"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "voile-d-ombrage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "store-banne"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "toit-a-quatre-pans",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "demi-croupe",
+   "toit-mansarde"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "toit-a-deux-pans",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "demi-croupe",
+   "toit-mansarde"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "toit-mansarde",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chien-assis"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "toit-en-pavillon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "aretier"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "shed",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "toit-monopente"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "toiture-terrasse-gravillonnee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "toiture-vegetalisee",
+   "membrane-bitumineuse",
+   "terrasse-accessible"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "toiture-vegetalisee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "terrasse-accessible",
+   "membrane-bitumineuse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "dalle-sur-plots",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "toiture-terrasse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "couvertine",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "releve-d-etancheite"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "gargouille-de-terrasse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "crapaudine"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "trop-plein",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "crapaudine"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "toiture-terrasse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "gargouille-de-terrasse",
+   "trop-plein",
+   "couvertine"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tuile-faitiere",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tuile-canal",
+   "tuile-mecanique",
+   "tuile-plate"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "chatiere",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tuile-canal",
+   "tuile-mecanique",
+   "tuile-plate"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "panneau-sandwich",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "plaque-translucide"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "gouttiere",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "boite-a-eau",
+   "dauphin"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cheneau",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "boite-a-eau",
+   "descente-d-eaux-pluviales",
+   "egout-de-toit"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "arbaletrier",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "poincon"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "chevron",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "panne"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "liteau",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "volige"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "charpente-metallique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fermette"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "charpente",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "arbaletrier",
+   "entrait",
+   "poincon"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "ecran-sous-toiture",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "volige"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "verriere",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fenetre-de-toit",
+   "plaque-translucide"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "lanterneau",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "plaque-translucide"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "fenetre-de-toit",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chien-assis"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "noue",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "aretier"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "toit-conique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "fleche"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "_bilan",
+  "action": "bilan",
+  "raison": "Paires ajoutées (une fois chacune, symétrie assurée par lib/shared.ts) : Menuiserie et serrurerie 110; Escaliers et circulations 19; Façade et ouvertures 39; Toitures 45 ; total 213. Tous les termes gardent au moins 3 compatibles."
+ }
+]

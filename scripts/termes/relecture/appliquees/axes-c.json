@@ -1,0 +1,1257 @@
+[
+ {
+  "id": "echafaudage-tubulaire",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "echafaudage-roulant",
+   "echafaudage-en-bois",
+   "echafaudage-en-bambou"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "echafaudage-en-bois",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "echafaudage-en-bambou"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "plancher-d-echafaudage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "echafaudage-tubulaire",
+   "echafaudage-roulant",
+   "echafaudage-en-bois",
+   "echafaudage-en-bambou"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "echafaudage-roulant",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "echafaudage-en-bois",
+   "echafaudage-en-bambou"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "filet-de-protection",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "echafaudage-tubulaire"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "coffrage-metallique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "coffrage-de-dalle"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "banche",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "coffrage-bois",
+   "coffrage-de-poteau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "table-coffrante",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "coffrage-bois"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "coffrage-de-dalle",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tour-d-etaiement"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "etai-en-bois",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tour-d-etaiement"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "regle-vibrante",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "regle-de-macon",
+   "aiguille-vibrante"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "regle-de-macon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "aiguille-vibrante"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pelle-hydraulique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tractopelle"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tractopelle",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "mini-pelle"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "camion-benne",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "dumper"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "dumper",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tombereau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "platoir",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "raclette-a-joints"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "raclette-a-joints",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "spatule-crantee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "spatule-crantee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "taloche"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "talocheuse-mecanique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "taloche"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "truelle",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "platoir"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "jalon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "piquet"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "casque-de-chantier",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "casque-anti-bruit"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "perceuse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "carotteuse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "scie-circulaire",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "scie-sauteuse",
+   "tronconneuse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "scie-sauteuse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tronconneuse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cintreuse-a-armatures",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cisaille-a-armatures"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cisaille-a-armatures",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "griffe-a-cintrer"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "niveleuse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bulldozer"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "rouleau-compresseur",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "plaque-vibrante",
+   "pilonneuse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "palan",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "poulie"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cloture-en-bois",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cloture-grillagee",
+   "mur-de-cloture",
+   "muret",
+   "haie"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cloture-grillagee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "mur-de-cloture",
+   "muret",
+   "haie"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "mur-de-cloture",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "haie"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "muret",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "haie",
+   "mur-de-soutenement"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "concertina",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cloture-grillagee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pilier-de-portail",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cloture-grillagee",
+   "cloture-en-bois"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "chaperon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "muret"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "enrochement",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "gabion",
+   "mur-de-soutenement"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "gabion",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "talus"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "mur-de-soutenement",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "talus"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "caniveau-a-grille",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "canal-d-eaux-pluviales",
+   "fosse",
+   "avaloir"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "canal-d-eaux-pluviales",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "avaloir"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "fosse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "avaloir"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "dalot",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "canal-d-eaux-pluviales",
+   "caniveau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "accotement",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "trottoir"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "dos-d-ane",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "enrobe",
+   "marquage-au-sol"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "enrobe",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "marquage-au-sol"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "passage-pieton",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "enrobe"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "piste-cyclable",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chaussee",
+   "enrobe",
+   "passage-pieton"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "terre-plein-central",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "trottoir"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pave",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "allee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pave-autobloquant",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "allee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "trottoir",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "allee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pas-japonais",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "dalle-engazonnee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "dalle-engazonnee",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "allee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "piscine",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pediluve"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "skimmer",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "plage-de-piscine"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "echelle-de-piscine",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "plage-de-piscine"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "piscine-a-debordement",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "margelle",
+   "plage-de-piscine",
+   "skimmer"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "abribus",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pergola"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "regard",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "puisard"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "mascaron",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cartouche",
+   "medaillon",
+   "frise",
+   "feston"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cartouche",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "frise",
+   "feston"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "medaillon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "frise",
+   "feston"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "feston",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "palmette",
+   "rinceau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "palmette",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "rinceau",
+   "arabesque",
+   "grecque"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "rinceau",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "grecque"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "arabesque",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "grecque",
+   "frise"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "sgraffite",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "trompe-l-oeil",
+   "arabesque"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "trompe-l-oeil",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "arabesque"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "chapiteau-corinthien",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chapiteau-dorique",
+   "chapiteau-ionique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "chapiteau-dorique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chapiteau-ionique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "feuille-d-acanthe",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chapiteau-dorique",
+   "chapiteau-ionique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "volute",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chapiteau-corinthien"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cannelure",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "colonne-torse"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "colonne-torse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pilastre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "architrave",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "corniche",
+   "triglyphe",
+   "metope"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "corniche",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "triglyphe",
+   "metope",
+   "frise",
+   "chapiteau-ionique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "entablement",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "denticule",
+   "modillon"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "moulure",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "modillon"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "ove",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "denticule",
+   "corniche",
+   "bandeau",
+   "chapiteau-ionique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "denticule",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bandeau",
+   "chapiteau-ionique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bandeau",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chapiteau-ionique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "rosace-de-plafond",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "rosace"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cul-de-lampe",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "modillon"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "fronton-brise",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tympan"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "epi-de-faitage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pinacle",
+   "fleuron"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pot-a-feu",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "balustre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "refend",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pierre-de-taille"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "grecque",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "metope"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tube-per",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tube-ppr",
+   "tube-pvc",
+   "tuyau-en-polyethylene"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tube-ppr",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tube-multicouche",
+   "tube-pvc",
+   "tuyau-en-polyethylene"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tube-multicouche",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tube-pvc",
+   "tuyau-en-polyethylene",
+   "tube-en-cuivre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tube-pvc",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tuyau-en-polyethylene"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "collecteur",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tube-multicouche",
+   "tube-en-cuivre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "gaine-icta",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cable-electrique",
+   "goulotte",
+   "chemin-de-cables"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cable-electrique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "goulotte",
+   "chemin-de-cables"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "goulotte",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chemin-de-cables"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "coude",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "te"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "mitigeur",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "vanne-d-arret"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bonde",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "siphon",
+   "siphon-de-sol"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "siphon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "siphon-de-sol"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "receveur-de-douche",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "caniveau-de-douche"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "colonne-de-douche",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "douche-a-l-italienne",
+   "receveur-de-douche"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "wc-a-la-turque",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "wc-suspendu"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "reservoir-de-chasse",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "bati-support"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bati-support",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "cuvette-de-wc"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "douchette-wc",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "wc-suspendu",
+   "wc-a-la-turque"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bac-a-laver",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "lavabo"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "chauffe-eau-solaire",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chauffe-eau-electrique",
+   "panneau-photovoltaique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "chauffe-eau-electrique",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "panneau-photovoltaique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "regulateur-de-charge",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "batterie-solaire"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cuve-en-polyethylene",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "reservoir-a-vessie",
+   "chateau-d-eau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "reservoir-a-vessie",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "chateau-d-eau"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "pompe-de-surface",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "pompe-immergee",
+   "pompe-de-relevage"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "disjoncteur-differentiel",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "parafoudre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "boite-de-derivation",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "boite-d-encastrement"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "plafonnier",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "suspension"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "ampoule",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "suspension",
+   "applique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "suspension",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "applique"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "reglette",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "spot-encastre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "cassette-de-climatisation",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "climatiseur-armoire",
+   "climatiseur-de-fenetre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "climatiseur-armoire",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "climatiseur-de-fenetre"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "climatiseur-de-fenetre",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "split"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "bouche-d-extraction",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "extracteur-d-air"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "diffuseur-d-air",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "extracteur-d-air"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "exutoire-de-desenfumage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "extracteur-d-air"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "hotte",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "extracteur-d-air",
+   "bouche-d-extraction"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "robinet-d-incendie-arme",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "colonne-seche",
+   "extincteur"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "colonne-seche",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "extincteur"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "poteau-d-incendie",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "colonne-seche"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "declencheur-manuel",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "detecteur-de-fumee"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "clapet-anti-retour",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "vanne-d-arret"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "case",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "case-kassena",
+   "case-a-etage",
+   "ginna"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "case-kassena",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "case-a-etage",
+   "case-a-impluvium",
+   "tata-somba",
+   "ginna"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "case-a-etage",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tata-somba",
+   "ginna"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "case-a-impluvium",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "tata-somba",
+   "ginna"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "tata-somba",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "ginna"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "concession",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "case-kassena",
+   "case-a-etage",
+   "case-a-impluvium",
+   "tata-somba"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "facade-toucouleur",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "mosquee-soudano-sahelienne",
+   "maison-coloniale",
+   "ginna"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "mosquee-soudano-sahelienne",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "maison-coloniale",
+   "ginna"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "maison-coloniale",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "ginna"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "toguna",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "paillote"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "porte-dogon",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "ginna"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "maison-de-signare",
+  "action": "modifier",
+  "incompatibles_ajout": [
+   "facade-toucouleur"
+  ],
+  "raison": "critères croisés"
+ },
+ {
+  "id": "_bilan",
+  "action": "bilan",
+  "raison": "Paires ajoutées par catégorie : Chantier et outillage 41, Extérieurs et voirie 47, Ornement 52, Réseaux et équipements 63, Afrique de l'Ouest 25 ; total 228. Tous les termes gardent au moins 3 compatibles."
+ }
+]
